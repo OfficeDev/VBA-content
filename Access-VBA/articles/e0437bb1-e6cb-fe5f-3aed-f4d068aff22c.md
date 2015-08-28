@@ -1,0 +1,25 @@
+
+# EmptyCell.LeftPadding Property (Access)
+
+ **Last modified:** July 28, 2015
+
+Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer**.
+
+## Syntax
+
+ _expression_. **LeftPadding**
+
+ _expression_A variable that represents an  **EmptyCell** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+ [EmptyCell Object](6174d31a-6c7c-8472-8a77-5487b8305837.md)
+#### Other resources
+
+
+ [EmptyCell Object Members](7a267dc1-a91b-98bf-7a48-4592bcd35610.md)

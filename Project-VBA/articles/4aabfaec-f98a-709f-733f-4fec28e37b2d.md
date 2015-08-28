@@ -1,0 +1,13 @@
+
+# Assignment.Duration5 Property (Project)
+
+ **Last modified:** July 28, 2015
+
+ Gets or sets the value of an assignment duration custom field. Read/write **Variant**.
+
+## Syntax
+
+ _expression_. **Duration5**
+
+ _expression_A variable that represents an  **Assignment** object.
+

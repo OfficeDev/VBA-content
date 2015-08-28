@@ -1,0 +1,13 @@
+
+# Resource.Baseline2Cost Property (Project)
+
+ **Last modified:** July 28, 2015
+
+Gets or sets the baseline cost for a  **Resource**. Read/write  **Variant**.
+
+## Syntax
+
+ _expression_. **Baseline2Cost**
+
+ _expression_A variable that represents a  **Resource** object.
+
