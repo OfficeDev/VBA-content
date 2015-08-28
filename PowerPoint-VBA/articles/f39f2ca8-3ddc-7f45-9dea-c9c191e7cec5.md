@@ -1,0 +1,30 @@
+
+# Presentation.GetWorkflowTemplates Method (PowerPoint)
+
+ **Last modified:** July 28, 2015
+
+Returns the Microsoft Office  **WorkflowTemplates** collection.
+
+## Syntax
+
+ _expression_. **GetWorkflowTemplates**
+
+ _expression_An expression that returns a  **Presentation** object.
+
+
+### Return Value
+
+WorkFlowTemplates
+
+
+## See also
+
+
+#### Concepts
+
+
+ [Presentation Object](ec75cf52-69f8-d35b-0a26-4a8da8a9683f.md)
+#### Other resources
+
+
+ [Presentation Object Members](b3538c7e-5fd9-d34d-ab5c-0105dbd516d0.md)
