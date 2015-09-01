@@ -1,0 +1,30 @@
+
+# TaskRequestDeclineItem.ConversationIndex Property (Outlook)
+
+ **Last modified:** July 28, 2015
+
+Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
+
+## Syntax
+
+ _expression_. **ConversationIndex**
+
+ _expression_A variable that represents a  **TaskRequestDeclineItem** object.
+
+
+## Remarks
+
+This property corresponds to the MAPI property  **PidTagConversationIndex**.
+
+
+## See also
+
+
+#### Concepts
+
+
+ [TaskRequestDeclineItem Object](e842c7c0-7943-9219-329b-30b892ab99b0.md)
+#### Other resources
+
+
+ [TaskRequestDeclineItem Object Members](3de31d0d-2444-876c-5d4d-1192851301af.md)
