@@ -1,0 +1,25 @@
+
+# Endnotes.Separator Property (Word)
+
+ **Last modified:** July 28, 2015
+
+Returns a  **Range** object that represents the endnote separator.
+
+## Syntax
+
+ _expression_. **Separator**
+
+ _expression_Required. A variable that represents an  ** [Endnotes](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)** collection.
+
+
+## See also
+
+
+#### Concepts
+
+
+ [Endnotes Collection Object](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)
+#### Other resources
+
+
+ [Endnotes Object Members](b70ef623-9c2a-6cb9-acb3-64d3f150b62a.md)

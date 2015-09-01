@@ -1,0 +1,39 @@
+
+# ChartGroup.FullCategoryCollection Method (Word)
+
+ **Last modified:** July 28, 2015
+
+Returns all the categories in the chart group, or the specified category, whether visible or filtered out.
+
+## Syntax
+
+ _expression_. **FullCategoryCollection**(Index)
+
+ _expression_A variable that represents a  **ChartGroup** object.
+
+
+### Parameters
+
+
+
+|**Name**|**Required/Optional**|**Data type**|**Description**|
+|:-----|:-----|:-----|:-----|
+|||||
+|Index|Optional|VARIANT|The index number in the full category collection of the category to return.|
+
+### Return value
+
+ **OBJECT**
+
+
+## See also
+
+
+#### Concepts
+
+
+ [ChartGroup Object](ea5a2610-9c00-9c95-8366-f9b0fcdf90be.md)
+#### Other resources
+
+
+ [ChartGroup Object Members](af92e2da-b296-f0ec-2d97-c26d0ae76afa.md)
