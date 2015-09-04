@@ -1,8 +1,6 @@
 
 # Form.BeforeInsert Event (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The BeforeInsert event occurs when the user types the first character in a new record, but before the record is actually created.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

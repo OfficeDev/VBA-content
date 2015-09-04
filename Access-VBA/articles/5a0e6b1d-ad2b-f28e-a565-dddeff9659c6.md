@@ -1,9 +1,8 @@
 
 # Report.OnLostFocus Property (Access)
 
- **Last modified:** July 28, 2015
-
 Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified report. Read/write **String**.
+
 
 ## Syntax
 

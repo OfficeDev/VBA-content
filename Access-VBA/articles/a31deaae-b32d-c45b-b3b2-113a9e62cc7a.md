@@ -1,9 +1,8 @@
 
 # FormatCondition Object (Access)
 
- **Last modified:** July 28, 2015
-
 The  **FormatCondition** object represents a conditional format of a combo box or text box control and is a member of the **FormatConditions** collection.
+
 
 ## Remarks
 

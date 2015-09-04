@@ -1,9 +1,8 @@
 
 # Report.Requery Method (Access)
 
- **Last modified:** July 28, 2015
-
 The  **Requery** method updates the data underlying the specified report by requerying the source of data for the control.
+
 
 ## Syntax
 

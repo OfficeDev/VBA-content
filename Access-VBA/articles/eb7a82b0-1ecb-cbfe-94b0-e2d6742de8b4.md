@@ -1,9 +1,8 @@
 
 # DoCmd.SearchForRecord Method (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **SearchForRecord** method to search for a specific record in a table, query, form, or report.
+
 
 ## Syntax
 

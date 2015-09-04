@@ -1,8 +1,6 @@
 
 # TabControl.MultiRow Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 You can use the  **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

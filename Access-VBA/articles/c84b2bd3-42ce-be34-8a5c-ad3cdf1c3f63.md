@@ -1,8 +1,6 @@
 
 # References.ItemAdded Event (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

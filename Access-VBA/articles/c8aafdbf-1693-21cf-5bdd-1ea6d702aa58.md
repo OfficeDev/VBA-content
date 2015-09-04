@@ -1,8 +1,6 @@
 
 # Form.ApplyFilter Event (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 Occurs when a filter is applied to a form.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

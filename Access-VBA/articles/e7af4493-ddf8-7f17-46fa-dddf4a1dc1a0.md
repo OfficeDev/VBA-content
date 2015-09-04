@@ -1,8 +1,6 @@
 
 # Page.PictureData Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 You can use the  **PictureData** property to copy the picture to another object that supports the **Picture**property. Read/write  **Variant**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

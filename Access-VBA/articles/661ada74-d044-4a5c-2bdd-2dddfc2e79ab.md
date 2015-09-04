@@ -1,9 +1,8 @@
 
 # OptionButton Object (Access)
 
- **Last modified:** July 28, 2015
-
 An option button on a form or report is a stand-alone control used to display a Yes/No value from an underlying record source.
+
 
 ## Remarks
 

@@ -1,12 +1,9 @@
 
 # Create an ADO Connection String
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Access 2013_
+ _**Applies to:** Access 2013 | Office 2013_
 
 To connect to a data source, you must specify a connection string, the parameters of which might differ for each provider and data source. ADO directly supports five arguments in a connection string. Other arguments are passed to the provider that is named in the  _Provider_ argument without any processing by ADO.
-
 
 
 |**Argument**|**Description**|

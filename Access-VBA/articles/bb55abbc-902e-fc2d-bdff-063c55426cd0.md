@@ -2,12 +2,11 @@
 # TextBox Members (Access)
 This object corresponds to a text box. Text boxes on a form or report display data from a record source.
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Events](#sectionSection0)
  [Methods](#sectionSection1)
  [Properties](#sectionSection2)
+
 
 
 ## Events

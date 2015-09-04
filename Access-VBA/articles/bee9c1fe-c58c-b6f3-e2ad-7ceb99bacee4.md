@@ -1,9 +1,8 @@
 
 # SubForm.SourceObject Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **SourceObject** property to identify the form or report that is the source of the subform or subreport on a form or report. Read/write **String**.
+
 
 ## Syntax
 

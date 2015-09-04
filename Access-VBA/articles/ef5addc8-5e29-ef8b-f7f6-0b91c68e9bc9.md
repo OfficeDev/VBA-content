@@ -1,9 +1,8 @@
 
 # CommandButton.GridlineColor Property (Access)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the color of the gridline for the specified command button. Read/write  **Long**.
+
 
 ## Syntax
 

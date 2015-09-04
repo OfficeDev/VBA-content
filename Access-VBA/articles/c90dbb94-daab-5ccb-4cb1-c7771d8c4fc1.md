@@ -1,12 +1,9 @@
 
 # Textual Criteria Expressions
 
- **Last modified:** July 29, 2015
-
- _**Applies to:** Access 2013_
+ _**Applies to:** Access 2013 | Office 2013_
 
 To specify textual criteria for an operation, you supply a text string as part of the string expression that forms the  _criteria_ argument. This text string must be enclosed in single quotation marks (').
-
 
  **Note**  The single quotation marks indicate to Access that the  _criteria_ argument contains a string within a string.
 

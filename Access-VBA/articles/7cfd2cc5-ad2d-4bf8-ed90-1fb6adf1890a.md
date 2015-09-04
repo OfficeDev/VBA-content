@@ -1,8 +1,6 @@
 
 # DoCmd.BrowseTo Method (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

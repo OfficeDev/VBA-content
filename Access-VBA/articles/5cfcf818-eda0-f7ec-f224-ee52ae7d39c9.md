@@ -1,8 +1,6 @@
 
 # Form.DatasheetFontHeight Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 You can use the  **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

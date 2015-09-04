@@ -1,8 +1,6 @@
 
 # Report.MoveLayout Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

@@ -1,8 +1,6 @@
 
 # Form.AllowDeletions Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 You can use the  **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

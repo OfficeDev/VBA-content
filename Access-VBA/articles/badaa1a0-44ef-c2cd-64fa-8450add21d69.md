@@ -1,8 +1,6 @@
 
 # Report.Top Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Long**. .
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

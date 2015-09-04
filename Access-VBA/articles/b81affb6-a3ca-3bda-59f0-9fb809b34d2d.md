@@ -1,8 +1,6 @@
 
 # Module.ProcBodyLine Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

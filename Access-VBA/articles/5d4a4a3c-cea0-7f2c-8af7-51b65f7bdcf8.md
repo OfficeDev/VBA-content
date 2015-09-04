@@ -1,9 +1,8 @@
 
 # DoCmd.RunCommand Method (Access)
 
- **Last modified:** July 28, 2015
-
 The  **RunCommand** method runs a built-in command.
+
 
 ## Syntax
 

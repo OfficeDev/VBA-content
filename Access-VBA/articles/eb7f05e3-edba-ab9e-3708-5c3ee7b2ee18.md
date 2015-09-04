@@ -1,8 +1,6 @@
 
 # Report.OnActivate Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 Sets or returns the value of the  **On Activate** box in the **Properties** window of a form or report. Read/write **String**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

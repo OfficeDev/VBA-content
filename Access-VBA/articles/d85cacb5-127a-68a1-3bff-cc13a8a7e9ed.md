@@ -1,8 +1,6 @@
 
 # Module.ProcCountLines Property (Access)
 
- **Last modified:** July 28, 2015
-
  **In this article**
  [Syntax](#sectionSection0)
  [Remarks](#sectionSection1)
@@ -10,7 +8,6 @@
 
 
 The  **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
-
 
 ## Syntax
 <a name="sectionSection0"> </a>

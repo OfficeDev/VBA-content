@@ -1,9 +1,8 @@
 
 # Image.GridlineStyleRight Property (Access)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the right gridline style of the specified image control. Read/write  **Byte**.
+
 
 ## Syntax
 

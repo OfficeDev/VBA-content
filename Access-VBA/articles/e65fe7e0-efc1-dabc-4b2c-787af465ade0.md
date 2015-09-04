@@ -1,9 +1,8 @@
 
 # Form.Close Event (Access)
 
- **Last modified:** July 28, 2015
-
 The  **Close** event occurs when a form is closed and removed from the screen.
+
 
 ## Syntax
 
@@ -25,7 +24,7 @@ The  **Close** event occurs after the **Unload**event, which is triggered after 
 
 When you close a form, the following events occur in this order:
 
- **Unload** â†’ **Deactivate** â†’ **Close**
+ **Unload** → **Deactivate** → **Close**
 
 When the  **Close** event occurs, you can open another window or request the user's name to make a log entry indicating who used the form or report.
 

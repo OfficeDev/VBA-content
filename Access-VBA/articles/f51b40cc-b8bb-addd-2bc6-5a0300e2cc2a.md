@@ -1,9 +1,8 @@
 
 # AcImportXMLOption Enumeration (Access)
 
- **Last modified:** July 28, 2015
-
 Specifies the action to take when using the  **ImportXML** method to import data from an XML file.
+
 
 
 |**Name**|**Value**|**Description**|

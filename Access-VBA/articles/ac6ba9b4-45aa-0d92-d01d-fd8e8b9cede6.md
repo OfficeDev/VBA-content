@@ -1,9 +1,8 @@
 
 # NavigationButton Object (Access)
 
- **Last modified:** July 28, 2015
-
 This object represents a navigation button in a navigation control on a form.
+
 
 ## Remarks
 

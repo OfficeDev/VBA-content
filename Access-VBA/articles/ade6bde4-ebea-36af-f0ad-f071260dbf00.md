@@ -1,9 +1,8 @@
 
 # Attachment.RightPadding Property (Access)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the amount of space (in inches) between the attachment and its right gridline. Read/write  **Integer**.
+
 
 ## Syntax
 
