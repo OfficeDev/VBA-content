@@ -1,16 +1,11 @@
 
 # DoCmd.BrowseTo Method (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BrowseTo**( **_ObjectType_**,  **_ObjectName_**,  **_PathtoSubformControl_**,  **_WhereCondition_**,  **_Page_**,  **_DataMode_**)
 
@@ -31,7 +26,6 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 |DataMode|Optional| ** [AcFormOpenDataMode](24c39abb-154c-39cd-3097-77be75fe917c.md)**|If specified, the data entry mode of the form.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  **BrowseTo** method to navigate between objects in place. You can also change the source object of a subform control by specifying the PathToSubFormControl argument. You can use **BrowseTo** to navigate from form1 to form2 without opening up a new window.
 
@@ -43,7 +37,6 @@ In this example, the Main Form is the top level form in the Access client applic
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following code example opens the "EventDS" form in place in edit mode in the "NavigationSubform" subform control of the "Main" form.
 
@@ -59,7 +52,6 @@ DataMode:=acFormEdit
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

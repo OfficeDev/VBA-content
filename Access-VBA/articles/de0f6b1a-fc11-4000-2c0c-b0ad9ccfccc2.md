@@ -1,16 +1,11 @@
 
 # Form.BeforeInsert Event (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The BeforeInsert event occurs when the user types the first character in a new record, but before the record is actually created.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BeforeInsert**( **_Cancel_** )
 
@@ -26,7 +21,6 @@ The BeforeInsert event occurs when the user types the first character in a new r
 |Cancel|Required| **Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting theCancel argument to **True** (-1) cancels the **BeforeInsert** event.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
  **Note**  Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
@@ -53,7 +47,6 @@ If the first character in a new record is typed into a text box or combo box, th
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example shows how you can use a  **BeforeInsert** event procedure to verify that the user wants to create a new record, and an **AfterInsert** event procedure to requery the record source for the Employees form after a record has been added.
 
@@ -77,7 +70,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

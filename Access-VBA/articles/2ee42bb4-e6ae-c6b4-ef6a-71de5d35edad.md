@@ -1,16 +1,11 @@
 
 # TextBox.AsianLineBreak Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 Returns or sets a  **Boolean** indicating whether line breaks in text boxes follow rules governing East Asian languages. **True** to control line breaks based on East Asian language rules. Read/write.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AsianLineBreak**
 
@@ -18,13 +13,11 @@ Returns or sets a  **Boolean** indicating whether line breaks in text boxes foll
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Setting the  **AsianLineBreak** property to **True** moves any punctuation marks and closing parentheses at the beginning of a line to the end of the previous line, and moves opening parentheses at the end of a line to the beginning of the next line.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets all the text boxes on the specified form to break lines according to East Asian language rules.
 
@@ -41,7 +34,6 @@ Next ctlLoop
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -2,6 +2,9 @@
 # WebBrowserControl Events (Access)
 This object has the following events:
 
+ **Last modified:** July 28, 2015
+
+
 ## Events
 
 

@@ -1,16 +1,11 @@
 
 # Report.ScaleWidth Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **ScaleWidth** property to specify the number of units for the horizontal measurement of the page when the ** [Circle](4f5d24e2-75bf-3586-7e0d-0902adee61a6.md)**,  ** [Line](9e640e37-c055-3dc3-b70e-0805cdc13561.md)**,  ** [Pset](951a262b-b17b-9b95-b5f2-922d4aff9ce9.md)**, or  ** [Print](6f8523cc-7b17-ec27-e2c9-a7ae3d5a8c3f.md)**method is used while a report is printed or previewed, or its output is saved to a file. Read/write  **Single**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ScaleWidth**
 
@@ -18,7 +13,6 @@ You can use the  **ScaleWidth** property to specify the number of units for the 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The default setting is the internal width of a report page in twips.
 
@@ -44,7 +38,6 @@ You can also use the  **Scale**method to set the  **ScaleHeight**,  **ScaleWidth
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
@@ -79,7 +72,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,16 +1,11 @@
 
 # TabControl.MultiRow Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **MultiRow**
 
@@ -18,7 +13,6 @@ You can use the  **MultiRow** property to specify or determine whether a tab con
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **MultiRow** property uses the following settings.
 
@@ -36,7 +30,6 @@ When the  **MultiRow** property is set to **False** and the width of the tabs ex
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 To return the value of the  **MultiRow** property for a tab control named "Details" on the "Order Entry" form, you can use the following:
 
@@ -57,7 +50,6 @@ Forms("Order Entry").Controls("Details").MultiRow = True
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

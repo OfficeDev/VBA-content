@@ -1,8 +1,9 @@
 
 # ComboBox.BorderWidth Property (Access)
 
-You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
+ **Last modified:** July 28, 2015
 
+You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 ## Syntax
 

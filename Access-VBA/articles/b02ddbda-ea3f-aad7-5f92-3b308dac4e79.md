@@ -1,16 +1,11 @@
 
 # Report.MoveLayout Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **MoveLayout**
 
@@ -18,7 +13,6 @@ The  **MoveLayout** property specifies whether Microsoft Access should move to t
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **MoveLayout** property uses the following settings.
 
@@ -34,7 +28,6 @@ Microsoft Access sets this property to  **True** before each section's **Format*
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets the  **MoveLayout** property for the "Purchase Order" report to its default setting.
 
@@ -46,7 +39,6 @@ Reports("Purchase Order").MoveLayout = True
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

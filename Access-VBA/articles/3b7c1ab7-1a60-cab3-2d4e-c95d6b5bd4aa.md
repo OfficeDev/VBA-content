@@ -1,16 +1,11 @@
 
 # DoCmd.PrintOut Method (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PrintOut**( **_PrintRange_**,  **_PageFrom_**,  **_PageTo_**,  **_PrintQuality_**,  **_Copies_**,  **_CollateCopies_**)
 
@@ -31,13 +26,11 @@ The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 |CollateCopies|Optional| **Variant**|Use  **True** (-1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default ( **True**) is assumed.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use the PrintOut action to print the active object in the open database. You can print datasheets, reports, forms, data access pages, and modules.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example prints two collated copies of the first four pages of the active form or datasheet:
 
@@ -48,7 +41,6 @@ DoCmd.PrintOut acPages, 1, 4, , 2
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

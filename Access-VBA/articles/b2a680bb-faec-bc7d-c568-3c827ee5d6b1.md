@@ -1,8 +1,9 @@
 
 # Attachment.LostFocus Event (Access)
 
-The  **LostFocus** event occurs when the specified object receives the focus.
+ **Last modified:** July 28, 2015
 
+The  **LostFocus** event occurs when the specified object receives the focus.
 
 ## Syntax
 
@@ -32,27 +33,27 @@ If you use the mouse to move the focus from a control on a main form to a contro
 
  **Exit** (for the control on the main form)
 
-ß
+ÃŸ
 
  **LostFocus** (for the control on the main form)
 
-ß
+ÃŸ
 
  **Enter** (for the subform control)
 
-ß
+ÃŸ
 
  **Exit** (for the control on the subform that had the focus)
 
-ß
+ÃŸ
 
  **LostFocus** (for the control on the subform that had the focus)
 
-ß
+ÃŸ
 
  **Enter** (for the control on the subform to which the focus moved)
 
-ß
+ÃŸ
 
  **GotFocus** (for the control on the subform to which the focus moved)
 

@@ -1,8 +1,9 @@
 
 # Control.HorizontalAnchor Property (Access)
 
-Gets or sets an  ** [AcHorizontalAnchor](2b9f0574-252d-7957-d25d-cb382d2cee73.md)** constant that indicates how the control is anchored horizontally within its layout. Read/write.
+ **Last modified:** July 28, 2015
 
+Gets or sets an  ** [AcHorizontalAnchor](2b9f0574-252d-7957-d25d-cb382d2cee73.md)** constant that indicates how the control is anchored horizontally within its layout. Read/write.
 
 ## Syntax
 

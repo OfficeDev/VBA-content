@@ -1,8 +1,9 @@
 
 # Screen.ActiveReport Property (Access)
 
-You can use the  **ActiveReport** property together with the ** [Screen](00743775-071b-9ccd-7687-f3b992e9346e.md)**object to identify or refer to the report that has the focus. Read-only  **Report** object.
+ **Last modified:** July 28, 2015
 
+You can use the  **ActiveReport** property together with the ** [Screen](00743775-071b-9ccd-7687-f3b992e9346e.md)**object to identify or refer to the report that has the focus. Read-only  **Report** object.
 
 ## Syntax
 

@@ -1,8 +1,9 @@
 
 # MacroError Object (Access)
 
-Represents the properties of a run-time error that occurs in a macro.
+ **Last modified:** July 28, 2015
 
+Represents the properties of a run-time error that occurs in a macro.
 
 ## Remarks
 

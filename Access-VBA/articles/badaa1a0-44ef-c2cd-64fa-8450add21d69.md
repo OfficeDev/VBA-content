@@ -1,16 +1,11 @@
 
 # Report.Top Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **Top** property to specify an object's location on a form or report. Read/write **Long**. .
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Top**
 
@@ -18,7 +13,6 @@ You can use the  **Top** property to specify an object's location on a form or r
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
 
@@ -26,7 +20,6 @@ For reports, the  **Top** property setting is the amount the current section is 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example checks the  **Top** property setting for the current report. If the value is less than the minimum margin setting, the **NextRecord** and **PrintSection** properties are set to **False**. The section doesn't advance to the next record, and the next section isn't printed.
 
@@ -45,7 +38,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

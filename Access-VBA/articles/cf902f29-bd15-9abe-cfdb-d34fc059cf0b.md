@@ -1,8 +1,9 @@
 
 # ObjectFrame.GridlineStyleTop Property (Access)
 
-Gets or sets the top gridline style of the specified frame. Read/write  **Byte**.
+ **Last modified:** July 28, 2015
 
+Gets or sets the top gridline style of the specified frame. Read/write  **Byte**.
 
 ## Syntax
 

@@ -1,16 +1,11 @@
 
 # NavigationControl.Undo Event (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 Occurs when the user undoes a change.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Undo**( **_Cancel_**, )
 
@@ -31,13 +26,11 @@ nothing
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The Undo event for controls occurs whenever the user returns a control to its original state by clicking the  **Undo Field/Record** button on the command bar, clicking the **Undo** button, pressing the ESC key, or calling the **Undo** method of the specified control. The control needs to have focus in all three cases. The event does not occur if the user clicks the **Undo Typing** button on the command bar.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example demonstrates the syntax for a subroutine that traps the Undo event for a form.
 
@@ -61,7 +54,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

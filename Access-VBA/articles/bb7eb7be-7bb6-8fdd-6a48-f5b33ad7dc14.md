@@ -1,16 +1,11 @@
 
 # Form.OnCurrent Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 Sets or returns the value of the  **On Current** box in the **Properties** window of a form. Read/write **String**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **OnCurrent**
 
@@ -18,7 +13,6 @@ Sets or returns the value of the  **On Current** box in the **Properties** windo
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
 
@@ -37,7 +31,6 @@ If the  **On Current** box is blank, the property value is an empty string.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example associates the  **Current** event with the macro "Current_Macro" for the "Order Entry" form.
 
@@ -49,7 +42,6 @@ Forms("Order Entry").OnDeactivate = "Current_Macro"
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

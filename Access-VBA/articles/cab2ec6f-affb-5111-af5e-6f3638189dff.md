@@ -1,8 +1,9 @@
 
 # ListBox.AllowValueListEdits Property (Access)
 
-Gets or sets whether the  **Edit List Items** command is available when the user right-clicks a list box. Read/write **Boolean**.
+ **Last modified:** July 28, 2015
 
+Gets or sets whether the  **Edit List Items** command is available when the user right-clicks a list box. Read/write **Boolean**.
 
 ## Syntax
 

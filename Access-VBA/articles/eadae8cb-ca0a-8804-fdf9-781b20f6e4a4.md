@@ -1,8 +1,9 @@
 
 # CurrentData.AllStoredProcedures Property (Access)
 
-You can use the  **AllStoredProcedures** property to reference the ** [AllStoredProcedures](896f4c2c-273c-2849-0f06-d75fa515c44a.md)**collection and its related properties. Read-only  **AllStoredProcedures** object.
+ **Last modified:** July 28, 2015
 
+You can use the  **AllStoredProcedures** property to reference the ** [AllStoredProcedures](896f4c2c-273c-2849-0f06-d75fa515c44a.md)**collection and its related properties. Read-only  **AllStoredProcedures** object.
 
 ## Syntax
 

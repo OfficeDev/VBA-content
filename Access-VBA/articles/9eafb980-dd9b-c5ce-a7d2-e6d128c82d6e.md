@@ -1,8 +1,9 @@
 
 # AcNewDatabaseFormat Enumeration (Access)
 
-Used with the  ** [NewCurrentDatabase](6934a77e-5fa0-7e43-e159-2ffc2a944dca.md)** method to specify the database format of the newly created database.
+ **Last modified:** July 28, 2015
 
+Used with the  ** [NewCurrentDatabase](6934a77e-5fa0-7e43-e159-2ffc2a944dca.md)** method to specify the database format of the newly created database.
 
 
 |**Name**|**Value**|**Description**|

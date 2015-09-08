@@ -1,8 +1,9 @@
 
 # Printer.TopMargin Property (Access)
 
-Along with the  **LeftMargin**,  **RightMargin**, and  **BottomMargin** properties, specifies the margins for a printed page. Read/write **Long**.
+ **Last modified:** July 28, 2015
 
+Along with the  **LeftMargin**,  **RightMargin**, and  **BottomMargin** properties, specifies the margins for a printed page. Read/write **Long**.
 
 ## Syntax
 

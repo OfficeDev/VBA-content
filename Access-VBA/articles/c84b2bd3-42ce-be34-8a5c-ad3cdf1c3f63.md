@@ -1,16 +1,11 @@
 
 # References.ItemAdded Event (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ItemAdded**( **_Reference_**, )
 
@@ -26,7 +21,6 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 |Reference|Required| **Reference**|The reference that was added to the project.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
 - The  **ItemAdded** event applies to the ** [References](ac020382-4ece-f138-d1b9-d05b0fe0f523.md)**collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the  **ItemAdded** event procedure, you must use a special syntax.
@@ -37,7 +31,6 @@ This event occurs only when you add a reference from code. It doesn't occur when
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example includes event procedures for the  **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
 
@@ -100,7 +93,6 @@ End Function
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,16 +1,11 @@
 
 # ObjectFrame.BorderTint Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BorderTint**
 
@@ -18,7 +13,6 @@ Gets or sets the tint that is applied to the theme color in the  **BorderColor**
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **BorderTint** property contains a numeric expression that can be used to lighten the theme color in the **BorderColor** property. The default value of the **BorderTint** property is 100, which is neutral, and does not change the theme color. To lighten the color, first determine the percentage by which to lighten from 1 to 100, then subtract that value as a whole number from 100 and use the remainder. For example, to lighten the theme color by 75%, subtract 75 from 100 and use the remainder, which is 25.
 
@@ -26,7 +20,6 @@ This property is not surfaced in the property sheet.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following code example lightens  **BorderColor** by 75%.
 
@@ -37,7 +30,6 @@ Me.ctl.BorderTint=25
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

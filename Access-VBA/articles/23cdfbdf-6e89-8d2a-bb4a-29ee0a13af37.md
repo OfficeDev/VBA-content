@@ -1,8 +1,9 @@
 
 # OptionButton.GridlineColor Property (Access)
 
-Gets or sets the color of the gridline for the specified option button. Read/write  **Long**.
+ **Last modified:** July 28, 2015
 
+Gets or sets the color of the gridline for the specified option button. Read/write  **Long**.
 
 ## Syntax
 

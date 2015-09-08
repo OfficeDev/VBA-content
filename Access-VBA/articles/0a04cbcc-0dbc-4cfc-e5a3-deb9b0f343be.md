@@ -1,17 +1,11 @@
 
 # Application.DLast Method (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
- [About the Contributors](#AboutContributors)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **DLast** function to return a random record from a particular field in a table or query when you simply need any value from that field. .
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DLast**( **_Expr_**,  **_Domain_**,  **_Criteria_**)
 
@@ -34,7 +28,6 @@ Variant
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
 
@@ -43,7 +36,6 @@ Variant
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 

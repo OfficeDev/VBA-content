@@ -1,16 +1,11 @@
 
 # Page.PictureData Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **PictureData** property to copy the picture to another object that supports the **Picture**property. Read/write  **Variant**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PictureData**
 
@@ -18,7 +13,6 @@ You can use the  **PictureData** property to copy the picture to another object 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **PictureData** property setting is the **PictureData** property of another control, form, or report.
 
@@ -28,7 +22,6 @@ You can also use the  **PictureData** property together with the **Timer**event 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example uses three image controls to animate a butterfly image across a form. The Hidden1 image control contains a picture of a butterfly with its wings up and the Hidden2 image control contains a picture of the same butterfly with its wings down. Both image controls have their  **Visible** property set to **False**. The  **TimerInterval** property is set to 200. Each time the Timer event occurs, the picture in the image control Visible1 is changed by using the **PictureData** property of the hidden image controls, and the visible image control is moved 200 twips to the right. The visible image control is moved back to the left side of the form when its **Left** property value is greater than the width of the form stored in the public variable `gfrmWidth`. The value of  `gfrmWidth` is set to `Me.Width` in the form's open event.
 
@@ -56,7 +49,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

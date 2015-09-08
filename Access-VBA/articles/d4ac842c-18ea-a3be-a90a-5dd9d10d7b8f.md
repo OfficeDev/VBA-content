@@ -1,8 +1,9 @@
 
 # TextBox.CanShrink Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean**.
+ **Last modified:** July 28, 2015
 
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean**.
 
 ## Syntax
 

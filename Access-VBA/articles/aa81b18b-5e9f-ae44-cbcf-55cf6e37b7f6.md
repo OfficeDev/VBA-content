@@ -1,8 +1,9 @@
 
 # TempVars Object (Access)
 
-Represents the collection of  ** [TempVar](4a0429e6-bcfa-7a8b-7030-6e88c2f1a71d.md)** objects.
+ **Last modified:** July 28, 2015
 
+Represents the collection of  ** [TempVar](4a0429e6-bcfa-7a8b-7030-6e88c2f1a71d.md)** objects.
 
 ## Remarks
 

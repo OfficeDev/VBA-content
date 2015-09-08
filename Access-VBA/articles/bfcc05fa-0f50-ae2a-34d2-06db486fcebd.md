@@ -1,8 +1,9 @@
 
 # DependencyInfo.InsufficientPermissions Property (Access)
 
-Returns a  ** [DependencyObjects](f146e414-ffda-d69f-73f2-992ab660c6c8.md)** collection that contains a collection of objects to which you don't have sufficient permissions to check for dependencies. Read-only.
+ **Last modified:** July 28, 2015
 
+Returns a  ** [DependencyObjects](f146e414-ffda-d69f-73f2-992ab660c6c8.md)** collection that contains a collection of objects to which you don't have sufficient permissions to check for dependencies. Read-only.
 
 ## Syntax
 

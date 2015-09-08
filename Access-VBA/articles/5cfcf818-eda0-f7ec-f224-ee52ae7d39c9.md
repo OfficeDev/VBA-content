@@ -1,16 +1,11 @@
 
 # Form.DatasheetFontHeight Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DatasheetFontHeight**
 
@@ -18,7 +13,6 @@ You can use the  **DatasheetFontHeight** property to specify the font point size
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is only available within a Microsoft Access database.
 
@@ -38,7 +32,6 @@ The following table contains the properties that don't exist in the DAO  **Prope
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the Products table.
 
@@ -97,7 +90,6 @@ Forms!Products.DatasheetFontWeight = 500
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

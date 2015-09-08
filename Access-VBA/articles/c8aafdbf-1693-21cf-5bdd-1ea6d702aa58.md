@@ -1,16 +1,11 @@
 
 # Form.ApplyFilter Event (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 Occurs when a filter is applied to a form.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ApplyFilter**( **_Cancel_**,  **_ApplyType_**)
 
@@ -27,7 +22,6 @@ Occurs when a filter is applied to a form.
 |ApplyType|Required| **Integer**|Returns the type of filter that was applied.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To run a macro or event procedure when this event occurs, set the  ** [OnApplyFilter](5e147a50-5516-f6d3-c1c9-e2c4522cb804.md)** property to the name of the macro or to [Event Procedure].
 
@@ -54,7 +48,6 @@ The actions in the  **ApplyFilter** macro or event procedure occur before the fi
     
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example shows how to hide the AmountDue, Tax, and TotalDue controls on an Orders form when the applied filter restricts the records to only those orders that have been paid for.
 
@@ -83,7 +76,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

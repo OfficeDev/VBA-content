@@ -1,8 +1,9 @@
 
 # EmptyCell.HelpContextId Property (Access)
 
-The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
+ **Last modified:** July 28, 2015
 
+The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
 
 ## Syntax
 

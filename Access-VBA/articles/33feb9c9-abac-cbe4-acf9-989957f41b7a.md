@@ -1,8 +1,9 @@
 
 # AccessObject.GetDependencyInfo Method (Access)
 
- Returns a ** [DependencyInfo](46ccdc3f-0101-5d81-8c01-ac37f139a2bc.md)** object that represents the database objects that are dependent upon the specified object.
+ **Last modified:** July 28, 2015
 
+ Returns a ** [DependencyInfo](46ccdc3f-0101-5d81-8c01-ac37f139a2bc.md)** object that represents the database objects that are dependent upon the specified object.
 
 ## Syntax
 

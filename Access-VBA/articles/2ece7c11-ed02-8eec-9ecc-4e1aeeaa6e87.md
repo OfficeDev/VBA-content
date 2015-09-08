@@ -1,8 +1,9 @@
 
 # Hyperlink Object (Access)
 
-The  **Hyperlink** object represents a hyperlink associated with a control on a form, report, or data access page.
+ **Last modified:** July 28, 2015
 
+The  **Hyperlink** object represents a hyperlink associated with a control on a form, report, or data access page.
 
 ## Remarks
 

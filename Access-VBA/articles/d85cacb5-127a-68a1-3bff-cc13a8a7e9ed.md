@@ -1,16 +1,11 @@
 
 # Module.ProcCountLines Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ProcCountLines**( **_ProcName_**,  **_ProcKind_**)
 
@@ -27,7 +22,6 @@ The  **ProcCountLines** property returns the number of lines in a specified proc
 |ProcKind|Required| **vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The ProcKind argument can be one of the following **vbext_ProcKind** constants:
 
@@ -59,7 +53,6 @@ The  **ProcCountLines** property returns the number of lines in a procedure, beg
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays a message indicating the number of lines in a given procedure.
 
@@ -77,7 +70,6 @@ MsgBox "There are " &amp; Forms(strForm).Module.ProcCountLines(strProc, vbext_pk
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

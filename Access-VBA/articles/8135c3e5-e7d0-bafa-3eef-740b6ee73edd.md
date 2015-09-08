@@ -1,8 +1,9 @@
 
 # Attachment.OnKeyDown Property (Access)
 
-Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
+ **Last modified:** July 28, 2015
 
+Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
 
 ## Syntax
 

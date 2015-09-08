@@ -1,16 +1,11 @@
 
 # Report.TextHeight Method (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **TextHeight** method returns the height of a text string as it would be printed in the current font of a ** [Report](6f77c1b4-a9ce-7caa-204c-fe0755c6f9df.md)**object.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TextHeight**( **_Expr_**)
 
@@ -31,7 +26,6 @@ Single
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use the  **TextHeight** method to determine the amount of vertical space a text string will require in the current font when the report is formatted and printed. For example, a text string formatted in 9-point Arial will require a different amount of space than one formatted in 12-point Courier. To determine the current font and font size for text in a report, check the settings for the report's **FontName**and  **FontSize**properties.
 
@@ -41,7 +35,6 @@ If the strexpr argument contains embedded carriage returns, the **TextHeight** m
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example uses the  **TextHeight** and **TextWidth** methods to determine the amount of vertical and horizontal space required to print a text string in the report's current font.
 
@@ -68,7 +61,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,8 +1,9 @@
 
 # SharedResource Object (Access)
 
-Represents a Microsoft Office theme or image that is available as a shared resource in the database.
+ **Last modified:** July 28, 2015
 
+Represents a Microsoft Office theme or image that is available as a shared resource in the database.
 
 ## Remarks
 

@@ -1,16 +1,11 @@
 
 # Form.AllowDeletions Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 You can use the  **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AllowDeletions**
 
@@ -18,7 +13,6 @@ You can use the  **AllowDeletions** property to specify whether a user can delet
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can set this property to No to allow users to view and edit existing records but not to delete them. When  **AllowDeletions** is set to Yes, records may be deleted so long as existing referential integrity rules aren't broken.
 
@@ -44,7 +38,6 @@ To prevent the OpenForm action from overriding any of these existing property se
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example examines the  **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed and the text box controls' **SpecialEffect** property is set to Normal and the **AllowAdditions**,  **AllowDeletions**, and  **AllowEdits** properties are all set to **True**, the  `intCanEdit` variable is toggled to allow editing of the underlying data.
 
@@ -96,7 +89,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

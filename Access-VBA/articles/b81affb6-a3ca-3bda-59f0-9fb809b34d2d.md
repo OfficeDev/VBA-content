@@ -1,16 +1,11 @@
 
 # Module.ProcBodyLine Property (Access)
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ProcBodyLine**( **_ProcName_**,  **_ProcKind_**)
 
@@ -27,7 +22,6 @@ The  **ProcBodyLine** property returns the number of the line at which the body 
 |ProcKind|Required| **vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The ProcKind argument can be one of the following **vbext_ProcKind** constants:
 
@@ -59,7 +53,6 @@ The  **ProcBodyLine** property returns a number that identifies the line on whic
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays a message indicating on which line the procedure definition begins.
 
@@ -77,7 +70,6 @@ MsgBox "The definition of the " &amp; strProc &amp; " procedure begins on line "
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

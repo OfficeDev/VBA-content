@@ -1,8 +1,9 @@
 
 # Application.DDERequest Method (Access)
 
-You can use the  **DDERequest** function over an open dynamic data exchange (DDE) channel to request an item of information from a DDE server application.
+ **Last modified:** July 28, 2015
 
+You can use the  **DDERequest** function over an open dynamic data exchange (DDE) channel to request an item of information from a DDE server application.
 
 ## Syntax
 

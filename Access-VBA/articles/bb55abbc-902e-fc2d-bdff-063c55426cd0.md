@@ -2,15 +2,10 @@
 # TextBox Members (Access)
 This object corresponds to a text box. Text boxes on a form or report display data from a record source.
 
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
+ **Last modified:** July 28, 2015
 
 
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -35,7 +30,6 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [Undo](ee009e53-41be-0c9a-a92d-15572f6213b6.md)|Occurs when the user undoes a change.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -48,7 +42,6 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [Undo](b019355a-7b78-4f03-878f-d2830c20117d.md)|You can use the  **Undo** method to reset a control or form when its value has been changed.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

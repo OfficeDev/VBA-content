@@ -1,6 +1,9 @@
 
 # SmartTagProperties Methods (Access)
 
+ **Last modified:** July 28, 2015
+
+
 ## Methods
 
 
