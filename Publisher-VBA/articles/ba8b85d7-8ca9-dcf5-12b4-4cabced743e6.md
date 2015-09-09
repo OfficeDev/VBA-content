@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Saves the specified publication with a new name or format.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SaveAs**( **_Filename_**,  **_Format_**,  **_AddToRecentFiles_**)
 
@@ -31,7 +26,6 @@ Saves the specified publication with a new name or format.
 |AddToRecentFiles|Optional| **Boolean**| **True** to add the publication to the list of recently used files on the File menu. Default is **True**.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The Format parameter can be one of the  **PbFileFormat** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbFilePublication**.
 
@@ -50,7 +44,6 @@ Calling the  **SaveAs** method always performs saves in the foreground regardles
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example saves the active publication as a Microsoft Publisher 2000 file.
 

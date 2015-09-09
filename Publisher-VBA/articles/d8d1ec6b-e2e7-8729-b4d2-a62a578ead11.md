@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns a  **Long** that represents the type of a shape, range of shapes, or property, type, or value of a wizard. Read-only.
+
 
 ## Syntax
 

@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
  **True** if the chart has a legend. Read/write **Boolean**.
+
 
 ## Example
 

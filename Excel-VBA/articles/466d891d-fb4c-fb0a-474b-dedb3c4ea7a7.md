@@ -3,18 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
- [About the Contributor](#AboutContributor)
-
-
 Saves changes to the specified workbook.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Save**
 
@@ -22,7 +13,6 @@ Saves changes to the specified workbook.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To open a workbook file, use the  ** [Open](1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0.md)** method.
 
@@ -32,7 +22,6 @@ The first time you save a workbook, use the  ** [SaveAs](fbc3ce55-27a3-aa07-3fdb
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example saves the active workbook.
 

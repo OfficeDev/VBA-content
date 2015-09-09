@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets a  **Variant** specifying an array of strings that represent included items in a manual filter applied to a PivotField. Read/write.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **VisibleItemsList**
 
@@ -21,13 +13,11 @@ Returns or sets a  **Variant** specifying an array of strings that represent inc
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is applicable to OLAP PivotTables only.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example shows manual, inclusive filtering in an OLAP PivotTable.
 
@@ -48,7 +38,6 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

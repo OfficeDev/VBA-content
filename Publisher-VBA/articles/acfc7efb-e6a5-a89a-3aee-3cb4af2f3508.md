@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Represents the Microsoft Publisher application. The  **Application** object includes properties and methods that return top-level objects. For example, the **ActiveDocument** property returns a **Document** object.
+
 
 ## Remarks
 

@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Microsoft Excel displays certain alerts and messages while a macro is running. Read/write **Boolean**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DisplayAlerts**
 
@@ -21,7 +13,6 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The default value is  **True**. Set this property to  **False** to suppress prompts and alert messages while a macro is running; when a message requires a response, Microsoft Excel chooses the default response.
 
@@ -34,7 +25,6 @@ If you set this property to  **False**, Microsoft Excel sets this property to  *
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example closes the Workbook Book1.xls and does not prompt the user to save changes. Changes to Book1.xls are not saved.
 
@@ -63,7 +53,6 @@ Application.DisplayAlerts = True
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

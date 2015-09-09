@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [ListRows](e4035209-00a2-ea16-a3b9-2d23afe0b88a.md)** object that represents all the rows of data in the ** [ListObject](46de6c4f-8ce0-0c7d-da59-6e52f5eab612.md)** object. Read-only.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ListRows**
 
@@ -21,13 +13,11 @@ Returns a  ** [ListRows](e4035209-00a2-ea16-a3b9-2d23afe0b88a.md)** object that 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **ListRows** object returned does not include the header, total, or Insert rows.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example deletes a row specified by number in the  **ListRows** collection that is created by a call to the **ListRows** property.
 
@@ -51,7 +41,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

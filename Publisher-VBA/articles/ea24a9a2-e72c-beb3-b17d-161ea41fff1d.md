@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Builds a freeform object. Returns a  [FreeformBuilder](542df9f7-f636-a98e-01de-11005b5797cc.md)object that represents the freeform as it is being built.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BuildFreeform**( **_EditingType_**,  **_X1_**,  **_Y1_**)
 
@@ -36,7 +31,6 @@ FreeformBuilder
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The EditingType parameter can be one of the following  **MsoEditingType** constants declared in the Microsoft Office type library.
 
@@ -46,7 +40,6 @@ The EditingType parameter can be one of the following  **MsoEditingType** consta
 | **msoEditingCorner**|Adds a corner node.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 For the X1 and Y1 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 

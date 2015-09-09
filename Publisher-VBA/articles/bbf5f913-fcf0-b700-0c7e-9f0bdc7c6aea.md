@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Adds a new  ** [Shape](666cb7f0-62a8-f419-9838-007ef29506ee.md)** object representing a borderless line callout to the specified ** [Shapes](52e069a6-d54b-a11a-1cba-96174329cb02.md)** collection.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AddCallout**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
@@ -38,7 +33,6 @@ Shape
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
@@ -52,7 +46,6 @@ The Type parameter can be one of these  **MsoCalloutType** constants.
 | **msoCalloutFour**|A three-segment callout line.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example adds a new freely-rotating callout line to the first page of the active publication.
 

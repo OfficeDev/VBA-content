@@ -4,6 +4,7 @@ Represents a single table column. The  **Column** object is a member of the ** [
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
 
 ## Methods
 

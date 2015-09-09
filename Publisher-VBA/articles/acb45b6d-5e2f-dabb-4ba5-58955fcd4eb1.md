@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Property value](#sectionSection1)
- [Remarks](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TextureHorizontalScale**
 
@@ -21,19 +16,16 @@ Returns or sets a  **Single** that specifies the horizontal scaling factor for t
 
 
 ## Property value
-<a name="sectionSection1"> </a>
 
  **FLOAT**
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 The setting of the  **TextureHorizontalScale** property corresponds to the setting of the **Scale X** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

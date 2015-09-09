@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ShowAutoFilter**
 
@@ -21,13 +13,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  **ShowAutoFilter** property defaults to **True** for a new **ListObject** object.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays the setting of the  **ShowAutoFilter** property the default list in Sheet 1 of the active workbook.
 
@@ -45,7 +35,6 @@ The following example displays the setting of the  **ShowAutoFilter** property t
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

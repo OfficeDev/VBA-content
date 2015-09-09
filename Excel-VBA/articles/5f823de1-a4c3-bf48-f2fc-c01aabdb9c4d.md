@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 Represents the data label for the specified point or trendline in a chart. For a series, the  **DataLabel** object is a member of the ** [DataLabels](597c7269-71ed-5dcc-af6b-34dc908e9d58.md)**collection, which contains a  **DataLabel** object for each point. For a series without definable points (such as an area series), the **DataLabels** collection contains a single **DataLabel** object.
+
 
 ## Using the DataLabel Object
 

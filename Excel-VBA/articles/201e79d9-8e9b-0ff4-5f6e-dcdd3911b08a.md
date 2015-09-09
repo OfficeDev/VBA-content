@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Example](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 Returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. Read-only.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Application**
 
@@ -21,7 +13,6 @@ Returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object t
 
 
 ## Example
-<a name="sectionSection1"> </a>
 
 This example displays a message about the application that created  `myObject`.
 
@@ -37,13 +28,11 @@ End If
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **APPLICATION**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

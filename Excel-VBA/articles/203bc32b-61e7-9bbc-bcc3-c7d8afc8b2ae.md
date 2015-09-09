@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 A collection of all the  ** [ChartGroup](8a485a8c-e181-a039-60b9-a02c2c89b26e.md)**objects in the specified chart. Each  **ChartGroup** object represents one or more series plotted with the same format in a chart. A chart contains one or more chart groups, each chart group contains one or more series, and each series contains one or more points. For example, a single chart might contain both a line chart group, containing all the series plotted with the line chart format, and a bar chart group, containing all the series plotted with the bar chart format.
+
 
 ## Using the ChartGroups Collection
 

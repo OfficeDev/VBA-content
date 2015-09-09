@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Drop**
 
@@ -21,7 +13,6 @@ For callouts with an explicitly set drop value, this property returns the vertic
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
 
@@ -31,7 +22,6 @@ The value of this property accurately reflects the position of the callout line 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example replaces the custom drop for shape one on  `myDocument` with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box. For the example to work, shape one must be a callout.
 
@@ -51,7 +41,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

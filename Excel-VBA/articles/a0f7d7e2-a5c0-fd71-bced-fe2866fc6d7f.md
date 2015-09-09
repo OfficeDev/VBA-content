@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the Microsoft Excel control type. Read-only  ** [XlFormControl](fad54f9d-4ef2-b2ac-d187-131e5bdd18e1.md)**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FormControlType**
 
@@ -21,13 +13,11 @@ Returns the Microsoft Excel control type. Read-only  ** [XlFormControl](fad54f9d
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You cannot use this property with ActiveX controls (the  ** [Type](93939e9f-2630-4db2-6b66-6705720877f6.md)** property for the ** [Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** object must return **msoFormControl**).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example clears all the Microsoft Excel check boxes on worksheet one.
 
@@ -43,7 +33,6 @@ Next
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

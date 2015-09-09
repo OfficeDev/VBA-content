@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns the  ** [MailMergeDataSource](a02eb4fb-7db7-e533-c3ca-95bc4ca68e82.md)** object at the specified index position in the **MailMergeDataSources** collection.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Item**( **_varIndex_**)
 
@@ -34,7 +29,6 @@ MailMergeDataSource
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **Item** method is the default member of the **MailMergeDataSources** collection
 
@@ -42,7 +36,6 @@ If there is only a single  **MailMergeDataSource** object in the active document
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the  **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
 

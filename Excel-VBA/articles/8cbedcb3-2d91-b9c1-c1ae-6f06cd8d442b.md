@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an ** [XlSpeakDirection](6e738db7-9722-21ee-5904-1289f9e3987b.md)**constant. Read/write.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Direction**
 
@@ -21,7 +13,6 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
 
@@ -32,7 +23,6 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 | **xlSpeakByRows**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 In this example, Microsoft Excel determines the speech direction and notifies the user.
 
@@ -52,7 +42,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

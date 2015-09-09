@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [CalculatedMembers](3c664ac6-e2f8-f631-006d-6a16c380641e.md)**collection representing all the calculated members and calculated measures for an OLAP PivotTable.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CalculatedMembers**
 
@@ -21,13 +13,11 @@ Returns a  ** [CalculatedMembers](3c664ac6-e2f8-f631-006d-6a16c380641e.md)**coll
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is used for Online Analytical Processing (OLAP) sources; a non-OLAP source will return a run-time error.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a set to the PivotTable. It assumes a PivotTable exists on the active worksheet that is connected to an OLAP data source which contains a field titled "[Product].[All Products]".
 
@@ -49,7 +39,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

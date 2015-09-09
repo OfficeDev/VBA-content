@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Displays the specified number of row and/or column levels of an outline.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ShowLevels**( **_RowLevels_**,  **_ColumnLevels_**)
 
@@ -35,13 +27,11 @@ Variant
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You must specify at least one argument.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays row levels one through three and column level one of the outline on Sheet1.
 
@@ -53,7 +43,6 @@ Worksheets("Sheet1").Outline _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

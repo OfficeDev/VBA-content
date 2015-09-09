@@ -3,10 +3,11 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 True if the first letter of day names is capitalized automatically. Read/write Boolean.
 
  _expression_. **CapitalizeNamesOfDays**
-
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
 ## Example

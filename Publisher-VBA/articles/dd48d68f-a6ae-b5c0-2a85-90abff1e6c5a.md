@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns a  ** [Documents](855b1677-4072-1e17-c22c-6db08e0c7569.md)** collection that represents all open publications. Read-only.
+
 
 ## Syntax
 

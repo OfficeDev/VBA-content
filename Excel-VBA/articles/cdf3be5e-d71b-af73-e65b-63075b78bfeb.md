@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the currently displayed page of the specified PivotTable report. The name of the page appears in the page field. Note that this property works only if the currently displayed page already exists. Read/write  **String**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CurrentPageName**
 
@@ -21,13 +13,11 @@ Returns or sets the currently displayed page of the specified PivotTable report.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property applies to PivotTables that are connected to an OLAP data source. Attempting to return or set this property with a PivotTable that is not connected to an OLAP data source will result in a run-time error.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the name of the currently displayed page of the first PivotTable report on the active worksheet to "USA."
 
@@ -40,7 +30,6 @@ ActiveSheet.PivotTables("PivotTable1") _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

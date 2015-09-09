@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the number of days shown in the shared workbook's change history. Read/write  **Long**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ChangeHistoryDuration**
 
@@ -21,13 +13,11 @@ Returns or sets the number of days shown in the shared workbook's change history
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Any changes in the change history older than the setting for this property are removed when the workbook is closed.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the number of days shown in the change history for the active workbook if change tracking is enabled. Any changes in the change history older than the setting for this property are removed when the workbook is closed.
 
@@ -42,7 +32,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

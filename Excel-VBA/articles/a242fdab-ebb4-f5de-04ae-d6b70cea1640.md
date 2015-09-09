@@ -3,10 +3,11 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 Represents a legend entry in the specified chart legend. The  **LegendEntry** object is a member of the ** [LegendEntries](98f5f860-7648-e3a6-f2af-985b383fed24.md)**collection, which contains all the  **LegendEntry** objects in the legend.
 
 Each legend entry has two parts: the text of the entry, which is the name of the series associated with the entry; and an entry marker, which visually links the legend entry with its associated series or trendline in the chart. Formatting properties for the entry marker and its associated series or trendline are contained in the  ** [LegendKey](ab90cb64-1f81-dfcb-7542-cba68964acba.md)**object.
-
 You cannot change the text of a legend entry.  **LegendEntry** objects support font formatting, and they can be deleted. No pattern formatting is supported for legend entries. The position and size of entries is fixed.
 
 ## Using the LegendEntry Object

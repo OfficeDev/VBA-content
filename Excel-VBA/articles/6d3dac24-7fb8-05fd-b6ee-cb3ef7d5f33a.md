@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 For all open workbooks, forces a full calculation of the data and rebuilds the dependencies.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CalculateFullRebuild**
 
@@ -21,13 +13,11 @@ For all open workbooks, forces a full calculation of the data and rebuilds the d
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Dependencies are the formulas that depend on other cells. For example, the formula "=A1" depends on cell A1. The  **CalculateFullRebuild** method is similar to re-entering all formulas.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example compares the version of Microsoft Excel with the version of Excel in which the workbook was last calculated. If the two version numbers are different, a full calculation of the data in all open workbooks is performed and the dependencies are rebuilt.
 
@@ -45,7 +35,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Sets the specified fill to a preset gradient.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PresetGradient**( **_Style_**,  **_Variant_**,  **_PresetGradientType_**)
 
@@ -31,7 +26,6 @@ Sets the specified fill to a preset gradient.
 |PresetGradientType|Required| **MsoPresetGradientType**|The gradient type.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The Style parameter can be one of the  **MsoPresetGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
@@ -74,7 +68,6 @@ The PresetGradientType parameter can be one of the  **MsoPresetGradientType** co
 | **msoGradientWheat**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a rectangle with a preset gradient fill to the active publication.
 

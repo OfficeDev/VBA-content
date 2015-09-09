@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Performs the specified mail merge or catalog merge operation. Returns a  ** [Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object that represents the new or existing publication specified as the destination of the merge results. Returns **Nothing** if the merge is executed to a printer.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Execute**( **_Pause_**,  **_Destination_**,  **_Filename_**)
 
@@ -36,7 +31,6 @@ Document
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Destination can be one of these  **PbMailMergeDestination** constants. The default is **pbSendToPrinter**.
 
@@ -47,7 +41,6 @@ Destination can be one of these  **PbMailMergeDestination** constants. The defau
 | **pbMergeToExistingPublication**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example executes a mail merge if the active publication is a main document with an attached data source.
 

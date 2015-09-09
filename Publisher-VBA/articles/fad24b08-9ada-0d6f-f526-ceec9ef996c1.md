@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Flips the specified shape around its horizontal or vertical axis, or flips all the shapes in the specified shape range around their horizontal or vertical axes.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Flip**( **_FlipCmd_**)
 
@@ -29,7 +24,6 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
 |FlipCmd|Required| **MsoFlipCmd**| Specifies whether the shape is flipped horizontally or vertically.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The FlipCmd parameter can be one of the following  **MsoFlipCmd** constants declared in the Microsoft Office type library.
 
@@ -39,7 +33,6 @@ The FlipCmd parameter can be one of the following  **MsoFlipCmd** constants decl
 | **msoFlipVertical**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a triangle to the first page of the active publication, duplicates the triangle, and then flips the duplicate triangle vertically and makes it red.
 

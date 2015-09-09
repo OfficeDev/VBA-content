@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 Returns or sets the shape used with the specified 3-D bar or column chart. Read/write XlBarShape .
+
 
 
 |XlBarShape can be one of these XlBarShape constants.|

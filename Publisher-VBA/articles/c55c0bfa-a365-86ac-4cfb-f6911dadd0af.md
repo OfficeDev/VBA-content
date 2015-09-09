@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as italic. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Italic**
 
@@ -26,7 +21,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **Italic** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
@@ -40,7 +34,6 @@ The  **Italic** property value can be one of the **MsoTriState** constants decla
 | **msoTrue**|All of the characters in the range are formatted as italic.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example tests all the text in the second story of the active publication and, if it has some text formatted as italic, it sets all the text to italic. If the text is all italic or all not italic, a message is displayed informing the user that there is no mixed italic formatting.
 

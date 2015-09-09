@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns a  **Long** that represents the number of items in the specified collection.
+
 
 ## Syntax
 

@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Creates a new PivotTable report for each item in the page field. Each new report is created on a new worksheet.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ShowPages**( **_PageField_**)
 
@@ -34,13 +26,11 @@ Variant
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method isn't available for OLAP data sources.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates a new PivotTable report for each item in the page field, which is the field named "Country."
 
@@ -52,7 +42,6 @@ pvtTable.ShowPages "Country"
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

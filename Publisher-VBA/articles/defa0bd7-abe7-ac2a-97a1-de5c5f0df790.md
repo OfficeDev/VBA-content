@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Determines whether the text "Continued on page  _pagenumber_" appears in a text box when Microsoft Publisher links text boxes. Read/write.
+
 
 ## Syntax
 

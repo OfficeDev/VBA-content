@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 Returns the source of the data model. Read-only. 
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Source**
 
@@ -21,19 +13,16 @@ Returns the source of the data model. Read-only.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The source can be either Excel or a PowerPivot Add-in.
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **XlModelChangeSource**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

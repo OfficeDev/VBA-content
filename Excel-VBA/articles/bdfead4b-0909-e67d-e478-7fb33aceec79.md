@@ -3,11 +3,7 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Using the Select Method and the Selection Property](#sectionSection0)
- [Selecting Cells on the Active Worksheet](#sectionSection1)
- [Activating a Cell Within a Selection](#sectionSection2)
-
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
 
 In Microsoft Excel, you usually select a cell or cells and then perform an action, such as formatting the cells or entering values in them. In Visual Basic, it is usually not necessary to select cells before modifying them.
 
@@ -24,7 +20,6 @@ End Sub
 For more information and examples of using other methods to control cells without selecting them, see  [How to: Reference Cells and Ranges](a16caa8d-21c9-ff33-347b-ce671248a92d.md).
 
 ## Using the Select Method and the Selection Property
-<a name="sectionSection0"> </a>
 
 The  **Select** method activates sheets and objects on sheets; the **Selection** property returns an object that represents the current selection on the active sheet in the active workbook. Before you can use the **Selection** property successfully, you must activate a workbook, activate or select a sheet, and then select a range (or other object) using the **Select** method.
 
@@ -62,7 +57,6 @@ End Sub
 
 
 ## Selecting Cells on the Active Worksheet
-<a name="sectionSection1"> </a>
 
 If you use the  **Select** method to select cells, be aware that **Select** works only on the active worksheet. If you run your **Sub** procedure from the module, the **Select** method will fail unless your procedure activates the worksheet before using the **Select** method on a range of cells. For example, the following procedure copies a row from Sheet1 to Sheet2 in the active workbook.
 
@@ -78,7 +72,6 @@ End Sub
 
 
 ## Activating a Cell Within a Selection
-<a name="sectionSection2"> </a>
 
 You can use the  **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
 

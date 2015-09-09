@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [PivotFormulas](7139a4bd-f103-7190-004f-7f2261a4391f.md)**object that represents the collection of formulas for the specified PivotTable report. Read-only.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PivotFormulas**
 
@@ -21,13 +13,11 @@ Returns a  ** [PivotFormulas](7139a4bd-f103-7190-004f-7f2261a4391f.md)**object t
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For OLAP data sources, this property returns an empty collection.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 ```
@@ -39,7 +29,6 @@ Next
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

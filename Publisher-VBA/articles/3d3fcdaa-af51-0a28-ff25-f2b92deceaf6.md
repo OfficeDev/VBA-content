@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **MailMergeWizardStateChange**( **_Doc_**,  **_FromState_**)
 
@@ -30,13 +25,11 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 |FromState|Required| **Integer**|The Mail Merge Wizard step from which a user is moving.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays a message when a users moves from step three of the Mail Merge Wizard to step four. Based on the user's answer to the message, the user will either continue on to step four or return to step three.
 
@@ -61,7 +54,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

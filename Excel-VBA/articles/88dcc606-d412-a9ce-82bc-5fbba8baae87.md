@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Allows the user to to access error checking options.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Errors**
 
@@ -21,13 +13,11 @@ Allows the user to to access error checking options.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Reference the  ** [Errors](d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a.md)**object to view a list of index values associated with error checking options.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 In this example, a number written as text is placed in cell A1. Microsoft Excel then determines if the number is written as text in cell A1 and notifies the user accordingly.
 
@@ -48,7 +38,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

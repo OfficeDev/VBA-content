@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FontItalic**
 
@@ -21,7 +13,6 @@ Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
 
@@ -35,7 +26,6 @@ Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write 
 | **msoTrue** The specified WordArt is italic.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the font to italic for the shape named "WordArt 4" in  `myDocument`.
 
@@ -47,7 +37,6 @@ myDocument.Shapes("WordArt 4").TextEffect.FontItalic = msoTrue
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

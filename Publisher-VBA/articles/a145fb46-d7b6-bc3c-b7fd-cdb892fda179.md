@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Evenly distributes the shapes in the specified shape range.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Distribute**( **_DistributeCmd_**,  **_RelativeTo_**)
 
@@ -30,7 +25,6 @@ Evenly distributes the shapes in the specified shape range.
 |RelativeTo|Required| **MsoTriState**|Specifies whether to distribute the shapes evenly over the entire horizontal or vertical space on the page or within the horizontal or vertical space that the range of shapes originally occupies.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Shapes are distributed so that there is an equal amount of space between one shape and the next. If the shapes are so large that they overlap when distributed over the available space, they are distributed so that there is an equal amount of overlap between one shape and the next.
 
@@ -56,7 +50,6 @@ The z-order of shapes is unaffected by this method.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example defines a shape range that contains all the AutoShapes on the first page of the active publication and then horizontally distributes the shapes in this range.
 

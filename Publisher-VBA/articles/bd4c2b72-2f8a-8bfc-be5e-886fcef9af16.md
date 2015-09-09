@@ -4,6 +4,7 @@ Represents all open publications. The  **Documents** collection contains all **D
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
 
 ## Methods
 

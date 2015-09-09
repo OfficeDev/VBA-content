@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 Specifies whether or not the  [WorkbookConnection Object (Excel)](5974dd57-7671-cd55-3f8f-6a76fa938317.md) has been added to the model. **Boolean** Read-only
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **InModel**
 
@@ -21,19 +13,16 @@ Specifies whether or not the  [WorkbookConnection Object (Excel)](5974dd57-7671-
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Must be false for legacy connections.
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **BOOL**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

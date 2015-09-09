@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Represents a single printer's plate. The  **Plate** object is a member of the ** [Plates](7da44b06-c94f-dadc-da91-09b757d5a076.md)** collection.
+
 
 ## Example
 

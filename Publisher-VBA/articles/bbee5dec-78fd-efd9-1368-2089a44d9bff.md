@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a  **Single** in the specified units.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **GetTop**( **_Unit_**)
 
@@ -34,7 +29,6 @@ Single
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The Unit parameter can be one of the  ** [PbUnitType](e14ef7b5-46c2-dec6-3af2-56da77ba5491.md)** constants declared in the Microsoft Publisher type library.
 
@@ -42,7 +36,6 @@ Use the  ** [GetLeft](e8f28ab3-f9da-eae7-2a21-b8b2505e9b44.md)** method to retur
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays the distances from the left and top edges of the leftmost page to the left and top edges of shape range consisting of all the shapes on the first page. The distances are expressed in inches (to the nearest hundredth).
 

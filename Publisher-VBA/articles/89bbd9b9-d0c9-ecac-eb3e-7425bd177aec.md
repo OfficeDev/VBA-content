@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Deletes a Web navigation bar set and all instances of it in the current document.
+
 
 ## Syntax
 

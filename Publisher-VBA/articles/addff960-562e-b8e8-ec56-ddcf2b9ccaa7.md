@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Deletes the catalog merge area from the specified publication page. All shapes contained in the catalog merge area remain in place on the page, but are no longer connected to the catalog merge data source.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **RemoveCatalogMergeArea**
 
@@ -21,7 +16,6 @@ Deletes the catalog merge area from the specified publication page. All shapes c
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the  ** [IsDataSourceConnected](b62422ab-12f7-1151-d8d1-1cb32de18160.md)** property of the ** [Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object to determine if a data source is connected to a publication.
 
@@ -29,7 +23,6 @@ Use the  ** [AddCatalogMergeArea](4af86b99-5a3a-b9f3-d269-16d635d35c83.md)** met
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example tests whether any page in the specified publication contains a catalog merge area. If any page does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
 

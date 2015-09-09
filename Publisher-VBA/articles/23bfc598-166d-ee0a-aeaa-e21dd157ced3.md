@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Removes the picture from its frame, leaving in its place a picture placeholder. Any previous formatting applied to the picture is retained. Returns nothing.
+
 
 ## Syntax
 

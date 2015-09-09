@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Clears (deletes) all the  **Attachment** objects in the parent **Attachments** collection of an e-mail merge message.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ClearAll**
 
@@ -21,13 +16,11 @@ Clears (deletes) all the  **Attachment** objects in the parent **Attachments** c
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To clear an individual attachment, use the  ** [Delete](935fa9e7-9d40-b820-e386-1a1960845da1.md)** method of the specific **Attachment** object
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to clear all the attachment to the message in an e-mail merge. The code prints the number of current attachments to the message in the  **Immediate** window and then deletes all of the **Attachment** objects in the collection.
 
@@ -52,7 +45,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns a  ** [Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)**object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Wizard**
 
@@ -21,13 +16,11 @@ Returns a  ** [Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)**object represen
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When accessing the  **Wizard** property from the **Document** or **Page** object, if the specified publication is not associated with any publication design, an error occurs. When accessing the **Wizard** property from the **Shape** or **ShapeRange** object, if the specified object is not a Design Gallery object, an error occurs.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example reports on the publication design associated with the active publication, displaying its name and current settings.
 

@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns a  **String** indicating the Microsoft Publisher globally unique identifier (GUID). Read-only.
+
 
 ## Syntax
 

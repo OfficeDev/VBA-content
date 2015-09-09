@@ -4,6 +4,7 @@ A collection of all the  **Section** objects in the document.
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
 
 ## Methods
 

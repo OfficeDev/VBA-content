@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TextDirection**
 
@@ -26,7 +21,6 @@ PbTextDirection
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is meant to be used in conjunction with documents that have text in both left-to-right and right-to-left languages. Setting the property to a value that is not in accordance with the text direction dictated by the language in use may have unpredictable results.
 
@@ -41,7 +35,6 @@ The  **TextDirection** property value can be one of the **PbTextDirection** cons
 | **pbTextDirectionRightToLeft**|Text flows from right to left.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example changes the text direction of the first shape on page one so that it flows from right-to-left.
 

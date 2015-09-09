@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Example](#sectionSection1)
- [About the Contributor](#AboutContributor)
-
-
 Returns a  ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **EntireRow**
 
@@ -21,7 +13,6 @@ Returns a  ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that rep
 
 
 ## Example
-<a name="sectionSection1"> </a>
 
 This example sets the value of the first cell in the row that contains the active cell. The example must be run from a worksheet.
 

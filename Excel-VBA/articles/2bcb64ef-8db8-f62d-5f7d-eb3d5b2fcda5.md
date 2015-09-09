@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **VisualTotals**
 
@@ -21,7 +13,6 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect only the items that remain visible in the PivotTable. In an OLAP PivotTable, the total is computed on the server and is therefore unaffected by whether any items are hidden in the PivotTable view. However, if the  **VisualTotals** property is set to **False** for an OLAP PivotTable, then the results of the OLAP PivotTable will match those of the non-OLAP PivotTable.
 
@@ -34,7 +25,6 @@ The  **VisualTotals** property returns **True** for all new PivotTables. However
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example determines if the ability to re-total after an item has been hidden from view is available for OLAP PivotTables and notifies the user. The example assumes a PivotTable exists on the active worksheet.
 
@@ -59,7 +49,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

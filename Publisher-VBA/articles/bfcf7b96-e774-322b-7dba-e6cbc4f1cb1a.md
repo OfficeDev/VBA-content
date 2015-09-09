@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
  Represents the alignment for the specified paragraphs.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Inserts a new segment after the specified node of the freeform drawing.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Insert**( **_Index_**,  **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
 
@@ -37,7 +32,6 @@ Inserts a new segment after the specified node of the freeform drawing.
 |Y3|Optional| **Variant**|If the EditingType of the new segment is  **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment. If the EditingType of the new segment is  **msoEditingAuto**, do not specify a value for this argument.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in"). 
 
@@ -55,7 +49,6 @@ EditingType can be one of these  **MsoEditingType** constants.
 | **msoEditingCorner**|Adds a corner node.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a smooth node with a curved segment after node four in the third shape in the active publication. The shape must be a freeform drawing with at least four nodes.
 

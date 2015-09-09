@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Reroutes connectors so that they take the shortest possible path between the shapes they connect. To do this, the  **RerouteConnections** method may detach the ends of a connector and reattach them to different connecting sites on the connected shapes.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **RerouteConnections**
 
@@ -21,13 +16,11 @@ Reroutes connectors so that they take the shortest possible path between the sha
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method reroutes all connectors attached to the specified shape; if the specified shape is a connector, it is rerouted.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect**and  **EndConnect** methods.
 

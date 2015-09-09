@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Adds one or more new series to the  **SeriesCollection** collection.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Add**( **_Source_**,  **_Rowcol_**,  **_SeriesLabels_**,  **_CategoryLabels_**,  **_Replace_**)
 
@@ -38,13 +30,11 @@ A  ** [Series](c7d34b32-8172-f7a0-0a17-f01d44246b64.md)** object that represents
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method does not actually return a  **Series** object as stated in the Object Browser. This method is not available for PivotChart reports.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates a new series in Chart1. The data source for the new series is range B1:B10 on Sheet1.
 
@@ -67,7 +57,6 @@ ActiveChart.SeriesCollection.Add _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

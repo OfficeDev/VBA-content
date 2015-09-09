@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets the options for encrypting workbooks using passwords.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SetPasswordEncryptionOptions**( **_PasswordEncryptionProvider_**,  **_PasswordEncryptionAlgorithm_**,  **_PasswordEncryptionKeyLength_**,  **_PasswordEncryptionFileProperties_**)
 
@@ -32,7 +24,6 @@ Sets the options for encrypting workbooks using passwords.
 |PasswordEncryptionFileProperties|Optional| **Variant**| **True** (default) to encrypt file properties.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The PasswordEncryptionProvider, PasswordEncryptionAlgorithm, and PasswordEncryptionKeyLength arguments are not independent of each other. A selected encryption provider limits the set of algorithms and key length that can be chosen.
 
@@ -40,7 +31,6 @@ For the PasswordEncryptionKeyLength argument there is no inherent limit on the r
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the password encryption options for the active workbook.
 
@@ -62,7 +52,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

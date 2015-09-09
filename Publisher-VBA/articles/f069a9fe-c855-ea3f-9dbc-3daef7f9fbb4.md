@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Return value](#sectionSection1)
- [Remarks](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
  **True** if the specified object or the formatting applied to it is visible. Read/write **MsoTriState**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Visible**
 
@@ -21,19 +16,16 @@
 
 
 ## Return value
-<a name="sectionSection1"> </a>
 
  **MsoTriState**
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 For any object, some methods and properties may be unavailable if the  **Visible** property is **False**.
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

@@ -3,18 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
- [About the Contributor](#AboutContributor)
-
-
 Returns or sets a  **Variant** value that represents the object's formula in A1-style notation and in the macro language.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Formula**
 
@@ -22,7 +13,6 @@ Returns or sets a  **Variant** value that represents the object's formula in A1-
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is not available for OLAP data sources.
 
@@ -36,7 +26,6 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following code example sets the formula for cell A1 on Sheet1.
 

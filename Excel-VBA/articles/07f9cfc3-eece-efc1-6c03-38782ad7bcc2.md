@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Changes the access permissions for the workbook. This may require an updated version to be loaded from the disk.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ChangeFileAccess**( **_Mode_**,  **_WritePassword_**,  **_Notify_**)
 
@@ -31,13 +23,11 @@ Changes the access permissions for the workbook. This may require an updated ver
 |Notify|Optional| **Variant**| **True** (or omitted) to notify the user if the file cannot be immediately accessed.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If you have a file open in read-only mode, you don't have exclusive access to the file. If you change a file from read-only to read/write, Microsoft Excel must load a new copy of the file to ensure that no changes were made while you had the file open as read-only.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the active workbook to read-only.
 
@@ -48,7 +38,6 @@ ActiveWorkbook.ChangeFileAccess Mode:=xlReadOnly
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

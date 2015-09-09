@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Parses a column of cells that contain text into several columns.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TextToColumns**( **_Destination_**,  **_DataType_**,  **_TextQualifier_**,  **_ConsecutiveDelimiter_**,  **_Tab_**,  **_Semicolon_**,  **_Comma_**,  **_Space_**,  **_Other_**,  **_OtherChar_**,  **_FieldInfo_**,  **_DecimalSeparator_**,  **_ThousandsSeparator_**,  **_TrailingMinusNumbers_**)
 
@@ -47,7 +39,6 @@ Variant
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The following table shows the results of importing text into Excel for various import settings. Numeric results are displayed in the rightmost column.
 
@@ -87,7 +78,6 @@ The following example parses two columns from a fixed-width file, with the first
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example converts the contents of the Clipboard, which contains a space-delimited text table, into separate columns on Sheet1. You can create a simple space-delimited table in Notepad or WordPad (or another text editor), copy the text table to the Clipboard, switch to Microsoft Excel, and then run this example.
 
@@ -101,7 +91,6 @@ Selection.TextToColumns DataType:=xlDelimited, _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

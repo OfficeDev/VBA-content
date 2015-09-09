@@ -4,14 +4,8 @@ Represents a Microsoft Excel workbook.
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
 
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -59,7 +53,6 @@ Represents a Microsoft Excel workbook.
 | [WindowResize](6e473482-fe16-03a2-7a27-b0cd9535c3e6.md)|Occurs when any workbook window is resized.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -129,7 +122,6 @@ Represents a Microsoft Excel workbook.
 | [XmlImportXml](b0edbe49-f578-ead0-8371-0196f5c515d4.md)|Imports an XML data stream that has been previously loaded into memory. Excel uses the first qualifying map found or if the destination range is specified, Excel will automatically list the data.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

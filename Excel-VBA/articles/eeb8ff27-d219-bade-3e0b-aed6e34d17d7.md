@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the application window to its right edge.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Width**
 
@@ -21,13 +13,11 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  If the window is minimized, **Width** is read-only and returns the width of the window icon.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example expands the active window to the maximum size available (assuming that the window isn't maximized).
 
@@ -44,7 +34,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

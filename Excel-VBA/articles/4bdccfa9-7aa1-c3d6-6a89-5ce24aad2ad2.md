@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection that represents all the worksheet-specific names (names defined with the "WorksheetName!" prefix). Read-only **Names** object.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Names**
 
@@ -21,13 +13,11 @@ Returns a  ** [Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection that
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using this property without an object qualifier is equivalent to using  `ActiveWorkbook.Names`.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example defines the name "myName" for cell A1 on Sheet1.
 
@@ -39,7 +29,6 @@ ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

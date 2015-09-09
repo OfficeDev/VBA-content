@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Copies the specified object to the Clipboard.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Copy**
 
@@ -21,7 +16,6 @@ Copies the specified object to the Clipboard.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  **Paste**method to paste the contents of the Clipboard.
 
@@ -29,7 +23,6 @@ The  **Copy** method can be used on **Shape** objects, but the **Paste** method 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example copies shapes one and two on page one of the active publication to the Clipboard and then pastes the copies onto page two.
 

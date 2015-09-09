@@ -4,6 +4,7 @@ A collection of  ** [RulerGuide](6400c368-02e9-169c-c675-9416cd361384.md)**objec
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
 
 ## Methods
 

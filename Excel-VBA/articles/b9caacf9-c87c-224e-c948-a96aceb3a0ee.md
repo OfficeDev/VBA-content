@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Creates an open polyline or a closed polygon drawing. Returns a  ** [Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** object that represents the new polyline or polygon.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AddPolyline**( **_SafeArrayOfPoints_**)
 
@@ -34,13 +26,11 @@ Shape
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a triangle to  `myDocument`. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
 
@@ -61,7 +51,6 @@ myDocument.Shapes.AddPolyline triArray
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns an individual  **Column** object in the specified **Columns** collection.
+
 
 ## Syntax
 

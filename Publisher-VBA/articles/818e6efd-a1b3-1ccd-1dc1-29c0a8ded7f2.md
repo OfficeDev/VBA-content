@@ -3,17 +3,12 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
+ _**Applies to:** Publisher 2013 | VBA_
 
 Returns or sets a  **PbTrackingPresetType** constant representing the preset tracking type for characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TrackingPreset**
 
@@ -26,7 +21,6 @@ PbTrackingPresetType
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **TrackingPreset** property value can be one of these **PbTrackingPresetType** constants.
 
@@ -43,7 +37,6 @@ Loose and very loose tracking leaves ample space between characters, whereas tig
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example specifies tight tracking as the preset for the characters in the second story.
 

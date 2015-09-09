@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the group for the specified chart. Read/write
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AxisGroup**
 
@@ -26,13 +18,11 @@ Returns or sets the group for the specified chart. Read/write
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For 3-D charts, only  **xlPrimary** is valid.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example deletes the value axis if it is in the secondary group.
 
@@ -46,7 +36,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

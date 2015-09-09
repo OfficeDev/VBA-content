@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 A collection of  ** [ColorFormat](659069e1-e359-94d7-de06-a1d98378193b.md)** objects that represent the colors present in the specified publication.
+
 
 ## Remarks
 

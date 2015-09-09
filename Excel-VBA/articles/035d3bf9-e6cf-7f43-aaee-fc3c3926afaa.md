@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Excel 2013 | Office 2013 | VBA_
+
 Returns or sets the marker background color as an RGB value. Applies only to line, scatter, and radar charts. Read/write  **Long**.
+
 
 ## Example
 

@@ -3,7 +3,10 @@
 
  **Last modified:** July 28, 2015
 
+ _**Applies to:** Publisher 2013 | VBA_
+
 Returns a  ** [ParagraphFormat](0e5b1c20-564e-ef5c-f24d-1143dcaadcd8.md)** object that represents the paragraph formatting applied to most of the paragraphs in a text range.
+
 
 ## Syntax
 

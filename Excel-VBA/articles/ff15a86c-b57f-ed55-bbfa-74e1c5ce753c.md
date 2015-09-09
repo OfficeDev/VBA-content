@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  ** [XlPivotTableMissingItems](3450ac87-7a30-f2dd-efc8-fcd336b26319.md)**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **MissingItemsLimit**
 
@@ -21,7 +13,6 @@ Returns or sets the maximum quantity of unique items per PivotTable field that a
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
 
@@ -35,7 +26,6 @@ The  **MissingItemsLimit** property only works for non-OLAP PivotTables; otherwi
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example determines the maximum quantity of unique items per field and notifies the user. The example assumes a PivotTable exists on the active worksheet.
 
@@ -62,7 +52,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

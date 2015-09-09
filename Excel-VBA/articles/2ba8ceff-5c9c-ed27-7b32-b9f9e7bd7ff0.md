@@ -3,17 +3,9 @@
 
  **Last modified:** July 28, 2015
 
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long**.
 
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **RecordCount**
 
@@ -21,13 +13,11 @@ Returns the number of records in the PivotTable cache or the number of cache rec
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property reflects the transient state of the cache at the time that it's queried. The cache can change between queries.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the number of cache records that contain "Kiwi" in the "Products" field.
 
@@ -39,7 +29,6 @@ MsgBox Worksheets(1).PivotTables("Pivot1") _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts
