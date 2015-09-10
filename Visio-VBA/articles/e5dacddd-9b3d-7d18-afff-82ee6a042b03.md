@@ -1,10 +1,6 @@
 
 # ServerPublishOptions.GetPagesToPublish Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns an array of pages that are set to be published to a server.
 
 

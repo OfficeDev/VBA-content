@@ -1,10 +1,6 @@
 
 # Document.SolutionXMLElementExists Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Indicates whether a named SolutionXML element exists in the document. Read-only.
 
 

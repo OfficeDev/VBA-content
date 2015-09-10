@@ -1,27 +1,14 @@
 
 # About Using the Visio Drawing Control in Your Application
 
- **Last modified:** July 29, 2015
-
- _**Applies to:** Visio 2013_
-
- **In this article**
- [Getting started](#sectionSection0)
- [Opening a Visio drawing in the control](#sectionSection1)
- [Gaining access to the Visio object model](#sectionSection2)
- [Using the custom properties of the Visio Drawing Control](#sectionSection3)
- [Using keyboard and mouse events with the Visio Drawing Control](#sectionSection4)
- [Integrating the Visio Drawing Control into the user interface of your application](#sectionSection5)
-
-
 Visio includes an ActiveX control, the Visio Drawing Control. 
+
 Using this control, you can embed the full functionality of the Visio drawing surface into your applications. You can take advantage of the full Visio object model (API) and you can pick the aspects of the Visio user interface you want to expose to better integrate Visio seamlessly into the user interface of your application.
 
  **Note**  You can embed the Visio Drawing Control in Visual Basic 6.0, Visual C++ 6.0, Visual Studio, and other ActiveX control containers. However, you cannot embed the Visio Drawing Control in another Visio drawing, another ActiveX control, a Visual Basic for Applications (VBA) form in Visio, or a Visio solution window.
 
 
 ## Getting started
-<a name="sectionSection0"> </a>
 
 To install the Visio Drawing Control, install Visio. When you install Visio, you can choose various installation options, including the  **Minimal Install** option. If you want to minimize the installation file size of Visio on your computer, you can choose **Minimal Install**, which installs only the minimum required Visio components, including the Visio drawing application and the Visio Drawing Control. This installation option does not include Visio solutions or Visio Help (which includes the Automation Reference and ShapeSheet Reference). 
 
@@ -31,7 +18,6 @@ Once you have opened a  **Standard EXE** project in Visual Basic and added the c
 
 
 ## Opening a Visio drawing in the control
-<a name="sectionSection1"> </a>
 
 By default, the control opens a blank Visio document (drawing). However, you can specify, either at design time or at run time, that the control load an existing Visio document. The document you specify must be available to your users, either because you supply it along with your application, or because it exists on a network share they have access to, on an intranet site, or on the Web. To specify a document at design time, set the  **Src** property in the **Properties** window in your Visual Basic project. This is the preferred method. To specify a drawing at run time, set the **Src** property in your code, usually in the **Form_Load()** procedure. More information about using the custom properties of the Visio Drawing Control is provided later in this topic, and in the **Src** property topic in this Automation Reference.
 
@@ -50,7 +36,6 @@ You can insert multiple instances of the Visio Drawing Control in your applicati
 
 
 ## Gaining access to the Visio object model
-<a name="sectionSection2"> </a>
 
 To gain access to the Visio object model, use the  **Window** or **Document** property of the Visio Drawing Control. Use the following code to get a Visio **Window** object:
 
@@ -104,7 +89,6 @@ In addition, the Visio Drawing Control does not expose the Visio ShapeSheet in t
 
 
 ## Using the custom properties of the Visio Drawing Control
-<a name="sectionSection3"> </a>
 
 The following table describes the custom properties exposed by the Visio Drawing Control.
 
@@ -123,7 +107,6 @@ For more information about any of these custom properties, and to view code exam
 
 
 ## Using keyboard and mouse events with the Visio Drawing Control
-<a name="sectionSection4"> </a>
 
 Beginning with Visio 2003, new keyboard and mouse events added to the Visio object model give your program the ability to respond to user keyboard and mouse input in the control. For example, you can listen for mouse clicks specific shapes in the control and write code to handle them. (For more information about how to use these events to drive actions in your host application, see the next section in this topic.)
 
@@ -146,7 +129,6 @@ These events are similar to the Visual Basic events that have the same names, al
 
 
 ## Integrating the Visio Drawing Control into the user interface of your application
-<a name="sectionSection5"> </a>
 
 You can use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a  **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
 

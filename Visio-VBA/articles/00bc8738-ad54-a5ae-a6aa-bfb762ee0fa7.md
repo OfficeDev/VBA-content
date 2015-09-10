@@ -1,10 +1,6 @@
 
 # Page.Index Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Gets or sets the ordinal position of a page in a  **Pages** collection. Read/write.
 
 

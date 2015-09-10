@@ -1,20 +1,10 @@
 
 # IVisEventProc.VisEventProc Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Private member function of  **IVisEventProc** that handles event notifications passed to it by the **EventList.AddAdvise** method.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **VisEventProc**( **_nEventCode_**,  **_pSourceObj_**,  **_nEventID_**,  **_nEventSeqNum_**,  **_pSubjectObj_**,  **_vMoreInfo_**)
 
@@ -40,7 +30,6 @@ Variant
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To handle event notifications, create a class module that implements the  **IVisEventProc** interface and then create an instance of this class to pass as an argument to the **AddAdvise** method of the **EventList** collection. Use the **AddAdvise** method to create **Event** objects that send the notifications.
 
@@ -78,7 +67,6 @@ If nEventCode identifies a query event (events prefixed with **Query**), return 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example shows how to create a class module that implements  **IVisEventProc** to handle events fired by a source object in Visio, for example, the **Document** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for three events: **DocumentSaved**,  **PageAdded**, and  **ShapesDeleted**. Other events fall under the default case ( **Case Else**). Each  **Case** block constructs a string (strMessage) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 

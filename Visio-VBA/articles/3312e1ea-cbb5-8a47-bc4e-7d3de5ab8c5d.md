@@ -1,10 +1,6 @@
 
 # Style.Hidden Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Hides or shows a master on a stencil or a style in the user interface. Read/write.
 
 

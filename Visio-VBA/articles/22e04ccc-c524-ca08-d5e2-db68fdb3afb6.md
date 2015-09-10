@@ -1,10 +1,6 @@
 
 # Comment.AuthorSMTPAddress Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the comment. Read-only  **String**.
 
 

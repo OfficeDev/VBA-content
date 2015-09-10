@@ -1,20 +1,10 @@
 
 # Document.CustomMenus Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets a  **UIObject** object that represents the current custom menus and accelerators of a **Document** object. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CustomMenus**
 
@@ -27,7 +17,6 @@ UIObject
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
@@ -36,7 +25,6 @@ If Microsoft Visio menus and accelerators have not been customized, either progr
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the currently active user interface (UI) for your document without replacing the application-level custom UI. You must write additional code to add your custom UI items.
 

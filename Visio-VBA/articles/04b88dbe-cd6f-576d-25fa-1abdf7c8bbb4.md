@@ -2,19 +2,7 @@
 # Cell Members (Visio)
 Holds a formula that evaluates to some value.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -24,7 +12,6 @@ Holds a formula that evaluates to some value.
 | [FormulaChanged](7f612470-ea40-1b7e-7334-825a124a96f3.md)|Occurs after a formula changes in a cell in the object that receives the event.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -35,7 +22,6 @@ Holds a formula that evaluates to some value.
 | [Trigger](aea545d3-5e5d-2206-c0fe-c062bc4e6be8.md)|Evaluates the formula of a cell.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

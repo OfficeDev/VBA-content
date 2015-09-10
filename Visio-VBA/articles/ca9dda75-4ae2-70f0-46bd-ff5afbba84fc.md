@@ -1,20 +1,10 @@
 
 # Shape.Data1 Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets or sets the value of the  **Data1** field for a **Shape** object. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Data1**
 
@@ -27,13 +17,11 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  **Data1** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data1** property is equivalent to entering information in the **Data 1** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md)tab).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to set a shape's  **Data1**,  **Data2**, and  **Data3** properties. It prints the values of these properties in the **Immediate** window. You can also verify that these values have been set by opening the **Special** dialog box.
 

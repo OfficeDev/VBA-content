@@ -1,10 +1,6 @@
 
 # Document.RightMargin Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Specifies the right margin, which is used when printing. Read/write.
 
 

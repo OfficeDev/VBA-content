@@ -1,10 +1,6 @@
 
 # OLEObjects Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Includes an  **OLEObject** object for each OLE 2.0 linked or embedded object or ActiveX control contained in a document, page, or master.
 
 

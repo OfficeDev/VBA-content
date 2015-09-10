@@ -1,20 +1,10 @@
 
 # EventList.Add Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Adds an  **Event** object that runs an add-on when an event occurs. The **Event** object is added to the **EventList** collection of the source object whose events you want to receive.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Add**( **_EventCode_**,  **_Action_**,  **_Target_**,  **_TargetArgs_**)
 
@@ -38,7 +28,6 @@ Event
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The source object whose  **EventList** collection contains the **Event** object establishes the scope in which the events are reported. Events are reported for the source object and objects lower in the object model hierarchy. For example, to run an add-on when a particular document is opened, add an **Event** object for the **DocumentOpened** event to the **EventList** collection of that document. To run an add-on when any document is opened in an instance of the application, add the **Event** object to the **EventList** collection of the **Application** object.
 
@@ -54,7 +43,6 @@ To create an  **Event** object that advises the caller's sink object about an ev
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example shows how to add an  **Event** object that runs an add-on to the **EventList** collection of the source object, in this case a **Document** object, whose events you want to receive.
 

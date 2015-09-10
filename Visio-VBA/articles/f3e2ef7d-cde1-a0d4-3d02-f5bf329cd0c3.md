@@ -1,10 +1,6 @@
 
 # Cell.ResultInt Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Gets the value of a cell expressed as an integer. Read-only.
 
 

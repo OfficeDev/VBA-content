@@ -1,20 +1,10 @@
 
 # InvisibleApp.ScreenUpdating Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether the screen is updated (redrawn) during a series of actions. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ScreenUpdating**
 
@@ -27,7 +17,6 @@ Integer
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  **ScreenUpdating** property to increase performance during a series of actions. For example, you can turn off screen updating while a series of shapes are created so that the screen is not redrawn after each shape appears. Then you can turn screen updating on to update the screen.
 
@@ -40,7 +29,6 @@ If a program neglects to turn screen updating on after turning it off, the Visio
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic code snippet shows how to use the  **ScreenUpdating** property.
 

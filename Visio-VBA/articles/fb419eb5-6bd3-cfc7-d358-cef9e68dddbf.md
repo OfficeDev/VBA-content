@@ -1,20 +1,10 @@
 
 # Master.SetFormulas Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets the formulas of one or more cells.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SetFormulas**( **_SID_SRCStream()_**,  **_formulaArray()_**,  **_Flags_**)
 
@@ -37,7 +27,6 @@ Integer
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **SetFormulas** method behaves like the **Formula** property except that you can use it to set the formulas of many cells at once, rather than one cell at a time.
 
@@ -71,7 +60,6 @@ The value returned by the  **SetFormulas** method is the number of entries inSID
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following macro shows how to use the  **SetFormulas** method. It assumes that there is an active Microsoft Office Visio page that has at least three shapes on it. It uses the **GetFormulas** method to get the width of shape 1, the height of shape 2, and the angle of shape 3. It then uses **SetFormulas** to set the width of shape 1 to the height of shape 2 and the height of shape 2 to the width of shape 1. The angle of shape 3 is left unaltered.
 

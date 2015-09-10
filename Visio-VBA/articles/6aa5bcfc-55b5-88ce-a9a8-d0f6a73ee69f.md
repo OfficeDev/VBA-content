@@ -1,20 +1,10 @@
 
 # Document.Manager Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets or sets the value of the  **Manager** box in a document's **Properties** dialog box. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Manager**
 
@@ -27,7 +17,6 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Setting the  **Manager** property is equivalent to entering information in the **Manager** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
 
@@ -38,7 +27,6 @@ Setting the  **Manager** property is equivalent to entering information in the *
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Manager** property to document the name of the manager of the author of a drawing. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Manager** property as well as other document properties.
 

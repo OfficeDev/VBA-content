@@ -1,20 +1,10 @@
 
 # InvisibleApp.UndoEnabled Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether undo information is maintained in memory. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **UndoEnabled**
 
@@ -27,7 +17,6 @@ Boolean
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When Microsoft Visio starts, the value of the  **UndoEnabled** property is **True**. Setting the value of the  **UndoEnabled** property to **False** discontinues the collection of undo information in memory and clears the existing undo information.
 
@@ -47,7 +36,6 @@ Application.UndoEnabled = blsPrevious
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UndoEnabled** method to disable and then re-enable undo behavior in Visio.
 

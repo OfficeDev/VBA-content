@@ -1,10 +1,6 @@
 
 # Selection.PrimaryItem Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the  **Shape** object that is a **Selection** object's primary item. Read-only.
 
 

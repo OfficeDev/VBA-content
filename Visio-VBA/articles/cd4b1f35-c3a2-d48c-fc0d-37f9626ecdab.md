@@ -1,20 +1,10 @@
 
 # Document.HeaderFooterFont Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Specifies the font used for the header and footer text. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **HeaderFooterFont**
 
@@ -27,7 +17,6 @@ IFontDisp
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 COM provides a standard implementation of a font object with the  **IFontDisp** interface on top of the underlying system font support. The **IFontDisp** interface exposes a font object's properties and is implemented in the stdole type library as a **StdFont** object that can be created in Microsoft Visual Basic. The stdole type library is automatically referenced from all Visual Basic for Applications (VBA) projects in Microsoft Visio.
 
@@ -48,7 +37,6 @@ Setting the  **HeaderFooterFont** property is the equivalent of setting values i
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following sample code shows how to use the  **HeaderFooterFont** property to get a reference to the current **Font** object and set the document's text font to non-bold Arial.
 

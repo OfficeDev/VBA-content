@@ -1,10 +1,6 @@
 
 # Application.QueryCancelQuit Event (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Occurs before the application terminates in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 

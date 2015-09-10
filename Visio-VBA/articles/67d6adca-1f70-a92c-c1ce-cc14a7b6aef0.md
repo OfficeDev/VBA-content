@@ -1,10 +1,6 @@
 
 # Layer.Master Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the master that contains the  **Layer** object. Read-only.
 
 

@@ -1,10 +1,6 @@
 
 # Cell.FormulaForce Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Sets the formula in a  **Cell** object, even if the formula is protected with a GUARD function. Read/write.
 
 

@@ -1,20 +1,10 @@
 
 # Document.FooterCenter Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets or sets the text string that appears in the center portion of a document's footer. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FooterCenter**
 
@@ -27,7 +17,6 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can also set this value in the  **Center** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &amp; Footer**).
 
@@ -35,7 +24,6 @@ Both the string returned by the property and the string you pass to the property
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following macro shows how to place a string containing the current page number and total number of pages into the center portion of a document's footer. After you run this macro on a one-page document, the center portion of the footer contains "Page 1 of 1".
 

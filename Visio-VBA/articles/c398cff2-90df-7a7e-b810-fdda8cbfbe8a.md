@@ -1,20 +1,10 @@
 
 # Application.IsUndoingOrRedoing Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether the current event handler is being called as a result of an  **Undo** or **Redo** action in the application. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **IsUndoingOrRedoing**
 
@@ -27,7 +17,6 @@ Boolean
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **IsUndoingOrRedoing** property returns **True** when the application is firing events related to an **Undo** or **Redo** action that the user has initiated in the user interface, or that an Automation client has initiated by calling the **Undo** or **Redo** method of an **Application** object.
 
@@ -37,7 +26,6 @@ You will typically only perform undoable actions inside an event handler when th
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a shape to a drawing and then checks whether the shape has been added as a result of an  **Undo** or **Redo** action.
 

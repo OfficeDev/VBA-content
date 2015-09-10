@@ -1,10 +1,6 @@
 
 # VisMasterTypes Enumeration (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Master-type constants passed to the  ** [Masters.AddEx](a27b1a7c-37f4-90c9-91f1-2249611a3cf9.md)** method.
 
 

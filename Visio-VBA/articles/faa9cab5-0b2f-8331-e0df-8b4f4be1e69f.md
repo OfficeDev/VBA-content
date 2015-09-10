@@ -1,10 +1,6 @@
 
 # Shape.SendToBack Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Moves the shape or selected shapes to the back of the z-order.
 
 

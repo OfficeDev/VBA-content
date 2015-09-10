@@ -1,10 +1,6 @@
 
 # Styles.GetNames Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the names of all items in a collection.
 
 

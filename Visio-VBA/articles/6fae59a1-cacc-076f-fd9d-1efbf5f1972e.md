@@ -1,10 +1,6 @@
 
 # DataRecordsetChangedEvent.DataColumnsDeleted Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 After data in a data recordset are refreshed, returns an array of names of data columns deleted from the data recordset as a result of the refresh operation. Read-only.
 
 

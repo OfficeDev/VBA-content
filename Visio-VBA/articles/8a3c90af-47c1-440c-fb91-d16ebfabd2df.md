@@ -1,10 +1,6 @@
 
 # Masters.ShapeDataGraphicChanged Event (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Occurs after a data graphic is applied to or deleted from a shape.
 
 

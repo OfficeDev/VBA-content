@@ -1,23 +1,13 @@
 
 # DataRecordset.SetPrimaryKey Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Sets the primary key setting value and the name of the primary key column or columns for the data recordset.
+
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **SetPrimaryKey**( **_PrimaryKeySettings_**,  **_PrimaryKey()_**)
 
@@ -39,7 +29,6 @@ Nothing
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 You can use the  **SetPrimaryKey** method to specify the primary key setting and the name of the primary key column or columns for the data recordset. You specify the primary key setting for the data recordset by passing a value from the **VisPrimaryKeySettings** enumeration for the PrimaryKeySettings parameter. The default (when you don't specify a primary key) is **visKeyRowOrder**, which means that Visio identifies data recordset rows by row order.
 
@@ -58,7 +47,6 @@ You can use the  ** [GetPrimaryKey](4f056424-4668-7859-5ed1-bd28a051ddc0.md)** m
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **SetPrimaryKey** method to specify the primary key setting for a data recordset as well as the name of the primary key column. The macro finds the most recently created data recordset associated with the document, specifies the primary key setting ( **visKeySingle**, to indicate a single-column primary key), and sets the name of the primary key column.
 

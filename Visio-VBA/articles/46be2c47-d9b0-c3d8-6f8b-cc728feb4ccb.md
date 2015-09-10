@@ -1,10 +1,6 @@
 
 # Window.ShowScrollBars Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Determines whether scroll bars are shown in the drawing window. Read/write.
 
 

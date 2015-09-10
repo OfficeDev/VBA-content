@@ -1,10 +1,6 @@
 
 # ServerPublishOptions.GetRecordsetsToPublish Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the identifiers (IDs) of the data recordsets that are set to be published to a server.
 
 

@@ -1,10 +1,6 @@
 
 # Connects Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013_
-
  Includes a **Connect** object for each connection between two shapes in a drawing, such as a line and a box in an organization chart.
 
 

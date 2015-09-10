@@ -1,20 +1,10 @@
 
 # Shape.Layer Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the layer to which a shape is assigned. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Layer**( **_Index_**)
 
@@ -35,7 +25,6 @@ Layer
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If a shape is assigned to three layers, the valid indexes that can be passed to its  **Layer** property are 1 through 3.
 
@@ -43,7 +32,6 @@ To get the number of layers to which a shape is assigned, use the  **LayerCount*
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Layer** property to get a reference to a particular layer. It also uses the **LayerCount** property to determine the number of layers to which a shape is assigned and the **Name** property to get the name of the current layer.
 

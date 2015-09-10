@@ -1,10 +1,6 @@
 
 # GraphicItems.DataGraphic Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the  **Master** object of type **visTypeDataGraphic** that contains the **GraphicItems** collection. Read-only.
 
 

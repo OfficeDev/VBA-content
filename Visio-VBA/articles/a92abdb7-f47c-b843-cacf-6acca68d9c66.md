@@ -1,23 +1,13 @@
 
 # DataRecordset.RemoveRefreshConflict Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Clears information about a conflict for a data-linked shape from the current document.
+
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **RemoveRefreshConflict**( **_ShapeInConflict_**)
 
@@ -38,7 +28,6 @@ Nothing
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 If ShapeInConflict actually has no conflicts, the method will have no effect.
 
@@ -46,7 +35,6 @@ If you choose not to remove information about a conflict, that information will 
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RemoveRefreshConflict** method to remove conflicts. It calls the **GetAllRefreshConflicts** method to determine which shapes, if any, have conflicts after a data recordset is refreshed. Then it calls the **GetMatchingRowsForRefreshConflict** method to determine which data recordset row or rows is causing the conflict.
 

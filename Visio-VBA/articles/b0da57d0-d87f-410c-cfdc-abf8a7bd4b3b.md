@@ -1,10 +1,6 @@
 
 # Application.BeforeDataRecordsetDelete Event (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets** collection.
 
 

@@ -1,20 +1,10 @@
 
 # Application.BuiltInToolbars Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **UIObject** object that represents a copy of the built-in Microsoft Visio toolbars. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BuiltInToolbars**( **_fIgnored_**)
 
@@ -35,7 +25,6 @@ UIObject
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
@@ -48,7 +37,6 @@ Prior to Visio 5.0, the argument for this property was (fWhichToolbars), which d
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **BuiltInToolbars** property to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
 

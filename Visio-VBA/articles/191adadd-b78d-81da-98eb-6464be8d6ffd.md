@@ -1,10 +1,6 @@
 
 # Associate Macros or Add-ons with the Double-Click Behavior of Shapes
 
- **Last modified:** June 20, 2011
-
- _**Applies to:** Visio 2013_
-
 1. Select the shape with which you want to associate the macro or add-on.
     
 2. On the  [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md) tab, click **Behavior**.

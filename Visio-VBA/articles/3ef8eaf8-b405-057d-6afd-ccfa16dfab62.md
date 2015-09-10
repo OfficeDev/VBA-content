@@ -1,20 +1,10 @@
 
 # Connect.FromPart Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the part of a shape from which a connection originates. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FromPart**
 
@@ -27,7 +17,6 @@ Integer
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The following constants declared by the Microsoft Visio type library show return values for the  **FromPart** property.
 
@@ -54,7 +43,6 @@ The following constants declared by the Microsoft Visio type library show return
 | **visControlPoint**|100 + zero-based row index (for example,  **visControlPoint** = 100 if the control point is in row 0; **visControlPoint** = 101 if the control point is in row 1)|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to extract connection information from a Visio drawing. The example displays the connection information in the Immediate window.
 

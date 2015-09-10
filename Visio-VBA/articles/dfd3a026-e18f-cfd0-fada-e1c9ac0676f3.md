@@ -1,10 +1,6 @@
 
 # VisUIBarRow Enumeration (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Values passed to and returned by the  **MenuSet.RowIndex** and **Toolbar.RowIndex** properties.
 
 

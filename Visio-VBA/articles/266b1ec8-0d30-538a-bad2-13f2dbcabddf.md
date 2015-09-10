@@ -1,10 +1,6 @@
 
 # MenuSet.Protection Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Determines how a  **MenuSet** object is protected from user customization. Read/write.
 
 

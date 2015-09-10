@@ -1,10 +1,6 @@
 
 # ValidationRuleSet Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Represents one set of diagram validation rules.
 
 

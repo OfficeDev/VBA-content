@@ -1,23 +1,13 @@
 
 # Shape.GetCustomPropertiesLinkedToData Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Gets the IDs of the shape-data-item (custom property) rows in the Shape Data section of the shape's ShapeSheet spreadsheet linked to the specified data recordset.
+
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **GetCustomPropertiesLinkedToData**( **_DataRecordsetID_**,  **_CustomPropertyIndices()_**)
 
@@ -39,7 +29,6 @@ Nothing
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 Knowing how shapes are linked to data can help prevent conflicts and broken links when you refresh the data in one or more data recordsets.
 
@@ -48,7 +37,6 @@ Knowing how shapes are linked to data can help prevent conflicts and broken link
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
  The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetCustomPropertiesLinkedToData** method to get the IDs of the shape-data-item (custom property) rows linked to a data column in a data recordset.
 

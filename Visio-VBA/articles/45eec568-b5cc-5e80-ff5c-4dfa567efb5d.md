@@ -1,10 +1,6 @@
 
 # Pages Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Includes a  **Page** object for each drawing page in a document.
 
 

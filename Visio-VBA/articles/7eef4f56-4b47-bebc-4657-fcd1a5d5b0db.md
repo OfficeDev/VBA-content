@@ -1,20 +1,10 @@
 
 # Page.Export Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg, .dxf, .emf, .emz, .gif, .htm, .jpg, .png, .svg, .svgz, .tif, or .wmf.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Export**( **_FileName_**)
 
@@ -35,7 +25,6 @@ Nothing
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The file name extension indicates which export filter to use. If the filter is not installed, the  **Export** method returns a compiler error in your Visual Basic or VBA project. The **Export** method uses the default preference settings for the specified filter and does not prompt the user for non-default arguments.
 
@@ -52,7 +41,6 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
     
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example shows how to export a Visio page as a bitmap (.bmp) file. It assumes a drawing page is open and active in Microsoft Visio.
 

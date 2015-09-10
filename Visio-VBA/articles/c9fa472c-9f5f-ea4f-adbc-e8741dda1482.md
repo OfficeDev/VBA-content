@@ -1,20 +1,10 @@
 
 # Connects.FromSheet Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the shape from which a connection or connections originate. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FromSheet**
 
@@ -27,7 +17,6 @@ Shape
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **FromSheet** property for a **Connect** object is straightforward. It always returns the shape from which the **Connect** object originates.
 
@@ -35,7 +24,6 @@ A  **Connects** collection represents several connections. If every connection r
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **FromSheet** property to find the shape a **Connect** object originates from in a Microsoft Visio drawing. The example displays the connection information in the Immediate window.
 

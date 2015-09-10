@@ -1,10 +1,6 @@
 
 # Validation Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Stores information about diagram validation for the document.
 
 

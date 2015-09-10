@@ -2,19 +2,7 @@
 # Master Members (Visio)
 Represents a master in a stencil.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -48,7 +36,6 @@ Represents a master in a stencil.
 | [UngroupCanceled](0bbe537e-9bae-62a9-7e29-aea71ab3c8f9.md)|Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -97,7 +84,6 @@ Represents a master in a stencil.
 | [VisualBoundingBox](http://msdn.microsoft.com/library/478d636f-e741-cf6b-3e16-b5faf70a9f14%28Office.15%29.aspx)||
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

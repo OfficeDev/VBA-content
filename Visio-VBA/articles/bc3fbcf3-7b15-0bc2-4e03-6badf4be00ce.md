@@ -1,10 +1,6 @@
 
 # VisRasterExportResolutionUnits Enumeration (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 
 
 Specifies constants that define the raster export resolution units; passed to the SetRasterExportResolution method and returned by the GetRasterExportResolution method.

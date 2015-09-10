@@ -1,20 +1,10 @@
 
 # Shape.DrawPolyline Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Creates a shape whose path is a polyline along a given set of points.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DrawPolyline**( **_xyArray()_**,  **_Flags_**)
 
@@ -36,7 +26,6 @@ Shape
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **DrawPolyline** method creates a new shape whose path consists of a sequence of line segments and whose endpoints match the points specified in _xyArray_. Calling the  **DrawPolyline** method is equivalent to calling the **DrawSpline** method with a tolerance of zero (0) and a flag of **visSplineAbrupt**.
 
@@ -57,7 +46,6 @@ If the first and last points in xyArray coincide, the **DrawPolyline** method pr
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example shows how to draw two polyline shapes that have 2-D and 1-D behavior, respectively, on the active page.
 

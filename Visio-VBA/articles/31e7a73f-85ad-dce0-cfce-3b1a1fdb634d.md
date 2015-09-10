@@ -1,20 +1,10 @@
 
 # InvisibleApp.HelpPaths Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets or sets the paths where Microsoft Visio looks for Help files. Read/write.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **HelpPaths**
 
@@ -27,7 +17,6 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **HelpPaths** property is set to an empty string ("") by default.
 
@@ -49,7 +38,6 @@ Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath".
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get and set the  **HelpPaths** property of the **Application** object. Before running this macro, replace _fullpath(s)_ with the path or paths to the location or locations where you want Visio to look for Help files.
 

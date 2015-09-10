@@ -1,20 +1,10 @@
 
 # Viewer.GetErrorMessage Method (Visio Viewer)
 
- **Last modified:** March 09, 2015
-
- _**Applies to:** Visio 2013_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a string that describes the specified error message code in Microsoft Visio Viewer.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **GetErrorMessage**( **_ErrorCode_**)
 
@@ -35,7 +25,6 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If you pass an error code that Visio Viewer does not recognize, the  **GetErrorMessage** method will return either a string saying so, or nothing.
 
@@ -43,7 +32,6 @@ If you pass the value that the  ** [LastErrorCode](cbef3230-128c-3976-04da-eec6d
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following code shows how to use the  **GetErrorMessage** method to get a description of the last error code that Visio Viewer returned.
 

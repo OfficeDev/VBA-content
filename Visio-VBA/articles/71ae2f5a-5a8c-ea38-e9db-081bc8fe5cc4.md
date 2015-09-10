@@ -1,10 +1,6 @@
 
 # Application.LanguageHelp Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Represents the language ID of the Help in the version of the Microsoft Visio instance represented by the parent object. Read-only.
 
 

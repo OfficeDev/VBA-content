@@ -1,20 +1,10 @@
 
 # Shapes.Item Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Item**( **_NameUIDOrIndex_**)
 
@@ -35,7 +25,6 @@ Shape
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statements are equivalent to the syntax example given above:
 
@@ -76,7 +65,6 @@ For more information about passing ID strings to the  **Item** property, see the
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Item** property to get a **Page** object from the **Pages** collection of the active document, and all the **Shape** objects in the **Shapes** collection of the **Page** object. It prints the names of all shapes on Page1 in the Immediate window.
 

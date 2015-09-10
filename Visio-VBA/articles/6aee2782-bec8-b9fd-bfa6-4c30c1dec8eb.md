@@ -2,19 +2,7 @@
 # Shape Members (Visio)
 Represents anything you can select in a drawing window: a basic shape, a group, a guide, or an object from another application embedded or linked in Microsoft Visio.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -44,7 +32,6 @@ Represents anything you can select in a drawing window: a basic shape, a group, 
 | [UngroupCanceled](aca15d4f-c623-471b-80b2-80f6afd2d5c7.md)|Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -139,7 +126,6 @@ Represents anything you can select in a drawing window: a basic shape, a group, 
 | [XYToPage](4a230d63-57a8-3b69-6425-2dca6a2014eb.md)|Transforms a point expressed in the local coordinate system of a  **Shape** object to an equivalent point expressed in the local coordinate system of its **Page** or **Master** object.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

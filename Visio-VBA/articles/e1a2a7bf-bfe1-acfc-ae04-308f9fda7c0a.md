@@ -1,10 +1,6 @@
 
 # Master.ShapeChanged Event (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Occurs after a property of a shape that is not stored in a cell is changed in a document.
 
 

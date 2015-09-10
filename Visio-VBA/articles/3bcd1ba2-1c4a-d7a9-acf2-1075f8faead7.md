@@ -1,10 +1,6 @@
 
 # VisTypeSelectionTypes Enumeration (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013_
-
 Values passed to the Data argument of the **CreateSelection** method when theSelType argument is **visSelTypeByType**.
 
 

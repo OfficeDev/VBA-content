@@ -1,10 +1,6 @@
 
 # Characters.ContainingPageID Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the ID of the page that contains an object. Read-only.
 
 

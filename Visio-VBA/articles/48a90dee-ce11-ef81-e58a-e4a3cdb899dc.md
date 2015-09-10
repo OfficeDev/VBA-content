@@ -1,10 +1,6 @@
 
 # Master.Index Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Gets the ordinal position of a  **Master** object in the **Masters** collection. Read-only.
 
 

@@ -1,10 +1,6 @@
 
 # Characters.AddField Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Replaces the text represented by a  **Characters** object with a new field of the category, code, and format you specify.
 
 

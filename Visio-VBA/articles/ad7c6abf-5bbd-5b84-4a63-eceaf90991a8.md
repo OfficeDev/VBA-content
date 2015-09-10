@@ -1,10 +1,6 @@
 
 # DrawingControl Object (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 A programmable ActiveX control that enables you to build Microsoft Visio functionality into programs you create in Microsoft Visual Studio and other development platforms.
 
 

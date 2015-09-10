@@ -1,20 +1,10 @@
 
 # KeyboardEvent.KeyCode Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the key associated with  **KeyDown** and **KeyUp** events. Read-only.
 
+
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **KeyCode**
 
@@ -27,13 +17,11 @@ Long
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Possible values for  **KeyCode** are declared in **KeyCodeConstants** in the Microsoft Visual Basic for Applications (VBA) library.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**,  **KeyPress**, and  **KeyUp** events.
 

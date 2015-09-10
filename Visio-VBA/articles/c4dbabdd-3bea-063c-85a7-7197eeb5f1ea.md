@@ -2,10 +2,6 @@
 # Curve Members (Visio)
 An item in a  **Path** object that represents a consecutive sequence of rows in the Geometry section of its **Path** object.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 ## Methods
 
 

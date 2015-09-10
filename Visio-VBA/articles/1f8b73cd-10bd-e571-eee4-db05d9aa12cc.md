@@ -1,10 +1,6 @@
 
 # Application.Quit Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Closes the indicated instance of Microsoft Visio.
 
 

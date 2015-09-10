@@ -1,10 +1,6 @@
 
 # Selection.Join Method (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Creates a new shape by joining selected shapes.
 
 
@@ -22,7 +18,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Join** method is equivalent to clicking **Join** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its containerâ€”thenth shape in the  **Shapes** collection of its containing shape, wheren = Count.
+Calling the  **Join** method is equivalent to clicking **Join** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its container—thenth shape in the  **Shapes** collection of its containing shape, wheren = Count.
 
 The original shapes are deleted and no shapes are selected when the operation is complete.
 

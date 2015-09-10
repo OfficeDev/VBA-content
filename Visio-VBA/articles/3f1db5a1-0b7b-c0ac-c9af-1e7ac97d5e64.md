@@ -2,19 +2,7 @@
 # Masters Members (Visio)
  Includes a **Master** object for each master in a document's stencil.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -49,7 +37,6 @@
 | [UngroupCanceled](d443f6e0-0bd9-bd55-15bf-f34e17b22ad5.md)|Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -63,7 +50,6 @@
 | [Paste](fb355d9b-7b5f-469e-3a75-f1b0fed7300b.md)|Pastes the contents of the Clipboard into an object.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

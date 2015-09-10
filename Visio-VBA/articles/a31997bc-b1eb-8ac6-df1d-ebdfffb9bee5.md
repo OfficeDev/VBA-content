@@ -1,10 +1,6 @@
 
 # ValidationRuleSets.Item Property (Visio)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Visio 2013 Preview_
-
 Returns the  ** [ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** object that has the specified universal name or index position. Read-only.
 
 
