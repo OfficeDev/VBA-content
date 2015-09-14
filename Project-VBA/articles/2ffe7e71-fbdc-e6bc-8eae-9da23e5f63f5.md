@@ -1,9 +1,8 @@
 
 # Application.WebSetStartPage Method (Project)
 
- **Last modified:** July 28, 2015
-
 Specifies a document as the Start Page in Microsoft Internet Explorer.
+
 
 ## Syntax
 

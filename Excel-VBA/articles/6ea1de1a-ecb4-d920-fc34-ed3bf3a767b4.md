@@ -1,9 +1,8 @@
 
 # ChartGroup.Overlap Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies how bars and columns are positioned. Can be a value between - 100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write  **Long**.
+
 
 ## Syntax
 

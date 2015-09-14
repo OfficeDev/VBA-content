@@ -1,9 +1,8 @@
 
 # Range.TextToColumns Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Parses a column of cells that contain text into several columns.
+
 
 ## Syntax
 

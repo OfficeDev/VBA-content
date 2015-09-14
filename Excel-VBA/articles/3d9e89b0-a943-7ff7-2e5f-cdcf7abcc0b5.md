@@ -2,9 +2,6 @@
 # Trendlines Members (Excel)
 A collection of all the  ** [Trendline](5c04b065-57f4-a059-7c22-50612bd727ea.md)** objects for the specified series.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

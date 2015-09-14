@@ -2,9 +2,6 @@
 # TimeScaleValues Members (Project)
 Contains a collection of  ** [TimeScaleValue](bea0ad82-a3de-30d8-f191-dc2248c32653.md)** objects.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

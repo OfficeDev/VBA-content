@@ -1,9 +1,8 @@
 
 # ModelChanges.Source Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the source of the data model. Read-only. 
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ChartGroup.AxisGroup Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the group for the specified chart. Read/write
+
 
 ## Syntax
 

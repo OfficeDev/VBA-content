@@ -1,19 +1,10 @@
 
 # Application.SelectResourceColumn Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Selects a column containing resource information.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SelectResourceColumn**( **_Column_**,  **_Additional_**,  **_Extend_**,  **_Add_**)
 
@@ -37,13 +28,11 @@ Selects a column containing resource information.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **SelectResourceColumn** method is only available when the Resource Sheet or Resource Usage view is the active view.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example selects the  **Indicators** column and the next two columns.
 

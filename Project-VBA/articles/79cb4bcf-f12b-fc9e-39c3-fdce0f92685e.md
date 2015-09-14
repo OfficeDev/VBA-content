@@ -1,9 +1,8 @@
 
 # Windows2.Item Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a single  **Window** object from the **Windows2** collection. Read-only **Window**.
+
 
 ## Syntax
 

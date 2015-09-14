@@ -1,9 +1,8 @@
 
 # ViewSingle.Apply Method (Project)
 
- **Last modified:** July 28, 2015
-
 Applies the single view.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PjDateFormat Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the date format. The following table shows various formats applied to 9/30/02 (12:33 PM). 
+
 
 
 |**Name**|**Value**|**Description**|

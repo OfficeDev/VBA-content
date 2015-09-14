@@ -2,16 +2,7 @@
 # Shape.ZOrderPosition Property (Project)
 Gets the position of the shape in the z-order. Read-only  **Long**.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ZOrderPosition**
 
@@ -19,7 +10,6 @@ Gets the position of the shape in the z-order. Read-only  **Long**.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To set the shape position in the z-order, use the  [ZOrder](e8badff9-fbe5-b6b8-8c33-68cfde3bef38.md) method.
 
@@ -29,13 +19,11 @@ When you add a shape to a  **Shapes** collection, the shape is added to the fron
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **INT**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

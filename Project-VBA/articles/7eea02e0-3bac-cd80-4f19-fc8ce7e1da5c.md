@@ -1,9 +1,8 @@
 
 # PjBoxSet Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the creation, selection, or movement of a task in the Network Diagram view.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,19 +1,10 @@
 
 # Application.SetAutoFilter Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets the criteria for an AutoFilter for a specified field in a sheet view.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SetAutoFilter**( **_FieldName_**,  **_FilterType_**,  **_Test1_**,  **_Criteria1_**,  **_Operation_**,  **_Test2_**,  **_Criteria2_**)
 
@@ -52,7 +43,6 @@ Sets the criteria for an AutoFilter for a specified field in a sheet view.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To turn the AutoFilter feature on or off, see the  ** [AutoFilter](391d5a61-cba3-9e28-c448-d0befcc456c7.md)** method.
 
@@ -61,7 +51,6 @@ To turn the AutoFilter feature on or off, see the  ** [AutoFilter](391d5a61-cba3
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets a custom AutoFilter for the "% Work Complete" field. 
 

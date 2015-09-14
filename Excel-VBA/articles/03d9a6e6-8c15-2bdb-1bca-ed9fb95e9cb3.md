@@ -1,9 +1,8 @@
 
 # Series.HasErrorBars Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the series has error bars. This property isn't available for 3-D charts. Read/write **Boolean**.
+
 
 ## Syntax
 

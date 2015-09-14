@@ -1,9 +1,8 @@
 
 # Sparkline.SourceData Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the range the contains the source data for a single sparkline. Read/write
+
 
 ## Syntax
 

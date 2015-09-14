@@ -1,9 +1,8 @@
 
 # ShapeRange.IncrementTop Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Moves the specified shape vertically by the specified number of points.
+
 
 ## Syntax
 

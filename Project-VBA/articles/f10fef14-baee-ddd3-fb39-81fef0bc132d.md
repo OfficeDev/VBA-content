@@ -2,16 +2,7 @@
 # Shapes.Value Property (Project)
 Gets an individual  **Shape** object in the **Shapes** collection. Read-only **Shape**.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Value**
 
@@ -27,7 +18,6 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 |Index|Required| **Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  **Value** is the default property for the **Shapes** object. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
 
@@ -56,13 +46,11 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **SHAPE**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

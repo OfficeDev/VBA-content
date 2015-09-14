@@ -1,9 +1,8 @@
 
 # Application.DDEAppReturnCode Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the application-specific DDE return code that was contained in the last DDE acknowledge message received by Microsoft Excel. Read-only  **Long**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Project.DeliverableAcceptChanges Method (Project)
 
- **Last modified:** July 28, 2015
-
 Accepts the changes on the server for a deliverable.
+
 
 ## Syntax
 

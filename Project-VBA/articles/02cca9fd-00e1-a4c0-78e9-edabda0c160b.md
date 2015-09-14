@@ -2,9 +2,6 @@
 # Chart.ChartData Property (Project)
 Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or unlink the Field List pane for the selected chart. Read-only **IMsoChartData**.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **ChartData**

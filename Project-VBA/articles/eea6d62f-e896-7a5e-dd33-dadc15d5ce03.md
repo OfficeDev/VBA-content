@@ -1,9 +1,8 @@
 
 # Assignment.Index Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the index of an  **Assignment** object in the containing **Assignments** collection. Read-only **Long**.
+
 
 ## Syntax
 

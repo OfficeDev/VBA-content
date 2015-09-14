@@ -1,9 +1,8 @@
 
 # IRtdServer.Heartbeat Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Determines if the real-time data server is still active. Returns a  **Long** value. Zero or a negative number indicates failure; a positive number indicates that the server is active.
+
 
 ## Syntax
 

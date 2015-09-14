@@ -1,19 +1,10 @@
 
 # Application.GanttBarFormatEx Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Changes the formatting of Gantt bars from their default styles, where colors can be hexadecimal RGB values.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **GanttBarFormatEx**( **_TaskID_**,  **_GanttStyle_**,  **_StartShape_**,  **_StartType_**,  **_StartColor_**,  **_MiddleShape_**,  **_MiddlePattern_**,  **_MiddleColor_**,  **_EndShape_**,  **_EndType_**,  **_EndColor_**,  **_LeftText_**,  **_RightText_**,  **_TopText_**,  **_BottomText_**,  **_InsideText_**,  **_Reset_**,  **_ProjectName_**)
 
@@ -51,7 +42,6 @@ Changes the formatting of Gantt bars from their default styles, where colors can
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using the  **GanttBarFormatEx** method without specifying any arguments displays the **Format Bar** dialog box.
 
@@ -59,7 +49,6 @@ Using the  **GanttBarFormatEx** method without specifying any arguments displays
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays a medium red diamond shape for the start of the task with the Task ID of 3.
 

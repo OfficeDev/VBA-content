@@ -1,9 +1,8 @@
 
 # Application.SmartArtLayouts Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the set of SmartArt layouts that are currently loaded in the application. Read-only
+
 
 ## Syntax
 

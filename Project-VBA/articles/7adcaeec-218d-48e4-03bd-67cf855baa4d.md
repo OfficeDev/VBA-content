@@ -1,9 +1,8 @@
 
 # Resource.Baseline6BudgetCost Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the baseline6 budget cost for a  **Resource**. Read/write  **Variant**.
+
 
 ## Syntax
 

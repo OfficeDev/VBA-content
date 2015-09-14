@@ -1,9 +1,8 @@
 
 # Months Object (Project)
 
- **Last modified:** July 28, 2015
-
 Contains a collection of  ** [Month](5ee32f12-72aa-fa16-ead2-97949005cd7c.md)** objects.
+
 
 ## Remarks
 

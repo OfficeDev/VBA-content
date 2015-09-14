@@ -1,9 +1,8 @@
 
 # Application.GanttBarLinks Method (Project)
 
- **Last modified:** July 28, 2015
-
 Shows or hides task links on the Gantt Chart.
+
 
 ## Syntax
 

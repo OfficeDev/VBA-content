@@ -1,9 +1,8 @@
 
 # PivotLineCells.Parent Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the parent object for the specified  **PivotLineCells** object. Read-only.
+
 
 ## Syntax
 

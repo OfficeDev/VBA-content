@@ -1,9 +1,8 @@
 
 # Workbook.GetWorkflowTemplates Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the collection of  ** [WorkflowTemplate](http://msdn.microsoft.com/library/965d0474-dd51-9b0e-b34c-a11f921ff410%28Office.15%29.aspx)** objects for the specified workbook.
+
 
 ## Syntax
 

@@ -1,10 +1,6 @@
 
 # MinimumScale Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 Returns or sets the minimum value on the axis. Read/write  **Double**.
 
 

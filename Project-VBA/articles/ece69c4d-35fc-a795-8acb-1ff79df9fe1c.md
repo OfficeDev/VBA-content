@@ -1,9 +1,8 @@
 
 # PjDateLabel Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the display format for date and time labels in a timescale.
+
 
 
 |**Name**|**Value**|**Description**|

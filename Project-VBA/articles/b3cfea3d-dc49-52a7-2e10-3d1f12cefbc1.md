@@ -1,9 +1,8 @@
 
 # Project.DeliverableLinkToTask Method (Project)
 
- **Last modified:** July 28, 2015
-
 Links a deliverable to a task.
+
 
 ## Syntax
 

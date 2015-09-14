@@ -1,19 +1,10 @@
 
 # Application.UpdateTasks Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Updates the selected tasks.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **UpdateTasks**( **_PercentComplete_**,  **_ActualDuration_**,  **_RemainingDuration_**,  **_ActualStart_**,  **_ActualFinish_**,  **_Notes_**)
 
@@ -39,13 +30,11 @@ Updates the selected tasks.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using the  **UpdateTasks** method without specifying any arguments displays the **Update Tasks** dialog box.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example creates a task named "TestTask-1", updates the task to 50% complete, and then deletes the task. 
 

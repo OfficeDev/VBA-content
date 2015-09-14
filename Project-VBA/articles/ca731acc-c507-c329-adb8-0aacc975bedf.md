@@ -1,9 +1,8 @@
 
 # Resource.EnterpriseBaseCalendar Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if the resource calendar is an enterprise base calendar; **False** if the resource calendar is a local calendar. Read-only **Boolean**.
+
 
 ## Syntax
 

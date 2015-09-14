@@ -2,16 +2,7 @@
 # Project Members (Project)
 Represents one project in the set of open projects. The  **Project** object is a member of the ** [Projects](5a254428-f50d-e74f-dd31-5cdb260a4364.md)** collection.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -27,7 +18,6 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [Open](ff66a69b-4190-ddef-ad39-12a3f9f85b9c.md)|Occurs when the project opens, but before the  **Activate** event.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -71,7 +61,6 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [SetObjectMatchingID](d0d79e0a-bfec-9882-bfe9-72f7c51f0baf.md)|Sets the matching identification value of an object in the  **Organizer** dialog box, for example to change the view specified by "Gantt Chart".|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

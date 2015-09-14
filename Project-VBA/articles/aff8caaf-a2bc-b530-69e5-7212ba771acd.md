@@ -2,9 +2,6 @@
 # ShapeRange.Name Property (Project)
 Gets or sets the name of the shape range. Read-write  **String**.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Name**

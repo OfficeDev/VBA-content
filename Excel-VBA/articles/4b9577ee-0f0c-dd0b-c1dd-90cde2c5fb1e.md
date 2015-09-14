@@ -1,9 +1,8 @@
 
 # Application.Ready Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean**.
+
 
 ## Syntax
 

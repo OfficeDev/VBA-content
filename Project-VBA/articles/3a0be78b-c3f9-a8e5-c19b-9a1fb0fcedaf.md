@@ -1,9 +1,8 @@
 
 # SplitParts.Parent Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the parent of the  **SplitParts** object. Read-only **Task**.
+
 
 ## Syntax
 

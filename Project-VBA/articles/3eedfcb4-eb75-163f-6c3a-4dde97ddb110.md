@@ -2,9 +2,6 @@
 # Application.AlignTableCellBottom Method (Project)
 Aligns text at the bottom of the cell, for selected cells in a report table.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **AlignTableCellBottom**

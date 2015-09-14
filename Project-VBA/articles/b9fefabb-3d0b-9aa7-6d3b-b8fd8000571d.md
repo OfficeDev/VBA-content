@@ -1,9 +1,8 @@
 
 # Application.LoadWebPane Event (Project)
 
- **Last modified:** July 28, 2015
-
 Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the  **Project/Resource Import Wizard**.
+
 
 ## Syntax
 

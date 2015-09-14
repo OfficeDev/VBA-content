@@ -1,9 +1,8 @@
 
 # WorksheetFunction.IsEven Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Checks the type of value and returns TRUE or FALSE depending if the value is even.
+
 
 ## Syntax
 

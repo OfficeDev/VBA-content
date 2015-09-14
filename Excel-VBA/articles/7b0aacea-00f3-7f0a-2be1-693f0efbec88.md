@@ -1,9 +1,8 @@
 
 # Worksheet.ProtectScenarios Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the worksheet scenarios are protected. Read-only **Boolean**.
+
 
 ## Syntax
 

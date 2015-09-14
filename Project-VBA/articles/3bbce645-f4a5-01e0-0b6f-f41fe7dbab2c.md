@@ -1,9 +1,8 @@
 
 # PjCustomizeMailAction Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the type of action. Obsolete.
+
 
 
 |**Name**|**Value**|**Description**|

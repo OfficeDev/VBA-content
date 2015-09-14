@@ -1,9 +1,8 @@
 
 # Projects.Item Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a single  **Project** object from the **Projects** collection. Read-only **Project**.
+
 
 ## Syntax
 

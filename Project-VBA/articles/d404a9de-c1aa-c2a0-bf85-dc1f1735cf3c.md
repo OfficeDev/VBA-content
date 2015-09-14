@@ -2,9 +2,6 @@
 # Shapes.AddChart Method (Project)
 Creates a chart at the specified location on the active report. Returns a  **Shape** object that represents the chart.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **AddChart**(Style,Type,Left,Top,Width,Height,NewLayout)

@@ -1,9 +1,8 @@
 
 # Shape.AutoShapeType Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the shape type for the specified  ** [Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** or ** [ShapeRange](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write ** [MsoAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx)**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # WorksheetFunction.YieldDisc Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the annual yield for a discounted security.
+
 
 ## Syntax
 
@@ -53,11 +52,11 @@ Double
     
 - If settlement or maturity is not a valid date, YIELDDISC returns the #VALUE! error value.
     
-- If pr â‰¤ 0 or if redemption â‰¤ 0, YIELDDISC returns the #NUM! error value.
+- If pr ≤ 0 or if redemption ≤ 0, YIELDDISC returns the #NUM! error value.
     
 - If basis < 0 or if basis > 4, YIELDDISC returns the #NUM! error value.
     
-- If settlement â‰¥ maturity, YIELDDISC returns the #NUM! error value.
+- If settlement ≥ maturity, YIELDDISC returns the #NUM! error value.
     
 
 ## See also

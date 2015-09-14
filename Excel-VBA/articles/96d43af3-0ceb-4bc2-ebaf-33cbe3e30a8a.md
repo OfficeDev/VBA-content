@@ -1,9 +1,8 @@
 
 # Application.DisplayNoteIndicator Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if cells containing notes display cell tips and contain note indicators (small dots in their upper-right corners). Read/write **Boolean**.
+
 
 ## Syntax
 

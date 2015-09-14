@@ -1,9 +1,8 @@
 
 # Application.WorkbookPivotTableCloseConnection Event (Excel)
 
- **Last modified:** July 28, 2015
-
 Occurs after a PivotTable report connection has been closed.
+
 
 ## Syntax
 

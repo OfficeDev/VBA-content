@@ -1,9 +1,8 @@
 
 # ColorScaleCriteria.Count Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Long** value that specifies the number of criteria for a color scale conditional format rule. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Borders Object (Excel)
 
- **Last modified:** July 28, 2015
-
 A collection of four  ** [Border](bca516bf-7c0f-f9df-078d-dfb522f256f3.md)** objects that represent the four borders of a ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)**or  ** [Style](3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)** object.
+
 
 ## Remarks
 

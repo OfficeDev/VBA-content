@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Sum Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Adds all the numbers in a range of cells.
+
 
 ## Syntax
 

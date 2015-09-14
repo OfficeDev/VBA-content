@@ -1,9 +1,8 @@
 
 # PageSetup.PrintTitleColumns Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the columns that contain the cells to be repeated on the left side of each page, as a string in A1-style notation in the language of the macro. Read/write  **String**.
+
 
 ## Syntax
 

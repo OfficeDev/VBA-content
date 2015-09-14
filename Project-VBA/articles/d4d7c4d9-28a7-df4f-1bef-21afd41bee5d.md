@@ -1,9 +1,8 @@
 
 # Project.VBProject Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
+
 
 ## Syntax
 

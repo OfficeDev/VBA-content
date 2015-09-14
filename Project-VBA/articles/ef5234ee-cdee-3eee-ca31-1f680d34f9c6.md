@@ -1,9 +1,8 @@
 
 # Application.DisplayAlerts Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if Project displays error messages when a macro runs. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # WeekDays.Item Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **WeekDay**.
+
 
 ## Syntax
 

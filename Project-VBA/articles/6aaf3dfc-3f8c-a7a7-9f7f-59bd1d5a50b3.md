@@ -1,9 +1,8 @@
 
 # Task.LinkPredecessors Method (Project)
 
- **Last modified:** July 28, 2015
-
 Adds one or more predecessors to the task.
+
 
 ## Syntax
 

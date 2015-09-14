@@ -1,9 +1,8 @@
 
 # MultiThreadedCalculation Object (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the concurrent calculation mode.
+
 
 ## Syntax
 

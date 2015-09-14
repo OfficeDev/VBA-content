@@ -1,9 +1,8 @@
 
 # FormatCondition.Priority Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist in a worksheet.
+
 
 ## Syntax
 

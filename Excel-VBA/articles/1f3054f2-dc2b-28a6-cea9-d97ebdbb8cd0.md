@@ -1,9 +1,8 @@
 
 # AboveAverage.NumberFormat Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True**. Read/write  **Variant**.
+
 
 ## Syntax
 

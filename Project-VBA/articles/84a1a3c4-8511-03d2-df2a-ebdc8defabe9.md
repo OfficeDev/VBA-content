@@ -1,9 +1,8 @@
 
 # Task.OutlineIndent Method (Project)
 
- **Last modified:** July 28, 2015
-
 Indents a task in the outline.
+
 
 ## Syntax
 

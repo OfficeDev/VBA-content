@@ -1,9 +1,8 @@
 
 # ConditionValue.Value Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the shortest bar or longest bar threshold value for a data bar conditional format. Read/write  **Variant**.
+
 
 ## Syntax
 

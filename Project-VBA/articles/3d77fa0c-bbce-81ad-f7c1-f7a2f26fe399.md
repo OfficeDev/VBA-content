@@ -2,9 +2,6 @@
 # ShapeRange.Count Property (Project)
 Gets the number of shapes in the shape range. Read-only  **Long**.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Count**

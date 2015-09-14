@@ -1,9 +1,8 @@
 
 # Application.DisplayPlanningWizard Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if the PlanningWizard is active. Read/write **Boolean**.
+
 
 ## Syntax
 

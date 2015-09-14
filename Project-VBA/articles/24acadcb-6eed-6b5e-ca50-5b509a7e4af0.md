@@ -1,9 +1,8 @@
 
 # Project.DefaultFixedCostAccrual Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the default method used to accrue fixed task costs in the project. Read/write  **PjAccrueAt**.
+
 
 ## Syntax
 

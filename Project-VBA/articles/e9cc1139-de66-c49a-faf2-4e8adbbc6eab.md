@@ -2,9 +2,6 @@
 # ShapeRange.Flip Method (Project)
 Flips each shape in the shape range around its horizontal or vertical axis.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Flip**(FlipCmd)

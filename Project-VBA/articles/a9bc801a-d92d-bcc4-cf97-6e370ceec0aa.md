@@ -1,9 +1,8 @@
 
 # PjMonth Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify a month.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -2,9 +2,6 @@
 # XmlSchemas Members (Excel)
 Represents the collection of  ** [XmlSchema](61a9b9be-fe04-fe6a-51c7-14b6c7232dca.md)** objects contained by an ** [XmlMap](39b0823f-0068-d8df-e4e1-ca62b55d58f5.md)** object.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

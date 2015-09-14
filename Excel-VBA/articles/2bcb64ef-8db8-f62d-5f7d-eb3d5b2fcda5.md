@@ -1,9 +1,8 @@
 
 # PivotTable.VisualTotals Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean**.
+
 
 ## Syntax
 

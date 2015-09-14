@@ -1,9 +1,8 @@
 
 # Resources.Count Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the number of items in the  **Resources** collection. Read-only **Long**.
+
 
 ## Syntax
 

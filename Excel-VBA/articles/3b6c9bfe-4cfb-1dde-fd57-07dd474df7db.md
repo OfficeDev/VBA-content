@@ -1,9 +1,8 @@
 
 # Workbook.SetPasswordEncryptionOptions Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Sets the options for encrypting workbooks using passwords.
+
 
 ## Syntax
 

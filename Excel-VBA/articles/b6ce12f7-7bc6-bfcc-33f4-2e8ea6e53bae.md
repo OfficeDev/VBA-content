@@ -1,9 +1,8 @@
 
 # Workbook.PivotTableOpenConnection Event (Excel)
 
- **Last modified:** July 28, 2015
-
 Occurs after a PivotTable report opens the connection to its data source.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Workbook.Save Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Saves changes to the specified workbook.
+
 
 ## Syntax
 

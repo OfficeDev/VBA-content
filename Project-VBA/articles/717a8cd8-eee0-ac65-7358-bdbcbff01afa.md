@@ -2,9 +2,6 @@
 # Chart.ShowReportFilterFieldButtons Property (Project)
 Gets or sets whether to display report filter field buttons on a PivotChart. Read/write  **Boolean**.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **ShowReportFilterFieldButtons**

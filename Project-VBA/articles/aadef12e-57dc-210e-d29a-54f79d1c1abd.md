@@ -1,9 +1,8 @@
 
 # Application.ProjectBeforeResourceDelete Event (Project)
 
- **Last modified:** July 28, 2015
-
 Occurs before a resource is deleted.
+
 
 ## Syntax
 

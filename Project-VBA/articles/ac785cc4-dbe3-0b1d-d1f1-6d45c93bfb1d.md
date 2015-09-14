@@ -1,9 +1,8 @@
 
 # GroupCriteria2 Object (Project)
 
- **Last modified:** July 28, 2015
-
 Contains a collection of  ** [GroupCriterion2](06047a9d-a9db-43e0-e759-e24560da7128.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
+
 
 ## Example
 

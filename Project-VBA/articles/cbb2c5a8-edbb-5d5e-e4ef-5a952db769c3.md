@@ -1,9 +1,8 @@
 
 # Application.SelectRowStart Method (Project)
 
- **Last modified:** July 28, 2015
-
 Selects the first cell in the row containing the active cell.
+
 
 ## Syntax
 

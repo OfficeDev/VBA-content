@@ -1,9 +1,8 @@
 
 # Range.Errors Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Allows the user to to access error checking options.
+
 
 ## Syntax
 

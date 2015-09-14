@@ -1,9 +1,8 @@
 
 # Application.DisplayDocumentActionTaskPane Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Set to  **True** to display the **Document Actions** task pane; set to **False** to hide the **Document Actions** task pane. Read/write **Boolean**.
+
 
 ## Syntax
 

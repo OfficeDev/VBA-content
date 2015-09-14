@@ -1,9 +1,8 @@
 
 # Workbook.ChangeHistoryDuration Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the number of days shown in the shared workbook's change history. Read/write  **Long**.
+
 
 ## Syntax
 

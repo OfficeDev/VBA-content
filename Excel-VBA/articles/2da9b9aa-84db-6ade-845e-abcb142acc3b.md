@@ -1,10 +1,6 @@
 
 # BarShape Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 Returns or sets the shape used with the specified 3-D bar or column chart. Read/write XlBarShape .
 
 
@@ -16,7 +12,9 @@ Returns or sets the shape used with the specified 3-D bar or column chart. Read/
 | **xlBox**|
 | **xlConeToPoint**|
 | **xlPyramidToMax**|
+
  _expression_. **BarShape**
+
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
 ## Example

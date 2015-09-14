@@ -1,9 +1,6 @@
 
 # TableStyleElements Methods (Excel)
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

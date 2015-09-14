@@ -1,9 +1,8 @@
 
 # AddIns2.Item Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a single object from a collection.
+
 
 ## Syntax
 

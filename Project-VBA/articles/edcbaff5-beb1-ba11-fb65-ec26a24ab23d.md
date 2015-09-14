@@ -1,19 +1,10 @@
 
 # Application.VisualReportsSaveDatabase Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Saves a Visual Reports database to the default directory or to a specified directory.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **VisualReportsSaveDatabase**( **_strNamePath_**,  **_PjVisualReportsDataLevel_**)
 
@@ -35,13 +26,11 @@ Saves a Visual Reports database to the default directory or to a specified direc
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 Following is an example of using The  **VisualReportsSaveDatabase** method.
 

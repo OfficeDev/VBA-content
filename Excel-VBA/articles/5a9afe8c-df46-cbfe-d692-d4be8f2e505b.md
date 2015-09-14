@@ -1,9 +1,8 @@
 
 # Chart.ProtectionMode Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if user-interface-only protection is turned on. To turn on user interface protection, use the ** [Protect](5f46d721-021b-d615-12c6-78aab49df500.md)**method with the UserInterfaceOnly argument set to **True**. Read-only  **Boolean**.
+
 
 ## Syntax
 

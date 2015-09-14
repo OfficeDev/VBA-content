@@ -1,9 +1,8 @@
 
 # PivotTable.ShowPages Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Creates a new PivotTable report for each item in the page field. Each new report is created on a new worksheet.
+
 
 ## Syntax
 

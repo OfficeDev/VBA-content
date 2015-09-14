@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Delta Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 otherwise.
+
 
 ## Syntax
 

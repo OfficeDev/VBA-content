@@ -1,9 +1,8 @@
 
 # ListObject.ShowAutoFilter Property (Excel)
 
- **Last modified:** July 28, 2015
-
  Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean**.
+
 
 ## Syntax
 

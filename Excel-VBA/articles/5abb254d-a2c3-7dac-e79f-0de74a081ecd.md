@@ -1,9 +1,8 @@
 
 # Workbook.NewSheet Event (Excel)
 
- **Last modified:** July 28, 2015
-
 Occurs when a new sheet is created in the workbook.
+
 
 ## Syntax
 

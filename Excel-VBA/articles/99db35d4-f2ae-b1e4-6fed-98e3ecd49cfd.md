@@ -1,9 +1,8 @@
 
 # LinearGradient.ColorStops Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the  ** [ColorStops](e138347b-f03c-2f50-bf61-f7f2182c9681.md)** for the **LinearGradient** object. Read-only
+
 
 ## Syntax
 

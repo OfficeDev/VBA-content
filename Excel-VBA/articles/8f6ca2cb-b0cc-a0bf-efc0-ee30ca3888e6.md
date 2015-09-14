@@ -1,9 +1,8 @@
 
 # SparklineGroup.ModifyLocation Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Sets the associated  ** [Range](8bc4841b-72f7-34b5-a299-3357bf8f457b.md)** object to modify the location of the sparkline group.
+
 
 ## Syntax
 

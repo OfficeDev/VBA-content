@@ -2,9 +2,6 @@
 # Shape.ZOrder Method (Project)
 Moves the shape in front of or behind other shapes (that is, changes the position in the z-order).
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **ZOrder**(ZOrderCmd)

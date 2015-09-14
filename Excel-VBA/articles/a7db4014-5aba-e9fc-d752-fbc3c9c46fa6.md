@@ -1,9 +1,8 @@
 
 # PivotFilters.Count Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the number of items in the  **PivotFilters** collection. Read-only.
+
 
 ## Syntax
 

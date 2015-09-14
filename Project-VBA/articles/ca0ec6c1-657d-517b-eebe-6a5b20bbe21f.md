@@ -2,9 +2,6 @@
 # Shapes.Parent Property (Project)
 Gets an object that represents the parent of the  **Shapes** object. Read-only **Object**.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Parent**

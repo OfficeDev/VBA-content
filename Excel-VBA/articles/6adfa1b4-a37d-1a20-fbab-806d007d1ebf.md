@@ -1,9 +1,8 @@
 
 # Point.PictureType Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  ** [XlChartPictureType](7d4f70ea-4a66-1b88-49cf-85200c8eebff.md)** value that represents the way pictures are displayed on a column or bar picture chart.
+
 
 ## Syntax
 

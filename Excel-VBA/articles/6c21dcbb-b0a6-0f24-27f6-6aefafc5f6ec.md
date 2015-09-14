@@ -2,9 +2,6 @@
 # TimelineState Members (Excel)
 The timeline-specific state of a  [SlicerCache Object (Excel)](6e6533e3-0503-a1d3-9ecd-f7997233565f.md) object.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

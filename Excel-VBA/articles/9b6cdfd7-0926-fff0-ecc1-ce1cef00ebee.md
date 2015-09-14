@@ -2,9 +2,6 @@
 # ChartObjects Members (Excel)
 A collection of all the  ** [ChartObject](b546e6f2-7ac6-2dea-eba2-f98f68f3df65.md)** objects on the specified chart sheet, dialog sheet, or worksheet.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

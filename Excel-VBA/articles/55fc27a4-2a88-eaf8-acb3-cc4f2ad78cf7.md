@@ -1,9 +1,8 @@
 
 # Gridlines.Format Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the  ** [ChartFormat](edac71b7-ed38-6658-2cbf-6493dc1ad3ed.md)** object. Read-only.
+
 
 ## Syntax
 

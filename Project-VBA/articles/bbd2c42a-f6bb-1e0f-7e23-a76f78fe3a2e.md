@@ -1,9 +1,8 @@
 
 # Task.ActualOvertimeWork Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the actual overtime work (in minutes) for a task. Read-only  **Variant**.
+
 
 ## Syntax
 

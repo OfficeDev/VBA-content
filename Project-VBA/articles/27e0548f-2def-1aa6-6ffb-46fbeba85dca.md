@@ -1,9 +1,8 @@
 
 # Application.ThousandSeparator Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the thousands separator symbol. Read-only  **String**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Task.Recurring Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if the task is a recurring task. Read-only **Variant**.
+
 
 ## Syntax
 

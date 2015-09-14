@@ -1,9 +1,8 @@
 
 # Application.CustomFieldIndicators Method (Project)
 
- **Last modified:** July 28, 2015
-
 Sets options for graphical indicators for a custom field.
+
 
 ## Syntax
 

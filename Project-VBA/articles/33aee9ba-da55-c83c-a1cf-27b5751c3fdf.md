@@ -2,9 +2,6 @@
 # Application.SetLTRTable Method (Project)
 Sets column order from left to right, for a selected table in a report.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **SetLTRTable**

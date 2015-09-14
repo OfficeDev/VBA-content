@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Replace Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Replaces part of a text string, based on the number of characters you specify, with a different text string.
+
 
 ## Syntax
 

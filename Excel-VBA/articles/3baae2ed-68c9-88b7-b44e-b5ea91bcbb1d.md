@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Trend Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns values along a linear trend. Fits a straight line (using the method of least squares) to the arrays known_y's and known_x's. Returns the y-values along that line for the array of new_x's that you specify.
+
 
 ## Syntax
 

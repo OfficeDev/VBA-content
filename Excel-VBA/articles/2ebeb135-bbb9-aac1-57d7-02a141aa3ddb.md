@@ -1,9 +1,8 @@
 
 # Outline.ShowLevels Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Displays the specified number of row and/or column levels of an outline.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Application.GanttBarTextDateFormat Method (Project)
 
- **Last modified:** July 28, 2015
-
 Sets the date format for text around bars on the Gantt Chart.
+
 
 ## Syntax
 

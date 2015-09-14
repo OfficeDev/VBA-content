@@ -1,9 +1,8 @@
 
 # Application.MacroSecurity Method (Project)
 
- **Last modified:** July 28, 2015
-
 Displays the  **Security** dialog box, which can be used to set the security level for macros. It also lists any macro sources that can be trusted.
+
 
 ## Syntax
 

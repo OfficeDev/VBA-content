@@ -1,9 +1,8 @@
 
 # Project.ProjectStart Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the start date for a project. Read/write  **Variant**.
+
 
 ## Syntax
 

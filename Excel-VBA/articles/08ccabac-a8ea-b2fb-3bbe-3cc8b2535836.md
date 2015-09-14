@@ -1,9 +1,8 @@
 
 # XlChartPicturePlacement Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
+
 
 
 |**Name**|**Value**|**Description**|

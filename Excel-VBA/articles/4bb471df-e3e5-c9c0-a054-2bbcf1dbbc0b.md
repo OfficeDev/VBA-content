@@ -1,9 +1,8 @@
 
 # XlSummaryReportType Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the type of summary to be created for scenarios.
+
 
 
 |**Name**|**Value**|**Description**|

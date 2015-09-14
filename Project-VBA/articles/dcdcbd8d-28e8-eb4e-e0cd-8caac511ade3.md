@@ -2,16 +2,7 @@
 # ReportTable.GetCellText Method (Project)
 Returns the text value of the specified cell in a  **ReportTable** object.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **GetCellText**(Row,Col)
 
@@ -37,13 +28,11 @@ The text value of the specified table cell.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The returned string ends with a newline character ( `chr(10)`, which is equivalent to the  **vbCrLf** character).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the [Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md) topic, and then do the following steps (see Figure 1):
 
@@ -127,7 +116,6 @@ Table name: Table 3
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Other resources

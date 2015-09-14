@@ -1,19 +1,10 @@
 
 # Application.FilePageSetupCalendar Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets up the Calendar for printing.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FilePageSetupCalendar**( **_Name_**,  **_MonthsPerPage_**,  **_WeeksPerPage_**,  **_ScreenWeekHeight_**,  **_OnlyDaysInMonth_**,  **_OnlyWeeksInMonth_**,  **_MonthPreviews_**,  **_MonthTitle_**,  **_AdditionalTasks_**,  **_GroupAdditionalTasks_**,  **_PrintNotes_**)
 
@@ -44,13 +35,11 @@ Sets up the Calendar for printing.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using the  **FilePageSetupCalendar** method without specifying any arguments displays the **Page Setup** dialog box with the **View** tab selected. The **FilePageSetupCalendar** method is only available when the Calendar is the active view.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets up the calandar for printing with 2 months per page and with preview calendars for the previous and next months.
 

@@ -1,9 +1,8 @@
 
 # AboveAverage.Borders Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Borders](adb6efd6-73b6-e620-e9be-f4a42bc52ae8.md)** collection that specifies the formatting of cell borders if the conditional formatting rule evaluates to **True**. Read-only.
+
 
 ## Syntax
 

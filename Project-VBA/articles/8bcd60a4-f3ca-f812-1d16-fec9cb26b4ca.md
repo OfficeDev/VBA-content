@@ -2,9 +2,6 @@
 # ViewsCombination Members (Project)
 Contains a collection of  ** [ViewCombination](34e4559a-5eb4-02be-8ad6-bdd3839d91db.md)** objects.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

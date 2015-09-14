@@ -1,9 +1,8 @@
 
 # GroupCriterion.Delete Method (Project)
 
- **Last modified:** July 28, 2015
-
 Deletes the  **GroupCriterion** object from a **GroupCriteria** collection.
+
 
 ## Syntax
 

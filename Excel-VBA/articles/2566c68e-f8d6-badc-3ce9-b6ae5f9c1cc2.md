@@ -1,9 +1,8 @@
 
 # ShadowFormat Object (Excel)
 
- **Last modified:** July 28, 2015
-
 Represents shadow formatting for a shape.
+
 
 ## Remarks
 

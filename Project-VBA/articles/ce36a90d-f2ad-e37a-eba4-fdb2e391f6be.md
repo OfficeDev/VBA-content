@@ -1,9 +1,8 @@
 
 # Project.CanCheckIn Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if Project Professional can check in a project to Project Server. Read-only **Boolean**.
+
 
 ## Syntax
 

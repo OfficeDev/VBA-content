@@ -1,9 +1,8 @@
 
 # Table.TableType Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the table type for the specified table. Read-only  **PjItemType**.
+
 
 ## Syntax
 

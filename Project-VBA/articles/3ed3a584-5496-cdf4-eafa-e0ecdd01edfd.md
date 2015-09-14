@@ -1,9 +1,8 @@
 
 # TimeScaleValue.Clear Method (Project)
 
- **Last modified:** July 28, 2015
-
 Clears the value of a timescaled data item.
+
 
 ## Syntax
 

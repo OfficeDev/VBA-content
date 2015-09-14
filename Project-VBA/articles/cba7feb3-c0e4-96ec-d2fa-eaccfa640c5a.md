@@ -1,9 +1,8 @@
 
 # Project.Calculate Event (Project)
 
- **Last modified:** July 28, 2015
-
 Occurs when a project schedule is recalculated.
+
 
 ## Syntax
 

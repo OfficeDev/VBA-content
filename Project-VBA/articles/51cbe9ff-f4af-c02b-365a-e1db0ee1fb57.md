@@ -1,9 +1,8 @@
 
 # PjFormatUnit Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the format of the units.
+
 
 
 |**Name**|**Value**|**Description**|

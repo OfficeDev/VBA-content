@@ -2,9 +2,6 @@
 # ShapeRange.Item Method (Project)
 Gets an individual  **Shape** object in the shape range collection.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Item**(Index)

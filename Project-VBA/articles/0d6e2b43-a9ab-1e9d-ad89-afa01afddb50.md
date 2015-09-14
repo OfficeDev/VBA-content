@@ -1,9 +1,8 @@
 
 # Application.DrawingMove Method (Project)
 
- **Last modified:** July 28, 2015
-
 Moves the active drawing object forward or backward in the drawing layers.
+
 
 ## Syntax
 

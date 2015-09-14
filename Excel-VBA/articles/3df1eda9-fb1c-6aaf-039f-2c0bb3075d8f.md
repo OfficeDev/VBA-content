@@ -1,9 +1,8 @@
 
 # PivotFilter.Delete Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Deletes the filter and removes it from the filter collections of the PivotField and the PivotTable.
+
 
 ## Syntax
 

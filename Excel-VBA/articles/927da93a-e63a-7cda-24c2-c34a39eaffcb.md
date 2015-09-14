@@ -1,9 +1,8 @@
 
 # WorksheetDataConnection.Parent Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Object** that represents the parent object of the specified [WorksheetDataConnection Object (Excel)](05b67daa-ed68-f0f9-9228-86d6e53ef6e3.md) object. Read-only.
+
 
 ## Syntax
 

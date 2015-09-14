@@ -1,9 +1,8 @@
 
 # Application.VBE Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VBE**.
+
 
 ## Syntax
 

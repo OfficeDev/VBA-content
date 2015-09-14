@@ -1,9 +1,8 @@
 
 # Application.SaveCompletedToServer Event (Project)
 
- **Last modified:** July 28, 2015
-
 Occurs when Project Professional successfully puts the  **Project Save** job in the Project Server Queue.
+
 
 ## Syntax
 

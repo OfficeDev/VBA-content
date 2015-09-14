@@ -1,9 +1,8 @@
 
 # Application.OptionsInterfaceEx Method (Project)
 
- **Last modified:** July 28, 2015
-
 Sets some display options and Project Guide options.
+
 
 ## Syntax
 

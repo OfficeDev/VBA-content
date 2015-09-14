@@ -1,9 +1,8 @@
 
 # XlPivotFieldCalculation Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the type of calculation performed by a data PivotField when a custom calculation is used.
+
 
 
 |**Name**|**Value**|**Description**|

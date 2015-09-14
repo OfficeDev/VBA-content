@@ -1,9 +1,8 @@
 
 # PjSaveBaselineFrom Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify which fields to copy from.
+
 
 
 |**Name**|**Value**|**Description**|

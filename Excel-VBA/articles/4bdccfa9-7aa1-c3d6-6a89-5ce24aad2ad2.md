@@ -1,9 +1,8 @@
 
 # Worksheet.Names Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection that represents all the worksheet-specific names (names defined with the "WorksheetName!" prefix). Read-only **Names** object.
+
 
 ## Syntax
 

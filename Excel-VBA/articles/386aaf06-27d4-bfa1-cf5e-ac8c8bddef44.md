@@ -1,9 +1,8 @@
 
 # QueryTable.FetchedRowOverflow Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the number of rows returned by the last use of the ** [Refresh](445d74fb-1a9c-bba4-2d53-0ab0caa876da.md)** method is greater than the number of rows available on the worksheet. Read-only **Boolean**.
+
 
 ## Syntax
 

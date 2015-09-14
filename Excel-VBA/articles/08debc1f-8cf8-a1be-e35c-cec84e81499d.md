@@ -1,9 +1,8 @@
 
 # TableObject.RowNumbers Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies if row numbers are added as the first column of the specified query table.  **Boolean** Read/Write
+
 
 ## Syntax
 

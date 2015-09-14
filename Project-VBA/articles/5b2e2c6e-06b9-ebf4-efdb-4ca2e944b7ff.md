@@ -1,19 +1,10 @@
 
 # StartDriver.EffectiveDateAdd Property (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only  **Variant**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **EffectiveDateAdd**( **_Date_**,  **_Duration_**)
 
@@ -30,7 +21,6 @@ Gets the date and time that follows another date by a specified duration, using 
 |Duration|Required| **Variant**|Duration to add, for example, "3d" or "2w".|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **EffectiveDateAdd** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
 
@@ -40,7 +30,6 @@ To calculate a date for an automatically scheduled task, where you can also spec
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following statement returns the value "7/9/2009 5:00:00 PM", which is six days after the specified date. 
 

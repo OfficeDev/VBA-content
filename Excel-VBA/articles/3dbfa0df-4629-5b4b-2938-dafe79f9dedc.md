@@ -1,9 +1,8 @@
 
 # XmlDataBinding.ClearSettings Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Removes the specified data binding.
+
 
 ## Syntax
 

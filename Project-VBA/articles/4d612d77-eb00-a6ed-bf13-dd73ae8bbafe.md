@@ -1,9 +1,8 @@
 
 # ViewSingle.Screen Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the screen type for the single view. Read-only  **PjViewScreen**.
+
 
 ## Syntax
 

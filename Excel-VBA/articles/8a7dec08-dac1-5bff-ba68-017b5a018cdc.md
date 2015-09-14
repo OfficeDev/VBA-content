@@ -1,9 +1,8 @@
 
 # WorksheetFunction.CoupDayBs Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the number of days from the beginning of the coupon period to the settlement date.
+
 
 ## Syntax
 
@@ -55,7 +54,7 @@ The following table contains the list of values for  _Arg4_.
     
 - If basis < 0 or if basis > 4, CoupDayBs generates an error.
     
-- If settlement â‰¥ maturity, CoupDayBs generates an error.
+- If settlement ≥ maturity, CoupDayBs generates an error.
     
 
 ## See also

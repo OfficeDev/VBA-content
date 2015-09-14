@@ -1,9 +1,8 @@
 
 # Table.TableFields Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a  ** [TableFields](7f749404-0723-7a17-b83f-f43725c45fc5.md)** collection representing the fields in the table. Read-only **TableFields**.
+
 
 ## Syntax
 

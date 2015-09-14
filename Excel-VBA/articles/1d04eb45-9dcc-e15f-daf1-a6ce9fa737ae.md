@@ -1,9 +1,8 @@
 
 # Application.AskToUpdateLinks Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Excel asks the user to update links when opening files with links. **False** if links are automatically updated with no dialog box. Read/write **Boolean**.
+
 
 ## Syntax
 

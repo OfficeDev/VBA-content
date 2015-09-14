@@ -1,9 +1,8 @@
 
 # Workbook.CanCheckIn Method (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Excel can check in a specified workbook to a server. Read/write **Boolean**.
+
 
 ## Syntax
 

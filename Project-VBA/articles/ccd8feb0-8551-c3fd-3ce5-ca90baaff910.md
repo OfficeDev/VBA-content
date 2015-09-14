@@ -1,9 +1,8 @@
 
 # Application.GanttBarStyleSlack Method (Project)
 
- **Last modified:** July 28, 2015
-
 Shows or hides the slack style for tasks on the active Gantt chart.
+
 
 ## Syntax
 

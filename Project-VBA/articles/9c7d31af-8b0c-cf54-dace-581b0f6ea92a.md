@@ -1,9 +1,8 @@
 
 # Day.Calendar Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets a  ** [Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** object representing the calendar containing the **Day** object. Read-only **Calendar**.
+
 
 ## Syntax
 

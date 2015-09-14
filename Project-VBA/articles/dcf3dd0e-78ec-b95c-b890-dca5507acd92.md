@@ -1,19 +1,10 @@
 
 # Application.OpenXML Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Opens a project from an XML string.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **OpenXML**( **_XML_**)
 
@@ -34,7 +25,6 @@ Opens a project from an XML string.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The Project XML schema is available in the Project SDK, as the file mspdi_pj15.xsd. You can create an XML file by saving a project to XML, and then editing the file. If you programmatically create an XML string, you should validate it against the schema before using it with the  **OpenXML** method.
 
@@ -45,7 +35,6 @@ The  **OpenXML** method returns 0 if it is successful.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example opens a file named OneTaskEdited.xml that was created by saving a project as XML and then editing the file to remove default values. The example requires a reference to the Microsoft Scripting Runtime library (scrrun.dll).
 

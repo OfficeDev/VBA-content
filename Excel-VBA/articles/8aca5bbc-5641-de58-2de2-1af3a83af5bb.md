@@ -1,9 +1,8 @@
 
 # WorksheetFunction.OddFPrice Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the price per $100 face value of a security having an odd (short or long) first period.
+
 
 ## Syntax
 

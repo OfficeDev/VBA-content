@@ -1,9 +1,8 @@
 
 # WorkbookConnection.InModel Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies whether or not the  [WorkbookConnection Object (Excel)](5974dd57-7671-cd55-3f8f-6a76fa938317.md) has been added to the model. **Boolean** Read-only
+
 
 ## Syntax
 

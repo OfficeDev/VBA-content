@@ -1,9 +1,8 @@
 
 # Chart.ProtectSelection Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if chart elements cannot be selected. Read/write **Boolean**.
+
 
 ## Syntax
 

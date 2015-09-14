@@ -1,9 +1,8 @@
 
 # ShapeRange.Line Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [LineFormat](13eca34b-adf7-ddd3-8c73-cc8b508c624a.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
+
 
 ## Syntax
 

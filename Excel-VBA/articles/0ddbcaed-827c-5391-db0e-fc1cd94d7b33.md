@@ -1,9 +1,8 @@
 
 # ShapeRange.SetShapesDefaultProperties Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Makes the formatting of the specified shape the default formatting for the shape.
+
 
 ## Syntax
 

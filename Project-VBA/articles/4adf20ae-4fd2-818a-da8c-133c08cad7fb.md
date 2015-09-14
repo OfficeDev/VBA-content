@@ -1,19 +1,10 @@
 
 # Application.SelectBeginning Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Selects the first cell in the active table or view.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SelectBeginning**( **_Extend_**)
 
@@ -34,13 +25,11 @@ Selects the first cell in the active table or view.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 In the Resource Graph,  **SelectBeginning** selects the resource with the lowest identification number. In the Network Diagram, **SelectBeginning** selects the box closest to the upper-left corner of the view.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example selects the "Name" field of row 4 as the beginning field in the Gantt Chart.
 

@@ -1,9 +1,8 @@
 
 # Application.ColumnInsert Method (Project)
 
- **Last modified:** July 28, 2015
-
 Inserts a column to the left of the active column, and then displays the  **Field Settings** dialog box.
+
 
 ## Syntax
 

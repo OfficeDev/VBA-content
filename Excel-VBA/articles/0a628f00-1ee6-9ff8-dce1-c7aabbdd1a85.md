@@ -1,9 +1,8 @@
 
 # Chart.SeriesCollection Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns an object that represents either a single series (a  ** [Series](c7d34b32-8172-f7a0-0a17-f01d44246b64.md)** object) or a collection of all the series (a ** [SeriesCollection](93aa1f0b-4939-8c60-a444-2f791e8ce144.md)**collection) in the chart or chart group.
+
 
 ## Syntax
 

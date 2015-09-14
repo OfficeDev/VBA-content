@@ -1,9 +1,8 @@
 
 # Application.CustomFieldIndicatorDelete Method (Project)
 
- **Last modified:** July 28, 2015
-
 Removes a test condition from a custom field graphical indicator criteria list.
+
 
 ## Syntax
 

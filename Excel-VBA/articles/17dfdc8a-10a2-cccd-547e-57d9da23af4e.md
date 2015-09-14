@@ -1,9 +1,8 @@
 
 # ModelColumnName.ColumnName Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **String** representing the name of a column of the table identified by the [ModelColumnName.TableName Property (Excel)](e6d4237b-ce80-00c1-a67f-794fedb8b05f.md) property. Read-only.
+
 
 ## Syntax
 

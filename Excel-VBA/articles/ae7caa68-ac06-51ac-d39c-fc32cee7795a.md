@@ -1,9 +1,8 @@
 
 # PivotFormula.Formula Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** value that represents the object's formula in A1-style notation and in the language of the macro.
+
 
 ## Syntax
 

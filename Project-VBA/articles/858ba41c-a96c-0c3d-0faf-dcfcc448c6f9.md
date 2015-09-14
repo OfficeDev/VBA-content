@@ -2,17 +2,7 @@
 # Chart.DataTable Property (Project)
 Gets an  **Office.IMsoDataTable** object that represents the chart data table. Read-only **IMsoDataTable**.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
- [Property value](#sectionSection3)
-
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DataTable**
 
@@ -20,13 +10,11 @@ Gets an  **Office.IMsoDataTable** object that represents the chart data table. R
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To see the  **IMsoDataTable** object, right-click in the Object Browser, and then choose **Show Hidden Members**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example adds a data table with an outline border to the chart on the active report.
 
@@ -48,13 +36,11 @@ End Sub
 
 
 ## Property value
-<a name="sectionSection3"> </a>
 
  **IMSODATATABLE**
 
 
 ## See also
-<a name="sectionSection3"> </a>
 
 
 #### Other resources

@@ -1,9 +1,8 @@
 
 # Phonetics.Delete Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Deletes the object.
+
 
 ## Syntax
 

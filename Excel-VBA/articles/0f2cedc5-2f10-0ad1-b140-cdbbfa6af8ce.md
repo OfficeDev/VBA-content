@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Fv Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the future value of an investment based on periodic, constant payments and a constant interest rate.
+
 
 ## Syntax
 

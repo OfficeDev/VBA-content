@@ -1,9 +1,8 @@
 
 # Pane.View Method (Project)
 
- **Last modified:** July 28, 2015
-
 Returns the active  **View** object.
+
 
 ## Syntax
 

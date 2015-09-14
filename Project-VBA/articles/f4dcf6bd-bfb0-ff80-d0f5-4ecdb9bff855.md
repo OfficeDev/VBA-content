@@ -1,9 +1,8 @@
 
 # PjAutomaticSaveOptions Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the files to save.
+
 
 
 |**Name**|**Value**|**Description**|

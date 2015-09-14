@@ -1,9 +1,8 @@
 
 # Workbook.ChangeFileAccess Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Changes the access permissions for the workbook. This may require an updated version to be loaded from the disk.
+
 
 ## Syntax
 

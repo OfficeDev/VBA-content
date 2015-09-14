@@ -1,9 +1,8 @@
 
 # Resource.Group Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the group to which a resource belongs. Read/write  **String**.
+
 
 ## Syntax
 

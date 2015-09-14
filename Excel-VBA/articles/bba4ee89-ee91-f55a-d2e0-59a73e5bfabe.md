@@ -1,9 +1,8 @@
 
 # XlChartType Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the chart type.
+
 
 
 |**Name**|**Value**|**Description**|

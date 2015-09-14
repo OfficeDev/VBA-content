@@ -1,9 +1,8 @@
 
 # Application.GroupApply Method (Project)
 
- **Last modified:** July 28, 2015
-
 Sets the current group.
+
 
 ## Syntax
 

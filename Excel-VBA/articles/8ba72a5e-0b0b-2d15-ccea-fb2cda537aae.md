@@ -1,9 +1,8 @@
 
 # TimelineState.FilterType Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the type of the date filter.  [XlPivotFilterType Enumeration (Excel)](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md) Read-only
+
 
 ## Syntax
 

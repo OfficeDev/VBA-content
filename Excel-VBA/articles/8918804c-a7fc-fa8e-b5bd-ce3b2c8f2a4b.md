@@ -1,9 +1,8 @@
 
 # ModelConnection.Parent Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Object** that represents the parent object of the specified [ModelConnection](db1b8e2b-76f7-5a6f-b510-6a4d6c4e9857.md) object. Read-only.
+
 
 ## Syntax
 

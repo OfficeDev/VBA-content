@@ -1,10 +1,6 @@
 
 # ApplyPictToSides Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 
 

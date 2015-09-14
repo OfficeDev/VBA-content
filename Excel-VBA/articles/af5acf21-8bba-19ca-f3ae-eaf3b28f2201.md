@@ -1,9 +1,8 @@
 
 # AboveAverage.StopIfTrue Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PageSetup.FooterMargin Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the distance from the bottom of the page to the footer, in points. Read/write  **Double**.
+
 
 ## Syntax
 

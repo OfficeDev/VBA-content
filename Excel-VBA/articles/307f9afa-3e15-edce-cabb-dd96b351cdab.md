@@ -1,9 +1,8 @@
 
 # WorksheetFunction.F_Dist_RT Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the right-tailed F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity. For example, you can examine the test scores of men and women entering high school and determine if the variability in the females is different from that found in the males.
+
 
 ## Syntax
 
@@ -38,9 +37,9 @@ Double
     
 - If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
     
-- If degrees_freedom1 < 1 or degrees_freedom1 â‰¥ 10^10, F_DIST_RT returns the #NUM! error value.
+- If degrees_freedom1 < 1 or degrees_freedom1 ≥ 10^10, F_DIST_RT returns the #NUM! error value.
     
-- If degrees_freedom2 < 1 or degrees_freedom2 â‰¥ 10^10, F_DIST_RT returns the #NUM! error value.
+- If degrees_freedom2 < 1 or degrees_freedom2 ≥ 10^10, F_DIST_RT returns the #NUM! error value.
     
 - F_DIST_RT is calculated as F_DIST_RT=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
     

@@ -1,9 +1,8 @@
 
 # PictureFormat Object (Excel)
 
- **Last modified:** July 28, 2015
-
 Contains properties and methods that apply to pictures and OLE objects.
+
 
 ## Remarks
 

@@ -1,9 +1,8 @@
 
 # Tasks.Parent Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the parent of the  **Tasks** object. Read-only **Project**.
+
 
 ## Syntax
 

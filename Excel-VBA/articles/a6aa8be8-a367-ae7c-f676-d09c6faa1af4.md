@@ -1,9 +1,8 @@
 
 # XlSaveAction Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies during file close if the file will be saved.
+
 
 
 |**Name**|**Value**|**Description**|

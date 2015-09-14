@@ -2,16 +2,7 @@
 # Application.AddSiteColumn Method (Project)
 Adds a column that becomes available for the tasks list in the synchronized SharePoint site for the active project.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AddSiteColumn**(ProjectField, SharePointName)
 
@@ -37,7 +28,6 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or object-defined error," in the following cases:
 
@@ -52,7 +42,7 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
     
 - The ProjectField value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
     
-    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in  **PjField**, there are 357â€”including local task custom fieldsâ€”that can be used with the  **AddSiteColumn** method.
+    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in  **PjField**, there are 357—including local task custom fields—that can be used with the  **AddSiteColumn** method.
     
 
     **Table 1. Additional prohibited fields**
@@ -80,11 +70,10 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
 | **pjTaskStatus**| **pjTaskStatusIndicator**| **pjTaskSubproject**|
 | **pjTaskSubprojectReadOnly**| **pjTaskTotalSlack**| **pjTaskType**|
 | **pjTaskWarning**| **pjTaskWorkContour**| ****|
-It is possible to add a field that already exists in the tasks list, if you use a unique name for the SharePointName parameterâ€”although the value of doing so is questionable.
+It is possible to add a field that already exists in the tasks list, if you use a unique name for the SharePointName parameter—although the value of doing so is questionable.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 To use the  **AddDurationColumns** macro, create a tasks list in a SharePoint site, create a project in Project Professional, and then use the **LinkToTaskList** method to import the task list. Set a baseline for the active project by using the **Set Baseline** command on the **PROJECT** tab of the ribbon, and then change the duration of some tasks.
 
@@ -146,7 +135,6 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,9 +1,8 @@
 
 # TextEffectFormat.FontItalic Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**.
+
 
 ## Syntax
 

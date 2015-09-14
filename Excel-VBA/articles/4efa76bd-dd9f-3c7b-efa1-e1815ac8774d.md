@@ -1,9 +1,8 @@
 
 # Application.WorkbookAfterSave Event (Excel)
 
- **Last modified:** July 28, 2015
-
 Occurs after the workbook is saved.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # SpellingOptions.ArabicStrictFinalYaa Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets whether the spelling checker uses rules regarding Arabic words ending with the letter yaa. Read/write
+
 
 ## Syntax
 

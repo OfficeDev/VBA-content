@@ -1,9 +1,8 @@
 
 # Tables Object (Project)
 
- **Last modified:** July 28, 2015
-
 Contains a collection of  ** [Table](f50f5d2d-a733-c5b0-16d8-e4ee98943321.md)** objects.
+
 
 ## See also
 

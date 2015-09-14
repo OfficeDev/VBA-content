@@ -1,9 +1,6 @@
 
 # TextFrame2 Properties (Excel)
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

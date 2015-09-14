@@ -1,9 +1,8 @@
 
 # TaskGroups.Add Method (Project)
 
- **Last modified:** July 28, 2015
-
 Adds a  **Group** object to a **TaskGroups** collection.
+
 
 ## Syntax
 

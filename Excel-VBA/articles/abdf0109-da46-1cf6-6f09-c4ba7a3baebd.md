@@ -1,9 +1,8 @@
 
 # PivotField.Calculation Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  ** [XlPivotFieldCalculation](94ceaa53-9dfc-149a-6aed-30d8fdb57b5b.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
+
 
 ## Syntax
 

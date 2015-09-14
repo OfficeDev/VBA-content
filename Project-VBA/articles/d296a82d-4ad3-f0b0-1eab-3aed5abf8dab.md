@@ -1,9 +1,8 @@
 
 # WorkWeeks.Parent Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the parent of the  **WorkWeeks** object. Read-only **Calendar**.
+
 
 ## Syntax
 

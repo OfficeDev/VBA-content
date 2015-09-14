@@ -1,9 +1,8 @@
 
 # Project.SetObjectMatchingID Method (Project)
 
- **Last modified:** July 28, 2015
-
 Sets the matching identification value of an object in the  **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
+
 
 ## Syntax
 

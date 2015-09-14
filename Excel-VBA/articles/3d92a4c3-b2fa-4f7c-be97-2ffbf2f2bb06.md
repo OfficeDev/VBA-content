@@ -1,10 +1,6 @@
 
 # Fill a Value Down into Blank Cells in a Column
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 The following example looks at column A, and if there is a blank cell, sets the value of the blank cell to equal the value of the cell above it. This continues down the entire column, filling a value down into each blank cell.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)

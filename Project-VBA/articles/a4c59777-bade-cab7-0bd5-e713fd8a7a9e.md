@@ -1,9 +1,8 @@
 
 # Year.Default Method (Project)
 
- **Last modified:** July 28, 2015
-
 Resets the  **Year** item of a resource calendar to the value in the corresponding value in the base calendar.
+
 
 ## Syntax
 

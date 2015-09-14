@@ -2,9 +2,6 @@
 # CalendarDrivers Members (Project)
 The  **CalendarDrivers** object is a collection of ** [Resource](eb83ed2f-2415-3f5d-3856-f4451a73a128.md)** objects that affect the task start date.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

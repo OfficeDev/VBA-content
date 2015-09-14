@@ -1,9 +1,8 @@
 
 # SeriesCollection.Add Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Adds one or more new series to the  **SeriesCollection** collection.
+
 
 ## Syntax
 

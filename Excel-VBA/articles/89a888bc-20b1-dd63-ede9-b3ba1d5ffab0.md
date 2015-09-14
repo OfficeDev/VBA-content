@@ -1,9 +1,8 @@
 
 # Names.Add Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Defines a new name for a range of cells.
+
 
 ## Syntax
 
@@ -25,7 +24,7 @@ Defines a new name for a range of cells.
 |
 |Visible|Optional| **Variant**| **True** specifies that the name is defined as visible. **False** specifies that the name is defined as hidden. A hidden name does not appear in the **Define Name**,  **Paste Name**, or  **Goto** dialog box. The default value is **True**.|
 |MacroType|Optional| **Variant**|The macro type, determined by one of the following values:
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>1 - User-defined function (<b>Function</b> procedure)</p></li><li><p>2 - Macro (<b>Sub</b> procedure)</p></li><li><p>3 or omitted - None (the name does not  refer to a user-defined function or macro)</p></li></ul>|
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>1 - User-defined function (<b>Function</b> procedure)</p></li><li><p>2 - Macro (<b>Sub</b> procedure)</p></li><li><p>3 or omitted - None (the name does not  refer to a user-defined function or macro)</p></li></ul>|
 |ShortcutKey|Optional| **Variant**|Specifies the macro shortcut key. Must be a single letter, such as "z" or "Z". Applies only for command macros.|
 |Category|Optional| **Variant**|The category of the macro or function if the MacroType argument equals 1 or 2. The category is used in the Function Wizard. Existing categories can be referred to either by number, starting at 1, or by name, in English. Microsoft Office Excel 2007 creates a new category if the specified category does not exist.|
 |NameLocal|Optional| **Variant**|Specifies the localized text to use as the name if the Name parameter is not specified. Names cannot include spaces and cannot be formatted as cell references.|

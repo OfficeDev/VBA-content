@@ -1,9 +1,8 @@
 
 # Application.ClearConstraint Method (Project)
 
- **Last modified:** July 28, 2015
-
 Clears the constraint on a specified task.
+
 
 ## Syntax
 

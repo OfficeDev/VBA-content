@@ -1,9 +1,8 @@
 
 # CubeField.DragToPage Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the field can be dragged to the page position. The default value is **True**. Read/write  **Boolean**.
+
 
 ## Syntax
 

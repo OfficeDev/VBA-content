@@ -1,19 +1,10 @@
 
 # Project.DeliverablesGetByProject Method (Project)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets a list of all deliverables for the specified enterprise project in the XML member of the returned object. Project Professional only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DeliverablesGetByProject**( **_ProjectGuid_**)
 
@@ -34,13 +25,11 @@ Gets a list of all deliverables for the specified enterprise project in the XML 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using VBA to process the  **XML** member of the **DeliverablesGetByProject** result object requires complex and non-intuitive code. We recommend that you use the Office and SharePoint Development Tools in Visual Studio 2012 to create an add-in for Project when you use Project Server and SharePoint features. The easiest approach to processing XML is to use the LINQ to XML methods in the .NET Framework 4.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `http://ServerName/PWA/Simple`. The  **TestDeliverables** macro shows a message box that contains part of the XML result.
 

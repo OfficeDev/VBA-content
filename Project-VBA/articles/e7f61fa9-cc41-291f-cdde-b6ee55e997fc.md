@@ -1,9 +1,8 @@
 
 # Year.Index Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the index of a  **Year** object in the **Years** containing object. Read-only **Integer**.
+
 
 ## Syntax
 

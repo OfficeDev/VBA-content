@@ -1,9 +1,8 @@
 
 # GroupCriteria2.Parent Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the parent of the object. Read-only  **Group2**.
+
 
 ## Syntax
 

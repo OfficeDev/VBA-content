@@ -1,9 +1,8 @@
 
 # AxisTitle.Position Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the position of the axis title on the chart. Read/write  ** [XlChartElementPosition](37de7a13-ac72-42e8-7eca-a845b84ff4a0.md)**.
+
 
 ## Syntax
 

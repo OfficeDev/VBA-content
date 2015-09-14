@@ -1,9 +1,8 @@
 
 # PjTextItem Enumeration (Project)
 
- **Last modified:** July 28, 2015
-
 Contains constants that specify the text item in the Project database. For more information about working with fields in Project, see the "Fields reference" topics in Project Help.
+
 
 
 |**Name**|**Value**|**Description**|

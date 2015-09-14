@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Pi Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the number 3.14159265358979, the mathematical constant pi, accurate to 15 digits.
+
 
 ## Syntax
 

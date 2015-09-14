@@ -1,9 +1,8 @@
 
 # Period.Count Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets the number of days in the  **Period** object. Read-only **Integer**.
+
 
 ## Syntax
 

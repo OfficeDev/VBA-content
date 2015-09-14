@@ -1,10 +1,6 @@
 
 # MajorUnitScale Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 Returns or sets the major unit scale value for the category axis when the CategoryType property is set to xlTimeScale. Read/write XlTimeUnit .
 
 
@@ -13,7 +9,9 @@ Returns or sets the major unit scale value for the category axis when the Catego
 | **xlDays**|
 | **xlMonths**|
 | **xlYears**|
+
  _expression_. **MajorUnitScale**
+
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
 ## Example

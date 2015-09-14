@@ -1,9 +1,8 @@
 
 # Application.FilterClear Method (Project)
 
- **Last modified:** July 28, 2015
-
 Removes any filter that is set on the current view.
+
 
 ## Syntax
 

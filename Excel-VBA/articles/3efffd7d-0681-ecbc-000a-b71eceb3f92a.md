@@ -1,9 +1,8 @@
 
 # Workbook.BuiltinDocumentProperties Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [DocumentProperties](http://msdn.microsoft.com/library/90d42786-7d9a-b604-dbdf-88db41cbe69b%28Office.15%29.aspx)** collection that represents all the built-in document properties for the specified workbook. Read-only.
+
 
 ## Syntax
 

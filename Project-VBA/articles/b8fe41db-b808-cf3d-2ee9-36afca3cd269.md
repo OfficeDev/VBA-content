@@ -1,9 +1,8 @@
 
 # Application.ToggleResourceDetails Method (Project)
 
- **Last modified:** July 28, 2015
-
 Shows or hides the  **Resource Form** in the bottom pane of a split view.
+
 
 ## Syntax
 

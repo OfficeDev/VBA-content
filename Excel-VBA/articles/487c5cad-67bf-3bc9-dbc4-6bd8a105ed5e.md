@@ -1,9 +1,8 @@
 
 # Application.Watches Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Watches](de403bcc-b927-90f6-75d7-9c936c7f58f7.md)**object representing a range which is tracked when the worksheet is recalculated.
+
 
 ## Syntax
 

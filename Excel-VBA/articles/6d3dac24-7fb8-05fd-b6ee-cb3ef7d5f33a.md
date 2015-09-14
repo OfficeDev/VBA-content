@@ -1,9 +1,8 @@
 
 # Application.CalculateFullRebuild Method (Excel)
 
- **Last modified:** July 28, 2015
-
 For all open workbooks, forces a full calculation of the data and rebuilds the dependencies.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PivotTable.PivotTableWizard Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Creates and returns a  ** [PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object. This method doesn't display the PivotTable Wizard. This method isn't available for OLE DB data sources. Use the ** [Add](3b830532-e834-81c8-dd5e-a43ed2efc269.md)** method to add a PivotTable cache, and then create a PivotTable report based on the cache.
+
 
 ## Syntax
 

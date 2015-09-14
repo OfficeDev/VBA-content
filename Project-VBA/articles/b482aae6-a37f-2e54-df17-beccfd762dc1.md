@@ -2,9 +2,6 @@
 # ShapeRange.Copy Method (Project)
 Copies the shape range to the Clipboard.
 
- **Last modified:** July 28, 2015
-
-
 ## Syntax
 
  _expression_. **Copy**

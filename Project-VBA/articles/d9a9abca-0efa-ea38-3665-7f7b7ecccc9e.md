@@ -1,9 +1,8 @@
 
 # Application.LevelFreeformTasks Property (Project)
 
- **Last modified:** July 28, 2015
-
  **True** if manually scheduled tasks are leveled; otherwise, **False**. Read/write  **Boolean**.
+
 
 ## Syntax
 

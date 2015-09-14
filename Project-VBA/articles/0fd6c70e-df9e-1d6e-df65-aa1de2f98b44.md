@@ -1,9 +1,8 @@
 
 # Task.HyperlinkAddress Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the URL or UNC path of a document. Read/write  **String**.
+
 
 ## Syntax
 

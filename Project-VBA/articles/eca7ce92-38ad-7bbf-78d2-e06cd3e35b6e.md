@@ -1,9 +1,8 @@
 
 # Application.Calculation Property (Project)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the calculation mode. Read/write  **PjCalculation**.
+
 
 ## Syntax
 

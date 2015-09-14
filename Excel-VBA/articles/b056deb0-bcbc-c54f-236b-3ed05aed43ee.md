@@ -1,9 +1,8 @@
 
 # OLEObjects.SendToBack Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Sends the object to the back of the z-order.
+
 
 ## Syntax
 
