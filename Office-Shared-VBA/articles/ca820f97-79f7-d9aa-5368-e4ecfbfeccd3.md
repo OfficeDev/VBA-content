@@ -1,9 +1,8 @@
 
 # ServerPolicy.Description Property (Office)
 
- **Last modified:** July 28, 2015
-
 A description of what the server policy is and its purpose. Read-only.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # Point.Explosion Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Explosion**
 
@@ -21,13 +12,11 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Rea
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property returns 0 (zero) if there is no explosion (the tip of the slice is in the center of the pie). 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 
@@ -53,7 +42,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

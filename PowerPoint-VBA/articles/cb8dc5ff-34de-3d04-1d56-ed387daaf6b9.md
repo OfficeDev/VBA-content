@@ -2,9 +2,6 @@
 # TextRange Members (PowerPoint)
 Contains the text that's attached to a shape, and properties and methods for manipulating the text.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

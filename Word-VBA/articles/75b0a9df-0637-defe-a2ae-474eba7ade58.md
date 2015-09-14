@@ -1,9 +1,8 @@
 
 # HangulAndAlphabetExceptions.Count Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Long** that represents the number of exceptions in the collection. Read-only.
+
 
 ## Syntax
 

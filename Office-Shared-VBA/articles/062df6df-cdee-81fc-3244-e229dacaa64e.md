@@ -1,19 +1,10 @@
 
 # DocumentProperty.LinkToContent Property (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Is  **True** if the value of the custom document property is linked to the content of the container document. **False** if the value is static. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **LinkToContent**( **_pfLinkRetVal_**)
 
@@ -29,7 +20,6 @@ Is  **True** if the value of the custom document property is linked to the conte
 |pfLinkRetVal|Required| **Boolean**|Indicates whether the document property is linked to the container document.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property applies only to custom document properties. For built-in document properties, the value of this property is  **False**.
 
@@ -37,7 +27,6 @@ Use the  **LinkSource**property to set the source for the specified linked prope
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the linked status of the custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
 
@@ -60,7 +49,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

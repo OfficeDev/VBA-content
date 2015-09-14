@@ -1,19 +1,10 @@
 
 # Document.ManualHyphenation Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Initiates manual hyphenation of a document, one line at a time.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ManualHyphenation**
 
@@ -21,13 +12,11 @@ Initiates manual hyphenation of a document, one line at a time.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When you use the  **ManualHyphenation** method, Word prompts he user to accept or decline suggested hyphenations.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example starts manual hyphenation of the active document.
 
@@ -51,7 +40,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

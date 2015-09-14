@@ -1,13 +1,12 @@
 
 # Reset Statement
 
- **Last modified:** July 28, 2015
-
 Closes all disk files opened using the  **Open** statement.
 
  **Syntax**
 
  **Reset**
+
  **Remarks**
 The  **Reset** statement closes all active files opened by the **Open** statement and writes the contents of all file buffers to disk.
 

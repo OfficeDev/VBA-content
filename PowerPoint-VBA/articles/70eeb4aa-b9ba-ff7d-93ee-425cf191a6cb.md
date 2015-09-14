@@ -1,9 +1,8 @@
 
 # AnimationBehavior Object (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The  **AnimationBehavior** object is a member of the ** [AnimationBehaviors](40e11093-5cbd-c8d3-04b5-4cd7de97bfa7.md)** collection.
+
 
 ## Example
 

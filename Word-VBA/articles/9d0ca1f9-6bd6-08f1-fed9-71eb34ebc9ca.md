@@ -1,9 +1,8 @@
 
 # WdHebSpellStart Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies which rules the Hebrew spelling checker will follow.
+
 
 
 |**Name**|**Value**|**Description**|

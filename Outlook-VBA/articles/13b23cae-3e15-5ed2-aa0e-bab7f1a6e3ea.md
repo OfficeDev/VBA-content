@@ -1,9 +1,8 @@
 
 # OlkTimeControl.AutoSize Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
+
 
 ## Syntax
 

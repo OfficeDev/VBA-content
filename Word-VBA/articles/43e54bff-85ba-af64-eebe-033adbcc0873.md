@@ -1,9 +1,8 @@
 
 # BuildingBlock.Category Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Category](5485ae39-fbcf-b18f-b1f9-945e220ecd2a.md)** object that represents the category for a building block. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # MailMergeDataSource.MappedDataFields Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** collection that represents the mapped data fields available in Microsoft Word.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Page.Copy Method (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Copies the contents of an object to the Clipboard.
+
 
 ## Syntax
 

@@ -1,10 +1,7 @@
 
 # Expected Sub, Function, or Property
 
- **Last modified:** July 28, 2015
-
 The syntax of your statement indicates a  **Sub**,  **Function**, or  **Property** procedure invocation. This error has the following cause and solution:
-
 
 
 

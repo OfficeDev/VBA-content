@@ -1,9 +1,8 @@
 
 # Pane.VerticalPercentScrolled Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the vertical scroll position as a percentage of the document length. Read/write  **Long**.
+
 
 ## Syntax
 

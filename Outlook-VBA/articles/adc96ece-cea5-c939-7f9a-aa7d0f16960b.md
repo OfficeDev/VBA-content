@@ -1,9 +1,8 @@
 
 # TaskItem.PropertyChange Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs when an explicit built-in property (for example,  ** [Subject](9f487fbc-48ab-e01d-c1a4-5b67fcb1a118.md)**) of an instance of the parent object is changed. 
+
 
 ## Syntax
 

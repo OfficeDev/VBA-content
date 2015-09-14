@@ -1,9 +1,6 @@
 
 # Visual Basic how-to topics
 
- **Last modified:** July 28, 2015
-
-
 ## In this section
 
 

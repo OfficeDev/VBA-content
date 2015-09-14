@@ -1,9 +1,8 @@
 
 # ContactItem.User1 Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** specifying the first field on the Contacts form intended for miscellaneous use for the contact. Read/write.
+
 
 ## Syntax
 

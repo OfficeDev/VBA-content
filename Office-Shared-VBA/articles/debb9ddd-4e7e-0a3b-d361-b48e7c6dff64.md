@@ -1,9 +1,8 @@
 
 # IMsoContactCard.AddressType Property (Office)
 
- **Last modified:** July 28, 2015
-
 A  **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # Sections Members (Word)
 A collection of  **Section**objects in a selection, range, or document.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

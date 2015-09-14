@@ -1,19 +1,10 @@
 
 # Axis.HasTitle Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **HasTitle**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 An axis title is represented by an  ** [AxisTitle](ec746a05-40df-95cc-c017-40ef150504cf.md)** object.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example adds an axis label to the category axis for the first chart in the active document.
 
@@ -45,7 +34,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

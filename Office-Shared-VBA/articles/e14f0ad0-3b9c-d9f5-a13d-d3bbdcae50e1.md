@@ -1,9 +1,8 @@
 
 # TextRange2.Replace Method (Office)
 
- **Last modified:** July 28, 2015
-
 Finds specific text in a text range, replaces the found text with a specified string, and returns a  **TextRange2** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ComboBox.ListRows Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Long** that specifies the maximum number of rows to display in the list. Read/write.
+
 
 ## Syntax
 

@@ -1,10 +1,6 @@
 
 # Set a Module as the Currently Selected Module in the Navigation Pane
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 You can use the  ** [CurrentModule](df7086b3-4174-839f-0756-a5201379ed92.md)** property of the ** [NavigationPane](b6538c72-6115-99fc-c926-e0532a747823.md)** object in Microsoft Outlook to set a ** [NavigationModule](76565eaf-1e64-f5d4-b90f-ba156863802c.md)** object as the currently selected navigation module in the Navigation Pane of an ** [Explorer](026591e5-049f-503a-4166-34e6dbc225fb.md)** object.
 
 The following sample sets the  **Calendar** navigation module as the currently selected navigation module if the **Journal** navigation module is selected, either programmatically or by user action, in the Navigation Pane. The sample performs the following actions:

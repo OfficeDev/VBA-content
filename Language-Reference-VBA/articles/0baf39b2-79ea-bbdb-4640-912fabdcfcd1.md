@@ -1,10 +1,7 @@
 
 # Empty watch expression
 
- **Last modified:** July 28, 2015
-
 The  **Add Watch** dialog box requires entry of an [expression](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md). This error has the following cause and solution:
-
 
 
 

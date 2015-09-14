@@ -1,9 +1,8 @@
 
 # Document.ViewCode Method (Word)
 
- **Last modified:** July 28, 2015
-
 Displays the code window for the selected Microsoft ActiveX control in the specified document.
+
 
 ## Syntax
 

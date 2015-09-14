@@ -1,9 +1,8 @@
 
 # Paragraphs.Last Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Paragraph** object that represents the last item in the collection of paragraphs.
+
 
 ## Syntax
 

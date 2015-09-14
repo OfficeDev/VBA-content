@@ -1,19 +1,10 @@
 
 # Application.DefaultSaveFormat Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DefaultSaveFormat**
 
@@ -21,7 +12,6 @@ Returns or sets the default format that will appear in the  **Save as type** box
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The string used with this property is the file converter class name. The class names for internal Word formats are listed in the following table.
 
@@ -41,7 +31,6 @@ Use the  ** [ClassName](71124adf-11fc-e42d-a9f5-940f7fea97af.md)**property of th
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the Word document format as the default save format.
 
@@ -61,7 +50,6 @@ Msgbox Application.DefaultSaveFormat
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

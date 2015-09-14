@@ -1,14 +1,6 @@
 
 # SharedWorkspaceTask.Title Property (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
 
@@ -16,7 +8,6 @@ Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **Title**
 
@@ -29,13 +20,11 @@ String
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 The  **Title** property is the single required property of a shared workspace task. Use the optional **Description** property to provide or return additional information about the task.
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
 The following example displays a list of the titles of all tasks in the current shared workspace.
 
@@ -55,7 +44,6 @@ The following example displays a list of the titles of all tasks in the current 
 
 
 ## See also
-<a name="sectionSection3"> </a>
 
 
 #### Concepts

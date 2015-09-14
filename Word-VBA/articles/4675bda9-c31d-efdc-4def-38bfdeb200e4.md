@@ -1,9 +1,8 @@
 
 # Application.CheckGrammar Method (Word)
 
- **Last modified:** July 28, 2015
-
 Checks a string for grammatical errors. Returns a  **Boolean** to indicate whether the string contains grammatical errors. **True** if the string contains no errors.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # Document.SendFaxOverInternet Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sends a document to a fax service provider, who faxes the document to one or more specfied recipients.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SendFaxOverInternet**( **_Recipients_**,  **_Subject_**,  **_ShowMessage_**)
 
@@ -31,7 +22,6 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 |ShowMessage|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Using the  **SendFaxOverInternet** method requires that a fax service is enabled on a user's computer. If a fax service is not enabled, the **SendFaxOverInternet** method will cause a runtime error.
 
@@ -48,7 +38,6 @@ Use the FaxAddress key value at this registry location to determine the format t
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sends a fax to the fax service provider, who will fax the message to the recipient.
 
@@ -61,7 +50,6 @@ ActiveDocument.SendFaxOverInternet _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,10 +1,7 @@
 
 # Can't save file to TEMP directory (Error 735)
 
- **Last modified:** July 28, 2015
-
 Components often need to save temporary information to disk. This error has the following cause and solution:
-
 
 
 

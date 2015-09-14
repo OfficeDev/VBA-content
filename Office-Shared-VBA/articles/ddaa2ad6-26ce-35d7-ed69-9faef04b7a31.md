@@ -1,9 +1,8 @@
 
 # Signature.IsSigned Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **Boolean** value indicating whether the document was signed successfully. Read-only.
+
 
 ## Syntax
 

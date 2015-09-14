@@ -1,10 +1,6 @@
 
 # PageSize.Name Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns the name of the blank page size represented by the parent  **PageSize** object. Read-only.
 
 

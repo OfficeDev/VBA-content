@@ -1,9 +1,8 @@
 
 # Action.Enabled Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that is **True** if the action is enabled in the application. Read/write.
+
 
 ## Syntax
 

@@ -1,13 +1,12 @@
 
 # File Menu
 
- **Last modified:** July 28, 2015
-
  [New Project](ff0bb219-3bca-af9e-ba42-a76b929c928c.md)
 
  [Open Project](25a2dc58-49b0-bb7d-c1cd-b30e44aa1f0c.md)
 
  [Save <host document> and Save As](7b878e94-ed72-cfd0-4b72-21f991f198f1.md)
+
  [Import File](03af35bf-884f-40d7-4ac7-b17d5384fd0e.md)
  [Export File](03af35bf-884f-40d7-4ac7-b17d5384fd0e.md)
  [Close Project](834244cd-67a8-61fe-f880-4cee775be63e.md)

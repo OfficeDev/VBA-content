@@ -1,9 +1,8 @@
 
 # PpFixedFormatIntent Enumeration (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Constants that specify the intent of the fixed-format file export, passed to the  **ExportAsFixedFormat** method of the **Presentation** object.
+
 
 
 |**Name**|**Value**|**Description**|

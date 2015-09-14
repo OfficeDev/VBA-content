@@ -1,9 +1,8 @@
 
 # RecurrencePattern.Duration Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Long** indicating the duration (in minutes) of the ** [RecurrencePattern](36c098f7-59fb-879a-5173-ed0260d13fa4.md)**. Read/write.
+
 
 ## Syntax
 

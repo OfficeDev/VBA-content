@@ -1,9 +1,8 @@
 
 # FormRegionStartup.GetFormRegionIcon Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Obtains an icon image that will be displayed for a particular type of icon for the form region.
+
 
 ## Syntax
 

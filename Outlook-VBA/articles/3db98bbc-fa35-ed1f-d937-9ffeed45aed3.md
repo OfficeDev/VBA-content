@@ -1,9 +1,8 @@
 
 # ComboBox.Text Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** that specifies text in a ** [ComboBox](31e7c1de-ee4e-b3d9-4579-7fc6b215bad3.md)**, changing the selected row in the control. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # OlAccountType Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Specifies the type of an  ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)**.
+
 
 
 |**Name**|**Value**|**Description**|

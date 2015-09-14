@@ -2,9 +2,6 @@
 # CoAuthors Members (Word)
 A collection of all the  ** [CoAuthor](d1b58eea-4570-ffd3-4c13-a74a998b079e.md)** objects in the document.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

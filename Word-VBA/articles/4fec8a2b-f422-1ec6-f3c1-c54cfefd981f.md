@@ -1,9 +1,8 @@
 
 # XSLTransform.ID Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** containing the GUID assigned to the current [XSLTransform](cccf0383-8b21-0f46-b5b6-9a092599fd76.md) object. Read-only.
+
 
 ## Syntax
 

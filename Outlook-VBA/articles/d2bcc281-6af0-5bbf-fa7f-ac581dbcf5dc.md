@@ -1,9 +1,8 @@
 
 # Image Object (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Displays a picture on a form.
+
 
 ## Remarks
 

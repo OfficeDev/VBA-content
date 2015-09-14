@@ -1,9 +1,8 @@
 
 # FileDialogFilters.Item Method (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.
+
 
 ## Syntax
 

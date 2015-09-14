@@ -1,9 +1,8 @@
 
 # Reminder.Parent Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns the parent  **Object** of the specified object. Read-only.
+
 
 ## Syntax
 

@@ -1,14 +1,6 @@
 
 # SharedWorkspaceFolder.FolderName Property (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Gets the name of a subfolder within the main document library folder of a shared workspace. Read-only.
 
 
@@ -16,7 +8,6 @@ Gets the name of a subfolder within the main document library folder of a shared
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **FolderName**
 
@@ -24,13 +15,11 @@ Gets the name of a subfolder within the main document library folder of a shared
 
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 The  **FolderName** property returns the subfolder name in the format parentfolder/subfolder. For example, if the shared workspace contains a folder named "Supporting Documents", the **FolderName** property returns Shared Documents/Supporting Documents.
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
 The following example displays the number of subfolders in the shared workspace and their names.
 
@@ -53,7 +42,6 @@ The following example displays the number of subfolders in the shared workspace 
 
 
 ## See also
-<a name="sectionSection3"> </a>
 
 
 #### Concepts

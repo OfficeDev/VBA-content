@@ -1,9 +1,8 @@
 
 # LineNumbering Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents line numbers in the left margin or to the left of each newspaper-style column.
+
 
 ## Remarks
 

@@ -1,9 +1,8 @@
 
 # ContactItem.TaskDueDate Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Date** value that represents the due date of the task for this ** [ContactItem](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)**. Read/write.
+
 
 ## Syntax
 

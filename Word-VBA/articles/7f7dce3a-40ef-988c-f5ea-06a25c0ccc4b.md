@@ -1,9 +1,8 @@
 
 # Dialog.Execute Method (Word)
 
- **Last modified:** July 28, 2015
-
 Applies the current settings of a Microsoft Word dialog box.
+
 
 ## Syntax
 

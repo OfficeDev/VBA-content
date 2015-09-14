@@ -1,19 +1,10 @@
 
 # Permission.StoreLicenses Property (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Gets or sets a  **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **StoreLicenses**
 
@@ -21,13 +12,11 @@ Gets or sets a  **Boolean** value that indicates whether the user's license to v
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example displays information about the permissions settings of the active document, including the  **StoreLicenses** setting.
 
@@ -61,7 +50,6 @@ The following example displays information about the permissions settings of the
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

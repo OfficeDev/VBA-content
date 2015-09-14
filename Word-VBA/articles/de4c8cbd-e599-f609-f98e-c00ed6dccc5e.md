@@ -1,9 +1,8 @@
 
 # ChartTitle.Formula Property (Word)
 
- **Last modified:** July 28, 2015
-
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
+
 
 ## Syntax
 

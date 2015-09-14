@@ -1,10 +1,6 @@
 
 # Search the Inbox for Items with Subject Containing "Office"
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 This topic shows two code samples that use DASL queries to search for items in the Inbox that contain "Office" in the subject line. The first code sample uses  ** [Folder.GetTable](08d184cb-0c41-01b1-abc5-305476380f8b.md)** and the second uses ** [Application.AdvancedSearch](7b433d8b-08b9-dff1-b854-287d76b47a90.md)** to apply the DASL query.
 
 Each of the code samples uses the content indexer keyword  **ci_phrasematch** in a DASL filter on the property **http://schemas.microsoft.com/mapi/proptag/0x0037001E** (the **Subject** property referenced by the MAPI ID namespace) to search for the word "office" in the subject. It applies the filter to items in the Inbox (by using **Folder.GetTable** or **Application.AdvancedSearch**), and prints the subject line of each item returned from the search.

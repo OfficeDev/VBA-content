@@ -1,9 +1,8 @@
 
 # WorkflowTasks Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a collection of  **WorkflowTask** objects.
+
 
 ## Example
 

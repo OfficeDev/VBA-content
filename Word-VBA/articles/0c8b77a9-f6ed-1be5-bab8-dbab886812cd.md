@@ -1,9 +1,8 @@
 
 # EmailOptions.AutoFormatAsYouTypeInsertOvers Property (Word)
 
- **Last modified:** July 28, 2015
+ **True** for Microsoft Word to automatically insert "以上" when the user enters "記" or "案". Read/write **Boolean**.
 
- **True** for Microsoft Word to automatically insert "ä»¥ä¸Š" when the user enters "è¨˜" or "æ¡ˆ". Read/write **Boolean**.
 
 ## Syntax
 
@@ -14,7 +13,7 @@
 
 ## Example
 
-This example sets Microsoft Word to automatically insert "ä»¥ä¸Š" when the user enters "è¨˜" or "æ¡ˆ".
+This example sets Microsoft Word to automatically insert "以上" when the user enters "記" or "案".
 
 
 ```

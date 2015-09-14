@@ -1,19 +1,10 @@
 
 # Document.CheckIn Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a document from a local computer to a server, and sets the local document to read-only so that it cannot be edited locally.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CheckIn**( **_SaveChanges_**,  **_Comments_**,  **_MakePublic_**)
 
@@ -34,13 +25,11 @@ Returns a document from a local computer to a server, and sets the local documen
 |||||
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 To take advantage of the collaboration features built into Microsoft Word, documents must be stored on a Microsoft SharePoint Portal Server.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example checks the server to see if the specified document can be checked in. If it can be, it saves and closes the document and checks it back into the server.
 
@@ -70,7 +59,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

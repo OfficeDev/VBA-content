@@ -1,19 +1,10 @@
 
 # Inspector.SetCurrentFormPage Method (Outlook)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Displays the specified form page or form region in the inspector.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SetCurrentFormPage**( **_PageName_**)
 
@@ -29,13 +20,11 @@ Displays the specified form page or form region in the inspector.
 |PageName|Required| **String**|The display name of the form page, or the internal name of a form region.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use  **SetCurrentFormPage** to display a form region by specifying the ** [InternalName](2478d44e-887c-c245-6cfa-70a6a1e2c828.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Visual Basic for Applications (VBA) example uses the  **SetCurrentFormPage** method to show the **All Fields** page of the currently open item. If an error occurs, Outlook will display a message box to the user.
 
@@ -72,7 +61,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

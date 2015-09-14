@@ -1,10 +1,6 @@
 
 # Field.Code Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns a  **String** that represents the text displayed when the page view is set to show field codes. Read-only.
 
 

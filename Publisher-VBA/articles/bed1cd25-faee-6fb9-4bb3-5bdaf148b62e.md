@@ -1,10 +1,6 @@
 
 # PictureFormat.Brightness Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets a  **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
 
 

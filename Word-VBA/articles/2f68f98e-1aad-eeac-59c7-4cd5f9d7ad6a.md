@@ -1,9 +1,8 @@
 
 # Application.NewDocument Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **NewFile** object that represents a document listed on the **New** tab.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Application.OMathAutoCorrect Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **OMathAutoCorrect** object that represents the auto correct entries for equations. Read-only.
+
 
 ## Syntax
 

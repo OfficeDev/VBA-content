@@ -1,12 +1,9 @@
 
 # TextRange2.InsertChartField Method (Office)
 
- **Last modified:** July 28, 2015
-
 Inserts a field into the body of a data label in a chart. 
 
 This method applies only to data labels in a chart. Calling this method on any other kind of  [TextRange2](a6a59c9b-9b64-c1e2-2e98-a1f99025c877.md) object will raise a runtime error.
-
 
 ## Syntax
 

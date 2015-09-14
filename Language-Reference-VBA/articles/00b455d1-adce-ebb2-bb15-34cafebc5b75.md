@@ -1,7 +1,6 @@
 
 # ForeColor Property (Microsoft Forms)
 
- **Last modified:** July 28, 2015
 
 
 Specifies the  [foreground color](7ce2c60f-29fb-96e2-2516-73c99a6e7cff.md) of an object.

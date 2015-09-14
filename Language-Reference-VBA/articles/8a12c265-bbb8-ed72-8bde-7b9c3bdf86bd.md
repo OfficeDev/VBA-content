@@ -1,7 +1,6 @@
 
 # QueryClose Event
 
- **Last modified:** July 28, 2015
 
 
 Occurs before a  **UserForm** closes.

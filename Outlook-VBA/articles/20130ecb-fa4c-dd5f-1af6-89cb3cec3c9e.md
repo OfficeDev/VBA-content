@@ -1,9 +1,8 @@
 
 # OlkCommandButton.DisplayDropArrow Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that enables the rendering of a downward-pointing arrow on the button. Read/write.
+
 
 ## Syntax
 

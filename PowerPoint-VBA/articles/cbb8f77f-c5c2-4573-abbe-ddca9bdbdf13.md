@@ -1,9 +1,8 @@
 
 # TabStops.Add Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Creates a tab stop and adds it to the  **TabStops** collection.
+
 
 ## Syntax
 

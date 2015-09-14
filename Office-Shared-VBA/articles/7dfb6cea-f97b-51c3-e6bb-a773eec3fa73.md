@@ -1,9 +1,8 @@
 
 # EncryptionProvider.Save Method (Office)
 
- **Last modified:** July 28, 2015
-
 Saves an encrypted document.
+
 
 ## Syntax
 

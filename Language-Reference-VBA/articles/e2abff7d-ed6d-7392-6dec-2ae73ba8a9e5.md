@@ -1,10 +1,7 @@
 
 # Overflow (Error 6)
 
- **Last modified:** July 28, 2015
-
 An overflow results when you try to make an assignment that exceeds the limitations of the target of the assignment. This error has the following causes and solutions:
-
 
 
 

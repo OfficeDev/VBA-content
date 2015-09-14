@@ -1,19 +1,10 @@
 
 # Series.Paste Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Pastes a picture from the Clipboard as the marker on the selected series.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Paste**
 
@@ -21,13 +12,11 @@ Pastes a picture from the Clipboard as the marker on the selected series.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use this method on column, bar, line, or radar charts, and it sets the  ** [MarkerStyle](e985978e-f0cf-b809-ebe1-f5504e9e8df6.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 
@@ -55,7 +44,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

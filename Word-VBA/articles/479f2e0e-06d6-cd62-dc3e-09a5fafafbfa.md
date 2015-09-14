@@ -1,19 +1,10 @@
 
 # Selection.TypeBackspace Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Deletes the character preceding a collapsed selection (an insertion point).
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TypeBackspace**
 
@@ -21,13 +12,11 @@ Deletes the character preceding a collapsed selection (an insertion point).
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method corresponds to functionality of the BACKSPACE key. If the selection isn't collapsed to an insertion point, the selection is deleted.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example deletes the character preceding the insertion point (the collapsed selection).
 
@@ -53,7 +42,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

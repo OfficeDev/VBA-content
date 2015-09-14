@@ -1,13 +1,12 @@
 
 # Public <keyword>
 
- **Last modified:** July 28, 2015
-
 The  **Public** keyword is used in these contexts:
 
  [Const Statement](99e2d1e1-ed30-77d3-3366-6438e9373308.md)
 
  [Declare Statement](82f68f6b-76c6-2efd-72d2-652000b3a083.md)
+
  [Enum Statement](22dbc78e-5ce7-f6ea-21dd-67d5db0d64d8.md)
  [Event Statement](14493dfc-5b73-f870-742a-cd4edcf69899.md)
  [Function Statement](407a6e70-b3e4-f13a-bda9-59296b288287.md)

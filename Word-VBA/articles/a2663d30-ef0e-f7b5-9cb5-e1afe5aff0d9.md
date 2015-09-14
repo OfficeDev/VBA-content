@@ -1,9 +1,8 @@
 
 # WdInsertCells Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies where and what type of cells to add to an existing table.
+
 
 
 |**Name**|**Value**|**Description**|

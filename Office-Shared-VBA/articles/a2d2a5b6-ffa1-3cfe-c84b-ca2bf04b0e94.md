@@ -2,9 +2,6 @@
 # SoftEdgeFormat Members (Office)
 Represents the soft edges effect in Office graphics.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

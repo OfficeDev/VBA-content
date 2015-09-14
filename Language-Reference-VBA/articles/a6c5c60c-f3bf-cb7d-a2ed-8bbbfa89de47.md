@@ -1,10 +1,7 @@
 
 # Replacements too long (Error 746)
 
- **Last modified:** July 28, 2015
-
 A replacement may not exceed a specified maximum length. This error has the following cause and solution:
-
 
 
 

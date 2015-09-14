@@ -1,9 +1,8 @@
 
 # SharedWorkspaceLink Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a URL link saved in a shared document workspace site.
+
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 

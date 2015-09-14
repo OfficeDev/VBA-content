@@ -1,19 +1,10 @@
 
 # ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the preset extrusion format. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PresetThreeDFormat**
 
@@ -26,7 +17,6 @@ MsoPresetThreeDFormat
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property is read-only. To set the preset extrusion format, use the  ** [SetThreeDFormat](9685d3f9-467a-8b11-144a-c4260bdbbddd.md)**method.
 
@@ -59,7 +49,6 @@ The value of the  **PresetThreeDFormat** property can be one of these **MsoPrese
 | **msoThreeD20**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
 
@@ -80,7 +69,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

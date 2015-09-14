@@ -1,19 +1,10 @@
 
 # Font.Outline Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if the font is formatted as outline. Read/write **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Outline**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Returns  **True**,  **False**, or  **wdUndefined** (a mixture of **True** and **False**). Can be set to  **True**,  **False**, or  **wdToggle**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example applies outline font formatting to the first three words in the active document.
 
@@ -62,7 +51,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,9 +1,8 @@
 
 # Application.MailMergeDataSourceValidate Event (Word)
 
- **Last modified:** July 28, 2015
-
 Occurs when a user validates mail merge recipients by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
+
 
 ## Syntax
 

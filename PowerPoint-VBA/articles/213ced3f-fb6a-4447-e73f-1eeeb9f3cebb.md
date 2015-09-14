@@ -1,9 +1,8 @@
 
 # ExtraColors.Item Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a single color from the specified  **ExtraColors** collection.
+
 
 ## Syntax
 

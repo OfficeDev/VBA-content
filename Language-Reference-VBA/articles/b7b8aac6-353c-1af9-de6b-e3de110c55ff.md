@@ -1,11 +1,10 @@
 
 # Page Object, CommandButton, MultiPage Controls, ControlTipText Property Example
 
- **Last modified:** July 28, 2015
-
 The following example defines the  **ControlTipText** property for three **CommandButton** controls and two **Page** objects in a **MultiPage**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
+
 
 
 

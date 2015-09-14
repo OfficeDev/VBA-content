@@ -1,10 +1,6 @@
 
 # ThreeDFormat.Visible Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.
 
 

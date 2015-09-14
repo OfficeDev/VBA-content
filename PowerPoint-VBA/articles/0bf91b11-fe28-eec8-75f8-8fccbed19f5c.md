@@ -1,19 +1,10 @@
 
 # ParagraphFormat.LineRuleWithin Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether line spacing between base lines is set to a specific number of points or lines. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **LineRuleWithin**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **LineRuleWithin** property can be one of these **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **LineRuleWithin** property can be one of these **MsoTriState*
 | **msoTrue**| Line spacing between base lines is set to a specific number of lines.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays a message box that shows the setting for line spacing for text in shape two on slide one in the active presentation.
 
@@ -69,7 +58,6 @@ MsgBox "Current line spacing: " &amp; ls &amp; lsUnits
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,10 +1,7 @@
 
 # Application-defined or object-defined error
 
- **Last modified:** July 28, 2015
-
 This message is displayed when an error generated with the  **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for [arguments](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
-
 
 
 

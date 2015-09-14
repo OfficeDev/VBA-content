@@ -1,9 +1,8 @@
 
 # Tasks.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an individual  **Task** object in a collection.
+
 
 ## Syntax
 

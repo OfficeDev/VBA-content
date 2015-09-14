@@ -1,10 +1,6 @@
 
 # PbDateTimeFormat Enumeration (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 A format for the date and time.
 
 

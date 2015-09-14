@@ -1,9 +1,8 @@
 
 # Sentences Object (Word)
 
- **Last modified:** July 28, 2015
-
 A collection of  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)**objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
+
 
 ## Remarks
 

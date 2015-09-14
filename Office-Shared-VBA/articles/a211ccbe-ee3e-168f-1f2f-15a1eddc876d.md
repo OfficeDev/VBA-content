@@ -1,9 +1,8 @@
 
 # ServerPolicy.BlockPreview Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **Boolean** value that indicates whether you can preview items using this policy. Read-only.
+
 
 ## Syntax
 

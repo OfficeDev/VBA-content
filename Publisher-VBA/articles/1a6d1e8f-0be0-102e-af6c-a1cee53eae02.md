@@ -1,10 +1,6 @@
 
 # InlineShapes Object (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Contains a collection of  ** [Shape](666cb7f0-62a8-f419-9838-007ef29506ee.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
 
 

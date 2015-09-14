@@ -1,9 +1,8 @@
 
 # AutoCorrect.CorrectCapsLock Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Word automatically corrects instances in which you use the CAPS LOCK key inadvertently as you type. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,10 +1,6 @@
 
 # ParagraphFormat.TextDirection Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets a  **PbTextDirection** constant indicating the direction in which text flows in the specified paragraph. Read/write.
 
 

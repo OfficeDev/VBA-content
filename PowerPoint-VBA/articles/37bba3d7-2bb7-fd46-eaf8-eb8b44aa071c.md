@@ -1,19 +1,10 @@
 
 # Point.SecondaryPlot Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SecondaryPlot**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property applies only to points on pie-of-pie charts or bar-of-pie charts. 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 
@@ -57,7 +46,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

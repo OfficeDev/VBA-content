@@ -1,10 +1,6 @@
 
 # Options.SaveAutoRecoverInfoInterval Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets a  **Long** that represents the time interval in minutes for automatically saving a publication for recovery if the application is unexpectedly shut down. Read/write.
 
 

@@ -1,9 +1,8 @@
 
 # DistListItem.ConversationTopic Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** representing the topic of the conversation thread of the Outlook item. Read-only.
+
 
 ## Syntax
 

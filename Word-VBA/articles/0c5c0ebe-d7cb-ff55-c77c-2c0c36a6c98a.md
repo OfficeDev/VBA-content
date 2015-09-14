@@ -1,9 +1,8 @@
 
 # Table.Shading Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
+
 
 ## Syntax
 

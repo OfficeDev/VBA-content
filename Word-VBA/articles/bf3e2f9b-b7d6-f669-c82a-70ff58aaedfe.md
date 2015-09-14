@@ -1,9 +1,8 @@
 
 # Comments.Add Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Comment** object that represents a comment added to a range.
+
 
 ## Syntax
 

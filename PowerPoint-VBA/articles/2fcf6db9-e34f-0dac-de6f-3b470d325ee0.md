@@ -1,9 +1,8 @@
 
 # TextFrame2.Ruler Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.
+
 
 ## Syntax
 

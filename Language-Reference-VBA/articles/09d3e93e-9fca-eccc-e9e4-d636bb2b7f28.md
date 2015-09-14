@@ -1,10 +1,7 @@
 
 # A module is not a valid type
 
- **Last modified:** July 28, 2015
-
 A  [standard module](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) doesn't represent a [class](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) and can't be instantiated in the form of a [variable](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md). This error has the following cause and solution:
-
 
 
 

@@ -1,10 +1,6 @@
 
 # Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 This topic shows how to use the named property,  [PidLidAppointmentCounterProposal](http://msdn.microsoft.com/library/f510af2d-92b3-4c98-bdf4-8aca8e8b80d1%28Office.15%29.aspx), and the Microsoft Outlook object model to identify a  ** [MeetingItem](http://msdn.microsoft.com/library/guid_b75730f5-b395-3d66-5acd-b64fd8fcd78f.aspx)** object as a counter proposal to a prior meeting request.
 
 In the Outlook object model, all types of items, such as a mail item and a contact item, correspond to specific message classes. In particular, responses to a meeting request can be identified by the following message classes: 

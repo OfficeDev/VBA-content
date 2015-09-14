@@ -1,9 +1,8 @@
 
 # XMLNode.Delete Method (Word)
 
- **Last modified:** July 28, 2015
-
 Deletes the specified XML element from an XML document.
+
 
 ## Syntax
 

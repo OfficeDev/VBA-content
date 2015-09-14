@@ -1,9 +1,8 @@
 
 # DocumentItem.BeforeAutoSave Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs before the item is automatically saved by Outlook.
+
 
 ## Syntax
 

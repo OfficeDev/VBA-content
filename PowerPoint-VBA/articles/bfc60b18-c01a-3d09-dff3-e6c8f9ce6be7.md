@@ -1,9 +1,8 @@
 
 # ProtectedViewWindows.Application Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns an  ** [Application](978c2b99-4271-b953-4283-73b5f3d96f41.md)**object that represents the creator of the specified object.
+
 
 ## Syntax
 

@@ -1,13 +1,12 @@
 
 # Put Statement
 
- **Last modified:** July 28, 2015
-
 Writes data from a  [variable](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) to a disk file.
 
  **Syntax**
 
  **Put** [ **#**] _filenumber_, [ _recnumber_],  _varname_
+
 The  **Put** statement syntax has these parts:
 
 

@@ -1,9 +1,8 @@
 
 # WdBrowseTarget Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies the document item that the  ** [Next](d1ac6216-dbd9-9b74-3ac6-133a1d83c09a.md)** or ** [Previous](b23b637e-b7ee-05ae-dd7a-9f97ca2e6d7c.md)** method locates, and places the insertion point before the next or previous instance of the item.
+
 
 
 |**Name**|**Value**|**Description**|

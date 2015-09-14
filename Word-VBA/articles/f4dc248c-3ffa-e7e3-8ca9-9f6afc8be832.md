@@ -1,9 +1,8 @@
 
 # ShapeRange.VerticalFlip Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the specified shape is flipped around the vertical axis. Read-only **MsoTriState**.
+
 
 ## Syntax
 

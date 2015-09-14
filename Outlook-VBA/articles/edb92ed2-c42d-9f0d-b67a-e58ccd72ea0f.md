@@ -1,9 +1,8 @@
 
 # ContactItem.Suffix Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** indicating the name suffix (such as Jr., III, or Ph.D.) for the specified contact. Read/write.
+
 
 ## Syntax
 

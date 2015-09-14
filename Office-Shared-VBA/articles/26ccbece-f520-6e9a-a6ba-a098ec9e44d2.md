@@ -1,9 +1,8 @@
 
 # BulletFormat2.Style Property (Office)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a constant that represents the style of a bullet. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Font2.DoubleStrikeThrough Property (Office)
 
- **Last modified:** July 28, 2015
-
 True if the specified font is formatted as double strikethrough text. Read/write.
+
 
 ## Syntax
 

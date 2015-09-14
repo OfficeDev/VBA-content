@@ -1,10 +1,6 @@
 
 # Attachments.ClearAll Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Clears (deletes) all the  **Attachment** objects in the parent **Attachments** collection of an e-mail merge message.
 
 

@@ -1,10 +1,6 @@
 
 # WizardProperties Object (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Represents the settings available in a publication design or in a Design Gallery object's wizard.
 
 

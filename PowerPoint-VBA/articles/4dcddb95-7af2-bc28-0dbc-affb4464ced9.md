@@ -1,9 +1,8 @@
 
 # ChartGroups.Parent Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the parent for the specified object. Read-only  **Object**.
+
 
 ## Syntax
 

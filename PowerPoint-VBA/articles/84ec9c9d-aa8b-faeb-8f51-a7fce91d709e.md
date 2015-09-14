@@ -1,9 +1,8 @@
 
 # AnimationPoint.Formula Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** that represents a formula to use for calculating an animation. Read/write.
+
 
 ## Syntax
 

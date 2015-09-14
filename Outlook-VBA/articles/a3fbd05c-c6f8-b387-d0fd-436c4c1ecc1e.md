@@ -1,9 +1,8 @@
 
 # IconView.Save Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Saves the view, or saves the changes to a view.
+
 
 ## Syntax
 

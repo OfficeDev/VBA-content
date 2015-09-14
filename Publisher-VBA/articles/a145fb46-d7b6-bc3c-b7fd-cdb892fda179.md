@@ -1,10 +1,6 @@
 
 # ShapeRange.Distribute Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Evenly distributes the shapes in the specified shape range.
 
 

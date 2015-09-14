@@ -1,9 +1,8 @@
 
 # MailItem.RecipientReassignmentProhibited Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Boolean** that indicates **True** if the recipient cannot forward the mail message. Read/write.
+
 
 ## Syntax
 

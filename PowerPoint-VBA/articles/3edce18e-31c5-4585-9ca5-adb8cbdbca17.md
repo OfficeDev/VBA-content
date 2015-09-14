@@ -1,9 +1,8 @@
 
 # PublishObject.RangeEnd Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the number of the last slide in a range of slides you are publishing as a Web presentation. Read/write.
+
 
 ## Syntax
 

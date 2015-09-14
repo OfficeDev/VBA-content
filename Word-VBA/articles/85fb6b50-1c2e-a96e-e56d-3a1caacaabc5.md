@@ -1,19 +1,10 @@
 
 # PageSetup.TextColumns Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [TextColumns](00b62c93-db7d-00b9-cc84-9a21e427d0cd.md)**collection that represents the set of text columns for the specified  **PageSetup**object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **TextColumns**
 
@@ -21,7 +12,6 @@ Returns a  ** [TextColumns](00b62c93-db7d-00b9-cc84-9a21e427d0cd.md)**collection
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 There will always be at least one text column in the collection. When you create new text columns, you are adding to a collection of one column.
 
@@ -29,7 +19,6 @@ For information about returning a single member of a collection, see  [Returning
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates four evenly-spaced text columns that are applied to section two in the active document.
 
@@ -60,7 +49,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

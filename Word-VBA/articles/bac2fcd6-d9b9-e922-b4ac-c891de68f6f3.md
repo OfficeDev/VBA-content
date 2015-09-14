@@ -1,9 +1,8 @@
 
 # Window.DisplayVerticalScrollBar Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if a vertical scroll bar is displayed for the specified window. Read/write **Boolean**.
+
 
 ## Syntax
 

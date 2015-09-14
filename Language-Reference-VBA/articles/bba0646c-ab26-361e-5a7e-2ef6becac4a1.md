@@ -1,10 +1,7 @@
 
 # Can't rename with different drive (Error 74)
 
- **Last modified:** July 28, 2015
-
 The  **Name** statement must rename the file to the current drive. This error has the following cause and solution:
-
 
 
 

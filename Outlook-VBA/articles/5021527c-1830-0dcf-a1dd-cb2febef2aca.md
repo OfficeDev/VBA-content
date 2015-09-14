@@ -1,9 +1,8 @@
 
 # OlCalendarViewMode Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Indicates the view mode specified in the  ** [CalendarViewMode](144e46ed-984f-fac0-fad3-0ff5ac9f2996.md)** property of the ** [CalendarView](37e078b9-9fc6-5894-b043-06d7257666a8.md)** object.
+
 
 
 |**Name**|**Value**|**Description**|

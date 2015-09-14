@@ -1,9 +1,8 @@
 
 # OMathArgs.Add Method (Word)
 
- **Last modified:** July 28, 2015
-
 Inserts an argument into an equation with variable number of arguments ( **OMathDelim** and **OMathEqArray** objects) and returns an **OMath** object.
+
 
 ## Syntax
 

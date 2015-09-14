@@ -1,19 +1,10 @@
 
 # ParagraphFormat.HangingPunctuation Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the hanging punctuation option if you have an Asian language setting specified. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **HangingPunctuation**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **HangingPunctuation** property can be one of these **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **HangingPunctuation** property can be one of these **MsoTriSt
 | **msoTrue**| The hanging punctuation option is selected.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example selects hanging punctuation for the first paragraph of the active presentation.
 
@@ -49,7 +38,6 @@ ActivePresentation.Paragraphs(1).HangingPunctuation = msoTrue
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

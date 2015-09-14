@@ -1,9 +1,8 @@
 
 # PageNumber.Copy Method (Word)
 
- **Last modified:** July 28, 2015
-
 Copies the specified page number to the Clipboard.
+
 
 ## Syntax
 

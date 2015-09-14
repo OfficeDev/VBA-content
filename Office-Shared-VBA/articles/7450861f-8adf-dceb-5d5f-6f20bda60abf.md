@@ -1,9 +1,8 @@
 
 # MsoPermission Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies an Information Rights Management (IRM) permission type for a document.
+
 
 
 |**Name**|**Value**|**Description**|

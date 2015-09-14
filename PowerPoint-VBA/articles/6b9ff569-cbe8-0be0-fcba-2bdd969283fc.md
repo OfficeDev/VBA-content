@@ -1,9 +1,8 @@
 
 # PropertyEffect.Points Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns an  **AnimationPoints** object that represents a point in an animation.
+
 
 ## Syntax
 

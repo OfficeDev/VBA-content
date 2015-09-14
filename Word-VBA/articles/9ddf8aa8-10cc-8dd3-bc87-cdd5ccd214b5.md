@@ -1,9 +1,8 @@
 
 # Application.GetSpellingSuggestions Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [SpellingSuggestions](7e0fb008-e43c-c4cb-b7d2-9436d039a070.md)** collection that represents the words suggested as spelling replacements for a given word.
+
 
 ## Syntax
 

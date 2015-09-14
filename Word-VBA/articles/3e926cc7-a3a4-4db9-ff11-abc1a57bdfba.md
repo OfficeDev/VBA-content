@@ -1,9 +1,8 @@
 
 # MailMergeField.Locked Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the specified field is locked. Read/write **Boolean**.
+
 
 ## Syntax
 

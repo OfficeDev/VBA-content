@@ -1,10 +1,6 @@
 
 # CalloutFormat.Gap Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets a  **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
 
 

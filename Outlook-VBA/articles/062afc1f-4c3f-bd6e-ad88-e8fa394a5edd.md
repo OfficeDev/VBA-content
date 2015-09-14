@@ -1,9 +1,8 @@
 
 # RemoteItem.Delete Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Removes the item from the folder that contains the item.
+
 
 ## Syntax
 

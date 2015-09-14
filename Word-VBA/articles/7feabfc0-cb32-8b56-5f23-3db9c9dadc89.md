@@ -1,19 +1,10 @@
 
 # Borders.InsideLineWidth Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the line width of the inside border of an object. .
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **InsideLineWidth**
 
@@ -21,13 +12,11 @@ Returns or sets the line width of the inside border of an object. .
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property returns  **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True**,  **False**, or one of the following  **WdLineWidth** constants.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds borders between rows and between columns in the first table in the active document.
 
@@ -62,7 +51,6 @@ rngTemp.Borders.InsideLineWidth = wdLineWidth075pt
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

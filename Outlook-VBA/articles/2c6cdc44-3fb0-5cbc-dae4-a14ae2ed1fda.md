@@ -1,9 +1,8 @@
 
 # TaskRequestDeclineItem.GetConversation Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Obtains a  ** [Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object that represents the conversation to which this item belongs.
+
 
 ## Syntax
 

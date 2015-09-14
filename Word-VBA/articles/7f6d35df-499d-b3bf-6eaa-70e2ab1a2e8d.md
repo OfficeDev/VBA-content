@@ -2,9 +2,6 @@
 # PageNumbers Members (Word)
 A collection of  **PageNumber**objects that represent the page numbers in a single header or footer.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

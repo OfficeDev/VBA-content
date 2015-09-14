@@ -1,9 +1,8 @@
 
 # LetterContent.AttentionLine Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write  **String**.
+
 
 ## Syntax
 

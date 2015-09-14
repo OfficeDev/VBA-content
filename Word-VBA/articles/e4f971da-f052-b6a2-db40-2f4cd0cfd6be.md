@@ -1,9 +1,8 @@
 
 # BuildingBlockType Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a type of building block. Each  **BuildingBlockType** object is a member of the ** [BuildingBlockTypes](fb179437-b736-dd99-3aea-125346aa7a3d.md)** collection.
+
 
 ## Remarks
 

@@ -1,9 +1,8 @@
 
 # XlLineStyle Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies the line style for the border.
+
 
 
 |**Name**|**Value**|**Description**|

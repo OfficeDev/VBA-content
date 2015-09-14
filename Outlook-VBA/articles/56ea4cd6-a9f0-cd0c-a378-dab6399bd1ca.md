@@ -1,9 +1,8 @@
 
 # FormDescription.ScriptText Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** containing all the VBScript code in the form's Script Editor. Read-only.
+
 
 ## Syntax
 

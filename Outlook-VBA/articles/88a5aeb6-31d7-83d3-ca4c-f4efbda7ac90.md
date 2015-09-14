@@ -1,9 +1,8 @@
 
 # OlkTimeControl.DropDown Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Expands the time drop-down list of the time control.
+
 
 ## Syntax
 

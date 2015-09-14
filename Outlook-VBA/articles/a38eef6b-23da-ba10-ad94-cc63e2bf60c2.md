@@ -1,9 +1,8 @@
 
 # RemoteItem.Write Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs when an instance of the parent object is saved, either explicitly (for example, using the  ** [Save](0f4e57ab-388c-7ba1-c6b8-f14bfc0ac73c.md)** or ** [SaveAs](1c2c7b68-5239-05f8-4291-d2584fe95194.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+
 
 ## Syntax
 

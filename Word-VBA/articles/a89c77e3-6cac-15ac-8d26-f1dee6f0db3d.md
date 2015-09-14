@@ -1,9 +1,8 @@
 
 # ReflectionFormat.Offset Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the amount of separation, in points, of the reflected image from the shape. Read/write.
+
 
 ## Syntax
 

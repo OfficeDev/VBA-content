@@ -2,9 +2,6 @@
 # BuildingBlockTypes Members (Word)
 Represents a collection of  ** [BuildingBlockType](e4f971da-f052-b6a2-db40-2f4cd0cfd6be.md)** objects.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

@@ -2,9 +2,6 @@
 # Cell Members (Word)
 Represents a single table cell. The  **Cell** object is a member of the ** [Cells](ceaa5b45-518d-d6ea-1ce8-5a34f6e37046.md)**collection. The  **Cells** collection represents all the cells in the specified object.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

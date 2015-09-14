@@ -1,9 +1,8 @@
 
 # OutlookBarShortcuts.Item Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns an  ** [OutlookBarShortcut](fae05770-1b06-1ddd-e2db-8428e64bd1e2.md)** object from the collection.
+
 
 ## Syntax
 

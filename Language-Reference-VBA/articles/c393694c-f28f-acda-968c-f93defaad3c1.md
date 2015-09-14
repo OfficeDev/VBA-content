@@ -1,7 +1,6 @@
 
 # Name Property (VBA Add-In Object Model)
 
- **Last modified:** July 28, 2015
 
 
 Returns or sets a  [String](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) containing the name used in code to identify an object. For the **VBProject** object and the **VBComponent** object, read/write; for the **Property** object and the **Reference** object, read-only.

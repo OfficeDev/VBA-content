@@ -1,9 +1,8 @@
 
 # Range.InsertXML Method (Word)
 
- **Last modified:** July 28, 2015
-
 Inserts the specified XML into the document at the specified range, replacing any text contained within the range.
+
 
 ## Syntax
 

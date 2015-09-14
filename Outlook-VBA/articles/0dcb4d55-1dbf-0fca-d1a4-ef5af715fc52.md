@@ -1,9 +1,8 @@
 
 # ContactItem.AssistantTelephoneNumber Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** representing the telephone number of the person who is the assistant for the contact. Read/write.
+
 
 ## Syntax
 

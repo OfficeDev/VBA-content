@@ -2,10 +2,6 @@
 # Column Members (Publisher)
 Represents a single table column. The  **Column** object is a member of the ** [Columns](3fe6ddce-a598-a967-fc89-7296c18a6a55.md)**collection. The  **Columns** collection includes all the columns in a table, selection, or range.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 ## Methods
 
 

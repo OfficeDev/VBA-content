@@ -1,10 +1,7 @@
 
 # String Data Type
 
- **Last modified:** July 28, 2015
-
 There are two kinds of strings: variable-length and fixed-length strings.
-
 
 
 

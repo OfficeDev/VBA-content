@@ -1,9 +1,8 @@
 
 # Range.CombineCharacters Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the specified range contains combined characters. Read/write **Boolean**.
+
 
 ## Syntax
 

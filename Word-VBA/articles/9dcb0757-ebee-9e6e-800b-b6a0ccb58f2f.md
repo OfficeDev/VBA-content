@@ -1,9 +1,8 @@
 
 # WdBaselineAlignment Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies the vertical position of fonts on a line.
+
 
 
 |**Name**|**Value**|**Description**|

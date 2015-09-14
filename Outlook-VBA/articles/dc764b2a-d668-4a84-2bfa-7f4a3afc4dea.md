@@ -1,9 +1,8 @@
 
 # SolutionsModule.Name Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** value that represents the localized display name for the ** [SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Range.EndnoteOptions Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **EndnoteOptions** object that represents the endnotes in a range.
+
 
 ## Syntax
 

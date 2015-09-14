@@ -2,9 +2,6 @@
 # IBlogPictureExtensibility Members (Office)
 Represents an object that provides the ability to manipulate blog images.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

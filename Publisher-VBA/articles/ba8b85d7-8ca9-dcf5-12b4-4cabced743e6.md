@@ -1,10 +1,6 @@
 
 # Document.SaveAs Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Saves the specified publication with a new name or format.
 
 

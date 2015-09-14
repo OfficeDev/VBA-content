@@ -1,9 +1,8 @@
 
 # TextRange.TrimText Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a  **TextRange** object that represents the specified text minus any trailing spaces.
+
 
 ## Syntax
 

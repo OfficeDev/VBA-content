@@ -1,9 +1,8 @@
 
 # SlideShowView.GotoNamedShow Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Switches to the specified custom, or named, slide show during another slide show. When the slide show advances from the current slide, the next slide displayed will be the next one in the specified custom slide show, not the next one in current slide show.
+
 
 ## Syntax
 

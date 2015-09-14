@@ -1,9 +1,8 @@
 
 # Trendline Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a trendline in a chart.
+
 
 ## Remarks
 

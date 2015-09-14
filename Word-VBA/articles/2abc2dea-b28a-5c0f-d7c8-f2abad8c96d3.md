@@ -1,9 +1,8 @@
 
 # DisplayUnitLabel.Text Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the text for the specified object. Read/write  **String**.
+
 
 ## Syntax
 

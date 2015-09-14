@@ -1,9 +1,8 @@
 
 # SelectNamesDialog.CcLabel Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** for the text that appears on the **Cc** command button on the **Select Names** dialog box. Read/write.
+
 
 ## Syntax
 

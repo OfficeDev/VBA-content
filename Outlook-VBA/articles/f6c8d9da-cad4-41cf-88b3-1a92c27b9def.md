@@ -1,9 +1,6 @@
 
 # Explorers Properties (Outlook)
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

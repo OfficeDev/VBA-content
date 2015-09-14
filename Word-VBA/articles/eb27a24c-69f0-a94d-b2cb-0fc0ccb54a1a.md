@@ -1,9 +1,8 @@
 
 # OLEFormat.DisplayAsIcon Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the specified object is displayed as an icon. Read/write **Boolean**.
+
 
 ## Syntax
 

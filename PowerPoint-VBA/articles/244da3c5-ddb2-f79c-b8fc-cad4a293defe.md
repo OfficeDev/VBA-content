@@ -1,9 +1,8 @@
 
 # View.PrintOut Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Prints the specified presentation.
+
 
 ## Syntax
 

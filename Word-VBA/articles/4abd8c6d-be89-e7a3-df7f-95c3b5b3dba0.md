@@ -1,9 +1,8 @@
 
 # HTMLDivisions.Add Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **HTMLDivision** object that represents a new HTML division added to a Web document.
+
 
 ## Syntax
 

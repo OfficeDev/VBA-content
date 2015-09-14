@@ -1,10 +1,6 @@
 
 # Application.Version Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns a  **String** indicating the version number of the currently-installed copy of Microsoft Publisher. Read-only.
 
 

@@ -2,9 +2,6 @@
 # SlideShowView Members (PowerPoint)
 Represents the view in a slide show window.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

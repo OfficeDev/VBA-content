@@ -1,9 +1,8 @@
 
 # MsoTextUnderlineType Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Indicates the type of underline for text.
+
 
 
 |**Name**|**Value**|**Description**|

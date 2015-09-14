@@ -1,9 +1,8 @@
 
 # CustomXMLValidationErrors.Item Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors** collection. Read-only.
+
 
 ## Syntax
 

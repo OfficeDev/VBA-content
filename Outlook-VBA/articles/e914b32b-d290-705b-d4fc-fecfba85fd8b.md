@@ -1,10 +1,6 @@
 
 # Access the Values of a Multi-valued Property in a Table
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 Generally, if a multi-valued property is added to a  ** [Table](0affaafd-93fe-227a-acee-e09a86cadc20.md)** using its explicit built-in name, the format of the values of the property is a comma-delimited string. If the multi-valued property is added to the **Table** using a reference by namespace, the format of the values of the property is a variant array.
 
 The following code sample adds the multi-valued  **Categories** property to a **Table** using a name that references its namespace, **urn:schemas-microsoft-com:office:office#Keywords**. To obtain the values for the  **Categories** column for each row in the **Table**, assign

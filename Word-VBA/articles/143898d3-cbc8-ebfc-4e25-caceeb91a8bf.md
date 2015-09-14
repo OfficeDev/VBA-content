@@ -1,9 +1,8 @@
 
 # Axes.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a single  ** [Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object from an **Axes** collection.
+
 
 ## Syntax
 

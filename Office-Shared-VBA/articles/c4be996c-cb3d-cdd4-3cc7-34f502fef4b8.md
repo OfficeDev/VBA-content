@@ -1,9 +1,8 @@
 
 # PickerResult.Fields Property (Office)
 
- **Last modified:** July 28, 2015
-
 Represent field definitions of SubItems in a PickerFields collection. Read-only
+
 
 ## Syntax
 

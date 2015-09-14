@@ -1,9 +1,8 @@
 
 # HeadersFooters.SlideNumber Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [HeaderFooter](8aeafb02-adec-17c1-3108-565c78a64ed1.md)** object that represents the slide number in the lower-right corner of a slide, or the page number in the lower-right corner of a notes page or a page of a printed handout or outline. Read-only.
+
 
 ## Syntax
 

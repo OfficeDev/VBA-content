@@ -1,19 +1,10 @@
 
 # LineFormat.BeginArrowheadStyle Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BeginArrowheadStyle**
 
@@ -26,7 +17,6 @@ MsoArrowheadStyle
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **BeginArrowheadStyle** property can be one of these **MsoArrowheadStyle** constants
 
@@ -41,7 +31,6 @@ The value of the  **BeginArrowheadStyle** property can be one of these **MsoArro
 | **msoArrowheadTriangle**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
@@ -68,7 +57,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

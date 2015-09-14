@@ -1,19 +1,10 @@
 
 # Shape.Line Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Line**
 
@@ -21,13 +12,11 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For a line, the  **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a blue dashed line to  _myDocument_.
 
@@ -55,7 +44,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

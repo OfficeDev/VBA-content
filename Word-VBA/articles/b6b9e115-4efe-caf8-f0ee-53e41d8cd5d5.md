@@ -1,9 +1,8 @@
 
 # Application.NextLetter Method (Word)
 
- **Last modified:** July 28, 2015
-
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **NextLetter** method of the **Application** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
+
 
 ## See also
 

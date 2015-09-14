@@ -2,9 +2,6 @@
 # OlkInfoBar Members (Outlook)
 A control that provides an area to display specific information on a custom form.
 
- **Last modified:** July 28, 2015
-
-
 ## Events
 
 

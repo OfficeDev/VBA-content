@@ -1,9 +1,8 @@
 
 # TableOfAuthoritiesCategory Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a single table of authorities category. The  **TableOfAuthoritiesCategories** object is a member of the ** [TablesOfAuthoritiesCategories](344b9c42-01d1-805c-6af6-c8301e24b97e.md)**collection.
+
 
 ## Remarks
 

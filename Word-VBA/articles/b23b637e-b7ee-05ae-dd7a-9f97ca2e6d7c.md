@@ -1,9 +1,8 @@
 
 # Browser.Previous Method (Word)
 
- **Last modified:** July 28, 2015
-
 Moves the selection to the previous item indicated by the browser target. Use the  **Target** property to change the browser target.
+
 
 ## Syntax
 

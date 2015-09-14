@@ -1,7 +1,6 @@
 
 # MultiLine Property
 
- **Last modified:** July 28, 2015
 
 
 Specifies whether a control can accept and display multiple lines of text.

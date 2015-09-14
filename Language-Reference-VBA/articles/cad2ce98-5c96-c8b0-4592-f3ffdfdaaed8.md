@@ -1,11 +1,10 @@
 
 # Parent Property Example
 
- **Last modified:** July 28, 2015
-
 The following example uses the  **Parent** property to refer to the control or form that contains a specific control.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
+
 
 
 

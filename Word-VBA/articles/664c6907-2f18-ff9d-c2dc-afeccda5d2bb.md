@@ -2,9 +2,6 @@
 # OtherCorrectionsException Members (Word)
 Represents a single AutoCorrect exception. The  **OtherCorrectionsException** object is a member of the **OtherCorrectionsExceptions**collection.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

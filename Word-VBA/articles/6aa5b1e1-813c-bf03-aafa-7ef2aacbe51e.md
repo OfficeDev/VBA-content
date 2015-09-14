@@ -1,9 +1,8 @@
 
 # LineFormat.Pattern Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType**.
+
 
 ## Syntax
 

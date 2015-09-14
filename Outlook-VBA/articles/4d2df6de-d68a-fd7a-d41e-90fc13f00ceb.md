@@ -1,9 +1,8 @@
 
 # Conflict.Item Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Object** corresponding to the specified Outlook item. Read-only.
+
 
 ## Syntax
 

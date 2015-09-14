@@ -1,10 +1,6 @@
 
 # ParagraphFormat.ListBulletFontSize Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Sets or retrieves a  **Single** that represents the list bullet font size from the specified paragraphs. Read/write.
 
 

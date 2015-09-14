@@ -1,9 +1,8 @@
 
 # SolutionsModule.Parent Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns the parent  **Object** of the specified ** [SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # OlkLabel Members (Outlook)
 The basic label control, used for displaying text for read-only purposes.
 
- **Last modified:** July 28, 2015
-
-
 ## Events
 
 

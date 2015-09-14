@@ -1,9 +1,8 @@
 
 # Page.ActiveControl Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Object** that has the focus. Read-only.
+
 
 ## Syntax
 

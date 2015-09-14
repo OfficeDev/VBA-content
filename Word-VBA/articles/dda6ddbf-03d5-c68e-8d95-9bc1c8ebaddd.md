@@ -1,9 +1,8 @@
 
 # OMathMatCol.Delete Method (Word)
 
- **Last modified:** July 28, 2015
-
 Deletes the specified matrix column.
+
 
 ## Syntax
 

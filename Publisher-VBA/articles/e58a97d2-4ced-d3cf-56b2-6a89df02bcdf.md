@@ -1,10 +1,6 @@
 
 # PictureFormat.OriginalHasAlphaChannel Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns an  **MsoTriState** constant depending on whether the original, linked picture contains an alpha channel. Read-only.
 
 

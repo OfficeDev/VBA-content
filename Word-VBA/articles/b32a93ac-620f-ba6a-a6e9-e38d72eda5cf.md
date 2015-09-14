@@ -1,9 +1,8 @@
 
 # Options.MatchFuzzySpace Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word ignores the distinction between space markers used during a search. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # Table.ConvertToText Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Converts a table to text and returns a  **Range** object that represents the delimited text.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ConvertToText**( **_Separator_**,  **_NestedTables_**)
 
@@ -30,7 +21,6 @@ Converts a table to text and returns a  **Range** object that represents the del
 |NestedTables|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs**. The default value is  **True**.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When you apply the  **ConvertToText** method to a **Table** object, the object is deleted. To maintain a reference to the converted contents of the table, you must assign the **Range** object returned by the **ConvertToText** method to a new object variable. In the following example, the first table in the active document is converted to text and then formatted as a bulleted list.
 
@@ -49,7 +39,6 @@ rngTemp.ListFormat.ApplyListTemplate _
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates a table and then converts it to text by using tabs as separator characters.
 
@@ -92,7 +81,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

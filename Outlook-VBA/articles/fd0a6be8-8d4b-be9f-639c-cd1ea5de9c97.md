@@ -1,9 +1,8 @@
 
 # OlBorderStyle Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Specifies how the border of a control is rendered.
+
 
 
 |**Name**|**Value**|**Description**|

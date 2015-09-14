@@ -1,9 +1,8 @@
 
 # Application.Assistance Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
+
 
 ## Syntax
 

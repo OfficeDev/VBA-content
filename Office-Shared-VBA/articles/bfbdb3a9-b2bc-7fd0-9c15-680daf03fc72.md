@@ -1,9 +1,8 @@
 
 # MsoChartElementType Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies whether and how to display chart elements.
+
 
 
 |**Name**|**Value**|**Description**|

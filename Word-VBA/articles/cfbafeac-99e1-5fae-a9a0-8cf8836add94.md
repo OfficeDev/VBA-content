@@ -1,9 +1,8 @@
 
 # Selection.ClearParagraphStyle Method (Word)
 
- **Last modified:** July 28, 2015
-
 Removes paragraph formatting that has been applied through paragraph styles from the selected text.
+
 
 ## Syntax
 

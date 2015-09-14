@@ -1,19 +1,10 @@
 
 # Document.Container Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the object that represents the container application for the specified document. Read-only  **Object**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Container**
 
@@ -21,13 +12,11 @@ Returns the object that represents the container application for the specified d
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
-The  **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document â€” for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
+The  **Container** property provides access to the specified document's container application if the document is embedded in another application as an OLE object. This property also provides a pathway into the object model of the container application if a Word document is opened as an ActiveX document — for example, when a Word document is opened in Microsoft Office Binder or Internet Explorer.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the name of the container application for the first shape in the active document. For the example to work, this shape must be an OLE object.
 
@@ -38,7 +27,6 @@ Msgbox ActiveDocument.Shapes(1).OLEFormat.Object.Container.Name
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

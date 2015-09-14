@@ -1,9 +1,8 @@
 
 # TabStrip.ClientLeft Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Single** value that represents the location of the left edge of the display area of a ** [TabStrip](643c896a-2304-42f3-f5e9-0feee6d22364.md)**. Read-only.
+
 
 ## Syntax
 

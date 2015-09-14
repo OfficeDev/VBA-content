@@ -1,9 +1,8 @@
 
 # OMathMatRows Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a collection of matrix rows. Use the  **OMathMatRow** object to access individual membes of the collection.
+
 
 ## See also
 

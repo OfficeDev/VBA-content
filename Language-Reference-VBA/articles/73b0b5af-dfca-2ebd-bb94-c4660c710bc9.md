@@ -1,7 +1,6 @@
 
 # ScrollBar Control
 
- **Last modified:** July 28, 2015
 
 
 Returns or sets the value of another control based on the position of the scroll box.

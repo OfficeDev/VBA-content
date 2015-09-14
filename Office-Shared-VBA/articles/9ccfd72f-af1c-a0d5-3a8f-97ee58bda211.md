@@ -1,9 +1,8 @@
 
 # Signature.Setup Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **SignatureSetup** object that provides access to various properties of a signature packet. Read-only.
+
 
 ## Syntax
 

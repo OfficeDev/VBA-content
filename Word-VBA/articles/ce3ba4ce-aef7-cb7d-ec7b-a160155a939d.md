@@ -1,9 +1,8 @@
 
 # ContentControl.Copy Method (Word)
 
- **Last modified:** July 28, 2015
-
 Copies the content control from the active document to the Clipboard.
+
 
 ## Syntax
 

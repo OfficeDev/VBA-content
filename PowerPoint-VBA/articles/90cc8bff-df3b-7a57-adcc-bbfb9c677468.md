@@ -1,9 +1,8 @@
 
 # Application.FileValidation Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a value that indicates how PowerPoint will validate files before opening them. Read/write
+
 
 ## Syntax
 

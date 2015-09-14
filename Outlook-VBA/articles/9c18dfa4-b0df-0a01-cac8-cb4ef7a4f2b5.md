@@ -2,9 +2,6 @@
 # ItemProperties Members (Outlook)
 A collection of all properties associated with the item.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

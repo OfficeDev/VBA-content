@@ -1,9 +1,8 @@
 
 # JournalItem.Forward Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Executes the  **Forward** action for an item and returns the resulting copy as a ** [MailItem](14197346-05d2-0250-fa4c-4a6b07daf25f.md)** object.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # Fields.Update Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Updates the result of the fields object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Update**
 
@@ -26,13 +17,11 @@ Long
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Returns 0 (zero) if no errors occur when the fields are updated, or returns a  **Long** that represents the index of the first field that contains an error.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example updates all the fields in the main story (that is, the main body) of the active document. A return value of 0 (zero) indicates that the fields were updated without error.
 
@@ -48,7 +37,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

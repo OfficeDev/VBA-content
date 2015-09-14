@@ -1,9 +1,8 @@
 
 # AppointmentItem.StartUTC Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the Coordinated Univeral Time (UTC) standard. Read/write.
+
 
 ## Syntax
 

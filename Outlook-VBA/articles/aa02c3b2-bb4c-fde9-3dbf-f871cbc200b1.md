@@ -1,19 +1,10 @@
 
 # ContactItem.AddPicture Method (Outlook)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Adds a picture to a contact item.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AddPicture**( **_Path_**)
 
@@ -29,7 +20,6 @@ Adds a picture to a contact item.
 |Path|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  If the contact item already has a picture attached to it, this method will overwrite the existing picture.
 
@@ -37,7 +27,6 @@ The picture can be an icon, GIF, JPEG, BMP, TIFF, WMF, EMF, or PNG file. Microso
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following Microsoft Visual Basic for Applications (VBA) example prompts the user to specify the name of a contact and the file name containing a picture of the contact, and then adds the picture to the contact item. If a picture already exists for the contact item, the example prompts the user to specify if the existing picture should be overwritten by the new file.
 
@@ -92,7 +81,6 @@ Sub AddPictureToAContact()
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,19 +1,10 @@
 
 # Font.ColorIndexBi Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the color for the specified  **Font** object in a right-to-left language document. Read/write **WdColorIndex**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ColorIndexBi**
 
@@ -21,13 +12,11 @@ Returns or sets the color for the specified  **Font** object in a right-to-left 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **wdByAuthor** constant is not valid for **Font** objects.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the color of the  **Font** object to teal.
 
@@ -38,7 +27,6 @@ Selection.Font.ColorIndexBi = wdTeal
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

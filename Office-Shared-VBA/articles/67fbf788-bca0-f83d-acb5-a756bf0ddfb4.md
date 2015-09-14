@@ -1,14 +1,6 @@
 
 # SharedWorkspace.CreateNew Method (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection1)
- [Remarks](#sectionSection2)
- [Example](#sectionSection3)
-
-
 Creates a document workspace site on the server and adds the active document to the new shared workspace site.
 
 
@@ -16,7 +8,6 @@ Creates a document workspace site on the server and adds the active document to 
 
 
 ## Syntax
-<a name="sectionSection1"> </a>
 
  _expression_. **CreateNew**( **_URL_**,  **_Name_**)
 
@@ -33,7 +24,6 @@ Creates a document workspace site on the server and adds the active document to 
 |Name|Optional| **Variant**| The name of the new shared workspace site. The default value is the name of the active document without its file name extension. For example, if you create a workspace site for "Budget.xls", the name of the new site becomes "Budget".|
 
 ## Remarks
-<a name="sectionSection2"> </a>
 
 Use the  **CreateNew** method to create a shared workspace site for the active document. Omit the 2 optional arguments to create the site using the name of the active document in the user's default server location.
 
@@ -44,7 +34,6 @@ The  **CreateNew** method raises an error if the active document has changes tha
 
 
 ## Example
-<a name="sectionSection3"> </a>
 
 The following example creates a shared workspace site at the URL http://server/sites/mysite/, names the workspace "My Shared Budget Document", and adds the active document to the site. The  **URL** property of the new shared workspace site returns http://server/sites/mysite/My%20Shared%20Budget%20Document/, the **Name** property returns "My Shared Budget Document, and **Count** property of the **SharedWorkspaceFiles** collection shows a single file.
 
@@ -65,7 +54,6 @@ The following example creates a shared workspace site at the URL http://server/s
 
 
 ## See also
-<a name="sectionSection3"> </a>
 
 
 #### Concepts

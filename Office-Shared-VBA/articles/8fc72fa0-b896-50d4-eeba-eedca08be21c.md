@@ -1,9 +1,8 @@
 
 # SmartArtColor.Id Property (Office)
 
- **Last modified:** July 28, 2015
-
 Retrieves the unique Id of the associated SmartArt color style. Read-only
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ParagraphFormat2.LineRuleBefore Property (Office)
 
- **Last modified:** July 28, 2015
-
 Determines whether line spacing before the first line in each paragraph is set to a specific number of points or lines. Read/write.
+
 
 ## Syntax
 

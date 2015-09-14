@@ -1,9 +1,8 @@
 
 # CertificateDetail Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Provides information about the digital certificate.
+
 
 
 |**Name**|**Value**|**Description**|

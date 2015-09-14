@@ -1,12 +1,11 @@
 
 # Switch Function
 
- **Last modified:** July 28, 2015
 
 
 Evaluates a list of  [expressions](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) and returns a **Variant** value or an expression associated with the first expression in the list that is **True**.
  **Syntax**
- **Switch(**_expr-1_**,**_value-1_[ **,**_expr-2_**,**_value-2_**â€¦** [ **,**_expr-n_**,**_value-n_]] **)**
+ **Switch(**_expr-1_**,**_value-1_[ **,**_expr-2_**,**_value-2_**…** [ **,**_expr-n_**,**_value-n_]] **)**
 The  **Switch** function syntax has these parts:
 
 

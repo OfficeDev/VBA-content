@@ -1,9 +1,8 @@
 
 # MsoColorType Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies the color type.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,9 +1,8 @@
 
 # Application Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents the entire Microsoft Outlook application.
+
 
 ## Remarks
 

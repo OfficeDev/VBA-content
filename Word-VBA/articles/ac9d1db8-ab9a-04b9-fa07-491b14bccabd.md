@@ -1,19 +1,10 @@
 
 # Border.Color Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the 24-bit color for the specified  **Border** object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Color**
 
@@ -21,13 +12,11 @@ Returns or sets the 24-bit color for the specified  **Border** object.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a dotted indigo border around each cell in the first table.
 
@@ -44,7 +33,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,7 +1,6 @@
 
 # CreateEventProc Method (VBA Add-In Object Model)
 
- **Last modified:** July 28, 2015
 
 
 Creates an event  [procedure](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md).

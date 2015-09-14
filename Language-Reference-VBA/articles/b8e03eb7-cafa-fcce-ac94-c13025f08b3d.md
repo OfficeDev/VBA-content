@@ -1,10 +1,7 @@
 
 # Property or method not found (Error 423)
 
- **Last modified:** July 28, 2015
-
 The spelling of an object name must exactly match the definition in its  [object library](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md). This error has the following cause and solution:
-
 
 
 

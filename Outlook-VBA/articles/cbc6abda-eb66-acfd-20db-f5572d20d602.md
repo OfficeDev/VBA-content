@@ -1,9 +1,8 @@
 
 # ContactItem.PersonalHomePage Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** representing the URL of the personal Web page for the contact. Read/write.
+
 
 ## Syntax
 

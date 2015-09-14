@@ -2,9 +2,6 @@
 # CustomerData Members (PowerPoint)
 Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of  ** [CustomXMLPart](a4f90bac-01d6-bba4-f64b-a64e2b122cfd.md)** objects associated with a Microsoft PowerPoint object.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

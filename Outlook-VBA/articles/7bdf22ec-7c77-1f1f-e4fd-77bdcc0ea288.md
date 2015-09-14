@@ -1,9 +1,8 @@
 
 # Categories.Item Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Category](143ef095-54b0-cbe2-e356-632029061ac2.md)** object from the collection.
+
 
 ## Syntax
 

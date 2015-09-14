@@ -1,9 +1,8 @@
 
 # RemoteItem.RemoteMessageClass Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** indicating the message class for the remote item. Read-only.
+
 
 ## Syntax
 

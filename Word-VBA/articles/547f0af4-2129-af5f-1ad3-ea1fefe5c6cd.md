@@ -1,9 +1,8 @@
 
 # ShapeRange.TextFrame Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **TextFrame** object that contains the text for the specified range of shapes.
+
 
 ## Syntax
 

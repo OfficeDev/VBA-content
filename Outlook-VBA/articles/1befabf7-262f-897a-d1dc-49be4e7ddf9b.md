@@ -1,9 +1,8 @@
 
 # TaskItem.Respond Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Responds to a task request.
+
 
 ## Syntax
 

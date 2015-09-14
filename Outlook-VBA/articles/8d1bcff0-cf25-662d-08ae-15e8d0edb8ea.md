@@ -1,12 +1,9 @@
 
 # Filtering Items Using a Comparison with a Keywords Property
 
- **Last modified:** July 28, 2015
-
 The following discussion uses the  **Categories** property as an example, but can apply as well to any multi-valued string property.
 
 The  **Categories** property of an item is of type **keywords** which can contain multiple values. When being compared to a comparison string in a filter, the **Categories** property behaves like a text string where values are separated by a comma and a space. This is true for filters using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax.
-
 
 ## Jet Queries
 

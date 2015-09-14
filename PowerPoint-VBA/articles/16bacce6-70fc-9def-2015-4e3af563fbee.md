@@ -1,9 +1,8 @@
 
 # ThreeDFormat.BevelTopType Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or set the top bevel type. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PolicyItem.Data Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the information that is used to implement the policy item. Read-only.
+
 
 ## Syntax
 

@@ -1,7 +1,6 @@
 
 # ColumnWidths Property
 
- **Last modified:** July 28, 2015
 
 
 Specifies the width of each column in a multicolumn combo box or list box.

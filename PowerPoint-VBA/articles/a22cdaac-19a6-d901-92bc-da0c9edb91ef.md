@@ -1,9 +1,8 @@
 
 # ChartGroup.FullCategoryCollection Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns all the categories in the chart group, or the specified category, whether visible or filtered out.
+
 
 ## Syntax
 

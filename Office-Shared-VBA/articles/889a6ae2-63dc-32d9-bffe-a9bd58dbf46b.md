@@ -1,9 +1,8 @@
 
 # ParagraphFormat2.Parent Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the parent object for the  **ParagraphFormat2** object. Read-only.
+
 
 ## Syntax
 

@@ -1,11 +1,10 @@
 
 # TakeFocusOnClick Property Example
 
- **Last modified:** July 28, 2015
-
 The following example uses the  **TakeFocusOnClick** property to control whether a **CommandButton** receives the focus when the user clicks on it. The user clicks a control other than CommandButton1 and then clicks CommandButton1. If **TakeFocusOnClick** is **True**, CommandButton1 receives the focus after it is clicked. The user can change the value of  **TakeFocusOnClick** by clicking the **ToggleButton**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
+
 
 
 

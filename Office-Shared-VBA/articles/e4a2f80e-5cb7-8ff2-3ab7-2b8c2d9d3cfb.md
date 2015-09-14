@@ -1,9 +1,8 @@
 
 # SharedWorkspace.Files Property (Office)
 
- **Last modified:** July 28, 2015
-
 Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace**. Read-only.
+
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 

@@ -1,9 +1,8 @@
 
 # NameSpace.Stores Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Stores](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)** collection object that represents all the ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** objects in the current profile. Read-only.
+
 
 ## Syntax
 

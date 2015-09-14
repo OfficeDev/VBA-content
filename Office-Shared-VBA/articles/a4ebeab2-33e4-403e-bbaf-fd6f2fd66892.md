@@ -1,9 +1,6 @@
 
 # TextColumn2 Properties (Office)
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

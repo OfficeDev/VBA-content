@@ -1,19 +1,10 @@
 
 # Presentation.RemovePersonalInformation Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether Microsoft PowerPoint should remove all user information from comments and revisions upon saving a presentation. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **RemovePersonalInformation**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **RemovePersonalInformation** property can be one of these **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **RemovePersonalInformation** property can be one of these **M
 | **msoTrue**| Removes comments, revisions, and personal information when saving presentation.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the active presentation to remove personal information the next time the user saves it.
 
@@ -53,7 +42,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

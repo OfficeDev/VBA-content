@@ -1,9 +1,8 @@
 
 # TaskRequestDeclineItem.ConversationIndex Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ExchangeUser.GetExchangeUser Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns the  ** [ExchangeUser](6ec117d1-7fdb-aa36-b567-1242f8238df0.md)** object.
+
 
 ## Syntax
 

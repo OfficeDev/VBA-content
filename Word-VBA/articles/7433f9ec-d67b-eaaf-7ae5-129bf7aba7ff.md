@@ -1,19 +1,10 @@
 
 # Options.SnapToShapes Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **SnapToShapes**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property creates additional invisible gridlines for each AutoShape.  **SnapToShapes** works independently of the **SnapToGrid** property.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets Word to automatically align AutoShapes with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes in a new document.
 
@@ -39,7 +28,6 @@ Documents.Add
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

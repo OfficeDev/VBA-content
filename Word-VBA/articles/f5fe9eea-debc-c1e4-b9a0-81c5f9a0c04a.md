@@ -1,9 +1,8 @@
 
 # Rows.DistributeHeight Method (Word)
 
- **Last modified:** July 28, 2015
-
 Adjusts the height of the specified rows or cells so that they're equal.
+
 
 ## Syntax
 

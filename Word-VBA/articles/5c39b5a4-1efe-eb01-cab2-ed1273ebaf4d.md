@@ -1,19 +1,10 @@
 
 # ContentControl.AllowInsertDeleteSection Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Property value](#sectionSection2)
-
-
 Gets or sets whether users can add or remove sections from the specified repeating section content control by using the user interface.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AllowInsertDeleteSection**
 
@@ -21,19 +12,16 @@ Gets or sets whether users can add or remove sections from the specified repeati
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use this property only with repeating section content controls. Using it with other content controls will result in an error message effect.
 
 
 ## Property value
-<a name="sectionSection2"> </a>
 
  **BOOL**
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

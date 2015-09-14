@@ -1,9 +1,8 @@
 
 # Options.PasteAdjustParagraphSpacing Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word automatically adjusts the spacing of paragraphs when cutting and pasting selections. Read/write **Boolean**.
+
 
 ## Syntax
 

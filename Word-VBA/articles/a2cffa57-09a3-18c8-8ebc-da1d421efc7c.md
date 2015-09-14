@@ -1,9 +1,8 @@
 
 # ChartCharacters.Caption Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the text of this range of characters. Read-only  **String**.
+
 
 ## Syntax
 

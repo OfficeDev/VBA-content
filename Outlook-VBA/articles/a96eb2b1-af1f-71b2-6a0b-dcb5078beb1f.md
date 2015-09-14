@@ -1,9 +1,8 @@
 
 # NavigationGroup Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents a navigation group displayed by a navigation module in the Navigation Pane.
+
 
 ## Remarks
 

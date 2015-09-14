@@ -1,9 +1,8 @@
 
 # Axis.DisplayUnitLabel Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the  ** [DisplayUnitLabel](4dd4df7d-91c1-9136-2d5b-cdb0794a7716.md)**object for the specified axis. Returns  **null** if the ** [HasDisplayUnitLabel](adbbbb89-55af-12f5-ec67-1e88424f3d81.md)**property is set to  **False**. Read-only.
+
 
 ## Syntax
 

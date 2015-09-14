@@ -1,19 +1,10 @@
 
 # ThreeDFormat.Depth Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the depth of the shape's extrusion. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Depth**
 
@@ -26,13 +17,11 @@ Single
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **Depth** property value can be from - 600 through 9600 (positive values produce an extrusion whose front face is the original shape; negative values produce an extrusion whose back face is the original shape).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds an oval to  `myDocument`, and then specifies that the oval be extruded to a depth of 50 points and that the extrusion be purple.
 
@@ -59,7 +48,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,9 +1,8 @@
 
 # Font2.Kerning Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets or sets a value specifying the amount of spacing between text characters. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ExchangeUser.Alias Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** representing the alias for the ** [ExchangeUser](6ec117d1-7fdb-aa36-b567-1242f8238df0.md)**. Read-only. 
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # SignatureSet Members (Office)
 A collection of  **Signature** objects that correspond to the digital signature attached to a document.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

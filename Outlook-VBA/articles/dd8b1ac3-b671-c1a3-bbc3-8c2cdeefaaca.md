@@ -1,9 +1,8 @@
 
 # ContactItem.CompanyLastFirstNoSpace Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** representing the company name for the contact followed by the concatenated last name, first name, and middle name with no space between the last and first names. Read-only.
+
 
 ## Syntax
 

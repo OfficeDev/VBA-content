@@ -1,19 +1,10 @@
 
 # Bookmark.Start Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the starting character position of a bookmark. Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Start**
 
@@ -21,7 +12,6 @@ Returns or sets the starting character position of a bookmark. Read/write  **Lon
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If this property is set to a value larger than that of the  ** [End](05531b0d-b05e-0010-9ff8-ba6d90de560d.md)** property, the **End** property is set to the same value as that of **Start** property.
 
@@ -31,7 +21,6 @@ This property returns the starting character position relative to the beginning 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example compares the ending position of the "temp" bookmark with the starting position of the "begin" bookmark.
 
@@ -44,7 +33,6 @@ If Book2.End > Book1.Start Then Book1.Select
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

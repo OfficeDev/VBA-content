@@ -1,9 +1,8 @@
 
 # WdNumberSpacing Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies the number spacing setting for an OpenType font.
+
 
 
 |**Name**|**Value**|**Description**|

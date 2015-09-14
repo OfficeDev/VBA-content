@@ -1,19 +1,10 @@
 
 # AnimationPoint.Time Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets or returns the time at a given animation point. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Time**
 
@@ -26,13 +17,11 @@ Single
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **Time** property can be any floating-point value between 0 and 1, representing a percentage of the entire timeline from 0% to 100%. For example, a value of 0.2 would correspond to a point in time at 20% of the entire timeline duration from left to right.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example inserts three fill color animation points in the main sequence animation timeline on the first slide.
 
@@ -97,7 +86,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

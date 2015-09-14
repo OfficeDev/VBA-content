@@ -1,9 +1,8 @@
 
 # Chart Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a chart in a document.
+
 
 ## Remarks
 

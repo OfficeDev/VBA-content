@@ -1,19 +1,10 @@
 
 # Options.DisplayGridLines Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Microsoft Word displays the document grid. This property is the equivalent of the **Gridlines** command on the **View** menu. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DisplayGridLines**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property affects only the document grid. For table gridlines, use the  ** [TableGridlines](02ef1d7b-185b-ed17-e811-a752faa11b3f.md)**property.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example switches between displaying and hiding the document grid in the active window.
 
@@ -38,7 +27,6 @@ Options.DisplayGridLines = Not Options.DisplayGridLines
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

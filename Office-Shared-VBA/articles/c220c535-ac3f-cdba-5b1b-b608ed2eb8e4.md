@@ -1,9 +1,8 @@
 
 # CustomXMLPart.SelectNodes Method (Office)
 
- **Last modified:** July 28, 2015
-
 Selects a collection of nodes from a custom XML part.
+
 
 ## Syntax
 

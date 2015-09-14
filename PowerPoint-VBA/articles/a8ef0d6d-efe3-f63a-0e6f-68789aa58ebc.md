@@ -2,9 +2,6 @@
 # NamedSlideShow Members (PowerPoint)
 Represents a custom slide show, which is a named subset of slides in a presentation. 
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

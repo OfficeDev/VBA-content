@@ -1,9 +1,8 @@
 
 # MsoPresetTextEffectShape Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting  **WordArt Shape** in the **WordArt** toolbar.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,9 +1,8 @@
 
 # ExtraColors.Add Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Adds a color to the extra colors available to a presentation, if the color hasn't already been added.
+
 
 ## Syntax
 

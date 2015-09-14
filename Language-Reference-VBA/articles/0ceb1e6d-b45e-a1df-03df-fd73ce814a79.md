@@ -1,7 +1,6 @@
 
 # StartUpPosition Property
 
- **Last modified:** July 28, 2015
 
 
 Returns or sets a value specifying the position of a  **UserForm** when it first appears.

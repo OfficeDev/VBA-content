@@ -2,10 +2,6 @@
 # BorderArts Members (Publisher)
 A collection of all BorderArt available for use in the specified publication. BorderArt is predefined picture borders that can be applied to text boxes, picture frames, or rectangles.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 ## Methods
 
 

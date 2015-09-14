@@ -1,19 +1,10 @@
 
 # Options.InsertedTextMark Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write  **WdInsertedTextMark**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **InsertedTextMark**
 
@@ -21,7 +12,6 @@ Returns or sets how Microsoft Word formats inserted text while change tracking i
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If change tracking is not enabled, this property is ignored. Use this property with the  **InsertedTextColor** property to control the appearance of inserted text in a document.
 
@@ -29,7 +19,6 @@ The  **ShowRevisions** property must be **True** to see the formatting for inser
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets Word to italicize inserted text.
 
@@ -53,7 +42,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

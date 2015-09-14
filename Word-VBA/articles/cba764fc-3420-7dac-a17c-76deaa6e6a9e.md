@@ -2,9 +2,6 @@
 # Zooms Members (Word)
 A collection of  ** [Zoom](9a07fe91-fe6c-21f8-7022-1c56676b89ef.md)**objects that represents the magnification options for each view (such as outline, normal, or print layout).
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

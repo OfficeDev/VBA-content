@@ -1,9 +1,8 @@
 
 # Range.TCSCConverter Method (Word)
 
- **Last modified:** July 28, 2015
-
 Converts the specified range from Traditional Chinese to Simplified Chinese or vice versa.
+
 
 ## Syntax
 

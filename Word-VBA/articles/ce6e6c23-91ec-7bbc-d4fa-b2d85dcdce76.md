@@ -1,9 +1,8 @@
 
 # Options.UseCharacterUnit Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word uses characters as the default measurement unit for the current document. Read/write **Boolean**.
+
 
 ## Syntax
 

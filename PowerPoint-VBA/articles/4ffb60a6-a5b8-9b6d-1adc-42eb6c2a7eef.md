@@ -1,19 +1,10 @@
 
 # Trendline.Intercept Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Intercept**
 
@@ -21,13 +12,11 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Setting this property sets the  ** [InterceptIsAuto](568c57e5-c42f-8559-9c7c-30a72e46463a.md)**property to  **False**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 
@@ -53,7 +42,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

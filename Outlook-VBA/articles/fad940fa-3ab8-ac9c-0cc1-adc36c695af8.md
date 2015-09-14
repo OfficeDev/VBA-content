@@ -1,9 +1,8 @@
 
 # MailItem.BeforeAttachmentWriteToTempFile Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs before an attachment associated with an instance of the parent object is written to a temporary file.
+
 
 ## Syntax
 

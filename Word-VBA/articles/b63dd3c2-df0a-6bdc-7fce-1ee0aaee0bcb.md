@@ -2,9 +2,6 @@
 # TabStop Members (Word)
 Represents a single tab stop. The  **TabStop** object is a member of the ** [TabStops](2d3bcac4-db8c-05fe-1cc1-5d90774f84fb.md)**collection. The  **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

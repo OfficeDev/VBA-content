@@ -1,9 +1,8 @@
 
 # BuildingBlockTypes.Count Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the number of items in the  **BuildingBlockTypes** collection. Read-only **Long**.
+
 
 ## Syntax
 

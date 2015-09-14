@@ -1,9 +1,8 @@
 
 # Broadcast.End Method (Word)
 
- **Last modified:** July 28, 2015
-
 Ends the specified broadcast session.
+
 
 ## Syntax
 

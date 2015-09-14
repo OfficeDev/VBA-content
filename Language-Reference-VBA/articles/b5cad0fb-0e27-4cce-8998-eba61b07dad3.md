@@ -1,9 +1,6 @@
 
 # Events (Visual Basic for Applications)
 
- **Last modified:** July 28, 2015
-
-
 ## In this section
 
 

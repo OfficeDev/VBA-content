@@ -1,9 +1,8 @@
 
 # Application.Quit Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Closes all currently open windows. 
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ThreeDFormat.ContourWidth Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the width of the contour around the specified  **ThreeDFormat** object, in points. Read/write.
+
 
 ## Syntax
 

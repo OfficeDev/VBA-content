@@ -1,9 +1,8 @@
 
 # Hyperlinks.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an individual  **Hyperlink** object in a collection.
+
 
 ## Syntax
 

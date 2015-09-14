@@ -1,9 +1,8 @@
 
 # SlideRange.Duplicate Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Creates a duplicate of the specified  **SlideRange** object, adds the new range of slides to the **Slides** collection immediately after the slide range specified originally, and then returns a **SlideRange** object that represents the duplicate slides.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # OlkComboBox.BorderStyle Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets an  ** [OlBorderStyle](fd0a6be8-8d4b-be9f-639c-cd1ea5de9c97.md)** constant that defines the style of the border around the control. Read/write.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # Options.PrintBackgrounds Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **Boolean** that represents whether background colors and images are printed when a document is printed.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PrintBackgrounds**
 
@@ -21,13 +12,11 @@ Returns a  **Boolean** that represents whether background colors and images are 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  **True** indicates that background colors and images are printed. **False** indicates that background colors and images are not printed.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example specifies that when documents are printed background colors and images will also be printed.
 
@@ -38,7 +27,6 @@ Options.PrintBackgrounds = True
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,9 +1,8 @@
 
 # OlkOptionButton.KeyUp Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs when the user releases a key.
+
 
 ## Syntax
 

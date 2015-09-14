@@ -1,10 +1,6 @@
 
 # MailMerge.Execute Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Performs the specified mail merge or catalog merge operation. Returns a  ** [Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object that represents the new or existing publication specified as the destination of the merge results. Returns **Nothing** if the merge is executed to a printer.
 
 

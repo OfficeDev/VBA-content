@@ -1,9 +1,8 @@
 
 # MsoPresetMaterial Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies the extrusion surface material. Used with the  **PresetMaterial** property of the **ThreeDFormat** object.
+
 
 
 |**Name**|**Value**|**Description**|

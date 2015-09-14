@@ -1,9 +1,8 @@
 
 # SelectNamesDialog.SetDefaultDisplayMode Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Sets the default display mode for the  **Select Names** dialog box, specifying its caption and button labels.
+
 
 ## Syntax
 

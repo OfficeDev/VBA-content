@@ -1,19 +1,10 @@
 
 # Chart.DepthPercent Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DepthPercent**
 
@@ -21,13 +12,11 @@ Returns or sets the depth of a 3-D chart as a percentage of the chart width (bet
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property applies only to 3-D charts.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets the depth of the first chart in the active document to be 50 percent of its width. You should run this example on a 3-D chart.
 
@@ -43,7 +32,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

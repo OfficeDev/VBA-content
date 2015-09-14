@@ -1,10 +1,7 @@
 
 # Bad DLL calling convention (Error 49)
 
- **Last modified:** July 28, 2015
-
  [Arguments](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) passed to a [dynamic-link library](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) (DLL) or Macintosh code resource routine must exactly match those expected by the routine. Calling conventions deal with number, type, and order of arguments. This error has the following causes and solutions:
-
 
 
 

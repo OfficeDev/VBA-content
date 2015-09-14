@@ -1,9 +1,8 @@
 
 # Range.ListStyle Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
+
 
 ## Syntax
 

@@ -1,10 +1,6 @@
 
 # Shapes.BuildFreeform Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Builds a freeform object. Returns a  [FreeformBuilder](542df9f7-f636-a98e-01de-11005b5797cc.md)object that represents the freeform as it is being built.
 
 

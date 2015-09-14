@@ -1,19 +1,10 @@
 
 # ListTemplate.ListLevels Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [ListLevels](9165c008-c066-8d3e-9254-d9e0ab2ec091.md)**collection that represents all the levels for the specified  **ListTemplate**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ListLevels**
 
@@ -21,13 +12,11 @@ Returns a  ** [ListLevels](9165c008-c066-8d3e-9254-d9e0ab2ec091.md)**collection 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a single member of a collection, see  [Returning an Object from a Collection](28f76384-f495-9640-a7c8-10ada3fac727.md).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the variable myListTemp to the first list template (excluding None) on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). Each level in the list has a matching heading style linked to it.
 
@@ -42,7 +31,6 @@ Next mylevel
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

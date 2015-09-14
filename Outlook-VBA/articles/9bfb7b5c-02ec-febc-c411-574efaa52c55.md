@@ -1,9 +1,8 @@
 
 # ExchangeDistributionList.Address Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** representing the X400 e-mail address of the ** [ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)**. Read/write.
+
 
 ## Syntax
 

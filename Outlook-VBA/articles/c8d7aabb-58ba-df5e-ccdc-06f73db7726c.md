@@ -1,9 +1,8 @@
 
 # NavigationFolder Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents a navigation folder displayed in a navigation group of a navigation module in the Navigation Pane.
+
 
 ## Remarks
 

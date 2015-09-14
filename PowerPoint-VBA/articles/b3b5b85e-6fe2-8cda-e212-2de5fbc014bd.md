@@ -2,9 +2,6 @@
 # TextStyle Members (PowerPoint)
 Represents one of three text styles: title text, body text, or default text. Each text style contains a  ** [TextFrame](03346e81-71b2-0b9e-843d-fb8aa0e3c868.md)**object that describes how text is placed within the text bounding box, a  ** [Ruler](dc6b78ae-4745-0bc8-1d28-831b1f30f86c.md)**object that contains tab stops and outline indent formatting information, and a  ** [TextStyleLevels](dc61e97f-e92e-d214-47af-5830c14b1b09.md)**collection that contains outline text formatting information. The  **TextStyle** object is a member of the ** [TextStyles](5c56df6d-8f37-ebe7-2955-c6c5de1ed771.md)**collection.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

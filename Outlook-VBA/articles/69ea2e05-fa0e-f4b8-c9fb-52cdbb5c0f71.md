@@ -1,10 +1,6 @@
 
 # Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 This procedure sets properties on a  [Page](836941c3-c768-151a-65a5-41c71493033a.md) or [Tab](b5571953-0e47-a994-3e82-4e439a77afa8.md) in a [MultiPage](ac0fa233-81fe-8a34-4113-6907c6d8f7e2.md) or [TabStrip](643c896a-2304-42f3-f5e9-0feee6d22364.md) control only.
 
 

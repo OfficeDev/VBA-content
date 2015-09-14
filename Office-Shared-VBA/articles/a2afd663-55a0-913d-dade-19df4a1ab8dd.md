@@ -1,9 +1,8 @@
 
 # ServerPolicy.Name Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the name of the  **ServerPolicy** object. Read-only.
+
 
 ## Syntax
 

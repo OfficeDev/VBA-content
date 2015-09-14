@@ -1,9 +1,8 @@
 
 # SlideRange.ApplyTemplate2 Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Applies a design template and theme variant to the slide range.
+
 
 ## Syntax
 

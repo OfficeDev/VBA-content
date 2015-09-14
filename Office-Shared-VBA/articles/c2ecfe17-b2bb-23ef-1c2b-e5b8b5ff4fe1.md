@@ -2,9 +2,6 @@
 # FileTypes Members (Office)
 A collection of values of the type  **msoFileType** that determine which types of files are returned during a search.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

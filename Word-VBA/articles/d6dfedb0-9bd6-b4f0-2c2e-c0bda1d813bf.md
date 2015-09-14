@@ -1,9 +1,8 @@
 
 # OMathFunction.LimUpp Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  ** [OMathLimUpp](3c7ca001-8533-52c9-5343-8a89892c0a16.md)** object that represents upper limit function. Read-only.
+
 
 ## Syntax
 

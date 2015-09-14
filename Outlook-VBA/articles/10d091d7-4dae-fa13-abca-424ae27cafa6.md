@@ -1,9 +1,8 @@
 
 # OlkOptionButton.GroupName Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** that identifies a group of mutually exclusive option button controls. Read/write.
+
 
 ## Syntax
 

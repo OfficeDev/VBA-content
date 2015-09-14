@@ -1,9 +1,8 @@
 
 # Shapes.AddShape Method (Word)
 
- **Last modified:** July 28, 2015
-
 Adds an AutoShape to a document. Returns a  ** [Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object that represents the AutoShape and adds it to the ** [Shapes](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)** collection.
+
 
 ## Syntax
 

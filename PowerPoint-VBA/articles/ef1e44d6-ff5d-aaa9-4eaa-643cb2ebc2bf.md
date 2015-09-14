@@ -1,19 +1,10 @@
 
 # Font.NameComplexScript Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the complex script font name. Used for mixed language text. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **NameComplexScript**
 
@@ -26,13 +17,11 @@ String
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When you have a right-to-left language setting specified, this property is equivalent to the  **Complex scripts font** list in the **Font** dialog box ( **Font** tab). When you have an Asian language setting specified, this property is equivalent to the **Asian text font** list in the **Font** dialog box ( **Font** tab).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the complex script font to Times New Roman.
 
@@ -45,7 +34,6 @@ ActivePresentation.Slides(1).Shapes.Title.TextFrame _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

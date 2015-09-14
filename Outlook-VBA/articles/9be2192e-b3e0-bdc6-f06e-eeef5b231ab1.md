@@ -1,9 +1,8 @@
 
 # OlkSenderPhoto.MouseIcon Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
+
 
 ## Syntax
 

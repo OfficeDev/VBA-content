@@ -1,9 +1,8 @@
 
 # Results.ResetColumns Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Clears the properties that have been cached with the  ** [SetColumns](119ea78f-f61e-a95e-e9df-440499af962a.md)** method.
+
 
 ## Syntax
 

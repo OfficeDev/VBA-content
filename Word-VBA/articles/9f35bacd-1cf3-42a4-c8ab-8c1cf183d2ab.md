@@ -1,9 +1,8 @@
 
 # Range.InsertFile Method (Word)
 
- **Last modified:** July 28, 2015
-
 Inserts all or part of the specified file.
+
 
 ## Syntax
 

@@ -1,7 +1,6 @@
 
 # CodePane Property
 
- **Last modified:** July 28, 2015
 
 
 Returns a  **CodePane** object. Read-only.

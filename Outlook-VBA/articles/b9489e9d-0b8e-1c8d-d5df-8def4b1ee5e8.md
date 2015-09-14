@@ -2,9 +2,6 @@
 # ExchangeUser Members (Outlook)
 Provides detailed information about an  ** [AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** that represents a Microsoft Exchange mailbox user.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

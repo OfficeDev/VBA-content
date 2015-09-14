@@ -1,19 +1,10 @@
 
 # Chart.Perspective Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Perspective**
 
@@ -21,13 +12,11 @@ Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of this property must be between 0 and 100. This property is ignored if the  ** [RightAngleAxes](d7f01a8f-aa76-3e92-2db2-370176066145.md)** property is set to **True**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example sets the perspective of the first chart in the active document to 70. You should run the example on a 3-D chart.
 
@@ -43,7 +32,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

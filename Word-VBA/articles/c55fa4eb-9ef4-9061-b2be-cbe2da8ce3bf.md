@@ -1,9 +1,8 @@
 
 # Options.AutoFormatApplyFirstIndents Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word replaces a space entered at the beginning of a paragraph with a first-line indent when Word formats a document or range automatically. Read/write **Boolean**.
+
 
 ## Syntax
 

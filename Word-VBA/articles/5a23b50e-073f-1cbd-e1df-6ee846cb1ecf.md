@@ -1,9 +1,8 @@
 
 # Selection.ReadingModeGrowFont Method (Word)
 
- **Last modified:** July 28, 2015
-
 Increases the size of the displayed text one point size when the document is displayed in Reading mode.
+
 
 ## Syntax
 

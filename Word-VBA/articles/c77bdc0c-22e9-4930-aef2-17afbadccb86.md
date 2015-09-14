@@ -1,9 +1,6 @@
 
 # Conflicts Methods (Word)
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

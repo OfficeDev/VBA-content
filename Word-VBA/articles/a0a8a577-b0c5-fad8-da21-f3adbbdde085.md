@@ -1,9 +1,8 @@
 
 # ShapeNodes.Insert Method (Word)
 
- **Last modified:** July 28, 2015
-
 Inserts a node into a freeform shape.
+
 
 ## Syntax
 

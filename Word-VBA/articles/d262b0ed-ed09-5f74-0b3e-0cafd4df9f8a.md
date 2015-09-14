@@ -1,9 +1,8 @@
 
 # CustomProperties.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **CustomProperty** object in a collection.
+
 
 ## Syntax
 

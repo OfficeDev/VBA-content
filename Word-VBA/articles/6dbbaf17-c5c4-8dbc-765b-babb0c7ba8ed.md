@@ -1,9 +1,8 @@
 
 # Rows.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an individual  **Row** object in a collection.
+
 
 ## Syntax
 

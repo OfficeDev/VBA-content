@@ -1,12 +1,9 @@
 
 # Control Toolbox Overview
 
- **Last modified:** July 28, 2015
-
 The  [Control Toolbox](f9ef4ea1-a403-040a-e162-1bcf263a027f.md) identifies the controls that you can add to a **Frame** or a page of a form.
 
 You can customize the  **Control Toolbox** in many ways including the following:
-
 
 - Add pages to the  **Control Toolbox**. 
     

@@ -1,9 +1,8 @@
 
 # TextRetrievalMode Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents options that control how text is retrieved from a  **Range** object.
+
 
 ## Remarks
 

@@ -1,9 +1,8 @@
 
 # HeadingStyles.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an individual  **HeadingStyle** object in a collection.
+
 
 ## Syntax
 

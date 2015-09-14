@@ -2,16 +2,7 @@
 # Items Members (Outlook)
 Contains a collection of  [Outlook item objects](6ea4babf-facf-4018-ef5a-4a484e55153a.md) in a folder.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -22,7 +13,6 @@ Contains a collection of  [Outlook item objects](6ea4babf-facf-4018-ef5a-4a484e5
 | [ItemRemove](c1b2d9cd-ab32-2c4a-85fa-9412c190ac4f.md)|Occurs when an item is deleted from the specified collection.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -43,7 +33,6 @@ Contains a collection of  [Outlook item objects](6ea4babf-facf-4018-ef5a-4a484e5
 | [Sort](7cb248a2-6885-8be5-df7b-fd5683081e01.md)|Sorts the collection of items by the specified property. The index for the collection is reset to 1 upon completion of this method.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

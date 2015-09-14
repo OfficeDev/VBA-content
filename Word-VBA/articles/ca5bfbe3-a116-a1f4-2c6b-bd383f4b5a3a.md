@@ -1,9 +1,8 @@
 
 # CoAuthUpdates.Item Method (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an individual  **CoAuthUpdates** object in a collection.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # COMAddIn Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a COM add-in in the Microsoft Office host application. The  **COMAddIn** object is a member of the **COMAddIns**collection.
+
 
 ## Example
 

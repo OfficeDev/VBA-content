@@ -1,9 +1,8 @@
 
 # ChartCharacters.Font Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the font of the specified object. Read-only  ** [ChartFont](2ca7fb97-fa22-dec1-6978-8ebb6d8aad7c.md)**.
+
 
 ## Syntax
 

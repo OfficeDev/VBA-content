@@ -1,10 +1,7 @@
 
 # User-defined type may not be passed ByVal
 
- **Last modified:** July 28, 2015
-
  [User-defined types](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) can only be passed [by reference](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) (the default), not [by value](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md). The error may not be reported until the call is made. This error has the following cause and solution:
-
 
 
 

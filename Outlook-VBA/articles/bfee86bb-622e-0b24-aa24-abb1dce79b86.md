@@ -1,9 +1,8 @@
 
 # OlkComboBox.Paste Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Pastes the contents of the clipboard in the control.
+
 
 ## Syntax
 

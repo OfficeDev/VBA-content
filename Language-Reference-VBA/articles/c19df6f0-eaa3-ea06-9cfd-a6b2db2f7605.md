@@ -1,10 +1,7 @@
 
 # Can't perform requested operation since the module is hidden
 
- **Last modified:** July 28, 2015
-
 This error pertains to the Visual Basic extensibility (add-in) object model. This error has the following cause and solution:
-
 
 
 

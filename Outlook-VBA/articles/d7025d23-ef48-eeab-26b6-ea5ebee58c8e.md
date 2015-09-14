@@ -1,9 +1,8 @@
 
 # OlRecipientSelectors Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be displayed in the  **Select Names** dialog box.
+
 
 
 |**Name**|**Value**|**Description**|

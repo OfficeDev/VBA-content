@@ -1,10 +1,7 @@
 
 # Delete a bitmap from a control
 
- **Last modified:** July 28, 2015
-
 In the  **Properties** window:
-
 
 
 

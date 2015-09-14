@@ -1,19 +1,10 @@
 
 # WebPageFont.ProportionalFont Property (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets or gets the proportional font setting in the host application. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ProportionalFont**
 
@@ -21,13 +12,11 @@ Sets or gets the proportional font setting in the host application. Read/write.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When you set the  **ProportionalFont** property, the host application does not check the value for validity.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the proportional font and proportional font size for the English/Western European/Other Latin Script character set in the active application.
 
@@ -43,7 +32,6 @@ Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

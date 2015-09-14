@@ -1,9 +1,8 @@
 
 # TextRange2.Count Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  **Long** indicating the number of items in the **TextRange2** collection. Read-only.
+
 
 ## Syntax
 

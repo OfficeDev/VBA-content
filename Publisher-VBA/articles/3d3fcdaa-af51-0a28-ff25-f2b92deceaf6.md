@@ -1,10 +1,6 @@
 
 # Application.MailMergeWizardStateChange Event (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Occurs when a user changes from a specified step to a specified step in the Mail Merge Wizard.
 
 

@@ -1,9 +1,8 @@
 
 # Application.Explorers Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns an  ** [Explorers](8398532a-1fad-7390-6778-109ac5e6c67c.md)**collection object that contains the  ** [Explorer](026591e5-049f-503a-4166-34e6dbc225fb.md)**objects representing all open explorers. Read-only.
+
 
 ## Syntax
 

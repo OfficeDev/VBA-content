@@ -1,7 +1,6 @@
 
 # Command Function
 
- **Last modified:** July 28, 2015
 
 
 Returns the  [argument](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) portion of the [command line](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.

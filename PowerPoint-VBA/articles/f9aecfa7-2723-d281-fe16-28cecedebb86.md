@@ -1,9 +1,8 @@
 
 # MediaBookmarks.Count Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the number of bookmarks. Read-only.
+
 
 ## Syntax
 

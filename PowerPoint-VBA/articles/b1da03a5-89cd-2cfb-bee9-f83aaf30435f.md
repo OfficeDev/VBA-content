@@ -1,9 +1,8 @@
 
 # CategoryCollection.Item Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns an individual chart category.
+
 
 ## Syntax
 

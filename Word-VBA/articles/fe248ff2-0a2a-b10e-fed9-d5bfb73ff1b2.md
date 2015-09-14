@@ -1,9 +1,8 @@
 
 # Document.ExportAsFixedFormat Method (Word)
 
- **Last modified:** July 28, 2015
-
 Saves a document as PDF or XPS format.
+
 
 ## Syntax
 

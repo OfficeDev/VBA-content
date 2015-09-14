@@ -1,19 +1,10 @@
 
 # Panes.Add Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **Pane** object that represents a new pane to a window.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Add**( **_SplitVertical_**)
 
@@ -34,13 +25,11 @@ Pane
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method will fail if it is applied to a window that has already been split.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example splits the active window such that the top pane is 30 percent of the total window size.
 
@@ -51,7 +40,6 @@ ActiveDocument.ActiveWindow.Panes.Add SplitVertical:=30
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

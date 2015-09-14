@@ -1,10 +1,6 @@
 
 # PageSize.VerticalGap Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns a  **Variant** that represents the distance in points between the bottom edge of one publication page and top edge of the publication page immediately below it for the blank page size represented by the parent **PageSize** object. This property applies only when multiple pages are printed on a single sheet of printer paper. Read-only.
 
 

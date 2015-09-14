@@ -1,10 +1,7 @@
 
 # Ways to protect sensitive information
 
- **Last modified:** July 28, 2015
-
 Many applications use data that should be available only to certain users. Here are some suggestions you can use to protect sensitive information in Microsoft Forms:
-
 
 
 

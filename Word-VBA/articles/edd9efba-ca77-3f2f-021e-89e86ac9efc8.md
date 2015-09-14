@@ -1,9 +1,8 @@
 
 # TextInput.EditType Method (Word)
 
- **Last modified:** July 28, 2015
-
 Sets options for the specified text form field.
+
 
 ## Syntax
 

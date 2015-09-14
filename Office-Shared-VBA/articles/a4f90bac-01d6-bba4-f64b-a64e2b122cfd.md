@@ -1,9 +1,8 @@
 
 # CustomXMLPart Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a single  **CustomXMLPart** in a **CustomXMLParts** collection.
+
 
 ## Example
 

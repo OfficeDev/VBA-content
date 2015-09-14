@@ -1,9 +1,8 @@
 
 # Axis.CategoryNames Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets all the category names as a text array for the specified axis. Read/write  **Variant**.
+
 
 ## Syntax
 

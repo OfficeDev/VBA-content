@@ -1,9 +1,8 @@
 
 # Axis.Height Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the height, in points, of the object. Read-only  **Double**.
+
 
 ## Syntax
 

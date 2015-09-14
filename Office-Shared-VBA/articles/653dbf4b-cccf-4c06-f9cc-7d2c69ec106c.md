@@ -1,9 +1,8 @@
 
 # PickerProperty.Value Property (Office)
 
- **Last modified:** July 28, 2015
-
 Retrieves the value of a Picker property. Read-only
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ColumnFormat Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents the display properties of an order field or view field in a view.
+
 
 ## Remarks
 

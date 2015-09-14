@@ -1,9 +1,8 @@
 
 # DocumentWindow.Activate Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Activates the specified object.
+
 
 ## Syntax
 

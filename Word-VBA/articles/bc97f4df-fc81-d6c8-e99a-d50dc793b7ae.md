@@ -1,9 +1,8 @@
 
 # Font Object (Word)
 
- **Last modified:** July 28, 2015
-
 Contains font attributes (such as font name, font size and color) for an object.
+
 
 ## Remarks
 

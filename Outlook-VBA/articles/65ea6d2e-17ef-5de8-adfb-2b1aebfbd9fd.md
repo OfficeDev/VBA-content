@@ -1,9 +1,8 @@
 
 # ContactItem.FileAs Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** indicating the default keyword string assigned to the contact when it is filed. Read/write.
+
 
 ## Syntax
 

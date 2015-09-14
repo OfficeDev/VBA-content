@@ -1,9 +1,8 @@
 
 # CommandBars.DisableCustomize Property (Office)
 
- **Last modified:** July 28, 2015
-
 Is  **True** if toolbar customization is disabled. Read/write.
+
 
 ## Syntax
 

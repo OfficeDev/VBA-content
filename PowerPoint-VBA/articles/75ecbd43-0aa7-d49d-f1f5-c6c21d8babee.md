@@ -1,9 +1,8 @@
 
 # Tags Object (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Represents a tag or a custom property that you can create for a shape, slide, or presentation. 
+
 
 ## Remarks
 

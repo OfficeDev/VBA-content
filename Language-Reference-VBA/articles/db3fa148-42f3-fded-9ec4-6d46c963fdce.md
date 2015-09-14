@@ -1,7 +1,6 @@
 
 # SpecialEffect Property
 
- **Last modified:** July 28, 2015
 
 
 Specifies the visual appearance of an object.

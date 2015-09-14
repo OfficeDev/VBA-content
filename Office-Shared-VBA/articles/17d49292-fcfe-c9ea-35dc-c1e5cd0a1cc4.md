@@ -1,9 +1,8 @@
 
 # WorkflowTemplate.Creator Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a 32-bit integer that indicates the application in which the  **WorkflowTemplate** object was created. Read-only.
+
 
 ## Syntax
 

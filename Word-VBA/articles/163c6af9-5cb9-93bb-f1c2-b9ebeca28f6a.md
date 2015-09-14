@@ -1,9 +1,8 @@
 
 # OMathFunctions Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a collection of functions or structures that Microsoft Word supports, such as fractions, integrals, sums, and radicals.
+
 
 ## See also
 

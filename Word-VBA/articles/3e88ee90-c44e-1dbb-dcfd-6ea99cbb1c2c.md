@@ -1,19 +1,10 @@
 
 # MailMergeDataSource.FieldNames Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [MailMergeFieldNames](5a3752da-63b2-f0f9-7456-01a31bac5f62.md)**collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **FieldNames**
 
@@ -21,13 +12,11 @@ Returns a  ** [MailMergeFieldNames](5a3752da-63b2-f0f9-7456-01a31bac5f62.md)**co
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a single member of a collection, see  [Returning an Object from a Collection](28f76384-f495-9640-a7c8-10ada3fac727.md).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the name of the first field in the data source attached to the active mail merge main document.
 
@@ -63,7 +52,6 @@ Next mmfnLoop
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,19 +1,10 @@
 
 # Axis.BaseUnitIsAuto Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True**. Read/write  **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BaseUnitIsAuto**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You cannot set this property for a value axis.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 
@@ -61,7 +50,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

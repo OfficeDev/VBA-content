@@ -1,9 +1,8 @@
 
 # OlFormatEnumeration Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Indicates the format used to display enumeration Outlook item properties.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,9 +1,8 @@
 
 # Hyperlink.Follow Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Displays the HTML document associated with the specified hyperlink in a new Web browser window.
+
 
 ## Syntax
 

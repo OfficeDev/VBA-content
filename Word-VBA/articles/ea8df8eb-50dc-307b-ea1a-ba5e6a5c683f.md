@@ -1,9 +1,8 @@
 
 # KeyBinding.Execute Method (Word)
 
- **Last modified:** July 28, 2015
-
 Runs the command associated with the specified key combination.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PpPrintRangeType Enumeration (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Specifies the type of print range for the presentation.
+
 
 
 |**Name**|**Value**|**Description**|

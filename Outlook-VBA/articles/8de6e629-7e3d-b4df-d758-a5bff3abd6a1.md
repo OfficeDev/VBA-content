@@ -1,9 +1,8 @@
 
 # FromRssFeedRuleCondition Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents a rule condition that evaluates whether an item is from a specified RSS subscription.
+
 
 ## Remarks
 

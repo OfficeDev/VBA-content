@@ -1,9 +1,8 @@
 
 # MeetingItem.PrintOut Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Prints the Outlook item using all default settings.The  **PrintOut** method is the only Outlook method that can be used for printing.
+
 
 ## Syntax
 

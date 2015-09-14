@@ -1,9 +1,8 @@
 
 # Presentation.GetWorkflowTemplates Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the Microsoft Office  **WorkflowTemplates** collection.
+
 
 ## Syntax
 

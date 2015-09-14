@@ -1,9 +1,8 @@
 
 # CaptionLabel.Position Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the position of caption label text. Read/write  **WdCaptionPosition**.
+
 
 ## Syntax
 

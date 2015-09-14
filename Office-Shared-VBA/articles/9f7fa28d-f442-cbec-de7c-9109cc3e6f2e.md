@@ -1,9 +1,8 @@
 
 # SharedWorkspace.Tasks Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets a  ** [SharedWorkspaceTasks](de26341f-44d1-131e-1dbe-e31f3f68e312.md)** collection that represents the list of tasks in the current shared workspace. Read-only.
+
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 

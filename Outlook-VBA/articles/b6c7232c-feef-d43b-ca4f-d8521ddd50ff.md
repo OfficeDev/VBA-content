@@ -1,9 +1,8 @@
 
 # ListBox.TextAlign Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns or sets an  **Integer** that specifies how text is aligned in a control. Read/write.
+
 
 ## Syntax
 

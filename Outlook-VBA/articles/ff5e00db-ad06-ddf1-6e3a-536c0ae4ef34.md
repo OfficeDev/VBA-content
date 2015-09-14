@@ -1,9 +1,8 @@
 
 # OlDownloadState Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Indicates the download state.
+
 
 
 |**Name**|**Value**|**Description**|

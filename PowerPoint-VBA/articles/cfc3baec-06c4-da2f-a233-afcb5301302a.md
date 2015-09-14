@@ -1,9 +1,8 @@
 
 # TextRange.BoundTop Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the distance (in points) from the top of the of the text bounding box for the specified text frame to the top of the slide. Read-only.
+
 
 ## Syntax
 

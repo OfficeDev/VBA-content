@@ -1,19 +1,10 @@
 
 # Index.NumberOfColumns Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets or returns the number of columns for each page of an index. Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **NumberOfColumns**
 
@@ -21,13 +12,11 @@ Sets or returns the number of columns for each page of an index. Read/write  **L
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Specifying 0 (zero) sets the number of columns in the index to the same number as in the document.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the number of columns in the first index to the same number as in the active document.
 
@@ -49,7 +38,6 @@ Next myIndex
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

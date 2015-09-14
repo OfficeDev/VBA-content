@@ -1,9 +1,8 @@
 
 # GradientStops.Insert2 Method (Office)
 
- **Last modified:** July 28, 2015
-
 Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.
+
 
 ## Syntax
 

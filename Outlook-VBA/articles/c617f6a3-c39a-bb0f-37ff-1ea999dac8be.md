@@ -1,10 +1,6 @@
 
 # Specify the Location of a Form Region in a Custom Form
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Outlook 2013_
-
 A form region is a piece of custom user interface that you add to a form. You can designate the form region to be displayed in one of several ways in a custom form. To do so, you will be specifying the  **formRegionType** and **displayAfter** elements of the form region XML schema in the corresponding form region manifest XML file.
 
 

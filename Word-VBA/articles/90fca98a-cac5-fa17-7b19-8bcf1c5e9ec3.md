@@ -1,9 +1,8 @@
 
 # TextFrame.AutoSize Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Long** that represents whether a text frame is sized automatically. Read/write.
+
 
 ## Syntax
 

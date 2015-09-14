@@ -1,9 +1,8 @@
 
 # BuildingBlocks Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a collection of  ** [BuildingBlock](2558b89f-8552-bb71-fa40-101cab2635ba.md)** objects for a specific building block type and category in a template.
+
 
 ## Remarks
 

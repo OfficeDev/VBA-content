@@ -1,9 +1,8 @@
 
 # Table Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 Represents a set of item data from a  ** [Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)** or ** [Search](226a5d49-3caf-90dd-725c-265404d1939f.md)** object, with items as rows of the table and properties as columns of the table.
+
 
 ## Remarks
 

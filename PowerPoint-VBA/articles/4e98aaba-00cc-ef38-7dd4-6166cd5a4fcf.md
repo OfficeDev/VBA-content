@@ -1,9 +1,8 @@
 
 # CustomerData.Parent Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the parent object of the specified  ** [CustomerData](1d658369-ea6c-6959-cd00-230dc111f765.md)** object. Read-only.
+
 
 ## Syntax
 

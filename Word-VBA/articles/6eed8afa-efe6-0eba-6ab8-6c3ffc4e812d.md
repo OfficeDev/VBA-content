@@ -1,9 +1,8 @@
 
 # Application.MailMergeAfterMerge Event (Word)
 
- **Last modified:** July 28, 2015
-
 Occurs after all records in a mail merge have merged successfully.
+
 
 ## Syntax
 

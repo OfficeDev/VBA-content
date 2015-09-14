@@ -1,9 +1,8 @@
 
 # SignatureProvider Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a signature provider add-in.
+
 
  **Note**  Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA).
 

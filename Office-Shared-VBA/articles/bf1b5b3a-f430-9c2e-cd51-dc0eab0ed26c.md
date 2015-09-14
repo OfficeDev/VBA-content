@@ -1,9 +1,8 @@
 
 # PickerResults.Application Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only
+
 
 ## Syntax
 

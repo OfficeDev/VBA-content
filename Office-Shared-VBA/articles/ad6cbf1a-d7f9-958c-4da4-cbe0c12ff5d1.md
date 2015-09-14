@@ -1,9 +1,8 @@
 
 # FileDialogFilter.Parent Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the  **Parent** object for the **FileDialogFilter** object. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # PostItem.Forward Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs when the user selects the  **Forward** action for an item, or when the **Forward** method is called for the item, which is an instance of the parent object.
+
 
 ## Syntax
 

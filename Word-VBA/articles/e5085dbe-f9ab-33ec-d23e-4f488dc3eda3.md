@@ -1,9 +1,8 @@
 
 # Endnotes.Separator Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Range** object that represents the endnote separator.
+
 
 ## Syntax
 

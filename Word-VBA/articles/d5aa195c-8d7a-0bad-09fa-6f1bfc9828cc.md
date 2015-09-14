@@ -2,9 +2,6 @@
 # ContentControl Members (Word)
 An individual content control. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain contents such as dates, lists, or paragraphs of formatted text. The  **ContentControl** object is a member of the ** [ContentControls](2595eea9-df68-edce-3a51-069cad14bb87.md)** collection.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 
@@ -40,7 +37,7 @@ An individual content control. Content controls are bounded and potentially labe
 | [DefaultTextStyle](72b2b4b3-b417-1be5-c151-80b740509e8f.md)|Returns or sets a  **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.|
 | [DropdownListEntries](4434c4cc-53f4-758d-5a9e-3a9aa2f74a05.md)|Returns a  ** [ContentControlListEntries](74b90054-e0a3-37c5-40d2-dc6dd6389cc5.md)** collection that represents the items in a drop-down list content control or in a combo box content control. Read-only.|
 | [ID](2a9480f0-c572-6724-121f-b1a41d99ab93.md)|Returns a  **String** that represents the identification for a content control. Read-only.|
-| [Level](5e6f02bc-9a7c-6d07-507f-a9807fb0e773.md)|Returns the level of the content controlâ€”whether the content control surrounds text, paragraphs, table cells, or table rows; or if it is inline. Read-only  [WdContentControlLevel](b4d96be5-e53f-2ed2-aa45-c1e783311e48.md).|
+| [Level](5e6f02bc-9a7c-6d07-507f-a9807fb0e773.md)|Returns the level of the content control—whether the content control surrounds text, paragraphs, table cells, or table rows; or if it is inline. Read-only  [WdContentControlLevel](b4d96be5-e53f-2ed2-aa45-c1e783311e48.md).|
 | [LockContentControl](a567f2a5-a3db-446c-e694-50dbfbb3e9db.md)|Returns or sets a  **Boolean** that represents whether the user can delete a content control from the active document. Read/write.|
 | [LockContents](8d4a68dc-01c8-0f0f-5adf-7b53b4fe3ffc.md)|Returns or sets a  **Boolean** that represents whether the user can edit the contents of a content control. Read/write.|
 | [MultiLine](5261a18d-aef6-fada-2e55-3549dbe9206f.md)|Returns a  **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.|

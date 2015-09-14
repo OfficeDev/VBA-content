@@ -1,19 +1,10 @@
 
 # Window.Panes Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)**collection that represents all the window panes for the specified window.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Panes**
 
@@ -21,13 +12,11 @@ Returns a  ** [Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)**collection that 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a single member of a collection, see  [Returning an Object from a Collection](28f76384-f495-9640-a7c8-10ada3fac727.md).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example splits the active window in half.
 
@@ -48,7 +37,6 @@ Windows("Document2").Panes(1).Activate
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

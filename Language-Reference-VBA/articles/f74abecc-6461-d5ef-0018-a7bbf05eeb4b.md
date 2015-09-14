@@ -1,10 +1,7 @@
 
 # This component doesn't support this set of events (Error 459)
 
- **Last modified:** July 28, 2015
-
 Not every component supports client sinking of events. This error has the following cause and solution:
-
 
 
 

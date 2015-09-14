@@ -1,9 +1,8 @@
 
 # ServerPolicy Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents a policy specified for a document type stored on a server running Microsoft Office SharePoint Server.
+
 
 ## Remarks
 

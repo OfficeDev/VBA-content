@@ -2,9 +2,6 @@
 # PictureEffect Members (Office)
 Represents a Picture Effect.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

@@ -1,9 +1,8 @@
 
 # Range.Editors Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Editors** object that represents all the users authorized to modify a selection or range within a document.
+
 
 ## Syntax
 

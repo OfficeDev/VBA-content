@@ -1,19 +1,10 @@
 
 # FillFormat.PresetGradientType Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns the preset gradient type for the specified fill. Read-only  **MsoPresetGradientType**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PresetGradientType**
 
@@ -21,13 +12,11 @@ Returns the preset gradient type for the specified fill. Read-only  **MsoPresetG
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  ** [PresetGradient](bffe754d-6593-9684-abf4-b5d1e9df720e.md)**method to set the preset gradient type for the fill. 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example changes the fill for all shapes in  `myDocument` with the Moss preset gradient fill to the Fog preset gradient fill.
 
@@ -46,7 +35,6 @@ Next
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

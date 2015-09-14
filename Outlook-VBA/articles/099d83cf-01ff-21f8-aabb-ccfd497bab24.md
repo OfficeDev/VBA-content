@@ -1,9 +1,8 @@
 
 # AddressEntry.Update Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Posts a change to the  ** [AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object in the messaging system.
+
 
 ## Syntax
 

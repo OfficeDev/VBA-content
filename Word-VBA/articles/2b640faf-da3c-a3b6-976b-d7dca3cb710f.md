@@ -1,9 +1,8 @@
 
 # Range.ConvertHangulAndHanja Method (Word)
 
- **Last modified:** July 28, 2015
-
 Converts the specified range from hangul to hanja or vice versa.
+
 
 ## Syntax
 

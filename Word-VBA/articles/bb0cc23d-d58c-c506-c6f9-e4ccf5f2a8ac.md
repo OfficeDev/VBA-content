@@ -1,19 +1,10 @@
 
 # Options.PictureWrapType Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PictureWrapType**
 
@@ -21,13 +12,11 @@ Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This is a default option setting and affects all pictures inserted unless picture wrapping is individually defined for a picture.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets Word to insert and paste all pictures inline with the text if inline is not already specified.
 
@@ -44,7 +33,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

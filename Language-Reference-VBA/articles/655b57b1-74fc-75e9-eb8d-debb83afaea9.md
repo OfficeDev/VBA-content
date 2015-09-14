@@ -1,7 +1,6 @@
 
 # Click Event
 
- **Last modified:** July 28, 2015
 
 
 Occurs in one of two cases:

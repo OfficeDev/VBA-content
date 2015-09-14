@@ -1,9 +1,8 @@
 
 # WdCaptionNumberStyle Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies the number style to be used with the  **CaptionLabel** object.
+
 
 
 |**Name**|**Value**|**Description**|

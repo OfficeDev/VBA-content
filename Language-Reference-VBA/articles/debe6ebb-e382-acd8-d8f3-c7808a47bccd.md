@@ -1,7 +1,6 @@
 
 # Copy Method (Microsoft Forms)
 
- **Last modified:** July 28, 2015
 
 
 Copies the contents of an object to the Clipboard.

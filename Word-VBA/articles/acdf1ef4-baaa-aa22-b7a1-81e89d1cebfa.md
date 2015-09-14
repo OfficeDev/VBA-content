@@ -1,19 +1,10 @@
 
 # PageSetup.LineNumbering Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets a  ** [LineNumbering](a2dd1278-c7dd-af4c-be32-1daded5556d6.md)**object that represents the line numbers for the specified  **PageSetup**object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **LineNumbering**
 
@@ -21,13 +12,11 @@ Returns or sets a  ** [LineNumbering](a2dd1278-c7dd-af4c-be32-1daded5556d6.md)**
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You must be in print layout view to see line numbering.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example enables line numbering for the active document.
 
@@ -63,7 +52,6 @@ ActiveDocument.PageSetup.LineNumbering = Documents("MyDocument.doc") _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

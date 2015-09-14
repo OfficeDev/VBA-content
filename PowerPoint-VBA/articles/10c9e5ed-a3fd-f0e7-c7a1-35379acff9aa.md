@@ -1,9 +1,8 @@
 
 # Fonts.Item Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a single  **Font** object from the specified **Fonts** collection.
+
 
 ## Syntax
 

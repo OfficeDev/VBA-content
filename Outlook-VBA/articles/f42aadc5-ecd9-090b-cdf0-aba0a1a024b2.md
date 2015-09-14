@@ -1,9 +1,8 @@
 
 # TextBox.MultiLine Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
+
 
 ## Syntax
 

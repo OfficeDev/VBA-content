@@ -1,9 +1,8 @@
 
 # EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if manual emphasis characters are automatically replaced with character formatting as you type; for example, "*bold*" is changed to " **bold**". Read/write  **Boolean**.
+
 
 ## Syntax
 

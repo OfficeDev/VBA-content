@@ -1,9 +1,8 @@
 
 # OMathBox.NoBreak Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that represents whether breaks are allowed inside the box object. Read/write.
+
 
 ## Syntax
 

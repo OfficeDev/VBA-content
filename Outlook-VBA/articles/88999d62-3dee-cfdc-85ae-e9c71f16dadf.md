@@ -1,9 +1,8 @@
 
 # OlkTextBox.HideSelection Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that specifies if a selection is displayed or hidden for the control when the control loses focus. Read/write.
+
 
 ## Syntax
 

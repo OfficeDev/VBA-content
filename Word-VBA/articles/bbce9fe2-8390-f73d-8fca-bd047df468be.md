@@ -1,9 +1,8 @@
 
 # Application.Top Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the vertical position of the active document. Read/write  **Long**.
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # Options Members (Word)
 Represents application and document options in Word. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 
@@ -47,26 +44,26 @@ Represents application and document options in Word. Many of the properties for 
 | [AutoFormatAsYouTypeDeleteAutoSpaces](a0308511-e676-73d5-cbe9-41ed3858828a.md)| **True** for Microsoft Word to automatically delete spaces inserted between Japanese and Latin text as you type. Read/write.|
 | [AutoFormatAsYouTypeFormatListItemBeginning](7fc572d7-59f2-cb23-4609-c5ba6af9065c.md)| **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean**.|
 | [AutoFormatAsYouTypeInsertClosings](8e51f053-03df-84c3-cd08-d53281602646.md)| **True** for Microsoft Word to automatically insert the corresponding memo closing when the user enters a memo heading. Read/write.|
-| [AutoFormatAsYouTypeInsertOvers](e79cd972-85c3-aa9a-abab-a92ceb171213.md)| **True** for Microsoft Word to automatically insert "ä»¥ä¸Š" when the user enters "è¨˜" or "æ¡ˆ". Read/write **Boolean**.|
+| [AutoFormatAsYouTypeInsertOvers](e79cd972-85c3-aa9a-abab-a92ceb171213.md)| **True** for Microsoft Word to automatically insert "以上" when the user enters "記" or "案". Read/write **Boolean**.|
 | [AutoFormatAsYouTypeMatchParentheses](f5f816db-8123-df7c-54cc-3e8ec6550207.md)| **True** for Microsoft Word to automatically correct improperly paired parentheses. Read/write.|
 | [AutoFormatAsYouTypeReplaceFarEastDashes](2126603f-5cc6-4cb7-7a4e-1aac6b22571f.md)| **True** for Microsoft Word to automatically correct long vowel sounds and dashes. Read/write.|
-| [AutoFormatAsYouTypeReplaceFractions](fe741c60-b4dc-45ff-53d5-769b09a6b79b.md)| **True** if typed fractions are replaced with fractions from the current character set as you type. For example, "1/2" is replaced with "Â½." Read/write **Boolean**.|
+| [AutoFormatAsYouTypeReplaceFractions](fe741c60-b4dc-45ff-53d5-769b09a6b79b.md)| **True** if typed fractions are replaced with fractions from the current character set as you type. For example, "1/2" is replaced with "½." Read/write **Boolean**.|
 | [AutoFormatAsYouTypeReplaceHyperlinks](962c1b7e-9168-fe2d-ae8d-1c987b33f6ae.md)| **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean**.|
 | [AutoFormatAsYouTypeReplaceOrdinals](eebf3119-8743-834f-7425-5adc60a1a7ef.md)| **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.|
 | [AutoFormatAsYouTypeReplacePlainTextEmphasis](7c01c19a-1c3e-6bea-1979-ebd524bdf981.md)| **True** if manual emphasis characters are automatically replaced with character formatting as you type. For example, "*bold*" is changed to " **bold**" and "_underline_" is changed to "underline." Read/write  **Boolean**.|
 | [AutoFormatAsYouTypeReplaceQuotes](d0e2010c-efc3-f944-4daf-48f4ed36004b.md)| **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean**.|
-| [AutoFormatAsYouTypeReplaceSymbols](06d104d2-d8fa-8ef5-ba94-12b48f650c2a.md)| **True** if two consecutive hyphens (--) are replaced with an en dash (-) or an em dash (â€”) as you type. Read/write **Boolean**.If the hyphens are typed with leading and trailing spaces, Word replaces the hyphens with an en dash; if there are no trailing spaces, the hyphens are replaced with an em dash.|
+| [AutoFormatAsYouTypeReplaceSymbols](06d104d2-d8fa-8ef5-ba94-12b48f650c2a.md)| **True** if two consecutive hyphens (--) are replaced with an en dash (-) or an em dash (—) as you type. Read/write **Boolean**.If the hyphens are typed with leading and trailing spaces, Word replaces the hyphens with an en dash; if there are no trailing spaces, the hyphens are replaced with an em dash.|
 | [AutoFormatDeleteAutoSpaces](45f56b46-bdb5-972b-d4f7-ba736a80d4c1.md)| **True** if spaces inserted between Japanese and Latin text will be deleted when Microsoft Word formats a document or range automatically. Read/write **Boolean**.|
 | [AutoFormatMatchParentheses](edc8901c-6eb2-bb89-5054-3ed4888d2199.md)| **True** if improperly paired parentheses are corrected when Microsoft Word formats a document or range automatically. Read/write **Boolean**.|
 | [AutoFormatPlainTextWordMail](87b5f068-772c-e37d-9370-377849138d07.md)| **True** if Word automatically formats plain-text e-mail messages when you open them in Word. Read/write **Boolean**.|
 | [AutoFormatPreserveStyles](cbde64c7-4a82-f33f-c337-bbc24c32ab40.md)| **True** if previously applied styles are preserved when Word formats a document or range automatically. Read/write **Boolean**.|
 | [AutoFormatReplaceFarEastDashes](33b8c0c1-5249-05e6-d2a1-3565584207e5.md)| **True** if long vowel sound and dash use is corrected when Microsoft Word formats a document or range automatically. Read/write **Boolean**.|
-| [AutoFormatReplaceFractions](e6ee4446-6ec0-766d-cb73-1fdbdb755118.md)| **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "Â½." Read/write **Boolean**.|
+| [AutoFormatReplaceFractions](e6ee4446-6ec0-766d-cb73-1fdbdb755118.md)| **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "½." Read/write **Boolean**.|
 | [AutoFormatReplaceHyperlinks](affbc523-15c2-e029-22a7-a08c5d8c8410.md)| **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean**.|
 | [AutoFormatReplaceOrdinals](7dd6d253-53e5-5fec-aafa-181899afe02b.md)| **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript when Word formats a document or range automatically. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.|
 | [AutoFormatReplacePlainTextEmphasis](a01034cc-18b0-425f-8296-884382a17b3c.md)| **True** if manual emphasis characters are replaced with character formatting when Word formats a document or range automatically. For example, "*bold*" is changed to "bold" and "_underline_" is changed to "underline." Read/write **Boolean**.|
 | [AutoFormatReplaceQuotes](23fe2823-0aec-7deb-8fc1-ff70a79b19af.md)| **True** if straight quotation marks are automatically changed to smart (curly) quotation marks when Word formats a document or range automatically. Read/write **Boolean**.|
-| [AutoFormatReplaceSymbols](58a1c811-2fd8-92a9-1f85-6d9beb4223ef.md)| **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (â€”) when Word formats a document or range automatically. Read/write **Boolean**.|
+| [AutoFormatReplaceSymbols](58a1c811-2fd8-92a9-1f85-6d9beb4223ef.md)| **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean**.|
 | [AutoKeyboardSwitching](22bc427f-20fd-107e-b3c0-c1ec9866a716.md)| **True** if Microsoft Word automatically switches the keyboard language to match what you're typing at any given time. Read/write **Boolean**.|
 | [AutoWordSelection](44b3a688-b5ef-6145-de33-00f0cf77409d.md)| **True** if dragging selects one word at a time instead of one character at a time. Read/write **Boolean**.|
 | [BackgroundSave](a579d9ae-5ee2-543e-fe16-e642e48dcb61.md)| **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean**.|
@@ -275,7 +272,7 @@ Represents application and document options in Word. Many of the properties for 
 | [StoreRSIDOnSave](6f50f3c8-f775-d9d3-2cab-b1c99abf1756.md)| **True** for Microsoft Word to assign a random number to changes in a document, each time a document is saved, to facilitate comparing and merging documents. Read/write **Boolean**.|
 | [StrictFinalYaa](64716fb0-631d-34e2-4b58-ba6a67d2de34.md)| **True** if the spelling checker uses spelling rules regarding Arabic words ending with the letter yaa. Read/write **Boolean**.|
 | [StrictInitialAlefHamza](1b575deb-0655-af33-ef72-c7ee5f9021f1.md)| **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza. Read/write **Boolean**.|
-| [StrictRussianE](a86bd867-5d89-0383-3718-6b48c78296ee.md)| **True** if the spelling checker uses spelling rules regarding Russian words that use the strict Ã« character. Read/write.|
+| [StrictRussianE](a86bd867-5d89-0383-3718-6b48c78296ee.md)| **True** if the spelling checker uses spelling rules regarding Russian words that use the strict ë character. Read/write.|
 | [StrictTaaMarboota](42daef30-2307-1f45-c26d-8511a1d6cd3e.md)| **True** if the spelling checker uses spelling rules to flag Arabic words ending with haa instead of taa marboota. Read/write.|
 | [SuggestFromMainDictionaryOnly](d9ac9107-bf66-8f47-1101-6db4d6ec0364.md)| **True** if Microsoft Word draws spelling suggestions from the main dictionary only. Read/write **Boolean**.|
 | [SuggestSpellingCorrections](2b4e821a-f44b-9166-5cf9-ff607164a99c.md)| **True** if Microsoft Word always suggests alternative spellings for each misspelled word when checking spelling. Read/write **Boolean**.|

@@ -1,19 +1,10 @@
 
 # Table.AutoFitBehavior Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AutoFitBehavior**( **_Behavior_**)
 
@@ -29,7 +20,6 @@ Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 |Behavior|Required| **WdAutoFitBehavior**|How Word resizes the specified table with the AutoFit feature is used.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Word can resize the table based on the content of the table cells or the width of the document window. You can also use this method to turn off AutoFit so that the table size is fixed, regardless of cell contents or window width.
 
@@ -37,7 +27,6 @@ Setting the  **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFit
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the AutoFit behavior for the first table in the active document to automatically resize based on the width of the document window.
 
@@ -49,7 +38,6 @@ ActiveDocument.Tables(1).AutoFitBehavior _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

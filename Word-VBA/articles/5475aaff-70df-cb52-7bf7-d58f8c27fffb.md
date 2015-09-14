@@ -1,19 +1,10 @@
 
 # DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Microsoft Word checks to see whether an Office application is the default HTML editor when you start Word. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CheckIfOfficeIsHTMLEditor**
 
@@ -21,7 +12,6 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **CheckIfOfficeIsHTMLEditor** property returns **False** if Word does not perform this check. The default value is **True**.
 
@@ -29,7 +19,6 @@ The  **CheckIfOfficeIsHTMLEditor** property returns **False** if Word does not p
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example causes Microsoft Word not to check to see whether an Office application is the default HTML editor.
 
@@ -41,7 +30,6 @@ Application.DefaultWebOptions _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

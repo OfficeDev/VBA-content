@@ -1,9 +1,8 @@
 
 # SharingItem.FlagRequest Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** indicating the requested action for the ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
+
 
 ## Syntax
 

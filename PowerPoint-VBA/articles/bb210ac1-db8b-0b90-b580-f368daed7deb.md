@@ -1,9 +1,8 @@
 
 # LegendEntries.Count Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the number of objects in the collection. Read-only  **Long**.
+
 
 ## Syntax
 

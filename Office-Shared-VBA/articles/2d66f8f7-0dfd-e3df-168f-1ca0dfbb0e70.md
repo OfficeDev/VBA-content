@@ -1,9 +1,8 @@
 
 # DocumentProperty.Value Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the value of a document property. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ParagraphFormat.SpaceAfter Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the amount of space after the last line in each paragraph of the specified text, in points or lines. Read/write.
+
 
 ## Syntax
 

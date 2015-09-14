@@ -1,9 +1,8 @@
 
 # FromRssFeedRuleCondition.FromRssFeed Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets an array of  **String** elements that represent the RSS subscriptions that are being evaluated by the rule condition. Read/write.
+
 
 ## Syntax
 

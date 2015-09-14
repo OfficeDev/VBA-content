@@ -1,19 +1,10 @@
 
 # Selection.ColumnSelectMode Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if column selection mode is active. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ColumnSelectMode**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 When this mode is active, the letters "COL" appear on the status bar.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example selects a column of text that's two words across and three lines deep. The example copies the selection to the Clipboard and cancels column selection mode.
 
@@ -45,7 +34,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

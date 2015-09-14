@@ -1,9 +1,8 @@
 
 # Selection.DetectLanguage Method (Word)
 
- **Last modified:** July 28, 2015
-
 Analyzes the specified text to determine the language that it is written in.
+
 
 ## Syntax
 

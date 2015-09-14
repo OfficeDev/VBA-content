@@ -1,7 +1,6 @@
 
 # ProcOfLine Property
 
- **Last modified:** July 28, 2015
 
 
 Returns the name of the  [procedure](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) that the specified line is in.

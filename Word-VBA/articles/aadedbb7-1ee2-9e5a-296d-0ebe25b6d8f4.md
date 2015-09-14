@@ -1,19 +1,10 @@
 
 # Range.Start Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the starting character position of a range. Read/write  **Long**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Start**
 
@@ -21,7 +12,6 @@ Returns or sets the starting character position of a range. Read/write  **Long**
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  **Range** objects have starting and ending character positions. The starting position refers to the character position closest to the beginning of the story. If this property is set to a value larger than that of the **End** property, the **End** property is set to the same value as that of **Start** property.
 
@@ -29,7 +19,6 @@ This property returns the starting character position relative to the beginning 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example returns the starting position of the second paragraph and the ending position of the fourth paragraph in the active document. The character positions are used to create the range myRange.
 
@@ -52,7 +41,6 @@ myRange.SetRange Start:=myRange.Start + 1, End:=myRange.End
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

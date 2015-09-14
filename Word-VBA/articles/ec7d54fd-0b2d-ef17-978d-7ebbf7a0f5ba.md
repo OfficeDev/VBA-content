@@ -1,9 +1,8 @@
 
 # OMathEqArray.E Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
+
 
 ## Syntax
 

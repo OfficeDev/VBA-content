@@ -1,9 +1,8 @@
 
 # CustomLayouts.Paste Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Pastes the slides on the Clipboard into a custom layout and adds the custom layout to the  ** [CustomLayouts](9ce682fb-545c-55cb-e9ac-3475f7556af1.md)** collection.
+
 
 ## Syntax
 

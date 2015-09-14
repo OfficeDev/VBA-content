@@ -1,19 +1,10 @@
 
 # Range.Revisions Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **Revisions** collection that represents the tracked changes in the range. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Revisions**
 
@@ -21,13 +12,11 @@ Returns a  **Revisions** collection that represents the tracked changes in the r
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a single member of a collection, see  [Returning a Single Object from a Collection](8c0b84c0-582b-32f7-68e0-6383d0661e74.md).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the number of tracked changes in the first section in the active document.
 
@@ -48,7 +37,6 @@ myRange.Revisions.AcceptAll
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,10 +1,6 @@
 
 # FillFormat.TextureHorizontalScale Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 
 

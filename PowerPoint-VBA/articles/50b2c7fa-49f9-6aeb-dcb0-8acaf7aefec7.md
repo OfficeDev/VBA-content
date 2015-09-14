@@ -1,19 +1,10 @@
 
 # TextFrame2.HasText Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  Indicates whether the shape that contains the specified text frame has text associated with it. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **HasText**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **HasText** property can be one of the following **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **HasText** property can be one of the following **MsoTriState
 | **msoTrue**| The specified text frame has text.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The followin example tests whether shape two on slide one contains text, and if it does, resizes the shape to fit the text.
 
@@ -65,7 +54,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

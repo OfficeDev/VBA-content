@@ -1,19 +1,10 @@
 
 # IRibbonUI.InvalidateControlMso Method (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Used to invalidate a built-in control.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **InvalidateControlMso**( **_ControlID_**)
 
@@ -34,17 +25,15 @@ Nothing
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Invalidating a control repaints the screen and causes any callback procedures associated with that control to execute.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 
 ```XML
-<customUI â€¦ OnLoad="MyAddInInitialize" â€¦>
+<customUI … OnLoad="MyAddInInitialize" …>
 ```
 
 
@@ -60,7 +49,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

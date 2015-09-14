@@ -1,9 +1,8 @@
 
 # CommandButton Object (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Starts, ends, or interrupts an action or series of actions.
+
 
 ## Remarks
 

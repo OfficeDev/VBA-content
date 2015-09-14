@@ -2,9 +2,6 @@
 # Walls Members (Word)
 Represents the walls of a 3-D chart. 
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

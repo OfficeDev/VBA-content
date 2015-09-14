@@ -1,9 +1,8 @@
 
 # ResampleMediaTask.VideoFrameRate Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the video frame rate per second of the sample. Read-only.
+
 
 ## Syntax
 

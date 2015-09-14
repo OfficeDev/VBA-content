@@ -1,9 +1,8 @@
 
 # OlkListBox.Copy Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Copies the current selection in the drop-down list to the clipboard.
+
 
 ## Syntax
 

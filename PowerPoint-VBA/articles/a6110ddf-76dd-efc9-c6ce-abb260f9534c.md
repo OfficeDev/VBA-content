@@ -1,9 +1,8 @@
 
 # Legend.LegendEntries Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a collection of legend entries for the legend.
+
 
 ## Syntax
 

@@ -1,19 +1,10 @@
 
 # AnimationPoints.Smooth Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether the transition from one animation point to another is smoothed. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Smooth**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **Smooth** property can be one of these **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **Smooth** property can be one of these **MsoTriState** consta
 | **msoTrue**| The default. The animation should be smoothed.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example changes smoothing for an animation point.
 
@@ -53,7 +42,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

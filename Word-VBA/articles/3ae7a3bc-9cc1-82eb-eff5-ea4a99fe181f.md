@@ -1,19 +1,10 @@
 
 # MailMessage.Forward Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Opens a new e-mail message with an empty  **To** line for forwarding the active message.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Forward**
 
@@ -21,13 +12,11 @@ Opens a new e-mail message with an empty  **To** line for forwarding the active 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method is available only if you are using Word as your e-mail editor.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example opens a new e-mail message for forwarding the active message.
 
@@ -38,7 +27,6 @@ Application.MailMessage.Forward
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,19 +1,10 @@
 
 # LineFormat.EndArrowheadStyle Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns or sets the style of the arrowhead at the end of the specified line. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **EndArrowheadStyle**
 
@@ -26,7 +17,6 @@ MsoArrowheadStyle
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The  **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle** constants.
 
@@ -41,7 +31,6 @@ The  **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle
 | **msoArrowheadTriangle**|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
@@ -68,7 +57,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

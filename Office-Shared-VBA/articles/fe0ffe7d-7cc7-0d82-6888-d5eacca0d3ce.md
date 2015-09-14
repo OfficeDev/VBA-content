@@ -1,9 +1,8 @@
 
 # SignatureInfo Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents the information used to create a digital or in-document signature.
+
 
 ## Example
 

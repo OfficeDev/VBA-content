@@ -1,13 +1,7 @@
 
 # Assigning Ranges
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Word 2013_
-
 There are several ways to assign an existing  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object to a variable. This topic explains the results of two different techniques. In the following examples, the `Range1` and `Range2` variables refer to **Range** objects. For example, the following instructions assign the first and second words in the active document to the `Range1` and `Range2` variables.
-
-
 
 
 ```

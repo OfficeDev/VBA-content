@@ -1,9 +1,8 @@
 
 # Conversation.GetRootItems Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [SimpleItems](b929ae28-fe5f-607e-37b5-ed6a304d4896.md)** collection that contains all root items in the conversation.
+
 
 ## Syntax
 

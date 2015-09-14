@@ -1,9 +1,8 @@
 
 # Conflicts.Count Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the number of items in the  **Conflicts** collection. Read-only.
+
 
 ## Syntax
 

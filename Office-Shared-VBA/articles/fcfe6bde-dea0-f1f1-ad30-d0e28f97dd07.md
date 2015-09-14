@@ -1,32 +1,21 @@
 
 # CommandBarComboBox Object (Office)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Represents a combo box control on a command bar.
 
 
 ## 
-<a name="sectionSection0"> </a>
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use  **Controls(index)**, where  _index_ is the index number of the control, to return a **CommandBarComboBox** object. Note that the **Type** property of the control must be **msoControlEdit**,  **msoControlDropdown**,  **msoControlComboBox**,  **msoControlButtonDropdown**,  **msoControlSplitDropdown**,  **msoControlOCXDropdown**,  **msoControlGraphicCombo**, or  **msoControlGraphicDropdown**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example adds two items to the second control on the command bar named  **Custom**, and then it adjusts the size of the control.
 
@@ -54,7 +43,6 @@ Set myControl = CommandBars.FindControl _
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

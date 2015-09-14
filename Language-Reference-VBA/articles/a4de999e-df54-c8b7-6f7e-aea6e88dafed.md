@@ -1,15 +1,12 @@
 
 # Member Options Dialog Box
 
- **Last modified:** July 28, 2015
-
 
 ![](../images/membropt_ZA01201624.gif)
 
 
 
 Allows you to add Help information or comments about the procedures, that you define in your project.
-
 
 ## Dialog Box Options
 

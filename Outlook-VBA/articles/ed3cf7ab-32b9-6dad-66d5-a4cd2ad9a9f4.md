@@ -1,9 +1,8 @@
 
 # ExchangeDistributionList.GetContact Method (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns  **Null** ( **Nothing** in Visual Basic) because the ** [ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)** object does not correspond to a contact in a Contacts Address Book.
+
 
 ## Syntax
 

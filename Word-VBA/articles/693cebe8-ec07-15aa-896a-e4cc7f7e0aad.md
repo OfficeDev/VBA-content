@@ -1,9 +1,8 @@
 
 # Window.ShowSourceDocuments Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  ** [WdShowSourceDocuments](62af991a-eb3d-c536-9f15-5937022c0bb9.md)** constant that represents how Microsoft Word displays source documents after a compare and merge process. Read/write.
+
 
 ## Syntax
 

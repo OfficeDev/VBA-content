@@ -1,19 +1,10 @@
 
 # Store.GetSearchFolders Method (Outlook)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [Folders](0c814c3c-74fc-414c-982d-a0097fcb35c2.md)** collection object that represents the search folders defined for the ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **GetSearchFolders**
 
@@ -26,7 +17,6 @@ A  **Folders** collection object that represents all the search folders for the 
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
  **GetSearchFolders** returns all the visible active search folders for the **Store**. It does not return uninitialized or aged out search folders.
 
@@ -36,7 +26,6 @@ For a  **Folders** collection object that represents a collection of search fold
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following code sample in Microsoft Visual Basic for Applications (VBA) enumerates the search folders on all stores for the current session.
 
@@ -75,7 +64,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

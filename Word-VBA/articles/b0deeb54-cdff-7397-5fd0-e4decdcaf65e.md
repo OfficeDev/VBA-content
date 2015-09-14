@@ -1,19 +1,10 @@
 
 # FormField.DropDown Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [DropDown](55233d61-d6d0-30f9-6825-ebbdbeb928b6.md)**object that represents a drop-down form field. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **DropDown**
 
@@ -21,13 +12,11 @@ Returns a  ** [DropDown](55233d61-d6d0-30f9-6825-ebbdbeb928b6.md)**object that r
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If the  **DropDown** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid**property for the returned object will be  **False**.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example displays the text of the item selected in the drop-down form field named "Colors."
 
@@ -54,7 +43,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

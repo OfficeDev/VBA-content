@@ -1,9 +1,8 @@
 
 # CustomXMLPart.NamespaceURI Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the unique address identifier for the namespace of the  **CustomXMLPart** object. Read-only.
+
 
 ## Syntax
 

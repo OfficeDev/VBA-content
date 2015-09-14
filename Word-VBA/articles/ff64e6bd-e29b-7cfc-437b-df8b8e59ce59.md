@@ -1,9 +1,8 @@
 
 # Application.Help Method (Word)
 
- **Last modified:** July 28, 2015
-
 Displays installed Help information.
+
 
 ## Syntax
 

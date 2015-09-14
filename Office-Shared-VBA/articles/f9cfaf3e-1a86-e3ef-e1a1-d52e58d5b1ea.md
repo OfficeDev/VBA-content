@@ -1,9 +1,8 @@
 
 # CustomXMLNode.ParentNode Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the parent element node of the current node. If the current node is at the root level, the property returns  **Nothing**. Read-only.
+
 
 ## Syntax
 

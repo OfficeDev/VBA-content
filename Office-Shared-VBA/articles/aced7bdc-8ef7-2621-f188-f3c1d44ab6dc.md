@@ -1,9 +1,8 @@
 
 # PolicyItem Object (Office)
 
- **Last modified:** July 28, 2015
-
 Represents an item within a  **ServerPolicy** object that contains the settings for one policy.
+
 
 ## Remarks
 

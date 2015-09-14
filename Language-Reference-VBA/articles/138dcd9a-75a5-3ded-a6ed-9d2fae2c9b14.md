@@ -1,10 +1,7 @@
 
 # Can't Get or Put user-defined type containing object reference
 
- **Last modified:** July 28, 2015
-
 An object reference is temporary and can easily become invalid between closing and opening a file. This error has the following cause and solution:
-
 
 
 

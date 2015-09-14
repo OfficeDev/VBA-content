@@ -2,9 +2,6 @@
 # ViewField Members (Outlook)
 Represents a view field, used to display information in a view.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

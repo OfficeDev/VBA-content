@@ -1,10 +1,7 @@
 
 # Delete a Watch Expression
 
- **Last modified:** July 28, 2015
-
  **To delete a watch expression in the Watch Window, do any of the following:**
-
 
 
 

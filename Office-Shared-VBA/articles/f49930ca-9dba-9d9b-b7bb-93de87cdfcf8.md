@@ -1,9 +1,8 @@
 
 # CommandBarComboBox.Top Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets the distance (in pixels) from the top edge of the specified  **CommandBarComboBox** control to the top edge of the screen. Read-only.
+
 
 ## 
 

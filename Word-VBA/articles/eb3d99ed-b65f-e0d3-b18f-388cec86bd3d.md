@@ -1,9 +1,8 @@
 
 # TextFrame.HasText Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the specified shape has text associated with it. Read-only **Boolean**.
+
 
 ## Syntax
 

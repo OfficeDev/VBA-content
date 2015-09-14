@@ -2,9 +2,6 @@
 # FileConverter Members (PowerPoint)
 Represents a file converter that is used to open or save files. The  **FileConverter** object is a member of the **FileConverters**collection. The  ** [FileConverters](b175c08d-a910-636e-cdbe-d4f0e6af595e.md)** collection contains all the installed file converters for opening and saving files.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

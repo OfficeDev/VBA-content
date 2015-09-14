@@ -1,10 +1,6 @@
 
 # PbFileFormat Enumeration (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Constants that indicate the file format of the specified document.
 
 

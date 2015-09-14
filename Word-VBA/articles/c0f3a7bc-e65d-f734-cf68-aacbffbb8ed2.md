@@ -2,9 +2,6 @@
 # Gridlines Members (Word)
 Represents major or minor gridlines on a chart axis.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

@@ -2,9 +2,6 @@
 # SynonymInfo Members (Word)
 Represents the information about synonyms, antonyms, related words, or related expressions for the specified range or a given string.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

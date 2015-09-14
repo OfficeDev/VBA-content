@@ -2,9 +2,6 @@
 # CustomXMLValidationError Members (Office)
 Represents a single validation error in a  **CustomXMLValidationErrors** collection.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

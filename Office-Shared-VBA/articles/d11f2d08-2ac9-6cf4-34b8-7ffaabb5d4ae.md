@@ -1,9 +1,8 @@
 
 # MsoPictureColorType Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies the color transformation applied to a picture.
+
 
 
 |**Name**|**Value**|**Description**|

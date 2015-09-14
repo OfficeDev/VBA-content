@@ -1,16 +1,7 @@
 
 # Security Behavior of the Outlook Object Model
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [](#sectionSection0)
- [Default Security Behavior](#sectionSection1)
- [Security Options](#sectionSection2)
-
-
 ## 
-<a name="sectionSection0"> </a>
 
 The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send e-mails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook E-mail Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. The Object Model Guard warns users and prompts users for confirmation when untrusted applications attempt to use the object model to obtain e-mail address information, store data outside of Outlook, execute certain actions, and send e-mail messages. Although the Object Model Guard succeeds in identifying and protecting these entry points, two main issues exist that render the Object Model Guard rather unpractical:
 
@@ -23,7 +14,6 @@ The Outlook object model includes entry points to access Outlook data, save data
 
 
 ## Default Security Behavior
-<a name="sectionSection1"> </a>
 
 Versions of Outlook prior to Outlook 2007 have relied on the Object Model Guard to protect Outlook address book data and avoid untrusted applications from sending e-mail. Although Outlook continues to use the Object Model Guard to provide similar protection, it has defined new default circumstances when the Object Model Guard generates warnings, reducing excessive security warnings under appropriate conditions while maintaining a reasonable degree of security for Outlook clients.
 
@@ -54,7 +44,6 @@ By default, Outlook relies on the existence and the status of an appropriate ant
 
 
 ## Security Options
-<a name="sectionSection2"> </a>
 
  **Windows Group Policy**
 

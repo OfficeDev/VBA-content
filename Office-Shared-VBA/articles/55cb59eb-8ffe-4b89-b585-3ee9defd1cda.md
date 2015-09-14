@@ -1,9 +1,8 @@
 
 # CustomTaskPane.ContentControl Property (Office)
 
- **Last modified:** July 28, 2015
+Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.
 
-Gets the Microsoft ActiveXÂ® control instance displayed in the custom task pane frame. Read-only.
 
 ## Syntax
 

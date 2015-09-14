@@ -1,19 +1,10 @@
 
 # Document.Tables Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** collection that represents all the tables in the specified document. Read-only.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Tables**
 
@@ -21,13 +12,11 @@ Returns a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** collection that
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a single member of a collection, see  [Returning an Object from a Collection](28f76384-f495-9640-a7c8-10ada3fac727.md).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example creates a 5x5 table in the active document and then applies a predefined format to it.
 
@@ -54,7 +43,6 @@ Next acell
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

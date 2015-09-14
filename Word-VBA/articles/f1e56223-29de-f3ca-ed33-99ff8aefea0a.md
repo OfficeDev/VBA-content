@@ -1,9 +1,8 @@
 
 # Pane.Previous Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Pane** object that represents the previous document pane in the collection. Read-only.
+
 
 ## Syntax
 

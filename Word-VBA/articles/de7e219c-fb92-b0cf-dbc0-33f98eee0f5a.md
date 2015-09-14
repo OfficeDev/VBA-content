@@ -1,19 +1,10 @@
 
 # ListFormat.ApplyNumberDefault Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Adds the default numbering scheme to the paragraphs in the range for the specified  **ListFormat** object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ApplyNumberDefault**( **_DefaultListBehavior_**)
 
@@ -29,13 +20,11 @@ Adds the default numbering scheme to the paragraphs in the range for the specifi
 |DefaultListBehavior|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following constants:  **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior**, but in new procedures you should use  **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If the paragraphs are already formatted as a numbered list, this method removes the numbers and formatting.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example numbers the paragraphs in the selection. If the selection is already a numbered list, the example removes the numbers and formatting.
 
@@ -61,7 +50,6 @@ End If
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

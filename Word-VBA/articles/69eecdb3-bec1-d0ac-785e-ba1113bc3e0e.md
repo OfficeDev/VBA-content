@@ -1,19 +1,10 @@
 
 # Options.AllowAccentedUppercase Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if accents are retained when a French language character is changed to uppercase. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AllowAccentedUppercase**
 
@@ -21,7 +12,6 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This property affects only text that's been marked as standard French. For all other languages, accents are always retained even if the  **AllowAccentedUppercase** property is set to **False**.
 
@@ -29,7 +19,6 @@ If you change a character back to lowercase after an accent mark has been stripp
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets Word to remove accent marks when characters in French text are changed to uppercase.
 
@@ -51,7 +40,6 @@ blnUppercaseAccents = Options.AllowAccentedUppercase
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

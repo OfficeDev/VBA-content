@@ -1,9 +1,8 @@
 
 # LegendEntry.Top Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read-only  **Double**.
+
 
 ## Syntax
 

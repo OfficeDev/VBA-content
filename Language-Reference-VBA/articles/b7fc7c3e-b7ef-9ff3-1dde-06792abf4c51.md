@@ -1,11 +1,10 @@
 
 # Font Object, Bold, Italic, Size, StrikeThrough, Underline, Weight Properties Example
 
- **Last modified:** July 28, 2015
-
 The following example demonstrates a  **Font** object and the **Bold**,  **Italic**,  **Size**,  **StrikeThrough**,  **Underline**, and  **Weight** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
+
 
 
 

@@ -1,19 +1,10 @@
 
 # Document.CheckSpelling Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Begins a spelling check for the specified document or range. .
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **CheckSpelling**( **_CustomDictionary_**,  **_IgnoreUppercase_**,  **_AlwaysSuggest_**,  **_CustomDictionary2_**,  **_CustomDictionary3_**,  **_CustomDictionary4_**,  **_CustomDictionary5_**,  **_CustomDictionary6_**,  **_CustomDictionary7_**,  **_CustomDictionary8_**,  **_CustomDictionary9_**,  **_CustomDictionary10_**)
 
@@ -30,13 +21,11 @@ Begins a spelling check for the specified document or range. .
 |AlwaysSuggest|Optional| **Variant**| **True** for Microsoft Word to always suggest alternative spellings. If this argument is omitted, the current value of the **SuggestSpellingCorrections** property is used.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If the document or range contains errors, this method displays the  **Spelling and Grammar** dialog box ( **Tools** menu), with the **Check grammar** check box cleared. For a document, this method checks all available stories (such as headers, footers, and text boxes).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example checks the spelling in the active document.
 
@@ -47,7 +36,6 @@ ActiveDocument.CheckSpelling
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

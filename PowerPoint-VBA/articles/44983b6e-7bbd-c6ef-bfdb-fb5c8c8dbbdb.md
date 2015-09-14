@@ -1,9 +1,8 @@
 
 # Floor.Thickness Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the thickness of the floor. Read/write  **Long**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ParagraphFormat.LineUnitAfter Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the amount of spacing (in gridlines) after the specified paragraphs. Read/write  **Single**.
+
 
 ## Syntax
 

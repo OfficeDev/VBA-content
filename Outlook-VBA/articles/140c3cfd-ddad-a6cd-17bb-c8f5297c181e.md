@@ -1,9 +1,8 @@
 
 # OlkListBox.AfterUpdate Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs after the data in the control has been changed through the user interface.
+
 
 ## Syntax
 

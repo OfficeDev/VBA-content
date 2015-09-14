@@ -1,9 +1,8 @@
 
 # FormRegion.DisplayName Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** representing the display name of the form region. Read-only.
+
 
 ## Syntax
 

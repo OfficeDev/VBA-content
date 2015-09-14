@@ -1,9 +1,8 @@
 
 # OlViewSaveOption Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Specifies the folders in which the view is available and the read permissions attached to the view.
+
 
 
 |**Name**|**Value**|**Description**|

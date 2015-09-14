@@ -2,9 +2,6 @@
 # Footnote Members (Word)
 Represents a footnote positioned at the bottom of the page or beneath text. The  **Footnote** object is a member of the **Footnotes**collection. The  ** [Footnotes](d46a0972-2784-4814-d547-30122a35cdc1.md)** collection represents the footnotes in a selection, range, or document.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

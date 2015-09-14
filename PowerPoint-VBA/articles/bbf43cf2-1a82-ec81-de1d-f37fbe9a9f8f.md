@@ -1,19 +1,10 @@
 
 # ScaleEffect.ByX Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Sets or returns a  **Single** that represents scaling or moving an object horizontally by a specified percentage of the screen width, depending on whether it used in conjunction with a ** [ScaleEffect](cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f.md)**or  ** [MotionEffect](77a34f68-8806-22b8-149f-c28e0457e7e9.md)**object, respectively. For example, a value of 50 for a motion effect means to move the object half the screen width to the right. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ByX**
 
@@ -26,7 +17,6 @@ Single
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Negative numbers move the object horizontally to the left. Floating point numbers (for example, 55.5) are allowed.
 
@@ -38,7 +28,6 @@ Do not confuse this property with the  **By**property of the  ** [ColorEffect](c
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 The following example adds an animation path; then sets the horizontal and vertical movement of the shape.
 
@@ -91,7 +80,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

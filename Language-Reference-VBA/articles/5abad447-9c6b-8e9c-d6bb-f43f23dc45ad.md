@@ -1,7 +1,6 @@
 
 # CurDir Function
 
- **Last modified:** July 28, 2015
 
 
 Returns a  **Variant** ( **String**) representing the current path.

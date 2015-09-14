@@ -1,9 +1,8 @@
 
 # OfficeDataSourceObject.ApplyFilter Method (Office)
 
- **Last modified:** July 28, 2015
-
 Applies a filter to a mail merge data source to filter specified records meeting specified criteria.
+
 
 ## Syntax
 

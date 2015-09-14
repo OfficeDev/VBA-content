@@ -1,10 +1,7 @@
 
 # Invalid in Immediate window
 
- **Last modified:** July 28, 2015
-
 Not all statements are permitted in the  **Immediate** window. This error has the following causes and solutions:
-
 
 
 

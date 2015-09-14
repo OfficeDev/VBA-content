@@ -1,19 +1,10 @@
 
 # EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **AutoFormatAsYouTypeApplyTables**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The plus signs become the column borders, and the hyphens become the column widths. 
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets Word to automatically create tables as you type.
 
@@ -49,7 +38,6 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyTables
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

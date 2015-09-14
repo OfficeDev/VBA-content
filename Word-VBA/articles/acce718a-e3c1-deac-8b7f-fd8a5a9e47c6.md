@@ -1,9 +1,8 @@
 
 # Editors Object (Word)
 
- **Last modified:** July 28, 2015
-
 A collection of  **Editor** objects that represents a collection of users or groups of users who have been given specific permissions to edit portions of a document.
+
 
 ## Remarks
 

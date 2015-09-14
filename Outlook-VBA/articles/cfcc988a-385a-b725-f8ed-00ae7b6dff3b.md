@@ -2,16 +2,7 @@
 # Accounts Members (Outlook)
 The  **Accounts** collection object contains a set of ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)** objects representing the accounts available for the current profile.
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Events](#sectionSection0)
- [Methods](#sectionSection1)
- [Properties](#sectionSection2)
-
-
 ## Events
-<a name="sectionSection0"> </a>
 
 
 
@@ -20,7 +11,6 @@ The  **Accounts** collection object contains a set of ** [Account](f624438c-4e45
 | [AutoDiscoverComplete](86738163-4fb3-b2f5-40bd-4704081d4564.md)|Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange Server that is associated with the account, and has the related information available in the  ** [AutoDiscoverXml](201c5aba-5cff-0934-a750-b4ac0cb30860.md)** property of the ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)** object.|
 
 ## Methods
-<a name="sectionSection1"> </a>
 
 
 
@@ -29,7 +19,6 @@ The  **Accounts** collection object contains a set of ** [Account](f624438c-4e45
 | [Item](8ef9c358-6d8b-1cbb-40ed-6d3462ae335e.md)|Returns an  ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)** object specified by _Index_.|
 
 ## Properties
-<a name="sectionSection2"> </a>
 
 
 

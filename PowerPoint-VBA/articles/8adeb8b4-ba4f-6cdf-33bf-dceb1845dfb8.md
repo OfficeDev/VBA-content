@@ -1,9 +1,8 @@
 
 # Chart.SeriesCollection Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns all the series in the chart.
+
 
 ## Syntax
 

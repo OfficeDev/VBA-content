@@ -1,9 +1,8 @@
 
 # Bibliography.Sources Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Sources](92a74894-1c69-0ff1-749d-baa49b45a174.md)** collection that represents all the sources contained in a bibliography. Read-only.
+
 
 ## Syntax
 

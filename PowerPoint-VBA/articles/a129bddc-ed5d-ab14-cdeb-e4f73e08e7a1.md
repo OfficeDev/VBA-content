@@ -1,10 +1,6 @@
 
 # Concepts (PowerPoint VBA reference)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** PowerPoint 2013_
-
 This section contains the following overviews about programmability in PowerPoint:
 
 

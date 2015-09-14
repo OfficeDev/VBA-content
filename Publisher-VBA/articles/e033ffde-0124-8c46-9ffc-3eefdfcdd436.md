@@ -1,10 +1,6 @@
 
 # PbWizardGroup Enumeration (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 The type of Design Gallery object to add to the publication.
 
 

@@ -1,9 +1,8 @@
 
 # Font2.Name Property (Office)
 
- **Last modified:** July 28, 2015
-
 Gets or sets a value specifying the font to use for a selection. Read/write.
+
 
 ## Syntax
 

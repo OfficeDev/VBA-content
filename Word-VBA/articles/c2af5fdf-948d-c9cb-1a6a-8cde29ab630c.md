@@ -1,19 +1,10 @@
 
 # Tasks.ExitWindows Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Closes all open applications, quits Microsoft Windows, and logs the current user off.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **ExitWindows**
 
@@ -21,13 +12,11 @@ Closes all open applications, quits Microsoft Windows, and logs the current user
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This method does not save changes to open Microsoft Word documents; however, it does prompt you to save changes to open documents in other Windows-based applications.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example saves all open Word documents, closes Word, and then quits Microsoft Windows.
 
@@ -40,7 +29,6 @@ Tasks.ExitWindows
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

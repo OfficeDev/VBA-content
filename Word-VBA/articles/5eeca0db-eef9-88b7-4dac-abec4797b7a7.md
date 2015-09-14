@@ -1,9 +1,8 @@
 
 # Window.Previous Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the previous document window in the collection open document windows. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # ChartColorFormat.RGB Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the red-green-blue value of the specified color. Read-only  **Long**.
+
 
 ## Syntax
 

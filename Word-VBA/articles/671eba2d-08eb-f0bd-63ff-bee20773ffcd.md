@@ -1,9 +1,8 @@
 
 # OMathScrSubSup.Parent Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns an  **Object** that represents the parent object of the specified **OMathScrSubSup** object.
+
 
 ## Syntax
 

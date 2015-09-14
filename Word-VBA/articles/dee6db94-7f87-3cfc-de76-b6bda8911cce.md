@@ -1,19 +1,10 @@
 
 # Style.BuiltIn Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **BuiltIn**
 
@@ -21,7 +12,6 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can specify built-in styles across all languages by using the  **WdBuiltinStyle** constants or within a language by using the style name for the language version of Word. For example, if you specify U.S. English in your Microsoft Office language settings, the following statements are equivalent:
 
@@ -33,7 +23,6 @@ ActiveDocument.Styles("Heading 1")
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example checks all the styles in the active document. When it finds a style that isn't built in, it displays the name of the style.
 
@@ -50,7 +39,6 @@ Next styleLoop
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

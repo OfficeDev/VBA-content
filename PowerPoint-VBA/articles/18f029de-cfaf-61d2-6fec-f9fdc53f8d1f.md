@@ -1,19 +1,10 @@
 
 # ShadowFormat.Obscured Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Determines whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Obscured**
 
@@ -26,7 +17,6 @@ MsoTriState
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 The value of the  **Obscured** property can be one of these **MsoTriState** constants.
 
@@ -38,7 +28,6 @@ The value of the  **Obscured** property can be one of these **MsoTriState** cons
 | **msoTrue**| The shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill.|
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the horizontal and vertical offsets of the shadow for shape three on  `myDocument`. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape doesn't already have a shadow, this example adds one to it. The shadow will be filled in and obscured by the shape, even if the shape has no fill.
 
@@ -61,7 +50,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

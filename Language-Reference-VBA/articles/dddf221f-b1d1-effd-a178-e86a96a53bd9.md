@@ -1,9 +1,8 @@
 
 # Code Window Keyboard Shortcuts
 
- **Last modified:** July 28, 2015
-
 You can use the following shortcut keys to access commands in the  **Code** window.
+
 
 
 |**Description**|**Shortcut Keys**|

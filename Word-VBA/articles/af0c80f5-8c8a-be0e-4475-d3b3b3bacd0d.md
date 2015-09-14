@@ -1,9 +1,8 @@
 
 # Editor Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents a single user who has been given specific permissions to edit portions of a document. 
+
 
 ## Remarks
 

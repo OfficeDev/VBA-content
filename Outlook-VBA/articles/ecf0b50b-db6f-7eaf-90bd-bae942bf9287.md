@@ -1,19 +1,10 @@
 
 # Application.Quit Event (Outlook)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Occurs when Microsoft Outlook begins to close. 
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Quit**
 
@@ -21,13 +12,11 @@ Occurs when Microsoft Outlook begins to close.
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This Microsoft Visual Basic for Applications (VBA) example displays a farewell message when Outlook exits. The sample code must be placed in a class module.
 
@@ -42,7 +31,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

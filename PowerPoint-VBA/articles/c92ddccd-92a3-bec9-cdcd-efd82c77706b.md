@@ -1,9 +1,8 @@
 
 # LegendEntry Object (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Represents a legend entry in a chart legend.
+
 
 ## Remarks
 

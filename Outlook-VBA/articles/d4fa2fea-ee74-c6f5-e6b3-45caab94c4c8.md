@@ -1,9 +1,8 @@
 
 # AccountRuleCondition.Account Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets an  ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)** object that represents the account used to evaluate the rule condition. Read/write.
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # TextRange2 Members (Office)
 Represents the text frame in a  **Shape** or **ShapeRange** objects.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

@@ -1,19 +1,10 @@
 
 # Document.PasswordEncryptionFileProperties Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if Microsoft Word encrypts file properties for password-protected documents. Read-only **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **PasswordEncryptionFileProperties**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Use the  ** [SetPasswordEncryptionOptions](4e7c2c0a-cac2-6fa3-f237-f02c897757a1.md)**method to specify whether Word encrypts file properties for password-protected documents.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the password encryption options if the file properties are not encrypted for password-protected documents.
 
@@ -48,7 +37,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

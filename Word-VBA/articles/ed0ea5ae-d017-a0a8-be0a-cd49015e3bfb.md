@@ -1,9 +1,8 @@
 
 # ListLevel.TextPosition Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel**object. Read/write  **Single**.
+
 
 ## Syntax
 

@@ -1,12 +1,9 @@
 
 # Customize the Office Fluent Ribbon by Using a Managed COM Add-in
 
- **Last modified:** July 28, 2015
-
 The ribbon component of the Microsoft Office Fluent user interface in Microsoft Office suites gives users a flexible way to work with Office applications. Ribbon Extensibility (RibbonX) uses simple, text-based, declarative XML markup to create and customize the ribbon.
 
 The code example in this topic shows how to customize the ribbon in an Office application, no matter what document is open. In the following steps, you create application-level customizations by using a managed COM add-in, and you create the add-in in Microsoft Visual Studio 2012 by using Microsoft Visual C#. The project adds a custom tab, a custom group, and a custom button to the ribbon. To complete the procedure, you perform the following tasks.
-
 
 1. Create the XML customization file.
     

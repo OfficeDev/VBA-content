@@ -1,9 +1,8 @@
 
 # AddIn.Path Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** that represents the path to the specified ** [AddIn](e98b609e-97ef-b471-f047-b647bff1e9af.md)**object. Read-only.
+
 
 ## Syntax
 

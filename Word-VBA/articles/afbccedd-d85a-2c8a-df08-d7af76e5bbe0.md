@@ -2,9 +2,6 @@
 # Hyperlinks Members (Word)
 Represents the collection of  **Hyperlink**objects in a document, range, or selection.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

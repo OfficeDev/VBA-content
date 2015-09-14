@@ -1,9 +1,8 @@
 
 # Column.Parent Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns the parent object of the  ** [Column](b7eb6916-2d80-57c3-2077-47a2a4c73185.md)** object. Read-only.
+
 
 ## Syntax
 

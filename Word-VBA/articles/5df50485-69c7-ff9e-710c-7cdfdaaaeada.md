@@ -1,19 +1,10 @@
 
 # TableOfAuthorities.Passim Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
  **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean**.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Passim**
 
@@ -21,13 +12,11 @@
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Corresponds to the \p switch for a Table of Authorities (TOA) field.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example formats the first table of authorities in Brief.doc to use page references instead of "Passim."
 
@@ -49,7 +38,6 @@ Next myTOA
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

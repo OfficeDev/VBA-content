@@ -1,19 +1,10 @@
 
 # FillFormat.Background Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Specifies that the shape's fill should match the slide background. If you change the slide background after applying this method to a fill, the fill will also change.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Background**
 
@@ -21,13 +12,11 @@ Specifies that the shape's fill should match the slide background. If you change
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 Note that applying the  **Background** method to a shape's fill isn't the same as setting a transparent fill for the shape, nor is it always the same as applying the same fill to the shape as you apply to the background. The second example demonstrates this.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example sets the fill of shape one on slide one in the active presentation to match the slide background.
 
@@ -75,7 +64,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

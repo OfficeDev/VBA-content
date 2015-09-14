@@ -1,9 +1,8 @@
 
 # OlTaskResponse Enumeration (Outlook)
 
- **Last modified:** July 28, 2015
-
 Indicates the response to a task request.
+
 
 
 |**Name**|**Value**|**Description**|

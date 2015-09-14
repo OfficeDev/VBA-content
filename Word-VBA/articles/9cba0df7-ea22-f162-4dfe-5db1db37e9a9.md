@@ -1,9 +1,8 @@
 
 # ShadowFormat.ForeColor Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  ** [ColorFormat](5f12793f-d847-ecf2-6cf6-39387f7f0b28.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
+
 
 ## Syntax
 

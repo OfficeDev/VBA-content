@@ -1,19 +1,10 @@
 
 # ConnectorFormat.EndConnect Method (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Attaches the end of the specified connector to a specified shape. 
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **EndConnect**( **_ConnectedShape_**,  **_ConnectionSite_**)
 
@@ -30,7 +21,6 @@ Attaches the end of the specified connector to a specified shape.
 |ConnectionSite|Required| **Long**|A connection site on the shape specified by ConnectedShape. Must be an integer between 1 and the integer returned by the  **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **RerouteConnections**method after the connector is attached to shapes at both ends.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 If there's already a connection between the end of the connector and another shape, that connection is broken. If the end of the connector isn't already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector. Use the  **BeginConnect** method to attach the beginning of the connector to a shape.
 
@@ -38,7 +28,6 @@ When you attach a connector to an object, the size and position of the connector
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example adds two rectangles to the first slide in the active presentation and connects them with a curved connector. Notice that the  **RerouteConnections** method makes it irrelevant what values you supply for the ConnectionSite arguments used with the **BeginConnect** and **EndConnect** methods.
 
@@ -67,7 +56,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

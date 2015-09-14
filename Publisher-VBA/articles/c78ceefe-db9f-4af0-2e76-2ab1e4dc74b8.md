@@ -1,10 +1,6 @@
 
 # ShapeNodes.Insert Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Inserts a new segment after the specified node of the freeform drawing.
 
 

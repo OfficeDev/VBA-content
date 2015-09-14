@@ -1,8 +1,5 @@
 
 # Search string must be specified (VBE)
-
- **Last modified:** July 28, 2015
-
 You have to enter a string when searching in the object browser. This error has the following causes and solutions:
 
 

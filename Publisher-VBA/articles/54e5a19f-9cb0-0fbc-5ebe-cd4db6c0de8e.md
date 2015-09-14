@@ -1,10 +1,6 @@
 
 # TextRange.Script Property (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
 
 

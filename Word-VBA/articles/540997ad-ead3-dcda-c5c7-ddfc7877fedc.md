@@ -1,9 +1,8 @@
 
 # XMLNamespace.URI Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **String** that represents the Uniform Resource Identifier (URI) of the associated namespace.
+
 
 ## Syntax
 

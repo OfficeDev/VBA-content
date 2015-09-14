@@ -1,9 +1,8 @@
 
 # OlkDateControl.Date Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the currently selected  **Date** value with the time set to 12:00 AM. Read/write.
+
 
 ## Syntax
 

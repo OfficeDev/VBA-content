@@ -1,9 +1,8 @@
 
 # EmailSignatureEntries.Count Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Long** that represents the number of e-mail signature entries in the collection. Read-only.
+
 
 ## Syntax
 

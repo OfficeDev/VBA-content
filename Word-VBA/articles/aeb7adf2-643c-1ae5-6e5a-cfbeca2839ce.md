@@ -2,9 +2,6 @@
 # XMLNamespaces Members (Word)
 A collection of  **XMLNamespace** objects that represents the entire collection of schemas in the Schema Library.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

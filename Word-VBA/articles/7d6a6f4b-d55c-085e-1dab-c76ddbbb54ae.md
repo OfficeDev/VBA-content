@@ -1,9 +1,8 @@
 
 # Shape.ShapeStyle Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the shape style for the specified shape. Read/write  ** [MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f34054-28e7-6891-5442-3598d64284a0%28Office.15%29.aspx)**.
+
 
 ## Syntax
 

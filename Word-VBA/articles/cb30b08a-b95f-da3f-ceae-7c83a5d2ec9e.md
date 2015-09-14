@@ -1,9 +1,8 @@
 
 # Cell.ColumnIndex Property (Word)
 
- **Last modified:** July 28, 2015
-
 Returns the number of the table column that contains the specified cell. Read-only  **Long**.
+
 
 ## Syntax
 

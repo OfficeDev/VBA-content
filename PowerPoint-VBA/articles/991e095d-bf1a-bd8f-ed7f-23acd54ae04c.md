@@ -1,9 +1,8 @@
 
 # ThreeDFormat.FieldOfView Property (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the camera field of view for the specified  **ThreeDFormat** object, in degrees. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Store.ExchangeStoreType Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a constant in the  ** [OlExchangeStoreType](43ad226d-1f18-048b-cc66-49ac56ebffda.md)** enumeration that indicates the type of an Exchange store. Read-only.
+
 
 ## Syntax
 

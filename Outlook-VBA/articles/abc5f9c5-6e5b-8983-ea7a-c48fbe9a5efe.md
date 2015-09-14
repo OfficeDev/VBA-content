@@ -1,9 +1,8 @@
 
 # Frame.Paste Method (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Transfers the contents of the Clipboard to an object.
+
 
 ## Syntax
 

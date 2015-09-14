@@ -1,9 +1,8 @@
 
 # Walls Object (Word)
 
- **Last modified:** July 28, 2015
-
 Represents the walls of a 3-D chart. 
+
 
 ## Remarks
 

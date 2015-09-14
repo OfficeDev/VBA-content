@@ -1,10 +1,6 @@
 
 # MailMergeDataSources.Item Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Returns the  ** [MailMergeDataSource](a02eb4fb-7db7-e533-c3ca-95bc4ca68e82.md)** object at the specified index position in the **MailMergeDataSources** collection.
 
 

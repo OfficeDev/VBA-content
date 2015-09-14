@@ -1,9 +1,8 @@
 
 # ParagraphFormat.KeepTogether Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long**.
+
 
 ## Syntax
 

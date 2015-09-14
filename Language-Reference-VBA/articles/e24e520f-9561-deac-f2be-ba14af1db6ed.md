@@ -1,10 +1,7 @@
 
 # This interaction between compiled and design environment components is not supported
 
- **Last modified:** July 28, 2015
-
 This error has the following causes and solutions:
-
 
 
 

@@ -1,9 +1,8 @@
 
 # PageSetup.TwoPagesOnOne Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word prints the specified document two pages per sheet. Read/write **Boolean**.
+
 
 ## Syntax
 

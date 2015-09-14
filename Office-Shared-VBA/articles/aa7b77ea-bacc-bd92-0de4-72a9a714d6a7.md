@@ -1,9 +1,8 @@
 
 # IConverter.HrExport Method (Office)
 
- **Last modified:** July 28, 2015
-
 This feature is only available in the Open XML Format SDK.
+
 
 ## Syntax
 

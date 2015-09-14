@@ -1,9 +1,8 @@
 
 # SmartArtColors.Parent Property (Office)
 
- **Last modified:** July 28, 2015
-
 Returns the calling object. Read-only
+
 
 ## Syntax
 

@@ -2,9 +2,6 @@
 # Column Members (PowerPoint)
 Represents a table column. The  **Column** object is a member of the ** [Columns](ba2fb830-bb60-b259-3a3f-1281f77d6368.md)**collection. The  **Columns** collection includes all the columns in a table.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

@@ -2,10 +2,6 @@
 # Documents Members (Publisher)
 Represents all open publications. The  **Documents** collection contains all **Document** objects that are open in Microsoft Publisher.
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 ## Methods
 
 

@@ -1,9 +1,8 @@
 
 # OlkTextBox.MouseMove Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs after a mouse movement has been registered over the control.
+
 
 ## Syntax
 

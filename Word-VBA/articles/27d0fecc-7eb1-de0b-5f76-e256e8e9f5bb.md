@@ -1,9 +1,8 @@
 
 # WdPrintOutRange Enumeration (Word)
 
- **Last modified:** July 28, 2015
-
 Specifies a range to print.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,11 +1,10 @@
 
 # Use the Properties Window
 
- **Last modified:** July 28, 2015
-
 The  **Properties** window lists the [design-time](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) [properties](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) for selected objects and their current settings. You can change these properties at design time. When you select multiple controls, the **Properties** window contains a list of the properties common to all the selected controls.
 
  **To navigate the Properties window**
+
 
 
 

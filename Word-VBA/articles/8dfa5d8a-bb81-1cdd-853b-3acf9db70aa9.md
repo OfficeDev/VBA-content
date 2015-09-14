@@ -1,9 +1,8 @@
 
 # Dialogs Object (Word)
 
- **Last modified:** July 28, 2015
-
 A collection of  ** [Dialog](f90f6e6d-aaa0-c127-ab37-ca074144eff1.md)**objects in Word. Each  **Dialog** object represents a built-in Word dialog box.
+
 
 ## Remarks
 

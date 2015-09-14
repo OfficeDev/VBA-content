@@ -2,9 +2,6 @@
 # ParagraphFormat Members (Word)
 Represents all the formatting for a paragraph.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

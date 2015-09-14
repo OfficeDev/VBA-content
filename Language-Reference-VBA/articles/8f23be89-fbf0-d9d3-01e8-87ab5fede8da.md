@@ -1,10 +1,7 @@
 
 # 'item' designers cannot be public in ActiveX EXE projects
 
- **Last modified:** July 28, 2015
-
 This error has the following causes and solutions:
-
 
 
 

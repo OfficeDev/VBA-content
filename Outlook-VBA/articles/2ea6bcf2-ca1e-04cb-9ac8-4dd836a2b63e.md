@@ -1,9 +1,8 @@
 
 # TextBox.BorderColor Property (Outlook Forms Script)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Long** that specifies the border color of an object. Read/write.
+
 
 ## Syntax
 

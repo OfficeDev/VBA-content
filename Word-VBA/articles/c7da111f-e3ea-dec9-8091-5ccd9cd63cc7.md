@@ -1,9 +1,8 @@
 
 # Find.MatchByte Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Word distinguishes between full-width and half-width letters or characters during a search. Read/write **Boolean**.
+
 
 ## Syntax
 
@@ -14,7 +13,7 @@
 
 ## Example
 
-This example searches for the term "ãƒžã‚¤ã‚¯ãƒ­ã‚½ãƒ•ãƒˆ" in the specified range without distinguishing between full-width and half-width characters.
+This example searches for the term "マイクロソフト" in the specified range without distinguishing between full-width and half-width characters.
 
 
 ```
@@ -22,7 +21,7 @@ With Selection.Find
     .ClearFormatting 
     .MatchWholeWord = True 
     .MatchByte = False 
-    .Execute FindText:="ãƒžã‚¤ã‚¯ãƒ­ã‚½ãƒ•ãƒˆ" 
+    .Execute FindText:="マイクロソフト" 
 End With
 ```
 

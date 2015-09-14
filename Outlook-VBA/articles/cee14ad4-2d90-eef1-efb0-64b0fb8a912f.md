@@ -2,9 +2,6 @@
 # AccountSelector Members (Outlook)
 Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent  ** [Explorer](026591e5-049f-503a-4166-34e6dbc225fb.md)** object.
 
- **Last modified:** July 28, 2015
-
-
 ## Events
 
 

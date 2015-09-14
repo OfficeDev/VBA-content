@@ -1,19 +1,10 @@
 
 # Application.WindowActivate Event (PowerPoint)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Occurs when the application window or any document window is activated.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **WindowActivate**( **_Pres_**,  **_Wn_**)
 
@@ -30,7 +21,6 @@ Occurs when the application window or any document window is activated.
 |Wn|Required| **DocumentWindow**|The activated document window.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](b657ab62-67fa-4eeb-736c-86e31a026c73.md).
 
@@ -43,7 +33,6 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
     
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example opens every activated presentation in slide sorter view.
 
@@ -57,7 +46,6 @@ End Sub
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

@@ -1,9 +1,6 @@
 
 # Sessions (Outlook)
 
- **Last modified:** July 28, 2015
-
-
 ## In this section
 
 

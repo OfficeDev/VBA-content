@@ -1,10 +1,6 @@
 
 # FindReplace.Clear Method (Publisher)
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Publisher 2013 | VBA_
-
 Removes the specified search criteria in a find or replace operation.
 
 

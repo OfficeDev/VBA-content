@@ -1,9 +1,8 @@
 
 # Global.IsSandboxed Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if the application window is a protected view window. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # OlkDateControl Object (Outlook)
 
- **Last modified:** July 28, 2015
-
 A control that supports the drop-down date picker used in inspectors for task and appointment items to select a date. 
+
 
 ## Remarks
 

@@ -1,13 +1,12 @@
 
 # Changing the Form Used by Existing Items in a Folder
 
- **Last modified:** July 28, 2015
-
 In some cases you may need to change the form associated with items that are already in a folder. This is often necessary after importing items, or if you create a custom form after you have already created items based on a standard Outlook form.
 
 The Message Class field cannot be directly changed using the Outlook user interface, but you can use VBScript, Visual Basic, or Visual Basic for Applications to change the Message Class field.
 
 The following Automation code can be used as a basis for developing your own solution. This code assumes that the name of the new form is MyForm. It will change all contacts in your default contacts folder so that they will use MyForm.
+
 
 
 

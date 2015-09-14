@@ -2,9 +2,6 @@
 # OlkCheckBox Members (Outlook)
 A control that supports one or more selections in a defined group of check box choices.
 
- **Last modified:** July 28, 2015
-
-
 ## Events
 
 

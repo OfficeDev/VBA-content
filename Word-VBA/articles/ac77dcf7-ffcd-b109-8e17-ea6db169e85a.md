@@ -1,19 +1,10 @@
 
 # Range.InsertBefore Method (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Inserts the specified text before the specified range.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **InsertBefore**( **_Text_**)
 
@@ -29,7 +20,6 @@ Inserts the specified text before the specified range.
 |Text|Required| **String**|The text to be inserted.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 After the text is inserted, the range is expanded to include the new text. If the range is a bookmark, the bookmark is also expanded to include the next text.
 
@@ -37,7 +27,6 @@ You can insert characters such as quotation marks, tab characters, and nonbreaki
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example inserts the text "Introduction" as a separate paragraph at the beginning of the active document.
 
@@ -51,7 +40,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

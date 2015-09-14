@@ -1,9 +1,8 @@
 
 # MsoPresetTexture Enumeration (Office)
 
- **Last modified:** July 28, 2015
-
 Specifies texture to be used to fill a shape.
+
 
 
 |**Name**|**Value**|**Description**|

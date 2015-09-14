@@ -1,9 +1,6 @@
 
 # View Properties (PowerPoint)
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

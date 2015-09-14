@@ -1,9 +1,8 @@
 
 # Stores.StoreAdd Event (Outlook)
 
- **Last modified:** July 28, 2015
-
 Occurs when a  ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** has been added to the current session either programmatically or through user action.
+
 
 ## Syntax
 

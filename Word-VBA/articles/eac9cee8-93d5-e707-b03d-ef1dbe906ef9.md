@@ -1,9 +1,8 @@
 
 # AutoCaption.AutoInsert Property (Word)
 
- **Last modified:** July 28, 2015
-
  **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean**.
+
 
 ## Syntax
 

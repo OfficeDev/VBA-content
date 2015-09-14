@@ -1,9 +1,8 @@
 
 # DocumentItem.PropertyAccessor Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [PropertyAccessor](2fc91e13-703c-3ec9-9066-ffee7144306c.md)** object that supports creating, getting, setting, and deleting properties of the parent ** [DocumentItem](7b0a6af0-6632-3ff6-841f-5b081d0d68d8.md)** object. Read-only.
+
 
 ## Syntax
 

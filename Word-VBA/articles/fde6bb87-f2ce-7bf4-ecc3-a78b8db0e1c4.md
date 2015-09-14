@@ -1,19 +1,10 @@
 
 # Endnote.Range Property (Word)
 
- **Last modified:** July 28, 2015
-
- **In this article**
- [Syntax](#sectionSection0)
- [Remarks](#sectionSection1)
- [Example](#sectionSection2)
-
-
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 
 
 ## Syntax
-<a name="sectionSection0"> </a>
 
  _expression_. **Range**
 
@@ -21,13 +12,11 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 For information about returning a range from a document or returning a shape range from a collection of shapes, see the  **Range**method.
 
 
 ## Example
-<a name="sectionSection2"> </a>
 
 This example changes the text of the first endnote in the active document.
 
@@ -41,7 +30,6 @@ End With
 
 
 ## See also
-<a name="sectionSection2"> </a>
 
 
 #### Concepts

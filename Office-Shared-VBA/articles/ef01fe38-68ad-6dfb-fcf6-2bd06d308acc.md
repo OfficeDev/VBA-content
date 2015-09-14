@@ -1,9 +1,8 @@
 
 # OfficeDataSourceObject.Open Method (Office)
 
- **Last modified:** July 28, 2015
-
 Opens a table in a  **OfficeDataSourceObject** object.
+
 
 ## Syntax
 

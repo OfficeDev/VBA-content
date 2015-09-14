@@ -1,9 +1,8 @@
 
 # SharingItem.Permission Property (Outlook)
 
- **Last modified:** July 28, 2015
-
 Sets or returns an  ** [OlPermission](11126d37-33da-53f7-f5b6-ea8603998651.md)** constant that determines what permissions to grant the recipients on the ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
+
 
 ## Syntax
 

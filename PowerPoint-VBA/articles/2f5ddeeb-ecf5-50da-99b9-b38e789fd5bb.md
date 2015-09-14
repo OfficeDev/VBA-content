@@ -1,9 +1,8 @@
 
 # NamedSlideShow Object (PowerPoint)
 
- **Last modified:** July 28, 2015
-
 Represents a custom slide show, which is a named subset of slides in a presentation. 
+
 
 ## Remarks
 
