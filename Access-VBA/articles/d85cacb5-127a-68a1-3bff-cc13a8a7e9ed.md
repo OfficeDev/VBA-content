@@ -1,9 +1,8 @@
 
 # Module.ProcCountLines Property (Access)
 
- **Last modified:** July 28, 2015
-
 The  **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
+
 
 ## Syntax
 

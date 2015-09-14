@@ -1,9 +1,8 @@
 
 # DoCmd.PrintOut Method (Access)
 
- **Last modified:** July 28, 2015
-
 The  **PrintOut** method carries out the PrintOut action in Visual Basic.
+
 
 ## Syntax
 

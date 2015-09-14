@@ -1,9 +1,8 @@
 
 # EmptyCell.LeftPadding Property (Access)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer**.
+
 
 ## Syntax
 

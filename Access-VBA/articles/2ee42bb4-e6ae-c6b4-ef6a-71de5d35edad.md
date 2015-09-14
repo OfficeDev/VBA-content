@@ -1,9 +1,8 @@
 
 # TextBox.AsianLineBreak Property (Access)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** indicating whether line breaks in text boxes follow rules governing East Asian languages. **True** to control line breaks based on East Asian language rules. Read/write.
+
 
 ## Syntax
 

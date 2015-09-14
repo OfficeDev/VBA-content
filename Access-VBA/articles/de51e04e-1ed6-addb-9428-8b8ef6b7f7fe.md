@@ -1,9 +1,8 @@
 
 # AcDefReportView Enumeration (Access)
 
- **Last modified:** July 28, 2015
-
 Use with the  **DefaultView** property to set or return the opening view of a report.
+
 
 
 |**Name**|**Value**|**Description**|

@@ -1,10 +1,6 @@
 
 # Create an ADO Connection String
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Access 2013 | Office 2013_
-
 To connect to a data source, you must specify a connection string, the parameters of which might differ for each provider and data source. ADO directly supports five arguments in a connection string. Other arguments are passed to the provider that is named in the  _Provider_ argument without any processing by ADO.
 
 
@@ -16,7 +12,9 @@ To connect to a data source, you must specify a connection string, the parameter
 | _URL_|Specifies the connection string as an absolute URL identifying a resource, such as a file or directory.|
 | _Remote Provider_|Specifies the name of a provider to use when opening a client-side connection. (Remote Data Service only.)|
 | _Remote Server_|Specifies the path name of the server to use when opening a client-side connection. (Remote Data Service only.)|
+
 The following example 
+
 
 
 

@@ -1,9 +1,8 @@
 
 # References.ItemAdded Event (Access)
 
- **Last modified:** July 28, 2015
-
 The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
+
 
 ## Syntax
 

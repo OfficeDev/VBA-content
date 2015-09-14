@@ -1,9 +1,8 @@
 
 # Application.DLast Method (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **DLast** function to return a random record from a particular field in a table or query when you simply need any value from that field. .
+
 
 ## Syntax
 

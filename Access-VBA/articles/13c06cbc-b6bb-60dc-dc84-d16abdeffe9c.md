@@ -1,9 +1,8 @@
 
 # Report.DefaultControl Property (Access)
 
- **Last modified:** July 28, 2015
-
 The  **DefaultControl** property returns a ** [Control](ce2362e5-4390-590e-06c0-6f27e8d988cd.md)**object with which you can set the default properties for a particular type of control on a particular report. Read-only.
+
 
 ## Syntax
 

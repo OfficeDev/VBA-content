@@ -1,9 +1,8 @@
 
 # Reference.Collection Property (Access)
 
- **Last modified:** July 28, 2015
-
 The  **Collection** property returns a reference to the collection that contains an object. Read-only **References** object.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Report.MoveLayout Property (Access)
 
- **Last modified:** July 28, 2015
-
 The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Form.PivotTableChange Property (Access)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **PivotTableChange** event occurs. Read/write.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Module.ProcBodyLine Property (Access)
 
- **Last modified:** July 28, 2015
-
 The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
+
 
 ## Syntax
 

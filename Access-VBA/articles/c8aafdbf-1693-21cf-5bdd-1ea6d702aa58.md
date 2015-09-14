@@ -1,9 +1,8 @@
 
 # Form.ApplyFilter Event (Access)
 
- **Last modified:** July 28, 2015
-
 Occurs when a filter is applied to a form.
+
 
 ## Syntax
 

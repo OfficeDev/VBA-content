@@ -1,9 +1,8 @@
 
 # AcCurrentView Enumeration (Access)
 
- **Last modified:** July 28, 2015
-
 Used with the  **CurrentView** property to determine the current view of an object.
+
 
 
 |**Name**|**Value**|**Description**|

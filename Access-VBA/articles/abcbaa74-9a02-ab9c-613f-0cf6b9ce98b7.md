@@ -1,9 +1,8 @@
 
 # Form.AllowDeletions Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
+
 
 ## Syntax
 
@@ -26,13 +25,13 @@ When the  **AllowDeletions** property is set to No, the **Delete Record** comman
  **Note**  When the Data Mode argument of the OpenForm action is set, Microsoft Access will override a number of form property settings. If the Data Mode argument of the OpenForm action is set to Edit, Microsoft Access will open the form with the following property settings:
 
 
--  **AllowEdits** â€” Yes
+-  **AllowEdits** — Yes
     
--  **AllowDeletions** â€” Yes
+-  **AllowDeletions** — Yes
     
--  **AllowAdditions** â€” Yes
+-  **AllowAdditions** — Yes
     
--  **DataEntry** â€” No
+-  **DataEntry** — No
     
 To prevent the OpenForm action from overriding any of these existing property settings, omit the Data Mode argument setting so that Microsoft Access will use the property settings defined by the form.
 

@@ -1,10 +1,6 @@
 
 # Call Procedures in a Subform or Subreport
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Access 2013 | Office 2013_
-
 You can call a procedure in a module associated with a subform or subreport in one of two ways. If the form containing the subform is open in Form view, you can refer to the procedure as a method on the subform. The following example shows how to call the procedure GetProductID in the Orders Subform, which is bound to a subform control on the Orders form:
 
 In the Orders Subform class module enter:

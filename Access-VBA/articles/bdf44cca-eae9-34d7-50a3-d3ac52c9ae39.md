@@ -1,15 +1,16 @@
 
 # NavigationButton.FontBold Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
+
 
 - When displaying or printing controls on forms and reports.
     
 - When using the  **Print**method on a report.
     
+
  Read/write **Boolean**.
+
 
 ## Syntax
 

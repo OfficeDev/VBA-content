@@ -1,9 +1,8 @@
 
 # Form.OnDelete Property (Access)
 
- **Last modified:** July 28, 2015
-
 Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String**.
+
 
 ## Syntax
 

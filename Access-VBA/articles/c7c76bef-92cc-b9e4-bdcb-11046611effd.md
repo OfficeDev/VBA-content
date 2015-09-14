@@ -1,9 +1,8 @@
 
 # SubForm.Report Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
+
 
 ## Syntax
 

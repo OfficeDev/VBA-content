@@ -1,9 +1,8 @@
 
 # Report.TextHeight Method (Access)
 
- **Last modified:** July 28, 2015
-
 The  **TextHeight** method returns the height of a text string as it would be printed in the current font of a ** [Report](6f77c1b4-a9ce-7caa-204c-fe0755c6f9df.md)**object.
+
 
 ## Syntax
 

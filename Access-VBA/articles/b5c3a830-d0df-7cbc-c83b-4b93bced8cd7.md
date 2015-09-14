@@ -1,9 +1,8 @@
 
 # TabControl.MultiRow Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
+
 
 ## Syntax
 

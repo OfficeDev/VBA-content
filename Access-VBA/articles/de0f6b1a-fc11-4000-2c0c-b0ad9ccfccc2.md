@@ -1,9 +1,8 @@
 
 # Form.BeforeInsert Event (Access)
 
- **Last modified:** July 28, 2015
-
 The BeforeInsert event occurs when the user types the first character in a new record, but before the record is actually created.
+
 
 ## Syntax
 
@@ -31,7 +30,7 @@ You can use an AfterInsert event procedure or macro to requery a recordset whene
 
 The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate**and  **AfterUpdate**events. These events occur in the following order:
 
- **BeforeInsert** â†’ **BeforeUpdate** â†’ **AfterUpdate** â†’ **AfterInsert**.
+ **BeforeInsert** → **BeforeUpdate** → **AfterUpdate** → **AfterInsert**.
 
 The following table summarizes the interaction between these events.
 

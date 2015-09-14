@@ -1,9 +1,8 @@
 
 # Attachment.PictureSizeMode Property (Access)
 
- **Last modified:** July 28, 2015
-
 You can use the  **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte**.
+
 
 ## Syntax
 

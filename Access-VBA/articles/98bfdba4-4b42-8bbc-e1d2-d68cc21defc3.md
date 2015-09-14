@@ -1,9 +1,8 @@
 
 # CommandButton.CursorOnHover Property (Access)
 
- **Last modified:** July 28, 2015
-
 Gets or sets the type of mouse cursor displayed when the user rests the pointer on a button. Read/write  ** [AcCursorOnHover](cea3585d-7160-1375-40c4-a71b85135b7e.md)**.
+
 
 ## Syntax
 
