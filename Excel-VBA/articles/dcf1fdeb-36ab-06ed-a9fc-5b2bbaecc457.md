@@ -1,9 +1,8 @@
 
 # Window.SmallScroll Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Scrolls the contents of the window by rows or columns.
+
 
 ## Syntax
 

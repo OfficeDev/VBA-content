@@ -1,9 +1,8 @@
 
 # ODBCConnection.SourceDataFile Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **String** indicating the source data file for an ODBC connection. Read/write.
+
 
 ## Syntax
 

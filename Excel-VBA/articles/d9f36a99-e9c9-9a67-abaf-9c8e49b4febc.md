@@ -1,9 +1,8 @@
 
 # Application.DisplayAlerts Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Excel displays certain alerts and messages while a macro is running. Read/write **Boolean**.
+
 
 ## Syntax
 

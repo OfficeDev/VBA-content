@@ -1,9 +1,8 @@
 
 # RecentFile.Index Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
+
 
 ## Syntax
 

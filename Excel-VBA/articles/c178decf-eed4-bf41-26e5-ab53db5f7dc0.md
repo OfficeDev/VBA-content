@@ -1,9 +1,8 @@
 
 # ThreeDFormat.BevelTopInset Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a value indicating whether the top insert bevel should be raised for a  **ThreeDFormat** object. Read/write **Single**.
+
 
 ## Syntax
 

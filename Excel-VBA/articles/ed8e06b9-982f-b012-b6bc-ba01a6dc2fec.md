@@ -1,9 +1,8 @@
 
 # WorksheetFunction.BesselY Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the Bessel function, which is also called the Weber function or the Neumann function.
+
 
 ## Syntax
 

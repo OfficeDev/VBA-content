@@ -1,9 +1,8 @@
 
 # OLEObject.BringToFront Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Brings the object to the front of the z-order.
+
 
 ## Syntax
 

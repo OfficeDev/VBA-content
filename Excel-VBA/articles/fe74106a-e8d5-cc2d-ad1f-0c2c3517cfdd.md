@@ -1,9 +1,8 @@
 
 # CubeField.CurrentPageName Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the page name for a CubeField. Read/write  **String**.
+
 
 ## Syntax
 

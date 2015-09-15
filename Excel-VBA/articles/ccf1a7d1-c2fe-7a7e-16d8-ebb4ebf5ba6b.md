@@ -1,9 +1,8 @@
 
 # XlEnableCancelKey Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies how Microsoft Office Excel 2007 handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure.
+
 
 
 |**Name**|**Value**|**Description**|

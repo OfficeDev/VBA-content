@@ -1,9 +1,8 @@
 
 # WorksheetFunction.RoundUp Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Rounds a number up, away from 0 (zero).
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Application.AlwaysUseClearType Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Boolean** that represents whether to use ClearType to display fonts in the menu, ribbon, and dialog box text. Read/write **Boolean**.
+
 
 ## Syntax
 

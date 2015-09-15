@@ -1,9 +1,8 @@
 
 # CubeFields Object (Excel)
 
- **Last modified:** July 28, 2015
-
 A collection of all  ** [CubeField](6db16910-6c27-651a-c388-e54e27fe4519.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
+
 
 ## Example
 

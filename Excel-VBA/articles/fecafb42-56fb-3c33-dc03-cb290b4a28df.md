@@ -1,9 +1,8 @@
 
 # Chart.AutoScaling Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The ** [RightAngleAxes](632aa454-4113-97d3-a80c-eb745a950c6f.md)**property must be  **True**. Read/write  **Boolean**.
+
 
 ## Syntax
 

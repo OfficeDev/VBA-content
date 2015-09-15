@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Fixed Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Rounds a number to the specified number of decimals, formats the number in decimal format using a period and commas, and returns the result as text.
+
 
 ## Syntax
 

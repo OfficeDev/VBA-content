@@ -1,9 +1,8 @@
 
 # XlSearchDirection Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the search direction when searching a range.
+
 
 
 |**Name**|**Value**|**Description**|

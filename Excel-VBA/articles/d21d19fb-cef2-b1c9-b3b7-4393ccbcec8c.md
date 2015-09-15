@@ -1,9 +1,8 @@
 
 # Watch.Source Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Variant** value that represents the unique name that identifies items that have a ** [SourceType](17c41741-1bca-0c07-d113-fd68ba7add75.md)** property value of **xlSourceRange**,  **xlSourceChart**,  **xlSourcePrintArea**,  **xlSourceAutoFilter**,  **xlSourcePivotTable**, or  **xlSourceQuery**.
+
 
 ## Syntax
 

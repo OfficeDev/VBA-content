@@ -1,9 +1,8 @@
 
 # PageSetup.CenterVertically Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the sheet is centered vertically on the page when it's printed. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Bitrshift Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a value number shifted right by shift_amount bits.
+
 
 ## Syntax
 

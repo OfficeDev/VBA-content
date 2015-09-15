@@ -1,9 +1,8 @@
 
 # Window.DisplayZeros Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if zero values are displayed. Read/write **Boolean**.
+
 
 ## Syntax
 

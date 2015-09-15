@@ -1,9 +1,8 @@
 
 # NegativeBarFormat.BorderColor Property (Excel)
 
- **Last modified:** July 28, 2015
-
  Returns a ** [FormatColor](b7818b27-8790-ef52-c24e-8edbdcf979f2.md)** object that you can use to specify the border color for negative data bars. Read-only
+
 
 ## Syntax
 

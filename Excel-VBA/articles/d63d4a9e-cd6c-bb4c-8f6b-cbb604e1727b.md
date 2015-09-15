@@ -1,9 +1,8 @@
 
 # SlicerPivotTables.Item Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a single  ** [PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object from the collection.
+
 
 ## Syntax
 

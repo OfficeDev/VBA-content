@@ -1,9 +1,8 @@
 
 # Range.Consolidate Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Consolidates data from multiple ranges on multiple worksheets into a single range on a single worksheet.  **Variant**.
+
 
 ## Syntax
 

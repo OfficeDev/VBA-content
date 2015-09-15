@@ -1,9 +1,8 @@
 
 # DataLabels.Propagate Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Enables you to take the contents and formatting of a single data label and apply it to every other data label on the series.
+
 
 ## Syntax
 

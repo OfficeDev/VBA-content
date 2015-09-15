@@ -1,9 +1,8 @@
 
 # WorksheetFunction.Effect Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the effective annual interest rate, given the nominal annual interest rate and the number of compounding periods per year.
+
 
 ## Syntax
 
@@ -35,7 +34,7 @@ Double
     
 - If either argument is nonnumeric, EFFECT returns the #VALUE! error value.
     
-- If nominal_rate â‰¤ 0 or if npery < 1, EFFECT returns the #NUM! error value.
+- If nominal_rate ≤ 0 or if npery < 1, EFFECT returns the #NUM! error value.
     
 - EFFECT is calculated as follows:
 ![](../images/awfefect_ZA06051135.gif)

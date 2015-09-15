@@ -1,9 +1,8 @@
 
 # WorksheetFunction.IsNA Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Checks the type of value and returns TRUE or FALSE depending if the value refers to the #N/A (value not available) error value.
+
 
 ## Syntax
 

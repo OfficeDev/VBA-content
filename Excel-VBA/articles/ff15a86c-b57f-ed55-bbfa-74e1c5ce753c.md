@@ -1,9 +1,8 @@
 
 # PivotCache.MissingItemsLimit Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  ** [XlPivotTableMissingItems](3450ac87-7a30-f2dd-efc8-fcd336b26319.md)**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Workbook.Styles Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Styles](146effdc-e007-814d-b110-f7bd944fc15f.md)**collection that represents all the styles in the specified workbook. Read-only.
+
 
 ## Syntax
 

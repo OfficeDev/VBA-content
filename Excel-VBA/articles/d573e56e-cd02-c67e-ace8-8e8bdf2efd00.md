@@ -1,9 +1,8 @@
 
 # Databar.BarBorder Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns an object that specifies the border of a data bar. Read-only
+
 
 ## Syntax
 

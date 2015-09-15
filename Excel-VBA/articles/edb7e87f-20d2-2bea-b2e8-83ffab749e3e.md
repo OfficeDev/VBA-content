@@ -1,9 +1,8 @@
 
 # Style.IncludePatterns Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the style includes the **Color**,  **ColorIndex**,  **InvertIfNegative**,  **Pattern**,  **PatternColor**, and  **PatternColorIndex** interior properties. Read/write **Boolean**.
+
 
 ## Syntax
 

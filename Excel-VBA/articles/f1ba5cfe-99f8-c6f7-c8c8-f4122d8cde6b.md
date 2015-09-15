@@ -2,9 +2,6 @@
 # FileExportConverter Members (Excel)
 Represents a file converter that is used to save files.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

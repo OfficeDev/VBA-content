@@ -2,9 +2,6 @@
 # CalculatedMembers Members (Excel)
 A collection of all the  ** [CalculatedMember](3c664ac6-e2f8-f631-006d-6a16c380641e.md)** objects on the specified PivotTable.
 
- **Last modified:** July 28, 2015
-
-
 ## Methods
 
 

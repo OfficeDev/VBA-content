@@ -1,9 +1,8 @@
 
 # SparkVerticalAxis.MinScaleType Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets how the minimum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group. Read/write
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # WorksheetFunction.CritBinom Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.
+
 
 ## Syntax
 

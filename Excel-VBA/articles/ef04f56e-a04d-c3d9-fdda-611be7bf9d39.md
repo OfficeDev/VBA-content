@@ -1,9 +1,8 @@
 
 # Workbook.Permission Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  **Permission** object that represents the permission settings in the specified workbook.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # AutoCorrect.AutoExpandListRange Property (Excel)
 
- **Last modified:** July 28, 2015
-
 A  **Boolean** value indicating whether automatic expansion is enabled for lists. When you type in a cell of an empty row or column next to a list, the list will expand to include that row or column if automatic expansion is enabled. Read/write **Boolean**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Range.IndentLevel Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Variant** value that represents the indent level for the cell or range. Can be an integer from 0 to 15.
+
 
 ## Syntax
 

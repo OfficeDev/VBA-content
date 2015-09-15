@@ -1,9 +1,8 @@
 
 # PivotField.AddPageItem Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Adds an additional item to a multiple item page field.
+
 
 ## Syntax
 

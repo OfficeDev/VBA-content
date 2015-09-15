@@ -1,9 +1,8 @@
 
 # Borders.ThemeColor Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **Variant**.
+
 
 ## Syntax
 

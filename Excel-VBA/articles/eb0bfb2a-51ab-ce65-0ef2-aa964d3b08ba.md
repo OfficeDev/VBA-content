@@ -1,9 +1,8 @@
 
 # Shapes.AddLabel Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Creates a label. Returns a  ** [Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** object that represents the new label.
+
 
 ## Syntax
 

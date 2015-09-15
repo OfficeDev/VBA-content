@@ -1,9 +1,8 @@
 
 # DataTable.HasBorderOutline Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **True** if the chart data table has outline borders. Read/write **Boolean**.
+
 
 ## Syntax
 

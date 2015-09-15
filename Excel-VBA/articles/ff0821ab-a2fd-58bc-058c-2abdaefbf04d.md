@@ -1,9 +1,8 @@
 
 # DefaultWebOptions.FolderSuffix Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the folder suffix that Microsoft Excel uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  ** [UseLongFileNames](b594ad04-866a-b811-338b-73d45352866b.md)**and  ** [OrganizeInFolder](380edf97-e350-89a5-23e7-67e48b6be6f9.md)**properties are set to  **True**). Read-only  **String**.
+
 
 ## Syntax
 

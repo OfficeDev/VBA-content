@@ -1,9 +1,8 @@
 
 # CalloutFormat Object (Excel)
 
- **Last modified:** July 28, 2015
-
 Contains properties and methods that apply to line callouts.
+
 
 ## Remarks
 

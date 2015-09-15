@@ -1,9 +1,8 @@
 
 # Worksheet.Comments Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [Comments](f43bf021-1e46-10cf-09bf-070fc6a2c81a.md)**collection that represents all the comments for the specified worksheet. Read-only.
+
 
 ## Syntax
 

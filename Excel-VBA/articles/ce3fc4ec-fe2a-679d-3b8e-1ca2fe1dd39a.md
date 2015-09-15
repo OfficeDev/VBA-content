@@ -1,9 +1,8 @@
 
 # Style.Orientation Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  ** [XlOrientation](a160f0d2-7c3c-4206-dbc2-a6a456e177d3.md)** value that represents the text orientation.
+
 
 ## Syntax
 

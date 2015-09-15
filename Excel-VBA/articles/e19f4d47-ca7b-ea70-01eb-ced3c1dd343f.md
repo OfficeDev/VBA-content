@@ -1,10 +1,6 @@
 
 # Has3DEffect Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
  **True** if the series has a three-dimensional appearance. Applies only to bubble charts. Read/write **Boolean**.
 
 

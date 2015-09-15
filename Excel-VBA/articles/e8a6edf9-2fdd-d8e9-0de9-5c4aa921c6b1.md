@@ -1,9 +1,8 @@
 
 # Axis.TickLabels Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns a  ** [TickLabels](fcb02bc5-fcdc-db32-168b-2d40e5552991.md)**object that represents the tick-mark labels for the specified axis. Read-only.
+
 
 ## Syntax
 

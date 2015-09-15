@@ -1,9 +1,8 @@
 
 # FillFormat.OneColorGradient Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Sets the specified fill to a one-color gradient.
+
 
 ## Syntax
 

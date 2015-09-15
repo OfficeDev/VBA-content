@@ -1,9 +1,8 @@
 
 # PivotCache Object (Excel)
 
- **Last modified:** July 28, 2015
-
 Represents the memory cache for a PivotTable report.
+
 
 ## Remarks
 

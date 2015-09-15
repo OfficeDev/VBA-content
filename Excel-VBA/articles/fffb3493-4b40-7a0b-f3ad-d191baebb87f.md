@@ -1,14 +1,12 @@
 
 # ColumnWidth Property
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 Returns or sets the width of all columns in the specified range. Read/write Variant.
 
  _expression_. **ColumnWidth**
+
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
+
 
 ## Remarks
 

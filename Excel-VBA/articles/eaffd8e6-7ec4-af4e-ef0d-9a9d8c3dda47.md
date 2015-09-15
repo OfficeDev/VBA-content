@@ -1,9 +1,8 @@
 
 # XmlSchema.Namespace Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns an  ** [XmlNamespace](4c39c739-b848-5fec-c354-9fa56daf1d5d.md)** object that represents the target namespace for the specified schema. Read-only.
+
 
 ## Syntax
 

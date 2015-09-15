@@ -1,9 +1,8 @@
 
 # PivotTable.PrintDrillIndicators Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies whether or not drill indicators are printed with the PivotTable. Read/write  **Boolean**.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # Range.Show Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Scrolls through the contents of the active window to move the range into view. The range must consist of a single cell in the active document.
+
 
 ## Syntax
 

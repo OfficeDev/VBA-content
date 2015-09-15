@@ -1,9 +1,8 @@
 
 # XlDataSeriesDate Enumeration (Excel)
 
- **Last modified:** July 28, 2015
-
 Specifies the type of date to apply to a data series.
+
 
 
 |**Name**|**Value**|**Description**|

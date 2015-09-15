@@ -1,9 +1,8 @@
 
 # PivotFilters.Add2 Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Adds new filters to the  **PivotFilters** collection.
+
 
 ## Syntax
 

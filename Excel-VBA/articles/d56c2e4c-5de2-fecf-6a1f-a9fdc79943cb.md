@@ -1,9 +1,8 @@
 
 # Workbook.DeleteNumberFormat Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Deletes a custom number format from the workbook.
+
 
 ## Syntax
 

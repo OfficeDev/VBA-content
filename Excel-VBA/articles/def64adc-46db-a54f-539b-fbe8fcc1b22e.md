@@ -1,9 +1,8 @@
 
 # Slicer.Style Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the style currently applied to the specified slicer. Read/write.
+
 
 ## Syntax
 

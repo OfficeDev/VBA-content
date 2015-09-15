@@ -1,9 +1,8 @@
 
 # VPageBreak.Parent Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the parent object for the specified object. Read-only.
+
 
 ## Syntax
 

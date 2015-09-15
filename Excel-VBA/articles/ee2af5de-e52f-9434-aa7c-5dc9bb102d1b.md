@@ -1,9 +1,8 @@
 
 # Workbook.BeforeXmlExport Event (Excel)
 
- **Last modified:** July 28, 2015
-
 Occurs before Microsoft Excel saves or exports XML data from the specified workbook.
+
 
 ## Syntax
 

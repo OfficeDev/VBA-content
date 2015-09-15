@@ -1,9 +1,8 @@
 
 # PivotField.CurrentPageName Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets the currently displayed page of the specified PivotTable report. The name of the page appears in the page field. Note that this property works only if the currently displayed page already exists. Read/write  **String**.
+
 
 ## Syntax
 

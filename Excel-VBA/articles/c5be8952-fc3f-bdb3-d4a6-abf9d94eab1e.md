@@ -1,9 +1,8 @@
 
 # Range.Formula Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns or sets a  **Variant** value that represents the object's formula in A1-style notation and in the macro language.
+
 
 ## Syntax
 

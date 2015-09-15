@@ -2,9 +2,6 @@
 # IconCriteria Members (Excel)
 Represents the collection of  ** [IconCriterion](3517d900-4d84-2ded-ccb1-a3d78d3f6c09.md)** objects. Each **IconCriterion** represents the values and threshold type for each icon in an icon set conditional formatting rule.
 
- **Last modified:** July 28, 2015
-
-
 ## Properties
 
 

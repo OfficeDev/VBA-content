@@ -1,9 +1,8 @@
 
 # TimelineState.SetFilterDateRange Method (Excel)
 
- **Last modified:** July 28, 2015
-
 Sets the Timeline's filter.
+
 
 ## Syntax
 

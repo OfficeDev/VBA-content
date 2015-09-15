@@ -1,9 +1,8 @@
 
 # CalloutFormat.Drop Property (Excel)
 
- **Last modified:** July 28, 2015
-
 For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single**.
+
 
 ## Syntax
 
@@ -18,7 +17,7 @@ This distance is measured from the top of the text box unless the  **AutoAttach*
 
 Use the  ** [CustomDrop](d38513f6-1c42-e4b3-7a0f-b8543d59d0ff.md)**method to set the value of this property.
 
-The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value â€” that is, if the value of the  ** [DropType](ab947fa4-4af9-e491-f62d-e0ca036e1892.md)**property is  **msoCalloutDropCustom**.
+The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the  ** [DropType](ab947fa4-4af9-e491-f62d-e0ca036e1892.md)**property is  **msoCalloutDropCustom**.
 
 
 ## Example

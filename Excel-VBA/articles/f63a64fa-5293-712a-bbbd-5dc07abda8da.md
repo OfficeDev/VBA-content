@@ -1,9 +1,8 @@
 
 # Application.ArbitraryXMLSupportAvailable Property (Excel)
 
- **Last modified:** July 28, 2015
-
  Returns a **Boolean** value that indicates whether the XML features in Microsoft Excel are available. Read-only.
+
 
 ## Syntax
 

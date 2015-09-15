@@ -1,9 +1,8 @@
 
 # PivotTable.DisplayContextTooltips Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Controls whether or not tooltips are displayed for PivotTable cells. Read/write  **Boolean**.
+
 
 ## Syntax
 

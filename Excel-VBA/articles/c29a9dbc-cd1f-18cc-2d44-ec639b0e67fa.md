@@ -1,9 +1,8 @@
 
 # Application.WarnOnFunctionNameConflict Property (Excel)
 
- **Last modified:** July 28, 2015
-
 The  **WarnOnFunctionNameConflict** property, when set to **True**, raises an alert if a developer tries to create a new function using an existing function name. Read/write  **Boolean**.
+
 
 ## Syntax
 

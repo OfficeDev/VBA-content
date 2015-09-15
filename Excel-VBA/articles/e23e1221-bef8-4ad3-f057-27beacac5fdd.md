@@ -1,9 +1,8 @@
 
 # ModelMeasureName.TableName Property (Excel)
 
- **Last modified:** July 28, 2015
-
  **String** representing the name of a table in the model for which a measure was added. Read-only.
+
 
 ## Syntax
 

@@ -1,9 +1,8 @@
 
 # FillFormat.TextureOffsetX Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns the offset X value for the specified fill. Read/write  **Single**.
+
 
 ## Syntax
 

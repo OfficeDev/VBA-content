@@ -2,9 +2,6 @@
 # Workbook Members (Excel)
 Represents a Microsoft Excel workbook.
 
- **Last modified:** July 28, 2015
-
-
 ## Events
 
 

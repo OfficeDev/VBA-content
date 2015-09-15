@@ -1,10 +1,6 @@
 
 # Built-In Dialog Box Argument Lists
 
- **Last modified:** July 28, 2015
-
- _**Applies to:** Excel 2013 | Office 2013 | VBA_
-
 
 |**Dialog box constant**|**Argument list(s)**|
 |:-----|:-----|

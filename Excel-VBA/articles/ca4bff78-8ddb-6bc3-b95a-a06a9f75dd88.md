@@ -1,9 +1,8 @@
 
 # AddIns2 Object (Excel)
 
- **Last modified:** July 28, 2015
-
 A collection of  ** [AddIn](ad26800d-5342-fb4c-01f3-05b7eceb7ffd.md)** objects that represent all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed.
+
 
 ## Remarks
 

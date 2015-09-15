@@ -1,9 +1,8 @@
 
 # Name Object (Excel)
 
- **Last modified:** July 28, 2015
+Represents a defined name for a range of cells. Names can be either built-in names — such as Database, Print_Area, and Auto_Open — or custom names.
 
-Represents a defined name for a range of cells. Names can be either built-in names â€” such as Database, Print_Area, and Auto_Open â€” or custom names.
 
 ## Remarks
 

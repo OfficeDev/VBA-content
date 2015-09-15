@@ -1,9 +1,8 @@
 
 # SparkHorizontalAxis.IsDateAxis Property (Excel)
 
- **Last modified:** July 28, 2015
-
 Returns whether the horizontal axis of the sparkline is based on date values. Read-only
+
 
 ## Syntax
 
