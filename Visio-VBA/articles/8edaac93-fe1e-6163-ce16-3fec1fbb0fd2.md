@@ -81,7 +81,6 @@ Represents a master in a stencil.
 | [ResizeToFitContents](982fa4c4-014c-319d-a73e-f6bbc28f16e8.md)|Resizes the page, or the master's page, to fit tightly around the shapes or master that are on it.|
 | [SetFormulas](fb419eb5-6bd3-cfc7-d358-cef9e68dddbf.md)|Sets the formulas of one or more cells.|
 | [SetResults](6be7dd71-55a7-777c-e1b7-8f41c028e843.md)|Sets the results or formulas of one or more cells.|
-| [VisualBoundingBox](http://msdn.microsoft.com/library/478d636f-e741-cf6b-3e16-b5faf70a9f14%28Office.15%29.aspx)||
 
 ## Properties
 
