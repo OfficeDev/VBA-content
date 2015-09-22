@@ -6744,7 +6744,7 @@
         - [AttachToDocument Method](articles/18af2ed2-2806-401a-4cca-9d8746f25082.md)
         - [Delete Method](articles/a9cf0d05-8c9d-28ac-a25e-a29e47be103a.md)
     - [XMLNamespaces Object](articles/f11a6cc1-f33d-e1ab-870c-aa5857d66797.md)
-      - [XMLNamespaces Members (Word)](articles/aeb7adf2-643c-1ae5-6e5a-cfbeca2839ce.md)
+      - [XMLNamespaces Members](articles/aeb7adf2-643c-1ae5-6e5a-cfbeca2839ce.md)
       - [Properties](articles/8c450e99-55ff-4aa7-b252-aa9e5fd804a6.md)
         - [Application Property](articles/d7124985-1e2b-a6d0-f239-ff2cbf81b43e.md)
         - [Count Property](articles/646c295b-c692-3d08-b116-c711c2bf4c83.md)
