@@ -9,6 +9,7 @@ A collection of all BorderArt available for use in the specified publication. Bo
 |**Name**|**Description**|
 |:-----|:-----|
 | [Item](64c79cf8-dfbf-9979-27d9-367603f5bf9a.md)|Returns an individual object in a specified collection.|
+|Name|Description|
 
 ## Properties
 

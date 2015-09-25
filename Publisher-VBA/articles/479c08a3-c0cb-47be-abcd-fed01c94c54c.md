@@ -30,3 +30,4 @@
 | [Quit](db5a02ec-e553-6de1-0e2c-4a9a512e68fe.md)|Quits Microsoft Publisher. This is equivalent to clicking  **Exit** on the **File** menu.|
 | [ShowWizardCatalog](a8307ff9-a6c1-7655-8127-284f3781dae9.md)|Displays the  **Publication Types** catalog for the wizard of the specified type.|
 | [TwipsToPoints](18e1c4da-1295-31a2-d66b-ab0df807b7a6.md)|Converts a measurement from twips to points (20 twips = 1 point). Returns the converted measurement as a  **Single**.|
+|Name|Description|

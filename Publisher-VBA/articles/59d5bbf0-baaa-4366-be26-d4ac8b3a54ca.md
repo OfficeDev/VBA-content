@@ -14,3 +14,4 @@
 | [TableCellRange](d683e830-6bcd-4b53-844b-605fab184a4c.md)|Returns a  **CellRange** object that represents the cells in a table selection.|
 | [TextRange](7de96171-630a-40ae-9e21-92d681601cf2.md)|Returns a  ** [TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)**object that represents the text that is attached to a shape and properties and methods for manipulating the text.|
 | [Type](4dfcfecc-dd76-36b6-21df-34c3865b3064.md)|Returns a  **PbSelectionType** constant that represents the selection type. Read-only.|
+|Name|Description|

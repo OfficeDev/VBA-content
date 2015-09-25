@@ -9,6 +9,7 @@ A collection of  ** [RulerGuide](6400c368-02e9-169c-c675-9416cd361384.md)**objec
 |**Name**|**Description**|
 |:-----|:-----|
 | [Add](3986452a-73da-04c2-4e11-8369d61cd974.md)|Adds a new ruler guide to the specified  **RulerGuides** collection.|
+|Name|Description|
 
 ## Properties
 

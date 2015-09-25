@@ -9,6 +9,7 @@ A collection of all the  **Section** objects in the document.
 |**Name**|**Description**|
 |:-----|:-----|
 | [Add](d5343281-375a-4817-8353-a3fa8925a2ce.md)|Adds a new  **Section** object to the specified **Sections** collection and returns the new **Section** object.|
+|Name|Description|
 
 ## Properties
 

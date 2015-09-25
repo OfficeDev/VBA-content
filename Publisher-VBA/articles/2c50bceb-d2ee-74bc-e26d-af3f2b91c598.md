@@ -10,6 +10,7 @@ The  **WebNavigationBarHyperlinks** represents a collection of all the **Hyperli
 |:-----|:-----|
 | [Add](6cd0c43a-fec1-c9b8-dc86-00e1cc314087.md)|Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks** collection and returns the new **Hyperlink** object. .|
 | [Item](f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661.md)|Returns an individual object in a specified collection.|
+|Name|Description|
 
 ## Properties
 

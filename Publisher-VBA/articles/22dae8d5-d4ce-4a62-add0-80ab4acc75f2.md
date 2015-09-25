@@ -18,3 +18,4 @@
 | [Size](4c7f7302-efd1-02c3-0d95-f9e313e0ae5e.md)|Returns or sets a  **Single** that represents the width of the shadow. Read/write.|
 | [Type](a9b962e5-9487-d27b-72bf-f986d451ead8.md)|Specifies the shadow type of a shape. Read/write.|
 | [Visible](aac38753-320b-7c09-548c-318c8562e393.md)|Returns or sets an  **MsoTriState** constant indicating whether the specified object or the formatting applied to the specified object is visible. Read/write.|
+|Name|Description|

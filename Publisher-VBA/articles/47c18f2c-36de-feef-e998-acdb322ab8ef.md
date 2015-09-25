@@ -9,6 +9,7 @@ Represents a single table column. The  **Column** object is a member of the ** [
 |**Name**|**Description**|
 |:-----|:-----|
 | [Delete](09498d82-e7e3-e301-5f7c-444f0112c480.md)|Deletes the specified object.|
+|Name|Description|
 
 ## Properties
 
