@@ -9,6 +9,7 @@ Provides the ability to obtain the account that is selected in the Microsoft Off
 |**Name**|**Description**|
 |:-----|:-----|
 | [SelectedAccountChange](c99b8a90-eb77-ee58-b11d-c47b665ee02c.md)|Occurs when the user selects a different account in the drop-down list under  **Account Information** on the **Info** tab of the Microsoft Office Backstage view.|
+|Name|Description|
 
 ## Properties
 

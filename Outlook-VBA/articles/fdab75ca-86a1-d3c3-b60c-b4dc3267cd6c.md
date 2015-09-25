@@ -13,6 +13,7 @@ The basic label control, used for displaying text for read-only purposes.
 | [MouseDown](80da9c8c-e743-c37a-3cb7-9a6af24fcac1.md)|Occurs when the user presses a mouse button on the control.|
 | [MouseMove](b956ea54-96cb-d5d1-e542-ea9f464117c7.md)|Occurs after a mouse movement has been registered over the control.|
 | [MouseUp](edc01865-1bbd-5e87-a857-3e91b28167d2.md)|Occurs after the user releases a mouse button that has been pressed on the control.|
+|Name|Description|
 
 ## Properties
 

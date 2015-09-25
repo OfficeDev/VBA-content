@@ -29,6 +29,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 |Width|Optional|FLOAT||
 |Height|Optional|FLOAT||
 |NewLayout|Optional|BOOL||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

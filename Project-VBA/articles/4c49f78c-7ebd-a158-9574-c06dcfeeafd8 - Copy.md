@@ -1,0 +1,12 @@
+
+# PjVerticalAlignment Enumeration (Project)
+
+Contains constants that specify the vertical alignment.
+
+
+
+|**Name**|**Value**|**Description**|
+|:-----|:-----|:-----|
+| **pjBottom**|2|Bottom.|
+| **pjMiddle**|1|Middle.|
+| **pjTop**|0|Top.|

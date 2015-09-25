@@ -19,6 +19,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 |SharePointName|Optional| **Variant**|The name of the new column.|
 |ProjectField|Optional|PJFIELD||
 |SharePointName|Optional|VARIANT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

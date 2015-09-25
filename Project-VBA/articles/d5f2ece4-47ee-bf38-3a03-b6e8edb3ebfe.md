@@ -13,3 +13,4 @@ The  **CalendarDrivers** object is a collection of ** [Resource](eb83ed2f-2415-3
 | [Item](ae65e330-fa3f-399d-8c49-4762e7095a4f.md)|Gets a single  **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.|
 | [Parent](d5d76590-50f3-9289-b8b7-8eafbf166fe7.md)|Gets the parent of the  **CalendarDrivers** object. Read-only **Task**.|
 | [TotalDetectedCount](4795fd3b-ed28-651a-ac86-abe055489832.md)|Gets the total number of calendar drivers that affect the dates of a task. Read-only  **Long**.|
+|Name|Description|

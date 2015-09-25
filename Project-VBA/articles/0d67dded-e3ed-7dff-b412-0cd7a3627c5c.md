@@ -237,3 +237,8 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [Windows2](0f10c401-d09b-82db-60ed-0f2b03b82656.md)|Gets a  ** [Windows2](a58383c6-12c7-81b3-10e8-81ba9180404c.md)** collection representing the open windows in the project. Read-only **Windows2**.|
 | [WriteReserved](0899e9ec-f7ce-5be8-400a-183172b5d4b5.md)| **True** if a password is required to open a project for read/write access. Read-only **Boolean**.|
 | [YearLabelDisplay](b15f8460-45cb-0383-4d70-14c506ea364a.md)|Gets or sets how the year label displays in rates. Read/write  **Integer**.|
+| [Engagements](00ebca26-b9f6-05e4-f0ab-ba54b9dc0124.md)||
+| [LastWssSyncDate](fc8aadd9-0ab1-b0b3-1ebc-7f1ef8dbe945.md)||
+| [Timeline](6e463f3b-28fb-79dc-c51f-c3512183a310.md)||
+| [UtilizationDate](f63aced1-4bdf-585e-ae72-92d6f45699b7.md)||
+| [UtilizationType](5b6aa424-b84d-4ad6-c6e5-d7a54a63a63f.md)||

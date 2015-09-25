@@ -14,3 +14,4 @@
 | [ForeColor](2f397b5f-292c-b2a8-4eb2-6df01e30317f.md)|Returns or sets a  **Long** that indicates the foreground color of the control. Read/write.|
 | [MouseIcon](c819eb95-4d4a-59cf-6ad2-a4df053e6d56.md)|Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.|
 | [MousePointer](6d4e32a5-1218-a351-b3d9-40e3ed1bac03.md)|Returns or sets an  ** [OlMousePointer](527df8bb-000c-f108-0522-2d294858b251.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.|
+|Name|Description|

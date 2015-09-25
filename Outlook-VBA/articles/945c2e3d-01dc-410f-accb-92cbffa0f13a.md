@@ -15,3 +15,4 @@
 | [MoveToStart](af499471-dd21-9374-7399-3ce977368015.md)|Moves the current row of the  ** [Table](0affaafd-93fe-227a-acee-e09a86cadc20.md)** to just before the first row of the **Table**.|
 | [Restrict](ecdd30f6-e12c-8025-3ded-592d2fad2bb8.md)|Applies a filter to the rows in the  ** [Table](0affaafd-93fe-227a-acee-e09a86cadc20.md)** and obtains a new **Table** object.|
 | [Sort](4e4867c2-27b8-f920-59ce-b60116d22054.md)|Sorts the rows of the  ** [Table](0affaafd-93fe-227a-acee-e09a86cadc20.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.|
+|Name|Description|

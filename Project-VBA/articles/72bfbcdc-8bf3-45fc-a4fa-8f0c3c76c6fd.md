@@ -16,3 +16,4 @@
 | [Path](57bd6c44-5a2e-a2c8-c733-4c46e32be780.md)|Gets or sets the path to the source project. Read/write  **String**.|
 | [ReadOnly](a42bc4d7-bd50-5846-76c8-27c32713bfab.md)| **True** if changes in the subproject affect its master project. Read/write **Boolean**.|
 | [SourceProject](4135a5c9-eacb-12d3-b631-1d30d689f666.md)|Gets a  ** [Project](855c1ad9-0e84-f274-9e0e-2424e7cab447.md)** object representing the master project. Read-only **Project**.|
+|Name|Description|

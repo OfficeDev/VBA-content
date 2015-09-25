@@ -9,6 +9,7 @@ Contains a collection of  ** [TimeScaleValue](bea0ad82-a3de-30d8-f191-dc2248c326
 |**Name**|**Description**|
 |:-----|:-----|
 | [Add](083ef154-31ce-55ec-793a-0627c1eff211.md)|Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.|
+|Name|Description|
 
 ## Properties
 

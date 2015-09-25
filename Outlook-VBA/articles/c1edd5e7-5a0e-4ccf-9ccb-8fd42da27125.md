@@ -18,3 +18,4 @@
 | [Save](e5276106-8af8-74a7-08d7-e458c45f6a26.md)|Saves the Microsoft Outlook item to the current folder or, if this is a new item, to the Outlook default folder for the item type.|
 | [SaveAs](8aca7d40-87d9-5891-9a9e-ed995053ceb3.md)|Saves the Microsoft Outlook item to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.|
 | [ShowCategoriesDialog](aab791fe-f232-b4de-3819-7cdab484f75d.md)|Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.|
+|Name|Description|

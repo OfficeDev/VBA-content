@@ -22,6 +22,7 @@ Version Added: Outlook 2013
 |:-----|:-----|:-----|:-----|
 |||||
 |Cancel|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the read operation is not completed and the item is not displayed in the Reading Pane or inspector.|
+|Name|Required/Optional|Data type|Description|
 
 ## Remarks
 

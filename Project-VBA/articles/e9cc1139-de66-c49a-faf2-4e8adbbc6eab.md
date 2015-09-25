@@ -16,6 +16,7 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |FlipCmd|Required| ** [MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)**|Specifies whether the shape is to be flipped horizontally or vertically.|
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

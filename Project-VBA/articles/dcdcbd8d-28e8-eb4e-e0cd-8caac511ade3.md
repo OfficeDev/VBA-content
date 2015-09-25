@@ -19,6 +19,7 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 |Col|Required| **Long**|The column number in the table.|
 |Row|Required|INT||
 |Col|Required|INT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

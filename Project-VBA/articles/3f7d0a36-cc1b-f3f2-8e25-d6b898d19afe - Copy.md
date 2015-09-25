@@ -1,0 +1,17 @@
+
+# Application.ViewShowResourcesPredecessors Method (Project)
+
+Displays information about resource assignments and predecessor tasks in the active task details view.
+
+
+## Syntax
+
+ _expression_. **ViewShowResourcesPredecessors**
+
+ _expression_A variable that represents an  **Application** object.
+
+
+### Return Value
+
+ **Boolean**
+

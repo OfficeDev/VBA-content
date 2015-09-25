@@ -34,3 +34,4 @@ This object has the following events:
 | [Send](6b2ddae1-8732-c6d2-8dff-585118c3d051.md)|Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).|
 | [Unload](8d105e1a-4923-4296-10b1-6e26fed51539.md)|Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. |
 | [Write](a38eef6b-23da-ba10-ad94-cc63e2bf60c2.md)|Occurs when an instance of the parent object is saved, either explicitly (for example, using the  ** [Save](0f4e57ab-388c-7ba1-c6b8-f14bfc0ac73c.md)** or ** [SaveAs](1c2c7b68-5239-05f8-4291-d2584fe95194.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).|
+|Name|Description|

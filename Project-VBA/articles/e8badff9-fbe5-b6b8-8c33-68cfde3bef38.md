@@ -17,6 +17,7 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 |:-----|:-----|:-----|:-----|
 |ZOrderCmd|Required| ** [MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape relative to the other shapes.|
 |ZOrderCmd|Required|MSOZORDERCMD||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

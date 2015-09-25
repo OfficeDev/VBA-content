@@ -13,6 +13,7 @@ A control that provides an area to display specific information on a custom form
 | [MouseDown](a158b599-0f02-49e4-f4fe-5495540a3676.md)|Occurs when the user presses a mouse button on the control.|
 | [MouseMove](a82e3703-27cf-7aa4-1106-614803ea599c.md)|Occurs after a mouse movement has been registered over the control.|
 | [MouseUp](daff2dbd-0da7-e5b0-7425-8aaf325b4b8a.md)|Occurs after the user releases a mouse button that has been pressed on the control.|
+|Name|Description|
 
 ## Properties
 

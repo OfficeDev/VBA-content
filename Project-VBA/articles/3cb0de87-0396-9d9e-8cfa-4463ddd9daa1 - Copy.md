@@ -1,0 +1,12 @@
+
+# Resource.Work Property (Project)
+
+Gets the work (in minutes) for the resource. Read-only  **Variant**.
+
+
+## Syntax
+
+ _expression_. **Work**
+
+ _expression_A variable that represents a  **Resource** object.
+

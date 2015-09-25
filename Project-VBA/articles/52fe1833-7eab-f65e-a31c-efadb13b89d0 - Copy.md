@@ -1,0 +1,17 @@
+
+# Project.DeliverableRefreshServerCache Method (Project)
+
+Checks for updates on the server and refreshes the cache for deliverable and dependencies for the project.
+
+
+## Syntax
+
+ _expression_. **DeliverableRefreshServerCache**
+
+ _expression_A variable that represents a  **Project** object.
+
+
+### Return Value
+
+ **Boolean**
+

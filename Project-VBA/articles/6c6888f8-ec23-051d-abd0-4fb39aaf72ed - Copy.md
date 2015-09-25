@@ -1,0 +1,12 @@
+
+# Task.Duration2 Property (Project)
+
+ Gets or sets the value of a task duration custom field. Read/write **Variant**.
+
+
+## Syntax
+
+ _expression_. **Duration2**
+
+ _expression_A variable that represents a  **Task** object.
+

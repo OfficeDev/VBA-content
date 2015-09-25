@@ -1,0 +1,12 @@
+
+# Resource.Duration4 Property (Project)
+
+ Gets or sets the value of a resource duration custom field. Read/write **Variant**.
+
+
+## Syntax
+
+ _expression_. **Duration4**
+
+ _expression_A variable that represents a  **Resource** object.
+

@@ -17,6 +17,7 @@ Moves the shape horizontally by the specified number of points.
 |:-----|:-----|:-----|:-----|
 |Increment|Required| **Single**|Specifies how far the shape is to be moved horizontally, in points. A positive value moves the shape to the right; a negative value moves it to the left.|
 |Increment|Required|FLOAT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

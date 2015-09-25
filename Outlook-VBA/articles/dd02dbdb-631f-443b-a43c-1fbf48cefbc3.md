@@ -101,3 +101,4 @@
 | [Type](1077b74f-38ee-8932-792d-64033bc66525.md)|Returns or sets an  ** [OlSharingMsgType](c7764f85-5e33-9087-cf8f-3a90a9f78687.md)** constant that indicates the type of sharing message represented by the ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.|
 | [UnRead](c0bec94f-1d1b-efaf-f3a8-dfb7113aeb1b.md)|Returns or sets a  **Boolean** value that is **True** if the ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**has not been opened (read). Read/write.|
 | [UserProperties](bc224a0e-c602-a0cc-cb0b-820102957e61.md)|Returns the  ** [UserProperties](20b49c86-d74f-9bda-382c-559af278c148.md)**collection that represents all the user properties for the  ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read-only.|
+|Name|Description|
