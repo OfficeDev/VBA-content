@@ -10,6 +10,7 @@ Represents a table column. The  **Column** object is a member of the ** [Columns
 |:-----|:-----|
 | [Delete](c9b7c6d5-1248-fe34-5185-efdfebcfef20.md)|Deletes the specified  **Column** object.|
 | [Select](cf50565f-3f7f-3630-aa66-ab1a01d414bb.md)|Selects the specified object.|
+|Name|Description|
 
 ## Properties
 

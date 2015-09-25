@@ -19,6 +19,7 @@ Returns an individual chart category.
 |:-----|:-----|:-----|:-----|
 |Index|Required| **VARIANT**|The name or index number for the object.|
 |Index|Required|VARIANT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

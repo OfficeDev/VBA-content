@@ -41,3 +41,4 @@ This object has the following events:
 | [WindowBeforeRightClick](e6239915-f487-3619-c84f-d436d645e6c0.md)|Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the  **MouseUp** event.|
 | [WindowDeactivate](89bf2c09-a1a8-ed7f-74d5-49f8f7c027a7.md)|Occurs when the application window or any document window is deactivated.|
 | [WindowSelectionChange](069f4afe-2302-28fa-4d86-57afe8c3c2ab.md)|Occurs when the selection of text, a shape, or a slide in the active document window changes, whether in the user interface or in code.|
+|Name|Description|

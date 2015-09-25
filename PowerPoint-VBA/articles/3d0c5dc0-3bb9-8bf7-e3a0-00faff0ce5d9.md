@@ -15,3 +15,4 @@
 | [Parent](b83fd852-e015-04f8-9856-ce018c23b848.md)|Returns the parent object for the specified object.|
 | [Relative](2675d451-6123-d9df-8c83-a009037d5108.md)|Determines whether to set the motion position relative to the position of the shape. Read/write.|
 | [Size](cdc1845d-0c6e-36f8-f22e-296aefcc974a.md)|Returns or sets the character size, in points. Read/write.|
+|Name|Description|

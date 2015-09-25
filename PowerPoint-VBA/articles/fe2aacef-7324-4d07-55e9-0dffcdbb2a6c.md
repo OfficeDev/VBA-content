@@ -24,6 +24,7 @@ Represents the view in a slide show window.
 | [Player](d7bb6b02-516b-07bb-42b4-ae245ce20262.md)|Allows access to playback controls for the associated view in the current window.|
 | [Previous](a53741b0-8325-696c-51e5-ffd3f9358ca8.md)|Shows the slide immediately preceding the slide that's currently displayed. |
 | [ResetSlideTime](aa00c585-d3c3-9cdc-860d-8c1f2f0a6ef3.md)|Resets the elapsed time (represented by the  ** [SlideElapsedTime](e9250ea3-c37e-ebed-c8a8-9774dab77f37.md)** property) for the slide that's currently displayed to 0 (zero).|
+|Name|Description|
 
 ## Properties
 
@@ -51,3 +52,4 @@ Represents the view in a slide show window.
 | [SlideShowName](63efa2d8-7321-dc72-3c25-ab5ab4ba5c0a.md)|Returns the name of the custom slide show that's currently running in the specified slide show view. Read-only.|
 | [State](749fe106-fed4-6ccc-f127-2e8a80196309.md)|Returns or sets the state of the slide show. Read/write.|
 | [Zoom](92a303f0-b37f-a017-bedb-6537e235f753.md)|Returns the zoom setting of the specified slide show window view as a percentage of normal size. Read-only.|
+| [LaserPointerEnabled](9ba56542-a2bf-28d2-9609-50f9a4144c91.md)||

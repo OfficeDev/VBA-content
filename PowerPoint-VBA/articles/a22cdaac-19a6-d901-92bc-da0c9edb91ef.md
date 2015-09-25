@@ -19,6 +19,7 @@ Returns all the categories in the chart group, or the specified category, whethe
 |:-----|:-----|:-----|:-----|
 |Index|Optional| **Variant**|The index number in the full category collection of the category to return.|
 |Index|Optional|VARIANT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

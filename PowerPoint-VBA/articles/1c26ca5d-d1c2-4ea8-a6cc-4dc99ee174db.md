@@ -20,3 +20,4 @@
 | [Type](24779d38-87e6-c416-10ec-5dadb44e30b0.md)|Represents the type of view. Read-only.|
 | [Zoom](83624f62-0da8-ad96-d887-7f87cb4cacd2.md)|Returns or sets the zoom setting of the specified view as a percentage of normal size. Read/write.|
 | [ZoomToFit](b35e3466-c135-bc5f-40d6-0331cf642b12.md)|Determines whether the view is zoomed to fit the dimensions of the document window every time the document window is resized. Read/write.|
+|Name|Description|

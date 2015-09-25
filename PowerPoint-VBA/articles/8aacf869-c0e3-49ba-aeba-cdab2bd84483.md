@@ -37,3 +37,4 @@
 | [RotationZ](c77cc93b-9ab2-ccae-c84b-26716c152659.md)|Returns or sets the rotation of the effects camera for the specified  **ThreeDFormat** object, in degrees. Read/write.|
 | [Visible](58166845-5448-784f-68d3-beec76738415.md)|Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.|
 | [Z](2c07809e-945c-f031-8657-33458daca8bb.md)|Returns or sets the distance the specified  **ThreeDFormat** object is moved away from the ground plane, in points. Read/write.|
+|Name|Description|

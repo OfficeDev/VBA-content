@@ -34,6 +34,7 @@ Contains the text that's attached to a shape, and properties and methods for man
 | [Sentences](c3640cb8-f78a-2934-bbe0-506cb8d2534c.md)|Returns a  **TextRange** object that represents the specified subset of text sentences.|
 | [TrimText](8566ed9d-c73a-d699-bcb7-edcd9a375afe.md)|Returns a  **TextRange** object that represents the specified text minus any trailing spaces.|
 | [Words](b8cd8dca-bf10-1041-dd9e-adc04b2df42d.md)|Returns a  ** [TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object that represents the specified subset of text words.|
+|Name|Description|
 
 ## Properties
 
