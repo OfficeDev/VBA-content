@@ -18,3 +18,4 @@
 | [Shapes](c8a6dd3f-830e-342c-39c1-a86a54c475d4.md)|Returns the shape range associated with this  **SmartArtNode** object. Read-only|
 | [TextFrame2](550a5bd1-bb9d-3ffb-ed14-4687dfcc3f62.md)|Returns the text associated with the  **SmartArtNode** object. Read-only|
 | [Type](5ae74ec5-31db-4ed7-5398-a7cbd383b2a9.md)|Retrieves the type of SmartArt node. Read-only|
+|Name|Description|

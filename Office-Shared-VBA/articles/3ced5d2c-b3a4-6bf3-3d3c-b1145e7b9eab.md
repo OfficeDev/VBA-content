@@ -24,6 +24,7 @@ This method applies only to data labels in a chart. Calling this method on any o
 |ChartFieldType|Required|MSOCHARTFIELDTYPE||
 |Formula|Optional|STRING||
 |Position|Optional|INT||
+|Name|Required/Optional|Data type|Description|
 
 ### Return value
 

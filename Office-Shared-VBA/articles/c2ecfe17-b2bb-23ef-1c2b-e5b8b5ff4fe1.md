@@ -10,6 +10,7 @@ A collection of values of the type  **msoFileType** that determine which types o
 |:-----|:-----|
 | [Add](4febf3e9-8ed5-b92b-ae0c-e5f804b27039.md)|Adds a new file type to a file search.|
 | [Remove](1c2d55c5-9f57-e9aa-f145-3ff61c69fb69.md)|Removes a  **FileType** object from the collection.|
+|Name|Description|
 
 ## Properties
 

@@ -13,3 +13,4 @@
 | [Item](801adcf2-ed06-fbe3-39c6-15fcc72c25fb.md)|Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shared workspace. Read-only.|
 | [ItemCountExceeded](4a33fbae-1a7d-9d66-960b-e631b8d07316.md)|Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceTasks** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.|
 | [Parent](6180c0e7-0493-fa21-5461-8f5a38e13fae.md)|Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.|
+|Name|Description|

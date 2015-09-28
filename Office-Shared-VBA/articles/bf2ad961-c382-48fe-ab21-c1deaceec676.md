@@ -20,3 +20,4 @@
 | [SignatureImage](4a0fa820-5e65-36c6-1f0c-d5d98c4e8fb1.md)|Gets or sets the value of the image used to sign the document. Read/write.|
 | [SignatureProvider](e426f4c6-95f7-dc3f-752d-0fee56bc2c65.md)|Gets a value identifying an installed signature provider add-in. Read-only.|
 | [SignatureText](09b6b780-aa04-32fd-bb13-a2202f5e7cb6.md)|Gets or sets the value of the signature text used to sign this document. Read/write.|
+|Name|Description|

@@ -12,3 +12,4 @@
 | [DataHandlerId](6c494116-74a2-1fdc-bc1c-033191adfca1.md)|Sets or gets the GUID of the Picker Dialog data handler component. Read/write|
 | [Properties](053b5d62-9d9a-68ed-c7ed-cf4df7053ecc.md)|Returns the ** PickerProperties** object to specify custom properties for data handler component. Read-only|
 | [Title](76531e47-91a4-4d82-7825-ab900c5bf8e2.md)|Set or returns the title of a picker dialog displayed in the Picker Dialog. Read/write|
+|Name|Description|

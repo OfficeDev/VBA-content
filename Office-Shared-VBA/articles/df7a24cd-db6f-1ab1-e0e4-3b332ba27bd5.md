@@ -9,6 +9,7 @@ Represents a Picture Effect.
 |**Name**|**Description**|
 |:-----|:-----|
 | [Delete](cd107111-0866-fa75-bdbf-6a0cc562c815.md)|Deletes a Picture Effect.|
+|Name|Description|
 
 ## Properties
 
