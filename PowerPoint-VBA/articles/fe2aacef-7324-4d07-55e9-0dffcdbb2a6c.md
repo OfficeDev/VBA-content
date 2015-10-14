@@ -13,7 +13,7 @@ Represents the view in a slide show window.
 | [EraseDrawing](d1ccb77b-c591-f3ec-bb88-1f317f057103.md)|Removes lines drawn during a slide show by using either the  ** [DrawLine](d4c3c1c9-cd12-67ba-b1b9-4d7e924bd084.md)**method or the pen tool.|
 | [Exit](9abcb628-395b-02bf-3a61-d0c7b8429741.md)|Ends the specified slide show.|
 | [First](5f360832-2deb-b3df-7b55-5a3c964d0057.md)|Sets the specified slide show view to display the first slide in the presentation.|
-| [FirstAnimationIsAutomatic](689b2dfc-a441-51c6-9eea-de99194ba203.md)|Returns  **True** if the current slide has an initial animation that runs automically.|
+| [FirstAnimationIsAutomatic](689b2dfc-a441-51c6-9eea-de99194ba203.md)|Returns  **True** if the current slide has an initial animation that runs automatically.|
 | [GetClickCount](3df28d31-4da1-1ea3-e1d6-5ff334018ebc.md)|Returns the number of mouse clicks that are defined for a slide.|
 | [GetClickIndex](678feca3-79d4-e4e8-83aa-3484f5c099e9.md)|Returns the index number of the current mouse click for an animation that is actively playing on a slide or has just finished.|
 | [GotoClick](b41dec86-96a9-447a-5895-0b28fc4bd6b2.md)|Plays an animation associated with a specified mouse click and any animations that follow on the slide.|
