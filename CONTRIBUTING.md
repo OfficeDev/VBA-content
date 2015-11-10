@@ -47,7 +47,7 @@ As a community member, **you must sign the Contribution License Agreement (CLA) 
 
 ### What happens with my contributions?
 
-Once you have submitted your changes, our team will be notified immediately and will respond to your change request. You will receive notifications about your change request from GitHub; you may also be notified by someone from our team if we need more information. If your pull request is approved, we'll update the documentation on GitHub and on MSDN.
+When you submit your changes, our team will be notified immediately and will respond to your change request. You will receive notifications about your change request from GitHub; you may also be notified by someone from our team if we need more information. If your pull request is approved, we'll update the documentation on GitHub and on MSDN. We might make edits to your submission for style or clarity.
 
 ### Who approves pull requests?
 
