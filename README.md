@@ -12,7 +12,9 @@ In addition to the online reference content for VBA, we also have offline copies
 To open the CHM file, double-click the file in Windows Explorer at the disk location where you saved it.
 
 ### Troubleshooting: If No Content is Shown When You Open the CHM file
-<b>Note:</b> The CHM file must be on your local drive. If the reading pane is empty when you select a node in the help file’s table of contents, do the following to resolve the issue:
+<b>Note:</b> The CHM file must be on your local drive.
+
+If the reading pane is empty when you select a node in the help file’s table of contents, do the following to resolve the issue:
 
 1. Close the CHM file.
 2. In Windows Explorer, right click the CHM file, and then click Properties.
