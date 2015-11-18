@@ -2,7 +2,9 @@
 The content in the VBA repository is grouped first by product, then by topic. The README.md file at the root of each topic directory specifies the structure of the articles within the topic. For more information about contributing to the VBA documentation see the [Contributers Kit](https://github.com/OfficeDev/VBA-content/blob/master/CONTRIBUTING.md).
 
 ## Download the VBA references
-In addition to the online reference content for VBA, we also have offline copies for some of the products. The VBA references available include:
+In addition to the online reference content for VBA, we also have offline copies for some of the products. Note that these offline CHMs represent a snapshot of the content as of 11/5/15; for the latest updates, always view the content on GitHub or MSDN. You can also use the Export feature on MSDN to create your own offline documentation.
+
+The VBA references available include:
 
 + Access - http://aka.ms/access2016vba
 + Excel - http://aka.ms/excel2016vba
