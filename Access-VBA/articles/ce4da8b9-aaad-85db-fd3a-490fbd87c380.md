@@ -1,14 +1,14 @@
 
 # Control.VerticalAnchor Property (Access)
 
-Gets or sets an  ** [AcVerticalAnchor](08f16c8b-1566-cfad-795a-cb65a91c4e52.md)** constant that indicates how the specified control is anchored vertically within its layout. Read/write.
+Gets or sets an  [AcVerticalAnchor](08f16c8b-1566-cfad-795a-cb65a91c4e52.md) constant that indicates how the specified control is anchored vertically within its layout. Read/write.
 
 
 ## Syntax
 
  _expression_. **VerticalAnchor**
 
- _expression_A variable that represents a  **Control** object.
+ _expression_. A variable that represents a  **Control** object.
 
 
 ## Remarks
