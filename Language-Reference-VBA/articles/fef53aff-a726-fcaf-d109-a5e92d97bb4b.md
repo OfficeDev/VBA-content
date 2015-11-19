@@ -1,7 +1,8 @@
 
 # Character Set (128 - 255)
 
-
+|code|char|code|char|code|char|code|char|
+|----|----|----|----|----|----|----|----|
 |128|€|160|[space]|192|À|224|à|
 |129|€|161|¡|193|Á|225|á|
 |130|€|162|¢|194||226|â|
@@ -34,7 +35,8 @@
 |157|€|189|½|221|Ý|253|ý|
 |158|€|190|¾|222|Þ|254|þ|
 |159|€|191|¿|223|ß|255|ÿ|
-€These characters aren't supported by Microsoft Windows.
+
+These characters aren't supported by Microsoft Windows.
 
 The values in the table are the Windows default. However, values in the ANSI character set above 127 are determined by the code page specific to your operating system.
 
