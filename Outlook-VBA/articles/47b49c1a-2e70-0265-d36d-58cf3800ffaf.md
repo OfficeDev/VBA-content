@@ -22,7 +22,7 @@ Occurs when the user selects the  **Reply** action for an item (which is an inst
 
 ## Remarks
 
-Returns the reply as a  ** [MailItem](14197346-05d2-0250-fa4c-4a6b07daf25f.md)** object.
+Returns the reply as a  **[MailItem](14197346-05d2-0250-fa4c-4a6b07daf25f.md)** object.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the reply action is not completed and the new item is not displayed.
 

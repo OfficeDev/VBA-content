@@ -22,7 +22,7 @@ Adds an additional item to a multiple item page field.
 
 ## Remarks
 
-To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  ** [EnableMultiplePageItems](989fa662-cafb-00a1-effb-4a6c18327ea3.md)**property must be set to  **True**.
+To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  **[EnableMultiplePageItems](989fa662-cafb-00a1-effb-4a6c18327ea3.md)** property must be set to  **True**.
 
 
 ## Example

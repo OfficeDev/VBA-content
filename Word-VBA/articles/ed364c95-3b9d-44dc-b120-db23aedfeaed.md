@@ -8,7 +8,7 @@ Shrinks the selection to the next smaller unit of text.
 
  _expression_. **Shrink**
 
- _expression_A variable that represents a  ** [Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
+ _expression_A variable that represents a  **[Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
 
 
 ## Remarks

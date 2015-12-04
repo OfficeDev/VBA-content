@@ -8,7 +8,7 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 
  _expression_. **Top**
 
- _expression_A variable that represents a  ** [ChartArea](2c8bd84e-18e7-6417-de4d-d643064e20f5.md)** object.
+ _expression_A variable that represents a  **[ChartArea](2c8bd84e-18e7-6417-de4d-d643064e20f5.md)** object.
 
 
 ## See also

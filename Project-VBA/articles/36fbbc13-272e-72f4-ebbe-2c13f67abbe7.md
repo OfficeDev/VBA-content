@@ -17,7 +17,7 @@ Returns the value of the specified resource custom field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FieldID|Required| **Long**|For a local custom field, can be one of the  ** [PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constants for resource custom fields. For an enterprise custom field, use the ** [FieldNameToFieldConstant](0830db06-22a7-3ca5-c9ca-f9efbc360767.md)** method to get the FieldID.|
+|FieldID|Required| **Long**|For a local custom field, can be one of the  **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](0830db06-22a7-3ca5-c9ca-f9efbc360767.md)** method to get the FieldID.|
 
 ### Return Value
 
@@ -52,5 +52,5 @@ Sub DisplayField()
 End Sub
 ```
 
-For an example that uses an enterprise resource custom field, see the  ** [SetField](9ac1e770-8716-2954-4459-7f5ff090e2ed.md)** method.
+For an example that uses an enterprise resource custom field, see the  **[SetField](9ac1e770-8716-2954-4459-7f5ff090e2ed.md)** method.
 

@@ -6,7 +6,7 @@ Represents a legend entry in a chart legend.
 
 ## Remarks
 
- The **LegendEntry** object is a member of the ** [LegendEntries](ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd.md)** collection. The **LegendEntries** collection contains all the **LegendEntry** objects in the legend.
+ The **LegendEntry** object is a member of the **[LegendEntries](ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd.md)** collection. The **LegendEntries** collection contains all the **LegendEntry** objects in the legend.
 
  Each legend entry has two parts:
 
@@ -19,13 +19,13 @@ Represents a legend entry in a chart legend.
     
 
 
-The formatting properties for the entry marker and its associated series or trendline are contained in the  ** [LegendKey](98e8b9c3-b53e-9595-9389-6f92a6d730f4.md)** object.
+The formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](98e8b9c3-b53e-9595-9389-6f92a6d730f4.md)** object.
 
 The text of a legend entry cannot be changed.  **LegendEntry** objects support font formatting, and they can be deleted. No pattern formatting is supported for legend entries. The position and size of entries is fixed.
 
 There is no direct way to return the series or trendline that corresponds to the legend entry.
 
-After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  ** [HasLegend](084f7de3-b0ed-d7b3-3b24-465e74afa167.md)** property for the chart to **False** and then back to **True**.
+After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](084f7de3-b0ed-d7b3-3b24-465e74afa167.md)** property for the chart to **False** and then back to **True**.
 
 
 ## Example

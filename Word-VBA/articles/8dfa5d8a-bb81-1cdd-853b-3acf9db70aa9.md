@@ -1,12 +1,12 @@
 
 # Dialogs Object (Word)
 
-A collection of  ** [Dialog](f90f6e6d-aaa0-c127-ab37-ca074144eff1.md)**objects in Word. Each  **Dialog** object represents a built-in Word dialog box.
+A collection of  **[Dialog](f90f6e6d-aaa0-c127-ab37-ca074144eff1.md)** objects in Word. Each  **Dialog** object represents a built-in Word dialog box.
 
 
 ## Remarks
 
-Use the  ** [Dialogs](17acdfab-32d2-ddb8-04aa-692f9ffb20b8.md)** property to return the **Dialogs** collection. The following example displays the number of available built-in dialog boxes.
+Use the  **[Dialogs](17acdfab-32d2-ddb8-04aa-692f9ffb20b8.md)** property to return the **Dialogs** collection. The following example displays the number of available built-in dialog boxes.
 
 
 ```

@@ -1,7 +1,7 @@
 
 # Stores.StoreAdd Event (Outlook)
 
-Occurs when a  ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** has been added to the current session either programmatically or through user action.
+Occurs when a  **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** has been added to the current session either programmatically or through user action.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ This event will not fire when any of the following occurs:
     
 
 
-You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the  ** [Stores](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)** collection.
+You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the  **[Stores](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)** collection.
 
 
 ## See also

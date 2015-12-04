@@ -8,7 +8,7 @@
 
  _expression_. **VerticalFlip**
 
- _expression_Required. A variable that represents a  ** [ShapeRange](7112acc0-e241-16ef-77bc-101b72d05af0.md)** object.
+ _expression_Required. A variable that represents a  **[ShapeRange](7112acc0-e241-16ef-77bc-101b72d05af0.md)** object.
 
 
 ## Example

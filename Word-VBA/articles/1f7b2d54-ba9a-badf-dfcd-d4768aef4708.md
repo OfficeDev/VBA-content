@@ -19,7 +19,7 @@ Represents the legend in a chart. Each chart can have only one legend.
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](146098ae-7602-462c-2403-cadb2917f852.md)|When used without an object qualifier, returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)**object that represents the Microsoft Word application. When used with an object qualifier, returns an  **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.|
+| [Application](146098ae-7602-462c-2403-cadb2917f852.md)|When used without an object qualifier, returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an  **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.|
 | [Creator](568358ae-42bd-6f49-e7c5-75e3e318aed8.md)|Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.|
 | [Format](6afa55a1-daea-28fc-fe2f-f4b1ca918ed0.md)|Returns the line, fill, and effect formatting for the object. Read-only  ** [ChartFormat](5f6546e8-c2fd-eec5-27a9-f2fd2c058f16.md)**.|
 | [Height](0fc393d2-e088-0ff2-5be0-5d4b88e488ec.md)|Returns or sets the height, in points, of the object. Read/write  **Double**.|

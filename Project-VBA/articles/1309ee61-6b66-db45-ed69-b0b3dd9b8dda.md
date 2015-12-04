@@ -17,7 +17,7 @@ Sets the value of a resource field specified by the field identification number.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FieldID|Required| **PjField**|Field identification number. Can be one of the resource fields specified by a  ** [PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constant or a number returned by the ** [FieldNameToFieldConstant](0830db06-22a7-3ca5-c9ca-f9efbc360767.md)** method.|
+|FieldID|Required| **PjField**|Field identification number. Can be one of the resource fields specified by a  **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constant or a number returned by the **[FieldNameToFieldConstant](0830db06-22a7-3ca5-c9ca-f9efbc360767.md)** method.|
 |Value|Required| **String**|The value of the resource field.|
 |AllSelectedResources|Optional| **Boolean**| **True** if the value of the field is set for all selected resources. **False** if the value is set for the active resource. The default value is **False**.|
 |Create|Optional| **Boolean**| **True** if Project should create a resource if the active cell is on an empty row. The default value is **True**.|
@@ -31,5 +31,5 @@ Sets the value of a resource field specified by the field identification number.
 
 ## Remarks
 
-To set a resource field by name, use the  ** [SetResourceField](fbf71bbe-86cc-c53c-a0c3-0df288e2b480.md)** method.
+To set a resource field by name, use the  **[SetResourceField](fbf71bbe-86cc-c53c-a0c3-0df288e2b480.md)** method.
 

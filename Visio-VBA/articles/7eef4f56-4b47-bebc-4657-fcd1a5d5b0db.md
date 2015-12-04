@@ -32,7 +32,7 @@ The  **Export** method of a **Page** object supports saving to HTML file format 
 
 If the specified file already exists, Visio replaces it without prompting the user.
 
-Starting with Visio, you can use various properties and methods of the  ** [ApplicationSettings](f2e24211-ecc6-e0f5-4c00-fc50f98a3505.md)** object that relate to raster images to configure settings for export to .bmp, .gif, .jpg, .png, and .tif file types.
+Starting with Visio, you can use various properties and methods of the  **[ApplicationSettings](f2e24211-ecc6-e0f5-4c00-fc50f98a3505.md)** object that relate to raster images to configure settings for export to .bmp, .gif, .jpg, .png, and .tif file types.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 

@@ -1,7 +1,7 @@
 
 # Range.PasteSpecial Method (Excel)
 
-Pastes a  ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** from the Clipboard into the specified range.
+Pastes a  **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** from the Clipboard into the specified range.
 
 
 ## Syntax

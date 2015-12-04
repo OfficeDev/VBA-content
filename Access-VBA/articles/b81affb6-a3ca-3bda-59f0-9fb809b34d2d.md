@@ -45,7 +45,7 @@ The body of a procedure begins with the procedure definition, denoted by one of 
     
 - A  **Property Set** statement.
     
-The  **ProcBodyLine** property returns a number that identifies the line on which the procedure definition begins. In contrast, the ** [ProcStartLine](ef9a1ab4-f992-5077-b52b-d16cba10f697.md)**property returns a number that identifies the line at which a procedure is separated from the preceding procedure in a module. Any comments or compilation constants that precede the procedure definition (the body of a procedure) are considered part of the procedure, but the  **ProcBodyLine** property ignores them.
+The  **ProcBodyLine** property returns a number that identifies the line on which the procedure definition begins. In contrast, the **[ProcStartLine](ef9a1ab4-f992-5077-b52b-d16cba10f697.md)** property returns a number that identifies the line at which a procedure is separated from the preceding procedure in a module. Any comments or compilation constants that precede the procedure definition (the body of a procedure) are considered part of the procedure, but the  **ProcBodyLine** property ignores them.
 
 
  **Note**  The  **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.

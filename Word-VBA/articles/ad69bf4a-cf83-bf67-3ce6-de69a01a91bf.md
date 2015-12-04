@@ -8,7 +8,7 @@ Returns a  **Long** that represents the number of inline shapes in the collectio
 
  _expression_. **Count**
 
- _expression_Required. A variable that represents an  ** [InlineShapes](88c632b2-80de-c96a-8879-a98461b38bd0.md)** collection.
+ _expression_Required. A variable that represents an  **[InlineShapes](88c632b2-80de-c96a-8879-a98461b38bd0.md)** collection.
 
 
 ## See also

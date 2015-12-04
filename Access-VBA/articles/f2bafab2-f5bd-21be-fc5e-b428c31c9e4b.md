@@ -1,7 +1,7 @@
 
 # Printer.PaperSize Property (Access)
 
-Returns or sets an  ** [AcPrintPaperSize](16730547-b26d-852d-88d2-39a7a66a5463.md)**constant indicating the paper size to use when printing. Read/write.
+Returns or sets an  **[AcPrintPaperSize](16730547-b26d-852d-88d2-39a7a66a5463.md)** constant indicating the paper size to use when printing. Read/write.
 
 
 ## Syntax

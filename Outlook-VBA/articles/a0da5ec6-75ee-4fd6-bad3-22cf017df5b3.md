@@ -14,7 +14,7 @@ This object has the following events:
 | [AttachmentRemove](c921bdd1-f922-8cd4-a31c-fd880b447099.md)|Occurs when an attachment has been removed from an instance of the parent object.|
 | [BeforeAttachmentAdd](cd440e8a-c79a-d1b4-9d03-940b2f3fa50b.md)|Occurs before an attachment is added to an instance of the parent object.|
 | [BeforeAttachmentPreview](687c0c41-c423-a30f-3fb6-562c2ab76f0c.md)|Occurs before an attachment associated with an instance of the parent object is previewed.|
-| [BeforeAttachmentRead](22ed23a8-42a5-09bd-73b9-10591bfa7de9.md)|Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  ** [Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)** object.|
+| [BeforeAttachmentRead](22ed23a8-42a5-09bd-73b9-10591bfa7de9.md)|Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)** object.|
 | [BeforeAttachmentSave](554f3e7d-9757-c044-2cfd-56614be6b27b.md)|Occurs just before an attachment is saved.|
 | [BeforeAttachmentWriteToTempFile](09ec6f62-e5c6-1884-ba77-e4865978d0ba.md)|Occurs before an attachment associated with an instance of the parent object is written to a temporary file.|
 | [BeforeAutoSave](3aaf57a3-bcc2-d0ba-6fd9-d801452dc4ca.md)|Occurs before the item is automatically saved by Outlook.|
@@ -33,5 +33,5 @@ This object has the following events:
 | [ReplyAll](b60ee051-6fb7-3572-e359-57093495adb2.md)|Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).|
 | [Send](7e77c1c3-f6dd-13d1-ed76-b37e7dd6e82a.md)|Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).|
 | [Unload](e634c3f3-e637-f18c-0f7e-2e5cb18566a3.md)|Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. |
-| [Write](ae8c445f-cf46-9544-7073-bf08638b9247.md)|Occurs when an instance of the parent object is saved, either explicitly (for example, using the  ** [Save](0cb1716d-6e53-6188-0feb-3c4ece9ab0a6.md)** or ** [SaveAs](b9264e62-1302-617f-4c9d-74844c96a38d.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).|
+| [Write](ae8c445f-cf46-9544-7073-bf08638b9247.md)|Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](0cb1716d-6e53-6188-0feb-3c4ece9ab0a6.md)** or **[SaveAs](b9264e62-1302-617f-4c9d-74844c96a38d.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).|
 |Name|Description|

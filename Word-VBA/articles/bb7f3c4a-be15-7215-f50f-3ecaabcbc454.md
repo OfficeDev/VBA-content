@@ -8,7 +8,7 @@ Returns the font of the specified object. Read-only  ** [ChartFont](2ca7fb97-fa2
 
  _expression_. **Font**
 
- _expression_A variable that represents a  ** [ChartCharacters](cffe50a7-3fdc-75ad-2e32-081ba2310c1d.md)** object.
+ _expression_A variable that represents a  **[ChartCharacters](cffe50a7-3fdc-75ad-2e32-081ba2310c1d.md)** object.
 
 
 ## See also

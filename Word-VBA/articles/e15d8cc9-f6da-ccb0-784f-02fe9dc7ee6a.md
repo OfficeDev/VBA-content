@@ -8,7 +8,7 @@ Returns or sets the default format that will appear in the  **Save as type** box
 
  _expression_. **DefaultSaveFormat**
 
- _expression_An expression that represents a  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_An expression that represents a  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ## Remarks
@@ -27,7 +27,7 @@ The string used with this property is the file converter class name. The class n
 |MS-DOS Text with Line Breaks|"8CRText"|
 |Rich Text Format|"Rtf"|
 |Unicode Text|"Unicode"|
-Use the  ** [ClassName](71124adf-11fc-e42d-a9f5-940f7fea97af.md)**property of the  ** [FileConverter](41af2a9b-75cc-253d-4954-4fb42c88530f.md)** object to determine the class name of an external file converter.
+Use the  **[ClassName](71124adf-11fc-e42d-a9f5-940f7fea97af.md)** property of the  **[FileConverter](41af2a9b-75cc-253d-4954-4fb42c88530f.md)** object to determine the class name of an external file converter.
 
 
 ## Example

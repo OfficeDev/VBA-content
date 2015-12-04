@@ -6,7 +6,7 @@ Contains global application-level attributes used by Microsoft Excel when you sa
 
 ## Remarks
 
- Workbook-level attribute settings override application-level attribute settings. Workbook-level attributes are contained in the ** [WebOptions](d573637f-1891-4602-c961-091795e47356.md)** object.
+ Workbook-level attribute settings override application-level attribute settings. Workbook-level attributes are contained in the **[WebOptions](d573637f-1891-4602-c961-091795e47356.md)** object.
 
 
  **Note**  Attribute values can be different from one workbook to another, depending on the attribute value at the time the workbook was saved.
@@ -14,7 +14,7 @@ Contains global application-level attributes used by Microsoft Excel when you sa
 
 ## Example
 
-Use the  ** [DefaultWebOptions](51524888-0812-85ee-c8f9-e14d9b558f57.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
+Use the  **[DefaultWebOptions](51524888-0812-85ee-c8f9-e14d9b558f57.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
 
 
 ```

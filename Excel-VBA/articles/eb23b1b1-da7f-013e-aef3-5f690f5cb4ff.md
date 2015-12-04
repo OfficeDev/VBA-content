@@ -1,7 +1,7 @@
 
 # FormatConditions.AddIconSetCondition Method (Excel)
 
-Returns a new  ** [IconSetCondition](e3c4ef69-4d95-87c9-5059-805775288e24.md)** object which represents an icon set conditional formatting rule for the specified range.
+Returns a new  **[IconSetCondition](e3c4ef69-4d95-87c9-5059-805775288e24.md)** object which represents an icon set conditional formatting rule for the specified range.
 
 
 ## Syntax

@@ -1,7 +1,7 @@
 
 # Range.EntireRow Property (Excel)
 
-Returns a  ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
+Returns a  **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
 
 
 ## Syntax

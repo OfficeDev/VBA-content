@@ -8,7 +8,7 @@ Converts a measurement from lines to points (1 line = 12 points). Returns the co
 
  _expression_. **LinesToPoints**( **_Lines_**)
 
- _expression_A variable that represents a  ** [Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object. Optional.
+ _expression_A variable that represents a  **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object. Optional.
 
 
 ### Parameters

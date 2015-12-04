@@ -8,7 +8,7 @@ Returns the font of the specified object. Read-only  ** [ChartFont](185dfaa0-4ed
 
  _expression_. **Font**
 
- _expression_A variable that represents a  ** [DataTable](eaa7cdda-e374-7d19-47a6-87e4458fc244.md)** object.
+ _expression_A variable that represents a  **[DataTable](eaa7cdda-e374-7d19-47a6-87e4458fc244.md)** object.
 
 
 ## See also

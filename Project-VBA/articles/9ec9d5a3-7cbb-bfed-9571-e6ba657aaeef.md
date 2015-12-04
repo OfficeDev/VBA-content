@@ -19,11 +19,11 @@ Changes the formatting of Gantt bars from their default styles, where colors can
 |:-----|:-----|:-----|:-----|
 |TaskID|Optional| **Long**|The identification number of the task to be changed on the Gantt chart. The default is to change the Gantt bars of the selected tasks.|
 |GanttStyle|Optional| **Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the  **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
-|StartShape|Optional| **Integer**|The start shape of the Gantt bar. Can be one of the  ** [PjBarEndShape](0598711b-46ad-1940-103b-12345f32efd8.md)** constants.|
-|StartType|Optional| **Integer**|The start type of the Gantt bar. Can be one of the  ** [PjBarType](abc6a0b2-90bd-48d4-283a-a53618856692.md)** constants.|
+|StartShape|Optional| **Integer**|The start shape of the Gantt bar. Can be one of the  **[PjBarEndShape](0598711b-46ad-1940-103b-12345f32efd8.md)** constants.|
+|StartType|Optional| **Integer**|The start type of the Gantt bar. Can be one of the  **[PjBarType](abc6a0b2-90bd-48d4-283a-a53618856692.md)** constants.|
 |StartColor|Optional| **Long**|The color of the start shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &amp;H00FFFF is yellow. |
-|MiddleShape|Optional| **Integer**|The middle shape of the Gantt bar. Can be one of the  ** [PjBarShape](057356dc-9cab-fbdc-563e-f81cc54a2c33.md)** constants.|
-|MiddlePattern|Optional| **Integer**|The middle pattern of the Gantt bar. Can be one of the  ** [PjFillPattern](4f6af32c-5efd-42b6-4017-20a1497c1b6d.md)** constants.|
+|MiddleShape|Optional| **Integer**|The middle shape of the Gantt bar. Can be one of the  **[PjBarShape](057356dc-9cab-fbdc-563e-f81cc54a2c33.md)** constants.|
+|MiddlePattern|Optional| **Integer**|The middle pattern of the Gantt bar. Can be one of the  **[PjFillPattern](4f6af32c-5efd-42b6-4017-20a1497c1b6d.md)** constants.|
 |MiddleColor|Optional| **Long**|The color of the middle section Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &amp;HFF00FF is purple. |
 |EndShape|Optional| **Integer**|The end shape of the Gantt bar. Can be one of the  **PjBarEndShape** constants.|
 |EndType|Optional| **Integer**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**,  **pjFramed**, or  **pjSolid**.|
@@ -45,7 +45,7 @@ Changes the formatting of Gantt bars from their default styles, where colors can
 
 Using the  **GanttBarFormatEx** method without specifying any arguments displays the **Format Bar** dialog box.
 
- To define the default styles where colors can be hexadecimal RGB values, use the ** [GanttBarEditEx](b574b975-a869-31ba-e525-df8775330b0a.md)** method.
+ To define the default styles where colors can be hexadecimal RGB values, use the **[GanttBarEditEx](b574b975-a869-31ba-e525-df8775330b0a.md)** method.
 
 
 ## Example

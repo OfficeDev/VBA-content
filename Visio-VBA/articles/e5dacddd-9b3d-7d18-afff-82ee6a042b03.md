@@ -8,7 +8,7 @@ Returns an array of pages that are set to be published to a server.
 
  _expression_. **GetPagesToPublish**( **_Flags_**, **_PublishPages_**,  **_NamesArray()_**)
 
- _expression_A variable that represents a  ** [ServerPublishOptions](69e71212-4ca3-9fa6-6af3-8f07af540140.md)** object.
+ _expression_A variable that represents a  **[ServerPublishOptions](69e71212-4ca3-9fa6-6af3-8f07af540140.md)** object.
 
 
 ### Parameters

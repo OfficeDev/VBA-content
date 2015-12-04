@@ -8,7 +8,7 @@ Returns or sets the position of the legend on the chart. Read/write  ** [XlLegen
 
  _expression_. **Position**
 
- _expression_A variable that represents a  ** [Legend](f0122074-87b7-0225-3c6c-406103fa4c29.md)** object.
+ _expression_A variable that represents a  **[Legend](f0122074-87b7-0225-3c6c-406103fa4c29.md)** object.
 
 
 ## Example

@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents an  ** [Editors](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)** collection.
+ _expression_Required. A variable that represents an  **[Editors](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)** collection.
 
 
 ## Remarks

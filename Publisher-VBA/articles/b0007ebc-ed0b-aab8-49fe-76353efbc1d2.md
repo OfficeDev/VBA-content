@@ -1,7 +1,7 @@
 
 # TextRange.MajorityFont Property (Publisher)
 
-Returns a  ** [Font](992fda94-2820-d665-0d78-efd4b5434731.md)** object that represents the font name most in use in a text range.
+Returns a  **[Font](992fda94-2820-d665-0d78-efd4b5434731.md)** object that represents the font name most in use in a text range.
 
 
 ## Syntax

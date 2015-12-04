@@ -17,7 +17,7 @@ Attaches the end of the specified connector to a specified shape.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ConnectedShape|Required| ** [Shape](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)**|The shape to attach the end of the connector to. The specified  **Shape** object must be in the same ** [Shapes](eb208855-254e-1a0f-884b-4a5edcfd584d.md)** collection as the connector.|
+|ConnectedShape|Required| ** [Shape](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)**|The shape to attach the end of the connector to. The specified  **Shape** object must be in the same **[Shapes](eb208855-254e-1a0f-884b-4a5edcfd584d.md)** collection as the connector.|
 |ConnectionSite|Required| **Long**|A connection site on the shape specified by ConnectedShape. Must be an integer between 1 and the integer returned by the  **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **RerouteConnections**method after the connector is attached to shapes at both ends.|
 
 ## Remarks

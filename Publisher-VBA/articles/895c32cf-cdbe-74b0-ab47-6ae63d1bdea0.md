@@ -1,7 +1,7 @@
 
 # TextRange.Paragraphs Method (Publisher)
 
-Returns a  ** [TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)**object that represents the specified paragraphs.
+Returns a  **[TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)** object that represents the specified paragraphs.
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Sets the criteria for an AutoFilter for a specified field in a sheet view.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |FieldName|Required| **String**|Name of the field.|
-|FilterType|Optional| **PjAutoFilterType**|Type of filter; can be one of the  ** [PjAutoFilterType](f7bd2ed9-90a1-63e9-493c-28c9c944795b.md)** constants. The default value is **pjAutoFilterClear**, which clears the AutoFilter. |
+|FilterType|Optional| **PjAutoFilterType**|Type of filter; can be one of the  **[PjAutoFilterType](f7bd2ed9-90a1-63e9-493c-28c9c944795b.md)** constants. The default value is **pjAutoFilterClear**, which clears the AutoFilter. |
 |Test1|Optional| **String**|Specifies the type of comparison for the first test. Requires that FilterType is **pjAutoFilterCustom**, and that Criteria1 specifies a value. Can be one of the following comparison strings:
 
 |**Comparison String**|**Description**|
@@ -44,7 +44,7 @@ Sets the criteria for an AutoFilter for a specified field in a sheet view.
 
 ## Remarks
 
-To turn the AutoFilter feature on or off, see the  ** [AutoFilter](391d5a61-cba3-9e28-c448-d0befcc456c7.md)** method.
+To turn the AutoFilter feature on or off, see the  **[AutoFilter](391d5a61-cba3-9e28-c448-d0befcc456c7.md)** method.
 
 
  **Note**  A column name in a sheet view can have a different title than the name of the field it shows.

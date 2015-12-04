@@ -18,7 +18,7 @@ Represents one or more series plotted in a chart with the same format.
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](3729126b-3431-98c8-8e8e-e76db2133145.md)|When used without an object qualifier, returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)**object that represents the Microsoft Word application. When used with an object qualifier, returns an  **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.|
+| [Application](3729126b-3431-98c8-8e8e-e76db2133145.md)|When used without an object qualifier, returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an  **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.|
 | [AxisGroup](4559ca47-ed2c-f122-0f38-a12cac8836d8.md)|Returns the type of axis group. Read/write  ** [XlAxisGroup](ed3ff1ce-28de-165d-bbfa-f3d770f32522.md)**.|
 | [BubbleScale](4776723c-4d6e-1009-8d00-6f837fbd4803.md)|Returns or sets the scale factor for bubbles in the specified chart group. Read/write  **Long**.|
 | [Creator](6c08be09-c7cd-ab41-3f75-fee9f26f6226.md)|Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.|

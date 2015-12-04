@@ -1,7 +1,7 @@
 
 # IconSet.Item Property (Excel)
 
-Returns an  ** [Icon](99dd63ab-2981-aab7-cfe8-7e47fe911281.md)** object that represents a single icon from an icon set. Read-only.
+Returns an  **[Icon](99dd63ab-2981-aab7-cfe8-7e47fe911281.md)** object that represents a single icon from an icon set. Read-only.
 
 
 ## Syntax

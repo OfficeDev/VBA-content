@@ -28,7 +28,7 @@ String
 
 If you pass an error code that Visio Viewer does not recognize, the  **GetErrorMessage** method will return either a string saying so, or nothing.
 
-If you pass the value that the  ** [LastErrorCode](cbef3230-128c-3976-04da-eec6da9f6225.md)** property returns, the **GetErrorMessage** method returns the last error code that Visio Viewer returned.
+If you pass the value that the  **[LastErrorCode](cbef3230-128c-3976-04da-eec6da9f6225.md)** property returns, the **GetErrorMessage** method returns the last error code that Visio Viewer returned.
 
 
 ## Example

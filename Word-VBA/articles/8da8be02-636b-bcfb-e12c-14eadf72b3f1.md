@@ -8,12 +8,12 @@
 
  _expression_. **PasswordEncryptionFileProperties**
 
- _expression_A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks
 
-Use the  ** [SetPasswordEncryptionOptions](4e7c2c0a-cac2-6fa3-f237-f02c897757a1.md)**method to specify whether Word encrypts file properties for password-protected documents.
+Use the  **[SetPasswordEncryptionOptions](4e7c2c0a-cac2-6fa3-f237-f02c897757a1.md)** method to specify whether Word encrypts file properties for password-protected documents.
 
 
 ## Example

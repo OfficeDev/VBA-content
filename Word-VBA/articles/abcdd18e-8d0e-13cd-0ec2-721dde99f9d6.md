@@ -1,7 +1,7 @@
 
 # Assigning Ranges
 
-There are several ways to assign an existing  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object to a variable. This topic explains the results of two different techniques. In the following examples, the `Range1` and `Range2` variables refer to **Range** objects. For example, the following instructions assign the first and second words in the active document to the `Range1` and `Range2` variables.
+There are several ways to assign an existing  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object to a variable. This topic explains the results of two different techniques. In the following examples, the `Range1` and `Range2` variables refer to **Range** objects. For example, the following instructions assign the first and second words in the active document to the `Range1` and `Range2` variables.
 
 
 ```
@@ -21,7 +21,7 @@ Set Range2 = Range1
 
 You now have two variables that represent the same range. When you manipulate the start or endpoint or the text of  `Range2`, it affects  `Range1` and vice versa.
 
-Note that the following instruction is the same as  `Range2.Text = Range1.Text`. This instruction assigns the default property of  `Range1`, which is the  ** [Text](495fe06e-ba87-0d96-9f6e-3e62fd71d4a5.md)** property, to the default property of `Range2`. It doesn't change what the objects actually refer to.
+Note that the following instruction is the same as  `Range2.Text = Range1.Text`. This instruction assigns the default property of  `Range1`, which is the  **[Text](495fe06e-ba87-0d96-9f6e-3e62fd71d4a5.md)** property, to the default property of `Range2`. It doesn't change what the objects actually refer to.
 
 
 

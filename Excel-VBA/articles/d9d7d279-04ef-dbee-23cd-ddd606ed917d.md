@@ -6,7 +6,7 @@ Contains properties and methods that apply to line callouts.
 
 ## Remarks
 
-Use the  ** [Callout](80c67ea9-7e55-9841-bbed-302cbd669ce5.md)** property to return a **CalloutFormat** object.
+Use the  **[Callout](80c67ea9-7e55-9841-bbed-302cbd669ce5.md)** property to return a **CalloutFormat** object.
 
 
 ## Example

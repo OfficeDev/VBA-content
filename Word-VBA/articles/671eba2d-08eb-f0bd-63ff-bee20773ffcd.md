@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  ** [OMathScrSubSup](e5fbf9cb-461c-3b08-a441-9e91e0745b15.md)** object.
+ _expression_A variable that represents a  **[OMathScrSubSup](e5fbf9cb-461c-3b08-a441-9e91e0745b15.md)** object.
 
 
 ## See also

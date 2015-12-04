@@ -1,7 +1,7 @@
 
 # SolutionsModule.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified ** [SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
+Returns the parent  **Object** of the specified **[SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
 
 
 ## Syntax
@@ -13,7 +13,7 @@ Returns the parent  **Object** of the specified ** [SolutionsModule](4597765e-a9
 
 ## Remarks
 
-The parent of a  **SolutionsModule** object returns a ** [NavigationPane](b6538c72-6115-99fc-c926-e0532a747823.md)** object.
+The parent of a  **SolutionsModule** object returns a **[NavigationPane](b6538c72-6115-99fc-c926-e0532a747823.md)** object.
 
 
 ## See also

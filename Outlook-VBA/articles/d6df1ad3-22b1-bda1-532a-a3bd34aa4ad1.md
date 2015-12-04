@@ -25,7 +25,7 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 This method allows you to display the  **Select Names** dialog box without using a resource file to localize the values for the caption, the **To** label, **Cc** label, and **Bcc** label. You can override the built-in behavior by setting your own values for ** [Caption](a728bcb5-8eee-8f77-76d7-4c15d53d79e2.md)**,  ** [ToLabel](1c2f15fd-57c6-e0a5-923c-2b3b217bb7a0.md)**,  ** [CcLabel](b28def6f-725c-ba65-cf7f-4abbc7ba3cb8.md)**, and  ** [BccLabel](9c826c3e-c7d3-6fd0-f900-24ba31925681.md)**. 
 
-You can set additional properties (for example, setting  ** [NumberOfRecipientSelectors](2cb40e5f-b122-d032-9343-54fe98bc5455.md)** to **olRecipientSelectors.olToCc**) after calling  **SetDefaultDisplayMode**. The  **Select Names** dialog box will observe the subsequent setting.
+You can set additional properties (for example, setting  **[NumberOfRecipientSelectors](2cb40e5f-b122-d032-9343-54fe98bc5455.md)** to **olRecipientSelectors.olToCc**) after calling  **SetDefaultDisplayMode**. The  **Select Names** dialog box will observe the subsequent setting.
 
 
 ## See also

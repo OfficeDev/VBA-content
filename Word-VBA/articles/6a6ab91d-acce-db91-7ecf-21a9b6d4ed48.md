@@ -8,7 +8,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  ** [ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
+ _expression_A variable that represents a  **[ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
 
 
 ## See also

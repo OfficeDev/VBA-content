@@ -8,7 +8,7 @@ Returns or sets the shape used for a single series in a 3-D bar or column chart.
 
  _expression_. **BarShape**
 
- _expression_A variable that represents a  ** [Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
+ _expression_A variable that represents a  **[Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
 
 
 ## Example

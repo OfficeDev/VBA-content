@@ -8,7 +8,7 @@ Returns a  **Range** object that represents the portion of a document that is co
 
  _expression_. **Range**
 
- _expression_Required. A variable that represents an  ** [Endnote](01f29be4-58e7-28f5-5fcb-dae50c33890e.md)** object.
+ _expression_Required. A variable that represents an  **[Endnote](01f29be4-58e7-28f5-5fcb-dae50c33890e.md)** object.
 
 
 ## Remarks

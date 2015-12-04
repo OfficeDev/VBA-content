@@ -17,7 +17,7 @@ Occurs when a new sheet is created in the workbook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Sh|Required| **Object**|The new sheet. Can be a  ** [Worksheet](182b705e-854a-81cc-a4b0-59b942de55ae.md)** or ** [Chart](179c32ce-49bd-6f36-ea12-89fb5443f3ea.md)** object.|
+|Sh|Required| **Object**|The new sheet. Can be a  **[Worksheet](182b705e-854a-81cc-a4b0-59b942de55ae.md)** or **[Chart](179c32ce-49bd-6f36-ea12-89fb5443f3ea.md)** object.|
 
 ### Return Value
 

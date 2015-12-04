@@ -8,7 +8,7 @@ Returns a  **Shading** object that refers to the shading formatting for the spec
 
  _expression_. **Shading**
 
- _expression_Required. A variable that represents a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
+ _expression_Required. A variable that represents a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
 
 
 ## Example

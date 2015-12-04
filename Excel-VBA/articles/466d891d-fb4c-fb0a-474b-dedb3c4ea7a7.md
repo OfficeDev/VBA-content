@@ -13,11 +13,11 @@ Saves changes to the specified workbook.
 
 ## Remarks
 
-To open a workbook file, use the  ** [Open](1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0.md)** method.
+To open a workbook file, use the  **[Open](1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0.md)** method.
 
-To mark a workbook as saved without writing it to a disk, set its  ** [Saved](37eb8e08-2bfa-8065-2520-a71e291ab50c.md)** property to **True**.
+To mark a workbook as saved without writing it to a disk, set its  **[Saved](37eb8e08-2bfa-8065-2520-a71e291ab50c.md)** property to **True**.
 
-The first time you save a workbook, use the  ** [SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method to specify a name for the file.
+The first time you save a workbook, use the  **[SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method to specify a name for the file.
 
 
 ## Example

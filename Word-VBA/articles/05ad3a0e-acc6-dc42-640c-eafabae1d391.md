@@ -8,7 +8,7 @@ Returns or sets the amount of spacing (in gridlines) before the specified paragr
 
  _expression_. **LineUnitBefore**
 
- _expression_Required. A variable that represents a  ** [ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
+ _expression_Required. A variable that represents a  **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
 
 
 ## See also

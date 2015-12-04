@@ -8,7 +8,7 @@ Returns an individual  **Hyperlink** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [Hyperlinks](25801753-737f-9219-6a14-6531eb2ca699.md)** collection.
+ _expression_Required. A variable that represents a  **[Hyperlinks](25801753-737f-9219-6a14-6531eb2ca699.md)** collection.
 
 
 ### Parameters

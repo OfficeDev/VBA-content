@@ -1,14 +1,14 @@
 
 # Window.Panes Property (Word)
 
-Returns a  ** [Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)**collection that represents all the window panes for the specified window.
+Returns a  **[Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)** collection that represents all the window panes for the specified window.
 
 
 ## Syntax
 
  _expression_. **Panes**
 
- _expression_An expression that returns a  ** [Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)**object.
+ _expression_An expression that returns a  **[Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
 
 
 ## Remarks

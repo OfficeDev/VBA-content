@@ -8,7 +8,7 @@ Inserts all or part of the specified file.
 
  _expression_. **InsertFile**( **_FileName_**,  **_Range_**,  **_ConfirmConversions_**,  **_Link_**,  **_Attachment_**)
 
- _expression_Required. A variable that represents a  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_Required. A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ### Parameters

@@ -8,7 +8,7 @@ Returns a  **Long** that represents the number of repeating section items in the
 
  _expression_. **Count**
 
- _expression_A variable that represents a  ** [RepeatingSectionItemColl](00e9f159-99e2-834d-545c-708586eacef5.md)** object.
+ _expression_A variable that represents a  **[RepeatingSectionItemColl](00e9f159-99e2-834d-545c-708586eacef5.md)** object.
 
 
 ## Property value

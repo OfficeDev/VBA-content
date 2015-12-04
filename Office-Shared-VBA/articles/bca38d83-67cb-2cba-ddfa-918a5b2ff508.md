@@ -14,7 +14,7 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [CommandBars](0e312e21-14ee-5055-d604-b66e61c53b47.md)** object.
+ _expression_Required. A variable that represents a  **[CommandBars](0e312e21-14ee-5055-d604-b66e61c53b47.md)** object.
 
 
 ### Parameters

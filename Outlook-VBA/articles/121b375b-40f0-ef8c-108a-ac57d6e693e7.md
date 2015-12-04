@@ -18,7 +18,7 @@ The value of this property is a string, in DAV Searching and Locating (DASL) syn
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example obtains a  ** [View](41c8d149-9912-1685-4c8b-3c849cc6f1ed.md)** object by using the ** [CurrentView](177e6387-9ccb-cb71-bbe5-332c25485848.md)** property of the ** [Explorer](026591e5-049f-503a-4166-34e6dbc225fb.md)** object, then sets the ** [Filter](9a4b4b27-d543-df82-3058-e0a6ad2f51a1.md)** property of the **View** object to display only those Outlook items that were received last week.
+The following Visual Basic for Applications (VBA) example obtains a  **[View](41c8d149-9912-1685-4c8b-3c849cc6f1ed.md)** object by using the **[CurrentView](177e6387-9ccb-cb71-bbe5-332c25485848.md)** property of the **[Explorer](026591e5-049f-503a-4166-34e6dbc225fb.md)** object, then sets the **[Filter](9a4b4b27-d543-df82-3058-e0a6ad2f51a1.md)** property of the **View** object to display only those Outlook items that were received last week.
 
 
 ```

@@ -13,10 +13,10 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
 ## Remarks
 
-This property contains only the display names, delimited with semicolon (;) characters. The  ** [Recipients](774f56b7-4de8-9584-60cd-4fbf361f4c85.md)**collection should be used to modify the BCC recipients. 
+This property contains only the display names, delimited with semicolon (;) characters. The  **[Recipients](774f56b7-4de8-9584-60cd-4fbf361f4c85.md)** collection should be used to modify the BCC recipients. 
 
 
- **Note**  If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the ** [Send](54f92175-0e99-f96a-56de-5fc66d97d80f.md)** method to raise an error.
+ **Note**  If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](54f92175-0e99-f96a-56de-5fc66d97d80f.md)** method to raise an error.
 
 
 ## See also

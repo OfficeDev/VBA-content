@@ -15,5 +15,5 @@
 
 The  **LevelFreeformTasks** property corresponds to the **Level manually scheduled tasks** check box in the **Resource Leveling** dialog box. To access the **Resource Leveling** dialog box, on the **Resource** tab of the Ribbon, choose **Leveling Options**.
 
-To set other leveling options, see the  ** [LevelingOptionsEx](f8799750-fecf-48d1-7559-25cd7a8d3d28.md)** method.
+To set other leveling options, see the  **[LevelingOptionsEx](f8799750-fecf-48d1-7559-25cd7a8d3d28.md)** method.
 

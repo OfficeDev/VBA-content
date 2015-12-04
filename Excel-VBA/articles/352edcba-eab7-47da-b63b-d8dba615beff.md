@@ -7,7 +7,7 @@
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](1aac5249-48ef-7706-80f7-a8a377072c01.md)|When used without an object qualifier, this property returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.|
+| [Application](1aac5249-48ef-7706-80f7-a8a377072c01.md)|When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.|
 | [Creator](578f0917-6778-e3df-7935-2c1121536f60.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.|
 | [Header](e5f2967f-de53-96a9-3742-5ba2353e0bcf.md)|Specifies whether the first row contains header information. Read/write  ** [XlYesNoGuess](c4c8e9b1-ad12-5c63-da32-60d410915452.md)**.|
 | [MatchCase](f0999562-b18a-8a8c-2cd8-8802f905f2e0.md)|Set to  **True** to perform a case-sensitive sort or set to **False** to perform non-case sensitive sort. Read/write.|

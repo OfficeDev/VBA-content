@@ -6,7 +6,7 @@ Contains properties and methods that apply to pictures and OLE objects.
 
 ## Remarks
 
- The ** [LinkFormat](3d8085bf-c113-7cbe-871b-01f3b6017824.md)** object contains properties and methods that apply to linked OLE objects only. The ** [OLEFormat](96ee06d8-e922-c48c-4406-bb2f5cbaa02a.md)** object contains properties and methods that apply to OLE objects whether or not they're linked.
+ The **[LinkFormat](3d8085bf-c113-7cbe-871b-01f3b6017824.md)** object contains properties and methods that apply to linked OLE objects only. The **[OLEFormat](96ee06d8-e922-c48c-4406-bb2f5cbaa02a.md)** object contains properties and methods that apply to OLE objects whether or not they're linked.
 
 
 ## Example

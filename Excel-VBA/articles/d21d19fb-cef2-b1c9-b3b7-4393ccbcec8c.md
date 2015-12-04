@@ -1,14 +1,14 @@
 
 # Watch.Source Property (Excel)
 
-Returns a  **Variant** value that represents the unique name that identifies items that have a ** [SourceType](17c41741-1bca-0c07-d113-fd68ba7add75.md)** property value of **xlSourceRange**,  **xlSourceChart**,  **xlSourcePrintArea**,  **xlSourceAutoFilter**,  **xlSourcePivotTable**, or  **xlSourceQuery**.
+Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](17c41741-1bca-0c07-d113-fd68ba7add75.md)** property value of **xlSourceRange**,  **xlSourceChart**,  **xlSourcePrintArea**,  **xlSourceAutoFilter**,  **xlSourcePivotTable**, or  **xlSourceQuery**.
 
 
 ## Syntax
 
  _expression_. **Source**
 
- _expression_A variable that represents a  ** [Watch](21b84863-55a8-e942-1941-bbe81ec3c7e2.md)** object.
+ _expression_A variable that represents a  **[Watch](21b84863-55a8-e942-1941-bbe81ec3c7e2.md)** object.
 
 
 ## Remarks

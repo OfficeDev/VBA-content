@@ -11,7 +11,7 @@ Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace
 
  _expression_. **Files**
 
- _expression_A variable that represents a  ** [SharedWorkspace](7512f0ff-382d-d344-9424-aa10549d14f9.md)** object.
+ _expression_A variable that represents a  **[SharedWorkspace](7512f0ff-382d-d344-9424-aa10549d14f9.md)** object.
 
 
 ## Example

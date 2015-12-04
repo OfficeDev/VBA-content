@@ -1,7 +1,7 @@
 
 # Report.ScaleWidth Property (Access)
 
-You can use the  **ScaleWidth** property to specify the number of units for the horizontal measurement of the page when the ** [Circle](4f5d24e2-75bf-3586-7e0d-0902adee61a6.md)**,  ** [Line](9e640e37-c055-3dc3-b70e-0805cdc13561.md)**,  ** [Pset](951a262b-b17b-9b95-b5f2-922d4aff9ce9.md)**, or  ** [Print](6f8523cc-7b17-ec27-e2c9-a7ae3d5a8c3f.md)**method is used while a report is printed or previewed, or its output is saved to a file. Read/write  **Single**.
+You can use the  **ScaleWidth** property to specify the number of units for the horizontal measurement of the page when the ** [Circle](4f5d24e2-75bf-3586-7e0d-0902adee61a6.md)**,  ** [Line](9e640e37-c055-3dc3-b70e-0805cdc13561.md)**,  ** [Pset](951a262b-b17b-9b95-b5f2-922d4aff9ce9.md)**, or  **[Print](6f8523cc-7b17-ec27-e2c9-a7ae3d5a8c3f.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write  **Single**.
 
 
 ## Syntax
@@ -19,7 +19,7 @@ You can set the  **ScaleWidth** property by using a macro or a [Visual Basic](3f
 
 You can use the  **ScaleWidth** property to create a custom coordinate scale for drawing or printing. For example, the statement `ScaleWidth = 100` defines the internal width of the section as 100 units, or one horizontal unit as one one-hundredth of the width.
 
-Use the  ** [ScaleMode](e3955e48-80bb-989e-2992-cd5a541b468b.md)**property to define a scale based on a standard unit of measurement, such as points, pixels, characters, inches, millimeters, or centimeters.
+Use the  **[ScaleMode](e3955e48-80bb-989e-2992-cd5a541b468b.md)** property to define a scale based on a standard unit of measurement, such as points, pixels, characters, inches, millimeters, or centimeters.
 
 Setting the  **ScaleWidth** property to a positive value makes coordinates increase in value from left to right. Setting it to a negative value makes coordinates increase in value from right to left.
 

@@ -8,7 +8,7 @@ Returns the identifiers (IDs) of the data recordsets that are set to be publishe
 
  _expression_. **GetRecordsetsToPublish**( **_PublishDataRecordsets_**,  **_DataRecordsetIDs()_**)
 
- _expression_A variable that represents a  ** [ServerPublishOptions](69e71212-4ca3-9fa6-6af3-8f07af540140.md)** object.
+ _expression_A variable that represents a  **[ServerPublishOptions](69e71212-4ca3-9fa6-6af3-8f07af540140.md)** object.
 
 
 ### Parameters

@@ -1,7 +1,7 @@
 
 # MailItem.GetInspector Property (Outlook)
 
-Returns an  ** [Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object that represents an inspector initialized to contain the specified item. Read-only.
+Returns an  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
 
 ## Syntax
@@ -18,7 +18,7 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 ## Example
 
-This Visual Basic for Applications (VBA) example shows a function  `InsertBodyTextInWordEditor` that creates a mail item, assigns it a title and adds text for the body. The function sets the ** [Subject](5f3e465d-ac2b-a573-0e85-1134e65df017.md)** property to assign the title "Testing...". It then calls the ** [Display](19ead642-b7bd-579f-e43b-ef5c5d0cfecb.md)** method to open the mail item in an inspector. To insert text in a Word editor as the body of the mail item, the function uses the ** [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036-a916-971c9db5b7fb%28Office.15%29.aspx)** object and ** [Range](http://msdn.microsoft.com/library/15a7a1c4-5f3f-5b6e-60e9-29688de3f274%28Office.15%29.aspx)** object in the Word object model. The function uses the item's **GetInspector** property to get the existing **Inspector** object, and then uses the ** [Inspector.WordEditor](9e09b772-f679-19e6-905e-552ccadb0d24.md)** property to obtain a **Word.Document** object for the item. Using the **Word.Document** object, the function accesses the **Word.Range** object and inserts text into the body of the item.
+This Visual Basic for Applications (VBA) example shows a function  `InsertBodyTextInWordEditor` that creates a mail item, assigns it a title and adds text for the body. The function sets the **[Subject](5f3e465d-ac2b-a573-0e85-1134e65df017.md)** property to assign the title "Testing...". It then calls the **[Display](19ead642-b7bd-579f-e43b-ef5c5d0cfecb.md)** method to open the mail item in an inspector. To insert text in a Word editor as the body of the mail item, the function uses the ** [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036-a916-971c9db5b7fb%28Office.15%29.aspx)** object and ** [Range](http://msdn.microsoft.com/library/15a7a1c4-5f3f-5b6e-60e9-29688de3f274%28Office.15%29.aspx)** object in the Word object model. The function uses the item's **GetInspector** property to get the existing **Inspector** object, and then uses the ** [Inspector.WordEditor](9e09b772-f679-19e6-905e-552ccadb0d24.md)** property to obtain a **Word.Document** object for the item. Using the **Word.Document** object, the function accesses the **Word.Range** object and inserts text into the body of the item.
 
 Since this example accesses the Word object model, you must first add a reference to the Microsoft Word Object Library to compile the example successfully.
 

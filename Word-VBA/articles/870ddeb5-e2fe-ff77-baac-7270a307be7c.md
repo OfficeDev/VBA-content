@@ -1,14 +1,14 @@
 
 # Paragraph.Shading Property (Word)
 
-Returns a  ** [Shading](e136509a-1be1-29e4-7b37-1faf659e37ba.md)** object that refers to the shading formatting for the specified paragraph.
+Returns a  **[Shading](e136509a-1be1-29e4-7b37-1faf659e37ba.md)** object that refers to the shading formatting for the specified paragraph.
 
 
 ## Syntax
 
  _expression_. **Shading**
 
- _expression_Required. A variable that represents a  ** [Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
+ _expression_Required. A variable that represents a  **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
 
 
 ## Example

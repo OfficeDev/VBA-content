@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [Hyperlink](af785a9e-081a-e359-705f-04f490304e2e.md)** object.
+ _expression_Required. A variable that represents a  **[Hyperlink](af785a9e-081a-e359-705f-04f490304e2e.md)** object.
 
 
 ## Remarks

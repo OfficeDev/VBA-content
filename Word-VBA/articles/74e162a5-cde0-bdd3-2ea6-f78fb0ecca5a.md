@@ -8,7 +8,7 @@ Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 
  _expression_. **AutoFitBehavior**( **_Behavior_**)
 
- _expression_Required. A variable that represents a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
+ _expression_Required. A variable that represents a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
 
 
 ### Parameters

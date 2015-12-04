@@ -15,7 +15,7 @@ Specifies whether or not drill indicators are printed with the PivotTable. Read/
 
 Returns  **True** if drill indicators are printed with the PivotTable and returns **False** if drill indicators are not printed with the PivotTable.
 
-When the  ** [ShowDrillIndicators](7495276f-122a-3f9a-c02f-6548302ec7d5.md)** property is set to **False**, the  **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
+When the  **[ShowDrillIndicators](7495276f-122a-3f9a-c02f-6548302ec7d5.md)** property is set to **False**, the  **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
 
 
 ## See also

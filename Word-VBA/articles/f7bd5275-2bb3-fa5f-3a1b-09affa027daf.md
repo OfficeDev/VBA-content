@@ -8,7 +8,7 @@ Returns or sets the separator character used between the chapter number and the 
 
  _expression_. **ChapterPageSeparator**
 
- _expression_An expression that represents a  ** [PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
+ _expression_An expression that represents a  **[PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
 
 
 ## Remarks

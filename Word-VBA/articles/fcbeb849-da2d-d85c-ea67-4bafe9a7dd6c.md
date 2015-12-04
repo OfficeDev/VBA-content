@@ -1,14 +1,14 @@
 
 # XSLTransforms.Application Property (Word)
 
-Returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.
+Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_Required. A variable that represents a  ** [XSLTransforms](489a3391-fbd1-a326-9c4d-7fa8d4b64d02.md)** collection.
+ _expression_Required. A variable that represents a  **[XSLTransforms](489a3391-fbd1-a326-9c4d-7fa8d4b64d02.md)** collection.
 
 
 ## Remarks

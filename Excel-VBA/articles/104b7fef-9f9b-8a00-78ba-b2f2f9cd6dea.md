@@ -1,7 +1,7 @@
 
 # FormatCondition.ScopeType Property (Excel)
 
-Returns or sets one of the constants of the  ** [XlPivotConditionScope](4a2800cc-624b-18df-2d2a-cbb604a83042.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
+Returns or sets one of the constants of the  **[XlPivotConditionScope](4a2800cc-624b-18df-2d2a-cbb604a83042.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
 
 
 ## Syntax
@@ -13,7 +13,7 @@ Returns or sets one of the constants of the  ** [XlPivotConditionScope](4a2800cc
 
 ## Remarks
 
-The default value is  **xlSelectionScope**, which sets the scope using the  ** [AppliesTo](d8a5363c-d0b7-fc26-dcff-16a3b561474d.md)** property.
+The default value is  **xlSelectionScope**, which sets the scope using the  **[AppliesTo](d8a5363c-d0b7-fc26-dcff-16a3b561474d.md)** property.
 
 
 ## See also

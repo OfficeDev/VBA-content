@@ -8,7 +8,7 @@
 
  _expression_. **IsFirst**
 
- _expression_Required. A variable that represents a  ** [Row](38a05858-829a-ea5c-ce63-7f7343bf7b88.md)** object.
+ _expression_Required. A variable that represents a  **[Row](38a05858-829a-ea5c-ce63-7f7343bf7b88.md)** object.
 
 
 ## Example

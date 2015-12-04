@@ -1,7 +1,7 @@
 
 # Worksheet.Comments Property (Excel)
 
-Returns a  ** [Comments](f43bf021-1e46-10cf-09bf-070fc6a2c81a.md)**collection that represents all the comments for the specified worksheet. Read-only.
+Returns a  **[Comments](f43bf021-1e46-10cf-09bf-070fc6a2c81a.md)** collection that represents all the comments for the specified worksheet. Read-only.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ Returns or sets the attention line text for a letter created by the Letter Wizar
 
  _expression_. **AttentionLine**
 
- _expression_A variable that represents a  ** [LetterContent](62a4e17a-6598-c904-f27d-817c19c04981.md)** object.
+ _expression_A variable that represents a  **[LetterContent](62a4e17a-6598-c904-f27d-817c19c04981.md)** object.
 
 
 ## Example
@@ -22,7 +22,7 @@ If ActiveDocument.GetLetterContent.AttentionLine <> "" Then
 End If
 ```
 
-This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the  ** [SetLetterContent](8c9b2f6e-34a7-41a3-761d-c1a5da141aba.md)** method to update the document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the  **[SetLetterContent](8c9b2f6e-34a7-41a3-761d-c1a5da141aba.md)** method to update the document to reflect the changes.
 
 
 

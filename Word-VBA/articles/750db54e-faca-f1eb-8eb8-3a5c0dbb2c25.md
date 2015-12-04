@@ -8,7 +8,7 @@ Converts a table to text and returns a  **Range** object that represents the del
 
  _expression_. **ConvertToText**( **_Separator_**,  **_NestedTables_**)
 
- _expression_Required. A variable that represents a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
+ _expression_Required. A variable that represents a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
 
 
 ### Parameters

@@ -1,7 +1,7 @@
 
 # ExchangeDistributionList.GetContact Method (Outlook)
 
-Returns  **Null** ( **Nothing** in Visual Basic) because the ** [ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)** object does not correspond to a contact in a Contacts Address Book.
+Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## Syntax
@@ -18,7 +18,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the ** [ExchangeDistrib
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the ** [AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList**, this method always returns  **Null**.
+The  **ExchangeDistributionList** object is derived from the **[AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList**, this method always returns  **Null**.
 
 
 ## See also

@@ -8,7 +8,7 @@ Saves a document as PDF or XPS format.
 
  _expression_. **ExportAsFixedFormat**( **_OutputFileName_**,  **_ExportFormat_**,  **_OpenAfterExport_**,  **_OptimizeFor_**,  **_Range_**,  **_From_**,  **_To_**,  **_Item_**,  **_IncludeDocProps_**,  **_KeepIRM_**,  **_CreateBookmarks_**,  **_DocStructureTags_**,  **_BitmapMissingFonts_**,  **_UseISO19005_1_**,  **_FixedFormatExtClassPtr_**)
 
- _expression_An expression that returns a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_An expression that returns a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ### Parameters

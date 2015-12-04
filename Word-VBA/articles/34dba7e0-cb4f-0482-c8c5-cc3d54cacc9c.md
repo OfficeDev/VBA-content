@@ -8,7 +8,7 @@ Returns a  **Pane** object that represents a new pane to a window.
 
  _expression_. **Add**( **_SplitVertical_**)
 
- _expression_Required. A variable that represents a  ** [Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)** collection.
+ _expression_Required. A variable that represents a  **[Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)** collection.
 
 
 ### Parameters

@@ -8,7 +8,7 @@ Returns a  **NewFile** object that represents a document listed on the **New** t
 
  _expression_. **NewDocument**
 
- _expression_A variable that represents an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_A variable that represents an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ## Example

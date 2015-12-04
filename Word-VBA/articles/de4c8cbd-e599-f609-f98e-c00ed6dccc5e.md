@@ -8,7 +8,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
  _expression_. **Formula**
 
- _expression_A variable that represents a  ** [ChartTitle](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)** object.
+ _expression_A variable that represents a  **[ChartTitle](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)** object.
 
 
 ### Return Value

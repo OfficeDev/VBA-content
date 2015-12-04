@@ -13,7 +13,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the ** [IsMarkedAsTask](bf651a37-e486-1c54-83d4-3bb3714f7187.md)** property is set to **False**.
+This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](bf651a37-e486-1c54-83d4-3bb3714f7187.md)** property is set to **False**.
 
 
 ## See also

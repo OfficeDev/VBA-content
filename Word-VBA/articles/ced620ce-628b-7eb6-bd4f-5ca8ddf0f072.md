@@ -8,7 +8,7 @@ Changes the width of a table column to accommodate the width of the text without
 
  _expression_. **AutoFit**
 
- _expression_Required. A variable that represents a  ** [Column](49d68571-2a57-6795-34b9-eb09aeb43043.md)** object.
+ _expression_Required. A variable that represents a  **[Column](49d68571-2a57-6795-34b9-eb09aeb43043.md)** object.
 
 
 ## Remarks

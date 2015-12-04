@@ -14,7 +14,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 
  _expression_. **Top**
 
- _expression_Required. A variable that represents a  ** [CommandBarComboBox](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)** object.
+ _expression_Required. A variable that represents a  **[CommandBarComboBox](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)** object.
 
 
 ## See also

@@ -13,7 +13,7 @@ Returns the Microsoft Excel control type. Read-only  ** [XlFormControl](fad54f9d
 
 ## Remarks
 
-You cannot use this property with ActiveX controls (the  ** [Type](93939e9f-2630-4db2-6b66-6705720877f6.md)** property for the ** [Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** object must return **msoFormControl**).
+You cannot use this property with ActiveX controls (the  **[Type](93939e9f-2630-4db2-6b66-6705720877f6.md)** property for the **[Shape](8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)** object must return **msoFormControl**).
 
 
 ## Example

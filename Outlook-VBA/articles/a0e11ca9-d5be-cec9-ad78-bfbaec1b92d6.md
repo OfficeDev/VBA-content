@@ -21,7 +21,7 @@ Displays the specified form page or form region in the inspector.
 
 ## Remarks
 
-You can use  **SetCurrentFormPage** to display a form region by specifying the ** [InternalName](2478d44e-887c-c245-6cfa-70a6a1e2c828.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
+You can use  **SetCurrentFormPage** to display a form region by specifying the **[InternalName](2478d44e-887c-c245-6cfa-70a6a1e2c828.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
 
 
 ## Example

@@ -8,7 +8,7 @@ Gets a  **FileDialogFilter** object that is a member of the specified **FileDial
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [FileDialogFilters](a74663cf-ad63-e41a-8d5e-e51e8a20c173.md)** object.
+ _expression_Required. A variable that represents a  **[FileDialogFilters](a74663cf-ad63-e41a-8d5e-e51e8a20c173.md)** object.
 
 
 ## See also

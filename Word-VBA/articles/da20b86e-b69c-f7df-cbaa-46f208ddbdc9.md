@@ -8,7 +8,7 @@ Returns or sets the spacing (in points) before the specified paragraphs. Read/wr
 
  _expression_. **SpaceBefore**
 
- _expression_Required. A variable that represents a  ** [ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
+ _expression_Required. A variable that represents a  **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
 
 
 ## Example

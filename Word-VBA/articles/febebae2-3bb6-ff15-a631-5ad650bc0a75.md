@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Fill
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [FillFormat](39205d07-9e37-1be1-ec4a-93ba8bac2f26.md)** object.
+ _expression_Required. A variable that represents a  **[FillFormat](39205d07-9e37-1be1-ec4a-93ba8bac2f26.md)** object.
 
 
 ## See also

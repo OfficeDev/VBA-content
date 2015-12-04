@@ -8,7 +8,7 @@ Returns a  **CustomXMLNode** object that represents the custom XML node in the d
 
  _expression_. **CustomXMLNode**
 
- _expression_An expression that returns an  ** [XMLMapping](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)** object.
+ _expression_An expression that returns an  **[XMLMapping](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)** object.
 
 
 ## Example

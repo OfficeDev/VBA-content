@@ -8,7 +8,7 @@ Determines whether ignored validation issues appear in the  **Issues** window. R
 
  _expression_. **ShowIgnoredIssues**
 
- _expression_A variable that represents a  ** [Validation](d59880de-ba16-eccf-fd94-f69da9a1efea.md)** object.
+ _expression_A variable that represents a  **[Validation](d59880de-ba16-eccf-fd94-f69da9a1efea.md)** object.
 
 
 ### Return Value

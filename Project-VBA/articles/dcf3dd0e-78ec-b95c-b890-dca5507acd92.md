@@ -31,7 +31,7 @@ The Project XML schema is available in the Project SDK, as the file mspdi_pj15.x
 The  **OpenXML** method returns 0 if it is successful.
 
 
- **Note**  You can also use the  ** [FileOpenEx](d03c13b0-c12f-1d45-bb80-26711d69a378.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
+ **Note**  You can also use the  **[FileOpenEx](d03c13b0-c12f-1d45-bb80-26711d69a378.md)** method to open a valid Project XML file. The **OpenXML** method is primarily designed to open a project by using an XML string.
 
 
 ## Example

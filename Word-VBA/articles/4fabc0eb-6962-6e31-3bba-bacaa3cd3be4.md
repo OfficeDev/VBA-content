@@ -8,7 +8,7 @@ Scales the width of the shape by a specified factor.
 
  _expression_. **ScaleWidth**( **_Factor_**,  **_RelativeToOriginalSize_**,  **_Scale_**)
 
- _expression_Required. A variable that represents a  ** [Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
+ _expression_Required. A variable that represents a  **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
 
 
 ### Parameters

@@ -8,7 +8,7 @@ Returns or sets the height of a 3-D chart as a percentage of the chart width (fr
 
  _expression_. **HeightPercent**
 
- _expression_A variable that represents a  ** [Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
+ _expression_A variable that represents a  **[Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
 
 
 ## Example

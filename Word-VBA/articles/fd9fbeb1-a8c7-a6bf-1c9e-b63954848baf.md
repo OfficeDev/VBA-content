@@ -8,7 +8,7 @@ Sets the width of columns or cells in a table.
 
  _expression_. **SetWidth**( **_ColumnWidth_**,  **_RulerStyle_**)
 
- _expression_Required. A variable that represents a  ** [Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
+ _expression_Required. A variable that represents a  **[Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
 
 
 ### Parameters

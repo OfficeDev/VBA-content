@@ -6,7 +6,7 @@ Represents the entire Microsoft Outlook application.
 
 ## Remarks
 
- This is the only object in the hierarchy that can be returned by using the ** [CreateObject](09b6ff5b-a750-c07d-7499-c1f8a00214fe.md)**method or the intrinsic Visual Basic  **GetObject** function.
+ This is the only object in the hierarchy that can be returned by using the **[CreateObject](09b6ff5b-a750-c07d-7499-c1f8a00214fe.md)** method or the intrinsic Visual Basic  **GetObject** function.
 
 The Outlook  **Application** object has several purposes:
 

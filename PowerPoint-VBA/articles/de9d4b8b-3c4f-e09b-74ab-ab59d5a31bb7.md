@@ -1,7 +1,7 @@
 
 # Column.Cells Property (PowerPoint)
 
-Returns a  ** [CellRange](f0914f0d-74f5-9c16-3744-efcf5c2cc36d.md)**collection that represents the cells in a table column or row. Read-only.
+Returns a  **[CellRange](f0914f0d-74f5-9c16-3744-efcf5c2cc36d.md)** collection that represents the cells in a table column or row. Read-only.
 
 
 ## Syntax

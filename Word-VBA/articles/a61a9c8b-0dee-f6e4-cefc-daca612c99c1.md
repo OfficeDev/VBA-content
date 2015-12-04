@@ -8,7 +8,7 @@ Begins a spelling check for the specified document or range. .
 
  _expression_. **CheckSpelling**( **_CustomDictionary_**,  **_IgnoreUppercase_**,  **_AlwaysSuggest_**,  **_CustomDictionary2_**,  **_CustomDictionary3_**,  **_CustomDictionary4_**,  **_CustomDictionary5_**,  **_CustomDictionary6_**,  **_CustomDictionary7_**,  **_CustomDictionary8_**,  **_CustomDictionary9_**,  **_CustomDictionary10_**)
 
- _expression_Required. A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ### Parameters

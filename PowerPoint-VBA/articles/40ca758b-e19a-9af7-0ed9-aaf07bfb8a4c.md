@@ -8,7 +8,7 @@ Returns or sets the position of the data label. Read/write  ** [XlDataLabelPosit
 
  _expression_. **Position**
 
- _expression_A variable that represents a  ** [DataLabel](a17d23c5-0361-9129-28e5-b892f6966bda.md)** object.
+ _expression_A variable that represents a  **[DataLabel](a17d23c5-0361-9129-28e5-b892f6966bda.md)** object.
 
 
 ## See also

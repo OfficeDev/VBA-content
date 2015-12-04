@@ -18,7 +18,7 @@ Long
 
 ## Remarks
 
-The  **Heartbeat** method is called by Microsoft Excel if the ** [HeartbeatInterval](45a3df85-59c1-fedb-e94b-8f011601fc72.md)**property has elapsed since the last time Excel was called with the  ** [UpdateNotify](e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77.md)**method.
+The  **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterval](45a3df85-59c1-fedb-e94b-8f011601fc72.md)** property has elapsed since the last time Excel was called with the  **[UpdateNotify](e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77.md)** method.
 
 
 ## See also

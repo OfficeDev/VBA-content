@@ -22,7 +22,7 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 ## Remarks
 
 
-- The  **ItemAdded** event applies to the ** [References](ac020382-4ece-f138-d1b9-d05b0fe0f523.md)**collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the  **ItemAdded** event procedure, you must use a special syntax.
+- The  **ItemAdded** event applies to the **[References](ac020382-4ece-f138-d1b9-d05b0fe0f523.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the  **ItemAdded** event procedure, you must use a special syntax.
     
 - The  **ItemAdded** event can run only an event procedure when it occurs, it cannot run a macro.
     

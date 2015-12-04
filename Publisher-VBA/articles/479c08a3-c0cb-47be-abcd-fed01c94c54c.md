@@ -16,7 +16,7 @@
 | [LinesToPoints](55c531aa-5619-6f7f-54e7-7721cb70640e.md)|Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single**.|
 | [MillimetersToPoints](40ec9abd-cc1e-9f44-3312-d6689b4822e4.md)|Converts a measurement from millimeters to points (1 mm = 2.835 points). Returns the converted measurement as a  **Single**.|
 | [NewDocument](9beb6176-0c46-0ba0-8d41-a9021c624223.md)|Returns a  **Document** object that represents a new publication.|
-| [Open](560ac406-f058-8fd8-4b6d-978ff369de9b.md)|Returns a  ** [Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object that represents the newly opened publication.|
+| [Open](560ac406-f058-8fd8-4b6d-978ff369de9b.md)|Returns a  **[Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object that represents the newly opened publication.|
 | [PicasToPoints](64d3e435-dcc1-d637-7aac-cc9a9bf81e76.md)|Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single**.|
 | [PixelsToPoints](5d7e453f-e962-e557-48e4-44766d0c64d9.md)|Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns the converted measurement as a  **Single**.|
 | [PointsToCentimeters](9a734d3d-78d2-1e27-63b3-2ad1074e16c1.md)|Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.|

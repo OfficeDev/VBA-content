@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the add-in was 
 
  _expression_. **Creator**
 
- _expression_An expression that returns an  ** [OMathBreaks](fa01cd62-b8ad-52bf-f36a-f5d1548d3d1e.md)** object.
+ _expression_An expression that returns an  **[OMathBreaks](fa01cd62-b8ad-52bf-f36a-f5d1548d3d1e.md)** object.
 
 
 ## Remarks

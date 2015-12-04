@@ -8,12 +8,12 @@ Returns the preset gradient type for the specified fill. Read-only  **MsoPresetG
 
  _expression_. **PresetGradientType**
 
- _expression_An expression that represents a  ** [FillFormat](39205d07-9e37-1be1-ec4a-93ba8bac2f26.md)** object.
+ _expression_An expression that represents a  **[FillFormat](39205d07-9e37-1be1-ec4a-93ba8bac2f26.md)** object.
 
 
 ## Remarks
 
-Use the  ** [PresetGradient](bffe754d-6593-9684-abf4-b5d1e9df720e.md)**method to set the preset gradient type for the fill. 
+Use the  **[PresetGradient](bffe754d-6593-9684-abf4-b5d1e9df720e.md)** method to set the preset gradient type for the fill. 
 
 
 ## Example

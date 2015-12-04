@@ -23,7 +23,7 @@ Responds to a task request.
 
 ### Return Value
 
-A  ** [TaskItem](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)** that represents the response to the task request.
+A  **[TaskItem](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)** that represents the response to the task request.
 
 
 ## Remarks
@@ -36,9 +36,9 @@ The following table describes the behavior of the  **Respond** method depending 
 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
-| **True, True**|Response item is returned with no user interface. To send the response, you must call the  ** [Send](54f751fc-cff1-5d17-f635-f688cd8ad6f8.md)** method.|
+| **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](54f751fc-cff1-5d17-f635-f688cd8ad6f8.md)** method.|
 | **True, False**|Same result as with  **True, True** .|
-| **False, True**|If the  ** [Display](fea0619d-06dc-df44-fe93-5756eefb1be0.md)** method has been called, the user prompt appears. Otherwise, the item is sent without prompting and the resulting item is nothing.|
+| **False, True**|If the  **[Display](fea0619d-06dc-df44-fe93-5756eefb1be0.md)** method has been called, the user prompt appears. Otherwise, the item is sent without prompting and the resulting item is nothing.|
 | **False, False**|Does nothing. |
 
 ## See also

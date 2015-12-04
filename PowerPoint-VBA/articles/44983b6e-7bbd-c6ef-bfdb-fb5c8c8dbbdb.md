@@ -8,7 +8,7 @@ Returns or sets the thickness of the floor. Read/write  **Long**.
 
  _expression_. **Thickness**
 
- _expression_A variable that represents a  ** [Floor](ed9ff3d1-8001-840c-d26e-7513ebe73ae9.md)** object.
+ _expression_A variable that represents a  **[Floor](ed9ff3d1-8001-840c-d26e-7513ebe73ae9.md)** object.
 
 
 ## Remarks

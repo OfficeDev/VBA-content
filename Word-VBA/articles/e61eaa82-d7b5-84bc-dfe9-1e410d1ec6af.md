@@ -8,7 +8,7 @@ Sets or returns the number of columns for each page of an index. Read/write  **L
 
  _expression_. **NumberOfColumns**
 
- _expression_An expression that an  ** [Index](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)**object.
+ _expression_An expression that an  **[Index](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)** object.
 
 
 ## Remarks

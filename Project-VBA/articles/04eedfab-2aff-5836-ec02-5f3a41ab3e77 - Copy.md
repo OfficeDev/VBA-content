@@ -1,7 +1,7 @@
 
 # OutlineCode.LookupTable Property (Project)
 
-Gets a  ** [LookupTable](d1740b7a-ae86-19de-16ff-b4ffb8454bf1.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
+Gets a  **[LookupTable](d1740b7a-ae86-19de-16ff-b4ffb8454bf1.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
 
 
 ## Syntax

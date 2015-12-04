@@ -8,7 +8,7 @@ Returns the line, fill, and effect formatting for the object. Read-only  ** [Cha
 
  _expression_. **Format**
 
- _expression_A variable that represents a  ** [Trendline](74755c19-0a7d-cbbf-857e-78740adf6aa4.md)** object.
+ _expression_A variable that represents a  **[Trendline](74755c19-0a7d-cbbf-857e-78740adf6aa4.md)** object.
 
 
 ## See also

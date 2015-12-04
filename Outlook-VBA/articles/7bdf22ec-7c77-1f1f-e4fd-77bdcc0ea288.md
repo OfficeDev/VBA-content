@@ -1,7 +1,7 @@
 
 # Categories.Item Method (Outlook)
 
-Returns a  ** [Category](143ef095-54b0-cbe2-e356-632029061ac2.md)** object from the collection.
+Returns a  **[Category](143ef095-54b0-cbe2-e356-632029061ac2.md)** object from the collection.
 
 
 ## Syntax
@@ -17,7 +17,7 @@ Returns a  ** [Category](143ef095-54b0-cbe2-e356-632029061ac2.md)** object from 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the ** [Name](b9a711e9-f79d-f4f7-88bb-eaeb61d64089.md)** or ** [CategoryID](e75ed17a-940f-2325-8739-1367329854d2.md)** property value of an object in the collection.|
+|Index|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the **[Name](b9a711e9-f79d-f4f7-88bb-eaeb61d64089.md)** or **[CategoryID](e75ed17a-940f-2325-8739-1367329854d2.md)** property value of an object in the collection.|
 
 ### Return Value
 

@@ -1,7 +1,7 @@
 
 # Worksheet.Type Property (Excel)
 
-Returns an  ** [XlSheetType](c2d0d462-e632-2160-8eb4-a5023875f858.md)** value that represents the worksheet type.
+Returns an  **[XlSheetType](c2d0d462-e632-2160-8eb4-a5023875f858.md)** value that represents the worksheet type.
 
 
 ## Syntax

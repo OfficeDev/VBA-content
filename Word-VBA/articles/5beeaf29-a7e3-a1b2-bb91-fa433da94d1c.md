@@ -8,7 +8,7 @@ Deletes the specified HTML division.
 
  _expression_. **Delete**
 
- _expression_Required. A variable that represents an  ** [HTMLDivision](a38918ed-61aa-3fd1-3522-d077f1ff312f.md)** object.
+ _expression_Required. A variable that represents an  **[HTMLDivision](a38918ed-61aa-3fd1-3522-d077f1ff312f.md)** object.
 
 
 ## See also

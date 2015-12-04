@@ -17,7 +17,7 @@ Shows or hides task links on the Gantt Chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Display|Optional| **Long**|Where links will be drawn from the ends of predecessor links. Can be one of the  ** [PjGanttBarLink](aa55b82c-f639-ad1d-b156-861f006267f4.md)** constants. The default value is **PjNoGanttBarLinks**.|
+|Display|Optional| **Long**|Where links will be drawn from the ends of predecessor links. Can be one of the  **[PjGanttBarLink](aa55b82c-f639-ad1d-b156-861f006267f4.md)** constants. The default value is **PjNoGanttBarLinks**.|
 
 ### Return Value
 

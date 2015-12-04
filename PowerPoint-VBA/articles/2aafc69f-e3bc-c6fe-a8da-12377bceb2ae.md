@@ -8,7 +8,7 @@ Returns the font of the specified object. Read-only  ** [ChartFont](185dfaa0-4ed
 
  _expression_. **Font**
 
- _expression_A variable that represents a  ** [TickLabels](2ba878bf-3a76-1350-2bd4-615c2520f042.md)** object.
+ _expression_A variable that represents a  **[TickLabels](2ba878bf-3a76-1350-2bd4-615c2520f042.md)** object.
 
 
 ## See also

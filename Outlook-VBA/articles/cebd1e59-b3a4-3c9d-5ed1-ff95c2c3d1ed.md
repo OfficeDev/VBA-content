@@ -13,7 +13,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 ## Remarks
 
-The  **BeforeRead** event occurs before the ** [Read](508b4637-9d74-7645-7719-3c148d0688d8.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the ** [Unload](16a3d7ce-0843-5eb5-bbea-df6557ceda05.md)** event.
+The  **BeforeRead** event occurs before the **[Read](508b4637-9d74-7645-7719-3c148d0688d8.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](16a3d7ce-0843-5eb5-bbea-df6557ceda05.md)** event.
 
 The  **BeforeRead** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnRead**.
 

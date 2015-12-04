@@ -1,14 +1,14 @@
 
 # Selection.FootnoteOptions Property (Word)
 
-Returns  ** [FootnoteOptions](5fdeb6d6-ce33-44f5-62c1-743fc3770457.md)**object that represents the footnotes in a selection.
+Returns  **[FootnoteOptions](5fdeb6d6-ce33-44f5-62c1-743fc3770457.md)** object that represents the footnotes in a selection.
 
 
 ## Syntax
 
  _expression_. **FootnoteOptions**
 
- _expression_A variable that represents a  ** [Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
+ _expression_A variable that represents a  **[Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
 
 
 ## Example

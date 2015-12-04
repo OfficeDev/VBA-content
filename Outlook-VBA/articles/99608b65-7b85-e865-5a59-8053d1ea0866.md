@@ -17,8 +17,8 @@ Occurs after a mouse movement has been registered over the control.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Button|Required| **Integer**|An  ** [OlMouseButton](f654f074-f7e7-6128-9d7d-8ec6adbfe5f7.md)** constant that specifies which button on the mouse has been pressed.|
-|Shift|Required| **Integer**|A bitwise-OR mask of constants in the  ** [OlShiftState](f71dd27d-6930-1450-e8e9-11ab1eace6ca.md)** enumeration that specifies whether the **SHIFT**,  **CTRL**, or  **ALT** keys have been pressed.|
+|Button|Required| **Integer**|An  **[OlMouseButton](f654f074-f7e7-6128-9d7d-8ec6adbfe5f7.md)** constant that specifies which button on the mouse has been pressed.|
+|Shift|Required| **Integer**|A bitwise-OR mask of constants in the  **[OlShiftState](f71dd27d-6930-1450-e8e9-11ab1eace6ca.md)** enumeration that specifies whether the **SHIFT**,  **CTRL**, or  **ALT** keys have been pressed.|
 |X|Required| **[OLE_XPOS_CONTAINER]**|Identifies the location of the mouse cursor on the X-axis relative to the form.|
 |Y|Required| **[OLE_YPOS_CONTAINER]**|Identifies the location of the mouse cursor on the Y-axis relative to the form.|
 

@@ -13,7 +13,7 @@ Returns or sets a  **String** indicating the source data file for an ODBC connec
 
 ## Remarks
 
-For file-based data sources (for example, Access) the  **SourceDataFile** property contains a fully qualified path to the source data file. It is null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to null if the ** [Connection](2fcd1043-b088-cfde-9853-4a20da20be26.md)** property is changed programmatically.
+For file-based data sources (for example, Access) the  **SourceDataFile** property contains a fully qualified path to the source data file. It is null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to null if the **[Connection](2fcd1043-b088-cfde-9853-4a20da20be26.md)** property is changed programmatically.
 
 
 ## See also

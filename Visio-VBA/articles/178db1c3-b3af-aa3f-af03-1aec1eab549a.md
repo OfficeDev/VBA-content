@@ -8,7 +8,7 @@ Registers the  ** [IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7
 
  _expression_. **RegisterRibbonX**( **_SourceAddOn_**,  **_TargetDocument_**,  **_TargetModes_**,  **_FriendlyName_**)
 
- _expression_A variable that represents an  ** [Application](5b3c8939-793f-116f-11b8-1d4170d95a63.md)** object.
+ _expression_A variable that represents an  **[Application](5b3c8939-793f-116f-11b8-1d4170d95a63.md)** object.
 
 
 ### Parameters

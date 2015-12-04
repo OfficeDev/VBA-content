@@ -8,7 +8,7 @@ Opens the specified OLE object for editing in the application it was created in.
 
  _expression_. **Edit**
 
- _expression_Required. A variable that represents a  ** [Comment](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)** object.
+ _expression_Required. A variable that represents a  **[Comment](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)** object.
 
 
 ## Example

@@ -1,7 +1,7 @@
 
 # ExchangeDistributionList.GetExchangeDistributionList Method (Outlook)
 
-Returns the  ** [ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)** object.
+Returns the  **[ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)** object.
 
 
 ## Syntax

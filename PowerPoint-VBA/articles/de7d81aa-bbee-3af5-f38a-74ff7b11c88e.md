@@ -8,7 +8,7 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Rea
 
  _expression_. **Explosion**
 
- _expression_A variable that represents a  ** [Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
+ _expression_A variable that represents a  **[Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
 
 
 ## Remarks

@@ -1,14 +1,14 @@
 
 # Axes.Item Method (Word)
 
-Returns a single  ** [Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object from an **Axes** collection.
+Returns a single  **[Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object from an **Axes** collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Type_**,  **_AxisGroup_**)
 
- _expression_A variable that represents an  ** [Axes](57261ca9-7fd6-ba99-19bd-5df8e940f714.md)** object.
+ _expression_A variable that represents an  **[Axes](57261ca9-7fd6-ba99-19bd-5df8e940f714.md)** object.
 
 
 ### Parameters

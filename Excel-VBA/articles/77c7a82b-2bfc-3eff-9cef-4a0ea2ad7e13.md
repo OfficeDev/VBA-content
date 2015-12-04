@@ -1,7 +1,7 @@
 
 # Validation.Type Property (Excel)
 
-Returns a  **Long** value, containing a ** [XlDVType](ef454aba-4c36-1431-fcb0-eb2ee679ac2d.md)** constant, that represents the data type validation for a range.
+Returns a  **Long** value, containing a **[XlDVType](ef454aba-4c36-1431-fcb0-eb2ee679ac2d.md)** constant, that represents the data type validation for a range.
 
 
 ## Syntax

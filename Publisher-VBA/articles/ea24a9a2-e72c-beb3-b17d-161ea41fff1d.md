@@ -41,7 +41,7 @@ For the X1 and Y1 arguments, numeric values are evaluated in points; strings can
 
 
 
-Use the  ** [AddNodes](29906bde-e6a6-f661-0f3f-085f39653e42.md)**method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the  [ConvertToShape](1cb490af-40be-b03f-2f8d-04b1015fbde3.md)method to convert the  **FreeformBuilder** object into a **Shape** object that has the geometric description you've defined in the **FreeformBuilder** object.
+Use the  **[AddNodes](29906bde-e6a6-f661-0f3f-085f39653e42.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the  [ConvertToShape](1cb490af-40be-b03f-2f8d-04b1015fbde3.md)method to convert the  **FreeformBuilder** object into a **Shape** object that has the geometric description you've defined in the **FreeformBuilder** object.
 
 
 

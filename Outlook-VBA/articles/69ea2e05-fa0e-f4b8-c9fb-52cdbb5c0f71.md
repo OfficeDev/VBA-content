@@ -20,8 +20,8 @@ This procedure sets properties on a  [Page](836941c3-c768-151a-65a5-41c71493033a
 
  For more information about the **ControlTipText** property to set for a specific control, see:
 
-- The  ** [ControlTipText](11412cc8-7e62-1382-de69-905d5d75d419.md)** property for the ** [Page](836941c3-c768-151a-65a5-41c71493033a.md)** control.
+- The  **[ControlTipText](11412cc8-7e62-1382-de69-905d5d75d419.md)** property for the **[Page](836941c3-c768-151a-65a5-41c71493033a.md)** control.
     
-- The  ** [ControlTipText](13403824-7899-0494-3836-3a09d1804fad.md)** property for the ** [Tab](b5571953-0e47-a994-3e82-4e439a77afa8.md)** control.
+- The  **[ControlTipText](13403824-7899-0494-3836-3a09d1804fad.md)** property for the **[Tab](b5571953-0e47-a994-3e82-4e439a77afa8.md)** control.
     
 

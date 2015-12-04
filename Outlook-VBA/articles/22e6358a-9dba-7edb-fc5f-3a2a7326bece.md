@@ -8,7 +8,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
  _expression_. **SetSchedulingStartTime**( **_Start_**)
 
- _expression_A variable that represents an  ** [Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object.
+ _expression_A variable that represents an  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object.
 
 
 ### Parameters
@@ -21,7 +21,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
 ## Remarks
 
-The object specified by the  ** [CurrentItem](eaaf0192-a169-c107-95a6-b8e759a3b873.md)** property of the parent ** [Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object must be an ** [AppointmentItem](204a409d-654e-27aa-643a-8344c631b82d.md)** or ** [MeetingItem](b75730f5-b395-3d66-5acd-b64fd8fcd78f.md)**. The  **Scheduling Assistant** tab must be displayed in the inspector, otherwise Microsoft Outlook raises an error. If Outlook cannot display the **Scheduling Assistant** tab for that item type, Outlook displays the following error: **The scheduling start time can only be set when the Scheduling Assistant is displayed on a meeting item.**
+The object specified by the  **[CurrentItem](eaaf0192-a169-c107-95a6-b8e759a3b873.md)** property of the parent **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object must be an **[AppointmentItem](204a409d-654e-27aa-643a-8344c631b82d.md)** or ** [MeetingItem](b75730f5-b395-3d66-5acd-b64fd8fcd78f.md)**. The  **Scheduling Assistant** tab must be displayed in the inspector, otherwise Microsoft Outlook raises an error. If Outlook cannot display the **Scheduling Assistant** tab for that item type, Outlook displays the following error: **The scheduling start time can only be set when the Scheduling Assistant is displayed on a meeting item.**
 
 
 ## Example

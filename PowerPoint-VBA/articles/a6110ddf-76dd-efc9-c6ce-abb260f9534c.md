@@ -8,12 +8,12 @@ Returns a collection of legend entries for the legend.
 
  _expression_. **LegendEntries**
 
- _expression_A variable that represents a  ** [Legend](7be25694-8694-049a-c31f-533fe6fd0562.md)** object.
+ _expression_A variable that represents a  **[Legend](7be25694-8694-049a-c31f-533fe6fd0562.md)** object.
 
 
 ### Return Value
 
-A  ** [LegendEntries](ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd.md)** object that represents the legend entries for the legend.
+A  **[LegendEntries](ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd.md)** object that represents the legend entries for the legend.
 
 
 ## Example

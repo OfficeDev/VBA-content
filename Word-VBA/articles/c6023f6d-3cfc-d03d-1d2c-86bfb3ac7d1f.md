@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Hori
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [HorizontalLineFormat](55296fc7-9b7e-dcdb-00e0-901015cf0efb.md)** object.
+ _expression_Required. A variable that represents a  **[HorizontalLineFormat](55296fc7-9b7e-dcdb-00e0-901015cf0efb.md)** object.
 
 
 ## See also

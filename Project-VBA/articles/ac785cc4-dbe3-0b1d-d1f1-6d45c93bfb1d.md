@@ -1,7 +1,7 @@
 
 # GroupCriteria2 Object (Project)
 
-Contains a collection of  ** [GroupCriterion2](06047a9d-a9db-43e0-e759-e24560da7128.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
+Contains a collection of  **[GroupCriterion2](06047a9d-a9db-43e0-e759-e24560da7128.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
 
 
 ## Example
@@ -19,7 +19,7 @@ ActiveProject.ResourceGroups2("Standard Rate").GroupCriteria2(1).CellColor = &am
 
  **Using the GroupCriteria2 Collection**
 
-Use the  ** [GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)** property to return a **GroupCriteria2** collection. The following example displays a list of the fields used as criteria in the specified task group and shows whether they are sorted in ascending or descending order.
+Use the  **[GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)** property to return a **GroupCriteria2** collection. The following example displays a list of the fields used as criteria in the specified task group and shows whether they are sorted in ascending or descending order.
 
 
 
@@ -41,7 +41,7 @@ Next GC2
 MsgBox Fields
 ```
 
-Use the  ** [AddEx](8474aa63-bf63-be29-86ef-177d8105e105.md)** method to add a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
+Use the  **[AddEx](8474aa63-bf63-be29-86ef-177d8105e105.md)** method to add a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
 
 
 

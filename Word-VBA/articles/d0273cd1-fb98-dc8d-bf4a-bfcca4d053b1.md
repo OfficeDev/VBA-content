@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [Task](8802fcd5-0947-2ea0-308a-376077633e34.md)** object.
+ _expression_Required. A variable that represents a  **[Task](8802fcd5-0947-2ea0-308a-376077633e34.md)** object.
 
 
 ## Remarks

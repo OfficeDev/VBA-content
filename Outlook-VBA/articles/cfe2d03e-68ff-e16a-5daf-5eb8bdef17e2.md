@@ -27,5 +27,5 @@ End Sub
 ```
 
 
- **Note**  If you want to use a folder other than a default folder, use the  ** [Folders](0c814c3c-74fc-414c-982d-a0097fcb35c2.md)** collection object to refer to any folder that is available in your Folder List.
+ **Note**  If you want to use a folder other than a default folder, use the  **[Folders](0c814c3c-74fc-414c-982d-a0097fcb35c2.md)** collection object to refer to any folder that is available in your Folder List.
 

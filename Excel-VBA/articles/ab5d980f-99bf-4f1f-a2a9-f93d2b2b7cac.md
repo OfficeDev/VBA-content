@@ -7,7 +7,7 @@
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](bb5aeb3a-f8d7-3752-27a5-ff1eedd7d4db.md)|Returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object. Read-only.|
+| [Application](bb5aeb3a-f8d7-3752-27a5-ff1eedd7d4db.md)|Returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object. Read-only.|
 | [AutoSize](8c2659b2-a315-18c3-23f3-7b1488ce8107.md)|The size of the specified object that changes automatically to fit text within its boundaries. Read/write  ** [MsoAutoSize](f3118964-77e6-96df-e606-dfd191434086.md)**.|
 | [Column](4f78bef0-38b8-534a-c6a3-dfbf21b83eda.md)|Returns the  **TextColumn2** object that represents the columns within the text frame. Read-only.|
 | [Creator](a6621e71-b864-9e95-68d0-a74649bc15ec.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.|
@@ -22,8 +22,8 @@
 | [Parent](aed28538-c3bd-ebf7-47d5-ed6be97db000.md)|Returns the parent object for the specified object. Read-only.|
 | [PathFormat](176d0ca9-c633-2056-a83a-c5db70fd0fcf.md)|Returns or sets the path type for the specified text frame. Read/write  ** [MsoPathFormat](744f8ecf-7a08-4bd3-eb8d-1dde193d71b4.md)**.|
 | [Ruler](c5bcd6ec-6135-5589-c3b5-643e50273144.md)|Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.|
-| [TextRange](3b38e21e-f1c4-48b3-308a-14dee8de23d2.md)|Returns the  ** [TextRange2](a6a59c9b-9b64-c1e2-2e98-a1f99025c877.md)** object that represents the text in the object. Read-only.|
-| [ThreeD](ae85ffd6-ec5b-7082-66a9-3de9fff159ee.md)|Returns a  ** [ThreeDFormat](9cb41236-6aba-4d6c-a54c-5e177657c8d1.md)** object that contains 3-D-effect formatting properties for the specified text. Read-only.|
+| [TextRange](3b38e21e-f1c4-48b3-308a-14dee8de23d2.md)|Returns the  **[TextRange2](a6a59c9b-9b64-c1e2-2e98-a1f99025c877.md)** object that represents the text in the object. Read-only.|
+| [ThreeD](ae85ffd6-ec5b-7082-66a9-3de9fff159ee.md)|Returns a  **[ThreeDFormat](9cb41236-6aba-4d6c-a54c-5e177657c8d1.md)** object that contains 3-D-effect formatting properties for the specified text. Read-only.|
 | [VerticalAnchor](605adc62-1b33-d1d9-46ea-7154efb748ed.md)|Returns or sets the vertical anchor type for the specified text. Read/write  ** [MsoVerticalAnchor](eb79204e-6c76-6d63-9609-dcbf34073eb5.md)**.|
 | [WarpFormat](20710bdc-981f-b61d-4be5-f8c760bb9f4c.md)|Returns or sets the warp type for the specified text frame. Read/write  ** [MsoWarpFormat](20710bdc-981f-b61d-4be5-f8c760bb9f4c.md)**.|
 | [WordArtformat](66944f16-1a5e-a7f5-942e-9007107a7fbf.md)|Returns or sets the Word Art type for the specified text frame. Read/write  ** [MsoPresetTextEffect](56a7008d-ce2c-f127-56de-851cb8fef44f.md)**.|
