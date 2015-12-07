@@ -13,7 +13,7 @@ The Outlook  **Application** object has several purposes:
 
 - As the root object, it allows access to other objects in the Outlook hierarchy.
     
-- It allows direct access to a new item created by using  ** [CreateItem](e5fbf367-db16-5042-823e-68e6b805e612.md)**, without having to traverse the object hierarchy.
+- It allows direct access to a new item created by using  **[CreateItem](e5fbf367-db16-5042-823e-68e6b805e612.md)**, without having to traverse the object hierarchy.
     
 - It allows access to the active interface objects (the explorer and the inspector).
     

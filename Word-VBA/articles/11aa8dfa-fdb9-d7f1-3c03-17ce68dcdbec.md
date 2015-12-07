@@ -1,7 +1,7 @@
 
 # LegendEntry.LegendKey Property (Word)
 
-Returns the legend key that is associated with the entry. Read-only  ** [LegendKey](07578528-3e73-7898-47dc-296aefb854f0.md)**.
+Returns the legend key that is associated with the entry. Read-only  **[LegendKey](07578528-3e73-7898-47dc-296aefb854f0.md)**.
 
 
 ## Syntax

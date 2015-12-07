@@ -123,7 +123,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [LabelAlign](4714927a-9ce9-b1b0-dbeb-302aaa48a6c8.md)|The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.|
 | [LabelX](4d3ce486-bd79-cd6d-5886-a0a64cc7abb5.md)|The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.|
 | [LabelY](398b268c-271d-566a-36a6-1d703bdb0345.md)|The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.|
-| [Layout](a1c841e6-221b-3ba6-4212-d76066afda48.md)|Returns the type of layout for the specified text box. Read-only  ** [AcLayoutType](ee963ed0-9293-8ad8-5694-4b93a5e4d89a.md)**.|
+| [Layout](a1c841e6-221b-3ba6-4212-d76066afda48.md)|Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](ee963ed0-9293-8ad8-5694-4b93a5e4d89a.md)**.|
 | [LayoutID](b77ccc32-fbaf-e574-b0ae-293d6f999879.md)|Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.|
 | [Left](a184b336-215d-ffe0-d7ce-92f1fdc3b656.md)|You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.|
 | [LeftMargin](9c5b798b-4afe-85be-aa06-eeff98888850.md)|Along with the  **TopMargin**,  **RightMargin**, and  **BottomMargin** properties. specifies the location of information displayed within a text box control. Read/write **Integer**. .|
@@ -172,7 +172,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [Tag](9df21640-6bea-60a9-f9d0-dac90a60af1c.md)|Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.|
 | [Text](bb510c65-6d0d-468a-c5be-f325d86c2c7f.md)|You can use the  **Text** property to set or return the text contained in a text box. Read/write **String**.|
 | [TextAlign](2b6e5ad7-02f5-4e33-47a4-87882a3113b2.md)|The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.|
-| [TextFormat](3d164782-9d9c-5462-ac40-51772d475407.md)|Gets or sets whether rich text is displayed in the specified text box. Read/write  ** [AcTextFormat](cce0f7f5-ec7d-b80b-71a4-95052b6b7af1.md)**.|
+| [TextFormat](3d164782-9d9c-5462-ac40-51772d475407.md)|Gets or sets whether rich text is displayed in the specified text box. Read/write  **[AcTextFormat](cce0f7f5-ec7d-b80b-71a4-95052b6b7af1.md)**.|
 | [ThemeFontIndex](2abe2063-4658-e441-7a7d-c4d226063172.md)|Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.|
 | [Top](6a220cec-d42c-05e3-c8c0-078687813a8d.md)|You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .|
 | [TopMargin](cd56b2b2-8bb5-b3cf-bacf-13d311e5479b.md)|Along with the  **LeftMargin**,  **RightMargin**, and  **BottomMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.|

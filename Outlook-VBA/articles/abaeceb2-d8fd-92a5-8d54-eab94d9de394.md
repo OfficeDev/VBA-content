@@ -1,7 +1,7 @@
 
 # How to: Set the Style of Tabs for a MultiPage and a TabStrip Control
 
-The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](ac0fa233-81fe-8a34-4113-6907c6d8f7e2.md)** and ** [TabStrip](643c896a-2304-42f3-f5e9-0feee6d22364.md)**. This example also demonstrates using a  ** [Label](546cc9e1-90e9-3b29-88ac-02fcc75f8f29.md)**. The user chooses a style by selecting an  ** [OptionButton](8009dd64-44b5-3b66-e8d4-e3535e014396.md)**.
+The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](ac0fa233-81fe-8a34-4113-6907c6d8f7e2.md)** and **[TabStrip](643c896a-2304-42f3-f5e9-0feee6d22364.md)**. This example also demonstrates using a  **[Label](546cc9e1-90e9-3b29-88ac-02fcc75f8f29.md)**. The user chooses a style by selecting an  **[OptionButton](8009dd64-44b5-3b66-e8d4-e3535e014396.md)**.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 

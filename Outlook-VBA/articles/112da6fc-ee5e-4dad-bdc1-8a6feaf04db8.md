@@ -25,7 +25,7 @@ This object has the following events:
 | [CustomAction](cdd8a5cb-1a18-85fe-0a26-b89c6bb61a7d.md)|Occurs when a custom action of an item (which is an instance of the parent object) executes.|
 | [CustomPropertyChange](8f8e35f1-c574-d66e-6833-701da352b467.md)|Occurs when a custom property of an item (which is an instance of the parent object) is changed. |
 | [Forward](29b59fb9-0752-0260-fa57-652213a6c657.md)|Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).|
-| [Open](5bc620d5-9dd5-e7a0-10ff-a1ea7e2fdc56.md)|Occurs when an instance of the parent object is being opened in an  ** [Inspector](d7384756-669c-0549-1032-c3b864187994.md)**. |
+| [Open](5bc620d5-9dd5-e7a0-10ff-a1ea7e2fdc56.md)|Occurs when an instance of the parent object is being opened in an  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)**. |
 | [PropertyChange](932a2ded-1e92-e40d-8f88-9044cccb7863.md)|Occurs when an explicit built-in property (for example,  ** [Subject](57f0f242-6d04-175f-4ea2-25145787f5bd.md)**) of an instance of the parent object is changed. |
 | [Read](581f3a16-2cc2-839e-3d48-e454be17b8cd.md)|Occurs when an instance of the parent object is opened for editing by the user. |
 | [ReadComplete](0135661c-ed4d-406d-5771-dbcaf160ffc4.md)|Occurs when Outlook has completed reading the properties of the item.|

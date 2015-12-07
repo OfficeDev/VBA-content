@@ -15,7 +15,7 @@ You can use the  **AllowDeletions** property to specify whether a user can delet
 
 You can set this property to No to allow users to view and edit existing records but not to delete them. When  **AllowDeletions** is set to Yes, records may be deleted so long as existing referential integrity rules aren't broken.
 
-If you want to prevent changes to existing records (make a form read-only), set the  ** [AllowAdditions](8e440a96-7f9e-c009-5055-377c75999267.md)**,  **AllowDeletions**, and  **[AllowEdits](3f667914-3dcc-7d4e-ca66-4338fc08e63a.md)** properties to No. You can also make records read-only by setting the  ** [RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)**property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](8e440a96-7f9e-c009-5055-377c75999267.md)**,  **AllowDeletions**, and  **[AllowEdits](3f667914-3dcc-7d4e-ca66-4338fc08e63a.md)** properties to No. You can also make records read-only by setting the  ** [RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)**property to Snapshot.
 
 When the  **AllowDeletions** property is set to No, the **Delete Record** command on the **Edit** menu isn't available.
 

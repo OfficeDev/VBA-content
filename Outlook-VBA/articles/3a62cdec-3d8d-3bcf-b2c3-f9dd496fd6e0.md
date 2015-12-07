@@ -1,7 +1,7 @@
 
 # AddressList.AddressListType Property (Outlook)
 
-Returns a constant from the  **[OlAddressListType](60da59f7-8577-a91a-e4cd-7499be207b32.md)** enumeration that represents the type of the ** [AddressList](84611afe-48b1-185b-df4b-0f004e7436ff.md)**. Read-only.
+Returns a constant from the  **[OlAddressListType](60da59f7-8577-a91a-e4cd-7499be207b32.md)** enumeration that represents the type of the **[AddressList](84611afe-48b1-185b-df4b-0f004e7436ff.md)**. Read-only.
 
 
 ## Syntax

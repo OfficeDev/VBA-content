@@ -39,7 +39,7 @@
 | [PaperSize](7c26e996-8399-31b4-8e53-772de8bf8eb2.md)|Returns or sets the size of the paper. Read/write  [XlPaperSize](de26e46a-d82a-1383-91f5-a65f07daad97.md).|
 | [Parent](9dc9d85b-5abd-a33d-c044-95f56612ddc1.md)|Returns the parent object for the specified object. Read-only.|
 | [PrintArea](da4d5231-cc74-5940-ffd4-224b78e5244c.md)|Returns or sets the range to be printed, as a string using A1-style references in the language of the macro. Read/write  **String**.|
-| [PrintComments](1f479032-ca02-982f-5877-83c776ce2611.md)|Returns or sets the way comments are printed with the sheet. Read/write  ** [XlPrintLocation](dee0a0f7-85aa-b511-b43d-f90948e77901.md)**.|
+| [PrintComments](1f479032-ca02-982f-5877-83c776ce2611.md)|Returns or sets the way comments are printed with the sheet. Read/write  **[XlPrintLocation](dee0a0f7-85aa-b511-b43d-f90948e77901.md)**.|
 | [PrintErrors](4a864a1e-cbdb-8ef7-536d-d2c5f518f9db.md)|Sets or returns an  **[XlPrintErrors](c724f9b2-ba79-6a7c-e05f-1490b7354487.md)** contstant specifying the type of print error displayed. This feature allows users to suppress the display of error values when printing a worksheet. Read/write .|
 | [PrintGridlines](9a92c157-046a-00b5-3813-a5c924ac42b9.md)| **True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean**.|
 | [PrintHeadings](027441c6-da40-f518-a166-adb54da02a27.md)| **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean**.|

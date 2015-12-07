@@ -1,7 +1,7 @@
 
 # Shape.FormControlType Property (Excel)
 
-Returns the Microsoft Excel control type. Read-only  ** [XlFormControl](fad54f9d-4ef2-b2ac-d187-131e5bdd18e1.md)**.
+Returns the Microsoft Excel control type. Read-only  **[XlFormControl](fad54f9d-4ef2-b2ac-d187-131e5bdd18e1.md)**.
 
 
 ## Syntax

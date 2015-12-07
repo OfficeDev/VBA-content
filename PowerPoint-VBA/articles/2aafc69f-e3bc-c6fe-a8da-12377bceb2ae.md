@@ -1,7 +1,7 @@
 
 # TickLabels.Font Property (PowerPoint)
 
-Returns the font of the specified object. Read-only  ** [ChartFont](185dfaa0-4ed9-01d2-6584-b0838b50ef8c.md)**.
+Returns the font of the specified object. Read-only  **[ChartFont](185dfaa0-4ed9-01d2-6584-b0838b50ef8c.md)**.
 
 
 ## Syntax

@@ -18,7 +18,7 @@ A collection of  **PageNumber**objects that represent the page numbers in a sing
 |**Name**|**Description**|
 |:-----|:-----|
 | [Application](38bed1b5-4f4d-f14b-c88e-dbbdb2ebba46.md)|Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.|
-| [ChapterPageSeparator](f7bd5275-2bb3-fa5f-3a1b-09affa027daf.md)|Returns or sets the separator character used between the chapter number and the page number. Read/write  ** [WdSeparatorType](94cb01b0-b850-ddc6-46ce-ea0261d38247.md)**.|
+| [ChapterPageSeparator](f7bd5275-2bb3-fa5f-3a1b-09affa027daf.md)|Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](94cb01b0-b850-ddc6-46ce-ea0261d38247.md)**.|
 | [Count](df771ab5-4a3c-d477-a832-7ec479ca3c2e.md)|Returns a  **Long** that represents the number of page numbers in the collection. Read-only.|
 | [Creator](bfd4e131-9c8a-2b37-b62c-fb8728b0e974.md)|Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.|
 | [DoubleQuote](38a63f94-2a47-cea5-69a8-16616458fb9a.md)| **True** if Microsoft Word encloses the specified **PageNumbers**object in double quotation marks ("). Read/write  **Boolean**.|

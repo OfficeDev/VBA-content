@@ -1,7 +1,7 @@
 
 # Axis.CategoryType Property (Word)
 
-Returns or sets the category axis type. Read/write  ** [XlCategoryType](10dad161-2a90-7915-51bb-ddc69427c003.md)**.
+Returns or sets the category axis type. Read/write  **[XlCategoryType](10dad161-2a90-7915-51bb-ddc69427c003.md)**.
 
 
 ## Syntax

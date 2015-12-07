@@ -1,7 +1,7 @@
 
 # SharingItem.CC Property (Outlook)
 
-Returns a  **String** representing the display list of carbon copy (CC) names for a ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
+Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
 
 
 ## Syntax

@@ -10,13 +10,13 @@
 | [Application](b3c44d53-82d5-dcfd-a9f7-c2aee2aa7358.md)|When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.|
 | [AutoScaling](fecafb42-56fb-3c33-dc03-cb290b4a28df.md)| **True** if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **[RightAngleAxes](632aa454-4113-97d3-a80c-eb745a950c6f.md)** property must be  **True**. Read/write  **Boolean**.|
 | [BackWall](c72de543-7be9-55ff-20d0-a5330ca92144.md)|Returns a  **[Walls](9c6f0c5b-dbb8-7d71-44b7-29987e750cd3.md)** object that allows the user to individually format the back wall of a 3-D chart. Read-only.|
-| [BarShape](46ce2a4f-8465-493b-ff89-9ddc5e619bf4.md)|Returns or sets the shape used with the 3-D bar or column chart. Read/write  ** [XlBarShape](63a7cea6-e741-8e5b-94f3-16acfe22cb34.md)**.|
+| [BarShape](46ce2a4f-8465-493b-ff89-9ddc5e619bf4.md)|Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[XlBarShape](63a7cea6-e741-8e5b-94f3-16acfe22cb34.md)**.|
 | [CategoryLabelLevel](b3a54685-18d7-8c24-b2e8-f3bfb03fc69e.md)|Returns a  ** [XlCategoryLabelLevel Enumeration (Excel)](06c766ab-57d8-a11f-f8be-4c9a582f8889.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.|
 | [ChartArea](125d6176-b770-900b-8572-ce33b95ad897.md)|Returns a  **[ChartArea](883423b5-7689-b164-c0a3-8dab049b5d9e.md)** object that represents the complete chart area for the chart. Read-only.|
 | [ChartColor](a2bd828b-cf03-2927-8fe6-70414dafd46a.md)|Returns or sets an  **Integer** that represents the color scheme for the chart. Read-write.|
 | [ChartStyle](b4bc3251-6afc-18e4-214a-a755a46776ba.md)|Returns or sets the chart style for the chart. Read/write  **Variant**.|
 | [ChartTitle](3a083c1f-7a3f-3368-c547-297f0e5d26cb.md)|Returns a  **[ChartTitle](e0a10650-66dd-dd33-e9ba-5a5c0f78f2c3.md)** object that represents the title of the specified chart. Read-only.|
-| [ChartType](532a2988-babf-b51a-7548-2f11f94c82a6.md)|Returns or sets the chart type. Read/write  ** [XlChartType](bba4ee89-ee91-f55a-d2e0-59a73e5bfabe.md)**.|
+| [ChartType](532a2988-babf-b51a-7548-2f11f94c82a6.md)|Returns or sets the chart type. Read/write  **[XlChartType](bba4ee89-ee91-f55a-d2e0-59a73e5bfabe.md)**.|
 | [CodeName](88872dad-53b2-580a-9bbc-6a29066352a6.md)|Returns the code name for the object. Read-only  **String**.|
 | [Creator](2e80075a-d113-a602-d09f-c04f6e0d568d.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.|
 | [DataTable](e977daf1-45a1-a069-3d6c-afbe13724d11.md)|Returns a  **[DataTable](aca0850b-2e72-cde9-b751-633876e1df99.md)** object that represents the chart data table. Read-only.|

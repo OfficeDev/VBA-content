@@ -1,7 +1,7 @@
 
 # Working with EntryIDs and StoreIDs
 
-This topic describes using the Entry ID of an item and Store ID of a store to access a specific item in a  ** [NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)**.
+This topic describes using the Entry ID of an item and Store ID of a store to access a specific item in a  **[NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)**.
 
 If you're creating a more complex solution using Microsoft Outlook that involves linking or cross-referencing items in folders, one option is to use the MAPI-based identifiers (IDs) of each item. If you know the IDs of an item and the folder it's stored in, you can directly reference the item using the  ** [NameSpace.GetItemFromID](f2abff80-4c04-998b-654b-28600424a16f.md)**method.
 

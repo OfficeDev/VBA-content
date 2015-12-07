@@ -49,12 +49,12 @@ Represents all the formatting for a paragraph.
 | [KeepWithNext](5fc8ad97-d839-7837-04c7-dac2efe1d1c2.md)| **True** if the specified paragraph remains on the same page as the paragraph that follows it when Microsoft Word repaginates the document. Read/write **Long**.|
 | [LeftIndent](bbd102d3-8263-a7ec-6909-518ab9e88a8f.md)|Returns or sets a  **Single** that represents the left indent value (in points) for the specified paragraph formatting. Read/write.|
 | [LineSpacing](30d067e2-9802-f119-bc4c-bd31bfe187f5.md)|Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single**.|
-| [LineSpacingRule](a08e9eeb-1b85-7cd8-a497-ac7d63234267.md)|Returns or sets the line spacing for the specified paragraph formatting. Read/write  ** [WdLineSpacing](02e95bf9-b295-2199-a5cf-a7798b1273a0.md)**.|
+| [LineSpacingRule](a08e9eeb-1b85-7cd8-a497-ac7d63234267.md)|Returns or sets the line spacing for the specified paragraph formatting. Read/write  **[WdLineSpacing](02e95bf9-b295-2199-a5cf-a7798b1273a0.md)**.|
 | [LineUnitAfter](243cde4f-8bcb-1be6-0885-ffaf0bbe83d1.md)|Returns or sets the amount of spacing (in gridlines) after the specified paragraphs. Read/write  **Single**.|
 | [LineUnitBefore](05ad3a0e-acc6-dc42-640c-eafabae1d391.md)|Returns or sets the amount of spacing (in gridlines) before the specified paragraphs. Read/write  **Single**.|
 | [MirrorIndents](51521bd0-f492-c83c-1688-04779fa5cd53.md)|Returns or sets a  **Long** that represents whether left and right indents are the same width. Can be **True**,  **False**, or  **wdUndefined**. Read/write.|
 | [NoLineNumber](49116752-3c3a-d61c-6d54-2dbca5e902f1.md)| **True** if line numbers are repressed for the specified paragraphs. Can be **True**,  **False**, or  **wdUndefined**. Read/write  **Long**.|
-| [OutlineLevel](e1356015-636e-87c3-a6c7-f765276a6079.md)|Returns or sets the outline level for the specified paragraphs. Read/write  ** [WdOutlineLevel](44a38f7e-355c-3ff3-1408-0972f20778d2.md)**.|
+| [OutlineLevel](e1356015-636e-87c3-a6c7-f765276a6079.md)|Returns or sets the outline level for the specified paragraphs. Read/write  **[WdOutlineLevel](44a38f7e-355c-3ff3-1408-0972f20778d2.md)**.|
 | [PageBreakBefore](b024b5a6-4207-c490-97a6-a5eb2903c90e.md)| **True** if a page break is forced before the specified paragraphs. Can be **True**,  **False**, or  **wdUndefined**. Read/write  **Long**.|
 | [Parent](fdc51dcf-3d40-9c24-a7de-4d69cc8e98ed.md)|Returns an  **Object** that represents the parent object of the specified **ParagraphFormat** object.|
 | [ReadingOrder](4a22e638-2af8-096a-d45c-2eed21dc8002.md)|Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write  **WdReadingOrder**.|

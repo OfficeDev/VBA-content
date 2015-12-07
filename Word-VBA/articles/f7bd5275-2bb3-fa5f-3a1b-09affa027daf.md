@@ -1,7 +1,7 @@
 
 # PageNumbers.ChapterPageSeparator Property (Word)
 
-Returns or sets the separator character used between the chapter number and the page number. Read/write  ** [WdSeparatorType](94cb01b0-b850-ddc6-46ce-ea0261d38247.md)**.
+Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](94cb01b0-b850-ddc6-46ce-ea0261d38247.md)**.
 
 
 ## Syntax

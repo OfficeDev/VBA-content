@@ -1,7 +1,7 @@
 
 # SharingItem.SentOnBehalfOfName Property (Outlook)
 
-Returns or sets a  **String** indicating the display name for the intended sender of the ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
+Returns or sets a  **String** indicating the display name for the intended sender of the **[SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
 
 
 ## Syntax
