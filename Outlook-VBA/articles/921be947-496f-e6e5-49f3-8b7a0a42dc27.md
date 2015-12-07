@@ -17,7 +17,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|DestFldr|Required| ** [Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)**|An expression that returns a  **Folder** object. The destination folder.|
+|DestFldr|Required| **[Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
 ### Return Value
 

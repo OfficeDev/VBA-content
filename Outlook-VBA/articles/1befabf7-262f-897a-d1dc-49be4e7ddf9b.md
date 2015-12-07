@@ -17,7 +17,7 @@ Responds to a task request.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Response|Required| ** [OlTaskResponse](7616cbdc-fc9c-abbe-fd07-ebdadc13ede2.md)**| The response to the request.|
+|Response|Required| **[OlTaskResponse](7616cbdc-fc9c-abbe-fd07-ebdadc13ede2.md)**| The response to the request.|
 |fNoUI|Required| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
 |fAdditionalTextDialog|Required| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only iffNoUI is **False**.|
 

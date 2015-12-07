@@ -17,8 +17,8 @@ Returns an array of pages that are set to be published to a server.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Flags|Required| ** [VisLangFlags](9654b6db-072a-6bcb-929d-05d18cb96009.md)**|Out parameter. Indicates whether universal or local page names are returned in NamesArray. See Remarks for possible values.|
-|PublishPages|Required| ** [VisPublishPages](a638bea0-67e5-0fd1-1984-ffafb37afcb2.md)**|Out parameter. Indicates whether all pages or selected pages are set to be published. See Remarks for possible values.|
+|Flags|Required| **[VisLangFlags](9654b6db-072a-6bcb-929d-05d18cb96009.md)**|Out parameter. Indicates whether universal or local page names are returned in NamesArray. See Remarks for possible values.|
+|PublishPages|Required| **[VisPublishPages](a638bea0-67e5-0fd1-1984-ffafb37afcb2.md)**|Out parameter. Indicates whether all pages or selected pages are set to be published. See Remarks for possible values.|
 |NamesArray()|Required| **String**|Out parameter. Returns the names of the pages set to be published.|
 
 ### Return Value

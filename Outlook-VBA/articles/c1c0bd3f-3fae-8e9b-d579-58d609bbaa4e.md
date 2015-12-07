@@ -19,7 +19,7 @@ Obtains an icon image that will be displayed for a particular type of icon for t
 |:-----|:-----|:-----|:-----|
 |FormRegionName|Required| **String**|The name of the form region which is the name used when registering the form region in the Windows registry.|
 |LCID|Required| **Long**|The locale ID that identifies the language that Outlook is currently using. This value is used to obtain the localization strings corresponding to this language for the form region.|
-|Icon|Required| ** [OlFormRegionIcon](22a9e2aa-e264-8392-b1ad-a2ab995b6440.md)**|A constant that identifies the type of icon.|
+|Icon|Required| **[OlFormRegionIcon](22a9e2aa-e264-8392-b1ad-a2ab995b6440.md)**|A constant that identifies the type of icon.|
 
 ### Return Value
 

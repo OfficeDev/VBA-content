@@ -17,7 +17,7 @@ Occurs when any protected view window is activated.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PvWindow|Required| ** [ProtectedViewWindow](d77e80e7-c54e-5954-1586-dacd3c9f7434.md)**|The protected view window that is activated.|
+|PvWindow|Required| **[ProtectedViewWindow](d77e80e7-c54e-5954-1586-dacd3c9f7434.md)**|The protected view window that is activated.|
 
 ## Example
 

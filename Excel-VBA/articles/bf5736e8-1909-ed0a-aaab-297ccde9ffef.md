@@ -17,7 +17,7 @@ Sends a verb to the server of the specified OLE object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Verb|Optional| ** [XlOLEVerb](56664ebc-d745-2279-3f6e-b4fdbc6f599a.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
+|Verb|Optional| **[XlOLEVerb](56664ebc-d745-2279-3f6e-b4fdbc6f599a.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
 ## See also
 

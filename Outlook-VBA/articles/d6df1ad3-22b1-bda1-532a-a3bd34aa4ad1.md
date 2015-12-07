@@ -17,7 +17,7 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|defaultMode|Required| ** [OlDefaultSelectNamesDisplayMode](4a9c2183-c704-fc4d-e3c8-32c53b9688bb.md)**|A constant in the  **OlDefaultSelectNamesDisplayMode** enumeration that determines the default caption and button labels for the **Select Names** dialog box.|
+|defaultMode|Required| **[OlDefaultSelectNamesDisplayMode](4a9c2183-c704-fc4d-e3c8-32c53b9688bb.md)**|A constant in the  **OlDefaultSelectNamesDisplayMode** enumeration that determines the default caption and button labels for the **Select Names** dialog box.|
 
 ## Remarks
 

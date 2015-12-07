@@ -17,7 +17,7 @@ Returns a  **[Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)** object that ind
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Store|Required| ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)**|The store where the folder to which conversation items are moved resides.|
+|Store|Required| **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)**|The store where the folder to which conversation items are moved resides.|
 
 ### Return Value
 

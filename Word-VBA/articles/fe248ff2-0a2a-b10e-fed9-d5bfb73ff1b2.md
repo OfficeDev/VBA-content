@@ -18,16 +18,16 @@ Saves a document as PDF or XPS format.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |OutputFileName|Required| **String**|The path and file name name of the new PDF or XPS file.|
-|ExportFormat|Required| ** [WdExportFormat](cac6a17b-56e6-5bc9-26f8-6569adcbd118.md)**|Specifies either PDF or XPS format.|
+|ExportFormat|Required| **[WdExportFormat](cac6a17b-56e6-5bc9-26f8-6569adcbd118.md)**|Specifies either PDF or XPS format.|
 |OpenAfterExport|Optional| **Boolean**|Opens the new file after exporting the contents.|
-|OptimizeFor|Optional| ** [WdExportOptimizeFor](1570b20b-7da3-42f4-6c49-a3b1d0e70beb.md)**|Specifies whether to optimize for screen or print.|
-|Range|Optional| ** [WdExportRange](45b45e2d-7eb8-897b-9167-9695000e8ebb.md)**|Specifies whether the export range is the entire document, the current page, a range of text, or the current selection. the default is to export the entire document.|
+|OptimizeFor|Optional| **[WdExportOptimizeFor](1570b20b-7da3-42f4-6c49-a3b1d0e70beb.md)**|Specifies whether to optimize for screen or print.|
+|Range|Optional| **[WdExportRange](45b45e2d-7eb8-897b-9167-9695000e8ebb.md)**|Specifies whether the export range is the entire document, the current page, a range of text, or the current selection. the default is to export the entire document.|
 |From|Optional| **Long**|Specifies the starting page number, if the Range parameter is set to  **wdExportFromTo**.|
 |To|Optional| **Long**|Specifies the ending page number, if the Range parameter is set to  **wdExportFromTo**.|
-|Item|Optional| ** [WdExportItem](7b8259e7-1f80-25e9-fe5c-c7c2535c6ca4.md)**|Specifies whether the export process includes text only or includes text with markup.|
+|Item|Optional| **[WdExportItem](7b8259e7-1f80-25e9-fe5c-c7c2535c6ca4.md)**|Specifies whether the export process includes text only or includes text with markup.|
 |IncludeDocProps|Optional| **Boolean**|Specifies whether to include document properties in the newly exported file.|
 |KeepIRM|Optional| **Boolean**|Specifies whether to copy IRM permissions to an XPS document if the source document has IRM protections. Default value is  **True**.|
-|CreateBookmarks|Optional| ** [WdExportCreateBookmarks](6bb7275e-b7f2-9c04-df52-29610c4bb7c3.md)**|Specifies whether to export bookmarks and the type of bookmarks to export.|
+|CreateBookmarks|Optional| **[WdExportCreateBookmarks](6bb7275e-b7f2-9c04-df52-29610c4bb7c3.md)**|Specifies whether to export bookmarks and the type of bookmarks to export.|
 |DocStructureTags|Optional| **Boolean**|Specifies whether to include extra data to help screen readers, for example information about the flow and logical organization of the content. Default value is  **True**.|
 |BitmapMissingFonts|Optional| **Boolean**|Specifies whether to include a bitmap of the text. Set this parameter to  **True** when font licenses do not permit a font to be embedded in the PDF file. If **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available. Default value is  **True**.|
 |UseISO19005_1|Optional| **Boolean**|Specifies whether to limit PDF usage to the PDF subset standardized as ISO 19005-1. If  **True**, the resulting files are more reliably self-contained but may be larger or show more visual artifacts due to the restrictions of the format. Default value is  **False**.|

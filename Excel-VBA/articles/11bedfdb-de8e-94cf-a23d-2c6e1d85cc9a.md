@@ -18,7 +18,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Source|Required| **Variant**|The new data as a  **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object.|
-|Rowcol|Optional| ** [XlRowCol](78f808d5-e5e4-bee8-93ae-d2589d854fe7.md)**|. Specifies whether the new values are in the rows or columns of the specified range.|
+|Rowcol|Optional| **[XlRowCol](78f808d5-e5e4-bee8-93ae-d2589d854fe7.md)**|. Specifies whether the new values are in the rows or columns of the specified range.|
 |SeriesLabels|Optional| **Variant**| **True** if the first row or column contains the name of the data series. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the series name from the contents of the first row or column.|
 |CategoryLabels|Optional| **Variant**| **True** if the first row or column contains the name of the category labels. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the category label from the contents of the first row or column.|
 |Replace|Optional| **Variant**|If CategoryLabels is **True** andReplace is **True**, the specified categories replace the categories that currently exist for the series. If Replace is **False**, the existing categories will not be replaced. The default value is  **False**.|

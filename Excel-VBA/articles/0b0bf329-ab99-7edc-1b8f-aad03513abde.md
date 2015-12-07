@@ -18,8 +18,8 @@ Parses a column of cells that contain text into several columns.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Destination|Optional| **Variant**|A  **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
-|DataType|Optional| ** [XlTextParsingType](71d76a41-c0b0-0b0f-27b5-7cac0d4c4ac4.md)**|The format of the text to be split into columns.|
-|TextQualifier|Optional| ** [XlTextQualifier](ba209892-9dea-84db-eafd-629c7ab0b20f.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
+|DataType|Optional| **[XlTextParsingType](71d76a41-c0b0-0b0f-27b5-7cac0d4c4ac4.md)**|The format of the text to be split into columns.|
+|TextQualifier|Optional| **[XlTextQualifier](ba209892-9dea-84db-eafd-629c7ab0b20f.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
 |ConsecutiveDelimiter|Optional| **Variant**| **True** to have Microsoft Excel consider consecutive delimiters as one delimiter. The default value is **False**.|
 |Tab|Optional| **Variant**| **True** to haveDataType be **xlDelimited** and to have the tab character be a delimiter. The default value is **False**.|
 |Semicolon|Optional| **Variant**| **True** to haveDataType be **xlDelimited** and to have the semicolon be a delimiter. The default value is **False**.|

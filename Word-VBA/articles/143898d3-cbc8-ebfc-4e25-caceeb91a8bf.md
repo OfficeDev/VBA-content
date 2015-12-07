@@ -17,8 +17,8 @@ Returns a single  **[Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object fro
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| ** [XlAxisType](f02ed77e-8315-f318-ded2-751bc72d19fc.md)**|One of the enumeration values that specifies the axis type.|
-|AxisGroup|Optional| ** [XlAxisGroup](ed3ff1ce-28de-165d-bbfa-f3d770f32522.md)**|One of the enumeration values that specifies the axis.|
+|Type|Required| **[XlAxisType](f02ed77e-8315-f318-ded2-751bc72d19fc.md)**|One of the enumeration values that specifies the axis type.|
+|AxisGroup|Optional| **[XlAxisGroup](ed3ff1ce-28de-165d-bbfa-f3d770f32522.md)**|One of the enumeration values that specifies the axis.|
 
 ## Example
 

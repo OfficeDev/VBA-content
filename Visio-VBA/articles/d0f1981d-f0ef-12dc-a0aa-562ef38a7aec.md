@@ -17,7 +17,7 @@ Returns the identifiers (IDs) of the data recordsets that are set to be publishe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PublishDataRecordsets|Required| ** [VisPublishDataRecordsets](f0b9ad67-fabd-d0e2-74ca-61c2e6e242b9.md)**|Out parameter. Returns whether all, no, or selected data recordsets are set to be published. See Remarks for possible values.|
+|PublishDataRecordsets|Required| **[VisPublishDataRecordsets](f0b9ad67-fabd-d0e2-74ca-61c2e6e242b9.md)**|Out parameter. Returns whether all, no, or selected data recordsets are set to be published. See Remarks for possible values.|
 |DataRecordsetIDs()|Required| **Long**|Out parameter. Returns the IDs of the data recordsets that are set to be published.|
 
 ### Return Value
