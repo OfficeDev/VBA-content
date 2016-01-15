@@ -25,6 +25,7 @@ This property applies only to custom document properties. For built-in document 
 
 Use the  **LinkSource**property to set the source for the specified linked property. Setting the  **LinkSource** property sets the **LinkToContent** property to **True**.
 
+For Excel, If LinkToContent is set to **True**, you must supply an address or range name for the LinkSource from the workbook. If the address or range name covers more than one cell, the custom document property takes the value from the top left cell of the range.
 
 ## Example
 
