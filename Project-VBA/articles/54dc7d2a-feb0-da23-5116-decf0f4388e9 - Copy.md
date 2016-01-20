@@ -1,7 +1,7 @@
 
 # Task.OutlineParent Property (Project)
 
-Gets a  ** [Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object representing the parent of a task in the outline structure. Read-only **Task**.
+Gets a  **[Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object representing the parent of a task in the outline structure. Read-only **Task**.
 
 
 ## Syntax

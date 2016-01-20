@@ -8,7 +8,7 @@ Returns or sets the color for the specified  **Font** object in a right-to-left 
 
  _expression_. **ColorIndexBi**
 
- _expression_Required. A variable that represents a  ** [Font](bc97f4df-fc81-d6c8-e99a-d50dc793b7ae.md)** object.
+ _expression_Required. A variable that represents a  **[Font](bc97f4df-fc81-d6c8-e99a-d50dc793b7ae.md)** object.
 
 
 ## Remarks

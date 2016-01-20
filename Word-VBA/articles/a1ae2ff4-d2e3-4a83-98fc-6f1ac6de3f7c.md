@@ -8,7 +8,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  ** [Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
+ _expression_A variable that represents a  **[Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
 
 
 ## See also

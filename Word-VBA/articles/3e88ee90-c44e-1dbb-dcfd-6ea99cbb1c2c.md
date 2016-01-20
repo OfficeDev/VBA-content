@@ -1,14 +1,14 @@
 
 # MailMergeDataSource.FieldNames Property (Word)
 
-Returns a  ** [MailMergeFieldNames](5a3752da-63b2-f0f9-7456-01a31bac5f62.md)**collection that represents the names of all the fields in the specified mail merge data source. Read-only.
+Returns a  **[MailMergeFieldNames](5a3752da-63b2-f0f9-7456-01a31bac5f62.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax
 
  _expression_. **FieldNames**
 
- _expression_A variable that represents a  ** [MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
+ _expression_A variable that represents a  **[MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
 
 
 ## Remarks

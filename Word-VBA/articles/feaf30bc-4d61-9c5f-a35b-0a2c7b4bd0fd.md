@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Task
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
+ _expression_Required. A variable that represents a  **[Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
 
 
 ## See also

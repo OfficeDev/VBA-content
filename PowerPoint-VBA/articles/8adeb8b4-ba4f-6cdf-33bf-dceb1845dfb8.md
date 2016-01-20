@@ -8,12 +8,12 @@ Returns all the series in the chart.
 
  _expression_. **SeriesCollection**( **_Index_**)
 
- _expression_A variable that represents a  ** [Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
+ _expression_A variable that represents a  **[Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
 
 
 ### Return Value
 
-A  ** [SeriesCollection](6277f9e0-0198-0773-9c54-f2d009c0ba7a.md)** object that represents all the series in the chart.
+A  **[SeriesCollection](6277f9e0-0198-0773-9c54-f2d009c0ba7a.md)** object that represents all the series in the chart.
 
 
 ## Example

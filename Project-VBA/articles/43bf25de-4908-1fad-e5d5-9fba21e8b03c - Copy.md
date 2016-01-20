@@ -13,5 +13,5 @@
 
 ## Remarks
 
-The  **Visible** property can only be set to **False** if the **Application**. ** [UserControl](4c67c930-5c15-43cf-7536-ab11661af1a7.md)** property is **False** and there are no visible projects. If the **UserControl** property is **True**, the Project application is under user control rather than programmatic control, and the  **Visible** property is also **True**.
+The  **Visible** property can only be set to **False** if the **Application**. **[UserControl](4c67c930-5c15-43cf-7536-ab11661af1a7.md)** property is **False** and there are no visible projects. If the **UserControl** property is **True**, the Project application is under user control rather than programmatic control, and the  **Visible** property is also **True**.
 

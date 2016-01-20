@@ -8,7 +8,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  ** [ChartGroups](2db874db-91af-0b1e-7496-92a8443caade.md)** object.
+ _expression_A variable that represents a  **[ChartGroups](2db874db-91af-0b1e-7496-92a8443caade.md)** object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-To use the  **BorderColor** property, the ** [BorderStyle](c71b8117-a731-d0ab-89a7-84dd9aa089c4.md)** property must be set to a value other than 0.
+To use the  **BorderColor** property, the **[BorderStyle](c71b8117-a731-d0ab-89a7-84dd9aa089c4.md)** property must be set to a value other than 0.
 
- **BorderStyle** uses **BorderColor** to define the border colors. The ** [SpecialEffect](b7365d4e-c25d-9fa6-c088-0cc5bb6bb200.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in Control Panel.
+ **BorderStyle** uses **BorderColor** to define the border colors. The **[SpecialEffect](b7365d4e-c25d-9fa6-c088-0cc5bb6bb200.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in Control Panel.
 

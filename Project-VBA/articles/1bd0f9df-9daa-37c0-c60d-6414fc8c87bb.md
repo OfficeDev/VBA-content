@@ -1,7 +1,7 @@
 
 # Task.SuccessorTasks Property (Project)
 
-Gets a  ** [Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the successors of the task. Read-only **Tasks**.
+Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the successors of the task. Read-only **Tasks**.
 
 
 ## Syntax

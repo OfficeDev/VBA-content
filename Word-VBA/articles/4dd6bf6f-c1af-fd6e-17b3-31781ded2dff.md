@@ -8,7 +8,7 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
  _expression_. **Text**
 
- _expression_A variable that represents a  ** [ChartCharacters](cffe50a7-3fdc-75ad-2e32-081ba2310c1d.md)** object.
+ _expression_A variable that represents a  **[ChartCharacters](cffe50a7-3fdc-75ad-2e32-081ba2310c1d.md)** object.
 
 
 ## See also

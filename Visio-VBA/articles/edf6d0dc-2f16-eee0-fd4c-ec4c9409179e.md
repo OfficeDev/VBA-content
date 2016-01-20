@@ -9,7 +9,7 @@ The collection of  **DataRecordset** objects associated with a **Document** obje
 
 ## Remarks
 
-The default property of the  **DataRecordsets** collection is ** [Item](8a289fb1-8cc5-eb76-efb1-c01f73c6340a.md)**.
+The default property of the  **DataRecordsets** collection is **[Item](8a289fb1-8cc5-eb76-efb1-c01f73c6340a.md)**.
 
 Every Visio  **Document** object has a **DataRecordsets** collection, which is empty until you import data into Visio. To connect a Visio document to a data source, you add a **DataRecordset** object to the **DataRecordsets** collection of the document.
 

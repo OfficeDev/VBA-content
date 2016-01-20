@@ -1,7 +1,7 @@
 
 # ContentControl.Range Property (Word)
 
-Returns a  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** that represents the contents of the content control in the active document. Read-only.
+Returns a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** that represents the contents of the content control in the active document. Read-only.
 
 
 ## Syntax

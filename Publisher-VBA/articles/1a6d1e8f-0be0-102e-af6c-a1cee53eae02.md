@@ -1,7 +1,7 @@
 
 # InlineShapes Object (Publisher)
 
-Contains a collection of  ** [Shape](666cb7f0-62a8-f419-9838-007ef29506ee.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
+Contains a collection of  **[Shape](666cb7f0-62a8-f419-9838-007ef29506ee.md)** objects, which represent objects in the drawing layer, where **Shape.IsInline** is **True**. The collection of shapes is limited to shapes within a given text range.
 
 
 ## Remarks
@@ -15,7 +15,7 @@ The **InlineShapes** collection is not available in the **Page.Shapes** collecti
 
 ## Example
 
-Use the  ** [InlineShapes](ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44.md)** property on the ** [TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)**object to return an  **InlineShapes** collection. The following example finds the first shape, a text box, on page one of the publication, and appends text to the end of the text range in the text box if there is more than one inline shape within the text range.
+Use the  **[InlineShapes](ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44.md)** property on the **[TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)** object to return an  **InlineShapes** collection. The following example finds the first shape, a text box, on page one of the publication, and appends text to the end of the text range in the text box if there is more than one inline shape within the text range.
 
 
 ```
@@ -47,7 +47,7 @@ With theShape.TextFrame.Story.TextRange
 End With
 ```
 
-Use the  ** [Range](f9ef5314-21f1-378f-1552-fcd4e46f841d.md)** method to return a ** [ShapeRange](c85967c9-af43-747d-7e0b-64ddc22c84be.md)** object that contains all members of the **InlineShapes** collection. An array of indexes or strings or a single index or string can be passed as a parameter of the **Range** property to select particular shapes or a shape within the range. The following example sets a **ShapeRange** variable equal to the collection of inline shapes that exist within a text box. Each inline shape within the range is then modified in some way. This example assumes that the first shape on the page is a text box that contains three inline shapes.
+Use the  **[Range](f9ef5314-21f1-378f-1552-fcd4e46f841d.md)** method to return a **[ShapeRange](c85967c9-af43-747d-7e0b-64ddc22c84be.md)** object that contains all members of the **InlineShapes** collection. An array of indexes or strings or a single index or string can be passed as a parameter of the **Range** property to select particular shapes or a shape within the range. The following example sets a **ShapeRange** variable equal to the collection of inline shapes that exist within a text box. Each inline shape within the range is then modified in some way. This example assumes that the first shape on the page is a text box that contains three inline shapes.
 
 
 

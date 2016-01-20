@@ -6,12 +6,12 @@ Represents the memory cache for a PivotTable report.
 
 ## Remarks
 
- The **PivotCache** object is a member of the ** [PivotCaches](cfd979b9-d52f-f34b-4b66-4fb17efcdc92.md)** collection.
+ The **PivotCache** object is a member of the **[PivotCaches](cfd979b9-d52f-f34b-4b66-4fb17efcdc92.md)** collection.
 
 
 ## Example
 
-Use the  ** [PivotCache](82602154-783d-3f78-b354-0dabfdc34c98.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
+Use the  **[PivotCache](82602154-783d-3f78-b354-0dabfdc34c98.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
 
 
 ```

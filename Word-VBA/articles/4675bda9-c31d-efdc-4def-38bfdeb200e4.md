@@ -8,7 +8,7 @@ Checks a string for grammatical errors. Returns a  **Boolean** to indicate wheth
 
  _expression_. **CheckGrammar**( **_String_**)
 
- _expression_Required. A variable that represents an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_Required. A variable that represents an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ### Parameters

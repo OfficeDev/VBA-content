@@ -8,12 +8,12 @@ Returns or sets the font style. Read/write  **String**.
 
  _expression_. **FontStyle**
 
- _expression_A variable that represents a  ** [ChartFont](185dfaa0-4ed9-01d2-6584-b0838b50ef8c.md)** object.
+ _expression_A variable that represents a  **[ChartFont](185dfaa0-4ed9-01d2-6584-b0838b50ef8c.md)** object.
 
 
 ## Remarks
 
-Changing this property may affect other  **ChartFont** properties (such as ** [Bold](5d5a0b2e-5aab-f197-79da-e9bb8d219af9.md)** and ** [Italic](c62ad4c5-c7b3-58d8-8d37-540a8a123ce2.md)**).
+Changing this property may affect other  **ChartFont** properties (such as **[Bold](5d5a0b2e-5aab-f197-79da-e9bb8d219af9.md)** and ** [Italic](c62ad4c5-c7b3-58d8-8d37-540a8a123ce2.md)**).
 
 
 ## Example

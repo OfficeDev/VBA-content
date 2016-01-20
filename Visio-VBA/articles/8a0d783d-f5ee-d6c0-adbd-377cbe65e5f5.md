@@ -40,7 +40,7 @@ Knowing how shapes are linked to data can help prevent conflicts and broken link
 
  The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetCustomPropertiesLinkedToData** method to get the IDs of the shape-data-item (custom property) rows linked to a data column in a data recordset.
 
-Before running this macro, add at least one data recordset to the  ** [DataRecordsets](edf6d0dc-2f16-eee0-fd4c-ec4c9409179e.md)** collection of the document. The macro drops a shape onto the page, links the shape to data in the data recordset most recently added to the collection, and then tests to make sure the linking is successful. If it is, it gets the row IDs of all ShapeSheet rows linked to data prints the IDs of the rows in the **Immediate** window.
+Before running this macro, add at least one data recordset to the  **[DataRecordsets](edf6d0dc-2f16-eee0-fd4c-ec4c9409179e.md)** collection of the document. The macro drops a shape onto the page, links the shape to data in the data recordset most recently added to the collection, and then tests to make sure the linking is successful. If it is, it gets the row IDs of all ShapeSheet rows linked to data prints the IDs of the rows in the **Immediate** window.
 
 
 

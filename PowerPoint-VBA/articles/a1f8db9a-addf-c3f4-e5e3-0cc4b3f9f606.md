@@ -1,7 +1,7 @@
 
 # AnimationBehavior.ColorEffect Property (PowerPoint)
 
-Returns a  ** [ColorEffect](c21ca9cd-3aaa-35f7-3d0e-89ca155322f2.md)** object that represents the color properties for a specified animation behavior.
+Returns a  **[ColorEffect](c21ca9cd-3aaa-35f7-3d0e-89ca155322f2.md)** object that represents the color properties for a specified animation behavior.
 
 
 ## Syntax

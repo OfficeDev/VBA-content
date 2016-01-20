@@ -1,14 +1,14 @@
 
 # Document.Frames Property (Word)
 
-Returns a  ** [Frames](d0f526b5-ae1d-ad7a-0da3-5a7b30526b55.md)** collection that represents all the frames in a document. Read-only.
+Returns a  **[Frames](d0f526b5-ae1d-ad7a-0da3-5a7b30526b55.md)** collection that represents all the frames in a document. Read-only.
 
 
 ## Syntax
 
  _expression_. **Frames**
 
- _expression_A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks

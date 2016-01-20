@@ -1,7 +1,7 @@
 
 # TextRange.Words Method (PowerPoint)
 
-Returns a  ** [TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object that represents the specified subset of text words.
+Returns a  **[TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object that represents the specified subset of text words.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ TextRange
 
 ## Remarks
 
-For information about counting or looping through the words in a text range, see the  ** [TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object.
+For information about counting or looping through the words in a text range, see the  **[TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object.
 
 If both Start and Length are omitted, the returned range starts with the first word and ends with the last paragraph in the specified range.
 

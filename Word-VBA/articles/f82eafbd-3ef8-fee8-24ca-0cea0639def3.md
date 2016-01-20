@@ -1,14 +1,14 @@
 
 # LegendEntry.Format Property (Word)
 
-Returns the line, fill, and effect formatting for the object. Read-only  ** [ChartFormat](5f6546e8-c2fd-eec5-27a9-f2fd2c058f16.md)**.
+Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](5f6546e8-c2fd-eec5-27a9-f2fd2c058f16.md)**.
 
 
 ## Syntax
 
  _expression_. **Format**
 
- _expression_A variable that represents a  ** [LegendEntry](9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f.md)** object.
+ _expression_A variable that represents a  **[LegendEntry](9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f.md)** object.
 
 
 ## See also

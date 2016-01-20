@@ -13,7 +13,7 @@ Clears (deletes) all the  **Attachment** objects in the parent **Attachments** c
 
 ## Remarks
 
-To clear an individual attachment, use the  ** [Delete](935fa9e7-9d40-b820-e386-1a1960845da1.md)** method of the specific **Attachment** object
+To clear an individual attachment, use the  **[Delete](935fa9e7-9d40-b820-e386-1a1960845da1.md)** method of the specific **Attachment** object
 
 
 ## Example

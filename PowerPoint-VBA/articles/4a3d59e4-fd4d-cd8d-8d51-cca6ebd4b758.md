@@ -18,7 +18,7 @@ Long
 
 ## Remarks
 
-Use the  ** [SetPasswordEncryptionOptions](03c07952-784b-eba6-af71-57d3d1414f81.md)** method to specify the algorithm PowerPoint uses for encrypting documents with passwords.
+Use the  **[SetPasswordEncryptionOptions](03c07952-784b-eba6-af71-57d3d1414f81.md)** method to specify the algorithm PowerPoint uses for encrypting documents with passwords.
 
 
 ## Example

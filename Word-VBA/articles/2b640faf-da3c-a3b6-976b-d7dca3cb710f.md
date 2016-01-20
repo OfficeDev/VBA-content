@@ -8,7 +8,7 @@ Converts the specified range from hangul to hanja or vice versa.
 
  _expression_. **ConvertHangulAndHanja**( **_ConversionsMode_**,  **_FastConversion_**,  **_CheckHangulEnding_**,  **_EnableRecentOrdering_**,  **_CustomDictionary_**)
 
- _expression_Required. A variable that represents a  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_Required. A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ### Parameters

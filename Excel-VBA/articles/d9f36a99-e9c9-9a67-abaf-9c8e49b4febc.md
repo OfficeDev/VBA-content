@@ -20,7 +20,7 @@ If you set this property to  **False**, Microsoft Excel sets this property to  *
 
 
 
- **Note**  When using the  ** [SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method for workbooks to overwrite an existing file, the **Confirm Save As** dialog box has a default of **No**, while the  **Yes** response is selected by Excel when the **DisplayAlerts** property is set to **False**. The  **Yes** response overwrites the existing file.When using the  ** [SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method for workbooks to save a workbook that contains a Visual Basic for Applications (VBA) project in the Excel 5.0/95 file format, the **Microsoft Excel** dialog box has a default of **Yes**, while the  **Cancel** response is selected by Excel when the **DisplayAlerts** property is set to **False**. You cannot save a workbook that contains a VBA project using the Excel 5.0/95 file format.
+ **Note**  When using the  **[SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method for workbooks to overwrite an existing file, the **Confirm Save As** dialog box has a default of **No**, while the  **Yes** response is selected by Excel when the **DisplayAlerts** property is set to **False**. The  **Yes** response overwrites the existing file.When using the  **[SaveAs](fbc3ce55-27a3-aa07-3fdb-77b0d611e394.md)** method for workbooks to save a workbook that contains a Visual Basic for Applications (VBA) project in the Excel 5.0/95 file format, the **Microsoft Excel** dialog box has a default of **Yes**, while the  **Cancel** response is selected by Excel when the **DisplayAlerts** property is set to **False**. You cannot save a workbook that contains a VBA project using the Excel 5.0/95 file format.
 
 
 ## Example

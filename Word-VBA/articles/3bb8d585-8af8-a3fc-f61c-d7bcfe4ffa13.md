@@ -8,7 +8,7 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
  _expression_. **Line**
 
- _expression_A variable that represents a  ** [Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
+ _expression_A variable that represents a  **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
 
 
 ## Remarks

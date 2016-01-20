@@ -1,7 +1,7 @@
 
 # Style.VerticalAlignment Property (Excel)
 
-Returns or sets a  ** [XlVAlign](89d342c9-6452-a8ca-363c-f0ea1b031070.md)** value that represents the vertical alignment of the specified object.
+Returns or sets a  **[XlVAlign](89d342c9-6452-a8ca-363c-f0ea1b031070.md)** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax

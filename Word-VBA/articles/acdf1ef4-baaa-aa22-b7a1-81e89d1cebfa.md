@@ -1,14 +1,14 @@
 
 # PageSetup.LineNumbering Property (Word)
 
-Returns or sets a  ** [LineNumbering](a2dd1278-c7dd-af4c-be32-1daded5556d6.md)**object that represents the line numbers for the specified  **PageSetup**object.
+Returns or sets a  **[LineNumbering](a2dd1278-c7dd-af4c-be32-1daded5556d6.md)** object that represents the line numbers for the specified  **PageSetup**object.
 
 
 ## Syntax
 
  _expression_. **LineNumbering**
 
- _expression_An expression that returns a  ** [PageSetup](1879d601-80ad-4fc0-1a87-92e999b59f88.md)** object.
+ _expression_An expression that returns a  **[PageSetup](1879d601-80ad-4fc0-1a87-92e999b59f88.md)** object.
 
 
 ## Remarks

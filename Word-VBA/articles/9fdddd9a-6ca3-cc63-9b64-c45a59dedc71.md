@@ -8,7 +8,7 @@ Represents a phantom object, which has two primary uses: (1) adding the spacing 
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](54073c4c-366d-638b-1cbc-83baf272debe.md)|Returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.|
+| [Application](54073c4c-366d-638b-1cbc-83baf272debe.md)|Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.|
 | [Creator](26dc4410-91c5-2892-fac5-4001c900f24b.md)|Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long**.|
 | [E](aa71743e-1060-5a1b-a471-0cb0decb9d69.md)|Returns an  **OMath** object that represents the base of the specified equation object. Read-only.|
 | [Parent](e62b73fd-83a1-3bf8-4ac6-063623eeb810.md)|Returns an  **Object** that represents the parent object of the specified **OMathPhantom** object.|

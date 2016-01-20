@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the add-in was 
 
  _expression_. **Creator**
 
- _expression_An expression that returns an  ** [OMathRad](2179cda9-b1dc-9593-c4f9-99496081e191.md)** object.
+ _expression_An expression that returns an  **[OMathRad](2179cda9-b1dc-9593-c4f9-99496081e191.md)** object.
 
 
 ## Remarks

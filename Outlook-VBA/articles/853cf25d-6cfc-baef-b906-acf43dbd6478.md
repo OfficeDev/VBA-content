@@ -1,7 +1,7 @@
 
 # AppointmentItem.ResponseStatus Property (Outlook)
 
-Returns an  ** [OlResponseStatus](b473d57a-76a1-0862-fecb-baf1cf317772.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
+Returns an  **[OlResponseStatus](b473d57a-76a1-0862-fecb-baf1cf317772.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
 
 
 ## Syntax

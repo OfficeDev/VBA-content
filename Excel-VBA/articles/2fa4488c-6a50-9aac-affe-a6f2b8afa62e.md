@@ -8,7 +8,7 @@ Returns or sets the group for the specified chart. Read/write
 
  _expression_. **AxisGroup**
 
- _expression_A variable that represents a  ** [ChartGroup](7eee66c5-04a7-fd86-6e34-4c22ccaf8de0.md)** object.
+ _expression_A variable that represents a  **[ChartGroup](7eee66c5-04a7-fd86-6e34-4c22ccaf8de0.md)** object.
 
 
 ### Return Value

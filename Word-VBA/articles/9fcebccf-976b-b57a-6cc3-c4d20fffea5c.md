@@ -1,14 +1,14 @@
 
 # MailMergeDataSource.MappedDataFields Property (Word)
 
-Returns a  ** [MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** collection that represents the mapped data fields available in Microsoft Word.
+Returns a  **[MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** collection that represents the mapped data fields available in Microsoft Word.
 
 
 ## Syntax
 
  _expression_. **MappedDataFields**
 
- _expression_An expression that returns a  ** [MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)**object.
+ _expression_An expression that returns a  **[MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
 
 
 ## Example

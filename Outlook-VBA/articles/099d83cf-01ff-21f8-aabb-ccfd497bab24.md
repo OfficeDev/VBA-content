@@ -1,7 +1,7 @@
 
 # AddressEntry.Update Method (Outlook)
 
-Posts a change to the  ** [AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object in the messaging system.
+Posts a change to the  **[AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object in the messaging system.
 
 
 ## Syntax

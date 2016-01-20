@@ -20,7 +20,7 @@ ColorFormat
 
 Use this property in conjunction with the  **From** property to transition from one color to another.
 
-Do not confuse this property with the  **ToX**or  **ToY**properties of the  ** [ScaleEffect](cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f.md)**and  ** [MotionEffect](77a34f68-8806-22b8-149f-c28e0457e7e9.md)**objects, which are only used for scaling or motion effects.
+Do not confuse this property with the  **ToX**or  **ToY**properties of the  **[ScaleEffect](cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f.md)** and  **[MotionEffect](77a34f68-8806-22b8-149f-c28e0457e7e9.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

@@ -1,7 +1,7 @@
 
 # StartDriver.Suggestions Property (Project)
 
-Gets a combination of  ** [PjTaskWarnings](02bff43f-4459-3c34-5e8f-c441ffefe954.md)** values that indicate whether there are potential problems that should be fixed for a specified task. Read-only **Long**.
+Gets a combination of  **[PjTaskWarnings](02bff43f-4459-3c34-5e8f-c441ffefe954.md)** values that indicate whether there are potential problems that should be fixed for a specified task. Read-only **Long**.
 
 
 ## Syntax
@@ -16,7 +16,7 @@ Gets a combination of  ** [PjTaskWarnings](02bff43f-4459-3c34-5e8f-c441ffefe954.
 If there are no suggestions for a task, the value of  **Suggestions** is 0. Because the value of **pjTaskWarningsResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningsResourceOverallocated** is 128, if **Suggestions** is 192, the task has both of the potential problems.
 
 
- **Note**  The  **PjTaskWarnings** enumeration can be used with both the **Suggestions** property and the ** [Warnings](409c84e2-8307-fb82-af19-fa0e9f6b406b.md)** property.
+ **Note**  The  **PjTaskWarnings** enumeration can be used with both the **Suggestions** property and the **[Warnings](409c84e2-8307-fb82-af19-fa0e9f6b406b.md)** property.
 
 
 ## Example

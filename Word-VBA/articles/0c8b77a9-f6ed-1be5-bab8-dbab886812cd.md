@@ -8,7 +8,7 @@
 
  _expression_. **AutoFormatAsYouTypeInsertOvers**
 
- _expression_Required. A variable that represents an  ** [EmailOptions](41fefa03-c993-e218-0f92-0cf30c0bfbd4.md)** collection.
+ _expression_Required. A variable that represents an  **[EmailOptions](41fefa03-c993-e218-0f92-0cf30c0bfbd4.md)** collection.
 
 
 ## Example

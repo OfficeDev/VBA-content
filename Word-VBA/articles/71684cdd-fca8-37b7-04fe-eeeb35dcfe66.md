@@ -8,7 +8,7 @@ Converts the specified range from Traditional Chinese to Simplified Chinese or v
 
  _expression_. **TCSCConverter**( **_WdTCSCConverterDirection_**,  **_CommonTerms_**,  **_UseVariants_**)
 
- _expression_Required. A variable that represents a  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_Required. A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ### Parameters

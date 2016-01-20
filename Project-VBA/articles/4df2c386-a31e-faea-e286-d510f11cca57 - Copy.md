@@ -6,7 +6,7 @@ Represents the  **StartDriver** of the **Task**.
 
 ## Remarks
 
-Use the  ** [Index](2720e56a-95eb-f119-445d-3052198c46b0.md)** method of the ** [Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object to access the **StartDriver** object. For example:
+Use the  **[Index](2720e56a-95eb-f119-445d-3052198c46b0.md)** method of the **[Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object to access the **StartDriver** object. For example:
 
 
 ## See also

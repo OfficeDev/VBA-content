@@ -11,7 +11,7 @@ This object is not a collection. There is no object that represents a single wal
 
 ## Example
 
-Use the  ** [Walls](f45ae75a-c96c-4441-af81-aedf23787194.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3-D chart, this example will fail.
+Use the  **[Walls](f45ae75a-c96c-4441-af81-aedf23787194.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3-D chart, this example will fail.
 
 
 ```

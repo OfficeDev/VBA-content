@@ -47,7 +47,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [AddColon](0a908d65-921b-7722-b564-cfe7a7fa8aed.md)|Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.|
 | [AfterUpdate](690bc0cd-9717-7712-c022-75ba457ca0e3.md)|Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate**event occurs. Read/write  **String**.|
 | [AllowAutoCorrect](9cafa161-c073-855f-edee-c7c9cb32be99.md)|You can use the  **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.|
-| [Application](84a7ea86-f31c-775d-2383-5ac8751dd0f1.md)|You can use the  **Application** property to access the active Microsoft Access ** [Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)**object and its related properties. Read-only  **Application** object.|
+| [Application](84a7ea86-f31c-775d-2383-5ac8751dd0f1.md)|You can use the  **Application** property to access the active Microsoft Access **[Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)** object and its related properties. Read-only  **Application** object.|
 | [AsianLineBreak](2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad.md)|Returns or sets a  **Boolean** indicating whether line breaks in text boxes follow rules governing East Asian languages. **True** to control line breaks based on East Asian language rules. Read/write.|
 | [AutoLabel](a5e6e68c-eadc-a242-ef83-8b388f6ca41f.md)|Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.|
 | [AutoTab](27b17921-cd58-e243-e091-2686c64a7c02.md)|You can use the  **AutoTab** property to specify whether an automatic tab occurs when the last character permitted by a text box control's input mask is entered. An automatic tab moves the focus to the next control in the form's tab order. Read/write **Boolean**.|
@@ -76,9 +76,9 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [ControlType](4cc842d9-2985-b65e-e259-697cedaa56fc.md)|You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.|
 | [DecimalPlaces](cd032c51-34d1-18d3-c378-7473938ec1d7.md)|You can use the  **DecimalPlaces** property to specify the number of decimal places Microsoft Access uses to display numbers. Read/write **Byte**.|
 | [DefaultValue](fab86da0-e865-478c-80c6-7681c5733059.md)|Specifies a value that is automatically entered in a field when a new record is created. For example, in an Addresses table you can set the default value for the City field to New York. When users add a record to the table, they can either accept this value or enter the name of a different city. Read/write  **String**.|
-| [DisplayAsHyperlink](4741039e-9985-ac0a-9b74-309fcac860bf.md)|Gets or sets an  ** [AcDisplayAsHyperlink](fb9d9af3-9aff-3031-2f94-6715211d6ee4.md)** constant that specifies whether to display the contents of the specified text box as a hyperlink. Read/write.|
+| [DisplayAsHyperlink](4741039e-9985-ac0a-9b74-309fcac860bf.md)|Gets or sets an  **[AcDisplayAsHyperlink](fb9d9af3-9aff-3031-2f94-6715211d6ee4.md)** constant that specifies whether to display the contents of the specified text box as a hyperlink. Read/write.|
 | [DisplayWhen](6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab.md)|You can use the  **DisplayWhen** property to specify which of a form's controls you want displayed on screen and in print. Read/write **Byte**.|
-| [Enabled](a13297e5-091c-7e83-78cd-fa67f5b81153.md)|You can use the  **Enabled** property to set or return the status of the conditional format in the ** [FormatCondition](a31deaae-b32d-c45b-b3b2-113a9e62cc7a.md)**object. Read/write  **Boolean**.|
+| [Enabled](a13297e5-091c-7e83-78cd-fa67f5b81153.md)|You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](a31deaae-b32d-c45b-b3b2-113a9e62cc7a.md)** object. Read/write  **Boolean**.|
 | [EnterKeyBehavior](b7830316-a1aa-ddc1-094f-5976c5298bc1.md)|You can use the  **EnterKeyBehavior** property to specify what happens when you press ENTER in a text box control in Form view or Datasheet view. Read/write **Boolean**.|
 | [EventProcPrefix](a8cd7cdc-605b-473c-95b1-9d1736e0ec96.md)|Gets or sets the prefix portion of an event procedure name. Read/write  **String**.|
 | [FilterLookup](5c568366-94a5-8d7a-1fb4-80b4b3ab6c7f.md)|You can use the  **FilterLookup** property to specify whether values appear in a bound text box control when using the Filter By Form or Server Filter By Form window. Read/write **Byte**.|
@@ -93,7 +93,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [ForeThemeColorIndex](9b49e363-fe5b-0536-c3ed-b4836acb383b.md)|Gets or sets a value that represents a color in the applied color theme associated with the  **ForeColor** property of the specified object. Read/write **Long**.|
 | [ForeTint](8229f864-5ed3-309e-ba29-6a45bf9d59a8.md)|Gets or sets the tint that is applied to the theme color in the  **ForeColor** property of the specified object. Read/write **Single**.|
 | [Format](c89491e2-09f8-d928-1aed-9d839545a694.md)|You can use the  **Format** property to customize the way numbers, dates, times, and text are displayed and printed. Read/write **String**.|
-| [FormatConditions](6c643d8b-9b90-2b50-2ba0-c46bb821d38d.md)|You can use the  **FormatConditions** property to return a read-only reference to the ** [FormatConditions](0a1cd89b-6690-8272-ebd9-d841e9fb1d4c.md)**collection and its related properties.|
+| [FormatConditions](6c643d8b-9b90-2b50-2ba0-c46bb821d38d.md)|You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](0a1cd89b-6690-8272-ebd9-d841e9fb1d4c.md)** collection and its related properties.|
 | [FuriganaControl](7d70cffa-06bb-fa9d-686a-0031558aa5a3.md)||
 | [GridlineColor](849e0843-ab35-90d6-02a6-44faa316c83f.md)|Gets or sets the color of the gridline for the specified text box. Read/write  **Long**.|
 | [GridlineShade](33daf4ec-1587-63c8-4b23-2abdf5087bbe.md)|Gets or sets the shade applied to the theme color in the  **GridlineColor** property of the specified object. Read/write **Single**.|
@@ -110,7 +110,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [Height](3f3d88d9-3561-a25b-5f22-a21b9cad6673.md)|Gets or sets the height of the specified object in twips. Read/write  **Integer**.|
 | [HelpContextId](6829c95e-d7fc-c3c6-a8ab-0051c8e9af24.md)|The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.|
 | [HideDuplicates](a625d232-07d8-23d9-a28a-d01c70aa3a95.md)|You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.|
-| [HorizontalAnchor](85dc54b2-7a20-4667-ade9-47202f77d524.md)|Gets or sets an  ** [AcHorizontalAnchor](2b9f0574-252d-7957-d25d-cb382d2cee73.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.|
+| [HorizontalAnchor](85dc54b2-7a20-4667-ade9-47202f77d524.md)|Gets or sets an  **[AcHorizontalAnchor](2b9f0574-252d-7957-d25d-cb382d2cee73.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.|
 | [Hyperlink](a5d80cd4-d03d-41ea-9394-214537dd6c8c.md)|You can use the  **Hyperlink** property to return a reference to a **Hyperlink**object. You can use the  **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.|
 | [IMEHold](0cb93c85-07ff-a10f-5cd0-dc4045ce1079.md)| [Language-specific information](47c3b4cf-01ef-0b87-5cf1-50967397893f.md)You can use the  **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.|
 | [IMEMode](fa4adf03-7c20-eade-4a28-e3c3ac64ebc3.md)||
@@ -123,7 +123,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [LabelAlign](4714927a-9ce9-b1b0-dbeb-302aaa48a6c8.md)|The property specifies the text alignment within attached labels on new controls. Read/write  **Byte**.|
 | [LabelX](4d3ce486-bd79-cd6d-5886-a0a64cc7abb5.md)|The  **LabelX** property (along with the **LabelY** property) specifies the placement of the label for a new control. Read/write **Integer**.|
 | [LabelY](398b268c-271d-566a-36a6-1d703bdb0345.md)|The  **LabelY** property (along with the **LabelX** property) specifies the placement of the label for a new control. Read/write **Integer**.|
-| [Layout](a1c841e6-221b-3ba6-4212-d76066afda48.md)|Returns the type of layout for the specified text box. Read-only  ** [AcLayoutType](ee963ed0-9293-8ad8-5694-4b93a5e4d89a.md)**.|
+| [Layout](a1c841e6-221b-3ba6-4212-d76066afda48.md)|Returns the type of layout for the specified text box. Read-only  **[AcLayoutType](ee963ed0-9293-8ad8-5694-4b93a5e4d89a.md)**.|
 | [LayoutID](b77ccc32-fbaf-e574-b0ae-293d6f999879.md)|Returns the unique identifier for the layout that contains the specified text box. Read-only  **Long**.|
 | [Left](a184b336-215d-ffe0-d7ce-92f1fdc3b656.md)|You can use the  **Left** property to specify an object's location on a form or report. Read/write **Integer**.|
 | [LeftMargin](9c5b798b-4afe-85be-aa06-eeff98888850.md)|Along with the  **TopMargin**,  **RightMargin**, and  **BottomMargin** properties. specifies the location of information displayed within a text box control. Read/write **Integer**. .|
@@ -151,7 +151,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [OnUndo](fa62ba10-c8e8-f4d4-5d48-ab73c074f2ef.md)|Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **Undo**event occurs. Read/write..|
 | [Parent](e07da876-e24c-0828-e986-d13a0cb1f78e.md)|Returns the parent object for the specified object. Read-only.|
 | [PostalAddress](04fb29c5-909c-a0b8-a4aa-7701abc07037.md)|You can use the  **PostalAddress Property** property to specify or determine the postal code and the Customer Barcode data corresponding to the address information displayed in a specified field/textbox. The PostalAddress Property wizard enables the setting of these properties. Read/write **String**.|
-| [Properties](54a6372b-77db-5557-7af1-0c608f6d46a6.md)|Returns a reference to a control's ** [Properties](7e888aad-e783-dfc5-46df-9d92c89cfc35.md)**collection object. Read-only.|
+| [Properties](54a6372b-77db-5557-7af1-0c608f6d46a6.md)|Returns a reference to a control's **[Properties](7e888aad-e783-dfc5-46df-9d92c89cfc35.md)** collection object. Read-only.|
 | [ReadingOrder](1b53bb00-9252-ca99-c3b7-3a97d06552c4.md)|You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.|
 | [RightMargin](13f3fe1f-d5c3-33ac-9b9b-897df8ff5ba9.md)|Along with the  **TopMargin**,  **Left Margin**, and  **BottomMargin** properties, specifies the location of information displayed within text box control. Read/write **Integer**.|
 | [RightPadding](7f9e2e21-1e36-01c1-f4e7-b3373644f9e5.md)|Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.|
@@ -164,7 +164,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [SelText](1625b16f-8c2d-a563-6f66-a6714f5419ec.md)|The  **SelText** property returns a string containing the selected text. Read/write **String**.|
 | [ShortcutMenuBar](620de877-2164-6426-90b8-c72a6db637fd.md)|You can use the  **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click on the specified object. Read/write **String**.|
 | [ShowDatePicker](5d65938b-ac7b-abbd-2e50-41f41c0b1558.md)|Gets or sets whether the date picker control is displayed for the specified text box. Read/write  **Integer**.|
-| [SmartTags](200175d1-78a2-3036-72ba-4a85dfc21864.md)|Returns a  ** [SmartTags](79c0e84e-e0a1-35b8-b826-9d2cde3bd485.md)** collection that represents the collection of smart tags that have been added to a control. .|
+| [SmartTags](200175d1-78a2-3036-72ba-4a85dfc21864.md)|Returns a  **[SmartTags](79c0e84e-e0a1-35b8-b826-9d2cde3bd485.md)** collection that represents the collection of smart tags that have been added to a control. .|
 | [SpecialEffect](9d34e61b-9ba9-02e0-4bd8-30da0a043a89.md)|You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.|
 | [StatusBarText](18ae7a69-2e63-7896-1bff-da3f45b62c63.md)|You can use the  **StatusBarText** property to specify the text that is displayed in the status bar when a control is selected. Read/write **String**.|
 | [TabIndex](d52e0839-e0aa-1b67-b075-115ad7b2f774.md)|You can use the  **TabIndex** property to specify a control's place in the tab order on a form or report. Read/write **Integer**.|
@@ -172,7 +172,7 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [Tag](9df21640-6bea-60a9-f9d0-dac90a60af1c.md)|Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.|
 | [Text](bb510c65-6d0d-468a-c5be-f325d86c2c7f.md)|You can use the  **Text** property to set or return the text contained in a text box. Read/write **String**.|
 | [TextAlign](2b6e5ad7-02f5-4e33-47a4-87882a3113b2.md)|The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.|
-| [TextFormat](3d164782-9d9c-5462-ac40-51772d475407.md)|Gets or sets whether rich text is displayed in the specified text box. Read/write  ** [AcTextFormat](cce0f7f5-ec7d-b80b-71a4-95052b6b7af1.md)**.|
+| [TextFormat](3d164782-9d9c-5462-ac40-51772d475407.md)|Gets or sets whether rich text is displayed in the specified text box. Read/write  **[AcTextFormat](cce0f7f5-ec7d-b80b-71a4-95052b6b7af1.md)**.|
 | [ThemeFontIndex](2abe2063-4658-e441-7a7d-c4d226063172.md)|Gets or sets the font index that represents a font in the applied theme associated with the  **FontName** property of the specified object. Read/write **Long**.|
 | [Top](6a220cec-d42c-05e3-c8c0-078687813a8d.md)|You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .|
 | [TopMargin](cd56b2b2-8bb5-b3cf-bacf-13d311e5479b.md)|Along with the  **LeftMargin**,  **RightMargin**, and  **BottomMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.|
@@ -181,6 +181,6 @@ This object corresponds to a text box. Text boxes on a form or report display da
 | [ValidationText](5d3ab2a3-9166-714f-a0c2-d56d42b19ebc.md)|Use the  **ValidationText** property to specify a message to be displayed to the user when data is entered that violates a **ValidationRule** setting for a record, field, or control. Read/write **String**.|
 | [Value](4cb4c33f-dd96-0309-f30b-8e445d123756.md)|Determines or specifies the text in the text box. Read/write  **Variant**.|
 | [Vertical](40b9f9c0-daab-5562-395e-3e785d316d91.md)|You can use the  **Vertical** property to set a form control for vertical display and editing or set a report control for vertical display and printing. Read/write **Boolean**.|
-| [VerticalAnchor](b515b37f-0566-0483-d387-8bc02c7be980.md)|Gets or sets an  ** [AcVerticalAnchor](08f16c8b-1566-cfad-795a-cb65a91c4e52.md)** constant that indicates how the specified text box is anchored vertically within its layout. Read/write.|
+| [VerticalAnchor](b515b37f-0566-0483-d387-8bc02c7be980.md)|Gets or sets an  **[AcVerticalAnchor](08f16c8b-1566-cfad-795a-cb65a91c4e52.md)** constant that indicates how the specified text box is anchored vertically within its layout. Read/write.|
 | [Visible](af1b9264-53f9-bf4c-2f05-049288a1d3d5.md)|Returns or sets whether the object is visible. Read/write  **Boolean**.|
 | [Width](0bb72524-6682-f783-e9f9-4fd34a757a40.md)|Gets or sets the width of the specified object in twips. Read/write  **Integer**.|

@@ -1,7 +1,7 @@
 
 # Store.GetSearchFolders Method (Outlook)
 
-Returns a  ** [Folders](0c814c3c-74fc-414c-982d-a0097fcb35c2.md)** collection object that represents the search folders defined for the ** [Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** object.
+Returns a  **[Folders](0c814c3c-74fc-414c-982d-a0097fcb35c2.md)** collection object that represents the search folders defined for the **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** object.
 
 
 ## Syntax

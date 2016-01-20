@@ -8,7 +8,7 @@
 
  _expression_. **AutoInsert**
 
- _expression_A variable that represents an  ** [AutoCaption](895b5181-d36f-7f63-572a-c2d37c878e17.md)** object.
+ _expression_A variable that represents an  **[AutoCaption](895b5181-d36f-7f63-572a-c2d37c878e17.md)** object.
 
 
 ## Example

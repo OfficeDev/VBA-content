@@ -1,14 +1,14 @@
 
 # Window.Document Property (Word)
 
-Returns a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object associated with the specified pane, window, or selection. Read-only.
+Returns a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object associated with the specified pane, window, or selection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Document**
 
- _expression_A variable that represents a  ** [Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
+ _expression_A variable that represents a  **[Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
 
 
 ## Example

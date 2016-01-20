@@ -8,7 +8,7 @@ Sets options for the specified text form field.
 
  _expression_. **EditType**( **_Type_**,  **_Default_**,  **_Format_**,  **_Enabled_**)
 
- _expression_Required. A variable that represents a  ** [TextInput](d7f6531a-4da2-ccc4-29b3-ad79ca7b18de.md)** object.
+ _expression_Required. A variable that represents a  **[TextInput](d7f6531a-4da2-ccc4-29b3-ad79ca7b18de.md)** object.
 
 
 ### Parameters

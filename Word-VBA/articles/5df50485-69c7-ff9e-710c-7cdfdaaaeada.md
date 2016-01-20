@@ -8,7 +8,7 @@
 
  _expression_. **Passim**
 
- _expression_An expression that returns a  ** [TableOfAuthorities](abd7d600-8b20-0752-4629-8a4f5193dd5d.md)**object.
+ _expression_An expression that returns a  **[TableOfAuthorities](abd7d600-8b20-0752-4629-8a4f5193dd5d.md)** object.
 
 
 ## Remarks

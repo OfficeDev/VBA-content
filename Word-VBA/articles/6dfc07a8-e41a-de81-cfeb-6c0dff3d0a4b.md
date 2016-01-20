@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [Windows](377b493b-e73c-0132-869c-3876c3beaef7.md)** collection.
+ _expression_Required. A variable that represents a  **[Windows](377b493b-e73c-0132-869c-3876c3beaef7.md)** collection.
 
 
 ## Remarks

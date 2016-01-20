@@ -8,7 +8,7 @@ Returns or sets a  **Boolean** that represents whether breaks are allowed inside
 
  _expression_. **NoBreak**
 
- _expression_An expression that returns an  ** [OMathBox](e744ed0f-99de-f13f-766d-5453fb61ed48.md)** object.
+ _expression_An expression that returns an  **[OMathBox](e744ed0f-99de-f13f-766d-5453fb61ed48.md)** object.
 
 
 ## See also

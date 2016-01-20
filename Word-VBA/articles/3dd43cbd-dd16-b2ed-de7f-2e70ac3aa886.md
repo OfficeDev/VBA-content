@@ -8,7 +8,7 @@ Returns an individual  **HeadingStyle** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [HeadingStyles](be882a12-1264-8f7e-415b-b8bcbf28e703.md)** collection.
+ _expression_Required. A variable that represents a  **[HeadingStyles](be882a12-1264-8f7e-415b-b8bcbf28e703.md)** collection.
 
 
 ### Parameters

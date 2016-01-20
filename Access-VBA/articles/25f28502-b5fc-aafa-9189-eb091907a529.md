@@ -13,7 +13,7 @@ You can use the  **Path** property to determine the location where data is store
 
 ## Remarks
 
-You can use the  **Path** property to determine the location of information stored through the ** [CurrentProject](e6baae73-1eeb-b48f-d35e-b3e921378561.md)**or  ** [CodeProject](70b71f57-df23-2cf7-23f5-147053a8ec26.md)**objects of a project or database.
+You can use the  **Path** property to determine the location of information stored through the **[CurrentProject](e6baae73-1eeb-b48f-d35e-b3e921378561.md)** or  **[CodeProject](70b71f57-df23-2cf7-23f5-147053a8ec26.md)** objects of a project or database.
 
 
 ## Example

@@ -8,7 +8,7 @@ Determines whether the validation issue is currently ignored. Read/write.
 
  _expression_. **Ignored**
 
- _expression_A variable that represents a  ** [ValidationIssue](b1e93738-48da-cf68-24ad-dd03f79ad152.md)** object.
+ _expression_A variable that represents a  **[ValidationIssue](b1e93738-48da-cf68-24ad-dd03f79ad152.md)** object.
 
 
 ### Return Value

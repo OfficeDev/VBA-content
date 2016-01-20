@@ -8,7 +8,7 @@ Sends a document in an e-mail message for review by the specified recipients.
 
  _expression_. **SendForReview**( **_Recipients_**,  **_Subject_**,  **_ShowMessage_**,  **_IncludeAttachment_**)
 
- _expression_Required. A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ### Parameters

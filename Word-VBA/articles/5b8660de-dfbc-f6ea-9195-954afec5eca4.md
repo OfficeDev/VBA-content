@@ -1,14 +1,14 @@
 
 # TableStyle.Borders Property (Word)
 
-Returns a  ** [Borders](6dd1d4cc-2dcf-22c7-a299-4721a5543ba3.md)** collection that represents all the borders for the specified object.
+Returns a  **[Borders](6dd1d4cc-2dcf-22c7-a299-4721a5543ba3.md)** collection that represents all the borders for the specified object.
 
 
 ## Syntax
 
  _expression_. **Borders**
 
- _expression_Required. A variable that represents a  ** [TableStyle](4f1f4489-0ef7-dff0-8f2a-77f87937f3ad.md)** object.
+ _expression_Required. A variable that represents a  **[TableStyle](4f1f4489-0ef7-dff0-8f2a-77f87937f3ad.md)** object.
 
 
 ## Remarks

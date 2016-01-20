@@ -1,7 +1,7 @@
 
 # ReadabilityStatistics Object (Word)
 
-A collection of  ** [ReadabilityStatistic](5e82c44d-fc6d-9586-816b-0c46c4a01f3b.md)**objects for a document or range.
+A collection of  **[ReadabilityStatistic](5e82c44d-fc6d-9586-816b-0c46c4a01f3b.md)** objects for a document or range.
 
 
 ## Remarks

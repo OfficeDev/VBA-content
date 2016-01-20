@@ -8,7 +8,7 @@ Returns or sets how Microsoft Word formats inserted text while change tracking i
 
  _expression_. **InsertedTextMark**
 
- _expression_Required. A variable that represents an  ** [Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** collection.
+ _expression_Required. A variable that represents an  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** collection.
 
 
 ## Remarks

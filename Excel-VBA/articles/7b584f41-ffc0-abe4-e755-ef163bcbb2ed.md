@@ -1,7 +1,7 @@
 
 # ListObject.ListRows Property (Excel)
 
-Returns a  ** [ListRows](e4035209-00a2-ea16-a3b9-2d23afe0b88a.md)** object that represents all the rows of data in the ** [ListObject](46de6c4f-8ce0-0c7d-da59-6e52f5eab612.md)** object. Read-only.
+Returns a  **[ListRows](e4035209-00a2-ea16-a3b9-2d23afe0b88a.md)** object that represents all the rows of data in the **[ListObject](46de6c4f-8ce0-0c7d-da59-6e52f5eab612.md)** object. Read-only.
 
 
 ## Syntax

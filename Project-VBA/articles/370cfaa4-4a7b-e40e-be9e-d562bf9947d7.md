@@ -18,7 +18,7 @@ Formats the text of calendar views for printing, where the text color can be a h
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Name|Optional| **String**|The name of the calendar to edit.|
-|Item|Optional| **Long**|The text item to format. Can be one of the  ** [PjPageSetupCalendarItem](2f1af0b4-7e34-fcfd-4290-5936e85275a8.md)** constants.|
+|Item|Optional| **Long**|The text item to format. Can be one of the  **[PjPageSetupCalendarItem](2f1af0b4-7e34-fcfd-4290-5936e85275a8.md)** constants.|
 |Font|Optional| **String**|The name of the font.|
 |Size|Optional| **Integer**|The size of the font in points|
 |Bold|Optional| **Boolean**| **True** if the font is bold; otherwise, **False**.|

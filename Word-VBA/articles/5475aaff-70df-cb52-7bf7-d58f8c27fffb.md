@@ -8,7 +8,7 @@
 
  _expression_. **CheckIfOfficeIsHTMLEditor**
 
- _expression_A variable that represents a  ** [DefaultWebOptions](7459af1e-c495-f84f-929c-f7a611ec49b3.md)** object.
+ _expression_A variable that represents a  **[DefaultWebOptions](7459af1e-c495-f84f-929c-f7a611ec49b3.md)** object.
 
 
 ## Remarks

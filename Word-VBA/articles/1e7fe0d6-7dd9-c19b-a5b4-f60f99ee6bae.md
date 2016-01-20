@@ -8,7 +8,7 @@ Returns or sets the size of a check box, in points. Read/write  **Single**.
 
  _expression_. **Size**
 
- _expression_A variable that represents a  ** [CheckBox](e72b57b7-0328-9e78-94ca-ab7fb3c64afb.md)** object.
+ _expression_A variable that represents a  **[CheckBox](e72b57b7-0328-9e78-94ca-ab7fb3c64afb.md)** object.
 
 
 ## Example

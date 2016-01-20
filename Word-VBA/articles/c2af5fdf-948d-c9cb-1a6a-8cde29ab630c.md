@@ -8,7 +8,7 @@ Closes all open applications, quits Microsoft Windows, and logs the current user
 
  _expression_. **ExitWindows**
 
- _expression_Required. A variable that represents a  ** [Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
+ _expression_Required. A variable that represents a  **[Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
 
 
 ## Remarks

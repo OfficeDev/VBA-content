@@ -8,7 +8,7 @@ Returns an individual  **Endnote** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents an  ** [Endnotes](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)** collection.
+ _expression_Required. A variable that represents an  **[Endnotes](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)** collection.
 
 
 ### Parameters

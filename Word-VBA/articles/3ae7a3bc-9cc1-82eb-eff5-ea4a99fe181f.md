@@ -8,7 +8,7 @@ Opens a new e-mail message with an empty  **To** line for forwarding the active 
 
  _expression_. **Forward**
 
- _expression_Required. A variable that represents a  ** [MailMessage](d0109969-27f7-0180-c56d-5b49a3f0171b.md)** object.
+ _expression_Required. A variable that represents a  **[MailMessage](d0109969-27f7-0180-c56d-5b49a3f0171b.md)** object.
 
 
 ## Remarks

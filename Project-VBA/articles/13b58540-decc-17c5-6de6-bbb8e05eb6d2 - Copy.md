@@ -1,7 +1,7 @@
 
 # Filters Object (Project)
 
-Contains a collection of  ** [Filter](abcd72a7-b86b-783e-16e0-f50a48b1fed2.md)** objects.
+Contains a collection of  **[Filter](abcd72a7-b86b-783e-16e0-f50a48b1fed2.md)** objects.
 
 
 ## Example

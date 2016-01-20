@@ -15,7 +15,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ProjectField|Optional| ** [PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
+|ProjectField|Optional| **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
 |SharePointName|Optional| **Variant**|The name of the new column.|
 |ProjectField|Optional|PJFIELD||
 |SharePointName|Optional|VARIANT||

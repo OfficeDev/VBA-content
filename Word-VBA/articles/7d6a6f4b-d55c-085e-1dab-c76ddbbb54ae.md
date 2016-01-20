@@ -8,7 +8,7 @@ Returns or sets the shape style for the specified shape. Read/write  ** [MsoShap
 
  _expression_. **ShapeStyle**
 
- _expression_A variable that represents a  ** [Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
+ _expression_A variable that represents a  **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
 
 
 ## Example

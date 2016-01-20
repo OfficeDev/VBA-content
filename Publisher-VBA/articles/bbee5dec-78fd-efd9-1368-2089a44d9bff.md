@@ -26,9 +26,9 @@ Single
 
 ## Remarks
 
-The Unit parameter can be one of the  ** [PbUnitType](e14ef7b5-46c2-dec6-3af2-56da77ba5491.md)** constants declared in the Microsoft Publisher type library.
+The Unit parameter can be one of the  **[PbUnitType](e14ef7b5-46c2-dec6-3af2-56da77ba5491.md)** constants declared in the Microsoft Publisher type library.
 
-Use the  ** [GetLeft](e8f28ab3-f9da-eae7-2a21-b8b2505e9b44.md)** method to return the distance of a shape's or shape range's left edge from the left edge of the leftmost page in the current view.
+Use the  **[GetLeft](e8f28ab3-f9da-eae7-2a21-b8b2505e9b44.md)** method to return the distance of a shape's or shape range's left edge from the left edge of the leftmost page in the current view.
 
 
 ## Example

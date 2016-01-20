@@ -8,7 +8,7 @@ Returns the red-green-blue value of the specified color. Read-only  **Long**.
 
  _expression_. **RGB**
 
- _expression_A variable that represents a  ** [ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
+ _expression_A variable that represents a  **[ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
 
 
 ## Example

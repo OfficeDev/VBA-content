@@ -8,7 +8,7 @@ Returns or sets the position of caption label text. Read/write  **WdCaptionPosit
 
  _expression_. **Position**
 
- _expression_Required. A variable that represents a  ** [CaptionLabel](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)** object.
+ _expression_Required. A variable that represents a  **[CaptionLabel](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)** object.
 
 
 ## See also

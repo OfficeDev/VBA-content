@@ -1,14 +1,14 @@
 
 # PageSetup.TextColumns Property (Word)
 
-Returns a  ** [TextColumns](00b62c93-db7d-00b9-cc84-9a21e427d0cd.md)**collection that represents the set of text columns for the specified  **PageSetup**object.
+Returns a  **[TextColumns](00b62c93-db7d-00b9-cc84-9a21e427d0cd.md)** collection that represents the set of text columns for the specified  **PageSetup**object.
 
 
 ## Syntax
 
  _expression_. **TextColumns**
 
- _expression_An expression that returns a  ** [PageSetup](1879d601-80ad-4fc0-1a87-92e999b59f88.md)**object.
+ _expression_An expression that returns a  **[PageSetup](1879d601-80ad-4fc0-1a87-92e999b59f88.md)** object.
 
 
 ## Remarks

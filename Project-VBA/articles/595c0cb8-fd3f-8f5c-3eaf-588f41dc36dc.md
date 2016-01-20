@@ -18,7 +18,7 @@ Adds a  **Table** object to a **Tables** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the table.|
-|Field|Required| **Long**|The name of the field. Can be one of the  ** [PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constants.|
+|Field|Required| **Long**|The name of the field. Can be one of the  **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)** constants.|
 |Task|Optional| **Boolean**| **True** if the table being added is a task table. The default value is **True**.|
 
 ### Return Value

@@ -17,7 +17,7 @@ Changes the data type of a local custom field column in a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **PjFieldTypes**|Specifies the type of the custom field data. The value can be one of the  ** [PjFieldTypes](cfe9a065-ca8c-cc6b-6616-1aad96da760a.md)** constants. The default value is 0 ( **pjCostField**).|
+|Type|Required| **PjFieldTypes**|Specifies the type of the custom field data. The value can be one of the  **[PjFieldTypes](cfe9a065-ca8c-cc6b-6616-1aad96da760a.md)** constants. The default value is 0 ( **pjCostField**).|
 |Column|Optional| **Variant**|Specifies the absolute column location. A value of 0 changes the data type of a column in the left-most position, if that column is a local custom field. If the first column is locked, the left-most position is the first column after the locked column. The default value is the selected column.|
 
 ### Return Value

@@ -1,7 +1,7 @@
 
 # Point Object
 
-Represents a single point in a series on the specified chart. The  **Point** object is a member of the ** [Points](b41c8f08-880e-1f4a-0456-3f77c0741bc6.md)**collection, which contains all the points in the specified series.
+Represents a single point in a series on the specified chart. The  **Point** object is a member of the **[Points](b41c8f08-880e-1f4a-0456-3f77c0741bc6.md)** collection, which contains all the points in the specified series.
 
 
 ## Using the Point Object

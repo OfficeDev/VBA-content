@@ -8,7 +8,7 @@ Returns an  **HTMLDivision** object that represents a new HTML division added to
 
  _expression_. **Add**( **_Range_**)
 
- _expression_Required. A variable that represents an  ** [HTMLDivisions](fe896440-817f-5485-794c-c5e9700cd062.md)** collection.
+ _expression_Required. A variable that represents an  **[HTMLDivisions](fe896440-817f-5485-794c-c5e9700cd062.md)** collection.
 
 
 ### Parameters

@@ -8,7 +8,7 @@ Returns a  **Comment** object that represents a comment added to a range.
 
  _expression_. **Add**( **_Range_**,  **_Text_**)
 
- _expression_Required. A variable that represents a  ** [Comments](e384b37a-50e3-a214-52a8-6fda2acc4991.md)** collection.
+ _expression_Required. A variable that represents a  **[Comments](e384b37a-50e3-a214-52a8-6fda2acc4991.md)** collection.
 
 
 ### Parameters

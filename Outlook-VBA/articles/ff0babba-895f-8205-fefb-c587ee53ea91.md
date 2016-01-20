@@ -1,7 +1,7 @@
 
 # ExchangeUser.GetExchangeUser Method (Outlook)
 
-Returns the  ** [ExchangeUser](6ec117d1-7fdb-aa36-b567-1242f8238df0.md)** object.
+Returns the  **[ExchangeUser](6ec117d1-7fdb-aa36-b567-1242f8238df0.md)** object.
 
 
 ## Syntax

@@ -1,7 +1,7 @@
 
 # PivotTable.PivotFormulas Property (Excel)
 
-Returns a  ** [PivotFormulas](7139a4bd-f103-7190-004f-7f2261a4391f.md)**object that represents the collection of formulas for the specified PivotTable report. Read-only.
+Returns a  **[PivotFormulas](7139a4bd-f103-7190-004f-7f2261a4391f.md)** object that represents the collection of formulas for the specified PivotTable report. Read-only.
 
 
 ## Syntax

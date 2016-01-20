@@ -1,7 +1,7 @@
 
 # ShapeRange.Wizard Property (Publisher)
 
-Returns a  ** [Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)**object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
+Returns a  **[Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)** object representing the publication design associated with the specified publication or the wizard associated with the specified Design Gallery object.
 
 
 ## Syntax
@@ -43,5 +43,5 @@ End With
 ```
 
 
- **Note**  Depending on the language version of Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  ** [Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)** object .
+ **Note**  Depending on the language version of Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard](c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0.md)** object .
 

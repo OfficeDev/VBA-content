@@ -8,7 +8,7 @@ Returns a  **Style** object that represents the style associated with the curren
 
  _expression_. **Style**
 
- _expression_Required. A variable that represents an  ** [EmailAuthor](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)** object.
+ _expression_Required. A variable that represents an  **[EmailAuthor](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)** object.
 
 
 ## Example

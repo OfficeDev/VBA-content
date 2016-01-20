@@ -1,14 +1,14 @@
 
 # Find.Frame Property (Word)
 
-Returns a  ** [Frame](d36d3361-9e93-7dd9-b8c9-0ce503e03810.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
+Returns a  **[Frame](d36d3361-9e93-7dd9-b8c9-0ce503e03810.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
 
 
 ## Syntax
 
  _expression_. **Frame**
 
- _expression_A variable that represents a  ** [Find](da822788-cad5-992a-a835-18cc574cc324.md)** object.
+ _expression_A variable that represents a  **[Find](da822788-cad5-992a-a835-18cc574cc324.md)** object.
 
 
 ## Example

@@ -1,7 +1,7 @@
 
 # Conflicts.Item Method (Outlook)
 
-Returns an  ** [Conflict](a7c8f12a-08ba-9fff-60b8-a02d1c7f6f33.md)** object from the collection.
+Returns an  **[Conflict](a7c8f12a-08ba-9fff-60b8-a02d1c7f6f33.md)** object from the collection.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ Returns the number of the table column that contains the specified cell. Read-on
 
  _expression_. **ColumnIndex**
 
- _expression_A variable that represents a  ** [Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
+ _expression_A variable that represents a  **[Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
 
 
 ## Example

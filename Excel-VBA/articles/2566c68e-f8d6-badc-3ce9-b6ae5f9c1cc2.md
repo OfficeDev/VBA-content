@@ -6,7 +6,7 @@ Represents shadow formatting for a shape.
 
 ## Remarks
 
-Use the  ** [Shadow](e44d59d4-5e85-3c78-b3a4-eabac9f2b86f.md)** property to return a **ShadowFormat** object.
+Use the  **[Shadow](e44d59d4-5e85-3c78-b3a4-eabac9f2b86f.md)** property to return a **ShadowFormat** object.
 
 
 ## Example

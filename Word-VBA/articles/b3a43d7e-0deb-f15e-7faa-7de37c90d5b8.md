@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [TwoInitialCapsExceptions](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)** collection.
+ _expression_Required. A variable that represents a  **[TwoInitialCapsExceptions](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)** collection.
 
 
 ## Remarks

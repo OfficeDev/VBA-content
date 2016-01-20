@@ -16,7 +16,7 @@ The timeline-specific state of a  [SlicerCache Object (Excel)](6e6533e3-0503-a1d
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](5b919557-9aeb-acc7-f717-8457f57e44fb.md)|Returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. Read-only.|
+| [Application](5b919557-9aeb-acc7-f717-8457f57e44fb.md)|Returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. Read-only.|
 | [Creator](aa6e35bb-531c-f501-23ef-f727db51f320.md)|Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.|
 | [EndDate](1d33ce70-32ed-a439-eb34-7305fd9557f2.md)|Returns the end of the filtering date range (equals to  [TimelineState.StartDate Property (Excel)](3de8df53-1a36-428e-50dd-c7f45aa73b25.md) if range is a single day). **Variant** Read-only|
 | [FilterType](8ba72a5e-0b0b-2d15-ccea-fb2cda537aae.md)|Returns the type of the date filter.  [XlPivotFilterType Enumeration (Excel)](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md) Read-only|

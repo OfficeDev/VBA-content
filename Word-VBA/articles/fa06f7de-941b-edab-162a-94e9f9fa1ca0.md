@@ -8,7 +8,7 @@ Returns an individual  **Language** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [Languages](e3b1d3f3-de1b-d2fe-962f-5a589842d1b0.md)** collection.
+ _expression_Required. A variable that represents a  **[Languages](e3b1d3f3-de1b-d2fe-962f-5a589842d1b0.md)** collection.
 
 
 ### Parameters

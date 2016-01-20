@@ -8,7 +8,7 @@ Returns an individual  **ReadabilityStatistic** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [ReadabilityStatistics](eabef73c-f837-435a-cfec-b76082cc0f7e.md)** collection.
+ _expression_Required. A variable that represents a  **[ReadabilityStatistics](eabef73c-f837-435a-cfec-b76082cc0f7e.md)** collection.
 
 
 ### Parameters

@@ -1,6 +1,6 @@
 
 # Shapes Object (Project)
-Represents a collection of  ** [Shape](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)** objects in a custom report.
+Represents a collection of  **[Shape](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)** objects in a custom report.
 
 ## Example
 

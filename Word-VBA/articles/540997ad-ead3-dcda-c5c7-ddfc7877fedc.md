@@ -8,7 +8,7 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 
  _expression_. **URI**
 
- _expression_An expression that returns an  ** [XMLNamespace](a50ed533-8961-f433-d501-797e5d678fda.md)** object.
+ _expression_An expression that returns an  **[XMLNamespace](a50ed533-8961-f433-d501-797e5d678fda.md)** object.
 
 
 ## Example

@@ -20,7 +20,7 @@ String
 
 You can also set this value in the  **Left** box under **Header** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &amp; Footer**).
 
-Both the string that  **HeaderLeft** returns and the string to which you set it can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the **HeaderLeft** property, see the ** [FooterLeft](e832c09d-3ddb-4351-43ad-e1c5633b7bc9.md)** property
+Both the string that  **HeaderLeft** returns and the string to which you set it can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the **HeaderLeft** property, see the **[FooterLeft](e832c09d-3ddb-4351-43ad-e1c5633b7bc9.md)** property
 
 
 ## Example

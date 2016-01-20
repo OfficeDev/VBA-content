@@ -1,7 +1,7 @@
 
 # Borders Object (Excel)
 
-A collection of four  ** [Border](bca516bf-7c0f-f9df-078d-dfb522f256f3.md)** objects that represent the four borders of a ** [Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)**or  ** [Style](3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)** object.
+A collection of four  **[Border](bca516bf-7c0f-f9df-078d-dfb522f256f3.md)** objects that represent the four borders of a **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** or  **[Style](3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ Worksheets("Sheet1").Range("A1:G1"). _
  Borders(xlEdgeBottom).Color = RGB(255, 0, 0)
 ```
 
- _Index_ can be one of the following ** [xlBordersIndex](91ab77e7-c54f-266d-fc61-7ce0bed1bd8c.md)** constants: **xlDiagonalDown**,  **xlDiagonalUp**,  **xlEdgeBottom**,  **xlEdgeLeft**,  **xlEdgeRight**, or  **xlEdgeTop**,  **xlInsideHorizontal**, or  **xlInsideVertical**.
+ _Index_ can be one of the following **[xlBordersIndex](91ab77e7-c54f-266d-fc61-7ce0bed1bd8c.md)** constants: **xlDiagonalDown**,  **xlDiagonalUp**,  **xlEdgeBottom**,  **xlEdgeLeft**,  **xlEdgeRight**, or  **xlEdgeTop**,  **xlInsideHorizontal**, or  **xlInsideVertical**.
 
 
 ## See also

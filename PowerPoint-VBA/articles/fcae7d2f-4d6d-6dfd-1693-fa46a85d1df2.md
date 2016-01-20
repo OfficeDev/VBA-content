@@ -18,7 +18,7 @@ MsoPresetThreeDFormat
 
 ## Remarks
 
-This property is read-only. To set the preset extrusion format, use the  ** [SetThreeDFormat](9685d3f9-467a-8b11-144a-c4260bdbbddd.md)**method.
+This property is read-only. To set the preset extrusion format, use the  **[SetThreeDFormat](9685d3f9-467a-8b11-144a-c4260bdbbddd.md)** method.
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3-D Rotation** submenu on the **Shape Effects** menu.
 

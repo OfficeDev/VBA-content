@@ -1,14 +1,14 @@
 
 # Shapes.AddShape Method (Word)
 
-Adds an AutoShape to a document. Returns a  ** [Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object that represents the AutoShape and adds it to the ** [Shapes](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)** collection.
+Adds an AutoShape to a document. Returns a  **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object that represents the AutoShape and adds it to the **[Shapes](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)** collection.
 
 
 ## Syntax
 
  _expression_. **AddShape**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
- _expression_Required. A variable that represents a  ** [Shapes](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)** collection.
+ _expression_Required. A variable that represents a  **[Shapes](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)** collection.
 
 
 ### Parameters

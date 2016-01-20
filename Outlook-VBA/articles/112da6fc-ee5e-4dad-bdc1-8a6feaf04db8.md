@@ -14,7 +14,7 @@ This object has the following events:
 | [AttachmentRemove](08462397-4ba9-c62b-4bf7-b6856648083a.md)|Occurs when an attachment has been removed from an instance of the parent object.|
 | [BeforeAttachmentAdd](96e8cd2d-fabb-f026-c442-483f46414a21.md)|Occurs before an attachment is added to an instance of the parent object.|
 | [BeforeAttachmentPreview](f4b95d6a-4c9e-8ed0-caf1-31c5c374da37.md)|Occurs before an attachment associated with an instance of the parent object is previewed.|
-| [BeforeAttachmentRead](f7c6f477-9f50-f099-eec4-67d12d4ca398.md)|Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  ** [Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)** object.|
+| [BeforeAttachmentRead](f7c6f477-9f50-f099-eec4-67d12d4ca398.md)|Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)** object.|
 | [BeforeAttachmentSave](5c96c5df-bb29-c2d5-1f80-5e4cd426f7b7.md)|Occurs just before an attachment is saved.|
 | [BeforeAttachmentWriteToTempFile](565c9c1d-cbab-1ac2-de79-3a15532c4f76.md)|Occurs before an attachment associated with an instance of the parent object is written to a temporary file.|
 | [BeforeAutoSave](bb005bda-6270-22a8-5ae0-43979e3f3e63.md)|Occurs before the item is automatically saved by Outlook.|
@@ -25,7 +25,7 @@ This object has the following events:
 | [CustomAction](cdd8a5cb-1a18-85fe-0a26-b89c6bb61a7d.md)|Occurs when a custom action of an item (which is an instance of the parent object) executes.|
 | [CustomPropertyChange](8f8e35f1-c574-d66e-6833-701da352b467.md)|Occurs when a custom property of an item (which is an instance of the parent object) is changed. |
 | [Forward](29b59fb9-0752-0260-fa57-652213a6c657.md)|Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).|
-| [Open](5bc620d5-9dd5-e7a0-10ff-a1ea7e2fdc56.md)|Occurs when an instance of the parent object is being opened in an  ** [Inspector](d7384756-669c-0549-1032-c3b864187994.md)**. |
+| [Open](5bc620d5-9dd5-e7a0-10ff-a1ea7e2fdc56.md)|Occurs when an instance of the parent object is being opened in an  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)**. |
 | [PropertyChange](932a2ded-1e92-e40d-8f88-9044cccb7863.md)|Occurs when an explicit built-in property (for example,  ** [Subject](57f0f242-6d04-175f-4ea2-25145787f5bd.md)**) of an instance of the parent object is changed. |
 | [Read](581f3a16-2cc2-839e-3d48-e454be17b8cd.md)|Occurs when an instance of the parent object is opened for editing by the user. |
 | [ReadComplete](0135661c-ed4d-406d-5771-dbcaf160ffc4.md)|Occurs when Outlook has completed reading the properties of the item.|
@@ -33,5 +33,5 @@ This object has the following events:
 | [ReplyAll](63944f0e-230f-1613-f67b-943ff6bf5253.md)|Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).|
 | [Send](8f92ff6e-9922-1460-0c9d-eba77dadbba1.md)|Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).|
 | [Unload](252d79cf-7b24-2e84-e056-24a68e6ddef2.md)|Occurs before an Outlook item is unloaded from memory, either programmatically or by user action. |
-| [Write](ca5cf81a-e535-440e-2aee-447aa2d66249.md)|Occurs when an instance of the parent object is saved, either explicitly (for example, using the  ** [Save](36575c6f-fdf9-6343-f885-76b418b036a2.md)** or ** [SaveAs](6c551868-5142-81ec-c6cb-76fe54bf570c.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).|
+| [Write](ca5cf81a-e535-440e-2aee-447aa2d66249.md)|Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](36575c6f-fdf9-6343-f885-76b418b036a2.md)** or **[SaveAs](6c551868-5142-81ec-c6cb-76fe54bf570c.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).|
 |Name|Description|

@@ -8,7 +8,7 @@ Returns an object that specifies the border of a data bar. Read-only
 
  _expression_. **BarBorder**
 
- _expression_A variable that represents a  ** [Databar](2684e913-c278-e6be-ba9d-053b6ad58bae.md)** object.
+ _expression_A variable that represents a  **[Databar](2684e913-c278-e6be-ba9d-053b6ad58bae.md)** object.
 
 
 ### Return Value

@@ -8,7 +8,7 @@ Returns or sets the range the contains the source data for a single sparkline. R
 
  _expression_. **SourceData**
 
- _expression_A variable that represents a  ** [Sparkline](46951c4f-0eaa-9ce6-9703-eb3c632ea9b1.md)** object.
+ _expression_A variable that represents a  **[Sparkline](46951c4f-0eaa-9ce6-9703-eb3c632ea9b1.md)** object.
 
 
 ### Return Value

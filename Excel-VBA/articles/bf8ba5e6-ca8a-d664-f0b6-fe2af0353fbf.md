@@ -1,7 +1,7 @@
 
 # ChartGroup.DropLines Property (Excel)
 
-Returns a  ** [DropLines](88fdf5f5-2842-2d68-a073-18d05fd2fa38.md)**object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
+Returns a  **[DropLines](88fdf5f5-2842-2d68-a073-18d05fd2fa38.md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
 
 
 ## Syntax

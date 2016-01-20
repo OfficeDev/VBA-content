@@ -27,5 +27,5 @@ The  **Image** supports the following file formats:
     
 
 
-You can also display a picture on a  ** [Label](546cc9e1-90e9-3b29-88ac-02fcc75f8f29.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
+You can also display a picture on a  **[Label](546cc9e1-90e9-3b29-88ac-02fcc75f8f29.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
 

@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Capt
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [CaptionLabels](7d18c0d6-6d58-9841-4665-ab13e2e2ad9f.md)** collection.
+ _expression_Required. A variable that represents a  **[CaptionLabels](7d18c0d6-6d58-9841-4665-ab13e2e2ad9f.md)** collection.
 
 
 ## See also

@@ -8,12 +8,12 @@
 
  _expression_. **DisplayGridLines**
 
- _expression_A variable that represents a  ** [Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
+ _expression_A variable that represents a  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
 
 
 ## Remarks
 
-This property affects only the document grid. For table gridlines, use the  ** [TableGridlines](02ef1d7b-185b-ed17-e811-a752faa11b3f.md)**property.
+This property affects only the document grid. For table gridlines, use the  **[TableGridlines](02ef1d7b-185b-ed17-e811-a752faa11b3f.md)** property.
 
 
 ## Example

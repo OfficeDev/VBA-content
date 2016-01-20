@@ -8,7 +8,7 @@ Deletes the character preceding a collapsed selection (an insertion point).
 
  _expression_. **TypeBackspace**
 
- _expression_Required. A variable that represents a  ** [Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
+ _expression_Required. A variable that represents a  **[Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
 
 
 ## Remarks

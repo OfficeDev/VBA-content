@@ -8,7 +8,7 @@ Returns an individual  **Row** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [Rows](cd83d0ef-f743-1886-54de-497017c5f542.md)** collection.
+ _expression_Required. A variable that represents a  **[Rows](cd83d0ef-f743-1886-54de-497017c5f542.md)** collection.
 
 
 ### Parameters

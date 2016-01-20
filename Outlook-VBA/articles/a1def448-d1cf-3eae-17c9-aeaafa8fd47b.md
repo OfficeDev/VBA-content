@@ -17,7 +17,7 @@ Occurs before the item is automatically saved by Outlook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the ** [TaskRequestDeclineItem](e842c7c0-7943-9219-329b-30b892ab99b0.md)** to be saved.|
+|Cancel|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[TaskRequestDeclineItem](e842c7c0-7943-9219-329b-30b892ab99b0.md)** to be saved.|
 
 ## See also
 

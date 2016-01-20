@@ -1,14 +1,14 @@
 
 # FormField.DropDown Property (Word)
 
-Returns a  ** [DropDown](55233d61-d6d0-30f9-6825-ebbdbeb928b6.md)**object that represents a drop-down form field. Read-only.
+Returns a  **[DropDown](55233d61-d6d0-30f9-6825-ebbdbeb928b6.md)** object that represents a drop-down form field. Read-only.
 
 
 ## Syntax
 
  _expression_. **DropDown**
 
- _expression_A variable that represents a  ** [FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
+ _expression_A variable that represents a  **[FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
 
 
 ## Remarks

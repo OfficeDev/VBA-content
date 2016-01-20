@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [TablesOfContents](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)** collection.
+ _expression_Required. A variable that represents a  **[TablesOfContents](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)** collection.
 
 
 ## Remarks

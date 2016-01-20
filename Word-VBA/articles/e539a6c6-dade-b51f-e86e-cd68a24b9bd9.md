@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Sent
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [Sentences](bcb9653d-bada-8e51-f47d-58f17dae19fe.md)** collection.
+ _expression_Required. A variable that represents a  **[Sentences](bcb9653d-bada-8e51-f47d-58f17dae19fe.md)** collection.
 
 
 ## See also

@@ -13,7 +13,7 @@ Allows the user to to access error checking options.
 
 ## Remarks
 
-Reference the  ** [Errors](d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a.md)**object to view a list of index values associated with error checking options.
+Reference the  **[Errors](d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a.md)** object to view a list of index values associated with error checking options.
 
 
 ## Example

@@ -18,7 +18,7 @@ MsoTriState
 
 ## Remarks
 
-For the  **PauseAnimation** property setting to take effect, the ** [PlayOnEntry](63a226b9-b0f2-b739-ced2-f4e57a91b5f5.md)**property of the specified shape must be set to  **msoTrue**.
+For the  **PauseAnimation** property setting to take effect, the **[PlayOnEntry](63a226b9-b0f2-b739-ced2-f4e57a91b5f5.md)** property of the specified shape must be set to  **msoTrue**.
 
 The value of the  **PauseAnimation** property can be one of these **MsoTriState** constants.
 

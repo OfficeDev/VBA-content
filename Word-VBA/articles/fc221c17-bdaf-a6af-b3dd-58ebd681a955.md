@@ -8,12 +8,12 @@
 
  _expression_. **HasTitle**
 
- _expression_A variable that represents an  ** [Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object.
+ _expression_A variable that represents an  **[Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object.
 
 
 ## Remarks
 
-An axis title is represented by an  ** [AxisTitle](ec746a05-40df-95cc-c017-40ef150504cf.md)** object.
+An axis title is represented by an  **[AxisTitle](ec746a05-40df-95cc-c017-40ef150504cf.md)** object.
 
 
 ## Example

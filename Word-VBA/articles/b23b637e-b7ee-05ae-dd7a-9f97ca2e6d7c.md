@@ -8,7 +8,7 @@ Moves the selection to the previous item indicated by the browser target. Use th
 
  _expression_. **Previous**
 
- _expression_Required. A variable that represents a  ** [Browser](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)** object.
+ _expression_Required. A variable that represents a  **[Browser](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)** object.
 
 
 ## Example

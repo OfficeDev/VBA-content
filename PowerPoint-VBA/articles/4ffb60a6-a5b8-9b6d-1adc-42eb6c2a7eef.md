@@ -8,12 +8,12 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
  _expression_. **Intercept**
 
- _expression_A variable that represents a  ** [Trendline](74755c19-0a7d-cbbf-857e-78740adf6aa4.md)** object.
+ _expression_A variable that represents a  **[Trendline](74755c19-0a7d-cbbf-857e-78740adf6aa4.md)** object.
 
 
 ## Remarks
 
-Setting this property sets the  ** [InterceptIsAuto](568c57e5-c42f-8559-9c7c-30a72e46463a.md)**property to  **False**.
+Setting this property sets the  **[InterceptIsAuto](568c57e5-c42f-8559-9c7c-30a72e46463a.md)** property to  **False**.
 
 
 ## Example

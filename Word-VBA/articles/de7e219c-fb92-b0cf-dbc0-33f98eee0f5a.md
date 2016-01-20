@@ -8,7 +8,7 @@ Adds the default numbering scheme to the paragraphs in the range for the specifi
 
  _expression_. **ApplyNumberDefault**( **_DefaultListBehavior_**)
 
- _expression_Required. A variable that represents a  ** [ListFormat](74773fd6-b713-34d4-b7be-f543c983008d.md)** object.
+ _expression_Required. A variable that represents a  **[ListFormat](74773fd6-b713-34d4-b7be-f543c983008d.md)** object.
 
 
 ### Parameters

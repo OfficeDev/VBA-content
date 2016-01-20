@@ -17,12 +17,12 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ObjectType|Required| ** [AcBrowseToObjectType](52388196-e1e3-f199-24e8-04b399d55cfb.md)**|The object type to which to browse.|
+|ObjectType|Required| **[AcBrowseToObjectType](52388196-e1e3-f199-24e8-04b399d55cfb.md)**|The object type to which to browse.|
 |ObjectName|Required| **Variant**|The object that loads inside the subform control referenced by the PathtoSubformControl argument. |
 |PathtoSubformControl|Optional| **Variant**|If specified, the path from the main form of the application to the target subform control that loads the object specified by the ObjectName argument.|
 |WhereCondition|Optional| **Variant**|If specified, replaces the Where condition of the object record source.|
 |Page|Optional| **Variant**|If specified, sets the page of the continuous form that will be made the current page. This argument is Web only.|
-|DataMode|Optional| ** [AcFormOpenDataMode](24c39abb-154c-39cd-3097-77be75fe917c.md)**|If specified, the data entry mode of the form.|
+|DataMode|Optional| **[AcFormOpenDataMode](24c39abb-154c-39cd-3097-77be75fe917c.md)**|If specified, the data entry mode of the form.|
 
 ## Remarks
 

@@ -8,7 +8,7 @@ Returns a  **PageSetup** object that's associated with the specified document, r
 
  _expression_. **PageSetup**
 
- _expression_A variable that represents a  ** [Sections](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)** collection.
+ _expression_A variable that represents a  **[Sections](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)** collection.
 
 
 ## Example

@@ -1,7 +1,7 @@
 
 # MailMergeDataFields Object (Publisher)
 
-A collection of  ** [MailMergeDataField](46768b72-482c-06c5-5e77-27a95109f610.md)**objects that represent the data fields in a mail merge or catalog merge data source.
+A collection of  **[MailMergeDataField](46768b72-482c-06c5-5e77-27a95109f610.md)** objects that represent the data fields in a mail merge or catalog merge data source.
 
 
 ## Remarks
@@ -11,7 +11,7 @@ You cannot add fields to the  **MailMergeDataFields** collection. When a data fi
 
 ## Example
 
-Use the  ** [DataFields](820af882-d54c-a205-2925-e7110fc0c02b.md)**property to return the  **MailMergeDataFields** collection.
+Use the  **[DataFields](820af882-d54c-a205-2925-e7110fc0c02b.md)** property to return the  **MailMergeDataFields** collection.
 
 
 

@@ -1,14 +1,14 @@
 
 # Series.BarShape Property (Word)
 
-Returns or sets the shape used for a single series in a 3-D bar or column chart. Read/write  ** [XlBarShape](a5f77af8-d244-9118-97d5-bb12abc88bef.md)**.
+Returns or sets the shape used for a single series in a 3-D bar or column chart. Read/write  **[XlBarShape](a5f77af8-d244-9118-97d5-bb12abc88bef.md)**.
 
 
 ## Syntax
 
  _expression_. **BarShape**
 
- _expression_A variable that represents a  ** [Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
+ _expression_A variable that represents a  **[Series](212c323f-8acb-2ba7-1359-ab0f43268e77.md)** object.
 
 
 ## Example

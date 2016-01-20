@@ -1,7 +1,7 @@
 
 # Months Object (Project)
 
-Contains a collection of  ** [Month](5ee32f12-72aa-fa16-ead2-97949005cd7c.md)** objects.
+Contains a collection of  **[Month](5ee32f12-72aa-fa16-ead2-97949005cd7c.md)** objects.
 
 
 ## Remarks
@@ -43,7 +43,7 @@ Next R
 
  **Using the Months Collection**
 
-Use the  ** [Months](615a4f5c-bda7-f684-1c29-d8003badf3a8.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
+Use the  **[Months](615a4f5c-bda7-f684-1c29-d8003badf3a8.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
 
 
 

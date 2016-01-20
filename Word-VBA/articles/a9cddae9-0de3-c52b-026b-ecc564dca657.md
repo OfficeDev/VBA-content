@@ -8,7 +8,7 @@ Deletes the specified XML element from an XML document.
 
  _expression_. **Delete**
 
- _expression_Required. A variable that represents a  ** [XMLNode](fe305ba9-7375-ad4f-6036-155add17a9d0.md)** object.
+ _expression_Required. A variable that represents a  **[XMLNode](fe305ba9-7375-ad4f-6036-155add17a9d0.md)** object.
 
 
 ## See also
