@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_A variable that represents an  ** [UpBars](22dff1d2-8f1b-8c48-354c-570906e0f830.md)** object.
+ _expression_A variable that represents an  **[UpBars](22dff1d2-8f1b-8c48-354c-570906e0f830.md)** object.
 
 
 ## Remarks

@@ -8,7 +8,7 @@
 
  _expression_. **IncludeChapterNumber**
 
- _expression_A variable that represents a  ** [PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
+ _expression_A variable that represents a  **[PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
 
 
 ## Example

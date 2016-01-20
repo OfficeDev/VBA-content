@@ -8,7 +8,7 @@ Returns the distance, in points, from the top edge of the object to the top of t
 
  _expression_. **Top**
 
- _expression_A variable that represents a  ** [LegendEntry](c92ddccd-92a3-bec9-cdcd-efd82c77706b.md)** object.
+ _expression_A variable that represents a  **[LegendEntry](c92ddccd-92a3-bec9-cdcd-efd82c77706b.md)** object.
 
 
 ## See also

@@ -1,19 +1,19 @@
 
 # Options.DisableFeaturesbyDefault Property (Word)
 
- **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the ** [DisableFeaturesIntroducedAfterbyDefault](a7cf788b-f5c1-2d7e-b3de-1261b2a65c45.md)**. The default value is  **False**. Read/write  **Boolean**.
+ **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](a7cf788b-f5c1-2d7e-b3de-1261b2a65c45.md)**. The default value is  **False**. Read/write  **Boolean**.
 
 
 ## Syntax
 
  _expression_. **DisableFeaturesbyDefault**
 
- _expression_A variable that represents a  ** [Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
+ _expression_A variable that represents a  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
 
 
 ## Remarks
 
-The  **DisableFeaturesByDefault** property sets a global option for the application. If you want to disable features introduced after Word 97 for Windows for the document only, use the ** [DisableFeatures](40a62de3-f74e-d604-d3fc-dfb26abeb313.md)**property.
+The  **DisableFeaturesByDefault** property sets a global option for the application. If you want to disable features introduced after Word 97 for Windows for the document only, use the **[DisableFeatures](40a62de3-f74e-d604-d3fc-dfb26abeb313.md)** property.
 
 
 ## Example

@@ -17,7 +17,7 @@ Appends items to the lookup table of a custom outline code definition.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FieldID|Required| **Long**|Specifies the custom outline code to edit. Can be one of the  ** [PjCustomField](eed248af-bde2-8299-3737-253cf96411e2.md)** constants.|
+|FieldID|Required| **Long**|Specifies the custom outline code to edit. Can be one of the  **[PjCustomField](eed248af-bde2-8299-3737-253cf96411e2.md)** constants.|
 |Level|Optional| **Long**|Specifies the level of the new code. The default value is the level of the last item in the lookup table.|
 |Code|Optional| **String**|The code to be added to the lookup table.|
 |Description|Optional| **String**|A description for the field specified in the Code argument.|

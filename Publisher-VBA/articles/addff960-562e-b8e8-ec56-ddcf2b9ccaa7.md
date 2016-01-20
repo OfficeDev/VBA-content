@@ -13,9 +13,9 @@ Deletes the catalog merge area from the specified publication page. All shapes c
 
 ## Remarks
 
-Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the  ** [IsDataSourceConnected](b62422ab-12f7-1151-d8d1-1cb32de18160.md)** property of the ** [Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object to determine if a data source is connected to a publication.
+Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the  **[IsDataSourceConnected](b62422ab-12f7-1151-d8d1-1cb32de18160.md)** property of the **[Document](44f02255-ff5b-bcfe-900f-61c8fdf61ef3.md)** object to determine if a data source is connected to a publication.
 
-Use the  ** [AddCatalogMergeArea](4af86b99-5a3a-b9f3-d269-16d635d35c83.md)** method of the ** [Shapes](52e069a6-d54b-a11a-1cba-96174329cb02.md)** collection to add a catalog merge area to a publication. A publication page can contain only one catalog merge area.
+Use the  **[AddCatalogMergeArea](4af86b99-5a3a-b9f3-d269-16d635d35c83.md)** method of the **[Shapes](52e069a6-d54b-a11a-1cba-96174329cb02.md)** collection to add a catalog merge area to a publication. A publication page can contain only one catalog merge area.
 
 
 ## Example

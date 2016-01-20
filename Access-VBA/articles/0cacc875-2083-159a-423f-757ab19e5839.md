@@ -16,7 +16,7 @@ You can use the  **Report** property to refer to a report or to refer to the rep
 This property is typically used to refer to the report contained in a subreport control.
 
 
- **Note**  When you use the  ** [Reports](37c5f55e-3c3a-6140-d305-7e8118d9d2b1.md)**collection, you must specify the name of the report.
+ **Note**  When you use the  **[Reports](37c5f55e-3c3a-6140-d305-7e8118d9d2b1.md)** collection, you must specify the name of the report.
 
 
 ## Example

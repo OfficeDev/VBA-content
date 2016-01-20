@@ -1,7 +1,7 @@
 
 # Document.ActiveWindow Property (Publisher)
 
-Returns a  ** [Window](342d77cd-5556-6ac3-a828-b1b60380f910.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
+Returns a  **[Window](342d77cd-5556-6ac3-a828-b1b60380f910.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 
 
 ## Syntax

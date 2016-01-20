@@ -1,7 +1,7 @@
 
 # Shape.TextEffect Property (PowerPoint)
 
-Returns a  ** [TextEffectFormat](62434479-237f-01c4-712c-08e48b391d48.md)**object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a  **[TextEffectFormat](62434479-237f-01c4-712c-08e48b391d48.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -18,7 +18,7 @@ TextEffectFormat
 
 ## Remarks
 
-Applies to  ** [Shape](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)**objects that represent WordArt.
+Applies to  **[Shape](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)** objects that represent WordArt.
 
 
 ## Example

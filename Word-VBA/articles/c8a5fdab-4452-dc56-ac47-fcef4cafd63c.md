@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [Subdocument](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)** object.
+ _expression_Required. A variable that represents a  **[Subdocument](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)** object.
 
 
 ## See also

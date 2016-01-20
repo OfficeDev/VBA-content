@@ -8,7 +8,7 @@
 
  _expression_. **BuiltIn**
 
- _expression_A variable that represents a  ** [Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
+ _expression_A variable that represents a  **[Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
 
 
 ## Remarks

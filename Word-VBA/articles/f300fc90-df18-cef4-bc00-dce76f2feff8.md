@@ -8,7 +8,7 @@ Sets or returns a  **WdRevisionsBalloonWidthType** constant representing the glo
 
  _expression_. **RevisionsBalloonWidthType**
 
- _expression_Required. A variable that represents a  ** [View](8bf5b26b-14c0-1985-65b2-3e034360baeb.md)** object.
+ _expression_Required. A variable that represents a  **[View](8bf5b26b-14c0-1985-65b2-3e034360baeb.md)** object.
 
 
 ## Remarks

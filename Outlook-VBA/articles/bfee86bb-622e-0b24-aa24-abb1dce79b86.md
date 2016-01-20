@@ -15,7 +15,7 @@ Pastes the contents of the clipboard in the control.
 
 The contents of the clipboard are pasted in unformatted text.
 
-This method does not paste anything when the control's  ** [Style](442acfef-795c-f41a-a19e-197a3b1ca12b.md)** is **olComboBoxStyleListBox**.
+This method does not paste anything when the control's  **[Style](442acfef-795c-f41a-a19e-197a3b1ca12b.md)** is **olComboBoxStyleListBox**.
 
 
 ## See also

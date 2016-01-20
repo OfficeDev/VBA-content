@@ -8,7 +8,7 @@
 
  _expression_. **DisplayVerticalScrollBar**
 
- _expression_A variable that represents a  ** [Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
+ _expression_A variable that represents a  **[Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
 
 
 ## Example

@@ -1,14 +1,14 @@
 
 # Hyperlinks.Application Property (Word)
 
-Returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.
+Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_Required. A variable that represents a  ** [Hyperlinks](25801753-737f-9219-6a14-6531eb2ca699.md)** collection.
+ _expression_Required. A variable that represents a  **[Hyperlinks](25801753-737f-9219-6a14-6531eb2ca699.md)** collection.
 
 
 ## Remarks

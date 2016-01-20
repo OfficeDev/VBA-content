@@ -17,7 +17,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **XlPivotFilterType**|Requires an  ** [XlPivotFilterType](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md)** type of filter.|
+|Type|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md)** type of filter.|
 |DataField|Optional| **Variant**|The field to which the filter is attached.|
 |Value1|Optional| **Variant**|Filter value 1.|
 |Value2|Optional| **Variant**|Filter value 2.|

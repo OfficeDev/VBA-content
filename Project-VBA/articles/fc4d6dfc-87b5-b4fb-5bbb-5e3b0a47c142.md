@@ -1,7 +1,7 @@
 
 # Groups2.Add Method (Project)
 
-Adds a  ** [Group2](a7a61fa4-e752-006e-a47e-03987b04f01c.md)** object to a **Groups2** collection.
+Adds a  **[Group2](a7a61fa4-e752-006e-a47e-03987b04f01c.md)** object to a **Groups2** collection.
 
 
 ## Syntax

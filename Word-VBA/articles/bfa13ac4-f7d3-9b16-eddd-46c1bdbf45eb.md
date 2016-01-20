@@ -8,7 +8,7 @@ Returns a  ** [WdXMLNodeLevel](http://msdn.microsoft.com/library/77480b20-9400-c
 
  _expression_. **Level**
 
- _expression_An expression that returns an  ** [XMLNode](fe305ba9-7375-ad4f-6036-155add17a9d0.md)** object.
+ _expression_An expression that returns an  **[XMLNode](fe305ba9-7375-ad4f-6036-155add17a9d0.md)** object.
 
 
 ## See also

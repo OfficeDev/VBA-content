@@ -17,7 +17,7 @@ Removes a timescale data field from a usage view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Item|Optional| **Long**|The timescale data field to remove. The default value is  **pjWork**.If the active view is the Resource Usage view, can be one of the  ** [PjTimescaledData](3933e982-913a-d4de-789d-39d3a4a65ca4.md)** constants. If the active view is the Task Usage view, can be one of the ** [PjTimescaledData](3933e982-913a-d4de-789d-39d3a4a65ca4.md)** constants.|
+|Item|Optional| **Long**|The timescale data field to remove. The default value is  **pjWork**.If the active view is the Resource Usage view, can be one of the  **[PjTimescaledData](3933e982-913a-d4de-789d-39d3a4a65ca4.md)** constants. If the active view is the Task Usage view, can be one of the **[PjTimescaledData](3933e982-913a-d4de-789d-39d3a4a65ca4.md)** constants.|
 
 ### Return Value
 

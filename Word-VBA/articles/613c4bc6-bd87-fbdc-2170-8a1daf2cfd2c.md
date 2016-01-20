@@ -1,14 +1,14 @@
 
 # MailMergeDataSource.DataFields Property (Word)
 
-Returns a  ** [MailMergeDataFields](a660288d-1a2c-53ec-20d2-c52353be90c8.md)**collection that represents the fields in the specified mail merge data source. Read-only.
+Returns a  **[MailMergeDataFields](a660288d-1a2c-53ec-20d2-c52353be90c8.md)** collection that represents the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax
 
  _expression_. **DataFields**
 
- _expression_A variable that represents a  ** [MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
+ _expression_A variable that represents a  **[MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
 
 
 ## Remarks

@@ -1,14 +1,14 @@
 
 # Document.Tables Property (Word)
 
-Returns a  ** [Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** collection that represents all the tables in the specified document. Read-only.
+Returns a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** collection that represents all the tables in the specified document. Read-only.
 
 
 ## Syntax
 
  _expression_. **Tables**
 
- _expression_A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks

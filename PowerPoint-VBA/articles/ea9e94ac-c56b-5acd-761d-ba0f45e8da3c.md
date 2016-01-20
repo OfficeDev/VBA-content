@@ -21,7 +21,7 @@ Single
 If a paragraph begins with a bullet, the bullet position is determined by the  **FirstMargin** property, and the position of the first text character in the paragraph is determined by the **LeftMargin** property.
 
 
- **Note**  The  ** [RulerLevels](890f4bee-c48a-be48-2cac-b73736a5bdf0.md)**collection contains five  **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **LeftMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **LeftMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
+ **Note**  The  **[RulerLevels](890f4bee-c48a-be48-2cac-b73736a5bdf0.md)** collection contains five  **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **LeftMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **LeftMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
 
 
 - The maximum value is always 4095.875.

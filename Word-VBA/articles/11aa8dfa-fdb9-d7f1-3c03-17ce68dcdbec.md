@@ -1,14 +1,14 @@
 
 # LegendEntry.LegendKey Property (Word)
 
-Returns the legend key that is associated with the entry. Read-only  ** [LegendKey](07578528-3e73-7898-47dc-296aefb854f0.md)**.
+Returns the legend key that is associated with the entry. Read-only  **[LegendKey](07578528-3e73-7898-47dc-296aefb854f0.md)**.
 
 
 ## Syntax
 
  _expression_. **LegendKey**
 
- _expression_A variable that represents a  ** [LegendEntry](9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f.md)** object.
+ _expression_A variable that represents a  **[LegendEntry](9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f.md)** object.
 
 
 ## Example

@@ -43,7 +43,7 @@ You can specify that the data recordset have either a single-column or a composi
 | **visKeyComposite**|3|Use multiple columns as primary key columns.|
 For the PrimaryKey() parameter, pass an array of one or more strings that represent the name of the column or columns you want to set as the primary key column(s). The value you pass for the PrimaryKeySettings parameter must be consistent with the number of array items. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
 
-You can use the  ** [GetPrimaryKey](4f056424-4668-7859-5ed1-bd28a051ddc0.md)** method to determine the current primary key setting for the data recordset as well as the name of the column or columns, if any, that are currently set as the primary key column or columns.
+You can use the  **[GetPrimaryKey](4f056424-4668-7859-5ed1-bd28a051ddc0.md)** method to determine the current primary key setting for the data recordset as well as the name of the column or columns, if any, that are currently set as the primary key column or columns.
 
 
 ## Example

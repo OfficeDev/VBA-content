@@ -8,7 +8,7 @@
 
  _expression_. **TabIndentKey**
 
- _expression_Required. A variable that represents an  ** [Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** collection.
+ _expression_Required. A variable that represents an  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** collection.
 
 
 ## Example

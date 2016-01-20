@@ -1,6 +1,6 @@
 
 # TabStop Members (Word)
-Represents a single tab stop. The  **TabStop** object is a member of the ** [TabStops](2d3bcac4-db8c-05fe-1cc1-5d90774f84fb.md)**collection. The  **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
+Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](2d3bcac4-db8c-05fe-1cc1-5d90774f84fb.md)** collection. The  **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
 
 ## Methods
 
@@ -17,7 +17,7 @@ Represents a single tab stop. The  **TabStop** object is a member of the ** [Tab
 |**Name**|**Description**|
 |:-----|:-----|
 | [Alignment](f27f7f39-439d-0cbf-5538-8d3028abddf1.md)|Returns or sets a  **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.|
-| [Application](4344035e-55d8-fab2-b803-344b904da861.md)|Returns an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.|
+| [Application](4344035e-55d8-fab2-b803-344b904da861.md)|Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object that represents the Microsoft Word application.|
 | [Creator](5a8f0108-92d2-a6de-fb05-86da24bd157c.md)|Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.|
 | [CustomTab](c909f223-7e5d-6a2b-317f-12f735e43921.md)| **True** if the specified tab stop is a custom tab stop. Read-only **Boolean**.|
 | [Leader](3e483648-b48f-c8e0-93c0-e83771c48299.md)|Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader**.|

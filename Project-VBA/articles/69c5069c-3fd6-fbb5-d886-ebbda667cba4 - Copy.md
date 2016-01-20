@@ -1,6 +1,6 @@
 
 # Group2 Members (Project)
-Represents a group definition where the group hierarchy can be maintained. A  **Group2** object is a member of a ** [Groups2](b2b83868-3366-4fb0-fed9-16d4c5eaff87.md)**,  ** [ResourceGroups2](b1328c39-42bc-4e9b-e268-1f308cd7ebb1.md)**, or  ** [TaskGroups2](08346fd5-3dbd-23ea-9dc8-c2361ce043f4.md)** collection.
+Represents a group definition where the group hierarchy can be maintained. A  **Group2** object is a member of a **[Groups2](b2b83868-3366-4fb0-fed9-16d4c5eaff87.md)**,  **[ResourceGroups2](b1328c39-42bc-4e9b-e268-1f308cd7ebb1.md)**, or  **[TaskGroups2](08346fd5-3dbd-23ea-9dc8-c2361ce043f4.md)** collection.
 
 ## Methods
 
@@ -16,9 +16,9 @@ Represents a group definition where the group hierarchy can be maintained. A  **
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Application](4eb2f903-97b4-c98e-50d6-5d028ddeefad.md)|Gets the  ** [Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application**.|
+| [Application](4eb2f903-97b4-c98e-50d6-5d028ddeefad.md)|Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application**.|
 | [GroupAssignments](281b30cb-0d6a-3784-0d4b-7bc4e9eca53c.md)| **True** if assignments are grouped, rather than tasks or resources. Read/write **Boolean**.|
-| [GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)|Gets or sets the  ** [GroupCriteria2](ac785cc4-dbe3-0b1d-d1f1-6d45c93bfb1d.md)** collection representing the fields in a group definition. Read/write **GroupCriteria2**.|
+| [GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)|Gets or sets the  **[GroupCriteria2](ac785cc4-dbe3-0b1d-d1f1-6d45c93bfb1d.md)** collection representing the fields in a group definition. Read/write **GroupCriteria2**.|
 | [Index](a7d4ec3e-825b-87c8-d7bb-a61984ba7ace.md)|Gets the index of a  **Group2** object in a **ResourceGroups2** collection or **TaskGroups2** collection. Read-only **Long**.|
 | [MaintainHierarchy](47706f83-abd6-dd6b-0dff-41e260cf1107.md)|Gets or sets a value that specifies whether hierarchy is maintained in the group view. Read/write  **Boolean**.|
 | [Name](27110629-c022-3587-7b9c-c33fbd323a11.md)|Gets or sets the name of a  **Group2** object. Read/write **String**.|

@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
+ _expression_Required. A variable that represents a  **[FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
 
 
 ## Remarks

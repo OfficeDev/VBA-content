@@ -18,7 +18,7 @@ PbFontScriptType
 
 ## Remarks
 
-The  **Script** property value can be one of the ** [PbFontScriptType](e9bc4248-86ad-e6a8-1f50-d3ca4830118f.md)** constants declared in the Microsoft Publisher type library.
+The  **Script** property value can be one of the **[PbFontScriptType](e9bc4248-86ad-e6a8-1f50-d3ca4830118f.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

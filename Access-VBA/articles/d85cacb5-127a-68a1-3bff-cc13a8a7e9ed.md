@@ -45,7 +45,7 @@ The procedure begins with any comments and compilation constants that immediatel
     
 - A  **Property Set** statement.
     
-The  **ProcCountLines** property returns the number of lines in a procedure, beginning with the line returned by the ** [ProcStartLine](ef9a1ab4-f992-5077-b52b-d16cba10f697.md)** property and ending with the line that ends the procedure. The procedure may be ended with **End Sub**,  **End Function**, or  **End Property**.
+The  **ProcCountLines** property returns the number of lines in a procedure, beginning with the line returned by the **[ProcStartLine](ef9a1ab4-f992-5077-b52b-d16cba10f697.md)** property and ending with the line that ends the procedure. The procedure may be ended with **End Sub**,  **End Function**, or  **End Property**.
 
 
  **Note**  The  **ProcCountLines** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.

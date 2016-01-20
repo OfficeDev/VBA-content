@@ -8,7 +8,7 @@ Applies the current settings of a Microsoft Word dialog box.
 
  _expression_. **Execute**
 
- _expression_Required. A variable that represents a  ** [Dialog](f90f6e6d-aaa0-c127-ab37-ca074144eff1.md)** object.
+ _expression_Required. A variable that represents a  **[Dialog](f90f6e6d-aaa0-c127-ab37-ca074144eff1.md)** object.
 
 
 ## Example

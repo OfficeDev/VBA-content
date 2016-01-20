@@ -18,7 +18,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |EventCode|Required| **Integer**|The event(s) to capture.|
-|Action|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of  ** [VisEventCodes](e6f205ab-803a-4d91-fa8a-0952bb9753cf.md)** in the Visio type Library.|
+|Action|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of  **[VisEventCodes](e6f205ab-803a-4d91-fa8a-0952bb9753cf.md)** in the Visio type Library.|
 |Target|Required| **String**|The name of your add-on.|
 |TargetArgs|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 

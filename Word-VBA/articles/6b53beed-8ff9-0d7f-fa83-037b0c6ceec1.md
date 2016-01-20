@@ -1,14 +1,14 @@
 
 # Style.Borders Property (Word)
 
-Returns a  ** [Borders](6dd1d4cc-2dcf-22c7-a299-4721a5543ba3.md)** collection that represents all the borders for the specified style.
+Returns a  **[Borders](6dd1d4cc-2dcf-22c7-a299-4721a5543ba3.md)** collection that represents all the borders for the specified style.
 
 
 ## Syntax
 
  _expression_. **Borders**
 
- _expression_Required. A variable that represents a  ** [Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
+ _expression_Required. A variable that represents a  **[Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
 
 
 ## Remarks

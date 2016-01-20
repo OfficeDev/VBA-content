@@ -8,7 +8,7 @@
 
  _expression_. **AddSpaceBetweenFarEastAndAlpha**
 
- _expression_A variable that represents a  ** [Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
+ _expression_A variable that represents a  **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
 
 
 ## Example

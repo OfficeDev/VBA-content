@@ -8,7 +8,7 @@
 
  _expression_. **IsSandboxed**
 
- _expression_An expression that returns a  ** [Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
+ _expression_An expression that returns a  **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
 
 
 ## Example

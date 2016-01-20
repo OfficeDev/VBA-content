@@ -17,7 +17,7 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ObjectType|Required| **Long**|The type of object, specified by a  ** [pjOrganizer](d176be88-4df9-3826-c806-f7f650fffb39.md)** constant.|
+|ObjectType|Required| **Long**|The type of object, specified by a  **[pjOrganizer](d176be88-4df9-3826-c806-f7f650fffb39.md)** constant.|
 |ObjectName|Required| **String**|Display name of the object.|
 |MatchingID|Required| **String**|String specifying the matching ID to set.|
 

@@ -8,7 +8,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  _expression_. **Application**
 
- _expression_A variable that represents a  ** [ValidationRuleSets](f08d7f04-13ec-8175-2aa6-94b0b67ee76b.md)** object.
+ _expression_A variable that represents a  **[ValidationRuleSets](f08d7f04-13ec-8175-2aa6-94b0b67ee76b.md)** object.
 
 
 ### Return Value

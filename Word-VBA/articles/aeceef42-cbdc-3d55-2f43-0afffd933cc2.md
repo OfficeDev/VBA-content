@@ -8,12 +8,12 @@ Returns or sets the style for the specified object. Read/write  **Variant**.
 
  _expression_. **Style**
 
- _expression_Required. A variable that represents a  ** [Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_Required. A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  ** [WdBuiltinStyle](9ef433e9-6770-0e20-e1b6-2d9929ffd616.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
+To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](9ef433e9-6770-0e20-e1b6-2d9929ffd616.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
 
 
 ## Example

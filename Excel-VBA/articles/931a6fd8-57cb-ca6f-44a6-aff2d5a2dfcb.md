@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. **Creator**
 
- _expression_A variable that represents a  ** [SparkVerticalAxis](27c34337-b8a9-cdad-1716-343cea54cc87.md)** object.
+ _expression_A variable that represents a  **[SparkVerticalAxis](27c34337-b8a9-cdad-1716-343cea54cc87.md)** object.
 
 
 ## Remarks

@@ -91,7 +91,7 @@
 | [CleanupProjectFromCache](40fef64a-036f-8e1c-ce86-0c3609777f77.md)|Deletes the specified project file from the local cache. Available only in Project Professional.|
 | [ClearConstraint](7a6e9e98-0f0d-6fdd-61b2-c13cdb0cbd7a.md)|Clears the constraint on a specified task.|
 | [CloseComparison](27c4dc50-7a85-fe92-f294-e5d568b88ed2.md)|Closes the project version comparison report.|
-| [CloseUndoTransaction](704bde43-803d-fd63-68a6-7b4058e5d3b1.md)|Closes an undo set for a series of operations previously created by  ** [OpenUndoTransaction](b94b2c87-786c-46d6-50d3-d20614493f8f.md)** method.|
+| [CloseUndoTransaction](704bde43-803d-fd63-68a6-7b4058e5d3b1.md)|Closes an undo set for a series of operations previously created by  **[OpenUndoTransaction](b94b2c87-786c-46d6-50d3-d20614493f8f.md)** method.|
 | [ColumnAlignment](9c51eb2d-c28b-cb00-57e5-1643093e4acb.md)|Sets the alignment of text in the active columns.|
 | [ColumnBestFit](51f96761-33ab-d2e3-7a1e-c8266bdaa7a1.md)|Sets the width of a column to the width of its widest item.|
 | [ColumnDelete](a492d8ab-6ed6-49f8-e626-d0a042546021.md)|Deletes the active column or the column containing the active cell from the view. The actual field and the data it contains are merely hidden.|
@@ -268,7 +268,7 @@
 | [GetThemedColor](d7d464cd-a6d0-72b9-33cd-d5d9e7f30b80.md)|Returns the color of the specified theme element type in the Project Guide. Deprecated in Project 2013.|
 | [GetUndoListCount](f152c08c-293a-edd4-5d72-49ba1178715c.md)|Returns the number of items in the undo list.|
 | [GetUndoListItem](e77826ab-118d-2b69-6f99-cb8ce65afb43.md)|Returns the label of the specified undo list item.|
-| [GoalAreaChange](84341db8-3f8e-44f3-4b34-e702ee2841dd.md)|Changes Project Guide goal areas by triggering the  ** [WindowGoalAreaChange](1ae33d11-f8aa-e1a2-b59d-9736ce4a6283.md)** event. Deprecated in Project 2013.|
+| [GoalAreaChange](84341db8-3f8e-44f3-4b34-e702ee2841dd.md)|Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](1ae33d11-f8aa-e1a2-b59d-9736ce4a6283.md)** event. Deprecated in Project 2013.|
 | [GoalAreaHighlight](56146d8b-f986-0ba7-3661-26b508db3ec8.md)|Highlights a goal area on the  **Project Guide** toolbar to indicate it is currently selected. Deprecated inpj15generalshort.|
 | [GoalAreaTaskHighlight](32616617-d34a-c9f4-8ddd-17fa3f1c7e74.md)|Highlights a specified task in the Project Guide. Deprecated in Project 2013.|
 | [GoToItemInVersions](51b7e580-978d-17cc-f293-bb30d77c48c2.md)|For the selected item in a project version comparison report, highlights that item in each version.|
@@ -492,7 +492,7 @@
 | [ShowOSFTaskPane](50109216-a0e4-ed18-ea92-e0689f896b86.md)|Shows an empty Office Add-ins task pane.|
 | [ShowReportDataPane](7f0e991a-df7c-9534-45de-50d3839fbac7.md)|Shows or hides the report data pane, when a chart shape or table shape is selected in a report.|
 | [SidepaneTaskChange](277a9242-b098-8f69-44b8-668175867b42.md)|Changes the side pane that is displayed in  **Project Guide**.|
-| [SidepaneToggle](882c9bef-f150-7128-a506-388dbe39558d.md)|Triggers the  ** [WindowSidepaneDisplayChange](8c4c22f4-4005-eff5-2964-880982634e78.md)** event, which shows or hides the side pane of the **Project Guide**. Deprecated in Project 2013.|
+| [SidepaneToggle](882c9bef-f150-7128-a506-388dbe39558d.md)|Triggers the  **[WindowSidepaneDisplayChange](8c4c22f4-4005-eff5-2964-880982634e78.md)** event, which shows or hides the side pane of the **Project Guide**. Deprecated in Project 2013.|
 | [Sort](996df315-32ae-eac8-75cb-182a95f74879.md)|Sorts the tasks or resources in the active pane.|
 | [SpellCheckField](4c5cc4c9-b947-c237-7f7e-0d703bd34352.md)|Checks the spelling of text custom fields.|
 | [SpellingCheck](e9eea1ad-f2c1-7683-2c09-802a0d33fcec.md)|Checks the spelling in the active project.|

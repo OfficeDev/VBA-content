@@ -8,7 +8,7 @@ Returns a  **Pane** object that represents the previous document pane in the col
 
  _expression_. **Previous**
 
- _expression_A variable that represents a  ** [Pane](4a0c2690-d9d2-4e34-fef4-cc41365f5251.md)** object.
+ _expression_A variable that represents a  **[Pane](4a0c2690-d9d2-4e34-fef4-cc41365f5251.md)** object.
 
 
 ## See also

@@ -27,7 +27,7 @@ Sets some display options and Project Guide options.
 |ProjectGuideUseDefaultContent|Optional| **Boolean**| **True** if the **Project Guide** uses default content. **False** if you want to use custom content for the Project Guide. The default value is **True**.|
 |ProjectGuideContent|Optional| **String**|The URL or path and file name for the XML file used for custom content in the Project Guide.|
 |SetAsDefaults|Optional| **Boolean**| **True** if the Project Guide settings for the active project should be used as the default for all new projects. The default value is **False**.|
-|UseOMIDs|Optional| **Variant**| **True** if Project uses internal IDs to match different-language or renamed Organizer items between projects. The default is **True**. See also the  ** [UseOMIDs](15339e09-0b65-d939-df47-eb538dee7c38.md)** property.|
+|UseOMIDs|Optional| **Variant**| **True** if Project uses internal IDs to match different-language or renamed Organizer items between projects. The default is **True**. See also the  **[UseOMIDs](15339e09-0b65-d939-df47-eb538dee7c38.md)** property.|
 
 ### Return Value
 

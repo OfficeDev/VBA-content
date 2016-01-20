@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the add-in was 
 
  _expression_. **Creator**
 
- _expression_An expression that returns an  ** [OMathLimUpp](3c7ca001-8533-52c9-5343-8a89892c0a16.md)** object.
+ _expression_An expression that returns an  **[OMathLimUpp](3c7ca001-8533-52c9-5343-8a89892c0a16.md)** object.
 
 
 ## Remarks

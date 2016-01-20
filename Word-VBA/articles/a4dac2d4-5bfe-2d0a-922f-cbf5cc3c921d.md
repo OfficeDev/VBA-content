@@ -8,7 +8,7 @@ Returns a  [ReflectionFormat](ee2ea7a1-0671-bbd6-6a94-90f2472d704e.md) object th
 
  _expression_. **Reflection**
 
- _expression_An expression that returns a  ** [Font](bc97f4df-fc81-d6c8-e99a-d50dc793b7ae.md)** object.
+ _expression_An expression that returns a  **[Font](bc97f4df-fc81-d6c8-e99a-d50dc793b7ae.md)** object.
 
 
 ## See also

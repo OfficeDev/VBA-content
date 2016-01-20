@@ -1,7 +1,7 @@
 
 # FullSeriesCollection.Application Property (Excel)
 
-Returns an  ** [Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. Read-only.
+Returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. Read-only.
 
 
 ## Syntax

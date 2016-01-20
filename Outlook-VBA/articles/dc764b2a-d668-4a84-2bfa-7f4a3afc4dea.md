@@ -1,14 +1,14 @@
 
 # SolutionsModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the ** [SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
+Returns a  **String** value that represents the localized display name for the **[SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Name**
 
- _expression_A variable that represents a  ** [SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object.
+ _expression_A variable that represents a  **[SolutionsModule](4597765e-a95d-bf07-2ac4-103218ebc696.md)** object.
 
 
 ## Remarks

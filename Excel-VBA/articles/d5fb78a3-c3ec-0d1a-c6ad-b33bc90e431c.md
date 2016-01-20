@@ -18,7 +18,7 @@ Consolidates data from multiple ranges on multiple worksheets into a single rang
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Sources|Optional| **Variant**|The sources of the consolidation as an array of text reference strings in R1C1-style notation. The references must include the full path of sheets to be consolidated.|
-|Function|Optional| **Variant**|One of the constants of  ** [XlConsolidationFunction](a3d0e4c0-8463-340c-a258-219d49f715d7.md)** which specifies the type of consolidation.|
+|Function|Optional| **Variant**|One of the constants of  **[XlConsolidationFunction](a3d0e4c0-8463-340c-a258-219d49f715d7.md)** which specifies the type of consolidation.|
 |TopRow|Optional| **Variant**| **True** to consolidate data based on column titles in the top row of the consolidation ranges. **False** to consolidate data by position. The default value is **False**.|
 |LeftColumn|Optional| **Variant**| **True** to consolidate data based on row titles in the left column of the consolidation ranges. **False** to consolidate data by position. The default value is **False**.|
 |CreateLinks|Optional| **Variant**| **True** to have the consolidation use worksheet links. **False** to have the consolidation copy the data. The default value is **False**.|

@@ -35,7 +35,7 @@ Defines a new name for a range of cells.
 
 ### Return Value
 
-A  ** [Name](cfedb297-ac0d-dff0-99c7-6927cc5f31ed.md)** object that represents the new name.
+A  **[Name](cfedb297-ac0d-dff0-99c7-6927cc5f31ed.md)** object that represents the new name.
 
 
 ## Example

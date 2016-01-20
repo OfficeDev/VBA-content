@@ -8,7 +8,7 @@ Returns or sets the position (in points) for the second line of wrapping text fo
 
  _expression_. **TextPosition**
 
- _expression_An expression that returns a  ** [ListLevel](0cd152cb-6c25-50cb-7c1d-8b6d9734505b.md)** object.
+ _expression_An expression that returns a  **[ListLevel](0cd152cb-6c25-50cb-7c1d-8b6d9734505b.md)** object.
 
 
 ## Example

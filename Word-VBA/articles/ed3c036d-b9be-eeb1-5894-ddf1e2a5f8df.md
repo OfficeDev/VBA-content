@@ -1,14 +1,14 @@
 
 # ListTemplate.ListLevels Property (Word)
 
-Returns a  ** [ListLevels](9165c008-c066-8d3e-9254-d9e0ab2ec091.md)**collection that represents all the levels for the specified  **ListTemplate**.
+Returns a  **[ListLevels](9165c008-c066-8d3e-9254-d9e0ab2ec091.md)** collection that represents all the levels for the specified  **ListTemplate**.
 
 
 ## Syntax
 
  _expression_. **ListLevels**
 
- _expression_An expression that returns a  ** [ListTemplate](d5e339f7-5798-305b-a6b0-6b572d9112f4.md)** object.
+ _expression_An expression that returns a  **[ListTemplate](d5e339f7-5798-305b-a6b0-6b572d9112f4.md)** object.
 
 
 ## Remarks

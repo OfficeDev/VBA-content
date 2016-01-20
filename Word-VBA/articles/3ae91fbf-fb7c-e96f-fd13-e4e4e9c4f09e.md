@@ -1,7 +1,7 @@
 
 # ListGalleries Object (Word)
 
-A collection of  ** [ListGallery](4fa3af33-becd-0dfc-5c7a-a0e70714e045.md)** objects that represent the three tabs in the **Bullets and Numbering** dialog box.
+A collection of  **[ListGallery](4fa3af33-becd-0dfc-5c7a-a0e70714e045.md)** objects that represent the three tabs in the **Bullets and Numbering** dialog box.
 
 
 ## Remarks

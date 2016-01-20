@@ -6,7 +6,7 @@ Represents the settings available in a publication design or in a Design Gallery
 
 ## Example
 
-Use the  ** [Properties](9f9811b3-10ee-d429-c5a2-8223349525f2.md)** property with a **Wizard** object to return a **WizardProperties** collection. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
+Use the  **[Properties](9f9811b3-10ee-d429-c5a2-8223349525f2.md)** property with a **Wizard** object to return a **WizardProperties** collection. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
 
 
 ```

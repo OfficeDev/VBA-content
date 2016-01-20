@@ -8,7 +8,7 @@ Returns the maximum width (in points) to which you can set the width of a Micros
 
  _expression_. **UsableWidth**
 
- _expression_A variable that represents an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_A variable that represents an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ## Example

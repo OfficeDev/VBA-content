@@ -1,7 +1,7 @@
 
 # Application.AdvancedSearchStopped Event (Outlook)
 
-Occurs when a specified  ** [Search](226a5d49-3caf-90dd-725c-265404d1939f.md)**object's  ** [Stop](c087e5aa-a846-56e1-a808-e8718096c3c9.md)**method has been executed.
+Occurs when a specified  **[Search](226a5d49-3caf-90dd-725c-265404d1939f.md)** object's  **[Stop](c087e5aa-a846-56e1-a808-e8718096c3c9.md)** method has been executed.
 
 
 ## Syntax
@@ -17,11 +17,11 @@ Occurs when a specified  ** [Search](226a5d49-3caf-90dd-725c-265404d1939f.md)**o
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SearchObject|Required| **Search**|The  ** [Search](226a5d49-3caf-90dd-725c-265404d1939f.md)** object returned by the ** [AdvancedSearch](7b433d8b-08b9-dff1-b854-287d76b47a90.md)**method.|
+|SearchObject|Required| **Search**|The  **[Search](226a5d49-3caf-90dd-725c-265404d1939f.md)** object returned by the **[AdvancedSearch](7b433d8b-08b9-dff1-b854-287d76b47a90.md)** method.|
 
 ## Remarks
 
-After this event is fired, the  **Search** object's ** [Results](59057f6f-8f6d-eed0-c945-240b9593b7ea.md)**collection will no longer be updated. This event can only be triggered programmatically.
+After this event is fired, the  **Search** object's **[Results](59057f6f-8f6d-eed0-c945-240b9593b7ea.md)** collection will no longer be updated. This event can only be triggered programmatically.
 
 
 ## Example

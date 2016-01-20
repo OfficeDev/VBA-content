@@ -1,7 +1,7 @@
 
 # Tabs.Clear Method (Outlook Forms Script)
 
-Removes all tabs from a  ** [Tabs](0b209e50-60c7-e991-f0fb-627dd17cb7ec.md)** collection.
+Removes all tabs from a  **[Tabs](0b209e50-60c7-e991-f0fb-627dd17cb7ec.md)** collection.
 
 
 ## Syntax

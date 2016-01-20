@@ -19,7 +19,7 @@ Obtains an icon image that will be displayed for a particular type of icon for t
 |:-----|:-----|:-----|:-----|
 |FormRegionName|Required| **String**|The name of the form region which is the name used when registering the form region in the Windows registry.|
 |LCID|Required| **Long**|The locale ID that identifies the language that Outlook is currently using. This value is used to obtain the localization strings corresponding to this language for the form region.|
-|Icon|Required| ** [OlFormRegionIcon](22a9e2aa-e264-8392-b1ad-a2ab995b6440.md)**|A constant that identifies the type of icon.|
+|Icon|Required| **[OlFormRegionIcon](22a9e2aa-e264-8392-b1ad-a2ab995b6440.md)**|A constant that identifies the type of icon.|
 
 ### Return Value
 
@@ -28,7 +28,7 @@ A Variant that is either a byte-array that represents the original bytes of the 
 
 ## Remarks
 
-This method is intended to be implemented by an add-in and called by Outlook. As part of the  ** [FormRegionStartup](948ea6b7-2962-57e7-618d-fa0977b65651.md)** interface, this method and the ** [GetFormRegionManifest](de752c6f-423a-ee2f-aa7e-d1107cf406a2.md)** method provide a mechanism through which an add-in can register a form region and provide Outlook with the XML manifest and the icons for the form region.
+This method is intended to be implemented by an add-in and called by Outlook. As part of the  **[FormRegionStartup](948ea6b7-2962-57e7-618d-fa0977b65651.md)** interface, this method and the **[GetFormRegionManifest](de752c6f-423a-ee2f-aa7e-d1107cf406a2.md)** method provide a mechanism through which an add-in can register a form region and provide Outlook with the XML manifest and the icons for the form region.
 
 If you would like an add-in to provide icons for a form region, specify the ProgID of the add-in when you register the form region in the Windows registry. For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](0de3fcb1-b357-8300-c943-9a5a788d4976.md). The add-in must implement the  **GetFormRegionManifest** and the **GetFormRegionIcon** methods of the **FormRegionStartup** interface.
 

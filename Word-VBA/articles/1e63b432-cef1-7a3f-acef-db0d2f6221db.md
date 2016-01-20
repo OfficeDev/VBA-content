@@ -8,7 +8,7 @@ Returns or sets the vertical scroll position as a percentage of the document len
 
  _expression_. **VerticalPercentScrolled**
 
- _expression_Required. A variable that represents a  ** [Pane](4a0c2690-d9d2-4e34-fef4-cc41365f5251.md)** object.
+ _expression_Required. A variable that represents a  **[Pane](4a0c2690-d9d2-4e34-fef4-cc41365f5251.md)** object.
 
 
 ## Example

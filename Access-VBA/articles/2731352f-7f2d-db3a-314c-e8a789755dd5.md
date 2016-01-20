@@ -17,7 +17,7 @@ The  **RunCommand** method runs a built-in command.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Command|Required| **AcCommand**|An  ** [AcCommand](a78f91cc-3b40-5f45-c737-4d3abb2e979f.md)** constant that specifies the commend to run.|
+|Command|Required| **AcCommand**|An  **[AcCommand](a78f91cc-3b40-5f45-c737-4d3abb2e979f.md)** constant that specifies the commend to run.|
 
 ## Remarks
 

@@ -13,5 +13,5 @@ Gets the screen type for the single view. Read-only  **PjViewScreen**.
 
 ## Remarks
 
-The  **Screen** property can be one of the ** [PjViewScreen](a345e016-ef13-0605-7b2a-5e91c748743e.md)** constants.
+The  **Screen** property can be one of the **[PjViewScreen](a345e016-ef13-0605-7b2a-5e91c748743e.md)** constants.
 

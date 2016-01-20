@@ -8,7 +8,7 @@ Returns or sets a value that represents the pattern applied to the specified lin
 
  _expression_. **Pattern**
 
- _expression_Required. A variable that represents a  ** [LineFormat](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)** object.
+ _expression_Required. A variable that represents a  **[LineFormat](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)** object.
 
 
 ## Example

@@ -1,7 +1,7 @@
 
 # SlideShowWindow.View Property (PowerPoint)
 
-Returns a  ** [SlideShowView](403b30ef-b12f-3a3c-e8d8-19189fd762fe.md)** object. Read-only.
+Returns a  **[SlideShowView](403b30ef-b12f-3a3c-e8d8-19189fd762fe.md)** object. Read-only.
 
 
 ## Syntax

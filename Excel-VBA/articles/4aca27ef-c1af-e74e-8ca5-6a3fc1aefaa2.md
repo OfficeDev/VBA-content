@@ -6,7 +6,7 @@ Returns or sets the minimum value on the axis. Read/write  **Double**.
 
 ## Remarks
 
-Setting this property sets the  ** [MinimumScaleIsAuto](95ed7a2b-efda-b05a-da2e-789a166a97c8.md)**property to  **False**.
+Setting this property sets the  **[MinimumScaleIsAuto](95ed7a2b-efda-b05a-da2e-789a166a97c8.md)** property to  **False**.
 
 
 ## Example

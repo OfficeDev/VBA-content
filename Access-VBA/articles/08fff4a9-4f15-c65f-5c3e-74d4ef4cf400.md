@@ -45,7 +45,7 @@ The  **ControlType** property is useful not only for checking for a specific con
 
 You can use the  **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect**property for all text boxes to Flat and set the form's  **AllowEdits**property to No. (The  **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
 
-The  **ControlType** property is also used to specify the type of control to create when you are using the ** [CreateControl](f5b1689c-62c4-163d-c659-607cee7572f6.md)**method.
+The  **ControlType** property is also used to specify the type of control to create when you are using the **[CreateControl](f5b1689c-62c4-163d-c659-607cee7572f6.md)** method.
 
 
 ## Example

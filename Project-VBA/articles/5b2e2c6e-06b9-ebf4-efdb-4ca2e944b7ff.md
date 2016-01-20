@@ -24,9 +24,9 @@ Gets the date and time that follows another date by a specified duration, using 
 
 The  **EffectiveDateAdd** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The property and arguments have no effect on actual task dates.
 
-You can use the  ** [EffectiveDateSubtract](14529bd1-9029-d1bc-60a0-b7863cba4d6d.md)**,  **EffectiveDateAdd**, and  ** [EffectiveDateDifference](9b825839-31de-71f8-9804-015dfd5a293c.md)** properties to calculate start and finish dates for manually scheduled tasks.
+You can use the  **[EffectiveDateSubtract](14529bd1-9029-d1bc-60a0-b7863cba4d6d.md)**,  **EffectiveDateAdd**, and  **[EffectiveDateDifference](9b825839-31de-71f8-9804-015dfd5a293c.md)** properties to calculate start and finish dates for manually scheduled tasks.
 
-To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the  ** [DateAdd](df0da054-495c-c224-ebc8-b47acb78e2af.md)** method.
+To calculate a date for an automatically scheduled task, where you can also specify the calendar, use the  **[DateAdd](df0da054-495c-c224-ebc8-b47acb78e2af.md)** method.
 
 
 ## Example

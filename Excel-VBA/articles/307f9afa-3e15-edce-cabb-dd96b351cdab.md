@@ -8,7 +8,7 @@ Returns the right-tailed F probability distribution. You can use this function t
 
  _expression_. **F_Dist_RT**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**)
 
- _expression_A variable that represents a  ** [WorksheetFunction](7b1d5639-363d-632c-2cf0-2232562646b6.md)** object.
+ _expression_A variable that represents a  **[WorksheetFunction](7b1d5639-363d-632c-2cf0-2232562646b6.md)** object.
 
 
 ### Parameters

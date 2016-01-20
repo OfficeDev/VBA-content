@@ -8,7 +8,7 @@ Returns a  **Paragraph** object that represents the last item in the collection 
 
  _expression_. **Last**
 
- _expression_Required. A variable that represents a  ** [Paragraphs](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)** collection.
+ _expression_Required. A variable that represents a  **[Paragraphs](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)** collection.
 
 
 ## Example

@@ -17,10 +17,10 @@ The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PrintRange|Optional| **AcPrintRange**|A  ** [AcPrintRange](78d5a3d5-a94d-fb8c-45dd-5ba757576194.md)** constant that specifies the range to print. The default value is **acPrintAll**.|
+|PrintRange|Optional| **AcPrintRange**|A  **[AcPrintRange](78d5a3d5-a94d-fb8c-45dd-5ba757576194.md)** constant that specifies the range to print. The default value is **acPrintAll**.|
 |PageFrom|Optional| **Variant**|The first page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for theprintrange argument.|
 |PageTo|Optional| **Variant**|The last page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for theprintrange argument.|
-|PrintQuality|Optional| **AcPrintQuality**|A  ** [AcPrintQuality](5a4636c4-7034-34a8-3c75-7cd059b8f10a.md)** constant that specifies the print quality. the default value is **acHigh**.|
+|PrintQuality|Optional| **AcPrintQuality**|A  **[AcPrintQuality](5a4636c4-7034-34a8-3c75-7cd059b8f10a.md)** constant that specifies the print quality. the default value is **acHigh**.|
 |Copies|Optional| **Variant**|The number of copies to print. If you leave this argument blank, the default (1) is assumed.|
 |CollateCopies|Optional| **Variant**|Use  **True** (-1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default ( **True**) is assumed.|
 

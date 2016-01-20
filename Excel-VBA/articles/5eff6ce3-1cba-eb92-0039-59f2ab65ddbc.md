@@ -1,7 +1,7 @@
 
 # Series.ChartType Property (Excel)
 
-Returns or sets the chart type. Read/write  ** [XlChartType](bba4ee89-ee91-f55a-d2e0-59a73e5bfabe.md)**.
+Returns or sets the chart type. Read/write  **[XlChartType](bba4ee89-ee91-f55a-d2e0-59a73e5bfabe.md)**.
 
 
 ## Syntax

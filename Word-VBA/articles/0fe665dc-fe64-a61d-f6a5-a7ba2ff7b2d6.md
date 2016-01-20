@@ -8,12 +8,12 @@
 
  _expression_. **CanOpen**
 
- _expression_A variable that represents a  ** [FileConverter](41af2a9b-75cc-253d-4954-4fb42c88530f.md)** object.
+ _expression_A variable that represents a  **[FileConverter](41af2a9b-75cc-253d-4954-4fb42c88530f.md)** object.
 
 
 ## Remarks
 
-The  ** [CanSave](a1de7523-5b9c-b606-4308-9445e3c4c76d.md)**property returns  **True** if the specified file converter can be used to save (export) files.
+The  **[CanSave](a1de7523-5b9c-b606-4308-9445e3c4c76d.md)** property returns  **True** if the specified file converter can be used to save (export) files.
 
 
 ## Example

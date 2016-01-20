@@ -25,7 +25,7 @@ Before you can use an Outlook object in Visual Basic or Visual Basic for Applica
 
 Once you've referenced the object model library, you must declare variables that reference the object you want to use. You can declare the variable in the module in which the object will be used (that is, the module containing the event-handler procedure), but more commonly you' ll declare it in a class module so it can be used in any module in your program.
 
-For example, to declare an object variable for the  ** [Application](797003e7-ecd1-eccb-eaaf-32d6ddde8348.md)** object in a class module, you use code like the following.
+For example, to declare an object variable for the  **[Application](797003e7-ecd1-eccb-eaaf-32d6ddde8348.md)** object in a class module, you use code like the following.
 
 
 
@@ -39,7 +39,7 @@ You must use the  `WithEvents` keyword to specify that the object variable will 
 
 ## Write the Event Procedure
 
-After the new object has been declared with events, it appears in the  **Object** list in the class module Code window, and you can select the object's event procedures from the **Procedures/Events** list. For example, when you select the ** [ItemSend](54f506ea-87a2-29b9-2b33-67bc87167933.md)** event for an **Application** object declared as `myOlApp`, the following empty procedure appears in the Code window.
+After the new object has been declared with events, it appears in the  **Object** list in the class module Code window, and you can select the object's event procedures from the **Procedures/Events** list. For example, when you select the **[ItemSend](54f506ea-87a2-29b9-2b33-67bc87167933.md)** event for an **Application** object declared as `myOlApp`, the following empty procedure appears in the Code window.
 
 
 ```

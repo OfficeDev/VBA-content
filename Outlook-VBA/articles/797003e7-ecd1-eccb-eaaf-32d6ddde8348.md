@@ -6,14 +6,14 @@ Represents the entire Microsoft Outlook application.
 
 ## Remarks
 
- This is the only object in the hierarchy that can be returned by using the ** [CreateObject](09b6ff5b-a750-c07d-7499-c1f8a00214fe.md)**method or the intrinsic Visual Basic  **GetObject** function.
+ This is the only object in the hierarchy that can be returned by using the **[CreateObject](09b6ff5b-a750-c07d-7499-c1f8a00214fe.md)** method or the intrinsic Visual Basic  **GetObject** function.
 
 The Outlook  **Application** object has several purposes:
 
 
 - As the root object, it allows access to other objects in the Outlook hierarchy.
     
-- It allows direct access to a new item created by using  ** [CreateItem](e5fbf367-db16-5042-823e-68e6b805e612.md)**, without having to traverse the object hierarchy.
+- It allows direct access to a new item created by using  **[CreateItem](e5fbf367-db16-5042-823e-68e6b805e612.md)**, without having to traverse the object hierarchy.
     
 - It allows access to the active interface objects (the explorer and the inspector).
     

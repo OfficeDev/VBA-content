@@ -1,6 +1,6 @@
 
 # Project Members (Project)
-Represents one project in the set of open projects. The  **Project** object is a member of the ** [Projects](5a254428-f50d-e74f-dd31-5cdb260a4364.md)** collection.
+Represents one project in the set of open projects. The  **Project** object is a member of the **[Projects](5a254428-f50d-e74f-dd31-5cdb260a4364.md)** collection.
 
 ## Events
 
@@ -52,7 +52,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [LevelClearDates](301a75b6-9650-5440-b6ba-e14a6ec98bcf.md)|Sets the leveling range to include the entire project.|
 | [LocalResourceCount](391b10bc-f738-7b10-cdf3-5b3838b289ef.md)|Returns the number of local resources in the project.|
 | [LocalResourceErrorCount](d4491ebf-67ef-f3fe-f9cc-7534a70be70c.md)|Returns the number of local resource errors.|
-| [MakeServerURLTrusted](8ef5ae1c-f22f-325c-07a9-253e64c62cb0.md)|Adds the URL specified in the  ** [ServerURL](a204c795-73a3-4ce2-a582-3afd951914c7.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.|
+| [MakeServerURLTrusted](8ef5ae1c-f22f-325c-07a9-253e64c62cb0.md)|Adds the URL specified in the  **[ServerURL](a204c795-73a3-4ce2-a582-3afd951914c7.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.|
 | [ReadWssData](97ff4d8e-8f0b-3b7f-9515-56376967e5bd.md)|Returns the Project Workspace URLs for the active enterprise project as an XML string.|
 | [ResourceCount](93a2cd6e-306d-28e6-fbc5-4ee9542b2fe6.md)|Returns the total number of resources in the project, including both local and enterprise resources.|
 | [ResourceErrorCount](36c489a4-1839-b5a7-c534-5694e67ec026.md)|Returns the number of resource errors.|
@@ -71,7 +71,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [AllowTaskDelegation](ff8501bf-28a0-c53b-36a6-a697f5e160b7.md)| **True** if Project Server users can delegate tasks to other resources in the project. Read/write **Boolean**. .|
 | [AndMoveCompleted](9f14e1e6-0a1e-1a8b-112e-600b3cb46a56.md)| **True** if the actual, completed portion of a task that is scheduled before the status date is moved to end at the status date. Read/write **Boolean**.|
 | [AndMoveRemaining](4ad6b54e-f5b0-b1dc-866f-04ff750300e5.md)| **True** if the remaining work on a task that is scheduled after the status date is moved to start at the status date. Read/write **Boolean**.|
-| [Application](935ad507-7df9-ce7b-16ab-4270349d9b74.md)|Gets the  ** [Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application**.|
+| [Application](935ad507-7df9-ce7b-16ab-4270349d9b74.md)|Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application**.|
 | [AskForCompletedWork](54380c01-ae6f-a378-a46b-bfe0064fbc5f.md)|Gets or sets the way completed work is reported in team status messages. Read/write  **PjTeamStatusCompletedWork**.|
 | [AutoAddResources](b8e048f8-5bc1-740f-d397-e6f0ddf77a3a.md)| **True** if new resources are automatically created as they are assigned. **False** if Project prompts before creating new resources. Read/write **Boolean**.|
 | [AutoCalcCosts](fa9e27f9-7f7c-63f3-83c5-e2e0fc2ddfc7.md)| **True** if Project always calculates actual costs. **False** if users can enter actual costs, and Project does not calculate actual costs. Read/write **Boolean**.|
@@ -79,10 +79,10 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [AutoLinkTasks](300aed81-3404-4e46-6e01-78214b9507eb.md)| **True** if Project automatically links sequential tasks when you cut, move, or insert tasks. Read/write **Boolean**.|
 | [AutoSplitTasks](46e74dad-ad8f-7fa8-83f5-14094a259e41.md)| **True** if Project automatically splits tasks into parts for work complete and work remaining. Read/write **Boolean**.|
 | [AutoTrack](f72fe5ea-b2d5-6917-ab19-c4ae53a42a9a.md)| **True** if Project automatically updates the work and costs of resources assigned to a task when the percent complete changes. Read/write **Boolean**.|
-| [BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)|Gets a  ** [Calendars](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** collection representing all base calendars in the active project. Read-only **Calendars**.|
+| [BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)|Gets a  **[Calendars](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** collection representing all base calendars in the active project. Read-only **Calendars**.|
 | [BaselineSavedDate](780c5190-68bb-1c10-0dbb-612e5606184e.md)|Gets date the specified baseline was last saved. Read-only  **Variant**.|
 | [BuiltinDocumentProperties](7922b8e8-d2a9-be77-b1e5-e33d4a37887c.md)|Gets a  **DocumentProperties** collection representing the built-in properties of the document. Read-only **Object**.|
-| [Calendar](0496a31e-7469-57e0-7675-ac9c6677f992.md)|Gets a  ** [Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** object representing a calendar for the project. Read-only **Calendar**.|
+| [Calendar](0496a31e-7469-57e0-7675-ac9c6677f992.md)|Gets a  **[Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** object representing a calendar for the project. Read-only **Calendar**.|
 | [CanCheckIn](ce36a90d-f2ad-e37a-eba4-fdb2e391f6be.md)| **True** if Project Professional can check in a project to Project Server. Read-only **Boolean**.|
 | [CodeName](78c63fe2-30ad-bee7-1901-2fa0e293c7b4.md)|Gets the code name for the project. Read-only  **String**.|
 | [CommandBars](8b987a76-0aa4-537b-871b-ad36338b2b4e.md)|Gets a  **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.|
@@ -140,7 +140,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [LevelFromDate](19e29259-de9d-9e8a-b724-129839dca23b.md)|Gets or sets the starting date of a range in which overallocated resources are leveled. The default is the project start date or the last entered date value. Read/write  **Variant**.|
 | [LevelToDate](b697db71-8f8e-9caf-345c-59899f4024a3.md)|Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write  **Variant**.|
 | [ManuallyScheduledTasksAutoRespectLinks](158b13c8-5829-8e68-804f-fd96913e295d.md)| **True** if predecessor and successor task links are maintained when a task is converted from automatic to manual; otherwise, **False**. Read/write  **Boolean**.|
-| [MapList](b124f86e-fec6-ab92-93ff-5db4eff16892.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the list of data maps in the project. Read-only **List**.|
+| [MapList](b124f86e-fec6-ab92-93ff-5db4eff16892.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the list of data maps in the project. Read-only **List**.|
 | [MinuteLabelDisplay](7cf43dda-ae9b-ed06-027e-740ba855e7f1.md)|Gets or sets the abbreviation for "minute" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.|
 | [MonthLabelDisplay](ed6e783c-9f11-1ecf-7cf6-e8281a1892b2.md)|Gets or sets the abbreviation for "month" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.|
 | [MoveCompleted](83ecef23-b57b-3b7e-2563-6e26a14f18f5.md)| **True** if a task that is scheduled after the status date has actual progress entered against it and the actual, completed portion of the task is moved so the completed work ends on the status date. Read/Write **Boolean**.|
@@ -151,8 +151,8 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [NewTasksEstimated](a0f6bc53-9eac-180c-eca8-72037a012d83.md)| **True** if new tasks in the active project have estimated durations. Read/write **Boolean**.|
 | [NumberOfResources](a65ece0e-0285-a0d4-fb45-3f4d730ddd3d.md)|Gets the number of resources in a project, not including blank entries. Read-only  **Long**.|
 | [NumberOfTasks](24cd76f8-0817-2aee-92d0-15beec504257.md)|Gets the number of tasks in a project, not including blank entries. Read-only  **Long**.|
-| [OutlineChildren](f0feaf89-04ad-4523-7b15-eff6573f6ddd.md)|Gets a  ** [Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.|
-| [OutlineCodes](400701e8-0114-0819-716f-d79d08a955d5.md)|Gets an ** [OutlineCodes](a2e6d0c7-0741-91c6-61aa-f4bcc299e66f.md)** collection of all outline codes defined for resources and tasks in the project. Read-only **OutlineCodes**.|
+| [OutlineChildren](f0feaf89-04ad-4523-7b15-eff6573f6ddd.md)|Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the children of a task in the outline structure. Read-only **Tasks**.|
+| [OutlineCodes](400701e8-0114-0819-716f-d79d08a955d5.md)|Gets an **[OutlineCodes](a2e6d0c7-0741-91c6-61aa-f4bcc299e66f.md)** collection of all outline codes defined for resources and tasks in the project. Read-only **OutlineCodes**.|
 | [Parent](c09194fc-3735-ed96-ec15-499682ed33e7.md)|Gets the parent of the  **Project** object. Read-only **Object**.|
 | [Path](6318f0ea-c6c9-4951-e53d-e0076f055bab.md)|Gets the path of the open project. Read-only  **String**.|
 | [PhoneticType](d959bb6c-9efa-2b4c-594a-1b9294460770.md)|Gets or sets the type of characters used to display phonetic information. Read/write  **PjPhoneticType**.|
@@ -166,23 +166,23 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [ProjectNotes](2a9dcdbe-50f2-544a-8aba-c2db0d6762bc.md)|Gets or sets the notes for the project. Read/write  **String**.|
 | [ProjectServerUsedForTracking](bbaaf811-7d4c-1e40-dc44-2563117576f5.md)| **True** if Project Server is used for tracking the specified project. Read/write **Boolean**.|
 | [ProjectStart](e29a67b8-fd54-b7ed-3eb0-da4adfa66b6a.md)|Gets or sets the start date for a project. Read/write  **Variant**.|
-| [ProjectSummaryTask](88603abc-e988-9ab3-dc83-c44221da13b9.md)|Gets a  ** [Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object representing the project summary task for the active project. Read-only **Task**.|
+| [ProjectSummaryTask](88603abc-e988-9ab3-dc83-c44221da13b9.md)|Gets a  **[Task](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** object representing the project summary task for the active project. Read-only **Task**.|
 | [ReadOnly](9ec47083-afb5-b51d-96e3-c460b02f2012.md)| **True** if a project has read-only access. Read-only **Boolean**.|
 | [ReadOnlyRecommended](f35003bc-97fb-3acd-f629-7bb8addc5261.md)| **True** if the project should be opened with read-only access. Read-only **Boolean**.|
 | [ReceiveNotifications](16ac7115-ff63-7d49-eeb0-ef416a087959.md)| **True** if the manager receives notification when new messages arrive. Obsolete in Microsoft Project 2013. Read/write **Boolean**.|
 | [RemoveFileProperties](7aff624c-e9c9-f526-b233-fe0cc415e901.md)| **True** if Project removes user information from revisions and the project **Properties** dialog box upon saving a document. Read/write **Boolean**.|
 | [ReportList](0c688797-21cc-eaa0-0ebf-95e1e053f222.md)|Deprecated in Project 2013. |
 | [Reports](dc725fac-a25e-c134-6017-d73060c51e83.md)|Gets the collection of custom reports in the project. Read-only  **Reports**.|
-| [ResourceFilterList](d515691a-2f8c-ed61-4844-3a938c658847.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource filters in the project. Read-only **List**.|
-| [ResourceFilters](8fb48a77-85de-2c73-0ab7-614084ec33dd.md)|Gets a  ** [Filters](13b58540-decc-17c5-6de6-bbb8e05eb6d2.md)** collection that contains the resource filters of the project. Read-only **Filters**.|
-| [ResourceGroupList](a64fe8c8-e75f-3cab-e77a-54fc6c1bf0a5.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the resource groups in the active project. Read-only **List**.|
-| [ResourceGroups](9f268036-e676-708c-7688-b08cfa1ed5e1.md)|Gets a  ** [ResourceGroups](37bd0f3a-4d0e-1311-4409-ed31e0fe2e3a.md)** collection that contains all the resource-based group definitions in the project. Read-only **ResourceGroups**.|
-| [ResourceGroups2](2edec49b-2deb-b758-5d27-808ee391d994.md)|Gets a  ** [ResourceGroups2](b1328c39-42bc-4e9b-e268-1f308cd7ebb1.md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.|
+| [ResourceFilterList](d515691a-2f8c-ed61-4844-3a938c658847.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource filters in the project. Read-only **List**.|
+| [ResourceFilters](8fb48a77-85de-2c73-0ab7-614084ec33dd.md)|Gets a  **[Filters](13b58540-decc-17c5-6de6-bbb8e05eb6d2.md)** collection that contains the resource filters of the project. Read-only **Filters**.|
+| [ResourceGroupList](a64fe8c8-e75f-3cab-e77a-54fc6c1bf0a5.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the resource groups in the active project. Read-only **List**.|
+| [ResourceGroups](9f268036-e676-708c-7688-b08cfa1ed5e1.md)|Gets a  **[ResourceGroups](37bd0f3a-4d0e-1311-4409-ed31e0fe2e3a.md)** collection that contains all the resource-based group definitions in the project. Read-only **ResourceGroups**.|
+| [ResourceGroups2](2edec49b-2deb-b758-5d27-808ee391d994.md)|Gets a  **[ResourceGroups2](b1328c39-42bc-4e9b-e268-1f308cd7ebb1.md)** collection that represents all of the resource groups based on **Group2** objects. Read-only **ResourceGroups2**.|
 | [ResourcePoolName](74d426a7-00ed-7a29-5f25-e0f2391add4d.md)|Gets the name of the enterprise resource pool that a project uses in Project Professional. Read-only  **String**.|
-| [Resources](40744aba-2b61-2b45-133a-f1dd9c7d6add.md)|Gets a  ** [Resources](84f8357a-358b-f2ae-e164-65c0c5abd383.md)** collection representing the resources in a **Project**. Read-only  **Object**.|
-| [ResourceTableList](3d6c7995-4527-1597-ec56-c75d59be131a.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource tables in the project. Read-only **List**.|
-| [ResourceTables](d3b0c4a2-5274-8dbd-bee9-b8975649364b.md)|Gets a  ** [Tables](0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad.md)** collection that contains the resource tables of the project. Read-only **Tables**.|
-| [ResourceViewList](d0acf85f-8a07-714d-614f-a18645177f40.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource views in the active project. Read-only **List**.|
+| [Resources](40744aba-2b61-2b45-133a-f1dd9c7d6add.md)|Gets a  **[Resources](84f8357a-358b-f2ae-e164-65c0c5abd383.md)** collection representing the resources in a **Project**. Read-only  **Object**.|
+| [ResourceTableList](3d6c7995-4527-1597-ec56-c75d59be131a.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource tables in the project. Read-only **List**.|
+| [ResourceTables](d3b0c4a2-5274-8dbd-bee9-b8975649364b.md)|Gets a  **[Tables](0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad.md)** collection that contains the resource tables of the project. Read-only **Tables**.|
+| [ResourceViewList](d0acf85f-8a07-714d-614f-a18645177f40.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all resource views in the active project. Read-only **List**.|
 | [RevisionNumber](1093ffd7-da1c-30d5-03af-d43a49554831.md)|Gets the number of times a project has been saved. Read-only  **String**.|
 | [Saved](e35021dd-68f4-612e-06fc-e9d90c600352.md)| **True** if a project has not changed since it was last saved. Read-only **Boolean**.|
 | [ScheduleFromStart](e6f792cf-3b91-9bcd-92c0-e9b2418477d0.md)| **True** if Project calculates the project schedule forward from the start date. **False** if the schedule is calculated backward from the finish date. Read/write **Boolean**.|
@@ -204,17 +204,17 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [StartWeekOn](c4cbd07f-4258-3655-b013-c65480895203.md)|Gets or sets the first day of the week for the project. Read/write  **PjWeekday**.|
 | [StartYearIn](826f19c5-aa97-b44d-6645-1ab9320f6ae1.md)|Gets or sets the month number for the start of the fiscal year for the project. Read/write  **PjMonth**. |
 | [StatusDate](3d53790c-051c-e3d1-887a-1329c8ef98a8.md)|Gets or sets the current status date for the project. If there is no status date, returns "NA". Read/write  **Variant**.|
-| [Subprojects](e4b143fb-3da7-69bd-6535-5604c2cc2dc0.md)|Gets a  ** [Subprojects](1a3b0d18-6464-a4f2-479f-710e19faffa8.md)** collection representing subprojects in the master project. Read-only **Subprojects**.|
+| [Subprojects](e4b143fb-3da7-69bd-6535-5604c2cc2dc0.md)|Gets a  **[Subprojects](1a3b0d18-6464-a4f2-479f-710e19faffa8.md)** collection representing subprojects in the master project. Read-only **Subprojects**.|
 | [TaskErrorCount](32cafdcb-27ed-8f4b-e9e4-de173bca8f4d.md)|Gets or sets the number of task errors associated with a project. Read/write  **Long**.|
-| [TaskFilterList](303b49c8-cfc3-f4d6-197a-a4dfc130ee85.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task filters in the project. Read-only **List** .|
-| [TaskFilters](e1495c4e-65b7-c231-3b0c-5be3d3b19d40.md)|Gets a  ** [Filters](abcd72a7-b86b-783e-16e0-f50a48b1fed2.md)** collection of the task filters in the project. Read-only **Filters**.|
-| [TaskGroupList](4bb23b48-00ab-cbe0-2606-d2f8099338ff.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the task groups in the active project. Read-only **List** .|
-| [TaskGroups](fca3e169-396b-714d-8710-f54d8f777aeb.md)|Gets a  ** [TaskGroups](76d01102-cc38-36c1-f2fb-c5155f3056db.md)** collection representing all the task-based **Group** definitions in the project. Read-only **TaskGroups**.|
-| [TaskGroups2](e457ea72-be4e-4480-718d-548d8339b8b6.md)|Gets a  ** [TaskGroups2](08346fd5-3dbd-23ea-9dc8-c2361ce043f4.md)** collection that represents all the task-based **Group2** definitions in the specified project. Read-only **TaskGroups2**.|
-| [Tasks](08bfaadd-9cce-84a2-0ff3-c4b29d9e18cd.md)|Gets a  ** [Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the tasks in the project. Read-only **Tasks**.|
-| [TaskTableList](a36abbcb-db7d-f593-7e5c-df00fd96f010.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task tables in the project. Read-only **List**.|
-| [TaskTables](98ebe380-ab66-238e-f02c-a6dc6ae6c597.md)|Gets a  ** [Tables](f50f5d2d-a733-c5b0-16d8-e4ee98943321.md)** collection representing the task tables in the project. Read-only **Tables**.|
-| [TaskViewList](86d408a2-ed60-fde0-8849-17167d71f6d6.md)|Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task views in the project. Read-only **List**.|
+| [TaskFilterList](303b49c8-cfc3-f4d6-197a-a4dfc130ee85.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task filters in the project. Read-only **List** .|
+| [TaskFilters](e1495c4e-65b7-c231-3b0c-5be3d3b19d40.md)|Gets a  **[Filters](abcd72a7-b86b-783e-16e0-f50a48b1fed2.md)** collection of the task filters in the project. Read-only **Filters**.|
+| [TaskGroupList](4bb23b48-00ab-cbe0-2606-d2f8099338ff.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the task groups in the active project. Read-only **List** .|
+| [TaskGroups](fca3e169-396b-714d-8710-f54d8f777aeb.md)|Gets a  **[TaskGroups](76d01102-cc38-36c1-f2fb-c5155f3056db.md)** collection representing all the task-based **Group** definitions in the project. Read-only **TaskGroups**.|
+| [TaskGroups2](e457ea72-be4e-4480-718d-548d8339b8b6.md)|Gets a  **[TaskGroups2](08346fd5-3dbd-23ea-9dc8-c2361ce043f4.md)** collection that represents all the task-based **Group2** definitions in the specified project. Read-only **TaskGroups2**.|
+| [Tasks](08bfaadd-9cce-84a2-0ff3-c4b29d9e18cd.md)|Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the tasks in the project. Read-only **Tasks**.|
+| [TaskTableList](a36abbcb-db7d-f593-7e5c-df00fd96f010.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task tables in the project. Read-only **List**.|
+| [TaskTables](98ebe380-ab66-238e-f02c-a6dc6ae6c597.md)|Gets a  **[Tables](f50f5d2d-a733-c5b0-16d8-e4ee98943321.md)** collection representing the task tables in the project. Read-only **Tables**.|
+| [TaskViewList](86d408a2-ed60-fde0-8849-17167d71f6d6.md)|Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing all task views in the project. Read-only **List**.|
 | [Template](8f73cf7a-e900-2951-6491-edc0ef78c0f5.md)|Gets the name of the template associated with a project. Read-only  **String**.|
 | [TrackingMethod](cda3f127-5fad-f486-f02d-6d6eeb0d5588.md)|Gets or sets the tracking method used by Project Server for the project. Read/write  **PjProjectServerTrackingMethod**.|
 | [Type](13393b8e-283d-d816-283e-f363b83eac91.md)|Gets the type of a project. Read-only  **PjProjectType**.|
@@ -226,14 +226,14 @@ Represents one project in the set of open projects. The  **Project** object is a
 | [VBASigned](469f9f58-4386-7a0b-5937-5f758411bd38.md)| **True** if the Microsoft Visual Basic for Applications project is digitally signed. Read/write **Boolean**.|
 | [VBProject](d4d7c4d9-28a7-df4f-1bef-21afd41bee5d.md)|Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.|
 | [VersionName](a1ad4584-39df-6897-c08d-d6cb94ee3cf4.md)|Gets the version name of the project. Obsolete in Project 2013. Read-only  **String**.|
-| [ViewList](5a55b42b-f8eb-3fe4-5477-6d1f80b7b1d8.md)|Gets the  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object for the project. Read-only **List**.|
-| [Views](12a4c68a-f5bc-0754-bc7f-a5581e3aa200.md)|Gets a  ** [Views](39d793f4-2e31-d07b-a563-b213cced0c28.md)** collection representing the views of the project. Read-only **Views**.|
-| [ViewsCombination](4d4d1fb0-e0c4-e572-56b5-165e1cb20432.md)|Gets a  ** [ViewsCombination](34e4559a-5eb4-02be-8ad6-bdd3839d91db.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.|
-| [ViewsSingle](e95db085-4f27-60ca-4d93-d7b92a79911d.md)|Gets a  ** [ViewsSingle](41a36448-df16-3ad4-ec98-1dba0b3f8aef.md)** collection representing the single views of the project. Read-only **ViewsSingle**.|
+| [ViewList](5a55b42b-f8eb-3fe4-5477-6d1f80b7b1d8.md)|Gets the  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object for the project. Read-only **List**.|
+| [Views](12a4c68a-f5bc-0754-bc7f-a5581e3aa200.md)|Gets a  **[Views](39d793f4-2e31-d07b-a563-b213cced0c28.md)** collection representing the views of the project. Read-only **Views**.|
+| [ViewsCombination](4d4d1fb0-e0c4-e572-56b5-165e1cb20432.md)|Gets a  **[ViewsCombination](34e4559a-5eb4-02be-8ad6-bdd3839d91db.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.|
+| [ViewsSingle](e95db085-4f27-60ca-4d93-d7b92a79911d.md)|Gets a  **[ViewsSingle](41a36448-df16-3ad4-ec98-1dba0b3f8aef.md)** collection representing the single views of the project. Read-only **ViewsSingle**.|
 | [WBSCodeGenerate](c387015f-6243-1509-ae1a-bafdf09f7393.md)| **True** if a work breakdown structure (WBS) code is automatically generated for new tasks in the project. Read/write **Boolean**.|
 | [WBSVerifyUniqueness](6a9b50f8-f3a8-0d12-af7d-4879fc3573a3.md)| **True** if an edited work breakdown structure (WBS) code is verified to be unique. Read/write **Boolean**.|
 | [WeekLabelDisplay](d21cd816-06a3-89b0-b56a-9c1b56151209.md)|Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.|
-| [Windows](6096d9b0-c6ba-3e48-9265-f3e8448d293f.md)|Gets a  ** [Windows](6fc70ece-0257-5565-907b-e0e7a6770980.md)** collection representing the open windows in the project. Read-only **Windows**.|
-| [Windows2](0f10c401-d09b-82db-60ed-0f2b03b82656.md)|Gets a  ** [Windows2](a58383c6-12c7-81b3-10e8-81ba9180404c.md)** collection representing the open windows in the project. Read-only **Windows2**.|
+| [Windows](6096d9b0-c6ba-3e48-9265-f3e8448d293f.md)|Gets a  **[Windows](6fc70ece-0257-5565-907b-e0e7a6770980.md)** collection representing the open windows in the project. Read-only **Windows**.|
+| [Windows2](0f10c401-d09b-82db-60ed-0f2b03b82656.md)|Gets a  **[Windows2](a58383c6-12c7-81b3-10e8-81ba9180404c.md)** collection representing the open windows in the project. Read-only **Windows2**.|
 | [WriteReserved](0899e9ec-f7ce-5be8-400a-183172b5d4b5.md)| **True** if a password is required to open a project for read/write access. Read-only **Boolean**.|
 | [YearLabelDisplay](b15f8460-45cb-0383-4d70-14c506ea364a.md)|Gets or sets how the year label displays in rates. Read/write  **Integer**.|

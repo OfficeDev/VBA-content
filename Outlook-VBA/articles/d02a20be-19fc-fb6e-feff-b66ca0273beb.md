@@ -18,7 +18,7 @@ An  **Object** value that represents the last object contained by the collection
 
 ## Remarks
 
-It returns  **Nothing** if no last object exists, for example, if the collection is empty. To ensure correct operation of the ** [GetFirst](142a6174-118e-6256-0511-8ae9e142e555.md)**,  **GetLast**,  ** [GetNext](01c49c21-d9f9-37c4-8c64-ff8e2b1f9462.md)**, and  ** [GetPrevious](5dde47f8-2bd8-fdbe-d6e7-b1381e8a97a6.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns  **Nothing** if no last object exists, for example, if the collection is empty. To ensure correct operation of the **[GetFirst](142a6174-118e-6256-0511-8ae9e142e555.md)**,  **GetLast**,  **[GetNext](01c49c21-d9f9-37c4-8c64-ff8e2b1f9462.md)**, and  **[GetPrevious](5dde47f8-2bd8-fdbe-d6e7-b1381e8a97a6.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also

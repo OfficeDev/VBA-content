@@ -8,7 +8,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
  _expression_. **BackThemeColorIndex**
 
- _expression_A variable that represents a  ** [ComboBox](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)** object.
+ _expression_A variable that represents a  **[ComboBox](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)** object.
 
 
 ## Remarks

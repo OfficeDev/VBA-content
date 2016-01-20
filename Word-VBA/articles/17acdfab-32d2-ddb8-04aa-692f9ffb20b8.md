@@ -1,14 +1,14 @@
 
 # Application.Dialogs Property (Word)
 
-Returns a  ** [Dialogs](8dfa5d8a-bb81-1cdd-853b-3acf9db70aa9.md)**collection that represents all the built-in dialog boxes in Word.Read-only.
+Returns a  **[Dialogs](8dfa5d8a-bb81-1cdd-853b-3acf9db70aa9.md)** collection that represents all the built-in dialog boxes in Word.Read-only.
 
 
 ## Syntax
 
  _expression_. **Dialogs**
 
- _expression_A variable that represents an  ** [Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_A variable that represents an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ## Remarks

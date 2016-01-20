@@ -32,7 +32,7 @@ BuiltinDocumentProperties.Item(1)
 BuiltinDocumentProperties(1)
 ```
 
-Use the  ** [CustomDocumentProperties](8470adbb-5b10-96ba-71f7-c667c33b6707.md)** property to return the collection of custom document properties.
+Use the  **[CustomDocumentProperties](8470adbb-5b10-96ba-71f7-c667c33b6707.md)** property to return the collection of custom document properties.
 
 
 ## Example

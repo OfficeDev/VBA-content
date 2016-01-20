@@ -1,7 +1,7 @@
 
 # OlAccountType Enumeration (Outlook)
 
-Specifies the type of an  ** [Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)**.
+Specifies the type of an  **[Account](f624438c-4e45-2822-18b6-bfe8074a33c0.md)**.
 
 
 

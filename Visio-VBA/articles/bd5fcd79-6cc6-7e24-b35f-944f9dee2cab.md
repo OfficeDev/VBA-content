@@ -1,7 +1,7 @@
 
 # ValidationRuleSet.Delete Method (Visio)
 
-Deletes the  ** [ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** object from the document.
+Deletes the  **[ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** object from the document.
 
 
 ## Syntax
@@ -18,7 +18,7 @@ Deletes the  ** [ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** o
 
 ## Remarks
 
-Calling the  **Delete** method also deletes all ** [ValidationRule](c9efb9b4-10b0-b6aa-cc78-2a01fd3e8357.md)** objects that are associated with the validation rule set.
+Calling the  **Delete** method also deletes all **[ValidationRule](c9efb9b4-10b0-b6aa-cc78-2a01fd3e8357.md)** objects that are associated with the validation rule set.
 
 
 ## Example

@@ -8,7 +8,7 @@ Returns a  **CustomProperty** object in a collection.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_Required. A variable that represents a  ** [CustomProperties](8b4248a1-7e1f-dbbd-37ab-f52a2d1ee505.md)** collection.
+ _expression_Required. A variable that represents a  **[CustomProperties](8b4248a1-7e1f-dbbd-37ab-f52a2d1ee505.md)** collection.
 
 
 ### Parameters

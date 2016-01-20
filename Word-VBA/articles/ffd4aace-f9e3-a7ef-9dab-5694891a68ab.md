@@ -8,7 +8,7 @@ Initiates manual hyphenation of a document, one line at a time.
 
  _expression_. **ManualHyphenation**
 
- _expression_Required. A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks

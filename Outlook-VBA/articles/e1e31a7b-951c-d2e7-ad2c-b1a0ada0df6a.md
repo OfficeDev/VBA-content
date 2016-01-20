@@ -13,7 +13,7 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Remarks
 
-The  **AfterWrite** event occurs after the ** [Write](27ab5442-2ce2-c40e-b95c-6e23f29e124b.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the ** [Unload](42dea931-c3dd-b8ff-5ace-0744b17650e0.md)** event.
+The  **AfterWrite** event occurs after the **[Write](27ab5442-2ce2-c40e-b95c-6e23f29e124b.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](42dea931-c3dd-b8ff-5ace-0744b17650e0.md)** event.
 
 The  **AfterWrite** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnWriteComplete**.
 

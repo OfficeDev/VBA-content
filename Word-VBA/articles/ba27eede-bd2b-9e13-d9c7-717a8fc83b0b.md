@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [Templates](de62f768-011a-7446-48c3-1c4512da5f7c.md)** collection.
+ _expression_Required. A variable that represents a  **[Templates](de62f768-011a-7446-48c3-1c4512da5f7c.md)** collection.
 
 
 ## Remarks

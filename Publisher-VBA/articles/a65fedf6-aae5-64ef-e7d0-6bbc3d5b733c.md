@@ -1,7 +1,7 @@
 
 # MailMergeDataSources.Item Method (Publisher)
 
-Returns the  ** [MailMergeDataSource](a02eb4fb-7db7-e533-c3ca-95bc4ca68e82.md)** object at the specified index position in the **MailMergeDataSources** collection.
+Returns the  **[MailMergeDataSource](a02eb4fb-7db7-e533-c3ca-95bc4ca68e82.md)** object at the specified index position in the **MailMergeDataSources** collection.
 
 
 ## Syntax

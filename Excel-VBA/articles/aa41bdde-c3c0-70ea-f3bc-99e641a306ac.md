@@ -13,7 +13,7 @@
 
 ## Remarks
 
-The connections are not automatically refreshed when you open the workbook by using the  ** [Open](1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0.md)** method in Visual Basic. Use the ** [Refresh](26a9ba46-1679-f83b-6933-b6c448dce9e7.md)** method to refresh the data after the workbook is open.
+The connections are not automatically refreshed when you open the workbook by using the  **[Open](1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0.md)** method in Visual Basic. Use the **[Refresh](26a9ba46-1679-f83b-6933-b6c448dce9e7.md)** method to refresh the data after the workbook is open.
 
 
 ## See also

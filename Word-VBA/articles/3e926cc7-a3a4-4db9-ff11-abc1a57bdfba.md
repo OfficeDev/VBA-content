@@ -8,7 +8,7 @@
 
  _expression_. **Locked**
 
- _expression_Required. A variable that represents a  ** [MailMergeField](8beb6228-079c-008c-10aa-3f8f711fcf5c.md)** object.
+ _expression_Required. A variable that represents a  **[MailMergeField](8beb6228-079c-008c-10aa-3f8f711fcf5c.md)** object.
 
 
 ## Remarks

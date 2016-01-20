@@ -1,14 +1,14 @@
 
 # SlicerPivotTables.Item Property (Excel)
 
-Returns a single  ** [PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object from the collection.
+Returns a single  **[PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object from the collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  ** [SlicerPivotTables](8302dc8a-3845-12b0-f88e-761f104f1dcc.md)** object.
+ _expression_A variable that represents a  **[SlicerPivotTables](8302dc8a-3845-12b0-f88e-761f104f1dcc.md)** object.
 
 
 ### Parameters

@@ -1,14 +1,14 @@
 
 # Global.Documents Property (Word)
 
-Returns a  ** [Documents](fc4ac973-19c1-703a-5538-f4426b8b7564.md)** collection that represents all the open documents. Read-only.
+Returns a  **[Documents](fc4ac973-19c1-703a-5538-f4426b8b7564.md)** collection that represents all the open documents. Read-only.
 
 
 ## Syntax
 
  _expression_. **Documents**
 
- _expression_A variable that represents a  ** [Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
+ _expression_A variable that represents a  **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
 
 
 ## Remarks

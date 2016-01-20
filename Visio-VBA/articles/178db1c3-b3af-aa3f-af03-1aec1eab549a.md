@@ -8,7 +8,7 @@ Registers the  ** [IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7
 
  _expression_. **RegisterRibbonX**( **_SourceAddOn_**,  **_TargetDocument_**,  **_TargetModes_**,  **_FriendlyName_**)
 
- _expression_A variable that represents an  ** [Application](5b3c8939-793f-116f-11b8-1d4170d95a63.md)** object.
+ _expression_A variable that represents an  **[Application](5b3c8939-793f-116f-11b8-1d4170d95a63.md)** object.
 
 
 ### Parameters
@@ -18,8 +18,8 @@ Registers the  ** [IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |SourceAddOn|Required| **IRibbonExtensibilty**|The add-on to register.|
-|TargetDocument|Required| ** [Document](21640062-13a2-a2b2-7c61-7e707671207c.md)**|The document that uses the custom UI.|
-|TargetModes|Required| ** [VisRibbonXModes](80f01121-3ea5-1ba8-bbea-ba81936ea4ae.md)**|The modes in which the custom UI should be visible. See Remarks for possible values.|
+|TargetDocument|Required| **[Document](21640062-13a2-a2b2-7c61-7e707671207c.md)**|The document that uses the custom UI.|
+|TargetModes|Required| **[VisRibbonXModes](80f01121-3ea5-1ba8-bbea-ba81936ea4ae.md)**|The modes in which the custom UI should be visible. See Remarks for possible values.|
 |FriendlyName|Required| **String**|The name to associate with the UI items and errors that originate in the add-on.|
 
 ### Return Value

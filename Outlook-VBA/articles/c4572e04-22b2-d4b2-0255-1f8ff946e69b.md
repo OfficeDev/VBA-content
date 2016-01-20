@@ -17,7 +17,7 @@ Occurs before an attachment is added to an instance of the parent object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Attachment|Required| ** [Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)**|The  **Attachment** to be added to the item.|
+|Attachment|Required| **[Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)**|The  **Attachment** to be added to the item.|
 |Cancel|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be added.|
 
 ## See also

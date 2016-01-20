@@ -1,7 +1,7 @@
 
 # Form.AfterInsert Property (Access)
 
-Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the ** [AfterInsert](07140c13-ce7c-91f2-7451-d7f834653ef2.md)**event occurs. Read/write.
+Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[AfterInsert](07140c13-ce7c-91f2-7451-d7f834653ef2.md)** event occurs. Read/write.
 
 
 ## Syntax

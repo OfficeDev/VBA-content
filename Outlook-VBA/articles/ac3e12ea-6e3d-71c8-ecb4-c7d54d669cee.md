@@ -1,7 +1,7 @@
 
 # SharingItem.CC Property (Outlook)
 
-Returns a  **String** representing the display list of carbon copy (CC) names for a ** [SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
+Returns a  **String** representing the display list of carbon copy (CC) names for a **[SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**. Read/write.
 
 
 ## Syntax
@@ -13,10 +13,10 @@ Returns a  **String** representing the display list of carbon copy (CC) names fo
 
 ## Remarks
 
-This property contains only the display names, delimited by semicolon (;) characters. The  ** [Recipients](774f56b7-4de8-9584-60cd-4fbf361f4c85.md)**collection should be used to modify the CC recipients. 
+This property contains only the display names, delimited by semicolon (;) characters. The  **[Recipients](774f56b7-4de8-9584-60cd-4fbf361f4c85.md)** collection should be used to modify the CC recipients. 
 
 
- **Note**  If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the ** [Send](54f92175-0e99-f96a-56de-5fc66d97d80f.md)** method to raise an error.
+ **Note**  If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](54f92175-0e99-f96a-56de-5fc66d97d80f.md)** method to raise an error.
 
 
 ## See also

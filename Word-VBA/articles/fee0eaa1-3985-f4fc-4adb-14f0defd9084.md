@@ -8,7 +8,7 @@ Returns an  **HTMLDivision** object that represents a parent division of the cur
 
  _expression_. **HTMLDivisionParent**( **_LevelsUp_**)
 
- _expression_Required. A variable that represents an  ** [HTMLDivision](a38918ed-61aa-3fd1-3522-d077f1ff312f.md)** object.
+ _expression_Required. A variable that represents an  **[HTMLDivision](a38918ed-61aa-3fd1-3522-d077f1ff312f.md)** object.
 
 
 ### Parameters

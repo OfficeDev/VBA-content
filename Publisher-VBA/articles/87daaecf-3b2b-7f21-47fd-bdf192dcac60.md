@@ -20,7 +20,7 @@ MsoArrowheadLength
 
 The  **BeginArrowheadLength** property value can be one of the ** [MsoArrowheadLength](http://msdn.microsoft.com/library/e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Use the  ** [EndArrowheadLength](3e46e63b-54b2-edbf-0dc1-fba2c3a5d945.md)** property to return or set the length of the arrowhead at the end of the line.
+Use the  **[EndArrowheadLength](3e46e63b-54b2-edbf-0dc1-fba2c3a5d945.md)** property to return or set the length of the arrowhead at the end of the line.
 
 
 ## Example

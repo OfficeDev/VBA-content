@@ -8,7 +8,7 @@ Returns an  **Object** that represents the parent object of the specified **Para
 
  _expression_. **Parent**
 
- _expression_Required. A variable that represents a  ** [ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
+ _expression_Required. A variable that represents a  **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
 
 
 ## See also

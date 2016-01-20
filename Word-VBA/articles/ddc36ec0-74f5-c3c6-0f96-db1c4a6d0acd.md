@@ -8,7 +8,7 @@ Copies the specified page number to the Clipboard.
 
  _expression_. **Copy**
 
- _expression_Required. A variable that represents a  ** [PageNumber](5b58f562-de19-ac9d-0b2c-7696603c1606.md)** object.
+ _expression_Required. A variable that represents a  **[PageNumber](5b58f562-de19-ac9d-0b2c-7696603c1606.md)** object.
 
 
 ## See also

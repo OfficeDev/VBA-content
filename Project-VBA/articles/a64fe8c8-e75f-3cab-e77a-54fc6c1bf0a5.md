@@ -1,7 +1,7 @@
 
 # Project.ResourceGroupList Property (Project)
 
-Gets a  ** [List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the resource groups in the active project. Read-only **List**.
+Gets a  **[List](3934c2e8-d810-6571-9a33-1d41edbab87a.md)** object representing the resource groups in the active project. Read-only **List**.
 
 
 ## Syntax

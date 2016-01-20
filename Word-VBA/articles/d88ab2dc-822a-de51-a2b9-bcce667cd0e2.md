@@ -8,12 +8,12 @@ Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 
  _expression_. **Perspective**
 
- _expression_A variable that represents a  ** [Chart](366a825e-0daf-dbb7-b6f2-e7ce1a5ee2ef.md)** object.
+ _expression_A variable that represents a  **[Chart](366a825e-0daf-dbb7-b6f2-e7ce1a5ee2ef.md)** object.
 
 
 ## Remarks
 
-The value of this property must be between 0 and 100. This property is ignored if the  ** [RightAngleAxes](d7f01a8f-aa76-3e92-2db2-370176066145.md)** property is set to **True**.
+The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](d7f01a8f-aa76-3e92-2db2-370176066145.md)** property is set to **True**.
 
 
 ## Example

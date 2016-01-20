@@ -18,7 +18,7 @@ Single
 
 ## Remarks
 
-Use the  ** [IncrementBrightness](912fd08e-bbb3-bf98-b0da-7128926f3409.md)** method to incrementally adjust the brightness from its current level.
+Use the  **[IncrementBrightness](912fd08e-bbb3-bf98-b0da-7128926f3409.md)** method to incrementally adjust the brightness from its current level.
 
 
 ## Example

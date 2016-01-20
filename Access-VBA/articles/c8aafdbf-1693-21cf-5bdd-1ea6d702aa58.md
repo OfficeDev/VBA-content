@@ -22,12 +22,12 @@ Occurs when a filter is applied to a form.
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  ** [OnApplyFilter](5e147a50-5516-f6d3-c1c9-e2c4522cb804.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the  **[OnApplyFilter](5e147a50-5516-f6d3-c1c9-e2c4522cb804.md)** property to the name of the macro or to [Event Procedure].
 
 You can use the  **ApplyFilter** event to:
 
 
-- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders form includes criteria restricting the OrderDate field. To do this, check the form's  ** [Filter](5eb49f82-8519-981c-a663-9862736ac95f.md)** or ** [ServerFilter](18385de5-bc0d-9d2c-f97c-5b42e3689b45.md)** property value to make sure this criteria is included in the WHERE clause expression.
+- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders form includes criteria restricting the OrderDate field. To do this, check the form's  **[Filter](5eb49f82-8519-981c-a663-9862736ac95f.md)** or **[ServerFilter](18385de5-bc0d-9d2c-f97c-5b42e3689b45.md)** property value to make sure this criteria is included in the WHERE clause expression.
     
 - Change the display of the form before the filter is applied. For example, when you apply a certain filter, you may want to disable or hide some fields that aren't appropriate for the records displayed by this filter.
     

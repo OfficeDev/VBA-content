@@ -17,7 +17,7 @@ The following is an example of the date control at runtime. This control support
 
 This control can bind to any built-in or custom  **DateTime** field. However, the control does not support any date format setting for the field, nor does it support the select range behavior that is available in the appointment inspector.
 
-If the  ** [Click](ec2483b8-0fe1-de86-dc01-9cafbde31e44.md)** event is implemented but the ** [DropButtonClick](425118d2-afa4-4582-1f89-857e5b7ae903.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
+If the  **[Click](ec2483b8-0fe1-de86-dc01-9cafbde31e44.md)** event is implemented but the **[DropButtonClick](425118d2-afa4-4582-1f89-857e5b7ae903.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
 For more information about Outlook controls, see  [Controls in a Custom Form](fcba1b34-c526-5d01-8644-cb8852bd2348.md). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 

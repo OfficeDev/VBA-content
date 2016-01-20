@@ -8,7 +8,7 @@ Returns a  **Long** that represents the number of words in the collection. Read-
 
  _expression_. **Count**
 
- _expression_Required. A variable that represents a  ** [Words](a718f69f-1db1-231a-9d65-bf20b48778ed.md)** collection.
+ _expression_Required. A variable that represents a  **[Words](a718f69f-1db1-231a-9d65-bf20b48778ed.md)** collection.
 
 
 ## Example

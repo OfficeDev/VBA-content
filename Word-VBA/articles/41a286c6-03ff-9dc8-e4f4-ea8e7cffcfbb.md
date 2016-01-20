@@ -8,7 +8,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_Required. A variable that represents a  ** [Language](0acc4a42-b4c2-a415-0e38-a049b085dc86.md)** object.
+ _expression_Required. A variable that represents a  **[Language](0acc4a42-b4c2-a415-0e38-a049b085dc86.md)** object.
 
 
 ## Remarks

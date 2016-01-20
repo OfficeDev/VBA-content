@@ -8,7 +8,7 @@ Returns the object that represents the container application for the specified d
 
  _expression_. **Container**
 
- _expression_A variable that represents a  ** [Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks

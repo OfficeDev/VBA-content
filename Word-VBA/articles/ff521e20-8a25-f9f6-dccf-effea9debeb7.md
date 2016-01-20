@@ -1,7 +1,7 @@
 
 # Tasks Object (Word)
 
-A collection of  ** [Task](8802fcd5-0947-2ea0-308a-376077633e34.md)**objects that represents all the tasks currently running on the system.
+A collection of  **[Task](8802fcd5-0947-2ea0-308a-376077633e34.md)** objects that represents all the tasks currently running on the system.
 
 
 ## Remarks

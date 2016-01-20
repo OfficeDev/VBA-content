@@ -8,7 +8,7 @@ Returns or sets all the category names as a text array for the specified axis. R
 
  _expression_. **CategoryNames**
 
- _expression_A variable that represents an  ** [Axis](38d5e006-ac32-7bdb-f9f0-e8a858dcbf49.md)** object.
+ _expression_A variable that represents an  **[Axis](38d5e006-ac32-7bdb-f9f0-e8a858dcbf49.md)** object.
 
 
 ## Example

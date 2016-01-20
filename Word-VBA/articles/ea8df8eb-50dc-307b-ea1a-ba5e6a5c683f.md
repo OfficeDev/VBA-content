@@ -8,7 +8,7 @@ Runs the command associated with the specified key combination.
 
  _expression_. **Execute**
 
- _expression_Required. A variable that represents a  ** [KeyBinding](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)** object.
+ _expression_Required. A variable that represents a  **[KeyBinding](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)** object.
 
 
 ## Example
