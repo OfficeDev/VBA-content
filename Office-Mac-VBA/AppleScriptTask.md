@@ -2,7 +2,7 @@
  
 Call an AppleScript file from a VB macro in Office 2016 for Mac.
 
-**Last modified:** January 11, 2016 
+**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
@@ -10,9 +10,9 @@ The **AppleScriptTask** command executes an AppleScript script file located outs
 
 The following code shows how to call **AppleScriptTask** from VB.
 
-```
-Dim myScriptResult as String
-myScriptResult = AppleScriptTask ("MyAppleScriptFile.applescript", "myapplescripthandler", "my parameter string") 
+```vb
+    Dim myScriptResult as String
+    myScriptResult = AppleScriptTask ("MyAppleScriptFile.applescript", "myapplescripthandler", "my parameter string") 
 ```
 
 The MyAppleScript.applescript file must be in ~/Library/Application Scripts/[bundle id]/. The .applescript extension is not required; you can also use the .scpt extension.
@@ -30,13 +30,13 @@ For example, the corresponding AppleScript for Excel would be in a file named "M
 
 The following is an example of a handler.
 
-```
-on myapplescripthandler(paramString) 
+```vb
+    on myapplescripthandler(paramString) 
 
     #do something with paramString 
     return "You told me " & paramString 
 
-end myapplescripthandler
+    end myapplescripthandler
 ```
 
 ##What happened to MacScript?

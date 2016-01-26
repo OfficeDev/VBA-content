@@ -1,9 +1,8 @@
-
-#Office for Mac
+# Office for Mac
 
 Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.
 
-**Last modified:** January 11, 2016 
+**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
@@ -20,7 +19,7 @@ Unlike other versions of Office apps that support VBA, Office 2016 for Mac apps 
 
 Sandboxing restricts the apps from accessing resources outside the app container. This affects any add-ins or macros that involve file access or communication across processes. You can minimize the effects of sandboxing by using the new commands described in the following section.
 
-##New VBA commands for Office 2016 for Mac
+## New VBA commands for Office 2016 for Mac
 
 The following VBA commands are new and unique to Office 2016 for Mac.
 
@@ -30,7 +29,7 @@ The following VBA commands are new and unique to Office 2016 for Mac.
 |[AppleScriptTask](AppleScriptTask.md)|Call external AppleScript scripts from VB.|
 |[MAC_OFFICE_VERSION](MacOfficeVersion.md)|IFDEF between different Mac Office versions at compile time.|
 
-##Ribbon customization in Office for Mac
+## Ribbon customization in Office for Mac
 
 Office 2016 for Mac supports ribbon customization using Ribbon XML. Note that there are some differences in ribbon support in Office 2016 for Mac and Office for Windows.
 
@@ -43,7 +42,7 @@ Office 2016 for Mac supports ribbon customization using Ribbon XML. Note that th
 |Ability to include and invoke Office Fluent Controls within a custom ribbon tab|Available|Most familiar Office Fluent Control Identifiers are compatible with Office for Mac. Some might not be available. For commands that are compatible with Office 2016 for Mac, see [idMSOs compatible with Office 2016 for Mac](#idMSOs-compatible-with-Office-2016-for-Mac).|
 |Support for COM add-ins that use custom ribbon controls|Available|Office 2016 for Mac doesn't support third-party COM add-ins.| 
 
-##idMSOs compatible with Office 2016 for Mac
+## idMSOs compatible with Office 2016 for Mac
 For information about the idMSOs that are compatible with Office 2016 for Mac, see the following:
 
 - [idSMOs supported in Excel for Mac](idMSOExcelMac.md)
