@@ -15,38 +15,38 @@ An overflow results when you try to make an assignment that exceeds the limitati
     
 - You attempt to use a number in a calculation, and that number is coerced into an integer, but the result is larger than an integer. For example:
     
-  ```
+```
       Dim x As Long 
     x = 2000 * 365   ' Error: Overflow
-  ```
+```
 
 
     To work around this situation, type the number, like this:
     
 
 
-  ```
+```
       Dim x As Long 
     x = 2000 * 365   ' Error: Overflow
-  ```
+```
 
 
 
 
-  ```
+```
       Dim x As Long 
     x = CLng(2000) * 365
-  ```
+```
 
 
     To work around this situation, type the number, like this:
     
 
 
-  ```
+```
       Dim x As Long 
     x = CLng(2000) * 365
-  ```
+```
 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

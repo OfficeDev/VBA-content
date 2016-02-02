@@ -9,12 +9,12 @@ This message is displayed when an error generated with the  **Raise** method or 
     
 - It may be that in accessing objects from other applications, an error was propagated back to your program that can't be mapped to a Visual Basic error.
     
-  ```
+```
   For index = 1 to 500 
 Debug.Print Error$(index) 
 Next index 
 
-  ```
+```
 
 
     Check the documentation for any objects you have accessed. The  **Err** object's **Source** property should contain the programmatic ID of the application or object that generated the error. To understand the context of an error returned by an object, you may want to use the **On Error Resume Next** construct in code that accesses objects, rather than the **On Error GoTo**_line_ syntax.
@@ -23,12 +23,12 @@ Next index
 
 
 
-  ```
+```
   For index = 1 to 500
 Debug.Print Error$(index)
 Next index
 
-  ```
+```
 
 
      **Note**  Such code still lists all the Visual Basic for Applications error messages, but displays "Application-defined or object-defined error" for host-defined errors, for example those in Visual Basic that relate to forms, controls, and so on. Many of these are trappable  [run-time errors](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md). You can use the Help  **Search** dialog box to find the list of trappable errors specific to your host application. Click **Search**, type  **Trappable** in the first text box, and then click **Show Topics**. Select  **Trappable Errors** in the lower list box and click **Go To**.
