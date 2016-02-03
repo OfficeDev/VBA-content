@@ -9,7 +9,7 @@
 This example assigns a different color or pattern to each data marker in chart group one. The example should be run on a 2-D line chart that has data markers on a series.
 
 
-```
+```vb
 myChart.ChartGroups(1).VaryByCategories = True
 ```
 

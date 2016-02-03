@@ -16,7 +16,7 @@ Returns a  **[MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** colle
 This example creates a tabbed list of the mapped data fields available in Word and the fields in the data source to which they are mapped. This example assumes that the current document is a mail merge document.
 
 
-```
+```vb
 Sub MappedFields() 
  Dim intCount As Integer 
  Dim docCurrent As Document 

@@ -69,7 +69,7 @@ To try the example, add the following event procedure to a form containing a tex
 
 
 
-```
+```vb
 Private Sub KeyHandler_KeyDown(KeyCode As Integer, _ 
  Shift As Integer) 
  Dim intShiftDown As Integer, intAltDown As Integer 

@@ -50,7 +50,7 @@ The z-order of shapes is unaffected by this method.
 This example defines a shape range that contains all the AutoShapes on the first page of the active publication and then horizontally distributes the shapes in this range.
 
 
-```
+```vb
 ' Number of shapes on the page. 
 Dim intShapes As Integer 
 ' Number of AutoShapes on the page. 

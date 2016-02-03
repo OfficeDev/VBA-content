@@ -16,7 +16,7 @@ Gets or sets the percent complete of a task. Read/write  **Variant**.
 The following example removes a resource from tasks that have two or more resources and are 85 percent complete.
 
 
-```
+```vb
 Sub ReallocateResource() 
  
  Dim Entry As String ' The name of the resource to remove 

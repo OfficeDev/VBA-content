@@ -40,7 +40,7 @@ Use the  **[CustomDocumentProperties](8470adbb-5b10-96ba-71f7-c667c33b6707.md)**
 This example displays the names of the built-in document properties as a list on worksheet one.
 
 
-```
+```vb
 rw = 1 
 Worksheets(1).Activate 
 For Each p In ActiveWorkbook.BuiltinDocumentProperties 

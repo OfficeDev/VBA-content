@@ -21,7 +21,7 @@ ShapeRange
 This example copies shape one on page one in the active publication to the Clipboard and then pastes it into page two.
 
 
-```
+```vb
 With ActiveDocument 
  .Pages(1).Shapes(1).Copy 
  .Pages(2).Shapes.Paste 

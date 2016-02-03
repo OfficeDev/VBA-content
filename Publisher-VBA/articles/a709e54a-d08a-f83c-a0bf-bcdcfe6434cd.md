@@ -44,7 +44,7 @@ This example switches between two preset drops for the first shape one in the ac
 
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes(1).Callout 
  Select Case .DropType 
  Case msoCalloutDropTop 

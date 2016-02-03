@@ -15,7 +15,7 @@ Only uppercase letters are converted to lowercase; all lowercase letters and non
 This example uses the  **LCase** function to return a lowercase version of a string.
 
 
-```
+```vb
 Dim UpperCase, LowerCase
 Uppercase = "Hello World 1234"    ' String to convert.
 Lowercase = Lcase(UpperCase)    ' Returns "hello world 1234".

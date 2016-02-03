@@ -72,7 +72,7 @@ This example uses the  **GetResults** method of the **Page** object to get 3 cel
 
 
 
-```
+```vb
  
 Public Sub Set Results_Example() 
  

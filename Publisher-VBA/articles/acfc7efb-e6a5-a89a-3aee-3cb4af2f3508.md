@@ -14,7 +14,7 @@ When using Microsoft Visual Basic for Applications in Publisher, all of the prop
 Use the  **[Application](f3ed5997-b8ef-4729-4537-ae21424d2007.md)** property to return the  **Application** object. The following example displays the application name.
 
 
-```
+```vb
 Sub ShowAppName() 
  MsgBox Application.Name 
 End Sub

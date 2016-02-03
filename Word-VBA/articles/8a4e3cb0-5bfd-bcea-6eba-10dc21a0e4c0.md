@@ -21,7 +21,7 @@ To set this property, specify an expression that returns a  **[Font](bc97f4df-fc
 This example finds the next range of text that's formatted with the Times New Roman font.
 
 
-```
+```vb
 With Selection.Find 
  .ClearFormatting 
  .Font.Name = "Times New Roman" 

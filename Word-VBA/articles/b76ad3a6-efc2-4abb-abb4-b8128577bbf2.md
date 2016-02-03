@@ -9,7 +9,7 @@ Represents options that control how text is retrieved from a  **Range** object.
 Use the  **TextRetrievalMode** property to return a **TextRetrievalMode** object. The following example displays the text of the first sentence in the active document, excluding field codes and hidden text.
 
 
-```
+```vb
 With ActiveDocument.Sentences(1).TextRetrievalMode 
  .IncludeHiddenText = False 
  .IncludeFieldCodes = False 

@@ -9,7 +9,7 @@ Represents the title of the specified chart.
 Use the  **ChartTitle** property to return the **ChartTitle** object. The following example adds a title to the chart.
 
 
-```
+```vb
 With myChart 
  .HasTitle = True 
  .ChartTitle.Text = "February Sales" 

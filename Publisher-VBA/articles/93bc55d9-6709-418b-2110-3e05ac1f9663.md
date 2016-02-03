@@ -16,7 +16,7 @@ Returns an object that represents the parent object of the specified object. For
 This example accesses the parent object of the selected shape, and then adds a new shape to it and sets the fill for the new shape.
 
 
-```
+```vb
 Sub ParentObject() 
  Dim shp As Shape 
  Dim pg As Page 
@@ -34,7 +34,7 @@ This example returns the parent object of a text frame, which is the first shape
 
 
 
-```
+```vb
 Sub ParentShape() 
  Dim shpParent As Shape 
  Set shpParent = ActiveDocument.Pages(1).Shapes(1).TextFrame.Parent 

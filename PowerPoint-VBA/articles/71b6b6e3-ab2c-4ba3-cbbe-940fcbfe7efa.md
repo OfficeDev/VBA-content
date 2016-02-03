@@ -23,7 +23,7 @@ The following example sets the height of the first chart in the active document 
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

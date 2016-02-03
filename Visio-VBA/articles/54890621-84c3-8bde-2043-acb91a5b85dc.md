@@ -25,7 +25,7 @@ You should attempt to maintain the property at its current value across the comp
 
 
 
-```
+```vb
 blsPrevious = Application.UndoEnabled 
 Application.UndoEnabled = False 
  
@@ -40,7 +40,7 @@ Application.UndoEnabled = blsPrevious
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UndoEnabled** method to disable and then re-enable undo behavior in Visio.
 
 
-```
+```vb
 Public Sub UndoEnabled_Example() 
  
  'Disable undo 

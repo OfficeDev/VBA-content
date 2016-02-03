@@ -18,7 +18,7 @@ The **InlineShapes** collection is not available in the **Page.Shapes** collecti
 Use the  **[InlineShapes](ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44.md)** property on the **[TextRange](566f240b-d2a6-8cb3-9eb7-68328d6c28bd.md)** object to return an  **InlineShapes** collection. The following example finds the first shape, a text box, on page one of the publication, and appends text to the end of the text range in the text box if there is more than one inline shape within the text range.
 
 
-```
+```vb
 Dim theShape As Shape 
  
 Set theShape = ActiveDocument.Pages(1).Shapes(1) 
@@ -35,7 +35,7 @@ Use the  **InlineShapes**(index) property to return a single inline shape. The f
 
 
 
-```
+```vb
 Dim theShape As Shape 
  
 Set theShape = ActiveDocument.Pages(1).Shapes(1) 
@@ -52,7 +52,7 @@ Use the  **[Range](f9ef5314-21f1-378f-1552-fcd4e46f841d.md)** method to return a
 
 
 
-```
+```vb
 Dim theRange As ShapeRange 
  
 Set theRange = ActiveDocument.Pages(1).Shapes(1) _ 

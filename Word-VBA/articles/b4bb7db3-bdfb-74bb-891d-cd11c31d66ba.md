@@ -21,7 +21,7 @@ This property affects only the document grid. For table gridlines, use the  **[T
 This example switches between displaying and hiding the document grid in the active window.
 
 
-```
+```vb
 Options.DisplayGridLines = Not Options.DisplayGridLines
 ```
 

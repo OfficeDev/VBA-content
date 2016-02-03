@@ -41,7 +41,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 The following example creates a report that has a default bar chart type with orange-colored bars.
 
 
-```
+```vb
 Sub AddDefaultChart()
     Dim chartReport As Report
     Dim reportName As String

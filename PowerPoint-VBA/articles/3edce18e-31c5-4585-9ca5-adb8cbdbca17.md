@@ -21,7 +21,7 @@ Integer
 This example publishes slides three through five of the active presentation to HTML. It names the published presentation Mallard.htm.
 
 
-```
+```vb
 With ActivePresentation.PublishObjects(1)
 
     .FileName = "C:\Test\Mallard.htm"

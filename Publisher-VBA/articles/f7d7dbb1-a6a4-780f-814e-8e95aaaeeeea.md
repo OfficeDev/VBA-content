@@ -9,7 +9,7 @@ Represents a single printer's plate. The  **Plate** object is a member of the **
 Use the  **[Add](7fb7b602-8797-e275-4ff7-2e87cf1db11f.md)** method of the  **[Plates](7da44b06-c94f-dadc-da91-09b757d5a076.md)** collection to create a new plate. This example creates a new spot-color plate collection and adds a plate to it.
 
 
-```
+```vb
 Sub AddNewPlates() 
  Dim plts As Plates 
  Set plts = ActiveDocument.CreatePlateCollection(Mode:=pbColorModeSpot) 

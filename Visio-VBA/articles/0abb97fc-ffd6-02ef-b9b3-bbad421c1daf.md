@@ -38,7 +38,7 @@ For performance considerations, the  **Document** object's event set does not in
 This VBA module shows how to use the  **CellChanged** event to trap changes to a shape's cells.
 
 
-```
+```vb
  
 Private WithEvents vsoApplication As Visio.Application 
  

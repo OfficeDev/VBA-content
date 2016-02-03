@@ -22,7 +22,7 @@ This example loops through cells A1:I3 on the datasheet. If any of these cells c
 
 
 
-```
+```vb
 Set mySheet = myChart.Application.DataSheet 
 For rwIndex = 2 to 4 
  For colIndex = 2 to 10 

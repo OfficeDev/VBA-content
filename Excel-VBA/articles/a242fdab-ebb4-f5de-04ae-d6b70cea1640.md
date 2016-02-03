@@ -17,7 +17,7 @@ The index number represents the position of the legend entry in the legend.  `Le
 
 
 
-```
+```vb
 myChart.Legend.LegendEntries(1).Font.Italic = True
 ```
 

@@ -21,7 +21,7 @@ The unit progression for this method is as follows: entire document, section, pa
 This example collapses the selected text to the next smaller unit of text.
 
 
-```
+```vb
 If Selection.Type = wdSelectionNormal Then 
  Selection.Shrink 
 Else 

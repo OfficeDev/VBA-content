@@ -26,7 +26,7 @@ The  **End** property of a **Curve** object returns the endpoint of a curve. A *
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **End** property to determine the endpoint of a curve.
 
 
-```
+```vb
  
 Sub End_Example() 
  

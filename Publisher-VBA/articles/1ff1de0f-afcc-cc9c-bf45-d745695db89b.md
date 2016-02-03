@@ -26,7 +26,7 @@ Returns an "Access Denied" message if the list is not a bulleted list.
 This example tests to see if the list type is a bulleted list. If it is, the  **ListFontSize** is set to 24 and the **ListBulletFontName** is set to "Verdana".
 
 
-```
+```vb
 Dim objParaForm As ParagraphFormat 
  
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 

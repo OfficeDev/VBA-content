@@ -21,7 +21,7 @@ SlideShowView
 This example uses the  **View** property to exit the current slide show, sets the view in the active window to slide view, and then displays slide three.
 
 
-```
+```vb
 Application.SlideShowWindows(1).View.Exit
 
 With Application.ActiveWindow

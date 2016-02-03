@@ -14,7 +14,7 @@ If you do not want to format all the text in an  **[AxisTitle](ec746a05-40df-95c
 The following example formats the title of the first chart as bold. Use the  **Font** property to return the **ChartFont** object.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1).Chart 
  .AxisTitle.Font.Bold = True 
 End With

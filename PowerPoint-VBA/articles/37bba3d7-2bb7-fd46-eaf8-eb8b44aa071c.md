@@ -28,7 +28,7 @@ The following example moves point four to the secondary section of the chart. Yo
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

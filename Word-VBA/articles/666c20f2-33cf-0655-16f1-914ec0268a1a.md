@@ -16,7 +16,7 @@ Opens the specified OLE object for editing in the application it was created in.
 This example opens (for editing) the first embedded OLE object (defined as a shape) on the active document.
 
 
-```
+```vb
 Dim shapesAll As Shapes 
  
 Set shapesAll = ActiveDocument.Shapes 
@@ -32,7 +32,7 @@ This example opens (for editing) the first linked OLE object (defined as an inli
 
 
 
-```
+```vb
 Dim colIS As InlineShapes 
  
 Set colIS = ActiveDocument.InlineShapes 

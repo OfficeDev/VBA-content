@@ -16,7 +16,7 @@ When used without an object qualifier, returns an  **[Application](d1cf6f8f-4e88
 The following example displays a message about the application that created  `myObject`.
 
 
-```
+```vb
 Set myObject = ActiveDocument 
 If myObject.Application.Value = "Microsoft Word" Then 
  MsgBox "This is a Word Application object." 

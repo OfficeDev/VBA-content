@@ -46,7 +46,7 @@ Use the  **[AddNodes](29906bde-e6a6-f661-0f3f-085f39653e42.md)** method to add s
 
 
 
-```
+```vb
 ' Add a new freeform object. 
 With ActiveDocument.Shapes _ 
  .BuildFreeform(EditingType:=msoEditingCorner, _ 

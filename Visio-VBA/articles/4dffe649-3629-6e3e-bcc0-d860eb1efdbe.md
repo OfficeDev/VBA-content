@@ -27,7 +27,7 @@ To run this macro, first insert into your project a user form that contains a li
 
 
 
-```
+```vb
 Public Sub GeometryCount_Example() 
  Dim vsoShape As Visio.Shape 
  Dim intCurrentGeometrySection As Integer 

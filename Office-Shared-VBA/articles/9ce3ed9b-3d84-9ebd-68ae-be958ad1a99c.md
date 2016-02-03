@@ -16,7 +16,7 @@ Applies a filter to a mail merge data source to filter specified records meeting
 This example adds a new filter that removes all records with a blank Region field and then applies the filter to the active publication.
 
 
-```
+```vb
 Sub OfficeFilters() 
  Dim appOffice As OfficeDataSourceObject 
  Dim appFilters As ODSOFilters 

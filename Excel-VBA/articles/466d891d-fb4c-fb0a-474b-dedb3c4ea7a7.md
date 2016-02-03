@@ -34,7 +34,7 @@ This example saves all open workbooks and then closes Microsoft Excel.
 
 
 
-```
+```vb
 For Each w In Application.Workbooks 
     w.Save 
 Next w 
@@ -48,7 +48,7 @@ This example uses the  **BeforeSave** event to verify that certain cells contain
 
 
 
-```
+```vb
 Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean)
    'If the six specified cells do not contain data, then display a message box with an error
    'and cancel the attempt to save.

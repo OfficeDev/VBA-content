@@ -32,7 +32,7 @@ The value of the  **RemovePersonalInformation** property can be one of these **M
 This example sets the active presentation to remove personal information the next time the user saves it.
 
 
-```
+```vb
 Sub RemovePersonalInfo()
 
     ActivePresentation.RemovePersonalInformation = msoTrue

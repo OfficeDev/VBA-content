@@ -30,7 +30,7 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 
 
 
-```
+```vb
 ' Delete a rule set from the active document.
 Public Sub Delete_Example()
 

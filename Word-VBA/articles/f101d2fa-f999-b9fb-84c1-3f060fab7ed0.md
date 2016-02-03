@@ -16,7 +16,7 @@
 This example sets Microsoft Word to automatically add spaces between Japanese and Latin text for the first paragraph in the active document.
 
 
-```
+```vb
 ActiveDocument.Paragraphs(1).AddSpaceBetweenFarEastAndAlpha = True
 ```
 

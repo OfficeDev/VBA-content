@@ -21,7 +21,7 @@ Object
 In this example, a  **[Presentation](ec75cf52-69f8-d35b-0a26-4a8da8a9683f.md)** object is passed to the procedure. The procedure adds a slide to the presentation and then saves the presentation in the folder where Microsoft PowerPoint is running.
 
 
-```
+```vb
 Sub AddAndSave(pptPres As Presentation)
 
     pptPres.Slides.Add 1, 1
@@ -36,7 +36,7 @@ This example displays the name of the application that created each linked OLE o
 
 
 
-```
+```vb
 For Each shpOle In ActivePresentation.Slides(1).Shapes
 
     If shpOle.Type = msoLinkedOLEObject Then

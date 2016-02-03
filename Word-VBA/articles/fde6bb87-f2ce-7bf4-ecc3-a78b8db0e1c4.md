@@ -21,7 +21,7 @@ For information about returning a range from a document or returning a shape ran
 This example changes the text of the first endnote in the active document.
 
 
-```
+```vb
 With ActiveDocument.Endnotes(1).Range 
  .Delete 
  .Text = "new endnote text" 

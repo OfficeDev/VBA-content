@@ -26,7 +26,7 @@ When you have a right-to-left language setting specified, this property is equiv
 This example sets the complex script font to Times New Roman.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes.Title.TextFrame _
 
     .TextRange.Font.NameComplexScript = "Times New Roman"

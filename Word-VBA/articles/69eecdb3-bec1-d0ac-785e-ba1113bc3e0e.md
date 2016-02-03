@@ -23,7 +23,7 @@ If you change a character back to lowercase after an accent mark has been stripp
 This example sets Word to remove accent marks when characters in French text are changed to uppercase.
 
 
-```
+```vb
 Options.AllowAccentedUppercase = False
 ```
 

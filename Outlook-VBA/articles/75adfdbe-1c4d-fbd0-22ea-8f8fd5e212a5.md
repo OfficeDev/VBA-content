@@ -16,7 +16,7 @@ This topic describes how to store private application data in solution storage p
 5. Use  ** [StorageItem.Save](9462a342-294a-175e-7e8f-d416f0959f69.md)** to save the **StorageItem** object as a hidden item in the folder.
     
 
-```
+```vb
 Sub StoreData() 
  Dim oInbox As Folder 
  Dim myStorage As StorageItem 

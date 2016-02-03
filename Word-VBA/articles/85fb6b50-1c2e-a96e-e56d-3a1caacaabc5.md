@@ -23,7 +23,7 @@ For information about returning a single member of a collection, see  [Returning
 This example creates four evenly-spaced text columns that are applied to section two in the active document.
 
 
-```
+```vb
 With ActiveDocument.Sections(2).PageSetup.TextColumns 
  .SetCount NumColumns:=3 
  .Add EvenlySpaced:=True 
@@ -35,7 +35,7 @@ This example creates a document with two text columns. The first column is 1.5 i
 
 
 
-```
+```vb
 Set myDoc = Documents.Add 
 With myDoc.PageSetup.TextColumns 
  .SetCount NumColumns:=1 

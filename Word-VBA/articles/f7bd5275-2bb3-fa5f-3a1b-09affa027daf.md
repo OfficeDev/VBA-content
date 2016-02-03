@@ -21,7 +21,7 @@ Before you can create page numbers that include chapter numbers, the document he
 The first part of this example creates a new document, adds chapter titles and page breaks, and then formats the document by using the last numbered outline format listed in the  **Bullets and Numbering** dialog box. The second part of the example adds centered page numbers — including the chapter number — to the header; an en dash separates the chapter number and the page number.
 
 
-```
+```vb
 Dim intLoop As Integer 
 Dim hfTemp As HeaderFooter 
  

@@ -25,7 +25,7 @@ You can use the  **[QueryTable](fe019d61-654a-9c87-0bf4-30590a1274ca.md)** prope
 This example refreshes query table one. If the number of rows returned by the query exceeds the number of rows available on the worksheet, an error message is displayed.
 
 
-```
+```vb
 With Worksheets(1).QueryTables(1) 
  .Refresh 
  If .FetchedRowOverflow Then 

@@ -21,7 +21,7 @@ If the table is already as wide as the distance between the left and right margi
 This example creates a 3x3 table in a new document and then changes the width of the first column to accommodate the width of the text.
 
 
-```
+```vb
 Dim docNew as Document 
 Dim tableNew as Table 
  
@@ -39,7 +39,7 @@ This example creates a 3x3 table in a new document and then changes the width of
 
 
 
-```
+```vb
 Dim docNew as Document 
 Dim tableNew as Table 
  

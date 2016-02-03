@@ -21,7 +21,7 @@ This property doesn't have any effect if  **WrapAroundText** is **False**.
 This example sets text to wrap around the first table in the active document and sets the distance for wrapped text to 20 points on all sides of the table.
 
 
-```
+```vb
 With ActiveDocument.Tables(1).Rows 
  .WrapAroundText = True 
  .DistanceLeft = 20 

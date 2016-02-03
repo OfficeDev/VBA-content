@@ -62,7 +62,7 @@ This example saves the active Web publication as a set of filtered HTML pages an
 
 
 
-```
+```vb
 With ActiveDocument 
  .SaveAs Filename:="CompanyContacts", Format:=pbFileHTMLFiltered 
 End With

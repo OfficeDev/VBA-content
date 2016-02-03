@@ -10,7 +10,7 @@ The following Automation code can be used as a basis for developing your own sol
 
 
 
-```
+```vb
 Sub ChangeMessageClass() 
 Set olNS = Application.GetNameSpace("MAPI") 
 Set ContactsFolder = _ 

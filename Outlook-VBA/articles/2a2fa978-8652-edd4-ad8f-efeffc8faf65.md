@@ -11,7 +11,7 @@ This code sample uses  **Folder.GetTable** to do the search:
 
 
 
-```
+```vb
 Sub RestrictTableForInbox() 
     Dim oT As Outlook.Table 
     Dim strFilter As String 
@@ -37,7 +37,7 @@ This code sample uses  **Application.AdvancedSearch** to do the search:
 
 
 
-```
+```vb
 Public blnSearchComp As Boolean 
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
     MsgBox "The AdvancedSearchComplete Event fired" 

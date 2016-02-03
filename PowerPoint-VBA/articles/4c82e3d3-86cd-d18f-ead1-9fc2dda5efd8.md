@@ -30,7 +30,7 @@ This example sets the background for slide one in the active presentation to a p
 
 
 
-```
+```vb
 With ActivePresentation.Slides(1)
 
     .FollowMasterBackground = False

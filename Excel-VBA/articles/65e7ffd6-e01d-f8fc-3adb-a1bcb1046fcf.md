@@ -21,7 +21,7 @@ This property is used for Online Analytical Processing (OLAP) sources; a non-OLA
 This example adds a set to the PivotTable. It assumes a PivotTable exists on the active worksheet that is connected to an OLAP data source which contains a field titled "[Product].[All Products]".
 
 
-```
+```vb
 Sub UseCalculatedMember() 
  
  Dim pvtTable As PivotTable 

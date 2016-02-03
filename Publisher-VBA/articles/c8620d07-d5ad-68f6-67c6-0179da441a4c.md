@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 This example displays the number of pages in the active document.
 
 
-```
+```vb
 Sub CountNumberOfPages() 
  MsgBox "Your publication contains " &amp; _ 
  ActiveDocument.Pages.Count &amp; " page(s)." 
@@ -28,7 +28,7 @@ This example displays the number of shapes in the active document.
 
 
 
-```
+```vb
 Sub CountNumberOfShapes() 
  Dim intShapes As Integer 
  Dim pg As Page 

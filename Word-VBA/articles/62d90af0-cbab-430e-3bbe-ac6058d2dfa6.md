@@ -16,7 +16,7 @@ Returns or sets the position of the legend on the chart. Read/write  **[XlLegend
 The following example moves the chart legend to the bottom of the chart.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.Legend.Position = xlLegendPositionBottom 

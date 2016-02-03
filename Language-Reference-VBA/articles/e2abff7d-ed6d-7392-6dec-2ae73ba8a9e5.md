@@ -15,7 +15,7 @@ An overflow results when you try to make an assignment that exceeds the limitati
     
 - You attempt to use a number in a calculation, and that number is coerced into an integer, but the result is larger than an integer. For example:
     
-```
+```vb
       Dim x As Long 
     x = 2000 * 365   ' Error: Overflow
 ```
@@ -25,7 +25,7 @@ An overflow results when you try to make an assignment that exceeds the limitati
     
 
 
-```
+```vb
       Dim x As Long 
     x = 2000 * 365   ' Error: Overflow
 ```
@@ -33,7 +33,7 @@ An overflow results when you try to make an assignment that exceeds the limitati
 
 
 
-```
+```vb
       Dim x As Long 
     x = CLng(2000) * 365
 ```
@@ -43,7 +43,7 @@ An overflow results when you try to make an assignment that exceeds the limitati
     
 
 
-```
+```vb
       Dim x As Long 
     x = CLng(2000) * 365
 ```

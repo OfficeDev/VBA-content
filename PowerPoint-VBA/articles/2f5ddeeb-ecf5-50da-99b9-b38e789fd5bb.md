@@ -25,7 +25,7 @@ Use the  [SlideIDs](69c2a31e-bfb1-1a00-777f-4f5c46023ba0.md)property to return a
 
 
 
-```
+```vb
 idArray = ActivePresentation.SlideShowSettings _
 
     .NamedSlideShows("Quick Show").SlideIDs

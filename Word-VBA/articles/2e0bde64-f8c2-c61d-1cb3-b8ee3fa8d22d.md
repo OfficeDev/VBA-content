@@ -22,7 +22,7 @@ This example sets Microsoft Word to ignore the distinction between "
 ![](../images/fe290_ZA06051769.gif)-row characters during a search.
 
 
-```
+```vb
 Options.MatchFuzzyKiKu = True
 ```
 

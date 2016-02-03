@@ -28,7 +28,7 @@ Do not confuse this property with the  **ToX**or  **ToY**properties of the  **[S
 The following example adds a color effect and changes its color from a light bluish green to yellow.
 
 
-```
+```vb
 Sub AddAndChangeColorEffect()
 
     Dim effBlinds As Effect

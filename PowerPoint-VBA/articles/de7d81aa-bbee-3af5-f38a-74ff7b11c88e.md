@@ -28,7 +28,7 @@ The following example sets the explosion value for point two of the first chart 
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

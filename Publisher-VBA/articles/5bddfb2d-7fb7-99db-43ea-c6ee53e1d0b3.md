@@ -26,7 +26,7 @@ This setting is saved for each individual user and persists from one session to 
 This example turns off background save, so publications do not save in the background.
 
 
-```
+```vb
 Sub DoNotSaveInBackground() 
  Options.AllowBackgroundSave = False 
 End Sub

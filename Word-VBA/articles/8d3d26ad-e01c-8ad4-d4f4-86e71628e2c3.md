@@ -38,7 +38,7 @@ This example sets the variable myRange to include paragraphs three through six o
 
 
 
-```
+```vb
 Set myDoc = ActiveDocument 
 Set myRange = myDoc.Range( _ 
  Start:= myDoc.Paragraphs(3).Range.Start, _ 

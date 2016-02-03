@@ -25,7 +25,7 @@ This property returns the starting character position relative to the beginning 
 This example compares the ending position of the "temp" bookmark with the starting position of the "begin" bookmark.
 
 
-```
+```vb
 Set Book1 = ActiveDocument.Bookmarks("begin") 
 Set Book2 = ActiveDocument.Bookmarks("temp") 
 If Book2.End > Book1.Start Then Book1.Select

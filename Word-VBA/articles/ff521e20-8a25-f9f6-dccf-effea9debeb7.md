@@ -9,7 +9,7 @@ A collection of  **[Task](8802fcd5-0947-2ea0-308a-376077633e34.md)** objects tha
 Use the  **Tasks** property to return the **Tasks** collection. The following example determines whether Microsoft Excel is running. If it is, this example switches to it and maximizes it; otherwise, the example starts it.
 
 
-```
+```vb
 If Tasks.Exists("Microsoft Excel") = True Then 
  Tasks("Microsoft Excel").Activate 
  Tasks("Microsoft Excel").WindowState = wdWindowStateMaximize 
@@ -26,7 +26,7 @@ Use  **Tasks**(Index), where Index is the application name or the index number, 
 
 
 
-```
+```vb
 With Tasks(1) 
  If .Visible = True Then 
  .Activate 
@@ -41,7 +41,7 @@ The following example restores the Calculator application window if the applicat
 
 
 
-```
+```vb
 If Tasks.Exists("Calculator") = True Then 
  Tasks("Calculator").WindowState = wdWindowStateNormal 
 End If

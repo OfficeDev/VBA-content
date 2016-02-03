@@ -16,7 +16,7 @@
 This example sets Microsoft Word to automatically insert "以上" when the user enters "記" or "案".
 
 
-```
+```vb
 Options.AutoFormatAsYouTypeInsertOvers = True
 ```
 

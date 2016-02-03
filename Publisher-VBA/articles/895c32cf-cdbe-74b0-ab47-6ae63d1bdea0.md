@@ -38,7 +38,7 @@ This example formats as indents the first line of the selected paragraph.
 
 
 
-```
+```vb
 Sub FormatCurrentParagraph() 
  Selection.TextRange.Paragraphs(Start:=1).ParagraphFormat _ 
  .FirstLineIndent = InchesToPoints(0.5) 

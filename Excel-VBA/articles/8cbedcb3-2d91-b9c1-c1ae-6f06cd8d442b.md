@@ -26,7 +26,7 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 In this example, Microsoft Excel determines the speech direction and notifies the user.
 
 
-```
+```vb
 Sub CheckSpeechDirection() 
  
  ' Notify user of speech direction. 

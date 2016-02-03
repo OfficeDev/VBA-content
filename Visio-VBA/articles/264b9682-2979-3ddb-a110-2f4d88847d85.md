@@ -47,7 +47,7 @@ Then, in the  **MarkerEvent** event handler, the client program could use the co
 
 
 
-```
+```vb
  
 Dim blsICausedCellChanges as Boolean 
  
@@ -91,7 +91,7 @@ Paste this example code into the  **ThisDocument** code window and then run **Us
 
 
 
-```
+```vb
  
 Dim WithEvents vsoApplication As Visio.Application 
  

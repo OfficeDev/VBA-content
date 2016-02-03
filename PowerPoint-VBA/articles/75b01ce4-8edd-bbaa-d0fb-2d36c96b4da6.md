@@ -23,7 +23,7 @@ The following example sets the label caption to "Millions" for the value axis of
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

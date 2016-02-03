@@ -34,7 +34,7 @@ The  **Italic** property value can be one of the **MsoTriState** constants decla
 This example tests all the text in the second story of the active publication and, if it has some text formatted as italic, it sets all the text to italic. If the text is all italic or all not italic, a message is displayed informing the user that there is no mixed italic formatting.
 
 
-```
+```vb
 Sub ItalicStory() 
  
  Dim stf As Font 
