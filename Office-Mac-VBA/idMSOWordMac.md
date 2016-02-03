@@ -11,9 +11,9 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 
 |**idMSO**|**Type**|
 |:-----|:-----|
-|_3DBevelOptionsDialog|button|
-|_3DRotationGallery|gallery|
-|_3DRotationOptionsDialog|button|
+|\_3DBevelOptionsDialog|button|
+|\_3DRotationGallery|gallery|
+|\_3DRotationOptionsDialog|button|
 |3DBevelPictureTopGallery|gallery|
 |About|button|
 |AcceptAllChangesInDocAndStopTracking|button|
