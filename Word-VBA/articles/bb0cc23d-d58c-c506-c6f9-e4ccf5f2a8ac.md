@@ -21,7 +21,7 @@ This is a default option setting and affects all pictures inserted unless pictur
 This example sets Word to insert and paste all pictures inline with the text if inline is not already specified.
 
 
-```
+```vb
 Sub PicWrap() 
  With Application.Options 
  If .PictureWrapType <> wdWrapMergeInline Then 

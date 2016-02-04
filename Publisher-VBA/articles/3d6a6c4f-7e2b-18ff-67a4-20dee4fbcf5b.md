@@ -21,7 +21,7 @@ Long
 This example enables the global auto recovery option and sets the save interval to every five minutes.
 
 
-```
+```vb
 Sub SetAutoRecoverInfo() 
  With Options 
  .SaveAutoRecoverInfo = True 

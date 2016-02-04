@@ -21,7 +21,7 @@ The plus signs become the column borders, and the hyphens become the column widt
 This example sets Word to automatically create tables as you type.
 
 
-```
+```vb
 Options.AutoFormatAsYouTypeApplyTables = True
 ```
 

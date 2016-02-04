@@ -16,7 +16,7 @@ Returns an  **EndnoteOptions** object that represents the endnotes in a range.
 This example sets the starting number for endnotes in section two of the active document to one if the starting number is not one.
 
 
-```
+```vb
 Sub SetEndnoteOptionsRange() 
  With ActiveDocument.Sections(2).Range.EndnoteOptions 
  If .StartingNumber <> 1 Then 

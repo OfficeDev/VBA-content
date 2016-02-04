@@ -16,7 +16,7 @@ Returns a  **[Watches](de403bcc-b927-90f6-75d7-9c936c7f58f7.md)** object represe
 This example creates a summation formula in cell A3, and then adds this cell to the Watch Window.
 
 
-```
+```vb
 Sub AddWatch() 
  With Application 
  .Range("A1").Formula = 1 

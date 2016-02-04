@@ -45,7 +45,7 @@ This example splits the active window and then scrolls up two screens and to the
 
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow 
  .Split = True 
  .LargeScroll Up:=2, ToRight:=1 

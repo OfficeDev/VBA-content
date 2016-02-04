@@ -32,7 +32,7 @@ This example sets Word to format inserted text as bold if it isn't already.
 
 
 
-```
+```vb
 If Options.InsertedTextMark <> wdInsertedTextMarkBold Then 
  Options.InsertedTextMark = wdInsertedTextMarkBold 
 Else 

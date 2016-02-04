@@ -24,7 +24,7 @@ The  **FolderName** property returns the subfolder name in the format parentfold
 The following example displays the number of subfolders in the shared workspace and their names.
 
 
-```
+```vb
     Dim swsFolder As Office.SharedWorkspaceFolder 
     Dim strFolderInfo As String 
     strFolderInfo = "The shared workspace contains " &amp; _ 

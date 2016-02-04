@@ -20,7 +20,7 @@ The following example changes the trendline type for the first series of the fir
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg 

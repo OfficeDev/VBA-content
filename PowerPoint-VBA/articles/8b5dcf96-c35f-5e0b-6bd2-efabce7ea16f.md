@@ -21,7 +21,7 @@ Single
 This example sets the spacing after paragraphs to 6 points for the text in shape two on slide one in the active presentation.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(1).Shapes(2)
 
     With .TextFrame.TextRange.ParagraphFormat

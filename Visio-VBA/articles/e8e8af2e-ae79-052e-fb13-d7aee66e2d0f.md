@@ -28,7 +28,7 @@ To capture the  **OnDocumentLoaded** event when you are coding in Visual Basic 6
 The following code shows how to display a message in the  **Immediate** window when a document is loaded in Visio Viewer, showing the name of the document.
 
 
-```
+```vb
 Private Sub vsoViewer_OnDocumentLoaded()
 
 

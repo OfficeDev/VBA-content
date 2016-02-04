@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of words in the collection. Read-
 This example displays the number of words in the selection.
 
 
-```
+```vb
 If Selection.Words.Count >= 1 And _ 
  Selection.Type <> wdSelectionIP Then 
  MsgBox "The selection contains " &amp; Selection.Words.Count _ 

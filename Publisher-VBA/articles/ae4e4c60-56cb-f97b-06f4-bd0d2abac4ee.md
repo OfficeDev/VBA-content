@@ -21,7 +21,7 @@ To clear an individual attachment, use the  **[Delete](935fa9e7-9d40-b820-e386-1
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to clear all the attachment to the message in an e-mail merge. The code prints the number of current attachments to the message in the  **Immediate** window and then deletes all of the **Attachment** objects in the collection.
 
 
-```
+```vb
 Public Sub ClearAll_Example() 
  
  Dim pubAttachments As Publisher.Attachments 

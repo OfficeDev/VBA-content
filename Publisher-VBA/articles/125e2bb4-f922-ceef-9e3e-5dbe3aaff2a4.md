@@ -16,7 +16,7 @@ Returns a  **[Window](342d77cd-5556-6ac3-a828-b1b60380f910.md)** object that rep
 This example displays the active window's caption.
 
 
-```
+```vb
 Sub CurrentCaption() 
  
  MsgBox ActiveDocument.ActiveWindow.Caption 

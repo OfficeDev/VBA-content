@@ -16,7 +16,7 @@ Returns a  **[LineFormat](13eca34b-adf7-ddd3-8c73-cc8b508c624a.md)** object that
 This example adds a blue dashed line to  `myDocument`.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddLine(10, 10, 250, 250).Line 
  .DashStyle = msoLineDashDotDot 
@@ -29,7 +29,7 @@ This example adds a cross to  `myDocument` and then sets its border to be 8 poin
 
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeCross, 10, 10, 50, 70).Line 
  .Weight = 8 

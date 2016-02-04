@@ -30,7 +30,7 @@ To access the  **Application** object events, declare an **Application** object 
 This example displays a message when a users moves from step three of the Mail Merge Wizard to step four. Based on the user's answer to the message, the user will either continue on to step four or return to step three.
 
 
-```
+```vb
 Private Sub MailMergeApp_MailMergeWizardStateChange(ByVal Doc As Document, _ 
  ByVal FromState As Long) 
  

@@ -39,7 +39,7 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 This example scales all pictures and OLE objects on  `myDocument` to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 For Each s In myDocument.Shapes 
     Select Case s.Type 

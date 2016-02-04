@@ -29,7 +29,7 @@ Returns the value of the specified resource custom field.
 The following example displays the value of a local resource custom field specified by the user.
 
 
-```
+```vb
 Sub DisplayField() 
     Dim Temp As String 
  

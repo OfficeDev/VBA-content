@@ -16,7 +16,7 @@
 This example sets Word to use characters as the default measurement unit.
 
 
-```
+```vb
 Options.UseCharacterUnit = True
 ```
 

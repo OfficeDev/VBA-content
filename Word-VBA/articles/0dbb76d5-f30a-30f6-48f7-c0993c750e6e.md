@@ -30,7 +30,7 @@ The  **WdRulerStyle** behavior described above applies to left-aligned tables. T
 This example creates a table in a new document and sets the width of the first cell in the second row to 1.5 inches. The example preserves the widths of the other cells in the table.
 
 
-```
+```vb
 Set newDoc = Documents.Add 
 Set myTable = _ 
  newDoc.Tables.Add(Range:=Selection.Range, NumRows:=3, _ 
@@ -45,7 +45,7 @@ This example sets the width of the cell that contains the insertion point to 36 
 
 
 
-```
+```vb
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Cells(1).SetWidth ColumnWidth:=36, _ 
  RulerStyle:=wdAdjustFirstColumn 

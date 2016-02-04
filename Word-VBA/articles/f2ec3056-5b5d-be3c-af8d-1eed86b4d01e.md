@@ -21,7 +21,7 @@ Returns  **True**,  **False**, or  **wdUndefined** (a mixture of **True** and **
 This example applies outline font formatting to the first three words in the active document.
 
 
-```
+```vb
 Set myRange = ActiveDocument.Range(Start:= _ 
  ActiveDocument.Words(1).Start, _ 
  End:=ActiveDocument.Words(3).End) 
@@ -42,7 +42,7 @@ This example removes outline font formatting from the selection if outline forma
 
 
 
-```
+```vb
 Set myFont = Selection.Font 
 If myFont.Outline = wdUndefined Then 
  myFont.Outline = False 

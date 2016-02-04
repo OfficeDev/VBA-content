@@ -26,7 +26,7 @@ The  **Script** property value can be one of the **[PbFontScriptType](e9bc4248-8
 This example displays a message if the font script used in the specified text range is ASCII Latin. This example assumes that there is at least one shape on the first page of the active publication.
 
 
-```
+```vb
 Sub DisplayScriptType() 
  If ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .Script = pbFontScriptAsciiLatin Then 

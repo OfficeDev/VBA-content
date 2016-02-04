@@ -26,7 +26,7 @@ Adds one or more predecessors to the task.
 The following example prompts the user for the name of a task and then makes the task a predecessor of the selected tasks.
 
 
-```
+```vb
 Sub LinkTasksFromPredecessor() 
     Dim Entry As String   ' Task name entered by user 
     Dim T As Task         ' Task object used in For Each loop 

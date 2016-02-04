@@ -29,7 +29,7 @@ The object specified by the  **[CurrentItem](eaaf0192-a169-c107-95a6-b8e759a3b87
 The following code sample in Microsoft Visual Basic for Applications (VBA) shows how to use the  **SetSchedulingStartTime** method to set the scheduling start time on the **Scheduling Assistant** tab of an **AppointmentItem**. The appointment start time is set to one month from now, and the scheduling start time is also set to one month from now.
 
 
-```
+```vb
 Sub DemoSetSchedulingStartTime() 
  
  Dim oAppt As Outlook.AppointmentItem 

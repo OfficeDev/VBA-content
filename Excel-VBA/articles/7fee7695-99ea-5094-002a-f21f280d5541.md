@@ -16,7 +16,7 @@ Makes the formatting of the specified shape the default formatting for the shape
 This example adds a rectangle to  `myDocument`, formats the rectangle's fill, sets the rectangle's formatting as the default shape formatting, and then adds another smaller rectangle to the document. The second rectangle has the same fill as the first one.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes 
  With .AddShape(msoShapeRectangle, 5, 5, 80, 60) 

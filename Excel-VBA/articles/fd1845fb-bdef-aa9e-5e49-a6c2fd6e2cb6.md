@@ -25,7 +25,7 @@ The value of this property accurately reflects the position of the callout line 
 This example replaces the custom drop for shape one on  `myDocument` with one of two preset drops, depending on whether the custom drop value is greater than or less than half the height of the callout text box. For the example to work, shape one must be a callout.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes(1).Callout 
  If .DropType = msoCalloutDropCustom Then 

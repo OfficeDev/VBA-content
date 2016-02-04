@@ -21,7 +21,7 @@ String
 This example loops through all the fields in the active publication, and then displays a message as to whether the string "www" was found in the code of any of the fields.
 
 
-```
+```vb
 Sub FindWWWHyperlinks() 
  Dim intItem As Integer 
  Dim intField As Integer 

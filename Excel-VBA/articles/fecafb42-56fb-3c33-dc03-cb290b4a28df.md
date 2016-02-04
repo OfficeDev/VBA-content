@@ -16,7 +16,7 @@
 This example automatically scales Chart1. The example should be run on a 3-D chart.
 
 
-```
+```vb
 With Charts("Chart1") 
  .RightAngleAxes = True 
  .AutoScaling = True 

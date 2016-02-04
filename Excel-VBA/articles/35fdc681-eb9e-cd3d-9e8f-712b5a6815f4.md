@@ -16,7 +16,7 @@ Returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object th
 This example displays a message about the application that created  `myObject`.
 
 
-```
+```vb
 Set myObject = ActiveWorkbook 
 If myObject.Application.Value = "Microsoft Excel" Then 
    MsgBox "This is an Excel Application object." 

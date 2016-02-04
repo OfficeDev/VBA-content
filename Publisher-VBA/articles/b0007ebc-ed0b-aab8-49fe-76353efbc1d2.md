@@ -21,7 +21,7 @@ Font
 This example creates a new text box, fills it with text, checks if the font most in use is Tahoma, and if it isn't, changes the font to Tahoma.
 
 
-```
+```vb
 Sub SetFontName() 
  Dim intCount As Integer 
  With ActiveDocument.Pages(1).Shapes _ 

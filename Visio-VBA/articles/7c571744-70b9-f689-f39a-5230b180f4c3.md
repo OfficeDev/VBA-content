@@ -29,7 +29,7 @@ If Microsoft Visio menus and accelerators have not been customized, either progr
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get the currently active user interface (UI) for your document without replacing the application-level custom UI. You must write additional code to add your custom UI items.
 
 
-```
+```vb
  
 Sub CustomMenus_Example() 
  

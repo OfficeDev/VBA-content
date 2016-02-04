@@ -20,7 +20,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 
 
-```
+```vb
 Sub OptionButton1_Click() 
  Set MultiPage1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("MultiPage1") 
  Set TabStrip1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("TabStrip1") 

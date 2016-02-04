@@ -35,7 +35,7 @@ Copy this sample code into a new class module in VBA or Visual Basic, naming the
 
 
 
-```
+```vb
  
 Implements Visio.IVisEventProc 
  

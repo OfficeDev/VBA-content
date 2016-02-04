@@ -4,7 +4,7 @@
 Before you can use events with the  **Application** object, you must create a class module and declare an object of type **Application** with events. For example, assume that a new class module is created and called EventClassModule. The new class module contains the following code:
 
 
-```
+```vb
 Public WithEvents App As Application
 ```
 
@@ -16,7 +16,7 @@ Before the procedures will run, however, you must connect the declared object in
 ## Example
 
 
-```
+```vb
 Dim X As New EventClassModule 
  
 Sub InitializeApp() 

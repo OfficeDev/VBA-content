@@ -21,7 +21,7 @@ String
 The following example adds a shape, and adds a three-second fill animation to that shape.
 
 
-```
+```vb
 Sub AddShapeSetAnimFill()
 
 

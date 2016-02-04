@@ -18,7 +18,7 @@ Use  **ChartGroups**( _index_), where  _index_ is the chart group's index number
 
 
 
-```
+```vb
 myChart.ChartGroups(1).HasDropLines = True
 ```
 

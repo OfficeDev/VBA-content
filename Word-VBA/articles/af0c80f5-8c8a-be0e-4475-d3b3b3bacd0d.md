@@ -15,7 +15,7 @@ Use the  **Add** method of the **Editors** collection to give a specified user o
 
 
 
-```
+```vb
 Dim objEditor As Editor 
  
 Set objEditor = Selection.Editors.Add(wdEditorCurrent)

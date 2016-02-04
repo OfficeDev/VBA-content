@@ -29,7 +29,7 @@ Column
 This example returns the first column from a  **Columns** collection.
 
 
-```
+```vb
 Dim colTemp As Column 
  
 Set colTemp = ActiveDocument.Pages(Index:=1) _ 

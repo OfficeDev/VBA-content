@@ -9,7 +9,7 @@ A collection of all  **[CubeField](6db16910-6c27-651a-c388-e54e27fe4519.md)** ob
 Use the  **[CubeFields](043d6946-4d78-ba59-bef7-5aa4d000041d.md)** property to return the **CubeFields** collection. The following example creates a list of cube field names of the data fields in the first OLAP-based PivotTable report on Sheet1.
 
 
-```
+```vb
 Set objNewSheet = Worksheets.Add 
 intRow = 1 
 For Each objCubeFld In _ 

@@ -16,7 +16,7 @@ Returns a  **[Frame](d36d3361-9e93-7dd9-b8c9-0ce503e03810.md)** object that repr
 This example finds the first frame with wrap around formatting. If such a frame is found, a message is displayed on the status bar.
 
 
-```
+```vb
 With ActiveDocument.Content.Find 
  .Text = "" 
  .Frame.TextWrap = True 

@@ -43,7 +43,7 @@ Microsoft Access automatically uses an object's default verb if the user double-
 The following example activates the control "OLEUnbound0" in the form "frmOperations" by opening up the OLE object in its own application window for editing. In this case, "OLEUnbound0" contains a new bitmap image, which is linked to the Microsoft Paint program.
 
 
-```
+```vb
 With Forms.Item("frmOperations").Controls.Item("OLEUnbound0") 
  .Action = acOLEActivate 
  .Verb = acOLEVerbOpen 

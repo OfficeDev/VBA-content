@@ -18,7 +18,7 @@ The following sample sets the  **Calendar** navigation module as the currently s
 
 
 
-```
+```vb
 Dim WithEvents objPane As NavigationPane 
  
 Private Sub Application_Startup() 

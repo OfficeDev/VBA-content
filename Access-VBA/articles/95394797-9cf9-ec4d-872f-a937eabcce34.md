@@ -49,7 +49,7 @@ The  **FontWeight**property, which is available in the property sheet for contro
 The following Print event procedure prints a report title and the current date in a bold style on a report at the coordinates specified by the  **CurrentX** and **CurrentY** property settings.
 
 
-```
+```vb
 Private Sub ReportHeader0_Print(Cancel As Integer, _ 
  PrintCount As Integer) 
  Dim MyDate 

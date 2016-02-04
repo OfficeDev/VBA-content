@@ -16,7 +16,7 @@ A  **Boolean** value indicating whether automatic expansion is enabled for lists
 The following example enables automatic expansion of lists when typing in adjacent rows or columns.
 
 
-```
+```vb
 Sub SetAutoExpand 
  
  Application.AutoCorrect.AutoExpandListRange = TRUE 

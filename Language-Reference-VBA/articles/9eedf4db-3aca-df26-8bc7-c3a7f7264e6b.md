@@ -4,7 +4,7 @@
 The  **Nothing** [keyword](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) is used to disassociate an object [variable](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) from an actual object. Use the **Set** statement to assign **Nothing** to an object variable. For example:
 
 
-```
+```vb
 Set MyObject = Nothing 
 
 ```

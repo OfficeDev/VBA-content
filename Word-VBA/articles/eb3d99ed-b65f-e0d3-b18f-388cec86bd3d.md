@@ -16,7 +16,7 @@
 If the second shape on the active document contains text, this example displays a message if the text overflows its frame.
 
 
-```
+```vb
 Dim docActive As Document 
  
 Set docActive = ActiveDocument 

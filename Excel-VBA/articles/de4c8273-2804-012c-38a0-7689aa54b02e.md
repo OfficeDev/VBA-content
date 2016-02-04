@@ -23,7 +23,7 @@ Use the  **[Type](55be2527-9fd5-6930-ff64-e3355a36e9e9.md)** property of the **[
 This example replaces all 16-point stars with 32-point stars in  `myDocument`.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 For Each s In myDocument.Shapes 
     If s.AutoShapeType = msoShape16pointStar Then 

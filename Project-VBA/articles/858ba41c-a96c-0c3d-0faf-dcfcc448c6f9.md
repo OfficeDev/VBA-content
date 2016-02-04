@@ -19,7 +19,7 @@ To see the  **IMsoDataTable** object, right-click in the Object Browser, and the
 The following example adds a data table with an outline border to the chart on the active report.
 
 
-```
+```vb
 Sub ShowDataTable()
     Dim chartShape As Shape
     Dim reportName As String

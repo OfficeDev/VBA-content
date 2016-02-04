@@ -41,7 +41,7 @@ Destination can be one of these  **PbMailMergeDestination** constants. The defau
 This example executes a mail merge if the active publication is a main document with an attached data source.
 
 
-```
+```vb
 Sub ExecuteMerge() 
  Dim mrgDocument As MailMerge 
  Set mrgDocument = ActiveDocument.MailMerge 

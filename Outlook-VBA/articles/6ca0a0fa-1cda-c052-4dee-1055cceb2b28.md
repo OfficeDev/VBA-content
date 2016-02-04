@@ -30,7 +30,7 @@ For example, to declare an object variable for the  **[Application](797003e7-ecd
 
 
 
-```
+```vb
 Public WithEvents myOlApp As Outlook.Application
 ```
 
@@ -42,7 +42,7 @@ You must use the  `WithEvents` keyword to specify that the object variable will 
 After the new object has been declared with events, it appears in the  **Object** list in the class module Code window, and you can select the object's event procedures from the **Procedures/Events** list. For example, when you select the **[ItemSend](54f506ea-87a2-29b9-2b33-67bc87167933.md)** event for an **Application** object declared as `myOlApp`, the following empty procedure appears in the Code window.
 
 
-```
+```vb
 Private Sub myOlApp_ItemSend(Item as Object, Cancel as Boolean) 
  
 End Sub
@@ -54,7 +54,7 @@ End Sub
 Before the procedure will run, you must connect the declared object (in this example,  `myOlApp`) with the  **Application** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
 
 
-```
+```vb
 Dim myClass as New EventClassModule  
 Sub Register_Event_Handler()  
     Set myClass.myOlApp = "Outlook.Application"  

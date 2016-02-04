@@ -21,7 +21,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 This Microsoft Visual Basic for Applications (VBA) example displays a farewell message when Outlook exits. The sample code must be placed in a class module.
 
 
-```
+```vb
 Private Sub Application_Quit() 
  
  MsgBox "Goodbye, " &amp; Application.GetNamespace("MAPI").CurrentUser 

@@ -86,7 +86,7 @@ The  **AddDurationColumns** macro adds task duration and baseline duration to th
 
 
 
-```
+```vb
 Sub AddDurationColumns()
     Dim success As Boolean
     Dim results As String

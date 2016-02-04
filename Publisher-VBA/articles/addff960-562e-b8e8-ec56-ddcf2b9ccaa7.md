@@ -23,7 +23,7 @@ Use the  **[AddCatalogMergeArea](4af86b99-5a3a-b9f3-d269-16d635d35c83.md)** meth
 The following example tests whether any page in the specified publication contains a catalog merge area. If any page does, all the shapes are removed from the catalog merge area and deleted, and the catalog merge area is then removed from the publication.
 
 
-```
+```vb
 Sub DeleteCatalogMergeAreaAndAllShapesWithin() 
  Dim pgPage As Page 
  Dim mmLoop As Shape 

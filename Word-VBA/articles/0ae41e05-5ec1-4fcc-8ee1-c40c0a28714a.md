@@ -25,7 +25,7 @@ This example adjusts the height of the first three rows in the first table so th
 
 
 
-```
+```vb
 Dim rngTemp As Range 
  
 If ActiveDocument.Tables.Count >= 1 Then 

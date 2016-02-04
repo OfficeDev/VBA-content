@@ -21,7 +21,7 @@ The  **DisableFeaturesByDefault** property sets a global option for the applicat
 This example disables all features introduced after Word for Windows 95, versions 7.0 and 7.0a, for all documents.
 
 
-```
+```vb
 Sub FeaturesDisableByDefault() 
  With Application.Options 
  

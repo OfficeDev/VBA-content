@@ -69,7 +69,7 @@ To try the example, add the following event procedure to a form named Orders tha
 
 
 
-```
+```vb
 Private Sub EmployeeID_DblClick(Cancel As Integer) 
  DoCmd.OpenForm "Employees", , , _ 
  "EmployeeID = Forms!Orders!EmployeeID" 

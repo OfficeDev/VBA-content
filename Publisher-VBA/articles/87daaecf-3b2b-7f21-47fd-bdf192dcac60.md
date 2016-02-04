@@ -28,7 +28,7 @@ Use the  **[EndArrowheadLength](3e46e63b-54b2-edbf-0dc1-fba2c3a5d945.md)** prope
 This example adds a line to the active publication. There is a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes _ 
  .AddLine(BeginX:=100, BeginY:=100, _ 
  EndX:=200, EndY:=300).Line 

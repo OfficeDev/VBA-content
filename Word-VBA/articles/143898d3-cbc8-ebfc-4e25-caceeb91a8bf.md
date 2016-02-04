@@ -25,7 +25,7 @@ Returns a single  **[Axis](3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d.md)** object fro
 The following example sets the title text for the category axis for the first chart in the active document.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  With .Chart.Axes.Item(xlCategory) 

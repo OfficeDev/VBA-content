@@ -34,7 +34,7 @@ Applies a design template and theme variant to the slide range.
 This example opens a theme file, gets the ID of the second variant in the theme, and applies it to the slides in the presentation.
 
 
-```
+```vb
 
 Sub ChangeThemeVariant()
 

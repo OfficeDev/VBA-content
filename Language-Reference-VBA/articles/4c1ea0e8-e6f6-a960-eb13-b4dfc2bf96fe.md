@@ -9,7 +9,7 @@ This message is displayed when an error generated with the  **Raise** method or 
     
 - It may be that in accessing objects from other applications, an error was propagated back to your program that can't be mapped to a Visual Basic error.
     
-```
+```vb
   For index = 1 to 500 
 Debug.Print Error$(index) 
 Next index 

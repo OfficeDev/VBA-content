@@ -16,7 +16,7 @@ Gets or sets a friendly name representing a hyperlink address. The name may also
 The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects.
 
 
-```
+```vb
 Sub AddHyperlink() 
  Dim T As Task 
  

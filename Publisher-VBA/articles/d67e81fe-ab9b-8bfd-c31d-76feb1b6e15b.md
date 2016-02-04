@@ -21,7 +21,7 @@ ParagraphFormat
 This example applies the paragraph formatting applied to a majority of the paragraphs in the first shape to the paragraphs in the second shape on the first page of the active document. This example assumes that there are at least two shapes on page one of the active publication.
 
 
-```
+```vb
 Sub SetFontName() 
  Dim fmt As ParagraphFormat 
  With ActiveDocument.Pages(1) 

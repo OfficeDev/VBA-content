@@ -16,7 +16,7 @@
 This example causes the embedded chart data table to be displayed with an outline border and no cell borders.
 
 
-```
+```vb
 With Worksheets(1).ChartObjects(1).Chart 
  .HasDataTable = True 
  With .DataTable 

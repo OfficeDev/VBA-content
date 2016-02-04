@@ -33,7 +33,7 @@ For this example, create two custom fields on the second page of a form. The fir
 
 
 
-```
+```vb
 Sub Item_CustomPropertyChange(ByVal myPropName) 
  
  Select Case myPropName 

@@ -16,7 +16,7 @@
 This example adds page numbers in the footer for section one in the active document. The page numbers include the chapter number.
 
 
-```
+```vb
 With ActiveDocument.Sections(1).Footers _ 
  (wdHeaderFooterPrimary).PageNumbers 
  .Add 
@@ -30,7 +30,7 @@ This example adds the chapter number from the Heading 2 style to figure captions
 
 
 
-```
+```vb
 With CaptionLabels(wdCaptionFigure) 
  .IncludeChapterNumber = True 
  .ChapterStyleLevel = 2 

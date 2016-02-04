@@ -16,7 +16,7 @@
 This example displays a message box containing the name of each floating shape that's displayed as an icon on the active document.
 
 
-```
+```vb
 Dim shapeLoop As Shape 
  
 For Each shapeLoop In ActiveDocument.Shapes 
@@ -31,7 +31,7 @@ This example inserts a Microsoft Excel worksheet as a linked OLE object on the a
 
 
 
-```
+```vb
 Dim objNew As Object 
  
 Set objNew = ActiveDocument.Shapes.AddOLEObject _ 

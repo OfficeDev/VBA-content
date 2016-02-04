@@ -16,7 +16,7 @@ Returns or sets the attention line text for a letter created by the Letter Wizar
 This example retrieves the Letter Wizard elements from the active document. If the attention line isn't blank, the example displays the text in a message box.
 
 
-```
+```vb
 If ActiveDocument.GetLetterContent.AttentionLine <> "" Then 
  MsgBox ActiveDocument.GetLetterContent.AttentionLine 
 End If
@@ -27,7 +27,7 @@ This example retrieves the Letter Wizard elements from the active document, chan
 
 
 
-```
+```vb
 Dim lcTemp As LetterContent 
  
 Set lcTemp = ActiveDocument.GetLetterContent 

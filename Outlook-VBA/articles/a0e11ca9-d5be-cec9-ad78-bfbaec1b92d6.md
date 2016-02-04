@@ -29,7 +29,7 @@ You can use  **SetCurrentFormPage** to display a form region by specifying the *
 This Visual Basic for Applications (VBA) example uses the  **SetCurrentFormPage** method to show the **All Fields** page of the currently open item. If an error occurs, Outlook will display a message box to the user.
 
 
-```
+```vb
 Sub ShowAllFieldsPage() 
  
  On Error GoTo ErrorHandler 

@@ -16,7 +16,7 @@ Returns  **[FootnoteOptions](5fdeb6d6-ce33-44f5-62c1-743fc3770457.md)** object t
 This example sets the numbering rule in the selection to restart at the beginning of the new section.
 
 
-```
+```vb
 Sub SetFootnoteOptionsRange() 
  Selection.FootnoteOptions.NumberingRule = wdRestartSection 
 End Sub

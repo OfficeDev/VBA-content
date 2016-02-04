@@ -9,7 +9,7 @@ Represents line and arrowhead formatting. For a line, the  **LineFormat** object
 Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to the active document. There is a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
 
 
-```
+```vb
 With ActiveDocument.Shapes.AddLine(100, 100, 200, 300).Line 
  .DashStyle = msoLineDashDotDot 
  .ForeColor.RGB = RGB(50, 0, 128) 

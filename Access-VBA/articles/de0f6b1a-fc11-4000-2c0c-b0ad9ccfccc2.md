@@ -54,7 +54,7 @@ To try the example, add the following event procedure to a form named Employees 
 
 
 
-```
+```vb
 Private Sub Form_BeforeInsert(Cancel As Integer) 
  If MsgBox("Insert new record here?", _ 
  vbOKCancel) = vbCancel Then 

@@ -24,7 +24,7 @@ Use the  **[BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)** property t
 
 
 
-```
+```vb
 Dim C As Calendar 
 
  

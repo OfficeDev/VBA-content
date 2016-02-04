@@ -36,7 +36,7 @@ Use the  **[GetLeft](e8f28ab3-f9da-eae7-2a21-b8b2505e9b44.md)** method to return
 The following example displays the distances from the left and top edges of the leftmost page to the left and top edges of shape range consisting of all the shapes on the first page. The distances are expressed in inches (to the nearest hundredth).
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes.Range 
  MsgBox "Distance from left: " _ 
  &amp; Format(.GetLeft(Unit:=pbUnitInch), "0.00") _ 
