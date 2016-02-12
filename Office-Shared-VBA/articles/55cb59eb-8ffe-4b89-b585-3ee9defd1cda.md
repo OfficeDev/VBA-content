@@ -6,9 +6,9 @@ Gets the Microsoft ActiveX® control instance displayed in the custom task pane 
 
 ## Syntax
 
- _expression_. **ContentControl**
+ _expression_ . **ContentControl**
 
- _expression_An expression that returns a  **CustomTaskPane** object.
+ _expression_ An expression that returns a **CustomTaskPane** object.
 
 
 ### Return Value
@@ -27,8 +27,8 @@ This property is set once at creation.
 #### Concepts
 
 
- [CustomTaskPane Object](7ed379b7-d070-4d7b-abe1-92dc73d3d137.md)
+[CustomTaskPane Object](7ed379b7-d070-4d7b-abe1-92dc73d3d137.md)
 #### Other resources
 
 
- [CustomTaskPane Object Members](858cc1d3-6fe8-5fa2-5a1c-416255227de8.md)
+[CustomTaskPane Object Members](858cc1d3-6fe8-5fa2-5a1c-416255227de8.md)

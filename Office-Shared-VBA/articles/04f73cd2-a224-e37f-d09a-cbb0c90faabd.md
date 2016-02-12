@@ -6,9 +6,9 @@ Gets a 32-bit integer that indicates the application in which the  **SoftEdgeFor
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_An expression that returns a  **SoftEdgeFormat** object.
+ _expression_ An expression that returns a **SoftEdgeFormat** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Long
 #### Concepts
 
 
- [SoftEdgeFormat Object](9d9b34e1-03b5-9e56-b9ea-89c7ecce0370.md)
+[SoftEdgeFormat Object](9d9b34e1-03b5-9e56-b9ea-89c7ecce0370.md)
 #### Other resources
 
 
- [SoftEdgeFormat Object Members](a2d2a5b6-ffa1-3cfe-c84b-ca2bf04b0e94.md)
+[SoftEdgeFormat Object Members](a2d2a5b6-ffa1-3cfe-c84b-ca2bf04b0e94.md)

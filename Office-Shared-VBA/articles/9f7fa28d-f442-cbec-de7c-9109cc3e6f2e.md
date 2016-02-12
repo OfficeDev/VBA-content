@@ -9,9 +9,9 @@ Gets a  **[SharedWorkspaceTasks](de26341f-44d1-131e-1dbe-e31f3f68e312.md)** coll
 
 ## Syntax
 
- _expression_. **Tasks**
+ _expression_ . **Tasks**
 
- _expression_A variable that represents a  **SharedWorkspace** object.
+ _expression_ A variable that represents a **SharedWorkspace** object.
 
 
 ## Example
@@ -37,8 +37,8 @@ The following example lists the tasks in the current shared workspace.
 #### Concepts
 
 
- [SharedWorkspace Object](7512f0ff-382d-d344-9424-aa10549d14f9.md)
+[SharedWorkspace Object](7512f0ff-382d-d344-9424-aa10549d14f9.md)
 #### Other resources
 
 
- [SharedWorkspace Object Members](e4c2b518-d955-27e1-3e73-173d3c4f961d.md)
+[SharedWorkspace Object Members](e4c2b518-d955-27e1-3e73-173d3c4f961d.md)

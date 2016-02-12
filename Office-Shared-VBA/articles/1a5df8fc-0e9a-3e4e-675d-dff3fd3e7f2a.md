@@ -9,9 +9,9 @@ Gets the name of a subfolder within the main document library folder of a shared
 
 ## Syntax
 
- _expression_. **FolderName**
+ _expression_ . **FolderName**
 
- _expression_A variable that represents a  **SharedWorkspaceFolder** object.
+ _expression_ A variable that represents a **SharedWorkspaceFolder** object.
 
 
 ## Remarks
@@ -47,8 +47,8 @@ The following example displays the number of subfolders in the shared workspace 
 #### Concepts
 
 
- [SharedWorkspaceFolder Object](297c4ed7-2232-5240-ca34-d374038c66a2.md)
+[SharedWorkspaceFolder Object](297c4ed7-2232-5240-ca34-d374038c66a2.md)
 #### Other resources
 
 
- [SharedWorkspaceFolder Object Members](e7e0a32a-ce01-e08f-f251-27d93273110e.md)
+[SharedWorkspaceFolder Object Members](e7e0a32a-ce01-e08f-f251-27d93273110e.md)

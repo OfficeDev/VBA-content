@@ -9,9 +9,9 @@ Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
 ## Syntax
 
- _expression_. **Title**
+ _expression_ . **Title**
 
- _expression_A variable that represents a  **SharedWorkspaceTask** object.
+ _expression_ A variable that represents a **SharedWorkspaceTask** object.
 
 
 ### Return Value
@@ -49,8 +49,8 @@ The following example displays a list of the titles of all tasks in the current 
 #### Concepts
 
 
- [SharedWorkspaceTask Object](fbd82b03-53fa-12ff-9fb2-07bef012dde8.md)
+[SharedWorkspaceTask Object](fbd82b03-53fa-12ff-9fb2-07bef012dde8.md)
 #### Other resources
 
 
- [SharedWorkspaceTask Object Members](5b5589d1-f907-7357-f930-eede569d2021.md)
+[SharedWorkspaceTask Object Members](5b5589d1-f907-7357-f930-eede569d2021.md)

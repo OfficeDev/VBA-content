@@ -6,9 +6,9 @@ Gets the unique address identifier for the namespace of the  **CustomXMLPart** o
 
 ## Syntax
 
- _expression_. **NamespaceURI**
+ _expression_ . **NamespaceURI**
 
- _expression_An expression that returns a  **CustomXMLPart** object.
+ _expression_ An expression that returns a **CustomXMLPart** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ String
 #### Concepts
 
 
- [CustomXMLPart Object](a4f90bac-01d6-bba4-f64b-a64e2b122cfd.md)
+[CustomXMLPart Object](a4f90bac-01d6-bba4-f64b-a64e2b122cfd.md)
 #### Other resources
 
 
- [CustomXMLPart Object Members](76fe85f4-5a35-7d12-2989-6f17a094dcdf.md)
+[CustomXMLPart Object Members](76fe85f4-5a35-7d12-2989-6f17a094dcdf.md)

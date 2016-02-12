@@ -6,9 +6,9 @@ Gets a 32-bit integer that indicates the application in which the  **WorkflowTem
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_An expression that returns a  **WorkflowTemplate** object.
+ _expression_ An expression that returns a **WorkflowTemplate** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Long
 #### Concepts
 
 
- [WorkflowTemplate Object](965d0474-dd51-9b0e-b34c-a11f921ff410.md)
+[WorkflowTemplate Object](965d0474-dd51-9b0e-b34c-a11f921ff410.md)
 #### Other resources
 
 
- [WorkflowTemplate Object Members](c891ed9a-87bd-242b-1a6b-012ab1406a1c.md)
+[WorkflowTemplate Object Members](c891ed9a-87bd-242b-1a6b-012ab1406a1c.md)

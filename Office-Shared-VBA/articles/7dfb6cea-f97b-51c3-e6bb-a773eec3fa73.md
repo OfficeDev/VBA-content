@@ -6,9 +6,9 @@ Saves an encrypted document.
 
 ## Syntax
 
- _expression_. **Save**( **_SessionHandle_**,  **_EncryptionData_**)
+ _expression_ . **Save**( **_SessionHandle_** , **_EncryptionData_** )
 
- _expression_An expression that returns a  **EncryptionProvider** object.
+ _expression_ An expression that returns a **EncryptionProvider** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Saves an encrypted document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SessionHandle|Required| **Long**|The ID of the current session.|
-|EncryptionData|Required| **IUnknown**|Contains the encryption information.|
+| _SessionHandle_|Required| **Long**|The ID of the current session.|
+| _EncryptionData_|Required| **IUnknown**|Contains the encryption information.|
 
 ### Return Value
 
@@ -36,8 +36,8 @@ When you save a file to the Office Open XML File Format (which is the only forma
 #### Concepts
 
 
- [EncryptionProvider Object](9f5cc550-6bcb-2748-14a7-696cf8ef021b.md)
+[EncryptionProvider Object](9f5cc550-6bcb-2748-14a7-696cf8ef021b.md)
 #### Other resources
 
 
- [EncryptionProvider Object Members](48bed5b8-b284-4b52-4143-153ae1c751a4.md)
+[EncryptionProvider Object Members](48bed5b8-b284-4b52-4143-153ae1c751a4.md)

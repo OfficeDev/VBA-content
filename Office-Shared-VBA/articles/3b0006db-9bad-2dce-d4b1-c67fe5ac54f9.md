@@ -32,11 +32,8 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
- [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 #### Other resources
 
 
- [WorkflowTasks Object Members](a627f77c-fd47-ef66-edbd-9b4c4fcd9920.md)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[WorkflowTasks Object Members](a627f77c-fd47-ef66-edbd-9b4c4fcd9920.md)

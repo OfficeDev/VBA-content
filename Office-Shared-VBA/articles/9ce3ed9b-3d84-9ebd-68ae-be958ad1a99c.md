@@ -6,9 +6,9 @@ Applies a filter to a mail merge data source to filter specified records meeting
 
 ## Syntax
 
- _expression_. **ApplyFilter**
+ _expression_ . **ApplyFilter**
 
- _expression_A variable that represents an  **OfficeDataSourceObject** object.
+ _expression_ A variable that represents an **OfficeDataSourceObject** object.
 
 
 ## Example
@@ -46,8 +46,8 @@ End Sub
 #### Concepts
 
 
- [OfficeDataSourceObject Object](d5e5401b-643e-c12c-2648-f281af481f45.md)
+[OfficeDataSourceObject Object](d5e5401b-643e-c12c-2648-f281af481f45.md)
 #### Other resources
 
 
- [OfficeDataSourceObject Object Members](57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff.md)
+[OfficeDataSourceObject Object Members](57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff.md)
