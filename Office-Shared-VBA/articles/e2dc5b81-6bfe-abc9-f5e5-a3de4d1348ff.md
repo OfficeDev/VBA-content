@@ -6,9 +6,9 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLNo
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_An expression that returns a  **CustomXMLNode** object.
+ _expression_ An expression that returns a **CustomXMLNode** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Long
 #### Concepts
 
 
- [CustomXMLNode Object](e90213f5-6d62-52d8-3043-2399eaa5aaba.md)
+[CustomXMLNode Object](e90213f5-6d62-52d8-3043-2399eaa5aaba.md)
 #### Other resources
 
 
- [CustomXMLNode Object Members](fbf957c8-40b8-2f75-fcc8-db0ed6e18438.md)
+[CustomXMLNode Object Members](fbf957c8-40b8-2f75-fcc8-db0ed6e18438.md)

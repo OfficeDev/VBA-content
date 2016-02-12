@@ -6,9 +6,9 @@ Gets a 32-bit integer that indicates the application in which the  **UserPermiss
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **UserPermission** object.
+ _expression_ A variable that represents a **UserPermission** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Long
 #### Concepts
 
 
- [UserPermission Object](24378204-2fdd-47ba-2080-fbc409955325.md)
+[UserPermission Object](24378204-2fdd-47ba-2080-fbc409955325.md)
 #### Other resources
 
 
- [UserPermission Object Members](b9fdae9a-719b-9e1d-42aa-7553de91f9d1.md)
+[UserPermission Object Members](b9fdae9a-719b-9e1d-42aa-7553de91f9d1.md)

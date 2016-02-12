@@ -6,9 +6,9 @@ Used to store arbitrary strings and fetch them at runtime. Read-only
 
 ## Syntax
 
- _expression_. **Tag**
+ _expression_ . **Tag**
 
- _expression_An expression that returns a  **IRibbonControl** object.
+ _expression_ An expression that returns a **IRibbonControl** object.
 
 
 ### Return Value
@@ -44,8 +44,8 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 #### Concepts
 
 
- [IRibbonControl Object](63aef709-e1d3-b1a6-76af-b568ad0e69ae.md)
+[IRibbonControl Object](63aef709-e1d3-b1a6-76af-b568ad0e69ae.md)
 #### Other resources
 
 
- [IRibbonControl Object Members](396d85dc-ddd5-8985-0830-22ee5b1579dc.md)
+[IRibbonControl Object Members](396d85dc-ddd5-8985-0830-22ee5b1579dc.md)

@@ -12,9 +12,9 @@ Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_ . **Priority**
 
- _expression_A variable that represents a  **CommandBarPopup** object.
+ _expression_ A variable that represents a **CommandBarPopup** object.
 
 
 ### Return Value
@@ -51,8 +51,8 @@ End With
 #### Concepts
 
 
- [CommandBarPopup Object](a8ae06a3-1d7b-a531-91df-756fafee5314.md)
+[CommandBarPopup Object](a8ae06a3-1d7b-a531-91df-756fafee5314.md)
 #### Other resources
 
 
- [CommandBarPopup Object Members](8ec16deb-bb74-2871-d837-f706c7a58f2b.md)
+[CommandBarPopup Object Members](8ec16deb-bb74-2871-d837-f706c7a58f2b.md)

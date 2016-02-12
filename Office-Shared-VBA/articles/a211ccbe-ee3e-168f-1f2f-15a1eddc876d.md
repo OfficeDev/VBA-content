@@ -6,9 +6,9 @@ Gets a  **Boolean** value that indicates whether you can preview items using thi
 
 ## Syntax
 
- _expression_. **BlockPreview**
+ _expression_ . **BlockPreview**
 
- _expression_An expression that returns a  **ServerPolicy** object.
+ _expression_ An expression that returns a **ServerPolicy** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Boolean
 #### Concepts
 
 
- [ServerPolicy Object](ce2a63d2-5deb-b94b-45d7-ed84e9be7deb.md)
+[ServerPolicy Object](ce2a63d2-5deb-b94b-45d7-ed84e9be7deb.md)
 #### Other resources
 
 
- [ServerPolicy Object Members](ed14d9a8-6159-f175-9078-181331ebfb03.md)
+[ServerPolicy Object Members](ed14d9a8-6159-f175-9078-181331ebfb03.md)

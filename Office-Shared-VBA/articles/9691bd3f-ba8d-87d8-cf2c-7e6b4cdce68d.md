@@ -6,9 +6,9 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. **HrGetMacroEnabled**( **_pfMacroEnabled_**)
+ _expression_ . **HrGetMacroEnabled**( **_pfMacroEnabled_** )
 
- _expression_An expression that returns a  **IConverterPreferences** object.
+ _expression_ An expression that returns a **IConverterPreferences** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ This feature is only available in the Open XML Format SDK.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|pfMacroEnabled|Required| **[INT]**||
+| _pfMacroEnabled_|Required| **[INT]**||
 
 ### Return Value
 
@@ -30,8 +30,8 @@ This feature is only available in the Open XML Format SDK.
 #### Concepts
 
 
- [IConverterPreferences Object](c45e5b48-eced-32e6-1887-ff5c100ae1cc.md)
+[IConverterPreferences Object](c45e5b48-eced-32e6-1887-ff5c100ae1cc.md)
 #### Other resources
 
 
- [IConverterPreferences Object Members](4c3f024c-25c5-aa02-1bff-7ec9e8c2d2b3.md)
+[IConverterPreferences Object Members](4c3f024c-25c5-aa02-1bff-7ec9e8c2d2b3.md)

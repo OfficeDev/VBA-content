@@ -9,9 +9,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **SharedWorkspaceMembers** object.
+ _expression_ A variable that represents a **SharedWorkspaceMembers** object.
 
 
 ### Return Value
@@ -25,8 +25,8 @@ Object
 #### Concepts
 
 
- [SharedWorkspaceMembers Object](2d0e6ce0-79ef-3030-b1af-465428314b15.md)
+[SharedWorkspaceMembers Object](2d0e6ce0-79ef-3030-b1af-465428314b15.md)
 #### Other resources
 
 
- [SharedWorkspaceMembers Object Members](296d0a8c-f0e6-769b-d5a4-8d38ad4403e2.md)
+[SharedWorkspaceMembers Object Members](296d0a8c-f0e6-769b-d5a4-8d38ad4403e2.md)

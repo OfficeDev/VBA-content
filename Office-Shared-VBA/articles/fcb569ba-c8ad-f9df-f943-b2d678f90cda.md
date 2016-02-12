@@ -6,9 +6,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **FileTypes** object.
+ _expression_ A variable that represents a **FileTypes** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Object
 #### Concepts
 
 
- [FileTypes Object](5e8b5240-5ebd-704d-72e6-1f4ad951dfdc.md)
+[FileTypes Object](5e8b5240-5ebd-704d-72e6-1f4ad951dfdc.md)
 #### Other resources
 
 
- [FileTypes Object Members](c2ecfe17-b2bb-23ef-1c2b-e5b8b5ff4fe1.md)
+[FileTypes Object Members](c2ecfe17-b2bb-23ef-1c2b-e5b8b5ff4fe1.md)

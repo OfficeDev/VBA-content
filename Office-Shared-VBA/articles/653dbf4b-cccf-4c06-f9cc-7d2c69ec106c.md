@@ -6,9 +6,9 @@ Retrieves the value of a Picker property. Read-only
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_ . **Value**
 
- _expression_An expression that returns a  **PickerProperty** object.
+ _expression_ An expression that returns a **PickerProperty** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Retrieves the value of a Picker property. Read-only
 #### Concepts
 
 
- [PickerProperty Object](fd3702fe-bf03-f22c-78c2-ac6c47a1d028.md)
+[PickerProperty Object](fd3702fe-bf03-f22c-78c2-ac6c47a1d028.md)
 #### Other resources
 
 
- [PickerProperty Object Members](0896b930-e732-832c-ff09-8a283628524c.md)
+[PickerProperty Object Members](0896b930-e732-832c-ff09-8a283628524c.md)

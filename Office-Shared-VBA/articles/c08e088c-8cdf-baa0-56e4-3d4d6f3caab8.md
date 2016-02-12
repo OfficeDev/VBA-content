@@ -6,14 +6,14 @@ Gets or sets a  **Boolean** value that indicates whether the user's license to v
 
 ## Syntax
 
- _expression_. **StoreLicenses**
+ _expression_ . **StoreLicenses**
 
- _expression_A variable that represents a  **Permission** object.
+ _expression_ A variable that represents a **Permission** object.
 
 
 ## Remarks
 
-The  **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
+The  **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False** , users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
 
 
 ## Example
@@ -55,8 +55,8 @@ The following example displays information about the permissions settings of the
 #### Concepts
 
 
- [Permission Object](4bdf7058-d4ba-0bd4-c5cd-141d67245ced.md)
+[Permission Object](4bdf7058-d4ba-0bd4-c5cd-141d67245ced.md)
 #### Other resources
 
 
- [Permission Object Members](75614d24-cd47-ef9b-aba5-112206daa358.md)
+[Permission Object Members](75614d24-cd47-ef9b-aba5-112206daa358.md)

@@ -36,11 +36,8 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
- [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 #### Other resources
 
 
- [ServerPolicy Object Members](ed14d9a8-6159-f175-9078-181331ebfb03.md)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[ServerPolicy Object Members](ed14d9a8-6159-f175-9078-181331ebfb03.md)

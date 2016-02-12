@@ -12,9 +12,9 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_ . **Item**( **_Index_** )
 
- _expression_Required. A variable that represents a  **[CommandBars](0e312e21-14ee-5055-d604-b66e61c53b47.md)** object.
+ _expression_ Required. A variable that represents a **[CommandBars](0e312e21-14ee-5055-d604-b66e61c53b47.md)** object.
 
 
 ### Parameters
@@ -23,7 +23,7 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The name or index number of the object to be returned.|
+| _Index_|Required| **Variant**|The name or index number of the object to be returned.|
 
 ## Example
 
@@ -42,8 +42,8 @@ Set cmdBar = CommandBars("Standard")
 #### Concepts
 
 
- [CommandBars Object](0e312e21-14ee-5055-d604-b66e61c53b47.md)
+[CommandBars Object](0e312e21-14ee-5055-d604-b66e61c53b47.md)
 #### Other resources
 
 
- [CommandBars Object Members](c11db22d-b7bb-20a2-a455-e441cb8d5bc0.md)
+[CommandBars Object Members](c11db22d-b7bb-20a2-a455-e441cb8d5bc0.md)

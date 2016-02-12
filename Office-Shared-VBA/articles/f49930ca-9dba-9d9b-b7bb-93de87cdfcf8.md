@@ -12,9 +12,9 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_ . **Top**
 
- _expression_Required. A variable that represents a  **[CommandBarComboBox](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)** object.
+ _expression_ Required. A variable that represents a **[CommandBarComboBox](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)** object.
 
 
 ## See also
@@ -23,8 +23,8 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 #### Concepts
 
 
- [CommandBarComboBox Object](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)
+[CommandBarComboBox Object](fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07.md)
 #### Other resources
 
 
- [CommandBarComboBox Object Members](223c51c0-4564-d14a-a8bf-d315a6a50b32.md)
+[CommandBarComboBox Object Members](223c51c0-4564-d14a-a8bf-d315a6a50b32.md)

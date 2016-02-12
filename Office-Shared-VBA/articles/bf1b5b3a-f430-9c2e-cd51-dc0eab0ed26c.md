@@ -6,9 +6,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_An expression that returns a  **PickerResults** object.
+ _expression_ An expression that returns a **PickerResults** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Gets an  **Application** object that represents the container application for th
 #### Concepts
 
 
- [PickerResults Object](c0e2e097-021b-7ed4-2f94-8204c849bc17.md)
+[PickerResults Object](c0e2e097-021b-7ed4-2f94-8204c849bc17.md)
 #### Other resources
 
 
- [PickerResults Object Members](6b6ec287-4d88-cc7d-7cfa-f641b1481bbe.md)
+[PickerResults Object Members](6b6ec287-4d88-cc7d-7cfa-f641b1481bbe.md)

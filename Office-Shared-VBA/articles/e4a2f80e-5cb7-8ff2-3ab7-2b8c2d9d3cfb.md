@@ -1,7 +1,7 @@
 
 # SharedWorkspace.Files Property (Office)
 
-Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace**. Read-only.
+Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace** . Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -9,9 +9,9 @@ Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace
 
 ## Syntax
 
- _expression_. **Files**
+ _expression_ . **Files**
 
- _expression_A variable that represents a  **[SharedWorkspace](7512f0ff-382d-d344-9424-aa10549d14f9.md)** object.
+ _expression_ A variable that represents a **[SharedWorkspace](7512f0ff-382d-d344-9424-aa10549d14f9.md)** object.
 
 
 ## Example
@@ -37,8 +37,8 @@ The following example lists the files saved in the current shared workspace.
 #### Concepts
 
 
- [SharedWorkspace Object](7512f0ff-382d-d344-9424-aa10549d14f9.md)
+[SharedWorkspace Object](7512f0ff-382d-d344-9424-aa10549d14f9.md)
 #### Other resources
 
 
- [SharedWorkspace Object Members](e4c2b518-d955-27e1-3e73-173d3c4f961d.md)
+[SharedWorkspace Object Members](e4c2b518-d955-27e1-3e73-173d3c4f961d.md)

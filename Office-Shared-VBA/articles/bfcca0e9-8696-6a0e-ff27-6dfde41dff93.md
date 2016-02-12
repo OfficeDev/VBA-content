@@ -6,9 +6,9 @@ Used to invalidate a built-in control.
 
 ## Syntax
 
- _expression_. **InvalidateControlMso**( **_ControlID_**)
+ _expression_ . **InvalidateControlMso**( **_ControlID_** )
 
- _expression_An expression that returns a  **IRibbonUI** object.
+ _expression_ An expression that returns a **IRibbonUI** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Used to invalidate a built-in control.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ControlID|Required| **String**||
+| _ControlID_|Required| **String**||
 
 ### Return Value
 
@@ -54,8 +54,8 @@ End Sub
 #### Concepts
 
 
- [IRibbonUI Object](d323aa21-de74-e821-c914-db71ef3b9c5e.md)
+[IRibbonUI Object](d323aa21-de74-e821-c914-db71ef3b9c5e.md)
 #### Other resources
 
 
- [IRibbonUI Object Members](c6f6ec3b-3132-da29-ea08-70f20923d013.md)
+[IRibbonUI Object Members](c6f6ec3b-3132-da29-ea08-70f20923d013.md)

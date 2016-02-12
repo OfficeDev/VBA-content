@@ -6,9 +6,9 @@ A  **MsoContactCardAddressType** value that represents the address type for the 
 
 ## Syntax
 
- _expression_. **AddressType**
+ _expression_ . **AddressType**
 
- _expression_An expression that returns a  **IMsoContactCard** object.
+ _expression_ An expression that returns a **IMsoContactCard** object.
 
 
 ## Remarks
@@ -29,8 +29,8 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 #### Concepts
 
 
- [IMsoContactCard Object](337320dd-a60a-fdc5-76a1-c40518171bd6.md)
+[IMsoContactCard Object](337320dd-a60a-fdc5-76a1-c40518171bd6.md)
 #### Other resources
 
 
- [IMsoContactCard Object Members](03c92ec4-11c8-8354-377f-d60ebdb5d2f3.md)
+[IMsoContactCard Object Members](03c92ec4-11c8-8354-377f-d60ebdb5d2f3.md)

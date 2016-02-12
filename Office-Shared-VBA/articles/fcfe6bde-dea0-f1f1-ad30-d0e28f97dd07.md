@@ -12,7 +12,7 @@ Represents a combo box control on a command bar.
 
 ## Remarks
 
-Use  **Controls(index)**, where  _index_ is the index number of the control, to return a **CommandBarComboBox** object. Note that the **Type** property of the control must be **msoControlEdit**,  **msoControlDropdown**,  **msoControlComboBox**,  **msoControlButtonDropdown**,  **msoControlSplitDropdown**,  **msoControlOCXDropdown**,  **msoControlGraphicCombo**, or  **msoControlGraphicDropdown**.
+Use  **Controls(index)** , where _index_ is the index number of the control, to return a **CommandBarComboBox** object. Note that the **Type** property of the control must be **msoControlEdit** , **msoControlDropdown** , **msoControlComboBox** , **msoControlButtonDropdown** , **msoControlSplitDropdown** , **msoControlOCXDropdown** , **msoControlGraphicCombo** , or **msoControlGraphicDropdown** .
 
 
 ## Example
@@ -45,11 +45,8 @@ Set myControl = CommandBars.FindControl _
 ## See also
 
 
-#### Concepts
-
-
- [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 #### Other resources
 
 
- [CommandBarComboBox Object Members](223c51c0-4564-d14a-a8bf-d315a6a50b32.md)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[CommandBarComboBox Object Members](223c51c0-4564-d14a-a8bf-d315a6a50b32.md)
