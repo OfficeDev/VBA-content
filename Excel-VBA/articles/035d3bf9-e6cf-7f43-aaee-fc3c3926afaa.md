@@ -9,7 +9,7 @@ Returns or sets the marker background color as an RGB value. Applies only to lin
 This example sets the marker background and foreground colors for the second point in series one.
 
 
-```
+```vb
 With myChart.SeriesCollection(1).Points(2) 
  .MarkerBackgroundColor = RGB(0,255,0) ' green 
  .MarkerForegroundColor = RGB(255,0,0) ' red 

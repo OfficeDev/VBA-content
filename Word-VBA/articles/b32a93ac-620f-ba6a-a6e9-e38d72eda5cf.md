@@ -16,7 +16,7 @@
 This example sets Microsoft Word to ignore the distinction between space markers used during a search.
 
 
-```
+```vb
 Options.MatchFuzzySpace = True
 ```
 

@@ -16,7 +16,7 @@
 This example enables Word to add captions to tables automatically. Then the example collapses the selection to an insertion point, and inserts a table. A caption is automatically added to the new table.
 
 
-```
+```vb
 AutoCaptions("Microsoft Word Table").AutoInsert = True 
 Selection.Collapse Direction:=wdCollapseStart 
 ActiveDocument.Tables.Add Range:=Selection.Range, _ 

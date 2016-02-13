@@ -1,8 +1,8 @@
-#idSMOs supported in PowerPoint for Mac
+# idSMOs supported in PowerPoint for Mac
 
 Find the idMSOs that are supported in PowerPoint in Office 2016 for Mac.
 
-**Last modified:** January 11, 2016
+**Last modified:** February 3, 2016
 
 ***Applies to:*** *PowerPoint for Mac | Office 2016 for Mac*
 
@@ -10,9 +10,9 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 
 |**idMSO**|**Type**|
 |:-----|:-----|
-|_3DBevelOptionsDialog|button|
-|_3DRotationGallery|gallery|
-|_3DRotationOptionsDialog|button|
+|\_3DBevelOptionsDialog|button|
+|\_3DRotationGallery|gallery|
+|\_3DRotationOptionsDialog|button|
 |3DBevelPictureTopGallery|gallery|
 |About|button|
 |ActionInsert|button|

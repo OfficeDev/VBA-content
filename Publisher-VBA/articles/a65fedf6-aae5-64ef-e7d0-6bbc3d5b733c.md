@@ -42,7 +42,7 @@ If just one data source is connected, the macro prints the name of that data sou
 
 
 
-```
+```vb
 Public Sub Item_Example() 
  
  Dim pubMailMergeDataSources As Publisher.MailMergeDataSources 

@@ -23,7 +23,7 @@ This property returns the starting character position relative to the beginning 
 This example returns the starting position of the second paragraph and the ending position of the fourth paragraph in the active document. The character positions are used to create the range myRange.
 
 
-```
+```vb
 pos = ActiveDocument.Paragraphs(2).Range.Start 
 pos2 = ActiveDocument.Paragraphs(4).Range.End 
 Set myRange = ActiveDocument.Range(Start:=pos, End:=pos2)

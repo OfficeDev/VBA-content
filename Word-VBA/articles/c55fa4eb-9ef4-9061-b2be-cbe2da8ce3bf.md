@@ -16,7 +16,7 @@
 This example sets Microsoft Word to replace a space entered at the beginning of a paragraph with a first-line indent and automatically formats the selected range.
 
 
-```
+```vb
 Options.AutoFormatApplyFirstIndents = True 
 Selection.Range.AutoFormat
 ```

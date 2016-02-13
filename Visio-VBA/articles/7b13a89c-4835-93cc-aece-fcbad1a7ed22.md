@@ -35,7 +35,7 @@ When viewing markup is disabled in the user interface, setting the  **ReviewerMa
 
 
 
-```
+```vb
 ActiveDocument.DocumentSheet.CellsSRC(visSectionObject, visRowDoc, visDocViewMarkup).FormulaU = True
 ```
 
@@ -45,7 +45,7 @@ ActiveDocument.DocumentSheet.CellsSRC(visSectionObject, visRowDoc, visDocViewMar
 This Microsoft Visual Basic for Applications (VBA) macro uses the  **ReviewerMarkupVisible** property to get the current visibility status of reviewer markup for all reviewers in the active Visio drawing window. Then it switches the status to the opposite value. This example assumes that the active window contains markup overlays.
 
 
-```
+```vb
 Public Sub ReviewerMarkupVisible_Example() 
  
  ActiveWindow.Document.DocumentSheet.CellsSRC(visSectionObject, visRowDoc, visDocViewMarkup).FormulaU = True 

@@ -29,7 +29,7 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 This example sets the horizontal and vertical offsets for the shadow of shape three on the first page in the active publication. The shadow is offset 5 points to the right of the shape and 3 points above it. If the shape does not already have a shadow, this example adds one to it.
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes(3).Shadow 
  .Visible = msoTrue 
  .OffsetX = 5 

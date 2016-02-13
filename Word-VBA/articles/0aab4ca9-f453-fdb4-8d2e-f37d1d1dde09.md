@@ -16,7 +16,7 @@
 This example sets Word to automatically adjust the spacing of paragraphs when cutting and pasting selections if the option has been disabled.
 
 
-```
+```vb
 Sub AdjustParaSpace() 
  With Options 
  If .PasteAdjustParagraphSpacing = False Then 

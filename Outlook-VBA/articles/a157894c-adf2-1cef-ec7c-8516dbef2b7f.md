@@ -21,7 +21,7 @@ This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
 The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the  **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender e-mail address in the Test folder.
 
 
-```
+```vb
 Sub SetFlagIcon() 
  
  Dim mpfInbox As Outlook.Folder 

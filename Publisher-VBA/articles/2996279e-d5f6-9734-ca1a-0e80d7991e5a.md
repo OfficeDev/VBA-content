@@ -21,7 +21,7 @@ Long
 This example creates two new shapes and then sets the CMYK fill color for one shape and sets the CMYK values of the second shape to the same CMYK values.
 
 
-```
+```vb
 Sub ReturnAndSetCMYK() 
  Dim lngCyan As Long 
  Dim lngMagenta As Long 

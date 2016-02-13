@@ -16,7 +16,7 @@ Returns the maximum width (in points) to which you can set the width of a Micros
 This example sets the size of the active document window to one quarter of the maximum allowable screen area.
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow 
  .WindowState = wdWindowStateNormal 
  .Top = 5 
@@ -31,7 +31,7 @@ This example displays the size of the working area in the active document window
 
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow 
  MsgBox "Working area height = " _ 
  &amp; .UsableHeight &amp; vbLf _ 

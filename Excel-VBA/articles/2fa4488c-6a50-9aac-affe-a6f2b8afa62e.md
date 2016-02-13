@@ -26,7 +26,7 @@ For 3-D charts, only  **xlPrimary** is valid.
 This example deletes the value axis if it is in the secondary group.
 
 
-```
+```vb
 With myChart.Axes(xlValue) 
  If .AxisGroup = xlSecondary Then .Delete 
 End With 

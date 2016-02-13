@@ -21,7 +21,7 @@ Ruler2
 This example shows how to set a left-aligned tab stop at 2 inches (144 points) for the text in shape one on slide one in the active presentation.
 
 
-```
+```vb
 Public Sub Ruler_Example() 
  
     Dim pptSlide As Slide 

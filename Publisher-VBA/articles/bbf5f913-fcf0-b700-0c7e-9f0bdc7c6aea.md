@@ -46,7 +46,7 @@ The Type parameter can be one of these  **MsoCalloutType** constants.
 The following example adds a new freely-rotating callout line to the first page of the active publication.
 
 
-```
+```vb
 Dim shpCallout As Shape 
  
 Set shpCallout = ActiveDocument.Pages(1).Shapes.AddCallout _ 

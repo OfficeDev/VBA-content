@@ -23,7 +23,7 @@ returns an Empty value.
 
 
 
-```
+```vb
 Sub TableCategories() 
     Dim oT As Outlook.Table 
     Dim oRow As Outlook.Row 

@@ -16,7 +16,7 @@
 This example displays the vertical and horizontal scroll bars for each window in the Windows collection.
 
 
-```
+```vb
 Dim winLoop As Window 
  
 For Each winLoop In Windows 
@@ -30,7 +30,7 @@ This example toggles the vertical scroll bar for the active window.
 
 
 
-```
+```vb
 Dim winTemp As Window 
  
 Set winTemp = ActiveDocument.ActiveWindow 

@@ -21,7 +21,7 @@ When this mode is active, the letters "COL" appear on the status bar.
 This example selects a column of text that's two words across and three lines deep. The example copies the selection to the Clipboard and cancels column selection mode.
 
 
-```
+```vb
 With Selection 
  .Collapse Direction:=wdCollapseStart 
  .ColumnSelectMode = True 

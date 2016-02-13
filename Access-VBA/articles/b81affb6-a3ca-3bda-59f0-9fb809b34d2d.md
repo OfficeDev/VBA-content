@@ -56,7 +56,7 @@ The  **ProcBodyLine** property returns a number that identifies the line on whic
 The following example displays a message indicating on which line the procedure definition begins.
 
 
-```
+```vb
 Dim strForm As String 
 Dim strProc As String 
  

@@ -25,7 +25,7 @@ Use  **Tags**(index), where index is the name of a tag, to return a the tag valu
 
 
 
-```
+```vb
 For Each s In ActivePresentation.Slides
 
     If s.Tags("region") <> "east" Then

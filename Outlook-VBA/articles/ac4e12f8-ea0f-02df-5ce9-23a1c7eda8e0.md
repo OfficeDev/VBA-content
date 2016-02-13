@@ -16,7 +16,7 @@ In this code sample, the function  `ResolveDisplayNameToSMTP` uses the display n
 
 
 
-```
+```vb
 Sub ResolveDisplayNameToSMTP() 
  Dim oRecip As Outlook.Recipient 
  Dim oEU As Outlook.ExchangeUser 

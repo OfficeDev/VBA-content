@@ -33,7 +33,7 @@ The following table shows how the  **Vertices** property associates the values i
 This example assigns the vertex coordinates for shape one in the active publication to the array variable  `vertArray()` and displays the coordinates for the first vertex.
 
 
-```
+```vb
 Dim vertArray As Variant 
 Dim sngX1 As Single 
 Dim sngY1 As Single 
@@ -51,7 +51,7 @@ This example creates a curve that has the same geometric description as shape on
 
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes 
  .AddCurve SafeArrayOfPoints:=.Item(1).Vertices 
 End With 

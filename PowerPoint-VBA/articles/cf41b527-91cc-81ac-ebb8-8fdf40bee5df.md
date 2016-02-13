@@ -32,7 +32,7 @@ The value of the  **Smooth** property can be one of these **MsoTriState** consta
 This example changes smoothing for an animation point.
 
 
-```
+```vb
 Sub ChangeSmooth(ByVal ani As AnimationBehavior, ByVal bln As MsoTriState)
 
     ani.PropertyEffect.Points.Smooth = bln

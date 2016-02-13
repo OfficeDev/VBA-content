@@ -16,7 +16,7 @@
 This example sets Microsoft Excel to ask the user to update links whenever a file that contains links is opened.
 
 
-```
+```vb
 Application.AskToUpdateLinks = True
 ```
 

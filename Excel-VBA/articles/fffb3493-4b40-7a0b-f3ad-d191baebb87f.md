@@ -20,7 +20,7 @@ If all columns in the range have the same width, the  **ColumnWidth** property r
 This example doubles the width of column A on the datasheet.
 
 
-```
+```vb
 With myChart.Application.DataSheet.Columns("A") 
  .ColumnWidth = .ColumnWidth * 2 
 End With

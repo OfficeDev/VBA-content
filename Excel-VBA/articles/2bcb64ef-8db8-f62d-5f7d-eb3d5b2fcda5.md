@@ -28,7 +28,7 @@ The  **VisualTotals** property returns **True** for all new PivotTables. However
 This example determines if the ability to re-total after an item has been hidden from view is available for OLAP PivotTables and notifies the user. The example assumes a PivotTable exists on the active worksheet.
 
 
-```
+```vb
 Sub CheckVisualTotals() 
  
  Dim pvtTable As PivotTable 

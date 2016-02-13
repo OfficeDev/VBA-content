@@ -9,7 +9,7 @@ A collection of pages in a document. Use the  **Pages** collection and the relat
 Use the  **Pages** property to return a **Pages** collection. The following example accesses all pages in the active worksheet.
 
 
-```
+```vb
 Dim objPages As Pages 
  
 Set objPage = ActiveWorksheet. _ 
@@ -21,7 +21,7 @@ Use the  **Item** method to access an individual **Page** object that represents
 
 
 
-```
+```vb
 Dim objPage As Page 
  
 Set objPage = ActiveWorksheet.ActiveWindow _ 

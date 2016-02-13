@@ -34,7 +34,7 @@ To form a closed polygon, assign the same coordinates to the first and last vert
 This example adds a triangle to  `myDocument`. Because the first and last points have the same coordinates, the polygon is closed and filled. The color of the triangle's interior will be the same as the default shape's fill color.
 
 
-```
+```vb
 Dim triArray(1 To 4, 1 To 2) As Single 
 triArray(1, 1) = 25 
 triArray(1, 2) = 100 

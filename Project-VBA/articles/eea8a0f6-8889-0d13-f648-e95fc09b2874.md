@@ -16,7 +16,7 @@ Gets a  **[Shift](bf224646-d1c6-bc4a-1cce-a08b2f4e417d.md)** object representing
 The following example schedules a half-day of work on Fridays by creating an 8 A.M. to noon shift.
 
 
-```
+```vb
 Sub HalfDayFridays() 
  
  With ActiveProject.Calendar.WeekDays(pjFriday) 

@@ -16,7 +16,7 @@ Returns an  **Editors** object that represents all the users authorized to modif
 The following example gives the current user editing permission to modify the active selection.
 
 
-```
+```vb
 Dim objEditor As Editor 
  
 Set objEditor = Selection.Editors.Add(wdEditorCurrent)

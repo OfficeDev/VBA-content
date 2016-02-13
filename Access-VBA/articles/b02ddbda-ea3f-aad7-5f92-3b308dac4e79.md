@@ -31,7 +31,7 @@ Microsoft Access sets this property to  **True** before each section's **Format*
 The following example sets the  **MoveLayout** property for the "Purchase Order" report to its default setting.
 
 
-```
+```vb
 Reports("Purchase Order").MoveLayout = True 
 
 ```

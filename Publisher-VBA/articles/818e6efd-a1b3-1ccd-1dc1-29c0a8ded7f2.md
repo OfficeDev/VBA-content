@@ -37,7 +37,7 @@ Loose and very loose tracking leaves ample space between characters, whereas tig
 This example specifies tight tracking as the preset for the characters in the second story.
 
 
-```
+```vb
 Sub TrackingType() 
  
  Application.ActiveDocument.Stories(2).TextRange _ 

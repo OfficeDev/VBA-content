@@ -16,7 +16,7 @@ Returns or sets the shape style for the specified shape. Read/write  ** [MsoShap
 The following code example changes the shape style for the first shape in the active document.
 
 
-```
+```vb
 Dim myShape As Shape 
  
 Set myShape = ActiveDocument.Shapes(1) 

@@ -9,7 +9,7 @@ Represents a collection of  **[BuildingBlock](2558b89f-8552-bb71-fa40-101cab2635
 Use the  **[Add](22725f33-4de0-95cd-d4a5-a2379b0130c4.md)** method to create a new building block and add it to a template. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](de62f768-011a-7446-48c3-1c4512da5f7c.md)** collection.
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBB As BuildingBlock 
  

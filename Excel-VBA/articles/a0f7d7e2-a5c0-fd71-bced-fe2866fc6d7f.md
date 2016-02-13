@@ -21,7 +21,7 @@ You cannot use this property with ActiveX controls (the  **[Type](93939e9f-2630-
 This example clears all the Microsoft Excel check boxes on worksheet one.
 
 
-```
+```vb
 For Each s In Worksheets(1).Shapes 
  If s.Type = msoFormControl Then 
  If s.FormControlType = xlCheckBox Then _ 

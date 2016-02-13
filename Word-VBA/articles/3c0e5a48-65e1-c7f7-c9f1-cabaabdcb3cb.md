@@ -34,7 +34,7 @@ To take advantage of the collaboration features built into Microsoft Word, docum
 This example checks the server to see if the specified document can be checked in. If it can be, it saves and closes the document and checks it back into the server.
 
 
-```
+```vb
 Sub CheckInOut(docCheckIn As String) 
  If Documents(docCheckIn).CanCheckin = True Then 
  Documents(docCheckIn).CheckIn 
@@ -51,7 +51,7 @@ To call the CheckInOut subroutine, use the following subroutine and replace  _"h
 
 
 
-```
+```vb
 Sub CheckDocInOut() 
  Call CheckInOut (docCheckIn:="http://servername/workspace/report.doc") 
 End Sub

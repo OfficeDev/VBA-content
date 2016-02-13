@@ -16,7 +16,7 @@
 This example turns on the replacement of manual emphasis characters with character formatting.
 
 
-```
+```vb
 Options.AutoFormatAsYouTypeReplacePlainTextEmphasis = True
 ```
 

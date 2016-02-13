@@ -31,7 +31,7 @@ Using this example, you can specify the percentage you want to crop off the bott
 
 
 
-```
+```vb
 percentToCrop = InputBox( _ 
  "What percentage do you want to crop off" &amp; _ 
  " the bottom of this picture?") 

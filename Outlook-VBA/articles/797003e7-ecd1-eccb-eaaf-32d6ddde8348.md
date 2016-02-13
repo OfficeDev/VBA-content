@@ -25,7 +25,7 @@ When you use Automation to control Outlook from another application, you use the
 The following Visual Basic for Applications (VBA) example starts Outlook (if it's not already running) and opens the default Inbox folder.
 
 
-```
+```vb
 Set myNameSpace = Application.GetNameSpace("MAPI") 
  
 Set myFolder= _ 

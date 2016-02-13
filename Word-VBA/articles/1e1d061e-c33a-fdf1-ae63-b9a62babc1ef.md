@@ -42,7 +42,7 @@ Use the FaxAddress key value at this registry location to determine the format t
 The following example sends a fax to the fax service provider, who will fax the message to the recipient.
 
 
-```
+```vb
 ActiveDocument.SendFaxOverInternet _ 
  "14255550101@consolidatedmessenger.com", _ 
  "For your review", True

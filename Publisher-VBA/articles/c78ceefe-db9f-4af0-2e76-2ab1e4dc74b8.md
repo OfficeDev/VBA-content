@@ -49,7 +49,7 @@ EditingType can be one of these  **MsoEditingType** constants.
 This example adds a smooth node with a curved segment after node four in the third shape in the active publication. The shape must be a freeform drawing with at least four nodes.
 
 
-```
+```vb
 With ActiveDocument.Pages(1).Shapes(3).Nodes 
  .Insert Index:=4, _ 
  SegmentType:=msoSegmentCurve, _ 

@@ -30,7 +30,7 @@ Comment
 This example adds a comment at the insertion point.
 
 
-```
+```vb
 Sub AddComment() 
  Selection.Collapse Direction:=wdCollapseEnd 
  ActiveDocument.Comments.Add _ 
@@ -43,7 +43,7 @@ This example adds a comment to the third paragraph in the active document.
 
 
 
-```
+```vb
 Sub Comment3rd() 
  Dim myRange As Range 
  

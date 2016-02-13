@@ -29,7 +29,7 @@ Nothing
 This example moves new sheets to the end of the workbook.
 
 
-```
+```vb
 Private Sub Workbook_NewSheet(ByVal Sh as Object) 
  Sh.Move After:= Sheets(Sheets.Count) 
 End Sub

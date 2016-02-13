@@ -21,7 +21,7 @@ If you save images in the PNG format as opposed to any other file format, you mi
 Alternatively, PNG can be enabled as the global default for the application for newly created documents.
 
 
-```
+```vb
 Application.DefaultWebOptions.AllowPNG = True
 ```
 

@@ -21,7 +21,7 @@ The  **ListRows** object returned does not include the header, total, or Insert 
 The following example deletes a row specified by number in the  **ListRows** collection that is created by a call to the **ListRows** property.
 
 
-```
+```vb
 Sub DeleteListRow(iRowNumber As Integer) 
  Dim wrksht As Worksheet 
  Dim objListObj As ListObject 

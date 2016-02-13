@@ -21,7 +21,7 @@ The returned text range will contain a single object representing the inline sha
 The following example finds the first shape (a text box) on the first page of the publication, and determines if the text range within the text box contains inline shapes. If inline shapes are found, the  **InlineTextRange** property is used to represent the inline shape after a block of text is inserted.
 
 
-```
+```vb
 Dim theShape As Shape 
 Dim theTextRange As TextRange 
 Dim i As Integer 

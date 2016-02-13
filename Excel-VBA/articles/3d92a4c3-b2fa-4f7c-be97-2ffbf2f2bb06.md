@@ -7,7 +7,7 @@ The following example looks at column A, and if there is a blank cell, sets the 
 
 
 
-```
+```vb
 Sub FillCellsFromAbove()
     ' Turn off screen updating to improve performance
     Application.ScreenUpdating = False

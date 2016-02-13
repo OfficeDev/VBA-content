@@ -21,7 +21,7 @@ Documents
 The following example lists all of the open publications.
 
 
-```
+```vb
 Dim objDocument As Document 
 Dim strMsg As String 
 For Each objDocument In Documents 

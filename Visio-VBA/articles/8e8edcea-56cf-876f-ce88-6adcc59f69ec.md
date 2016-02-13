@@ -28,7 +28,7 @@ The value of the **TargetPath** property corresponds to the folder name and file
 The following macro shows how to save the active document as a Web page and place the resulting HTML file and supporting files as flat files in the  _targetpath_ folder. Because the **[StoreInFolder](ed0cf76a-a68d-cfa7-538c-91df5234a0d0.md)** property is set to **False**, the supporting files are placed in the same folder as the root HTML file, instead of in a separate folder that has the name  _filename_files_ or _filename.files_, depending on the language.
 
 
-```
+```vb
 Public Sub TargetPath_Example()
     Dim vsoSaveAsWeb As VisSaveAsWeb 
     Dim vsowebSettings As VisWebPageSettings

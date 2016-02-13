@@ -16,7 +16,7 @@ Returns a  **[Comments](f43bf021-1e46-10cf-09bf-070fc6a2c81a.md)** collection th
 This example deletes all comments added by Jean Selva on the active sheet.
 
 
-```
+```vb
 For Each c in ActiveSheet.Comments 
  If c.Author = "Jean Selva" Then c.Delete 
 Next

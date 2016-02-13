@@ -1,5 +1,3 @@
-Find content to help you make your existing VBA add-ins and macros compatible with Office 2016 for Mac.
-<!--This is the start of the TOC-->
 # Office for Mac articles
 - [Office for Mac overview](articles/Introduction.md)
 - [Request access to multiple files](articles/GrantAccessToMultipleFiles.md)

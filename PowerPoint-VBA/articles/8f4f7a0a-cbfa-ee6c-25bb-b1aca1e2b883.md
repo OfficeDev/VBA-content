@@ -35,7 +35,7 @@ The  **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle
 This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes.AddLine(100, 100, 200, 300).Line

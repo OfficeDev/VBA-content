@@ -21,7 +21,7 @@ This method reroutes all connectors attached to the specified shape; if the spec
 This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect**and  **EndConnect** methods.
 
 
-```
+```vb
 Dim shpRect1 As Shape 
 Dim shpRect2 As Shape 
  

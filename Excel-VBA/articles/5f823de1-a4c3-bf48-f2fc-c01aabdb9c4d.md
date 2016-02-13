@@ -18,7 +18,7 @@ Use the  **DataLabel** property to return the **DataLabel** object for a single 
 
 
 
-```
+```vb
 With myChart 
  With .SeriesCollection(1).Points(2) 
  .HasDataLabel = True 
@@ -32,7 +32,7 @@ For a trendline, the  **DataLabel** property returns the text shown with the tre
 
 
 
-```
+```vb
 With myChart.SeriesCollection(1).Trendlines(1) 
  .DisplayRSquared = False 
  .DisplayEquation = True 

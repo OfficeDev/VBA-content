@@ -29,7 +29,7 @@ An Object value that represents an object contained by the collection.
 This example sets format properties for an existing conditional format for cells E1:E10.
 
 
-```
+```vb
 With Worksheets(1).Range("e1:e10").FormatConditions.Item(1) 
  With .Borders 
  .LineStyle = xlContinuous 

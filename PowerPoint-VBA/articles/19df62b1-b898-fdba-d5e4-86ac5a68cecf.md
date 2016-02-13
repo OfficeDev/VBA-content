@@ -26,7 +26,7 @@ The value of the  **Time** property can be any floating-point value between 0 an
 This example inserts three fill color animation points in the main sequence animation timeline on the first slide.
 
 
-```
+```vb
 Sub BuildTimeLine()
 
 

@@ -40,7 +40,7 @@ You can insert multiple instances of the Visio Drawing Control in your applicati
 To gain access to the Visio object model, use the  **Window** or **Document** property of the Visio Drawing Control. Use the following code to get a Visio **Window** object:
 
 
-```
+```vb
 Dim vsoWindow As Visio.Window
 Set vsoWindow = DrawingControl1.Window
 ```
@@ -50,7 +50,7 @@ Use the following code to get a Visio  **Document** object:
 
 
 
-```
+```vb
 Dim vsoDocument As Visio.Document
 Set vsoDocument = DrawingControl1.Document
 ```
@@ -70,7 +70,7 @@ With these objects you have access to all the rest of the Visio object model. Fo
 
 
 
-```
+```vb
 Dim vsoWindow As Visio.Window
 Set vsoWindow = DrawingControl1.Window
 vsoWindow.ShowGrid = False
@@ -133,7 +133,7 @@ These events are similar to the Visual Basic events that have the same names, al
 You can use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a  **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
 
 
-```
+```vb
 Private Sub DrawingControl1_MouseDown(ByVal Button As Long, ByVal KeyButtonState As Long, ByVal x As Double, ByVal y As Double, CancelDefault As Boolean)
  
   MsgBox "You have clicked the mouse.", , "Drawing Control Event"

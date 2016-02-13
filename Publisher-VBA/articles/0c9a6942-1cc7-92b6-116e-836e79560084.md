@@ -16,7 +16,7 @@ Returns or sets a  **String** that represents the text used by the Web page to l
 This example creates a new Web text box and specifies the label for the text in the text box when the page is submitted.
 
 
-```
+```vb
 Sub LabelWebTextBoxControl() 
  With ActiveDocument.Pages(1).Shapes _ 
  .AddWebControl(Type:=pbWebControlSingleLineTextBox, _ 

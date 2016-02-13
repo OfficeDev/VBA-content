@@ -21,7 +21,7 @@ If the  **DropDown** property is applied to a **FormField** object that isn't a 
 This example displays the text of the item selected in the drop-down form field named "Colors."
 
 
-```
+```vb
 Dim ffDrop As FormField 
  
 Set ffDrop = ActiveDocument.FormFields("Colors").DropDown 
@@ -34,7 +34,7 @@ This example adds "Seattle" to the drop-down form field named "Places" in Form.d
 
 
 
-```
+```vb
 With Documents("Form.doc").FormFields("Places") _ 
  .DropDown.ListEntries 
  .Add Name:="Seattle" 

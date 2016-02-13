@@ -21,7 +21,7 @@ Use the  **[PresetGradient](bffe754d-6593-9684-abf4-b5d1e9df720e.md)** method to
 This example changes the fill for all shapes in  `myDocument` with the Moss preset gradient fill to the Fog preset gradient fill.
 
 
-```
+```vb
 Set myDocument = ActiveDocument 
 For Each s In myDocument.Shapes 
  With s.Fill 

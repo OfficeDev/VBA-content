@@ -1,8 +1,8 @@
-#idSMOs supported in Excel for Mac
+# idSMOs supported in Excel for Mac
 
 Find the idMSOs that are supported in Excel in Office 2016 for Mac.
 
-**Last modified:** January 11, 2016
+**Last modified:** February 3, 2016
 
 ***Applies to:*** *Excel for Mac | Office 2016 for Mac*
 
@@ -10,37 +10,37 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 
 |**idMSO**|**Type**|
 |:-----|:-----|
-|_3DBevelOptionsDialog|button|
-|_3DDirectionGalleryClassic|gallery|
-|_3DEffectColorPickerClassic|gallery|
-|_3DEffectColorPickerMoreClassic|button|
-|_3DEffectsGalleryClassic|gallery|
-|_3DEffectsOnOffClassic|toggleButton|
-|_3DExtrusionDepth144Classic|control|
-|_3DExtrusionDepth288Classic|control|
-|_3DExtrusionDepth36Classic|control|
-|_3DExtrusionDepth72Classic|control|
-|_3DExtrusionDepthGalleryClassic|gallery|
-|_3DExtrusionDepthInfinityClassic|control|
-|_3DExtrusionDepthNoneClassic|control|
-|_3DExtrusionParallelClassic|toggleButton|
-|_3DExtrusionPerspectiveClassic|toggleButton|
-|_3DLightingDimClassic|toggleButton|
-|_3DLightingFlatClassic|toggleButton|
-|_3DLightingGalleryClassic|gallery|
-|_3DLightingNormalClassic|toggleButton|
-|_3DRotationGallery|gallery|
-|_3DRotationOptionsDialog|button|
-|_3DSurfaceMaterialClassic|menu|
-|_3DSurfaceMaterialGalleryClassic|gallery|
-|_3DSurfaceMatteClassic|control|
-|_3DSurfaceMetalClassic|control|
-|_3DSurfacePlasticClassic|control|
-|_3DSurfaceWireFrameClassic|control|
-|_3DTiltDownClassic|button|
-|_3DTiltLeftClassic|button|
-|_3DTiltRightClassic|button|
-|_3DTiltUpClassic|button|
+|\_3DBevelOptionsDialog|button|
+|\_3DDirectionGalleryClassic|gallery|
+|\_3DEffectColorPickerClassic|gallery|
+|\_3DEffectColorPickerMoreClassic|button|
+|\_3DEffectsGalleryClassic|gallery|
+|\_3DEffectsOnOffClassic|toggleButton|
+|\_3DExtrusionDepth144Classic|control|
+|\_3DExtrusionDepth288Classic|control|
+|\_3DExtrusionDepth36Classic|control|
+|\_3DExtrusionDepth72Classic|control|
+|\_3DExtrusionDepthGalleryClassic|gallery|
+|\_3DExtrusionDepthInfinityClassic|control|
+|\_3DExtrusionDepthNoneClassic|control|
+|\_3DExtrusionParallelClassic|toggleButton|
+|\_3DExtrusionPerspectiveClassic|toggleButton|
+|\_3DLightingDimClassic|toggleButton|
+|\_3DLightingFlatClassic|toggleButton|
+|\_3DLightingGalleryClassic|gallery|
+|\_3DLightingNormalClassic|toggleButton|
+|\_3DRotationGallery|gallery|
+|\_3DRotationOptionsDialog|button|
+|\_3DSurfaceMaterialClassic|menu|
+|\_3DSurfaceMaterialGalleryClassic|gallery|
+|\_3DSurfaceMatteClassic|control|
+|\_3DSurfaceMetalClassic|control|
+|\_3DSurfacePlasticClassic|control|
+|\_3DSurfaceWireFrameClassic|control|
+|\_3DTiltDownClassic|button|
+|\_3DTiltLeftClassic|button|
+|\_3DTiltRightClassic|button|
+|\_3DTiltUpClassic|button|
 |3DBevelPictureTopGallery|gallery|
 |About|button|
 |AccessibilityChecker|button|

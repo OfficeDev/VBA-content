@@ -16,7 +16,7 @@
 This example removes error bars from series one in Chart1. The example should be run on a 2-D line chart that has error bars for series one.
 
 
-```
+```vb
 Charts("Chart1").SeriesCollection(1).HasErrorBars = False
 ```
 

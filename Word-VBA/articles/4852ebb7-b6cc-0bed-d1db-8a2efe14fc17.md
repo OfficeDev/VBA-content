@@ -16,7 +16,7 @@
 This example combines the characters in the selected range.
 
 
-```
+```vb
 Selection.Range.CombineCharacters = True
 ```
 

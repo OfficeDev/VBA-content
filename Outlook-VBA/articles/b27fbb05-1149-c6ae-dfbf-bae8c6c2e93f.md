@@ -13,7 +13,7 @@ The following Microsoft Visual Basic for Applications (VBA) example illustrates 
 
 
 
-```
+```vb
 Sub OutlookEntryID() 
  ' If there are more than 500 contacts, change the following line: 
  Dim MyEntryID(500) As String 

@@ -25,7 +25,7 @@ Use the  **CreatedBy** , **CreatedDate** , **ModifiedBy** , and **ModifiedDate**
 The following example modifies the first link in the shared workspace site to point to the Microsoft Developer Network home page, then uploads the changes to the server.
 
 
-```
+```vb
     Dim swsLink As Office.SharedWorkspaceLink 
     Set swsLink = ActiveWorkbook.SharedWorkspace.Links(1) 
     With swsLink 

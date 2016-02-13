@@ -26,7 +26,7 @@ Returns 0 (zero) if no errors occur when the fields are updated, or returns a  *
 This example updates all the fields in the main story (that is, the main body) of the active document. A return value of 0 (zero) indicates that the fields were updated without error.
 
 
-```
+```vb
 If ActiveDocument.Fields.Update = 0 Then 
  MsgBox "Update Successful" 
 Else 

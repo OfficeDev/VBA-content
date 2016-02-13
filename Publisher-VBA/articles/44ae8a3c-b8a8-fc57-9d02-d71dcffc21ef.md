@@ -20,7 +20,7 @@ The following example displays the field names in the data source attached to th
 
 
 
-```
+```vb
 Sub ShowFieldNames() 
  Dim intCount As Integer 
  With ActiveDocument.MailMerge.DataSource.DataFields 
@@ -36,7 +36,7 @@ Use  **DataFields**(index), where index is the data field name or the index numb
 
 
 
-```
+```vb
 Sub GetDataFromSource() 
  With ActiveDocument.MailMerge.DataSource.DataFields 
  MsgBox "First field name: " &amp; .Item(1).Name &amp; vbLf &amp; _ 

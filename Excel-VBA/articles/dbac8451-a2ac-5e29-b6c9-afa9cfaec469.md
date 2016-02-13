@@ -13,7 +13,7 @@ True if the first letter of day names is capitalized automatically. Read/write B
 This example sets Microsoft Graph to capitalize the first letter of the names of days.
 
 
-```
+```vb
 With myChart.Application.AutoCorrect 
  .CapitalizeNamesOfDays = True 
  .ReplaceText = True 

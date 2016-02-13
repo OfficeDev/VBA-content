@@ -16,7 +16,7 @@
 This example restores each shape on  _myDocument_ to its original state if it has been flipped horizontally or vertically.
 
 
-```
+```vb
 For Each s In ActiveDocument.Range.ShapeRange 
  If s.HorizontalFlip Then s.Flip msoFlipHorizontal 
  If s.VerticalFlip Then s.Flip msoFlipVertical 

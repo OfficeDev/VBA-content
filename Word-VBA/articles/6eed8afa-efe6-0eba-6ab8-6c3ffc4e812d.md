@@ -25,7 +25,7 @@ Occurs after all records in a mail merge have merged successfully.
 This example displays a message stating that all records in the specified document are finished merging. If the document has been merged to a second document, the message includes the name of the new document. This example assumes that you have declared an application variable called MailMergeApp in your general declarations and have set the variable equal to the Word Application object.
 
 
-```
+```vb
 Private Sub MailMergeApp_MailMergeAfterMerge(ByVal Doc As Document, _ 
  ByVal DocResult As Document) 
  If DocResult Is Nothing Then 

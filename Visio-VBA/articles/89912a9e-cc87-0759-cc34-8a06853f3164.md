@@ -25,7 +25,7 @@ Before running this macro, replace references to  _fullpath\filename_ and _filen
 
 
 
-```
+```vb
  
 Public Sub EventList_Example() 
  

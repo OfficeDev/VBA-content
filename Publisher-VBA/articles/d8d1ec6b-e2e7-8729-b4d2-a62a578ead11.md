@@ -16,7 +16,7 @@ Returns a  **Long** that represents the type of a shape, range of shapes, or pro
 This example displays the type for each shape on the first page of the active publication.
 
 
-```
+```vb
 Sub ShapeID() 
  Dim shp As Shape 
  For Each shp In ActiveDocument.Pages(1).Shapes 

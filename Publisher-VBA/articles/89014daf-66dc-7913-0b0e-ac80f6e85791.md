@@ -21,7 +21,7 @@ When accessing the  **Wizard** property from the **Document** or **Page** object
 The following example reports on the publication design associated with the active publication, displaying its name and current settings.
 
 
-```
+```vb
 Dim wizTemp As Wizard 
 Dim wizproTemp As WizardProperty 
 Dim wizproAll As WizardProperties 

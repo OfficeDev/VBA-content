@@ -21,7 +21,7 @@ When executed, the  **EndReview** method displays a message asking the user whet
 This example terminates the review of the active document. This example assumes the active document part of a review cycle.
 
 
-```
+```vb
 Sub EndDocRev() 
  ActiveDocument.EndReview 
 End Sub

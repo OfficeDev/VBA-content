@@ -32,7 +32,7 @@ A String value that represents the new string, after replacement.
 This example replaces abcdef with ac-ef and notifies the user during this process.
 
 
-```
+```vb
 Sub UseReplace() 
  
  Dim strCurrent As String 

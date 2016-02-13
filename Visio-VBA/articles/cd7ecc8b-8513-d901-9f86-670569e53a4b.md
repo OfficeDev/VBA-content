@@ -30,7 +30,7 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Stat** property to check the status of a **Document** object. Executing the macro prints 0 ( **visStatNormal**) and then 8 ( **visStatClosed**) in the  **Immediate** window.
 
 
-```
+```vb
  
 Public Sub Stat_Example() 
  

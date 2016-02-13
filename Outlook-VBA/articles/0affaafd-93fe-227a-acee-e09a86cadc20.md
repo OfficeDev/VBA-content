@@ -18,7 +18,7 @@ By default, each item in the returned  **Table** contains only a default subset 
 The following code sample illustrates how the  **Table** object can return a filtered set of items based on their **LastModificationTime** property. It also shows how to list the default properties as well as specific properties of the items.
 
 
-```
+```vb
 Sub DemoTable() 
  
  'Declarations 

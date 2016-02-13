@@ -16,7 +16,7 @@ Returns a  **NewFile** object that represents a document listed on the **New** t
 This example creates a document list item on the New Document task pane in the New From Existing File section.
 
 
-```
+```vb
 Sub CreateNewDocument() 
  Application.NewDocument.Add FileName:="C:\NewFile.doc", _ 
  Section:=msoNewfromExistingFile, DisplayName:="New File", _ 

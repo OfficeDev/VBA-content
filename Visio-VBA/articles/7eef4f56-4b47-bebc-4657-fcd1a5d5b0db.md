@@ -45,7 +45,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 This example shows how to export a Visio page as a bitmap (.bmp) file. It assumes a drawing page is open and active in Microsoft Visio.
 
 
-```
+```vb
 Public Sub Export_Example() 
     Dim vsoPage As Visio.Page 
     Set vsoPage = ActivePage 

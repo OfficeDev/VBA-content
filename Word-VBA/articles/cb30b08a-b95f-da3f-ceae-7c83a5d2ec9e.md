@@ -16,7 +16,7 @@ Returns the number of the table column that contains the specified cell. Read-on
 This example creates a table in a new document, selects each cell in the first row, and returns the column number that contains the selected cell.
 
 
-```
+```vb
 Dim docNew As Document 
 Dim tableNew As Table 
 Dim cellLoop As Cell 

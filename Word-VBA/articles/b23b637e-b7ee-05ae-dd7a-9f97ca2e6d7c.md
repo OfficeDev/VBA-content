@@ -16,7 +16,7 @@ Moves the selection to the previous item indicated by the browser target. Use th
 This example moves the insertion point into the first cell (the cell in the upper-left corner) of the previous table.
 
 
-```
+```vb
 With Application.Browser 
  .Target = wdBrowseTable 
  .Previous 

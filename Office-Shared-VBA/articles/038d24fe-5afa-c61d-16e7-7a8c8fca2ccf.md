@@ -29,7 +29,7 @@ The  **Title** property is the single required property of a shared workspace ta
 The following example displays a list of the titles of all tasks in the current shared workspace.
 
 
-```
+```vb
  Dim swsTask As Office.SharedWorkspaceTask 
     Dim strTasks As String 
     For Each swsTask In ActiveWorkbook.SharedWorkspace.Tasks 

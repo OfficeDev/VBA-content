@@ -14,7 +14,7 @@ Setting this property sets the  **[MinimumScaleIsAuto](95ed7a2b-efda-b05a-da2e-7
 This example sets the minimum and maximum values for the value axis.
 
 
-```
+```vb
 With myChart.Axes(xlValue) 
  .MinimumScale = 10 
  .MaximumScale = 120 

@@ -1,8 +1,8 @@
-#Request access to multiple files
+# Request access to multiple files
 
 Use the **GrantAccessToMultipleFiles** command to request access to multiple files at once in your Office 2016 for Mac solution.
 
-**Last modified:** January 11, 2016 
+**Last modified:** January 26, 2016 
 
 ***Applies to:*** *Excel for Mac | PowerPoint for Mac | Word for Mac | Office 2016 for Mac*
 
@@ -10,11 +10,11 @@ Unlike VBA macros in Office for Mac 2011, VBA macros in Office 2016 for Mac don�
 
 Existing macro file commands prompt the user for permission to access a file if the app doesn’t have access to it. This means that macros that access external files cannot run unattended. The user must approve file access the first time each file is referenced. You can use the **GrantAccessToMultipleFiles** command to minimize the number of prompts in order to improve the user experience. 
 
-#GrantAccessToMultipleFiles command
+## GrantAccessToMultipleFiles command
 Use the **GrantAccessToMultipleFiles** command to input an array of file paths and prompt the user for permission to access them.
 
-```
-Boolean  GrantAccessToMultipleFiles(fileArray) 
+```vb
+    Boolean  GrantAccessToMultipleFiles(fileArray) 
 ```
 
 |**Parameter**|**Description**|
@@ -32,18 +32,18 @@ The command returns whether the user granted permission or not.
 
 **Example**
 
-```
-Sub requestFileAccess()  
+```vb
+    Sub requestFileAccess()  
 
-'Declare Variables  
+    'Declare Variables  
     Dim fileAccessGranted As Boolean  
     Dim filePermissionCandidates 
   
- 'Create an array with file paths for the permissions that are needed.  
+   'Create an array with file paths for the permissions that are needed.  
     filePermissionCandidates = Array("/Users//Desktop/test1.txt", "/Users//Desktop/test2.txt") 
   
-'Request access from user.  
-    fileAccessGranted = GrantAccessToMultipleFiles(filePermissionCandidates) 
-'Returns true if access is granted; otherwise, false. 
-End Sub
+    'Request access from user.  
+     fileAccessGranted = GrantAccessToMultipleFiles(filePermissionCandidates) 
+    'Returns true if access is granted; otherwise, false. 
+    End Sub
 ```

@@ -25,7 +25,7 @@ Since this example accesses the Word object model, you must first add a referenc
 
 
 
-```
+```vb
 Sub InsertBodyTextInWordEditor() 
  Dim myItem As Outlook.MailItem 
  Dim myInspector As Outlook.Inspector 

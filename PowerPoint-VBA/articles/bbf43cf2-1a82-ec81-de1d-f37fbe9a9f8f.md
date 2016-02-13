@@ -32,7 +32,7 @@ Do not confuse this property with the  **By**property of the  **[ColorEffect](c2
 The following example adds an animation path; then sets the horizontal and vertical movement of the shape.
 
 
-```
+```vb
 Sub AddMotionPath()
 
 

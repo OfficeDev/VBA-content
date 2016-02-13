@@ -21,7 +21,7 @@ The  **RevisionsBalloonWidthType** property sets the measurement unit to use whe
 This example sets the width of the revision balloons to twenty-five percent of the document's width. This example assumes that the document in the active window contains revisions made by one or more reviewers and that revisions are displayed in balloons.
 
 
-```
+```vb
 Sub BalloonWidthType() 
  With ActiveWindow.View 
  .RevisionsBalloonWidthType = wdBalloonWidthPercent 

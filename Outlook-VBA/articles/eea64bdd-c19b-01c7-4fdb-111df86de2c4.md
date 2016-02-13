@@ -16,7 +16,7 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Appoi
 This Visual Basic for Applications example uses  ** [Application.CreateItem](e5fbf367-db16-5042-823e-68e6b805e612.md)**to create an appointment and uses  ** [AppointmentItem.MeetingStatus](cfd970cd-df6c-4537-0a17-b5adab3b667f.md)**to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
-```
+```vb
 Sub ScheduleMeeting() 
  
  Dim myItem as AppointmentItem 

@@ -36,7 +36,7 @@ It is also possible to supply much of this information by setting properties of 
 
 
 
-```
+```vb
 With objConn 
  .Provider = "SQLOLEDB" 
  .DefaultDatabase = "Northwind" 

@@ -19,7 +19,7 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-```
+```vb
 Private Sub UserForm_Initialize() 
  MultiPage1.Page1.ControlTipText = "Here in page 1" 
  MultiPage1.Page2.ControlTipText = "Now in page 2" 

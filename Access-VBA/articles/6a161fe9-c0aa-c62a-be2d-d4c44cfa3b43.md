@@ -7,7 +7,7 @@ In the Orders Subform class module enter:
 
 
 
-```
+```vb
 Public Function GetProductID() As Variant 
  ' Return current productID. 
  GetProductID = ProductID 
@@ -25,7 +25,7 @@ You can also create a new instance of the form that is being used as a subform, 
 
 
 
-```
+```vb
 Dim frm As New [Form_Orders Subform] 
 frm.GetProductID
 ```

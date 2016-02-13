@@ -14,7 +14,7 @@ The following code example shows how to instantiate the child recordset of the A
 
 
 
-```
+```vb
    Set rs  = db.OpenRecordSet("Tasks") 
    Set childRs = rs.AssignedTo.Value 
 
@@ -25,7 +25,7 @@ The following code example shows how to iterate through a parent recordset and i
 
 
 
-```
+```vb
 Sub BrowseMultiValueField() 
    Dim db As Database 
    Dim rs As Recordset 

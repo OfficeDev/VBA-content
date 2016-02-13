@@ -16,7 +16,7 @@ Used without an object qualifier, this property returns an  **[Application](acfc
 This example displays the version and build information for Publisher.
 
 
-```
+```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
  &amp; .Version &amp; " build " &amp; .Build 
@@ -28,7 +28,7 @@ This example displays the name of the application that created each linked OLE o
 
 
 
-```
+```vb
 Dim shpOle As Shape 
  
 For Each shpOle In ActiveDocument.Pages(1).Shapes 

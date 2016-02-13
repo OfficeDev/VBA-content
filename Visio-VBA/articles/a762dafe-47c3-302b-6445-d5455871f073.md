@@ -43,7 +43,7 @@ The  **ShapeAdded** event handler runs each time a shape is added to the drawing
 
 
 
-```
+```vb
  
 Dim intNumberOfSquares As Integer 
  
