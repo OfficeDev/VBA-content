@@ -6,9 +6,9 @@ Copies the content control from the active document to the Clipboard.
 
 ## Syntax
 
- _expression_. **Copy**
+ _expression_ . **Copy**
 
- _expression_An expression that returns a  **ContentControl** object.
+ _expression_ An expression that returns a **ContentControl** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ When you use the  **Copy** method, the original content control remains in the a
 #### Concepts
 
 
- [ContentControl Object](783dec26-9b63-11f8-6187-985f9c815f27.md)
+[ContentControl Object](783dec26-9b63-11f8-6187-985f9c815f27.md)
 #### Other resources
 
 
- [ContentControl Object Members](d5aa195c-8d7a-0bad-09fa-6f1bfc9828cc.md)
+[ContentControl Object Members](d5aa195c-8d7a-0bad-09fa-6f1bfc9828cc.md)

@@ -6,9 +6,9 @@ Returns a  **Comment** object that represents a comment added to a range.
 
 ## Syntax
 
- _expression_. **Add**( **_Range_**,  **_Text_**)
+ _expression_ . **Add**( **_Range_** , **_Text_** )
 
- _expression_Required. A variable that represents a  **[Comments](e384b37a-50e3-a214-52a8-6fda2acc4991.md)** collection.
+ _expression_ Required. A variable that represents a **[Comments](e384b37a-50e3-a214-52a8-6fda2acc4991.md)** collection.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Returns a  **Comment** object that represents a comment added to a range.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Required| **Range object**|The range to have a comment added to it.|
-|Text|Optional| **Variant**|The text of the comment.|
+| _Range_|Required| **Range object**|The range to have a comment added to it.|
+| _Text_|Optional| **Variant**|The text of the comment.|
 
 ### Return Value
 
@@ -30,7 +30,7 @@ Comment
 This example adds a comment at the insertion point.
 
 
-```vb
+```
 Sub AddComment() 
  Selection.Collapse Direction:=wdCollapseEnd 
  ActiveDocument.Comments.Add _ 
@@ -43,7 +43,7 @@ This example adds a comment to the third paragraph in the active document.
 
 
 
-```vb
+```
 Sub Comment3rd() 
  Dim myRange As Range 
  
@@ -60,8 +60,8 @@ End Sub
 #### Concepts
 
 
- [Comments Collection Object](e384b37a-50e3-a214-52a8-6fda2acc4991.md)
+[Comments Collection Object](e384b37a-50e3-a214-52a8-6fda2acc4991.md)
 #### Other resources
 
 
- [Comments Object Members](2cd992bf-9e18-7f0e-3e8b-b3507ffd9bc7.md)
+[Comments Object Members](2cd992bf-9e18-7f0e-3e8b-b3507ffd9bc7.md)

@@ -6,9 +6,9 @@ Scrolls a window or pane by the specified number of screens.
 
 ## Syntax
 
- _expression_. **LargeScroll**( **_Down_**,  **_Up_**,  **_ToRight_**,  **_ToLeft_**)
+ _expression_ . **LargeScroll**( **_Down_** , **_Up_** , **_ToRight_** , **_ToLeft_** )
 
- _expression_Required. A variable that represents a  **[Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
+ _expression_ Required. A variable that represents a **[Window](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)** object.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ Scrolls a window or pane by the specified number of screens.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Down|Optional| **Variant**|The number of screens to scroll the window down.|
-|Up|Optional| **Variant**|The number of screens to scroll the window up.|
-|ToRight|Optional| **Variant**|The number of screens to scroll the window to the right.|
-|ToLeft|Optional| **Variant**|The number of screens to scroll the window to the left.|
+| _Down_|Optional| **Variant**|The number of screens to scroll the window down.|
+| _Up_|Optional| **Variant**|The number of screens to scroll the window up.|
+| _ToRight_|Optional| **Variant**|The number of screens to scroll the window to the right.|
+| _ToLeft_|Optional| **Variant**|The number of screens to scroll the window to the left.|
 
 ## Remarks
 
@@ -45,7 +45,7 @@ This example splits the active window and then scrolls up two screens and to the
 
 
 
-```vb
+```
 With ActiveDocument.ActiveWindow 
  .Split = True 
  .LargeScroll Up:=2, ToRight:=1 
@@ -59,8 +59,8 @@ End With
 #### Concepts
 
 
- [Window Object](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)
+[Window Object](d92f83f9-ae44-56c0-4584-7a9359253c6d.md)
 #### Other resources
 
 
- [Window Object Members](c0dec747-3695-4f96-ea25-05b6494aad7e.md)
+[Window Object Members](c0dec747-3695-4f96-ea25-05b6494aad7e.md)

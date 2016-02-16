@@ -1,14 +1,14 @@
 
 # ChartColorFormat.RGB Property (Word)
 
-Returns the red-green-blue value of the specified color. Read-only  **Long**.
+Returns the red-green-blue value of the specified color. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **RGB**
+ _expression_ . **RGB**
 
- _expression_A variable that represents a  **[ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
+ _expression_ A variable that represents a **[ChartColorFormat](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns the red-green-blue value of the specified color. Read-only  **Long**.
 The following example enables up and down bars, then adds a criss-cross pattern to the down bars and sets the pattern color to the chart area foreground fill color, for the first chart group of the first chart in the active document.
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  With .Chart 
@@ -36,8 +36,8 @@ End With
 #### Concepts
 
 
- [ChartColorFormat Object](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)
+[ChartColorFormat Object](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)
 #### Other resources
 
 
- [ChartColorFormat Object Members](f3bbb759-bbc1-366c-a6ce-151c47580fa7.md)
+[ChartColorFormat Object Members](f3bbb759-bbc1-366c-a6ce-151c47580fa7.md)

@@ -6,9 +6,9 @@ Returns a  **[MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** colle
 
 ## Syntax
 
- _expression_. **MappedDataFields**
+ _expression_ . **MappedDataFields**
 
- _expression_An expression that returns a  **[MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
+ _expression_ An expression that returns a **[MailMergeDataSource](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **[MappedDataFields](d67de1fb-f495-ff4a-f21d-fd165a96232c.md)** colle
 This example creates a tabbed list of the mapped data fields available in Word and the fields in the data source to which they are mapped. This example assumes that the current document is a mail merge document.
 
 
-```vb
+```
 Sub MappedFields() 
  Dim intCount As Integer 
  Dim docCurrent As Document 
@@ -64,8 +64,8 @@ End Sub
 #### Concepts
 
 
- [MailMergeDataSource Object](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)
+[MailMergeDataSource Object](f86f7d3c-d7ab-45e8-21e7-fd5a426e0391.md)
 #### Other resources
 
 
- [MailMergeDataSource Object Members](a52f088c-2507-8f39-17b9-9b97c8a8ed7e.md)
+[MailMergeDataSource Object Members](a52f088c-2507-8f39-17b9-9b97c8a8ed7e.md)

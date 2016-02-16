@@ -1,14 +1,14 @@
 
 # Paragraph.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
+ _expression_ Required. A variable that represents a **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [Paragraph Object](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)
+[Paragraph Object](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)
 #### Other resources
 
 
- [Paragraph Object Members](e1fc5b91-e908-580e-ab72-898648a5c0c3.md)
+[Paragraph Object Members](e1fc5b91-e908-580e-ab72-898648a5c0c3.md)

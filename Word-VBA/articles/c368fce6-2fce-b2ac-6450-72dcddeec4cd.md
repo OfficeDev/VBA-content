@@ -6,9 +6,9 @@ Displays the code window for the selected Microsoft ActiveX control in the speci
 
 ## Syntax
 
- _expression_. **ViewCode**
+ _expression_ . **ViewCode**
 
- _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_ Required. A variable that represents a **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ This method is available only from outside Microsoft Word.
 #### Concepts
 
 
- [Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
+[Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
 #### Other resources
 
 
- [Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)
+[Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)

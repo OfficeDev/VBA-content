@@ -8,7 +8,7 @@ Represents a single table of authorities category. The  **TableOfAuthoritiesCate
 
 The  **TablesOfAuthoritiesCategories** collection includes all 16 categories listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box.
 
-Use  **TablesOfAuthoritiesCategories**(Index), where Index is the category name or index number, to return a single  **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
+Use  **TablesOfAuthoritiesCategories** (Index), where Index is the category name or index number, to return a single **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
 
 
 
@@ -33,11 +33,8 @@ The  **Add** method isn't available for the **TablesOfAuthoritiesCategories** co
 ## See also
 
 
-#### Concepts
-
-
- [Word Object Model Reference](be452561-b436-bb9b-6f94-3faa9a74a6fd.md)
 #### Other resources
 
 
- [TableOfAuthoritiesCategory Object Members](585e2283-46c2-42f1-e51b-3dcb9cf876e7.md)
+[TableOfAuthoritiesCategory Object Members](585e2283-46c2-42f1-e51b-3dcb9cf876e7.md)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

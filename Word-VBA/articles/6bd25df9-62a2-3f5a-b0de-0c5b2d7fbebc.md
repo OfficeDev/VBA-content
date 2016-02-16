@@ -6,9 +6,9 @@ Returns an  **Object** that represents the parent object of the specified **Full
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_A variable that represents a  **FullSeriesCollection** object.
+ _expression_ A variable that represents a **FullSeriesCollection** object.
 
 
 ## Property value
@@ -22,5 +22,5 @@ Returns an  **Object** that represents the parent object of the specified **Full
 #### Other resources
 
 
- [FullSeriesCollection Object](a0786c15-27f7-5ba8-eaba-7b982d951fd8.md)
- [FullSeriesCollection Object Members](44630853-8b1f-5632-0ac0-a45c3c9e573f.md)
+[FullSeriesCollection Object](a0786c15-27f7-5ba8-eaba-7b982d951fd8.md)
+[FullSeriesCollection Object Members](44630853-8b1f-5632-0ac0-a45c3c9e573f.md)

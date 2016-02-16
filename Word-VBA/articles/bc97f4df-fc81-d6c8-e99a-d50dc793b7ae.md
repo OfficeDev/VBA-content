@@ -9,7 +9,7 @@ Contains font attributes (such as font name, font size and color) for an object.
 Use the  **Font** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
-```vb
+```
 Selection.Font.Bold = True
 ```
 
@@ -18,7 +18,7 @@ The following example formats the first paragraph in the active document as 24po
 
 
 
-```vb
+```
 Set myRange = ActiveDocument.Paragraphs(1).Range 
 With myRange.Font 
  .Bold = True 
@@ -32,7 +32,7 @@ The following example changes the formatting of the Heading 2 style in the activ
 
 
 
-```vb
+```
 With ActiveDocument.Styles(wdStyleHeading2).Font 
  .Name = "Arial" 
  .Italic = True 
@@ -44,19 +44,19 @@ You can use the  **New** keyword to create a new, stand-alone **Font** object. T
 
 
 
-```vb
+```
 Set myFont = New Font 
 myFont.Bold = True 
 myFont.Name = "Arial" 
 ActiveDocument.Paragraphs(1).Range.Font = myFont
 ```
 
-You can also duplicate a  **Font** object by using the **Duplicate**property. The following example creates a new character style with the character formatting from the selection and italic formatting. The formatting of the selection is not changed.
+You can also duplicate a  **Font** object by using the **Duplicate** property. The following example creates a new character style with the character formatting from the selection and italic formatting. The formatting of the selection is not changed.
 
 
 
 
-```vb
+```
 Set aFont = Selection.Font.Duplicate 
 aFont.Italic = True 
 ActiveDocument.Styles.Add(Name:="Italics", _ 
@@ -67,11 +67,8 @@ ActiveDocument.Styles.Add(Name:="Italics", _
 ## See also
 
 
-#### Concepts
-
-
- [Word Object Model Reference](be452561-b436-bb9b-6f94-3faa9a74a6fd.md)
 #### Other resources
 
 
- [Font Object Members](04a3c706-4062-09bc-70d9-cef3748a7d57.md)
+[Font Object Members](04a3c706-4062-09bc-70d9-cef3748a7d57.md)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

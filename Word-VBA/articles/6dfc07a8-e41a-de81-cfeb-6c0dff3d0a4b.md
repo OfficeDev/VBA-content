@@ -1,14 +1,14 @@
 
 # Windows.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[Windows](377b493b-e73c-0132-869c-3876c3beaef7.md)** collection.
+ _expression_ Required. A variable that represents a **[Windows](377b493b-e73c-0132-869c-3876c3beaef7.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [Windows Collection Object](377b493b-e73c-0132-869c-3876c3beaef7.md)
+[Windows Collection Object](377b493b-e73c-0132-869c-3876c3beaef7.md)
 #### Other resources
 
 
- [Windows Object Members](4a0863e6-b72c-fc50-95ac-3e9a0d231626.md)
+[Windows Object Members](4a0863e6-b72c-fc50-95ac-3e9a0d231626.md)

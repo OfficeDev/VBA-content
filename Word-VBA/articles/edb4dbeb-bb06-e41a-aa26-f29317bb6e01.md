@@ -1,14 +1,14 @@
 
 # HeaderFooter.LinkToPrevious Property (Word)
 
- **True** if the specified header or footer is linked to the corresponding header or footer in the previous section. Read/write **Boolean**.
+ **True** if the specified header or footer is linked to the corresponding header or footer in the previous section. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **LinkToPrevious**
+ _expression_ . **LinkToPrevious**
 
- _expression_An expression that returns a  **[HeaderFooter](3f2f926a-9220-5536-80ed-af63d2feb016.md)** object.
+ _expression_ An expression that returns a **[HeaderFooter](3f2f926a-9220-5536-80ed-af63d2feb016.md)** object.
 
 
 ## Remarks
@@ -29,7 +29,7 @@ The  **LinkToPrevious** property applies to each header or footer individually. 
 The first part of this example creates a new document with two sections. The second part creates unique headers for even-numbered and odd-numbered pages in sections one and two in the new document.
 
 
-```vb
+```
 Documents.Add 
 With Selection 
  For j = 1 to 4 
@@ -67,8 +67,8 @@ End With
 #### Concepts
 
 
- [HeaderFooter Object](3f2f926a-9220-5536-80ed-af63d2feb016.md)
+[HeaderFooter Object](3f2f926a-9220-5536-80ed-af63d2feb016.md)
 #### Other resources
 
 
- [HeaderFooter Object Members](400647fc-cf49-a468-850f-f94a054552c0.md)
+[HeaderFooter Object Members](400647fc-cf49-a468-850f-f94a054552c0.md)

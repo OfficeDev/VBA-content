@@ -6,9 +6,9 @@ Returns a  **TextFrame** object that contains the text for the specified range o
 
 ## Syntax
 
- _expression_. **TextFrame**
+ _expression_ . **TextFrame**
 
- _expression_A variable that represents a  **[ShapeRange](7112acc0-e241-16ef-77bc-101b72d05af0.md)** object.
+ _expression_ A variable that represents a **[ShapeRange](7112acc0-e241-16ef-77bc-101b72d05af0.md)** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **TextFrame** object that contains the text for the specified range o
 #### Concepts
 
 
- [ShapeRange Collection Object](7112acc0-e241-16ef-77bc-101b72d05af0.md)
+[ShapeRange Collection Object](7112acc0-e241-16ef-77bc-101b72d05af0.md)
 #### Other resources
 
 
- [ShapeRange Object Members](eb882d13-d724-26e9-7e6d-2af55e42bba1.md)
+[ShapeRange Object Members](eb882d13-d724-26e9-7e6d-2af55e42bba1.md)

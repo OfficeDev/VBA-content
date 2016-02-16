@@ -6,9 +6,9 @@ Inserts all or part of the specified file.
 
 ## Syntax
 
- _expression_. **InsertFile**( **_FileName_**,  **_Range_**,  **_ConfirmConversions_**,  **_Link_**,  **_Attachment_**)
+ _expression_ . **InsertFile**( **_FileName_** , **_Range_** , **_ConfirmConversions_** , **_Link_** , **_Attachment_** )
 
- _expression_Required. A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_ Required. A variable that represents a **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ### Parameters
@@ -17,11 +17,11 @@ Inserts all or part of the specified file.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FileName|Required| **String**|The path and file name of the file to be inserted. If you don't specify a path, Word assumes the file is in the current folder.|
-|Range|Optional| **Variant**|If the specified file is a Word document, this parameter refers to a bookmark. If the file is another type (for example, a Microsoft Excel worksheet), this parameter refers to a named range or a cell range (for example, R1C1:R3C4).|
-|ConfirmConversions|Optional| **Variant**| **True** to have Word prompt you to confirm conversion when inserting files in formats other than the Word Document format.|
-|Link|Optional| **Variant**| **True** to insert the file by using an INCLUDETEXT field.|
-|Attachment|Optional| **Variant**| **True** to insert the file as an attachment to an e-mail message.|
+| _FileName_|Required| **String**|The path and file name of the file to be inserted. If you don't specify a path, Word assumes the file is in the current folder.|
+| _Range_|Optional| **Variant**|If the specified file is a Word document, this parameter refers to a bookmark. If the file is another type (for example, a Microsoft Excel worksheet), this parameter refers to a named range or a cell range (for example, R1C1:R3C4).|
+| _ConfirmConversions_|Optional| **Variant**| **True** to have Word prompt you to confirm conversion when inserting files in formats other than the Word Document format.|
+| _Link_|Optional| **Variant**| **True** to insert the file by using an INCLUDETEXT field.|
+| _Attachment_|Optional| **Variant**| **True** to insert the file as an attachment to an e-mail message.|
 
 ## Example
 
@@ -40,8 +40,8 @@ ActiveDocument.Range.InsertFile FileName:="C:\TEST.DOC", Link:=True
 #### Concepts
 
 
- [Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
+[Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
 #### Other resources
 
 
- [Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)
+[Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)

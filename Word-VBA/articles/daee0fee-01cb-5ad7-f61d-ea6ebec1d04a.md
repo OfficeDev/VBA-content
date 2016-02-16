@@ -6,9 +6,9 @@ Inserts the specified XML into the document at the specified range, replacing an
 
 ## Syntax
 
- _expression_. **InsertXML**( **_XML_**,  **_Transform_**)
+ _expression_ . **InsertXML**( **_XML_** , **_Transform_** )
 
- _expression_An expression that returns a  **Range** object.
+ _expression_ An expression that returns a **Range** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Inserts the specified XML into the document at the specified range, replacing an
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|XML|Required| **String**|Specifies the XML to insert. This can be any valid custom XML.|
-|Transform|Optional| **Variant**|Specifies the XML Transformation (XSLT) used to transform the XML. If omitted, the XML is inserted as custom XML without applying a transform.|
+| _XML_|Required| **String**|Specifies the XML to insert. This can be any valid custom XML.|
+| _Transform_|Optional| **Variant**|Specifies the XML Transformation (XSLT) used to transform the XML. If omitted, the XML is inserted as custom XML without applying a transform.|
 
 ### Return Value
 
@@ -54,8 +54,8 @@ ActiveDocument.Paragraphs(5).Range.InsertXML strXML
 #### Concepts
 
 
- [Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
+[Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
 #### Other resources
 
 
- [Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)
+[Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)

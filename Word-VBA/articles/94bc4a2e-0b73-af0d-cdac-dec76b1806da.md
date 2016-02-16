@@ -6,9 +6,9 @@ Opens the specified OLE object for editing in the application it was created in.
 
 ## Syntax
 
- _expression_. **Edit**
+ _expression_ . **Edit**
 
- _expression_Required. A variable that represents a  **[Comment](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)** object.
+ _expression_ Required. A variable that represents a **[Comment](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Opens the specified OLE object for editing in the application it was created in.
 This example opens (for editing) the first embedded OLE object (defined as a shape) on the active document.
 
 
-```vb
+```
 Dim shapesAll As Shapes 
  
 Set shapesAll = ActiveDocument.Shapes 
@@ -32,7 +32,7 @@ This example opens (for editing) the first linked OLE object (defined as an inli
 
 
 
-```vb
+```
 Dim colIS As InlineShapes 
  
 Set colIS = ActiveDocument.InlineShapes 
@@ -50,8 +50,8 @@ End If
 #### Concepts
 
 
- [Comment Object](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)
+[Comment Object](0a2841f3-ca3c-8186-afab-f634ebd97d4c.md)
 #### Other resources
 
 
- [Comment Object Members](1f1dbb3e-d0ae-9eb7-108a-697a10533e2b.md)
+[Comment Object Members](1f1dbb3e-d0ae-9eb7-108a-697a10533e2b.md)

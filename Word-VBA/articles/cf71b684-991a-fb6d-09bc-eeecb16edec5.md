@@ -6,14 +6,14 @@ Returns a  **Revisions** collection that represents the tracked changes in the r
 
 ## Syntax
 
- _expression_. **Revisions**
+ _expression_ . **Revisions**
 
- _expression_A variable that represents a  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
+ _expression_ A variable that represents a **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** object.
 
 
 ## Remarks
 
-For information about returning a single member of a collection, see  [Returning a Single Object from a Collection](8c0b84c0-582b-32f7-68e0-6383d0661e74.md).
+For information about returning a single member of a collection, see [Returning a Single Object from a Collection](http://msdn.microsoft.com/library/8c0b84c0-582b-32f7-68e0-6383d0661e74%28Office.15%29.aspx).
 
 
 ## Example
@@ -42,8 +42,8 @@ myRange.Revisions.AcceptAll
 #### Concepts
 
 
- [Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
+[Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
 #### Other resources
 
 
- [Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)
+[Range Object Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)

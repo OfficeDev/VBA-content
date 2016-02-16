@@ -6,9 +6,9 @@ Initiates manual hyphenation of a document, one line at a time.
 
 ## Syntax
 
- _expression_. **ManualHyphenation**
+ _expression_ . **ManualHyphenation**
 
- _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_ Required. A variable that represents a **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ This example sets hyphenation options and then starts manual hyphenation of MyDo
 
 
 
-```vb
+```
 With Documents("MyDoc.doc") 
  .HyphenationZone = InchesToPoints(0.25) 
  .HyphenateCaps = False 
@@ -45,8 +45,8 @@ End With
 #### Concepts
 
 
- [Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
+[Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
 #### Other resources
 
 
- [Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)
+[Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)

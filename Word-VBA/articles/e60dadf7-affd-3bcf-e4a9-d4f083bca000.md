@@ -6,9 +6,9 @@ Returns a  **Style** object that represents the style associated with the curren
 
 ## Syntax
 
- _expression_. **Style**
+ _expression_ . **Style**
 
- _expression_Required. A variable that represents an  **[EmailAuthor](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)** object.
+ _expression_ Required. A variable that represents an **[EmailAuthor](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)** object.
 
 
 ## Example
@@ -29,8 +29,8 @@ Msgbox MyEmailStyle.Font.Name
 #### Concepts
 
 
- [EmailAuthor Object](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)
+[EmailAuthor Object](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)
 #### Other resources
 
 
- [EmailAuthor Object Members](76ddf916-7e7f-4a5a-3330-cdb47e2b4d1c.md)
+[EmailAuthor Object Members](76ddf916-7e7f-4a5a-3330-cdb47e2b4d1c.md)

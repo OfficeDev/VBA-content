@@ -1,14 +1,14 @@
 
 # ChartTitle.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **[ChartTitle](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)** object.
+ _expression_ A variable that represents a **[ChartTitle](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [ChartTitle Object](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)
+[ChartTitle Object](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)
 #### Other resources
 
 
- [ChartTitle Object Members](e85a7f56-06f4-0561-a37b-7444115965fa.md)
+[ChartTitle Object Members](e85a7f56-06f4-0561-a37b-7444115965fa.md)

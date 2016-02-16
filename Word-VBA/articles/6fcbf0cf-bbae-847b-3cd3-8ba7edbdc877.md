@@ -6,9 +6,9 @@ Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_Required. A variable that represents a  **[XSLTransform](cccf0383-8b21-0f46-b5b6-9a092599fd76.md)** object.
+ _expression_ Required. A variable that represents a **[XSLTransform](cccf0383-8b21-0f46-b5b6-9a092599fd76.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 #### Concepts
 
 
- [XSLTransform Object](cccf0383-8b21-0f46-b5b6-9a092599fd76.md)
+[XSLTransform Object](cccf0383-8b21-0f46-b5b6-9a092599fd76.md)
 #### Other resources
 
 
- [XSLTransform Object Members](1059d67c-ffde-44f1-bb6c-6525bb8a7147.md)
+[XSLTransform Object Members](1059d67c-ffde-44f1-bb6c-6525bb8a7147.md)

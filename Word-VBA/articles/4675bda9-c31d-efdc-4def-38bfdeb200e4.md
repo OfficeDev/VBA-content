@@ -6,9 +6,9 @@ Checks a string for grammatical errors. Returns a  **Boolean** to indicate wheth
 
 ## Syntax
 
- _expression_. **CheckGrammar**( **_String_**)
+ _expression_ . **CheckGrammar**( **_String_** )
 
- _expression_Required. A variable that represents an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
+ _expression_ Required. A variable that represents an **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Checks a string for grammatical errors. Returns a  **Boolean** to indicate wheth
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|String|Required| **String**|The string you want to check for grammatical errors.|
+| _String_|Required| **String**|The string you want to check for grammatical errors.|
 
 ### Return Value
 
@@ -41,8 +41,8 @@ MsgBox "Selection is grammatically correct: " &amp; strPass
 #### Concepts
 
 
- [Application Object](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)
+[Application Object](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)
 #### Other resources
 
 
- [Application Object Members](71669f1e-65f1-b0f1-b67d-355dfdbebe50.md)
+[Application Object Members](71669f1e-65f1-b0f1-b67d-355dfdbebe50.md)

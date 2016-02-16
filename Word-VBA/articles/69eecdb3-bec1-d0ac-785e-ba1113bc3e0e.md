@@ -1,19 +1,19 @@
 
 # Options.AllowAccentedUppercase Property (Word)
 
- **True** if accents are retained when a French language character is changed to uppercase. Read/write **Boolean**.
+ **True** if accents are retained when a French language character is changed to uppercase. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **AllowAccentedUppercase**
+ _expression_ . **AllowAccentedUppercase**
 
- _expression_A variable that represents a  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
+ _expression_ A variable that represents a **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
 
 
 ## Remarks
 
-This property affects only text that's been marked as standard French. For all other languages, accents are always retained even if the  **AllowAccentedUppercase** property is set to **False**.
+This property affects only text that's been marked as standard French. For all other languages, accents are always retained even if the  **AllowAccentedUppercase** property is set to **False** .
 
 If you change a character back to lowercase after an accent mark has been stripped from it, the accent won't reappear.
 
@@ -23,7 +23,7 @@ If you change a character back to lowercase after an accent mark has been stripp
 This example sets Word to remove accent marks when characters in French text are changed to uppercase.
 
 
-```vb
+```
 Options.AllowAccentedUppercase = False
 ```
 
@@ -45,8 +45,8 @@ blnUppercaseAccents = Options.AllowAccentedUppercase
 #### Concepts
 
 
- [Options Object](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)
+[Options Object](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)
 #### Other resources
 
 
- [Options Object Members](76cd9dfe-6bbb-4c3d-0bfc-79a62bedd15e.md)
+[Options Object Members](76cd9dfe-6bbb-4c3d-0bfc-79a62bedd15e.md)

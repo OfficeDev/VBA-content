@@ -1,14 +1,14 @@
 
 # TwoInitialCapsExceptions.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[TwoInitialCapsExceptions](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)** collection.
+ _expression_ Required. A variable that represents a **[TwoInitialCapsExceptions](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [TwoInitialCapsExceptions Collection Object](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)
+[TwoInitialCapsExceptions Collection Object](21af2d69-8d76-026d-2002-8d69b4ab8aef.md)
 #### Other resources
 
 
- [TwoInitialCapsExceptions Object Members](05f0a660-a906-3d20-0190-99b23153fe73.md)
+[TwoInitialCapsExceptions Object Members](05f0a660-a906-3d20-0190-99b23153fe73.md)

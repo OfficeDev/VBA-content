@@ -1,14 +1,14 @@
 
 # CustomLabels.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[CustomLabels](407e75b5-4116-fdc7-f0c1-dfd3809cdb41.md)** collection.
+ _expression_ Required. A variable that represents a **[CustomLabels](407e75b5-4116-fdc7-f0c1-dfd3809cdb41.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [CustomLabels Collection Object](407e75b5-4116-fdc7-f0c1-dfd3809cdb41.md)
+[CustomLabels Collection Object](407e75b5-4116-fdc7-f0c1-dfd3809cdb41.md)
 #### Other resources
 
 
- [CustomLabels Object Members](ee79f452-698d-3089-ed57-b2ca3b125e3d.md)
+[CustomLabels Object Members](ee79f452-698d-3089-ed57-b2ca3b125e3d.md)

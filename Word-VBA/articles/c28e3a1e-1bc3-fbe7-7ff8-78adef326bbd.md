@@ -6,9 +6,9 @@ Returns a  **CustomXMLNode** object that represents the custom XML node in the d
 
 ## Syntax
 
- _expression_. **CustomXMLNode**
+ _expression_ . **CustomXMLNode**
 
- _expression_An expression that returns an  **[XMLMapping](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)** object.
+ _expression_ An expression that returns an **[XMLMapping](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **CustomXMLNode** object that represents the custom XML node in the d
 The following example inserts a new content control and custom XML part into the active document, maps the content control to a node in the custom XML part, and then sets the value of the mapped XML node.
 
 
-```vb
+```
 Dim objCC As ContentControl 
 Dim objPart As CustomXMLPart 
 Dim objNode As CustomXMLNode 
@@ -43,8 +43,8 @@ objCC.Range.Text = objNode.Text
 #### Concepts
 
 
- [XMLMapping Object](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)
+[XMLMapping Object](cf76802b-f93d-0f3b-4936-ca357a7d7ff8.md)
 #### Other resources
 
 
- [XMLMapping Object Members](8fb27e7a-1d02-4754-87ca-f117cc67cdff.md)
+[XMLMapping Object Members](8fb27e7a-1d02-4754-87ca-f117cc67cdff.md)

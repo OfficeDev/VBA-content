@@ -1,14 +1,14 @@
 
 # Index.NumberOfColumns Property (Word)
 
-Sets or returns the number of columns for each page of an index. Read/write  **Long**.
+Sets or returns the number of columns for each page of an index. Read/write  **Long** .
 
 
 ## Syntax
 
- _expression_. **NumberOfColumns**
+ _expression_ . **NumberOfColumns**
 
- _expression_An expression that an  **[Index](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)** object.
+ _expression_ An expression that an **[Index](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ This example sets a two-column format for each index in the active document.
 
 
 
-```vb
+```
 For Each myIndex In ActiveDocument.Indexes 
  myIndex.NumberOfColumns = 2 
 Next myIndex
@@ -43,8 +43,8 @@ Next myIndex
 #### Concepts
 
 
- [Index Object](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)
+[Index Object](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)
 #### Other resources
 
 
- [Index Object Members](de9f0a3c-dd30-84bd-e122-2d20fa6b3d37.md)
+[Index Object Members](de9f0a3c-dd30-84bd-e122-2d20fa6b3d37.md)

@@ -6,9 +6,9 @@ Returns an  **Assistance** object that represents the Microsoft Office Help View
 
 ## Syntax
 
- _expression_. **Assistance**
+ _expression_ . **Assistance**
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an **Application** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ The  **Assistance** object allows developers to show custom help and help that i
 #### Concepts
 
 
- [Application Object](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)
+[Application Object](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)
 #### Other resources
 
 
- [Application Object Members](71669f1e-65f1-b0f1-b67d-355dfdbebe50.md)
+[Application Object Members](71669f1e-65f1-b0f1-b67d-355dfdbebe50.md)

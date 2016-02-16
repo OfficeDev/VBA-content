@@ -1,14 +1,14 @@
 
 # Style.BuiltIn Property (Word)
 
- **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean**.
+ **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean** .
 
 
 ## Syntax
 
- _expression_. **BuiltIn**
+ _expression_ . **BuiltIn**
 
- _expression_A variable that represents a  **[Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
+ _expression_ A variable that represents a **[Style](473f8f41-2cba-769e-c0da-441d9d85b009.md)** object.
 
 
 ## Remarks
@@ -27,7 +27,7 @@ ActiveDocument.Styles("Heading 1")
 This example checks all the styles in the active document. When it finds a style that isn't built in, it displays the name of the style.
 
 
-```vb
+```
 Dim styleLoop As Style 
  
 For Each styleLoop in ActiveDocument.Styles 
@@ -44,8 +44,8 @@ Next styleLoop
 #### Concepts
 
 
- [Style Object](473f8f41-2cba-769e-c0da-441d9d85b009.md)
+[Style Object](473f8f41-2cba-769e-c0da-441d9d85b009.md)
 #### Other resources
 
 
- [Style Object Members](37c68e72-c745-bc9c-1547-0cf177cbdef4.md)
+[Style Object Members](37c68e72-c745-bc9c-1547-0cf177cbdef4.md)

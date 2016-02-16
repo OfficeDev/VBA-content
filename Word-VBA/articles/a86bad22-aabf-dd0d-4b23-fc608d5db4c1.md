@@ -6,14 +6,14 @@ Returns a  **[Documents](fc4ac973-19c1-703a-5538-f4426b8b7564.md)** collection t
 
 ## Syntax
 
- _expression_. **Documents**
+ _expression_ . **Documents**
 
- _expression_A variable that represents a  **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
+ _expression_ A variable that represents a **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
 
 
 ## Remarks
 
-For information about returning a single member of a collection, see  [Returning an Object from a Collection](28f76384-f495-9640-a7c8-10ada3fac727.md).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example
@@ -30,7 +30,7 @@ This example saves open documents that have changed since they were last saved.
 
 
 
-```vb
+```
 Dim docLoop As Document 
  
 For Each docLoop In Documents 
@@ -43,7 +43,7 @@ This example prints each open document after setting the left and right margins 
 
 
 
-```vb
+```
 Dim docLoop As Document 
  
 For Each docLoop In Documents 
@@ -71,8 +71,8 @@ Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 #### Concepts
 
 
- [Global Object](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)
+[Global Object](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)
 #### Other resources
 
 
- [Global Object Members](35050f7b-bc46-4795-ec17-f68e263c8af0.md)
+[Global Object Members](35050f7b-bc46-4795-ec17-f68e263c8af0.md)

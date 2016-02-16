@@ -6,9 +6,9 @@ Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_Required. A variable that represents a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
+ _expression_ Required. A variable that represents a **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 #### Concepts
 
 
- [Table Object](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)
+[Table Object](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)
 #### Other resources
 
 
- [Table Object Members](5367ee92-b5a3-92c7-787b-46a302586a0d.md)
+[Table Object Members](5367ee92-b5a3-92c7-787b-46a302586a0d.md)

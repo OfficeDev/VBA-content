@@ -6,9 +6,9 @@ Converts a table to text and returns a  **Range** object that represents the del
 
 ## Syntax
 
- _expression_. **ConvertToText**( **_Separator_**,  **_NestedTables_**)
+ _expression_ . **ConvertToText**( **_Separator_** , **_NestedTables_** )
 
- _expression_Required. A variable that represents a  **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
+ _expression_ Required. A variable that represents a **[Table](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)** object.
 
 
 ### Parameters
@@ -17,15 +17,15 @@ Converts a table to text and returns a  **Range** object that represents the del
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Separator|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any  **WdTableFieldSeparator** constants.|
-|NestedTables|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs**. The default value is  **True**.|
+| _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any  **WdTableFieldSeparator** constants.|
+| _NestedTables_|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs** . The default value is **True** .|
 
 ## Remarks
 
 When you apply the  **ConvertToText** method to a **Table** object, the object is deleted. To maintain a reference to the converted contents of the table, you must assign the **Range** object returned by the **ConvertToText** method to a new object variable. In the following example, the first table in the active document is converted to text and then formatted as a bulleted list.
 
 
-```vb
+```
 Dim tableTemp As Table 
 Dim rngTemp As Range 
  
@@ -43,7 +43,7 @@ rngTemp.ListFormat.ApplyListTemplate _
 This example creates a table and then converts it to text by using tabs as separator characters.
 
 
-```vb
+```
 Dim docNew As Document 
 Dim tableNew As Table 
 Dim intTemp As Integer 
@@ -71,7 +71,7 @@ This example converts the table that contains the selection to text, with spaces
 
 
 
-```vb
+```
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Tables(1).ConvertToText Separator:=" " 
 Else 
@@ -86,8 +86,8 @@ End If
 #### Concepts
 
 
- [Table Object](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)
+[Table Object](996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6.md)
 #### Other resources
 
 
- [Table Object Members](5367ee92-b5a3-92c7-787b-46a302586a0d.md)
+[Table Object Members](5367ee92-b5a3-92c7-787b-46a302586a0d.md)

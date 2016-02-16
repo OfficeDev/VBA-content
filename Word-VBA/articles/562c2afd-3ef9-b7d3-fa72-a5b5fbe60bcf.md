@@ -6,9 +6,9 @@ Removes the subscript for an equation and returns an  **OMathFunction** object t
 
 ## Syntax
 
- _expression_. **RemoveSub**
+ _expression_ . **RemoveSub**
 
- _expression_An expression that returns a  **OMathScrSubSup** object.
+ _expression_ An expression that returns a **OMathScrSubSup** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ OMathFunction
 #### Concepts
 
 
- [OMathScrSubSup Object](e5fbf9cb-461c-3b08-a441-9e91e0745b15.md)
+[OMathScrSubSup Object](e5fbf9cb-461c-3b08-a441-9e91e0745b15.md)
 #### Other resources
 
 
- [OMathScrSubSup Object Members](95cd5748-020b-7374-de19-5474fe17e231.md)
+[OMathScrSubSup Object Members](95cd5748-020b-7374-de19-5474fe17e231.md)

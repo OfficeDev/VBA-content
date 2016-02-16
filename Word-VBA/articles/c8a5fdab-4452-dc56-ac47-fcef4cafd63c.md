@@ -6,9 +6,9 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_Required. A variable that represents a  **[Subdocument](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)** object.
+ _expression_ Required. A variable that represents a **[Subdocument](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 #### Concepts
 
 
- [Subdocument Object](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)
+[Subdocument Object](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)
 #### Other resources
 
 
- [Subdocument Object Members](7f30e191-8a01-2565-3a9b-2139733e2f82.md)
+[Subdocument Object Members](7f30e191-8a01-2565-3a9b-2139733e2f82.md)

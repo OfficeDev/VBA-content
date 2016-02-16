@@ -1,14 +1,14 @@
 
 # Options.DisableFeaturesbyDefault Property (Word)
 
- **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](a7cf788b-f5c1-2d7e-b3de-1261b2a65c45.md)**. The default value is  **False**. Read/write  **Boolean**.
+ **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](a7cf788b-f5c1-2d7e-b3de-1261b2a65c45.md)** . The default value is **False** . Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **DisableFeaturesbyDefault**
+ _expression_ . **DisableFeaturesbyDefault**
 
- _expression_A variable that represents a  **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
+ _expression_ A variable that represents a **[Options](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ The  **DisableFeaturesByDefault** property sets a global option for the applicat
 This example disables all features introduced after Word for Windows 95, versions 7.0 and 7.0a, for all documents.
 
 
-```vb
+```
 Sub FeaturesDisableByDefault() 
  With Application.Options 
  
@@ -48,8 +48,8 @@ End Sub
 #### Concepts
 
 
- [Options Object](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)
+[Options Object](873b7b99-3fe1-fd89-9ece-a9355cb827dc.md)
 #### Other resources
 
 
- [Options Object Members](76cd9dfe-6bbb-4c3d-0bfc-79a62bedd15e.md)
+[Options Object Members](76cd9dfe-6bbb-4c3d-0bfc-79a62bedd15e.md)

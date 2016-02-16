@@ -11,7 +11,7 @@ A trendline shows the trend, or direction, of data in a series. The  **Trendline
 
 ## Example
 
-Use  ** [Trendlines](300dca01-097f-8a3d-4f63-a1841a92098e.md)**(Index), where Index is the trendline index number, to return a single  **Trendline** object.
+Use  **[Trendlines](300dca01-097f-8a3d-4f63-a1841a92098e.md)** (Index), where Index is the trendline index number, to return a single **Trendline** object.
 
 The index number denotes the order in which the trendlines were added to the series.  `Trendlines(1)` is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
 
@@ -20,7 +20,7 @@ The following example changes the trendline type for the first series of the fir
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg 
@@ -32,11 +32,8 @@ End With
 ## See also
 
 
-#### Concepts
-
-
- [Word Object Model Reference](be452561-b436-bb9b-6f94-3faa9a74a6fd.md)
 #### Other resources
 
 
- [Trendline Object Members](02d1ce95-ff74-859a-70b2-cd914c334083.md)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Trendline Object Members](02d1ce95-ff74-859a-70b2-cd914c334083.md)

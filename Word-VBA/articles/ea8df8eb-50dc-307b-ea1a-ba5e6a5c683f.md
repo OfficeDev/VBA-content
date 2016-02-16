@@ -6,9 +6,9 @@ Runs the command associated with the specified key combination.
 
 ## Syntax
 
- _expression_. **Execute**
+ _expression_ . **Execute**
 
- _expression_Required. A variable that represents a  **[KeyBinding](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)** object.
+ _expression_ Required. A variable that represents a **[KeyBinding](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)** object.
 
 
 ## Example
@@ -31,8 +31,8 @@ FindKey(BuildKeyCode(wdKeyControl, wdKeyShift, wdKeyC)).Execute
 #### Concepts
 
 
- [KeyBinding Object](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)
+[KeyBinding Object](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)
 #### Other resources
 
 
- [KeyBinding Object Members](ff0776e1-3695-a392-992b-9d5a772449dc.md)
+[KeyBinding Object Members](ff0776e1-3695-a392-992b-9d5a772449dc.md)

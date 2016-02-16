@@ -1,14 +1,14 @@
 
 # Editors.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents an  **[Editors](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)** collection.
+ _expression_ Required. A variable that represents an **[Editors](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [Editors Collection](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)
+[Editors Collection](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)
 #### Other resources
 
 
- [Editors Object Members](dcb26f83-bbff-8d3a-2493-f7d87ce40d21.md)
+[Editors Object Members](dcb26f83-bbff-8d3a-2493-f7d87ce40d21.md)

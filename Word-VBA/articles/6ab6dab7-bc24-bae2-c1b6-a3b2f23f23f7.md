@@ -1,14 +1,14 @@
 
 # TablesOfContents.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[TablesOfContents](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)** collection.
+ _expression_ Required. A variable that represents a **[TablesOfContents](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [TablesOfContents Collection Object](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)
+[TablesOfContents Collection Object](d0d0e5fc-e443-31ae-e1a9-15b945f1e318.md)
 #### Other resources
 
 
- [TablesOfContents Object Members](9ed06355-0ac4-ee9c-8673-474d454a1db2.md)
+[TablesOfContents Object Members](9ed06355-0ac4-ee9c-8673-474d454a1db2.md)

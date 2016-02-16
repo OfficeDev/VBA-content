@@ -6,9 +6,9 @@ Closes all open applications, quits Microsoft Windows, and logs the current user
 
 ## Syntax
 
- _expression_. **ExitWindows**
+ _expression_ . **ExitWindows**
 
- _expression_Required. A variable that represents a  **[Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
+ _expression_ Required. A variable that represents a **[Tasks](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)** collection.
 
 
 ## Remarks
@@ -34,8 +34,8 @@ Tasks.ExitWindows
 #### Concepts
 
 
- [Tasks Collection Object](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)
+[Tasks Collection Object](ff521e20-8a25-f9f6-dccf-effea9debeb7.md)
 #### Other resources
 
 
- [Tasks Object Members](e6ca78c6-132d-6e7b-9f83-ea044a395040.md)
+[Tasks Object Members](e6ca78c6-132d-6e7b-9f83-ea044a395040.md)

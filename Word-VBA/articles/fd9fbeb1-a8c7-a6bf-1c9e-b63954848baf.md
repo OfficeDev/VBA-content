@@ -6,9 +6,9 @@ Sets the width of columns or cells in a table.
 
 ## Syntax
 
- _expression_. **SetWidth**( **_ColumnWidth_**,  **_RulerStyle_**)
+ _expression_ . **SetWidth**( **_ColumnWidth_** , **_RulerStyle_** )
 
- _expression_Required. A variable that represents a  **[Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
+ _expression_ Required. A variable that represents a **[Cell](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Sets the width of columns or cells in a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ColumnWidth|Required| **Single**|The width of the specified column or columns, in points.|
-|RulerStyle|Required| **WdRulerStyle**|Controls the way Word adjusts cell widths.|
+| _ColumnWidth_|Required| **Single**|The width of the specified column or columns, in points.|
+| _RulerStyle_|Required| **WdRulerStyle**|Controls the way Word adjusts cell widths.|
 
 ## Remarks
 
@@ -30,7 +30,7 @@ The  **WdRulerStyle** behavior described above applies to left-aligned tables. T
 This example creates a table in a new document and sets the width of the first cell in the second row to 1.5 inches. The example preserves the widths of the other cells in the table.
 
 
-```vb
+```
 Set newDoc = Documents.Add 
 Set myTable = _ 
  newDoc.Tables.Add(Range:=Selection.Range, NumRows:=3, _ 
@@ -45,7 +45,7 @@ This example sets the width of the cell that contains the insertion point to 36 
 
 
 
-```vb
+```
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Cells(1).SetWidth ColumnWidth:=36, _ 
  RulerStyle:=wdAdjustFirstColumn 
@@ -61,8 +61,8 @@ End If
 #### Concepts
 
 
- [Cell Object](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)
+[Cell Object](cbe6ae71-b2da-63a9-1446-0a2f81ab8b14.md)
 #### Other resources
 
 
- [Cell Object Members](f718bcaa-af8a-682b-f403-6db1aeb9bb73.md)
+[Cell Object Members](f718bcaa-af8a-682b-f403-6db1aeb9bb73.md)

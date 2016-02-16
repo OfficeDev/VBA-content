@@ -6,9 +6,9 @@
 
 ## Syntax
 
- _expression_. **IsSandboxed**
+ _expression_ . **IsSandboxed**
 
- _expression_An expression that returns a  **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
+ _expression_ An expression that returns a **[Global](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)** object.
 
 
 ## Example
@@ -35,8 +35,8 @@ End If
 #### Concepts
 
 
- [Global Object](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)
+[Global Object](b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c.md)
 #### Other resources
 
 
- [Global Object Members](35050f7b-bc46-4795-ec17-f68e263c8af0.md)
+[Global Object Members](35050f7b-bc46-4795-ec17-f68e263c8af0.md)

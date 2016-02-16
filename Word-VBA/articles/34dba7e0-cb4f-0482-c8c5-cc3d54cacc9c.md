@@ -6,9 +6,9 @@ Returns a  **Pane** object that represents a new pane to a window.
 
 ## Syntax
 
- _expression_. **Add**( **_SplitVertical_**)
+ _expression_ . **Add**( **_SplitVertical_** )
 
- _expression_Required. A variable that represents a  **[Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)** collection.
+ _expression_ Required. A variable that represents a **[Panes](6ed6353c-9134-f47d-a108-13e84eced8ff.md)** collection.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns a  **Pane** object that represents a new pane to a window.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SplitVertical|Optional| **Variant**|A number that represents the percentage of the window, from top to bottom, you want to appear above the split.|
+| _SplitVertical_|Optional| **Variant**|A number that represents the percentage of the window, from top to bottom, you want to appear above the split.|
 
 ### Return Value
 
@@ -45,8 +45,8 @@ ActiveDocument.ActiveWindow.Panes.Add SplitVertical:=30
 #### Concepts
 
 
- [Panes Collection Object](6ed6353c-9134-f47d-a108-13e84eced8ff.md)
+[Panes Collection Object](6ed6353c-9134-f47d-a108-13e84eced8ff.md)
 #### Other resources
 
 
- [Panes Object Members](22673447-a48d-afea-0642-5eb2a3efd221.md)
+[Panes Object Members](22673447-a48d-afea-0642-5eb2a3efd221.md)

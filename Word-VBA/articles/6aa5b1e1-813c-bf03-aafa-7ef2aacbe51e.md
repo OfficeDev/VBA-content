@@ -1,22 +1,22 @@
 
 # LineFormat.Pattern Property (Word)
 
-Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType**.
+Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType** .
 
 
 ## Syntax
 
- _expression_. **Pattern**
+ _expression_ . **Pattern**
 
- _expression_Required. A variable that represents a  **[LineFormat](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)** object.
+ _expression_ Required. A variable that represents a **[LineFormat](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)** object.
 
 
 ## Example
 
-This example adds a patterned line to  _myDocument_.
+This example adds a patterned line to  _myDocument_ .
 
 
-```vb
+```
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddLine(10, 100, 250, 0).Line 
  .Weight = 6 
@@ -33,8 +33,8 @@ End With
 #### Concepts
 
 
- [LineFormat Object](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)
+[LineFormat Object](28fabccb-d03f-3466-9d07-ea3ebc4cdd11.md)
 #### Other resources
 
 
- [LineFormat Object Members](775fcd1f-f4be-f607-c63b-4ae952b7c524.md)
+[LineFormat Object Members](775fcd1f-f4be-f607-c63b-4ae952b7c524.md)

@@ -1,14 +1,14 @@
 
 # CaptionLabel.Name Property (Word)
 
-Returns the name of the specified object. Read-only  **String**.
+Returns the name of the specified object. Read-only  **String** .
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_ . **Name**
 
- _expression_Required. A variable that represents a  **[CaptionLabel](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)** object.
+ _expression_ Required. A variable that represents a **[CaptionLabel](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns the name of the specified object. Read-only  **String**.
 #### Concepts
 
 
- [CaptionLabel Object](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)
+[CaptionLabel Object](71c82dfd-6a66-e0f4-e30f-ae453c764864.md)
 #### Other resources
 
 
- [CaptionLabel Object Members](9e47cced-f463-2ef8-b683-c7c6bb8070b9.md)
+[CaptionLabel Object Members](9e47cced-f463-2ef8-b683-c7c6bb8070b9.md)

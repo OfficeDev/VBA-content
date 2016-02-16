@@ -6,9 +6,9 @@ Changes the width of a table column to accommodate the width of the text without
 
 ## Syntax
 
- _expression_. **AutoFit**
+ _expression_ . **AutoFit**
 
- _expression_Required. A variable that represents a  **[Column](49d68571-2a57-6795-34b9-eb09aeb43043.md)** object.
+ _expression_ Required. A variable that represents a **[Column](49d68571-2a57-6795-34b9-eb09aeb43043.md)** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ If the table is already as wide as the distance between the left and right margi
 This example creates a 3x3 table in a new document and then changes the width of the first column to accommodate the width of the text.
 
 
-```vb
+```
 Dim docNew as Document 
 Dim tableNew as Table 
  
@@ -39,7 +39,7 @@ This example creates a 3x3 table in a new document and then changes the width of
 
 
 
-```vb
+```
 Dim docNew as Document 
 Dim tableNew as Table 
  
@@ -60,8 +60,8 @@ End With
 #### Concepts
 
 
- [Column Object](49d68571-2a57-6795-34b9-eb09aeb43043.md)
+[Column Object](49d68571-2a57-6795-34b9-eb09aeb43043.md)
 #### Other resources
 
 
- [Column Object Members](e8b86d58-eb4b-6d02-7171-f70436a31f4c.md)
+[Column Object Members](e8b86d58-eb4b-6d02-7171-f70436a31f4c.md)

@@ -6,9 +6,9 @@ Returns an  **HTMLDivision** object that represents a new HTML division added to
 
 ## Syntax
 
- _expression_. **Add**( **_Range_**)
+ _expression_ . **Add**( **_Range_** )
 
- _expression_Required. A variable that represents an  **[HTMLDivisions](fe896440-817f-5485-794c-c5e9700cd062.md)** collection.
+ _expression_ Required. A variable that represents an **[HTMLDivisions](fe896440-817f-5485-794c-c5e9700cd062.md)** collection.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns an  **HTMLDivision** object that represents a new HTML division added to
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Optional| **Variant**|An existing HTML division around which to place the new HTML division.|
+| _Range_|Optional| **Variant**|An existing HTML division around which to place the new HTML division.|
 
 ### Return Value
 
@@ -30,8 +30,8 @@ HTMLDivision
 #### Concepts
 
 
- [HTMLDivisions Collection](fe896440-817f-5485-794c-c5e9700cd062.md)
+[HTMLDivisions Collection](fe896440-817f-5485-794c-c5e9700cd062.md)
 #### Other resources
 
 
- [HTMLDivisions Object Members](574c91df-c2db-ae37-54cd-6f8fe4874862.md)
+[HTMLDivisions Object Members](574c91df-c2db-ae37-54cd-6f8fe4874862.md)

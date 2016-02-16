@@ -6,9 +6,9 @@ Returns an  **Object** that represents the parent object of the specified **Wrap
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_Required. A variable that represents a  **[WrapFormat](08396db4-f8e0-12fd-2b9f-3a0a61169ac4.md)** object.
+ _expression_ Required. A variable that represents a **[WrapFormat](08396db4-f8e0-12fd-2b9f-3a0a61169ac4.md)** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns an  **Object** that represents the parent object of the specified **Wrap
 #### Concepts
 
 
- [WrapFormat Object](08396db4-f8e0-12fd-2b9f-3a0a61169ac4.md)
+[WrapFormat Object](08396db4-f8e0-12fd-2b9f-3a0a61169ac4.md)
 #### Other resources
 
 
- [WrapFormat Object Members](7e65a038-1d96-5111-ab5e-de50ac2a7c45.md)
+[WrapFormat Object Members](7e65a038-1d96-5111-ab5e-de50ac2a7c45.md)

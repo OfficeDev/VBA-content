@@ -6,9 +6,9 @@ Returns a  **Long** that represents the number of list templates in the collecti
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_Required. A variable that represents a  **[ListTemplates](5b5f3ed8-4522-f52e-5ae8-9df26a7da154.md)** collection.
+ _expression_ Required. A variable that represents a **[ListTemplates](5b5f3ed8-4522-f52e-5ae8-9df26a7da154.md)** collection.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **Long** that represents the number of list templates in the collecti
 #### Concepts
 
 
- [ListTemplates Collection Object](5b5f3ed8-4522-f52e-5ae8-9df26a7da154.md)
+[ListTemplates Collection Object](5b5f3ed8-4522-f52e-5ae8-9df26a7da154.md)
 #### Other resources
 
 
- [ListTemplates Object Members](84ac5042-9c95-927d-8a85-adedb8178f4a.md)
+[ListTemplates Object Members](84ac5042-9c95-927d-8a85-adedb8178f4a.md)

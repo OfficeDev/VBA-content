@@ -1,14 +1,14 @@
 
 # HeadersFooters.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[HeadersFooters](41dbbaa7-f139-3d3c-54d4-03a57ab8417a.md)** collection.
+ _expression_ Required. A variable that represents a **[HeadersFooters](41dbbaa7-f139-3d3c-54d4-03a57ab8417a.md)** collection.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [HeadersFooters Collection Object](41dbbaa7-f139-3d3c-54d4-03a57ab8417a.md)
+[HeadersFooters Collection Object](41dbbaa7-f139-3d3c-54d4-03a57ab8417a.md)
 #### Other resources
 
 
- [HeadersFooters Object Members](6cf7f768-d356-7ff4-089c-7f3f810d00a8.md)
+[HeadersFooters Object Members](6cf7f768-d356-7ff4-089c-7f3f810d00a8.md)

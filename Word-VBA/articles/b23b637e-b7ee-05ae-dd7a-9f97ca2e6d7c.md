@@ -6,9 +6,9 @@ Moves the selection to the previous item indicated by the browser target. Use th
 
 ## Syntax
 
- _expression_. **Previous**
+ _expression_ . **Previous**
 
- _expression_Required. A variable that represents a  **[Browser](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)** object.
+ _expression_ Required. A variable that represents a **[Browser](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Moves the selection to the previous item indicated by the browser target. Use th
 This example moves the insertion point into the first cell (the cell in the upper-left corner) of the previous table.
 
 
-```vb
+```
 With Application.Browser 
  .Target = wdBrowseTable 
  .Previous 
@@ -30,8 +30,8 @@ End With
 #### Concepts
 
 
- [Browser Object](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)
+[Browser Object](447bcab6-cfb2-77b0-9bbd-35e774417a60.md)
 #### Other resources
 
 
- [Browser Object Members](ab97f30f-71c5-4360-0f6d-c47b7b45f0a3.md)
+[Browser Object Members](ab97f30f-71c5-4360-0f6d-c47b7b45f0a3.md)

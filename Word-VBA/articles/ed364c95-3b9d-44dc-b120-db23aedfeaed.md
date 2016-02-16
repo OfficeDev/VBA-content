@@ -6,9 +6,9 @@ Shrinks the selection to the next smaller unit of text.
 
 ## Syntax
 
- _expression_. **Shrink**
+ _expression_ . **Shrink**
 
- _expression_A variable that represents a  **[Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
+ _expression_ A variable that represents a **[Selection](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ The unit progression for this method is as follows: entire document, section, pa
 This example collapses the selected text to the next smaller unit of text.
 
 
-```vb
+```
 If Selection.Type = wdSelectionNormal Then 
  Selection.Shrink 
 Else 
@@ -36,8 +36,8 @@ End If
 #### Concepts
 
 
- [Selection Object](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)
+[Selection Object](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)
 #### Other resources
 
 
- [Selection Object Members](71e67a43-d40a-ad9a-8ef2-c5c487733e0d.md)
+[Selection Object Members](71e67a43-d40a-ad9a-8ef2-c5c487733e0d.md)

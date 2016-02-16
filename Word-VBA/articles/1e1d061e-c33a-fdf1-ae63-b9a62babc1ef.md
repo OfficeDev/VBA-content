@@ -6,9 +6,9 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 ## Syntax
 
- _expression_. **SendFaxOverInternet**( **_Recipients_**,  **_Subject_**,  **_ShowMessage_**)
+ _expression_ . **SendFaxOverInternet**( **_Recipients_** , **_Subject_** , **_ShowMessage_** )
 
- _expression_Required. A variable that represents a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
+ _expression_ Required. A variable that represents a **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Recipients|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
-|Subject|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
-|ShowMessage|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
+| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
+| _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
+| _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
 ## Remarks
 
@@ -42,7 +42,7 @@ Use the FaxAddress key value at this registry location to determine the format t
 The following example sends a fax to the fax service provider, who will fax the message to the recipient.
 
 
-```vb
+```
 ActiveDocument.SendFaxOverInternet _ 
  "14255550101@consolidatedmessenger.com", _ 
  "For your review", True
@@ -55,8 +55,8 @@ ActiveDocument.SendFaxOverInternet _
 #### Concepts
 
 
- [Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
+[Document Object](8d83487a-2345-a036-a916-971c9db5b7fb.md)
 #### Other resources
 
 
- [Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)
+[Document Object Members](fc9ab457-0888-f917-3d52-387168ac23b9.md)

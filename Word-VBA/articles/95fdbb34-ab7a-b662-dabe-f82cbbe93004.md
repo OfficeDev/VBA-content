@@ -6,9 +6,9 @@ Returns an individual  **Endnote** object in a collection.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_ . **Item**( **_Index_** )
 
- _expression_Required. A variable that represents an  **[Endnotes](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)** collection.
+ _expression_ Required. A variable that represents an **[Endnotes](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)** collection.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns an individual  **Endnote** object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
 
 ### Return Value
 
@@ -30,8 +30,8 @@ Endnote
 #### Concepts
 
 
- [Endnotes Collection Object](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)
+[Endnotes Collection Object](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)
 #### Other resources
 
 
- [Endnotes Object Members](b70ef623-9c2a-6cb9-acb3-64d3f150b62a.md)
+[Endnotes Object Members](b70ef623-9c2a-6cb9-acb3-64d3f150b62a.md)

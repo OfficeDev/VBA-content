@@ -6,9 +6,9 @@ Returns a  **Paragraph** object that represents the last item in the collection 
 
 ## Syntax
 
- _expression_. **Last**
+ _expression_ . **Last**
 
- _expression_Required. A variable that represents a  **[Paragraphs](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)** collection.
+ _expression_ Required. A variable that represents a **[Paragraphs](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)** collection.
 
 
 ## Example
@@ -27,8 +27,8 @@ ActiveDocument.Paragraphs.Last.Alignment = wdAlignParagraphRight
 #### Concepts
 
 
- [Paragraphs Collection Object](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)
+[Paragraphs Collection Object](bdc7a183-2a98-7d47-c86a-5cecd6c91449.md)
 #### Other resources
 
 
- [Paragraphs Object Members](490e2695-3cdd-4906-f730-583d18486aa2.md)
+[Paragraphs Object Members](490e2695-3cdd-4906-f730-583d18486aa2.md)

@@ -1,21 +1,21 @@
 
 # ParagraphFormat.SpaceAfterAuto Property (Word)
 
- **True** if Microsoft Word automatically sets the amount of spacing after the specified paragraphs. Read/write **Long**.
+ **True** if Microsoft Word automatically sets the amount of spacing after the specified paragraphs. Read/write **Long** .
 
 
 ## Syntax
 
- _expression_. **SpaceAfterAuto**
+ _expression_ . **SpaceAfterAuto**
 
- _expression_A variable that represents a  **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
+ _expression_ A variable that represents a **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
 
 
 ## Remarks
 
-Returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
+Returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False** .
 
-If  **SpaceAfterAuto** is set to **True**, the  **SpaceAfter**property is ignored.
+If  **SpaceAfterAuto** is set to **True** , the **SpaceAfter** property is ignored.
 
 
 ## Example
@@ -23,7 +23,7 @@ If  **SpaceAfterAuto** is set to **True**, the  **SpaceAfter**property is ignore
 This example displays a report showing the  **SpaceAfterAuto** settings for the active document.
 
 
-```vb
+```
 Select Case ActiveDocument.Range.ParagraphFormat.SpaceAfterAuto 
  Case True 
  x = "Spacing after paragraphs is handled " _ 
@@ -45,8 +45,8 @@ End Select
 #### Concepts
 
 
- [ParagraphFormat Object](712d754a-dc92-f1a3-531d-dfae74a42c23.md)
+[ParagraphFormat Object](712d754a-dc92-f1a3-531d-dfae74a42c23.md)
 #### Other resources
 
 
- [ParagraphFormat Object Members](d34122e7-adfb-dd34-eb1d-cd62b20a83ff.md)
+[ParagraphFormat Object Members](d34122e7-adfb-dd34-eb1d-cd62b20a83ff.md)

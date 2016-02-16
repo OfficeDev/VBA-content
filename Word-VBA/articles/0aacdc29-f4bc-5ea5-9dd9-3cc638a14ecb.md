@@ -1,14 +1,14 @@
 
 # DownBars.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **[DownBars](d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c.md)** object.
+ _expression_ A variable that represents a **[DownBars](d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [DownBars Object](d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c.md)
+[DownBars Object](d0cf170e-0c58-2d01-a4b2-1eaf65dbfa3c.md)
 #### Other resources
 
 
- [DownBars Object Members](ed402462-03fc-d980-6f8d-b3e7ae72aee2.md)
+[DownBars Object Members](ed402462-03fc-d980-6f8d-b3e7ae72aee2.md)

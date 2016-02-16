@@ -1,19 +1,19 @@
 
 # ParagraphFormat.KeepTogether Property (Word)
 
- **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long**.
+ **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long** .
 
 
 ## Syntax
 
- _expression_. **KeepTogether**
+ _expression_ . **KeepTogether**
 
- _expression_A variable that represents a  **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
+ _expression_ A variable that represents a **[ParagraphFormat](712d754a-dc92-f1a3-531d-dfae74a42c23.md)** object.
 
 
 ## Remarks
 
-This property can be  **True**,  **False**, or  **wdUndefined**. 
+This property can be  **True** , **False** , or **wdUndefined** .
 
 
 ## See also
@@ -22,8 +22,8 @@ This property can be  **True**,  **False**, or  **wdUndefined**.
 #### Concepts
 
 
- [ParagraphFormat Object](712d754a-dc92-f1a3-531d-dfae74a42c23.md)
+[ParagraphFormat Object](712d754a-dc92-f1a3-531d-dfae74a42c23.md)
 #### Other resources
 
 
- [ParagraphFormat Object Members](d34122e7-adfb-dd34-eb1d-cd62b20a83ff.md)
+[ParagraphFormat Object Members](d34122e7-adfb-dd34-eb1d-cd62b20a83ff.md)

@@ -6,9 +6,9 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 
 ## Syntax
 
- _expression_. **URI**
+ _expression_ . **URI**
 
- _expression_An expression that returns an  **[XMLNamespace](a50ed533-8961-f433-d501-797e5d678fda.md)** object.
+ _expression_ An expression that returns an **[XMLNamespace](a50ed533-8961-f433-d501-797e5d678fda.md)** object.
 
 
 ## Example
@@ -27,8 +27,8 @@ MsgBox Application.XMLNamespaces(1).URI
 #### Concepts
 
 
- [XMLNamespace Object](a50ed533-8961-f433-d501-797e5d678fda.md)
+[XMLNamespace Object](a50ed533-8961-f433-d501-797e5d678fda.md)
 #### Other resources
 
 
- [XMLNamespace Object Members](7876c69a-f4d1-63aa-825e-1bfa6a9f4bd1.md)
+[XMLNamespace Object Members](7876c69a-f4d1-63aa-825e-1bfa6a9f4bd1.md)

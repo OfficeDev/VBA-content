@@ -6,9 +6,9 @@ Returns a  **PageSetup** object that's associated with the specified document, r
 
 ## Syntax
 
- _expression_. **PageSetup**
+ _expression_ . **PageSetup**
 
- _expression_A variable that represents a  **[Sections](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)** collection.
+ _expression_ A variable that represents a **[Sections](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)** collection.
 
 
 ## Example
@@ -27,8 +27,8 @@ Documents("Summary.doc").Sections(1).PageSetup.Gutter = 36
 #### Concepts
 
 
- [Sections Collection Object](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)
+[Sections Collection Object](cf6f77ba-9eee-5614-e697-bc031c4c6dcd.md)
 #### Other resources
 
 
- [Sections Object Members](adbf6532-f5f6-dece-837d-9ae3b38a0da2.md)
+[Sections Object Members](adbf6532-f5f6-dece-837d-9ae3b38a0da2.md)

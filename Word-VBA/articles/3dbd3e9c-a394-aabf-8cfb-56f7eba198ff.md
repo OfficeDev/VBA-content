@@ -1,14 +1,14 @@
 
 # ShapeNode.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[ShapeNode](d5afb71a-a218-57f3-87f0-171094ba6610.md)** object.
+ _expression_ Required. A variable that represents a **[ShapeNode](d5afb71a-a218-57f3-87f0-171094ba6610.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [ShapeNode Object](d5afb71a-a218-57f3-87f0-171094ba6610.md)
+[ShapeNode Object](d5afb71a-a218-57f3-87f0-171094ba6610.md)
 #### Other resources
 
 
- [ShapeNode Object Members](55803c23-5f6e-aa8c-6e9f-6d350ec71f5e.md)
+[ShapeNode Object Members](55803c23-5f6e-aa8c-6e9f-6d350ec71f5e.md)

@@ -1,14 +1,14 @@
 
 # PageNumbers.IncludeChapterNumber Property (Word)
 
- **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean**.
+ **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **IncludeChapterNumber**
+ _expression_ . **IncludeChapterNumber**
 
- _expression_A variable that represents a  **[PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
+ _expression_ A variable that represents a **[PageNumbers](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@
 This example adds page numbers in the footer for section one in the active document. The page numbers include the chapter number.
 
 
-```vb
+```
 With ActiveDocument.Sections(1).Footers _ 
  (wdHeaderFooterPrimary).PageNumbers 
  .Add 
@@ -30,7 +30,7 @@ This example adds the chapter number from the Heading 2 style to figure captions
 
 
 
-```vb
+```
 With CaptionLabels(wdCaptionFigure) 
  .IncludeChapterNumber = True 
  .ChapterStyleLevel = 2 
@@ -46,8 +46,8 @@ Selection.InsertCaption Label:="Figure", Title:=": History"
 #### Concepts
 
 
- [PageNumbers Collection Object](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)
+[PageNumbers Collection Object](9090f96e-d898-ace6-35fa-f6e59c527ea2.md)
 #### Other resources
 
 
- [PageNumbers Object Members](7f6d35df-499d-b3bf-6eaa-70e2ab1a2e8d.md)
+[PageNumbers Object Members](7f6d35df-499d-b3bf-6eaa-70e2ab1a2e8d.md)

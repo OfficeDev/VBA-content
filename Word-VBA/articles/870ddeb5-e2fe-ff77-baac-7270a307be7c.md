@@ -6,9 +6,9 @@ Returns a  **[Shading](e136509a-1be1-29e4-7b37-1faf659e37ba.md)** object that re
 
 ## Syntax
 
- _expression_. **Shading**
+ _expression_ . **Shading**
 
- _expression_Required. A variable that represents a  **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
+ _expression_ Required. A variable that represents a **[Paragraph](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **[Shading](e136509a-1be1-29e4-7b37-1faf659e37ba.md)** object that re
 This example applies yellow shading to the first paragraph in the selection.
 
 
-```vb
+```
 With Selection.Paragraphs(1).Shading 
  .Texture = wdTexture12Pt5Percent 
  .BackgroundPatternColorIndex = wdYellow 
@@ -31,8 +31,8 @@ End With
 #### Concepts
 
 
- [Paragraph Object](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)
+[Paragraph Object](0a704079-a082-4ab1-841b-fc0d49dd26d4.md)
 #### Other resources
 
 
- [Paragraph Object Members](e1fc5b91-e908-580e-ab72-898648a5c0c3.md)
+[Paragraph Object Members](e1fc5b91-e908-580e-ab72-898648a5c0c3.md)

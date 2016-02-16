@@ -15,7 +15,7 @@ For each rs in Selection.Range.ReadabilityStatistics
 Next rs
 ```
 
-Use  **ReadabilityStatistics**(Index), where Index is the index number, to return a single  **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
+Use  **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
 
 
 
@@ -30,11 +30,8 @@ Msgbox wordval
 ## See also
 
 
-#### Concepts
-
-
- [Word Object Model Reference](be452561-b436-bb9b-6f94-3faa9a74a6fd.md)
 #### Other resources
 
 
- [ReadabilityStatistics Object Members](4e7dde67-0de5-89fc-3061-ab67bb2f03ec.md)
+[ReadabilityStatistics Object Members](4e7dde67-0de5-89fc-3061-ab67bb2f03ec.md)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

@@ -6,9 +6,9 @@ Returns a  **LineFormat** object that contains line formatting properties for th
 
 ## Syntax
 
- _expression_. **Line**
+ _expression_ . **Line**
 
- _expression_A variable that represents a  **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
+ _expression_ A variable that represents a **[Shape](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)** object.
 
 
 ## Remarks
@@ -18,10 +18,10 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 
 ## Example
 
-This example adds a blue dashed line to  _myDocument_.
+This example adds a blue dashed line to  _myDocument_ .
 
 
-```vb
+```
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddLine(10, 10, 250, 250).Line 
  .DashStyle = msoLineDashDotDot 
@@ -34,7 +34,7 @@ This example adds a cross to  _myDocument_ and then sets its border to be 8 poin
 
 
 
-```vb
+```
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddShape(msoShapeCross, 10, 10, 50, 70).Line 
  .Weight = 8 
@@ -49,8 +49,8 @@ End With
 #### Concepts
 
 
- [Shape Object](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)
+[Shape Object](604029ce-9b2f-9748-5d4e-b458796fa2f0.md)
 #### Other resources
 
 
- [Shape Object Members](4aa8e2f4-5629-3922-11e4-df028bd1e1de.md)
+[Shape Object Members](4aa8e2f4-5629-3922-11e4-df028bd1e1de.md)

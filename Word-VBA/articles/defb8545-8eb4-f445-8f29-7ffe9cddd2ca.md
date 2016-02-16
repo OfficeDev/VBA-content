@@ -6,9 +6,9 @@ Returns an  **Object** that represents the parent object of the specified **Grou
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_Required. A variable that represents a  **[GroupShapes](de29d571-476b-fa8b-619e-f7d0181d9756.md)** collection.
+ _expression_ Required. A variable that represents a **[GroupShapes](de29d571-476b-fa8b-619e-f7d0181d9756.md)** collection.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns an  **Object** that represents the parent object of the specified **Grou
 #### Concepts
 
 
- [GroupShapes Collection Object](de29d571-476b-fa8b-619e-f7d0181d9756.md)
+[GroupShapes Collection Object](de29d571-476b-fa8b-619e-f7d0181d9756.md)
 #### Other resources
 
 
- [GroupShapes Object Members](27425169-5a65-cdce-edf5-1ae0479c2557.md)
+[GroupShapes Object Members](27425169-5a65-cdce-edf5-1ae0479c2557.md)

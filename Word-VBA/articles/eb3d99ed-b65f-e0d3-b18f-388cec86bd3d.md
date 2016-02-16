@@ -1,14 +1,14 @@
 
 # TextFrame.HasText Property (Word)
 
- **True** if the specified shape has text associated with it. Read-only **Boolean**.
+ **True** if the specified shape has text associated with it. Read-only **Boolean** .
 
 
 ## Syntax
 
- _expression_. **HasText**
+ _expression_ . **HasText**
 
- _expression_A variable that represents a  **[TextFrame](46f7e410-80d9-9fe9-2224-488b623f8592.md)** object.
+ _expression_ A variable that represents a **[TextFrame](46f7e410-80d9-9fe9-2224-488b623f8592.md)** object.
 
 
 ## Example
@@ -16,7 +16,7 @@
 If the second shape on the active document contains text, this example displays a message if the text overflows its frame.
 
 
-```vb
+```
 Dim docActive As Document 
  
 Set docActive = ActiveDocument 
@@ -36,8 +36,8 @@ End With
 #### Concepts
 
 
- [TextFrame Object](46f7e410-80d9-9fe9-2224-488b623f8592.md)
+[TextFrame Object](46f7e410-80d9-9fe9-2224-488b623f8592.md)
 #### Other resources
 
 
- [TextFrame Object Members](bb2efcc6-474f-3de5-6d20-940be7549112.md)
+[TextFrame Object Members](bb2efcc6-474f-3de5-6d20-940be7549112.md)

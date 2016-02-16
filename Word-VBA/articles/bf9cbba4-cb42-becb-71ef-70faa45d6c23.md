@@ -1,14 +1,14 @@
 
 # Hyperlink.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[Hyperlink](af785a9e-081a-e359-705f-04f490304e2e.md)** object.
+ _expression_ Required. A variable that represents a **[Hyperlink](af785a9e-081a-e359-705f-04f490304e2e.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [Hyperlink Object](af785a9e-081a-e359-705f-04f490304e2e.md)
+[Hyperlink Object](af785a9e-081a-e359-705f-04f490304e2e.md)
 #### Other resources
 
 
- [Hyperlink Object Members](49699791-6b9c-2061-aff7-c9269747ecea.md)
+[Hyperlink Object Members](49699791-6b9c-2061-aff7-c9269747ecea.md)

@@ -1,14 +1,14 @@
 
 # UpBars.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents an  **[UpBars](22dff1d2-8f1b-8c48-354c-570906e0f830.md)** object.
+ _expression_ A variable that represents an **[UpBars](22dff1d2-8f1b-8c48-354c-570906e0f830.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [UpBars Object](22dff1d2-8f1b-8c48-354c-570906e0f830.md)
+[UpBars Object](22dff1d2-8f1b-8c48-354c-570906e0f830.md)
 #### Other resources
 
 
- [UpBars Object Members](7772742e-1230-6987-f8f3-f3663ea4329b.md)
+[UpBars Object Members](7772742e-1230-6987-f8f3-f3663ea4329b.md)

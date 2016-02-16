@@ -1,14 +1,14 @@
 
 # FormField.Creator Property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_Required. A variable that represents a  **[FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
+ _expression_ Required. A variable that represents a **[FormField](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
- [FormField Object](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)
+[FormField Object](c3c07344-06b2-fe86-6fcb-b9c63a991bcc.md)
 #### Other resources
 
 
- [FormField Object Members](e7d1b5d7-e1b3-b602-98c4-d0d4dc2288e5.md)
+[FormField Object Members](e7d1b5d7-e1b3-b602-98c4-d0d4dc2288e5.md)
