@@ -6,9 +6,9 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 ## Syntax
 
- _expression_. **Click**
+ _expression_ . **Click**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a **Page** object.
 
 
 ## Remarks
@@ -16,7 +16,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 - This event applies to a control containing a hyperlink.
     
-To run a macro or event procedure when this event occurs, set the  **OnClick**property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the  **OnClick** property to the name of the macro or to [Event Procedure].
 
 For a control, this event occurs when the user:
 
@@ -29,17 +29,17 @@ For a control, this event occurs when the user:
     
 - Presses SPACEBAR when a command button, check box, option button, or toggle button has the focus.
     
-- Presses the ENTER key on a form that has a command button whose  **Default**property is set to Yes.
+- Presses the ENTER key on a form that has a command button whose  **Default** property is set to Yes.
     
-- Presses the ESC key on a form that has a command button whose  **Cancel**property is set to Yes.
+- Presses the ESC key on a form that has a command button whose  **Cancel** property is set to Yes.
     
-- Presses a control's access key. For example, if a command button's  **Caption**property is set to &amp;Go, pressing ALT+G triggers the event.
+- Presses a control's access key. For example, if a command button's  **Caption** property is set to &amp;Go, pressing ALT+G triggers the event.
     
-Typically, you attach a  **Click**event procedure or macro to a command button to carry out commands and command-like actions. For the other applicable controls, use this event to trigger actions in response to one of the occurrences discussed earlier in this topic.
+Typically, you attach a  **Click** event procedure or macro to a command button to carry out commands and command-like actions. For the other applicable controls, use this event to trigger actions in response to one of the occurrences discussed earlier in this topic.
 
 You can use a  **CancelEvent** action in a DblClick macro to cancel the second **Click** event. For more information, see the DblClick event topic.
 
-To distinguish between the left, right, and middle mouse buttons, use the  **MouseDown**and  **MouseUp**events.
+To distinguish between the left, right, and middle mouse buttons, use the  **MouseDown** and **MouseUp** events.
 
 
 ## See also
@@ -48,8 +48,8 @@ To distinguish between the left, right, and middle mouse buttons, use the  **Mou
 #### Concepts
 
 
- [Page Object](6351b0ea-bd07-5ee6-ea20-0d410e09d939.md)
+[Page Object](6351b0ea-bd07-5ee6-ea20-0d410e09d939.md)
 #### Other resources
 
 
- [Page Object Members](8d4078db-389b-b9a6-00b1-7be0f1102808.md)
+[Page Object Members](8d4078db-389b-b9a6-00b1-7be0f1102808.md)

@@ -1,14 +1,14 @@
 
 # ComboBox.BottomMargin Property (Access)
 
-Along with the  **LeftMargin**,  **RightMargin**, and  **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
+Along with the  **LeftMargin** , **RightMargin** , and **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer** .
 
 
 ## Syntax
 
- _expression_. **BottomMargin**
+ _expression_ . **BottomMargin**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -24,8 +24,8 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 #### Concepts
 
 
- [ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
+[ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
 #### Other resources
 
 
- [ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)
+[ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)

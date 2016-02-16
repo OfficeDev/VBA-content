@@ -1,14 +1,14 @@
 
 # Image.Name Property (Access)
 
-You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
+You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String** .
 
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_ . **Name**
 
- _expression_A variable that represents an  **Image** object.
+ _expression_ A variable that represents an **Image** object.
 
 
 ## Remarks
@@ -19,7 +19,7 @@ The default name for new objects is the object name plus a unique integer. For e
 
 For an unbound control, the default name is the type of control plus a unique integer. For example, if the first control you add to a form is a text box, its  **Name** property setting is Text1
 
-For a bound control, the default name is the name of the field in the underlying source of data. If you create a control by dragging a field from the field list, the field's  **FieldName**property setting is copied to the control's  **Name** property box.
+For a bound control, the default name is the name of the field in the underlying source of data. If you create a control by dragging a field from the field list, the field's  **FieldName** property setting is copied to the control's **Name** property box.
 
 You can't use "Form" or "Report" to name a control or section.
 
@@ -32,8 +32,8 @@ Controls on the same form, report, or data access page can't have the same name,
 #### Concepts
 
 
- [Image Object](1bcc8552-94e2-b799-6903-392205cb4341.md)
+[Image Object](1bcc8552-94e2-b799-6903-392205cb4341.md)
 #### Other resources
 
 
- [Image Object Members](c2ad356b-bd6b-2b45-00b0-cd484ee06cc5.md)
+[Image Object Members](c2ad356b-bd6b-2b45-00b0-cd484ee06cc5.md)

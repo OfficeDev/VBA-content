@@ -6,9 +6,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_A variable that represents a  **SmartTags** object.
+ _expression_ A variable that represents a **SmartTags** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
- [SmartTags Collection](79c0e84e-e0a1-35b8-b826-9d2cde3bd485.md)
+[SmartTags Collection](79c0e84e-e0a1-35b8-b826-9d2cde3bd485.md)
 #### Other resources
 
 
- [SmartTags Object Members](6fa4e243-e82b-b442-1642-e0d58b7cc89b.md)
+[SmartTags Object Members](6fa4e243-e82b-b442-1642-e0d58b7cc89b.md)

@@ -1,14 +1,14 @@
 
 # DependencyObjects.Application Property (Access)
 
-You can use the  **Application** property to access the active Microsoft Access **[Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)** object and its related properties. Read-only  **Application** object.
+You can use the  **Application** property to access the active Microsoft Access **[Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **DependencyObjects** object.
+ _expression_ A variable that represents a **DependencyObjects** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Me.Application.MenuBar
 #### Concepts
 
 
- [DependencyObjects Collection](f146e414-ffda-d69f-73f2-992ab660c6c8.md)
+[DependencyObjects Collection](f146e414-ffda-d69f-73f2-992ab660c6c8.md)
 #### Other resources
 
 
- [DependencyObjects Object Members](02076b51-3706-fa3f-2427-7be55f24bbc9.md)
+[DependencyObjects Object Members](02076b51-3706-fa3f-2427-7be55f24bbc9.md)

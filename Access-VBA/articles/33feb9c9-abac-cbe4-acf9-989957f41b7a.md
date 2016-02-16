@@ -6,9 +6,9 @@
 
 ## Syntax
 
- _expression_. **GetDependencyInfo**
+ _expression_ . **GetDependencyInfo**
 
- _expression_A variable that represents an  **AccessObject** object.
+ _expression_ A variable that represents an **AccessObject** object.
 
 
 ### Return Value
@@ -38,8 +38,8 @@ Access does not search Visual Basic for Applications (VBA) code, macros, or data
 #### Concepts
 
 
- [AccessObject Object](8a770b33-5bff-120a-6707-ca214ee5ced3.md)
+[AccessObject Object](8a770b33-5bff-120a-6707-ca214ee5ced3.md)
 #### Other resources
 
 
- [AccessObject Object Members](78aaacb1-c0d3-d809-088d-d543ecd71de3.md)
+[AccessObject Object Members](78aaacb1-c0d3-d809-088d-d543ecd71de3.md)

@@ -6,9 +6,9 @@ The  **Requery** method updates the data underlying a specified control that's o
 
 ## Syntax
 
- _expression_. **Requery**
+ _expression_ . **Requery**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -52,7 +52,7 @@ If a subform control has the focus, this method only requeries the record source
 The following example uses the  **Requery** method to requery the data from the EmployeeList list box on an Employees form:
 
 
-```vb
+```
 Public Sub RequeryList() 
  
     Dim ctlCombo As Control 
@@ -74,8 +74,8 @@ End Sub
 #### Concepts
 
 
- [TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
+[TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
 #### Other resources
 
 
- [TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)
+[TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)

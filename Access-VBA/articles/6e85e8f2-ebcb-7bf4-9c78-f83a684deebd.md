@@ -7,9 +7,9 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 ## Syntax
 
- _expression_. **LabelY**
+ _expression_ . **LabelY**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a **ToggleButton** object.
 
 
 ## Remarks
@@ -27,8 +27,8 @@ For General and Right alignment when orientation is RTL,  **LabelX** and **Label
 #### Concepts
 
 
- [ToggleButton Object](1c20d809-d7db-e096-4328-ebb4d79e770e.md)
+[ToggleButton Object](1c20d809-d7db-e096-4328-ebb4d79e770e.md)
 #### Other resources
 
 
- [ToggleButton Object Members](487101e7-c090-eb79-3671-5c9ce86cb6b0.md)
+[ToggleButton Object Members](487101e7-c090-eb79-3671-5c9ce86cb6b0.md)

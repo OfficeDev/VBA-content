@@ -1,14 +1,14 @@
 
 # NavigationButton.LeftPadding Property (Access)
 
-Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the text box and its left gridline. Read/write  **Integer** .
 
 
 ## Syntax
 
- _expression_. **LeftPadding**
+ _expression_ . **LeftPadding**
 
- _expression_A variable that represents a  **NavigationButton** object.
+ _expression_ A variable that represents a **NavigationButton** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Gets or sets the amount of space (in inches) between the text box and its left g
 #### Concepts
 
 
- [NavigationButton Object](ac6ba9b4-45aa-0d92-d01d-fd8e8b9cede6.md)
+[NavigationButton Object](ac6ba9b4-45aa-0d92-d01d-fd8e8b9cede6.md)
 #### Other resources
 
 
- [NavigationButton Object Members](e1d63e3c-ee09-4302-21dc-96fa76cf50fd.md)
+[NavigationButton Object Members](e1d63e3c-ee09-4302-21dc-96fa76cf50fd.md)

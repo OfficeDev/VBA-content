@@ -6,9 +6,9 @@ You can use the  **DLast** function to return a random record from a particular 
 
 ## Syntax
 
- _expression_. **DLast**( **_Expr_**,  **_Domain_**,  **_Criteria_**)
+ _expression_ . **DLast**( **_Expr_** , **_Domain_** , **_Criteria_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ You can use the  **DLast** function to return a random record from a particular 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Expr|Required| **String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a  [calculation on data in that field](73c27d1c-0a3c-03e4-c17c-337133d7b316.md). In expr, you can include the name of a field in a table, a control on a form, a constant, or a function. If expr includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
-|Domain|Required| **String**|A string expression identifying the set of records that constitutes the domain.|
-|Criteria|Optional| **Variant**|An optional string expression used to restrict the range of data on which the  **DLast** function is performed. For example,criteria is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. Ifcriteria is omitted, the **DLast** function evaluatesexpr against the entire domain. Any field that is included incriteria must also be a field indomain; otherwise, the  **DLast** function returns a **Null**.|
+| _Expr_|Required| **String**|An expression that identifies the field from which you want to find the first or last value. It can be either a string expression identifying a field in a table or query, or an expression that performs a [calculation on data in that field](http://msdn.microsoft.com/library/73c27d1c-0a3c-03e4-c17c-337133d7b316%28Office.15%29.aspx). In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
+| _Domain_|Required| **String**|A string expression identifying the set of records that constitutes the domain.|
+| _Criteria_|Optional| **Variant**|An optional string expression used to restrict the range of data on which the  **DLast** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DLast** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the  **DLast** function returns a **Null** .|
 
 ### Return Value
 
@@ -41,7 +41,7 @@ Variant
 The following examples show how to use various types of criteria with the  **DLast** function.
 
  **Sample code provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 
@@ -104,8 +104,8 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 #### Concepts
 
 
- [Application Object](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)
+[Application Object](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)
 #### Other resources
 
 
- [Application Object Members](3ab5276c-d52a-72a9-244c-ec92ead48811.md)
+[Application Object Members](3ab5276c-d52a-72a9-244c-ec92ead48811.md)

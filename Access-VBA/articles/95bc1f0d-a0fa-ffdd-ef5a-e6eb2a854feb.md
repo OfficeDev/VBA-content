@@ -6,14 +6,14 @@ Returns or sets a  **String** indicating which macro, event procedure, or user-d
 
 ## Syntax
 
- _expression_. **AfterInsert**
+ _expression_ . **AfterInsert**
 
- _expression_A variable that represents a  **Form** object.
+ _expression_ A variable that represents a **Form** object.
 
 
 ## Remarks
 
-Valid values for this property are "macroname" where macroname is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the **BeforeInsert** event for the specified object, or "=functionname()" wherefunctionname is the name of a user-defined function.
+Valid values for this property are "macroname" where  _macroname_ is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the **BeforeInsert** event for the specified object, or "=functionname()" where _functionname_ is the name of a user-defined function.
 
 
 ## Example
@@ -33,8 +33,8 @@ Forms(0).After Insert = "[Event Procedure]"
 #### Concepts
 
 
- [Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
+[Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
 #### Other resources
 
 
- [Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)
+[Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)

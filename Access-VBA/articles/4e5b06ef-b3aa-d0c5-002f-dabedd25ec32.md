@@ -1,14 +1,14 @@
 
 # Section.EventProcPrefix Property (Access)
 
-Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
+Gets or sets the prefix portion of an event procedure name. Read/write  **String** .
 
 
 ## Syntax
 
- _expression_. **EventProcPrefix**
+ _expression_ . **EventProcPrefix**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_ A variable that represents a **Section** object.
 
 
 ## Remarks
@@ -24,8 +24,8 @@ Microsoft Access adds the prefix portion of an event procedure name to the event
 #### Concepts
 
 
- [Section Object](9edc5e29-bdd6-7627-230e-ca3812e0414e.md)
+[Section Object](9edc5e29-bdd6-7627-230e-ca3812e0414e.md)
 #### Other resources
 
 
- [Section Object Members](9c145cfa-d2c2-6559-cdd9-63813774c026.md)
+[Section Object Members](9c145cfa-d2c2-6559-cdd9-63813774c026.md)

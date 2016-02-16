@@ -1,14 +1,14 @@
 
 # Section.NewRowOrCol Property (Access)
 
-You can use the  **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte**.
+You can use the  **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte** .
 
 
 ## Syntax
 
- _expression_. **NewRowOrCol**
+ _expression_ . **NewRowOrCol**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_ A variable that represents a **Section** object.
 
 
 ## Remarks
@@ -34,16 +34,16 @@ The following items are some sample settings for a group header section in a mul
 |Before Section|The group header is printed at the top of a new column.|
 |After Section|The detail section is printed at the top of a new column.|
 |Before &amp; After|The group header is printed in a column by itself, and the detail section is printed at the top of a new column.|
-Sections in a form or report are normally printed vertically down a page. The default  **Column Layout** option is **Across, then Down**. You can print the sections in multiple columns across a page by clicking  **Down, then Across** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box.
+Sections in a form or report are normally printed vertically down a page. The default  **Column Layout** option is **Across, then Down** . You can print the sections in multiple columns across a page by clicking **Down, then Across** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box.
 
-If you set the  **NewRowOrCol** property to Before Section, the vertical or horizontal orientation of the page affects how the section appears when printed. If you click **Across, then Down** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box, Microsoft Access starts printing the section at the beginning of a new row; if you click **Down, then Across**, Microsoft Access starts printing the section at the beginning of a new column.
+If you set the  **NewRowOrCol** property to Before Section, the vertical or horizontal orientation of the page affects how the section appears when printed. If you click **Across, then Down** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box, Microsoft Access starts printing the section at the beginning of a new row; if you click **Down, then Across** , Microsoft Access starts printing the section at the beginning of a new column.
 
 The following example returns the  **NewRowOrCol** property setting and assigns it to the `intGetVal` variable.
 
 
 
 
-```vb
+```
 Dim intGetVal As Integer 
 intGetVal = Me.Section(1).NewRowOrCol
 ```
@@ -53,7 +53,7 @@ The next example presents two layouts for a report that divides data into four g
 
 
 |
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b> — <b>Across, then Down</b><br /><br /> 
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b>  ? <b>Across, then Down</b><br /><br /> 
 Head1 
 <br />1a 1b     2a 2b     3a 3b     4a 4b<br /> 
 5a 5b<br /> 
@@ -63,14 +63,14 @@ Head3<br />
 1a 1b     2a 2b     3a 3b<br /> 
 Head4<br /> 
 1a 1b     2a 2b     3a 3b     4a 4b<br /> 
-5a 5b     6a 6b<br /></p></li><li><p><b>Grid Settings</b> — <b>Number of Columns</b> set to 4<br /><br /></p></li><li><p><b>NewRowOrCol</b> property setting for group header section — Before &amp; After</p></li></ul>|
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b> — <b>Down, then Across</b><br /><br />Head1     Head2     Head3     Head4<br /> 
+5a 5b     6a 6b<br /></p></li><li><p><b>Grid Settings</b>  ? <b>Number of Columns</b>  set to 4<br /><br /></p></li><li><p><b>NewRowOrCol</b>  property setting for group header section ? Before &amp; After</p></li></ul>|
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b>  ? <b>Down, then Across</b><br /><br />Head1     Head2     Head3     Head4<br /> 
 1a 1b      1a 1b       1a 1b      1a 1b<br /> 
 2a 2b      2a 2b       2a 2b      2a 2b<br /> 
 3a 3b      3a 3b       3a 3b      3a 3b<br /> 
 4a 4b      4a 4b       4a 4b<br /> 
 5a 5b      5a 5b<br /> 
-6a 6b<br /></p></li><li><p><b>Grid Settings</b> — <b>Number of Columns</b> set to 4<br /><br /></p></li><li><p><b>NewRowOrCol</b> property setting for group header section — Before Section</p></li></ul>|
+6a 6b<br /></p></li><li><p><b>Grid Settings</b>  ? <b>Number of Columns</b>  set to 4<br /><br /></p></li><li><p><b>NewRowOrCol</b>  property setting for group header section ? Before Section</p></li></ul>|
 
 ## See also
 
@@ -78,8 +78,8 @@ Head4<br />
 #### Concepts
 
 
- [Section Object](9edc5e29-bdd6-7627-230e-ca3812e0414e.md)
+[Section Object](9edc5e29-bdd6-7627-230e-ca3812e0414e.md)
 #### Other resources
 
 
- [Section Object Members](9c145cfa-d2c2-6559-cdd9-63813774c026.md)
+[Section Object Members](9c145cfa-d2c2-6559-cdd9-63813774c026.md)

@@ -14,11 +14,8 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](7
 ## See also
 
 
-#### Concepts
-
-
- [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
 #### Other resources
 
 
- [SharedResource Object Members](bd9e813e-9e0a-8448-e4f6-d5c262d6419b.md)
+[SharedResource Object Members](bd9e813e-9e0a-8448-e4f6-d5c262d6419b.md)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

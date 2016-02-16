@@ -6,9 +6,9 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 ## Syntax
 
- _expression_. **BrowseTo**( **_ObjectType_**,  **_ObjectName_**,  **_PathtoSubformControl_**,  **_WhereCondition_**,  **_Page_**,  **_DataMode_**)
+ _expression_ . **BrowseTo**( **_ObjectType_** , **_ObjectName_** , **_PathtoSubformControl_** , **_WhereCondition_** , **_Page_** , **_DataMode_** )
 
- _expression_A variable that represents a  **DoCmd** object.
+ _expression_ A variable that represents a **DoCmd** object.
 
 
 ### Parameters
@@ -17,12 +17,12 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ObjectType|Required| **[AcBrowseToObjectType](52388196-e1e3-f199-24e8-04b399d55cfb.md)**|The object type to which to browse.|
-|ObjectName|Required| **Variant**|The object that loads inside the subform control referenced by the PathtoSubformControl argument. |
-|PathtoSubformControl|Optional| **Variant**|If specified, the path from the main form of the application to the target subform control that loads the object specified by the ObjectName argument.|
-|WhereCondition|Optional| **Variant**|If specified, replaces the Where condition of the object record source.|
-|Page|Optional| **Variant**|If specified, sets the page of the continuous form that will be made the current page. This argument is Web only.|
-|DataMode|Optional| **[AcFormOpenDataMode](24c39abb-154c-39cd-3097-77be75fe917c.md)**|If specified, the data entry mode of the form.|
+| _ObjectType_|Required| **[AcBrowseToObjectType](52388196-e1e3-f199-24e8-04b399d55cfb.md)**|The object type to which to browse.|
+| _ObjectName_|Required| **Variant**|The object that loads inside the subform control referenced by the PathtoSubformControl argument. |
+| _PathtoSubformControl_|Optional| **Variant**|If specified, the path from the main form of the application to the target subform control that loads the object specified by the ObjectName argument.|
+| _WhereCondition_|Optional| **Variant**|If specified, replaces the Where condition of the object record source.|
+| _Page_|Optional| **Variant**|If specified, sets the page of the continuous form that will be made the current page. This argument is Web only.|
+| _DataMode_|Optional| **[AcFormOpenDataMode](24c39abb-154c-39cd-3097-77be75fe917c.md)**|If specified, the data entry mode of the form.|
 
 ## Remarks
 
@@ -56,8 +56,8 @@ DataMode:=acFormEdit
 #### Concepts
 
 
- [DoCmd Object](3ce44cca-9979-0a1e-9787-079a52ce528f.md)
+[DoCmd Object](3ce44cca-9979-0a1e-9787-079a52ce528f.md)
 #### Other resources
 
 
- [DoCmd Object Members](3e7ade9e-86e4-0751-188b-5d31c9101651.md)
+[DoCmd Object Members](3e7ade9e-86e4-0751-188b-5d31c9101651.md)

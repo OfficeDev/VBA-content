@@ -6,17 +6,14 @@ The  **Hyperlink** object represents a hyperlink associated with a control on a 
 
 ## Remarks
 
-Use the  **Hyperlink**property to return a reference to a hyperlink object.
+Use the  **Hyperlink** property to return a reference to a hyperlink object.
 
 
 ## See also
 
 
-#### Concepts
-
-
- [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
 #### Other resources
 
 
- [Hyperlink Object Members](59452547-c53a-69b7-fd78-2857410c3460.md)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Hyperlink Object Members](59452547-c53a-69b7-fd78-2857410c3460.md)

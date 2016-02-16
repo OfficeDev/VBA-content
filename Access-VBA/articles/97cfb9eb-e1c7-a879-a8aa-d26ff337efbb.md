@@ -1,14 +1,14 @@
 
 # Form.OnDelete Property (Access)
 
-Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String**.
+Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String** .
 
 
 ## Syntax
 
- _expression_. **OnDelete**
+ _expression_ . **OnDelete**
 
- _expression_A variable that represents a  **Form** object.
+ _expression_ A variable that represents a **Form** object.
 
 
 ## Remarks
@@ -20,7 +20,7 @@ The  **Delete** event occurs when the user performs some action, such as pressin
 The  **OnDelete** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Delete** box in the form's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     
@@ -45,8 +45,8 @@ Forms("Order Entry").OnDelete = "[Event Procedure]"
 #### Concepts
 
 
- [Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
+[Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
 #### Other resources
 
 
- [Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)
+[Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)

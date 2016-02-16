@@ -1,14 +1,14 @@
 
 # ToggleButton.OnMouseMove Property (Access)
 
-Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String** .
 
 
 ## Syntax
 
- _expression_. **OnMouseMove**
+ _expression_ . **OnMouseMove**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a **ToggleButton** object.
 
 
 ## Remarks
@@ -20,7 +20,7 @@ The  **MouseMove** event occurs when the user moves the mouse over the object.
 The  **OnMouseMove** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Mouse Move** box in the object's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "=expression", where expression is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     
@@ -45,8 +45,8 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseMove
 #### Concepts
 
 
- [ToggleButton Object](1c20d809-d7db-e096-4328-ebb4d79e770e.md)
+[ToggleButton Object](1c20d809-d7db-e096-4328-ebb4d79e770e.md)
 #### Other resources
 
 
- [ToggleButton Object Members](487101e7-c090-eb79-3671-5c9ce86cb6b0.md)
+[ToggleButton Object Members](487101e7-c090-eb79-3671-5c9ce86cb6b0.md)

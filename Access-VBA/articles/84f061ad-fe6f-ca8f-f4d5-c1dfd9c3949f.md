@@ -1,14 +1,14 @@
 
 # SubForm.BorderTint Property (Access)
 
-Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
+Gets or sets the tint that is applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single** .
 
 
 ## Syntax
 
- _expression_. **BorderTint**
+ _expression_ . **BorderTint**
 
- _expression_A variable that represents a  **SubForm** object.
+ _expression_ A variable that represents a **SubForm** object.
 
 
 ## Remarks
@@ -34,8 +34,8 @@ Me.ctl.BorderTint=25
 #### Concepts
 
 
- [SubForm Object](60f961fa-dcf4-e1d1-8c50-9e88963f9dec.md)
+[SubForm Object](60f961fa-dcf4-e1d1-8c50-9e88963f9dec.md)
 #### Other resources
 
 
- [SubForm Object Members](328e74d8-0418-968f-faca-3e1b34139f48.md)
+[SubForm Object Members](328e74d8-0418-968f-faca-3e1b34139f48.md)

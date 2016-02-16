@@ -6,9 +6,9 @@ The  **Change** event occurs when the contents of the specified control changes.
 
 ## Syntax
 
- _expression_. **Change**
+ _expression_ . **Change**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -47,8 +47,8 @@ In combo boxes for which the  **LimitToList** property is set to Yes, the **NotI
 #### Concepts
 
 
- [TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
+[TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
 #### Other resources
 
 
- [TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)
+[TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)

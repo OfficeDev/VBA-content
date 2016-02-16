@@ -6,9 +6,9 @@ The  **KeyDown** event occurs when the user presses a key while a report has the
 
 ## Syntax
 
- _expression_. **KeyDown**( **_KeyCode_**,  **_Shift_**)
+ _expression_ . **KeyDown**( **_KeyCode_** , **_Shift_** )
 
- _expression_A variable that represents a  **Report** object.
+ _expression_ A variable that represents a **Report** object.
 
 
 ### Parameters
@@ -17,11 +17,11 @@ The  **KeyDown** event occurs when the user presses a key while a report has the
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|KeyCode|Required| **Integer**|A key code, such as  **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
-|Shift|Required| **Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b> The bit mask for the SHIFT key.  
-  </p></li><li><p><b>acCtrlMask</b> The bit mask for the CTRL key.  
-  </p></li><li><p><b>acAltMask</b> The bit mask for the ALT key.  
+| _KeyCode_|Required| **Integer**|A key code, such as  **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
+| _Shift_|Required| **Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.  
+  </p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.  
+  </p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.  
 </p></li></ul>|
 
 ## Remarks
@@ -30,7 +30,7 @@ To run a macro or event procedure when these events occur, set the  **OnKeyDown*
 
 A report will also receive all keyboard events, even those that occur for controls, if you set the  **KeyPreview** property of the report to Yes. With this property setting, all keyboard events occur first for the report, and then for the control that has the focus. You can respond to specific keys pressed in the report, regardless of which control has the focus. For example, you may want the key combination CTRL+X to always perform the same action on a report.
 
-If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly ( **KeyDown**,  **KeyPress**,  **KeyDown**,  **KeyPress**, and so on) until you release the key, and then the  **KeyUp** event occurs.
+If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly ( **KeyDown** , **KeyPress** , **KeyDown** , **KeyPress** , and so on) until you release the key, and then the **KeyUp** event occurs.
 
 Although the  **KeyDown** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
 
@@ -54,8 +54,8 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 #### Concepts
 
 
- [Report Object](6f77c1b4-a9ce-7caa-204c-fe0755c6f9df.md)
+[Report Object](6f77c1b4-a9ce-7caa-204c-fe0755c6f9df.md)
 #### Other resources
 
 
- [Report Object Members](73370a33-1ca0-da4d-9e36-88011bc2b93e.md)
+[Report Object Members](73370a33-1ca0-da4d-9e36-88011bc2b93e.md)

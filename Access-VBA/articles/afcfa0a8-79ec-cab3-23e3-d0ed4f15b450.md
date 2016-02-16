@@ -1,14 +1,14 @@
 
 # AllStoredProcedures.Application Property (Access)
 
-You can use the  **Application** property to access the active Microsoft Access **[Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)** object and its related properties. Read-only  **Application** object.
+You can use the  **Application** property to access the active Microsoft Access **[Application](aefb0713-97e6-e2c7-e530-8fd2e1316a55.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents an  **AllStoredProcedures** object.
+ _expression_ A variable that represents an **AllStoredProcedures** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Me.Application.MenuBar
 #### Concepts
 
 
- [AllStoredProcedures Collection](896f4c2c-273c-2849-0f06-d75fa515c44a.md)
+[AllStoredProcedures Collection](896f4c2c-273c-2849-0f06-d75fa515c44a.md)
 #### Other resources
 
 
- [AllStoredProcedures Object Members](36a5b27f-9a95-d7e4-bca1-7de9252893a4.md)
+[AllStoredProcedures Object Members](36a5b27f-9a95-d7e4-bca1-7de9252893a4.md)

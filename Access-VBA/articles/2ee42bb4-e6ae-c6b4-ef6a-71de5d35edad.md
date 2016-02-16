@@ -6,9 +6,9 @@ Returns or sets a  **Boolean** indicating whether line breaks in text boxes foll
 
 ## Syntax
 
- _expression_. **AsianLineBreak**
+ _expression_ . **AsianLineBreak**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Setting the  **AsianLineBreak** property to **True** moves any punctuation marks
 This example sets all the text boxes on the specified form to break lines according to East Asian language rules.
 
 
-```vb
+```
 Dim ctlLoop As Control 
  
 For Each ctlLoop In Forms(0).Controls 
@@ -38,8 +38,8 @@ Next ctlLoop
 #### Concepts
 
 
- [TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
+[TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
 #### Other resources
 
 
- [TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)
+[TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)

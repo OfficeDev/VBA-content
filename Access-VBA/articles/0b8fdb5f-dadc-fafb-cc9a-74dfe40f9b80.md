@@ -1,14 +1,14 @@
 
 # ObjectFrame.Tag Property (Access)
 
-Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
+Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String** .
 
 
 ## Syntax
 
- _expression_. **Tag**
+ _expression_ . **Tag**
 
- _expression_A variable that represents an  **ObjectFrame** object.
+ _expression_ A variable that represents an **ObjectFrame** object.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ You can use this property to assign an identification string to an object withou
 The following example uses the  **Tag** property to display custom messages about controls on a form. When a control has the focus, descriptive text is displayed in a label control called `lblMessage`. You specify the text for the message by setting the  **Tag** property for each control to a short text string. When a control receives the focus, its **Tag** property is assigned to the label control's **Caption** property. This example displays the descriptive text for a text box named `txtDescription` and a command button named `cmdButton` on a form.
 
 
-```vb
+```
 Sub Form_Load() 
  Dim frmMessageForm As Form 
  
@@ -62,8 +62,8 @@ End Sub
 #### Concepts
 
 
- [ObjectFrame Object](0eb85477-58d7-249a-2bf7-f2f3960a45a9.md)
+[ObjectFrame Object](0eb85477-58d7-249a-2bf7-f2f3960a45a9.md)
 #### Other resources
 
 
- [ObjectFrame Object Members](65229083-68ec-b870-50f4-a6c329259a39.md)
+[ObjectFrame Object Members](65229083-68ec-b870-50f4-a6c329259a39.md)

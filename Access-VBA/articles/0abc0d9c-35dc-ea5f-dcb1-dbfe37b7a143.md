@@ -1,14 +1,14 @@
 
 # ComboBox.CanGrow Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean** .
 
 
 ## Syntax
 
- _expression_. **CanGrow**
+ _expression_ . **CanGrow**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -24,8 +24,8 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 #### Concepts
 
 
- [ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
+[ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
 #### Other resources
 
 
- [ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)
+[ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)

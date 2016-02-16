@@ -14,11 +14,8 @@ Use the  **[Tabs](a8b2546c-9b1f-a8ff-1a6f-8e607415ffec.md)** property of the **[
 ## See also
 
 
-#### Concepts
-
-
- [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
 #### Other resources
 
 
- [NavigationButton Object Members](e1d63e3c-ee09-4302-21dc-96fa76cf50fd.md)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[NavigationButton Object Members](e1d63e3c-ee09-4302-21dc-96fa76cf50fd.md)
