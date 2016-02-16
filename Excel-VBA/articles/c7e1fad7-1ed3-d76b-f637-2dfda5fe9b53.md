@@ -6,9 +6,9 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_ . **Visible**
 
- _expression_A variable that represents a  **ChartObjects** object.
+ _expression_ A variable that represents a **ChartObjects** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 #### Concepts
 
 
- [ChartObjects Object](67cf2d82-ed9b-b23d-836f-19b106bcc5ed.md)
+[ChartObjects Object](67cf2d82-ed9b-b23d-836f-19b106bcc5ed.md)
 #### Other resources
 
 
- [ChartObjects Object Members](9b6cdfd7-0926-fff0-ecc1-ce1cef00ebee.md)
+[ChartObjects Object Members](9b6cdfd7-0926-fff0-ecc1-ce1cef00ebee.md)

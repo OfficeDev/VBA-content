@@ -6,9 +6,9 @@ Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 ot
 
 ## Syntax
 
- _expression_. **Delta**( **_Arg1_**,  **_Arg2_**)
+ _expression_ . **Delta**( **_Arg1_** , **_Arg2_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 ot
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Variant**|Number1 - the first number.|
-|Arg2|Optional| **Variant**|Number2 - the second number. If omitted, number2 is assumed to be zero.|
+| _Arg1_|Required| **Variant**|Number1 - the first number.|
+| _Arg2_|Optional| **Variant**|Number2 - the second number. If omitted, number2 is assumed to be zero.|
 
 ### Return Value
 
@@ -41,8 +41,8 @@ Double
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

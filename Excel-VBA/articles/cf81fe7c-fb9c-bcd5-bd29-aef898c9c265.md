@@ -6,9 +6,9 @@ Enables you to take the contents and formatting of a single data label and apply
 
 ## Syntax
 
- _expression_. **Propagate**(Index)
+ _expression_ . **Propagate**_(Index)_
 
- _expression_A variable that represents a  **DataLabels** object.
+ _expression_ A variable that represents a **DataLabels** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Enables you to take the contents and formatting of a single data label and apply
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required|VARIANT|The index number of the data label to propagate.|
+| _Index_|Required|VARIANT|The index number of the data label to propagate.|
 
 ### Remarks
 
@@ -38,8 +38,8 @@ If the source data label supports fields that are incompatible with the destinat
 #### Concepts
 
 
- [DataLabels Object](3d79271e-c702-e785-6984-d838d060a8c5.md)
+[DataLabels Object](3d79271e-c702-e785-6984-d838d060a8c5.md)
 #### Other resources
 
 
- [DataLabels Object Members](3c9d909d-d090-b6ed-8a28-ba62c3459044.md)
+[DataLabels Object Members](3c9d909d-d090-b6ed-8a28-ba62c3459044.md)

@@ -6,9 +6,9 @@ Returns a  **[Font](f4788ba4-1c4c-2f03-4d73-194bc9316825.md)** object that repre
 
 ## Syntax
 
- _expression_. **Font**
+ _expression_ . **Font**
 
- _expression_A variable that represents a  **Phonetic** object.
+ _expression_ A variable that represents a **Phonetic** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **[Font](f4788ba4-1c4c-2f03-4d73-194bc9316825.md)** object that repre
 #### Concepts
 
 
- [Phonetic Object](297e85d5-e8f6-6009-c51a-0d3fe01efba0.md)
+[Phonetic Object](297e85d5-e8f6-6009-c51a-0d3fe01efba0.md)
 #### Other resources
 
 
- [Phonetic Object Members](4875c308-cfdb-6427-997c-35f7d919efab.md)
+[Phonetic Object Members](4875c308-cfdb-6427-997c-35f7d919efab.md)

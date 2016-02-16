@@ -1,22 +1,22 @@
 
 # Application.Ready Property (Excel)
 
-Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean**.
+Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean** .
 
 
 ## Syntax
 
- _expression_. **Ready**
+ _expression_ . **Ready**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ## Example
 
-In this example, Microsoft Excel checks to see if the  **Ready** property is set to **True**, and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
+In this example, Microsoft Excel checks to see if the  **Ready** property is set to **True** , and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
 
 
-```vb
+```
 Sub UseReady() 
  
  If Application.Ready = True Then 
@@ -35,8 +35,8 @@ End Sub
 #### Concepts
 
 
- [Application Object](19b73597-5cf9-4f56-8227-b5211f657f6f.md)
+[Application Object](19b73597-5cf9-4f56-8227-b5211f657f6f.md)
 #### Other resources
 
 
- [Application Object Members](4cb9ca42-8d07-cc9c-2d80-4eb9a5921e1e.md)
+[Application Object Members](4cb9ca42-8d07-cc9c-2d80-4eb9a5921e1e.md)

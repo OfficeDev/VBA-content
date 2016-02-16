@@ -10,8 +10,8 @@ This object or member has been deprecated, but it remains part of the object mod
 #### Concepts
 
 
- [RoutingSlip Object](126d4c87-7e1c-3ecd-d223-f23a02444f61.md)
+[RoutingSlip Object](126d4c87-7e1c-3ecd-d223-f23a02444f61.md)
 #### Other resources
 
 
- [RoutingSlip Object Members](26b025ce-56a8-3afb-463d-c5ed70cdba96.md)
+[RoutingSlip Object Members](26b025ce-56a8-3afb-463d-c5ed70cdba96.md)

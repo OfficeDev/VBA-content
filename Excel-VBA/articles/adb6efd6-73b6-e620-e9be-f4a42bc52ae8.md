@@ -1,7 +1,7 @@
 
 # Borders Object (Excel)
 
-A collection of four  **[Border](bca516bf-7c0f-f9df-078d-dfb522f256f3.md)** objects that represent the four borders of a **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** or  **[Style](3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)** object.
+A collection of four  **[Border](bca516bf-7c0f-f9df-078d-dfb522f256f3.md)** objects that represent the four borders of a **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** or **[Style](3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)** object.
 
 
 ## Remarks
@@ -20,7 +20,7 @@ The following example adds a double border to cell A1 on worksheet one.
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
-Use  **Borders**( _index_), where  _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1 to red.
+Use  **Borders** ( _index_ ), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1 to red.
 
 
 
@@ -30,17 +30,14 @@ Worksheets("Sheet1").Range("A1:G1"). _
  Borders(xlEdgeBottom).Color = RGB(255, 0, 0)
 ```
 
- _Index_ can be one of the following **[xlBordersIndex](91ab77e7-c54f-266d-fc61-7ce0bed1bd8c.md)** constants: **xlDiagonalDown**,  **xlDiagonalUp**,  **xlEdgeBottom**,  **xlEdgeLeft**,  **xlEdgeRight**, or  **xlEdgeTop**,  **xlInsideHorizontal**, or  **xlInsideVertical**.
+ _Index_ can be one of the following **[xlBordersIndex](91ab77e7-c54f-266d-fc61-7ce0bed1bd8c.md)** constants: **xlDiagonalDown** , **xlDiagonalUp** , **xlEdgeBottom** , **xlEdgeLeft** , **xlEdgeRight** , or **xlEdgeTop** , **xlInsideHorizontal** , or **xlInsideVertical** .
 
 
 ## See also
 
 
-#### Concepts
-
-
- [Excel Object Model Reference](11ea8598-8a20-92d5-f98b-0da04263bf2c.md)
 #### Other resources
 
 
- [Borders Object Members](8fb1ee1d-8e09-0b65-a9a3-4f278f6f9164.md)
+[Borders Object Members](8fb1ee1d-8e09-0b65-a9a3-4f278f6f9164.md)
+[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

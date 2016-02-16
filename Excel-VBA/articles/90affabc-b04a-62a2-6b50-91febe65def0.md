@@ -6,9 +6,9 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words e
 
 ## Syntax
 
- _expression_. **ArabicStrictFinalYaa**
+ _expression_ . **ArabicStrictFinalYaa**
 
- _expression_A variable that represents a  **[SpellingOptions](3ba7d0b4-bebb-0cc9-cb50-066d1c19d876.md)** object.
+ _expression_ A variable that represents a **[SpellingOptions](3ba7d0b4-bebb-0cc9-cb50-066d1c19d876.md)** object.
 
 
 ### Return Value
@@ -18,7 +18,7 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words e
 
 ## Remarks
 
- **True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise **False**.
+ **True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise **False** .
 
 
 ## See also
@@ -27,8 +27,8 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words e
 #### Concepts
 
 
- [SpellingOptions Object](3ba7d0b4-bebb-0cc9-cb50-066d1c19d876.md)
+[SpellingOptions Object](3ba7d0b4-bebb-0cc9-cb50-066d1c19d876.md)
 #### Other resources
 
 
- [SpellingOptions Object Members](d25612d9-256d-de1b-e89b-0440f37d9caa.md)
+[SpellingOptions Object Members](d25612d9-256d-de1b-e89b-0440f37d9caa.md)

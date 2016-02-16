@@ -6,9 +6,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_A variable that represents an  **Areas** object.
+ _expression_ A variable that represents an **Areas** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 This example displays the number of columns in the selection on Sheet1. The code also tests for a multiple-area selection; if one exists, the code loops on the areas of the multiple-area selection.
 
 
-```vb
+```
 Sub DisplayColumnCount() 
  Dim iAreaCount As Integer 
  Dim i As Integer 
@@ -42,8 +42,8 @@ End Sub
 #### Concepts
 
 
- [Areas Collection](43d05ef3-7ae2-2881-dec2-6fec8281f045.md)
+[Areas Collection](43d05ef3-7ae2-2881-dec2-6fec8281f045.md)
 #### Other resources
 
 
- [Areas Object Members](5df53e64-1fe5-66cb-0777-438a80f399cc.md)
+[Areas Object Members](5df53e64-1fe5-66cb-0777-438a80f399cc.md)

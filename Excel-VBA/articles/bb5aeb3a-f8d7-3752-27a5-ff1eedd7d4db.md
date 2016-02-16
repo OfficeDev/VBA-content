@@ -6,9 +6,9 @@ Returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object. R
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **TextFrame2** object.
+ _expression_ A variable that represents a **TextFrame2** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ When used without an object qualifier, this property returns an  **[Application]
 #### Concepts
 
 
- [TextFrame2 Object](66ba23e5-9b15-b954-a1db-1bd19b4eb90d.md)
+[TextFrame2 Object](66ba23e5-9b15-b954-a1db-1bd19b4eb90d.md)
 #### Other resources
 
 
- [TextFrame2 Object Members](04f18e2a-8a83-b077-fe38-4bb56edce5a7.md)
+[TextFrame2 Object Members](04f18e2a-8a83-b077-fe38-4bb56edce5a7.md)

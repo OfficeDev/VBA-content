@@ -6,9 +6,9 @@ Returns the price per $100 face value of a security having an odd (short or long
 
 ## Syntax
 
- _expression_. **OddFPrice**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**,  **_Arg4_**,  **_Arg5_**,  **_Arg6_**,  **_Arg7_**,  **_Arg8_**,  **_Arg9_**)
+ _expression_ . **OddFPrice**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** , **_Arg5_** , **_Arg6_** , **_Arg7_** , **_Arg8_** , **_Arg9_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,15 +17,15 @@ Returns the price per $100 face value of a security having an odd (short or long
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Variant**|Settlement - the security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
-|Arg2|Required| **Variant**|Maturity - the security's maturity date. The maturity date is the date when the security expires.|
-|Arg3|Required| **Variant**|Issue - the security's issue date.|
-|Arg4|Required| **Variant**|First_coupon - the security's first coupon date.|
-|Arg5|Required| **Variant**|Rate - the security's interest rate.|
-|Arg6|Required| **Variant**|Yld - the security's annual yield.|
-|Arg7|Required| **Variant**|Redemption - the security's redemption value per $100 face value.|
-|Arg8|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
-|Arg9|Optional| **Variant**|Basis - the type of day count basis to use.|
+| _Arg1_|Required| **Variant**|Settlement - the security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
+| _Arg2_|Required| **Variant**|Maturity - the security's maturity date. The maturity date is the date when the security expires.|
+| _Arg3_|Required| **Variant**|Issue - the security's issue date.|
+| _Arg4_|Required| **Variant**|First_coupon - the security's first coupon date.|
+| _Arg5_|Required| **Variant**|Rate - the security's interest rate.|
+| _Arg6_|Required| **Variant**|Yld - the security's annual yield.|
+| _Arg7_|Required| **Variant**|Redemption - the security's redemption value per $100 face value.|
+| _Arg8_|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
+| _Arg9_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
 ### Return Value
 
@@ -60,8 +60,8 @@ Double
 - The following date condition must be satisfied; otherwise, ODDFPRICE returns the #NUM! error value: maturity > first_coupon > settlement > issue 
     
 - ODDFPRICE is calculated as follows: Odd short first coupon: 
-![](../images/awfodfp1_ZA06051215.gif)where: A = number of days from the beginning of the coupon period to the settlement date (accrued days). DSC = number of days from the settlement to the next coupon date. DFC = number of days from the beginning of the odd first coupon to the first coupon date. E = number of days in the coupon period. N = number of coupons payable between the settlement date and the redemption date. (If this number contains a fraction, it is raised to the next whole number.) Odd long first coupon: 
-![](../images/awfodfp2_ZA06047509.gif)where: Ai = number of days from the beginning of the ith, or last, quasi-coupon period within odd period. DCi = number of days from dated date (or issue date) to first quasi-coupon (i = 1) or number of days in quasi-coupon (i = 2,..., i = NC). DSC = number of days from settlement to next coupon date. E = number of days in coupon period. N = number of coupons payable between the first real coupon date and redemption date. (If this number contains a fraction, it is raised to the next whole number.) NC = number of quasi-coupon periods that fit in odd period. (If this number contains a fraction, it is raised to the next whole number.) NLi = normal length in days of the full ith, or last, quasi-coupon period within odd period. Nq = number of whole quasi-coupon periods between settlement date and first coupon. 
+![](images/awfodfp1_ZA06051215.gif)where: A = number of days from the beginning of the coupon period to the settlement date (accrued days). DSC = number of days from the settlement to the next coupon date. DFC = number of days from the beginning of the odd first coupon to the first coupon date. E = number of days in the coupon period. N = number of coupons payable between the settlement date and the redemption date. (If this number contains a fraction, it is raised to the next whole number.) Odd long first coupon: 
+![](images/awfodfp2_ZA06047509.gif)where: Ai = number of days from the beginning of the ith, or last, quasi-coupon period within odd period. DCi = number of days from dated date (or issue date) to first quasi-coupon (i = 1) or number of days in quasi-coupon (i = 2,..., i = NC). DSC = number of days from settlement to next coupon date. E = number of days in coupon period. N = number of coupons payable between the first real coupon date and redemption date. (If this number contains a fraction, it is raised to the next whole number.) NC = number of quasi-coupon periods that fit in odd period. (If this number contains a fraction, it is raised to the next whole number.) NLi = normal length in days of the full ith, or last, quasi-coupon period within odd period. Nq = number of whole quasi-coupon periods between settlement date and first coupon. 
     
 
 ## See also
@@ -70,8 +70,8 @@ Double
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

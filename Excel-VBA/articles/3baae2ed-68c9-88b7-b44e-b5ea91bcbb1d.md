@@ -6,9 +6,9 @@ Returns values along a linear trend. Fits a straight line (using the method of l
 
 ## Syntax
 
- _expression_. **Trend**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**,  **_Arg4_**)
+ _expression_ . **Trend**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ Returns values along a linear trend. Fits a straight line (using the method of l
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Variant**|Known_y's - the set of y-values you already know in the relationship y = mx + b.|
-|Arg2|Optional| **Variant**|Known_x's - an optional set of x-values that you may already know in the relationship y = mx + b.|
-|Arg3|Optional| **Variant**|New_x's - new x-values for which you want TREND to return corresponding y-values.|
-|Arg4|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 0.|
+| _Arg1_|Required| **Variant**|Known_y's - the set of y-values you already know in the relationship y = mx + b.|
+| _Arg2_|Optional| **Variant**|Known_x's - an optional set of x-values that you may already know in the relationship y = mx + b.|
+| _Arg3_|Optional| **Variant**|New_x's - new x-values for which you want TREND to return corresponding y-values.|
+| _Arg4_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 0.|
 
 ### Return Value
 
@@ -69,8 +69,8 @@ Variant
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

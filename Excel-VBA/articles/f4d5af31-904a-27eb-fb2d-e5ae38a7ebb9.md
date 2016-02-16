@@ -6,9 +6,9 @@ Returns or sets a  **Variant** value that represents the indent level for the ce
 
 ## Syntax
 
- _expression_. **IndentLevel**
+ _expression_ . **IndentLevel**
 
- _expression_A variable that represents a  **Range** object.
+ _expression_ A variable that represents a **Range** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Using this property to set the indent level to a number less than 0 (zero) or gr
 This example increases the indent level to 15 in cell A10.
 
 
-```vb
+```
 With Range("A10") 
  .IndentLevel = 15 
 End With
@@ -34,8 +34,8 @@ End With
 #### Concepts
 
 
- [Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
+[Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
 #### Other resources
 
 
- [Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)
+[Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)

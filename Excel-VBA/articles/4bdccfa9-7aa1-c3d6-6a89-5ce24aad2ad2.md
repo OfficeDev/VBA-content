@@ -6,9 +6,9 @@ Returns a  **[Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection that 
 
 ## Syntax
 
- _expression_. **Names**
+ _expression_ . **Names**
 
- _expression_A variable that represents a  **Worksheet** object.
+ _expression_ A variable that represents a **Worksheet** object.
 
 
 ## Remarks
@@ -33,8 +33,8 @@ ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _
 #### Concepts
 
 
- [Worksheet Object](182b705e-854a-81cc-a4b0-59b942de55ae.md)
+[Worksheet Object](182b705e-854a-81cc-a4b0-59b942de55ae.md)
 #### Other resources
 
 
- [Worksheet Object Members](f8c1afea-1a1c-f5e4-37e3-52c434c8c157.md)
+[Worksheet Object Members](f8c1afea-1a1c-f5e4-37e3-52c434c8c157.md)

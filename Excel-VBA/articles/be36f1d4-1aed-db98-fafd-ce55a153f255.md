@@ -6,9 +6,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **TableStyleElement** object.
+ _expression_ A variable that represents a **TableStyleElement** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ You can use this property with an OLE Automation object to return the applicatio
 #### Concepts
 
 
- [TableStyleElement Object](a8fc24e5-45bf-3361-edfe-4762f944eef5.md)
+[TableStyleElement Object](a8fc24e5-45bf-3361-edfe-4762f944eef5.md)
 #### Other resources
 
 
- [TableStyleElement Object Members](d89ee8b0-31a6-ea36-170f-57eab90eb712.md)
+[TableStyleElement Object Members](d89ee8b0-31a6-ea36-170f-57eab90eb712.md)

@@ -6,9 +6,9 @@ Changes the access permissions for the workbook. This may require an updated ver
 
 ## Syntax
 
- _expression_. **ChangeFileAccess**( **_Mode_**,  **_WritePassword_**,  **_Notify_**)
+ _expression_ . **ChangeFileAccess**( **_Mode_** , **_WritePassword_** , **_Notify_** )
 
- _expression_A variable that represents a  **Workbook** object.
+ _expression_ A variable that represents a **Workbook** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Changes the access permissions for the workbook. This may require an updated ver
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Mode|Required| **[XlFileAccess](7b4a7dc7-11c2-dea9-5e04-dcabe6530ee0.md)**|Specifies the new access mode.|
-|WritePassword|Optional| **Variant**|Specifies the write-reserved password if the file is write reserved and Mode is **xlReadWrite**. Ignored if there's no password for the file or if Mode is **xlReadOnly**.|
-|Notify|Optional| **Variant**| **True** (or omitted) to notify the user if the file cannot be immediately accessed.|
+| _Mode_|Required| **[XlFileAccess](7b4a7dc7-11c2-dea9-5e04-dcabe6530ee0.md)**|Specifies the new access mode.|
+| _WritePassword_|Optional| **Variant**|Specifies the write-reserved password if the file is write reserved and  _Mode_ is **xlReadWrite** . Ignored if there's no password for the file or if _Mode_ is **xlReadOnly** .|
+| _Notify_|Optional| **Variant**| **True** (or omitted) to notify the user if the file cannot be immediately accessed.|
 
 ## Remarks
 
@@ -42,8 +42,8 @@ ActiveWorkbook.ChangeFileAccess Mode:=xlReadOnly
 #### Concepts
 
 
- [Workbook Object](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)
+[Workbook Object](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)
 #### Other resources
 
 
- [Workbook Object Members](dce102a3-25de-3ff4-2ce5-bc56e08baca7.md)
+[Workbook Object Members](dce102a3-25de-3ff4-2ce5-bc56e08baca7.md)

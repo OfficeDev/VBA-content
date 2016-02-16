@@ -1,14 +1,14 @@
 
 # Trendline.Application Property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **Trendline** object.
+ _expression_ A variable that represents a **Trendline** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ When used without an object qualifier, this property returns an  **[Application]
 This example displays a message about the application that created  `myObject`.
 
 
-```vb
+```
 Set myObject = ActiveWorkbook 
 If myObject.Application.Value = "Microsoft Excel" Then 
  MsgBox "This is an Excel Application object." 
@@ -32,8 +32,8 @@ End If
 #### Concepts
 
 
- [Trendline Object](5c04b065-57f4-a059-7c22-50612bd727ea.md)
+[Trendline Object](5c04b065-57f4-a059-7c22-50612bd727ea.md)
 #### Other resources
 
 
- [Trendline Object Members](b63cecc4-6151-f66c-8d73-9f66850046b1.md)
+[Trendline Object Members](b63cecc4-6151-f66c-8d73-9f66850046b1.md)

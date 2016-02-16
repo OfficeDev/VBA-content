@@ -1,14 +1,14 @@
 
 # Font.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a **Font** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [Font Object](f4788ba4-1c4c-2f03-4d73-194bc9316825.md)
+[Font Object](f4788ba4-1c4c-2f03-4d73-194bc9316825.md)
 #### Other resources
 
 
- [Font Object Members](537d89ae-59c5-0420-029a-32a2c385f02c.md)
+[Font Object Members](537d89ae-59c5-0420-029a-32a2c385f02c.md)

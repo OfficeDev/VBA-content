@@ -6,9 +6,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_A variable that represents an  **Axes** object.
+ _expression_ A variable that represents an **Axes** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns the parent object for the specified object. Read-only.
 This example displays the name of the chart that contains  `myAxis`.
 
 
-```vb
+```
 Sub DisplayParentName() 
  
  Set myAxis = Charts(1).Axes(xlValue) 
@@ -32,8 +32,8 @@ End Sub
 #### Concepts
 
 
- [Axes Collection](581e51e5-3dbb-7f0c-a87d-2d44f67dad0b.md)
+[Axes Collection](581e51e5-3dbb-7f0c-a87d-2d44f67dad0b.md)
 #### Other resources
 
 
- [Axes Object Members](10a6fffe-65ff-e9b2-813c-357664e276a5.md)
+[Axes Object Members](10a6fffe-65ff-e9b2-813c-357664e276a5.md)

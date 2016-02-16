@@ -1,14 +1,14 @@
 
 # LegendEntries.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **LegendEntries** object.
+ _expression_ A variable that represents a **LegendEntries** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [LegendEntries Object](51d98149-b90b-432b-7771-0815a0e89655.md)
+[LegendEntries Object](51d98149-b90b-432b-7771-0815a0e89655.md)
 #### Other resources
 
 
- [LegendEntries Object Members](dddeca68-d207-60af-9c16-afe670851a08.md)
+[LegendEntries Object Members](dddeca68-d207-60af-9c16-afe670851a08.md)

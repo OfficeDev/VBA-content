@@ -6,9 +6,9 @@ Returns a  **[PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object that
 
 ## Syntax
 
- _expression_. **PivotTable**
+ _expression_ . **PivotTable**
 
- _expression_A variable that represents a  **PivotCell** object.
+ _expression_ A variable that represents a **PivotCell** object.
 
 
 ## Example
@@ -39,8 +39,8 @@ objPT.PivotFields("State").CurrentPageName = "Oregon"
 #### Concepts
 
 
- [PivotCell Object](76b8a2dc-90ee-7475-d327-d27cb1e92703.md)
+[PivotCell Object](76b8a2dc-90ee-7475-d327-d27cb1e92703.md)
 #### Other resources
 
 
- [PivotCell Object Members](e486cd5d-3f31-29d4-b811-24fc0aed6803.md)
+[PivotCell Object Members](e486cd5d-3f31-29d4-b811-24fc0aed6803.md)

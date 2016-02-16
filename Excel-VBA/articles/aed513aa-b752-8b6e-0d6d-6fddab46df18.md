@@ -1,14 +1,14 @@
 
 # PivotCache.RefreshOnFileOpen Property (Excel)
 
- **True** if the PivotTable cache is automatically updated each time the workbook is opened. The default value is **False**. Read/write  **Boolean**.
+ **True** if the PivotTable cache is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **RefreshOnFileOpen**
+ _expression_ . **RefreshOnFileOpen**
 
- _expression_A variable that represents a  **PivotCache** object.
+ _expression_ A variable that represents a **PivotCache** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Query tables and PivotTable reports are not automatically refreshed when you ope
 This example causes the PivotTable cache to automatically update each time the workbook is opened.
 
 
-```vb
+```
 ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 ```
 
@@ -32,8 +32,8 @@ ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 #### Concepts
 
 
- [PivotCache Object](c3d84ef1-f9e6-b1bc-cbf0-3ba8dfe17439.md)
+[PivotCache Object](c3d84ef1-f9e6-b1bc-cbf0-3ba8dfe17439.md)
 #### Other resources
 
 
- [PivotCache Object Members](113f1109-e1c9-2c6e-0581-9fba82f278dc.md)
+[PivotCache Object Members](113f1109-e1c9-2c6e-0581-9fba82f278dc.md)

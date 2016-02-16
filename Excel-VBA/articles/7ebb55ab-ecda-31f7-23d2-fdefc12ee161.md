@@ -6,9 +6,9 @@ Creates a new PivotTable report for each item in the page field. Each new report
 
 ## Syntax
 
- _expression_. **ShowPages**( **_PageField_**)
+ _expression_ . **ShowPages**( **_PageField_** )
 
- _expression_A variable that represents a  **PivotTable** object.
+ _expression_ A variable that represents a **PivotTable** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Creates a new PivotTable report for each item in the page field. Each new report
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PageField|Optional| **Variant**|A string that names a single page field in the report.|
+| _PageField_|Optional| **Variant**|A string that names a single page field in the report.|
 
 ### Return Value
 
@@ -26,12 +26,12 @@ Variant
 
 ## Remarks
 
-This method isn't available for OLAP data sources.
+This method isn?t available for OLAP data sources.
 
 
 ## Example
 
-This example creates a new PivotTable report for each item in the page field, which is the field named "Country."
+This example creates a new PivotTable report for each item in the page field, which is the field named ?Country.?
 
 
 ```
@@ -46,8 +46,8 @@ pvtTable.ShowPages "Country"
 #### Concepts
 
 
- [PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
+[PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
 #### Other resources
 
 
- [PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)
+[PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)

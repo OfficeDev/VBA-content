@@ -1,14 +1,14 @@
 
 # TextEffectFormat.FontItalic Property (Excel)
 
-Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**.
+Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax
 
- _expression_. **FontItalic**
+ _expression_ . **FontItalic**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_ A variable that represents a **TextEffectFormat** object.
 
 
 ## Remarks
@@ -41,8 +41,8 @@ myDocument.Shapes("WordArt 4").TextEffect.FontItalic = msoTrue
 #### Concepts
 
 
- [TextEffectFormat Object](7fe03721-6a45-569e-add4-fc8849c99535.md)
+[TextEffectFormat Object](7fe03721-6a45-569e-add4-fc8849c99535.md)
 #### Other resources
 
 
- [TextEffectFormat Object Members](10d920d6-b96f-7afa-8e27-c22ba0926146.md)
+[TextEffectFormat Object Members](10d920d6-b96f-7afa-8e27-c22ba0926146.md)

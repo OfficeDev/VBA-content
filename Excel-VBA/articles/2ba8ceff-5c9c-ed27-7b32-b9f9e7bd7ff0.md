@@ -1,14 +1,14 @@
 
 # PivotItem.RecordCount Property (Excel)
 
-Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long**.
+Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **RecordCount**
+ _expression_ . **RecordCount**
 
- _expression_A variable that represents a  **PivotItem** object.
+ _expression_ A variable that represents a **PivotItem** object.
 
 
 ## Remarks
@@ -33,8 +33,8 @@ MsgBox Worksheets(1).PivotTables("Pivot1") _
 #### Concepts
 
 
- [PivotItem Object](5829a1d9-0924-9ce8-1120-229e4595285a.md)
+[PivotItem Object](5829a1d9-0924-9ce8-1120-229e4595285a.md)
 #### Other resources
 
 
- [PivotItem Object Members](dde86683-8c89-2484-cdd0-8c3db0c06f45.md)
+[PivotItem Object Members](dde86683-8c89-2484-cdd0-8c3db0c06f45.md)

@@ -6,9 +6,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_ . **Priority**
 
- _expression_A variable that represents a  **FormatCondition** object.
+ _expression_ A variable that represents a **FormatCondition** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ When setting the priority, the value must be a positive integer between 1 and th
 #### Concepts
 
 
- [FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
+[FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
 #### Other resources
 
 
- [FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)
+[FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)

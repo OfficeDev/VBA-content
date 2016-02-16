@@ -1,14 +1,14 @@
 
 # ChartGroup.Overlap Property (Excel)
 
-Specifies how bars and columns are positioned. Can be a value between - 100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write  **Long**.
+Specifies how bars and columns are positioned. Can be a value between - 100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write  **Long** .
 
 
 ## Syntax
 
- _expression_. **Overlap**
+ _expression_ . **Overlap**
 
- _expression_A variable that represents a  **ChartGroup** object.
+ _expression_ A variable that represents a **ChartGroup** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Charts("Chart1").ChartGroups(1).Overlap = -50
 #### Concepts
 
 
- [ChartGroup Object](7eee66c5-04a7-fd86-6e34-4c22ccaf8de0.md)
+[ChartGroup Object](7eee66c5-04a7-fd86-6e34-4c22ccaf8de0.md)
 #### Other resources
 
 
- [ChartGroup Object Members](2d31f7af-d639-c8f4-0714-08fc618ec92d.md)
+[ChartGroup Object Members](2d31f7af-d639-c8f4-0714-08fc618ec92d.md)

@@ -1,14 +1,14 @@
 
 # OLEDBError.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents an  **OLEDBError** object.
+ _expression_ A variable that represents an **OLEDBError** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [OLEDBError Object](6bcbf721-f2c8-f784-361b-e1a298bb2ecb.md)
+[OLEDBError Object](6bcbf721-f2c8-f784-361b-e1a298bb2ecb.md)
 #### Other resources
 
 
- [OLEDBError Object Members](52181252-dd6f-b267-fa21-4ad8175b7346.md)
+[OLEDBError Object Members](52181252-dd6f-b267-fa21-4ad8175b7346.md)

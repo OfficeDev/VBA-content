@@ -6,9 +6,9 @@ Replaces part of a text string, based on the number of characters you specify, w
 
 ## Syntax
 
- _expression_. **Replace**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**,  **_Arg4_**)
+ _expression_ . **Replace**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ Replaces part of a text string, based on the number of characters you specify, w
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **String**|Text in which you want to replace some characters.|
-|Arg2|Required| **Double**|The position of the character in  **Arg1** that you want to replace with **Arg4**.|
-|Arg3|Required| **Double**|The number of characters in  **Arg1** that you want the **Replace** method to replace with **Arg4**.|
-|Arg4|Required| **String**|Text that will replace characters in  **Arg1**.|
+| _Arg1_|Required| **String**|Text in which you want to replace some characters.|
+| _Arg2_|Required| **Double**|The position of the character in  **Arg1** that you want to replace with **Arg4** .|
+| _Arg3_|Required| **Double**|The number of characters in  **Arg1** that you want the **Replace** method to replace with **Arg4** .|
+| _Arg4_|Required| **String**|Text that will replace characters in  **Arg1** .|
 
 ### Return Value
 
@@ -32,7 +32,7 @@ A String value that represents the new string, after replacement.
 This example replaces abcdef with ac-ef and notifies the user during this process.
 
 
-```vb
+```
 Sub UseReplace() 
  
  Dim strCurrent As String 
@@ -61,8 +61,8 @@ End Sub
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

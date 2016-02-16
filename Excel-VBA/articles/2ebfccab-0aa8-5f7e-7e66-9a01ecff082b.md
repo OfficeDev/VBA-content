@@ -6,9 +6,9 @@ Returns a  **Long** value that specifies the number of criteria for a color scal
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_A variable that represents a  **ColorScaleCriteria** object.
+ _expression_ A variable that represents a **ColorScaleCriteria** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ The number of criteria is equivalent to the number of threshold values assigned 
 #### Concepts
 
 
- [ColorScaleCriteria Collection](9c50a2e4-aa22-92ca-6cef-2f8fc931ec33.md)
+[ColorScaleCriteria Collection](9c50a2e4-aa22-92ca-6cef-2f8fc931ec33.md)
 #### Other resources
 
 
- [ColorScaleCriteria Object Members](c73a24ba-662e-b050-a77b-ddf6046ae76f.md)
+[ColorScaleCriteria Object Members](c73a24ba-662e-b050-a77b-ddf6046ae76f.md)

@@ -6,14 +6,14 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](4a2800cc-
 
 ## Syntax
 
- _expression_. **ScopeType**
+ _expression_ . **ScopeType**
 
- _expression_A variable that represents a  **FormatCondition** object.
+ _expression_ A variable that represents a **FormatCondition** object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope**, which sets the scope using the  **[AppliesTo](d8a5363c-d0b7-fc26-dcff-16a3b561474d.md)** property.
+The default value is  **xlSelectionScope** , which sets the scope using the **[AppliesTo](d8a5363c-d0b7-fc26-dcff-16a3b561474d.md)** property.
 
 
 ## See also
@@ -22,8 +22,8 @@ The default value is  **xlSelectionScope**, which sets the scope using the  **[A
 #### Concepts
 
 
- [FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
+[FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
 #### Other resources
 
 
- [FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)
+[FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)

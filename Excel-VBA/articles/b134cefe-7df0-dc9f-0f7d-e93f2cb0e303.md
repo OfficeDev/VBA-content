@@ -6,9 +6,9 @@ Returns or sets a  **[XlPivotFieldOrientation](8dd82d0c-370a-464f-e666-5bc8cbcda
 
 ## Syntax
 
- _expression_. **Orientation**
+ _expression_ . **Orientation**
 
- _expression_A variable that represents a  **CubeField** object.
+ _expression_ A variable that represents a **CubeField** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ For OLAP data sources, setting this property for one field in a hierarchy sets t
 #### Concepts
 
 
- [CubeField Object](6db16910-6c27-651a-c388-e54e27fe4519.md)
+[CubeField Object](6db16910-6c27-651a-c388-e54e27fe4519.md)
 #### Other resources
 
 
- [CubeField Object Members](2f3cbe65-45ff-abe0-3e48-29c0d490f600.md)
+[CubeField Object Members](2f3cbe65-45ff-abe0-3e48-29c0d490f600.md)

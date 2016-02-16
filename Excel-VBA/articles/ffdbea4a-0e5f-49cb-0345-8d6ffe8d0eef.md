@@ -1,14 +1,14 @@
 
 # SortFields.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **SortFields** object.
+ _expression_ A variable that represents a **SortFields** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [SortFields Object](a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
+[SortFields Object](a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
 #### Other resources
 
 
- [SortFields Object Members](3fe54843-d34a-5d1a-75d6-2645da2755bc.md)
+[SortFields Object Members](3fe54843-d34a-5d1a-75d6-2645da2755bc.md)

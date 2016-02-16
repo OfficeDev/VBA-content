@@ -6,9 +6,9 @@ Returns an object that represents either a single series (a  **[Series](c7d34b32
 
 ## Syntax
 
- _expression_. **SeriesCollection**( **_Index_**)
+ _expression_ . **SeriesCollection**( **_Index_** )
 
- _expression_A variable that represents a  **Chart** object.
+ _expression_ A variable that represents a **Chart** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns an object that represents either a single series (a  **[Series](c7d34b32
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Variant**|The name or number of the series.|
+| _Index_|Optional| **Variant**|The name or number of the series.|
 
 ### Return Value
 
@@ -29,7 +29,7 @@ Object
 This example turns on data labels for series one in Chart1.
 
 
-```vb
+```
 Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 ```
 
@@ -40,8 +40,8 @@ Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 #### Concepts
 
 
- [Chart Object](179c32ce-49bd-6f36-ea12-89fb5443f3ea.md)
+[Chart Object](179c32ce-49bd-6f36-ea12-89fb5443f3ea.md)
 #### Other resources
 
 
- [Chart Object Members](a3f8ac44-02d6-6f3f-b5e0-23f4bd5d6baf.md)
+[Chart Object Members](a3f8ac44-02d6-6f3f-b5e0-23f4bd5d6baf.md)

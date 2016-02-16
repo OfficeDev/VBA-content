@@ -1,14 +1,14 @@
 
 # FormatCondition.Application Property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+When used without an object qualifier, this property returns an  **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **FormatCondition** object.
+ _expression_ A variable that represents a **FormatCondition** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ When used without an object qualifier, this property returns an  **[Application]
 This example displays a message about the application that created  `myObject`.
 
 
-```vb
+```
 Set myObject = ActiveWorkbook 
 If myObject.Application.Value = "Microsoft Excel" Then 
  MsgBox "This is an Excel Application object." 
@@ -32,8 +32,8 @@ End If
 #### Concepts
 
 
- [FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
+[FormatCondition Object](38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
 #### Other resources
 
 
- [FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)
+[FormatCondition Object Members](8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)

@@ -1,14 +1,14 @@
 
 # Application.DDEAppReturnCode Property (Excel)
 
-Returns the application-specific DDE return code that was contained in the last DDE acknowledge message received by Microsoft Excel. Read-only  **Long**.
+Returns the application-specific DDE return code that was contained in the last DDE acknowledge message received by Microsoft Excel. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **DDEAppReturnCode**
+ _expression_ . **DDEAppReturnCode**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ## Example
@@ -27,8 +27,8 @@ appErrorCode = Application.DDEAppReturnCode
 #### Concepts
 
 
- [Application Object](19b73597-5cf9-4f56-8227-b5211f657f6f.md)
+[Application Object](19b73597-5cf9-4f56-8227-b5211f657f6f.md)
 #### Other resources
 
 
- [Application Object Members](4cb9ca42-8d07-cc9c-2d80-4eb9a5921e1e.md)
+[Application Object Members](4cb9ca42-8d07-cc9c-2d80-4eb9a5921e1e.md)

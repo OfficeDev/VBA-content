@@ -6,9 +6,9 @@ Returns the right-tailed F probability distribution. You can use this function t
 
 ## Syntax
 
- _expression_. **F_Dist_RT**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**)
+ _expression_ . **F_Dist_RT**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
 
- _expression_A variable that represents a  **[WorksheetFunction](7b1d5639-363d-632c-2cf0-2232562646b6.md)** object.
+ _expression_ A variable that represents a **[WorksheetFunction](7b1d5639-363d-632c-2cf0-2232562646b6.md)** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Returns the right-tailed F probability distribution. You can use this function t
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Double**|X - the value at which to evaluate the function.|
-|Arg2|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
-|Arg3|Required| **Double**|Degrees_freedom2 - the denominator degrees of freedom.|
+| _Arg1_|Required| **Double**|X - the value at which to evaluate the function.|
+| _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
+| _Arg3_|Required| **Double**|Degrees_freedom2 - the denominator degrees of freedom.|
 
 ### Return Value
 
@@ -37,9 +37,9 @@ Double
     
 - If degrees_freedom1 or degrees_freedom2 is not an integer, it is truncated.
     
-- If degrees_freedom1 < 1 or degrees_freedom1 ≥ 10^10, F_DIST_RT returns the #NUM! error value.
+- If degrees_freedom1 < 1 or degrees_freedom1 ? 10^10, F_DIST_RT returns the #NUM! error value.
     
-- If degrees_freedom2 < 1 or degrees_freedom2 ≥ 10^10, F_DIST_RT returns the #NUM! error value.
+- If degrees_freedom2 < 1 or degrees_freedom2 ? 10^10, F_DIST_RT returns the #NUM! error value.
     
 - F_DIST_RT is calculated as F_DIST_RT=P( F>x ), where F is a random variable that has an F distribution with degrees_freedom1 and degrees_freedom2 degrees of freedom.
     
@@ -50,8 +50,8 @@ Double
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

@@ -6,9 +6,9 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_ . **Index**
 
- _expression_A variable that represents a  **RecentFile** object.
+ _expression_ A variable that represents a **RecentFile** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **Long** value that represents the index number of the object within 
 #### Concepts
 
 
- [RecentFile Object](39d0a969-179d-a7bd-e5ab-7baf7930712a.md)
+[RecentFile Object](39d0a969-179d-a7bd-e5ab-7baf7930712a.md)
 #### Other resources
 
 
- [RecentFile Object Members](af06db48-f17a-9039-d252-728001dea3dc.md)
+[RecentFile Object Members](af06db48-f17a-9039-d252-728001dea3dc.md)

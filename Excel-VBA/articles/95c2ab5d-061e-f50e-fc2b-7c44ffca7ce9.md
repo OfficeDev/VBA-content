@@ -6,9 +6,9 @@ Returns a  **[TextEffectFormat](7fe03721-6a45-569e-add4-fc8849c99535.md)** objec
 
 ## Syntax
 
- _expression_. **TextEffect**
+ _expression_ . **TextEffect**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a **ShapeRange** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **[TextEffectFormat](7fe03721-6a45-569e-add4-fc8849c99535.md)** objec
 This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
 
 
-```vb
+```
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes(3) 
  If .Type = msoTextEffect Then 
@@ -32,8 +32,8 @@ End With
 #### Concepts
 
 
- [ShapeRange Object](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
+[ShapeRange Object](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
 #### Other resources
 
 
- [ShapeRange Object Members](1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)
+[ShapeRange Object Members](1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)

@@ -6,9 +6,9 @@ Returns a  **[Styles](146effdc-e007-814d-b110-f7bd944fc15f.md)** collection that
 
 ## Syntax
 
- _expression_. **Styles**
+ _expression_ . **Styles**
 
- _expression_A variable that represents a  **Workbook** object.
+ _expression_ A variable that represents a **Workbook** object.
 
 
 ## Example
@@ -27,8 +27,8 @@ ActiveWorkbook.Styles("Stock Quote Style").Delete
 #### Concepts
 
 
- [Workbook Object](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)
+[Workbook Object](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)
 #### Other resources
 
 
- [Workbook Object Members](dce102a3-25de-3ff4-2ce5-bc56e08baca7.md)
+[Workbook Object Members](dce102a3-25de-3ff4-2ce5-bc56e08baca7.md)

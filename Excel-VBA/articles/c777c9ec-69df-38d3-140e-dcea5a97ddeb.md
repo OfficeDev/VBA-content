@@ -6,9 +6,9 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_ . **Top**
 
- _expression_A variable that represents a  **DataLabel** object.
+ _expression_ A variable that represents a **DataLabel** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 #### Concepts
 
 
- [DataLabel Object](bb342572-8761-b326-548a-98455172f9a8.md)
+[DataLabel Object](bb342572-8761-b326-548a-98455172f9a8.md)
 #### Other resources
 
 
- [DataLabel Object Members](176c4f7f-c6ef-c8cb-3983-6dd39435f793.md)
+[DataLabel Object Members](176c4f7f-c6ef-c8cb-3983-6dd39435f793.md)

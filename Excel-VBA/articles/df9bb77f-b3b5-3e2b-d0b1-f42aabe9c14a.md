@@ -6,9 +6,9 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 
 ## Syntax
 
- _expression_. **CritBinom**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**)
+ _expression_ . **CritBinom**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Double**|The number of Bernoulli trials.|
-|Arg2|Required| **Double**|The probability of a success on each trial.|
-|Arg3|Required| **Double**|The criterion value.|
+| _Arg1_|Required| **Double**|The number of Bernoulli trials.|
+| _Arg2_|Required| **Double**|The probability of a success on each trial.|
+| _Arg3_|Required| **Double**|The criterion value.|
 
 ### Return Value
 
@@ -48,8 +48,8 @@ Double
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

@@ -6,9 +6,9 @@ Returns or sets a  **String** value that represents the object's formula in A1-s
 
 ## Syntax
 
- _expression_. **Formula**
+ _expression_ . **Formula**
 
- _expression_A variable that represents a  **PivotFormula** object.
+ _expression_ A variable that represents a **PivotFormula** object.
 
 
 ## Remarks
@@ -30,8 +30,8 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 #### Concepts
 
 
- [PivotFormula Object](2955dad6-d686-1a83-ab56-76a00272c7e2.md)
+[PivotFormula Object](2955dad6-d686-1a83-ab56-76a00272c7e2.md)
 #### Other resources
 
 
- [PivotFormula Object Members](8cd6a78c-0b06-353c-8a74-83996eed80b2.md)
+[PivotFormula Object Members](8cd6a78c-0b06-353c-8a74-83996eed80b2.md)

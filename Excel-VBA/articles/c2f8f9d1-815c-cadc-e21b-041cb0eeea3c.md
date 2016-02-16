@@ -1,14 +1,14 @@
 
 # FillFormat.TextureOffsetX Property (Excel)
 
-Returns the offset X value for the specified fill. Read/write  **Single**.
+Returns the offset X value for the specified fill. Read/write  **Single** .
 
 
 ## Syntax
 
- _expression_. **TextureOffsetX**
+ _expression_ . **TextureOffsetX**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a **FillFormat** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns the offset X value for the specified fill. Read/write  **Single**.
 #### Concepts
 
 
- [FillFormat Object](b602e09e-97ab-bfbe-1796-bc44ebb7dc28.md)
+[FillFormat Object](b602e09e-97ab-bfbe-1796-bc44ebb7dc28.md)
 #### Other resources
 
 
- [FillFormat Object Members](da1a1680-4b9d-c6fb-6562-bf1ec9f57921.md)
+[FillFormat Object Members](da1a1680-4b9d-c6fb-6562-bf1ec9f57921.md)

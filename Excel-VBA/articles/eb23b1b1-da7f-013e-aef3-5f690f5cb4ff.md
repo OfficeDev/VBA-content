@@ -6,9 +6,9 @@ Returns a new  **[IconSetCondition](e3c4ef69-4d95-87c9-5059-805775288e24.md)** o
 
 ## Syntax
 
- _expression_. **AddIconSetCondition**
+ _expression_ . **AddIconSetCondition**
 
- _expression_A variable that represents a  **FormatConditions** object.
+ _expression_ A variable that represents a **FormatConditions** object.
 
 
 ### Return Value
@@ -27,8 +27,8 @@ Use an icon set to annotate and classify data into three to five categories sepa
 #### Concepts
 
 
- [FormatConditions Object](2486d4b4-605c-76d8-132a-694c0c600a81.md)
+[FormatConditions Object](2486d4b4-605c-76d8-132a-694c0c600a81.md)
 #### Other resources
 
 
- [FormatConditions Object Members](0e5a3774-fe65-597f-9b97-3bba637b55cc.md)
+[FormatConditions Object Members](0e5a3774-fe65-597f-9b97-3bba637b55cc.md)

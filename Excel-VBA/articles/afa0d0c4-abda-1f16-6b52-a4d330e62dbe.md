@@ -6,9 +6,9 @@ Sets the cell range to which this formatting rule applies.
 
 ## Syntax
 
- _expression_. **ModifyAppliesToRange**( **_Range_**)
+ _expression_ . **ModifyAppliesToRange**( **_Range_** )
 
- _expression_A variable that represents a  **ColorScale** object.
+ _expression_ A variable that represents a **ColorScale** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Sets the cell range to which this formatting rule applies.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Range|Required| **Range**|The range to which this formatting rule will be applied.|
+| _Range_|Required| **Range**|The range to which this formatting rule will be applied.|
 
 ## Remarks
 
@@ -32,8 +32,8 @@ You can also use a local defined name in any part of the range, but the name mus
 #### Concepts
 
 
- [ColorScale Object](3982b041-9178-7a45-7453-c88963501a3c.md)
+[ColorScale Object](3982b041-9178-7a45-7453-c88963501a3c.md)
 #### Other resources
 
 
- [ColorScale Object Members](e14df078-3af6-a32e-d66f-3410b7bdb4d4.md)
+[ColorScale Object Members](e14df078-3af6-a32e-d66f-3410b7bdb4d4.md)

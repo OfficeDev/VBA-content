@@ -1,14 +1,14 @@
 
 # TextFrame.MarginTop Property (Excel)
 
-Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
+Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 
 
 ## Syntax
 
- _expression_. **MarginTop**
+ _expression_ . **MarginTop**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_ A variable that represents a **TextFrame** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns or sets the distance (in points) between the top of the text frame and t
 This example adds a rectangle to  `myDocument`, adds text to the rectangle, and then sets the margins for the text frame.
 
 
-```vb
+```
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRectangle, _ 
  0, 0, 250, 140).TextFrame 
@@ -35,8 +35,8 @@ End With
 #### Concepts
 
 
- [TextFrame Object](4a6d2201-84b8-d83a-cc13-703da047815e.md)
+[TextFrame Object](4a6d2201-84b8-d83a-cc13-703da047815e.md)
 #### Other resources
 
 
- [TextFrame Object Members](299ac22a-bf3d-11ca-90e8-a05d52a760d4.md)
+[TextFrame Object Members](299ac22a-bf3d-11ca-90e8-a05d52a760d4.md)

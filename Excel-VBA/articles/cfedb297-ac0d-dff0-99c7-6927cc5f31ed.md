@@ -8,7 +8,7 @@ Represents a defined name for a range of cells. Names can be either built-in nam
 
  **Application, Workbook, and Worksheet Objects**
 
-The  **Name** object is a member of the **[Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection for the **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)**,  **[Workbook](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)**, and  **[Worksheet](182b705e-854a-81cc-a4b0-59b942de55ae.md)** objects. Use ** [Names](26be56ec-ea12-1600-602a-eb338d4a5a8b.md)**( _index_), where  _index_ is the name index number or defined name, to return a single **Name** object.
+The  **Name** object is a member of the **[Names](ffecf89d-7bae-c470-8e37-608857a9de2a.md)** collection for the **[Application](19b73597-5cf9-4f56-8227-b5211f657f6f.md)** , **[Workbook](8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)** , and **[Worksheet](182b705e-854a-81cc-a4b0-59b942de55ae.md)** objects. Use **[Names](26be56ec-ea12-1600-602a-eb338d4a5a8b.md)** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object.
 
 The index number indicates the position of the name within the collection. Names are placed in alphabetic order, from a to z, and are not case-sensitive.
 
@@ -49,7 +49,7 @@ The following example sets the  **Visible** property for the first name assigned
 
 
 
-```vb
+```
 Worksheets(1).Range("a1:b1").Name.Visible = False
 ```
 
@@ -57,11 +57,8 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 ## See also
 
 
-#### Concepts
-
-
- [Excel Object Model Reference](11ea8598-8a20-92d5-f98b-0da04263bf2c.md)
 #### Other resources
 
 
- [Name Object Members](7c35e8e8-4f81-7cec-da3e-faf738903726.md)
+[Name Object Members](7c35e8e8-4f81-7cec-da3e-faf738903726.md)
+[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

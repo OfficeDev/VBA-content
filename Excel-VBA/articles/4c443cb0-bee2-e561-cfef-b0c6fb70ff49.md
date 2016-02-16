@@ -6,9 +6,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **SortFields** object.
+ _expression_ A variable that represents a **SortFields** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ You can use this property with an OLE Automation object to return the applicatio
 #### Concepts
 
 
- [SortFields Object](a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
+[SortFields Object](a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
 #### Other resources
 
 
- [SortFields Object Members](3fe54843-d34a-5d1a-75d6-2645da2755bc.md)
+[SortFields Object Members](3fe54843-d34a-5d1a-75d6-2645da2755bc.md)

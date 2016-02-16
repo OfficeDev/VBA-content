@@ -6,9 +6,9 @@ Returns a  **[CalculatedMembers](3c664ac6-e2f8-f631-006d-6a16c380641e.md)** coll
 
 ## Syntax
 
- _expression_. **CalculatedMembers**
+ _expression_ . **CalculatedMembers**
 
- _expression_A variable that represents a  **PivotTable** object.
+ _expression_ A variable that represents a **PivotTable** object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ This property is used for Online Analytical Processing (OLAP) sources; a non-OLA
 This example adds a set to the PivotTable. It assumes a PivotTable exists on the active worksheet that is connected to an OLAP data source which contains a field titled "[Product].[All Products]".
 
 
-```vb
+```
 Sub UseCalculatedMember() 
  
  Dim pvtTable As PivotTable 
@@ -43,8 +43,8 @@ End Sub
 #### Concepts
 
 
- [PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
+[PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
 #### Other resources
 
 
- [PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)
+[PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)

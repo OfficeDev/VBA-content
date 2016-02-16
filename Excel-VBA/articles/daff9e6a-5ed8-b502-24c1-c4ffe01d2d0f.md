@@ -6,9 +6,9 @@ Rounds a number up, away from 0 (zero).
 
 ## Syntax
 
- _expression_. **RoundUp**( **_Arg1_**,  **_Arg2_**)
+ _expression_ . **RoundUp**( **_Arg1_** , **_Arg2_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Rounds a number up, away from 0 (zero).
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Double**|Number - any real number that you want rounded up.|
-|Arg2|Required| **Double**|Num_digits - the number of digits to which you want to round number.|
+| _Arg1_|Required| **Double**|Number - any real number that you want rounded up.|
+| _Arg2_|Required| **Double**|Num_digits - the number of digits to which you want to round number.|
 
 ### Return Value
 
@@ -45,8 +45,8 @@ Double
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

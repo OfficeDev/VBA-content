@@ -1,14 +1,14 @@
 
 # HPageBreak.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **HPageBreak** object.
+ _expression_ A variable that represents a **HPageBreak** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [HPageBreak Object](8fc96958-33ab-8251-f627-4769b5eab97f.md)
+[HPageBreak Object](8fc96958-33ab-8251-f627-4769b5eab97f.md)
 #### Other resources
 
 
- [HPageBreak Object Members](32b561ff-a0cf-142b-0a46-c622a42b6125.md)
+[HPageBreak Object Members](32b561ff-a0cf-142b-0a46-c622a42b6125.md)

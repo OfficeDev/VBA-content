@@ -6,9 +6,9 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
 ## Syntax
 
- _expression_. **HorizontalAlignment**
+ _expression_ . **HorizontalAlignment**
 
- _expression_A variable that represents a  **DataLabels** object.
+ _expression_ A variable that represents a **DataLabels** object.
 
 
 ## Remarks
@@ -31,8 +31,8 @@ Some of these constants may not be available to you, depending on the language s
 #### Concepts
 
 
- [DataLabels Object](3d79271e-c702-e785-6984-d838d060a8c5.md)
+[DataLabels Object](3d79271e-c702-e785-6984-d838d060a8c5.md)
 #### Other resources
 
 
- [DataLabels Object Members](3c9d909d-d090-b6ed-8a28-ba62c3459044.md)
+[DataLabels Object Members](3c9d909d-d090-b6ed-8a28-ba62c3459044.md)

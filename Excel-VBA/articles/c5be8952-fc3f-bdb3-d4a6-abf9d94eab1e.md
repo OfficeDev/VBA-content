@@ -6,9 +6,9 @@ Returns or sets a  **Variant** value that represents the object's formula in A1-
 
 ## Syntax
 
- _expression_. **Formula**
+ _expression_ . **Formula**
 
- _expression_A variable that represents a  **Range** object.
+ _expression_ A variable that represents a **Range** object.
 
 
 ## Remarks
@@ -35,14 +35,14 @@ Worksheets("Sheet1").Range("A1").Formula = "=$A$4+$A$10"
 
 
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
 
 The following code example sets the formula for cell A1 on Sheet1 to display today's date.
 
 
 
 
-```vb
+```
 Sub InsertTodaysDate() 
     ' This macro will put today's date in cell A1 on Sheet1 
     Sheets("Sheet1").Select 
@@ -66,8 +66,8 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 #### Concepts
 
 
- [Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
+[Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
 #### Other resources
 
 
- [Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)
+[Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)

@@ -1,14 +1,14 @@
 
 # DefaultWebOptions.FolderSuffix Property (Excel)
 
-Returns the folder suffix that Microsoft Excel uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](b594ad04-866a-b811-338b-73d45352866b.md)** and  **[OrganizeInFolder](380edf97-e350-89a5-23e7-67e48b6be6f9.md)** properties are set to  **True**). Read-only  **String**.
+Returns the folder suffix that Microsoft Excel uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](b594ad04-866a-b811-338b-73d45352866b.md)** and **[OrganizeInFolder](380edf97-e350-89a5-23e7-67e48b6be6f9.md)** properties are set to **True** ). Read-only **String** .
 
 
 ## Syntax
 
- _expression_. **FolderSuffix**
+ _expression_ . **FolderSuffix**
 
- _expression_A variable that represents a  **DefaultWebOptions** object.
+ _expression_ A variable that represents a **DefaultWebOptions** object.
 
 
 ## Remarks
@@ -69,8 +69,8 @@ The following table lists each language version of Office, and gives its corresp
 #### Concepts
 
 
- [DefaultWebOptions Object](5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd.md)
+[DefaultWebOptions Object](5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd.md)
 #### Other resources
 
 
- [DefaultWebOptions Object Members](52db1398-01d8-eba5-772f-2923fdc89f5b.md)
+[DefaultWebOptions Object Members](52db1398-01d8-eba5-772f-2923fdc89f5b.md)

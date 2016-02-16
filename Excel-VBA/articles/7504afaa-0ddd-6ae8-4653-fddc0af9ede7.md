@@ -6,9 +6,9 @@ Returns a  **[LineFormat](13eca34b-adf7-ddd3-8c73-cc8b508c624a.md)** object that
 
 ## Syntax
 
- _expression_. **Line**
+ _expression_ . **Line**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a **ShapeRange** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a  **[LineFormat](13eca34b-adf7-ddd3-8c73-cc8b508c624a.md)** object that
 This example adds a blue dashed line to  `myDocument`.
 
 
-```vb
+```
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddLine(10, 10, 250, 250).Line 
  .DashStyle = msoLineDashDotDot 
@@ -29,7 +29,7 @@ This example adds a cross to  `myDocument` and then sets its border to be 8 poin
 
 
 
-```vb
+```
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeCross, 10, 10, 50, 70).Line 
  .Weight = 8 
@@ -44,8 +44,8 @@ End With
 #### Concepts
 
 
- [ShapeRange Object](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
+[ShapeRange Object](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
 #### Other resources
 
 
- [ShapeRange Object Members](1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)
+[ShapeRange Object Members](1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)

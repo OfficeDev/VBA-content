@@ -6,9 +6,9 @@ Returns the number of days from the beginning of the coupon period to the settle
 
 ## Syntax
 
- _expression_. **CoupDayBs**( **_Arg1_**,  **_Arg2_**,  **_Arg3_**,  **_Arg4_**)
+ _expression_ . **CoupDayBs**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
 
- _expression_A variable that represents a  **WorksheetFunction** object.
+ _expression_ A variable that represents a **WorksheetFunction** object.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ Returns the number of days from the beginning of the coupon period to the settle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Arg1|Required| **Variant**|The security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
-|Arg2|Required| **Variant**|The security's maturity date. The maturity date is the date when the security expires.|
-|Arg3|Required| **Variant**|The number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
-|Arg4|Optional| **Variant**|The type of day count basis to use.|
+| _Arg1_|Required| **Variant**|The security's settlement date. The security settlement date is the date after the issue date when the security is traded to the buyer.|
+| _Arg2_|Required| **Variant**|The security's maturity date. The maturity date is the date when the security expires.|
+| _Arg3_|Required| **Variant**|The number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
+| _Arg4_|Optional| **Variant**|The type of day count basis to use.|
 
 ### Return Value
 
@@ -29,7 +29,7 @@ Double
 
 ## Remarks
 
-The following table contains the list of values for  _Arg4_.
+The following table contains the list of values for  _Arg4_ .
 
 
 
@@ -54,7 +54,7 @@ The following table contains the list of values for  _Arg4_.
     
 - If basis < 0 or if basis > 4, CoupDayBs generates an error.
     
-- If settlement ≥ maturity, CoupDayBs generates an error.
+- If settlement ? maturity, CoupDayBs generates an error.
     
 
 ## See also
@@ -63,8 +63,8 @@ The following table contains the list of values for  _Arg4_.
 #### Concepts
 
 
- [WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
+[WorksheetFunction Object](7b1d5639-363d-632c-2cf0-2232562646b6.md)
 #### Other resources
 
 
- [WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)
+[WorksheetFunction Object Members](6811ca87-4b53-0bff-88c9-30bf7497879a.md)

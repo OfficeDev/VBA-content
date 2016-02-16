@@ -1,14 +1,14 @@
 
 # PivotTable.VisualTotals Property (Excel)
 
- **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean**.
+ **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **VisualTotals**
+ _expression_ . **VisualTotals**
 
- _expression_A variable that represents a  **PivotTable** object.
+ _expression_ A variable that represents a **PivotTable** object.
 
 
 ## Remarks
@@ -17,10 +17,10 @@ In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect
 
 For OLAP PivotTables, a  **VisualTotals** property setting of **True** (default) works the same way as described for non-OLAP PivotTables.
 
-The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False**.
+The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False** .
 
 
- **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True**.
+ **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True** .
 
 
 ## Example
@@ -28,7 +28,7 @@ The  **VisualTotals** property returns **True** for all new PivotTables. However
 This example determines if the ability to re-total after an item has been hidden from view is available for OLAP PivotTables and notifies the user. The example assumes a PivotTable exists on the active worksheet.
 
 
-```vb
+```
 Sub CheckVisualTotals() 
  
  Dim pvtTable As PivotTable 
@@ -53,8 +53,8 @@ End Sub
 #### Concepts
 
 
- [PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
+[PivotTable Object](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
 #### Other resources
 
 
- [PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)
+[PivotTable Object Members](8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)

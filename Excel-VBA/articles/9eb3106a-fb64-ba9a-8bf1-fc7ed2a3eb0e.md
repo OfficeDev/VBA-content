@@ -6,9 +6,9 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_An expression that returns a  **ColorStops** object.
+ _expression_ An expression that returns a **ColorStops** object.
 
 
 ### Return Value
@@ -27,8 +27,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [ColorStops Object](e138347b-f03c-2f50-bf61-f7f2182c9681.md)
+[ColorStops Object](e138347b-f03c-2f50-bf61-f7f2182c9681.md)
 #### Other resources
 
 
- [ColorStops Object Members](864479e0-3690-70b8-a062-1b48825e00b8.md)
+[ColorStops Object Members](864479e0-3690-70b8-a062-1b48825e00b8.md)

@@ -6,9 +6,9 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_A variable that represents a  **XmlNamespaces** object.
+ _expression_ A variable that represents a **XmlNamespaces** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **Long** value that represents the number of objects in the collectio
 #### Concepts
 
 
- [XmlNamespaces Object](430f6773-2be5-8312-cd67-afb703ab0782.md)
+[XmlNamespaces Object](430f6773-2be5-8312-cd67-afb703ab0782.md)
 #### Other resources
 
 
- [XmlNamespaces Object Members](56c69891-4689-b0a1-4e54-606a9bc2772e.md)
+[XmlNamespaces Object Members](56c69891-4689-b0a1-4e54-606a9bc2772e.md)

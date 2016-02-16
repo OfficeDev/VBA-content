@@ -1,14 +1,14 @@
 
 # ODBCConnection.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents an  **ODBCConnection** object.
+ _expression_ A variable that represents an **ODBCConnection** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [ODBCConnection Object](b880ebec-15a4-5a3d-ef02-db73106db9c9.md)
+[ODBCConnection Object](b880ebec-15a4-5a3d-ef02-db73106db9c9.md)
 #### Other resources
 
 
- [ODBCConnection Object Members](d13b91f3-a89f-7dd7-7a98-f1d952f3b047.md)
+[ODBCConnection Object Members](d13b91f3-a89f-7dd7-7a98-f1d952f3b047.md)

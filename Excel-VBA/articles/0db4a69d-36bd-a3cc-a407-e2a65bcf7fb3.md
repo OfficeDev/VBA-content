@@ -1,14 +1,14 @@
 
 # ODBCErrors.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents an  **ODBCErrors** object.
+ _expression_ A variable that represents an **ODBCErrors** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ If the object was created in Microsoft Excel, this property returns the string X
 #### Concepts
 
 
- [ODBCErrors Object](2f1c8a6b-2b9d-fc2c-7caa-289652ac8e24.md)
+[ODBCErrors Object](2f1c8a6b-2b9d-fc2c-7caa-289652ac8e24.md)
 #### Other resources
 
 
- [ODBCErrors Object Members](f59038ac-2664-73db-5165-6940a1cf1dd7.md)
+[ODBCErrors Object Members](f59038ac-2664-73db-5165-6940a1cf1dd7.md)

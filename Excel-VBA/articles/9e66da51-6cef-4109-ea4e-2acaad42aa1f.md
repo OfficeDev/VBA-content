@@ -6,9 +6,9 @@ Returns a  **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that repr
 
 ## Syntax
 
- _expression_. **EntireRow**
+ _expression_ . **EntireRow**
 
- _expression_A variable that represents a  **Range** object.
+ _expression_ A variable that represents a **Range** object.
 
 
 ## Example
@@ -20,14 +20,14 @@ This example sets the value of the first cell in the row that contains the activ
 ActiveCell.EntireRow.Cells(1, 1).Value = 5
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
 This example sorts all the rows on a worksheet, including hidden rows.
 
 
 
 
-```vb
+```
 Sub SortAll()
     'Turn off screen updating, and define your variables.
     Application.ScreenUpdating = False
@@ -78,8 +78,8 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 #### Concepts
 
 
- [Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
+[Range Object](b8207778-0dcc-4570-1234-f130532cc8cd.md)
 #### Other resources
 
 
- [Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)
+[Range Object Members](4336bf81-1e63-7e44-1792-baf366a027a7.md)

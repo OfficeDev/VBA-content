@@ -1,14 +1,14 @@
 
-# PivotFilters.Add2 Method (Excel)
+# PivotFilters.Add Method (Excel)
 
 Adds new filters to the  **PivotFilters** collection.
 
 
 ## Syntax
 
- _expression_. **Add2**( **_Type_**,  **_DataField_**,  **_Value1_**,  **_Value2_**,  **_Order_**,  **_Name_**,  **_Description_**,  **_MemberPropertyField_**,  **_WholeDayFilter_**)
+ _expression_ . **Add2**( **_Type_** , **_DataField_** , **_Value1_** , **_Value2_** , **_Order_** , **_Name_** , **_Description_** , **_MemberPropertyField_** , **_WholeDayFilter_** )
 
- _expression_A variable that represents a  **PivotFilters** object.
+ _expression_ A variable that represents a **PivotFilters** object.
 
 
 ### Parameters
@@ -17,15 +17,15 @@ Adds new filters to the  **PivotFilters** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Type|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md)** type of filter.|
-|DataField|Optional| **Variant**|The field to which the filter is attached.|
-|Value1|Optional| **Variant**|Filter value 1.|
-|Value2|Optional| **Variant**|Filter value 2.|
-|Order|Optional| **Variant**|Order in which the data should be filtered.|
-|Name|Optional| **Variant**|Name of the filter.|
-|Description|Optional| **Variant**|A brief description of the filter.|
-|MemberPropertyField|Optional| **Variant**|Specifies the member property field on which the label filter is based.|
-|WholeDayFilter|Optional| **Variant**|Specifies a filter based on days.|
+| _Type_|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c.md)** type of filter.|
+| _DataField_|Optional| **Variant**|The field to which the filter is attached.|
+| _Value1_|Optional| **Variant**|Filter value 1.|
+| _Value2_|Optional| **Variant**|Filter value 2.|
+| _Order_|Optional| **Variant**|Order in which the data should be filtered.|
+| _Name_|Optional| **Variant**|Name of the filter.|
+| _Description_|Optional| **Variant**|A brief description of the filter.|
+| _MemberPropertyField_|Optional| **Variant**|Specifies the member property field on which the label filter is based.|
+| _WholeDayFilter_|Optional| **Variant**|Specifies a filter based on days.|
 
 ### Return Value
 
@@ -48,13 +48,13 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 
 ```
 
-The following example returns a run-time error because the data type of Value1 is invalid.
+The following example returns a run-time error because the data type of  _Value1_ is invalid.
 
 
 
 
 ```
-ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := "Allan"
+ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := ?Allan?
 ```
 
 
@@ -64,8 +64,8 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 #### Concepts
 
 
- [PivotFilters Object](fc647acb-bd6a-8544-6411-1f5e49807e53.md)
+[PivotFilters Object](fc647acb-bd6a-8544-6411-1f5e49807e53.md)
 #### Other resources
 
 
- [PivotFilters Object Members](57f1f375-1b7b-c488-c236-91ed26a68bb6.md)
+[PivotFilters Object Members](57f1f375-1b7b-c488-c236-91ed26a68bb6.md)
