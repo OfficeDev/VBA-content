@@ -1,14 +1,14 @@
 
 # Application.LevelFreeformTasks Property (Project)
 
- **True** if manually scheduled tasks are leveled; otherwise, **False**. Read/write  **Boolean**.
+ **True** if manually scheduled tasks are leveled; otherwise, **False** . Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **LevelFreeformTasks**
+ _expression_ . **LevelFreeformTasks**
 
- _expression_An expression that returns an  **Application** object.
+ _expression_ An expression that returns an **Application** object.
 
 
 ## Remarks

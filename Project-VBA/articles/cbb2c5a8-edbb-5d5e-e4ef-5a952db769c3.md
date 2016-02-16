@@ -6,9 +6,9 @@ Selects the first cell in the row containing the active cell.
 
 ## Syntax
 
- _expression_. **SelectRowStart**( **_Extend_**)
+ _expression_ . **SelectRowStart**( **_Extend_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Selects the first cell in the row containing the active cell.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Extend|Optional| **Boolean**| **True** if the current selection is extended to the first cell. The default value is **False**.|
+| _Extend_|Optional| **Boolean**| **True** if the current selection is extended to the first cell. The default value is **False** .|
 
 ### Return Value
 

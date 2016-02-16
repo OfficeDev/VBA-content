@@ -4,9 +4,9 @@ Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or
 
 ## Syntax
 
- _expression_. **ChartData**
+ _expression_ . **ChartData**
 
- _expression_A variable that represents a  **Chart** object.
+ _expression_ A variable that represents a **Chart** object.
 
 
 ## Property value
@@ -20,4 +20,4 @@ Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or
 #### Other resources
 
 
- [Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md)
+[Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md)

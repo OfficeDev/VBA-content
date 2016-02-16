@@ -24,7 +24,7 @@ Use the  **[BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)** property t
 
 
 
-```vb
+```
 Dim C As Calendar 
 
  
@@ -49,7 +49,7 @@ BaseCalendarCreate Name:="Base Holiday Calendar"
 ## See also
 
 
-#### Concepts
+#### Other resources
 
 
- [Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

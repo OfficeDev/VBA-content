@@ -1,14 +1,14 @@
 
 # Application.VBE Property (Project)
 
-Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VBE**.
+Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VBE** .
 
 
 ## Syntax
 
- _expression_. **VBE**
+ _expression_ . **VBE**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ## Remarks

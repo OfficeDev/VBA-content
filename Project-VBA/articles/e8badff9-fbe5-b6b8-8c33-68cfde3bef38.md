@@ -4,9 +4,9 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 
 ## Syntax
 
- _expression_. **ZOrder**(ZOrderCmd)
+ _expression_ . **ZOrder**_(ZOrderCmd)_
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -15,9 +15,8 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ZOrderCmd|Required| ** [MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape relative to the other shapes.|
-|ZOrderCmd|Required|MSOZORDERCMD||
-|Name|Required/Optional|Data type|Description|
+| _ZOrderCmd_|Required| **[MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape relative to the other shapes.|
+| _ZOrderCmd_|Required|MSOZORDERCMD||
 
 ### Return value
 
@@ -35,6 +34,6 @@ Use the  **ZOrderPosition** property to determine the current position of a shap
 #### Other resources
 
 
- [Shape Object](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)
- [MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)
- [ZOrderPosition Property](d9f0d46f-65b1-bb1f-cb75-ce4d7c3b3ab2.md)
+[Shape Object](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)
+[MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)
+[ZOrderPosition Property](d9f0d46f-65b1-bb1f-cb75-ce4d7c3b3ab2.md)

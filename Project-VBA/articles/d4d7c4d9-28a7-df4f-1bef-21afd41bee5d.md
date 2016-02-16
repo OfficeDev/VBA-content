@@ -1,14 +1,14 @@
 
 # Project.VBProject Property (Project)
 
-Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
+Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject** .
 
 
 ## Syntax
 
- _expression_. **VBProject**
+ _expression_ . **VBProject**
 
- _expression_A variable that represents a  **Project** object.
+ _expression_ A variable that represents a **Project** object.
 
 
 ## Remarks

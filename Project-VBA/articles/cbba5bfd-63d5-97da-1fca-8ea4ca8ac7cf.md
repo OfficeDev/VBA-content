@@ -1,14 +1,14 @@
 
 # Projects.Application Property (Project)
 
-Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application**.
+Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Read-only **Application** .
 
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **Projects** object.
+ _expression_ A variable that represents a **Projects** object.
 
 
 ## See also
@@ -17,4 +17,4 @@ Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Rea
 #### Concepts
 
 
- [Projects Collection Object](5a254428-f50d-e74f-dd31-5cdb260a4364.md)
+[Projects Collection Object](5a254428-f50d-e74f-dd31-5cdb260a4364.md)

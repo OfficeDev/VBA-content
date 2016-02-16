@@ -6,9 +6,9 @@ Gets a list of all deliverables for the specified enterprise project in the XML 
 
 ## Syntax
 
- _expression_. **DeliverablesGetByProject**( **_ProjectGuid_**)
+ _expression_ . **DeliverablesGetByProject**( **_ProjectGuid_** )
 
- _expression_A variable that represents a  **Project** object.
+ _expression_ A variable that represents a **Project** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Gets a list of all deliverables for the specified enterprise project in the XML 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ProjectGuid|Required| **String**|GUID of the enterprise project.|
+| _ProjectGuid_|Required| **String**|GUID of the enterprise project.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ The  **projectGuid** value returned by the **GetServerProjectGuid** method inclu
 
 
 
-```vb
+```
 Option Explicit 
  
 Sub TestDeliverables() 
@@ -59,7 +59,7 @@ End Sub
 ```
 
 
- **Note**  To find members of a variable of type  **Object**, such as the  **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
+ **Note**  To find members of a variable of type  **Object** , such as the **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
 
 The message box shows only the first 1024 characters of the total 17,295 characters of the XML result (in this example). In the following XML result, attributes are broken into separate lines. The actual XML result is all on one line, which you can see if you print the result to the  **Immediate** pane in the VBE. The example does not show the XML schema, which makes up most of the content.
 

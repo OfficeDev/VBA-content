@@ -6,9 +6,9 @@ Resets the  **Year** item of a resource calendar to the value in the correspondi
 
 ## Syntax
 
- _expression_. **Default**
+ _expression_ . **Default**
 
- _expression_A variable that represents a  **Year** object.
+ _expression_ A variable that represents a **Year** object.
 
 
 ## Remarks

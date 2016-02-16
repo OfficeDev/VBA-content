@@ -6,9 +6,9 @@ Displays the  **Cleanup Cache** dialog box. Available only in Project Profession
 
 ## Syntax
 
- _expression_. **CleanupCache**
+ _expression_ . **CleanupCache**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return Value

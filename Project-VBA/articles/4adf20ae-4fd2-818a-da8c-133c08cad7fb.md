@@ -6,9 +6,9 @@ Selects the first cell in the active table or view.
 
 ## Syntax
 
- _expression_. **SelectBeginning**( **_Extend_**)
+ _expression_ . **SelectBeginning**( **_Extend_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Selects the first cell in the active table or view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Extend|Optional| **Boolean**| **True** if the current selection is extended to the first cell. If the active view is the Network Diagram or Resource Graph, Extend is ignored. The default value is **False**.|
+| _Extend_|Optional| **Boolean**| **True** if the current selection is extended to the first cell. If the active view is the Network Diagram or Resource Graph, Extend is ignored. The default value is **False** .|
 
 ### Return Value
 
@@ -34,7 +34,7 @@ In the Resource Graph,  **SelectBeginning** selects the resource with the lowest
 The following example selects the "Name" field of row 4 as the beginning field in the Gantt Chart.
 
 
-```vb
+```
 Sub Select_Beginning() 
  
  ViewApply Name:="&amp;Gantt Chart" 

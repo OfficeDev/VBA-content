@@ -4,9 +4,9 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 ## Syntax
 
- _expression_. **AddSiteColumn**(ProjectField, SharePointName)
+ _expression_ . **AddSiteColumn**_(ProjectField_,  _SharePointName)_
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -15,10 +15,10 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ProjectField|Optional| **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
-|SharePointName|Optional| **Variant**|The name of the new column.|
-|ProjectField|Optional|PJFIELD||
-|SharePointName|Optional|VARIANT||
+| _ProjectField_|Optional| **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
+| _SharePointName_|Optional| **Variant**|The name of the new column.|
+| _ProjectField_|Optional|PJFIELD||
+| _SharePointName_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
 ### Return value
@@ -35,15 +35,15 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
 
 - The active project is not associated with a synchronized SharePoint tasks list. If the project is local, you can use the  **LinkToTaskList** method to create a synchronized SharePoint tasks list.
     
-- The column name already exists in the SharePoint tasks list. To see the list of column names, open the tasks list in SharePoint, and then choose  **Modify View** on the **LIST** tab. The **Settings - Edit View** page shows all of the column names that are available for the tasks list.
+- The column name already exists in the SharePoint tasks list. To see the list of column names, open the tasks list in SharePoint, and then choose  **Modify View** on the **LIST** tab. The **Settings ? Edit View** page shows all of the column names that are available for the tasks list.
     
-- The ProjectField value is a non-task field, such as **pjResourceActualCost**. A SharePoint tasks list shows task fields, not resource fields.
+- The  _ProjectField_ value is a non-task field, such as **pjResourceActualCost**. A SharePoint tasks list shows task fields, not resource fields.
     
-- The ProjectField value is an enterprise custom field such as **pjTaskEnterpriseProjectText1**, or a lookup table field such as  **pjTaskResourceEnterpriseRBS**. Local task custom fields, such as  **pjTaskText1**, are valid.
+- The  _ProjectField_ value is an enterprise custom field such as **pjTaskEnterpriseProjectText1**, or a lookup table field such as  **pjTaskResourceEnterpriseRBS**. Local task custom fields, such as  **pjTaskText1**, are valid.
     
-- The ProjectField value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
+- The  _ProjectField_ value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
     
-    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in  **PjField**, there are 357—including local task custom fields—that can be used with the  **AddSiteColumn** method.
+    Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in  **PjField**, there are 357?including local task custom fields?that can be used with the  **AddSiteColumn** method.
     
 
     **Table 1. Additional prohibited fields**
@@ -71,7 +71,7 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
 | **pjTaskStatus**| **pjTaskStatusIndicator**| **pjTaskSubproject**|
 | **pjTaskSubprojectReadOnly**| **pjTaskTotalSlack**| **pjTaskType**|
 | **pjTaskWarning**| **pjTaskWorkContour**| ****|
-It is possible to add a field that already exists in the tasks list, if you use a unique name for the SharePointName parameter—although the value of doing so is questionable.
+It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter?although the value of doing so is questionable.
 
 
 ## Example
@@ -86,7 +86,7 @@ The  **AddDurationColumns** macro adds task duration and baseline duration to th
 
 
 
-```vb
+```
 Sub AddDurationColumns()
     Dim success As Boolean
     Dim results As String
@@ -132,7 +132,7 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 **Figure 1. Adding fields to a synchronized SharePoint task list**
 
-![Adding fields to a synchronized tasks list](../images/pj15_VBA_AddSiteColumn.gif)
+![Adding fields to a synchronized tasks list](images/pj15_VBA_AddSiteColumn.gif)
 
 
 ## See also
@@ -141,9 +141,9 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 #### Concepts
 
 
- [Application Object](8eb91712-7784-a102-38c0-19bb056c27e9.md)
- [PjField Enumeration](f0df0929-921c-1f33-ab42-192efdaeb64d.md)
+[Application Object](8eb91712-7784-a102-38c0-19bb056c27e9.md)
+[PjField Enumeration](f0df0929-921c-1f33-ab42-192efdaeb64d.md)
 #### Other resources
 
 
- [LinkToTaskList Method](65ae7bd0-446f-74dd-15fc-0a260342be90.md)
+[LinkToTaskList Method](65ae7bd0-446f-74dd-15fc-0a260342be90.md)

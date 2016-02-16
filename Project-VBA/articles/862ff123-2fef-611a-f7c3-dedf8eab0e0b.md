@@ -6,9 +6,9 @@ Sets the current group.
 
 ## Syntax
 
- _expression_. **GroupApply**( **_Name_**)
+ _expression_ . **GroupApply**( **_Name_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Sets the current group.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the group to use.|
+| _Name_|Required| **String**|The name of the group to use.|
 
 ### Return Value
 

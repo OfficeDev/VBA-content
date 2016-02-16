@@ -4,9 +4,9 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 
 ## Syntax
 
- _expression_. **Flip**(FlipCmd)
+ _expression_ . **Flip**_(FlipCmd)_
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -15,8 +15,7 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FlipCmd|Required| ** [MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)**|Specifies whether the shape is to be flipped horizontally or vertically.|
-|Name|Required/Optional|Data type|Description|
+| _FlipCmd_|Required| **[MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)**|Specifies whether the shape is to be flipped horizontally or vertically.|
 
 ### Return value
 
@@ -29,5 +28,5 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 #### Other resources
 
 
- [ShapeRange Object](315031aa-4b8c-424b-26e7-ce15897beb05.md)
- [MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)
+[ShapeRange Object](315031aa-4b8c-424b-26e7-ce15897beb05.md)
+[MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)

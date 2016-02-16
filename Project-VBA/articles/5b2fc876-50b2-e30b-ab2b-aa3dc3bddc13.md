@@ -6,9 +6,9 @@ Displays the  **Security** dialog box, which can be used to set the security lev
 
 ## Syntax
 
- _expression_. **MacroSecurity**
+ _expression_ . **MacroSecurity**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return Value

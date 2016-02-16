@@ -18,7 +18,7 @@ The following example counts the number of working days in each month of 2012 fo
 
 
 
-```vb
+```
 Dim R As Resource 
 Dim D As Integer, M As Integer, WorkingDays As Integer 
  
@@ -56,7 +56,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 ## See also
 
 
-#### Concepts
+#### Other resources
 
 
- [Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

@@ -1,14 +1,14 @@
 
 # Task.PercentWorkComplete Property (Project)
 
-Gets or sets the percentage of work complete for a task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the percentage of work complete for a task. Read-only for summary tasks. Read/write  **Variant** .
 
 
 ## Syntax
 
- _expression_. **PercentWorkComplete**
+ _expression_ . **PercentWorkComplete**
 
- _expression_A variable that represents a  **Task** object.
+ _expression_ A variable that represents a **Task** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Gets or sets the percentage of work complete for a task. Read-only for summary t
 The following example sets the  **Marked** property to **True** for each task in the active project with a percentage of work complete that exceeds the percentage specified by the user.
 
 
-```vb
+```
 Sub MarkTasks() 
  
  Dim T As Task ' Task object used in For Each loop 

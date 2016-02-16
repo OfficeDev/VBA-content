@@ -6,9 +6,9 @@ Updates the selected tasks.
 
 ## Syntax
 
- _expression_. **UpdateTasks**( **_PercentComplete_**,  **_ActualDuration_**,  **_RemainingDuration_**,  **_ActualStart_**,  **_ActualFinish_**,  **_Notes_**)
+ _expression_ . **UpdateTasks**( **_PercentComplete_** , **_ActualDuration_** , **_RemainingDuration_** , **_ActualStart_** , **_ActualFinish_** , **_Notes_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,12 +17,12 @@ Updates the selected tasks.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PercentComplete|Optional| **Variant**|The percent complete of the active tasks.|
-|ActualDuration|Optional| **Variant**|The actual duration of the selected tasks.|
-|RemainingDuration|Optional| **Variant**|The remaining duration of the selected tasks.|
-|ActualStart|Optional| **Variant**|The actual start date of the selected tasks.|
-|ActualFinish|Optional| **Variant**|The actual finish date of the selected tasks.|
-|Notes|Optional| **String**|Comments in the Notes field for the selected tasks. The value can be text only, not Rich Text Format (RTF) as in the  **Notes** dialog box.|
+| _PercentComplete_|Optional| **Variant**|The percent complete of the active tasks.|
+| _ActualDuration_|Optional| **Variant**|The actual duration of the selected tasks.|
+| _RemainingDuration_|Optional| **Variant**|The remaining duration of the selected tasks.|
+| _ActualStart_|Optional| **Variant**|The actual start date of the selected tasks.|
+| _ActualFinish_|Optional| **Variant**|The actual finish date of the selected tasks.|
+| _Notes_|Optional| **String**|Comments in the Notes field for the selected tasks. The value can be text only, not Rich Text Format (RTF) as in the  **Notes** dialog box.|
 
 ### Return Value
 

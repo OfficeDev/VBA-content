@@ -12,7 +12,7 @@ Use the  **[Item](70633ede-db5e-4948-f9b0-2258aa141b01.md)** property of the **W
 ## See also
 
 
-#### Concepts
+#### Other resources
 
 
- [Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

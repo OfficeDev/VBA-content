@@ -6,9 +6,9 @@ Clears the value of a timescaled data item.
 
 ## Syntax
 
- _expression_. **Clear**
+ _expression_ . **Clear**
 
- _expression_A variable that represents a  **TimeScaleValue** object.
+ _expression_ A variable that represents a **TimeScaleValue** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Clears the value of a timescaled data item.
 The following example schedules a half-day of work on Fridays by creating an 8 A.M. to noon shift and removing the second and third shifts.
 
 
-```vb
+```
 Sub HalfDayFridays() 
  With ActiveProject.Calendar.Weekdays(pjFriday) 
  .Shift1.Start = #8:00:00 AM# 

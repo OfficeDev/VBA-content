@@ -4,9 +4,9 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_ . **Value**
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -15,7 +15,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
+| _Index_|Required| **Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
 ## Remarks
 
@@ -56,5 +56,5 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 #### Other resources
 
 
- [Shapes Object](6e42040c-dd5a-de4c-afa8-f9e33d1e5054.md)
- [Item Method](43fba4f4-f3d3-20a0-2c77-15e31dcdcbf5.md)
+[Shapes Object](6e42040c-dd5a-de4c-afa8-f9e33d1e5054.md)
+[Item Method](43fba4f4-f3d3-20a0-2c77-15e31dcdcbf5.md)

@@ -1,14 +1,14 @@
 
 # Period.Count Property (Project)
 
-Gets the number of days in the  **Period** object. Read-only **Integer**.
+Gets the number of days in the  **Period** object. Read-only **Integer** .
 
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_A variable that represents a  **Period** object.
+ _expression_ A variable that represents a **Period** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Gets the number of days in the  **Period** object. Read-only **Integer**.
 The following example prompts the user for the name of a resource and then assigns that resource to tasks without any resources.
 
 
-```vb
+```
 Sub AssignResource() 
  
  Dim T As Task ' Task object used in For Each loop 

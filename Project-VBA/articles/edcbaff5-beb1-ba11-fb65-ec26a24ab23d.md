@@ -6,9 +6,9 @@ Saves a Visual Reports database to the default directory or to a specified direc
 
 ## Syntax
 
- _expression_. **VisualReportsSaveDatabase**( **_strNamePath_**,  **_PjVisualReportsDataLevel_**)
+ _expression_ . **VisualReportsSaveDatabase**( **_strNamePath_** , **_PjVisualReportsDataLevel_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Saves a Visual Reports database to the default directory or to a specified direc
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|strNamePath|Optional| **String**|Name and full path of the location to which to save the database file (.mbd).|
-|PjVisualReportsDataLevel|Optional| **Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](56792ea8-6459-38ef-e994-95024e6d8fe9.md)** constants. Default is **pjLevelAutomatic**.|
+| _strNamePath_|Optional| **String**|Name and full path of the location to which to save the database file (.mbd).|
+| _PjVisualReportsDataLevel_|Optional| **Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](56792ea8-6459-38ef-e994-95024e6d8fe9.md)** constants. Default is **pjLevelAutomatic** .|
 
 ### Return Value
 
@@ -35,7 +35,7 @@ The PjVisualReportsDataLevel parameter specifies the level to which the timephas
 Following is an example of using The  **VisualReportsSaveDatabase** method.
 
 
-```vb
+```
 Sub a() 
  Dim tf As Boolean 
  tf = Application.VisualReportsSaveDatabase("C:\mydb.mdb", pjLevelAutomatic) 

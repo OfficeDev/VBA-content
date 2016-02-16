@@ -6,9 +6,9 @@ Occurs when a project schedule is recalculated.
 
 ## Syntax
 
- _expression_. **Calculate**( **_pj_**, )
+ _expression_ . **Calculate**( **_pj_** , )
 
- _expression_An expression that returns a  **Project** object.
+ _expression_ An expression that returns a **Project** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Occurs when a project schedule is recalculated.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|pj|Required| **Project**|The project that is rescheduled.|
+| _pj_|Required| **Project**|The project that is rescheduled.|
 
 ### Return Value
 

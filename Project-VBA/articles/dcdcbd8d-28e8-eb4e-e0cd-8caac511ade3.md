@@ -4,9 +4,9 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 
 ## Syntax
 
- _expression_. **GetCellText**(Row,Col)
+ _expression_ . **GetCellText**_(Row,_ _Col)_
 
- _expression_A variable that represents a  **ReportTable** object.
+ _expression_ A variable that represents a **ReportTable** object.
 
 
 ### Parameters
@@ -15,11 +15,10 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Row|Required| **Long**|The row number in the table.|
-|Col|Required| **Long**|The column number in the table.|
-|Row|Required|INT||
-|Col|Required|INT||
-|Name|Required/Optional|Data type|Description|
+| _Row_|Required| **Long**|The row number in the table.|
+| _Col_|Required| **Long**|The column number in the table.|
+| _Row_|Required|INT||
+| _Col_|Required|INT||
 
 ### Return value
 
@@ -35,7 +34,7 @@ The returned string ends with a newline character ( `chr(10)`, which is equivale
 
 ## Example
 
-The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the [Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md) topic, and then do the following steps (see Figure 1):
+The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the[Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md) topic, and then do the following steps (see Figure 1):
 
 
 1. Manually create a report. For example, on the  **PROJECT** tab of the ribbon, in the **Reports** drop-down list, choose **More Reports**. In the  **Reports** dialog box, choose **New** in the left pane, choose **Blank** in the right pane, and then choose **Select**. In the  **Report Name** dialog box, typeReport 1.
@@ -51,12 +50,12 @@ The  **GetTableText** example finds all of the tables on the active report, gets
 
 **Figure 1. The sample report contains two tables and three text boxes**
 
-![Report with two tables and three text boxes](../images/pj15_VBA_ReportTable_GetCellText.gif)
+![Report with two tables and three text boxes](images/pj15_VBA_ReportTable_GetCellText.gif)?
 
 
 
 
-```vb
+```
 Sub GetTableText()
     Dim theReport As Report
     Dim shp As shape
@@ -122,5 +121,5 @@ Table name: Table 3
 #### Other resources
 
 
- [ReportTable Object](db9846c7-fd53-ae5a-7a43-35dfc60f4fe4.md)
- [ID Property](8b619251-1914-cbf0-6b50-e978f8ffe125.md)
+[ReportTable Object](db9846c7-fd53-ae5a-7a43-35dfc60f4fe4.md)
+[ID Property](8b619251-1914-cbf0-6b50-e978f8ffe125.md)

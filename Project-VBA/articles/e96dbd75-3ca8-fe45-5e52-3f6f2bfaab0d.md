@@ -1,14 +1,14 @@
 
 # Year.Calendar Property (Project)
 
-Gets a  **[Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** object representing the calendar containing the **Year** object. Read-only **Calendar**.
+Gets a  **[Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)** object representing the calendar containing the **Year** object. Read-only **Calendar** .
 
 
 ## Syntax
 
- _expression_. **Calendar**
+ _expression_ . **Calendar**
 
- _expression_A variable that represents a  **Year** object.
+ _expression_ A variable that represents a **Year** object.
 
 
 ## Remarks

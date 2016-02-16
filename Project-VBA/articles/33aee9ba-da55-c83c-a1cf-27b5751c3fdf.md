@@ -4,9 +4,9 @@ Sets column order from left to right, for a selected table in a report.
 
 ## Syntax
 
- _expression_. **SetLTRTable**
+ _expression_ . **SetLTRTable**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return value
@@ -29,10 +29,10 @@ If a report is not active, the  **SetLTRTable** method displays a dialog box wit
 #### Concepts
 
 
- [Application Object](8eb91712-7784-a102-38c0-19bb056c27e9.md)
+[Application Object](8eb91712-7784-a102-38c0-19bb056c27e9.md)
 #### Other resources
 
 
- [SetRTLTable](92dc18e3-fa84-a4b2-d032-aa32a4e3957d.md)
- [ReportTable Object](db9846c7-fd53-ae5a-7a43-35dfc60f4fe4.md)
- [Shape.Table Property](5e1fc97f-8ac8-db26-3a2d-c39261c23588.md)
+[SetRTLTable](92dc18e3-fa84-a4b2-d032-aa32a4e3957d.md)
+[ReportTable Object](db9846c7-fd53-ae5a-7a43-35dfc60f4fe4.md)
+[Shape.Table Property](5e1fc97f-8ac8-db26-3a2d-c39261c23588.md)

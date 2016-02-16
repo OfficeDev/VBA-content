@@ -4,9 +4,9 @@ Gets an  **Office.IMsoDataTable** object that represents the chart data table. R
 
 ## Syntax
 
- _expression_. **DataTable**
+ _expression_ . **DataTable**
 
- _expression_A variable that represents a  **Chart** object.
+ _expression_ A variable that represents a **Chart** object.
 
 
 ## Remarks
@@ -19,7 +19,7 @@ To see the  **IMsoDataTable** object, right-click in the Object Browser, and the
 The following example adds a data table with an outline border to the chart on the active report.
 
 
-```vb
+```
 Sub ShowDataTable()
     Dim chartShape As Shape
     Dim reportName As String
@@ -46,4 +46,4 @@ End Sub
 #### Other resources
 
 
- [Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md)
+[Chart Object](810d4ec1-69d2-c432-b9da-57042b783b85.md)

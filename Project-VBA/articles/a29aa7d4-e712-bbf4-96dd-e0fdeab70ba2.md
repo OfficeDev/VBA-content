@@ -6,9 +6,9 @@ Returns the active  **View** object.
 
 ## Syntax
 
- _expression_. **View**
+ _expression_ . **View**
 
- _expression_A variable that represents a  **Pane** object.
+ _expression_ A variable that represents a **Pane** object.
 
 
 ### Return Value

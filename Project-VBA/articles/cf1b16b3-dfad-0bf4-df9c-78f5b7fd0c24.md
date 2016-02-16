@@ -4,9 +4,9 @@ Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Rea
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **Reports** object.
+ _expression_ A variable that represents a **Reports** object.
 
 
 ## Property value
@@ -20,4 +20,4 @@ Gets the  **[Application](8eb91712-7784-a102-38c0-19bb056c27e9.md)** object. Rea
 #### Other resources
 
 
- [Reports Object](a9f4a13b-1907-dbe8-8077-fb1226bb8bb9.md)
+[Reports Object](a9f4a13b-1907-dbe8-8077-fb1226bb8bb9.md)

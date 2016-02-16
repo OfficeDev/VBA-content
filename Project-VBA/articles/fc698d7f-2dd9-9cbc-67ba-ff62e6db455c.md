@@ -1,14 +1,14 @@
 
 # Task.PercentComplete Property (Project)
 
-Gets or sets the percent complete of a task. Read/write  **Variant**.
+Gets or sets the percent complete of a task. Read/write  **Variant** .
 
 
 ## Syntax
 
- _expression_. **PercentComplete**
+ _expression_ . **PercentComplete**
 
- _expression_A variable that represents a  **Task** object.
+ _expression_ A variable that represents a **Task** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Gets or sets the percent complete of a task. Read/write  **Variant**.
 The following example removes a resource from tasks that have two or more resources and are 85 percent complete.
 
 
-```vb
+```
 Sub ReallocateResource() 
  
  Dim Entry As String ' The name of the resource to remove 

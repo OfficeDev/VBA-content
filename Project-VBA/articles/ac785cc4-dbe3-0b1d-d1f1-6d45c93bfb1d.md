@@ -24,7 +24,7 @@ Use the  **[GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)** property t
 
 
 
-```vb
+```
 Dim GC2 As GroupCriterion2  
 Dim Fields As String  
   
@@ -55,11 +55,8 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 ## See also
 
 
-#### Concepts
-
-
- [Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
 #### Other resources
 
 
- [GroupCriteria2 Object Members](b52e84f3-4332-9c5a-cd2c-c4b57cfc40ea.md)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[GroupCriteria2 Object Members](b52e84f3-4332-9c5a-cd2c-c4b57cfc40ea.md)

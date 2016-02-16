@@ -6,9 +6,9 @@ Applies the single view.
 
 ## Syntax
 
- _expression_. **Apply**
+ _expression_ . **Apply**
 
- _expression_A variable that represents a  **ViewSingle** object.
+ _expression_ A variable that represents a **ViewSingle** object.
 
 
 ### Return Value

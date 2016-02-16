@@ -1,14 +1,14 @@
 
 # Assignment.Index Property (Project)
 
-Gets the index of an  **Assignment** object in the containing **Assignments** collection. Read-only **Long**.
+Gets the index of an  **Assignment** object in the containing **Assignments** collection. Read-only **Long** .
 
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_ . **Index**
 
- _expression_A variable that represents an  **Assignment** object.
+ _expression_ A variable that represents an **Assignment** object.
 
 
 ## Remarks

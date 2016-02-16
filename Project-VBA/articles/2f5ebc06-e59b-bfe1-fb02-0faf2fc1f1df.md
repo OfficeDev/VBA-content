@@ -1,12 +1,12 @@
 
 # Shape.ThreeD Property (Project)
-Gets a  **ThreeDFormat** object that contains three-dimensional formatting properties for the shape range. Read-only ** [ThreeDFormat](http://msdn.microsoft.com/en-us/library/office/ff836783%28v=office.15%29)**.
+Gets a  **ThreeDFormat** object that contains three-dimensional formatting properties for the shape range. Read-only **[ThreeDFormat](http://msdn.microsoft.com/en-us/library/office/ff836783%28v=office.15%29)** .
 
 ## Syntax
 
- _expression_. **ThreeD**
+ _expression_ . **ThreeD**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ## Remarks
@@ -26,5 +26,5 @@ Gets a  **ThreeDFormat** object that contains three-dimensional formatting prope
 #### Other resources
 
 
- [Shape Object](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)
- [ThreeDFormat](http://msdn.microsoft.com/en-us/library/office/ff836783%28v=office.15%29)
+[Shape Object](d2b32bcd-5595-a4a7-9772-feb25fd0103a.md)
+[ThreeDFormat](http://msdn.microsoft.com/en-us/library/office/ff836783%28v=office.15%29)
