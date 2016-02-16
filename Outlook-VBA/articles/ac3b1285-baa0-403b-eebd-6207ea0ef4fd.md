@@ -6,14 +6,14 @@ Returns or sets an  **[olEnterFieldBehavior](4f9271f9-32db-08c7-f452-12e9793d1f9
 
 ## Syntax
 
- _expression_. **EnterFieldBehavior**
+ _expression_ . **EnterFieldBehavior**
 
- _expression_A variable that represents an  **OlkTextBox** object.
+ _expression_ A variable that represents an **OlkTextBox** object.
 
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll**.
+The default value is  **olEnterFieldBehaviorSelectAll** .
 
 
 ## See also
@@ -22,8 +22,8 @@ The default value is  **olEnterFieldBehaviorSelectAll**.
 #### Concepts
 
 
- [OlkTextBox Object](8c9438bf-e20a-2f70-90ac-097cf09594ca.md)
+[OlkTextBox Object](8c9438bf-e20a-2f70-90ac-097cf09594ca.md)
 #### Other resources
 
 
- [OlkTextBox Object Members](f4a5f9ea-15f7-164e-d7ca-77a0842105c8.md)
+[OlkTextBox Object Members](f4a5f9ea-15f7-164e-d7ca-77a0842105c8.md)

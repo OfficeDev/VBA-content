@@ -6,9 +6,9 @@ Saves the view, or saves the changes to a view.
 
 ## Syntax
 
- _expression_. **Save**
+ _expression_ . **Save**
 
- _expression_A variable that represents a  **TimelineView** object.
+ _expression_ A variable that represents a **TimelineView** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Saves the view, or saves the changes to a view.
 #### Concepts
 
 
- [TimelineView Object](fb14c1a1-f542-fa1e-f30f-c5ee3d2f0206.md)
+[TimelineView Object](fb14c1a1-f542-fa1e-f30f-c5ee3d2f0206.md)
 #### Other resources
 
 
- [TimelineView Object Members](fa134129-519f-6f08-dc53-5e72085f9cc0.md)
+[TimelineView Object Members](fa134129-519f-6f08-dc53-5e72085f9cc0.md)

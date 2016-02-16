@@ -14,5 +14,5 @@ Indicates the response to a task request.
 
 ## Remarks
 
-Used by the  [TaskItem.ResponseState Property (Outlook)](91f1d4a1-f55b-7379-c1a8-c302bac25a6c.md) and as a parameter to the [TaskItem.Respond Method (Outlook)](1befabf7-262f-897a-d1dc-49be4e7ddf9b.md).
+Used by the [TaskItem.ResponseState Property (Outlook)](91f1d4a1-f55b-7379-c1a8-c302bac25a6c.md) and as a parameter to the[TaskItem.Respond Method (Outlook)](1befabf7-262f-897a-d1dc-49be4e7ddf9b.md).
 

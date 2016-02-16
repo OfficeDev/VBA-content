@@ -6,9 +6,9 @@ Adds a picture to a contact item.
 
 ## Syntax
 
- _expression_. **AddPicture**( **_Path_**)
+ _expression_ . **AddPicture**( **_Path_** )
 
- _expression_A variable that represents a  **ContactItem** object.
+ _expression_ A variable that represents a **ContactItem** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Adds a picture to a contact item.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Path|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
+| _Path_|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
 
 ## Remarks
 
@@ -31,7 +31,7 @@ The picture can be an icon, GIF, JPEG, BMP, TIFF, WMF, EMF, or PNG file. Microso
 The following Microsoft Visual Basic for Applications (VBA) example prompts the user to specify the name of a contact and the file name containing a picture of the contact, and then adds the picture to the contact item. If a picture already exists for the contact item, the example prompts the user to specify if the existing picture should be overwritten by the new file.
 
 
-```vb
+```
 Sub AddPictureToAContact() 
  
  Dim myNms As Outlook.NameSpace 
@@ -86,8 +86,8 @@ Sub AddPictureToAContact()
 #### Concepts
 
 
- [ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
+[ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
 #### Other resources
 
 
- [ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)
+[ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)

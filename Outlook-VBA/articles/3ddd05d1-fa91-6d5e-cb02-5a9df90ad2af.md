@@ -6,9 +6,9 @@ Returns a constant that belongs to the  **[OlDownloadState](ff5e00db-ad06-ddf1-6
 
 ## Syntax
 
- _expression_. **DownloadState**
+ _expression_ . **DownloadState**
 
- _expression_A variable that represents a  **TaskRequestItem** object.
+ _expression_ A variable that represents a **TaskRequestItem** object.
 
 
 ## Example
@@ -16,7 +16,7 @@ Returns a constant that belongs to the  **[OlDownloadState](ff5e00db-ad06-ddf1-6
 The following Microsoft Visual Basic for Applications (VBA) example searches through the user's  **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
 
 
-```vb
+```
 Sub DownloadItems() 
  
  Dim mpfInbox As Outlook.Folder 
@@ -69,8 +69,8 @@ End Sub
 #### Concepts
 
 
- [TaskRequestItem Object](2908a28a-634c-e786-aa53-f3e32038b727.md)
+[TaskRequestItem Object](2908a28a-634c-e786-aa53-f3e32038b727.md)
 #### Other resources
 
 
- [TaskRequestItem Object Members](d43114ee-be91-ff02-3424-525da2cf3a50.md)
+[TaskRequestItem Object Members](d43114ee-be91-ff02-3424-525da2cf3a50.md)

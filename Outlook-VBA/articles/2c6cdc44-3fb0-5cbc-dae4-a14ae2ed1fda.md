@@ -6,9 +6,9 @@ Obtains a  **[Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object th
 
 ## Syntax
 
- _expression_. **GetConversation**
+ _expression_ . **GetConversation**
 
- _expression_A variable that represents a  **[TaskRequestDeclineItem](e842c7c0-7943-9219-329b-30b892ab99b0.md)** object.
+ _expression_ A variable that represents a **[TaskRequestDeclineItem](e842c7c0-7943-9219-329b-30b892ab99b0.md)** object.
 
 
 ### Return Value
@@ -38,8 +38,8 @@ A  **Conversation** object that represents the conversation to which this item b
 #### Concepts
 
 
- [TaskRequestDeclineItem Object](e842c7c0-7943-9219-329b-30b892ab99b0.md)
+[TaskRequestDeclineItem Object](e842c7c0-7943-9219-329b-30b892ab99b0.md)
 #### Other resources
 
 
- [TaskRequestDeclineItem Object Members](3de31d0d-2444-876c-5d4d-1192851301af.md)
+[TaskRequestDeclineItem Object Members](3de31d0d-2444-876c-5d4d-1192851301af.md)

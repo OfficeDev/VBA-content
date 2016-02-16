@@ -6,9 +6,9 @@ Displays the specified form page or form region in the inspector.
 
 ## Syntax
 
- _expression_. **SetCurrentFormPage**( **_PageName_**)
+ _expression_ . **SetCurrentFormPage**( **_PageName_** )
 
- _expression_A variable that represents an  **Inspector** object.
+ _expression_ A variable that represents an **Inspector** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Displays the specified form page or form region in the inspector.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PageName|Required| **String**|The display name of the form page, or the internal name of a form region.|
+| _PageName_|Required| **String**|The display name of the form page, or the internal name of a form region.|
 
 ## Remarks
 
@@ -29,7 +29,7 @@ You can use  **SetCurrentFormPage** to display a form region by specifying the *
 This Visual Basic for Applications (VBA) example uses the  **SetCurrentFormPage** method to show the **All Fields** page of the currently open item. If an error occurs, Outlook will display a message box to the user.
 
 
-```vb
+```
 Sub ShowAllFieldsPage() 
  
  On Error GoTo ErrorHandler 
@@ -66,8 +66,8 @@ End Sub
 #### Concepts
 
 
- [Inspector Object](d7384756-669c-0549-1032-c3b864187994.md)
+[Inspector Object](d7384756-669c-0549-1032-c3b864187994.md)
 #### Other resources
 
 
- [Inspector Object Members](acd3e13f-4727-7966-d2a5-a95e4528425c.md)
+[Inspector Object Members](acd3e13f-4727-7966-d2a5-a95e4528425c.md)

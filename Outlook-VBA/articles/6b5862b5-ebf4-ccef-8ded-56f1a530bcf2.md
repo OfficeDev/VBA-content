@@ -6,9 +6,9 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_ . **Name**
 
- _expression_A variable that represents an  **IconView** object.
+ _expression_ A variable that represents an **IconView** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
- [IconView Object](dc2efa6c-4752-f713-f77e-378036f358dc.md)
+[IconView Object](dc2efa6c-4752-f713-f77e-378036f358dc.md)
 #### Other resources
 
 
- [IconView Object Members](f29e5d94-b231-bd9a-d993-1884a3e2b97b.md)
+[IconView Object Members](f29e5d94-b231-bd9a-d993-1884a3e2b97b.md)

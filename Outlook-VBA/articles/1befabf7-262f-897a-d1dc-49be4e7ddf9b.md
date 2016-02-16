@@ -6,9 +6,9 @@ Responds to a task request.
 
 ## Syntax
 
- _expression_. **Respond**( **_Response_**,  **_fNoUI_**,  **_fAdditionalTextDialog_**)
+ _expression_ . **Respond**( **_Response_** , **_fNoUI_** , **_fAdditionalTextDialog_** )
 
- _expression_A variable that represents a  **TaskItem** object.
+ _expression_ A variable that represents a **TaskItem** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Responds to a task request.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Response|Required| **[OlTaskResponse](7616cbdc-fc9c-abbe-fd07-ebdadc13ede2.md)**| The response to the request.|
-|fNoUI|Required| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
-|fAdditionalTextDialog|Required| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only iffNoUI is **False**.|
+| _Response_|Required| **[OlTaskResponse](7616cbdc-fc9c-abbe-fd07-ebdadc13ede2.md)**| The response to the request.|
+| _fNoUI_|Required| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
+| _fAdditionalTextDialog_|Required| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if _fNoUI_ is **False** .|
 
 ### Return Value
 
@@ -30,7 +30,7 @@ A  **[TaskItem](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)** that represents the r
 
 When you call the  **Respond** method with the **olTaskAccept** parameter, Outlook creates a new **TaskItem** that duplicates the task request item. The new item has a different Entry ID. Outlook then removes the original item.
 
-The following table describes the behavior of the  **Respond** method depending on the parent object, and thefNoUI andfAdditionalTextDialog parameters.
+The following table describes the behavior of the  **Respond** method depending on the parent object, and the _fNoUI_ and _fAdditionalTextDialog_ parameters.
 
 
 
@@ -47,8 +47,8 @@ The following table describes the behavior of the  **Respond** method depending 
 #### Concepts
 
 
- [TaskItem Object](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)
+[TaskItem Object](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)
 #### Other resources
 
 
- [TaskItem Object Members](97234a76-2fc5-bbe4-2e14-25ae18694fc9.md)
+[TaskItem Object Members](97234a76-2fc5-bbe4-2e14-25ae18694fc9.md)

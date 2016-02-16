@@ -6,14 +6,14 @@ Returns a  **String** that represents the e-mail address of the sender of the Ou
 
 ## Syntax
 
- _expression_. **SenderEmailAddress**
+ _expression_ . **SenderEmailAddress**
 
- _expression_A variable that represents a  **MailItem** object.
+ _expression_ A variable that represents a **MailItem** object.
 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
+This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
 
 
 ## Example
@@ -21,7 +21,7 @@ This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
 The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the  **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender e-mail address in the Test folder.
 
 
-```vb
+```
 Sub SetFlagIcon() 
  
  Dim mpfInbox As Outlook.Folder 
@@ -66,8 +66,8 @@ End Sub
 #### Concepts
 
 
- [MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
+[MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
 #### Other resources
 
 
- [MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)
+[MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)

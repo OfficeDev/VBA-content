@@ -6,9 +6,9 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
 ## Syntax
 
- _expression_. **GetContact**
+ _expression_ . **GetContact**
 
- _expression_A variable that represents an  **ExchangeDistributionList** object.
+ _expression_ A variable that represents an **ExchangeDistributionList** object.
 
 
 ### Return Value
@@ -18,7 +18,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList**, this method always returns  **Null**.
+The  **ExchangeDistributionList** object is derived from the **[AddressEntry](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)** object. It inherits the **GetContact** method from the **AddressEntry** object, and in the case of **ExchangeDistributionList** , this method always returns **Null**.
 
 
 ## See also
@@ -27,8 +27,8 @@ The  **ExchangeDistributionList** object is derived from the **[AddressEntry](d4
 #### Concepts
 
 
- [ExchangeDistributionList Object](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)
+[ExchangeDistributionList Object](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)
 #### Other resources
 
 
- [ExchangeDistributionList Object Members](89105487-3e5b-ee8b-02e0-33ad42bd2fbe.md)
+[ExchangeDistributionList Object Members](89105487-3e5b-ee8b-02e0-33ad42bd2fbe.md)

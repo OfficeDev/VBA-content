@@ -6,9 +6,9 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 ## Syntax
 
- _expression_. **Display**( **_Modal_**)
+ _expression_ . **Display**( **_Modal_** )
 
- _expression_A variable that represents a  **JournalItem** object.
+ _expression_ A variable that represents a **JournalItem** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Modal|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
 
 ## Remarks
 
@@ -32,8 +32,8 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 #### Concepts
 
 
- [JournalItem Object](6e850295-39f9-47b8-e866-9622e9958c69.md)
+[JournalItem Object](6e850295-39f9-47b8-e866-9622e9958c69.md)
 #### Other resources
 
 
- [JournalItem Object Members](13a0cd10-44bc-a167-c613-93985f698d95.md)
+[JournalItem Object Members](13a0cd10-44bc-a167-c613-93985f698d95.md)

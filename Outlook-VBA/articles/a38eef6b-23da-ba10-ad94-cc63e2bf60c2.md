@@ -6,9 +6,9 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 ## Syntax
 
- _expression_. **Write**( **_Cancel_**)
+ _expression_ . **Write**( **_Cancel_** )
 
- _expression_A variable that represents a  **RemoteItem** object.
+ _expression_ A variable that represents a **RemoteItem** object.
 
 
 ### Parameters
@@ -17,11 +17,11 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Boolean**| (Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True**, the save operation is not completed.|
+| _Cancel_|Required| **Boolean**| (Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True** , the save operation is not completed.|
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the save operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the save operation is not completed.
 
 
 ## See also
@@ -30,8 +30,8 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
- [RemoteItem Object](6302aaff-cdcf-4d86-60f1-4bed15540d9f.md)
+[RemoteItem Object](6302aaff-cdcf-4d86-60f1-4bed15540d9f.md)
 #### Other resources
 
 
- [RemoteItem Object Members](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)
+[RemoteItem Object Members](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)

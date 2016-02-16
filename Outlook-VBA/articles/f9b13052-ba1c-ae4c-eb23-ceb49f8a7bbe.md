@@ -6,9 +6,9 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 
 ## Syntax
 
- _expression_. **UnRead**
+ _expression_ . **UnRead**
 
- _expression_A variable that represents a  **PostItem** object.
+ _expression_ A variable that represents a **PostItem** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
- [PostItem Object](de44065d-4e93-315a-279f-7b92f09c0465.md)
+[PostItem Object](de44065d-4e93-315a-279f-7b92f09c0465.md)
 #### Other resources
 
 
- [PostItem Object Members](5b150db1-c96d-0721-ec36-d5b5ebc20fd8.md)
+[PostItem Object Members](5b150db1-c96d-0721-ec36-d5b5ebc20fd8.md)

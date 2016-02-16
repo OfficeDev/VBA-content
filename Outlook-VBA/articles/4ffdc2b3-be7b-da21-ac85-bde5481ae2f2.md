@@ -6,9 +6,9 @@ Returns a  **[Stores](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)** collection obje
 
 ## Syntax
 
- _expression_. **Stores**
+ _expression_ . **Stores**
 
- _expression_A variable that represents a  **NameSpace** object.
+ _expression_ A variable that represents a **NameSpace** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **[Stores](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)** collection obje
 #### Concepts
 
 
- [NameSpace Object](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)
+[NameSpace Object](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)
 #### Other resources
 
 
- [NameSpace Object Members](d7a978a3-a2c8-6195-c5f8-af8773500456.md)
+[NameSpace Object Members](d7a978a3-a2c8-6195-c5f8-af8773500456.md)

@@ -6,9 +6,9 @@ Occurs when a  **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** has been add
 
 ## Syntax
 
- _expression_. **StoreAdd**( **_Store_**)
+ _expression_ . **StoreAdd**( **_Store_** )
 
- _expression_A variable that represents a  **Stores** object.
+ _expression_ A variable that represents a **Stores** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Occurs when a  **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)** has been add
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Store|Required| **Store**|The  **Store** to be added to the current session.|
+| _Store_|Required| **Store**|The  **Store** to be added to the current session.|
 
 ## Remarks
 
@@ -28,7 +28,7 @@ Outlook must be running in order for this event to fire. This event will fire wh
     
 - A store is added through the  **Data Files** tab of the **Account Manager** dialog box.
     
-- A store is added successfully by calling the  ** [Namespace.AddStore](c9390982-2408-fda5-a14d-de6f0daaadf1.md)** method.
+- A store is added successfully by calling the  **[Namespace.AddStore](c9390982-2408-fda5-a14d-de6f0daaadf1.md)** method.
     
 
 
@@ -52,8 +52,8 @@ You can use this event to determine whether a store has been added and take appr
 #### Concepts
 
 
- [Stores Object](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)
+[Stores Object](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)
 #### Other resources
 
 
- [Stores Object Members](f3fec99a-54b2-c13e-d96a-c8c5e2429f99.md)
+[Stores Object Members](f3fec99a-54b2-c13e-d96a-c8c5e2429f99.md)

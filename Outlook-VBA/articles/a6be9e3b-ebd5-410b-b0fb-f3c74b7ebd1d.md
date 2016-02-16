@@ -6,9 +6,9 @@ Returns the  **[NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)** object for
 
 ## Syntax
 
- _expression_. **Session**
+ _expression_ . **Session**
 
- _expression_A variable that represents a  **ViewField** object.
+ _expression_ A variable that represents a **ViewField** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Set objSession = Application.Session
 #### Concepts
 
 
- [ViewField Object](997319f0-7ff3-a712-8484-2e442965e187.md)
+[ViewField Object](997319f0-7ff3-a712-8484-2e442965e187.md)
 #### Other resources
 
 
- [ViewField Object Members](7269ccc0-7dca-f0ce-2aed-b6cc7b435cf7.md)
+[ViewField Object Members](7269ccc0-7dca-f0ce-2aed-b6cc7b435cf7.md)

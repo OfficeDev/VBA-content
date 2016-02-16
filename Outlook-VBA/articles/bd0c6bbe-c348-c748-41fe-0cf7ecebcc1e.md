@@ -11,7 +11,7 @@ Before you use this control for the first time in the forms designer, add the Mi
 The following is an example of the date control at runtime. This control supports Microsoft Windows themes.
 
 
-![](../images/olDate_ZA10120280.gif)
+![](images/olDate_ZA10120280.gif)
 
 
 
@@ -19,17 +19,14 @@ This control can bind to any built-in or custom  **DateTime** field. However, th
 
 If the  **[Click](ec2483b8-0fe1-de86-dc01-9cafbde31e44.md)** event is implemented but the **[DropButtonClick](425118d2-afa4-4582-1f89-857e5b7ae903.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
-For more information about Outlook controls, see  [Controls in a Custom Form](fcba1b34-c526-5d01-8644-cb8852bd2348.md). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
+For more information about Outlook controls, see [Controls in a Custom Form](http://msdn.microsoft.com/library/fcba1b34-c526-5d01-8644-cb8852bd2348%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 
 
 ## See also
 
 
-#### Concepts
-
-
- [Outlook Object Model Reference](73221b13-d8d8-99b8-3394-b95dbbfd5ddc.md)
 #### Other resources
 
 
- [OlkDateControl Object Members](6bc09aee-2f4e-5042-a653-52c0c09068c5.md)
+[OlkDateControl Object Members](6bc09aee-2f4e-5042-a653-52c0c09068c5.md)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

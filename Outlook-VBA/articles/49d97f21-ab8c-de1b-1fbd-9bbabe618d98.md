@@ -6,9 +6,9 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 ## Syntax
 
- _expression_. **Display**( **_Modal_**)
+ _expression_ . **Display**( **_Modal_** )
 
- _expression_A variable that represents an  **Inspector** object.
+ _expression_ A variable that represents an **Inspector** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Modal|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
 
 ## Remarks
 
@@ -32,8 +32,8 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 #### Concepts
 
 
- [Inspector Object](d7384756-669c-0549-1032-c3b864187994.md)
+[Inspector Object](d7384756-669c-0549-1032-c3b864187994.md)
 #### Other resources
 
 
- [Inspector Object Members](acd3e13f-4727-7966-d2a5-a95e4528425c.md)
+[Inspector Object Members](acd3e13f-4727-7966-d2a5-a95e4528425c.md)

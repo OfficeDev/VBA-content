@@ -6,9 +6,9 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
 ## Syntax
 
- _expression_. **CustomPropertyChange**( **_Name_**)
+ _expression_ . **CustomPropertyChange**( **_Name_** )
 
- _expression_A variable that represents an  **AppointmentItem** object.
+ _expression_ A variable that represents an **AppointmentItem** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Name|Required| **String**|The name of the custom property that was changed.|
+| _Name_|Required| **String**|The name of the custom property that was changed.|
 
 ## Remarks
 
@@ -26,14 +26,14 @@ The property name is passed to the procedure so that you can determine which cus
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange**event to enable a control when a Boolean field is set to  **True**.
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a Boolean field is set to **True** .
 
 For this example, create two custom fields on the second page of a form. The first, a  **Boolean** field, is named "RespondBy". The second field is named "DateToRespond".
 
 
 
 
-```vb
+```
 Sub Item_CustomPropertyChange(ByVal myPropName) 
  
  Select Case myPropName 
@@ -72,8 +72,8 @@ End Sub
 #### Concepts
 
 
- [AppointmentItem Object](204a409d-654e-27aa-643a-8344c631b82d.md)
+[AppointmentItem Object](204a409d-654e-27aa-643a-8344c631b82d.md)
 #### Other resources
 
 
- [AppointmentItem Object Members](c72c459d-6d3c-7a05-aa4a-b1b767ddc0b2.md)
+[AppointmentItem Object Members](c72c459d-6d3c-7a05-aa4a-b1b767ddc0b2.md)

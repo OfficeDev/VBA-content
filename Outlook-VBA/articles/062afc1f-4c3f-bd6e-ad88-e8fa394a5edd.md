@@ -6,9 +6,9 @@ Removes the item from the folder that contains the item.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_ . **Delete**
 
- _expression_A variable that represents a  **RemoteItem** object.
+ _expression_ A variable that represents a **RemoteItem** object.
 
 
 ## Remarks
@@ -24,9 +24,9 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 #### Concepts
 
 
- [RemoteItemObject](6302aaff-cdcf-4d86-60f1-4bed15540d9f.md)
- [Delete All Items and Subfolders in the Deleted Items Folder](359a416b-43d4-396e-e348-5624c4ca3599.md)
+[RemoteItemObject](6302aaff-cdcf-4d86-60f1-4bed15540d9f.md)
 #### Other resources
 
 
- [RemoteItemMembers](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)
+[RemoteItemMembers](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)
+[Delete All Items and Subfolders in the Deleted Items Folder](http://msdn.microsoft.com/library/359a416b-43d4-396e-e348-5624c4ca3599%28Office.15%29.aspx)

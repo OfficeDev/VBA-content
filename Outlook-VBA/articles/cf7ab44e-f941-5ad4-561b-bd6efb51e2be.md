@@ -6,9 +6,9 @@ Returns an  **[OlObjectClass](33d724b3-df3c-2a7f-a80f-93b66d96f588.md)** constan
 
 ## Syntax
 
- _expression_. **Class**
+ _expression_ . **Class**
 
- _expression_A variable that represents a  **SenderInAddressListRuleCondition** object.
+ _expression_ A variable that represents a **SenderInAddressListRuleCondition** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns an  **[OlObjectClass](33d724b3-df3c-2a7f-a80f-93b66d96f588.md)** constan
 #### Concepts
 
 
- [SenderInAddressListRuleCondition Object](c43aa055-8d4f-e264-07dd-4c5519faf1c7.md)
+[SenderInAddressListRuleCondition Object](c43aa055-8d4f-e264-07dd-4c5519faf1c7.md)
 #### Other resources
 
 
- [SenderInAddressListRuleCondition Object Members](260ce9da-395c-5b4e-2234-3e4e9013ac14.md)
+[SenderInAddressListRuleCondition Object Members](260ce9da-395c-5b4e-2234-3e4e9013ac14.md)

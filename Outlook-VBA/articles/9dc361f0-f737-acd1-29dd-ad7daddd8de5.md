@@ -6,9 +6,9 @@ Returns a  **[PropertyAccessor](2fc91e13-703c-3ec9-9066-ffee7144306c.md)** objec
 
 ## Syntax
 
- _expression_. **PropertyAccessor**
+ _expression_ . **PropertyAccessor**
 
- _expression_A variable that represents a  **DocumentItem** object.
+ _expression_ A variable that represents a **DocumentItem** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **[PropertyAccessor](2fc91e13-703c-3ec9-9066-ffee7144306c.md)** objec
 #### Concepts
 
 
- [DocumentItem Object](7b0a6af0-6632-3ff6-841f-5b081d0d68d8.md)
+[DocumentItem Object](7b0a6af0-6632-3ff6-841f-5b081d0d68d8.md)
 #### Other resources
 
 
- [DocumentItem Object Members](2c6d563b-39cb-9cb3-3bfe-93fe595325cf.md)
+[DocumentItem Object Members](2c6d563b-39cb-9cb3-3bfe-93fe595325cf.md)

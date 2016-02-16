@@ -18,11 +18,8 @@ Use the  **[IsRemovable](9fff5f32-2ac4-5ed3-c6d5-10962de8b34f.md)** property to 
 ## See also
 
 
-#### Concepts
-
-
- [Outlook Object Model Reference](73221b13-d8d8-99b8-3394-b95dbbfd5ddc.md)
 #### Other resources
 
 
- [NavigationFolder Object Members](1ec2e16d-c7ca-86b1-9283-839a2b9aca05.md)
+[NavigationFolder Object Members](1ec2e16d-c7ca-86b1-9283-839a2b9aca05.md)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

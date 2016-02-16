@@ -1,14 +1,14 @@
 
 # RecurrencePattern.Duration Property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[RecurrencePattern](36c098f7-59fb-879a-5173-ed0260d13fa4.md)**. Read/write.
+Returns or sets a  **Long** indicating the duration (in minutes) of the **[RecurrencePattern](36c098f7-59fb-879a-5173-ed0260d13fa4.md)** . Read/write.
 
 
 ## Syntax
 
- _expression_. **Duration**
+ _expression_ . **Duration**
 
- _expression_A variable that represents a  **RecurrencePattern** object.
+ _expression_ A variable that represents a **RecurrencePattern** object.
 
 
 ## Remarks
@@ -24,8 +24,8 @@ To create a duration of one day for an all-day event, set the duration equal to 
 #### Concepts
 
 
- [RecurrencePattern Object](36c098f7-59fb-879a-5173-ed0260d13fa4.md)
+[RecurrencePattern Object](36c098f7-59fb-879a-5173-ed0260d13fa4.md)
 #### Other resources
 
 
- [RecurrencePattern Object Members](d282fdb2-2b6d-983d-fe5f-698113d35f89.md)
+[RecurrencePattern Object Members](d282fdb2-2b6d-983d-fe5f-698113d35f89.md)

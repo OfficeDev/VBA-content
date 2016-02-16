@@ -6,9 +6,9 @@ Returns a  **[Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)** object that ind
 
 ## Syntax
 
- _expression_. **GetAlwaysMoveToFolder**( **_Store_**)
+ _expression_ . **GetAlwaysMoveToFolder**( **_Store_** )
 
- _expression_A variable that represents a  **[Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object.
+ _expression_ A variable that represents a **[Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns a  **[Folder](3cf6cda8-6d70-666e-2643-9d9c5b9cacfc.md)** object that ind
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Store|Required| **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)**|The store where the folder to which conversation items are moved resides.|
+| _Store_|Required| **[Store](1eb22fe9-8849-7476-5388-2515b48591b9.md)**|The store where the folder to which conversation items are moved resides.|
 
 ### Return Value
 
@@ -36,7 +36,7 @@ If no folder, other than the  **Deleted Items** folder, has been specified to al
 The following Microsoft Visual Basic for Application (VBA) example shows how to find the folder into which new items that arrive in the conversation of the first mail item displayed in the Reading Pane are always moved. The code example,  `DemoGetAlwaysMoveToFolder`, verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, uses  **GetAlwaysMoveToFolder** to obtain the folder, and displays the folder name.
 
 
-```vb
+```
 Sub DemoGetAlwaysMoveToFolder() 
  
  Dim oMail As Outlook.MailItem 
@@ -89,8 +89,8 @@ End Sub
 #### Concepts
 
 
- [Conversation Object](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)
+[Conversation Object](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)
 #### Other resources
 
 
- [Conversation Object Members](09ff1e8e-7c5a-0b1e-e8e2-e259f66f71c8.md)
+[Conversation Object Members](09ff1e8e-7c5a-0b1e-e8e2-e259f66f71c8.md)

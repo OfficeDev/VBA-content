@@ -6,9 +6,9 @@ Returns a  **[SimpleItems](b929ae28-fe5f-607e-37b5-ed6a304d4896.md)** collection
 
 ## Syntax
 
- _expression_. **GetRootItems**
+ _expression_ . **GetRootItems**
 
- _expression_A variable that represents a  **[Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object.
+ _expression_ A variable that represents a **[Conversation](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)** object.
 
 
 ### Return Value
@@ -29,8 +29,8 @@ If all items are deleted from the conversation after the  **[Conversation](2705d
 #### Concepts
 
 
- [Conversation Object](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)
+[Conversation Object](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)
 #### Other resources
 
 
- [Conversation Object Members](09ff1e8e-7c5a-0b1e-e8e2-e259f66f71c8.md)
+[Conversation Object Members](09ff1e8e-7c5a-0b1e-e8e2-e259f66f71c8.md)

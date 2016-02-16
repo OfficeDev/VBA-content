@@ -6,9 +6,9 @@ Returns the parent  **Object** of the specified **[SolutionsModule](4597765e-a95
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_A variable that represents a  **SolutionsModule** object.
+ _expression_ A variable that represents a **SolutionsModule** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ The parent of a  **SolutionsModule** object returns a **[NavigationPane](b6538c7
 #### Concepts
 
 
- [SolutionsModule Object](4597765e-a95d-bf07-2ac4-103218ebc696.md)
+[SolutionsModule Object](4597765e-a95d-bf07-2ac4-103218ebc696.md)
 #### Other resources
 
 
- [SolutionsModule Object Members](8537b2d4-07cb-9e40-a87b-ff12d304f809.md)
+[SolutionsModule Object Members](8537b2d4-07cb-9e40-a87b-ff12d304f809.md)

@@ -6,9 +6,9 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 ## Syntax
 
- _expression_. **Display**( **_Modal_**)
+ _expression_ . **Display**( **_Modal_** )
 
- _expression_A variable that represents a  **MailItem** object.
+ _expression_ A variable that represents a **MailItem** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Displays a new  **[Inspector](d7384756-669c-0549-1032-c3b864187994.md)** object 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Modal|Optional| **Variant**| **True** to make the window modal. The default value is **False**.|
+| _Modal_|Optional| **Variant**| **True** to make the window modal. The default value is **False** .|
 
 ## Remarks
 
@@ -34,7 +34,7 @@ This Visual Basic for Applications example displays the first item in the  **Inb
  **Note**  The items in the  **Items** collection object are not guaranteed to be in any particular order.
 
 
-```vb
+```
 Sub DisplayFirstItem() 
  
  Dim myNameSpace As Outlook.NameSpace 
@@ -67,8 +67,8 @@ End Sub
 #### Concepts
 
 
- [MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
+[MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
 #### Other resources
 
 
- [MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)
+[MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)

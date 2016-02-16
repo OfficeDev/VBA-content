@@ -6,9 +6,9 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_A variable that represents an  **AttachmentSelection** object.
+ _expression_ A variable that represents an **AttachmentSelection** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
- [AttachmentSelection Object](398cf106-a904-9048-e627-e47aaadf1105.md)
+[AttachmentSelection Object](398cf106-a904-9048-e627-e47aaadf1105.md)
 #### Other resources
 
 
- [AttachmentSelection Object Members](98212826-8a87-665c-2a38-e232974b904b.md)
+[AttachmentSelection Object Members](98212826-8a87-665c-2a38-e232974b904b.md)

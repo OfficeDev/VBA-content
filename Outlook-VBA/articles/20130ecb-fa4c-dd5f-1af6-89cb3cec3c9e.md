@@ -6,9 +6,9 @@ Returns or sets a  **Boolean** that enables the rendering of a downward-pointing
 
 ## Syntax
 
- _expression_. **DisplayDropArrow**
+ _expression_ . **DisplayDropArrow**
 
- _expression_A variable that represents an  **OlkCommandButton** object.
+ _expression_ A variable that represents an **OlkCommandButton** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ This arrow is rendered on the right on the button in langauges written left-to-r
 #### Concepts
 
 
- [OlkCommandButton Object](bb150211-d50a-130b-91f0-1129dba8f378.md)
+[OlkCommandButton Object](bb150211-d50a-130b-91f0-1129dba8f378.md)
 #### Other resources
 
 
- [OlkCommandButton Object Members](de26575e-23dc-f1f1-c64a-e58a4b1c51cb.md)
+[OlkCommandButton Object Members](de26575e-23dc-f1f1-c64a-e58a4b1c51cb.md)

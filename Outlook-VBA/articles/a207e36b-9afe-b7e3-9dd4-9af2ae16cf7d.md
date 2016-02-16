@@ -6,9 +6,9 @@ Occurs after the data in the control has been changed through the user interface
 
 ## Syntax
 
- _expression_. **AfterUpdate**
+ _expression_ . **AfterUpdate**
 
- _expression_A variable that represents an  **OlkCheckBox** object.
+ _expression_ A variable that represents an **OlkCheckBox** object.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Occurs after the data in the control has been changed through the user interface
     
 4.  ** AfterUpdate**
     
-5.  **Exit**: User moves focus away from control
+5.  **Exit** : User moves focus away from control
     
 
 
@@ -35,8 +35,8 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
- [OlkCheckBox Object](79460205-a604-7011-a9b3-14e651807f09.md)
+[OlkCheckBox Object](79460205-a604-7011-a9b3-14e651807f09.md)
 #### Other resources
 
 
- [OlkCheckBox Object Members](acf62b06-215d-6b2b-57b0-ccbfd0c92aed.md)
+[OlkCheckBox Object Members](acf62b06-215d-6b2b-57b0-ccbfd0c92aed.md)

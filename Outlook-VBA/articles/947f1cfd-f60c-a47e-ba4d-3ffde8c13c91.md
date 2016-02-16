@@ -6,17 +6,17 @@ Creates another instance of an object.
 
 ## Syntax
 
- _expression_. **Copy**
+ _expression_ . **Copy**
 
- _expression_A variable that represents an  **AppointmentItem** object.
+ _expression_ A variable that represents an **AppointmentItem** object.
 
 
 ## Example
 
-This Visual Basic for Applications example creates an e-mail message, sets the  **Subject**to "Speeches", uses the  **Copy** method to copy it, then moves the copy into a newly created e-mail folder named "Saved Mail" within the Inbox folder.
+This Visual Basic for Applications example creates an e-mail message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created e-mail folder named "Saved Mail" within the Inbox folder.
 
 
-```vb
+```
 Sub CopyItem() 
  
  Dim myNameSpace As Outlook.NameSpace 
@@ -55,8 +55,8 @@ End Sub
 #### Concepts
 
 
- [AppointmentItem Object](204a409d-654e-27aa-643a-8344c631b82d.md)
+[AppointmentItem Object](204a409d-654e-27aa-643a-8344c631b82d.md)
 #### Other resources
 
 
- [AppointmentItem Object Members](c72c459d-6d3c-7a05-aa4a-b1b767ddc0b2.md)
+[AppointmentItem Object Members](c72c459d-6d3c-7a05-aa4a-b1b767ddc0b2.md)

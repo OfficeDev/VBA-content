@@ -6,9 +6,9 @@ Returns the  **[ExchangeDistributionList](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.m
 
 ## Syntax
 
- _expression_. **GetExchangeDistributionList**
+ _expression_ . **GetExchangeDistributionList**
 
- _expression_A variable that represents an  **ExchangeDistributionList** object.
+ _expression_ A variable that represents an **ExchangeDistributionList** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ The parent  **ExchangeDistributionList** object.
 #### Concepts
 
 
- [ExchangeDistributionList Object](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)
+[ExchangeDistributionList Object](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)
 #### Other resources
 
 
- [ExchangeDistributionList Object Members](89105487-3e5b-ee8b-02e0-33ad42bd2fbe.md)
+[ExchangeDistributionList Object Members](89105487-3e5b-ee8b-02e0-33ad42bd2fbe.md)

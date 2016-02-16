@@ -6,9 +6,9 @@ Returns an  **[Application](797003e7-ecd1-eccb-eaaf-32d6ddde8348.md)** object th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents an  **OrderField** object.
+ _expression_ A variable that represents an **OrderField** object.
 
 
 ## See also
@@ -17,8 +17,8 @@ Returns an  **[Application](797003e7-ecd1-eccb-eaaf-32d6ddde8348.md)** object th
 #### Concepts
 
 
- [OrderField Object](4ae32270-bde9-3178-bca3-f8d145779d3d.md)
+[OrderField Object](4ae32270-bde9-3178-bca3-f8d145779d3d.md)
 #### Other resources
 
 
- [OrderField Object Members](d46e1112-5f92-4765-da0c-18668c1bc0ea.md)
+[OrderField Object Members](d46e1112-5f92-4765-da0c-18668c1bc0ea.md)

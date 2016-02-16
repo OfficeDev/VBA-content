@@ -18,7 +18,7 @@ Use the  **[FieldType](84a40f6f-72fe-61e5-d85c-7a7c90f3e58a.md)** property to de
 The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](c4c6257e-fdbe-c187-86c5-34bee3eb0bd3.md)** collection of the current **[TableView](026e27f8-1655-060d-e8cc-87eaaf4f1510.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
-```vb
+```
 Private Sub DisplayTableViewFields() 
  
  Dim objTableView As TableView 
@@ -84,11 +84,8 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
- [Outlook Object Model Reference](73221b13-d8d8-99b8-3394-b95dbbfd5ddc.md)
 #### Other resources
 
 
- [ColumnFormat Object Members](7159f452-7a05-f3a3-53f8-0b3f5463d313.md)
+[ColumnFormat Object Members](7159f452-7a05-f3a3-53f8-0b3f5463d313.md)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

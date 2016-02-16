@@ -6,14 +6,14 @@ Returns a  **Boolean** value that indicates whether the mail message can be forw
 
 ## Syntax
 
- _expression_. **AlternateRecipientAllowed**
+ _expression_ . **AlternateRecipientAllowed**
 
- _expression_A variable that represents a  **MailItem** object.
+ _expression_ A variable that represents a **MailItem** object.
 
 
 ## Remarks
 
-If this property returns  **True**, then the mail message can be forwarded.
+If this property returns  **True** , then the mail message can be forwarded.
 
 
 ## See also
@@ -22,8 +22,8 @@ If this property returns  **True**, then the mail message can be forwarded.
 #### Concepts
 
 
- [MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
+[MailItem Object](14197346-05d2-0250-fa4c-4a6b07daf25f.md)
 #### Other resources
 
 
- [MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)
+[MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)

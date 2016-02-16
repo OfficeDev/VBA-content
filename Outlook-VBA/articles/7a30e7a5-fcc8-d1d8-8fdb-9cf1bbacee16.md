@@ -6,9 +6,9 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 ## Syntax
 
- _expression_. **AttachmentAdd**( **_Attachment_**)
+ _expression_ . **AttachmentAdd**( **_Attachment_** )
 
- _expression_A variable that represents a  **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a **TaskRequestUpdateItem** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Attachment|Required| **[Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)**|The  **Attachment** that was added to the item.|
+| _Attachment_|Required| **[Attachment](3e11582b-ac90-0948-bc37-506570bb287b.md)**|The  **Attachment** that was added to the item.|
 
 ## See also
 
@@ -25,8 +25,8 @@ Occurs when an attachment has been added to an instance of the parent object.
 #### Concepts
 
 
- [TaskRequestUpdateItem Object](5bc407fe-b3f6-3e46-8b91-e2ed96292cec.md)
+[TaskRequestUpdateItem Object](5bc407fe-b3f6-3e46-8b91-e2ed96292cec.md)
 #### Other resources
 
 
- [TaskRequestUpdateItem Object Members](f4a396b3-c2f7-68a7-efa7-877328a7fc21.md)
+[TaskRequestUpdateItem Object Members](f4a396b3-c2f7-68a7-efa7-877328a7fc21.md)

@@ -6,9 +6,9 @@ Returns the  **[NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)** object for
 
 ## Syntax
 
- _expression_. **Session**
+ _expression_ . **Session**
 
- _expression_A variable that represents a  **DistListItem** object.
+ _expression_ A variable that represents a **DistListItem** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Set objSession = Application.Session
 #### Concepts
 
 
- [DistListItem Object](027c3986-abff-d9b1-ecc2-26d60805e952.md)
+[DistListItem Object](027c3986-abff-d9b1-ecc2-26d60805e952.md)
 #### Other resources
 
 
- [DistListItem Object Members](3ba4af84-ce84-61d9-1bc9-fab41bf6f125.md)
+[DistListItem Object Members](3ba4af84-ce84-61d9-1bc9-fab41bf6f125.md)

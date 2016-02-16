@@ -6,9 +6,9 @@ Returns or sets a  **String** that identifies a group of mutually exclusive opti
 
 ## Syntax
 
- _expression_. **GroupName**
+ _expression_ . **GroupName**
 
- _expression_A variable that represents an  **OlkOptionButton** object.
+ _expression_ A variable that represents an **OlkOptionButton** object.
 
 
 ## Remarks
@@ -24,8 +24,8 @@ The default value is an empty string.
 #### Concepts
 
 
- [OlkOptionButton Object](a7aab427-a2f0-a153-f558-c13559610c99.md)
+[OlkOptionButton Object](a7aab427-a2f0-a153-f558-c13559610c99.md)
 #### Other resources
 
 
- [OlkOptionButton Object Members](e5d545e6-496f-6a11-af73-faa3eb20647c.md)
+[OlkOptionButton Object Members](e5d545e6-496f-6a11-af73-faa3eb20647c.md)

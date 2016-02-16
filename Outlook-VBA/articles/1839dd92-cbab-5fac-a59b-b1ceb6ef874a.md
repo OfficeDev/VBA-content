@@ -6,9 +6,9 @@ Clears the properties that have been cached with the  **[SetColumns](119ea78f-f6
 
 ## Syntax
 
- _expression_. **ResetColumns**
+ _expression_ . **ResetColumns**
 
- _expression_A variable that represents a  **Results** object.
+ _expression_ A variable that represents a **Results** object.
 
 
 ## Remarks
@@ -22,8 +22,8 @@ All properties are accessible after calling the  **ResetColumns** method. **SetC
 #### Concepts
 
 
- [Results Object](59057f6f-8f6d-eed0-c945-240b9593b7ea.md)
+[Results Object](59057f6f-8f6d-eed0-c945-240b9593b7ea.md)
 #### Other resources
 
 
- [Results Object Members](650f59fb-0dbd-3f5f-b289-2dfe9e33c20e.md)
+[Results Object Members](650f59fb-0dbd-3f5f-b289-2dfe9e33c20e.md)

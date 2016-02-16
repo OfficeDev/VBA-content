@@ -6,9 +6,9 @@ Occurs after the data in the control has been changed through the user interface
 
 ## Syntax
 
- _expression_. **AfterUpdate**
+ _expression_ . **AfterUpdate**
 
- _expression_A variable that represents an  **OlkListBox** object.
+ _expression_ A variable that represents an **OlkListBox** object.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ Occurs after the data in the control has been changed through the user interface
     
 4.  ** AfterUpdate**
     
-5.  **Exit**: User moves focus away from control
+5.  **Exit** : User moves focus away from control
     
 
 
@@ -35,8 +35,8 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
- [OlkListBox Object](373d2a00-97e5-2ed3-f15f-577d97b32334.md)
+[OlkListBox Object](373d2a00-97e5-2ed3-f15f-577d97b32334.md)
 #### Other resources
 
 
- [OlkListBox Object Members](b8bed0b5-6994-1492-055e-4067b232f9c4.md)
+[OlkListBox Object Members](b8bed0b5-6994-1492-055e-4067b232f9c4.md)

@@ -6,9 +6,9 @@ Returns the  **[NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)** object for
 
 ## Syntax
 
- _expression_. **Session**
+ _expression_ . **Session**
 
- _expression_A variable that represents a  **ContactItem** object.
+ _expression_ A variable that represents a **ContactItem** object.
 
 
 ## Remarks
@@ -32,8 +32,8 @@ Set objSession = Application.Session
 #### Concepts
 
 
- [ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
+[ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
 #### Other resources
 
 
- [ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)
+[ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)
