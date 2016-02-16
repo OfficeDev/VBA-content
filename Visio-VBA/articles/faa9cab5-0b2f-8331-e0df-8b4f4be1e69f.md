@@ -6,9 +6,9 @@ Moves the shape or selected shapes to the back of the z-order.
 
 ## Syntax
 
- _expression_. **SendToBack**
+ _expression_ . **SendToBack**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ Nothing
 This Microsoft Visual Basic for Applications (VBA) macro shows how to move a shape to the back of the z-order on a page.
 
 
-```vb
+```
  
 Public Sub SendToBack_Example() 
  

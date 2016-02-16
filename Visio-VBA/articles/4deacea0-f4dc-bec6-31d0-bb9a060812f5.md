@@ -6,9 +6,9 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 
 ## Syntax
 
- _expression_. **Add**( **_EventCode_**,  **_Action_**,  **_Target_**,  **_TargetArgs_**)
+ _expression_ . **Add**( **_EventCode_** , **_Action_** , **_Target_** , **_TargetArgs_** )
 
- _expression_A variable that represents an  **EventList** collection.
+ _expression_ A variable that represents an **EventList** collection.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|EventCode|Required| **Integer**|The event(s) to capture.|
-|Action|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of  **[VisEventCodes](e6f205ab-803a-4d91-fa8a-0952bb9753cf.md)** in the Visio type Library.|
-|Target|Required| **String**|The name of your add-on.|
-|TargetArgs|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
+| _EventCode_|Required| **Integer**|The event(s) to capture.|
+| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon** , a member of **[VisEventCodes](e6f205ab-803a-4d91-fa8a-0952bb9753cf.md)** in the Visio type Library.|
+| _Target_|Required| **String**|The name of your add-on.|
+| _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
 ### Return Value
 
@@ -33,11 +33,11 @@ The source object whose  **EventList** collection contains the **Event** object 
 
 Creating  **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire, but when you create **Event** objects, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
 
- **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True**.
+ **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True** .
 
-The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event**,  **Action** ( **visActCodeRunAddon**),  **Target**, and  **TargetArgs** properties.
+The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** ( **visActCodeRunAddon** ), **Target** , and **TargetArgs** properties.
 
-Event codes are declared by the Visio type library and have the prefix  **visEvt**. Event codes are often a combination of constants. For example,  **visEvtAdd**+ **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see [Event Codes](de8f5c7a-421d-ebcf-22b6-4310a202ef64.md).
+Event codes are declared by the Visio type library and have the prefix  **visEvt** . Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
 To create an  **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
 
@@ -46,12 +46,12 @@ To create an  **Event** object that advises the caller's sink object about an ev
 
 The following example shows how to add an  **Event** object that runs an add-on to the **EventList** collection of the source object, in this case a **Document** object, whose events you want to receive.
 
-Before running this macro, replace _path_\ _filename_with a valid path and file name for an executable add-on (EXE) in your Visio project. The add-on should take no arguments.
+Before running this macro, replace _path_ \ _filename_ with a valid path and file name for an executable add-on (EXE) in your Visio project. The add-on should take no arguments.
 
 
 
 
-```vb
+```
 Public Sub AddEvent_Example() 
  
  Dim vsoAddons As Visio.Addons 
@@ -65,7 +65,7 @@ Public Sub AddEvent_Example()
  
  'Add an add-on to the Addons collection. 
  Set vsoAddons = Visio.Addons 
- Set vsoAddon = vsoAddons.Add("path\filename") 
+ Set vsoAddon = vsoAddons.Add("path \filename ") 
  
  'Add a BeforeDeleteSelection event to the EventList collection 
  'of the Document object. The event will start your add-on, 
@@ -73,7 +73,7 @@ Public Sub AddEvent_Example()
  Set vsoEventList = vsoDocument.EventList 
  Set vsoEvent = vsoEventList.Add(visEvtCodeBefSelDel, _ 
  visActCodeRunAddon, _ 
- "path\filename", "") 
+ "path \filename ", "") 
  
 End Sub 
 

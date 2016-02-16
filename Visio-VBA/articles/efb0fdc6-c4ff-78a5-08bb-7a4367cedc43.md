@@ -6,9 +6,9 @@ Returns the date and time the document was created. Read-only.
 
 ## Syntax
 
- _expression_. **TimeCreated**
+ _expression_ . **TimeCreated**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a **Document** object.
 
 
 ### Return Value

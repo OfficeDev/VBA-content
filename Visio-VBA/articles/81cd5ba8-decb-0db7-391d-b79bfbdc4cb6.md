@@ -6,9 +6,9 @@ Determines whether ScreenTip text includes keyboard shortcuts. Read/write.
 
 ## Syntax
 
- _expression_. **DisplayKeysInTooltips**
+ _expression_ . **DisplayKeysInTooltips**
 
- _expression_A variable that represents a  **UIObject** object.
+ _expression_ A variable that represents a **UIObject** object.
 
 
 ### Return Value
@@ -18,7 +18,7 @@ Boolean
 
 ## Remarks
 
-To show ScreenTips, you must set the  **DisplayTooltips** property to **True**.
+To show ScreenTips, you must set the  **DisplayTooltips** property to **True** .
 
 It does not matter which  **UIObject** object you use when getting or setting this property. The property affects the entire application.
 

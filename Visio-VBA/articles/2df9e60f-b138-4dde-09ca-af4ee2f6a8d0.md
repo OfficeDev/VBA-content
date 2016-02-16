@@ -6,9 +6,9 @@ Returns the distance from one shape to another, measured between the closest poi
 
 ## Syntax
 
- _expression_. **DistanceFrom**( **_OtherShape_**,  **_Flags_**)
+ _expression_ . **DistanceFrom**( **_OtherShape_** , **_Flags_** )
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Returns the distance from one shape to another, measured between the closest poi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|OtherShape|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
-|Flags|Required| **Integer**|Flags that influence the type of entries returned in results.|
+| _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
+| _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 
 ### Return Value
 
@@ -40,7 +40,7 @@ The  **DistanceFrom** property returns:
     
 
 
-The Flags argument can be any combination of the values of the constants defined in the following table. These constants are also defined in **VisSpatialRelationFlags** in the Microsoft Visio type library.
+The  _Flags_ argument can be any combination of the values of the constants defined in the following table. These constants are also defined in **VisSpatialRelationFlags** in the Microsoft Visio type library.
 
 
 
@@ -51,7 +51,7 @@ The Flags argument can be any combination of the values of the constants defined
 | **visSpatialIgnoreVisible**|&amp;H20 |Do not consider visible Geometry sections. By default, visible Geometry sections influence the result. |
 Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
 
-If the parent shape or OtherShape has no geometry, or ifFlags excludes consideration of all geometry of either shape, the **DistanceFrom** property returns a large number (1E+30) that should be construed as infinite.
+If the parent shape or  _OtherShape_ has no geometry, or if _Flags_ excludes consideration of all geometry of either shape, the **DistanceFrom** property returns a large number (1E+30) that should be construed as infinite.
 
 The  **DistanceFrom** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when comparing two shapes.
 

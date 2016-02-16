@@ -6,9 +6,9 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 
 ## Syntax
 
- _expression_. **Delete**( **_fRenumberPages_**)
+ _expression_ . **Delete**( **_fRenumberPages_** )
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a **Page** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|fRenumberPages|Required| **Integer**|1 ( **True**) to renumber remaining pages; otherwise, 0 ( **False**).|
+| _fRenumberPages_|Required| **Integer**|1 ( **True** ) to renumber remaining pages; otherwise, 0 ( **False** ).|
 
 ### Return Value
 
@@ -26,5 +26,5 @@ Nothing
 
 ## Remarks
 
-When fRenumberPages is non-zero, the remaining pages' default page names are renumbered after the page is deleted, otherwise, the pages retain their names.
+When  _fRenumberPages_ is non-zero, the remaining pages' default page names are renumbered after the page is deleted, otherwise, the pages retain their names.
 

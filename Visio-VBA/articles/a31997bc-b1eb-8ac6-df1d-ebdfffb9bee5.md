@@ -6,9 +6,9 @@ Returns the  **[ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** ob
 
 ## Syntax
 
- _expression_. **Item**( **_NameUOrIndex_**)
+ _expression_ . **Item**( **_NameUOrIndex_** )
 
- _expression_A variable that represents a  **[ValidationRuleSets](f08d7f04-13ec-8175-2aa6-94b0b67ee76b.md)** object.
+ _expression_ A variable that represents a **[ValidationRuleSets](f08d7f04-13ec-8175-2aa6-94b0b67ee76b.md)** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns the  **[ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** ob
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|NameUOrIndex|Required| **Variant**|The universal name of the object, or the index number of the object in its collection.|
+| _NameUOrIndex_|Required| **Variant**|The universal name of the object, or the index number of the object in its collection.|
 
 ### Return Value
 

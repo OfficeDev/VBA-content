@@ -9,9 +9,9 @@ After data in a data recordset are refreshed, returns an array of names of data 
 
 ## Syntax
 
- _expression_. **DataColumnsDeleted**
+ _expression_ . **DataColumnsDeleted**
 
- _expression_An expression that returns a  **DataRecordsetChangedEvent** object.
+ _expression_ An expression that returns a **DataRecordsetChangedEvent** object.
 
 
 ### Return Value

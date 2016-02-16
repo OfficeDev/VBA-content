@@ -6,9 +6,9 @@ Indicates if a shape represents an ActiveX or OLE object that is inherited from 
 
 ## Syntax
 
- _expression_. **ObjectIsInherited**
+ _expression_ . **ObjectIsInherited**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Return Value

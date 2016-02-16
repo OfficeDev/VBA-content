@@ -6,9 +6,9 @@ Returns the  **Layers** collection of an object. Read-only.
 
 ## Syntax
 
- _expression_. **Layers**
+ _expression_ . **Layers**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a **Page** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ Layers
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Layers** property to add shapes to layers. It also uses the **Layer** property to get a reference to a particular layer, the **LayerCount** property to determine the number of layers to which a shape is assigned, and the **Name** property to get the name of the current layer.
 
 
-```vb
+```
  
 Public Sub Layers_Example() 
  

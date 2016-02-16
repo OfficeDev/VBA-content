@@ -6,9 +6,9 @@ Returns the layer to which a shape is assigned. Read-only.
 
 ## Syntax
 
- _expression_. **Layer**( **_Index_**)
+ _expression_ . **Layer**( **_Index_** )
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns the layer to which a shape is assigned. Read-only.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Integer**|The ordinal of the layer to get.|
+| _Index_|Required| **Integer**|The ordinal of the layer to get.|
 
 ### Return Value
 
@@ -36,7 +36,7 @@ To get the number of layers to which a shape is assigned, use the  **LayerCount*
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Layer** property to get a reference to a particular layer. It also uses the **LayerCount** property to determine the number of layers to which a shape is assigned and the **Name** property to get the name of the current layer.
 
 
-```vb
+```
  
 Public Sub Layer_Example() 
  

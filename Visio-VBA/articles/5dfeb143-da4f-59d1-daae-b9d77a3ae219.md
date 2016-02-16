@@ -6,14 +6,14 @@ Returns status information for an object. Read-only.
 
 ## Syntax
 
- _expression_. **Stat**
+ _expression_ . **Stat**
 
- _expression_A variable that represents a  **[ValidationIssue](b1e93738-48da-cf68-24ad-dd03f79ad152.md)** object.
+ _expression_ A variable that represents a **[ValidationIssue](b1e93738-48da-cf68-24ad-dd03f79ad152.md)** object.
 
 
 ### Return Value
 
- ** [VisStatCodes](e1adc755-c041-65cb-98fe-d8483c213c87.md)**
+ **[VisStatCodes](e1adc755-c041-65cb-98fe-d8483c213c87.md)**
 
 
 ## Remarks

@@ -6,9 +6,9 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a **Page** object.
 
 
 ### Return Value
@@ -29,7 +29,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 The following Microsoft Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the active document and prints its process ID number in the Immediate window.
 
 
-```vb
+```
  
 Public Sub Application_Example() 
   

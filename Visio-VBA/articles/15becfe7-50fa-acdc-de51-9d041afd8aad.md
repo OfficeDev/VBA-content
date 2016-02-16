@@ -6,9 +6,9 @@ Sets a custom icon file for a menu or toolbar item.
 
 ## Syntax
 
- _expression_. **IconFileName**( **_IconFileName_**)
+ _expression_ . **IconFileName**( **_IconFileName_** )
 
- _expression_A variable that represents a  **Menu** object.
+ _expression_ A variable that represents a **Menu** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Sets a custom icon file for a menu or toolbar item.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|IconFileName|Required| **String**|The path and name of the ICO, EXE, DLL, or VSL file to load.|
+| _IconFileName_|Required| **String**|The path and name of the ICO, EXE, DLL, or VSL file to load.|
 
 ### Return Value
 
@@ -33,21 +33,21 @@ The  **IconFileName** method loads the file that contains the icon, saves the bi
 
 If the icon contains multiple images, Microsoft Visio chooses the best icon, based on both icon size and color depth.
 
-Unless IconFileName is a fully qualified path, the application searches for the ICO, EXE, DLL, or VSL file in the folders indicated by the **Application** object's **AddonPaths** property (assuming that the **UIObject** object is in the Visio process).
+Unless  _IconFileName_ is a fully qualified path, the application searches for the ICO, EXE, DLL, or VSL file in the folders indicated by the **Application** object's **AddonPaths** property (assuming that the **UIObject** object is in the Visio process).
 
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how use the  **IconFileName** method to set the icon for a toolbar button. It retrieves a copy of the built-in Visio toolbars, adds a toolbar button, and sets the button icon.
 
-Before running this code, replace  _path_\ _filename_ with the full path to and name of a valid icon (.ico file) on your computer.
+Before running this code, replace  _path_ \ _filename_ with the full path to and name of a valid icon (.ico file) on your computer.
 
 To restore the built-in Visio user interface after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
 
 
 
 
-```vb
+```
 Public Sub IconFileName_Example() 
  
  Dim vsoUIObject As Visio.UIObject 
@@ -73,7 +73,7 @@ Public Sub IconFileName_Example()
  vsoToolbarItem.CntrlType = visCtrlTypeBUTTON 
  vsoToolbarItem.CmdNum = 1 
  
- vsoToolbarItem.IconFileName "path\filename" 
+ vsoToolbarItem.IconFileName "path\filename " 
  
  'Use the new custom UI. 
  ThisDocument.SetCustomToolbars vsoUIObject 

@@ -6,9 +6,9 @@ Determines whether a window is visible. Read/write.
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_ . **Visible**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_ A variable that represents a **Window** object.
 
 
 ### Return Value

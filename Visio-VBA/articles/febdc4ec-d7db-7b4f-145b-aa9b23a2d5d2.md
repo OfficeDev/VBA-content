@@ -6,9 +6,9 @@ Returns the  **Shape** object that is a **Selection** object's primary item. Rea
 
 ## Syntax
 
- _expression_. **PrimaryItem**
+ _expression_ . **PrimaryItem**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_ A variable that represents a **Selection** object.
 
 
 ### Return Value

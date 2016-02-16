@@ -6,9 +6,9 @@ Specifies the font used for the header and footer text. Read/write.
 
 ## Syntax
 
- _expression_. **HeaderFooterFont**
+ _expression_ . **HeaderFooterFont**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -23,13 +23,13 @@ COM provides a standard implementation of a font object with the  **IFontDisp** 
 To get information about the  **StdFont** object that supports the **IFontDisp** interface:
 
 
-1. In the  **Code** group on the [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md) tab, click **Visual Basic**.
+1. In the  **Code** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab, click **Visual Basic**.
     
 2. On the  **View** menu, click **Object Browser**.
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdFont**.
+4. Under  **Classes**, examine the class named  **StdFont** .
     
 For details about the  **IFontDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
@@ -41,7 +41,7 @@ Setting the  **HeaderFooterFont** property is the equivalent of setting values i
 The following sample code shows how to use the  **HeaderFooterFont** property to get a reference to the current **Font** object and set the document's text font to non-bold Arial.
 
 
-```vb
+```
  
 Public Sub HeaderFooterFont_Example()  
  

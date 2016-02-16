@@ -9,9 +9,9 @@ Returns the number of  **DataColumn** objects in the **DataColumns** collection.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_ . **Count**
 
- _expression_An expression that returns a  **DataColumns** object.
+ _expression_ An expression that returns a **DataColumns** object.
 
 
 ### Return Value

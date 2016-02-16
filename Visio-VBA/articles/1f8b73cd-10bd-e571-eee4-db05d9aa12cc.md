@@ -6,9 +6,9 @@ Closes the indicated instance of Microsoft Visio.
 
 ## Syntax
 
- _expression_. **Quit**
+ _expression_ . **Quit**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return Value

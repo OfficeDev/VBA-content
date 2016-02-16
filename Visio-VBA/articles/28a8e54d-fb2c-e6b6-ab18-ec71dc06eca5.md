@@ -6,9 +6,9 @@ Returns the ID of the page that contains an object. Read-only.
 
 ## Syntax
 
- _expression_. **ContainingPageID**
+ _expression_ . **ContainingPageID**
 
- _expression_A variable that represents a  **Row** object.
+ _expression_ A variable that represents a **Row** object.
 
 
 ### Return Value

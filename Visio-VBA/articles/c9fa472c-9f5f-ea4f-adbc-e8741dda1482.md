@@ -6,9 +6,9 @@ Returns the shape from which a connection or connections originate. Read-only.
 
 ## Syntax
 
- _expression_. **FromSheet**
+ _expression_ . **FromSheet**
 
- _expression_A variable that represents a  **Connects** object.
+ _expression_ A variable that represents a **Connects** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ This example assumes there is an active document that contains at least two conn
 
 
 
-```vb
+```
  
 Public Sub FromSheet_Example() 
  

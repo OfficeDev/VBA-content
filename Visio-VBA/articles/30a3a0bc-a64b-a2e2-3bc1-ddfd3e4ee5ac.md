@@ -1,14 +1,14 @@
 
 # DrawingControl.QueryCancelSelectionDelete Event (Visio)
 
-Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
 
 
 ## Syntax
 
-Private Sub  _expression__**QueryCancelSelectionDelete**( **_ByVal selection As [IVSELECTION]_**)
+Private Sub  _expression_ _**QueryCancelSelectionDelete**( **_ByVal selection As [IVSELECTION]_** )
 
- _expression_A variable that represents a  **DrawingControl** object.
+ _expression_ A variable that represents a **DrawingControl** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Private Sub  _expression__**QueryCancelSelectionDelete**( **_ByVal selection As 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Selection|Required| **[IVSELECTION]**|The selection of shapes that is going to be deleted.|
+| _Selection_|Required| **[IVSELECTION]**|The selection of shapes that is going to be deleted.|
 
 ## Remarks
 
@@ -36,5 +36,5 @@ While a Visio instance is firing a query or cancel event, it responds to inquiri
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](de8f5c7a-421d-ebcf-22b6-4310a202ef64.md).
+If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 

@@ -9,9 +9,9 @@ Clears information about a conflict for a data-linked shape from the current doc
 
 ## Syntax
 
- _expression_. **RemoveRefreshConflict**( **_ShapeInConflict_**)
+ _expression_ . **RemoveRefreshConflict**( **_ShapeInConflict_** )
 
- _expression_An expression that returns a  **DataRecordset** object.
+ _expression_ An expression that returns a **DataRecordset** object.
 
 
 ### Parameters
@@ -20,7 +20,7 @@ Clears information about a conflict for a data-linked shape from the current doc
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ShapeInConflict|Required| **[IVSHAPE]**|A shape linked to data that has a conflict after the data recordset is refreshed.|
+| _ShapeInConflict_|Required| **[IVSHAPE]**|A shape linked to data that has a conflict after the data recordset is refreshed.|
 
 ### Return Value
 
@@ -45,7 +45,7 @@ Before running this macro, make sure that the most recently added data recordset
 
 
 
-```vb
+```
 Public Sub RemoveRefreshConflicts_Example() 
  
     Dim vsoDataRecordset As Visio.DataRecordset 

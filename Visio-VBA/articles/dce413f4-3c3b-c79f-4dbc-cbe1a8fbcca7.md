@@ -6,9 +6,9 @@ Returns the endpoint of a  **Curve** object. Read-only.
 
 ## Syntax
 
- _expression_. **End**
+ _expression_ . **End**
 
- _expression_A variable that represents a  **Curve** object.
+ _expression_ A variable that represents a **Curve** object.
 
 
 ### Return Value
@@ -26,7 +26,7 @@ The  **End** property of a **Curve** object returns the endpoint of a curve. A *
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **End** property to determine the endpoint of a curve.
 
 
-```vb
+```
  
 Sub End_Example() 
  

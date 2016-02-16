@@ -6,9 +6,9 @@ Gets or sets the caption for a menu. Read/write.
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_ . **Caption**
 
- _expression_A variable that represents a  **Menu** object.
+ _expression_ A variable that represents a **Menu** object.
 
 
 ### Return Value
@@ -24,7 +24,7 @@ String
 
 
 
-- Use an ampersand (&amp;) in the string to cause the next character in the string to become the shortcut key for that menu or menu item. For example, the string "F _&amp;o_rmat" causes  _o_ to become the shortcut key for that menu item in that one menu.
+- Use an ampersand (&amp;) in the string to cause the next character in the string to become the shortcut key for that menu or menu item. For example, the string "F _&amp;o_ rmat" causes _o_ to become the shortcut key for that menu item in that one menu.
     
 - Use "" in the string to display a double quotation mark on the menu.
     
@@ -42,7 +42,7 @@ To restore the built-in user interface in Microsoft Visio after you run this mac
 
 
 
-```vb
+```
  
 Public Sub Caption_Example() 
  

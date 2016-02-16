@@ -6,9 +6,9 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 ## Syntax
 
- _expression_. **Item**( **_NameUIDOrIndex_**)
+ _expression_ . **Item**( **_NameUIDOrIndex_** )
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|NameUIDOrIndex|Required| **Variant**|Contains the name, unique ID, or index of the object to retrieve.|
+| _NameUIDOrIndex_|Required| **Variant**|Contains the name, unique ID, or index of the object to retrieve.|
 
 ### Return Value
 
@@ -34,7 +34,7 @@ objRet = object(index)
 objRet = object(stringExpression)
 ```
 
-You can retrieve an object in an  **Addons**,  **Documents**,  **Fonts**,  **Hyperlinks**,  **Layers**,  **Masters**,  **MasterShortcuts**,  **OLEObjects**,  **Pages**,  **Shapes**, or  **Styles** collection by passing the object's name as a string expression in a **Variant**.
+You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
 
 If you retrieve a  **Shape** object by name, the **Item** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **Item** property can be a shape that is not in the **Shapes** collection.
 
@@ -73,7 +73,7 @@ Before running this macro, make sure that the active document has shapes on Page
 
 
 
-```vb
+```
 Public Sub Item_Example() 
   
     Dim intCounter As Integer 

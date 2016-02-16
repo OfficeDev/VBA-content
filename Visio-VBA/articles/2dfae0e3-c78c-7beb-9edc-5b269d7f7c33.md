@@ -6,9 +6,9 @@ Gets or sets the  **pt.x** member of the **MSG** structure being wrapped. Read/w
 
 ## Syntax
 
- _expression_. **ptx**
+ _expression_ . **ptx**
 
- _expression_A variable that represents a  **MSGWrap** object.
+ _expression_ A variable that represents a **MSGWrap** object.
 
 
 ### Return Value

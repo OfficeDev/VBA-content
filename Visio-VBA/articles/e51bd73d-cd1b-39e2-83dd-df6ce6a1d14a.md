@@ -6,9 +6,9 @@ Adds a new object to a collection.
 
 ## Syntax
 
- _expression_. **Add**
+ _expression_ . **Add**
 
- _expression_A variable that represents a  **MenuSets** collection.
+ _expression_ A variable that represents a **MenuSets** collection.
 
 
 ### Return Value

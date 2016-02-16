@@ -6,9 +6,9 @@ Determines whether the current event handler is being called as a result of an  
 
 ## Syntax
 
- _expression_. **IsUndoingOrRedoing**
+ _expression_ . **IsUndoingOrRedoing**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return Value
@@ -22,7 +22,7 @@ The  **IsUndoingOrRedoing** property returns **True** when the application is fi
 
 When the application calls an event handler, the event has a "cause." If that cause is a user action or another event handler, it is legitimate to perform undoable actions during the course of handling that event. However, if the cause of the event firing is an  **Undo** or **Redo** action, the event handler should not perform undoable actions. Doing so eliminates the ability to redo an action.
 
-You will typically only perform undoable actions inside an event handler when this property is  **False**. You can perform undoable actions when the flag is  **True**, but the redo queue is destroyed.
+You will typically only perform undoable actions inside an event handler when this property is  **False** . You can perform undoable actions when the flag is **True** , but the redo queue is destroyed.
 
 
 ## Example
@@ -30,7 +30,7 @@ You will typically only perform undoable actions inside an event handler when th
 This example adds a shape to a drawing and then checks whether the shape has been added as a result of an  **Undo** or **Redo** action.
 
 
-```vb
+```
  
 Public Sub IsUndoingOrRedoing_Example() 
  
@@ -44,7 +44,7 @@ End Sub
 ```
 
 
-```vb
+```
  
 Sub Document_ShapeAdded(ByVal Shape As IVShape) 
  

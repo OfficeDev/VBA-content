@@ -6,9 +6,9 @@ Returns the part of a shape from which a connection originates. Read-only.
 
 ## Syntax
 
- _expression_. **FromPart**
+ _expression_ . **FromPart**
 
- _expression_A variable that represents a  **Connect** object.
+ _expression_ A variable that represents a **Connect** object.
 
 
 ### Return Value
@@ -53,7 +53,7 @@ This example assumes there is an active document that contains at least two conn
 
 
 
-```vb
+```
  
 Public Sub FromPart_Example() 
  

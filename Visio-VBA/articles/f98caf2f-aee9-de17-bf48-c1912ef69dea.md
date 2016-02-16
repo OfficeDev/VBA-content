@@ -6,9 +6,9 @@ Determines the zoom behavior for all new Microsoft Visio documents and drawing w
 
 ## Syntax
 
- _expression_. **DefaultZoomBehavior**
+ _expression_ . **DefaultZoomBehavior**
 
- _expression_A variable that represents an  **InvisibleApp** object.
+ _expression_ A variable that represents an **InvisibleApp** object.
 
 
 ### Return Value
@@ -33,7 +33,7 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 
 
- **Note**  The default behavior ( **visZoomInPlaceContainer**) is different from the behavior used in Microsoft Visio 2002, but is the same as that in earlier versions of Visio. To replicate the behavior seen in Microsoft Visio 2002, set this value to  **visZoomVisio**.
+ **Note**  The default behavior ( **visZoomInPlaceContainer** ) is different from the behavior used in Microsoft Visio 2002, but is the same as that in earlier versions of Visio. To replicate the behavior seen in Microsoft Visio 2002, set this value to **visZoomVisio** .
 
-If this value is set to the default,  **visZoomInPlaceContainer**, Visio uses the container's  **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget**, no zooming occurs.
+If this value is set to the default,  **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
 

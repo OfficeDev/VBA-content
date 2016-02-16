@@ -6,9 +6,9 @@ Gets or sets the paths where Microsoft Visio looks for Help files. Read/write.
 
 ## Syntax
 
- _expression_. **HelpPaths**
+ _expression_ . **HelpPaths**
 
- _expression_A variable that represents an  **InvisibleApp** object.
+ _expression_ A variable that represents an **InvisibleApp** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Setting the  **HelpPaths** property replaces existing values for **HelpPaths** i
 
 
 ```
-Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath".
+Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath ".
 ```
 
 
@@ -42,7 +42,7 @@ Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath".
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get and set the  **HelpPaths** property of the **Application** object. Before running this macro, replace _fullpath(s)_ with the path or paths to the location or locations where you want Visio to look for Help files.
 
 
-```vb
+```
  
 Public Sub GetHelpPaths_Example()  
  
@@ -59,7 +59,7 @@ Public Sub SetHelpPaths_Example()
     Dim strNewPath As String 
  
     'Store the new path.  
-    strNewPath = "fullpath(s)"  
+    strNewPath = "fullpath(s) "  
  
     'Set the new path in the Application object.  
     Application.HelpPaths = strNewPath  

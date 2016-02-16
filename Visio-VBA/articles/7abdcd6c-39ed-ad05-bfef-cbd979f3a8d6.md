@@ -6,9 +6,9 @@ Gets or sets the text string that appears in the center portion of a document's 
 
 ## Syntax
 
- _expression_. **FooterCenter**
+ _expression_ . **FooterCenter**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -28,7 +28,7 @@ Both the string returned by the property and the string you pass to the property
 The following macro shows how to place a string containing the current page number and total number of pages into the center portion of a document's footer. After you run this macro on a one-page document, the center portion of the footer contains "Page 1 of 1".
 
 
-```vb
+```
  
 Sub FooterCenter_Example()  
  

@@ -6,9 +6,9 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 ## Syntax
 
- _expression_. **AddField**( **_Category_**,  **_Code_**,  **_Format_**)
+ _expression_ . **AddField**( **_Category_** , **_Code_** , **_Format_** )
 
- _expression_A variable that represents a  **Characters** object.
+ _expression_ A variable that represents a **Characters** object.
 
 
 ### Parameters
@@ -17,9 +17,9 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Category|Required| **Integer**| **VisFieldCategories**. The category for the new field.|
-|Code|Required| **Integer**| **VisFieldCodes**. The code for the new field.|
-|Format|Required| **Integer**| **VisFieldFormats**. The format for the new field.|
+| _Category_|Required| **Integer**| **VisFieldCategories** . The category for the new field.|
+| _Code_|Required| **Integer**| **VisFieldCodes** . The code for the new field.|
+| _Format_|Required| **Integer**| **VisFieldFormats** . The format for the new field.|
 
 ### Return Value
 
@@ -43,9 +43,9 @@ Using the  **AddField** method is similar to clicking **Field** on the **Insert*
     
 
 
-To add a custom formula field, use the  **AddCustomField**method. 
+To add a custom formula field, use the  **AddCustomField** method.
 
 To specify language and calendary versions for Date/Time fields, use the  **AddFieldEx** method.
 
-Constant values for Category, Code, and Format are declared by the Visio type library in **[VisFieldCategories](f10df918-5be3-e883-1da5-2a932fd1074f.md)**,  **[VisFieldCodes](3bcc4aef-21c1-b152-47dc-74e6c58cd24e.md)**, and  **[VisFieldFormats](ae671032-b96f-6652-f527-feb194a0261d.md)** respectively.
+Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](f10df918-5be3-e883-1da5-2a932fd1074f.md)** , **[VisFieldCodes](3bcc4aef-21c1-b152-47dc-74e6c58cd24e.md)** , and **[VisFieldFormats](ae671032-b96f-6652-f527-feb194a0261d.md)** respectively.
 

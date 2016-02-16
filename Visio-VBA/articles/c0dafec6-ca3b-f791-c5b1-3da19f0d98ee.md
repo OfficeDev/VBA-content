@@ -6,9 +6,9 @@ Returns the icon contained in a master shortcut. Read/write.
 
 ## Syntax
 
- _expression_. **Icon**
+ _expression_ . **Icon**
 
- _expression_A variable that represents a  **MasterShortcut** object.
+ _expression_ A variable that represents a **MasterShortcut** object.
 
 
 ### Return Value
@@ -27,13 +27,13 @@ To get information about the  **StdPicture** object that supports the **IPicture
 
 
 
-1. In the  **Code** group on the [Developer](1bdc55f5-8fc7-7257-03d5-c049eceb29ff.md) tab, click **Visual Basic**.
+1. In the  **Code** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab, click **Visual Basic**.
     
 2. On the  **View** menu, click **Object Browser**.
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture**.
+4. Under  **Classes**, examine the class named  **StdPicture** .
     
 
 

@@ -6,9 +6,9 @@ Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg
 
 ## Syntax
 
- _expression_. **Export**( **_FileName_**)
+ _expression_ . **Export**( **_FileName_** )
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a **Page** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FileName|Required| **String**|The fully qualified path and name of the file to receive the exported object.|
+| _FileName_|Required| **String**|The fully qualified path and name of the file to receive the exported object.|
 
 ### Return Value
 
@@ -45,7 +45,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 This example shows how to export a Visio page as a bitmap (.bmp) file. It assumes a drawing page is open and active in Microsoft Visio.
 
 
-```vb
+```
 Public Sub Export_Example() 
     Dim vsoPage As Visio.Page 
     Set vsoPage = ActivePage 

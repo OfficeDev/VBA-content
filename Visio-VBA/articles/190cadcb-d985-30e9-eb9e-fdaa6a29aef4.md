@@ -6,9 +6,9 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_ . **Item**( **_Index_** )
 
- _expression_A variable that represents an  **EventList** collection.
+ _expression_ A variable that represents an **EventList** collection.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Integer**|The index number of the object in its collection.|
+| _Index_|Required| **Integer**|The index number of the object in its collection.|
 
 ### Return Value
 

@@ -6,9 +6,9 @@ Determines whether the screen is updated (redrawn) during a series of actions. R
 
 ## Syntax
 
- _expression_. **ScreenUpdating**
+ _expression_ . **ScreenUpdating**
 
- _expression_A variable that represents an  **InvisibleApp** object.
+ _expression_ A variable that represents an **InvisibleApp** object.
 
 
 ### Return Value
@@ -33,7 +33,7 @@ If a program neglects to turn screen updating on after turning it off, the Visio
 This Microsoft Visual Basic code snippet shows how to use the  **ScreenUpdating** property.
 
 
-```vb
+```
 'Turn off screen updating to improve performance during 
 'the series of actions that follow. 
  Visio.Application.ScreenUpdating = False 

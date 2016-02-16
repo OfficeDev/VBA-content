@@ -6,9 +6,9 @@ Gets the ordinal position of a  **Master** object in the **Masters** collection.
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_ . **Index**
 
- _expression_A variable that represents a  **Master** object.
+ _expression_ A variable that represents a **Master** object.
 
 
 ### Return Value

@@ -6,9 +6,9 @@ Represents the language ID of the Help in the version of the Microsoft Visio ins
 
 ## Syntax
 
- _expression_. **LanguageHelp**
+ _expression_ . **LanguageHelp**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Return Value

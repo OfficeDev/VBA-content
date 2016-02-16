@@ -9,9 +9,9 @@ Gets the IDs of the shape-data-item (custom property) rows in the Shape Data sec
 
 ## Syntax
 
- _expression_. **GetCustomPropertiesLinkedToData**( **_DataRecordsetID_**,  **_CustomPropertyIndices()_**)
+ _expression_ . **GetCustomPropertiesLinkedToData**( **_DataRecordsetID_** , **_CustomPropertyIndices()_** )
 
- _expression_An expression that returns a  **Shape** object.
+ _expression_ An expression that returns a **Shape** object.
 
 
 ### Parameters
@@ -20,8 +20,8 @@ Gets the IDs of the shape-data-item (custom property) rows in the Shape Data sec
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|DataRecordsetID|Required| **Long**|The ID of the data recordset that contains the data the shape is linked to.|
-|CustomPropertyIndices()|Required| **Long**|Out parameter. An empty, dimensionless array that the method fills with the row IDs of the shape-data-item (custom property) rows in the shape's ShapeSheet that are linked to data columns in the data recordset.|
+| _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data the shape is linked to.|
+| _CustomPropertyIndices()_|Required| **Long**|Out parameter. An empty, dimensionless array that the method fills with the row IDs of the shape-data-item (custom property) rows in the shape's ShapeSheet that are linked to data columns in the data recordset.|
 
 ### Return Value
 
@@ -45,7 +45,7 @@ Before running this macro, add at least one data recordset to the  **[DataRecord
 
 
 
-```vb
+```
 Public Sub GetCustomPropertiesLinkedToData_Example() 
  
     Dim vsoDataRecordset As Visio.DataRecordset 

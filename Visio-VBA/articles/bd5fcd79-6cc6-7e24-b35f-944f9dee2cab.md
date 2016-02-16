@@ -6,9 +6,9 @@ Deletes the  **[ValidationRuleSet](cd2fc58a-5d7c-cf31-7aab-41bdeee9f105.md)** ob
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_ . **Delete**
 
- _expression_A variable that represents a  **ValidationRuleSet** object.
+ _expression_ A variable that represents a **ValidationRuleSet** object.
 
 
 ### Return Value
@@ -23,14 +23,14 @@ Calling the  **Delete** method also deletes all **[ValidationRule](c9efb9b4-10b0
 
 ## Example
 
-The following sample code is based on code provided by:  [David Parker](http://www.bvisual.net)
+The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
 
 The following Visual Basic for Applications (VBA) example shows how to use the  **Delete** method to delete a validation rule set named "Fault Tree Analysis" from the active document.
 
 
 
 
-```vb
+```
 ' Delete a rule set from the active document.
 Public Sub Delete_Example()
 

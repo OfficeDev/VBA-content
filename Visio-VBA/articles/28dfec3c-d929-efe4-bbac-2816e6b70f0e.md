@@ -6,9 +6,9 @@ Returns e-mail routing data for a document. Read-only.
 
 ## Syntax
 
- _expression_. **EmailRoutingData**
+ _expression_ . **EmailRoutingData**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a **Document** object.
 
 
 ### Return Value

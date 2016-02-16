@@ -6,9 +6,9 @@ Returns the start of a  **Curve** object's parameter domain. Read-only.
 
 ## Syntax
 
- _expression_. **Start**
+ _expression_ . **Start**
 
- _expression_A variable that represents a  **Curve** object.
+ _expression_ A variable that represents a **Curve** object.
 
 
 ### Return Value
@@ -26,7 +26,7 @@ The  **Start** property of a **Curve** object returns the value of the starting 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Start** property to display the value of the starting point of a curve. It uses the **Point** method to find the midpoint of the curve.
 
 
-```vb
+```
  
 Sub Start_Example() 
  

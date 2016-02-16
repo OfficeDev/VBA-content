@@ -6,7 +6,7 @@
 
 ## Remarks
 
-The default property of a  **Connects** collection is **Item**.
+The default property of a  **Connects** collection is **Item** .
 
 Use the  **Connects** property of a **Shape** object to retrieve a **Connects** collection with a **Connect** object for every **Shape** object to which the indicated **Shape** object is connected (glued).
 

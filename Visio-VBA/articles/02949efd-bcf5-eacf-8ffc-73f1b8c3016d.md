@@ -1,7 +1,7 @@
 
 # VisMasterTypes Enumeration (Visio)
 
-Master-type constants passed to the  ** [Masters.AddEx](a27b1a7c-37f4-90c9-91f1-2249611a3cf9.md)** method.
+Master-type constants passed to the  **[Masters.AddEx](a27b1a7c-37f4-90c9-91f1-2249611a3cf9.md)** method.
 
 
 

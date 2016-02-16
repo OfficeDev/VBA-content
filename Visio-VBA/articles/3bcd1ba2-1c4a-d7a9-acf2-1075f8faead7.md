@@ -1,7 +1,7 @@
 
 # VisTypeSelectionTypes Enumeration (Visio)
 
-Values passed to the Data argument of the **CreateSelection** method when theSelType argument is **visSelTypeByType**.
+Values passed to the  _Data_ argument of the **CreateSelection** method when the _SelType_ argument is **visSelTypeByType** .
 
 
 

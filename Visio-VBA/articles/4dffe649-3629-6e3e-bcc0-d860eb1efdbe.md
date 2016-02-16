@@ -6,9 +6,9 @@ Returns the number of Geometry sections for a shape. Read-only.
 
 ## Syntax
 
- _expression_. **GeometryCount**
+ _expression_ . **GeometryCount**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ To run this macro, first insert into your project a user form that contains a li
 
 
 
-```vb
+```
 Public Sub GeometryCount_Example() 
  Dim vsoShape As Visio.Shape 
  Dim intCurrentGeometrySection As Integer 
