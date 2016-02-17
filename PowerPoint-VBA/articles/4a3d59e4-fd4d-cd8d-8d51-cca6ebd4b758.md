@@ -6,9 +6,9 @@ Returns the key length of the algorithm Microsoft PowerPoint uses when it encryp
 
 ## Syntax
 
- _expression_. **PasswordEncryptionKeyLength**
+ _expression_ . **PasswordEncryptionKeyLength**
 
- _expression_A variable that represents a  **Presentation** object.
+ _expression_ A variable that represents a **Presentation** object.
 
 
 ### Return Value
@@ -26,7 +26,7 @@ Use the  **[SetPasswordEncryptionOptions](03c07952-784b-eba6-af71-57d3d1414f81.m
 This example sets the password encryption options if the password encryption key length is less than 40.
 
 
-```vb
+```
 Sub PasswordSettings() 
     With ActivePresentation 
         If .PasswordEncryptionKeyLength < 40 Then 
@@ -51,8 +51,8 @@ End Sub
 #### Concepts
 
 
- [Presentation Object](ec75cf52-69f8-d35b-0a26-4a8da8a9683f.md)
+[Presentation Object](ec75cf52-69f8-d35b-0a26-4a8da8a9683f.md)
 #### Other resources
 
 
- [Presentation Object Members](b3538c7e-5fd9-d34d-ab5c-0105dbd516d0.md)
+[Presentation Object Members](b3538c7e-5fd9-d34d-ab5c-0105dbd516d0.md)

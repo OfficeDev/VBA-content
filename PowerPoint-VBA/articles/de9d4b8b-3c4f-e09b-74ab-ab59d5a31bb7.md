@@ -6,9 +6,9 @@ Returns a  **[CellRange](f0914f0d-74f5-9c16-3744-efcf5c2cc36d.md)** collection t
 
 ## Syntax
 
- _expression_. **Cells**
+ _expression_ . **Cells**
 
- _expression_A variable that represents a  **Column** object.
+ _expression_ A variable that represents a **Column** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ CellRange
 This example creates a new presentation, adds a slide, inserts a 3x3 table on the slide, and assigns the column and row number to each cell in the table.
 
 
-```vb
+```
 Dim i As Integer
 
 Dim j As Integer
@@ -54,8 +54,8 @@ End With
 #### Concepts
 
 
- [Column Object](4f289477-abab-a99a-21af-df3950b6654d.md)
+[Column Object](4f289477-abab-a99a-21af-df3950b6654d.md)
 #### Other resources
 
 
- [Column Object Members](cd6aa0cd-0a85-ee0b-c4fc-77651caa381e.md)
+[Column Object Members](cd6aa0cd-0a85-ee0b-c4fc-77651caa381e.md)

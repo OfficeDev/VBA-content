@@ -6,9 +6,9 @@ Returns or sets the style of the arrowhead at the beginning of the specified lin
 
 ## Syntax
 
- _expression_. **BeginArrowheadStyle**
+ _expression_ . **BeginArrowheadStyle**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_ A variable that represents a **LineFormat** object.
 
 
 ### Return Value
@@ -35,7 +35,7 @@ The value of the  **BeginArrowheadStyle** property can be one of these **MsoArro
 This example adds a line to  `myDocument`. There's a short, narrow oval on the line's starting point and a long, wide triangle on its endpoint.
 
 
-```vb
+```
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes.AddLine(100, 100, 200, 300).Line
@@ -62,8 +62,8 @@ End With
 #### Concepts
 
 
- [LineFormat Object](11c955d5-bbda-d99f-cec9-fc6187450a12.md)
+[LineFormat Object](11c955d5-bbda-d99f-cec9-fc6187450a12.md)
 #### Other resources
 
 
- [LineFormat Object Members](71884432-fcec-8163-ff00-0854d9ae0bb8.md)
+[LineFormat Object Members](71884432-fcec-8163-ff00-0854d9ae0bb8.md)

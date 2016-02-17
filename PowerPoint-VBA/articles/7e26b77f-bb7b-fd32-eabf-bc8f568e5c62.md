@@ -6,9 +6,9 @@ Switches to the specified custom, or named, slide show during another slide show
 
 ## Syntax
 
- _expression_. **GotoNamedShow**( **_SlideShowName_**)
+ _expression_ . **GotoNamedShow**( **_SlideShowName_** )
 
- _expression_A variable that represents a  **SlideShowView** object.
+ _expression_ A variable that represents a **SlideShowView** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Switches to the specified custom, or named, slide show during another slide show
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|SlideShowName|Required| **String**|The name of the custom slide show to be switched to.|
+| _SlideShowName_|Required| **String**|The name of the custom slide show to be switched to.|
 
 ## Example
 
@@ -35,8 +35,8 @@ SlideShowWindows(1).View.GotoNamedShow "Quick Show"
 #### Concepts
 
 
- [SlideShowView Object](403b30ef-b12f-3a3c-e8d8-19189fd762fe.md)
+[SlideShowView Object](403b30ef-b12f-3a3c-e8d8-19189fd762fe.md)
 #### Other resources
 
 
- [SlideShowView Object Members](fe2aacef-7324-4d07-55e9-0dffcdbb2a6c.md)
+[SlideShowView Object Members](fe2aacef-7324-4d07-55e9-0dffcdbb2a6c.md)

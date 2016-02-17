@@ -25,7 +25,7 @@ The text of a legend entry cannot be changed.  **LegendEntry** objects support f
 
 There is no direct way to return the series or trendline that corresponds to the legend entry.
 
-After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](084f7de3-b0ed-d7b3-3b24-465e74afa167.md)** property for the chart to **False** and then back to **True**.
+After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](084f7de3-b0ed-d7b3-3b24-465e74afa167.md)** property for the chart to **False** and then back to **True** .
 
 
 ## Example
@@ -35,14 +35,14 @@ After legend entries have been deleted, the only way to restore them is to remov
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  ** [LegendEntries](a6110ddf-76dd-efc9-c6ce-abb260f9534c.md)**( _index_), where  _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](a6110ddf-76dd-efc9-c6ce-abb260f9534c.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document.
 
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -58,11 +58,8 @@ End With
 ## See also
 
 
-#### Concepts
-
-
- [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
 #### Other resources
 
 
- [LegendEntry Object Members](408ad572-e777-f74a-4ab9-d70b43901c7e.md)
+[PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
+[LegendEntry Object Members](408ad572-e777-f74a-4ab9-d70b43901c7e.md)

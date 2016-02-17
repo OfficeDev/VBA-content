@@ -6,9 +6,9 @@ Returns all the categories in the chart group, or the specified category, whethe
 
 ## Syntax
 
- _expression_. **FullCategoryCollection**(Index)
+ _expression_ . **FullCategoryCollection**_(Index)_
 
- _expression_A variable that represents a  **ChartGroup** object.
+ _expression_ A variable that represents a **ChartGroup** object.
 
 
 ### Parameters
@@ -17,9 +17,8 @@ Returns all the categories in the chart group, or the specified category, whethe
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Variant**|The index number in the full category collection of the category to return.|
-|Index|Optional|VARIANT||
-|Name|Required/Optional|Data type|Description|
+| _Index_|Optional| **Variant**|The index number in the full category collection of the category to return.|
+| _Index_|Optional|VARIANT||
 
 ### Return value
 

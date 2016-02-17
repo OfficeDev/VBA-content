@@ -6,9 +6,9 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
 
 ## Syntax
 
- _expression_. **Paste**( **_Index_**)
+ _expression_ . **Paste**( **_Index_** )
 
- _expression_A variable that represents a  **CustomLayouts** object.
+ _expression_ A variable that represents a **CustomLayouts** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Long**|The index number of the custom layout before which the new custom layout is pasted. If this argument is omitted, the new custom layout is pasted at the end of the  **CustomLayouts** collection.|
+| _Index_|Optional| **Long**|The index number of the custom layout before which the new custom layout is pasted. If this argument is omitted, the new custom layout is pasted at the end of the  **CustomLayouts** collection.|
 
 ### Return Value
 
@@ -30,8 +30,8 @@ CustomLayout
 #### Concepts
 
 
- [CustomLayouts Object](9ce682fb-545c-55cb-e9ac-3475f7556af1.md)
+[CustomLayouts Object](9ce682fb-545c-55cb-e9ac-3475f7556af1.md)
 #### Other resources
 
 
- [CustomLayouts Object Members](c7496788-84ba-be9a-9c39-3fbbe36186b2.md)
+[CustomLayouts Object Members](c7496788-84ba-be9a-9c39-3fbbe36186b2.md)

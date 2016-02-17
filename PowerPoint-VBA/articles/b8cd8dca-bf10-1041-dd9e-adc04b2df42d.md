@@ -6,9 +6,9 @@ Returns a  **[TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object that 
 
 ## Syntax
 
- _expression_. **Words**( **_Start_**,  **_Length_**)
+ _expression_ . **Words**( **_Start_** , **_Length_** )
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -17,8 +17,8 @@ Returns a  **[TextRange](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)** object that 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Start|Optional| **Long**|The first word in the returned range.|
-|Length|Optional| **Long**|The number of words to be returned.|
+| _Start_|Optional| **Long**|The first word in the returned range.|
+| _Length_|Optional| **Long**|The number of words to be returned.|
 
 ### Return Value
 
@@ -45,7 +45,7 @@ If Length is greater than the number of words from the specified starting word t
 This example formats as bold the second, third, and fourth words in the first paragraph in shape two on slide one in the active presentation.
 
 
-```vb
+```
 Application.ActivePresentation.Slides(1).Shapes(2) _
 
     .TextFrame.TextRange.Paragraphs(1).Words(2, 3).Font _
@@ -62,8 +62,8 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 #### Concepts
 
 
- [TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
+[TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
 #### Other resources
 
 
- [TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)
+[TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)

@@ -6,9 +6,9 @@ Returns a  **String** that represents the path to the specified **[AddIn](e98b60
 
 ## Syntax
 
- _expression_. **Path**
+ _expression_ . **Path**
 
- _expression_A variable that represents an  **AddIn** object.
+ _expression_ A variable that represents an **AddIn** object.
 
 
 ### Return Value
@@ -27,8 +27,8 @@ The path doesn't include the final backslash (\) or the name of the specified ob
 #### Concepts
 
 
- [AddIn Object](e98b609e-97ef-b471-f047-b647bff1e9af.md)
+[AddIn Object](e98b609e-97ef-b471-f047-b647bff1e9af.md)
 #### Other resources
 
 
- [AddIn Object Members](7bc32318-9bd6-8167-4d61-d6bfeae55028.md)
+[AddIn Object Members](7bc32318-9bd6-8167-4d61-d6bfeae55028.md)

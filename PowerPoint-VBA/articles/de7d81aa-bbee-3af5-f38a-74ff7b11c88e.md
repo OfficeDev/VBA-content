@@ -1,14 +1,14 @@
 
 # Point.Explosion Property (PowerPoint)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long**.
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long** .
 
 
 ## Syntax
 
- _expression_. **Explosion**
+ _expression_ . **Explosion**
 
- _expression_A variable that represents a  **[Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
+ _expression_ A variable that represents a **[Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ The following example sets the explosion value for point two of the first chart 
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -47,8 +47,8 @@ End With
 #### Concepts
 
 
- [Point Object](e0137fdd-5632-88d7-a6c0-57a76717e736.md)
+[Point Object](e0137fdd-5632-88d7-a6c0-57a76717e736.md)
 #### Other resources
 
 
- [Point Object Members](ddf0303f-d97f-91fd-12b5-e569a7899ebd.md)
+[Point Object Members](ddf0303f-d97f-91fd-12b5-e569a7899ebd.md)

@@ -6,9 +6,9 @@ Returns or sets the number of the last slide in a range of slides you are publis
 
 ## Syntax
 
- _expression_. **RangeEnd**
+ _expression_ . **RangeEnd**
 
- _expression_A variable that represents a  **PublishObject** object.
+ _expression_ A variable that represents a **PublishObject** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ Integer
 This example publishes slides three through five of the active presentation to HTML. It names the published presentation Mallard.htm.
 
 
-```vb
+```
 With ActivePresentation.PublishObjects(1)
 
     .FileName = "C:\Test\Mallard.htm"
@@ -44,8 +44,8 @@ End With
 #### Concepts
 
 
- [PublishObject Object](9419bec4-d2a6-6a2c-6400-4e2e270ff603.md)
+[PublishObject Object](9419bec4-d2a6-6a2c-6400-4e2e270ff603.md)
 #### Other resources
 
 
- [PublishObject Object Members](a5cd1fb8-f916-ee2c-6114-165f2e5c3c23.md)
+[PublishObject Object Members](a5cd1fb8-f916-ee2c-6114-165f2e5c3c23.md)

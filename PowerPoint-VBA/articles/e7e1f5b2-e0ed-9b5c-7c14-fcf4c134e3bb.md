@@ -6,9 +6,9 @@ Returns or sets the hanging punctuation option if you have an Asian language set
 
 ## Syntax
 
- _expression_. **HangingPunctuation**
+ _expression_ . **HangingPunctuation**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -43,8 +43,8 @@ ActivePresentation.Paragraphs(1).HangingPunctuation = msoTrue
 #### Concepts
 
 
- [ParagraphFormat Object](15d495cf-16e2-5cfb-e99c-a551876e3a8a.md)
+[ParagraphFormat Object](15d495cf-16e2-5cfb-e99c-a551876e3a8a.md)
 #### Other resources
 
 
- [ParagraphFormat Object Members](c269be7c-ad65-672d-bcac-2a4913346d3e.md)
+[ParagraphFormat Object Members](c269be7c-ad65-672d-bcac-2a4913346d3e.md)

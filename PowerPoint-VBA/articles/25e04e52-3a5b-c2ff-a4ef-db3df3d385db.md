@@ -6,9 +6,9 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
 ## Syntax
 
- _expression_. **Creator**
+ _expression_ . **Creator**
 
- _expression_A variable that represents a  **ShapeNode** object.
+ _expression_ A variable that represents a **ShapeNode** object.
 
 
 ### Return Value
@@ -47,8 +47,8 @@ End If
 #### Concepts
 
 
- [ShapeNode Object](031edfef-4eae-39b2-0c73-90d2065741aa.md)
+[ShapeNode Object](031edfef-4eae-39b2-0c73-90d2065741aa.md)
 #### Other resources
 
 
- [ShapeNode Object Members](b9840b71-bba6-e7b0-c4c4-943bd306d9bd.md)
+[ShapeNode Object Members](b9840b71-bba6-e7b0-c4c4-943bd306d9bd.md)

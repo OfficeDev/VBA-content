@@ -6,9 +6,9 @@ Specifies that the shape's fill should match the slide background. If you change
 
 ## Syntax
 
- _expression_. **Background**
+ _expression_ . **Background**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a **FillFormat** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ This example sets the background for slide one in the active presentation to a p
 
 
 
-```vb
+```
 With ActivePresentation.Slides(1)
 
     .FollowMasterBackground = False
@@ -69,8 +69,8 @@ End With
 #### Concepts
 
 
- [FillFormat Object](5bd4e2cb-4466-b468-d494-bec30ed5c9d8.md)
+[FillFormat Object](5bd4e2cb-4466-b468-d494-bec30ed5c9d8.md)
 #### Other resources
 
 
- [FillFormat Object Members](ccd26632-4ff8-6fad-2c5d-c26078eeff3b.md)
+[FillFormat Object Members](ccd26632-4ff8-6fad-2c5d-c26078eeff3b.md)

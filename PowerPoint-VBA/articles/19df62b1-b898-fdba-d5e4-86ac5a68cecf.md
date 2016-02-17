@@ -6,9 +6,9 @@ Sets or returns the time at a given animation point. Read/write.
 
 ## Syntax
 
- _expression_. **Time**
+ _expression_ . **Time**
 
- _expression_A variable that represents a  **SlideShowTransition** object.
+ _expression_ A variable that represents a **SlideShowTransition** object.
 
 
 ### Return Value
@@ -26,7 +26,7 @@ The value of the  **Time** property can be any floating-point value between 0 an
 This example inserts three fill color animation points in the main sequence animation timeline on the first slide.
 
 
-```vb
+```
 Sub BuildTimeLine()
 
 
@@ -91,8 +91,8 @@ End Sub
 #### Concepts
 
 
- [AnimationPoint Object](79aa1a47-abab-f98f-955a-48be10a94c41.md)
+[AnimationPoint Object](79aa1a47-abab-f98f-955a-48be10a94c41.md)
 #### Other resources
 
 
- [AnimationPoint Object Members](26acf251-6c44-f370-f7ac-48057352cec6.md)
+[AnimationPoint Object Members](26acf251-6c44-f370-f7ac-48057352cec6.md)

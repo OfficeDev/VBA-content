@@ -6,9 +6,9 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
 ## Syntax
 
- _expression_. **Ruler**
+ _expression_ . **Ruler**
 
- _expression_An expression that returns a  **TextFrame2** object.
+ _expression_ An expression that returns a **TextFrame2** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ Ruler2
 This example shows how to set a left-aligned tab stop at 2 inches (144 points) for the text in shape one on slide one in the active presentation.
 
 
-```vb
+```
 Public Sub Ruler_Example() 
  
     Dim pptSlide As Slide 
@@ -38,8 +38,8 @@ End Sub
 #### Concepts
 
 
- [TextFrame2 Object](ae017598-8330-4673-db1a-53b284acb709.md)
+[TextFrame2 Object](ae017598-8330-4673-db1a-53b284acb709.md)
 #### Other resources
 
 
- [TextFrame2 Object Members](bce672a4-b108-b223-7e65-71f07d7f4197.md)
+[TextFrame2 Object Members](bce672a4-b108-b223-7e65-71f07d7f4197.md)

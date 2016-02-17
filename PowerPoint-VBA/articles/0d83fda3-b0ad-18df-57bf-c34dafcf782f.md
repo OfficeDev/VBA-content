@@ -6,9 +6,9 @@ Occurs when the application window or any document window is activated.
 
 ## Syntax
 
- _expression_. **WindowActivate**( **_Pres_**,  **_Wn_**)
+ _expression_ . **WindowActivate**( **_Pres_** , **_Wn_** )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -17,12 +17,12 @@ Occurs when the application window or any document window is activated.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Pres|Required| **Presentation**|The presentation displayed in the activated window.|
-|Wn|Required| **DocumentWindow**|The activated document window.|
+| _Pres_|Required| **Presentation**|The presentation displayed in the activated window.|
+| _Wn_|Required| **DocumentWindow**|The activated document window.|
 
 ## Remarks
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](b657ab62-67fa-4eeb-736c-86e31a026c73.md).
+For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](http://msdn.microsoft.com/library/b657ab62-67fa-4eeb-736c-86e31a026c73%28Office.15%29.aspx).
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
@@ -37,7 +37,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 This example opens every activated presentation in slide sorter view.
 
 
-```vb
+```
 Private Sub App_WindowActivate (ByVal Pres As Presentation, ByVal Wn As DocumentWindow) 
     Wn.ViewType = ppViewSlideSorter 
 End Sub 
@@ -51,8 +51,8 @@ End Sub
 #### Concepts
 
 
- [Application Object](978c2b99-4271-b953-4283-73b5f3d96f41.md)
+[Application Object](978c2b99-4271-b953-4283-73b5f3d96f41.md)
 #### Other resources
 
 
- [Application Object Members](7a9042da-ef77-ebba-c872-f736bf486674.md)
+[Application Object Members](7a9042da-ef77-ebba-c872-f736bf486674.md)

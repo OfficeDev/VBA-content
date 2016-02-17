@@ -6,9 +6,9 @@ Returns the parent object of the specified  **[CustomerData](1d658369-ea6c-6959-
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_An expression that returns a  **CustomerData** object.
+ _expression_ An expression that returns a **CustomerData** object.
 
 
 ### Return Value
@@ -22,8 +22,8 @@ Object
 #### Concepts
 
 
- [CustomerData Collection](1d658369-ea6c-6959-cd00-230dc111f765.md)
+[CustomerData Collection](1d658369-ea6c-6959-cd00-230dc111f765.md)
 #### Other resources
 
 
- [CustomerData Object Members](0ce12adb-89fe-3fbc-2b3f-0cc373c6deae.md)
+[CustomerData Object Members](0ce12adb-89fe-3fbc-2b3f-0cc373c6deae.md)

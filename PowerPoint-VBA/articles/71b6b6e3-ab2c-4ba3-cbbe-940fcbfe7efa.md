@@ -1,14 +1,14 @@
 
 # Chart.HeightPercent Property (PowerPoint)
 
-Returns or sets the height of a 3-D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long**.
+Returns or sets the height of a 3-D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long** .
 
 
 ## Syntax
 
- _expression_. **HeightPercent**
+ _expression_ . **HeightPercent**
 
- _expression_A variable that represents a  **[Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
+ _expression_ A variable that represents a **[Chart](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)** object.
 
 
 ## Example
@@ -23,7 +23,7 @@ The following example sets the height of the first chart in the active document 
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -42,8 +42,8 @@ End With
 #### Concepts
 
 
- [Chart Object](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)
+[Chart Object](3fcf082f-9f58-f67d-1061-e7f37e30fbcd.md)
 #### Other resources
 
 
- [Chart Object Members](de1c852d-e599-3e66-1365-dde3e1eb4c28.md)
+[Chart Object Members](de1c852d-e599-3e66-1365-dde3e1eb4c28.md)

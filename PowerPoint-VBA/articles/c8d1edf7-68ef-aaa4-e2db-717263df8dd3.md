@@ -6,14 +6,14 @@ Copies the specified object to the Clipboard.
 
 ## Syntax
 
- _expression_. **Copy**
+ _expression_ . **Copy**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a **TextRange** object.
 
 
 ## Remarks
 
-Use the  **Paste**method to paste the contents of the Clipboard.
+Use the  **Paste** method to paste the contents of the Clipboard.
 
 
 ## Example
@@ -32,8 +32,8 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Copy
 #### Concepts
 
 
- [TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
+[TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
 #### Other resources
 
 
- [TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)
+[TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)

@@ -13,19 +13,19 @@ Create tags when you want to be able to selectively work with specific members o
 
 ## Example
 
-Use the  [Add](4bb8a24a-0968-3968-e460-4f5b85b04eb9.md)method to add a tag to an object. The following example adds a tag with the name "Region" and with the value "East" to slide one in the active presentation.
+Use the [Add](4bb8a24a-0968-3968-e460-4f5b85b04eb9.md)method to add a tag to an object. The following example adds a tag with the name "Region" and with the value "East" to slide one in the active presentation.
 
 
 ```
 ActivePresentation.Slides(1).Tags.Add "Region", "East"
 ```
 
-Use  **Tags**(index), where index is the name of a tag, to return a the tag value. The following example tests the value of the Region tag for all slides in the active presentation and hides any slides that don't pertain to the East Coast (denoted by the value "East").
+Use  **Tags** (index), where index is the name of a tag, to return a the tag value. The following example tests the value of the Region tag for all slides in the active presentation and hides any slides that don't pertain to the East Coast (denoted by the value "East").
 
 
 
 
-```vb
+```
 For Each s In ActivePresentation.Slides
 
     If s.Tags("region") <> "east" Then
@@ -41,11 +41,8 @@ Next
 ## See also
 
 
-#### Concepts
-
-
- [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
 #### Other resources
 
 
- [Tags Object Members](84cbae4b-cc7a-7d0f-7eb7-f4c3f5d63991.md)
+[PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
+[Tags Object Members](84cbae4b-cc7a-7d0f-7eb7-f4c3f5d63991.md)

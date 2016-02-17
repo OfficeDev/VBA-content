@@ -6,9 +6,9 @@ Sets or returns a  **ColorFormat** object that represents the RGB color value of
 
 ## Syntax
 
- _expression_. **To**
+ _expression_ . **To**
 
- _expression_A variable that represents a  **ColorEffect** object.
+ _expression_ A variable that represents a **ColorEffect** object.
 
 
 ### Return Value
@@ -20,7 +20,7 @@ ColorFormat
 
 Use this property in conjunction with the  **From** property to transition from one color to another.
 
-Do not confuse this property with the  **ToX**or  **ToY**properties of the  **[ScaleEffect](cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f.md)** and  **[MotionEffect](77a34f68-8806-22b8-149f-c28e0457e7e9.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](cb7c296e-a9ea-4ed6-87e0-a5d603da4f9f.md)** and **[MotionEffect](77a34f68-8806-22b8-149f-c28e0457e7e9.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example
@@ -28,7 +28,7 @@ Do not confuse this property with the  **ToX**or  **ToY**properties of the  **[S
 The following example adds a color effect and changes its color from a light bluish green to yellow.
 
 
-```vb
+```
 Sub AddAndChangeColorEffect()
 
     Dim effBlinds As Effect
@@ -77,8 +77,8 @@ End Sub
 #### Concepts
 
 
- [ColorEffect Object](c21ca9cd-3aaa-35f7-3d0e-89ca155322f2.md)
+[ColorEffect Object](c21ca9cd-3aaa-35f7-3d0e-89ca155322f2.md)
 #### Other resources
 
 
- [ColorEffect Object Members](7b7317c7-5504-52f5-2437-990acc1b702d.md)
+[ColorEffect Object Members](7b7317c7-5504-52f5-2437-990acc1b702d.md)

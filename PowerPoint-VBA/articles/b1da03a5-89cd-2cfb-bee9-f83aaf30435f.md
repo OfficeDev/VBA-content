@@ -6,9 +6,9 @@ Returns an individual chart category.
 
 ## Syntax
 
- _expression_. **Item**(Index)
+ _expression_ . **Item**_(Index)_
 
- _expression_A variable that represents a  **CategoryCollection** object.
+ _expression_ A variable that represents a **CategoryCollection** object.
 
 
 ### Parameters
@@ -17,9 +17,8 @@ Returns an individual chart category.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **VARIANT**|The name or index number for the object.|
-|Index|Required|VARIANT||
-|Name|Required/Optional|Data type|Description|
+| _Index_|Required| **VARIANT**|The name or index number for the object.|
+| _Index_|Required|VARIANT||
 
 ### Return value
 

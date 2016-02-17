@@ -6,9 +6,9 @@ Applies a design template and theme variant to the slide range.
 
 ## Syntax
 
- _expression_. **ApplyTemplate2**(FileName,Variant)
+ _expression_ . **ApplyTemplate2**_(FileName,_ _Variant)_
 
- _expression_A variable that represents a  **SlideRange** object.
+ _expression_ A variable that represents a **SlideRange** object.
 
 
 ### Parameters
@@ -17,12 +17,11 @@ Applies a design template and theme variant to the slide range.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|FileName|Required| **String**|Specifies the name of the design template.|
-|Variant|Required| **String**|Specifies the name of the variant to apply.|
-|FileName|Required|STRING||
-|Variant|Required|STRING||
-|Name|Required/Optional|Data type|Description|
-|VariantGUID|Required|STRING||
+| _FileName_|Required| **String**|Specifies the name of the design template.|
+| _Variant_|Required| **String**|Specifies the name of the variant to apply.|
+| _FileName_|Required|STRING||
+| _Variant_|Required|STRING||
+| _VariantGUID_|Required|STRING||
 
 ### Return value
 
@@ -34,7 +33,7 @@ Applies a design template and theme variant to the slide range.
 This example opens a theme file, gets the ID of the second variant in the theme, and applies it to the slides in the presentation.
 
 
-```vb
+```
 
 Sub ChangeThemeVariant()
 

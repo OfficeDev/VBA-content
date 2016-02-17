@@ -1,14 +1,14 @@
 
 # CellRange.Borders Property (PowerPoint)
 
-Returns a  **[Borders](af3b8d8b-9214-b1ac-f12e-0be244b60b08.md)** collection that represents the borders and diagonal lines for the specified  **Cell** object or **CellRange** collection. Read-only.
+Returns a  **[Borders](af3b8d8b-9214-b1ac-f12e-0be244b60b08.md)** collection that represents the borders and diagonal lines for the specified **Cell** object or **CellRange** collection. Read-only.
 
 
 ## Syntax
 
- _expression_. **Borders**
+ _expression_ . **Borders**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_ A variable that represents a **CellRange** object.
 
 
 ### Return Value
@@ -34,8 +34,8 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
 #### Concepts
 
 
- [CellRange Object](f0914f0d-74f5-9c16-3744-efcf5c2cc36d.md)
+[CellRange Object](f0914f0d-74f5-9c16-3744-efcf5c2cc36d.md)
 #### Other resources
 
 
- [CellRange Object Members](0bb9baac-569c-fde5-1142-b7f8458273c2.md)
+[CellRange Object Members](0bb9baac-569c-fde5-1142-b7f8458273c2.md)

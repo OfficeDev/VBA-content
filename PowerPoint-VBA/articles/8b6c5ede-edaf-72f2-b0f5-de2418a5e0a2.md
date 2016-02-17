@@ -6,9 +6,9 @@ Activates the specified object.
 
 ## Syntax
 
- _expression_. **Activate**
+ _expression_ . **Activate**
 
- _expression_A variable that represents a  **DocumentWindow** object.
+ _expression_ A variable that represents a **DocumentWindow** object.
 
 
 ## Example
@@ -27,5 +27,5 @@ Windows(2).Activate
 #### Concepts
 
 
- [DocumentWindow Object](567c5e66-8d68-a868-4072-b5358cf69546.md)
- [DocumentWindow Object Members](414ea08d-db8e-70da-0fab-7a92942d2348.md)
+[DocumentWindow Object](567c5e66-8d68-a868-4072-b5358cf69546.md)
+[DocumentWindow Object Members](414ea08d-db8e-70da-0fab-7a92942d2348.md)

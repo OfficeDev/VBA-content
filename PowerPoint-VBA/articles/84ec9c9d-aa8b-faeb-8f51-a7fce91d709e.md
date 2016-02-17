@@ -6,9 +6,9 @@ Returns or sets a  **String** that represents a formula to use for calculating a
 
 ## Syntax
 
- _expression_. **Formula**
+ _expression_ . **Formula**
 
- _expression_A variable that represents a  **AnimationPoint** object.
+ _expression_ A variable that represents a **AnimationPoint** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ String
 The following example adds a shape, and adds a three-second fill animation to that shape.
 
 
-```vb
+```
 Sub AddShapeSetAnimFill()
 
 
@@ -82,8 +82,8 @@ End Sub
 #### Concepts
 
 
- [AnimationPoint Object](79aa1a47-abab-f98f-955a-48be10a94c41.md)
+[AnimationPoint Object](79aa1a47-abab-f98f-955a-48be10a94c41.md)
 #### Other resources
 
 
- [AnimationPoint Object Members](26acf251-6c44-f370-f7ac-48057352cec6.md)
+[AnimationPoint Object Members](26acf251-6c44-f370-f7ac-48057352cec6.md)

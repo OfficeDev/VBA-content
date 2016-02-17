@@ -6,9 +6,9 @@ Displays the HTML document associated with the specified hyperlink in a new Web 
 
 ## Syntax
 
- _expression_. **Follow**
+ _expression_ . **Follow**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_ A variable that represents a **Hyperlink** object.
 
 
 ## Example
@@ -27,8 +27,8 @@ ActivePresentation.Slides(1).Hyperlinks(1).Follow
 #### Concepts
 
 
- [Hyperlink Object](c8d53079-b280-c93c-a3c9-b865d09abe1a.md)
+[Hyperlink Object](c8d53079-b280-c93c-a3c9-b865d09abe1a.md)
 #### Other resources
 
 
- [Hyperlink Object Members](3fe9e1b1-ab3e-575d-81d8-7e61fcc68214.md)
+[Hyperlink Object Members](3fe9e1b1-ab3e-575d-81d8-7e61fcc68214.md)

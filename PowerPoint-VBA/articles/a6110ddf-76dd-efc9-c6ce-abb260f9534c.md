@@ -6,9 +6,9 @@ Returns a collection of legend entries for the legend.
 
 ## Syntax
 
- _expression_. **LegendEntries**
+ _expression_ . **LegendEntries**
 
- _expression_A variable that represents a  **[Legend](7be25694-8694-049a-c31f-533fe6fd0562.md)** object.
+ _expression_ A variable that represents a **[Legend](7be25694-8694-049a-c31f-533fe6fd0562.md)** object.
 
 
 ### Return Value
@@ -28,7 +28,7 @@ The following example sets the font for legend entry one on the first chart in t
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -47,8 +47,8 @@ End With
 #### Concepts
 
 
- [Legend Object](7be25694-8694-049a-c31f-533fe6fd0562.md)
+[Legend Object](7be25694-8694-049a-c31f-533fe6fd0562.md)
 #### Other resources
 
 
- [Legend Object Members](138eddc7-3b48-bc0a-163b-3e6f7560ed97.md)
+[Legend Object Members](138eddc7-3b48-bc0a-163b-3e6f7560ed97.md)

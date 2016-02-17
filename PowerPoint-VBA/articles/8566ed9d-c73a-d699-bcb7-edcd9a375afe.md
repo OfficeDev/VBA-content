@@ -6,9 +6,9 @@ Returns a  **TextRange** object that represents the specified text minus any tra
 
 ## Syntax
 
- _expression_. **TrimText**
+ _expression_ . **TrimText**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a **TextRange** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ TextRange
 This example inserts the string " Text to trim " at the beginning of the text in shape two on slide one in the active presentation and then displays message boxes showing the string before and after it is trimmed.
 
 
-```vb
+```
 With Application.ActivePresentation.Slides(1).Shapes(2) _
 
         .TextFrame.TextRange
@@ -44,8 +44,8 @@ End With
 #### Concepts
 
 
- [TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
+[TextRange Object](7c234107-c423-7ec9-e8bd-a82cc3b345de.md)
 #### Other resources
 
 
- [TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)
+[TextRange Object Members](cb8dc5ff-34de-3d04-1d56-ed387daaf6b9.md)

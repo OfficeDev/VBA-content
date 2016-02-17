@@ -6,9 +6,9 @@ Returns an  **[Application](978c2b99-4271-b953-4283-73b5f3d96f41.md)** object th
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_ . **Application**
 
- _expression_A variable that represents a  **Presentations** object.
+ _expression_ A variable that represents a **Presentations** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ Application
 In this example, a  **[Presentation](ec75cf52-69f8-d35b-0a26-4a8da8a9683f.md)** object is passed to the procedure. The procedure adds a slide to the presentation and then saves the presentation in the folder where Microsoft PowerPoint is running.
 
 
-```vb
+```
 Sub AddAndSave(pptPres As Presentation)
 
     pptPres.Slides.Add 1, 1
@@ -36,7 +36,7 @@ This example displays the name of the application that created each linked OLE o
 
 
 
-```vb
+```
 For Each shpOle In ActivePresentation.Slides(1).Shapes
 
     If shpOle.Type = msoLinkedOLEObject Then
@@ -55,8 +55,8 @@ Next
 #### Concepts
 
 
- [Presentations Object](0b952edc-8628-71ef-e854-3bcefbb3bc61.md)
+[Presentations Object](0b952edc-8628-71ef-e854-3bcefbb3bc61.md)
 #### Other resources
 
 
- [Presentations Object Members](b113aad2-7236-40a6-8c21-8217feff0d6b.md)
+[Presentations Object Members](b113aad2-7236-40a6-8c21-8217feff0d6b.md)

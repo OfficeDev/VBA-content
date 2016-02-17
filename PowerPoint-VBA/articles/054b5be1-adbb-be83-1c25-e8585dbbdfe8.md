@@ -6,9 +6,9 @@ Creates a duplicate of the specified  **SlideRange** object, adds the new range 
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_ . **Duplicate**
 
- _expression_A variable that represents a  **SlideRange** object.
+ _expression_ A variable that represents a **SlideRange** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ SlideRange
 This example creates a duplicate of slide one in the active presentation and then sets the background shading and the title text of the new slide. The new slide will be slide two in the presentation.
 
 
-```vb
+```
 Set newSlide = ActivePresentation.Slides(1).Duplicate
 
 With newSlide
@@ -44,8 +44,8 @@ End With
 #### Concepts
 
 
- [SlideRange Object](440ab59d-744a-209f-bf28-d0acd3a21e1a.md)
+[SlideRange Object](440ab59d-744a-209f-bf28-d0acd3a21e1a.md)
 #### Other resources
 
 
- [SlideRange Object Members](f819c56d-96d5-836d-0d1f-49e505696f34.md)
+[SlideRange Object Members](f819c56d-96d5-836d-0d1f-49e505696f34.md)

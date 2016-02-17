@@ -6,9 +6,9 @@ Returns or sets the width of the contour around the specified  **ThreeDFormat** 
 
 ## Syntax
 
- _expression_. **ContourWidth**
+ _expression_ . **ContourWidth**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_ A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value
@@ -27,8 +27,8 @@ The maximum value of the  **ContourWidth** property is 144 points.
 #### Concepts
 
 
- [ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
+[ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
 #### Other resources
 
 
- [ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)
+[ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)

@@ -6,9 +6,9 @@ Returns a  **[ColorEffect](c21ca9cd-3aaa-35f7-3d0e-89ca155322f2.md)** object tha
 
 ## Syntax
 
- _expression_. **ColorEffect**
+ _expression_ . **ColorEffect**
 
- _expression_A variable that represents an  **AnimationBehavior** object.
+ _expression_ A variable that represents an **AnimationBehavior** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ ColorEffect
 This example adds a shape to the first slide of the active presentation and sets a color effect behavior to change the fill color of the new shape.
 
 
-```vb
+```
 Sub ChangeColorEffect()
 
     Dim sldFirst As Slide
@@ -68,8 +68,8 @@ End Sub
 #### Concepts
 
 
- [AnimationBehavior Object](70eeb4aa-b9ba-ff7d-93ee-425cf191a6cb.md)
+[AnimationBehavior Object](70eeb4aa-b9ba-ff7d-93ee-425cf191a6cb.md)
 #### Other resources
 
 
- [AnimationBehavior Object Members](bf4580a3-3ad4-6158-8c72-2dcf9ded4202.md)
+[AnimationBehavior Object Members](bf4580a3-3ad4-6158-8c72-2dcf9ded4202.md)

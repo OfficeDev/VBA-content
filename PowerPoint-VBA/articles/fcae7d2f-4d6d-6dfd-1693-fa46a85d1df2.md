@@ -6,9 +6,9 @@ Returns the preset extrusion format. Read-only.
 
 ## Syntax
 
- _expression_. **PresetThreeDFormat**
+ _expression_ . **PresetThreeDFormat**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_ A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value
@@ -22,7 +22,7 @@ This property is read-only. To set the preset extrusion format, use the  **[SetT
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3-D Rotation** submenu on the **Shape Effects** menu.
 
-The value of the  **PresetThreeDFormat** property can be one of these **MsoPresetThreeDFormat** constants. If the value is **msoPresetThreeDFormatMixed**, the extrusion has a custom format rather than a preset format.
+The value of the  **PresetThreeDFormat** property can be one of these **MsoPresetThreeDFormat** constants. If the value is **msoPresetThreeDFormatMixed** , the extrusion has a custom format rather than a preset format.
 
 
 
@@ -53,7 +53,7 @@ The value of the  **PresetThreeDFormat** property can be one of these **MsoPrese
 This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
-```vb
+```
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes(1).ThreeD
@@ -74,8 +74,8 @@ End With
 #### Concepts
 
 
- [ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
+[ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
 #### Other resources
 
 
- [ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)
+[ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)

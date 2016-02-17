@@ -6,9 +6,9 @@ Returns a  **[HeaderFooter](8aeafb02-adec-17c1-3108-565c78a64ed1.md)** object th
 
 ## Syntax
 
- _expression_. **SlideNumber**
+ _expression_ . **SlideNumber**
 
- _expression_A variable that represents a  **HeadersFooters** object.
+ _expression_ A variable that represents a **HeadersFooters** object.
 
 
 ### Return Value
@@ -21,7 +21,7 @@ HeaderFooter
 This example hides the slide number on slide two in the active presentation if the number is currently visible, or it displays the slide number if it is currently hidden.
 
 
-```vb
+```
 With Application.ActivePresentation.Slides(2) _
 
         .HeadersFooters.SlideNumber
@@ -46,8 +46,8 @@ End With
 #### Concepts
 
 
- [HeadersFooters Object](5fb10c90-0611-e797-836b-3f18b273af04.md)
+[HeadersFooters Object](5fb10c90-0611-e797-836b-3f18b273af04.md)
 #### Other resources
 
 
- [HeadersFooters Object Members](b5c50dee-2a19-45fa-0e2b-21620233b5ce.md)
+[HeadersFooters Object Members](b5c50dee-2a19-45fa-0e2b-21620233b5ce.md)

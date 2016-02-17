@@ -1,14 +1,14 @@
 
 # Point.SecondaryPlot Property (PowerPoint)
 
- **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
+ **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **SecondaryPlot**
+ _expression_ . **SecondaryPlot**
 
- _expression_A variable that represents a  **[Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
+ _expression_ A variable that represents a **[Point](e0137fdd-5632-88d7-a6c0-57a76717e736.md)** object.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ The following example moves point four to the secondary section of the chart. Yo
 
 
 
-```vb
+```
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -51,8 +51,8 @@ End With
 #### Concepts
 
 
- [Point Object](e0137fdd-5632-88d7-a6c0-57a76717e736.md)
+[Point Object](e0137fdd-5632-88d7-a6c0-57a76717e736.md)
 #### Other resources
 
 
- [Point Object Members](ddf0303f-d97f-91fd-12b5-e569a7899ebd.md)
+[Point Object Members](ddf0303f-d97f-91fd-12b5-e569a7899ebd.md)

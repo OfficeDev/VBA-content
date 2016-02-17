@@ -6,9 +6,9 @@ Returns or sets the visibility of the specified object or the formatting applied
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_ . **Visible**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -33,8 +33,8 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 #### Concepts
 
 
- [Shape Object](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)
+[Shape Object](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)
 #### Other resources
 
 
- [Shape Object Members](e371c375-c16a-33ef-32b7-6dcb99d3d128.md)
+[Shape Object Members](e371c375-c16a-33ef-32b7-6dcb99d3d128.md)

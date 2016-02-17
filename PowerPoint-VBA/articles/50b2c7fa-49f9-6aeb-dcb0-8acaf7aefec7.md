@@ -6,9 +6,9 @@
 
 ## Syntax
 
- _expression_. **HasText**
+ _expression_ . **HasText**
 
- _expression_An expression that returns a  **TextFrame2** object.
+ _expression_ An expression that returns a **TextFrame2** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ The value of the  **HasText** property can be one of the following **MsoTriState
 The followin example tests whether shape two on slide one contains text, and if it does, resizes the shape to fit the text.
 
 
-```vb
+```
 Public Sub HasText_Example()
 
 
@@ -59,8 +59,8 @@ End Sub
 #### Concepts
 
 
- [TextFrame2 Object](ae017598-8330-4673-db1a-53b284acb709.md)
+[TextFrame2 Object](ae017598-8330-4673-db1a-53b284acb709.md)
 #### Other resources
 
 
- [TextFrame2 Object Members](bce672a4-b108-b223-7e65-71f07d7f4197.md)
+[TextFrame2 Object Members](bce672a4-b108-b223-7e65-71f07d7f4197.md)
