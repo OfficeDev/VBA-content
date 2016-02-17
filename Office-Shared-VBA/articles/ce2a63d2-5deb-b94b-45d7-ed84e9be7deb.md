@@ -14,7 +14,7 @@ The  **ServerPolicy** object is composed of individual **PolicyItem** objects re
 The following example lists the name and description of all of the policy items for the active document.
 
 
-```vb
+```
 Sub ListPolicyItems() 
 Dim objSrvPolicy As ServerPolicy 
 Dim objPolicyItem As PolicyItem 

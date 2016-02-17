@@ -37,7 +37,7 @@ Invalidating a control repaints the screen and causes any callback procedures as
 ```
 
 
-```vb
+```
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 

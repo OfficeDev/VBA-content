@@ -30,7 +30,7 @@ Use the  **Connect** property to set or return the state of the connection to a 
 
 
 
-```vb
+```
 If Application.COMAddIns(1).Connect Then 
  MsgBox "The add-in is connected." 
 Else 

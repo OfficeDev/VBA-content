@@ -30,7 +30,7 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 Item is the default member of the object or collection. The following two statements both assign a CommandBar object to cmdBar.
 
 
-```vb
+```
 Set cmdBar = CommandBars.Item("Standard") 
 Set cmdBar = CommandBars("Standard")
 ```

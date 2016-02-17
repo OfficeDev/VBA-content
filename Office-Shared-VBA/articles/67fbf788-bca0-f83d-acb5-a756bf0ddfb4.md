@@ -38,7 +38,7 @@ The  **CreateNew** method raises an error if the active document has changes tha
 The following example creates a shared workspace site at the URL http://server/sites/mysite/, names the workspace "My Shared Budget Document", and adds the active document to the site. The  **URL** property of the new shared workspace site returns http://server/sites/mysite/My%20Shared%20Budget%20Document/, the **Name** property returns "My Shared Budget Document, and **Count** property of the **SharedWorkspaceFiles** collection shows a single file.
 
 
-```vb
+```
    Dim sws As Office.SharedWorkspace 
     Dim strSWSInfo As String 
     Set sws = ActiveWorkbook.SharedWorkspace 
