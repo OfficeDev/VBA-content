@@ -1,14 +1,14 @@
 
 # OptionGroup.HideDuplicates Property (Access)
 
-You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
+You can use the  **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean** .
 
 
 ## Syntax
 
- _expression_. **HideDuplicates**
+ _expression_ . **HideDuplicates**
 
- _expression_A variable that represents an  **OptionGroup** object.
+ _expression_ A variable that represents an **OptionGroup** object.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ You can use the  **HideDuplicates** property to create a grouped report by using
 The following example returns the  **HideDuplicates** property setting for the CategoryName text box and assigns the value to the `intCurVal` variable.
 
 
-```vb
+```
 Dim intCurVal As Integer 
 intCurVal = Me!CategoryName.HideDuplicates
 ```
@@ -47,8 +47,8 @@ intCurVal = Me!CategoryName.HideDuplicates
 #### Concepts
 
 
- [OptionGroup Object](aa9e5607-7892-9ab2-dabc-822372b23811.md)
+[OptionGroup Object](aa9e5607-7892-9ab2-dabc-822372b23811.md)
 #### Other resources
 
 
- [OptionGroup Object Members](90e68eb2-20f2-510c-4332-241eeac27f14.md)
+[OptionGroup Object Members](90e68eb2-20f2-510c-4332-241eeac27f14.md)

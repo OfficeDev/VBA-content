@@ -1,14 +1,14 @@
 
 # TextBox.CanShrink Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the section or control contains. Read/write  **Boolean** .
 
 
 ## Syntax
 
- _expression_. **CanShrink**
+ _expression_ . **CanShrink**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a **TextBox** object.
 
 
 ## Remarks
@@ -48,8 +48,8 @@ When you use the  **CanShrink** property, remember that:
 #### Concepts
 
 
- [TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
+[TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
 #### Other resources
 
 
- [TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)
+[TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)

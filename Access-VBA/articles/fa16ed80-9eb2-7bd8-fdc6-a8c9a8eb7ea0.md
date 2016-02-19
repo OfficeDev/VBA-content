@@ -6,9 +6,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_ . **Parent**
 
- _expression_A variable that represents an  **AllForms** object.
+ _expression_ A variable that represents an **AllForms** object.
 
 
 ## Remarks
@@ -31,8 +31,8 @@ For example, you might insert an OrderDetails subform into both a form and a rep
 #### Concepts
 
 
- [AllForms Collection](b90616b9-90fc-bb51-6bfa-b149dece0f1b.md)
+[AllForms Collection](b90616b9-90fc-bb51-6bfa-b149dece0f1b.md)
 #### Other resources
 
 
- [AllForms Object Members](a508646e-4478-fdfb-b1b5-177af651b73f.md)
+[AllForms Object Members](a508646e-4478-fdfb-b1b5-177af651b73f.md)

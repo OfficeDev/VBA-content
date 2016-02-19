@@ -6,9 +6,9 @@ Occurs when the user undoes a change.
 
 ## Syntax
 
- _expression_. **Undo**( **_Cancel_**, )
+ _expression_ . **Undo**( **_Cancel_** , )
 
- _expression_A variable that represents a  **NavigationControl** object.
+ _expression_ A variable that represents a **NavigationControl** object.
 
 
 ### Parameters
@@ -17,7 +17,7 @@ Occurs when the user undoes a change.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Integer**||
+| _Cancel_|Required| **Integer**||
 
 ### Return Value
 
@@ -34,7 +34,7 @@ The Undo event for controls occurs whenever the user returns a control to its or
 The following example demonstrates the syntax for a subroutine that traps the Undo event for a form.
 
 
-```vb
+```
 Private Sub Form_Undo(Cancel As Integer) 
  Dim intResponse As Integer 
  Dim strPrompt As String 
@@ -58,8 +58,8 @@ End Sub
 #### Concepts
 
 
- [NavigationControl Object](ab08e35c-e5e4-444c-d169-1092d282ed15.md)
+[NavigationControl Object](ab08e35c-e5e4-444c-d169-1092d282ed15.md)
 #### Other resources
 
 
- [NavigationControl Object Members](c972327e-9b46-f9fb-d69d-104d1d130ee4.md)
+[NavigationControl Object Members](c972327e-9b46-f9fb-d69d-104d1d130ee4.md)

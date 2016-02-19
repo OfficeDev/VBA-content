@@ -1,7 +1,7 @@
 
 # AcImportXMLOption Enumeration (Access)
 
-Specifies the action to take when using the  [ImportXML](c7baa4be-4ef6-c886-3cd6-06576563b77d.md) method to import data from an XML file.
+Specifies the action to take when using the [Application.ImportXML Method (Access)](c7baa4be-4ef6-c886-3cd6-06576563b77d.md) method to import data from an XML file.
 
 
 

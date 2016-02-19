@@ -6,14 +6,14 @@ Gets or sets an  **[AcHorizontalAnchor](2b9f0574-252d-7957-d25d-cb382d2cee73.md)
 
 ## Syntax
 
- _expression_. **HorizontalAnchor**
+ _expression_ . **HorizontalAnchor**
 
- _expression_A variable that represents a  **Control** object.
+ _expression_ A variable that represents a **Control** object.
 
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**. 
+The default value is  **acHorizontalAnchorLeft** .
 
 
 ## See also
@@ -22,8 +22,8 @@ The default value is  **acHorizontalAnchorLeft**.
 #### Concepts
 
 
- [Control Object](ce2362e5-4390-590e-06c0-6f27e8d988cd.md)
+[Control Object](ce2362e5-4390-590e-06c0-6f27e8d988cd.md)
 #### Other resources
 
 
- [Control Object Members](c6f2ed0f-f8e1-d56e-22a5-a365b64b7754.md)
+[Control Object Members](c6f2ed0f-f8e1-d56e-22a5-a365b64b7754.md)

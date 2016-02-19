@@ -33,3 +33,25 @@ If the  **On Click** box is blank, the property value is an empty string.
 
 The following example associates the  **Click** event with the "OK_Click" event procedure for the button named "OK" on the "Order Entry" form, if there is currently no association.
 
+
+```
+With Forms("Order Entry").Controls("OK") 
+ If .OnClick = "" Then 
+ .OnClick = "[Event Procedure]" 
+ End If 
+End With 
+
+```
+
+
+## See also
+
+
+#### Concepts
+
+
+[Page Object](6351b0ea-bd07-5ee6-ea20-0d410e09d939.md)
+#### Other resources
+
+
+[Page Object Members](8d4078db-389b-b9a6-00b1-7be0f1102808.md)

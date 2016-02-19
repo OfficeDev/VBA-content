@@ -6,9 +6,9 @@ The BeforeInsert event occurs when the user types the first character in a new r
 
 ## Syntax
 
- _expression_. **BeforeInsert**( **_Cancel_** )
+ _expression_ . **BeforeInsert**( **_Cancel_** )
 
- _expression_A variable that represents a  **Form** object.
+ _expression_ A variable that represents a **Form** object.
 
 
 ### Parameters
@@ -17,20 +17,20 @@ The BeforeInsert event occurs when the user types the first character in a new r
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Cancel|Required| **Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting theCancel argument to **True** (-1) cancels the **BeforeInsert** event.|
+| _Cancel_|Required| **Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeInsert** event.|
 
 ## Remarks
 
 
  **Note**  Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
 
-To run a macro or event procedure when these events occur, set the  **BeforeInsert** or **AfterInsert**property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the  **BeforeInsert** or **AfterInsert** property to the name of the macro or to [Event Procedure].
 
 You can use an AfterInsert event procedure or macro to requery a recordset whenever a new record is added.
 
-The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate**and  **AfterUpdate**events. These events occur in the following order:
+The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
 
- **BeforeInsert** → **BeforeUpdate** → **AfterUpdate** → **AfterInsert**.
+ **BeforeInsert** ? **BeforeUpdate** ? **AfterUpdate** ? **AfterInsert** .
 
 The following table summarizes the interaction between these events.
 
@@ -42,7 +42,7 @@ The following table summarizes the interaction between these events.
 |BeforeUpdate|User updates the record.|
 |AfterUpdate|Record is updated.|
 |AfterInsert|Record updated is a new record.|
-If the first character in a new record is typed into a text box or combo box, the  **BeforeInsert** event occurs before the **Change**event.
+If the first character in a new record is typed into a text box or combo box, the  **BeforeInsert** event occurs before the **Change** event.
 
 
 ## Example
@@ -54,7 +54,7 @@ To try the example, add the following event procedure to a form named Employees 
 
 
 
-```vb
+```
 Private Sub Form_BeforeInsert(Cancel As Integer) 
  If MsgBox("Insert new record here?", _ 
  vbOKCancel) = vbCancel Then 
@@ -74,8 +74,8 @@ End Sub
 #### Concepts
 
 
- [Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
+[Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
 #### Other resources
 
 
- [Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)
+[Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)

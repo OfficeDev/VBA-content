@@ -1,14 +1,14 @@
 
 # EmptyCell.BackTint Property (Access)
 
-Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single**.
+Gets or sets the tint that is applied to the theme color in the  **BackColor** property of the specified object. Read/write **Single** .
 
 
 ## Syntax
 
- _expression_. **BackTint**
+ _expression_ . **BackTint**
 
- _expression_A variable that represents an  **EmptyCell** object.
+ _expression_ A variable that represents an **EmptyCell** object.
 
 
 ## Remarks
@@ -34,8 +34,8 @@ Me.ctl.BackTint=25
 #### Concepts
 
 
- [EmptyCell Object](6174d31a-6c7c-8472-8a77-5487b8305837.md)
+[EmptyCell Object](6174d31a-6c7c-8472-8a77-5487b8305837.md)
 #### Other resources
 
 
- [EmptyCell Object Members](7a267dc1-a91b-98bf-7a48-4592bcd35610.md)
+[EmptyCell Object Members](7a267dc1-a91b-98bf-7a48-4592bcd35610.md)

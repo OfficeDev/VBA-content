@@ -1,14 +1,14 @@
 
 # ComboBox.BackThemeColorIndex Property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long** .
 
 
 ## Syntax
 
- _expression_. **BackThemeColorIndex**
+ _expression_ . **BackThemeColorIndex**
 
- _expression_A variable that represents a  **[ComboBox](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)** object.
+ _expression_ A variable that represents a **[ComboBox](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)** object.
 
 
 ## Remarks
@@ -52,8 +52,8 @@ Me.FormHeader.BackThemeColorIndex=2
 #### Concepts
 
 
- [ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
+[ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
 #### Other resources
 
 
- [ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)
+[ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)

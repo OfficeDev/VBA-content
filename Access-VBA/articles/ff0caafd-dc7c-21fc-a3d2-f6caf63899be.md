@@ -6,14 +6,14 @@ Returns a reference to a control's **[Properties](7e888aad-e783-dfc5-46df-9d92c8
 
 ## Syntax
 
- _expression_. **Properties**
+ _expression_ . **Properties**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a **ListBox** object.
 
 
 ## Remarks
 
-The  **Properties** collection object is the collection of all the properties related to a control. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 0 and the total number of member objects in the collection is the value of the **Properties** collection's **Count**property minus 1.
+The  **Properties** collection object is the collection of all the properties related to a control. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 0 and the total number of member objects in the collection is the value of the **Properties** collection's **Count** property minus 1.
 
 
 ## Example
@@ -21,7 +21,7 @@ The  **Properties** collection object is the collection of all the properties re
 The following procedure uses the  **Properties** property to print all the properties associated with the controls on a form to the Debug window. To run this code, place a command button named cmdListProperties on a form and paste the following code into the form's Declarations section. Click the command button to print the list of properties in the Debug window.
 
 
-```vb
+```
 Private Sub cmdListProperties_Click() 
  ListControlProps Me 
 End Sub 
@@ -62,8 +62,8 @@ End Sub
 #### Concepts
 
 
- [ListBox Object](6bc00755-34e7-4fc2-8e72-40dae2010dd8.md)
+[ListBox Object](6bc00755-34e7-4fc2-8e72-40dae2010dd8.md)
 #### Other resources
 
 
- [ListBox Object Members](d87ad51b-9a46-21f3-f6d6-ef98ea8aaf6d.md)
+[ListBox Object Members](d87ad51b-9a46-21f3-f6d6-ef98ea8aaf6d.md)

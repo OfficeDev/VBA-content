@@ -6,9 +6,9 @@ You can use the  **SearchForRecord** method to search for a specific record in a
 
 ## Syntax
 
- _expression_. **SearchForRecord**( **_ObjectType_**,  **_ObjectName_**,  **_Record_**,  **_WhereCondition_**)
+ _expression_ . **SearchForRecord**( **_ObjectType_** , **_ObjectName_** , **_Record_** , **_WhereCondition_** )
 
- _expression_A variable that represents a  **DoCmd** object.
+ _expression_ A variable that represents a **DoCmd** object.
 
 
 ### Parameters
@@ -17,10 +17,10 @@ You can use the  **SearchForRecord** method to search for a specific record in a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ObjectType|Optional| **AcDataObjectType**|An  **[AcDataObjectType](0e9f8481-ef01-2415-414a-64788c18e6ef.md)** constant that specifies the type of database object in which you are searching. The default value is **acActiveDataObject**.|
-|ObjectName|Optional| **Variant**|The name of the database object that contains the record to search for.|
-|Record|Optional| **AcRecord**|An  **[AcRecord](39ece328-d461-9f4d-a3af-205ed3228929.md)** constant that specifies the starting point and direction of the search. The default value is **acFirst**.|
-|WhereCondition|Optional| **Variant**|A string used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _ObjectType_|Optional| **AcDataObjectType**|An  **[AcDataObjectType](0e9f8481-ef01-2415-414a-64788c18e6ef.md)** constant that specifies the type of database object in which you are searching. The default value is **acActiveDataObject** .|
+| _ObjectName_|Optional| **Variant**|The name of the database object that contains the record to search for.|
+| _Record_|Optional| **AcRecord**|An  **[AcRecord](39ece328-d461-9f4d-a3af-205ed3228929.md)** constant that specifies the starting point and direction of the search. The default value is **acFirst** .|
+| _WhereCondition_|Optional| **Variant**|A string used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ## Remarks
 
@@ -31,7 +31,7 @@ You can use the  **SearchForRecord** method to search for a specific record in a
     
       - The Record argument setting.
     
-  - The sort order of the records. For example, if the Record argument is set to  **acFirst**, changing the sort order of the records might change which record is found.
+  - The sort order of the records. For example, if the Record argument is set to  **acFirst** , changing the sort order of the records might change which record is found.
     
 - The object specified in the ObjectName argument must be open before this action is run. Otherwise, an error occurs.
     
@@ -47,7 +47,7 @@ You can use the  **SearchForRecord** method to search for a specific record in a
     
   - You can refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither  `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
     
-  - You can use logical operators, such as  **&lt;**,  **&gt;**,  **AND**,  **OR**, and  **BETWEEN**. The  **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
+  - You can use logical operators, such as  **&lt;** , **&gt;** , **AND** , **OR** , and **BETWEEN** . The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
     
 
 ## See also
@@ -56,8 +56,8 @@ You can use the  **SearchForRecord** method to search for a specific record in a
 #### Concepts
 
 
- [DoCmd Object](3ce44cca-9979-0a1e-9787-079a52ce528f.md)
+[DoCmd Object](3ce44cca-9979-0a1e-9787-079a52ce528f.md)
 #### Other resources
 
 
- [DoCmd Object Members](3e7ade9e-86e4-0751-188b-5d31c9101651.md)
+[DoCmd Object Members](3e7ade9e-86e4-0751-188b-5d31c9101651.md)

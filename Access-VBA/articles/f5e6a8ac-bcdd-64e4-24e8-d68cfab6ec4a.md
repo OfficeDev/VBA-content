@@ -1,14 +1,14 @@
 
 # EmptyCell.HelpContextId Property (Access)
 
-The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
+The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long** .
 
 
 ## Syntax
 
- _expression_. **HelpContextId**
+ _expression_ . **HelpContextId**
 
- _expression_A variable that represents an  **EmptyCell** object.
+ _expression_ A variable that represents an **EmptyCell** object.
 
 
 ## Remarks
@@ -29,8 +29,8 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 #### Concepts
 
 
- [EmptyCell Object](6174d31a-6c7c-8472-8a77-5487b8305837.md)
+[EmptyCell Object](6174d31a-6c7c-8472-8a77-5487b8305837.md)
 #### Other resources
 
 
- [EmptyCell Object Members](7a267dc1-a91b-98bf-7a48-4592bcd35610.md)
+[EmptyCell Object Members](7a267dc1-a91b-98bf-7a48-4592bcd35610.md)

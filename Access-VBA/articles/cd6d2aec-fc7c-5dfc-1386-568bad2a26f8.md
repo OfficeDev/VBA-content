@@ -1,14 +1,14 @@
 
 # OptionGroup.HelpContextId Property (Access)
 
-The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long**.
+The  **HelpContextID** property specifies the context ID of a topic in the custom Help file specified by the **HelpFile** property setting. Read/write **Long** .
 
 
 ## Syntax
 
- _expression_. **HelpContextId**
+ _expression_ . **HelpContextId**
 
- _expression_A variable that represents an  **OptionGroup** object.
+ _expression_ A variable that represents an **OptionGroup** object.
 
 
 ## Remarks
@@ -29,8 +29,8 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 #### Concepts
 
 
- [OptionGroup Object](aa9e5607-7892-9ab2-dabc-822372b23811.md)
+[OptionGroup Object](aa9e5607-7892-9ab2-dabc-822372b23811.md)
 #### Other resources
 
 
- [OptionGroup Object Members](90e68eb2-20f2-510c-4332-241eeac27f14.md)
+[OptionGroup Object Members](90e68eb2-20f2-510c-4332-241eeac27f14.md)

@@ -1,14 +1,14 @@
 
 # ComboBox.BorderWidth Property (Access)
 
-You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
+You can use the  **BorderWidth** property to specify the width of a control's border. Read/write **Byte** .
 
 
 ## Syntax
 
- _expression_. **BorderWidth**
+ _expression_ . **BorderWidth**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a **ComboBox** object.
 
 
 ## Remarks
@@ -21,9 +21,9 @@ The  **BorderWidth** property uses the following settings.
 |:-----|:-----|:-----|
 |Hairline|0|(Default) The narrowest border possible on your system.|
 |1 pt to 6 pt|1 to 6|The width as indicated in points.|
-You can set the default for this property by using the control's default control style or the  **DefaultControl**property in Visual Basic.
+You can set the default for this property by using the control's default control style or the  **DefaultControl** property in Visual Basic.
 
-To use the  **BorderWidth** property, the **SpecialEffect**property must be set to Flat or Shadowed and the  **BorderStyle**property must not be set to Transparent. If the  **SpecialEffect** property is set to any other value and/or the **BorderStyle** property is set to Transparent, and you set the **BorderWidth** property, the **SpecialEffect** property is automatically reset to Flat and the **BorderStyle** property is automatically reset to Solid.
+To use the  **BorderWidth** property, the **SpecialEffect** property must be set to Flat or Shadowed and the **BorderStyle** property must not be set to Transparent. If the **SpecialEffect** property is set to any other value and/or the **BorderStyle** property is set to Transparent, and you set the **BorderWidth** property, the **SpecialEffect** property is automatically reset to Flat and the **BorderStyle** property is automatically reset to Solid.
 
 The exact border width depends on your computer and printer. On some systems, the hairline and 1-point widths appear the same.
 
@@ -34,8 +34,8 @@ The exact border width depends on your computer and printer. On some systems, th
 #### Concepts
 
 
- [ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
+[ComboBox Object](1cf508d5-023e-eb38-3991-71e82b2a4e7e.md)
 #### Other resources
 
 
- [ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)
+[ComboBox Object Members](d0d83ca3-3698-295e-5335-7d0816557d6b.md)
