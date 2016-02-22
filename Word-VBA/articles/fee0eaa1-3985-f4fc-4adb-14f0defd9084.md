@@ -29,7 +29,7 @@ HTMLDivision
 This example formats the borders for two HTML divisions in the active document. This example assumes that the active document is an HTML document with at least two divisions.
 
 
-```
+```vb
 Sub FormatHTMLDivisions() 
  With ActiveDocument.HTMLDivisions(1) 
  With .HTMLDivisions(1) 

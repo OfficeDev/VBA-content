@@ -16,7 +16,7 @@ Returns the maximum width of the space that a window can occupy in the applicati
 This example expands the active window to the maximum size available (assuming that the window isn't already maximized).
 
 
-```
+```vb
 With ActiveWindow 
  .WindowState = xlNormal 
  .Top = 1 

@@ -9,7 +9,7 @@ A collection of  **[ListGallery](4fa3af33-becd-0dfc-5c7a-a0e70714e045.md)** obje
 Use the  **ListGalleries** property to return the **ListGalleries** collection. The following code example enumerates the collection of list galleries and sets each of the seven list templates (formats) back to the list template format built into Word.
 
 
-```
+```vb
 For Each lg In ListGalleries 
  For x = 1 To 7 
  lg.Reset(x) 

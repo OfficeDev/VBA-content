@@ -42,7 +42,7 @@ Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath ".
 This Microsoft Visual Basic for Applications (VBA) macro shows how to get and set the  **HelpPaths** property of the **Application** object. Before running this macro, replace _fullpath(s)_ with the path or paths to the location or locations where you want Visio to look for Help files.
 
 
-```
+```vb
  
 Public Sub GetHelpPaths_Example()  
  

@@ -32,7 +32,7 @@ Inserts a node into a freeform shape.
 This example selects the third shape in the active document, checks whether the shape is a  **Freeform** object, and if it is, inserts a node.
 
 
-```
+```vb
 Sub InsertShapeNode() 
  ActiveDocument.Shapes(3).Select 
  With Selection.ShapeRange 

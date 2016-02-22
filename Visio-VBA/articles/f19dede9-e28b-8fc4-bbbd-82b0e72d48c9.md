@@ -28,7 +28,7 @@ Both the string that  **HeaderLeft** returns and the string to which you set it 
 The following macro shows how to place a string containing the current date into the left portion of a document's header. After you run this macro, if the date is October 1, 2009, the left portion of the header contains "The date is Thursday, October 1, 2009".
 
 
-```
+```vb
  
 Sub HeaderLeft_Example() 
   

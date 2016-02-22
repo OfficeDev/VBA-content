@@ -29,7 +29,7 @@ Object
 This example turns on data labels for series one in Chart1.
 
 
-```
+```vb
 Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 ```
 

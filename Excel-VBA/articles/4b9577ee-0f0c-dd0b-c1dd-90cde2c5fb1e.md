@@ -16,7 +16,7 @@ Returns  **True** when the Microsoft Excel application is ready; **False** when 
 In this example, Microsoft Excel checks to see if the  **Ready** property is set to **True** , and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
 
 
-```
+```vb
 Sub UseReady() 
  
  If Application.Ready = True Then 

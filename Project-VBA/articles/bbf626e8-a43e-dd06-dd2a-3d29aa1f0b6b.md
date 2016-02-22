@@ -38,7 +38,7 @@ The  **projectGuid** value returned by the **GetServerProjectGuid** method inclu
 
 
 
-```
+```vb
 Option Explicit 
  
 Sub TestDeliverables() 

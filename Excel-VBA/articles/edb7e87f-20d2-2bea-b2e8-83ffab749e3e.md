@@ -16,7 +16,7 @@
 This example sets the style attached to cell A1 on Sheet1 to include pattern format.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1").Style.IncludePatterns = True
 ```
 

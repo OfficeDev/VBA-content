@@ -21,7 +21,7 @@ You cannot set this property for a value axis.
 The following example sets the category axis for the first chart in the active document to use a time scale, using months as the base unit.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  With .Chart.Axes(xlCategory) 

@@ -21,7 +21,7 @@ Windows
 This Microsoft Visual Basic macro gets the  **Windows** collection of the **Application** object and prints the ID of each window in the collection in the Immediate window.
 
 
-```
+```vb
 Public Sub Windows_Example() 
  
  Dim vsoApplication As Visio.Application 

@@ -21,7 +21,7 @@ This property applies only to worksheets and macro sheets.
 This example sets the active window in Book1.xls to display zero values.
 
 
-```
+```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayZeros = True 
 

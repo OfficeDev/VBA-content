@@ -21,7 +21,7 @@ This property creates additional invisible gridlines for each AutoShape.  **Snap
 This example sets Word to automatically align AutoShapes with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes in a new document.
 
 
-```
+```vb
 Options.SnapToShapes = True 
 Documents.Add
 ```

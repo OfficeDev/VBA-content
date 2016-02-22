@@ -31,7 +31,7 @@ The  **FileBuildID** property can get the file build ID of a project file withou
 The following example gets the build ID for the Test.mpp project. If the Project build that created the file is 15.0.4027.1000, the  **FileBuildID** value is "15,0,4027,1000".
 
 
-```
+```vb
 Sub File_BuildID()
     Dim ProjID As String
 

@@ -80,7 +80,7 @@ To try the example, add the following event procedure to a form that contains a 
 
 
 
-```
+```vb
 Private Sub ShipRegion_KeyPress(KeyAscii As Integer) 
  Dim strCharacter As String 
  

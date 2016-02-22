@@ -21,7 +21,7 @@ Corresponds to the \p switch for a Table of Authorities (TOA) field.
 This example formats the first table of authorities in Brief.doc to use page references instead of "Passim."
 
 
-```
+```vb
 Documents("Brief.doc").TablesOfAuthorities(1).Passim = False
 ```
 
@@ -30,7 +30,7 @@ This example formats the tables of authorities in the active document to replace
 
 
 
-```
+```vb
 For Each myTOA In ActiveDocument.TablesOfAuthorities 
  myToa.Passim = True 
 Next myTOA

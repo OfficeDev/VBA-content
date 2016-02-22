@@ -26,7 +26,7 @@ The  **Start** property of a **Curve** object returns the value of the starting 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Start** property to display the value of the starting point of a curve. It uses the **Point** method to find the midpoint of the curve.
 
 
-```
+```vb
  
 Sub Start_Example() 
  

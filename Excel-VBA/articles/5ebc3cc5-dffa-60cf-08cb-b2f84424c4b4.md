@@ -21,7 +21,7 @@ Any changes in the change history older than the setting for this property are r
 This example sets the number of days shown in the change history for the active workbook if change tracking is enabled. Any changes in the change history older than the setting for this property are removed when the workbook is closed.
 
 
-```
+```vb
 With ActiveWorkbook 
  If .KeepChangeHistory Then 
  .ChangeHistoryDuration = 7 

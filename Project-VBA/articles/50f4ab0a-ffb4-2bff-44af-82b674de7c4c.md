@@ -44,7 +44,7 @@ Using the  **FilePageSetupCalendar** method without specifying any arguments dis
 The following example sets up the calandar for printing with 2 months per page and with preview calendars for the previous and next months.
 
 
-```
+```vb
 Sub File_PageSetupCalendar() 
  
  'Activate Calandar view 

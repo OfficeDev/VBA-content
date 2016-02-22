@@ -23,7 +23,7 @@ If  **SpaceAfterAuto** is set to **True** , the **SpaceAfter** property is ignor
 This example displays a report showing the  **SpaceAfterAuto** settings for the active document.
 
 
-```
+```vb
 Select Case ActiveDocument.Range.ParagraphFormat.SpaceAfterAuto 
  Case True 
  x = "Spacing after paragraphs is handled " _ 

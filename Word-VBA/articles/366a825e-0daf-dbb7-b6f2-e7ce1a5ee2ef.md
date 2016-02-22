@@ -29,7 +29,7 @@ The following example verifies whether the first inline shape in the active docu
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbRed 

@@ -47,7 +47,7 @@ To restore the built-in Visio user interface after you run this macro, call the 
 
 
 
-```
+```vb
 Public Sub IconFileName_Example() 
  
  Dim vsoUIObject As Visio.UIObject 

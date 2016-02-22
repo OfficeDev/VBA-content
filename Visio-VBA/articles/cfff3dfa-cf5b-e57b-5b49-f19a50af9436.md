@@ -28,7 +28,7 @@ Whether a persistable event actually does persist depends on the value of its  *
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PersistsEvents** property to determine if an object is capable of containing persistent events. Executing the macro prints 1 ( **True** ), 1 ( **True** ), and 0 ( **False** ) in the **Immediate** window for the **Document** , **Page** , and **Window** objects, respectively.
 
 
-```
+```vb
  
 Public Sub PersistsEvents_Example() 
  

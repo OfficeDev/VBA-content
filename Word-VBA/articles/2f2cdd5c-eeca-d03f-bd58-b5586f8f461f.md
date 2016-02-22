@@ -32,7 +32,7 @@ The  **SendForReview** method starts a collaborative review cycle. Use the **End
 This example automatically sends the current document as an attachment in an e-mail message to the specified recipients.
 
 
-```
+```vb
 Sub WebReview() 
  ActiveDocument.SendForReview _ 
  Recipients:="someone@example.com; amy jones", _ 

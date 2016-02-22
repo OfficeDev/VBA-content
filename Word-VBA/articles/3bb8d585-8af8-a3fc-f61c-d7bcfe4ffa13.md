@@ -21,7 +21,7 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 This example adds a blue dashed line to  _myDocument_ .
 
 
-```
+```vb
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddLine(10, 10, 250, 250).Line 
  .DashStyle = msoLineDashDotDot 
@@ -34,7 +34,7 @@ This example adds a cross to  _myDocument_ and then sets its border to be 8 poin
 
 
 
-```
+```vb
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddShape(msoShapeCross, 10, 10, 50, 70).Line 
  .Weight = 8 

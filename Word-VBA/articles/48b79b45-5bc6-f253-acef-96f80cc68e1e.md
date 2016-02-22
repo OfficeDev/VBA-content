@@ -16,7 +16,7 @@
 This example sets Word so that the TAB and BACKSPACE keys set the left indent instead of inserting and deleting tabs.
 
 
-```
+```vb
 Options.TabIndentKey = True
 ```
 

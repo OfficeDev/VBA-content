@@ -16,7 +16,7 @@ Returns an  **[Explorers](8398532a-1fad-7390-6778-109ac5e6c67c.md)** collection 
 The following Microsoft Visual Basic for Applications (VBA) example displays the number of explorer windows that are open.
 
 
-```
+```vb
 Private Sub CountExplorers() 
  
  MsgBox "There are " &amp; _ 
@@ -31,7 +31,7 @@ The following VBA example uses the  **[Count](ea7a19d2-6261-ce07-97f3-ebe95489a2
 
 
 
-```
+```vb
 Sub GetSelectedItems() 
  
  Dim myOlExp As Outlook.Explorer 

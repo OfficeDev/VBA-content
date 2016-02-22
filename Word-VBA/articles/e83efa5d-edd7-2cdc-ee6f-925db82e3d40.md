@@ -21,7 +21,7 @@ Use the  **Range** property to access the text, the formatting for the text, and
 The following example inserts a date content control into the active document, and then sets the contents of the content control and specifies that the user cannot edit the contents or delete the control from the document.
 
 
-```
+```vb
 Dim objCC As ContentControl 
  
 Set objCC = ActiveDocument.ContentControls _ 

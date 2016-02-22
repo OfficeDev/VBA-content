@@ -29,7 +29,7 @@ Shows or hides task links on the Gantt Chart.
 The following example first clears the links and then displays them from the end of one task bar to the top of the next task bar.
 
 
-```
+```vb
 Sub GanttBar_Links() 
 'First clear links, than links from end to top of the next bar 
  'Activate Gantt Chart view 

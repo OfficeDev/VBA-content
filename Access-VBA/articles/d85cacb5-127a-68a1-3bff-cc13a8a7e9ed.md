@@ -56,7 +56,7 @@ The  **ProcCountLines** property returns the number of lines in a procedure, beg
 The following example displays a message indicating the number of lines in a given procedure.
 
 
-```
+```vb
 Dim strForm As String 
 Dim strProc As String 
  

@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the built-in  **Find** dialog box, with "Hello" in the **Find What** box.
 
 
-```
+```vb
 Dim dlgFind As Dialog 
  
 Set dlgFind = Dialogs(wdDialogEditFind) 
@@ -37,7 +37,7 @@ This example displays the built-in  **Open** dialog box showing all file types.
 
 
 
-```
+```vb
 With Dialogs(wdDialogFileOpen) 
  .Name = "*.*" 
  .Show 

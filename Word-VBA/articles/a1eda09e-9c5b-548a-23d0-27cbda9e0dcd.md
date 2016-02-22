@@ -16,7 +16,7 @@ Returns a  **[Document](8d83487a-2345-a036-a916-971c9db5b7fb.md)** object associ
 This example sets myDoc to the document associated with the active window. The focus is changed to the next window, and the window is split. The  **Activate** method is used to switch back to the original document.
 
 
-```
+```vb
 Set myDoc = Application.ActiveWindow.Document 
 If Windows.Count >= 2 Then 
  Application.ActiveWindow.Next.Activate 

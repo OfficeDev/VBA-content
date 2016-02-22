@@ -16,7 +16,7 @@
 This example searches for the term "マイクロソフト" in the specified range without distinguishing between full-width and half-width characters.
 
 
-```
+```vb
 With Selection.Find 
     .ClearFormatting 
     .MatchWholeWord = True 

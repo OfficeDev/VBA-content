@@ -21,7 +21,7 @@ Using this property to set the indent level to a number less than 0 (zero) or gr
 This example increases the indent level to 15 in cell A10.
 
 
-```
+```vb
 With Range("A10") 
  .IndentLevel = 15 
 End With

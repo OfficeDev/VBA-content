@@ -16,7 +16,7 @@ Gets a  **[TableFields](7f749404-0723-7a17-b83f-f43725c45fc5.md)** collection re
 The following example changes the alignment of a column in an entry table. The macro asks for input from the user to indicate which column the user wants to center, then changes the display and refreshes the view.
 
 
-```
+```vb
 Sub AutoWrap() 
  Dim fieldNumber As Integer 
  

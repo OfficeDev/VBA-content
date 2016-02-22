@@ -21,7 +21,7 @@ This property returns  **wdUndefined** if the object has inside borders with mor
 This example adds borders between rows and between columns in the first table in the active document.
 
 
-```
+```vb
 Dim tableTemp As Table 
  
 If ActiveDocument.Tables.Count >= 1 Then 
@@ -36,7 +36,7 @@ This example adds dotted borders between the first four paragraphs of the active
 
 
 
-```
+```vb
 Dim docActive As Document 
 Dim rngTemp As Range 
  

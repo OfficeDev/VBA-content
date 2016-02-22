@@ -32,7 +32,7 @@ Variant
 This example replaces the data in cells D1:D5 on Sheet1 with the sum of the existing contents and cells C1:C5 on Sheet1.
 
 
-```
+```vb
 With Worksheets("Sheet1") 
  .Range("C1:C5").Copy 
  .Range("D1:D5").PasteSpecial _ 

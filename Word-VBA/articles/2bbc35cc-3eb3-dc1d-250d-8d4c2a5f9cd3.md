@@ -16,7 +16,7 @@
 This example determines whether Word is set to automatically correct CAPS LOCK key errors.
 
 
-```
+```vb
 If AutoCorrect.CorrectCapsLock = True Then 
  MsgBox "Correct CAPS LOCK is active." 
 Else 

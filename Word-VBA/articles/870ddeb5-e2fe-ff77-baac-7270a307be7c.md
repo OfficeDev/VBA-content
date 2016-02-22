@@ -16,7 +16,7 @@ Returns a  **[Shading](e136509a-1be1-29e4-7b37-1faf659e37ba.md)** object that re
 This example applies yellow shading to the first paragraph in the selection.
 
 
-```
+```vb
 With Selection.Paragraphs(1).Shading 
  .Texture = wdTexture12Pt5Percent 
  .BackgroundPatternColorIndex = wdYellow 

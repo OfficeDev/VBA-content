@@ -44,7 +44,7 @@ Using the  **FilePageSetupCalendarTextEx** method without any arguments displays
 The following example formats monthly titles in red for printing.
 
 
-```
+```vb
 Sub File_PageSetupCalendarText() 
  
     'Activate the Calandar view. 

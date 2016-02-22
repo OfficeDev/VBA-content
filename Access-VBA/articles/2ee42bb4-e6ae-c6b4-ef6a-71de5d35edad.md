@@ -21,7 +21,7 @@ Setting the  **AsianLineBreak** property to **True** moves any punctuation marks
 This example sets all the text boxes on the specified form to break lines according to East Asian language rules.
 
 
-```
+```vb
 Dim ctlLoop As Control 
  
 For Each ctlLoop In Forms(0).Controls 

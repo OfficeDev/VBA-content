@@ -45,7 +45,7 @@ Before running this macro, make sure that the most recently added data recordset
 
 
 
-```
+```vb
 Public Sub RemoveRefreshConflicts_Example() 
  
     Dim vsoDataRecordset As Visio.DataRecordset 

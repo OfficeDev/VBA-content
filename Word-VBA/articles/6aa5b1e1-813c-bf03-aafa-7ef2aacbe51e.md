@@ -16,7 +16,7 @@ Returns or sets a value that represents the pattern applied to the specified lin
 This example adds a patterned line to  _myDocument_ .
 
 
-```
+```vb
 Set myDocument = ActiveDocument 
 With myDocument.Shapes.AddLine(10, 100, 250, 0).Line 
  .Weight = 6 

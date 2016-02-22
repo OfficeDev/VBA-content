@@ -21,7 +21,7 @@ Dependencies are the formulas that depend on other cells. For example, the formu
 This example compares the version of Microsoft Excel with the version of Excel in which the workbook was last calculated. If the two version numbers are different, a full calculation of the data in all open workbooks is performed and the dependencies are rebuilt.
 
 
-```
+```vb
 Sub UseCalculateFullRebuild() 
  
  If Application.CalculationVersion <> _ 

@@ -16,7 +16,7 @@ Returns or sets the size of a check box, in points. Read/write  **Single** .
 This example sets the size of the check box named "Check1" in the active document to 14 points and then sets the check box as selected.
 
 
-```
+```vb
 With ActiveDocument.FormFields("Check1").CheckBox 
  .AutoSize = False 
  .Size = 14 

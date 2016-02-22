@@ -16,7 +16,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Can b
 This example sets the bubble size in chart group one to 200% of the default size.
 
 
-```
+```vb
 With Worksheets(1).ChartObjects(1).Chart 
  .ChartGroups(1).BubbleScale = 200 
 End With

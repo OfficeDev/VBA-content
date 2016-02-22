@@ -29,7 +29,7 @@ Single
 This example sets the paragraph line spacing in the selection to three lines.
 
 
-```
+```vb
 With Selection.ParagraphFormat 
  .LineSpacingRule = wdLineSpaceMultiple 
  .LineSpacing = LinesToPoints(3) 

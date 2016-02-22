@@ -29,7 +29,7 @@ The  **MissingItemsLimit** property only works for non-OLAP PivotTables; otherwi
 This example determines the maximum quantity of unique items per field and notifies the user. The example assumes a PivotTable exists on the active worksheet.
 
 
-```
+```vb
 Sub CheckMissingItemsList() 
  
  Dim pvtCache As PivotCache 

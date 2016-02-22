@@ -47,7 +47,7 @@ To restore the built in Visio toolbars after you run this macro, call the  **Thi
 
 
 
-```
+```vb
  
 Public Sub BuiltInToolbars_Example() 
  

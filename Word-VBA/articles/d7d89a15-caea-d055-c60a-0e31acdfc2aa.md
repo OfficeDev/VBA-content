@@ -38,7 +38,7 @@ Although Visual Basic code can call a macro directly (without using the  **Run**
 
 
 
-```
+```vb
 Normal.Module2.Macro1 
 Call Normal.Module2.Macro1 
 Application.Run MacroName:="Normal.Module2.Macro1"
@@ -50,7 +50,7 @@ Application.Run MacroName:="Normal.Module2.Macro1"
 This example prompts the user to enter a template name, module name, macro name, and parameter value, and then it runs that macro.
 
 
-```
+```vb
 Dim strTemplate As String 
 Dim strModule As String 
 Dim strMacro As String 

@@ -21,7 +21,7 @@ This property applies only to 3-D charts.
 The following example sets the depth of the first chart in the active document to be 50 percent of its width. You should run this example on a 3-D chart.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  Chart.DepthPercent = 50 

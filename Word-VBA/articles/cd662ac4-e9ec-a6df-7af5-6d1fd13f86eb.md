@@ -16,7 +16,7 @@ Returns the red-green-blue value of the specified color. Read-only  **Long** .
 The following example enables up and down bars, then adds a criss-cross pattern to the down bars and sets the pattern color to the chart area foreground fill color, for the first chart group of the first chart in the active document.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  With .Chart 

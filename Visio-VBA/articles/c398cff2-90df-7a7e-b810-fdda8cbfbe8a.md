@@ -30,7 +30,7 @@ You will typically only perform undoable actions inside an event handler when th
 This example adds a shape to a drawing and then checks whether the shape has been added as a result of an  **Undo** or **Redo** action.
 
 
-```
+```vb
  
 Public Sub IsUndoingOrRedoing_Example() 
  
@@ -44,7 +44,7 @@ End Sub
 ```
 
 
-```
+```vb
  
 Sub Document_ShapeAdded(ByVal Shape As IVShape) 
  

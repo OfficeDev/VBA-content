@@ -30,7 +30,7 @@ This example uses the mNames() array to store the names of each merge field cont
 
 
 
-```
+```vb
 Dim mNames As Variant 
 Dim mmTemp As MailMerge 
 Dim intCount As Integer 

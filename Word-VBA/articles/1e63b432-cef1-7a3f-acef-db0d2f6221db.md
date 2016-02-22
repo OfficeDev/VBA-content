@@ -16,7 +16,7 @@ Returns or sets the vertical scroll position as a percentage of the document len
 This example vertically scrolls the active pane of the window for Document1 to the end.
 
 
-```
+```vb
 With Windows("Document1") 
  .Activate 
  .ActivePane.VerticalPercentScrolled = 100 

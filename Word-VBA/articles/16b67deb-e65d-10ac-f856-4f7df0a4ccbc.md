@@ -21,7 +21,7 @@ This property generates an error if the view isn't outline or master document vi
 This example switches the active window to outline view and hides all but the first line of body text.
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow.View 
  .Type = wdOutlineView 
  .ShowFirstLineOnly = True 

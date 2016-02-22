@@ -73,7 +73,7 @@ Before running this macro, make sure that the active document has shapes on Page
 
 
 
-```
+```vb
 Public Sub Item_Example() 
   
     Dim intCounter As Integer 

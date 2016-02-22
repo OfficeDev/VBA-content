@@ -45,7 +45,7 @@ Before running this macro, add at least one data recordset to the  **[DataRecord
 
 
 
-```
+```vb
 Public Sub GetCustomPropertiesLinkedToData_Example() 
  
     Dim vsoDataRecordset As Visio.DataRecordset 

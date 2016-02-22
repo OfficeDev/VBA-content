@@ -21,7 +21,7 @@ This property can be any valid  **WdColor** constant or a value returned by Visu
 This example adds a dotted indigo border around each cell in the first table.
 
 
-```
+```vb
 If ActiveDocument.Tables.Count >= 1 Then 
  For Each aBorder In ActiveDocument.Tables(1).Borders 
  aBorder.Color = wdColorIndigo 

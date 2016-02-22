@@ -16,7 +16,7 @@
 This example sets Microsoft Word to automatically start the Letter Wizard when the user enters a letter salutation or closing.
 
 
-```
+```vb
 Sub AutoLeterWizard() 
  Options.AutoFormatAsYouTypeAutoLetterWizard = True 
 End Sub

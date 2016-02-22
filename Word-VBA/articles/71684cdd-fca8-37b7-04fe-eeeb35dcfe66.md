@@ -25,7 +25,7 @@ Converts the specified range from Traditional Chinese to Simplified Chinese or v
 This example converts the current selection from Simplified Chinese to Traditional Chinese. It converts common expressions intact and uses regional character variants.
 
 
-```
+```vb
 Selection.Range.TCSCConverter _ 
  wdTCSCConverterDirectionSCTC, True, True
 ```

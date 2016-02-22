@@ -31,7 +31,7 @@ The picture can be an icon, GIF, JPEG, BMP, TIFF, WMF, EMF, or PNG file. Microso
 The following Microsoft Visual Basic for Applications (VBA) example prompts the user to specify the name of a contact and the file name containing a picture of the contact, and then adds the picture to the contact item. If a picture already exists for the contact item, the example prompts the user to specify if the existing picture should be overwritten by the new file.
 
 
-```
+```vb
 Sub AddPictureToAContact() 
  
  Dim myNms As Outlook.NameSpace 

@@ -30,7 +30,7 @@ For a  **Folders** collection object that represents a collection of search fold
 The following code sample in Microsoft Visual Basic for Applications (VBA) enumerates the search folders on all stores for the current session.
 
 
-```
+```vb
 Sub EnumerateSearchFoldersInStores() 
  
  Dim colStores As Outlook.Stores 

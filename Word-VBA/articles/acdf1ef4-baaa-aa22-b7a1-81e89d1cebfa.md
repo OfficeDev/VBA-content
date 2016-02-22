@@ -21,7 +21,7 @@ You must be in print layout view to see line numbering.
 This example enables line numbering for the active document.
 
 
-```
+```vb
 ActiveDocument.PageSetup.LineNumbering.Active = True
 ```
 
@@ -30,7 +30,7 @@ This example enables line numbering for a document named "MyDocument.doc" The st
 
 
 
-```
+```vb
 set myDoc = Documents("MyDocument.doc") 
 With myDoc.PageSetup.LineNumbering 
  .Active = True 

@@ -31,7 +31,7 @@ You can insert characters such as quotation marks, tab characters, and nonbreaki
 This example inserts the text "Introduction" as a separate paragraph at the beginning of the active document.
 
 
-```
+```vb
 With ActiveDocument.Content 
  .InsertParagraphBefore 
  .InsertBefore "Introduction" 

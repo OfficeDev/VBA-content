@@ -21,7 +21,7 @@ Boolean
 This example checks the server to see if the specified workbook can be checked in. If it can be, it saves and closes the workbook and checks it back into the server.
 
 
-```
+```vb
 Sub CheckInOut(strWkbCheckIn As String) 
  
  ' Determine if workbook can be checked in. 

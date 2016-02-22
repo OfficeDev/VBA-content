@@ -16,7 +16,7 @@ Returns a  **[TextEffectFormat](7fe03721-6a45-569e-add4-fc8849c99535.md)** objec
 This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes(3) 
  If .Type = msoTextEffect Then 

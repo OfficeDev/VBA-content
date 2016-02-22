@@ -34,7 +34,7 @@ This Visual Basic for Applications example displays the first item in the  **Inb
  **Note**  The items in the  **Items** collection object are not guaranteed to be in any particular order.
 
 
-```
+```vb
 Sub DisplayFirstItem() 
  
  Dim myNameSpace As Outlook.NameSpace 

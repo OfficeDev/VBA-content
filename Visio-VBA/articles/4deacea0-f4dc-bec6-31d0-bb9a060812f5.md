@@ -51,7 +51,7 @@ Before running this macro, replace _path_ \ _filename_ with a valid path and fil
 
 
 
-```
+```vb
 Public Sub AddEvent_Example() 
  
  Dim vsoAddons As Visio.Addons 

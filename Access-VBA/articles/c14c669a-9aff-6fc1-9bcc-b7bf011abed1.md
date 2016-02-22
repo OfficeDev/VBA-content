@@ -43,7 +43,7 @@ The following example returns the  **NewRowOrCol** property setting and assigns 
 
 
 
-```
+```vb
 Dim intGetVal As Integer 
 intGetVal = Me.Section(1).NewRowOrCol
 ```

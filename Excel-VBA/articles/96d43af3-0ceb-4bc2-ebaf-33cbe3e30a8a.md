@@ -16,7 +16,7 @@
 This example hides note indicators.
 
 
-```
+```vb
 Application.DisplayNoteIndicator = False
 ```
 

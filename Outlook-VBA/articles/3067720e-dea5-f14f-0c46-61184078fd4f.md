@@ -16,7 +16,7 @@ Returns a constant that belongs to the  **[OlDownloadState](ff5e00db-ad06-ddf1-6
 The following Microsoft Visual Basic for Applications (VBA) example searches through the user's  **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
 
 
-```
+```vb
 Sub DownloadItems() 
  
  Dim mpfInbox As Outlook.Folder 

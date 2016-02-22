@@ -19,7 +19,7 @@ For OLAP data sources, this property returns an empty collection.
 ## Example
 
 
-```
+```vb
 For Each pf in ActiveSheet.PivotTables(1).PivotFormulas 
  r = r + 1 
  Cells(r, 1).Value = pf.Formula 

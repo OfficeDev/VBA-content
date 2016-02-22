@@ -30,7 +30,7 @@ This example sets hyphenation options and then starts manual hyphenation of MyDo
 
 
 
-```
+```vb
 With Documents("MyDoc.doc") 
  .HyphenationZone = InchesToPoints(0.25) 
  .HyphenateCaps = False 

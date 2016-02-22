@@ -9,7 +9,7 @@ A collection of  **Editor** objects that represents a collection of users or gro
 Use the  **Add** method to give a specified user or group permission to modify a range or selection within a document. The following example gives the current user editing permission to modify the active selection.
 
 
-```
+```vb
 Dim objEditor As Editor 
  
 Set objEditor = Selection.Editors.Add(wdEditorCurrent)
