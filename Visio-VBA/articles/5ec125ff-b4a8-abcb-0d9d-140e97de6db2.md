@@ -55,7 +55,7 @@ Before running this macro, create at least one data recordset in the current doc
 
 
 
-```
+```vb
 Public Sub SetPrimaryKey_Example() 
  
     Dim vsoDataRecordset As Visio.DataRecordset 

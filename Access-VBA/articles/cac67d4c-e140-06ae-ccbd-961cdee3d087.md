@@ -42,7 +42,7 @@ To try this example in Microsoft Access, create a new report. Set the  **OnPrint
 
 
 
-```
+```vb
 Private Sub Detail_Print(Cancel As Integer, _ 
  PrintCount As Integer) 
  ' Set unit of measure to twips (default scale). 

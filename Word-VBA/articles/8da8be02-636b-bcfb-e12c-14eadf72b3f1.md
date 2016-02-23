@@ -21,7 +21,7 @@ Use the  **[SetPasswordEncryptionOptions](4e7c2c0a-cac2-6fa3-f237-f02c897757a1.m
 This example sets the password encryption options if the file properties are not encrypted for password-protected documents.
 
 
-```
+```vb
 Sub PasswordSettings() 
  With ActiveDocument 
  If .PasswordEncryptionFileProperties = False Then 

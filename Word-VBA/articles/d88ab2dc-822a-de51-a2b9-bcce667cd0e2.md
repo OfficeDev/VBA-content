@@ -21,7 +21,7 @@ The value of this property must be between 0 and 100. This property is ignored i
 The following example sets the perspective of the first chart in the active document to 70. You should run the example on a 3-D chart.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.RightAngleAxes = False 

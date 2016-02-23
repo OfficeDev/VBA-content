@@ -24,7 +24,7 @@ Use the  **[GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)** property t
 
 
 
-```
+```vb
 Dim GC2 As GroupCriterion2  
 Dim Fields As String  
   

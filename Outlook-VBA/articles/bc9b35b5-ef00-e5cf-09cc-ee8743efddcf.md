@@ -30,7 +30,7 @@ You must set the  **RecurrenceType** property before you set other properties fo
 This Visual Basic for Applications example uses  **[GetRecurrencePattern](a9f67c5b-a77f-4e34-e654-d12560a6dba0.md)** to obtain the **[RecurrencePattern](36c098f7-59fb-879a-5173-ed0260d13fa4.md)** object for the newly-created **[AppointmentItem](204a409d-654e-27aa-643a-8344c631b82d.md)** . The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](14112950-1e2a-a99a-7c48-3e76358de645.md)** , **Instance** , **Occurences** , **StartTime** , **EndTime** , and **[Subject](57f0f242-6d04-175f-4ea2-25145787f5bd.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
 
 
-```
+```vb
 Sub RecurringYearNth() 
  
  Dim oAppt As AppointmentItem 

@@ -16,7 +16,7 @@
 This example sets Microsoft Word to print the active document two pages per sheet.
 
 
-```
+```vb
 ActiveDocument.PageSetup.TwoPagesOnOne = True
 ```
 

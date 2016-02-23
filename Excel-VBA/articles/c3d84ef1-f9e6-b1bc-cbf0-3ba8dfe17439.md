@@ -14,7 +14,7 @@ Represents the memory cache for a PivotTable report.
 Use the  **[PivotCache](82602154-783d-3f78-b354-0dabfdc34c98.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
 
 
-```
+```vb
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 

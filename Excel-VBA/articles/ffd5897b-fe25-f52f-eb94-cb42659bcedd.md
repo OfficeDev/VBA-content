@@ -16,7 +16,7 @@
 This example centers Sheet1 vertically when it's printed.
 
 
-```
+```vb
 Worksheets("Sheet1").PageSetup.CenterVertically = True
 ```
 

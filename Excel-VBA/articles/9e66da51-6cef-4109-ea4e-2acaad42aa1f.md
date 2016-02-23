@@ -27,7 +27,7 @@ This example sorts all the rows on a worksheet, including hidden rows.
 
 
 
-```
+```vb
 Sub SortAll()
     'Turn off screen updating, and define your variables.
     Application.ScreenUpdating = False

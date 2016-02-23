@@ -21,7 +21,7 @@ If the  **[MirrorMargins](ae7c53d9-7669-fb22-323f-2ad3984e2dfa.md)** property is
 This example displays the right margin setting for the active document. The  **[PointsToInches](e3d6ab40-3919-55e0-5829-603fca24c226.md)** method is used to convert the result to inches.
 
 
-```
+```vb
 With ActiveDocument.PageSetup 
  Msgbox "The right margin is set to " _ 
  &amp; PointsToInches(.RightMargin) &amp; " inches." 

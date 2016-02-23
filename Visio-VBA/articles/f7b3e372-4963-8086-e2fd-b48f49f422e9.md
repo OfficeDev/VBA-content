@@ -42,7 +42,7 @@ To restore the built-in user interface in Microsoft Visio after you run this mac
 
 
 
-```
+```vb
  
 Public Sub Caption_Example() 
  

@@ -16,7 +16,7 @@ When used without an object qualifier, this property returns an  **[Application]
 This example displays a message about the application that created  `myObject`.
 
 
-```
+```vb
 Set myObject = ActiveWorkbook 
 If myObject.Application.Value = "Microsoft Excel" Then 
  MsgBox "This is an Excel Application object." 

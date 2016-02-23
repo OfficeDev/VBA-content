@@ -50,7 +50,7 @@ If the first and last points in  _xyArray_ coincide, the **DrawPolyline** method
 The following example shows how to draw two polyline shapes that have 2-D and 1-D behavior, respectively, on the active page.
 
 
-```
+```vb
  
 Public Sub DrawPolyline_Example() 
  

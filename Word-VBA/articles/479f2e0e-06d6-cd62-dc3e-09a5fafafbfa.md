@@ -21,7 +21,7 @@ This method corresponds to functionality of the BACKSPACE key. If the selection 
 This example deletes the character preceding the insertion point (the collapsed selection).
 
 
-```
+```vb
 With Selection 
  .Collapse Direction:=wdCollapseEnd 
  .TypeBackspace 
@@ -33,7 +33,7 @@ This example extends the selection to the end of the current paragraph (includin
 
 
 
-```
+```vb
 With Selection 
  .EndOf Unit:=wdParagraph, Extend:=wdExtend 
  .TypeBackspace 

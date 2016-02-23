@@ -68,7 +68,7 @@ This example uses the  **GetFormulas** method of the **Page** object to get thre
 
 
 
-```
+```vb
  
 Public Sub SetFormulas_Example() 
  

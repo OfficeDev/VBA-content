@@ -23,7 +23,7 @@ This property can only be set during run time; attempts to set it in Immediate m
 This example moves to the beginning of the paragraph and selects the paragraph plus the next two sentences.
 
 
-```
+```vb
 With Selection 
  .MoveUp Unit:=wdParagraph 
  .ExtendMode = True 
@@ -37,7 +37,7 @@ This example collapses the current selection, turns on Extend mode, and selects 
 
 
 
-```
+```vb
 With Selection 
  .Collapse 
  .ExtendMode = True 

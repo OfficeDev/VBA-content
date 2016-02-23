@@ -24,7 +24,7 @@ Returns a single object from a collection.
 This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the  **AddIns2** method is the **Title** property of the **AddIn** object.
 
 
-```
+```vb
 If ThisWorkbook.Application.AddIns2.Item("Analysis ToolPak").Installed = True Then 
  MsgBox "Analysis ToolPak add-in is installed" 
 Else 

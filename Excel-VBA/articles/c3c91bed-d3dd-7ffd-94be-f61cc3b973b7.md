@@ -16,7 +16,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 This example displays the number of columns in the selection on Sheet1. The code also tests for a multiple-area selection; if one exists, the code loops on the areas of the multiple-area selection.
 
 
-```
+```vb
 Sub DisplayColumnCount() 
  Dim iAreaCount As Integer 
  Dim i As Integer 

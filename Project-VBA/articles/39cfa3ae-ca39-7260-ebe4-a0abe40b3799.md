@@ -33,7 +33,7 @@ In the following example, if the value of the  **Suggestions** property for task
 
 
 
-```
+```vb
 Sub GetTaskSuggestions() 
 
  Dim suggestions As Long 

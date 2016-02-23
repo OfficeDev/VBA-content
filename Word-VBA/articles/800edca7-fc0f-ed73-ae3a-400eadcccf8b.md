@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example places a border around the cells in the row that contains the insertion point.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Rows(1).Borders.OutsideLineStyle = wdLineStyleSingle 

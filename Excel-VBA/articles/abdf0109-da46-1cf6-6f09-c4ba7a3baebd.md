@@ -16,7 +16,7 @@ Returns or sets a  **[XlPivotFieldCalculation](94ceaa53-9dfc-149a-6aed-30d8fdb57
 This example sets the data field in the PivotTable report on Sheet1 to calculate the difference from the base field, sets the base field to the field named "ORDER_DATE," and then sets the base item to the item named "5/16/89."
 
 
-```
+```vb
 With Worksheets("Sheet1").Range("A3").PivotField 
     .Calculation = xlDifferenceFrom 
     .BaseField = "ORDER_DATE" 

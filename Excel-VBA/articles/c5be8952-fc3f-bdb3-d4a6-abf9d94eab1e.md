@@ -42,7 +42,7 @@ The following code example sets the formula for cell A1 on Sheet1 to display tod
 
 
 
-```
+```vb
 Sub InsertTodaysDate() 
     ' This macro will put today's date in cell A1 on Sheet1 
     Sheets("Sheet1").Select 

@@ -21,7 +21,7 @@ An axis title is represented by an  **[AxisTitle](ec746a05-40df-95cc-c017-40ef15
 The following example adds an axis label to the category axis for the first chart in the active document.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  With .Chart.Axis(xlCategory) 

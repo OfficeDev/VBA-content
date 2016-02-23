@@ -21,7 +21,7 @@
 The following example displays the setting of the  **ShowAutoFilter** property the default list in Sheet 1 of the active workbook.
 
 
-```
+```vb
  
  Dim wrksht As Worksheet 
  Dim oListCol As ListColumn 

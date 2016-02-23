@@ -51,7 +51,7 @@ To use the following example, create a project with several tasks, and then open
 
 
 
-```
+```vb
 Sub CreateTestTable() 
     Dim t As Task 
     Dim n As Integer 

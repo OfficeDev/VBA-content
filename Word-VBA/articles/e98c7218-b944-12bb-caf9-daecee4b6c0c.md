@@ -14,7 +14,7 @@ This object is not a collection. There is no object that represents a single wal
 Use the  **[Walls](f45ae75a-c96c-4441-af81-aedf23787194.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3-D chart, this example will fail.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.Walls.Interior.Pattern = xlGray75 

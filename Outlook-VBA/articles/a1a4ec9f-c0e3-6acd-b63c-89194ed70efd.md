@@ -29,7 +29,7 @@ After this event is fired, the  **Search** object?s **[Results](59057f6f-8f6d-ee
 The following Visual Basic for Applications (VBA) example starts searching the  **Inbox** for items with subject equal to "Test" and immediately stops the search. This causes the `AdvanceSearchStopped` event procedure to be run. The sample code must be placed in a class module such as `ThisOutlookSession`. The  `StopSearch()` procedure must be called before the event procedure can be called by Microsoft Outlook.
 
 
-```
+```vb
 Sub StopSearch() 
  
  Dim sch As Outlook.Search 

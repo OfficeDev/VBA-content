@@ -33,7 +33,7 @@ For Excel, If LinkToContent is set to  **True** , you must supply an address or 
 This example displays the linked status of the custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
 
 
-```
+```vb
 Sub DisplayLinkStatus(dp As DocumentProperty) 
  Dim stat As String, tf As String 
  If dp.LinkToContent Then 

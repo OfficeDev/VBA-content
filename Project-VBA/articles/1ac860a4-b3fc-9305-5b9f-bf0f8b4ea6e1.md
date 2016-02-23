@@ -41,7 +41,7 @@ Using the  **MailRoutingSlip** method without specifying any arguments displays 
 The following example sends the current schedule to Julie Rogers and then to Michael Edwards.
 
 
-```
+```vb
 Sub PlanApproval() 
  MailRoutingSlip To:="Julie Rogers,Michael Edwards", _ 
  Subject:="Project Plan Approval", _ 

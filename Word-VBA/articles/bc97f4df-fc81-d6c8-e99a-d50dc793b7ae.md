@@ -9,7 +9,7 @@ Contains font attributes (such as font name, font size and color) for an object.
 Use the  **Font** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
-```
+```vb
 Selection.Font.Bold = True
 ```
 
@@ -18,7 +18,7 @@ The following example formats the first paragraph in the active document as 24po
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Paragraphs(1).Range 
 With myRange.Font 
  .Bold = True 
@@ -32,7 +32,7 @@ The following example changes the formatting of the Heading 2 style in the activ
 
 
 
-```
+```vb
 With ActiveDocument.Styles(wdStyleHeading2).Font 
  .Name = "Arial" 
  .Italic = True 
@@ -44,7 +44,7 @@ You can use the  **New** keyword to create a new, stand-alone **Font** object. T
 
 
 
-```
+```vb
 Set myFont = New Font 
 myFont.Bold = True 
 myFont.Name = "Arial" 
@@ -56,7 +56,7 @@ You can also duplicate a  **Font** object by using the **Duplicate** property. T
 
 
 
-```
+```vb
 Set aFont = Selection.Font.Duplicate 
 aFont.Italic = True 
 ActiveDocument.Styles.Add(Name:="Italics", _ 

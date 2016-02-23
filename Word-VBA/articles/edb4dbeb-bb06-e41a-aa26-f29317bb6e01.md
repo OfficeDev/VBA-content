@@ -29,7 +29,7 @@ The  **LinkToPrevious** property applies to each header or footer individually. 
 The first part of this example creates a new document with two sections. The second part creates unique headers for even-numbered and odd-numbered pages in sections one and two in the new document.
 
 
-```
+```vb
 Documents.Add 
 With Selection 
  For j = 1 to 4 

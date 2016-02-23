@@ -21,7 +21,7 @@ Reference the  **[Errors](d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a.md)** object to v
 In this example, a number written as text is placed in cell A1. Microsoft Excel then determines if the number is written as text in cell A1 and notifies the user accordingly.
 
 
-```
+```vb
 Sub CheckForErrors() 
  
  Range("A1").Formula = "'12" 

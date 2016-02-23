@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example creates a 5x5 table in the active document and then applies a predefined format to it.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Set myTable = ActiveDocument.Tables.Add(Range:=Selection.Range, _ 
 NumRows:=5, NumColumns:=5) 
@@ -33,7 +33,7 @@ This example inserts numbers and text into the first column of the first table i
 
 
 
-```
+```vb
 num = 90 
 For Each acell In ActiveDocument.Tables(1).Columns(1).Cells 
  acell.Range.Text = num &amp; " Sales" 

@@ -31,7 +31,7 @@ For pictures and OLE objects, you can indicate whether you want to scale the sha
 This example scales all pictures and OLE objects on  _myDocument_ to 175 percent of their original height and width, and it scales all other shapes to 175 percent of their current height and width.
 
 
-```
+```vb
 Set myDocument = ActiveDocument 
 For Each s In myDocument.Shapes 
  Select Case s.Type 

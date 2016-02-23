@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the name of each field in the data source attached to the active mail merge main document.
 
 
-```
+```vb
 Dim mmdfTemp As MailMergeDataField 
  
 For Each mmdfTemp In _ 
@@ -35,7 +35,7 @@ This example displays the value of the LastName field from the first record in t
 
 
 
-```
+```vb
 With Documents("Main.doc").MailMerge.DataSource 
  .ActiveRecord = wdFirstRecord 
  MsgBox .DataFields("LastName").Value 

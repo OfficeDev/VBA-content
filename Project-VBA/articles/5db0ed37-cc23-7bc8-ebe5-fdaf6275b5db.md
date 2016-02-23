@@ -18,7 +18,7 @@ The following example counts the number of working days in each month of 2012 fo
 
 
 
-```
+```vb
 Dim R As Resource 
 Dim D As Integer, M As Integer, WorkingDays As Integer 
  

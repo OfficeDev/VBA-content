@@ -21,7 +21,7 @@ Query tables and PivotTable reports are not automatically refreshed when you ope
 This example causes the PivotTable cache to automatically update each time the workbook is opened.
 
 
-```
+```vb
 ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 ```
 

@@ -21,7 +21,7 @@ Application
 The following Microsoft Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the active document and prints its process ID number in the Immediate window.
 
 
-```
+```vb
  
 Public Sub Application_Example() 
  

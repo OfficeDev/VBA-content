@@ -28,7 +28,7 @@ Both the string returned by the property and the string you pass to the property
 The following macro shows how to place a string containing the current page number and total number of pages into the center portion of a document's footer. After you run this macro on a one-page document, the center portion of the footer contains "Page 1 of 1".
 
 
-```
+```vb
  
 Sub FooterCenter_Example()  
  

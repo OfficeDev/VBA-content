@@ -30,7 +30,7 @@ This example saves open documents that have changed since they were last saved.
 
 
 
-```
+```vb
 Dim docLoop As Document 
  
 For Each docLoop In Documents 
@@ -43,7 +43,7 @@ This example prints each open document after setting the left and right margins 
 
 
 
-```
+```vb
 Dim docLoop As Document 
  
 For Each docLoop In Documents 

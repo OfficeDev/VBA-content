@@ -37,7 +37,7 @@ The  **SelectResourceColumn** method is only available when the Resource Sheet o
 The following example selects the  **Indicators** column and the next two columns.
 
 
-```
+```vb
 Sub Select_ResourceColumn() 
  
  'Activate Resource Sheet 

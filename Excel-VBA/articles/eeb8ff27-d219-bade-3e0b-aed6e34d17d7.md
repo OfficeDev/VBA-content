@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 This example expands the active window to the maximum size available (assuming that the window isn't maximized).
 
 
-```
+```vb
 With ActiveWindow 
  .WindowState = xlNormal 
  .Top = 1 

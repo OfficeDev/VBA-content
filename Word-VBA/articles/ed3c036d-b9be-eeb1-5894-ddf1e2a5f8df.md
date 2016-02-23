@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example sets the variable myListTemp to the first list template (excluding None) on the  **Outline Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). Each level in the list has a matching heading style linked to it.
 
 
-```
+```vb
 Set myListTemp = _ 
  ListGalleries(wdOutlineNumberGallery).ListTemplates(1) 
 For Each mylevel In myListTemp.ListLevels 

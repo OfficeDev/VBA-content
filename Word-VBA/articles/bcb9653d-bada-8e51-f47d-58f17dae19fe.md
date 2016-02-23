@@ -18,7 +18,7 @@ Use  **Sentences** (Index), where Index is the index number, to return a **Range
 
 
 
-```
+```vb
 With ActiveDocument.Sentences(1) 
  .Bold = True 
  .Font.Size = 24 
@@ -32,7 +32,7 @@ The  **Add** method isn't available for the **Sentences** collection. Instead, u
 
 
 
-```
+```vb
 With ActiveDocument 
  MsgBox .Sentences.Count &amp; " sentences" 
  .Paragraphs(1).Range.InsertParagraphAfter 

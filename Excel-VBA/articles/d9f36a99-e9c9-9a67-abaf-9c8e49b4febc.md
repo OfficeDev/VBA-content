@@ -28,7 +28,7 @@ If you set this property to  **False** , Microsoft Excel sets this property to *
 This example closes the Workbook Book1.xls and does not prompt the user to save changes. Changes to Book1.xls are not saved.
 
 
-```
+```vb
 Application.DisplayAlerts = False 
 Workbooks("BOOK1.XLS").Close 
 Application.DisplayAlerts = True
@@ -39,7 +39,7 @@ This example suppresses the message that otherwise appears when you initiate a D
 
 
 
-```
+```vb
 Application.DisplayAlerts = False 
 channelNumber = Application.DDEInitiate( _ 
  app:="WinWord", _ 

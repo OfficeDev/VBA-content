@@ -35,7 +35,7 @@ As long as a control's  **Enabled** property is set to Yes, you can click the co
 The following example disables the ability to move the focus to the "City" text box on the "Suppliers" form by using the TAB key.
 
 
-```
+```vb
 Forms("Suppliers").Controls("City").TabStop = False
 ```
 

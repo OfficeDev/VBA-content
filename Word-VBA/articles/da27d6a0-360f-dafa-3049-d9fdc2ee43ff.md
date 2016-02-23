@@ -16,7 +16,7 @@ Returns or sets the shape used for a single series in a 3-D bar or column chart.
 The following example sets the shape used for the first series of the first chart in the active document.
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.SeriesCollection(1).BarShape = xlConeToPoint 

@@ -34,7 +34,7 @@ For the  _PasswordEncryptionKeyLength_ argument there is no inherent limit on th
 This example sets the password encryption options for the active workbook.
 
 
-```
+```vb
 Sub SetPasswordOptions() 
  
  ActiveWorkbook.SetPasswordEncryptionOptions _ 

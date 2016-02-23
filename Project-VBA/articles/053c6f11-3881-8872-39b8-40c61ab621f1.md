@@ -16,7 +16,7 @@
 The following example deletes all the tasks that have the  **Flag1** set to **True** .
 
 
-```
+```vb
 Sub DeleteNonEssentialTasks() 
  
  Dim T As Task ' Task object used in For Each loop 

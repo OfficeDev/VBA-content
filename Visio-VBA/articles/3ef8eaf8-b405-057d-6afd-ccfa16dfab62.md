@@ -53,7 +53,7 @@ This example assumes there is an active document that contains at least two conn
 
 
 
-```
+```vb
  
 Public Sub FromPart_Example() 
  

@@ -21,7 +21,7 @@ The  **[CanSave](a1de7523-5b9c-b606-4308-9445e3c4c76d.md)** property returns **T
 This example determines whether the first file converter is able to open files.
 
 
-```
+```vb
 If FileConverters(1).CanOpen = True Then 
  MsgBox FileConverters(1).FormatName &amp; " can open files" 
 End If
@@ -32,7 +32,7 @@ This example determines whether the WordPerfect6x file converter can be used to 
 
 
 
-```
+```vb
 If FileConverters("WordPerfect6x").CanOpen = True Then 
  Documents.Open FileName:="C:\Test.wp", _ 
  Format:=FileConverters("WordPerfect6x").OpenFormat 

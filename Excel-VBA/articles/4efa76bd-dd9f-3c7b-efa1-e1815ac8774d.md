@@ -30,7 +30,7 @@ Nothing
 The following code example displays a message box if the workbook was successfully saved. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
 
 
-```
+```vb
 Private Sub App_WorkbookAfterSave(ByVal Wb As Workbook, _ 
  ByVal Success As Boolean) 
 If Success Then 

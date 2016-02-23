@@ -16,7 +16,7 @@ Creates another instance of an object.
 This Visual Basic for Applications example creates an e-mail message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created e-mail folder named "Saved Mail" within the Inbox folder.
 
 
-```
+```vb
 Sub CopyItem() 
  
  Dim myNameSpace As Outlook.NameSpace 

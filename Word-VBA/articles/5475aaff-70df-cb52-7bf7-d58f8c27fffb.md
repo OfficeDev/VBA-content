@@ -23,7 +23,7 @@ The  **CheckIfOfficeIsHTMLEditor** property returns **False** if Word does not p
 This example causes Microsoft Word not to check to see whether an Office application is the default HTML editor.
 
 
-```
+```vb
 Application.DefaultWebOptions _ 
  .CheckIfOfficeIsHTMLEditor = False
 ```

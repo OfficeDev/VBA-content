@@ -17,7 +17,7 @@ Contains global application-level attributes used by Microsoft Excel when you sa
 Use the  **[DefaultWebOptions](51524888-0812-85ee-c8f9-e14d9b558f57.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
 
 
-```
+```vb
 Set objAppWebOptions = Application.DefaultWebOptions 
 With objAppWebOptions 
  If .AllowPNG = True Then 

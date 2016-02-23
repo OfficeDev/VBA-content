@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example splits the active window in half.
 
 
-```
+```vb
 If ActiveDocument.ActiveWindow.Panes.Count = 1 Then _ 
  ActiveDocument.ActiveWindow.Panes.Add
 ```

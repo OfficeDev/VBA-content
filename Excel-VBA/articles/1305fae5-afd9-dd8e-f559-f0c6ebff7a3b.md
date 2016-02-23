@@ -16,7 +16,7 @@ Returns or sets the text for the specified object. Read/write  **String** .
 This example sets the axis title text for the category axis in Chart1.
 
 
-```
+```vb
 With Charts("Chart1").Axes(xlCategory) 
  .HasTitle = True 
  .AxisTitle.Text = "Month" 

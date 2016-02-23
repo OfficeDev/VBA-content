@@ -21,7 +21,7 @@ Returns a  **Boolean** that represents whether background colors and images are 
 The following example specifies that when documents are printed background colors and images will also be printed.
 
 
-```
+```vb
 Options.PrintBackgrounds = True
 ```
 

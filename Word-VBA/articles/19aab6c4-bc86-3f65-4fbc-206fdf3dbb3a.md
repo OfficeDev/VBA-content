@@ -21,7 +21,7 @@ This property returns 0 (zero) if there is no corresponding bookmark
 This example displays the name of the bookmark that precedes the second paragraph.
 
 
-```
+```vb
 num = ActiveDocument.Paragraphs(2).Range.PreviousBookmarkID 
 If num <> 0 Then MsgBox ActiveDocument.Content.Bookmarks(num).Name
 ```

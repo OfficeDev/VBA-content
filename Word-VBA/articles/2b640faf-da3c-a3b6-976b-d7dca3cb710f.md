@@ -28,7 +28,7 @@ Converts the specified range from hangul to hanja or vice versa.
 This example converts the current selection from hangul to hanja.
 
 
-```
+```vb
 Selection.Range.ConvertHangulAndHanja _ 
  ConversionsMode:=wdHangulToHanja, _ 
  FastConversion:=True, _ 

@@ -38,7 +38,7 @@ If only the FieldID argument is specified, the  **LookUpTableAddEx** method disp
 This example shows how it is possible to create an invalid entry in a lookup table. The first line correctly adds a new code to the second level of a two-level code mask. The second line, however, causes a problem in the lookup table because the appended code doesn't match the mask for the code; that is, it adds the new code at the third level of a two-level mask.
 
 
-```
+```vb
 Sub LookupTableProblem() 
  Application.LookUpTableAddEx pjCustomTaskOutlineCode1, Level:=2, Code:="Q" 
  Application.LookUpTableAddEx pjCustomTaskOutlineCode1, Level:=3, Code:="Z" 

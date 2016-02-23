@@ -14,7 +14,7 @@ Use the  **[Shadow](e44d59d4-5e85-3c78-b3a4-eabac9f2b86f.md)** property to retur
  The following example adds a shadowed rectangle to _myDocument_ . The semitransparent, blue shadow is offset 5 points to the right of the rectangle and 3 points above it.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRectangle, _ 
  50, 50, 100, 200).Shadow 

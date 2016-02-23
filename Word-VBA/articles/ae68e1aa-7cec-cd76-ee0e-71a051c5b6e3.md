@@ -28,7 +28,7 @@ The following code example assumes that you have declared an application variabl
 
 
 
-```
+```vb
 Private Sub App_ProtectedViewWindowActivate(ByVal PvWindow As ProtectedViewWindow) 
  PvWindow.WindowState = wdWindowStateMaximize 
 End Sub

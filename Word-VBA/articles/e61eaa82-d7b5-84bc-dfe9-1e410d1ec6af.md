@@ -30,7 +30,7 @@ This example sets a two-column format for each index in the active document.
 
 
 
-```
+```vb
 For Each myIndex In ActiveDocument.Indexes 
  myIndex.NumberOfColumns = 2 
 Next myIndex

@@ -16,7 +16,7 @@ Returns a  **[DropLines](88fdf5f5-2842-2d68-a073-18d05fd2fa38.md)** object that 
 This example turns on drop lines for chart group one in Chart1 and then sets their line style, weight, and color. The example should be run on a 2-D line chart that has one series.
 
 
-```
+```vb
 With Charts("Chart1").ChartGroups(1) 
  .HasDropLines = True 
  With .DropLines.Border 

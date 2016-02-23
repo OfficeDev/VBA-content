@@ -27,7 +27,7 @@ Sets options for the specified text form field.
 This example adds a text form field named "Today" at the beginning of the active document. The  **EditType** method is used to set the type to **wdCurrentDateText** and set the date format to "M/d/yy."
 
 
-```
+```vb
 With ActiveDocument.FormFields.Add _ 
  (Range:=ActiveDocument.Range(0, 0), _ 
  Type:=wdFieldFormTextInput) 

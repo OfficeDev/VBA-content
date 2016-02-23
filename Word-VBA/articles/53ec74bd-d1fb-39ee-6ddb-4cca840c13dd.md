@@ -21,7 +21,7 @@ Word looks for the following when checking for misused words: incorrect usage of
 This example sets Word to ignore misused words when checking spelling and grammar.
 
 
-```
+```vb
 Options.EnableMisusedWordsDictionary = False
 ```
 

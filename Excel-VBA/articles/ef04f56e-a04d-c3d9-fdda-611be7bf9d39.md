@@ -16,7 +16,7 @@ Returns a  **Permission** object that represents the permission settings in the 
 The following example returns the permission settings for the active workbook.
 
 
-```
+```vb
 Dim objPermission As Permission 
  
 Set objPermission = ActiveWorkbook.Permission

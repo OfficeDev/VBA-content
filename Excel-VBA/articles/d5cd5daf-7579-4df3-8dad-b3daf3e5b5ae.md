@@ -16,7 +16,7 @@ Returns the parent object for the specified object. Read-only.
 This example displays the name of the chart that contains  `myAxis`.
 
 
-```
+```vb
 Sub DisplayParentName() 
  
  Set myAxis = Charts(1).Axes(xlValue) 

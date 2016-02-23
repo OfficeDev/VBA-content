@@ -24,7 +24,7 @@ Moves the specified shape vertically by the specified number of points.
 This example duplicates shape one on  `myDocument`, sets the fill for the duplicate, moves it 70 points to the right and 50 points up, and rotates it 30 degrees clockwise.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes(1).Duplicate 
  .Fill.PresetTextured msoTextureGranite 

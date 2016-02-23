@@ -49,7 +49,7 @@ The following example sets the  **Visible** property for the first name assigned
 
 
 
-```
+```vb
 Worksheets(1).Range("a1:b1").Name.Visible = False
 ```
 

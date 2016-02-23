@@ -16,7 +16,7 @@ Returns a  **CustomXMLNode** object that represents the custom XML node in the d
 The following example inserts a new content control and custom XML part into the active document, maps the content control to a node in the custom XML part, and then sets the value of the mapped XML node.
 
 
-```
+```vb
 Dim objCC As ContentControl 
 Dim objPart As CustomXMLPart 
 Dim objNode As CustomXMLNode 

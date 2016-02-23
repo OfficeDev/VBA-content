@@ -41,7 +41,7 @@ Setting the  **HeaderFooterFont** property is the equivalent of setting values i
 The following sample code shows how to use the  **HeaderFooterFont** property to get a reference to the current **Font** object and set the document's text font to non-bold Arial.
 
 
-```
+```vb
  
 Public Sub HeaderFooterFont_Example()  
  

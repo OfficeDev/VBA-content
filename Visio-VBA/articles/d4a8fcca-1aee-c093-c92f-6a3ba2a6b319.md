@@ -28,7 +28,7 @@ The minimum allowable value for the  **SnapStrengthGuidesX** property is 0 (zero
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SnapStrengthGuidesX** property to print the current snap strength guides _x_ -axis setting in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
-```
+```vb
 Public Sub SnapStrengthGuidesX_Example() 
  
  Dim vsoApplicationSettings As Visio.ApplicationSettings 

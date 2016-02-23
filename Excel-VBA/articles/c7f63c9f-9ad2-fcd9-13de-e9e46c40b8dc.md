@@ -30,7 +30,7 @@ To avoid run-time errors, the data source must be an OLAP source, the field chos
 In this example, Microsoft Excel adds a page item with a source name titled "[Product].[All Products].[Food].[Eggs]". This example assumes an OLAP PivotTable exists on the active worksheet.
 
 
-```
+```vb
 Sub UseAddPageItem() 
  
  ' The source is an OLAP database and you can manually reorder items. 

@@ -25,7 +25,7 @@ Converts a table to text and returns a  **Range** object that represents the del
 When you apply the  **ConvertToText** method to a **Table** object, the object is deleted. To maintain a reference to the converted contents of the table, you must assign the **Range** object returned by the **ConvertToText** method to a new object variable. In the following example, the first table in the active document is converted to text and then formatted as a bulleted list.
 
 
-```
+```vb
 Dim tableTemp As Table 
 Dim rngTemp As Range 
  
@@ -43,7 +43,7 @@ rngTemp.ListFormat.ApplyListTemplate _
 This example creates a table and then converts it to text by using tabs as separator characters.
 
 
-```
+```vb
 Dim docNew As Document 
 Dim tableNew As Table 
 Dim intTemp As Integer 
@@ -71,7 +71,7 @@ This example converts the table that contains the selection to text, with spaces
 
 
 
-```
+```vb
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Tables(1).ConvertToText Separator:=" " 
 Else 
