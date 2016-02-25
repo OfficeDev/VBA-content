@@ -1,4 +1,4 @@
-# idSMOs supported in Excel for Mac
+# idMSOs supported in Excel for Mac
 
 Find the idMSOs that are supported in Excel in Office 2016 for Mac.
 
