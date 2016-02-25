@@ -1,4 +1,4 @@
-# idSMOs supported in PowerPoint for Mac
+# idMSOs supported in PowerPoint for Mac
 
 Find the idMSOs that are supported in PowerPoint in Office 2016 for Mac.
 
