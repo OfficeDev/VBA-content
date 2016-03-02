@@ -28,6 +28,7 @@ The following are the [bundle id] values for Excel, PowerPoint, and Word:
 
 For example, the corresponding AppleScript for Excel would be in a file named "MyAppleScriptFile.applescript" that is in ~/Library/Application Scripts/com.microsoft.Excel/.
 
+Remember: The folders com.microsoft.Excel etc. may not exist. In that case, just create them using standard "mk dir" command. 
 The following is an example of a handler.
 
 ```vb
