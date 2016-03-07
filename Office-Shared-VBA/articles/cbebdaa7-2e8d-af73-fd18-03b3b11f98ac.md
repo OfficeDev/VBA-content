@@ -6,7 +6,7 @@ Is  **True** if toolbar customization is disabled. Read/write.
 
 ## Syntax
 
- _expression_ . **DisableCustomize**
+ _expression_. **DisableCustomize**
 
  _expression_ A variable that represents a **CommandBars** object.
 
@@ -16,7 +16,7 @@ Is  **True** if toolbar customization is disabled. Read/write.
 The following example switches the  **DisableCustomize** property on or off.
 
 
-```vb
+```
 Sub ToggleCustomize() 
  With Application.CommandBars 
  If .DisableCustomize = True Then 

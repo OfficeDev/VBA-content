@@ -22,7 +22,7 @@ In this step, you create the file that adds the custom components to the ribbon.
 
 1. In a text editor, add the following XML markup. 
     
-```XML
+  ```XML
   <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 
@@ -35,7 +35,7 @@ In this step, you create the file that adds the custom components to the ribbon.
   </ribbon> 
 </customUI> 
 
-```
+  ```
 
 2. Close and save the file as  **customUI.xml**.
     
@@ -76,7 +76,7 @@ In this step you add references to the Word Primary Interop Assemblies and type 
     
 4. Add the following namespace references to the project, if they do not already exist, just below the  **namespace** line.
     
-```C#
+  ```C#
   using System.Reflection; 
 using Microsoft.Office.Core; 
 using System.IO; 
@@ -85,7 +85,7 @@ using Extensibility;
 using System.Runtime.InteropServices; 
 using MSword = Microsoft.Office.Interop.Word; 
 
-```
+  ```
 
 
  **Add the Customization File as an Embedded Resource**
@@ -101,7 +101,7 @@ In this step, you add the XML customization file as an embedded resource in the 
     
 
  **Implement the IRibbonExtensibility Interface**
-In this step you add code to the Extensibility.IDTExtensibility2::OnConnection to create a reference to the Word application at runtime. You also implement the only member of the  **IRibbonExtensibility** interface, **GetCustomUI** .
+In this step you add code to the Extensibility.IDTExtensibility2::OnConnection to create a reference to the Word application at runtime. You also implement the only member of the  **IRibbonExtensibility** interface, **GetCustomUI**.
 
 1. In the Solution Explorer, right-click  **Connect.cs**, and click  **View Code**.
     
@@ -113,21 +113,21 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
     
      `applicationObject =(MSword.Application)application;`
     
-4. At the end of the public class Connect statement, add a comma, and then type  **IRibbonExtensibility** .
+4. At the end of the public class Connect statement, add a comma, and then type  **IRibbonExtensibility**.
     
-     **Note**  You can use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class Connect: statement, type  **IRibbonExtensibility** , right-click and point to **Implement Interface**, and then click  **Implement Interface Explicitly**. This adds a stub for the  **GetCustomUI** method. The implementation looks similar to the following code.
+     **Note**  You can use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class Connect: statement, type  **IRibbonExtensibility**, right-click and point to **Implement Interface**, and then click  **Implement Interface Explicitly**. This adds a stub for the  **GetCustomUI** method. The implementation looks similar to the following code.
 
-```C#
+  ```C#
   string IRibbonExtensibility.GetCustomUI(string RibbonID) 
 { 
 }
-```
+  ```
 
 5. Insert the following statement into the  **GetCustomUI** method, overwriting the existing code. `return GetResource("customUI.xml");`
     
 6. Insert the following method below the  **GetCustommUI** method:
     
-```C#
+  ```C#
   private string GetResource(string resourceName) 
         { 
             Assembly asm = Assembly.GetExecutingAssembly(); 
@@ -146,14 +146,14 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
             return null; 
         } 
 
-```
+  ```
 
 
     The  **GetCustomUI** method calls the **GetResource** method. The **GetResource** method sets a reference to this assembly during runtime and then loops through the embedded resource until it finds the one named customUI.xml. It then creates an instance of the **StreamReader** object that reads the embedded file containing the XML markup. The procedure passes the XML back to the **GetCustomUI** method which returns the XML to the ribbon. Alternately, you can construct a string that contains the XML markup and read it directly into the **GetCustomUI** method.
     
 7. Following the  **GetResource** method, add this method. This method inserts the company name into the document at the beginning of the page.
     
-```C#
+  ```C#
   public void InsertCompanyName(IRibbonControl control) 
         { 
         // Inserts the specified text at the beginning of a range or selection. 
@@ -170,7 +170,7 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
             r.InsertAfter(MyText); 
         } 
 
-```
+  ```
 
 
  **Build and Install the Project**

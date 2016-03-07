@@ -6,7 +6,7 @@ Gets or sets a value specifying the font to use for a selection. Read/write.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. **Name**
 
  _expression_ An expression that returns a **Font2** object.
 

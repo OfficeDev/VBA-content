@@ -6,7 +6,7 @@ Gets the information that is used to implement the policy item. Read-only.
 
 ## Syntax
 
- _expression_ . **Data**
+ _expression_. **Data**
 
  _expression_ An expression that returns a **PolicyItem** object.
 

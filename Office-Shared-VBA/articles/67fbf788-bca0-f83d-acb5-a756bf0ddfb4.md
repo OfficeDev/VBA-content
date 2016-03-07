@@ -9,7 +9,7 @@ Creates a document workspace site on the server and adds the active document to 
 
 ## Syntax
 
- _expression_ . **CreateNew**( **_URL_** , **_Name_** )
+ _expression_. **CreateNew**( **_URL_**, **_Name_** )
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 
@@ -20,8 +20,8 @@ Creates a document workspace site on the server and adds the active document to 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _URL_|Optional| **Variant**|The URL for the parent folder in which the new shared workspace is to be created. If you do not supply a URL, the site is created in the user's default server location.|
-| _Name_|Optional| **Variant**| The name of the new shared workspace site. The default value is the name of the active document without its file name extension. For example, if you create a workspace site for "Budget.xls", the name of the new site becomes "Budget".|
+| _URL_|Optional|**Variant**|The URL for the parent folder in which the new shared workspace is to be created. If you do not supply a URL, the site is created in the user's default server location.|
+| _Name_|Optional|**Variant**| The name of the new shared workspace site. The default value is the name of the active document without its file name extension. For example, if you create a workspace site for "Budget.xls", the name of the new site becomes "Budget".|
 
 ## Remarks
 
@@ -38,7 +38,7 @@ The  **CreateNew** method raises an error if the active document has changes tha
 The following example creates a shared workspace site at the URL http://server/sites/mysite/, names the workspace "My Shared Budget Document", and adds the active document to the site. The  **URL** property of the new shared workspace site returns http://server/sites/mysite/My%20Shared%20Budget%20Document/, the **Name** property returns "My Shared Budget Document, and **Count** property of the **SharedWorkspaceFiles** collection shows a single file.
 
 
-```vb
+```
    Dim sws As Office.SharedWorkspace 
     Dim strSWSInfo As String 
     Set sws = ActiveWorkbook.SharedWorkspace 

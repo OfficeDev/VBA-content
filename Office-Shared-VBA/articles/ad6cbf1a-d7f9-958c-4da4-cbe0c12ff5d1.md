@@ -6,7 +6,7 @@ Gets the  **Parent** object for the **FileDialogFilter** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. **Parent**
 
  _expression_ A variable that represents a **FileDialogFilter** object.
 

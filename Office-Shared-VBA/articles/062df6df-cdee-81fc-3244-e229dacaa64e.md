@@ -6,7 +6,7 @@ Is  **True** if the value of the custom document property is linked to the conte
 
 ## Syntax
 
- _expression_ . **LinkToContent**( **_pfLinkRetVal_** )
+ _expression_. **LinkToContent**( **_pfLinkRetVal_** )
 
  _expression_ A variable that represents a **DocumentProperty** object.
 
@@ -17,15 +17,15 @@ Is  **True** if the value of the custom document property is linked to the conte
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _pfLinkRetVal_|Required| **Boolean**|Indicates whether the document property is linked to the container document.|
+| _pfLinkRetVal_|Required|**Boolean**|Indicates whether the document property is linked to the container document.|
 
 ## Remarks
 
-This property applies only to custom document properties. For built-in document properties, the value of this property is  **False** .
+This property applies only to custom document properties. For built-in document properties, the value of this property is  **False**.
 
-Use the  **LinkSource** property to set the source for the specified linked property. Setting the **LinkSource** property sets the **LinkToContent** property to **True** .
+Use the  **LinkSource** property to set the source for the specified linked property. Setting the **LinkSource** property sets the **LinkToContent** property to **True**.
 
-For Excel, If LinkToContent is set to  **True** , you must supply an address or range name for the[LinkSource](http://msdn.microsoft.com/library/3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3.md %28Office.15%29.aspx) from the workbook. If the address or range name covers more than one cell, the custom document property takes the value from the top left cell of the range.
+For Excel, If LinkToContent is set to  **True**, you must supply an address or range name for the[LinkSource](http://msdn.microsoft.com/library/3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3.md %28Office.15%29.aspx) from the workbook. If the address or range name covers more than one cell, the custom document property takes the value from the top left cell of the range.
 
 
 ## Example
@@ -33,7 +33,7 @@ For Excel, If LinkToContent is set to  **True** , you must supply an address or 
 This example displays the linked status of the custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
 
 
-```vb
+```
 Sub DisplayLinkStatus(dp As DocumentProperty) 
  Dim stat As String, tf As String 
  If dp.LinkToContent Then 

@@ -6,7 +6,7 @@ Gets a  **Boolean** value indicating whether the document was signed successfull
 
 ## Syntax
 
- _expression_ . **IsSigned**
+ _expression_. **IsSigned**
 
  _expression_ An expression that returns a **Signature** object.
 

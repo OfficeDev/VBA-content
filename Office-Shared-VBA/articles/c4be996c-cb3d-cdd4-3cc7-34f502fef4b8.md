@@ -6,7 +6,7 @@ Represent field definitions of SubItems in a PickerFields collection. Read-only
 
 ## Syntax
 
- _expression_ . **Fields**
+ _expression_. **Fields**
 
  _expression_ An expression that returns a **PickerResult** object.
 

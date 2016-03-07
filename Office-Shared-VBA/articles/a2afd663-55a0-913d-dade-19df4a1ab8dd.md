@@ -6,7 +6,7 @@ Gets the name of the  **ServerPolicy** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. **Name**
 
  _expression_ An expression that returns a **ServerPolicy** object.
 

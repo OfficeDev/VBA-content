@@ -6,7 +6,7 @@ Gets the parent object for the  **ParagraphFormat2** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. **Parent**
 
  _expression_ An expression that returns a **ParagraphFormat2** object.
 

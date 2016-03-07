@@ -6,7 +6,7 @@ Gets or sets the direction of text in the  **TextColumn2** object. Read/write.
 
 ## Syntax
 
- _expression_ . **TextDirection**
+ _expression_. **TextDirection**
 
  _expression_ An expression that returns a **TextColumn2** object.
 

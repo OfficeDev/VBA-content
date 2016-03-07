@@ -9,7 +9,7 @@ Represents a single  **CustomXMLPart** in a **CustomXMLParts** collection.
 The following example adds a part to a  **CustomXMLPart** object.
 
 
-```vb
+```
 Sub AddPartToCollection() 
     Dim myPart As CustomXMLPart 
  

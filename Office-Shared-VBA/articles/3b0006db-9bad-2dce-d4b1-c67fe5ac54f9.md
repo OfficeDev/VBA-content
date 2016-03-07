@@ -9,7 +9,7 @@ Represents a collection of  **WorkflowTask** objects.
 The following example displays the name of each workflow task in the current document and then displays the workflow task edit user interface for a specific task. It should be noted that calling the  **GetWorkflowTasks** method involves a round-trip to the server.
 
 
-```vb
+```
 Sub DisplayWorkTask() 
 Dim objWorkflowTasks As WorkflowTasks 
 Dim objWorkflowTask As WorkflowTask 

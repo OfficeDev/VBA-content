@@ -6,7 +6,7 @@ Gets the Microsoft ActiveX® control instance displayed in the custom task pane 
 
 ## Syntax
 
- _expression_ . **ContentControl**
+ _expression_. **ContentControl**
 
  _expression_ An expression that returns a **CustomTaskPane** object.
 

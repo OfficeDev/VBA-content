@@ -6,7 +6,7 @@ Gets a  **SignatureSetup** object that provides access to various properties of 
 
 ## Syntax
 
- _expression_ . **Setup**
+ _expression_. **Setup**
 
  _expression_ An expression that returns a **Signature** object.
 

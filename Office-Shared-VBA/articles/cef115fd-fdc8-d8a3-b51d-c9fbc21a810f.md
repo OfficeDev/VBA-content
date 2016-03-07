@@ -12,7 +12,7 @@ Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
 
 ## Syntax
 
- _expression_ . **Priority**
+ _expression_. **Priority**
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 
@@ -32,7 +32,7 @@ Integer
 The following example sets the descriptive text and priority of a command bar popup.
 
 
-```vb
+```
 Dim popControl As CommandBarPopup 
 Set popControl = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics") 

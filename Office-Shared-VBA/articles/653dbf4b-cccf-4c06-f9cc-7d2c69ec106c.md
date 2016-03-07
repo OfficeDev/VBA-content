@@ -6,7 +6,7 @@ Retrieves the value of a Picker property. Read-only
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. **Value**
 
  _expression_ An expression that returns a **PickerProperty** object.
 

@@ -6,7 +6,7 @@ Gets a  **Boolean** value that indicates whether you can preview items using thi
 
 ## Syntax
 
- _expression_ . **BlockPreview**
+ _expression_. **BlockPreview**
 
  _expression_ An expression that returns a **ServerPolicy** object.
 

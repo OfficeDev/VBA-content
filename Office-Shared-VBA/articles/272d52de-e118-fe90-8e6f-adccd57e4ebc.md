@@ -6,7 +6,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_ . **HrGetLossySave**( **_pfLossySave_** )
+ _expression_. **HrGetLossySave**( **_pfLossySave_** )
 
  _expression_ An expression that returns a **IConverterPreferences** object.
 
@@ -17,7 +17,7 @@ This feature is only available in the Open XML Format SDK.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _pfLossySave_|Required| **[INT]**||
+| _pfLossySave_|Required|**[INT]**||
 
 ### Return Value
 

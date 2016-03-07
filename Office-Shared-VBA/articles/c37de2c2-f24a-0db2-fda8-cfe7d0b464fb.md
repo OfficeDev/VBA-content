@@ -6,7 +6,7 @@ Refreshes the  **Document Actions** task pane for the active document in Microso
 
 ## Syntax
 
- _expression_ . **RefreshPane**
+ _expression_. **RefreshPane**
 
  _expression_ A variable that represents a **SmartDocument** object.
 
@@ -21,7 +21,7 @@ The  **RefreshPane** method raises an error if the active document does not have
 The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's  **Document Actions** task pane.
 
 
-```vb
+```
  Dim objSmartDoc As Office.SmartDocument 
  Set objSmartDoc = ActiveWorkbook.SmartDocument 
  If objSmartDoc.SolutionID > "None" Then 

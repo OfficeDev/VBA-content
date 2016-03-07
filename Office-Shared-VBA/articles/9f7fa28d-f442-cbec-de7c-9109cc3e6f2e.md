@@ -9,7 +9,7 @@ Gets a  **[SharedWorkspaceTasks](de26341f-44d1-131e-1dbe-e31f3f68e312.md)** coll
 
 ## Syntax
 
- _expression_ . **Tasks**
+ _expression_. **Tasks**
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 
@@ -19,7 +19,7 @@ Gets a  **[SharedWorkspaceTasks](de26341f-44d1-131e-1dbe-e31f3f68e312.md)** coll
 The following example lists the tasks in the current shared workspace.
 
 
-```vb
+```
    Dim swsTasks As Office.SharedWorkspaceTasks 
     Set swsTasks = ActiveWorkbook.SharedWorkspace.Tasks 
     MsgBox "There are " &amp; swsTasks.Count &amp; _ 

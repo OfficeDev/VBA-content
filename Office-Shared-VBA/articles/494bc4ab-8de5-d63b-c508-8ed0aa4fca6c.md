@@ -6,7 +6,7 @@ True if the specified font is formatted as double strikethrough text. Read/write
 
 ## Syntax
 
- _expression_ . **DoubleStrikeThrough**
+ _expression_. **DoubleStrikeThrough**
 
  _expression_ An expression that returns a **Font2** object.
 

@@ -17,7 +17,7 @@ Use the  **Description** property to set the link description that appears on th
 
 Use the  **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceLink** object.
 
-Use the  **CreatedBy** , **CreatedDate** , **ModifiedBy** , and **ModifiedDate** properties to return information about the history of each link.
+Use the  **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each link.
 
 
 ## Example
@@ -25,7 +25,7 @@ Use the  **CreatedBy** , **CreatedDate** , **ModifiedBy** , and **ModifiedDate**
 The following example modifies the first link in the shared workspace site to point to the Microsoft Developer Network home page, then uploads the changes to the server.
 
 
-```vb
+```
     Dim swsLink As Office.SharedWorkspaceLink 
     Set swsLink = ActiveWorkbook.SharedWorkspace.Links(1) 
     With swsLink 

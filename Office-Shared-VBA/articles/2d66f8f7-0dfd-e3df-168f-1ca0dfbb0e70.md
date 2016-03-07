@@ -6,7 +6,7 @@ Gets or sets the value of a document property. Read/write.
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. **Value**
 
  _expression_ Required. A variable that represents a **[DocumentProperty](dd54ca3c-e0e2-4816-539a-17c5b4a928b1.md)** object.
 

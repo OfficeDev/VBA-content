@@ -6,7 +6,7 @@ Returns or sets a constant that represents the style of a bullet. Read/write.
 
 ## Syntax
 
- _expression_ . **Style**
+ _expression_. **Style**
 
  _expression_ An expression that returns a **BulletFormat2** object.
 

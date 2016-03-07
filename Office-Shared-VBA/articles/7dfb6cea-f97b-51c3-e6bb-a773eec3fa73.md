@@ -6,7 +6,7 @@ Saves an encrypted document.
 
 ## Syntax
 
- _expression_ . **Save**( **_SessionHandle_** , **_EncryptionData_** )
+ _expression_. **Save**( **_SessionHandle_**, **_EncryptionData_** )
 
  _expression_ An expression that returns a **EncryptionProvider** object.
 
@@ -17,8 +17,8 @@ Saves an encrypted document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SessionHandle_|Required| **Long**|The ID of the current session.|
-| _EncryptionData_|Required| **IUnknown**|Contains the encryption information.|
+| _SessionHandle_|Required|**Long**|The ID of the current session.|
+| _EncryptionData_|Required|**IUnknown**|Contains the encryption information.|
 
 ### Return Value
 

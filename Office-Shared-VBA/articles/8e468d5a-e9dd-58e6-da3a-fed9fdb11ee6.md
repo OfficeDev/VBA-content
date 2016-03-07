@@ -6,7 +6,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. **Item**( **_Index_** )
 
  _expression_ An expression that returns a **CustomXMLValidationErrors** object.
 
@@ -17,7 +17,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The name or index number of the  **CustomXMLValidationError** object to be returned.|
+| _Index_|Required|**Long**|The name or index number of the  **CustomXMLValidationError** object to be returned.|
 
 ### Return Value
 

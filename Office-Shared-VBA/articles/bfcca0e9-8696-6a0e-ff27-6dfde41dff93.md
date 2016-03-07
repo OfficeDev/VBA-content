@@ -6,7 +6,7 @@ Used to invalidate a built-in control.
 
 ## Syntax
 
- _expression_ . **InvalidateControlMso**( **_ControlID_** )
+ _expression_. **InvalidateControlMso**( **_ControlID_** )
 
  _expression_ An expression that returns a **IRibbonUI** object.
 
@@ -17,7 +17,7 @@ Used to invalidate a built-in control.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ControlID_|Required| **String**||
+| _ControlID_|Required|**String**||
 
 ### Return Value
 
@@ -37,7 +37,7 @@ Invalidating a control repaints the screen and causes any callback procedures as
 ```
 
 
-```vb
+```
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 

@@ -6,7 +6,7 @@ Used to store arbitrary strings and fetch them at runtime. Read-only
 
 ## Syntax
 
- _expression_ . **Tag**
+ _expression_. **Tag**
 
  _expression_ An expression that returns a **IRibbonControl** object.
 

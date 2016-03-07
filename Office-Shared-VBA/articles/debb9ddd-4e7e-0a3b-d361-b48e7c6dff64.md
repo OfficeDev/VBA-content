@@ -6,7 +6,7 @@ A  **MsoContactCardAddressType** value that represents the address type for the 
 
 ## Syntax
 
- _expression_ . **AddressType**
+ _expression_. **AddressType**
 
  _expression_ An expression that returns a **IMsoContactCard** object.
 
@@ -19,9 +19,9 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 
 |**Enumeration**|**Description**|
 |:-----|:-----|
-| **msoContactCardAddressTypeOutlook**|Represents a unique identifier for an Outlook address.|
-| **msoContactCardAddressTypeSMTP**|Represents a unique identifier for an SMTP address.|
-| **msoContactCardAddressTypeIM**|Represents a unique identifier for an IM address.|
+|**msoContactCardAddressTypeOutlook**|Represents a unique identifier for an Outlook address.|
+|**msoContactCardAddressTypeSMTP**|Represents a unique identifier for an SMTP address.|
+|**msoContactCardAddressTypeIM**|Represents a unique identifier for an IM address.|
 
 ## See also
 

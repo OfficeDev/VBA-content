@@ -6,7 +6,7 @@ A description of what the server policy is and its purpose. Read-only.
 
 ## Syntax
 
- _expression_ . **Description**
+ _expression_. **Description**
 
  _expression_ An expression that returns a **ServerPolicy** object.
 

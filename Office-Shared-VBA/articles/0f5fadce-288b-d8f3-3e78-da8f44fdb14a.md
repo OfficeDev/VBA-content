@@ -6,7 +6,7 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_ . **Application**
+ _expression_. **Application**
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

@@ -6,7 +6,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 
 ## Syntax
 
- _expression_ . **Insert2**( **_RGB_** , **_Position_** , **_Transparency_** , **_Index_** , **_Brightness_** )
+ _expression_. **Insert2**( **_RGB_**, **_Position_**, **_Transparency_**, **_Index_**, **_Brightness_** )
 
  _expression_ An expression that returns a **GradientStops** object.
 
@@ -17,11 +17,11 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _RGB_|Required| **MsoRGBType**|Specifies the color at the gradient stop.|
-| _Position_|Required| **Single**|Specifies the position of the stop within the gradient expressed as a percent.|
-| _Transparency_|Optional| **Single**|Specifies the opacity of the color at the gradient stop.|
-| _Index_|Optional| **Integer**|The index number of the gradient stop.|
-| _Brightness_|Optional| **Single**|Specifies the brightness of the color at the gradient stop.|
+| _RGB_|Required|**MsoRGBType**|Specifies the color at the gradient stop.|
+| _Position_|Required|**Single**|Specifies the position of the stop within the gradient expressed as a percent.|
+| _Transparency_|Optional|**Single**|Specifies the opacity of the color at the gradient stop.|
+| _Index_|Optional|**Integer**|The index number of the gradient stop.|
+| _Brightness_|Optional|**Single**|Specifies the brightness of the color at the gradient stop.|
 
 ### Return Value
 

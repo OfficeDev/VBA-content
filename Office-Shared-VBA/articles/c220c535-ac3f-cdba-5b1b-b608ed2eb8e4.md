@@ -6,7 +6,7 @@ Selects a collection of nodes from a custom XML part.
 
 ## Syntax
 
- _expression_ . **SelectNodes**( **_XPath_** )
+ _expression_. **SelectNodes**( **_XPath_** )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 
@@ -17,7 +17,7 @@ Selects a collection of nodes from a custom XML part.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _XPath_|Required| **String**|Contains the XPath expression.|
+| _XPath_|Required|**String**|Contains the XPath expression.|
 
 ### Return Value
 
@@ -29,7 +29,7 @@ CustomXMLNodes
 The following example demonstrates adding a custom XML part, selecting a part matching a namespace URI, and then selecting nodes within that part that match an XPath expression.
 
 
-```vb
+```
 Dim cxp1 As CustomXMLPart 
 Dim cxn As CustomXMLNode 
  

@@ -6,7 +6,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
 ## Syntax
 
- _expression_ . **Open**( **_bstrSrc_** , **_bstrConnect_** , **_bstrTable_** , **_fOpenExclusive_** , **_fNeverPrompt_** )
+ _expression_. **Open**( **_bstrSrc_**, **_bstrConnect_**, **_bstrTable_**, **_fOpenExclusive_**, **_fNeverPrompt_** )
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 
@@ -17,11 +17,11 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _bstrSrc_|Optional| **String**|Contains the name of the data source.|
-| _bstrConnect_|Optional| **String**|Contains the connection string to the data source.|
-| _bstrTable_|Optional| **String**|Specifies which table to open.|
-| _fOpenExclusive_|Optional| **Long**|Indicates whether the table should be opened for exclusive access.|
-| _fNeverPrompt_|Optional| **Long**|Indicates whether to notify the user if the table can not be opened.|
+| _bstrSrc_|Optional|**String**|Contains the name of the data source.|
+| _bstrConnect_|Optional|**String**|Contains the connection string to the data source.|
+| _bstrTable_|Optional|**String**|Specifies which table to open.|
+| _fOpenExclusive_|Optional|**Long**|Indicates whether the table should be opened for exclusive access.|
+| _fNeverPrompt_|Optional|**Long**|Indicates whether to notify the user if the table can not be opened.|
 
 ## See also
 
