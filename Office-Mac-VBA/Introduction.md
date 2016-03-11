@@ -19,6 +19,7 @@ Unlike other versions of Office apps that support VBA, Office 2016 for Mac apps 
 
 Sandboxing restricts the apps from accessing resources outside the app container. This affects any add-ins or macros that involve file access or communication across processes. You can minimize the effects of sandboxing by using the new commands described in the following section.
 <br><br>
+## Creating an installer or putting User Content
 For instructions on creating an installer for your add-in, please refer to the article here:  [Installing User Content in Office 2016 for Mac](http://macadmins.software/docs/UserContentIn2016.pdf) 
 
 ## New VBA commands for Office 2016 for Mac
