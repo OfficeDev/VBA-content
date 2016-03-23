@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 
 # Office VBA language reference
 
@@ -36,5 +33,3 @@ The documentation provided in this reference includes the following:
     
     Describes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
     
-
->>>>>>> acb21dec147da82d030b72537342b36399ec024a
