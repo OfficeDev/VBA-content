@@ -1,7 +1,7 @@
 
 # Declaring Arrays
 
-[Arrays](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) are declared the same way as other[variables](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md), using the  **Dim** , **Static** , **Private** , or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
+[Arrays](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) are declared the same way as other[variables](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
 
 Whether an array is indexed from 0 or 1 depends on the setting of the  **Option** **Base** statement. If **Option** **Base** **1** is not specified, all array indexes begin at zero.
 
@@ -10,19 +10,19 @@ Whether an array is indexed from 0 or 1 depends on the setting of the  **Option*
 In the following line of code, a fixed-size array is declared as an  **Integer** array having 11 rows and 11 columns:
 
 
-```vb
+```
 Dim MyArray(10, 10) As Integer 
 
 ```
 
 The first argument represents the rows; the second argument represents the columns.
 
-As with any other variable declaration, unless you specify a [data type](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) for the array, the data type of the elements in a declared array is **Variant** . Each numeric **Variant** element of the array uses 16 bytes. Each string **Variant** element uses 22 bytes. To write code that is as compact as possible, explicitly declare your arrays to be of a data type other than **Variant** . The following lines of code compare the size of several arrays:
+As with any other variable declaration, unless you specify a [data type](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) for the array, the data type of the elements in a declared array is **Variant**. Each numeric **Variant** element of the array uses 16 bytes. Each string **Variant** element uses 22 bytes. To write code that is as compact as possible, explicitly declare your arrays to be of a data type other than **Variant**. The following lines of code compare the size of several arrays:
 
 
 
 
-```vb
+```
 ' Integer array uses 22 bytes (11 elements * 2 bytes). 
 ReDim MyIntegerArray(10) As Integer 
  
@@ -48,10 +48,10 @@ The maximum size of an array varies, based on your operating system and how much
 
 ## Declaring a Dynamic Array
 
-By declaring a dynamic array, you can size the array while the code is running. Use a  **Static** , **Dim** , **Private** , or **Public** statement to declare an array, leaving the parentheses empty, as shown in the following example.
+By declaring a dynamic array, you can size the array while the code is running. Use a  **Static**, **Dim**, **Private**, or **Public** statement to declare an array, leaving the parentheses empty, as shown in the following example.
 
 
-```vb
+```
 Dim sngArray() As Single 
 
 ```

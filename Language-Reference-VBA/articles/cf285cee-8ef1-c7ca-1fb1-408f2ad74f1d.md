@@ -6,7 +6,7 @@
 
 1. Select the controls where you want to adjust spacing.
     
-2. From the  **Format** menu, choose **Horizontal Spacing** or **Vertical Spacing** .
+2. From the  **Format** menu, choose **Horizontal Spacing** or **Vertical Spacing**.
     
 3. From the cascading menu, choose one of the following:
     

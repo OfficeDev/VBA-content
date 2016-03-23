@@ -10,5 +10,5 @@ The  **Protection** property return values are:
 
 |**Constant**|**Description**|
 |:-----|:-----|
-| **vbext_pp_locked**|The specified project is locked.|
-| **vbext_pp_none**|The specified project isn't protected.|
+|**vbext_pp_locked**|The specified project is locked.|
+|**vbext_pp_none**|The specified project isn't protected.|

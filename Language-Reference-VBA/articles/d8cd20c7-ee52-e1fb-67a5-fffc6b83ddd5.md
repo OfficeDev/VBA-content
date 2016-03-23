@@ -6,7 +6,7 @@
 
 1. Select the group.
     
-2. From the  **Format** menu, choose **Ungroup** .
+2. From the  **Format** menu, choose **Ungroup**.
     
 
 

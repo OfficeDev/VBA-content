@@ -5,7 +5,7 @@
 
 Specifies the width of each column in a multicolumn combo box or list box.
  **Syntax**
- _object_ . **ColumnWidths** [= _String_ ]
+ _object_. **ColumnWidths** [= _String_ ]
 The  **ColumnWidths** property syntax has these parts:
 
 
@@ -21,8 +21,9 @@ To calculate column widths when  **ColumnWidths** is blank or -1, the width of t
 The minimum calculated column width is 72 [points](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) (1 inch). To produce columns narrower than this, you must specify the width explicitly.
 Unless specified otherwise, column widths are measured in points. To specify another unit of measure, include the units as part of the values. The following examples specify column widths in several units of measure and describe how the various settings would fit in a three-column list box that is 4 inches wide.
 
-
-| **Setting**| **Effect**|
+|||
+|:-----|:-----|
+|**Setting**|**Effect**|
 |90;72;90|The first column is 90 points (1.25 inch); the second column is 72 points (1 inch); the third column is 90 points.|
 |6 cm;0;6 cm|The first column is 6 centimeters; the second column is hidden; the third column is 6 centimeters. Because part of the third column is visible, a horizontal scroll bar appears.|
 |1.5 in;0;2.5 in|The first column is 1.5 inches, the second column is hidden, and the third column is 2.5 inches.|

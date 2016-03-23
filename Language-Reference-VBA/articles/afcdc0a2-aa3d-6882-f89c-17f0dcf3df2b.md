@@ -5,7 +5,7 @@
 
 Creates an event [procedure](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md).
  **Syntax**
- _object_**.CreateEventProc(**_eventname_ , _objectname_**) As Long**
+ _object_**.CreateEventProc(**_eventname_, _objectname_**) As Long**
 The  **CreateEventProc** syntax has these parts:
 
 
@@ -15,7 +15,7 @@ The  **CreateEventProc** syntax has these parts:
 | _eventname_|Required. A [string expression](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) specifying the name of the event you want to add to the[module](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md).|
 | _objectname_|Required. A string expression specifying the name of the object that is the source of the event.|
  **Remarks**
-Use the  **CreateEventProc** method to create an event procedure. For example, to create an event procedure for the **Click** event of a **Command Button** control named `Command1` you would use the following code, where `CM` represents an object of type **CodeModule** :
+Use the  **CreateEventProc** method to create an event procedure. For example, to create an event procedure for the **Click** event of a **Command Button** control named `Command1` you would use the following code, where `CM` represents an object of type **CodeModule**:
 
 
 

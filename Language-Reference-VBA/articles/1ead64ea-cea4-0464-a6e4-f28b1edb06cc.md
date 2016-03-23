@@ -20,8 +20,8 @@ The  _NamedFormat_ argument has the following settings:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **vbGeneralDate**|0|Display a date and/or time. If there is a date part, display it as a short date. If there is a time part, display it as a long time. If present, both parts are displayed.|
-| **vbLongDate**|1|Display a date using the long date format specified in your computer's regional settings.|
-| **vbShortDate**|2|Display a date using the short date format specified in your computer's regional settings.|
-| **vbLongTime**|3|Display a time using the time format specified in your computer's regional settings.|
-| **vbShortTime**|4|Display a time using the 24-hour format (hh:mm).|
+|**vbGeneralDate**|0|Display a date and/or time. If there is a date part, display it as a short date. If there is a time part, display it as a long time. If present, both parts are displayed.|
+|**vbLongDate**|1|Display a date using the long date format specified in your computer's regional settings.|
+|**vbShortDate**|2|Display a date using the short date format specified in your computer's regional settings.|
+|**vbLongTime**|3|Display a time using the time format specified in your computer's regional settings.|
+|**vbShortTime**|4|Display a time using the 24-hour format (hh:mm).|

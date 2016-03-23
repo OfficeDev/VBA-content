@@ -18,7 +18,7 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-```vb
+```
 Dim MyControl As Object 
 Dim MyParent As Object 
 Dim ControlsIndex As Integer 

@@ -1,7 +1,7 @@
 
 # PictureAlignment Property Example
 
-The following example uses the  **PictureAlignment** property to set up a background picture. The example also identifies the alignment options provided by **PictureAlignment** .
+The following example uses the  **PictureAlignment** property to set up a background picture. The example also identifies the alignment options provided by **PictureAlignment**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
@@ -18,7 +18,7 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-```vb
+```
 Dim Alignments(5) As String 
  
 Private Sub UserForm_Initialize() 
