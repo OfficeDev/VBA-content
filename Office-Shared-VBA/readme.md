@@ -3,12 +3,14 @@
 # Table of contents
 
 - [Office VBA Object library reference](articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
+  - [Getting Started with VBA in Office](articles/7208a87a-a567-41d9-af5b-0df3884c58d9.md)
   - [Concepts](articles/96bfd6b4-62c0-c4e8-252d-046d9993761f.md)
     - [Getting Help on Macintosh Keywords](articles/5aaffe18-8b58-46bc-6c68-7b4862aa8fba.md)
     - [OLE Programmatic Identifiers](articles/e27f70fd-9e04-a8d0-d4e8-d57076ecf9b3.md)
     - [Overview of the Office Fluent Ribbon](articles/773c202c-f5f9-c4f6-f833-0dd56eb21a8f.md)
     - [Using the Document Inspector](articles/62180311-ee41-1812-797d-3b5814add284.md)
     - [Security Notes for Microsoft Office Solution Developers](articles/076ce284-5d1d-4823-ba74-f5e5c05bae9b.md)
+    - [Office VBA Object library reference](articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
   - [How do I...](articles/bd0cf0a5-65aa-4867-4d51-73bceed9128f.md)
     - [Customize the Office Fluent Ribbon by Using an Open XML Formats File](articles/562d79a2-c1eb-126a-1567-ddd0253f5972.md)
     - [Customize the Office Fluent Ribbon by Using a Managed COM Add-in](articles/7926e6bc-c7ae-cc6f-faa5-28e2e6de664c.md)
