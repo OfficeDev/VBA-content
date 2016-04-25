@@ -1,12 +1,12 @@
 
 # ViewSingle.Screen Property (Project)
 
-Gets the screen type for the single view. Read-only  **PjViewScreen** .
+Gets the screen type for the single view. Read-only  **PjViewScreen**.
 
 
 ## Syntax
 
- _expression_ . **Screen**
+ _expression_. **Screen**
 
  _expression_ A variable that represents a **ViewSingle** object.
 

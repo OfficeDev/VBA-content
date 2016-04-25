@@ -6,7 +6,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 ## Syntax
 
- _expression_ . **LoadWebPane**( **_Window_** , **_TargetPage_** )
+ _expression_. **LoadWebPane**( ** _Window_**, ** _TargetPage_** )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -17,8 +17,8 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Window_|Required| **Window**|The window from where the  **LoadWebBrowserControl** method was called.|
-| _TargetPage_|Required| **String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|
+| _Window_|Required|**Window**|The window from where the  **LoadWebBrowserControl** method was called.|
+| _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|
 
 ### Return Value
 

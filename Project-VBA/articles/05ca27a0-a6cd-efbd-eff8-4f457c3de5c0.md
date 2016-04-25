@@ -6,7 +6,7 @@ Occurs when Project Professional successfully puts the  **Project Save** job in 
 
 ## Syntax
 
- _expression_ . **SaveCompletedToServer**( **_bstrName_** , **_bstrprojGuid_** )
+ _expression_. **SaveCompletedToServer**( ** _bstrName_**, ** _bstrprojGuid_** )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -17,8 +17,8 @@ Occurs when Project Professional successfully puts the  **Project Save** job in 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _bstrName_|Required| **String**|Name of the project.|
-| _bstrprojGuid_|Required| **String**|GUID of the project|
+| _bstrName_|Required|**String**|Name of the project.|
+| _bstrprojGuid_|Required|**String**|GUID of the project|
 
 ### Return Value
 

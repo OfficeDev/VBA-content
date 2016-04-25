@@ -1,12 +1,12 @@
 
 # Resources.Count Property (Project)
 
-Gets the number of items in the  **Resources** collection. Read-only **Long** .
+Gets the number of items in the  **Resources** collection. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. **Count**
 
  _expression_ A variable that represents a **Resources** object.
 

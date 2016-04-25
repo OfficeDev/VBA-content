@@ -1,9 +1,12 @@
 
 # EngagementComment.Guid Property (Project)
 
+The Guid property for the EngagementComment object. Introduced in Office 2016.
+
+
 ## Syntax
 
- _expression_ . **Guid**
+ _expression_. **Guid**
 
  _expression_ A variable that represents a **EngagementComment** object.
 

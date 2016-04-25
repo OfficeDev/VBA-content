@@ -6,7 +6,7 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 ## Syntax
 
- _expression_ . **SetObjectMatchingID**( **_ObjectType_** , **_ObjectName_** , **_MatchingID_** )
+ _expression_. **SetObjectMatchingID**( ** _ObjectType_**, ** _ObjectName_**, ** _MatchingID_** )
 
  _expression_ A variable that represents a **Project** object.
 
@@ -17,9 +17,9 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required| **Long**|The type of object, specified by a  **[pjOrganizer](d176be88-4df9-3826-c806-f7f650fffb39.md)** constant.|
-| _ObjectName_|Required| **String**|Display name of the object.|
-| _MatchingID_|Required| **String**|String specifying the matching ID to set.|
+| _ObjectType_|Required|**Long**|The type of object, specified by a  **[pjOrganizer](d176be88-4df9-3826-c806-f7f650fffb39.md)** constant.|
+| _ObjectName_|Required|**String**|Display name of the object.|
+| _MatchingID_|Required|**String**|String specifying the matching ID to set.|
 
 ## Example
 

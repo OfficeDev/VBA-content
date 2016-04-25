@@ -1,12 +1,12 @@
 
 # Resource.EnterpriseBaseCalendar Property (Project)
 
- **True** if the resource calendar is an enterprise base calendar; **False** if the resource calendar is a local calendar. Read-only **Boolean** .
+ **True** if the resource calendar is an enterprise base calendar; **False** if the resource calendar is a local calendar. Read-only **Boolean**.
 
 
 ## Syntax
 
- _expression_ . **EnterpriseBaseCalendar**
+ _expression_. **EnterpriseBaseCalendar**
 
  _expression_ A variable that represents a **Resource** object.
 

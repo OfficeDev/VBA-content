@@ -1,12 +1,12 @@
 
 # Year.Index Property (Project)
 
-Gets the index of a  **Year** object in the **Years** containing object. Read-only **Integer** .
+Gets the index of a  **Year** object in the **Years** containing object. Read-only **Integer**.
 
 
 ## Syntax
 
- _expression_ . **Index**
+ _expression_. **Index**
 
  _expression_ A variable that represents a **Year** object.
 

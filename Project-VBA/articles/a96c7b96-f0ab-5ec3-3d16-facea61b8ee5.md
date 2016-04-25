@@ -8,7 +8,7 @@ Contains a collection of  **[Calendar](2d3b0f05-4762-0058-15d4-47e1d2b9d9a9.md)*
 
  **Using the Calendar Object**
 
-Use  **BaseCalendars(**_Index_**)** , where _Index_ is the calendar index number or calendar name, to return a single **Calendar** object.
+Use  **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index number or calendar name, to return a single **Calendar** object.
 
 
 
@@ -24,7 +24,7 @@ Use the  **[BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)** property t
 
 
 
-```vb
+```
 Dim C As Calendar 
 
  
@@ -49,7 +49,7 @@ BaseCalendarCreate Name:="Base Holiday Calendar"
 ## See also
 
 
-#### Other resources
+#### Concepts
 
 
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)

@@ -1,12 +1,12 @@
 
 # SplitParts.Parent Property (Project)
 
-Gets the parent of the  **SplitParts** object. Read-only **Task** .
+Gets the parent of the  **SplitParts** object. Read-only **Task**.
 
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. **Parent**
 
  _expression_ A variable that represents a **SplitParts** object.
 

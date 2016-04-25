@@ -1,12 +1,12 @@
 
 # Task.ActualOvertimeWork Property (Project)
 
-Gets the actual overtime work (in minutes) for a task. Read-only  **Variant** .
+Gets the actual overtime work (in minutes) for a task. Read-only  **Variant**.
 
 
 ## Syntax
 
- _expression_ . **ActualOvertimeWork**
+ _expression_. **ActualOvertimeWork**
 
  _expression_ A variable that represents a **Task** object.
 
@@ -16,7 +16,7 @@ Gets the actual overtime work (in minutes) for a task. Read-only  **Variant** .
 The following example shows the cost of overtime by calculating the total cost of tasks with overtime work, as well as breaking down the individual costs per task.
 
 
-```vb
+```
 Sub PriceOfOvertime() 
  Dim T As Task 
  Dim Price As Variant 

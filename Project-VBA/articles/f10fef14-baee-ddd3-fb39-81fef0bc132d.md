@@ -4,7 +4,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. **Value**
 
  _expression_ A variable that represents a **Shapes** object.
 
@@ -15,7 +15,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
+| _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
 ## Remarks
 

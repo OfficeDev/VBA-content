@@ -4,7 +4,7 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 
 ## Syntax
 
- _expression_ . **ZOrder**_(ZOrderCmd)_
+ _expression_. **ZOrder** _(ZOrderCmd)_
 
  _expression_ A variable that represents a **Shape** object.
 
@@ -15,7 +15,7 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ZOrderCmd_|Required| **[MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape relative to the other shapes.|
+| _ZOrderCmd_|Required|**[MsoZOrderCmd](http://msdn.microsoft.com/en-us/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape relative to the other shapes.|
 | _ZOrderCmd_|Required|MSOZORDERCMD||
 
 ### Return value

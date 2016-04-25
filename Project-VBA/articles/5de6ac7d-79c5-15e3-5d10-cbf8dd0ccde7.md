@@ -6,7 +6,7 @@ Removes any filter that is set on the current view.
 
 ## Syntax
 
- _expression_ . **FilterClear**
+ _expression_. **FilterClear**
 
  _expression_ An expression that returns an **Application** object.
 

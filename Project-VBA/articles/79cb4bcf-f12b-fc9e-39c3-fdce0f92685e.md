@@ -1,12 +1,12 @@
 
 # Windows2.Item Property (Project)
 
-Gets a single  **Window** object from the **Windows2** collection. Read-only **Window** .
+Gets a single  **Window** object from the **Windows2** collection. Read-only **Window**.
 
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. **Item**( ** _Index_** )
 
  _expression_ A variable that represents a **Windows2** object.
 
@@ -17,7 +17,7 @@ Gets a single  **Window** object from the **Windows2** collection. Read-only **W
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The name or index number of the object to return.|
+| _Index_|Required|**Variant**|The name or index number of the object to return.|
 
 ## See also
 

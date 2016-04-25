@@ -8,7 +8,7 @@ Contains a collection of  **[GroupCriterion2](06047a9d-a9db-43e0-e759-e24560da71
 
  **Using the GroupCriterion2 Object**
 
-Use  **GroupCriteria2(**_Index_**)** , where _Index_ is the criterion index, to return a single **GroupCriterion2** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
+Use  **GroupCriteria2(** _Index_ **)**, where _Index_ is the criterion index, to return a single **GroupCriterion2** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
 
 
 
@@ -24,7 +24,7 @@ Use the  **[GroupCriteria](0c6d6412-cd7b-7b12-1740-7cd5cd38aaf1.md)** property t
 
 
 
-```vb
+```
 Dim GC2 As GroupCriterion2  
 Dim Fields As String  
   
@@ -55,8 +55,11 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 ## See also
 
 
+#### Concepts
+
+
+[Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
 #### Other resources
 
 
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
 [GroupCriteria2 Object Members](b52e84f3-4332-9c5a-cd2c-c4b57cfc40ea.md)

@@ -6,7 +6,7 @@ Deletes a Gantt bar style from the active Gantt Chart.
 
 ## Syntax
 
- _expression_ . **GanttBarStyleDelete**( **_Item_** )
+ _expression_. **GanttBarStyleDelete**( ** _Item_** )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -17,7 +17,7 @@ Deletes a Gantt bar style from the active Gantt Chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required| **String**| **String** . The name or row number of the Gantt bar to delete from the **Bar Styles** dialog box.|
+| _Item_|Required|**String**|**String**. The name or row number of the Gantt bar to delete from the **Bar Styles** dialog box.|
 
 ### Return Value
 

@@ -4,7 +4,7 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 
 ## Syntax
 
- _expression_ . **GetCellText**_(Row,_ _Col)_
+ _expression_. **GetCellText** _(Row,_ _Col)_
 
  _expression_ A variable that represents a **ReportTable** object.
 
@@ -15,8 +15,8 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Row_|Required| **Long**|The row number in the table.|
-| _Col_|Required| **Long**|The column number in the table.|
+| _Row_|Required|**Long**|The row number in the table.|
+| _Col_|Required|**Long**|The column number in the table.|
 | _Row_|Required|INT||
 | _Col_|Required|INT||
 
@@ -55,7 +55,7 @@ The  **GetTableText** example finds all of the tables on the active report, gets
 
 
 
-```vb
+```
 Sub GetTableText()
     Dim theReport As Report
     Dim shp As shape

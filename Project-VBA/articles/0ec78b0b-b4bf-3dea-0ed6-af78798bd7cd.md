@@ -4,7 +4,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 ## Syntax
 
- _expression_ . **AddSiteColumn**_(ProjectField_,  _SharePointName)_
+ _expression_. **AddSiteColumn** _(ProjectField_,  _SharePointName)_
 
  _expression_ A variable that represents an **Application** object.
 
@@ -15,8 +15,8 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ProjectField_|Optional| **[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
-| _SharePointName_|Optional| **Variant**|The name of the new column.|
+| _ProjectField_|Optional|**[PjField](f0df0929-921c-1f33-ab42-192efdaeb64d.md)**|Can be one of a subset of constants in the  **PjField** enumeration, which specifies the project field to show in the new column; cannot be one of the prohibited fields (see Remarks).|
+| _SharePointName_|Optional|**Variant**|The name of the new column.|
 | _ProjectField_|Optional|PJFIELD||
 | _SharePointName_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
@@ -48,29 +48,30 @@ The  **AddSiteColumn** method gives run-time error 1004, "Application-defined or
 
     **Table 1. Additional prohibited fields**
 
-
-| **pjTaskActive**| **pjTaskActualOvertimeWork**| **pjTaskACWP**|
-| **pjTaskAssignmentDelay**| **pjTaskAssignmentPeakUnits**| **pjTaskAssignmentUnits**|
-| **pjTaskBaseline[1-10]BudgetCost**| **pjTaskBaseline[1-10]BudgetWork**| **pjTaskBaseline[1-10]FixedCostAccrual**|
-| **pjTaskBaselineBudgetCost**| **pjTaskBaselineBudgetWork**| **pjTaskBaselineFixedCostAccrual**|
-| **pjTaskBudgetCost**| **pjTaskBudgetWork**| **pjTaskCalendarGuid**|
-| **pjTaskConstraintDate**| **pjTaskConstraintType**| **pjTaskCostRateTable**|
-| **pjTaskDeliverableGuid**| **pjTaskDeliverableType**| **pjTaskDemandedRequested**|
-| **pjTaskEarnedValueMethod**| **pjTaskEnterpriseOutlineCode[1-30]**| **pjTaskExternalTask**|
-| **pjTaskFinishSlack**| **pjTaskFixedCostAccrual**| **pjTaskFreeSlack**|
-| **pjTaskGuid**| **pjTaskHideBar**| **pjTaskHyperlink**|
-| **pjTaskHyperlinkAddress**| **pjTaskHyperlinkHref**| **pjTaskHyperlinkScreenTip**|
-| **pjTaskHyperlinkSubAddress**| **pjTaskID**| **pjTaskIgnoreWarnings**|
-| **pjTaskIndicators**| **pjTaskIsAssignment**| **pjTaskLevelAssignments**|
-| **pjTaskLevelDelay**| **pjTaskLinkedFields**| **pjTaskManual**|
-| **pjTaskMilestone**| **pjTaskNotes**| **pjTaskObjects**|
-| **pjTaskOutlineCode[1-10]**| **pjTaskOutlineLevel**| **pjTaskOutlineNumber**|
-| **pjTaskPathDrivenSuccessor**| **pjTaskPathDrivingPredecessor**| **pjTaskPathPredecessor**|
-| **pjTaskPathSuccessor**| **pjTaskPreleveledFinish**| **pjTaskPreleveledStart**|
-| **pjTaskPriority**| **pjTaskResourceType**| **pjTaskStartSlack**|
-| **pjTaskStatus**| **pjTaskStatusIndicator**| **pjTaskSubproject**|
-| **pjTaskSubprojectReadOnly**| **pjTaskTotalSlack**| **pjTaskType**|
-| **pjTaskWarning**| **pjTaskWorkContour**| ****|
+||||
+|:-----|:-----|:-----|
+|**pjTaskActive**|**pjTaskActualOvertimeWork**|**pjTaskACWP**|
+|**pjTaskAssignmentDelay**|**pjTaskAssignmentPeakUnits**|**pjTaskAssignmentUnits**|
+|**pjTaskBaseline[1-10]BudgetCost**|**pjTaskBaseline[1-10]BudgetWork**|**pjTaskBaseline[1-10]FixedCostAccrual**|
+|**pjTaskBaselineBudgetCost**|**pjTaskBaselineBudgetWork**|**pjTaskBaselineFixedCostAccrual**|
+|**pjTaskBudgetCost**|**pjTaskBudgetWork**|**pjTaskCalendarGuid**|
+|**pjTaskConstraintDate**|**pjTaskConstraintType**|**pjTaskCostRateTable**|
+|**pjTaskDeliverableGuid**|**pjTaskDeliverableType**|**pjTaskDemandedRequested**|
+|**pjTaskEarnedValueMethod**|**pjTaskEnterpriseOutlineCode[1-30]**|**pjTaskExternalTask**|
+|**pjTaskFinishSlack**|**pjTaskFixedCostAccrual**|**pjTaskFreeSlack**|
+|**pjTaskGuid**|**pjTaskHideBar**|**pjTaskHyperlink**|
+|**pjTaskHyperlinkAddress**|**pjTaskHyperlinkHref**|**pjTaskHyperlinkScreenTip**|
+|**pjTaskHyperlinkSubAddress**|**pjTaskID**|**pjTaskIgnoreWarnings**|
+|**pjTaskIndicators**|**pjTaskIsAssignment**|**pjTaskLevelAssignments**|
+|**pjTaskLevelDelay**|**pjTaskLinkedFields**|**pjTaskManual**|
+|**pjTaskMilestone**|**pjTaskNotes**|**pjTaskObjects**|
+|**pjTaskOutlineCode[1-10]**|**pjTaskOutlineLevel**|**pjTaskOutlineNumber**|
+|**pjTaskPathDrivenSuccessor**|**pjTaskPathDrivingPredecessor**|**pjTaskPathPredecessor**|
+|**pjTaskPathSuccessor**|**pjTaskPreleveledFinish**|**pjTaskPreleveledStart**|
+|**pjTaskPriority**|**pjTaskResourceType**|**pjTaskStartSlack**|
+|**pjTaskStatus**|**pjTaskStatusIndicator**|**pjTaskSubproject**|
+|**pjTaskSubprojectReadOnly**|**pjTaskTotalSlack**|**pjTaskType**|
+|**pjTaskWarning**|**pjTaskWorkContour**|****|
 It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter?although the value of doing so is questionable.
 
 
@@ -86,7 +87,7 @@ The  **AddDurationColumns** macro adds task duration and baseline duration to th
 
 
 
-```vb
+```
 Sub AddDurationColumns()
     Dim success As Boolean
     Dim results As String

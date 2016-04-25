@@ -1,12 +1,12 @@
 
 # Task.Baseline4DurationText Property (Project)
 
-Gets or sets a string representation of the baseline duration of a task. Read/write  **String** .
+Gets or sets a string representation of the baseline duration of a task. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_ . **Baseline4DurationText**
+ _expression_. **Baseline4DurationText**
 
  _expression_ An expression that returns a **Task** object.
 

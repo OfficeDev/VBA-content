@@ -1,12 +1,12 @@
 
 # Resource.Group Property (Project)
 
-Gets or sets the group to which a resource belongs. Read/write  **String** .
+Gets or sets the group to which a resource belongs. Read/write  **String**.
 
 
 ## Syntax
 
- _expression_ . **Group**
+ _expression_. **Group**
 
  _expression_ A variable that represents a **Resource** object.
 
@@ -16,7 +16,7 @@ Gets or sets the group to which a resource belongs. Read/write  **String** .
 The following example deletes the resources in the active project that belong to a group specified by the user.
 
 
-```vb
+```
 Sub DeleteResourcesInGroup() 
  
  Dim Entry As String ' The group specified by the user 

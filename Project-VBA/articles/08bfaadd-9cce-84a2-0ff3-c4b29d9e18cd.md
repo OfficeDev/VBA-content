@@ -1,12 +1,12 @@
 
 # Project.Tasks Property (Project)
 
-Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the tasks in the project. Read-only **Tasks** .
+Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection representing the tasks in the project. Read-only **Tasks**.
 
 
 ## Syntax
 
- _expression_ . **Tasks**
+ _expression_. **Tasks**
 
  _expression_ A variable that represents a **Project** object.
 
@@ -16,7 +16,7 @@ Gets a  **[Tasks](bc6bb4a5-95a6-9d1f-3e28-92b9548a544a.md)** collection represen
 The following example displays the name of every task in the active project.
 
 
-```vb
+```
 Sub TaskNames() 
  
  Dim T As Task, Names As String 

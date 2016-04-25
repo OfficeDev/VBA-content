@@ -6,7 +6,7 @@ Shows or hides the  **Resource Form** in the bottom pane of a split view.
 
 ## Syntax
 
- _expression_ . **ToggleResourceDetails**
+ _expression_. **ToggleResourceDetails**
 
  _expression_ An expression that returns an **Application** object.
 

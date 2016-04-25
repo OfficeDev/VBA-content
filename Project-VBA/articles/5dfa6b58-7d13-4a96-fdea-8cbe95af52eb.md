@@ -6,7 +6,7 @@ Inserts a column to the left of the active column, and then displays the  **Fiel
 
 ## Syntax
 
- _expression_ . **ColumnInsert**
+ _expression_. **ColumnInsert**
 
  _expression_ A variable that represents an **Application** object.
 

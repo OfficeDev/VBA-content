@@ -1,12 +1,12 @@
 
 # Tasks.Parent Property (Project)
 
-Gets the parent of the  **Tasks** object. Read-only **Project** .
+Gets the parent of the  **Tasks** object. Read-only **Project**.
 
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. **Parent**
 
  _expression_ A variable that represents a **Tasks** object.
 

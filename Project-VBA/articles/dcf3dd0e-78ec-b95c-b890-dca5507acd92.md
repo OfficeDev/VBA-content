@@ -6,7 +6,7 @@ Opens a project from an XML string.
 
 ## Syntax
 
- _expression_ . **OpenXML**( **_XML_** )
+ _expression_. **OpenXML**( ** _XML_** )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -17,7 +17,7 @@ Opens a project from an XML string.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _XML_|Required| **String**|String containing a valid Project XML string that conforms to the Project XML schema.|
+| _XML_|Required|**String**|String containing a valid Project XML string that conforms to the Project XML schema.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ The  **OpenXML** method returns 0 if it is successful.
 The following example opens a file named OneTaskEdited.xml that was created by saving a project as XML and then editing the file to remove default values. The example requires a reference to the Microsoft Scripting Runtime library (scrrun.dll).
 
 
-```vb
+```
 Sub ImportXMLProject() 
     ' Requires reference to the Microsoft Scripting Runtime library (scrrun.dll). 
     Dim txtStream As TextStream 

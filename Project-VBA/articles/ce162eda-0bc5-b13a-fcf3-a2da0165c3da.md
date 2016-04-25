@@ -1,10 +1,10 @@
 
 # ShapeRange.VerticalFlip Property (Project)
-Gets a value that indicates whether the shape range is flipped around the vertical axis. Read-only  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)** .
+Gets a value that indicates whether the shape range is flipped around the vertical axis. Read-only  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
- _expression_ . **VerticalFlip**
+ _expression_. **VerticalFlip**
 
  _expression_ A variable that represents a **ShapeRange** object.
 

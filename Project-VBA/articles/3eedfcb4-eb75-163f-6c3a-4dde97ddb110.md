@@ -4,7 +4,7 @@ Aligns text at the bottom of the cell, for selected cells in a report table.
 
 ## Syntax
 
- _expression_ . **AlignTableCellBottom**
+ _expression_. **AlignTableCellBottom**
 
  _expression_ A variable that represents an **Application** object.
 
@@ -19,7 +19,7 @@ Aligns text at the bottom of the cell, for selected cells in a report table.
 In the following example, the  **AlignTableCells** macro aligns the text for all tables in the specified report.
 
 
-```vb
+```
 Sub TestAlignReportTables()
     Dim reportName As String
     Dim alignment As String   ' The value can be "top", "center", or "bottom".

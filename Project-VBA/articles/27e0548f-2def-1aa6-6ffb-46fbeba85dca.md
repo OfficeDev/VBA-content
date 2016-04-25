@@ -1,12 +1,12 @@
 
 # Application.ThousandSeparator Property (Project)
 
-Gets the thousands separator symbol. Read-only  **String** .
+Gets the thousands separator symbol. Read-only  **String**.
 
 
 ## Syntax
 
- _expression_ . **ThousandSeparator**
+ _expression_. **ThousandSeparator**
 
  _expression_ A variable that represents an **Application** object.
 
