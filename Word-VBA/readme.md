@@ -6011,7 +6011,6 @@
         - [Name Property](articles/dd479971-a38c-13f8-66dc-806d38af0ba5.md)
         - [Parent Property](articles/f3042735-9a1f-c843-0912-07f8d445ece6.md)
     - [TableOfContents Object](articles/629a03c1-ae97-649d-7ec4-25210b4b9ecd.md)
-    - [TableOfContents Object](articles/44f3bb54-e8b0-d94d-31ed-b33099e8b048.md)
       - [TableOfContents Members](articles/bfd1b65b-98c3-a60b-6668-34dd05f6ee85.md)
       - [Properties](articles/828ebf43-89a9-40b6-ba1e-bb67220c8cd1.md)
         - [Application Property](articles/8082d901-cb50-e4e1-6fc2-f6b69908e633.md)
