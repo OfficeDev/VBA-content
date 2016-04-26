@@ -22,3 +22,7 @@ If the reading pane is empty when you select a node in the help file’s table o
 2. In Windows Explorer, right click the CHM file, and then click Properties.
 3. Click Unblock, and then click OK.
 4. Double-click the CHM file to open it.
+
+## Copyright
+
+Copyright (c) 2016 Microsoft Corporation. All rights reserved.
