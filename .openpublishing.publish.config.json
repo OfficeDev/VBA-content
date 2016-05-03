@@ -34,6 +34,16 @@
             }
         },
         {
+            "docset_name": "Library-Reference-VBA",
+            "build_output_subfolder": "Library-Reference-VBA",
+            "locale": "en-us",
+            "version": 0,
+            "open_to_public_contributors": "false",
+            "type_mapping": {
+                "Conceptual": "Content"
+            }
+        },
+        {
             "docset_name": "Office-Mac-VBA",
             "build_output_subfolder": "Office-Mac-VBA",
             "locale": "en-us",
