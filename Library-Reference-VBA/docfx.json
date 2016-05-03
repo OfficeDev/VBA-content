@@ -1,0 +1,25 @@
+{
+  "build": {
+    "content":
+      [
+        {
+          "files": ["**/**.md"],
+          "exclude": ["**/obj/**"]
+        }
+      ],
+    "resource": [
+        {
+          "files": ["**/images/**"],
+          "exclude": ["**/obj/**"]
+        }
+    ],
+    "globalMetadata": {
+        "ROBOTS": "INDEX, FOLLOW"
+    },
+    "externalReference": [
+    ],
+    "template": "op.html",
+    "dest": "Library-Reference-VBA"
+  }
+}
+
