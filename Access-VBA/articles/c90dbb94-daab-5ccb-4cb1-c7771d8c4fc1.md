@@ -12,7 +12,7 @@ Suppose that you are using the ADO  **Find** method to find the first occurrence
 
 
 
-```vb
+```
 Dim rst As New ADODB.Connection 
  
 rst.open "Employees", CurrentProject.Connection,_ 

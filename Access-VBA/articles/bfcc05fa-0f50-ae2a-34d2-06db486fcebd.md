@@ -6,7 +6,7 @@ Returns a  **[DependencyObjects](f146e414-ffda-d69f-73f2-992ab660c6c8.md)** coll
 
 ## Syntax
 
- _expression_ . **InsufficientPermissions**
+ _expression_. **InsufficientPermissions**
 
  _expression_ A variable that represents a **DependencyInfo** object.
 

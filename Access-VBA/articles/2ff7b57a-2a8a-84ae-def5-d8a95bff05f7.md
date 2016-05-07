@@ -1,12 +1,12 @@
 
 # OptionButton.AutoLabel Property (Access)
 
-Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean** .
+Specifies whether labels are automatically created and attached to new controls. Read/write  **Boolean**.
 
 
 ## Syntax
 
- _expression_ . **AutoLabel**
+ _expression_. **AutoLabel**
 
  _expression_ A variable that represents an **OptionButton** object.
 

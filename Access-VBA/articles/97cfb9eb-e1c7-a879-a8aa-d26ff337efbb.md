@@ -1,12 +1,12 @@
 
 # Form.OnDelete Property (Access)
 
-Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String** .
+Sets or returns the value of the  **On Delete** box in the **Properties** window of a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_ . **OnDelete**
+ _expression_. **OnDelete**
 
  _expression_ A variable that represents a **Form** object.
 

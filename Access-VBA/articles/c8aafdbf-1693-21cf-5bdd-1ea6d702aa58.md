@@ -6,7 +6,7 @@ Occurs when a filter is applied to a form.
 
 ## Syntax
 
- _expression_ . **ApplyFilter**( **_Cancel_** , **_ApplyType_** )
+ _expression_. **ApplyFilter**( ** _Cancel_**, ** _ApplyType_** )
 
  _expression_ A variable that represents a **Form** object.
 
@@ -17,8 +17,8 @@ Occurs when a filter is applied to a form.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the form.|
-| _ApplyType_|Required| **Integer**|Returns the type of filter that was applied.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the form.|
+| _ApplyType_|Required|**Integer**|Returns the type of filter that was applied.|
 
 ## Remarks
 
@@ -39,7 +39,7 @@ The actions in the  **ApplyFilter** macro or event procedure occur before the fi
  **Note**  The  **ApplyFilter** event doesn't occur when the user does one of the following:
 
 
-- Applies or removes a filter by using the  **ApplyFilter** , **OpenReport** , or **ShowAllRecords** actions in a macro, or their corresponding methods of the **DoCmd** object in Visual Basic.
+- Applies or removes a filter by using the  **ApplyFilter**, **OpenReport**, or **ShowAllRecords** actions in a macro, or their corresponding methods of the **DoCmd** object in Visual Basic.
     
 - Uses the  **Close** action or the **Close** method of the **DoCmd** object to close the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window
     
@@ -55,7 +55,7 @@ To try this example, add the following event procedure to an Orders form that co
 
 
 
-```vb
+```
 Private Sub Form_ApplyFilter(Cancel As Integer, ApplyType As Integer) 
  If Not IsNull(Me.Filter) And (InStr(Me.Filter, "Orders.Paid = -1")>0 _ 
  Or InStr(Me.Filter, "Orders.Paid = True")>0)Then 

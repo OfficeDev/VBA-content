@@ -1,12 +1,12 @@
 
 # Report.Top Property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Long** . .
+You can use the  **Top** property to specify an object's location on a form or report. Read/write **Long**. .
 
 
 ## Syntax
 
- _expression_ . **Top**
+ _expression_. **Top**
 
  _expression_ A variable that represents a **Report** object.
 
@@ -20,10 +20,10 @@ For reports, the  **Top** property setting is the amount the current section is 
 
 ## Example
 
-The following example checks the  **Top** property setting for the current report. If the value is less than the minimum margin setting, the **NextRecord** and **PrintSection** properties are set to **False** . The section doesn't advance to the next record, and the next section isn't printed.
+The following example checks the  **Top** property setting for the current report. If the value is less than the minimum margin setting, the **NextRecord** and **PrintSection** properties are set to **False**. The section doesn't advance to the next record, and the next section isn't printed.
 
 
-```vb
+```
 Sub Detail1_Format(Cancel As Integer, FormatCount As Integer) 
 Const conTopMargin = 1880 
 ' Don't advance to next record or print next section 

@@ -1,12 +1,12 @@
 
 # SubForm.Report Property (Access)
 
-You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report** .
+You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
 
 
 ## Syntax
 
- _expression_ . **Report**
+ _expression_. **Report**
 
  _expression_ A variable that represents a **SubForm** object.
 
@@ -24,7 +24,7 @@ This property is typically used to refer to the report contained in a subreport 
 The following example uses the  **Report** property to refer to a control on a subreport.
 
 
-```vb
+```
 Dim curTotalSales As Currency 
  
 curTotalSales = Reports!Sales!Employees.Report!TotalSales

@@ -1,12 +1,12 @@
 
 # ObjectFrame.GridlineStyleTop Property (Access)
 
-Gets or sets the top gridline style of the specified frame. Read/write  **Byte** .
+Gets or sets the top gridline style of the specified frame. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_ . **GridlineStyleTop**
+ _expression_. **GridlineStyleTop**
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

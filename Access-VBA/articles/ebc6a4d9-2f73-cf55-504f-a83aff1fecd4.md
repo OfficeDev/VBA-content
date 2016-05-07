@@ -1,12 +1,12 @@
 
 # Form.GridX Property (Access)
 
-You can use the  **GridX** property (along with the **GridY** property) to specify the horizontal and vertical divisions of the alignment grid in form Design view. Read/write **Integer** .
+You can use the  **GridX** property (along with the **GridY** property) to specify the horizontal and vertical divisions of the alignment grid in form Design view. Read/write **Integer**.
 
 
 ## Syntax
 
- _expression_ . **GridX**
+ _expression_. **GridX**
 
  _expression_ A variable that represents a **Form** object.
 

@@ -1,7 +1,7 @@
 
 # Manipulate Multivalued Fields With DAO
 
-Multivalued fields are represented as  ** [Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** objects in DAO. The recordset for a field is a child of the recordset for the table that contains the multivalued field. To instantiate the child recordset, use the **Value** property of the multivalued field as follows.
+Multivalued fields are represented as  **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** objects in DAO. The recordset for a field is a child of the recordset for the table that contains the multivalued field. To instantiate the child recordset, use the **Value** property of the multivalued field as follows.
 
 
 ```
@@ -14,7 +14,7 @@ The following code example shows how to instantiate the child recordset of the A
 
 
 
-```vb
+```
    Set rs  = db.OpenRecordSet("Tasks") 
    Set childRs = rs.AssignedTo.Value 
 
@@ -25,7 +25,7 @@ The following code example shows how to iterate through a parent recordset and i
 
 
 
-```vb
+```
 Sub BrowseMultiValueField() 
    Dim db As Database 
    Dim rs As Recordset 

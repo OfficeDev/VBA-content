@@ -1,12 +1,12 @@
 
 # CodeProject.Name Property (Access)
 
-You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String** .
+You can use the  **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax
 
- _expression_ .Name
+ _expression_.Name
 
  _expression_ A variable that represents a **CodeProject** object.
 

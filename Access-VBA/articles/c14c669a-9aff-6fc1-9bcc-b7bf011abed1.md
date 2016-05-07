@@ -1,12 +1,12 @@
 
 # Section.NewRowOrCol Property (Access)
 
-You can use the  **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte** .
+You can use the  **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_ . **NewRowOrCol**
+ _expression_. **NewRowOrCol**
 
  _expression_ A variable that represents a **Section** object.
 
@@ -34,16 +34,16 @@ The following items are some sample settings for a group header section in a mul
 |Before Section|The group header is printed at the top of a new column.|
 |After Section|The detail section is printed at the top of a new column.|
 |Before &amp; After|The group header is printed in a column by itself, and the detail section is printed at the top of a new column.|
-Sections in a form or report are normally printed vertically down a page. The default  **Column Layout** option is **Across, then Down** . You can print the sections in multiple columns across a page by clicking **Down, then Across** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box.
+Sections in a form or report are normally printed vertically down a page. The default  **Column Layout** option is **Across, then Down**. You can print the sections in multiple columns across a page by clicking **Down, then Across** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box.
 
-If you set the  **NewRowOrCol** property to Before Section, the vertical or horizontal orientation of the page affects how the section appears when printed. If you click **Across, then Down** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box, Microsoft Access starts printing the section at the beginning of a new row; if you click **Down, then Across** , Microsoft Access starts printing the section at the beginning of a new column.
+If you set the  **NewRowOrCol** property to Before Section, the vertical or horizontal orientation of the page affects how the section appears when printed. If you click **Across, then Down** under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box, Microsoft Access starts printing the section at the beginning of a new row; if you click **Down, then Across**, Microsoft Access starts printing the section at the beginning of a new column.
 
 The following example returns the  **NewRowOrCol** property setting and assigns it to the `intGetVal` variable.
 
 
 
 
-```vb
+```
 Dim intGetVal As Integer 
 intGetVal = Me.Section(1).NewRowOrCol
 ```
@@ -51,7 +51,8 @@ intGetVal = Me.Section(1).NewRowOrCol
 The next example presents two layouts for a report that divides data into four groups (Head1 to Head4). Each group includes three to six records, and each record has field a and field b. The layouts differ only in their settings under  **Column Layout** on the **Columns** tab of the **Page Setup** dialog box and the values of their **NewRowOrCol** properties. Note that the **Width** box under **Column Size** on the **Columns** tab must be set to the actual width of the field. Also, the Before Section setting of the **NewRowOrCol** property requires a page header section greater than zero for the **Down, then Across** option to function correctly.
 
 
-
+|||
+|:-----|:-----|
 |
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b>  ? <b>Across, then Down</b><br /><br /> 
 Head1 

@@ -6,7 +6,7 @@ The  **Collection** property returns a reference to the collection that contains
 
 ## Syntax
 
- _expression_ . **Collection**
+ _expression_. **Collection**
 
  _expression_ A variable that represents a **Reference** object.
 

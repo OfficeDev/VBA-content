@@ -6,7 +6,7 @@ The  **TextHeight** method returns the height of a text string as it would be pr
 
 ## Syntax
 
- _expression_ . **TextHeight**( **_Expr_** )
+ _expression_. **TextHeight**( ** _Expr_** )
 
  _expression_ A variable that represents a **Report** object.
 
@@ -17,7 +17,7 @@ The  **TextHeight** method returns the height of a text string as it would be pr
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Expr_|Required| **String**|The text string for which the text height will be determined.|
+| _Expr_|Required|**String**|The text string for which the text height will be determined.|
 
 ### Return Value
 
@@ -42,7 +42,7 @@ To try this example in Microsoft Access, create a new report. Set the  **OnPrint
 
 
 
-```vb
+```
 Private Sub Detail_Print(Cancel As Integer, _ 
  PrintCount As Integer) 
  ' Set unit of measure to twips (default scale). 

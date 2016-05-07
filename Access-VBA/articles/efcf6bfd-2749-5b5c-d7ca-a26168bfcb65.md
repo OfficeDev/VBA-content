@@ -6,7 +6,7 @@ You can use the  **ActiveReport** property together with the **[Screen](00743775
 
 ## Syntax
 
- _expression_ . **ActiveReport**
+ _expression_. **ActiveReport**
 
  _expression_ A variable that represents a **Screen** object.
 
@@ -20,7 +20,7 @@ You can use the  **ActiveReport** property to refer to an active report together
 
 
 
-```vb
+```
 Dim rptCurrentReport As Report 
 Set rptCurrentReport = Screen.ActiveReport 
 MsgBox "Current report is " &amp; rptCurrentReport.Name

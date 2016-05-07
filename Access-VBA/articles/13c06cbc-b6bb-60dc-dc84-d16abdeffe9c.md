@@ -6,7 +6,7 @@ The  **DefaultControl** property returns a **[Control](ce2362e5-4390-590e-06c0-6
 
 ## Syntax
 
- _expression_ . **DefaultControl**( **_ControlType_** )
+ _expression_. **DefaultControl**( ** _ControlType_** )
 
  _expression_ A variable that represents a **Report** object.
 
@@ -17,7 +17,7 @@ The  **DefaultControl** property returns a **[Control](ce2362e5-4390-590e-06c0-6
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ControlType_|Required| **Long**|An  **[AcControlType](562ecad2-5cb5-7624-8f5a-236f42bd0104.md)** constant that indicates the type of control for which default property settings are to be set.|
+| _ControlType_|Required|**Long**|An  **[AcControlType](562ecad2-5cb5-7624-8f5a-236f42bd0104.md)** constant that indicates the type of control for which default property settings are to be set.|
 
 ## Remarks
 
@@ -39,7 +39,7 @@ If you try to set a property that can't be set as a default property with the  *
 The following example creates a new form and uses the  **DefaultControl** property to return a **Control** object representing the default command button. The procedure sets some of the default properties for the command button, then creates a new command button on the form.
 
 
-```vb
+```
 Sub SetDefaultProperties() 
  Dim frm As Form, ctlDefault As Control, ctlNew As Control 
  

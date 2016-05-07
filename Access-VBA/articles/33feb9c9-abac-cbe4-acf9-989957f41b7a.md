@@ -6,7 +6,7 @@
 
 ## Syntax
 
- _expression_ . **GetDependencyInfo**
+ _expression_. **GetDependencyInfo**
 
  _expression_ A variable that represents an **AccessObject** object.
 

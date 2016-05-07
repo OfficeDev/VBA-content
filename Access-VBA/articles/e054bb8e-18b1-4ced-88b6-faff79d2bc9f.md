@@ -9,7 +9,7 @@ This object has the following events:
 |**Name**|**Description**|
 |:-----|:-----|
 |[AfterUpdate](902cd078-1f4b-d35a-4136-bc43914b8503.md)|The  **AfterUpdate** event occurs after changed data in a control or record is updated.|
-|[BeforeNavigate2](7f6c963b-604e-c350-e71f-899fd6258e46.md)|Occurs before navigation occurs in the given  **WebBrowserControl** .|
+|[BeforeNavigate2](7f6c963b-604e-c350-e71f-899fd6258e46.md)|Occurs before navigation occurs in the given  **WebBrowserControl**.|
 |[BeforeUpdate](7523efcc-cbee-d452-8e97-cf75fc6d4270.md)|The  **BeforeUpdate** event occurs before changed data in a control or record is updated.|
 |[Change](382f6017-dc84-a6e3-ec5d-ae6910dc3fcf.md)|The  **Change** event occurs when the contents of the specified control changes.|
 |[Click](3fe2ddc2-f208-3374-3b90-34fd130281ca.md)|The  **Click** event occurs when the user presses and then releases a mouse button over an object.|

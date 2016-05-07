@@ -6,7 +6,7 @@ The  **Close** event occurs when a form is closed and removed from the screen.
 
 ## Syntax
 
- _expression_ . **Close**
+ _expression_. **Close**
 
  _expression_ A variable that represents a **Form** object.
 

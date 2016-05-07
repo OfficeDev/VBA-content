@@ -1,12 +1,12 @@
 
 # ToggleButton.HoverColor Property (Access)
 
-Gets or sets the color displayed on the control when the user rests the mouse cursor over it. Read/write  **Long** .
+Gets or sets the color displayed on the control when the user rests the mouse cursor over it. Read/write  **Long**.
 
 
 ## Syntax
 
- _expression_ . **HoverColor**
+ _expression_. **HoverColor**
 
  _expression_ A variable that represents a **ToggleButton** object.
 

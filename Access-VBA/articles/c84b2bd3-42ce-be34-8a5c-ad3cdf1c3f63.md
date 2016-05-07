@@ -6,7 +6,7 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 
 ## Syntax
 
- _expression_ . **ItemAdded**( **_Reference_** , )
+ _expression_. **ItemAdded**( ** _Reference_**, )
 
  _expression_ A variable that represents a **References** object.
 
@@ -17,7 +17,7 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Reference_|Required| **Reference**|The reference that was added to the project.|
+| _Reference_|Required|**Reference**|The reference that was added to the project.|
 
 ## Remarks
 
@@ -34,7 +34,7 @@ This event occurs only when you add a reference from code. It doesn't occur when
 The following example includes event procedures for the  **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
 
 
-```vb
+```
 ' Declare object variable to represent References collection. 
 Public WithEvents evtReferences As References 
  
@@ -67,7 +67,7 @@ The following Function procedure adds a specified reference. When a reference is
 
 
 
-```vb
+```
 ' Create new instance of RefEvents class. 
 Dim objRefEvents As New RefEvents 
  

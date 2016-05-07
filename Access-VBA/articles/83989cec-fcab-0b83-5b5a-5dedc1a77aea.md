@@ -1,12 +1,12 @@
 
 # ComboBox.ReadingOrder Property (Access)
 
-You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte** .
+You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_ . **ReadingOrder**
+ _expression_. **ReadingOrder**
 
  _expression_ A variable that represents a **ComboBox** object.
 

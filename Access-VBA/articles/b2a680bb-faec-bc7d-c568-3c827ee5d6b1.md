@@ -6,7 +6,7 @@ The  **LostFocus** event occurs when the specified object receives the focus.
 
 ## Syntax
 
- _expression_ . **LostFocus**
+ _expression_. **LostFocus**
 
  _expression_ A variable that represents an **Attachment** object.
 

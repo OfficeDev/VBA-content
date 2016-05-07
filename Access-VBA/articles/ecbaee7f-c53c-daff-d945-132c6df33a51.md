@@ -1,12 +1,12 @@
 
 # NavigationButton.BorderShade Property (Access)
 
-Gets or sets the shade applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single** .
+Gets or sets the shade applied to the theme color in the  **BorderColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_ . **BorderShade**
+ _expression_. **BorderShade**
 
  _expression_ A variable that represents a **NavigationButton** object.
 

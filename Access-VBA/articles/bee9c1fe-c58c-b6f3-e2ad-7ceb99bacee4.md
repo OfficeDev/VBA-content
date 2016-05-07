@@ -1,12 +1,12 @@
 
 # SubForm.SourceObject Property (Access)
 
-You can use the  **SourceObject** property to identify the form or report that is the source of the subform or subreport on a form or report. Read/write **String** .
+You can use the  **SourceObject** property to identify the form or report that is the source of the subform or subreport on a form or report. Read/write **String**.
 
 
 ## Syntax
 
- _expression_ . **SourceObject**
+ _expression_. **SourceObject**
 
  _expression_ A variable that represents a **SubForm** object.
 

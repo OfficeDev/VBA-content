@@ -1,12 +1,12 @@
 
 # BoundObjectFrame.Verb Property (Access)
 
-You can use the  **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate** . Read/write **Long** .
+You can use the  **Verb** property to specify the operation to perform when an OLE object is activated, which is permitted when the control's **Action** property is set to **acOLEActivate**. Read/write **Long**.
 
 
 ## Syntax
 
- _expression_ . **Verb**
+ _expression_. **Verb**
 
  _expression_ A variable that represents a **BoundObjectFrame** object.
 
@@ -21,18 +21,18 @@ If you don't use the  **ObjectVerbs** property to identify a specific verb, you 
 
 |**Constant**|**Description**|
 |:-----|:-----|
-| **acOLEVerbPrimary**|Performs the default operation for the object.|
-| **acOLEVerbShow**|Activates the object for editing.|
-| **acOLEVerbOpen**|Opens the object in a separate application window.|
-| **acOLEVerbHide**|For embedded objects, hides the application that was used to create the object.|
+|**acOLEVerbPrimary**|Performs the default operation for the object.|
+|**acOLEVerbShow**|Activates the object for editing.|
+|**acOLEVerbOpen**|Opens the object in a separate application window.|
+|**acOLEVerbHide**|For embedded objects, hides the application that was used to create the object.|
 With some applications' objects, you can use these additional values. 
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
-| **acOLEVerbInPlaceUIActivate**|Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container.|
-| **acOLEVerbInPlaceActivate**|Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.|
+|**acOLEVerbInPlaceUIActivate**|Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container.|
+|**acOLEVerbInPlaceActivate**|Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.|
 Each object supports its own set of verbs. For example, many objects support the verbs Edit and Play. You can use the  **ObjectVerbs** and **ObjectVerbsCount** properties to find out which verbs are supported by an object.
 
 Microsoft Access automatically uses an object's default verb if the user double-clicks an object for which the  **AutoActivate** property is set to Double-Click.
@@ -43,7 +43,7 @@ Microsoft Access automatically uses an object's default verb if the user double-
 The following example activates the control "OLEUnbound0" in the form "frmOperations" by opening up the OLE object in its own application window for editing. In this case, "OLEUnbound0" contains a new bitmap image, which is linked to the Microsoft Paint program.
 
 
-```vb
+```
 With Forms.Item("frmOperations").Controls.Item("OLEUnbound0") 
  .Action = acOLEActivate 
  .Verb = acOLEVerbOpen 

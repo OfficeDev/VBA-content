@@ -6,7 +6,7 @@ You can use the  **DDERequest** function over an open dynamic data exchange (DDE
 
 ## Syntax
 
- _expression_ . **DDERequest**( **_ChanNum_** , **_Item_** )
+ _expression_. **DDERequest**( ** _ChanNum_**, ** _Item_** )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -17,8 +17,8 @@ You can use the  **DDERequest** function over an open dynamic data exchange (DDE
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ChanNum_|Required| **Variant**|A channel number, the integer returned by the  **DDEInitiate** function.|
-| _Item_|Required| **String**|A string expression that's the name of a data item recognized by the application specified by the  **DDEInitiate** function. Check the application's documentation for a list of possible items.|
+| _ChanNum_|Required|**Variant**|A channel number, the integer returned by the  **DDEInitiate** function.|
+| _Item_|Required|**String**|A string expression that's the name of a data item recognized by the application specified by the  **DDEInitiate** function. Check the application's documentation for a list of possible items.|
 
 ### Return Value
 

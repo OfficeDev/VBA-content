@@ -1,12 +1,12 @@
 
 # Report.OnActivate Property (Access)
 
-Sets or returns the value of the  **On Activate** box in the **Properties** window of a form or report. Read/write **String** .
+Sets or returns the value of the  **On Activate** box in the **Properties** window of a form or report. Read/write **String**.
 
 
 ## Syntax
 
- _expression_ . **OnActivate**
+ _expression_. **OnActivate**
 
  _expression_ A variable that represents a **Report** object.
 

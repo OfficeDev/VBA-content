@@ -23,8 +23,11 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 ## See also
 
 
+#### Concepts
+
+
+[Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
 [TempVars Object Members](5c83c870-c66c-8fd9-0ac6-06766b14a6fc.md)

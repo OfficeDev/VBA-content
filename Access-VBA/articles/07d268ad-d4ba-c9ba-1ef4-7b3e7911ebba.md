@@ -1,12 +1,12 @@
 
 # Attachment.PictureSizeMode Property (Access)
 
-You can use the  **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte** .
+You can use the  **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte**.
 
 
 ## Syntax
 
- _expression_ . **PictureSizeMode**
+ _expression_. **PictureSizeMode**
 
  _expression_ A variable that represents an **Attachment** object.
 

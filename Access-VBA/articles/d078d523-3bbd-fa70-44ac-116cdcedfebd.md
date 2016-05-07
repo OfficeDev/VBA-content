@@ -6,7 +6,7 @@ The  **Requery** method updates the data underlying the specified report by requ
 
 ## Syntax
 
- _expression_ . **Requery**
+ _expression_. **Requery**
 
  _expression_ A variable that represents a **Report** object.
 

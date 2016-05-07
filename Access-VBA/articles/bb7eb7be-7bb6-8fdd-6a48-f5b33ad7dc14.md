@@ -1,12 +1,12 @@
 
 # Form.OnCurrent Property (Access)
 
-Sets or returns the value of the  **On Current** box in the **Properties** window of a form. Read/write **String** .
+Sets or returns the value of the  **On Current** box in the **Properties** window of a form. Read/write **String**.
 
 
 ## Syntax
 
- _expression_ . **OnCurrent**
+ _expression_. **OnCurrent**
 
  _expression_ A variable that represents a **Form** object.
 

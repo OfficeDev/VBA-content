@@ -1,12 +1,12 @@
 
 # Report.MoveLayout Property (Access)
 
-The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean** .
+The  **MoveLayout** property specifies whether Microsoft Access should move to the next printing location on the page. Read/write **Boolean**.
 
 
 ## Syntax
 
- _expression_ . **MoveLayout**
+ _expression_. **MoveLayout**
 
  _expression_ A variable that represents a **Report** object.
 
@@ -19,9 +19,9 @@ The  **MoveLayout** property uses the following settings.
 
 |**Setting**|**Description**|
 |:-----|:-----|
-| **True**|(Default) The section's  **Left** and **Top** properties are advanced to the next print location.|
-| **False**|The section's  **Left** and **Top** properties are unchanged.|
-To set this property, specify an [event procedure](http://msdn.microsoft.com/library/3fa3677b-a779-3bc7-0f0f-827c252b3292%28Office.15%29.aspx)for a section's  **[OnFormat](061652a9-0253-8dc2-a8c0-02daa40d132d.md)** property.
+|**True**|(Default) The section's  **Left** and **Top** properties are advanced to the next print location.|
+|**False**|The section's  **Left** and **Top** properties are unchanged.|
+To set this property, specify an [event procedure](3fa3677b-a779-3bc7-0f0f-827c252b3292.md)for a section's  **[OnFormat](061652a9-0253-8dc2-a8c0-02daa40d132d.md)** property.
 
 Microsoft Access sets this property to  **True** before each section's **Format** event.
 
@@ -31,7 +31,7 @@ Microsoft Access sets this property to  **True** before each section's **Format*
 The following example sets the  **MoveLayout** property for the "Purchase Order" report to its default setting.
 
 
-```vb
+```
 Reports("Purchase Order").MoveLayout = True 
 
 ```

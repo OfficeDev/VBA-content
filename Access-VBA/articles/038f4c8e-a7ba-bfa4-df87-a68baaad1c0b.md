@@ -1,12 +1,12 @@
 
 # Image.GridlineStyleRight Property (Access)
 
-Gets or sets the right gridline style of the specified image control. Read/write  **Byte** .
+Gets or sets the right gridline style of the specified image control. Read/write  **Byte**.
 
 
 ## Syntax
 
- _expression_ . **GridlineStyleRight**
+ _expression_. **GridlineStyleRight**
 
  _expression_ A variable that represents an **Image** object.
 

@@ -24,7 +24,7 @@ In some cases, the custom properties dialog box is the only way to set a propert
 
  **Finding the Custom Properties Dialog Box**
 
-Not all ActiveX controls provide a custom properties dialog box. To see whether a control provides this custom properties dialog box, look for the  **Custom** property in the Microsoft Access property sheet for this control. If the list of properties contains the name **Custom** , then the control provides the custom properties dialog box.
+Not all ActiveX controls provide a custom properties dialog box. To see whether a control provides this custom properties dialog box, look for the  **Custom** property in the Microsoft Access property sheet for this control. If the list of properties contains the name **Custom**, then the control provides the custom properties dialog box.
 
 After you click the  **Custom** property box in the Microsoft Access property sheet, click the **Build** button to the right of the property box to display the control's custom properties dialog box, often presented as a tabbed dialog box. Choose the tab that contains the interface for setting the properties that you want to set.
 
@@ -38,8 +38,11 @@ You can also view the custom properties dialog box by clicking the  **Properties
 ## See also
 
 
+#### Concepts
+
+
+[Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
 #### Other resources
 
 
 [CustomControl Object Members](3093550b-7994-fb58-044c-90e8da535f9d.md)
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

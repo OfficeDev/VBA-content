@@ -1,12 +1,12 @@
 
 # SharedResources.Item Property (Access)
 
-The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object** .
+The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. **Item**( ** _Index_** )
 
  _expression_ A variable that represents a **SharedResources** object.
 
@@ -17,7 +17,7 @@ The  **Item** property returns a specific member of a collection either by posit
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**||
+| _Index_|Required|**Long**||
 
 ## Remarks
 

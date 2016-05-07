@@ -1,12 +1,12 @@
 
 # CodeProject.Path Property (Access)
 
-You can use the  **Path** property to determine the location where data is stored for a Microsoft Access project (.adp) or Microsoft Access database. Read-only **String** .
+You can use the  **Path** property to determine the location where data is stored for a Microsoft Access project (.adp) or Microsoft Access database. Read-only **String**.
 
 
 ## Syntax
 
- _expression_ . **Path**
+ _expression_. **Path**
 
  _expression_ A variable that represents a **CodeProject** object.
 

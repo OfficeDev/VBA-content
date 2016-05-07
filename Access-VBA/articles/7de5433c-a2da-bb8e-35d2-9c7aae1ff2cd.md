@@ -1,12 +1,12 @@
 
 # CustomControl.VarOleObject Property (Access)
 
- Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant** .
+ Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant**.
 
 
 ## Syntax
 
- _expression_ . **VarOleObject**
+ _expression_. **VarOleObject**
 
  _expression_ A variable that represents a **CustomControl** object.
 
@@ -14,7 +14,7 @@
 ## Remarks
 
 
- **Note**  The  **VarOleObject** property is compatible with 32-bit and 64-bit OLE objects. It replaces the **LpOLEObject** , which was available in earlier versions of Microsoft Access.
+ **Note**  The  **VarOleObject** property is compatible with 32-bit and 64-bit OLE objects. It replaces the **LpOLEObject**, which was available in earlier versions of Microsoft Access.
 
 You can use the  **VarOleObject** property to refer to the address of the active OLE object. If no object is displayed, the setting is 0.
 

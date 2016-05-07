@@ -6,14 +6,14 @@ Gets or sets an [AcVerticalAnchor](08f16c8b-1566-cfad-795a-cb65a91c4e52.md) cons
 
 ## Syntax
 
- _expression_ . **VerticalAnchor**
+ _expression_. **VerticalAnchor**
 
  _expression_ A variable that represents a **Control** object.
 
 
 ## Remarks
 
-The default value is  **acVerticalAnchorTop** .
+The default value is  **acVerticalAnchorTop**.
 
 
 ## See also
