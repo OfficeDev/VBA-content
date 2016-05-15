@@ -23,7 +23,7 @@ Use  **[PivotCaches](0a2e7f10-c123-5c98-fb71-56868b9f8bde.md)** ( _index_ ), whe
 
 
 
-```
+```vb
 ActiveWorkbook.PivotCaches(1).Refresh
 ```
 

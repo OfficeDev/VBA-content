@@ -31,7 +31,7 @@ The following example deletes the name "mySortRange" from the active workbook.
 
 
 
-```
+```vb
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
