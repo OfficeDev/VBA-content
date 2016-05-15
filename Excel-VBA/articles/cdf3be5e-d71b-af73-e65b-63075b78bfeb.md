@@ -21,7 +21,7 @@ This property applies to PivotTables that are connected to an OLAP data source. 
 This example sets the name of the currently displayed page of the first PivotTable report on the active worksheet to "USA."
 
 
-```
+```vb
 ActiveSheet.PivotTables("PivotTable1") _ 
  .PivotFields("[Customers]").CurrentPageName = _ 
  "[Customers].[All Customers].[USA]"
