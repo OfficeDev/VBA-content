@@ -34,7 +34,7 @@ If the  **On Mouse Up** box is blank, the property value is an empty string.
 The following example prints the value of the  **OnMouseUp** property in the Immediate window for the button named "OK" on the "Order Entry" form.
 
 
-```
+```vb
 Debug.Print Forms("Order Entry").Controls("OK").OnMouseUp
 ```
 

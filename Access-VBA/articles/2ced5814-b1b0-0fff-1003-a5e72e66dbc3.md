@@ -34,7 +34,7 @@ If the  **On Key Down** box is blank, the property value is an empty string.
 The following example prints the value of the  **OnKeyDown** property in the Immediate window for the button named "OK" on the "Order Entry" form.
 
 
-```
+```vb
 Debug.Print Forms("Order Entry").Controls("OK").OnKeyDown
 ```
 
