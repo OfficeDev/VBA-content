@@ -42,7 +42,7 @@ The following example creates a new 3-D column chart and adds it to the active d
 
 
 
-```
+```vb
 ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn 
 
 ```

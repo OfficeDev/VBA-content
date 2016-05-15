@@ -35,7 +35,7 @@ The DropType parameter can be one of the  **MsoCalloutDropType** constants decla
 This example specifies that the callout line attach to the top of the text bounding box for the first shape in the active publication. For the example to work, the shape must be a callout.
 
 
-```
+```vb
 ActiveDocument.Pages(1).Shapes(1).Callout.PresetDrop DropType:=msoCalloutDropTop
 ```
 

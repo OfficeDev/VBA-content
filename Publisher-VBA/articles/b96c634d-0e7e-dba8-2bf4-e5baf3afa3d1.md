@@ -35,7 +35,7 @@ The  **TextDirection** property value can be one of the **PbTextDirection** cons
 The following example changes the text direction of the first shape on page one so that it flows from right-to-left.
 
 
-```
+```vb
 ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .ParagraphFormat.TextDirection = pbTextDirectionRightToLeft
 ```

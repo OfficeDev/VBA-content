@@ -16,7 +16,7 @@ Returns or sets the emphasis mark for a character or designated character string
 This example sets the emphasis mark over the fourth word in the active document to a comma.
 
 
-```
+```vb
 ActiveDocument.Words(4).EmphasisMark = wdEmphasisMarkOverComma
 ```
 

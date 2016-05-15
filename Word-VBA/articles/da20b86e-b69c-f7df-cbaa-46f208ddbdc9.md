@@ -16,7 +16,7 @@ Returns or sets the spacing (in points) before the specified paragraphs. Read/wr
 This example sets the spacing before all paragraphs in the active document to 12 points.
 
 
-```
+```vb
 ActiveDocument.Range.ParagraphFormat.SpaceBefore = 12
 ```
 

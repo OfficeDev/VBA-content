@@ -21,7 +21,7 @@ When you use the  **ManualHyphenation** method, Word prompts he user to accept o
 This example starts manual hyphenation of the active document.
 
 
-```
+```vb
 ActiveDocument.ManualHyphenation
 ```
 

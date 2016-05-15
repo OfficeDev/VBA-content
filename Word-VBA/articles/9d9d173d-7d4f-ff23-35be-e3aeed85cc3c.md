@@ -16,7 +16,7 @@ Returns a  **Paragraph** object that represents the last item in the collection 
 This example formats the last paragraph in the active document to be right-aligned.
 
 
-```
+```vb
 ActiveDocument.Paragraphs.Last.Alignment = wdAlignParagraphRight
 ```
 

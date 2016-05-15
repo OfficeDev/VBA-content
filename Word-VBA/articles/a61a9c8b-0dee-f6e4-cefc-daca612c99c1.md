@@ -30,7 +30,7 @@ If the document or range contains errors, this method displays the  **Spelling a
 The following example checks the spelling in the active document.
 
 
-```
+```vb
 ActiveDocument.CheckSpelling
 ```
 

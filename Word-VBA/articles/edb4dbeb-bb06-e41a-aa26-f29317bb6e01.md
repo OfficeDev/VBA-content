@@ -16,7 +16,7 @@
 When a header or footer is linked, its contents are the same as in the previous header or footer. Because the  **LinkToPrevious** property is set to **True** by default, you can add headers, footers, and page numbers to your entire document by working with the headers, footers, and page numbers in the first section. For instance, the following example adds page numbers to the header on all pages in all sections of the active document.
 
 
-```
+```vb
 ActiveDocument.Sections(1) _ 
  .Headers(wdHeaderFooterPrimary).PageNumbers.Add
 ```

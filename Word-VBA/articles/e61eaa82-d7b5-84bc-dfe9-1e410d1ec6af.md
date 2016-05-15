@@ -21,7 +21,7 @@ Specifying 0 (zero) sets the number of columns in the index to the same number a
 This example sets the number of columns in the first index to the same number as in the active document.
 
 
-```
+```vb
 ActiveDocument.Indexes(1).NumberOfColumns = 0
 ```
 

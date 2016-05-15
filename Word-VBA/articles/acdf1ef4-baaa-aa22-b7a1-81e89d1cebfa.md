@@ -45,7 +45,7 @@ This example sets the line numbering in the active document equal to the line nu
 
 
 
-```
+```vb
 ActiveDocument.PageSetup.LineNumbering = Documents("MyDocument.doc") _ 
  .PageSetup.LineNumbering
 ```
