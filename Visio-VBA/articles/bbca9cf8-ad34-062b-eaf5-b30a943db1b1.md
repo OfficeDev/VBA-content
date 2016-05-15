@@ -28,7 +28,7 @@ The syntax for the  **FilterExpression** property value is the same as that for 
 The following Visual Basic for Applications (VBA) example shows how to use the  **FilterExpression** property to determine whether a particular shape target must satisfy a validation rule.
 
 
-```
+```vb
 ' The validation function Is1D() returns a Boolean value that 
 ' indicates whether the shape is 1D (True) or 2D (False).
 vsoValidationRule.FilterExpression = "NOT(Is1D())"

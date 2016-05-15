@@ -22,7 +22,7 @@ As with any other variable declaration, unless you specify a [data type](b8bdf64
 
 
 
-```
+```vb
 ' Integer array uses 22 bytes (11 elements * 2 bytes). 
 ReDim MyIntegerArray(10) As Integer 
  
