@@ -21,7 +21,7 @@ The shortcut name is the display name of the document, if that's available; othe
 This example adds a hyperlink to the active presentation to the Favorites folder in the Windows program folder.
 
 
-```
+```vb
 Application.ActivePresentation.AddToFavorites
 ```
 

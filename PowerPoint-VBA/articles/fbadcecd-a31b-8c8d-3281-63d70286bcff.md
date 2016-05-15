@@ -37,7 +37,7 @@ This example appends the contents of the Clipboard to the beginning of the title
 
 
 
-```
+```vb
 Application.ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
     .TextRange.InsertBefore.Paste
