@@ -23,7 +23,7 @@ This property is not surfaced in the property sheet.
 The following code example lightens  **BorderColor** by 75%.
 
 
-```
+```vb
 Me.ctl.BorderTint=25
 ```
 

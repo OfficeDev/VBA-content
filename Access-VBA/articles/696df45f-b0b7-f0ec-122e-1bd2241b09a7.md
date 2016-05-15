@@ -41,7 +41,7 @@ This property is not surfaced in the property sheet.
 The following code example sets the Background Color to the Text 2 color by setting the  **BackThemeColorIndex** property.
 
 
-```
+```vb
 Me.FormHeader.BackThemeColorIndex=2
 ```
 
