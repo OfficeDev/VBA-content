@@ -34,7 +34,7 @@ If the  **On Delete** box is blank, the property value is an empty string.
 The following example associates the  **Delete** event with the "Form_Delete" event for the "Order Entry" form.
 
 
-```
+```vb
 Forms("Order Entry").OnDelete = "[Event Procedure]"
 ```
 

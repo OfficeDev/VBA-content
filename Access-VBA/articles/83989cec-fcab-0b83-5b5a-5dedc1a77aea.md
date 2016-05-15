@@ -30,7 +30,7 @@ In a combo box or list box, the  **ReadingOrder** property determines reading or
 The following example sets the reading order to right to left for the "Address" text box on the "International Shipping" form.
 
 
-```
+```vb
 Forms("International Shipping").Controls("Address").ReadingOrder = 2
 ```
 

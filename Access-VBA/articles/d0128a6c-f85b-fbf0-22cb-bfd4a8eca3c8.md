@@ -18,7 +18,7 @@ The following code illustrates how to call the GetProductID procedure.
 
 
 
-```
+```vb
 Forms!Orders![Orders Subform].Form.GetProductID
 ```
 
