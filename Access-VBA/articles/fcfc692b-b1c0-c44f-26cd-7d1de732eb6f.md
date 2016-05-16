@@ -10,7 +10,7 @@ Whenever a category is selected in the first combo box, its  **[AfterUpdate](89b
 
 
 
-```
+```vb
 Private Sub cboCategories_AfterUpdate() 
  
     ' Update the row source of the cboProducts combo box 

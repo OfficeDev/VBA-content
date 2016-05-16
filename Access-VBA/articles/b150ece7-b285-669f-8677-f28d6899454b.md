@@ -41,7 +41,7 @@ You can also use the  **Scale** method to set the **ScaleHeight**, **ScaleWidth*
 The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
-```
+```vb
 Private Sub Detail_Format(Cancel As Integer, _ 
  FormatCount As Integer) 
  Dim rpt as Report 
