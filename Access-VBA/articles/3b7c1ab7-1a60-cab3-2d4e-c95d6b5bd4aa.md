@@ -34,7 +34,7 @@ You can use the PrintOut action to print the active object in the open database.
 The following example prints two collated copies of the first four pages of the active form or datasheet:
 
 
-```
+```vb
 DoCmd.PrintOut acPages, 1, 4, , 2
 ```
 
