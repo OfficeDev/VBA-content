@@ -25,7 +25,7 @@ This example returns the status of the  ***Bold* and _underline_ with real forma
 
 
 
-```
+```vb
 Dim blnAutoFormat as Boolean 
  
 blnAutoFormat = _ 

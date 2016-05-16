@@ -25,7 +25,7 @@ You can also create a new instance of the form that is being used as a subform, 
 
 
 
-```
+```vb
 Dim frm As New [Form_Orders Subform] 
 frm.GetProductID
 ```

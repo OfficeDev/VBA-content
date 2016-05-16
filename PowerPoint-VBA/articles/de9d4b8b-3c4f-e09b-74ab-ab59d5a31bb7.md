@@ -21,7 +21,7 @@ CellRange
 This example creates a new presentation, adds a slide, inserts a 3x3 table on the slide, and assigns the column and row number to each cell in the table.
 
 
-```
+```vb
 Dim i As Integer
 
 Dim j As Integer

@@ -33,7 +33,7 @@ When the  **MultiRow** property is set to **False** and the width of the tabs ex
 To return the value of the  **MultiRow** property for a tab control named "Details" on the "Order Entry" form, you can use the following:
 
 
-```
+```vb
 Dim b As Boolean 
 b = Forms("Order Entry").Controls("Details").MultiRow
 ```
