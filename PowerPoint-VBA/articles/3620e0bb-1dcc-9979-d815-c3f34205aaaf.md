@@ -21,7 +21,7 @@ PrintOptions
 This example causes hidden slides in the active presentation to be printed, and it scales the printed slides to fit the paper size.
 
 
-```
+```vb
 With Application.ActivePresentation
 
     With .PrintOptions

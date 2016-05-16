@@ -34,7 +34,7 @@ You do not see the effects of setting this property unless the specified shape g
 This example adds a slide after slide one in the active presentation, sets the title text, adds a three-item list to the text placeholder, and sets the list to be built in reverse order.
 
 
-```
+```vb
 With ActivePresentation.Slides.Add(2, ppLayoutText).Shapes
     .Item(1).TextFrame.TextRange.Text = "Top Three Reasons"
     With .Item(2)

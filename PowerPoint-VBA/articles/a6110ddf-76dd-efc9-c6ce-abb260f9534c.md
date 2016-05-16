@@ -28,7 +28,7 @@ The following example sets the font for legend entry one on the first chart in t
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

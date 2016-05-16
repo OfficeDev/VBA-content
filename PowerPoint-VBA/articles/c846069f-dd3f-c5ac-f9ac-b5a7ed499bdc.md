@@ -21,7 +21,7 @@ HeaderFooter
 This example hides the slide number on slide two in the active presentation if the number is currently visible, or it displays the slide number if it is currently hidden.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(2) _
         .HeadersFooters.SlideNumber
     If .Visible Then
