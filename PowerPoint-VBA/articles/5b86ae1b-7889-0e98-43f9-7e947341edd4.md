@@ -25,13 +25,9 @@ This example adds an oval containing text to slide one in the active presentatio
 Set myShapes = ActivePresentation.Slides(1).Shapes
 
 With myShapes.AddShape(Type:=msoShapeOval, Left:=50, _
-
         Top:=50, Width:=300, Height:=150).TextFrame
-
     .TextRange.Text = "Test text"
-
     .Parent.Rotation = 45
-
 End With
 ```
 

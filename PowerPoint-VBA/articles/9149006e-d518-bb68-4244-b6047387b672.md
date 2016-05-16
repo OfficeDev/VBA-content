@@ -42,17 +42,11 @@ This example sets the first-line indent and hanging indent for outline level one
 
 ```
 With Application.ActivePresentation _
-
         .SlideMaster.TextStyles(ppBodyStyle)
-
     With .Ruler.Levels(1)
-
         .FirstMargin = 9
-
         .LeftMargin = 54
-
     End With
-
 End With
 ```
 

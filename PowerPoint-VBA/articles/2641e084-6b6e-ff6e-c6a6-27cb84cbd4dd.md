@@ -23,21 +23,14 @@ This example adds a rounded rectangle to slide one in the active presentation. T
 
 ```
 With Application.ActivePresentation.Slides(1).Shapes
-
     Set tr = .Item(1).TextFrame.TextRange
-
     Set roundRect = .AddShape(msoShapeRoundedRectangle, _
-
         tr.BoundLeft, tr.BoundTop, tr.BoundWidth, tr.BoundHeight)
-
 End With
 
 With roundRect.Fill
-
     .ForeColor.RGB = RGB(255, 0, 128)
-
     .Transparency = 0.75
-
 End With
 ```
 

@@ -27,11 +27,9 @@ Set newSlide = ActivePresentation.Slides(1).Duplicate
 With newSlide
 
     .Background.Fill.PresetGradient msoGradientVertical, _
-
         1, msoGradientGold
 
     .Shapes.Title.TextFrame.TextRange _
-
         .Text = "Second Quarter Earnings"
 
 End With

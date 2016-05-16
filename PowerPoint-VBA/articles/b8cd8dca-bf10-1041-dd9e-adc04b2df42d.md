@@ -47,12 +47,8 @@ This example formats as bold the second, third, and fourth words in the first pa
 
 ```vb
 Application.ActivePresentation.Slides(1).Shapes(2) _
-
     .TextFrame.TextRange.Paragraphs(1).Words(2, 3).Font _
-
     .Bold = True
-
-
 ```
 
 

@@ -36,21 +36,14 @@ This example adds two rectangles to the first slide in the active presentation a
 Set myDocument = ActivePresentation.Slides(1)
 
 Set s = myDocument.Shapes
-
 Set firstRect = s.AddShape(msoShapeRectangle, 100, 50, 200, 100)
-
 Set secondRect = s.AddShape(msoShapeRectangle, 300, 300, 200, 100)
 
 With s.AddConnector(msoConnectorCurve, 0, 0, 100, 100) _
-
         .ConnectorFormat
-
     .BeginConnect ConnectedShape:=firstRect, ConnectionSite:=1
-
     .EndConnect ConnectedShape:=secondRect, ConnectionSite:=1
-
     .Parent.RerouteConnections
-
 End With
 ```
 

@@ -23,19 +23,12 @@ This example hides the slide number on slide two in the active presentation if t
 
 ```
 With Application.ActivePresentation.Slides(2) _
-
         .HeadersFooters.SlideNumber
-
     If .Visible Then
-
         .Visible = False
-
     Else
-
         .Visible = True
-
     End If
-
 End With
 ```
 

@@ -34,31 +34,20 @@ This example sets the background for slide one in the active presentation to a p
 With ActivePresentation.Slides(1)
 
     .FollowMasterBackground = False
-
     .Background.Fill.PresetGradient _
-
         msoGradientHorizontal, 1, msoGradientDaybreak
 
     With .Shapes
-
         .AddShape msoShapeRectangle, 50, 200, 600, 100
-
         .AddShape(msoShapeOval, 75, 150, 150, 100) _
-
             .Fill.Background
-
         .AddShape(msoShapeOval, 275, 150, 150, 100).Fill _
-
             .Transparency = 1
-
         .AddShape(msoShapeOval, 475, 150, 150, 100) _
-
             .Fill.PresetGradient _
-
             msoGradientHorizontal, 1, msoGradientDaybreak
-
     End With
-
+	
 End With
 ```
 

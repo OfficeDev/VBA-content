@@ -38,7 +38,6 @@ This example sets the direction in which cells in the selected table are ordered
 
 ```
 ActiveWindow.Selection.ShapeRange.Table.TableDirection = _
-
     ppDirectionLeftToRight
 ```
 
