@@ -16,7 +16,7 @@ Returns or sets the vertical position of the active document. Read/write  **Long
 This example positions the Word application window 100 points from the top of the screen.
 
 
-```
+```vb
 Application.WindowState = wdWindowStateNormal 
 Application.Top = 100
 ```

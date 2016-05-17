@@ -16,7 +16,7 @@ Returns the number of items in the  **Conflicts** collection. Read-only.
 The following code example gets the number of  **Conflict** objects in the active document.
 
 
-```
+```vb
 Dim confCount as Long 
  
 confCount = ActiveDocument.CoAuthoring.Conflicts.Count 

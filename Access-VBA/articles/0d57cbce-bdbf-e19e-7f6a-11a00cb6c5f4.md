@@ -63,7 +63,7 @@ To try the example, add the following event procedure to a form named Products t
 
 
 
-```
+```vb
 Private Sub ProductName_BeforeUpdate(Cancel As Integer) 
  If(Not IsNull(DLookup("[ProductName]", _ 
  "Products", "[ProductName] ='" _ 

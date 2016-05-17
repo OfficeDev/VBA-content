@@ -21,23 +21,16 @@ Single
 This example adds a rounded rectangle to slide one in the active presentation. The rectangle has the same dimensions as the text bounding box for shape one.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(1).Shapes
-
     Set tr = .Item(1).TextFrame.TextRange
-
     Set roundRect = .AddShape(msoShapeRoundedRectangle, _
-
         tr.BoundLeft, tr.BoundTop, tr.BoundWidth, tr.BoundHeight)
-
 End With
 
 With roundRect.Fill
-
     .ForeColor.RGB = RGB(255, 0, 128)
-
     .Transparency = 0.75
-
 End With
 ```
 

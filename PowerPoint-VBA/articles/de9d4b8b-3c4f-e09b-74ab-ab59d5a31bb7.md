@@ -21,29 +21,20 @@ CellRange
 This example creates a new presentation, adds a slide, inserts a 3x3 table on the slide, and assigns the column and row number to each cell in the table.
 
 
-```
+```vb
 Dim i As Integer
 
 Dim j As Integer
 
 With Presentations.Add
-
     .Slides.Add(1, ppLayoutBlank).Shapes.AddTable(3, 3).Select
-
     Set myTable = .Slides(1).Shapes(1).Table
-
     For i = 1 To myTable.Columns.Count
-
         For j = 1 To myTable.Columns(i).Cells.Count
-
             myTable.Columns(i).Cells(j).Shape.TextFrame _
-
                 .TextRange.Text = "col. " &amp; i &amp; "row " &amp; j
-
         Next j
-
     Next i
-
 End With
 ```
 

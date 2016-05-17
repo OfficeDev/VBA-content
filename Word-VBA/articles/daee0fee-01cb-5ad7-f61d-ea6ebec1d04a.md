@@ -30,7 +30,7 @@ Nothing
 The following example inserts the specified XML string into the document at the fifth paragraph. This replaces any text contained within the fifth paragraph.
 
 
-```
+```vb
 Dim strXML As String 
  
 strXML = "<?xml version=""1.0""?><abc:books xmlns:abc=""urn:books"" " &amp; _ 

@@ -28,14 +28,14 @@ The  **Item** property is the default member of a collection, so you don't have 
 
 
 
-```
+```vb
 Debug.Print Modules(0)
 ```
 
 
 
 
-```
+```vb
 Debug.Print Modules.Item(0)
 ```
 

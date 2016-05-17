@@ -34,7 +34,7 @@ If the  **On Current** box is blank, the property value is an empty string.
 The following example associates the  **Current** event with the macro "Current_Macro" for the "Order Entry" form.
 
 
-```
+```vb
 Forms("Order Entry").OnDeactivate = "Current_Macro" 
 
 ```

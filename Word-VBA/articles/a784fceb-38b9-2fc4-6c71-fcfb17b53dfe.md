@@ -21,7 +21,7 @@ Nothing
 The following code example activates the next protected view window in the [ProtectedViewWindows](62c2f4d5-1080-548e-730b-388308144dfe.md) collection.
 
 
-```
+```vb
 Dim pvWindow As ProtectedViewWindow 
  
 ' At least one document must be open in protected view for this statement to execute. 

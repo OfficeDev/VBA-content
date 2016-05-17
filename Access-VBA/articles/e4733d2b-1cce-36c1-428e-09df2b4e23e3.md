@@ -40,7 +40,7 @@ You can use the  **SetFocus** method to move the focus to a subform, which is a 
 The following example uses the  **SetFocus** method to move the focus to an EmployeeID text box on an Employees form:
 
 
-```
+```vb
 Forms!Employees!EmployeeID.SetFocus
 ```
 

@@ -23,17 +23,12 @@ The following example uses an array to set individual category names for the fir
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
-
     If .HasChart Then
-
         .Chart.Axes(xlCategory).CategoryNames = _
-
             Array ("1985", "1986", "1987", "1988", "1989")
-
     End If
-
 End With
 ```
 

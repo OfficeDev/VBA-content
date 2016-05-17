@@ -35,7 +35,7 @@ The following example sets the category axis to use a time scale and sets the ma
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

@@ -25,7 +25,7 @@ Runs a Visual Basic macro.
 The MacroName parameter can be any combination of template, module, and macro name. For example, the following statements are all valid.
 
 
-```
+```vb
 Application.Run "Normal.Module1.MAIN" 
 Application.Run "MyProject.MyModule.MyProcedure" 
 Application.Run "'My Document.doc'!ThisModule.ThisProcedure"

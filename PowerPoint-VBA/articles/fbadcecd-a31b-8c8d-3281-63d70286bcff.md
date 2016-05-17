@@ -24,7 +24,7 @@ Appends a string to the beginning of the specified text range. Returns a  **Text
 This example appends the string "Test version: " to the beginning of the title on slide one in the active presentation.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(1).Shapes(1)
 
     .TextFrame.TextRange.InsertBefore "Test version: "
@@ -37,9 +37,8 @@ This example appends the contents of the Clipboard to the beginning of the title
 
 
 
-```
+```vb
 Application.ActivePresentation.Slides(1).Shapes(1).TextFrame _
-
     .TextRange.InsertBefore.Paste
 ```
 

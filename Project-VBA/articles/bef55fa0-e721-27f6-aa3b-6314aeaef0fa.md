@@ -29,7 +29,7 @@ Overallocated assignments are not possible on milestones, placeholder tasks, or 
 The following command returns the number of overallocated assignments where resources are working on other tasks.
 
 
-```
+```vb
 Debug.Print ActiveProject.Tasks(2).StartDriver.OverAllocatedAssignments(pjOverallocationTypeWorkingOnOtherTasks).Count
 ```
 

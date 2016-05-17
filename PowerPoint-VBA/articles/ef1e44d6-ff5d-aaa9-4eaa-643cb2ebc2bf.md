@@ -28,7 +28,6 @@ This example sets the complex script font to Times New Roman.
 
 ```
 ActivePresentation.Slides(1).Shapes.Title.TextFrame _
-
     .TextRange.Font.NameComplexScript = "Times New Roman"
 ```
 

@@ -40,19 +40,13 @@ Minimum (RulerLevel(index). **LeftMargin** ) = Maximum(RulerLevel(index -1).Firs
 This example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
 
 
-```
+```vb
 With Application.ActivePresentation _
-
         .SlideMaster.TextStyles(ppBodyStyle)
-
     With .Ruler.Levels(1)
-
         .FirstMargin = 9
-
         .LeftMargin = 54
-
     End With
-
 End With
 ```
 

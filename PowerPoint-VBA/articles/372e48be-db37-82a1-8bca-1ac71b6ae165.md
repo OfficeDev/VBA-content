@@ -21,7 +21,7 @@ Long
 This example closes all windows except the active window.
 
 
-```
+```vb
 With Application.Windows
 
     For i = 2 To .Count

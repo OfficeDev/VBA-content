@@ -36,7 +36,7 @@ This example displays the name of the application that created each linked OLE o
 
 
 
-```
+```vb
 For Each shpOle In ActivePresentation.Slides(1).Shapes
 
     If shpOle.Type = msoLinkedOLEObject Then

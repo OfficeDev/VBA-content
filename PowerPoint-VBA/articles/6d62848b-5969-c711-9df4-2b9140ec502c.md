@@ -26,7 +26,7 @@ The  **SlideNumber** property of a **Slide** object is the actual number that ap
 This example shows how changing the first slide number affects the slide number of a specific slide.
 
 
-```
+```vb
 With Application.ActivePresentation
 
     .PageSetup.FirstSlideNumber = 1   'starts slide numbering at 1

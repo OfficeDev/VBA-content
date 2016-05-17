@@ -11,17 +11,11 @@ Use [Behaviors](e5335758-2f92-ccbc-a665-b6d5947e79f2.md)(index), where index is 
 
 ```
 Sub Change()
-
     With ActivePresentation.Slides(1).TimeLine.MainSequence(1) _
-
             .Behaviors(1).RotationEffect
-
         .From = 1
-
         .To = 180
-
     End With
-
 End Sub
 ```
 

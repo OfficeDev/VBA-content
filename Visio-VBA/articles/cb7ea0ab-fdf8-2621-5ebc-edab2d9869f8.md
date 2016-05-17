@@ -34,7 +34,7 @@ The collection of layers is one-based, so the index of the first layer in the co
 The following code gets a value that indicates whether the layer at index position 1 is deleted.
 
 
-```
+```vb
 Debug.Print vsoViewer.LayerDeleted(1)
 ```
 

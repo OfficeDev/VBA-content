@@ -7,7 +7,7 @@ The following example shows how to assign a  **Recordset** object to the records
 
 
 
-```
+```vb
 Dim rstOrders As DAO.Recordset 
  
 Set rstOrders = Forms!Orders.RecordsetClone 

@@ -36,7 +36,7 @@ If you pass the value that the  **[LastErrorCode](cbef3230-128c-3976-04da-eec6da
 The following code shows how to use the  **GetErrorMessage** method to get a description of the last error code that Visio Viewer returned.
 
 
-```
+```vb
 Debug.Print vsoViewer.GetErrorMessage(vsoViewer.LastErrorCode)
 ```
 

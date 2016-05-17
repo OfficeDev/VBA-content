@@ -42,7 +42,7 @@ The index number represents the position of the legend entry in the legend.  `Le
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

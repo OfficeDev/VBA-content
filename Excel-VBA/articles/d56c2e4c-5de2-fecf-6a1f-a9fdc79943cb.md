@@ -24,7 +24,7 @@ Deletes a custom number format from the workbook.
 This example deletes the number format "000-00-0000" from the active workbook.
 
 
-```
+```vb
 ActiveWorkbook.DeleteNumberFormat("000-00-0000")
 ```
 

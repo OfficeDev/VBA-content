@@ -55,7 +55,7 @@ To try this example, add the following event procedure to an Orders form that co
 
 
 
-```
+```vb
 Private Sub Form_ApplyFilter(Cancel As Integer, ApplyType As Integer) 
  If Not IsNull(Me.Filter) And (InStr(Me.Filter, "Orders.Paid = -1")>0 _ 
  Or InStr(Me.Filter, "Orders.Paid = True")>0)Then 

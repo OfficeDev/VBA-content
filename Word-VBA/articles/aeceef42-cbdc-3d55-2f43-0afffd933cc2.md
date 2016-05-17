@@ -24,8 +24,8 @@ This example displays the style for each character in the selection.
  **Note**  Each element of the  **Characters** collection is a **Range** object.
 
 
-```
-For each c in Selection.Characters 
+```vb
+For Each c in Selection.Characters 
  MsgBox c.Style 
 Next c
 ```

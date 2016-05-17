@@ -25,7 +25,7 @@ The first time you save a workbook, use the  **[SaveAs](fbc3ce55-27a3-aa07-3fdb-
 This example saves the active workbook.
 
 
-```
+```vb
 ActiveWorkbook.Save
 ```
 
