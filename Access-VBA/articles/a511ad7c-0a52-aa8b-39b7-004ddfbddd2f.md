@@ -10,8 +10,7 @@ This example uses the [AppendChunk](3fa931a3-2cd7-a3b0-a750-40e18bc9937e.md) and
 
 
 
-```
- 
+```cpp
 // BeginAppendChunkCpp 
 #import "C:\Program Files\Common Files\System\ADO\msado15.dll" no_namespace rename("EOF", "EndOfFile") 
  
@@ -288,8 +287,7 @@ VOID PrintProviderError(_ConnectionPtr pConnection)
 
 
 
-```
- 
+```cpp
 // BeginAppendChunkH 
 #include "icrsint.h" 
  

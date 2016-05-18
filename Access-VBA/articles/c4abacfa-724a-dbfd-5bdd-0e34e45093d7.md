@@ -10,8 +10,7 @@ This example uses the [MoveFirst](d04ce41c-77c9-df42-115a-65c50a38518a.md), [Mov
 
 
 
-```
- 
+```cpp
 // BeginMoveFirstCpp 
 #include <ole2.h> 
 #include <stdio.h> 

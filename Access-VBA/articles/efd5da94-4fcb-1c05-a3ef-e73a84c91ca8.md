@@ -10,8 +10,7 @@ This example uses the [Append](cca133af-2b95-877d-0488-0d99631623f2.md) and[Crea
 
 
 
-```
- 
+```java
 // BeginAppendJ 
 import com.ms.wfc.data.*; 
 import java.io.*; 
