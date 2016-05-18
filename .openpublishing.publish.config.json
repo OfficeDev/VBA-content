@@ -124,7 +124,7 @@
             }
         }  
     ],
-    "notification_subscribers": ["lauragra@microsoft.com"], 
+    "notification_subscribers": ["lauragra@microsoft.com", "saldana@microsoft.com"], 
     "branches_to_filter": ["live"] 
 
 }
