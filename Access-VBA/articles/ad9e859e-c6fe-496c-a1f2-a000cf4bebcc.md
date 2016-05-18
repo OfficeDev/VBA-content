@@ -191,7 +191,7 @@ The following example shows how to execute a parameter query. The  **Parameters*
 
 
 
-```
+```vb
 Public Sub ExecParameterQuery()
 
     Dim dbs As DAO.Database
