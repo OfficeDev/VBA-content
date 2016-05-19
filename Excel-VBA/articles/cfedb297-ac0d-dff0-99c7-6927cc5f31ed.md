@@ -40,7 +40,7 @@ Use the  **Name** property to return or set the text of the name itself. The fol
 
 
 
-```
+```vb
 Names(1).Name = "stock_values"
 ```
 
