@@ -10,9 +10,8 @@ This example demonstrates the [Append](c3245a24-55b8-3f3f-1c4a-43a119d84dc8.md) 
 
 
 
-```
- 
-' BeginGroupVB 
+```vb
+'BeginGroupVB 
 Sub Main() 
  On Error GoTo GroupXError 
  
