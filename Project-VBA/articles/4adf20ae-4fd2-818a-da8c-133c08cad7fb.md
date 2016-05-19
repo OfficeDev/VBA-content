@@ -34,7 +34,7 @@ In the Resource Graph,  **SelectBeginning** selects the resource with the lowest
 The following example selects the "Name" field of row 4 as the beginning field in the Gantt Chart.
 
 
-```
+```vb
 Sub Select_Beginning() 
  
  ViewApply Name:="&amp;Gantt Chart" 

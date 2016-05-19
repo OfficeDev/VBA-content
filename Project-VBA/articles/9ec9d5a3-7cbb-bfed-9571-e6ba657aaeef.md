@@ -53,7 +53,7 @@ Using the  **GanttBarFormatEx** method without specifying any arguments displays
 The following example displays a medium red diamond shape for the start of the task with the Task ID of 3.
 
 
-```
+```vb
 Sub GanttBar_Format() 
  
     'Activate Gantt Chart view 

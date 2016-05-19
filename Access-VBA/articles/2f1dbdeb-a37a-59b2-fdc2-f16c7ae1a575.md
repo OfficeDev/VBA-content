@@ -51,7 +51,7 @@ You can use the  **Required** property along with the **[AllowZeroLength](5103a9
 This example uses the  **Required** property to report which fields in three different tables must contain data in order for a new record to be added. The RequiredOutput procedure is required for this procedure to run.
 
 
-```
+```vb
 Sub RequiredX() 
  
  Dim dbsNorthwind As Database 

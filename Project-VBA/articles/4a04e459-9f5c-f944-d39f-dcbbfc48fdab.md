@@ -39,7 +39,7 @@ Using the  **UpdateTasks** method without specifying any arguments displays the 
 The following example creates a task named "TestTask-1", updates the task to 50% complete, and then deletes the task. 
 
 
-```
+```vb
 Sub Update_Tasks() 
  
  'Activate Gantt Chart 

@@ -14,7 +14,7 @@ A policy item cannot exist outside the scope of a policy. Policy items are disti
 The following example lists the name and description of all of the policy items for the active document.
 
 
-```
+```vb
 Sub ListPolicyItems() 
 Dim objSrvPolicy As ServerPolicy 
 Dim objPolicyItem As PolicyItem 

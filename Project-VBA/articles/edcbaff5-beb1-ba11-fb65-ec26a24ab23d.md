@@ -35,7 +35,7 @@ The PjVisualReportsDataLevel parameter specifies the level to which the timephas
 Following is an example of using The  **VisualReportsSaveDatabase** method.
 
 
-```
+```vb
 Sub a() 
  Dim tf As Boolean 
  tf = Application.VisualReportsSaveDatabase("C:\mydb.mdb", pjLevelAutomatic) 

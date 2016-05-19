@@ -77,7 +77,7 @@ To close a database, and thus remove the  **Database** object from the **Databas
 This example uses the  **OpenDatabase** method to open one Microsoft Access database and two Microsoft Access database engine-connected ODBC databases.
 
 
-```
+```vb
 Sub OpenDatabaseX() 
  
  Dim wrkAcc As Workspace 
