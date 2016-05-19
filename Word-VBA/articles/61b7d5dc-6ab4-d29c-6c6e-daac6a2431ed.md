@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example adds a frame around the selection and returns a frame object to the myFrame variable.
 
 
-```
+```vb
 Set myFrame = ActiveDocument.Frames.Add(Range:=Selection.Range)
 ```
 

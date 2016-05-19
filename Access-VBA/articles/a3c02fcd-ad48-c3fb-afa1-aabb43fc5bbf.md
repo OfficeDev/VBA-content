@@ -4,7 +4,7 @@
 Multivalued fields are represented as  **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** objects in DAO. The recordset for a field is a child of the recordset for the table that contains the multivalued field. To instantiate the child recordset, use the **Value** property of the multivalued field as follows.
 
 
-```
+```vb
 Set childRs = rs.<multi-valued field>.Value
 ```
 
@@ -15,8 +15,8 @@ The following code example shows how to instantiate the child recordset of the A
 
 
 ```vb
-   Set rs  = db.OpenRecordSet("Tasks") 
-   Set childRs = rs.AssignedTo.Value 
+Set rs  = db.OpenRecordSet("Tasks") 
+Set childRs = rs.AssignedTo.Value 
 
 ```
 

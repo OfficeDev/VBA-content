@@ -33,7 +33,7 @@ Shape
 This example adds a vertical label that contains the text "Test Label" to  `myDocument`.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes.AddLabel(msoTextOrientationVertical, _ 
     100, 100, 60, 150) _ 

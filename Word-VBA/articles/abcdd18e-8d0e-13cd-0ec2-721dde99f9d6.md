@@ -15,7 +15,7 @@ Set Range2 = ActiveDocument.Words(2)
 The following instruction assigns a range variable named  `Range2` to represent the same location as `Range1`.
 
 
-```
+```vb
 Set Range2 = Range1
 ```
 
@@ -38,7 +38,7 @@ The ranges ( `Range2` and and `Range1`) have the same contents, but they may poi
 The following instruction creates a new duplicated  **Range** object, `Range2`, which has the same start and endpoints and text as  `Range1`.
 
 
-```
+```vb
 Set Range2 = Range1.Duplicate
 ```
 

@@ -16,7 +16,7 @@ Returns a numeric value that specifies an error. The error number corresponds to
 This example displays the error number and other error information returned by the most recent OLE DB query.
 
 
-```
+```vb
 Set objEr = Application.OLEDBErrors(1) 
 MsgBox "The following error occurred:" &amp; _ 
  objEr.Number &amp; ", " &amp; objEr.Native &amp; ", " &amp; _ 

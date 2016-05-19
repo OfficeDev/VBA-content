@@ -20,7 +20,7 @@ Use  **ReadabilityStatistics** (Index), where Index is the index number, to retu
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Content 
 wordval = myRange.ReadabilityStatistics(1).Value 
 Msgbox wordval

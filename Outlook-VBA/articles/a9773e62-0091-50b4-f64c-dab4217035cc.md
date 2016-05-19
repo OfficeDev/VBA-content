@@ -16,12 +16,12 @@ Returns the  **[NameSpace](f0dcaa19-07f5-5d42-a3bf-2e42b7885644.md)** object for
 The  **Session** property and the **[Application.GetNamespace](6175d0d9-5a61-ce45-35c0-b70895d757b3.md)** method can be used interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements perform the same function:
 
 
-```
+```vb
 Set objNamespace = Application.GetNamespace("MAPI") 
 ```
 
 
-```
+```vb
 Set objSession = Application.Session
 ```
 

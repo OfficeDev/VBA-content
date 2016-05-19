@@ -16,7 +16,7 @@ Returns a  **Style** object that represents the style associated with the curren
 This example returns the style associated with the current author for unsent replies, forwards, or new e-mail messages and displays the name of the font associated with this style.
 
 
-```
+```vb
 Set MyEmailStyle = _ 
  ActiveDocument.Email.CurrentEmailAuthor.Style 
 Msgbox MyEmailStyle.Font.Name

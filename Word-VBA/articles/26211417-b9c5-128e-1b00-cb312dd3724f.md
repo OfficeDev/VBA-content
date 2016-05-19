@@ -30,7 +30,7 @@ This example accepts all tracked changes in the first paragraph in the selection
 
 
 
-```
+```vb
 Set myRange = Selection.Paragraphs(1).Range 
 myRange.Revisions.AcceptAll
 ```

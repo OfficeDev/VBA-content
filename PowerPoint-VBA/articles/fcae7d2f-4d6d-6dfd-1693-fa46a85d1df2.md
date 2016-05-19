@@ -54,7 +54,7 @@ The value of the  **PresetThreeDFormat** property can be one of these **MsoPrese
 This example sets the extrusion format for shape one on  `myDocument` to 3D Style 12 if the shape initially has a custom extrusion format.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes(1).ThreeD

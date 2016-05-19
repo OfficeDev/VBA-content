@@ -16,7 +16,7 @@ Returns a  **[PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** object that
 This example sets the current page for the PivotTable report on Sheet1 to the page named "Canada."
 
 
-```
+```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 pvtTable.PivotFields("Country").CurrentPage = "Canada"
 ```
@@ -26,7 +26,7 @@ This example determines the PivotTable report associated with the Sales chart on
 
 
 
-```
+```vb
 Set objPT = _ 
  ActiveSheet.Charts("Sales").PivotLayout.PivotTable 
 objPT.PivotFields("State").CurrentPageName = "Oregon"

@@ -34,7 +34,7 @@ This method isn?t available for OLAP data sources.
 This example creates a new PivotTable report for each item in the page field, which is the field named ?Country.?
 
 
-```
+```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
 pvtTable.ShowPages "Country"
 ```
