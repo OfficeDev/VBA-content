@@ -9,7 +9,7 @@ A collection of  **[Range](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)** objects th
 Use the  **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
 
 
-```
+```vb
 MsgBox Selection.Sentences.Count &amp; " sentences are selected"
 ```
 

@@ -16,7 +16,7 @@
 This example displays the status of the  **ProtectionMode** property.
 
 
-```
+```vb
 MsgBox ActiveSheet.ProtectionMode
 ```
 

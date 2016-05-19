@@ -21,7 +21,7 @@ Punctuation and paragraph marks in a document are included in the  **[Words](a71
 This example displays the number of words in the selection. Paragraphs marks, partial words, and punctuation are included in the count.
 
 
-```
+```vb
 MsgBox "There are " &amp; Selection.Words.Count &amp; " words."
 ```
 

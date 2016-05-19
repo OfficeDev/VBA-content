@@ -21,7 +21,7 @@ You can use the  **Path** property to determine the location of information stor
 The following example displays a message indicating the disk location of the current Access project or database.
 
 
-```
+```vb
 MsgBox "The current database is located at " &amp; Application.CurrentProject.Path &amp; "." 
  
 

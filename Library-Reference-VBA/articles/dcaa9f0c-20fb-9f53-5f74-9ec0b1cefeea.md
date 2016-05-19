@@ -9,7 +9,7 @@ Represents a COM add-in in the Microsoft Office host application. The  **COMAddI
 Use  **COMAddIns.Item(index)**, where _index_ is either an ordinal value that returns the COM add-in at that position in the **COMAddIns** collection, or a **String** value that represents the ProgID of the specified COM add-in. The following example displays a COM add-in's description text in a message box.
 
 
-```
+```vb
 MsgBox Application.COMAddIns.Item("msodraa9.ShapeSelect").Description
 ```
 
@@ -18,7 +18,7 @@ Use the  **ProgID** property of the **COMAddin** object to return the programmat
 
 
 
-```
+```vb
 MsgBox "My ProgID is " &amp; _ 
  Application.COMAddIns(1).ProgID &amp; _ 
  " and my GUID is " &amp; _ 

@@ -21,7 +21,7 @@ String
 The following example displays the version and build number of the currently-installed copy of Publisher.
 
 
-```
+```vb
 MsgBox "You are currently running Microsoft Publisher, " _ 
  &amp; " version " &amp; Application.Version &amp; ", build " _ 
  &amp; Application.Build &amp; "." 
