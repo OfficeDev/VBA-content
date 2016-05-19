@@ -30,8 +30,8 @@ The  **Switch** function[argument](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) list
 This example uses the  **Switch** function to return the name of a language that matches the name of a city.
 
 
-```
-Function MatchUp (CityName As String)
+```vb
+Function MatchUp(CityName As String)
     Matchup = Switch(CityName = "London", "English", CityName _
                     = "Rome", "Italian", CityName = "Paris", "French")
 End Function
