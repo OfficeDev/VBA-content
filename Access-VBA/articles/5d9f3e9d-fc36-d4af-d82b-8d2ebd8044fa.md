@@ -40,7 +40,7 @@ To specify an Open Database Connectivity (ODBC) database, enter the name of the 
 
 
 
-```
+```text
 ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
 ```
 

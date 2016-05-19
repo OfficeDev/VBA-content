@@ -63,7 +63,7 @@ adoR->QueryInterface(__uuidof(ADORecordConstruction),
 
 3. Call the  **IADORecordConstruction::put_Row** property method to set the OLE DB **Row** object on the ADO **Record** object:
     
-  ```
+```cpp
   IUnknown *pUnk=NULL;
 pRow->QueryInterface(IID_IUnknown, (void**)&amp;pUnk);
 adoRConstruct->put_Row(pUnk);
