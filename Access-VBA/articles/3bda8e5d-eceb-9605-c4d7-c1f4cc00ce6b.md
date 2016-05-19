@@ -31,8 +31,7 @@ Thus, you should find that the  **Recordset** **Fields** collection contains thr
 
 
 
-```
- 
+```vb
 'BeginWalkFields 
  Dim objFields As ADODB.Fields 
  
@@ -94,9 +93,8 @@ Developers often need a place to temporarily store some data, or want some data 
 
 
 
-```
- 
- 'BeginFabricate 
+```vb
+'BeginFabricate 
  Dim objRs As New ADODB.Recordset 
  
  With objRs.Fields 

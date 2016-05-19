@@ -10,9 +10,8 @@ Though not a typical usage of the  **Command** object, the following code shows 
 
 
 
-```
- 
- 'BeginBasicCmd 
+```vb
+'BeginBasicCmd 
  On Error GoTo ErrHandler: 
  
  Dim objConn As New ADODB.Connection 
@@ -76,8 +75,7 @@ The command to be executed is specified with the  **CommandText** property.
 
 
 
-```
- 
+```vb
 'BeginNewConnection 
 Private Function GetNewConnection() As ADODB.Connection 
  Dim oCn As New ADODB.Connection 

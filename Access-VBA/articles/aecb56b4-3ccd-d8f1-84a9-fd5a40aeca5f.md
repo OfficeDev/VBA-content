@@ -12,8 +12,7 @@ First, access and save the  ** _Authors_** table.
 
 
 
-```
- 
+```vb
 'BeginSaveVB 
  
  'To integrate this code 
@@ -73,8 +72,7 @@ At this point, you have arrived at your destination. You will access the  ** _Au
 
 
 
-```
- 
+```vb
 'BeginSave2VB 
 Public Sub Main() 
  On Error GoTo ErrorHandler 
@@ -124,8 +122,7 @@ Finally, you return home. Now update the database with your changes.
 
 
 
-```
- 
+```vb
 'BeginSave3VB 
 Public Sub Main() 
  On Error GoTo ErrorHandler 
