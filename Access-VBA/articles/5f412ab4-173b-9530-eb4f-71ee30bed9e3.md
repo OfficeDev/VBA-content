@@ -41,7 +41,7 @@ In this case, the ValidParts table is the foreign table, so the  **ForeignTable*
 This example shows how the  **Table**, **ForeignTable**, and **ForeignName** properties define the terms of a **Relation** between two tables.
 
 
-```
+```vb
 Sub ForeignNameX() 
  
  Dim dbsNorthwind As Database 
