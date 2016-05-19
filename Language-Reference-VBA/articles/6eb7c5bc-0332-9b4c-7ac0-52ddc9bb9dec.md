@@ -82,7 +82,7 @@ Put #1,,VarString$
 This example uses the  **Put** statement to write data to a file. Five records of the user-defined type are written to the file.
 
 
-```
+```vb
 Type Record ' Define user-defined type. 
  ID As Integer 
  Name As String * 20 
