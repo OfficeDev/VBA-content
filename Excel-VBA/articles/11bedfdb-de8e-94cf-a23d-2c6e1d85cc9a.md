@@ -48,7 +48,7 @@ This example creates a new series on the embedded chart on Sheet1.
 
 
 
-```
+```vb
 Worksheets("Sheet1").ChartObjects(1).Activate 
 ActiveChart.SeriesCollection.Add _ 
  Source:=Worksheets("Sheet1").Range("B1:B10")

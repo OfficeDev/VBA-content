@@ -29,7 +29,7 @@ Returns or sets the type of underline applied to the font. Can be one of the fol
 This example sets the font in the active cell on Sheet1 to single underline.
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 ActiveCell.Font.Underline = xlUnderlineStyleSingle
 ```

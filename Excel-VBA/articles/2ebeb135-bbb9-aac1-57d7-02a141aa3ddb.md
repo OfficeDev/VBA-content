@@ -35,7 +35,7 @@ You must specify at least one argument.
 This example displays row levels one through three and column level one of the outline on Sheet1.
 
 
-```
+```vb
 Worksheets("Sheet1").Outline _ 
  .ShowLevels rowLevels:=3, columnLevels:=1
 ```
