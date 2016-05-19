@@ -56,7 +56,7 @@ To remove a  **QueryDef** object from a **QueryDefs** collection in a Microsoft 
 This example uses the  **CreateQueryDef** method to create and execute both a temporary and a permanent **QueryDef**. The **GetrstTemp** function is required for this procedure to run.
 
 
-```
+```vb
 Sub CreateQueryDefX() 
  
    Dim dbsNorthwind As Database 
@@ -113,7 +113,7 @@ This example uses the  **CreateQueryDef** and **OpenRecordset** methods and the 
 
 
 
-```
+```vb
 Sub ClientServerX2() 
  
    Dim dbsCurrent As Database 
@@ -186,7 +186,7 @@ The following example shows how to create a parameter query. A query named  **my
 
 
 
-```
+```vb
 Sub CreateQueryWithParameters()
 
     Dim dbs As DAO.Database

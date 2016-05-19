@@ -53,7 +53,7 @@ To create a new  **Relation** object, use the **CreateRelation** method. To refe
 This example shows how an existing  **Relation** object can control data entry. The procedure attempts to add a record with a deliberately incorrect CategoryID; this triggers the error-handling routine.
 
 
-```
+```vb
 Sub RelationX() 
  
  Dim dbsNorthwind As Database 
@@ -116,7 +116,7 @@ This example uses the  **CreateRelation** method to create a **Relation** betwee
 
 
 
-```
+```vb
 Sub CreateRelationX() 
  
  Dim dbsNorthwind As Database 

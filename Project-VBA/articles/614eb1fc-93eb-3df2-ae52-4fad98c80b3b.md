@@ -30,7 +30,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
 This example has the same effect as collapsing the entire outline, including any tasks from subprojects.
 
 
-```
+```vb
 Sub CollapseOutline() 
  Application.OutlineShowTasks pjTaskOutlineShowLevel1, True 
 End Sub

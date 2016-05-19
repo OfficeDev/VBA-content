@@ -57,7 +57,7 @@ Closing a [Connection](c16023aa-0321-2513-ee71-255d6ffba03d.md) object that was 
 
 
 
-```
+```vb
 Sub CloseConnection() 
  On Error GoTo CloseConnectionError 
  

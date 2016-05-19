@@ -53,7 +53,7 @@ To remove a  **TableDef** object from the **[TableDefs](a2986b02-0437-d6ac-7bbb-
 This example creates a new  **TableDef** object in the Northwind database.
 
 
-```
+```vb
 Sub CreateTableDefX() 
  
  Dim dbsNorthwind As Database 
@@ -120,7 +120,7 @@ This example uses the  **CreateTableDef** and **FillCache** methods and the **Ca
 
 
 
-```
+```vb
 Sub ClientServerX3() 
  
  Dim dbsCurrent As Database 
