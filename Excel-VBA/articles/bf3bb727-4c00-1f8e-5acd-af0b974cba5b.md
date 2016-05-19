@@ -37,7 +37,7 @@ PivotFilter
 Following are some examples of how to use the  **Add** function correctly.
 
 
-```
+```vb
 ActiveCell.PivotField.PivotFilters.Add FilterType := xlThisWeek 
  
 ActiveCell.PivotField.PivotFilters.Add FilterType := xlTopCount DataField := MyPivotField2 Value1 := 10 
@@ -53,7 +53,7 @@ The following example returns a run-time error because the data type of  _Value1
 
 
 
-```
+```vb
 ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqualTo DataField := MyPivotField2 Value1 := ?Allan?
 ```
 
