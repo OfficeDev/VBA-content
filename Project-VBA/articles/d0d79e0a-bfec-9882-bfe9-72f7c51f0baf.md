@@ -26,7 +26,7 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 The following example sets the matching ID of a  **pjView** object type with the display name "Gantt Chart" to "Gantt Chart 1".
 
 
-```
+```vb
 ActiveProject.SetObjectMatchingID ObjectType:=pjView, ObjectName:="Gantt Chart", MatchingID:="Gantt Chart 1"
 ```
 

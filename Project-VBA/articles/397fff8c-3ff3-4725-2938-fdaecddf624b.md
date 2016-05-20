@@ -31,7 +31,7 @@ Nothing
 The following example create two tasks and links the second task as successor to the first.
 
 
-```
+```vb
 Sub Link_Successors() 
     Dim SucessorTask As Task 
     Dim PredecessorTask As Task 

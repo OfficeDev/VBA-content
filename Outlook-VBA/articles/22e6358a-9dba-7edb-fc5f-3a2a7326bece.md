@@ -64,9 +64,7 @@ Sub DemoSetSchedulingStartTime()
  
  oInsp.SetSchedulingStartTime (DateAdd("m", 1, Now)) 
  
-End Sub 
- 
-
+End Sub
 ```
 
 

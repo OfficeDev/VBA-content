@@ -10,8 +10,7 @@ This example demonstrates using the [Resync](f594a200-56e6-fcf5-9b0a-900c56377f2
 
 
 
-```
- 
+```cpp
 // BeginResyncCpp 
 #import "c:\Program Files\Common Files\System\ADO\msado15.dll" no_namespace rename("EOF", "EndOfFile") 
  

@@ -26,7 +26,7 @@ Use the  **[SetPasswordEncryptionOptions](03c07952-784b-eba6-af71-57d3d1414f81.m
 This example sets the password encryption options if the password encryption key length is less than 40.
 
 
-```
+```vb
 Sub PasswordSettings() 
     With ActivePresentation 
         If .PasswordEncryptionKeyLength < 40 Then 
@@ -40,8 +40,6 @@ PasswordEncryptionProvider:="Microsoft RSA SChannel Cryptographic Provider", _
         End If 
     End With 
 End Sub
-
-
 ```
 
 

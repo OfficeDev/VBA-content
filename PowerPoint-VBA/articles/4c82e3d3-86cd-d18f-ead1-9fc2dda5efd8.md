@@ -21,7 +21,7 @@ Note that applying the  **Background** method to a shape's fill isn't the same a
 This example sets the fill of shape one on slide one in the active presentation to match the slide background.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).Fill.Background
 ```
 

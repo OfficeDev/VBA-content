@@ -16,7 +16,7 @@ Displays the HTML document associated with the specified hyperlink in a new Web 
 This example loads the document associated with the first hyperlink on slide one in a new instance of the Web browser.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Hyperlinks(1).Follow
 ```
 

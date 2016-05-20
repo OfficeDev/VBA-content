@@ -68,7 +68,6 @@ Private Function IVisEventProc_VisEventProc( _
  'Display the event name and the event code 
  Debug.Print strMessage 
  
-End Function 
-
+End Function
 ```
 

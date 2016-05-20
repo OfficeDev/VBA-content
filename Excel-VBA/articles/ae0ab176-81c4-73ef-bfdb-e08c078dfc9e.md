@@ -21,7 +21,7 @@ Cropping is calculated relative to the original size of the picture. For example
 This example crops 20 points off the bottom of shape three on  `myDocument`. For the example to work, shape three must be either a picture or an OLE object.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes(3).PictureFormat.CropBottom = 20
 ```

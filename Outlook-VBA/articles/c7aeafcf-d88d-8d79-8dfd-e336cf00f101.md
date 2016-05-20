@@ -55,7 +55,6 @@ Private Sub objPane_ModuleSwitch(ByVal CurrentModule As NavigationModule)
  End If 
  End If 
  
-End Sub 
-
+End Sub
 ```
 

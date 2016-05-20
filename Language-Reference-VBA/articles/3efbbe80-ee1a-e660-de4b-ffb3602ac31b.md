@@ -64,7 +64,7 @@ In a procedure within the array's [scope](b8bdf64f-5920-1ae9-16d0-b26d09524a30.m
 
 
 
-```
+```vb
 ReDim Preserve varArray(UBound(varArray) + 10) 
 
 ```

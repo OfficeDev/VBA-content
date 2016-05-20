@@ -53,7 +53,7 @@ To remove a  **TableDef** object from the **[TableDefs](a2986b02-0437-d6ac-7bbb-
 This example creates a new  **TableDef** object in the Northwind database.
 
 
-```
+```vb
 Sub CreateTableDefX() 
  
  Dim dbsNorthwind As Database 
@@ -111,8 +111,7 @@ Sub CreateTableDefX()
  
  dbsNorthwind.Close 
  
-End Sub 
-
+End Sub
 ```
 
 This example uses the  **CreateTableDef** and **FillCache** methods and the **CacheSize**, **CacheStart** and **SourceTableName** properties to enumerate the records in a linked table twice. Then it enumerates the records twice with a 50-record cache. The example then displays the performance statistics for the uncached and cached runs through the linked table.
@@ -120,7 +119,7 @@ This example uses the  **CreateTableDef** and **FillCache** methods and the **Ca
 
 
 
-```
+```vb
 Sub ClientServerX3() 
  
  Dim dbsCurrent As Database 
@@ -213,7 +212,6 @@ Sub ClientServerX3()
  dbsCurrent.TableDefs.Delete tdfRoyalties.Name 
  dbsCurrent.Close 
  
-End Sub 
-
+End Sub
 ```
 

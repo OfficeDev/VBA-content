@@ -16,7 +16,7 @@ Gets the remaining overtime cost for the task. Read-only  **Variant**.
 The following example returns the remaining overtime cost of each task in the active project.
 
 
-```
+```vb
 Sub ReturnOvertimeCost() 
  Dim T As Task ' Task object used in For Each loop 
  Dim Results As String 

@@ -33,7 +33,7 @@ Variant
 This example consolidates data from Sheet2 and Sheet3 onto Sheet1, using the SUM function.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1").Consolidate _ 
  Sources:=Array("Sheet2!R1C1:R37C6", "Sheet3!R1C1:R37C6"), _ 
  Function:=xlSum

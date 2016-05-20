@@ -29,7 +29,7 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 The following code example sets the formula for cell A1 on Sheet1.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1").Formula = "=$A$4+$A$10"
 ```
 

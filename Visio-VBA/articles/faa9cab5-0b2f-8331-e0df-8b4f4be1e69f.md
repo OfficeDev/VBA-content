@@ -40,7 +40,6 @@ Public Sub SendToBack_Example()
  'Move vsoShape3 to the back of the z-order. 
  vsoShape3.SendToBack 
  
-End Sub 
-
+End Sub
 ```
 

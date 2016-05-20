@@ -86,7 +86,7 @@ Use the  **CreateDatabase** method to create and open a new, empty database, and
 This example uses  **CreateDatabase** to create a new, encrypted **Database** object.
 
 
-```
+```vb
 Sub CreateDatabaseX() 
  
    Dim wrkDefault As Workspace 
@@ -117,7 +117,6 @@ Sub CreateDatabaseX()
  
    dbsNew.Close 
  
-End Sub 
-
+End Sub
 ```
 

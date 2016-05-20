@@ -26,7 +26,7 @@ Applies to  **[Shape](1da93849-99e0-827e-ced3-c6cf7f8569f3.md)** objects that re
 This example sets the font style to bold for shape three on  `myDocument` if the shape is WordArt.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes(3)

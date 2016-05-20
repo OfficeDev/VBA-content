@@ -34,8 +34,7 @@ Sub DeleteListRow(iRowNumber As Integer)
  If (iRowNumber <> 0) And (iRowNumber < objListRows.Count - 1) Then 
  objListRows(iRowNumber).Delete 
  End If 
-End Sub 
-
+End Sub
 ```
 
 

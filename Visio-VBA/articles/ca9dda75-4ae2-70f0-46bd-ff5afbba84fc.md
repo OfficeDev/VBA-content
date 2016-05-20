@@ -47,7 +47,6 @@ Public Sub Data123_Example()
  Debug.Print vsoShape.Data2 
  Debug.Print vsoShape.Data3 
  
-End Sub 
-
+End Sub
 ```
 

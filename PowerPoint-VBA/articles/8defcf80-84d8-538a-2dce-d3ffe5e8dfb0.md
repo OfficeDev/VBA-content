@@ -26,7 +26,7 @@ Sets the location of the node specified by  **Index**. Note that, depending on t
 This example moves node two in shape three on  `myDocument` to the right 200 points and down 300 points. Shape three must be a freeform drawing.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes(3).Nodes

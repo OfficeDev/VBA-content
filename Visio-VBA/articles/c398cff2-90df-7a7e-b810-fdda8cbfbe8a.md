@@ -39,8 +39,7 @@ Dim vsoShape As Visio.Shape
  'Draw a shape to trigger the ShapeAdded event 
  Set vsoShape = ActivePage.DrawRectangle(1,2,2,1) 
  
-End Sub 
-
+End Sub
 ```
 
 
@@ -54,7 +53,6 @@ Sub Document_ShapeAdded(ByVal Shape As IVShape)
  
  End If 
  
-End Sub 
-
+End Sub
 ```
 

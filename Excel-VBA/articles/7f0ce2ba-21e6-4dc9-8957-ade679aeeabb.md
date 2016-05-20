@@ -16,7 +16,7 @@ Returns or sets the cell (a  **Range** object) that defines the page-break locat
 This example moves the horizontal page-break location.
 
 
-```
+```vb
 Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 ```
 

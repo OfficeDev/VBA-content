@@ -34,7 +34,7 @@ This example moves the starting position of myRange one character to the right (
 
 
 
-```
+```vb
 Set myRange = Selection.Range 
 myRange.SetRange Start:=myRange.Start + 1, End:=myRange.End
 ```

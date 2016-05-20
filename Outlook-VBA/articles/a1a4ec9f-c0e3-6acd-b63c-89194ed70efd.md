@@ -56,11 +56,7 @@ Private Sub Application_AdvancedSearchStopped(ByVal SearchObject As Search)
  
  MsgBox "An AdvancedSearch has been interrupted and stopped. " 
  
-End Sub 
- 
- 
- 
-
+End Sub
 ```
 
 

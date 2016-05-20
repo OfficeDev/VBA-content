@@ -16,7 +16,7 @@
 This example determines whether the first row in the selection is the first row in the table.
 
 
-```
+```vb
 MsgBox Selection.Rows(1).IsFirst
 ```
 

@@ -22,10 +22,8 @@ The  **Fields** collection contains a **Field** object for every field (column) 
 Consider the  **Fields** collection of the sample **Recordset** introduced in this chapter. The sample **Recordset** was derived from the SQL statement
 
 
-```
- 
+```sql 
 SELECT ProductID, ProductName, UnitPrice FROM Products WHERE CategoryID = 7 
-
 ```
 
 Thus, you should find that the  **Recordset** **Fields** collection contains three fields.
@@ -33,8 +31,7 @@ Thus, you should find that the  **Recordset** **Fields** collection contains thr
 
 
 
-```
- 
+```vb
 'BeginWalkFields 
  Dim objFields As ADODB.Fields 
  
@@ -96,9 +93,8 @@ Developers often need a place to temporarily store some data, or want some data 
 
 
 
-```
- 
- 'BeginFabricate 
+```vb
+'BeginFabricate 
  Dim objRs As New ADODB.Recordset 
  
  With objRs.Fields 

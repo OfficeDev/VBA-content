@@ -54,7 +54,6 @@ Public Sub ReviewerMarkupVisible_Example()
  ActiveWindow.ReviewerMarkupVisible = Not ActiveWindow.ReviewerMarkupVisible 
  Debug.Print ActiveWindow.ReviewerMarkupVisible 
  
-End Sub 
-
+End Sub
 ```
 

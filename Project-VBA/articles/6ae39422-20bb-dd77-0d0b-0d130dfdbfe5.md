@@ -51,7 +51,7 @@ To edit calendar bar styles where  _Color_ can be an RGB value, use the **[Calen
 The following example sets critical tasks as normal bars, the color to purple with diagonal stripes, and the fields to include the task name and assigned resource names. The example also sets summary tasks as line bars and the color to green.
 
 
-```
+```vb
 Sub CalendarBar_StyleEdit() 
  'Activate Caldender view 
  ViewApply Name:="Calendar" 

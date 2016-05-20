@@ -42,7 +42,6 @@ Public Sub Application_Example()
     Set vsoApplication = vsoDocument.Application  
     Debug.Print "The process ID of the Application object associated with the active document is: " &amp; vsoApplication.ProcessID  
  
-End Sub 
-
+End Sub
 ```
 

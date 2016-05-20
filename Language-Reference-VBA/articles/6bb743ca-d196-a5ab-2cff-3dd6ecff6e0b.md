@@ -14,7 +14,7 @@ The following code illustrates the use of the  **FreeSpace** property:
 
 
 
-```
+```vb
 Sub ShowFreeSpace(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
@@ -25,6 +25,5 @@ Sub ShowFreeSpace(drvPath)
     s = s &amp; " Kbytes"
     MsgBox s
 End Sub
-
 ```
 

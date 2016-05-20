@@ -10,8 +10,7 @@ Setting the [ActiveConnection](c1d90eca-9d62-4d7e-c275-5094e914ecb4.md) property
 
 
 
-```
- 
+```cpp
 // BeginCloseConnectionCpp 
 #import "c:\Program Files\Common Files\system\ado\msadox.dll" no_namespace 
 #import "c:\Program Files\Common Files\system\ado\msado15.dll" 

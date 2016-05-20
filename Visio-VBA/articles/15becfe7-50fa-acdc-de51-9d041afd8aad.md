@@ -78,7 +78,6 @@ Public Sub IconFileName_Example()
  'Use the new custom UI. 
  ThisDocument.SetCustomToolbars vsoUIObject 
  
-End Sub 
-
+End Sub
 ```
 

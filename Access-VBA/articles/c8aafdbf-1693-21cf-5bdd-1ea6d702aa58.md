@@ -69,8 +69,7 @@ Private Sub Form_ApplyFilter(Cancel As Integer, ApplyType As Integer)
  Forms!Orders!TotalDue.Visible = True 
  End If 
  End If 
-End Sub 
-
+End Sub
 ```
 
 

@@ -73,6 +73,5 @@ Sub TestSearchWithTable()
         Debug.Print oRow("Subject") 
     Loop 
 End Sub
-
 ```
 

@@ -17,7 +17,7 @@ Loads existing Solver model parameters that have been saved to the worksheet.
 This example loads the previously calculated Solver model stored on Sheet1, changes one of the constraints, and then solves the model again.
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 SolverLoad loadArea:=Range("A33:A38") 
 SolverChange cellRef:=Range("F4:F6"), _ 

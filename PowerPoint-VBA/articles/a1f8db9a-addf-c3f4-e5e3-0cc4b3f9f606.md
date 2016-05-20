@@ -21,7 +21,7 @@ ColorEffect
 This example adds a shape to the first slide of the active presentation and sets a color effect behavior to change the fill color of the new shape.
 
 
-```
+```vb
 Sub ChangeColorEffect()
 
     Dim sldFirst As Slide

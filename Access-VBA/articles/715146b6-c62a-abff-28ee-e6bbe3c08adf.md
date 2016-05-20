@@ -94,7 +94,7 @@ To refer to a  **TableDef** object in a collection by its ordinal number or by i
 This example creates a new  **TableDef** object and appends it to the **TableDefs** collection of the Northwind Database object. It then enumerates the **TableDefs** collection and the **Properties** collection of the new **TableDef**.
 
 
-```
+```vb
 Sub TableDefX() 
  
    Dim dbsNorthwind As Database 
@@ -140,8 +140,7 @@ Sub TableDefX()
       .Close 
    End With 
  
-End Sub 
-
+End Sub
 ```
 
 This example creates a new  **TableDef** object in the Northwind database.
@@ -149,7 +148,7 @@ This example creates a new  **TableDef** object in the Northwind database.
 
 
 
-```
+```vb
 Sub CreateTableDefX() 
  
    Dim dbsNorthwind As Database 
@@ -217,7 +216,7 @@ The following example shows how to create a calculated field. The  **CreateField
 
 
 
-```
+```vb
 Sub CreateCalculatedField()
     Dim dbs As DAO.Database
     Dim tdf As DAO.TableDef

@@ -64,7 +64,6 @@ Public Sub SetHelpPaths_Example()
     'Set the new path in the Application object.  
     Application.HelpPaths = strNewPath  
  
-End Sub 
-
+End Sub
 ```
 

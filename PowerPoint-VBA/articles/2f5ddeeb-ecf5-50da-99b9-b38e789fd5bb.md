@@ -14,7 +14,7 @@ The  **NamedSlideShow** object is a member of the **[NamedSlideShows](9f20ff20-a
 Use  **NamedSlideShows** (index), where index is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
 
 
-```
+```vb
 ActivePresentation.SlideShowSettings _
     .NamedSlideShows("Quick Show").Delete
 ```

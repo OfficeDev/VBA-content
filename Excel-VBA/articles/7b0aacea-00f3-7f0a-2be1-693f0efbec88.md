@@ -16,7 +16,7 @@
 This example displays a message box if scenarios are protected on Sheet1.
 
 
-```
+```vb
 If Worksheets("Sheet1").ProtectScenarios Then _ 
  MsgBox "Scenarios are protected on this worksheet."
 ```

@@ -43,7 +43,6 @@ Sub TrackingType()
  Application.ActiveDocument.Stories(2).TextRange _ 
  .Font.TrackingPreset = pbTrackingTight 
  
-End Sub 
-
+End Sub
 ```
 

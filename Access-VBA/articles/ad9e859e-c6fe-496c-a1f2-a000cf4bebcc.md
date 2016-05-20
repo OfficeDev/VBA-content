@@ -70,7 +70,7 @@ For best performance in a Microsoft Access workspace, especially in a multiuser 
 This example demonstrates the  **Execute** method when run from both a **QueryDef** object and a **Database** object. The **ExecuteQueryDef** and **PrintOutput** procedures are required for this procedure to run.
 
 
-```
+```vb
 Sub ExecuteX() 
  
    Dim dbsNorthwind As Database 
@@ -180,8 +180,7 @@ Sub PrintOutput(rstTemp As Recordset)
       rstTemp.MoveNext 
    Loop 
  
-End Sub 
-
+End Sub
 ```
 
 The following example shows how to execute a parameter query. The  **Parameters** collection is used to set the **Organization** parameter of the **myActionQuery** query before the query is executed.
@@ -191,7 +190,7 @@ The following example shows how to execute a parameter query. The  **Parameters*
 
 
 
-```
+```vb
 Public Sub ExecParameterQuery()
 
     Dim dbs As DAO.Database

@@ -7,7 +7,7 @@ In the Orders Subform class module enter:
 
 
 
-```
+```vb
 Public Function GetProductID() As Variant 
  ' Return current productID. 
  GetProductID = ProductID 

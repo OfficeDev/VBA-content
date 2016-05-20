@@ -52,7 +52,7 @@ If a subform control has the focus, this method only requeries the record source
 The following example uses the  **Requery** method to requery the data from the EmployeeList list box on an Employees form:
 
 
-```
+```vb
 Public Sub RequeryList() 
  
     Dim ctlCombo As Control 
@@ -63,8 +63,7 @@ Public Sub RequeryList()
     ' Requery source of data for list box. 
     ctlCombo.Requery 
  
-End Sub 
-
+End Sub
 ```
 
 

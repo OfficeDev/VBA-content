@@ -81,7 +81,7 @@ The following example parses two columns from a fixed-width file, with the first
 This example converts the contents of the Clipboard, which contains a space-delimited text table, into separate columns on Sheet1. You can create a simple space-delimited table in Notepad or WordPad (or another text editor), copy the text table to the Clipboard, switch to Microsoft Excel, and then run this example.
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 ActiveSheet.Paste 
 Selection.TextToColumns DataType:=xlDelimited, _ 

@@ -36,8 +36,7 @@ In the following example, the  **Save** and **Open** methods are used to persist
 
 
 
-```
- 
+```vb
 'BeginPersist 
  conn.ConnectionString = _ 
  "Provider='SQLOLEDB';Data Source='MySqlServer';" _ 

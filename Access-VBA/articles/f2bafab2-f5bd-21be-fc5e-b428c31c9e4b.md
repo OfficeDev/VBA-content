@@ -16,7 +16,7 @@ Returns or sets an  **[AcPrintPaperSize](16730547-b26d-852d-88d2-39a7a66a5463.md
 The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
 
 
-```
+```vb
 Sub SetPrinter(strFormname As String) 
  
  DoCmd.OpenForm FormName:=strFormname, view:=acDesign, _ 
@@ -53,8 +53,7 @@ Sub SetPrinter(strFormname As String)
  Save:=acSaveYes 
  
  
-End Sub 
-
+End Sub
 ```
 
 

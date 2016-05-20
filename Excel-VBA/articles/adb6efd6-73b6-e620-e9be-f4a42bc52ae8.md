@@ -16,7 +16,7 @@ You can set border properties for an individual border only with  **Range** and 
 The following example adds a double border to cell A1 on worksheet one.
 
 
-```
+```vb
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
@@ -25,7 +25,7 @@ Use  **Borders** ( _index_ ), where _index_ identifies the border, to return a s
 
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1:G1"). _ 
  Borders(xlEdgeBottom).Color = RGB(255, 0, 0)
 ```

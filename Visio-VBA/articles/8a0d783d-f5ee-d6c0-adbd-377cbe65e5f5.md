@@ -75,8 +75,6 @@ Public Sub GetCustomPropertiesLinkedToData_Example()
          
     End If 
  
-End Sub 
- 
-
+End Sub
 ```
 

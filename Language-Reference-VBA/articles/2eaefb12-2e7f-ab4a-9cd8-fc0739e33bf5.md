@@ -11,7 +11,7 @@ When Visual Basic is launched from the command line, any portion of the command 
 
 
 
-```
+```text
 VB /cmd cmdlineargs
 ```
 
@@ -19,7 +19,7 @@ For applications developed with Visual Basic and compiled to an .exe file,  **Co
 
 
 
-```
+```text
 MyApp cmdlineargs
 ```
 
@@ -30,7 +30,7 @@ To find how command line arguments can be changed in the user interface of the a
 This example uses the  **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
 
 
-```
+```vb
 Function GetCommandLine(Optional MaxArgs)
     'Declare variables.
     Dim C, CmdLine, CmdLnLen, InArg, I, NumArgs

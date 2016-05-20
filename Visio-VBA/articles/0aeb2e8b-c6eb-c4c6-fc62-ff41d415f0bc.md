@@ -50,7 +50,6 @@ Public Sub DisableAutoRecover_Example()
     'Tell Visio not to save automatic recovery copies of unsaved files.  
     Application.AutoRecoverInterval = 0  
  
-End Sub 
-
+End Sub
 ```
 

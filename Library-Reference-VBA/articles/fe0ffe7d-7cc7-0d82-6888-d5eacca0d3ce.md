@@ -9,15 +9,14 @@ Represents the information used to create a digital or in-document signature.
 The following example uses the  **GetCertificationDetails** method of the **SignatureInfo** object to get the expiration date of the digital certificate.
 
 
-```
+```vb
 Sub GetCertDetails() 
 Dim objSignatureInfo As SignatureInfo 
 Dim varDetail As Variant 
  
 strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
  
-End Sub 
-
+End Sub
 ```
 
 

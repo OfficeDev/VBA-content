@@ -27,7 +27,7 @@ Because the  **Item** method is the default method for the **DocumentProperties*
 
 
 
-```
+```vb
 BuiltinDocumentProperties.Item(1) 
 BuiltinDocumentProperties(1)
 ```

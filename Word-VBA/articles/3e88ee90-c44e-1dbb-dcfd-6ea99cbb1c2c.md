@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the name of the first field in the data source attached to the active mail merge main document.
 
 
-```
+```vb
 MsgBox ActiveDocument.MailMerge.DataSource.FieldNames(1).Name
 ```
 
