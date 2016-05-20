@@ -69,9 +69,7 @@ Sub RecurringYearNth()
  
  oAppt.Display 
  
-End Sub 
- 
-
+End Sub
 ```
 
 

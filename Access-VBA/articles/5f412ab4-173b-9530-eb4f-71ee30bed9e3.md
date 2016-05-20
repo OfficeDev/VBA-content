@@ -74,7 +74,6 @@ Sub ForeignNameX()
  
  dbsNorthwind.Close 
  
-End Sub 
-
+End Sub
 ```
 

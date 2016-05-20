@@ -140,8 +140,7 @@ Sub TableDefX()
       .Close 
    End With 
  
-End Sub 
-
+End Sub
 ```
 
 This example creates a new  **TableDef** object in the Northwind database.

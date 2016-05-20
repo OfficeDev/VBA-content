@@ -25,6 +25,5 @@ Sub ShowFreeSpace(drvPath)
     s = s &amp; " Kbytes"
     MsgBox s
 End Sub
-
 ```
 

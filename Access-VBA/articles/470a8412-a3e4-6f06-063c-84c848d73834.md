@@ -63,8 +63,7 @@ Public Sub RequeryList()
     ' Requery source of data for list box. 
     ctlCombo.Requery 
  
-End Sub 
-
+End Sub
 ```
 
 

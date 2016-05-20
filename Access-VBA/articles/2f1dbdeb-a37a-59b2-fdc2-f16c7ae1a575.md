@@ -82,8 +82,6 @@ Sub RequiredOutput(tdfTemp As TableDef)
  fldLoop.Required 
  Next fldLoop 
  
-End Sub 
- 
-
+End Sub
 ```
 

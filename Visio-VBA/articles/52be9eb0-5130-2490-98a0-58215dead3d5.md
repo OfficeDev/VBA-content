@@ -36,7 +36,6 @@ Public Sub Count_Example()
  Debug.Print vsoDocument.Name 
  Next intCounter 
  
-End Sub 
-
+End Sub
 ```
 

@@ -72,7 +72,6 @@ Sub RestartableX()
  .Close 
  End With 
  
-End Sub 
-
+End Sub
 ```
 

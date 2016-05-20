@@ -48,7 +48,6 @@ Public Sub EventList_Example()
  Set vsoEvent = vsoEventList.Add(visEvtAdd + visEvtShape, visActCodeRunAddon, _ 
  "filename ", "") 
  
-End Sub 
-
+End Sub
 ```
 

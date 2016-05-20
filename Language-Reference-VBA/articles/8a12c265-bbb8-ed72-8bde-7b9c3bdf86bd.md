@@ -47,6 +47,5 @@ Private Sub UserForm_QueryClose(Cancel As Integer, CloseMode As Integer)
     If CloseMode <> 1 Then Cancel = 1
     UserForm1.Caption = "The Close box won't work! Click me!"
 End Sub
-
 ```
 

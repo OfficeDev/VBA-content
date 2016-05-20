@@ -40,8 +40,7 @@ This example opens every activated presentation in slide sorter view.
 ```vb
 Private Sub App_WindowActivate (ByVal Pres As Presentation, ByVal Wn As DocumentWindow) 
     Wn.ViewType = ppViewSlideSorter 
-End Sub 
-
+End Sub
 ```
 
 

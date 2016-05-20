@@ -77,7 +77,6 @@ Public Sub Layer_Example()
  'Verify by using the Name property. 
  Debug.Print "Current vsoLayer name is """ &amp; vsoLayer.Name &amp; ".""" 
  
-End Sub 
-
+End Sub
 ```
 

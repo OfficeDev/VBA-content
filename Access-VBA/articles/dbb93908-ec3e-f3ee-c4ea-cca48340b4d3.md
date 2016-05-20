@@ -142,8 +142,6 @@ Sub OpenDatabaseX()
  dbsPubs2.Close 
  wrkAcc.Close 
  
-End Sub 
- 
-
+End Sub
 ```
 

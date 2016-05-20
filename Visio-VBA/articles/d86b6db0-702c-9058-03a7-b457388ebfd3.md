@@ -36,7 +36,6 @@ Public Sub Windows_Example()
  Debug.Print vsoWindows.Item(intCounter).ID 
  Next intCounter 
  
-End Sub 
-
+End Sub
 ```
 

@@ -58,7 +58,6 @@ Sub BrowseMultiValueField()
          Loop 
       rs.MoveNext 
    Loop 
-End Sub 
-
+End Sub
 ```
 

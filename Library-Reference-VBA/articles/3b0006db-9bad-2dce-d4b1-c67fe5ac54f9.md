@@ -24,8 +24,7 @@ Next
 Set objWorkflowTask = objWorkflowTasks(1) 
 objWorkflowTask.Show 
  
-End Sub 
-
+End Sub
 ```
 
 

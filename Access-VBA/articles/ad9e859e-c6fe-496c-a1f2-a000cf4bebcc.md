@@ -180,8 +180,7 @@ Sub PrintOutput(rstTemp As Recordset)
       rstTemp.MoveNext 
    Loop 
  
-End Sub 
-
+End Sub
 ```
 
 The following example shows how to execute a parameter query. The  **Parameters** collection is used to set the **Organization** parameter of the **myActionQuery** query before the query is executed.

@@ -16,8 +16,7 @@ Dim varDetail As Variant
  
 strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
  
-End Sub 
-
+End Sub
 ```
 
 

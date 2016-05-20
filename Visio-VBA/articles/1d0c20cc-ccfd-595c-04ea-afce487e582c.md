@@ -69,8 +69,7 @@ Private Sub vsoObject_CellChanged (ByVal Cell As Visio.IVCell)
  <respond to the cell changes> 
  End If 
  
-End Sub 
-
+End Sub
 ```
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
@@ -116,8 +115,7 @@ Public Sub UseMarker()
  ActivePage.DrawRectangle 0, 0, 3, 3 
  vsoApplication.QueueMarkerEvent "I am finished..." 
  
-End Sub 
-
+End Sub
 ```
 
 The output in the Immediate window looks like this:

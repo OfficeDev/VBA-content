@@ -28,8 +28,7 @@ For Each objPolicyItem In objSrvPolicy
 Next 
 MsgBox (strPolicyItemList) 
  
-End Sub 
-
+End Sub
 ```
 
 

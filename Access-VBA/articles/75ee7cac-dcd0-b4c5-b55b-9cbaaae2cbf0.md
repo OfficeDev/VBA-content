@@ -174,9 +174,7 @@ Sub ClientServerX2()
    rstTopSeller.Close 
    dbsCurrent.Close 
  
-End Sub 
- 
-
+End Sub
 ```
 
 The following example shows how to create a parameter query. A query named  **myQuery** is created with two parameters, named _Param1_ and _Param2_. To do this, the  **SQL** property of the query is set to a Structured Query Language (SQL) statement that defines the parameters.

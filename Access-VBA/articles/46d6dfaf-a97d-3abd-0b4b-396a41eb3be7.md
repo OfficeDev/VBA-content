@@ -107,8 +107,7 @@ Err_Relation:
  
  Resume Next 
  
-End Sub 
-
+End Sub
 ```
 
 This example uses the  **CreateRelation** method to create a **Relation** between the Employees **TableDef** and a new **TableDef** called Departments. This example also demonstrates how creating a new **Relation** will also create any necessary **Indexes** in the foreign table (the DepartmentsEmployees Index in the Employees table).
@@ -198,7 +197,6 @@ Sub CreateRelationX()
  .Close 
  End With 
  
-End Sub 
-
+End Sub
 ```
 

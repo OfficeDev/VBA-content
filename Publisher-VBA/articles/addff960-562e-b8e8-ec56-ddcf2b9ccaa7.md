@@ -47,7 +47,6 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
  Next mmLoop 
  Next pgPage 
  
- End Sub 
-
+End Sub
 ```
 

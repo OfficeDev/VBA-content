@@ -62,7 +62,6 @@ Public Sub FromSheet_Example()
  
  Next intCurrentShapeIndex 
  
-End Sub 
-
+End Sub
 ```
 

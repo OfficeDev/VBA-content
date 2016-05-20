@@ -78,7 +78,6 @@ Public Sub BuiltInToolbars_Example()
  vsoToolbarItem.IconFileName "(path\filename)" 'Tell Visio to actually use the new custom UI. 
  ThisDocument.SetCustomToolbars vsoUIObject 
  
-End Sub 
-
+End Sub
 ```
 
