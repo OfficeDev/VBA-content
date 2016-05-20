@@ -35,7 +35,5 @@ Function MatchUp(CityName As String)
     Matchup = Switch(CityName = "London", "English", CityName _
                     = "Rome", "Italian", CityName = "Paris", "French")
 End Function
-
-
 ```
 
