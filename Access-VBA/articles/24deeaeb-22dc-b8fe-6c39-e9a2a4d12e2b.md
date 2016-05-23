@@ -1,6 +1,10 @@
 
 # DisplayControl Property
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 You can use the  **DisplayControl** property in table Design view to specify the default control you want to use for displaying a field.
 
 

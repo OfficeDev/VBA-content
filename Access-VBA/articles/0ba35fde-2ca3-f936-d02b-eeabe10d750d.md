@@ -1,11 +1,13 @@
 
 # Item not found in this collection. (Error 3265)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 An attempt to reference a name in a collection failed.
 
 Possible causes:
-
-
 
 
 - The object does not exist in this collection. Make sure the object is appended to a collection before referencing it.

@@ -1,6 +1,10 @@
 
 # Syntax error in WITH OWNERACCESS OPTION declaration. (Error 3257)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 Possible causes:
 
 

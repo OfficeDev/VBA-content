@@ -1,6 +1,10 @@
 
 # Could not save; currently locked by another user. (Error 3202)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 Possible cause:
 
 

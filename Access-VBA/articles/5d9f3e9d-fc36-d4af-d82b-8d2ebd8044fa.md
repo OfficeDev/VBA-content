@@ -1,6 +1,10 @@
 
 # DestConnectStr, DestinationDB, DestinationTable Properties
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 - The  **DestinationDB** property specifies the type of application used to create an external database.
     
 - The  **DestConnectStr** property specifies the connection string for the name of the database that will contain the new table (for make-table queries) or the name of the database that contains the table to which data will be appended (for append queries).

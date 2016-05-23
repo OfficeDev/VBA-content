@@ -1,7 +1,13 @@
 
 # CubeDef Example (VBScript)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 This example displays cube metadata on a web page.
+
+
 
 
 ```

@@ -1,11 +1,13 @@
 
 # Syntax error in DROP INDEX statement. (Error 3294)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 You entered an SQL statement that has an invalid DROP INDEX statement.
 
 Possible causes:
-
-
 
 
 - A reserved word or argument name is misspelled or missing.

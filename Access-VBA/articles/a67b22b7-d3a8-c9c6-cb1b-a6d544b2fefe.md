@@ -1,6 +1,10 @@
 
 # Option Group Control
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 An option group on a form or report displays a limited set of alternatives. An option group makes selecting a value easy since you can just click the value you want. Only one option in an option group can be selected at a time.
 
 An option group consists of a group frame and a set of check boxes, toggle buttons, or option buttons.

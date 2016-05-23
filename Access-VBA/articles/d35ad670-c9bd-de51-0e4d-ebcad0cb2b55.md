@@ -1,7 +1,13 @@
 
 # Server Property Example (VBScript)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameter at design time and bind it to a data-aware control using the SQLOLEDB provider. Cut and paste this code into a normal ASP document and name it **ServerDesignVBS.asp**. ASP script will identify your server.
+
+
 
 
 ```
@@ -37,9 +43,7 @@ font-size: x-small;}
 <!-- EndServerDesignVBS -->
 ```
 
-
 The following example shows how to set the necessary parameters of  **RDS.DataControl** at run time. To test this example, cut and paste this code into a normal ASP document and name it **ServerRuntimeVBS.asp**. ASP script will identify your server.
-
 
 
 

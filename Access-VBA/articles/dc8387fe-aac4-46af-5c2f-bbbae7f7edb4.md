@@ -1,11 +1,13 @@
 
 # Cannot update. Database or object is read-only. (Error 3027)
 
+ **Last modified:** December 30, 2015
+
+ _ **Applies to:** Access 2013 | Access 2016_
+
 You tried to save changes in a database that was opened for read-only access.
 
 The database is read-only for one of these reasons:
-
-
 
 
 - You used the  **OpenDatabase** method and opened the database for read-only access.
