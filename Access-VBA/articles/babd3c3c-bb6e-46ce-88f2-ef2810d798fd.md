@@ -10,8 +10,7 @@ This example demonstrates the [Provider](1b795f51-93d7-431c-b1fe-0db95f69a56a.md
 
 
 
-```
- 
+```java
 // BeginProviderJ 
 import java.io.*; 
 import com.ms.wfc.data.*; 

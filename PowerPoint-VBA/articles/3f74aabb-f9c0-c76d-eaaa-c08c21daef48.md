@@ -28,7 +28,7 @@ The following example pastes a picture from the Clipboard into series one for th
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

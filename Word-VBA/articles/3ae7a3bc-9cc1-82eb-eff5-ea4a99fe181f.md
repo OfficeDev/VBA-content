@@ -21,7 +21,7 @@ This method is available only if you are using Word as your e-mail editor.
 This example opens a new e-mail message for forwarding the active message.
 
 
-```
+```vb
 Application.MailMessage.Forward
 ```
 

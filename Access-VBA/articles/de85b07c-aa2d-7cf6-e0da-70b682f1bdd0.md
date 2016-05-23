@@ -14,7 +14,7 @@ To bind an Access form to a recordset, you must set the form's  **Recordset** pr
 
 
 
-```
+```vb
  Private Sub Form_Open(Cancel As Integer) 
  Dim cn As ADODB.Connection 
  Dim rs As ADODB.Recordset 
@@ -35,7 +35,6 @@ To bind an Access form to a recordset, you must set the form's  **Recordset** pr
  Set Me.Recordset = rs 
  Set rs = Nothing 
  Set cn = Nothing 
- End Sub 
-
+End Sub
 ```
 

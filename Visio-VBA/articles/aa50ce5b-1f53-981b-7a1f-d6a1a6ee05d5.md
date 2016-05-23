@@ -39,7 +39,6 @@ Public Sub PersistsEvents_Example()
  Debug.Print ActivePage.PersistsEvents 
  Debug.Print ActiveWindow.PersistsEvents 
  
-End Sub 
-
+End Sub
 ```
 

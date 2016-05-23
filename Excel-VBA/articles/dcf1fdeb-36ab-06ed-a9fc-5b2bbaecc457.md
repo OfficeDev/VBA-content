@@ -41,7 +41,7 @@ Any of these arguments can be a negative number.
 This example scrolls the contents of the active window of Sheet1 down three rows.
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 ActiveWindow.SmallScroll down:=3
 ```

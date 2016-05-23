@@ -31,7 +31,7 @@ Setting the  **AutoFitBehavior** property to **wdAutoFitContent** or **wdAutoFit
 This example sets the AutoFit behavior for the first table in the active document to automatically resize based on the width of the document window.
 
 
-```
+```vb
 ActiveDocument.Tables(1).AutoFitBehavior _ 
  wdAutoFitWindow
 ```

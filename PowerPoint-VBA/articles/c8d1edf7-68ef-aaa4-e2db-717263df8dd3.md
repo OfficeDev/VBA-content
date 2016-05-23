@@ -21,7 +21,7 @@ Use the  **Paste** method to paste the contents of the Clipboard.
 This example copies the text in shape one on slide one in the active presentation to the Clipboard.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Copy
 ```
 

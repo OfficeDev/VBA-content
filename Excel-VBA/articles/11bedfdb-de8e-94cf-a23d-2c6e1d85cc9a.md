@@ -38,7 +38,7 @@ This method does not actually return a  **Series** object as stated in the Objec
 This example creates a new series in Chart1. The data source for the new series is range B1:B10 on Sheet1.
 
 
-```
+```vb
 Charts("Chart1").SeriesCollection.Add _ 
  Source:=ActiveWorkbook.Worksheets("Sheet1").Range("B1:B10")
 ```
@@ -48,7 +48,7 @@ This example creates a new series on the embedded chart on Sheet1.
 
 
 
-```
+```vb
 Worksheets("Sheet1").ChartObjects(1).Activate 
 ActiveChart.SeriesCollection.Add _ 
  Source:=Worksheets("Sheet1").Range("B1:B10")

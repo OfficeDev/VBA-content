@@ -75,7 +75,6 @@ Public Sub AddEvent_Example()
  visActCodeRunAddon, _ 
  "path \filename ", "") 
  
-End Sub 
-
+End Sub
 ```
 

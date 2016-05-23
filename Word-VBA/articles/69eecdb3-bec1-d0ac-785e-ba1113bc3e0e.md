@@ -32,7 +32,7 @@ This example returns the status of the Allow accented uppercase in French option
 
 
 
-```
+```vb
 Dim blnUppercaseAccents as Boolean 
  
 blnUppercaseAccents = Options.AllowAccentedUppercase

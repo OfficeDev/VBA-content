@@ -21,9 +21,8 @@ Borders
 This example sets the thickness of the left border for the first cell in the second row of the selected table to three points.
 
 
-```
+```vb
 ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
-
     .Cells(1).Borders.Item(ppBorderLeft).Weight = 3
 ```
 

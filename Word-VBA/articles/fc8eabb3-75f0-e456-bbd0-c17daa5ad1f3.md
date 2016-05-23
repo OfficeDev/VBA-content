@@ -30,7 +30,7 @@ Single
 This example displays the height and width in pixels of an object measured in points.
 
 
-```
+```vb
 MsgBox "180x120 points is equivalent to " _ 
  &amp; PointsToPixels(180, False) &amp; "x" _ 
  &amp; PointsToPixels(120, True) _ 

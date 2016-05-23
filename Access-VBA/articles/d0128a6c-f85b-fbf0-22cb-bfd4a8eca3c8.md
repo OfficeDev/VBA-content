@@ -7,7 +7,7 @@ In the Orders Subform class module, enter this code:
 
 
 
-```
+```vb
 Public Function GetProductID() As Variant 
  ' Return current productID. 
  GetProductID = ProductID 
@@ -18,7 +18,7 @@ The following code illustrates how to call the GetProductID procedure.
 
 
 
-```
+```vb
 Forms!Orders![Orders Subform].Form.GetProductID
 ```
 

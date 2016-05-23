@@ -21,7 +21,7 @@ If this property is set to - 100, bars are positioned so that there's one bar wi
 This example sets the overlap for chart group one to - 50. The example should be run on a 2-D column chart that has two or more series.
 
 
-```
+```vb
 Charts("Chart1").ChartGroups(1).Overlap = -50
 ```
 

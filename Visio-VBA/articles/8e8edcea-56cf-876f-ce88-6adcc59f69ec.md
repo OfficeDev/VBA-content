@@ -43,6 +43,5 @@ Public Sub TargetPath_Example()
  
     vsoSaveAsWeb.CreatePages 
 End Sub
-
 ```
 

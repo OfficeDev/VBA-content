@@ -32,7 +32,7 @@ The value of the  **HasText** property can be one of the following **MsoTriState
 The followin example tests whether shape two on slide one contains text, and if it does, resizes the shape to fit the text.
 
 
-```
+```vb
 Public Sub HasText_Example()
 
 

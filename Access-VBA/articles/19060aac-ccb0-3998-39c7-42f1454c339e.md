@@ -36,7 +36,7 @@ The  **ColumnWidth** property for a field isn't available when the field's **Col
 This example takes effect in Datasheet view of the open Customers form. It sets the row height to 450 twips and sizes the column to fit the size of the visible text.
 
 
-```
+```vb
 Forms![Customers].RowHeight = 450 
 Forms![Customers]![Address].ColumnWidth = -2
 ```

@@ -40,7 +40,7 @@ In this example, the Main Form is the top level form in the Access client applic
 The following code example opens the "EventDS" form in place in edit mode in the "NavigationSubform" subform control of the "Main" form.
 
 
-```
+```vb
 DoCmd.BrowseTo ObjectType:=acBrowseToForm, _ 
 ObjectName:="EventDS", _ 
 PathToSubformControl:="Main.NavigationSubform", _ 

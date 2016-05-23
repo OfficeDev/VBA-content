@@ -40,7 +40,6 @@ Sub HeaderLeft_Example()
     'Set header of the current document. 
     ThisDocument.HeaderLeft = strHeader  
  
-End Sub 
-
+End Sub
 ```
 

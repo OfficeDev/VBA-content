@@ -32,7 +32,7 @@ The value of the  **HangingPunctuation** property can be one of these **MsoTriSt
 This example selects hanging punctuation for the first paragraph of the active presentation.
 
 
-```
+```vb
 ActivePresentation.Paragraphs(1).HangingPunctuation = msoTrue
 ```
 

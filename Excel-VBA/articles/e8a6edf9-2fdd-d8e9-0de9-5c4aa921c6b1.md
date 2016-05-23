@@ -16,7 +16,7 @@ Returns a  **[TickLabels](fcb02bc5-fcdc-db32-168b-2d40e5552991.md)** object that
 This example sets the color of the tick-mark label font for the value axis in Chart1.
 
 
-```
+```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.ColorIndex = 3
 ```
 

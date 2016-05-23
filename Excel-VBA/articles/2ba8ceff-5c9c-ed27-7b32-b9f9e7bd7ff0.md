@@ -21,7 +21,7 @@ This property reflects the transient state of the cache at the time that it's qu
 This example displays the number of cache records that contain "Kiwi" in the "Products" field.
 
 
-```
+```vb
 MsgBox Worksheets(1).PivotTables("Pivot1") _ 
  .PivotFields("Product").PivotItems("Kiwi").RecordCount
 ```

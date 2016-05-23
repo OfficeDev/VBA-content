@@ -10,8 +10,7 @@ This example demonstrates how to create copies of a file using [Stream](d49b1514
 
 
 
-```
- 
+```vb
 'BeginCopyRecordVB 
  
 'Note: 

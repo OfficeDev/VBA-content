@@ -67,7 +67,6 @@ Sub End_Example()
  Next intOuterLoopCounter 
  Debug.Print "This shape has " &amp; intOuterLoopCounter - 1 &amp; " path object(s)." 
  
-End Sub 
-
+End Sub
 ```
 

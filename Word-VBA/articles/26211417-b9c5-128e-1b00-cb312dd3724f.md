@@ -21,7 +21,7 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the number of tracked changes in the first section in the active document.
 
 
-```
+```vb
 MsgBox ActiveDocument.Sections(1).Range.Revisions.Count
 ```
 
@@ -30,7 +30,7 @@ This example accepts all tracked changes in the first paragraph in the selection
 
 
 
-```
+```vb
 Set myRange = Selection.Paragraphs(1).Range 
 myRange.Revisions.AcceptAll
 ```

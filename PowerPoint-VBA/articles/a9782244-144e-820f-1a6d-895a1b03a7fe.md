@@ -26,7 +26,7 @@ The  **Creator** property is designed to be used in Microsoft Office application
 This example displays a message about the creator of myObject.
 
 
-```
+```vb
 Set myObject = Application.ActivePresentation.Slides(1).Shapes(1)
 
 If myObject.Creator = &amp;h50575054 Then

@@ -55,7 +55,7 @@ To turn the AutoFilter feature on or off, see the  **[AutoFilter](391d5a61-cba3-
 The following example sets a custom AutoFilter for the "% Work Complete" field. 
 
 
-```
+```vb
 Sub TestAutoFilter() 
     If Not ActiveProject.AutoFilter Then 
         Application.AutoFilter 
@@ -71,7 +71,7 @@ If there is an AutoFilter set for the "% Work Complete" field, the following lin
 
 
 
-```
+```vb
 Application.SetAutoFilter FieldName:="% Work Complete"
 ```
 

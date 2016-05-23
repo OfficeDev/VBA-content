@@ -20,7 +20,7 @@ Use  **Controls(index)**, where _index_ is the index number of the control, to r
 The following example adds two items to the second control on the command bar named  **Custom**, and then it adjusts the size of the control.
 
 
-```
+```vb
 Set combo = CommandBars("Custom").Controls(2) 
 With combo 
     .AddItem "First Item", 1 
@@ -36,7 +36,7 @@ You can also use the  **FindControl** method to return a **CommandBarComboBox** 
 
 
 
-```
+```vb
 Set myControl = CommandBars.FindControl _ 
 (Type:=msoControlComboBox, Tag:="sheet assignments", Visible:=True)
 ```

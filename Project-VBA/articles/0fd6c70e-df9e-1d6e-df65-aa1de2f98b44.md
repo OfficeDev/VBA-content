@@ -16,7 +16,7 @@ Gets or sets the URL or UNC path of a document. Read/write  **String**.
 The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects
 
 
-```
+```vb
 Sub AddHyperlink() 
  Dim T As Task 
  

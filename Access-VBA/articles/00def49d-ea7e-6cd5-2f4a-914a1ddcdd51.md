@@ -35,7 +35,7 @@ Check the  **Restartable** property before using the **Requery** method on a **R
 This example demonstrates the  **Restartable** property with different **Recordset** objects.
 
 
-```
+```vb
 Sub RestartableX() 
  
  Dim dbsNorthwind As Database 
@@ -72,7 +72,6 @@ Sub RestartableX()
  .Close 
  End With 
  
-End Sub 
-
+End Sub
 ```
 

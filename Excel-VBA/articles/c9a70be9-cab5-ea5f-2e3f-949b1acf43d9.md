@@ -16,7 +16,7 @@ Returns a  **[Styles](146effdc-e007-814d-b110-f7bd944fc15f.md)** collection that
 This example deletes the user-defined style "Stock Quote Style" from the active workbook.
 
 
-```
+```vb
 ActiveWorkbook.Styles("Stock Quote Style").Delete
 ```
 

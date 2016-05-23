@@ -28,7 +28,7 @@ Inserts all or part of the specified file.
 This example uses an INCLUDETEXT field to insert the TEST.DOC file at the end of the current document.
 
 
-```
+```vb
 ActiveDocument.Range.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Range.InsertFile FileName:="C:\TEST.DOC", Link:=True
 ```

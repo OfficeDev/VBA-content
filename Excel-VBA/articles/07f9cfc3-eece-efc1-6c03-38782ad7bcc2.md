@@ -31,7 +31,7 @@ If you have a file open in read-only mode, you don't have exclusive access to th
 This example sets the active workbook to read-only.
 
 
-```
+```vb
 ActiveWorkbook.ChangeFileAccess Mode:=xlReadOnly
 ```
 

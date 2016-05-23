@@ -21,7 +21,7 @@ When you set the  **ProportionalFont** property, the host application does not c
 This example sets the proportional font and proportional font size for the English/Western European/Other Latin Script character set in the active application.
 
 
-```
+```vb
 Application.DefaultWebOptions. _ 
 Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _ 
 .ProportionalFont = "Tahoma" 

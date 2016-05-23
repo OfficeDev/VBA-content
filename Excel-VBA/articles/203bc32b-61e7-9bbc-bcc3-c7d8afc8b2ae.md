@@ -9,7 +9,7 @@ A collection of all the  **[ChartGroup](8a485a8c-e181-a039-60b9-a02c2c89b26e.md)
 Use the  **ChartGroups** method to return the **ChartGroups** collection. The following example displays the number of chart groups in the chart
 
 
-```
+```vb
 MsgBox myChart.ChartGroups.Count
 ```
 

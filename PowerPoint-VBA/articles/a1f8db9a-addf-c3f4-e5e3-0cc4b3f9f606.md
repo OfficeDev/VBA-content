@@ -21,41 +21,27 @@ ColorEffect
 This example adds a shape to the first slide of the active presentation and sets a color effect behavior to change the fill color of the new shape.
 
 
-```
+```vb
 Sub ChangeColorEffect()
 
     Dim sldFirst As Slide
-
     Dim shpHeart As Shape
-
     Dim effNew As Effect
-
     Dim bhvEffect As AnimationBehavior
 
-
-
     Set sldFirst = ActivePresentation.Slides(1)
-
     Set shpHeart = sldFirst.Shapes.AddShape(Type:=msoShapeHeart, _
-
         Left:=100, Top:=100, Width:=100, Height:=100)
 
     Set effNew = sldFirst.TimeLine.MainSequence.AddEffect _
-
         (Shape:=shpHeart, EffectID:=msoAnimEffectChangeFillColor, _
-
         Trigger:=msoAnimTriggerAfterPrevious)
 
     Set bhvEffect = effNew.Behaviors.Add(Type:=msoAnimTypeColor)
 
-
-
     With bhvEffect.ColorEffect
-
         .From.RGB = RGB(Red:=255, Green:=0, Blue:=0)
-
         .To.RGB = RGB(Red:=0, Green:=0, Blue:=255)
-
     End With
 
 End Sub

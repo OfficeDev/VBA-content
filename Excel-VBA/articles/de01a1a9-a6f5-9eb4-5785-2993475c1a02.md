@@ -25,7 +25,7 @@ This property applies only to worksheet pages.
 This example defines row three as the title row, and it defines columns one through three as the title columns.
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 ActiveSheet.PageSetup.PrintTitleRows = ActiveSheet.Rows(3).Address 
 ActiveSheet.PageSetup.PrintTitleColumns = _ 

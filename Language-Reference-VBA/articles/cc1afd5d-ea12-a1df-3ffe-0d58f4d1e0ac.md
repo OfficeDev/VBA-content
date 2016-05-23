@@ -23,7 +23,7 @@ Usually, the [data type](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) of _result_ is
 This example uses the  **Mod** operator to divide two numbers and return only the remainder. If either number is a floating-point number, it is first rounded to an integer.
 
 
-```
+```vb
 Dim MyResult
 MyResult = 10 Mod 5    ' Returns 0.
 MyResult = 10 Mod 3    ' Returns 1.

@@ -40,7 +40,6 @@ Public Sub Stat_Example()
  vsoDocument.Close 
  Debug.Print vsoDocument.Stat 
  
-End Sub 
-
+End Sub
 ```
 

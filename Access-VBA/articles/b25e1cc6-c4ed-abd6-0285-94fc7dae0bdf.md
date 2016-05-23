@@ -36,7 +36,7 @@ The  **BrowseTo** action has the following argument.
 The  _PathToSubFormControl_ argument must be specified using the syntax in the following code example:
 
 
-```
+```text
 Main Form.SubForm Ctrl 1>Form 2.SubForm Ctrl 2>Form 3.SubFormCtrl3
 ```
 
@@ -53,7 +53,7 @@ The following example shows how to use the  **BrowseTo** action to open a report
 
 
 
-```
+```text
 OnError
     Go to Next
     Macro Name

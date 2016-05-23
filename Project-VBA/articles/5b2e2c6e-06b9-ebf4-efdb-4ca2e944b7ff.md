@@ -34,7 +34,7 @@ To calculate a date for an automatically scheduled task, where you can also spec
 The following statement returns the value "7/9/2009 5:00:00 PM", which is six days after the specified date. 
 
 
-```
+```vb
 Debug.Print ActiveProject.Tasks(3).StartDriver.EffectiveDateAdd("7/2/2009", "6d")
 ```
 

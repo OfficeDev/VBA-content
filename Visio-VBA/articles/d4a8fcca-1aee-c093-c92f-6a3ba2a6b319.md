@@ -39,8 +39,6 @@ Public Sub SnapStrengthGuidesX_Example()
  
  Debug.Print lngSnapStrength 
  
-End Sub 
- 
-
+End Sub
 ```
 

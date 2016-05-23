@@ -21,19 +21,13 @@ TextRange
 This example inserts the string " Text to trim " at the beginning of the text in shape two on slide one in the active presentation and then displays message boxes showing the string before and after it is trimmed.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(1).Shapes(2) _
-
         .TextFrame.TextRange
-
     With .InsertBefore("   Text to trim   ")
-
         MsgBox "Untrimmed: " &amp; """" &amp; .Text &amp; """"
-
         MsgBox "Trimmed: " &amp; """" &amp; .TrimText.Text &amp; """"
-
     End With
-
 End With
 ```
 

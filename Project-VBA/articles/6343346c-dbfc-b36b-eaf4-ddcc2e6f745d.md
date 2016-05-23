@@ -16,7 +16,7 @@ Gets the number of items in the  **WeekDays** collection. Read-only **Integer**.
 The following example shows there are seven days in the week for the calendar of the specified resource.
 
 
-```
+```vb
 Debug.Print ActiveProject.Resources(1).Calendar.WorkWeeks(1).WeekDays.Count
 ```
 

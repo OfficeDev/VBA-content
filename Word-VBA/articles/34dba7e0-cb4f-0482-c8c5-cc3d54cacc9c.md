@@ -34,7 +34,7 @@ This method will fail if it is applied to a window that has already been split.
 The following example splits the active window such that the top pane is 30 percent of the total window size.
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.Panes.Add SplitVertical:=30
 ```
 

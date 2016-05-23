@@ -36,7 +36,7 @@ Any of these arguments can be a negative number. If no arguments are specified, 
 This example scrolls the active window down one screen.
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.LargeScroll Down:=1
 ```
 

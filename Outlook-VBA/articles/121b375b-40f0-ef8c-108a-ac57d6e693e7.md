@@ -48,9 +48,7 @@ Private Sub FilterViewToLastWeek()
  
  objView.Apply 
  
-End Sub 
- 
-
+End Sub
 ```
 
 

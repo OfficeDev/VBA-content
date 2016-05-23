@@ -69,7 +69,7 @@ To try the example, add the following event procedure to a form:
 
 
 
-```
+```vb
 Private Sub Form_MouseDown(Button As Integer, _ 
          Shift As Integer, X As Single, _ 
          Y As Single) 

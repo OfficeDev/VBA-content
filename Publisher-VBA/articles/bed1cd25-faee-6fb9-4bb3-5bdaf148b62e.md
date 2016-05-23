@@ -26,7 +26,7 @@ Use the  **[IncrementBrightness](912fd08e-bbb3-bf98-b0da-7128926f3409.md)** meth
 This example sets the brightness for the first shape in the active publication. The shape must be either a picture or an OLE object.
 
 
-```
+```vb
 ActiveDocument.Pages(1).Shapes(1).PictureFormat _ 
  .Brightness = 0.3
 ```

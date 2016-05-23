@@ -16,7 +16,7 @@ Adjusts the height of the specified rows or cells so that they're equal.
 This example adjusts the height of the rows in the first table in the active document so that they're equal.
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows.DistributeHeight
 ```
 

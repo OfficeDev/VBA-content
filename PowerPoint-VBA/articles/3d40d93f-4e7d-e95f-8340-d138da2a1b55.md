@@ -21,7 +21,7 @@ ColorScheme
 This example sets the title color to green for slides one and three in the active presentation.
 
 
-```
+```vb
 Set mySlides = ActivePresentation.Slides.Range(Array(1, 3))
 
 mySlides.ColorScheme.Colors(ppTitle).RGB = RGB(0, 255, 0)

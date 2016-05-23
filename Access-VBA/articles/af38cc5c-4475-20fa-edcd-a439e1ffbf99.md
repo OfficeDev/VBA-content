@@ -10,8 +10,7 @@ This example demonstrates the [GetObjectOwner](716dd49a-8663-3f7a-32a3-0be353aea
 
 
 
-```
- 
+```cpp
 // BeginOwnersCpp 
 #import "c:\Program Files\Common Files\system\ado\msadox.dll" no_namespace 
  

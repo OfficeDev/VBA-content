@@ -24,7 +24,7 @@ The following code example returns the third list format (excluding  **None**) o
 
 
 
-```
+```vb
 Set temp3 = ListGalleries(wdBulletGallery).ListTemplates(3) 
 Selection.Range.ListFormat.ApplyListTemplate ListTemplate:= temp3
 ```

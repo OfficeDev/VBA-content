@@ -13,7 +13,7 @@ Use  **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index numbe
 
 
 
-```
+```vb
 MsgBox ActiveProject.BaseCalendars(1).Name
 ```
 
@@ -24,7 +24,7 @@ Use the  **[BaseCalendars](fb7f55f6-6618-fb82-dae1-320953bcf79d.md)** property t
 
 
 
-```
+```vb
 Dim C As Calendar 
 
  

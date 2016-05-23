@@ -10,9 +10,8 @@ The following code demonstrates how to use the [Command](96b5fc97-f426-8540-fce0
 
 
 
-```
- 
-' BeginViewsCollectionVB 
+```vb
+'BeginViewsCollectionVB 
 Sub Main() 
  On Error GoTo ViewTextError 
  

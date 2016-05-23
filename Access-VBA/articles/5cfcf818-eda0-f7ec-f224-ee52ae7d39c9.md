@@ -36,7 +36,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the Products table.
 
 
-```
+```vb
 Sub SetDatasheetFont 
  
  Dim dbs As Object, objProducts As Object 
@@ -82,7 +82,7 @@ The next example makes the same changes as the preceding example in Datasheet vi
 
 
 
-```
+```vb
 Forms!Products.DatasheetFontName = "MS Serif" 
 Forms!Products.DatasheetFontHeight = 10 
 Forms!Products.DatasheetFontWeight = 500

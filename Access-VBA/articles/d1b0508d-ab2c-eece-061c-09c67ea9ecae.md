@@ -10,9 +10,8 @@ The following code demonstrates how to create a new foreign key. It assumes two 
 
 
 
-```
- 
-' BeginCreateKeyVB 
+```vb
+'BeginCreateKeyVB 
 Sub Main() 
  On Error GoTo CreateKeyError 
  

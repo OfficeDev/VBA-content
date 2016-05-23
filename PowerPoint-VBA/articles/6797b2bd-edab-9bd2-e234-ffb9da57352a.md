@@ -32,48 +32,29 @@ Do not confuse this property with the  **By** property of the **[ColorEffect](c2
 The following example adds an animation path; then sets the horizontal and vertical movement of the shape.
 
 
-```
+```vb
 Sub AddMotionPath()
 
-
-
     Dim effCustom As Effect
-
     Dim animBehavior As AnimationBehavior
-
     Dim shpRectangle As Shape
 
-
-
     'Adds rectangle and sets effect and animation
-
     Set shpRectangle = ActivePresentation.Slides(1).Shapes _
-
         .AddShape(Type:=msoShapeRectangle, Left:=300, _
-
         Top:=300, Width:=300, Height:=150)
 
     Set effCustom = ActivePresentation.Slides(1).TimeLine _
-
         .MainSequence.AddEffect(Shape:=shpRectangle, _
-
          effectId:=msoAnimEffectCustom)
 
     Set animBehavior = effCustom.Behaviors.Add(msoAnimTypeMotion)
 
-
-
     'Specifies animation motion
-
     With animBehavior.MotionEffect
-
         .ByX = 50
-
         .ByY = 50
-
     End With
-
-
 
 End Sub
 ```

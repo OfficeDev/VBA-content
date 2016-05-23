@@ -19,7 +19,7 @@ Deletes a chart on an active report.
 The following example displays a report, and then deletes all charts on the report.
 
 
-```
+```vb
 Sub DeleteCharts()
     Dim chartReport As Report
     Dim chartShape As Shape

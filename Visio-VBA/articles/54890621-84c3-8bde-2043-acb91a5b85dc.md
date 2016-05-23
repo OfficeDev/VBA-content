@@ -54,7 +54,6 @@ Public Sub UndoEnabled_Example()
  'Enable undo. 
  Application.UndoEnabled = True 
  
-End Sub 
-
+End Sub
 ```
 

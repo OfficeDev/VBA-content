@@ -10,8 +10,7 @@ This example displays the value of the [Attributes](4cc1f036-606e-7d4b-d270-af37
 
 
 
-```
- 
+```cpp
 // BeginAttributesCpp 
 #import "C:\Program Files\Common Files\System\ADO\msado15.dll" no_namespace rename("EOF", "EndOfFile") 
  
@@ -206,8 +205,7 @@ VOID PrintComError(_com_error &amp;e)
 
 
 
-```
- 
+```cpp
 // BeginAttributesH 
 #include "icrsint.h" 
  

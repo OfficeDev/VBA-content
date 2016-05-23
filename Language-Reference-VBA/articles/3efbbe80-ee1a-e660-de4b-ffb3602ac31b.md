@@ -10,7 +10,7 @@ Whether an array is indexed from 0 or 1 depends on the setting of the  **Option*
 In the following line of code, a fixed-size array is declared as an  **Integer** array having 11 rows and 11 columns:
 
 
-```
+```vb
 Dim MyArray(10, 10) As Integer 
 
 ```
@@ -22,7 +22,7 @@ As with any other variable declaration, unless you specify a [data type](b8bdf64
 
 
 
-```
+```vb
 ' Integer array uses 22 bytes (11 elements * 2 bytes). 
 ReDim MyIntegerArray(10) As Integer 
  
@@ -51,7 +51,7 @@ The maximum size of an array varies, based on your operating system and how much
 By declaring a dynamic array, you can size the array while the code is running. Use a  **Static**, **Dim**, **Private**, or **Public** statement to declare an array, leaving the parentheses empty, as shown in the following example.
 
 
-```
+```vb
 Dim sngArray() As Single 
 
 ```
@@ -64,7 +64,7 @@ In a procedure within the array's [scope](b8bdf64f-5920-1ae9-16d0-b26d09524a30.m
 
 
 
-```
+```vb
 ReDim Preserve varArray(UBound(varArray) + 10) 
 
 ```

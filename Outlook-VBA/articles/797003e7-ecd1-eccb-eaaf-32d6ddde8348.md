@@ -40,7 +40,7 @@ The following Visual Basic for Applications (VBA) example uses the  **Applicatio
 
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olContactItem) 
  
 myItem.Display

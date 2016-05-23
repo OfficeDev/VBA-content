@@ -10,8 +10,7 @@ This example demonstrates the [OriginalValue](02ffc728-4692-d439-e2a6-2f02cca53a
 
 
 
-```
- 
+```cpp
 // BeginOriginalValueCpp 
 #import "c:\Program Files\Common Files\System\ADO\msado15.dll" no_namespace rename("EOF", "EndOfFile") 
  
@@ -225,7 +224,7 @@ void PrintComError(_com_error &amp;e)
 
 
 ```
- 
+cpp
 // BeginOriginalValueH 
 #include "icrsint.h" 
  

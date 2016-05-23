@@ -11,8 +11,7 @@ The parameter in the command issued against the database is accessed from the [C
 
 
 
-```
- 
+```java
 // BeginItemJ 
 import com.ms.wfc.data.*; 
 import java.io.* ; 

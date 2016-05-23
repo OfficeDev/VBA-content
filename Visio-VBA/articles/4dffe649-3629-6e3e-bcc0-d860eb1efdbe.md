@@ -84,7 +84,6 @@ Public Sub GeometryCount_Example()
  
  UserForm1.Show 
  
-End Sub 
-
+End Sub
 ```
 

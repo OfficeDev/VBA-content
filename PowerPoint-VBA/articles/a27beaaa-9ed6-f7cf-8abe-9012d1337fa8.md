@@ -34,7 +34,7 @@ The value of the  **PauseAnimation** property can be one of these **MsoTriState*
 This example specifies that shape three on slide one in the active presentation will be played automatically when it is animated and that the slide show won't continue while the movie is playing in the background. Shape three must be a sound or movie object.
 
 
-```
+```vb
 Set OLEobj = ActivePresentation.Slides(1).Shapes(3)
 
 With OLEobj.AnimationSettings.PlaySettings

@@ -21,7 +21,7 @@ This property is applicable to OLAP PivotTables only.
 This example shows manual, inclusive filtering in an OLAP PivotTable.
 
 
-```
+```vb
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
 .[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&amp;[Australia]") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 

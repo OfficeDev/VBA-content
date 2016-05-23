@@ -55,7 +55,7 @@ The  **GetTableText** example finds all of the tables on the active report, gets
 
 
 
-```
+```vb
 Sub GetTableText()
     Dim theReport As Report
     Dim shp As shape

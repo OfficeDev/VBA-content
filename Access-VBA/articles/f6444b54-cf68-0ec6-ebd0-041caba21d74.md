@@ -39,7 +39,7 @@ If you try to set a property that can't be set as a default property with the  *
 The following example creates a new form and uses the  **DefaultControl** property to return a **Control** object representing the default command button. The procedure sets some of the default properties for the command button, then creates a new command button on the form.
 
 
-```
+```vb
 Sub SetDefaultProperties() 
  Dim frm As Form, ctlDefault As Control, ctlNew As Control 
  

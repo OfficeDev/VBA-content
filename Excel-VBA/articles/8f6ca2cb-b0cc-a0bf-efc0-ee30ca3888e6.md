@@ -29,7 +29,7 @@ Nothing
 This example selects a sparkline group in the location A1:A4 and changes the location to equal A10:A14.
 
 
-```
+```vb
 Range("A1:A4").Select 
 ActiveCell.SparklineGroups.Item(1).ModifyLocation Range("$A$10:$A$14")
 ```

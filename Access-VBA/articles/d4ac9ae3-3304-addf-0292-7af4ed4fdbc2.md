@@ -10,8 +10,7 @@ This example demonstrates the [Field](1dbd535e-48ad-a5c8-a1b2-6776c1e3e19d.md) o
 
 
 
-```
- 
+```java
 // BeginOptimizeJ 
 import com.ms.wfc.data.*; 
 import java.io.* ; 

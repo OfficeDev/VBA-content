@@ -123,7 +123,6 @@ Public Sub FromPart_Example()
  
  Next intCurrentShapeIndex 
  
-End Sub 
-
+End Sub
 ```
 

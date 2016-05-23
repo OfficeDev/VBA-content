@@ -35,7 +35,7 @@ Use the  **[ClassName](71124adf-11fc-e42d-a9f5-940f7fea97af.md)** property of th
 This example sets the Word document format as the default save format.
 
 
-```
+```vb
 Application.DefaultSaveFormat = ""
 ```
 

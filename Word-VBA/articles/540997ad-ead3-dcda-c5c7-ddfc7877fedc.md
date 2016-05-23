@@ -16,7 +16,7 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 The following example displays the URI for the first schema in the Schema Library.
 
 
-```
+```vb
 MsgBox Application.XMLNamespaces(1).URI
 ```
 

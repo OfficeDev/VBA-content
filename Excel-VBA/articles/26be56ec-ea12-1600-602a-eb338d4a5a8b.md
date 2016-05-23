@@ -21,7 +21,7 @@ Using this property without an object qualifier is equivalent to using  `ActiveW
 This example defines the name "myName" for cell A1 on Sheet1.
 
 
-```
+```vb
 ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _ 
  "=Sheet1!R1C1"
 ```

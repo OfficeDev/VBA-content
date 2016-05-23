@@ -16,7 +16,7 @@ Returns or sets the distance from the bottom of the page to the footer, in point
 This example sets the footer margin of Sheet1 to 0.5 inch.
 
 
-```
+```vb
 Worksheets("Sheet1").PageSetup.FooterMargin = _ 
  Application.InchesToPoints(0.5)
 ```

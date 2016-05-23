@@ -16,7 +16,7 @@ Returns or sets the text string label displayed in the subtotal column or row he
 This example sets the subtotal label to "Regional Subtotal" (instead of the default string "Subtotal") in the state field in the second PivotTable report on the active worksheet.
 
 
-```
+```vb
 ActiveSheet.PivotTables("PivotTable2") _ 
  .PivotFields("state").SubtotalName = "Regional Subtotal"
 ```

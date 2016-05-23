@@ -20,7 +20,7 @@ You can use the  **ActiveReport** property to refer to an active report together
 
 
 
-```
+```vb
 Dim rptCurrentReport As Report 
 Set rptCurrentReport = Screen.ActiveReport 
 MsgBox "Current report is " &amp; rptCurrentReport.Name

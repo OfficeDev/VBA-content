@@ -21,17 +21,15 @@ SlideRange
 This example creates a duplicate of slide one in the active presentation and then sets the background shading and the title text of the new slide. The new slide will be slide two in the presentation.
 
 
-```
+```vb
 Set newSlide = ActivePresentation.Slides(1).Duplicate
 
 With newSlide
 
     .Background.Fill.PresetGradient msoGradientVertical, _
-
         1, msoGradientGold
 
     .Shapes.Title.TextFrame.TextRange _
-
         .Text = "Second Quarter Earnings"
 
 End With

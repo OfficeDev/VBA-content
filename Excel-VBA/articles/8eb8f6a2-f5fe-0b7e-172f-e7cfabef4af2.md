@@ -16,7 +16,7 @@ Returns or sets the default path that Microsoft Excel uses when it opens files. 
 This example displays the current default file path.
 
 
-```
+```vb
 MsgBox "The current default file path is " &amp; _ 
  Application.DefaultFilePath
 ```

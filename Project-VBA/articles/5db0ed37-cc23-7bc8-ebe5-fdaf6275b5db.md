@@ -18,7 +18,7 @@ The following example counts the number of working days in each month of 2012 fo
 
 
 
-```
+```vb
 Dim R As Resource 
 Dim D As Integer, M As Integer, WorkingDays As Integer 
  
@@ -48,7 +48,7 @@ Use the  **[Months](615a4f5c-bda7-f684-1c29-d8003badf3a8.md)** property to retur
 
 
 
-```
+```vb
 ActiveProject.Calendar.Years(2012).Months.Count
 ```
 

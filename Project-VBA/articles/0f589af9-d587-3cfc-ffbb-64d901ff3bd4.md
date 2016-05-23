@@ -21,7 +21,7 @@ The  **Windows** property duplicates the **Windows2** property, except that it r
 The following example cascades all the open windows.
 
 
-```
+```vb
 Sub CascadeWindows() 
  Dim I As Integer 
  

@@ -10,9 +10,8 @@ Setting the [ActiveConnection](c1d90eca-9d62-4d7e-c275-5094e914ecb4.md) property
 
 
 
-```
- 
-' BeginCloseConnectionVB 
+```vb
+'BeginCloseConnectionVB 
 Sub Main() 
  On Error GoTo CloseConnectionByNothingError 
  
@@ -58,7 +57,7 @@ Closing a [Connection](c16023aa-0321-2513-ee71-255d6ffba03d.md) object that was 
 
 
 
-```
+```vb
 Sub CloseConnection() 
  On Error GoTo CloseConnectionError 
  

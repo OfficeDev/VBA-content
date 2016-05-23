@@ -44,7 +44,7 @@ Calling the  **SaveAs** method always performs saves in the foreground regardles
 This example saves the active publication as a Microsoft Publisher 2000 file.
 
 
-```
+```vb
 ActiveDocument.SaveAs FileName:="ReportPub2000.pub", Format:=pbFilePublisher2000
 ```
 
@@ -53,7 +53,7 @@ This example saves the active publication as Test.rtf in Rich Text Format (RTF).
 
 
 
-```
+```vb
 ActiveDocument.SaveAs FileName:="Test.rtf", Format:=pbFileRTF
 ```
 

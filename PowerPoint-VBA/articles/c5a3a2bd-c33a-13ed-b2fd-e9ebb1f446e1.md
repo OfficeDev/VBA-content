@@ -28,43 +28,28 @@ Do not confuse this property with the  **ToX** or **ToY** properties of the **[S
 The following example adds a color effect and changes its color from a light bluish green to yellow.
 
 
-```
+```vb
 Sub AddAndChangeColorEffect()
 
     Dim effBlinds As Effect
-
     Dim tmlTiming As TimeLine
-
     Dim shpRectangle As Shape
-
     Dim animColor As AnimationBehavior
-
     Dim clrEffect As ColorEffect
 
-
-
     Set shpRectangle = ActivePresentation.Slides(1).Shapes _
-
         .AddShape(Type:=msoShapeRectangle, Left:=100, _
-
         Top:=100, Width:=50, Height:=50)
 
     Set tmlTiming = ActivePresentation.Slides(1).TimeLine
-
     Set effBlinds = tmlTiming.MainSequence.AddEffect(Shape:=shpRectangle, _
-
         effectId:=msoAnimEffectBlinds)
 
     Set animColor = tmlTiming.MainSequence(1).Behaviors _
-
         .Add(Type:=msoAnimTypeColor)
 
     Set clrEffect = animColor.ColorEffect
-
-
-
     clrEffect.From.RGB = RGB(Red:=255, Green:=255, Blue:=0)
-
     clrEffect.To.RGB = RGB(Red:=0, Green:=255, Blue:=255)
 
 End Sub

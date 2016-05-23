@@ -22,7 +22,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
  **Value** is the default property for the **Shapes** object. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
 
 
-```
+```vb
 ? ActiveProject.Reports("Table Tests").Shapes.Value(1).Name
 ```
 
@@ -31,7 +31,7 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 
 
 
-```
+```vb
 ? ActiveProject.Reports("Table Tests").Shapes(1).Name
 ```
 
@@ -40,7 +40,7 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 
 
 
-```
+```vb
 ? ActiveProject.Reports("Table Tests").Shapes.Item(1).Name
 ```
 

@@ -13,7 +13,7 @@ Use  **TablesOfAuthoritiesCategories** (Index), where Index is the category name
 
 
 
-```
+```vb
 ActiveDocument.TablesOfAuthoritiesCategories("Rules").Name = _ 
  "Other Provisions"
 ```
@@ -23,7 +23,7 @@ The index number represents the position of the category in the  **Index and Tab
 
 
 
-```
+```vb
 MsgBox ActiveDocument.TablesOfAuthoritiesCategories(1).Name
 ```
 

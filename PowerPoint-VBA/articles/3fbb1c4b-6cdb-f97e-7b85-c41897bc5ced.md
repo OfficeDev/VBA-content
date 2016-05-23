@@ -36,9 +36,8 @@ When you are using the  **TextDirection** property, The **ppDirectionMixed** con
 This example sets the direction in which cells in the selected table are ordered to left to right (first column is the leftmost column).
 
 
-```
+```vb
 ActiveWindow.Selection.ShapeRange.Table.TableDirection = _
-
     ppDirectionLeftToRight
 ```
 

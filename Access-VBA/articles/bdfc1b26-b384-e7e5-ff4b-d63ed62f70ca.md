@@ -10,8 +10,7 @@ This example uses the [Status](bf3ccb36-c985-5fae-4f76-c48a0e20e6f7.md) property
 
 
 
-```
- 
+```java
 // BeginStatusJ 
 import java.io.*; 
 import com.ms.wfc.data.*; 

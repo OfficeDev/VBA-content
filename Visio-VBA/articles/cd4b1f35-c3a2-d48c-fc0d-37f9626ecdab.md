@@ -52,7 +52,6 @@ Public Sub HeaderFooterFont_Example()
     objStdFont.Bold = False 
     Set ThisDocument.HeaderFooterFont = objStdFont  
  
-End Sub 
-
+End Sub
 ```
 

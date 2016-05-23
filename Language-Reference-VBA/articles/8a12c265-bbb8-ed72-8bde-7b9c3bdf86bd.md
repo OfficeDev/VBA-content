@@ -33,7 +33,7 @@ When an application closes, you can use the  **QueryClose** event procedure to s
 The following code forces the user to click the  **UserForm's** client area to close it. If the user tries to use the **Close** box in the title bar, the _Cancel_ parameter is set to a nonzero value, preventing termination. However, if the user has clicked the client area, _CloseMode_ has the value 1 and `Unload Me` is executed.
 
 
-```
+```vb
 Private Sub UserForm_Activate()
     UserForm1.Caption = "You must Click me to kill me!"
 End Sub
@@ -47,6 +47,5 @@ Private Sub UserForm_QueryClose(Cancel As Integer, CloseMode As Integer)
     If CloseMode <> 1 Then Cancel = 1
     UserForm1.Caption = "The Close box won't work! Click me!"
 End Sub
-
 ```
 

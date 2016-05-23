@@ -39,7 +39,7 @@ The  **OpenXML** method returns 0 if it is successful.
 The following example opens a file named OneTaskEdited.xml that was created by saving a project as XML and then editing the file to remove default values. The example requires a reference to the Microsoft Scripting Runtime library (scrrun.dll).
 
 
-```
+```vb
 Sub ImportXMLProject() 
     ' Requires reference to the Microsoft Scripting Runtime library (scrrun.dll). 
     Dim txtStream As TextStream 

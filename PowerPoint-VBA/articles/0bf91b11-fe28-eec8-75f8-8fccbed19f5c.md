@@ -32,7 +32,7 @@ The value of the  **LineRuleWithin** property can be one of these **MsoTriState*
 This example displays a message box that shows the setting for line spacing for text in shape two on slide one in the active presentation.
 
 
-```
+```vb
 With Application.ActivePresentation.Slides(1).Shapes(2).TextFrame
 
     With .TextRange.ParagraphFormat

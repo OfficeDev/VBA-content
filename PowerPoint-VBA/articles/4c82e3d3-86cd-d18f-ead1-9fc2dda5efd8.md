@@ -21,7 +21,7 @@ Note that applying the  **Background** method to a shape's fill isn't the same a
 This example sets the fill of shape one on slide one in the active presentation to match the slide background.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).Fill.Background
 ```
 
@@ -30,35 +30,24 @@ This example sets the background for slide one in the active presentation to a p
 
 
 
-```
+```vb
 With ActivePresentation.Slides(1)
 
     .FollowMasterBackground = False
-
     .Background.Fill.PresetGradient _
-
         msoGradientHorizontal, 1, msoGradientDaybreak
 
     With .Shapes
-
         .AddShape msoShapeRectangle, 50, 200, 600, 100
-
         .AddShape(msoShapeOval, 75, 150, 150, 100) _
-
             .Fill.Background
-
         .AddShape(msoShapeOval, 275, 150, 150, 100).Fill _
-
             .Transparency = 1
-
         .AddShape(msoShapeOval, 475, 150, 150, 100) _
-
             .Fill.PresetGradient _
-
             msoGradientHorizontal, 1, msoGradientDaybreak
-
     End With
-
+	
 End With
 ```
 

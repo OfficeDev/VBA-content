@@ -40,7 +40,6 @@ Sub FooterCenter_Example()
     'Set the footer of the current document.  
      ThisDocument.FooterCenter = strFooter 
   
-End Sub 
-
+End Sub
 ```
 

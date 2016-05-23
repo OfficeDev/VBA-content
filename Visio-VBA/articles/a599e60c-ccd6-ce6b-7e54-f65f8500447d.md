@@ -80,7 +80,6 @@ Public Sub DrawPolyline_Example()
  'Use the DrawPolyline method to draw a shape that has 1-D behavior. 
  Set vsoShape = ActivePage.DrawPolyline(adblXYPoints, visPolyline1D) 
  
-End Sub 
-
+End Sub
 ```
 

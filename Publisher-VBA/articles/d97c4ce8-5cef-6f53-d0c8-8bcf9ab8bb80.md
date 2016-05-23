@@ -68,7 +68,7 @@ The PresetGradientType parameter can be one of the  **MsoPresetGradientType** co
 This example adds a rectangle with a preset gradient fill to the active publication.
 
 
-```
+```vb
 ActiveDocument.Pages(1).Shapes _ 
  .AddShape(msoShapeRectangle, 90, 90, 140, 80) _ 
  .Fill.PresetGradient Style:=msoGradientHorizontal, _ 

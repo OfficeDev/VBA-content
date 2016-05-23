@@ -32,7 +32,7 @@ The connection string is different for different types of ODBC data sources. For
 
 
 
-```
+```text
 ODBC;DSN=Human Resources;SERVER=HRSRVR;UID=Smith;PWD=Sesame;
 ```
 

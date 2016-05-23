@@ -29,7 +29,7 @@ Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write 
 This example sets the font to italic for the shape named "WordArt 4" in  `myDocument`.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes("WordArt 4").TextEffect.FontItalic = msoTrue
 ```

@@ -21,7 +21,7 @@ You can set the  **StartUpPosition** property programmatically or from the **Pro
 The following example uses the  **Load** statement and the **Show** method in UserForm1's Click event to load UserForm2 with the **StartUpPosition** property set to 3 (the Windows default position). The **Show** method then makes UserForm2 visible.
 
 
-```
+```vb
 Private Sub UserForm_Click()
     Load UserForm2
     UserForm2. StartUpPosition = 3

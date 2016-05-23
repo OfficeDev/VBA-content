@@ -16,7 +16,7 @@ Returns a  **[Range](b8207778-0dcc-4570-1234-f130532cc8cd.md)** object that repr
 This example sets the value of the first cell in the row that contains the active cell. The example must be run from a worksheet.
 
 
-```
+```vb
 ActiveCell.EntireRow.Cells(1, 1).Value = 5
 ```
 

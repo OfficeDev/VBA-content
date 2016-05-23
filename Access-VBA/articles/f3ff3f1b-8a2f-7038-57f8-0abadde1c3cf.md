@@ -11,7 +11,7 @@ Query1
 
 
 
-```
+```sql
 SELECT * FROM Employees, Query2;
 
 ```
@@ -20,7 +20,7 @@ Query2
 
 
 
-```
+```sql
 SELECT * FROM Query1;
 
 

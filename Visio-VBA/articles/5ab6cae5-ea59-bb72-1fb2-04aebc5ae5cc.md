@@ -26,7 +26,7 @@ The collection of reviewers is one-based, so the index of the first reviewer in 
 The following code gets the number of reviewers in the drawing open in Visio Viewer and displays it in the  **Immediate** window.
 
 
-```
+```vb
 Debug.Print vsoViewer.ReviewerCount
 ```
 

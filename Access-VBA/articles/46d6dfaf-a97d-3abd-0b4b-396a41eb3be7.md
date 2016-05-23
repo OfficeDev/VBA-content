@@ -53,7 +53,7 @@ To create a new  **Relation** object, use the **CreateRelation** method. To refe
 This example shows how an existing  **Relation** object can control data entry. The procedure attempts to add a record with a deliberately incorrect CategoryID; this triggers the error-handling routine.
 
 
-```
+```vb
 Sub RelationX() 
  
  Dim dbsNorthwind As Database 
@@ -107,8 +107,7 @@ Err_Relation:
  
  Resume Next 
  
-End Sub 
-
+End Sub
 ```
 
 This example uses the  **CreateRelation** method to create a **Relation** between the Employees **TableDef** and a new **TableDef** called Departments. This example also demonstrates how creating a new **Relation** will also create any necessary **Indexes** in the foreign table (the DepartmentsEmployees Index in the Employees table).
@@ -116,7 +115,7 @@ This example uses the  **CreateRelation** method to create a **Relation** betwee
 
 
 
-```
+```vb
 Sub CreateRelationX() 
  
  Dim dbsNorthwind As Database 
@@ -198,7 +197,6 @@ Sub CreateRelationX()
  .Close 
  End With 
  
-End Sub 
-
+End Sub
 ```
 

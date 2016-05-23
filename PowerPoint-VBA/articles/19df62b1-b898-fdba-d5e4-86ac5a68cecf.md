@@ -26,59 +26,34 @@ The value of the  **Time** property can be any floating-point value between 0 an
 This example inserts three fill color animation points in the main sequence animation timeline on the first slide.
 
 
-```
+```vb
 Sub BuildTimeLine()
 
-
-
     Dim shpFirst As Shape
-
     Dim effMain As Effect
-
     Dim tmlMain As TimeLine
-
     Dim aniBhvr As AnimationBehavior
-
     Dim aniPoint As AnimationPoint
 
-
-
     Set shpFirst = ActivePresentation.Slides(1).Shapes(1)
-
     Set tmlMain = ActivePresentation.Slides(1).TimeLine
-
     Set effMain = tmlMain.MainSequence.AddEffect(Shape:=shpFirst, _
-
         EffectId:=msoAnimEffectBlinds)
 
     Set aniBhvr = tmlMain.MainSequence(1).Behaviors.Add _
-
         (Type:=msoAnimTypeProperty)
 
-
-
     With aniBhvr.PropertyEffect
-
         .Property = msoAnimShapeFillColor
-
         Set aniPoint = .Points.Add
-
         aniPoint.Time = 0.2
-
         aniPoint.Value = RGB(0, 0, 0)
-
         Set aniPoint = .Points.Add
-
         aniPoint.Time = 0.5
-
         aniPoint.Value = RGB(0, 255, 0)
-
         Set aniPoint = .Points.Add
-
         aniPoint.Time = 1
-
         aniPoint.Value = RGB(0, 255, 255)
-
     End With
 
 End Sub
