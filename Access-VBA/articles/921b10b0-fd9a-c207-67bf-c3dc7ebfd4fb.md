@@ -3,7 +3,7 @@
 
  **Last modified:** December 30, 2015
 
- _ **Applies to:** Access 2013 | Access 2016_
+**Applies to:** Access 2013 | Access 2016
 
 The USER keyword is used in these contexts:
 
@@ -11,12 +11,12 @@ The USER keyword is used in these contexts:
 [ADD USER Statement](http://msdn.microsoft.com/library/1feb631f-cb8c-14ae-6214-276f1faf1a55%28Office.15%29.aspx)
 [DROP USER or GROUP Statement](http://msdn.microsoft.com/library/46bc5916-556b-17df-2f4c-8fd7bbd21ef7%28Office.15%29.aspx)
 [ALTER USER or DATABASE Statement](http://msdn.microsoft.com/library/86ccd296-5171-97e7-683f-cdaab4bde9ab%28Office.15%29.aspx)
- **ACCESS SUPPORT RESOURCES**<br><br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br><br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br><br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br><br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br><br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br><br>
+ **ACCESS SUPPORT RESOURCES**<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br>
+[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)

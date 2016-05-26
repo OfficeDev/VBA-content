@@ -3,7 +3,7 @@
 
  **Last modified:** December 30, 2015
 
- _ **Applies to:** Access 2013 | Access 2016_
+**Applies to:** Access 2013 | Access 2016
 
 The unbound object frame control displays a picture, chart, or any OLE object not stored in a table. For example, you can use an unbound object frame to display a chart that you created and stored in Microsoft Graph.
 
@@ -21,12 +21,12 @@ The unbound object frame can display linked or embedded objects.
 
  **Tip**  You can use the unbound object frame or an [image control](1f938a6e-7aea-7787-d959-e21edaa9342c.md)to display unbound pictures in a form or report. The advantage of using the unbound object frame is that you can edit the object directly from the form or report. The advantage of using the image control is that it's faster to display.
 
- **ACCESS SUPPORT RESOURCES**<br><br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br><br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br><br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br><br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br><br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br><br>
+ **ACCESS SUPPORT RESOURCES**<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br>
+[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)

@@ -3,7 +3,7 @@
 
  **Last modified:** December 30, 2015
 
- _ **Applies to:** Access 2013 | Access 2016_
+**Applies to:** Access 2013 | Access 2016
 
 
 
@@ -35,12 +35,12 @@ Visual SourceSafe (and most other source code control programs) provides the fol
 - Controls access to files. 
     
 When you have your development projects under Visual SourceSafe control, the contents of your project and the contents of your Visual SourceSafe project remain synchronized. The most common source code control commands are available from the  **Source Control** tab in Microsoft Access.
- **ACCESS SUPPORT RESOURCES**<br><br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br><br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br><br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br><br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br><br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br><br>
+ **ACCESS SUPPORT RESOURCES**<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br>
+[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)

@@ -3,7 +3,7 @@
 
  **Last modified:** December 30, 2015
 
- _ **Applies to:** Access 2013 | Access 2016_
+**Applies to:** Access 2013 | Access 2016
 
 The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameter at design time and bind it to a data-aware control using the SQLOLEDB provider. Cut and paste this code into a normal ASP document and name it **ServerDesignVBS.asp**. ASP script will identify your server.
 
@@ -92,12 +92,12 @@ End Sub-->
 ```
 
 [DataControl Object (RDS)](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) |[Server Property (RDS)](http://msdn.microsoft.com/library/17519dbe-a43a-1d0d-22c1-dc0def2f63ab%28Office.15%29.aspx)
- **ACCESS SUPPORT RESOURCES**<br><br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br><br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br><br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br><br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br><br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br><br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br><br>
+ **ACCESS SUPPORT RESOURCES**<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br>
+[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
