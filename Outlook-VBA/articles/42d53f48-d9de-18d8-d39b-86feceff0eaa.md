@@ -1,7 +1,7 @@
 
 # Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request
 
-This topic shows how to use the named property,  [PidLidAppointmentCounterProposal](http://msdn.microsoft.com/library/f510af2d-92b3-4c98-bdf4-8aca8e8b80d1%28Office.15%29.aspx), and the Microsoft Outlook object model to identify a  ** [MeetingItem](http://msdn.microsoft.com/library/guid_b75730f5-b395-3d66-5acd-b64fd8fcd78f.aspx)** object as a counter proposal to a prior meeting request.
+This topic shows how to use the named property,  [PidLidAppointmentCounterProposal](http://msdn.microsoft.com/library/f510af2d-92b3-4c98-bdf4-8aca8e8b80d1%28Office.15%29.aspx), and the Microsoft Outlook object model to identify a  **[MeetingItem](http://msdn.microsoft.com/library/guid_b75730f5-b395-3d66-5acd-b64fd8fcd78f.aspx)** object as a counter proposal to a prior meeting request.
 
 In the Outlook object model, all types of items, such as a mail item and a contact item, correspond to specific message classes. In particular, responses to a meeting request can be identified by the following message classes: 
 
@@ -13,7 +13,7 @@ In the Outlook object model, all types of items, such as a mail item and a conta
     
 
 However, the Outlook object model does not provide a means to identify a response as the fourth possible response to a meeting request, which is a counter-proposal.
-Using the  ** [PropertyAccessor](http://msdn.microsoft.com/library/guid_2fc91e13-703c-3ec9-9066-ffee7144306c.aspx)** object and the **PSETID_Appointment** namespace definition of **PidLidAppointmentCounterProposal**, you can program within the object model to distinguish all responses of a meeting request item. The following code sample in C# shows how to get the property value given a meeting item. Note that in the code sample, the named property is expressed as: 
+Using the  **[PropertyAccessor](http://msdn.microsoft.com/library/guid_2fc91e13-703c-3ec9-9066-ffee7144306c.aspx)** object and the **PSETID_Appointment** namespace definition of **PidLidAppointmentCounterProposal**, you can program within the object model to distinguish all responses of a meeting request item. The following code sample in C# shows how to get the property value given a meeting item. Note that in the code sample, the named property is expressed as: 
 
 
 
