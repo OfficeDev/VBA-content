@@ -18,7 +18,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 | **[JournalItem](6e850295-39f9-47b8-e866-9622e9958c69.md)**| **[TaskItem](5df8cfa5-5460-a5a1-a130-ba5bca1a0091.md)**|
 | **[MailItem](14197346-05d2-0250-fa4c-4a6b07daf25f.md)**| **[TaskRequestAcceptItem](a2905f72-0a67-b07d-7f85-84fe4de17c25.md)**|
 | **[MeetingItem](b75730f5-b395-3d66-5acd-b64fd8fcd78f.md)**| **[TaskRequestDeclineItem](e842c7c0-7943-9219-329b-30b892ab99b0.md)**|
-| ** [MobileItem](http://msdn.microsoft.com/library/da8149d5-66d3-ea02-941f-e7f2f9eb6bc3%28Office.15%29.aspx)**| **[TaskRequestItem](2908a28a-634c-e786-aa53-f3e32038b727.md)**|
+| **[MobileItem](http://msdn.microsoft.com/library/da8149d5-66d3-ea02-941f-e7f2f9eb6bc3%28Office.15%29.aspx)**| **[TaskRequestItem](2908a28a-634c-e786-aa53-f3e32038b727.md)**|
 | **[NoteItem](ddf5baaa-6e13-a6fb-96e8-311e7761fa98.md)**| **[TaskRequestUpdateItem](5bc407fe-b3f6-3e46-8b91-e2ed96292cec.md)**|
 Outlook items are displayed based on the category name stored in the  **Categories** property of that Outlook item. Because category names are stored as part of the Outlook item, it is possible to have a category name in an Outlook item that is not present in the Master Category List. For example, a category may have been removed.
 
