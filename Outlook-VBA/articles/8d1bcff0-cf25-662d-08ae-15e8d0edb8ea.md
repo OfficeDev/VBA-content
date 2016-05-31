@@ -7,7 +7,7 @@ The  **Categories** property of an item is of type **keywords** which can contai
 
 ## Jet Queries
 
- In a Jet query, you can only perform phrase-matching on a keywords property. You cannot perform starts-with or substring matching with a Jet query. Consider the following criteria for ** [Table.Restrict](ecdd30f6-e12c-8025-3ded-592d2fad2bb8.md)**: 
+ In a Jet query, you can only perform phrase-matching on a keywords property. You cannot perform starts-with or substring matching with a Jet query. Consider the following criteria for **[Table.Restrict](ecdd30f6-e12c-8025-3ded-592d2fad2bb8.md)**: 
 
 
 ```
