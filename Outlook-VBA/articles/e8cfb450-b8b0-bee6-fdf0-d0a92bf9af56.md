@@ -12,6 +12,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 
 
 | **[AppointmentItem](204a409d-654e-27aa-643a-8344c631b82d.md)**| **[RemoteItem](6302aaff-cdcf-4d86-60f1-4bed15540d9f.md)**|
+|:-----|:-----|
 | **[ContactItem](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)**| **[ReportItem](16ebe336-72e0-42f6-99d3-edecc3ea284d.md)**|
 | **[DistListItem](027c3986-abff-d9b1-ecc2-26d60805e952.md)**| **[SharingItem](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)**|
 | **[DocumentItem](7b0a6af0-6632-3ff6-841f-5b081d0d68d8.md)**| **[PostItem](de44065d-4e93-315a-279f-7b92f09c0465.md)**|
