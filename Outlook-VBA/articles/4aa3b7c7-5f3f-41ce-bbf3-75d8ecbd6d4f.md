@@ -3,7 +3,9 @@
 
 ## 
 
-The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send e-mails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook E-mail Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. The Object Model Guard warns users and prompts users for confirmation when untrusted applications attempt to use the object model to obtain e-mail address information, store data outside of Outlook, execute certain actions, and send e-mail messages. Although the Object Model Guard succeeds in identifying and protecting these entry points, two main issues exist that render the Object Model Guard rather unpractical:
+The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send e-mails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook E-mail Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. 
+
+The Object Model Guard warns users and prompts users for confirmation when untrusted applications attempt to use the object model to obtain e-mail address information, store data outside of Outlook, execute certain actions, and send e-mail messages. Although the Object Model Guard succeeds in identifying and protecting these entry points, two main issues exist that render the Object Model Guard rather unpractical:
 
 
 - The default circumstances that applications invoke the Object Model Guard in earlier versions of Outlook can result in excessive security prompting for legitimate applications.
