@@ -10,7 +10,7 @@ This example demonstrates the [DateCreated](ee975bf5-7d44-a993-d1c0-077993515698
 
 
 
-```cpp
+```cpp 
 // BeginDateCreatedCpp 
 #import "c:\Program Files\Common Files\system\ado\msadox.dll" no_namespace 
 #import "c:\Program Files\Common Files\system\ado\msado15.dll" 

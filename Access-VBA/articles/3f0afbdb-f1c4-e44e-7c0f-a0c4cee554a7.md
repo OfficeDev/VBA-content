@@ -46,20 +46,20 @@ Given an OLE DB  **Row** object ( `pRow`), the construction of an ADO  **Record*
 
 1. Create an ADO  **Record** object:
     
-```
+  ```
   _RecordPtr adoR;
 adoRs.CreateInstance(__uuidof(_Record));
 
-```
+  ```
 
 2. Query the  **IADORecordConstruction** interface on the **Record** object:
     
-```
+  ```
   adoRecordConstructionPtr adoRConstruct=NULL;
 adoR->QueryInterface(__uuidof(ADORecordConstruction),
                     (void**)&amp;adoRConstruct);
 
-```
+  ```
 
 3. Call the  **IADORecordConstruction::put_Row** property method to set the OLE DB **Row** object on the ADO **Record** object:
     
@@ -68,7 +68,7 @@ adoR->QueryInterface(__uuidof(ADORecordConstruction),
 pRow->QueryInterface(IID_IUnknown, (void**)&amp;pUnk);
 adoRConstruct->put_Row(pUnk);
 
-```
+  ```
 
 The resultant  **adoR** object now represents the ADO **Record** object constructed from the OLE DB **Row** object.
 

@@ -21,7 +21,7 @@ Alternatively, you can invoke a shortcut technique,  **Recordset.Open**, to open
 
 
 
-```vb
+```
  
 Dim recordset as ADODB.Recordset 
 Set recordset = New ADODB.Recordset 

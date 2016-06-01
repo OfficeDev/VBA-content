@@ -53,7 +53,7 @@ The following example shows how to use the  **BrowseTo** action to open a report
 
 
 
-```vbtext
+```text
 OnError
     Go to Next
     Macro Name

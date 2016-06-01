@@ -10,7 +10,7 @@ This example displays cube metadata on a web page.
 
 
 
-```vb
+```
  
 <%@ Language=VBScript %> 
 <% 

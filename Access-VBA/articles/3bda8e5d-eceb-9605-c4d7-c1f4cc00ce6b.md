@@ -22,7 +22,7 @@ The  **Fields** collection contains a **Field** object for every field (column) 
 Consider the  **Fields** collection of the sample **Recordset** introduced in this chapter. The sample **Recordset** was derived from the SQL statement
 
 
-```sql
+```sql 
 SELECT ProductID, ProductName, UnitPrice FROM Products WHERE CategoryID = 7 
 ```
 
