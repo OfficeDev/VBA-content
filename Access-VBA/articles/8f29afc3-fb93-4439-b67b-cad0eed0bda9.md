@@ -57,7 +57,7 @@ The parts of this clause are as follows:
   - A chapter column. A chapter column definition is enclosed in parentheses ("()"). See syntax below:
     
 
-```
+```sql
  
 SHAPE [parent-command  [[AS] parent-alias ]] 
  APPEND (child-recordset  [ [[AS] child-alias ] 

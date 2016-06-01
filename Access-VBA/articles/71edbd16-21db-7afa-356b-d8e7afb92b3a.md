@@ -13,7 +13,7 @@ For example, you can specify the following:
 
 
 
-```
+```sql
  
 SHAPE {SELECT * FROM customer} 
  APPEND ({SELECT * FROM orders WHERE cust_id = ?} 
@@ -43,7 +43,7 @@ The  **Cache Child Rows** dynamic property is set to **True** by default. The ca
 
 
 
-```
+```sql
  
 ... 
 SCmd = "SHAPE {select * from customer} " &amp; _ 
@@ -71,7 +71,7 @@ To obtain the desired result, you can use a parameterized command. For example:
 
 
 
-```
+```sql
  
 SHAPE {SELECT * FROM teams} 
 APPEND ({SELECT * FROM games WHERE home_team = ? OR visiting_team = ?} 

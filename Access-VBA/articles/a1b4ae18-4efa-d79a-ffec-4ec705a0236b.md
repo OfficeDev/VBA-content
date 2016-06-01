@@ -13,7 +13,7 @@ Possible causes:
     
 - The declaration appears in an unexpected and disallowed position in the SQL statement. For example:
     
-```
+```sql
   SELECT * WITH OWNERACCESS OPTION FROM [My Table]; 
 
 ```
@@ -23,7 +23,7 @@ Possible causes:
     
 
 
-```
+```sql
   SELECT * FROM [My Table] WITH OWNERACCESS OPTION;
 ```
 
