@@ -10,7 +10,7 @@ You can use the  **If** macro block to conditionally execute a group of actions,
 
 
 
-```text
+```vbtext
 IfexpressionThen 
  Insert macro actions here ... 
 Else Ifexpression  
@@ -46,7 +46,7 @@ In the following code example, the macro actions in the first block execute if t
 
 
 
-```text
+```vbtext
 If[Status] > 0Then 
  Insert macro actions here ... 
 Else If[Status] = 0  
@@ -61,7 +61,7 @@ You can nest  **If** blocks. You should consider nesting an **If** block within 
 
 
 
-```text
+```vbtext
 If[Status] > 0Then 
  Insert macro actions here ... 
  If[Status] > 100  

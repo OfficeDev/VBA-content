@@ -10,7 +10,7 @@ The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.
 
 
 
-```
+```vb
 
 <!-- BeginServerDesignVBS --><%@ Language=VBScript %>
 <html><head>
@@ -47,7 +47,7 @@ The following example shows how to set the necessary parameters of  **RDS.DataCo
 
 
 
-```
+```vb
 
 <!-- BeginServerRuntimeVBS --><%@ Language=VBScript %>
 <html><head>
