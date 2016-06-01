@@ -13,19 +13,19 @@ Possible causes:
     
 - The declaration appears in an unexpected and disallowed position in the SQL statement. For example:
     
-  ```
+```
   SELECT * WITH OWNERACCESS OPTION FROM [My Table]; 
 
-  ```
+```
 
 
     The WITH OWNERACCESS OPTION declaration should appear at the end of the SQL statement, usually after the ORDER BY clause, if present:
     
 
 
-  ```
+```
   SELECT * FROM [My Table] WITH OWNERACCESS OPTION;
-  ```
+```
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
