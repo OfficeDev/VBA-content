@@ -223,7 +223,7 @@ void PrintComError(_com_error &amp;e)
 
 
 
-```
+```c#
 cpp
 // BeginOriginalValueH 
 #include "icrsint.h" 
