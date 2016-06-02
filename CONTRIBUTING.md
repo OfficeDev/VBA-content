@@ -13,7 +13,7 @@ The content in the VBA repository is grouped first by product, then by topic. Th
 Here you'll learn how to contribute to VBA documentation without having to clone the repo on your desktop. This is the quickest and easiest way to create a pull request in this repository. Use this method if you would like to make a minor change that doesn't involve code changes. 
 
 1. Find the article you want to contribute to on GitHub. If the article is in MSDN, simply click the **suggest and submit changes** link in the **Contribute to this content** section and you'll be taken to the same article on GitHub.
-2. Once you are on the article in GitHub, sign in to GitHub (you can get a free account [here](https://github.com/join).
+2. Once you are on the article in GitHub, sign in to GitHub (you can get a free account [here](https://github.com/join)).
 3. Click the **pencil icon** (Edit the file in your fork of this project) and make your changes in the **<>Edit file** window. 
 4. Scroll to the bottom and enter a description.
 5. Click **Propose file change**, and then click **Create pull request**.
