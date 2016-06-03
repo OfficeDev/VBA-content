@@ -1,7 +1,7 @@
 
 # Declaring Arrays
 
-[Arrays](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) are declared the same way as other[variables](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
+[Arrays](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) are declared the same way as other [variables](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
 
 Whether an array is indexed from 0 or 1 depends on the setting of the  **Option** **Base** statement. If **Option** **Base** **1** is not specified, all array indexes begin at zero.
 
@@ -70,5 +70,5 @@ ReDim Preserve varArray(UBound(varArray) + 10)
 ```
 
 
- **Note**  When you use the  **Preserve**[keyword](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
+ **Note**  When you use the  **Preserve** [keyword](b8bdf64f-5920-1ae9-16d0-b26d09524a30.md) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
 
