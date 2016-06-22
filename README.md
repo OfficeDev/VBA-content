@@ -1,4 +1,4 @@
-# VBA
+﻿# VBA
 The content in the VBA repository is grouped first by product, then by topic. The README.md file at the root of each topic directory specifies the structure of the articles within the topic. For more information about contributing to the VBA documentation see the [Contributor's Kit](https://github.com/OfficeDev/VBA-content/blob/master/CONTRIBUTING.md).
 
 ## Download the VBA references
@@ -11,7 +11,7 @@ The VBA references available include:
 + PowerPoint - http://aka.ms/powerpoint2016vba
 + Word - http://aka.ms/word2016vba
 
-To open the CHM file, double-click the file in Windows Explorer at the disk location where you saved it.
+To open the CHM file, double-click the file in Windows Explorer at the disk location where you last saved it.
 
 ### Troubleshooting: If No Content is Shown When You Open the CHM file
 <b>Note:</b> The CHM file must be on your local drive.
