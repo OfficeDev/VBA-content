@@ -62,12 +62,12 @@ Sub ForeignNameX()
  For Each relLoop In dbsNorthwind.Relations 
  With relLoop 
  Debug.Print 
- Debug.Print .Name &amp; " Relation" 
+ Debug.Print .Name &; " Relation" 
  Debug.Print " Table - Field" 
  Debug.Print " Primary (One) "; 
- Debug.Print .Table &amp; " - " &amp; .Fields(0).Name 
+ Debug.Print .Table &; " - " &; .Fields(0).Name 
  Debug.Print " Foreign (Many) "; 
- Debug.Print .ForeignTable &amp; " - " &amp; _ 
+ Debug.Print .ForeignTable &; " - " &; _ 
  .Fields(0).ForeignName 
  End With 
  Next relLoop 

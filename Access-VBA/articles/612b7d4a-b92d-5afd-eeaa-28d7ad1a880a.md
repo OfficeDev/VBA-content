@@ -22,7 +22,7 @@ This example displays the value of the [Attributes](4cc1f036-606e-7d4b-d270-af37
 inline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);}; 
 void AttributesX(); 
 void PrintProviderError(_ConnectionPtr pConnection); 
-void PrintComError(_com_error &amp;e); 
+void PrintComError(_com_error &;e); 
  
 /////////////////////////////////////////////////////////// 
 // // 
@@ -103,7 +103,7 @@ void AttributesX()
  { 
  Index.iVal = i1; 
  
- if (fldLoop->GetItem(Index)->GetAttributes() &amp; adFldIsNullable) 
+ if (fldLoop->GetItem(Index)->GetAttributes() &; adFldIsNullable) 
  { 
  printf ("%s \n", (LPSTR)fldLoop->GetItem(Index)->GetName()); 
  } 
@@ -133,7 +133,7 @@ void AttributesX()
  
  } 
  } 
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  
@@ -185,7 +185,7 @@ void PrintProviderError(_ConnectionPtr pConnection)
 // // 
 /////////////////////////////////////////////////////////// 
  
-VOID PrintComError(_com_error &amp;e) 
+VOID PrintComError(_com_error &;e) 
 { 
  _bstr_t bstrSource(e.Source()); 
  _bstr_t bstrDescription(e.Description()); 

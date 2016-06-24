@@ -64,8 +64,8 @@ Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _
  If Err <> 0 Then ' Error occurred when value set. 
  If Err <> conErrPropertyNotFound Then 
  On Error GoTo 0 
- MsgBox "Couldn't set property '" &amp; strPropertyName _ 
- &amp; "' on table '" &amp; objTableObj.Name &amp; "'", 48, "SetTableProperty" 
+ MsgBox "Couldn't set property '" &; strPropertyName _ 
+ &; "' on table '" &; objTableObj.Name &; "'", 48, "SetTableProperty" 
  Else 
  On Error GoTo 0 
  Set prpProperty = objTableObj.CreateProperty(strPropertyName, _ 

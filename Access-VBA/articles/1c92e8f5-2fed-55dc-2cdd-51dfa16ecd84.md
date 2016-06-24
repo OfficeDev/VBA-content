@@ -100,7 +100,7 @@ void DateCreatedX()
  m_pCatalog->Tables->Delete(m_pTblNew->Name); 
  } 
  
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  _bstr_t bstrSource(e.Source()); 

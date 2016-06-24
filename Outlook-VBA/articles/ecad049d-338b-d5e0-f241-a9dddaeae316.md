@@ -67,7 +67,7 @@ Sub DemoGetAlwaysMoveToFolder()
  
  If Not (oFolder Is Nothing) Then 
  
- Debug.Print "MoveToFolder: " &amp; oFolder.name 
+ Debug.Print "MoveToFolder: " &; oFolder.name 
  
  Else 
  

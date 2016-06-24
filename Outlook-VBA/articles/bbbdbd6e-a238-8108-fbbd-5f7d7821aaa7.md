@@ -19,9 +19,9 @@ The following Microsoft Visual Basic for Applications (VBA) example displays the
 ```vb
 Private Sub CountExplorers() 
  
- MsgBox "There are " &amp; _ 
+ MsgBox "There are " &; _ 
  
- Application.Explorers.Count &amp; " Explorers." 
+ Application.Explorers.Count &; " Explorers." 
  
 End Sub
 ```
@@ -54,7 +54,7 @@ Sub GetSelectedItems()
  
  For x = 1 To myOlSel.Count 
  
- MsgTxt = MsgTxt &amp; myOlSel.Item(x).SenderName &amp; ";" 
+ MsgTxt = MsgTxt &; myOlSel.Item(x).SenderName &; ";" 
  
  Next x 
  

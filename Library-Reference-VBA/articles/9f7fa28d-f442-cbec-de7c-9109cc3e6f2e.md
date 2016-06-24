@@ -22,7 +22,7 @@ The following example lists the tasks in the current shared workspace.
 ```vb
    Dim swsTasks As Office.SharedWorkspaceTasks 
     Set swsTasks = ActiveWorkbook.SharedWorkspace.Tasks 
-    MsgBox "There are " &amp; swsTasks.Count &amp; _ 
+    MsgBox "There are " &; swsTasks.Count &; _ 
         " task(s) in the current shared workspace.", _ 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

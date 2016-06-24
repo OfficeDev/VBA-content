@@ -39,11 +39,11 @@ The following example displays the distances from the left and top edges of the 
 ```vb
 With ActiveDocument.Pages(1).Shapes.Range 
  MsgBox "Distance from left: " _ 
- &amp; Format(.GetLeft(Unit:=pbUnitInch), "0.00") _ 
- &amp; " in" &amp; vbCr _ 
- &amp; "Distance from top: " _ 
- &amp; Format(.GetTop(Unit:=pbUnitInch), "0.00") _ 
- &amp; " in" 
+ &; Format(.GetLeft(Unit:=pbUnitInch), "0.00") _ 
+ &; " in" &; vbCr _ 
+ &; "Distance from top: " _ 
+ &; Format(.GetTop(Unit:=pbUnitInch), "0.00") _ 
+ &; " in" 
 End With
 ```
 

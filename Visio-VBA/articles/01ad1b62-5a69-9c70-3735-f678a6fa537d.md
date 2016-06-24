@@ -40,7 +40,7 @@ Public Sub Application_Example()
  
     'Get the instance of Visio associated with the Document object.  
     Set vsoApplication = vsoDocument.Application  
-    Debug.Print "The process ID of the Application object associated with the active document is: " &amp; vsoApplication.ProcessID  
+    Debug.Print "The process ID of the Application object associated with the active document is: " &; vsoApplication.ProcessID  
  
 End Sub
 ```

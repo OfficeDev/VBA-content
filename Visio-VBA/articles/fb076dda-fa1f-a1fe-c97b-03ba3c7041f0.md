@@ -69,13 +69,13 @@ Public Sub Layer_Example()
  vsoLayer.Add vsoShape, 1 
  
  'Verify that the shape has been assigned to 2 layers. 
- Debug.Print "The rectangle is assigned to " &amp; vsoShape.LayerCount &amp; " layers." 
+ Debug.Print "The rectangle is assigned to " &; vsoShape.LayerCount &; " layers." 
  
  'Get a reference to the first layer. 
  Set vsoLayer = vsoShape.Layer(1) 
  
  'Verify by using the Name property. 
- Debug.Print "Current vsoLayer name is """ &amp; vsoLayer.Name &amp; ".""" 
+ Debug.Print "Current vsoLayer name is """ &; vsoLayer.Name &; ".""" 
  
 End Sub
 ```

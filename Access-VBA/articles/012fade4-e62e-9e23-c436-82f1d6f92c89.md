@@ -35,7 +35,7 @@ Public Sub ListControlProps(ByRef frm As Form)
  For Each ctl In frm.Controls 
  Debug.Print ctl.Properties("Name") 
  For Each prp In ctl.Properties 
- Debug.Print vbTab &amp; prp.Name &amp; " = " &amp; prp.Value 
+ Debug.Print vbTab &; prp.Name &; " = " &; prp.Value 
  Next prp 
  Next ctl 
  
@@ -46,10 +46,10 @@ Exit Sub
  
 props_err: 
  If Err = 2187 Then 
- Debug.Print vbTab &amp; prp.Name &amp; " = Only available at design time." 
+ Debug.Print vbTab &; prp.Name &; " = Only available at design time." 
  Resume Next 
  Else 
- Debug.Print vbTab &amp; prp.Name &amp; " = Error Occurred: " &amp; Err.Description 
+ Debug.Print vbTab &; prp.Name &; " = Error Occurred: " &; Err.Description 
  Resume Next 
  End If 
 End Sub

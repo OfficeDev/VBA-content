@@ -27,11 +27,11 @@ The following example displays the number of subfolders in the shared workspace 
 ```vb
     Dim swsFolder As Office.SharedWorkspaceFolder 
     Dim strFolderInfo As String 
-    strFolderInfo = "The shared workspace contains " &amp; _ 
-        ActiveWorkbook.SharedWorkspace.Folders.Count &amp; " folder(s)." &amp; vbCrLf 
+    strFolderInfo = "The shared workspace contains " &; _ 
+        ActiveWorkbook.SharedWorkspace.Folders.Count &; " folder(s)." &; vbCrLf 
     If ActiveWorkbook.SharedWorkspace.Folders.Count > 0 Then 
         For Each swsFolder In ActiveWorkbook.SharedWorkspace.Folders 
-            strFolderInfo = strFolderInfo &amp; swsFolder.FolderName &amp; vbCrLf 
+            strFolderInfo = strFolderInfo &; swsFolder.FolderName &; vbCrLf 
         Next 
     End If 
     MsgBox strFolderInfo, vbInformation + vbOKOnly, _ 

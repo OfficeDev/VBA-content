@@ -119,7 +119,7 @@ Developers often need a place to temporarily store some data, or want some data 
  .Update 
  End With 
  
- objRs.Save App.Path &amp; "\FabriTest.adtg", adPersistADTG 
+ objRs.Save App.Path &; "\FabriTest.adtg", adPersistADTG 
  
  objRs.Close 
  'EndFabricate 

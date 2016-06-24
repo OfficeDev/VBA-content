@@ -107,9 +107,9 @@ Sub AddDurationColumns()
     success = AddSiteColumn(fieldName, columnName)
     
     If success Then
-        results = "Added site column: " &amp; columnName
+        results = "Added site column: " &; columnName
     Else
-        results = "Error in AddSiteColumn: " &amp; columnName
+        results = "Error in AddSiteColumn: " &; columnName
     End If
     
     ' Add the second column.
@@ -119,9 +119,9 @@ Sub AddDurationColumns()
     success = AddSiteColumn(fieldName, columnName)
     
     If success Then
-        results = results &amp; vbCrLf &amp; "Added site column: " &amp; columnName
+        results = results &; vbCrLf &; "Added site column: " &; columnName
     Else
-        results = results &amp; vbCrLf &amp; "Error in AddSiteColumn: " &amp; columnName
+        results = results &; vbCrLf &; "Error in AddSiteColumn: " &; columnName
     End If
     
     Debug.Print results

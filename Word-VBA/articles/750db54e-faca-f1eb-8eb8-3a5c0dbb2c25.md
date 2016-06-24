@@ -57,7 +57,7 @@ Set tableNew = docNew.Tables.Add(Range:=Selection.Range, _
 intTemp = 1 
  
 For Each cellLoop In tableNew.Range.Cells 
- cellLoop.Range.InsertAfter "Cell " &amp; intTemp 
+ cellLoop.Range.InsertAfter "Cell " &; intTemp 
  intTemp = intTemp + 1 
 Next cellLoop 
  

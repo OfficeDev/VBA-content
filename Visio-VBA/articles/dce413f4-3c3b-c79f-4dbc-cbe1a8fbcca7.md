@@ -45,27 +45,27 @@ Sub End_Example()
  'Iterate through the Path objects in the Paths collection. 
  For intOuterLoopCounter = 1 To vsoPaths.Count 
  Set vsoPath = vsoPaths.Item(intOuterLoopCounter) 
- Debug.Print "Path object " &amp; intOuterLoopCounter 
+ Debug.Print "Path object " &; intOuterLoopCounter 
  
  'Iterate through the curves in a Path object. 
  For intInnerLoopCounter = 1 To vsoPath.Count 
  
  Set vsoCurve = vsoPath(intInnerLoopCounter) 
- Debug.Print "Curve number " &amp; intInnerLoopCounter 
+ Debug.Print "Curve number " &; intInnerLoopCounter 
  
  'Display the start point of the curve. 
  dblStartpoint = vsoCurve.Start 
- Debug.Print "Startpoint= " &amp; dblStartpoint 
+ Debug.Print "Startpoint= " &; dblStartpoint 
  
  'Display the endpoint of the curve. 
  dblEndpoint = vsoCurve.End 
- Debug.Print "Endpoint= " &amp; dblEndpoint 
+ Debug.Print "Endpoint= " &; dblEndpoint 
  
  Next intInnerLoopCounter 
- Debug.Print "This path has " &amp; intInnerLoopCounter - 1 &amp; " curve object(s)." 
+ Debug.Print "This path has " &; intInnerLoopCounter - 1 &; " curve object(s)." 
  
  Next intOuterLoopCounter 
- Debug.Print "This shape has " &amp; intOuterLoopCounter - 1 &amp; " path object(s)." 
+ Debug.Print "This shape has " &; intOuterLoopCounter - 1 &; " path object(s)." 
  
 End Sub
 ```

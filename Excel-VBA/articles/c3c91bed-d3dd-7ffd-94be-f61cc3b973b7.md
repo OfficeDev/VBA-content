@@ -25,11 +25,11 @@ Sub DisplayColumnCount()
  iAreaCount = Selection.Areas.Count 
  
  If iAreaCount <= 1 Then 
- MsgBox "The selection contains " &amp; Selection.Columns.Count &amp; " columns." 
+ MsgBox "The selection contains " &; Selection.Columns.Count &; " columns." 
  Else 
  For i = 1 To iAreaCount 
- MsgBox "Area " &amp; i &amp; " of the selection contains " &amp; _ 
- Selection.Areas(i).Columns.Count &amp; " columns." 
+ MsgBox "Area " &; i &; " of the selection contains " &; _ 
+ Selection.Areas(i).Columns.Count &; " columns." 
  Next i 
  End If 
 End Sub

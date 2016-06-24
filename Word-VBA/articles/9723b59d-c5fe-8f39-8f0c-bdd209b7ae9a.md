@@ -34,9 +34,9 @@ This example displays the size of the working area in the active document window
 ```vb
 With ActiveDocument.ActiveWindow 
  MsgBox "Working area height = " _ 
- &amp; .UsableHeight &amp; vbLf _ 
- &amp; "Working area width = " _ 
- &amp; .UsableWidth 
+ &; .UsableHeight &; vbLf _ 
+ &; "Working area width = " _ 
+ &; .UsableWidth 
 End With
 ```
 

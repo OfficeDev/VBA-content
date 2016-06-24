@@ -19,8 +19,8 @@ Sub Main()
  Dim cat As New ADOX.Catalog 
  
  ' Connect the catalog 
- cat.ActiveConnection = "Provider='Microsoft.Jet.OLEDB.4.0';" &amp; _ 
- "Data Source='c:\Program Files\Microsoft Office\" &amp; _ 
+ cat.ActiveConnection = "Provider='Microsoft.Jet.OLEDB.4.0';" &; _ 
+ "Data Source='c:\Program Files\Microsoft Office\" &; _ 
  "Office\Samples\Northwind.mdb';" 
  
  ' Define the foreign key 
@@ -48,7 +48,7 @@ CreateKeyError:
  Set kyForeign = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
  
 End Sub 

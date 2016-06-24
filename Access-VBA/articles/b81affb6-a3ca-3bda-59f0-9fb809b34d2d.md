@@ -63,8 +63,8 @@ Dim strProc As String
 strForm = "Products" 
 strProc = "Products_Subform_Enter" 
  
-MsgBox "The definition of the " &amp; strProc &amp; " procedure begins on line " &amp; _ 
- Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) &amp; "."
+MsgBox "The definition of the " &; strProc &; " procedure begins on line " &; _ 
+ Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) &; "."
 ```
 
 

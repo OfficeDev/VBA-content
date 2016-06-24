@@ -23,7 +23,7 @@ The following example displays the product code for Publisher.
 
 ```vb
 MsgBox "The product code for Microsoft Publisher is " _ 
- &amp; ProductCode
+ &; ProductCode
 ```
 
 

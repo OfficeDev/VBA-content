@@ -63,24 +63,24 @@ The following examples show how to use various types of criteria with the  **DLa
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DLast("[FieldName]", "TableName", "[Criteria] = " &amp; Forms!FormName!ControlName)
+    variable = DLast("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
 
     ' Strings
-    variable = DLast("[FieldName]", "TableName", "[Criteria] = '" &amp; Forms!FormName!ControlName &amp; "'")
+    variable = DLast("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
 
     ' Dates
-    variable = DLast("[FieldName]", "TableName", "[Criteria] = #" &amp; Forms!FormName!ControlName &amp; "#")
+    variable = DLast("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DLast("[FieldName]", "TableName", "[Criteria1] = " &amp; Forms![FormName]![Control1] _
-             &amp; " AND [Criteria2] = '" &amp; Forms![FormName]![Control2] &amp; "'" _
-            &amp; " AND [Criteria3] =#" &amp; Forms![FormName]![Control3] &amp; "#")
+    variable = DLast("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
+             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
+            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
     
     ' Use two fields from a single record.
-    variable = DLast("[LastName] &amp; ', ' &amp; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DLast("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DLast("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

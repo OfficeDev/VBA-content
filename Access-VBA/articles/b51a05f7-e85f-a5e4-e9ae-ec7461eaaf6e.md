@@ -23,7 +23,7 @@ This example demonstrates the [OriginalValue](02ffc728-4692-d439-e2a6-2f02cca53a
 inline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);}; 
 void OriginalValueX(void); 
 void PrintProviderError(_ConnectionPtr pConnection); 
-void PrintComError(_com_error &amp;e); 
+void PrintComError(_com_error &;e); 
  
 /////////////////////////////////////////////////////////// 
 // // 
@@ -92,10 +92,10 @@ void OriginalValueX(void)
  //Open an IADORecordBinding interface pointer which 
  //we'll use for Binding Recordset to a class. 
  TESTHR(pRstTitles->QueryInterface( 
- __uuidof(IADORecordBinding),(LPVOID*)&amp;picRs)); 
+ __uuidof(IADORecordBinding),(LPVOID*)&;picRs)); 
  
  //Bind the Recordset to a C++ Class here 
- TESTHR(picRs->BindToRecordset(&amp;titlers)); 
+ TESTHR(picRs->BindToRecordset(&;titlers)); 
  
  // Set field object variable for Type field. 
  pFldType = pRstTitles->Fields->GetItem("type"); 
@@ -144,7 +144,7 @@ void OriginalValueX(void)
  pRstTitles->MoveNext(); 
  } 
  } 
- catch (_com_error &amp;e) 
+ catch (_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  // Pass a connection pointer accessed from the Connection. 
@@ -203,7 +203,7 @@ void PrintProviderError(_ConnectionPtr pConnection)
 // PrintComError Function // 
 // // 
 /////////////////////////////////////////////////////////// 
-void PrintComError(_com_error &amp;e) 
+void PrintComError(_com_error &;e) 
 { 
  _bstr_t bstrSource(e.Source()); 
  _bstr_t bstrDescription(e.Description()); 

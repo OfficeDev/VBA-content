@@ -31,12 +31,12 @@ Set wizTemp = ActiveDocument.Wizard
 With wizTemp 
  Set wizproAll = .Properties 
  Debug.Print "Publication design associated with " _ 
- &amp; "current publication: " _ 
- &amp; .Name 
+ &; "current publication: " _ 
+ &; .Name 
  For Each wizproTemp In wizproAll 
  With wizproTemp 
  Debug.Print " Setting: " _ 
- &amp; .Name &amp; " = " &amp; .CurrentValueId 
+ &; .Name &; " = " &; .CurrentValueId 
  End With 
  Next wizproTemp 
 End With

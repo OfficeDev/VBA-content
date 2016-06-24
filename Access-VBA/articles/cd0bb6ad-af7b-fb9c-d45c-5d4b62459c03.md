@@ -19,8 +19,8 @@ Sub Main()
  Dim cat As New ADOX.Catalog 
  Dim tbl As ADOX.Table 
  
- cnn.Open "Provider='Microsoft.Jet.OLEDB.4.0';" &amp; _ 
- "Data Source= 'c:\Program Files\Microsoft Office\" &amp; _ 
+ cnn.Open "Provider='Microsoft.Jet.OLEDB.4.0';" &; _ 
+ "Data Source= 'c:\Program Files\Microsoft Office\" &; _ 
  "Office\Samples\Northwind.mdb';" 
  Set cat.ActiveConnection = cnn 
  Set tbl = cat.Tables(0) 
@@ -46,7 +46,7 @@ CloseConnectionByNothingError:
  Set cnn = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 ' EndCloseConnectionVB 
@@ -65,8 +65,8 @@ Sub CloseConnection()
  Dim cat As New ADOX.Catalog 
  Dim tbl As ADOX.Table 
  
- cnn.Open "Provider='Microsoft.Jet.OLEDB.4.0';" &amp; _ 
- "Data Source= 'c:\Program Files\Microsoft Office\" &amp; _ 
+ cnn.Open "Provider='Microsoft.Jet.OLEDB.4.0';" &; _ 
+ "Data Source= 'c:\Program Files\Microsoft Office\" &; _ 
  "Office\Samples\Northwind.mdb';" 
  Set cat.ActiveConnection = cnn 
  Set tbl = cat.Tables(0) 
@@ -92,7 +92,7 @@ CloseConnectionError:
  Set cnn = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 ' EndCloseConnection2VB 

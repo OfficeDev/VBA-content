@@ -45,8 +45,8 @@ Sub ChangeThemeVariant()
     name = ActivePresentation.TemplateName
 
     ' You need access to the Theme Family in order to access the variants.
-    path = "C:\Program Files (x86)\Microsoft Office\Document Themes 15\" &amp; _
-        ActivePresentation.TemplateName &amp; ".thmx"
+    path = "C:\Program Files (x86)\Microsoft Office\Document Themes 15\" &; _
+        ActivePresentation.TemplateName &; ".thmx"
 
     ' Get the variant ID of the second Variant
     variantID = PowerPoint.Application.OpenThemeFile(path).ThemeVariants(2).Id

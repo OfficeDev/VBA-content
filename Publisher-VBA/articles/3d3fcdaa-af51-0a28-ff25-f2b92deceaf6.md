@@ -36,10 +36,10 @@ Private Sub MailMergeApp_MailMergeWizardStateChange(ByVal Doc As Document, _
  
  Select Case FromState 
  Case 1 
- MsgBox "Now you will build your publication merge " &amp; _ 
+ MsgBox "Now you will build your publication merge " &; _ 
  "by adding fields to your publication." 
  Case 2 
- MsgBox "Now you will see your publication " &amp; _ 
+ MsgBox "Now you will see your publication " &; _ 
  "merged with the records in the data source." 
  Case 3 
  MsgBox "Now you will complete the mail merge process." 

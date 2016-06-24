@@ -73,7 +73,7 @@ Public Sub GeometryCount_Example()
  'add it to the list box. 
  UserForm1.ListBox1.AddItem _ 
  vsoShape.CellsSRC(intCurrentGeometrySection, intCurrentRow, _ 
- intCurrentCell).LocalName &amp; ": " &amp; _ 
+ intCurrentCell).LocalName &; ": " &; _ 
  vsoShape.CellsSRC(intCurrentGeometrySection, intCurrentRow, _ 
  intCurrentCell).Formula 
  Next intCurrentCell 

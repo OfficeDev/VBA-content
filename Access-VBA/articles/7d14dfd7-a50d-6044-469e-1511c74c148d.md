@@ -76,9 +76,9 @@ Sub RequiredOutput(tdfTemp As TableDef)
  
  ' Enumerate Fields collection of the specified TableDef 
  ' and show the Required property. 
- Debug.Print "Fields in " &amp; tdfTemp.Name &amp; ":" 
+ Debug.Print "Fields in " &; tdfTemp.Name &; ":" 
  For Each fldLoop In tdfTemp.Fields 
- Debug.Print , fldLoop.Name &amp; ", Required = " &amp; _ 
+ Debug.Print , fldLoop.Name &; ", Required = " &; _ 
  fldLoop.Required 
  Next fldLoop 
  

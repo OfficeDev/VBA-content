@@ -30,7 +30,7 @@ Public Sub Main()
  
  ' Open connection 
  Set Cnxn = New ADODB.Connection 
- strCnxn = "Provider='sqloledb';Data Source='MySqlServer';" &amp; _ 
+ strCnxn = "Provider='sqloledb';Data Source='MySqlServer';" &; _ 
  "Initial Catalog='Pubs';Integrated Security='SSPI';" 
  Cnxn.Open strCnxn 
  
@@ -61,7 +61,7 @@ ErrorHandler:
  Set Cnxn = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 'EndSaveVB 
@@ -111,7 +111,7 @@ ErrorHandler:
  Set rst = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 'EndSave2VB 
@@ -168,7 +168,7 @@ ErrorHandler:
  Set Cnxn = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 'EndSave3VB 

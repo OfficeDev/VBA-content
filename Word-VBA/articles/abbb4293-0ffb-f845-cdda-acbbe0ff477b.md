@@ -19,8 +19,8 @@ This example displays the number of words in the selection.
 ```vb
 If Selection.Words.Count >= 1 And _ 
  Selection.Type <> wdSelectionIP Then 
- MsgBox "The selection contains " &amp; Selection.Words.Count _ 
- &amp; " words." 
+ MsgBox "The selection contains " &; Selection.Words.Count _ 
+ &; " words." 
 End If
 ```
 

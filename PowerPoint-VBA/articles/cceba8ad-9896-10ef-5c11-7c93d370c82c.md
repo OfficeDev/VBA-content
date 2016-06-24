@@ -38,8 +38,8 @@ This example adds a slide after slide one in the active presentation, sets the t
 With ActivePresentation.Slides.Add(2, ppLayoutText).Shapes
     .Item(1).TextFrame.TextRange.Text = "Top Three Reasons"
     With .Item(2)
-        .TextFrame.TextRange = "Reason 1" &amp; Chr(13) _
-            &amp; "Reason 2" &amp; Chr(13) &amp; "Reason 3"
+        .TextFrame.TextRange = "Reason 1" &; Chr(13) _
+            &; "Reason 2" &; Chr(13) &; "Reason 3"
         With .AnimationSettings
             .Animate = msoTrue
             .TextLevelEffect = ppAnimateByFirstLevel

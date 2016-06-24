@@ -19,11 +19,11 @@ Set wizTemp = ActiveDocument.Wizard
 With wizTemp 
  Set wizproAll = .Properties 
  MsgBox "Publication Design associated with " _ 
- &amp; "current publication: " .Name 
+ &; "current publication: " .Name 
  For Each wizproTemp In wizproAll 
  With wizproTemp 
  Debug.Print " Wizard property: " _ 
- &amp; .Name &amp; " = " &amp; .CurrentValueId 
+ &; .Name &; " = " &; .CurrentValueId 
  End With 
  Next wizproTemp 
 End With

@@ -22,7 +22,7 @@ Sub TaskNames()
  Dim T As Task, Names As String 
  
  For Each T In ActiveProject.Tasks 
- Names = Names &amp; T.Name &amp; vbCrLf 
+ Names = Names &; T.Name &; vbCrLf 
  Next T 
  
  MsgBox Names 

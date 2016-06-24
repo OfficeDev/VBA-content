@@ -23,9 +23,9 @@ The following example adds the date and time to the  **Comments** field in the p
 
 ```vb
 Sub SaveAndNoteTime() 
-    Projects(1).ProjectNotes = Projects(1).ProjectNotes &amp; vbCrLf _ 
-        &amp; "This project was last saved on " _ 
-        &amp; Date$ &amp; " at " &amp; Time$ &amp; "." 
+    Projects(1).ProjectNotes = Projects(1).ProjectNotes &; vbCrLf _ 
+        &; "This project was last saved on " _ 
+        &; Date$ &; " at " &; Time$ &; "." 
     FileSave 
 End Sub
 ```

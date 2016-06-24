@@ -22,7 +22,7 @@ The following example lists the files saved in the current shared workspace.
 ```vb
     Dim swsFiles As Office.SharedWorkspaceFiles 
     Set swsFiles = ActiveWorkbook.SharedWorkspace.Files 
-    MsgBox "There are " &amp; swsFiles.Count &amp; _ 
+    MsgBox "There are " &; swsFiles.Count &; _ 
         " file(s) 
         vbInformation + vbOKOnly, _ 
         "Collection Information" 

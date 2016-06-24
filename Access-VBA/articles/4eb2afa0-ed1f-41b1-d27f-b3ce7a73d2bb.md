@@ -24,7 +24,7 @@ The  **AddMenu** action has the following arguments.
 
 |**Action argument**|**Description**|
 |:-----|:-----|
-|**Menu Name**|The name of the menu, for example, "Report Commands" or "Tools". To create an access key so that you can use the keyboard to choose the menu, type an ampersand ( **&amp;** ) before the letter you want to be the access key. This letter will be underlined in the menu name on the **Add-Ins** tab.|
+|**Menu Name**|The name of the menu, for example, "Report Commands" or "Tools". To create an access key so that you can use the keyboard to choose the menu, type an ampersand ( **&;** ) before the letter you want to be the access key. This letter will be underlined in the menu name on the **Add-Ins** tab.|
 |**Menu Macro Name**|The name of the macro group that contains the macros for the menu's commands. This is a required argument.
  **Note**  If you run a macro containing the  **AddMenu** action in a library database, Microsoft Office Access 2007 looks for the macro group with this name in the current database only.
 

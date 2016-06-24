@@ -22,7 +22,7 @@ This example displays the number of words in the selection. Paragraphs marks, pa
 
 
 ```vb
-MsgBox "There are " &amp; Selection.Words.Count &amp; " words."
+MsgBox "There are " &; Selection.Words.Count &; " words."
 ```
 
 

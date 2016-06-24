@@ -117,8 +117,8 @@ Sub OpenDatabaseX()
  
  ' Enumerate the Databases collection. 
  For Each dbsLoop In wrkAcc.Databases 
- Debug.Print "Database properties for " &amp; _ 
- dbsLoop.Name &amp; ":" 
+ Debug.Print "Database properties for " &; _ 
+ dbsLoop.Name &; ":" 
  
  On Error Resume Next 
  ' Enumerate the Properties collection of each Database 
@@ -126,10 +126,10 @@ Sub OpenDatabaseX()
  For Each prpLoop In dbsLoop.Properties 
  If prpLoop.Name = "Connection" Then 
  ' Property actually returns a Connection object. 
- Debug.Print " Connection[.Name] = " &amp; _ 
+ Debug.Print " Connection[.Name] = " &; _ 
  dbsLoop.Connection.Name 
  Else 
- Debug.Print " " &amp; prpLoop.Name &amp; " = " &amp; _ 
+ Debug.Print " " &; prpLoop.Name &; " = " &; _ 
  prpLoop 
  End If 
  Next prpLoop 

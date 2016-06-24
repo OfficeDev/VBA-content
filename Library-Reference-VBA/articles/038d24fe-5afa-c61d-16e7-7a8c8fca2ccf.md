@@ -33,7 +33,7 @@ The following example displays a list of the titles of all tasks in the current 
  Dim swsTask As Office.SharedWorkspaceTask 
     Dim strTasks As String 
     For Each swsTask In ActiveWorkbook.SharedWorkspace.Tasks 
-        strTasks = strTasks &amp; swsTask.Title &amp; vbCrLf 
+        strTasks = strTasks &; swsTask.Title &; vbCrLf 
     Next 
     MsgBox strTasks, vbInformation + vbOKOnly, _ 
         "Tasks in Shared Workspace" 

@@ -21,14 +21,14 @@ Sub AutoWrap()
  Dim fieldNumber As Integer 
  
  fieldNumber = InputBox$(Prompt:="Enter the number of the " _ 
- &amp; "column you want to center in the Entry table." _ 
- &amp; Chr(13) &amp; "For example, Column 1 is the Indicators " _ 
- &amp; "column.") 
+ &; "column you want to center in the Entry table." _ 
+ &; Chr(13) &; "For example, Column 1 is the Indicators " _ 
+ &; "column.") 
  
  ActiveProject.TaskTables("Entry").TableFields(fieldNumber _ 
  + 1).AlignData = pjCenter 
  
- TableApply Name:="&amp;Entry" 
+ TableApply Name:="&;Entry" 
 End Sub
 ```
 

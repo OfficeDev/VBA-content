@@ -32,7 +32,7 @@ With Presentations.Add
     For i = 1 To myTable.Columns.Count
         For j = 1 To myTable.Columns(i).Cells.Count
             myTable.Columns(i).Cells(j).Shape.TextFrame _
-                .TextRange.Text = "col. " &amp; i &amp; "row " &amp; j
+                .TextRange.Text = "col. " &; i &; "row " &; j
         Next j
     Next i
 End With

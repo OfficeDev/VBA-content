@@ -18,7 +18,7 @@ String
 
 ## Remarks
 
-You can also set this value in the  **Center** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &amp; Footer**).
+You can also set this value in the  **Center** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header &; Footer**).
 
 Both the string returned by the property and the string you pass to the property can contain escape codes that represent data. These escape codes can be concatenated with other text. For a list of valid escape codes you can use with the  **FooterCenter** property, see the **[FooterLeft](e832c09d-3ddb-4351-43ad-e1c5633b7bc9.md)** property topic.
 
@@ -35,7 +35,7 @@ Sub FooterCenter_Example()
     Dim strFooter as String 
  
     'Build the footer string.  
-    strFooter = "Page &amp;p of &amp;P"  
+    strFooter = "Page &;p of &;P"  
  
     'Set the footer of the current document.  
      ThisDocument.FooterCenter = strFooter 

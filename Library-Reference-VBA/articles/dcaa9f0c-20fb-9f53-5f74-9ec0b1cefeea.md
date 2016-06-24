@@ -19,9 +19,9 @@ Use the  **ProgID** property of the **COMAddin** object to return the programmat
 
 
 ```vb
-MsgBox "My ProgID is " &amp; _ 
- Application.COMAddIns(1).ProgID &amp; _ 
- " and my GUID is " &amp; _ 
+MsgBox "My ProgID is " &; _ 
+ Application.COMAddIns(1).ProgID &; _ 
+ " and my GUID is " &; _ 
  Application.COMAddIns(1).Guid
 ```
 

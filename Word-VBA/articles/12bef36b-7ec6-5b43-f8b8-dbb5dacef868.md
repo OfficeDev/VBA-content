@@ -18,12 +18,12 @@ The following code example displays whether or not the document referenced by  _
 
 ```
 If doc.Application.IsSandboxed Then 
- MsgBox "The document " &amp; _ 
- """" &amp; doc.Name &amp; """" &amp; _ 
+ MsgBox "The document " &; _ 
+ """" &; doc.Name &; """" &; _ 
  " is in a protected view window." 
 Else 
- MsgBox "The document " &amp; _ 
- """" &amp; doc.Name &amp; """" &amp; _ 
+ MsgBox "The document " &; _ 
+ """" &; doc.Name &; """" &; _ 
  " is not in a protected view window." 
 End If
 ```

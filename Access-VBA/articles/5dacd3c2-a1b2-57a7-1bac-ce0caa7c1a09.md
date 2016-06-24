@@ -21,8 +21,8 @@ Sub Main()
  
  ' Open the Connection 
  cnn.Open _ 
- "Provider='Microsoft.Jet.OLEDB.4.0';" &amp; _ 
- "Data Source='c:\Program Files\Microsoft Office\" &amp; _ 
+ "Provider='Microsoft.Jet.OLEDB.4.0';" &; _ 
+ "Data Source='c:\Program Files\Microsoft Office\" &; _ 
  "Office\Samples\Northwind.mdb';" 
  
  ' Open the catalog 
@@ -56,7 +56,7 @@ ViewTextError:
  Set cnn = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 ' EndViewsCollectionVB 

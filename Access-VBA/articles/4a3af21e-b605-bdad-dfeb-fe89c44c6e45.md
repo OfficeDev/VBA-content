@@ -22,7 +22,7 @@ This example demonstrates using the [Resync](f594a200-56e6-fcf5-9b0a-900c56377f2
 inline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);}; 
 void ResyncX(void); 
 void PrintProviderError(_ConnectionPtr pConnection); 
-void PrintComError(_com_error &amp;e); 
+void PrintComError(_com_error &;e); 
  
 ///////////////////////////// 
 // // 
@@ -94,7 +94,7 @@ void ResyncX(void)
  printf("Type - %s\n\n",(LPSTR) (_bstr_t) pRstTitles-> 
  Fields->GetItem("type")->Value); 
  } 
- catch (_com_error &amp;e) 
+ catch (_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  // Pass a connection pointer accessed from the Recordset. 
@@ -154,7 +154,7 @@ void PrintProviderError(_ConnectionPtr pConnection)
 // PrintComError Function // 
 // // 
 /////////////////////////////////////////////////////////// 
-void PrintComError(_com_error &amp;e) 
+void PrintComError(_com_error &;e) 
 { 
  _bstr_t bstrSource(e.Source()); 
  _bstr_t bstrDescription(e.Description()); 

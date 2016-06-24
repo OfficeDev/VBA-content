@@ -91,7 +91,7 @@ void CloseConnectionByNothingX(void)
  cout << m_pTable->Columns->GetItem(vIndex)->DefinedSize << endl; 
  // Previous line will fail if this info has not been cached 
  } 
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  _bstr_t bstrSource(e.Source()); 
@@ -151,7 +151,7 @@ void CloseConnectionX()
  cout << m_pTable->Columns->GetItem(vIndex)->DefinedSize << endl; 
  // Previous line will fail if this info has not been cached 
  } 
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  _bstr_t bstrSource(e.Source()); 

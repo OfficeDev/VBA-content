@@ -22,15 +22,15 @@ This example shows manual, inclusive filtering in an OLAP PivotTable.
 
 
 ```vb
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
-.[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&amp;[Australia]") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
+ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
+.[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&;[Australia]") 
+ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
 .[State-Province]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
+ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
 .[City]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
+ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
 .[Postal Code]").VisibleItemsList = Array("") 
-ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &amp; _ 
+ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
 .[Full Name]").VisibleItemsList = Array("") 
 
 ```

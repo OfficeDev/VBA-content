@@ -18,10 +18,10 @@ Though not a typical usage of the  **Command** object, the following code shows 
  Dim objCmd As New ADODB.Command 
  Dim objRs As New ADODB.Recordset 
  
- objCmd.CommandText = "SELECT OrderID, OrderDate, " &amp; _ 
- "RequiredDate, ShippedDate " &amp; _ 
- "FROM Orders " &amp; _ 
- "WHERE CustomerID = 'ALFKI' " &amp; _ 
+ objCmd.CommandText = "SELECT OrderID, OrderDate, " &; _ 
+ "RequiredDate, ShippedDate " &; _ 
+ "FROM Orders " &; _ 
+ "WHERE CustomerID = 'ALFKI' " &; _ 
  "ORDER BY OrderID" 
  objCmd.CommandType = adCmdText 
  
@@ -34,8 +34,8 @@ Though not a typical usage of the  **Command** object, the following code shows 
  
  Debug.Print "ALFKI" 
  Do While Not objRs.EOF 
- Debug.Print vbTab &amp; objRs(0) &amp; vbTab &amp; objRs(1) &amp; vbTab &amp; _ 
- objRs(2) &amp; vbTab &amp; objRs(3) 
+ Debug.Print vbTab &; objRs(0) &; vbTab &; objRs(1) &; vbTab &; _ 
+ objRs(2) &; vbTab &; objRs(3) 
  objRs.MoveNext 
  Loop 
  
@@ -62,7 +62,7 @@ ErrHandler:
  Set objCmd = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 'EndBasicCmd 
 
@@ -81,7 +81,7 @@ Private Function GetNewConnection() As ADODB.Connection
  Dim oCn As New ADODB.Connection 
  Dim sCnStr As String 
  
- sCnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" &amp; _ 
+ sCnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" &; _ 
  "Integrated Security='SSPI';Database='Northwind';" 
  oCn.Open sCnStr 
  

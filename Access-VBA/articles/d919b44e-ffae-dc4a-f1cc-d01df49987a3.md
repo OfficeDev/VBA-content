@@ -75,15 +75,15 @@ Sub CreateTableDefX()
  .Fields.Append .CreateField("Phone", dbText) 
  .Fields.Append .CreateField("Notes", dbMemo) 
  
- Debug.Print "Properties of new TableDef object " &amp; _ 
+ Debug.Print "Properties of new TableDef object " &; _ 
  "before appending to collection:" 
  
  ' Enumerate Properties collection of new TableDef 
  ' object. 
  For Each prpLoop In .Properties 
  On Error Resume Next 
- If prpLoop <> "" Then Debug.Print " " &amp; _ 
- prpLoop.Name &amp; " = " &amp; prpLoop 
+ If prpLoop <> "" Then Debug.Print " " &; _ 
+ prpLoop.Name &; " = " &; prpLoop 
  On Error GoTo 0 
  Next prpLoop 
  
@@ -91,15 +91,15 @@ Sub CreateTableDefX()
  ' database. 
  dbsNorthwind.TableDefs.Append tdfNew 
  
- Debug.Print "Properties of new TableDef object " &amp; _ 
+ Debug.Print "Properties of new TableDef object " &; _ 
  "after appending to collection:" 
  
  ' Enumerate Properties collection of new TableDef 
  ' object. 
  For Each prpLoop In .Properties 
  On Error Resume Next 
- If prpLoop <> "" Then Debug.Print " " &amp; _ 
- prpLoop.Name &amp; " = " &amp; prpLoop 
+ If prpLoop <> "" Then Debug.Print " " &; _ 
+ prpLoop.Name &; " = " &; prpLoop 
  On Error GoTo 0 
  Next prpLoop 
  
@@ -200,11 +200,11 @@ Sub ClientServerX3()
  sngCache = sngEnd - sngStart 
  
  ' Display performance results. 
- MsgBox "Caching Performance Results:" &amp; vbCr &amp; _ 
- " No cache: " &amp; Format(sngNoCache, _ 
- "##0.000") &amp; " seconds" &amp; vbCr &amp; _ 
- " 50-record cache: " &amp; Format(sngCache, _ 
- "##0.000") &amp; " seconds" 
+ MsgBox "Caching Performance Results:" &; vbCr &; _ 
+ " No cache: " &; Format(sngNoCache, _ 
+ "##0.000") &; " seconds" &; vbCr &; _ 
+ " 50-record cache: " &; Format(sngCache, _ 
+ "##0.000") &; " seconds" 
  .Close 
  End With 
  

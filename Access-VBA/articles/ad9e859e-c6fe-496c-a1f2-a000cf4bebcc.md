@@ -81,9 +81,9 @@ Sub ExecuteX()
    Dim errLoop As Error 
  
    ' Define two SQL statements for action queries. 
-   strSQLChange = "UPDATE Employees SET Country = " &amp; _ 
+   strSQLChange = "UPDATE Employees SET Country = " &; _ 
       "'United States' WHERE Country = 'USA'" 
-   strSQLRestore = "UPDATE Employees SET Country = " &amp; _ 
+   strSQLRestore = "UPDATE Employees SET Country = " &; _ 
       "'USA' WHERE Country = 'United States'" 
  
    Set dbsNorthwind = OpenDatabase("Northwind.mdb") 
@@ -117,7 +117,7 @@ Sub ExecuteX()
    rstEmployees.Requery 
  
    ' Print report of restored data. 
-   Debug.Print "Data after executing the query " &amp; _ 
+   Debug.Print "Data after executing the query " &; _ 
       "to restore the original information" 
    PrintOutput rstEmployees 
  
@@ -131,7 +131,7 @@ Err_Execute:
    ' executing the query. 
    If DBEngine.Errors.Count > 0 Then 
       For Each errLoop In DBEngine.Errors 
-         MsgBox "Error number: " &amp; errLoop.Number &amp; vbCr &amp; _ 
+         MsgBox "Error number: " &; errLoop.Number &; vbCr &; _ 
             errLoop.Description 
       Next errLoop 
    End If 
@@ -162,7 +162,7 @@ Err_Execute:
    ' executing the query. 
    If DBEngine.Errors.Count > 0 Then 
       For Each errLoop In DBEngine.Errors 
-         MsgBox "Error number: " &amp; errLoop.Number &amp; vbCr &amp; _ 
+         MsgBox "Error number: " &; errLoop.Number &; vbCr &; _ 
             errLoop.Description 
       Next errLoop 
    End If 
@@ -175,8 +175,8 @@ Sub PrintOutput(rstTemp As Recordset)
  
    ' Enumerate Recordset. 
    Do While Not rstTemp.EOF 
-      Debug.Print "  " &amp; rstTemp!LastName &amp; _ 
-         ", " &amp; rstTemp!Country 
+      Debug.Print "  " &; rstTemp!LastName &; _ 
+         ", " &; rstTemp!Country 
       rstTemp.MoveNext 
    Loop 
  

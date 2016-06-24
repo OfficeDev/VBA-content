@@ -22,7 +22,7 @@ The following example displays a message indicating the disk location of the cur
 
 
 ```vb
-MsgBox "The current database is located at " &amp; Application.CurrentProject.Path &amp; "." 
+MsgBox "The current database is located at " &; Application.CurrentProject.Path &; "." 
  
 
 ```

@@ -13,7 +13,7 @@ For example, you can pass a SQL string containing a DELETE statement to a databa
 
 ```vb
 'BeginSQLDelete 
-strSQL = "DELETE FROM Shippers WHERE ShipperID = " &amp; intId 
+strSQL = "DELETE FROM Shippers WHERE ShipperID = " &; intId 
 objConn.Execute strSQL, , adCmdText + adExecuteNoRecords 
 'EndSQLDelete 
 

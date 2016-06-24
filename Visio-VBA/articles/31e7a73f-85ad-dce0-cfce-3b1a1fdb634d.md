@@ -30,7 +30,7 @@ Setting the  **HelpPaths** property replaces existing values for **HelpPaths** i
 
 
 ```vb
-Application.HelpPaths = Application.HelpPaths &amp; ";" &amp; "newpath ".
+Application.HelpPaths = Application.HelpPaths &; ";" &; "newpath ".
 ```
 
 

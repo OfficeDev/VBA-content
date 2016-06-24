@@ -52,13 +52,13 @@ End Sub
 ' Display message when reference is added. 
 Private Sub evtReferences_ItemAdded(ByVal Reference As _ 
  Access.Reference) 
- MsgBox "Reference to " &amp; Reference.Name &amp; " added." 
+ MsgBox "Reference to " &; Reference.Name &; " added." 
 End Sub 
  
 ' Display message when reference is removed. 
 Private Sub evtReferences_ItemRemoved(ByVal Reference As _ 
  Access.Reference) 
- MsgBox "Reference to " &amp; Reference.Name &amp; " removed." 
+ MsgBox "Reference to " &; Reference.Name &; " removed." 
 End Sub
 ```
 
@@ -84,7 +84,7 @@ Exit_AddReference:
  Exit Function 
  
 Error_AddReference: 
- MsgBox Err &amp; ": " &amp; Err.Description 
+ MsgBox Err &; ": " &; Err.Description 
  AddReference = False 
  Resume Exit_AddReference 
 End Function

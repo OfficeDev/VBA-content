@@ -28,10 +28,10 @@ For Each cfLoop In ActiveDocument.ColorsInUse
  
  With cfLoop 
  If .Ink = "2" Then 
- Debug.Print "BaseRGB: " &amp; .BaseRGB 
- Debug.Print "RGB: " &amp; .RGB 
- Debug.Print "TintShade: " &amp; .TintAndShade 
- Debug.Print "Type: " &amp; .Type 
+ Debug.Print "BaseRGB: " &; .BaseRGB 
+ Debug.Print "RGB: " &; .RGB 
+ Debug.Print "TintShade: " &; .TintAndShade 
+ Debug.Print "Type: " &; .Type 
  End If 
  End With 
  
@@ -49,9 +49,9 @@ Use  **ColorsInUse**(index), where index is the color index number, to return a 
 Sub ColorProperties() 
  
  With ActiveDocument.ColorsInUse(2) 
- Debug.Print "Color RBG: " &amp; .RGB 
- Debug.Print "Ink RBG: " &amp; .BaseRGB 
- Debug.Print "Tint: " &amp; .TintAndShade 
+ Debug.Print "Color RBG: " &; .RGB 
+ Debug.Print "Ink RBG: " &; .BaseRGB 
+ Debug.Print "Tint: " &; .TintAndShade 
  
  End With 
  

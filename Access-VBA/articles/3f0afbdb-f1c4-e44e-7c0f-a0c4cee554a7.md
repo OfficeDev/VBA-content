@@ -57,7 +57,7 @@ adoRs.CreateInstance(__uuidof(_Record));
 ```
   adoRecordConstructionPtr adoRConstruct=NULL;
 adoR->QueryInterface(__uuidof(ADORecordConstruction),
-                    (void**)&amp;adoRConstruct);
+                    (void**)&;adoRConstruct);
 
 ```
 
@@ -65,7 +65,7 @@ adoR->QueryInterface(__uuidof(ADORecordConstruction),
     
 ```cpp
   IUnknown *pUnk=NULL;
-pRow->QueryInterface(IID_IUnknown, (void**)&amp;pUnk);
+pRow->QueryInterface(IID_IUnknown, (void**)&;pUnk);
 adoRConstruct->put_Row(pUnk);
 
 ```

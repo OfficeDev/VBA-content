@@ -89,14 +89,14 @@ Function GetrstTemp(qdfTemp As QueryDef)
  
    With qdfTemp 
       Debug.Print .Name 
-      Debug.Print "  " &amp; .SQL 
+      Debug.Print "  " &; .SQL 
       ' Open Recordset from QueryDef. 
       Set rstTemp = .OpenRecordset(dbOpenSnapshot) 
  
       With rstTemp 
          ' Populate Recordset and print number of records. 
          .MoveLast 
-         Debug.Print "  Number of records = " &amp; _ 
+         Debug.Print "  Number of records = " &; _ 
             .RecordCount 
          Debug.Print 
          .Close 
@@ -134,7 +134,7 @@ Sub ClientServerX2()
       '       use Microsoft Windows NT Authentication Mode to  
       '       authorize user access to the Microsoft SQL Server. 
       .Connect = "ODBC;DATABASE=pubs;DSN=Publishers" 
-      .SQL = "SELECT title, title_id FROM titles " &amp; _ 
+      .SQL = "SELECT title, title_id FROM titles " &; _ 
          "ORDER BY ytd_sales DESC" 
       Set rstTopSeller = .OpenRecordset() 
       rstTopSeller.MoveFirst 
@@ -149,26 +149,26 @@ Sub ClientServerX2()
       '       use Microsoft Windows NT Authentication Mode to  
       '       authorize user access to the Microsoft SQL Server. 
       .Connect = "ODBC;DATABASE=pubs;DSN=Publishers" 
-      .SQL = "SELECT * FROM titleauthor " &amp; _ 
-         "WHERE title_id = '" &amp; _ 
-         rstTopSeller!title_id &amp; "'" 
+      .SQL = "SELECT * FROM titleauthor " &; _ 
+         "WHERE title_id = '" &; _ 
+         rstTopSeller!title_id &; "'" 
       Set rstBonusRecipients = .OpenRecordset() 
    End With 
  
    ' Build the output string. 
    With rstBonusRecipients 
       Do While Not .EOF 
-         strAuthorList = strAuthorList &amp; "  " &amp; _ 
-            !au_id &amp; ":  $" &amp; (10 * !royaltyper) &amp; vbCr 
+         strAuthorList = strAuthorList &; "  " &; _ 
+            !au_id &; ":  $" &; (10 * !royaltyper) &; vbCr 
          .MoveNext 
       Loop 
    End With 
  
    ' Display results. 
-   MsgBox "Please send a check to the following " &amp; _ 
-      "authors in the amounts shown:" &amp; vbCr &amp; _ 
-      strAuthorList &amp; "for outstanding sales of " &amp; _ 
-      rstTopSeller!Title &amp; "." 
+   MsgBox "Please send a check to the following " &; _ 
+      "authors in the amounts shown:" &; vbCr &; _ 
+      strAuthorList &; "for outstanding sales of " &; _ 
+      rstTopSeller!Title &; "." 
  
    rstTopSeller.Close 
    dbsCurrent.Close 
@@ -195,8 +195,8 @@ Sub CreateQueryWithParameters()
     Application.RefreshDatabaseWindow
 
     strSQL = "PARAMETERS Param1 TEXT, Param2 INT; "
-    strSQL = strSQL &amp; "SELECT * FROM [Table1] "
-    strSQL = strSQL &amp; "WHERE [Field1] = [Param1] AND [Field2] = [Param2];"
+    strSQL = strSQL &; "SELECT * FROM [Table1] "
+    strSQL = strSQL &; "WHERE [Field1] = [Param1] AND [Field2] = [Param2];"
     qdf.SQL = strSQL
 
     qdf.Close

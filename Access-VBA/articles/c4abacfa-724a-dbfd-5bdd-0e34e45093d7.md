@@ -22,7 +22,7 @@ inline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);};
 void MoveFirstX(); 
 void MoveAny(int intChoice, _RecordsetPtr pRstTemp); 
 void PrintProviderError(_ConnectionPtr pConnection); 
-void PrintComError(_com_error &amp;e); 
+void PrintComError(_com_error &;e); 
  
 ///////////////////////////////// 
 // Main Function // 
@@ -82,7 +82,7 @@ void MoveFirstX()
  printf("[1 - MoveFirst, 2 - MoveLast, \n"); 
  printf(" 3 - MoveNext, 4 - MovePrevious, 5 - Quit]\n"); 
  
- scanf("%d", &amp;intCommand); 
+ scanf("%d", &;intCommand); 
  
  if ((intCommand < 1) || (intCommand > 4)) 
  break; // Out of range entry exits program loop. 
@@ -91,7 +91,7 @@ void MoveFirstX()
  MoveAny(intCommand, pRstAuthors); 
  } 
  } 
- catch (_com_error &amp;e) 
+ catch (_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  // Pass a connection pointer accessed from the Recordset. 
@@ -157,7 +157,7 @@ void MoveAny(int intChoice, _RecordsetPtr pRstTemp)
  } 
  } 
  
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  // Pass a connection pointer accessed from the Recordset. 
@@ -208,7 +208,7 @@ void PrintProviderError(_ConnectionPtr pConnection)
 // PrintComError Function // 
 ////////////////////////////////////// 
  
-void PrintComError(_com_error &amp;e) 
+void PrintComError(_com_error &;e) 
 { 
  _bstr_t bstrSource(e.Source()); 
  _bstr_t bstrDescription(e.Description()); 

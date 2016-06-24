@@ -63,7 +63,7 @@ Private Sub Form_Load()
  
  ' Display the Fields of the record 
  For Each objField In objRecord.Fields 
- Debug.Print objField.Name &amp; ": " &amp; objField.Value 
+ Debug.Print objField.Name &; ": " &; objField.Value 
  Next 
  
  ' Copy the record to a new URL 
@@ -102,7 +102,7 @@ ErrorHandler:
  Set objRecord = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 'EndCopyRecordVB 

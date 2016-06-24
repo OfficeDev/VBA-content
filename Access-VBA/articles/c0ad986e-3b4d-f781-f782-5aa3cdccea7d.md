@@ -29,7 +29,7 @@ Creates a new  **[Database](6cf2ddf8-3957-a15e-5eeb-85f81c1e415e.md)** object, s
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|A String up to 255 characters long that is the name of the database file that you're creating. It can be the full path and file name. If your network supports it, you can also specify a network path, such as "\\server1\share1\dir1\db1". You can only create Microsoft Access database files with this method.|
 | _Connect_|Required|**String**|
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>A string expression that specifies a collating order for creating the database, as specified in Settings. You must supply this argument or an error occurs.</p></li><li><p>You can also create a password for the new <b>Database</b>  object by concatenating the password string (starting with <span class="code">";pwd="</span>) with a constant in the <i>locale</i>  argument, like this:</p></li><li><p><span class="code">dbLangSpanish &amp; ";pwd=NewPassword"</span></p></li><li><p>If you want to use the default <i>locale</i> , but specify a password, simply enter a password string for the <i>locale</i>  argument:</p></li><li><p><span class="code">";pwd=NewPassword"</span></p></li><li><p>Use strong passwords that combine upper- and lowercase letters, numbers, and symbols. Weak passwords don't mix these elements. Strong password: Y6dh!et5. Weak password: House27. Use a strong password that you can remember so that you don't have to write it down.</p></li></ul>|
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>A string expression that specifies a collating order for creating the database, as specified in Settings. You must supply this argument or an error occurs.</p></li><li><p>You can also create a password for the new <b>Database</b>  object by concatenating the password string (starting with <span class="code">";pwd="</span>) with a constant in the <i>locale</i>  argument, like this:</p></li><li><p><span class="code">dbLangSpanish &; ";pwd=NewPassword"</span></p></li><li><p>If you want to use the default <i>locale</i> , but specify a password, simply enter a password string for the <i>locale</i>  argument:</p></li><li><p><span class="code">";pwd=NewPassword"</span></p></li><li><p>Use strong passwords that combine upper- and lowercase letters, numbers, and symbols. Weak passwords don't mix these elements. Strong password: Y6dh!et5. Weak password: House27. Use a strong password that you can remember so that you don't have to write it down.</p></li></ul>|
 | _Option_|Optional|**Variant**|A constant or combination of constants that indicates one or more options, as specified in Settings. You can combine options by summing the corresponding constants.|
 
 ## Remarks
@@ -106,12 +106,12 @@ Sub CreateDatabaseX()
       dbLangGeneral, dbEncrypt) 
  
    With dbsNew 
-      Debug.Print "Properties of " &amp; .Name 
+      Debug.Print "Properties of " &; .Name 
       ' Enumerate the Properties collection of the new  
       ' Database object. 
       For Each prpLoop In .Properties 
-         If prpLoop <> "" Then Debug.Print "  " &amp; _ 
-            prpLoop.Name &amp; " = " &amp; prpLoop 
+         If prpLoop <> "" Then Debug.Print "  " &; _ 
+            prpLoop.Name &; " = " &; prpLoop 
       Next prpLoop 
    End With 
  

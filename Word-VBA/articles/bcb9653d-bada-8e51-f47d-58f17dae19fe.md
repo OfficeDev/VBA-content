@@ -10,7 +10,7 @@ Use the  **Sentences** property to return the **Sentences** collection. The foll
 
 
 ```vb
-MsgBox Selection.Sentences.Count &amp; " sentences are selected"
+MsgBox Selection.Sentences.Count &; " sentences are selected"
 ```
 
 Use  **Sentences** (Index), where Index is the index number, to return a **Range** object that represents a sentence. The index number represents the position of a sentence in the **Sentences** collection. The following example formats the first sentence in the active document.
@@ -34,10 +34,10 @@ The  **Add** method isn't available for the **Sentences** collection. Instead, u
 
 ```vb
 With ActiveDocument 
- MsgBox .Sentences.Count &amp; " sentences" 
+ MsgBox .Sentences.Count &; " sentences" 
  .Paragraphs(1).Range.InsertParagraphAfter 
  .Paragraphs(2).Range.InsertBefore "The house is blue." 
- MsgBox .Sentences.Count &amp; " sentences" 
+ MsgBox .Sentences.Count &; " sentences" 
 End With
 ```
 

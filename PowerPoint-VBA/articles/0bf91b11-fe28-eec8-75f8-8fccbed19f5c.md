@@ -53,7 +53,7 @@ With Application.ActivePresentation.Slides(1).Shapes(2).TextFrame
 
 End With
 
-MsgBox "Current line spacing: " &amp; ls &amp; lsUnits
+MsgBox "Current line spacing: " &; ls &; lsUnits
 ```
 
 

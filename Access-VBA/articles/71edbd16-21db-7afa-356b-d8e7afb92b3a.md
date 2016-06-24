@@ -46,12 +46,12 @@ The  **Cache Child Rows** dynamic property is set to **True** by default. The ca
 ```sql
  
 ... 
-SCmd = "SHAPE {select * from customer} " &amp; _ 
- "APPEND({select * from orders where cust_id = ?} " &amp; _ 
+SCmd = "SHAPE {select * from customer} " &; _ 
+ "APPEND({select * from orders where cust_id = ?} " &; _ 
  "RELATE cust_id TO PARAMETER 0) AS chpCustOrder" 
 Rst1.Open sCmd, Cnn1 
 Set RstChild = Rst1("chpCustOrder").Value 
-Rst1.MoveNext ' Next cust_id passed to Param 0, &amp; new rs fetched 
+Rst1.MoveNext ' Next cust_id passed to Param 0, &; new rs fetched 
  ' into RstChild. 
 Rst1.MovePrevious ' RstChild now holds cached rs, saving round trip. 
 ... 

@@ -43,14 +43,14 @@ Session("chkLev") =  Request.Form("chkLevel")
 Set cat = Server.CreateObject("ADOMD.Catalog") 
  
 If Len(Session("ServerName")) > 0 Then 
-   cat.ActiveConnection = "Data Source='" &amp; Session("ServerName") &amp; "';Initial Catalog='" &amp; Session("CatalogName") &amp; "';Provider='msolap';" 
+   cat.ActiveConnection = "Data Source='" &; Session("ServerName") &; "';Initial Catalog='" &; Session("CatalogName") &; "';Provider='msolap';" 
 Else 
 '************************************************************************************ 
 '*** Must set OLAPServerName to OLAP Server that is 
 '*** present on network 
 '************************************************************************ 
 OLAPServerName = "Please set to present OLAP Server" 
-   cat.ActiveConnection = "Data Source=" &amp; OLAPServerName &amp; _ 
+   cat.ActiveConnection = "Data Source=" &; OLAPServerName &; _ 
       ";Initial Catalog=FoodMart;Provider=msolap;" 
    Session("ServerName") = OLAPServerName 
    Session("InitialCatalog") = "FoodMart" 
@@ -94,7 +94,7 @@ End if
 '************************************************************************ 
 '*** Start of Report 
 '************************************************************************ 
-Response.Write "<H3>Report for " &amp; Session("CubeName") &amp; " Cube</H3>" 
+Response.Write "<H3>Report for " &; Session("CubeName") &; " Cube</H3>" 
 Response.Write "<OL TYPE='i'>" 
  
 '************************************************************************ 
@@ -102,7 +102,7 @@ Response.Write "<OL TYPE='i'>"
 '************************************************************************ 
             For i = 0 To cdf.Properties.Count - 1 
                Response.Write "<LI>" 
-               Response.Write "<FONT size=-2>" &amp; cdf.Properties(i).Name &amp; ": " &amp; cdf.Properties(i).Value &amp; "</FONT>" 
+               Response.Write "<FONT size=-2>" &; cdf.Properties(i).Name &; ": " &; cdf.Properties(i).Value &; "</FONT>" 
             Next 
             Response.Write "</OL>" 
             Response.Write "<UL TYPE='SQUARE'>"    
@@ -112,15 +112,15 @@ Response.Write "<OL TYPE='i'>"
 '************************************************************************ 
       For di = 0 To cdf.Dimensions.Count - 1 
          Response.Write "<LI>" 
-         Response.Write "<FONT size=4><B>Dimension: " &amp; _ 
-            cdf.Dimensions(di).Name &amp; "</B></FONT>" 
+         Response.Write "<FONT size=4><B>Dimension: " &; _ 
+            cdf.Dimensions(di).Name &; "</B></FONT>" 
          If Request.Form("chkDimension") = "on" Then 
             Response.Write "<OL TYPE='1'>" 
             For i = 0 To cdf.Dimensions(di).Properties.Count - 1 
                Response.Write "<LI>" 
-               Response.Write "<FONT size=-2>" &amp; _ 
-                  cdf.Dimensions(di).Properties(i).Name &amp; ": " &amp; _ 
-                  cdf.Dimensions(di).Properties(i).Value &amp; "</FONT>" 
+               Response.Write "<FONT size=-2>" &; _ 
+                  cdf.Dimensions(di).Properties(i).Name &; ": " &; _ 
+                  cdf.Dimensions(di).Properties(i).Value &; "</FONT>" 
             Next 
             Response.Write "</OL>" 
          End If 
@@ -131,18 +131,18 @@ Response.Write "<OL TYPE='i'>"
 '************************************************************************ 
          For hi = 0 To cdf.Dimensions(di).Hierarchies.Count - 1 
             Response.Write "<LI>" 
-            Response.Write "<FONT size=3><B>Hierarchy: " &amp; _ 
-               cdf.Dimensions(di).Hierarchies(hi).Name &amp; "</B></FONT>" 
+            Response.Write "<FONT size=3><B>Hierarchy: " &; _ 
+               cdf.Dimensions(di).Hierarchies(hi).Name &; "</B></FONT>" 
             If Request.Form("chkHierarchy") = "on" Then 
                Response.Write "<OL TYPE='1'>" 
                For i = 0 To _ 
                   cdf.Dimensions(di).Hierarchies(hi).Properties.Count - 1 
                   Response.Write "<LI>" 
-                  Response.Write "<FONT size=-2>" &amp; _ 
+                  Response.Write "<FONT size=-2>" &; _ 
                      cdf.Dimensions(di).Hierarchies(hi).Properties(i)._ 
-                     Name &amp; ": " &amp; _ 
+                     Name &; ": " &; _ 
                      cdf.Dimensions(di).Hierarchies(hi).Properties(i)._ 
-                     Value &amp; "</FONT>" 
+                     Value &; "</FONT>" 
                Next 
                Response.Write "</OL>" 
             End If 
@@ -152,22 +152,22 @@ Response.Write "<OL TYPE='i'>"
 '************************************************************************ 
       For le = 0 To cdf.Dimensions(di).Hierarchies(hi).Levels.Count - 1 
                Response.Write "<LI>" 
-               Response.Write "<FONT size=2><B>Level: " &amp; _ 
-                  cdf.Dimensions(di).Hierarchies(hi).Levels(le).Name &amp; _ 
-                  " with a Member Count of: " &amp; _ 
+               Response.Write "<FONT size=2><B>Level: " &; _ 
+                  cdf.Dimensions(di).Hierarchies(hi).Levels(le).Name &; _ 
+                  " with a Member Count of: " &; _ 
                   cdf.Dimensions(di).Hierarchies(hi).Levels(le)._ 
-                  Properties("LEVEL_CARDINALITY") &amp; "</B></FONT>" 
+                  Properties("LEVEL_CARDINALITY") &; "</B></FONT>" 
                If Request.Form("chkLevel") = "on" Then 
                   Response.Write "<OL TYPE='1'>" 
                   For i = 0 To  
                      cdf.Dimensions(di).Hierarchies(hi).Levels(le)._ 
                      Properties.Count - 1 
                      Response.Write "<LI>" 
-                     Response.Write "<FONT size=-2>" &amp; _ 
+                     Response.Write "<FONT size=-2>" &; _ 
                         cdf.Dimensions(di).Hierarchies(hi).Levels(le)._ 
-                        Properties(i).Name &amp; ": " &amp; _ 
+                        Properties(i).Name &; ": " &; _ 
                         cdf.Dimensions(di).Hierarchies(hi).Levels(le)._ 
-                        Properties(i).Value &amp; "</FONT>" 
+                        Properties(i).Value &; "</FONT>" 
                   Next 
                   Response.Write "</OL>" 
                End If 
@@ -186,7 +186,7 @@ Response.Write "<OL TYPE='i'>"
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

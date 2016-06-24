@@ -68,14 +68,14 @@ Sub RelationX()
  ' Print a report showing all the different parts of 
  ' the relation and where each part is stored. 
  With dbsNorthwind.Relations!CategoriesProducts 
- Debug.Print "Properties of " &amp; .Name &amp; " Relation" 
- Debug.Print " Table = " &amp; .Table 
- Debug.Print " ForeignTable = " &amp; .ForeignTable 
- Debug.Print "Fields of " &amp; .Name &amp; " Relation" 
+ Debug.Print "Properties of " &; .Name &; " Relation" 
+ Debug.Print " Table = " &; .Table 
+ Debug.Print " ForeignTable = " &; .ForeignTable 
+ Debug.Print "Fields of " &; .Name &; " Relation" 
  With .Fields!CategoryID 
- Debug.Print " " &amp; .Name 
- Debug.Print " Name = " &amp; .Name 
- Debug.Print " ForeignName = " &amp; .ForeignName 
+ Debug.Print " " &; .Name 
+ Debug.Print " Name = " &; .Name 
+ Debug.Print " ForeignName = " &; .ForeignName 
  End With 
  End With 
  
@@ -100,8 +100,8 @@ Err_Relation:
  ' the invalid data. 
  If DBEngine.Errors.Count > 0 Then 
  For Each errLoop In DBEngine.Errors 
- MsgBox "Error number: " &amp; errLoop.Number &amp; _ 
- vbCr &amp; errLoop.Description 
+ MsgBox "Error number: " &; errLoop.Number &; _ 
+ vbCr &; errLoop.Description 
  Next errLoop 
  End If 
  
@@ -170,24 +170,24 @@ Sub CreateRelationX()
  .Relations.Append relNew 
  
  ' Print report. 
- Debug.Print "Properties of " &amp; relNew.Name &amp; _ 
+ Debug.Print "Properties of " &; relNew.Name &; _ 
  " Relation" 
- Debug.Print " Table = " &amp; relNew.Table 
- Debug.Print " ForeignTable = " &amp; _ 
+ Debug.Print " Table = " &; relNew.Table 
+ Debug.Print " ForeignTable = " &; _ 
  relNew.ForeignTable 
- Debug.Print "Fields of " &amp; relNew.Name &amp; " Relation" 
+ Debug.Print "Fields of " &; relNew.Name &; " Relation" 
  
  With relNew.Fields!DeptID 
- Debug.Print " " &amp; .Name 
- Debug.Print " Name = " &amp; .Name 
- Debug.Print " ForeignName = " &amp; .ForeignName 
+ Debug.Print " " &; .Name 
+ Debug.Print " Name = " &; .Name 
+ Debug.Print " ForeignName = " &; .ForeignName 
  End With 
  
- Debug.Print "Indexes in " &amp; tdfEmployees.Name &amp; _ 
+ Debug.Print "Indexes in " &; tdfEmployees.Name &; _ 
  " TableDef" 
  For Each idxLoop In tdfEmployees.Indexes 
- Debug.Print " " &amp; idxLoop.Name &amp; _ 
- ", Foreign = " &amp; idxLoop.Foreign 
+ Debug.Print " " &; idxLoop.Name &; _ 
+ ", Foreign = " &; idxLoop.Foreign 
  Next idxLoop 
  
  ' Delete new objects because this is a demonstration. 

@@ -48,7 +48,7 @@ The following example sets up the calandar for printing with 2 months per page a
 Sub File_PageSetupCalendar() 
  
  'Activate Calandar view 
- ViewApply Name:="&amp;Calendar" 
+ ViewApply Name:="&;Calendar" 
  FilePageSetupCalendar MonthsPerPage:=2, OnlyDaysInMonth:=False, MonthPreviews:=True 
 End Sub
 ```

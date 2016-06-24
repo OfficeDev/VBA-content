@@ -23,7 +23,7 @@ Sub SeeAllTables()
  Dim TaskTableNames As String 
  
  For Each Temp In ActiveProject.TaskTableList 
- TaskTableNames = TaskTableNames &amp; vbCrLf &amp; Temp 
+ TaskTableNames = TaskTableNames &; vbCrLf &; Temp 
  Next Temp 
  
  MsgBox TaskTableNames 

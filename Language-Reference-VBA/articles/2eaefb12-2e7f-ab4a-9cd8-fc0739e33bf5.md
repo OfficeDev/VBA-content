@@ -58,7 +58,7 @@ Function GetCommandLine(Optional MaxArgs)
                 InArg = True
             End If
             'Concatenate character to current argument.
-            ArgArray(NumArgs) = ArgArray(NumArgs) &amp; C
+            ArgArray(NumArgs) = ArgArray(NumArgs) &; C
         Else
             'Found a space or tab.
             'Set InArg flag to False.

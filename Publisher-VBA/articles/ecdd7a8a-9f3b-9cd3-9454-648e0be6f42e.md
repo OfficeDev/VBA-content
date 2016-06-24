@@ -19,7 +19,7 @@ This example displays the version and build information for Publisher.
 ```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
- &amp; .Version &amp; " build " &amp; .Build 
+ &; .Version &; " build " &; .Build 
 End With
 ```
 

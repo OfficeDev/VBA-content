@@ -22,10 +22,10 @@ Sub Main()
  
  Set cat = New ADOX.Catalog 
  
- cat.ActiveConnection = "Provider='Microsoft.Jet.OLEDB.4.0';" &amp; _ 
- "Data Source='c:\Program Files\" &amp; _ 
- "Microsoft Office\Office\Samples\Northwind.mdb';" &amp; _ 
- "jet oledb:system database=" &amp; _ 
+ cat.ActiveConnection = "Provider='Microsoft.Jet.OLEDB.4.0';" &; _ 
+ "Data Source='c:\Program Files\" &; _ 
+ "Microsoft Office\Office\Samples\Northwind.mdb';" &; _ 
+ "jet oledb:system database=" &; _ 
  "'c:\Program Files\Microsoft Office\Office\system.mdw'" 
  
  With cat 
@@ -49,13 +49,13 @@ Sub Main()
  ' Enumerate all User objects in the 
  ' catalog's Users collection. 
  For Each usrLoop In .Users 
- Debug.Print " " &amp; usrLoop.Name 
+ Debug.Print " " &; usrLoop.Name 
  Debug.Print " Belongs to these groups:" 
  ' Enumerate all Group objects in each User 
  ' object's Groups collection. 
  If usrLoop.Groups.Count <> 0 Then 
  For Each grpLoop In usrLoop.Groups 
- Debug.Print " " &amp; grpLoop.Name 
+ Debug.Print " " &; grpLoop.Name 
  Next grpLoop 
  Else 
  Debug.Print " [None]" 
@@ -65,13 +65,13 @@ Sub Main()
  ' Enumerate all Group objects in the default 
  ' workspace's Groups collection. 
  For Each grpLoop In .Groups 
- Debug.Print " " &amp; grpLoop.Name 
+ Debug.Print " " &; grpLoop.Name 
  Debug.Print " Has as its members:" 
  ' Enumerate all User objects in each Group 
  ' object's Users collection. 
  If grpLoop.Users.Count <> 0 Then 
  For Each usrLoop In grpLoop.Users 
- Debug.Print " " &amp; usrLoop.Name 
+ Debug.Print " " &; usrLoop.Name 
  Next usrLoop 
  Else 
  Debug.Print " [None]" 
@@ -99,7 +99,7 @@ GroupXError:
  Set usrNew = Nothing 
  
  If Err <> 0 Then 
- MsgBox Err.Source &amp; "-->" &amp; Err.Description, , "Error" 
+ MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
  End If 
 End Sub 
 ' EndGroupVB 

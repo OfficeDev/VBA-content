@@ -43,9 +43,9 @@ The following example creates a shared workspace site at the URL http://server/s
     Dim strSWSInfo As String 
     Set sws = ActiveWorkbook.SharedWorkspace 
     sws.CreateNew "http://server/sites/mysite/", "My Shared Budget Document" 
-    strSWSInfo = "Name: " &amp; sws.Name &amp; vbCrLf &amp; _ 
-        "URL: " &amp; sws.URL &amp; vbCrLf &amp; _ 
-        "File(s): " &amp; sws.Files.Count 
+    strSWSInfo = "Name: " &; sws.Name &; vbCrLf &; _ 
+        "URL: " &; sws.URL &; vbCrLf &; _ 
+        "File(s): " &; sws.Files.Count 
     MsgBox strSWSInfo, vbInformation + vbOKOnly, _ 
         "New Shared Workspace Information" 
     Set sws = Nothing 

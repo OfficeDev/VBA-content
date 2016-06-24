@@ -41,7 +41,7 @@ Next w
 Application.Quit
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
 This example uses the  **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 
@@ -53,7 +53,7 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean)
    'If the six specified cells do not contain data, then display a message box with an error
    'and cancel the attempt to save.
    If WorksheetFunction.CountA(Worksheets("Sheet1").Range("D5,D7,D9,D11,D13, D15")) < 6 Then
-      MsgBox "Workbook will not be saved unless" &amp; vbCrLf &amp; _
+      MsgBox "Workbook will not be saved unless" &; vbCrLf &; _
       "All required fields have been filled in!"
       Cancel = True
    End If

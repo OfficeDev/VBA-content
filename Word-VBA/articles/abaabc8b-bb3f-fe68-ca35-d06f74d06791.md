@@ -24,7 +24,7 @@ This example displays the right margin setting for the active document. The  **[
 ```vb
 With ActiveDocument.PageSetup 
  Msgbox "The right margin is set to " _ 
- &amp; PointsToInches(.RightMargin) &amp; " inches." 
+ &; PointsToInches(.RightMargin) &; " inches." 
 End With
 ```
 

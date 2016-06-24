@@ -30,7 +30,7 @@ This example updates all the fields in the main story (that is, the main body) o
 If ActiveDocument.Fields.Update = 0 Then 
  MsgBox "Update Successful" 
 Else 
- MsgBox "Field " &amp; ActiveDocument.Fields.Update &amp; _ 
+ MsgBox "Field " &; ActiveDocument.Fields.Update &; _ 
  " has an error" 
 End If
 ```

@@ -139,10 +139,10 @@ VOID AppendChunkX(VOID)
  //Open an IADORecordBinding interface pointer which we'll use 
  //for Binding Recordset to a class 
  TESTHR(pRstPubInfo->QueryInterface( 
- __uuidof(IADORecordBinding),(LPVOID*)&amp;picRs)); 
+ __uuidof(IADORecordBinding),(LPVOID*)&;picRs)); 
  
  //Bind the Recordset to a C++ Class here 
- TESTHR(picRs->BindToRecordset(&amp;pubrs)); 
+ TESTHR(picRs->BindToRecordset(&;pubrs)); 
  
  //Display the available logos here 
  strMessage = "Available logos are: " + (_bstr_t)"\n\n"; 
@@ -186,11 +186,11 @@ VOID AppendChunkX(VOID)
  //Copy the data only upto the Actual Size of Field. 
  for(long index=0;index<=(ChunkSize-1);index++) 
  { 
- hr= SafeArrayGetElement(varChunk.parray,&amp;index,&amp;chData); 
+ hr= SafeArrayGetElement(varChunk.parray,&;index,&;chData); 
  if(SUCCEEDED(hr)) 
  { 
  //Take BYTE by BYTE and advance Memory Location 
- hr = SafeArrayPutElement(psa,&amp;index1,&amp;chData); 
+ hr = SafeArrayPutElement(psa,&;index1,&;chData); 
  index1++; 
  } 
  else 
@@ -232,7 +232,7 @@ VOID AppendChunkX(VOID)
  pConnection->Execute("DELETE FROM PUB_INFO WHERE pub_id = '" 
  + strPubID +"'",NULL,adCmdText); 
  } 
- catch(_com_error &amp;e) 
+ catch(_com_error &;e) 
  { 
  // Notify the user of errors if any. 
  _bstr_t bstrSource(e.Source()); 

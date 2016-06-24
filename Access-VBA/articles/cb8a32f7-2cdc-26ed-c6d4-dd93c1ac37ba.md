@@ -40,10 +40,10 @@ In the following example, the  **Save** and **Open** methods are used to persist
 'BeginPersist 
  conn.ConnectionString = _ 
  "Provider='SQLOLEDB';Data Source='MySqlServer';" _ 
- &amp; "Integrated Security='SSPI';Initial Catalog='pubs'" 
+ &; "Integrated Security='SSPI';Initial Catalog='pubs'" 
  conn.Open 
  
- conn.Execute "create table testtable (dbkey int " &amp; _ 
+ conn.Execute "create table testtable (dbkey int " &; _ 
  "primary key, field1 char(10))" 
  conn.Execute "insert into testtable values (1, 'string1')" 
  
@@ -74,8 +74,8 @@ In the following example, the  **Save** and **Open** methods are used to persist
  adLockBatchOptimistic, adCmdFile 
  
  Debug.Print "After Loading the file from disk" 
- Debug.Print " Current Edited Value: " &amp; rst!field1.Value 
- Debug.Print " Value Before Editing: " &amp; rst!field1.OriginalValue 
+ Debug.Print " Current Edited Value: " &; rst!field1.Value 
+ Debug.Print " Value Before Editing: " &; rst!field1.OriginalValue 
  
  'Note that you can reconnect to a connection and 
  'submit the changes to the data source 
