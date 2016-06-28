@@ -1,20 +1,29 @@
 {
-    "build_entry_point": "",
-    "need_generate_pdf": false,
-    "git_repository_url_open_to_public_contributors": "",
-    "docsets_to_publish": [
-        {
-            "docset_name": "VBAContent",
-            "build_output_subfolder": "VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        }
-    ],
-    "notification_subscribers": ["lauragra@microsoft.com", "saldana@microsoft.com"], 
-    "branches_to_filter": ["live"] 
-
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "VBAContent",
+      "build_source_folder": "VBA",
+      "build_output_subfolder": "VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    }
+  ],
+  "notification_subscribers": [
+    "lauragra@microsoft.com",
+    "saldana@microsoft.com"
+  ],
+  "branches_to_filter": [
+    "live"
+  ],
+  "git_repository_url_open_to_public_contributors": "",
+  "skip_source_output_uploading": false
 }
