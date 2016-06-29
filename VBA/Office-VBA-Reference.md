@@ -1,6 +1,6 @@
 # Office VBA Reference
 
-The Office Visual Basic for Applications (VBA) reference enables you to use programming to extend Office applications. 
+Office Visual Basic for Applications (VBA) is an event-driven programming language that enables you to extend Office applications. 
 
 
 
