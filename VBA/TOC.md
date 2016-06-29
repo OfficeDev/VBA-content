@@ -1,4 +1,4 @@
-# [Office VBA Reference](TOC.md)
+# Office VBA Reference
 ## [Access VBA](Access-VBA/articles/TOC.md)
 ## [Excel VBA](Excel-VBA/articles/TOC.md)
 ## [Language Reference VBA](Language-Reference-VBA/articles/TOC.md)
