@@ -1,10 +1,10 @@
-# Office VBA reference
+# Office VBA Reference
 
 The Office Visual Basic for Applications (VBA) reference enables you to use programming to extend Office applications. 
 
 
 
-## VBA programming in Office
+## VBA Programming in Office
 
 
 
@@ -19,5 +19,5 @@ The great power of VBA programming in Office is that nearly every operation that
 
 Beyond the power of scripting VBA to accelerate every-day tasks, you can use VBA to add new functionality to Office applications or to prompt and interact with the user of your documents in ways that are specific to your business needs. For example, you could write some VBA code that displays a pop up message that reminds users to save a document to a particular network drive the first time they try to save it.
 
-## See Also
+## Additional resources
 [Office VBA Object library reference](Library-Reference-VBA/articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
