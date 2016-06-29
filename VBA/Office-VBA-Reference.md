@@ -1,10 +1,10 @@
-# Office VBA Reference
+# Office VBA reference
 
 The Office Visual Basic for Applications (VBA) reference enables you to use programming to extend Office applications. 
 
 
 
-## VBA Programming in Office
+## VBA programming in Office
 
 
 
