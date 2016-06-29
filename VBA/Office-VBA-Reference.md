@@ -11,7 +11,7 @@ Office Visual Basic for Applications (VBA) is an event-driven programming langua
 
 This reference is for experienced Office users who want to learn about VBA and who want some insight into how programming can help them to customize Office.
 
-The Office suite of applications has a rich set of features. There are many different ways to author, format, and manipulate documents, e-mail, databases, forms, spreadsheets, and presentations. 
+The Office suite of applications has a rich set of features. There are many different ways to author, format, and manipulate documents, email, databases, forms, spreadsheets, and presentations. 
 
 The great power of VBA programming in Office is that nearly every operation that you can perform with a mouse, keyboard, or a dialog box can also be done by using VBA. Further, if it can be done once with VBA, it can be done just as easily a hundred times. In fact, the automation of repetitive tasks is one of the most common uses of VBA in Office.
 
