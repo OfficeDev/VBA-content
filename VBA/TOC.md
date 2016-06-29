@@ -8,7 +8,7 @@
 
 ## [Library Reference VBA](Library-Reference-VBA/articles/TOC.md)
 
-## [Office Mac VBA](Office-Mac-VBA/articles/TOC.md)
+## [Office Mac VBA](Office-Mac-VBA/TOC.md)
 
 ## [Outlook VBA](Outlook-VBA/articles/TOC.md)
 
