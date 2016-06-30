@@ -5,7 +5,7 @@ Welcome to the Visual Basic for Applications (VBA) language reference for Office
 
 The documentation provided in this reference includes the following: 
 
--  [**Microsoft Forms reference**](https://github.com/OfficeDev/VBA-content/blob/master/Language-Reference-VBA/articles/27279808-8ed7-462a-a539-8c132086d91f.md)
+-  [**Microsoft Forms reference**](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Language-Reference-VBA/articles/27279808-8ed7-462a-a539-8c132086d91f.md)
     
     Provides information about  **Userforms** and controls, and how to program with them by using Visual Basic.
     
