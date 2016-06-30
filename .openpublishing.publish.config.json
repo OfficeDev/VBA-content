@@ -3,6 +3,174 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
+      "docset_name": "Project-VBA",
+      "build_source_folder": "Project-VBA",
+      "build_output_subfolder": "Project-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Powerpoint-VBA",
+      "build_source_folder": "Powerpoint-VBA",
+      "build_output_subfolder": "Powerpoint-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Language-Reference-VBA",
+      "build_source_folder": "Language-Reference-VBA",
+      "build_output_subfolder": "Language-Reference-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Excel-VBA",
+      "build_source_folder": "Excel-VBA",
+      "build_output_subfolder": "Excel-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Publisher-VBA",
+      "build_source_folder": "Publisher-VBA",
+      "build_output_subfolder": "Publisher-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Library-Reference-VBA",
+      "build_source_folder": "Library-Reference-VBA",
+      "build_output_subfolder": "Library-Reference-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Outlook-VBA",
+      "build_source_folder": "Outlook-VBA",
+      "build_output_subfolder": "Outlook-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Access-VBAs",
+      "build_source_folder": "Access-VBAs",
+      "build_output_subfolder": "Access-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Word-VBA",
+      "build_source_folder": "Word-VBA",
+      "build_output_subfolder": "Word-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Office-Mac-VBA",
+      "build_source_folder": "Office-Mac-VBA",
+      "build_output_subfolder": "Office-Mac-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Visio-VBA",
+      "build_source_folder": "Visio-VBA",
+      "build_output_subfolder": "Visio-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Office-Shared-VBA",
+      "build_source_folder": "Office-Shared-VBA",
+      "build_output_subfolder": "Office-Shared-VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
       "docset_name": "VBAContent",
       "build_source_folder": "VBA",
       "build_output_subfolder": "VBA",
@@ -17,7 +185,10 @@
       "build_entry_point": "op"
     }
   ],
-  "notification_subscribers": ["lauragra@microsoft.com","saldana@microsoft.com"],
+  "notification_subscribers": [
+    "lauragra@microsoft.com",
+    "saldana@microsoft.com"
+  ],
   "branches_to_filter": [
     "live"
   ],
