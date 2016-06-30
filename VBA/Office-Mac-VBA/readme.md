@@ -1,5 +1,5 @@
 # Office for Mac articles
-- [Office for Mac overview](articles/Introduction.md)
+- [Office for Mac overview](vba/Office-Mac-VBA/articles/Introduction.md)
 - [Request access to multiple files](articles/GrantAccessToMultipleFiles.md)
 - [Run an AppleScript with VB](articles/AppleScriptTask.md)
 - [Differentiate between Office for Mac versions at compile time](articles/MacOfficeVersion.md)
