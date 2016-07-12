@@ -21,7 +21,7 @@ The documentation provided in this reference includes the following:
     
     Describes useful common procedures (for example, how to use the  **Object Browser** or how to set Visual Basic Environment options).
     
--  [**Visual Basic language reference**](https://github.com/OfficeDev/VBA-content/blob/VBA/Language-Reference-VBA/articles/ea3d048c-6984-42a0-8a27-27172aa69620.md)
+-  [**Visual Basic language reference**](https://github.com/OfficeDev/VBA-content/blob/VBA/Language-Reference-VBA/articles/9c1e8386-0309-c52c-856b-963220382eb8.md)
     
     Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects.
     
