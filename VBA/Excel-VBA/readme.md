@@ -5421,6 +5421,7 @@
         - [ProtectWindows Property](articles/0f285fbe-2545-5c7d-9e3d-f08d57e78092.md)
         - [PublishObjects Property](articles/b6418f80-5154-6e3f-7313-222e6438c0e1.md)
         - [Queries Property](articles/29ee16cb-b6f2-2358-7e1a-3b1e7f9cf654.md)
+        - [Query Property](articles/ee3fbcee-0901-480c-ad29-6432ecf0a940.md)
         - [ReadOnly Property](articles/f3c0ec74-63af-ed76-f854-ce2382b9fcf3.md)
         - [ReadOnlyRecommended Property](articles/3cae84e4-d5f0-f01c-64d9-ec586ffdf79c.md)
         - [RemovePersonalInformation Property](articles/f5cdc655-8ba9-6dd1-ab05-028d98c11972.md)
