@@ -13,13 +13,13 @@ Returns or sets the cell (a  **Range** object) that defines the page-break locat
 
 ## Example
 
-This example moves the horizontal page-break location.
+This example sets the horizontal page-break location. Note that you must be in Page Break Preview mode in order to set it.
 
 
 ```vb
-Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
+Set Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 ```
-
+**Note: HPageBreak.Location** can only be used to set the vertical page-break location. In order to change the location of a **HPageBreak**, you must use **HPageBreak.Dragoff**.
 
 ## See also
 
