@@ -1,0 +1,8 @@
+# Office for Mac articles
+- [Office for Mac overview](Introduction.md)
+- [Request access to multiple files](GrantAccessToMultipleFiles.md)
+- [Run an AppleScript with VB](AppleScriptTask.md)
+- [Differentiate between Office for Mac versions at compile time](MacOfficeVersion.md)
+- [idMSOs supported in Excel for Mac](idMSOExcelMac.md) 
+- [idMSOs supported in PowerPoint for Mac](idMSOPowerPointMac.md) 
+- [idMSOs supported in Word for Mac](idMSOWordMac.md) 
