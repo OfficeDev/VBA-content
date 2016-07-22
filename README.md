@@ -6,10 +6,10 @@ In addition to the online reference content for VBA, we also have offline copies
 
 The VBA references available include:
 
-+ Access - http://aka.ms/access2016vba
-+ Excel - http://aka.ms/excel2016vba
-+ PowerPoint - http://aka.ms/powerpoint2016vba
-+ Word - http://aka.ms/word2016vba
++ Access - https://github.com/OfficeDev/VBA-content/blob/master/VBA/Offline-Docs/ACVBACon.chm
++ Excel - https://github.com/OfficeDev/VBA-content/blob/master/VBA/Offline-Docs/XLVBACon.chm
++ PowerPoint - https://github.com/OfficeDev/VBA-content/blob/master/VBA/Offline-Docs/PPVBACon.chm
++ Word - https://github.com/OfficeDev/VBA-content/blob/master/VBA/Offline-Docs/WDVBACon.chm
 
 To open the CHM file, double-click the file in Windows Explorer at the disk location where you last saved it.
 
