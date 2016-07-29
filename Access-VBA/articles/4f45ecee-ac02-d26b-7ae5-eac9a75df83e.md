@@ -1,6 +1,0 @@
-
-# The cascading options for the new reference conflict with existing reference <name>. (Error 3707)
-
-This error occurs if a CASCADE action is defined on a column that already has another type of CASCADE action. For example, if CASCADE DELETE is already specified, the user will be prevented from trying to add CASCADE UPDATE. To apply the desired CASCADE action, the original CONSTRAINT must be dropped. This can be done with the ALTER TABLE ALTER COLUMN syntax or with the DROP CONSTRAINT syntax.
-
- **ACCESS SUPPORT RESOURCES**[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)[Access help on support.office.com](https://support.office.com/search/results?query=Access)[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&amp;tab=question&amp;status=all&amp;auth=1)[Search for specific Access error codes on Bing](http://www.bing.com/)[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
