@@ -1,8 +1,8 @@
 #[Publisher VBA reference](f6205a28-3858-4c73-b291-65e56a2fc015.md)
-##[Concepts](5622538f-b656-9014-3fbd-0afc751250b4.md)
-###[Returning an Object from a Collection](08b8c469-f4f1-8717-a767-ab57c792606b.md)
-###[Using Events with the Application Object](29b60d3c-3049-2ba9-8688-e46c4323e9ba.md)
-###[Using Events with the Document Object](0f5cfe67-bfa1-0ec7-11c9-c4c1337ebe50.md)
+##Concepts
+####[Returning an Object from a Collection](08b8c469-f4f1-8717-a767-ab57c792606b.md)
+####[Using Events with the Application Object](29b60d3c-3049-2ba9-8688-e46c4323e9ba.md)
+####[Using Events with the Document Object](0f5cfe67-bfa1-0ec7-11c9-c4c1337ebe50.md)
 ##[Object model](18165c2b-0a00-4809-9cd0-5098261e5a67.md)
 ###[Adjustments Object](a1abecf9-582d-3b5c-8a2c-14c4d260df3a.md)
 ####[Application Property](9782bcd4-91ac-4ea3-4db7-f87b9b7c00ee.md)
