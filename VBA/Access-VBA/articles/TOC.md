@@ -1,5 +1,5 @@
 #[Access VBA reference](0e9c6fa4-3289-4a13-b409-354c70129308.md)
-##[Concepts](916138ba-fc88-54ab-75bc-0476c700c0f7.md)
+##Concepts
 ###Setting References
 ####[Set References to Type Libraries](6314a89b-89e9-d8c1-5964-889a361afcd1.md)
 ####[Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](a919be67-84ee-e9de-1cfd-17a456f4d929.md)
@@ -26,15 +26,14 @@
 ###Error Codes
 ####[Error Trapping](41d8de92-55ed-8537-eb31-6d72ba69c165.md)
 ####[Elements of Run-Time Error Handling](a0e06a1e-2709-aa51-92d0-340788a31a8a.md)
-###[Scoping and Object-Naming Compatibility](50e86279-78d0-c509-1598-250517153fe7.md)
-###[Custom Methods and Properties](2915eacb-240f-6876-0afb-1db038c4ecba.md)
-###[Improvements in Compilation Performance](122a8429-ad31-4e4b-2f68-d9d07c1deeeb.md)
-###[Macro Actions and Methods of the DoCmd Object](aab25fbe-8ec3-5c45-dd70-a0e8c885406a.md)
-###[Using Enumerated Constants in Microsoft Access 2002 and Later](7eb8fb08-76e5-a59f-5d6d-64c7081470e6.md)
-###[Comparison of Data Types](b1e954f8-e407-ae13-e3d9-a24d3502290a.md)
-###[Call Procedures in a Subform or Subreport](6a161fe9-c0aa-c62a-be2d-d4c44cfa3b43.md)
-###[Program with Class Modules](6b10be38-bfe6-dea2-4aa5-4859722c1869.md)
-###[Data Access](d3f778f5-d6e6-bb99-0c8b-da295c5214ff.md)
+####[Scoping and Object-Naming Compatibility](50e86279-78d0-c509-1598-250517153fe7.md)
+####[Custom Methods and Properties](2915eacb-240f-6876-0afb-1db038c4ecba.md)
+####[Improvements in Compilation Performance](122a8429-ad31-4e4b-2f68-d9d07c1deeeb.md)
+####[Macro Actions and Methods of the DoCmd Object](aab25fbe-8ec3-5c45-dd70-a0e8c885406a.md)
+####[Using Enumerated Constants in Microsoft Access 2002 and Later](7eb8fb08-76e5-a59f-5d6d-64c7081470e6.md)
+####[Comparison of Data Types](b1e954f8-e407-ae13-e3d9-a24d3502290a.md)
+####[Call Procedures in a Subform or Subreport](6a161fe9-c0aa-c62a-be2d-d4c44cfa3b43.md)
+####[Program with Class Modules](6b10be38-bfe6-dea2-4aa5-4859722c1869.md)
 ###Structured Query Language (SQL)
 ####[Build SQL Statements That Include Variables and Controls](e902199f-ed00-e885-3671-0705aa2b058a.md)
 ####[Create and Delete Tables and Indexes Using Access SQL](44c9e6a7-ac29-7a88-e0c6-b7eaec1e95ea.md)
@@ -45,7 +44,7 @@
 ####[Perform Joins Using Access SQL](1a19bc56-afd3-3917-b503-44b77078483d.md)
 ####[Retrieve Records Using Access SQL](b613a24a-2fc4-ac18-501f-c44b5cc2a45d.md)
 ####[Use Aggregate Functions to Work with Values in Access SQL](59ef6294-6840-d271-7711-bdbd78130db2.md)
-####Data Access Objects (DAO)
+###Data Access Objects (DAO)
 ####[Add a Record to a DAO Recordset](b6366906-4b37-0d35-cfd5-d38e7717131c.md)
 ####[Build SQL Statements That Include Variables and Controls](e902199f-ed00-e885-3671-0705aa2b058a.md)
 ####[Change Tables Involved in a One-to-Many Relationship in a DAO Recordset](d859066f-dfb5-e3b5-0cc8-fed38c3adb26.md)
@@ -83,8 +82,7 @@
 ####[Export a Report to XML](7e746a40-6227-1481-f631-702c3cf42d0f.md)
 ####[Export Data, Schema, and Related Tables to XML](4f84813a-bc39-ac03-f04f-624f74eed190.md)
 ###Forms
-####[Access Forms How Do I...](42a7ed77-e7cc-d945-00b2-9c10a3392223.md)
-###User Input
+####User Input
 ####[Add a Value to a Bound Combo Box](a34fddd2-eef6-10e2-c141-609053d1dd90.md)
 ####[Determine Whether The Current Record is a New Record In a Form](04aa27cd-b6b1-1397-c177-bac939780492.md)
 ####[Display a Custom Dialog Box When the User Deletes a Record](512b324b-fe2f-b086-78d2-4c09933f5d25.md)
@@ -93,7 +91,7 @@
 ####[Use Numeric Criteria from a Control on a Form](d3455b78-9ab3-9a85-14c9-895e0d0b96d2.md)
 ####[Use Textual Criteria from a Control on a Form](236e57eb-3523-92da-e665-281961dfb431.md)
 ####[Use User Input to Build Filter Criteria](0ce3417e-3527-ded4-0940-691c5c81352c.md)
-###Controls
+####Controls
 ####[Add "(All)" to a Combo Box or List Box](f246db25-84b1-736f-8a79-16b9eea9cbda.md)
 ####[Allow Users to Add Items to an Unbound Combo Box](654cefc7-cbd4-5e8e-adc7-919c6977ac6a.md)
 ####[Assign a Control a Value From a Table](d9bba7e3-bca0-00df-3753-dc99ae767759.md)
@@ -102,7 +100,7 @@
 ####[Prevent the Accidental Erasure of Data When Moving Between Controls on a Form](1733caa5-5067-e6d9-b614-51053180f22e.md)
 ####[Refer to Tab Control Objects in VBA](cf090068-7f0b-7ea6-1565-8a05860f9378.md)
 ####[Set Form, Report, and Control Properties in Code](23d88ab3-9ee6-5f7f-2351-14bb94d7a27b.md)
-###Design
+####Design
 ####[Create Multiple Instances of a Form](1e59bcce-f65f-8632-d96c-9e93af419d05.md)
 ####[Synchronize Two Combo Boxes on a Form](fcfc692b-b1c0-c44f-26cd-7d1de732eb6f.md)
 ####[Create a DAO Recordset From a Form](d4bbe327-217d-ba7e-3d9f-3c89af1dcbc9.md)
@@ -114,24 +112,20 @@
 ####[Disable PAGE UP and PAGE DOWN Keys in a Form](998e1d00-f9d3-fcca-4535-390b0fd0d482.md)
 ####[Prompt a User Before Closing a Form](3a29f7c0-5692-49f0-bbfe-f9132d5b582f.md)
 ####[Suspend Code Execution Until a Pop-up Form is Closed](d4d419ac-bf43-3356-4c20-e9bb74f9f591.md)
+###Reports
+####Design
+####[Create Alternating Row Colors on a Report](ea37a0cb-9057-e268-28a7-183751c8a1b8.md)
+####Controls
+####[Set Form, Report, and Control Properties in Code](23d88ab3-9ee6-5f7f-2351-14bb94d7a27b.md)
 ###Printing
 ####[Programmatically Retrieve Printer Capabilities](8c929823-6b61-16ea-6d84-ff47cc1e8389.md)
 ####[Retrieve a List of Installed Printers](e3162c3e-6b5b-77c3-32f9-1fdfa64cdefc.md)
 ####[Work with Form and Report Printer Settings](14a8aa00-9ad8-60f7-e103-791ab08c0e9e.md)
-###Reports
-####[Access Reports How Do I...](1ba67d04-87b8-d466-3dc5-4443df2e99f3.md)
-###Design
-####[Create Alternating Row Colors on a Report](ea37a0cb-9057-e268-28a7-183751c8a1b8.md)
-###Controls
-####[Set Form, Report, and Control Properties in Code](23d88ab3-9ee6-5f7f-2351-14bb94d7a27b.md)
-###Printing
 ####[Retrieve a List of Installed Printers](e3162c3e-6b5b-77c3-32f9-1fdfa64cdefc.md)
 ####[Close a Report Automatically If It Does Not Contain Any Records](9b160bd3-6eca-f907-ae5b-4327c3c1618e.md)
 ####[Cancel an Event](f91f4f8a-99fa-dca7-576a-11c76d6ddc93.md)
 ####[Filter a Report Using a Form's Filter](2b029c13-5abd-4865-cd05-25d094a97b9f.md)
 ####[Change the Filter or Sort Order of a Form or Report](9888dbcd-7409-f334-115e-a318131ebca4.md)
-###User Interface
-####[Access User Interface How Do I...](ae1b163d-21a6-3ac2-91e7-f0506fd4842f.md)
 ###Miscellaneous
 ####[Detect User Idle Time or Inactivity](40e9c4ef-a81b-074b-0be0-8247b4ea525b.md)
 ####[Detect Whether an Object Is Open](9378430d-752b-1ede-96af-235c7e79a06f.md)
