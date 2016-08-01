@@ -1,9 +1,8 @@
 #[Access VBA reference](0e9c6fa4-3289-4a13-b409-354c70129308.md)
 ##Concepts
-###Setting References
+###Settinging
 ####[Set References to Type Libraries](6314a89b-89e9-d8c1-5964-889a361afcd1.md)
 ####[Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](a919be67-84ee-e9de-1cfd-17a456f4d929.md)
-###Setting Properties and Options
 ####[Set Options from Visual Basic](c85ab081-6522-f851-a0d7-3d6612af26ab.md)
 ####[Set Properties by Using Visual Basic](3fa3677b-a779-3bc7-0f0f-827c252b3292.md)
 ####[Set Startup Properties and Options in Code](6b6e50d6-27b5-337b-e95e-5e100c958713.md)
@@ -20,9 +19,6 @@
 ####[Calculate Fields in Domain Aggregate Functions](73c27d1c-0a3c-03e4-c17c-337133d7b316.md)
 ####[Functions (Alphabetical List)](c32092f7-cac1-5c29-956d-20e09506cb16.md)
 ####[Functions (Category List)](f6095ed0-465d-6447-321f-4bc1c7c543c5.md)
-###SQL Statements
-####[Build SQL Statements That Include Variables and Controls](1dfad766-035b-7f40-0591-c3c820d46b16.md)
-####[Use International Date Formats in SQL Statements](b3ca8423-b15a-3934-ed8e-4129f0bf9700.md)
 ###Error Codes
 ####[Error Trapping](41d8de92-55ed-8537-eb31-6d72ba69c165.md)
 ####[Elements of Run-Time Error Handling](a0e06a1e-2709-aa51-92d0-340788a31a8a.md)
@@ -35,7 +31,9 @@
 ####[Call Procedures in a Subform or Subreport](6a161fe9-c0aa-c62a-be2d-d4c44cfa3b43.md)
 ####[Program with Class Modules](6b10be38-bfe6-dea2-4aa5-4859722c1869.md)
 ###Structured Query Language (SQL)
-####[Build SQL Statements That Include Variables and Controls](e902199f-ed00-e885-3671-0705aa2b058a.md)
+####[Build SQL Statements](1dfad766-035b-7f40-0591-c3c820d46b16.md)
+####[Use International Date Formats in SQL Statements](b3ca8423-b15a-3934-ed8e-4129f0bf9700.md)
+####[Build SQL Statements that Include Variables and Controls](e902199f-ed00-e885-3671-0705aa2b058a.md)
 ####[Create and Delete Tables and Indexes Using Access SQL](44c9e6a7-ac29-7a88-e0c6-b7eaec1e95ea.md)
 ####[Define Relationships Between Tables Using Access SQL](24159c8a-c4ba-79a9-2490-007a82163f55.md)
 ####[Group Records in a Result Set Using Access SQL](217e1a5a-cfe2-0859-1e16-a3d27450008c.md)
@@ -112,10 +110,8 @@
 ####[Disable PAGE UP and PAGE DOWN Keys in a Form](998e1d00-f9d3-fcca-4535-390b0fd0d482.md)
 ####[Prompt a User Before Closing a Form](3a29f7c0-5692-49f0-bbfe-f9132d5b582f.md)
 ####[Suspend Code Execution Until a Pop-up Form is Closed](d4d419ac-bf43-3356-4c20-e9bb74f9f591.md)
-###Reports
-####Design
+####Reports
 ####[Create Alternating Row Colors on a Report](ea37a0cb-9057-e268-28a7-183751c8a1b8.md)
-####Controls
 ####[Set Form, Report, and Control Properties in Code](23d88ab3-9ee6-5f7f-2351-14bb94d7a27b.md)
 ###Printing
 ####[Programmatically Retrieve Printer Capabilities](8c929823-6b61-16ea-6d84-ff47cc1e8389.md)
@@ -126,13 +122,6 @@
 ####[Cancel an Event](f91f4f8a-99fa-dca7-576a-11c76d6ddc93.md)
 ####[Filter a Report Using a Form's Filter](2b029c13-5abd-4865-cd05-25d094a97b9f.md)
 ####[Change the Filter or Sort Order of a Form or Report](9888dbcd-7409-f334-115e-a318131ebca4.md)
-###Miscellaneous
-####[Detect User Idle Time or Inactivity](40e9c4ef-a81b-074b-0be0-8247b4ea525b.md)
-####[Detect Whether an Object Is Open](9378430d-752b-1ede-96af-235c7e79a06f.md)
-####[Display and Use the File Dialog Box](e4690a8b-f976-3be9-70b0-2d8c2377a19a.md)
-####[Use the Status Bar Progress Meter](1ced64d3-56e4-064e-3dd2-d6b5e4dbdd8a.md)
-####[Create a Shortcut Menu for a Form, Form Control, or Report](56fe8923-053f-e04d-78d6-c4dd814b6499.md)
-####[Use Existing Custom Menus and Toolbars](581167ca-7c9c-4402-a9b7-49393750079c.md)
 ###Date/Time
 ####[Calculate Age](4afca7f2-9864-6300-79c4-c4e251b0b66d.md)
 ####[Calculate and Display Specific Date Values](ba8c8404-fbe9-d7ef-57bb-17631ec8fb4c.md)
@@ -158,7 +147,13 @@
 ####[Compact and Repair a Database](5ad4e6b1-abfd-3f89-5c80-9e41397a96e8.md)
 ####[Recover Tables Deleted from a Database](4d370adb-741f-269d-8def-bccec1f335f1.md)
 ####[Handle Run-Time Errors in VBA](4920479c-f597-bcff-dfd5-9ba5c34ee774.md)
-###Access Developer Extensions
+###Miscellaneous
+####[Detect User Idle Time or Inactivity](40e9c4ef-a81b-074b-0be0-8247b4ea525b.md)
+####[Detect Whether an Object Is Open](9378430d-752b-1ede-96af-235c7e79a06f.md)
+####[Display and Use the File Dialog Box](e4690a8b-f976-3be9-70b0-2d8c2377a19a.md)
+####[Use the Status Bar Progress Meter](1ced64d3-56e4-064e-3dd2-d6b5e4dbdd8a.md)
+####[Create a Shortcut Menu for a Form, Form Control, or Report](56fe8923-053f-e04d-78d6-c4dd814b6499.md)
+####[Use Existing Custom Menus and Toolbars](581167ca-7c9c-4402-a9b7-49393750079c.md)
 ####[Create a Database Template Programmatically](fe4a1f39-a51b-b083-3673-095e5c6684e5.md)
 ####[Create a Deployment Package Programmatically](4eb23608-e976-49a8-3f0e-f3537b948bfd.md)
 ##[Object model](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
