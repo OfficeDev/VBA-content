@@ -217,7 +217,7 @@
 ####[Use a Custom Color for the Background or Foreground of a Control](25bd9ffc-ce15-5090-9b75-5b19c8ec8b5d.md)
 ####[Use a System Color for a Background or Foreground](77dd2d09-5aba-3f30-7360-b6eda7e3a375.md)
 ####[Manipulating Controls Programmatically](26090216-916d-43e0-98a4-72c710d76cd8.md)
-##How-to Topics
+###How-to Topics
 ####[Accept User Input and Display the Values of Controls on a Form](5966b34a-7334-a82a-afbc-55d466c06d53.md)
 ####[Access a Tab in a TabStrip Control](29aba68e-7123-2c41-795f-7bdba8d1b89f.md)
 ####[Access a Page in a MultiPage Control](dd67169f-2f3e-c93d-b5c5-512e8e83bb7a.md)
@@ -282,7 +282,7 @@
 ####[Specify the Number of Rows in a Combo Box](53486763-8dbf-dddf-7108-fe187f06b593.md)
 ####[Swap Columns of a Multicolumn List Box](5d6fb3f2-161e-eeb6-1d0c-dc4d4670214b.md)
 ####[Undo and Redo an Action in a Text Box or a Combo Box](5edb515c-d035-e8a3-8c0b-f2ddc74378fd.md)
-##Using Visual Basic to Customize Outlook Forms
+###Using Visual Basic to Customize Outlook Forms
 ####[Using Visual Basic with Outlook](ddcdada6-7dc1-1c7d-0165-27f8b353662e.md)
 ####[Run in Developer Mode in Outlook](8f81b1ce-333d-d9be-2af7-cfc65bf15e22.md)
 ####[Using Visual Basic Scripting Edition](86737508-e2bf-40c9-be0c-ebe64f3e9c64.md)
@@ -323,12 +323,12 @@
 ####[Reference the Active User](dc8e5e24-51a0-1b16-649e-6b24e0fa9b56.md)
 ####[Use Current User Properties from the Microsoft Exchange Server Global Address List](fa3e6e11-a63e-fcf5-14f0-f16dc3b755dd.md)
 ####[Use the PropertyChange Event to Test Procedures](9e0beb04-dc64-ad5d-ae77-8c11c11349b0.md)
-##Extending Forms and Form Regions Using Add-ins
+###Extending Forms and Form Regions Using Add-ins
 ####[Add or Remove an Add-in](a3d7425b-014d-fedd-e1a7-7eb3069ae002.md)
 ####[Extending a Form Region with an Add-in](b1a28a20-a0b8-cc57-7672-da51ec8bb097.md)
 ####[Use an Add-in to Specify Icons for a Form Region](7d542c9b-1881-780a-b58d-e34639399b60.md)
 ####[Create Separate Read and Compose Pages Using Form Regions in a Custom Form](6e773aff-c7ec-f836-b4c2-84d6121fc62e.md)
-##Items, Folders, and Stores
+###Items, Folders, and Stores
 ####[Enumerating, Searching, and Filtering Items in a Folder](d786d292-7a0e-0e1a-e132-affbfde37744.md)
 ####[Sorting Items in a Folder](bc3651da-cfdb-4301-4034-bb848f371e55.md)
 ####[Storing Outlook Items](e4a639a4-10b2-7665-9261-19d6e7707e48.md)
@@ -345,7 +345,7 @@
 ####[Obtain a Folder Object from a Folder Path](c576924a-6bf9-7bae-bcee-7bacd299e144.md)
 ####[Send an E-mail Given the SMTP Address of an Account](5e5f707d-8771-bd5f-945b-58537732d99a.md)
 ####[Specify an Internet Encoding Scheme for the Body and Attachments of a Message](e6207bf2-238d-2b7a-cd80-5783e49c05ec.md)
-##Navigation
+###Navigation
 ####[Customizing the Navigation Pane](426c3d1c-13b5-cac5-702d-87dfe71f2478.md)
 ####[Adding Solution-Specific Folders to the Solutions Module](2180c3e3-b83b-7977-1bf6-61ae7cc64905.md)
 ####[Show or Hide the Navigation Pane](ef4ad7b9-6475-7b28-ce79-fbefe29b193c.md)
@@ -398,7 +398,6 @@
 ####[Filtering Items Using Query Keywords](d7e6b169-c5fd-7acc-f077-658a153a921f.md)
 ####[Searching](886f16be-d46d-4ffd-81f9-73288e929daa.md)
 ####[Searching Items](f0c24b9d-160e-3218-6979-2071a3135bfc.md)
-####[How To](e19b61d9-18c7-48df-9902-efee93c2da77.md)
 ####[Access the Values of a Multi-valued Property in a Table](e914b32b-d290-705b-d4fc-fecfba85fd8b.md)
 ####[Use the Table Object to Performantly Enumerate Filtered Items in a Folder](df82b04e-dffd-d621-10dd-34ee03df2051.md)
 ####[Filter the Body of a Mail Item](15d8fec5-4b3d-340b-2394-479abf29847c.md)
