@@ -1,6 +1,6 @@
 #[Access VBA reference](0e9c6fa4-3289-4a13-b409-354c70129308.md)
 ##Concepts
-###Settinging
+###Settings
 ####[Set References to Type Libraries](6314a89b-89e9-d8c1-5964-889a361afcd1.md)
 ####[Set a Reference to a Visual Basic Project in Another Microsoft Access Database or Project](a919be67-84ee-e9de-1cfd-17a456f4d929.md)
 ####[Set Options from Visual Basic](c85ab081-6522-f851-a0d7-3d6612af26ab.md)
