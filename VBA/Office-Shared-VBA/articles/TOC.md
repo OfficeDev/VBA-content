@@ -1,5 +1,6 @@
 #[Office VBA Object library reference](articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
 ####[Getting Started with VBA in Office](articles/7208a87a-a567-41d9-af5b-0df3884c58d9.md)
+####[What's New for VBA in Office 2016](c0294abb-bc0e-495d-b387-4398378dd3ad.md)
 ##Concepts
 ####[Getting Help on Macintosh Keywords](articles/5aaffe18-8b58-46bc-6c68-7b4862aa8fba.md)
 ####[OLE Programmatic Identifiers](articles/e27f70fd-9e04-a8d0-d4e8-d57076ecf9b3.md)
