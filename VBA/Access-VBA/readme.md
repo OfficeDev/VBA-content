@@ -1,8 +1,6 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
-
-#[Access VBA reference](0e9c6fa4-3289-4a13-b409-354c70129308.md)
+#[Access VBA reference](articles/0e9c6fa4-3289-4a13-b409-354c70129308.md)
 ##Concepts
 ###Settings
 ####[Set References to Type Libraries](6314a89b-89e9-d8c1-5964-889a361afcd1.md)
