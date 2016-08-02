@@ -1,9 +1,9 @@
 #[Excel VBA reference](5caf65ef-b7f5-4cbe-ab2e-459f027f53a4.md)
 ##Concepts
-####[About the PowerPivot Model Object in Excel](baa95a62-53d2-4c5f-bff7-bcc7323d6a20.md)
-####[Language-specific Properties, Methods, and Functions](abf2101c-93ee-352b-6a67-478b9eb09003.md)
-####[OLE DB for OLAP Properties Used by Excel](5caa2240-1f7b-08d7-c87b-ec30f3bcb441.md)
-####[Programming for the Single Document Interface in Excel](596f5bd6-6a03-4d33-8002-f2c083f7bc79.md)
+###[About the PowerPivot Model Object in Excel](baa95a62-53d2-4c5f-bff7-bcc7323d6a20.md)
+###[Language-specific Properties, Methods, and Functions](abf2101c-93ee-352b-6a67-478b9eb09003.md)
+###[OLE DB for OLAP Properties Used by Excel](5caa2240-1f7b-08d7-c87b-ec30f3bcb441.md)
+###[Programming for the Single Document Interface in Excel](596f5bd6-6a03-4d33-8002-f2c083f7bc79.md)
 ###Functions
 ####[Using the Solver VBA Functions](37d0aa49-2e5c-5efe-1c69-b5168af1f231.md)
 ####[SolverAdd Function](c20e0a78-113e-254f-428f-0dc1bdc817c2.md)
