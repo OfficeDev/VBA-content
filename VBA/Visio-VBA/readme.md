@@ -1,8 +1,7 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
 
-#[Visio VBA reference](b6834d21-5898-4dd9-af2b-9ffeb1b92a1c.md)
+#[Visio VBA reference](articles/b6834d21-5898-4dd9-af2b-9ffeb1b92a1c.md)
 ##Concepts
 ####[About Automation](d34dd6a0-7f11-d8ce-65d2-2a9654cdb06d.md)
 ####[About Connecting to Data in Visio](2057123f-faeb-f705-5fe7-75d3b76fa1a5.md)

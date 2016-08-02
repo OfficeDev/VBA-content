@@ -1,8 +1,6 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
-
-#[Office VBA Object library reference](727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
+#[Office VBA Object library reference](articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
 ####[Getting Started with VBA in Office](7208a87a-a567-41d9-af5b-0df3884c58d9.md)
 ####[What's New for VBA in Office 2016](c0294abb-bc0e-495d-b387-4398378dd3ad.md)
 ##Concepts

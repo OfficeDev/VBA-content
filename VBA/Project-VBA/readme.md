@@ -1,8 +1,7 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
 
-#[Project VBA reference](547d1948-312f-456a-9f7b-8097ec46a436.md)
+#[Project VBA reference](articles/547d1948-312f-456a-9f7b-8097ec46a436.md)
 ##Concepts
 ####[Using events with Application and Project objects](64a18885-f203-c298-db11-f9e8e75bb7b6.md)
 ####[OLE programmatic identifiers, late binding, and early binding](c72f3f22-3628-1379-8c6b-79c7984c728d.md)

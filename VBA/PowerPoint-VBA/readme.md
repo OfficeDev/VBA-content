@@ -1,9 +1,7 @@
 
 <!--This is the start of the TOC-->
 
-# Table of contents
-
-#[PowerPoint VBA reference](db64b49a-e02f-4c53-a488-81c017dcea57.md)
+#[PowerPoint VBA reference](articles/db64b49a-e02f-4c53-a488-81c017dcea57.md)
 ##Concepts
 ####[Control and Dialog Box Events](8fc4cece-05e3-3b03-9d6b-5a7bf4fa8a26.md)
 ####[Language-Specific Properties and Methods](5eccac7d-20ae-f74a-e96d-d955765fe452.md)

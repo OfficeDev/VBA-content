@@ -1,6 +1,4 @@
-# Table of Contents
-
-# [Office VBA language reference](9c1e8386-0309-c52c-856b-963220382eb8.md)
+# [Office VBA language reference](articles/9c1e8386-0309-c52c-856b-963220382eb8.md)
 ##Concepts
 ####[Document conventions (VBA)](1eece8df-7e11-f66d-a2b7-18985c288e81.md)
 ###Forms

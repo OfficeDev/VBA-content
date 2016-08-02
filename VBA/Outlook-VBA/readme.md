@@ -1,8 +1,6 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
-
-#[Outlook VBA reference](75e4ad96-62a2-49d2-bc51-48ceab50634c.md)
+#[Outlook VBA reference](articles/75e4ad96-62a2-49d2-bc51-48ceab50634c.md)
 ##Concepts
 ####[Using Visual Basic to Automate Outlook](f1914894-d828-46bc-9f94-097a55f69c3d.md)
 ####[Automating Outlook from a Visual Basic Application](623f91af-cd50-1ff0-9519-5a39cbcf5d18.md)

@@ -1,8 +1,7 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
 
-#[Publisher VBA reference](f6205a28-3858-4c73-b291-65e56a2fc015.md)
+#[Publisher VBA reference](articles/f6205a28-3858-4c73-b291-65e56a2fc015.md)
 ##Concepts
 ####[Returning an Object from a Collection](08b8c469-f4f1-8717-a767-ab57c792606b.md)
 ####[Using Events with the Application Object](29b60d3c-3049-2ba9-8688-e46c4323e9ba.md)

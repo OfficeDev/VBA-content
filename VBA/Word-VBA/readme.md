@@ -1,8 +1,7 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
 
-#[Word VBA reference](3080c270-5198-4b4f-922d-cb13e4b71bb3.md)
+#[Word VBA reference](articles/3080c270-5198-4b4f-922d-cb13e4b71bb3.md)
 ##Concepts
 ####[Adding Controls to a Document](9cf47c7e-c768-0ea9-bbb9-f5a4770eea79.md)
 ####[Adding Controls to a UserForm](c752df00-d70c-ca1e-9a56-17f9bf952f48.md)

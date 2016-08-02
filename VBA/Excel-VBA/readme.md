@@ -1,8 +1,6 @@
 
 <!--This is the start of the TOC-->
-# Table of contents
-
-#[Excel VBA reference](5caf65ef-b7f5-4cbe-ab2e-459f027f53a4.md)
+#[Excel VBA reference](articles/5caf65ef-b7f5-4cbe-ab2e-459f027f53a4.md)
 ##Concepts
 ####[About the PowerPivot Model Object in Excel](baa95a62-53d2-4c5f-bff7-bcc7323d6a20.md)
 ####[Language-specific Properties, Methods, and Functions](abf2101c-93ee-352b-6a67-478b9eb09003.md)
