@@ -5689,7 +5689,7 @@
 ####[XlXmlImportResult Enumeration](9a43512f-c2f3-f92b-f486-14e5c8bd114a.md)
 ####[XlXmlLoadOption Enumeration](1ab2eb99-e022-b394-059c-e72f85fec05a.md)
 ####[XlYesNoGuess Enumeration](c4c8e9b1-ad12-5c63-da32-60d410915452.md)
-##[Microsoft Graph Visual Basic reference](86a03877-8263-6280-a54d-68219b03c20b.md)
+##[Graph Visual Basic reference](86a03877-8263-6280-a54d-68219b03c20b.md)
 ###[Collections](41ffa11c-a12e-7ee6-cb3a-6af1fdb67d12.md)
 ####[Axes Collection](89ebeb9d-3c16-0bb0-35a8-9a07483c4eb6.md)
 ####[ChartGroups Collection](203bc32b-61e7-9bbc-bcc3-c7d8afc8b2ae.md)
