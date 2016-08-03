@@ -1,7 +1,7 @@
 #[Project VBA reference](547d1948-312f-456a-9f7b-8097ec46a436.md)
 ##Concepts
-####[Using events with Application and Project objects](64a18885-f203-c298-db11-f9e8e75bb7b6.md)
-####[OLE programmatic identifiers, late binding, and early binding](c72f3f22-3628-1379-8c6b-79c7984c728d.md)
+###[Using events with Application and Project objects](64a18885-f203-c298-db11-f9e8e75bb7b6.md)
+###[OLE programmatic identifiers, late binding, and early binding](c72f3f22-3628-1379-8c6b-79c7984c728d.md)
 ###Object Model Maps
 ####[Project object model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
 ####[Application and Projects object map](608f1291-ce25-8a5f-f0ba-7c1e823a12f4.md)
