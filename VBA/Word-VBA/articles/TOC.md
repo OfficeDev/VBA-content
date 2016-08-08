@@ -1,5 +1,6 @@
 #[Word VBA reference](3080c270-5198-4b4f-922d-cb13e4b71bb3.md)
 ##Concepts
+###Customizing Word
 ####[Adding Controls to a Document](9cf47c7e-c768-0ea9-bbb9-f5a4770eea79.md)
 ####[Adding Controls to a UserForm](c752df00-d70c-ca1e-9a56-17f9bf952f48.md)
 ####[Applying Formatting to Text](c20713bb-0e67-01d4-c9d4-91415658c0d7.md)
