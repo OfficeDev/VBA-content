@@ -18,7 +18,3 @@ Returns a  **[FormatColor](b7818b27-8790-ef52-c24e-8edbdcf979f2.md)** object tha
 
 
 [Databar Object](2684e913-c278-e6be-ba9d-053b6ad58bae.md)
-#### Other resources
-
-
-[Databar Object Members](137f7e88-bb61-48a3-d2cb-76a8282cd62e.md)

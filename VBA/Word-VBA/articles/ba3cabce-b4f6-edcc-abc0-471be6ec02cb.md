@@ -23,7 +23,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 
 [Replacement Object](5d9615e4-f6ef-af5f-6e45-c382a88395c9.md)
-#### Other resources
-
-
-[Replacement Object Members](013ead94-f79c-fc4f-164b-49b2a88b3e88.md)

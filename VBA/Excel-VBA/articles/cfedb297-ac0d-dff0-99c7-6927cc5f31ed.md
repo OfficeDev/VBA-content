@@ -60,5 +60,5 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 #### Other resources
 
 
-[Name Object Members](7c35e8e8-4f81-7cec-da3e-faf738903726.md)
+
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

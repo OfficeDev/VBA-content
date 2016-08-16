@@ -26,7 +26,3 @@ End Sub
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[CustomXMLPart Object Members](76fe85f4-5a35-7d12-2989-6f17a094dcdf.md)

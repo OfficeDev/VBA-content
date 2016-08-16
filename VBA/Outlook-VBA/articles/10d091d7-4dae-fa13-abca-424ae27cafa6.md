@@ -25,7 +25,3 @@ The default value is an empty string.
 
 
 [OlkOptionButton Object](a7aab427-a2f0-a153-f558-c13559610c99.md)
-#### Other resources
-
-
-[OlkOptionButton Object Members](e5d545e6-496f-6a11-af73-faa3eb20647c.md)

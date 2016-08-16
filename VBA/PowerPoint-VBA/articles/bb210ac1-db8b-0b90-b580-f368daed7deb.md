@@ -18,7 +18,3 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 
 [LegendEntries Object](ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd.md)
-#### Other resources
-
-
-[LegendEntries Object Members](5ed7e825-b524-ed13-76d9-4394bf2b09e1.md)

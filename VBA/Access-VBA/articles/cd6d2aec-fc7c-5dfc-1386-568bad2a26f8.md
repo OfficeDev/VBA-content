@@ -30,7 +30,3 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 
 [OptionGroup Object](aa9e5607-7892-9ab2-dabc-822372b23811.md)
-#### Other resources
-
-
-[OptionGroup Object Members](90e68eb2-20f2-510c-4332-241eeac27f14.md)

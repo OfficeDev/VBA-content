@@ -42,7 +42,3 @@ ActiveCell.SparklineGroups.Item(1).ModifyLocation Range("$A$10:$A$14")
 
 
 [SparklineGroup Object](cc694d97-a3d3-3473-2e37-0ede67b97680.md)
-#### Other resources
-
-
-[SparklineGroup Object Members](dad308ee-d69b-748d-d0c8-ad63c643808f.md)

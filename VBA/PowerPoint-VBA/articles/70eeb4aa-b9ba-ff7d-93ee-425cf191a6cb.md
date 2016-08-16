@@ -27,7 +27,3 @@ End Sub
 
 
 [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
-#### Other resources
-
-
-[AnimationBehavior Object Members](bf4580a3-3ad4-6158-8c72-2dcf9ded4202.md)

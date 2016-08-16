@@ -50,9 +50,3 @@ End Sub
 [AnimationPoints Object](6ea9ebc4-791c-9781-38c3-8b0973e0d152.md)
 [LegendKey Object](98e8b9c3-b53e-9595-9389-6f92a6d730f4.md)
 [Series Object](5c8c2d92-d8ca-4d21-e213-c374292275d4.md)
-#### Other resources
-
-
-[LegendKey Object Members](f7790c4f-2d36-698c-349b-2dcd676a38c6.md)
-[AnimationPoints Object Members](a3b9f455-8f98-2b09-026e-18f7e5f4ae2d.md)
-[Series Object Members](f7e7168d-3c6f-20db-1e75-56a101c69a70.md)

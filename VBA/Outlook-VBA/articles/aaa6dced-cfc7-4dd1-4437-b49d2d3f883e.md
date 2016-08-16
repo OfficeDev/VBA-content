@@ -33,7 +33,3 @@ If you use the  **[Close](6e56d716-ec8b-4a4c-1b1a-061f659f5c08.md)** method to f
 
 
 [DistListItem Object](027c3986-abff-d9b1-ecc2-26d60805e952.md)
-#### Other resources
-
-
-[DistListItem Object Members](3ba4af84-ce84-61d9-1bc9-fab41bf6f125.md)

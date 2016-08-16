@@ -45,7 +45,3 @@ Next
 
 
 [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
-#### Other resources
-
-
-[Tags Object Members](84cbae4b-cc7a-7d0f-7eb7-f4c3f5d63991.md)

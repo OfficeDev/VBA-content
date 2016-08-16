@@ -30,7 +30,3 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 
 [Attachment Object](b0756145-9012-f9b9-7df9-e168defed3bf.md)
-#### Other resources
-
-
-[Attachment Object Members](4294b913-7691-5f45-2c20-5137c2320620.md)

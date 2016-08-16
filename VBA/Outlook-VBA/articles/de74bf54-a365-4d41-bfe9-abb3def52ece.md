@@ -23,7 +23,3 @@ A  **[MailItem](14197346-05d2-0250-fa4c-4a6b07daf25f.md)** object that represent
 
 
 [JournalItem Object](6e850295-39f9-47b8-e866-9622e9958c69.md)
-#### Other resources
-
-
-[JournalItem Object Members](13a0cd10-44bc-a167-c613-93985f698d95.md)

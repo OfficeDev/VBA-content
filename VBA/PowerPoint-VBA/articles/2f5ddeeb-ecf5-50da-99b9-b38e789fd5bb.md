@@ -41,7 +41,3 @@ Next
 
 
 [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
-#### Other resources
-
-
-[NamedSlideShow Object Members](a8ef0d6d-efe3-f63a-0e6f-68789aa58ebc.md)

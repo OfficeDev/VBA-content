@@ -40,7 +40,3 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 
 
 [ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
-#### Other resources
-
-
-[ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)

@@ -34,4 +34,4 @@ Selection.PageSetup.LineNumbering.Active = True
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[LineNumbering Object Members](f1301749-6e7d-f547-abe8-073661966fc2.md)
+

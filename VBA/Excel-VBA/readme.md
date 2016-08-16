@@ -109,8 +109,8 @@
       - [Find All the Sparklines on a Sheet](articles/39739eaf-638d-41b1-80f2-c4513fc42317.md)
   - [Object model](articles/11ea8598-8a20-92d5-f98b-0da04263bf2c.md)
     - [AboveAverage Object](articles/dd4ea82f-7986-5d6f-2b0e-fe0ca38226e2.md)
-      - [AboveAverage Members](articles/85828a41-ce2a-4979-8918-3adaed2f5661.md)
-      - [Properties](articles/2f021402-426d-49c8-9d64-b442ca969e2e.md)
+      
+      
         - [AboveBelow Property](articles/9436063c-b82a-aa0b-0379-5eaee6f68041.md)
         - [Application Property](articles/25183b3d-a733-6ecd-694c-b14f76238e2f.md)
         - [AppliesTo Property](articles/880127cd-bd8c-2b0f-594a-8fd2cffee6c6.md)
@@ -127,14 +127,14 @@
         - [ScopeType Property](articles/e2cc03b3-82ef-215a-3075-61730de281f6.md)
         - [StopIfTrue Property](articles/af5acf21-8bba-19ca-f3ae-eaf3b28f2201.md)
         - [Type Property](articles/7ab071e6-abf8-c56b-d153-4ca217af2dc0.md)
-      - [Methods](articles/a2f192fb-9fc8-4640-ac41-2b2aa665ed50.md)
+      
         - [Delete Method](articles/822c4311-1d77-2d38-d756-a47e436d6992.md)
         - [ModifyAppliesToRange Method](articles/b0bb1278-2a31-321b-1458-d62c30073610.md)
         - [SetFirstPriority Method](articles/4f9b02ff-232b-3dcb-239b-6ba7897366d0.md)
         - [SetLastPriority Method](articles/e28605d2-338b-4efb-e7f0-f250bca85050.md)
     - [Action Object](articles/8a54e4ed-8392-e198-66df-987f94841968.md)
-      - [Action Members](articles/facec89c-9df7-e199-574b-78c86d91dd6e.md)
-      - [Properties](articles/e652a457-9a2d-489a-9de7-8f786a426b5c.md)
+      
+      
         - [Application Property](articles/24da5249-0d00-77a8-c2f0-ab1b5424f30f.md)
         - [Caption Property](articles/f59938e8-17ad-2376-cf2d-f5592a3c6244.md)
         - [Content Property](articles/2fc4be49-49eb-0ea4-c262-93d62dbc33c9.md)
@@ -143,19 +143,19 @@
         - [Name Property](articles/7ea3758d-1fd2-5b90-6fe8-66291fdb58d2.md)
         - [Parent Property](articles/9c8079bc-382b-639a-0634-d964f4b778ef.md)
         - [Type Property](articles/908d0a5e-67f3-e953-0652-bf04b4b31d05.md)
-      - [Methods](articles/7346138c-8839-418c-975e-dc82bc20ae7f.md)
+      
         - [Execute Method](articles/84b8e3cb-9faf-311d-d183-45a56e555f88.md)
     - [Actions Object](articles/c4175be1-826d-e5f8-6e3b-b98a1bd755ef.md)
-      - [Actions Members](articles/def17cfc-1365-d99c-0c92-d8be51fb25a8.md)
-      - [Properties](articles/28919dcf-a12b-44f5-b565-9ef0d0ecb885.md)
+      
+      
         - [Application Property](articles/c588cb7b-5e0d-e24c-bfc3-357d1966ed21.md)
         - [Count Property](articles/56c57de8-104b-5e44-3e4c-a5d1c8b6e10a.md)
         - [Creator Property](articles/453bcc61-d054-47b8-3447-f2896c343699.md)
         - [Item Property](articles/dc909b69-abdf-d84f-2462-738c309cb3d3.md)
         - [Parent Property](articles/33d471eb-81f7-465d-12df-548d04554d96.md)
     - [AddIn Object](articles/ad26800d-5342-fb4c-01f3-05b7eceb7ffd.md)
-      - [AddIn Members](articles/b12f1193-e251-5f71-508f-3d348109f5a6.md)
-      - [Properties](articles/22c977de-79cf-4e86-b108-e1dbb5de90be.md)
+      
+      
         - [Application Property](articles/d19b6c58-95b4-98be-a436-15299c0624f9.md)
         - [CLSID Property](articles/3a8e7eeb-29f8-b05e-e0f8-9ee69a88356c.md)
         - [Creator Property](articles/d3c90243-1963-15d5-9ee1-1cd780ee20a0.md)
@@ -167,53 +167,53 @@
         - [Path Property](articles/28516688-d6ed-2fbc-51ee-6dd6434e461d.md)
         - [progID Property](articles/a1c1da74-119a-514e-cb5e-77981299b84d.md)
     - [AddIns Object](articles/2e9d9a1f-8833-beb3-757c-a5b26568f5fb.md)
-      - [AddIns Members](articles/dce6ebab-999b-4994-8797-007d5eeea092.md)
-      - [Properties](articles/85da26b3-94cf-43ac-b34c-2dd7e74e2793.md)
+      
+      
         - [Application Property](articles/2feb430b-a65d-6298-b3b6-bb4eb3c2b373.md)
         - [Count Property](articles/ed72ad41-e673-05dd-780c-5a3612af0ba2.md)
         - [Creator Property](articles/8fc7772e-1837-5336-9ae7-eca7f0dc14af.md)
         - [Item Property](articles/417987d5-322c-2784-c51e-18a1fa7578d1.md)
         - [Parent Property](articles/642d2659-a972-0c2f-b3a6-aedc74ceafe5.md)
-      - [Methods](articles/28c13f83-5dc3-407e-bc61-71bc702b58ed.md)
+      
         - [Add Method](articles/7e4f100d-6ea1-94e4-83d3-fda63a7815e1.md)
     - [AddIns2 Object](articles/ca4bff78-8ddb-6bc3-b95a-a06a9f75dd88.md)
-      - [AddIns2 Members](articles/6f9dfc17-648d-a004-2321-d3ed86cd438f.md)
-      - [Properties](articles/11c19993-81a5-41a1-9c6d-e776ea54cf44.md)
+      
+      
         - [Application Property](articles/f540ea29-e0e7-fa7b-5aa9-f0423ad044f8.md)
         - [Count Property](articles/740d9eb8-be52-ee9f-a3d1-c552bc92ecdb.md)
         - [Creator Property](articles/bd20266f-a3d8-58da-505b-48f905896fb6.md)
         - [Item Property](articles/6a0ee1ca-75ba-14ed-1bbb-606480aeafbe.md)
         - [Parent Property](articles/50c49516-8bb9-b010-4dfb-29c5425dff29.md)
-      - [Methods](articles/dcaa65d9-8a4e-44b3-96aa-de10327b3469.md)
+      
         - [Add Method](articles/c313e123-9917-f002-bded-cff50085002b.md)
     - [Adjustments Object](articles/c69c4bbf-5687-f453-e238-28d4b98d4808.md)
-      - [Adjustments Members](articles/6db65f4c-1b6a-9079-c619-1e2deaa91b93.md)
-      - [Properties](articles/8bb033dc-ccbd-48f0-b20e-e9de5ac4ead7.md)
+      
+      
         - [Application Property](articles/2875f3fa-d584-2ba5-c445-ac4dbad25af2.md)
         - [Count Property](articles/e8761617-484a-128a-3bab-487e0c5fd6b3.md)
         - [Creator Property](articles/5038c1f3-8110-197b-c0f0-31c2e71bf003.md)
         - [Item Property](articles/b3f3a20c-3ef0-48be-411a-dfb08758684d.md)
         - [Parent Property](articles/b2e7cb71-ea54-2bd8-787d-3523d4d72c41.md)
     - [AllowEditRange Object](articles/2bfd80d1-3a59-162e-194a-8699ca6b0d4b.md)
-      - [AllowEditRange Members](articles/4b7e9143-6bdf-b7ba-ba33-5116343bb1e4.md)
-      - [Properties](articles/a9602dd7-ecc2-4126-b1c8-e9359563d530.md)
+      
+      
         - [Range Property](articles/04f68783-5bff-a522-c0d5-52b2afe2f529.md)
         - [Title Property](articles/6b94f20d-285d-f043-bd44-b5296575352f.md)
         - [Users Property](articles/71f3c7ed-2fba-d97b-e443-674836e6bddb.md)
-      - [Methods](articles/d8d27ddc-8834-43c6-87b1-9e898e2e3865.md)
+      
         - [ChangePassword Method](articles/1cc52121-f626-eaaa-9ea0-879634e34af7.md)
         - [Delete Method](articles/3b2dad3a-62fa-398f-b0ff-b9586b413ebd.md)
         - [Unprotect Method](articles/3c7679c6-828d-e1c4-7009-f42bad1a66d6.md)
     - [AllowEditRanges Object](articles/c08bf170-f982-ecca-c026-df4b907e1dde.md)
-      - [AllowEditRanges Members](articles/676af5af-a9bd-339c-18e2-c3e442f67236.md)
-      - [Properties](articles/9545e38c-60cc-4cb5-93b0-db47b2a04e62.md)
+      
+      
         - [Count Property](articles/cf834d9b-7b03-087e-c19f-ba5892505eba.md)
         - [Item Property](articles/c6ac67af-258d-c2bf-3169-f42a5b037f2e.md)
-      - [Methods](articles/8233013f-c038-4110-a225-f652fb5e3051.md)
+      
         - [Add Method](articles/f88d900d-4974-4d8d-6279-0be6376fc232.md)
     - [Application Object](articles/19b73597-5cf9-4f56-8227-b5211f657f6f.md)
-      - [Application Members](articles/4cb9ca42-8d07-cc9c-2d80-4eb9a5921e1e.md)
-      - [Properties](articles/1826b882-f1c2-429d-a708-af334b8a6a8a.md)
+      
+      
         - [ActiveCell Property](articles/7ebfbec8-dc4e-36c5-188a-347d42649e76.md)
         - [ActiveChart Property](articles/37b1901c-a9c2-4a86-ce05-22f3989bc9d8.md)
         - [ActiveEncryptionSession Property](articles/a13b5785-5b27-6276-1df5-f213a419446d.md)
@@ -423,7 +423,7 @@
         - [Workbooks Property](articles/5291a324-87d7-3916-ffee-34c3389cea13.md)
         - [WorksheetFunction Property](articles/fd1333bf-8739-303d-30b4-85a99fb344b3.md)
         - [Worksheets Property](articles/ee9350d3-f24e-ed40-b267-8101d3267b4d.md)
-      - [Methods](articles/b82ec21c-30e6-4d37-8cf8-a69b27ab9771.md)
+      
         - [ActivateMicrosoftApp Method](articles/e11d8165-5aad-2b1d-f9d1-797038d96afb.md)
         - [AddCustomList Method](articles/31518c3c-78ce-f9e9-9572-a1338aa6d2e7.md)
         - [Calculate Method](articles/2818a08b-1c02-9f10-db03-db509a251f60.md)
@@ -475,7 +475,7 @@
         - [Union Method](articles/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e.md)
         - [Volatile Method](articles/27047561-9d76-b37d-100d-1c58e6edf494.md)
         - [Wait Method](articles/71425d1c-6b37-a510-d8b5-072136e98f04.md)
-      - [Events](articles/726704da-6d45-4728-bd47-4ec9910626b2.md)
+      
         - [AfterCalculate Event](articles/ed76a36f-1b52-4464-da44-e64c81fb8d38.md)
         - [NewWorkbook Event](articles/a3c29269-af09-08da-f0c3-82e192aa896f.md)
         - [ProtectedViewWindowActivate Event](articles/271e0344-9dd1-bf08-f7bd-9892ca6ad450.md)
@@ -524,16 +524,16 @@
         - [WorkbookRowsetComplete Event](articles/cc472400-5622-5b4f-60a2-d3347ded266f.md)
         - [WorkbookSync Event](articles/ca23985c-e5ea-d2cb-bce3-2b52c5dff3a1.md)
     - [Areas Object](articles/43d05ef3-7ae2-2881-dec2-6fec8281f045.md)
-      - [Areas Members](articles/5df53e64-1fe5-66cb-0777-438a80f399cc.md)
-      - [Properties](articles/fe16b9de-8806-43f0-ba21-70cb3839e160.md)
+      
+      
         - [Application Property](articles/317f3083-6f65-e085-c370-1ae6c3b31b78.md)
         - [Count Property](articles/c3c91bed-d3dd-7ffd-94be-f61cc3b973b7.md)
         - [Creator Property](articles/0a612f3d-437c-95f2-ea15-042017ba941b.md)
         - [Item Property](articles/92b544c5-9122-f4d6-f22a-f5b21c7d6596.md)
         - [Parent Property](articles/7af01c6d-a8d7-faa3-df95-ac4052b2e4f2.md)
     - [AutoCorrect Object](articles/2594722a-2ff9-7175-4d35-0da0ad413b0d.md)
-      - [AutoCorrect Members](articles/ee525804-da41-f613-3e2a-6f6b115dcdd6.md)
-      - [Properties](articles/4f88f8ea-86a4-4a33-8299-17fbff405c92.md)
+      
+      
         - [Application Property](articles/e2a02f67-65f8-1515-6103-fb83eeddc404.md)
         - [AutoExpandListRange Property](articles/c91d1e8f-aea2-5db0-a79c-b43eff1e31e4.md)
         - [AutoFillFormulasInLists Property](articles/efef5f17-d50c-c21b-3c88-07f3092d2f25.md)
@@ -546,12 +546,12 @@
         - [ReplacementList Property](articles/10bc895b-cd97-26a7-8b9e-4ac9347ebfc1.md)
         - [ReplaceText Property](articles/ff3321e3-335f-01a4-bbf2-2de8136d1d2d.md)
         - [TwoInitialCapitals Property](articles/bc24bbfc-fe6d-ca18-c246-49c4c59e9181.md)
-      - [Methods](articles/fadb9014-57b4-4c4e-8c87-4bd062edd05b.md)
+      
         - [AddReplacement Method](articles/33b83ca0-77b5-00ed-1344-fc5e9a816f74.md)
         - [DeleteReplacement Method](articles/765e207d-64b3-c85d-ae10-937eaf836e0a.md)
     - [AutoFilter Object](articles/1a6fcf3b-52be-b599-029b-a3c53d12f85e.md)
-      - [AutoFilter Members](articles/7a659664-47a0-8b1b-524e-f808cda97d84.md)
-      - [Properties](articles/77022f9b-c9f8-4e06-9bad-72e0759b9493.md)
+      
+      
         - [Application Property](articles/2eb42f8c-6b69-9379-48f1-11f4f4e02b24.md)
         - [Creator Property](articles/15231f8b-f5ce-8560-f157-15676d038f89.md)
         - [FilterMode Property](articles/0ddb62ff-9474-7226-5ad6-a07a4970aff0.md)
@@ -559,12 +559,12 @@
         - [Parent Property](articles/d656aaeb-f72b-9d38-4f3e-2e6363444181.md)
         - [Range Property](articles/f8d1aca1-0d69-161a-981a-4dd10826e9d6.md)
         - [Sort Property](articles/1aa1a8b3-cd7a-899d-897e-fa47f4bdec67.md)
-      - [Methods](articles/d95ebce8-3db3-413b-b37f-dbb3cdcf37a6.md)
+      
         - [ApplyFilter Method](articles/5707966d-79c3-0538-9df2-1feecf1e793d.md)
         - [ShowAllData Method](articles/eaa22047-f394-4e93-d31c-544ca8373b95.md)
     - [AutoRecover Object](articles/02fb24e7-4823-7e52-79d7-3d2726f31227.md)
-      - [AutoRecover Members](articles/a850ea2f-9e56-4776-f29c-23a5421c4649.md)
-      - [Properties](articles/9942f943-1cda-43eb-ad41-457d8911732a.md)
+      
+      
         - [Application Property](articles/a316bc83-7cab-0241-2c79-a8ffb533b789.md)
         - [Creator Property](articles/4c0849f0-e27d-de8f-0916-12ef450b10c9.md)
         - [Enabled Property](articles/8c2c153e-27fa-0f6e-2b90-369bcfcb22ad.md)
@@ -572,17 +572,17 @@
         - [Path Property](articles/1b95e149-d758-89f9-3879-760ffda01bf8.md)
         - [Time Property](articles/096783b6-77ae-75eb-08cc-fa3978aa6121.md)
     - [Axes Object](articles/581e51e5-3dbb-7f0c-a87d-2d44f67dad0b.md)
-      - [Axes Members](articles/10a6fffe-65ff-e9b2-813c-357664e276a5.md)
-      - [Properties](articles/0f8b5a2f-708a-43d3-bc23-39d9fc394e3e.md)
+      
+      
         - [Application Property](articles/69b31571-68ad-dfb8-ea28-529cfa150132.md)
         - [Count Property](articles/67b36793-d9a2-9b92-edd1-b7c9f4348f8d.md)
         - [Creator Property](articles/7e183096-b65a-6014-ced7-1d296eaf6731.md)
         - [Parent Property](articles/d5cd5daf-7579-4df3-8dad-b3daf3e5b5ae.md)
-      - [Methods](articles/5f2c01aa-9914-4bd9-a857-5fffcda289de.md)
+      
         - [Item Method](articles/5e89a576-d2a0-d069-4db6-fc1cf9bd6c61.md)
     - [Axis Object](articles/7e08c61b-90f4-8d91-0ee2-84283d10b324.md)
-      - [Axis Members](articles/2b60f79e-339d-a6cf-7ec6-a915b550c634.md)
-      - [Properties](articles/c662fe98-1062-43fc-9304-fce01c71ffcf.md)
+      
+      
         - [Application Property](articles/db40b565-5481-2507-8aab-0c36987b5557.md)
         - [AxisBetweenCategories Property](articles/03a2d87b-1fbd-470d-01d2-e4156dae55e2.md)
         - [AxisGroup Property](articles/daf04d13-4bb3-1282-55ee-dacf3ab76020.md)
@@ -631,12 +631,12 @@
         - [Top Property](articles/b350dd47-7eac-d8ca-f7c8-3d49d942a008.md)
         - [Type Property](articles/897e92e2-5d35-f355-1eeb-f946a85ed77e.md)
         - [Width Property](articles/e29e90aa-6a40-8776-4417-601e592f3a0d.md)
-      - [Methods](articles/78ae1e96-96d5-4c0a-971c-5cba2a17d216.md)
+      
         - [Delete Method](articles/3a000eb1-dfbf-00df-d7b9-3b92728e96fa.md)
         - [Select Method](articles/e21e5987-c1ce-79a0-db17-46f9beec07aa.md)
     - [AxisTitle Object](articles/563d3ba5-aa77-b6fc-236a-7838d75eaa53.md)
-      - [AxisTitle Members](articles/84970b5a-91a1-b785-5632-97a0de4410f2.md)
-      - [Properties](articles/9673bca1-a753-4a4f-86ea-723c0b6d645e.md)
+      
+      
         - [Application Property](articles/55ed4030-8cb3-554b-2514-2560c3b74e1f.md)
         - [Caption Property](articles/76220635-772b-4e4a-f31d-e9eb020f38cc.md)
         - [Characters Property](articles/7289fa0d-5e84-6603-5536-5df986b26848.md)
@@ -660,12 +660,12 @@
         - [Top Property](articles/4981d1e5-d9ac-66fe-d61d-0d4a681aed7f.md)
         - [VerticalAlignment Property](articles/94029fff-1b1b-bfc0-9645-ab36519aefb0.md)
         - [Width Property](articles/7e0f651b-7f40-5509-1e1c-af8dee561957.md)
-      - [Methods](articles/cbfb6a76-d737-4ff0-a5d9-c9eb49855a80.md)
+      
         - [Delete Method](articles/5d5aa06a-3626-a92b-b0d9-158522ab1643.md)
         - [Select Method](articles/3470e29a-b8a0-9b5a-d1cd-40e51f14bce6.md)
     - [Border Object](articles/bca516bf-7c0f-f9df-078d-dfb522f256f3.md)
-      - [Border Members](articles/9894a092-7e82-4108-3463-c6d7b542659c.md)
-      - [Properties](articles/ea679a74-9db8-47a2-8c77-4c55952ee972.md)
+      
+      
         - [Application Property](articles/61d227a1-e6da-4fc0-5bf3-ca815c1c8d44.md)
         - [Color Property](articles/ca90fc42-2a7a-d43e-9c2c-0055f6bf9010.md)
         - [ColorIndex Property](articles/35e2dbbf-fd35-a08c-a969-bd08d0544d97.md)
@@ -676,8 +676,8 @@
         - [TintAndShade Property](articles/3ec15506-3ba6-a173-a11b-d17448fcdb1b.md)
         - [Weight Property](articles/c6b9a812-60e6-245d-e86e-fb385581f890.md)
     - [Borders Object](articles/adb6efd6-73b6-e620-e9be-f4a42bc52ae8.md)
-      - [Borders Members](articles/8fb1ee1d-8e09-0b65-a9a3-4f278f6f9164.md)
-      - [Properties](articles/fc47d009-78eb-4413-9683-9174918df067.md)
+      
+      
         - [Application Property](articles/bba16d88-5609-3792-3ace-9928fdaccd98.md)
         - [Color Property](articles/3ee1bce3-56e2-c93f-432f-8f1d037a7624.md)
         - [ColorIndex Property](articles/fe0a7b5e-254d-c773-88cc-70728db44840.md)
@@ -691,28 +691,28 @@
         - [Value Property](articles/9415589c-f698-a09d-d232-cf2ca32e6b11.md)
         - [Weight Property](articles/cdf2d0d2-9c4d-1b07-38fc-3828126c77bf.md)
     - [CalculatedFields Object](articles/6db4c889-f097-9a66-abc6-28f7f54f0478.md)
-      - [CalculatedFields Members](articles/be259ce8-1296-9e56-fa9f-d180a47cf520.md)
-      - [Properties](articles/810946de-7a63-4ad8-9617-6af669abafde.md)
+      
+      
         - [Application Property](articles/081d747a-4382-dd94-ce05-b2248b745f2a.md)
         - [Count Property](articles/db7c3a92-088e-d13a-e582-540c29fd96e9.md)
         - [Creator Property](articles/95b69698-d77f-eec9-fd74-09d630ca4ae5.md)
         - [Parent Property](articles/5919da15-d1c0-1fef-93d5-da497960bb85.md)
-      - [Methods](articles/51ac6799-236a-415e-93aa-4623271abf18.md)
+      
         - [Add Method](articles/7c01ebbf-d6a4-2b4d-4740-5cb4e2de826a.md)
         - [Item Method](articles/cae0c3a5-3403-f1b1-fe7f-c38ff6be6b07.md)
     - [CalculatedItems Object](articles/daad9732-6a20-d146-050e-da9e1c1e6f33.md)
-      - [CalculatedItems Members](articles/8e27a07e-3f10-46d8-0a45-dda9285586d0.md)
-      - [Properties](articles/55eb57b3-cc96-4ac1-b1c6-6a1a066fa2c8.md)
+      
+      
         - [Application Property](articles/ea12e538-a6dc-2bef-1dc7-ec22b4476917.md)
         - [Count Property](articles/85876ce3-df54-65d5-984c-ad0469a114f9.md)
         - [Creator Property](articles/4ae7771b-4ea6-435e-b255-35320764fc77.md)
         - [Parent Property](articles/7dda0130-070d-ff11-1226-78d7135163cd.md)
-      - [Methods](articles/60902f27-7120-482e-a27b-d1400f6a0037.md)
+      
         - [Add Method](articles/2a7dff2b-c874-1579-1e95-78841a91e6cd.md)
         - [Item Method](articles/ad7642b5-2579-17b4-ed2f-ebcac54bb595.md)
     - [CalculatedMember Object](articles/07a1f8df-107e-a5fd-3d15-dfc92916c4c6.md)
-      - [CalculatedMember Members](articles/8457d4bb-06a6-5037-c7d1-dc3c73f5b6b5.md)
-      - [Properties](articles/dfaea829-b425-462b-98e4-0fc3124310d8.md)
+      
+      
         - [Application Property](articles/42a8f86a-2e79-6c4a-51eb-ca3165cdea76.md)
         - [Creator Property](articles/2892e70d-6c8d-b327-138c-80fa0222a375.md)
         - [DisplayFolder Property](articles/9ece45d1-4d27-0305-1189-15c414353607.md)
@@ -730,22 +730,22 @@
         - [SolveOrder Property](articles/45e461ac-4900-000b-cb72-4022bcc1a7c9.md)
         - [SourceName Property](articles/719e330f-28f2-4ad1-aa0b-53a0339af759.md)
         - [Type Property](articles/7533bd2f-6e3b-12de-e01b-13e5fa1d78eb.md)
-      - [Methods](articles/59942949-ef54-4f75-8ff9-8cfc8e976591.md)
+      
         - [Delete Method](articles/12c09264-2712-b7ce-9c09-7651650d69d4.md)
     - [CalculatedMembers Object](articles/3c664ac6-e2f8-f631-006d-6a16c380641e.md)
-      - [CalculatedMembers Members](articles/e16137ed-ca60-0ed9-eb7e-b4ab33d1afcb.md)
-      - [Properties](articles/762ee0bf-895a-40b4-844f-d0ae94212cdf.md)
+      
+      
         - [Application Property](articles/eafa8e3d-d640-8621-c720-034f1773bb14.md)
         - [Count Property](articles/d784b90b-3d89-4c73-43c5-f5d5861e8269.md)
         - [Creator Property](articles/a743dd00-e7f5-236f-989c-e1e442389d08.md)
         - [Item Property](articles/82ba55c7-0c16-df11-ac32-40868f57d2e1.md)
         - [Parent Property](articles/c23a3b8d-4a6d-3dce-f5a9-c5e43716e28f.md)
-      - [Methods](articles/60b1c184-a430-420a-a9b0-b72bdcda16f2.md)
+      
         - [Add Method](articles/8c6591bb-3906-6682-4dc7-89ffc2ae74f3.md)
         - [AddCalculatedMember Method](articles/61e3fdf5-f7e3-9d7f-4449-1f4408251422.md)
     - [CalloutFormat Object](articles/d9d7d279-04ef-dbee-23cd-ddd606ed917d.md)
-      - [CalloutFormat Members](articles/29203369-3128-3336-6e78-d1853c4619a6.md)
-      - [Properties](articles/329d65b1-e1b5-4a12-a022-46d9bdfbc672.md)
+      
+      
         - [Accent Property](articles/9dce6821-47df-174d-c7f3-7edad9fcf77d.md)
         - [Angle Property](articles/8f3dab54-4597-e22c-ae3e-cf894849b668.md)
         - [Application Property](articles/7fd1dc42-b429-4578-63fe-f26b1423c743.md)
@@ -759,23 +759,23 @@
         - [Length Property](articles/e17dacaa-f48f-8802-3912-f84a0e4dd8ca.md)
         - [Parent Property](articles/28daee90-306f-3311-236f-69ecc8679342.md)
         - [Type Property](articles/f357bfcb-2875-4d2b-b303-c0cd03f2645d.md)
-      - [Methods](articles/89796632-2bbf-40ad-9e2b-a33ce2d5d75a.md)
+      
         - [AutomaticLength Method](articles/e82093e0-7b84-c2c8-8365-6fe05298d55b.md)
         - [CustomDrop Method](articles/d38513f6-1c42-e4b3-7a0f-b8543d59d0ff.md)
         - [CustomLength Method](articles/8c5034f9-32ca-6e34-be59-51e0cd8c8374.md)
         - [PresetDrop Method](articles/48d67cad-d93b-2b69-35dd-c3de70340a42.md)
     - [CategoryCollection Object](articles/5fc7e8c2-6fcb-8726-36f8-d4ae8c2c91e1.md)
-      - [CategoryCollection Members](articles/39a6f85c-2219-79df-cbbc-0bcc21a517e8.md)
-      - [Properties](articles/20c280cc-32b9-02a0-1b11-ec9aac4e4219.md)
+      
+      
         - [Application Property](articles/cfae4e60-9cda-c43b-e1d5-78ba110dd21c.md)
         - [Count Property](articles/7d6c8a5c-75fb-f414-590d-1b0ea8d8ff22.md)
         - [Creator Property](articles/dc0d57e5-5b48-34a9-cca4-360ea927adb1.md)
         - [Parent Property](articles/b91d60e8-e3a5-42d7-ca93-78469e8bd11b.md)
-      - [Methods](articles/1065875e-b70b-dee8-92d4-90601a645e48.md)
+      
         - [Item Method](articles/799a7fc6-e44b-e860-2806-2f816008a905.md)
     - [CellFormat Object](articles/da4e50b9-6d5b-22e1-3113-0d1ea6686272.md)
-      - [CellFormat Members](articles/cbc8b4d2-7e43-d72b-a487-94871bbd8620.md)
-      - [Properties](articles/deada426-480f-4e2f-967a-3e66de017db6.md)
+      
+      
         - [AddIndent Property](articles/7f38c3d8-ccea-fc6c-a171-d028fe30080d.md)
         - [Application Property](articles/4e3e67ce-3691-e612-7a87-681c84600169.md)
         - [Borders Property](articles/8a2ad449-a1b4-14ff-6a67-f475dba82c45.md)
@@ -794,11 +794,11 @@
         - [ShrinkToFit Property](articles/978403ae-7eb5-046f-6c76-d7abcc0e2b2e.md)
         - [VerticalAlignment Property](articles/c901dff3-3f0a-1f54-250e-c03b9e32c819.md)
         - [WrapText Property](articles/92d7920c-51e2-f949-60ee-d11595c191bb.md)
-      - [Methods](articles/5687d153-754a-4b3f-ab24-bc39d85a09d7.md)
+      
         - [Clear Method](articles/2f02e474-c74a-4999-862d-c59e26c22d56.md)
     - [Characters Object](articles/128c9ee4-8ba3-6d22-ad0f-9f20be1e24af.md)
-      - [Characters Members](articles/5172cea2-c939-9bbe-d751-304d4aafd9cf.md)
-      - [Properties](articles/c86e111a-8f46-4472-b51a-054692fcc5ac.md)
+      
+      
         - [Application Property](articles/b67b835c-9324-04ed-4d7f-e1756e6fe7f8.md)
         - [Caption Property](articles/8724563d-2954-2141-de30-f5058912e060.md)
         - [Count Property](articles/0fabbbe3-5c4a-c215-1bc0-201ee5971fb0.md)
@@ -807,12 +807,12 @@
         - [Parent Property](articles/6c0dac76-03b6-8c55-1cb3-f88211c81f27.md)
         - [PhoneticCharacters Property](articles/05e5cfa5-aef8-c413-29e4-3c608bd4f953.md)
         - [Text Property](articles/bf4461d6-5c22-5c36-cd61-ff0f0493a5e3.md)
-      - [Methods](articles/a9f56b07-0dd9-4bd1-957c-5a70c865644c.md)
+      
         - [Delete Method](articles/df4670e6-71e6-7878-aa9e-fce7bbedca42.md)
         - [Insert Method](articles/cc729d8c-8f03-d5ef-0a78-81685652c4d9.md)
     - [Chart Object](articles/179c32ce-49bd-6f36-ea12-89fb5443f3ea.md)
-      - [Chart Members](articles/a3f8ac44-02d6-6f3f-b5e0-23f4bd5d6baf.md)
-      - [Properties](articles/fd0c8648-eff8-4cef-a6da-22d3cdc0850a.md)
+      
+      
         - [Application Property](articles/b3c44d53-82d5-dcfd-a9f7-c2aee2aa7358.md)
         - [AutoScaling Property](articles/fecafb42-56fb-3c33-dc03-cb290b4a28df.md)
         - [BackWall Property](articles/c72de543-7be9-55ff-20d0-a5330ca92144.md)
@@ -872,7 +872,7 @@
         - [Tab Property](articles/bda235b7-d7c1-e901-718e-4d8215433021.md)
         - [Visible Property](articles/ce94f2d8-6a02-d857-bd7a-2488c7f6513a.md)
         - [Walls Property](articles/fbee1165-7602-4d77-e5b6-8a127783c96e.md)
-      - [Methods](articles/537f851a-0049-423a-9c33-d7860c708ec5.md)
+      
         - [Activate Method](articles/b2bda196-4f0c-252f-cd6f-79c9f3d08f7c.md)
         - [ApplyChartTemplate Method](articles/b4695f3f-26ac-1e35-7318-0091d9b1f130.md)
         - [ApplyDataLabels Method](articles/20966609-9713-c644-81d7-196b06169975.md)
@@ -909,7 +909,7 @@
         - [SetElement Method](articles/0efff437-179b-fe16-118b-6f3cde49c5cf.md)
         - [SetSourceData Method](articles/fc41cc05-087a-f53c-2f54-fd6307de51d6.md)
         - [Unprotect Method](articles/59a367bd-037b-84aa-5b2f-d532614ed347.md)
-      - [Events](articles/6822a9b7-9f74-4171-85f5-79ba9ccacccf.md)
+      
         - [Activate Event](articles/7b878d1b-3059-93cb-389a-a2633f613a4d.md)
         - [BeforeDoubleClick Event](articles/406c6b9f-1182-5f5b-b954-afe10cd21a9b.md)
         - [BeforeRightClick Event](articles/d01f6911-2f6b-3118-27a2-dfafa48791ab.md)
@@ -922,8 +922,8 @@
         - [Select Event](articles/00ea6501-e92e-5b95-f2b0-bb9b014bb5ec.md)
         - [SeriesChange Event](articles/80a8058c-0445-0051-24d1-1a965c302790.md)
     - [ChartArea Object](articles/883423b5-7689-b164-c0a3-8dab049b5d9e.md)
-      - [ChartArea Members](articles/7be5d1c8-31ef-e784-7381-0bd95532da94.md)
-      - [Properties](articles/0913e7d8-f26a-4527-84ae-1d0bb47227dc.md)
+      
+      
         - [Application Property](articles/ab66a8b2-80f4-70d5-bc37-e7d088d4ef2f.md)
         - [Creator Property](articles/430863d6-d88f-06a3-f979-6f48d2c551f4.md)
         - [Format Property](articles/619c67b5-0d7d-c37c-c585-1d569b2144ef.md)
@@ -935,23 +935,23 @@
         - [Shadow Property](articles/062af1a6-298c-fd5b-0aa5-2e224127ef11.md)
         - [Top Property](articles/2bca96fd-af61-2253-9acc-3c5567146477.md)
         - [Width Property](articles/6d06d1d1-8a98-3a57-e363-c918db157986.md)
-      - [Methods](articles/476b68a2-150f-4477-92ec-2cf5ede42ccd.md)
+      
         - [Clear Method](articles/6a3f87e7-c6ca-c530-ae46-2fc2c4d9b5ae.md)
         - [ClearContents Method](articles/3c3c07a0-9dc1-6019-5262-e1acba7917a1.md)
         - [ClearFormats Method](articles/0af0bba7-6fb8-d221-7b1f-ba7c40ae1687.md)
         - [Copy Method](articles/cd96e7bb-ced8-08a6-000f-7926c37d5af2.md)
         - [Select Method](articles/c8660e02-72a5-46e5-c279-e2f6f09348fb.md)
     - [ChartCategory Object](articles/2060fdef-8da0-b549-462d-129cf093a3da.md)
-      - [ChartCategory Members](articles/916d6391-fd6d-c425-cecb-f4c61c513886.md)
-      - [Properties](articles/645c76b2-022a-30e0-5b0c-31da1e922d4c.md)
+      
+      
         - [Application Property](articles/8515a380-5856-584d-255e-75e7778380ee.md)
         - [Creator Property](articles/2e9f59f5-bfd2-9518-f34a-705216b85c3f.md)
         - [IsFiltered Property](articles/1bf69302-7c43-3db2-1f11-6c0a72f3886e.md)
         - [Name Property](articles/74134ec0-7715-47ce-2000-b60c4d73683e.md)
         - [Parent Property](articles/746d957a-d3a6-1900-fbf0-6e9a2069e9ea.md)
     - [ChartFormat Object](articles/edac71b7-ed38-6658-2cbf-6493dc1ad3ed.md)
-      - [ChartFormat Members](articles/d06de08a-72d0-46d3-e06a-86e432a9a334.md)
-      - [Properties](articles/2aa25aba-4e71-4134-9aa6-eb4116c18642.md)
+      
+      
         - [Adjustments Property](articles/4d3f15bd-b11b-8220-fd5f-5a4e6a5ddba4.md)
         - [Application Property](articles/72b6e73c-19d8-98c0-bf75-a7b0e95e0996.md)
         - [AutoShapeType Property](articles/eacb0a50-0c7a-8693-5ca0-4c92fa2831ed.md)
@@ -966,8 +966,8 @@
         - [TextFrame2 Property](articles/239a5c1e-5200-1271-6144-318ab7e28b08.md)
         - [ThreeD Property](articles/e4312222-c681-32b1-cd73-aa3cb9fa2064.md)
     - [ChartGroup Object](articles/7eee66c5-04a7-fd86-6e34-4c22ccaf8de0.md)
-      - [ChartGroup Members](articles/2d31f7af-d639-c8f4-0714-08fc618ec92d.md)
-      - [Properties](articles/a069edf1-d492-4205-81de-5c210e84fd36.md)
+      
+      
         - [Application Property](articles/3c61b5e1-ca64-647d-cf66-0c23282995ad.md)
         - [AxisGroup Property](articles/2fa4488c-6a50-9aac-affe-a6f2b8afa62e.md)
         - [BinsCountValue Property](articles/933ce137-4421-54c1-e3f7-f51466f6012d.md)
@@ -1003,22 +1003,22 @@
         - [SplitValue Property](articles/a7cab670-1510-5334-f11b-12dc8cc13570.md)
         - [UpBars Property](articles/d97b23bd-4c51-2384-a5f3-7cc067d3d6fa.md)
         - [VaryByCategories Property](articles/9ae94a48-abc7-b692-7376-f4cb780a4063.md)
-      - [Methods](articles/f0ebda58-e7e2-4ba0-aad2-db108cbf86f4.md)
+      
         - [CategoryCollection Method](articles/e65cc293-c559-5868-efb9-0a52b2afb373.md)
         - [FullCategoryCollection Method](articles/8cf85f22-d6c7-a428-4bb4-2c77cba36969.md)
         - [SeriesCollection Method](articles/7da987dc-5629-1b7d-9269-cadbec2f8c46.md)
     - [ChartGroups Object](articles/991147bc-bbb5-9f7d-a7c9-55854aa50325.md)
-      - [ChartGroups Members](articles/791550d6-5063-ee3c-3a73-26dc4cb2a360.md)
-      - [Properties](articles/8e1fe662-0e2f-4cc9-b364-3c0e36bfb335.md)
+      
+      
         - [Application Property](articles/98a91dfa-263a-36f6-1c36-46c651feb539.md)
         - [Count Property](articles/8c0237cd-d16f-9823-b2a6-d42b618ccf9c.md)
         - [Creator Property](articles/3008f9c3-a7d8-3202-2edb-d090deb039af.md)
         - [Parent Property](articles/6d83dfde-1fd8-cca9-7533-c9a1a9b27953.md)
-      - [Methods](articles/59f3c531-2549-47d1-bdd2-a747fcfc1761.md)
+      
         - [Item Method](articles/29ca6f13-96b7-bd43-9562-480c467ef7db.md)
     - [ChartObject Object](articles/b546e6f2-7ac6-2dea-eba2-f98f68f3df65.md)
-      - [ChartObject Members](articles/b53f82f3-1144-b471-cacc-28bbbc493eba.md)
-      - [Properties](articles/03303619-ee13-4d55-b089-9b7fca712133.md)
+      
+      
         - [Application Property](articles/1d2e8fde-3641-fd19-bf7d-f4b72d827e22.md)
         - [BottomRightCell Property](articles/e437e7d9-b8fb-0a55-9741-1b11dea714b7.md)
         - [Chart Property](articles/99adb730-fc7b-1033-03e0-aebc82d95814.md)
@@ -1040,7 +1040,7 @@
         - [Visible Property](articles/6e9f8470-49cf-b13a-dc97-4653ce654b44.md)
         - [Width Property](articles/ebe9523f-2777-fd27-a29e-c378355c3c18.md)
         - [ZOrder Property](articles/1d3e3557-66c5-78f8-a86c-c0d64af63bc6.md)
-      - [Methods](articles/5e5ddb6c-608d-4d1e-a5b0-486cb503ea6d.md)
+      
         - [Activate Method](articles/21997b8b-e446-249b-b33e-ee3b7f9aa564.md)
         - [BringToFront Method](articles/2b9d6071-41e4-cd8b-2a4c-ddfbbfbb4348.md)
         - [Copy Method](articles/caa81e99-796d-f86d-6ea5-e74656695248.md)
@@ -1051,8 +1051,8 @@
         - [Select Method](articles/76188499-f21b-40fd-f259-4cf3d5ab7716.md)
         - [SendToBack Method](articles/a8f0f721-15ba-662f-ac17-0ac1657e3413.md)
     - [ChartObjects Object](articles/67cf2d82-ed9b-b23d-836f-19b106bcc5ed.md)
-      - [ChartObjects Members](articles/9b6cdfd7-0926-fff0-ecc1-ce1cef00ebee.md)
-      - [Properties](articles/01cddff0-87b9-416f-a1d8-fbf7e922e6ec.md)
+      
+      
         - [Application Property](articles/2ff0a431-a796-e1c6-d15d-7e70aba1e426.md)
         - [Count Property](articles/28d3d9fd-cf58-8b95-3f14-c336bcee1bb5.md)
         - [Creator Property](articles/8cfd1fc7-b6a8-5d1a-9dc8-58ca5521d3a8.md)
@@ -1067,7 +1067,7 @@
         - [Top Property](articles/260fb609-ca58-61f8-44a9-d3183d7937f1.md)
         - [Visible Property](articles/c7e1fad7-1ed3-d76b-f637-2dfda5fe9b53.md)
         - [Width Property](articles/835cb1e6-937c-de90-af37-309b9bebb070.md)
-      - [Methods](articles/2e0c57f6-afbb-4d9b-a6f0-49972eab2894.md)
+      
         - [Add Method](articles/46f28b34-83a5-b3d9-c19b-a1dc8e05dff7.md)
         - [Copy Method](articles/66e30b0c-a304-00fa-e573-e975c530c46c.md)
         - [CopyPicture Method](articles/df79e18c-624b-424d-cd3e-d9432ed87aac.md)
@@ -1077,8 +1077,8 @@
         - [Item Method](articles/0dbc6680-73ee-73a8-c3d8-f05faf6dd596.md)
         - [Select Method](articles/ef89d037-34d4-3c17-edb7-352b52e5ae4b.md)
     - [Charts Object](articles/06d4602e-a713-7ca0-db39-2d8a29f084a0.md)
-      - [Charts Members](articles/209281d5-4fda-65f1-ac1c-6ae43c2764ba.md)
-      - [Properties](articles/bbacddc9-3c94-4594-8972-4a99fc99d076.md)
+      
+      
         - [Application Property](articles/4441353e-9bf2-34af-4480-39994e8f5041.md)
         - [Count Property](articles/e759c195-52b0-03d8-06c5-aff76a773d49.md)
         - [Creator Property](articles/520db104-5cf3-c130-4590-e92b6b5e0d3e.md)
@@ -1087,7 +1087,7 @@
         - [Parent Property](articles/4b56eb5c-5057-ca80-e32f-ea82f37c3b2d.md)
         - [Visible Property](articles/1665822c-8530-f25a-4465-dc4244da2420.md)
         - [VPageBreaks Property](articles/d67573e4-34c2-2615-b236-7d7902944fcf.md)
-      - [Methods](articles/33fcb599-bab9-423c-8384-f7a1197502fc.md)
+      
         - [Add2 Method](articles/bfd7d614-a640-dfdc-ebc5-3d0682f2c839.md)
         - [Copy Method](articles/7b1181e9-0aad-7979-8a87-2b07bff8b7a4.md)
         - [Delete Method](articles/904c4a59-d21b-fa16-c1ea-a175104eaa8c.md)
@@ -1096,8 +1096,8 @@
         - [PrintPreview Method](articles/53d54413-6c35-d2a3-ba4a-1acc3bbdea28.md)
         - [Select Method](articles/92f99f97-6043-f44f-78dd-9253050efb36.md)
     - [ChartTitle Object](articles/e0a10650-66dd-dd33-e9ba-5a5c0f78f2c3.md)
-      - [ChartTitle Members](articles/289a6f65-7f65-c394-b641-bfd0daf14a1a.md)
-      - [Properties](articles/33079977-adfe-4979-bcf9-b5dc8ced63dc.md)
+      
+      
         - [Application Property](articles/ad885eca-db85-6341-62ca-f2541340fb2d.md)
         - [Caption Property](articles/eb36b740-7aba-3af1-5f2e-40689db272e2.md)
         - [Characters Property](articles/53cbfd6d-3be0-74d8-d55b-983d99d92e80.md)
@@ -1121,19 +1121,19 @@
         - [Top Property](articles/6521d104-0b13-e896-ecb9-e8315a2c7106.md)
         - [VerticalAlignment Property](articles/9d675a02-b84e-84e0-6ccf-adb47b876c12.md)
         - [Width Property](articles/cf3592a8-c8bd-03aa-d64c-c48ff5e251f7.md)
-      - [Methods](articles/7b30ab9a-39d0-418c-bc61-8620153f1c53.md)
+      
         - [Delete Method](articles/f5ad76d9-2cec-d834-283f-c1f5ab17db1b.md)
         - [Select Method](articles/3ca37ca1-c874-cf06-dc4a-38df1879a5e2.md)
     - [ChartView Object](articles/2e59e8c1-f1cd-1589-ae36-22d6c5dccbf6.md)
-      - [ChartView Members](articles/d9758fe2-fc44-8f29-5c19-1068929164ed.md)
-      - [Properties](articles/d63eefc4-4242-495c-86fe-4edf85ad9d8f.md)
+      
+      
         - [Application Property](articles/cb539c0b-1540-fe85-865a-13448a452e79.md)
         - [Creator Property](articles/b79054ab-5f0b-c7a0-3247-6e6cfe0470cd.md)
         - [Parent Property](articles/99415b61-e2a8-314e-496b-92aa6d2d3822.md)
         - [Sheet Property](articles/8565ae01-9464-7de3-9377-6b0ec14c323d.md)
     - [ColorFormat Object](articles/9bb6bc1f-9886-d290-a336-068f84cad1a9.md)
-      - [ColorFormat Members](articles/2cc12fcd-da0a-56cd-e223-cd0d32496e61.md)
-      - [Properties](articles/76aba34e-7426-4fc1-9014-a079bdccb70b.md)
+      
+      
         - [Application Property](articles/e9b68987-dceb-8bd6-13af-be60076e3e73.md)
         - [Brightness Property](articles/36428885-90c0-327f-2ecc-5160ae6263cd.md)
         - [Creator Property](articles/f7b1439e-cb87-bffb-94f8-2633f7897917.md)
@@ -1144,8 +1144,8 @@
         - [TintAndShade Property](articles/b548b2ad-da3d-0d02-249e-2ab37271a5c6.md)
         - [Type Property](articles/732f1bda-f6ad-e1e0-6f8f-b5f6e4c70549.md)
     - [ColorScale Object](articles/3982b041-9178-7a45-7453-c88963501a3c.md)
-      - [ColorScale Members](articles/e14df078-3af6-a32e-d66f-3410b7bdb4d4.md)
-      - [Properties](articles/efa59406-050a-4fc2-a258-8c76e3d32736.md)
+      
+      
         - [Application Property](articles/37f23eb0-ceeb-a6a9-666f-7c5c5e1b87f4.md)
         - [AppliesTo Property](articles/ddef6076-9805-454d-3f98-baf26685e263.md)
         - [ColorScaleCriteria Property](articles/6c0b09eb-a9f6-5f6e-f0c6-682158d71a66.md)
@@ -1157,26 +1157,26 @@
         - [ScopeType Property](articles/9f3c0f30-27bd-946d-bd2b-49ca32c39e2a.md)
         - [StopIfTrue Property](articles/56dbc42b-da4d-775a-f321-d21193e12b06.md)
         - [Type Property](articles/9923c1e3-e69b-823b-5cf2-a9a96e2b5053.md)
-      - [Methods](articles/8e617e27-f12e-402f-bd00-adccfda5712d.md)
+      
         - [Delete Method](articles/57976564-37a4-929b-528f-276668e899e1.md)
         - [ModifyAppliesToRange Method](articles/afa0d0c4-abda-1f16-6b52-a4d330e62dbe.md)
         - [SetFirstPriority Method](articles/812bf48e-066c-6bea-be43-1a068c948ea8.md)
         - [SetLastPriority Method](articles/01c64e4d-98e8-3647-5e06-23fd1000757b.md)
     - [ColorScaleCriteria Object](articles/9c50a2e4-aa22-92ca-6cef-2f8fc931ec33.md)
-      - [ColorScaleCriteria Members](articles/c73a24ba-662e-b050-a77b-ddf6046ae76f.md)
-      - [Properties](articles/b1938a71-6f35-4c82-8f90-cec445834420.md)
+      
+      
         - [Count Property](articles/2ebfccab-0aa8-5f7e-7e66-9a01ecff082b.md)
         - [Item Property](articles/62033ea0-19c6-430f-0b9e-9eae62791352.md)
     - [ColorScaleCriterion Object](articles/8b7ffd61-b843-3995-d872-e07d35adfedc.md)
-      - [ColorScaleCriterion Members](articles/5bf6725a-98a8-99cf-42d2-0808e9a74421.md)
-      - [Properties](articles/792b3421-f04a-4c84-bc40-48faddbe17b8.md)
+      
+      
         - [FormatColor Property](articles/d0c11343-5924-5577-82fc-85d2b1ab4e5a.md)
         - [Index Property](articles/22521ce4-fa0d-b71c-0eaa-d3675dbfc199.md)
         - [Type Property](articles/59ea77b7-4d12-22e5-380c-bb94912a6550.md)
         - [Value Property](articles/829e876f-ca11-855d-bda5-a1c7f86eeb0f.md)
     - [ColorStop Object](articles/43c4d024-8213-5f93-dfa9-229f37e09d9a.md)
-      - [ColorStop Members](articles/b2ce7445-3ac9-b5c9-95b1-05536b107841.md)
-      - [Properties](articles/8836a425-288c-4b82-a6aa-b6216c83d7f1.md)
+      
+      
         - [Application Property](articles/ef8ca642-db09-c2fd-5ac8-87a97e73153c.md)
         - [Color Property](articles/8ca105b8-fcb1-81b8-81df-c7701a0e04c3.md)
         - [Creator Property](articles/99789f97-d576-1be6-40c5-9cd2a5984751.md)
@@ -1184,66 +1184,66 @@
         - [Position Property](articles/788dfbf4-3274-d05f-1613-c52feab150b1.md)
         - [ThemeColor Property](articles/bb650754-204a-3618-d431-bf7db289ceeb.md)
         - [TintAndShade Property](articles/64602eee-9196-fa9b-9a09-e11a4433b4f3.md)
-      - [Methods](articles/f17d86ec-da1d-4ea6-8f2e-91d09520c165.md)
+      
         - [Delete Method](articles/3ca053f6-74f7-e2c0-6db4-7daed73cca39.md)
     - [ColorStops Object](articles/e138347b-f03c-2f50-bf61-f7f2182c9681.md)
-      - [ColorStops Members](articles/864479e0-3690-70b8-a062-1b48825e00b8.md)
-      - [Properties](articles/fd1b4a98-f056-4227-b4a9-ed217ea26220.md)
+      
+      
         - [Application Property](articles/68c43e6a-7e68-777d-67a0-a895db4d351d.md)
         - [Count Property](articles/0574a698-ff87-56e3-eea9-aa2e6e77f270.md)
         - [Creator Property](articles/9eb3106a-fb64-ba9a-8bf1-fc7ed2a3eb0e.md)
         - [Parent Property](articles/252d24f4-7508-a2fd-1e39-799af297581c.md)
-      - [Methods](articles/2bde0ad7-eabc-4b4f-8428-77425e19e455.md)
+      
         - [Add Method](articles/121c48bf-0b68-89c9-6a03-f7a403b52fee.md)
         - [Clear Method](articles/308edcb7-6085-77d6-5e6a-d8ec1d31c043.md)
         - [Item Method](articles/23b7a530-715e-94a5-8039-bfe55c5c19d5.md)
     - [Comment Object](articles/3627e9be-2a28-9dc5-c822-ad42857134e3.md)
-      - [Comment Members](articles/b2ed3262-4479-83e9-28a1-8d61870db1f1.md)
-      - [Properties](articles/caa44794-564c-400d-857b-962d0e536593.md)
+      
+      
         - [Application Property](articles/a5cf6bf0-73e6-d925-d905-1a6388ef8c6d.md)
         - [Author Property](articles/ac964a80-1646-41a0-8b3a-941c800395e7.md)
         - [Creator Property](articles/c0765a60-a99b-ea10-b708-549222dc4e95.md)
         - [Parent Property](articles/c533a5f3-06ea-5af8-c46a-20cb6661384f.md)
         - [Shape Property](articles/f3e5f713-69b3-9cd8-81fa-9c677ed26869.md)
         - [Visible Property](articles/0ec953be-0323-68cb-f2bc-2c7eaba2d9c1.md)
-      - [Methods](articles/9543643b-d1d4-4ec5-9daf-bc3a223b6a49.md)
+      
         - [Delete Method](articles/c0289c56-cf93-5c86-b62f-cb33083c2c1d.md)
         - [Next Method](articles/0331918c-056d-6adc-e232-0aeee3d9c57b.md)
         - [Previous Method](articles/b7854b0f-0e88-6749-2e62-6d45add8b945.md)
         - [Text Method](articles/6a79c275-ba8e-799a-2e53-96347b1783a4.md)
     - [Comments Object](articles/f43bf021-1e46-10cf-09bf-070fc6a2c81a.md)
-      - [Comments Members](articles/9526fea1-a9c6-68a0-9aaa-df3677a65fe5.md)
-      - [Properties](articles/616fabd7-5507-4042-8e5e-5beeaead7b60.md)
+      
+      
         - [Application Property](articles/29fe9ed7-7fd5-acf1-de6a-69a7e3b0809b.md)
         - [Count Property](articles/f2e80d61-d9ed-1f5b-3e28-07178174c4c4.md)
         - [Creator Property](articles/839fc2bb-e9d8-a998-803e-169100dc8ef2.md)
         - [Parent Property](articles/c8c903be-d67c-1e8f-bcf1-fab91f00f163.md)
-      - [Methods](articles/a58c8a8b-953f-4f01-b5b2-a6d66edcc893.md)
+      
         - [Item Method](articles/87f0ecf0-9261-ffaf-39ca-4cdbc5712368.md)
     - [ConditionValue Object](articles/a39335db-4e0a-66aa-393b-3aa7e5268c00.md)
-      - [ConditionValue Members](articles/59e72c1f-3e56-294b-408a-de7aba0ed331.md)
-      - [Properties](articles/77b2a544-7ca5-4790-815f-7ba4d43a76ef.md)
+      
+      
         - [Application Property](articles/061e369f-0fb3-54e0-b495-50baf928b18c.md)
         - [Creator Property](articles/74c0263a-5f2a-3a44-b3ff-4a5b7cddf13a.md)
         - [Parent Property](articles/d6e61746-ae2e-3704-a37a-ab755198772b.md)
         - [Type Property](articles/20467063-f402-4e7f-42ba-581b61b83a15.md)
         - [Value Property](articles/376dccc8-2d47-c7ed-1b14-d41dcdd1a8ff.md)
-      - [Methods](articles/dca3b8e6-4f82-4ed1-81c9-f489bd517d79.md)
+      
         - [Modify Method](articles/3da6d850-7b7b-2419-b211-b18081c31e77.md)
     - [Connections Object](articles/3320b1cc-2f9d-805e-e506-27164b38d413.md)
-      - [Connections Members](articles/f6f7cbb6-4763-443a-56d8-2787cb067b8b.md)
-      - [Properties](articles/98eed29a-5168-4e81-a9a7-2e019791693b.md)
+      
+      
         - [Application Property](articles/bcbf3baa-7e97-892c-47b0-346eca408bfa.md)
         - [Count Property](articles/ccd881e6-0869-0067-8d24-20e9cf5fc7ef.md)
         - [Creator Property](articles/eb334a7c-d286-c1a0-c4d3-a4a2fe5be7c2.md)
         - [Parent Property](articles/835a90d5-d838-6347-19d9-6b6be3e960fe.md)
-      - [Methods](articles/aef26915-82fe-4521-8c18-28b79df801f1.md)
+      
         - [Add Method](articles/2dff072d-b250-e052-64d7-f75a4746a23f.md)
         - [AddFromFile Method](articles/24b13d14-6e5e-ee76-d4a9-79441647a803.md)
         - [Item Method](articles/b3739d85-7677-0afe-b81a-1b9987cfb903.md)
     - [ConnectorFormat Object](articles/56c97d73-bde2-52ae-2bc3-724d21fdd515.md)
-      - [ConnectorFormat Members](articles/b7597f8e-5f21-c1d6-2b31-9067dd0cc029.md)
-      - [Properties](articles/f83a89e2-5753-4468-b9e0-201c6347f6c5.md)
+      
+      
         - [Application Property](articles/c605e69b-6335-c925-8fcb-75b5bfa2999a.md)
         - [BeginConnected Property](articles/2ebc4d15-e6f3-a0c9-056e-78004465c60c.md)
         - [BeginConnectedShape Property](articles/9ff6c949-72c7-32e9-d1dc-6a0a3b861135.md)
@@ -1254,14 +1254,14 @@
         - [EndConnectionSite Property](articles/5791efdb-5cea-739c-b117-0858d8d45f08.md)
         - [Parent Property](articles/d9f8adf3-739b-9bca-9725-12733feb2547.md)
         - [Type Property](articles/55be2527-9fd5-6930-ff64-e3355a36e9e9.md)
-      - [Methods](articles/d14c80e7-7d14-4d61-a3e5-ab2d0dc14c06.md)
+      
         - [BeginConnect Method](articles/f2539299-1b35-7cf9-d315-9df76299fc8b.md)
         - [BeginDisconnect Method](articles/1edd106a-9f02-3916-401c-1b026e40d75a.md)
         - [EndConnect Method](articles/c8cc392c-8a54-99ed-ffdd-e5173792408f.md)
         - [EndDisconnect Method](articles/518345b5-c287-6183-93ae-61c5b56fb9a5.md)
     - [ControlFormat Object](articles/fafc6e6b-641c-2179-0789-d86c2718b3c0.md)
-      - [ControlFormat Members](articles/a0d77b6f-e948-e12a-f65a-1633dc63efad.md)
-      - [Properties](articles/a2f74be4-cde2-4062-8370-831686f467ab.md)
+      
+      
         - [Application Property](articles/6330abcc-bb92-358d-f690-bdb5eee357bd.md)
         - [Creator Property](articles/d3174b4f-70ad-4026-2205-8f71c8f1338a.md)
         - [DropDownLines Property](articles/e2e12163-c247-6518-2d2f-701d27266a1c.md)
@@ -1279,14 +1279,14 @@
         - [PrintObject Property](articles/9151a4b0-2a1c-5f80-9216-db9f71e552d0.md)
         - [SmallChange Property](articles/5c2c668a-3d4d-ac01-e08b-0db6278ddffd.md)
         - [Value Property](articles/f719882f-a01a-3eb9-c86d-e9a59bf6c356.md)
-      - [Methods](articles/6cc49a56-e851-471f-b856-69e8c2f1b20d.md)
+      
         - [AddItem Method](articles/fffc243b-3f94-14ab-f7b4-83c56325aa5e.md)
         - [List Method](articles/8ec9abd2-d5cf-8179-96e9-a8b583bb8bcc.md)
         - [RemoveAllItems Method](articles/de8e1721-45e1-eca9-d35d-7d72c32dc0bf.md)
         - [RemoveItem Method](articles/351c2333-9e8c-90a6-90a9-839f43184bb8.md)
     - [CubeField Object](articles/6db16910-6c27-651a-c388-e54e27fe4519.md)
-      - [CubeField Members](articles/2f3cbe65-45ff-abe0-3e48-29c0d490f600.md)
-      - [Properties](articles/1e04e6cd-da01-4bcc-a17d-1a441e1983ed.md)
+      
+      
         - [AllItemsVisible Property](articles/979461f1-69a9-9705-2f61-72a096d47a5a.md)
         - [Application Property](articles/be18ec85-266c-7906-614f-1138bce842ff.md)
         - [Caption Property](articles/3a1fb6a9-422b-9e7e-36fd-02baf52a9658.md)
@@ -1315,68 +1315,68 @@
         - [ShowInFieldList Property](articles/9a9163f3-b398-5059-9dce-b993413e850b.md)
         - [TreeviewControl Property](articles/54f44b41-cde8-aa06-af98-c7d79fc85c12.md)
         - [Value Property](articles/4d01789a-2d4d-635f-4b7e-e5dbf657ae0e.md)
-      - [Methods](articles/a9587df0-ce22-4805-b470-fedf32e0f5ae.md)
+      
         - [AddMemberPropertyField Method](articles/721f9720-00c0-d9cf-1413-f3b0cc658595.md)
         - [AutoGroup Method](articles/72e1f6e7-edc5-6a9d-6632-a86064984e03.md)
         - [ClearManualFilter Method](articles/2dac2695-ae2c-eba9-7b22-57f21d87925a.md)
         - [CreatePivotFields Method](articles/87d868d7-8836-5a0b-a4b6-1ca3165b96e0.md)
         - [Delete Method](articles/bcbe57bc-879d-b6a4-27ae-ec87153b1111.md)
     - [CubeFields Object](articles/cfb7b4f4-e9c3-45a3-daa4-fe4d3c52fb1f.md)
-      - [CubeFields Members](articles/92d974bf-4956-fd8e-60c7-d0edd3cee734.md)
-      - [Properties](articles/7e78c6c1-8c96-4649-9e7d-afa6cb86f113.md)
+      
+      
         - [Application Property](articles/f78d387b-e44a-4376-3704-2bc2d55bdb5d.md)
         - [Count Property](articles/9ce370be-99dc-e27f-45dc-0d1e17230953.md)
         - [Creator Property](articles/11680e70-3280-7cb4-ef21-390653e5adb9.md)
         - [Item Property](articles/d068ccda-13e0-9938-7945-e8639e79d089.md)
         - [Parent Property](articles/84ba29bf-e810-55a2-52d1-ebf5d43ff6f4.md)
-      - [Methods](articles/cc131af9-02e8-46bf-ba04-2bb0cde8bb30.md)
+      
         - [AddSet Method](articles/2f40d4f3-56fc-4d98-b214-623885dc26d6.md)
         - [GetMeasure Method](articles/26647294-66df-4691-fa8e-d14cb869145b.md)
     - [CustomProperties Object](articles/f0f38570-e3bf-58ad-ab8a-e412ad869907.md)
-      - [CustomProperties Members](articles/79a9e757-b302-5a0d-11a8-0e52f1ab0a97.md)
-      - [Properties](articles/f8ed9749-af8d-4acf-b245-d4e5dd32e99a.md)
+      
+      
         - [Application Property](articles/abc8d5f8-87c9-d998-684b-61167b1b0781.md)
         - [Count Property](articles/d36c32c3-df61-0968-9a43-daaf9cf7fd96.md)
         - [Creator Property](articles/f40d5ca1-0606-e3ec-e4b3-278ec4f0e5f6.md)
         - [Item Property](articles/f2b9890b-2a25-e192-323b-dca72b461229.md)
         - [Parent Property](articles/828feda2-1f06-6cd8-1f2f-cf74b9495d89.md)
-      - [Methods](articles/751124a0-73bd-4fcd-bd2e-110a07208e0d.md)
+      
         - [Add Method](articles/11165b03-e459-51c4-505f-67260ab8aaf9.md)
     - [CustomProperty Object](articles/df8b58d8-ccfd-00bb-723a-a9c328f0b38b.md)
-      - [CustomProperty Members](articles/a63c6fa9-2a9f-745a-987c-f977bf2c679a.md)
-      - [Properties](articles/fa92ee4f-c475-4334-8c09-8fd0a89a8f86.md)
+      
+      
         - [Application Property](articles/c62cc90e-f672-01be-da63-0cdb842adbec.md)
         - [Creator Property](articles/f877904d-7e39-359b-b39b-e57be8469795.md)
         - [Name Property](articles/1a090b32-eed9-6082-bb47-d309abf39fd9.md)
         - [Parent Property](articles/3b10a084-88d3-a874-d24c-f254ce7b92f1.md)
         - [Value Property](articles/3c549348-4df7-278a-433f-a8550950f8ab.md)
-      - [Methods](articles/46f0b950-f79e-46d9-9c28-a815aefaadc6.md)
+      
         - [Delete Method](articles/4cb66fe0-5236-3021-6c1a-98720c6ff95a.md)
     - [CustomView Object](articles/e16b1920-faeb-62d4-4d27-59745c4f5355.md)
-      - [CustomView Members](articles/09dae79a-9c56-48ad-e3b9-d2e058467233.md)
-      - [Properties](articles/f02bc8f9-46a7-40ea-abb8-939844265f2d.md)
+      
+      
         - [Application Property](articles/f4064b52-0629-60ca-162f-d6206373c08a.md)
         - [Creator Property](articles/cc98f447-aa59-e2ed-c516-558d877ef791.md)
         - [Name Property](articles/0ba0f790-3f08-7a8c-23ee-acf265f5f8af.md)
         - [Parent Property](articles/6851dc99-ef6f-e002-9e67-97bcafd5f2c0.md)
         - [PrintSettings Property](articles/6ad51940-134c-f522-42f3-3d94da2ac21c.md)
         - [RowColSettings Property](articles/66e946bf-2f72-b7f4-a3fc-dd1ace044ec8.md)
-      - [Methods](articles/4f9039f1-f766-44ce-a95b-fe9e1f613b9c.md)
+      
         - [Delete Method](articles/bcfdea3b-0d7e-8dd2-230a-d318f638945e.md)
         - [Show Method](articles/822d77c1-e7ab-2bd9-bec5-a7921f80f706.md)
     - [CustomViews Object](articles/f970bdf7-371b-ba41-89a3-bef2c6907f1a.md)
-      - [CustomViews Members](articles/694d7e53-a38b-e4c3-eb44-d35c758e1352.md)
-      - [Properties](articles/1958d8b0-e316-49bf-a4bd-ffd664ef7abe.md)
+      
+      
         - [Application Property](articles/ef0fb9aa-fad7-7480-0d59-eb374e0ef332.md)
         - [Count Property](articles/06cefdb0-c448-8d84-c5cf-34f311a76320.md)
         - [Creator Property](articles/c0d96d50-e126-09cc-3660-e2f0dc1fb566.md)
         - [Parent Property](articles/2e93a7f0-75ea-709b-d1ba-aaf49ff2a536.md)
-      - [Methods](articles/dbfce12e-9188-4932-b049-f3b97c360c39.md)
+      
         - [Add Method](articles/134d9969-048b-6a53-4f2c-cc83589c5a70.md)
         - [Item Method](articles/542a3838-c499-5aa1-735e-5fe0c9c852a1.md)
     - [Databar Object](articles/2684e913-c278-e6be-ba9d-053b6ad58bae.md)
-      - [Databar Members](articles/137f7e88-bb61-48a3-d2cb-76a8282cd62e.md)
-      - [Properties](articles/7f5d7390-eaa7-4d9e-9e21-dcfd15f9e8ab.md)
+      
+      
         - [Application Property](articles/903716c7-d550-f1e3-6fee-a503215923a2.md)
         - [AppliesTo Property](articles/e5538b96-5d7c-a345-587c-6c983921d0e7.md)
         - [AxisColor Property](articles/0c7dd109-001e-b5b7-69c8-c7a1e665e6ac.md)
@@ -1399,22 +1399,22 @@
         - [ShowValue Property](articles/d8a366b9-78c3-cdfa-27f5-f27082832828.md)
         - [StopIfTrue Property](articles/a484451c-903e-c3ef-fa68-29f6b9718990.md)
         - [Type Property](articles/f6e36b9f-3c34-9f23-2fe1-00788ed69d93.md)
-      - [Methods](articles/957b7c55-3b72-41de-9341-34b38e21d6a0.md)
+      
         - [Delete Method](articles/6f3a71f2-c6c3-875e-083a-ade8b415cd9d.md)
         - [ModifyAppliesToRange Method](articles/d1da8a48-3b62-c7ff-007b-f1629fa44ab7.md)
         - [SetFirstPriority Method](articles/73ec6aa8-dc0d-7f80-0975-fdf75bd9a0a2.md)
         - [SetLastPriority Method](articles/985b1225-6816-fe3b-e973-5fd90aa1fe47.md)
     - [DataBarBorder Object](articles/e46bb88b-ec41-a4f9-8926-34d0a22ad8e9.md)
-      - [DataBarBorder Members](articles/2bd30dd3-79ad-f227-c751-7890bd11528b.md)
-      - [Properties](articles/bc15e13b-5adf-4c91-8e97-d400fa259529.md)
+      
+      
         - [Application Property](articles/aac44b32-cbb0-c14a-ab3a-cb87692db215.md)
         - [Color Property](articles/a16439a9-c086-9c42-8496-9a16d9011689.md)
         - [Creator Property](articles/2d240406-f29b-6014-4cc0-06085c9573d8.md)
         - [Parent Property](articles/8938e80f-1d4c-f9d9-15a3-1eaee9807cc1.md)
         - [Type Property](articles/9364fadd-5dba-d8a2-a704-a4876173e4a2.md)
     - [DataFeedConnection Object](articles/2ccb242b-28d5-3baf-78be-aa8f7478f4b6.md)
-      - [DataFeedConnection Members](articles/33157c0b-c8d1-355f-8e72-3c7738ff67af.md)
-      - [Properties](articles/df1130d3-5ead-0e90-b996-67b1acc36860.md)
+      
+      
         - [AlwaysUseConnectionFile Property](articles/97fea940-2682-3d0d-cb49-4ad8a178ea4f.md)
         - [Application Property](articles/35fdc681-eb9e-cd3d-9e8f-712b5a6815f4.md)
         - [CommandText Property](articles/7bf52101-8aa5-b99b-deaa-1c64dea986df.md)
@@ -1431,13 +1431,13 @@
         - [ServerCredentialsMethod Property](articles/0c471a76-c9b4-5065-aa1e-6f9d8eb650af.md)
         - [SourceConnectionFile Property](articles/f532657e-1555-b86e-2e09-16b86f170f94.md)
         - [SourceDataFile Property](articles/d8776dd0-c370-6311-9118-74230956a37d.md)
-      - [Methods](articles/0826c7e3-8848-61ce-4347-ddfa63ca7e63.md)
+      
         - [CancelRefresh Method](articles/04f6dfb1-f1f3-5fd0-46c8-93fcd490f3b8.md)
         - [Refresh Method](articles/2df66a1c-cf77-30ed-be54-d9b7d6e58e8f.md)
         - [SaveAsODC Method](articles/e66ff66c-9b19-a479-0afa-4f7e307113ac.md)
     - [DataLabel Object](articles/bb342572-8761-b326-548a-98455172f9a8.md)
-      - [DataLabel Members](articles/176c4f7f-c6ef-c8cb-3983-6dd39435f793.md)
-      - [Properties](articles/8b1a85fc-1efa-4355-801d-276ddefed7c4.md)
+      
+      
         - [Application Property](articles/b29cf722-766d-fe18-1a77-ee86081674f4.md)
         - [AutoText Property](articles/a549b738-59fb-a096-c4e9-d8f00bc59239.md)
         - [Caption Property](articles/d67910da-d357-39c1-83f0-471eda2ee0fc.md)
@@ -1472,12 +1472,12 @@
         - [Top Property](articles/c777c9ec-69df-38d3-140e-dcea5a97ddeb.md)
         - [VerticalAlignment Property](articles/ba16b09a-368e-c561-e51e-da7492770972.md)
         - [Width Property](articles/88b6a854-cce5-c500-3395-55dea721fd0d.md)
-      - [Methods](articles/f6ba3b76-63d7-4fc2-9a4c-c838d259e07e.md)
+      
         - [Delete Method](articles/edf4ef78-c29f-6a8c-484b-36c286c46344.md)
         - [Select Method](articles/0e3e0020-12d1-d150-bd52-991dadebeb64.md)
     - [DataLabels Object](articles/3d79271e-c702-e785-6984-d838d060a8c5.md)
-      - [DataLabels Members](articles/3c9d909d-d090-b6ed-8a28-ba62c3459044.md)
-      - [Properties](articles/ca21ef55-cd1a-43b1-a66e-0f485f45706a.md)
+      
+      
         - [Application Property](articles/bce06e3c-8375-48cb-0873-9a8eeaecfe1e.md)
         - [AutoText Property](articles/3155a424-b25d-8f0c-f252-d371203f52fa.md)
         - [Count Property](articles/4838836f-d1b6-cdb5-47bf-0c7314d9d622.md)
@@ -1502,14 +1502,14 @@
         - [ShowSeriesName Property](articles/19fcea65-a796-3c02-f162-33b5cb03aad3.md)
         - [ShowValue Property](articles/e078ade5-d3d0-5b5c-8b40-667e69e38793.md)
         - [VerticalAlignment Property](articles/fac981a5-11a2-aef2-0f23-a163299c8a73.md)
-      - [Methods](articles/6881cfb3-d173-4b52-ac8b-e8a147e46d45.md)
+      
         - [Delete Method](articles/c643324c-10ef-8427-da3e-ce71a7143541.md)
         - [Item Method](articles/bc45ebcc-00f0-c253-0d68-002d8f20d750.md)
         - [Propagate Method](articles/cf81fe7c-fb9c-bcd5-bd29-aef898c9c265.md)
         - [Select Method](articles/8ba6763f-0d61-3e47-9876-5391c6509f5c.md)
     - [DataTable Object](articles/aca0850b-2e72-cde9-b751-633876e1df99.md)
-      - [DataTable Members](articles/5a46944b-e7e6-ac7c-6b95-736975a0a3eb.md)
-      - [Properties](articles/2123f7f3-e97a-4c32-922d-d4b3bce7b68f.md)
+      
+      
         - [Application Property](articles/0bc376d3-bf52-5b23-c737-60dc5b3bf899.md)
         - [Border Property](articles/ebc9e1f4-69cb-b230-8821-22331ad5c76c.md)
         - [Creator Property](articles/5a6faf28-485f-26e6-2f47-b0cd9275f261.md)
@@ -1520,12 +1520,12 @@
         - [HasBorderVertical Property](articles/166ad9ef-99c1-4e94-079c-4997aacc6e2d.md)
         - [Parent Property](articles/728127d2-ba6d-2317-3e2b-980b6f666282.md)
         - [ShowLegendKey Property](articles/e22275bb-f401-433e-4e1f-812a54cc60e8.md)
-      - [Methods](articles/8bf68927-982f-4a3d-8dd5-82d36ed01e8c.md)
+      
         - [Delete Method](articles/a5f3c5d3-6f8d-2a59-1329-9d6a1e2b528c.md)
         - [Select Method](articles/9b73df6f-1ec2-f616-3b10-20259267dc75.md)
     - [DefaultWebOptions Object](articles/5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd.md)
-      - [DefaultWebOptions Members](articles/52db1398-01d8-eba5-772f-2923fdc89f5b.md)
-      - [Properties](articles/a8177c8a-c5c1-4cd7-ba31-0d0981bb2662.md)
+      
+      
         - [AllowPNG Property](articles/b4cdab42-25ed-e313-ebf2-fc9abd68474b.md)
         - [AlwaysSaveInDefaultEncoding Property](articles/7da4191e-4502-0005-1577-ac9a872f9cfa.md)
         - [Application Property](articles/93260275-5e17-883e-58e2-b67ac0a7c5f5.md)
@@ -1549,31 +1549,31 @@
         - [UpdateLinksOnSave Property](articles/d2ae453f-8dc2-fe6c-a64c-574b22c781cd.md)
         - [UseLongFileNames Property](articles/b594ad04-866a-b811-338b-73d45352866b.md)
     - [Dialog Object](articles/adabcd3b-fc48-d314-3ae5-f1b2ba148383.md)
-      - [Dialog Members](articles/a9994c51-46e5-80d2-f54e-223d4cee5212.md)
-      - [Properties](articles/0e70902b-9b84-42bf-b892-e85707536f5f.md)
+      
+      
         - [Application Property](articles/34ebf57a-4d40-319e-817d-9727ae10b3a8.md)
         - [Creator Property](articles/d912fae1-0b08-ff00-ad84-eab8e8e88340.md)
         - [Parent Property](articles/12464db0-07df-f752-6000-3a46b01d2919.md)
-      - [Methods](articles/b7a9134d-4b5c-4378-bf07-fe20cd36dedb.md)
+      
         - [Show Method](articles/7c69ecc2-fdd5-c91b-1c66-e3099bd69cb7.md)
     - [Dialogs Object](articles/d1d54f0e-6057-92f5-4f4c-254c51e36040.md)
-      - [Dialogs Members](articles/15d5bbd8-798a-38b9-2071-b89b68437f9f.md)
-      - [Properties](articles/52da51e4-4d47-4ef9-9eaa-3835ea00e748.md)
+      
+      
         - [Application Property](articles/b6ff53d9-77c0-54a1-b867-19922ac8a3a2.md)
         - [Count Property](articles/aafcfb50-68fc-4e02-47d7-1317df4d343a.md)
         - [Creator Property](articles/4685d784-ba3f-6543-1e5e-dba7b6d6a088.md)
         - [Item Property](articles/f9200ca3-711b-92ee-81b2-7c9cf1d104af.md)
         - [Parent Property](articles/d0dca197-b5a8-4b4d-43da-29f804fc0461.md)
     - [DialogSheetView Object](articles/d468b3e8-c73e-d94a-0902-193f6983d893.md)
-      - [DialogSheetView Members](articles/2b47811b-5061-f8c9-9e66-c85eec953990.md)
-      - [Properties](articles/f72c88a4-c6ad-49f8-b05a-ec76a3fd67ce.md)
+      
+      
         - [Application Property](articles/4d4976fe-a2f2-c22f-38d6-e49215a7431f.md)
         - [Creator Property](articles/7118a311-7f47-f229-78a5-6b1fec2d7fd9.md)
         - [Parent Property](articles/bb749cec-fc61-9460-01bd-0a76a2184404.md)
         - [Sheet Property](articles/57a6cbc4-c603-281e-6738-e144fa8f429e.md)
     - [DisplayFormat Object](articles/c70b5d7f-adf1-e539-a32d-12c920af7c7e.md)
-      - [DisplayFormat Members](articles/fdcc9aec-9575-4530-059c-39559986b387.md)
-      - [Properties](articles/e55c83dc-9bf3-4319-bec9-daf4cf25acdc.md)
+      
+      
         - [AddIndent Property](articles/65574daf-b102-341b-9bac-43cf72c3b94c.md)
         - [Application Property](articles/ba7948d5-24cd-3525-186e-15df6843214e.md)
         - [Borders Property](articles/2768a8b7-b11f-fe44-5b2a-c47fb18c5a09.md)
@@ -1596,8 +1596,8 @@
         - [VerticalAlignment Property](articles/a3f78544-ad72-2314-a05a-3ba6136220cd.md)
         - [WrapText Property](articles/993b713c-5250-fb4a-89b3-40ccc7a0ce7f.md)
     - [DisplayUnitLabel Object](articles/522dea6a-114f-3e0f-f8ae-6c2667c733dd.md)
-      - [DisplayUnitLabel Members](articles/e436232b-ac1e-0f9f-60d5-527c4b2b50f2.md)
-      - [Properties](articles/f0cb8842-7843-4606-8fd3-66190ce626a8.md)
+      
+      
         - [Application Property](articles/d912a92f-ca52-10fc-86b3-a686fd0761ae.md)
         - [Caption Property](articles/55f8566f-1f6b-cfe5-3a4e-0be2ce9c8858.md)
         - [Characters Property](articles/a136b4c9-be4a-9b17-20f6-c8b694202e9e.md)
@@ -1620,43 +1620,43 @@
         - [Top Property](articles/2b9acdf7-15cc-c89a-414e-383af5247acf.md)
         - [VerticalAlignment Property](articles/5d6200cf-868c-ae65-c3d2-96a543f8fbce.md)
         - [Width Property](articles/092eb5e0-2f9f-9ea2-2fb0-759a781b771b.md)
-      - [Methods](articles/7fdc3404-4159-4590-b49c-ef5ac8bdb4a1.md)
+      
         - [Delete Method](articles/8f1200ad-ceba-c761-3abd-d2ac1ac1f4e2.md)
         - [Select Method](articles/1a17ffc9-9fd6-829d-2a11-b8b7ee5e28c2.md)
     - [DownBars Object](articles/23623e02-44c7-a6b2-e3a8-fffc4f7b3164.md)
-      - [DownBars Members](articles/0bd813b8-2213-ada2-5a3c-e9b96b67cea9.md)
-      - [Properties](articles/e84a3b1b-f6c9-424b-a285-7c1682ba19df.md)
+      
+      
         - [Application Property](articles/888bb560-9c2f-d09f-4537-9240804d9e0c.md)
         - [Creator Property](articles/157413a9-f3f7-8d98-294c-8580dfabdd2b.md)
         - [Format Property](articles/90092655-43b1-ce9c-8a33-3df80bbc8300.md)
         - [Name Property](articles/006d214f-4477-006c-4b4e-761e2bbf1a21.md)
         - [Parent Property](articles/04c8449e-0fc2-296d-1629-ab3e15168fe6.md)
-      - [Methods](articles/beb926b0-1af5-4bfa-93d2-641e7283a9a6.md)
+      
         - [Delete Method](articles/c9803782-d5e4-9d04-17c3-f20a04b2f994.md)
         - [Select Method](articles/c7b4ae03-9c7b-08cd-b279-638c6ac16d66.md)
     - [DropLines Object](articles/88fdf5f5-2842-2d68-a073-18d05fd2fa38.md)
-      - [DropLines Members](articles/e3e9c04b-c121-f308-ade5-d51b565682f5.md)
-      - [Properties](articles/0a3210b6-9e2a-464a-8ccb-66724ce5a796.md)
+      
+      
         - [Application Property](articles/3894d081-a447-594d-dcfe-3604a9e9554d.md)
         - [Border Property](articles/71eab7d9-d579-a00c-de9a-758af5cb64e4.md)
         - [Creator Property](articles/c1c7acab-e33b-ec58-6303-c31923c3f1fc.md)
         - [Format Property](articles/070e03c0-cdba-3b26-d790-e244688004fa.md)
         - [Name Property](articles/44f4ee52-a001-775f-619e-21199ce395a9.md)
         - [Parent Property](articles/9b6d3aba-4658-39b0-a2eb-b3f8b21d2355.md)
-      - [Methods](articles/33ae48b7-7cb9-479f-a987-0b5ba948c589.md)
+      
         - [Delete Method](articles/c02ab83f-498b-8358-b840-b369fb1b6c1b.md)
         - [Select Method](articles/94f3c126-285a-1564-e096-1f45a61802cb.md)
     - [Error Object](articles/bc8c4e3c-c831-58fd-c367-4246ad510ba9.md)
-      - [Error Members](articles/9be927f4-9a22-d1b8-68ab-f1a003d59bd6.md)
-      - [Properties](articles/ac32d823-5357-4543-a4fb-e0eacb760105.md)
+      
+      
         - [Application Property](articles/baa1fcf7-3919-cef5-b280-3c1d64cf3093.md)
         - [Creator Property](articles/88dd1cda-72a2-18bd-e6aa-83b5414767cd.md)
         - [Ignore Property](articles/2e1eea04-fa93-86ed-670a-23246dddfbfe.md)
         - [Parent Property](articles/507e5dd5-d19e-8b32-9f63-65632815c8f3.md)
         - [Value Property](articles/66a219d0-580d-899a-a19a-16145eddfa53.md)
     - [ErrorBars Object](articles/646de974-bf6f-99c8-20dd-9ca514b7a304.md)
-      - [ErrorBars Members](articles/f8eaf7ef-73b2-60ec-3661-2fbdd3e89c26.md)
-      - [Properties](articles/e64a3198-fb93-45d5-8b74-f750d1e06a19.md)
+      
+      
         - [Application Property](articles/8c1645af-92e0-7f64-2d58-a20f0f97d2e6.md)
         - [Border Property](articles/13fadbf3-92ce-23a3-f400-ae89203f3145.md)
         - [Creator Property](articles/8a54a5dd-a62d-e027-8c44-ba4f97ac425d.md)
@@ -1664,13 +1664,13 @@
         - [Format Property](articles/a403ece7-66aa-fadf-e7cf-22fe8f4c4d44.md)
         - [Name Property](articles/8ff0eff8-3d9d-e512-70a1-79a1640ec1ec.md)
         - [Parent Property](articles/90e3daf2-d87e-b7b7-923c-f8816317cf9d.md)
-      - [Methods](articles/c668b1a7-1e75-47bb-9aa7-89f891baa432.md)
+      
         - [ClearFormats Method](articles/0326bb43-0b1f-c32c-7ee4-8965bb26a889.md)
         - [Delete Method](articles/30764496-1311-da45-5d1d-6efe243dcd73.md)
         - [Select Method](articles/699994c5-e3b0-7eae-47c8-cac5bfab29af.md)
     - [ErrorCheckingOptions Object](articles/f62d3b08-a08f-d028-8e33-4bfd8799dc44.md)
-      - [ErrorCheckingOptions Members](articles/257ede5e-bbc2-2da7-d2e1-f62ff0f02512.md)
-      - [Properties](articles/63fec7cd-7be4-4f0d-a2cd-1b3b42692192.md)
+      
+      
         - [Application Property](articles/33ce949d-a962-e742-2fbe-43dceb2c8082.md)
         - [BackgroundChecking Property](articles/427b3b32-c099-dc71-1255-7f73805a4db8.md)
         - [Creator Property](articles/cd236dd2-b53d-ac3e-2010-0ae845c9361e.md)
@@ -1686,15 +1686,15 @@
         - [TextDate Property](articles/eb251a44-4dac-01e5-1d01-b4e8bd71e8e2.md)
         - [UnlockedFormulaCells Property](articles/0b7c038d-41d8-aeb8-3e15-3105d6e65c02.md)
     - [Errors Object](articles/d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a.md)
-      - [Errors Members](articles/0f601644-7675-bd01-b085-b7d31dd9c86d.md)
-      - [Properties](articles/0698b0a4-7a6b-45fb-a84c-c72fac83a564.md)
+      
+      
         - [Application Property](articles/8cb54788-e12d-b87c-fe17-554020fee5f5.md)
         - [Creator Property](articles/0bd8ce78-0ab3-f046-2497-7a537ca9d50c.md)
         - [Item Property](articles/e7182924-48cb-d97d-93b4-b4f53542013e.md)
         - [Parent Property](articles/a91f44c8-2d9b-27ec-3f0e-5edc3dfd3cde.md)
     - [FileExportConverter Object](articles/299f018e-0dfa-c101-7538-4a285918ac20.md)
-      - [FileExportConverter Members](articles/f1ba5cfe-99f8-c6f7-c8c8-f4122d8cde6b.md)
-      - [Properties](articles/2ae3d122-0376-4d42-a8bf-65327689f4bc.md)
+      
+      
         - [Application Property](articles/e8f75f30-03e8-da01-e812-9d04e2dd12e8.md)
         - [Creator Property](articles/f008a8c9-89a6-a0a9-4f26-acffdde29e6a.md)
         - [Description Property](articles/b2bc70da-550b-9286-b534-315ba0916c85.md)
@@ -1702,16 +1702,16 @@
         - [FileFormat Property](articles/cdf0a922-ae9e-76b1-c8e5-228298920373.md)
         - [Parent Property](articles/a8dd4d58-b5b3-125e-decb-49d2e169b6af.md)
     - [FileExportConverters Object](articles/f4b0500e-308a-42e7-a9eb-4a511b8ca754.md)
-      - [FileExportConverters Members](articles/917273f1-ec63-7cfd-4aaf-15e5b4f0f956.md)
-      - [Properties](articles/8b234c71-f2d6-47e7-a3ee-51e5f7ace4ff.md)
+      
+      
         - [Application Property](articles/5f8343b4-40d8-1129-237f-e778ef68cc20.md)
         - [Count Property](articles/b1c0d01d-104f-b92d-55c8-4bce5d96d097.md)
         - [Creator Property](articles/7310b103-9216-a684-f442-7fd81944b3f5.md)
         - [Item Property](articles/02df282d-70c2-bcae-bb68-78f07f41c8df.md)
         - [Parent Property](articles/eb03263e-67b1-cbb7-7898-db7fe5d46f5c.md)
     - [FillFormat Object](articles/b602e09e-97ab-bfbe-1796-bc44ebb7dc28.md)
-      - [FillFormat Members](articles/da1a1680-4b9d-c6fb-6562-bf1ec9f57921.md)
-      - [Properties](articles/129ebf2a-9dbc-4904-80c6-580ce392944b.md)
+      
+      
         - [Application Property](articles/845678ab-b55a-9d69-2d18-64b085d221f8.md)
         - [BackColor Property](articles/2837c06d-5297-4de8-5e81-18515e3d321e.md)
         - [Creator Property](articles/f4e02d6c-49b7-d837-c090-096975d8efb1.md)
@@ -1739,7 +1739,7 @@
         - [Transparency Property](articles/60d34c04-09ac-03f7-9144-c4e165ee0511.md)
         - [Type Property](articles/6542e486-e461-7b1d-fb2c-213bae93b279.md)
         - [Visible Property](articles/fbe348c5-18a9-4a67-096a-6e6d9f6253c8.md)
-      - [Methods](articles/2baa4ac9-e5cf-4bb6-a76f-472883f61500.md)
+      
         - [OneColorGradient Method](articles/dc44ddab-7aee-acd9-1008-1a9bbae13829.md)
         - [Patterned Method](articles/661426fa-ede7-8f15-29ed-42c283e50799.md)
         - [PresetGradient Method](articles/0bcebb14-7f39-d20c-6701-76355c212f99.md)
@@ -1749,8 +1749,8 @@
         - [UserPicture Method](articles/2096768a-7836-8445-c959-73cf3672fd32.md)
         - [UserTextured Method](articles/8c8e7569-50e9-fec5-9c0e-195b26f9394c.md)
     - [Filter Object](articles/950023f9-a984-01fa-aa77-947cbbff0433.md)
-      - [Filter Members](articles/b0b547af-04f2-6fff-1026-3850c369099a.md)
-      - [Properties](articles/d6640b12-6367-43d0-98a7-7fc8f71771ba.md)
+      
+      
         - [Application Property](articles/92bb8fa0-ba2a-1dd5-c497-8e4a6d351365.md)
         - [Count Property](articles/873bd62a-85a1-32d5-92b9-6959499d57e9.md)
         - [Creator Property](articles/648b0917-011b-ec4f-4a7a-7a56b070a8cd.md)
@@ -1760,16 +1760,16 @@
         - [Operator Property](articles/98f56294-f36b-3766-5a4c-b416f2f85399.md)
         - [Parent Property](articles/49838d47-55f8-6239-2fe3-735b1a97eb7e.md)
     - [Filters Object](articles/a714ed69-7772-5ade-3acd-f3e3d98db62c.md)
-      - [Filters Members](articles/af1d5012-b858-433f-9893-6e6b5bd19058.md)
-      - [Properties](articles/f737e673-d164-4ae4-bf9b-97305f24be20.md)
+      
+      
         - [Application Property](articles/3cc9e318-4ede-d440-482a-430ca5d53893.md)
         - [Count Property](articles/80e03bad-910c-611a-5d79-974bd30f7d0f.md)
         - [Creator Property](articles/be1e6017-4b86-97e7-ae74-76eecd8abe30.md)
         - [Item Property](articles/a24c9aeb-b253-c11a-29dc-c4a2bba86e21.md)
         - [Parent Property](articles/f3f066af-8fbb-79a6-ee0b-d2e524754c7c.md)
     - [Floor Object](articles/74c71ca8-a0d4-f7cf-a002-5cec7a27b70d.md)
-      - [Floor Members](articles/5c7d66cd-062f-109e-a389-d566cef80c19.md)
-      - [Properties](articles/cac88ff4-338b-4f86-a548-b8cac1e9ffe7.md)
+      
+      
         - [Application Property](articles/a700b313-c760-5626-aecf-2e06d6904152.md)
         - [Creator Property](articles/04cfbb36-51f5-a1d1-0f22-a1ecf9be682e.md)
         - [Format Property](articles/2ddc845b-786d-249e-2d58-fead2c9b53a2.md)
@@ -1777,13 +1777,13 @@
         - [Parent Property](articles/f9bd1657-b572-fda5-34d4-50366321c478.md)
         - [PictureType Property](articles/73ddeb38-15b6-1da3-8059-42153a73c118.md)
         - [Thickness Property](articles/96d1e08c-0b1b-7e0b-12b0-a9db33e08ac3.md)
-      - [Methods](articles/a1ab88a7-4421-43d0-965a-ccbaedcaf962.md)
+      
         - [ClearFormats Method](articles/4f364e5e-d2fe-1a48-f7c7-437d5818ea43.md)
         - [Paste Method](articles/9c6d58af-695c-e88a-4d98-e2735e490f02.md)
         - [Select Method](articles/53e8a6da-d198-af5d-596e-507c8eacda18.md)
     - [Font Object](articles/f4788ba4-1c4c-2f03-4d73-194bc9316825.md)
-      - [Font Members](articles/537d89ae-59c5-0420-029a-32a2c385f02c.md)
-      - [Properties](articles/92d8dfc6-9555-419f-bf55-64ef43219d3f.md)
+      
+      
         - [Application Property](articles/949f0d37-9867-5cca-8d51-95ed93eb950b.md)
         - [Background Property](articles/af7407c4-655a-5db7-abb2-6932675971d2.md)
         - [Bold Property](articles/7343989f-f973-0b1d-e595-c625ef2e0c15.md)
@@ -1803,8 +1803,8 @@
         - [TintAndShade Property](articles/0b890357-fb55-ac43-ecf0-f7d84ce0f248.md)
         - [Underline Property](articles/81a2bdd2-bebd-b3ca-e0c3-6dd55280fcc0.md)
     - [FormatColor Object](articles/b7818b27-8790-ef52-c24e-8edbdcf979f2.md)
-      - [FormatColor Members](articles/4e3d955c-f9da-e83a-70dc-8ce7efa81cfb.md)
-      - [Properties](articles/b6f858db-98d2-4ce1-ab99-103dd0c30c3b.md)
+      
+      
         - [Application Property](articles/e18c38ac-4d08-3350-6ba7-62d959d1c31a.md)
         - [Color Property](articles/c084cdbc-068c-bd0c-2f35-987964286be2.md)
         - [ColorIndex Property](articles/ac930c75-5440-9a0b-8ef8-b14bc7a8d597.md)
@@ -1813,8 +1813,8 @@
         - [ThemeColor Property](articles/5e4750b3-14a3-ca31-ef61-1be32be3ef38.md)
         - [TintAndShade Property](articles/540f55af-1bb2-e193-18d6-1821426cdf1f.md)
     - [FormatCondition Object](articles/38a2bca9-9b28-3ef2-8c7a-4d35a27229ec.md)
-      - [FormatCondition Members](articles/8f4bebce-0bf4-03de-62f0-4454ea699c5f.md)
-      - [Properties](articles/84f9f528-2c35-4eae-88a4-874ea81bad27.md)
+      
+      
         - [Application Property](articles/49f03bb5-b4cb-fbbb-0a70-25e4c1e6dc7c.md)
         - [AppliesTo Property](articles/d8a5363c-d0b7-fc26-dcff-16a3b561474d.md)
         - [Borders Property](articles/2f165a74-0b95-6643-5bd2-6a778523a411.md)
@@ -1834,20 +1834,20 @@
         - [Text Property](articles/18196ab3-0656-e122-359e-b5db8961f1cd.md)
         - [TextOperator Property](articles/4bc198c9-7895-2f3d-67c1-0d71f0119e9a.md)
         - [Type Property](articles/f14387e0-821f-216b-a884-83a23c78b320.md)
-      - [Methods](articles/d9b868ca-da2a-4dd7-9633-bde455041251.md)
+      
         - [Delete Method](articles/37bc4259-9b1a-adda-5839-a19972011ec2.md)
         - [Modify Method](articles/a0dec05c-898d-87c9-9413-9182d31f6ed0.md)
         - [ModifyAppliesToRange Method](articles/a5d3566c-3b2a-5df1-b174-4cdc0ec1f1ab.md)
         - [SetFirstPriority Method](articles/53870387-996e-48e3-5159-7d5bb4614bcf.md)
         - [SetLastPriority Method](articles/fd6263a1-e67f-f4e8-2423-1601f73bdd5c.md)
     - [FormatConditions Object](articles/2486d4b4-605c-76d8-132a-694c0c600a81.md)
-      - [FormatConditions Members](articles/0e5a3774-fe65-597f-9b97-3bba637b55cc.md)
-      - [Properties](articles/6eb119e8-d6bf-400e-a230-6f8050f4b421.md)
+      
+      
         - [Application Property](articles/22ac56ea-bd8b-6482-c669-08630bc69031.md)
         - [Count Property](articles/debca7e6-3dac-a54e-6656-ea7001f3dbdf.md)
         - [Creator Property](articles/c828685a-91a9-d70d-a8e6-33da541f1ae9.md)
         - [Parent Property](articles/6c550438-23b1-82f4-9459-41badddd5247.md)
-      - [Methods](articles/68cd30d6-b11b-4c9c-af58-daca1b0c66bc.md)
+      
         - [Add Method](articles/705f9ad4-2500-6607-19c0-6abd3f214d3e.md)
         - [AddAboveAverage Method](articles/d5cf96ed-4af7-0be3-62e4-b966db21dfb6.md)
         - [AddColorScale Method](articles/f1b23e2f-0c62-fdc5-597b-a8a444d5a4a3.md)
@@ -1858,26 +1858,26 @@
         - [Delete Method](articles/d805b61f-13de-4381-b9e4-97603a3c9da3.md)
         - [Item Method](articles/62b8bef8-94ae-5cfa-0af7-bd6a311f9cb2.md)
     - [FreeformBuilder Object](articles/91c779ac-69bc-3b68-8ecb-1f9cc8e5b20e.md)
-      - [FreeformBuilder Members](articles/025d724f-3984-eaa3-751b-2e6814d3499f.md)
-      - [Properties](articles/c6817228-9997-422c-a927-379e6c660e02.md)
+      
+      
         - [Application Property](articles/93f50afc-c753-1612-21d6-e7317ea9c150.md)
         - [Creator Property](articles/c8c85faf-83b8-1c09-b199-e711b9f3f5b4.md)
         - [Parent Property](articles/0d1e9d6c-2c2f-e373-4a8d-3c1dbb2b8dc8.md)
-      - [Methods](articles/82cf90be-fdf7-4adb-bcea-e13a286fc484.md)
+      
         - [AddNodes Method](articles/8fff188d-1c47-87f0-8388-2b12534e82c2.md)
         - [ConvertToShape Method](articles/2084277d-7e6a-5675-8e46-17522c3228eb.md)
     - [FullSeriesCollection Object](articles/5d7b7e7c-0a74-307b-84f9-56143ceba464.md)
-      - [FullSeriesCollection Members](articles/18060b3a-f25c-fa99-d3f3-dd59f7928465.md)
-      - [Properties](articles/78d48f0a-5342-ca8c-8314-a74c7fbca192.md)
+      
+      
         - [Application Property](articles/52dfb5aa-c6fb-201c-c1ed-880aff1efb45.md)
         - [Count Property](articles/f871c6fd-6acb-015d-4745-d5b46af7085d.md)
         - [Creator Property](articles/2a4a9549-0288-3b80-5bcb-f6c15416fb87.md)
         - [Parent Property](articles/03e62790-2f46-c4fa-7f2b-3438781e4aa5.md)
-      - [Methods](articles/284d98a1-271a-d1ea-08ff-38215416d837.md)
+      
         - [Item Method](articles/a9d511cd-5b76-e560-527f-e0af6ab68c3b.md)
     - [Graphic Object](articles/0ccdfb0d-effb-9fa4-8de9-b90688693375.md)
-      - [Graphic Members](articles/c523b66f-3c54-4e97-0e05-80032819d234.md)
-      - [Properties](articles/7abd909d-061a-43f1-9226-361ac9f32cfb.md)
+      
+      
         - [Application Property](articles/9d8eb663-9f14-331f-60ab-bee49651940b.md)
         - [Brightness Property](articles/42776335-6992-b37d-39a8-4a388b56da3e.md)
         - [ColorType Property](articles/a1cc3739-4398-caf0-7970-f114190e66cb.md)
@@ -1893,69 +1893,69 @@
         - [Parent Property](articles/b3592a6c-e7e3-a95a-9b7b-393c35dbba76.md)
         - [Width Property](articles/91558084-6eea-112f-b660-df353f9e893f.md)
     - [Gridlines Object](articles/8a096f01-808f-5708-8da5-5667a5f4080d.md)
-      - [Gridlines Members](articles/f196690a-9c78-e8fc-2a3e-64b54d9175fb.md)
-      - [Properties](articles/e6f3b3f9-6b87-4ac8-8564-d6a18da96124.md)
+      
+      
         - [Application Property](articles/083bedb3-6122-a23e-c718-aad001e1946d.md)
         - [Border Property](articles/4acc2605-a74f-0e8a-4e44-c43f71103a2f.md)
         - [Creator Property](articles/095a985e-3823-a483-59d5-82afd93f5a5e.md)
         - [Format Property](articles/55fc27a4-2a88-eaf8-acb3-cc4f2ad78cf7.md)
         - [Name Property](articles/4c283803-cc92-dfa0-a443-c1ee66769d74.md)
         - [Parent Property](articles/78d616e6-0eb1-3a9a-31b0-ce368df620a2.md)
-      - [Methods](articles/aca66dd9-f636-4276-93e7-c56b5ea63f22.md)
+      
         - [Delete Method](articles/8c9a3ef3-c99c-05be-0503-27469d44623e.md)
         - [Select Method](articles/186e7b88-99ee-6afa-23ab-864be0471ef1.md)
     - [GroupShapes Object](articles/252d35da-9ab4-97f4-1e00-48ccfc003534.md)
-      - [GroupShapes Members](articles/cce51f4a-3915-072a-adbb-4fc3a7827c53.md)
-      - [Properties](articles/14c564f5-7086-49ab-a744-50000ade948a.md)
+      
+      
         - [Application Property](articles/0aefa794-07b9-5a8d-2780-2c2c2f0bb246.md)
         - [Count Property](articles/b2a13491-1633-85fa-afb2-b8091815d047.md)
         - [Creator Property](articles/b93ba7af-2a53-591e-18b5-3eb645a96f7a.md)
         - [Parent Property](articles/a72b8597-172f-5a91-bf6f-b09f6618fa47.md)
         - [Range Property](articles/b02b1915-2cd2-353b-0243-a5d60470e897.md)
-      - [Methods](articles/435842b7-689d-417d-bbbe-f34e18f1ea59.md)
+      
         - [Item Method](articles/2f664b81-d870-7936-6dff-0eef163c2e03.md)
     - [HeaderFooter Object](articles/75c654df-d3f9-8448-8a7e-a0487ca0d1ab.md)
-      - [HeaderFooter Members](articles/57017903-2dca-d712-ee2b-f8a2d037f3c2.md)
-      - [Properties](articles/0ef65bda-ee2c-43c6-a1b3-3de105b546af.md)
+      
+      
         - [Picture Property](articles/53a27cb0-510e-1893-a759-d8cd976d35a3.md)
         - [Text Property](articles/3f9c69b4-3746-68a8-d765-d03cccaeb106.md)
     - [HiLoLines Object](articles/3248f878-4be9-acbd-3515-70f8255b4d69.md)
-      - [HiLoLines Members](articles/ebd52879-1bc8-4194-795c-2a870d0595e7.md)
-      - [Properties](articles/0cf20c36-d67b-4f5b-9266-ab3481c8ca8e.md)
+      
+      
         - [Application Property](articles/4c196015-a734-5e93-2863-e4d8964557a4.md)
         - [Border Property](articles/debd41a7-b43d-a6d6-e843-fb6f8cf57a72.md)
         - [Creator Property](articles/d3bf194a-a25b-ad11-5614-0c8a34c6cf68.md)
         - [Format Property](articles/a317a001-b6a4-77a9-7694-2247d87a4e1c.md)
         - [Name Property](articles/4320940d-2f2f-7e07-63b2-7102f724117d.md)
         - [Parent Property](articles/273d502d-bdd2-a011-973d-248eed982e4b.md)
-      - [Methods](articles/e794d653-18d7-441a-9a75-9c3e8acb0da0.md)
+      
         - [Delete Method](articles/c35ec177-37dc-692c-d7d6-0ea3ccd6841d.md)
         - [Select Method](articles/147f4557-b486-01ba-ebea-1da5a99c51c8.md)
     - [HPageBreak Object](articles/8fc96958-33ab-8251-f627-4769b5eab97f.md)
-      - [HPageBreak Members](articles/32b561ff-a0cf-142b-0a46-c622a42b6125.md)
-      - [Properties](articles/13e8d40f-e684-4889-aa7e-216400de66e7.md)
+      
+      
         - [Application Property](articles/d0a1b77f-f5b9-7cdf-cbf4-25b59d86ace7.md)
         - [Creator Property](articles/4cefce48-34ee-40a4-0a0c-d3dade1cb065.md)
         - [Extent Property](articles/07dc69ce-f46e-0b0d-412c-d22a9dbf5050.md)
         - [Location Property](articles/7f0ce2ba-21e6-4dc9-8957-ade679aeeabb.md)
         - [Parent Property](articles/76a50c18-50fe-029c-7541-9db6586174ef.md)
         - [Type Property](articles/89e57427-f319-e14d-16dc-04048c7cce35.md)
-      - [Methods](articles/1e8cceda-effd-4199-b58e-6a63246e465b.md)
+      
         - [Delete Method](articles/27eaaae7-ddc7-a663-b577-b1554a25b5e6.md)
         - [DragOff Method](articles/80065224-c53d-3f45-8d94-c644502dac22.md)
     - [HPageBreaks Object](articles/087106a7-ded7-d672-095d-98e7012fa440.md)
-      - [HPageBreaks Members](articles/d3efbf42-ac9a-976b-011f-7836a41e42ed.md)
-      - [Properties](articles/c0396787-f90c-427d-a0ec-7f3b60787949.md)
+      
+      
         - [Application Property](articles/a3516361-fda0-e2e3-f634-c70ee5e8f49c.md)
         - [Count Property](articles/f5fb8c32-6a2f-89cc-76dc-444ee9bfe9ab.md)
         - [Creator Property](articles/9f783dd5-fd32-2360-642b-40c781f48cbe.md)
         - [Item Property](articles/2c216336-ed46-382b-e408-3de708afb3c3.md)
         - [Parent Property](articles/5f130cc0-520c-360b-a9e9-6d6eb8f5aecb.md)
-      - [Methods](articles/0a2681dd-ea72-4dc2-b663-9054cd277ae4.md)
+      
         - [Add Method](articles/58aabcbf-7a9f-96a5-c91e-7311e397cffe.md)
     - [Hyperlink Object](articles/8bdd2c2f-e6eb-a2f2-78c8-b597aa80ec05.md)
-      - [Hyperlink Members](articles/b0566d1c-404f-b79e-7770-e7189a1c817a.md)
-      - [Properties](articles/d15faf57-d92e-44b0-9a42-173321601d45.md)
+      
+      
         - [Address Property](articles/d1f2bc15-cd85-dc0b-7134-61b5aa2a9a87.md)
         - [Application Property](articles/14b44cb6-712b-23a0-c215-ef624b83d38b.md)
         - [Creator Property](articles/f944b677-ac58-77ca-7546-2fbfc04233ae.md)
@@ -1968,45 +1968,45 @@
         - [SubAddress Property](articles/e83633c1-66b7-02f1-0e05-0397dc4f41ae.md)
         - [TextToDisplay Property](articles/b7b8e4ef-2a37-1733-f9a0-2bd6e7367f8d.md)
         - [Type Property](articles/e916a04a-2316-586a-6d62-e8312089f7ad.md)
-      - [Methods](articles/bb4cf196-2183-4289-81c2-f2ea7bc65253.md)
+      
         - [AddToFavorites Method](articles/ac234164-9c20-451d-1146-199e44d07a87.md)
         - [CreateNewDocument Method](articles/902914b7-08ea-0839-13e1-8fc7e7192675.md)
         - [Delete Method](articles/434d5963-7099-0ec4-0ab9-88c91d793eee.md)
         - [Follow Method](articles/cdf02d4c-9987-eaed-061b-0f3813d4204b.md)
     - [Hyperlinks Object](articles/de28e0af-7a4c-56c3-5fe5-ac47d1654628.md)
-      - [Hyperlinks Members](articles/ab074196-6a61-66da-4cc1-839d690fef99.md)
-      - [Properties](articles/b3f6494b-922e-475b-af76-83ba7881e057.md)
+      
+      
         - [Application Property](articles/de44c501-bbf6-0af0-1f67-5a486b38a863.md)
         - [Count Property](articles/e3f58f84-9f15-dd33-9561-04d334c368ed.md)
         - [Creator Property](articles/cba56d55-0e00-ce21-932b-e7520c50c002.md)
         - [Item Property](articles/c3650cd1-1788-549a-e203-4d7bd6f049c2.md)
         - [Parent Property](articles/75a2323c-1b57-c3a4-85be-54d3a76433f4.md)
-      - [Methods](articles/e6b6f4d8-fbd9-4521-89a3-ea559d6b2b71.md)
+      
         - [Add Method](articles/6b1299b1-c204-f0f1-c328-768c8efdb0cd.md)
         - [Delete Method](articles/6875e532-a1af-2080-f80e-89d651294db0.md)
     - [Icon Object](articles/99dd63ab-2981-aab7-cfe8-7e47fe911281.md)
-      - [Icon Members](articles/e040e212-f369-dff7-c43b-1780f42e878b.md)
-      - [Properties](articles/81ac4e7e-b77d-4728-b3c3-5af559280aa5.md)
+      
+      
         - [Application Property](articles/c8d2f518-8c3d-393c-6364-04ea34cbfa41.md)
         - [Creator Property](articles/5cdaa402-b79a-735e-0413-b48fb037b510.md)
         - [Index Property](articles/86e426f8-78bd-fb9d-ad33-149e1cf39001.md)
         - [Parent Property](articles/e7dc32a0-8cb2-d56b-e75b-bdf2c10cf846.md)
     - [IconCriteria Object](articles/c3b0480a-6def-c315-32ed-137b64708810.md)
-      - [IconCriteria Members](articles/edc1673e-df21-35a0-ce1b-ac0eb0cba126.md)
-      - [Properties](articles/411f507f-0f67-47e1-83f4-ce712cd4084a.md)
+      
+      
         - [Count Property](articles/1a4db597-70fa-b12a-4755-7cb71009d8a8.md)
         - [Item Property](articles/82ed280b-e89e-f75d-246a-cacb57f2b4b2.md)
     - [IconCriterion Object](articles/3517d900-4d84-2ded-ccb1-a3d78d3f6c09.md)
-      - [IconCriterion Members](articles/9d7bd403-f037-ba4e-c2db-ec19d64d9315.md)
-      - [Properties](articles/a4ddcac7-d5f3-4823-ac16-70aa0295bb29.md)
+      
+      
         - [Icon Property](articles/bcf25274-2dbb-535d-404c-0eec0f312a15.md)
         - [Index Property](articles/84eba77a-4772-c041-ad11-dee5b3cdc312.md)
         - [Operator Property](articles/8c6cb2ee-5ff7-8119-028d-c95505524705.md)
         - [Type Property](articles/bbe75bbb-42d1-7b71-7a7a-7c51e8c47cbc.md)
         - [Value Property](articles/5cb72b0b-1df2-dd47-932f-1454fda9f804.md)
     - [IconSet Object](articles/d6b407cf-424e-529a-ee83-0b0b09598b53.md)
-      - [IconSet Members](articles/2614b2c7-0914-f804-9741-2c382a8258c8.md)
-      - [Properties](articles/117c55ea-70c4-4cde-a967-1c2749c3f34e.md)
+      
+      
         - [Application Property](articles/8aa21f1c-afdf-0ceb-d71e-5b699613665f.md)
         - [Count Property](articles/68ec72cf-855e-37c1-e9a6-e5eb70ecc4a8.md)
         - [Creator Property](articles/32801791-c2d6-04d2-e93d-b6583728ced8.md)
@@ -2014,8 +2014,8 @@
         - [Item Property](articles/4208ddeb-dedb-3d96-c705-adddfcd9a2fe.md)
         - [Parent Property](articles/2bd54b76-c705-f833-3204-859fc779f83c.md)
     - [IconSetCondition Object](articles/e3c4ef69-4d95-87c9-5059-805775288e24.md)
-      - [IconSetCondition Members](articles/5ea20648-be46-7b8b-be31-368fc98329ab.md)
-      - [Properties](articles/a8c1a7d5-43f7-43b0-862a-6b38f687d647.md)
+      
+      
         - [Application Property](articles/a61b039d-9b67-994b-4e00-f7b8a34a63e1.md)
         - [AppliesTo Property](articles/f8a3b01b-8b4f-124c-6eb7-060625ef6e70.md)
         - [Creator Property](articles/1d8441b4-b8df-9fe1-60f4-a3da1c9b2e57.md)
@@ -2031,22 +2031,22 @@
         - [ShowIconOnly Property](articles/4613f7ae-8282-755f-4a1c-fd6b01de0141.md)
         - [StopIfTrue Property](articles/82032e96-74d2-2864-af29-a04d052bb43c.md)
         - [Type Property](articles/d29e1e46-4ae7-15ed-c998-ec241072e540.md)
-      - [Methods](articles/5aaa5711-75a3-4a2b-b3ef-d63f1a76c915.md)
+      
         - [Delete Method](articles/cd9d4874-8d2c-3423-2264-95b335078c2f.md)
         - [ModifyAppliesToRange Method](articles/89f13781-2641-4cba-061b-cc82b479b6df.md)
         - [SetFirstPriority Method](articles/9d37baef-3e0d-95fa-a251-d60f20830625.md)
         - [SetLastPriority Method](articles/b1003681-b5ac-85ab-dd9c-8a13685694d6.md)
     - [IconSets Object](articles/2197741e-8139-0098-d194-610fa28fa6c8.md)
-      - [IconSets Members](articles/c752bd83-a4a8-a5b3-497e-4d320e433d4a.md)
-      - [Properties](articles/62a64d1d-33a7-44a1-b419-ad49678c3c37.md)
+      
+      
         - [Application Property](articles/d5a7decb-3ce7-78e8-0acf-dc7af7950829.md)
         - [Count Property](articles/33e0e6d6-ce72-bc09-a4ff-1097956f0532.md)
         - [Creator Property](articles/e46acfe1-71f0-3a10-92d9-dd1ab3aa5569.md)
         - [Item Property](articles/79c0d577-f988-31c1-7a29-95f5d924cbc4.md)
         - [Parent Property](articles/b08b8865-ca89-f957-0e1e-c73c67987ede.md)
     - [Interior Object](articles/37c79831-2cac-69fd-10ee-6d5415ed338b.md)
-      - [Interior Members](articles/d79ff9a6-fa56-8b0f-9a89-d54dbba57346.md)
-      - [Properties](articles/0aaf2ba5-df56-4cfd-a279-56bc6bcf1cb4.md)
+      
+      
         - [Application Property](articles/d278fe57-7082-131d-6f14-34def9fd1838.md)
         - [Color Property](articles/eb19fc67-51b8-d6f0-d6e3-a02e3a90b4e1.md)
         - [ColorIndex Property](articles/6d1a5bc9-7157-61e0-1e1d-b44974002c78.md)
@@ -2062,8 +2062,8 @@
         - [ThemeColor Property](articles/52c0f8a9-2cfb-1fb9-4949-dcc031ac78d8.md)
         - [TintAndShade Property](articles/45b12e93-1a6d-b5a3-b31d-4b41d87f3f73.md)
     - [IRtdServer Object](articles/6a85aa64-9514-74bb-3c63-141275f1b671.md)
-      - [IRtdServer Members](articles/90baa971-8dc0-b4b9-77c4-72530f1aaf21.md)
-      - [Methods](articles/80579a8a-bd93-4aa4-bd2a-8d36fc972928.md)
+      
+      
         - [ConnectData Method](articles/2d660ccc-fca7-c794-61f1-4e0578cc7511.md)
         - [DisconnectData Method](articles/139d6f10-474b-3704-660c-19208be4d737.md)
         - [Heartbeat Method](articles/9dc61d35-30cb-fcbe-6aaf-acb2df61d535.md)
@@ -2071,26 +2071,26 @@
         - [ServerStart Method](articles/5154105a-3618-fc8a-30b4-834f31c45023.md)
         - [ServerTerminate Method](articles/56b619f9-98c1-e15b-b327-941632afa574.md)
     - [IRTDUpdateEvent Object](articles/8ac58d69-194b-e35a-44bc-7c0994b296ac.md)
-      - [IRTDUpdateEvent Members](articles/d28d0153-8a26-618a-2384-d81552362cb7.md)
-      - [Properties](articles/292c9b2f-2f74-4b17-9137-8dd1f252d89e.md)
+      
+      
         - [HeartbeatInterval Property](articles/45a3df85-59c1-fedb-e94b-8f011601fc72.md)
-      - [Methods](articles/7658fc32-1d41-4baf-b311-4b8b60c4b70a.md)
+      
         - [Disconnect Method](articles/4d0c5438-5049-3b34-69d4-38dabd625b1f.md)
         - [UpdateNotify Method](articles/e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77.md)
     - [LeaderLines Object](articles/ff4954f1-6967-9dd8-c9d6-8927d079e995.md)
-      - [LeaderLines Members](articles/5e6f9149-8ceb-4a18-d964-a1a06fe2ee8d.md)
-      - [Properties](articles/e43ba5f1-7117-4deb-bf6a-816a9dfbb375.md)
+      
+      
         - [Application Property](articles/a7e022ef-35af-5787-2264-40392f3a6eb7.md)
         - [Border Property](articles/9f8eea5d-0885-c2d8-8c52-179e9aa4299f.md)
         - [Creator Property](articles/6b2769a0-b54d-e75d-2ada-aa220809e238.md)
         - [Format Property](articles/1e28cb7a-9256-7854-564a-5b15fbfd6596.md)
         - [Parent Property](articles/ad43b787-ecf3-fcf7-9079-4de99b1c9d2e.md)
-      - [Methods](articles/ab04ea82-cc66-469e-8bbb-63ff38822db3.md)
+      
         - [Delete Method](articles/57b6cb0c-f0fe-70b7-4958-cfdfd20ee059.md)
         - [Select Method](articles/727367f3-08de-12f7-650a-3e93d9ff3a9e.md)
     - [Legend Object](articles/9be53984-bc9c-f964-9ab3-be52d3699bd9.md)
-      - [Legend Members](articles/3b5e8714-67b8-9b58-f4c6-61f2b763ee00.md)
-      - [Properties](articles/a7d6196d-0461-4791-8c8f-a6078acbc4bd.md)
+      
+      
         - [Application Property](articles/ced7136a-7f18-2024-d40c-61fdca244949.md)
         - [Creator Property](articles/44976293-1229-e226-0b59-27563c59f6ae.md)
         - [Format Property](articles/ecaddfd4-0ce1-7fbc-0a61-6534e4bc413c.md)
@@ -2103,23 +2103,23 @@
         - [Shadow Property](articles/e368bdb3-a2f5-e5fa-e35a-9223b5658b08.md)
         - [Top Property](articles/2b7a4ab2-8147-6c40-4a92-9bde7885af9f.md)
         - [Width Property](articles/267e2f8f-5299-15d9-65e2-886e9f59c5e8.md)
-      - [Methods](articles/ee7a19a5-3416-4e99-82f2-1fcbe6924141.md)
+      
         - [Clear Method](articles/9026a3db-880e-c8d5-cbc1-b813c252bd8a.md)
         - [Delete Method](articles/64cbd4c5-fdb8-89a2-48f7-67422d208e40.md)
         - [LegendEntries Method](articles/6b20827c-7196-e1d7-485f-954b0ea90f58.md)
         - [Select Method](articles/cf7d6211-d03a-0813-30dd-fd366f3f9b50.md)
     - [LegendEntries Object](articles/51d98149-b90b-432b-7771-0815a0e89655.md)
-      - [LegendEntries Members](articles/dddeca68-d207-60af-9c16-afe670851a08.md)
-      - [Properties](articles/af370e42-ddcc-4621-8d1a-b381e6d8493b.md)
+      
+      
         - [Application Property](articles/24249423-1fde-01a7-fe84-5c953f26dfe9.md)
         - [Count Property](articles/66fa1994-1a0e-dd70-c508-ee9ffe875388.md)
         - [Creator Property](articles/9b6fe17e-a40f-7d26-bfa0-f3a5c40a1cda.md)
         - [Parent Property](articles/36e11479-6374-acb6-9ca9-38b729dfc0aa.md)
-      - [Methods](articles/a24c6f98-3b3b-4113-925d-72e72733c5a6.md)
+      
         - [Item Method](articles/8f7250b8-1c52-3e8a-4b09-906e917fdcac.md)
     - [LegendEntry Object](articles/ebe8c35c-87b4-11e6-0675-b8bcc8c668a5.md)
-      - [LegendEntry Members](articles/185ac816-1220-d454-2f13-d36055dfa8a7.md)
-      - [Properties](articles/ddbb59cb-b87a-4ade-8501-04ea3c46e3a2.md)
+      
+      
         - [Application Property](articles/54a896a3-f7c7-d3e2-da22-90812d8b0a2d.md)
         - [Creator Property](articles/fbccd29b-fac2-1fb7-665d-7243987a16be.md)
         - [Font Property](articles/4bb7ab38-aa33-4574-3190-e3c229e3c644.md)
@@ -2131,12 +2131,12 @@
         - [Parent Property](articles/e22e3a9e-221b-61d7-e15c-42ca9244f9cb.md)
         - [Top Property](articles/cedb367e-d205-aa15-c041-afef98870583.md)
         - [Width Property](articles/014cbba9-5147-f65a-362c-c10176531b33.md)
-      - [Methods](articles/e2a285aa-d69d-48cf-b639-d71b9b852f6a.md)
+      
         - [Delete Method](articles/1967ac14-e375-9308-bd53-fbfd1e71ac69.md)
         - [Select Method](articles/1d4d2259-3150-ed51-a12b-9a2ca95109c9.md)
     - [LegendKey Object](articles/2d806a8f-2fed-e6f6-bb76-7339fa692cbb.md)
-      - [LegendKey Members](articles/c6d7e301-0487-7b7a-047c-1faa88694971.md)
-      - [Properties](articles/51ee65c2-dc9b-4066-8c82-cde2fb318100.md)
+      
+      
         - [Application Property](articles/274af3a5-3d82-0ecd-5c15-ecc2493b3d09.md)
         - [Creator Property](articles/de496f53-4edc-509a-7d5e-a2a9b28b25a2.md)
         - [Format Property](articles/b05d0ce2-013f-8383-f907-a02ab11942cd.md)
@@ -2156,20 +2156,20 @@
         - [Smooth Property](articles/0de38d26-5f23-8a7b-54ca-7af20f51d45c.md)
         - [Top Property](articles/b2664f90-505e-28b1-fd7c-388eaec5d6ee.md)
         - [Width Property](articles/d3c05fad-12c3-e5eb-9cb6-4f5eaa2b77b6.md)
-      - [Methods](articles/158b5a89-4df1-465d-aa88-16d55b2acb67.md)
+      
         - [ClearFormats Method](articles/fa73187b-9607-2484-5690-e2b07961dc76.md)
         - [Delete Method](articles/b93ad1e1-48d2-8076-7151-b43b27faa773.md)
     - [LinearGradient Object](articles/cb648564-0f57-f1b9-1c89-0329c110583f.md)
-      - [LinearGradient Members](articles/7b9a9bc3-340f-195d-927b-7ac5a7592190.md)
-      - [Properties](articles/19391da8-a63d-41fc-ad78-d0d80180249e.md)
+      
+      
         - [Application Property](articles/ed52cc68-ff42-488c-3b79-a26a34a61095.md)
         - [ColorStops Property](articles/99db35d4-f2ae-b1e4-6fed-98e3ecd49cfd.md)
         - [Creator Property](articles/318042d1-d486-5d52-91cb-0a102ee9ae9d.md)
         - [Degree Property](articles/0608fe59-76e9-e199-2cc6-848f283813f3.md)
         - [Parent Property](articles/adf215eb-a22c-e94d-35b1-355c0be4d98e.md)
     - [LineFormat Object](articles/13eca34b-adf7-ddd3-8c73-cc8b508c624a.md)
-      - [LineFormat Members](articles/71bf3e3a-1ee5-b4a9-96bf-fbdb81e81e42.md)
-      - [Properties](articles/1dda7bb0-9644-4fa7-9e93-2bec4ece64eb.md)
+      
+      
         - [Application Property](articles/c90f22c9-b9e5-a91c-23fb-3301b709000a.md)
         - [BackColor Property](articles/d0afc912-f982-24f2-f82d-829d410d51cf.md)
         - [BeginArrowheadLength Property](articles/7116965a-601c-46b5-9cb6-6cd339cccb80.md)
@@ -2189,18 +2189,18 @@
         - [Visible Property](articles/a1b3d690-b6aa-7204-51a9-e0f80bf55b8d.md)
         - [Weight Property](articles/e875fbac-10a5-4285-3565-0b9f05c83d42.md)
     - [LinkFormat Object](articles/3d8085bf-c113-7cbe-871b-01f3b6017824.md)
-      - [LinkFormat Members](articles/c4d1328e-0bcb-5674-5569-67fcd50bccb0.md)
-      - [Properties](articles/cf49ff0c-cbbd-42b2-a729-85d84ab4bd55.md)
+      
+      
         - [Application Property](articles/47e722cf-9fe3-15f2-495a-abcb680c846a.md)
         - [AutoUpdate Property](articles/79bb79fe-cc3f-8fcd-955b-7f6595d52c09.md)
         - [Creator Property](articles/cb1b0a6d-af14-0f9c-2e5e-d991d7011a20.md)
         - [Locked Property](articles/13e9baf7-ecb0-f193-4b69-7e15c9463ed0.md)
         - [Parent Property](articles/37d31c34-01a7-0995-ccf0-6b18c623ebae.md)
-      - [Methods](articles/b68507ef-2a08-495c-99d0-c8aa796bbb2b.md)
+      
         - [Update Method](articles/9d4c224e-99a8-a27c-7be6-24ec697be323.md)
     - [ListColumn Object](articles/c2060e4a-2340-c606-f272-1e4dad6964d0.md)
-      - [ListColumn Members](articles/fc0854b0-0c1b-639c-f060-c6cd68279496.md)
-      - [Properties](articles/7275c0e6-d677-44c1-9d92-9c325603774d.md)
+      
+      
         - [Application Property](articles/49351e5a-e06c-aaac-5002-e1682b79c4a3.md)
         - [Creator Property](articles/9dad6409-cd84-e7ef-71e0-d003ca61cdda.md)
         - [DataBodyRange Property](articles/04999c13-f70b-8692-a304-ed693d5bee26.md)
@@ -2211,21 +2211,21 @@
         - [Total Property](articles/e3a2fd3c-560f-2743-e45e-5e472e45e10c.md)
         - [TotalsCalculation Property](articles/bb8c1dd1-1ee6-3ef8-8af4-2b3f24eb642d.md)
         - [XPath Property](articles/a025d423-4291-c40a-96b9-e1f807d4b388.md)
-      - [Methods](articles/e3b36352-dec9-49ed-af48-477d2d56fa08.md)
+      
         - [Delete Method](articles/d3c62503-0a49-afc2-8f26-224bdf13b50c.md)
     - [ListColumns Object](articles/c1b8aff0-3049-df58-ce1f-0c5e4bddc467.md)
-      - [ListColumns Members](articles/2dd633da-ebc3-6b7c-e002-0571f88b48c4.md)
-      - [Properties](articles/67cfced9-118f-45b0-b7f8-a187697ddfdf.md)
+      
+      
         - [Application Property](articles/e20a7ddb-b42d-1ce5-74d8-619eb436786c.md)
         - [Count Property](articles/9f5d9cdb-d94a-9ab6-1d82-7b9664ba4ece.md)
         - [Creator Property](articles/ef3305a9-c284-c008-d65f-68c7272da801.md)
         - [Item Property](articles/1d7b8659-3302-68da-76bc-c66b4257d606.md)
         - [Parent Property](articles/53182784-926e-d800-7b7b-2090d5a0ad42.md)
-      - [Methods](articles/016c3b3e-82a9-485a-b104-cd71190d4c0f.md)
+      
         - [Add Method](articles/a1127989-f1e0-3c0a-e2c9-24b166c5e001.md)
     - [ListDataFormat Object](articles/d972f320-6865-a684-0f46-8c34b2eea482.md)
-      - [ListDataFormat Members](articles/fb39bbc8-aed9-45f5-c7b2-ca93760c9cf2.md)
-      - [Properties](articles/7a041aab-e889-4519-baa7-340104c4a457.md)
+      
+      
         - [AllowFillIn Property](articles/b41f8d68-3c1a-df1a-6761-b8ab70f16188.md)
         - [Application Property](articles/7df41d06-b4b2-9fef-9564-74122fa72a9b.md)
         - [Choices Property](articles/c4a809e6-7977-28a1-1070-286e7df99409.md)
@@ -2242,8 +2242,8 @@
         - [Required Property](articles/ccd31ca3-906e-cacc-5ba1-48e60056d46e.md)
         - [Type Property](articles/9e9b7b28-a948-9c67-8c88-ba6068ed162c.md)
     - [ListObject Object](articles/46de6c4f-8ce0-0c7d-da59-6e52f5eab612.md)
-      - [ListObject Members](articles/d34f895c-cf60-f644-866b-7b757716e7a6.md)
-      - [Properties](articles/36a3bb19-54f5-46c8-adaa-6f07d3589e39.md)
+      
+      
         - [Active Property](articles/abe995da-6471-e611-ee04-d24f8518327c.md)
         - [AlternativeText Property](articles/363423a9-5332-126a-8ebf-983269c2f72e.md)
         - [Application Property](articles/72c071cf-e0c8-fcc5-5207-93ca43272dfa.md)
@@ -2278,7 +2278,7 @@
         - [TableStyle Property](articles/e9c2d152-e060-3132-d27c-35020d3380ab.md)
         - [TotalsRowRange Property](articles/80f22712-5113-30d9-a0ea-1158a563d17b.md)
         - [XmlMap Property](articles/8bb623c7-84bc-5170-6afd-335853e716b2.md)
-      - [Methods](articles/66e1007e-b26a-4ee0-810a-c0aa1231c642.md)
+      
         - [Delete Method](articles/cd621c14-5e13-b51b-2b39-29118aeac3c8.md)
         - [ExportToVisio Method](articles/2f4f1079-9971-d7ac-5bf5-3bcc4e68e804.md)
         - [Publish Method](articles/8b25819d-51c3-f505-8b9c-184355c48055.md)
@@ -2287,38 +2287,38 @@
         - [Unlink Method](articles/37e70576-e577-cfbb-f5ee-63ba830e174e.md)
         - [Unlist Method](articles/030f8f78-08e1-8a49-ee06-a7b4254aa5fc.md)
     - [ListObjects Object](articles/3a888055-1ed0-d37d-0586-ced999dc1c42.md)
-      - [ListObjects Members](articles/a067b883-9aa3-f8f6-bf72-87541b796a80.md)
-      - [Properties](articles/97d4a4fa-2b50-4b3f-acd1-8ac5ca7d69ff.md)
+      
+      
         - [Application Property](articles/7b1a3c94-8446-9f4c-98fb-3fd1f99360f1.md)
         - [Count Property](articles/ad5df088-54c7-63c3-c25a-77370fe3d250.md)
         - [Creator Property](articles/6baa548b-04a6-e0eb-d45f-8d3f24848c3b.md)
         - [Item Property](articles/39f00da9-170d-e62b-4beb-38e06a8ba533.md)
         - [Parent Property](articles/479a6593-702e-f834-a944-a68df8cba69f.md)
-      - [Methods](articles/411fa209-d101-436e-a9b8-46908b256d04.md)
+      
         - [Add Method](articles/764dafed-d4e3-82b9-df8c-68a358319491.md)
     - [ListRow Object](articles/ba3e4215-14b6-3dca-82d0-0951f9f2fc3e.md)
-      - [ListRow Members](articles/cd5e2170-7193-d865-f9f4-ce247e27c2f9.md)
-      - [Properties](articles/05eed7b0-2af8-4a35-8cc0-f75478697217.md)
+      
+      
         - [Application Property](articles/ace7b6cb-4afe-d2d5-5912-e2eb1aa5a90a.md)
         - [Creator Property](articles/3b750487-3ea6-815b-0389-55313cb2f36b.md)
         - [Index Property](articles/701262e9-1c24-0117-023e-8f11ef26ed6b.md)
         - [Parent Property](articles/fd49742d-66ad-3aa5-e66e-818d0897d510.md)
         - [Range Property](articles/261b507a-91d7-9075-1d4d-b85d6d455ee0.md)
-      - [Methods](articles/89a8f3b7-aa02-4a94-89bb-0dfe5bbb2dad.md)
+      
         - [Delete Method](articles/fdba9c37-b1a7-3ed7-2665-9f2720ac7d8a.md)
     - [ListRows Object](articles/e4035209-00a2-ea16-a3b9-2d23afe0b88a.md)
-      - [ListRows Members](articles/6ade33bf-71e4-a7a4-ca34-9e3146c7dd80.md)
-      - [Properties](articles/e9060436-59d7-4871-af87-da5f8406423e.md)
+      
+      
         - [Application Property](articles/556e3016-4cfb-9e15-a2b4-7fc651e10859.md)
         - [Count Property](articles/91a51e45-b5b6-1b5c-5a06-10a91e70cf66.md)
         - [Creator Property](articles/ab0d80a3-5dd5-b007-f586-ea123049483f.md)
         - [Item Property](articles/45b82814-e8ee-43b2-3b57-2ca7f1f152c4.md)
         - [Parent Property](articles/556ddca2-3cc6-43be-3fbc-6ec0782a4c9a.md)
-      - [Methods](articles/82895405-1729-447e-90bd-0a4e763d8c70.md)
+      
         - [Add Method](articles/32213e09-fd25-3787-3ab8-45ee1249ca1c.md)
     - [Mailer Object](articles/bd6b8c82-3d2e-e029-58b3-525049b1e03c.md)
-      - [Mailer Members](articles/0d119db4-b6b3-4d66-8a4b-fe852b160740.md)
-      - [Properties](articles/ef2621ce-164d-4b33-bcf4-a6d6a1b86bb9.md)
+      
+      
         - [Application Property](articles/1f4b0c93-73d1-086b-18ae-3b9de921d3cc.md)
         - [BCCRecipients Property](articles/68ddc18b-d96e-4e88-1123-8b3d94fb9209.md)
         - [CCRecipients Property](articles/efcceedd-dc35-a683-bdc1-50b8b8368f31.md)
@@ -2331,9 +2331,9 @@
         - [Subject Property](articles/88b292df-843b-ffb1-9987-c482d4bff385.md)
         - [ToRecipients Property](articles/725ba114-e5d9-de48-39e7-3f5f9b33783e.md)
         - [WhichAddress Property](articles/a7b86825-326b-80f9-6d20-63eeb8010919.md)
-    - [Model Members](articles/7946bddc-7c4a-3519-52c8-526af2b55ef3.md)
-      - [Model Members](articles/2fb97d8c-f889-469a-95c7-97a2bcc24635.md)
-      - [Properties](articles/3ec59814-186d-7bac-0687-b40a27e4a5fd.md)
+    
+      
+      
         - [Application Property](articles/201e79d9-8e9b-0ff4-5f6e-dcdd3911b08a.md)
         - [Creator Property](articles/2370b2d9-e759-8ee1-806e-fa15f59e3646.md)
         - [DataModelConnection Property](articles/07143535-fb4f-6c66-a31c-c0613ce4c3cd.md)
@@ -2350,14 +2350,14 @@
         - [ModelTables Property](articles/9336224a-9c77-5670-e499-c7b041c64bfd.md)
         - [Name Property](articles/300b1d6c-3420-f719-9a2c-72a5ab4fe3ac.md)
         - [Parent Property](articles/fa3e8f45-9efe-6639-8ee6-49b6ecbdfb52.md)
-      - [Methods](articles/c24f7be9-827d-b7ea-166a-13f1cdc658e6.md)
+      
         - [AddConnection Method](articles/58ed2796-9cfa-2737-43c0-f5a5a4badcc3.md)
         - [CreateModelWorkbookConnection Method](articles/cd8c35e6-91ee-5d46-cc98-199b8916ecdd.md)
         - [Initialize Method](articles/fe85e378-26c6-e573-21c1-b8a3ccbe4d71.md)
         - [Refresh Method](articles/0d0a958a-0e98-48c8-e364-2dc62a6ba230.md)
     - [ModelChanges Object](articles/fd2388eb-48ab-c238-2ffa-8c3f6d20fe36.md)
-      - [ModelChanges Members](articles/9ecee580-b4aa-9e89-1a6e-70ee31552ec7.md)
-      - [Properties](articles/76c543c8-c47c-0897-dff2-172099756e20.md)
+      
+      
         - [Application Property](articles/4f2d358a-ed68-1b9d-8eeb-e502a02d0c7f.md)
         - [ColumnsAdded Property](articles/bf8cbf3d-e7c9-7152-9e5f-206a01637a87.md)
         - [ColumnsChanged Property](articles/3fb1169f-05ba-a810-6797-90fb996dd7ae.md)
@@ -2373,42 +2373,42 @@
         - [TablesModified Property](articles/c83ae86d-fca0-8c60-a997-1821eed67cb9.md)
         - [UnknownChange Property](articles/8a0f7fab-da18-ff44-ad56-506ab7ad3736.md)
     - [ModelColumnChange Object](articles/5b7cb86d-744c-53ea-0fcf-79d2710baa37.md)
-      - [ModelColumnChange Members](articles/8b9bc464-3604-f863-00d0-d8908991dca4.md)
-      - [Properties](articles/fdfb4176-c48f-4b24-5e9a-4c401af254f8.md)
+      
+      
         - [Application Property](articles/42065d25-aaef-e92a-f174-47f056e1e460.md)
         - [ColumnName Property](articles/f3312e64-d88e-e6c7-0337-d6e43e178c2e.md)
         - [Creator Property](articles/8c40b267-91b3-f7ab-1cdf-7329789dc0eb.md)
         - [Parent Property](articles/b925503a-33a3-f12b-0507-a770d7b9650f.md)
         - [TableName Property](articles/56aacaeb-52aa-1dee-9f29-6bf867287c53.md)
     - [ModelColumnChanges Object](articles/4789114d-6bc4-9cfe-dcca-9a9b04280871.md)
-      - [ModelColumnChanges Members](articles/f5324b71-da79-2b8d-b293-7f4071204d6e.md)
-      - [Properties](articles/d98ccf68-0ec6-d645-f5ab-c52dc10803de.md)
+      
+      
         - [Application Property](articles/da204577-a5b9-41c5-8d54-997d839e0f48.md)
         - [Count Property](articles/4b64bc09-6d63-882e-8354-281698ab3f78.md)
         - [Creator Property](articles/19baf46f-b517-0bf6-aaaa-ab3794296e97.md)
         - [Parent Property](articles/475730cf-ad8e-ac9a-87a6-91e7602aa805.md)
-      - [Methods](articles/28827a0a-a235-607e-2428-dd2b3c5f012c.md)
+      
         - [Item Method](articles/d4e1977f-08ac-4c2d-64f7-e3213ddde854.md)
     - [ModelColumnName Object](articles/63a5eefe-b54d-0075-c116-8a752c881834.md)
-      - [ModelColumnName Members](articles/b27889a8-4ed3-d060-7e29-83cbd58a6124.md)
-      - [Properties](articles/698d6973-8970-f2b2-2b3d-5bab56053d23.md)
+      
+      
         - [Application Property](articles/a15b21c5-0d29-8e5c-2d85-0d8d5810fba1.md)
         - [ColumnName Property](articles/17dfdc8a-10a2-cccd-547e-57d9da23af4e.md)
         - [Creator Property](articles/ea92c791-ff11-9137-e354-9e3e84993932.md)
         - [Parent Property](articles/344706b0-b9de-1cc2-ecc4-7201e4caa54e.md)
         - [TableName Property](articles/e6d4237b-ce80-00c1-a67f-794fedb8b05f.md)
     - [ModelColumnNames Object](articles/3a8a966f-b987-a77b-1d4c-eb7b35179f8b.md)
-      - [ModelColumnNames Members](articles/ba659135-e622-bc31-0a97-0c5ea6046964.md)
-      - [Properties](articles/57e579a8-e05a-68e4-6caa-8ad1766d485c.md)
+      
+      
         - [Application Property](articles/09a0a219-b4eb-4ead-f058-5b9a04e98dc9.md)
         - [Count Property](articles/05cb425d-5981-d630-b849-132a9c957aed.md)
         - [Creator Property](articles/1930bfbe-b409-8368-0ff7-7556c500cc95.md)
         - [Parent Property](articles/5e9b23fc-892d-b457-95f7-9cc2fedd1cd3.md)
-      - [Methods](articles/5841011e-6ba1-c445-7f46-38e934dc9da1.md)
+      
         - [Item Method](articles/49db4920-ef4b-db88-1c6f-e7d4450fd09e.md)
     - [ModelConnection Object](articles/db1b8e2b-76f7-5a6f-b510-6a4d6c4e9857.md)
-      - [ModelConnection Members](articles/6909811e-5ef3-ba36-9949-8008444f0b00.md)
-      - [Properties](articles/080cdb30-ed4c-6353-7d79-0ed29a8082bc.md)
+      
+      
         - [ADOConnection Property](articles/36922296-6971-c42c-7d00-8d43ac1f328b.md)
         - [Application Property](articles/6d0ff59e-4d5d-c06c-4af8-33a69739f9e1.md)
         - [CalculatedMembers Property](articles/2969824d-b7a2-fb88-1066-cf5d36d8e9bb.md)
@@ -2417,65 +2417,65 @@
         - [Creator Property](articles/f0761a07-6c55-ad1a-570f-d811403a510a.md)
         - [Parent Property](articles/8918804c-a7fc-fa8e-b5bd-ce3b2c8f2a4b.md)
     - [ModelFormatBoolean Object](articles/b6a43c30-1dd9-39e0-86dc-fd229bb51c87.md)
-      - [ModelFormatBoolean Members](articles/33573cbb-c8f8-729a-a7fc-184cc05003f9.md)
-      - [Properties](articles/73bb4e41-3d7a-ee66-59b0-eb53a0a8b5f8.md)
+      
+      
         - [Application Property](articles/a04b24b3-fb9c-0c59-06aa-aa5198e2017e.md)
         - [Creator Property](articles/b32a70e5-a6ae-e1ef-cc10-e86ca88f1578.md)
         - [Parent Property](articles/b581cf67-d77b-c17b-1878-1029d73682ff.md)
     - [ModelFormatCurrency Object](articles/acb863b6-c188-5ed3-afe4-5e1ab6bb20bf.md)
-      - [ModelFormatCurrency Members](articles/8da9be23-5bd8-379a-4e78-399ff5b8da93.md)
-      - [Properties](articles/eb4287bf-a423-aa54-dbdd-ce99c6b9efca.md)
+      
+      
         - [Application Property](articles/62fb4288-dc98-4831-a039-b2b81f407159.md)
         - [Creator Property](articles/069eb7ee-2168-0820-1018-61c1498c7929.md)
         - [DecimalPlaces Property](articles/99cd87a8-4aff-f507-05e3-59a28f676828.md)
         - [Parent Property](articles/ed21cd7a-ce59-2f39-c342-3292af63c079.md)
         - [Symbol Property](articles/67c90858-43f0-5506-735b-747b7b9dcb07.md)
     - [ModelFormatDate Object](articles/fe0be1f5-bd51-11cf-f0ba-f7c1ff228ecd.md)
-      - [ModelFormatDate Members](articles/ca0b5cc3-4396-84f3-add3-7581a84690a6.md)
-      - [Properties](articles/74f5d047-eece-942c-9f24-ab05c7188511.md)
+      
+      
         - [Application Property](articles/a0932f28-60a5-34ce-a678-78cb72b33b31.md)
         - [Creator Property](articles/4f7b44a5-70da-be7d-306c-9a2d2c9ea724.md)
         - [FormatString Property](articles/2752f9be-4bb1-5bb6-7bee-eecaecafe0d9.md)
         - [Parent Property](articles/064b3651-ad76-c8fd-1250-b25fa669cf92.md)
     - [ModelFormatDecimalNumber Object](articles/1080e484-4ec0-abdc-6322-5d83201c59fb.md)
-      - [ModelFormatDecimalNumber Members](articles/5776edec-3b80-7eb1-c8bb-f6adc9a082e0.md)
-      - [Properties](articles/5334a4f1-272f-806c-45f7-4afc837bf41e.md)
+      
+      
         - [Application Property](articles/71e9a26b-4e0b-0fdc-71b4-812fc5e96546.md)
         - [Creator Property](articles/106db87c-9b52-1e74-e899-3da9de73bd3e.md)
         - [DecimalPlaces Property](articles/74b0f4ba-a44d-8ca0-be24-11caecbc1fdd.md)
         - [Parent Property](articles/f45fe29b-d869-e439-0aae-ab1bbe3b0793.md)
         - [UseThousandSeparator Property](articles/97d01ea7-a6cf-9262-701b-3b0fac3ca571.md)
     - [ModelFormatGeneral Object](articles/4fc68fb0-37aa-da83-f303-40ff96efb4a7.md)
-      - [ModelFormatGeneral Members](articles/f19d21c7-282b-2f00-fcbb-b5c9ffed795f.md)
-      - [Properties](articles/5fed90de-07b4-85de-e8af-8cbb8774cf9a.md)
+      
+      
         - [Application Property](articles/d05c69ad-e39e-e021-b827-04a73542e816.md)
         - [Creator Property](articles/828ced24-d35d-bee5-c9a6-b63e102c8cfb.md)
         - [Parent Property](articles/e6338b39-2822-d3f2-1067-e17deda4d71e.md)
     - [ModelFormatPercentageNumber Object](articles/1a7134a3-2645-e762-c2dd-1ca8ab8b6e73.md)
-      - [ModelFormatPercentageNumber Members](articles/fb78ca5c-4505-a475-92ee-2c7f12d1b2d7.md)
-      - [Properties](articles/4646caf5-9cea-97da-49d4-19e6c4a3d043.md)
+      
+      
         - [Application Property](articles/bdcf764e-771f-9efe-d24f-ce03b047959c.md)
         - [Creator Property](articles/1ff943c2-e52f-c01e-d337-d5dd7c02983e.md)
         - [DecimalPlaces Property](articles/5828ab2d-1748-8ed9-8cad-10db422a6b8a.md)
         - [Parent Property](articles/6f277a29-dc95-aff7-5b6f-1ffda156e3f1.md)
         - [UseThousandSeparator Property](articles/f5f585ed-58db-f44a-525e-5c44c1a32168.md)
     - [ModelFormatScientificNumber Object](articles/0099a473-0848-05ad-abe5-b36b70d4a2da.md)
-      - [ModelFormatScientificNumber Members](articles/7d5e4324-de5d-3931-81eb-1300b196c7e1.md)
-      - [Properties](articles/3c27403e-0b45-35fe-2cab-15d2846f56c2.md)
+      
+      
         - [Application Property](articles/4caf7286-bcba-8628-15a4-d01d5e8cd575.md)
         - [Creator Property](articles/b764b8cb-b6f4-dca8-9bab-6add833dc61b.md)
         - [DecimalPlaces Property](articles/70cf2e5b-d7e1-d259-a7b8-188dfa0387d1.md)
         - [Parent Property](articles/4eff9a0e-2a7d-5c76-3d0e-3d011908c118.md)
     - [ModelFormatWholeNumber Object](articles/1a3d96ac-a2d7-cf26-5afa-6cfc8da846d5.md)
-      - [ModelFormatWholeNumber Members](articles/6e92f39b-9682-d4c9-5849-8844b7eea056.md)
-      - [Properties](articles/331bb992-5512-ab54-27da-a789f703a62c.md)
+      
+      
         - [Application Property](articles/a2dada26-38f7-967a-be69-3f75f911c05e.md)
         - [Creator Property](articles/82f16ccb-6f50-273e-5ed4-e16db1262ecc.md)
         - [Parent Property](articles/0455db3e-b4db-635b-7e72-ee6fcc366512.md)
         - [UseThousandSeparator Property](articles/7378fadd-cd13-c0f7-525a-7e30eb59d4bb.md)
     - [ModelMeasure Object](articles/0df4620a-e250-a68e-7000-6959cde08f3e.md)
-      - [ModelMeasure Members](articles/cf266597-271b-9e31-e0d0-f39079ff337e.md)
-      - [Properties](articles/698d1b2b-3252-5b7e-e123-57b88af308c0.md)
+      
+      
         - [Application Property](articles/fa2112fb-ce9d-48bc-63cf-34faa2cf3488.md)
         - [AssociatedTable Property](articles/a51f7698-38a4-211e-3973-de9c8b62e66d.md)
         - [Creator Property](articles/abdbcd11-2b57-043f-20ba-e8b4ed603130.md)
@@ -2484,38 +2484,38 @@
         - [Formula Property](articles/fc6f6b80-1a80-3400-e98f-4cb74ad8e6e8.md)
         - [Name Property](articles/11e33619-17c3-3d78-29ad-048949fd06b3.md)
         - [Parent Property](articles/900b9ddd-5567-ca95-5122-02fc670abf0f.md)
-      - [Methods](articles/acc282d6-f451-0b0d-9945-8cf54654cf96.md)
+      
         - [Delete Method](articles/19ec1efa-5c1e-8130-3845-7e3f55017041.md)
     - [ModelMeasureName Object](articles/91151066-7217-d589-63c7-a21431671397.md)
-      - [ModelMeasureName Members](articles/64d9060d-6066-b06b-8cc5-f94efe591185.md)
-      - [Properties](articles/9de4e3a2-3d48-895e-b3f5-62444f7f6b82.md)
+      
+      
         - [Application Property](articles/2a93826c-7d6d-030c-e0e3-1c9b85be9c4c.md)
         - [Creator Property](articles/60c5ed37-0a61-76e8-fc5e-2c5fdf084cbe.md)
         - [MeasureName Property](articles/d4188566-1a64-9ebe-43ea-865c4dbc7d64.md)
         - [Parent Property](articles/5a34a9a9-607c-b859-48b6-07a492f95cea.md)
         - [TableName Property](articles/e23e1221-bef8-4ad3-f057-27beacac5fdd.md)
     - [ModelMeasureNames Object](articles/a4675c29-6c0d-a2fa-3428-280296f4cb59.md)
-      - [ModelMeasureNames Members](articles/afe6837c-ee65-0c99-b77e-8c1219272bda.md)
-      - [Properties](articles/933c6a5c-1ea5-a54a-8313-3c687b6386c9.md)
+      
+      
         - [Application Property](articles/c755709d-d0f0-ac56-8d57-39230fd92486.md)
         - [Count Property](articles/37613db2-ce20-e6aa-1bad-736b89c7842b.md)
         - [Creator Property](articles/72559b81-60db-62d2-db66-04957d3a180e.md)
         - [Parent Property](articles/028ffd8d-ded4-72af-8b54-fa4e8f267a16.md)
-      - [Methods](articles/9388d54f-7d23-1ae8-17cf-6dd467259dcd.md)
+      
         - [Item Method](articles/812fbcc5-157c-d675-efc2-3df855e656e1.md)
     - [ModelMeasures Object](articles/b0edac9a-e10d-ec51-d9e7-6fa8a29dcda8.md)
-      - [ModelMeasures Members](articles/10475bee-fae3-7248-b904-d3f58f478969.md)
-      - [Properties](articles/5315298d-85df-5f53-0407-ef65d830beb7.md)
+      
+      
         - [Application Property](articles/bf2c2284-b45b-5a68-b02a-c2cc88babcd4.md)
         - [Count Property](articles/c420f7e8-ecc1-988b-5438-280f3fb3b5e1.md)
         - [Creator Property](articles/575d569a-5932-8e3e-66fa-61e7e67e3afa.md)
         - [Parent Property](articles/61d981d0-bc20-efea-1fdd-49c6e188670c.md)
-      - [Methods](articles/6be3f12e-9fc9-1876-7503-13f853856eac.md)
+      
         - [Add Method](articles/abc0f260-abdb-2f60-928f-b325fbb976f3.md)
         - [Item Method](articles/cbadae47-2225-4633-eac6-8697227384f4.md)
     - [ModelRelationship Object](articles/8b0a7fad-06a5-178d-c5b2-96fc5528a3cc.md)
-      - [ModelRelationship Members](articles/99df4e0d-c661-5c52-30e5-5470b6918a8f.md)
-      - [Properties](articles/ea85e101-5091-1900-f01a-beab95d0d07e.md)
+      
+      
         - [Active Property](articles/c9718343-e20e-1e44-2771-6d8e3acdcdd7.md)
         - [Application Property](articles/fc6832ad-4100-e1ac-f286-6f0cbe11c983.md)
         - [Creator Property](articles/8db0510e-7e39-ba02-36d1-5190fcb9c795.md)
@@ -2524,22 +2524,22 @@
         - [Parent Property](articles/c9012604-396b-9923-3eee-4d1c12ea15fe.md)
         - [PrimaryKeyColumn Property](articles/54ef6aba-449a-56b8-6eac-c3a9525fc51f.md)
         - [PrimaryKeyTable Property](articles/23ea1c8e-22da-52da-61dc-d6d0f94e2576.md)
-      - [Methods](articles/67585743-3be6-4f0a-3be3-66a5b922fc5e.md)
+      
         - [Delete Method](articles/f37ba401-8c26-b1b9-9ae1-a9b4c9df4f90.md)
     - [ModelRelationships Object](articles/cd671af2-7fbc-4494-a3d0-07e9ad3e83bf.md)
-      - [ModelRelationships Members](articles/95711631-5377-ef90-5708-0890b38ffa2f.md)
-      - [Properties](articles/335fc48d-d639-81ef-71c9-6c43c7977090.md)
+      
+      
         - [Application Property](articles/8c2d631a-84bc-8709-79ba-bffe40ed676f.md)
         - [Count Property](articles/85a589aa-0dcb-bf59-2e9e-4c0da720bdd0.md)
         - [Creator Property](articles/ba20b1ac-c581-646e-1c83-b177aaa31bcc.md)
         - [Parent Property](articles/f5cdea0a-1331-4a17-c63f-c58d84066914.md)
-      - [Methods](articles/37225388-8248-a124-e4f1-e03ba800d974.md)
+      
         - [Add Method](articles/9525ce41-1957-cb88-ecdd-9d18295fa422.md)
         - [DetectRelationships Method](articles/e6db4a4b-09c4-7564-f3c7-3aed719dcc16.md)
         - [Item Method](articles/e23b5281-50e9-3a6a-4f0c-02e677d40cf4.md)
     - [ModelTable Object](articles/c853beb6-f2e7-dda0-b33a-8110a6c23de8.md)
-      - [ModelTable Members](articles/6fbca0ef-b855-d09c-f2ba-579d50f802fb.md)
-      - [Properties](articles/1d5bf2cf-c35a-0f86-2571-32ebbab3ba2f.md)
+      
+      
         - [Application Property](articles/c2138114-e623-f141-090d-22644f8d2477.md)
         - [Creator Property](articles/121e3d5d-d898-1aba-2b51-aff469a7eefc.md)
         - [ModelTableColumns Property](articles/964b8967-8270-830c-bf69-c6ef1078fbbb.md)
@@ -2548,70 +2548,70 @@
         - [RecordCount Property](articles/7590a472-d250-5df1-a48d-bed99b5c2665.md)
         - [SourceName Property](articles/96993c18-598d-6270-8582-d6c7aa69f8b9.md)
         - [SourceWorkbookConnection Property](articles/b0575542-2c93-9f41-ecdb-9902a0fb7035.md)
-      - [Methods](articles/b10c6a3b-90c3-4321-c93e-d5d640e55621.md)
+      
         - [Refresh Method](articles/341e82f4-a885-6c95-850d-21703bb27995.md)
     - [ModelTableColumn Object](articles/8deb1b62-c089-e0c3-0320-2d4596e8f6e3.md)
-      - [ModelTableColumn Members](articles/1948ab46-c2fb-e9af-11fa-bb9877ffa687.md)
-      - [Properties](articles/3fcc2a41-1a4e-c522-f427-c9f7fcab0b97.md)
+      
+      
         - [Application Property](articles/69540e35-6a9a-0fd9-23b1-31457b33ba68.md)
         - [Creator Property](articles/e7470329-722d-ca62-328a-0192b78469ae.md)
         - [DataType Property](articles/3fafc94c-ba24-1ce9-2edf-375064c8d723.md)
         - [Name Property](articles/13bba14e-527d-ec6a-0efa-15816fde703a.md)
         - [Parent Property](articles/34c70e72-53b6-a050-00c4-0e664baa3be4.md)
     - [ModelTableColumns Object](articles/6f7a0fcd-7e78-8c90-a3a1-058c803b2ee0.md)
-      - [ModelTableColumns Members](articles/d89a8782-e0f0-215b-cd0f-1fe9b6014c19.md)
-      - [Properties](articles/485b89f6-f324-8b6b-9a99-b13f38bb82a4.md)
+      
+      
         - [Application Property](articles/cb086ea8-fcce-8c36-a92c-d006b774ff82.md)
         - [Count Property](articles/fdbcd2ab-fe11-01c1-88ae-a9c9c766fb65.md)
         - [Creator Property](articles/7aaccf6c-547e-0414-5722-22cdb1b833d1.md)
         - [Parent Property](articles/73825fee-00f9-1298-eb05-4a68c88b1b1c.md)
-      - [Methods](articles/e6fbf4b2-dd95-d611-0b23-abd7be25155a.md)
+      
         - [Item Method](articles/7ffd2dcd-5eb3-abd3-b1b8-414fb8828e31.md)
     - [ModelTableNameChange Object](articles/f739aed8-aa89-a05d-fa84-8ae2520576fb.md)
-      - [ModelTableNameChange Members](articles/7739e58b-9e02-cd98-eef5-d30555abd1e5.md)
-      - [Properties](articles/f37ef1f4-0fcc-dba5-7b57-360f98fbdf0f.md)
+      
+      
         - [Application Property](articles/d393786f-8f33-ed78-42a3-436e92c2b704.md)
         - [Creator Property](articles/f4c071c9-23da-ee26-cd70-03ddcc135a78.md)
         - [Parent Property](articles/2a5e5e74-d075-4de7-70ff-73464078e266.md)
         - [TableNameNew Property](articles/d7ba4fed-9592-24f7-e9f7-7eab7f4e65b1.md)
         - [TableNameOld Property](articles/f9baf243-88e1-08f5-079b-878bc520098f.md)
     - [ModelTableNameChanges Object](articles/78ecf42b-7ce5-b00a-a9c1-ba3fdc5b5731.md)
-      - [ModelTableNameChanges Members](articles/241e9c2d-29ba-97a0-e20c-702ebd9b7b69.md)
-      - [Properties](articles/8a158bd8-231b-7c65-c16f-08618afa80a3.md)
+      
+      
         - [Application Property](articles/c1c99f30-cfa7-206c-0353-41e0b8fca17a.md)
         - [Count Property](articles/beb40e9f-527e-3c14-39ac-7bc8563826f2.md)
         - [Creator Property](articles/42ed6b08-659d-3cec-c619-2def633ae2f9.md)
         - [Parent Property](articles/fec29415-2108-44eb-a9ad-cb1e8546c6c6.md)
-      - [Methods](articles/3092e002-e481-87f0-419c-a540762e72f9.md)
+      
         - [Item Method](articles/5371438c-15d8-dcca-3fea-db56b5f9e827.md)
     - [ModelTableNames Object](articles/70fa4b5b-ebc6-9ac9-de6c-40835b1ea12c.md)
-      - [ModelTableNames Members](articles/e79f2c49-6a54-b4d8-6f99-142d935fca9f.md)
-      - [Properties](articles/4e1e0237-f45f-a0ed-36a2-4aeff75cd55e.md)
+      
+      
         - [Application Property](articles/65e3c7a7-2cce-b9e3-cf72-6fc533ec9f83.md)
         - [Count Property](articles/d1856fdc-4d8a-1916-1f0d-d6d61e3a4070.md)
         - [Creator Property](articles/b601427f-9408-ac33-49dd-1bbe3e5fc9f4.md)
         - [Parent Property](articles/c9d4c686-4f93-8734-0905-762e03ffc91f.md)
-      - [Methods](articles/6b0be7fe-06b1-c952-1f23-64262cf5ff4b.md)
+      
         - [Item Method](articles/78d20878-4599-71f0-8717-8fd01253d270.md)
     - [ModelTables Object](articles/1d1cda4a-2472-4f1e-2725-cc39b2cf086c.md)
-      - [ModelTables Members](articles/d0b0e342-d7ad-46e7-1d60-8e5297b9e2fb.md)
-      - [Properties](articles/6af3cc74-4f60-c81e-6df4-e434a748df71.md)
+      
+      
         - [Application Property](articles/8d44b48b-47ed-02db-161f-449a166be50e.md)
         - [Count Property](articles/6dbafd52-96ec-0391-ca07-4b2a61f5b6c0.md)
         - [Creator Property](articles/c555bfd4-0696-eda1-9e9f-19012b9f6233.md)
         - [Parent Property](articles/ed326e33-6549-52df-9bd2-39641cab2de7.md)
-      - [Methods](articles/8b94108c-f124-e7ae-ce65-25c041ddff75.md)
+      
         - [Item Method](articles/293e7479-5a5c-cb59-6181-e58cf10026dd.md)
     - [ModuleView Object](articles/c9133d55-52ab-782d-3d77-8b453b6ab343.md)
-      - [ModuleView Members](articles/41903808-0dbe-3b7a-4b41-302a9b9833e8.md)
-      - [Properties](articles/1112c0ba-b996-44e1-8eba-3786d90e4d4e.md)
+      
+      
         - [Application Property](articles/146a4e04-cd60-d438-db84-a58239a80fe8.md)
         - [Creator Property](articles/fbea6b68-4680-e9b4-d05b-c32c7bb8d9a5.md)
         - [Parent Property](articles/38e9cb3c-3481-fc43-6c6e-0406042cbde1.md)
         - [Sheet Property](articles/69b58d96-2f32-7fb4-eff7-889de6c72fcf.md)
     - [MultiThreadedCalculation Object](articles/3f7bee4c-0ddd-b47f-5bea-b8e7507fae5a.md)
-      - [MultiThreadedCalculation Members](articles/e2e29b89-a387-ef79-3a25-37bc4943e1e1.md)
-      - [Properties](articles/58866b9b-f34d-4a26-90e2-a5560f35165d.md)
+      
+      
         - [Application Property](articles/bd2ad5ed-98a1-f579-31be-9f551aa09de1.md)
         - [Creator Property](articles/4121064b-2a70-e46c-c4e0-dc72cb894edf.md)
         - [Enabled Property](articles/6c976581-6512-23cb-5acc-6742556a0897.md)
@@ -2619,8 +2619,8 @@
         - [ThreadCount Property](articles/213ee475-51f1-b7bd-47ec-ec8893c77668.md)
         - [ThreadMode Property](articles/af69bb6f-262a-a726-c6eb-9927de0dbb1a.md)
     - [Name Object](articles/cfedb297-ac0d-dff0-99c7-6927cc5f31ed.md)
-      - [Name Members](articles/7c35e8e8-4f81-7cec-da3e-faf738903726.md)
-      - [Properties](articles/7c5b39f2-e13e-462f-bcbb-6b8b1a1ea6b3.md)
+      
+      
         - [Application Property](articles/e8272a17-5ad8-b63f-3b30-7abd49434d98.md)
         - [Category Property](articles/01892c7b-a42e-e4b3-6ddd-27ace1c51aae.md)
         - [CategoryLocal Property](articles/5f80e0a4-e12d-a85d-69a1-979652f62ac3.md)
@@ -2641,21 +2641,21 @@
         - [Value Property](articles/26732c54-3519-885d-e40d-69c6b1795318.md)
         - [Visible Property](articles/078a949c-ff27-c62d-10b0-7d83b190da13.md)
         - [WorkbookParameter Property](articles/1a7983fc-9020-fb72-21b1-822d19802c31.md)
-      - [Methods](articles/de72ecbb-4044-4ffd-a661-08bcfaf2bf18.md)
+      
         - [Delete Method](articles/429a5d17-8f34-9a04-d744-66ce1e9e39a7.md)
     - [Names Object](articles/ffecf89d-7bae-c470-8e37-608857a9de2a.md)
-      - [Names Members](articles/32c3c4d9-80fb-28c8-86e0-d504e3bfc0ba.md)
-      - [Properties](articles/c7a0fce3-e101-441d-bdc9-144acf95b82c.md)
+      
+      
         - [Application Property](articles/228b18d7-7712-0858-a0e2-7d034f9036e0.md)
         - [Count Property](articles/f33046db-1912-5047-a205-e87d01427dfa.md)
         - [Creator Property](articles/7584df14-1683-a80d-ec09-2354bdb4e71d.md)
         - [Parent Property](articles/389a398a-d41e-ba20-6133-cdd410c24ac0.md)
-      - [Methods](articles/08716aaf-6d92-4fb8-b2d6-41bd92533dbd.md)
+      
         - [Add Method](articles/89a888bc-20b1-dd63-ede9-b3ba1d5ffab0.md)
         - [Item Method](articles/01d138f1-a2a8-8c39-98f0-b953c4b3b5ba.md)
     - [NegativeBarFormat Object](articles/25daa644-29af-a7c1-1d11-be9c72cfff7a.md)
-      - [NegativeBarFormat Members](articles/4c26bd77-17a6-453d-75d0-ac83066fab5b.md)
-      - [Properties](articles/ec6237cd-52b3-4f48-8b08-97b1cb5a51bc.md)
+      
+      
         - [Application Property](articles/12a8b047-9840-381d-8614-37967470118f.md)
         - [BorderColor Property](articles/debe910b-db4a-8e6c-b3c0-3d6eb61fb4a2.md)
         - [BorderColorType Property](articles/014d8bc9-6c9d-df2d-2152-09f206400388.md)
@@ -2664,8 +2664,8 @@
         - [Creator Property](articles/64658149-191d-18b6-ca51-2fc23f7ab09f.md)
         - [Parent Property](articles/ef03c59d-0ee2-37e3-37c0-c48f44539e21.md)
     - [ODBCConnection Object](articles/b880ebec-15a4-5a3d-ef02-db73106db9c9.md)
-      - [ODBCConnection Members](articles/d13b91f3-a89f-7dd7-7a98-f1d952f3b047.md)
-      - [Properties](articles/bee9ea5a-4d95-42a2-9f50-68a367ae26a8.md)
+      
+      
         - [AlwaysUseConnectionFile Property](articles/445c7371-0ac6-b6f3-1a78-a406922d106f.md)
         - [Application Property](articles/2aa92dfa-bb6c-f2a2-d96f-bee32ee4713b.md)
         - [BackgroundQuery Property](articles/d7bd7700-791e-a414-3e4b-e05e6646589f.md)
@@ -2686,30 +2686,30 @@
         - [SourceConnectionFile Property](articles/0e38ca83-522e-769a-9e07-6d9e78ceecea.md)
         - [SourceData Property](articles/a23a4c9b-9754-116a-38c8-d71d8f458543.md)
         - [SourceDataFile Property](articles/f32c0eeb-e8f5-1a9f-13fd-ead4ad96381f.md)
-      - [Methods](articles/51fb0ee2-8bf0-4824-9bbb-cd7362a3289e.md)
+      
         - [CancelRefresh Method](articles/8eafa6de-0c3f-3408-cb69-79d92e254c29.md)
         - [Refresh Method](articles/26a9ba46-1679-f83b-6933-b6c448dce9e7.md)
         - [SaveAsODC Method](articles/a499de7c-ee4a-22d2-ff35-33489fcf4fe1.md)
     - [ODBCError Object](articles/a256d466-7fa1-4b0f-fe01-c2640743e7e9.md)
-      - [ODBCError Members](articles/d2dc90a0-5f7e-1e2e-6fdf-307b3ed42fec.md)
-      - [Properties](articles/8838f2d6-8748-48bf-ad46-735357112ab3.md)
+      
+      
         - [Application Property](articles/b89dce82-77cc-deec-1ee4-cfe4db4bf785.md)
         - [Creator Property](articles/0c565d02-2e5e-e997-f3ea-0775121eb545.md)
         - [ErrorString Property](articles/8d7a5e14-459a-963f-e3a4-696ec1b43d21.md)
         - [Parent Property](articles/9796e5dc-560f-63c9-7b54-8460ffed9299.md)
         - [SqlState Property](articles/772a4e82-e661-5568-5fea-49a2925cb156.md)
     - [ODBCErrors Object](articles/2f1c8a6b-2b9d-fc2c-7caa-289652ac8e24.md)
-      - [ODBCErrors Members](articles/f59038ac-2664-73db-5165-6940a1cf1dd7.md)
-      - [Properties](articles/0a5a2ca5-03d9-457c-b9c7-3b57087cd37f.md)
+      
+      
         - [Application Property](articles/c204119d-a371-0821-40f1-0515c97e48e2.md)
         - [Count Property](articles/bb668c7f-d70e-0141-cf67-7286925f9979.md)
         - [Creator Property](articles/0db4a69d-36bd-a3cc-a407-e2a65bcf7fb3.md)
         - [Parent Property](articles/8e34809a-b780-f700-9809-7939f8b640e5.md)
-      - [Methods](articles/29a261f5-2bcf-4c2a-bf87-10701cb2352c.md)
+      
         - [Item Method](articles/694a0e7e-f6c0-8721-792b-8e82e6a8e5c1.md)
     - [OLEDBConnection Object](articles/f246e544-9854-8e71-a7f7-dec57dd725e4.md)
-      - [OLEDBConnection Members](articles/2f1a2f81-ee3a-1b60-8dc3-87818e1790c1.md)
-      - [Properties](articles/f6f29857-204c-411c-bdbb-b5a830155dc9.md)
+      
+      
         - [ADOConnection Property](articles/918dd5eb-a9af-7466-92df-cae4e34676be.md)
         - [AlwaysUseConnectionFile Property](articles/de9cd9a7-0dd6-7ee2-d48f-bd61a7006c1e.md)
         - [Application Property](articles/fadade6e-d90f-974f-05e0-429e1500ef03.md)
@@ -2743,15 +2743,15 @@
         - [SourceConnectionFile Property](articles/6dcae3c3-26fe-b373-cb5c-d6bdf68b1265.md)
         - [SourceDataFile Property](articles/ddadf399-3f93-bd20-22cf-5f9303704218.md)
         - [UseLocalConnection Property](articles/b346933c-17cd-ef11-6070-ee840c8d7c0a.md)
-      - [Methods](articles/3f151bc3-70e0-4a37-abba-ecf0d0d8e470.md)
+      
         - [CancelRefresh Method](articles/28272852-36f8-c96c-0901-5d0bf237527e.md)
         - [MakeConnection Method](articles/ff618eae-1593-aabc-dbcb-427291caf923.md)
         - [Reconnect Method](articles/94f862a0-a42e-bd80-3e1c-9adc52414bfe.md)
         - [Refresh Method](articles/c28e9443-81e2-dfec-a3fb-a127c3fa2918.md)
         - [SaveAsODC Method](articles/da83acf3-c935-c36f-944e-35b46e54cabf.md)
     - [OLEDBError Object](articles/6bcbf721-f2c8-f784-361b-e1a298bb2ecb.md)
-      - [OLEDBError Members](articles/52181252-dd6f-b267-fa21-4ad8175b7346.md)
-      - [Properties](articles/ae3f11b4-a2d2-4b66-9585-f974d2a65a5c.md)
+      
+      
         - [Application Property](articles/4e1f12b9-ba10-d579-4176-d02e086c172a.md)
         - [Creator Property](articles/dab01efa-cefb-1dee-847e-56688ef88c14.md)
         - [ErrorString Property](articles/64f4780a-e8bc-fbbf-9b06-02a78ebcb181.md)
@@ -2761,28 +2761,28 @@
         - [SqlState Property](articles/cd05c61a-da9f-5022-c359-b90351e6489d.md)
         - [Stage Property](articles/71dd6495-3d03-307d-a7cd-816779f25754.md)
     - [OLEDBErrors Object](articles/0e48697d-4f65-b544-4487-24a9fd2b81b6.md)
-      - [OLEDBErrors Members](articles/1e3ba0ad-6761-87a2-b6e6-7c0a5ae7f605.md)
-      - [Properties](articles/da8e4081-6ae7-4119-a471-d0cb8085b819.md)
+      
+      
         - [Application Property](articles/eff6b776-cc64-e531-fb4a-1bd14456aae0.md)
         - [Count Property](articles/79c3afe1-bb75-b58b-c3c6-3e9faa561a98.md)
         - [Creator Property](articles/c2143d28-5e66-5207-7d8d-82333d9de724.md)
         - [Parent Property](articles/6891438b-136f-a591-4e27-29e5986857a3.md)
-      - [Methods](articles/4e9f3ca9-ef40-4a07-9180-c14ea03a1be7.md)
+      
         - [Item Method](articles/b5635b91-19ac-7915-ccb5-3bcb3d5d208a.md)
     - [OLEFormat Object](articles/96ee06d8-e922-c48c-4406-bb2f5cbaa02a.md)
-      - [OLEFormat Members](articles/18f0bbed-752a-5e01-51f1-c17435b3adea.md)
-      - [Properties](articles/1fcb104a-eef8-4361-aaf8-502c336ce316.md)
+      
+      
         - [Application Property](articles/67ef4e77-1c86-1872-d054-30cd0d0de90b.md)
         - [Creator Property](articles/f7a0e432-0eda-0f6b-93da-1dcc1d9fc267.md)
         - [Object Property](articles/be4b7180-34f5-6577-4cfa-b8df017f307a.md)
         - [Parent Property](articles/21272b09-4cdb-59bf-ccbc-e0b6938feab9.md)
         - [progID Property](articles/77156cae-46fc-2068-4dce-cb584e56b496.md)
-      - [Methods](articles/85091bac-f875-4060-88b8-2e160382a71e.md)
+      
         - [Activate Method](articles/e6d9974e-5287-bf4c-24b8-9bb5696e53af.md)
         - [Verb Method](articles/bf5736e8-1909-ed0a-aaab-297ccde9ffef.md)
     - [OLEObject Object](articles/bc3ef12d-1531-6c21-71ab-3df6bb851f3b.md)
-      - [OLEObject Members](articles/fcee0a0a-a270-9f03-37f6-eb5989797bba.md)
-      - [Properties](articles/fa360d25-5127-488d-84a5-1f82c455f3c3.md)
+      
+      
         - [Application Property](articles/fe0c0640-9e9b-ba8e-6689-12b0bdaa27ba.md)
         - [AutoLoad Property](articles/cf57d137-8b26-5f19-29a0-13e350cfd32a.md)
         - [AutoUpdate Property](articles/3834c552-a282-ab75-781e-42c055346b7d.md)
@@ -2812,7 +2812,7 @@
         - [Visible Property](articles/0bf26f02-3ca4-281c-7bf7-4a85bc77eb19.md)
         - [Width Property](articles/d025e7f6-0364-3314-7717-83126613a2fb.md)
         - [ZOrder Property](articles/dd7c2c81-6582-5de9-d254-66061d4345ef.md)
-      - [Methods](articles/dc4dd5c0-e2cd-41c7-ad2c-f52ab7aac530.md)
+      
         - [Activate Method](articles/046c97b6-89a6-0455-088a-cc54dd176d35.md)
         - [BringToFront Method](articles/c9a5994b-b8b9-91e6-1bfd-cab286b8efee.md)
         - [Copy Method](articles/7bd68679-6cfd-4ee4-678a-0f6eecd64850.md)
@@ -2824,12 +2824,12 @@
         - [SendToBack Method](articles/c500dfd8-9176-49ae-23a2-24f64ef897b3.md)
         - [Update Method](articles/7784b688-fef2-14b3-761a-df412dfa0282.md)
         - [Verb Method](articles/c5714863-641c-1bfd-5688-9267494fb12d.md)
-      - [Events](articles/ee7de08a-04de-4efd-81e5-736082d61f1a.md)
+      
         - [GotFocus Event](articles/2bd9a3d8-9305-2354-5ddd-262f4720b444.md)
         - [LostFocus Event](articles/9d8004be-97f5-54d2-3826-210f7cf0569f.md)
     - [OLEObjects Object](articles/e3fcf4bd-7c96-ecb3-dc04-551f7f7348f9.md)
-      - [OLEObjects Members](articles/7c3b0619-a988-1b8c-51b1-4c8ef3180264.md)
-      - [Properties](articles/fa43bbd5-dc28-45e7-bb8d-d5a2fbd57405.md)
+      
+      
         - [Application Property](articles/b6183c63-aad9-c530-e6c7-519eaddfe46b.md)
         - [AutoLoad Property](articles/0b833fe9-33c6-e97d-3b19-52429ed88d88.md)
         - [Border Property](articles/6c3991b0-2df9-5c34-82df-7d9d8a8dc41a.md)
@@ -2850,7 +2850,7 @@
         - [Visible Property](articles/dc297a24-9a39-7b74-715d-e86d02c546c9.md)
         - [Width Property](articles/5749e573-6b07-8ac9-661a-dc5966349c01.md)
         - [ZOrder Property](articles/44bfb522-6edf-cf77-45ef-0b68f14514ef.md)
-      - [Methods](articles/b525e178-9fc3-4fd9-93aa-09585f42378b.md)
+      
         - [Add Method](articles/2acd369f-6dd6-0e0e-043c-a691796659a9.md)
         - [BringToFront Method](articles/07742776-f3fd-9260-b982-b6f791d52e40.md)
         - [Copy Method](articles/e77507d2-92d6-4875-8c19-ebc08c118357.md)
@@ -2862,19 +2862,19 @@
         - [Select Method](articles/bdad0692-8cc3-e644-80b0-34619f9113cd.md)
         - [SendToBack Method](articles/b056deb0-bcbc-c54f-236b-3ed05aed43ee.md)
     - [Outline Object](articles/f5d50a8a-0dd9-638a-4374-5c648386a598.md)
-      - [Outline Members](articles/bf8e2103-d023-fc1f-90f2-960dff36e548.md)
-      - [Properties](articles/675ab7c1-2870-4518-bb4c-d554d9480bcc.md)
+      
+      
         - [Application Property](articles/e0c04b79-8de0-90fb-6574-073baae00dd8.md)
         - [AutomaticStyles Property](articles/a40c5ba0-c754-eadc-8951-415de976bc00.md)
         - [Creator Property](articles/b0d9637e-c913-54c1-f782-7f933e4b39dd.md)
         - [Parent Property](articles/9a42fb74-6508-27f2-f874-254b7c33b084.md)
         - [SummaryColumn Property](articles/b134c991-7875-445a-ca73-d48bf23f3eea.md)
         - [SummaryRow Property](articles/f36fac55-cafd-1ec6-4e85-a7f4fc665c04.md)
-      - [Methods](articles/a671419d-bd3f-4bc6-a408-62b2ac165828.md)
+      
         - [ShowLevels Method](articles/2ebeb135-bbb9-aac1-57d7-02a141aa3ddb.md)
     - [Page Object](articles/debd4537-af71-8699-b714-6854c3cf0fad.md)
-      - [Page Members](articles/d9cb2764-7b24-1ca0-c8e3-3743e6fe7ff7.md)
-      - [Properties](articles/550ad731-fa7b-47c2-91e2-d32d006d3e22.md)
+      
+      
         - [CenterFooter Property](articles/b8fc6bc5-9cf3-3b47-5d9f-9ade28c2d775.md)
         - [CenterHeader Property](articles/e8f9ab4e-4f25-0378-0959-97a8cfefc7b6.md)
         - [LeftFooter Property](articles/ec88bfe1-039e-7d8d-43c3-d8b1771f7f36.md)
@@ -2882,13 +2882,13 @@
         - [RightFooter Property](articles/457fb633-d748-bfc4-9188-87b0a46209dc.md)
         - [RightHeader Property](articles/a84bc345-b8ee-0d8a-8009-d7f6edef1db6.md)
     - [Pages Object](articles/ecedccc4-e1af-6a66-9d83-bd0cf76dfe68.md)
-      - [Pages Members](articles/970cda07-ab54-2142-1f0c-d11a1ee4f566.md)
-      - [Properties](articles/a72d5ef6-fcb9-4c99-a0fe-42de9f6530e1.md)
+      
+      
         - [Count Property](articles/8057db6b-1f13-3950-5508-0bbcec892359.md)
         - [Item Property](articles/d5e15285-cdf8-f7dd-8a10-e7b045f76b7f.md)
     - [PageSetup Object](articles/2fd22df9-5987-f723-04a9-9a3f2e84ac81.md)
-      - [PageSetup Members](articles/feabe079-cb03-f560-6032-88f5585ec8a8.md)
-      - [Properties](articles/7f0dd9a5-a4dc-4ebd-976a-59f92a0bac3a.md)
+      
+      
         - [AlignMarginsHeaderFooter Property](articles/b5fde8f6-3e77-e3f1-422b-af88ec31d6ea.md)
         - [Application Property](articles/9d2bf0db-7dc3-1295-ab68-e32863ed0143.md)
         - [BlackAndWhite Property](articles/81d1fd09-d317-7d3f-5200-875340a5917e.md)
@@ -2938,8 +2938,8 @@
         - [TopMargin Property](articles/1c4efb20-844c-b602-48b4-ef60b8e5dda5.md)
         - [Zoom Property](articles/3deebce5-8605-c549-371c-033848073ffe.md)
     - [Pane Object](articles/9064bb89-d08c-bbd3-3c0f-77a39586bbbb.md)
-      - [Pane Members](articles/a466bdba-1991-9ee0-c25a-906c034fcc8f.md)
-      - [Properties](articles/04660507-3d88-491e-91f0-6bb3ff01e170.md)
+      
+      
         - [Application Property](articles/ec2d6535-1160-6196-25e9-7a4dafa376da.md)
         - [Creator Property](articles/600f4ae4-8fb6-c81e-c29c-654f72235bc1.md)
         - [Index Property](articles/616dc455-b092-78b8-b806-f6bf71ef9867.md)
@@ -2947,7 +2947,7 @@
         - [ScrollColumn Property](articles/47165fe4-299d-8863-708f-9db22ef52ed1.md)
         - [ScrollRow Property](articles/eb1f55b8-6726-00b6-845f-1cbf47cf6b13.md)
         - [VisibleRange Property](articles/03853894-ca83-1672-21bb-15099bab03d8.md)
-      - [Methods](articles/cec86206-8d2a-45e0-b565-8d0c75ca30cb.md)
+      
         - [Activate Method](articles/8c5a97cf-df0f-01ad-a87f-83f79761ad61.md)
         - [LargeScroll Method](articles/e785bf52-d19b-a6e6-212b-0c5b5de88910.md)
         - [PointsToScreenPixelsX Method](articles/38336ba4-0e2d-f8dc-29b1-184b7663f490.md)
@@ -2955,16 +2955,16 @@
         - [ScrollIntoView Method](articles/650020f6-cc4a-fe19-8c7a-3c2ed9b27e16.md)
         - [SmallScroll Method](articles/d41345f6-1b46-0772-afba-81d377acc90f.md)
     - [Panes Object](articles/ce27ae27-52d9-9e51-a068-b9c082a0a692.md)
-      - [Panes Members](articles/39e33777-dd62-1364-4d95-82d50d026617.md)
-      - [Properties](articles/775a8f58-5820-40c2-a5bb-607b060384ce.md)
+      
+      
         - [Application Property](articles/90a30237-d38c-04c7-bf85-1363d8f27438.md)
         - [Count Property](articles/ac5b3fc5-94e2-8b2a-a45b-a19fa4835621.md)
         - [Creator Property](articles/e163a44f-7413-1e72-891e-78acc6ab2634.md)
         - [Item Property](articles/5960e77c-23b4-2ce4-1674-2ffd3b4f6e47.md)
         - [Parent Property](articles/3dc23f15-3cda-3778-077b-f70acfcc364a.md)
     - [Parameter Object](articles/2a30f4ef-2cae-c96d-4480-3ba55fa871e8.md)
-      - [Parameter Members](articles/1aca4dc1-3a5c-1933-311c-7b96e4dd37e3.md)
-      - [Properties](articles/af59d1c5-3376-4ac6-a5d8-1d82302ef08e.md)
+      
+      
         - [Application Property](articles/8cf1a9a6-e9ae-3f4e-0181-c54bbc9732af.md)
         - [Creator Property](articles/3af59d13-b371-3e9f-b6d2-62452a2cba98.md)
         - [DataType Property](articles/c5f6fe14-9c4c-16ae-0fdb-28142ed5327c.md)
@@ -2975,22 +2975,22 @@
         - [SourceRange Property](articles/243ac075-24cc-549a-58fb-195d71dc6e68.md)
         - [Type Property](articles/102e86cd-d5c4-8f94-167d-ab437cfbf69f.md)
         - [Value Property](articles/f17f139d-8ce8-41af-3ddb-93b2de361d1a.md)
-      - [Methods](articles/ed216818-6fe9-4b29-b914-90a6f0374c35.md)
+      
         - [SetParam Method](articles/af1f5b0a-75a1-ae85-b291-cc3ab514b0a3.md)
     - [Parameters Object](articles/d67147f1-d587-a9e4-ed8e-8a1140e8a868.md)
-      - [Parameters Members](articles/30ddf56e-ec82-b61c-2c17-adcf4507070a.md)
-      - [Properties](articles/193e41fe-89c7-4d12-9e7e-85587ff9a6bc.md)
+      
+      
         - [Application Property](articles/25cafe3a-43a9-9b47-21f9-2fab3efc13b3.md)
         - [Count Property](articles/51f5bd35-f294-d63e-03c3-2a2e6f3f2f7a.md)
         - [Creator Property](articles/357ca5be-2f41-4bac-a10a-b917441f6e29.md)
         - [Parent Property](articles/4c88da76-7176-96de-449a-bb529f292a93.md)
-      - [Methods](articles/b7b8f1ae-5c47-4eac-bd27-a78c6ba93857.md)
+      
         - [Add Method](articles/043276ed-4af7-3b7a-dbfb-549489d3a127.md)
         - [Delete Method](articles/0e708f81-6d82-3af5-2cde-fa8c924611f8.md)
         - [Item Method](articles/66db6a11-b0e3-4417-0589-b0085f67c77a.md)
     - [Phonetic Object](articles/297e85d5-e8f6-6009-c51a-0d3fe01efba0.md)
-      - [Phonetic Members](articles/4875c308-cfdb-6427-997c-35f7d919efab.md)
-      - [Properties](articles/25527f7b-8b77-4ce4-8eed-c9b54ca6da27.md)
+      
+      
         - [Alignment Property](articles/728075ec-889a-4d76-c4e0-508dd10c8fe9.md)
         - [Application Property](articles/68c5d8cf-4c03-9623-5df2-2bf5f0773cd0.md)
         - [CharacterType Property](articles/2c8ba9b0-1d87-7627-7083-31c9260b68b5.md)
@@ -3000,8 +3000,8 @@
         - [Text Property](articles/f1c820ad-4791-a344-e6aa-72aaac129f59.md)
         - [Visible Property](articles/3a2f0ac3-2a6b-221e-3a7c-d5c395db5bc5.md)
     - [Phonetics Object](articles/77c0c55c-a181-c68a-24ed-e6bcaf514663.md)
-      - [Phonetics Members](articles/80fd2a10-1727-b652-5f81-6143ae8bead3.md)
-      - [Properties](articles/850a05cc-2296-4dcc-8575-4321750a676a.md)
+      
+      
         - [Alignment Property](articles/20573e0b-37d4-1600-dcc8-8f05e6a31bb1.md)
         - [Application Property](articles/346c0218-d19f-beaf-a192-09c1fa95da25.md)
         - [CharacterType Property](articles/b61c3bd5-86dc-baed-e47f-62d522fca290.md)
@@ -3014,12 +3014,12 @@
         - [Start Property](articles/987613b4-7f33-7004-6abf-fb52061cb722.md)
         - [Text Property](articles/fe420ad7-d945-2009-5a91-13653d5316d9.md)
         - [Visible Property](articles/ea296d55-e788-888d-9c13-74a46a4d5cd0.md)
-      - [Methods](articles/754bc400-3d45-461a-acc9-2ec0fdc03b6b.md)
+      
         - [Add Method](articles/2a60a1cd-e15e-1341-2de8-953aa999ac07.md)
         - [Delete Method](articles/0dab7f60-d6e5-efa1-e58a-92f3f0de9cc5.md)
     - [PictureFormat Object](articles/7e8ec723-b6e0-fdc9-ff4e-22cbb31be4df.md)
-      - [PictureFormat Members](articles/d27d6074-2698-2b1d-87cb-c9cc187354c3.md)
-      - [Properties](articles/259a8e52-dc2a-477b-ab83-6634f336532f.md)
+      
+      
         - [Application Property](articles/afc9ab72-cf23-a4de-1c21-4d4e28bd623b.md)
         - [Brightness Property](articles/f17ee171-47da-c982-2f48-9ee333193add.md)
         - [ColorType Property](articles/6c183163-8fbd-3a0f-b087-05d8d2cdbfd5.md)
@@ -3033,19 +3033,19 @@
         - [Parent Property](articles/215d013c-02cc-bbe2-32f1-585888506ece.md)
         - [TransparencyColor Property](articles/c3a7a247-0cc2-adc8-e13f-a1f4ff728ba0.md)
         - [TransparentBackground Property](articles/9b7cc5b5-610a-821b-cf99-e2af5c4ecf61.md)
-      - [Methods](articles/4f83d203-af20-4d7c-9068-b88e2f29742d.md)
+      
         - [IncrementBrightness Method](articles/3f75ff17-6cd6-e397-468c-6bf0d1307578.md)
         - [IncrementContrast Method](articles/6bb72eed-c291-fac2-f4ca-4ca847bd8458.md)
     - [PivotAxis Object](articles/f8f4fbef-5cf7-1615-2ed3-7c90ab6c82f6.md)
-      - [PivotAxis Members](articles/b6c83c38-d8f8-2d5f-7216-0501ad87225f.md)
-      - [Properties](articles/6cf788af-9bbf-4e59-9b10-12ceaaabd933.md)
+      
+      
         - [Application Property](articles/7f1c8537-57d5-25a2-ff7d-45364f23b7aa.md)
         - [Creator Property](articles/4fa167dd-6cc3-f296-7d34-15dc835d7310.md)
         - [Parent Property](articles/5cab3969-5894-a88a-3c95-38df7bc0e79e.md)
         - [PivotLines Property](articles/1172bb70-d8e2-246f-5942-4d66c8b1d97a.md)
     - [PivotCache Object](articles/c3d84ef1-f9e6-b1bc-cbf0-3ba8dfe17439.md)
-      - [PivotCache Members](articles/113f1109-e1c9-2c6e-0581-9fba82f278dc.md)
-      - [Properties](articles/f075672d-f01b-4fbe-934d-b67395015bda.md)
+      
+      
         - [ADOConnection Property](articles/410a3eee-0dda-4be1-45c4-809893de624e.md)
         - [Application Property](articles/da312f38-5253-05b2-f7a4-e1779a8bd90e.md)
         - [BackgroundQuery Property](articles/91909d27-68ca-a870-5cd9-72019c65f060.md)
@@ -3080,7 +3080,7 @@
         - [UseLocalConnection Property](articles/ce54adf2-22f3-f4dc-8b97-276d6ca53478.md)
         - [Version Property](articles/357f61a1-7401-46c1-2a47-4172fb045cd5.md)
         - [WorkbookConnection Property](articles/cb4de0b8-6706-f1e3-4e2d-42b38b93c601.md)
-      - [Methods](articles/b3b86b9f-a2ae-41e1-8111-750afd1659de.md)
+      
         - [CreatePivotChart Method](articles/5aeb9a16-2cf8-3525-12b0-0b6e3d3ddf1a.md)
         - [CreatePivotTable Method](articles/dca20930-5d58-8db7-bd81-3c90b7588011.md)
         - [MakeConnection Method](articles/d0b29374-4d5a-7d9e-630a-500b505da1bd.md)
@@ -3088,18 +3088,18 @@
         - [ResetTimer Method](articles/846a6d82-a86f-ea3c-f0b7-0481bda02470.md)
         - [SaveAsODC Method](articles/d7b553a5-70b1-41e7-9e35-088c23357570.md)
     - [PivotCaches Object](articles/cfd979b9-d52f-f34b-4b66-4fb17efcdc92.md)
-      - [PivotCaches Members](articles/ae02e993-6f66-bad6-9722-731c08d3208a.md)
-      - [Properties](articles/6986532d-04e7-4f16-9a69-602ca47d967e.md)
+      
+      
         - [Application Property](articles/ecb75841-40c1-10ea-5340-3af98c21f05f.md)
         - [Count Property](articles/6ab97937-7002-b940-9b76-34a816b823b8.md)
         - [Creator Property](articles/5efdcef6-7827-9546-a186-174dde597b7a.md)
         - [Parent Property](articles/10c84d33-c9db-db4f-086e-e37e5cfb8479.md)
-      - [Methods](articles/12092271-b31c-491c-bb7e-9218a02e2bea.md)
+      
         - [Create Method](articles/d26e6786-064a-174c-5b9f-79e85b34f59b.md)
         - [Item Method](articles/80a830fb-a1bf-f1dd-962c-339d99b6f80d.md)
     - [PivotCell Object](articles/76b8a2dc-90ee-7475-d327-d27cb1e92703.md)
-      - [PivotCell Members](articles/e486cd5d-3f31-29d4-b811-24fc0aed6803.md)
-      - [Properties](articles/4d0fd14b-13b9-4981-af69-8d4ce360a6de.md)
+      
+      
         - [Application Property](articles/63a2a460-a72f-086a-8401-2e029847ee39.md)
         - [CellChanged Property](articles/fc2ba7b5-4dfe-4b05-922e-2ac079c5afb1.md)
         - [ColumnItems Property](articles/66936e2f-740e-e3de-5d20-47885bee9691.md)
@@ -3118,12 +3118,12 @@
         - [Range Property](articles/b0b52ca0-a73b-acc3-25a8-330da27e4f92.md)
         - [RowItems Property](articles/4833f772-9abd-a2fa-e3f0-e86f54caf05e.md)
         - [ServerActions Property](articles/e895f7ee-e636-29b6-9385-2710885cc01c.md)
-      - [Methods](articles/d6b2b236-6760-451d-a696-69cd8a3c130d.md)
+      
         - [AllocateChange Method](articles/21865f48-a011-478b-b485-16eba786dd92.md)
         - [DiscardChange Method](articles/26bd8db6-05c9-791a-be69-2f141053c746.md)
     - [PivotField Object](articles/52784960-e2da-b43a-1e37-2d4dae61c6d8.md)
-      - [PivotField Members](articles/4a6ea12a-072c-a386-c855-7bf5f6eadd46.md)
-      - [Properties](articles/8f7f1c03-f589-4a34-841e-0c55577e54a1.md)
+      
+      
         - [AllItemsVisible Property](articles/8e821b17-d9e9-5c39-c087-3e9dd7bf3922.md)
         - [Application Property](articles/4a23393f-952b-df91-9d0d-33753f7efcde.md)
         - [AutoShowCount Property](articles/bbf7d754-04b3-d729-cf44-994fdc62db16.md)
@@ -3201,7 +3201,7 @@
         - [Value Property](articles/c10092ee-7328-b89e-ce8c-d821a08200a0.md)
         - [VisibleItems Property](articles/f5c0f367-42a4-fffe-5b27-af2c19890ad3.md)
         - [VisibleItemsList Property](articles/ddcc2dce-30bf-ba50-22fa-a4baf41129f5.md)
-      - [Methods](articles/e178488f-d7b9-418d-9792-23f23300c9ef.md)
+      
         - [AddPageItem Method](articles/c7f63c9f-9ad2-fcd9-13de-e9e46c40b8dc.md)
         - [AutoGroup Method](articles/b8806ccf-a4c0-3dfc-a04b-3244ccfb3163.md)
         - [AutoShow Method](articles/8caea6de-8872-c474-38bd-8d6d78d9f0cc.md)
@@ -3215,17 +3215,17 @@
         - [DrillTo Method](articles/a00fe83a-136d-45a3-d3aa-f7ea4d434001.md)
         - [PivotItems Method](articles/5ec5fa1e-a080-2cbf-e4d4-b15d39e13ac5.md)
     - [PivotFields Object](articles/018d4cea-09ea-d4be-baef-5fd55062935b.md)
-      - [PivotFields Members](articles/5052ec10-ead9-3e8e-ac4b-d5d5ebc59921.md)
-      - [Properties](articles/619a8844-4944-4012-be2a-cbafe15f8860.md)
+      
+      
         - [Application Property](articles/51c3a714-4da2-6459-82d9-f8d6f45ccc75.md)
         - [Count Property](articles/29f23d5a-87f1-1b21-4ee1-665232970e2f.md)
         - [Creator Property](articles/a8d19289-196f-f7d7-bac9-fa891b3461db.md)
         - [Parent Property](articles/1c4f693f-277e-fcd6-6603-2a411bb35b85.md)
-      - [Methods](articles/e3f72ae7-8d72-4a57-90f3-58df0ecd4982.md)
+      
         - [Item Method](articles/497c8536-30cb-8c7b-8d83-62ae94a37a7f.md)
     - [PivotFilter Object](articles/70c27dc9-2c19-47d2-307b-808507039d94.md)
-      - [PivotFilter Members](articles/a1be2481-9d14-cc49-8a1b-187048f0d179.md)
-      - [Properties](articles/567598e3-eadf-4459-8a7a-6b68d2a56791.md)
+      
+      
         - [Active Property](articles/9fdbab3b-96e1-d821-5dc3-77a8a02c850a.md)
         - [Application Property](articles/7062c76e-9239-b01e-cfef-0a8e0e2de52d.md)
         - [Creator Property](articles/b35b64b0-2565-cd94-92c0-a013e3fbb4a5.md)
@@ -3242,21 +3242,21 @@
         - [Value1 Property](articles/307466b5-1c69-e4a3-b365-cae79742bed3.md)
         - [Value2 Property](articles/4142f5a1-77fd-5627-9383-3de875172d33.md)
         - [WholeDayFilter Property](articles/4dc32caf-50de-0cd0-a3d7-b8b52deb4370.md)
-      - [Methods](articles/7e1daf6b-66d4-4c31-a098-536126f6dcd9.md)
+      
         - [Delete Method](articles/3df1eda9-fb1c-6aaf-039f-2c0bb3075d8f.md)
     - [PivotFilters Object](articles/fc647acb-bd6a-8544-6411-1f5e49807e53.md)
-      - [PivotFilters Members](articles/57f1f375-1b7b-c488-c236-91ed26a68bb6.md)
-      - [Properties](articles/b6d4168f-190a-4a4d-8887-5339647b657c.md)
+      
+      
         - [Application Property](articles/9874e0fc-fb59-698d-e8b6-b38115272261.md)
         - [Count Property](articles/a7db4014-5aba-e9fc-d752-fbc3c9c46fa6.md)
         - [Creator Property](articles/f20c1952-90de-3d14-5d31-77f44ce24767.md)
         - [Item Property](articles/7dccd3e9-523b-d260-ff52-4674e874f134.md)
         - [Parent Property](articles/fd1011c9-5d0b-84fa-4b85-4f12558aead7.md)
-      - [Methods](articles/502c2118-bff6-4453-8a8c-2995f3c1036d.md)
+      
         - [Add Method](articles/bf3bb727-4c00-1f8e-5acd-af0b974cba5b.md)
     - [PivotFormula Object](articles/2955dad6-d686-1a83-ab56-76a00272c7e2.md)
-      - [PivotFormula Members](articles/8cd6a78c-0b06-353c-8a74-83996eed80b2.md)
-      - [Properties](articles/50fe150c-5c82-4210-9b5d-987f8ab6ccda.md)
+      
+      
         - [Application Property](articles/5733d267-64ef-5891-7487-fd08e3d3c2c3.md)
         - [Creator Property](articles/d3d302ec-3f9a-7969-bfbe-51e56680cce5.md)
         - [Formula Property](articles/ae7caa68-ac06-51ac-d39c-fc32cee7795a.md)
@@ -3264,21 +3264,21 @@
         - [Parent Property](articles/d284b184-bfbd-4c7f-874f-58e8146d171c.md)
         - [StandardFormula Property](articles/795273e3-e9c8-853d-2328-dddce0e6a72e.md)
         - [Value Property](articles/a82beff5-d8ee-9d93-7ec9-4e3ecc05f624.md)
-      - [Methods](articles/987d0b65-9e00-41f2-8885-3ff679863795.md)
+      
         - [Delete Method](articles/be05b79a-df7a-c3c5-2682-28b823a21a43.md)
     - [PivotFormulas Object](articles/7139a4bd-f103-7190-004f-7f2261a4391f.md)
-      - [PivotFormulas Members](articles/662a2151-3c35-b3fd-b786-5ee0ed7aefd2.md)
-      - [Properties](articles/9ddbe5a6-8e8e-4051-8dee-db32708e13de.md)
+      
+      
         - [Application Property](articles/7d703469-c184-e9fa-7f9d-0cb2d23fe7cb.md)
         - [Count Property](articles/f64c7477-8c0e-1e64-e7a1-cf4b65418393.md)
         - [Creator Property](articles/23be5a99-984e-1c8b-ceb3-17e101b442d5.md)
         - [Parent Property](articles/b46aa5bc-b0d9-d2a7-cb53-2e66a3c40f7e.md)
-      - [Methods](articles/59660e0e-bd7b-49ca-9dd1-bcd459b69d25.md)
+      
         - [Add Method](articles/53969cea-74e5-7102-9a80-89b854006edd.md)
         - [Item Method](articles/023f5702-9e18-f5d1-82b8-2603a98eb0b2.md)
     - [PivotItem Object](articles/5829a1d9-0924-9ce8-1120-229e4595285a.md)
-      - [PivotItem Members](articles/dde86683-8c89-2484-cdd0-8c3db0c06f45.md)
-      - [Properties](articles/ffeaf68e-c366-448a-ab68-011acb60cd3f.md)
+      
+      
         - [Application Property](articles/13770276-455d-6bdb-5fbd-9510bfeb7fcc.md)
         - [Caption Property](articles/5b7f3136-971e-6e11-f709-7fffbc86975a.md)
         - [ChildItems Property](articles/5ae6936e-0ae7-284a-1733-86ba292e8a9c.md)
@@ -3300,38 +3300,38 @@
         - [StandardFormula Property](articles/34410ff5-0330-f685-e508-94084e6f0e5d.md)
         - [Value Property](articles/0c7e33c2-6d28-7d82-f016-57d6d47515d7.md)
         - [Visible Property](articles/baf4bbe8-2582-a431-1ca1-a676a364b47f.md)
-      - [Methods](articles/e5f8f37e-bc31-4526-9bbc-be9baec828b4.md)
+      
         - [Delete Method](articles/c24c9716-4e9b-34db-8101-1cec0bcbd2a1.md)
         - [DrillTo Method](articles/627806c2-834f-d217-1439-1e17bedd15c0.md)
     - [PivotItemList Object](articles/2b0fc8e5-6073-9cb1-2217-1e8715cddb1e.md)
-      - [PivotItemList Members](articles/400105d3-65ff-523c-b637-7b22a4ffab9e.md)
-      - [Properties](articles/6b2547d0-7389-4607-bff4-e17183bf044a.md)
+      
+      
         - [Application Property](articles/980c64e7-89ed-57ce-e913-7bc1b036ce3e.md)
         - [Count Property](articles/f19d872c-5d4a-5060-dcca-4eedca20abfc.md)
         - [Creator Property](articles/25c6dac6-151d-faed-dc6d-d267491e4179.md)
         - [Parent Property](articles/a83b4e55-4336-b7ba-f6dc-4729e58c5a97.md)
-      - [Methods](articles/f74d55a7-e71b-4f8c-a38f-817f1e9d4bbf.md)
+      
         - [Item Method](articles/69d0c71b-aa5a-b6cd-41d7-825197af869e.md)
     - [PivotItems Object](articles/df47021a-2b06-fa10-5712-58956c7ffe07.md)
-      - [PivotItems Members](articles/57d5cd8b-55ec-5188-dc8c-e6c97441c3a5.md)
-      - [Properties](articles/1d4c98bb-8563-408d-8c94-5d7b43bb0c38.md)
+      
+      
         - [Application Property](articles/53cdfd4f-4ae7-da94-074c-e1b75fd5cb95.md)
         - [Count Property](articles/dcc79182-e361-1ecc-0e39-b803a6445903.md)
         - [Creator Property](articles/9d055e55-5ca3-a763-cd0b-acb742f55d12.md)
         - [Parent Property](articles/3a99094c-c874-8bd4-3d3c-7da485c18c67.md)
-      - [Methods](articles/a352ff4d-4401-4ffc-9e11-6e1c38548513.md)
+      
         - [Add Method](articles/2d24bb3f-e765-c78c-bef0-787db82056c7.md)
         - [Item Method](articles/2ce0e125-1613-4dd9-9afa-623f6cca52b7.md)
     - [PivotLayout Object](articles/cfef617e-f49a-e969-7873-40593412a32e.md)
-      - [PivotLayout Members](articles/fee075b2-ab9c-9a09-b4e0-7cd4844b1d4e.md)
-      - [Properties](articles/8752b2fe-dfb3-4320-94e2-d189aa7d7817.md)
+      
+      
         - [Application Property](articles/e81846fa-371c-594d-52d6-acfc5c354945.md)
         - [Creator Property](articles/0cbe7f15-997c-c395-879d-64aa43dff05d.md)
         - [Parent Property](articles/840a56bf-5256-619b-158d-1259730fbc8a.md)
         - [PivotTable Property](articles/b4393cb2-33d2-453b-81ef-4fada332539b.md)
     - [PivotLine Object](articles/88961b73-2d9f-1112-5dd5-14c1fa02092f.md)
-      - [PivotLine Members](articles/6f47eb60-2d49-f54f-ee81-e5ed8bcf5396.md)
-      - [Properties](articles/34d8659b-b776-4708-a470-17530b209f5a.md)
+      
+      
         - [Application Property](articles/3aca51ef-fb63-7921-4ac5-2ae0fc60097b.md)
         - [Creator Property](articles/9f68797c-1817-eff5-3b5e-17371961fc2c.md)
         - [LineType Property](articles/ace4b9ae-3d2a-4deb-00a5-42459052a0d5.md)
@@ -3340,8 +3340,8 @@
         - [PivotLineCellsFull Property](articles/7b6cf34d-6ab0-eb45-37a3-94d8509ef8d8.md)
         - [Position Property](articles/f2381c86-176e-9270-6157-5319dc2b8305.md)
     - [PivotLineCells Object](articles/cfa51fcd-3384-4c75-3ae9-4a2c1d92a489.md)
-      - [PivotLineCells Members](articles/77db0767-34ff-6bb4-25e2-8a9361afe7f6.md)
-      - [Properties](articles/4814d035-967e-4c17-a135-979631d6a7fc.md)
+      
+      
         - [Application Property](articles/d4c90ffe-8bd4-3121-27d6-7063e999213e.md)
         - [Count Property](articles/c68f8177-0b3f-42ed-7a27-993679387b3a.md)
         - [Creator Property](articles/c57dddd7-1ea3-6ba6-c8de-ebc2d68f7697.md)
@@ -3349,16 +3349,16 @@
         - [Item Property](articles/1ba80d98-f9c6-a044-ea52-885d7fff06bb.md)
         - [Parent Property](articles/a7a710b8-c80b-33fe-4bb1-fca15adbbb1a.md)
     - [PivotLines Object](articles/191aba6c-b238-3ac5-830a-cbbabeb377a2.md)
-      - [PivotLines Members](articles/7a840c27-0ac6-97d3-ea18-595defa69f35.md)
-      - [Properties](articles/986a6bb5-a0ac-41b7-9ad0-0521e28fe9f8.md)
+      
+      
         - [Application Property](articles/1b039c95-852e-e449-5446-8c594d159175.md)
         - [Count Property](articles/d640d353-ed51-c9e9-ca41-33ccb1a1da03.md)
         - [Creator Property](articles/090d80a7-f0e8-4b5c-4095-84b9304f4c3f.md)
         - [Item Property](articles/c243bd8d-07a5-c472-8eba-fd5b0eb93c31.md)
         - [Parent Property](articles/904b9596-0df6-0b33-379a-960d7772f117.md)
     - [PivotTable Object](articles/a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)
-      - [PivotTable Members](articles/8e8d1692-cf32-63c6-a1f6-54ddcc2a4964.md)
-      - [Properties](articles/4fe73302-9de4-493f-a52a-276572853c75.md)
+      
+      
         - [ActiveFilters Property](articles/369488e9-6dbe-e4c0-39a4-7a31ec319e72.md)
         - [Allocation Property](articles/ac7bd537-97f0-f643-3e34-dd13e49ac149.md)
         - [AllocationMethod Property](articles/726393d4-4aba-556a-9278-976e7b9a1088.md)
@@ -3462,7 +3462,7 @@
         - [VisibleFields Property](articles/01d5e76d-e109-905d-1743-1fbacd85e7a6.md)
         - [VisualTotals Property](articles/2bcb64ef-8db8-f62d-5f7d-eb3d5b2fcda5.md)
         - [VisualTotalsForSets Property](articles/c4a01954-ab23-433b-1e82-8450e752251f.md)
-      - [Methods](articles/f26eb5ed-6212-4c60-8e88-0753ffd1e84a.md)
+      
         - [AddDataField Method](articles/768b1eb7-80ea-fb0f-0de5-803ec19bbe18.md)
         - [AddFields Method](articles/b0ce878e-05a9-5c9a-4400-a26ba7c7162e.md)
         - [AllocateChanges Method](articles/6eb2d6b6-7340-fe63-611c-0972b9ccf496.md)
@@ -3494,39 +3494,39 @@
         - [SubtotalLocation Method](articles/df2655d8-9e5f-e9d2-ba88-f92a1d843dfb.md)
         - [Update Method](articles/379e948b-0d2d-501e-d23f-207579716d65.md)
     - [PivotTableChangeList Object](articles/83bc0395-b97e-d57f-cfe4-e226a5cea36c.md)
-      - [PivotTableChangeList Members](articles/e328782b-4b0d-6f46-cf0d-38024e6d0ed7.md)
-      - [Properties](articles/a4592a27-b388-40fd-8a85-f01dc858d86e.md)
+      
+      
         - [Application Property](articles/ff2e4c58-d3bf-ca06-ec93-e736c8f13f4c.md)
         - [Count Property](articles/0eb7476d-3fdf-3905-2819-0670eb199a53.md)
         - [Creator Property](articles/e843c050-3fe0-8aaa-85e3-7ca3b925ba8d.md)
         - [Item Property](articles/33c9a0e3-eb83-6aa5-d137-c907984902f6.md)
         - [Parent Property](articles/27a1c04f-91d3-77f6-0efb-8262c7816f6e.md)
-      - [Methods](articles/2f9cd909-88cc-4147-bd93-061e54e00a8d.md)
+      
         - [Add Method](articles/d871f244-a669-9508-a006-bb36e693a288.md)
     - [PivotTables Object](articles/5beb33ac-a0fb-3f78-8fdc-d05719512214.md)
-      - [PivotTables Members](articles/c5b75c05-61a6-d791-790d-ec2a4e5047ae.md)
-      - [Properties](articles/b7c40b15-a031-4d89-b57c-109516642e03.md)
+      
+      
         - [Application Property](articles/b5ed8e6c-0f7c-b58b-6f9d-69fcc4d10602.md)
         - [Count Property](articles/dd0aecc5-b2d5-1994-0785-d340b543171c.md)
         - [Creator Property](articles/7af2b706-9464-765b-2653-f275ab485fe8.md)
         - [Parent Property](articles/f05e06c9-f465-e1d3-3b5a-d1afa847d25e.md)
-      - [Methods](articles/124606d8-5d3c-441f-9dbd-bc51655fd1cb.md)
+      
         - [Add Method](articles/3b830532-e834-81c8-dd5e-a43ed2efc269.md)
         - [Item Method](articles/1bdc8558-ec67-2823-fd02-ecd5ae4ecee6.md)
     - [PivotValueCell Object](articles/1857160d-9eab-d026-ef7d-af6187c6490e.md)
-      - [PivotValueCell Members](articles/0b2458c3-b168-0bb1-762a-24c532f8fe7f.md)
-      - [Properties](articles/8739aca2-8419-5eb0-7f5c-e59fb85fc161.md)
+      
+      
         - [Application Property](articles/f749fa87-4b7f-4609-13dd-190888da6233.md)
         - [Creator Property](articles/85b4c0bf-3654-af39-413e-8c22c00626f3.md)
         - [Parent Property](articles/901d7c13-9055-4b70-8234-ee2814589a63.md)
         - [PivotCell Property](articles/18fa81bd-3169-9f08-9418-93ea5443efb2.md)
         - [ServerActions Property](articles/df114dd7-0e19-521b-d17c-e1e0dc8f4599.md)
         - [Value Property](articles/47bebd10-cd02-680f-f158-39c199e8ecf2.md)
-      - [Methods](articles/9b04bb96-c5f6-3e8d-9e56-af0dc13ed1bf.md)
+      
         - [ShowDetail Method](articles/1611f445-4808-7709-9a4e-c3148d8e9fba.md)
     - [PlotArea Object](articles/85c42124-268c-8b0e-ba5d-c2f6fbf53e79.md)
-      - [PlotArea Members](articles/5f851027-e1ed-95ec-fa62-1f5f85962df4.md)
-      - [Properties](articles/cc7e9c4c-4d5f-4aac-9dbc-b1417b836b69.md)
+      
+      
         - [Application Property](articles/96c3eb5e-606d-dd77-98b9-9a4b8f393aaf.md)
         - [Creator Property](articles/761dd9c8-2aff-0c03-e25c-b80871c3e147.md)
         - [Format Property](articles/03047465-a4b9-91e8-15f4-3feb498078ab.md)
@@ -3541,12 +3541,12 @@
         - [Position Property](articles/66bea823-1e2b-051c-0259-6916da185ca2.md)
         - [Top Property](articles/db08b48d-a930-2e60-b924-1298af682742.md)
         - [Width Property](articles/9bf7bd1f-e50e-378d-cb16-2b931c34aa65.md)
-      - [Methods](articles/31a52eb2-eff0-4096-a53f-a9bd1c41eba1.md)
+      
         - [ClearFormats Method](articles/f56616c8-aefe-3973-05fc-b410d5521c36.md)
         - [Select Method](articles/0aa567a6-b6d6-633a-e2b2-6ef07431692a.md)
     - [Point Object](articles/48ed9aec-2d29-ec4d-8e55-fca13982c358.md)
-      - [Point Members](articles/a533258d-fc3b-9fe1-2a77-a55ecbe7bd7a.md)
-      - [Properties](articles/3bb0310a-8894-483d-a044-74d443e2d9a1.md)
+      
+      
         - [Application Property](articles/66d3f58a-59c8-0556-eb38-72a87492b4e5.md)
         - [ApplyPictToEnd Property](articles/9f814b2a-6c39-c0d9-0869-0df023c60e2c.md)
         - [ApplyPictToFront Property](articles/e739e368-9789-be23-da90-17ab4cf3a935.md)
@@ -3575,7 +3575,7 @@
         - [Shadow Property](articles/2ad39f3b-8316-2137-4293-b3ead9ac8f81.md)
         - [Top Property](articles/328ff726-4c34-a55a-35ce-1d7bdd06643a.md)
         - [Width Property](articles/1b353268-5cb7-0d30-1080-80261d0a28bb.md)
-      - [Methods](articles/25f8bb88-75f0-4544-a120-89ae871d40bc.md)
+      
         - [ApplyDataLabels Method](articles/f242eef7-75ed-868f-bb8d-d42838cc9ff0.md)
         - [ClearFormats Method](articles/487bc619-209c-a0e3-a2f4-20a8b586b098.md)
         - [Copy Method](articles/12ebb9b6-c480-5195-08dc-d532a5449f09.md)
@@ -3584,17 +3584,17 @@
         - [PieSliceLocation Method](articles/90a318d4-0ad2-d326-c26b-3c965b1ffe43.md)
         - [Select Method](articles/10199b5c-9418-d133-4bd4-f5b1e3a88550.md)
     - [Points Object](articles/918dc385-ed61-262e-033f-ba829f5ee8b2.md)
-      - [Points Members](articles/f43be7cd-80a1-8a01-e01a-f89840095ef1.md)
-      - [Properties](articles/d72584b0-2461-4ece-a5f7-beecbc856c47.md)
+      
+      
         - [Application Property](articles/fff99658-0c49-59a4-30c5-b3b351289248.md)
         - [Count Property](articles/de5e00b7-6f41-ee14-45cc-fd9f99754622.md)
         - [Creator Property](articles/2924d441-34b8-6a19-9591-57a2824248d5.md)
         - [Parent Property](articles/1a8c14b5-60fa-a5f7-3495-b67834bcf643.md)
-      - [Methods](articles/93b8b24e-76b3-4543-8096-76b2c08ccdb1.md)
+      
         - [Item Method](articles/1e588b64-3676-63ab-5136-eec028a82a4e.md)
     - [ProtectedViewWindow Object](articles/6a32240c-c90b-c51a-6f8e-c3ff496b9855.md)
-      - [ProtectedViewWindow Members](articles/37bdcf7b-b5c4-af78-ad73-13c8f638964e.md)
-      - [Properties](articles/33eb1d2b-9af6-459e-9459-15ca7ef43db9.md)
+      
+      
         - [Caption Property](articles/fe3f8026-71e2-3a5a-9376-7b9d93f97b6f.md)
         - [EnableResize Property](articles/110c4080-7dea-e34d-224b-47337e5d6777.md)
         - [Height Property](articles/32d5baad-2c78-02ad-7814-f703889f8a36.md)
@@ -3606,23 +3606,23 @@
         - [Width Property](articles/ae2e9f08-5d8a-c725-2a9c-3b623c1d36ad.md)
         - [WindowState Property](articles/9fd61fb6-1804-7eba-d1e3-a42b8500a52e.md)
         - [Workbook Property](articles/379b98f0-b177-7910-4968-ce4ed2f1ca9d.md)
-      - [Methods](articles/41fc6d41-e7e6-4e13-8e88-8fe48604f7d4.md)
+      
         - [Activate Method](articles/1dac3a2b-c00f-d032-b089-6f89e83bc52d.md)
         - [Close Method](articles/3deaea3c-3c73-76c9-0ca1-ce1bb452c6c2.md)
         - [Edit Method](articles/bdb626b2-ed4a-06d2-076c-5d242d23a162.md)
     - [ProtectedViewWindows Object](articles/c280b1c5-c605-6453-3604-3a409a8289d0.md)
-      - [ProtectedViewWindows Members](articles/9db45984-87cc-2f62-c9aa-80a653f3a2d0.md)
-      - [Properties](articles/89e5a294-71df-43ad-b14b-79923ab2b296.md)
+      
+      
         - [Application Property](articles/2fa396cb-aaf9-6929-f5ac-2e5e5f270e42.md)
         - [Count Property](articles/21ec98ac-23a3-94be-515d-0639eeaa63d4.md)
         - [Creator Property](articles/f1c6f32e-57dc-3a3c-0d6f-f43f94c0f39f.md)
         - [Item Property](articles/615c5695-4086-b1de-475e-e9f208c7fe37.md)
         - [Parent Property](articles/27477f33-9eb3-8a78-34ea-82dbe98ceb28.md)
-      - [Methods](articles/5ae11c97-9cfd-4908-a081-7657c4c272d3.md)
+      
         - [Open Method](articles/bb003d53-949e-842a-f6f1-3ca30f396837.md)
     - [Protection Object](articles/dc13a9dd-bd19-daa2-5093-7182917d5bde.md)
-      - [Protection Members](articles/c916b830-ed4c-3c9d-5cbd-245e32504076.md)
-      - [Properties](articles/dc8766d5-42ff-4b92-8e7c-8ccb42e97a91.md)
+      
+      
         - [AllowDeletingColumns Property](articles/602e0599-f444-0e81-9d9c-70f1f8093a29.md)
         - [AllowDeletingRows Property](articles/da418f4e-ca3e-b0f2-4b12-fe578b0bf20b.md)
         - [AllowEditRanges Property](articles/829ec57c-2fe1-27b0-5987-83bd4dd50eed.md)
@@ -3636,8 +3636,8 @@
         - [AllowSorting Property](articles/cffdb62d-2fbb-111a-ed06-e295b722ee75.md)
         - [AllowUsingPivotTables Property](articles/42968839-1d82-3c0e-172b-1389c772f9a1.md)
     - [PublishObject Object](articles/da719d86-b65b-3bbd-c0fc-8b3113777540.md)
-      - [PublishObject Members](articles/3091c7b1-69f2-d523-7a43-1a72837f96d6.md)
-      - [Properties](articles/7630ca94-aff8-4b5c-aa1a-a192c5bc0764.md)
+      
+      
         - [Application Property](articles/1463e2bd-98ea-7391-0762-cc362af9856c.md)
         - [AutoRepublish Property](articles/edf5579f-eb70-85d3-de5d-1ae229359898.md)
         - [Creator Property](articles/9f579e1f-3943-e116-bbe4-3ef58dc9179e.md)
@@ -3649,35 +3649,35 @@
         - [Source Property](articles/2f8ca565-91f1-9636-d0c2-f5988c176ddb.md)
         - [SourceType Property](articles/4d22915d-c5a3-c06f-85dc-3c6394644cec.md)
         - [Title Property](articles/3e8eae5c-62f5-3d72-2c27-ff5107153adc.md)
-      - [Methods](articles/7d4e7986-b54a-4111-a7f5-2a341f0eb958.md)
+      
         - [Delete Method](articles/c774e567-e7e6-4a0f-508b-4b2ad4a5e40b.md)
         - [Publish Method](articles/3bb70102-c440-8e49-1734-d72945324d5c.md)
     - [PublishObjects Object](articles/33ad393e-5ab6-2531-5e5b-42930fc596c0.md)
-      - [PublishObjects Members](articles/128e5605-90e1-76cc-98db-7dda7b763fc8.md)
-      - [Properties](articles/a56f36a2-8900-40c9-8840-c5cd90f06677.md)
+      
+      
         - [Application Property](articles/1b292e8d-a515-6b98-f3e3-bf1761e6d58e.md)
         - [Count Property](articles/ac794ba3-1514-2a42-ed18-96ee0a9a2832.md)
         - [Creator Property](articles/10cbdf25-3e7e-4bc5-8a32-8dbe2f7bbb46.md)
         - [Item Property](articles/5327f5b3-8dd0-cb10-49b5-9824d0376667.md)
         - [Parent Property](articles/9018477d-ef54-fc1b-fd99-2457830a86d5.md)
-      - [Methods](articles/7f8919cd-1c59-41e1-a154-c63c59fabbe0.md)
+      
         - [Add Method](articles/74629499-04d1-11d5-20b8-02b72bb110ee.md)
         - [Delete Method](articles/a924208b-3fb3-9fc3-9a82-eb7db9b27c82.md)
         - [Publish Method](articles/0573330f-80a2-2eeb-6e90-dd04ae6b3354.md)
     - [Queries Object](articles/3c16b2f6-8189-352a-4c4e-513bdb9c01d5.md)
-      - [Queries Members](articles/115ddd43-ee03-f057-60a0-58841af95957.md)
-      - [Properties](articles/7f8d322c-2f5c-37f8-b788-332219192319.md)
+      
+      
         - [Application Property](articles/83778da5-1c09-1465-f651-88eb00179da3.md)
         - [Count Property](articles/b9553330-01ff-8c31-ba10-62176f1ba0b7.md)
         - [Creator Property](articles/1e20a980-6f8d-e780-dd0e-3f0b428d97ea.md)
         - [FastCombine Property](articles/6d34ab2f-5dd4-6dd9-74c0-b49c600db45b.md)
         - [Parent Property](articles/01f66159-a7bd-bffd-29a7-ff13c20fadb0.md)
-      - [Methods](articles/244dd5c5-e435-ba65-bfd8-7d9d9083bedb.md)
+      
         - [Add Method](articles/184711c0-2ce4-ba6e-df56-1f7fdd60ab2c.md)
         - [Item Method](articles/d87f5019-dde2-972a-67f8-de7bf5d07b66.md)
     - [QueryTable Object](articles/505b84ea-64b3-b4fe-741a-de6884eb69eb.md)
-      - [QueryTable Members](articles/9a61f024-c1dc-c11b-942f-ff2a6617bdc4.md)
-      - [Properties](articles/3a97045e-3721-4425-ad46-b4dc18dad138.md)
+      
+      
         - [AdjustColumnWidth Property](articles/2901cc84-92d2-7021-2360-9c31dc1153b3.md)
         - [Application Property](articles/4baa86c3-5487-15df-3372-5ba680f82a99.md)
         - [BackgroundQuery Property](articles/d3fd1d37-4956-7fda-accc-25eedf5188c0.md)
@@ -3740,37 +3740,37 @@
         - [WebSingleBlockTextImport Property](articles/044de013-a065-86a3-b910-d4dec0a761b8.md)
         - [WebTables Property](articles/d60eb457-6276-2d86-bbd8-c2050b0695c9.md)
         - [WorkbookConnection Property](articles/d35d7bb6-5036-1dd9-46ff-e96127d3db09.md)
-      - [Methods](articles/dcaf456f-9057-43a3-81bd-000d2fbc0b2f.md)
+      
         - [CancelRefresh Method](articles/be9491bd-9b42-4b88-ddb9-554cf431e779.md)
         - [Delete Method](articles/761be27b-7c67-5dc8-8003-029093ffcd20.md)
         - [Refresh Method](articles/445d74fb-1a9c-bba4-2d53-0ab0caa876da.md)
         - [ResetTimer Method](articles/9e8c9d26-fe11-90f7-6073-c8ff5be3042d.md)
         - [SaveAsODC Method](articles/8ee66eb4-d72d-d319-c470-6f2f0db680bf.md)
-      - [Events](articles/ca5e8e25-eacd-4f3e-a910-a3747e680b10.md)
+      
         - [AfterRefresh Event](articles/91d930e3-4360-4ec2-8772-dcd67c9e8c41.md)
         - [BeforeRefresh Event](articles/763cfe16-d48c-07f2-73e1-5c59021b4e58.md)
     - [QueryTables Object](articles/93511da3-598e-0aa3-fbc3-14bebff8838f.md)
-      - [QueryTables Members](articles/a573c0fc-befa-0ee6-68bb-627cb516f98c.md)
-      - [Properties](articles/8c2bc2ca-de33-4a63-b0d2-853cadaf64d7.md)
+      
+      
         - [Application Property](articles/428b9fbb-8119-0de6-d86a-719edbe5d667.md)
         - [Count Property](articles/bdd952ef-a8b2-66ac-42ab-8bf9f4f912e9.md)
         - [Creator Property](articles/a2428c94-1af6-4848-0a21-0461b6e44d41.md)
         - [Parent Property](articles/c12b6aca-8e95-5560-647b-f63259ef9584.md)
-      - [Methods](articles/4a219d2f-8785-4000-8c2b-b2fe72b260f4.md)
+      
         - [Add Method](articles/ac6cd03e-31aa-cd8c-aa67-a551894c6eb3.md)
         - [Item Method](articles/c7b70ccd-1049-0d50-1536-f1d42b9b1e09.md)
     - [QuickAnalysis Object](articles/cff69157-e5d9-aacb-2569-9727c5f83b0e.md)
-      - [QuickAnalysis Members](articles/be4102b8-49b5-e03a-ddfb-6a4e486d9246.md)
-      - [Properties](articles/f0136336-f3d3-903d-67fc-59dbddb91572.md)
+      
+      
         - [Application Property](articles/ad51f454-62a0-7eb7-b629-b72bd000e0e9.md)
         - [Creator Property](articles/85a25f1f-7018-9c9b-6ae4-0fd052971b70.md)
         - [Parent Property](articles/2b743f1d-711e-81c5-dc02-f840e43338fa.md)
-      - [Methods](articles/f444a49c-ea69-2b50-5dec-6b612ce647b7.md)
+      
         - [Hide Method](articles/dc3b805a-8744-1f63-0509-32b8254958b8.md)
         - [Show Method](articles/0a30cfb1-1a15-95da-9ad5-2bf579696769.md)
     - [Range Object](articles/b8207778-0dcc-4570-1234-f130532cc8cd.md)
-      - [Range Members](articles/4336bf81-1e63-7e44-1792-baf366a027a7.md)
-      - [Properties](articles/76025eb0-8ed1-4f98-b944-e60e655ae24c.md)
+      
+      
         - [AddIndent Property](articles/47cfb2a4-9050-354f-08f6-e86f0164be02.md)
         - [Address Property](articles/aaa2432e-9bb1-4a48-3868-86455bc53938.md)
         - [AddressLocal Property](articles/20332d15-dc37-1819-472f-ef208d8b3a5b.md)
@@ -3867,7 +3867,7 @@
         - [Worksheet Property](articles/af38bdde-d523-a4cd-929e-1f67464b2593.md)
         - [WrapText Property](articles/5e61b704-af16-7bad-5eeb-f163e3035513.md)
         - [XPath Property](articles/90a353d7-7222-b387-558a-044cb17f09b9.md)
-      - [Methods](articles/264d41e4-1616-49ea-84f1-06837d656e51.md)
+      
         - [Activate Method](articles/a0050055-84e7-7611-a961-887fcb063369.md)
         - [AddComment Method](articles/89bbacad-4655-bcc1-8010-2ab367cc7b31.md)
         - [AdvancedFilter Method](articles/fe1a19fc-ab0f-6149-25d9-6102d5789757.md)
@@ -3947,39 +3947,39 @@
         - [Ungroup Method](articles/ac20c780-1a8e-2709-13c4-a6ca8220fb0a.md)
         - [UnMerge Method](articles/dfc49876-29b0-0b61-fe18-3953438f7452.md)
     - [Ranges Object](articles/5d510c72-e27b-c04a-0d82-94af5dffd2f8.md)
-      - [Ranges Members](articles/98cd3a4e-ab6c-2821-4551-73b1d896d8df.md)
-      - [Properties](articles/7f790dd6-205b-4c3e-b913-57405a072a0b.md)
+      
+      
         - [Application Property](articles/b1a789e9-8a87-edca-0ec6-16ab26bd9085.md)
         - [Count Property](articles/9e74ac18-426f-b266-4e3a-0f9e7bff5259.md)
         - [Creator Property](articles/a44c830a-4164-6fa5-b316-399019ed77ab.md)
         - [Item Property](articles/808d7bd4-81b7-3290-bbe4-758844e7eb85.md)
         - [Parent Property](articles/c93dacfe-e619-083d-df4e-645c501329fd.md)
     - [RecentFile Object](articles/39d0a969-179d-a7bd-e5ab-7baf7930712a.md)
-      - [RecentFile Members](articles/af06db48-f17a-9039-d252-728001dea3dc.md)
-      - [Properties](articles/d49a031c-7ba5-48c6-8d01-56522cad29a7.md)
+      
+      
         - [Application Property](articles/6e8ef257-e822-0544-1ea7-432ec4c4dccc.md)
         - [Creator Property](articles/bfece094-0df1-0e65-766c-393f217af3f6.md)
         - [Index Property](articles/f06aa815-451f-9cfe-e380-27aaefdaab1f.md)
         - [Name Property](articles/54bde128-8f11-7bd3-9e17-f6a81f7e6b82.md)
         - [Parent Property](articles/09a1a8f8-bd85-8592-58d6-31735b3911f3.md)
         - [Path Property](articles/bd2058b9-f5b6-968c-12f0-59edc98c0121.md)
-      - [Methods](articles/9985b42d-e9db-4122-a297-1610e71a0a77.md)
+      
         - [Delete Method](articles/3e37b557-56a1-a8c0-dcd6-17945a1bc8d4.md)
         - [Open Method](articles/0db24662-fe68-aa65-1875-0d58f1e37e39.md)
     - [RecentFiles Object](articles/e33ae942-0444-0631-be08-386366b6ebdb.md)
-      - [RecentFiles Members](articles/3f43e601-21ee-c8f8-890f-5d3d3d39d252.md)
-      - [Properties](articles/e6e88c46-f238-4341-853a-aa2eb6450109.md)
+      
+      
         - [Application Property](articles/c6ade659-6d2b-f0c1-165a-ec242e092c82.md)
         - [Count Property](articles/005fd8aa-5581-14c7-5274-bb6236069e69.md)
         - [Creator Property](articles/83b6210e-5994-2468-f4b9-0884abc689fc.md)
         - [Item Property](articles/f153bdeb-6c13-2ea8-506a-2b762b211c67.md)
         - [Maximum Property](articles/24bb3472-8b75-5457-467a-266ed8e5f979.md)
         - [Parent Property](articles/a0479299-eb8a-3825-ee65-6accea2254e4.md)
-      - [Methods](articles/0fec30dc-9bc0-4f72-abd0-3c382c5146e7.md)
+      
         - [Add Method](articles/70d4c4e0-b0f5-8143-0f23-69dc1c85736e.md)
     - [RectangularGradient Object](articles/e668d158-0436-cb27-a6f5-e27453681d66.md)
-      - [RectangularGradient Members](articles/b321b453-767b-2036-666f-021db4c71eba.md)
-      - [Properties](articles/b3efc5d5-1a71-4b8f-8092-b7911f85f8e6.md)
+      
+      
         - [Application Property](articles/5fedb7a5-7944-65ef-b0c8-32760546f53c.md)
         - [ColorStops Property](articles/92ca6107-4d6f-2f69-1f89-87acb138c277.md)
         - [Creator Property](articles/b6697d8f-7cd0-a731-3375-e18901f55ed0.md)
@@ -3989,18 +3989,18 @@
         - [RectangleRight Property](articles/97d581d7-6cba-fe3a-8af8-a453c347b1df.md)
         - [RectangleTop Property](articles/ecdfba38-50da-7e85-f75a-caa5301b4330.md)
     - [Research Object](articles/de9d8a1d-4942-88f4-ba8c-30bd06e1f24b.md)
-      - [Research Members](articles/c749811e-c5ee-4d35-ef27-f6b1aedffc99.md)
-      - [Properties](articles/455754a9-7a2c-496b-92f0-f4b32be69c5e.md)
+      
+      
         - [Application Property](articles/b54052f2-4fa5-b9c1-2408-5a43af0cb8fe.md)
         - [Creator Property](articles/b2fb9ca3-00a0-036b-7f9d-ac16a1367637.md)
         - [Parent Property](articles/a841e1d9-c703-4005-8c9c-5d721a6491af.md)
-      - [Methods](articles/81496e33-e2c6-46c8-8508-70d9b85b331f.md)
+      
         - [IsResearchService Method](articles/35f741d2-438b-01b8-5dcb-b632737e627e.md)
         - [Query Method](articles/ea3b90ba-9cb4-2682-e092-6e3dd7d40aaf.md)
         - [SetLanguagePair Method](articles/0e4d0c7b-91e2-bbe6-8da0-f0ad6c2e51cb.md)
     - [RoutingSlip Object](articles/126d4c87-7e1c-3ecd-d223-f23a02444f61.md)
-      - [RoutingSlip Members](articles/26b025ce-56a8-3afb-463d-c5ed70cdba96.md)
-      - [Properties](articles/454a5e79-af03-430b-8b8c-70ecfad8c2bb.md)
+      
+      
         - [Application Property](articles/0ff17a09-41ec-9a5c-c04a-ae4dabcddddb.md)
         - [Creator Property](articles/7149bf4e-8b1c-c47f-a816-6dadd73d0aba.md)
         - [Delivery Property](articles/512aa317-04de-65a9-3147-c451e446d7c4.md)
@@ -4011,18 +4011,18 @@
         - [Status Property](articles/8fee4357-4121-3d7f-0cc3-4d2be9723426.md)
         - [Subject Property](articles/6f706a26-f21d-aa34-b611-3ddd15cd004b.md)
         - [TrackStatus Property](articles/3ef4ed69-1325-c557-c52d-307b2bd31280.md)
-      - [Methods](articles/ef287d11-b4ed-4531-b1be-a6696f8ceb9e.md)
+      
         - [Reset Method](articles/904f64ba-2828-3940-acc0-324845bb055d.md)
     - [RTD Object](articles/50f289c3-081b-108b-2fee-c4069a04a8e7.md)
-      - [RTD Members](articles/1705c237-1286-816d-a363-982c53542af1.md)
-      - [Properties](articles/503e2b38-ae45-4be6-831f-77820ce0e1de.md)
+      
+      
         - [ThrottleInterval Property](articles/ae3a5561-e880-b5ee-763c-f38f887bc2a0.md)
-      - [Methods](articles/db2664e9-8ec6-4af4-bf93-f63693419f6f.md)
+      
         - [RefreshData Method](articles/fa2ddf47-1821-25b6-fcd9-b42853c2689a.md)
         - [RestartServers Method](articles/ae3b3b50-63a3-1e7e-7f34-4d50770020ee.md)
     - [Scenario Object](articles/edd1c4f4-12b1-0d9f-f4aa-dd66278ba891.md)
-      - [Scenario Members](articles/fd862abd-99a5-c18d-8ad2-462a49a50b6c.md)
-      - [Properties](articles/f96df411-9fce-43d5-837a-28d0950455ea.md)
+      
+      
         - [Application Property](articles/bb30e25d-ce24-6309-28d9-ea69990829a6.md)
         - [ChangingCells Property](articles/254abee5-0b64-7f68-33e9-28228541ad8f.md)
         - [Comment Property](articles/0fe0a22d-b9d0-4e7c-e5db-258a676f222e.md)
@@ -4033,25 +4033,25 @@
         - [Name Property](articles/147cc0e4-0144-e001-5f42-d65a368b7814.md)
         - [Parent Property](articles/40ad61c5-26d4-01a1-31ae-5535fb32d625.md)
         - [Values Property](articles/9a50bbe4-2389-2473-7d6e-d085babf03ca.md)
-      - [Methods](articles/a7f22503-1ccb-4648-a695-0172b493ca5d.md)
+      
         - [ChangeScenario Method](articles/a982a903-d62c-5289-8192-67f5069a1d11.md)
         - [Delete Method](articles/fe76a9c6-4e79-4acd-6313-e091b09de984.md)
         - [Show Method](articles/50985cfc-29e4-3861-eafa-f4ba1c117bc6.md)
     - [Scenarios Object](articles/90d6ff4b-f329-a04c-040e-a39bb501a58b.md)
-      - [Scenarios Members](articles/bd1cf3ad-3916-286e-9a22-ca2c92255c30.md)
-      - [Properties](articles/3f6bf3eb-ec09-4c1a-8361-5844605fb696.md)
+      
+      
         - [Application Property](articles/dc2257ff-19d4-db52-7d06-3f802f9dbcb3.md)
         - [Count Property](articles/ace9cd6e-3839-e37d-cc8a-2ddd1431fd5b.md)
         - [Creator Property](articles/90485e33-0812-a678-1ec1-865271450264.md)
         - [Parent Property](articles/6ff3b144-3011-d137-e26a-06ef0bffba50.md)
-      - [Methods](articles/c6af32c6-eec9-48f6-8433-323adc5bf3d9.md)
+      
         - [Add Method](articles/0f76a5fd-82f1-7fa0-34f7-733b0e964666.md)
         - [CreateSummary Method](articles/b223ad02-cd11-7adc-2144-5c6dd1683427.md)
         - [Item Method](articles/6ed4b582-bd9c-5d18-f3ed-fc3b7b5a1580.md)
         - [Merge Method](articles/db956914-aec1-ed2a-e4fa-d0f9c15ec882.md)
     - [Series Object](articles/c7d34b32-8172-f7a0-0a17-f01d44246b64.md)
-      - [Series Members](articles/eeab4f69-b436-9de7-5d4a-0a5c63f2dfce.md)
-      - [Properties](articles/a0850624-5f33-49dc-bdd9-59f44622f606.md)
+      
+      
         - [Application Property](articles/b36ee17b-a3dd-7458-6b65-8fb7723f41bd.md)
         - [ApplyPictToEnd Property](articles/40d4dca5-1747-c9c6-a117-29939bf4cd74.md)
         - [ApplyPictToFront Property](articles/b40a8808-734f-a00e-3fa1-4e1cf5ac0a52.md)
@@ -4096,7 +4096,7 @@
         - [Type Property](articles/18a300d5-ed08-af06-37ca-812b35d876ef.md)
         - [Values Property](articles/3db2577e-ef0e-75ea-412b-531d7e67c098.md)
         - [XValues Property](articles/63715a3c-9d2d-6213-ac99-2c583773b45a.md)
-      - [Methods](articles/0634347a-1aba-489c-8e77-11cf38232c27.md)
+      
         - [ApplyDataLabels Method](articles/959a4d12-ed48-48fc-04cf-7a1880cd7e1f.md)
         - [ClearFormats Method](articles/0c94178c-493b-9738-3b85-67448d13a458.md)
         - [Copy Method](articles/4a9261ae-9ad9-b591-f326-6f78e42637bf.md)
@@ -4108,45 +4108,45 @@
         - [Select Method](articles/9317a166-df2d-0c06-b1fb-4e3ecc7a645e.md)
         - [Trendlines Method](articles/d42609e1-011c-6cb3-286d-192284cd8ab8.md)
     - [SeriesCollection Object](articles/93aa1f0b-4939-8c60-a444-2f791e8ce144.md)
-      - [SeriesCollection Members](articles/72d02a33-0b2b-1adb-9629-3eb322bed271.md)
-      - [Properties](articles/ffe8cf46-dcd8-4e7e-8b3d-a225e16bf992.md)
+      
+      
         - [Application Property](articles/0dfb1098-384c-5065-6316-f7c4937372db.md)
         - [Count Property](articles/500d2632-89d7-176f-d2cc-71489b0daece.md)
         - [Creator Property](articles/31d06934-b813-65b8-209c-f950b78ab796.md)
         - [Parent Property](articles/c7d4b8d3-8c58-709a-9d90-bbebfe21338e.md)
-      - [Methods](articles/f1ea71e5-6c38-4c5b-aba9-07358d8825a4.md)
+      
         - [Add Method](articles/11bedfdb-de8e-94cf-a23d-2c6e1d85cc9a.md)
         - [Extend Method](articles/85f2658f-b7b3-e086-da27-5127f1ea4ff7.md)
         - [Item Method](articles/9a1f393b-e0b0-0887-b76e-471982ae0414.md)
         - [NewSeries Method](articles/1d63ff48-d4ec-ce76-42bb-c5923251bd69.md)
         - [Paste Method](articles/460644ba-e682-d4dd-4832-f9f18fb6389b.md)
     - [SeriesLines Object](articles/db044358-d14b-ef45-4e42-237b8ee46ff0.md)
-      - [SeriesLines Members](articles/54b68abf-7066-6f92-7f38-51c533926b62.md)
-      - [Properties](articles/c56e0a23-9e79-4f4d-830d-31f265cf3bdf.md)
+      
+      
         - [Application Property](articles/0f933a08-4c85-2b72-9943-c1c4194d1bc2.md)
         - [Border Property](articles/51c10ec3-5736-ade7-480e-c984932deb3c.md)
         - [Creator Property](articles/f42923f3-78a8-5573-a707-758a39d3c301.md)
         - [Format Property](articles/2451c441-91b9-fbcf-3ada-3a9484205c2b.md)
         - [Name Property](articles/4e821b5a-5ea0-20c4-917f-db9b224e6e96.md)
         - [Parent Property](articles/2b009a28-4e33-9a9a-e3dd-b088f67c7659.md)
-      - [Methods](articles/0dc5a4be-01b6-47e4-a6ca-2c456aadd511.md)
+      
         - [Delete Method](articles/8d6869b2-64fa-00b8-5ac8-2ac1d1c8b22b.md)
         - [Select Method](articles/006ff5c4-6f82-2fc7-1349-5a3a737b8ed3.md)
     - [ServerViewableItems Object](articles/ce51dc80-ae34-f31a-81c0-f29467668289.md)
-      - [ServerViewableItems Members](articles/3d66dcd9-5a9f-2e01-9e0c-2c79a7fac8b7.md)
-      - [Properties](articles/29282841-0eaa-46ab-ab9d-99ea5747600c.md)
+      
+      
         - [Application Property](articles/60cd4946-d68a-cf52-754e-41c325c756fe.md)
         - [Count Property](articles/4a26873e-49cd-ad71-a96a-d5f40e51f31c.md)
         - [Creator Property](articles/ebc56118-1d24-45ee-b2a1-2fc59095a4e7.md)
         - [Parent Property](articles/a65da6d1-74ef-ffef-8205-6e6a7588e31b.md)
-      - [Methods](articles/4e8c8b2a-ec9c-4b17-a986-a725f68228d8.md)
+      
         - [Add Method](articles/e5771bed-efd0-3cdc-ce80-13b71f596d01.md)
         - [Delete Method](articles/e6b53271-8a37-4bf3-fea2-46d02550391b.md)
         - [DeleteAll Method](articles/8f2bf876-50ba-3b91-d353-6d73a35e9462.md)
         - [Item Method](articles/ea1a01ef-7b2f-485d-2526-0b1025a9b9fd.md)
     - [ShadowFormat Object](articles/2566c68e-f8d6-badc-3ce9-b6ae5f9c1cc2.md)
-      - [ShadowFormat Members](articles/5512df5b-d899-7942-1309-4cf8d28fe96a.md)
-      - [Properties](articles/fe43c38f-f3e0-4f51-866b-6ca2bb2d1165.md)
+      
+      
         - [Application Property](articles/f3e3a466-a347-9938-aecd-bd2ed9b2faa3.md)
         - [Blur Property](articles/4c17b7b6-922f-804f-a6c5-1c427df8bf79.md)
         - [Creator Property](articles/5c7397d1-dd9e-2889-ad96-6fa6510429e3.md)
@@ -4161,12 +4161,12 @@
         - [Transparency Property](articles/c4a92bf1-3a29-16c0-0eb8-0b1faf75bd4a.md)
         - [Type Property](articles/cbbdfda7-a193-9fb8-8cc3-393e03a1f335.md)
         - [Visible Property](articles/08da0549-44ab-e17f-f085-c3e988649a44.md)
-      - [Methods](articles/e869cc87-b605-44b2-ab99-71599e66eeb6.md)
+      
         - [IncrementOffsetX Method](articles/eaa71500-16dd-5df1-cf32-920ab71d77bb.md)
         - [IncrementOffsetY Method](articles/0479d9a1-aae1-069c-f692-276291ec54ef.md)
     - [Shape Object](articles/8f01fcd1-b7d9-5216-2de5-40fb6648a403.md)
-      - [Shape Members](articles/0fed7136-4228-6c32-507d-3bd36aa56d9a.md)
-      - [Properties](articles/4e220346-5175-4b00-ae82-3caaf2f004fb.md)
+      
+      
         - [Adjustments Property](articles/425befaf-e058-dff9-2265-66e4f1cbca39.md)
         - [AlternativeText Property](articles/40b53b31-c4e2-0fd8-1a37-fa1e88ccd2be.md)
         - [Application Property](articles/6d86a0a4-b9ed-0ba1-22c3-30e2f100901b.md)
@@ -4224,7 +4224,7 @@
         - [Visible Property](articles/d84b0e36-7ce1-d34a-45d6-8ab9895cf617.md)
         - [Width Property](articles/b5dac16e-0f77-a96c-67aa-626e452419f8.md)
         - [ZOrderPosition Property](articles/aaf86516-bf5d-bdb5-1d88-eb1784f9b26f.md)
-      - [Methods](articles/bdfe1f88-a40b-4f63-926f-6d8003c893f2.md)
+      
         - [Apply Method](articles/fe094baf-76d7-8418-aa34-c90d37f95def.md)
         - [Copy Method](articles/c3092b9f-6a37-814e-8571-bc5eb3aaa21e.md)
         - [CopyPicture Method](articles/276cd993-18b1-8c5b-3618-95e5b5c9a773.md)
@@ -4244,8 +4244,8 @@
         - [Ungroup Method](articles/678ff982-25c7-cbaa-7cc5-011b53ecf6b6.md)
         - [ZOrder Method](articles/e2eede8f-6e8f-2219-2cb2-47db93e9f90a.md)
     - [ShapeNode Object](articles/c8b60d74-f11f-1659-30a3-6e180eb8bd58.md)
-      - [ShapeNode Members](articles/76ac3c43-a43f-ee45-2c38-ea237859d03f.md)
-      - [Properties](articles/9794bd34-deea-4f1b-9cb2-a979baeae4ca.md)
+      
+      
         - [Application Property](articles/98e77d56-875c-7696-2b2d-5f36409fa129.md)
         - [Creator Property](articles/10c4e270-6b82-85be-2428-3d7509249335.md)
         - [EditingType Property](articles/78a17ed7-7e30-d5f3-4af8-636d65079218.md)
@@ -4253,13 +4253,13 @@
         - [Points Property](articles/fe09c78f-44c9-4e66-df7b-c23720216ec5.md)
         - [SegmentType Property](articles/716e8171-1fd6-941e-209f-e48f5468940f.md)
     - [ShapeNodes Object](articles/663721f1-8bd0-dd21-2362-fea2da3988bf.md)
-      - [ShapeNodes Members](articles/3964c044-89e0-fb12-16c3-759a63248a24.md)
-      - [Properties](articles/aa0d8d09-5d69-4be7-bd38-eec488907220.md)
+      
+      
         - [Application Property](articles/f8c667c9-26d7-4acc-f0d2-4312e771d57a.md)
         - [Count Property](articles/106fa785-5746-722b-b110-32f8667762cd.md)
         - [Creator Property](articles/995d9596-a48b-4fd2-6682-45c453ed91ad.md)
         - [Parent Property](articles/9d3edb95-975c-3a52-bd3e-2c9d9bb24332.md)
-      - [Methods](articles/4e081908-76d2-47ca-b02d-69411b80270c.md)
+      
         - [Delete Method](articles/985a1bed-4c40-e169-42de-fce59eca8b79.md)
         - [Insert Method](articles/b4f7e695-2102-5cbd-2d6b-bc167407cc0f.md)
         - [Item Method](articles/f311dcab-f496-c6ac-a032-b21adae3fde8.md)
@@ -4267,8 +4267,8 @@
         - [SetPosition Method](articles/ad76e3d9-51d2-51fd-2af1-9eee7b62e52c.md)
         - [SetSegmentType Method](articles/6223e503-4838-2365-9610-26d0a376ccae.md)
     - [ShapeRange Object](articles/e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
-      - [ShapeRange Members](articles/1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)
-      - [Properties](articles/04deb448-f734-4d4f-a606-6de120eeb13a.md)
+      
+      
         - [Adjustments Property](articles/c7a39ae0-364a-2568-c3c5-e10c9a3c125f.md)
         - [AlternativeText Property](articles/8485fffc-b1db-d93f-8945-2f871211fc5d.md)
         - [Application Property](articles/1fd7d168-7d4e-c732-db7d-986757a0a483.md)
@@ -4315,7 +4315,7 @@
         - [Visible Property](articles/a9c378e0-bf56-1f4b-7d54-aff336471273.md)
         - [Width Property](articles/b1aae046-a8b9-ed57-7060-a81e284bffc0.md)
         - [ZOrderPosition Property](articles/183f1078-959a-a4d2-0013-8f4a32bcd0f1.md)
-      - [Methods](articles/48b7759a-6814-4f96-a534-86c639ade97e.md)
+      
         - [Align Method](articles/7a4e6442-6730-ab7d-93b5-4c091ada6b14.md)
         - [Apply Method](articles/34acef44-7075-ffc1-199c-3396e17caafe.md)
         - [Delete Method](articles/6417fd0d-d7ed-3a76-262d-0426a2243100.md)
@@ -4337,14 +4337,14 @@
         - [Ungroup Method](articles/d7794250-e4b4-6998-e43d-4b41475ac6c9.md)
         - [ZOrder Method](articles/3a2e8556-ddbf-312d-85a3-6cd5d2865499.md)
     - [Shapes Object](articles/f9c6548c-d028-1b70-a11c-c4b45ff19177.md)
-      - [Shapes Members](articles/f5d0be42-46cc-2916-8953-401e50a5cef7.md)
-      - [Properties](articles/718f1d5b-2d43-4be0-810b-832ddcbdab1c.md)
+      
+      
         - [Application Property](articles/993f5112-5c35-d938-2411-64b3d5a3db95.md)
         - [Count Property](articles/b08b503a-a812-970c-bb10-54c5e9c3a46a.md)
         - [Creator Property](articles/937cc87a-96a7-d1dc-7c06-0693f50293ea.md)
         - [Parent Property](articles/68b8a251-42af-75ed-20ed-0fc4da492605.md)
         - [Range Property](articles/8158e8aa-76e3-4d11-860d-aa3dcde6e0ca.md)
-      - [Methods](articles/d39d0ee2-2422-4dff-8eef-1a89f5f5616b.md)
+      
         - [AddCallout Method](articles/b98ea95d-210b-34cc-c999-e7ce0a3e3a72.md)
         - [AddChart2 Method](articles/2d4569df-2f77-40d5-5f81-859e13e0abb7.md)
         - [AddConnector Method](articles/7ea648eb-ac6b-981d-652b-40cea1b3a8da.md)
@@ -4364,8 +4364,8 @@
         - [Item Method](articles/efd7e247-5976-95b1-3365-34997feb323f.md)
         - [SelectAll Method](articles/322f53c0-3a01-ce08-6112-89447f5ce686.md)
     - [Sheets Object](articles/048fd93c-bc27-4b58-358f-56fcee1710f8.md)
-      - [Sheets Members](articles/d630d25c-25cc-c866-a3d3-708246dc8b83.md)
-      - [Properties](articles/06f9108f-4692-49a6-885e-c564e0a8b001.md)
+      
+      
         - [Application Property](articles/8c4a5270-0b4b-fd43-a685-f4cb36a887eb.md)
         - [Count Property](articles/0211fbdd-8a51-2cee-3695-c2e2ee5e56c8.md)
         - [Creator Property](articles/55309f12-6967-96c9-29e6-b9ab65c95a6f.md)
@@ -4374,7 +4374,7 @@
         - [Parent Property](articles/6dc641aa-b501-5934-cb64-be277af222c8.md)
         - [Visible Property](articles/a30627df-6535-6617-f8dc-6cca34435e8d.md)
         - [VPageBreaks Property](articles/98de4186-6900-b53b-4d4d-91bb8131180f.md)
-      - [Methods](articles/79bbaba6-4098-41f5-a57c-a6aa4ebaf3fb.md)
+      
         - [Add Method](articles/db5de750-fd09-2b18-c52b-98d88eeb0ffc.md)
         - [Add2 Method](articles/f44b3ef1-8452-4e26-b91c-d24124fa5bc6.md)
         - [Copy Method](articles/8cfee52e-dc0f-a54f-21ba-00a65ba2029c.md)
@@ -4385,16 +4385,16 @@
         - [PrintPreview Method](articles/0e8c0e01-16e3-5d84-7b84-39049186fd7c.md)
         - [Select Method](articles/f5a34995-2243-1588-149a-d693e9eae87f.md)
     - [SheetViews Object](articles/954e22cf-1142-40ae-039b-09110d833bfc.md)
-      - [SheetViews Members](articles/32e6ff70-b998-f316-e075-88b8f0421c0d.md)
-      - [Properties](articles/6e687f70-a5f8-4cd4-b557-7592150e1550.md)
+      
+      
         - [Application Property](articles/b515807e-c56e-e49a-3cab-0ece29255be8.md)
         - [Count Property](articles/626ada01-6eda-5531-e230-f1d00ea6ac08.md)
         - [Creator Property](articles/21ab3bb7-6269-db13-d81d-eda3861aa846.md)
         - [Item Property](articles/5a2c1646-8786-74d0-a421-93a3c59dc257.md)
         - [Parent Property](articles/d64b1f20-1c68-2bce-f368-a1fe34fcc99b.md)
     - [Slicer Object](articles/577be0f6-4eda-0093-8899-097f3c900383.md)
-      - [Slicer Members](articles/09f1983a-5f7a-1707-c979-c5c27143ad73.md)
-      - [Properties](articles/263bf01b-9410-403c-ae3a-494f37480a5d.md)
+      
+      
         - [ActiveItem Property](articles/ecf95cb2-fb1e-97fc-46a1-2ddcf784a089.md)
         - [Application Property](articles/f01ba5f0-686e-6bec-04be-e31be69ffe38.md)
         - [Caption Property](articles/f0ba7c9b-d745-a72c-770e-852fc9cde9e0.md)
@@ -4417,13 +4417,13 @@
         - [TimelineViewState Property](articles/6205d7b8-31c3-e5e9-82e4-55691157d21a.md)
         - [Top Property](articles/092d0877-b884-0e12-7bac-edfbaf1909be.md)
         - [Width Property](articles/75292953-ccd6-8550-f7ec-38df79ad1db1.md)
-      - [Methods](articles/94ada5ff-266b-4205-af4e-31ad7eac2a70.md)
+      
         - [Copy Method](articles/265e7819-db8b-deab-5ab1-2cc9782cd800.md)
         - [Cut Method](articles/a8778661-612f-0031-78b0-d59bb87fdf62.md)
         - [Delete Method](articles/a3665f6c-dee8-342e-6558-05cf08a3db8b.md)
     - [SlicerCache Object](articles/6e6533e3-0503-a1d3-9ecd-f7997233565f.md)
-      - [SlicerCache Members](articles/59572fc4-0dd9-096a-61b9-7775f90ac7be.md)
-      - [Properties](articles/dafc4a75-a25f-4c9e-894f-c3778a2a7c27.md)
+      
+      
         - [Application Property](articles/a255b34e-8ba2-db68-ae12-52e9cd20cf53.md)
         - [Creator Property](articles/5ad84292-103d-1adb-620d-44726a3c6f0b.md)
         - [CrossFilterType Property](articles/8a29b376-c999-472d-0853-2e2f4a0949a0.md)
@@ -4449,14 +4449,14 @@
         - [VisibleSlicerItems Property](articles/ea9d1b43-1280-5423-515f-8d00e0624901.md)
         - [VisibleSlicerItemsList Property](articles/1002d654-8207-fe88-567e-8bd4e36fbeb4.md)
         - [WorkbookConnection Property](articles/ffe4fcbc-025e-6349-aaee-39a938b61e1e.md)
-      - [Methods](articles/56607137-b46e-4c15-a189-d19e42112ba8.md)
+      
         - [ClearAllFilters Method](articles/525cb7ab-3371-b4a0-45de-55725273527a.md)
         - [ClearDateFilter Method](articles/d999d249-c0c7-747c-b402-acc650df5367.md)
         - [ClearManualFilter Method](articles/694a6838-44ab-1a91-009f-7d054bd4fc84.md)
         - [Delete Method](articles/34bc2dce-5286-deb2-995d-c64f146a2cd7.md)
     - [SlicerCacheLevel Object](articles/d73ff7ab-4d7a-6a73-3716-11dc6716688d.md)
-      - [SlicerCacheLevel Members](articles/a72de83d-7c11-33c3-5a6e-249024f1e0ac.md)
-      - [Properties](articles/76c8697d-a139-41df-9e21-201ceda2c01a.md)
+      
+      
         - [Application Property](articles/5c1be374-4f35-b6cb-1120-6ab15c467a00.md)
         - [Count Property](articles/143e99c0-68a6-c142-75c0-6f9b726c5d7c.md)
         - [Creator Property](articles/9d590acb-150d-3573-534d-436778fdc61b.md)
@@ -4468,26 +4468,26 @@
         - [SortItems Property](articles/dd08c2d8-3502-d078-5c69-ab678ea9b801.md)
         - [VisibleSlicerItemsList Property](articles/68c0800b-4130-59f2-d0c0-7cad49b98f0d.md)
     - [SlicerCacheLevels Object](articles/6b1139a5-e81d-e11d-b4f5-f5d0fed24bf7.md)
-      - [SlicerCacheLevels Members](articles/8534ef02-4564-dc38-c192-a02ef1196375.md)
-      - [Properties](articles/ffd9e7e7-ca9d-42cc-8893-a46b349a3bcf.md)
+      
+      
         - [Application Property](articles/84c7f9cb-282e-793e-ad26-a73dc6374dc0.md)
         - [Count Property](articles/341c0047-2450-c268-e247-a339313de027.md)
         - [Creator Property](articles/dfbed228-a769-86b4-7f1f-fbe55060fead.md)
         - [Item Property](articles/4cf91d69-7489-9752-2b8e-ec5c7ce1a293.md)
         - [Parent Property](articles/34e963ed-d1c0-d8e0-2403-f26883e918aa.md)
     - [SlicerCaches Object](articles/d6097f70-cdc7-3be7-575c-cf43a0765e10.md)
-      - [SlicerCaches Members](articles/a84c1677-4061-baa1-0562-de07983ac68b.md)
-      - [Properties](articles/30c0c18f-4357-4619-93c1-17ca4b2259b3.md)
+      
+      
         - [Application Property](articles/3e99808f-dec7-a8b3-4f96-573ed07bbe05.md)
         - [Count Property](articles/135299b6-99f4-cb19-f52c-84a625c0e05f.md)
         - [Creator Property](articles/e7e2e448-189a-051d-33f2-0dbb8de272d5.md)
         - [Item Property](articles/92776918-c597-98ed-a73e-0ab2ef9271a7.md)
         - [Parent Property](articles/da3c9e59-6486-4b6f-de34-b04195bc14c6.md)
-      - [Methods](articles/8353841e-2693-47aa-9096-4cf5ad2b3fd0.md)
+      
         - [Add Method](articles/8d6f1099-e1ea-d157-8e64-1a9956b77c1b.md)
     - [SlicerItem Object](articles/cb93cd82-fc3a-f6b7-ae64-db6312db649d.md)
-      - [SlicerItem Members](articles/d42e8409-41e9-f632-3b46-fc40160eb66f.md)
-      - [Properties](articles/52746906-a67a-4404-a4e7-95bbb2d917e6.md)
+      
+      
         - [Application Property](articles/5e6d22ef-5a91-b660-3a8b-2c73c4e54e9e.md)
         - [Caption Property](articles/27e4bcc0-da55-d79e-a020-85e32c5381d3.md)
         - [Creator Property](articles/66027cd8-f471-c194-9d3e-b19198e1cc2d.md)
@@ -4499,37 +4499,37 @@
         - [SourceNameStandard Property](articles/fb2cba30-5ef5-1aa4-23f0-8dd0a4e6102a.md)
         - [Value Property](articles/a4de3b8a-42f5-a958-fff7-afb38674aa3c.md)
     - [SlicerItems Object](articles/80bbbbab-711a-cefb-255b-94fe2994d3c8.md)
-      - [SlicerItems Members](articles/1d477e60-1989-8c19-f7e0-0ce19216679f.md)
-      - [Properties](articles/23afe289-8bdf-41fd-9520-96f11315b391.md)
+      
+      
         - [Application Property](articles/c04b46cf-f9b4-d7a5-06f6-7c379c5e0661.md)
         - [Count Property](articles/63adcd4f-5fcc-13d9-5046-3c4215454e30.md)
         - [Creator Property](articles/d7002e14-3c07-3255-6b01-556fc1d3c503.md)
         - [Item Property](articles/f024839a-5b5f-887d-9452-096e85d9fd08.md)
         - [Parent Property](articles/f6a99651-98a3-5e32-6664-9fb70a8ac8d8.md)
     - [SlicerPivotTables Object](articles/8302dc8a-3845-12b0-f88e-761f104f1dcc.md)
-      - [SlicerPivotTables Members](articles/97660807-e5e8-dcdd-1338-5b89dff1e189.md)
-      - [Properties](articles/4f840b58-493b-4e87-9749-55f4579e3e81.md)
+      
+      
         - [Application Property](articles/a00829ff-0dd2-6ca9-b5db-69993f8d3075.md)
         - [Count Property](articles/37c05f9d-b1d6-0f0b-2b3b-6a1d880b7bfa.md)
         - [Creator Property](articles/7c1bf1f9-4d70-4b21-b235-d0f89b2bd500.md)
         - [Item Property](articles/d63d4a9e-cd6c-bb4c-8f6b-cbb604e1727b.md)
         - [Parent Property](articles/98ae0b14-f243-8372-9973-74cf6a55620a.md)
-      - [Methods](articles/1ce85de8-c14b-4a4b-abdc-d7924cbf3b78.md)
+      
         - [AddPivotTable Method](articles/c5fc95c6-0fb9-1c8f-5b12-8a4c0f9f10c7.md)
         - [RemovePivotTable Method](articles/ebc4cc53-c406-3ae4-06e7-094a1ba32af2.md)
     - [Slicers Object](articles/12b67ff5-cf66-35d1-2c72-9aa2f4a396a0.md)
-      - [Slicers Members](articles/e3afc17e-349d-a809-828b-01abcab42e99.md)
-      - [Properties](articles/1e73a3e8-d43c-429c-a321-beb1a7797b9f.md)
+      
+      
         - [Application Property](articles/f3878abf-c107-8248-31cb-c1df60f52cef.md)
         - [Count Property](articles/bb5cafff-2c72-61b6-5c91-bd81594b03dd.md)
         - [Creator Property](articles/c02ffedb-014b-1fd2-544c-5cd6dc83912a.md)
         - [Item Property](articles/2e986f53-41bd-69cd-74fc-ce9f5c0ffa0b.md)
         - [Parent Property](articles/1c3f6ccc-f6f3-2156-8316-5f322938f4a2.md)
-      - [Methods](articles/62cd9bf0-da66-41cd-ab20-04fe6c94fe44.md)
+      
         - [Add Method](articles/f2632dee-e8fb-440c-cad8-2dd2f7e37739.md)
     - [Sort Object](articles/637ee681-743c-5196-2bfc-4a5bea025295.md)
-      - [Sort Members](articles/032ef613-d7f4-9fdc-e58c-3a1749396b3e.md)
-      - [Properties](articles/352edcba-eab7-47da-b63b-d8dba615beff.md)
+      
+      
         - [Application Property](articles/1aac5249-48ef-7706-80f7-a8a377072c01.md)
         - [Creator Property](articles/578f0917-6778-e3df-7935-2c1121536f60.md)
         - [Header Property](articles/e5f2967f-de53-96a9-3742-5ba2353e0bcf.md)
@@ -4539,12 +4539,12 @@
         - [Rng Property](articles/5767a84c-ee1b-fc2b-a391-97ca318c455b.md)
         - [SortFields Property](articles/2d23cff0-5279-8e86-772e-e8e2326fe951.md)
         - [SortMethod Property](articles/d7f63079-afe8-32ea-d573-158f4e63e74b.md)
-      - [Methods](articles/f358c2dc-4957-41ec-bb2b-b997216354f1.md)
+      
         - [Apply Method](articles/dcb693a8-74f9-577f-c8fb-18005bba8f24.md)
         - [SetRange Method](articles/12a68fb7-379d-f9fa-d464-a6d5fe1e6f9b.md)
     - [SortField Object](articles/2becf77f-c072-2060-9baf-ebcf785c05bb.md)
-      - [SortField Members](articles/f690a20f-e9aa-8ac7-2389-093707269120.md)
-      - [Properties](articles/56c67cde-d2d2-4c03-bfc5-86cf3d021a64.md)
+      
+      
         - [Application Property](articles/89bf8bdf-1e3c-7d0a-9559-c092cc061669.md)
         - [Creator Property](articles/c9247d01-32fa-3360-7261-5287e47d6d40.md)
         - [CustomOrder Property](articles/02ac5d01-c4ea-bc10-b516-f9a424790287.md)
@@ -4555,51 +4555,51 @@
         - [Priority Property](articles/bb844a1c-bd3f-8d14-cd20-57c73125c8f4.md)
         - [SortOn Property](articles/126b83e7-901c-639f-9bdf-5e1f85ab057a.md)
         - [SortOnValue Property](articles/eeaaf959-71d2-99a3-7e66-61744ad4709e.md)
-      - [Methods](articles/74bf0f07-a596-4eb9-97b1-2ea46a086fdf.md)
+      
         - [Delete Method](articles/dd48027b-d6d6-0431-4123-a005c66ab457.md)
         - [ModifyKey Method](articles/40227e28-a19e-2130-ae9d-8b87109815f5.md)
         - [SetIcon Method](articles/840e5a6b-bbaf-087d-06ba-715bde7cbe00.md)
     - [SortFields Object](articles/a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
-      - [SortFields Members](articles/3fe54843-d34a-5d1a-75d6-2645da2755bc.md)
-      - [Properties](articles/ae6d5234-6372-4cd9-a63b-ebe760beb9d5.md)
+      
+      
         - [Application Property](articles/4c443cb0-bee2-e561-cfef-b0c6fb70ff49.md)
         - [Count Property](articles/33225de8-3af3-b64b-4873-0c3d29609ca9.md)
         - [Creator Property](articles/ffdbea4a-0e5f-49cb-0345-8d6ffe8d0eef.md)
         - [Item Property](articles/34500abd-7603-09ae-140b-111ac3aeb000.md)
         - [Parent Property](articles/66b972e9-5ec9-5c1c-5bea-a76b118b9d0d.md)
-      - [Methods](articles/41531270-85db-4712-8ed1-05094d3fc93c.md)
+      
         - [Add Method](articles/9dd69850-29e8-6c29-186a-be8303b26390.md)
         - [Clear Method](articles/de70763b-0cad-ed83-8c16-1eaa9d31627f.md)
-    - [Methods](articles/518e9707-4696-e7ad-7547-b746131e311b.md)
-      - [SoundNote Members](articles/80539bc5-d282-2f8e-f2fd-a98aa27cfc17.md)
-      - [Properties](articles/188bd398-bcde-6ac3-adec-f11c428b0a4c.md)
+    
+      
+      
         - [Application Property](articles/3adf2c05-3fc5-6a29-8c4f-ea6021db2802.md)
         - [Creator Property](articles/3b59f17a-56ca-16b0-4094-ead8e42ffd89.md)
         - [Parent Property](articles/373f7b42-ca1d-1eb9-e499-18120c5353d3.md)
-      - [Methods](articles/25ed3fb0-a207-ca35-c690-11c1713e6a6a.md)
+      
         - [Delete Method](articles/a5700e45-9ee6-8aba-205d-fe7927b367d2.md)
         - [Import Method](articles/c5fe13cb-aa95-c150-3290-b6a6e45616af.md)
         - [Play Method](articles/c7a78257-75d3-d131-2d46-d01bf4598de5.md)
         - [Record Method](articles/cc17091c-38e7-508f-80e3-3ac7e320c9ed.md)
     - [SparkAxes Object](articles/bcd36a3c-772e-3317-b22e-27447ce23e5b.md)
-      - [SparkAxes Members](articles/0b900e96-187c-04ff-e78b-d664c322c2c5.md)
-      - [Properties](articles/cb027991-bb55-40cd-ad06-5fb58b868070.md)
+      
+      
         - [Application Property](articles/ee7a581a-e0f8-a5bb-0ba6-01f0674da347.md)
         - [Creator Property](articles/a5a60f1d-acb4-18f2-178a-4a71338ad606.md)
         - [Horizontal Property](articles/7519ca71-d22f-2312-b0ae-0defa3ff1991.md)
         - [Parent Property](articles/519084e1-d957-8a6d-d8a1-6b18e4b904b7.md)
         - [Vertical Property](articles/fba4852b-3477-aaa4-9b56-7bbe4abacd98.md)
     - [SparkColor Object](articles/3de82c5c-eb0a-ab39-64a8-00f4c005c6af.md)
-      - [SparkColor Members](articles/f326bf03-4f40-abc1-837a-294b11ef1967.md)
-      - [Properties](articles/3f60b613-ff5d-4a03-88c9-7928c5e1a762.md)
+      
+      
         - [Application Property](articles/94d690fc-0484-a0a7-5952-1db57707e7e2.md)
         - [Color Property](articles/694a6126-2ee1-d0e3-bcb3-07fd7c3170b0.md)
         - [Creator Property](articles/4acfe022-4841-70b1-c38b-dd535e9cba9b.md)
         - [Parent Property](articles/d19a836e-3d73-b8ea-6c5f-0d7f085ce614.md)
         - [Visible Property](articles/7aedc128-2597-1065-2875-676ed15bcd9a.md)
     - [SparkHorizontalAxis Object](articles/2926cb18-c3a2-6a09-16da-ccec15c7f391.md)
-      - [SparkHorizontalAxis Members](articles/b9dfd1d4-a181-5d4b-b6ae-104827baf2f5.md)
-      - [Properties](articles/444ee737-a16e-47d0-ac5a-80889bc7cc14.md)
+      
+      
         - [Application Property](articles/f353bf0e-ea75-9211-7a3d-55e0474c3a01.md)
         - [Axis Property](articles/5b16a855-df0b-566a-86ef-399ae75b58db.md)
         - [Creator Property](articles/2420bb92-b37e-cbd2-22d3-906cdc039afa.md)
@@ -4607,19 +4607,19 @@
         - [Parent Property](articles/31e6f1e2-4a4c-a563-5825-320410e45f19.md)
         - [RightToLeftPlotOrder Property](articles/75515893-aab3-379f-26c6-31145493a592.md)
     - [Sparkline Object](articles/46951c4f-0eaa-9ce6-9703-eb3c632ea9b1.md)
-      - [Sparkline Members](articles/b5a704ce-27ff-e928-e2e3-dbe50788374d.md)
-      - [Properties](articles/1e3f6aa0-336b-4c9a-ac5a-c36ffd591f16.md)
+      
+      
         - [Application Property](articles/c204df6e-d0c6-8f6b-9ad3-fd14778a5b28.md)
         - [Creator Property](articles/8353b55b-5494-4101-b5e1-78b0f2fdf152.md)
         - [Location Property](articles/719a288a-e100-3c5b-6d4a-8518b149d88c.md)
         - [Parent Property](articles/2e225931-d0a8-5431-9ee3-071aa631db68.md)
         - [SourceData Property](articles/af0e59a1-fe0a-6fc6-79c0-fd2bbd9de1ef.md)
-      - [Methods](articles/a3e6c465-3398-412f-922f-da5f20f40d39.md)
+      
         - [ModifyLocation Method](articles/39b4b0cc-5d3a-0f0b-c57e-d0d4f2cc4244.md)
         - [ModifySourceData Method](articles/cb47feba-6ff5-0186-44a9-747682605bd1.md)
     - [SparklineGroup Object](articles/cc694d97-a3d3-3473-2e37-0ede67b97680.md)
-      - [SparklineGroup Members](articles/dad308ee-d69b-748d-d0c8-ad63c643808f.md)
-      - [Properties](articles/139a7b25-35ca-4902-9eb3-b15e128138fa.md)
+      
+      
         - [Application Property](articles/07f584f6-ed89-4a08-7dfa-f44d03e5b487.md)
         - [Axes Property](articles/9692d9bb-e5f5-860f-d9b4-264ff7ada6b2.md)
         - [Count Property](articles/aa4de7e0-20e9-2602-dcf3-c14ae1c63cec.md)
@@ -4636,29 +4636,29 @@
         - [SeriesColor Property](articles/12087bd4-64bd-b701-006a-eac47deb2e17.md)
         - [SourceData Property](articles/b55c67a5-2cf8-4a36-a8d5-c7653f13ceb3.md)
         - [Type Property](articles/346facc2-ff79-4ae0-9756-db104990b8f3.md)
-      - [Methods](articles/aeff98e4-a023-4149-8d0b-84e5bdf60110.md)
+      
         - [Delete Method](articles/8b1369a6-5106-f400-ca8b-41e6ebf8ad4f.md)
         - [Modify Method](articles/596cdecb-dd03-0a63-e2b8-9aa459ff719c.md)
         - [ModifyDateRange Method](articles/2de21c82-64b6-6095-0c47-cd20354d9739.md)
         - [ModifyLocation Method](articles/8f6ca2cb-b0cc-a0bf-efc0-ee30ca3888e6.md)
         - [ModifySourceData Method](articles/35c1c1ed-b61d-2412-961f-8eb74b5563a2.md)
     - [SparklineGroups Object](articles/9bc6be34-fa2e-8652-ca92-fa9630b4d7a6.md)
-      - [SparklineGroups Members](articles/8737796e-c3dc-4304-0835-c04712a712a5.md)
-      - [Properties](articles/04c7e516-78d1-4634-af88-655ed1db7588.md)
+      
+      
         - [Application Property](articles/0de3aeb0-f344-c89c-6806-2c569ca1a7a9.md)
         - [Count Property](articles/4b8380d2-2d44-d404-61f6-0b025a299711.md)
         - [Creator Property](articles/c88587c7-8e6d-9ab5-f36a-d9376ec7cfeb.md)
         - [Item Property](articles/6fd07e5f-040e-8373-2565-44851a310de6.md)
         - [Parent Property](articles/acf195e6-c616-6c99-9eec-a998871134a5.md)
-      - [Methods](articles/c622523f-5595-46e1-8f5d-afb8c3d8b41a.md)
+      
         - [Add Method](articles/ae41a572-c073-5251-b2c1-884e832e8ae5.md)
         - [Clear Method](articles/a985d901-db4c-ea03-e96c-5bf27ca6da16.md)
         - [ClearGroups Method](articles/871998c2-d75f-2be2-98c8-cf258bbb9a85.md)
         - [Group Method](articles/a5e01669-1922-4b26-158d-3c3aa70a101a.md)
         - [Ungroup Method](articles/c67c54f4-d5d1-5f12-2413-671db612a954.md)
     - [SparkPoints Object](articles/382bf292-7824-179f-e254-1b72dfb557b2.md)
-      - [SparkPoints Members](articles/d8b6a812-38ea-f048-5fd1-64466e908136.md)
-      - [Properties](articles/697ffcfd-7813-4ca3-b827-ba5f038148f6.md)
+      
+      
         - [Application Property](articles/4aca021f-94cc-e59d-4dfb-223fda675209.md)
         - [Creator Property](articles/65ad69c7-3c71-f844-2cef-325d707a225d.md)
         - [Firstpoint Property](articles/517175d0-93db-bd74-7684-4b196dd34d91.md)
@@ -4669,8 +4669,8 @@
         - [Negative Property](articles/6231f95b-a923-c31a-ade9-3eb7519c474a.md)
         - [Parent Property](articles/0781c174-ff88-505e-5048-1de92397f1e9.md)
     - [SparkVerticalAxis Object](articles/27c34337-b8a9-cdad-1716-343cea54cc87.md)
-      - [SparkVerticalAxis Members](articles/208397cb-914f-b22d-db78-d691e71b6722.md)
-      - [Properties](articles/e68d963b-7b1c-4cae-8c58-59cc8a33028c.md)
+      
+      
         - [Application Property](articles/f92de9f0-9b57-ec63-d741-a8c548533b19.md)
         - [Creator Property](articles/931a6fd8-57cb-ca6f-44a6-aff2d5a2dfcb.md)
         - [CustomMaxScaleValue Property](articles/6589c4e5-21c6-c54d-bde5-ac2daa58f6f5.md)
@@ -4679,15 +4679,15 @@
         - [MinScaleType Property](articles/e3a306db-fe5d-fe5b-23bb-b3e8b70a516c.md)
         - [Parent Property](articles/a6bada2b-c103-b526-eb48-24520a30e71b.md)
     - [Speech Object](articles/1ddd61bc-989e-4766-423e-515ec5d1c23a.md)
-      - [Speech Members](articles/5dcc198f-153f-0049-d870-bf162cbde9c7.md)
-      - [Properties](articles/0cdaa339-50bb-4ffb-b2e8-68822f6cb496.md)
+      
+      
         - [Direction Property](articles/8cbedcb3-2d91-b9c1-c1ae-6f06cd8d442b.md)
         - [SpeakCellOnEnter Property](articles/a176820a-85ef-338c-b507-9ffb9d744631.md)
-      - [Methods](articles/9b331f9d-8975-4e9f-ae0d-ddc989796c27.md)
+      
         - [Speak Method](articles/d17dcf63-c837-a5b5-8267-44767b38700a.md)
     - [SpellingOptions Object](articles/3ba7d0b4-bebb-0cc9-cb50-066d1c19d876.md)
-      - [SpellingOptions Members](articles/d25612d9-256d-de1b-e89b-0440f37d9caa.md)
-      - [Properties](articles/a7f5211c-7e83-4961-ac7b-11a04299f44c.md)
+      
+      
         - [ArabicModes Property](articles/0b4fb37e-e5f4-318b-27c1-a90adf39938e.md)
         - [ArabicStrictAlefHamza Property](articles/0e144aee-eb66-173f-2ee0-69ad433fcd25.md)
         - [ArabicStrictFinalYaa Property](articles/90affabc-b04a-62a2-6b50-91febe65def0.md)
@@ -4708,8 +4708,8 @@
         - [SuggestMainOnly Property](articles/f4a5aa0a-78be-bd98-22e8-b85eac0f4428.md)
         - [UserDict Property](articles/8816b44e-98e5-8829-cb6e-af4ac4040838.md)
     - [Style Object](articles/3c1e9184-0075-5f46-9a1a-0b61d874d1f8.md)
-      - [Style Members](articles/78f477c9-4033-e7c5-fc3d-7ba025392d31.md)
-      - [Properties](articles/4ad8fc06-66f7-4dee-963a-cd0b8e0abd06.md)
+      
+      
         - [AddIndent Property](articles/76b9c820-8c94-3cf6-7267-6d2710f07b74.md)
         - [Application Property](articles/a3e9d3c1-5124-10a3-d0ed-87262d1bcc02.md)
         - [Borders Property](articles/7da8309e-f01f-b131-b462-f974dde67007.md)
@@ -4739,22 +4739,22 @@
         - [Value Property](articles/7677efe6-bb2c-4d3a-37b3-aa555ba973ca.md)
         - [VerticalAlignment Property](articles/6c47e6f1-6e86-a5ac-a57d-4bfec12becf2.md)
         - [WrapText Property](articles/9b6d236e-b46d-c557-0a54-5c9f765fd707.md)
-      - [Methods](articles/6e88d96d-3737-46f9-ad9c-54b2677fe503.md)
+      
         - [Delete Method](articles/9248eac2-9d36-4366-11de-4755581d2ad7.md)
     - [Styles Object](articles/146effdc-e007-814d-b110-f7bd944fc15f.md)
-      - [Styles Members](articles/79790248-557c-ff11-94e0-4d9c8f4f71c0.md)
-      - [Properties](articles/f54cc8e0-4c65-40ce-87fa-c419b12f0e1e.md)
+      
+      
         - [Application Property](articles/4926c689-1328-ceb8-520d-74f029e45c98.md)
         - [Count Property](articles/cf423590-8ad6-add0-8c64-e2647807483a.md)
         - [Creator Property](articles/4ca8554c-8acb-8715-c13c-456cb7c255e0.md)
         - [Item Property](articles/2101cf1a-b37f-23f8-25b2-dde124d7c702.md)
         - [Parent Property](articles/fd127ed7-bc9c-8e05-9a7c-7636b7b27d34.md)
-      - [Methods](articles/9bbc9639-abd5-426b-a942-59c0b028693d.md)
+      
         - [Add Method](articles/623ed34e-d79d-2f16-475a-0c58aef04aa4.md)
         - [Merge Method](articles/b2212f10-c16b-7108-8281-1c0375448f6d.md)
     - [Tab Object](articles/c6555e96-b96e-54d8-b8c6-5ab13c256d97.md)
-      - [Tab Members](articles/a969f5e1-2c59-124e-7e62-bb774a3b36b0.md)
-      - [Properties](articles/a4f411c1-6083-4001-ae86-a37581559e7e.md)
+      
+      
         - [Application Property](articles/081bb5a6-68e0-744b-8541-514e26f2f6e5.md)
         - [Color Property](articles/f1ae9dad-2476-8594-9a89-6cf126854169.md)
         - [ColorIndex Property](articles/4c257c58-613e-dbc9-095f-3609feffe64c.md)
@@ -4763,8 +4763,8 @@
         - [ThemeColor Property](articles/81b073d3-86f6-1d8c-2d60-228d83cb2e66.md)
         - [TintAndShade Property](articles/be8ee335-fcf0-2091-89c1-973f54aba2c4.md)
     - [TableObject Object](articles/afc981f4-155b-085a-3c17-c8d46c4d7037.md)
-      - [TableObject Members](articles/1dee3209-7010-b3fc-daa3-a2147590aa6e.md)
-      - [Properties](articles/4ea0d734-bad9-37d0-6e10-cbd7b894223a.md)
+      
+      
         - [AdjustColumnWidth Property](articles/0e389572-16f8-6d3f-aa3e-af25efaba0c8.md)
         - [Application Property](articles/7150f52d-c871-12bc-89d8-42993844187d.md)
         - [Creator Property](articles/978051f8-395f-a80b-b62f-ece1e78298f8.md)
@@ -4780,12 +4780,12 @@
         - [ResultRange Property](articles/1fba8f22-8294-9e5d-f796-ea45ea87d974.md)
         - [RowNumbers Property](articles/08debc1f-8cf8-a1be-e35c-cec84e81499d.md)
         - [WorkbookConnection Property](articles/b48ba66d-c5df-33d7-bb37-18f31618d4ad.md)
-      - [Methods](articles/3f2187e3-43d4-cd1a-4041-065c972f7fe6.md)
+      
         - [Delete Method](articles/f22ff4b2-1353-f2cd-9405-c0b76a1804be.md)
         - [Refresh Method](articles/5f7e81a8-dab9-1434-1a9f-8abe86e09f20.md)
     - [TableStyle Object](articles/191a5c2c-ecf4-f88a-1639-be7ee9c369c3.md)
-      - [TableStyle Members](articles/a9266fdf-6168-bedc-0a17-81ccb43449e5.md)
-      - [Properties](articles/978ebc13-509b-4760-9d8c-a06dd1b533f2.md)
+      
+      
         - [Application Property](articles/5bcd6398-4900-10e7-bb0a-a6a8253f3951.md)
         - [BuiltIn Property](articles/f2418768-1080-ea88-bc78-3c9afcb4ef73.md)
         - [Creator Property](articles/74922404-ce94-d5f9-aa3d-a82622859ac6.md)
@@ -4797,12 +4797,12 @@
         - [ShowAsAvailableTableStyle Property](articles/cf5c7b9c-6ed9-e26e-4b31-614ede2a4a12.md)
         - [ShowAsAvailableTimelineStyle Property](articles/a5f70ac8-bc23-5433-75bd-795cee6ccdc3.md)
         - [TableStyleElements Property](articles/00789e35-0a1e-f29c-1614-08dbc22bd83f.md)
-      - [Methods](articles/d5549440-1674-4c2e-9d60-0a79f3646f21.md)
+      
         - [Delete Method](articles/5dfff261-7730-29f1-d64e-f569eb380790.md)
         - [Duplicate Method](articles/60f807ff-2f4f-137d-54d7-37b168dbc8c7.md)
     - [TableStyleElement Object](articles/a8fc24e5-45bf-3361-edfe-4762f944eef5.md)
-      - [TableStyleElement Members](articles/d89ee8b0-31a6-ea36-170f-57eab90eb712.md)
-      - [Properties](articles/73780cf3-0ff4-4da8-870f-69e1ba9f3eff.md)
+      
+      
         - [Application Property](articles/be36f1d4-1aed-db98-fafd-ce55a153f255.md)
         - [Borders Property](articles/a6fdfe85-0953-f796-5c89-6f418e9226e6.md)
         - [Creator Property](articles/ab9524d1-7d61-cc43-2d8f-0b087f1ccb1b.md)
@@ -4811,30 +4811,30 @@
         - [Interior Property](articles/517486ad-abb6-3a10-1059-7494c137dc59.md)
         - [Parent Property](articles/15810259-c8bc-d5d4-ea3c-ce16af733ca6.md)
         - [StripeSize Property](articles/b0f9515f-38d7-c338-43e0-0da0e9de0555.md)
-      - [Methods](articles/7d3b350b-874d-4c70-884c-8009fb137207.md)
+      
         - [Clear Method](articles/26781fe8-0832-e402-2cde-5f1c718b82e7.md)
     - [TableStyleElements Object](articles/d8f29faa-039d-6820-028c-763ee2a2989b.md)
-      - [TableStyleElements Members](articles/e6272fe1-429b-a881-7601-c42d3887429f.md)
-      - [Properties](articles/7dc7e134-7aff-4644-ad84-f449ce14ed05.md)
+      
+      
         - [Application Property](articles/0aceeb49-8605-f7f6-b19e-c1cc2e0d1af4.md)
         - [Count Property](articles/324d2c82-87d8-69ca-eff6-45db7fe092e8.md)
         - [Creator Property](articles/ef8ca78a-248a-a226-b641-c9917d84236a.md)
         - [Parent Property](articles/4c7acb7d-52d2-25d9-769a-265e0cfcb648.md)
-      - [Methods](articles/abce197d-4b8f-4c42-ada3-3bd9cbdd654a.md)
+      
         - [Item Method](articles/04bcd092-549d-02c4-615f-a1b05a805717.md)
     - [TableStyles Object](articles/952da370-51cb-b1e0-a413-15cb558099b5.md)
-      - [TableStyles Members](articles/f358cc3f-b732-aff3-467b-c1ce9d182bd7.md)
-      - [Properties](articles/b8e0fd90-4792-4e56-9a17-f3c47348687a.md)
+      
+      
         - [Application Property](articles/9f1c7dc1-78ed-fc6a-0740-16aa57e24381.md)
         - [Count Property](articles/b479e873-ba0f-462b-a7a7-dcacf0eb6298.md)
         - [Creator Property](articles/dc129be8-a2d9-b194-8759-88298470afe7.md)
         - [Parent Property](articles/fb11ce4c-e2cd-3638-cad7-90df41085a23.md)
-      - [Methods](articles/f407eb4e-a702-4f94-b774-80479b6b19b4.md)
+      
         - [Add Method](articles/90f8f3ff-91e5-c2c5-f3c6-b19ec174270f.md)
         - [Item Method](articles/32d7fb2e-5755-0e1a-5e9a-8f85a706acee.md)
     - [TextConnection Object](articles/21d04d46-3940-642b-a0fb-8e7c3fafc749.md)
-      - [TextConnection Members](articles/6c3c1c87-9b23-f26f-376e-98acaca025e7.md)
-      - [Properties](articles/91d71e58-2760-4969-5948-71a1926569eb.md)
+      
+      
         - [Application Property](articles/a3dc9071-4d42-6293-b9df-25dcc84d4ca8.md)
         - [Connection Property](articles/f3b01fbb-64df-a98a-029d-56ff8479d574.md)
         - [Creator Property](articles/64293b6f-41c7-54a5-9fcb-f4d19d60b0e6.md)
@@ -4858,8 +4858,8 @@
         - [TextFileTrailingMinusNumbers Property](articles/89341648-4dd6-775d-1ec3-f6eedc768264.md)
         - [TextFileVisualLayout Property](articles/a70fa8fe-8a0a-1308-34e5-71af17892862.md)
     - [TextEffectFormat Object](articles/7fe03721-6a45-569e-add4-fc8849c99535.md)
-      - [TextEffectFormat Members](articles/10d920d6-b96f-7afa-8e27-c22ba0926146.md)
-      - [Properties](articles/28d7d8ee-2309-4bba-82e1-13a3dcff992f.md)
+      
+      
         - [Alignment Property](articles/0a86ac22-9496-d801-0cfb-a9fca5c30fec.md)
         - [Application Property](articles/32568bbc-b3c9-b8d4-d195-34503edba9e0.md)
         - [Creator Property](articles/50833f23-3320-a156-2836-c6ea5fbc6437.md)
@@ -4875,11 +4875,11 @@
         - [RotatedChars Property](articles/708f076d-82e7-f7f3-a2df-3f4a4d628092.md)
         - [Text Property](articles/f2d870d3-52c0-547c-78b9-4bba7aff06bb.md)
         - [Tracking Property](articles/b5190203-66c4-238b-e5b4-b61a9c70d99c.md)
-      - [Methods](articles/1b9a60ef-9d9c-47f1-9fae-2e84fcca7ed1.md)
+      
         - [ToggleVerticalText Method](articles/9b4312b8-1642-9a49-6395-b49b129f44f2.md)
     - [TextFrame Object](articles/4a6d2201-84b8-d83a-cc13-703da047815e.md)
-      - [TextFrame Members](articles/299ac22a-bf3d-11ca-90e8-a05d52a760d4.md)
-      - [Properties](articles/aff6d532-5fe1-4186-91fe-63c64c76128e.md)
+      
+      
         - [Application Property](articles/6f52f3a2-6fba-77d0-c2b3-3cd3987c0ed6.md)
         - [AutoMargins Property](articles/a91ecac5-c907-8ae1-a0b8-1569f2466adf.md)
         - [AutoSize Property](articles/bf434f76-5749-8163-f737-b3bd624092d5.md)
@@ -4895,11 +4895,11 @@
         - [ReadingOrder Property](articles/9c6c6b10-3837-fc47-1021-cfadb31cfcbc.md)
         - [VerticalAlignment Property](articles/72cb4110-ec7a-876e-b347-de1c2a83c0e2.md)
         - [VerticalOverflow Property](articles/a516ed25-e555-e00b-1a0f-61a5ac5954af.md)
-      - [Methods](articles/217d6bce-8dc8-4c4f-8eae-189631ddc7a2.md)
+      
         - [Characters Method](articles/20f42207-4d50-1d9f-7dde-c01d7aef0abc.md)
     - [TextFrame2 Object](articles/66ba23e5-9b15-b954-a1db-1bd19b4eb90d.md)
-      - [TextFrame2 Members](articles/04f18e2a-8a83-b077-fe38-4bb56edce5a7.md)
-      - [Properties](articles/ab5d980f-99bf-4f1f-a2a9-f93d2b2b7cac.md)
+      
+      
         - [Application Property](articles/bb5aeb3a-f8d7-3752-27a5-ff1eedd7d4db.md)
         - [AutoSize Property](articles/8c2659b2-a315-18c3-23f3-7b1488ce8107.md)
         - [Column Property](articles/4f78bef0-38b8-534a-c6a3-dfbf21b83eda.md)
@@ -4921,11 +4921,11 @@
         - [WarpFormat Property](articles/20710bdc-981f-b61d-4be5-f8c760bb9f4c.md)
         - [WordArtformat Property](articles/66944f16-1a5e-a7f5-942e-9007107a7fbf.md)
         - [WordWrap Property](articles/ed768819-89f9-7d8d-1ed2-706de15ad8e7.md)
-      - [Methods](articles/95349d13-a523-4ab0-8d30-bea132b15c87.md)
+      
         - [DeleteText Method](articles/e96a305c-085a-d807-1336-9dcc22760a7e.md)
     - [ThreeDFormat Object](articles/9cb41236-6aba-4d6c-a54c-5e177657c8d1.md)
-      - [ThreeDFormat Members](articles/1693142f-53c2-1185-6162-9a99b3ae25d6.md)
-      - [Properties](articles/c0deef3e-8149-4bd7-a807-39166a8f5321.md)
+      
+      
         - [Application Property](articles/3921f7fa-7ce8-3a70-acb2-45c8913dd909.md)
         - [BevelBottomDepth Property](articles/8831903c-cb29-d04a-3f58-8c3d9745dbe2.md)
         - [BevelBottomInset Property](articles/35afcfc6-d18b-d6c5-36c3-c0afa0a2f0ca.md)
@@ -4956,7 +4956,7 @@
         - [RotationZ Property](articles/4e28396e-9d1e-4d2c-920c-e49e735cee27.md)
         - [Visible Property](articles/5ad30743-d33e-6b53-1130-f7c5015d0a1f.md)
         - [Z Property](articles/7f4de241-5544-ac97-3bb6-0d84751c1cf7.md)
-      - [Methods](articles/73e6fafc-6544-4b6f-9299-c9e3c6f6c53b.md)
+      
         - [IncrementRotationHorizontal Method](articles/2f0d0123-59a9-a9ad-fbae-a008dd631c26.md)
         - [IncrementRotationVertical Method](articles/09b5e785-9aac-6143-7fdf-630813654216.md)
         - [IncrementRotationX Method](articles/599f96ca-6a8a-3b9e-5d76-c053f3236522.md)
@@ -4967,8 +4967,8 @@
         - [SetPresetCamera Method](articles/53608d7d-6f18-a1c0-ae91-2e8b60e38f2c.md)
         - [SetThreeDFormat Method](articles/64315607-991a-426e-e931-78432558832e.md)
     - [TickLabels Object](articles/fcb02bc5-fcdc-db32-168b-2d40e5552991.md)
-      - [TickLabels Members](articles/bd184951-8313-e1c9-69a6-063f5f2fd356.md)
-      - [Properties](articles/a57fa101-e4b5-42e3-be96-d340f4ef5908.md)
+      
+      
         - [Alignment Property](articles/07298bc2-5b5b-2f6c-0bc5-012d7eada136.md)
         - [Application Property](articles/81b0c52c-23e0-889d-eb6b-22beae255730.md)
         - [Creator Property](articles/e319d5b6-9048-8823-0161-cba3ed4037f4.md)
@@ -4984,12 +4984,12 @@
         - [Orientation Property](articles/94ab0869-c4bf-7481-df88-84e4a53ec4d7.md)
         - [Parent Property](articles/7365e75c-d821-0f6e-f39b-1195574899b1.md)
         - [ReadingOrder Property](articles/9d430a87-5a01-1833-7a79-51a424695a80.md)
-      - [Methods](articles/92b737e5-e755-44ee-b41e-439bfddd2aff.md)
+      
         - [Delete Method](articles/2aa1ec7a-ecf7-e377-ed1f-de97c5efd3e5.md)
         - [Select Method](articles/36d40e75-20fb-5022-a31d-7a93aac65d3f.md)
     - [TimelineState Object](articles/bb92fe09-3cce-8e10-3795-2b9089c27801.md)
-      - [TimelineState Members](articles/6c21dcbb-b0a6-0f24-27f6-6aefafc5f6ec.md)
-      - [Properties](articles/5556acd3-9de5-2972-f1fa-5cc649986758.md)
+      
+      
         - [Application Property](articles/5b919557-9aeb-acc7-f717-8457f57e44fb.md)
         - [Creator Property](articles/aa6e35bb-531c-f501-23ef-f727db51f320.md)
         - [EndDate Property](articles/1d33ce70-32ed-a439-eb34-7305fd9557f2.md)
@@ -4999,11 +4999,11 @@
         - [Parent Property](articles/2d7c5eb8-dbf8-9c71-8606-06b665094ac7.md)
         - [SingleRangeFilterState Property](articles/aca37428-83e9-cb54-f32a-675dfcac5d9f.md)
         - [StartDate Property](articles/3de8df53-1a36-428e-50dd-c7f45aa73b25.md)
-      - [Methods](articles/1fd75681-a1e9-dd06-4891-995ee4c928ac.md)
+      
         - [SetFilterDateRange Method](articles/c0ceea5c-9aa2-39a2-ce58-e37befeb0175.md)
     - [TimelineViewState Object](articles/65889a9f-0288-063a-c1b5-452b18df1479.md)
-      - [TimelineViewState Members](articles/9b780573-b467-94e8-122f-ca004522e7c4.md)
-      - [Properties](articles/7d40a65a-db32-3bb3-229e-628b9780307c.md)
+      
+      
         - [Application Property](articles/b00518cc-b584-c562-0ae3-cf1e24844bdd.md)
         - [Creator Property](articles/ba8e2368-a38a-143f-7c3c-bc6097cc5af0.md)
         - [Level Property](articles/e27a35b0-9b3b-b8bc-247f-799b92cc660b.md)
@@ -5013,8 +5013,8 @@
         - [ShowSelectionLabel Property](articles/f6addfd0-7327-fa17-a1e2-1ba1af999c31.md)
         - [ShowTimeLevel Property](articles/c197162c-4b3e-f1d9-62ac-7e86932f4d95.md)
     - [Top10 Object](articles/b94f4a4f-564c-d751-2b43-4b9482e048cc.md)
-      - [Top10 Members](articles/ee94e347-b55a-d7b3-ab2f-26c5698b15cf.md)
-      - [Properties](articles/cc8da22d-bf5d-498f-9ea5-6308378f8021.md)
+      
+      
         - [Application Property](articles/777fa632-6320-c375-0966-c3ea3a8c5a40.md)
         - [AppliesTo Property](articles/734666da-8467-a740-c64d-d0901326e2a7.md)
         - [Borders Property](articles/428953d4-b481-dd8a-0aff-a9fb754b935c.md)
@@ -5032,22 +5032,22 @@
         - [StopIfTrue Property](articles/12e0820e-8c6b-29c0-fd63-0cd49d175b51.md)
         - [TopBottom Property](articles/8ab43085-677e-1883-5f88-4194f4027f2b.md)
         - [Type Property](articles/2a3bfd5e-cdc5-3d21-0a0f-57d30b86689b.md)
-      - [Methods](articles/3ea9ba93-3096-4a4c-afc5-221e543cad45.md)
+      
         - [Delete Method](articles/3c406d8c-85b2-d820-3646-8c5649f155c1.md)
         - [ModifyAppliesToRange Method](articles/3baf8e16-4bb7-ec97-da0a-17187500f1f1.md)
         - [SetFirstPriority Method](articles/3523bdae-87ab-54f5-e6ff-a684592b88b7.md)
         - [SetLastPriority Method](articles/878cbcd5-47c9-64f8-d864-cfe279dec513.md)
     - [TreeviewControl Object](articles/32a5e647-14e0-d2a8-05f7-a01db9250a88.md)
-      - [TreeviewControl Members](articles/1b242488-8520-476d-779c-1c8ee63631f0.md)
-      - [Properties](articles/67eadf17-3c6c-4b82-91af-054972051a6e.md)
+      
+      
         - [Application Property](articles/b883fb0e-c382-4ac3-ca93-9364d3b490d6.md)
         - [Creator Property](articles/b8956992-0bc3-f98a-1155-5c1f3a0f3ec6.md)
         - [Drilled Property](articles/5e4f1b52-a02f-655b-f3c8-b5e7aa54d928.md)
         - [Hidden Property](articles/134a3b6b-492b-6813-cd40-ce1ff3b52c6c.md)
         - [Parent Property](articles/28c41fb8-65e5-49df-3f97-995a424499a1.md)
     - [Trendline Object](articles/5c04b065-57f4-a059-7c22-50612bd727ea.md)
-      - [Trendline Members](articles/b63cecc4-6151-f66c-8d73-9f66850046b1.md)
-      - [Properties](articles/a62ddefc-d9b6-4964-a6d5-f1d05e5f6589.md)
+      
+      
         - [Application Property](articles/be84eac3-8085-7b35-adb7-cee4ebcdd996.md)
         - [Backward2 Property](articles/28712c4d-7772-d61e-0151-22eea8ff6383.md)
         - [Border Property](articles/5b253b40-e9c1-031d-305c-bfe4a600427c.md)
@@ -5066,23 +5066,23 @@
         - [Parent Property](articles/4e9dde32-c0f8-5b6f-9d32-c17cfb2e37cd.md)
         - [Period Property](articles/142b675b-8859-a717-1e09-59a8b4000820.md)
         - [Type Property](articles/c07c060c-0512-72a7-c219-d12ea6b629fc.md)
-      - [Methods](articles/0bdfcd13-99ba-471b-9c87-694a2aa6ab6c.md)
+      
         - [ClearFormats Method](articles/5519cfa5-4a1f-8880-8f00-a6843a6b57e3.md)
         - [Delete Method](articles/76b903bc-4d95-d376-f0d0-9b8a52225d22.md)
         - [Select Method](articles/b866a79c-38c1-feb2-e244-31c727e98f46.md)
     - [Trendlines Object](articles/752cde45-c628-7550-6c88-07405821e348.md)
-      - [Trendlines Members](articles/3d9e89b0-a943-7ff7-2e5f-cdcf7abcc0b5.md)
-      - [Properties](articles/d6c5f9b8-c426-4a6c-b4c4-1d934eeb02b4.md)
+      
+      
         - [Application Property](articles/b3fb519f-6947-3cb4-9386-97343cb04ef6.md)
         - [Count Property](articles/6731edf2-8d9a-76b5-bf9f-23c1c3a9bed9.md)
         - [Creator Property](articles/5163fb1c-4f90-52f7-fd3b-48a509abf10a.md)
         - [Parent Property](articles/c547b395-29af-119e-3b83-df67a9339c5c.md)
-      - [Methods](articles/76e075d3-3d00-4408-9f04-1192a9127e27.md)
+      
         - [Add Method](articles/4d86029e-3c42-2d81-69d3-94d8dc072ccd.md)
         - [Item Method](articles/e2bbc0fc-a618-8c84-f001-c77c0206cbf9.md)
     - [UniqueValues Object](articles/1b8f056f-040c-7df4-8895-26a520cf6c1b.md)
-      - [UniqueValues Members](articles/53c161ba-b9ef-e052-2fd3-4c662454c5fc.md)
-      - [Properties](articles/988b94a3-50b9-4c24-8e04-2007b0b789b8.md)
+      
+      
         - [Application Property](articles/6bddd938-b05e-e999-6ab7-1396f8945fa1.md)
         - [AppliesTo Property](articles/6ac8233d-eda7-820e-ce76-bd0dfb93114d.md)
         - [Borders Property](articles/9ebd8e96-d1a3-e69e-ff00-0f6c3dc1c943.md)
@@ -5097,48 +5097,48 @@
         - [ScopeType Property](articles/a0c3b6ad-3ec4-465c-f3ab-806451e7cf1f.md)
         - [StopIfTrue Property](articles/d739e671-af5c-d41e-4bd6-e343818afa3f.md)
         - [Type Property](articles/42260fd6-693f-0da7-8f2b-5ffbc7823b8f.md)
-      - [Methods](articles/a8eb3562-4264-4295-8335-fab109fb0742.md)
+      
         - [Delete Method](articles/0c86014b-57c6-6177-1411-d3c87bed73be.md)
         - [ModifyAppliesToRange Method](articles/cde80c4b-747a-9bc8-d09f-748d57999bac.md)
         - [SetFirstPriority Method](articles/65e0be2a-1bc2-167d-516f-3ba0ebab1322.md)
         - [SetLastPriority Method](articles/9e2db204-4a9f-1690-7fc1-bec371fccaff.md)
     - [UpBars Object](articles/4f2a85fe-3fbb-ccc6-7b16-e48e54cd3394.md)
-      - [UpBars Members](articles/9c0bf545-ea18-987f-16f3-5d91175245ca.md)
-      - [Properties](articles/783042d1-59b3-4ed3-9571-41a6e9ee5ce1.md)
+      
+      
         - [Application Property](articles/28c188c6-1093-3dda-bb24-2d157e680248.md)
         - [Creator Property](articles/0cfa8ef1-fd09-073c-8156-f2c684894b90.md)
         - [Format Property](articles/4bde3bb7-1c52-99c3-919a-92628b80380c.md)
         - [Name Property](articles/c6012be8-a9e3-dd5e-a86e-f5155fb42553.md)
         - [Parent Property](articles/1bd8f302-a3e3-ab3b-fc4f-ed1cf5cf97b5.md)
-      - [Methods](articles/c8c1eade-c9db-4d96-aa8b-6b71a04663aa.md)
+      
         - [Delete Method](articles/d224d9c6-362b-b88c-0897-b759e635d409.md)
         - [Select Method](articles/7302a1dd-370b-a168-fe2f-cd5217bd7db1.md)
     - [UsedObjects Object](articles/b94ad3d1-411f-acf6-19bb-8e6c4a484748.md)
-      - [UsedObjects Members](articles/443e79ce-f08f-1beb-4254-fa0bb82121ed.md)
-      - [Properties](articles/2e7c7286-08f9-41d1-b265-3e02ecadc76f.md)
+      
+      
         - [Application Property](articles/7d788cd6-d0e1-1863-8e17-7900fdb5fed4.md)
         - [Count Property](articles/f40380a8-602c-3d4b-b288-c791a4b9c35b.md)
         - [Creator Property](articles/18526467-0a48-b372-bb34-6a810da25ce2.md)
         - [Item Property](articles/1a1c36df-ef2e-6f0f-119c-b3f9e09acbb1.md)
         - [Parent Property](articles/7b8dfc08-0103-a1fa-e295-314268cfa2ed.md)
     - [UserAccess Object](articles/44df1865-a5f9-e1b7-b724-41d375e9ea44.md)
-      - [UserAccess Members](articles/ec6aac85-4cf3-e387-f7a5-32c51fae4553.md)
-      - [Properties](articles/3db7cb24-61c4-45cf-9cd3-07ebf7ad2ef0.md)
+      
+      
         - [AllowEdit Property](articles/11fc172a-4757-bd14-e0ab-63c9048df981.md)
         - [Name Property](articles/8a0d694b-58b6-22d3-47e5-6ade061f94b0.md)
-      - [Methods](articles/bbf6cce3-8b52-4c2a-8eb3-0f9b9247ab20.md)
+      
         - [Delete Method](articles/4c064fb7-3d22-0471-71d2-403976eb8d5d.md)
     - [UserAccessList Object](articles/8b753ffc-e4d5-0824-e465-a3bdb9ed9202.md)
-      - [UserAccessList Members](articles/059758be-57b7-64dc-7820-7077d1010509.md)
-      - [Properties](articles/3f9b022e-b256-496e-b4e2-c7b7799f52fc.md)
+      
+      
         - [Count Property](articles/a162316a-de05-cb47-3afc-e4fbe3bcd661.md)
         - [Item Property](articles/03395dce-ae25-771e-688c-19f74fd70921.md)
-      - [Methods](articles/32b13b85-c3a4-4f3a-b47c-12992bd148a0.md)
+      
         - [Add Method](articles/dd3b3bc4-8618-b680-7409-c431a12374b0.md)
         - [DeleteAll Method](articles/c162c9cf-8257-e97a-ebe8-ab1d700924ca.md)
     - [Validation Object](articles/59d29d1e-92d3-373e-04d0-0d7fe97e1878.md)
-      - [Validation Members](articles/2f215790-17f9-5bc7-683c-0ec7a610f1dc.md)
-      - [Properties](articles/8af57426-9cf0-4209-bac5-a6166d20ccf3.md)
+      
+      
         - [AlertStyle Property](articles/de844f58-be45-c4a6-af49-67f669abb626.md)
         - [Application Property](articles/a332399a-3112-a3b8-905f-163437f6e195.md)
         - [Creator Property](articles/664abd2c-550e-bb5e-877a-db7dc43a5c52.md)
@@ -5157,13 +5157,13 @@
         - [ShowInput Property](articles/8760c403-c982-4cbd-6211-cb8b1c83bc91.md)
         - [Type Property](articles/77c7a82b-2bfc-3eff-9cef-4a0ea2ad7e13.md)
         - [Value Property](articles/8c1e3946-ea57-4aa7-5f1d-be9e6a2c8f77.md)
-      - [Methods](articles/cd22b194-c17f-4b27-a67f-0f06ab428da9.md)
+      
         - [Add Method](articles/e02c9d5e-dbb1-7d37-d112-0c60e7a7ff03.md)
         - [Delete Method](articles/547f318e-3eed-85aa-8445-c5d56673ff25.md)
         - [Modify Method](articles/4f6b435a-6ca6-8953-1bde-549b0bdc1774.md)
     - [ValueChange Object](articles/27335d52-7003-2268-b5d0-c2cd21588579.md)
-      - [ValueChange Members](articles/cd467d92-dee0-d049-0457-ec85ef74adf8.md)
-      - [Properties](articles/6e3bb4e9-7354-41c3-b311-66f1165c4cc4.md)
+      
+      
         - [AllocationMethod Property](articles/124ff77d-56f0-7877-a4ed-9c62e1d217d1.md)
         - [AllocationValue Property](articles/932cfa66-3664-5e23-85b7-769ac710669e.md)
         - [AllocationWeightExpression Property](articles/4a40be04-c978-bb74-5453-e42fa6b210e2.md)
@@ -5175,33 +5175,33 @@
         - [Tuple Property](articles/911c65e3-a15c-81b3-316b-155d2ff55ea4.md)
         - [Value Property](articles/928efc98-0420-e4b9-46fe-1b7124669b9a.md)
         - [VisibleInPivotTable Property](articles/48ed3289-7850-fdeb-fac6-dee97c7951c5.md)
-      - [Methods](articles/86852a54-5764-4c5c-9165-4eb946d2e9c8.md)
+      
         - [Delete Method](articles/69b0c9e0-42a2-c282-67d1-ca1b0299e08a.md)
     - [VPageBreak Object](articles/0b37bdc0-b7e2-2b3f-ba6c-853cbbb67837.md)
-      - [VPageBreak Members](articles/d6d29663-7922-a736-8964-730815c46e07.md)
-      - [Properties](articles/421ede28-ac79-4852-81af-caa81c0e39a5.md)
+      
+      
         - [Application Property](articles/86002135-5004-f82b-7e8c-6819e84bcbf4.md)
         - [Creator Property](articles/0ee8bcc1-890f-0d22-add5-f21622b64aac.md)
         - [Extent Property](articles/5ad74c42-16dd-86d4-723f-d8d316b70285.md)
         - [Location Property](articles/d039049f-5b08-d867-c874-f25ca0dbe70f.md)
         - [Parent Property](articles/be10da62-fda4-e5e5-ace5-e2f36ae79c30.md)
         - [Type Property](articles/978801d6-2b21-39a4-4002-b09dd14a03f4.md)
-      - [Methods](articles/816b6ffc-db62-4cfe-989d-72721ad295f9.md)
+      
         - [Delete Method](articles/3bc077aa-3024-2e66-73cb-d0a985c66ce2.md)
         - [DragOff Method](articles/93e169e8-e2d6-4cca-bd82-2d11fdc1ae4c.md)
     - [VPageBreaks Object](articles/ab8f288a-5235-76c9-7b27-81e542cdd141.md)
-      - [VPageBreaks Members](articles/0f15730f-da06-952a-6693-fa5dcdff2cc1.md)
-      - [Properties](articles/c2e32e55-db69-492e-bcad-68a48acdaa8c.md)
+      
+      
         - [Application Property](articles/b4f28f23-182a-00f5-b8d9-beeec89667b0.md)
         - [Count Property](articles/cc302751-24f8-d4d2-3c08-7671010a9598.md)
         - [Creator Property](articles/d8ff8785-8cf5-de2f-0425-8a605a72e6da.md)
         - [Item Property](articles/88e9cc81-409b-52ca-3d4e-54d3d28f186c.md)
         - [Parent Property](articles/894fe457-62e7-4561-387c-3ca5bd9f6a8c.md)
-      - [Methods](articles/725a338b-37b9-472a-8c98-48761d057e16.md)
+      
         - [Add Method](articles/3196719d-c423-675b-6465-8ac0e9a1c302.md)
     - [Walls Object](articles/9c6f0c5b-dbb8-7d71-44b7-29987e750cd3.md)
-      - [Walls Members](articles/1361366d-6831-3d5c-8b6e-474b1c9d3119.md)
-      - [Properties](articles/06f93bd6-fbb8-4ae8-88d5-905d03cdb66f.md)
+      
+      
         - [Application Property](articles/306ae3d9-2c61-50c6-92dd-2921911635ca.md)
         - [Creator Property](articles/f13cd852-4558-34fd-13c0-1751323459db.md)
         - [Format Property](articles/5ebe74b5-19b7-ac17-e24e-788a47dbb767.md)
@@ -5210,33 +5210,33 @@
         - [PictureType Property](articles/832115e2-1711-9952-d845-d56aa16808cd.md)
         - [PictureUnit Property](articles/70c962a0-c21f-2354-b2e0-de00c84566d9.md)
         - [Thickness Property](articles/b26340d2-e6fc-88cf-47af-b0e0250c492e.md)
-      - [Methods](articles/a964f73e-4034-41b1-80ec-c80556cd548f.md)
+      
         - [ClearFormats Method](articles/d301670d-788c-fee8-2835-cb53725ee0ea.md)
         - [Paste Method](articles/1c6a2320-6023-6840-0044-be65ebf1aa06.md)
         - [Select Method](articles/4851d3e4-b119-8c40-47f6-60d21766ffb1.md)
     - [Watch Object](articles/21b84863-55a8-e942-1941-bbe81ec3c7e2.md)
-      - [Watch Members](articles/c133b6d5-f147-458b-0d4e-12b6d015e64c.md)
-      - [Properties](articles/73b18342-ffcd-489b-8c10-ab58078b55ef.md)
+      
+      
         - [Application Property](articles/3089a5d1-92b4-3f75-3c27-409e0a8008c4.md)
         - [Creator Property](articles/32ceb2af-a620-3a2e-cc27-92165eb81d8f.md)
         - [Parent Property](articles/550dcfdc-9da8-c320-2af8-83eb92062284.md)
         - [Source Property](articles/d21d19fb-cef2-b1c9-b3b7-4393ccbcec8c.md)
-      - [Methods](articles/91b31105-99f5-4be9-9615-f8b5693192c0.md)
+      
         - [Delete Method](articles/ed9c57a3-c52c-9ebe-922f-db057d8eefe1.md)
     - [Watches Object](articles/de403bcc-b927-90f6-75d7-9c936c7f58f7.md)
-      - [Watches Members](articles/ef7ce63f-a6f5-9056-b2f8-4adce9e2c583.md)
-      - [Properties](articles/43d9b274-53dd-43f8-ac97-d484d5b7f8e6.md)
+      
+      
         - [Application Property](articles/754e649a-781b-5a1f-ddac-0c4777eea104.md)
         - [Count Property](articles/e7ec6288-1f24-d755-bbe4-3cf73ea7c308.md)
         - [Creator Property](articles/a4664412-bf77-1612-3da0-5ab6cc46c723.md)
         - [Item Property](articles/5e7a2ae0-6455-55b3-f527-47e53cf85576.md)
         - [Parent Property](articles/a3b33f25-1f10-db42-e5a8-7c3dbe121933.md)
-      - [Methods](articles/5a618a9e-6717-442c-859d-2cc4118fd5ba.md)
+      
         - [Add Method](articles/18553797-09b9-b99b-c3f3-50864ec2c55a.md)
         - [Delete Method](articles/a6072aa8-fa9a-759d-0ead-e5908b4ec82b.md)
     - [WebOptions Object](articles/d573637f-1891-4602-c961-091795e47356.md)
-      - [WebOptions Members](articles/4188ab11-5d84-aed8-2a2e-17881dcebe67.md)
-      - [Properties](articles/0d889b43-94f1-4f03-8eac-a3a540853dae.md)
+      
+      
         - [AllowPNG Property](articles/4fad6401-af54-ad7f-a46f-8110e8c00ad4.md)
         - [Application Property](articles/563c8930-837f-6caa-e2c8-02bb3b816f4a.md)
         - [Creator Property](articles/506df7ba-2e4f-69af-793c-96c5f2aa2f1c.md)
@@ -5252,11 +5252,11 @@
         - [ScreenSize Property](articles/aa1e98a6-57ca-f39d-157f-78156f3bad0d.md)
         - [TargetBrowser Property](articles/9b88562f-503a-a940-a169-94d6bb54d548.md)
         - [UseLongFileNames Property](articles/f30c4954-d691-3a36-1540-f280eea370d8.md)
-      - [Methods](articles/58b541c6-65d3-4762-8996-a361c1cf316a.md)
+      
         - [UseDefaultFolderSuffix Method](articles/dbaf5fa4-449a-b549-d2a0-82f65497f6c0.md)
     - [Window Object](articles/8591b1ad-76f8-14e2-9120-406b65093f5a.md)
-      - [Window Members](articles/f11db427-24a4-041c-2fd5-03ce73ae6c16.md)
-      - [Properties](articles/942f6b92-abef-4552-938c-f5b8513b5c9c.md)
+      
+      
         - [ActiveCell Property](articles/07ae9613-94b4-b3b9-c645-8acdabfebe86.md)
         - [ActiveChart Property](articles/505902dd-63c3-cd11-c3cc-a82680c11768.md)
         - [ActivePane Property](articles/f518802d-8624-6e61-d76a-d318149e0142.md)
@@ -5311,7 +5311,7 @@
         - [WindowNumber Property](articles/42dc6fa2-8c10-41d8-2f74-95401e154094.md)
         - [WindowState Property](articles/be51b777-1370-03a2-1e3b-a4a89205f6ca.md)
         - [Zoom Property](articles/82e6ac47-7054-52a9-383e-80be278dab0f.md)
-      - [Methods](articles/e39225c3-16d6-4045-982e-4f546ad9465b.md)
+      
         - [Activate Method](articles/7e0fdc4e-6399-62a8-f706-1653eb9217a2.md)
         - [ActivateNext Method](articles/eeef1ef2-b1c5-6618-1f66-827bc64e2033.md)
         - [ActivatePrevious Method](articles/5f244c28-ec32-7f28-cf0a-075f8a2d014d.md)
@@ -5327,22 +5327,22 @@
         - [ScrollWorkbookTabs Method](articles/5c7c4d74-f125-d67e-2196-14a740afe947.md)
         - [SmallScroll Method](articles/dcf1fdeb-36ab-06ed-a9fc-5b2bbaecc457.md)
     - [Windows Object](articles/d5d0e3c9-9132-469c-d033-d29397dacd77.md)
-      - [Windows Members](articles/849cac73-05bf-d9ec-9474-340ae2052a3d.md)
-      - [Properties](articles/f272d14a-175f-414e-8b49-821237f99493.md)
+      
+      
         - [Application Property](articles/9720f646-5f98-7e0b-3b59-b93a2aecf7a3.md)
         - [Count Property](articles/f1b4d304-8431-41a5-9e8e-ca2d4da44625.md)
         - [Creator Property](articles/f27724b1-4ce1-1b90-9aa3-704e491575f7.md)
         - [Item Property](articles/75e5dc32-9f05-360d-0d13-c2747ee60e77.md)
         - [Parent Property](articles/822dff90-df85-195c-52dc-55f01c51e5ae.md)
         - [SyncScrollingSideBySide Property](articles/1cbc5a51-c4a3-dd30-42d1-e66c1e95c33a.md)
-      - [Methods](articles/5f2ba681-ed66-45cb-b406-3de56c52079e.md)
+      
         - [Arrange Method](articles/6b5088ea-6a75-b0df-941f-2032c9cc34a7.md)
         - [BreakSideBySide Method](articles/be32b6a4-5541-8c4b-ef24-cf34c9035f1c.md)
         - [CompareSideBySideWith Method](articles/eb8dc63d-6071-40df-0591-1721a547c2e1.md)
         - [ResetPositionsSideBySide Method](articles/1fce834c-7a64-7f40-3037-7d0f78ab4936.md)
     - [Workbook Object](articles/8c00aa60-c974-eed3-0812-3c9625eb0d4c.md)
-      - [Workbook Members](articles/dce102a3-25de-3ff4-2ce5-bc56e08baca7.md)
-      - [Properties](articles/6bbb7ce8-a8dd-459f-b440-690a9ffe30e8.md)
+      
+      
         - [AccuracyVersion Property](articles/bc81782c-662c-87ec-8381-d06e77674d0c.md)
         - [ActiveChart Property](articles/81e18252-b1fe-2487-535e-6e24c80bef24.md)
         - [ActiveSheet Property](articles/fb5578c3-64a7-edb7-4004-e608739d4c1e.md)
@@ -5458,7 +5458,7 @@
         - [WriteReservedBy Property](articles/f053c197-3af3-9ab7-bee1-f72ee311a5b8.md)
         - [XmlMaps Property](articles/c7893167-bfa1-e1df-58f3-782b80322fad.md)
         - [XmlNamespaces Property](articles/b93aba02-f831-6321-1c0d-2a30d417e57f.md)
-      - [Methods](articles/ab4fbdf4-09a3-4657-95ff-76fc1115b6d3.md)
+      
         - [AcceptAllChanges Method](articles/8d8572a9-1231-c8ef-0707-72b8b5109066.md)
         - [Activate Method](articles/628e06b3-ca3f-28cb-e0fd-e696842f69f5.md)
         - [AddToFavorites Method](articles/14e1cd5a-41be-fc9a-61fa-df87698110e8.md)
@@ -5522,7 +5522,7 @@
         - [WebPagePreview Method](articles/2c88f15e-5cd3-82da-f779-55b63959a2b0.md)
         - [XmlImport Method](articles/97964c82-1fbe-7060-0a90-23c190e0b398.md)
         - [XmlImportXml Method](articles/b0edbe49-f578-ead0-8371-0196f5c515d4.md)
-      - [Events](articles/7ef6ac62-4fa3-4efa-93ab-b8381031cc6e.md)
+      
         - [Activate Event](articles/74bb6d8c-aec8-7bb6-5c30-9a20f9a7afe8.md)
         - [AddinInstall Event](articles/671117b2-590e-9d6f-29ae-5f0bf30d4e99.md)
         - [AddinUninstall Event](articles/e35ba67b-3e04-d950-2f8b-141e478ddb67.md)
@@ -5564,8 +5564,8 @@
         - [WindowDeactivate Event](articles/d84f0819-00df-585f-ea31-e4ab5a72950e.md)
         - [WindowResize Event](articles/6e473482-fe16-03a2-7a27-b0cd9535c3e6.md)
     - [WorkbookConnection Object](articles/5974dd57-7671-cd55-3f8f-6a76fa938317.md)
-      - [WorkbookConnection Members](articles/1c692856-1ddb-1d7d-4463-143cba3dfbe8.md)
-      - [Properties](articles/cb4fb01e-b041-4f77-9c8b-4e6fe30e72ab.md)
+      
+      
         - [Application Property](articles/ed95b12d-1ef5-c0d4-b409-79ffd06a8a0f.md)
         - [Creator Property](articles/b8862979-d128-cd86-31ef-19515741792c.md)
         - [DataFeedConnection Property](articles/0286c210-c035-8ff7-7b6b-cead08505f81.md)
@@ -5582,29 +5582,29 @@
         - [TextConnection Property](articles/aaad8c33-4c0e-7565-fe7e-7500bced0004.md)
         - [Type Property](articles/2ebc05b5-d1d6-9afa-004a-e6fdad41eac3.md)
         - [WorksheetDataConnection Property](articles/22fc991e-8b93-5a32-1063-3ed4b690bfea.md)
-      - [Methods](articles/894d91b8-20ab-4ab3-9ac0-e2d3a854e714.md)
+      
         - [Delete Method](articles/d1312b91-04d7-2695-0c20-c18a31776fb0.md)
         - [Refresh Method](articles/5e6f045f-6625-857c-eb55-ac52f70e8fb9.md)
     - [WorkbookQuery Object](articles/2a27186f-5e02-f026-bee2-b4c7aa852711.md)
-      - [WorkbookQuery Members](articles/3c698446-813c-edc2-f8c9-66f5dfc2d1c3.md)
-      - [Properties](articles/2ab6e8a9-24cc-4212-e095-af61413967e9.md)
+      
+      
         - [Application Property](articles/b025538e-ac17-60c9-337e-0b6ce4a7943f.md)
         - [Creator Property](articles/82e257ca-9e3f-0acc-66a7-84f7e7e07ff8.md)
         - [Description Property](articles/1175e1df-0788-99aa-2bb3-9dfa545125f3.md)
         - [Formula Property](articles/62c5fcfa-8359-5fab-1a5d-fdbb2793bf53.md)
         - [Name Property](articles/afc6c679-8dda-08f9-c896-775b395b5e92.md)
         - [Parent Property](articles/246acb77-2a0b-b988-48ba-a18f0d6e0361.md)
-      - [Methods](articles/82787769-3315-9856-4c89-75877f1a2263.md)
+      
         - [Delete Method](articles/05f42f34-1814-870f-081a-c0538b438aec.md)
     - [Workbooks Object](articles/f768da57-013a-e652-0f5d-60b03aa4240a.md)
-      - [Workbooks Members](articles/77e7bb0b-2491-d9ca-56f0-4cc77d146913.md)
-      - [Properties](articles/4862df3c-9f79-4491-9578-dd47a00d6006.md)
+      
+      
         - [Application Property](articles/20988e9c-58e6-4e08-ba67-e3611eb111b2.md)
         - [Count Property](articles/71fe409c-3cee-3f05-9669-baf89d32b2ac.md)
         - [Creator Property](articles/26f90d17-3dc1-3c35-3ddb-ddcdf4e99998.md)
         - [Item Property](articles/2f01412d-8ba0-6911-81d3-e464a44354b5.md)
         - [Parent Property](articles/a19b202a-1583-dcc3-ac7e-da457cca558c.md)
-      - [Methods](articles/f0518d4b-4595-4f73-a62f-74f8b81a6f16.md)
+      
         - [Add Method](articles/ea9f2a2c-3cad-0c35-37b5-82da2f24b876.md)
         - [CanCheckOut Method](articles/06259bbd-2e55-3fbe-d08c-094985cb9fff.md)
         - [CheckOut Method](articles/11b9eb2a-8c9a-6e61-63e2-554030243388.md)
@@ -5614,8 +5614,8 @@
         - [OpenText Method](articles/a0771773-d0e2-13a0-e62b-51143e3f6bb1.md)
         - [OpenXML Method](articles/c16a7842-19e9-6731-146e-038322c248ba.md)
     - [Worksheet Object](articles/182b705e-854a-81cc-a4b0-59b942de55ae.md)
-      - [Worksheet Members](articles/f8c1afea-1a1c-f5e4-37e3-52c434c8c157.md)
-      - [Properties](articles/e7914ee3-c864-4ef3-9ab1-c271c5c2741f.md)
+      
+      
         - [Application Property](articles/65ca3e7e-2b8f-5882-baaa-17b7658bbf8b.md)
         - [AutoFilter Property](articles/766f8501-dae7-32a7-9fae-70a87d0a8eba.md)
         - [AutoFilterMode Property](articles/63f33ea5-c9a5-0096-0191-1590cda9d0e1.md)
@@ -5671,7 +5671,7 @@
         - [UsedRange Property](articles/f004b93c-d785-de19-1fb4-bbe0b2e9b6cd.md)
         - [Visible Property](articles/48860564-6079-932e-2cae-0802235be61e.md)
         - [VPageBreaks Property](articles/2a8d5c77-a609-4995-7216-de71295eda9a.md)
-      - [Methods](articles/dd35b900-1966-4210-9efb-16d72ccce28b.md)
+      
         - [Activate Method](articles/b198dc36-99d0-42db-6cbb-7f68396fd2f5.md)
         - [Calculate Method](articles/7e807ae0-cd97-d95b-f4c4-af1e5674943e.md)
         - [ChartObjects Method](articles/234cab0e-a8a2-2174-8881-39b5fb37c743.md)
@@ -5702,7 +5702,7 @@
         - [Unprotect Method](articles/f955872b-d6bf-5c94-d956-0e84fc7bb9aa.md)
         - [XmlDataQuery Method](articles/de728702-962f-a047-a58d-3e2fa9c86acd.md)
         - [XmlMapQuery Method](articles/ac1d20f4-92ad-110e-00be-0fe4e098cb35.md)
-      - [Events](articles/1aadc670-75b9-44a6-a872-8d45e32f740b.md)
+      
         - [Activate Event](articles/4fac262c-ea1a-1d2f-bd02-0537c843198c.md)
         - [BeforeDelete Event](articles/19ea840c-8156-4d9b-8e82-00a687dbc2dc.md)
         - [BeforeDoubleClick Event](articles/36e23bc8-0b49-2e22-bfb0-cfff24a82fda.md)
@@ -5721,8 +5721,8 @@
         - [SelectionChange Event](articles/183e2ca7-06b2-f689-1f77-182dbfbf1e1d.md)
         - [TableUpdate Event](articles/69610de6-6884-d5f5-449d-ec1d766d530d.md)
     - [WorksheetDataConnection Object](articles/05b67daa-ed68-f0f9-9228-86d6e53ef6e3.md)
-      - [WorksheetDataConnection Members](articles/a86803fe-2598-3126-aadc-704c7af067e7.md)
-      - [Properties](articles/c8c04091-5b0d-c9e0-3808-dcfea4ac5dc7.md)
+      
+      
         - [Application Property](articles/79545289-efa9-ce0b-3268-4f73c410fb55.md)
         - [CommandText Property](articles/68bce4d3-8459-8d48-41ab-f3c32e4451d2.md)
         - [CommandType Property](articles/a568d9e8-bfb7-6874-f7df-b007cf1e68f4.md)
@@ -5730,12 +5730,12 @@
         - [Creator Property](articles/e5965baf-48e9-be89-5cf6-76c94736d301.md)
         - [Parent Property](articles/927da93a-e63a-7cda-24c2-c34a39eaffcb.md)
     - [WorksheetFunction Object](articles/7b1d5639-363d-632c-2cf0-2232562646b6.md)
-      - [WorksheetFunction Members](articles/6811ca87-4b53-0bff-88c9-30bf7497879a.md)
-      - [Properties](articles/aedcb7bb-1f1e-44f0-827f-8d5452006cab.md)
+      
+      
         - [Application Property](articles/0cf8b842-cc2b-13b3-e9b7-ce0921566ca9.md)
         - [Creator Property](articles/142d1b93-b4cf-2d69-c2c3-48072e31032b.md)
         - [Parent Property](articles/89861cd7-4261-61b7-697e-79f3cbf5dc29.md)
-      - [Methods](articles/7e4d1cd7-ce0c-4ee7-a495-69faf78e4d72.md)
+      
         - [AccrInt Method](articles/17444208-5141-3ffe-1802-b19be0defc52.md)
         - [AccrIntM Method](articles/9cb3e757-26c0-6b3e-91a2-e6a2de30c168.md)
         - [Acos Method](articles/76954fdf-5aa0-de8d-1f7c-4184ebc472f4.md)
@@ -6124,8 +6124,8 @@
         - [Z_Test Method](articles/86c2af95-965f-f249-7775-65ff5c41785d.md)
         - [ZTest Method](articles/24d85668-2502-14b5-73b7-24a5dae7c332.md)
     - [Worksheets Object](articles/5ec467a6-97e3-98d7-0b14-845d20c15910.md)
-      - [Worksheets Members](articles/3e43b0e8-d34b-2e55-7a88-36bfe99af55e.md)
-      - [Properties](articles/05926f98-d0d4-4744-af18-de2feca18396.md)
+      
+      
         - [Application Property](articles/dcedaaf2-280e-9661-9576-0bf90df8d9a1.md)
         - [Count Property](articles/8450e2d0-fd24-aa79-fa18-9a7ff2597420.md)
         - [Creator Property](articles/5f6d4cec-b867-1165-2deb-a793b78d32e3.md)
@@ -6134,7 +6134,7 @@
         - [Parent Property](articles/fa895cd8-2c6c-cad9-c141-0ca9b5db785e.md)
         - [Visible Property](articles/914518bd-4383-fc14-8ddf-6279dd613e91.md)
         - [VPageBreaks Property](articles/09c097f5-6344-ea88-2ce4-a582f84f2fe5.md)
-      - [Methods](articles/95506ec6-2965-456d-9859-0a4af144ae47.md)
+      
         - [Add Method](articles/c771d87a-64e1-e292-9db4-54386a69301e.md)
         - [Add2 Method](articles/4ae91335-f714-45e4-9677-6dfece31342e.md)
         - [Copy Method](articles/073f96c3-80c1-502d-a630-8cc5c2bfef9b.md)
@@ -6145,8 +6145,8 @@
         - [PrintPreview Method](articles/cf0206e2-5016-2472-be89-c45e9c7a38f0.md)
         - [Select Method](articles/f6c6c3df-d902-2a88-740b-00d2f5757fc6.md)
     - [WorksheetView Object](articles/9af65167-f9de-5c4f-6005-8debf96e54de.md)
-      - [WorksheetView Members](articles/9f5c80ec-4f28-7e6e-ad01-fcfd7a33414c.md)
-      - [Properties](articles/3ea4d0ce-1bb9-4989-8b52-5c6f8bb02cc5.md)
+      
+      
         - [Application Property](articles/6cfdce2e-9a70-c91b-5528-134963efbd36.md)
         - [Creator Property](articles/474ee0e7-1fe2-200c-c49d-fd9418138a40.md)
         - [DisplayFormulas Property](articles/91973484-79ad-dc07-ed9f-65d20d4e82ba.md)
@@ -6157,19 +6157,19 @@
         - [Parent Property](articles/fc7f2258-0b36-c18f-e324-1eaac5b99494.md)
         - [Sheet Property](articles/78fc5918-fcd8-d98a-7cc1-df8734127900.md)
     - [XmlDataBinding Object](articles/45839d7d-7e9b-8fe5-81f8-ee13534d3664.md)
-      - [XmlDataBinding Members](articles/ed381777-636d-df54-d2e3-9a63bebc0c6b.md)
-      - [Properties](articles/c80b4ef1-86ce-4249-976e-aabb5503e1df.md)
+      
+      
         - [Application Property](articles/7cde1f38-aeb5-049a-361f-df1feb6dbc35.md)
         - [Creator Property](articles/1d03c514-abed-3987-0f5a-652f5befe972.md)
         - [Parent Property](articles/f42c8efb-8566-7e58-7bb9-c6501dcccfd5.md)
         - [SourceUrl Property](articles/0c6f07c8-43db-eca4-ada2-5919f1e3160e.md)
-      - [Methods](articles/ab17071c-827b-4eb4-a321-4be33a5e33a1.md)
+      
         - [ClearSettings Method](articles/3dbfa0df-4629-5b4b-2938-dafe79f9dedc.md)
         - [LoadSettings Method](articles/218026ec-829b-048d-2429-6983ecfc26fd.md)
         - [Refresh Method](articles/b396a071-87b1-2a89-9176-81e6dbc7efca.md)
     - [XmlMap Object](articles/39b0823f-0068-d8df-e4e1-ca62b55d58f5.md)
-      - [XmlMap Members](articles/b6654149-ac1b-d570-0722-b49bf58f2a53.md)
-      - [Properties](articles/421f12ed-b650-401f-9b12-99ce30c6d183.md)
+      
+      
         - [AdjustColumnWidth Property](articles/d302f23f-3ef4-ce22-916b-4772ea686cbc.md)
         - [AppendOnImport Property](articles/b00eeaeb-1750-e5a9-85b5-7323ea766ead.md)
         - [Application Property](articles/b0601b57-e301-17b9-2574-34122fed4b8b.md)
@@ -6186,44 +6186,44 @@
         - [Schemas Property](articles/9027625d-3eb2-216d-5b50-a4bb84c19a8a.md)
         - [ShowImportExportValidationErrors Property](articles/0a0ece1c-f069-714d-79fa-a6ab564470fc.md)
         - [WorkbookConnection Property](articles/14e3de43-f65d-bd27-f0c4-6be40fef589f.md)
-      - [Methods](articles/b5dc980a-1ac9-49ef-aa1c-dff519809aa3.md)
+      
         - [Delete Method](articles/8acde534-c465-029a-635a-38f63c5f4013.md)
         - [Export Method](articles/174f902f-7244-866d-b16c-6a6bcf0ae58b.md)
         - [ExportXml Method](articles/ffb4e656-157e-e5f3-1ddd-314172ba5839.md)
         - [Import Method](articles/60265bbd-4994-8fba-7072-ec5dada885d3.md)
         - [ImportXml Method](articles/07db07d3-cd0f-08fe-3463-04ca72d084d1.md)
     - [XmlMaps Object](articles/0cb16ec8-1120-0da3-508b-c1c9b0aa1701.md)
-      - [XmlMaps Members](articles/10b087e3-e654-2c1e-569e-c7573e0456c2.md)
-      - [Properties](articles/35429949-5cf6-48c0-9322-b93bb1937146.md)
+      
+      
         - [Application Property](articles/50919081-1345-78ef-fae6-66814db6aee6.md)
         - [Count Property](articles/23b80b65-79f3-798c-51db-2442f4a20304.md)
         - [Creator Property](articles/f0973a6d-dc2a-11ae-3c52-d73807098d62.md)
         - [Item Property](articles/21eca10c-0c03-4fc5-5f94-2da66f28f774.md)
         - [Parent Property](articles/177f48d2-5e30-802e-6c5f-8c7ba16b4b74.md)
-      - [Methods](articles/6aa17ffa-0141-4a01-9bc4-5a2cfae08ad5.md)
+      
         - [Add Method](articles/0197c932-73bf-024e-35b1-aba984175aee.md)
     - [XmlNamespace Object](articles/4c39c739-b848-5fec-c354-9fa56daf1d5d.md)
-      - [XmlNamespace Members](articles/ffd8692c-b3ac-1842-166e-fa61da41d5e0.md)
-      - [Properties](articles/d2858b5d-25fb-4db4-b8e7-78cc8721c685.md)
+      
+      
         - [Application Property](articles/5afe72b2-4963-abf2-d43a-4f1b741e6cef.md)
         - [Creator Property](articles/ceed703f-148b-607f-f6cf-13484aeff5da.md)
         - [Parent Property](articles/0bdc10f7-198e-c361-e76f-1f40d650dc44.md)
         - [Prefix Property](articles/d9242695-7db0-5d8a-1692-ca53597168a2.md)
         - [Uri Property](articles/f057b379-d787-e1b4-6afb-26f511e77d11.md)
     - [XmlNamespaces Object](articles/430f6773-2be5-8312-cd67-afb703ab0782.md)
-      - [XmlNamespaces Members](articles/56c69891-4689-b0a1-4e54-606a9bc2772e.md)
-      - [Properties](articles/fe9ee5ef-a424-4600-ad20-81b37f10d657.md)
+      
+      
         - [Application Property](articles/c885b4c1-429d-8318-5898-8f1a881163ba.md)
         - [Count Property](articles/d9ca7fdd-08cb-e6eb-bd4b-c56b6f6b803c.md)
         - [Creator Property](articles/3ce50d2b-2910-d6c7-96ea-fd664b3d5acc.md)
         - [Item Property](articles/6ce64bef-6e20-cb3e-3ca4-e63f946db4cc.md)
         - [Parent Property](articles/5dba15aa-6fc9-d8dc-f378-d5f43772866c.md)
         - [Value Property](articles/68eeae19-06d9-27c4-e256-e383999c3d9c.md)
-      - [Methods](articles/1ca10744-0484-4984-95a7-67910eb28546.md)
+      
         - [InstallManifest Method](articles/e462d627-d4d1-b3e9-4d6c-ae7ed91665ad.md)
     - [XmlSchema Object](articles/61a9b9be-fe04-fe6a-51c7-14b6c7232dca.md)
-      - [XmlSchema Members](articles/884318da-1fd2-6487-2c04-4d87942e08b1.md)
-      - [Properties](articles/b3590193-11fc-4b73-8137-d64c80a00091.md)
+      
+      
         - [Application Property](articles/c9a4dd13-acb4-b841-3099-70872547156e.md)
         - [Creator Property](articles/d255b385-bc2f-84ca-68f3-79fe2c250651.md)
         - [Name Property](articles/8cd91dd5-f8d0-4972-cc35-f3ea4171acd3.md)
@@ -6231,23 +6231,23 @@
         - [Parent Property](articles/7f926fcc-ac2e-df8f-40e5-98ece1d7099c.md)
         - [XML Property](articles/1291eecc-71a8-bcfd-44d2-5f4d92dc8b77.md)
     - [XmlSchemas Object](articles/1e6a4371-7163-572d-b435-7dc9a2865338.md)
-      - [XmlSchemas Members](articles/b0b67456-5e97-dba8-2bbe-5cb91ef2cfec.md)
-      - [Properties](articles/c3046125-a322-43ef-83d5-b5283eb142ca.md)
+      
+      
         - [Application Property](articles/f9df23c5-8da5-2878-8580-8f692e672fbb.md)
         - [Count Property](articles/c43c1b5d-ed70-8437-e232-03850c1a3699.md)
         - [Creator Property](articles/c9000e23-0426-9571-8104-6b4542f661fa.md)
         - [Item Property](articles/45949593-41f6-42b5-21c0-cfb9e7c3dc49.md)
         - [Parent Property](articles/29cc6805-f591-10e9-6a38-fd0a888a09cd.md)
     - [XPath Object](articles/e13f2b3e-cef2-4e3c-f942-5347cf722e2d.md)
-      - [XPath Members](articles/2b598d87-ea67-b3fa-fbae-bb8fd1e22274.md)
-      - [Properties](articles/dcafcc6b-7109-466a-8c7b-1f12396dc7b1.md)
+      
+      
         - [Application Property](articles/f22f8f93-6bcf-2691-6848-674ca301cb96.md)
         - [Creator Property](articles/845511a6-088b-0bba-a17c-3adf9baf65d8.md)
         - [Map Property](articles/4750694e-24b3-4a4b-3e43-d5838821d459.md)
         - [Parent Property](articles/6dae847f-a75e-4199-4f42-c37a89e49db1.md)
         - [Repeating Property](articles/9ae1be58-f60a-bf89-3f45-799014f59e8e.md)
         - [Value Property](articles/66dd0dc1-2dd7-5e08-5ffc-101b6621bc74.md)
-      - [Methods](articles/812bfc45-445f-4279-b28c-8652bdd7d6f2.md)
+      
         - [Clear Method](articles/8d9e0c70-c77e-257f-6ac7-7a8577282ab1.md)
         - [SetValue Method](articles/9d7e9eea-0962-cff8-6909-b31d349eb78a.md)
     - [Enumerations](articles/c4e092c8-b843-44e1-bd87-419e545d1d10.md)

@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Grou
 
 
 [GroupShapes Collection Object](de29d571-476b-fa8b-619e-f7d0181d9756.md)
-#### Other resources
-
-
-[GroupShapes Object Members](27425169-5a65-cdce-edf5-1ae0479c2557.md)

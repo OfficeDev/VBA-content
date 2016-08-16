@@ -18,7 +18,3 @@ Returns an  **[Application](d1cf6f8f-4e88-bf01-93b4-90a83f79cb44.md)** object th
 
 
 [AutoCaption Object](895b5181-d36f-7f63-572a-c2d37c878e17.md)
-#### Other resources
-
-
-[AutoCaption Object Members](48332cba-c2a5-a641-dc08-4cc2774ee5e6.md)

@@ -32,4 +32,4 @@ For more information, see [Displaying built-in Word dialog boxes](http://msdn.mi
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[Dialogs Object Members](c1ab2260-007a-d276-787b-1cc91c35f93d.md)
+

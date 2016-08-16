@@ -58,7 +58,3 @@ End With
 
 
 [RulerLevel Object](601fa2ef-8d8d-1e1d-e349-034d3c2842a5.md)
-#### Other resources
-
-
-[RulerLevel Object Members](150edc15-d00a-d119-3667-ad3742450f61.md)

@@ -20,7 +20,3 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 
 [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
-#### Other resources
-
-
-[OptionButton Object Members](5173d5c5-b898-97ee-a005-7f5a4d77efa1.md)

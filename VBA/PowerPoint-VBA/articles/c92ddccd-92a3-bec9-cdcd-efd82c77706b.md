@@ -62,7 +62,3 @@ End With
 
 
 [PowerPoint Object Model Reference](00acd64a-5896-0459-39af-98df2849849e.md)
-#### Other resources
-
-
-[LegendEntry Object Members](408ad572-e777-f74a-4ab9-d70b43901c7e.md)

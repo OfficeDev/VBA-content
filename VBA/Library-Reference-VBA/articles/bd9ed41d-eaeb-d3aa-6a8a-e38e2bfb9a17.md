@@ -42,7 +42,3 @@ This method differs from the [Insert](98aec7ed-44f9-c9b4-7a1a-e5b9a1d26d95.md) m
 
 
 [GradientStops Object](365949f0-29b3-76e1-1163-2ac870f68f7a.md)
-#### Other resources
-
-
-[GradientStops Object Members](9cab316d-3302-a119-b02b-54eea372acee.md)

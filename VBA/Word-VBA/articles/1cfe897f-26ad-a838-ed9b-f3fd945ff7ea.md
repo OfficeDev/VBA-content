@@ -36,4 +36,4 @@ End With
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[Trendline Object Members](02d1ce95-ff74-859a-70b2-cd914c334083.md)
+

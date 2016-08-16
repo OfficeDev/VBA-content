@@ -29,7 +29,3 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 
 [OlkInfoBar Object](1aec19db-d28b-ef9b-3227-45aa4a296de6.md)
-#### Other resources
-
-
-[OlkInfoBar Object Members](e7675cde-b1f0-153a-f4a9-b2d3bf5a0aff.md)

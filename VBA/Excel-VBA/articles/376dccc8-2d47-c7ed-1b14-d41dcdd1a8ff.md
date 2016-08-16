@@ -25,7 +25,3 @@ If the threshold type is a formula, you can set the formula as a  **String** . T
 
 
 [ConditionValue Object](a39335db-4e0a-66aa-393b-3aa7e5268c00.md)
-#### Other resources
-
-
-[ConditionValue Object Members](59e72c1f-3e56-294b-408a-de7aba0ed331.md)

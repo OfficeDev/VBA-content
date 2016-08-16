@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Buil
 
 
 [BuildingBlocks Collection](be5bba4a-b06c-0074-20bd-bbeb40e03d1c.md)
-#### Other resources
-
-
-[BuildingBlocks Object Members](865639de-1856-d542-fe6b-a09425c050f0.md)

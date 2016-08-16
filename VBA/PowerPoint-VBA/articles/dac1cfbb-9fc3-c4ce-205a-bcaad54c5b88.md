@@ -18,7 +18,3 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 
 
 [ChartArea Object](2c8bd84e-18e7-6417-de4d-d643064e20f5.md)
-#### Other resources
-
-
-[ChartArea Object Members](ee85bf75-758e-af6f-93ec-fb2e357d863d.md)

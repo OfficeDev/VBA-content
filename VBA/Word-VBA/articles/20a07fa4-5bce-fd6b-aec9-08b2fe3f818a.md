@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [HeadersFooters Collection Object](41dbbaa7-f139-3d3c-54d4-03a57ab8417a.md)
-#### Other resources
-
-
-[HeadersFooters Object Members](6cf7f768-d356-7ff4-089c-7f3f810d00a8.md)

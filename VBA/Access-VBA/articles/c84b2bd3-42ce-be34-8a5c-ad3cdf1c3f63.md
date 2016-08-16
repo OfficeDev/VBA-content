@@ -98,7 +98,3 @@ End Function
 
 
 [References Collection](ac020382-4ece-f138-d1b9-d05b0fe0f523.md)
-#### Other resources
-
-
-[References Object Members](de4ddd41-b41c-6a80-a29c-c2b32d54709a.md)

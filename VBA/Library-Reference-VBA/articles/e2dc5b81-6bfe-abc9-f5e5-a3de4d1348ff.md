@@ -23,7 +23,3 @@ Long
 
 
 [CustomXMLNode Object](e90213f5-6d62-52d8-3043-2399eaa5aaba.md)
-#### Other resources
-
-
-[CustomXMLNode Object Members](fbf957c8-40b8-2f75-fcc8-db0ed6e18438.md)

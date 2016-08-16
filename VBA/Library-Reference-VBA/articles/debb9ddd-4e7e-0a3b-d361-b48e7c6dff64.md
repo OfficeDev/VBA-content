@@ -30,7 +30,3 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 
 
 [IMsoContactCard Object](337320dd-a60a-fdc5-76a1-c40518171bd6.md)
-#### Other resources
-
-
-[IMsoContactCard Object Members](03c92ec4-11c8-8354-377f-d60ebdb5d2f3.md)

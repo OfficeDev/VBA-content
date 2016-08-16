@@ -19,7 +19,3 @@ Returns a  **Long** that represents the number of repeating section items in the
 ## See also
 
 
-#### Other resources
-
-
-[RepeatingSectionItemColl Object Members](b8a5d7cd-9d30-3434-979d-dcc939d77cc1.md)

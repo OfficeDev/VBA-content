@@ -53,5 +53,5 @@ myItem.Display
 #### Other resources
 
 
-[Application Object Members](3519c89c-2353-85ee-7ddc-62e5dd85a8e7.md)
+
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

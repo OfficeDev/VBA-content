@@ -30,7 +30,3 @@ If all items are deleted from the conversation after the  **[Conversation](2705d
 
 
 [Conversation Object](2705d38a-ebc0-e5a7-208b-ffe1f5446b1b.md)
-#### Other resources
-
-
-[Conversation Object Members](09ff1e8e-7c5a-0b1e-e8e2-e259f66f71c8.md)

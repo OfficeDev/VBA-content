@@ -31,7 +31,3 @@ This feature is only available in the Open XML Format SDK.
 
 
 [IConverterPreferences Object](c45e5b48-eced-32e6-1887-ff5c100ae1cc.md)
-#### Other resources
-
-
-[IConverterPreferences Object Members](4c3f024c-25c5-aa02-1bff-7ec9e8c2d2b3.md)

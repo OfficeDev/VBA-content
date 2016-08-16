@@ -22,5 +22,5 @@
 #### Other resources
 
 
-[ModelMeasureName Object Members](64d9060d-6066-b06b-8cc5-f94efe591185.md)
+
 [ModelMeasureName Object](91151066-7217-d589-63c7-a21431671397.md)

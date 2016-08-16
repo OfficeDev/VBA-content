@@ -25,7 +25,3 @@ If a valid language code is specified, the object will only be available in the 
 
 
 [View Object](41c8d149-9912-1685-4c8b-3c849cc6f1ed.md)
-#### Other resources
-
-
-[View Object Members](ed3196c6-e779-64f7-db1d-e2fd22bb4688.md)

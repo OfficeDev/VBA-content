@@ -23,7 +23,3 @@ Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](ec03a345-8c06
 
 
 [NavigationFolder Object](c8d7aabb-58ba-df5e-ccdc-06f73db7726c.md)
-#### Other resources
-
-
-[NavigationFolder Object Members](1ec2e16d-c7ca-86b1-9283-839a2b9aca05.md)

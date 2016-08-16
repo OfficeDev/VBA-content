@@ -26,7 +26,3 @@ Sends a verb to the server of the specified OLE object.
 
 
 [OLEFormat Object](96ee06d8-e922-c48c-4406-bb2f5cbaa02a.md)
-#### Other resources
-
-
-[OLEFormat Object Members](18f0bbed-752a-5e01-51f1-c17435b3adea.md)

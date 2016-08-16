@@ -18,7 +18,3 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PickerResults Object](c0e2e097-021b-7ed4-2f94-8204c849bc17.md)
-#### Other resources
-
-
-[PickerResults Object Members](6b6ec287-4d88-cc7d-7cfa-f641b1481bbe.md)

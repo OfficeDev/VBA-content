@@ -18,7 +18,3 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 
 [Scenarios Object](90d6ff4b-f329-a04c-040e-a39bb501a58b.md)
-#### Other resources
-
-
-[Scenarios Object Members](bd1cf3ad-3916-286e-9a22-ca2c92255c30.md)

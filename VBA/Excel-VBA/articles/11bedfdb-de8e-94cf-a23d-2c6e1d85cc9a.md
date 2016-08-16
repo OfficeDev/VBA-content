@@ -62,7 +62,3 @@ ActiveChart.SeriesCollection.Add _
 
 
 [SeriesCollection Object](93aa1f0b-4939-8c60-a444-2f791e8ce144.md)
-#### Other resources
-
-
-[SeriesCollection Object Members](72d02a33-0b2b-1adb-9629-3eb322bed271.md)

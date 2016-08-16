@@ -25,7 +25,3 @@ The  **Collection** property is similar to the **Parent** property.
 
 
 [Reference Object](87853230-294e-7ab8-4aae-78b094b5e584.md)
-#### Other resources
-
-
-[Reference Object Members](674e5168-6bb1-5316-2e99-b6175a7833be.md)

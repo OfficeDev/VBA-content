@@ -23,7 +23,3 @@ This property is parsed from the  **[CompanyName](076cd6f7-7faa-ab1c-254c-3307c4
 
 
 [ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
-#### Other resources
-
-
-[ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)

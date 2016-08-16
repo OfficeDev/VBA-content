@@ -39,7 +39,3 @@ A  **Conversation** object that represents the conversation to which this item b
 
 
 [TaskRequestDeclineItem Object](e842c7c0-7943-9219-329b-30b892ab99b0.md)
-#### Other resources
-
-
-[TaskRequestDeclineItem Object Members](3de31d0d-2444-876c-5d4d-1192851301af.md)

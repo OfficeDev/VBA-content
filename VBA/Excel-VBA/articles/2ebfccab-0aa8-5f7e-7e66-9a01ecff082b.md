@@ -23,7 +23,3 @@ The number of criteria is equivalent to the number of threshold values assigned 
 
 
 [ColorScaleCriteria Collection](9c50a2e4-aa22-92ca-6cef-2f8fc931ec33.md)
-#### Other resources
-
-
-[ColorScaleCriteria Object Members](c73a24ba-662e-b050-a77b-ddf6046ae76f.md)

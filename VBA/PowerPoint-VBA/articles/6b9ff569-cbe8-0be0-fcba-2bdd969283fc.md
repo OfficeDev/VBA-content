@@ -23,7 +23,3 @@ Use the  **[From](314435d3-27aa-323b-65f4-de7f7864f30d.md)** and **[To](453cc64b
 
 
 [PropertyEffect Object](8fa129ac-f222-a01c-4545-0097b1164aee.md)
-#### Other resources
-
-
-[PropertyEffect Object Members](95276842-1082-4180-0392-696e7ad059e2.md)

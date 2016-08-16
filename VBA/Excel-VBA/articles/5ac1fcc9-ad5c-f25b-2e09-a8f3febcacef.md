@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [ShapeRange Object](e1b8229c-73a0-4a77-5e00-4bcec9032260.md)
-#### Other resources
-
-
-[ShapeRange Object Members](1d1950c5-32ac-dfc0-8c19-07159a29a2a0.md)

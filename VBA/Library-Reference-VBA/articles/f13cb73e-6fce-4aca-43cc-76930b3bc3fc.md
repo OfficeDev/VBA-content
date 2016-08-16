@@ -26,7 +26,3 @@ Long
 
 
 [SharedWorkspaceFolders Object](a9020edc-f199-6bab-75d1-c2bdc2a547d3.md)
-#### Other resources
-
-
-[SharedWorkspaceFolders Object Members](b0f86e38-ab1e-fc78-e543-f37705ebebf7.md)

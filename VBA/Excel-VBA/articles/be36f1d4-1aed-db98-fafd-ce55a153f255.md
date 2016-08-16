@@ -23,7 +23,3 @@ You can use this property with an OLE Automation object to return the applicatio
 
 
 [TableStyleElement Object](a8fc24e5-45bf-3361-edfe-4762f944eef5.md)
-#### Other resources
-
-
-[TableStyleElement Object Members](d89ee8b0-31a6-ea36-170f-57eab90eb712.md)

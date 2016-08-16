@@ -30,5 +30,5 @@ With myDocument.Shapes(1).PictureFormat
 #### Other resources
 
 
-[PictureFormat Object Members](d27d6074-2698-2b1d-87cb-c9cc187354c3.md)
+
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

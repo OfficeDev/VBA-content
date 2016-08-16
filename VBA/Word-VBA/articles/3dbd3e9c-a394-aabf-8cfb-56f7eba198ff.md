@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [ShapeNode Object](d5afb71a-a218-57f3-87f0-171094ba6610.md)
-#### Other resources
-
-
-[ShapeNode Object Members](55803c23-5f6e-aa8c-6e9f-6d350ec71f5e.md)

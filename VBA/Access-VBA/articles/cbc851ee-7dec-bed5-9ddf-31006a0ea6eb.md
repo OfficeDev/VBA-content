@@ -38,7 +38,3 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 
 
 [OptionButton Object](661ada74-d044-4a5c-2bdd-2dddfc2e79ab.md)
-#### Other resources
-
-
-[OptionButton Object Members](5173d5c5-b898-97ee-a005-7f5a4d77efa1.md)

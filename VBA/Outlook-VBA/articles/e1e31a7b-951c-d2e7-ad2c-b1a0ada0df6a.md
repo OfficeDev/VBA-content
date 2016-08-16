@@ -40,7 +40,3 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 
 
 [PostItem Object](de44065d-4e93-315a-279f-7b92f09c0465.md)
-#### Other resources
-
-
-[PostItem Object Members](5b150db1-c96d-0721-ec36-d5b5ebc20fd8.md)

@@ -26,7 +26,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [OMathBreaks Collection](fa01cd62-b8ad-52bf-f36a-f5d1548d3d1e.md)
-#### Other resources
-
-
-[OMathBreaks Object Members](8a16ddcf-9fdc-0cb6-b033-99fe89846a04.md)

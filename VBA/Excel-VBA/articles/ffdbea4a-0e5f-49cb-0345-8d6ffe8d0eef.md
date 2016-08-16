@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [SortFields Object](a9c83ea1-1cd9-1552-1f03-71bd92a2cc72.md)
-#### Other resources
-
-
-[SortFields Object Members](3fe54843-d34a-5d1a-75d6-2645da2755bc.md)

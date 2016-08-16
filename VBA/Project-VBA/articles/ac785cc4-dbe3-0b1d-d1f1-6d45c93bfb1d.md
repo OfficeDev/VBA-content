@@ -59,7 +59,3 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
 
 [Project Object Model](900b167b-88ec-ea88-15b7-27bb90c22ac6.md)
-#### Other resources
-
-
-[GroupCriteria2 Object Members](b52e84f3-4332-9c5a-cd2c-c4b57cfc40ea.md)

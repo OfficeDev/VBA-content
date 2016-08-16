@@ -56,7 +56,3 @@ End If
 
 
 [ListFormat Object](74773fd6-b713-34d4-b7be-f543c983008d.md)
-#### Other resources
-
-
-[ListFormat Object Members](daf87b14-29a3-c5d9-ab43-8465237c02da.md)

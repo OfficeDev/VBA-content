@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [CustomLabels Collection Object](407e75b5-4116-fdc7-f0c1-dfd3809cdb41.md)
-#### Other resources
-
-
-[CustomLabels Object Members](ee79f452-698d-3089-ed57-b2ca3b125e3d.md)

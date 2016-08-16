@@ -70,5 +70,5 @@ ActiveDocument.Styles.Add(Name:="Italics", _
 #### Other resources
 
 
-[Font Object Members](04a3c706-4062-09bc-70d9-cef3748a7d57.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

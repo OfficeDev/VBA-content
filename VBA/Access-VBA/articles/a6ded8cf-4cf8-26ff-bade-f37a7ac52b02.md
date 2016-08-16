@@ -42,7 +42,3 @@ You can also view the custom properties dialog box by clicking the  **Properties
 
 
 [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
-#### Other resources
-
-
-[CustomControl Object Members](3093550b-7994-fb58-044c-90e8da535f9d.md)

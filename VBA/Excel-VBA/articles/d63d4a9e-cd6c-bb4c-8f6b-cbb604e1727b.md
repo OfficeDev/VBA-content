@@ -26,7 +26,3 @@ Returns a single  **[PivotTable](a9c1d4a0-78a9-f9a6-6daf-91cb63e45842.md)** obje
 
 
 [SlicerPivotTables Object](8302dc8a-3845-12b0-f88e-761f104f1dcc.md)
-#### Other resources
-
-
-[SlicerPivotTables Object Members](97660807-e5e8-dcdd-1338-5b89dff1e189.md)

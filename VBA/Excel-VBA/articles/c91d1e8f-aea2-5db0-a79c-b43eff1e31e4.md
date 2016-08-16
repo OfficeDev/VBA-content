@@ -32,7 +32,3 @@ End Sub
 
 
 [AutoCorrect Object](2594722a-2ff9-7175-4d35-0da0ad413b0d.md)
-#### Other resources
-
-
-[AutoCorrect Object Members](ee525804-da41-f613-3e2a-6f6b115dcdd6.md)

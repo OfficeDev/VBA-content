@@ -33,7 +33,3 @@ End If
 
 
 [ChartBorder Object](eea90670-c599-2ec8-5b7b-c946a4bcd638.md)
-#### Other resources
-
-
-[ChartBorder Object Members](208fbc56-c413-c830-c010-00f7851b297a.md)
