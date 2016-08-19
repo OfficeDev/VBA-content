@@ -5,7 +5,7 @@
     {
       "docset_name": "VBAContent",
       "build_source_folder": "VBA",
-      "build_output_subfolder": "VBA",
+      "build_output_subfolder": "VBAContent",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
