@@ -39,7 +39,3 @@ If Book2.End > Book1.Start Then Book1.Select
 
 
 [Bookmark Object](be6b0c7b-60ca-97e7-ef19-6de335da3197.md)
-#### Other resources
-
-
-[Bookmark Object Members](c7ff0d52-501c-64ac-0034-b0e4ed3640f2.md)

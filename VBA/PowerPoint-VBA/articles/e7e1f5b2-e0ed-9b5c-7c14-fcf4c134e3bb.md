@@ -44,7 +44,3 @@ ActivePresentation.Paragraphs(1).HangingPunctuation = msoTrue
 
 
 [ParagraphFormat Object](15d495cf-16e2-5cfb-e99c-a551876e3a8a.md)
-#### Other resources
-
-
-[ParagraphFormat Object Members](c269be7c-ad65-672d-bcac-2a4913346d3e.md)

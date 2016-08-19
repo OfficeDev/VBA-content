@@ -28,7 +28,3 @@ Returns a  **[SparkColor](3de82c5c-eb0a-ab39-64a8-00f4c005c6af.md)** object that
 
 
 [SparkPoints Object](382bf292-7824-179f-e254-1b72dfb557b2.md)
-#### Other resources
-
-
-[SparkPoints Object Members](d8b6a812-38ea-f048-5fd1-64466e908136.md)

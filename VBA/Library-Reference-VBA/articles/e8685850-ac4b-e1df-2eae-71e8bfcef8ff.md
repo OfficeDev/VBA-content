@@ -23,7 +23,3 @@ Object
 
 
 [SmartDocument Object](b56a86eb-a031-d50b-905e-ef8b91914d61.md)
-#### Other resources
-
-
-[SmartDocument Object Members](980de42d-6992-6107-a3fb-33e8c78da202.md)

@@ -23,7 +23,3 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 
 
 [OlkSenderPhoto Object](07934c3a-404c-7f99-49a8-540701d31cef.md)
-#### Other resources
-
-
-[OlkSenderPhoto Object Members](7f3c23d6-633b-c250-79d0-9f06fd37c17a.md)

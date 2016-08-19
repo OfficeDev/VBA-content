@@ -32,7 +32,3 @@ For example, you might insert an OrderDetails subform into both a form and a rep
 
 
 [AllForms Collection](b90616b9-90fc-bb51-6bfa-b149dece0f1b.md)
-#### Other resources
-
-
-[AllForms Object Members](a508646e-4478-fdfb-b1b5-177af651b73f.md)

@@ -48,8 +48,3 @@ End Sub
 
 [Databar Object](2684e913-c278-e6be-ba9d-053b6ad58bae.md)
 [Speech Object](1ddd61bc-989e-4766-423e-515ec5d1c23a.md)
-#### Other resources
-
-
-[Databar Object Members](137f7e88-bb61-48a3-d2cb-76a8282cd62e.md)
-[Speech Object Members](5dcc198f-153f-0049-d870-bf162cbde9c7.md)

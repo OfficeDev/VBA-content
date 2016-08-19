@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [DataLabels Object](3d79271e-c702-e785-6984-d838d060a8c5.md)
-#### Other resources
-
-
-[DataLabels Object Members](3c9d909d-d090-b6ed-8a28-ba62c3459044.md)

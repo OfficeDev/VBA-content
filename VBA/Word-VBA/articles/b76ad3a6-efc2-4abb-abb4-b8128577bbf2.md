@@ -27,4 +27,4 @@ Changing the  **ViewType** , **IncludeHiddentText** , or **IncludeFieldCodes** p
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[TextRetrievalMode Object Members](396684eb-f260-9e82-e8b5-14301c5e55c3.md)
+

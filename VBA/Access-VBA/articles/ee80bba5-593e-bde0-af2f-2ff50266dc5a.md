@@ -18,7 +18,3 @@ Returns the type of layout for the specified label. Read-only  **[AcLayoutType](
 
 
 [Label Object](3d83d916-85d7-b2eb-c9f6-f9a6ff0c9ec7.md)
-#### Other resources
-
-
-[Label Object Members](a47442ed-c770-49a4-3bd1-76e3e05bddca.md)

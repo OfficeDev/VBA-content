@@ -23,4 +23,4 @@ Returns an  **Object** that represents the parent object of the specified **Full
 
 
 [FullSeriesCollection Object](a0786c15-27f7-5ba8-eaba-7b982d951fd8.md)
-[FullSeriesCollection Object Members](44630853-8b1f-5632-0ac0-a45c3c9e573f.md)
+

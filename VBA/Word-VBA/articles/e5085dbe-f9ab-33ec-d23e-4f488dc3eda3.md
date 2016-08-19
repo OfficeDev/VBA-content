@@ -18,7 +18,3 @@ Returns a  **Range** object that represents the endnote separator.
 
 
 [Endnotes Collection Object](32676579-dd41-e83d-a305-fcc2b7cb4f64.md)
-#### Other resources
-
-
-[Endnotes Object Members](b70ef623-9c2a-6cb9-acb3-64d3f150b62a.md)

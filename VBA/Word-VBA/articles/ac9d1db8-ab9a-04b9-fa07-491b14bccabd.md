@@ -39,7 +39,3 @@ End If
 
 
 [Border Object](be48c020-b86c-c004-ce1c-76d9edae9791.md)
-#### Other resources
-
-
-[Border Object Members](0c2f320b-8f74-961b-297e-dc068db579aa.md)

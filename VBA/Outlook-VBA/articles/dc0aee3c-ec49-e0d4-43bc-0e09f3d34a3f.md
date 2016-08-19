@@ -18,7 +18,3 @@ Returns the  **[FormDescription](c88f92c4-4cac-84b3-6118-1150d42d7cff.md)** obje
 
 
 [PostItem Object](de44065d-4e93-315a-279f-7b92f09c0465.md)
-#### Other resources
-
-
-[PostItem Object Members](5b150db1-c96d-0721-ec36-d5b5ebc20fd8.md)

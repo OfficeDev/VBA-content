@@ -18,7 +18,3 @@ Returns the font of the specified object. Read-only  **[ChartFont](185dfaa0-4ed9
 
 
 [DataTable Object](eaa7cdda-e374-7d19-47a6-87e4458fc244.md)
-#### Other resources
-
-
-[DataTable Object Members](c1b37a05-3877-40b4-c179-6ce11d34745f.md)

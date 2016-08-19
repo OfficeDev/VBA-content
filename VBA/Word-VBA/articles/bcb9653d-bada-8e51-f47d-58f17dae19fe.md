@@ -49,4 +49,4 @@ End With
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[Sentences Object Members](a4668263-ff76-6f12-15f5-951d5db96431.md)
+

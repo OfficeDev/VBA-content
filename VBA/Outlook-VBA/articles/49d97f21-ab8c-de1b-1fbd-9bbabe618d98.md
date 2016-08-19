@@ -33,7 +33,3 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 
 [Inspector Object](d7384756-669c-0549-1032-c3b864187994.md)
-#### Other resources
-
-
-[Inspector Object Members](acd3e13f-4727-7966-d2a5-a95e4528425c.md)

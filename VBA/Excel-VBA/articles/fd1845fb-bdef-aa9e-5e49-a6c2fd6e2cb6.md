@@ -46,7 +46,3 @@ End With
 
 
 [CalloutFormat Object](d9d7d279-04ef-dbee-23cd-ddd606ed917d.md)
-#### Other resources
-
-
-[CalloutFormat Object Members](29203369-3128-3336-6e78-d1853c4619a6.md)

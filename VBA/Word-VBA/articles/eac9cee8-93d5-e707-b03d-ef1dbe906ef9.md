@@ -31,7 +31,3 @@ ActiveDocument.Tables.Add Range:=Selection.Range, _
 
 
 [AutoCaption Object](895b5181-d36f-7f63-572a-c2d37c878e17.md)
-#### Other resources
-
-
-[AutoCaption Object Members](48332cba-c2a5-a641-dc08-4cc2774ee5e6.md)

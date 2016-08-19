@@ -30,7 +30,3 @@ Msgbox MyEmailStyle.Font.Name
 
 
 [EmailAuthor Object](2749e018-42e9-7a1a-f18b-8605b38ff0ae.md)
-#### Other resources
-
-
-[EmailAuthor Object Members](76ddf916-7e7f-4a5a-3330-cdb47e2b4d1c.md)

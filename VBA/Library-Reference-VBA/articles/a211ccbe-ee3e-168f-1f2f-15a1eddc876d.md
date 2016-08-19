@@ -23,7 +23,3 @@ Boolean
 
 
 [ServerPolicy Object](ce2a63d2-5deb-b94b-45d7-ed84e9be7deb.md)
-#### Other resources
-
-
-[ServerPolicy Object Members](ed14d9a8-6159-f175-9078-181331ebfb03.md)

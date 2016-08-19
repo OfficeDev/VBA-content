@@ -28,7 +28,3 @@ ActiveDocument.PageSetup.TwoPagesOnOne = True
 
 
 [PageSetup Object](1879d601-80ad-4fc0-1a87-92e999b59f88.md)
-#### Other resources
-
-
-[PageSetup Object Members](9ff8b896-933b-1a19-19d5-5e5d87aab1b5.md)

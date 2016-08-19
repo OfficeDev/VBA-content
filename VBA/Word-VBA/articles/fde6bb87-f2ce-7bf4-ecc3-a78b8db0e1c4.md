@@ -36,7 +36,3 @@ End With
 
 
 [Endnote Object](01f29be4-58e7-28f5-5fcb-dae50c33890e.md)
-#### Other resources
-
-
-[Endnote Object Members](5744789b-dbe0-594a-54d9-82acc41d2c7a.md)

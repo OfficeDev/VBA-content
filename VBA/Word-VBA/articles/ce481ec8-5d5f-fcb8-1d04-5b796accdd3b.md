@@ -36,5 +36,5 @@ The  **Add** method isn't available for the **TablesOfAuthoritiesCategories** co
 #### Other resources
 
 
-[TableOfAuthoritiesCategory Object Members](585e2283-46c2-42f1-e51b-3dcb9cf876e7.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

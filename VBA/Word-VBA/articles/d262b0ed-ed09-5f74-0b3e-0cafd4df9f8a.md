@@ -31,7 +31,3 @@ CustomProperty
 
 
 [CustomProperties Collection](8b4248a1-7e1f-dbbd-37ab-f52a2d1ee505.md)
-#### Other resources
-
-
-[CustomProperties Object Members](ff823b6b-c9aa-ff07-9989-d27456e6fef9.md)

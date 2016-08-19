@@ -26,7 +26,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [OMathRad Object](2179cda9-b1dc-9593-c4f9-99496081e191.md)
-#### Other resources
-
-
-[OMathRad Object Members](90b7d5a3-f695-9ae3-0cde-c86fbd94352f.md)

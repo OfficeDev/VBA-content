@@ -33,5 +33,5 @@ For more information about building blocks, see [Working with Building Blocks](h
 #### Other resources
 
 
-[BuildingBlocks Object Members](865639de-1856-d542-fe6b-a09425c050f0.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

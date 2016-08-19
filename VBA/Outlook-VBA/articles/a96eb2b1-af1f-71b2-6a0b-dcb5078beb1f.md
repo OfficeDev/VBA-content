@@ -20,4 +20,4 @@ Use the  **[NavigationFolders](06e58adc-99d7-dd84-4d23-7f845850ff98.md)** proper
 
 
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
-[NavigationGroup Object Members](0383772b-68d6-aaa3-564f-bf15c28fa9f7.md)
+

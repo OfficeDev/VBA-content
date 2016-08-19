@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Colu
 
 
 [Column Object](49d68571-2a57-6795-34b9-eb09aeb43043.md)
-#### Other resources
-
-
-[Column Object Members](e8b86d58-eb4b-6d02-7171-f70436a31f4c.md)

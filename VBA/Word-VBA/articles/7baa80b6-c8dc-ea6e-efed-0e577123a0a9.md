@@ -23,7 +23,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 
 [ParagraphFormat Object](712d754a-dc92-f1a3-531d-dfae74a42c23.md)
-#### Other resources
-
-
-[ParagraphFormat Object Members](d34122e7-adfb-dd34-eb1d-cd62b20a83ff.md)

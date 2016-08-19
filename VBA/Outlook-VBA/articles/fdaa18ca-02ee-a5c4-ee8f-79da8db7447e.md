@@ -18,7 +18,3 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 
 [Reminder Object](b7364e48-51bc-b360-2154-e85e7779ece4.md)
-#### Other resources
-
-
-[Reminder Object Members](2dc26aef-9636-4761-4d79-4571bb7c9726.md)

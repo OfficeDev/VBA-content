@@ -33,7 +33,3 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 
 [JournalItem Object](6e850295-39f9-47b8-e866-9622e9958c69.md)
-#### Other resources
-
-
-[JournalItem Object Members](13a0cd10-44bc-a167-c613-93985f698d95.md)

@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Tabl
 
 
 [TableStyle Object](4f1f4489-0ef7-dff0-8f2a-77f87937f3ad.md)
-#### Other resources
-
-
-[TableStyle Object Members](157d6fb8-ff84-fe53-f6f7-d96219c8dcd4.md)

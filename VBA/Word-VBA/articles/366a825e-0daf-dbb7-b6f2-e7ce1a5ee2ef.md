@@ -54,5 +54,5 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 #### Other resources
 
 
-[Chart Object Members](8abcbb92-781d-5a42-f395-526cdb3f754e.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

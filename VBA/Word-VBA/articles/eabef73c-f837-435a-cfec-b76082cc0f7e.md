@@ -33,5 +33,5 @@ Msgbox wordval
 #### Other resources
 
 
-[ReadabilityStatistics Object Members](4e7dde67-0de5-89fc-3061-ab67bb2f03ec.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

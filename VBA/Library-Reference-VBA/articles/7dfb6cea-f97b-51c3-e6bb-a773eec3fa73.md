@@ -37,7 +37,3 @@ When you save a file to the Office Open XML File Format (which is the only forma
 
 
 [EncryptionProvider Object](9f5cc550-6bcb-2748-14a7-696cf8ef021b.md)
-#### Other resources
-
-
-[EncryptionProvider Object Members](48bed5b8-b284-4b52-4143-153ae1c751a4.md)

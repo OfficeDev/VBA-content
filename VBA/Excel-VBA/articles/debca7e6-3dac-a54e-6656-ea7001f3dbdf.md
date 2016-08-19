@@ -18,7 +18,3 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 
 [FormatConditions Object](2486d4b4-605c-76d8-132a-694c0c600a81.md)
-#### Other resources
-
-
-[FormatConditions Object Members](0e5a3774-fe65-597f-9b97-3bba637b55cc.md)

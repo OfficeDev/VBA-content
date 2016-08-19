@@ -41,7 +41,3 @@ End With
 
 
 [ColorSchemes Object](9b062448-88f5-b38d-2c76-330c691c9d72.md)
-#### Other resources
-
-
-[ColorSchemes Object Members](df8e06a1-6c6b-1852-cb1f-e26929ba9bfa.md)

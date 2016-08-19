@@ -56,7 +56,3 @@ Next
 
 
 [PictureFormat Object](946794b4-0401-ec7c-cea3-779ebfce0d69.md)
-#### Other resources
-
-
-[PictureFormat Object Members](0477a4f3-538c-41e6-c6d4-735a2ba0b9c2.md)

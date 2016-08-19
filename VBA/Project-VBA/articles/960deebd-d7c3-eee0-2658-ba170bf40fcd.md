@@ -14,7 +14,3 @@ Indicates the start date for a  **Timeline** bar based on the input argument. In
 ## See also
 
 
-#### Other resources
-
-
-[Timeline Members (Project)](ac50eced-d876-ee09-f8f4-01fb2272ddf0.md)

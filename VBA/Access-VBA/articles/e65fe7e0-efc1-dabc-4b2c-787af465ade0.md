@@ -38,7 +38,3 @@ The  **Unload** event can be canceled, but the **Close** event can't.
 
 
 [Form Object](72ef9219-142b-b690-b696-3eba9a5d4522.md)
-#### Other resources
-
-
-[Form Object Members](e1976b58-28ca-8f76-cdf3-6732cb06ce6c.md)

@@ -25,7 +25,3 @@ This method does not paste anything when the control's  **[Style](442acfef-795c-
 
 
 [OlkComboBox Object](8d5e2f25-2962-af28-2523-b7b82473ea0a.md)
-#### Other resources
-
-
-[OlkComboBox Object Members](618de9e2-f5b9-40d9-239e-95aeb9dce092.md)

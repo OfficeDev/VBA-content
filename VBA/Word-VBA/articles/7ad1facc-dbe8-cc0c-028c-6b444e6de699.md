@@ -26,7 +26,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [OMathLimUpp Object](3c7ca001-8533-52c9-5343-8a89892c0a16.md)
-#### Other resources
-
-
-[OMathLimUpp Object Members](789004f4-1c6e-de7e-484b-7da6a9d185fd.md)

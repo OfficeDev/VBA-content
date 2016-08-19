@@ -23,7 +23,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 
 [Hyperlinks Collection Object](25801753-737f-9219-6a14-6531eb2ca699.md)
-#### Other resources
-
-
-[Hyperlinks Object Members](afbccedd-d85a-2c8a-df08-d7af76e5bbe0.md)

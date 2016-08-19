@@ -45,7 +45,3 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 
 
 [IRibbonControl Object](63aef709-e1d3-b1a6-76af-b568ad0e69ae.md)
-#### Other resources
-
-
-[IRibbonControl Object Members](396d85dc-ddd5-8985-0830-22ee5b1579dc.md)

@@ -47,7 +47,3 @@ Debug.Print Modules.Item(0)
 
 
 [AllModules Collection](322815ae-3afd-f299-0ce9-2e9dbbb8536a.md)
-#### Other resources
-
-
-[AllModules Object Members](33eaed0b-df68-75d8-cba0-0a4b5ef64359.md)

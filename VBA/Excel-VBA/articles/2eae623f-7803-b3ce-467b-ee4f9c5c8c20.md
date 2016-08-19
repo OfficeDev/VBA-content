@@ -31,7 +31,3 @@ MsgBox "The following error occurred:" &; _
 
 
 [OLEDBError Object](6bcbf721-f2c8-f784-361b-e1a298bb2ecb.md)
-#### Other resources
-
-
-[OLEDBError Object Members](52181252-dd6f-b267-fa21-4ad8175b7346.md)

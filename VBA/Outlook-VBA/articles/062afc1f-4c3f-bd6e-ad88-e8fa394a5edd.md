@@ -28,5 +28,5 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 #### Other resources
 
 
-[RemoteItemMembers](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)
+
 [Delete All Items and Subfolders in the Deleted Items Folder](http://msdn.microsoft.com/library/359a416b-43d4-396e-e348-5624c4ca3599%28Office.15%29.aspx)

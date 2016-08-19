@@ -45,7 +45,3 @@ End With
 
 
 [PublishObject Object](9419bec4-d2a6-6a2c-6400-4e2e270ff603.md)
-#### Other resources
-
-
-[PublishObject Object Members](a5cd1fb8-f916-ee2c-6114-165f2e5c3c23.md)

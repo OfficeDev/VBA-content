@@ -58,8 +58,3 @@ End Sub
 
 [DocumentProperty Object](dd54ca3c-e0e2-4816-539a-17c5b4a928b1.md)
 [Sync Object](1cb049a0-a803-969a-7923-15ddb8da8f3b.md)
-#### Other resources
-
-
-[DocumentProperty Object Members](568da0ff-fa90-150a-06ec-611de886334e.md)
-[Sync Object Members](748726bd-83de-425a-5af8-177c34e3a013.md)

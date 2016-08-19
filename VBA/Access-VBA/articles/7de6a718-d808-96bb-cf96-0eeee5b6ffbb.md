@@ -49,7 +49,3 @@ To distinguish between the left, right, and middle mouse buttons, use the  **Mou
 
 
 [Page Object](6351b0ea-bd07-5ee6-ea20-0d410e09d939.md)
-#### Other resources
-
-
-[Page Object Members](8d4078db-389b-b9a6-00b1-7be0f1102808.md)

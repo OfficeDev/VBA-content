@@ -23,7 +23,3 @@ This rule condition is supported by rules for receiving messages. For more infor
 
 
 [FromRssFeedRuleCondition Object](8de6e629-7e3d-b4df-d758-a5bff3abd6a1.md)
-#### Other resources
-
-
-[FromRssFeedRuleCondition Object Members](0c0a949a-d654-6701-f70d-9a5bb908fed8.md)

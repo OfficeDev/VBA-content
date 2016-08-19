@@ -18,7 +18,3 @@ Returns the parent for the specified object. Read-only  **Object** .
 
 
 [Points Object](d0adc45a-7b31-a25e-d96f-f2a098702501.md)
-#### Other resources
-
-
-[Points Object Members](5d152c8c-1e37-73a9-6717-d297a1c6f9dc.md)

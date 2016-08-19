@@ -39,4 +39,4 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[ListGalleries Object Members](c68a29b8-af7f-9863-8501-829d18511a61.md)
+

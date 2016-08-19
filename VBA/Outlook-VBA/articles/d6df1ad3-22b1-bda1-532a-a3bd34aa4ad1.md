@@ -35,7 +35,3 @@ You can set additional properties (for example, setting  **[NumberOfRecipientSel
 
 
 [SelectNamesDialog Object](1522736a-3cad-9f1c-4da9-b52a3a01731c.md)
-#### Other resources
-
-
-[SelectNamesDialog Object Members](0f5546af-f89a-8a8b-ced9-a2d646bf9634.md)

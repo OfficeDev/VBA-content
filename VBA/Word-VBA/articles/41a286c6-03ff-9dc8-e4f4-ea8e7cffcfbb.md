@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [Language Object](0acc4a42-b4c2-a415-0e38-a049b085dc86.md)
-#### Other resources
-
-
-[Language Object Members](71b8c7ea-bb8f-3fa7-73f7-f99485ab5d4a.md)

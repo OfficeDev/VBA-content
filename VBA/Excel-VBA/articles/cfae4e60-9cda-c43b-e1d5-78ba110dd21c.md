@@ -37,5 +37,5 @@ End If
 #### Other resources
 
 
-[CategoryCollection Object Members](39a6f85c-2219-79df-cbbc-0bcc21a517e8.md)
+
 [CategoryCollection Object](5fc7e8c2-6fcb-8726-36f8-d4ae8c2c91e1.md)

@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Capt
 
 
 [CaptionLabels Collection Object](7d18c0d6-6d58-9841-4665-ab13e2e2ad9f.md)
-#### Other resources
-
-
-[CaptionLabels Object Members](0a8ca04e-29de-f57f-cf00-b6e169ed55fd.md)

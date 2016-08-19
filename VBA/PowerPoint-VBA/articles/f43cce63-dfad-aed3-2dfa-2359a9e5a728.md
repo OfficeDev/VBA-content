@@ -18,7 +18,3 @@ Specifies how the horizontal axis of the histogram chart is formatted, by bins t
 
 
 [ChartGroup Object (PowerPoint)](5caa5855-bd69-3fbc-f601-504e431a42e9.md)
-#### Other resources
-
-
-[ChartGroup Members (PowerPoint)](76d0d11d-b693-d3b2-01ae-007f4e16d515.md)

@@ -53,7 +53,3 @@ You can use this event to determine whether a store has been added and take appr
 
 
 [Stores Object](8915a8e4-9c22-21d5-c492-051d393ce5f7.md)
-#### Other resources
-
-
-[Stores Object Members](f3fec99a-54b2-c13e-d96a-c8c5e2429f99.md)

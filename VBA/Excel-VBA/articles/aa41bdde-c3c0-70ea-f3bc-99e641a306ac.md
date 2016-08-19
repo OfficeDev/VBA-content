@@ -23,7 +23,3 @@ The connections are not automatically refreshed when you open the workbook by us
 
 
 [ODBCConnection Object](b880ebec-15a4-5a3d-ef02-db73106db9c9.md)
-#### Other resources
-
-
-[ODBCConnection Object Members](d13b91f3-a89f-7dd7-7a98-f1d952f3b047.md)

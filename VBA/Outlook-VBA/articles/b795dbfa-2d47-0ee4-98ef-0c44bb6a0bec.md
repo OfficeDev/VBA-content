@@ -33,7 +33,3 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 
 [SharingItem Object](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)
-#### Other resources
-
-
-[SharingItem Object Members](719ad60e-2242-2c54-778f-006b61690389.md)

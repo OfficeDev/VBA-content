@@ -46,7 +46,3 @@ End If
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[COMAddIn Object Members](698d4d8e-6071-acd3-a39b-ab01fd878452.md)

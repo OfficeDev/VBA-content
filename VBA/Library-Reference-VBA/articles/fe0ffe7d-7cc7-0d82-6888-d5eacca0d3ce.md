@@ -27,7 +27,3 @@ End Sub
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[SignatureInfo Object Members](52c19097-8afb-d35c-a9f7-eae81e91c05d.md)

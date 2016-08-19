@@ -33,7 +33,3 @@ End If
 
 
 [ListRow Object](ba3e4215-14b6-3dca-82d0-0951f9f2fc3e.md)
-#### Other resources
-
-
-[ListRow Object Members](cd5e2170-7193-d865-f9f4-ce247e27c2f9.md)

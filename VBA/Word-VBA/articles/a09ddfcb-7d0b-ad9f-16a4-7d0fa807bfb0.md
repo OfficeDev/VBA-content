@@ -23,7 +23,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 
 [Frameset Object](d76806db-c82f-f7b6-fb85-28a649de48a7.md)
-#### Other resources
-
-
-[Frameset Object Members](474a7466-e5b9-6526-2be7-6d4edaa423ae.md)

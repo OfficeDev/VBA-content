@@ -33,7 +33,3 @@ Controls on the same form, report, or data access page can't have the same name,
 
 
 [TabControl Object](05f7de7b-8665-df6d-3fbb-47f8547d3baf.md)
-#### Other resources
-
-
-[TabControl Object Members](d6de9ec4-e7f9-5c26-d750-d7c134ec9fb0.md)

@@ -36,7 +36,3 @@ Occurs after the data in the control has been changed through the user interface
 
 
 [OlkCheckBox Object](79460205-a604-7011-a9b3-14e651807f09.md)
-#### Other resources
-
-
-[OlkCheckBox Object Members](acf62b06-215d-6b2b-57b0-ccbfd0c92aed.md)

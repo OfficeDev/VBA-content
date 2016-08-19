@@ -18,7 +18,3 @@ Saves the view, or saves the changes to a view.
 
 
 [TimelineView Object](fb14c1a1-f542-fa1e-f30f-c5ee3d2f0206.md)
-#### Other resources
-
-
-[TimelineView Object Members](fa134129-519f-6f08-dc53-5e72085f9cc0.md)

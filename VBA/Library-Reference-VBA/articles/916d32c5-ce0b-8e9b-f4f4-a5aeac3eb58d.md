@@ -23,7 +23,3 @@ Long
 
 
 [UserPermission Object](24378204-2fdd-47ba-2080-fbc409955325.md)
-#### Other resources
-
-
-[UserPermission Object Members](b9fdae9a-719b-9e1d-42aa-7553de91f9d1.md)

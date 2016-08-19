@@ -56,7 +56,3 @@ Next
 
 
 [Slides Object](ba7f514c-8f6d-d5ef-333f-c1da0f2ab767.md)
-#### Other resources
-
-
-[Slides Object Members](2f918722-1ae2-721e-7d83-e2ebca4e482a.md)

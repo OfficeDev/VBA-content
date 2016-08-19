@@ -33,7 +33,3 @@ ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 
 
 [PivotCache Object](c3d84ef1-f9e6-b1bc-cbf0-3ba8dfe17439.md)
-#### Other resources
-
-
-[PivotCache Object Members](113f1109-e1c9-2c6e-0581-9fba82f278dc.md)

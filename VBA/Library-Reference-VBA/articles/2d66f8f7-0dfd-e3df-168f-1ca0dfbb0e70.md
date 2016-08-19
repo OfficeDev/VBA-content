@@ -23,7 +23,3 @@ If the container application doesn't define a value for one of the built-in docu
 
 
 [DocumentProperty Object](dd54ca3c-e0e2-4816-539a-17c5b4a928b1.md)
-#### Other resources
-
-
-[DocumentProperty Object Members](568da0ff-fa90-150a-06ec-611de886334e.md)

@@ -29,7 +29,3 @@ Worksheets("Sheet1").PageSetup.FooterMargin = _
 
 
 [PageSetup Object](2fd22df9-5987-f723-04a9-9a3f2e84ac81.md)
-#### Other resources
-
-
-[PageSetup Object Members](feabe079-cb03-f560-6032-88f5585ec8a8.md)

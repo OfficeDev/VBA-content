@@ -23,7 +23,3 @@ Attempting to access a theme color for an object whose color is not currently th
 
 
 [Borders Collection](adb6efd6-73b6-e620-e9be-f4a42bc52ae8.md)
-#### Other resources
-
-
-[Borders Object Members](8fb1ee1d-8e09-0b65-a9a3-4f278f6f9164.md)

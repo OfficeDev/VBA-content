@@ -26,7 +26,3 @@ Occurs when an attachment has been added to an instance of the parent object.
 
 
 [TaskRequestUpdateItem Object](5bc407fe-b3f6-3e46-8b91-e2ed96292cec.md)
-#### Other resources
-
-
-[TaskRequestUpdateItem Object Members](f4a396b3-c2f7-68a7-efa7-877328a7fc21.md)

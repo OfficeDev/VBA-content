@@ -39,7 +39,3 @@ End Sub
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[PolicyItem Object Members](a2e43e08-64bb-f052-78a2-0618e2df46fc.md)

@@ -23,7 +23,3 @@ ColorStops
 
 
 [LinearGradient Object](cb648564-0f57-f1b9-1c89-0329c110583f.md)
-#### Other resources
-
-
-[LinearGradient Object Members](7b9a9bc3-340f-195d-927b-7ac5a7592190.md)

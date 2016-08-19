@@ -39,7 +39,3 @@ Access does not search Visual Basic for Applications (VBA) code, macros, or data
 
 
 [AccessObject Object](8a770b33-5bff-120a-6707-ca214ee5ced3.md)
-#### Other resources
-
-
-[AccessObject Object Members](78aaacb1-c0d3-d809-088d-d543ecd71de3.md)

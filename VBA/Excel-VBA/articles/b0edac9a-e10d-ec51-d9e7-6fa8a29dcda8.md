@@ -12,7 +12,3 @@ Each measure is represented by a [ModelMeasure](0df4620a-e250-a68e-7000-6959cde0
 ## See also
 
 
-#### Other resources
-
-
-[ModelMeasures Object Members](10475bee-fae3-7248-b904-d3f58f478969.md)

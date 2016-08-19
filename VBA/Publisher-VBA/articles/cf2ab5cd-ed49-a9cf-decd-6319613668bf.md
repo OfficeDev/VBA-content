@@ -50,7 +50,3 @@ End Sub
 
 
  [BorderArt Object](464bec0f-7912-ab27-9593-7f1cb53da342.md)
-#### Other resources
-
-
- [BorderArt Object Members](51e5b24f-85be-9975-1c2e-d66204eb71bb.md)
