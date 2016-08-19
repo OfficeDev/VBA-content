@@ -23,7 +23,3 @@ Variant
 
 
 [Slicer Object](577be0f6-4eda-0093-8899-097f3c900383.md)
-#### Other resources
-
-
-[Slicer Object Members](09f1983a-5f7a-1707-c979-c5c27143ad73.md)

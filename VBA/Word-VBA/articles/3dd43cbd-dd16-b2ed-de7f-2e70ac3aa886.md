@@ -31,7 +31,3 @@ HeadingStyle
 
 
 [HeadingStyles Collection Object](be882a12-1264-8f7e-415b-b8bcbf28e703.md)
-#### Other resources
-
-
-[HeadingStyles Object Members](1fa4e0b8-e97b-3a51-a688-3ad4d3b5d135.md)

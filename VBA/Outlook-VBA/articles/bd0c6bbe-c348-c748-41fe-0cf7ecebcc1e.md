@@ -28,5 +28,5 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 #### Other resources
 
 
-[OlkDateControl Object Members](6bc09aee-2f4e-5042-a653-52c0c09068c5.md)
+
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

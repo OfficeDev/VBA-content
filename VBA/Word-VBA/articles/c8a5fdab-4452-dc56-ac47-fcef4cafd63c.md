@@ -18,7 +18,3 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 
 
 [Subdocument Object](ed966369-34f6-ef0c-d6d6-4c86baff4793.md)
-#### Other resources
-
-
-[Subdocument Object Members](7f30e191-8a01-2565-3a9b-2139733e2f82.md)

@@ -22,7 +22,3 @@ The  **MacroError** object does not contain information about run-time errors th
 
 
 [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
-#### Other resources
-
-
-[MacroError Object Members](43288575-7577-6750-6822-cc4b7ddbb9e7.md)

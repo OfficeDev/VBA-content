@@ -49,7 +49,3 @@ Set myControl = CommandBars.FindControl _
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[CommandBarComboBox Object Members](223c51c0-4564-d14a-a8bf-d315a6a50b32.md)

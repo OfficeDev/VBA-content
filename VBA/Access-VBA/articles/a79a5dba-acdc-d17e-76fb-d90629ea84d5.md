@@ -23,7 +23,3 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 
 [CustomControl Object](a6ded8cf-4cf8-26ff-bade-f37a7ac52b02.md)
-#### Other resources
-
-
-[CustomControl Object Members](3093550b-7994-fb58-044c-90e8da535f9d.md)

@@ -34,4 +34,4 @@ End With
 
 
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
-[ShadowFormat Object Members](5512df5b-d899-7942-1309-4cf8d28fe96a.md)
+

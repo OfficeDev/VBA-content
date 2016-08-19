@@ -33,7 +33,3 @@ Controls on the same form, report, or data access page can't have the same name,
 
 
 [WebService Object](d197a825-12da-fd66-7881-7211a59d6bc9.md)
-#### Other resources
-
-
-[WebService Object Members](cecb622e-d027-2130-e83a-e689e6dac52b.md)

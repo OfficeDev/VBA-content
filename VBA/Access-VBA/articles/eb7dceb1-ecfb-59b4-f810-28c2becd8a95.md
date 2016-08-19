@@ -41,7 +41,3 @@ You can set the default for this property by using the default control style or 
 
 
 [FormatCondition Object](a31deaae-b32d-c45b-b3b2-113a9e62cc7a.md)
-#### Other resources
-
-
-[FormatCondition Object Members](98a01bf0-3d5c-5ea4-9291-97ddd24fd7a1.md)

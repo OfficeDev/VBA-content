@@ -36,7 +36,3 @@ If no report has the focus when you use the  **ActiveReport** property, an error
 
 
 [Screen Object](00743775-071b-9ccd-7687-f3b992e9346e.md)
-#### Other resources
-
-
-[Screen Object Members](82c9e4cb-95a9-6842-2629-bcd71c81838f.md)

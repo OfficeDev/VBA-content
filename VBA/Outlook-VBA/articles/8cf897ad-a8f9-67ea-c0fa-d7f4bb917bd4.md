@@ -18,4 +18,4 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 
 
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
-[AddressRuleCondition Object Members](d15b0554-6b47-b201-fd41-744ea056d3f6.md)
+

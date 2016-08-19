@@ -70,7 +70,3 @@ The following table lists each language version of Office, and gives its corresp
 
 
 [DefaultWebOptions Object](5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd.md)
-#### Other resources
-
-
-[DefaultWebOptions Object Members](52db1398-01d8-eba5-772f-2923fdc89f5b.md)

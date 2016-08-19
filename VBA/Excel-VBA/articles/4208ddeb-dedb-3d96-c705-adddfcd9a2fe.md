@@ -31,7 +31,3 @@ The value of the  _Index_ parameter cannot be greater than the number of icons i
 
 
 [IconSet Object](d6b407cf-424e-529a-ee83-0b0b09598b53.md)
-#### Other resources
-
-
-[IconSet Object Members](2614b2c7-0914-f804-9741-2c382a8258c8.md)

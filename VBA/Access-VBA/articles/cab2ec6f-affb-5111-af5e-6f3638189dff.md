@@ -29,7 +29,3 @@ The  **AllowValueEditLists** property is not available for list boxes on a repor
 
 
 [ListBox Object](6bc00755-34e7-4fc2-8e72-40dae2010dd8.md)
-#### Other resources
-
-
-[ListBox Object Members](d87ad51b-9a46-21f3-f6d6-ef98ea8aaf6d.md)

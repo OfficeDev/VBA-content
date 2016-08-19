@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [Hyperlink Object](af785a9e-081a-e359-705f-04f490304e2e.md)
-#### Other resources
-
-
-[Hyperlink Object Members](49699791-6b9c-2061-aff7-c9269747ecea.md)

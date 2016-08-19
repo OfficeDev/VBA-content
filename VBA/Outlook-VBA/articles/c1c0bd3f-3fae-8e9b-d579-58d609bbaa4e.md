@@ -44,7 +44,3 @@ In the XML manifest for the form region, under the  **icons** element, specify t
 
 
 [FormRegionStartup Interface](948ea6b7-2962-57e7-618d-fa0977b65651.md)
-#### Other resources
-
-
-[FormRegionStartup Object Members](c45b60b8-5d7e-d84b-a60e-ffcb54c25569.md)

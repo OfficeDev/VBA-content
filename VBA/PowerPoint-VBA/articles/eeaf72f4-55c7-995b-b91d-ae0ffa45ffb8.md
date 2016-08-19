@@ -18,7 +18,3 @@ Returns a  **[PictureFormat](946794b4-0401-ec7c-cea3-779ebfce0d69.md)** object f
 
 
 [ChartFormat Object](bba095c6-2abf-eb14-10d4-35686c06941c.md)
-#### Other resources
-
-
-[ChartFormat Object Members](930791b5-f1e0-9933-9fa0-392c68222dee.md)

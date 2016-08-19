@@ -23,7 +23,3 @@ The parent of a  **SolutionsModule** object returns a **[NavigationPane](b6538c7
 
 
 [SolutionsModule Object](4597765e-a95d-bf07-2ac4-103218ebc696.md)
-#### Other resources
-
-
-[SolutionsModule Object Members](8537b2d4-07cb-9e40-a87b-ff12d304f809.md)

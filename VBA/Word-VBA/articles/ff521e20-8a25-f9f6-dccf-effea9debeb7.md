@@ -54,5 +54,5 @@ End If
 #### Other resources
 
 
-[Tasks Object Members](e6ca78c6-132d-6e7b-9f83-ea044a395040.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

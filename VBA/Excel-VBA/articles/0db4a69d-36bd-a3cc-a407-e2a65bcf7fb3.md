@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [ODBCErrors Object](2f1c8a6b-2b9d-fc2c-7caa-289652ac8e24.md)
-#### Other resources
-
-
-[ODBCErrors Object Members](f59038ac-2664-73db-5165-6940a1cf1dd7.md)

@@ -30,7 +30,3 @@ If you delete the  **SourceObject** property setting in the property sheet for a
 
 
 [SubForm Object](60f961fa-dcf4-e1d1-8c50-9e88963f9dec.md)
-#### Other resources
-
-
-[SubForm Object Members](328e74d8-0418-968f-faca-3e1b34139f48.md)

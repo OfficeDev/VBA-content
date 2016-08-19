@@ -35,5 +35,5 @@ End With
 #### Other resources
 
 
-[DefaultWebOptions Object Members](52db1398-01d8-eba5-772f-2923fdc89f5b.md)
+
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

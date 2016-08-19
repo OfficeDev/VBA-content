@@ -22,5 +22,5 @@ Returns an  **Object** that represents the parent object of the specified[Worksh
 #### Other resources
 
 
-[WorksheetDataConnection Object Members](a86803fe-2598-3126-aadc-704c7af067e7.md)
+
 [WorksheetDataConnection Object](05b67daa-ed68-f0f9-9228-86d6e53ef6e3.md)

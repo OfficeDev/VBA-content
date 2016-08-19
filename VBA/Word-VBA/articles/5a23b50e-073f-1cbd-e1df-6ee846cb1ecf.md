@@ -31,7 +31,3 @@ Use the  **[ReadingModeShrinkFont](58472c33-7f8e-dc3b-04d8-7b50ca911ed4.md)** me
 
 
 [Selection Object](7b574a91-c33e-ecfd-6783-6b7528b2ed8f.md)
-#### Other resources
-
-
-[Selection Object Members](71e67a43-d40a-ad9a-8ef2-c5c487733e0d.md)

@@ -32,7 +32,3 @@ FindKey(BuildKeyCode(wdKeyControl, wdKeyShift, wdKeyC)).Execute
 
 
 [KeyBinding Object](0f691196-76ef-135d-a8c9-b2fb9f9ac695.md)
-#### Other resources
-
-
-[KeyBinding Object Members](ff0776e1-3695-a392-992b-9d5a772449dc.md)

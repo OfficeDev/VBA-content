@@ -37,5 +37,5 @@ End If
 #### Other resources
 
 
-[FullSeriesCollection Object Members](18060b3a-f25c-fa99-d3f3-dd59f7928465.md)
+
 [FullSeriesCollection Object](5d7b7e7c-0a74-307b-84f9-56143ceba464.md)

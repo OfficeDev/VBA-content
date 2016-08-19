@@ -25,7 +25,3 @@ The  **Address** property must be set before calling the **[ExchangeDistribution
 
 
 [ExchangeDistributionList Object](2830dfba-6c0a-a81f-6b98-92ac2aafb59d.md)
-#### Other resources
-
-
-[ExchangeDistributionList Object Members](89105487-3e5b-ee8b-02e0-33ad42bd2fbe.md)

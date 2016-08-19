@@ -38,7 +38,3 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 
 
 [ToggleButton Object](1c20d809-d7db-e096-4328-ebb4d79e770e.md)
-#### Other resources
-
-
-[ToggleButton Object Members](487101e7-c090-eb79-3671-5c9ce86cb6b0.md)

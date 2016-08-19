@@ -41,7 +41,3 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 
 [View Object](333e8b59-398d-4575-d37b-bfb1d3503089.md)
-#### Other resources
-
-
-[View Object Members](3330372c-8497-8cce-981b-3b64700eb915.md)

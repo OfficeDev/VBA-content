@@ -25,7 +25,3 @@ Microsoft Access adds the prefix portion of an event procedure name to the event
 
 
 [WebBrowserControl Object](d7a2fc59-e373-ea64-e877-e18f23c491a0.md)
-#### Other resources
-
-
-[WebBrowserControl Object Members](bd19a10a-fbbc-5fd6-0818-23a377be9583.md)

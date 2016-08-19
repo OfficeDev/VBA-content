@@ -23,7 +23,3 @@ For OLAP data sources, setting this property for one field in a hierarchy sets t
 
 
 [CubeField Object](6db16910-6c27-651a-c388-e54e27fe4519.md)
-#### Other resources
-
-
-[CubeField Object Members](2f3cbe65-45ff-abe0-3e48-29c0d490f600.md)

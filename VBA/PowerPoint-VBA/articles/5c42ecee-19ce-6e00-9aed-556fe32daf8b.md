@@ -56,7 +56,3 @@ Next
 
 
 [Presentations Object](0b952edc-8628-71ef-e854-3bcefbb3bc61.md)
-#### Other resources
-
-
-[Presentations Object Members](b113aad2-7236-40a6-8c21-8217feff0d6b.md)

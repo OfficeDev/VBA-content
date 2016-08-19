@@ -28,7 +28,3 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 
 
 [ChartTitle Object](fc8ca540-0a29-123b-2fdf-b16aaa1f940c.md)
-#### Other resources
-
-
-[ChartTitle Object Members](e85a7f56-06f4-0561-a37b-7444115965fa.md)

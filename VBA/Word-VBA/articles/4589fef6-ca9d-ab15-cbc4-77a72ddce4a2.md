@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [Editors Collection](acce718a-e3c1-deac-8b7f-fd8a5a9e47c6.md)
-#### Other resources
-
-
-[Editors Object Members](dcb26f83-bbff-8d3a-2493-f7d87ce40d21.md)

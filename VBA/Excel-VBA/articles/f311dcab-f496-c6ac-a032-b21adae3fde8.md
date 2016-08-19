@@ -31,7 +31,3 @@ A  **[ShapeNode](c8b60d74-f11f-1659-30a3-6e180eb8bd58.md)** object contained by 
 
 
 [ShapeNodes Object](663721f1-8bd0-dd21-2362-fea2da3988bf.md)
-#### Other resources
-
-
-[ShapeNodes Object Members](3964c044-89e0-fb12-16c3-759a63248a24.md)

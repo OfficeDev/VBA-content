@@ -27,7 +27,3 @@ Although you can view content that is protected by IRM on any computer running t
 
 
 [SharingItem Object](63dd3451-44f3-7cc4-c6e2-7dad5835a7d2.md)
-#### Other resources
-
-
-[SharingItem Object Members](719ad60e-2242-2c54-778f-006b61690389.md)

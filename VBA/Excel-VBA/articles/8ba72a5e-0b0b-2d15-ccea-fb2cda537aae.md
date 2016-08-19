@@ -22,5 +22,5 @@ Returns the type of the date filter. [XlPivotFilterType Enumeration (Excel)](0ae
 #### Other resources
 
 
-[TimelineState Object Members](6c21dcbb-b0a6-0f24-27f6-6aefafc5f6ec.md)
+
 [TimelineState Object](bb92fe09-3cce-8e10-3795-2b9089c27801.md)

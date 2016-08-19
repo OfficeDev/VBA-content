@@ -18,7 +18,3 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 
 [MeetingItem Object](b75730f5-b395-3d66-5acd-b64fd8fcd78f.md)
-#### Other resources
-
-
-[MeetingItem Object Members](9ae6a19d-d326-4c37-90d8-5ed9933672a0.md)

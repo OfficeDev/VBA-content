@@ -19,7 +19,3 @@ If the specified shape range does not contain a ink object more than one ink obj
 
 
 [ShapeRange Object](0a194183-380e-ffb6-9336-b5bd311e917d.md)
-#### Other resources
-
-
-[ShapeRange Object Members](cf57a537-e6cd-ad43-45db-0683e288e850.md)

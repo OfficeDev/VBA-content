@@ -18,7 +18,3 @@ Returns or sets a  **[XlChartPictureType](7d4f70ea-4a66-1b88-49cf-85200c8eebff.m
 
 
 [Point Object](48ed9aec-2d29-ec4d-8e55-fca13982c358.md)
-#### Other resources
-
-
-[Point Object Members](a533258d-fc3b-9fe1-2a77-a55ecbe7bd7a.md)

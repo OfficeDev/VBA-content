@@ -23,7 +23,3 @@ When used without an object qualifier, this property returns an  **[Application]
 
 
 [TextFrame2 Object](66ba23e5-9b15-b954-a1db-1bd19b4eb90d.md)
-#### Other resources
-
-
-[TextFrame2 Object Members](04f18e2a-8a83-b077-fe38-4bb56edce5a7.md)

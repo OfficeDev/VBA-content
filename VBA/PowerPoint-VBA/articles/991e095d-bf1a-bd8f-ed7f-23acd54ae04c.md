@@ -28,7 +28,3 @@ The  **FieldOfView** property controls the amount of perspective that is applied
 
 
 [ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
-#### Other resources
-
-
-[ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)

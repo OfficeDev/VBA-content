@@ -32,7 +32,3 @@ End If
 
 
 [Words Collection Object](a718f69f-1db1-231a-9d65-bf20b48778ed.md)
-#### Other resources
-
-
-[Words Object Members](92281dcf-075c-ce1d-8342-cf1749ebb8ab.md)

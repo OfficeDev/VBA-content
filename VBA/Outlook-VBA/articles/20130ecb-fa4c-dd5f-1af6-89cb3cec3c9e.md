@@ -23,7 +23,3 @@ This arrow is rendered on the right on the button in langauges written left-to-r
 
 
 [OlkCommandButton Object](bb150211-d50a-130b-91f0-1129dba8f378.md)
-#### Other resources
-
-
-[OlkCommandButton Object Members](de26575e-23dc-f1f1-c64a-e58a4b1c51cb.md)

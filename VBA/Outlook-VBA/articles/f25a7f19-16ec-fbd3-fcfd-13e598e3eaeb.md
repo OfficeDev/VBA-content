@@ -40,7 +40,3 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 
 
 [TaskRequestAcceptItem Object](a2905f72-0a67-b07d-7f85-84fe4de17c25.md)
-#### Other resources
-
-
-[TaskRequestAcceptItem Object Members](fe91c4cc-f505-11d8-0d0a-84fc4d355651.md)

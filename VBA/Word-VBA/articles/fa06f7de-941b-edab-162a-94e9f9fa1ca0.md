@@ -31,7 +31,3 @@ Language
 
 
 [Languages Collection Object](e3b1d3f3-de1b-d2fe-962f-5a589842d1b0.md)
-#### Other resources
-
-
-[Languages Object Members](f638245c-ca4c-5d4b-f118-d3c15f6ecd0e.md)

@@ -18,7 +18,3 @@ Returns an  **[XmlNamespace](4c39c739-b848-5fec-c354-9fa56daf1d5d.md)** object t
 
 
 [XmlSchema Object](61a9b9be-fe04-fe6a-51c7-14b6c7232dca.md)
-#### Other resources
-
-
-[XmlSchema Object Members](884318da-1fd2-6487-2c04-4d87942e08b1.md)

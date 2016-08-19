@@ -35,5 +35,5 @@ Set objPage = ActiveWorksheet.ActiveWindow _
 #### Other resources
 
 
-[Pages Object Members](970cda07-ab54-2142-1f0c-d11a1ee4f566.md)
+
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

@@ -37,7 +37,3 @@ Next mylevel
 
 
 [ListTemplate Object](d5e339f7-5798-305b-a6b0-6b572d9112f4.md)
-#### Other resources
-
-
-[ListTemplate Object Members](d084eb01-aeeb-259b-91c5-5268fe0395c9.md)

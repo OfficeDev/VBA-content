@@ -48,7 +48,3 @@ End If
 
 
 [FreeformBuilder Object](fa188c8b-0781-dc9d-dd8d-3fc24c02d086.md)
-#### Other resources
-
-
-[FreeformBuilder Object Members](2673b640-8aec-1af4-55fd-38d0ad4c9381.md)

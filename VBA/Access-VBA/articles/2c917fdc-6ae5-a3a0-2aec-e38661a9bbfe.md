@@ -18,7 +18,3 @@ Returns the parent object for the specified object. Read-only.
 
 
 [SharedResource Object](a97163fa-f833-ed1c-aea5-1a7bab783eba.md)
-#### Other resources
-
-
-[SharedResource Object Members](bd9e813e-9e0a-8448-e4f6-d5c262d6419b.md)

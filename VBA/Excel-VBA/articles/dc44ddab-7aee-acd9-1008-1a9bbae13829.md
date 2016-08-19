@@ -28,7 +28,3 @@ Sets the specified fill to a one-color gradient.
 
 
 [FillFormat Object](b602e09e-97ab-bfbe-1796-bc44ebb7dc28.md)
-#### Other resources
-
-
-[FillFormat Object Members](da1a1680-4b9d-c6fb-6562-bf1ec9f57921.md)

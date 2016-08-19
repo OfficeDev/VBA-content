@@ -31,7 +31,3 @@ End With
 
 
 [AxisTitle Object](563d3ba5-aa77-b6fc-236a-7838d75eaa53.md)
-#### Other resources
-
-
-[AxisTitle Object Members](84970b5a-91a1-b785-5632-97a0de4410f2.md)

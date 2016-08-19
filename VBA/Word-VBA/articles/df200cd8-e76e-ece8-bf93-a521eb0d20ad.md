@@ -23,7 +23,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 
 [UpBars Object](22dff1d2-8f1b-8c48-354c-570906e0f830.md)
-#### Other resources
-
-
-[UpBars Object Members](7772742e-1230-6987-f8f3-f3663ea4329b.md)

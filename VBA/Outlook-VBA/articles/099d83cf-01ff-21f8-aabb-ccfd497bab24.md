@@ -34,7 +34,3 @@ To flush the cache and then reload the values from the address book, call  **Upd
 
 
 [AddressEntry Object](d4a0a85e-8bab-bc56-57bc-d70c3c570c8e.md)
-#### Other resources
-
-
-[AddressEntry Object Members](74c88069-aec4-952b-556f-03873fbb488b.md)

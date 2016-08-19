@@ -44,7 +44,3 @@ Next myIndex
 
 
 [Index Object](6a2aab98-485b-01c3-8d9b-9e108b455e22.md)
-#### Other resources
-
-
-[Index Object Members](de9f0a3c-dd30-84bd-e122-2d20fa6b3d37.md)

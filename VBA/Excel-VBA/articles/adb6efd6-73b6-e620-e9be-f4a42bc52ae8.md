@@ -39,5 +39,5 @@ Worksheets("Sheet1").Range("A1:G1"). _
 #### Other resources
 
 
-[Borders Object Members](8fb1ee1d-8e09-0b65-a9a3-4f278f6f9164.md)
+
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

@@ -36,7 +36,3 @@ Occurs after the data in the control has been changed through the user interface
 
 
 [OlkListBox Object](373d2a00-97e5-2ed3-f15f-577d97b32334.md)
-#### Other resources
-
-
-[OlkListBox Object Members](b8bed0b5-6994-1492-055e-4067b232f9c4.md)

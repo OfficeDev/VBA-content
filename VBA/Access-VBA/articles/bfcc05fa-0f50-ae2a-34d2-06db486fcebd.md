@@ -23,7 +23,3 @@ The  **DependencyObjects** collection returned by this property contains a colle
 
 
 [DependencyInfo Object](46ccdc3f-0101-5d81-8c01-ac37f139a2bc.md)
-#### Other resources
-
-
-[DependencyInfo Object Members](be4e20e3-4d1d-f38f-f90b-62cf1ce2a982.md)

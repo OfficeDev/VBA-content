@@ -43,7 +43,3 @@ End Sub
 
 
 [Areas Collection](43d05ef3-7ae2-2881-dec2-6fec8281f045.md)
-#### Other resources
-
-
-[Areas Object Members](5df53e64-1fe5-66cb-0777-438a80f399cc.md)

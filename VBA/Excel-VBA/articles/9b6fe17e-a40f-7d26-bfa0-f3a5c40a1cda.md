@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [LegendEntries Object](51d98149-b90b-432b-7771-0815a0e89655.md)
-#### Other resources
-
-
-[LegendEntries Object Members](dddeca68-d207-60af-9c16-afe670851a08.md)

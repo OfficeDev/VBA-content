@@ -18,7 +18,3 @@ When used without an object qualifier, returns an  **[Application](978c2b99-4271
 
 
 [SeriesLines Object](5d953ed4-ca16-3cb3-ba8f-1742e4a56cb6.md)
-#### Other resources
-
-
-[SeriesLines Object Members](ec44ca6c-f7d2-5ec6-4cff-ab8522b40cf8.md)

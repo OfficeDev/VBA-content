@@ -18,7 +18,3 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
 
 [Conflict Object](a7c8f12a-08ba-9fff-60b8-a02d1c7f6f33.md)
-#### Other resources
-
-
-[Conflict Object Members](1edc695c-4cf7-1606-ca82-7eecaa09f25d.md)

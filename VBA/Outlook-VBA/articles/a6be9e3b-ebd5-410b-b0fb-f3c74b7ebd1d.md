@@ -33,7 +33,3 @@ Set objSession = Application.Session
 
 
 [ViewField Object](997319f0-7ff3-a712-8484-2e442965e187.md)
-#### Other resources
-
-
-[ViewField Object Members](7269ccc0-7dca-f0ce-2aed-b6cc7b435cf7.md)

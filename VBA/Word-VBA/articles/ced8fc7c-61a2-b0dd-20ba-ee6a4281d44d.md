@@ -28,7 +28,3 @@ The  **TextVisibleOnScreen** property returns 1 if all text in the range is visi
 
 
 [Range Object](15a7a1c4-5f3f-5b6e-60e9-29688de3f274.md)
-#### Other resources
-
-
-[Range Members](3c4a36d9-2a80-5aaf-827b-275a52bfa193.md)

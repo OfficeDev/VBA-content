@@ -33,7 +33,3 @@ If you use the  **[Close](17cd04b5-1bf1-5df1-b1f4-f6e488d00fd5.md)** method to f
 
 
 [ContactItem Object](8e32093c-a678-f1fd-3f35-c2d8994d166f.md)
-#### Other resources
-
-
-[ContactItem Object Members](a8b13369-4c87-02aa-e62a-1f3067e559fa.md)

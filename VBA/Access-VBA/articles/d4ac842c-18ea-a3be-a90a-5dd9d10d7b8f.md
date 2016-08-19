@@ -49,7 +49,3 @@ When you use the  **CanShrink** property, remember that:
 
 
 [TextBox Object](d74fbe9a-0d40-7d28-956f-a2bfd0cfee45.md)
-#### Other resources
-
-
-[TextBox Object Members](bb55abbc-902e-fc2d-bdff-063c55426cd0.md)

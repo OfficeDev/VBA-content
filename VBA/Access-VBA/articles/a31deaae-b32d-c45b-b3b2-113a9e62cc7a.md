@@ -20,7 +20,3 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 
 [Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
-#### Other resources
-
-
-[FormatCondition Object Members](98a01bf0-3d5c-5ea4-9291-97ddd24fd7a1.md)

@@ -23,7 +23,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 
 [HTMLDivisions Collection](fe896440-817f-5485-794c-c5e9700cd062.md)
-#### Other resources
-
-
-[HTMLDivisions Object Members](574c91df-c2db-ae37-54cd-6f8fe4874862.md)

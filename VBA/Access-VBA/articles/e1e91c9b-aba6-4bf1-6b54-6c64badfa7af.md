@@ -38,7 +38,3 @@ For reports, use the  **Format** and **Retreat** events to specify an event proc
 
 
 [NavigationControl Object](ab08e35c-e5e4-444c-d169-1092d282ed15.md)
-#### Other resources
-
-
-[NavigationControl Object Members](c972327e-9b46-f9fb-d69d-104d1d130ee4.md)

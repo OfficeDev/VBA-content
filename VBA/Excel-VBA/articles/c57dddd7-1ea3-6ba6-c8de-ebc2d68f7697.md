@@ -23,7 +23,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 
 [PivotLineCells Object](cfa51fcd-3384-4c75-3ae9-4a2c1d92a489.md)
-#### Other resources
-
-
-[PivotLineCells Object Members](77db0767-34ff-6bb4-25e2-8a9361afe7f6.md)

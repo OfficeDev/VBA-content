@@ -22,5 +22,5 @@ Set objEditor = Selection.Editors.Add(wdEditorCurrent)
 #### Other resources
 
 
-[Editors Object Members](dcb26f83-bbff-8d3a-2493-f7d87ce40d21.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

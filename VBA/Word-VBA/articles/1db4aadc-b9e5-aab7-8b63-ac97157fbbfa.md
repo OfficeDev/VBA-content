@@ -31,7 +31,3 @@ ReadabilityStatistic
 
 
 [ReadabilityStatistics Collection Object](eabef73c-f837-435a-cfec-b76082cc0f7e.md)
-#### Other resources
-
-
-[ReadabilityStatistics Object Members](4e7dde67-0de5-89fc-3061-ab67bb2f03ec.md)

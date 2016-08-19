@@ -47,7 +47,3 @@ Debug.Print Modules.Item(0)
 
 
 [FormatConditions Collection](0a1cd89b-6690-8272-ebd9-d841e9fb1d4c.md)
-#### Other resources
-
-
-[FormatConditions Object Members](59a15338-37c0-ae3c-1236-a4687b62e689.md)

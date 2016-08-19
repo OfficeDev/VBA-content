@@ -18,7 +18,3 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 
 
 [Shapes Collection Object](0907eed3-886e-8e73-0e5e-71f4b37ddd5b.md)
-#### Other resources
-
-
-[Shapes Object Members](045d4e8c-b838-24f8-5919-c5a05e9bb3c5.md)

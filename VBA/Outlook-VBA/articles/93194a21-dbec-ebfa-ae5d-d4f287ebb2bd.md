@@ -26,5 +26,5 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Other resources
 
 
-[MailItem Object Members](1094d7df-ee80-a4b0-5a21-db2979506e6b.md)
+
 [Item Types and Message Classes](http://msdn.microsoft.com/library/15b709cc-7486-b6c7-88a3-4a4d8e0ab292%28Office.15%29.aspx)

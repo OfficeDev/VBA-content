@@ -29,4 +29,4 @@ Set objEditor = Selection.Editors.Add(wdEditorCurrent)
 
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
-[Editor Object Members](d7c78e7a-b04d-a6d4-4115-f4502d819b0b.md)
+

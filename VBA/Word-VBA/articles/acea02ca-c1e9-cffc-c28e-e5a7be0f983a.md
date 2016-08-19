@@ -31,7 +31,3 @@ OMath
 
 
 [OMathArgs Collection](5e4d542b-11c3-8cb8-be2a-5b990e777290.md)
-#### Other resources
-
-
-[OMathArgs Object Members](f3834049-18ba-9a4f-ab44-76e0c306bf12.md)

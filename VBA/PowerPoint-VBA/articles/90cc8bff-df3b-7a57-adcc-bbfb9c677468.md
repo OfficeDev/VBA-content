@@ -28,7 +28,3 @@ Files that do not pass validation will be opened in a  **Protected View** window
 
 
 [Application Object](978c2b99-4271-b953-4283-73b5f3d96f41.md)
-#### Other resources
-
-
-[Application Object Members](7a9042da-ef77-ebba-c872-f736bf486674.md)

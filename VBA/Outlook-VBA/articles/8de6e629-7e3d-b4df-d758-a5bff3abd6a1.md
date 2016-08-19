@@ -18,4 +18,4 @@ For more information about specifying rule actions, see [Specify Rule Conditions
 
 
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
-[FromRssFeedRuleCondition Object Members](0c0a949a-d654-6701-f70d-9a5bb908fed8.md)
+

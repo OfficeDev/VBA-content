@@ -18,7 +18,3 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 
 [Mailer Object](bd6b8c82-3d2e-e029-58b3-525049b1e03c.md)
-#### Other resources
-
-
-[Mailer Object Members](0d119db4-b6b3-4d66-8a4b-fe852b160740.md)

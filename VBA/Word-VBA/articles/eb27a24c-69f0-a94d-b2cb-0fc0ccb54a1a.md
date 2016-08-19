@@ -49,7 +49,3 @@ objNew.OLEFormat.DisplayAsIcon = True
 
 
 [OLEFormat Object](d4c7aa65-5d3a-0b79-914b-6f908b506f63.md)
-#### Other resources
-
-
-[OLEFormat Object Members](62aae4c1-c2c6-fbf7-193d-c078ea88a527.md)

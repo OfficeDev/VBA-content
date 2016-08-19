@@ -32,7 +32,3 @@ End With
 
 
 [CheckBox Object](e72b57b7-0328-9e78-94ca-ab7fb3c64afb.md)
-#### Other resources
-
-
-[CheckBox Object Members](f23d6b68-17f6-6238-66c8-c27f225bbd14.md)

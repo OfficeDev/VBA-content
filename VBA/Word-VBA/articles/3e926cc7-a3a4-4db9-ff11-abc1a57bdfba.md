@@ -23,7 +23,3 @@ When a field is locked, you cannot update the field results.
 
 
 [MailMergeField Object](8beb6228-079c-008c-10aa-3f8f711fcf5c.md)
-#### Other resources
-
-
-[MailMergeField Object Members](c50297da-7c70-d74b-427e-60e3503ed570.md)

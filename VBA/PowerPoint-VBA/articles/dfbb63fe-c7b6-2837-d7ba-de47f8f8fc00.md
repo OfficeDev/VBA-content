@@ -18,7 +18,3 @@ Deletes the object.
 
 
 [HiLoLines Object](77a7ae91-daf3-4c35-1f39-067d2698fb43.md)
-#### Other resources
-
-
-[HiLoLines Object Members](02a65ed2-a3f8-0b09-b133-2c0843a8859f.md)

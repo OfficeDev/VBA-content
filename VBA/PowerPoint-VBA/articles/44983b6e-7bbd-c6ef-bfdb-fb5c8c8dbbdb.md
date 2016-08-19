@@ -23,7 +23,3 @@ Use this property to set the thickness of the floor. The default thickness is ze
 
 
 [Floor Object](ed9ff3d1-8001-840c-d26e-7513ebe73ae9.md)
-#### Other resources
-
-
-[Floor Object Members](6572f0d3-edba-9d45-fe5b-2768d3487dfb.md)

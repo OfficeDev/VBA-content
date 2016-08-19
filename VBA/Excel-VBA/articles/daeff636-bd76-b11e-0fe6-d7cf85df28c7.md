@@ -18,7 +18,3 @@ Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e
 
 
 [ChartFormat Object](edac71b7-ed38-6658-2cbf-6493dc1ad3ed.md)
-#### Other resources
-
-
-[ChartFormat Object Members](d06de08a-72d0-46d3-e06a-86e432a9a334.md)

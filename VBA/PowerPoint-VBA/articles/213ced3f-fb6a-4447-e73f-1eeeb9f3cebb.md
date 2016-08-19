@@ -31,7 +31,3 @@ MsoRGBType
 
 
 [ExtraColors Object](8f13d8cd-be83-21d6-ebd1-855d9289a65e.md)
-#### Other resources
-
-
-[ExtraColors Object Members](e95b1113-8846-4e00-3e31-025d3a5b82b4.md)

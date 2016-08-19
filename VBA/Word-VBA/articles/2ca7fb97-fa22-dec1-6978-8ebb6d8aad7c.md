@@ -27,5 +27,5 @@ End With
 #### Other resources
 
 
-[ChartFont Object Members](10401f1b-2444-deb5-9877-ab0fb6a690dd.md)
+
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

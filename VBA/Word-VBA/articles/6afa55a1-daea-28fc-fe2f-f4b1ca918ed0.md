@@ -18,7 +18,3 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 
 [Legend Object](f0122074-87b7-0225-3c6c-406103fa4c29.md)
-#### Other resources
-
-
-[Legend Object Members](1f7b2d54-ba9a-badf-dfcd-d4768aef4708.md)

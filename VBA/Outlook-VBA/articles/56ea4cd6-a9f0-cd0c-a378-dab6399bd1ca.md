@@ -76,7 +76,3 @@ End Function
 
 
 [FormDescription Object](c88f92c4-4cac-84b3-6118-1150d42d7cff.md)
-#### Other resources
-
-
-[FormDescription Object Members](664724e9-e74b-32ad-93e4-8d4cb27b3082.md)

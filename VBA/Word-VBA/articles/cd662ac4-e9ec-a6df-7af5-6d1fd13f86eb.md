@@ -37,7 +37,3 @@ End With
 
 
 [ChartColorFormat Object](8bc25b6c-3691-fc85-fcc6-d21ed3f903b9.md)
-#### Other resources
-
-
-[ChartColorFormat Object Members](f3bbb759-bbc1-366c-a6ce-151c47580fa7.md)

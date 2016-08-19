@@ -41,7 +41,3 @@ End With
 
 
 [CommandEffect Object](2ae803e4-1c94-46d0-45ac-38a62dc15b00.md)
-#### Other resources
-
-
-[CommandEffect Object Members](286951b6-7632-de87-ecb8-847dc3b05758.md)

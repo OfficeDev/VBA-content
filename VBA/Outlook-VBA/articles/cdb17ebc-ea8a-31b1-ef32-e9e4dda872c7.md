@@ -27,4 +27,4 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 
 
 [Item Types and Message Classes](http://msdn.microsoft.com/library/15b709cc-7486-b6c7-88a3-4a4d8e0ab292%28Office.15%29.aspx)
-[RemoteItem Object Members](15c0872e-88cc-9b9b-c31e-c15d6971e6e0.md)
+

@@ -46,7 +46,3 @@ The following example modifies the first link in the shared workspace site to po
 
 
 [Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
-#### Other resources
-
-
-[SharedWorkspaceLink Object Members](fa8d7312-77cc-77b7-14ca-a6aa7f63fa7b.md)

@@ -49,8 +49,3 @@ End With
 
 [TickLabels Object](2ba878bf-3a76-1350-2bd4-615c2520f042.md)
 [ThreeDFormat Object](d6eb7b36-57df-727e-fc5b-50b8c4790c1c.md)
-#### Other resources
-
-
-[TickLabels Object Members](6e05b351-b72c-9ef4-635a-f91c94781cb1.md)
-[ThreeDFormat Object Members](8d24e2d8-6579-5a14-f403-aaa77b6ed0a6.md)

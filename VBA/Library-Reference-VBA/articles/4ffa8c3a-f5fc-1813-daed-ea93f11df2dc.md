@@ -28,7 +28,3 @@ For example, the policy item might contain code to transform the document into a
 
 
 [PolicyItem Object](aced7bdc-8ef7-2621-f188-f3c1d44ab6dc.md)
-#### Other resources
-
-
-[PolicyItem Object Members](a2e43e08-64bb-f052-78a2-0618e2df46fc.md)

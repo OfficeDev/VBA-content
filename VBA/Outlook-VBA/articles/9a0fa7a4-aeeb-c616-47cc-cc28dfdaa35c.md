@@ -25,7 +25,3 @@ If an item has  **[Conflicts.Count](4a7445ff-8628-50d6-f4c0-ada85f3b3f5c.md)** o
 
 
 [JournalItem Object](6e850295-39f9-47b8-e866-9622e9958c69.md)
-#### Other resources
-
-
-[JournalItem Object Members](13a0cd10-44bc-a167-c613-93985f698d95.md)
