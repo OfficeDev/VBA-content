@@ -5,7 +5,7 @@
     {
       "docset_name": "VBAContent",
       "build_source_folder": "VBA",
-      "build_output_subfolder": "VBA",
+      "build_output_subfolder": "VBAContent",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -15,6 +15,21 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "VBA",
+      "build_source_folder": "VBA",
+      "build_output_subfolder": "VBA",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.MSDN.Modern"
     }
   ],
   "notification_subscribers": [
@@ -25,5 +40,13 @@
   "branches_to_filter": [
     "live"
   ],
-  "skip_source_output_uploading": false
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes.MSDN.Modern",
+      "url": "https://github.com/Microsoft/templates.msdn.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ]
 }

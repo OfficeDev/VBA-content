@@ -13,7 +13,7 @@ Create tags when you want to be able to selectively work with specific members o
 
 ## Example
 
-Use the [Add](4bb8a24a-0968-3968-e460-4f5b85b04eb9.md)method to add a tag to an object. The following example adds a tag with the name "Region" and with the value "East" to slide one in the active presentation.
+Use the [Add](4bb8a24a-0968-3968-e460-4f5b85b04eb9.md) method to add a tag to an object. The following example adds a tag with the name "Region" and with the value "East" to slide one in the active presentation.
 
 
 ```vb
