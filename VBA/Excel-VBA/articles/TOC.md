@@ -4859,6 +4859,7 @@
 ####[Protection Property](46bf2025-46cf-81ae-4864-2d6266dab173.md)
 ####[ProtectionMode Property](465e2405-c9f3-83ac-f68d-ff9172375e1f.md)
 ####[ProtectScenarios Property](7b0aacea-00f3-7f0a-2be1-693f0efbec88.md)
+####[Queries Property](29ee16cb-b6f2-2358-7e1a-3b1e7f9cf654.md)
 ####[QueryTables Property](1228c6e0-f8d9-87a3-2fbf-1526f5229f1b.md)
 ####[Range Property](9a323305-c822-ef9e-1cc8-ec077a976834.md)
 ####[Rows Property](5d07304e-a3c9-2a75-b2ba-4a7b16ce6516.md)
