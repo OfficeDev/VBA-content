@@ -1,4 +1,3 @@
-#[Excel VBA](VBA-Excel.md)
 #Concepts
 ##Getting Started
 ###[About the PowerPivot Model Object in Excel](baa95a62-53d2-4c5f-bff7-bcc7323d6a20.md)
