@@ -1,20 +1,9 @@
 
 # Project VBA reference
-The Project developer reference contains Help for Visual Basic for Applications (VBA) that includes conceptual overviews, sample code, and references to help you develop solutions with Project. Many of the topics are unchanged from VBA Help in Project. New reporting features in Project integrate Office Art and add the related VBA classes.
+
+This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Project.
 
  >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
-
-Project adds nine new classes, 297 new members, and three new enumerations with 229 constants. Most of the new members are for classes such as  **Chart**,  **Report**,  **ReportTable**,  **Series**,  **Shape**, and  **ShapeRange** that integrate Office Art with the new reporting features in Project. The new classes help to programmatically manage charts and reports, and integrate with Office Art features in Word, Excel, and PowerPoint. Because the Project implementation of Office Art is similar to the Excel implementation, you can use related classes in Excel for more information. For example, see [Chart Object (Excel)](http://msdn.microsoft.com/en-us/library/ff194426.aspx) and [Shapes Object (Excel)](http://msdn.microsoft.com/en-us/library/ff841148.aspx) for more information about the **Chart** class and the **Shapes** class.
-
- **Note**   **F1 Help** In Project, context-sensitive help is available only when you can access the Microsoft Developer Network (MSDN) online. Some class members, particularly for the new classes, do not have internal Help ID values, and so are not accessible with F1 Help. Enumerations also do not have Help ID values. You can browse the class properties, methods, and enumerations to get information about those members.The Help IDs were recently updated on MSDN online; if you get the wrong page for a class or member, try pressing  **F1** again for that item. Some items also have duplicate Help IDs, which sends you to a redirector landing page where you can choose the correct topic.
-
-When you highlight a class or member in the Visual Basic Object Browser or a code window and press F1, Help displays the class or member topic. To find a topic, you can also use the  **Search** field or the **Table of Contents** in the **Project Help** window. Enumerations and constants are not accessible with F1 Help.
-
-The Project Developer Reference (VBA Help) is accessible from the following locations:
-
--  **From the Microsoft Download Center.** Updates to this reference are periodically published to the Microsoft Download Center. The Project SDK download includes the files necessary to browse VBA Help on your local machine. To download the latest version, see the [Project 2013 SDK Download](https://www.microsoft.com/en-us/download/details.aspx?id=30435) in the Microsoft Download Center.
-    
-The Project developer reference contains the following sections:
 
 - [Getting Started with VBA in Office](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/7208a87a-a567-41d9-af5b-0df3884c58d9.md): Provides insight into how VBA programming can help to customize Office solutions.
     
@@ -25,18 +14,4 @@ The Project developer reference contains the following sections:
 - **How-to Topics**: Provides step-by-step instructions for developing custom Project solutions.
     
 - **Reference**: Provides reference materials for the Project object model.
-
-## Running macros and VBA code in the ribbon
-
-Project and Project can run macros or VBA code from custom groups in the Fluent user interface (the ribbon). You can also add commands to run COM add-ins to the ribbon, if you have signed the macros or made security settings to allow running macros. In the Backstage view, choose the  **Options** command to open the **Project Options** dialog box. To set security options for macros and add-ins, choose **Trust Center** in the left pane of the **Project Options** dialog box, and then choose **Trust Center Settings**. 
-
-To manually add macros to the ribbon, choose  **Customize Ribbon** in the left pane of the **Project Options** dialog box, and then do the following:
-
-
-1. In the right  **Customize the Ribbon** list, create a custom group on the tab that you want. Select the new group.
     
-2. In the  **Choose commands from** drop-down list on the left, choose **Macros**.
-    
-3. Add the macro you want to the custom ribbon group. Commands can be added only to custom groups.
-    
-To programmatically add items to the ribbon, see the  **[SetCustomUI](d4dd1b08-8f74-1d55-bc53-dc44744415af.md)** method.
