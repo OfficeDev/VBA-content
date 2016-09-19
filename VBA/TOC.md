@@ -2,7 +2,7 @@
 ## [Access VBA](VBA-Access.md)
 ### [Access VBA Reference](Access-VBA/articles/TOC.md)
 ## [Excel VBA](VBA-Excel.md)
-### [Excel VBA](Excel-VBA/articles/TOC.md)
+### [Concepts](Excel-VBA/articles/TOC.md)
 ## [Language Reference VBA](VBA-Language-Reference.md)
 ### [Language Reference VBA](Language-Reference-VBA/articles/TOC.md)
 ## [Library Reference VBA](VBA-Library-Reference.md)
