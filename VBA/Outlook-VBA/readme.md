@@ -1,4 +1,4 @@
-# Outlook VBA reference
+#[Outlook VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Outlook.
 
@@ -15,5 +15,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 - **How-to Topics**: Provides step-by-step instructions for developing custom Outlook solutions.
     
 - **Reference**: Provides reference materials for the Outlook object model.
-
-#[Table of contents](articles/TOC.md)

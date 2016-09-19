@@ -1,4 +1,4 @@
-# Word VBA reference
+#[Word VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Word.
 
@@ -15,5 +15,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 - **How-to Topics**: Provides step-by-step instructions for developing custom Word solutions.
     
 - **Reference**: Provides reference materials for the Word object model.
-
-#[Table of contents](articles/TOC.md)

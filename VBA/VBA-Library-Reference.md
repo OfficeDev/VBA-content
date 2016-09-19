@@ -1,5 +1,5 @@
 
-# VBA library reference
+# Library reference VBA
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Office. 
 

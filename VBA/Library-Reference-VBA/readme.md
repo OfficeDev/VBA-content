@@ -1,4 +1,4 @@
-# VBA library reference
+#[Library reference VBA](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing Office solutions.
 
@@ -15,5 +15,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 - **How-to Topics**: Provides step-by-step instructions for developing custom Office solutions.
     
 - **Reference**: Provides reference materials for the Office object model.
-
-#[Table of contents](articles/TOC.md)

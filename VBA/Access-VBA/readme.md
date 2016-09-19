@@ -1,4 +1,4 @@
-# Access VBA reference
+#[Access VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Access.
 
@@ -15,5 +15,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 - **How-to Topics**: Provides step-by-step instructions for developing custom Access solutions.
     
 - **Reference**: Provides reference materials for the Access object model.
-
-#[Table of contents](articles/TOC.md)

@@ -1,4 +1,4 @@
-# Excel VBA reference
+#[Excel VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Excel
 
@@ -16,4 +16,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
     
 - **Reference**: Provides reference materials for the Excel object model.
 
-#[Table of contents](articles/TOC.md)

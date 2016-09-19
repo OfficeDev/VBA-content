@@ -1,4 +1,4 @@
-# Office shared reference
+#[Office shared VBA ](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing Office solutions.
 
@@ -16,4 +16,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
     
 - **Reference**: Provides reference materials for the Office object model.
 
-#[Table of contents](articles/TOC.md)
