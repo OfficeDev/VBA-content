@@ -1,4 +1,19 @@
+# Access VBA reference
 
-<!--This is the start of the TOC-->
-#[Access VBA reference](articles/0e9c6fa4-3289-4a13-b409-354c70129308.md)
+This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Access.
+
+
+ >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
+
+
+- [Getting Started with VBA in Office](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/7208a87a-a567-41d9-af5b-0df3884c58d9.md): Provides insight into how VBA programming can help to customize Office solutions.
+    
+- [What's New for VBA in Office 2016](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/c0294abb-bc0e-495d-b387-4398378dd3ad.md): Lists the new VBA language elements for Office 2016.
+    
+- **Concepts**: Provides important concepts for developing custom Access solutions.
+    
+- **How-to Topics**: Provides step-by-step instructions for developing custom Access solutions.
+    
+- **Reference**: Provides reference materials for the Access object model.
+
 #[Table of contents](articles/TOC.md)
