@@ -188,7 +188,7 @@
 ###[Count Property](95bf1792-7ab2-ade2-b301-cd896855f116.md)
 ###[Item Property](1f644e28-1988-e22a-b83b-033d1354d09c.md)
 ###[Parent Property](51b83a15-7da5-a6dd-ec04-28b00f368ea0.md)
-#[AllForms Object](b90616b9-90fc-bb51-6bfa-b149dece0f1b.md)
+##[AllForms Object](b90616b9-90fc-bb51-6bfa-b149dece0f1b.md)
 ###[Application Property](fc74b94a-8a5a-a2b9-e534-5530d11d2907.md)
 ###[Count Property](1540145e-541d-10fc-249b-9fadc6861a11.md)
 ###[Item Property](07536c98-57e1-8660-b35e-0e79e4e797cb.md)
