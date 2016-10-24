@@ -4707,6 +4707,7 @@
 ###[PrintPreview Method](044afc4c-74d6-3ea6-1811-2c7d9cdc5b1a.md)
 ###[Protect Method](0e270b93-7b0b-cc68-c7c0-4002024f4292.md)
 ###[ProtectSharing Method](26660bc6-136a-ffc8-987e-c96db9c08231.md)
+###[PublishToDocs Method](8e2a3208-6cfa-4aac-8c1c-76c0c826461a.md)
 ###[PurgeChangeHistoryNow Method](7ea42af1-051b-400d-cb87-0736c49d74fb.md)
 ###[RefreshAll Method](c1a956dc-263c-5c24-3b51-fc4af22dcd33.md)
 ###[RejectAllChanges Method](a53670da-370c-9ac8-75b8-008625495c2b.md)
