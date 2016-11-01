@@ -15,5 +15,3 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 - **How-to Topics**: Provides step-by-step instructions for developing custom PowerPoint solutions.
     
 - **Reference**: Provides reference materials for the PowerPoint object model.
-
-#[Table of contents](articles/TOC.md)
