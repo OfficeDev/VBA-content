@@ -12,13 +12,26 @@ After an error has been handled, the information in the  **MacroError** object i
 
 The  **MacroError** object contains information about only one error at a time. If more than one error has occurred in a macro, the **MacroError** object contains information about only the last one.
 
-The  **MacroError** object does not contain information about run-time errors that occur when running Visual Basic for Applications (VBA) code. See[Elements of Run-Time Error Handling](a0e06a1e-2709-aa51-92d0-340788a31a8a.md) for more information about handling run-time errors in VBA.
+The  **MacroError** object does not contain information about run-time errors that occur when running Visual Basic for Applications (VBA) code. See[Elements of Run-Time Error Handling](http://msdn.microsoft.com/library/a0e06a1e-2709-aa51-92d0-340788a31a8a%28Office.15%29.aspx) for more information about handling run-time errors in VBA.
 
+
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[ActionName](1ccb5787-8bc3-2576-6bcf-154273fa4cc0.md)|
+|[Arguments](0c5a6589-bd2c-e818-c9b0-5d3bc094c368.md)|
+|[Condition](4210aff0-6f94-9b09-3a03-bbfb2f2b2494.md)|
+|[Description](50db8fe9-dd48-f337-ed25-3e00aabb83fd.md)|
+|[MacroName](9f36dde0-4b4f-67ef-0b84-765c8e848097.md)|
+|[Number](e9aa6784-d133-5ebb-055e-a6527574c4a0.md)|
 
 ## See also
 
 
-#### Concepts
+#### Other resources
 
 
-[Access Object Model Reference](2de134a4-6c5c-d2a3-8377-f4dd973ba650.md)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
