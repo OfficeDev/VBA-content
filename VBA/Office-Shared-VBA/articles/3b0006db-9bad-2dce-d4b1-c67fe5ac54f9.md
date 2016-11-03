@@ -29,14 +29,21 @@ End Sub
 ```
 
 
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application](65ecee81-f689-a72e-6b77-91142dcbfe18.md)|
+|[Count](0c1dafe0-d89e-d7b4-1461-5c78db47cae9.md)|
+|[Creator](9554018d-322d-dc5d-787a-c0b0e9f9da44.md)|
+|[Item](f47adb68-5cfb-c3d0-e887-5a6d587a51b3.md)|
+
 ## See also
 
 
-#### Concepts
-
-
-[Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 #### Other resources
 
 
-[WorkflowTasks Object Members](a627f77c-fd47-ef66-edbd-9b4c4fcd9920.md)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

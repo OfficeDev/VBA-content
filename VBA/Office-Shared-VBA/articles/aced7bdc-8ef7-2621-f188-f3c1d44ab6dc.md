@@ -33,14 +33,24 @@ End Sub
 ```
 
 
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application](08c7efa1-7675-a327-67e1-db4f78fdf286.md)|
+|[Creator](cef768a9-8c16-25dd-a596-7a9d2aa85bc3.md)|
+|[Data](4ffa8c3a-f5fc-1813-daed-ea93f11df2dc.md)|
+|[Description](3eaa6a5a-0606-5f1d-9ead-f7d92328173f.md)|
+|[Id](b94f1822-78c9-ecad-e11b-002eae5e9762.md)|
+|[Name](73dd5470-a229-d4a3-ded1-9821693e1a2a.md)|
+|[Parent](280c24b7-bcab-4f61-ad10-e7cf13d47dd5.md)|
+
 ## See also
 
 
-#### Concepts
-
-
-[Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 #### Other resources
 
 
-[PolicyItem Object Members](a2e43e08-64bb-f052-78a2-0618e2df46fc.md)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
