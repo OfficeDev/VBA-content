@@ -15,11 +15,27 @@ Use the  **[IsSelected](a8fb9430-0477-2417-0dba-e30e9f8ebe8d.md)** property to d
 Use the  **[IsRemovable](9fff5f32-2ac4-5ed3-c6d5-10962de8b34f.md)** property to determine if a navigation folder can be removed from the **NavigationFolders** collection and the **[IsSideBySide](00a49ce6-ad74-1f24-2aaa-e79a3409c9c9.md)** property to return or set the viewing mode for a navigation folder associated with a **[CalendarModule](9203024d-9cef-75e0-600f-f3899e24761a.md)** object.
 
 
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application](23b09ccd-ea8a-68a1-401b-122319a581ce.md)|
+|[Class](deffea9a-2171-6ec5-2c55-c37d98960b40.md)|
+|[DisplayName](51bdcbaf-0fa7-8cba-953d-13da4a5abc27.md)|
+|[Folder](0d8edd40-3f8d-dc2b-5cba-80ed1662cc48.md)|
+|[IsRemovable](9fff5f32-2ac4-5ed3-c6d5-10962de8b34f.md)|
+|[IsSelected](a8fb9430-0477-2417-0dba-e30e9f8ebe8d.md)|
+|[IsSideBySide](00a49ce6-ad74-1f24-2aaa-e79a3409c9c9.md)|
+|[Parent](a257247d-1308-fa8b-a07c-33b41c0740ca.md)|
+|[Position](cfa86104-c191-51f8-4da3-dc3c26d6a7ed.md)|
+|[Session](f31a9538-4ebe-80f1-aa93-4d7de8e0bb7e.md)|
+
 ## See also
 
 
 #### Other resources
-
 
 
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

@@ -18,7 +18,7 @@ Use the  **[FieldType](84a40f6f-72fe-61e5-d85c-7a7c90f3e58a.md)** property to de
 The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](c4c6257e-fdbe-c187-86c5-34bee3eb0bd3.md)** collection of the current **[TableView](026e27f8-1655-060d-e8cc-87eaaf4f1510.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
-```vb
+```
 Private Sub DisplayTableViewFields() 
  
  Dim objTableView As TableView 
@@ -57,9 +57,9 @@ Private Sub DisplayTableViewFields()
  
  With objViewField 
  
- strOutput = strOutput &; .ColumnFormat.Label &; _ 
+ strOutput = strOutput &amp; .ColumnFormat.Label &amp; _ 
  
- " (" &; .ViewXMLSchemaName &; ")" &; vbCrLf 
+ " (" &amp; .ViewXMLSchemaName &amp; ")" &amp; vbCrLf 
  
  End With 
  
@@ -75,15 +75,32 @@ Private Sub DisplayTableViewFields()
  
  End If 
  
-End Sub
+End Sub 
+ 
+
 ```
 
+
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Align](cea9e062-e338-ee1d-f769-dd5f8beef463.md)|
+|[Application](15cebb62-8ee0-9c3d-2d08-95ccf4c366fe.md)|
+|[Class](655dd5a1-8ea6-469d-e53f-f56b8760fff1.md)|
+|[FieldFormat](14064b56-65c2-1c7d-1e74-3bfa2d2ccaa7.md)|
+|[FieldType](84a40f6f-72fe-61e5-d85c-7a7c90f3e58a.md)|
+|[Label](cf104506-3eca-6695-3d3b-05022ce6fba4.md)|
+|[Parent](7f90eaba-9ba5-2bf6-91a3-3872ee052d4a.md)|
+|[Session](6836c80e-5194-0a90-477f-3ed51a91c3b6.md)|
+|[Width](d0dd6c11-bce4-3785-7686-7863466d2380.md)|
 
 ## See also
 
 
 #### Other resources
-
 
 
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
