@@ -11,7 +11,7 @@ Before you use this control for the first time in the forms designer, add the Mi
 The following is an example of the date control at runtime. This control supports Microsoft Windows themes.
 
 
-![](images/olDate_ZA10120280.gif)
+![Date](images/olDate_ZA10120280.gif)
 
 
 

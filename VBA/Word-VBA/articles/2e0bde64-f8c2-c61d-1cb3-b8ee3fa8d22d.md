@@ -2,8 +2,8 @@
 # Options.MatchFuzzyKiKu Property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![](images/fe107_ZA06051631.gif)" and "
-![](images/fe112_ZA06051635.gif)" before 
+![Symbol](images/fe107_ZA06051631.gif)" and "
+![Symbol](images/fe112_ZA06051635.gif)" before 
 ![](images/fe290_ZA06051769.gif)-row characters during a search. Read/write  **Boolean** .
 
 
@@ -17,8 +17,8 @@
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![](images/fe107_ZA06051631.gif)" and "
-![](images/fe112_ZA06051635.gif)" before 
+![Symbol](images/fe107_ZA06051631.gif)" and "
+![Symbol](images/fe112_ZA06051635.gif)" before 
 ![](images/fe290_ZA06051769.gif)-row characters during a search.
 
 

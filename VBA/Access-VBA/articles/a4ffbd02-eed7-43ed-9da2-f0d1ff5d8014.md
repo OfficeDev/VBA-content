@@ -16,4 +16,4 @@ The  **SetVariable** action has the following arguments.
 |:-----|:-----|
 |**Variable**|Enter the name of the temporary variable.|
 |**Value =**|Enter an expression that will be used to set the value for this temporary variable. Do not precede the expression with the equal ( **=** ) sign. You can click the **Build** button
-![](images/buildbut_ZA06047218.gif) to use the Expression Builder to set this argument.|
+![Builder button](images/buildbut_ZA06047218.gif) to use the Expression Builder to set this argument.|

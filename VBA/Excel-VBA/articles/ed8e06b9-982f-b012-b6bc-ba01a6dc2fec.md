@@ -37,7 +37,7 @@ Double
 - If n < 0, BesselY generates an error value.
     
 - The n-th order Bessel function of the variable x is:
-![](images/awfbsly1_ZA06051118.gif)
+![Bessel function](images/awfbsly1_ZA06051118.gif)
 
 
     

@@ -2,7 +2,7 @@
 # Project Properties Dialog Box
 
 
-![](images/avhdg002_ZA01201566.gif)
+![Project properties](images/avhdg002_ZA01201566.gif)
 
 
 
