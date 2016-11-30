@@ -16,7 +16,8 @@
 ###[Using Macros to Customize Outlook](3667798a-0398-466c-8fde-206f71fed5a1.md)
 ###[Using Visual Basic for Applications in Outlook](3dd39c7c-7b90-9c19-490f-258d795787e2.md)
 ###[Writing an Outlook Macro](60bfec1f-4cf2-a919-0985-6f071404eb70.md)
-###[Working with forms in the Visual Basic Editor](b98ed8f2-32ae-9868-ea65-5e6fa7cc34f2.md)###[Using Outlook Visual Basic for Applications to Respond to Outlook Events](560bb264-05d0-dbc6-39c2-b95b12f50ed9.md)
+###[Working with forms in the Visual Basic Editor](b98ed8f2-32ae-9868-ea65-5e6fa7cc34f2.md)
+###[Using Outlook Visual Basic for Applications to Respond to Outlook Events](560bb264-05d0-dbc6-39c2-b95b12f50ed9.md)
 ##Accounts
 ###[Using Multiple Accounts for the Same Profile on Outlook](9e06e076-d62a-37c8-4502-709da5a0b104.md)
 ###[Obtain Information for Multiple Accounts](af587ee2-429a-252f-ecb6-2f058b9a37a8.md)
