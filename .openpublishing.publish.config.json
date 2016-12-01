@@ -27,6 +27,7 @@
     "live"
   ],
   "skip_source_output_uploading": false,
+  "enable_incremental_build": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.Modern",
