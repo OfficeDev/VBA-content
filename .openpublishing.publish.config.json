@@ -22,7 +22,7 @@
   "notification_subscribers": [
     "lauragra@microsoft.com",
     "saldana@microsoft.com",
-    "v-logoff@microsoft.com"
+    "v-logoff@microsoft.com",
     "ajmay@microsoft.com"
   ],
   "branches_to_filter": [
