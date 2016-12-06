@@ -5,6 +5,7 @@
 ##[Excel VBA](VBA-Excel.md)
 ###[Concepts](Excel-VBA/articles/concepts/TOC.md)
 ###[Object model](Excel-VBA/articles/TOC.md)
+###[Graph Visual Basic reference](Excel-VBA/articles/graph/TOC.md)
 ##[Language Reference VBA](VBA-Language-Reference.md)
 ###[Contents](Language-Reference-VBA/articles/TOC.md)
 ##[Library Reference VBA](VBA-Library-Reference.md)
