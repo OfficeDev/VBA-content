@@ -1,0 +1,29 @@
+---
+title: SmartArtLayout.Application Property (Office)
+ms.prod: MULTIPLEPRODUCTS
+api_name:
+- Office.SmartArtLayout.Application
+ms.assetid: 4834cf2d-413e-bfcc-e824-d95b4a33c6c1
+---
+
+
+# SmartArtLayout.Application Property (Office)
+
+Gets an  **Application** object that represents the container application for the **SmartArtLayout** object. Read-only
+
+
+## Syntax
+
+ _expression_. **Application**
+
+ _expression_ An expression that returns a **SmartArtLayout** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+[SmartArtLayout Object](smartartlayout-object-office.md)
+

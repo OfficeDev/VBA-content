@@ -1,0 +1,32 @@
+---
+title: SortFields.Clear Method (Excel)
+keywords: vbaxl10.chm845076
+f1_keywords:
+- vbaxl10.chm845076
+ms.prod: EXCEL
+api_name:
+- Excel.SortFields.Clear
+ms.assetid: de70763b-0cad-ed83-8c16-1eaa9d31627f
+---
+
+
+# SortFields.Clear Method (Excel)
+
+Clears all the  **[SortFields](sortfields-object-excel.md)** objects.
+
+
+## Syntax
+
+ _expression_ . **Clear**
+
+ _expression_ A variable that represents a **SortFields** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+[SortFields Object](sortfields-object-excel.md)
+

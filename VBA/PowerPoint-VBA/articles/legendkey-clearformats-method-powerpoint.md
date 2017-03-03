@@ -1,0 +1,29 @@
+---
+title: LegendKey.ClearFormats Method (PowerPoint)
+ms.prod: POWERPOINT
+api_name:
+- PowerPoint.LegendKey.ClearFormats
+ms.assetid: edc50b12-715f-52dd-30f3-6cd60e43a17a
+---
+
+
+# LegendKey.ClearFormats Method (PowerPoint)
+
+Clears the formatting of the object.
+
+
+## Syntax
+
+ _expression_. **ClearFormats**
+
+ _expression_ A variable that represents a **[LegendKey](legendkey-object-powerpoint.md)** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+[LegendKey Object](legendkey-object-powerpoint.md)
+
