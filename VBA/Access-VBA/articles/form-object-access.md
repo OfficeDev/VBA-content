@@ -33,7 +33,7 @@ Each  **Form** object has a **Controls** collection, which contains all controls
 
 
 ```
-' Implicit reference. 
+ ' Implicit reference. 
 Forms!OrderForm!NewData
 ```
 
@@ -62,7 +62,7 @@ Forms!OrderForm.ctlSubForm!NewData
 ```
 
  **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](http://www.fmsinc.com/)
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
 
 
 - [Microsoft Access Form Tips and Avoiding Common Mistakes](http://www.fmsinc.com/tpapers/genaccess/formtips.mdl)
@@ -70,7 +70,7 @@ Forms!OrderForm.ctlSubForm!NewData
 - [Microsoft Office Access 2007 Form Design Tips](http://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.mdl)
     
  **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Display Pictures on a Form](http://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)
@@ -91,7 +91,7 @@ The following example shows how to use  **TextBox** controls to supply date crit
 UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.mdl).
 
  **Sample code provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 
@@ -144,7 +144,7 @@ End Sub
 
 The following example shows how to use the  **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 
 
 
