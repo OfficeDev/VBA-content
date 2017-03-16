@@ -116,6 +116,6 @@ End Sub
 
 [Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
 =======
-[Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
+
 >>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
 
