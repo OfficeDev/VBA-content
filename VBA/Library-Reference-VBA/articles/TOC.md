@@ -1,6 +1,6 @@
 #[Introduction to Library Reference](../../VBA-Library-Reference.md)
 #Concepts
-##[Getting Started with VBA in Office](7208a87a-a567-41d9-af5b-0df3884c58d9.md)
+##[Getting Started with VBA in Office](Office-Shared-VBA/articles/getting-started-with-vba-in-office.md)
 ##[What's New for VBA in Office 2016](c0294abb-bc0e-495d-b387-4398378dd3ad.md)
 ##[Getting Help on Macintosh Keywords](5aaffe18-8b58-46bc-6c68-7b4862aa8fba.md)
 ##[OLE Programmatic Identifiers](e27f70fd-9e04-a8d0-d4e8-d57076ecf9b3.md)
