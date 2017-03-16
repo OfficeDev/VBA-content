@@ -475,24 +475,12 @@ End Sub
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Microsoft Access wiki and help forum.  
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-<<<<<<< HEAD
-#### Other resources
-
-
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
-=======
-#### Concepts
-
-
 [Access Object Model Reference](object-model-access-vba-reference.md)
->>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
+
 
