@@ -1,3 +1,4 @@
+
 # Office for Mac
 
 Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.
@@ -47,6 +48,7 @@ Office 2016 for Mac supports ribbon customization using Ribbon XML. Note that th
 
 ## idMSOs compatible with Office 2016 for Mac
 For information about the idMSOs that are compatible with Office 2016 for Mac, see the following:
+<a name="idMSOs-compatible-with-Office-2016-for-Mac"></a>
 
 - [idMSOs supported in Excel for Mac](Office-Mac-VBA/idMSOExcelMac.md)
 - [idMSOs supported in PowerPoint for Mac](Office-Mac-VBA/idMSOPowerPointMac.md)
