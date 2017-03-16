@@ -9,7 +9,7 @@
 ##[Security Notes for Microsoft Office Solution Developers](Office-Shared-VBA/articles/security-notes-for-microsoft-office-solution-developers.md)
 ##[Customize the Office Fluent Ribbon by Using an Open XML Formats File](Office-Shared-VBA/articles/customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
 ##[Customize the Office Fluent Ribbon by Using a Managed COM Add-in](Office-Shared-VBA/articles/customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
-#[Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
+# Reference
 ##[BulletFormat2 Object](bulletformat2-object-office.md)
 ###[Application Property](bulletformat2-application-property-office.md)
 ###[Character Property](bulletformat2-character-property-office.md)
