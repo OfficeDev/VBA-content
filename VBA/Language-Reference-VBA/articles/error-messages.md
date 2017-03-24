@@ -14,7 +14,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [#Else If, #Else, or #End If must be preceded by a matching #If](else-ifelse-or-end-if-must-be-preceded-by-a-matching-if.md)
     
-- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifels.md)
+- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifelse.md)
     
 - [<Item> is not a valid control type (Error 720)](item-is-not-a-valid-control-type-error-720.md)
     
@@ -526,7 +526,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Item' already exists in project](item-already-exists-in-project.md)
     
-- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-th.md)
+- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-the.md)
     
 - [Item' could not be loaded](item-could-not-be-loaded.md)
     
@@ -544,13 +544,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - ['Item' has an old file format. When saved, it will be saved in a newer format.](item-has-an-old-file-format-when-saved-it-will-be-saved-in-a-newer-format.md)
     
-- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](item-has-caused-an-access-violation-remove-it-from-the-list-of-available-add-in.md)
+- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](item-has-caused-an-access-violation-remove-it-from-the-list-of-available-add-ins.md)
     
 - ['Item' is a binary form and can't be loaded into Visual Basic](item-is-a-binary-form-and-can-t-be-loaded-into-visual-basic.md)
     
 - ['Item' is a read-only file](item-is-a-read-only-file.md)
     
-- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-projec.md)
+- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-project.md)
     
 - ['Item' property can't be read at run time (Error 393)](item-property-can-t-be-read-at-run-time-error-393.md)
     

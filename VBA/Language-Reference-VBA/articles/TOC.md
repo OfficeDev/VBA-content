@@ -186,8 +186,8 @@
 ###[Objects (Visual Basic Add-In Model)](objects-visual-basic-add-in-model.md)
 ###[Properties (Visual Basic Add-In Model)](properties-visual-basic-add-in-model.md)
 ##User Interface Help
-###[<Host application> Command (View Menu)](-host-application-command-view-menu.md)
-###[<Project Name> Properties Command (Tools Menu)](-project-name-properties-command-tools-menu.md)
+###[<Host application> Command (View Menu)](host-application-command-view-menu.md)
+###[<Project Name> Properties Command (Tools Menu)](project-name-properties-command-tools-menu.md)
 ###[Add Procedure Dialog Box](add-procedure-dialog-box.md)
 ###[Add-In Manager Command (Add-Ins Menu)](add-in-manager-command-add-ins-menu.md)
 ###[Add-In Manager Dialog Box](add-in-manager-dialog-box.md)
