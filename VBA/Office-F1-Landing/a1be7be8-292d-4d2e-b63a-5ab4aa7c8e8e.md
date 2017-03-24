@@ -1,6 +1,0 @@
-
-# Action Tag Section, Visio [Vis_DSS.chm60016]
-
-Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
-
-[Action Tag Section](http://msdn.microsoft.com/library/a05d668f-70c9-b6fa-cac1-462af37b4f8f%28Office.15%29.aspx)
