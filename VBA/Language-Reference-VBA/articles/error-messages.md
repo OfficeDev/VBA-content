@@ -10,13 +10,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
 ## In this section
 
 
-- [#Else clause must be preceded by a matching #If](-else-clause-must-be-preceded-by-a-matching-if.md)
+- [#Else clause must be preceded by a matching #If](else-clause-must-be-preceded-by-a-matching-if.md)
     
-- [#Else If, #Else, or #End If must be preceded by a matching #If](-else-ifelse-or-end-if-must-be-preceded-by-a-matching-if.md)
+- [#Else If, #Else, or #End If must be preceded by a matching #If](else-ifelse-or-end-if-must-be-preceded-by-a-matching-if.md)
     
-- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](-elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifels.md)
+- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifels.md)
     
-- [<Item> is not a valid control type (Error 720)](-item-is-not-a-valid-control-type-error-720.md)
+- [<Item> is not a valid control type (Error 720)](item-is-not-a-valid-control-type-error-720.md)
     
 - [A compatible ActiveX component must be a Visual Basic executable or a DLL](a-compatible-activex-component-must-be-a-visual-basic-executable-or-a-dll.md)
     
@@ -526,45 +526,45 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Item' already exists in project](item-already-exists-in-project.md)
     
-- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](-item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-th.md)
+- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-th.md)
     
 - [Item' could not be loaded](item-could-not-be-loaded.md)
     
-- ['Item' could not be loaded. Remove it from the list of available add-ins?](-item-could-not-be-loaded-remove-it-from-the-list-of-available-add-ins.md)
+- ['Item' could not be loaded. Remove it from the list of available add-ins?](item-could-not-be-loaded-remove-it-from-the-list-of-available-add-ins.md)
     
 - [Item' could not be registered](item-could-not-be-registered.md)
     
-- ['item' designers can only be used in DLL projects](-item-designers-can-only-be-used-in-dll-projects.md)
+- ['item' designers can only be used in DLL projects](item-designers-can-only-be-used-in-dll-projects.md)
     
-- ['item' designers cannot be private](-item-designers-cannot-be-private.md)
+- ['item' designers cannot be private](item-designers-cannot-be-private.md)
     
-- ['item' designers cannot be public in ActiveX EXE projects](-item-designers-cannot-be-public-in-activex-exe-projects.md)
+- ['item' designers cannot be public in ActiveX EXE projects](item-designers-cannot-be-public-in-activex-exe-projects.md)
     
-- ['item' designers must be public and cannot be used in Standard EXE projects](-item-designers-must-be-public-and-cannot-be-used-in-standard-exe-projects.md)
+- ['item' designers must be public and cannot be used in Standard EXE projects](item-designers-must-be-public-and-cannot-be-used-in-standard-exe-projects.md)
     
-- ['Item' has an old file format. When saved, it will be saved in a newer format.](-item-has-an-old-file-format-when-saved-it-will-be-saved-in-a-newer-format.md)
+- ['Item' has an old file format. When saved, it will be saved in a newer format.](item-has-an-old-file-format-when-saved-it-will-be-saved-in-a-newer-format.md)
     
-- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](-item-has-caused-an-access-violation-remove-it-from-the-list-of-available-add-in.md)
+- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](item-has-caused-an-access-violation-remove-it-from-the-list-of-available-add-in.md)
     
-- ['Item' is a binary form and can't be loaded into Visual Basic](-item-is-a-binary-form-and-can-t-be-loaded-into-visual-basic.md)
+- ['Item' is a binary form and can't be loaded into Visual Basic](item-is-a-binary-form-and-can-t-be-loaded-into-visual-basic.md)
     
-- ['Item' is a read-only file](-item-is-a-read-only-file.md)
+- ['Item' is a read-only file](item-is-a-read-only-file.md)
     
-- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](-item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-projec.md)
+- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-projec.md)
     
-- ['Item' property can't be read at run time (Error 393)](-item-property-can-t-be-read-at-run-time-error-393.md)
+- ['Item' property can't be read at run time (Error 393)](item-property-can-t-be-read-at-run-time-error-393.md)
     
-- ['Item' property can't be set at run time (Error 382)](-item-property-can-t-be-set-at-run-time-error-382.md)
+- ['Item' property can't be set at run time (Error 382)](item-property-can-t-be-set-at-run-time-error-382.md)
     
-- ['Item' property is read-only (Error 383)](-item-property-is-read-only-error-383.md)
+- ['Item' property is read-only (Error 383)](item-property-is-read-only-error-383.md)
     
-- ['Item' property is write-only (Error 394)](-item-property-is-write-only-error-394.md)
+- ['Item' property is write-only (Error 394)](item-property-is-write-only-error-394.md)
     
-- ['Item' will not be loaded. Name is already in use](-item-will-not-be-loaded-name-is-already-in-use.md)
+- ['Item' will not be loaded. Name is already in use](item-will-not-be-loaded-name-is-already-in-use.md)
     
-- ['item1' is an invalid key. The file 'item2' can't be loaded](-item1-is-an-invalid-key-the-file-item2-can-t-be-loaded.md)
+- ['item1' is an invalid key. The file 'item2' can't be loaded](item1-is-an-invalid-key-the-file-item2-can-t-be-loaded.md)
     
-- ['item1' is referenced by 'item2' project and cannot be updated.](-item1-is-referenced-by-item2-project-and-cannot-be-updated.md)
+- ['item1' is referenced by 'item2' project and cannot be updated.](item1-is-referenced-by-item2-project-and-cannot-be-updated.md)
     
 - [Label not defined](label-not-defined.md)
     

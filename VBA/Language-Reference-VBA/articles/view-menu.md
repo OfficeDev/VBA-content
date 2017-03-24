@@ -27,5 +27,5 @@ ms.assetid: 1c6bc77b-0a89-6c5d-eec7-30bb29ad67c9
 [Toolbox](toolbox-command-view-menu.md)
 [Tab Order](tab-order-command-view-menu.md)
 [Toolbars](toolbars-command-view-menu.md)
-[<Host application>](-host-application-command-view-menu.md)
+[<Host application>](host-application-command-view-menu.md)
 

@@ -10,9 +10,9 @@ ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
 ## In this section
 
 
-- [<Host application> Command (View Menu)](-host-application-command-view-menu.md)
+- [<Host application> Command (View Menu)](host-application-command-view-menu.md)
     
-- [<Project Name> Properties Command (Tools Menu)](-project-name-properties-command-tools-menu.md)
+- [<Project Name> Properties Command (Tools Menu)](project-name-properties-command-tools-menu.md)
     
 - [Add Procedure Dialog Box](add-procedure-dialog-box.md)
     

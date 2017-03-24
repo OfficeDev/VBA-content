@@ -16,6 +16,6 @@ ms.assetid: dd4368a8-d7d6-5705-cce1-907a69a77422
 
 [Options](options-command-tools-menu.md)
 
-[<Project> Properties](-project-name-properties-command-tools-menu.md)
+[<Project> Properties](project-name-properties-command-tools-menu.md)
 [Digital Signature](digital-signature-command-tools-menu.md)
 
