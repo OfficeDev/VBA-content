@@ -1,0 +1,12 @@
+---
+title: Group Properties Section, Visio [Vis_DSS.chm2065]
+keywords: vis_dss.chm2065
+f1_keywords:
+- vis_dss.chm2065
+ms.prod: MULTIPLEPRODUCTS
+ms.assetid: b17e2564-736b-435a-8bdf-00100012a2f5
+---
+
+
+# Group Properties Section, Visio [Vis_DSS.chm2065]
+
