@@ -7,7 +7,8 @@ ms.assetid: db761a48-6696-425a-bb56-f3620f164b70
 ---
 
 
-# 
+# XGridOrigin Cell (Ruler &amp; Grid Section), Visio [Vis_DSS.chm1155]
+
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 

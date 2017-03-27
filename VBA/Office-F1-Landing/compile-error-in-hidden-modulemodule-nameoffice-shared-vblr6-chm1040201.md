@@ -7,7 +7,7 @@ ms.assetid: 655a5952-3260-4fb5-9203-3e4ac8e002ae
 ---
 
 
-# 
+# Compile error in hidden module: <module name>, Office Shared [vblr6.chm1040201]
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 

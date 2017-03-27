@@ -6,8 +6,7 @@ ms.prod: MULTIPLEPRODUCTS
 ms.assetid: c263ab90-8bc2-4026-9e4e-11e3ab53f61c
 ---
 
-
-# 
+# YGridSpacing Cell (Ruler &amp; Grid Section), Visio [Vis_DSS.chm1210]
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 

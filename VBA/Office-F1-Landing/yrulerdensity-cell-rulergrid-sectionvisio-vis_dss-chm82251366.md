@@ -7,7 +7,7 @@ ms.assetid: 569d9727-3307-4dcd-9d5d-665e3ee5ddad
 ---
 
 
-# 
+# YRulerDensity Cell (Ruler &amp; Grid Section), Visio [Vis_DSS.chm82251366] 
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
