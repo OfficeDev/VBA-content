@@ -29,7 +29,7 @@ The  **NotInList** event occurs when the user enters a value in the text box por
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _NewData_|Required|**String**|A string that Microsoft Access uses to pass the text the user entered in the text box portion of the combo box to the event procedure.|
-| _Response_|Required|**Integer**|The setting indicates how the  **NotInList** event was handled. The _Response_ argument can be one of the following intrinsic constants: <ul><li>**acDataErrDisplay** <p>(Default) Displays the default message to the user. You can use this when you don't want to allow the user to add a new value to the combo box list.</p> </li><li>**acDataErrContinue** <p>Doesn't display the default message to the user. You can use this when you want to display a custom message to the user. For example, the event procedure could display a custom dialog box asking if the user wanted to save the new entry. If the response is Yes, the event procedure would add the new entry to the list and set the **Response** argument to **acDataErrAdded**. If the response is No, the event procedure would set the **Response** argument to **acDataErrContinue**.</p> </li><li>**acDataErrAdded** <p>Doesn't display a message to the user but enables you to add the entry to the combo box list in the **NotInList**  event procedure. After the entry is added, Microsoft Access updates the list by re-querying the combo box. Microsoft Access then rechecks the string against the combo box list, and saves the value in the **NewData** argument in the field the combo box is bound to. If the string is not in the list, then Microsoft Access displays an error message.</p></li></ul>|
+| _Response_|Required|**Integer**|The setting indicates how the  **NotInList** event was handled. The _Response_ argument can be one of the following intrinsic constants: <ul><li>**acDataErrDisplay** (Default) Displays the default message to the user. You can use this when you don't want to allow the user to add a new value to the combo box list.</li><li>**acDataErrContinue** Doesn't display the default message to the user. You can use this when you want to display a custom message to the user. For example, the event procedure could display a custom dialog box asking if the user wanted to save the new entry. If the response is Yes, the event procedure would add the new entry to the list and set the **Response** argument to **acDataErrAdded**. If the response is No, the event procedure would set the **Response** argument to **acDataErrContinue**.</li><li>**acDataErrAdded** Doesn't display a message to the user but enables you to add the entry to the combo box list in the **NotInList**  event procedure. After the entry is added, Microsoft Access updates the list by re-querying the combo box. Microsoft Access then rechecks the string against the combo box list, and saves the value in the **NewData** argument in the field the combo box is bound to. If the string is not in the list, then Microsoft Access displays an error message.</li></ul>|
 
 ## Remarks
 
@@ -90,7 +90,7 @@ End Sub
 
 The following example shows how to use the  **NotInList** event to add an item to a bound combo box.
 
- **Sample code provided by:** Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
 
 
 
@@ -121,7 +121,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 
 
 
