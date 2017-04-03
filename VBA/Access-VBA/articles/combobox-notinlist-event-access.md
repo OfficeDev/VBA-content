@@ -56,9 +56,9 @@ To try this example, create a combo box called Colors on a form. Set the combo b
 
 Next add the following event procedure to the form. Switch to Form view and enter a new value in the text portion of the combo box. 
 
-
- **Note**  This example adds an item to an unbound combo box. When you add an item to a bound combo box, you add a value to a field in the underlying data source. In most cases you can't simply add one field in a new record ? depending on the structure of data in the table, you probably will need to add one or more fields to fulfill data requirements. For instance, a new record must include values for any fields comprising the primary key. If you need to add items to a bound combo box dynamically, you must prompt the user to enter data for all required fields, save the new record, and then re-query the combo box to display the new value. 
-
+|**Note**|
+|:-----|
+|This example adds an item to an unbound combo box. When you add an item to a bound combo box, you add a value to a field in the underlying data source. In most cases you can't simply add one field in a new record ? depending on the structure of data in the table, you probably will need to add one or more fields to fulfill data requirements. For instance, a new record must include values for any fields comprising the primary key. If you need to add items to a bound combo box dynamically, you must prompt the user to enter data for all required fields, save the new record, and then re-query the combo box to display the new value.|
 
 
 

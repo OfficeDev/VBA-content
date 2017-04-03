@@ -42,6 +42,11 @@ In a Microsoft Access project (.adp), the  **Refresh** method requeries the data
  **Note**  
 
 
+
+|**Note**|
+|:-----|
+|<ul><li>It's often faster to refresh a form or datasheet than to requery it. This is especially true if the initial query was slow to run.</li><li>Don't confuse the **Refresh** method with the [**Repaint**](form-repaint-method-access.md) method, which repaints the screen with any pending visual changes.</li></ul>|
+
 ## Example
 
 The following example uses the  **Refresh** method to update the records in the underlying record source for the form Customers whenever the form receives the focus:

@@ -29,7 +29,7 @@ The  **KeyDown** event occurs when the user presses a key while a form or contro
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required|**Integer**|A key code, such as  **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
-| _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.</p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.</p></li></ul>|
+| _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:<ul><li><b>acShiftMask</b>  The bit mask for the SHIFT key.</li><li><b>acCtrlMask</b>  The bit mask for the CTRL key.</li><li><b>acAltMask</b>  The bit mask for the ALT key.</li></ul>|
 
 ## Remarks
 

@@ -29,10 +29,7 @@ The  **TransferDatabase** method carries out the TransferDatabase action in Visu
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _TransferType_|Optional|**[AcDataTransferType](acdatatransfertype-enumeration-access.md)**|The type of transfer you want to make.|
-| _DatabaseType_|Optional|**Variant**|A string expression that's the name of one of the types of databases you can use to import, export, or link data. The DatatbaseType parameter is required for exporting and link data actions but not required for importing actions. The types or databases are:
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Microsoft Access (default)  </p></li><li><p>Jet 2.x</p></li><li><p>Jet 3.x</p></li><li><p>dBase III</p></li><li><p>dBase IV</p></li><li><p>dBase 5.0</p></li><li><p>Paradox 3.x</p></li><li><p>Paradox 4.x</p></li><li><p>Paradox 5.x</p></li><li><p>Paradox 7.x</p></li><li><p>ODBC Database  
- 
-</p></li><li><p>WSS</p></li></ul>|
+| _DatabaseType_|Optional|**Variant**|A string expression that's the name of one of the types of databases you can use to import, export, or link data. The DatatbaseType parameter is required for exporting and link data actions but not required for importing actions. The types or databases are:<ul><li><p>Microsoft Access (default)  </p></li><li><p>Jet 2.x</p></li><li><p>Jet 3.x</p></li><li><p>dBase III</p></li><li><p>dBase IV</p></li><li><p>dBase 5.0</p></li><li><p>Paradox 3.x</p></li><li><p>Paradox 4.x</p></li><li><p>Paradox 5.x</p></li><li><p>Paradox 7.x</p></li><li><p>ODBC Database</p></li><li><p>WSS</p></li></ul>|
 | _DatabaseName_|Optional|**Variant**|A string expression that's the full name, including the path, of the database you want to use to import, export, or link data.|
 | _ObjectType_|Optional|**[AcObjectType](acobjecttype-enumeration-access.md)**|The type of object to import or export.|
 | _Source_|Optional|**Variant**|A string expression that's the name of the object whose data you want to import, export, or link.|
@@ -50,9 +47,9 @@ If you import a table from another Access database that's a linked table in that
 
 The administrator of an ODBC database can disable the feature provided by the saveloginid argument, requiring all users to enter the login ID and password each time they connect to the ODBC database.
 
-
- **Note**  You can also use ActiveX Data Objects (ADO) to create a link by using the  **ActiveConnection** property for the **Recordset** object.
-
+|**Note**|
+|:-----|
+|You can also use ActiveX Data Objects (ADO) to create a link by using the  **ActiveConnection** property for the **Recordset** object.|
 
 ## Example
 

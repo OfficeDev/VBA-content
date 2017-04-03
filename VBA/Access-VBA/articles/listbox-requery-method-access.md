@@ -55,7 +55,9 @@ If you omit the object specified by expression, the  **Requery** method requerie
 If a subform control has the focus, this method only requeries the record source for the subform, not the parent form.
 
 
- **Note**  
+|**Note**|
+|:-----|
+|<ul><li>The **Requery** method updates the data underlying a form or control to reflect records that are new to or deleted from the record source since it was last queried. The **Refresh** method shows only changes that have been made to the current set of records; it doesn't reflect new or deleted records in the record source. The **Repaint** method simply repaints the specified form and its controls.</li><li>The **Requery** method doesn't pass control to the operating system to allow Windows to continue processing messages. Use the **DoEvents** function if you need to relinquish temporary control to the operating system.</li><li>The **Requery** method is faster than the **Requery** action. When you use the **Requery** action, Microsoft Access closes the query and reloads it from the database. When you use the **Requery** method, Microsoft Access reruns the query without closing and reloading it.</li></ul>|  
 
 
 ## Example

@@ -78,12 +78,10 @@ To set an option that's a member of an option group, specify the index number of
 Application.SetOption "Selection Behavior", 1
 ```
 
-
- **Note**  
-
-When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.
-
-
+|**Note**|
+|:-----|
+|When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.|
+  
 ## See also
 
 

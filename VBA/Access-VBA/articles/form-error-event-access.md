@@ -29,9 +29,7 @@ The Error event occurs when a run-time error is produced in Microsoft Access whe
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _DataErr_|Required|**Integer**|The error code returned by the Err object when an error occurs. You can use the DataErr argument with the Error function to map the number to the corresponding error message. |
-| _Response_|Required|**Integer**|The setting determines whether or not an error message is displayed. The Response argument can be one of the following intrinsic constants. 
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acDataErrContinue</b>  Ignore the error and continue without displaying the default Microsoft Access error message. You can supply a custom error message in place of the default error message.  
-  </p></li><li><p><b>acDataErrDisplay</b>  (Default) Display the default Microsoft Access error message.</p></li></ul>|
+| _Response_|Required|**Integer**|The setting determines whether or not an error message is displayed. The Response argument can be one of the following intrinsic constants.<ul><li><p><b>acDataErrContinue</b>  Ignore the error and continue without displaying the default Microsoft Access error message. You can supply a custom error message in place of the default error message.</p></li><li><p><b>acDataErrDisplay</b>  (Default) Display the default Microsoft Access error message.</p></li></ul>|
 
 ## Remarks
 
@@ -76,7 +74,7 @@ End Sub
 The following example shows how you can replace a default error message with a custom error message.
 
  **Sample code provided by:**
-![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
 
 
 
@@ -108,7 +106,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 

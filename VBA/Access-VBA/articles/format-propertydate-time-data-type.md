@@ -27,18 +27,13 @@ The following table shows the predefined  **Format** property settings for the D
 |General Date|(Default) If the value is a date only, no time is displayed; if the value is a time only, no date is displayed. This setting is a combination of the Short Date and Long Time settings. Examples: 4/3/93, 05:34:00 PM, and 4/3/93 05:34:00 PM.|
 |Long Date|Same as the Long Date setting in the regional settings of Windows. Example: Saturday, April 3, 1993.|
 |Medium Date|Example: 3-Apr-93.|
-|Short Date|Same as the Short Date setting in the regional settings of Windows. Example: 4/3/93.
- **Caution**  The Short Date setting assumes that dates between 1/1/00 and 12/31/29 are twenty-first century dates (that is, the years are assumed to be 2000 to 2029). Dates between 1/1/30 and 12/31/99 are assumed to be twentieth century dates (that is, the years are assumed to be 1930 to 1999).
-
-|
+|Short Date|Same as the Short Date setting in the regional settings of Windows. Example: 4/3/93.<table><tr><th>**Caution**</th></tr><tr><td>The Short Date setting assumes that dates between 1/1/00 and 12/31/29 are twenty-first century dates (that is, the years are assumed to be 2000 to 2029). Dates between 1/1/30 and 12/31/99 are assumed to be twentieth century dates (that is, the years are assumed to be 1930 to 1999).</td></tr></table>|
 |Long Time|Same as the setting on the  **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
 |Medium Time|Example: 5:34 PM.|
 |Short Time|Example: 17:34.|
  **Custom Formats**
 
 You can create custom date and time formats by using the following symbols.
-
-
 
 |**Symbol**|**Description**|
 |:-----|:-----|
@@ -75,15 +70,14 @@ You can create custom date and time formats by using the following symbols.
 |AMPM|Twelve-hour clock with the appropriate morning/afternoon designator as defined in the regional settings of Windows.|
 Custom formats are displayed according to the settings specified in the regional settings of Windows. Custom formats inconsistent with the settings specified in the regional settings of Windows are ignored.
 
-
- **Note**  If you want to add a comma or other separator to a custom format, enclose the separator in quotation marks as follows: mmm d", "yyyy.
+|**Note**|
+|:-----|  
+|If you want to add a comma or other separator to a custom format, enclose the separator in quotation marks as follows: mmm d", "yyyy.|
 
 
 ## Example
 
 The following are examples of custom date/time formats.
-
-
 
 |**Setting**|**Display**|
 |:-----|:-----|
@@ -91,6 +85,7 @@ The following are examples of custom date/time formats.
 |mmmm dd", "yyyy|June 02, 1997|
 |"This is week number "ww|This is week number 22|
 |"Today is "dddd|Today is Tuesday|
+
 You could use a custom format to display "A.D." before or "B.C." after a year depending on whether a positive or negative number is entered. To see this custom format work, create a new table field, set its data type to Number, and enter a format as follows:
 
 "A.D. " #;# " B.C."

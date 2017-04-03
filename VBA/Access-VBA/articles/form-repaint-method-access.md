@@ -39,7 +39,10 @@ Microsoft Access sometimes waits to complete pending screen updates until it fin
 This method doesn't cause a requery of the database, nor does it show new or changed records in the form's underlying record source. You can use the  **[Requery](form-requery-method-access.md)** method to requery the source of data for the form or one of its controls.
 
 
- **Note**  
+
+|**Note**|
+|:-----|
+|<ul><li>Don't confuse the **Repaint** method with the [**Refresh**](form-refresh-method-access.md) method, or with the **Refresh** command on the **Records** menu. The **Refresh** method and **Refresh** command show changes you or other users have made to the underlying record source for any of the currently displayed records in forms and datasheets. The **Repaint** method simply updates the screen when repainting has been delayed while Microsoft Access completes other tasks.</li><li>The **Repaint** method differs from the [**Echo**](application-echo-method-access.md) method in that the **Repaint** method forces a single immediate repaint, while the Echo method turns repainting on or off.</li></ul>|   
 
 
 ## Example

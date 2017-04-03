@@ -17,18 +17,12 @@ The value that you pass to the  **SetOption** method as the _setting_ argument d
 |A text box|A string|
 |A check box|A Boolean value —  **True** (-1) or **False** (0)|
 |An option button in an option group, or an option in a combo box or a list box|An integer corresponding to the option's position in the option group or list (starting with zero [0])|
+
 The following tables list the names of all options that can be set or returned from code and the tabs on which they can be found in the  **Access Options** dialog box, followed by the corresponding string argument that you must pass to the **SetOption** or **GetOption** method.
 
-## 
 
-
-
-
-### Popular Tab
-
- **Creating Databases Section**
-
-
+## Popular Tab
+**Creating Databases Section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -36,11 +30,9 @@ The following tables list the names of all options that can be set or returned f
 |**Default database folder**|Default Database Directory|
 |**Default file format**|Default File Format|
 
-### Current Database Tab
+## Current Database Tab
 
- **Application Options section**
-
-
+**Application Options section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -50,18 +42,16 @@ The following tables list the names of all options that can be set or returned f
 |**Enable Layout View for this database**|DesignWithData|
 |**Check for truncated number fields**|CheckTruncatedNumFields|
 |**Picture Property Storage Format**|Picture Property Storage Format|
- **Name AutoCorrect Options section**
 
-
+**Name AutoCorrect Options section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
 |**Track name AutoCorrect info**|Track Name AutoCorrect Info|
 |**Perform name AutoCorrect**|Perform Name AutoCorrect|
 |**Log name AutoCorrect changes**|Log Name AutoCorrect Changes|
- **Filter Lookup options for <Database Name> Database section**
 
-
+**Filter Lookup options for <Database Name> Database section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -72,11 +62,9 @@ The following tables list the names of all options that can be set or returned f
 |**Show list of values in, Records at server**|Show Values in Server|
 |**Don't display lists where more than this number of records read**|Show Values Limit|
 
-### Datasheet Tab
+## Datasheet Tab
 
- **Default colors section**
-
-
+**Default colors section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -84,9 +72,8 @@ The following tables list the names of all options that can be set or returned f
 |**Background color**|Default Background Color|
 |**Alternate background color**|_64|
 |**Gridlines color**|Default Gridlines Color|
- **Gridlines and cell effects section**
 
-
+**Gridlines and cell effects section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -94,9 +81,8 @@ The following tables list the names of all options that can be set or returned f
 |**Default gridlines showing, Vertical**|Default Gridlines Vertical|
 |**Default cell effect**|Default Cell Effect|
 |**Default column width**|Default Column Width|
+
  **Default font section**
-
-
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -106,11 +92,9 @@ The following tables list the names of all options that can be set or returned f
 |**Underline**|Default Font Underline|
 |**Italic**|Default Font Italic|
 
-### Object Designers Tab
+## Object Designers Tab
 
- **Table design section**
-
-
+**Table design section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -119,9 +103,8 @@ The following tables list the names of all options that can be set or returned f
 |**Default field type**|Default Field Type|
 |**AutoIndex on Import/Create**|AutoIndex on Import/Create|
 |**Show Property Update Option Buttons**|Show Property Update Options Buttons|
- **Query design section**
 
-
+**Query design section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -132,9 +115,8 @@ The following tables list the names of all options that can be set or returned f
 |**SQL Server Compatible Syntax (ANSI 92), Default for new databases**|ANSI Query Mode Default|
 |**Query design font, Font**|Query Design Font Name|
 |**Query design font, Size**|Query Design Font Size|
- **Forms/Reports section**
 
-
+**Forms/Reports section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -142,9 +124,8 @@ The following tables list the names of all options that can be set or returned f
 |**Form template**|Form Template|
 |**Report template**|Report Template|
 |**Always use event procedures**|Always Use Event Procedures|
- **Error checking section**
 
-
+**Error checking section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -156,11 +137,9 @@ The following tables list the names of all options that can be set or returned f
 |**Check for invalid control properties**|Invalid Control Properties Error Checking|
 |**Check for common report errors**|Common Report Errors Error Checking|
 
-### Proofing Tab
+## Proofing Tab
 
- **When correcting spelling in Microsoft Office programs section**
-
-
+**When correcting spelling in Microsoft Office programs section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -170,11 +149,9 @@ The following tables list the names of all options that can be set or returned f
 |**Suggest from main dictionary only**|Spelling suggest from main dictionary only|
 |**Dictionary Language**|Spelling dictionary language|
 
-### Advanced Tab
+## Advanced Tab
 
- **Editing section**
-
-
+**Editing section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -191,9 +168,8 @@ The following tables list the names of all options that can be set or returned f
 |**Cursor movement**|Cursor Movement|
 |**Datasheet IME control**|Datasheet Ime Control|
 |**Use Hijri Calendar**|Use Hijri Calendar|
- **Display section**
 
-
+**Display section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -204,8 +180,8 @@ The following tables list the names of all options that can be set or returned f
 |**Show Smart Tags on Forms and Reports**|Show Smart Tags on Forms and Reports|
 |**Show in Macro Design, Names column**|Show Macro Names Column|
 |**Show in Macro Design, Conditions column**|Show Conditions Column|
- **Printing section**
 
+**Printing section**
 
 
 |**Option Text**|**String Argument**|
@@ -214,18 +190,16 @@ The following tables list the names of all options that can be set or returned f
 |**Right margin**|Right Margin|
 |**Top margin**|Top Margin|
 |**Bottom margin**|Bottom Margin|
- **General section**
 
-
+**General section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
 |**Provide feedback with sound**|Provide Feedback with Sound|
 |**Use four-year digit year formatting, This database**|Four-Digit Year Formatting|
 |**Use four-year digit year formatting, All databases**|Four-Digit Year Formatting All Databases|
- **Advanced Section**
 
-
+**Advanced Section**
 
 |**Option Text**|**String Argument**|
 |:-----|:-----|
@@ -242,14 +216,8 @@ The following tables list the names of all options that can be set or returned f
 |**DDE operations, Enable DDE refresh**|Enable DDE Refresh|
 |**Command-line arguments**|Command-Line Arguments|
 
-## 
 
-
- **Note**  
-
-* If your database may run on a version of Access for a language other than the one in which you created it, then you must supply the arguments for the GetOption and SetOption methods in English.
-
-* Some options are available only within an Access database or Access project (.adp).
-
-* If you are developing a database application, add-in, library database, or referenced database, make sure that the Error Trapping option is set to 2 (Break On Unhandled Errors) when you have finished debugging your code.
+|**Note**|
+|:-----|    
+|<ul><li>If your database may run on a version of Access for a language other than the one in which you created it, then you must supply the arguments for the GetOption and SetOption methods in English.</li><li>Some options are available only within an Access database or Access project (.adp).</li><li>If you are developing a database application, add-in, library database, or referenced database, make sure that the Error Trapping option is set to 2 (Break On Unhandled Errors) when you have finished debugging your code.</li></ul>|
 
