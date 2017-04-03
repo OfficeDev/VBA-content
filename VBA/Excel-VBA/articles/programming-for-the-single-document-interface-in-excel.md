@@ -30,9 +30,10 @@ This contrasts with a multiple document interface (MDI), in which a single paren
 
 Excel 2010 uses the MDI, which means that there is a single application-level window holding all the workbooks that are open in a particular instance of Excel. The windows of the workbook can be arranged inside the Excel app window, all sharing the same Ribbon UI. SDI in Excel means that each workbook will have its own top level app window, and has its own corresponding Ribbon UI.
 
-
-    
- **Note**  There is no MDI compatibility option in Excel.
+|**Note**|
+|:-----|  
+|There is no MDI compatibility option in Excel.|
+ 
 
 In dual-monitor systems, the SDI in Excel enables side-by-side comparisons of two workbooks by dragging each workbook to a different monitor. Each workbook works independently of the other.
 
@@ -83,8 +84,10 @@ To see how SDI and MDI work inside of an instance of Excel, perform the followin
 9. Close Excel.
     
 
-    
- **Note**  You can open multiple instances of Excel by using the following command line switch:  **excel.exe /x**. This switch starts Excel in a new process.
+|**Note**|
+|:-----|  
+|You can open multiple instances of Excel by using the following command line switch:  **excel.exe /x**. This switch starts Excel in a new process.|  
+
 
 In this article, we will discuss the implementation of the SDI in the Excel UI and how it impacts programmability in Excel.
 
@@ -166,7 +169,7 @@ Special cases are listed in the following table.
 
 |**Function**|**Description**|**SDI Implications**|
 |:-----|:-----|:-----|
-| `Application.Visible`|Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.|If all windows are hidden:<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><span class="code">Application.Visible</span> becomes <span class="keyword">False</span></p></li><li><p>Setting <span class="code">Application.Visible</span> to <span class="keyword">True</span> displays all hidden windows</p></li><li><p>Opening a document via the shell only shows that window and <span class="code">Application.Visible</span> is now <span class="keyword">True</span></p></li></ul>Additionally:<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><span class="code">Application.Visible = False</span> hides everything and <span class="code">Application.Visible = True</span> displays everything, ignoring any document-level settings</p></li><li><p>If all of the windows are hidden via the window-level setting then the application-level setting toggles as well</p></li><li><p>Having at least one window displayed means that the application-level setting is <span class="keyword">True</span></p></li></ul>|
+| `Application.Visible`|Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.|If all windows are hidden:<ul><li><p><span class="code">Application.Visible</span> becomes <span class="keyword">False</span></p></li><li><p>Setting <span class="code">Application.Visible</span> to <span class="keyword">True</span> displays all hidden windows</p></li><li><p>Opening a document via the shell only shows that window and <span class="code">Application.Visible</span> is now <span class="keyword">True</span></p></li></ul>Additionally:<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><span class="code">Application.Visible = False</span> hides everything and <span class="code">Application.Visible = True</span> displays everything, ignoring any document-level settings</p></li><li><p>If all of the windows are hidden via the window-level setting then the application-level setting toggles as well</p></li><li><p>Having at least one window displayed means that the application-level setting is <span class="keyword">True</span></p></li></ul>|
 | `Application.ShowWindowsInTaskbar`| **True** if there's a separate Windows taskbar button for each open workbook. The default value is **True**. Read/write  **Boolean**.|This setting is deprecated in Excel.|
 | `Application.Caption`|Returns or sets a  **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.|Updates all windows for that instance of Excel.|
 | `Application.Hwnd`|Returns a  **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.|Will return the active window's handle.|
@@ -176,8 +179,10 @@ Special cases are listed in the following table.
 | `Workbook.WindowResize`|Occurs when any workbook window is resized.|No change in behavior. Is triggered when a workbook window (the top-level) is resized.|
 | `Window.Caption`|Returns or sets a  **Variant** value that represents the name that appears in the title bar of the document window.|No change in behavior.|
 | `Workbook.Protect(Password, Structure, Windows)`|Protects a workbook so that it cannot be modified.|Regardless of the value for the  _Windows_ parameter ( **True** or **False**), the window structure protection will NOT be enabled. No runtime error is displayed if  **True** is specified, but that portion of the procedure call will return a **NO-OP**.|
-
- **Note**  There are no changes required in custom code so that XLM commands continue to work as expected in SDI Excel.
+ 
+|**Note**|
+|:-----|  
+|There are no changes required in custom code so that XLM commands continue to work as expected in SDI Excel.|
 
 
 ## Deprecating Protect Workbook Windows
@@ -251,7 +256,7 @@ End Sub
 ```
 
 
-    The following code would then be used to remove the toolbar before closing the workbook.
+   The following code would then be used to remove the toolbar before closing the workbook.
     
 
 

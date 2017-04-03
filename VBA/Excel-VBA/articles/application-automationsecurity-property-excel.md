@@ -28,13 +28,11 @@ This property is automatically set to  **msoAutomationSecurityLow** when the app
 
 
 
-| **MsoAutomationSecurity** can be one of these **MsoAutomationSecurity** constants.|
-| **msoAutomationSecurityByUI** . Uses the security setting specified in the **Security** dialog box.|
-| **msoAutomationSecurityForceDisable** . Disables all macros in all files opened programmatically without showing any security alerts.
- **Note**  This setting does not disable Microsoft Excel 4.0 macros. If a file that contains Microsoft Excel 4.0 macros is opened programmatically, the user will be prompted to decide whether or not to open the file.
+**MsoAutomationSecurity** can be one of these **MsoAutomationSecurity** constants.
+- **msoAutomationSecurityByUI** . Uses the security setting specified in the **Security** dialog box.|
+- **msoAutomationSecurityForceDisable** . Disables all macros in all files opened programmatically without showing any security alerts.<table><tr><th>**Note**</th></tr><tr><td>This setting does not disable Microsoft Excel 4.0 macros. If a file that contains Microsoft Excel 4.0 macros is opened programmatically, the user will be prompted to decide whether or not to open the file.</td></tr></table>
+- **msoAutomationSecurityLow** . Enables all macros. This is the default value when the application is started.
 
-|
-| **msoAutomationSecurityLow** . Enables all macros. This is the default value when the application is started.|
 Setting  **[ScreenUpdating](application-screenupdating-property-excel.md)** to **False** does not affect alerts and will not affect security warnings. The **[DisplayAlerts](application-displayalerts-property-excel.md)** setting will not apply to security warnings. For example, if the user sets **DisplayAlerts** equal to **False** and **AutomationSecurity** to **msoAutomationSecurityByUI** , while the user is on Medium security level, then there will be security warnings while the macro is running. This allows the macro to trap file open errors, while still showing the security warning if the file open succeeds.
 
 

@@ -28,43 +28,8 @@ Returns an aggregate in a list or database.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Double**|Function_num - A number from 1 to 19 that specifies which function to use. 
-
-|**Function_num**|**Function**|
-|:-----|:-----|
-|1|AVERAGE|
-|2|COUNT|
-|3|COUNTA|
-|4|MAX|
-|5|MIN|
-|6|PRODUCT|
-|7|STDEV.S|
-|8|STDEV.P|
-|9|SUM|
-|10|VAR.S|
-|11|VAR.P|
-|12|MEDIAN|
-|13|MODE.SNGL|
-|14|LARGE|
-|15|SMALL|
-|16|PERCENTILE.INC |
-|17|QUARTILE.INC|
-|18|PERCENTILE.EXC|
-|19|QUARTILE.EXC|
-|
-| _Arg2_|Required| **Double**|Options - A numerical value that determines which values to ignore in the evaluation range for the function. 
-
-|**Option**|**Behavior**|
-|:-----|:-----|
-|0 or omitted|Ignore nested SUBTOTAL and AGGREGATE functions|
-|1|Ignore hidden rows, nested SUBTOTAL and AGGREGATE functions |
-|2|Ignore error values, nested SUBTOTAL and AGGREGATE functions |
-|3|Ignore hidden rows, error values, nested SUBTOTAL and AGGREGATE functions |
-|4|Ignore nothing|
-|5|Ignore hidden rows|
-|6|Ignore error values|
-|7|Ignore hidden rows and error values|
-|
+| _Arg1_|Required| **Double**|Function_num - A number from 1 to 19 that specifies which function to use.<table><tr><th>**Function_num**</th><th>**Function**</th></tr><tr><td>1</td><td>AVERAGE</td></tr><tr><td>2</td><td>COUNT</td></tr><tr><td>3</td><td>COUNTA</td></tr><tr><td>4</td><td>MAX</td></tr><tr><td>5</td><td>MIN</td></tr><tr><td>6</td><td>PRODUCT</td></tr><tr><td>7</td><td>STDEV.S</td></tr><tr><td>8</td><td>STDEV.P</td></tr><tr><td>9</td><td>SUM</td></tr><tr><td>10</td><td>VAR.S</td></tr><tr><td>11</td><td>VAR.P</td></tr><tr><td>2</td><td>MEDIAN</td></tr><tr><td>13</td><td>MODE.SNGL</td></tr><tr><td>14</td><td>LARGE</td></tr><tr><td>15</td><td>SMALL</td></tr><tr><td>16</td><td>PERCENTILE.INC </td></tr><tr><td>17</td><td>QUARTILE.INC</td></tr><tr><td>18</td><td>PERCENTILE.EXC</td></tr><tr><td>19</td><td>QUARTILE.EXC</td></tr></table>|
+| _Arg2_|Required| **Double**|Options - A numerical value that determines which values to ignore in the evaluation range for the function.<table><tr><th>**Option**</th><th>**Behavior**</th> </tr><tr><td>0 or omitted</td><td>Ignore nested SUBTOTAL and AGGREGATE functions</td> </tr><tr><td>1</td><td>Ignore hidden rows, nested SUBTOTAL and AGGREGATE functions</td> </tr><tr><td>2</td><td>Ignore error values, nested SUBTOTAL and AGGREGATE functions</td> </tr><tr><td>3</td><td>Ignore hidden rows, error values, nested SUBTOTAL and AGGREGATE functions</td> </tr><tr><td>4</td><td>Ignore nothing</td> </tr><tr><td>5</td><td>Ignore hidden rows</td> </tr><tr><td>6</td><td>Ignore error values</td> </tr><tr><td>7</td><td>Ignore hidden rows and error values</td> </tr></table>|
 | _Arg3_|Required| **Range**|Ref1 - The first numeric argument for functions that take multiple numeric arguments for which you want the aggregate value.|
 | _Arg4 - Arg 30_|Optional| **Variant**|Ref2 - Ref30 - Numeric arguments 2 to 30 for which you want the aggregate value.|
 
@@ -75,31 +40,15 @@ Double
 
 ## Remarks
 
-
-
-
 - The following constraints apply to the Ref arguments ( _Arg3 - Arg 30_ ) based on the **Function_num** value.
     
 
 |**Function_num**|**Ref1**|**Ref2**|**Ref3, Ref4, ?**|
 |:-----|:-----|:-----|:-----|
-|1-13| **Valid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul>
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul>
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul>
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>|
-|14-17| **Valid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **No references are allowed**|
+|1-13| **Valid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul><ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**<ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul><ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**<ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul> **Invalid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li></ul><ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul> **Invalid types:**<ul><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>|
+|14-17| **Valid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **Valid types:**<ul><li><p>Any cell reference</p></li><li><p>Unions</p></li><li><p>Intersections</p></li><li><p>Defined names</p></li><li><p>Structured references</p></li><li><p>Actual data</p></li><li><p>Arrays</p></li></ul>| **No references are allowed**|
 ||
+
 - If a second ref argument is required but not provided, AGGREGATE returns a #VALUE! error.
     
 - If one or more of the references are 3-D references, AGGREGATE returns the #VALUE! error value.

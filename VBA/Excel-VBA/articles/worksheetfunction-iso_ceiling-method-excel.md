@@ -29,10 +29,7 @@ Returns a number that is rounded up to the nearest integer or to the nearest mul
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - The value to be rounded.|
-| _Arg2_|Optional| **Variant**|Significance - The optional multiple to which number is to be rounded. If significance is omitted, its default value is 1.
- **Note**  The absolute value of the multiple is used, so that the ISO_CEILING function returns the mathematical ceiling irrespective of the signs of number and significance.
-
-|
+| _Arg2_|Optional| **Variant**|Significance - The optional multiple to which number is to be rounded. If significance is omitted, its default value is 1.<table><tr><th>**Note**</th></tr><tr><td>The absolute value of the multiple is used, so that the ISO_CEILING function returns the mathematical ceiling irrespective of the signs of number and significance.</td></tr></table>|
 
 ### Return Value
 

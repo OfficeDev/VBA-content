@@ -56,11 +56,9 @@ The exception to the above statement occurs when the single-cell range lies with
 
 If the range spans multiple cells then Excel creates a repeating XML List. Excel treats the selected range as all data values, so when the XML List is created, the range is shifted down by one row and the header is placed in the cell that the top of the range occupied. The insert row lies at the bottom of the shifted range.
 
-
- **Note**  
-
-
-
+|**Note**|
+|:-----|  
+|<ul><li>Excel's header detection algorithm is not used in the object model. The assumption is that no headers exist in the grid.</li><li>Auto-merge and auto-grow are disabled when creating mapped ranges in the object model.</li></ul>|
 
 ## Example
 

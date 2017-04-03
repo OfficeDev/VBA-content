@@ -30,25 +30,7 @@ Returns the serial number of the date before or after a specified number of work
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - The start date, truncated to integer.|
 | _Arg2_|Required| **Variant**|Days - The number of workdays before or after the start_date. A positive value yields a future date; a negative value yields a past date; a 0 (zero) value yields the start_date. Day-offset is truncated to an integer.|
-| _Arg3_|Optional| **Variant**|Weekend - Indicates the days of the week that are weekend days and are not considered working days. Weekend is a weekend number or string that specifies when weekends occur. Weekend number values indicate the following weekend days.
-
-|**weekend-number**|**Weekend days**|
-|:-----|:-----|
-|1 or omitted|Saturday, Sunday|
-|2|Sunday, Monday|
-|3|Monday, Tuesday |
-|4|Tuesday, Wednesday |
-|5|Wednesday, Thursday|
-|6|Thursday, Friday|
-|7|Friday, Saturday |
-|11|Sunday only|
-|12|Monday only|
-|13|Tuesday only|
-|14|Wednesday only|
-|15|Thursday only|
-|16|Friday only|
-|17|Saturday only|
-|
+| _Arg3_|Optional| **Variant**|Weekend - Indicates the days of the week that are weekend days and are not considered working days. Weekend is a weekend number or string that specifies when weekends occur. Weekend number values indicate the following weekend days.<table><tr><th>**Weekend number**</th><th>**Weekend days**</th> </tr><tr><td>1 or omitted</td><td>Saturday, Sunday</td></tr><tr><td>2</td><td>Sunday, Monday</td></tr><tr><td>3</td><td>Monday, Tuesday </td> </tr><tr><td>4</td><td>Tuesday, Wednesday</td> </tr><tr><td>5</td><td>Wednesday, Thursday</td> </tr><tr><td>6</td><td>Thursday, Friday</td></tr><tr><td>7</td><td>Friday, Saturday</td></tr><tr><td>11</td><td>Sunday only</td></tr><tr><td>12</td><td>Monday only</td></tr><tr><td>13</td><td>Tuesday only</td> </tr><tr><td>14</td><td>Wednesday only</td></tr><tr><td>15</td><td>Thursday only</td> </tr><tr><td>16</td><td>Friday only</td></tr><tr><td>17</td><td>Saturday only</td> </tr></table>|
 | _Arg4_|Optional| **Variant**|Holidays - An optional set of one or more dates that are to be excluded from the working day calendar. Holidays is a range of cells that contain the dates, or an array constant of the serial values that represent those dates. The ordering of dates or serial values in holidays can be arbitrary.|
 
 ### Return Value

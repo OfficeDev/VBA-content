@@ -56,12 +56,9 @@ You can use  **xlEMDFormat** only if you have installed and selected Taiwanese l
 The column specifiers can be in any order. If there's no column specifier for a particular column in the input data, the column is parsed with the General setting.
 
 
- **Note**  
-
-This example causes the third column to be parsed as MDY (for example, 01/10/1970), the first column to be parsed as text, and the remaining columns in the source data to be parsed with the General setting.
-
-
-
+|**Note**|
+|:-----|  
+|This example causes the third column to be parsed as MDY (for example, 01/10/1970), the first column to be parsed as text, and the remaining columns in the source data to be parsed with the General setting.|
 
 ```vb
 Array(Array(3, 3), Array(1, 2))

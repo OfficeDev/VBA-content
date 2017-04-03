@@ -41,6 +41,11 @@ There are a few things to consider when you select the standard Outlook form for
 3. Set form attributes for the custom form. 
     
 4. Publish the form. (For more information, see  [How to: Publish a Form](publish-a-form.md).)
-    
-     **Note**  
+     
+	|**Note**|
+	|:-----|  
+	|<ul><li>To make the custom form available so that you or other users can create new items in a folder, you must publish the form to the folder. If you want the form to be available to other users, publish the form to a public folder so that it is available to users who have permissions to that folder. If you want the form to be available only to you, publish it in a personal folder.</li><li>Form regions cannot be published to the server; you must deploy them by using an add-in. For more information, see [Extending a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md ).</li></ul>|
+
+
+
 

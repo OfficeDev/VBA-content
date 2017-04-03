@@ -30,7 +30,6 @@ The effect of the  **xlFileValidationPivotDefault** setting is controlled by the
 |**PivotOptions value**|**Description**|
 |:-----|:-----|
 |0|Never validate PivotTable report data caches. (Not recommended)|
-|1|Validate PivotTable report data caches in the following cases (Default setting):
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The file was opened from the Internet.</p></li><li><p>The file is an e-mail attachment.</p></li><li><p>The file was opened by using the <span class="ui">Open in Protected View</span> command of the <span class="ui">Open</span> dialog box.</p></li><li><p>The file was opened from a known unsafe location where Internet content is cached locally, or from a user-defined untrusted location. </p></li><li><p>The data cache is parsed on load when the file is opened.</p></li></ul>|
+|1|Validate PivotTable report data caches in the following cases (Default setting):<ul><li><p>The file was opened from the Internet.</p></li><li><p>The file is an e-mail attachment.</p></li><li><p>The file was opened by using the <span class="ui">Open in Protected View</span> command of the <span class="ui">Open</span> dialog box.</p></li><li><p>The file was opened from a known unsafe location where Internet content is cached locally, or from a user-defined untrusted location. </p></li><li><p>The data cache is parsed on load when the file is opened.</p></li></ul>|
 |2|Validate all PivotTable report data caches.|
 

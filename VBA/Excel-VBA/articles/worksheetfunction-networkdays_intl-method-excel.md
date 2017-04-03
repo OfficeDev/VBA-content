@@ -24,31 +24,11 @@ Returns the number of whole workdays between two dates using parameters to indic
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Start_date - The start date for which the difference is to be computed. The start_date can be earlier than, the same as, or later than the end_date.|
 | _Arg2_|Required| **Variant**|End_date - The end date for which the difference is to be computed. The start_date can be earlier than, the same as, or later than the end_date.|
-| _Arg3_|Optional| **Variant**|Weekend - Indicates the days of the week that are weekend days and are not included in the number of whole working days between start_date and end_date. Weekend is a weekend number or string that specifies when weekends occur. Weekend number values indicate the weekend days listed in the following table.
-
-|**Weekend number**|**Weekend days**|
-|:-----|:-----|
-|1 or omitted|Saturday, Sunday|
-|2|Sunday, Monday|
-|3|Monday, Tuesday |
-|4|Tuesday, Wednesday |
-|5|Wednesday, Thursday|
-|6|Thursday, Friday|
-|7|Friday, Saturday |
-|11|Sunday only|
-|12|Monday only|
-|13|Tuesday only|
-|14|Wednesday only|
-|15|Thursday only|
-|16|Friday only|
-|17|Saturday only|
-|
+| _Arg3_|Optional| **Variant**|Weekend - Indicates the days of the week that are weekend days and are not included in the number of whole working days between start_date and end_date. Weekend is a weekend number or string that specifies when weekends occur. Weekend number values indicate the weekend days listed in the following table.<table><tr><th>**Weekend number**</th><th>**Weekend days**</th> </tr><tr><td>1 or omitted</td><td>Saturday, Sunday</td></tr><tr><td>2</td><td>Sunday, Monday</td></tr><tr><td>3</td><td>Monday, Tuesday </td> </tr><tr><td>4</td><td>Tuesday, Wednesday</td> </tr><tr><td>5</td><td>Wednesday, Thursday</td> </tr><tr><td>6</td><td>Thursday, Friday</td></tr><tr><td>7</td><td>Friday, Saturday</td></tr><tr><td>11</td><td>Sunday only</td></tr><tr><td>12</td><td>Monday only</td></tr><tr><td>13</td><td>Tuesday only</td> </tr><tr><td>14</td><td>Wednesday only</td></tr><tr><td>15</td><td>Thursday only</td> </tr><tr><td>16</td><td>Friday only</td></tr><tr><td>17</td><td>Saturday only</td> </tr></table>|
 | _Arg4_|Optional| **Variant**|Holidays - An optional set of one or more dates that are to be excluded from the working day calendar. Holidays is a range of cells that contain the dates, or an array constant of the serial values that represent those dates. The ordering of dates or serial values in holidays can be arbitrary.|
 
 ### Return Value

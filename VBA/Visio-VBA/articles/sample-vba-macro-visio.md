@@ -50,55 +50,21 @@ Public Sub ShowNames()
 End Sub
 ```
 
-
- **Note**  Here is an example of the program's output, assuming drawings named Office.vsd and Recycle.vsd are open and have been saved in the specified locations. The locations shown are not those in which Visio saves drawings by default.
-
+|**Note**|
+|:-----|  
+|Here is an example of the program's output, assuming drawings named Office.vsd and Recycle.vsd are open and have been saved in the specified locations. The locations shown are not those in which Visio saves drawings by default.|
 
 
 |**Sample output**|**Description**|
 |:-----|:-----|
-|
-```
-C:\documents\drawings\Office.vsd
-```
+|```C:\documents\drawings\Office.vsd```| The name of the first drawing|
+|```Background-1```|The name of page 1|
+|```Background-2```|The name of page 2|
+|```C:\documents\drawings\Recycle.vsd```|The name of the second drawing|
+|```Page-1```|The name of page 1|
+|```Page-2```|The name of page 2|
+|```Page-3```|The name of page 3|
 
-| The name of the first drawing|
-|
-```
-Background-1
-```
-
-|The name of page 1|
-|
-```
-Background-2
-```
-
-|The name of page 2|
-|
-```
-C:\documents\drawings\Recycle.vsd
-```
-
-|The name of the second drawing|
-|
-```
-Page-1
-```
-
-|The name of page 1|
-|
-```
-Page-2
-```
-
-|The name of page 2|
-|
-```
-Page-3
-```
-
-|The name of page 3|
 You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the  **Help** menu, click **Microsoft Visual Basic Help**).
 You can find details about using a specific Visio object, property, method, enumeration, or event in this reference.
 

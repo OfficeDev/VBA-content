@@ -44,10 +44,7 @@ Saves the specified document with a new name or format. Some of the arguments fo
 | _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file,  **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False** .|
 | _LineEnding_|Optional| **Variant**|The way Word marks the line and paragraph breaks in documents saved as text files. Can be one of the following  **[WdLineEndingType](wdlineendingtype-enumeration-word.md)** constants: **wdCRLF** (default) or **wdCROnly** .|
 | _AddBiDiMarks_|Optional| **Variant**| **True** adds control characters to the output file to preserve bi-directional layout of the text in the original document.|
-| _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document.  **[WdCompatibilityMode](wdcompatibilitymode-enumeration-word.md)** constant.
- **Important**  By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.
-
-|
+| _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document.  **[WdCompatibilityMode](wdcompatibilitymode-enumeration-word.md)** constant.<table><tr><th>**Important**</th></tr><tr><td>By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.</td></tr></table>|
 
 ### Return Value
 

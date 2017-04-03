@@ -70,10 +70,7 @@ Rather than address all the existing properties, this topic focuses on the prope
 | [MDSCHEMA_ACTIONS](http://msdn.microsoft.com/en-us/library/ms126032.aspx)|||Additional Actions feature. Excel exposes server-defined actions in the shortcut menu of an OLAP PivotTable report when actions exist on the server for the selected context.|
 | [MDSCHEMA_MEASURES](http://msdn.microsoft.com/en-us/library/ms126250.aspx)|MEASURE_DISPLAY_FOLDER||Read by Excel so it can place measures in the correct display folder in the PivotTable Field List.|
 | [MDSCHEMA_MEASURES](http://msdn.microsoft.com/en-us/library/ms126250.aspx)|EXPRESSION||Read by Excel to determine whether a measure is calculated. If it is a string and not empty, Excel considers it a calculated measure.|
-| [MDSCHEMA_PROPERTIES](http://msdn.microsoft.com/en-us/library/ms126309.aspx)|PROPERTY_NAME|"MEMBER_VALUE" This schema also used for getting regular member properties. The "MEMBER_VALUE" value is a special case, but there are other usage.|Excel gets the member value property of the key attribute in a dimension by restricting to "MEMBER_VALUE" in the PROPERTY_NAME column.If the data type (DATA_TYPE) of the MEMBER_VALUE property of the key attribute of a Time dimension is  **Date**, the PivotTable exposes date filtering instead of label filtering. The actual date filtering is done based on the member value property of the key independent of which hierarchy of that dimension is filtered. 
- **Note**  Date filtering requires support for subselects (see MDPROP_MDX_SUBQUERIES above).
-
-|
+| [MDSCHEMA_PROPERTIES](http://msdn.microsoft.com/en-us/library/ms126309.aspx)|PROPERTY_NAME|"MEMBER_VALUE" This schema also used for getting regular member properties. The "MEMBER_VALUE" value is a special case, but there are other usage.|Excel gets the member value property of the key attribute in a dimension by restricting to "MEMBER_VALUE" in the PROPERTY_NAME column.If the data type (DATA_TYPE) of the MEMBER_VALUE property of the key attribute of a Time dimension is  **Date**, the PivotTable exposes date filtering instead of label filtering. The actual date filtering is done based on the member value property of the key independent of which hierarchy of that dimension is filtered.<table><tr><th>**Note**</th></tr><tr><td>Date filtering requires support for subselects (see MDPROP_MDX_SUBQUERIES above).</td></tr></table>|
 |MDSCHEMA_DISCOVER|RESTRICTIONS||Depending on usage, Excel restricts on hierarchies, levels, or measures when reading the MDSCHEMA_DISCOVER rowset to get the RESTRICTIONS. Excel reads schema row by row and finds list of restrictions for all other relevant schemas to obtain the index of the restrictions that affect Excel. The RESTRICTIONS column has a chapter handle to another row set from which Excel looks at the NAME column. In the NAME column, Excel expects to find the strings HIERARCHY_VISIBILITY, MEASURE_VISIBILITY, LEVEL_VISIBILITY (if the provider supports restriction on visibility). If Excel cannot find <xxx&gt;_VISIBILITY strings (or if MDSCHEMA_DISCOVER is not supported) it will assume that provider doesn't support returning hidden items, and it will not query for them.|
 | [MDSCHEMA_LEVELS](http://msdn.microsoft.com/en-us/library/ms126038.aspx)|LEVEL_ATTRIBUTE_HIERARCHY_NAME||Used by Excel to hide special grouping levels with system-generated names. Note that this is not needed with Microsoft SQL Server 2005 Analysis Services Service Pack 2.|
 | [MDSCHEMA_LEVELS](http://msdn.microsoft.com/en-us/library/ms126038.aspx)|CUSTOM_ROLLUP_SETTINGS|0|If not 0, Excel assumes the level has custom rollup. Excel checks this for all levels of each hierarchy, and if custom rollup is present, some operations are disabled (such as grouping).|
@@ -84,26 +81,7 @@ Rather than address all the existing properties, this topic focuses on the prope
 
 |**Property Name**|**Use**|
 |:-----|:-----|
-| **Language**|LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**. Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.  [Retrieving Cell Properties](http://msdn.microsoft.com/en-us/library/ms715853.aspx)Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: 
-
-
-```sql
-CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit] 
- AS 
-[Measures].[Internet Sales Amount]  
--  
-[Measures].[Internet Total Product Cost], 
- 
-FORMAT_STRING = "Currency", 
-BACK_COLOR = 12615680 /*R=0, G=128, B=192*/, 
-FORE_COLOR = 65408 /*R=128, G=255, B=0*/, 
-FONT_FLAGS = 3 /*Bold, Italic*/, 
-NON_EMPTY_BEHAVIOR = { [Internet Sales Amount],[Internet Total Product Cost] }, 
-VISIBLE = 1, 
-LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;
-```
-
-|
+| **Language**|<p>LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**.</p> <p>Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.</p>  <p>[Retrieving Cell Properties](http://msdn.microsoft.com/en-us/library/ms715853.aspx)</p><p>Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: </p><p>```CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]``` </p><p> ```AS``` </p><p>```[Measures].[Internet Sales Amount]```  </p><p>```-  ```</p><p>```[Measures].[Internet Total Product Cost], ```</p><p>``` ```</p><p>```FORMAT_STRING = "Currency", ```</p><p>```BACK_COLOR = 12615680 /*R=0, G=128, B=192*/, ```</p><p>```FORE_COLOR = 65408 /*R=128, G=255, B=0*/, ```</p><p>```FONT_FLAGS = 3 /*Bold, Italic*/, ```</p><p>```NON_EMPTY_BEHAVIOR = { [Internet Sales Amount],[Internet Total Product Cost] }, ```</p><p>```VISIBLE = 1, ```</p><p>```LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;```</p>|
 
 
 
