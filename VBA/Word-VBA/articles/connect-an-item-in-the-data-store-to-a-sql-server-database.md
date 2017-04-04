@@ -111,7 +111,10 @@ End Sub
     
 4. Save the document, naming it CustomerLetterGenerator.docm.
     
-     **Note**  Because it contains VBA code, you must save the document as a macro-enabled document file (.docm).
+	|**Note**|
+	|:-----|  
+	|Because it contains VBA code, you must save the document as a macro-enabled document file (.docm).|
+
 The following procedure explains how to map a content control to a sample custom XML file. You create a valid custom XML file, save the file, and then you use Visual Basic for Applications (VBA) code to add to the template document a data store that contains the information to which you want to map.
 
 
@@ -147,9 +150,11 @@ End Sub
 ```
 
 
+   	|**Note**|
+	|:-----|  
+	|There are at least three default custom XML parts that are always created with a document. These are 'Cover pages', 'Doc properties' and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the  **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`| 
     
-    
-     **Note**  There are at least three default custom XML parts that are always created with a document. These are 'Cover pages', 'Doc properties' and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the  **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`
+     
 5. Set an XML mapping on a content control that refers to a node in the added data store. To create an XML mapping, use an XPath expression that points to the node in the custom XML data part to which you want to map a content control. After you add a data store to your document (and the data store points to a valid XML file), you are ready to map one of its nodes to a content control. To do this, pass a  **String** that contains a valid **XPath** to a **ContentControl** object by using the **SetMapping** method of the **XMLMapping** object (by using the **XMLMapping** property of the **ContentControl** object). Open the Visual Basic editor and run the following VBA code to bind content controls to items in the data store.
     
 ```vb
