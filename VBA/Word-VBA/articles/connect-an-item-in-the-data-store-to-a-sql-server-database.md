@@ -183,10 +183,9 @@ End Sub
 
 You can create a Web-based application that enables users to select a company name and generate a custom letter. The Web-based application retrieves customer data from a SQL Server database, opens the customer letter template document, and creates a new document that displays customer data based on a user selection. This Web-based application does not require the use of Word or VBA. You can use your favorite managed code (Visual Basic .NET or C#) language to build this application.
 
-
- **Note**  The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site:  [http://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401](http://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
-
-
+|**Note**|
+|:-----|  
+|The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site:  [http://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401](http://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)|
 
 To build this application, do the following:
 
