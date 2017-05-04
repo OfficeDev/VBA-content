@@ -1,0 +1,12 @@
+---
+title: EnableTextProps Cell (Style Properties Section), Visio [Vis_DSS.chm315]
+keywords: vis_dss.chm315
+f1_keywords:
+- vis_dss.chm315
+ms.prod: MULTIPLEPRODUCTS
+ms.assetid: 97686638-3ffc-4e5d-84f8-a2883a328954
+---
+
+
+# EnableTextProps Cell (Style Properties Section), Visio [Vis_DSS.chm315]
+

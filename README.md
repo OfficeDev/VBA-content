@@ -1,4 +1,4 @@
-# VBA
+﻿# VBA
 The content in the VBA repository is grouped first by product, then by topic. The README.md file at the root of each topic directory specifies the structure of the articles within the topic. 
 
 For information about how to contribute to the VBA documentation, see [Contributing.md](CONTRIBUTING.md).

@@ -1,0 +1,13 @@
+---
+title: Enter, Exit Events, Office Shared [fm20.chm2000110]
+keywords: fm20.chm2000110
+f1_keywords:
+- fm20.chm2000110
+ms.prod: MULTIPLEPRODUCTS
+ms.assetid: 2833e2ed-aea1-47c9-90c0-2d1cbbec0f82
+---
+
+
+# Enter, Exit Events, Office Shared [fm20.chm2000110]
+This object has the following events:
+

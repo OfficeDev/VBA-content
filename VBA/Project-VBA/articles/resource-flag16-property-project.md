@@ -1,0 +1,42 @@
+---
+title: Resource.Flag16 Property (Project)
+ms.prod: PROJECTSERVER
+api_name:
+- Project.Resource.Flag16
+ms.assetid: 5fa75173-8038-35be-ef8d-3f96e5ba377f
+---
+
+
+# Resource.Flag16 Property (Project)
+
+ **True** if the flag associated with a **Resource** is set. Read/write **Variant**.
+
+
+## Syntax
+
+ _expression_. **Flag16**
+
+ _expression_ A variable that represents a **Resource** object.
+
+
+## Example
+
+The following example deletes all the tasks that have the  **Flag1** set to **True**.
+
+
+```vb
+Sub DeleteNonEssentialTasks() 
+ 
+ Dim T As Task ' Task object used in For Each loop 
+ 
+ ' Delete nonessential tasks in the active project. 
+ For Each T In ActiveProject.Tasks 
+ If Not (T Is Nothing) Then 
+ If T.Flag1 = True Then T.Delete 
+ End If 
+ Next T 
+ 
+End Sub
+```
+
+

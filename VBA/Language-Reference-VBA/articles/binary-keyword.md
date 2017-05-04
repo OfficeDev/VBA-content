@@ -1,0 +1,19 @@
+---
+title: Binary <keyword>
+keywords: vblr6.chm1010960
+f1_keywords:
+- vblr6.chm1010960
+ms.prod: MULTIPLEPRODUCTS
+ms.assetid: b8150ace-2d89-fabf-81a1-b65995abcd01
+---
+
+
+# Binary <keyword>
+
+The  **Binary** keyword is used in these contexts:
+
+[Open Statement](open-statement.md)
+
+[Option Compare Statement](option-compare-statement.md)
+
+

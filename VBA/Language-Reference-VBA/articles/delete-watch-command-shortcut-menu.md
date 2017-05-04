@@ -1,0 +1,15 @@
+---
+title: Delete Watch Command (Shortcut Menu)
+keywords: vbui6.chm1069904
+f1_keywords:
+- vbui6.chm1069904
+ms.prod: MULTIPLEPRODUCTS
+ms.assetid: 7ff40dcd-8722-b382-0519-f9640aa3cb7b
+---
+
+
+# Delete Watch Command (Shortcut Menu)
+
+Deletes the selected watch expression.
+
+

@@ -1,0 +1,29 @@
+---
+title: PickerResults.Application Property (Office)
+ms.prod: MULTIPLEPRODUCTS
+api_name:
+- Office.PickerResults.Application
+ms.assetid: bf1b5b3a-f430-9c2e-cd51-dc0eab0ed26c
+---
+
+
+# PickerResults.Application Property (Office)
+
+Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only
+
+
+## Syntax
+
+ _expression_. **Application**
+
+ _expression_ An expression that returns a **PickerResults** object.
+
+
+## See also
+
+
+#### Concepts
+
+
+[PickerResults Object](pickerresults-object-office.md)
+
