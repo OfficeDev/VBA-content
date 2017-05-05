@@ -14,6 +14,6 @@ ms.assetid: f95d394f-fbed-8d64-143d-a51368df158c
 
 
 
-The  **Debug** object has two methods, _.Print_ and _.Assert_. _.Print_ stringexpr sends stringexpr as output to the **Immediate** window at **Debug**[run time](vbe-glossary.md).
- _.Assert_ expression evaluates expression and, if true, breakpoints in the debugger.
+The  **Debug** object has two methods, _.Print_ and _.Assert_. _.Print_ string expr sends string expr as output to the **Immediate** window at **Debug**[run time](vbe-glossary.md).
+ _.Assert_ expression evaluates expression and, if false, breakpoints in the debugger.
 

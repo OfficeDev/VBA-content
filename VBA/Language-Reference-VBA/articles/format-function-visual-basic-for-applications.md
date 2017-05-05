@@ -13,7 +13,7 @@ ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
 
 
  **Description**
-Returns a  **Variant (String)** containing an[expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
+Returns a  **Variant (String)** containing an [expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
  **Syntax**
  **Format(**_expression_ [ **,**_format_ [ **,**_firstdayofweek_ [ **,**_firstweekofyear_ ]]] **)**
 The  **Format** function syntax has these parts:
@@ -64,16 +64,34 @@ If you are formatting a non-localized numeric string, you should use a user-defi
 
 If the calendar is Gregorian, the meaning of  _format_ expression symbols is unchanged. If the calendar is Hijri, all date format symbols (for example, _dddd_, _mmmm_, _yyyy_ ) have the same meaning but apply to the Hijri calendar. Format symbols remain in English; symbols that result in text display (for example, AM and PM) display the string (English or Arabic) associated with that symbol. The range of certain symbols changes when the calendar is Hijri.
 
+**Date Symbols**
 
 |**Symbol**|**Range**|
 |:-----|:-----|
-| _d_|1-30|
-| _dd_|1-30|
-| _ww_|1-51|
-| _mmm_|Displays full month names (Hijri month names have no abbreviations).|
-| _y_|1-355|
-| _yyyy_|100-9666|
+| _d_|1-31 (Day of month, with no leading zero).|
+| _dd_|01-31 (Day of month, with a leading zero).|
+| _w_ |1-7 (Day of week, starting with Sunday = 1)
+| _ww_|1-53 (Week of year, with no leading zero; Week 1 starts on Jan 1).|
+| _mmm_|Displays abbreviated month names (Hijri month names have no abbreviations).|
+| _mmmm_|Displays full month names.|
+| _y_|1-366 (Day of year)|
+| _yy_ |00-99 (Last two digits of year)|
+| _yyyy_ |100-9666 (Three- or Four-digit year)|
+
+**Time Symbols**
+
+|**Symbol**|**Range**
+|:-----|:-----|
+| _h_ |0-23 (1-12 with "Am" or "Pm" appended) (Hour of day, with no leading zero)|
+| _hh_ |0-23 (01-12 with "Am" or "Pm" appended) (Hour of day, with no leading zero)|
+| _n_ |0-59 (Minute of hour, with no leading zero)|
+| _nn_ |0-59 (Minute of hour, with a leading zero)|
+| _s_ |0-59 (Second of minute, with no leading zero)|
+| _ss_ |0-59 (Second of minute, with a leading zero)|
+
+
  **Example**
+ 
 This example shows various uses of the  **Format** function to format values using both named formats and user-defined formats. For the date separator ( **/** ), time separator ( **:** ), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
 
 

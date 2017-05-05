@@ -12,7 +12,7 @@ ms.assetid: ebf48367-20fb-14be-7082-a2d9de923c51
 
 # ComboBox.AllowAutoCorrect Property (Access)
 
-You can use the  **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.
+You can use the  **AllowAutoCorrect** property to specify whether the specified control will automatically correct entries made by the user. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ You can use the  **AllowAutoCorrect** property to specify whetherthe specified c
 
 ## Remarks
 
-The  **AllowAutoCorrect** property uses the following settings.
+The **AllowAutoCorrect** property will correct spelling errors in filters for ComboBoxes with **LimitToList** set to True , e.g INitial CAps as set by the Autocorrect Settings of the database and should be used with caution.
 
 
 ## See also

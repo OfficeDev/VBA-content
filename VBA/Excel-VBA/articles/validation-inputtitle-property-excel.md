@@ -12,7 +12,7 @@ ms.assetid: 77e6bb8b-1fc2-084c-69b7-31b07f8145d3
 
 # Validation.InputTitle Property (Excel)
 
-Returns or sets the title of the data-validation input dialog box. Read/write  **String** .
+Returns or sets the title of the data-validation input dialog box. Read/write  **String**. Limited to 32 characters.
 
 
 ## Syntax

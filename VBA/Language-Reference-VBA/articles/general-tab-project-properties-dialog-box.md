@@ -42,6 +42,8 @@ Lists the context ID for the specific Help topic to be called when the user sele
 
  **Conditional Compilation Arguments**
 
-Lists the constant declarations used for conditional compilation.
+Lists the constant declarations used for conditional compilation. You can set multiple constants by separating them with colons, as in the following example:
+
+`conFrenchVersion=-1:conANSI=0`
 
 

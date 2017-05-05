@@ -24,7 +24,7 @@ Returns or sets the vertical distance between the edge of the rows and the item 
 
 ## Remarks
 
-This property can be a number that indicates a measurement in points, or can be any valid  **[WdFramePosition](wdframeposition-enumeration-word.md)** constant.
+This property can be a number that indicates a measurement in points, or can be any valid  **[WdTablePosition](wdtableposition-enumeration-word.md)** constant.
 
 
 ## Example

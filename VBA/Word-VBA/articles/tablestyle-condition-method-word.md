@@ -28,7 +28,7 @@ Returns a  **[ConditionalStyle](conditionalstyle-object-word.md)** object that r
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ConditionCode_|Required| **WdConditionCode**|The are of the table to which to apply the formatting.|
+| _ConditionCode_|Required| [**WdConditionCode**](wdconditioncode-enumeration-word.md)|The area of the table to which to apply the formatting.|
 
 ## Example
 

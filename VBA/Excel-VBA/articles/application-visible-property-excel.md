@@ -21,6 +21,19 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
  _expression_ A variable that represents an **Application** object.
 
+## Example
+
+```vb
+'When used in a workbook this makes Excel invisible.
+Application.Visible = False
+
+'Waiting  five seconds, then showing Excel again.
+Application.Wait Now + TimeValue("00:00:05")
+
+'Makes Excel visible again.
+Application.Visible = True
+
+```
 
 ## See also
 

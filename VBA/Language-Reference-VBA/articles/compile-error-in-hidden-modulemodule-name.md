@@ -28,4 +28,5 @@ Possible solutions:
     
 - If you do not have access to the VBA code in the document, then contact the document author to have the code in the hidden module updated.
     
+Microsoft
 
