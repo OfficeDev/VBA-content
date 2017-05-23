@@ -57,6 +57,11 @@ American Standard Code for Information Interchange (ASCII) 7-bit character set u
 A feature that automatically formats code as you enter it by capitalizing the first letter for keywords, standardizing spacing, adding punctuation, and setting the foreground and background colors.
 
 
+## Automation object
+
+An object that is exposed to other applications or programming tools through Automation interfaces.
+
+
 ## base class
 
 Original class from which other classes can be derived by inheritance.
@@ -567,11 +572,6 @@ A type of object exposed by an application through Automation, for example,  **A
 ## object variable
 
 A variable that contains a reference to an object.
-
-
-## Automation object
-
-An object that is exposed to other applications or programming tools through Automation interfaces.
 
 
 ## parameter
