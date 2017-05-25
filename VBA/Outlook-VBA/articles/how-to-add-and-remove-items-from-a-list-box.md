@@ -1,5 +1,5 @@
 ---
-title: How to: Add and Remove Items from a List Box
+title: "How to: Add and Remove Items from a List Box"
 keywords: olfm10.chm3077205
 f1_keywords:
 - olfm10.chm3077205

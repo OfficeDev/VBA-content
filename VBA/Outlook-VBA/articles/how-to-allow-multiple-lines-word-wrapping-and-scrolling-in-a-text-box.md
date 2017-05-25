@@ -1,5 +1,5 @@
 ---
-title: How to: Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
+title: "How to: Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box"
 keywords: olfm10.chm3077220
 f1_keywords:
 - olfm10.chm3077220

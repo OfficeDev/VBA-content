@@ -1,5 +1,5 @@
 ---
-title: How to: Accept User Input and Display the Values of Controls on a Form
+title: "How to: Accept User Input and Display the Values of Controls on a Form"
 keywords: olfm10.chm3077264
 f1_keywords:
 - olfm10.chm3077264

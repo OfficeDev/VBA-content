@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Syntax error: property 'item2' in 'item3' was missing an equal sign (=).
+title: "Line 'item1': Syntax error: property 'item2' in 'item3' was missing an equal sign (=)."
 keywords: vblr6.chm60114
 f1_keywords:
 - vblr6.chm60114

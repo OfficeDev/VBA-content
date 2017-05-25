@@ -1,5 +1,5 @@
 ---
-title: How to: Resize a Control Horizontally and Vertically with the Form
+title: "How to: Resize a Control Horizontally and Vertically with the Form"
 keywords: olfm10.chm3077352
 f1_keywords:
 - olfm10.chm3077352

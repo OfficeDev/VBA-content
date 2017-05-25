@@ -1,5 +1,5 @@
 ---
-title: Bad interface for Implements: method does not return HRESULT
+title: "Bad interface for Implements: method does not return HRESULT"
 keywords: vblr6.chm1057161
 f1_keywords:
 - vblr6.chm1057161

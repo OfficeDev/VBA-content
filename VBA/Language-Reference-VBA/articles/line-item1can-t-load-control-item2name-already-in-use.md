@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Can't load control 'item2'; name already in use.
+title: "Line 'item1': Can't load control 'item2'; name already in use."
 keywords: vblr6.chm1117751
 f1_keywords:
 - vblr6.chm1117751

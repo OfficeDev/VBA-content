@@ -1,5 +1,5 @@
 ---
-title: 'item1' is referenced by 'item2' project and cannot be updated., Office Shared [vblr6.chm60058]
+title: "'item1' is referenced by 'item2' project and cannot be updated., Office Shared [vblr6.chm60058]"
 keywords: vblr6.chm60058
 f1_keywords:
 - vblr6.chm60058

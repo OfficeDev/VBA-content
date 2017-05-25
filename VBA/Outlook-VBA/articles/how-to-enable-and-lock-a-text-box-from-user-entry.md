@@ -1,5 +1,5 @@
 ---
-title: How to: Enable and Lock a Text Box from User Entry
+title: "How to: Enable and Lock a Text Box from User Entry"
 keywords: olfm10.chm3077184
 f1_keywords:
 - olfm10.chm3077184

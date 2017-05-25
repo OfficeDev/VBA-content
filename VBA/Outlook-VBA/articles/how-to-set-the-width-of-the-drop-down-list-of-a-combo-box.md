@@ -1,5 +1,5 @@
 ---
-title: How to: Set the Width of the Drop-Down List of a Combo Box
+title: "How to: Set the Width of the Drop-Down List of a Combo Box"
 keywords: olfm10.chm3077209
 f1_keywords:
 - olfm10.chm3077209

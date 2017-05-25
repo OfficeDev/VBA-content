@@ -1,5 +1,5 @@
 ---
-title: 'Item' property is read-only (Error 383), Office Shared [vblr6.chm383]
+title: "'Item' property is read-only (Error 383), Office Shared [vblr6.chm383]"
 keywords: vblr6.chm383
 f1_keywords:
 - vblr6.chm383

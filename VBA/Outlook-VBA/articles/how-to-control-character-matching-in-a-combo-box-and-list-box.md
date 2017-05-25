@@ -1,5 +1,5 @@
 ---
-title: How to: Control Character Matching in a Combo Box and List Box
+title: "How to: Control Character Matching in a Combo Box and List Box"
 keywords: olfm10.chm3077212
 f1_keywords:
 - olfm10.chm3077212

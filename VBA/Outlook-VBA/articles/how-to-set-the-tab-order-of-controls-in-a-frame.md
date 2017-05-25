@@ -1,5 +1,5 @@
 ---
-title: How to: Set the Tab Order of Controls in a Frame
+title: "How to: Set the Tab Order of Controls in a Frame"
 keywords: olfm10.chm3077250
 f1_keywords:
 - olfm10.chm3077250

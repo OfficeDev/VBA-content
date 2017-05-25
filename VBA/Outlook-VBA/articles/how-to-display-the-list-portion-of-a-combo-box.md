@@ -1,5 +1,5 @@
 ---
-title: How to: Display the List Portion of a Combo Box
+title: "How to: Display the List Portion of a Combo Box"
 keywords: olfm10.chm3077183
 f1_keywords:
 - olfm10.chm3077183

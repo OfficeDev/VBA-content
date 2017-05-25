@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Property 'item2' in 'item3' had an invalid file reference.
+title: "Line 'item1': Property 'item2' in 'item3' had an invalid file reference."
 keywords: vblr6.chm60108
 f1_keywords:
 - vblr6.chm60108

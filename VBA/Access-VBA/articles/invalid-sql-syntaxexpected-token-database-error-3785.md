@@ -1,5 +1,5 @@
 ---
-title: Invalid SQL syntax - expected token: Database (Error 3785)
+title: "Invalid SQL syntax - expected token: Database (Error 3785)"
 keywords: jeterr40.chm5003785
 f1_keywords:
 - jeterr40.chm5003785

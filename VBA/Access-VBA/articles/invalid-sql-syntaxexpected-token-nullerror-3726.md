@@ -1,5 +1,5 @@
 ---
-title: Invalid SQL syntax - Expected token: NULL. (Error 3726)
+title: "Invalid SQL syntax - Expected token: NULL. (Error 3726)"
 keywords: jeterr40.chm5003726
 f1_keywords:
 - jeterr40.chm5003726

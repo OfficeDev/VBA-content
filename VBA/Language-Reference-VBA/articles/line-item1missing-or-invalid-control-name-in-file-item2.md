@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Missing or invalid control name in file 'item2'.
+title: "Line 'item1': Missing or invalid control name in file 'item2'."
 keywords: vblr6.chm60126
 f1_keywords:
 - vblr6.chm60126

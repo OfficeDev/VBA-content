@@ -1,5 +1,5 @@
 ---
-title: How to: Allow a Command Button to Take Focus Upon Clicking
+title: "How to: Allow a Command Button to Take Focus Upon Clicking"
 keywords: olfm10.chm3077253
 f1_keywords:
 - olfm10.chm3077253

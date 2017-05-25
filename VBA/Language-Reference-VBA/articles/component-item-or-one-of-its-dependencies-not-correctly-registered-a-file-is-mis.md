@@ -1,5 +1,5 @@
 ---
-title: Component 'item' or one of its dependencies not correctly registered: a file is missing or invalid
+title: "Component 'item' or one of its dependencies not correctly registered: a file is missing or invalid"
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: f77e11fb-a7e3-5b70-69dd-9744bb8f1ccd
 ---

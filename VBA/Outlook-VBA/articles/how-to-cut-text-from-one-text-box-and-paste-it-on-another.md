@@ -1,5 +1,5 @@
 ---
-title: How to: Cut Text from One Text Box and Paste it on Another
+title: "How to: Cut Text from One Text Box and Paste it on Another"
 keywords: olfm10.chm3077171
 f1_keywords:
 - olfm10.chm3077171
