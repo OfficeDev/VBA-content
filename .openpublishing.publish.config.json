@@ -8,33 +8,29 @@
       "build_source_folder": "VBA",
       "build_output_subfolder": "VBA",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
+      "build_entry_point": "op",
+      "version": 0
     }
   ],
   "notification_subscribers": [
     "lauragra@microsoft.com",
     "saldana@microsoft.com",
-    "v-logoff@microsoft.com",
-    "ajmay@microsoft.com"
+    "johnau@microsoft.com",
+    "v-logoff@microsoft.com"
   ],
   "branches_to_filter": [
     "live"
   ],
   "skip_source_output_uploading": false,
+  "enable_incremental_build": true,
   "dependent_repositories": [
-    {
-      "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
