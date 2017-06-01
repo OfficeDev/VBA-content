@@ -32,9 +32,30 @@ You may want to receive the latest changes made by another user when the data is
 |Data visualization|Your add-in plots data points on a map based on location data found in a particular range in the workbook. If a user edits any of the location data, all the remote users should receive this change so that each user's map can be updated.|
 |Navigation task pane|Your add-in displays all current workbook tabs in a task pane for easy navigation. If a user adds a worksheet, all the remote users should receive this change so that each user's task pane can display a link to the new worksheet.|
 
-### Example
+### Data visualization example
 
-This example enables you to 
+In this example, we've created a range of locations in London, UK and inserted a Bing map. We are sharing the workbook with someone in a different city. The macro in the first example changes the longitude of Camden Town. With autosave on, the change is passed to the remote user who catches the change with the **AfterRemoteChange** event.
+
+Select cell in location range and change longitude value.
+```vb
+Sub longitudeChange()
+
+    Range("A5").Select
+    ActiveCell.FormulaR1C1 = "51.5390111,-0.1425553"
+End Sub
+
+```
+```vb
+Private Sub Workbook_AfterRemoteChange()
+    If Range("A1").Value <> True Then
+        Range("A1").Value = True
+        'Insert code to modify workbook further
+    End If
+End Sub
+```
+
+Figure 1.
+![london locations](images/londonLocations.png) 
 
 ```vb
 'TODO: do: Visualization
