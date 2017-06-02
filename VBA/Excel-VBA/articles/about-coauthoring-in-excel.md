@@ -7,17 +7,21 @@ ms.assetid: about-coauthoring-in-excel
 
 # About co-authoring in Excel
 
-Learn about how co-authoring works in Excel and how to you may need to adjust your add-in/macro for smooth integration with co-authoring.
+Learn about how co-authoring works in Excel 2016 for O365 subscribers and how you may need to adjust your add-in/macro for smooth integration with co-authoring.
 
 ## About co-authoring
 
 Co-authoring enables you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. If you're not ready for others to see your changes, then you can turn off [AutoSave](../../Office-Shared-VBA/articles/about-autosave.md) until you're ready to share your changes and receive others' changes.
 
-**IMPORTANT**: Previously, add-in/macro code was written with the assumption that the code would be run in the context of a single, local user and didn't have to factor in remote users. However, with co-authoring, if a user runs code which only sets or changes the values of local variable without updating the workbook, then such changes are not pushed to other users.
+**IMPORTANT**: Each instance of Add-in or macro code runs independently and maintains its own internal state.
 
-### **Example scenario**
+### Example scenario
 
+Imagine an add-in that allows the user to create custom maps based on data in an Excel workbook. This add-in loads and saves information about the user's maps into a hidden sheet in the file. When a file containing the custom maps is opened, the add-in reads data on the hidden sheet and loads the map into memory. As the user makes edits to the map, this in-memory structure is updated and re-written to the file before each save. This add-in assumes that the only time it is necessary to read the hidden sheet and load it into memory is when the file is opened. Co-authoring opens another possibility: the hidden sheet could be modified by another user running the same add-in at the same time. If this occurs, the maps that the users are viewing might become out of sync. For example, suppose User A opens the file and starts viewing an existing custom map. While she is doing this, User B opens the same file and starts making changes to the custom map (for example, changes the zoom level of the map). That change would be saved to the sheet by the add-in on User B’s computer, but User A would never see the change until she reloaded the file.
 
+### Workaround
+
+- As much as possible try to avoid making assumptions about when workbook data can be changed. In this case, the developer could modify the add-in to react to the **AfterRemoteChange** event and check the hidden sheet’s values to see if they need to be read again by the add-in to allow User A to view the map changes that User B made.
 
 ## Integration with co-authoring events
 
