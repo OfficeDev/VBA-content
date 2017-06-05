@@ -1,4 +1,4 @@
-#[Word VBA reference](articles/TOC.md)
+# [Word VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Word.
 
