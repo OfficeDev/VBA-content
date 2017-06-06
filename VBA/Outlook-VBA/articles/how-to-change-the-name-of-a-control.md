@@ -1,5 +1,5 @@
 ---
-title: How to: Change the Name of a Control
+title: "How to: Change the Name of a Control"
 keywords: olmain11.chm1045891
 f1_keywords:
 - olmain11.chm1045891

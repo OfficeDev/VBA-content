@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Class 'item2' of control 'item3' was not a loaded control class.
+title: "Line 'item1': Class 'item2' of control 'item3' was not a loaded control class."
 keywords: vblr6.chm1117745
 f1_keywords:
 - vblr6.chm1117745

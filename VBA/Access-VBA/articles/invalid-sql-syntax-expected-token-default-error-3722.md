@@ -1,5 +1,5 @@
 ---
-title: Invalid SQL Syntax: expected token: DEFAULT (Error 3722)
+title: "Invalid SQL Syntax: expected token: DEFAULT (Error 3722)"
 keywords: jeterr40.chm5003722
 f1_keywords:
 - jeterr40.chm5003722

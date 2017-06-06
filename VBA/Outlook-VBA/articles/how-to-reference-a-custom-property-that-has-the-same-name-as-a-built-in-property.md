@@ -1,5 +1,5 @@
 ---
-title: How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control
+title: "How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control"
 keywords: olfm10.chm3077225
 f1_keywords:
 - olfm10.chm3077225

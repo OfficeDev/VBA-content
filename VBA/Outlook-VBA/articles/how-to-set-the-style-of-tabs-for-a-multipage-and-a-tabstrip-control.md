@@ -1,5 +1,5 @@
 ---
-title: How to: Set the Style of Tabs for a MultiPage and a TabStrip Control
+title: "How to: Set the Style of Tabs for a MultiPage and a TabStrip Control"
 keywords: olfm10.chm3077246
 f1_keywords:
 - olfm10.chm3077246

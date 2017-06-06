@@ -1,5 +1,5 @@
 ---
-title: How to: Use the Controls Collection to Move Controls on a Page
+title: "How to: Use the Controls Collection to Move Controls on a Page"
 keywords: olfm10.chm3077149
 f1_keywords:
 - olfm10.chm3077149

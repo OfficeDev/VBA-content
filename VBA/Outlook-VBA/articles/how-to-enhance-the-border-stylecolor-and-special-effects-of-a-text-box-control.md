@@ -1,5 +1,5 @@
 ---
-title: How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control
+title: "How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control"
 keywords: olfm10.chm3077159
 f1_keywords:
 - olfm10.chm3077159

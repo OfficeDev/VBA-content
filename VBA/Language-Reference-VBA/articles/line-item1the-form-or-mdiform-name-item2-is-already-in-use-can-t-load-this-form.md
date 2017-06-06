@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': The Form or MDIForm name 'item2' is already in use; can't load this form.
+title: "Line 'item1': The Form or MDIForm name 'item2' is already in use; can't load this form."
 keywords: vblr6.chm60119
 f1_keywords:
 - vblr6.chm60119

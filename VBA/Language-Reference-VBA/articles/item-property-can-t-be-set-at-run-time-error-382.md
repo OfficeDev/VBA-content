@@ -1,5 +1,5 @@
 ---
-title: 'Item' property can't be set at run time (Error 382)
+title: "'Item' property can't be set at run time (Error 382)"
 keywords: vblr6.chm382
 f1_keywords:
 - vblr6.chm382

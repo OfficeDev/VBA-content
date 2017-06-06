@@ -1,5 +1,5 @@
 ---
-title: How to: Specify Additional Information for a Control
+title: "How to: Specify Additional Information for a Control"
 keywords: olfm10.chm3077252
 f1_keywords:
 - olfm10.chm3077252

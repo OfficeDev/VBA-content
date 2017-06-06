@@ -1,5 +1,5 @@
 ---
-title: 'Item' could not be loaded. Remove it from the list of available add-ins?
+title: "'Item' could not be loaded. Remove it from the list of available add-ins?"
 keywords: vblr6.chm60071
 f1_keywords:
 - vblr6.chm60071

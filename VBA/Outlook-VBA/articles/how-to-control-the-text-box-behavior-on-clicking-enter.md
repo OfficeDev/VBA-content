@@ -1,5 +1,5 @@
 ---
-title: How to: Control the Text Box' Behavior on Clicking Enter
+title: "How to: Control the Text Box' Behavior on Clicking Enter"
 keywords: olfm10.chm3077185
 f1_keywords:
 - olfm10.chm3077185

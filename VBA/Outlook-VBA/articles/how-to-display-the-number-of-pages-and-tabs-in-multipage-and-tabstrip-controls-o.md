@@ -1,5 +1,5 @@
 ---
-title: How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form
+title: "How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form"
 keywords: olfm10.chm3077169
 f1_keywords:
 - olfm10.chm3077169

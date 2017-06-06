@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Can't load control 'item2'; containing control not a valid container.
+title: "Line 'item1': Can't load control 'item2'; containing control not a valid container."
 keywords: vblr6.chm1117750
 f1_keywords:
 - vblr6.chm1117750

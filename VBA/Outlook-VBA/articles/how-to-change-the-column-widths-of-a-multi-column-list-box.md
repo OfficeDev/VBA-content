@@ -1,5 +1,5 @@
 ---
-title: How to: Change the Column Widths of a Multi-Column List Box
+title: "How to: Change the Column Widths of a Multi-Column List Box"
 keywords: olfm10.chm3077166
 f1_keywords:
 - olfm10.chm3077166

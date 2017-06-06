@@ -1,5 +1,5 @@
 ---
-title: How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box
+title: "How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box"
 keywords: olfm10.chm3077181
 f1_keywords:
 - olfm10.chm3077181

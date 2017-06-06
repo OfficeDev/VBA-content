@@ -1,5 +1,5 @@
 ---
-title: How to: Align the Caption of an Option Button with the Control
+title: "How to: Align the Caption of an Option Button with the Control"
 keywords: olfm10.chm3077154
 f1_keywords:
 - olfm10.chm3077154

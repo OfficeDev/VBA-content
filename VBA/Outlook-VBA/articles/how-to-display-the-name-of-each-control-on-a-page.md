@@ -1,5 +1,5 @@
 ---
-title: How to: Display the Name of Each Control on a Page
+title: "How to: Display the Name of Each Control on a Page"
 keywords: olfm10.chm3077222
 f1_keywords:
 - olfm10.chm3077222

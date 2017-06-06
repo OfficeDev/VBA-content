@@ -1,5 +1,5 @@
 ---
-title: 'Item' property is write-only (Error 394), Office Shared [vblr6.chm1117827]
+title: "'Item' property is write-only (Error 394), Office Shared [vblr6.chm1117827]"
 keywords: vblr6.chm1117827
 f1_keywords:
 - vblr6.chm1117827

@@ -1,5 +1,5 @@
 ---
-title: Cannot delete one or more objects: <name>. (Error 3773)
+title: "Cannot delete one or more objects: <name>. (Error 3773)"
 keywords: jeterr40.chm5003773
 f1_keywords:
 - jeterr40.chm5003773

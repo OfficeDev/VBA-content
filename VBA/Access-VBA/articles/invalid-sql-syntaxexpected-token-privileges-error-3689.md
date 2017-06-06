@@ -1,5 +1,5 @@
 ---
-title: Invalid SQL syntax - expected token: Privileges (Error 3689)
+title: "Invalid SQL syntax - expected token: Privileges (Error 3689)"
 keywords: jeterr40.chm5003689
 f1_keywords:
 - jeterr40.chm5003689

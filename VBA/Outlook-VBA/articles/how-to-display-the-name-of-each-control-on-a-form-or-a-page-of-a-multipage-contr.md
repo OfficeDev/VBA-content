@@ -1,5 +1,5 @@
 ---
-title: How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control
+title: "How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control"
 keywords: olfm10.chm3077199
 f1_keywords:
 - olfm10.chm3077199

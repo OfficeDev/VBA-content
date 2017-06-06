@@ -1,5 +1,5 @@
 ---
-title: Invalid SQL Syntax: expected token: ACTION. (Error 3762)
+title: "Invalid SQL Syntax: expected token: ACTION. (Error 3762)"
 ms.prod: ACCESS
 ms.assetid: 73122947-9db6-f417-7e34-96bc4108bab3
 ---

@@ -1,5 +1,5 @@
 ---
-title: How to: Move a Text Box in Front of or Behind Another Control
+title: "How to: Move a Text Box in Front of or Behind Another Control"
 keywords: olfm10.chm3077267
 f1_keywords:
 - olfm10.chm3077267

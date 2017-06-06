@@ -1,5 +1,5 @@
 ---
-title: Line 'item1': Can't create embedded object in 'item2'
+title: "Line 'item1': Can't create embedded object in 'item2'"
 keywords: vblr6.chm60129
 f1_keywords:
 - vblr6.chm60129

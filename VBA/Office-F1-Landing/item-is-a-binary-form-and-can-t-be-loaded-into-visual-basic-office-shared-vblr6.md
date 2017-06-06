@@ -1,5 +1,5 @@
 ---
-title: 'Item' is a binary form and can't be loaded into Visual Basic, Office Shared [vblr6.chm1117762]
+title: "'Item' is a binary form and can't be loaded into Visual Basic, Office Shared [vblr6.chm1117762]"
 keywords: vblr6.chm1117762
 f1_keywords:
 - vblr6.chm1117762
