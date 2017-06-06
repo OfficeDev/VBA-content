@@ -111,9 +111,9 @@ End Sub
 
 #### Concepts
 
-[Co-authoring](about-coauthoring-in-excel.md)
+[Co-authoring](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
 
-[Workbook Object](workbook-object-excel.md)
+[Workbook Object](../../Excel-VBA/articles/workbook-object-excel.md)
 
 #### Additional resources
 
