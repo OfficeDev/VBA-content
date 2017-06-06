@@ -9,9 +9,9 @@ This reference contains conceptual overviews, programming tasks, samples, and re
 
 This documentation contains: 
 
-- [Getting Started with VBA in Office](/Office-Shared-VBA/articles/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
-
-- [What's New for VBA in Office 2016](/Office-Shared-VBA/articles/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
+- [Getting Started with VBA in Office](Office-shared-VBA/articles/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+    
+- [What's New for VBA in Office 2016](Office-shared-VBA/articles/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
     
 - **Concepts**: Provides important concepts for developing custom Office solutions.
     
