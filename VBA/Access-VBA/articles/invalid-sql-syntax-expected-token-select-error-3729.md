@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Invalid SQL Syntax: expected token: SELECT (Error 3729)
+=======
+title: "Invalid SQL Syntax: expected token: SELECT (Error 3729)"
+>>>>>>> Migration5
 ms.prod: ACCESS
 ms.assetid: 50950c31-0623-12b5-51d8-1bab021af2ed
 ---

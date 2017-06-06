@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': Did not find an index property, and control 'item2' already exists.
+=======
+title: "Line 'item1': Did not find an index property, and control 'item2' already exists."
+>>>>>>> Migration5
 keywords: vblr6.chm1117746
 f1_keywords:
 - vblr6.chm1117746

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Add a Control to a MultiPage Control
+=======
+title: "How to: Add a Control to a MultiPage Control"
+>>>>>>> Migration5
 keywords: olfm10.chm3077153
 f1_keywords:
 - olfm10.chm3077153

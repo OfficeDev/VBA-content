@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Add Scroll Bars to a Page and a Frame
+=======
+title: "How to: Add Scroll Bars to a Page and a Frame"
+>>>>>>> Migration5
 keywords: olfm10.chm3077235
 f1_keywords:
 - olfm10.chm3077235

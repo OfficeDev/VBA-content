@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'item' has caused an access violation. Remove it from the list of available Add-Ins?
+=======
+title: "'item' has caused an access violation. Remove it from the list of available Add-Ins?"
+>>>>>>> Migration5
 keywords: vblr6.chm60146
 f1_keywords:
 - vblr6.chm60146

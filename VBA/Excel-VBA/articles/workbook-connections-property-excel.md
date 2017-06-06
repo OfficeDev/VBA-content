@@ -24,7 +24,11 @@ The  **Connections** property establishes a connection between the workbook and 
 
 ## Example
 
+<<<<<<< HEAD
 The following exmaple rereshes the OBDC and OLEDB connections of the active workbook.
+=======
+The following exmaple rereshed the OBDC and OLEDB connections of the active workbook.
+>>>>>>> Migration5
 
 
 ```vb

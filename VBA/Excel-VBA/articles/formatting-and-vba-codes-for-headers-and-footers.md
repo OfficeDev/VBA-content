@@ -28,7 +28,11 @@ The following special formatting and Visual Basic for Applications (VBA) codes c
 |&;S|Turns strikethrough printing on or off.|
 |&;"fontname"|Prints the characters that follow in the specified font. Be sure to include the double quotation marks.|
 |&;nn|Prints the characters that follow in the specified font size. Use a two-digit number to specify a size in points.|
+<<<<<<< HEAD
 |&;color|Prints the characters in the specified color. User supplies a hexadecimal color value.|
+=======
+|&;color|Prints the characters in the specified color. User supplies a hexidecimal color value.|
+>>>>>>> Migration5
 |&;"+"|Prints the characters that follow in the  **Heading** font of the current theme. Be sure to include the double quotation marks.|
 |&;"-"|Prints the characters that follow in the  **Body** font of the current theme. Be sure to include the double quotation marks.|
 |&;K _xx_. _S_ _yyy_|Prints the characters that follow in the specified color from the current theme.  _xx_ is a two-digit number from 1 to 12 that specifies the theme color to use. _S_ _nnn_ specifies the shade (tint) of that theme color. Specify _S_ as + to produce a lighter shade; specify _S_ as - to produce a darker shade. _nnn_ is a three-digit whole number that specifies a percentage from 0 to 100.

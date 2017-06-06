@@ -24,7 +24,13 @@ Throughout this article, we will refer to the connection between two tables that
 Relationships join together data from previously unrelated data sources. Each relationship has a  _Primary Key_ and a _Foreign Key_. Relationships allow the data to be joined together into a single model. This allows for:
 
 
+<<<<<<< HEAD
 - Filtering data in one table by data in a related table - Filtering data by related columns
+=======
+- Filtering data in one table by data in a related table
+
+- Filtering data by related columns
+>>>>>>> Migration5
     
 - Integrating columns from multiple tables into a PivotTable/PivotChart
     

@@ -57,6 +57,14 @@ American Standard Code for Information Interchange (ASCII) 7-bit character set u
 A feature that automatically formats code as you enter it by capitalizing the first letter for keywords, standardizing spacing, adding punctuation, and setting the foreground and background colors.
 
 
+<<<<<<< HEAD
+=======
+## Automation object
+
+An object that is exposed to other applications or programming tools through Automation interfaces.
+
+
+>>>>>>> Migration5
 ## base class
 
 Original class from which other classes can be derived by inheritance.
@@ -569,11 +577,14 @@ A type of object exposed by an application through Automation, for example,  **A
 A variable that contains a reference to an object.
 
 
+<<<<<<< HEAD
 ## Automation object
 
 An object that is exposed to other applications or programming tools through Automation interfaces.
 
 
+=======
+>>>>>>> Migration5
 ## parameter
 
 Variable name by which an argument passed to a procedure is known within the procedure. This variable receives the argument passed into the procedure. Its scope ends when the procedure ends.

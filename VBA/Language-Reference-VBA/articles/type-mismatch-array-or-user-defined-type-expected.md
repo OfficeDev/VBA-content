@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Type mismatch: array or user-defined type expected
+=======
+title: "Type mismatch: array or user-defined type expected"
+>>>>>>> Migration5
 keywords: vblr6.chm1011306
 f1_keywords:
 - vblr6.chm1011306

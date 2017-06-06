@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': Can't set checked property in menu 'item2'. Parent menu can't be checked.
+=======
+title: "Line 'item1': Can't set checked property in menu 'item2'. Parent menu can't be checked."
+>>>>>>> Migration5
 keywords: vblr6.chm60116
 f1_keywords:
 - vblr6.chm60116

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': Parent menu 'item2' can't be loaded as a separator.
+=======
+title: "Line 'item1': Parent menu 'item2' can't be loaded as a separator."
+>>>>>>> Migration5
 keywords: vblr6.chm1117707
 f1_keywords:
 - vblr6.chm1117707

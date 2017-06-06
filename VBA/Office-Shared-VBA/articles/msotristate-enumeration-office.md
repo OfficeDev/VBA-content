@@ -9,7 +9,11 @@ ms.assetid: 2036cfc9-be7d-e05c-bec7-af05e3c3c515
 
 # MsoTriState Enumeration (Office)
 
+<<<<<<< HEAD
 Specifies a tri-state value.
+=======
+Specifies a tri-state  **Boolean** value.
+>>>>>>> Migration5
 
 
 

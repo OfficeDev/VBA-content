@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Control the Style and Selection Behavior of a List Box
+=======
+title: "How to: Control the Style and Selection Behavior of a List Box"
+>>>>>>> Migration5
 keywords: olfm10.chm3077208
 f1_keywords:
 - olfm10.chm3077208

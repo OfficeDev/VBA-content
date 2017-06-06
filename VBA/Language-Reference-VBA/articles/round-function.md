@@ -24,6 +24,7 @@ The  **Round** function syntax has these parts:
 | _expression_|Required. [Numeric expression](vbe-glossary.md) being rounded.|
 | _numdecimalplaces_|Optional. Number indicating how many places to the right of the decimal are included in the rounding. If omitted, integers are returned by the  **Round** function.|
 
+<<<<<<< HEAD
  **Note**
 This VBA function returns something commonly referred to as bankers rounding. So be careful before using this function. For more predictable results use Worksheet Round functions in Excel VBA:
 ```
@@ -52,3 +53,5 @@ This VBA function returns something commonly referred to as bankers rounding. So
 ?WorksheetFunction.RoundDown(0.00005,4)
  0
 ```
+=======
+>>>>>>> Migration5

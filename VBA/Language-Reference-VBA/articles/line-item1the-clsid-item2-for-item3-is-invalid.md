@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': The CLSID 'item2' for 'item3' is invalid.
+=======
+title: "Line 'item1': The CLSID 'item2' for 'item3' is invalid."
+>>>>>>> Migration5
 keywords: vblr6.chm1117755
 f1_keywords:
 - vblr6.chm1117755

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': Property 'item2' in 'item3' could not be set.
+=======
+title: "Line 'item1': Property 'item2' in 'item3' could not be set."
+>>>>>>> Migration5
 keywords: vblr6.chm1117744
 f1_keywords:
 - vblr6.chm1117744

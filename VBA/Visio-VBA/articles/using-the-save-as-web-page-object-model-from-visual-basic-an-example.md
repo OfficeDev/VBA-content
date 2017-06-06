@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Using the Save as Web Page Object Model from Visual Basic: An Example
+=======
+title: "Using the Save as Web Page Object Model from Visual Basic: An Example"
+>>>>>>> Migration5
 ms.prod: VISIO
 ms.assetid: c5833ff8-45f3-ab67-3b16-09c60238965a
 ---

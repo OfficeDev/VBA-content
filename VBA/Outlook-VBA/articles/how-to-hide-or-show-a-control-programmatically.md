@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Hide or Show a Control Programmatically
+=======
+title: "How to: Hide or Show a Control Programmatically"
+>>>>>>> Migration5
 keywords: olmain11.chm1045238
 f1_keywords:
 - olmain11.chm1045238

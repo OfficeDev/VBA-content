@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Specify Possible Values for a List Box
+=======
+title: "How to: Specify Possible Values for a List Box"
+>>>>>>> Migration5
 ms.prod: OUTLOOK
 ms.assetid: 25ced223-0a3c-162a-127f-6b2f3ee9c5bc
 ---

@@ -12,12 +12,20 @@ ms.assetid: 055c1a88-c189-ddd3-c9b2-9458817cec90
 
 # Workbook.UpdateRemoteReferences Property (Excel)
 
+<<<<<<< HEAD
  **True** if Microsoft Excel updates remote references in the workbook. Read/write **Boolean** .
+=======
+ **True** if Microsoft Excel updates remote references in the workbook. Read/write **Boolean**.
+>>>>>>> Migration5
 
 
 ## Syntax
 
+<<<<<<< HEAD
  _expression_ . **UpdateRemoteReferences**
+=======
+ _expression_.**UpdateRemoteReferences**
+>>>>>>> Migration5
 
  _expression_ A variable that represents a **Workbook** object.
 
@@ -44,4 +52,7 @@ ActiveWorkbook.UpdateRemoteReferences = True
 
 
 [Workbook Object](workbook-object-excel.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> Migration5

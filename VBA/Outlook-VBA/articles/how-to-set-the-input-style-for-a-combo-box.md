@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Set the Input Style for a Combo Box
+=======
+title: "How to: Set the Input Style for a Combo Box"
+>>>>>>> Migration5
 keywords: olfm10.chm3077245
 f1_keywords:
 - olfm10.chm3077245

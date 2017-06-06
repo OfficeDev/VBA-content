@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form
+=======
+title: "How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form"
+>>>>>>> Migration5
 keywords: olfm10.chm3077172
 f1_keywords:
 - olfm10.chm3077172

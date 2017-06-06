@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Compile error in hidden module: <module name>
+=======
+title: "Compile error in hidden module: <module name>"
+>>>>>>> Migration5
 keywords: vblr6.chm1011113
 f1_keywords:
 - vblr6.chm1011113
@@ -28,5 +32,8 @@ Possible solutions:
     
 - If you do not have access to the VBA code in the document, then contact the document author to have the code in the hidden module updated.
     
+<<<<<<< HEAD
 Microsoft
+=======
+>>>>>>> Migration5
 

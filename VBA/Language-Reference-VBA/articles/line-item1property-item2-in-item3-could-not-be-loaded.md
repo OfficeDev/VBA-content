@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Line 'item1': Property 'item2' in 'item3' could not be loaded.
+=======
+title: "Line 'item1': Property 'item2' in 'item3' could not be loaded."
+>>>>>>> Migration5
 keywords: vblr6.chm60105
 f1_keywords:
 - vblr6.chm60105

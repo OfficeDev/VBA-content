@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'item' designers can only be used in DLL projects
+=======
+title: "'item' designers can only be used in DLL projects"
+>>>>>>> Migration5
 keywords: vblr6.chm50336
 f1_keywords:
 - vblr6.chm50336

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Access a Tab in a TabStrip Control
+=======
+title: "How to: Access a Tab in a TabStrip Control"
+>>>>>>> Migration5
 keywords: olfm10.chm3077151
 f1_keywords:
 - olfm10.chm3077151

@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Set the Item at the Top of a List and the Item that Has Focus in the List
+=======
+title: "How to: Set the Item at the Top of a List and the Item that Has Focus in the List"
+>>>>>>> Migration5
 keywords: olfm10.chm3077260
 f1_keywords:
 - olfm10.chm3077260

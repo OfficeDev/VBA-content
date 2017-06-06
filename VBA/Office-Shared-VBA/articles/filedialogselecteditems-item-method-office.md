@@ -12,7 +12,11 @@ ms.assetid: 25444621-5886-3465-6773-3ea59c5f2ea2
 
 # FileDialogSelectedItems.Item Method (Office)
 
+<<<<<<< HEAD
 Gets a  **String** that corresponds to the path of one of the files by **_Index_** that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.
+=======
+Gets a  **String** that corresponds to the path of one of the files that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.
+>>>>>>> Migration5
 
 
 ## Syntax
@@ -21,7 +25,10 @@ Gets a  **String** that corresponds to the path of one of the files by **_Index_
 
  _expression_ Required. A variable that represents a **[FileDialogSelectedItems](filedialogselecteditems-object-office.md)** object.
 
+<<<<<<< HEAD
 _Index_ Required. The index is one based.
+=======
+>>>>>>> Migration5
 
 ## See also
 

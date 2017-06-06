@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Move Controls on a Page
+=======
+title: "How to: Move Controls on a Page"
+>>>>>>> Migration5
 keywords: olfm10.chm3077219
 f1_keywords:
 - olfm10.chm3077219

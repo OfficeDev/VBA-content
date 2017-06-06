@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Automatically Size a Text Box with User Input
+=======
+title: "How to: Automatically Size a Text Box with User Input"
+>>>>>>> Migration5
 keywords: olfm10.chm3077157
 f1_keywords:
 - olfm10.chm3077157

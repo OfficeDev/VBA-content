@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Invalid SQL Syntax: expected token: AS (Error 3728)
+=======
+title: "Invalid SQL Syntax: expected token: AS (Error 3728)"
+>>>>>>> Migration5
 keywords: jeterr40.chm5003728
 f1_keywords:
 - jeterr40.chm5003728

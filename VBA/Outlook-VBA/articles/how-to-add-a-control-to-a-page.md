@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Add a Control to a Page
+=======
+title: "How to: Add a Control to a Page"
+>>>>>>> Migration5
 keywords: olfm10.chm3077152
 f1_keywords:
 - olfm10.chm3077152

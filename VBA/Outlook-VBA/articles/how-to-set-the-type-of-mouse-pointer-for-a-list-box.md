@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Set the Type of Mouse Pointer for a List Box
+=======
+title: "How to: Set the Type of Mouse Pointer for a List Box"
+>>>>>>> Migration5
 keywords: olfm10.chm3077218
 f1_keywords:
 - olfm10.chm3077218

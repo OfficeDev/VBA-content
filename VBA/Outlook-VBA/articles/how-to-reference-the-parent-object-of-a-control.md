@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Reference the Parent Object of a Control
+=======
+title: "How to: Reference the Parent Object of a Control"
+>>>>>>> Migration5
 keywords: olfm10.chm3077227
 f1_keywords:
 - olfm10.chm3077227

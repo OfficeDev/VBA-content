@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: How to: Set the Height and Width of Tabs in a MultiPage and a TabStrip Control
+=======
+title: "How to: Set the Height and Width of Tabs in a MultiPage and a TabStrip Control"
+>>>>>>> Migration5
 keywords: olfm10.chm3077249
 f1_keywords:
 - olfm10.chm3077249

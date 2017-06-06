@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Bad interface for Implements: method has parameter with too many levels of indirection
+=======
+title: "Bad interface for Implements: method has parameter with too many levels of indirection"
+>>>>>>> Migration5
 keywords: vblr6.chm1057163
 f1_keywords:
 - vblr6.chm1057163

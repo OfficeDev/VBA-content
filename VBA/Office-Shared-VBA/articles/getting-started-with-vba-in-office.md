@@ -60,7 +60,11 @@ Before you begin a VBA project, ensure that you have the time to work with VBA. 
 
 ### Using Code to Make Applications Do Things
 
+<<<<<<< HEAD
 You might think that writing code is mysterious or difficult, but the basic principles use every-day reasoning and are quite accessible. Microsoft Office applications are created in such a way that they expose things called objects that can receive instructions, in much the same way that a phone is designed with buttons that you use to interact with the phone. When you press a button, the phone recognizes the instruction and includes the corresponding number in the sequence that you are dialing. In programming, you interact with the application by sending instructions to variousobjects in the application. These objects are expansive, but they have their limits. They can only do what they are designed to do, and they will only do what you instruct them to do.
+=======
+You might think that writing code is mysterious or difficult, but the basic principles use every-day reasoning and are quite accessible. Microsoft Office applications are created in such a way that they expose things called objects that can receive instructions, in much the same way that a phone is designed with buttons that you use to interact with the phone. When you press a button, the phone recognizes the instruction and includes the corresponding number in the sequence that you are dialing. In programming, you interact with the application by sending instructions to various objects in the application. These objects are expansive, but they have their limits. They can only do what they are designed to do, and they will only do what you instruct them to do.
+>>>>>>> Migration5
 
 For example, consider the user who opens a document in Word, makes a few changes, saves the document, and then closes it. In the world of VBA programming, Word exposes a Document object. By using VBA code, you can instruct the Document object to do things such as Open, Save, or Close.
 
@@ -73,7 +77,11 @@ Developers organize programming objects in a hierarchy, and that hierarchy is ca
 
 The definition of an object is called a class, so you might see these two terms used interchangeably. Technically, a class is the description or template that is used to create, or instantiate, an object.
 
+<<<<<<< HEAD
 Once an object exists, you can manipulate it by setting its properties and calling itsmethods. If you think of the object as a noun, then the properties are the adjectives that describe the noun and the methods are the verbs that animate the noun. Changing a property changes some quality of appearance or behavior of the object. Calling one of the object methods causes the object to perform some action.
+=======
+Once an object exists, you can manipulate it by setting its properties and calling its methods. If you think of the object as a noun, then the properties are the adjectives that describe the noun and the methods are the verbs that animate the noun. Changing a property changes some quality of appearance or behavior of the object. Calling one of the object methods causes the object to perform some action.
+>>>>>>> Migration5
 
 The VBA code in this article runs against an open Office application where many of the objects that the code manipulates are already up and running; for example, the Application itself, the Worksheet in Excel, the Document in Word, the Presentation in PowerPoint, the Explorer and Folder objects in Outlook. Once you know the basic layout of the object model and some key properties of the Application that give access to its current state, you can start to extend and manipulate that Office application with VBA in Office.
 
@@ -286,7 +294,11 @@ Programming can get complex quickly. It is critical, especially as a beginner, t
 
 ### Bugs and Debugging
 
+<<<<<<< HEAD
 There are two main types of programming errors: syntax errors, which violate the grammatical rules of the programming language, andrun-time errors, which look syntactically correct, but fail when VBA attempts to execute the code.
+=======
+There are two main types of programming errors: syntax errors, which violate the grammatical rules of the programming language, and run-time errors, which look syntactically correct, but fail when VBA attempts to execute the code.
+>>>>>>> Migration5
 
 Although they can be frustrating to fix, syntax errors are easy to catch; the Visual Basic Editor beeps and flashes at you if you type a syntax error in your code.
 
@@ -385,7 +397,11 @@ Sub Macro1()
 End Sub
 ```
 
+<<<<<<< HEAD
 Type or paste the code into the Visual Basic Editor and then run it. Follow the directions in the message box that appears and change the text in cell A1 from Wow! toYes! and run it again to see the power of looping. This code snippet demonstrates variables, branching and looping. Read it carefully after you see it in action and try to determine what happens as each line executes.
+=======
+Type or paste the code into the Visual Basic Editor and then run it. Follow the directions in the message box that appears and change the text in cell A1 from Wow! to Yes! and run it again to see the power of looping. This code snippet demonstrates variables, branching and looping. Read it carefully after you see it in action and try to determine what happens as each line executes.
+>>>>>>> Migration5
 
 
 ## All of My Office Applications: Example Code
@@ -414,8 +430,22 @@ Be aware that there are situations in which you might want to automate e-mail in
 
 
 ```VB.net
+<<<<<<< HEAD
 Sub DeleteEmptyRows()    SelectedRange = Selection.Rows.Count    ActiveCell.Offset(0, 0).Select    For i = 1 To SelectedRange        If ActiveCell.Value = "" Then    
             Selection.EntireRow.Delete        Else            ActiveCell.Offset(1, 0).Select        End If    Next iEnd Sub
+=======
+Sub DeleteEmptyRows()
+    SelectedRange = Selection.Rows.Count
+    ActiveCell.Offset(0, 0).Select
+    For i = 1 To SelectedRange
+        If ActiveCell.Value = "" Then
+            Selection.EntireRow.Delete
+        Else
+            ActiveCell.Offset(1, 0).Select
+        End If
+    Next i
+End Sub
+>>>>>>> Migration5
 ```
 
 Be aware that you can select a column of cells and run this macro to delete all rows in the selected column that have a blank cell.

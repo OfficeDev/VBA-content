@@ -39,8 +39,12 @@ The  **ControlType** property setting is an intrinsic constant that specifies th
 |**acLabel**|[Label](label-control-access.md)|
 |**acLine**|[Line](line-control.md)|
 |**acListBox**|[List box](list-box-control.md)|
+<<<<<<< HEAD
 |**acObjectFrame**|[Unbound object frame](unbound-object-frame-control.md)|
 |**113** (no constant)|[Chart](chart-control.md)|
+=======
+|**acObjectFrame**|[Unbound object frame](unbound-object-frame-control.md)or [Chart](chart-control.md)|
+>>>>>>> Migration5
 |**acOptionButton**|[Option button](option-button-control.md)|
 |**acOptionGroup**|[Option group](option-group-control.md)|
 |**acPage**|[Page](page.md)|

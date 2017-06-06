@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'item' designers must be public and cannot be used in Standard EXE projects
+=======
+title: "'item' designers must be public and cannot be used in Standard EXE projects"
+>>>>>>> Migration5
 keywords: vblr6.chm50338
 f1_keywords:
 - vblr6.chm50338

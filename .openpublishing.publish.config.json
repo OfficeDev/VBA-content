@@ -1,4 +1,3 @@
-
 {
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
@@ -22,8 +21,7 @@
   "notification_subscribers": [
     "lauragra@microsoft.com",
     "saldana@microsoft.com",
-    "johnau@microsoft.com",
-    "v-logoff@microsoft.com"
+    "johnau@microsoft.com"
   ],
   "branches_to_filter": [
     "live"
