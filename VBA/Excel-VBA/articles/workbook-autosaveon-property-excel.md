@@ -39,7 +39,7 @@ End Sub
 
 #### Concepts
 
-[AutoSave](about-autosave.md)
+[AutoSave](../../Office-Shared-VBA/articles/about-autosave.md)
 
 [Co-authoring](about-coauthoring-in-excel.md)
 
