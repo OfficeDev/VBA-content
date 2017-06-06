@@ -46,17 +46,24 @@ You may want to receive the latest changes made by another user when the data is
 
 ### Data visualization example
 
-In this example, we've created a range of locations in London, UK and inserted a Bing map. We are sharing the workbook with someone in a different city. The macro in the first example changes the longitude of Camden Town. With autosave on, the change is passed to the remote user who catches the change with the **AfterRemoteChange** event.
+Let's say that you have created a custom map. In this example, you would add code to change location data then update the map. The workbook is shared with someone in a different city. With autosave on, the change is passed to the remote user who catches the change with the **AfterRemoteChange** event.
 
-Select cell in location range and change longitude value.
 ```vb
-Sub longitudeChange()
-    Range("A5").Select
-    ActiveCell.FormulaR1C1 = "51.5390111,-0.1425553"
+Public Sub UpdateMap()
+    'Code that updates map
+End Sub
+
+Private Sub Worksheet_Change(ByVal Target As Range)
+    'Call subroutine that updates map
+End Sub
+```
+```vb
+Private Sub Workbook_AfterRemoteChange()
+    'Call subroutine that updates map
 End Sub
 ```
 
-Figure 1.
+**Figure 1. Sample of London map with a few points of interest**
 ![london locations](images/londonLocations.png) 
 
 ### When to ignore remote changes
@@ -75,17 +82,30 @@ You may want to avoid changes that cause errors or degraded performance, for exa
 For this example, we've created a chart that displays how much we've made selling various desserts. Neither the cost nor the number of items sold should be negative so there's a validation check that displays a message to the user.  When the invalid value is pushed to the remote users, the validation message should not be displayed to them.
 
 ```vb
-Private Sub ValidateFigures()
+Public Sub ValidateFigures()
     Dim rangeToValidate As Range
-    Set rangeToValidate = Range("B2:C6")
+    Set rangeToValidate = ActiveWorkbook.Worksheets("Chart").Range("B2:C6")
     For Each cell In rangeToValidate.Cells
-        'None of the figures should be negative
         If (cell.Value < 0) Then
             MsgBox ("Error: Value should not be negative. " & cell.Address)
         End If
     Next
 End Sub
+
+Private Sub Worksheet_Change(ByVal Target As Range)
+    ActiveWorkbook.Worksheets("Chart").ValidateFigures
+End Sub
 ```
+
+```vb
+Private Sub Workbook_AfterRemoteChange()
+    ' Do not call validation from RemoteChange event
+    'ActiveWorkbook.Worksheets("Chart").ValidateFigures
+End Sub
+```
+
+**Figure 2. Sample of chart representing desserts sales**
+![desserts sales](images/saleschart.png) 
 
 ## See also
 
