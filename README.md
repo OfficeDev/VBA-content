@@ -4,7 +4,7 @@ The content in the VBA repository is grouped first by product, then by topic. Th
 For information about how to contribute to the VBA documentation, see [Contributing.md](CONTRIBUTING.md).
 
 ## Download the VBA references
-In addition to the online reference content for VBA, we also have offline copies for some of the products. Note that these offline CHMs represent a snapshot of the content as of 11/06/2015; for the latest updates, always view the content on GitHub or MSDN. You can also use the [Export feature] (https://msdn.microsoft.com/en-us/library/export/help/) on MSDN to create your own offline documentation.
+In addition to the online reference content for VBA, we also have offline copies for some of the products. Note that these offline CHMs represent a snapshot of the content as of 11/06/2015; for the latest updates, always view the content on GitHub or MSDN.
 
 The VBA references available include:
 
