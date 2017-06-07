@@ -14,23 +14,7 @@
          "VBA/Office-F1-Landing/**.md": "office",
          "VBA/Office-Mac-VBA/**.md": "office",
          "VBA/Office-Shared-VBA/**.md": "office"
-       }, 
-       "ms.service": 
-       { 
-         "api/**.yml": "active-directory-b2" 
-       }, 
-       "ms.technology": 
-       { 
-         "api/**.yml": "intune" 
-       }, 
-       "ms.date": 
-       { 
-         "api/**.yml": "Jun 27, 2016" 
-       }, 
-       "manager": 
-       { 
-         "api/**.yml": "jeffgilb" 
-       } 
+       }
      }, 
      "globalMetadata": {
         "ms.suite": "office365",
