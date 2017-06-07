@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Expected: <various>
-=======
 title: "Expected: <various>"
->>>>>>> Migration5
 keywords: vblr6.chm1011312
 f1_keywords:
 - vblr6.chm1011312

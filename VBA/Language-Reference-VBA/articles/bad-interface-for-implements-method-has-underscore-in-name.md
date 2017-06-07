@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: method has underscore in name
-=======
 title: "Bad interface for Implements: method has underscore in name"
->>>>>>> Migration5
 keywords: vblr6.chm1057160
 f1_keywords:
 - vblr6.chm1057160

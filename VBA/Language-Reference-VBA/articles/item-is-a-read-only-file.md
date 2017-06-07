@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'Item' is a read-only file
-=======
 title: "'Item' is a read-only file"
->>>>>>> Migration5
 keywords: vblr6.chm1117712
 f1_keywords:
 - vblr6.chm1117712

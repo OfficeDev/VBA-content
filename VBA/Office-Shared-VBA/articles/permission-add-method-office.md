@@ -30,11 +30,7 @@ Creates a set of permissions on the active document for the specified user. Retu
 |:-----|:-----|:-----|:-----|
 | _UserID_|Required|**String**|The e-mail address (in the format user@domain.com) of the user to whom permissions on the active document are being granted.|
 | _Permission_|Optional|**msoPermission**|The permissions on the active document that are being granted to the specified user.|
-<<<<<<< HEAD
 | _ExpirationDate_|Optional|**Date**|The expiration date for the permissions that are being granted. **Note: this parameter is not used and will be ignored.**|
-=======
-| _ExpirationDate_|Optional|**Date**|The expiration date for the permissions that are being granted.|
->>>>>>> Migration5
 
 ## Example
 

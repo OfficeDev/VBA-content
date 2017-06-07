@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Set Entry Matching in a Combo Box
-=======
 title: "How to: Set Entry Matching in a Combo Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077213
 f1_keywords:
 - olfm10.chm3077213

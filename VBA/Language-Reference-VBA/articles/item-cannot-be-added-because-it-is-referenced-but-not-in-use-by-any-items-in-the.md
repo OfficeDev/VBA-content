@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.
-=======
 title: "'item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options."
->>>>>>> Migration5
 keywords: vblr6.chm50153
 f1_keywords:
 - vblr6.chm50153

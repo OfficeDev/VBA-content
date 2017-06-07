@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Control the Drop Button Style and When to Show the Drop Button
-=======
 title: "How to: Control the Drop Button Style and When to Show the Drop Button"
->>>>>>> Migration5
 keywords: olfm10.chm3077182
 f1_keywords:
 - olfm10.chm3077182

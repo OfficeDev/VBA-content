@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Specify Tab Support for a Control
-=======
 title: "How to: Specify Tab Support for a Control"
->>>>>>> Migration5
 keywords: olfm10.chm3077251
 f1_keywords:
 - olfm10.chm3077251

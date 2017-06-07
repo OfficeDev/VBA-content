@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': 'item2' has a quoted string where the property name should be.
-=======
 title: "Line 'item1': 'item2' has a quoted string where the property name should be."
->>>>>>> Migration5
 keywords: vblr6.chm60103
 f1_keywords:
 - vblr6.chm60103

@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: interface is derived from another pure interface with non-restricted methods
-=======
 title: "Bad interface for Implements: interface is derived from another pure interface with non-restricted methods"
->>>>>>> Migration5
 keywords: vblr6.chm1057158
 f1_keywords:
 - vblr6.chm1057158

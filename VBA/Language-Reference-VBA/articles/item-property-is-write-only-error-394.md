@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'Item' property is write-only (Error 394)
-=======
 title: "'Item' property is write-only (Error 394)"
->>>>>>> Migration5
 keywords: vblr6.chm394
 f1_keywords:
 - vblr6.chm394

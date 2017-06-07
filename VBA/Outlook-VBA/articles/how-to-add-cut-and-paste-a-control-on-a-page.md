@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Add, Cut, and Paste a Control on a Page
-=======
 title: "How to: Add, Cut, and Paste a Control on a Page"
->>>>>>> Migration5
 keywords: olfm10.chm3077170
 f1_keywords:
 - olfm10.chm3077170

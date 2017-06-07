@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Specify Control Tip Text for Controls
-=======
 title: "How to: Specify Control Tip Text for Controls"
->>>>>>> Migration5
 keywords: olfm10.chm3077167
 f1_keywords:
 - olfm10.chm3077167

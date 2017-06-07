@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Place an Image and a Caption on a Command Button
-=======
 title: "How to: Place an Image and a Caption on a Command Button"
->>>>>>> Migration5
 keywords: olfm10.chm3077228
 f1_keywords:
 - olfm10.chm3077228

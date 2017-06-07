@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': Property 'item2' in control 'item3' had an invalid property index.
-=======
 title: "Line 'item1': Property 'item2' in control 'item3' had an invalid property index."
->>>>>>> Migration5
 keywords: vblr6.chm1117739
 f1_keywords:
 - vblr6.chm1117739

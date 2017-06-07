@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': The property name 'item2' in 'item3' is invalid.
-=======
 title: "Line 'item1': The property name 'item2' in 'item3' is invalid."
->>>>>>> Migration5
 keywords: vblr6.chm1117737
 f1_keywords:
 - vblr6.chm1117737

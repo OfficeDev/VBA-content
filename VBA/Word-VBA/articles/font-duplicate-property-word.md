@@ -12,12 +12,7 @@ ms.assetid: 86add1f8-9c1f-57c0-87d5-9fdef0841880
 
 # Font.Duplicate Property (Word)
 
-<<<<<<< HEAD
 Returns a copy of a **Font** object that represents the character formatting of the specified font.
-=======
-Returns a read-only  **Font** object that represents the character formatting of the specified font.
->>>>>>> Migration5
-
 
 ## Syntax
 

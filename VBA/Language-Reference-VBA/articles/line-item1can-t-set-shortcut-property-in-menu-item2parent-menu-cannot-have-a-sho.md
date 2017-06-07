@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu cannot have a shortcut key.
-=======
 title: "Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu cannot have a shortcut key."
->>>>>>> Migration5
 keywords: vblr6.chm60117
 f1_keywords:
 - vblr6.chm60117

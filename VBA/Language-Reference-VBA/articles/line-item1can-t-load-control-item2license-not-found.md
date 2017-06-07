@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': Can't load control 'item2'; license not found
-=======
 title: "Line 'item1': Can't load control 'item2'; license not found"
->>>>>>> Migration5
 keywords: vblr6.chm1117754
 f1_keywords:
 - vblr6.chm1117754

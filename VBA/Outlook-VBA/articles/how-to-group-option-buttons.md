@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Group Option Buttons
-=======
 title: "How to: Group Option Buttons"
->>>>>>> Migration5
 keywords: olfm10.chm3077190
 f1_keywords:
 - olfm10.chm3077190

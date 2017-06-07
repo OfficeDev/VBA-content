@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'item' designers cannot be public in ActiveX EXE projects
-=======
 title: "'item' designers cannot be public in ActiveX EXE projects"
->>>>>>> Migration5
 keywords: vblr6.chm50337
 f1_keywords:
 - vblr6.chm50337

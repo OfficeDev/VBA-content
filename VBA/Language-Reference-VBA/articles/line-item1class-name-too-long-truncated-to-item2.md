@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': Class name too long; truncated to 'item2'.
-=======
 title: "Line 'item1': Class name too long; truncated to 'item2'."
->>>>>>> Migration5
 keywords: vblr6.chm60113
 f1_keywords:
 - vblr6.chm60113

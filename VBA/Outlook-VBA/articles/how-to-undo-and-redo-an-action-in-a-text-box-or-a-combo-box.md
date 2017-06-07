@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Undo and Redo an Action in a Text Box or a Combo Box
-=======
 title: "How to: Undo and Redo an Action in a Text Box or a Combo Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077161
 f1_keywords:
 - olfm10.chm3077161

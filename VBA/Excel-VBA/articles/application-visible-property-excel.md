@@ -21,7 +21,6 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
  _expression_ A variable that represents an **Application** object.
 
-<<<<<<< HEAD
 ## Example
 
 ```vb
@@ -35,8 +34,6 @@ Application.Wait Now + TimeValue("00:00:05")
 Application.Visible = True
 
 ```
-=======
->>>>>>> Migration5
 
 ## See also
 

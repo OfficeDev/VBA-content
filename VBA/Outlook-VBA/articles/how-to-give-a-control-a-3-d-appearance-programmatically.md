@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Give a Control a 3-D Appearance Programmatically
-=======
 title: "How to: Give a Control a 3-D Appearance Programmatically"
->>>>>>> Migration5
 keywords: olmain11.chm1045236
 f1_keywords:
 - olmain11.chm1045236

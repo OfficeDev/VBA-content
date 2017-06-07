@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Change the Style, Size, and Effects of a Font
-=======
 title: "How to: Change the Style, Size, and Effects of a Font"
->>>>>>> Migration5
 keywords: olfm10.chm3077158
 f1_keywords:
 - olfm10.chm3077158

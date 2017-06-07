@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Allow Multiple Selections in a List Box
-=======
 title: "How to: Allow Multiple Selections in a List Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077221
 f1_keywords:
 - olfm10.chm3077221

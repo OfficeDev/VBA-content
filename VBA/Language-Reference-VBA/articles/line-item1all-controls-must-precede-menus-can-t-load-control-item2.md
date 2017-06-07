@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': All controls must precede menus; can't load control 'item2'.
-=======
 title: "Line 'item1': All controls must precede menus; can't load control 'item2'."
->>>>>>> Migration5
 keywords: vblr6.chm60122
 f1_keywords:
 - vblr6.chm60122

@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Change the Accelerator and Caption of a Command Button
-=======
 title: "How to: Change the Accelerator and Caption of a Command Button"
->>>>>>> Migration5
 keywords: olfm10.chm3077148
 f1_keywords:
 - olfm10.chm3077148

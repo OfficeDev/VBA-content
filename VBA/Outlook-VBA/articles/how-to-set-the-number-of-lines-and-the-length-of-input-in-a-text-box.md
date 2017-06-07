@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Set the Number of Lines and the Length of Input in a Text Box
-=======
 title: "How to: Set the Number of Lines and the Length of Input in a Text Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077204
 f1_keywords:
 - olfm10.chm3077204

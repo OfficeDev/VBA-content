@@ -264,14 +264,8 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 <a name="AboutContributors"> </a>
 
 
-<<<<<<< HEAD
-#### Other resources
-
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
-=======
 #### Concepts
 
 
 [Access Object Model Reference](object-model-access-vba-reference.md)
->>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
 

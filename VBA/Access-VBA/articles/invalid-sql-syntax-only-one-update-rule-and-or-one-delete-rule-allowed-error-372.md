@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Invalid SQL Syntax: only one update rule and/or one delete rule allowed (Error 3727)
-=======
 title: "Invalid SQL Syntax: only one update rule and/or one delete rule allowed (Error 3727)"
->>>>>>> Migration5
 ms.prod: ACCESS
 ms.assetid: 33b81676-3b49-d0ab-5f77-489ccea77671
 ---

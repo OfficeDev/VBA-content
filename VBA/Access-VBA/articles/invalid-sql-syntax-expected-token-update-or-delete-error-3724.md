@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Invalid SQL syntax: expected token: UPDATE or DELETE (Error 3724)
-=======
 title: "Invalid SQL syntax: expected token: UPDATE or DELETE (Error 3724)"
->>>>>>> Migration5
 keywords: jeterr40.chm5003724
 f1_keywords:
 - jeterr40.chm5003724

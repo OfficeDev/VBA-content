@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: The INSERT INTO statement contains the following unknown field name: <field name>. Make sure you have typed the name correctly, and try the operation again.(Error 3127)
-=======
 title: "The INSERT INTO statement contains the following unknown field name: <field name>. Make sure you have typed the name correctly, and try the operation again.(Error 3127)"
->>>>>>> Migration5
 keywords: jeterr40.chm5003127
 f1_keywords:
 - jeterr40.chm5003127

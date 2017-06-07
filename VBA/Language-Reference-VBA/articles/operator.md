@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: * Operator
-=======
 title: "* Operator"
->>>>>>> Migration5
 keywords: vblr6.chm1008844
 f1_keywords:
 - vblr6.chm1008844

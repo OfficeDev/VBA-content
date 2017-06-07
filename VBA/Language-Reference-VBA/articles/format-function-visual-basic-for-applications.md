@@ -13,11 +13,7 @@ ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
 
 
  **Description**
-<<<<<<< HEAD
 Returns a  **Variant (String)** containing an [expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
-=======
-Returns a  **Variant (String)** containing an[expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
->>>>>>> Migration5
  **Syntax**
  **Format(**_expression_ [ **,**_format_ [ **,**_firstdayofweek_ [ **,**_firstweekofyear_ ]]] **)**
 The  **Format** function syntax has these parts:
@@ -68,7 +64,6 @@ If you are formatting a non-localized numeric string, you should use a user-defi
 
 If the calendar is Gregorian, the meaning of  _format_ expression symbols is unchanged. If the calendar is Hijri, all date format symbols (for example, _dddd_, _mmmm_, _yyyy_ ) have the same meaning but apply to the Hijri calendar. Format symbols remain in English; symbols that result in text display (for example, AM and PM) display the string (English or Arabic) associated with that symbol. The range of certain symbols changes when the calendar is Hijri.
 
-<<<<<<< HEAD
 **Date Symbols**
 
 |**Symbol**|**Range**|
@@ -97,18 +92,6 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 
  **Example**
  
-=======
-
-|**Symbol**|**Range**|
-|:-----|:-----|
-| _d_|1-30|
-| _dd_|1-30|
-| _ww_|1-51|
-| _mmm_|Displays full month names (Hijri month names have no abbreviations).|
-| _y_|1-355|
-| _yyyy_|100-9666|
- **Example**
->>>>>>> Migration5
 This example shows various uses of the  **Format** function to format values using both named formats and user-defined formats. For the date separator ( **/** ), time separator ( **:** ), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
 
 

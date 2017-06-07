@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Specify the Column in a Multi-Column List Box to Store Data for the Control
-=======
 title: "How to: Specify the Column in a Multi-Column List Box to Store Data for the Control"
->>>>>>> Migration5
 keywords: olfm10.chm3077160
 f1_keywords:
 - olfm10.chm3077160

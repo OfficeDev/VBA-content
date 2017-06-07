@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'Item' has an old file format. When saved, it will be saved in a newer format.
-=======
 title: "'Item' has an old file format. When saved, it will be saved in a newer format."
->>>>>>> Migration5
 keywords: vblr6.chm60056
 f1_keywords:
 - vblr6.chm60056

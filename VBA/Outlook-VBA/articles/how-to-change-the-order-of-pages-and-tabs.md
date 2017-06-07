@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Change the Order of Pages and Tabs
-=======
 title: "How to: Change the Order of Pages and Tabs"
->>>>>>> Migration5
 keywords: olfm10.chm3077194
 f1_keywords:
 - olfm10.chm3077194

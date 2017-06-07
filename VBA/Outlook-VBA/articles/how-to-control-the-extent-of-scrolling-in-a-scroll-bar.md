@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Control the Extent of Scrolling in a Scroll Bar
-=======
 title: "How to: Control the Extent of Scrolling in a Scroll Bar"
->>>>>>> Migration5
 keywords: olfm10.chm3077200
 f1_keywords:
 - olfm10.chm3077200

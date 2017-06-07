@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'item1' is an invalid key. The file 'item2' can't be loaded, Office Shared [vblr6.chm1117769]
-=======
 title: "'item1' is an invalid key. The file 'item2' can't be loaded, Office Shared [vblr6.chm1117769]"
->>>>>>> Migration5
 keywords: vblr6.chm1117769
 f1_keywords:
 - vblr6.chm1117769

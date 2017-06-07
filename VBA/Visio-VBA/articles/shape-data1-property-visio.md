@@ -29,11 +29,7 @@ String
 
 ## Remarks
 
-<<<<<<< HEAD
 Use the  **Data1** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data1** property is equivalent to entering information in the **Data 1** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the [Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
-=======
-Use the  **Data1** property to supply additional information about a shape. The property can contain up to 64 KB of characters. Text controls should be used with care with a string that is greater than 3,000 characters. Setting the **Data1** property is equivalent to entering information in the **Data 1** box in the **Special** dialog box (click **Shape Name** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx)tab).
->>>>>>> Migration5
 
 
 ## Example

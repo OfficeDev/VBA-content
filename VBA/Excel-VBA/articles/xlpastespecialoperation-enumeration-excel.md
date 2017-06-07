@@ -15,17 +15,9 @@ Specifies how numeric data will be calculated with the destinations cells in the
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-<<<<<<< HEAD
 | **xlPasteSpecialOperationAdd**|2|Copied data will be added to the value in the destination cell.|
 | **xlPasteSpecialOperationDivide**|5|Copied data will divide the value in the destination cell.|
 | **xlPasteSpecialOperationMultiply**|4|Copied data will multiply the value in the destination cell.|
 | **xlPasteSpecialOperationNone**|-4142|No calculation will be done in the paste operation.|
 | **xlPasteSpecialOperationSubtract**|3|Copied data will be subtracted from the value in the destination cell.|
-=======
-| **xlPasteSpecialOperationAdd**|2|Copied data will be added with the value in the destination cell.|
-| **xlPasteSpecialOperationDivide**|5|Copied data will be divided with the value in the destination cell.|
-| **xlPasteSpecialOperationMultiply**|4|Copied data will be multiplied with the value in the destination cell.|
-| **xlPasteSpecialOperationNone**|-4142|No calculation will be done in the paste operation.|
-| **xlPasteSpecialOperationSubtract**|3|Copied data will be subtracted with the value in the destination cell.|
->>>>>>> Migration5
 

@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Can't use character device names in file names: 'item' (Error 320)
-=======
 title: "Can't use character device names in file names: 'item' (Error 320)"
->>>>>>> Migration5
 keywords: vblr6.chm320
 f1_keywords:
 - vblr6.chm320

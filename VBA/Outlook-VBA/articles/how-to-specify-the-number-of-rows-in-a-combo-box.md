@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Specify the Number of Rows in a Combo Box
-=======
 title: "How to: Specify the Number of Rows in a Combo Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077207
 f1_keywords:
 - olfm10.chm3077207

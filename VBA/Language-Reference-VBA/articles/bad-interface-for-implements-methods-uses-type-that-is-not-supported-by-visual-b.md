@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: methods uses type that is not supported by Visual Basic
-=======
 title: "Bad interface for Implements: methods uses type that is not supported by Visual Basic"
->>>>>>> Migration5
 keywords: vblr6.chm1057164
 f1_keywords:
 - vblr6.chm1057164

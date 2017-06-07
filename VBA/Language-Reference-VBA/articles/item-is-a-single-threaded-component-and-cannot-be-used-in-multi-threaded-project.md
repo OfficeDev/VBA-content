@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.
-=======
 title: "'item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version."
->>>>>>> Migration5
 keywords: vblr6.chm1000725
 f1_keywords:
 - vblr6.chm1000725

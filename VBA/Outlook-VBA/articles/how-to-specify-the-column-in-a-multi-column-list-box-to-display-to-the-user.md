@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Specify the Column in a Multi-Column List Box to Display to the User
-=======
 title: "How to: Specify the Column in a Multi-Column List Box to Display to the User"
->>>>>>> Migration5
 keywords: olfm10.chm3077255
 f1_keywords:
 - olfm10.chm3077255

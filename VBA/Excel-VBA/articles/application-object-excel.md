@@ -399,8 +399,3 @@ The  **Application** object contains:
 
 
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
-<<<<<<< HEAD
-=======
-
->>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
-

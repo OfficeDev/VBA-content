@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Set the Maximum and Minimum Values for a Scroll Bar
-=======
 title: "How to: Set the Maximum and Minimum Values for a Scroll Bar"
->>>>>>> Migration5
 keywords: olfm10.chm3077214
 f1_keywords:
 - olfm10.chm3077214

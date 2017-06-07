@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Line 'item1': The file 'item2' could not be loaded.
-=======
 title: "Line 'item1': The file 'item2' could not be loaded."
->>>>>>> Migration5
 keywords: vblr6.chm1117714
 f1_keywords:
 - vblr6.chm1117714

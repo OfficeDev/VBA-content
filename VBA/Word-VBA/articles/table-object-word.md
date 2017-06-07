@@ -98,9 +98,5 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 #### Other resources
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 

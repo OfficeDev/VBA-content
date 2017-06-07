@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: method has out-only or LCID parameter
-=======
 title: "Bad interface for Implements: method has out-only or LCID parameter"
->>>>>>> Migration5
 keywords: vblr6.chm1057162
 f1_keywords:
 - vblr6.chm1057162

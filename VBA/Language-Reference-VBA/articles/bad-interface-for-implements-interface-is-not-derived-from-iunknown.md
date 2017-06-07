@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: interface is not derived from Iunknown
-=======
 title: "Bad interface for Implements: interface is not derived from Iunknown"
->>>>>>> Migration5
 keywords: vblr6.chm1057165
 f1_keywords:
 - vblr6.chm1057165

@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: How to: Swap Columns of a Multicolumn List Box
-=======
 title: "How to: Swap Columns of a Multicolumn List Box"
->>>>>>> Migration5
 keywords: olfm10.chm3077206
 f1_keywords:
 - olfm10.chm3077206

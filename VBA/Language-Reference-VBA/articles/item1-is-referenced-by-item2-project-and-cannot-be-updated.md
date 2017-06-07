@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: 'item1' is referenced by 'item2' project and cannot be updated.
-=======
 title: "'item1' is referenced by 'item2' project and cannot be updated."
->>>>>>> Migration5
 keywords: vblr6.chm1117721
 f1_keywords:
 - vblr6.chm1117721

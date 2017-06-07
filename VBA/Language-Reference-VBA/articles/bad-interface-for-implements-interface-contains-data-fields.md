@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Bad interface for Implements: interface contains data fields
-=======
 title: "Bad interface for Implements: interface contains data fields"
->>>>>>> Migration5
 keywords: vblr6.chm1057159
 f1_keywords:
 - vblr6.chm1057159
