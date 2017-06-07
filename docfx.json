@@ -13,9 +13,7 @@
          "VBA/Language-Reference-VBA/**.md": "office",
          "VBA/Office-F1-Landing/**.md": "office",
          "VBA/Office-Mac-VBA/**.md": "office",
-         "VBA/Office-Shared-VBA/**.md": "office",
          "VBA/Office-Shared-VBA/**.md": "office"
-
        }, 
        "ms.service": 
        { 
