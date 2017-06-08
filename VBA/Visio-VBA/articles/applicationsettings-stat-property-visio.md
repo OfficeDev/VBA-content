@@ -3,7 +3,7 @@ title: ApplicationSettings.Stat Property (Visio)
 keywords: vis_sdr.chm16214420
 f1_keywords:
 - vis_sdr.chm16214420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.Stat
 ms.assetid: dd322ca5-6f48-94ab-8632-f60896dd3228

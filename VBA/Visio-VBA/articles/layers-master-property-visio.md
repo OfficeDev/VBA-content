@@ -3,7 +3,7 @@ title: Layers.Master Property (Visio)
 keywords: vis_sdr.chm11913870
 f1_keywords:
 - vis_sdr.chm11913870
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.Master
 ms.assetid: c8580dff-3261-6394-97c5-ae5d8ca30f7e

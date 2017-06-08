@@ -3,7 +3,7 @@ title: Document.InPlace Property (Visio)
 keywords: vis_sdr.chm10513705
 f1_keywords:
 - vis_sdr.chm10513705
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.InPlace
 ms.assetid: 8bd0c927-3314-5228-11d6-291a54fd7cdb

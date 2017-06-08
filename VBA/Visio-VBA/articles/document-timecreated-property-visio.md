@@ -3,7 +3,7 @@ title: Document.TimeCreated Property (Visio)
 keywords: vis_sdr.chm10550905
 f1_keywords:
 - vis_sdr.chm10550905
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.TimeCreated
 ms.assetid: efb0fdc6-c4ff-78a5-08bb-7a4367cedc43

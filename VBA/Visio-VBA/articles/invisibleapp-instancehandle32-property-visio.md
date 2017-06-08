@@ -3,7 +3,7 @@ title: InvisibleApp.InstanceHandle32 Property (Visio)
 keywords: vis_sdr.chm17513710
 f1_keywords:
 - vis_sdr.chm17513710
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.InstanceHandle32
 ms.assetid: ea789f1b-ff66-9be3-f52e-0ec0c8ea9198

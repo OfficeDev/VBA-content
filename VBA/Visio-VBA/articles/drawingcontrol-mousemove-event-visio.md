@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.MouseMove Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.MouseMove
 ms.assetid: 357feeda-b69a-f867-530b-30f41c71b5af

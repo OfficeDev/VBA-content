@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.KeyPress Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyPress
 ms.assetid: 3561c566-8abd-518a-f78b-4b2db6f16697

@@ -3,7 +3,7 @@ title: OLEObjects.Count Property (Visio)
 keywords: vis_sdr.chm15113330
 f1_keywords:
 - vis_sdr.chm15113330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OLEObjects.Count
 ms.assetid: 5c3146b2-e2cf-165d-8432-e44b1da1593a

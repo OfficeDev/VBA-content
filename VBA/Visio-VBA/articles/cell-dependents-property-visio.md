@@ -3,7 +3,7 @@ title: Cell.Dependents Property (Visio)
 keywords: vis_sdr.chm10151825
 f1_keywords:
 - vis_sdr.chm10151825
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Dependents
 ms.assetid: 99a1502b-c847-6836-2470-178b595345f9

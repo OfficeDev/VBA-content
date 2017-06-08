@@ -3,7 +3,7 @@ title: GraphicItems.ObjectType Property (Visio)
 keywords: vis_sdr.chm16813960
 f1_keywords:
 - vis_sdr.chm16813960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItems.ObjectType
 ms.assetid: d8062111-555e-af7d-86b3-093e189ca97d

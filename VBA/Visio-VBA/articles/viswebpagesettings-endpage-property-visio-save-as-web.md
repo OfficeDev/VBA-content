@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings.EndPage Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EndPage
 ms.assetid: 4b7ebf2d-b814-8588-b25e-7c54fd0affda

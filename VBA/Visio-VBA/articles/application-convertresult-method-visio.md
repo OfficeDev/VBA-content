@@ -3,7 +3,7 @@ title: Application.ConvertResult Method (Visio)
 keywords: vis_sdr.chm10016135
 f1_keywords:
 - vis_sdr.chm10016135
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ConvertResult
 ms.assetid: b326c9cf-a7f3-33d7-1b29-8d1360301a9d

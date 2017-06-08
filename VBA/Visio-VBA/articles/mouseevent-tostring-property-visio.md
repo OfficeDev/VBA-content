@@ -3,7 +3,7 @@ title: MouseEvent.ToString Property (Visio)
 keywords: vis_sdr.chm17151505
 f1_keywords:
 - vis_sdr.chm17151505
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.ToString
 ms.assetid: c3f8aef5-dcc5-8b73-fe3b-61f2ff118693

@@ -3,7 +3,7 @@ title: Selection.ContainingPage Property (Visio)
 keywords: vis_sdr.chm11113305
 f1_keywords:
 - vis_sdr.chm11113305
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.ContainingPage
 ms.assetid: dca54861-d6c6-9d39-2a49-2070a578607f

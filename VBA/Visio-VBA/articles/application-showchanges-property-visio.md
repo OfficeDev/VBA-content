@@ -3,7 +3,7 @@ title: Application.ShowChanges Property (Visio)
 keywords: vis_sdr.chm10014690
 f1_keywords:
 - vis_sdr.chm10014690
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ShowChanges
 ms.assetid: 6a8a7ee7-ad57-1d52-8a22-fb30be076236

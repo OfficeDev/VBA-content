@@ -3,7 +3,7 @@ title: DataConnection.Timeout Property (Visio)
 keywords: vis_sdr.chm16560375
 f1_keywords:
 - vis_sdr.chm16560375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection.Timeout
 ms.assetid: 913b4e54-2cb6-bfbd-50fb-d369a37fb410

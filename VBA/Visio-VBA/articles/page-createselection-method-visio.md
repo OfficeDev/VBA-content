@@ -3,7 +3,7 @@ title: Page.CreateSelection Method (Visio)
 keywords: vis_sdr.chm10951430
 f1_keywords:
 - vis_sdr.chm10951430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.CreateSelection
 ms.assetid: 7bd29416-d6b4-d7f9-dd96-2ec66c2d4e6b

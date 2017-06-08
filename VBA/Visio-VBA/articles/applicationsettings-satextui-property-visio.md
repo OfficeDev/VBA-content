@@ -3,7 +3,7 @@ title: ApplicationSettings.SATextUI Property (Visio)
 keywords: vis_sdr.chm16260020
 f1_keywords:
 - vis_sdr.chm16260020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SATextUI
 ms.assetid: e8bdb2bd-a54b-01e4-8ee7-c3d5c3156854

@@ -3,7 +3,7 @@ title: InvisibleApp.EventsEnabled Property (Visio)
 keywords: vis_sdr.chm17513485
 f1_keywords:
 - vis_sdr.chm17513485
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.EventsEnabled
 ms.assetid: d13291ee-d305-8bee-5eab-01232ba0bbdc

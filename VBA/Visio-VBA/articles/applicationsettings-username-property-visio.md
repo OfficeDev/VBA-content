@@ -3,7 +3,7 @@ title: ApplicationSettings.UserName Property (Visio)
 keywords: vis_sdr.chm16260600
 f1_keywords:
 - vis_sdr.chm16260600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.UserName
 ms.assetid: a22d5f51-15a4-6a89-4c3a-2e96f9cf7b4e

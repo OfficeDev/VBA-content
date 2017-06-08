@@ -3,7 +3,7 @@ title: ValidationRule.TestExpression Property (Visio)
 keywords: vis_sdr.chm18462665
 f1_keywords:
 - vis_sdr.chm18462665
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.TestExpression
 ms.assetid: 0d780351-ca46-e896-c6a4-5ae899427ae0

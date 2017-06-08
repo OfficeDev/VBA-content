@@ -3,7 +3,7 @@ title: Document.DefaultLineStyle Property (Visio)
 keywords: vis_sdr.chm10513385
 f1_keywords:
 - vis_sdr.chm10513385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DefaultLineStyle
 ms.assetid: 6a1d7752-25c9-638e-9e10-02928849a8db

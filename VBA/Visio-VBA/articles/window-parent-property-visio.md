@@ -3,7 +3,7 @@ title: Window.Parent Property (Visio)
 keywords: vis_sdr.chm11614040
 f1_keywords:
 - vis_sdr.chm11614040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Parent
 ms.assetid: e52a91c1-299d-91c1-1bea-59609d20a24a

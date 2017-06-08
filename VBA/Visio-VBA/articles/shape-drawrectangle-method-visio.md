@@ -3,7 +3,7 @@ title: Shape.DrawRectangle Method (Visio)
 keywords: vis_sdr.chm11216220
 f1_keywords:
 - vis_sdr.chm11216220
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DrawRectangle
 ms.assetid: 2d02da32-0938-b019-0fa0-c4ef07d1a318

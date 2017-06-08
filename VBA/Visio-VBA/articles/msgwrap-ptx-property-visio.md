@@ -3,7 +3,7 @@ title: MSGWrap.ptx Property (Visio)
 keywords: vis_sdr.chm16150810
 f1_keywords:
 - vis_sdr.chm16150810
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MSGWrap.ptx
 ms.assetid: 2dfae0e3-c78c-7beb-9edc-5b269d7f7c33

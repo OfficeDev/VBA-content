@@ -3,7 +3,7 @@ title: Shape.DeleteRow Method (Visio)
 keywords: vis_sdr.chm11216170
 f1_keywords:
 - vis_sdr.chm11216170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DeleteRow
 ms.assetid: 892ca523-679d-c707-4aba-e43c011cb718

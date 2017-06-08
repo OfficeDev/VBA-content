@@ -3,7 +3,7 @@ title: Validation.Issues Property (Visio)
 keywords: vis_sdr.chm18062720
 f1_keywords:
 - vis_sdr.chm18062720
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Validation.Issues
 ms.assetid: a6d79208-9e94-733a-8432-1cd9784e8dc2

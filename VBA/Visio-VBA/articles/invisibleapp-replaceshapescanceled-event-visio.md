@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.ReplaceShapesCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 17e43497-c7a8-8546-595c-4630afb301a3
 ms.date: 06/08/2017
 ---

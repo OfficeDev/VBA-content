@@ -3,7 +3,7 @@ title: Shape.PathsLocal Property (Visio)
 keywords: vis_sdr.chm11214060
 f1_keywords:
 - vis_sdr.chm11214060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.PathsLocal
 ms.assetid: aa5da0de-ca06-69c0-1fbf-b19ea02d0088

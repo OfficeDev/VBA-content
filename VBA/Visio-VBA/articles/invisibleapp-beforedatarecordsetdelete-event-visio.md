@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.BeforeDataRecordsetDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeDataRecordsetDelete
 ms.assetid: 0d007a29-b7a9-5355-b3d4-dca8600ddc9f

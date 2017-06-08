@@ -3,7 +3,7 @@ title: Shape.ContainerProperties Property (Visio)
 keywords: vis_sdr.chm11262460
 f1_keywords:
 - vis_sdr.chm11262460
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ContainerProperties
 ms.assetid: bc375912-f624-dbdc-3b02-2edf3bf5d8a2

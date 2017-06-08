@@ -3,7 +3,7 @@ title: Shape.Cut Method (Visio)
 keywords: vis_sdr.chm11216160
 f1_keywords:
 - vis_sdr.chm11216160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Cut
 ms.assetid: fda7a58c-233b-5864-880e-cfa17f20c175

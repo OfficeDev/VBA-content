@@ -3,7 +3,7 @@ title: Hyperlinks.Application Property (Visio)
 keywords: vis_sdr.chm15613090
 f1_keywords:
 - vis_sdr.chm15613090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlinks.Application
 ms.assetid: cb676aa4-efe3-797d-6159-102dc7694823

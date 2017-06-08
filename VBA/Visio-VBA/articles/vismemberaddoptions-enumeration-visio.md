@@ -3,7 +3,7 @@ title: VisMemberAddOptions Enumeration (Visio)
 keywords: vis_sdr.chm70615
 f1_keywords:
 - vis_sdr.chm70615
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisMemberAddOptions
 ms.assetid: e6833a87-2d08-19a4-c2f9-86803ca4e4ba

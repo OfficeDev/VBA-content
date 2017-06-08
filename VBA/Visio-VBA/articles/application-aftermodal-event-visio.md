@@ -1,6 +1,6 @@
 ---
 title: Application.AfterModal Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AfterModal
 ms.assetid: e19a0ef3-349c-1d7f-9856-7ef6c66f5f0e

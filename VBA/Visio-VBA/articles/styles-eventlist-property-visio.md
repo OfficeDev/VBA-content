@@ -3,7 +3,7 @@ title: Styles.EventList Property (Visio)
 keywords: vis_sdr.chm11513480
 f1_keywords:
 - vis_sdr.chm11513480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.EventList
 ms.assetid: f8e7a7b2-25a3-6761-b39d-423a93a75834

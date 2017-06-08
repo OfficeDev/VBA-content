@@ -3,7 +3,7 @@ title: Documents.OpenEx Method (Visio)
 keywords: vis_sdr.chm10616405
 f1_keywords:
 - vis_sdr.chm10616405
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.OpenEx
 ms.assetid: 86b26b53-c555-2d36-74d6-0d2a4d81971c

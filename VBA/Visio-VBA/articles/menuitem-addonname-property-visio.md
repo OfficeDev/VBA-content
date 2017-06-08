@@ -3,7 +3,7 @@ title: MenuItem.AddOnName Property (Visio)
 keywords: vis_sdr.chm12913050
 f1_keywords:
 - vis_sdr.chm12913050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.AddOnName
 ms.assetid: dfe65141-f5e4-77b3-8113-4650a602ea34

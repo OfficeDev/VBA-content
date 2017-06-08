@@ -3,7 +3,7 @@ title: Windows.BeforeWindowClosed Event (Visio)
 keywords: vis_sdr.chm11719075
 f1_keywords:
 - vis_sdr.chm11719075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.BeforeWindowClosed
 ms.assetid: fb2f9b9e-a3ae-8d6e-00a1-9553629afd9f

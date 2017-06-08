@@ -3,7 +3,7 @@ title: Hyperlink.Follow Method (Visio)
 keywords: vis_sdr.chm15016290
 f1_keywords:
 - vis_sdr.chm15016290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlink.Follow
 ms.assetid: e415caa8-68b9-5c96-71f0-599655dc6cf3

@@ -3,7 +3,7 @@ title: VisCellVals Enumeration (Visio)
 keywords: vis_sdr.chm70035
 f1_keywords:
 - vis_sdr.chm70035
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: c9ce51a1-b657-5193-bd3b-23e26c85d531
 ms.date: 06/08/2017
 ---

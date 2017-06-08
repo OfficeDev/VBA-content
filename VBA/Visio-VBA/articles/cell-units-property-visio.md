@@ -3,7 +3,7 @@ title: Cell.Units Property (Visio)
 keywords: vis_sdr.chm10114620
 f1_keywords:
 - vis_sdr.chm10114620
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Units
 ms.assetid: 075cfda9-8b7a-550b-cf72-b8044c3d461a

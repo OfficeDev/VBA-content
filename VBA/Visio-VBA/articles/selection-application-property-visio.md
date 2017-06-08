@@ -3,7 +3,7 @@ title: Selection.Application Property (Visio)
 keywords: vis_sdr.chm11113090
 f1_keywords:
 - vis_sdr.chm11113090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Application
 ms.assetid: 09aed34b-c509-33d7-efd5-7ac5d5b05482

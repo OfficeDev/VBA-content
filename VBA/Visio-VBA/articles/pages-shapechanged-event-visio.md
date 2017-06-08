@@ -3,7 +3,7 @@ title: Pages.ShapeChanged Event (Visio)
 keywords: vis_sdr.chm11019230
 f1_keywords:
 - vis_sdr.chm11019230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.ShapeChanged
 ms.assetid: a012a091-b7cc-0d7c-36a2-bbfc675356d0

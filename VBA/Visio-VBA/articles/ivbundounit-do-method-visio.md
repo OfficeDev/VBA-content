@@ -3,7 +3,7 @@ title: IVBUndoUnit.Do Method (Visio)
 keywords: vis_sdr.chm17360155
 f1_keywords:
 - vis_sdr.chm17360155
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.IVBUndoUnit.Do
 ms.assetid: 3d33e1fe-328a-0337-412a-861b3e19d8b2

@@ -3,7 +3,7 @@ title: Toolbar.Top Property (Visio)
 keywords: vis_sdr.chm13714570
 f1_keywords:
 - vis_sdr.chm13714570
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbar.Top
 ms.assetid: 63adeae5-c962-4e83-67de-d89035ee9bce

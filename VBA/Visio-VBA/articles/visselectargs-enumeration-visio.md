@@ -3,7 +3,7 @@ title: VisSelectArgs Enumeration (Visio)
 keywords: vis_sdr.chm70070
 f1_keywords:
 - vis_sdr.chm70070
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 21651fc7-c311-aefb-9f6c-27fcbf9740be
 ms.date: 06/08/2017
 ---

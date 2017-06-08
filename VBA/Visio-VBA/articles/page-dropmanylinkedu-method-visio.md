@@ -3,7 +3,7 @@ title: Page.DropManyLinkedU Method (Visio)
 keywords: vis_sdr.chm10960175
 f1_keywords:
 - vis_sdr.chm10960175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropManyLinkedU
 ms.assetid: 0b80591a-a563-bdad-b048-e15693410547

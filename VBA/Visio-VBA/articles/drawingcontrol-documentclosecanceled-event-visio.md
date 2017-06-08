@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.DocumentCloseCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentCloseCanceled
 ms.assetid: 0de2255a-49c6-88cf-04f0-7e32705c329e

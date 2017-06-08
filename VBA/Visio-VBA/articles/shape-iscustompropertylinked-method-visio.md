@@ -3,7 +3,7 @@ title: Shape.IsCustomPropertyLinked Method (Visio)
 keywords: vis_sdr.chm11260230
 f1_keywords:
 - vis_sdr.chm11260230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.IsCustomPropertyLinked
 ms.assetid: e75b910f-fb21-3e39-2ca3-ac0913adccf0

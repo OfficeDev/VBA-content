@@ -3,7 +3,7 @@ title: OLEObject.ObjectType Property (Visio)
 keywords: vis_sdr.chm15213960
 f1_keywords:
 - vis_sdr.chm15213960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OLEObject.ObjectType
 ms.assetid: 8e0df870-1fd1-2470-aecd-4ec567246ee8

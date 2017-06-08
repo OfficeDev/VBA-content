@@ -3,7 +3,7 @@ title: ContainerProperties.RemoveMember Method (Visio)
 keywords: vis_sdr.chm17662335
 f1_keywords:
 - vis_sdr.chm17662335
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.RemoveMember
 ms.assetid: 953beb58-ea8a-7c1f-20c1-0fe4de23e831

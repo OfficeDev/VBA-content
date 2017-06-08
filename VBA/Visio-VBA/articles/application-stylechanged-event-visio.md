@@ -1,6 +1,6 @@
 ---
 title: Application.StyleChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.StyleChanged
 ms.assetid: f56680b3-71c3-91c6-23d0-7d5840f9aeb5

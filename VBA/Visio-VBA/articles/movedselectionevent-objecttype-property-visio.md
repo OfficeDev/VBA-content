@@ -3,7 +3,7 @@ title: MovedSelectionEvent.ObjectType Property (Visio)
 keywords: vis_sdr.chm17813960
 f1_keywords:
 - vis_sdr.chm17813960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.ObjectType
 ms.assetid: 5971d7fa-5b5e-38ef-d611-80d52b294965

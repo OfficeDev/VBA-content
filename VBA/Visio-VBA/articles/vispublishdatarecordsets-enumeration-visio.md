@@ -3,7 +3,7 @@ title: VisPublishDataRecordsets Enumeration (Visio)
 keywords: vis_sdr.chm70660
 f1_keywords:
 - vis_sdr.chm70660
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisPublishDataRecordsets
 ms.assetid: f0b9ad67-fabd-d0e2-74ca-61c2e6e242b9

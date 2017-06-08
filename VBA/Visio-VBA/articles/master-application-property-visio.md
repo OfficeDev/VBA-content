@@ -3,7 +3,7 @@ title: Master.Application Property (Visio)
 keywords: vis_sdr.chm10713090
 f1_keywords:
 - vis_sdr.chm10713090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Application
 ms.assetid: 88b2fd6e-8f7e-3caa-5316-35a6a0060793

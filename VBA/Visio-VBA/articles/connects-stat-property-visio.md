@@ -3,7 +3,7 @@ title: Connects.Stat Property (Visio)
 keywords: vis_sdr.chm10414420
 f1_keywords:
 - vis_sdr.chm10414420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connects.Stat
 ms.assetid: e51e58fb-a7b5-b18e-3f53-8ab1ff4d2994

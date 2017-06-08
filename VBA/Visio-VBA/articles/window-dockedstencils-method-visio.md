@@ -3,7 +3,7 @@ title: Window.DockedStencils Method (Visio)
 keywords: vis_sdr.chm11616185
 f1_keywords:
 - vis_sdr.chm11616185
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.DockedStencils
 ms.assetid: d16865ee-a21f-75c7-55c4-8b30f1ae91e3

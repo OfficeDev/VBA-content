@@ -3,7 +3,7 @@ title: ServerPublishOptions.GetPagesToPublish Method (Visio)
 keywords: vis_sdr.chm17962380
 f1_keywords:
 - vis_sdr.chm17962380
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.GetPagesToPublish
 ms.assetid: e5dacddd-9b3d-7d18-afff-82ee6a042b03

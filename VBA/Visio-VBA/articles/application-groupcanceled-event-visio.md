@@ -1,6 +1,6 @@
 ---
 title: Application.GroupCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.GroupCanceled
 ms.assetid: becaba95-3904-fa18-37a2-b8b8b48a11ab

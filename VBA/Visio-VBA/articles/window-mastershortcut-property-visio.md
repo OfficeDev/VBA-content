@@ -3,7 +3,7 @@ title: Window.MasterShortcut Property (Visio)
 keywords: vis_sdr.chm11613880
 f1_keywords:
 - vis_sdr.chm11613880
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.MasterShortcut
 ms.assetid: ba25a8a7-fdda-4e25-aea6-75332fe90010

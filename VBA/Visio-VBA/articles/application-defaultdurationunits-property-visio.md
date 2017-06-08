@@ -3,7 +3,7 @@ title: Application.DefaultDurationUnits Property (Visio)
 keywords: vis_sdr.chm10051045
 f1_keywords:
 - vis_sdr.chm10051045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DefaultDurationUnits
 ms.assetid: 11810de2-0c2f-a498-6b7a-090d5397066b

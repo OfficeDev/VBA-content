@@ -3,7 +3,7 @@ title: Master.DrawNURBS Method (Visio)
 keywords: vis_sdr.chm10716205
 f1_keywords:
 - vis_sdr.chm10716205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawNURBS
 ms.assetid: 7dcfef4a-5b69-9a8b-3966-9b3089bdaac3

@@ -3,7 +3,7 @@ title: ApplicationSettings.RasterExportBackgroundColor Property (Visio)
 keywords: vis_sdr.chm16262555
 f1_keywords:
 - vis_sdr.chm16262555
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportBackgroundColor
 ms.assetid: 25591439-b332-af75-dec0-562cd261a453

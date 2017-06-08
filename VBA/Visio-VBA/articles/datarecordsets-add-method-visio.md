@@ -3,7 +3,7 @@ title: DataRecordsets.Add Method (Visio)
 keywords: vis_sdr.chm16316005
 f1_keywords:
 - vis_sdr.chm16316005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.Add
 ms.assetid: 9eb136ce-d543-75c3-3a72-cb23dfc8df78

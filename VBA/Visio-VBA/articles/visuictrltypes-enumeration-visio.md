@@ -3,7 +3,7 @@ title: VisUICtrlTypes Enumeration (Visio)
 keywords: vis_sdr.chm70180
 f1_keywords:
 - vis_sdr.chm70180
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: acc20b0d-cd3b-0268-61cd-c17a628a4fdb
 ms.date: 06/08/2017
 ---

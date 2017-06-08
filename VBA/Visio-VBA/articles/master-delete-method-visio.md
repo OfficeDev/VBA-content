@@ -3,7 +3,7 @@ title: Master.Delete Method (Visio)
 keywords: vis_sdr.chm10716165
 f1_keywords:
 - vis_sdr.chm10716165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Delete
 ms.assetid: 8f71e69e-7d7d-7732-738c-ad262b0367ae

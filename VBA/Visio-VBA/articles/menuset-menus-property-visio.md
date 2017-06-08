@@ -3,7 +3,7 @@ title: MenuSet.Menus Property (Visio)
 keywords: vis_sdr.chm13313910
 f1_keywords:
 - vis_sdr.chm13313910
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSet.Menus
 ms.assetid: 507d64e5-fcb4-74dc-ece6-9fad28b0379d

@@ -3,7 +3,7 @@ title: Page.Export Method (Visio)
 keywords: vis_sdr.chm10916265
 f1_keywords:
 - vis_sdr.chm10916265
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Export
 ms.assetid: 7eef4f56-4b47-bebc-4657-fcd1a5d5b0db

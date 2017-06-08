@@ -3,7 +3,7 @@ title: ApplicationSettings.DrawingBackgroundColorGradient Property (Visio)
 keywords: vis_sdr.chm16251805
 f1_keywords:
 - vis_sdr.chm16251805
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DrawingBackgroundColorGradient
 ms.assetid: 3bd4693b-4312-3b99-5f48-a4d7909cf41c

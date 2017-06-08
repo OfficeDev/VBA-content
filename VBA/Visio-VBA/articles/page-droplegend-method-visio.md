@@ -3,7 +3,7 @@ title: Page.DropLegend Method (Visio)
 keywords: vis_sdr.chm10962175
 f1_keywords:
 - vis_sdr.chm10962175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropLegend
 ms.assetid: 8253eafd-4d87-9f1c-833c-cb553c1b73cf

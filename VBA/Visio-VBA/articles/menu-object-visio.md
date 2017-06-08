@@ -3,7 +3,7 @@ title: Menu Object (Visio)
 keywords: vis_sdr.chm10150
 f1_keywords:
 - vis_sdr.chm10150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu
 ms.assetid: ea66b61d-4d93-13a4-1446-968fe9727c05

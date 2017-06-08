@@ -3,7 +3,7 @@ title: Document.HyperlinkBase Property (Visio)
 keywords: vis_sdr.chm10513655
 f1_keywords:
 - vis_sdr.chm10513655
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.HyperlinkBase
 ms.assetid: cde4801e-269d-b6d3-aee1-d95b2e36bfd2

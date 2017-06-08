@@ -3,7 +3,7 @@ title: Document.GestureFormatSheet Property (Visio)
 keywords: vis_sdr.chm10513605
 f1_keywords:
 - vis_sdr.chm10513605
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.GestureFormatSheet
 ms.assetid: 26d3c27f-31ff-198c-5b40-8dc8b30b6362

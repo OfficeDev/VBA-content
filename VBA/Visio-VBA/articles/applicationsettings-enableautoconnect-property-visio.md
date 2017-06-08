@@ -3,7 +3,7 @@ title: ApplicationSettings.EnableAutoConnect Property (Visio)
 keywords: vis_sdr.chm16260015
 f1_keywords:
 - vis_sdr.chm16260015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.EnableAutoConnect
 ms.assetid: 9aef5e1c-7f46-0edb-1237-bbb9412a8aa5

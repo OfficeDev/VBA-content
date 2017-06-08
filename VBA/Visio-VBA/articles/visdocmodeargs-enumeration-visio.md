@@ -3,7 +3,7 @@ title: VisDocModeArgs Enumeration (Visio)
 keywords: vis_sdr.chm70215
 f1_keywords:
 - vis_sdr.chm70215
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 9ae2ab47-bc44-ea4b-77b6-5e75ac7e98f1
 ms.date: 06/08/2017
 ---

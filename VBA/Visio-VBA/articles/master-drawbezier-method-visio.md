@@ -3,7 +3,7 @@ title: Master.DrawBezier Method (Visio)
 keywords: vis_sdr.chm10716195
 f1_keywords:
 - vis_sdr.chm10716195
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawBezier
 ms.assetid: 4cbefabf-530e-2c6d-0751-45efa2bb0980

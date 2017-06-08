@@ -3,7 +3,7 @@ title: Validation.LastValidatedDate Property (Visio)
 keywords: vis_sdr.chm18062705
 f1_keywords:
 - vis_sdr.chm18062705
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Validation.LastValidatedDate
 ms.assetid: c557e41c-e721-ad2f-6e4a-9a99142f9e2b

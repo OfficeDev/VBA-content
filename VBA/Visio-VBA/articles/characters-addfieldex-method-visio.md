@@ -3,7 +3,7 @@ title: Characters.AddFieldEx Method (Visio)
 keywords: vis_sdr.chm10251445
 f1_keywords:
 - vis_sdr.chm10251445
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.AddFieldEx
 ms.assetid: 14f56159-ed60-e1cf-1c04-b789672b51ec

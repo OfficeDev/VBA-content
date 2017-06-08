@@ -3,7 +3,7 @@ title: VisRegionalUIOptions Enumeration (Visio)
 keywords: vis_sdr.chm70430
 f1_keywords:
 - vis_sdr.chm70430
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 74162453-b519-de0d-a82b-7eccf28265dc
 ms.date: 06/08/2017
 ---

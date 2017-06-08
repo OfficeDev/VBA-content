@@ -3,7 +3,7 @@ title: Document.DefaultTextStyle Property (Visio)
 keywords: vis_sdr.chm10513395
 f1_keywords:
 - vis_sdr.chm10513395
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DefaultTextStyle
 ms.assetid: cae34239-14af-92c3-a498-8ac7f51e1fa0

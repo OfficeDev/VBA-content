@@ -3,7 +3,7 @@ title: Document.VBProject Property (Visio)
 keywords: vis_sdr.chm10514635
 f1_keywords:
 - vis_sdr.chm10514635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.VBProject
 ms.assetid: 087e9cdc-c21d-6f02-05ce-4c3fa6e09cff

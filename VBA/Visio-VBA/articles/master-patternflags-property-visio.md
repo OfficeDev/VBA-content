@@ -3,7 +3,7 @@ title: Master.PatternFlags Property (Visio)
 keywords: vis_sdr.chm10714065
 f1_keywords:
 - vis_sdr.chm10714065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.PatternFlags
 ms.assetid: cf7d5e0e-802e-c65b-6260-eaf68dfe6eb4

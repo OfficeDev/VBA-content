@@ -3,7 +3,7 @@ title: DataRecordset.GetRowData Method (Visio)
 keywords: vis_sdr.chm16460315
 f1_keywords:
 - vis_sdr.chm16460315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.GetRowData
 ms.assetid: 969d7702-e78c-736f-87d8-c8e7e8c5a778

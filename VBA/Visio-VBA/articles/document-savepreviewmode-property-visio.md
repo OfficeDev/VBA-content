@@ -3,7 +3,7 @@ title: Document.SavePreviewMode Property (Visio)
 keywords: vis_sdr.chm10514290
 f1_keywords:
 - vis_sdr.chm10514290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SavePreviewMode
 ms.assetid: e40f2b06-c9fd-3133-73c9-306f46f21e55

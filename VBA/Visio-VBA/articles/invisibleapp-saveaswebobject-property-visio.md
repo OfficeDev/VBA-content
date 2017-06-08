@@ -3,7 +3,7 @@ title: InvisibleApp.SaveAsWebObject Property (Visio)
 keywords: vis_sdr.chm17551660
 f1_keywords:
 - vis_sdr.chm17551660
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SaveAsWebObject
 ms.assetid: 9020e7db-b696-7484-c024-fd92906e486b

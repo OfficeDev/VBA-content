@@ -3,7 +3,7 @@ title: Cell.Shape Property (Visio)
 keywords: vis_sdr.chm10114320
 f1_keywords:
 - vis_sdr.chm10114320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Shape
 ms.assetid: 4929ea4e-6498-8ddc-1c38-1276043aaa4e

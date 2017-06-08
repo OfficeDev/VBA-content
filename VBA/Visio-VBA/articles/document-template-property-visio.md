@@ -3,7 +3,7 @@ title: Document.Template Property (Visio)
 keywords: vis_sdr.chm10514505
 f1_keywords:
 - vis_sdr.chm10514505
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Template
 ms.assetid: c9e579d7-4448-4dc7-0130-1b38d41cbf1a

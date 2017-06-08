@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.AfterReplaceShapes Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 5d7b8ec2-ef65-1a49-fb50-3fae95d56761
 ms.date: 06/08/2017
 ---

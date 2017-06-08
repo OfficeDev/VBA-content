@@ -3,7 +3,7 @@ title: VisRasterExportSizeUnits Enumeration (Visio)
 keywords: vis_sdr.chm70760
 f1_keywords:
 - vis_sdr.chm70760
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRasterExportSizeUnits
 ms.assetid: be0c0a49-3b2a-e601-3cdd-e5d72382dbcb

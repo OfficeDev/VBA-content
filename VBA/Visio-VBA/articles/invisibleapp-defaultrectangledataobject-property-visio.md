@@ -3,7 +3,7 @@ title: InvisibleApp.DefaultRectangleDataObject Property (Visio)
 keywords: vis_sdr.chm17560050
 f1_keywords:
 - vis_sdr.chm17560050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DefaultRectangleDataObject
 ms.assetid: 3ffedd3b-e769-a8a3-e6c0-0d75f7187466

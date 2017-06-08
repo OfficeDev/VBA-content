@@ -3,7 +3,7 @@ title: KeyboardEvent.KeyCode Property (Visio)
 keywords: vis_sdr.chm17051710
 f1_keywords:
 - vis_sdr.chm17051710
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.KeyCode
 ms.assetid: 6b96f3b0-ceeb-b59d-2a93-bdb4f1ba199e

@@ -3,7 +3,7 @@ title: VisContainerNested Enumeration (Visio)
 keywords: vis_sdr.chm70590
 f1_keywords:
 - vis_sdr.chm70590
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisContainerNested
 ms.assetid: 7c6093cd-f575-19ad-a3dd-bdf345b869fd

@@ -3,7 +3,7 @@ title: Page.DropMany Method (Visio)
 keywords: vis_sdr.chm10916240
 f1_keywords:
 - vis_sdr.chm10916240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DropMany
 ms.assetid: 81fc5b8d-3152-de69-2f8e-90d530aa5e08

@@ -3,7 +3,7 @@ title: Pages.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm11014080
 f1_keywords:
 - vis_sdr.chm11014080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.PersistsEvents
 ms.assetid: fb239aaf-ff62-8231-dd47-4fe8b70b3062

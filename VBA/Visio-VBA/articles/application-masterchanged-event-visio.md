@@ -1,6 +1,6 @@
 ---
 title: Application.MasterChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MasterChanged
 ms.assetid: f92d988d-1cbb-00c1-9d5d-46f001e76433

@@ -1,6 +1,6 @@
 ---
 title: Application.RunModeEntered Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.RunModeEntered
 ms.assetid: 3a8827d9-ff0c-a1c4-2848-72758277aff4

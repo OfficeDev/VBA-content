@@ -3,7 +3,7 @@ title: VisOnComponentEnterCodes Enumeration (Visio)
 keywords: vis_sdr.chm70360
 f1_keywords:
 - vis_sdr.chm70360
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: ea4e67c3-58e5-6b6c-913b-58dec0a5448c
 ms.date: 06/08/2017
 ---

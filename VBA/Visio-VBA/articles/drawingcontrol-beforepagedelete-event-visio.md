@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.BeforePageDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforePageDelete
 ms.assetid: 18b80e01-a323-bce3-7107-1979f5ecc5a3

@@ -3,7 +3,7 @@ title: Shape.GetLinkedDataRow Method (Visio)
 keywords: vis_sdr.chm11260215
 f1_keywords:
 - vis_sdr.chm11260215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GetLinkedDataRow
 ms.assetid: 55e578a5-da95-9a5c-3d1d-5cc5edeb57a7

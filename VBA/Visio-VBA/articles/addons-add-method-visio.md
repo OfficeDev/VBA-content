@@ -3,7 +3,7 @@ title: Addons.Add Method (Visio)
 keywords: vis_sdr.chm12516655
 f1_keywords:
 - vis_sdr.chm12516655
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Addons.Add
 ms.assetid: e0bc6a13-3063-0e1d-09b8-4a9c377695e6

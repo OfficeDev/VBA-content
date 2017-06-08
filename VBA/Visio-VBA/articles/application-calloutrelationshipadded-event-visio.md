@@ -1,6 +1,6 @@
 ---
 title: Application.CalloutRelationshipAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.CalloutRelationshipAdded
 ms.assetid: f4ab588e-509d-e11a-4ecd-060c67cbdfe3

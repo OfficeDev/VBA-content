@@ -1,6 +1,6 @@
 ---
 title: Application.MouseDown Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MouseDown
 ms.assetid: f65b3ee7-9b34-d09f-220f-3c7d39a40565

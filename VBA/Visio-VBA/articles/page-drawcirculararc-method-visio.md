@@ -3,7 +3,7 @@ title: Page.DrawCircularArc Method (Visio)
 keywords: vis_sdr.chm10952015
 f1_keywords:
 - vis_sdr.chm10952015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawCircularArc
 ms.assetid: 2c57ec5d-418c-df3b-a599-61d5fa560467

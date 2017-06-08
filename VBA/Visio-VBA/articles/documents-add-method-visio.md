@@ -3,7 +3,7 @@ title: Documents.Add Method (Visio)
 keywords: vis_sdr.chm10616660
 f1_keywords:
 - vis_sdr.chm10616660
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.Add
 ms.assetid: 6efefc80-9373-4fe2-b290-0fff6d6bad0f

@@ -1,6 +1,6 @@
 ---
 title: Application.MarkerEvent Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MarkerEvent
 ms.assetid: 1d0c20cc-ccfd-595c-04ea-afce487e582c

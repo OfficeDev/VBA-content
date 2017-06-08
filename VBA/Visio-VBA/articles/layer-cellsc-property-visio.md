@@ -3,7 +3,7 @@ title: Layer.CellsC Property (Visio)
 keywords: vis_sdr.chm11813195
 f1_keywords:
 - vis_sdr.chm11813195
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layer.CellsC
 ms.assetid: da7de08d-e492-a74d-a5de-139a32798deb

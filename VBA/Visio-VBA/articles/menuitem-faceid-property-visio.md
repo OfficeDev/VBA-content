@@ -3,7 +3,7 @@ title: MenuItem.FaceID Property (Visio)
 keywords: vis_sdr.chm12913495
 f1_keywords:
 - vis_sdr.chm12913495
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.FaceID
 ms.assetid: 1d4672d6-98e5-0875-4884-42f7d3ede52b

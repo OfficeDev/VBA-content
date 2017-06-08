@@ -3,7 +3,7 @@ title: Page.PageChanged Event (Visio)
 keywords: vis_sdr.chm10919205
 f1_keywords:
 - vis_sdr.chm10919205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.PageChanged
 ms.assetid: e42dd83e-9d2b-93f7-fe18-e3651fcfa608

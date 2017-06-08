@@ -1,6 +1,6 @@
 ---
 title: Application.ContainerRelationshipAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ContainerRelationshipAdded
 ms.assetid: 8d69056a-9814-d521-86ed-8cdbfa1aeb56

@@ -3,7 +3,7 @@ title: KeyboardEvent.Window Property (Visio)
 keywords: vis_sdr.chm17051480
 f1_keywords:
 - vis_sdr.chm17051480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.Window
 ms.assetid: cad43f39-59db-e2ac-0f2d-809e61db7789

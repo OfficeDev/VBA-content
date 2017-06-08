@@ -3,7 +3,7 @@ title: Page.OLEObjects Property (Visio)
 keywords: vis_sdr.chm10913965
 f1_keywords:
 - vis_sdr.chm10913965
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.OLEObjects
 ms.assetid: 8546ecb2-4889-465f-af6c-c312b1b4900a

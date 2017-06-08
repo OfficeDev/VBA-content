@@ -3,7 +3,7 @@ title: Shape.Resize Method (Visio)
 keywords: vis_sdr.chm11262205
 f1_keywords:
 - vis_sdr.chm11262205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Resize
 ms.assetid: ce8e9253-e1bb-e542-30eb-f9ac2e4305da

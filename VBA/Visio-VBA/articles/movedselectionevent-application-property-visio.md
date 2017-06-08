@@ -3,7 +3,7 @@ title: MovedSelectionEvent.Application Property (Visio)
 keywords: vis_sdr.chm17813090
 f1_keywords:
 - vis_sdr.chm17813090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.Application
 ms.assetid: fba31c9f-b18c-f6f6-d8ed-f60e82463fc9

@@ -3,7 +3,7 @@ title: VisLangFlags Enumeration (Visio)
 keywords: vis_sdr.chm70705
 f1_keywords:
 - vis_sdr.chm70705
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisLangFlags
 ms.assetid: 9654b6db-072a-6bcb-929d-05d18cb96009

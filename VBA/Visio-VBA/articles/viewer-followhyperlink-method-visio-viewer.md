@@ -1,6 +1,6 @@
 ---
 title: Viewer.FollowHyperlink Method (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.FollowHyperlink
 ms.assetid: eafbba6d-6429-744a-facd-e3412916a4bf

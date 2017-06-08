@@ -3,7 +3,7 @@ title: Layer.Remove Method (Visio)
 keywords: vis_sdr.chm11816470
 f1_keywords:
 - vis_sdr.chm11816470
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layer.Remove
 ms.assetid: d46c814b-1937-de81-de1b-e670667920c2

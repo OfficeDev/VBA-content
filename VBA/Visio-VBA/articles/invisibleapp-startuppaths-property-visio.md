@@ -3,7 +3,7 @@ title: InvisibleApp.StartupPaths Property (Visio)
 keywords: vis_sdr.chm17514415
 f1_keywords:
 - vis_sdr.chm17514415
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.StartupPaths
 ms.assetid: 0951fcb7-c40a-4d63-8f8b-dda2bd1ea853

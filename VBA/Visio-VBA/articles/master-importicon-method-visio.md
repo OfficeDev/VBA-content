@@ -3,7 +3,7 @@ title: Master.ImportIcon Method (Visio)
 keywords: vis_sdr.chm10716360
 f1_keywords:
 - vis_sdr.chm10716360
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.ImportIcon
 ms.assetid: 886d724d-9d02-ab6f-8049-80fa04f8caec

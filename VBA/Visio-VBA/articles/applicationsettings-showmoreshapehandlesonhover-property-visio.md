@@ -3,7 +3,7 @@ title: ApplicationSettings.ShowMoreShapeHandlesOnHover Property (Visio)
 keywords: vis_sdr.chm16260010
 f1_keywords:
 - vis_sdr.chm16260010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ShowMoreShapeHandlesOnHover
 ms.assetid: 159a3c68-b882-4352-b14d-0a0be2bcdf29

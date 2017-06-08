@@ -3,7 +3,7 @@ title: Application.EventInfo Property (Visio)
 keywords: vis_sdr.chm10013475
 f1_keywords:
 - vis_sdr.chm10013475
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.EventInfo
 ms.assetid: 19065ecc-62bb-5bc4-fdfa-452ab6224211

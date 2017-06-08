@@ -3,7 +3,7 @@ title: Shape.RowExists Property (Visio)
 keywords: vis_sdr.chm11214250
 f1_keywords:
 - vis_sdr.chm11214250
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.RowExists
 ms.assetid: bd89deb9-eda3-18d8-6305-bd380d9e649f

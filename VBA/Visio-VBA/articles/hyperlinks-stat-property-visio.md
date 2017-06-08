@@ -3,7 +3,7 @@ title: Hyperlinks.Stat Property (Visio)
 keywords: vis_sdr.chm15614420
 f1_keywords:
 - vis_sdr.chm15614420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlinks.Stat
 ms.assetid: da06f103-c53e-dcf5-013f-704a9208fdd6

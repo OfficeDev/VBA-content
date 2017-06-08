@@ -3,7 +3,7 @@ title: Shape.OneD Property (Visio)
 keywords: vis_sdr.chm11213975
 f1_keywords:
 - vis_sdr.chm11213975
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.OneD
 ms.assetid: f1511393-4402-ecf8-82a2-2026c56622d0

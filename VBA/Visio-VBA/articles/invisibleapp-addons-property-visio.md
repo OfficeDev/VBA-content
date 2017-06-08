@@ -3,7 +3,7 @@ title: InvisibleApp.Addons Property (Visio)
 keywords: vis_sdr.chm17513060
 f1_keywords:
 - vis_sdr.chm17513060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Addons
 ms.assetid: a0f1039c-595a-18cf-1484-842069db677f

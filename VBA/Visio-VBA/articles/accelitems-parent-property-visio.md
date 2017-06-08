@@ -3,7 +3,7 @@ title: AccelItems.Parent Property (Visio)
 keywords: vis_sdr.chm14614040
 f1_keywords:
 - vis_sdr.chm14614040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelItems.Parent
 ms.assetid: e2da1e5c-c173-aab8-af6c-9cddfbf6449d

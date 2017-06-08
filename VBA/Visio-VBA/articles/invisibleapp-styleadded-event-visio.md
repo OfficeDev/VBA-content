@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.StyleAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.StyleAdded
 ms.assetid: b45dadaa-6d7b-a320-76fb-d66e2b1d5e6a

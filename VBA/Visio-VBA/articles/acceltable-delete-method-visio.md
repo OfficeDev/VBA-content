@@ -3,7 +3,7 @@ title: AccelTable.Delete Method (Visio)
 keywords: vis_sdr.chm14716165
 f1_keywords:
 - vis_sdr.chm14716165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelTable.Delete
 ms.assetid: 737d0877-5937-35b7-6163-79f50b2f8fa8

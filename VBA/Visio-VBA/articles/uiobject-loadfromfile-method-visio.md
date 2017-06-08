@@ -3,7 +3,7 @@ title: UIObject.LoadFromFile Method (Visio)
 keywords: vis_sdr.chm14916390
 f1_keywords:
 - vis_sdr.chm14916390
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.LoadFromFile
 ms.assetid: 6a4ef6d5-9a3a-771b-be87-bc5f21bce4e7

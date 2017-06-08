@@ -3,7 +3,7 @@ title: Menu.PaletteWidth Property (Visio)
 keywords: vis_sdr.chm13114010
 f1_keywords:
 - vis_sdr.chm13114010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.PaletteWidth
 ms.assetid: c3e81368-12df-8904-5ebc-70544b7c911c

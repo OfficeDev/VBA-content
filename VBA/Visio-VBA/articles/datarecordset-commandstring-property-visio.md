@@ -3,7 +3,7 @@ title: DataRecordset.CommandString Property (Visio)
 keywords: vis_sdr.chm16460300
 f1_keywords:
 - vis_sdr.chm16460300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.CommandString
 ms.assetid: 7d9151b0-db8c-a8ce-edea-7ef25d241e98

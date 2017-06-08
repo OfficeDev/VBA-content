@@ -1,6 +1,6 @@
 ---
 title: Viewer.ShapeAtPoint Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ShapeAtPoint
 ms.assetid: 0b9562f2-aa9e-5ca2-b3d3-6d6f0f65f5a3

@@ -3,7 +3,7 @@ title: VisValidationFlags Enumeration (Visio)
 keywords: vis_sdr.chm70675
 f1_keywords:
 - vis_sdr.chm70675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisValidationFlags
 ms.assetid: 5dbb841a-615e-5575-9eec-a2870e370e38

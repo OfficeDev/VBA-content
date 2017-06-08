@@ -3,7 +3,7 @@ title: Document.DocumentCloseCanceled Event (Visio)
 keywords: vis_sdr.chm10519340
 f1_keywords:
 - vis_sdr.chm10519340
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DocumentCloseCanceled
 ms.assetid: f553b8d5-0531-4bc6-d27d-315193b76e0b

@@ -3,7 +3,7 @@ title: Cell.ResultInt Property (Visio)
 keywords: vis_sdr.chm10114215
 f1_keywords:
 - vis_sdr.chm10114215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.ResultInt
 ms.assetid: f3e2ef7d-cde1-a0d4-3d02-f5bf329cd0c3

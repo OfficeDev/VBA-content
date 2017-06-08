@@ -1,6 +1,6 @@
 ---
 title: Viewer.LayerColorTrans Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.LayerColorTrans
 ms.assetid: b081bc59-701f-3ac5-6324-9eb055185c09

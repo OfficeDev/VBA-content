@@ -3,7 +3,7 @@ title: Application.AutoLayout Property (Visio)
 keywords: vis_sdr.chm10013105
 f1_keywords:
 - vis_sdr.chm10013105
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AutoLayout
 ms.assetid: b631def8-d271-8ed0-880a-db8a1ee26759

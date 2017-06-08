@@ -3,7 +3,7 @@ title: Validation.ObjectType Property (Visio)
 keywords: vis_sdr.chm18013960
 f1_keywords:
 - vis_sdr.chm18013960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Validation.ObjectType
 ms.assetid: 721d90f5-2f45-2072-5b2c-7904a8274c03

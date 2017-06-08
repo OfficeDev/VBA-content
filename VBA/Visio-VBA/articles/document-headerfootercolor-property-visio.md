@@ -3,7 +3,7 @@ title: Document.HeaderFooterColor Property (Visio)
 keywords: vis_sdr.chm10550635
 f1_keywords:
 - vis_sdr.chm10550635
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.HeaderFooterColor
 ms.assetid: d1f3887f-d6b5-feb5-b119-ddf3d9eb3542

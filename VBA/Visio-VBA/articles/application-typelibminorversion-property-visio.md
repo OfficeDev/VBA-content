@@ -3,7 +3,7 @@ title: Application.TypelibMinorVersion Property (Visio)
 keywords: vis_sdr.chm10014700
 f1_keywords:
 - vis_sdr.chm10014700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.TypelibMinorVersion
 ms.assetid: ee3a31db-ddfe-a036-a570-43e6f27ad024

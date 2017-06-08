@@ -3,7 +3,7 @@ title: Pages.CalloutRelationshipDeleted Event (Visio)
 keywords: vis_sdr.chm11062080
 f1_keywords:
 - vis_sdr.chm11062080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.CalloutRelationshipDeleted
 ms.assetid: 5e5a3149-9179-8e7c-3728-36e7e2cc3c71

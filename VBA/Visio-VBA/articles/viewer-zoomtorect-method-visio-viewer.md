@@ -1,6 +1,6 @@
 ---
 title: Viewer.ZoomToRect Method (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ZoomToRect
 ms.assetid: 80d4da31-55b9-abc8-9727-6ebd8ebe0ddb

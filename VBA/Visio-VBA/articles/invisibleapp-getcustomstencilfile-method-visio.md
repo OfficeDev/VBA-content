@@ -3,7 +3,7 @@ title: InvisibleApp.GetCustomStencilFile Method (Visio)
 keywords: vis_sdr.chm17562115
 f1_keywords:
 - vis_sdr.chm17562115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GetCustomStencilFile
 ms.assetid: 8ccb6786-de34-5fc2-83ed-aae5f9f7a191

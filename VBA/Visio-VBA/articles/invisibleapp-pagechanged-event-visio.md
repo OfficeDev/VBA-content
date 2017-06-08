@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.PageChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PageChanged
 ms.assetid: e7cb83ea-ddca-1b4c-7f82-38d7385f9ed1

@@ -1,6 +1,6 @@
 ---
 title: Comments.Stat Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 1f5f29b2-236c-91b6-6d25-7bacc37ca96c
 ms.date: 06/08/2017
 ---

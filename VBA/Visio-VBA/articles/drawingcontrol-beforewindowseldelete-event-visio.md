@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.BeforeWindowSelDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowSelDelete
 ms.assetid: 698ced64-c647-bee3-bd3d-31dc7386b7af

@@ -3,7 +3,7 @@ title: InvisibleApp.PurgeUndo Method (Visio)
 keywords: vis_sdr.chm17516450
 f1_keywords:
 - vis_sdr.chm17516450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.PurgeUndo
 ms.assetid: 8f1ed9a6-1e1e-0059-d0df-1b628e0f45ff

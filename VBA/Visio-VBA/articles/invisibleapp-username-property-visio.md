@@ -3,7 +3,7 @@ title: InvisibleApp.UserName Property (Visio)
 keywords: vis_sdr.chm17514625
 f1_keywords:
 - vis_sdr.chm17514625
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.UserName
 ms.assetid: bcaea3cf-aa27-b6b9-b330-ff67e61363c8

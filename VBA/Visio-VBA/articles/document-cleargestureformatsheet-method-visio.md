@@ -3,7 +3,7 @@ title: Document.ClearGestureFormatSheet Method (Visio)
 keywords: vis_sdr.chm10516120
 f1_keywords:
 - vis_sdr.chm10516120
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ClearGestureFormatSheet
 ms.assetid: 46f411b0-b822-cc7c-62e3-0b756d211d5d

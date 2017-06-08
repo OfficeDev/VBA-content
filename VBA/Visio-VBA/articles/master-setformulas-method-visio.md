@@ -3,7 +3,7 @@ title: Master.SetFormulas Method (Visio)
 keywords: vis_sdr.chm10716575
 f1_keywords:
 - vis_sdr.chm10716575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.SetFormulas
 ms.assetid: fb419eb5-6bd3-cfc7-d358-cef9e68dddbf

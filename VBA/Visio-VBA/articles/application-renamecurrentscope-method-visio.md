@@ -3,7 +3,7 @@ title: Application.RenameCurrentScope Method (Visio)
 keywords: vis_sdr.chm10050815
 f1_keywords:
 - vis_sdr.chm10050815
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.RenameCurrentScope
 ms.assetid: 0ccd9c6b-704c-b956-5ea9-4f1ed01baee7

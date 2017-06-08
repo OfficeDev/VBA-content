@@ -1,6 +1,6 @@
 ---
 title: Viewer.ReviewerColor Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ReviewerColor
 ms.assetid: 6ec6b962-fc19-1fec-2482-836ab71ece90

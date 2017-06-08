@@ -3,7 +3,7 @@ title: Section.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm15714080
 f1_keywords:
 - vis_sdr.chm15714080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.PersistsEvents
 ms.assetid: 2408ada3-86de-8a8d-68b9-758fe0da7f4e

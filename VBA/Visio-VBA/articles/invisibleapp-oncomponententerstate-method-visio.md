@@ -3,7 +3,7 @@ title: InvisibleApp.OnComponentEnterState Method (Visio)
 keywords: vis_sdr.chm17552045
 f1_keywords:
 - vis_sdr.chm17552045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.OnComponentEnterState
 ms.assetid: 4550b7cf-3aaa-cfba-edf0-662847d7e970

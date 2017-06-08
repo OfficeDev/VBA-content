@@ -3,7 +3,7 @@ title: MSGWrap.Application Property (Visio)
 keywords: vis_sdr.chm16113090
 f1_keywords:
 - vis_sdr.chm16113090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MSGWrap.Application
 ms.assetid: 74bd67e2-870d-5852-d69e-06f1003bb7ce

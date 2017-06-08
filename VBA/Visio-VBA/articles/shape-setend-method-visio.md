@@ -3,7 +3,7 @@ title: Shape.SetEnd Method (Visio)
 keywords: vis_sdr.chm11216570
 f1_keywords:
 - vis_sdr.chm11216570
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SetEnd
 ms.assetid: 5f2c7b85-52b3-9147-a989-b2dce61c3493

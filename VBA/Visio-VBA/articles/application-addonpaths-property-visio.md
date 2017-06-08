@@ -3,7 +3,7 @@ title: Application.AddonPaths Property (Visio)
 keywords: vis_sdr.chm10013055
 f1_keywords:
 - vis_sdr.chm10013055
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AddonPaths
 ms.assetid: ec6cf92d-5570-8c24-87c2-68f26f3721a4

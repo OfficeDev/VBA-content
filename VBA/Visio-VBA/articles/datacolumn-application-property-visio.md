@@ -3,7 +3,7 @@ title: DataColumn.Application Property (Visio)
 keywords: vis_sdr.chm16713090
 f1_keywords:
 - vis_sdr.chm16713090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataColumn.Application
 ms.assetid: fe10e16c-b86f-2dfc-9c6a-5ee4330363cd

@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.QueryCancelUngroup Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelUngroup
 ms.assetid: b1b24d82-86a5-6417-ba29-78f67addf206

@@ -1,6 +1,6 @@
 ---
 title: Viewer.AlertsEnabled Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AlertsEnabled
 ms.assetid: 1bf74608-3652-b015-f862-b503d11e5c77

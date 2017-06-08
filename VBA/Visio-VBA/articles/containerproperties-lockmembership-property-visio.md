@@ -3,7 +3,7 @@ title: ContainerProperties.LockMembership Property (Visio)
 keywords: vis_sdr.chm17662605
 f1_keywords:
 - vis_sdr.chm17662605
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.LockMembership
 ms.assetid: b82455fc-f3cb-66de-c022-ac6f63f5b4b2

@@ -3,7 +3,7 @@ title: Page.GetFormulas Method (Visio)
 keywords: vis_sdr.chm10916310
 f1_keywords:
 - vis_sdr.chm10916310
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.GetFormulas
 ms.assetid: d501f50f-2e8b-36bb-e303-97f445908e4a

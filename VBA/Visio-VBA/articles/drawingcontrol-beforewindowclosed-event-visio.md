@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.BeforeWindowClosed Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowClosed
 ms.assetid: eb253857-42a1-3371-484d-e01fea21c8cc

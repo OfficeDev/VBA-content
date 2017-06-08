@@ -3,7 +3,7 @@ title: VisMasterProperties Enumeration (Visio)
 keywords: vis_sdr.chm70155
 f1_keywords:
 - vis_sdr.chm70155
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 569ce922-4dc8-469e-3eb9-0e9ddd61657c
 ms.date: 06/08/2017
 ---

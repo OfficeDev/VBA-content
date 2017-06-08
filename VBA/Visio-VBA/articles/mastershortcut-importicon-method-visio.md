@@ -3,7 +3,7 @@ title: MasterShortcut.ImportIcon Method (Visio)
 keywords: vis_sdr.chm16016360
 f1_keywords:
 - vis_sdr.chm16016360
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.ImportIcon
 ms.assetid: f48cb1ea-e0b2-ebba-39b3-da7e6be46dcb

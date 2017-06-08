@@ -3,7 +3,7 @@ title: MouseEvent Object (Visio)
 keywords: vis_sdr.chm52060
 f1_keywords:
 - vis_sdr.chm52060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent
 ms.assetid: 1ae26c28-8fdd-ecfe-b008-d4788c08ce5a

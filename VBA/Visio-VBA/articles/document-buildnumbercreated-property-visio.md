@@ -3,7 +3,7 @@ title: Document.BuildNumberCreated Property (Visio)
 keywords: vis_sdr.chm10550520
 f1_keywords:
 - vis_sdr.chm10550520
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BuildNumberCreated
 ms.assetid: a7fb5bad-ca87-820a-be93-458ad280b9d0

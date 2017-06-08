@@ -3,7 +3,7 @@ title: Menu.ActionText Property (Visio)
 keywords: vis_sdr.chm13113015
 f1_keywords:
 - vis_sdr.chm13113015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.ActionText
 ms.assetid: 27d58281-5c00-56dd-25a4-2f65965daac2

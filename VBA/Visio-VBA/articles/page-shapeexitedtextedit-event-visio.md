@@ -3,7 +3,7 @@ title: Page.ShapeExitedTextEdit Event (Visio)
 keywords: vis_sdr.chm10919385
 f1_keywords:
 - vis_sdr.chm10919385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ShapeExitedTextEdit
 ms.assetid: fd3d6512-2cc6-e7ab-f0dd-c44ee5054890

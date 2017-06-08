@@ -3,7 +3,7 @@ title: Shape.DrawNURBS Method (Visio)
 keywords: vis_sdr.chm11216205
 f1_keywords:
 - vis_sdr.chm11216205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DrawNURBS
 ms.assetid: e1209142-3902-3231-a019-f6e091978847

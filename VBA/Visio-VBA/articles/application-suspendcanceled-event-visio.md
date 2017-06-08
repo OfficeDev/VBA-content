@@ -1,6 +1,6 @@
 ---
 title: Application.SuspendCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SuspendCanceled
 ms.assetid: 63b2a2c6-5ac7-2e04-e7ac-3295df179498

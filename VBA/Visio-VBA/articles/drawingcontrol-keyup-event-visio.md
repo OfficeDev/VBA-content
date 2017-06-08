@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.KeyUp Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.KeyUp
 ms.assetid: 7b157acb-fc8d-5b31-d53c-0b319270a2b1

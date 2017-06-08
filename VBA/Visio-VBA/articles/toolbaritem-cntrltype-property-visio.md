@@ -3,7 +3,7 @@ title: ToolbarItem.CntrlType Property (Visio)
 keywords: vis_sdr.chm13513265
 f1_keywords:
 - vis_sdr.chm13513265
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.CntrlType
 ms.assetid: 88995561-9227-61ae-693a-83f5bba5bede

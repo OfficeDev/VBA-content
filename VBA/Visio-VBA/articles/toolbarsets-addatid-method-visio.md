@@ -3,7 +3,7 @@ title: ToolbarSets.AddAtID Method (Visio)
 keywords: vis_sdr.chm14016020
 f1_keywords:
 - vis_sdr.chm14016020
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarSets.AddAtID
 ms.assetid: 1c60bf99-636a-35c5-2450-be0318970527

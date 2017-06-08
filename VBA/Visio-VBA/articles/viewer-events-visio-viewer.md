@@ -1,6 +1,6 @@
 ---
 title: Viewer Events (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 31fed6dc-0c4f-46b5-9114-c05c343f49c5
 ms.date: 06/08/2017
 ---

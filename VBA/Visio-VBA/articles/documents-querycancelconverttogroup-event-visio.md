@@ -3,7 +3,7 @@ title: Documents.QueryCancelConvertToGroup Event (Visio)
 keywords: vis_sdr.chm10619325
 f1_keywords:
 - vis_sdr.chm10619325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.QueryCancelConvertToGroup
 ms.assetid: 24ed9b12-d651-8c23-d6c8-2b8a357acce6

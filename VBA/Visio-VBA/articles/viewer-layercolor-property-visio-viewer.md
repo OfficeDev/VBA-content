@@ -1,6 +1,6 @@
 ---
 title: Viewer.LayerColor Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.LayerColor
 ms.assetid: 5e1bb40e-3e50-7ab9-a43d-606df8e0d14f

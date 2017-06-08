@@ -3,7 +3,7 @@ title: Document.MasterDeleteCanceled Event (Visio)
 keywords: vis_sdr.chm10519355
 f1_keywords:
 - vis_sdr.chm10519355
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.MasterDeleteCanceled
 ms.assetid: e2d82547-46a9-7994-e317-78be658208c6

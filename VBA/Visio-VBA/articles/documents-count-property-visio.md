@@ -3,7 +3,7 @@ title: Documents.Count Property (Visio)
 keywords: vis_sdr.chm10613330
 f1_keywords:
 - vis_sdr.chm10613330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.Count
 ms.assetid: a639f195-9b30-3aaa-f504-b720817cd8d3

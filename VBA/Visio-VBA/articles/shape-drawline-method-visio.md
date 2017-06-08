@@ -3,7 +3,7 @@ title: Shape.DrawLine Method (Visio)
 keywords: vis_sdr.chm11216200
 f1_keywords:
 - vis_sdr.chm11216200
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DrawLine
 ms.assetid: 8793104a-0ded-e2ca-54e8-acf987b9c797

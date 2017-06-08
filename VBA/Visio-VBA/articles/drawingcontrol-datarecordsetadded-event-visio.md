@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.DataRecordsetAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.DataRecordsetAdded
 ms.assetid: 1db176b9-ba62-de8d-c7bc-190e4a5fa996

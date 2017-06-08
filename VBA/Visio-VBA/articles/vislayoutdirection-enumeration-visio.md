@@ -3,7 +3,7 @@ title: VisLayoutDirection Enumeration (Visio)
 keywords: vis_sdr.chm70640
 f1_keywords:
 - vis_sdr.chm70640
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisLayoutDirection
 ms.assetid: 8161dc39-424c-1bec-408e-a2d829824d29

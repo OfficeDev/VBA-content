@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.UngroupCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.UngroupCanceled
 ms.assetid: dc5ad0f0-13c4-b02f-fddd-4f038753b848

@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings Object (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 1f286540-2c46-4a2a-b133-2bfd6168db36
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: VisFieldCategories Enumeration (Visio)
 keywords: vis_sdr.chm70135
 f1_keywords:
 - vis_sdr.chm70135
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: f10df918-5be3-e883-1da5-2a932fd1074f
 ms.date: 06/08/2017
 ---

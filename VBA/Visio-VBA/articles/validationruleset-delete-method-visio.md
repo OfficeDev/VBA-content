@@ -3,7 +3,7 @@ title: ValidationRuleSet.Delete Method (Visio)
 keywords: vis_sdr.chm18216165
 f1_keywords:
 - vis_sdr.chm18216165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRuleSet.Delete
 ms.assetid: bd5fcd79-6cc6-7e24-b35f-944f9dee2cab

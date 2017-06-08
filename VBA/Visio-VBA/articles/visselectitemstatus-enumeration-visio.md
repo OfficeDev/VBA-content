@@ -3,7 +3,7 @@ title: VisSelectItemStatus Enumeration (Visio)
 keywords: vis_sdr.chm70240
 f1_keywords:
 - vis_sdr.chm70240
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: e1fde932-182f-a99e-7b76-fa0d541d8993
 ms.date: 06/08/2017
 ---

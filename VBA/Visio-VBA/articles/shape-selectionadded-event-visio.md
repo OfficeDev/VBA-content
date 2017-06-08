@@ -3,7 +3,7 @@ title: Shape.SelectionAdded Event (Visio)
 keywords: vis_sdr.chm11219215
 f1_keywords:
 - vis_sdr.chm11219215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SelectionAdded
 ms.assetid: ca63a476-a7d0-bd27-6c41-5e36b4ef56ed

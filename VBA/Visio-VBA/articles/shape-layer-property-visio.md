@@ -3,7 +3,7 @@ title: Shape.Layer Property (Visio)
 keywords: vis_sdr.chm11213810
 f1_keywords:
 - vis_sdr.chm11213810
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Layer
 ms.assetid: fb076dda-fa1f-a1fe-c97b-03ba3c7041f0

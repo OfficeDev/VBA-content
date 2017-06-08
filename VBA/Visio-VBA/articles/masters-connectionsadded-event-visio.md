@@ -3,7 +3,7 @@ title: Masters.ConnectionsAdded Event (Visio)
 keywords: vis_sdr.chm10819095
 f1_keywords:
 - vis_sdr.chm10819095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ConnectionsAdded
 ms.assetid: 1ebdad8c-5073-7f6c-d811-42d3725776ad

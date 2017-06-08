@@ -3,7 +3,7 @@ title: Styles.GetNamesU Method (Visio)
 keywords: vis_sdr.chm11551940
 f1_keywords:
 - vis_sdr.chm11551940
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.GetNamesU
 ms.assetid: af0d09e4-9ab5-2b2d-2196-5b4bfb21d11f

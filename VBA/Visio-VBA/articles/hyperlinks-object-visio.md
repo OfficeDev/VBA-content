@@ -3,7 +3,7 @@ title: Hyperlinks Object (Visio)
 keywords: vis_sdr.chm10115
 f1_keywords:
 - vis_sdr.chm10115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlinks
 ms.assetid: 7365511f-d689-772a-e42c-d3efbcf51d0b

@@ -3,7 +3,7 @@ title: Cell.ResultIU Property (Visio)
 keywords: vis_sdr.chm10114220
 f1_keywords:
 - vis_sdr.chm10114220
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.ResultIU
 ms.assetid: 4d752d78-e112-bb45-08c7-5411d7d79beb

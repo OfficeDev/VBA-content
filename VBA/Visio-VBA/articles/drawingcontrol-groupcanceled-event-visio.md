@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.GroupCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.GroupCanceled
 ms.assetid: b7f6002c-8fe9-ed07-e9cb-519b7b2b8931

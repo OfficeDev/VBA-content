@@ -3,7 +3,7 @@ title: Global.Vbe Property (Visio)
 keywords: vis_sdr.chm12814630
 f1_keywords:
 - vis_sdr.chm12814630
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Global.Vbe
 ms.assetid: e9840bf6-b6a5-39e5-36c8-517cd772d54d

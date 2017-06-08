@@ -3,7 +3,7 @@ title: Fonts.Stat Property (Visio)
 keywords: vis_sdr.chm12114420
 f1_keywords:
 - vis_sdr.chm12114420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Fonts.Stat
 ms.assetid: b08a6b37-173b-61b4-d136-6a8b4a598a6b

@@ -3,7 +3,7 @@ title: ApplicationSettings.ApplyBackgroundToDocument Property (Visio)
 keywords: vis_sdr.chm16262500
 f1_keywords:
 - vis_sdr.chm16262500
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ApplyBackgroundToDocument
 ms.assetid: 441f1147-7f91-a4ac-f69c-0f1258400499

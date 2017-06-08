@@ -3,7 +3,7 @@ title: Toolbar.Position Property (Visio)
 keywords: vis_sdr.chm13714095
 f1_keywords:
 - vis_sdr.chm13714095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbar.Position
 ms.assetid: a1642793-7e72-332e-db3c-67438ac62675

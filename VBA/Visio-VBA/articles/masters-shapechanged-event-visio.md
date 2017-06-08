@@ -3,7 +3,7 @@ title: Masters.ShapeChanged Event (Visio)
 keywords: vis_sdr.chm10819230
 f1_keywords:
 - vis_sdr.chm10819230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ShapeChanged
 ms.assetid: 81f3c6b1-0148-aa72-716f-d24484e6710b

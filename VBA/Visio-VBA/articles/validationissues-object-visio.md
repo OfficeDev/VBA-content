@@ -3,7 +3,7 @@ title: ValidationIssues Object (Visio)
 keywords: vis_sdr.chm61085
 f1_keywords:
 - vis_sdr.chm61085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationIssues
 ms.assetid: 13362aa2-7e09-14ed-8aa9-bf2a93edf302

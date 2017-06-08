@@ -3,7 +3,7 @@ title: ContainerProperties.ListDirection Property (Visio)
 keywords: vis_sdr.chm17662600
 f1_keywords:
 - vis_sdr.chm17662600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ListDirection
 ms.assetid: 0024e464-a865-dfd2-9936-569827e529c0

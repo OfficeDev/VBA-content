@@ -3,7 +3,7 @@ title: MasterShortcuts.Application Property (Visio)
 keywords: vis_sdr.chm15913090
 f1_keywords:
 - vis_sdr.chm15913090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Application
 ms.assetid: fb560626-4883-e02f-c3c4-3dc9d2364951

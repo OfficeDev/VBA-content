@@ -3,7 +3,7 @@ title: Document.SharedWorkspace Property (Visio)
 keywords: vis_sdr.chm10560136
 f1_keywords:
 - vis_sdr.chm10560136
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SharedWorkspace
 ms.assetid: 100d635c-2b2a-4ba3-0490-bc4a4c4efb8c

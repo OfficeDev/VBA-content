@@ -3,7 +3,7 @@ title: Application.BuiltInMenus Property (Visio)
 keywords: vis_sdr.chm10013160
 f1_keywords:
 - vis_sdr.chm10013160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BuiltInMenus
 ms.assetid: 0f76537c-5d9b-bcfa-c528-4644bd0375d5

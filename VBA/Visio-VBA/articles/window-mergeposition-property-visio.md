@@ -3,7 +3,7 @@ title: Window.MergePosition Property (Visio)
 keywords: vis_sdr.chm11650725
 f1_keywords:
 - vis_sdr.chm11650725
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.MergePosition
 ms.assetid: 0856bcec-191d-5c9c-f44a-cd430bc3ceb8

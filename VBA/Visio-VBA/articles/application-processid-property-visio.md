@@ -3,7 +3,7 @@ title: Application.ProcessID Property (Visio)
 keywords: vis_sdr.chm10014145
 f1_keywords:
 - vis_sdr.chm10014145
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ProcessID
 ms.assetid: d089bfa9-83a4-1b44-80ab-f23c5198801f

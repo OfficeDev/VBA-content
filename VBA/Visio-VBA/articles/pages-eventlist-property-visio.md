@@ -3,7 +3,7 @@ title: Pages.EventList Property (Visio)
 keywords: vis_sdr.chm11013480
 f1_keywords:
 - vis_sdr.chm11013480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.EventList
 ms.assetid: 2baa8080-d099-c2c0-86f6-040c8edd82c0

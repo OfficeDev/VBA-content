@@ -3,7 +3,7 @@ title: Paths Object (Visio)
 keywords: vis_sdr.chm10205
 f1_keywords:
 - vis_sdr.chm10205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Paths
 ms.assetid: 9adcc130-555e-7eee-d9a0-66ee7116e41f

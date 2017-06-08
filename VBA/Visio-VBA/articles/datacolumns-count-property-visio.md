@@ -3,7 +3,7 @@ title: DataColumns.Count Property (Visio)
 keywords: vis_sdr.chm16613330
 f1_keywords:
 - vis_sdr.chm16613330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataColumns.Count
 ms.assetid: 13caba4a-adb5-bd5d-70ef-60c8c25d5dde

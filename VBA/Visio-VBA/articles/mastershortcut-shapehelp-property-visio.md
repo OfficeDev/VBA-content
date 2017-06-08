@@ -3,7 +3,7 @@ title: MasterShortcut.ShapeHelp Property (Visio)
 keywords: vis_sdr.chm16014325
 f1_keywords:
 - vis_sdr.chm16014325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.ShapeHelp
 ms.assetid: 79a4c230-4f34-1644-6da3-bd72f116c11e

@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.MasterChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterChanged
 ms.assetid: 242c96ec-a29c-421a-ca7b-cc374cc5fc69

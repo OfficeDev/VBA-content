@@ -1,6 +1,6 @@
 ---
 title: Application.AppDeactivated Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AppDeactivated
 ms.assetid: 362bb2fb-91a2-01be-e686-3bf076388341

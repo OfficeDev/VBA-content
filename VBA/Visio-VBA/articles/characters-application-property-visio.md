@@ -3,7 +3,7 @@ title: Characters.Application Property (Visio)
 keywords: vis_sdr.chm10213090
 f1_keywords:
 - vis_sdr.chm10213090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.Application
 ms.assetid: 88c55936-8dbc-b009-7755-5f5e66484489

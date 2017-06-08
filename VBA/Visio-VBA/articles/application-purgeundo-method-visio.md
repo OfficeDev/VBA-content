@@ -3,7 +3,7 @@ title: Application.PurgeUndo Method (Visio)
 keywords: vis_sdr.chm10016450
 f1_keywords:
 - vis_sdr.chm10016450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.PurgeUndo
 ms.assetid: d5d18607-2b1d-6b47-2a81-43345ff0be8a

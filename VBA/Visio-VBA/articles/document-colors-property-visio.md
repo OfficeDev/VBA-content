@@ -3,7 +3,7 @@ title: Document.Colors Property (Visio)
 keywords: vis_sdr.chm10513270
 f1_keywords:
 - vis_sdr.chm10513270
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Colors
 ms.assetid: e7ed0aa2-c365-bbf7-e06c-5df34094dd9a

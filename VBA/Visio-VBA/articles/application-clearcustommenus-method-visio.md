@@ -3,7 +3,7 @@ title: Application.ClearCustomMenus Method (Visio)
 keywords: vis_sdr.chm10016110
 f1_keywords:
 - vis_sdr.chm10016110
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ClearCustomMenus
 ms.assetid: 01c7f266-e940-b02c-b77d-7178c9296f98

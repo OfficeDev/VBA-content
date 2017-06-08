@@ -3,7 +3,7 @@ title: Document.SetCustomMenus Method (Visio)
 keywords: vis_sdr.chm10516560
 f1_keywords:
 - vis_sdr.chm10516560
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SetCustomMenus
 ms.assetid: 05d373a4-3aec-a427-57aa-94fc3ac10161

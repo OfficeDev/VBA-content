@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.MustFlushScopeBeginning Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MustFlushScopeBeginning
 ms.assetid: cb176106-b67a-134f-e171-6c454a47d3b2

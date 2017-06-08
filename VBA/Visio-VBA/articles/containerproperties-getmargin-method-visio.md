@@ -3,7 +3,7 @@ title: ContainerProperties.GetMargin Method (Visio)
 keywords: vis_sdr.chm17662300
 f1_keywords:
 - vis_sdr.chm17662300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.GetMargin
 ms.assetid: c0e224a1-f7a6-e16c-a99c-766a5a4ac207

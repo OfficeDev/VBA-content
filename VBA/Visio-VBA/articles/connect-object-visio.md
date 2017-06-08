@@ -3,7 +3,7 @@ title: Connect Object (Visio)
 keywords: vis_sdr.chm10065
 f1_keywords:
 - vis_sdr.chm10065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect
 ms.assetid: f29481d6-ceaa-69b4-5e44-26e06199488d

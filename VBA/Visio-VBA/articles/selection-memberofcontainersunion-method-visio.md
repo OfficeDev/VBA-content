@@ -3,7 +3,7 @@ title: Selection.MemberOfContainersUnion Method (Visio)
 keywords: vis_sdr.chm11162225
 f1_keywords:
 - vis_sdr.chm11162225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.MemberOfContainersUnion
 ms.assetid: b21b01df-08cd-4222-7ccd-1e2b9b34d462

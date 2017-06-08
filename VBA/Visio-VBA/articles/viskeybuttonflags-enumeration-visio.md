@@ -3,7 +3,7 @@ title: VisKeyButtonFlags Enumeration (Visio)
 keywords: vis_sdr.chm70410
 f1_keywords:
 - vis_sdr.chm70410
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: ac14b568-bed8-1caa-c36f-9349b740257e
 ms.date: 06/08/2017
 ---

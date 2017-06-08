@@ -3,7 +3,7 @@ title: Application.InvokeHelp Method (Visio)
 keywords: vis_sdr.chm10050695
 f1_keywords:
 - vis_sdr.chm10050695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.InvokeHelp
 ms.assetid: dffc0412-9b90-466c-c0f9-d32f702d4927

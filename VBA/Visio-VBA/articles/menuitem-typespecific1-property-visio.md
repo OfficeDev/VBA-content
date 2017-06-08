@@ -3,7 +3,7 @@ title: MenuItem.TypeSpecific1 Property (Visio)
 keywords: vis_sdr.chm12914600
 f1_keywords:
 - vis_sdr.chm12914600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.TypeSpecific1
 ms.assetid: fa0218de-5644-f2f0-9cad-d4d927349e00

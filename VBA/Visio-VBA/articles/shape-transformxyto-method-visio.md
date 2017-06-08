@@ -3,7 +3,7 @@ title: Shape.TransformXYTo Method (Visio)
 keywords: vis_sdr.chm11216605
 f1_keywords:
 - vis_sdr.chm11216605
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.TransformXYTo
 ms.assetid: dc85cf08-0d83-34ff-8389-94a0f5f05c5e

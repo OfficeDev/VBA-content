@@ -3,7 +3,7 @@ title: Shape.GeometryCount Property (Visio)
 keywords: vis_sdr.chm11213600
 f1_keywords:
 - vis_sdr.chm11213600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GeometryCount
 ms.assetid: 4dffe649-3629-6e3e-bcc0-d860eb1efdbe

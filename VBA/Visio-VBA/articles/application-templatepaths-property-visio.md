@@ -3,7 +3,7 @@ title: Application.TemplatePaths Property (Visio)
 keywords: vis_sdr.chm10014510
 f1_keywords:
 - vis_sdr.chm10014510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.TemplatePaths
 ms.assetid: 149a9ef2-e255-3dad-2177-b29c173fa66d

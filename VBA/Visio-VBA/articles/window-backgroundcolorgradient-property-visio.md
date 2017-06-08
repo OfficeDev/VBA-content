@@ -3,7 +3,7 @@ title: Window.BackgroundColorGradient Property (Visio)
 keywords: vis_sdr.chm11651910
 f1_keywords:
 - vis_sdr.chm11651910
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.BackgroundColorGradient
 ms.assetid: a23e1075-9a3f-e04a-c6eb-8e4d983b8970

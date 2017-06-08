@@ -3,7 +3,7 @@ title: KeyboardEvent.KeyAscii Property (Visio)
 keywords: vis_sdr.chm17051720
 f1_keywords:
 - vis_sdr.chm17051720
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.KeyAscii
 ms.assetid: 0e4e1b3b-a93a-20f3-982f-88879e2a6393

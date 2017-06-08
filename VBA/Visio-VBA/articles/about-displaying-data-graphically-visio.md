@@ -1,6 +1,6 @@
 ---
 title: About Displaying Data Graphically (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 48acb79c-44b8-c63b-f7fb-409b5aa9b0cd
 ms.date: 06/08/2017
 ---

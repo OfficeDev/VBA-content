@@ -3,7 +3,7 @@ title: VisRasterExportDataCompression Enumeration (Visio)
 keywords: vis_sdr.chm70750
 f1_keywords:
 - vis_sdr.chm70750
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRasterExportDataCompression
 ms.assetid: 28fbd635-2b8f-7830-27d7-3b85c3879f19

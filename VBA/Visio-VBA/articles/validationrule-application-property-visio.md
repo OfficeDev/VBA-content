@@ -3,7 +3,7 @@ title: ValidationRule.Application Property (Visio)
 keywords: vis_sdr.chm18413090
 f1_keywords:
 - vis_sdr.chm18413090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.Application
 ms.assetid: 8ee64eeb-478a-f036-acfd-f55d8174fd3c

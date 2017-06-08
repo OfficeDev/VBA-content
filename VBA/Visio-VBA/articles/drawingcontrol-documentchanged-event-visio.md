@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.DocumentChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentChanged
 ms.assetid: b929c918-d12f-22f9-bd5b-4461a84dfb83

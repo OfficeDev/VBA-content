@@ -1,6 +1,6 @@
 ---
 title: Pages.ReplaceShapesCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: f0ce8c66-7a15-5f91-8c89-e177bc6671d2
 ms.date: 06/08/2017
 ---

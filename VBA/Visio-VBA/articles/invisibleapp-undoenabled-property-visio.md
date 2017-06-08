@@ -3,7 +3,7 @@ title: InvisibleApp.UndoEnabled Property (Visio)
 keywords: vis_sdr.chm17514610
 f1_keywords:
 - vis_sdr.chm17514610
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.UndoEnabled
 ms.assetid: c3dc1bf4-c3bd-53dd-62e6-f2b6e3f07cb2

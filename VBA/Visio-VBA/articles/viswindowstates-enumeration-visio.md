@@ -3,7 +3,7 @@ title: VisWindowStates Enumeration (Visio)
 keywords: vis_sdr.chm70255
 f1_keywords:
 - vis_sdr.chm70255
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 54ef65ac-64ba-1338-39a0-862a92c0a1e3
 ms.date: 06/08/2017
 ---

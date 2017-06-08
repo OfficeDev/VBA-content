@@ -3,7 +3,7 @@ title: Window.OnKeystrokeMessageForAddon Event (Visio)
 keywords: vis_sdr.chm11650740
 f1_keywords:
 - vis_sdr.chm11650740
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.OnKeystrokeMessageForAddon
 ms.assetid: 88f72b93-6ec3-2fd1-cc78-c18f82f1b13d

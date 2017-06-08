@@ -3,7 +3,7 @@ title: VisPasteSpecialCodes Enumeration (Visio)
 keywords: vis_sdr.chm70350
 f1_keywords:
 - vis_sdr.chm70350
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 5c18b281-1f07-c49f-b569-0e66d9a0821f
 ms.date: 06/08/2017
 ---

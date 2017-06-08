@@ -1,6 +1,6 @@
 ---
 title: Application.MustFlushScopeBeginning Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MustFlushScopeBeginning
 ms.assetid: 98a47603-19c0-4588-3d65-1f9d3fe118c1

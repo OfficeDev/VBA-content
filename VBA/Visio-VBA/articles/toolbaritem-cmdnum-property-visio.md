@@ -3,7 +3,7 @@ title: ToolbarItem.CmdNum Property (Visio)
 keywords: vis_sdr.chm13513255
 f1_keywords:
 - vis_sdr.chm13513255
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.CmdNum
 ms.assetid: 69be3d63-a149-60ff-081e-fa20d8650685

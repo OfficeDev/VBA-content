@@ -3,7 +3,7 @@ title: DataConnection.Application Property (Visio)
 keywords: vis_sdr.chm16513090
 f1_keywords:
 - vis_sdr.chm16513090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataConnection.Application
 ms.assetid: 7795c0b8-c960-a8d4-4ffb-8eaa577d6b18

@@ -3,7 +3,7 @@ title: Document.Time Property (Visio)
 keywords: vis_sdr.chm10550900
 f1_keywords:
 - vis_sdr.chm10550900
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Time
 ms.assetid: 04d7d5d9-9e4f-c64a-faa9-ac521807b44f

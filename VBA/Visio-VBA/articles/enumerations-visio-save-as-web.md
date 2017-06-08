@@ -1,6 +1,6 @@
 ---
 title: Enumerations (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 06abdd6e-3e45-4c3a-99b0-30dc18a275ce
 ms.date: 06/08/2017
 ---

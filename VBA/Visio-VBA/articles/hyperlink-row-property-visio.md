@@ -3,7 +3,7 @@ title: Hyperlink.Row Property (Visio)
 keywords: vis_sdr.chm15014240
 f1_keywords:
 - vis_sdr.chm15014240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlink.Row
 ms.assetid: 7f1f1bb8-82cc-d110-39d1-3aae9647234b

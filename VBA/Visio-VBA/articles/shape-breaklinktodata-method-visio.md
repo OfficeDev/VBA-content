@@ -3,7 +3,7 @@ title: Shape.BreakLinkToData Method (Visio)
 keywords: vis_sdr.chm11260195
 f1_keywords:
 - vis_sdr.chm11260195
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.BreakLinkToData
 ms.assetid: 1f4ed559-061e-f016-739c-e760e634dba8

@@ -3,7 +3,7 @@ title: ToolbarItem.Index Property (Visio)
 keywords: vis_sdr.chm13513695
 f1_keywords:
 - vis_sdr.chm13513695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.Index
 ms.assetid: 2f97fbee-595b-4b71-137b-55de5a469ae6

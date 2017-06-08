@@ -1,6 +1,6 @@
 ---
 title: Shape.ShapeAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ShapeAdded
 ms.assetid: 89e562f4-f3b0-54bd-cbac-515eecb70c97

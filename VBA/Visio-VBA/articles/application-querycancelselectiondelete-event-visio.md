@@ -1,6 +1,6 @@
 ---
 title: Application.QueryCancelSelectionDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelSelectionDelete
 ms.assetid: dc1c6b8a-1c60-06fb-9c8f-2919d0081838

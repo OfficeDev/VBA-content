@@ -3,7 +3,7 @@ title: Master.Paste Method (Visio)
 keywords: vis_sdr.chm10751170
 f1_keywords:
 - vis_sdr.chm10751170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Paste
 ms.assetid: ee8a4c79-9a10-d852-70d3-4856627efb8a

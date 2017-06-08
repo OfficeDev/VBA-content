@@ -3,7 +3,7 @@ title: Page.SplitConnector Method (Visio)
 keywords: vis_sdr.chm10962155
 f1_keywords:
 - vis_sdr.chm10962155
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.SplitConnector
 ms.assetid: b2d371b5-3769-00cd-688f-2391a8c504e9

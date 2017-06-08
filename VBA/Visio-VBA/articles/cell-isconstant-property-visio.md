@@ -3,7 +3,7 @@ title: Cell.IsConstant Property (Visio)
 keywords: vis_sdr.chm10113715
 f1_keywords:
 - vis_sdr.chm10113715
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.IsConstant
 ms.assetid: ed17029d-9044-d6fe-aac0-81fd8ac74b56

@@ -1,6 +1,6 @@
 ---
 title: Application.ViewChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ViewChanged
 ms.assetid: 2cb8dbfb-100c-1fe3-05c5-bb9a2d97075a

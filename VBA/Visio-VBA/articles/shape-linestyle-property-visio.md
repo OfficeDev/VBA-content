@@ -3,7 +3,7 @@ title: Shape.LineStyle Property (Visio)
 keywords: vis_sdr.chm11213845
 f1_keywords:
 - vis_sdr.chm11213845
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.LineStyle
 ms.assetid: 1d1f2b2e-705d-6547-f6d6-0c5693e426d6

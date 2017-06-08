@@ -3,7 +3,7 @@ title: Characters.AddField Method (Visio)
 keywords: vis_sdr.chm10216030
 f1_keywords:
 - vis_sdr.chm10216030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.AddField
 ms.assetid: 1b00cad3-d97a-4bdc-1f8e-cee39d9c836f

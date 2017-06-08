@@ -3,7 +3,7 @@ title: Masters.QueryCancelGroup Event (Visio)
 keywords: vis_sdr.chm10862000
 f1_keywords:
 - vis_sdr.chm10862000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.QueryCancelGroup
 ms.assetid: c4f30992-b598-048c-6b68-30cedcef3353

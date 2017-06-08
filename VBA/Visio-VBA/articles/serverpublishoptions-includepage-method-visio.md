@@ -3,7 +3,7 @@ title: ServerPublishOptions.IncludePage Method (Visio)
 keywords: vis_sdr.chm17962365
 f1_keywords:
 - vis_sdr.chm17962365
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.IncludePage
 ms.assetid: 6af3f654-3b08-a990-8f0c-b05bb046a0b4

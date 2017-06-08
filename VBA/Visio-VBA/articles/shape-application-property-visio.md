@@ -3,7 +3,7 @@ title: Shape.Application Property (Visio)
 keywords: vis_sdr.chm11213090
 f1_keywords:
 - vis_sdr.chm11213090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Application
 ms.assetid: 01ad1b62-5a69-9c70-3735-f678a6fa537d

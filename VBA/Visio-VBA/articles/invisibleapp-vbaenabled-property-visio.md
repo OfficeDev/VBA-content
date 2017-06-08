@@ -3,7 +3,7 @@ title: InvisibleApp.VBAEnabled Property (Visio)
 keywords: vis_sdr.chm17552085
 f1_keywords:
 - vis_sdr.chm17552085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.VBAEnabled
 ms.assetid: d95a7957-50f2-9eaa-a493-bfa55d5c6cb9

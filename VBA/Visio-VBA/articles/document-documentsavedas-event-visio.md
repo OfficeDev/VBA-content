@@ -3,7 +3,7 @@ title: Document.DocumentSavedAs Event (Visio)
 keywords: vis_sdr.chm10519140
 f1_keywords:
 - vis_sdr.chm10519140
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DocumentSavedAs
 ms.assetid: 36714188-964b-880b-9504-62a6a50179f1

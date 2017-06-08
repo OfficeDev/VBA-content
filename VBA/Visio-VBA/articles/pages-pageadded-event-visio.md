@@ -3,7 +3,7 @@ title: Pages.PageAdded Event (Visio)
 keywords: vis_sdr.chm11019200
 f1_keywords:
 - vis_sdr.chm11019200
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.PageAdded
 ms.assetid: 59268803-17a2-e1fd-70da-45506b9076a3

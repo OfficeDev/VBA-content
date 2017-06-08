@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.MarkerEvent Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MarkerEvent
 ms.assetid: 264b9682-2979-3ddb-a110-2f4d88847d85

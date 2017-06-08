@@ -3,7 +3,7 @@ title: InvisibleApp.ClearCustomMenus Method (Visio)
 keywords: vis_sdr.chm17516110
 f1_keywords:
 - vis_sdr.chm17516110
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ClearCustomMenus
 ms.assetid: bf075a03-4b3f-4f38-a6b4-6fbc2cc95fe1

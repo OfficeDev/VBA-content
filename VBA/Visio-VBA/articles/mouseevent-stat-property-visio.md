@@ -3,7 +3,7 @@ title: MouseEvent.Stat Property (Visio)
 keywords: vis_sdr.chm17114420
 f1_keywords:
 - vis_sdr.chm17114420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.Stat
 ms.assetid: 2feb8369-ad91-a5c2-af0b-936002ec732b

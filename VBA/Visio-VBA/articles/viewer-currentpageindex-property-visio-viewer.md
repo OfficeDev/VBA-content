@@ -1,6 +1,6 @@
 ---
 title: Viewer.CurrentPageIndex Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.CurrentPageIndex
 ms.assetid: 2a7950cf-c079-da63-676d-cf6a7e8a3600

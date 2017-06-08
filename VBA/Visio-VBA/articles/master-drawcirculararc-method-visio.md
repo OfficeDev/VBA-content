@@ -3,7 +3,7 @@ title: Master.DrawCircularArc Method (Visio)
 keywords: vis_sdr.chm10752015
 f1_keywords:
 - vis_sdr.chm10752015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawCircularArc
 ms.assetid: f9557127-8470-2968-3056-0e295cd05633

@@ -3,7 +3,7 @@ title: Application.Quit Method (Visio)
 keywords: vis_sdr.chm10016460
 f1_keywords:
 - vis_sdr.chm10016460
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.Quit
 ms.assetid: 1f8b73cd-10bd-e571-eee4-db05d9aa12cc

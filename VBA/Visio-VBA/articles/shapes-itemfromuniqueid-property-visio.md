@@ -3,7 +3,7 @@ title: Shapes.ItemFromUniqueID Property (Visio)
 keywords: vis_sdr.chm11362485
 f1_keywords:
 - vis_sdr.chm11362485
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.ItemFromUniqueID
 ms.assetid: 94175764-d65d-9511-4073-864ff89f573c

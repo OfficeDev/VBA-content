@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.QueryCancelPageDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelPageDelete
 ms.assetid: c6965236-1e78-736e-484f-b41563e1bdb1

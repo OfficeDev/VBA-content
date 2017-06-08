@@ -3,7 +3,7 @@ title: InvisibleApp.AvailablePrinters Property (Visio)
 keywords: vis_sdr.chm17550510
 f1_keywords:
 - vis_sdr.chm17550510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AvailablePrinters
 ms.assetid: 3e4bba9c-d338-deea-ef78-7150804d0216

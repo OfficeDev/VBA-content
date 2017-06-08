@@ -3,7 +3,7 @@ title: Window.IsEditingOLE Property (Visio)
 keywords: vis_sdr.chm11613725
 f1_keywords:
 - vis_sdr.chm11613725
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.IsEditingOLE
 ms.assetid: aa65ed76-b381-e642-7a29-327b50bc5737

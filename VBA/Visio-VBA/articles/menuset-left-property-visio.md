@@ -3,7 +3,7 @@ title: MenuSet.Left Property (Visio)
 keywords: vis_sdr.chm13313825
 f1_keywords:
 - vis_sdr.chm13313825
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSet.Left
 ms.assetid: 84420efe-dcce-0f39-12f8-5c5e1dda845f

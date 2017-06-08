@@ -3,7 +3,7 @@ title: Document.HeaderMargin Property (Visio)
 keywords: vis_sdr.chm10550650
 f1_keywords:
 - vis_sdr.chm10550650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.HeaderMargin
 ms.assetid: 7d2c137d-6b75-9747-5a6a-5e5d99156d45

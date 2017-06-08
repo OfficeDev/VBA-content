@@ -3,7 +3,7 @@ title: UIObject.Name Property (Visio)
 keywords: vis_sdr.chm14913930
 f1_keywords:
 - vis_sdr.chm14913930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.Name
 ms.assetid: aa240efd-20c3-6803-1d35-1ab350a84eab

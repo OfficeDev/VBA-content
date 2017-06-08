@@ -1,6 +1,6 @@
 ---
 title: Application.VisioIsIdle Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.VisioIsIdle
 ms.assetid: 58a66628-d8df-f55c-7d25-e6b272b37906

@@ -3,7 +3,7 @@ title: VisRuleSetFlags Enumeration (Visio)
 keywords: vis_sdr.chm70680
 f1_keywords:
 - vis_sdr.chm70680
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRuleSetFlags
 ms.assetid: 3057a46e-7721-3e70-8499-ca296efa0474

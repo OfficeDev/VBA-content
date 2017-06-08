@@ -3,7 +3,7 @@ title: Shape.TextStyle Property (Visio)
 keywords: vis_sdr.chm11214530
 f1_keywords:
 - vis_sdr.chm11214530
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.TextStyle
 ms.assetid: 9436ba1b-f792-aed6-3936-b2d88a6dd2ea

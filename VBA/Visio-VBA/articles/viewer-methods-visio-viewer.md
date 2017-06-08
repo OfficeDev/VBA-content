@@ -1,6 +1,6 @@
 ---
 title: Viewer Methods (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 2a5387ae-5c35-4679-9cc3-61f1887a1708
 ms.date: 06/08/2017
 ---

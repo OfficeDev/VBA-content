@@ -3,7 +3,7 @@ title: Styles.ItemFromID Property (Visio)
 keywords: vis_sdr.chm11513775
 f1_keywords:
 - vis_sdr.chm11513775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.ItemFromID
 ms.assetid: a132a3eb-2c2e-0f44-dcf1-709221e719a7

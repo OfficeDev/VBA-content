@@ -3,7 +3,7 @@ title: Cell.LocalName Property (Visio)
 keywords: vis_sdr.chm10113860
 f1_keywords:
 - vis_sdr.chm10113860
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.LocalName
 ms.assetid: 596bf196-6bbc-32f0-e508-03cdf4969a7f

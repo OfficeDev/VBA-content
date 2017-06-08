@@ -3,7 +3,7 @@ title: EventList.Application Property (Visio)
 keywords: vis_sdr.chm12713090
 f1_keywords:
 - vis_sdr.chm12713090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EventList.Application
 ms.assetid: e63a6499-c7b9-645d-6c7d-dd8d17c046a1

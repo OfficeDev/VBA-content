@@ -3,7 +3,7 @@ title: Shape.TransformXYFrom Method (Visio)
 keywords: vis_sdr.chm11216600
 f1_keywords:
 - vis_sdr.chm11216600
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.TransformXYFrom
 ms.assetid: 4676e464-83c7-7ff6-e742-becc41436259

@@ -3,7 +3,7 @@ title: Cell.GlueTo Method (Visio)
 keywords: vis_sdr.chm10116335
 f1_keywords:
 - vis_sdr.chm10116335
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.GlueTo
 ms.assetid: dc88ecf1-d7c2-994e-8b49-e4bfddef4472

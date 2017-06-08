@@ -1,6 +1,6 @@
 ---
 title: Application.DataRecordsetChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DataRecordsetChanged
 ms.assetid: 8be61b1a-3a3c-5880-47bc-e2cac9bb60f9

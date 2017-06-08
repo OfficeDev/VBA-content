@@ -1,6 +1,6 @@
 ---
 title: Application.TextChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.TextChanged
 ms.assetid: b1d5b023-11ba-193f-e5ab-807940f6d84d

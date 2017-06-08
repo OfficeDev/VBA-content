@@ -3,7 +3,7 @@ title: Event.Action Property (Visio)
 keywords: vis_sdr.chm12613010
 f1_keywords:
 - vis_sdr.chm12613010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.Action
 ms.assetid: dd776f54-051c-13c3-433e-299687203381

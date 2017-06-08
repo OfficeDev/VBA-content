@@ -3,7 +3,7 @@ title: Master.IndexInStencil Property (Visio)
 keywords: vis_sdr.chm10713700
 f1_keywords:
 - vis_sdr.chm10713700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.IndexInStencil
 ms.assetid: 3c2c12c4-0233-4aa3-c3d7-a3613bb391ad

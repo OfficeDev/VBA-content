@@ -3,7 +3,7 @@ title: Master.OneD Property (Visio)
 keywords: vis_sdr.chm10713975
 f1_keywords:
 - vis_sdr.chm10713975
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.OneD
 ms.assetid: 917f8cfc-a2fc-7572-936a-69956d139131

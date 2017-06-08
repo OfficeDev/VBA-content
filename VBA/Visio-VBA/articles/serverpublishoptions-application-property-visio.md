@@ -3,7 +3,7 @@ title: ServerPublishOptions.Application Property (Visio)
 keywords: vis_sdr.chm17913090
 f1_keywords:
 - vis_sdr.chm17913090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.Application
 ms.assetid: ec9b9667-d0da-fcac-1fa5-c21105e96939

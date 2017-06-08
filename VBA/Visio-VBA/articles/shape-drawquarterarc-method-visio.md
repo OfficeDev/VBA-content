@@ -3,7 +3,7 @@ title: Shape.DrawQuarterArc Method (Visio)
 keywords: vis_sdr.chm11251385
 f1_keywords:
 - vis_sdr.chm11251385
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DrawQuarterArc
 ms.assetid: 7bc281ea-eac8-cdb6-ac4b-c71c93a81827

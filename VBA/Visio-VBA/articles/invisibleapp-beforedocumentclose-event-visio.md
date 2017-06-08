@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.BeforeDocumentClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeDocumentClose
 ms.assetid: 663dab28-2ea5-30ad-a694-5c2bc75210fb

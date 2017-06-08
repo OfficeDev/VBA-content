@@ -3,7 +3,7 @@ title: Windows.MouseUp Event (Visio)
 keywords: vis_sdr.chm11751300
 f1_keywords:
 - vis_sdr.chm11751300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.MouseUp
 ms.assetid: 1b4e7296-8634-6309-8316-cc60ae2ab478

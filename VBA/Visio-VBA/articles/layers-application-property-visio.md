@@ -3,7 +3,7 @@ title: Layers.Application Property (Visio)
 keywords: vis_sdr.chm11913090
 f1_keywords:
 - vis_sdr.chm11913090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.Application
 ms.assetid: 5481a7cb-c215-4694-1f42-121db5ccdd74

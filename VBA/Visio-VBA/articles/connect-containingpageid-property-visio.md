@@ -3,7 +3,7 @@ title: Connect.ContainingPageID Property (Visio)
 keywords: vis_sdr.chm10351930
 f1_keywords:
 - vis_sdr.chm10351930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.ContainingPageID
 ms.assetid: 4503f9e3-74ca-5948-ddc2-a91116faa588

@@ -3,7 +3,7 @@ title: Document.MasterChanged Event (Visio)
 keywords: vis_sdr.chm10519175
 f1_keywords:
 - vis_sdr.chm10519175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.MasterChanged
 ms.assetid: 59fe2ee8-03ee-83b9-d86c-a67d68c7a363

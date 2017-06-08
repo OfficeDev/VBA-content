@@ -1,6 +1,6 @@
 ---
 title: Viewer.GetErrorMessage Method (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GetErrorMessage
 ms.assetid: 31ede4e5-a7ea-c2b8-784e-2e4c7e8bd9ea

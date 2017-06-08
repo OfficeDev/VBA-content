@@ -3,7 +3,7 @@ title: Selection.StyleKeepFmt Property (Visio)
 keywords: vis_sdr.chm11114450
 f1_keywords:
 - vis_sdr.chm11114450
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.StyleKeepFmt
 ms.assetid: b56bfda8-0076-0114-b231-bb7c649c6310

@@ -3,7 +3,7 @@ title: MasterShortcut.IconSize Property (Visio)
 keywords: vis_sdr.chm16013665
 f1_keywords:
 - vis_sdr.chm16013665
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.IconSize
 ms.assetid: 9139aa9b-5dff-e59e-cb86-6df54feb4ba3

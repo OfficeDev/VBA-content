@@ -3,7 +3,7 @@ title: Hyperlink.NameU Property (Visio)
 keywords: vis_sdr.chm15051985
 f1_keywords:
 - vis_sdr.chm15051985
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Hyperlink.NameU
 ms.assetid: 967521cd-a54f-988f-0188-d8025390f2d8

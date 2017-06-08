@@ -3,7 +3,7 @@ title: Shapes.ContainingMaster Property (Visio)
 keywords: vis_sdr.chm11313300
 f1_keywords:
 - vis_sdr.chm11313300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.ContainingMaster
 ms.assetid: e7758236-92af-1a3a-fe1b-bce94a186eb9

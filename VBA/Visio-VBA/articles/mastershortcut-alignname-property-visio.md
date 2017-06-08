@@ -3,7 +3,7 @@ title: MasterShortcut.AlignName Property (Visio)
 keywords: vis_sdr.chm16013075
 f1_keywords:
 - vis_sdr.chm16013075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.AlignName
 ms.assetid: 022fdf3a-17f4-740f-191e-a06684ee3112

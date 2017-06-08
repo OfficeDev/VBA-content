@@ -3,7 +3,7 @@ title: Masters.GetNames Method (Visio)
 keywords: vis_sdr.chm10816315
 f1_keywords:
 - vis_sdr.chm10816315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.GetNames
 ms.assetid: 3cdea9a5-97da-4f59-2a93-7a1d15c29e54

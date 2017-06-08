@@ -3,7 +3,7 @@ title: Document.RemoveHiddenInformation Method (Visio)
 keywords: vis_sdr.chm10500000
 f1_keywords:
 - vis_sdr.chm10500000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.RemoveHiddenInformation
 ms.assetid: cc097f8b-5e74-9b44-4ba9-19537169c88b

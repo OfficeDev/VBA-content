@@ -3,7 +3,7 @@ title: ApplicationSettings.BIDITextUI Property (Visio)
 keywords: vis_sdr.chm16260025
 f1_keywords:
 - vis_sdr.chm16260025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.BIDITextUI
 ms.assetid: a358e155-9ba0-42ca-3192-3fc90ee19559

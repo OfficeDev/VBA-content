@@ -3,7 +3,7 @@ title: ApplicationSettings.AsianTextUI Property (Visio)
 keywords: vis_sdr.chm16251920
 f1_keywords:
 - vis_sdr.chm16251920
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.AsianTextUI
 ms.assetid: b317afda-5014-6c53-44e1-a713dabee111

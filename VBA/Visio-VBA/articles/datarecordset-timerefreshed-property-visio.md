@@ -3,7 +3,7 @@ title: DataRecordset.TimeRefreshed Property (Visio)
 keywords: vis_sdr.chm16460335
 f1_keywords:
 - vis_sdr.chm16460335
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.TimeRefreshed
 ms.assetid: ebdf1acd-81f9-bd5e-48ba-d34100a8f702

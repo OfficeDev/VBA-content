@@ -3,7 +3,7 @@ title: Style.CellExists Property (Visio)
 keywords: vis_sdr.chm11413185
 f1_keywords:
 - vis_sdr.chm11413185
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.CellExists
 ms.assetid: 886e2988-7ee1-4d82-4cca-69e0087712ff

@@ -3,7 +3,7 @@ title: Pages.Count Property (Visio)
 keywords: vis_sdr.chm11013330
 f1_keywords:
 - vis_sdr.chm11013330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.Count
 ms.assetid: 1e240cc4-07f3-ceb1-7eb3-7a6d5071f630

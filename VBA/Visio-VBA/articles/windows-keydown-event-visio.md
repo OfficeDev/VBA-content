@@ -3,7 +3,7 @@ title: Windows.KeyDown Event (Visio)
 keywords: vis_sdr.chm11751325
 f1_keywords:
 - vis_sdr.chm11751325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.KeyDown
 ms.assetid: 3f8b0efc-071b-ddd9-7413-cff7b28a26ba

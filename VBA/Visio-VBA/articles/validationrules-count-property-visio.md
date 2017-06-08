@@ -3,7 +3,7 @@ title: ValidationRules.Count Property (Visio)
 keywords: vis_sdr.chm18313330
 f1_keywords:
 - vis_sdr.chm18313330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRules.Count
 ms.assetid: f4e2dc01-0aed-697e-0886-5b5aa3e0b4e9

@@ -3,7 +3,7 @@ title: ApplicationSettings.DrawingAids Property (Visio)
 keywords: vis_sdr.chm16251815
 f1_keywords:
 - vis_sdr.chm16251815
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DrawingAids
 ms.assetid: af1a1565-b304-43be-1a56-44d1c9ee6000

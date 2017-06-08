@@ -3,7 +3,7 @@ title: MouseEvent.ObjectType Property (Visio)
 keywords: vis_sdr.chm17113960
 f1_keywords:
 - vis_sdr.chm17113960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.ObjectType
 ms.assetid: 8d235035-5249-6516-14d3-d36f8fa2cd8c

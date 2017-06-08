@@ -3,7 +3,7 @@ title: Shape.Help Property (Visio)
 keywords: vis_sdr.chm11213620
 f1_keywords:
 - vis_sdr.chm11213620
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Help
 ms.assetid: 12784797-c42b-deee-9ae1-6115cd014ac8

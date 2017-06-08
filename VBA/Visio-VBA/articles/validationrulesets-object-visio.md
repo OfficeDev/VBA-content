@@ -3,7 +3,7 @@ title: ValidationRuleSets Object (Visio)
 keywords: vis_sdr.chm61065
 f1_keywords:
 - vis_sdr.chm61065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRuleSets
 ms.assetid: f08d7f04-13ec-8175-2aa6-94b0b67ee76b

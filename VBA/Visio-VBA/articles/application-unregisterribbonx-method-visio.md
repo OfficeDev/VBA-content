@@ -3,7 +3,7 @@ title: Application.UnregisterRibbonX Method (Visio)
 keywords: vis_sdr.chm10062095
 f1_keywords:
 - vis_sdr.chm10062095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.UnregisterRibbonX
 ms.assetid: 83c5a7c3-b3bb-cbbd-6857-2ae822e599f6

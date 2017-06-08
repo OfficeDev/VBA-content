@@ -3,7 +3,7 @@ title: Cell.Application Property (Visio)
 keywords: vis_sdr.chm10113090
 f1_keywords:
 - vis_sdr.chm10113090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Application
 ms.assetid: ec2bd6fb-5c24-acf2-7324-e8db42d903a9

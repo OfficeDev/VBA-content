@@ -3,7 +3,7 @@ title: Shape.DistanceFrom Property (Visio)
 keywords: vis_sdr.chm11213420
 f1_keywords:
 - vis_sdr.chm11213420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DistanceFrom
 ms.assetid: 2df9e60f-b138-4dde-09ca-af4ee2f6a8d0

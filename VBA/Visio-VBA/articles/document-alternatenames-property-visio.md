@@ -3,7 +3,7 @@ title: Document.AlternateNames Property (Visio)
 keywords: vis_sdr.chm10513085
 f1_keywords:
 - vis_sdr.chm10513085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.AlternateNames
 ms.assetid: 2d0a3f45-e9b4-385b-23c9-2a0a70375202

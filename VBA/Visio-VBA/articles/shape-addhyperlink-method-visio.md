@@ -1,6 +1,6 @@
 ---
 title: Shape.AddHyperlink Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.AddHyperlink
 ms.assetid: fbf77a65-88a1-e710-60a2-efde9e7df968

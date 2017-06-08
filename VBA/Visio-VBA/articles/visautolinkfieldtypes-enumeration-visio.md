@@ -3,7 +3,7 @@ title: VisAutoLinkFieldTypes Enumeration (Visio)
 keywords: vis_sdr.chm70485
 f1_keywords:
 - vis_sdr.chm70485
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 0fcd52eb-aa7e-53ed-2b75-a1fb573328ca
 ms.date: 06/08/2017
 ---

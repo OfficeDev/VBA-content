@@ -1,6 +1,6 @@
 ---
 title: Application.MouseUp Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MouseUp
 ms.assetid: 8ca78f5e-5287-0ef5-57ea-d7d116f45ff0

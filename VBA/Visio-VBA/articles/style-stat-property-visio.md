@@ -3,7 +3,7 @@ title: Style.Stat Property (Visio)
 keywords: vis_sdr.chm11414420
 f1_keywords:
 - vis_sdr.chm11414420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.Stat
 ms.assetid: 58a23e04-33a8-1ff2-ceb7-d16ebc3eeda5

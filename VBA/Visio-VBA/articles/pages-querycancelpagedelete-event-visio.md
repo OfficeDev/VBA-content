@@ -3,7 +3,7 @@ title: Pages.QueryCancelPageDelete Event (Visio)
 keywords: vis_sdr.chm11019315
 f1_keywords:
 - vis_sdr.chm11019315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.QueryCancelPageDelete
 ms.assetid: ca487884-ca7f-a1b6-1800-95550a056c8f

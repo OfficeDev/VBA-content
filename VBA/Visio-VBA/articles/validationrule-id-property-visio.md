@@ -3,7 +3,7 @@ title: ValidationRule.ID Property (Visio)
 keywords: vis_sdr.chm18413675
 f1_keywords:
 - vis_sdr.chm18413675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRule.ID
 ms.assetid: bcc1c263-7c51-9a8e-a7d1-b4d5d9f01399

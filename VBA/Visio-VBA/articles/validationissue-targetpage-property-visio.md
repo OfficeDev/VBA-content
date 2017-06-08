@@ -3,7 +3,7 @@ title: ValidationIssue.TargetPage Property (Visio)
 keywords: vis_sdr.chm18662675
 f1_keywords:
 - vis_sdr.chm18662675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationIssue.TargetPage
 ms.assetid: 30aa5d13-93ad-cf55-08ee-9c8b387d6f25

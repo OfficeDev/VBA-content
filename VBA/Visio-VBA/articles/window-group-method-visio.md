@@ -1,6 +1,6 @@
 ---
 title: Window.Group Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Group
 ms.assetid: 8f0aa15e-007d-4c97-8d57-6dd36b845331

@@ -3,7 +3,7 @@ title: Font.Attributes Property (Visio)
 keywords: vis_sdr.chm12013100
 f1_keywords:
 - vis_sdr.chm12013100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Font.Attributes
 ms.assetid: 4d94e0d3-85a6-369f-5e04-83c9681c43c4

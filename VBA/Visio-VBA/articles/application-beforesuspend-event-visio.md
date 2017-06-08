@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeSuspend Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeSuspend
 ms.assetid: 6649fea7-017c-9295-12b5-f350dcf38b28

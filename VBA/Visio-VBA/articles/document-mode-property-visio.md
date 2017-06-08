@@ -3,7 +3,7 @@ title: Document.Mode Property (Visio)
 keywords: vis_sdr.chm10513925
 f1_keywords:
 - vis_sdr.chm10513925
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Mode
 ms.assetid: 40ebcc64-43dc-79f4-2802-9cd9dba633ab

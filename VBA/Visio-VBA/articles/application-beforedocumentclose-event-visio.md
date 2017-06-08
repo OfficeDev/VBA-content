@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeDocumentClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeDocumentClose
 ms.assetid: c0d7815e-25bb-7b7e-f80b-81472edc47ca

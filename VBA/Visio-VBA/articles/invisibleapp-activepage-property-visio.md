@@ -3,7 +3,7 @@ title: InvisibleApp.ActivePage Property (Visio)
 keywords: vis_sdr.chm17513030
 f1_keywords:
 - vis_sdr.chm17513030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ActivePage
 ms.assetid: 545ea26b-fdc6-f3c4-4768-61e6438247b1

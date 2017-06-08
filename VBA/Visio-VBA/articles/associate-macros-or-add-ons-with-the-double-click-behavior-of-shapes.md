@@ -3,7 +3,7 @@ title: Associate Macros or Add-ons with the Double-Click Behavior of Shapes
 keywords: vis_sdr.chm81901856
 f1_keywords:
 - vis_sdr.chm81901856
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 191adadd-b78d-81da-98eb-6464be8d6ffd
 ms.date: 06/08/2017
 ---

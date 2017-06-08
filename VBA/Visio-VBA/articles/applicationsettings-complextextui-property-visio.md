@@ -3,7 +3,7 @@ title: ApplicationSettings.ComplexTextUI Property (Visio)
 keywords: vis_sdr.chm16251895
 f1_keywords:
 - vis_sdr.chm16251895
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ComplexTextUI
 ms.assetid: b4ea05ad-ef40-6886-de68-c9bfb6826a88

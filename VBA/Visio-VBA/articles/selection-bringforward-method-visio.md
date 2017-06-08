@@ -3,7 +3,7 @@ title: Selection.BringForward Method (Visio)
 keywords: vis_sdr.chm11116095
 f1_keywords:
 - vis_sdr.chm11116095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.BringForward
 ms.assetid: d12a81a5-6faa-6828-bdf0-279c27c89571

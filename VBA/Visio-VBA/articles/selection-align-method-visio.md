@@ -3,7 +3,7 @@ title: Selection.Align Method (Visio)
 keywords: vis_sdr.chm11151435
 f1_keywords:
 - vis_sdr.chm11151435
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Align
 ms.assetid: 4a73dfee-2a78-f459-4481-5f722feb7204

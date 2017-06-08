@@ -3,7 +3,7 @@ title: Page.QueryCancelGroup Event (Visio)
 keywords: vis_sdr.chm10962000
 f1_keywords:
 - vis_sdr.chm10962000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.QueryCancelGroup
 ms.assetid: ee70861c-ca8e-0cc8-ddc4-40c5bcb9f74e

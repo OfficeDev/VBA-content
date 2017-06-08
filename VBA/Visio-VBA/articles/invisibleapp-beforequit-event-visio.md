@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.BeforeQuit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeQuit
 ms.assetid: b2554719-ada7-9bed-3ace-9e430c478e7a

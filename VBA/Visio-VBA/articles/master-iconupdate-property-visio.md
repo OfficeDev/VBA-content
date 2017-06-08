@@ -3,7 +3,7 @@ title: Master.IconUpdate Property (Visio)
 keywords: vis_sdr.chm10713670
 f1_keywords:
 - vis_sdr.chm10713670
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.IconUpdate
 ms.assetid: 3978c650-47d5-e961-53c2-d99dd4c2ca7c

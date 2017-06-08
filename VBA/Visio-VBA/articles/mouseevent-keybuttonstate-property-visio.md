@@ -3,7 +3,7 @@ title: MouseEvent.KeyButtonState Property (Visio)
 keywords: vis_sdr.chm17151715
 f1_keywords:
 - vis_sdr.chm17151715
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.KeyButtonState
 ms.assetid: d4a408af-38a4-6e3f-3dfc-6ebf342c6bb1

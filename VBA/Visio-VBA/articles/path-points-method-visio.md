@@ -3,7 +3,7 @@ title: Path.Points Method (Visio)
 keywords: vis_sdr.chm15414090
 f1_keywords:
 - vis_sdr.chm15414090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Path.Points
 ms.assetid: 3c14acdb-33ad-9bd9-96d9-320bd53fa5c9

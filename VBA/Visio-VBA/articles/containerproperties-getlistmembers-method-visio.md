@@ -3,7 +3,7 @@ title: ContainerProperties.GetListMembers Method (Visio)
 keywords: vis_sdr.chm17662345
 f1_keywords:
 - vis_sdr.chm17662345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.GetListMembers
 ms.assetid: 9aa6047a-ae20-d05c-cb59-56594ed08b2f

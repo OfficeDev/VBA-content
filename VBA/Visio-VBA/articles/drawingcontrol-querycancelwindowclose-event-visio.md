@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.QueryCancelWindowClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelWindowClose
 ms.assetid: 31f05b80-d536-3188-92d0-f2750b79771d

@@ -3,7 +3,7 @@ title: Section.Stat Property (Visio)
 keywords: vis_sdr.chm15714420
 f1_keywords:
 - vis_sdr.chm15714420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Stat
 ms.assetid: 17e66466-3ce7-02d4-f567-389cc7aaabdc

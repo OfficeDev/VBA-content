@@ -3,7 +3,7 @@ title: Row.Shape Property (Visio)
 keywords: vis_sdr.chm15814320
 f1_keywords:
 - vis_sdr.chm15814320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.Shape
 ms.assetid: d4a5934a-1bad-3e3e-9839-bc08f3277052

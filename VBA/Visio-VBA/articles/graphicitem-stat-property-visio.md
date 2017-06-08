@@ -3,7 +3,7 @@ title: GraphicItem.Stat Property (Visio)
 keywords: vis_sdr.chm16914420
 f1_keywords:
 - vis_sdr.chm16914420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.Stat
 ms.assetid: 1136700d-35f6-3d8a-4d65-bbf39ec943ab

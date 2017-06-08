@@ -3,7 +3,7 @@ title: Shape.SetFormulas Method (Visio)
 keywords: vis_sdr.chm11216575
 f1_keywords:
 - vis_sdr.chm11216575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SetFormulas
 ms.assetid: b2371ff1-4742-e178-3606-133c9c8a1937

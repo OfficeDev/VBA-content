@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.Application Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Application
 ms.assetid: 3d257372-c728-a758-9890-5cc695f70d89

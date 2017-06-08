@@ -3,7 +3,7 @@ title: About Security Settings and Running Code in Visio
 keywords: vis_sdr.chm1069468
 f1_keywords:
 - vis_sdr.chm1069468
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 4af4d98a-d7a7-c224-a717-a53ebe9cf5a7
 ms.date: 06/08/2017
 ---

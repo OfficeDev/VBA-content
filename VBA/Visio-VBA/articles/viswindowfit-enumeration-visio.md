@@ -3,7 +3,7 @@ title: VisWindowFit Enumeration (Visio)
 keywords: vis_sdr.chm70260
 f1_keywords:
 - vis_sdr.chm70260
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: f0ef1fb6-b8ee-c1c0-13ec-54e67579419f
 ms.date: 06/08/2017
 ---

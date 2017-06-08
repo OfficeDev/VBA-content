@@ -3,7 +3,7 @@ title: ApplicationSettings.ShowFileSaveWarnings Property (Visio)
 keywords: vis_sdr.chm16251620
 f1_keywords:
 - vis_sdr.chm16251620
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ShowFileSaveWarnings
 ms.assetid: 86a2bb68-da8e-9661-9f03-13806debc29f

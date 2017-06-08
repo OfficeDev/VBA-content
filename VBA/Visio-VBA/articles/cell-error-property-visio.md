@@ -3,7 +3,7 @@ title: Cell.Error Property (Visio)
 keywords: vis_sdr.chm10113465
 f1_keywords:
 - vis_sdr.chm10113465
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.Error
 ms.assetid: 8c2966b7-f734-cb3a-7bc0-24c2d9575125

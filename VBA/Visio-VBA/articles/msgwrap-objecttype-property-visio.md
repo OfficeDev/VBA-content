@@ -3,7 +3,7 @@ title: MSGWrap.ObjectType Property (Visio)
 keywords: vis_sdr.chm16113960
 f1_keywords:
 - vis_sdr.chm16113960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MSGWrap.ObjectType
 ms.assetid: 30eb3329-a1c4-1c1c-97fc-7f7fdf3ad7e8

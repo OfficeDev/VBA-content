@@ -3,7 +3,7 @@ title: RelatedShapePairEvent.Stat Property (Visio)
 keywords: vis_sdr.chm17714420
 f1_keywords:
 - vis_sdr.chm17714420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RelatedShapePairEvent.Stat
 ms.assetid: 3494f5c2-83d0-e3a4-70e0-2fde413b4140

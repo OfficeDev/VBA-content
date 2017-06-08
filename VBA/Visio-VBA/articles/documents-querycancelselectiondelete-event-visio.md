@@ -3,7 +3,7 @@ title: Documents.QueryCancelSelectionDelete Event (Visio)
 keywords: vis_sdr.chm10619320
 f1_keywords:
 - vis_sdr.chm10619320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.QueryCancelSelectionDelete
 ms.assetid: f5e900a6-e857-694d-2eda-59fa35f80bfd

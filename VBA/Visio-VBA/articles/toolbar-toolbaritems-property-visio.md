@@ -3,7 +3,7 @@ title: Toolbar.ToolbarItems Property (Visio)
 keywords: vis_sdr.chm13714550
 f1_keywords:
 - vis_sdr.chm13714550
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Toolbar.ToolbarItems
 ms.assetid: 1be6c5b1-a97e-9f59-efd5-d19e37af0076

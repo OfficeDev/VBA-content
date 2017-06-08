@@ -3,7 +3,7 @@ title: Section.Application Property (Visio)
 keywords: vis_sdr.chm15713090
 f1_keywords:
 - vis_sdr.chm15713090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Application
 ms.assetid: d05a97c5-b008-1e49-36d8-98ed5f4313ff

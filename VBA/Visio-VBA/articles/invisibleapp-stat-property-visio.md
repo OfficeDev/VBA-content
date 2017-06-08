@@ -3,7 +3,7 @@ title: InvisibleApp.Stat Property (Visio)
 keywords: vis_sdr.chm17514420
 f1_keywords:
 - vis_sdr.chm17514420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Stat
 ms.assetid: 6f6897e5-b7c9-8fe3-499b-3fc6252a6f58

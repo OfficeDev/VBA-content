@@ -1,6 +1,6 @@
 ---
 title: Application.DocumentOpened Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DocumentOpened
 ms.assetid: daaf496c-1c9c-cdc1-a06c-ac8cc8fd912f

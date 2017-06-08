@@ -3,7 +3,7 @@ title: DataRecordsets.ItemFromID Property (Visio)
 keywords: vis_sdr.chm16313775
 f1_keywords:
 - vis_sdr.chm16313775
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.ItemFromID
 ms.assetid: 9f430e90-2c08-07a0-2c0d-c39d96405e06

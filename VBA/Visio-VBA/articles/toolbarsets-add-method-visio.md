@@ -3,7 +3,7 @@ title: ToolbarSets.Add Method (Visio)
 keywords: vis_sdr.chm14016005
 f1_keywords:
 - vis_sdr.chm14016005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarSets.Add
 ms.assetid: 573854ea-02f9-fbdd-7e9c-030a126a17c8

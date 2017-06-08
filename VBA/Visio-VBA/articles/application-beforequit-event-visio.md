@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeQuit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeQuit
 ms.assetid: ad5ed704-4e7e-f8a9-b238-3c552dc3f292

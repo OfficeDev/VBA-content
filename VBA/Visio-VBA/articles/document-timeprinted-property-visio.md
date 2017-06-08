@@ -3,7 +3,7 @@ title: Document.TimePrinted Property (Visio)
 keywords: vis_sdr.chm10550915
 f1_keywords:
 - vis_sdr.chm10550915
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.TimePrinted
 ms.assetid: f5dd01f0-42dc-ab0d-4cd2-c85da6181ea0

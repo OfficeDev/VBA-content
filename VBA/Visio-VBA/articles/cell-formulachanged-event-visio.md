@@ -3,7 +3,7 @@ title: Cell.FormulaChanged Event (Visio)
 keywords: vis_sdr.chm10119160
 f1_keywords:
 - vis_sdr.chm10119160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.FormulaChanged
 ms.assetid: 7f612470-ea40-1b7e-7334-825a124a96f3

@@ -3,7 +3,7 @@ title: Shape.AddSection Method (Visio)
 keywords: vis_sdr.chm11216060
 f1_keywords:
 - vis_sdr.chm11216060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.AddSection
 ms.assetid: 64396db4-8361-ece9-b029-24d62ba0a290

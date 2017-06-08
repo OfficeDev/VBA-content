@@ -3,7 +3,7 @@ title: VisMouseMoveDragStates Enumeration (Visio)
 keywords: vis_sdr.chm70550
 f1_keywords:
 - vis_sdr.chm70550
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: f0238d77-b035-f989-a9cb-6ae81f9609ef
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.BeforeWindowClosed Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeWindowClosed
 ms.assetid: b998ba51-0746-e7b1-263e-c93f98bd6f36

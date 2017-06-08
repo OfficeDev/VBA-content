@@ -3,7 +3,7 @@ title: Global.Application Property (Visio)
 keywords: vis_sdr.chm12813090
 f1_keywords:
 - vis_sdr.chm12813090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Global.Application
 ms.assetid: cafd474b-9ab7-08a4-2ffa-79b4e6ab6fd6

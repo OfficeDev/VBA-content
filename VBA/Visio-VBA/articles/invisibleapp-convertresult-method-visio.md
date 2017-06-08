@@ -3,7 +3,7 @@ title: InvisibleApp.ConvertResult Method (Visio)
 keywords: vis_sdr.chm17516135
 f1_keywords:
 - vis_sdr.chm17516135
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConvertResult
 ms.assetid: fe312e02-3086-90a3-6d5f-112c62d21727

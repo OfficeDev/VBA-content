@@ -3,7 +3,7 @@ title: Page.Print Method (Visio)
 keywords: vis_sdr.chm10916445
 f1_keywords:
 - vis_sdr.chm10916445
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Print
 ms.assetid: 021cdd78-1699-4345-5b32-c2c0a300ca00

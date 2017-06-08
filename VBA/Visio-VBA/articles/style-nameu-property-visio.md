@@ -3,7 +3,7 @@ title: Style.NameU Property (Visio)
 keywords: vis_sdr.chm11451985
 f1_keywords:
 - vis_sdr.chm11451985
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.NameU
 ms.assetid: 263de6e3-2868-77d9-7948-46bea3661335

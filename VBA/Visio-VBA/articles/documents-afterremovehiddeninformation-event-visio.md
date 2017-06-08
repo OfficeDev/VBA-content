@@ -3,7 +3,7 @@ title: Documents.AfterRemoveHiddenInformation Event (Visio)
 keywords: vis_sdr.chm10662040
 f1_keywords:
 - vis_sdr.chm10662040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.AfterRemoveHiddenInformation
 ms.assetid: 6d554577-75da-60fc-f839-9468c1a0255d

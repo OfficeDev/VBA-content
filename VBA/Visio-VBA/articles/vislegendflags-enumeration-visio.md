@@ -3,7 +3,7 @@ title: VisLegendFlags Enumeration (Visio)
 keywords: vis_sdr.chm70710
 f1_keywords:
 - vis_sdr.chm70710
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisLegendFlags
 ms.assetid: b941bb8a-afd6-706f-1f5d-0a4d48d7d030

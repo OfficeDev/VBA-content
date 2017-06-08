@@ -3,7 +3,7 @@ title: Addon.Enabled Property (Visio)
 keywords: vis_sdr.chm12413455
 f1_keywords:
 - vis_sdr.chm12413455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Addon.Enabled
 ms.assetid: fcc719d3-7b1c-e356-6f92-7717ecea10df

@@ -1,6 +1,6 @@
 ---
 title: VisSaveAsWeb Object (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 48e19e11-9b41-42ec-84e9-c4aab7f08784
 ms.date: 06/08/2017
 ---

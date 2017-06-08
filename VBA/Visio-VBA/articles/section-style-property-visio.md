@@ -3,7 +3,7 @@ title: Section.Style Property (Visio)
 keywords: vis_sdr.chm15751155
 f1_keywords:
 - vis_sdr.chm15751155
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Style
 ms.assetid: cd8d041d-126e-7983-0a13-48fb9f5f5df6

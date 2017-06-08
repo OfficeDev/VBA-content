@@ -3,7 +3,7 @@ title: Document.PrintPagesAcross Property (Visio)
 keywords: vis_sdr.chm10514125
 f1_keywords:
 - vis_sdr.chm10514125
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PrintPagesAcross
 ms.assetid: 43c09ce5-fcc9-d91c-3108-5e2dcb658f74

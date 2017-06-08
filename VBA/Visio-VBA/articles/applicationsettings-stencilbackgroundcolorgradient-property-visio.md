@@ -3,7 +3,7 @@ title: ApplicationSettings.StencilBackgroundColorGradient Property (Visio)
 keywords: vis_sdr.chm16251530
 f1_keywords:
 - vis_sdr.chm16251530
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.StencilBackgroundColorGradient
 ms.assetid: e73b2f5a-6ddf-0e46-62f1-8409e7e0608c

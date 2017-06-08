@@ -3,7 +3,7 @@ title: Page.OpenDrawWindow Method (Visio)
 keywords: vis_sdr.chm10916400
 f1_keywords:
 - vis_sdr.chm10916400
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.OpenDrawWindow
 ms.assetid: b5c4e800-fdba-2529-1c04-afa261377469

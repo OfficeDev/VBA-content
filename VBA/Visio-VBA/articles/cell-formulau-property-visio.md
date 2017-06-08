@@ -3,7 +3,7 @@ title: Cell.FormulaU Property (Visio)
 keywords: vis_sdr.chm10151975
 f1_keywords:
 - vis_sdr.chm10151975
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.FormulaU
 ms.assetid: 931490f6-938c-f783-eb2f-a67505187c90

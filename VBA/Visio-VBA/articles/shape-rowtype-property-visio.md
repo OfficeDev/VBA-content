@@ -3,7 +3,7 @@ title: Shape.RowType Property (Visio)
 keywords: vis_sdr.chm11214270
 f1_keywords:
 - vis_sdr.chm11214270
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RowType
 ms.assetid: 416b77f1-6cec-de5b-c2b8-c6e5b239c54c

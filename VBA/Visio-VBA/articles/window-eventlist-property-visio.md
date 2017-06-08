@@ -3,7 +3,7 @@ title: Window.EventList Property (Visio)
 keywords: vis_sdr.chm11613480
 f1_keywords:
 - vis_sdr.chm11613480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.EventList
 ms.assetid: 18421210-d799-dc45-e7e3-39fe5c7f4c09

@@ -3,7 +3,7 @@ title: Page.Picture Property (Visio)
 keywords: vis_sdr.chm10950765
 f1_keywords:
 - vis_sdr.chm10950765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Picture
 ms.assetid: 2e70f00f-6f42-4449-2fcf-ec79f0097296

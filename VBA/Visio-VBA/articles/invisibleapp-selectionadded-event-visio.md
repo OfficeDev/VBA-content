@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.SelectionAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SelectionAdded
 ms.assetid: fa3d9364-b621-c3cd-7b6e-21fd62df762f

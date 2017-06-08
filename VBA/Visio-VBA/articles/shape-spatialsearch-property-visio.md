@@ -3,7 +3,7 @@ title: Shape.SpatialSearch Property (Visio)
 keywords: vis_sdr.chm11214405
 f1_keywords:
 - vis_sdr.chm11214405
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SpatialSearch
 ms.assetid: 360b48b0-783a-7282-b3fe-83f424c393d4

@@ -3,7 +3,7 @@ title: Master.IconSize Property (Visio)
 keywords: vis_sdr.chm10713665
 f1_keywords:
 - vis_sdr.chm10713665
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.IconSize
 ms.assetid: c6516b30-642d-1e61-22b4-f95d6c47a8ec

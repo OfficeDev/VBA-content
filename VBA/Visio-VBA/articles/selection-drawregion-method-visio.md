@@ -3,7 +3,7 @@ title: Selection.DrawRegion Method (Visio)
 keywords: vis_sdr.chm11116225
 f1_keywords:
 - vis_sdr.chm11116225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.DrawRegion
 ms.assetid: 3c3a04d9-a275-a73e-8325-eadd3cae1999

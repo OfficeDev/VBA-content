@@ -1,6 +1,6 @@
 ---
 title: Application.QueryCancelWindowClose Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelWindowClose
 ms.assetid: f4ac803c-5a65-a310-f731-1d2666638525

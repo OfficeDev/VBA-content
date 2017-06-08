@@ -3,7 +3,7 @@ title: ToolbarSets.ItemAtID Property (Visio)
 keywords: vis_sdr.chm14013770
 f1_keywords:
 - vis_sdr.chm14013770
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarSets.ItemAtID
 ms.assetid: 5508ee05-03ca-547d-26dc-2b80c0c22f49

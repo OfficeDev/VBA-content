@@ -1,6 +1,6 @@
 ---
 title: Viewer.ToolbarCustomizable Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarCustomizable
 ms.assetid: d49d690c-7c6d-0fab-4295-9540708eaf5c

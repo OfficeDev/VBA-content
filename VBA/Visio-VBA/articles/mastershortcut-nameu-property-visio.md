@@ -3,7 +3,7 @@ title: MasterShortcut.NameU Property (Visio)
 keywords: vis_sdr.chm16051985
 f1_keywords:
 - vis_sdr.chm16051985
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.NameU
 ms.assetid: 6f4dfc2b-fe30-e8c2-5e0d-b6e657174482

@@ -3,7 +3,7 @@ title: DataRecordsetChangedEvent.Stat Property (Visio)
 keywords: vis_sdr.chm17214420
 f1_keywords:
 - vis_sdr.chm17214420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent.Stat
 ms.assetid: e67e1a54-26da-1052-fe0b-82f3213a3136

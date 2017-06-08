@@ -3,7 +3,7 @@ title: UIObject.AccelTables Property (Visio)
 keywords: vis_sdr.chm14913005
 f1_keywords:
 - vis_sdr.chm14913005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.AccelTables
 ms.assetid: 01cdfc77-47b3-b160-fbaa-9e7d615abff2

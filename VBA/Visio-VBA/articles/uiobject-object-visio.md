@@ -3,7 +3,7 @@ title: UIObject Object (Visio)
 keywords: vis_sdr.chm10300
 f1_keywords:
 - vis_sdr.chm10300
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject
 ms.assetid: 2d842398-df53-0d59-6ee5-89d411440863

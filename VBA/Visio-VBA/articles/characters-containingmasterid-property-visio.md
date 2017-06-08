@@ -3,7 +3,7 @@ title: Characters.ContainingMasterID Property (Visio)
 keywords: vis_sdr.chm10251935
 f1_keywords:
 - vis_sdr.chm10251935
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.ContainingMasterID
 ms.assetid: 50ed7758-208e-15f0-14ac-801db910dabd

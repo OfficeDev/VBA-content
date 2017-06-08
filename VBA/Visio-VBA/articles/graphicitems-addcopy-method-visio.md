@@ -3,7 +3,7 @@ title: GraphicItems.AddCopy Method (Visio)
 keywords: vis_sdr.chm16860420
 f1_keywords:
 - vis_sdr.chm16860420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItems.AddCopy
 ms.assetid: 9956c5a5-8200-4e2a-c219-0a26fc40b414

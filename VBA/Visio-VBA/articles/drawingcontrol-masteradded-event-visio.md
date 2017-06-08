@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.MasterAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterAdded
 ms.assetid: 9c462361-fa77-2916-b2f1-e7b064754bc1

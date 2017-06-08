@@ -3,7 +3,7 @@ title: ContainerProperties.GetListMemberPosition Method (Visio)
 keywords: vis_sdr.chm17662325
 f1_keywords:
 - vis_sdr.chm17662325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.GetListMemberPosition
 ms.assetid: 4fb6ab3b-b369-5e33-0b4f-50754d31f39d

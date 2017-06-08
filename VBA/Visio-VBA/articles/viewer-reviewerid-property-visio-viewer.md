@@ -1,6 +1,6 @@
 ---
 title: Viewer.ReviewerID Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ReviewerID
 ms.assetid: dc6c8175-9cfb-5f31-8572-d7ead88d96a4

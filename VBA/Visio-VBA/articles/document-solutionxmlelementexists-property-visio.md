@@ -3,7 +3,7 @@ title: Document.SolutionXMLElementExists Property (Visio)
 keywords: vis_sdr.chm10550865
 f1_keywords:
 - vis_sdr.chm10550865
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SolutionXMLElementExists
 ms.assetid: d4a0bd9b-a3ea-de0a-5c33-ccad4d4398eb

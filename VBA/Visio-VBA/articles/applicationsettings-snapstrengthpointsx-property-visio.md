@@ -3,7 +3,7 @@ title: ApplicationSettings.SnapStrengthPointsX Property (Visio)
 keywords: vis_sdr.chm16251555
 f1_keywords:
 - vis_sdr.chm16251555
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthPointsX
 ms.assetid: 7f18b1bc-0164-48d5-b50c-d269b68c1f31

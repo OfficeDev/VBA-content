@@ -3,7 +3,7 @@ title: Application.COMAddIns Property (Visio)
 keywords: vis_sdr.chm10050535
 f1_keywords:
 - vis_sdr.chm10050535
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.COMAddIns
 ms.assetid: 182ea1e1-f896-f619-1bf0-df4a57b39abf

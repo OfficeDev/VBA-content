@@ -3,7 +3,7 @@ title: Application.GetCustomStencilFile Method (Visio)
 keywords: vis_sdr.chm10062115
 f1_keywords:
 - vis_sdr.chm10062115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.GetCustomStencilFile
 ms.assetid: 10c8ec1d-f4e0-07dd-4487-40f85cbf5497

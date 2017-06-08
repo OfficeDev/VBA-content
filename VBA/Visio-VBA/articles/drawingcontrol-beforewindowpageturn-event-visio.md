@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.BeforeWindowPageTurn Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeWindowPageTurn
 ms.assetid: 5303266b-8eb3-bbb0-0ec5-142189245d3f

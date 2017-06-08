@@ -3,7 +3,7 @@ title: Document.UndoCheckOut Method (Visio)
 keywords: vis_sdr.chm10560090
 f1_keywords:
 - vis_sdr.chm10560090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.UndoCheckOut
 ms.assetid: 7b6a67ae-2acd-217f-42e0-f8aced97ac96

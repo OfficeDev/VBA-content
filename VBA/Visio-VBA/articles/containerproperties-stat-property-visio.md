@@ -3,7 +3,7 @@ title: ContainerProperties.Stat Property (Visio)
 keywords: vis_sdr.chm17614420
 f1_keywords:
 - vis_sdr.chm17614420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.Stat
 ms.assetid: 706df3c5-edf6-720c-e411-5445224d2e26

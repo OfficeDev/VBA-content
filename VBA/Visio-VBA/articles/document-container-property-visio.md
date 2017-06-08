@@ -3,7 +3,7 @@ title: Document.Container Property (Visio)
 keywords: vis_sdr.chm10513295
 f1_keywords:
 - vis_sdr.chm10513295
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Container
 ms.assetid: a5b2c90e-f9e0-cc09-8388-566729c1c4eb

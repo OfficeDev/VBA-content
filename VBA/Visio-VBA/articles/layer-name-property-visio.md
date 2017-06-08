@@ -3,7 +3,7 @@ title: Layer.Name Property (Visio)
 keywords: vis_sdr.chm11813930
 f1_keywords:
 - vis_sdr.chm11813930
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layer.Name
 ms.assetid: 4026742c-26e9-2632-dd8b-21021333fcf6

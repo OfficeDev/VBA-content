@@ -3,7 +3,7 @@ title: DataRecordset.RefreshUsingXML Method (Visio)
 keywords: vis_sdr.chm16460325
 f1_keywords:
 - vis_sdr.chm16460325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.RefreshUsingXML
 ms.assetid: 345935ab-b269-61dd-9ebe-e1f87b89bb11

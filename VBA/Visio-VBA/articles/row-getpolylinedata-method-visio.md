@@ -3,7 +3,7 @@ title: Row.GetPolylineData Method (Visio)
 keywords: vis_sdr.chm15816690
 f1_keywords:
 - vis_sdr.chm15816690
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.GetPolylineData
 ms.assetid: 91b7f1b4-259d-9423-0c12-271287248a74

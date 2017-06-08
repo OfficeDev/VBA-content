@@ -3,7 +3,7 @@ title: Validation Object (Visio)
 keywords: vis_sdr.chm61060
 f1_keywords:
 - vis_sdr.chm61060
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Validation
 ms.assetid: d59880de-ba16-eccf-fd94-f69da9a1efea

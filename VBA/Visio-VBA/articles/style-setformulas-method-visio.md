@@ -3,7 +3,7 @@ title: Style.SetFormulas Method (Visio)
 keywords: vis_sdr.chm11416575
 f1_keywords:
 - vis_sdr.chm11416575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.SetFormulas
 ms.assetid: ad00a51c-2bb4-9cd0-8f5c-870f8b0ae8c3

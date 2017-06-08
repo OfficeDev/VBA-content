@@ -3,7 +3,7 @@ title: Master.InsertObject Method (Visio)
 keywords: vis_sdr.chm10716370
 f1_keywords:
 - vis_sdr.chm10716370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.InsertObject
 ms.assetid: 7b663eef-ed40-486b-2b5b-e7c7066c2300

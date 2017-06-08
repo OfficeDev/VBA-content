@@ -1,6 +1,6 @@
 ---
 title: About the Save as Web Page API
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 82d863e2-88a3-527b-4c2e-4c9b43aa3df6
 ms.date: 06/08/2017
 ---

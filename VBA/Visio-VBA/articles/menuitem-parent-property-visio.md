@@ -3,7 +3,7 @@ title: MenuItem.Parent Property (Visio)
 keywords: vis_sdr.chm12914040
 f1_keywords:
 - vis_sdr.chm12914040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.Parent
 ms.assetid: 25bc0665-7ab7-a6f5-c5ea-6ba895492fa0

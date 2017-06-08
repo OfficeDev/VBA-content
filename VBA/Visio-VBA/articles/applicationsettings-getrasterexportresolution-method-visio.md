@@ -3,7 +3,7 @@ title: ApplicationSettings.GetRasterExportResolution Method (Visio)
 keywords: vis_sdr.chm16262270
 f1_keywords:
 - vis_sdr.chm16262270
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 526d2970-006b-6596-bfef-49446dd58610
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Master.QueryCancelMasterDelete Event (Visio)
 keywords: vis_sdr.chm10719310
 f1_keywords:
 - vis_sdr.chm10719310
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.QueryCancelMasterDelete
 ms.assetid: 33690e0f-821e-42cd-ec52-3ade1a1ceadc

@@ -3,7 +3,7 @@ title: Page.ResizeToFitContents Method (Visio)
 keywords: vis_sdr.chm10950820
 f1_keywords:
 - vis_sdr.chm10950820
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ResizeToFitContents
 ms.assetid: 26b96288-7d8b-a999-ef45-a586110cc8b9

@@ -3,7 +3,7 @@ title: Document.QueryCancelDocumentClose Event (Visio)
 keywords: vis_sdr.chm10519295
 f1_keywords:
 - vis_sdr.chm10519295
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.QueryCancelDocumentClose
 ms.assetid: e00d4708-24dd-3a35-c986-54464a028a6b

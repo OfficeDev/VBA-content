@@ -3,7 +3,7 @@ title: Connect.ToPart Property (Visio)
 keywords: vis_sdr.chm10314575
 f1_keywords:
 - vis_sdr.chm10314575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.ToPart
 ms.assetid: 37044045-f911-872e-4f72-68fa265fb6f8

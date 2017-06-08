@@ -3,7 +3,7 @@ title: DataRecordset.Delete Method (Visio)
 keywords: vis_sdr.chm16416165
 f1_keywords:
 - vis_sdr.chm16416165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.Delete
 ms.assetid: 9f3fa9b0-2ca9-cf28-fa27-18eef4be179d

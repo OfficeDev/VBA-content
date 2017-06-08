@@ -3,7 +3,7 @@ title: Shape.DataGraphic Property (Visio)
 keywords: vis_sdr.chm11260205
 f1_keywords:
 - vis_sdr.chm11260205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DataGraphic
 ms.assetid: 09c804fe-d0ec-ac88-6620-1a41fc8a507a

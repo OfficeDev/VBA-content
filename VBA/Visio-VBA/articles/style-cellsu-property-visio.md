@@ -3,7 +3,7 @@ title: Style.CellsU Property (Visio)
 keywords: vis_sdr.chm11451955
 f1_keywords:
 - vis_sdr.chm11451955
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.CellsU
 ms.assetid: 3f4aae37-cd43-5128-a8fa-ac74c5a2b5a3

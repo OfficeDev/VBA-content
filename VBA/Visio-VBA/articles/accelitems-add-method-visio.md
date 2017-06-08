@@ -3,7 +3,7 @@ title: AccelItems.Add Method (Visio)
 keywords: vis_sdr.chm14616005
 f1_keywords:
 - vis_sdr.chm14616005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AccelItems.Add
 ms.assetid: f21034e3-0fbb-6291-ca56-81445a585def

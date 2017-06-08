@@ -3,7 +3,7 @@ title: Master.Export Method (Visio)
 keywords: vis_sdr.chm10716265
 f1_keywords:
 - vis_sdr.chm10716265
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Export
 ms.assetid: 212bcc8e-646c-37df-9387-4605b72b6edd

@@ -3,7 +3,7 @@ title: Shape.Paste Method (Visio)
 keywords: vis_sdr.chm11216430
 f1_keywords:
 - vis_sdr.chm11216430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Paste
 ms.assetid: ce5892be-b5e7-2ca0-7ee1-aa4e602641a2

@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.BeforeMasterDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeMasterDelete
 ms.assetid: 306614dd-eb51-d1f7-f6ae-521dfa1c2917

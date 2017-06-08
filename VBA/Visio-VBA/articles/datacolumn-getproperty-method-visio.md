@@ -3,7 +3,7 @@ title: DataColumn.GetProperty Method (Visio)
 keywords: vis_sdr.chm16760400
 f1_keywords:
 - vis_sdr.chm16760400
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataColumn.GetProperty
 ms.assetid: 8fa134e8-320d-546b-1de1-e19607a60c49

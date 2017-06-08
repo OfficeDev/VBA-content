@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.PageChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageChanged
 ms.assetid: d0d870b2-d2d1-4b56-39b9-8c4bbc5ea63c

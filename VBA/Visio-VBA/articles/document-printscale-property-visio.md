@@ -3,7 +3,7 @@ title: Document.PrintScale Property (Visio)
 keywords: vis_sdr.chm10514135
 f1_keywords:
 - vis_sdr.chm10514135
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PrintScale
 ms.assetid: d352b695-1e94-888d-70a0-9189678992e6

@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings.QuietMode Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.QuietMode
 ms.assetid: 1bdc15d9-a4f3-de94-d6ed-4da508d98581

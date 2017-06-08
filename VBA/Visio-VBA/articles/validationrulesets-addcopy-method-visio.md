@@ -3,7 +3,7 @@ title: ValidationRuleSets.AddCopy Method (Visio)
 keywords: vis_sdr.chm18160420
 f1_keywords:
 - vis_sdr.chm18160420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRuleSets.AddCopy
 ms.assetid: a9510a97-7a85-3e68-6493-2a43840ef934

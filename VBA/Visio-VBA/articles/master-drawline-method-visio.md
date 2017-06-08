@@ -3,7 +3,7 @@ title: Master.DrawLine Method (Visio)
 keywords: vis_sdr.chm10716200
 f1_keywords:
 - vis_sdr.chm10716200
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawLine
 ms.assetid: c29810a2-c1eb-82cc-ab19-236a89baf7b0

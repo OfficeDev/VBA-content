@@ -3,7 +3,7 @@ title: Page.InsertFromFile Method (Visio)
 keywords: vis_sdr.chm10916365
 f1_keywords:
 - vis_sdr.chm10916365
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.InsertFromFile
 ms.assetid: 03762511-9f2f-6691-ac82-dcff74fcde1d

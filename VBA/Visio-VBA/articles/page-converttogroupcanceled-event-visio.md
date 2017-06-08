@@ -3,7 +3,7 @@ title: Page.ConvertToGroupCanceled Event (Visio)
 keywords: vis_sdr.chm10919370
 f1_keywords:
 - vis_sdr.chm10919370
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ConvertToGroupCanceled
 ms.assetid: c44afba7-eeb5-3760-7ab3-1e5e86d92060

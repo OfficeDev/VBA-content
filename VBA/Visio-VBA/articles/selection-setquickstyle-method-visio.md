@@ -1,6 +1,6 @@
 ---
 title: Selection.SetQuickStyle Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 39b810b5-0738-daed-0103-8a2df07559c6
 ms.date: 06/08/2017
 ---

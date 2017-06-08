@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.ShapeExitedTextEdit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShapeExitedTextEdit
 ms.assetid: e0af65b3-d01c-ad7e-11ff-efe5363f4ded

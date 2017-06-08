@@ -3,7 +3,7 @@ title: Application.CommandLine Property (Visio)
 keywords: vis_sdr.chm10013280
 f1_keywords:
 - vis_sdr.chm10013280
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.CommandLine
 ms.assetid: 36c8320e-17b4-111d-1b2c-e8f7096e1680

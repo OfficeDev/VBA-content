@@ -3,7 +3,7 @@ title: Document.FullBuildNumberCreated Property (Visio)
 keywords: vis_sdr.chm10551225
 f1_keywords:
 - vis_sdr.chm10551225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.FullBuildNumberCreated
 ms.assetid: 3520525a-4c76-3583-49a6-015f2fb90366

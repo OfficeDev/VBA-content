@@ -3,7 +3,7 @@ title: Document.MacrosEnabled Property (Visio)
 keywords: vis_sdr.chm10552080
 f1_keywords:
 - vis_sdr.chm10552080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.MacrosEnabled
 ms.assetid: 361b7bad-55f9-2d4b-4de3-8a12da48d59e

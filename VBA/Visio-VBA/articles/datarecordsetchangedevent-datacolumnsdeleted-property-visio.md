@@ -3,7 +3,7 @@ title: DataRecordsetChangedEvent.DataColumnsDeleted Property (Visio)
 keywords: vis_sdr.chm17260470
 f1_keywords:
 - vis_sdr.chm17260470
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent.DataColumnsDeleted
 ms.assetid: 6fae59a1-cacc-076f-fd9d-1efbf5f1972e

@@ -3,7 +3,7 @@ title: Documents.UngroupCanceled Event (Visio)
 keywords: vis_sdr.chm10619375
 f1_keywords:
 - vis_sdr.chm10619375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.UngroupCanceled
 ms.assetid: ac75485f-bd09-8339-d403-8587230a99c5

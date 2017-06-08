@@ -3,7 +3,7 @@ title: ToolbarSet.Parent Property (Visio)
 keywords: vis_sdr.chm13914040
 f1_keywords:
 - vis_sdr.chm13914040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarSet.Parent
 ms.assetid: 8f7d10ea-0e8a-ede3-2902-6be4e192f47f

@@ -3,7 +3,7 @@ title: Page.Index Property (Visio)
 keywords: vis_sdr.chm10913695
 f1_keywords:
 - vis_sdr.chm10913695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.Index
 ms.assetid: 00bc8738-ad54-a5ae-a6aa-bfb762ee0fa7

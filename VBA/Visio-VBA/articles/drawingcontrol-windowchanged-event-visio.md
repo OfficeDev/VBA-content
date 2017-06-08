@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.WindowChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.WindowChanged
 ms.assetid: a8e07754-d272-0874-ac0c-ea54174431d5

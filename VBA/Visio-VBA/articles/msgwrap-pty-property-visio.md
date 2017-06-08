@@ -3,7 +3,7 @@ title: MSGWrap.pty Property (Visio)
 keywords: vis_sdr.chm16150805
 f1_keywords:
 - vis_sdr.chm16150805
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MSGWrap.pty
 ms.assetid: 1f3ecb54-db9c-4d07-fbe2-a63b2e4be083

@@ -3,7 +3,7 @@ title: Document.GroupCanceled Event (Visio)
 keywords: vis_sdr.chm10562005
 f1_keywords:
 - vis_sdr.chm10562005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.GroupCanceled
 ms.assetid: 135d8176-2c26-12aa-5bff-0df205e0640f

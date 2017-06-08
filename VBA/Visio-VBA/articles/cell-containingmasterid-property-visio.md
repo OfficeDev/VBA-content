@@ -3,7 +3,7 @@ title: Cell.ContainingMasterID Property (Visio)
 keywords: vis_sdr.chm10151700
 f1_keywords:
 - vis_sdr.chm10151700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.ContainingMasterID
 ms.assetid: 1daba8ed-69cd-2c80-8534-ba9fc4956292

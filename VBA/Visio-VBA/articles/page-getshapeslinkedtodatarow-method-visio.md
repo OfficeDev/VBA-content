@@ -3,7 +3,7 @@ title: Page.GetShapesLinkedToDataRow Method (Visio)
 keywords: vis_sdr.chm10960150
 f1_keywords:
 - vis_sdr.chm10960150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.GetShapesLinkedToDataRow
 ms.assetid: d305eccc-4121-be3a-a389-f50234e526f1

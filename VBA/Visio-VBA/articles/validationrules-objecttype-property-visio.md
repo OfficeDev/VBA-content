@@ -1,6 +1,6 @@
 ---
 title: ValidationRules.ObjectType Property (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationRules.ObjectType
 ms.assetid: e6f7ce1d-cdba-ffe8-3036-49c1cf6635d7

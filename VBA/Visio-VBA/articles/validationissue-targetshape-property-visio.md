@@ -3,7 +3,7 @@ title: ValidationIssue.TargetShape Property (Visio)
 keywords: vis_sdr.chm18662685
 f1_keywords:
 - vis_sdr.chm18662685
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationIssue.TargetShape
 ms.assetid: 93cc256d-6763-064c-392e-46232033b6dc

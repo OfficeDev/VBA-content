@@ -3,7 +3,7 @@ title: Document.SnapExtensions Property (Visio)
 keywords: vis_sdr.chm10550885
 f1_keywords:
 - vis_sdr.chm10550885
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SnapExtensions
 ms.assetid: 8b5aad7a-335a-dc8c-aa58-42947ffdc53e

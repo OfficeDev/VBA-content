@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeModal Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeModal
 ms.assetid: 505d3e54-c8f7-7f02-90d2-43f73573b296

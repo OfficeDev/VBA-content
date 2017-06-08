@@ -3,7 +3,7 @@ title: ContainerProperties.GetMemberState Method (Visio)
 keywords: vis_sdr.chm17662330
 f1_keywords:
 - vis_sdr.chm17662330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.GetMemberState
 ms.assetid: 04103f79-7f28-7584-3bab-0c1d140f6b52

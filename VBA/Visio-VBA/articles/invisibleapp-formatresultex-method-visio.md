@@ -3,7 +3,7 @@ title: InvisibleApp.FormatResultEx Method (Visio)
 keywords: vis_sdr.chm17551375
 f1_keywords:
 - vis_sdr.chm17551375
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FormatResultEx
 ms.assetid: 8a6fe08f-06f2-f9d5-5699-aa40fec6bde8

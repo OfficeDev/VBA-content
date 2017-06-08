@@ -3,7 +3,7 @@ title: Masters.ShapeParentChanged Event (Visio)
 keywords: vis_sdr.chm10819235
 f1_keywords:
 - vis_sdr.chm10819235
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.ShapeParentChanged
 ms.assetid: 5c838330-1d66-d343-0a50-846c91496325

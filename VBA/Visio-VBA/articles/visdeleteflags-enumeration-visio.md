@@ -3,7 +3,7 @@ title: VisDeleteFlags Enumeration (Visio)
 keywords: vis_sdr.chm70670
 f1_keywords:
 - vis_sdr.chm70670
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisDeleteFlags
 ms.assetid: 1f36b2c8-1c46-519f-b0f0-b548363891ab

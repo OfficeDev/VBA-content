@@ -3,7 +3,7 @@ title: Application Object (Visio)
 keywords: vis_sdr.chm10040
 f1_keywords:
 - vis_sdr.chm10040
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application
 ms.assetid: 5b3c8939-793f-116f-11b8-1d4170d95a63

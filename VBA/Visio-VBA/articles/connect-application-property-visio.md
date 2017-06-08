@@ -3,7 +3,7 @@ title: Connect.Application Property (Visio)
 keywords: vis_sdr.chm10313090
 f1_keywords:
 - vis_sdr.chm10313090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Connect.Application
 ms.assetid: 6ebcb9a4-4653-38ca-6a13-6e5d8db97960

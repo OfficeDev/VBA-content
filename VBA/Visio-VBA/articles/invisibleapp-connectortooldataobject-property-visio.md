@@ -3,7 +3,7 @@ title: InvisibleApp.ConnectorToolDataObject Property (Visio)
 keywords: vis_sdr.chm17551835
 f1_keywords:
 - vis_sdr.chm17551835
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectorToolDataObject
 ms.assetid: 66b73837-f89a-0de0-d822-c500ffc4b595

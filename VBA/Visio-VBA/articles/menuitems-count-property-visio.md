@@ -3,7 +3,7 @@ title: MenuItems.Count Property (Visio)
 keywords: vis_sdr.chm13013330
 f1_keywords:
 - vis_sdr.chm13013330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItems.Count
 ms.assetid: b1261b4a-6b79-224f-b941-f96988e796d2

@@ -3,7 +3,7 @@ title: Shape.CalloutsAssociated Property (Visio)
 keywords: vis_sdr.chm11262480
 f1_keywords:
 - vis_sdr.chm11262480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CalloutsAssociated
 ms.assetid: c1e32bb2-c946-3919-4f6e-064b5be50d6c

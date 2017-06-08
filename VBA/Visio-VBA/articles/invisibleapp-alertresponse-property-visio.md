@@ -3,7 +3,7 @@ title: InvisibleApp.AlertResponse Property (Visio)
 keywords: vis_sdr.chm17513070
 f1_keywords:
 - vis_sdr.chm17513070
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AlertResponse
 ms.assetid: eb0fabb1-809e-b952-da99-e18eda0f6970

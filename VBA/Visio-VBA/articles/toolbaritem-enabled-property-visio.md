@@ -3,7 +3,7 @@ title: ToolbarItem.Enabled Property (Visio)
 keywords: vis_sdr.chm13513455
 f1_keywords:
 - vis_sdr.chm13513455
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.Enabled
 ms.assetid: ef634f6d-ce50-4f88-c90f-75fbfaa02a29

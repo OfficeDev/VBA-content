@@ -3,7 +3,7 @@ title: InvisibleApp.Name Property (Visio)
 keywords: vis_sdr.chm17514150
 f1_keywords:
 - vis_sdr.chm17514150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Name
 ms.assetid: 46cd253a-6cb3-5b74-40ad-c992331a6002

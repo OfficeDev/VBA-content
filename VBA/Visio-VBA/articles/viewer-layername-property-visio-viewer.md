@@ -1,6 +1,6 @@
 ---
 title: Viewer.LayerName Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.LayerName
 ms.assetid: ebf2b8da-7c4d-b67c-9f8c-17629f1d8214

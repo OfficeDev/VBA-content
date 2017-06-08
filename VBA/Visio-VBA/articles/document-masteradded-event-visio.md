@@ -3,7 +3,7 @@ title: Document.MasterAdded Event (Visio)
 keywords: vis_sdr.chm10519170
 f1_keywords:
 - vis_sdr.chm10519170
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.MasterAdded
 ms.assetid: 5637df50-5174-03d4-a07f-cc7aeb92d0fa

@@ -3,7 +3,7 @@ title: Application.SetCustomMenus Method (Visio)
 keywords: vis_sdr.chm10016560
 f1_keywords:
 - vis_sdr.chm10016560
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SetCustomMenus
 ms.assetid: 90aa627c-ba51-87a7-4347-6a806998e1a4

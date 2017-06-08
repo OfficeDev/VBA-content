@@ -3,7 +3,7 @@ title: About the Visio Drawing Control
 keywords: vis_sdr.chm1046823
 f1_keywords:
 - vis_sdr.chm1046823
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 313f3b77-23ae-3079-cc61-dd0c03a58480
 ms.date: 06/08/2017
 ---

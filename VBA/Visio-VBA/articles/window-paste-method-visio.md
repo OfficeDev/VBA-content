@@ -1,6 +1,6 @@
 ---
 title: Window.Paste Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Paste
 ms.assetid: e5535c75-5a43-48dc-bd77-50db003809ba

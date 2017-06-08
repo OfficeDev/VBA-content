@@ -3,7 +3,7 @@ title: Window.Activate Method (Visio)
 keywords: vis_sdr.chm11616000
 f1_keywords:
 - vis_sdr.chm11616000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Activate
 ms.assetid: e34a74e0-8a47-a0bb-4ac5-6fdc8c9e5e08

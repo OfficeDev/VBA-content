@@ -3,7 +3,7 @@ title: Selection.AddToGroup Method (Visio)
 keywords: vis_sdr.chm11116070
 f1_keywords:
 - vis_sdr.chm11116070
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.AddToGroup
 ms.assetid: 8bef7960-271c-245d-dec0-eeea4af66097

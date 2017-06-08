@@ -3,7 +3,7 @@ title: Event.GetFilterCommands Method (Visio)
 keywords: vis_sdr.chm12650610
 f1_keywords:
 - vis_sdr.chm12650610
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.GetFilterCommands
 ms.assetid: 47664b2f-702b-1c61-1746-9b5fd470a8f4

@@ -1,6 +1,6 @@
 ---
 title: Viewer.OnDocumentUnloaded Event (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OnDocumentUnloaded
 ms.assetid: b2f1d5ad-122d-6e55-1cb0-63c78f79bc2b

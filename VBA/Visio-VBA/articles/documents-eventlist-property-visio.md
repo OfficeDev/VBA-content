@@ -3,7 +3,7 @@ title: Documents.EventList Property (Visio)
 keywords: vis_sdr.chm10613480
 f1_keywords:
 - vis_sdr.chm10613480
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.EventList
 ms.assetid: be8c42b0-7531-7b3d-f23c-741ba63d9164

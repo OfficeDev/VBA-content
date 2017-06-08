@@ -3,7 +3,7 @@ title: DataRecordset.GetPrimaryKey Method (Visio)
 keywords: vis_sdr.chm16460290
 f1_keywords:
 - vis_sdr.chm16460290
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.GetPrimaryKey
 ms.assetid: 4f056424-4668-7859-5ed1-bd28a051ddc0

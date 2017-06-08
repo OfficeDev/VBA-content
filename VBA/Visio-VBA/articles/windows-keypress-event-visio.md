@@ -3,7 +3,7 @@ title: Windows.KeyPress Event (Visio)
 keywords: vis_sdr.chm11751320
 f1_keywords:
 - vis_sdr.chm11751320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.KeyPress
 ms.assetid: 3db88ff7-a2d0-2725-c564-477ca92fabc4

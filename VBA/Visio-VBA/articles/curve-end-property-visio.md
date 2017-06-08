@@ -3,7 +3,7 @@ title: Curve.End Property (Visio)
 keywords: vis_sdr.chm15550575
 f1_keywords:
 - vis_sdr.chm15550575
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Curve.End
 ms.assetid: dce413f4-3c3b-c79f-4dbc-cbe1a8fbcca7

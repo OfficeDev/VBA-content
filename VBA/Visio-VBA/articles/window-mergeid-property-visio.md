@@ -3,7 +3,7 @@ title: Window.MergeID Property (Visio)
 keywords: vis_sdr.chm11650720
 f1_keywords:
 - vis_sdr.chm11650720
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.MergeID
 ms.assetid: 473baaa6-ea88-46f3-3d5f-501f280792a3

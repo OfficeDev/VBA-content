@@ -3,7 +3,7 @@ title: MenuItem.BeginGroup Property (Visio)
 keywords: vis_sdr.chm12951115
 f1_keywords:
 - vis_sdr.chm12951115
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.BeginGroup
 ms.assetid: 1ae4844b-b9d3-c998-2ead-e3465f84d2a5

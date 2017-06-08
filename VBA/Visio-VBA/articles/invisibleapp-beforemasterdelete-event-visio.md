@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.BeforeMasterDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeMasterDelete
 ms.assetid: 7a4a99f1-a3e6-af6c-b563-ca65877eb980

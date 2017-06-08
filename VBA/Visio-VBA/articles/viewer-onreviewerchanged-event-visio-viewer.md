@@ -1,6 +1,6 @@
 ---
 title: Viewer.OnReviewerChanged Event (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OnReviewerChanged
 ms.assetid: a705878b-cb2e-5b5c-01ae-e0fca790c0d5

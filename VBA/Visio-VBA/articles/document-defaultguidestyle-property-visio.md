@@ -3,7 +3,7 @@ title: Document.DefaultGuideStyle Property (Visio)
 keywords: vis_sdr.chm10550550
 f1_keywords:
 - vis_sdr.chm10550550
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.DefaultGuideStyle
 ms.assetid: d739d6ca-01c4-d99b-df32-d2589f015fb7

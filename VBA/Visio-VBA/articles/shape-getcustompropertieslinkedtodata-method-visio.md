@@ -3,7 +3,7 @@ title: Shape.GetCustomPropertiesLinkedToData Method (Visio)
 keywords: vis_sdr.chm11260225
 f1_keywords:
 - vis_sdr.chm11260225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GetCustomPropertiesLinkedToData
 ms.assetid: 8a0d783d-f5ee-d6c0-adbd-377cbe65e5f5

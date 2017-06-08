@@ -3,7 +3,7 @@ title: Document.SnapAngles Property (Visio)
 keywords: vis_sdr.chm10550875
 f1_keywords:
 - vis_sdr.chm10550875
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.SnapAngles
 ms.assetid: b2a85580-3308-6bda-dd00-7449f6d87c8b

@@ -3,7 +3,7 @@ title: InvisibleApp.DeferRelationshipRecalc Property (Visio)
 keywords: vis_sdr.chm17562425
 f1_keywords:
 - vis_sdr.chm17562425
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DeferRelationshipRecalc
 ms.assetid: 77c7842c-1dc0-fea9-2cdc-0381aab251d2

@@ -3,7 +3,7 @@ title: ApplicationSettings.EnableFormulaAutoComplete Property (Visio)
 keywords: vis_sdr.chm16262505
 f1_keywords:
 - vis_sdr.chm16262505
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.EnableFormulaAutoComplete
 ms.assetid: c5860206-378b-1d21-54cc-4fb939daf5ef

@@ -3,7 +3,7 @@ title: InvisibleApp.CurrentScope Property (Visio)
 keywords: vis_sdr.chm17513340
 f1_keywords:
 - vis_sdr.chm17513340
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CurrentScope
 ms.assetid: 8a2bf84d-419d-7776-2d7c-7b73c3203e66

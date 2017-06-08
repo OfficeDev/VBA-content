@@ -3,7 +3,7 @@ title: Master.OpenIconWindow Method (Visio)
 keywords: vis_sdr.chm10716410
 f1_keywords:
 - vis_sdr.chm10716410
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.OpenIconWindow
 ms.assetid: 5e2b2437-05cc-4855-e0bb-96b097c98d3c

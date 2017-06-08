@@ -3,7 +3,7 @@ title: UIObject.MenuSets Property (Visio)
 keywords: vis_sdr.chm14913915
 f1_keywords:
 - vis_sdr.chm14913915
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.UIObject.MenuSets
 ms.assetid: 8acecfc4-5a49-e11f-b9e9-07d5a464681a

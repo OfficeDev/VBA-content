@@ -3,7 +3,7 @@ title: Shape.Style Property (Visio)
 keywords: vis_sdr.chm11251160
 f1_keywords:
 - vis_sdr.chm11251160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Style
 ms.assetid: beba03ba-6926-d2db-4e36-652d05c2925c

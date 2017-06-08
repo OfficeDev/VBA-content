@@ -3,7 +3,7 @@ title: Documents.GetNames Method (Visio)
 keywords: vis_sdr.chm10616315
 f1_keywords:
 - vis_sdr.chm10616315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.GetNames
 ms.assetid: 3924a293-c07b-89fa-06d9-35e0e5395c9a

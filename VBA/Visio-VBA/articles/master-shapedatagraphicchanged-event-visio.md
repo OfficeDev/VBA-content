@@ -3,7 +3,7 @@ title: Master.ShapeDataGraphicChanged Event (Visio)
 keywords: vis_sdr.chm10762010
 f1_keywords:
 - vis_sdr.chm10762010
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.ShapeDataGraphicChanged
 ms.assetid: 74eb2604-bcb2-0cba-37e2-50ad896991ca

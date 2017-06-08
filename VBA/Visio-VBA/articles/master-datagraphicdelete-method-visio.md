@@ -3,7 +3,7 @@ title: Master.DataGraphicDelete Method (Visio)
 keywords: vis_sdr.chm10760140
 f1_keywords:
 - vis_sdr.chm10760140
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicDelete
 ms.assetid: aa84af70-975c-3747-1976-b872a6c2fa36

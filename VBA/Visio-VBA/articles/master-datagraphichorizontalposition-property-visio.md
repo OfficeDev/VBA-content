@@ -3,7 +3,7 @@ title: Master.DataGraphicHorizontalPosition Property (Visio)
 keywords: vis_sdr.chm10760125
 f1_keywords:
 - vis_sdr.chm10760125
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicHorizontalPosition
 ms.assetid: d9c98a41-ffc0-152e-2150-0915bd38bcac

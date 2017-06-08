@@ -3,7 +3,7 @@ title: Application.RegisterRibbonX Method (Visio)
 keywords: vis_sdr.chm10062090
 f1_keywords:
 - vis_sdr.chm10062090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.RegisterRibbonX
 ms.assetid: 178db1c3-b3af-aa3f-af03-1aec1eab549a

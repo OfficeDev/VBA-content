@@ -3,7 +3,7 @@ title: Shape.CellChanged Event (Visio)
 keywords: vis_sdr.chm11219090
 f1_keywords:
 - vis_sdr.chm11219090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellChanged
 ms.assetid: d3324bb1-f944-e644-79ef-55022b31fbd2

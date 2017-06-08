@@ -3,7 +3,7 @@ title: Characters.CharPropsRow Property (Visio)
 keywords: vis_sdr.chm10213230
 f1_keywords:
 - vis_sdr.chm10213230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.CharPropsRow
 ms.assetid: 55ea568a-7dfc-faed-e4c2-23fa76aac16d

@@ -3,7 +3,7 @@ title: Layers.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm11914080
 f1_keywords:
 - vis_sdr.chm11914080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layers.PersistsEvents
 ms.assetid: 08c7f881-c7b2-5e37-28f5-98cc469bfffb

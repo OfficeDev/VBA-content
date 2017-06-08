@@ -3,7 +3,7 @@ title: Application.DialogFont Property (Visio)
 keywords: vis_sdr.chm10052075
 f1_keywords:
 - vis_sdr.chm10052075
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DialogFont
 ms.assetid: 8742b97f-7f66-38c7-fafd-a343c1160671

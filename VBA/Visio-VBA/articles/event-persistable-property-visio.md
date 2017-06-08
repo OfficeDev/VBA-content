@@ -3,7 +3,7 @@ title: Event.Persistable Property (Visio)
 keywords: vis_sdr.chm12614070
 f1_keywords:
 - vis_sdr.chm12614070
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Event.Persistable
 ms.assetid: 3203ac60-ed7f-81cf-6ecf-0095dbc15c48

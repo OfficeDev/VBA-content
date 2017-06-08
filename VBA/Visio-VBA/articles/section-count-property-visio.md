@@ -3,7 +3,7 @@ title: Section.Count Property (Visio)
 keywords: vis_sdr.chm15713330
 f1_keywords:
 - vis_sdr.chm15713330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Section.Count
 ms.assetid: 915dc7cd-ec14-77e3-63e0-217bd3e17abf

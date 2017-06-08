@@ -3,7 +3,7 @@ title: Selection.Rotate Method (Visio)
 keywords: vis_sdr.chm11151330
 f1_keywords:
 - vis_sdr.chm11151330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Rotate
 ms.assetid: 3c0a1a4d-a172-131a-9fb4-d215a5b9b2af

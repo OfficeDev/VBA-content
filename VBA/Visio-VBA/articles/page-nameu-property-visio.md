@@ -3,7 +3,7 @@ title: Page.NameU Property (Visio)
 keywords: vis_sdr.chm10951985
 f1_keywords:
 - vis_sdr.chm10951985
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.NameU
 ms.assetid: d4e8c719-8667-caaa-3a41-1f80ec65fd75

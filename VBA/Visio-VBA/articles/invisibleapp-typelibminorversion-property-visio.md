@@ -3,7 +3,7 @@ title: InvisibleApp.TypelibMinorVersion Property (Visio)
 keywords: vis_sdr.chm17514700
 f1_keywords:
 - vis_sdr.chm17514700
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TypelibMinorVersion
 ms.assetid: 7564e196-4999-037f-650f-a6fa6f9e3308

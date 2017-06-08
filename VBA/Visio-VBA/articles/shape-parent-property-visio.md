@@ -3,7 +3,7 @@ title: Shape.Parent Property (Visio)
 keywords: vis_sdr.chm11250755
 f1_keywords:
 - vis_sdr.chm11250755
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Parent
 ms.assetid: aada0bc1-75e3-8357-3ef9-597a10250860

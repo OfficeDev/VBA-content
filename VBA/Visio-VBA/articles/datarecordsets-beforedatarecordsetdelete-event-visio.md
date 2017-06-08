@@ -3,7 +3,7 @@ title: DataRecordsets.BeforeDataRecordsetDelete Event (Visio)
 keywords: vis_sdr.chm16362030
 f1_keywords:
 - vis_sdr.chm16362030
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsets.BeforeDataRecordsetDelete
 ms.assetid: f559b904-df44-3f4e-14d9-6a1493180f27

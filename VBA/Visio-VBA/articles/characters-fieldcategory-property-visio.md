@@ -3,7 +3,7 @@ title: Characters.FieldCategory Property (Visio)
 keywords: vis_sdr.chm10213500
 f1_keywords:
 - vis_sdr.chm10213500
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.FieldCategory
 ms.assetid: b9c1ecca-ae27-83b8-862d-e8677f8c4c9a

@@ -3,7 +3,7 @@ title: DrawingControl.PageSizingBehavior Property (Visio)
 keywords: vis_sdr.chm60138
 f1_keywords:
 - vis_sdr.chm60138
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.PageSizingBehavior
 ms.assetid: a16e860c-f60a-73b6-c978-7a5d70ccaa25

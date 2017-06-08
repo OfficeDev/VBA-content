@@ -3,7 +3,7 @@ title: Color.Blue Property (Visio)
 keywords: vis_sdr.chm12213145
 f1_keywords:
 - vis_sdr.chm12213145
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Color.Blue
 ms.assetid: 7291912d-3521-5081-0e9d-4ce1bf1cccda

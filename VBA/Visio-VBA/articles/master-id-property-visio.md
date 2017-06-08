@@ -3,7 +3,7 @@ title: Master.ID Property (Visio)
 keywords: vis_sdr.chm10713675
 f1_keywords:
 - vis_sdr.chm10713675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.ID
 ms.assetid: 9064e708-f939-9522-b8f7-24488d780bc0

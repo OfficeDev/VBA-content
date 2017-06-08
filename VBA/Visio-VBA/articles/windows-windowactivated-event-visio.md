@@ -3,7 +3,7 @@ title: Windows.WindowActivated Event (Visio)
 keywords: vis_sdr.chm11719270
 f1_keywords:
 - vis_sdr.chm11719270
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.WindowActivated
 ms.assetid: 4092a0e7-1529-1af7-fc9b-f8b1b47ad906

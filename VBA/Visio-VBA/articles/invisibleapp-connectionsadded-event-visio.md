@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.ConnectionsAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ConnectionsAdded
 ms.assetid: 635d640f-305b-4d9c-10c2-750f7f29cc00

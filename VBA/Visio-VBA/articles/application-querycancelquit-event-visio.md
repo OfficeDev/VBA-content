@@ -1,6 +1,6 @@
 ---
 title: Application.QueryCancelQuit Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelQuit
 ms.assetid: 19b58edc-dafd-acad-deee-19b2b4021ab6

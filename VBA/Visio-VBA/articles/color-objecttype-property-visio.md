@@ -3,7 +3,7 @@ title: Color.ObjectType Property (Visio)
 keywords: vis_sdr.chm12213960
 f1_keywords:
 - vis_sdr.chm12213960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Color.ObjectType
 ms.assetid: b0134b21-b48c-a681-3322-6a1e855847d0

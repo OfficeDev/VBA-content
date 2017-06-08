@@ -3,7 +3,7 @@ title: Shape.FlipVertical Method (Visio)
 keywords: vis_sdr.chm11216285
 f1_keywords:
 - vis_sdr.chm11216285
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.FlipVertical
 ms.assetid: d83d29fb-4292-61c3-b2b4-ba6aed6fe7ad

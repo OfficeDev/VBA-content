@@ -3,7 +3,7 @@ title: MasterShortcuts Object (Visio)
 keywords: vis_sdr.chm10145
 f1_keywords:
 - vis_sdr.chm10145
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts
 ms.assetid: 9a642698-593d-c068-837b-a0b0c8b10d60

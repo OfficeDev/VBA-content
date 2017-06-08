@@ -3,7 +3,7 @@ title: Masters.BeforeShapeDelete Event (Visio)
 keywords: vis_sdr.chm10819065
 f1_keywords:
 - vis_sdr.chm10819065
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.BeforeShapeDelete
 ms.assetid: 4641bec6-204c-1196-acb0-f9aa1e8de83d

@@ -3,7 +3,7 @@ title: Master.DataGraphicVerticalPosition Property (Visio)
 keywords: vis_sdr.chm10760130
 f1_keywords:
 - vis_sdr.chm10760130
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicVerticalPosition
 ms.assetid: 779f360e-7529-7fe6-87e7-f41cc9334c83

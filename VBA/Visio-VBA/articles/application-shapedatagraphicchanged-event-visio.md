@@ -1,6 +1,6 @@
 ---
 title: Application.ShapeDataGraphicChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ShapeDataGraphicChanged
 ms.assetid: 2b08879a-9607-c878-9524-6806e43e08ae

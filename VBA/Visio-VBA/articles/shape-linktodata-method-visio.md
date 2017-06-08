@@ -3,7 +3,7 @@ title: Shape.LinkToData Method (Visio)
 keywords: vis_sdr.chm11260190
 f1_keywords:
 - vis_sdr.chm11260190
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.LinkToData
 ms.assetid: 75dd1543-e643-0c7d-a89a-f0dd09d6d323

@@ -3,7 +3,7 @@ title: Selection.FillStyle Property (Visio)
 keywords: vis_sdr.chm11113525
 f1_keywords:
 - vis_sdr.chm11113525
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.FillStyle
 ms.assetid: efdf51ba-7d0a-d5c0-5a39-d22d7a79a053

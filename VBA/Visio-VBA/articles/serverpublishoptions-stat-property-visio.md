@@ -3,7 +3,7 @@ title: ServerPublishOptions.Stat Property (Visio)
 keywords: vis_sdr.chm17914420
 f1_keywords:
 - vis_sdr.chm17914420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.Stat
 ms.assetid: 2a9c3a1a-ece6-9fd5-d470-eee7f9db8c57

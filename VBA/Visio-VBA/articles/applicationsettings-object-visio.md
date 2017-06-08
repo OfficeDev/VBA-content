@@ -3,7 +3,7 @@ title: ApplicationSettings Object (Visio)
 keywords: vis_sdr.chm60000
 f1_keywords:
 - vis_sdr.chm60000
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings
 ms.assetid: f2e24211-ecc6-e0f5-4c00-fc50f98a3505

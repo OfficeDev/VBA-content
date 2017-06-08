@@ -1,6 +1,6 @@
 ---
 title: Application.EnterScope Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.EnterScope
 ms.assetid: f7935021-2458-cc8e-dd25-d8d2eb16fa6d

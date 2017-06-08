@@ -3,7 +3,7 @@ title: Shapes.PersistsEvents Property (Visio)
 keywords: vis_sdr.chm11314080
 f1_keywords:
 - vis_sdr.chm11314080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.PersistsEvents
 ms.assetid: 29cb4c52-546b-e1ef-296c-eaee9d33077c

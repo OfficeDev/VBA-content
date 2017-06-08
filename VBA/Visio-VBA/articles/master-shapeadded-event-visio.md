@@ -3,7 +3,7 @@ title: Master.ShapeAdded Event (Visio)
 keywords: vis_sdr.chm10719225
 f1_keywords:
 - vis_sdr.chm10719225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.ShapeAdded
 ms.assetid: d679f866-c939-faff-d8da-cdddb2131054

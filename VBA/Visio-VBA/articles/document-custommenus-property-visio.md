@@ -3,7 +3,7 @@ title: Document.CustomMenus Property (Visio)
 keywords: vis_sdr.chm10513345
 f1_keywords:
 - vis_sdr.chm10513345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.CustomMenus
 ms.assetid: f7d3ec25-a62e-ffe3-affe-c80ed46f58a6

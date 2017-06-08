@@ -3,7 +3,7 @@ title: MasterShortcuts.GetNamesU Method (Visio)
 keywords: vis_sdr.chm15951940
 f1_keywords:
 - vis_sdr.chm15951940
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.GetNamesU
 ms.assetid: 3b8612a1-60c3-23ce-e847-a7082bcb0772

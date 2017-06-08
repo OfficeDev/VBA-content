@@ -3,7 +3,7 @@ title: Sample VBA Macro (Visio)
 keywords: vis_sdr.chm81901862
 f1_keywords:
 - vis_sdr.chm81901862
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 70ffb571-5794-875c-869a-a68a5e1b8ac8
 ms.date: 06/08/2017
 ---

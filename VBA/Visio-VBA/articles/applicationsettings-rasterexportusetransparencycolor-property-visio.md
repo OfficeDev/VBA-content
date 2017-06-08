@@ -3,7 +3,7 @@ title: ApplicationSettings.RasterExportUseTransparencyColor Property (Visio)
 keywords: vis_sdr.chm16262565
 f1_keywords:
 - vis_sdr.chm16262565
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportUseTransparencyColor
 ms.assetid: 1fd93b1b-8b35-a82a-17f5-0fa2ffa819a7

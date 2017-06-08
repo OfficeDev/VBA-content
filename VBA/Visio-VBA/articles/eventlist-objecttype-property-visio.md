@@ -3,7 +3,7 @@ title: EventList.ObjectType Property (Visio)
 keywords: vis_sdr.chm12713960
 f1_keywords:
 - vis_sdr.chm12713960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.EventList.ObjectType
 ms.assetid: edfd2ef6-39bb-59b8-2e41-3e9412618611

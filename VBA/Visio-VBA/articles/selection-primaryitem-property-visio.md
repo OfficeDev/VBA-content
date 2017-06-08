@@ -3,7 +3,7 @@ title: Selection.PrimaryItem Property (Visio)
 keywords: vis_sdr.chm11114100
 f1_keywords:
 - vis_sdr.chm11114100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.PrimaryItem
 ms.assetid: febdc4ec-d7db-7b4f-145b-aa9b23a2d5d2

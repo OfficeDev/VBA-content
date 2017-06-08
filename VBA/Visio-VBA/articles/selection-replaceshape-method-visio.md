@@ -1,6 +1,6 @@
 ---
 title: Selection.ReplaceShape Method (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: dc278901-77ce-e1fe-c44f-f464bbb1c360
 ms.date: 06/08/2017
 ---

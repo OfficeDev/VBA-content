@@ -3,7 +3,7 @@ title: Add Macros or Add-ons to a Shape's Shortcut Menu
 keywords: vis_sdr.chm81901857
 f1_keywords:
 - vis_sdr.chm81901857
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: ad6170b9-830d-f772-2da8-58ca79901a28
 ms.date: 06/08/2017
 ---

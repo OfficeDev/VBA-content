@@ -1,6 +1,6 @@
 ---
 title: Application.WindowOpened Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.WindowOpened
 ms.assetid: a75a50b5-9784-e191-991a-ca9b41994ff9

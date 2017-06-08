@@ -3,7 +3,7 @@ title: Shape.MemberOfContainers Property (Visio)
 keywords: vis_sdr.chm11262465
 f1_keywords:
 - vis_sdr.chm11262465
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.MemberOfContainers
 ms.assetid: e8ed57eb-4031-5718-07ce-3641bda00186

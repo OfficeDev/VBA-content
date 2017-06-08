@@ -3,7 +3,7 @@ title: InvisibleApp.IsInScope Property (Visio)
 keywords: vis_sdr.chm17513750
 f1_keywords:
 - vis_sdr.chm17513750
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.IsInScope
 ms.assetid: b3ba1566-a98c-55ef-b409-588b728730cf

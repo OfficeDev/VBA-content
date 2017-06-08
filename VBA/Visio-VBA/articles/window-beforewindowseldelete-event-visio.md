@@ -3,7 +3,7 @@ title: Window.BeforeWindowSelDelete Event (Visio)
 keywords: vis_sdr.chm11619085
 f1_keywords:
 - vis_sdr.chm11619085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.BeforeWindowSelDelete
 ms.assetid: 450bd22a-ceef-dcf4-90c0-b7511c3506dc

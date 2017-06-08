@@ -3,7 +3,7 @@ title: VisPageTypes Enumeration (Visio)
 keywords: vis_sdr.chm70425
 f1_keywords:
 - vis_sdr.chm70425
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 87bfc806-d7b7-dbaf-d968-0e83928e851f
 ms.date: 06/08/2017
 ---

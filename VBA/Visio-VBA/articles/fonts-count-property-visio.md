@@ -3,7 +3,7 @@ title: Fonts.Count Property (Visio)
 keywords: vis_sdr.chm12113330
 f1_keywords:
 - vis_sdr.chm12113330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Fonts.Count
 ms.assetid: aa428ddf-2a3c-d0e9-231e-ce49e598daf7

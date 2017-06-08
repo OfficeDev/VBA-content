@@ -3,7 +3,7 @@ title: About Using the Visio Drawing Control in Your Application
 keywords: vis_sdr.chm1046843
 f1_keywords:
 - vis_sdr.chm1046843
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 04e63921-6a82-deef-f9e3-eaadcfdfdc44
 ms.date: 06/08/2017
 ---

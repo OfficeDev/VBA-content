@@ -3,7 +3,7 @@ title: Row.ContainingSection Property (Visio)
 keywords: vis_sdr.chm15813315
 f1_keywords:
 - vis_sdr.chm15813315
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.ContainingSection
 ms.assetid: 1cd7ad01-382a-f177-ed4d-ae4d039dadc0

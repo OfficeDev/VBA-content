@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.DocumentCloseCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentCloseCanceled
 ms.assetid: 38ac61ad-1a38-bd73-489b-09de41c69475

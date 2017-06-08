@@ -3,7 +3,7 @@ title: InvisibleApp.RegisterRibbonX Method (Visio)
 keywords: vis_sdr.chm17562090
 f1_keywords:
 - vis_sdr.chm17562090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.RegisterRibbonX
 ms.assetid: db9f5050-0813-f805-5e1c-6fe141742dbe

@@ -3,7 +3,7 @@ title: ApplicationSettings.StencilLinesPerMaster Property (Visio)
 keywords: vis_sdr.chm16251520
 f1_keywords:
 - vis_sdr.chm16251520
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.StencilLinesPerMaster
 ms.assetid: 0d962d29-2cb5-5a9f-342f-1a35905a3438

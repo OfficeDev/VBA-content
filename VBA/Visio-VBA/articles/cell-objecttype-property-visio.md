@@ -3,7 +3,7 @@ title: Cell.ObjectType Property (Visio)
 keywords: vis_sdr.chm10113960
 f1_keywords:
 - vis_sdr.chm10113960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.ObjectType
 ms.assetid: 9abf9d16-e996-2283-5caf-0767b9fdd0a4

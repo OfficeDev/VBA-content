@@ -1,6 +1,6 @@
 ---
 title: Visio Viewer reference
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 6ee197eb-5d40-61a8-4ba4-8c13c9dc3a7e
 ms.date: 06/08/2017
 ---

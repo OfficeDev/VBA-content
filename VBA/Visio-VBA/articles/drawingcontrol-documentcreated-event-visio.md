@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.DocumentCreated Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentCreated
 ms.assetid: f3640d72-cf6b-f08a-4d97-4f071a386358

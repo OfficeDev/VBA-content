@@ -3,7 +3,7 @@ title: Styles.Add Method (Visio)
 keywords: vis_sdr.chm11516680
 f1_keywords:
 - vis_sdr.chm11516680
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Styles.Add
 ms.assetid: def0d922-048a-eab6-51cd-6052ba96fea8

@@ -3,7 +3,7 @@ title: MasterShortcut.ID Property (Visio)
 keywords: vis_sdr.chm16013675
 f1_keywords:
 - vis_sdr.chm16013675
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcut.ID
 ms.assetid: 00c39787-715e-677c-3241-eb35335b6ac6

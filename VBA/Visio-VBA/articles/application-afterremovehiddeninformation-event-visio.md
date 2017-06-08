@@ -1,6 +1,6 @@
 ---
 title: Application.AfterRemoveHiddenInformation Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.AfterRemoveHiddenInformation
 ms.assetid: abd8501a-b528-0433-1633-6d26960dcdaa

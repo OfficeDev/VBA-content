@@ -3,7 +3,7 @@ title: GraphicItems.DataGraphic Property (Visio)
 keywords: vis_sdr.chm16860415
 f1_keywords:
 - vis_sdr.chm16860415
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItems.DataGraphic
 ms.assetid: ff6dba86-6aff-cfdd-b4ba-3441a635c24d

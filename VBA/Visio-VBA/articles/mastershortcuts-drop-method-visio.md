@@ -3,7 +3,7 @@ title: MasterShortcuts.Drop Method (Visio)
 keywords: vis_sdr.chm15916235
 f1_keywords:
 - vis_sdr.chm15916235
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Drop
 ms.assetid: f00bc4eb-36d0-0abd-d0ed-9c583b1388ed

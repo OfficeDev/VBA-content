@@ -1,6 +1,6 @@
 ---
 title: DrawingControl.MasterDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DrawingControl.MasterDeleteCanceled
 ms.assetid: f029d2c7-3b71-a0ce-6c5a-69835473d2b3

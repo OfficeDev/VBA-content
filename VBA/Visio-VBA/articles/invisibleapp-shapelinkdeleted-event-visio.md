@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.ShapeLinkDeleted Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeLinkDeleted
 ms.assetid: 01b968ce-ec8b-0dc3-f804-318b57fa0635

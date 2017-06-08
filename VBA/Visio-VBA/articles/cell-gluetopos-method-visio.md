@@ -3,7 +3,7 @@ title: Cell.GlueToPos Method (Visio)
 keywords: vis_sdr.chm10116340
 f1_keywords:
 - vis_sdr.chm10116340
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.GlueToPos
 ms.assetid: 9f9e10f2-030f-f7ad-be04-ea2804c20cb4

@@ -3,7 +3,7 @@ title: Characters.AddCustomFieldU Method (Visio)
 keywords: vis_sdr.chm10251925
 f1_keywords:
 - vis_sdr.chm10251925
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.AddCustomFieldU
 ms.assetid: f1a5bc23-981d-0be7-92f3-d2ba640751a2

@@ -3,7 +3,7 @@ title: Style.TextBasedOn Property (Visio)
 keywords: vis_sdr.chm11414525
 f1_keywords:
 - vis_sdr.chm11414525
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.TextBasedOn
 ms.assetid: f7fbcece-0287-f56f-9916-f9ae6ad39ca0

@@ -3,7 +3,7 @@ title: Document.BuildNumberEdited Property (Visio)
 keywords: vis_sdr.chm10550525
 f1_keywords:
 - vis_sdr.chm10550525
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.BuildNumberEdited
 ms.assetid: 91d39eb1-f416-6167-96af-53c5cf0ee35c

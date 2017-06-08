@@ -3,7 +3,7 @@ title: OLEObject.Stat Property (Visio)
 keywords: vis_sdr.chm15214420
 f1_keywords:
 - vis_sdr.chm15214420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.OLEObject.Stat
 ms.assetid: 85860766-5b12-2604-2e16-01396da99d65

@@ -3,7 +3,7 @@ title: Master.Shapes Property (Visio)
 keywords: vis_sdr.chm10714330
 f1_keywords:
 - vis_sdr.chm10714330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.Shapes
 ms.assetid: 56db5c02-9b55-dfe1-993b-c23e93e84577

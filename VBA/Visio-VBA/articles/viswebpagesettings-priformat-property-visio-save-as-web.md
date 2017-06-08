@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings.PriFormat Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.PriFormat
 ms.assetid: 84c7c085-0f12-f25d-bf17-646cc8b7cd97

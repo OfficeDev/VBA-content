@@ -3,7 +3,7 @@ title: Page.GetResults Method (Visio)
 keywords: vis_sdr.chm10916320
 f1_keywords:
 - vis_sdr.chm10916320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.GetResults
 ms.assetid: 5af0a38f-fdc9-e826-99b0-6090bb372bc1

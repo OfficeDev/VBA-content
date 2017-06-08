@@ -3,7 +3,7 @@ title: Document.PaperWidth Property (Visio)
 keywords: vis_sdr.chm10514025
 f1_keywords:
 - vis_sdr.chm10514025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.PaperWidth
 ms.assetid: e43d7d44-31ad-24e3-79e4-6005cbd65612

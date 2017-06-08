@@ -3,7 +3,7 @@ title: Shapes.Stat Property (Visio)
 keywords: vis_sdr.chm11314420
 f1_keywords:
 - vis_sdr.chm11314420
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.Stat
 ms.assetid: 788f22f0-249d-caf9-0e5c-cb95295d2152

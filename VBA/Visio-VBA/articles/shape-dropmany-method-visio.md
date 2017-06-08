@@ -3,7 +3,7 @@ title: Shape.DropMany Method (Visio)
 keywords: vis_sdr.chm11216240
 f1_keywords:
 - vis_sdr.chm11216240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.DropMany
 ms.assetid: def60b35-ce19-ec34-9654-355856e26b37

@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.DataRecordsetChanged Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DataRecordsetChanged
 ms.assetid: da80f525-ccf6-3d9b-789c-a4dd866ebf4c

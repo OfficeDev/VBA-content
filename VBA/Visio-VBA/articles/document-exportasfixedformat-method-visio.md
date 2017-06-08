@@ -3,7 +3,7 @@ title: Document.ExportAsFixedFormat Method (Visio)
 keywords: vis_sdr.chm10560095
 f1_keywords:
 - vis_sdr.chm10560095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ExportAsFixedFormat
 ms.assetid: 70b83f7e-b7f8-7b8f-d9d7-7f7b30f3b45d

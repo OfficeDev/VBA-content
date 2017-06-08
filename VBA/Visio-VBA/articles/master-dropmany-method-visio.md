@@ -3,7 +3,7 @@ title: Master.DropMany Method (Visio)
 keywords: vis_sdr.chm10716240
 f1_keywords:
 - vis_sdr.chm10716240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DropMany
 ms.assetid: fb0ef035-c1ce-5703-e2e8-0f9b63b186bf

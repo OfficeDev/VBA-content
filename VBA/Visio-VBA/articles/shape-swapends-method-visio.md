@@ -3,7 +3,7 @@ title: Shape.SwapEnds Method (Visio)
 keywords: vis_sdr.chm11250895
 f1_keywords:
 - vis_sdr.chm11250895
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SwapEnds
 ms.assetid: 54096674-eb4f-4f07-a1cf-701faf3b5fae

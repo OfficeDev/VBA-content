@@ -1,6 +1,6 @@
 ---
 title: Viewer.SetPageView Method (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.SetPageView
 ms.assetid: 669c8d29-9793-08a3-05ee-54aab77881bb

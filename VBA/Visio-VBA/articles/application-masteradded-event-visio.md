@@ -1,6 +1,6 @@
 ---
 title: Application.MasterAdded Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.MasterAdded
 ms.assetid: ef5ddfa4-3f33-e913-ea96-a1b063a1af2b

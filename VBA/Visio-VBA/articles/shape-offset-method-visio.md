@@ -3,7 +3,7 @@ title: Shape.Offset Method (Visio)
 keywords: vis_sdr.chm11251345
 f1_keywords:
 - vis_sdr.chm11251345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Offset
 ms.assetid: 0a82ed87-cc11-77d3-4337-2694f8431a79

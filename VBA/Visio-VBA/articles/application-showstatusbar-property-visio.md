@@ -3,7 +3,7 @@ title: Application.ShowStatusBar Property (Visio)
 keywords: vis_sdr.chm10014380
 f1_keywords:
 - vis_sdr.chm10014380
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.ShowStatusBar
 ms.assetid: a6eade7f-b056-92ef-0a57-acd466f6a99a

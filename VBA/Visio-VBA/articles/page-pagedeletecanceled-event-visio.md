@@ -3,7 +3,7 @@ title: Page.PageDeleteCanceled Event (Visio)
 keywords: vis_sdr.chm10919360
 f1_keywords:
 - vis_sdr.chm10919360
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.PageDeleteCanceled
 ms.assetid: 5fa17e8b-5c80-962b-482e-f9c46f543a65

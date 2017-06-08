@@ -3,7 +3,7 @@ title: Document.FooterLeft Property (Visio)
 keywords: vis_sdr.chm10550585
 f1_keywords:
 - vis_sdr.chm10550585
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.FooterLeft
 ms.assetid: e832c09d-3ddb-4351-43ad-e1c5633b7bc9

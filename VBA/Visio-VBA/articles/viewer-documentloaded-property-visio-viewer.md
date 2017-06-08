@@ -1,6 +1,6 @@
 ---
 title: Viewer.DocumentLoaded Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DocumentLoaded
 ms.assetid: 2d7c86fa-a154-dd8f-3a8c-6c433103d6a4

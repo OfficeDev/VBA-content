@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings Methods (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 95fb870f-bc90-4f5b-8b84-94b0b6ea6d21
 ms.date: 06/08/2017
 ---

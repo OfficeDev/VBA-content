@@ -3,7 +3,7 @@ title: Window.Close Method (Visio)
 keywords: vis_sdr.chm11616125
 f1_keywords:
 - vis_sdr.chm11616125
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.Close
 ms.assetid: 43cb221f-ea65-c12a-e664-0f0fb35685e0

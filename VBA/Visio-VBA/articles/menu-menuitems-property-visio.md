@@ -3,7 +3,7 @@ title: Menu.MenuItems Property (Visio)
 keywords: vis_sdr.chm13113905
 f1_keywords:
 - vis_sdr.chm13113905
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.MenuItems
 ms.assetid: 62c636b2-6b7a-622c-2b1b-c95dccff6af1

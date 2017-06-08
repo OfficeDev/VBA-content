@@ -3,7 +3,7 @@ title: Masters.FormulaChanged Event (Visio)
 keywords: vis_sdr.chm10819160
 f1_keywords:
 - vis_sdr.chm10819160
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.FormulaChanged
 ms.assetid: da0e566a-a89d-c77d-d966-73d87f5eb131

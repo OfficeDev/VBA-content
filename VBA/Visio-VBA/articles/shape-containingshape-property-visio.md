@@ -3,7 +3,7 @@ title: Shape.ContainingShape Property (Visio)
 keywords: vis_sdr.chm11213320
 f1_keywords:
 - vis_sdr.chm11213320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.ContainingShape
 ms.assetid: b09bc382-de6c-368e-53bd-c8b01fbc0ae1

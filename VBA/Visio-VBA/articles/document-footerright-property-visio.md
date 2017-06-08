@@ -3,7 +3,7 @@ title: Document.FooterRight Property (Visio)
 keywords: vis_sdr.chm10550595
 f1_keywords:
 - vis_sdr.chm10550595
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.FooterRight
 ms.assetid: 17db938c-6b1b-6cd1-7f4e-65aca275f30b

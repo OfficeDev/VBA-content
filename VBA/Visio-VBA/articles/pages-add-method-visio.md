@@ -3,7 +3,7 @@ title: Pages.Add Method (Visio)
 keywords: vis_sdr.chm11016005
 f1_keywords:
 - vis_sdr.chm11016005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.Add
 ms.assetid: b2e09b89-4232-fffe-28b2-ceb468dd2837

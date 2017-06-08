@@ -3,7 +3,7 @@ title: Master.CreateShortcut Method (Visio)
 keywords: vis_sdr.chm10716150
 f1_keywords:
 - vis_sdr.chm10716150
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.CreateShortcut
 ms.assetid: e808ba09-b85a-52bb-55e2-ced37f426a3b

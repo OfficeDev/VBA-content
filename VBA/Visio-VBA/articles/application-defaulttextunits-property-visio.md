@@ -3,7 +3,7 @@ title: Application.DefaultTextUnits Property (Visio)
 keywords: vis_sdr.chm10051035
 f1_keywords:
 - vis_sdr.chm10051035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.DefaultTextUnits
 ms.assetid: 54d2ce66-a8e9-b45e-0ec1-f0e7e39e8c5a

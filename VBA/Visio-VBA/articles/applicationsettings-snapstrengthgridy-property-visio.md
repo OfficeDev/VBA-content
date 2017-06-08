@@ -3,7 +3,7 @@ title: ApplicationSettings.SnapStrengthGridY Property (Visio)
 keywords: vis_sdr.chm16251570
 f1_keywords:
 - vis_sdr.chm16251570
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthGridY
 ms.assetid: 0fc60e09-0315-d981-7375-9c5fd71ec6bd

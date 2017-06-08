@@ -3,7 +3,7 @@ title: InvisibleApp.SetPreviewEnabled Method (Visio)
 keywords: vis_sdr.chm17562105
 f1_keywords:
 - vis_sdr.chm17562105
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SetPreviewEnabled
 ms.assetid: c84a2f51-0019-8f3b-26b6-ecd593a4cbe5

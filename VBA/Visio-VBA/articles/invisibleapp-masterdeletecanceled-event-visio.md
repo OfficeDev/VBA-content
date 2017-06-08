@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.MasterDeleteCanceled Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterDeleteCanceled
 ms.assetid: a62cc5d8-c229-3c73-29f8-a41fb96dd5ea

@@ -3,7 +3,7 @@ title: InvisibleApp.DefaultAngleUnits Property (Visio)
 keywords: vis_sdr.chm17551050
 f1_keywords:
 - vis_sdr.chm17551050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DefaultAngleUnits
 ms.assetid: 5c7f775c-9e2b-10e0-cbc0-2ac0b922ed1a

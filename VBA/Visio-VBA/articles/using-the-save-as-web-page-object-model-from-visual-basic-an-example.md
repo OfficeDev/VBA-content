@@ -1,6 +1,6 @@
 ---
 title: "Using the Save as Web Page Object Model from Visual Basic: An Example"
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: c5833ff8-45f3-ab67-3b16-09c60238965a
 ms.date: 06/08/2017
 ---

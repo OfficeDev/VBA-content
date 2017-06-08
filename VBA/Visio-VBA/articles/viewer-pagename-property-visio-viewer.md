@@ -1,6 +1,6 @@
 ---
 title: Viewer.PageName Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.PageName
 ms.assetid: 7a23a8da-7763-91fc-777d-fca61e268fe8

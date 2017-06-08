@@ -3,7 +3,7 @@ title: Characters.FieldFormat Property (Visio)
 keywords: vis_sdr.chm10213510
 f1_keywords:
 - vis_sdr.chm10213510
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Characters.FieldFormat
 ms.assetid: 298ee3a7-a81e-c10d-e978-ce28ca9408be

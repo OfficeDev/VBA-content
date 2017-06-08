@@ -3,7 +3,7 @@ title: Layer.Index Property (Visio)
 keywords: vis_sdr.chm11813695
 f1_keywords:
 - vis_sdr.chm11813695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Layer.Index
 ms.assetid: 0a5d5637-7b93-f534-de65-c7fe230a6923

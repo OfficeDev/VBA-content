@@ -3,7 +3,7 @@ title: Row.Application Property (Visio)
 keywords: vis_sdr.chm15813090
 f1_keywords:
 - vis_sdr.chm15813090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.Application
 ms.assetid: 4e828a82-45a8-48a1-2230-edebbf991c81

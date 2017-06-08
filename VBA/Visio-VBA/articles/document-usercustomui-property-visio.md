@@ -3,7 +3,7 @@ title: Document.UserCustomUI Property (Visio)
 keywords: vis_sdr.chm10562695
 f1_keywords:
 - vis_sdr.chm10562695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.UserCustomUI
 ms.assetid: cdd28d78-a75a-b8c4-71e9-74c24ee9ecf1

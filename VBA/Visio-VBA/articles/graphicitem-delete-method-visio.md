@@ -3,7 +3,7 @@ title: GraphicItem.Delete Method (Visio)
 keywords: vis_sdr.chm16951425
 f1_keywords:
 - vis_sdr.chm16951425
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.GraphicItem.Delete
 ms.assetid: cd395089-594a-a021-0455-5bd7de9c3468

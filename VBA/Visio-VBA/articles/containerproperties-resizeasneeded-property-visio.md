@@ -3,7 +3,7 @@ title: ContainerProperties.ResizeAsNeeded Property (Visio)
 keywords: vis_sdr.chm17662610
 f1_keywords:
 - vis_sdr.chm17662610
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ResizeAsNeeded
 ms.assetid: 13bd0493-95fd-73bf-454c-a39c69589bcd

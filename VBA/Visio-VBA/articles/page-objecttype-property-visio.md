@@ -3,7 +3,7 @@ title: Page.ObjectType Property (Visio)
 keywords: vis_sdr.chm10913960
 f1_keywords:
 - vis_sdr.chm10913960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.ObjectType
 ms.assetid: 54da9c26-fffe-7121-81e7-3a883d103edd

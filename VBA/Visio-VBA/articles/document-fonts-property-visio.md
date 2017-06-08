@@ -3,7 +3,7 @@ title: Document.Fonts Property (Visio)
 keywords: vis_sdr.chm10513550
 f1_keywords:
 - vis_sdr.chm10513550
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Fonts
 ms.assetid: 061ecb2f-b36f-3bf2-0da8-b95f7cc52031

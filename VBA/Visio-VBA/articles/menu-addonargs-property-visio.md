@@ -3,7 +3,7 @@ title: Menu.AddOnArgs Property (Visio)
 keywords: vis_sdr.chm13113045
 f1_keywords:
 - vis_sdr.chm13113045
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.AddOnArgs
 ms.assetid: dcf410a5-24e0-8ccc-acfe-9bec39603a15

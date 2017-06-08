@@ -3,7 +3,7 @@ title: MouseEvent.Button Property (Visio)
 keywords: vis_sdr.chm17151905
 f1_keywords:
 - vis_sdr.chm17151905
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MouseEvent.Button
 ms.assetid: e89c51a3-52f5-348c-e3de-2b2459701bfb

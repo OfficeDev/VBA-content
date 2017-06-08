@@ -3,7 +3,7 @@ title: Selection.Item Property (Visio)
 keywords: vis_sdr.chm11113765
 f1_keywords:
 - vis_sdr.chm11113765
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Item
 ms.assetid: 3f09566d-eec6-0c20-87bc-60db45d3e23f

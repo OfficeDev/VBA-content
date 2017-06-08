@@ -3,7 +3,7 @@ title: Master.DrawSpline Method (Visio)
 keywords: vis_sdr.chm10716230
 f1_keywords:
 - vis_sdr.chm10716230
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DrawSpline
 ms.assetid: a255978d-5479-ba7e-4520-0a8d18390ea6

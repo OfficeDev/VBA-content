@@ -3,7 +3,7 @@ title: ApplicationSettings.RasterExportOperation Property (Visio)
 keywords: vis_sdr.chm16262540
 f1_keywords:
 - vis_sdr.chm16262540
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.RasterExportOperation
 ms.assetid: 7f53b4a6-6497-01ca-2219-575065d4c9f4

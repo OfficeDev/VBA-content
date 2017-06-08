@@ -1,6 +1,6 @@
 ---
 title: Viewer.MarkupOverlaysVisible Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MarkupOverlaysVisible
 ms.assetid: 5e9f83b1-9c92-73b0-fa45-adf6b3ab612a

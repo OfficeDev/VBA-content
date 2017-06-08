@@ -3,7 +3,7 @@ title: Pages.ShapeLinkAdded Event (Visio)
 keywords: vis_sdr.chm11062015
 f1_keywords:
 - vis_sdr.chm11062015
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Pages.ShapeLinkAdded
 ms.assetid: 432a8daa-9545-0df7-3e78-65464e74c7df

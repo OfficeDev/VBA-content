@@ -3,7 +3,7 @@ title: IVBUndoUnit.Description Property (Visio)
 keywords: vis_sdr.chm17313405
 f1_keywords:
 - vis_sdr.chm17313405
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.IVBUndoUnit.Description
 ms.assetid: 1851bed3-e98a-c25b-5768-47f766082b71

@@ -3,7 +3,7 @@ title: Row.Count Property (Visio)
 keywords: vis_sdr.chm15813330
 f1_keywords:
 - vis_sdr.chm15813330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Row.Count
 ms.assetid: 0fb1c315-3e65-3397-c047-2a59dfaa4e31

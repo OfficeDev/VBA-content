@@ -3,7 +3,7 @@ title: DataRecordset.Application Property (Visio)
 keywords: vis_sdr.chm16413090
 f1_keywords:
 - vis_sdr.chm16413090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.Application
 ms.assetid: c602b9de-09b0-ca9b-a59b-4572be032a54

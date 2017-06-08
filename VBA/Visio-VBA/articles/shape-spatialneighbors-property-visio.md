@@ -3,7 +3,7 @@ title: Shape.SpatialNeighbors Property (Visio)
 keywords: vis_sdr.chm11214395
 f1_keywords:
 - vis_sdr.chm11214395
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.SpatialNeighbors
 ms.assetid: 98069519-d788-c34f-ac25-64bda73324d5

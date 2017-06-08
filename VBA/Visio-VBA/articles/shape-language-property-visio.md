@@ -3,7 +3,7 @@ title: Shape.Language Property (Visio)
 keywords: vis_sdr.chm11251705
 f1_keywords:
 - vis_sdr.chm11251705
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.Language
 ms.assetid: 6c7ab4ca-8813-9cbc-d433-a3991a0b450f

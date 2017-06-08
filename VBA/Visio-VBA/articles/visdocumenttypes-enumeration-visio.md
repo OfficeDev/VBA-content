@@ -3,7 +3,7 @@ title: VisDocumentTypes Enumeration (Visio)
 keywords: vis_sdr.chm70365
 f1_keywords:
 - vis_sdr.chm70365
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: 3872e4bd-cf79-66b3-b0bb-3ae0721a5435
 ms.date: 06/08/2017
 ---

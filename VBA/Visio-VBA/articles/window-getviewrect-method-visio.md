@@ -3,7 +3,7 @@ title: Window.GetViewRect Method (Visio)
 keywords: vis_sdr.chm11616325
 f1_keywords:
 - vis_sdr.chm11616325
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Window.GetViewRect
 ms.assetid: 3281d1af-6745-1b74-5071-e388fa1dc32c

@@ -3,7 +3,7 @@ title: MenuItem.Width Property (Visio)
 keywords: vis_sdr.chm12914655
 f1_keywords:
 - vis_sdr.chm12914655
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.Width
 ms.assetid: ea490604-7cf4-e042-bd8d-4f7c95687a4b

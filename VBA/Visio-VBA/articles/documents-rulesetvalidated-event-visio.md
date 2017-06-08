@@ -3,7 +3,7 @@ title: Documents.RuleSetValidated Event (Visio)
 keywords: vis_sdr.chm10662085
 f1_keywords:
 - vis_sdr.chm10662085
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.RuleSetValidated
 ms.assetid: 5c949500-bec2-3300-81d7-acd646f88fae

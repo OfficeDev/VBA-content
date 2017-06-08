@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.KeyPress Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyPress
 ms.assetid: d6beecb3-a178-3220-94fe-ae6e68b31980

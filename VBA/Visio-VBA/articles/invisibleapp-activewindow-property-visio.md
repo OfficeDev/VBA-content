@@ -3,7 +3,7 @@ title: InvisibleApp.ActiveWindow Property (Visio)
 keywords: vis_sdr.chm17513035
 f1_keywords:
 - vis_sdr.chm17513035
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ActiveWindow
 ms.assetid: 593c4a69-fd2b-d355-defa-57e0d2b470a4

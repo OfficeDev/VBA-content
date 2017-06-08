@@ -3,7 +3,7 @@ title: Cell.RowNameU Property (Visio)
 keywords: vis_sdr.chm10151990
 f1_keywords:
 - vis_sdr.chm10151990
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Cell.RowNameU
 ms.assetid: 3c73ed3d-851f-faf4-fab0-76d6602da82b

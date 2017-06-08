@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeShapeDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeShapeDelete
 ms.assetid: b33b646c-be39-8f34-d62e-2fcc0283c675

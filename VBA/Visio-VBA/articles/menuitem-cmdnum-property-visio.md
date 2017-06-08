@@ -3,7 +3,7 @@ title: MenuItem.CmdNum Property (Visio)
 keywords: vis_sdr.chm12913255
 f1_keywords:
 - vis_sdr.chm12913255
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.CmdNum
 ms.assetid: 7902ad54-62e3-f8da-ea34-7af43f2f13ef

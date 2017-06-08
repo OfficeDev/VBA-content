@@ -3,7 +3,7 @@ title: MenuSets Object (Visio)
 keywords: vis_sdr.chm10175
 f1_keywords:
 - vis_sdr.chm10175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSets
 ms.assetid: 6a49d679-abdb-2bd4-134b-c61ea3f196e8

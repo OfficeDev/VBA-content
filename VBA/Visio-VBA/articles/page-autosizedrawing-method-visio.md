@@ -3,7 +3,7 @@ title: Page.AutoSizeDrawing Method (Visio)
 keywords: vis_sdr.chm10962185
 f1_keywords:
 - vis_sdr.chm10962185
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.AutoSizeDrawing
 ms.assetid: 00ae0d14-3268-f6d5-2adb-4653958b6eee

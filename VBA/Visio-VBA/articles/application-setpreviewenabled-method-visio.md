@@ -3,7 +3,7 @@ title: Application.SetPreviewEnabled Method (Visio)
 keywords: vis_sdr.chm10062105
 f1_keywords:
 - vis_sdr.chm10062105
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.SetPreviewEnabled
 ms.assetid: fa66a148-2eca-85b8-b780-ff077b14d0f2

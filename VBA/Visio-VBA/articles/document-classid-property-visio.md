@@ -3,7 +3,7 @@ title: Document.ClassID Property (Visio)
 keywords: vis_sdr.chm10513240
 f1_keywords:
 - vis_sdr.chm10513240
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ClassID
 ms.assetid: 668fec9a-eadf-a496-5db3-b91e30237c11

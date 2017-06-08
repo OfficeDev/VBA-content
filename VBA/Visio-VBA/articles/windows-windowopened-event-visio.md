@@ -3,7 +3,7 @@ title: Windows.WindowOpened Event (Visio)
 keywords: vis_sdr.chm11719280
 f1_keywords:
 - vis_sdr.chm11719280
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.WindowOpened
 ms.assetid: 358b594b-0ca8-9d48-13a8-ae4dc527fdd6

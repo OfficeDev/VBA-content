@@ -3,7 +3,7 @@ title: Menus.Count Property (Visio)
 keywords: vis_sdr.chm13213330
 f1_keywords:
 - vis_sdr.chm13213330
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menus.Count
 ms.assetid: e32d4bfc-a8b9-d646-f4d8-5565b60f180c

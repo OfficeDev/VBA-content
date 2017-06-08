@@ -3,7 +3,7 @@ title: Font Object (Visio)
 keywords: vis_sdr.chm10100
 f1_keywords:
 - vis_sdr.chm10100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Font
 ms.assetid: a5f0a832-ed17-6e85-f534-c0a0a2b1e9ee

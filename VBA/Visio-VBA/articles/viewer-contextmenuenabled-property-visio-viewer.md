@@ -1,6 +1,6 @@
 ---
 title: Viewer.ContextMenuEnabled Property (Visio Viewer)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ContextMenuEnabled
 ms.assetid: 0617d59d-59ed-4012-7dc5-d0aa8be8d110

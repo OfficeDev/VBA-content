@@ -3,7 +3,7 @@ title: Master.DataGraphicHidden Property (Visio)
 keywords: vis_sdr.chm10760100
 f1_keywords:
 - vis_sdr.chm10760100
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.DataGraphicHidden
 ms.assetid: adcf1867-8541-785b-d8ad-dd44583473b9

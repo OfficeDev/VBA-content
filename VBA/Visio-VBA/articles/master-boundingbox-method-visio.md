@@ -3,7 +3,7 @@ title: Master.BoundingBox Method (Visio)
 keywords: vis_sdr.chm10716090
 f1_keywords:
 - vis_sdr.chm10716090
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Master.BoundingBox
 ms.assetid: 23ef5e08-fcb4-93e6-2ed5-818d34f99a8e

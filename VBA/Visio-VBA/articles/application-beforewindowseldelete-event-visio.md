@@ -1,6 +1,6 @@
 ---
 title: Application.BeforeWindowSelDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowSelDelete
 ms.assetid: 36ff6935-23a8-b155-e5d1-58ae90b10cb6

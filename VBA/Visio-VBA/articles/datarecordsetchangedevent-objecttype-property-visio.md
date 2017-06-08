@@ -3,7 +3,7 @@ title: DataRecordsetChangedEvent.ObjectType Property (Visio)
 keywords: vis_sdr.chm17213960
 f1_keywords:
 - vis_sdr.chm17213960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent.ObjectType
 ms.assetid: e30c13c2-241b-c875-1376-b8a5f0204c51

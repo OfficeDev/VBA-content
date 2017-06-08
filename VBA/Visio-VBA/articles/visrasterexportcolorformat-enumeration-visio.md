@@ -3,7 +3,7 @@ title: VisRasterExportColorFormat Enumeration (Visio)
 keywords: vis_sdr.chm70730
 f1_keywords:
 - vis_sdr.chm70730
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisRasterExportColorFormat
 ms.assetid: 0936350c-2dc0-313e-33e0-927f03dc690d

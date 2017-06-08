@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.WindowOpened Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowOpened
 ms.assetid: 90fef7c3-17a1-5e96-112a-de01d4e24fc4

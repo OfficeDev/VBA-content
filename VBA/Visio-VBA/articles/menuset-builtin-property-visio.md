@@ -3,7 +3,7 @@ title: MenuSet.BuiltIn Property (Visio)
 keywords: vis_sdr.chm13313155
 f1_keywords:
 - vis_sdr.chm13313155
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuSet.BuiltIn
 ms.assetid: da747b76-5b15-bc0b-c115-742278fb495f

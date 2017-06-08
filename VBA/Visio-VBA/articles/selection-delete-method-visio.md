@@ -3,7 +3,7 @@ title: Selection.Delete Method (Visio)
 keywords: vis_sdr.chm11116165
 f1_keywords:
 - vis_sdr.chm11116165
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Selection.Delete
 ms.assetid: be259027-9cc4-95a4-2aa9-349b1967b9be

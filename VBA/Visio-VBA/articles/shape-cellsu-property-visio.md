@@ -3,7 +3,7 @@ title: Shape.CellsU Property (Visio)
 keywords: vis_sdr.chm11251955
 f1_keywords:
 - vis_sdr.chm11251955
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.CellsU
 ms.assetid: bee20521-6515-8a3b-e861-104f7cc71c26

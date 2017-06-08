@@ -3,7 +3,7 @@ title: Color.PaletteEntry Property (Visio)
 keywords: vis_sdr.chm12214005
 f1_keywords:
 - vis_sdr.chm12214005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Color.PaletteEntry
 ms.assetid: 4a761fc2-6696-dc44-6d23-ff630a76bdd4

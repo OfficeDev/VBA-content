@@ -3,7 +3,7 @@ title: MasterShortcuts.Paste Method (Visio)
 keywords: vis_sdr.chm15916430
 f1_keywords:
 - vis_sdr.chm15916430
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Paste
 ms.assetid: 6ec6f938-35a1-3fc5-8ff8-5fd39bc8ad79

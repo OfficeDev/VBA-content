@@ -3,7 +3,7 @@ title: Document.GetThemeNamesU Method (Visio)
 keywords: vis_sdr.chm10560080
 f1_keywords:
 - vis_sdr.chm10560080
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.GetThemeNamesU
 ms.assetid: 7a7280ae-10c9-9bc7-c121-29791e4df557

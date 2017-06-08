@@ -3,7 +3,7 @@ title: Shape.AreaIU Property (Visio)
 keywords: vis_sdr.chm11213095
 f1_keywords:
 - vis_sdr.chm11213095
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.AreaIU
 ms.assetid: a9982cd2-9a91-f5e5-7297-360b6d9a1f29

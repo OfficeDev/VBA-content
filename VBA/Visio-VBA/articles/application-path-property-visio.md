@@ -3,7 +3,7 @@ title: Application.Path Property (Visio)
 keywords: vis_sdr.chm10014050
 f1_keywords:
 - vis_sdr.chm10014050
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Application.Path
 ms.assetid: ac19f086-3a14-64b0-6ecf-94ba7ac54cf5

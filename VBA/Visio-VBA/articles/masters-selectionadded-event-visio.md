@@ -3,7 +3,7 @@ title: Masters.SelectionAdded Event (Visio)
 keywords: vis_sdr.chm10819215
 f1_keywords:
 - vis_sdr.chm10819215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Masters.SelectionAdded
 ms.assetid: 51a863e6-16ff-f7f1-922f-605631486176

@@ -1,6 +1,6 @@
 ---
 title: Documents.AfterReplaceShapes Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 ms.assetid: e01c069e-440b-7b8b-8d7d-cdb664f6e2d6
 ms.date: 06/08/2017
 ---

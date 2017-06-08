@@ -3,7 +3,7 @@ title: ValidationIssue.Ignored Property (Visio)
 keywords: vis_sdr.chm18662650
 f1_keywords:
 - vis_sdr.chm18662650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ValidationIssue.Ignored
 ms.assetid: ef58bcba-4e30-50d9-1fbd-c6dc2b4776bf

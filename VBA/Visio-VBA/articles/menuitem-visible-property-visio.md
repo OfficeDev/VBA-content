@@ -3,7 +3,7 @@ title: MenuItem.Visible Property (Visio)
 keywords: vis_sdr.chm12914650
 f1_keywords:
 - vis_sdr.chm12914650
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MenuItem.Visible
 ms.assetid: 8c8296f5-ccd4-258c-fb6a-1d2e0cd6d5fc

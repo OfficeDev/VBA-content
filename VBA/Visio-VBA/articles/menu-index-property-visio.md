@@ -3,7 +3,7 @@ title: Menu.Index Property (Visio)
 keywords: vis_sdr.chm13113695
 f1_keywords:
 - vis_sdr.chm13113695
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Menu.Index
 ms.assetid: 53982ac5-b652-3f46-f949-038e8f86e5cc

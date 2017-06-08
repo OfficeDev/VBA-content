@@ -3,7 +3,7 @@ title: Shapes.ObjectType Property (Visio)
 keywords: vis_sdr.chm11313960
 f1_keywords:
 - vis_sdr.chm11313960
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shapes.ObjectType
 ms.assetid: a736ec18-5f78-7b96-3208-b40775d37c28

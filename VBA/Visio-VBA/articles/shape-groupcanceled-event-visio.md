@@ -3,7 +3,7 @@ title: Shape.GroupCanceled Event (Visio)
 keywords: vis_sdr.chm11262005
 f1_keywords:
 - vis_sdr.chm11262005
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GroupCanceled
 ms.assetid: 89ce290b-a164-4581-b83d-64d205765aeb

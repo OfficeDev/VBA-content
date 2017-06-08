@@ -3,7 +3,7 @@ title: Windows.WindowCloseCanceled Event (Visio)
 keywords: vis_sdr.chm11719345
 f1_keywords:
 - vis_sdr.chm11719345
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Windows.WindowCloseCanceled
 ms.assetid: 3eb06853-1e76-305e-db03-e90c90185eb8

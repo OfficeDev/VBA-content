@@ -1,6 +1,6 @@
 ---
 title: InvisibleApp.QueryCancelMasterDelete Event (Visio)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueryCancelMasterDelete
 ms.assetid: e964f3dd-c467-572f-d270-723a0d043d8a

@@ -3,7 +3,7 @@ title: ToolbarItem.FaceID Property (Visio)
 keywords: vis_sdr.chm13513495
 f1_keywords:
 - vis_sdr.chm13513495
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.ToolbarItem.FaceID
 ms.assetid: 226b00fd-c8ab-3a6a-811f-ebf8e1364526

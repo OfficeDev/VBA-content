@@ -3,7 +3,7 @@ title: MovedSelectionEvent.ReplacementShape Property (Visio)
 keywords: vis_sdr.chm17814320
 f1_keywords:
 - vis_sdr.chm17814320
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent.ReplacementShape
 ms.assetid: 1264b9c3-72bb-1f2f-3e7c-df394468143c

@@ -1,6 +1,6 @@
 ---
 title: VisWebPageSettings.SecFormat Property (Visio Save As Web)
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.SecFormat
 ms.assetid: 2c6fa96d-8a71-28fb-c8d7-f7ba6772fe43

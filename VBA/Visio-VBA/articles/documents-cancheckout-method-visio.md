@@ -3,7 +3,7 @@ title: Documents.CanCheckOut Method (Visio)
 keywords: vis_sdr.chm10652025
 f1_keywords:
 - vis_sdr.chm10652025
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Documents.CanCheckOut
 ms.assetid: b16fec91-fe8d-3967-7bb2-67ddde44681c

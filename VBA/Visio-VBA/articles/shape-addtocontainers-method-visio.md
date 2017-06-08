@@ -3,7 +3,7 @@ title: Shape.AddToContainers Method (Visio)
 keywords: vis_sdr.chm11262215
 f1_keywords:
 - vis_sdr.chm11262215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.AddToContainers
 ms.assetid: ddd3f532-cbbf-3c63-0e02-49f4ea8ca90c

@@ -3,7 +3,7 @@ title: Document.UndoEnabled Property (Visio)
 keywords: vis_sdr.chm10514610
 f1_keywords:
 - vis_sdr.chm10514610
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.UndoEnabled
 ms.assetid: c7164cb6-7ce4-b65d-7f5b-1f3987a3fe21

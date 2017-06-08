@@ -3,7 +3,7 @@ title: Shape.GetFormulas Method (Visio)
 keywords: vis_sdr.chm11216310
 f1_keywords:
 - vis_sdr.chm11216310
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Shape.GetFormulas
 ms.assetid: 51ff9731-802c-2001-c5e6-6f7aeb9d6839

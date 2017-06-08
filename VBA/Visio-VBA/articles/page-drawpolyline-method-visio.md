@@ -3,7 +3,7 @@ title: Page.DrawPolyline Method (Visio)
 keywords: vis_sdr.chm10916215
 f1_keywords:
 - vis_sdr.chm10916215
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Page.DrawPolyline
 ms.assetid: 406ac09e-c25f-5de6-1c0b-e2a456ed5ec0

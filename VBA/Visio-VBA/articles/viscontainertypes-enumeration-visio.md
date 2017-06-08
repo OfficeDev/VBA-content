@@ -3,7 +3,7 @@ title: VisContainerTypes Enumeration (Visio)
 keywords: vis_sdr.chm70595
 f1_keywords:
 - vis_sdr.chm70595
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.VisContainerTypes
 ms.assetid: 9d136ac4-f4f3-18e1-5311-ce2662cc80f0

@@ -3,7 +3,7 @@ title: Document.ShapeAdded Event (Visio)
 keywords: vis_sdr.chm10519225
 f1_keywords:
 - vis_sdr.chm10519225
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.ShapeAdded
 ms.assetid: d80b6ee3-8b5f-9c34-e8db-8443146b4728

@@ -3,7 +3,7 @@ title: Document.Category Property (Visio)
 keywords: vis_sdr.chm10513175
 f1_keywords:
 - vis_sdr.chm10513175
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Document.Category
 ms.assetid: da312b56-6232-9077-e47b-47144aa603c5

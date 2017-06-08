@@ -3,7 +3,7 @@ title: Style.CellsSRC Property (Visio)
 keywords: vis_sdr.chm11413205
 f1_keywords:
 - vis_sdr.chm11413205
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.Style.CellsSRC
 ms.assetid: dedf7945-6ed2-80d7-9433-46d83b0c5dda

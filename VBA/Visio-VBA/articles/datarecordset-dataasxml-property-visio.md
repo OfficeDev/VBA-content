@@ -3,7 +3,7 @@ title: DataRecordset.DataAsXML Property (Visio)
 keywords: vis_sdr.chm16460305
 f1_keywords:
 - vis_sdr.chm16460305
-ms.prod: VISIO
+ms.prod: visio
 api_name:
 - Visio.DataRecordset.DataAsXML
 ms.assetid: 500dda1a-0747-57d0-f847-e3e1f72e96a3
