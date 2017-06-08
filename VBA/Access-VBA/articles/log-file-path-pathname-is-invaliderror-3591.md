@@ -1,6 +1,6 @@
 ---
 title: Log file path <pathname> is invalid. (Error 3591)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cd92b9ca-924e-e47f-78fd-37e3c880f6f1
 ms.date: 06/08/2017
 ---

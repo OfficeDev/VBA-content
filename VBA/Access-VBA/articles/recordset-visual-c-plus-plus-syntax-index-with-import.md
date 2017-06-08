@@ -1,6 +1,6 @@
 ---
 title: Recordset (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 807e0ce2-2f28-cb4f-41ae-fa4834504a01
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Control.Undo Method (Access)
 keywords: vbaac10.chm10134
 f1_keywords:
 - vbaac10.chm10134
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Undo
 ms.assetid: d2c2d6ee-7086-db63-c471-03530cf7f2ab

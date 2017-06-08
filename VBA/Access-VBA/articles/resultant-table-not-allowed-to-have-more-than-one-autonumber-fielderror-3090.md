@@ -3,7 +3,7 @@ title: Resultant table not allowed to have more than one AutoNumber field. (Erro
 keywords: jeterr40.chm5003090
 f1_keywords:
 - jeterr40.chm5003090
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0c8ae6f6-8385-4f98-5f08-64f56051abe9
 ms.date: 06/08/2017
 ---

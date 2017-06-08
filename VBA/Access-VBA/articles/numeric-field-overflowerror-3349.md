@@ -1,6 +1,6 @@
 ---
 title: Numeric field overflow. (Error 3349)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9435e290-96b4-47a1-f9db-a2880d851a80
 ms.date: 06/08/2017
 ---

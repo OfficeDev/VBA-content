@@ -3,7 +3,7 @@ title: Label.ControlTipText Property (Access)
 keywords: vbaac10.chm10218
 f1_keywords:
 - vbaac10.chm10218
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.ControlTipText
 ms.assetid: 40f37cf5-8e3a-7b3a-8692-57fe8abc6004

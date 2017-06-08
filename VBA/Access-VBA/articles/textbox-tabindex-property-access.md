@@ -3,7 +3,7 @@ title: TextBox.TabIndex Property (Access)
 keywords: vbaac10.chm11065
 f1_keywords:
 - vbaac10.chm11065
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.TabIndex
 ms.assetid: d52e0839-e0aa-1b67-b075-115ad7b2f774

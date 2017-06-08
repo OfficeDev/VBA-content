@@ -3,7 +3,7 @@ title: TextBox.OldValue Property (Access)
 keywords: vbaac10.chm11031
 f1_keywords:
 - vbaac10.chm11031
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OldValue
 ms.assetid: d62150d2-6dc6-85c0-0452-e9e5fee199b4

@@ -3,7 +3,7 @@ title: NavigationControl.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm11162
 f1_keywords:
 - vbaac10.chm11162
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.GridlineWidthRight
 ms.assetid: 1649cfc6-d968-8e51-de44-1ece83c7a5ca

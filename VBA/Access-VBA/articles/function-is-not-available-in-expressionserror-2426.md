@@ -1,6 +1,6 @@
 ---
 title: Function is not available in expressions. (Error 2426)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0779017b-1039-f358-9ed7-3cbc180320c4
 ms.date: 06/08/2017
 ---

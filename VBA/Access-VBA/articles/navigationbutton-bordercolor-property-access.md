@@ -3,7 +3,7 @@ title: NavigationButton.BorderColor Property (Access)
 keywords: vbaac10.chm11080
 f1_keywords:
 - vbaac10.chm11080
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BorderColor
 ms.assetid: 0bc0ef75-e7a3-5918-1877-3a4f48de511a

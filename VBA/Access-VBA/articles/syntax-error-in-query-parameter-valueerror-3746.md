@@ -3,7 +3,7 @@ title: Syntax error in query. Parameter value. (Error 3746)
 keywords: jeterr40.chm5003746
 f1_keywords:
 - jeterr40.chm5003746
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 487817aa-df60-78ba-3c76-08154b200b49
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CommandButton.HoverShade Property (Access)
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.HoverShade
 ms.assetid: 9a8b86d0-3849-9902-4dbf-c911c7fbe8e2

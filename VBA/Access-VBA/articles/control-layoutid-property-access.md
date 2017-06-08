@@ -3,7 +3,7 @@ title: Control.LayoutID Property (Access)
 keywords: vbaac10.chm10171
 f1_keywords:
 - vbaac10.chm10171
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.LayoutID
 ms.assetid: 1cf53242-e9e8-dc87-907a-788036844f4c

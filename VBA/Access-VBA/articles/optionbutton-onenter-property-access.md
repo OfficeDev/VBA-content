@@ -3,7 +3,7 @@ title: OptionButton.OnEnter Property (Access)
 keywords: vbaac10.chm10610
 f1_keywords:
 - vbaac10.chm10610
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnEnter
 ms.assetid: e454abc8-f344-f67a-f67a-ae1a8003155e

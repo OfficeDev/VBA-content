@@ -3,7 +3,7 @@ title: NavigationControl.BorderStyle Property (Access)
 keywords: vbaac10.chm11078
 f1_keywords:
 - vbaac10.chm11078
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BorderStyle
 ms.assetid: 9135151b-2e00-ac34-9c82-a85c76b97eb5

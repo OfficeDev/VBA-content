@@ -3,7 +3,7 @@ title: CheckBox.ColumnWidth Property (Access)
 keywords: vbaac10.chm10722
 f1_keywords:
 - vbaac10.chm10722
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.ColumnWidth
 ms.assetid: 8a545cee-33fd-8105-d3c2-665ec269c18e

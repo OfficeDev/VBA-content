@@ -3,7 +3,7 @@ title: ComboBox.OnNotInList Property (Access)
 keywords: vbaac10.chm11450,vbaac10.chm4100
 f1_keywords:
 - vbaac10.chm11450,vbaac10.chm4100
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnNotInList
 ms.assetid: 307e9f0c-6db7-b995-166b-060c697b9f6e

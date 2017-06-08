@@ -3,7 +3,7 @@ title: Control.Name Property (Access)
 keywords: vbaac10.chm10173
 f1_keywords:
 - vbaac10.chm10173
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Name
 ms.assetid: b1e31997-1b99-0476-eda8-afef8975420b

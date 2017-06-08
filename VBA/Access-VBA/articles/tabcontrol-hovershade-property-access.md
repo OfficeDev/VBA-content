@@ -3,7 +3,7 @@ title: TabControl.HoverShade Property (Access)
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HoverShade
 ms.assetid: 7d0513ec-1e82-cc72-835c-d1c220a31965

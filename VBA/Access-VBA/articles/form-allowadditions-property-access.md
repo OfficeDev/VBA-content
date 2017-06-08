@@ -3,7 +3,7 @@ title: Form.AllowAdditions Property (Access)
 keywords: vbaac10.chm13358
 f1_keywords:
 - vbaac10.chm13358
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowAdditions
 ms.assetid: 8e440a96-7f9e-c009-5055-377c75999267

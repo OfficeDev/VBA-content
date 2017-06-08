@@ -3,7 +3,7 @@ title: Form.PicturePalette Property (Access)
 keywords: vbaac10.chm13477
 f1_keywords:
 - vbaac10.chm13477
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PicturePalette
 ms.assetid: 4b7f2c69-37c7-f05a-783d-0b57242253b2

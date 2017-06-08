@@ -3,7 +3,7 @@ title: GUID not allowed in Find method criteria expression. (Error 3614)
 keywords: jeterr40.chm5003614
 f1_keywords:
 - jeterr40.chm5003614
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f3449b70-0bcc-416d-3a49-15b7b136cdb7
 ms.date: 06/08/2017
 ---

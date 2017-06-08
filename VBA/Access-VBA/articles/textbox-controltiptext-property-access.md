@@ -3,7 +3,7 @@ title: TextBox.ControlTipText Property (Access)
 keywords: vbaac10.chm11093
 f1_keywords:
 - vbaac10.chm11093
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.ControlTipText
 ms.assetid: a63f3624-8f31-97f6-c2cb-8c34c82c825b

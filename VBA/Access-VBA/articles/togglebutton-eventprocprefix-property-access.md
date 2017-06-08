@@ -3,7 +3,7 @@ title: ToggleButton.EventProcPrefix Property (Access)
 keywords: vbaac10.chm11697
 f1_keywords:
 - vbaac10.chm11697
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.EventProcPrefix
 ms.assetid: 80a9cfe1-87c1-b95d-f9a7-6afeca7c4755

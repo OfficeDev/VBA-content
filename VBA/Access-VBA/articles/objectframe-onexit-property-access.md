@@ -3,7 +3,7 @@ title: ObjectFrame.OnExit Property (Access)
 keywords: vbaac10.chm11616
 f1_keywords:
 - vbaac10.chm11616
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnExit
 ms.assetid: 47cb4cb3-1d8a-d286-a7df-832d6aa3fb55

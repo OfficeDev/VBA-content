@@ -3,7 +3,7 @@ title: Aggregation expressions cannot use GUIDS. (Error 3600)
 keywords: jeterr40.chm5003600
 f1_keywords:
 - jeterr40.chm5003600
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ae2667df-1fa9-5502-2c5d-cb51cdb40bde
 ms.date: 06/08/2017
 ---

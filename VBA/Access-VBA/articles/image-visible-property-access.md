@@ -3,7 +3,7 @@ title: Image.Visible Property (Access)
 keywords: vbaac10.chm10374
 f1_keywords:
 - vbaac10.chm10374
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Visible
 ms.assetid: 022201dd-2847-dba5-2a0e-86e94feab535

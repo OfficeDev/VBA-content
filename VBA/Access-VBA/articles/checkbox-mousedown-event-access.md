@@ -3,7 +3,7 @@ title: CheckBox.MouseDown Event (Access)
 keywords: vbaac10.chm14127
 f1_keywords:
 - vbaac10.chm14127
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.MouseDown
 ms.assetid: 6281cd33-662e-e73f-5365-5784aca5c5df

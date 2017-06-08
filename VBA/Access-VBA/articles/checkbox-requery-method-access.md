@@ -3,7 +3,7 @@ title: CheckBox.Requery Method (Access)
 keywords: vbaac10.chm10688
 f1_keywords:
 - vbaac10.chm10688
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Requery
 ms.assetid: 0385fddc-7a97-1bf3-50d2-61f0978ea359

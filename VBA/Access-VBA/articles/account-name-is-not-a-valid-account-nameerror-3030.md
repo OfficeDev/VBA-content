@@ -3,7 +3,7 @@ title: <Account name> is not a valid account name. (Error 3030)
 keywords: jeterr40.chm5003030
 f1_keywords:
 - jeterr40.chm5003030
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 82668d6e-78c9-a7c1-3d59-48d3c03ccee9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: BoundObjectFrame.Left Property (Access)
 keywords: vbaac10.chm10927
 f1_keywords:
 - vbaac10.chm10927
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Left
 ms.assetid: 48cc6653-15b3-3f2c-9cfe-d6701099a8dc

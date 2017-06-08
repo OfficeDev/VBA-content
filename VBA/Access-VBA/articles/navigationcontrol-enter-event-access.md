@@ -3,7 +3,7 @@ title: NavigationControl.Enter Event (Access)
 keywords: vbaac10.chm14197
 f1_keywords:
 - vbaac10.chm14197
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Enter
 ms.assetid: 30741318-953e-4dde-54df-ef6fca845844

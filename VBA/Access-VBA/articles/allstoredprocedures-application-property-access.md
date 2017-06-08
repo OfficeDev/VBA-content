@@ -3,7 +3,7 @@ title: AllStoredProcedures.Application Property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllStoredProcedures.Application
 ms.assetid: afcfa0a8-79ec-cab3-23e3-d0ed4f15b450

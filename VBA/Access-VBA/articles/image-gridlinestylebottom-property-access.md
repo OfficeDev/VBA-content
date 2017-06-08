@@ -3,7 +3,7 @@ title: Image.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm10420
 f1_keywords:
 - vbaac10.chm10420
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.GridlineStyleBottom
 ms.assetid: 1df063c7-2354-5e57-ce0e-ea4619598726

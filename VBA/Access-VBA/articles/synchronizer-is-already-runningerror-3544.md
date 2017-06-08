@@ -3,7 +3,7 @@ title: Synchronizer is already running. (Error 3544)
 keywords: jeterr40.chm5003544
 f1_keywords:
 - jeterr40.chm5003544
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 889a2c4d-50e3-f40f-f1ff-332e48e43ad7
 ms.date: 06/08/2017
 ---

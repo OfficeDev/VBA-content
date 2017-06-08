@@ -3,7 +3,7 @@ title: ToggleButton.MouseUp Event (Access)
 keywords: vbaac10.chm14157
 f1_keywords:
 - vbaac10.chm14157
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.MouseUp
 ms.assetid: a7db8f67-202d-21a4-f74a-3826e80bb22c

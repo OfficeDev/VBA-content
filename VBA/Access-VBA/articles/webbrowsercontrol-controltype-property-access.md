@@ -3,7 +3,7 @@ title: WebBrowserControl.ControlType Property (Access)
 keywords: vbaac10.chm14528
 f1_keywords:
 - vbaac10.chm14528
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.ControlType
 ms.assetid: 3f473d4a-8a30-0822-9830-7e302ce3f3da

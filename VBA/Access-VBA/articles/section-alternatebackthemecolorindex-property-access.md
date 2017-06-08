@@ -3,7 +3,7 @@ title: Section.AlternateBackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14607
 f1_keywords:
 - vbaac10.chm14607
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.AlternateBackThemeColorIndex
 ms.assetid: 15ef17dd-06fd-db4a-7253-5d193f2e4b9a

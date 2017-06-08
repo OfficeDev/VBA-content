@@ -3,7 +3,7 @@ title: The connection string is too long. (Error 3210)
 keywords: jeterr40.chm5003210
 f1_keywords:
 - jeterr40.chm5003210
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d5ecc413-8d4e-ef06-3996-863c24e5dacf
 ms.date: 06/08/2017
 ---

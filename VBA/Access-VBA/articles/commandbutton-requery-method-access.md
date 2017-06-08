@@ -3,7 +3,7 @@ title: CommandButton.Requery Method (Access)
 keywords: vbaac10.chm10443
 f1_keywords:
 - vbaac10.chm10443
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Requery
 ms.assetid: 9a8fed17-aec2-c592-c003-92bc832d5da0

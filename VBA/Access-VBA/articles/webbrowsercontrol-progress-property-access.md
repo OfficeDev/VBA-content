@@ -3,7 +3,7 @@ title: WebBrowserControl.Progress Property (Access)
 keywords: vbaac10.chm14363
 f1_keywords:
 - vbaac10.chm14363
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Progress
 ms.assetid: ef77d863-a781-635e-eab4-6d98f88dac21

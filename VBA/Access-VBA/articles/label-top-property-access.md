@@ -3,7 +3,7 @@ title: Label.Top Property (Access)
 keywords: vbaac10.chm10198
 f1_keywords:
 - vbaac10.chm10198
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Top
 ms.assetid: c8f4fbd0-bf2a-eb73-0d03-5dce19d17161

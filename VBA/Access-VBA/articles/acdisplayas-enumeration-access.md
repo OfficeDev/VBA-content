@@ -3,7 +3,7 @@ title: AcDisplayAs Enumeration (Access)
 keywords: vbaac10.chm14054
 f1_keywords:
 - vbaac10.chm14054
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcDisplayAs
 ms.assetid: ccd8275b-d3b5-e3b1-3b0c-cad08ff71887

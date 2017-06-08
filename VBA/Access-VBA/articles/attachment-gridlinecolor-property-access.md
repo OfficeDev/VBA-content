@@ -3,7 +3,7 @@ title: Attachment.GridlineColor Property (Access)
 keywords: vbaac10.chm14000
 f1_keywords:
 - vbaac10.chm14000
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.GridlineColor
 ms.assetid: ee74a374-ad6b-e002-cc02-41861192923c

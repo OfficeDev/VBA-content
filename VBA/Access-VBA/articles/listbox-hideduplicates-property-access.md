@@ -3,7 +3,7 @@ title: ListBox.HideDuplicates Property (Access)
 keywords: vbaac10.chm11240
 f1_keywords:
 - vbaac10.chm11240
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.HideDuplicates
 ms.assetid: a67c6d19-3064-9909-1242-a764b8732cde

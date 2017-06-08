@@ -1,6 +1,6 @@
 ---
 title: Parameter (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9c066008-6c02-ccf6-b5ce-f36892fa96a0
 ms.date: 06/08/2017
 ---

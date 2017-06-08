@@ -3,7 +3,7 @@ title: Form.ServerFilter Property (Access)
 keywords: vbaac10.chm13482
 f1_keywords:
 - vbaac10.chm13482
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ServerFilter
 ms.assetid: 18385de5-bc0d-9d2c-f97c-5b42e3689b45

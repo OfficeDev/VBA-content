@@ -1,6 +1,6 @@
 ---
 title: Access Reports How Do I...
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1ba67d04-87b8-d466-3dc5-4443df2e99f3
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Synchronizer has not been set up. (Error 3543)
 keywords: jeterr40.chm5003543
 f1_keywords:
 - jeterr40.chm5003543
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 717a8858-c135-f38c-bd38-7b0427066046
 ms.date: 06/08/2017
 ---

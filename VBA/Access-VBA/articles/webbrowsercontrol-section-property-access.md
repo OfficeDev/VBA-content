@@ -3,7 +3,7 @@ title: WebBrowserControl.Section Property (Access)
 keywords: vbaac10.chm14379
 f1_keywords:
 - vbaac10.chm14379
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Section
 ms.assetid: f3ac58e4-2c36-29e9-2b14-b5d8c203741f

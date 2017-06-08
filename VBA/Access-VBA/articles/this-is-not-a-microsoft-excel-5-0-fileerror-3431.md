@@ -3,7 +3,7 @@ title: This is not a Microsoft Excel 5.0 file. (Error 3431)
 keywords: jeterr40.chm5003431
 f1_keywords:
 - jeterr40.chm5003431
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0da48ac1-00aa-e757-b04b-f95285cd19a2
 ms.date: 06/08/2017
 ---

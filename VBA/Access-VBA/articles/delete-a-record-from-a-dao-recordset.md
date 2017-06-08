@@ -1,6 +1,6 @@
 ---
 title: Delete a Record From a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7407b757-4c00-2ea7-c93f-303c09afff26
 ms.date: 06/08/2017
 ---

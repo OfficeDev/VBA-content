@@ -3,7 +3,7 @@ title: Reference.Collection Property (Access)
 keywords: vbaac10.chm12629
 f1_keywords:
 - vbaac10.chm12629
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reference.Collection
 ms.assetid: ad8e59bc-7ffc-e64e-0e36-5dec0cdaf204

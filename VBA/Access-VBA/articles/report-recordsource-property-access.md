@@ -3,7 +3,7 @@ title: Report.RecordSource Property (Access)
 keywords: vbaac10.chm13689
 f1_keywords:
 - vbaac10.chm13689
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.RecordSource
 ms.assetid: aa3b31cc-21a6-5d56-8361-9fc232ffae97

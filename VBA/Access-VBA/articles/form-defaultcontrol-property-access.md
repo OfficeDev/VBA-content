@@ -3,7 +3,7 @@ title: Form.DefaultControl Property (Access)
 keywords: vbaac10.chm13494
 f1_keywords:
 - vbaac10.chm13494
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DefaultControl
 ms.assetid: f6444b54-cf68-0ec6-ebd0-041caba21d74

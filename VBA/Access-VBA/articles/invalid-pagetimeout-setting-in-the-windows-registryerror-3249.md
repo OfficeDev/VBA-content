@@ -3,7 +3,7 @@ title: Invalid PageTimeout setting in the Windows Registry. (Error 3249)
 keywords: jeterr40.chm5003249
 f1_keywords:
 - jeterr40.chm5003249
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 62962a57-4e33-ea83-76ee-c20428deda7d
 ms.date: 06/08/2017
 ---

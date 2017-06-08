@@ -3,7 +3,7 @@ title: AcSplitFormDatasheet Enumeration (Access)
 keywords: vbaac10.chm14039
 f1_keywords:
 - vbaac10.chm14039
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSplitFormDatasheet
 ms.assetid: cb90ac7e-af5e-7a99-de3a-283601a3e180

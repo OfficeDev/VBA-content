@@ -3,7 +3,7 @@ title: Record is table <name> is locked by another user. (Error 3330)
 keywords: jeterr40.chm5003330
 f1_keywords:
 - jeterr40.chm5003330
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ae48d1c2-acda-a4e5-c8be-509e6241cf8b
 ms.date: 06/08/2017
 ---

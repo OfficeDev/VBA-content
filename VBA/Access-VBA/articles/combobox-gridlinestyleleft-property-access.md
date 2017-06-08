@@ -3,7 +3,7 @@ title: ComboBox.GridlineStyleLeft Property (Access)
 keywords: vbaac10.chm11485
 f1_keywords:
 - vbaac10.chm11485
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.GridlineStyleLeft
 ms.assetid: 00bb1dfe-ce6f-2bcc-75c6-bd1088d1c656

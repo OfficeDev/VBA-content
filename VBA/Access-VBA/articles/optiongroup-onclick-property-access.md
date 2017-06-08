@@ -3,7 +3,7 @@ title: OptionGroup.OnClick Property (Access)
 keywords: vbaac10.chm10866
 f1_keywords:
 - vbaac10.chm10866
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.OnClick
 ms.assetid: 57ea9cba-cfbd-76f6-0cf9-193a5df87d66

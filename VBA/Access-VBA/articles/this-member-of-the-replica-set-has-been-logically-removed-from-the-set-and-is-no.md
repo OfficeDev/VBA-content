@@ -3,7 +3,7 @@ title: This member of the replica set has been logically removed from the set an
 keywords: jeterr40.chm5003569
 f1_keywords:
 - jeterr40.chm5003569
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5457a862-fee7-14d1-b9a9-0967cdabec28
 ms.date: 06/08/2017
 ---

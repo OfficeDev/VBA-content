@@ -3,7 +3,7 @@ title: Label.ForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.ForeThemeColorIndex
 ms.assetid: 68165420-a121-a610-51bd-17a83fd9ee90

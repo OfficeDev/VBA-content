@@ -3,7 +3,7 @@ title: DoCmd.SetFilter Method (Access)
 keywords: vbaac10.chm6000
 f1_keywords:
 - vbaac10.chm6000
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SetFilter
 ms.assetid: 98c3e202-8581-2215-7fb2-4a006a97d38f

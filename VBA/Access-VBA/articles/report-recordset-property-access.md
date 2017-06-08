@@ -3,7 +3,7 @@ title: Report.Recordset Property (Access)
 keywords: vbaac10.chm13813
 f1_keywords:
 - vbaac10.chm13813
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Recordset
 ms.assetid: 8f37dfcd-ee53-c3f1-0edc-b3c38f263686

@@ -3,7 +3,7 @@ title: MacroError.Description Property (Access)
 keywords: vbaac10.chm14049
 f1_keywords:
 - vbaac10.chm14049
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.MacroError.Description
 ms.assetid: 50db8fe9-dd48-f337-ed25-3e00aabb83fd

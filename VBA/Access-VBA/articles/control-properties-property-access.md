@@ -3,7 +3,7 @@ title: Control.Properties Property (Access)
 keywords: vbaac10.chm10144
 f1_keywords:
 - vbaac10.chm10144
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Properties
 ms.assetid: 418b9ddb-b7d3-813c-7806-9ae9904175d7

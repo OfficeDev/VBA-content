@@ -3,7 +3,7 @@ title: CommandButton.HoverForeColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.HoverForeColor
 ms.assetid: a1efabe5-1cde-00f2-319b-df72e0f718c8

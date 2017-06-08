@@ -3,7 +3,7 @@ title: Report.BorderStyle Property (Access)
 keywords: vbaac10.chm13800
 f1_keywords:
 - vbaac10.chm13800
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.BorderStyle
 ms.assetid: 0f3f0ac9-5a25-13fb-0227-f0f6384d647b

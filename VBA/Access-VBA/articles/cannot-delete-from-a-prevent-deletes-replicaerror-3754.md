@@ -3,7 +3,7 @@ title: Cannot delete from a Prevent Deletes Replica. (Error 3754)
 keywords: jeterr40.chm5003754
 f1_keywords:
 - jeterr40.chm5003754
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 11abce80-3a05-53a1-f9d1-65a5c3d20712
 ms.date: 06/08/2017
 ---

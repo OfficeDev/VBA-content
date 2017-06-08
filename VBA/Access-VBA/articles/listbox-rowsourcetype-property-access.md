@@ -3,7 +3,7 @@ title: ListBox.RowSourceType Property (Access)
 keywords: vbaac10.chm11222
 f1_keywords:
 - vbaac10.chm11222
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.RowSourceType
 ms.assetid: a98a44d4-b2a5-d591-9295-3222d708ee88

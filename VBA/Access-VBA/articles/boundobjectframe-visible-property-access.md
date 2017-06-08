@@ -3,7 +3,7 @@ title: BoundObjectFrame.Visible Property (Access)
 keywords: vbaac10.chm10921
 f1_keywords:
 - vbaac10.chm10921
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Visible
 ms.assetid: 9fed4568-083a-8c38-4d44-b4085c2c8613

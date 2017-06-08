@@ -3,7 +3,7 @@ title: ComboBox.IsVisible Property (Access)
 keywords: vbaac10.chm11445
 f1_keywords:
 - vbaac10.chm11445
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.IsVisible
 ms.assetid: 8dddc896-d0fa-084d-948d-670e7957e737

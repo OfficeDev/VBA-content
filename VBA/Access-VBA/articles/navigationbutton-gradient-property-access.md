@@ -3,7 +3,7 @@ title: NavigationButton.Gradient Property (Access)
 keywords: vbaac10.chm14662
 f1_keywords:
 - vbaac10.chm14662
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Gradient
 ms.assetid: b23fb655-67bf-645f-f510-c4baafe02e58

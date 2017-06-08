@@ -3,7 +3,7 @@ title: BoundObjectFrame.DblClick Event (Access)
 keywords: vbaac10.chm14097
 f1_keywords:
 - vbaac10.chm14097
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.DblClick
 ms.assetid: 3417bf12-f99a-3792-bdf2-3022cd8590bc

@@ -3,7 +3,7 @@ title: SubForm.LayoutID Property (Access)
 keywords: vbaac10.chm11982
 f1_keywords:
 - vbaac10.chm11982
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.LayoutID
 ms.assetid: ec73504d-252b-40d5-aabf-5ac128cbe778

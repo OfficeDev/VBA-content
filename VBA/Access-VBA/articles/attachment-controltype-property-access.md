@@ -3,7 +3,7 @@ title: Attachment.ControlType Property (Access)
 keywords: vbaac10.chm13914
 f1_keywords:
 - vbaac10.chm13914
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.ControlType
 ms.assetid: f660ca13-59f0-efae-8e6b-7449662a15c2

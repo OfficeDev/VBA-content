@@ -3,7 +3,7 @@ title: Form.RecordLocks Property (Access)
 keywords: vbaac10.chm13362
 f1_keywords:
 - vbaac10.chm13362
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.RecordLocks
 ms.assetid: 9080f7dd-259e-8b13-9648-3269bc7321d3

@@ -3,7 +3,7 @@ title: OptionGroup Object (Access)
 keywords: vbaac10.chm10894
 f1_keywords:
 - vbaac10.chm10894
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup
 ms.assetid: aa9e5607-7892-9ab2-dabc-822372b23811

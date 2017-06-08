@@ -3,7 +3,7 @@ title: Query <name> is corrupt. (Error 3340)
 keywords: jeterr40.chm5003340
 f1_keywords:
 - jeterr40.chm5003340
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fc4343e5-44c2-a933-6344-72ec12d54920
 ms.date: 06/08/2017
 ---

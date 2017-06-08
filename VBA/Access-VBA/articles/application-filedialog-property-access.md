@@ -3,7 +3,7 @@ title: Application.FileDialog Property (Access)
 keywords: vbaac10.chm12592
 f1_keywords:
 - vbaac10.chm12592
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.FileDialog
 ms.assetid: 8589e1de-e6e7-f85c-0138-0690781d5ed5

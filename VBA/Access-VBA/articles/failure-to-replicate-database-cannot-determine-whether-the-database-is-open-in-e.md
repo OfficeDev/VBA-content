@@ -3,7 +3,7 @@ title: Failure to replicate database; cannot determine whether the database is o
 keywords: jeterr40.chm5003578
 f1_keywords:
 - jeterr40.chm5003578
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 22aa594f-47b6-a4b9-5227-0e86e25fdd00
 ms.date: 06/08/2017
 ---

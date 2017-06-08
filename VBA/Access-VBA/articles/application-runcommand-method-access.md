@@ -3,7 +3,7 @@ title: Application.RunCommand Method (Access)
 keywords: vbaac10.chm12568
 f1_keywords:
 - vbaac10.chm12568
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.RunCommand
 ms.assetid: 2731352f-7f2d-db3a-314c-e8a789755dd5

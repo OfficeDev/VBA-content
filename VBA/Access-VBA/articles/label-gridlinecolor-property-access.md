@@ -3,7 +3,7 @@ title: Label.GridlineColor Property (Access)
 keywords: vbaac10.chm10257
 f1_keywords:
 - vbaac10.chm10257
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineColor
 ms.assetid: f6982726-825a-1ef2-286d-b1f567678002

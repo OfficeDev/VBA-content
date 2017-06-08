@@ -1,6 +1,6 @@
 ---
 title: Structured Query Language (SQL)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cebe5204-81e6-48a0-8eda-8bba217c1c79
 ms.date: 06/08/2017
 ---

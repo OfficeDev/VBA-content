@@ -1,6 +1,6 @@
 ---
 title: Data Access Objects (DAO)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a5096d12-6ffb-42cd-adb1-f886a9b13fca
 ms.date: 06/08/2017
 ---

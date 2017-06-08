@@ -1,6 +1,6 @@
 ---
 title: Invalid property value. (Error 3271)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e39325b8-db3b-412b-7416-5120640646b8
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NavigationControl.Hyperlink Property (Access)
 keywords: vbaac10.chm11037
 f1_keywords:
 - vbaac10.chm11037
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Hyperlink
 ms.assetid: 2d6bdb1a-808e-1712-1846-71ffa8619f0d

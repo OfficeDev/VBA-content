@@ -3,7 +3,7 @@ title: Too many expressions in DISTINCT output. (Error 3089)
 keywords: jeterr40.chm5003089
 f1_keywords:
 - jeterr40.chm5003089
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 09789ca9-ad4d-ec70-3181-7500f820ba7b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ComboBox.AddItem Method (Access)
 keywords: vbaac10.chm11476
 f1_keywords:
 - vbaac10.chm11476
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.AddItem
 ms.assetid: dd247136-f29b-b5e2-1e09-c5a808da803f

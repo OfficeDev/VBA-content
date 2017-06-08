@@ -3,7 +3,7 @@ title: CodeProject.WebSite Property (Access)
 keywords: vbaac10.chm14663
 f1_keywords:
 - vbaac10.chm14663
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.WebSite
 ms.assetid: 96e7cdb1-10f0-4a39-04c2-c6fb19f01bad

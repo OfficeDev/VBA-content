@@ -3,7 +3,7 @@ title: CommandButton.OnKeyPress Property (Access)
 keywords: vbaac10.chm10504
 f1_keywords:
 - vbaac10.chm10504
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnKeyPress
 ms.assetid: de0dd03a-e3f4-c69d-0d9e-030fefc0a2de

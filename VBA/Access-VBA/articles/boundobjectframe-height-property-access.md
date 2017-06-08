@@ -3,7 +3,7 @@ title: BoundObjectFrame.Height Property (Access)
 keywords: vbaac10.chm10930
 f1_keywords:
 - vbaac10.chm10930
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Height
 ms.assetid: 53f59551-041e-dc9e-4eee-ed0d5cad0603

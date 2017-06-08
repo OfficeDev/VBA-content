@@ -3,7 +3,7 @@ title: CHECK Constraints are not allowed in Replicable Databases. (Error 3798)
 keywords: jeterr40.chm5003798
 f1_keywords:
 - jeterr40.chm5003798
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7055d5af-7cd6-267e-e97e-9ec92059f4ea
 ms.date: 06/08/2017
 ---

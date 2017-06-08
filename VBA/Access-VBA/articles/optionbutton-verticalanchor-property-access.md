@@ -3,7 +3,7 @@ title: OptionButton.VerticalAnchor Property (Access)
 keywords: vbaac10.chm10655
 f1_keywords:
 - vbaac10.chm10655
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.VerticalAnchor
 ms.assetid: 1f821dec-12b7-bff9-4ec3-d55bf4782cf2

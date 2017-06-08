@@ -3,7 +3,7 @@ title: Report.KeyPress Event (Access)
 keywords: vbaac10.chm13895
 f1_keywords:
 - vbaac10.chm13895
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.KeyPress
 ms.assetid: 0c846367-a4b0-d716-dcc3-32c916e09dfb

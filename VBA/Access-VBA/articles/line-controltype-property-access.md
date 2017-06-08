@@ -3,7 +3,7 @@ title: Line.ControlType Property (Access)
 keywords: vbaac10.chm10328
 f1_keywords:
 - vbaac10.chm10328
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.ControlType
 ms.assetid: d45b769f-d4d0-00a0-5749-e1ce29ea8933

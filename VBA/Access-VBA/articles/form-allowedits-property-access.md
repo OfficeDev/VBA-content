@@ -3,7 +3,7 @@ title: Form.AllowEdits Property (Access)
 keywords: vbaac10.chm13356
 f1_keywords:
 - vbaac10.chm13356
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowEdits
 ms.assetid: 3f667914-3dcc-7d4e-ca66-4338fc08e63a

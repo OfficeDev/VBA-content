@@ -3,7 +3,7 @@ title: WebBrowserControl.VerticalAnchor Property (Access)
 keywords: vbaac10.chm14403
 f1_keywords:
 - vbaac10.chm14403
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.VerticalAnchor
 ms.assetid: b0f991a4-744b-aac8-8456-a455f71942b7

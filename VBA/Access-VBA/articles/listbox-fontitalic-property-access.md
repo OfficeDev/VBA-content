@@ -3,7 +3,7 @@ title: ListBox.FontItalic Property (Access)
 keywords: vbaac10.chm11256
 f1_keywords:
 - vbaac10.chm11256
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.FontItalic
 ms.assetid: 0d7b2ec0-70a9-e325-2ff3-58f73d9654b3

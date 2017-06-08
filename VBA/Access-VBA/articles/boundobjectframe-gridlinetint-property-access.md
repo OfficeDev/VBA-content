@@ -3,7 +3,7 @@ title: BoundObjectFrame.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineTint
 ms.assetid: bdb98dd5-ec7b-1e39-d39e-66e841b1090e

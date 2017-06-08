@@ -3,7 +3,7 @@ title: TextBox.TextAlign Property (Access)
 keywords: vbaac10.chm11090
 f1_keywords:
 - vbaac10.chm11090
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.TextAlign
 ms.assetid: 2b6e5ad7-02f5-4e33-47a4-87882a3113b2

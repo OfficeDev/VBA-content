@@ -3,7 +3,7 @@ title: CustomControl.IsVisible Property (Access)
 keywords: vbaac10.chm12038
 f1_keywords:
 - vbaac10.chm12038
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.IsVisible
 ms.assetid: e432566c-c8a9-6d08-4b01-5c5949248ba9

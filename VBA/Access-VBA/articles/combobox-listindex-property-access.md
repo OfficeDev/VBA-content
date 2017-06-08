@@ -3,7 +3,7 @@ title: ComboBox.ListIndex Property (Access)
 keywords: vbaac10.chm11444
 f1_keywords:
 - vbaac10.chm11444
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ListIndex
 ms.assetid: 2165ba25-f129-3378-fb49-ea26ca446e9e

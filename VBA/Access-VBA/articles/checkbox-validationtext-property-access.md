@@ -3,7 +3,7 @@ title: CheckBox.ValidationText Property (Access)
 keywords: vbaac10.chm10699
 f1_keywords:
 - vbaac10.chm10699
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.ValidationText
 ms.assetid: 25f8d9be-1015-4ff7-c088-569b8995e80b

@@ -3,7 +3,7 @@ title: Report.Page Property (Access)
 keywords: vbaac10.chm13721
 f1_keywords:
 - vbaac10.chm13721
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Page
 ms.assetid: 6d1dd330-ecd8-3b5c-c851-26bf7e431f98

@@ -3,7 +3,7 @@ title: Report.OrderByOn Property (Access)
 keywords: vbaac10.chm13693
 f1_keywords:
 - vbaac10.chm13693
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OrderByOn
 ms.assetid: 8784e57f-e4f1-a606-36b0-1200d6f17b89

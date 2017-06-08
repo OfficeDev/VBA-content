@@ -3,7 +3,7 @@ title: TextBox.SelStart Property (Access)
 keywords: vbaac10.chm11108
 f1_keywords:
 - vbaac10.chm11108
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.SelStart
 ms.assetid: 51c773bb-2b70-b812-6b6a-9e062e493ebb

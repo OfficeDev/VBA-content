@@ -3,7 +3,7 @@ title: ToggleButton.OnMouseDown Property (Access)
 keywords: vbaac10.chm11755
 f1_keywords:
 - vbaac10.chm11755
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnMouseDown
 ms.assetid: a9bbf8a5-4e62-fa9e-63a4-2f59cd2734f4

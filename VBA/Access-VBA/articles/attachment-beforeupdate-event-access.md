@@ -3,7 +3,7 @@ title: Attachment.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14019
 f1_keywords:
 - vbaac10.chm14019
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.BeforeUpdate
 ms.assetid: 0437e831-b96f-60b6-1a7c-3e1f720394b7

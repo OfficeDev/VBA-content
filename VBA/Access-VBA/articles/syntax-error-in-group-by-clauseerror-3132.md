@@ -3,7 +3,7 @@ title: Syntax error in GROUP BY clause. (Error 3132)
 keywords: jeterr40.chm5003132
 f1_keywords:
 - jeterr40.chm5003132
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a105a3ea-ebb1-782d-437f-1fd51852a20e
 ms.date: 06/08/2017
 ---

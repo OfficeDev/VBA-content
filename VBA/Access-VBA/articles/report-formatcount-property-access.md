@@ -3,7 +3,7 @@ title: Report.FormatCount Property (Access)
 keywords: vbaac10.chm13733
 f1_keywords:
 - vbaac10.chm13733
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.FormatCount
 ms.assetid: 35fbc0fb-a106-11d6-26db-99d6f0b969a3

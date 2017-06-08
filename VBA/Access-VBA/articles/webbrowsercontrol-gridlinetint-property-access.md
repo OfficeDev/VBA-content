@@ -3,7 +3,7 @@ title: WebBrowserControl.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineTint
 ms.assetid: b5d2c928-bfa7-6510-a5c8-3ce0ce380375

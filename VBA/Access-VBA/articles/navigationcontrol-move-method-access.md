@@ -3,7 +3,7 @@ title: NavigationControl.Move Method (Access)
 keywords: vbaac10.chm11144
 f1_keywords:
 - vbaac10.chm11144
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Move
 ms.assetid: bbf4e87e-8468-7cfd-7cd4-5f423a6517c8

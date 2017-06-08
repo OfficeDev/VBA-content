@@ -3,7 +3,7 @@ title: Page.OnClick Property (Access)
 keywords: vbaac10.chm12167
 f1_keywords:
 - vbaac10.chm12167
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.OnClick
 ms.assetid: be4ccc80-dfab-2e44-5bfd-06dcd7d40687

@@ -3,7 +3,7 @@ title: ListBox.StatusBarText Property (Access)
 keywords: vbaac10.chm11232
 f1_keywords:
 - vbaac10.chm11232
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.StatusBarText
 ms.assetid: 281baa24-d32f-72fe-a57d-201ce4bd8777

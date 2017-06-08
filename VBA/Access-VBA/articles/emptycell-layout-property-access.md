@@ -3,7 +3,7 @@ title: EmptyCell.Layout Property (Access)
 keywords: vbaac10.chm14326
 f1_keywords:
 - vbaac10.chm14326
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Layout
 ms.assetid: d13cb988-9859-223f-e974-ecbd77cfaf93

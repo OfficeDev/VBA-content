@@ -3,7 +3,7 @@ title: Control.Application Property (Access)
 keywords: vbaac10.chm10132
 f1_keywords:
 - vbaac10.chm10132
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Application
 ms.assetid: b46574ca-6159-c34a-befd-7d390bdc39f9

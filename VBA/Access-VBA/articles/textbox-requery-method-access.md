@@ -3,7 +3,7 @@ title: TextBox.Requery Method (Access)
 keywords: vbaac10.chm11034
 f1_keywords:
 - vbaac10.chm11034
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Requery
 ms.assetid: b1f8991e-7ccc-4f0b-c50f-1d51a0abda7e

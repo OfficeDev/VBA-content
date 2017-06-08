@@ -3,7 +3,7 @@ title: ListBox.OnMouseMove Property (Access)
 keywords: vbaac10.chm11287
 f1_keywords:
 - vbaac10.chm11287
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnMouseMove
 ms.assetid: 2a173ef5-4c63-98e1-aa24-dbb106fcc8cd

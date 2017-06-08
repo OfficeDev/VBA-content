@@ -1,6 +1,6 @@
 ---
 title: Invalid precision for decimal data type. (Error 3700)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 74d04222-2ed3-1552-4b56-f205633efd7f
 ms.date: 06/08/2017
 ---

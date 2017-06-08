@@ -3,7 +3,7 @@ title: WebBrowserControl.OnNavigateError Property (Access)
 keywords: vbaac10.chm14415,vbaac10.chm5906
 f1_keywords:
 - vbaac10.chm14415,vbaac10.chm5906
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnNavigateError
 ms.assetid: aeb415fb-3dcf-f656-db0d-71db2a72433c

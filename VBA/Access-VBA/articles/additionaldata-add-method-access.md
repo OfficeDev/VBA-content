@@ -3,7 +3,7 @@ title: AdditionalData.Add Method (Access)
 keywords: vbaac10.chm13258
 f1_keywords:
 - vbaac10.chm13258
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AdditionalData.Add
 ms.assetid: 29d4df5e-7646-b1e7-b179-a6588502179a

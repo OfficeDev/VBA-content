@@ -3,7 +3,7 @@ title: Line.IsVisible Property (Access)
 keywords: vbaac10.chm10345
 f1_keywords:
 - vbaac10.chm10345
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.IsVisible
 ms.assetid: c1a1fa59-c048-3832-ffff-2184c78b1d41

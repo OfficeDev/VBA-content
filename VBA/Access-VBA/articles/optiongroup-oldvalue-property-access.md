@@ -3,7 +3,7 @@ title: OptionGroup.OldValue Property (Access)
 keywords: vbaac10.chm10812
 f1_keywords:
 - vbaac10.chm10812
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.OldValue
 ms.assetid: dc294bee-49b7-af3e-745e-63dde913c52f

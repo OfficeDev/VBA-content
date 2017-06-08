@@ -3,7 +3,7 @@ title: ComboBox.Exit Event (Access)
 keywords: vbaac10.chm14216
 f1_keywords:
 - vbaac10.chm14216
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Exit
 ms.assetid: 47f37eb3-c0c1-457f-31ec-3b33b02ba986

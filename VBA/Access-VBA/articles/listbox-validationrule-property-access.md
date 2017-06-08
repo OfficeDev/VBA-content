@@ -3,7 +3,7 @@ title: ListBox.ValidationRule Property (Access)
 keywords: vbaac10.chm11230
 f1_keywords:
 - vbaac10.chm11230
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ValidationRule
 ms.assetid: d3a605d6-cb17-fc4a-0e01-72a21416f980

@@ -3,7 +3,7 @@ title: Cannot change a rule while the rules for this table are in use. (Error 33
 keywords: jeterr40.chm5003302
 f1_keywords:
 - jeterr40.chm5003302
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0cb65094-b2da-ab1b-61bc-c6ed153e938c
 ms.date: 06/08/2017
 ---

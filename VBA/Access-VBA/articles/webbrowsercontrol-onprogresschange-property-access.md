@@ -3,7 +3,7 @@ title: WebBrowserControl.OnProgressChange Property (Access)
 keywords: vbaac10.chm14416
 f1_keywords:
 - vbaac10.chm14416
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnProgressChange
 ms.assetid: 8b1b84ac-b164-e582-2159-2d98f4ff8733

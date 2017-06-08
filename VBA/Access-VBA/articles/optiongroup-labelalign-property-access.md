@@ -3,7 +3,7 @@ title: OptionGroup.LabelAlign Property (Access)
 keywords: vbaac10.chm10856
 f1_keywords:
 - vbaac10.chm10856
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.LabelAlign
 ms.assetid: 701c5bc6-e81a-83e2-acf6-9756e3c86946

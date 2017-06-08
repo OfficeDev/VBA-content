@@ -1,6 +1,6 @@
 ---
 title: DataFactory Object, Query Method, and CreateObject Method Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0753f100-43b9-b018-eec6-ff34c3f951ff
 ms.date: 06/08/2017
 ---

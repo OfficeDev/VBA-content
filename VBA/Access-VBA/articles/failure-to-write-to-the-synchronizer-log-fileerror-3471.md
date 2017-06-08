@@ -3,7 +3,7 @@ title: Failure to write to the Synchronizer log file. (Error 3471)
 keywords: jeterr40.chm5003471
 f1_keywords:
 - jeterr40.chm5003471
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f9c26a3c-8f57-fb57-5da3-c79ba0dd395b
 ms.date: 06/08/2017
 ---

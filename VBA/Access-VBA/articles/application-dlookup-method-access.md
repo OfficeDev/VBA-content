@@ -3,7 +3,7 @@ title: Application.DLookup Method (Access)
 keywords: vbaac10.chm12529
 f1_keywords:
 - vbaac10.chm12529
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DLookup
 ms.assetid: cbe1fc56-e4d7-cb74-02df-48fc379cf432

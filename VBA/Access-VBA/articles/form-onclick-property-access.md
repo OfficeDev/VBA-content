@@ -3,7 +3,7 @@ title: Form.OnClick Property (Access)
 keywords: vbaac10.chm13449
 f1_keywords:
 - vbaac10.chm13449
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnClick
 ms.assetid: a02c677d-d96b-754f-3ca8-0089a27a7e84

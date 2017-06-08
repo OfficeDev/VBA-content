@@ -3,7 +3,7 @@ title: Attachment.DblClick Event (Access)
 keywords: vbaac10.chm14028
 f1_keywords:
 - vbaac10.chm14028
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.DblClick
 ms.assetid: abc31523-5154-2d91-67c0-03cc0e73e957

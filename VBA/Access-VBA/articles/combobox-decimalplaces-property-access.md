@@ -3,7 +3,7 @@ title: ComboBox.DecimalPlaces Property (Access)
 keywords: vbaac10.chm11376
 f1_keywords:
 - vbaac10.chm11376
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.DecimalPlaces
 ms.assetid: 5d57d9b7-12bd-2555-242e-204fd8dd48be

@@ -3,7 +3,7 @@ title: Could not add rows needed to make the database replicable. (Error 3580)
 keywords: jeterr40.chm5003580
 f1_keywords:
 - jeterr40.chm5003580
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5a4f6c73-9daa-9b31-5e22-9559ec8b67d8
 ms.date: 06/08/2017
 ---

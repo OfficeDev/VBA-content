@@ -3,7 +3,7 @@ title: The table name <name> in the partial filter expression is invalid. (Error
 keywords: jeterr40.chm5003481
 f1_keywords:
 - jeterr40.chm5003481
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2417ec66-b385-c8ff-3848-4f4cae20264f
 ms.date: 06/08/2017
 ---

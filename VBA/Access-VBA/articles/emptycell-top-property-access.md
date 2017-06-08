@@ -3,7 +3,7 @@ title: EmptyCell.Top Property (Access)
 keywords: vbaac10.chm14308
 f1_keywords:
 - vbaac10.chm14308
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Top
 ms.assetid: ddd720f0-441f-4ac3-ca95-ecfc4408569e

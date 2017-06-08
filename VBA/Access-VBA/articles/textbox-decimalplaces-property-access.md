@@ -3,7 +3,7 @@ title: TextBox.DecimalPlaces Property (Access)
 keywords: vbaac10.chm11045
 f1_keywords:
 - vbaac10.chm11045
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.DecimalPlaces
 ms.assetid: cd032c51-34d1-18d3-c378-7473938ec1d7

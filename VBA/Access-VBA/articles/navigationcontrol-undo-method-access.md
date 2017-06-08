@@ -3,7 +3,7 @@ title: NavigationControl.Undo Method (Access)
 keywords: vbaac10.chm11030
 f1_keywords:
 - vbaac10.chm11030
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Undo
 ms.assetid: d15daeaf-5c78-5833-9fed-d57d2996e60b

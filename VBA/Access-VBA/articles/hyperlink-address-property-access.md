@@ -3,7 +3,7 @@ title: Hyperlink.Address Property (Access)
 keywords: vbaac10.chm10115
 f1_keywords:
 - vbaac10.chm10115
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink.Address
 ms.assetid: 68b9cf8f-a647-798d-36ae-d451b7e6ae5a

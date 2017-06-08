@@ -3,7 +3,7 @@ title: Module.CountOfDeclarationLines Property (Access)
 keywords: vbaac10.chm12284
 f1_keywords:
 - vbaac10.chm12284
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Module.CountOfDeclarationLines
 ms.assetid: fc0bdb0f-264c-0311-946c-c5cdc03a86f0

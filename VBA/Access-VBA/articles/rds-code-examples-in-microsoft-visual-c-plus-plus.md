@@ -1,6 +1,6 @@
 ---
 title: RDS Code Examples in Microsoft Visual C++
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: de2ac3a6-bc9b-034e-edc0-1a10dd49249f
 ms.date: 06/08/2017
 ---

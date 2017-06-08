@@ -3,7 +3,7 @@ title: Form.OnFilter Property (Access)
 keywords: vbaac10.chm13459
 f1_keywords:
 - vbaac10.chm13459
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnFilter
 ms.assetid: 4d1b52cb-0f79-d8e9-05b3-a7a1da0a7a62

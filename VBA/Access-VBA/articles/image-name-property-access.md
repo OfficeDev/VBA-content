@@ -3,7 +3,7 @@ title: Image.Name Property (Access)
 keywords: vbaac10.chm10404
 f1_keywords:
 - vbaac10.chm10404
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Name
 ms.assetid: 6dcac8a1-037d-dad2-00bf-ed73a1b21e4a

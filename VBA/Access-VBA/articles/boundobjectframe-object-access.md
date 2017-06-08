@@ -3,7 +3,7 @@ title: BoundObjectFrame Object (Access)
 keywords: vbaac10.chm11026
 f1_keywords:
 - vbaac10.chm11026
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame
 ms.assetid: b3025672-60b8-e1d6-4769-1f724c9aa1ef

@@ -3,7 +3,7 @@ title: Report.PictureAlignment Property (Access)
 keywords: vbaac10.chm13707
 f1_keywords:
 - vbaac10.chm13707
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PictureAlignment
 ms.assetid: d038e65b-c258-b6b7-ce53-87b9a60e74e3

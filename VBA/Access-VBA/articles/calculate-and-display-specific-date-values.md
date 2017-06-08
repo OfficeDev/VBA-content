@@ -1,6 +1,6 @@
 ---
 title: Calculate and Display Specific Date Values
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ba8c8404-fbe9-d7ef-57bb-17631ec8fb4c
 ms.date: 06/08/2017
 ---

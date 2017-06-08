@@ -3,7 +3,7 @@ title: TextBox.GridlineColor Property (Access)
 keywords: vbaac10.chm11164
 f1_keywords:
 - vbaac10.chm11164
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineColor
 ms.assetid: 849e0843-ab35-90d6-02a6-44faa316c83f

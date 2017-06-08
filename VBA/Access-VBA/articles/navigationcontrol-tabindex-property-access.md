@@ -3,7 +3,7 @@ title: NavigationControl.TabIndex Property (Access)
 keywords: vbaac10.chm11065
 f1_keywords:
 - vbaac10.chm11065
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.TabIndex
 ms.assetid: 2fc2511e-5a92-7039-cfec-2556b3384fb7

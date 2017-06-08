@@ -3,7 +3,7 @@ title: NavigationButton.Enabled Property (Access)
 keywords: vbaac10.chm10464
 f1_keywords:
 - vbaac10.chm10464
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Enabled
 ms.assetid: 00390d23-3088-8f92-db02-902c23ef207c

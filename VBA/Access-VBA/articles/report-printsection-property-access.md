@@ -3,7 +3,7 @@ title: Report.PrintSection Property (Access)
 keywords: vbaac10.chm13730
 f1_keywords:
 - vbaac10.chm13730
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PrintSection
 ms.assetid: 745f4624-557b-0a4c-d4f4-9f0ba4113a61

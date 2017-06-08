@@ -3,7 +3,7 @@ title: OptionGroup.BorderWidth Property (Access)
 keywords: vbaac10.chm10844
 f1_keywords:
 - vbaac10.chm10844
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.BorderWidth
 ms.assetid: 520ed761-de5d-9e70-3cc8-79264f6c0f3f

@@ -3,7 +3,7 @@ title: CheckBox.OnGotFocus Property (Access)
 keywords: vbaac10.chm10739
 f1_keywords:
 - vbaac10.chm10739
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnGotFocus
 ms.assetid: eaa59b30-d037-2b3a-1e24-e5ea9a11f0f3

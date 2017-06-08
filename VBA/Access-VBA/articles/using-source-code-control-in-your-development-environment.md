@@ -1,6 +1,6 @@
 ---
 title: Using Source Code Control In Your Development Environment
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3d5d4d78-d569-28ce-6e6d-1c8dcdc8fbda
 ms.date: 06/08/2017
 ---

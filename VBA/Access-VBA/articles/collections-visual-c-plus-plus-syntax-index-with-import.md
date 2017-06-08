@@ -1,6 +1,6 @@
 ---
 title: Collections (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 839b8c78-b6dc-ea2b-fe9c-305b8b47b4b9
 ms.date: 06/08/2017
 ---

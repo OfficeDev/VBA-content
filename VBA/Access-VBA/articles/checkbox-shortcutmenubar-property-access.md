@@ -3,7 +3,7 @@ title: CheckBox.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm10719
 f1_keywords:
 - vbaac10.chm10719
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.ShortcutMenuBar
 ms.assetid: 1f9bf8b4-d0c7-ddd3-9c4f-cb9bd863463e

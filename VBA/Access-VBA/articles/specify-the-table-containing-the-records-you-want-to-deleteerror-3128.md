@@ -3,7 +3,7 @@ title: Specify the table containing the records you want to delete. (Error 3128)
 keywords: jeterr40.chm5003128
 f1_keywords:
 - jeterr40.chm5003128
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f6c49cba-5b9c-775c-625a-6d1e79c8adf0
 ms.date: 06/08/2017
 ---

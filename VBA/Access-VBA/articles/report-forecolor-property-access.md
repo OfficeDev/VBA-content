@@ -3,7 +3,7 @@ title: Report.ForeColor Property (Access)
 keywords: vbaac10.chm13740
 f1_keywords:
 - vbaac10.chm13740
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.ForeColor
 ms.assetid: 048b01a3-f962-d2d3-b546-027fec6a1369

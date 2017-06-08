@@ -3,7 +3,7 @@ title: ListBox.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BackThemeColorIndex
 ms.assetid: d738236a-d635-7ef6-7626-71494a4811fc

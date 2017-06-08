@@ -3,7 +3,7 @@ title: ToggleButton.OnEnter Property (Access)
 keywords: vbaac10.chm11749
 f1_keywords:
 - vbaac10.chm11749
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnEnter
 ms.assetid: 06605089-613c-114b-4775-587a0357e875

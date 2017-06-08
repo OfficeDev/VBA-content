@@ -3,7 +3,7 @@ title: Cannot update <field name>; field not updatable. (Error 3113)
 keywords: jeterr40.chm5003113
 f1_keywords:
 - jeterr40.chm5003113
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a86b3fc0-f78f-d9dc-963d-3fbe710a4be9
 ms.date: 06/08/2017
 ---

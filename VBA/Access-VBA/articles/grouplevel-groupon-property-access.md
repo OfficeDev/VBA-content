@@ -3,7 +3,7 @@ title: GroupLevel.GroupOn Property (Access)
 keywords: vbaac10.chm12243
 f1_keywords:
 - vbaac10.chm12243
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.GroupOn
 ms.assetid: 7fb9551f-5742-39a2-1cf3-7b3975ae517a

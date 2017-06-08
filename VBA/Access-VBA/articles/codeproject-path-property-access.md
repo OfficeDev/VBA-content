@@ -3,7 +3,7 @@ title: CodeProject.Path Property (Access)
 keywords: vbaac10.chm12718
 f1_keywords:
 - vbaac10.chm12718
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.Path
 ms.assetid: 3d811cc3-ebb3-3cbc-fc3d-e1ab40ceea27

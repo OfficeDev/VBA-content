@@ -3,7 +3,7 @@ title: CommandButton.OnGotFocus Property (Access)
 keywords: vbaac10.chm10495
 f1_keywords:
 - vbaac10.chm10495
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnGotFocus
 ms.assetid: 4d892495-791b-05b3-0bcb-3b3c3635a0bd

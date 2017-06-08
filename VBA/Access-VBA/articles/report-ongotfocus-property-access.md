@@ -3,7 +3,7 @@ title: Report.OnGotFocus Property (Access)
 keywords: vbaac10.chm13859
 f1_keywords:
 - vbaac10.chm13859
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnGotFocus
 ms.assetid: 259d14b1-cd39-722e-b4d7-28742fefd831

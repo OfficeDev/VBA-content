@@ -1,6 +1,6 @@
 ---
 title: Field <name> cannot be a zero-length string. (Error 3315)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 400f58a8-e55b-341f-1961-20b5eb7a27d0
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Attachment.OnExit Property (Access)
 keywords: vbaac10.chm13940
 f1_keywords:
 - vbaac10.chm13940
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnExit
 ms.assetid: 5ca25e6f-1fc3-826a-9111-b899e324ef99

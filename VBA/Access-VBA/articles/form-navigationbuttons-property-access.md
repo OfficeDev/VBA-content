@@ -3,7 +3,7 @@ title: Form.NavigationButtons Property (Access)
 keywords: vbaac10.chm13365
 f1_keywords:
 - vbaac10.chm13365
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.NavigationButtons
 ms.assetid: 23af1adc-67e9-b39d-772b-ddecf159f861

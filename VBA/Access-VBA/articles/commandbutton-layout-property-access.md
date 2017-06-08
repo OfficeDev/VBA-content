@@ -3,7 +3,7 @@ title: CommandButton.Layout Property (Access)
 keywords: vbaac10.chm10523
 f1_keywords:
 - vbaac10.chm10523
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Layout
 ms.assetid: 61e0b921-ee37-af21-e84f-64f0b682e05c

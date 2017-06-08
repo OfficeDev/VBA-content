@@ -3,7 +3,7 @@ title: Attachment.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.BorderTint
 ms.assetid: 819768fc-1473-5f7e-c320-b2d25d1b83d3

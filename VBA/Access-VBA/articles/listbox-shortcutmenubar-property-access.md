@@ -3,7 +3,7 @@ title: ListBox.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm11260
 f1_keywords:
 - vbaac10.chm11260
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ShortcutMenuBar
 ms.assetid: 5da48eb8-b4ce-a3e5-323b-18f1ec76e00c

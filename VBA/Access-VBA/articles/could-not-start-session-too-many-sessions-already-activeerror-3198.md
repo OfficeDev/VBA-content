@@ -3,7 +3,7 @@ title: Could not start session. Too many sessions already active. (Error 3198)
 keywords: jeterr40.chm5003198
 f1_keywords:
 - jeterr40.chm5003198
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1824496e-7f67-ca4e-89f5-4a7153a7c215
 ms.date: 06/08/2017
 ---

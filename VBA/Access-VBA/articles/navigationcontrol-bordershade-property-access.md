@@ -3,7 +3,7 @@ title: NavigationControl.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BorderShade
 ms.assetid: 5464f403-791a-d324-2c7a-eb6aa26acf8f

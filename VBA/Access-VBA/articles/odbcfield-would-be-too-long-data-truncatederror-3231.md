@@ -3,7 +3,7 @@ title: ODBC - field would be too long; data truncated. (Error 3231)
 keywords: jeterr40.chm5003231
 f1_keywords:
 - jeterr40.chm5003231
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 098ddf0a-e3e3-62c3-ed88-51a62d01a847
 ms.date: 06/08/2017
 ---

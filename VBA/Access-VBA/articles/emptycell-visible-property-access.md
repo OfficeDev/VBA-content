@@ -3,7 +3,7 @@ title: EmptyCell.Visible Property (Access)
 keywords: vbaac10.chm14305
 f1_keywords:
 - vbaac10.chm14305
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Visible
 ms.assetid: b4418ac0-fd50-e5d2-9af4-0e66a403790f

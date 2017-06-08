@@ -3,7 +3,7 @@ title: NavigationControl.KeyUp Event (Access)
 keywords: vbaac10.chm14208
 f1_keywords:
 - vbaac10.chm14208
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.KeyUp
 ms.assetid: 35e7a26d-617c-9e51-c246-1830cd180420

@@ -3,7 +3,7 @@ title: Application.CreateReport Method (Access)
 keywords: vbaac10.chm12517
 f1_keywords:
 - vbaac10.chm12517
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CreateReport
 ms.assetid: 4b086f8c-8017-0b5f-72a7-7c180c32f52d

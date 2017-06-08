@@ -3,7 +3,7 @@ title: Cannot find the executable file for the Synchronizer (mstran40.exe). (Err
 keywords: jeterr40.chm5003627
 f1_keywords:
 - jeterr40.chm5003627
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4fc1de50-1eeb-f848-884b-894ab63afc14
 ms.date: 06/08/2017
 ---

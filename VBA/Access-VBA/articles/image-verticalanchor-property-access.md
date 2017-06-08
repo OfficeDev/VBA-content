@@ -3,7 +3,7 @@ title: Image.VerticalAnchor Property (Access)
 keywords: vbaac10.chm10427
 f1_keywords:
 - vbaac10.chm10427
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.VerticalAnchor
 ms.assetid: dbbd345c-b384-0a4f-fd80-22920e71c4a8

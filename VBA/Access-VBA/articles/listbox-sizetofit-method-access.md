@@ -3,7 +3,7 @@ title: ListBox.SizeToFit Method (Access)
 keywords: vbaac10.chm11211
 f1_keywords:
 - vbaac10.chm11211
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.SizeToFit
 ms.assetid: 0b74f6d0-d33d-368c-d991-2b219072eae2

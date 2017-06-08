@@ -3,7 +3,7 @@ title: NavigationControl.ControlType Property (Access)
 keywords: vbaac10.chm11042
 f1_keywords:
 - vbaac10.chm11042
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.ControlType
 ms.assetid: c0259524-8505-71a1-e482-9f142379f9e8

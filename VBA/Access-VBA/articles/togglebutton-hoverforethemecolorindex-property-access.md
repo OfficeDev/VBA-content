@@ -3,7 +3,7 @@ title: ToggleButton.HoverForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14616
 f1_keywords:
 - vbaac10.chm14616
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.HoverForeThemeColorIndex
 ms.assetid: 7159df87-2817-7cab-7e3c-23f0c4613796

@@ -3,7 +3,7 @@ title: Updating data in a linked table is not supported by this ISAM. (Error 361
 keywords: jeterr40.chm5003616
 f1_keywords:
 - jeterr40.chm5003616
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 403cacb5-9962-f18d-b305-416bd3a1fd09
 ms.date: 06/08/2017
 ---

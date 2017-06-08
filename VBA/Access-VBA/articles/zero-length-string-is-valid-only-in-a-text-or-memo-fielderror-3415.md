@@ -3,7 +3,7 @@ title: Zero-length string is valid only in a Text or Memo field. (Error 3415)
 keywords: jeterr40.chm5003415
 f1_keywords:
 - jeterr40.chm5003415
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 882a7e93-2e9d-c3e0-d947-85cf2eb53c05
 ms.date: 06/08/2017
 ---

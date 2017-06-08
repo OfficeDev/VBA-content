@@ -3,7 +3,7 @@ title: Syntax error in ALTER TABLE statement. (Error 3293)
 keywords: jeterr40.chm5003293
 f1_keywords:
 - jeterr40.chm5003293
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ce85ef94-d549-a303-b58f-ed7df6f5eb3b
 ms.date: 06/08/2017
 ---

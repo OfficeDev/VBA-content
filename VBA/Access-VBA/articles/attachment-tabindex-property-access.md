@@ -3,7 +3,7 @@ title: Attachment.TabIndex Property (Access)
 keywords: vbaac10.chm14014
 f1_keywords:
 - vbaac10.chm14014
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.TabIndex
 ms.assetid: bca68c61-a795-34d9-9e42-97113f1d4387

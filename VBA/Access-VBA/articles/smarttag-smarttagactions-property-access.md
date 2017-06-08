@@ -3,7 +3,7 @@ title: SmartTag.SmartTagActions Property (Access)
 keywords: vbaac10.chm13322
 f1_keywords:
 - vbaac10.chm13322
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTag.SmartTagActions
 ms.assetid: 12df7553-ea62-3844-ffe8-4fd13527bfdb

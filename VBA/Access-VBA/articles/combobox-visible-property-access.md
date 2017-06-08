@@ -3,7 +3,7 @@ title: ComboBox.Visible Property (Access)
 keywords: vbaac10.chm11393
 f1_keywords:
 - vbaac10.chm11393
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Visible
 ms.assetid: 68d69090-cf5f-5d24-de4d-a5304a41bd64

@@ -3,7 +3,7 @@ title: Attachment.OnDirty Property (Access)
 keywords: vbaac10.chm13941
 f1_keywords:
 - vbaac10.chm13941
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnDirty
 ms.assetid: a3f0e108-3abe-23b2-6c7d-e528432fc3d9

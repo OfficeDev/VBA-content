@@ -3,7 +3,7 @@ title: CheckBox.OnClick Property (Access)
 keywords: vbaac10.chm10741
 f1_keywords:
 - vbaac10.chm10741
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnClick
 ms.assetid: 3721a21b-77dd-5f43-baea-e7e98647c17a

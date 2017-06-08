@@ -3,7 +3,7 @@ title: Report.OnMouseDown Property (Access)
 keywords: vbaac10.chm13863
 f1_keywords:
 - vbaac10.chm13863
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnMouseDown
 ms.assetid: 8b66aa47-d409-4cc6-2441-6c959f7120a4

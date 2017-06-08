@@ -3,7 +3,7 @@ title: ToggleButton.BorderStyle Property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.BorderStyle
 ms.assetid: 339bfae9-4320-565c-c299-eb92bc28e4f0

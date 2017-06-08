@@ -3,7 +3,7 @@ title: ToggleButton Object (Access)
 keywords: vbaac10.chm11810
 f1_keywords:
 - vbaac10.chm11810
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton
 ms.assetid: 1c20d809-d7db-e096-4328-ebb4d79e770e

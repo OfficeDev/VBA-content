@@ -1,6 +1,6 @@
 ---
 title: DELETE (Microsoft Access SQL reserved word)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 35303c08-343f-95f3-a123-9bc564d81ee2
 ms.date: 06/08/2017
 ---

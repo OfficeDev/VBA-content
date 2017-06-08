@@ -3,7 +3,7 @@ title: ComboBox.Column Property (Access)
 keywords: vbaac10.chm11360
 f1_keywords:
 - vbaac10.chm11360
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Column
 ms.assetid: 3b410a44-9055-e2c7-b921-4b364f68041b

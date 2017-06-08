@@ -3,7 +3,7 @@ title: Syntax error in DELETE statement. (Error 3130)
 keywords: jeterr40.chm5003130
 f1_keywords:
 - jeterr40.chm5003130
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a98ec40d-e0b3-4841-cf8d-452c918b70ad
 ms.date: 06/08/2017
 ---

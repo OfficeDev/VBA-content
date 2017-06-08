@@ -3,7 +3,7 @@ title: CustomControl.Updated Event (Access)
 keywords: vbaac10.chm14114
 f1_keywords:
 - vbaac10.chm14114
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Updated
 ms.assetid: 4c7820ba-d712-7ace-483f-8c943eec16f6

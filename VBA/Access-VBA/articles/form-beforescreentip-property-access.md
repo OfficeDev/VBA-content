@@ -3,7 +3,7 @@ title: Form.BeforeScreenTip Property (Access)
 keywords: vbaac10.chm13547,vbaac10.chm5112
 f1_keywords:
 - vbaac10.chm13547,vbaac10.chm5112
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeScreenTip
 ms.assetid: 4829b972-de4e-f8dc-f19c-c6a52c7dd14b

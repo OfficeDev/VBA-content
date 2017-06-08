@@ -3,7 +3,7 @@ title: EmptyCell.HorizontalAnchor Property (Access)
 keywords: vbaac10.chm14324
 f1_keywords:
 - vbaac10.chm14324
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.HorizontalAnchor
 ms.assetid: 3daacb95-68cc-159e-425d-154063c852d4

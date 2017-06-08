@@ -3,7 +3,7 @@ title: AcWebBrowserScrollBars Enumeration (Access)
 keywords: vbaac10.chm14345
 f1_keywords:
 - vbaac10.chm14345
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcWebBrowserScrollBars
 ms.assetid: 656bdfc2-52ab-eeb5-d0e0-ef3d27882a2a

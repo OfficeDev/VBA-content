@@ -3,7 +3,7 @@ title: OptionButton.ValidationText Property (Access)
 keywords: vbaac10.chm10572
 f1_keywords:
 - vbaac10.chm10572
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.ValidationText
 ms.assetid: 4a0a025f-7c86-cd2c-efa3-2786fc31a675

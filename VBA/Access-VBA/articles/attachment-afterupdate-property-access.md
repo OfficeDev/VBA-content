@@ -3,7 +3,7 @@ title: Attachment.AfterUpdate Property (Access)
 keywords: vbaac10.chm13938
 f1_keywords:
 - vbaac10.chm13938
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.AfterUpdate
 ms.assetid: 556fc6d2-3936-5cc7-0c4f-03274f00cfc2

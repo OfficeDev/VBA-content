@@ -3,7 +3,7 @@ title: Control.Parent Property (Access)
 keywords: vbaac10.chm10133
 f1_keywords:
 - vbaac10.chm10133
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Parent
 ms.assetid: e85b37ce-72cd-2326-4f64-6613dde9d2b9

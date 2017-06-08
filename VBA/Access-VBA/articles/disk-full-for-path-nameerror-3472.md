@@ -3,7 +3,7 @@ title: Disk full for path <name>. (Error 3472)
 keywords: jeterr40.chm5003472
 f1_keywords:
 - jeterr40.chm5003472
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2b023a4e-e9a9-88d2-f28d-d71e9e59260a
 ms.date: 06/08/2017
 ---

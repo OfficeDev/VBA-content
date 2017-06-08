@@ -3,7 +3,7 @@ title: Form.PictureAlignment Property (Access)
 keywords: vbaac10.chm13382
 f1_keywords:
 - vbaac10.chm13382
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PictureAlignment
 ms.assetid: 8e6c09ac-9e2e-14b2-c3cf-09be95cd10b8

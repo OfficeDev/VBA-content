@@ -3,7 +3,7 @@ title: Image.DblClick Event (Access)
 keywords: vbaac10.chm14167
 f1_keywords:
 - vbaac10.chm14167
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.DblClick
 ms.assetid: 605ec6dc-0159-a20e-9b02-cfd9d0a23dd1

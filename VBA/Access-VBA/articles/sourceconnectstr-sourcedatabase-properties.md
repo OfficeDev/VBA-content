@@ -3,7 +3,7 @@ title: SourceConnectStr, SourceDatabase Properties
 keywords: vbaac10.chm4548
 f1_keywords:
 - vbaac10.chm4548
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: eed57130-f030-b800-5b1a-92249d6c23a5
 ms.date: 06/08/2017
 ---

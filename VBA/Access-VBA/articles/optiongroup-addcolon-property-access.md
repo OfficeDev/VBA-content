@@ -3,7 +3,7 @@ title: OptionGroup.AddColon Property (Access)
 keywords: vbaac10.chm10853
 f1_keywords:
 - vbaac10.chm10853
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.AddColon
 ms.assetid: 2c40b39b-2c57-e719-78ed-e28080f78fd8

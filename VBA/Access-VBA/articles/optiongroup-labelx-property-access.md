@@ -3,7 +3,7 @@ title: OptionGroup.LabelX Property (Access)
 keywords: vbaac10.chm10854
 f1_keywords:
 - vbaac10.chm10854
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.LabelX
 ms.assetid: 2fe79f1a-fd28-32e6-3d22-c0187e1818a4

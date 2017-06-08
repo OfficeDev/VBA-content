@@ -3,7 +3,7 @@ title: NavigationButton.ThemeFontIndex Property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.ThemeFontIndex
 ms.assetid: fb9dab70-239b-f5c9-a160-f2ce23678598

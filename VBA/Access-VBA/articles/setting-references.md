@@ -1,6 +1,6 @@
 ---
 title: Setting References
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f0764db8-4680-4999-9601-3e409a3c9ebb
 ms.date: 06/08/2017
 ---

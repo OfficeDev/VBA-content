@@ -3,7 +3,7 @@ title: ImportExportSpecification.Description Property (Access)
 keywords: vbaac10.chm13334
 f1_keywords:
 - vbaac10.chm13334
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ImportExportSpecification.Description
 ms.assetid: fa6f45a9-7358-3baa-12ad-e9ca46dd2104

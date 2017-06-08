@@ -3,7 +3,7 @@ title: Record in table <name> was deleted by another user. (Error 3329)
 keywords: jeterr40.chm5003329
 f1_keywords:
 - jeterr40.chm5003329
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f57005f4-01b8-98d2-9082-dd3dc23965a9
 ms.date: 06/08/2017
 ---

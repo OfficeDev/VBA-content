@@ -3,7 +3,7 @@ title: BoundObjectFrame.SpecialEffect Property (Access)
 keywords: vbaac10.chm10933
 f1_keywords:
 - vbaac10.chm10933
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SpecialEffect
 ms.assetid: 29bcf6e1-880a-9e32-840f-75a54bed18ab

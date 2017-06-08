@@ -3,7 +3,7 @@ title: WebBrowserControl.MouseUp Event (Access)
 keywords: vbaac10.chm143136
 f1_keywords:
 - vbaac10.chm143136
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.MouseUp
 ms.assetid: 8446770d-c347-3389-aefa-431d9387d06f

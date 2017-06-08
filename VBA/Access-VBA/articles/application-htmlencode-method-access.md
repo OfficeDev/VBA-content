@@ -3,7 +3,7 @@ title: Application.HtmlEncode Method (Access)
 keywords: vbaac10.chm12614
 f1_keywords:
 - vbaac10.chm12614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.HtmlEncode
 ms.assetid: 294a99f1-9b26-c9ee-0560-8bd54287ebb7

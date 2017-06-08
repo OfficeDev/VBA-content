@@ -3,7 +3,7 @@ title: WebBrowserControl.TopPadding Property (Access)
 keywords: vbaac10.chm14391
 f1_keywords:
 - vbaac10.chm14391
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.TopPadding
 ms.assetid: f6030eab-cb34-09b8-0015-a1b2febcaa22

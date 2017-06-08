@@ -3,7 +3,7 @@ title: TabControl.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BorderTint
 ms.assetid: 176770ab-59e5-0dde-c968-4f68c0d87cca

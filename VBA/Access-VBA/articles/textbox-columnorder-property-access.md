@@ -3,7 +3,7 @@ title: TextBox.ColumnOrder Property (Access)
 keywords: vbaac10.chm11096
 f1_keywords:
 - vbaac10.chm11096
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.ColumnOrder
 ms.assetid: b5b271bc-5b3c-9b2c-ec87-524be29597d0

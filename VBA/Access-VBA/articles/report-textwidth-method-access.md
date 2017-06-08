@@ -3,7 +3,7 @@ title: Report.TextWidth Method (Access)
 keywords: vbaac10.chm13786
 f1_keywords:
 - vbaac10.chm13786
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.TextWidth
 ms.assetid: 98827373-8610-5e48-ab46-2c89f8e2d2a7

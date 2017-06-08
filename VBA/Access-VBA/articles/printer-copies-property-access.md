@@ -3,7 +3,7 @@ title: Printer.Copies Property (Access)
 keywords: vbaac10.chm12858
 f1_keywords:
 - vbaac10.chm12858
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.Copies
 ms.assetid: 49d9387c-1714-5dbd-a349-6d7c2ce46ab9

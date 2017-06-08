@@ -3,7 +3,7 @@ title: ComboBox.ReadingOrder Property (Access)
 keywords: vbaac10.chm11463
 f1_keywords:
 - vbaac10.chm11463
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ReadingOrder
 ms.assetid: 83989cec-fcab-0b83-5b5a-5dedc1a77aea

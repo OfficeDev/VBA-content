@@ -3,7 +3,7 @@ title: Unknown or invalid field reference <name>. (Error 3345)
 keywords: jeterr40.chm5003345
 f1_keywords:
 - jeterr40.chm5003345
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8162636b-eb3d-ae58-a3a8-7b493b919d51
 ms.date: 06/08/2017
 ---

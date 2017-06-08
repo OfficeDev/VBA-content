@@ -1,6 +1,6 @@
 ---
 title: Read From and Write To a Field in a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4fe0c334-9c44-773c-7aed-182b042213a7
 ms.date: 06/08/2017
 ---

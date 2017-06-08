@@ -3,7 +3,7 @@ title: Form.DatasheetFontHeight Property (Access)
 keywords: vbaac10.chm13397
 f1_keywords:
 - vbaac10.chm13397
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetFontHeight
 ms.assetid: 5cfcf818-eda0-f7ec-f224-ee52ae7d39c9

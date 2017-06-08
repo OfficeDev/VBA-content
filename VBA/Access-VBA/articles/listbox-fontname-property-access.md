@@ -3,7 +3,7 @@ title: ListBox.FontName Property (Access)
 keywords: vbaac10.chm11253
 f1_keywords:
 - vbaac10.chm11253
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.FontName
 ms.assetid: 9bcab0c1-7a13-2b1a-91c1-56f784451bdf

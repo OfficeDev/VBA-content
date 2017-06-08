@@ -3,7 +3,7 @@ title: TextBox.MouseDown Event (Access)
 keywords: vbaac10.chm14203
 f1_keywords:
 - vbaac10.chm14203
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.MouseDown
 ms.assetid: ae184752-4c7f-3d79-5b3a-08407225f9d9

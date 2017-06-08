@@ -3,7 +3,7 @@ title: SubForm.TabStop Property (Access)
 keywords: vbaac10.chm11934
 f1_keywords:
 - vbaac10.chm11934
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.TabStop
 ms.assetid: 1b357da0-274d-266d-6cf1-cd96ec2f1b57

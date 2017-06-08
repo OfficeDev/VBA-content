@@ -3,7 +3,7 @@ title: Report.RibbonName Property (Access)
 keywords: vbaac10.chm13875
 f1_keywords:
 - vbaac10.chm13875
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.RibbonName
 ms.assetid: 598dc161-1d90-8339-a214-95d6e9d6396a

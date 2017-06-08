@@ -3,7 +3,7 @@ title: Cannot append a Field that is already a part of a Fields collection. (Err
 keywords: jeterr40.chm5003226
 f1_keywords:
 - jeterr40.chm5003226
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8e74089b-bfc2-1d44-6ad7-900c97eae0aa
 ms.date: 06/08/2017
 ---

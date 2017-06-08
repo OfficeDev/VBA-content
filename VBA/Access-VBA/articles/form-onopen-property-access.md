@@ -3,7 +3,7 @@ title: Form.OnOpen Property (Access)
 keywords: vbaac10.chm13440
 f1_keywords:
 - vbaac10.chm13440
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnOpen
 ms.assetid: 151b9103-a25d-a595-6cab-20b737909fa6

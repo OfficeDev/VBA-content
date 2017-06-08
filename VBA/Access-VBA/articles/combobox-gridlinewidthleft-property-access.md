@@ -3,7 +3,7 @@ title: ComboBox.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11489
 f1_keywords:
 - vbaac10.chm11489
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.GridlineWidthLeft
 ms.assetid: cbcc62ab-90f1-64ed-161f-fba7b465d148

@@ -3,7 +3,7 @@ title: The database engine does not recognize either the field <name> in a valid
 keywords: jeterr40.chm5003344
 f1_keywords:
 - jeterr40.chm5003344
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 044f5acf-3bfe-7e89-f0cd-9d8c45655348
 ms.date: 06/08/2017
 ---

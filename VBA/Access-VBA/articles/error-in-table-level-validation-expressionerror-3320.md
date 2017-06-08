@@ -3,7 +3,7 @@ title: <Error> in table-level validation expression. (Error 3320)
 keywords: jeterr40.chm5003320
 f1_keywords:
 - jeterr40.chm5003320
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 18f5dcf0-7618-ae8b-b880-eb80280c64c9
 ms.date: 06/08/2017
 ---

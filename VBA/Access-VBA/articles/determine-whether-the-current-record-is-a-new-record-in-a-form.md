@@ -1,6 +1,6 @@
 ---
 title: Determine Whether The Current Record is a New Record In a Form
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 04aa27cd-b6b1-1397-c177-bac939780492
 ms.date: 06/08/2017
 ---

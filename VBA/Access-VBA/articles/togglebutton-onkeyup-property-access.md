@@ -3,7 +3,7 @@ title: ToggleButton.OnKeyUp Property (Access)
 keywords: vbaac10.chm11759
 f1_keywords:
 - vbaac10.chm11759
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnKeyUp
 ms.assetid: a932ab8a-3b48-8aa3-5ee4-97593b4394a4

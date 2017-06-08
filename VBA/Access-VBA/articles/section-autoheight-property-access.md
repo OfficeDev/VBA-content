@@ -3,7 +3,7 @@ title: Section.AutoHeight Property (Access)
 keywords: vbaac10.chm12217,vbaac10.chm5655
 f1_keywords:
 - vbaac10.chm12217,vbaac10.chm5655
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.AutoHeight
 ms.assetid: e3398f5c-cf1c-1d3e-1a70-8233adbb0c85

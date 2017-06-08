@@ -3,7 +3,7 @@ title: Attachment.RightPadding Property (Access)
 keywords: vbaac10.chm13990
 f1_keywords:
 - vbaac10.chm13990
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.RightPadding
 ms.assetid: ade6bde4-ebea-36af-f0ad-f071260dbf00

@@ -3,7 +3,7 @@ title: AccessObjectProperties Object (Access)
 keywords: vbaac10.chm12698
 f1_keywords:
 - vbaac10.chm12698
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObjectProperties
 ms.assetid: 2df86891-6038-d147-2a32-f1c77b841067

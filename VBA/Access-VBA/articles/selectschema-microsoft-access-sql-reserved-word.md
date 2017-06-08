@@ -3,7 +3,7 @@ title: SELECTSCHEMA (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277491
 f1_keywords:
 - jetsql40.chm5277491
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 30cae093-ab23-45b1-d9a7-bd2148950c62
 ms.date: 06/08/2017
 ---

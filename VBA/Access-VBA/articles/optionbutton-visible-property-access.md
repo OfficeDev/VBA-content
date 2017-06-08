@@ -3,7 +3,7 @@ title: OptionButton.Visible Property (Access)
 keywords: vbaac10.chm10574
 f1_keywords:
 - vbaac10.chm10574
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Visible
 ms.assetid: f5481b70-82a3-d2ee-d886-e952a091a9fe

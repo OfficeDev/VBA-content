@@ -3,7 +3,7 @@ title: OptionGroup.SpecialEffect Property (Access)
 keywords: vbaac10.chm10840
 f1_keywords:
 - vbaac10.chm10840
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.SpecialEffect
 ms.assetid: 6d286cb3-193b-34d3-5335-c10564165af3

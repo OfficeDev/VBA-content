@@ -3,7 +3,7 @@ title: WSParameter.Type Property (Access)
 keywords: vbaac10.chm12747
 f1_keywords:
 - vbaac10.chm12747
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WSParameter.Type
 ms.assetid: c3ab559c-f364-63c4-df45-d48dfe569f08

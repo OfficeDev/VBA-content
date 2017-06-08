@@ -3,7 +3,7 @@ title: Printer Object (Access)
 keywords: vbaac10.chm12880
 f1_keywords:
 - vbaac10.chm12880
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer
 ms.assetid: fba3eb15-db93-943a-421c-291761e7fa2b

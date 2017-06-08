@@ -3,7 +3,7 @@ title: ObjectFrame.Width Property (Access)
 keywords: vbaac10.chm11590
 f1_keywords:
 - vbaac10.chm11590
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Width
 ms.assetid: 7a42f8ef-6c69-1fa8-d326-95f1aab8880a

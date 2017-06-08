@@ -3,7 +3,7 @@ title: Page.MouseMove Event (Access)
 keywords: vbaac10.chm14282
 f1_keywords:
 - vbaac10.chm14282
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.MouseMove
 ms.assetid: a0300ad3-8cff-855b-fbc6-0dae054e9e76

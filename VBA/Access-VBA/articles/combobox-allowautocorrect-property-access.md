@@ -3,7 +3,7 @@ title: ComboBox.AllowAutoCorrect Property (Access)
 keywords: vbaac10.chm11397
 f1_keywords:
 - vbaac10.chm11397
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.AllowAutoCorrect
 ms.assetid: ebf48367-20fb-14be-7082-a2d9de923c51

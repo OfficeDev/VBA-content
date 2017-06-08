@@ -3,7 +3,7 @@ title: BoundObjectFrame.Application Property (Access)
 keywords: vbaac10.chm10896
 f1_keywords:
 - vbaac10.chm10896
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Application
 ms.assetid: 05b5b479-fe8b-6d03-b8de-59afa7a587b9

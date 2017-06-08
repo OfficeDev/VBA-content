@@ -3,7 +3,7 @@ title: CommandButton.OnPush Property (Access)
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnPush
 ms.assetid: 38fab0d1-495e-9053-5e24-932ae0d8bdce

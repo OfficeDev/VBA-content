@@ -3,7 +3,7 @@ title: CustomControl.Section Property (Access)
 keywords: vbaac10.chm12032
 f1_keywords:
 - vbaac10.chm12032
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Section
 ms.assetid: 6969ee7c-8fdb-6e8b-1bc7-b08424a14df9

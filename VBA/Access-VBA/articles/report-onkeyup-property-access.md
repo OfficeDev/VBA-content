@@ -3,7 +3,7 @@ title: Report.OnKeyUp Property (Access)
 keywords: vbaac10.chm13867
 f1_keywords:
 - vbaac10.chm13867
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnKeyUp
 ms.assetid: a31122bb-3f5a-4021-a2b5-16487aa0ce7c

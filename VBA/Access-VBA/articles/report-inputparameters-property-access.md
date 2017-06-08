@@ -3,7 +3,7 @@ title: Report.InputParameters Property (Access)
 keywords: vbaac10.chm13777
 f1_keywords:
 - vbaac10.chm13777
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.InputParameters
 ms.assetid: c544db38-9d31-42ff-3fb7-98a79d9d2fc2

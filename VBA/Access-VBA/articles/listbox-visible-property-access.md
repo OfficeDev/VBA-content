@@ -3,7 +3,7 @@ title: ListBox.Visible Property (Access)
 keywords: vbaac10.chm11233
 f1_keywords:
 - vbaac10.chm11233
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Visible
 ms.assetid: 76361c20-b6b4-6d75-e732-2e63b2c8485e

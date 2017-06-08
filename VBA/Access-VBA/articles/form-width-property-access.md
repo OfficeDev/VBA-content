@@ -3,7 +3,7 @@ title: Form.Width Property (Access)
 keywords: vbaac10.chm13378
 f1_keywords:
 - vbaac10.chm13378
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Width
 ms.assetid: 3f417a95-16a7-fdfa-8661-e71992c757cc

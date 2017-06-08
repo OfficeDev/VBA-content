@@ -3,7 +3,7 @@ title: BoundObjectFrame.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14090
 f1_keywords:
 - vbaac10.chm14090
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BeforeUpdate
 ms.assetid: 4da166d5-1c6e-293c-c458-21817ffd78b9

@@ -3,7 +3,7 @@ title: Printer.PaperBin Property (Access)
 keywords: vbaac10.chm12863
 f1_keywords:
 - vbaac10.chm12863
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.PaperBin
 ms.assetid: d3e33714-0aa5-aa9e-2b66-86afca3b38ee

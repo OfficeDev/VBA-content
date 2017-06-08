@@ -3,7 +3,7 @@ title: Line.Parent Property (Access)
 keywords: vbaac10.chm10323
 f1_keywords:
 - vbaac10.chm10323
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.Parent
 ms.assetid: fa253611-b5ec-3e73-a5d7-268bf3841f89

@@ -3,7 +3,7 @@ title: ListBox.BorderColor Property (Access)
 keywords: vbaac10.chm11251
 f1_keywords:
 - vbaac10.chm11251
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BorderColor
 ms.assetid: 552b81f2-a811-7582-4e60-0c4903da7a9b

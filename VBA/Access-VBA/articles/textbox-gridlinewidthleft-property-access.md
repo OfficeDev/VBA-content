@@ -3,7 +3,7 @@ title: TextBox.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11160
 f1_keywords:
 - vbaac10.chm11160
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineWidthLeft
 ms.assetid: 0794df4f-88e2-5c75-13ba-88bbb8d7eb40

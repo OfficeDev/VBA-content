@@ -3,7 +3,7 @@ title: Page.SizeToFit Method (Access)
 keywords: vbaac10.chm12141
 f1_keywords:
 - vbaac10.chm12141
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.SizeToFit
 ms.assetid: cbf20db6-e729-f8af-e221-1e4e26ef1395

@@ -3,7 +3,7 @@ title: CustomControl.Requery Method (Access)
 keywords: vbaac10.chm12002
 f1_keywords:
 - vbaac10.chm12002
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Requery
 ms.assetid: 0055d270-ce36-40da-4eaf-7851da6d5dec

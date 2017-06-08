@@ -3,7 +3,7 @@ title: Text file specification field separator matches decimal separator or text
 keywords: jeterr40.chm5003441
 f1_keywords:
 - jeterr40.chm5003441
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e549cc11-6e6a-0aee-570f-86a3da806e01
 ms.date: 06/08/2017
 ---

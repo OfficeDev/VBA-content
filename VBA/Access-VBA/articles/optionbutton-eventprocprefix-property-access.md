@@ -3,7 +3,7 @@ title: OptionButton.EventProcPrefix Property (Access)
 keywords: vbaac10.chm10565
 f1_keywords:
 - vbaac10.chm10565
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.EventProcPrefix
 ms.assetid: 95896310-8723-de8f-dec9-51fded5227bb

@@ -3,7 +3,7 @@ title: An attempt was made to import or link an empty text file. To import or li
 keywords: jeterr40.chm5003440
 f1_keywords:
 - jeterr40.chm5003440
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: df54c8a2-8302-d14d-77be-4504752cbbe4
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OptionGroup.Enabled Property (Access)
 keywords: vbaac10.chm10829
 f1_keywords:
 - vbaac10.chm10829
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Enabled
 ms.assetid: 7c8a10cc-6277-778c-e7c2-c8274019e3ad

@@ -3,7 +3,7 @@ title: WebBrowserControl.ProgressChange Event (Access)
 keywords: vbaac10.chm143142
 f1_keywords:
 - vbaac10.chm143142
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.ProgressChange
 ms.assetid: 1a021887-6f0c-236a-2228-90a339407689

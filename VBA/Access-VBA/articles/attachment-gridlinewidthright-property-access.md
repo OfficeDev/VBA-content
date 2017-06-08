@@ -3,7 +3,7 @@ title: Attachment.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm13998
 f1_keywords:
 - vbaac10.chm13998
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.GridlineWidthRight
 ms.assetid: 743ab25e-44ae-b5d1-7c7b-4f31a91a8f17

@@ -3,7 +3,7 @@ title: AcOutputObjectType Enumeration (Access)
 keywords: vbaac10.chm10022
 f1_keywords:
 - vbaac10.chm10022
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcOutputObjectType
 ms.assetid: 07352409-f01a-84d0-495d-87c318223e5c

@@ -3,7 +3,7 @@ title: OptionButton.LeftPadding Property (Access)
 keywords: vbaac10.chm10641
 f1_keywords:
 - vbaac10.chm10641
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.LeftPadding
 ms.assetid: 5e60f737-5cc7-97e9-af4a-b8f065a5277b

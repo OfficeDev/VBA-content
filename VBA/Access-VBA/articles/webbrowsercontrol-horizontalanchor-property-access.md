@@ -3,7 +3,7 @@ title: WebBrowserControl.HorizontalAnchor Property (Access)
 keywords: vbaac10.chm14402
 f1_keywords:
 - vbaac10.chm14402
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.HorizontalAnchor
 ms.assetid: 42f1b968-5b61-2d17-85f8-a354db3d8e51

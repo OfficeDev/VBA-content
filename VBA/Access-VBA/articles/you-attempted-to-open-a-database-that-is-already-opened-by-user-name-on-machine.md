@@ -3,7 +3,7 @@ title: You attempted to open a database that is already opened by user <name> on
 keywords: jeterr40.chm5003704
 f1_keywords:
 - jeterr40.chm5003704
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fca835ec-a048-97ae-69d2-287032c700e3
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: The number of columns in the two selected tables or queries of a union qu
 keywords: jeterr40.chm5003307
 f1_keywords:
 - jeterr40.chm5003307
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fd745328-831b-c72e-b4b1-b80e34f5a838
 ms.date: 06/08/2017
 ---

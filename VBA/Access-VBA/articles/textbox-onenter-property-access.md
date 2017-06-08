@@ -3,7 +3,7 @@ title: TextBox.OnEnter Property (Access)
 keywords: vbaac10.chm11118
 f1_keywords:
 - vbaac10.chm11118
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnEnter
 ms.assetid: d8f7aa7f-5222-ec0e-7be9-4022f5e697af

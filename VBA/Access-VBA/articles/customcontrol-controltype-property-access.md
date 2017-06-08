@@ -3,7 +3,7 @@ title: CustomControl.ControlType Property (Access)
 keywords: vbaac10.chm12008
 f1_keywords:
 - vbaac10.chm12008
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.ControlType
 ms.assetid: 9160eff6-cf44-d0fb-0ff0-436a6d62b1c6

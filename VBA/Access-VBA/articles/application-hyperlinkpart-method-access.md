@@ -3,7 +3,7 @@ title: Application.HyperlinkPart Method (Access)
 keywords: vbaac10.chm12569
 f1_keywords:
 - vbaac10.chm12569
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.HyperlinkPart
 ms.assetid: 011665ea-c650-fab3-a736-f26a3de1b65e

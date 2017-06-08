@@ -3,7 +3,7 @@ title: Cannot execute data definition statements on linked data sources. (Error 
 keywords: jeterr40.chm5003611
 f1_keywords:
 - jeterr40.chm5003611
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e8b88f8d-8ae9-6880-687a-84fbec9469b5
 ms.date: 06/08/2017
 ---

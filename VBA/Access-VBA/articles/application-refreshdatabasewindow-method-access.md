@@ -3,7 +3,7 @@ title: Application.RefreshDatabaseWindow Method (Access)
 keywords: vbaac10.chm12563
 f1_keywords:
 - vbaac10.chm12563
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.RefreshDatabaseWindow
 ms.assetid: 63825d35-b24e-ae68-3214-5727dc97eb79

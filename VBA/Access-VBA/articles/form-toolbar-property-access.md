@@ -3,7 +3,7 @@ title: Form.Toolbar Property (Access)
 keywords: vbaac10.chm13386
 f1_keywords:
 - vbaac10.chm13386
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Toolbar
 ms.assetid: a004200c-5404-c3ba-f00d-591c0f0a545d

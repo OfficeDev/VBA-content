@@ -3,7 +3,7 @@ title: MacroError.ActionName Property (Access)
 keywords: vbaac10.chm14047
 f1_keywords:
 - vbaac10.chm14047
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ActionName
 ms.assetid: 1ccb5787-8bc3-2576-6bcf-154273fa4cc0

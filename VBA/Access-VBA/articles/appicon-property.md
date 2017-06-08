@@ -3,7 +3,7 @@ title: AppIcon Property
 keywords: vbaac10.chm10110
 f1_keywords:
 - vbaac10.chm10110
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AppIcon
 ms.assetid: e322784a-39f4-0055-c15e-5051a382c68e

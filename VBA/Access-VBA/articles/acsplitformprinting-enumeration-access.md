@@ -3,7 +3,7 @@ title: AcSplitFormPrinting Enumeration (Access)
 keywords: vbaac10.chm14037
 f1_keywords:
 - vbaac10.chm14037
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSplitFormPrinting
 ms.assetid: 9c674eed-2b8b-10fc-c270-b908c99fd474

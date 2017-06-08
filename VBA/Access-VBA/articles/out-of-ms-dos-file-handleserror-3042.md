@@ -3,7 +3,7 @@ title: Out of MS-DOS file handles. (Error 3042)
 keywords: jeterr40.chm5003042
 f1_keywords:
 - jeterr40.chm5003042
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 03f53859-f944-b5c4-5b3d-e39e240c3120
 ms.date: 06/08/2017
 ---

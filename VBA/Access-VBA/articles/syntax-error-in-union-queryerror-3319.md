@@ -3,7 +3,7 @@ title: Syntax error in union query. (Error 3319)
 keywords: jeterr40.chm5003319
 f1_keywords:
 - jeterr40.chm5003319
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b2682401-d42b-26a9-9754-f7482787f241
 ms.date: 06/08/2017
 ---

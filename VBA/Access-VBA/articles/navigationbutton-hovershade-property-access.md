@@ -3,7 +3,7 @@ title: NavigationButton.HoverShade Property (Access)
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.HoverShade
 ms.assetid: ac2c1525-0b58-a003-5c18-0b80da574219

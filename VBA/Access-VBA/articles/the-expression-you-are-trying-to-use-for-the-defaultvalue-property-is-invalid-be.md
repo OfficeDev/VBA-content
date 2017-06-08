@@ -3,7 +3,7 @@ title: The expression you are trying to use for the DefaultValue property is inv
 keywords: jeterr40.chm5003406
 f1_keywords:
 - jeterr40.chm5003406
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bd52ec1f-58e7-59ef-3029-f197c3aa5b10
 ms.date: 06/08/2017
 ---

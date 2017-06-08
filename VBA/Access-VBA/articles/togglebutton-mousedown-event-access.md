@@ -3,7 +3,7 @@ title: ToggleButton.MouseDown Event (Access)
 keywords: vbaac10.chm14155
 f1_keywords:
 - vbaac10.chm14155
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.MouseDown
 ms.assetid: 4bcb1d42-9ef4-ff05-cf31-36459b75a668

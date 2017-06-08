@@ -3,7 +3,7 @@ title: TextBox.FontWeight Property (Access)
 keywords: vbaac10.chm11086
 f1_keywords:
 - vbaac10.chm11086
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.FontWeight
 ms.assetid: 4dbf8092-c09c-c6ec-9476-20af2e9cf051

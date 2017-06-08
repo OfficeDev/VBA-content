@@ -3,7 +3,7 @@ title: 5 Database Engine Driver (2 of 2)
 keywords: acmain11.chm1032162
 f1_keywords:
 - acmain11.chm1032162
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4d72622b-b956-4dd2-64cf-c0b17da0196e
 ms.date: 06/08/2017
 ---

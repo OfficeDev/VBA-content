@@ -3,7 +3,7 @@ title: Color Builder
 keywords: vbaac10.chm5186613
 f1_keywords:
 - vbaac10.chm5186613
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3d4f2cc1-adb9-19bd-600b-2e267ddaea6e
 ms.date: 06/08/2017
 ---

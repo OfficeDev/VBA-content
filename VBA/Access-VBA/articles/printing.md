@@ -1,6 +1,6 @@
 ---
 title: Printing
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 509ae42e-749e-4052-a30a-2bb0493119e9
 ms.date: 06/08/2017
 ---

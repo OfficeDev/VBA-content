@@ -3,7 +3,7 @@ title: Syntax error (missing operator). (Error 2431)
 keywords: jeterr40.chm5002431
 f1_keywords:
 - jeterr40.chm5002431
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6e982afc-e58f-f613-669d-e54decf7d396
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: ConnectionEvents (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f69253dc-5997-8e2c-fdce-2aa76f841f98
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Form.OnInsert Property (Access)
 keywords: vbaac10.chm13431
 f1_keywords:
 - vbaac10.chm13431
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnInsert
 ms.assetid: 26c0ceb7-f345-2ca8-eb0c-744c60cf5340

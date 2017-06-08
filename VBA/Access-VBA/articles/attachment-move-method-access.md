@@ -3,7 +3,7 @@ title: Attachment.Move Method (Access)
 keywords: vbaac10.chm13976
 f1_keywords:
 - vbaac10.chm13976
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Move
 ms.assetid: cd807ce2-79b8-0873-c035-7927bc91967d

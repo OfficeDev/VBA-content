@@ -3,7 +3,7 @@ title: NavigationButton.PressedShade Property (Access)
 keywords: vbaac10.chm14622
 f1_keywords:
 - vbaac10.chm14622
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.PressedShade
 ms.assetid: f595839b-cbd8-4dd3-baa1-49db6a9c58ca

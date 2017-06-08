@@ -3,7 +3,7 @@ title: An asynchronous OpenConnection call is not yet complete. (Error 3664)
 keywords: jeterr40.chm5003664
 f1_keywords:
 - jeterr40.chm5003664
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 20532db7-02b7-5f71-9108-2d8ce5fd8d54
 ms.date: 06/08/2017
 ---

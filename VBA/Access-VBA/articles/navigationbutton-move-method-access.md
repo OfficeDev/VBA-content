@@ -3,7 +3,7 @@ title: NavigationButton.Move Method (Access)
 keywords: vbaac10.chm10507
 f1_keywords:
 - vbaac10.chm10507
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Move
 ms.assetid: c5c1d841-9f1c-4aac-ec27-01257b397c4a

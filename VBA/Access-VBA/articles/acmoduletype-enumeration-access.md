@@ -3,7 +3,7 @@ title: AcModuleType Enumeration (Access)
 keywords: vbaac10.chm10007
 f1_keywords:
 - vbaac10.chm10007
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcModuleType
 ms.assetid: 88c660e0-fd85-723c-a54f-dc982a5a6518

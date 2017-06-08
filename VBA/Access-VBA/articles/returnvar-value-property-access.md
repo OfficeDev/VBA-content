@@ -3,7 +3,7 @@ title: ReturnVar.Value Property (Access)
 keywords: vbaac10.chm14690
 f1_keywords:
 - vbaac10.chm14690
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ReturnVar.Value
 ms.assetid: 5602ca62-5fef-4a0d-a092-87edbe5f4749

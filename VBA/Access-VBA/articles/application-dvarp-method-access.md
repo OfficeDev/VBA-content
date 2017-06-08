@@ -3,7 +3,7 @@ title: Application.DVarP Method (Access)
 keywords: vbaac10.chm12532
 f1_keywords:
 - vbaac10.chm12532
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DVarP
 ms.assetid: 99a2d948-0f38-85fa-6f68-5568262595ae

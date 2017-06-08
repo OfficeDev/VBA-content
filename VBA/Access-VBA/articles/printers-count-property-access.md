@@ -3,7 +3,7 @@ title: Printers.Count Property (Access)
 keywords: vbaac10.chm12885
 f1_keywords:
 - vbaac10.chm12885
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printers.Count
 ms.assetid: d9b60560-200f-9e44-4ec0-3becd14df560

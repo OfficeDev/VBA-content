@@ -1,6 +1,6 @@
 ---
 title: Invalid use of '.', '!', or '()'. (Error 2447)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8c1ed56b-460a-99f8-638a-f4d6061f7d4b
 ms.date: 06/08/2017
 ---

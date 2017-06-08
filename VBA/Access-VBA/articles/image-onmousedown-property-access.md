@@ -3,7 +3,7 @@ title: Image.OnMouseDown Property (Access)
 keywords: vbaac10.chm10396
 f1_keywords:
 - vbaac10.chm10396
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.OnMouseDown
 ms.assetid: d9c4128e-0a52-698c-a605-cbf31e183e2c

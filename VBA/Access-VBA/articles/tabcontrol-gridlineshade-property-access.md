@@ -3,7 +3,7 @@ title: TabControl.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineShade
 ms.assetid: fee68e1f-2a0a-cdd4-1270-08df1c751c4b

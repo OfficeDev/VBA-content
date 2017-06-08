@@ -3,7 +3,7 @@ title: ComboBox.Recordset Property (Access)
 keywords: vbaac10.chm11475
 f1_keywords:
 - vbaac10.chm11475
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Recordset
 ms.assetid: 6985fa39-de4c-3c5b-175b-d156f2730836

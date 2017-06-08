@@ -3,7 +3,7 @@ title: DoCmd.SetProperty Method (Access)
 keywords: vbaac10.chm5775
 f1_keywords:
 - vbaac10.chm5775
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SetProperty
 ms.assetid: 32347eb6-115d-36c5-4c18-eab7e7422b78

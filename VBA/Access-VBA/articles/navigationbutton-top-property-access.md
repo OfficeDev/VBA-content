@@ -3,7 +3,7 @@ title: NavigationButton.Top Property (Access)
 keywords: vbaac10.chm10468
 f1_keywords:
 - vbaac10.chm10468
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Top
 ms.assetid: 7bce7df5-2c37-ac6e-9788-f6a5a0d26940

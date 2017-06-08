@@ -3,7 +3,7 @@ title: Page.ControlTipText Property (Access)
 keywords: vbaac10.chm12160
 f1_keywords:
 - vbaac10.chm12160
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.ControlTipText
 ms.assetid: 9903da60-7af6-c257-6eeb-ff2e77ac96e0

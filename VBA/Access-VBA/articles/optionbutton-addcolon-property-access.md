@@ -3,7 +3,7 @@ title: OptionButton.AddColon Property (Access)
 keywords: vbaac10.chm10599
 f1_keywords:
 - vbaac10.chm10599
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.AddColon
 ms.assetid: c5908dac-412f-c779-56d3-3b75c790c17f

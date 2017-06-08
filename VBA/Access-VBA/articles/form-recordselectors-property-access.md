@@ -3,7 +3,7 @@ title: Form.RecordSelectors Property (Access)
 keywords: vbaac10.chm13364
 f1_keywords:
 - vbaac10.chm13364
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.RecordSelectors
 ms.assetid: 7700f0c5-621f-5145-57be-777d53228379

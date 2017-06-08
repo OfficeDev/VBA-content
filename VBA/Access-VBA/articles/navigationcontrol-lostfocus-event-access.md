@@ -3,7 +3,7 @@ title: NavigationControl.LostFocus Event (Access)
 keywords: vbaac10.chm14200
 f1_keywords:
 - vbaac10.chm14200
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.LostFocus
 ms.assetid: 6098212b-fd3b-0868-1112-9f52ae886e7e

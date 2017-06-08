@@ -3,7 +3,7 @@ title: AllTables.Count Property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllTables.Count
 ms.assetid: f89a096e-e88c-ffcf-430b-8736c60d5bb9

@@ -3,7 +3,7 @@ title: Hyperlink.AddToFavorites Method (Access)
 keywords: vbaac10.chm10116
 f1_keywords:
 - vbaac10.chm10116
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink.AddToFavorites
 ms.assetid: 42c92d93-68a1-a5b9-8517-e9257100434e

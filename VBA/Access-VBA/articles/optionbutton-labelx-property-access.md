@@ -3,7 +3,7 @@ title: OptionButton.LabelX Property (Access)
 keywords: vbaac10.chm10600
 f1_keywords:
 - vbaac10.chm10600
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.LabelX
 ms.assetid: 432534bb-9c5b-6a07-0509-97c967c04cf0

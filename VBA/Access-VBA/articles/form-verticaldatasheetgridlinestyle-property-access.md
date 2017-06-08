@@ -3,7 +3,7 @@ title: Form.VerticalDatasheetGridlineStyle Property (Access)
 keywords: vbaac10.chm13515
 f1_keywords:
 - vbaac10.chm13515
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.VerticalDatasheetGridlineStyle
 ms.assetid: b0174311-f03b-aa6a-b15a-697f6be1b2ac

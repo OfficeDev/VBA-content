@@ -3,7 +3,7 @@ title: AcImeSentenceMode Enumeration (Access)
 keywords: vbaac10.chm10034
 f1_keywords:
 - vbaac10.chm10034
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcImeSentenceMode
 ms.assetid: 3982d28a-7a28-5f4d-97ea-94eb483fe65c

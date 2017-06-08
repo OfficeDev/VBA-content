@@ -3,7 +3,7 @@ title: CheckBox.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.BorderTint
 ms.assetid: 57e00b53-89eb-3cee-a075-9eb3c9ab60ee

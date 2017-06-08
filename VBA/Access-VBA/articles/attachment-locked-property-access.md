@@ -3,7 +3,7 @@ title: Attachment.Locked Property (Access)
 keywords: vbaac10.chm14016
 f1_keywords:
 - vbaac10.chm14016
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Locked
 ms.assetid: d35da857-2f8a-9d7f-19d2-6d7fbe029c76

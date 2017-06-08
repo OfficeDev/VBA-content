@@ -1,6 +1,6 @@
 ---
 title: FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties and Reset Method Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bc22a6c4-b9d4-ad38-d802-4790ff3262a6
 ms.date: 06/08/2017
 ---

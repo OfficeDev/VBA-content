@@ -1,6 +1,6 @@
 ---
 title: Sort Data in a DAO Recordset
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 900b0b00-34f5-dba6-5386-34360cee95a0
 ms.date: 06/08/2017
 ---

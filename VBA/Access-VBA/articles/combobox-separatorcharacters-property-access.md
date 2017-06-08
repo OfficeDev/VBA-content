@@ -3,7 +3,7 @@ title: ComboBox.SeparatorCharacters Property (Access)
 keywords: vbaac10.chm11498
 f1_keywords:
 - vbaac10.chm11498
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.SeparatorCharacters
 ms.assetid: 7a91ecdf-35e0-d32c-7355-7656d9ed7ad1

@@ -3,7 +3,7 @@ title: OptionGroup.Left Property (Access)
 keywords: vbaac10.chm10834
 f1_keywords:
 - vbaac10.chm10834
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Left
 ms.assetid: da310fc7-9fb7-fddf-9cb7-a6e2a7be0bc6

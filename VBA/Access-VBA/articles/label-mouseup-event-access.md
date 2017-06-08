@@ -3,7 +3,7 @@ title: Label.MouseUp Event (Access)
 keywords: vbaac10.chm14288
 f1_keywords:
 - vbaac10.chm14288
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.MouseUp
 ms.assetid: da68ccbf-8b14-e605-552d-2e515b5793a3

@@ -3,7 +3,7 @@ title: NavigationButton.QuickStyle Property (Access)
 keywords: vbaac10.chm14646
 f1_keywords:
 - vbaac10.chm14646
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.QuickStyle
 ms.assetid: a676c9e1-71f7-c93e-dfb4-8ab2c513893a

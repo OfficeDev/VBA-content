@@ -3,7 +3,7 @@ title: BoundObjectFrame.SizeMode Property (Access)
 keywords: vbaac10.chm10911
 f1_keywords:
 - vbaac10.chm10911
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SizeMode
 ms.assetid: 2c44b16f-cb04-8e45-2a67-7424342f48de

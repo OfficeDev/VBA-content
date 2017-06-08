@@ -3,7 +3,7 @@ title: Requested exchange failed because <description>. (Error 3660)
 keywords: jeterr40.chm5003660
 f1_keywords:
 - jeterr40.chm5003660
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ff56c1cd-14ac-5759-3ed6-7101a1887179
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: FormatCondition.Operator Property (Access)
 keywords: vbaac10.chm10059
 f1_keywords:
 - vbaac10.chm10059
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.Operator
 ms.assetid: 43b3ead5-110b-e746-b1ef-24e0bddb6c81

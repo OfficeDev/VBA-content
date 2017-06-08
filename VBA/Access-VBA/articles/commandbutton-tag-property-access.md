@@ -3,7 +3,7 @@ title: CommandButton.Tag Property (Access)
 keywords: vbaac10.chm10489
 f1_keywords:
 - vbaac10.chm10489
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Tag
 ms.assetid: 5099e435-8957-e54c-9c6c-bc6b063cfe66

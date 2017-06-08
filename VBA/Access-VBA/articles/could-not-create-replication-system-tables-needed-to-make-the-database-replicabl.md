@@ -3,7 +3,7 @@ title: Could not create replication system tables needed to make the database re
 keywords: jeterr40.chm5003579
 f1_keywords:
 - jeterr40.chm5003579
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1edd477b-1321-26ee-c461-218338d1be06
 ms.date: 06/08/2017
 ---

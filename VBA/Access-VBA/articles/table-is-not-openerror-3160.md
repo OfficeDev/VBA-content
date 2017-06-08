@@ -3,7 +3,7 @@ title: Table is not open. (Error 3160)
 keywords: jeterr40.chm5003160
 f1_keywords:
 - jeterr40.chm5003160
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e4a94bc0-ef30-2578-2841-12262ca17747
 ms.date: 06/08/2017
 ---

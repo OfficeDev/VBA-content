@@ -3,7 +3,7 @@ title: CommandButton.PressedTint Property (Access)
 keywords: vbaac10.chm14621
 f1_keywords:
 - vbaac10.chm14621
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PressedTint
 ms.assetid: 11439c75-f951-a551-12ee-b7b2d2e8ee94

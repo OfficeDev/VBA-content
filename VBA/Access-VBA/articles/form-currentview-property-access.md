@@ -3,7 +3,7 @@ title: Form.CurrentView Property (Access)
 keywords: vbaac10.chm13466
 f1_keywords:
 - vbaac10.chm13466
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CurrentView
 ms.assetid: d173222e-99d1-704e-ee3c-246263725706

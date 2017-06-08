@@ -3,7 +3,7 @@ title: TextBox.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BorderTint
 ms.assetid: 3e48aa7c-ed95-aa27-f092-70d5fb2f9fb1

@@ -3,7 +3,7 @@ title: OptionButton.Move Method (Access)
 keywords: vbaac10.chm10624
 f1_keywords:
 - vbaac10.chm10624
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Move
 ms.assetid: cbc851ee-7dec-bed5-9ddf-31006a0ea6eb

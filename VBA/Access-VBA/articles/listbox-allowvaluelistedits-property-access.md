@@ -3,7 +3,7 @@ title: ListBox.AllowValueListEdits Property (Access)
 keywords: vbaac10.chm11335
 f1_keywords:
 - vbaac10.chm11335
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.AllowValueListEdits
 ms.assetid: cab2ec6f-affb-5111-af5e-6f3638189dff

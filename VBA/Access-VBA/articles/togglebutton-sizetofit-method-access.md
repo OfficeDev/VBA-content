@@ -3,7 +3,7 @@ title: ToggleButton.SizeToFit Method (Access)
 keywords: vbaac10.chm11692
 f1_keywords:
 - vbaac10.chm11692
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.SizeToFit
 ms.assetid: 3533c064-f559-4eb4-4cca-add03df5e693

@@ -3,7 +3,7 @@ title: BoundObjectFrame.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineShade
 ms.assetid: 3fe4929b-9545-e886-f33c-9cae9f0c5f28

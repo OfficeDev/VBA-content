@@ -3,7 +3,7 @@ title: TextBox.Value Property (Access)
 keywords: vbaac10.chm11039
 f1_keywords:
 - vbaac10.chm11039
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Value
 ms.assetid: 4cb4c33f-dd96-0309-f30b-8e445d123756

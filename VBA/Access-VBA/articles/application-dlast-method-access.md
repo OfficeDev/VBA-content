@@ -3,7 +3,7 @@ title: Application.DLast Method (Access)
 keywords: vbaac10.chm12530
 f1_keywords:
 - vbaac10.chm12530
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DLast
 ms.assetid: 0a04cbcc-0dbc-4cfc-e5a3-deb9b0f343be

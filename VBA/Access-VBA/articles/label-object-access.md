@@ -3,7 +3,7 @@ title: Label Object (Access)
 keywords: vbaac10.chm10271
 f1_keywords:
 - vbaac10.chm10271
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label
 ms.assetid: 3d83d916-85d7-b2eb-c9f6-f9a6ff0c9ec7

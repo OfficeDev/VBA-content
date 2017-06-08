@@ -3,7 +3,7 @@ title: Form.PopUp Property (Access)
 keywords: vbaac10.chm13369
 f1_keywords:
 - vbaac10.chm13369
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PopUp
 ms.assetid: 0ccaa174-80e2-5ca3-9614-93b12dc1bfcd

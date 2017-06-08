@@ -3,7 +3,7 @@ title: ObjectFrame.OldValue Property (Access)
 keywords: vbaac10.chm11549
 f1_keywords:
 - vbaac10.chm11549
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OldValue
 ms.assetid: ef025309-83e8-36e4-956e-62a88d8a0e21

@@ -3,7 +3,7 @@ title: The history of design changes in the replica does not match the history i
 keywords: jeterr40.chm5003524
 f1_keywords:
 - jeterr40.chm5003524
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8cd56459-7ca8-0842-8aa1-3b3de981b93d
 ms.date: 06/08/2017
 ---

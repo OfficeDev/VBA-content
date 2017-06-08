@@ -3,7 +3,7 @@ title: Form.KeyPreview Property (Access)
 keywords: vbaac10.chm13457
 f1_keywords:
 - vbaac10.chm13457
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.KeyPreview
 ms.assetid: f9153ec0-8b6e-60d5-8541-100e2ad1705e

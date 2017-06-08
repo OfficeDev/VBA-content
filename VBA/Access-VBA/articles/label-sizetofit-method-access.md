@@ -3,7 +3,7 @@ title: Label.SizeToFit Method (Access)
 keywords: vbaac10.chm10186
 f1_keywords:
 - vbaac10.chm10186
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.SizeToFit
 ms.assetid: f9dcdfaf-3218-8442-a4ef-b13dfd961ad0

@@ -3,7 +3,7 @@ title: ComboBox.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BorderShade
 ms.assetid: 2cb4cc56-c40f-59ce-a989-e792cad915ba

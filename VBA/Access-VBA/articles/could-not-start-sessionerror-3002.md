@@ -1,6 +1,6 @@
 ---
 title: Could not start session. (Error 3002)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c03de0a5-39a6-8ddd-0f9d-0de274b85282
 ms.date: 06/08/2017
 ---

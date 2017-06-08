@@ -3,7 +3,7 @@ title: ListBox.Left Property (Access)
 keywords: vbaac10.chm11241
 f1_keywords:
 - vbaac10.chm11241
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Left
 ms.assetid: 3272daef-8241-3305-4623-abfcb6aaffdb

@@ -3,7 +3,7 @@ title: ListBox.VerticalAnchor Property (Access)
 keywords: vbaac10.chm11320
 f1_keywords:
 - vbaac10.chm11320
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.VerticalAnchor
 ms.assetid: 2c38763c-5b90-9219-8a3b-3bfef035a9bb

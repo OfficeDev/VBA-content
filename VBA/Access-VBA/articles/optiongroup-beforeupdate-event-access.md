@@ -3,7 +3,7 @@ title: OptionGroup.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14185
 f1_keywords:
 - vbaac10.chm14185
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.BeforeUpdate
 ms.assetid: a497ff9b-d617-df5d-9989-bc420c827575

@@ -3,7 +3,7 @@ title: CurrentData.AllQueries Property (Access)
 keywords: vbaac10.chm12733
 f1_keywords:
 - vbaac10.chm12733
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentData.AllQueries
 ms.assetid: 2204de1a-cc58-2acc-6a72-d4430a23ae2e

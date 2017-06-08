@@ -3,7 +3,7 @@ title: Report.CurrentX Property (Access)
 keywords: vbaac10.chm13741
 f1_keywords:
 - vbaac10.chm13741
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.CurrentX
 ms.assetid: 3b5e7c50-ecb4-606a-6715-4d54ed912c45

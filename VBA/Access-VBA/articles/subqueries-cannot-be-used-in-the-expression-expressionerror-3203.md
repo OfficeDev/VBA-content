@@ -3,7 +3,7 @@ title: Subqueries cannot be used in the expression <expression>. (Error 3203)
 keywords: jeterr40.chm5003203
 f1_keywords:
 - jeterr40.chm5003203
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 08f9c7e0-0c79-e88d-8194-ede635c49f49
 ms.date: 06/08/2017
 ---

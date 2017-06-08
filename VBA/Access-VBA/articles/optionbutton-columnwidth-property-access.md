@@ -3,7 +3,7 @@ title: OptionButton.ColumnWidth Property (Access)
 keywords: vbaac10.chm10595
 f1_keywords:
 - vbaac10.chm10595
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.ColumnWidth
 ms.assetid: fb173bbb-8bcc-ee35-3248-2cbaa35ce5ca

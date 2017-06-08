@@ -3,7 +3,7 @@ title: Application.NewCurrentDatabase Method (Access)
 keywords: vbaac10.chm12612
 f1_keywords:
 - vbaac10.chm12612
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.NewCurrentDatabase
 ms.assetid: 6934a77e-5fa0-7e43-e159-2ffc2a944dca

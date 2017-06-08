@@ -1,6 +1,6 @@
 ---
 title: Criteria Expressions (Access)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2e8a72ca-57de-4609-b756-2953a6a2dbe9
 ms.date: 06/08/2017
 ---

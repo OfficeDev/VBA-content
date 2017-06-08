@@ -3,7 +3,7 @@ title: CodeProject.OpenConnection Method (Access)
 keywords: vbaac10.chm12715
 f1_keywords:
 - vbaac10.chm12715
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.OpenConnection
 ms.assetid: ed67b379-20aa-0d4c-11e0-3bb2fbe4ff06

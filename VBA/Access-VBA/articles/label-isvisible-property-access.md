@@ -3,7 +3,7 @@ title: Label.IsVisible Property (Access)
 keywords: vbaac10.chm10222
 f1_keywords:
 - vbaac10.chm10222
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.IsVisible
 ms.assetid: 1151d5ad-cdad-f394-f70d-1f41de51930d

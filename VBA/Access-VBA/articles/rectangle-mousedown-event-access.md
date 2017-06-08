@@ -3,7 +3,7 @@ title: Rectangle.MouseDown Event (Access)
 keywords: vbaac10.chm14163
 f1_keywords:
 - vbaac10.chm14163
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.MouseDown
 ms.assetid: 10b02033-87d7-53af-2878-d9a0e14e7ec1

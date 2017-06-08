@@ -3,7 +3,7 @@ title: OptionGroup.ValidationRule Property (Access)
 keywords: vbaac10.chm10824
 f1_keywords:
 - vbaac10.chm10824
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.ValidationRule
 ms.assetid: ac66176e-35a6-6fe5-bcbe-2b201a6d8548

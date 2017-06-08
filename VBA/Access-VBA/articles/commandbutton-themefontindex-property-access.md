@@ -3,7 +3,7 @@ title: CommandButton.ThemeFontIndex Property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ThemeFontIndex
 ms.assetid: 8cb51c03-09a1-83ba-c6bf-7e74d7444c8b

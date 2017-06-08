@@ -3,7 +3,7 @@ title: OptionButton.OnMouseUp Property (Access)
 keywords: vbaac10.chm10618
 f1_keywords:
 - vbaac10.chm10618
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnMouseUp
 ms.assetid: 8c1cfbbf-99da-0844-d435-5f911ad24b17

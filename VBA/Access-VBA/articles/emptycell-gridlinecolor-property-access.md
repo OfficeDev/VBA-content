@@ -3,7 +3,7 @@ title: EmptyCell.GridlineColor Property (Access)
 keywords: vbaac10.chm14339
 f1_keywords:
 - vbaac10.chm14339
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineColor
 ms.assetid: bfc7414c-9008-87a3-91e6-b7d4a6a71696

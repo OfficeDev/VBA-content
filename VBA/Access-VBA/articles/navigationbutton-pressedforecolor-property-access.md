@@ -3,7 +3,7 @@ title: NavigationButton.PressedForeColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.PressedForeColor
 ms.assetid: 90c9b130-65b0-a664-193a-18650fbb90ad

@@ -3,7 +3,7 @@ title: TextBox.IsVisible Property (Access)
 keywords: vbaac10.chm11113
 f1_keywords:
 - vbaac10.chm11113
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.IsVisible
 ms.assetid: 34487db4-6377-04f2-6848-a27dc5f4bab6

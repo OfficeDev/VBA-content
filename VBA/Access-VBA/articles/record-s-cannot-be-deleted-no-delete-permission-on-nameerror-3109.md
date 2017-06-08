@@ -3,7 +3,7 @@ title: Record(s) cannot be deleted; no delete permission on <name>. (Error 3109)
 keywords: jeterr40.chm5003109
 f1_keywords:
 - jeterr40.chm5003109
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 408649fd-9b30-8769-6aac-b444d1a2125c
 ms.date: 06/08/2017
 ---

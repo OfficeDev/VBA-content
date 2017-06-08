@@ -3,7 +3,7 @@ title: Printer.TopMargin Property (Access)
 keywords: vbaac10.chm12869
 f1_keywords:
 - vbaac10.chm12869
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.TopMargin
 ms.assetid: e0dcc6bf-14eb-17b0-df5e-c3de101b8fb7

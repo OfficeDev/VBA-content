@@ -3,7 +3,7 @@ title: Form.MouseWheel Event (Access)
 keywords: vbaac10.chm13683
 f1_keywords:
 - vbaac10.chm13683
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.MouseWheel
 ms.assetid: eec18d43-1cee-463c-37e6-760eccb0b890

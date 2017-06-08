@@ -3,7 +3,7 @@ title: FormatCondition.Modify Method (Access)
 keywords: vbaac10.chm10062
 f1_keywords:
 - vbaac10.chm10062
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.Modify
 ms.assetid: 213a50f2-30ae-bcdc-d690-2d45bbe6f6e7

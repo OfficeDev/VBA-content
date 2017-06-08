@@ -3,7 +3,7 @@ title: CustomControl.ObjectPalette Property (Access)
 keywords: vbaac10.chm12035
 f1_keywords:
 - vbaac10.chm12035
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.ObjectPalette
 ms.assetid: d9712689-b62f-9e18-90d8-4e6327e2b2db

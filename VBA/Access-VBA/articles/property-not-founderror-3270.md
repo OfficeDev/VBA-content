@@ -3,7 +3,7 @@ title: Property not found. (Error 3270)
 keywords: jeterr40.chm5003270
 f1_keywords:
 - jeterr40.chm5003270
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 90fc1665-8f4e-9c1a-6bfa-55b972958e80
 ms.date: 06/08/2017
 ---

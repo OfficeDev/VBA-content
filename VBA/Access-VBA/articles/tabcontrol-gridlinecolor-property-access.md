@@ -3,7 +3,7 @@ title: TabControl.GridlineColor Property (Access)
 keywords: vbaac10.chm14549
 f1_keywords:
 - vbaac10.chm14549
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineColor
 ms.assetid: 5570df30-be34-07b4-7096-1d1bdd46ead6

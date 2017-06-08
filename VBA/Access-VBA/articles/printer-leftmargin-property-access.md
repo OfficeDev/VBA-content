@@ -3,7 +3,7 @@ title: Printer.LeftMargin Property (Access)
 keywords: vbaac10.chm12867
 f1_keywords:
 - vbaac10.chm12867
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.LeftMargin
 ms.assetid: 60c43199-1d31-35f5-67fc-344baac19cde

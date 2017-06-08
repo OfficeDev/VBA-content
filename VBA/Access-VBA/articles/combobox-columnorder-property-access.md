@@ -3,7 +3,7 @@ title: ComboBox.ColumnOrder Property (Access)
 keywords: vbaac10.chm11426
 f1_keywords:
 - vbaac10.chm11426
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ColumnOrder
 ms.assetid: a32260cc-33b0-0811-1102-63843d5d2a21

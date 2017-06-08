@@ -3,7 +3,7 @@ title: The wait period for an event has timed out. (Error 3531)
 keywords: jeterr40.chm5003531
 f1_keywords:
 - jeterr40.chm5003531
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a9c99a23-a005-588f-67bb-9a52592be376
 ms.date: 06/08/2017
 ---

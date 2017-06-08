@@ -3,7 +3,7 @@ title: Application.AddToFavorites Method (Access)
 keywords: vbaac10.chm12562
 f1_keywords:
 - vbaac10.chm12562
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.AddToFavorites
 ms.assetid: c2024fa1-a972-7798-9bc0-776c6e30c4a4

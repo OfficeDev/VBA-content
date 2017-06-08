@@ -3,7 +3,7 @@ title: WebBrowserControl.Move Method (Access)
 keywords: vbaac10.chm14387
 f1_keywords:
 - vbaac10.chm14387
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Move
 ms.assetid: ec60f843-6bbf-bf65-db6a-9097dd73fb98

@@ -3,7 +3,7 @@ title: Page.PageIndex Property (Access)
 keywords: vbaac10.chm12151,vbaac10.chm4455
 f1_keywords:
 - vbaac10.chm12151,vbaac10.chm4455
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.PageIndex
 ms.assetid: 22b71f19-2734-f735-8a64-d02901c598c0

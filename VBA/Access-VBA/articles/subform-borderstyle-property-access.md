@@ -3,7 +3,7 @@ title: SubForm.BorderStyle Property (Access)
 keywords: vbaac10.chm11943
 f1_keywords:
 - vbaac10.chm11943
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.BorderStyle
 ms.assetid: d3d2c05c-1e19-44ec-98d6-13cdb026b4d4

@@ -3,7 +3,7 @@ title: Cannot use HAVING clause in TRANSFORM statement. (Error 3092)
 keywords: jeterr40.chm5003092
 f1_keywords:
 - jeterr40.chm5003092
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1b2ade5d-6f50-7d02-893a-87a87472413a
 ms.date: 06/08/2017
 ---

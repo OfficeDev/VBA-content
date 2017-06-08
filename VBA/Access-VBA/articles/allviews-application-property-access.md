@@ -3,7 +3,7 @@ title: AllViews.Application Property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllViews.Application
 ms.assetid: c128d327-c0b8-f2a9-5981-1e1161de58c8

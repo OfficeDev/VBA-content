@@ -3,7 +3,7 @@ title: BoundObjectFrame.ObjectVerbs Property (Access)
 keywords: vbaac10.chm10900
 f1_keywords:
 - vbaac10.chm10900
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ObjectVerbs
 ms.assetid: 892ace19-928e-aa58-4a71-6f38c64727ff

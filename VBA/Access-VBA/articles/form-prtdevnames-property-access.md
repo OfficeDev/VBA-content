@@ -3,7 +3,7 @@ title: Form.PrtDevNames Property (Access)
 keywords: vbaac10.chm13419
 f1_keywords:
 - vbaac10.chm13419
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PrtDevNames
 ms.assetid: 0befbc54-6536-9f51-62da-aa01b5b96961

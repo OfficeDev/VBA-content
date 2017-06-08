@@ -3,7 +3,7 @@ title: NavigationButton.PictureType Property (Access)
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.PictureType
 ms.assetid: deba650f-b365-3092-40df-3c5e6ed836ab

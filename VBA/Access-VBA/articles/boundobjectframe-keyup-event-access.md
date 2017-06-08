@@ -3,7 +3,7 @@ title: BoundObjectFrame.KeyUp Event (Access)
 keywords: vbaac10.chm14103
 f1_keywords:
 - vbaac10.chm14103
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.KeyUp
 ms.assetid: 1c7a4958-424b-3188-a46d-cc3204b4a2e0

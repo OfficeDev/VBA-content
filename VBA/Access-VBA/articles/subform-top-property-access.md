@@ -3,7 +3,7 @@ title: SubForm.Top Property (Access)
 keywords: vbaac10.chm11939
 f1_keywords:
 - vbaac10.chm11939
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Top
 ms.assetid: c5ffd8bb-479d-81a2-cfbb-67ae1bbd2cd5

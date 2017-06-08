@@ -3,7 +3,7 @@ title: CustomControl.GotFocus Event (Access)
 keywords: vbaac10.chm14117
 f1_keywords:
 - vbaac10.chm14117
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.GotFocus
 ms.assetid: c0329ab1-bd08-31be-cd57-636540f58539

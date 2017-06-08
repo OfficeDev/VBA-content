@@ -3,7 +3,7 @@ title: NavigationControl.OnMouseDown Property (Access)
 keywords: vbaac10.chm11124
 f1_keywords:
 - vbaac10.chm11124
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.OnMouseDown
 ms.assetid: c8258e0e-c115-2556-a929-753c510fdc49

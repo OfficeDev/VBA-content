@@ -3,7 +3,7 @@ title: Synchronizer cannot find the source file for messages. (Error 3564)
 keywords: jeterr40.chm5003564
 f1_keywords:
 - jeterr40.chm5003564
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5e784698-1bf9-45a5-fedf-2413ec84371c
 ms.date: 06/08/2017
 ---

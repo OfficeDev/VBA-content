@@ -3,7 +3,7 @@ title: ToggleButton.QuickStyle Property (Access)
 keywords: vbaac10.chm14646
 f1_keywords:
 - vbaac10.chm14646
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.QuickStyle
 ms.assetid: 6dc5a569-8758-86cd-5b2a-693081ef95c5

@@ -3,7 +3,7 @@ title: Form.OrderBy Property (Access)
 keywords: vbaac10.chm13348
 f1_keywords:
 - vbaac10.chm13348
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OrderBy
 ms.assetid: 6ca9c25e-9f16-1f08-1ac3-6f19761f9f55

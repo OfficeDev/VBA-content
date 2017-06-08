@@ -3,7 +3,7 @@ title: CustomControl.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.BorderShade
 ms.assetid: 43cf768f-ad41-5729-e5bf-41d445b54efa

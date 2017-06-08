@@ -3,7 +3,7 @@ title: Report.PaintPalette Property (Access)
 keywords: vbaac10.chm13761
 f1_keywords:
 - vbaac10.chm13761
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PaintPalette
 ms.assetid: d4c05c71-52da-6185-89d6-a69c7a883e0a

@@ -3,7 +3,7 @@ title: Application.CreateControl Method (Access)
 keywords: vbaac10.chm12622
 f1_keywords:
 - vbaac10.chm12622
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CreateControl
 ms.assetid: f5b1689c-62c4-163d-c659-607cee7572f6

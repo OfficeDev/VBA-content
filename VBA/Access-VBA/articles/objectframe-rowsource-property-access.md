@@ -3,7 +3,7 @@ title: ObjectFrame.RowSource Property (Access)
 keywords: vbaac10.chm11564
 f1_keywords:
 - vbaac10.chm11564
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.RowSource
 ms.assetid: de2aa92d-34e8-20e7-ece7-5e1dcb8cd877

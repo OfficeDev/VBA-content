@@ -3,7 +3,7 @@ title: ComboBox.Hyperlink Property (Access)
 keywords: vbaac10.chm11368
 f1_keywords:
 - vbaac10.chm11368
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Hyperlink
 ms.assetid: 239bfe2c-549f-5148-15bb-9e99348cb7ec

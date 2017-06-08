@@ -3,7 +3,7 @@ title: Attachment.PictureSizeMode Property (Access)
 keywords: vbaac10.chm13915
 f1_keywords:
 - vbaac10.chm13915
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.PictureSizeMode
 ms.assetid: 07d268ad-d4ba-c9ba-1ef4-7b3e7911ebba

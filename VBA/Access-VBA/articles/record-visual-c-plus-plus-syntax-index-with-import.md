@@ -1,6 +1,6 @@
 ---
 title: Record (Visual C++ Syntax Index with import)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 87c6d242-4977-2e81-c829-227e6dd326e5
 ms.date: 06/08/2017
 ---

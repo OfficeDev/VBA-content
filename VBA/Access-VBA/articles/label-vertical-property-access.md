@@ -3,7 +3,7 @@ title: Label.Vertical Property (Access)
 keywords: vbaac10.chm10196
 f1_keywords:
 - vbaac10.chm10196
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Vertical
 ms.assetid: 6ce97069-0713-9a6f-3efc-4a5161ee54e3

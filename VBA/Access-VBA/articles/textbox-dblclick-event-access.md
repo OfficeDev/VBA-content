@@ -3,7 +3,7 @@ title: TextBox.DblClick Event (Access)
 keywords: vbaac10.chm14202
 f1_keywords:
 - vbaac10.chm14202
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.DblClick
 ms.assetid: ae8787e1-3425-bfbf-acf4-bbb97d42d2da

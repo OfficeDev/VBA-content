@@ -3,7 +3,7 @@ title: OptionButton.OnDblClick Property (Access)
 keywords: vbaac10.chm10615
 f1_keywords:
 - vbaac10.chm10615
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnDblClick
 ms.assetid: 45a7b4fa-ce24-aab3-6057-ce23b1055a74

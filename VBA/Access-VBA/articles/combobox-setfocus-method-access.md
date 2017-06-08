@@ -3,7 +3,7 @@ title: ComboBox.SetFocus Method (Access)
 keywords: vbaac10.chm11366
 f1_keywords:
 - vbaac10.chm11366
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.SetFocus
 ms.assetid: d17e91d3-5478-942e-41b9-7404e5dfac50

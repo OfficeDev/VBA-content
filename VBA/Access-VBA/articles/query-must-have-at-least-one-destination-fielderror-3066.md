@@ -3,7 +3,7 @@ title: Query must have at least one destination field. (Error 3066)
 keywords: jeterr40.chm5003066
 f1_keywords:
 - jeterr40.chm5003066
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8ed660f8-6feb-dfb5-2276-fc1743deec47
 ms.date: 06/08/2017
 ---

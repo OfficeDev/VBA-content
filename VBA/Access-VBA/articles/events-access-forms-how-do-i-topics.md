@@ -1,6 +1,6 @@
 ---
 title: Events Access Forms How Do I Topics
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d9fe00d1-03ed-442a-85de-56984deaece3
 ms.date: 06/08/2017
 ---

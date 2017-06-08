@@ -3,7 +3,7 @@ title: TabControl.FontUnderline Property (Access)
 keywords: vbaac10.chm12094
 f1_keywords:
 - vbaac10.chm12094
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.FontUnderline
 ms.assetid: d19bccfa-4618-d95e-7467-eee15ba59336

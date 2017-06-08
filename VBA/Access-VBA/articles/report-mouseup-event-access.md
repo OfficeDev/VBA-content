@@ -3,7 +3,7 @@ title: Report.MouseUp Event (Access)
 keywords: vbaac10.chm13893
 f1_keywords:
 - vbaac10.chm13893
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.MouseUp
 ms.assetid: e7b6aa74-1cba-ee10-03d1-11236d14faae

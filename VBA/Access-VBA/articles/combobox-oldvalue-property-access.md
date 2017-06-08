@@ -3,7 +3,7 @@ title: ComboBox.OldValue Property (Access)
 keywords: vbaac10.chm11361
 f1_keywords:
 - vbaac10.chm11361
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OldValue
 ms.assetid: ed5ddacb-c447-02b1-3de1-3762a7540bff

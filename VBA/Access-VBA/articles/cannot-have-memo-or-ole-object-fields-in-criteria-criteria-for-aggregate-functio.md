@@ -3,7 +3,7 @@ title: Cannot have Memo or OLE Object fields in criteria <criteria> for aggregat
 keywords: jeterr40.chm5003116
 f1_keywords:
 - jeterr40.chm5003116
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a629b964-7275-e32d-7a18-ef1866d36455
 ms.date: 06/08/2017
 ---

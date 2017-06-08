@@ -3,7 +3,7 @@ title: Report.Filter Event (Access)
 keywords: vbaac10.chm13898
 f1_keywords:
 - vbaac10.chm13898
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Filter
 ms.assetid: 1344ceff-d3ac-3dc1-0f9c-563d895a77dc

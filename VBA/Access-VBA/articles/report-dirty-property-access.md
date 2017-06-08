@@ -3,7 +3,7 @@ title: Report.Dirty Property (Access)
 keywords: vbaac10.chm13770
 f1_keywords:
 - vbaac10.chm13770
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Dirty
 ms.assetid: d9d9fe57-4fc5-9700-fc14-71f9eaa4a01b

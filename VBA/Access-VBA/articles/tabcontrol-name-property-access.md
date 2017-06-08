@@ -3,7 +3,7 @@ title: TabControl.Name Property (Access)
 keywords: vbaac10.chm12113
 f1_keywords:
 - vbaac10.chm12113
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Name
 ms.assetid: 6dc389b0-d609-cecc-cbf9-af5b1276b1be

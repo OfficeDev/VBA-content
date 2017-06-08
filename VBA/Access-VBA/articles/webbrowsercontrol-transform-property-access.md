@@ -3,7 +3,7 @@ title: WebBrowserControl.Transform Property (Access)
 keywords: vbaac10.chm14367,vbaac10.chm5911
 f1_keywords:
 - vbaac10.chm14367,vbaac10.chm5911
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Transform
 ms.assetid: 7ed545dc-96f4-2cb5-ad35-e50ff4beb270

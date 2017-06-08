@@ -3,7 +3,7 @@ title: CurrentProject.AddSharedImage Method (Access)
 keywords: vbaac10.chm14660
 f1_keywords:
 - vbaac10.chm14660
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.AddSharedImage
 ms.assetid: c6c02f12-6c5f-852a-65b7-a0ffbb3346fd

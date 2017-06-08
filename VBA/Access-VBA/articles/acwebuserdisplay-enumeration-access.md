@@ -3,7 +3,7 @@ title: AcWebUserDisplay Enumeration (Access)
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcWebUserDisplay
 ms.assetid: 4723ddf2-ceab-9313-b713-4654a2e83297

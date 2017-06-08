@@ -3,7 +3,7 @@ title: ListBox.Click Event (Access)
 keywords: vbaac10.chm14177
 f1_keywords:
 - vbaac10.chm14177
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Click
 ms.assetid: 92e2a86b-c21d-9ca2-099f-b3f254940791

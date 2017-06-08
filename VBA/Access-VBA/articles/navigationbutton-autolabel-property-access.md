@@ -3,7 +3,7 @@ title: NavigationButton.AutoLabel Property (Access)
 keywords: vbaac10.chm10482
 f1_keywords:
 - vbaac10.chm10482
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.AutoLabel
 ms.assetid: addd9533-d975-1b85-e941-c560188f0d8a

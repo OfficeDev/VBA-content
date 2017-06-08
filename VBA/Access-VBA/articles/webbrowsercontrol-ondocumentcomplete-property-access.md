@@ -3,7 +3,7 @@ title: WebBrowserControl.OnDocumentComplete Property (Access)
 keywords: vbaac10.chm14414
 f1_keywords:
 - vbaac10.chm14414
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnDocumentComplete
 ms.assetid: ea2457e0-2f2d-3ee6-7e6e-c0033de0731c

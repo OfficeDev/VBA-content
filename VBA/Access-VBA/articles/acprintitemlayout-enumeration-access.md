@@ -3,7 +3,7 @@ title: AcPrintItemLayout Enumeration (Access)
 keywords: vbaac10.chm13248
 f1_keywords:
 - vbaac10.chm13248
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcPrintItemLayout
 ms.assetid: b2a3cbe7-b3ba-0635-b3ac-9c0ee3602e98

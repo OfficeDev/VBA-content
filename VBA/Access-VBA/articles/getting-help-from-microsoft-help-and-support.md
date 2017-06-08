@@ -1,6 +1,6 @@
 ---
 title: Getting Help from Microsoft Help and Support
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d5abcd89-3fdf-5ce4-164c-fb4545f89717
 ms.date: 06/08/2017
 ---

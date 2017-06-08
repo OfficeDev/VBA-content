@@ -3,7 +3,7 @@ title: ToggleButton.AfterUpdate Property (Access)
 keywords: vbaac10.chm11748
 f1_keywords:
 - vbaac10.chm11748
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.AfterUpdate
 ms.assetid: 58e20c71-189c-d2df-54a0-42b8fad6ec07

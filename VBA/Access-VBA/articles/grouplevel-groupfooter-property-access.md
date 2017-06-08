@@ -3,7 +3,7 @@ title: GroupLevel.GroupFooter Property (Access)
 keywords: vbaac10.chm12242
 f1_keywords:
 - vbaac10.chm12242
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.GroupFooter
 ms.assetid: c10d30b2-da18-cd6f-8b00-e964cd4751d6

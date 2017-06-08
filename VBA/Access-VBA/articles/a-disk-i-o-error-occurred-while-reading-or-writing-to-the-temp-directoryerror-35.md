@@ -3,7 +3,7 @@ title: A disk I/O error occurred while reading or writing to the TEMP directory.
 keywords: jeterr40.chm5003572
 f1_keywords:
 - jeterr40.chm5003572
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c5d047f9-f2c2-604f-d4bb-8de8a11ab604
 ms.date: 06/08/2017
 ---

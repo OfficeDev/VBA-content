@@ -3,7 +3,7 @@ title: The specified field <field> could refer to more than one table listed in 
 keywords: jeterr40.chm5003079
 f1_keywords:
 - jeterr40.chm5003079
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5dcb65e3-3f8c-f16c-5380-1d665283aa7a
 ms.date: 06/08/2017
 ---

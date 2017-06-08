@@ -3,7 +3,7 @@ title: CommandButton.KeyPress Event (Access)
 keywords: vbaac10.chm14087
 f1_keywords:
 - vbaac10.chm14087
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.KeyPress
 ms.assetid: afdc1037-c0fd-d5f2-3ccd-bc67c98aa482

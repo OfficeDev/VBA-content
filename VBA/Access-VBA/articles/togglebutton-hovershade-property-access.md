@@ -3,7 +3,7 @@ title: ToggleButton.HoverShade Property (Access)
 keywords: vbaac10.chm14614
 f1_keywords:
 - vbaac10.chm14614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.HoverShade
 ms.assetid: a9e98d48-95a1-64d0-77ba-f2cd8dadc4f8

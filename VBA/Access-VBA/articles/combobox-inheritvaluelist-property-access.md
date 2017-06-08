@@ -3,7 +3,7 @@ title: ComboBox.InheritValueList Property (Access)
 keywords: vbaac10.chm11519
 f1_keywords:
 - vbaac10.chm11519
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.InheritValueList
 ms.assetid: 9189cd24-c4f2-c9a4-289f-0515d4b7fd45

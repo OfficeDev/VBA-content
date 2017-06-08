@@ -3,7 +3,7 @@ title: The fixed-width specification <name> contains no column widths. (Error 34
 keywords: jeterr40.chm5003443
 f1_keywords:
 - jeterr40.chm5003443
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 34acbbc2-776f-b70a-e591-9d64b76fa581
 ms.date: 06/08/2017
 ---

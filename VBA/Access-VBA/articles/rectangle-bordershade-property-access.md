@@ -3,7 +3,7 @@ title: Rectangle.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BorderShade
 ms.assetid: dc5281e3-9a1a-4d07-2b40-613883117c58

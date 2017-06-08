@@ -3,7 +3,7 @@ title: WebService.Entities Property (Access)
 keywords: vbaac10.chm14559
 f1_keywords:
 - vbaac10.chm14559
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebService.Entities
 ms.assetid: ad230b4d-0cf0-a7ad-fd1b-06d2a378f44b

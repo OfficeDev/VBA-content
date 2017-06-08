@@ -3,7 +3,7 @@ title: CustomControl.Enabled Property (Access)
 keywords: vbaac10.chm12015
 f1_keywords:
 - vbaac10.chm12015
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Enabled
 ms.assetid: d84b19c0-173d-ffbd-dfb3-47a47709d130

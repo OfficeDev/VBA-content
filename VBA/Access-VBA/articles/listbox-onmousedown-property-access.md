@@ -3,7 +3,7 @@ title: ListBox.OnMouseDown Property (Access)
 keywords: vbaac10.chm11286
 f1_keywords:
 - vbaac10.chm11286
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnMouseDown
 ms.assetid: 2290e2ef-956a-4178-0de5-03fb8b7470aa

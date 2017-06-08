@@ -1,6 +1,6 @@
 ---
 title: Error opening a Microsoft Excel 5.0 file. (Error 3432)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cfdb0764-bfe1-834e-dceb-14655a26b7fa
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: WebBrowserControl.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineShade
 ms.assetid: d6547541-832c-a560-4176-29004c0011dd

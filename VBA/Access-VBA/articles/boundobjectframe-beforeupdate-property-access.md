@@ -3,7 +3,7 @@ title: BoundObjectFrame.BeforeUpdate Property (Access)
 keywords: vbaac10.chm10961
 f1_keywords:
 - vbaac10.chm10961
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BeforeUpdate
 ms.assetid: 01ee3c67-76c6-b651-042b-a7aa59e7443e

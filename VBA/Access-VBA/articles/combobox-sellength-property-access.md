@@ -3,7 +3,7 @@ title: ComboBox.SelLength Property (Access)
 keywords: vbaac10.chm11439
 f1_keywords:
 - vbaac10.chm11439
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.SelLength
 ms.assetid: f465a2a0-2c4c-ac8b-0867-4033ca44e3f4

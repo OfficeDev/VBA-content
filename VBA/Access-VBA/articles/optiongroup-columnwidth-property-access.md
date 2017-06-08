@@ -3,7 +3,7 @@ title: OptionGroup.ColumnWidth Property (Access)
 keywords: vbaac10.chm10849
 f1_keywords:
 - vbaac10.chm10849
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.ColumnWidth
 ms.assetid: 5b3023dc-d876-e842-2b26-de8f9a7e7b80

@@ -3,7 +3,7 @@ title: AcHorizontalAnchor Enumeration (Access)
 keywords: vbaac10.chm14043
 f1_keywords:
 - vbaac10.chm14043
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcHorizontalAnchor
 ms.assetid: 2b9f0574-252d-7957-d25d-cb382d2cee73

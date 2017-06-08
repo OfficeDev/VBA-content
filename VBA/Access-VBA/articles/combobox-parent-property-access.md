@@ -3,7 +3,7 @@ title: ComboBox.Parent Property (Access)
 keywords: vbaac10.chm11357
 f1_keywords:
 - vbaac10.chm11357
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Parent
 ms.assetid: 31dc2078-38ea-00a4-fcaa-626c4b940fbc

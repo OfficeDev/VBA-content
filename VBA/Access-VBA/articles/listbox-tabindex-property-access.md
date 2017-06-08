@@ -3,7 +3,7 @@ title: ListBox.TabIndex Property (Access)
 keywords: vbaac10.chm11239
 f1_keywords:
 - vbaac10.chm11239
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.TabIndex
 ms.assetid: 50db3c8f-5bc6-d663-3e07-7014f80188b5

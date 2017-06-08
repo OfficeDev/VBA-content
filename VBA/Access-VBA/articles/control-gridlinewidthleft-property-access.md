@@ -3,7 +3,7 @@ title: Control.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm10164
 f1_keywords:
 - vbaac10.chm10164
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.GridlineWidthLeft
 ms.assetid: e148bfb1-a668-f2e3-ef0b-f243e943bef3

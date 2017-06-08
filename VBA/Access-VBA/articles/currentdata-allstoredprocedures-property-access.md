@@ -3,7 +3,7 @@ title: CurrentData.AllStoredProcedures Property (Access)
 keywords: vbaac10.chm12735
 f1_keywords:
 - vbaac10.chm12735
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentData.AllStoredProcedures
 ms.assetid: eadae8cb-ca0a-8804-fdf9-781b20f6e4a4

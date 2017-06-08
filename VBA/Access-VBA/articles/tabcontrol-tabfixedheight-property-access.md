@@ -3,7 +3,7 @@ title: TabControl.TabFixedHeight Property (Access)
 keywords: vbaac10.chm12088,vbaac10.chm4517
 f1_keywords:
 - vbaac10.chm12088,vbaac10.chm4517
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.TabFixedHeight
 ms.assetid: 562c4e43-0729-000a-9d8d-aff64a3bbb2e

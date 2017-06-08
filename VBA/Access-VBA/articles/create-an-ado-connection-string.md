@@ -1,6 +1,6 @@
 ---
 title: Create an ADO Connection String
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ac29e820-ffbf-a15b-e13d-c9190dfad6ab
 ms.date: 06/08/2017
 ---

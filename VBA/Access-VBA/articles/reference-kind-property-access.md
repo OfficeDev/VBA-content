@@ -3,7 +3,7 @@ title: Reference.Kind Property (Access)
 keywords: vbaac10.chm12637
 f1_keywords:
 - vbaac10.chm12637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reference.Kind
 ms.assetid: 51a941e2-25c5-3699-232c-c6fb90228f65

@@ -3,7 +3,7 @@ title: Image.OldValue Property (Access)
 keywords: vbaac10.chm10356
 f1_keywords:
 - vbaac10.chm10356
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.OldValue
 ms.assetid: 1e2b9701-1b75-5cb9-32c8-d6585575b7e8

@@ -3,7 +3,7 @@ title: CustomControl.Enter Event (Access)
 keywords: vbaac10.chm14115
 f1_keywords:
 - vbaac10.chm14115
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Enter
 ms.assetid: f62c7d3b-c5af-58a5-f65f-fbcafef724f8

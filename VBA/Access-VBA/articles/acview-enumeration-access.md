@@ -3,7 +3,7 @@ title: AcView Enumeration (Access)
 keywords: vbaac10.chm10029
 f1_keywords:
 - vbaac10.chm10029
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcView
 ms.assetid: 708b0b90-8144-be34-f312-6914d4aa8e68

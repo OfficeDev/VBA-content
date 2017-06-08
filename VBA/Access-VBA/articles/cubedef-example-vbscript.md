@@ -1,6 +1,6 @@
 ---
 title: CubeDef Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bcd50cc6-fe2b-d47a-a402-cd2ba4662b2d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: WebBrowserControl.KeyPress Event (Access)
 keywords: vbaac10.chm143138
 f1_keywords:
 - vbaac10.chm143138
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.KeyPress
 ms.assetid: 6419c8b0-b857-0c05-e626-e996e65d7739

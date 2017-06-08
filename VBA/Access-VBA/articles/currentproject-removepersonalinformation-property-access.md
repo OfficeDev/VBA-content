@@ -3,7 +3,7 @@ title: CurrentProject.RemovePersonalInformation Property (Access)
 keywords: vbaac10.chm12724
 f1_keywords:
 - vbaac10.chm12724
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.RemovePersonalInformation
 ms.assetid: d98f2b2a-304f-8d27-14ad-55407f335f1e

@@ -1,6 +1,6 @@
 ---
 title: Invalid dropbox path <name>. (Error 3476)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 69f6736c-3e99-be0f-e033-7d03ab992193
 ms.date: 06/08/2017
 ---

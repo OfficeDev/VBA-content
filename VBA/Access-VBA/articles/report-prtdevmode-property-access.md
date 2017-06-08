@@ -3,7 +3,7 @@ title: Report.PrtDevMode Property (Access)
 keywords: vbaac10.chm13738
 f1_keywords:
 - vbaac10.chm13738
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.PrtDevMode
 ms.assetid: a0c74bb7-7c9d-d978-c9de-de893e935899

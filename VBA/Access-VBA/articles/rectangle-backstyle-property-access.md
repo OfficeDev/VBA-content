@@ -3,7 +3,7 @@ title: Rectangle.BackStyle Property (Access)
 keywords: vbaac10.chm10287
 f1_keywords:
 - vbaac10.chm10287
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BackStyle
 ms.assetid: e522ef3b-b397-c931-7978-2193b3f74b14

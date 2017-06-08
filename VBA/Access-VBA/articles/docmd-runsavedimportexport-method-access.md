@@ -3,7 +3,7 @@ title: DoCmd.RunSavedImportExport Method (Access)
 keywords: vbaac10.chm5878
 f1_keywords:
 - vbaac10.chm5878
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.RunSavedImportExport
 ms.assetid: cb0ade9a-5cd4-1225-5231-8266fdfb3690

@@ -1,6 +1,6 @@
 ---
 title: Expression too complex. (Error 2445)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1bf7264a-1913-54c2-684a-40476303f5eb
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: SubForm.AutoLabel Property (Access)
 keywords: vbaac10.chm11948
 f1_keywords:
 - vbaac10.chm11948
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.AutoLabel
 ms.assetid: 4b9efdd0-b4e9-a508-e840-933a4f728750

@@ -3,7 +3,7 @@ title: CommandButton.BorderColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.BorderColor
 ms.assetid: 266c8082-30c4-0182-3004-b02b5a9c4a7b

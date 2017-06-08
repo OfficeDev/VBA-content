@@ -3,7 +3,7 @@ title: CommandButton.PictureType Property (Access)
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PictureType
 ms.assetid: a835b294-4de1-b948-e59c-a7e9c3a4f9ae

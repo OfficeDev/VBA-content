@@ -3,7 +3,7 @@ title: TextBox.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm11161
 f1_keywords:
 - vbaac10.chm11161
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.GridlineWidthTop
 ms.assetid: bb49f001-83a9-f1b8-c095-33b8b3f820b3

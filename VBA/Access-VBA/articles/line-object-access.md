@@ -3,7 +3,7 @@ title: Line Object (Access)
 keywords: vbaac10.chm10352
 f1_keywords:
 - vbaac10.chm10352
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line
 ms.assetid: b4a98150-1136-1a28-7d24-7029b371aee7

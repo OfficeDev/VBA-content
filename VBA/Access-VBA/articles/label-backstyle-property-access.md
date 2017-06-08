@@ -3,7 +3,7 @@ title: Label.BackStyle Property (Access)
 keywords: vbaac10.chm10201
 f1_keywords:
 - vbaac10.chm10201
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BackStyle
 ms.assetid: 27657ddf-0bd4-d8cc-61ed-39811c4269b3

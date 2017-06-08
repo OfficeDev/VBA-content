@@ -3,7 +3,7 @@ title: Label.Width Property (Access)
 keywords: vbaac10.chm10199
 f1_keywords:
 - vbaac10.chm10199
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Width
 ms.assetid: a4bb2d1a-6731-87b1-192a-5c4483ee2318

@@ -3,7 +3,7 @@ title: BoundObjectFrame.MouseMove Event (Access)
 keywords: vbaac10.chm14099
 f1_keywords:
 - vbaac10.chm14099
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.MouseMove
 ms.assetid: 61c95d90-e3b1-a072-fcb0-66717cafb074

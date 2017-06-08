@@ -3,7 +3,7 @@ title: NavigationControl.KeyDown Event (Access)
 keywords: vbaac10.chm14206
 f1_keywords:
 - vbaac10.chm14206
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.KeyDown
 ms.assetid: 02b0671c-706c-960c-73d9-76301914aa65

@@ -3,7 +3,7 @@ title: ToggleButton.MouseMove Event (Access)
 keywords: vbaac10.chm14156
 f1_keywords:
 - vbaac10.chm14156
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.MouseMove
 ms.assetid: ae3b48a2-962a-2990-5922-41abc9ab7f59

@@ -3,7 +3,7 @@ title: Form.OnKeyDown Property (Access)
 keywords: vbaac10.chm13454
 f1_keywords:
 - vbaac10.chm13454
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnKeyDown
 ms.assetid: 73302cbd-25bc-4ae1-8df9-7813d0a67b65

@@ -3,7 +3,7 @@ title: ObjectFrame.OLETypeAllowed Property (Access)
 keywords: vbaac10.chm11572
 f1_keywords:
 - vbaac10.chm11572
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OLETypeAllowed
 ms.assetid: ca669834-9bce-057c-dfb7-c8411b26bdd1

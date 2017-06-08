@@ -3,7 +3,7 @@ title: Object Properties
 keywords: vbaac10.chm5187733
 f1_keywords:
 - vbaac10.chm5187733
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9fc87446-68bd-d592-71c8-8d8c022af2c4
 ms.date: 06/08/2017
 ---

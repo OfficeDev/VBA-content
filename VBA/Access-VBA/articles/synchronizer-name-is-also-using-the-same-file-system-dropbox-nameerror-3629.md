@@ -3,7 +3,7 @@ title: Synchronizer <name> is also using the same File System dropbox <name> (Er
 keywords: jeterr40.chm5003629
 f1_keywords:
 - jeterr40.chm5003629
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 35176e9b-ac23-fb7d-ba88-b837792cf818
 ms.date: 06/08/2017
 ---

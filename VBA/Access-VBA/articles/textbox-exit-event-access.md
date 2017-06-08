@@ -3,7 +3,7 @@ title: TextBox.Exit Event (Access)
 keywords: vbaac10.chm14198
 f1_keywords:
 - vbaac10.chm14198
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Exit
 ms.assetid: 05b5afca-4cb9-f12b-e05b-8702e35380d0

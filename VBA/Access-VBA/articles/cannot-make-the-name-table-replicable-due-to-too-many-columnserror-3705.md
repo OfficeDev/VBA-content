@@ -3,7 +3,7 @@ title: Cannot make the <name> table replicable due to too many columns. (Error 3
 keywords: jeterr40.chm5003705
 f1_keywords:
 - jeterr40.chm5003705
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 93d540cb-a394-6520-1d15-a620628e93c6
 ms.date: 06/08/2017
 ---

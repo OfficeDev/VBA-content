@@ -3,7 +3,7 @@ title: Attachment.ColumnHidden Property (Access)
 keywords: vbaac10.chm14010
 f1_keywords:
 - vbaac10.chm14010
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.ColumnHidden
 ms.assetid: 772c644e-b180-25ad-5566-c0b5dc6dbc41

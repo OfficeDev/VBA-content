@@ -3,7 +3,7 @@ title: Rectangle.ControlType Property (Access)
 keywords: vbaac10.chm10280
 f1_keywords:
 - vbaac10.chm10280
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.ControlType
 ms.assetid: 08fff4a9-4f15-c65f-5c3e-74d4ef4cf400

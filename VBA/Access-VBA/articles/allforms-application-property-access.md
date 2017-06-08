@@ -3,7 +3,7 @@ title: AllForms.Application Property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllForms.Application
 ms.assetid: fc74b94a-8a5a-a2b9-e534-5530d11d2907

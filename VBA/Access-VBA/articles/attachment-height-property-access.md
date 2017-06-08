@@ -3,7 +3,7 @@ title: Attachment.Height Property (Access)
 keywords: vbaac10.chm13923
 f1_keywords:
 - vbaac10.chm13923
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Height
 ms.assetid: 377565ec-9e10-2a3f-5d05-e1440707dc9c

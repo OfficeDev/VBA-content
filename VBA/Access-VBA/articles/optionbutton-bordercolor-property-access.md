@@ -3,7 +3,7 @@ title: OptionButton.BorderColor Property (Access)
 keywords: vbaac10.chm10591
 f1_keywords:
 - vbaac10.chm10591
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.BorderColor
 ms.assetid: fd44b63b-d1bb-3663-8f14-08069424d022

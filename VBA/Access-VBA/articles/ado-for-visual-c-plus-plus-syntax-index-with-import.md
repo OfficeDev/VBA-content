@@ -1,6 +1,6 @@
 ---
 title: ADO for Visual C++ Syntax Index with import
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 68821c65-a96d-2524-d77c-030215db8e53
 ms.date: 06/08/2017
 ---

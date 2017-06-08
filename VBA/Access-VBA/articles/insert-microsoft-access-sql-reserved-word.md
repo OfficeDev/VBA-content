@@ -1,6 +1,6 @@
 ---
 title: INSERT (Microsoft Access SQL reserved word)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ff4038e1-8136-f3eb-ec02-ba3b5d849b5a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NavigationButton.FontItalic Property (Access)
 keywords: vbaac10.chm10475
 f1_keywords:
 - vbaac10.chm10475
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.FontItalic
 ms.assetid: e4975f8e-be04-8a18-df90-9974159820fb

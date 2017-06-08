@@ -3,7 +3,7 @@ title: TabControl.PressedForeColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.PressedForeColor
 ms.assetid: 80fafe03-d614-341e-bf8c-7ec8e3e6eac0

@@ -3,7 +3,7 @@ title: Concurrent schema changes caused the create replica operation to fail. Tr
 keywords: jeterr40.chm5003763
 f1_keywords:
 - jeterr40.chm5003763
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e32bf496-e168-a366-682d-a98f536a7834
 ms.date: 06/08/2017
 ---

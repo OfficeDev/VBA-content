@@ -3,7 +3,7 @@ title: AcDefReportView Enumeration (Access)
 keywords: vbaac10.chm14056
 f1_keywords:
 - vbaac10.chm14056
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcDefReportView
 ms.assetid: de51e04e-1ed6-addb-9428-8b8ef6b7f7fe

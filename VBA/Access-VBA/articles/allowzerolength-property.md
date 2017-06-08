@@ -3,7 +3,7 @@ title: AllowZeroLength Property
 keywords: vbaac10.chm4268
 f1_keywords:
 - vbaac10.chm4268
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllowZeroLength
 ms.assetid: e65dd834-7daa-ad78-0560-87aad5efa1a8

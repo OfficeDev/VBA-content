@@ -3,7 +3,7 @@ title: TextBox.FontBold Property (Access)
 keywords: vbaac10.chm11091
 f1_keywords:
 - vbaac10.chm11091
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.FontBold
 ms.assetid: 147d151a-b51c-5be2-56ef-8a94c212cb0b

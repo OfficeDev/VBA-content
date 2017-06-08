@@ -3,7 +3,7 @@ title: Section.OnPaint Property (Access)
 keywords: vbaac10.chm12227,vbaac10.chm5808
 f1_keywords:
 - vbaac10.chm12227,vbaac10.chm5808
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnPaint
 ms.assetid: ecc8a106-3aff-e0e2-3e7b-86a793cc6f7e

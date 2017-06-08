@@ -3,7 +3,7 @@ title: Report.Visible Property (Access)
 keywords: vbaac10.chm13735
 f1_keywords:
 - vbaac10.chm13735
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Visible
 ms.assetid: b860f01b-3a3e-14ab-686b-402fef0027f9

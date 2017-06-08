@@ -1,6 +1,6 @@
 ---
 title: Type Property (Key) (ADOX)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 119a39e3-a397-1afb-2588-8129140810bf
 ms.date: 06/08/2017
 ---

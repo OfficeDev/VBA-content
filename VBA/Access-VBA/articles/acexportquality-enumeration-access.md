@@ -3,7 +3,7 @@ title: AcExportQuality Enumeration (Access)
 keywords: vbaac10.chm14055
 f1_keywords:
 - vbaac10.chm14055
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcExportQuality
 ms.assetid: 7b7f427e-4690-9689-d428-ed469cec920a

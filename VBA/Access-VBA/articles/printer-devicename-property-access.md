@@ -3,7 +3,7 @@ title: Printer.DeviceName Property (Access)
 keywords: vbaac10.chm12859
 f1_keywords:
 - vbaac10.chm12859
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.DeviceName
 ms.assetid: bf4acead-26b9-603d-2ead-537822913405

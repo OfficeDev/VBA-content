@@ -3,7 +3,7 @@ title: NavigationButton.ObjectPalette Property (Access)
 keywords: vbaac10.chm10490
 f1_keywords:
 - vbaac10.chm10490
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.ObjectPalette
 ms.assetid: 10578730-717c-6c3c-d6d4-61a9bc765ca3

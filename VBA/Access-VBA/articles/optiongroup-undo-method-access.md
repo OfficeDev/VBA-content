@@ -3,7 +3,7 @@ title: OptionGroup.Undo Method (Access)
 keywords: vbaac10.chm10811
 f1_keywords:
 - vbaac10.chm10811
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Undo
 ms.assetid: ad22e7a9-4b9c-d46c-99e1-8f1d020c32d8

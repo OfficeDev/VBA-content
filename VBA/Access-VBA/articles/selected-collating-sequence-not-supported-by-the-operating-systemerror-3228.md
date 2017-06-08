@@ -3,7 +3,7 @@ title: Selected collating sequence not supported by the operating system. (Error
 keywords: jeterr40.chm5003228
 f1_keywords:
 - jeterr40.chm5003228
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 39eae021-6584-478d-cb75-ce5131341dba
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Control.Report Property (Access)
 keywords: vbaac10.chm10140
 f1_keywords:
 - vbaac10.chm10140
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Report
 ms.assetid: 1c1f4703-bda7-de97-eb13-830238a5170a

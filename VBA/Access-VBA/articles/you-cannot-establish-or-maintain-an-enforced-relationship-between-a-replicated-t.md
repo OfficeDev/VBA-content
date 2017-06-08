@@ -3,7 +3,7 @@ title: You cannot establish or maintain an enforced relationship between a repli
 keywords: jeterr40.chm5003453
 f1_keywords:
 - jeterr40.chm5003453
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1bd3124e-452f-4cd7-8c71-dbc3267e63a8
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CommandButton.TopPadding Property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.TopPadding
 ms.assetid: 475398a6-ab75-1e39-12dc-ba7056b8caa0

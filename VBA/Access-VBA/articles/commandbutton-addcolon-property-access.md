@@ -3,7 +3,7 @@ title: CommandButton.AddColon Property (Access)
 keywords: vbaac10.chm10483
 f1_keywords:
 - vbaac10.chm10483
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.AddColon
 ms.assetid: cde177a8-b5a8-5063-d061-a81dfbfc2857

@@ -3,7 +3,7 @@ title: Form.Controls Property (Access)
 keywords: vbaac10.chm13508
 f1_keywords:
 - vbaac10.chm13508
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Controls
 ms.assetid: 08a31b50-b644-5912-d784-130f58298dd0

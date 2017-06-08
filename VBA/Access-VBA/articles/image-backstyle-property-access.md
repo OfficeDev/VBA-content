@@ -3,7 +3,7 @@ title: Image.BackStyle Property (Access)
 keywords: vbaac10.chm10380
 f1_keywords:
 - vbaac10.chm10380
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.BackStyle
 ms.assetid: bd3b2a60-2b9d-7b18-63d1-5bc6f059eb5a

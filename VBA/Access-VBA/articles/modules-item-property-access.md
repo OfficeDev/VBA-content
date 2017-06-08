@@ -3,7 +3,7 @@ title: Modules.Item Property (Access)
 keywords: vbaac10.chm12292
 f1_keywords:
 - vbaac10.chm12292
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Modules.Item
 ms.assetid: 82bb5035-2c07-4b24-0257-8e0d86dfa3a1

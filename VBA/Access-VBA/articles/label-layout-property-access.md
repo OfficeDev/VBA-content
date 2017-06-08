@@ -3,7 +3,7 @@ title: Label.Layout Property (Access)
 keywords: vbaac10.chm10244
 f1_keywords:
 - vbaac10.chm10244
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Layout
 ms.assetid: ee80bba5-593e-bde0-af2f-2ff50266dc5a

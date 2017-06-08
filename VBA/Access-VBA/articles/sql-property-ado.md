@@ -1,6 +1,6 @@
 ---
 title: SQL property [ADO]
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 210adcbb-5c89-150b-4c61-6a52dea9af56
 ms.date: 06/08/2017
 ---

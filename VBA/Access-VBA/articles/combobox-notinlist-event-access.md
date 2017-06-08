@@ -3,7 +3,7 @@ title: ComboBox.NotInList Event (Access)
 keywords: vbaac10.chm14214
 f1_keywords:
 - vbaac10.chm14214
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.NotInList
 ms.assetid: 1c8a73e1-ca69-ae31-c86a-c1dc6cb3e860

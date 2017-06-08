@@ -3,7 +3,7 @@ title: CheckBox.InSelection Property (Access)
 keywords: vbaac10.chm10734
 f1_keywords:
 - vbaac10.chm10734
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.InSelection
 ms.assetid: 0dd5f74a-fd36-8bc2-90f8-039d1f83004b

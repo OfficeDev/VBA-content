@@ -3,7 +3,7 @@ title: DoCmd.SetOrderBy Method (Access)
 keywords: vbaac10.chm5980
 f1_keywords:
 - vbaac10.chm5980
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SetOrderBy
 ms.assetid: 020fde6d-4809-79f6-3da5-fc5f6a315a83

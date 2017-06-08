@@ -3,7 +3,7 @@ title: Page.Caption Property (Access)
 keywords: vbaac10.chm12148
 f1_keywords:
 - vbaac10.chm12148
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Caption
 ms.assetid: 7f1b5038-4543-c373-96e9-135102cdd6e6

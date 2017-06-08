@@ -3,7 +3,7 @@ title: ComboBox.KeyboardLanguage Property (Access)
 keywords: vbaac10.chm11464
 f1_keywords:
 - vbaac10.chm11464
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.KeyboardLanguage
 ms.assetid: 5eb0e03c-c931-45b5-7801-d790c4678768

@@ -3,7 +3,7 @@ title: DoCmd.Echo Method (Access)
 keywords: vbaac10.chm4149
 f1_keywords:
 - vbaac10.chm4149
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.Echo
 ms.assetid: 519b4fe7-ff48-7ab3-3117-43da2278aa66

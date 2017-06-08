@@ -3,7 +3,7 @@ title: CommandButton.HelpContextId Property (Access)
 keywords: vbaac10.chm10481
 f1_keywords:
 - vbaac10.chm10481
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.HelpContextId
 ms.assetid: 265cf535-68b0-f627-f09c-c09b72d41aad

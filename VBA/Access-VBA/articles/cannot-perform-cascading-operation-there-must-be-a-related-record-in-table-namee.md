@@ -3,7 +3,7 @@ title: Cannot perform cascading operation. There must be a related record in tab
 keywords: jeterr40.chm5003397
 f1_keywords:
 - jeterr40.chm5003397
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d9e08845-83f5-be57-01ac-bce534e26af8
 ms.date: 06/08/2017
 ---

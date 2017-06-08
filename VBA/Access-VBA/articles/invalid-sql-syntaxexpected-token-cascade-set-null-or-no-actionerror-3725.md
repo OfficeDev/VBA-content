@@ -1,6 +1,6 @@
 ---
 title: "Invalid SQL syntax - Expected token: CASCADE, SET NULL, or NO ACTION. (Error 3725)"
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9813dbcb-2861-5d30-65f9-8e7ab34d7be1
 ms.date: 06/08/2017
 ---

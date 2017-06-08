@@ -3,7 +3,7 @@ title: DataType Property
 keywords: vbaac10.chm10085
 f1_keywords:
 - vbaac10.chm10085
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DataType
 ms.assetid: 507dc426-afa4-783c-835d-5fdcb23a0e8d

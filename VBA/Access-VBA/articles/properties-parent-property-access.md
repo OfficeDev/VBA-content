@@ -3,7 +3,7 @@ title: Properties.Parent Property (Access)
 keywords: vbaac10.chm10048
 f1_keywords:
 - vbaac10.chm10048
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Properties.Parent
 ms.assetid: e257b70c-987c-9172-cd66-94952aecb8f1

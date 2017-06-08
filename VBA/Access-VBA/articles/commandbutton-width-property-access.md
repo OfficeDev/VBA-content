@@ -3,7 +3,7 @@ title: CommandButton.Width Property (Access)
 keywords: vbaac10.chm10469
 f1_keywords:
 - vbaac10.chm10469
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Width
 ms.assetid: 03729218-4c70-8312-ab61-be3cf4b7a029

@@ -3,7 +3,7 @@ title: DoCmd.TransferSharePointList Method (Access)
 keywords: vbaac10.chm5618
 f1_keywords:
 - vbaac10.chm5618
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.TransferSharePointList
 ms.assetid: 9cbd8de6-dc1a-47b0-c1f4-62959a66faf4

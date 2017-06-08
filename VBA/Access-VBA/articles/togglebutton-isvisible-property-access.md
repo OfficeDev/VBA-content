@@ -3,7 +3,7 @@ title: ToggleButton.IsVisible Property (Access)
 keywords: vbaac10.chm11745
 f1_keywords:
 - vbaac10.chm11745
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.IsVisible
 ms.assetid: 1abe4640-f2ee-4aea-e86c-cb5e8946d156

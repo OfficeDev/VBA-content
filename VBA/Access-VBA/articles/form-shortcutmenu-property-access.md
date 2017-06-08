@@ -3,7 +3,7 @@ title: Form.ShortcutMenu Property (Access)
 keywords: vbaac10.chm13387,vbaac10.chm4502
 f1_keywords:
 - vbaac10.chm13387,vbaac10.chm4502
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ShortcutMenu
 ms.assetid: ec652f43-4dc8-4970-19ad-d117c3193528

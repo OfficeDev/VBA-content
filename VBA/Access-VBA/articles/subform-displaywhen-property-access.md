@@ -3,7 +3,7 @@ title: SubForm.DisplayWhen Property (Access)
 keywords: vbaac10.chm11931
 f1_keywords:
 - vbaac10.chm11931
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.DisplayWhen
 ms.assetid: 6f45b7da-6c6f-a7cf-b79a-4537b8f74dfe

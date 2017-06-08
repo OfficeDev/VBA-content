@@ -3,7 +3,7 @@ title: CustomControl.Width Property (Access)
 keywords: vbaac10.chm12022
 f1_keywords:
 - vbaac10.chm12022
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Width
 ms.assetid: 659a7481-cf4e-1909-38b7-358b59002a83

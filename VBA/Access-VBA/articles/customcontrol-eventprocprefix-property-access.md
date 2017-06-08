@@ -3,7 +3,7 @@ title: CustomControl.EventProcPrefix Property (Access)
 keywords: vbaac10.chm12006
 f1_keywords:
 - vbaac10.chm12006
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.EventProcPrefix
 ms.assetid: 578dc1f6-0977-e8b9-e96f-ae3408118456

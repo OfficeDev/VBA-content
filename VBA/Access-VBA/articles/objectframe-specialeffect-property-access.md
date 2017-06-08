@@ -3,7 +3,7 @@ title: ObjectFrame.SpecialEffect Property (Access)
 keywords: vbaac10.chm11594
 f1_keywords:
 - vbaac10.chm11594
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.SpecialEffect
 ms.assetid: 40117a03-0640-5b5c-363d-19f1f5b9f2d0

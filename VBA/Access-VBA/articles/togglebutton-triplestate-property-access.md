@@ -3,7 +3,7 @@ title: ToggleButton.TripleState Property (Access)
 keywords: vbaac10.chm11714
 f1_keywords:
 - vbaac10.chm11714
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.TripleState
 ms.assetid: e36d31b2-25e4-ab83-4a6e-def377ec6fe7

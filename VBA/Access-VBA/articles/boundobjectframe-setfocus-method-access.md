@@ -3,7 +3,7 @@ title: BoundObjectFrame.SetFocus Method (Access)
 keywords: vbaac10.chm10904
 f1_keywords:
 - vbaac10.chm10904
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SetFocus
 ms.assetid: e4733d2b-1cce-36c1-428e-09df2b4e23e3

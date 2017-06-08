@@ -3,7 +3,7 @@ title: Validation rules and default values cannot be placed on system or linked 
 keywords: jeterr40.chm5003312
 f1_keywords:
 - jeterr40.chm5003312
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d1d818fe-14cb-052a-40d9-e038a1d193f4
 ms.date: 06/08/2017
 ---

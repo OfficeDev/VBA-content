@@ -3,7 +3,7 @@ title: Syntax error (comma). (Error 2432)
 keywords: jeterr40.chm5002432
 f1_keywords:
 - jeterr40.chm5002432
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 08e93c34-4775-0cb2-6f83-ddcd1201d9ba
 ms.date: 06/08/2017
 ---

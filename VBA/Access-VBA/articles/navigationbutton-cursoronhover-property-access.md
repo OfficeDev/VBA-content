@@ -3,7 +3,7 @@ title: NavigationButton.CursorOnHover Property (Access)
 keywords: vbaac10.chm10541
 f1_keywords:
 - vbaac10.chm10541
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.CursorOnHover
 ms.assetid: 85d77454-b372-d4ed-75c0-1c3f6065967a

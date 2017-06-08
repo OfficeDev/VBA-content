@@ -3,7 +3,7 @@ title: OptionButton.SetFocus Method (Access)
 keywords: vbaac10.chm10562
 f1_keywords:
 - vbaac10.chm10562
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.SetFocus
 ms.assetid: ca925414-9b8a-c34a-2806-e7894231803a

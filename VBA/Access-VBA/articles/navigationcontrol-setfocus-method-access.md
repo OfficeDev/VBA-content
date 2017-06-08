@@ -3,7 +3,7 @@ title: NavigationControl.SetFocus Method (Access)
 keywords: vbaac10.chm11035
 f1_keywords:
 - vbaac10.chm11035
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.SetFocus
 ms.assetid: 74232b27-17f4-78fc-9c42-0aabaad56257

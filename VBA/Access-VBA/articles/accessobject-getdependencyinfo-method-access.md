@@ -3,7 +3,7 @@ title: AccessObject.GetDependencyInfo Method (Access)
 keywords: vbaac10.chm12756
 f1_keywords:
 - vbaac10.chm12756
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.GetDependencyInfo
 ms.assetid: 33feb9c9-abac-cbe4-acf9-989957f41b7a

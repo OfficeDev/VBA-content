@@ -3,7 +3,7 @@ title: Cannot expand named range. (Error 3434)
 keywords: jeterr40.chm5003434
 f1_keywords:
 - jeterr40.chm5003434
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 356d3c98-498e-b5df-993a-ac17ba7c9139
 ms.date: 06/08/2017
 ---

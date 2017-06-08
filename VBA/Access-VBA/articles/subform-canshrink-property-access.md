@@ -3,7 +3,7 @@ title: SubForm.CanShrink Property (Access)
 keywords: vbaac10.chm11937
 f1_keywords:
 - vbaac10.chm11937
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.CanShrink
 ms.assetid: 55170bb3-6c5c-ab6a-3643-719b13c876e8

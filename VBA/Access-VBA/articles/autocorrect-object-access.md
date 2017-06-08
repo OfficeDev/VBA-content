@@ -3,7 +3,7 @@ title: AutoCorrect Object (Access)
 keywords: vbaac10.chm13260
 f1_keywords:
 - vbaac10.chm13260
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AutoCorrect
 ms.assetid: b9e7990e-0593-4361-8094-2f404cff9b76

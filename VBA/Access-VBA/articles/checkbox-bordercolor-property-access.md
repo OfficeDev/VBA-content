@@ -3,7 +3,7 @@ title: CheckBox.BorderColor Property (Access)
 keywords: vbaac10.chm10718
 f1_keywords:
 - vbaac10.chm10718
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.BorderColor
 ms.assetid: 21f40b75-756c-df56-11bc-824ef796797e

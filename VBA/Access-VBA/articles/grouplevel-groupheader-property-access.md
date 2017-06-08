@@ -3,7 +3,7 @@ title: GroupLevel.GroupHeader Property (Access)
 keywords: vbaac10.chm12241
 f1_keywords:
 - vbaac10.chm12241
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.GroupHeader
 ms.assetid: 336e45dc-595e-a3fd-9d6b-9e1153654602

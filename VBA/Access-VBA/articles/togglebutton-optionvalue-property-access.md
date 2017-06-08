@@ -3,7 +3,7 @@ title: ToggleButton.OptionValue Property (Access)
 keywords: vbaac10.chm11705
 f1_keywords:
 - vbaac10.chm11705
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OptionValue
 ms.assetid: b86ba53d-d590-efe0-9dba-89ff919871fb

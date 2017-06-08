@@ -3,7 +3,7 @@ title: Attachment.OnAttachmentCurrent Property (Access)
 keywords: vbaac10.chm13953,vbaac10.chm5830
 f1_keywords:
 - vbaac10.chm13953,vbaac10.chm5830
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnAttachmentCurrent
 ms.assetid: 7987943b-5283-e9dc-17a6-5f4b54c90d4d

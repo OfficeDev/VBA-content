@@ -3,7 +3,7 @@ title: AcOpenDataMode Enumeration (Access)
 keywords: vbaac10.chm10020
 f1_keywords:
 - vbaac10.chm10020
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcOpenDataMode
 ms.assetid: e50b49fd-b77e-5ee5-d973-59ef46faddd7

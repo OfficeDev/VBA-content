@@ -3,7 +3,7 @@ title: Image.Top Property (Access)
 keywords: vbaac10.chm10377
 f1_keywords:
 - vbaac10.chm10377
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Top
 ms.assetid: 4ab0b0d1-802e-08f9-27a2-08500e0f8b62

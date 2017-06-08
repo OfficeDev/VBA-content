@@ -3,7 +3,7 @@ title: Page.MouseDown Event (Access)
 keywords: vbaac10.chm14281
 f1_keywords:
 - vbaac10.chm14281
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.MouseDown
 ms.assetid: 6b63c5b5-36c6-aa5c-cbf1-c9249b8bff94

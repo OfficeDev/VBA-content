@@ -3,7 +3,7 @@ title: ObjectFrame.OnMouseMove Property (Access)
 keywords: vbaac10.chm11622
 f1_keywords:
 - vbaac10.chm11622
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnMouseMove
 ms.assetid: b57730b7-a8ae-d62f-0511-793633d04969

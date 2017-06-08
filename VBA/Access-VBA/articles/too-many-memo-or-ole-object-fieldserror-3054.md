@@ -3,7 +3,7 @@ title: Too many Memo or OLE Object fields. (Error 3054)
 keywords: jeterr40.chm5003054
 f1_keywords:
 - jeterr40.chm5003054
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 1cb8ceca-d9d0-4879-4ff7-c3f8a7a63994
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: A call to an OLE system function was not successful. Try reinstalling the
 keywords: jeterr40.chm5003448
 f1_keywords:
 - jeterr40.chm5003448
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b9732bd7-a1fc-e60f-c4fb-ce5591886350
 ms.date: 06/08/2017
 ---

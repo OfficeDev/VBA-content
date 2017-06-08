@@ -3,7 +3,7 @@ title: SubForm.InSelection Property (Access)
 keywords: vbaac10.chm11957
 f1_keywords:
 - vbaac10.chm11957
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.InSelection
 ms.assetid: 202ce7d7-4363-b759-0ba7-f81c74dfd1f4

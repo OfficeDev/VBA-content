@@ -3,7 +3,7 @@ title: Form.AllowPivotChartView Property (Access)
 keywords: vbaac10.chm13535
 f1_keywords:
 - vbaac10.chm13535
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowPivotChartView
 ms.assetid: 5585b530-d114-d07e-63cb-8d96dec458e8

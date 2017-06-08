@@ -3,7 +3,7 @@ title: Form.AllowDatasheetView Property (Access)
 keywords: vbaac10.chm13533
 f1_keywords:
 - vbaac10.chm13533
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowDatasheetView
 ms.assetid: 81796b90-94dd-cd27-3613-a2050e2bce21

@@ -3,7 +3,7 @@ title: OptionGroup.ColumnOrder Property (Access)
 keywords: vbaac10.chm10850
 f1_keywords:
 - vbaac10.chm10850
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.ColumnOrder
 ms.assetid: b1222140-b035-db57-db74-40b0db56aecd

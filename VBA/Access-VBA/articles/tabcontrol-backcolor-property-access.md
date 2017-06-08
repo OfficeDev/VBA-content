@@ -3,7 +3,7 @@ title: TabControl.BackColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BackColor
 ms.assetid: 801d889c-0741-1de5-48ed-ea1db8f9a75b

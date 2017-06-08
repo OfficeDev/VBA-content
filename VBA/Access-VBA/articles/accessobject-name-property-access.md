@@ -3,7 +3,7 @@ title: AccessObject.Name Property (Access)
 keywords: vbaac10.chm12746
 f1_keywords:
 - vbaac10.chm12746
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.Name
 ms.assetid: e58b445b-c69e-599a-7396-72a77113e226

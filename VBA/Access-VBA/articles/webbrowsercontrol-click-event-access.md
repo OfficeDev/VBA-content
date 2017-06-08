@@ -3,7 +3,7 @@ title: WebBrowserControl.Click Event (Access)
 keywords: vbaac10.chm143132
 f1_keywords:
 - vbaac10.chm143132
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Click
 ms.assetid: 3fe2ddc2-f208-3374-3b90-34fd130281ca

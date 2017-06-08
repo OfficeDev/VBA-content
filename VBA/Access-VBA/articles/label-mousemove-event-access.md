@@ -3,7 +3,7 @@ title: Label.MouseMove Event (Access)
 keywords: vbaac10.chm14287
 f1_keywords:
 - vbaac10.chm14287
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.MouseMove
 ms.assetid: a06d836a-bd6b-83ad-26b0-59c3f9a24bcd

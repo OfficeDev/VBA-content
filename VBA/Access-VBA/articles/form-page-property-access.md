@@ -3,7 +3,7 @@ title: Form.Page Property (Access)
 keywords: vbaac10.chm13410
 f1_keywords:
 - vbaac10.chm13410
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Page
 ms.assetid: 0ae576ca-75b2-333e-0303-b2bd1e14e438

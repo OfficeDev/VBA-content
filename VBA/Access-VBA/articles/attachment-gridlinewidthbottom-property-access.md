@@ -3,7 +3,7 @@ title: Attachment.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm13999
 f1_keywords:
 - vbaac10.chm13999
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.GridlineWidthBottom
 ms.assetid: 47465946-1888-d2f5-a577-44e5c2fa80c2

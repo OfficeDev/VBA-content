@@ -3,7 +3,7 @@ title: The Synchronizer's client is no longer present and cannot be notified. (E
 keywords: jeterr40.chm5003537
 f1_keywords:
 - jeterr40.chm5003537
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2e4b8631-11b8-be5e-f03b-7b32f75e5ab0
 ms.date: 06/08/2017
 ---

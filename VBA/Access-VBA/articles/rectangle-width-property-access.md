@@ -3,7 +3,7 @@ title: Rectangle.Width Property (Access)
 keywords: vbaac10.chm10285
 f1_keywords:
 - vbaac10.chm10285
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.Width
 ms.assetid: 78a6f0ca-2a29-933b-11d2-ec6967d00898

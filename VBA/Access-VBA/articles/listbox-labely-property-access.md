@@ -3,7 +3,7 @@ title: ListBox.LabelY Property (Access)
 keywords: vbaac10.chm11269
 f1_keywords:
 - vbaac10.chm11269
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.LabelY
 ms.assetid: 79a1486b-4f51-fabd-e56e-51cb2868c0c2

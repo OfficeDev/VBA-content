@@ -3,7 +3,7 @@ title: Attachment.Properties Property (Access)
 keywords: vbaac10.chm13906
 f1_keywords:
 - vbaac10.chm13906
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Properties
 ms.assetid: 38e9513e-3297-6f82-9072-7e03c2e3e22e

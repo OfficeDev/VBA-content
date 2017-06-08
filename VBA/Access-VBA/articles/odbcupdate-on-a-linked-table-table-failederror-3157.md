@@ -3,7 +3,7 @@ title: ODBC - update on a linked table <table> failed. (Error 3157)
 keywords: jeterr40.chm5003157
 f1_keywords:
 - jeterr40.chm5003157
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f5d48f2d-7f12-9550-2a4e-27d7b01bf439
 ms.date: 06/08/2017
 ---

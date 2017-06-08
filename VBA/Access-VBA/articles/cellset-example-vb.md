@@ -1,6 +1,6 @@
 ---
 title: Cellset Example (VB)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 59de67e4-0522-f52e-3e5e-2a0df500e343
 ms.date: 06/08/2017
 ---

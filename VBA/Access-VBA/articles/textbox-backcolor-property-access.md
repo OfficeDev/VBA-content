@@ -3,7 +3,7 @@ title: TextBox.BackColor Property (Access)
 keywords: vbaac10.chm11076
 f1_keywords:
 - vbaac10.chm11076
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BackColor
 ms.assetid: 7880c596-7a47-39b6-74ad-8036355a8e0f

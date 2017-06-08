@@ -3,7 +3,7 @@ title: AcDataTransferType Enumeration (Access)
 keywords: vbaac10.chm10013
 f1_keywords:
 - vbaac10.chm10013
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcDataTransferType
 ms.assetid: cbd51e58-3873-ac1c-b494-55d43f1b2e25

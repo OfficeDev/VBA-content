@@ -3,7 +3,7 @@ title: NavigationButton.Shape Property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Shape
 ms.assetid: 9d9ecd73-b1a4-6861-a420-3bc52beae95c

@@ -3,7 +3,7 @@ title: WebBrowserControl.HelpContextId Property (Access)
 keywords: vbaac10.chm14684
 f1_keywords:
 - vbaac10.chm14684
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.HelpContextId
 ms.assetid: f0678d0c-eb24-2398-208f-971772ea2c21

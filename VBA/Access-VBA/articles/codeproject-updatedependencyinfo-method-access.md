@@ -3,7 +3,7 @@ title: CodeProject.UpdateDependencyInfo Method (Access)
 keywords: vbaac10.chm12727
 f1_keywords:
 - vbaac10.chm12727
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.UpdateDependencyInfo
 ms.assetid: 52530a57-6246-d204-b317-0673f762f138

@@ -3,7 +3,7 @@ title: CustomControl.VerticalAnchor Property (Access)
 keywords: vbaac10.chm10538
 f1_keywords:
 - vbaac10.chm10538
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.VerticalAnchor
 ms.assetid: 0a4658e3-3406-a9f6-58e8-e284e95fe616

@@ -3,7 +3,7 @@ title: EmptyCell.Width Property (Access)
 keywords: vbaac10.chm14309
 f1_keywords:
 - vbaac10.chm14309
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Width
 ms.assetid: ae5cf65a-4f32-7f34-0202-5f4919b033c7

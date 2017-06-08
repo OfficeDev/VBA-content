@@ -3,7 +3,7 @@ title: EmptyCell.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm14337
 f1_keywords:
 - vbaac10.chm14337
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineWidthRight
 ms.assetid: bfef02f6-bc3a-988f-c7ba-de1f27754011

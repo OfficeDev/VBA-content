@@ -3,7 +3,7 @@ title: AcLayoutType Enumeration (Access)
 keywords: vbaac10.chm14040
 f1_keywords:
 - vbaac10.chm14040
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcLayoutType
 ms.assetid: ee963ed0-9293-8ad8-5694-4b93a5e4d89a

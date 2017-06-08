@@ -3,7 +3,7 @@ title: WSParameter.Name Property (Access)
 keywords: vbaac10.chm14584
 f1_keywords:
 - vbaac10.chm14584
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WSParameter.Name
 ms.assetid: 437dd29f-9f63-2d68-d974-03ae6f1df001

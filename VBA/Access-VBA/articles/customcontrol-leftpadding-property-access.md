@@ -3,7 +3,7 @@ title: CustomControl.LeftPadding Property (Access)
 keywords: vbaac10.chm10524
 f1_keywords:
 - vbaac10.chm10524
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.LeftPadding
 ms.assetid: 5beaff4a-d129-6039-4552-3afe589bae03

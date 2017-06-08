@@ -3,7 +3,7 @@ title: Rectangle.OnMouseDown Property (Access)
 keywords: vbaac10.chm10302
 f1_keywords:
 - vbaac10.chm10302
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.OnMouseDown
 ms.assetid: cb63a4ea-455c-8b15-70e0-454a51902add

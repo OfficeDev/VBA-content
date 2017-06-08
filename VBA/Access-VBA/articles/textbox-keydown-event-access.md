@@ -3,7 +3,7 @@ title: TextBox.KeyDown Event (Access)
 keywords: vbaac10.chm14206
 f1_keywords:
 - vbaac10.chm14206
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.KeyDown
 ms.assetid: 00324700-f101-48a0-242f-bdabf4f2d70d

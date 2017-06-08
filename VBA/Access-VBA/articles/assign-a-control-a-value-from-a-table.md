@@ -1,6 +1,6 @@
 ---
 title: Assign a Control a Value From a Table
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d9bba7e3-bca0-00df-3753-dc99ae767759
 ms.date: 06/08/2017
 ---

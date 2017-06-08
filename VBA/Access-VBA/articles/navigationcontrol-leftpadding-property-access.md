@@ -3,7 +3,7 @@ title: NavigationControl.LeftPadding Property (Access)
 keywords: vbaac10.chm11152
 f1_keywords:
 - vbaac10.chm11152
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.LeftPadding
 ms.assetid: 0a082747-dd3d-2ad9-b5e4-4911bd639750

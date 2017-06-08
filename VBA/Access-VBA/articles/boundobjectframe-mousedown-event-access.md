@@ -3,7 +3,7 @@ title: BoundObjectFrame.MouseDown Event (Access)
 keywords: vbaac10.chm14098
 f1_keywords:
 - vbaac10.chm14098
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.MouseDown
 ms.assetid: c1715e90-2f97-4778-6b4c-ceff7f813a9f

@@ -3,7 +3,7 @@ title: Form.PrtDevMode Property (Access)
 keywords: vbaac10.chm13418
 f1_keywords:
 - vbaac10.chm13418
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PrtDevMode
 ms.assetid: a20a2dd9-4e5a-6fb7-63ba-8394e654057f

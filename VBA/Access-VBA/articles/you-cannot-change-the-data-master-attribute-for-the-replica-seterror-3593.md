@@ -3,7 +3,7 @@ title: You cannot change the data master attribute for the replica set. (Error 3
 keywords: jeterr40.chm5003593
 f1_keywords:
 - jeterr40.chm5003593
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5a821264-3ba3-15e5-e377-7381c5d648c7
 ms.date: 06/08/2017
 ---

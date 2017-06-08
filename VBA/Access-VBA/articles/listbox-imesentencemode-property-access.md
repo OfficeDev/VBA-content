@@ -3,7 +3,7 @@ title: ListBox.IMESentenceMode Property (Access)
 keywords: vbaac10.chm11298
 f1_keywords:
 - vbaac10.chm11298
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.IMESentenceMode
 ms.assetid: 877e1766-c378-cf7b-b452-bb8f536980f3

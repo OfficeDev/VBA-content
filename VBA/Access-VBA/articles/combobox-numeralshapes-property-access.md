@@ -3,7 +3,7 @@ title: ComboBox.NumeralShapes Property (Access)
 keywords: vbaac10.chm11467
 f1_keywords:
 - vbaac10.chm11467
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.NumeralShapes
 ms.assetid: 93cb42d2-6274-3af4-0801-87ecf8eb4252

@@ -3,7 +3,7 @@ title: ListBox.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BorderTint
 ms.assetid: 76bcaf37-6c2c-a3cf-6126-effbe218ba11

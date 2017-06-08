@@ -3,7 +3,7 @@ title: You cannot add or change a record because a related record is required in
 keywords: jeterr40.chm5003201
 f1_keywords:
 - jeterr40.chm5003201
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 371ebb17-1809-8076-9bde-aea1df33ef74
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Could not find Synchronizer in the MSysTranspAddress table. (Error 3518)
 keywords: jeterr40.chm5003518
 f1_keywords:
 - jeterr40.chm5003518
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fe07e556-362e-0a2b-1bba-5a2a5d72cdac
 ms.date: 06/08/2017
 ---

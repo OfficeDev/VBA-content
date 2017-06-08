@@ -3,7 +3,7 @@ title: CommandButton.RightPadding Property (Access)
 keywords: vbaac10.chm10526
 f1_keywords:
 - vbaac10.chm10526
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.RightPadding
 ms.assetid: f5a02077-2598-3b5c-58c9-fa77d5947cff

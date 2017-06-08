@@ -3,7 +3,7 @@ title: ListBox.Height Property (Access)
 keywords: vbaac10.chm11244
 f1_keywords:
 - vbaac10.chm11244
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Height
 ms.assetid: b8ef3b9c-58bc-e30c-b754-3a3cf574c840

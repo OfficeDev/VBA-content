@@ -3,7 +3,7 @@ title: Form.RibbonName Property (Access)
 keywords: vbaac10.chm13632
 f1_keywords:
 - vbaac10.chm13632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.RibbonName
 ms.assetid: e352711e-a43d-2dd2-d6db-2bbec7c99e74

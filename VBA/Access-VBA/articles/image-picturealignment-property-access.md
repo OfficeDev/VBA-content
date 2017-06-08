@@ -3,7 +3,7 @@ title: Image.PictureAlignment Property (Access)
 keywords: vbaac10.chm10370
 f1_keywords:
 - vbaac10.chm10370
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.PictureAlignment
 ms.assetid: e0ebec64-9a26-859e-b9fd-5f4a47253bba

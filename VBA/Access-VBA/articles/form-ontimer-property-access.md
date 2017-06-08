@@ -3,7 +3,7 @@ title: Form.OnTimer Property (Access)
 keywords: vbaac10.chm13461
 f1_keywords:
 - vbaac10.chm13461
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnTimer
 ms.assetid: a7df5020-5163-967b-b59a-0fd8f6fe7a54

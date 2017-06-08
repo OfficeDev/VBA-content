@@ -3,7 +3,7 @@ title: TextBox.LabelX Property (Access)
 keywords: vbaac10.chm11100
 f1_keywords:
 - vbaac10.chm11100
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.LabelX
 ms.assetid: 4d3ce486-bd79-cd6d-5886-a0a64cc7abb5

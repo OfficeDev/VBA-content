@@ -1,6 +1,6 @@
 ---
 title: Synchronize Two Combo Boxes on a Form
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fcfc692b-b1c0-c44f-26cd-7d1de732eb6f
 ms.date: 06/08/2017
 ---

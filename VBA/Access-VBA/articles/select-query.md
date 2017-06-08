@@ -3,7 +3,7 @@ title: Select Query
 keywords: vbaac10.chm47373
 f1_keywords:
 - vbaac10.chm47373
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 6db11dcc-2c57-c381-57e1-334108670447
 ms.date: 06/08/2017
 ---

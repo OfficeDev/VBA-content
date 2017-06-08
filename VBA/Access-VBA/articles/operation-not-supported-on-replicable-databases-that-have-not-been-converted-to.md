@@ -3,7 +3,7 @@ title: Operation not supported on replicable databases that have not been conver
 keywords: jeterr40.chm5003703
 f1_keywords:
 - jeterr40.chm5003703
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 523f0971-4182-9579-082f-90c87c8fa961
 ms.date: 06/08/2017
 ---

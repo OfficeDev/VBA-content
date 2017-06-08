@@ -1,6 +1,6 @@
 ---
 title: Connection (ADO for Visual C++ Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 04ec8840-a841-1e94-e606-f1c1fb190533
 ms.date: 06/08/2017
 ---

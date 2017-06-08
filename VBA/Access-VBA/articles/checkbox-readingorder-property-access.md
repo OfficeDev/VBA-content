@@ -3,7 +3,7 @@ title: CheckBox.ReadingOrder Property (Access)
 keywords: vbaac10.chm10749
 f1_keywords:
 - vbaac10.chm10749
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.ReadingOrder
 ms.assetid: b0c40eaf-447a-0051-6ffe-2c7895cdbb58

@@ -3,7 +3,7 @@ title: Application.SetDefaultWorkgroupFile Method (Access)
 keywords: vbaac10.chm12595
 f1_keywords:
 - vbaac10.chm12595
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.SetDefaultWorkgroupFile
 ms.assetid: 64dc24a0-e6dc-685f-620a-463417e8a25d

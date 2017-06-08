@@ -3,7 +3,7 @@ title: CustomControl.OnGotFocus Property (Access)
 keywords: vbaac10.chm12043
 f1_keywords:
 - vbaac10.chm12043
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.OnGotFocus
 ms.assetid: 75c6d494-5524-f628-5d27-aff11dc9e358

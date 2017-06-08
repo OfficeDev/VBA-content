@@ -3,7 +3,7 @@ title: CommandButton.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm10479
 f1_keywords:
 - vbaac10.chm10479
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ShortcutMenuBar
 ms.assetid: fea5b3e5-da70-c3b6-95f6-bc06e7b6c762

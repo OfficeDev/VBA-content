@@ -3,7 +3,7 @@ title: AccessObject.Parent Property (Access)
 keywords: vbaac10.chm12744
 f1_keywords:
 - vbaac10.chm12744
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AccessObject.Parent
 ms.assetid: 3db6009b-6c7e-65de-4033-1d592b122887

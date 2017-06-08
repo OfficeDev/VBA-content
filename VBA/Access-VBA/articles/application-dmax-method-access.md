@@ -3,7 +3,7 @@ title: Application.DMax Method (Access)
 keywords: vbaac10.chm12526
 f1_keywords:
 - vbaac10.chm12526
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DMax
 ms.assetid: d6d978f2-edad-f478-8c15-bc7aa5b575e0

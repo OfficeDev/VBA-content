@@ -3,7 +3,7 @@ title: Operation Object (Access)
 keywords: vbaac10.chm14574
 f1_keywords:
 - vbaac10.chm14574
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Operation
 ms.assetid: 77ca8bb2-b70b-6b4e-7f2a-195759d3668b

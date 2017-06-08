@@ -3,7 +3,7 @@ title: CheckBox.Controls Property (Access)
 keywords: vbaac10.chm10690
 f1_keywords:
 - vbaac10.chm10690
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Controls
 ms.assetid: 4003f288-678f-57a7-0be7-a57517f14188

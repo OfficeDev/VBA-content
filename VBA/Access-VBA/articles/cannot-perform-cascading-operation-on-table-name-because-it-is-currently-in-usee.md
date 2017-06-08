@@ -3,7 +3,7 @@ title: Cannot perform cascading operation on table <name> because it is currentl
 keywords: jeterr40.chm5003414
 f1_keywords:
 - jeterr40.chm5003414
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 238227df-7dd2-6a72-7c3d-8b76a5bc7834
 ms.date: 06/08/2017
 ---

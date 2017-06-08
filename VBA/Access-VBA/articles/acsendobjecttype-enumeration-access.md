@@ -3,7 +3,7 @@ title: AcSendObjectType Enumeration (Access)
 keywords: vbaac10.chm10014
 f1_keywords:
 - vbaac10.chm10014
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSendObjectType
 ms.assetid: 36c260a4-69a5-becd-f9f9-7b0346c983df

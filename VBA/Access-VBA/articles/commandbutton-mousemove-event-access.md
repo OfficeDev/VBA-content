@@ -3,7 +3,7 @@ title: CommandButton.MouseMove Event (Access)
 keywords: vbaac10.chm14084
 f1_keywords:
 - vbaac10.chm14084
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.MouseMove
 ms.assetid: f20d4807-42a8-5c90-e18a-1208a138241c

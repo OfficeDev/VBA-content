@@ -3,7 +3,7 @@ title: NavigationButton.LabelX Property (Access)
 keywords: vbaac10.chm10484
 f1_keywords:
 - vbaac10.chm10484
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.LabelX
 ms.assetid: cddd2467-4d75-bc40-5472-ab8701120940

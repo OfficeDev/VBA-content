@@ -3,7 +3,7 @@ title: TextBox.OnDirty Property (Access)
 keywords: vbaac10.chm11145
 f1_keywords:
 - vbaac10.chm11145
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnDirty
 ms.assetid: 312418b3-29cf-0d53-d92f-aaca6ec192b3

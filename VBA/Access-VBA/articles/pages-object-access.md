@@ -3,7 +3,7 @@ title: Pages Object (Access)
 keywords: vbaac10.chm10125
 f1_keywords:
 - vbaac10.chm10125
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Pages
 ms.assetid: e77c8d31-1cb7-d647-6faa-2eb234ce0708

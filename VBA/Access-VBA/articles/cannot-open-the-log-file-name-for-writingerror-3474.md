@@ -3,7 +3,7 @@ title: Cannot open the log file <name> for writing. (Error 3474)
 keywords: jeterr40.chm5003474
 f1_keywords:
 - jeterr40.chm5003474
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 96bc3f25-933a-fdad-54fa-a8ee0a098d13
 ms.date: 06/08/2017
 ---

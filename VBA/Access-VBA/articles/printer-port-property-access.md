@@ -3,7 +3,7 @@ title: Printer.Port Property (Access)
 keywords: vbaac10.chm12865
 f1_keywords:
 - vbaac10.chm12865
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.Port
 ms.assetid: 0fef85fb-fbe7-eada-1629-d56b6008e039

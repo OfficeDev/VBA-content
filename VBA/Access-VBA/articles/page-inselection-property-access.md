@@ -3,7 +3,7 @@ title: Page.InSelection Property (Access)
 keywords: vbaac10.chm12166
 f1_keywords:
 - vbaac10.chm12166
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.InSelection
 ms.assetid: 7612601b-da5d-bb0a-4e7e-603b444569be

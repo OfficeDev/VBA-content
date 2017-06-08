@@ -3,7 +3,7 @@ title: DisplayControl Property
 keywords: vbaac10.chm4334
 f1_keywords:
 - vbaac10.chm4334
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DisplayControl
 ms.assetid: 24deeaeb-22dc-b8fe-6c39-e9a2a4d12e2b

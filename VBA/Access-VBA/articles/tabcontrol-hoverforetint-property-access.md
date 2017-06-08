@@ -3,7 +3,7 @@ title: TabControl.HoverForeTint Property (Access)
 keywords: vbaac10.chm14617
 f1_keywords:
 - vbaac10.chm14617
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HoverForeTint
 ms.assetid: 0c8468f1-bc5f-85b2-defc-7f193cdd55e7

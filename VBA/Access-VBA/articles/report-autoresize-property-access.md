@@ -3,7 +3,7 @@ title: Report.AutoResize Property (Access)
 keywords: vbaac10.chm13796
 f1_keywords:
 - vbaac10.chm13796
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.AutoResize
 ms.assetid: bf18b1b2-aba6-d4fe-7916-de821c76fbb4

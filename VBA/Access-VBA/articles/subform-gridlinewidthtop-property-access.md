@@ -3,7 +3,7 @@ title: SubForm.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm11975
 f1_keywords:
 - vbaac10.chm11975
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.GridlineWidthTop
 ms.assetid: beb6124e-6433-4242-364a-c0c61570d8a0

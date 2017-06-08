@@ -3,7 +3,7 @@ title: ListBox.SpecialEffect Property (Access)
 keywords: vbaac10.chm11246
 f1_keywords:
 - vbaac10.chm11246
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.SpecialEffect
 ms.assetid: 7cd56728-559d-ffd8-8230-fa570c4633e9

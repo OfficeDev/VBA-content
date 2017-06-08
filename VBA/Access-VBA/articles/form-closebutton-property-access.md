@@ -3,7 +3,7 @@ title: Form.CloseButton Property (Access)
 keywords: vbaac10.chm13376
 f1_keywords:
 - vbaac10.chm13376
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CloseButton
 ms.assetid: c87e3752-0a77-3e5e-9c82-20effaf0af1e

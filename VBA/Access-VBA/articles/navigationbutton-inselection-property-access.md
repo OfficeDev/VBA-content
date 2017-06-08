@@ -3,7 +3,7 @@ title: NavigationButton.InSelection Property (Access)
 keywords: vbaac10.chm10492
 f1_keywords:
 - vbaac10.chm10492
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.InSelection
 ms.assetid: 7d548660-a6ff-50f3-7bb6-71f7b9fe343e

@@ -3,7 +3,7 @@ title: ObjectFrame.Verb Property (Access)
 keywords: vbaac10.chm11570
 f1_keywords:
 - vbaac10.chm11570
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Verb
 ms.assetid: ed661d02-d00f-4911-7be7-3a0e973e6456

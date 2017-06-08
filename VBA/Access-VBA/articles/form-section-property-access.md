@@ -3,7 +3,7 @@ title: Form.Section Property (Access)
 keywords: vbaac10.chm13631
 f1_keywords:
 - vbaac10.chm13631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Section
 ms.assetid: df8d00af-3e1e-86f8-17f4-dd5792193d03

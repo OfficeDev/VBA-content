@@ -3,7 +3,7 @@ title: ListBox.Section Property (Access)
 keywords: vbaac10.chm11271
 f1_keywords:
 - vbaac10.chm11271
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Section
 ms.assetid: 297d3e45-8072-e31b-5462-badf2027ebe5

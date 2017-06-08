@@ -1,6 +1,6 @@
 ---
 title: Server Property Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d35ad670-c9bd-de51-0e4d-ebcad0cb2b55
 ms.date: 06/08/2017
 ---

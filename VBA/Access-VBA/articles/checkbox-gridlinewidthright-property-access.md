@@ -3,7 +3,7 @@ title: CheckBox.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm10778
 f1_keywords:
 - vbaac10.chm10778
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.GridlineWidthRight
 ms.assetid: 7a51f6bf-bf21-2233-b74e-4d2925df0b1d

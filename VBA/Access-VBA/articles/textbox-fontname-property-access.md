@@ -3,7 +3,7 @@ title: TextBox.FontName Property (Access)
 keywords: vbaac10.chm11084
 f1_keywords:
 - vbaac10.chm11084
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.FontName
 ms.assetid: 4eb7cbbe-1e7d-9e29-cbff-867a83605741

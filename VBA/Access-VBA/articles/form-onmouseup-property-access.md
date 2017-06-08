@@ -3,7 +3,7 @@ title: Form.OnMouseUp Property (Access)
 keywords: vbaac10.chm13453
 f1_keywords:
 - vbaac10.chm13453
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnMouseUp
 ms.assetid: 8aea46bc-b62a-351a-0a02-6afbb1362b2b

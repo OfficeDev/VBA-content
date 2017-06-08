@@ -3,7 +3,7 @@ title: OptionButton.OldValue Property (Access)
 keywords: vbaac10.chm10558
 f1_keywords:
 - vbaac10.chm10558
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OldValue
 ms.assetid: ea84a877-ef29-444a-ce08-e816ee7e3dae

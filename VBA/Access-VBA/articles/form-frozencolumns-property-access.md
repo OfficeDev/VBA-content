@@ -3,7 +3,7 @@ title: Form.FrozenColumns Property (Access)
 keywords: vbaac10.chm13420
 f1_keywords:
 - vbaac10.chm13420
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.FrozenColumns
 ms.assetid: 5b595c5e-6a2e-e3d8-1ae8-a2f224eb5516

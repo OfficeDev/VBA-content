@@ -3,7 +3,7 @@ title: Attachment.MouseDown Event (Access)
 keywords: vbaac10.chm14029
 f1_keywords:
 - vbaac10.chm14029
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.MouseDown
 ms.assetid: 45056b32-a019-1284-35e4-fefab6ba2e3e

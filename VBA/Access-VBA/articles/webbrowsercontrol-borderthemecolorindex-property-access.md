@@ -3,7 +3,7 @@ title: WebBrowserControl.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.BorderThemeColorIndex
 ms.assetid: 877c6731-2f2d-3d2e-05ff-8bc7ad5c8050

@@ -1,6 +1,6 @@
 ---
 title: Network I/O error. (Error 3566)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 886a1f5b-1a6b-4177-a893-ec8f0369ad1c
 ms.date: 06/08/2017
 ---

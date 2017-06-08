@@ -3,7 +3,7 @@ title: JOIN (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277613
 f1_keywords:
 - jetsql40.chm5277613
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 78b2108a-85b6-a4e5-903d-d5eb74328770
 ms.date: 06/08/2017
 ---

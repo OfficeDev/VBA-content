@@ -3,7 +3,7 @@ title: ObjectFrame.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm11649
 f1_keywords:
 - vbaac10.chm11649
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineWidthRight
 ms.assetid: 4838b854-1679-18ff-689e-68bf6043a49a

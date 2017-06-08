@@ -3,7 +3,7 @@ title: Rectangle.Section Property (Access)
 keywords: vbaac10.chm10295
 f1_keywords:
 - vbaac10.chm10295
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.Section
 ms.assetid: 60c253a2-aefc-f85a-b928-f34548f10713

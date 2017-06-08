@@ -3,7 +3,7 @@ title: Application.DDEInitiate Method (Access)
 keywords: vbaac10.chm12539
 f1_keywords:
 - vbaac10.chm12539
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DDEInitiate
 ms.assetid: 7b05c3ad-574e-d904-5d50-ff646486ef07

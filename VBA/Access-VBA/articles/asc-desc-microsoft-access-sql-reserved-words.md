@@ -3,7 +3,7 @@ title: ASC/DESC (Microsoft Access SQL reserved words)
 keywords: jetsql40.chm5277607
 f1_keywords:
 - jetsql40.chm5277607
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4f01681c-cd25-e317-f99b-8ec58849ab5b
 ms.date: 06/08/2017
 ---

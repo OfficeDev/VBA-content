@@ -1,6 +1,6 @@
 ---
 title: Use Numeric Criteria in Expressions
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c2055190-8d65-7342-19ef-582c05846b5b
 ms.date: 06/08/2017
 ---

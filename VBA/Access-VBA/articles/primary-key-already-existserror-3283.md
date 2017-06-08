@@ -3,7 +3,7 @@ title: Primary key already exists. (Error 3283)
 keywords: jeterr40.chm5003283
 f1_keywords:
 - jeterr40.chm5003283
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2c4949b8-eeb3-28e4-ccea-2112b395b80f
 ms.date: 06/08/2017
 ---

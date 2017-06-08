@@ -3,7 +3,7 @@ title: FormatCondition.Enabled Property (Access)
 keywords: vbaac10.chm10057
 f1_keywords:
 - vbaac10.chm10057
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.Enabled
 ms.assetid: bc60dfdf-debe-17f2-fc25-023f2bb2e0e7

@@ -3,7 +3,7 @@ title: OptionButton.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14134
 f1_keywords:
 - vbaac10.chm14134
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.BeforeUpdate
 ms.assetid: 9c887502-2d9c-6f21-e5ef-adc164cde095

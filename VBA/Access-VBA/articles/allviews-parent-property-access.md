@@ -3,7 +3,7 @@ title: AllViews.Parent Property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllViews.Parent
 ms.assetid: 1f505dd8-05bf-6efc-e492-83595b39de8b

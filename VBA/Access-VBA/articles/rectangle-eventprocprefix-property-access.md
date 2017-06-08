@@ -3,7 +3,7 @@ title: Rectangle.EventProcPrefix Property (Access)
 keywords: vbaac10.chm10278
 f1_keywords:
 - vbaac10.chm10278
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.EventProcPrefix
 ms.assetid: 7a7781fb-e715-b44c-39ac-6763114ab848

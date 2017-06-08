@@ -3,7 +3,7 @@ title: ComboBox.FormatConditions Property (Access)
 keywords: vbaac10.chm11369
 f1_keywords:
 - vbaac10.chm11369
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.FormatConditions
 ms.assetid: 0eeb11b4-453b-4a00-0a1f-92e3108ab2b9

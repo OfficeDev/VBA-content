@@ -3,7 +3,7 @@ title: Section.InSelection Property (Access)
 keywords: vbaac10.chm12214
 f1_keywords:
 - vbaac10.chm12214
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.InSelection
 ms.assetid: dbcca22e-b793-8615-ec67-2f3cb897c6b6

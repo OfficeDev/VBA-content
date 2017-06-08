@@ -3,7 +3,7 @@ title: TextBox.LabelAlign Property (Access)
 keywords: vbaac10.chm11102
 f1_keywords:
 - vbaac10.chm11102
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.LabelAlign
 ms.assetid: 4714927a-9ce9-b1b0-dbeb-302aaa48a6c8

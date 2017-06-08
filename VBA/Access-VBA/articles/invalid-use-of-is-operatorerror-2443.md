@@ -3,7 +3,7 @@ title: Invalid use of Is operator. (Error 2443)
 keywords: jeterr40.chm5002443
 f1_keywords:
 - jeterr40.chm5002443
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 30abed42-0407-8cff-861e-90b647496b8e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Rectangle.Move Method (Access)
 keywords: vbaac10.chm10306
 f1_keywords:
 - vbaac10.chm10306
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.Move
 ms.assetid: d5550716-69f9-fcdd-3547-1178b2c1a9f0

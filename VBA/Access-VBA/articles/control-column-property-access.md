@@ -3,7 +3,7 @@ title: Control.Column Property (Access)
 keywords: vbaac10.chm10136
 f1_keywords:
 - vbaac10.chm10136
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Column
 ms.assetid: 7e4594a5-113e-9fe0-fb96-04b1ee7e798d

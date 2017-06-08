@@ -3,7 +3,7 @@ title: BoundObjectFrame.LabelX Property (Access)
 keywords: vbaac10.chm10947
 f1_keywords:
 - vbaac10.chm10947
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.LabelX
 ms.assetid: 1e2dcc6f-f192-aac2-060c-9b848ca18d10

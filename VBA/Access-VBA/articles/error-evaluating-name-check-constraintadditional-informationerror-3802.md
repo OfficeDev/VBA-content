@@ -3,7 +3,7 @@ title: Error evaluating <name> CHECK constraint. <Additional information.> (Erro
 keywords: jeterr40.chm5003802
 f1_keywords:
 - jeterr40.chm5003802
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8040d5b3-5104-3a09-37d2-52da23f9d937
 ms.date: 06/08/2017
 ---

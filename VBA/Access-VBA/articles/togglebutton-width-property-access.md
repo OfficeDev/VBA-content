@@ -3,7 +3,7 @@ title: ToggleButton.Width Property (Access)
 keywords: vbaac10.chm11720
 f1_keywords:
 - vbaac10.chm11720
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Width
 ms.assetid: 77c69a42-4203-77ee-9d2e-b100cad9b75b

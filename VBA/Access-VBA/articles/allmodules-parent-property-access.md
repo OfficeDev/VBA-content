@@ -3,7 +3,7 @@ title: AllModules.Parent Property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllModules.Parent
 ms.assetid: d808196c-f185-188c-4fd3-56b5b62c387d

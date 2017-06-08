@@ -3,7 +3,7 @@ title: TabControl.Click Event (Access)
 keywords: vbaac10.chm14270
 f1_keywords:
 - vbaac10.chm14270
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.Click
 ms.assetid: 21d33e13-8635-2ee7-c299-450e3dc74379

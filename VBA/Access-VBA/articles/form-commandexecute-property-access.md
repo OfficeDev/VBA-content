@@ -3,7 +3,7 @@ title: Form.CommandExecute Property (Access)
 keywords: vbaac10.chm13545
 f1_keywords:
 - vbaac10.chm13545
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandExecute
 ms.assetid: b105b107-8123-5cfe-b87d-cb53518e3dba

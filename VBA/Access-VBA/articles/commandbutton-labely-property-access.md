@@ -3,7 +3,7 @@ title: CommandButton.LabelY Property (Access)
 keywords: vbaac10.chm10485
 f1_keywords:
 - vbaac10.chm10485
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.LabelY
 ms.assetid: 8daa4d29-ba7f-67fc-a640-d15a3886441f

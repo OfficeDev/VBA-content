@@ -3,7 +3,7 @@ title: Printers.Application Property (Access)
 keywords: vbaac10.chm12882
 f1_keywords:
 - vbaac10.chm12882
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printers.Application
 ms.assetid: 45fdff4e-6408-17c1-e24d-a4a20c9f472a

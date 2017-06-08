@@ -3,7 +3,7 @@ title: AllFunctions.Application Property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllFunctions.Application
 ms.assetid: a71106f9-2949-c514-62aa-3c8cbff9cf09

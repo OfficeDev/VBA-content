@@ -3,7 +3,7 @@ title: Form.BeforeRender Property (Access)
 keywords: vbaac10.chm13551
 f1_keywords:
 - vbaac10.chm13551
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.BeforeRender
 ms.assetid: f80035ac-4ce6-ac8a-203f-c36afab5cd01

@@ -3,7 +3,7 @@ title: Section.Visible Property (Access)
 keywords: vbaac10.chm12195
 f1_keywords:
 - vbaac10.chm12195
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.Visible
 ms.assetid: 378042c4-48df-c45d-30ab-7bc46c417f31

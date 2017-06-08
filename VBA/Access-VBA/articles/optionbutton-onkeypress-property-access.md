@@ -3,7 +3,7 @@ title: OptionButton.OnKeyPress Property (Access)
 keywords: vbaac10.chm10621
 f1_keywords:
 - vbaac10.chm10621
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnKeyPress
 ms.assetid: 6adf4d90-7922-bdb4-c09e-397f1c8c8a42

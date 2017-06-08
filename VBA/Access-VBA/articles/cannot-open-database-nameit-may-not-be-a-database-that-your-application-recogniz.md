@@ -3,7 +3,7 @@ title: Cannot open database <name>. It may not be a database that your applicati
 keywords: jeterr40.chm5003049
 f1_keywords:
 - jeterr40.chm5003049
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5441640a-c2e9-ac40-f7d7-1b1a216c9fd8
 ms.date: 06/08/2017
 ---

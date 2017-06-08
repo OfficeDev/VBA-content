@@ -3,7 +3,7 @@ title: Paradox index is not primary. (Error 3288)
 keywords: jeterr40.chm5003288
 f1_keywords:
 - jeterr40.chm5003288
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5866732f-b013-a777-a3ed-46a9d2ce43ea
 ms.date: 06/08/2017
 ---

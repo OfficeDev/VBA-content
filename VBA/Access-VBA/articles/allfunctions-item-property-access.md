@@ -3,7 +3,7 @@ title: AllFunctions.Item Property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllFunctions.Item
 ms.assetid: d705b1b9-5509-4a1e-8a0e-55357a544d62

@@ -1,6 +1,6 @@
 ---
 title: Set Properties of ActiveX Data Objects in Visual Basic
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 54955634-d354-54ff-495b-1f696e392dfe
 ms.date: 06/08/2017
 ---

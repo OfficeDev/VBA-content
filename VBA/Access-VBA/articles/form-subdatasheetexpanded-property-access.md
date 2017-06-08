@@ -3,7 +3,7 @@ title: Form.SubdatasheetExpanded Property (Access)
 keywords: vbaac10.chm13511
 f1_keywords:
 - vbaac10.chm13511
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SubdatasheetExpanded
 ms.assetid: 543f2398-ca70-5261-0f9f-e1d864c442e0

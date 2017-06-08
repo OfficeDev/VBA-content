@@ -3,7 +3,7 @@ title: CheckBox.AfterUpdate Event (Access)
 keywords: vbaac10.chm14121
 f1_keywords:
 - vbaac10.chm14121
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.AfterUpdate
 ms.assetid: dfcb46c7-fe13-02a5-4d1e-e3e897b738ae

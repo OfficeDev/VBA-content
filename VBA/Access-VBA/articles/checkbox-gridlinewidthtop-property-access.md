@@ -3,7 +3,7 @@ title: CheckBox.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm10777
 f1_keywords:
 - vbaac10.chm10777
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.GridlineWidthTop
 ms.assetid: 337537e4-7754-40a9-b5e7-c672076578f9

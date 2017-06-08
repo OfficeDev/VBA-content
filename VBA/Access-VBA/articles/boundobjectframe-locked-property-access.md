@@ -3,7 +3,7 @@ title: BoundObjectFrame.Locked Property (Access)
 keywords: vbaac10.chm10924
 f1_keywords:
 - vbaac10.chm10924
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Locked
 ms.assetid: e43c4870-12bb-ebff-5579-21134de28c36

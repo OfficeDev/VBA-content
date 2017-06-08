@@ -3,7 +3,7 @@ title: Page.Tag Property (Access)
 keywords: vbaac10.chm12164
 f1_keywords:
 - vbaac10.chm12164
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Tag
 ms.assetid: d7d3b60b-318e-a2ae-dda7-4d090e2398f2

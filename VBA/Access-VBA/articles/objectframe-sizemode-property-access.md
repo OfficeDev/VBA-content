@@ -3,7 +3,7 @@ title: ObjectFrame.SizeMode Property (Access)
 keywords: vbaac10.chm11560
 f1_keywords:
 - vbaac10.chm11560
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.SizeMode
 ms.assetid: 2aaa2f95-7982-a585-1a9f-a6ed191be79e

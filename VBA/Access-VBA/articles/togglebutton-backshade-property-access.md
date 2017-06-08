@@ -3,7 +3,7 @@ title: ToggleButton.BackShade Property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.BackShade
 ms.assetid: d536f879-2819-9dff-56ba-aa92f3964b50

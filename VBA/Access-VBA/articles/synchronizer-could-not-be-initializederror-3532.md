@@ -3,7 +3,7 @@ title: Synchronizer could not be initialized. (Error 3532)
 keywords: jeterr40.chm5003532
 f1_keywords:
 - jeterr40.chm5003532
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 09974f17-4136-9cfb-29cf-c04af13592c3
 ms.date: 06/08/2017
 ---

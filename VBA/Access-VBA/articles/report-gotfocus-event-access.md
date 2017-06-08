@@ -3,7 +3,7 @@ title: Report.GotFocus Event (Access)
 keywords: vbaac10.chm13887
 f1_keywords:
 - vbaac10.chm13887
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.GotFocus
 ms.assetid: 667b4798-4407-f60f-af3a-7788a0501761

@@ -3,7 +3,7 @@ title: Report.MinMaxButtons Property (Access)
 keywords: vbaac10.chm13802
 f1_keywords:
 - vbaac10.chm13802
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.MinMaxButtons
 ms.assetid: 8aee0247-804a-e9ee-e11a-11c9c5d37ed6

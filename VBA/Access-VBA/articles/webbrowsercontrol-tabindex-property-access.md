@@ -3,7 +3,7 @@ title: WebBrowserControl.TabIndex Property (Access)
 keywords: vbaac10.chm143146
 f1_keywords:
 - vbaac10.chm143146
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.TabIndex
 ms.assetid: 87661ef2-ce0d-2525-2759-c115e3ac2ab5

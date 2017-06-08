@@ -3,7 +3,7 @@ title: BoundObjectFrame.Action Property (Access)
 keywords: vbaac10.chm10956
 f1_keywords:
 - vbaac10.chm10956
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Action
 ms.assetid: d75eea30-bee7-0b8e-f67c-8682cd696262

@@ -3,7 +3,7 @@ title: AcPictureCaptionArrangement Enumeration (Access)
 keywords: vbaac10.chm14291
 f1_keywords:
 - vbaac10.chm14291
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcPictureCaptionArrangement
 ms.assetid: e77a758f-4139-343f-9f1c-5e29db3fe5a3

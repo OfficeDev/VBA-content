@@ -3,7 +3,7 @@ title: Form.PictureData Property (Access)
 keywords: vbaac10.chm13474
 f1_keywords:
 - vbaac10.chm13474
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PictureData
 ms.assetid: 09748208-d338-f87d-a53a-4cabee01addb

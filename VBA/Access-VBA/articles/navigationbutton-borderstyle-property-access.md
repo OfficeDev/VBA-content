@@ -3,7 +3,7 @@ title: NavigationButton.BorderStyle Property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BorderStyle
 ms.assetid: 67938968-013c-a58e-84d3-28c24fea7dab

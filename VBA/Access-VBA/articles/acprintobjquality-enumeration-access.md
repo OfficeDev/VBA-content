@@ -3,7 +3,7 @@ title: AcPrintObjQuality Enumeration (Access)
 keywords: vbaac10.chm13245
 f1_keywords:
 - vbaac10.chm13245
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcPrintObjQuality
 ms.assetid: 67c07d41-776a-0dc6-22dd-9bb1bdf95fdc

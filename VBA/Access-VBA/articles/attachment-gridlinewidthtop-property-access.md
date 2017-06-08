@@ -3,7 +3,7 @@ title: Attachment.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm13997
 f1_keywords:
 - vbaac10.chm13997
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.GridlineWidthTop
 ms.assetid: 734f4aef-7233-7fd1-f0e2-bb782b7b6262

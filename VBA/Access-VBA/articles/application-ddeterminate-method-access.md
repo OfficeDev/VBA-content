@@ -3,7 +3,7 @@ title: Application.DDETerminate Method (Access)
 keywords: vbaac10.chm12543
 f1_keywords:
 - vbaac10.chm12543
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.DDETerminate
 ms.assetid: 97684f64-dd80-03b6-965d-42e9d0e6f264

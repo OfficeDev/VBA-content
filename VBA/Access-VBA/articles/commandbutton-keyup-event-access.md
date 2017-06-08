@@ -3,7 +3,7 @@ title: CommandButton.KeyUp Event (Access)
 keywords: vbaac10.chm14088
 f1_keywords:
 - vbaac10.chm14088
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.KeyUp
 ms.assetid: 6466c06a-d3fc-8187-82dd-7a5c332049a3

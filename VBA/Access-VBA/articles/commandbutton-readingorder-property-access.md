@@ -3,7 +3,7 @@ title: CommandButton.ReadingOrder Property (Access)
 keywords: vbaac10.chm10505
 f1_keywords:
 - vbaac10.chm10505
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.ReadingOrder
 ms.assetid: 5a47e95d-7421-147f-084a-74130cf524c7

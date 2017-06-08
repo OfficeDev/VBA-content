@@ -3,7 +3,7 @@ title: WebBrowserControl.BeforeUpdate Event (Access)
 keywords: vbaac10.chm143124
 f1_keywords:
 - vbaac10.chm143124
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.BeforeUpdate
 ms.assetid: 7523efcc-cbee-d452-8e97-cf75fc6d4270

@@ -3,7 +3,7 @@ title: This expression is typed incorrectly, or it is too complex to be evaluate
 keywords: jeterr40.chm5003071
 f1_keywords:
 - jeterr40.chm5003071
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f84d6f86-c78e-4d3c-34cb-e7ea4e68a11e
 ms.date: 06/08/2017
 ---

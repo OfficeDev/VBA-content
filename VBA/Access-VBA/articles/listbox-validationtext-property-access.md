@@ -3,7 +3,7 @@ title: ListBox.ValidationText Property (Access)
 keywords: vbaac10.chm11231
 f1_keywords:
 - vbaac10.chm11231
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ValidationText
 ms.assetid: be52194b-be06-9a85-30f6-718211038213

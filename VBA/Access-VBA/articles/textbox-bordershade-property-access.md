@@ -3,7 +3,7 @@ title: TextBox.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BorderShade
 ms.assetid: 554920e1-e5ae-1c48-f5d5-ab964070bec0

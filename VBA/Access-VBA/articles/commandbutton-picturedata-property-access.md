@@ -3,7 +3,7 @@ title: CommandButton.PictureData Property (Access)
 keywords: vbaac10.chm10453
 f1_keywords:
 - vbaac10.chm10453
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.PictureData
 ms.assetid: 7208ecc7-c057-4ad0-c55e-15a7a710f0a4

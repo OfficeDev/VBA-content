@@ -3,7 +3,7 @@ title: ComboBox.Controls Property (Access)
 keywords: vbaac10.chm11367
 f1_keywords:
 - vbaac10.chm11367
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Controls
 ms.assetid: 8f936303-1d90-d1cd-320f-de175df686cf

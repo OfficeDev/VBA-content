@@ -3,7 +3,7 @@ title: DoCmd.SetDisplayedCategories Method (Access)
 keywords: vbaac10.chm5851
 f1_keywords:
 - vbaac10.chm5851
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.SetDisplayedCategories
 ms.assetid: ae2290c3-43ff-c19d-63f8-41427aacd9ce

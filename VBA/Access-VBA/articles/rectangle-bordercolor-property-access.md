@@ -3,7 +3,7 @@ title: Rectangle.BorderColor Property (Access)
 keywords: vbaac10.chm10292
 f1_keywords:
 - vbaac10.chm10292
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BorderColor
 ms.assetid: 3863c99e-b68f-42e2-b7e9-637c5f5a3b63

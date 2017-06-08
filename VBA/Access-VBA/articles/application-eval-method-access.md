@@ -3,7 +3,7 @@ title: Application.Eval Method (Access)
 keywords: vbaac10.chm12537
 f1_keywords:
 - vbaac10.chm12537
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.Eval
 ms.assetid: d02d5278-1ff3-c405-d579-7a58f2e1ea68

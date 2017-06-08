@@ -3,7 +3,7 @@ title: There is no new data in shared memory for the Synchronizer or Replication
 keywords: jeterr40.chm5003528
 f1_keywords:
 - jeterr40.chm5003528
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 81d3ba1d-fc84-0434-4433-361d94c44229
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Format Dates as U.S. Dates Regardless of Regional Settings
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d2e9121d-d950-0f63-9a28-53613a205465
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Application.Version Property (Access)
 keywords: vbaac10.chm12599
 f1_keywords:
 - vbaac10.chm12599
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.Version
 ms.assetid: 3fd0113f-5c8f-0477-6030-cf548f7cb2ff

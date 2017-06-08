@@ -3,7 +3,7 @@ title: ComboBox.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BackThemeColorIndex
 ms.assetid: fd8dc917-9cb7-94ca-5bcf-0d8e1f741fbb

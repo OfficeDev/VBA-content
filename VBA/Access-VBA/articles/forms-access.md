@@ -1,6 +1,6 @@
 ---
 title: Forms (Access)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a561c481-2d42-4de1-8400-be6a199f59a0
 ms.date: 06/08/2017
 ---

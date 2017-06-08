@@ -3,7 +3,7 @@ title: TabControl.MouseDown Event (Access)
 keywords: vbaac10.chm14272
 f1_keywords:
 - vbaac10.chm14272
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.MouseDown
 ms.assetid: 84fc4acb-37df-e5d1-3aa7-15726da2fcde

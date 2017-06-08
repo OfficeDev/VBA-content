@@ -3,7 +3,7 @@ title: BoundObjectFrame.BackStyle Property (Access)
 keywords: vbaac10.chm10931
 f1_keywords:
 - vbaac10.chm10931
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackStyle
 ms.assetid: 335ce425-d682-831a-ecfa-4c46b9bf5a28

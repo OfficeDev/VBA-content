@@ -3,7 +3,7 @@ title: NavigationControl.OnLostFocus Property (Access)
 keywords: vbaac10.chm11121
 f1_keywords:
 - vbaac10.chm11121
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.OnLostFocus
 ms.assetid: 1f7496cc-7550-d9cd-c7bb-d461775d8fed

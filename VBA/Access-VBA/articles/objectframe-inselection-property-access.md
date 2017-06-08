@@ -3,7 +3,7 @@ title: ObjectFrame.InSelection Property (Access)
 keywords: vbaac10.chm11613
 f1_keywords:
 - vbaac10.chm11613
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.InSelection
 ms.assetid: 5ae30220-4d7a-1838-1edc-99b54689b6ab

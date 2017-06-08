@@ -3,7 +3,7 @@ title: Page.Picture Property (Access)
 keywords: vbaac10.chm12149
 f1_keywords:
 - vbaac10.chm12149
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Picture
 ms.assetid: 22487a28-6773-7223-ffcc-59e885790c69

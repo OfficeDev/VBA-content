@@ -3,7 +3,7 @@ title: Report.Page Event (Access)
 keywords: vbaac10.chm13882
 f1_keywords:
 - vbaac10.chm13882
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Page
 ms.assetid: c3fcce28-0bcd-4ef1-427f-504f0f80d336

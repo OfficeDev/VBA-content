@@ -3,7 +3,7 @@ title: CheckBox.HideDuplicates Property (Access)
 keywords: vbaac10.chm10708
 f1_keywords:
 - vbaac10.chm10708
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.HideDuplicates
 ms.assetid: 60f024b3-113f-4509-6556-cc51ad656c85

@@ -3,7 +3,7 @@ title: Report.HelpFile Property (Access)
 keywords: vbaac10.chm13717
 f1_keywords:
 - vbaac10.chm13717
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.HelpFile
 ms.assetid: cfab3009-c8e1-5f56-020a-e0a972e0de50

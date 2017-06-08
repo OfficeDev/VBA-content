@@ -3,7 +3,7 @@ title: Attachment.OldBorderStyle Property (Access)
 keywords: vbaac10.chm13928
 f1_keywords:
 - vbaac10.chm13928
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OldBorderStyle
 ms.assetid: abbc1a8d-d9cc-b917-026d-a1847739c362

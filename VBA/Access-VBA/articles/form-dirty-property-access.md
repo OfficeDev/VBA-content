@@ -3,7 +3,7 @@ title: Form.Dirty Property (Access)
 keywords: vbaac10.chm13463
 f1_keywords:
 - vbaac10.chm13463
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Dirty
 ms.assetid: 5806283f-7947-9e13-d6c3-49d519a8b521

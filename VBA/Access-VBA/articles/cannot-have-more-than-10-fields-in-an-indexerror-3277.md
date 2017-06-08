@@ -3,7 +3,7 @@ title: Cannot have more than 10 fields in an index. (Error 3277)
 keywords: jeterr40.chm5003277
 f1_keywords:
 - jeterr40.chm5003277
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d9e44d5a-b76a-fc9a-b158-5adfea634296
 ms.date: 06/08/2017
 ---

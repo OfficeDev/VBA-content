@@ -3,7 +3,7 @@ title: ToggleButton.HideDuplicates Property (Access)
 keywords: vbaac10.chm11717
 f1_keywords:
 - vbaac10.chm11717
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.HideDuplicates
 ms.assetid: 3bcd4798-81fa-0cfb-4dd4-1ed9150dbb3a

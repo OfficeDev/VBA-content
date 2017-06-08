@@ -3,7 +3,7 @@ title: <Message> in expression. (Error 3077)
 keywords: jeterr40.chm5003077
 f1_keywords:
 - jeterr40.chm5003077
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3748c4c0-33e2-3a62-676d-2ca156e810d9
 ms.date: 06/08/2017
 ---

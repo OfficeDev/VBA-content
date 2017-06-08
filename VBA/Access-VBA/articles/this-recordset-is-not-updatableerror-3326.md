@@ -3,7 +3,7 @@ title: This Recordset is not updatable. (Error 3326)
 keywords: jeterr40.chm5003326
 f1_keywords:
 - jeterr40.chm5003326
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 936f4694-cc5f-9f56-ac34-c5640c7c77b4
 ms.date: 06/08/2017
 ---

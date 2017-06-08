@@ -3,7 +3,7 @@ title: Label.Application Property (Access)
 keywords: vbaac10.chm10183
 f1_keywords:
 - vbaac10.chm10183
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.Application
 ms.assetid: 96312f7e-e01e-dcf6-090d-a329c13599d1

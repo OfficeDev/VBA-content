@@ -3,7 +3,7 @@ title: SubForm.EventProcPrefix Property (Access)
 keywords: vbaac10.chm11923
 f1_keywords:
 - vbaac10.chm11923
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.EventProcPrefix
 ms.assetid: 335b6a0b-eb64-221c-ea4f-3dc2fb7a8191

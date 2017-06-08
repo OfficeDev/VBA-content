@@ -3,7 +3,7 @@ title: Allow Multiple Values Property
 keywords: vbaac10.chm5648
 f1_keywords:
 - vbaac10.chm5648
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 72153f2d-25cf-3cfc-ac17-370b88b487e4
 ms.date: 06/08/2017
 ---

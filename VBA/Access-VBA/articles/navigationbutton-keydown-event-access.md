@@ -3,7 +3,7 @@ title: NavigationButton.KeyDown Event (Access)
 keywords: vbaac10.chm14086
 f1_keywords:
 - vbaac10.chm14086
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.KeyDown
 ms.assetid: ffca22d6-50b9-4c98-b9ae-3aec03f2f0fb

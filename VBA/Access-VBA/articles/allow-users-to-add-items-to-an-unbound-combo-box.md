@@ -1,6 +1,6 @@
 ---
 title: Allow Users to Add Items to an Unbound Combo Box
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 654cefc7-cbd4-5e8e-adc7-919c6977ac6a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OptionButton.OnExit Property (Access)
 keywords: vbaac10.chm10611
 f1_keywords:
 - vbaac10.chm10611
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.OnExit
 ms.assetid: a857d054-b372-e10b-0246-f0e95b742902

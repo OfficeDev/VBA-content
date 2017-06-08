@@ -3,7 +3,7 @@ title: Page.DblClick Event (Access)
 keywords: vbaac10.chm14280
 f1_keywords:
 - vbaac10.chm14280
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.DblClick
 ms.assetid: 9f2f0ceb-c832-b87a-38b3-7a8c1a406a88

@@ -3,7 +3,7 @@ title: Too many fields defined. (Error 3190)
 keywords: jeterr40.chm5003190
 f1_keywords:
 - jeterr40.chm5003190
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8b69b761-9234-730a-a573-213ed013e579
 ms.date: 06/08/2017
 ---

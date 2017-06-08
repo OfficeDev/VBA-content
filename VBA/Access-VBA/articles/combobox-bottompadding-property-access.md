@@ -3,7 +3,7 @@ title: ComboBox.BottomPadding Property (Access)
 keywords: vbaac10.chm11484
 f1_keywords:
 - vbaac10.chm11484
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BottomPadding
 ms.assetid: 1e65383f-3928-7cbe-e4e3-e244d877043b

@@ -3,7 +3,7 @@ title: The database has been placed in a state by user <name> on machine <name> 
 keywords: jeterr40.chm5003734
 f1_keywords:
 - jeterr40.chm5003734
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5c5483ee-af6a-1cb7-16a3-5a72f3c33df7
 ms.date: 06/08/2017
 ---

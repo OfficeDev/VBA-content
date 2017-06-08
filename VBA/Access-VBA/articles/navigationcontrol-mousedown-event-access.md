@@ -3,7 +3,7 @@ title: NavigationControl.MouseDown Event (Access)
 keywords: vbaac10.chm14203
 f1_keywords:
 - vbaac10.chm14203
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.MouseDown
 ms.assetid: 0406fc90-fa66-b436-6761-c16915e37b5d

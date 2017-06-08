@@ -3,7 +3,7 @@ title: Page.SetFocus Method (Access)
 keywords: vbaac10.chm12143
 f1_keywords:
 - vbaac10.chm12143
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.SetFocus
 ms.assetid: e2254784-bc8c-698d-f582-e2c0ce429204

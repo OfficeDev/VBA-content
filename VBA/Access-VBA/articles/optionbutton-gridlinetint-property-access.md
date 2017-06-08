@@ -3,7 +3,7 @@ title: OptionButton.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.GridlineTint
 ms.assetid: 83b2b75b-7c9d-0e6c-1015-eeead18cb20b

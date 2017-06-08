@@ -3,7 +3,7 @@ title: TextBox.AfterUpdate Event (Access)
 keywords: vbaac10.chm14195
 f1_keywords:
 - vbaac10.chm14195
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.AfterUpdate
 ms.assetid: 609ef5f3-3894-85eb-4879-5db3fc7ff188

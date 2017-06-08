@@ -3,7 +3,7 @@ title: Label.HorizontalAnchor Property (Access)
 keywords: vbaac10.chm10258
 f1_keywords:
 - vbaac10.chm10258
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.HorizontalAnchor
 ms.assetid: ccdb70d5-53be-a818-52db-0f36df5c6714

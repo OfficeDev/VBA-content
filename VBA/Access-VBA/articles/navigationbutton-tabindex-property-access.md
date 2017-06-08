@@ -3,7 +3,7 @@ title: NavigationButton.TabIndex Property (Access)
 keywords: vbaac10.chm10466
 f1_keywords:
 - vbaac10.chm10466
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.TabIndex
 ms.assetid: 2042a31a-ae68-665b-624e-1a41ad7b7c37

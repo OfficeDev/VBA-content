@@ -3,7 +3,7 @@ title: Form.Cycle Property (Access)
 keywords: vbaac10.chm13384
 f1_keywords:
 - vbaac10.chm13384
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Cycle
 ms.assetid: 621d7101-5237-b239-fcb3-2d942a0329b0

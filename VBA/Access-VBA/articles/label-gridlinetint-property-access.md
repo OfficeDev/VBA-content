@@ -3,7 +3,7 @@ title: Label.GridlineTint Property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineTint
 ms.assetid: 3f260e04-569f-b06a-57a0-31a5c0cb846d

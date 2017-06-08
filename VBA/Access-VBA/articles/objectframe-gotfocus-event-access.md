@@ -3,7 +3,7 @@ title: ObjectFrame.GotFocus Event (Access)
 keywords: vbaac10.chm14107
 f1_keywords:
 - vbaac10.chm14107
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.GotFocus
 ms.assetid: 413efc78-c011-2dd6-4c5c-7b462fa9ede2

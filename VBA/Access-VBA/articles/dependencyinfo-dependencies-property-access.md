@@ -3,7 +3,7 @@ title: DependencyInfo.Dependencies Property (Access)
 keywords: vbaac10.chm13275
 f1_keywords:
 - vbaac10.chm13275
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DependencyInfo.Dependencies
 ms.assetid: 412c0237-464b-0790-5518-1266d9ded8a9

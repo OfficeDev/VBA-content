@@ -3,7 +3,7 @@ title: Control.OldValue Property (Access)
 keywords: vbaac10.chm10138
 f1_keywords:
 - vbaac10.chm10138
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.OldValue
 ms.assetid: eb805182-2e02-f134-2515-12b3ca564154

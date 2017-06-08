@@ -3,7 +3,7 @@ title: NavigationButton.LayoutID Property (Access)
 keywords: vbaac10.chm10539
 f1_keywords:
 - vbaac10.chm10539
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.LayoutID
 ms.assetid: 4eaa0461-4c2e-6ed5-f699-fdf879962b8a

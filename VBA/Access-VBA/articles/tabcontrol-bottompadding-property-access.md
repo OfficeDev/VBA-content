@@ -3,7 +3,7 @@ title: TabControl.BottomPadding Property (Access)
 keywords: vbaac10.chm14539
 f1_keywords:
 - vbaac10.chm14539
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BottomPadding
 ms.assetid: ac824a65-ea93-d321-b972-7b0b640e01a3

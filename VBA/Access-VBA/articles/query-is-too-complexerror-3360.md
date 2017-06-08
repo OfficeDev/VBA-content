@@ -3,7 +3,7 @@ title: Query is too complex. (Error 3360)
 keywords: jeterr40.chm5003360
 f1_keywords:
 - jeterr40.chm5003360
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c6e55c83-010a-7771-818e-0bb767598884
 ms.date: 06/08/2017
 ---

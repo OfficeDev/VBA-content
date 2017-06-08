@@ -3,7 +3,7 @@ title: The Access database is wrong or missing for this SQL/Jet replica set. (Er
 keywords: jeterr40.chm5003778
 f1_keywords:
 - jeterr40.chm5003778
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 21c104f6-06cb-f3b5-aa9e-098dca92c223
 ms.date: 06/08/2017
 ---

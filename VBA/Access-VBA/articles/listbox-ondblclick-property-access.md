@@ -3,7 +3,7 @@ title: ListBox.OnDblClick Property (Access)
 keywords: vbaac10.chm11285
 f1_keywords:
 - vbaac10.chm11285
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnDblClick
 ms.assetid: 4271eff9-1d13-209a-9d7b-965893e36f59

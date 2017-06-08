@@ -3,7 +3,7 @@ title: Operation.WSParameters Property (Access)
 keywords: vbaac10.chm14577
 f1_keywords:
 - vbaac10.chm14577
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Operation.WSParameters
 ms.assetid: aa8a8164-d13f-a5c5-5f19-2aea0d76069d

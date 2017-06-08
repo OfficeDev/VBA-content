@@ -3,7 +3,7 @@ title: ListBox.InSelection Property (Access)
 keywords: vbaac10.chm11277
 f1_keywords:
 - vbaac10.chm11277
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.InSelection
 ms.assetid: 4c0d3434-752e-c96e-32ce-78a29d4da1e7

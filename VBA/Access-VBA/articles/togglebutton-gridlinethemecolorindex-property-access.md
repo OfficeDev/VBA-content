@@ -3,7 +3,7 @@ title: ToggleButton.GridlineThemeColorIndex Property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineThemeColorIndex
 ms.assetid: 437bf229-8486-3be0-e115-b81af5a88a1c

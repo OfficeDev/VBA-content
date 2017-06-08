@@ -3,7 +3,7 @@ title: Form.DatasheetFontWeight Property (Access)
 keywords: vbaac10.chm13398
 f1_keywords:
 - vbaac10.chm13398
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DatasheetFontWeight
 ms.assetid: 6dd2c6d3-1f27-8b86-abf5-f5581fbe7d23

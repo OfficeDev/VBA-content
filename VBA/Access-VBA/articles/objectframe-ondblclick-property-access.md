@@ -3,7 +3,7 @@ title: ObjectFrame.OnDblClick Property (Access)
 keywords: vbaac10.chm11620
 f1_keywords:
 - vbaac10.chm11620
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnDblClick
 ms.assetid: 356cbeb6-b0e2-d5a5-434a-507a760b8631

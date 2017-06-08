@@ -3,7 +3,7 @@ title: Cannot set this property for remote objects. (Error 3365)
 keywords: jeterr40.chm5003365
 f1_keywords:
 - jeterr40.chm5003365
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 45426d36-6bb6-2ea3-d90c-df483a300031
 ms.date: 06/08/2017
 ---

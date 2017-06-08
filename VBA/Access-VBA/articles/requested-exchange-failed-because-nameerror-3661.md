@@ -3,7 +3,7 @@ title: Requested exchange failed because <name>. (Error 3661)
 keywords: jeterr40.chm5003661
 f1_keywords:
 - jeterr40.chm5003661
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4c4d7f77-b9b7-59c0-47cd-1a92fa458160
 ms.date: 06/08/2017
 ---

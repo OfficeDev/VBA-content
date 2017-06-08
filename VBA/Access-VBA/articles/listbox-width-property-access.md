@@ -3,7 +3,7 @@ title: ListBox.Width Property (Access)
 keywords: vbaac10.chm11243
 f1_keywords:
 - vbaac10.chm11243
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Width
 ms.assetid: 3c57661f-34a3-c8d7-c8ca-076bf73610b0

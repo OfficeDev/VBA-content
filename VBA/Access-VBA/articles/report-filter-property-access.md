@@ -3,7 +3,7 @@ title: Report.Filter Property (Access)
 keywords: vbaac10.chm13690
 f1_keywords:
 - vbaac10.chm13690
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Filter
 ms.assetid: ce57e05d-c3a8-012a-205e-7dfb2e4dd78d

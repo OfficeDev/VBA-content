@@ -3,7 +3,7 @@ title: Form.SelHeight Property (Access)
 keywords: vbaac10.chm13472
 f1_keywords:
 - vbaac10.chm13472
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SelHeight
 ms.assetid: c8808132-ab4d-77f1-fbf7-121d37e188fe

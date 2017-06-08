@@ -3,7 +3,7 @@ title: WebBrowserControl.LeftPadding Property (Access)
 keywords: vbaac10.chm14390
 f1_keywords:
 - vbaac10.chm14390
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.LeftPadding
 ms.assetid: 905192bd-eaaf-ef28-03b2-fbb5b3dca0ce

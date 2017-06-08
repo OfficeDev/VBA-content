@@ -3,7 +3,7 @@ title: WebBrowserControl.OnMouseUp Property (Access)
 keywords: vbaac10.chm14382
 f1_keywords:
 - vbaac10.chm14382
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnMouseUp
 ms.assetid: 7c76ab24-d9df-c038-b4cc-cb6fbe38a8a0

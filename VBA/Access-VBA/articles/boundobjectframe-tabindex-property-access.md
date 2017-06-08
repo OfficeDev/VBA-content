@@ -3,7 +3,7 @@ title: BoundObjectFrame.TabIndex Property (Access)
 keywords: vbaac10.chm10926
 f1_keywords:
 - vbaac10.chm10926
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.TabIndex
 ms.assetid: f312def1-7abe-67e8-7970-60f09f10853a

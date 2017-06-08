@@ -1,6 +1,6 @@
 ---
 title: Retrieve Information from the Clipboard
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 593d3047-c6c8-ab22-cdeb-aadc8b56ca81
 ms.date: 06/08/2017
 ---

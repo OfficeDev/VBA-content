@@ -3,7 +3,7 @@ title: Form.PictureSizeMode Property (Access)
 keywords: vbaac10.chm13381
 f1_keywords:
 - vbaac10.chm13381
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PictureSizeMode
 ms.assetid: b2e7646c-a040-0205-b840-0ed5b43982ab

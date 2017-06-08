@@ -1,6 +1,6 @@
 ---
 title: Cancel the Deletion of a Record by Using Custom Criteria
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0445765f-4629-5970-776c-5bd30e2d72a1
 ms.date: 06/08/2017
 ---

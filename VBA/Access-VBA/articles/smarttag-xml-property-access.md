@@ -3,7 +3,7 @@ title: SmartTag.XML Property (Access)
 keywords: vbaac10.chm13323
 f1_keywords:
 - vbaac10.chm13323
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTag.XML
 ms.assetid: 9ac7c6ae-5f9c-591d-177c-74436ae8a006

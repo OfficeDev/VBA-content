@@ -3,7 +3,7 @@ title: OptionButton.Locked Property (Access)
 keywords: vbaac10.chm10577
 f1_keywords:
 - vbaac10.chm10577
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Locked
 ms.assetid: dac84eb2-1b12-8d4b-37a0-1cdf320f6faf

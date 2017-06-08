@@ -3,7 +3,7 @@ title: Form.CommandBeforeExecute Property (Access)
 keywords: vbaac10.chm13542
 f1_keywords:
 - vbaac10.chm13542
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.CommandBeforeExecute
 ms.assetid: 574568fa-e488-6d4d-a42f-07eb7c7f9536

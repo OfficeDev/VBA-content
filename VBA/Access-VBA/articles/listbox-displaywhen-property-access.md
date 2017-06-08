@@ -3,7 +3,7 @@ title: ListBox.DisplayWhen Property (Access)
 keywords: vbaac10.chm11234
 f1_keywords:
 - vbaac10.chm11234
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.DisplayWhen
 ms.assetid: d8a82522-97db-1b8d-2089-6e808be7889f

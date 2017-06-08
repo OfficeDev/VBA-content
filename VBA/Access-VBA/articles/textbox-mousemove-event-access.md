@@ -3,7 +3,7 @@ title: TextBox.MouseMove Event (Access)
 keywords: vbaac10.chm14204
 f1_keywords:
 - vbaac10.chm14204
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.MouseMove
 ms.assetid: 90d5d17b-8802-ec93-11ad-6be846bb1efe

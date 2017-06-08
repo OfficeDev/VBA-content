@@ -3,7 +3,7 @@ title: TabControl.HoverForeThemeColorIndex Property (Access)
 keywords: vbaac10.chm14616
 f1_keywords:
 - vbaac10.chm14616
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HoverForeThemeColorIndex
 ms.assetid: 75ffbe8c-2257-8cb7-4ee0-ab6e22e52a4f

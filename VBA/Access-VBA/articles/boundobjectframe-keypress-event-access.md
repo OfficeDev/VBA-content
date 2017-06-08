@@ -3,7 +3,7 @@ title: BoundObjectFrame.KeyPress Event (Access)
 keywords: vbaac10.chm14102
 f1_keywords:
 - vbaac10.chm14102
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.KeyPress
 ms.assetid: c5e9760d-4a19-0249-e963-89a53c11966d

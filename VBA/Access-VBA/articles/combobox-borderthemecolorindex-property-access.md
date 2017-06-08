@@ -3,7 +3,7 @@ title: ComboBox.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.BorderThemeColorIndex
 ms.assetid: d17a61fb-5e27-5fcf-37ca-ef896b62fe98

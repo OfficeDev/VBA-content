@@ -3,7 +3,7 @@ title: CustomControl.OLEClass Property (Access)
 keywords: vbaac10.chm12010
 f1_keywords:
 - vbaac10.chm12010
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.OLEClass
 ms.assetid: d9aad7b9-6388-3365-881a-6e42ebebcfd6

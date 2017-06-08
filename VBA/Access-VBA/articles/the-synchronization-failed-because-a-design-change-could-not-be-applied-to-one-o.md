@@ -3,7 +3,7 @@ title: The synchronization failed because a design change could not be applied t
 keywords: jeterr40.chm5003492
 f1_keywords:
 - jeterr40.chm5003492
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 08ba127a-7002-84ae-6f76-65f4aedeb052
 ms.date: 06/08/2017
 ---

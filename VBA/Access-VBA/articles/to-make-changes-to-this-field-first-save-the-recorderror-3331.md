@@ -3,7 +3,7 @@ title: To make changes to this field, first save the record. (Error 3331)
 keywords: jeterr40.chm5003331
 f1_keywords:
 - jeterr40.chm5003331
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3f820744-6bf8-456f-eaf0-f07289504884
 ms.date: 06/08/2017
 ---

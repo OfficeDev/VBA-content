@@ -3,7 +3,7 @@ title: NavigationControl.GridlineStyleLeft Property (Access)
 keywords: vbaac10.chm11156
 f1_keywords:
 - vbaac10.chm11156
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.GridlineStyleLeft
 ms.assetid: 66383fb2-d44d-c979-a025-52c4a4a369ea

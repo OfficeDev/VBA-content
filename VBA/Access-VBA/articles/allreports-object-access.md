@@ -3,7 +3,7 @@ title: AllReports Object (Access)
 keywords: vbaac10.chm12684
 f1_keywords:
 - vbaac10.chm12684
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllReports
 ms.assetid: 5846cf60-41b4-e9f8-ea27-b9400a6d3861

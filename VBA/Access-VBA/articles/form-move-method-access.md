@@ -3,7 +3,7 @@ title: Form.Move Method (Access)
 keywords: vbaac10.chm13518
 f1_keywords:
 - vbaac10.chm13518
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Move
 ms.assetid: 21529c39-70be-45ab-fe8a-b54b4f78b4c8

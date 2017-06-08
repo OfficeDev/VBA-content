@@ -3,7 +3,7 @@ title: TabControl.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BackTint
 ms.assetid: f54ecbec-7009-c0ae-83ad-95bc1d134657

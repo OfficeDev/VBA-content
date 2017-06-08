@@ -3,7 +3,7 @@ title: Report.OnMouseUp Property (Access)
 keywords: vbaac10.chm13865
 f1_keywords:
 - vbaac10.chm13865
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnMouseUp
 ms.assetid: 0fc68ad5-6738-ba57-2f31-40d3d3e93cb3

@@ -3,7 +3,7 @@ title: CommandButton.Cancel Property (Access)
 keywords: vbaac10.chm10456
 f1_keywords:
 - vbaac10.chm10456
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Cancel
 ms.assetid: a45d52e0-7566-2d16-8f74-7168a380f6a2

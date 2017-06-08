@@ -3,7 +3,7 @@ title: The Synchronizer is already serving a client. (Error 3530)
 keywords: jeterr40.chm5003530
 f1_keywords:
 - jeterr40.chm5003530
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a9385b34-7685-3cc9-e444-0414adbd3d54
 ms.date: 06/08/2017
 ---

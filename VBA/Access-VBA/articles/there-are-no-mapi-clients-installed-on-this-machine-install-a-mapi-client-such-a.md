@@ -3,7 +3,7 @@ title: There are no MAPI clients installed on this machine. Install a MAPI clien
 keywords: jeterr40.chm5003804
 f1_keywords:
 - jeterr40.chm5003804
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ce86613a-5c0d-90d2-2878-726103632c43
 ms.date: 06/08/2017
 ---

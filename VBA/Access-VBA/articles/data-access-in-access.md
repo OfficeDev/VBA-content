@@ -1,6 +1,6 @@
 ---
 title: Data Access in Access
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d3f778f5-d6e6-bb99-0c8b-da295c5214ff
 ms.date: 06/08/2017
 ---

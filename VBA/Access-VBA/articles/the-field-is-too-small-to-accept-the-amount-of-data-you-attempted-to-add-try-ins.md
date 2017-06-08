@@ -3,7 +3,7 @@ title: The field is too small to accept the amount of data you attempted to add.
 keywords: jeterr40.chm5003163
 f1_keywords:
 - jeterr40.chm5003163
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e311ffb2-95a1-3d53-7aec-578478e4eb2f
 ms.date: 06/08/2017
 ---

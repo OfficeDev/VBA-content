@@ -3,7 +3,7 @@ title: NavigationControl.HelpContextId Property (Access)
 keywords: vbaac10.chm11094
 f1_keywords:
 - vbaac10.chm11094
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.HelpContextId
 ms.assetid: b56cbf60-e760-170c-9c93-edaddabf91b6

@@ -1,6 +1,6 @@
 ---
 title: MAPI folder or address book not found. (Error 3710)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3c3cb861-033a-bcee-5072-146ffd53034e
 ms.date: 06/08/2017
 ---

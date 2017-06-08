@@ -3,7 +3,7 @@ title: CheckBox.OnDblClick Property (Access)
 keywords: vbaac10.chm10742
 f1_keywords:
 - vbaac10.chm10742
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnDblClick
 ms.assetid: 3c4f98d5-3190-e88b-50ce-df08a3c4aac0

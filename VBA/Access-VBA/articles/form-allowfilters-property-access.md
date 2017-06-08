@@ -3,7 +3,7 @@ title: Form.AllowFilters Property (Access)
 keywords: vbaac10.chm13350,vbaac10.chm4262
 f1_keywords:
 - vbaac10.chm13350,vbaac10.chm4262
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowFilters
 ms.assetid: ca2998b5-d5e0-f1ba-f9da-d89ef24a3701

@@ -3,7 +3,7 @@ title: ObjectFrame.GridlineStyleLeft Property (Access)
 keywords: vbaac10.chm11643
 f1_keywords:
 - vbaac10.chm11643
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineStyleLeft
 ms.assetid: 09791118-77ec-c03c-00e9-d6450d1c7fe2

@@ -3,7 +3,7 @@ title: NavigationButton.Height Property (Access)
 keywords: vbaac10.chm10470
 f1_keywords:
 - vbaac10.chm10470
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Height
 ms.assetid: 59492efc-5cb0-2659-d930-946831f8c873

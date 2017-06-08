@@ -3,7 +3,7 @@ title: TextBox.BottomPadding Property (Access)
 keywords: vbaac10.chm11155
 f1_keywords:
 - vbaac10.chm11155
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BottomPadding
 ms.assetid: 75d2b8bb-c5c5-1d00-b175-8db80a7525c5

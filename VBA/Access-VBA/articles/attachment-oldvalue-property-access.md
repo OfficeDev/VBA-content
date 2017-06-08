@@ -3,7 +3,7 @@ title: Attachment.OldValue Property (Access)
 keywords: vbaac10.chm13905
 f1_keywords:
 - vbaac10.chm13905
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OldValue
 ms.assetid: f3c20114-fc68-98ab-03de-0e023aacaaf1

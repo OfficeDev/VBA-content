@@ -3,7 +3,7 @@ title: Control.BottomPadding Property (Access)
 keywords: vbaac10.chm10159
 f1_keywords:
 - vbaac10.chm10159
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.BottomPadding
 ms.assetid: df4e0be6-aec9-3e04-c273-3fa0d5d8c026

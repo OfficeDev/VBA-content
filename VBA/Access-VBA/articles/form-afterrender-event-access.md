@@ -3,7 +3,7 @@ title: Form.AfterRender Event (Access)
 keywords: vbaac10.chm13680
 f1_keywords:
 - vbaac10.chm13680
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterRender
 ms.assetid: 3232d72f-4dd4-9797-d9cb-5ac616c68c71

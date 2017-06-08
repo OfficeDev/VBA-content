@@ -3,7 +3,7 @@ title: BoundObjectFrame.EventProcPrefix Property (Access)
 keywords: vbaac10.chm10907
 f1_keywords:
 - vbaac10.chm10907
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.EventProcPrefix
 ms.assetid: 20d82dc1-6bb4-0338-6bfb-ce801825634d

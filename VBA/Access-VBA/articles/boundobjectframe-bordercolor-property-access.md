@@ -3,7 +3,7 @@ title: BoundObjectFrame.BorderColor Property (Access)
 keywords: vbaac10.chm10936
 f1_keywords:
 - vbaac10.chm10936
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BorderColor
 ms.assetid: e3c43808-1254-2635-264e-2f3e79cb2c8a

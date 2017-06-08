@@ -3,7 +3,7 @@ title: Printer.DriverName Property (Access)
 keywords: vbaac10.chm12860
 f1_keywords:
 - vbaac10.chm12860
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.DriverName
 ms.assetid: 7434f44a-8b55-1f21-e595-363327199037

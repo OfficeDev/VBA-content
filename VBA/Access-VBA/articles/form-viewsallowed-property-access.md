@@ -3,7 +3,7 @@ title: Form.ViewsAllowed Property (Access)
 keywords: vbaac10.chm13353
 f1_keywords:
 - vbaac10.chm13353
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ViewsAllowed
 ms.assetid: 2aa001e0-ea0d-4ef3-f8d2-fdd301502c96

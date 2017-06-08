@@ -3,7 +3,7 @@ title: Syntax error in DROP TABLE or DROP INDEX. (Error 3295)
 keywords: jeterr40.chm5003295
 f1_keywords:
 - jeterr40.chm5003295
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 51133832-2ddb-3931-d22e-f72009bc5c6f
 ms.date: 06/08/2017
 ---

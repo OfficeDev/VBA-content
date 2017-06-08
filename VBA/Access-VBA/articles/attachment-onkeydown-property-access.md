@@ -3,7 +3,7 @@ title: Attachment.OnKeyDown Property (Access)
 keywords: vbaac10.chm13950
 f1_keywords:
 - vbaac10.chm13950
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.OnKeyDown
 ms.assetid: 8135c3e5-e7d0-bafa-3eef-740b6ee73edd

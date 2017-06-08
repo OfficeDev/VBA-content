@@ -3,7 +3,7 @@ title: TextBox.OnMouseDown Property (Access)
 keywords: vbaac10.chm11124
 f1_keywords:
 - vbaac10.chm11124
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnMouseDown
 ms.assetid: 2392c2eb-6c3b-047b-1e4e-2772989ba1f2

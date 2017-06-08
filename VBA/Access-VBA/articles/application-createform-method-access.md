@@ -3,7 +3,7 @@ title: Application.CreateForm Method (Access)
 keywords: vbaac10.chm12516
 f1_keywords:
 - vbaac10.chm12516
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CreateForm
 ms.assetid: 113c8f7f-baf1-bf5c-85ce-6dc1f3d3e942

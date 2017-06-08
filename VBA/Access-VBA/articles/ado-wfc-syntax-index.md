@@ -1,6 +1,6 @@
 ---
 title: ADO/WFC Syntax Index
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d49edfb1-bd76-b6cc-d023-753f4655ff11
 ms.date: 06/08/2017
 ---

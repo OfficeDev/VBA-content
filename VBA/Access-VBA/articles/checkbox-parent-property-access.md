@@ -3,7 +3,7 @@ title: CheckBox.Parent Property (Access)
 keywords: vbaac10.chm10683
 f1_keywords:
 - vbaac10.chm10683
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Parent
 ms.assetid: c95e4144-3bf5-f38c-dbb5-02e752459c0a

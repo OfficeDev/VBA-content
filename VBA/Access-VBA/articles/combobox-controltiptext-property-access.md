@@ -3,7 +3,7 @@ title: ComboBox.ControlTipText Property (Access)
 keywords: vbaac10.chm11423
 f1_keywords:
 - vbaac10.chm11423
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ControlTipText
 ms.assetid: 8562dde5-4bc7-92fb-347b-dd45e0eb413a

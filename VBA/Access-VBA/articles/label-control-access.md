@@ -3,7 +3,7 @@ title: Label Control (Access)
 keywords: vbaac10.chm4065
 f1_keywords:
 - vbaac10.chm4065
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 109ef3a4-9b3d-161c-a11f-ef6aec46d517
 ms.date: 06/08/2017
 ---

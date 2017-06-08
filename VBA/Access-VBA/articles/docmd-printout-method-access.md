@@ -3,7 +3,7 @@ title: DoCmd.PrintOut Method (Access)
 keywords: vbaac10.chm4166
 f1_keywords:
 - vbaac10.chm4166
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.PrintOut
 ms.assetid: 3b7c1ab7-1a60-cab3-2d4e-c95d6b5bd4aa

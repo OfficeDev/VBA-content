@@ -3,7 +3,7 @@ title: Rectangle.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.BorderTint
 ms.assetid: 0fda73df-4394-7399-3b54-84d80f56aeea

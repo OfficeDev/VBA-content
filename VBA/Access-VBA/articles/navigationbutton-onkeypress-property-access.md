@@ -3,7 +3,7 @@ title: NavigationButton.OnKeyPress Property (Access)
 keywords: vbaac10.chm10504
 f1_keywords:
 - vbaac10.chm10504
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnKeyPress
 ms.assetid: 6831ae04-07b0-e84b-4451-0c728e80d8e9

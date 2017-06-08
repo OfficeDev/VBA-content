@@ -3,7 +3,7 @@ title: ObjectFrame.DisplayWhen Property (Access)
 keywords: vbaac10.chm11580
 f1_keywords:
 - vbaac10.chm11580
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.DisplayWhen
 ms.assetid: 37e03fc6-aee9-b6cf-eafb-7af111b5b9e3

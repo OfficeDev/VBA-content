@@ -3,7 +3,7 @@ title: Rectangle.InSelection Property (Access)
 keywords: vbaac10.chm10299
 f1_keywords:
 - vbaac10.chm10299
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.InSelection
 ms.assetid: 549eb50f-a2a2-1f40-3267-9490d6035058

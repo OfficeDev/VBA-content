@@ -3,7 +3,7 @@ title: ToggleButton.KeyDown Event (Access)
 keywords: vbaac10.chm14158
 f1_keywords:
 - vbaac10.chm14158
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.KeyDown
 ms.assetid: 70eb32a9-aea6-5d14-7dc1-1f4d4f0a8573

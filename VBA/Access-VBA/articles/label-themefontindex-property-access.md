@@ -3,7 +3,7 @@ title: Label.ThemeFontIndex Property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.ThemeFontIndex
 ms.assetid: 56e24b5e-18c4-193a-95ec-dcfc5b8ff477

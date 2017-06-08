@@ -3,7 +3,7 @@ title: You cannot make changes to the design of the database at this replica. (E
 keywords: jeterr40.chm5003452
 f1_keywords:
 - jeterr40.chm5003452
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f5e4ff00-9db4-9f44-47a6-9c3025159cb0
 ms.date: 06/08/2017
 ---

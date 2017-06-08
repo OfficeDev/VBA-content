@@ -3,7 +3,7 @@ title: WebBrowserControl.OnKeyDown Property (Access)
 keywords: vbaac10.chm14383
 f1_keywords:
 - vbaac10.chm14383
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnKeyDown
 ms.assetid: 43e45acd-33a4-a740-b733-516e8f6c3c83

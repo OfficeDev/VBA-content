@@ -3,7 +3,7 @@ title: ObjectFrame.OnUpdated Property (Access)
 keywords: vbaac10.chm11614
 f1_keywords:
 - vbaac10.chm11614
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnUpdated
 ms.assetid: d2239f45-959b-beb7-fe9e-c9a9a257dd4b

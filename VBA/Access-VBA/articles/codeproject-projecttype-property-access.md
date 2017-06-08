@@ -3,7 +3,7 @@ title: CodeProject.ProjectType Property (Access)
 keywords: vbaac10.chm12712
 f1_keywords:
 - vbaac10.chm12712
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.ProjectType
 ms.assetid: c669da2f-6559-8f9c-8935-94f38624dd20

@@ -3,7 +3,7 @@ title: BoundObjectFrame.ObjectVerbsCount Property (Access)
 keywords: vbaac10.chm10955
 f1_keywords:
 - vbaac10.chm10955
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ObjectVerbsCount
 ms.assetid: 518eff16-aef0-9e3e-2e03-af036117a152

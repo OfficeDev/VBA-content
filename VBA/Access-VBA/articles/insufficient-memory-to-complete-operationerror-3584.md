@@ -3,7 +3,7 @@ title: Insufficient memory to complete operation. (Error 3584)
 keywords: jeterr40.chm5003584
 f1_keywords:
 - jeterr40.chm5003584
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 25ee9383-1bba-5972-fac5-0edf3540ceee
 ms.date: 06/08/2017
 ---

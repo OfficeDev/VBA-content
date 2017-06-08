@@ -3,7 +3,7 @@ title: NavigationControl.Tabs Property (Access)
 keywords: vbaac10.chm14643
 f1_keywords:
 - vbaac10.chm14643
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Tabs
 ms.assetid: a8b2546c-9b1f-a8ff-1a6f-8e607415ffec

@@ -3,7 +3,7 @@ title: Unable to set a schedule for the Synchronizer. (Error 3497)
 keywords: jeterr40.chm5003497
 f1_keywords:
 - jeterr40.chm5003497
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2b3429c3-5e6b-ddd5-a679-58faa9613815
 ms.date: 06/08/2017
 ---

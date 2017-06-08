@@ -1,6 +1,6 @@
 ---
 title: DataSpace (ADO/WFC Syntax)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 52bc0aa1-b3e6-4d2c-9a73-a9f185d028c4
 ms.date: 06/08/2017
 ---

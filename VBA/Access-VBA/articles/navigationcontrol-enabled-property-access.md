@@ -3,7 +3,7 @@ title: NavigationControl.Enabled Property (Access)
 keywords: vbaac10.chm11060
 f1_keywords:
 - vbaac10.chm11060
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.Enabled
 ms.assetid: 6296dabf-95a3-6751-7572-95522f7bd57c

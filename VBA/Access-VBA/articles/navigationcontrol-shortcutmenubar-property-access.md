@@ -3,7 +3,7 @@ title: NavigationControl.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm11092
 f1_keywords:
 - vbaac10.chm11092
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.ShortcutMenuBar
 ms.assetid: 89e4e907-4d28-6c9b-424c-3400d448b222

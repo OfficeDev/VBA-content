@@ -3,7 +3,7 @@ title: Cannot delete spreadsheet cells. (Error 3435)
 keywords: jeterr40.chm5003435
 f1_keywords:
 - jeterr40.chm5003435
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: bd37a922-f3f2-4af3-1c6d-68fb05f42d7c
 ms.date: 06/08/2017
 ---

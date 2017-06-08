@@ -3,7 +3,7 @@ title: WebBrowserControl.EventProcPrefix Property (Access)
 keywords: vbaac10.chm14683
 f1_keywords:
 - vbaac10.chm14683
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.EventProcPrefix
 ms.assetid: 8dbf1fee-d9ab-ff0c-5571-e606c19fbf94

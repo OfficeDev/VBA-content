@@ -3,7 +3,7 @@ title: TabControl.HoverColor Property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HoverColor
 ms.assetid: a3281985-5248-bbd2-c2d7-1b4431209d45

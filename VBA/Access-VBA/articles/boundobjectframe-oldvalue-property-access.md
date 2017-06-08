@@ -3,7 +3,7 @@ title: BoundObjectFrame.OldValue Property (Access)
 keywords: vbaac10.chm10898
 f1_keywords:
 - vbaac10.chm10898
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OldValue
 ms.assetid: 89d4855e-9c7e-7c3f-4063-f9f74d7245ca

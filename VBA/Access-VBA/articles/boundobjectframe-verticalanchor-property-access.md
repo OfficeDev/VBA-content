@@ -3,7 +3,7 @@ title: BoundObjectFrame.VerticalAnchor Property (Access)
 keywords: vbaac10.chm11009
 f1_keywords:
 - vbaac10.chm11009
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.VerticalAnchor
 ms.assetid: cea08737-227c-e0f6-cc8e-5e4b9129ad03

@@ -3,7 +3,7 @@ title: SharedResources.Parent Property (Access)
 keywords: vbaac10.chm14650
 f1_keywords:
 - vbaac10.chm14650
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SharedResources.Parent
 ms.assetid: a48721e3-768a-00d0-54c2-3ddc624ff281

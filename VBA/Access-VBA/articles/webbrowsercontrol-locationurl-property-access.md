@@ -3,7 +3,7 @@ title: WebBrowserControl.LocationURL Property (Access)
 keywords: vbaac10.chm14368
 f1_keywords:
 - vbaac10.chm14368
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.LocationURL
 ms.assetid: 1ef6dad3-cfcb-1768-e891-09ada810569a

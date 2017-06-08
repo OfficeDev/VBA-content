@@ -3,7 +3,7 @@ title: Report.RecordSourceQualifier Property (Access)
 keywords: vbaac10.chm13814
 f1_keywords:
 - vbaac10.chm13814
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.RecordSourceQualifier
 ms.assetid: 8ebf77b6-69c8-e386-2bd5-687e46a872fb

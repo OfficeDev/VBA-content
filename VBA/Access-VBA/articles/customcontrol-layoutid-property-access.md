@@ -3,7 +3,7 @@ title: CustomControl.LayoutID Property (Access)
 keywords: vbaac10.chm10539
 f1_keywords:
 - vbaac10.chm10539
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.LayoutID
 ms.assetid: 87fab4f4-cd1a-73cd-a36d-d735723c7511

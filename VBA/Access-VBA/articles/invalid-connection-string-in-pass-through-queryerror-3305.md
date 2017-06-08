@@ -1,6 +1,6 @@
 ---
 title: Invalid connection string in pass-through query. (Error 3305)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e886ecd4-1103-d173-bb48-48345555eff0
 ms.date: 06/08/2017
 ---

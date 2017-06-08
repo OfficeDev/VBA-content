@@ -3,7 +3,7 @@ title: ComboBox.ValidationText Property (Access)
 keywords: vbaac10.chm11392
 f1_keywords:
 - vbaac10.chm11392
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ValidationText
 ms.assetid: 479d2067-caae-efcc-92a8-36aa68edb4a4

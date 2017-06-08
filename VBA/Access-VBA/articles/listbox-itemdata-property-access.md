@@ -3,7 +3,7 @@ title: ListBox.ItemData Property (Access)
 keywords: vbaac10.chm11209
 f1_keywords:
 - vbaac10.chm11209
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ItemData
 ms.assetid: a0c1ab24-089e-6279-96dc-ef490096d06a

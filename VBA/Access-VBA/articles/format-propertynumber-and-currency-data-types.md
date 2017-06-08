@@ -1,6 +1,6 @@
 ---
 title: Format Property - Number and Currency Data Types
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f48fbfad-c249-4011-9b3e-bbd6628ac1f7
 ms.date: 06/08/2017
 ---

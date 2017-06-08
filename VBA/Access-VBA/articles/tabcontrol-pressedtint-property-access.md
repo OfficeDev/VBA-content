@@ -3,7 +3,7 @@ title: TabControl.PressedTint Property (Access)
 keywords: vbaac10.chm14621
 f1_keywords:
 - vbaac10.chm14621
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.PressedTint
 ms.assetid: 1826cb99-d49c-465c-6c80-bca5a31f0f06

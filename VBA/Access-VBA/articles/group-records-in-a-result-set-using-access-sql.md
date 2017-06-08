@@ -1,6 +1,6 @@
 ---
 title: Group Records in a Result Set Using Access SQL
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 217e1a5a-cfe2-0859-1e16-a3d27450008c
 ms.date: 06/08/2017
 ---

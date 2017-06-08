@@ -3,7 +3,7 @@ title: The type of synchronization you are attempting is not valid. (Error 3546)
 keywords: jeterr40.chm5003546
 f1_keywords:
 - jeterr40.chm5003546
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 216213f7-5c1c-44cb-65cf-ef3484130e52
 ms.date: 06/08/2017
 ---

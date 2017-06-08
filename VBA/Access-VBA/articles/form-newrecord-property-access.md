@@ -3,7 +3,7 @@ title: Form.NewRecord Property (Access)
 keywords: vbaac10.chm13491
 f1_keywords:
 - vbaac10.chm13491
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.NewRecord
 ms.assetid: 9e30b019-1c1d-31eb-cc8d-cab030861ddc

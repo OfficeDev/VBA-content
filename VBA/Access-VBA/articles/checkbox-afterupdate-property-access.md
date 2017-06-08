@@ -3,7 +3,7 @@ title: CheckBox.AfterUpdate Property (Access)
 keywords: vbaac10.chm10736
 f1_keywords:
 - vbaac10.chm10736
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.AfterUpdate
 ms.assetid: eaef525d-4447-86b5-9567-311e7324b720

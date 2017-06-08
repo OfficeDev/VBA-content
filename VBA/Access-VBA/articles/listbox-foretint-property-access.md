@@ -3,7 +3,7 @@ title: ListBox.ForeTint Property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ForeTint
 ms.assetid: 3d2d2e77-5819-673b-8e9c-d2d94d06a1bd

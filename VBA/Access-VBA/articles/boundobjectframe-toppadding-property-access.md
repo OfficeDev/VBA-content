@@ -3,7 +3,7 @@ title: BoundObjectFrame.TopPadding Property (Access)
 keywords: vbaac10.chm10996
 f1_keywords:
 - vbaac10.chm10996
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.TopPadding
 ms.assetid: cb80b5d1-a9a5-00a7-f439-3f6e7be6439b

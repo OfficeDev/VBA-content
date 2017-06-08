@@ -3,7 +3,7 @@ title: ToggleButton.PictureType Property (Access)
 keywords: vbaac10.chm11703
 f1_keywords:
 - vbaac10.chm11703
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.PictureType
 ms.assetid: b9fafc70-9398-9b22-8d3f-ae0d05671aae

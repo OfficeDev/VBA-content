@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous (Access)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 517556ee-6f2c-4343-bde2-ca187590e628
 ms.date: 06/08/2017
 ---

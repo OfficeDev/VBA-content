@@ -3,7 +3,7 @@ title: ObjectFrame.UpdateOptions Property (Access)
 keywords: vbaac10.chm11569
 f1_keywords:
 - vbaac10.chm11569
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.UpdateOptions
 ms.assetid: 29effba2-7427-62ca-c0d6-6ed5081b0e02

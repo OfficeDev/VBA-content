@@ -3,7 +3,7 @@ title: NavigationButton.AddColon Property (Access)
 keywords: vbaac10.chm10483
 f1_keywords:
 - vbaac10.chm10483
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.AddColon
 ms.assetid: 37ea2802-2747-f220-427f-d6ae7df96f10

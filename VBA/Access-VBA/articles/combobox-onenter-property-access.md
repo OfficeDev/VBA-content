@@ -3,7 +3,7 @@ title: ComboBox.OnEnter Property (Access)
 keywords: vbaac10.chm11451
 f1_keywords:
 - vbaac10.chm11451
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnEnter
 ms.assetid: be3b353e-7105-010a-0c6a-6c551dcf62d3

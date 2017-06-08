@@ -3,7 +3,7 @@ title: Form.LayoutForPrint Property (Access)
 keywords: vbaac10.chm13391
 f1_keywords:
 - vbaac10.chm13391
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.LayoutForPrint
 ms.assetid: fd8c8112-186a-3f77-06ef-783bf48a7052

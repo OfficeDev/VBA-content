@@ -3,7 +3,7 @@ title: ObjectFrame.Requery Method (Access)
 keywords: vbaac10.chm11554
 f1_keywords:
 - vbaac10.chm11554
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Requery
 ms.assetid: 470a8412-a3e4-6f06-063c-84c848d73834

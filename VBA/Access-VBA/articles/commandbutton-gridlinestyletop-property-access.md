@@ -3,7 +3,7 @@ title: CommandButton.GridlineStyleTop Property (Access)
 keywords: vbaac10.chm10529
 f1_keywords:
 - vbaac10.chm10529
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.GridlineStyleTop
 ms.assetid: f6fb163b-ece7-08a0-b786-e32287d40e50

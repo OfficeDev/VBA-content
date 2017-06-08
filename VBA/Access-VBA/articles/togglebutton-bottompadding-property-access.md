@@ -3,7 +3,7 @@ title: ToggleButton.BottomPadding Property (Access)
 keywords: vbaac10.chm11783
 f1_keywords:
 - vbaac10.chm11783
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.BottomPadding
 ms.assetid: 91248f14-4926-cee7-39e6-f1beff11bcf8

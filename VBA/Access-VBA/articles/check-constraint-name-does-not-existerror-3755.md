@@ -3,7 +3,7 @@ title: CHECK Constraint <name> does not exist. (Error 3755)
 keywords: jeterr40.chm5003755
 f1_keywords:
 - jeterr40.chm5003755
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f4f05c1b-c0f5-781e-85fe-3deb17fdeeeb
 ms.date: 06/08/2017
 ---

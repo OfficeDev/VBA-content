@@ -3,7 +3,7 @@ title: Label.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm10255
 f1_keywords:
 - vbaac10.chm10255
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineWidthRight
 ms.assetid: e3b39979-a9fd-7845-0ff7-3147761a1f70

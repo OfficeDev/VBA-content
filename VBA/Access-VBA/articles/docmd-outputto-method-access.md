@@ -3,7 +3,7 @@ title: DoCmd.OutputTo Method (Access)
 keywords: vbaac10.chm4165
 f1_keywords:
 - vbaac10.chm4165
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.OutputTo
 ms.assetid: 2a21a7c3-0846-cbec-d5dd-a1648f705557

@@ -3,7 +3,7 @@ title: NavigationControl.KeyboardLanguage Property (Access)
 keywords: vbaac10.chm11131
 f1_keywords:
 - vbaac10.chm11131
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.KeyboardLanguage
 ms.assetid: 5a4f4c8b-2d01-4613-2bb0-8c3e2c7dfda9

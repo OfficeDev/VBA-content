@@ -3,7 +3,7 @@ title: OptionButton.TabIndex Property (Access)
 keywords: vbaac10.chm10580
 f1_keywords:
 - vbaac10.chm10580
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.TabIndex
 ms.assetid: a962d94f-9e3d-b52e-1e0b-50aa27b98e58

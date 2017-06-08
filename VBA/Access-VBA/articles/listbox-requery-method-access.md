@@ -3,7 +3,7 @@ title: ListBox.Requery Method (Access)
 keywords: vbaac10.chm11212
 f1_keywords:
 - vbaac10.chm11212
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Requery
 ms.assetid: 8daf0608-a2ce-75c3-2601-4071f6f498a5

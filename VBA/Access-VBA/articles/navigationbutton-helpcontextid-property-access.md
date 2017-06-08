@@ -3,7 +3,7 @@ title: NavigationButton.HelpContextId Property (Access)
 keywords: vbaac10.chm10481
 f1_keywords:
 - vbaac10.chm10481
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.HelpContextId
 ms.assetid: 6549fc57-0f33-fe6b-ee5e-88b39107c035

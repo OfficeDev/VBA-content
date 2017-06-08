@@ -3,7 +3,7 @@ title: AllDatabaseDiagrams.Count Property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllDatabaseDiagrams.Count
 ms.assetid: 95bf1792-7ab2-ade2-b301-cd896855f116

@@ -3,7 +3,7 @@ title: Cannot perform cascading operation. It would cause field <name> to become
 keywords: jeterr40.chm5003402
 f1_keywords:
 - jeterr40.chm5003402
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 43673108-e411-07a6-076c-2216bfc79f55
 ms.date: 06/08/2017
 ---

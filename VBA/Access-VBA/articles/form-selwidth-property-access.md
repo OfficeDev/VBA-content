@@ -3,7 +3,7 @@ title: Form.SelWidth Property (Access)
 keywords: vbaac10.chm13471
 f1_keywords:
 - vbaac10.chm13471
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SelWidth
 ms.assetid: a5ce22e3-af69-209c-f988-16cf4f77fd62

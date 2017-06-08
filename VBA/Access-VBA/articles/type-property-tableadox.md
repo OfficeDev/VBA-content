@@ -1,6 +1,6 @@
 ---
 title: Type Property (Table) (ADOX)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d07cdfc1-da65-74b7-ab9c-f2b79f24b59e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: BoundObjectFrame.HelpContextId Property (Access)
 keywords: vbaac10.chm10941
 f1_keywords:
 - vbaac10.chm10941
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.HelpContextId
 ms.assetid: 81fd943b-58b7-eb51-7578-6b124794d359

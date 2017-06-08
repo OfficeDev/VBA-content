@@ -3,7 +3,7 @@ title: CheckBox.Width Property (Access)
 keywords: vbaac10.chm10711
 f1_keywords:
 - vbaac10.chm10711
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Width
 ms.assetid: a5756720-ee33-6a47-e4eb-ec54b11cd45a

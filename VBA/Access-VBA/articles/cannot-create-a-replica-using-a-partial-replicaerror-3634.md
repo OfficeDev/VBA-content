@@ -3,7 +3,7 @@ title: Cannot create a replica using a partial replica. (Error 3634)
 keywords: jeterr40.chm5003634
 f1_keywords:
 - jeterr40.chm5003634
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a49d6ab7-aad5-0964-b827-cec33e394155
 ms.date: 06/08/2017
 ---

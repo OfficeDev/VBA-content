@@ -3,7 +3,7 @@ title: CommandButton.GridlineWidthRight Property (Access)
 keywords: vbaac10.chm10534
 f1_keywords:
 - vbaac10.chm10534
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.GridlineWidthRight
 ms.assetid: f3d0cd61-c03c-92ba-6b5e-030d1efed9c5

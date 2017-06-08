@@ -3,7 +3,7 @@ title: NavigationControl.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BackThemeColorIndex
 ms.assetid: 7f9e0ebe-0b25-28ed-5b68-e5ead2c72ef0

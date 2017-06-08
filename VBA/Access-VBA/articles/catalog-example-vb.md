@@ -1,6 +1,6 @@
 ---
 title: Catalog Example (VB)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fcd982a8-0033-8643-99b0-a1b065e445f4
 ms.date: 06/08/2017
 ---

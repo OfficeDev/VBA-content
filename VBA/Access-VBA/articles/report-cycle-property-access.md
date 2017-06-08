@@ -3,7 +3,7 @@ title: Report.Cycle Property (Access)
 keywords: vbaac10.chm13821
 f1_keywords:
 - vbaac10.chm13821
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Cycle
 ms.assetid: 031194ca-f058-3a73-3551-f67d4e9bc27a

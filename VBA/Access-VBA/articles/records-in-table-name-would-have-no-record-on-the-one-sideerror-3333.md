@@ -3,7 +3,7 @@ title: Records in table <name> would have no record on the 'one' side. (Error 33
 keywords: jeterr40.chm5003333
 f1_keywords:
 - jeterr40.chm5003333
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e8387008-59cc-c9fb-d6de-1f9cf967fbe4
 ms.date: 06/08/2017
 ---

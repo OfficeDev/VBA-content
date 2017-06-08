@@ -3,7 +3,7 @@ title: Application.SetOption Method (Access)
 keywords: vbaac10.chm12504
 f1_keywords:
 - vbaac10.chm12504
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.SetOption
 ms.assetid: 6cb1f036-01c2-16bf-f62a-e5235dfb3c65

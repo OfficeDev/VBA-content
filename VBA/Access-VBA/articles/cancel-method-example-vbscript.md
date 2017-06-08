@@ -1,6 +1,6 @@
 ---
 title: Cancel Method Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3c5a14fa-f4b1-6c32-9014-505817c6e4cf
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ListBox.ListItemsEditForm Property (Access)
 keywords: vbaac10.chm11336
 f1_keywords:
 - vbaac10.chm11336
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.ListItemsEditForm
 ms.assetid: f744fc52-4c50-f740-7a2f-eeccb12de7c9

@@ -1,6 +1,6 @@
 ---
 title: ADO Programmer's Reference
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 095d59f5-98e6-93ed-9c87-f1606e94dc70
 ms.date: 06/08/2017
 ---

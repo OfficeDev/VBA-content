@@ -3,7 +3,7 @@ title: WebBrowserControl.KeyDown Event (Access)
 keywords: vbaac10.chm143137
 f1_keywords:
 - vbaac10.chm143137
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.KeyDown
 ms.assetid: 1136ba36-01c9-bc97-7ba8-8bf215ad8a53

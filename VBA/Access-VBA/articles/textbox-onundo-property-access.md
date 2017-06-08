@@ -3,7 +3,7 @@ title: TextBox.OnUndo Property (Access)
 keywords: vbaac10.chm11146
 f1_keywords:
 - vbaac10.chm11146
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnUndo
 ms.assetid: fa62ba10-c8e8-f4d4-5d48-ab73c074f2ef

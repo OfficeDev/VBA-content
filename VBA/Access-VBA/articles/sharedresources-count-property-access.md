@@ -3,7 +3,7 @@ title: SharedResources.Count Property (Access)
 keywords: vbaac10.chm14652
 f1_keywords:
 - vbaac10.chm14652
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SharedResources.Count
 ms.assetid: 80fba38f-3f2e-a683-f187-830e5e9e4403

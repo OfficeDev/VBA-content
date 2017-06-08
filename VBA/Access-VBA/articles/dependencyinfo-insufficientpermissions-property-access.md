@@ -3,7 +3,7 @@ title: DependencyInfo.InsufficientPermissions Property (Access)
 keywords: vbaac10.chm13277
 f1_keywords:
 - vbaac10.chm13277
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DependencyInfo.InsufficientPermissions
 ms.assetid: bfcc05fa-0f50-ae2a-34d2-06db486fcebd

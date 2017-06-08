@@ -3,7 +3,7 @@ title: SubForm.LabelAlign Property (Access)
 keywords: vbaac10.chm11952
 f1_keywords:
 - vbaac10.chm11952
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.LabelAlign
 ms.assetid: b121862b-9bea-bfa2-c31c-ae4f77f62f04

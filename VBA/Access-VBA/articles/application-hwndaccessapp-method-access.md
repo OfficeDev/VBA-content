@@ -3,7 +3,7 @@ title: Application.hWndAccessApp Method (Access)
 keywords: vbaac10.chm12552
 f1_keywords:
 - vbaac10.chm12552
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.hWndAccessApp
 ms.assetid: 7a4f162a-e2de-728b-09e0-f9272ad52053

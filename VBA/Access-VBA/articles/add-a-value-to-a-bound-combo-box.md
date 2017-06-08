@@ -1,6 +1,6 @@
 ---
 title: Add a Value to a Bound Combo Box
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a34fddd2-eef6-10e2-c141-609053d1dd90
 ms.date: 06/08/2017
 ---

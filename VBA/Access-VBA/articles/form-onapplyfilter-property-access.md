@@ -3,7 +3,7 @@ title: Form.OnApplyFilter Property (Access)
 keywords: vbaac10.chm13460
 f1_keywords:
 - vbaac10.chm13460
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnApplyFilter
 ms.assetid: 5e147a50-5516-f6d3-c1c9-e2c4522cb804

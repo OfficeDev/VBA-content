@@ -3,7 +3,7 @@ title: TextBox.InSelection Property (Access)
 keywords: vbaac10.chm11114
 f1_keywords:
 - vbaac10.chm11114
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.InSelection
 ms.assetid: 6ebb497c-00d0-a854-be22-6b034deae98a

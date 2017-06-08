@@ -3,7 +3,7 @@ title: Form.OnDisconnect Property (Access)
 keywords: vbaac10.chm13537,vbaac10.chm5101
 f1_keywords:
 - vbaac10.chm13537,vbaac10.chm5101
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.OnDisconnect
 ms.assetid: 8f6514c7-8f61-2ae7-0859-8299523609ca

@@ -3,7 +3,7 @@ title: ToggleButton.ReadingOrder Property (Access)
 keywords: vbaac10.chm11761
 f1_keywords:
 - vbaac10.chm11761
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ReadingOrder
 ms.assetid: 172e40bd-bdd2-a4e8-3e96-d4bd8d3c40c8

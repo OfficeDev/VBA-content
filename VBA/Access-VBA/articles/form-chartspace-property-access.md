@@ -3,7 +3,7 @@ title: Form.ChartSpace Property (Access)
 keywords: vbaac10.chm13522
 f1_keywords:
 - vbaac10.chm13522
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.ChartSpace
 ms.assetid: e05f312f-d02b-bea5-7355-0a427834281c

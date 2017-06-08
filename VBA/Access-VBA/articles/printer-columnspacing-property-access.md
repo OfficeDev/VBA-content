@@ -3,7 +3,7 @@ title: Printer.ColumnSpacing Property (Access)
 keywords: vbaac10.chm12874
 f1_keywords:
 - vbaac10.chm12874
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.ColumnSpacing
 ms.assetid: 058fbbf6-5c39-063a-e0a6-6b1942df0a4e

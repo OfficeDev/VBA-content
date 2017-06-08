@@ -3,7 +3,7 @@ title: Section.OnPrint Property (Access)
 keywords: vbaac10.chm12205
 f1_keywords:
 - vbaac10.chm12205
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnPrint
 ms.assetid: f8df36f2-697b-7a1d-6343-76d2a2a7b0cf

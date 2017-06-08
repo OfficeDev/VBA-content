@@ -3,7 +3,7 @@ title: Image.SpecialEffect Property (Access)
 keywords: vbaac10.chm10382
 f1_keywords:
 - vbaac10.chm10382
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.SpecialEffect
 ms.assetid: 30b9d6c8-4071-4eb0-27b8-cf4ddd7c44f7

@@ -3,7 +3,7 @@ title: SubForm.StatusBarText Property (Access)
 keywords: vbaac10.chm11929
 f1_keywords:
 - vbaac10.chm11929
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.StatusBarText
 ms.assetid: 6bf20a7a-385e-c5e2-a924-e886eb8997a8

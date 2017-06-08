@@ -3,7 +3,7 @@ title: OptionButton.KeyDown Event (Access)
 keywords: vbaac10.chm14144
 f1_keywords:
 - vbaac10.chm14144
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.KeyDown
 ms.assetid: 9a21c03b-9806-d0ee-8c44-9edbba49b4b8

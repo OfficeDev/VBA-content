@@ -3,7 +3,7 @@ title: Scaling of decimal value resulted in data overflow. (Error 3760)
 keywords: jeterr40.chm5003760
 f1_keywords:
 - jeterr40.chm5003760
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 10280d7c-7182-5ed1-ebf7-c44864b389d6
 ms.date: 06/08/2017
 ---

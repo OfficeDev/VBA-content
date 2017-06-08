@@ -3,7 +3,7 @@ title: Line.OldBorderStyle Property (Access)
 keywords: vbaac10.chm10338
 f1_keywords:
 - vbaac10.chm10338
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.OldBorderStyle
 ms.assetid: 14d67bd7-5b8e-f4e9-d80a-645b59ffb9dd

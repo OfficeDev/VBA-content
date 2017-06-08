@@ -3,7 +3,7 @@ title: NavigationControl.SubForm Property (Access)
 keywords: vbaac10.chm14640
 f1_keywords:
 - vbaac10.chm14640
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.SubForm
 ms.assetid: e99cec35-3186-98ec-3318-0bcfb47e97ba

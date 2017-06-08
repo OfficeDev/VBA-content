@@ -3,7 +3,7 @@ title: EmptyCell.Properties Property (Access)
 keywords: vbaac10.chm14299
 f1_keywords:
 - vbaac10.chm14299
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Properties
 ms.assetid: c18becf1-d840-3b67-ca27-6c1549b00b48

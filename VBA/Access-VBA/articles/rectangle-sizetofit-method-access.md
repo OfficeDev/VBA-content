@@ -3,7 +3,7 @@ title: Rectangle.SizeToFit Method (Access)
 keywords: vbaac10.chm10277
 f1_keywords:
 - vbaac10.chm10277
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle.SizeToFit
 ms.assetid: 29ff6110-19e8-3503-aab6-d0af7cee20b5

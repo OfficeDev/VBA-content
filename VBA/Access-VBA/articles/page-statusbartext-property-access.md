@@ -3,7 +3,7 @@ title: Page.StatusBarText Property (Access)
 keywords: vbaac10.chm12152
 f1_keywords:
 - vbaac10.chm12152
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.StatusBarText
 ms.assetid: 43dcd6d0-471c-a696-8764-e958910d7cde

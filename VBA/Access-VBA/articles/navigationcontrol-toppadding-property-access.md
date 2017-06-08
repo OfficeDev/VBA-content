@@ -3,7 +3,7 @@ title: NavigationControl.TopPadding Property (Access)
 keywords: vbaac10.chm11153
 f1_keywords:
 - vbaac10.chm11153
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.TopPadding
 ms.assetid: 56cae307-f23c-d2e1-5095-fe6b696a6d98

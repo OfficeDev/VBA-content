@@ -3,7 +3,7 @@ title: ComboBox.Format Property (Access)
 keywords: vbaac10.chm11375
 f1_keywords:
 - vbaac10.chm11375
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Format
 ms.assetid: 9bb18f6a-0a25-9bbf-88ba-adf603c11826

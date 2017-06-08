@@ -3,7 +3,7 @@ title: SubForm.Form Property (Access)
 keywords: vbaac10.chm11916
 f1_keywords:
 - vbaac10.chm11916
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Form
 ms.assetid: f9bd242e-ef72-ed24-b903-3187c11b7219

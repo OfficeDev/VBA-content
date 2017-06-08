@@ -3,7 +3,7 @@ title: Image.ControlTipText Property (Access)
 keywords: vbaac10.chm10388
 f1_keywords:
 - vbaac10.chm10388
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.ControlTipText
 ms.assetid: 13a3cadf-8a2e-3407-5fa8-d76e3b2c9cac

@@ -3,7 +3,7 @@ title: CommandButton.OnLostFocus Property (Access)
 keywords: vbaac10.chm10496
 f1_keywords:
 - vbaac10.chm10496
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.OnLostFocus
 ms.assetid: e3bddd85-772e-9d3c-d079-b323f10a7d5a

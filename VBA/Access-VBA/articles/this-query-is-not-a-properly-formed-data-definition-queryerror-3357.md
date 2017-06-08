@@ -3,7 +3,7 @@ title: This query is not a properly formed data-definition query. (Error 3357)
 keywords: jeterr40.chm5003357
 f1_keywords:
 - jeterr40.chm5003357
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 293e268c-1aa4-ddeb-6aca-7d4af00449f7
 ms.date: 06/08/2017
 ---

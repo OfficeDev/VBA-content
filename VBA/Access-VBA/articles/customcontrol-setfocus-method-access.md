@@ -3,7 +3,7 @@ title: CustomControl.SetFocus Method (Access)
 keywords: vbaac10.chm12003
 f1_keywords:
 - vbaac10.chm12003
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.SetFocus
 ms.assetid: bb608976-d178-0e6e-fc8e-b362108314d5

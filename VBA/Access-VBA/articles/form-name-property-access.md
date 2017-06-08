@@ -3,7 +3,7 @@ title: Form.Name Property (Access)
 keywords: vbaac10.chm13509
 f1_keywords:
 - vbaac10.chm13509
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Name
 ms.assetid: 29cd22a8-7f38-9559-8c34-d6319a32adab

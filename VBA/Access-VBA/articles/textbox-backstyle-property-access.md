@@ -3,7 +3,7 @@ title: TextBox.BackStyle Property (Access)
 keywords: vbaac10.chm11075
 f1_keywords:
 - vbaac10.chm11075
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BackStyle
 ms.assetid: 95a277c8-df48-79a5-c232-2cfe32eae8f2

@@ -3,7 +3,7 @@ title: FormatCondition.Expression1 Property (Access)
 keywords: vbaac10.chm10060
 f1_keywords:
 - vbaac10.chm10060
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatCondition.Expression1
 ms.assetid: fba63733-5b95-f591-9c6d-c7d3de22b229

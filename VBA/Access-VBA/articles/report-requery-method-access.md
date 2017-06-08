@@ -3,7 +3,7 @@ title: Report.Requery Method (Access)
 keywords: vbaac10.chm13827
 f1_keywords:
 - vbaac10.chm13827
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Requery
 ms.assetid: d078d523-3bbd-fa70-44ac-116cdcedfebd

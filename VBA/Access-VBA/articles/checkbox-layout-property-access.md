@@ -3,7 +3,7 @@ title: CheckBox.Layout Property (Access)
 keywords: vbaac10.chm10767
 f1_keywords:
 - vbaac10.chm10767
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Layout
 ms.assetid: aed408d0-7e94-0b2f-7746-1a456d140a91

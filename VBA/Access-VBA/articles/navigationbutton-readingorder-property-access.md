@@ -3,7 +3,7 @@ title: NavigationButton.ReadingOrder Property (Access)
 keywords: vbaac10.chm10505
 f1_keywords:
 - vbaac10.chm10505
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.ReadingOrder
 ms.assetid: 5d436f27-e896-15c0-3733-ec7629d58214

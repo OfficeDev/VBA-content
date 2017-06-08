@@ -1,6 +1,6 @@
 ---
 title: Need a version 4.x or greater format system database to perform this operation. (Error 3808)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 2b0d526b-16bb-2619-aabc-930d8e555930
 ms.date: 06/08/2017
 ---

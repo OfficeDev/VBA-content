@@ -3,7 +3,7 @@ title: OptionGroup.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.BackThemeColorIndex
 ms.assetid: 9dfc95ad-a996-d24d-b623-130d6647e430

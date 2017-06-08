@@ -3,7 +3,7 @@ title: This operation is not allowed in subqueries. (Error 3787)
 keywords: jeterr40.chm5003787
 f1_keywords:
 - jeterr40.chm5003787
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5d8ece7f-ec93-609a-fb48-171ce61d90a3
 ms.date: 06/08/2017
 ---

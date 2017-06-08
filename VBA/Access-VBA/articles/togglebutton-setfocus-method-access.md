@@ -3,7 +3,7 @@ title: ToggleButton.SetFocus Method (Access)
 keywords: vbaac10.chm11694
 f1_keywords:
 - vbaac10.chm11694
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.SetFocus
 ms.assetid: 232880c5-cc69-b614-f918-9d0353fdb58a

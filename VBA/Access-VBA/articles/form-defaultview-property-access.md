@@ -3,7 +3,7 @@ title: Form.DefaultView Property (Access)
 keywords: vbaac10.chm13352
 f1_keywords:
 - vbaac10.chm13352
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DefaultView
 ms.assetid: bb44eca9-1576-794a-0558-f67e2d37559b

@@ -3,7 +3,7 @@ title: ListBox.OnKeyUp Property (Access)
 keywords: vbaac10.chm11290
 f1_keywords:
 - vbaac10.chm11290
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.OnKeyUp
 ms.assetid: efc5b93f-ddbc-4fc0-2c2e-6a3fd13b2b97

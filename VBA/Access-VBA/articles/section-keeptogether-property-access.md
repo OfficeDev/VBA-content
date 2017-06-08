@@ -3,7 +3,7 @@ title: Section.KeepTogether Property (Access)
 keywords: vbaac10.chm12194
 f1_keywords:
 - vbaac10.chm12194
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.KeepTogether
 ms.assetid: dbe3780b-2150-4b4c-d8bf-5685ab48181e

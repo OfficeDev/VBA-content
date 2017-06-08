@@ -3,7 +3,7 @@ title: AcSection Enumeration (Access)
 keywords: vbaac10.chm10010
 f1_keywords:
 - vbaac10.chm10010
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSection
 ms.assetid: 858401a2-e892-8729-124a-97a0fb136a0a

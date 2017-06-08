@@ -3,7 +3,7 @@ title: BoundObjectFrame.SizeToFit Method (Access)
 keywords: vbaac10.chm10902
 f1_keywords:
 - vbaac10.chm10902
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SizeToFit
 ms.assetid: 64f75ca9-e0bf-860c-7f62-b1f37f930893

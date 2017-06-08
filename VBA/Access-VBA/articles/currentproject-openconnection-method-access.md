@@ -3,7 +3,7 @@ title: CurrentProject.OpenConnection Method (Access)
 keywords: vbaac10.chm12715
 f1_keywords:
 - vbaac10.chm12715
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.OpenConnection
 ms.assetid: 37b5d50c-ddc9-97d4-2b8f-068ba2702e6d

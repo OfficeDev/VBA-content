@@ -3,7 +3,7 @@ title: References.Remove Method (Access)
 keywords: vbaac10.chm12644
 f1_keywords:
 - vbaac10.chm12644
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.References.Remove
 ms.assetid: ebdc9da2-cc32-6169-994a-1041b1c49031

@@ -3,7 +3,7 @@ title: CodeProject.Resources Property (Access)
 keywords: vbaac10.chm14653
 f1_keywords:
 - vbaac10.chm14653
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeProject.Resources
 ms.assetid: 630b6b57-5f6d-bf9e-6026-3858d314d329

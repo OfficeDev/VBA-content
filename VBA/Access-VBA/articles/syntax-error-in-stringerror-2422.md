@@ -3,7 +3,7 @@ title: Syntax error in string. (Error 2422)
 keywords: jeterr40.chm5002422
 f1_keywords:
 - jeterr40.chm5002422
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5b3f8cdd-304b-afd5-24b6-82f61a5a29c8
 ms.date: 06/08/2017
 ---

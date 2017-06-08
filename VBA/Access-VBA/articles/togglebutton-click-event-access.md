@@ -3,7 +3,7 @@ title: ToggleButton.Click Event (Access)
 keywords: vbaac10.chm14147
 f1_keywords:
 - vbaac10.chm14147
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Click
 ms.assetid: ba9f17a4-70ec-f4b8-fb21-01350ebf572d

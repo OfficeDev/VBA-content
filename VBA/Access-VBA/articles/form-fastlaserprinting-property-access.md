@@ -3,7 +3,7 @@ title: Form.FastLaserPrinting Property (Access)
 keywords: vbaac10.chm13392
 f1_keywords:
 - vbaac10.chm13392
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.FastLaserPrinting
 ms.assetid: a64775e5-174d-0349-d3f3-0009798d6462

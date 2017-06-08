@@ -3,7 +3,7 @@ title: NavigationButton.DblClick Event (Access)
 keywords: vbaac10.chm14082
 f1_keywords:
 - vbaac10.chm14082
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.DblClick
 ms.assetid: a1804a0b-0c6a-3e3c-4ae1-7819666176b9

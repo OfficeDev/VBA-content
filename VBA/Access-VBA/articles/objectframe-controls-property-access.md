@@ -3,7 +3,7 @@ title: ObjectFrame.Controls Property (Access)
 keywords: vbaac10.chm11556
 f1_keywords:
 - vbaac10.chm11556
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Controls
 ms.assetid: 42884347-14f3-0f0f-dc7e-3d2ae8154a49

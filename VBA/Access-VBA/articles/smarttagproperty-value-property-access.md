@@ -3,7 +3,7 @@ title: SmartTagProperty.Value Property (Access)
 keywords: vbaac10.chm13305
 f1_keywords:
 - vbaac10.chm13305
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTagProperty.Value
 ms.assetid: d2405ad4-9d68-4272-0b26-f97cd639778a

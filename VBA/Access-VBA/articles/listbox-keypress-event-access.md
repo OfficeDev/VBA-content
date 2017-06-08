@@ -3,7 +3,7 @@ title: ListBox.KeyPress Event (Access)
 keywords: vbaac10.chm14183
 f1_keywords:
 - vbaac10.chm14183
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.KeyPress
 ms.assetid: 1112052d-c5b4-75fd-b76e-79c247910201

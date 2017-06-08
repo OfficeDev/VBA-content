@@ -3,7 +3,7 @@ title: CommandButton.Move Method (Access)
 keywords: vbaac10.chm10507
 f1_keywords:
 - vbaac10.chm10507
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.Move
 ms.assetid: 58c51741-fb49-4b0a-91e0-cb9486808597

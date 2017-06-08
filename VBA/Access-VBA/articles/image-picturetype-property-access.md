@@ -3,7 +3,7 @@ title: Image.PictureType Property (Access)
 keywords: vbaac10.chm10367
 f1_keywords:
 - vbaac10.chm10367
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.PictureType
 ms.assetid: 873fdf85-bbd5-98d3-c8f0-4b1994ed0a85

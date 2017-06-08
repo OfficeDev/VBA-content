@@ -3,7 +3,7 @@ title: ComboBox.LayoutID Property (Access)
 keywords: vbaac10.chm11524
 f1_keywords:
 - vbaac10.chm11524
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.LayoutID
 ms.assetid: eba00f13-38d0-ee29-5d9e-74dfa21f9443

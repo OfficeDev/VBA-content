@@ -3,7 +3,7 @@ title: The Microsoft Access database engine could not find the object <name>. Ma
 keywords: jeterr40.chm5003011
 f1_keywords:
 - jeterr40.chm5003011
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 56b9d9fd-a1bc-61d0-1ca1-0dcb7a288206
 ms.date: 06/08/2017
 ---

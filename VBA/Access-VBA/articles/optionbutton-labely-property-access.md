@@ -3,7 +3,7 @@ title: OptionButton.LabelY Property (Access)
 keywords: vbaac10.chm10601
 f1_keywords:
 - vbaac10.chm10601
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.LabelY
 ms.assetid: e5fcac2e-efa7-362f-176f-90ddc53db695

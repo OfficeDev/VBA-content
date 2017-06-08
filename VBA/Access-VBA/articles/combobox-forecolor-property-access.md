@@ -3,7 +3,7 @@ title: ComboBox.ForeColor Property (Access)
 keywords: vbaac10.chm11413
 f1_keywords:
 - vbaac10.chm11413
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ForeColor
 ms.assetid: 32327754-0132-0e04-ef61-f94fa6b095f3

@@ -3,7 +3,7 @@ title: CheckBox.OnMouseUp Property (Access)
 keywords: vbaac10.chm10745
 f1_keywords:
 - vbaac10.chm10745
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.OnMouseUp
 ms.assetid: 898c8b44-d2f6-7d4f-f3b8-5d71d893eca1

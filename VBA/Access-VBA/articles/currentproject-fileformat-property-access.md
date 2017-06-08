@@ -3,7 +3,7 @@ title: CurrentProject.FileFormat Property (Access)
 keywords: vbaac10.chm12725
 f1_keywords:
 - vbaac10.chm12725
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.FileFormat
 ms.assetid: eb062d95-3042-eae7-9c0b-9d052e28b8cd

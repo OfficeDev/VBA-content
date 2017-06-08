@@ -3,7 +3,7 @@ title: Application.MenuBar Property (Access)
 keywords: vbaac10.chm12500
 f1_keywords:
 - vbaac10.chm12500
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.MenuBar
 ms.assetid: dc0f6f9c-4627-96a1-83fa-b58ce1eb7236

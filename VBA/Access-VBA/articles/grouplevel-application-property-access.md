@@ -3,7 +3,7 @@ title: GroupLevel.Application Property (Access)
 keywords: vbaac10.chm12236
 f1_keywords:
 - vbaac10.chm12236
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.GroupLevel.Application
 ms.assetid: e48bc896-a4fd-31f7-b75a-f9d44111d5e1

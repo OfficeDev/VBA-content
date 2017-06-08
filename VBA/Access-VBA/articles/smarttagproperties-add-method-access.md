@@ -3,7 +3,7 @@ title: SmartTagProperties.Add Method (Access)
 keywords: vbaac10.chm13314
 f1_keywords:
 - vbaac10.chm13314
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTagProperties.Add
 ms.assetid: 46dc7b7e-b85d-d862-1bd7-304369cb1b6c

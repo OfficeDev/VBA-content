@@ -3,7 +3,7 @@ title: ObjectFrame.RowSourceType Property (Access)
 keywords: vbaac10.chm11563
 f1_keywords:
 - vbaac10.chm11563
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.RowSourceType
 ms.assetid: d450ce8b-c2e9-f51b-61af-b46a64ab7d32

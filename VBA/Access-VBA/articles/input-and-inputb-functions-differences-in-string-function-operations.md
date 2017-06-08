@@ -1,6 +1,6 @@
 ---
 title: Input and InputB Functions (Differences in String Function Operations)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 49389ce7-dc9b-3014-ec09-5c444d60b8bf
 ms.date: 06/08/2017
 ---

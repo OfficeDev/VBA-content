@@ -1,6 +1,6 @@
 ---
 title: SQL Property Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 423b24b7-b435-870c-cce8-78274dd9af83
 ms.date: 06/08/2017
 ---

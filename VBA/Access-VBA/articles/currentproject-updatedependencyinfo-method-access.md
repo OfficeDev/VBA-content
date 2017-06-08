@@ -3,7 +3,7 @@ title: CurrentProject.UpdateDependencyInfo Method (Access)
 keywords: vbaac10.chm12727
 f1_keywords:
 - vbaac10.chm12727
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentProject.UpdateDependencyInfo
 ms.assetid: 90461646-22a6-bfa8-4663-9f05c8ac3757

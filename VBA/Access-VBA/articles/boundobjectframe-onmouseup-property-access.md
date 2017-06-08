@@ -3,7 +3,7 @@ title: BoundObjectFrame.OnMouseUp Property (Access)
 keywords: vbaac10.chm10972
 f1_keywords:
 - vbaac10.chm10972
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnMouseUp
 ms.assetid: 333e2527-f190-e8b1-0f3b-789f4e37bff6

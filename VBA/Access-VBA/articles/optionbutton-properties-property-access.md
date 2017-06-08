@@ -3,7 +3,7 @@ title: OptionButton.Properties Property (Access)
 keywords: vbaac10.chm10559
 f1_keywords:
 - vbaac10.chm10559
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Properties
 ms.assetid: 91313756-130d-5b6f-406c-4d5768f522c9

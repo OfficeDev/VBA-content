@@ -3,7 +3,7 @@ title: TabControl.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.BorderThemeColorIndex
 ms.assetid: 52b0f138-7d9c-2f6c-3de0-de0597d364e8

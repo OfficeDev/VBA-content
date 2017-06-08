@@ -3,7 +3,7 @@ title: ListBox.LabelAlign Property (Access)
 keywords: vbaac10.chm11270
 f1_keywords:
 - vbaac10.chm11270
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.LabelAlign
 ms.assetid: b3fa2e58-3390-57cf-88c8-b346c77cf488

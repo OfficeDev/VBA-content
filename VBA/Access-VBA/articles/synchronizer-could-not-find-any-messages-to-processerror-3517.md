@@ -3,7 +3,7 @@ title: Synchronizer could not find any messages to process. (Error 3517)
 keywords: jeterr40.chm5003517
 f1_keywords:
 - jeterr40.chm5003517
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8b5f0a25-d2bc-b921-4576-c5dfa40cc1f7
 ms.date: 06/08/2017
 ---

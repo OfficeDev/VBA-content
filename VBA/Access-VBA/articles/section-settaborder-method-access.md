@@ -3,7 +3,7 @@ title: Section.SetTabOrder Method (Access)
 keywords: vbaac10.chm14294
 f1_keywords:
 - vbaac10.chm14294
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.SetTabOrder
 ms.assetid: d0d993c5-045d-a457-f89a-459d85f98dec

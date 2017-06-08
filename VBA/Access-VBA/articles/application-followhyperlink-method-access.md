@@ -3,7 +3,7 @@ title: Application.FollowHyperlink Method (Access)
 keywords: vbaac10.chm12561
 f1_keywords:
 - vbaac10.chm12561
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.FollowHyperlink
 ms.assetid: b5142ca6-8d67-c42b-81a4-5417265a50b0

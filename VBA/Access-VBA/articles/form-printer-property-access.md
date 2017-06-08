@@ -3,7 +3,7 @@ title: Form.Printer Property (Access)
 keywords: vbaac10.chm13523
 f1_keywords:
 - vbaac10.chm13523
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Printer
 ms.assetid: c533271a-c500-57de-f16c-ed384698f829

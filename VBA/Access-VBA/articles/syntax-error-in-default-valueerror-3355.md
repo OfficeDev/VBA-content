@@ -3,7 +3,7 @@ title: Syntax error in default value. (Error 3355)
 keywords: jeterr40.chm5003355
 f1_keywords:
 - jeterr40.chm5003355
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9470136e-1e42-fa24-05d7-d0df37f6f26f
 ms.date: 06/08/2017
 ---

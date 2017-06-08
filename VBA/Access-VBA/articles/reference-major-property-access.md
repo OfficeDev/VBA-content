@@ -3,7 +3,7 @@ title: Reference.Major Property (Access)
 keywords: vbaac10.chm12632
 f1_keywords:
 - vbaac10.chm12632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reference.Major
 ms.assetid: b7aa0cf2-7bdd-58d0-4949-29e3d39be013

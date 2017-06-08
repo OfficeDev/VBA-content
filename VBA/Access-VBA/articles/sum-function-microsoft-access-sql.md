@@ -3,7 +3,7 @@ title: Sum Function (Microsoft Access SQL)
 keywords: jetsql40.chm5278828
 f1_keywords:
 - jetsql40.chm5278828
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 02498420-f177-521c-ef81-e2f7ea02b231
 ms.date: 06/08/2017
 ---

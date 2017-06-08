@@ -3,7 +3,7 @@ title: CheckBox.KeyUp Event (Access)
 keywords: vbaac10.chm14132
 f1_keywords:
 - vbaac10.chm14132
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.KeyUp
 ms.assetid: 4e86b4c2-e287-db2c-4e74-f73efd7a064c

@@ -3,7 +3,7 @@ title: Hyperlink.CreateNewDocument Method (Access)
 keywords: vbaac10.chm10121
 f1_keywords:
 - vbaac10.chm10121
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Hyperlink.CreateNewDocument
 ms.assetid: bd0f0728-d2de-1b2b-529b-e3e9db41b660

@@ -3,7 +3,7 @@ title: NavigationControl.BeforeUpdate Event (Access)
 keywords: vbaac10.chm14194
 f1_keywords:
 - vbaac10.chm14194
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BeforeUpdate
 ms.assetid: 397c8bb2-1c8d-fa32-5015-65b58b215b38

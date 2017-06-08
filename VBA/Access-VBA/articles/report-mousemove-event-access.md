@@ -3,7 +3,7 @@ title: Report.MouseMove Event (Access)
 keywords: vbaac10.chm13892
 f1_keywords:
 - vbaac10.chm13892
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.MouseMove
 ms.assetid: b7df8ba7-dd10-4aea-1b79-df33e151250d

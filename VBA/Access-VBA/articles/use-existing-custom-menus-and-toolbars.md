@@ -1,6 +1,6 @@
 ---
 title: Use Existing Custom Menus and Toolbars
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 581167ca-7c9c-4402-a9b7-49393750079c
 ms.date: 06/08/2017
 ---

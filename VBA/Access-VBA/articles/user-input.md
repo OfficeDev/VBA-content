@@ -1,6 +1,6 @@
 ---
 title: User Input
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: eaa6452b-e103-45bb-bbb0-7f9ba934d8cd
 ms.date: 06/08/2017
 ---

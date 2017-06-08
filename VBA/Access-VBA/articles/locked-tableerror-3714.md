@@ -1,6 +1,6 @@
 ---
 title: Locked table. (Error 3714)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 47374c79-4ea0-4e32-4dbd-d84eb09eb808
 ms.date: 06/08/2017
 ---

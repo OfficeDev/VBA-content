@@ -1,6 +1,6 @@
 ---
 title: URL Property Example (VBScript)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 667f3927-e5fa-4cc9-b341-027177d1d2d8
 ms.date: 06/08/2017
 ---

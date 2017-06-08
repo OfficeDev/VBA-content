@@ -3,7 +3,7 @@ title: Form.PictureTiling Property (Access)
 keywords: vbaac10.chm13383
 f1_keywords:
 - vbaac10.chm13383
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PictureTiling
 ms.assetid: 9343925c-8184-e9fc-ed62-a272a0bfa0a6

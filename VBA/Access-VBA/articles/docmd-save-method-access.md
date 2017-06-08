@@ -3,7 +3,7 @@ title: DoCmd.Save Method (Access)
 keywords: vbaac10.chm4177
 f1_keywords:
 - vbaac10.chm4177
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.Save
 ms.assetid: 7e01f370-36c9-9f4d-b506-61bc8886ee18

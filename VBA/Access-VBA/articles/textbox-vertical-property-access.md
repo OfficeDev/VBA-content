@@ -3,7 +3,7 @@ title: TextBox.Vertical Property (Access)
 keywords: vbaac10.chm11058
 f1_keywords:
 - vbaac10.chm11058
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Vertical
 ms.assetid: 40b9f9c0-daab-5562-395e-3e785d316d91

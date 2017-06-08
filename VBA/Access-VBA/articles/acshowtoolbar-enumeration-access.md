@@ -3,7 +3,7 @@ title: AcShowToolbar Enumeration (Access)
 keywords: vbaac10.chm10038
 f1_keywords:
 - vbaac10.chm10038
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcShowToolbar
 ms.assetid: b8546ec8-fd58-a2b7-24a0-ee678bfa3f33

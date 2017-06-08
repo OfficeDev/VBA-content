@@ -3,7 +3,7 @@ title: Control.LeftPadding Property (Access)
 keywords: vbaac10.chm10156
 f1_keywords:
 - vbaac10.chm10156
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.LeftPadding
 ms.assetid: 42354a61-958a-7c9a-6091-a1884c77ef8a

@@ -3,7 +3,7 @@ title: OptionButton.ControlSource Property (Access)
 keywords: vbaac10.chm10569
 f1_keywords:
 - vbaac10.chm10569
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.ControlSource
 ms.assetid: a2d61057-fe0b-4c00-88f9-f375074d7b3c

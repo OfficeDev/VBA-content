@@ -3,7 +3,7 @@ title: Object is invalid or no longer set. (Error 3420)
 keywords: jeterr40.chm5003420
 f1_keywords:
 - jeterr40.chm5003420
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5744c5e1-1cf7-52eb-6ac3-a35044f2f6d6
 ms.date: 06/08/2017
 ---

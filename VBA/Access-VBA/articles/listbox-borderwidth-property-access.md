@@ -3,7 +3,7 @@ title: ListBox.BorderWidth Property (Access)
 keywords: vbaac10.chm11249
 f1_keywords:
 - vbaac10.chm11249
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.BorderWidth
 ms.assetid: 3e0ddff1-7e60-5fbd-7680-6d9da7baead8

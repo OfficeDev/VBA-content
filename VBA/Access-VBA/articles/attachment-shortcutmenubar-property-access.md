@@ -3,7 +3,7 @@ title: Attachment.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm13971
 f1_keywords:
 - vbaac10.chm13971
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.ShortcutMenuBar
 ms.assetid: be4ce61e-c4a9-9e3b-e2f4-187b77451f67

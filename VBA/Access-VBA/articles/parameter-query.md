@@ -3,7 +3,7 @@ title: Parameter Query
 keywords: vbaac10.chm47374
 f1_keywords:
 - vbaac10.chm47374
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9f005259-3bfc-061b-b719-4c8974074f30
 ms.date: 06/08/2017
 ---

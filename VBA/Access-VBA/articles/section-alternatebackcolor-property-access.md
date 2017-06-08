@@ -3,7 +3,7 @@ title: Section.AlternateBackColor Property (Access)
 keywords: vbaac10.chm12226
 f1_keywords:
 - vbaac10.chm12226
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.AlternateBackColor
 ms.assetid: a99c84e3-fa34-3a29-9f5a-e52032671e82

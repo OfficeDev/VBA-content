@@ -3,7 +3,7 @@ title: The Synchronizer is unable to open the Synchronizer log. (Error 3506)
 keywords: jeterr40.chm5003506
 f1_keywords:
 - jeterr40.chm5003506
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 3d2c9e1b-2da3-74cd-7a2f-60709cce0225
 ms.date: 06/08/2017
 ---

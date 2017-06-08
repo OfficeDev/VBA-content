@@ -3,7 +3,7 @@ title: The cascading options for the new reference conflict with existing refere
 keywords: jeterr40.chm5003707
 f1_keywords:
 - jeterr40.chm5003707
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4f45ecee-ac02-d26b-7ae5-eac9a75df83e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Label.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.BackThemeColorIndex
 ms.assetid: 80e07716-0b29-c926-6433-5b4660ae080a

@@ -3,7 +3,7 @@ title: NavigationButton.AutoRepeat Property (Access)
 keywords: vbaac10.chm10457
 f1_keywords:
 - vbaac10.chm10457
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.AutoRepeat
 ms.assetid: 2348359a-3d49-7ad1-2afe-21e2b73c4923

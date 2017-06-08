@@ -3,7 +3,7 @@ title: AcHyperlinkPart Enumeration (Access)
 keywords: vbaac10.chm10035
 f1_keywords:
 - vbaac10.chm10035
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcHyperlinkPart
 ms.assetid: 9b093af7-b629-75d1-0186-dd7e7e302b36

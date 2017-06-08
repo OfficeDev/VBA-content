@@ -3,7 +3,7 @@ title: Learn about language-specific information (Access)
 keywords: vbaac10.chm5260731
 f1_keywords:
 - vbaac10.chm5260731
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 47c3b4cf-01ef-0b87-5cf1-50967397893f
 ms.date: 06/08/2017
 ---

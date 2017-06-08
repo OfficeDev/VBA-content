@@ -3,7 +3,7 @@ title: Application.VBE Property (Access)
 keywords: vbaac10.chm12572
 f1_keywords:
 - vbaac10.chm12572
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.VBE
 ms.assetid: b9ce562e-cfb1-4b39-a287-2c0629f38c7b

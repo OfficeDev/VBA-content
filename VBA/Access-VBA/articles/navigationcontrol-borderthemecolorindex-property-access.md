@@ -3,7 +3,7 @@ title: NavigationControl.BorderThemeColorIndex Property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BorderThemeColorIndex
 ms.assetid: 9ddd1a71-e974-c70c-0240-80c695c30e35

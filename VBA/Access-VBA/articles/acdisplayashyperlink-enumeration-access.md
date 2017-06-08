@@ -3,7 +3,7 @@ title: AcDisplayAsHyperlink Enumeration (Access)
 keywords: vbaac10.chm14289
 f1_keywords:
 - vbaac10.chm14289
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcDisplayAsHyperlink
 ms.assetid: fb9d9af3-9aff-3031-2f94-6715211d6ee4

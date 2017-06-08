@@ -3,7 +3,7 @@ title: OptionButton.Height Property (Access)
 keywords: vbaac10.chm10585
 f1_keywords:
 - vbaac10.chm10585
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Height
 ms.assetid: d3a95041-1e8f-5a02-019e-ecdb2f795bf0

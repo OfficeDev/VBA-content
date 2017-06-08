@@ -3,7 +3,7 @@ title: TextBox.SetFocus Method (Access)
 keywords: vbaac10.chm11035
 f1_keywords:
 - vbaac10.chm11035
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.SetFocus
 ms.assetid: dc5edcd0-09af-2fdb-0b94-49af0bfa705b

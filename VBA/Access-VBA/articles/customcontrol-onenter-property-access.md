@@ -3,7 +3,7 @@ title: CustomControl.OnEnter Property (Access)
 keywords: vbaac10.chm12041
 f1_keywords:
 - vbaac10.chm12041
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.OnEnter
 ms.assetid: c2ca822a-2b67-5b06-0d5c-ff602b21226b

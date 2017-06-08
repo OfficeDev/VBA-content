@@ -3,7 +3,7 @@ title: ToggleButton.FontItalic Property (Access)
 keywords: vbaac10.chm11726
 f1_keywords:
 - vbaac10.chm11726
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.FontItalic
 ms.assetid: c0c2f257-832b-ebe2-a341-040adbbf1d3c

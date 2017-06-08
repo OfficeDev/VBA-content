@@ -3,7 +3,7 @@ title: AllReports.Count Property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllReports.Count
 ms.assetid: e9c0908e-5eab-27d8-f301-c6d273555353

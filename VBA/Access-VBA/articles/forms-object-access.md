@@ -3,7 +3,7 @@ title: Forms Object (Access)
 keywords: vbaac10.chm12355
 f1_keywords:
 - vbaac10.chm12355
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Forms
 ms.assetid: a41af7be-873c-ef8b-20cd-24b78a25b5ca

@@ -3,7 +3,7 @@ title: Requested page locking, but DB is in row lock mode. (Error 3752)
 keywords: jeterr40.chm5003752
 f1_keywords:
 - jeterr40.chm5003752
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 467236be-8c57-222e-531d-a79c4560bd83
 ms.date: 06/08/2017
 ---

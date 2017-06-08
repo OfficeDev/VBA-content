@@ -3,7 +3,7 @@ title: AcPrintDuplex Enumeration (Access)
 keywords: vbaac10.chm13243
 f1_keywords:
 - vbaac10.chm13243
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcPrintDuplex
 ms.assetid: 07553f15-a28a-0b76-18a0-10c8cbc7c53d

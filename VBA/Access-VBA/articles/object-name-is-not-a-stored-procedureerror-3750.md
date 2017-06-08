@@ -1,6 +1,6 @@
 ---
 title: Object <name> is not a stored procedure. (Error 3750)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 17bd3579-56dc-b684-8720-72707b76a8da
 ms.date: 06/08/2017
 ---

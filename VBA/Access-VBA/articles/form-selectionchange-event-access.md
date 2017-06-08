@@ -3,7 +3,7 @@ title: Form.SelectionChange Event (Access)
 keywords: vbaac10.chm13672
 f1_keywords:
 - vbaac10.chm13672
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SelectionChange
 ms.assetid: 4c815a6d-4971-6cbd-16ad-905e93ec1b52

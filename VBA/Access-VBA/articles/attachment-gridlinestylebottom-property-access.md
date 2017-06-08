@@ -3,7 +3,7 @@ title: Attachment.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm13995
 f1_keywords:
 - vbaac10.chm13995
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleBottom
 ms.assetid: 337fb2fd-0f4b-f113-826a-661a03333085

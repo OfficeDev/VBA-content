@@ -3,7 +3,7 @@ title: CommandButton.MouseDown Event (Access)
 keywords: vbaac10.chm14083
 f1_keywords:
 - vbaac10.chm14083
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.MouseDown
 ms.assetid: 8daa650a-ebd8-6e87-a933-d5b1f240ded6

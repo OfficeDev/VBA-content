@@ -3,7 +3,7 @@ title: BY (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277608
 f1_keywords:
 - jetsql40.chm5277608
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b193c913-bc0c-b718-4ab0-abb20723c43a
 ms.date: 06/08/2017
 ---

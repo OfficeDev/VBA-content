@@ -3,7 +3,7 @@ title: CustomControl.BorderColor Property (Access)
 keywords: vbaac10.chm12027
 f1_keywords:
 - vbaac10.chm12027
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.BorderColor
 ms.assetid: 7fcfa9d0-bb08-0bdf-81c0-5f171b487138

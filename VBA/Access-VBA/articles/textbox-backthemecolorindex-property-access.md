@@ -3,7 +3,7 @@ title: TextBox.BackThemeColorIndex Property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BackThemeColorIndex
 ms.assetid: a66a4839-3ab9-4867-b725-e613527bc94b

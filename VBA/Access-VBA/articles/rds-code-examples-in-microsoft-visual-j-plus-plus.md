@@ -1,6 +1,6 @@
 ---
 title: RDS Code Examples in Microsoft Visual J++
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b7ae290d-2c43-6c2a-f1ce-3aabc67eb643
 ms.date: 06/08/2017
 ---

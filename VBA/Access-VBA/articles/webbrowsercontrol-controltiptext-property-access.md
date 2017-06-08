@@ -3,7 +3,7 @@ title: WebBrowserControl.ControlTipText Property (Access)
 keywords: vbaac10.chm14682
 f1_keywords:
 - vbaac10.chm14682
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.ControlTipText
 ms.assetid: 2b738920-d982-388c-7c37-cf3e3d8dc741

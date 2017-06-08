@@ -3,7 +3,7 @@ title: CustomControl.TopPadding Property (Access)
 keywords: vbaac10.chm10525
 f1_keywords:
 - vbaac10.chm10525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.TopPadding
 ms.assetid: 77604178-a2b7-9ad9-2a2d-91d60843c31c

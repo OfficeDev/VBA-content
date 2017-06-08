@@ -3,7 +3,7 @@ title: TextBox.ReadingOrder Property (Access)
 keywords: vbaac10.chm11130
 f1_keywords:
 - vbaac10.chm11130
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.ReadingOrder
 ms.assetid: 1b53bb00-9252-ca99-c3b7-3a97d06552c4

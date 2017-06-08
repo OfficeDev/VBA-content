@@ -3,7 +3,7 @@ title: Could not open file <name>. (Error 3176)
 keywords: jeterr40.chm5003176
 f1_keywords:
 - jeterr40.chm5003176
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e0d400d8-d964-7c88-77ba-f383d60d9e59
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: AcFindMatch Enumeration (Access)
 keywords: vbaac10.chm10017
 f1_keywords:
 - vbaac10.chm10017
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcFindMatch
 ms.assetid: 00ce031c-60a9-fd8f-04da-e5686b06551b

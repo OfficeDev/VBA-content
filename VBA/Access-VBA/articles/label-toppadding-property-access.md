@@ -3,7 +3,7 @@ title: Label.TopPadding Property (Access)
 keywords: vbaac10.chm10246
 f1_keywords:
 - vbaac10.chm10246
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.TopPadding
 ms.assetid: 982054f2-2746-096b-8c5e-9d44985e50b7

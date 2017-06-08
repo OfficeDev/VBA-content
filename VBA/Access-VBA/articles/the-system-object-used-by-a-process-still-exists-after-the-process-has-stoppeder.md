@@ -3,7 +3,7 @@ title: The system object used by a process still exists after the process has st
 keywords: jeterr40.chm5003533
 f1_keywords:
 - jeterr40.chm5003533
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: eeadab07-e4f6-2714-a0ac-0f1e0c5138d3
 ms.date: 06/08/2017
 ---

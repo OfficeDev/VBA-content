@@ -3,7 +3,7 @@ title: ComboBox.Undo Event (Access)
 keywords: vbaac10.chm14228
 f1_keywords:
 - vbaac10.chm14228
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Undo
 ms.assetid: d1064051-bbf9-ce00-c43e-19775879185c

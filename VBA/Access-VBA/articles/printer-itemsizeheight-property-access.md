@@ -3,7 +3,7 @@ title: Printer.ItemSizeHeight Property (Access)
 keywords: vbaac10.chm12877
 f1_keywords:
 - vbaac10.chm12877
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Printer.ItemSizeHeight
 ms.assetid: 84689cd3-e835-c61f-0334-15c2323553be

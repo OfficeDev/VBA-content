@@ -3,7 +3,7 @@ title: ToggleButton.OnLostFocus Property (Access)
 keywords: vbaac10.chm11752
 f1_keywords:
 - vbaac10.chm11752
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.OnLostFocus
 ms.assetid: f7f9f17d-0fb3-49b1-a6d8-d9498b188651

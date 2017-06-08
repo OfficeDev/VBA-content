@@ -3,7 +3,7 @@ title: ComboBox.Locked Property (Access)
 keywords: vbaac10.chm11396
 f1_keywords:
 - vbaac10.chm11396
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Locked
 ms.assetid: 6ef9a63c-9b00-126f-f662-0d23d672cfa2

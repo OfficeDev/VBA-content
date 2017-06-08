@@ -3,7 +3,7 @@ title: Form.AfterLayout Property (Access)
 keywords: vbaac10.chm13550
 f1_keywords:
 - vbaac10.chm13550
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterLayout
 ms.assetid: 8d548e7b-6d68-4631-2c59-f6b8d39cbb12

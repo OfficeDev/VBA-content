@@ -3,7 +3,7 @@ title: TextBox.AsianLineBreak Property (Access)
 keywords: vbaac10.chm11147
 f1_keywords:
 - vbaac10.chm11147
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.AsianLineBreak
 ms.assetid: 2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad

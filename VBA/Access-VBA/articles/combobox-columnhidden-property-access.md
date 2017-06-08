@@ -3,7 +3,7 @@ title: ComboBox.ColumnHidden Property (Access)
 keywords: vbaac10.chm11427
 f1_keywords:
 - vbaac10.chm11427
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ColumnHidden
 ms.assetid: 631ab036-cdbe-c471-a2bb-10172032bfcf

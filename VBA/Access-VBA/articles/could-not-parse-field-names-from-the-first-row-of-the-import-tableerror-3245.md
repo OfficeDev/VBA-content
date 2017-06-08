@@ -3,7 +3,7 @@ title: Could not parse field names from the first row of the import table. (Erro
 keywords: jeterr40.chm5003245
 f1_keywords:
 - jeterr40.chm5003245
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: ac70f60f-e43b-30cc-fea4-969c132819df
 ms.date: 06/08/2017
 ---

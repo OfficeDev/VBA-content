@@ -3,7 +3,7 @@ title: Reports Object (Access)
 keywords: vbaac10.chm12478
 f1_keywords:
 - vbaac10.chm12478
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Reports
 ms.assetid: 37c5f55e-3c3a-6140-d305-7e8118d9d2b1

@@ -3,7 +3,7 @@ title: Image.GridlineStyleLeft Property (Access)
 keywords: vbaac10.chm10417
 f1_keywords:
 - vbaac10.chm10417
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.GridlineStyleLeft
 ms.assetid: 830eac6e-9992-057c-5905-92a17bb1d628

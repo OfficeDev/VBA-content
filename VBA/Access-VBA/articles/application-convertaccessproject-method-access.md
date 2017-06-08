@@ -3,7 +3,7 @@ title: Application.ConvertAccessProject Method (Access)
 keywords: vbaac10.chm12598
 f1_keywords:
 - vbaac10.chm12598
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.ConvertAccessProject
 ms.assetid: 49b865f5-30b6-7b28-efe8-df2cc67951b0

@@ -3,7 +3,7 @@ title: TextBox.OnLostFocus Property (Access)
 keywords: vbaac10.chm11121
 f1_keywords:
 - vbaac10.chm11121
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.OnLostFocus
 ms.assetid: 1606cb80-bf56-3766-d939-b545c2738e17

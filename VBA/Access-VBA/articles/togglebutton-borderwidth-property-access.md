@@ -3,7 +3,7 @@ title: ToggleButton.BorderWidth Property (Access)
 keywords: vbaac10.chm10207
 f1_keywords:
 - vbaac10.chm10207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.BorderWidth
 ms.assetid: cbfd0285-9332-743c-a446-dfbff4dc7443

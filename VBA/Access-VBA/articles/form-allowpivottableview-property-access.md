@@ -3,7 +3,7 @@ title: Form.AllowPivotTableView Property (Access)
 keywords: vbaac10.chm13534,vbaac10.chm5540
 f1_keywords:
 - vbaac10.chm13534,vbaac10.chm5540
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AllowPivotTableView
 ms.assetid: 42bad4b4-7de1-f144-9482-2e114fc5cc4b

@@ -3,7 +3,7 @@ title: Form.AfterDelConfirm Event (Access)
 keywords: vbaac10.chm13641
 f1_keywords:
 - vbaac10.chm13641
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.AfterDelConfirm
 ms.assetid: 49f6f575-6f67-08b0-a2aa-913c8182cbe9

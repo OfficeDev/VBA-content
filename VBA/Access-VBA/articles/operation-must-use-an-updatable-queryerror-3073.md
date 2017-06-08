@@ -3,7 +3,7 @@ title: Operation must use an updatable query. (Error 3073)
 keywords: jeterr40.chm5003073
 f1_keywords:
 - jeterr40.chm5003073
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4d304da6-ed0a-4819-8d1f-ba55bf9a41e9
 ms.date: 06/08/2017
 ---

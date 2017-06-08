@@ -3,7 +3,7 @@ title: Page.Click Event (Access)
 keywords: vbaac10.chm14279
 f1_keywords:
 - vbaac10.chm14279
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Click
 ms.assetid: 7de6a718-d808-96bb-cf96-0eeee5b6ffbb

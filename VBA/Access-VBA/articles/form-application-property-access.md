@@ -3,7 +3,7 @@ title: Form.Application Property (Access)
 keywords: vbaac10.chm13489
 f1_keywords:
 - vbaac10.chm13489
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Application
 ms.assetid: decaf70d-da61-6d74-9f60-8008a3c2e00f

@@ -1,6 +1,6 @@
 ---
 title: ADO MD Code Examples in Visual Basic
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7f8bc478-c432-befb-0a0a-a57c9da6f945
 ms.date: 06/08/2017
 ---

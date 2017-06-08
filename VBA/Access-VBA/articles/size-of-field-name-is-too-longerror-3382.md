@@ -3,7 +3,7 @@ title: Size of field <name> is too long. (Error 3382)
 keywords: jeterr40.chm5003382
 f1_keywords:
 - jeterr40.chm5003382
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 292ed3ce-3cc6-1360-277c-7477515fd0a1
 ms.date: 06/08/2017
 ---

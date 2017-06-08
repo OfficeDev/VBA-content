@@ -3,7 +3,7 @@ title: Section.OnMouseUp Property (Access)
 keywords: vbaac10.chm12211
 f1_keywords:
 - vbaac10.chm12211
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnMouseUp
 ms.assetid: 446e5d0b-015c-ced1-e600-9d2e1289515e

@@ -3,7 +3,7 @@ title: Section.HasContinued Property (Access)
 keywords: vbaac10.chm12212
 f1_keywords:
 - vbaac10.chm12212
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.HasContinued
 ms.assetid: 843cb415-5cab-f380-f6f9-854f91393576

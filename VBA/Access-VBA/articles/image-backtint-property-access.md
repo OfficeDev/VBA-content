@@ -3,7 +3,7 @@ title: Image.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.BackTint
 ms.assetid: 67654a62-b38d-fff1-8ec3-6b4fb9605988

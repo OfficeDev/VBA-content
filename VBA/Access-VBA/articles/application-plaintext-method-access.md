@@ -3,7 +3,7 @@ title: Application.PlainText Method (Access)
 keywords: vbaac10.chm12613
 f1_keywords:
 - vbaac10.chm12613
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.PlainText
 ms.assetid: 76a14feb-abee-9306-fe10-27765c4a47c7

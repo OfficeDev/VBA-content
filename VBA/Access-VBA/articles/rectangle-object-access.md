@@ -3,7 +3,7 @@ title: Rectangle Object (Access)
 keywords: vbaac10.chm10320
 f1_keywords:
 - vbaac10.chm10320
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Rectangle
 ms.assetid: ea624e43-c6a6-36ee-2b0b-4530a0cff3ef

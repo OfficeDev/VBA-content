@@ -3,7 +3,7 @@ title: OptionButton.StatusBarText Property (Access)
 keywords: vbaac10.chm10573
 f1_keywords:
 - vbaac10.chm10573
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.StatusBarText
 ms.assetid: d3cda3a2-1b19-6b12-6d22-0cfd1b869933

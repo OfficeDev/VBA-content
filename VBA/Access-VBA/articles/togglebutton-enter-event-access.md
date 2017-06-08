@@ -3,7 +3,7 @@ title: ToggleButton.Enter Event (Access)
 keywords: vbaac10.chm14150
 f1_keywords:
 - vbaac10.chm14150
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.Enter
 ms.assetid: b4d4f4ca-2b1f-8a9d-a6b6-eec730275af9

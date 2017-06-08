@@ -3,7 +3,7 @@ title: Form.DblClick Event (Access)
 keywords: vbaac10.chm13651
 f1_keywords:
 - vbaac10.chm13651
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.DblClick
 ms.assetid: bac58ee6-3fd8-696e-67d2-ab533760de11

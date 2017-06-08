@@ -3,7 +3,7 @@ title: Attachment.KeyUp Event (Access)
 keywords: vbaac10.chm14034
 f1_keywords:
 - vbaac10.chm14034
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.KeyUp
 ms.assetid: 4b13f772-12e7-b840-029a-3736df1a9645

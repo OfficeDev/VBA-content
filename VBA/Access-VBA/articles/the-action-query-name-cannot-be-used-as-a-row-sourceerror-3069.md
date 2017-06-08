@@ -3,7 +3,7 @@ title: The action query <name> cannot be used as a row source. (Error 3069)
 keywords: jeterr40.chm5003069
 f1_keywords:
 - jeterr40.chm5003069
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: fca948db-d767-e19d-3f02-2e5398d84549
 ms.date: 06/08/2017
 ---

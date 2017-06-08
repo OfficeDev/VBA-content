@@ -3,7 +3,7 @@ title: Line.BorderWidth Property (Access)
 keywords: vbaac10.chm10340
 f1_keywords:
 - vbaac10.chm10340
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.BorderWidth
 ms.assetid: 06e29c22-43a6-de44-20d7-4b73e0742763

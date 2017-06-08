@@ -3,7 +3,7 @@ title: Report.Left Property (Access)
 keywords: vbaac10.chm13727
 f1_keywords:
 - vbaac10.chm13727
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Left
 ms.assetid: 678601b5-ab80-2c19-9a29-7c5c2d63f792

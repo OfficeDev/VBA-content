@@ -3,7 +3,7 @@ title: The VBA file is missing. Try reinstalling the application that returned t
 keywords: jeterr40.chm5003446
 f1_keywords:
 - jeterr40.chm5003446
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 70b52363-7aec-234f-bbc8-f7f9eadc6bdd
 ms.date: 06/08/2017
 ---

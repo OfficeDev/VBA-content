@@ -3,7 +3,7 @@ title: Application.Run Method (Access)
 keywords: vbaac10.chm12553
 f1_keywords:
 - vbaac10.chm12553
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.Run
 ms.assetid: 4cdaf4cb-c25c-aaa4-96ab-52259f9f91c0

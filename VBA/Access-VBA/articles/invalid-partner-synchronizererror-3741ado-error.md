@@ -1,6 +1,6 @@
 ---
 title: Invalid partner synchronizer. (Error 3741) (ADO Error)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 75febe9d-8a83-6c38-9248-b6c2c6270317
 ms.date: 06/08/2017
 ---

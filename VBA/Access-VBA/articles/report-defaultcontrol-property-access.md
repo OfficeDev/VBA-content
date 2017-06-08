@@ -3,7 +3,7 @@ title: Report.DefaultControl Property (Access)
 keywords: vbaac10.chm13781
 f1_keywords:
 - vbaac10.chm13781
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.DefaultControl
 ms.assetid: 13c06cbc-b6bb-60dc-dc84-d16abdeffe9c

@@ -3,7 +3,7 @@ title: Screen.PreviousControl Property (Access)
 keywords: vbaac10.chm12489
 f1_keywords:
 - vbaac10.chm12489
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Screen.PreviousControl
 ms.assetid: 089a62f7-2f3f-93e8-8e84-1b77d4f12e79

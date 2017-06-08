@@ -3,7 +3,7 @@ title: NavigationControl.OnKeyDown Property (Access)
 keywords: vbaac10.chm11127
 f1_keywords:
 - vbaac10.chm11127
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.OnKeyDown
 ms.assetid: 8de375d7-da00-318a-2a1a-7d2fb26bd11d

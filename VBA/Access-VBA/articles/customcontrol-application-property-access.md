@@ -3,7 +3,7 @@ title: CustomControl.Application Property (Access)
 keywords: vbaac10.chm11995
 f1_keywords:
 - vbaac10.chm11995
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Application
 ms.assetid: 54b56ba5-f624-acc4-cab3-1e007a09a890

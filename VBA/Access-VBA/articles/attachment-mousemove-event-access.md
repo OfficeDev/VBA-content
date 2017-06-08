@@ -3,7 +3,7 @@ title: Attachment.MouseMove Event (Access)
 keywords: vbaac10.chm14030
 f1_keywords:
 - vbaac10.chm14030
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.MouseMove
 ms.assetid: 61ec0bdb-6e39-a4a7-92aa-45d543e35109

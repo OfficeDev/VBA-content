@@ -3,7 +3,7 @@ title: TabControl.TabIndex Property (Access)
 keywords: vbaac10.chm12080
 f1_keywords:
 - vbaac10.chm12080
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.TabIndex
 ms.assetid: 5c5ac57f-e197-bf4d-d149-1ba07daa4e88

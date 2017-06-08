@@ -3,7 +3,7 @@ title: AcSharePointListTransferType Enumeration (Access)
 keywords: vbaac10.chm14057
 f1_keywords:
 - vbaac10.chm14057
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcSharePointListTransferType
 ms.assetid: 8c323c29-062c-f6ad-7beb-ef7058a30db7

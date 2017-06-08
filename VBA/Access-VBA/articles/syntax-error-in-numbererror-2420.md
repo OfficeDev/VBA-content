@@ -3,7 +3,7 @@ title: Syntax error in number. (Error 2420)
 keywords: jeterr40.chm5002420
 f1_keywords:
 - jeterr40.chm5002420
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5fd9c24e-3993-9f92-0cad-32ffadf51b42
 ms.date: 06/08/2017
 ---

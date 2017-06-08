@@ -3,7 +3,7 @@ title: Query input must contain at least one table or query. (Error 3067)
 keywords: jeterr40.chm5003067
 f1_keywords:
 - jeterr40.chm5003067
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7e5644a1-7c12-4ad5-63d0-82448b5479e0
 ms.date: 06/08/2017
 ---

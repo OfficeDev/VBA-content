@@ -3,7 +3,7 @@ title: CommandButton.AutoLabel Property (Access)
 keywords: vbaac10.chm10482
 f1_keywords:
 - vbaac10.chm10482
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.AutoLabel
 ms.assetid: f71bdc7f-9703-eeaa-70a8-70b6ddb72f85

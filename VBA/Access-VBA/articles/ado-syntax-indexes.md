@@ -1,6 +1,6 @@
 ---
 title: ADO Syntax Indexes
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 211c0156-4a60-0208-bff3-0b5b93321d53
 ms.date: 06/08/2017
 ---

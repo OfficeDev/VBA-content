@@ -3,7 +3,7 @@ title: Form.NavigationCaption Property (Access)
 keywords: vbaac10.chm13568,vbaac10.chm5683
 f1_keywords:
 - vbaac10.chm13568,vbaac10.chm5683
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.NavigationCaption
 ms.assetid: 0801ef4c-3f0c-6d45-d1f1-4ed46163586e

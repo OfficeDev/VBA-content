@@ -3,7 +3,7 @@ title: NavigationButton.Transparent Property (Access)
 keywords: vbaac10.chm10454
 f1_keywords:
 - vbaac10.chm10454
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Transparent
 ms.assetid: 9eab3a03-2498-f1f5-f2e1-f238859c4850

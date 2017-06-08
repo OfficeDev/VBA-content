@@ -3,7 +3,7 @@ title: Section.OnClick Property (Access)
 keywords: vbaac10.chm12207
 f1_keywords:
 - vbaac10.chm12207
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Section.OnClick
 ms.assetid: f832f471-dcda-a951-78d7-b963a83fd4bf

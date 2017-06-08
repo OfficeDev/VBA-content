@@ -3,7 +3,7 @@ title: PageBreak.Properties Property (Access)
 keywords: vbaac10.chm11669
 f1_keywords:
 - vbaac10.chm11669
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.PageBreak.Properties
 ms.assetid: 3e29ef61-b97e-75e4-b900-7ff4613ead85

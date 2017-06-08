@@ -3,7 +3,7 @@ title: Conflict tables cannot be renamed. (Error 3769)
 keywords: jeterr40.chm5003769
 f1_keywords:
 - jeterr40.chm5003769
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7b0eec20-d470-3b88-0d02-91df0a0b75fb
 ms.date: 06/08/2017
 ---

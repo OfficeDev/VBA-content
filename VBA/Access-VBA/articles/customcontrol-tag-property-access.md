@@ -3,7 +3,7 @@ title: CustomControl.Tag Property (Access)
 keywords: vbaac10.chm12034
 f1_keywords:
 - vbaac10.chm12034
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CustomControl.Tag
 ms.assetid: 7be610c6-9d2f-4c06-bda7-8de246badf54

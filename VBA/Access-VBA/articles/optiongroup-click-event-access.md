@@ -3,7 +3,7 @@ title: OptionGroup.Click Event (Access)
 keywords: vbaac10.chm14189
 f1_keywords:
 - vbaac10.chm14189
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Click
 ms.assetid: 7a673665-88ed-9685-d7ca-9146e224f090

@@ -3,7 +3,7 @@ title: ListBox.SetFocus Method (Access)
 keywords: vbaac10.chm11213
 f1_keywords:
 - vbaac10.chm11213
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.SetFocus
 ms.assetid: a8d0c774-095c-34f5-7905-f67c48886832

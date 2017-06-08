@@ -3,7 +3,7 @@ title: SubForm.GridlineColor Property (Access)
 keywords: vbaac10.chm11978
 f1_keywords:
 - vbaac10.chm11978
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.GridlineColor
 ms.assetid: 4b4ea587-e1b1-37f5-81e8-a0b26d62568e

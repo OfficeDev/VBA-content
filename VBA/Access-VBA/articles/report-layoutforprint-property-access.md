@@ -3,7 +3,7 @@ title: Report.LayoutForPrint Property (Access)
 keywords: vbaac10.chm13715
 f1_keywords:
 - vbaac10.chm13715
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.LayoutForPrint
 ms.assetid: f661155f-696b-3acf-5b90-44fba06345ab

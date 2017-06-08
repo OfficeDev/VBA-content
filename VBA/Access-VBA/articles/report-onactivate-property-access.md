@@ -3,7 +3,7 @@ title: Report.OnActivate Property (Access)
 keywords: vbaac10.chm13765
 f1_keywords:
 - vbaac10.chm13765
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnActivate
 ms.assetid: eb7f05e3-edba-ab9e-3708-5c3ee7b2ee18

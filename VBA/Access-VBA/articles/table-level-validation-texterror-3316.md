@@ -3,7 +3,7 @@ title: <Table-level validation text>. (Error 3316)
 keywords: jeterr40.chm5003316
 f1_keywords:
 - jeterr40.chm5003316
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f21d45a9-b30a-0917-5bd5-3e9c645927e2
 ms.date: 06/08/2017
 ---

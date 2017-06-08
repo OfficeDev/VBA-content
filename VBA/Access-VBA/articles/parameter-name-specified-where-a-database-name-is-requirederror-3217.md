@@ -3,7 +3,7 @@ title: Parameter <name> specified where a database name is required. (Error 3217
 keywords: jeterr40.chm5003217
 f1_keywords:
 - jeterr40.chm5003217
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: d6d700f2-5df5-5d26-a6ee-706ca4c1a12a
 ms.date: 06/08/2017
 ---

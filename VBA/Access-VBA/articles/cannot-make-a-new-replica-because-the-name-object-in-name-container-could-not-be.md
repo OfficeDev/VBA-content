@@ -3,7 +3,7 @@ title: Cannot make a new replica because the <name> object in <name> container c
 keywords: jeterr40.chm5003582
 f1_keywords:
 - jeterr40.chm5003582
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: aee359ed-0b2e-a3e1-cdec-7c437f65b5e6
 ms.date: 06/08/2017
 ---

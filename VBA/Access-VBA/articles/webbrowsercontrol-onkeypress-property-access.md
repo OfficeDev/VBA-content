@@ -3,7 +3,7 @@ title: WebBrowserControl.OnKeyPress Property (Access)
 keywords: vbaac10.chm14385
 f1_keywords:
 - vbaac10.chm14385
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnKeyPress
 ms.assetid: 9f79f4cb-09dd-a6db-c70c-b77c83caa315

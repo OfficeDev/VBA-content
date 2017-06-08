@@ -3,7 +3,7 @@ title: NavigationButton.OnPush Property (Access)
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnPush
 ms.assetid: 09b91008-ab58-d7d6-40af-aeb2e41d8823

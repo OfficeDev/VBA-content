@@ -3,7 +3,7 @@ title: <Database name> is not a valid database name. (Error 3005)
 keywords: jeterr40.chm5003005
 f1_keywords:
 - jeterr40.chm5003005
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 733c7e73-0f98-b254-b611-30f03ff24e1a
 ms.date: 06/08/2017
 ---

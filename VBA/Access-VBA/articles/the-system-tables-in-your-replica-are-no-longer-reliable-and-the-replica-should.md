@@ -3,7 +3,7 @@ title: The system tables in your replica are no longer reliable and the replica 
 keywords: jeterr40.chm5003595
 f1_keywords:
 - jeterr40.chm5003595
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4378a047-d540-4a99-7752-cb282125d511
 ms.date: 06/08/2017
 ---

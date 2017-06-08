@@ -3,7 +3,7 @@ title: DoCmd.DeleteObject Method (Access)
 keywords: vbaac10.chm4147
 f1_keywords:
 - vbaac10.chm4147
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.DeleteObject
 ms.assetid: 8e59c5a8-89bd-0d90-9fd1-a1178c73c1c1

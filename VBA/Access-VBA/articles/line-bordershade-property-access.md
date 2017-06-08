@@ -3,7 +3,7 @@ title: Line.BorderShade Property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.BorderShade
 ms.assetid: d44bfb45-63d6-d2ae-5efd-88ab3183cee9

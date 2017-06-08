@@ -3,7 +3,7 @@ title: Attachment.AttachmentCount Property (Access)
 keywords: vbaac10.chm13979
 f1_keywords:
 - vbaac10.chm13979
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.AttachmentCount
 ms.assetid: 30c3bc2b-d6d5-8f83-8154-d451ab3a32ed

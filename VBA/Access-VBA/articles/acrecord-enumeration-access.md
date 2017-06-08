@@ -3,7 +3,7 @@ title: AcRecord Enumeration (Access)
 keywords: vbaac10.chm10025
 f1_keywords:
 - vbaac10.chm10025
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcRecord
 ms.assetid: 39ece328-d461-9f4d-a3af-205ed3228929

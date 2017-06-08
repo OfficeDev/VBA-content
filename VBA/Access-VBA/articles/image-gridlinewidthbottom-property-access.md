@@ -3,7 +3,7 @@ title: Image.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm10424
 f1_keywords:
 - vbaac10.chm10424
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.GridlineWidthBottom
 ms.assetid: f2d3a6d8-c99d-37f2-1a19-eb0a003df8a6

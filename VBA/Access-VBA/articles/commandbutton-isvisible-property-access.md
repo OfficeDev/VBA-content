@@ -3,7 +3,7 @@ title: CommandButton.IsVisible Property (Access)
 keywords: vbaac10.chm10491
 f1_keywords:
 - vbaac10.chm10491
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.IsVisible
 ms.assetid: f5438725-4628-4f8e-1bf3-0027348b9285

@@ -3,7 +3,7 @@ title: You must enter a personal identifier (PID) consisting of at least 4 and n
 keywords: jeterr40.chm5003304
 f1_keywords:
 - jeterr40.chm5003304
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c082bd01-40ed-bb5e-7158-981cd21bd475
 ms.date: 06/08/2017
 ---

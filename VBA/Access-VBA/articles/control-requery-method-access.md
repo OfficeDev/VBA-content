@@ -3,7 +3,7 @@ title: Control.Requery Method (Access)
 keywords: vbaac10.chm10145
 f1_keywords:
 - vbaac10.chm10145
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Requery
 ms.assetid: 95f68520-7bbc-6627-0702-477b839f98c5

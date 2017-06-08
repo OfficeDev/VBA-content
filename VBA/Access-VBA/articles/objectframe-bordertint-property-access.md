@@ -3,7 +3,7 @@ title: ObjectFrame.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.BorderTint
 ms.assetid: f1adfec8-7106-bf3c-db7d-ea12c9a82d7d

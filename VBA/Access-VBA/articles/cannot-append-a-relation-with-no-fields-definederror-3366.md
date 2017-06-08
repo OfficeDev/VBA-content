@@ -3,7 +3,7 @@ title: Cannot append a relation with no fields defined. (Error 3366)
 keywords: jeterr40.chm5003366
 f1_keywords:
 - jeterr40.chm5003366
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cac57d13-5705-c67a-2621-8076346a70a3
 ms.date: 06/08/2017
 ---

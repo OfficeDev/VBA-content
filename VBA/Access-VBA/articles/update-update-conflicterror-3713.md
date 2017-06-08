@@ -3,7 +3,7 @@ title: Update/update conflict. (Error 3713)
 keywords: jeterr40.chm5003713
 f1_keywords:
 - jeterr40.chm5003713
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 748be24f-2505-e4c7-7c55-b8e857fd593a
 ms.date: 06/08/2017
 ---

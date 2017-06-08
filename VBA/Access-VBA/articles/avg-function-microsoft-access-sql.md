@@ -3,7 +3,7 @@ title: Avg Function (Microsoft Access SQL)
 keywords: jetsql40.chm5278823
 f1_keywords:
 - jetsql40.chm5278823
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: be955493-a236-2dbe-a08d-2a7f6d113b39
 ms.date: 06/08/2017
 ---

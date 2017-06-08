@@ -3,7 +3,7 @@ title: The current field must match the join key <name> in the table that serves
 keywords: jeterr40.chm5003341
 f1_keywords:
 - jeterr40.chm5003341
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 697e8861-d1b3-fc9c-9fce-34dd1c223b34
 ms.date: 06/08/2017
 ---

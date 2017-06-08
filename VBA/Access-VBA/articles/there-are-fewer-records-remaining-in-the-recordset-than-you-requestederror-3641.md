@@ -3,7 +3,7 @@ title: There are fewer records remaining in the Recordset than you requested. (E
 keywords: jeterr40.chm5003641
 f1_keywords:
 - jeterr40.chm5003641
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 806ba598-6a7a-8e97-c1df-59cb8bb985ae
 ms.date: 06/08/2017
 ---

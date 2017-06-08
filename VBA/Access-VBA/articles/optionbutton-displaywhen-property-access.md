@@ -3,7 +3,7 @@ title: OptionButton.DisplayWhen Property (Access)
 keywords: vbaac10.chm10575
 f1_keywords:
 - vbaac10.chm10575
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.DisplayWhen
 ms.assetid: dc4956e8-a34b-f4b6-d7fb-a095c74d63ef

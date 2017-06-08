@@ -3,7 +3,7 @@ title: Line.Properties Property (Access)
 keywords: vbaac10.chm10324
 f1_keywords:
 - vbaac10.chm10324
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Line.Properties
 ms.assetid: f3e9dd67-7af4-0862-b019-6b6dab241ca1

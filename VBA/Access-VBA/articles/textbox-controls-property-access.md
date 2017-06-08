@@ -3,7 +3,7 @@ title: TextBox.Controls Property (Access)
 keywords: vbaac10.chm11036
 f1_keywords:
 - vbaac10.chm11036
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.Controls
 ms.assetid: 00d5dede-0583-9f0e-191a-28f91a0327b3

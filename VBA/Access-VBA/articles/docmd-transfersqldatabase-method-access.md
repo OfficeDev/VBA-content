@@ -3,7 +3,7 @@ title: DoCmd.TransferSQLDatabase Method (Access)
 keywords: vbaac10.chm5085
 f1_keywords:
 - vbaac10.chm5085
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.TransferSQLDatabase
 ms.assetid: d6a88496-9137-b190-8357-316fd580a036

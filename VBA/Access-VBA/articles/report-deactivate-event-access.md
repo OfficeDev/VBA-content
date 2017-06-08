@@ -3,7 +3,7 @@ title: Report.Deactivate Event (Access)
 keywords: vbaac10.chm13879
 f1_keywords:
 - vbaac10.chm13879
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Deactivate
 ms.assetid: 15e96e8a-c5f5-1a68-56cc-0ceaa1dbd407

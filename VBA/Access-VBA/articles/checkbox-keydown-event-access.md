@@ -3,7 +3,7 @@ title: CheckBox.KeyDown Event (Access)
 keywords: vbaac10.chm14130
 f1_keywords:
 - vbaac10.chm14130
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.KeyDown
 ms.assetid: 185941fa-3ae0-47ba-b3c5-b4acd82417f8

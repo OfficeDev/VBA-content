@@ -3,7 +3,7 @@ title: Form.SplitFormOrientation Property (Access)
 keywords: vbaac10.chm13563
 f1_keywords:
 - vbaac10.chm13563
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.SplitFormOrientation
 ms.assetid: ddf2228f-6973-ae6c-1477-41a07557b7a2

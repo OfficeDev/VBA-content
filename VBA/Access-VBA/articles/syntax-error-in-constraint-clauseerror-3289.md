@@ -3,7 +3,7 @@ title: Syntax error in CONSTRAINT clause. (Error 3289)
 keywords: jeterr40.chm5003289
 f1_keywords:
 - jeterr40.chm5003289
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a689b937-cc48-d0bd-f9ef-e37e628cca90
 ms.date: 06/08/2017
 ---

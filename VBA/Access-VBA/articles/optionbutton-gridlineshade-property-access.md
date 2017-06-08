@@ -3,7 +3,7 @@ title: OptionButton.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.GridlineShade
 ms.assetid: 599f0476-e468-8cb7-1cf5-0f63a2dabc8f

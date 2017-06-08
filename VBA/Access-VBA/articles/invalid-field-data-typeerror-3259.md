@@ -1,6 +1,6 @@
 ---
 title: Invalid field data type. (Error 3259)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b3700b72-a1f7-8102-9796-c0e703dfecb1
 ms.date: 06/08/2017
 ---

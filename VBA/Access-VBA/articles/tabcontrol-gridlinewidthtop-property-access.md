@@ -3,7 +3,7 @@ title: TabControl.GridlineWidthTop Property (Access)
 keywords: vbaac10.chm14545
 f1_keywords:
 - vbaac10.chm14545
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.GridlineWidthTop
 ms.assetid: 91a7da4b-bb93-94a3-57bb-a790bf9acc6f

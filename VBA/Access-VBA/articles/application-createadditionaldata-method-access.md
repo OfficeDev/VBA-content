@@ -3,7 +3,7 @@ title: Application.CreateAdditionalData Method (Access)
 keywords: vbaac10.chm12607
 f1_keywords:
 - vbaac10.chm12607
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CreateAdditionalData
 ms.assetid: d27df827-1bcc-eb1e-00d2-46eebd265440

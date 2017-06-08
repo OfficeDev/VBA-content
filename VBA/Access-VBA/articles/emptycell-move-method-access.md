@@ -3,7 +3,7 @@ title: EmptyCell.Move Method (Access)
 keywords: vbaac10.chm14322
 f1_keywords:
 - vbaac10.chm14322
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.Move
 ms.assetid: 841dfb2e-4e73-7a82-875c-8e3ad52c6cd0

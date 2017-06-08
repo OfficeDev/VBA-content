@@ -3,7 +3,7 @@ title: Image.OnMouseMove Property (Access)
 keywords: vbaac10.chm10397
 f1_keywords:
 - vbaac10.chm10397
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.OnMouseMove
 ms.assetid: 9890dd97-0025-7329-1751-82d69799510d

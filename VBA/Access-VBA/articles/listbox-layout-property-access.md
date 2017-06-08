@@ -3,7 +3,7 @@ title: ListBox.Layout Property (Access)
 keywords: vbaac10.chm11305
 f1_keywords:
 - vbaac10.chm11305
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.Layout
 ms.assetid: 18453d2c-d719-1433-124e-2e05e3009cd1

@@ -3,7 +3,7 @@ title: CodeData.AllFunctions Property (Access)
 keywords: vbaac10.chm12737
 f1_keywords:
 - vbaac10.chm12737
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CodeData.AllFunctions
 ms.assetid: e3312529-f1a2-40d5-60b5-749fbd3c6247

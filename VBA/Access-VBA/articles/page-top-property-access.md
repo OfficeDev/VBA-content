@@ -3,7 +3,7 @@ title: Page.Top Property (Access)
 keywords: vbaac10.chm12156
 f1_keywords:
 - vbaac10.chm12156
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Top
 ms.assetid: 9d869d81-0e6f-d4a5-2646-43f6e3c0494c

@@ -3,7 +3,7 @@ title: Report.Properties Property (Access)
 keywords: vbaac10.chm13793
 f1_keywords:
 - vbaac10.chm13793
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Properties
 ms.assetid: 0711a5a9-7e41-66c9-f5a1-fe16fb6842c5

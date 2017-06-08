@@ -3,7 +3,7 @@ title: WebBrowserControl.NavigateError Event (Access)
 keywords: vbaac10.chm143143
 f1_keywords:
 - vbaac10.chm143143
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.NavigateError
 ms.assetid: 1b94a46a-b423-81e7-13df-e2d24434f0df

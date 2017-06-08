@@ -3,7 +3,7 @@ title: NavigationControl.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BackTint
 ms.assetid: cabea08c-a59c-ac0d-d40c-62f0e7b475ac

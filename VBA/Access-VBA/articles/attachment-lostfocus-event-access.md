@@ -3,7 +3,7 @@ title: Attachment.LostFocus Event (Access)
 keywords: vbaac10.chm14026
 f1_keywords:
 - vbaac10.chm14026
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.LostFocus
 ms.assetid: b2a680bb-faec-bc7d-c568-3c827ee5d6b1

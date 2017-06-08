@@ -3,7 +3,7 @@ title: CommandButton.QuickStyle Property (Access)
 keywords: vbaac10.chm14646
 f1_keywords:
 - vbaac10.chm14646
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.QuickStyle
 ms.assetid: ac5750b0-e4cc-4330-8391-7aaef008973d

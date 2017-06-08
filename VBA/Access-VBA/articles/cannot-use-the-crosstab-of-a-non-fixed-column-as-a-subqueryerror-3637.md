@@ -3,7 +3,7 @@ title: Cannot use the crosstab of a non-fixed column as a subquery. (Error 3637)
 keywords: jeterr40.chm5003637
 f1_keywords:
 - jeterr40.chm5003637
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4ebd84f0-c4e8-5f3c-4a44-f9f212ff1b4e
 ms.date: 06/08/2017
 ---

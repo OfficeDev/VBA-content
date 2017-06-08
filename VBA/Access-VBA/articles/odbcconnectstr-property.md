@@ -3,7 +3,7 @@ title: ODBCConnectStr Property
 keywords: vbaac10.chm4442
 f1_keywords:
 - vbaac10.chm4442
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ODBCConnectStr
 ms.assetid: f1eba90d-ec30-7e71-a0ca-0d8ed81ac61b

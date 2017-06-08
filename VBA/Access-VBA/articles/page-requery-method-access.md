@@ -3,7 +3,7 @@ title: Page.Requery Method (Access)
 keywords: vbaac10.chm12142
 f1_keywords:
 - vbaac10.chm12142
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Page.Requery
 ms.assetid: 011ca697-a0d5-c443-1715-05861b618a93

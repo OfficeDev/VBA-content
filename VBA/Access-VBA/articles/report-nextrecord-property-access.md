@@ -3,7 +3,7 @@ title: Report.NextRecord Property (Access)
 keywords: vbaac10.chm13731
 f1_keywords:
 - vbaac10.chm13731
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.NextRecord
 ms.assetid: 771508ff-9a2d-6317-2b23-a1c0b012e7ba

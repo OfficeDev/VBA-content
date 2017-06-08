@@ -3,7 +3,7 @@ title: Label.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm10252
 f1_keywords:
 - vbaac10.chm10252
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.GridlineStyleBottom
 ms.assetid: 14b9658c-4284-0f08-006b-f0ba6d5bc27f

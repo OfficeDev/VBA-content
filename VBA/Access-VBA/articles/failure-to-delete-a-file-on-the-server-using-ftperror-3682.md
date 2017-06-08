@@ -3,7 +3,7 @@ title: Failure to delete a file on the server using FTP. (Error 3682)
 keywords: jeterr40.chm5003682
 f1_keywords:
 - jeterr40.chm5003682
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: a4a177f5-a4d3-e452-ae59-8709fc582246
 ms.date: 06/08/2017
 ---

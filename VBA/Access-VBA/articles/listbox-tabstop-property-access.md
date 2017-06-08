@@ -3,7 +3,7 @@ title: ListBox.TabStop Property (Access)
 keywords: vbaac10.chm11238
 f1_keywords:
 - vbaac10.chm11238
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.TabStop
 ms.assetid: 0581f18a-7d23-2836-0959-88f84dc1a4ad

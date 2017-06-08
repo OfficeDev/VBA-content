@@ -3,7 +3,7 @@ title: ToggleButton.ColumnHidden Property (Access)
 keywords: vbaac10.chm11735
 f1_keywords:
 - vbaac10.chm11735
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ColumnHidden
 ms.assetid: 9ef40b79-555d-c7c6-cf16-307d073afacb

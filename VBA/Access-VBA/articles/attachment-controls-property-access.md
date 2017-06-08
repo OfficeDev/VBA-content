@@ -3,7 +3,7 @@ title: Attachment.Controls Property (Access)
 keywords: vbaac10.chm13910
 f1_keywords:
 - vbaac10.chm13910
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Attachment.Controls
 ms.assetid: 767fd173-4a85-48ac-820a-9235776b7b00

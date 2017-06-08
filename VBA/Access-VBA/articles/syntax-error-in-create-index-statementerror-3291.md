@@ -3,7 +3,7 @@ title: Syntax error in CREATE INDEX statement. (Error 3291)
 keywords: jeterr40.chm5003291
 f1_keywords:
 - jeterr40.chm5003291
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9369151a-ef0d-ec24-48d2-e001acc8421a
 ms.date: 06/08/2017
 ---

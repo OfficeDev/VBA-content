@@ -3,7 +3,7 @@ title: OptionButton.BorderTint Property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.BorderTint
 ms.assetid: 901c10bf-1d49-2fbd-4403-8d93547d534f

@@ -3,7 +3,7 @@ title: Application.IsCurrentWebUserInGroup Method (Access)
 keywords: vbaac10.chm14601
 f1_keywords:
 - vbaac10.chm14601
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.IsCurrentWebUserInGroup
 ms.assetid: 49251e19-e375-bcec-29fa-329b2c4fbf3f

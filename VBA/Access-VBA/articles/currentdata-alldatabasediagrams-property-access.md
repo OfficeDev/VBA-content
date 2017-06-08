@@ -3,7 +3,7 @@ title: CurrentData.AllDatabaseDiagrams Property (Access)
 keywords: vbaac10.chm12736
 f1_keywords:
 - vbaac10.chm12736
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CurrentData.AllDatabaseDiagrams
 ms.assetid: cffc16bd-34e7-3499-b182-dd6025f4871a

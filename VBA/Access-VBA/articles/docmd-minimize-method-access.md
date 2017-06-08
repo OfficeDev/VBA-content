@@ -3,7 +3,7 @@ title: DoCmd.Minimize Method (Access)
 keywords: vbaac10.chm4157
 f1_keywords:
 - vbaac10.chm4157
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.Minimize
 ms.assetid: fa29ccaa-9d61-c5c3-fc32-f53a5d96ff05

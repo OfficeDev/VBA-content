@@ -3,7 +3,7 @@ title: CheckBox.LabelY Property (Access)
 keywords: vbaac10.chm10728
 f1_keywords:
 - vbaac10.chm10728
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.LabelY
 ms.assetid: 7f016e78-850e-f55e-bc56-b574b453cede

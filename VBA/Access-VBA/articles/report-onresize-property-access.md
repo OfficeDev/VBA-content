@@ -3,7 +3,7 @@ title: Report.OnResize Property (Access)
 keywords: vbaac10.chm13857
 f1_keywords:
 - vbaac10.chm13857
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnResize
 ms.assetid: 336eceb4-7f78-b0b0-cb8f-a6a35c8bea76

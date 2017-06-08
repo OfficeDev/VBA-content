@@ -3,7 +3,7 @@ title: CheckBox.Enter Event (Access)
 keywords: vbaac10.chm14122
 f1_keywords:
 - vbaac10.chm14122
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Enter
 ms.assetid: 512122ce-f438-46d6-4990-6fff469bc68e

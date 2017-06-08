@@ -3,7 +3,7 @@ title: CheckBox.Height Property (Access)
 keywords: vbaac10.chm10712
 f1_keywords:
 - vbaac10.chm10712
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CheckBox.Height
 ms.assetid: c45447cc-6659-c370-398d-fd7d4888f7a2

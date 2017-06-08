@@ -3,7 +3,7 @@ title: ObjectFrame.Visible Property (Access)
 keywords: vbaac10.chm11579
 f1_keywords:
 - vbaac10.chm11579
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.Visible
 ms.assetid: 2461bccb-44c6-82b4-93a0-9e4f8231cf53

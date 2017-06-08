@@ -3,7 +3,7 @@ title: OptionGroup.TabIndex Property (Access)
 keywords: vbaac10.chm10832
 f1_keywords:
 - vbaac10.chm10832
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.TabIndex
 ms.assetid: 1ceeb9cd-e9b6-129f-72b9-3d15d9622709

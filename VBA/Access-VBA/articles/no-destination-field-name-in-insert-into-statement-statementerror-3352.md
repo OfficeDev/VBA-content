@@ -1,6 +1,6 @@
 ---
 title: No destination field name in INSERT INTO statement <statement>. (Error 3352)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 615f53ae-73fb-aba2-a18f-70790ddc9222
 ms.date: 06/08/2017
 ---

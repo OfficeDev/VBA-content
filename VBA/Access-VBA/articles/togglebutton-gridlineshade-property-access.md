@@ -3,7 +3,7 @@ title: ToggleButton.GridlineShade Property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineShade
 ms.assetid: 33975f40-63ca-aa3f-eb8c-7af752b8c1b3

@@ -3,7 +3,7 @@ title: Form.PictureType Property (Access)
 keywords: vbaac10.chm13380
 f1_keywords:
 - vbaac10.chm13380
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PictureType
 ms.assetid: 93d3b9e4-ca7d-5f21-81b7-24270532dfa2

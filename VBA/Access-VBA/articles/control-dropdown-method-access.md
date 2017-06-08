@@ -3,7 +3,7 @@ title: Control.Dropdown Method (Access)
 keywords: vbaac10.chm10135
 f1_keywords:
 - vbaac10.chm10135
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.Dropdown
 ms.assetid: 45957d42-3e81-f7eb-9579-e5e75c833f59

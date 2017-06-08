@@ -3,7 +3,7 @@ title: CONTAINER (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277487
 f1_keywords:
 - jetsql40.chm5277487
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f3ad4ff4-8395-bfe2-4d4e-caf78483c952
 ms.date: 06/08/2017
 ---

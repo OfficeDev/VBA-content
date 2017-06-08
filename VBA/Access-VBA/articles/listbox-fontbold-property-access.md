@@ -3,7 +3,7 @@ title: ListBox.FontBold Property (Access)
 keywords: vbaac10.chm11259
 f1_keywords:
 - vbaac10.chm11259
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.FontBold
 ms.assetid: b1060b7d-36ca-3048-a046-90e9bdf8f402

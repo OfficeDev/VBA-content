@@ -3,7 +3,7 @@ title: Access was denied while accessing dropbox folder <name>. (Error 3468)
 keywords: jeterr40.chm5003468
 f1_keywords:
 - jeterr40.chm5003468
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: f1753396-f87a-87cb-9e2e-a3fb246583fc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Label.FontWeight Property (Access)
 keywords: vbaac10.chm10212
 f1_keywords:
 - vbaac10.chm10212
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Label.FontWeight
 ms.assetid: 82da64d1-395a-7e42-f7e5-997a9b7b8407

@@ -3,7 +3,7 @@ title: ODBC - connection to <name> failed. (Error 3151)
 keywords: jeterr40.chm5003151
 f1_keywords:
 - jeterr40.chm5003151
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: cb521323-61f9-72c9-4982-74b6889c4dd8
 ms.date: 06/08/2017
 ---

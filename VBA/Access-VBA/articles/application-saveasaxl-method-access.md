@@ -3,7 +3,7 @@ title: Application.SaveAsAXL Method (Access)
 keywords: vbaac10.chm14664
 f1_keywords:
 - vbaac10.chm14664
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.SaveAsAXL
 ms.assetid: a9557499-7e69-b405-8e2f-d9fcb23fb012

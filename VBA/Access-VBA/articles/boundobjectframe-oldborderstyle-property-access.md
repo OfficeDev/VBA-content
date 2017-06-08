@@ -3,7 +3,7 @@ title: BoundObjectFrame.OldBorderStyle Property (Access)
 keywords: vbaac10.chm10935
 f1_keywords:
 - vbaac10.chm10935
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OldBorderStyle
 ms.assetid: 7da1a1d6-bf23-5ea8-5e73-46ff92b67952

@@ -3,7 +3,7 @@ title: User-defined properties do not support a Null value. (Error 3385)
 keywords: jeterr40.chm5003385
 f1_keywords:
 - jeterr40.chm5003385
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 827551ad-2803-fe4f-2e85-462f4ac46bbb
 ms.date: 06/08/2017
 ---

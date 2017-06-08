@@ -3,7 +3,7 @@ title: TabControl.MultiRow Property (Access)
 keywords: vbaac10.chm12086
 f1_keywords:
 - vbaac10.chm12086
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.MultiRow
 ms.assetid: b5c3a830-d0df-7cbc-c83b-4b93bced8cd7

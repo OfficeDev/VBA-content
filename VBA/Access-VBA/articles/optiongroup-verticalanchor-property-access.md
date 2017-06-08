@@ -3,7 +3,7 @@ title: OptionGroup.VerticalAnchor Property (Access)
 keywords: vbaac10.chm10884
 f1_keywords:
 - vbaac10.chm10884
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.VerticalAnchor
 ms.assetid: 9f8a49f1-0bce-6db8-460a-e1676af211f1

@@ -1,6 +1,6 @@
 ---
 title: Failed to load RDOCURS.DLL. (Error 3672)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 0ba463a9-6e96-f203-b993-69ebd5473097
 ms.date: 06/08/2017
 ---

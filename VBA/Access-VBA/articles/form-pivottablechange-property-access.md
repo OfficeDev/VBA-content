@@ -3,7 +3,7 @@ title: Form.PivotTableChange Property (Access)
 keywords: vbaac10.chm13538,vbaac10.chm5102
 f1_keywords:
 - vbaac10.chm13538,vbaac10.chm5102
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.PivotTableChange
 ms.assetid: d8d6a7eb-2bc1-e441-95fe-aefaec7fde9d

@@ -3,7 +3,7 @@ title: BoundObjectFrame.OnClick Property (Access)
 keywords: vbaac10.chm10968
 f1_keywords:
 - vbaac10.chm10968
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnClick
 ms.assetid: 1afb4220-a3de-076b-5619-d758b4e8483c

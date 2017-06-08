@@ -3,7 +3,7 @@ title: Missing destination field name in SELECT INTO statement <statement>. (Err
 keywords: jeterr40.chm5003105
 f1_keywords:
 - jeterr40.chm5003105
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: e25f16db-5d8f-f348-d36a-1f0ac112fc86
 ms.date: 06/08/2017
 ---

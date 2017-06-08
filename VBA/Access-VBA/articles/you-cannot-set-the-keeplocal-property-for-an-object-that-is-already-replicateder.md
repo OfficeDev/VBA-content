@@ -3,7 +3,7 @@ title: You cannot set the KeepLocal property for an object that is already repli
 keywords: jeterr40.chm5003457
 f1_keywords:
 - jeterr40.chm5003457
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 916ea4af-3190-99f4-901d-76b7754efa6a
 ms.date: 06/08/2017
 ---

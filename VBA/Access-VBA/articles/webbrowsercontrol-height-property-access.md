@@ -3,7 +3,7 @@ title: WebBrowserControl.Height Property (Access)
 keywords: vbaac10.chm14373
 f1_keywords:
 - vbaac10.chm14373
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Height
 ms.assetid: 8f4223ac-fefa-3ac6-a84e-9cd776bc56d6

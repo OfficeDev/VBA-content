@@ -3,7 +3,7 @@ title: WebBrowserControl.Layout Property (Access)
 keywords: vbaac10.chm14389
 f1_keywords:
 - vbaac10.chm14389
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Layout
 ms.assetid: 87577d00-6449-25fe-c24d-3422a3db59ee

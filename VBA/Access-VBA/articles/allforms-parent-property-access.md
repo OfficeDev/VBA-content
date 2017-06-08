@@ -3,7 +3,7 @@ title: AllForms.Parent Property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AllForms.Parent
 ms.assetid: fa16ed80-9eb2-7bd8-fdc6-a8c9a8eb7ea0

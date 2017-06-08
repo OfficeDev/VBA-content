@@ -3,7 +3,7 @@ title: BoundObjectFrame.Layout Property (Access)
 keywords: vbaac10.chm10994
 f1_keywords:
 - vbaac10.chm10994
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Layout
 ms.assetid: f2c64167-b3d0-098f-8a86-755efc28f548

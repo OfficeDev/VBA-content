@@ -3,7 +3,7 @@ title: The LEVEL clause includes a reserved word or argument that is misspelled 
 keywords: jeterr40.chm5003136
 f1_keywords:
 - jeterr40.chm5003136
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 7d886d02-5aaf-b66e-c529-49b5b91d4745
 ms.date: 06/08/2017
 ---

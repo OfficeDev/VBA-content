@@ -3,7 +3,7 @@ title: Could not build key. (Error 3250)
 keywords: jeterr40.chm5003250
 f1_keywords:
 - jeterr40.chm5003250
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c00debc3-c39d-6c58-6206-f0210a6e1ea4
 ms.date: 06/08/2017
 ---

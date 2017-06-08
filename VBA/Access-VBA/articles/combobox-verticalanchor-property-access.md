@@ -3,7 +3,7 @@ title: ComboBox.VerticalAnchor Property (Access)
 keywords: vbaac10.chm11500
 f1_keywords:
 - vbaac10.chm11500
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.VerticalAnchor
 ms.assetid: ac25f518-9954-7422-b0ac-61bb5a8ea758

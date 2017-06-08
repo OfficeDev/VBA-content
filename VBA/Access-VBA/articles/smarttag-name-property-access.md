@@ -3,7 +3,7 @@ title: SmartTag.Name Property (Access)
 keywords: vbaac10.chm13319
 f1_keywords:
 - vbaac10.chm13319
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SmartTag.Name
 ms.assetid: 29cbf933-97f6-f006-f650-1680bfd79c3e

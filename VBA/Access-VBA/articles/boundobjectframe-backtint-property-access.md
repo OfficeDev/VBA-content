@@ -3,7 +3,7 @@ title: BoundObjectFrame.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackTint
 ms.assetid: ac815c96-c30f-57e0-01e8-db12fd98a50e

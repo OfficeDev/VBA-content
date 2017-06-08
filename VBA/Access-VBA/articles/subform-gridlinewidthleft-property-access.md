@@ -3,7 +3,7 @@ title: SubForm.GridlineWidthLeft Property (Access)
 keywords: vbaac10.chm11974
 f1_keywords:
 - vbaac10.chm11974
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.GridlineWidthLeft
 ms.assetid: 28ef9cc3-83bb-95ec-daad-01b1dd55c080

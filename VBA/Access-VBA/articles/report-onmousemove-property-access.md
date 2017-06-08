@@ -3,7 +3,7 @@ title: Report.OnMouseMove Property (Access)
 keywords: vbaac10.chm13864
 f1_keywords:
 - vbaac10.chm13864
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.OnMouseMove
 ms.assetid: 260c8b56-2985-1da4-7c3f-1398b54666b3

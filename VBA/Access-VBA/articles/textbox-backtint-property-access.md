@@ -3,7 +3,7 @@ title: TextBox.BackTint Property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.BackTint
 ms.assetid: 3740b360-334c-db71-9fb6-1f7aab304811

@@ -3,7 +3,7 @@ title: BoundObjectFrame.Controls Property (Access)
 keywords: vbaac10.chm10905
 f1_keywords:
 - vbaac10.chm10905
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Controls
 ms.assetid: 65113d53-fa59-ff69-c398-2ce42abd9e0b

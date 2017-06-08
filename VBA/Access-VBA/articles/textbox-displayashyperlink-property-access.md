@@ -3,7 +3,7 @@ title: TextBox.DisplayAsHyperlink Property (Access)
 keywords: vbaac10.chm11183
 f1_keywords:
 - vbaac10.chm11183
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.DisplayAsHyperlink
 ms.assetid: 4741039e-9985-ac0a-9b74-309fcac860bf

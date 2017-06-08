@@ -1,6 +1,6 @@
 ---
 title: Failure writing to the Synchronizer log. (Error 3507)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 923f2d4d-f87a-db3b-b284-4341c14bf38a
 ms.date: 06/08/2017
 ---

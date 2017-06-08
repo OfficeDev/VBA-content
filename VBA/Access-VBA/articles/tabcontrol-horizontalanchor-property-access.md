@@ -3,7 +3,7 @@ title: TabControl.HorizontalAnchor Property (Access)
 keywords: vbaac10.chm12125
 f1_keywords:
 - vbaac10.chm12125
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.HorizontalAnchor
 ms.assetid: af46f414-5b5a-c0ae-bc63-cb78bd7f4eb6

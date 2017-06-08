@@ -3,7 +3,7 @@ title: Cannot have Memo or OLE Object fields in aggregate argument <statement>. 
 keywords: jeterr40.chm5003115
 f1_keywords:
 - jeterr40.chm5003115
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 32c1f9ab-ebda-13e0-747e-1f158dc3b352
 ms.date: 06/08/2017
 ---

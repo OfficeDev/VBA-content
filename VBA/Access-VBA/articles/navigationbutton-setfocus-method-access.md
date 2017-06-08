@@ -3,7 +3,7 @@ title: NavigationButton.SetFocus Method (Access)
 keywords: vbaac10.chm10444
 f1_keywords:
 - vbaac10.chm10444
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.SetFocus
 ms.assetid: 71954d0e-a919-63b8-bba1-4f80e5940336

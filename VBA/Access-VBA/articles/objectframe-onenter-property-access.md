@@ -3,7 +3,7 @@ title: ObjectFrame.OnEnter Property (Access)
 keywords: vbaac10.chm11615
 f1_keywords:
 - vbaac10.chm11615
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnEnter
 ms.assetid: 386524c3-8208-05dd-5d0f-9899e4619eb7

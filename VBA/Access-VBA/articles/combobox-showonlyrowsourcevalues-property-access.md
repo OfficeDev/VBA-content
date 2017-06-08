@@ -3,7 +3,7 @@ title: ComboBox.ShowOnlyRowSourceValues Property (Access)
 keywords: vbaac10.chm11525
 f1_keywords:
 - vbaac10.chm11525
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.ShowOnlyRowSourceValues
 ms.assetid: 3400539d-64c2-bd83-6d82-b70bf9ba6654

@@ -3,7 +3,7 @@ title: NavigationButton.Enter Event (Access)
 keywords: vbaac10.chm14078
 f1_keywords:
 - vbaac10.chm14078
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.Enter
 ms.assetid: bd1599bb-d57e-d1cd-58d6-fef9650b9ab5

@@ -3,7 +3,7 @@ title: Synchronizer could not delete a file. (Error 3568)
 keywords: jeterr40.chm5003568
 f1_keywords:
 - jeterr40.chm5003568
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 5df82d8f-c60e-63c2-430b-f19e269fc5b8
 ms.date: 06/08/2017
 ---

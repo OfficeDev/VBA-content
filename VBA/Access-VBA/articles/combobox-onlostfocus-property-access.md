@@ -3,7 +3,7 @@ title: ComboBox.OnLostFocus Property (Access)
 keywords: vbaac10.chm11454
 f1_keywords:
 - vbaac10.chm11454
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.OnLostFocus
 ms.assetid: 95356ca4-d76d-9027-7330-b5d36ccf7afc

@@ -3,7 +3,7 @@ title: Form.Dirty Event (Access)
 keywords: vbaac10.chm13662
 f1_keywords:
 - vbaac10.chm13662
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Dirty
 ms.assetid: e0bcf968-7176-bd24-29c4-d3f014f57adb

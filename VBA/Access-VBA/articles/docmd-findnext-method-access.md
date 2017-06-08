@@ -3,7 +3,7 @@ title: DoCmd.FindNext Method (Access)
 keywords: vbaac10.chm4150
 f1_keywords:
 - vbaac10.chm4150
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.FindNext
 ms.assetid: 7edd2936-85d2-27f1-e72e-2408338fa740

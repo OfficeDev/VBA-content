@@ -3,7 +3,7 @@ title: TabControl.FontSize Property (Access)
 keywords: vbaac10.chm12091
 f1_keywords:
 - vbaac10.chm12091
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.FontSize
 ms.assetid: 19a38410-726a-bbc9-f2f8-b4688b2f7576

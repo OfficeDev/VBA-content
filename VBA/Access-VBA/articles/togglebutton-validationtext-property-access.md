@@ -3,7 +3,7 @@ title: ToggleButton.ValidationText Property (Access)
 keywords: vbaac10.chm11708
 f1_keywords:
 - vbaac10.chm11708
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ValidationText
 ms.assetid: d42ad483-2720-2b9b-89f6-9611e345e44a

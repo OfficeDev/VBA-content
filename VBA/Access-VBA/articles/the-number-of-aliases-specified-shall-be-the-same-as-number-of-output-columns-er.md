@@ -3,7 +3,7 @@ title: The number of aliases specified shall be the same as number of output col
 keywords: jeterr40.chm5003731
 f1_keywords:
 - jeterr40.chm5003731
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 884d1f65-60d7-66f3-f404-d7b0b996c46a
 ms.date: 06/08/2017
 ---

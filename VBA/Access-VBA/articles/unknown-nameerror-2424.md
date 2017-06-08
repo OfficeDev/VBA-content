@@ -3,7 +3,7 @@ title: Unknown name. (Error 2424)
 keywords: jeterr40.chm5002424
 f1_keywords:
 - jeterr40.chm5002424
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: c6ac5e1c-c18e-df89-82ef-913a777982df
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Field will not fit in record. (Error 3016)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 9ad3a5fc-87ca-a16a-dc2b-1c470063406f
 ms.date: 06/08/2017
 ---

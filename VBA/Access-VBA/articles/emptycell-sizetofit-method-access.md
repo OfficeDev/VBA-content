@@ -3,7 +3,7 @@ title: EmptyCell.SizeToFit Method (Access)
 keywords: vbaac10.chm14300
 f1_keywords:
 - vbaac10.chm14300
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.EmptyCell.SizeToFit
 ms.assetid: ac4daffa-e89d-7d22-3885-3fe54ba9e155

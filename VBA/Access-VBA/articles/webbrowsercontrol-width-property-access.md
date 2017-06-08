@@ -3,7 +3,7 @@ title: WebBrowserControl.Width Property (Access)
 keywords: vbaac10.chm14372
 f1_keywords:
 - vbaac10.chm14372
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.Width
 ms.assetid: 0a55e8d9-c53e-0afe-b41e-31c1e3f8b10e

@@ -3,7 +3,7 @@ title: Screen.ActiveReport Property (Access)
 keywords: vbaac10.chm12491
 f1_keywords:
 - vbaac10.chm12491
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Screen.ActiveReport
 ms.assetid: efcf6bfd-2749-5b5c-d7ca-a26168bfcb65

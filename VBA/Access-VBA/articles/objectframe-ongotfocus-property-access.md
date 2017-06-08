@@ -3,7 +3,7 @@ title: ObjectFrame.OnGotFocus Property (Access)
 keywords: vbaac10.chm11617
 f1_keywords:
 - vbaac10.chm11617
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ObjectFrame.OnGotFocus
 ms.assetid: 3897a919-6180-6b57-eba9-72eea8831753

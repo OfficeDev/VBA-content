@@ -3,7 +3,7 @@ title: OptionGroup.Tag Property (Access)
 keywords: vbaac10.chm10859
 f1_keywords:
 - vbaac10.chm10859
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.Tag
 ms.assetid: a8d4d55c-f2ff-0636-fe97-f35407dd20b9

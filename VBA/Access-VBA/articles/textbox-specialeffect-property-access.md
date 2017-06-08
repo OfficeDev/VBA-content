@@ -3,7 +3,7 @@ title: TextBox.SpecialEffect Property (Access)
 keywords: vbaac10.chm11077
 f1_keywords:
 - vbaac10.chm11077
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.SpecialEffect
 ms.assetid: 9d34e61b-9ba9-02e0-4bd8-30da0a043a89

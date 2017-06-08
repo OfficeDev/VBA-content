@@ -3,7 +3,7 @@ title: BoundObjectFrame.ShortcutMenuBar Property (Access)
 keywords: vbaac10.chm10939
 f1_keywords:
 - vbaac10.chm10939
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ShortcutMenuBar
 ms.assetid: 05f24e86-b02b-c55a-de10-0a6896ffefe0

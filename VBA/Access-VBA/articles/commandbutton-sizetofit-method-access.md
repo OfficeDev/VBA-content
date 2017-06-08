@@ -3,7 +3,7 @@ title: CommandButton.SizeToFit Method (Access)
 keywords: vbaac10.chm10442
 f1_keywords:
 - vbaac10.chm10442
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.CommandButton.SizeToFit
 ms.assetid: a1e8f47f-30b4-c2f4-7d95-2be75f0a4aa5

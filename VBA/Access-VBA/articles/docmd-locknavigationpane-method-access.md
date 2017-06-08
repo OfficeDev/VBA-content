@@ -3,7 +3,7 @@ title: DoCmd.LockNavigationPane Method (Access)
 keywords: vbaac10.chm5853
 f1_keywords:
 - vbaac10.chm5853
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.DoCmd.LockNavigationPane
 ms.assetid: 64b44d9b-4cbd-182c-9bfb-89b4ca04dbf9

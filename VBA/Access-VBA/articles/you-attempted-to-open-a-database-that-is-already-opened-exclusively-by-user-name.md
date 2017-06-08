@@ -3,7 +3,7 @@ title: You attempted to open a database that is already opened exclusively by us
 keywords: jeterr40.chm5003356
 f1_keywords:
 - jeterr40.chm5003356
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 4b44234f-ed4a-6934-cb3e-e64e7a9fd158
 ms.date: 06/08/2017
 ---

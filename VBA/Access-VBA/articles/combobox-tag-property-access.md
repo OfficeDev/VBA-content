@@ -3,7 +3,7 @@ title: ComboBox.Tag Property (Access)
 keywords: vbaac10.chm11435
 f1_keywords:
 - vbaac10.chm11435
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.Tag
 ms.assetid: b128fa76-0ab7-48ae-398f-352be0d638ae

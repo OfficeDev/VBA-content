@@ -3,7 +3,7 @@ title: Report.FastLaserPrinting Property (Access)
 keywords: vbaac10.chm13716
 f1_keywords:
 - vbaac10.chm13716
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.FastLaserPrinting
 ms.assetid: b96ec618-de46-8802-0d9e-064fd8835fbd

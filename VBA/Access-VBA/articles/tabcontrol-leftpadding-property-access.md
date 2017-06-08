@@ -3,7 +3,7 @@ title: TabControl.LeftPadding Property (Access)
 keywords: vbaac10.chm14536
 f1_keywords:
 - vbaac10.chm14536
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TabControl.LeftPadding
 ms.assetid: 72b2ef0f-b9aa-501d-1f6e-78a09e967915

@@ -3,7 +3,7 @@ title: WebBrowserControl.BorderWidth Property (Access)
 keywords: vbaac10.chm14377
 f1_keywords:
 - vbaac10.chm14377
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebBrowserControl.BorderWidth
 ms.assetid: f2db066e-bd06-0d88-ecd1-5a7ac8a040d6

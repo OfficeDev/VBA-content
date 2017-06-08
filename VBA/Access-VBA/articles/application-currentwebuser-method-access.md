@@ -3,7 +3,7 @@ title: Application.CurrentWebUser Method (Access)
 keywords: vbaac10.chm14599
 f1_keywords:
 - vbaac10.chm14599
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CurrentWebUser
 ms.assetid: cb8b230d-71c5-c73d-c88e-1a13246492a5

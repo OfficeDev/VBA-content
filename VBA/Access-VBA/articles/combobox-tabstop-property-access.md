@@ -3,7 +3,7 @@ title: ComboBox.TabStop Property (Access)
 keywords: vbaac10.chm11398
 f1_keywords:
 - vbaac10.chm11398
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.TabStop
 ms.assetid: c22f2818-0c7f-522b-b17a-c4e32b26e99a

@@ -3,7 +3,7 @@ title: WebServices Object (Access)
 keywords: vbaac10.chm14550
 f1_keywords:
 - vbaac10.chm14550
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.WebServices
 ms.assetid: 457074a3-89ff-7859-e833-9a7e6f57bc6a

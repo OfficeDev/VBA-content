@@ -3,7 +3,7 @@ title: Controls.Count Property (Access)
 keywords: vbaac10.chm10180
 f1_keywords:
 - vbaac10.chm10180
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Controls.Count
 ms.assetid: 531c1674-4782-aa8f-64f5-0493a29886e3

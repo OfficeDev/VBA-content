@@ -3,7 +3,7 @@ title: NavigationControl.BottomPadding Property (Access)
 keywords: vbaac10.chm11155
 f1_keywords:
 - vbaac10.chm11155
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.BottomPadding
 ms.assetid: fb22d41c-a310-ed95-34ea-8a4cda1bff8b

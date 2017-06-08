@@ -3,7 +3,7 @@ title: SubForm.BorderColor Property (Access)
 keywords: vbaac10.chm11947
 f1_keywords:
 - vbaac10.chm11947
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.BorderColor
 ms.assetid: 30970cd2-7fc9-be57-3124-806cfbe76a2c

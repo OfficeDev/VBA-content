@@ -3,7 +3,7 @@ title: AcWebUserGroupsDisplay Enumeration (Access)
 keywords: vbaac10.chm14600
 f1_keywords:
 - vbaac10.chm14600
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.AcWebUserGroupsDisplay
 ms.assetid: f9036c50-5fa3-63ec-f569-a058e48057da

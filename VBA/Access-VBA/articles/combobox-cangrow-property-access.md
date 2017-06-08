@@ -3,7 +3,7 @@ title: ComboBox.CanGrow Property (Access)
 keywords: vbaac10.chm11496
 f1_keywords:
 - vbaac10.chm11496
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ComboBox.CanGrow
 ms.assetid: 0abc0d9c-35dc-ea5f-dcb1-dbfe37b7a143

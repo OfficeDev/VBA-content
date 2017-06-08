@@ -3,7 +3,7 @@ title: OptionButton.Section Property (Access)
 keywords: vbaac10.chm10603
 f1_keywords:
 - vbaac10.chm10603
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionButton.Section
 ms.assetid: 0caab057-7495-e0af-6b3c-3e8c63c06f95

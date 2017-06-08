@@ -3,7 +3,7 @@ title: TextBox.DisplayWhen Property (Access)
 keywords: vbaac10.chm11057
 f1_keywords:
 - vbaac10.chm11057
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.DisplayWhen
 ms.assetid: 6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab

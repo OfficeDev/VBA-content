@@ -3,7 +3,7 @@ title: ListBox.GridlineStyleBottom Property (Access)
 keywords: vbaac10.chm11313
 f1_keywords:
 - vbaac10.chm11313
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.GridlineStyleBottom
 ms.assetid: 1a47a068-aedb-b60e-dbda-42a7f569a099

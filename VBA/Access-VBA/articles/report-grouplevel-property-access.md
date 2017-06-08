@@ -3,7 +3,7 @@ title: Report.GroupLevel Property (Access)
 keywords: vbaac10.chm13790
 f1_keywords:
 - vbaac10.chm13790
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.GroupLevel
 ms.assetid: 8a40502d-84ac-0652-8c07-c4c155ec1242

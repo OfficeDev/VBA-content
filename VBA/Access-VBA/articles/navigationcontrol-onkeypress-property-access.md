@@ -3,7 +3,7 @@ title: NavigationControl.OnKeyPress Property (Access)
 keywords: vbaac10.chm11129
 f1_keywords:
 - vbaac10.chm11129
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationControl.OnKeyPress
 ms.assetid: 5efcc70d-6609-d4b3-509c-063af66195c4

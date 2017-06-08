@@ -3,7 +3,7 @@ title: Synchronizer could not find a replica from the correct set to complete th
 keywords: jeterr40.chm5003547
 f1_keywords:
 - jeterr40.chm5003547
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 055e67a0-4853-70fb-a77b-8706562ae11b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ListBox.NumeralShapes Property (Access)
 keywords: vbaac10.chm11295
 f1_keywords:
 - vbaac10.chm11295
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ListBox.NumeralShapes
 ms.assetid: b89bf0e9-7cd2-0676-ca07-0d813cd175e9

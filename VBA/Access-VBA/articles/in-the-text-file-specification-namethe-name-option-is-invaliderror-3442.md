@@ -1,6 +1,6 @@
 ---
 title: In the text file specification <name>, the <name> option is invalid. (Error 3442)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: b1dc1d03-3d1c-ad74-6b66-f089d42f54eb
 ms.date: 06/08/2017
 ---

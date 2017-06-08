@@ -3,7 +3,7 @@ title: Control.GridlineWidthBottom Property (Access)
 keywords: vbaac10.chm10167
 f1_keywords:
 - vbaac10.chm10167
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Control.GridlineWidthBottom
 ms.assetid: f51c8d07-a9ce-ce99-622b-7f35290812fb

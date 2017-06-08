@@ -3,7 +3,7 @@ title: Form.Click Event (Access)
 keywords: vbaac10.chm13650
 f1_keywords:
 - vbaac10.chm13650
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Form.Click
 ms.assetid: 43cf0568-c645-60eb-3c46-d9dd0b147d8d

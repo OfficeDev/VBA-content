@@ -3,7 +3,7 @@ title: BoundObjectFrame.GotFocus Event (Access)
 keywords: vbaac10.chm14094
 f1_keywords:
 - vbaac10.chm14094
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GotFocus
 ms.assetid: f18f5756-b2d7-d91c-8cee-0c75f9194579

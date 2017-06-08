@@ -3,7 +3,7 @@ title: TextBox.AfterUpdate Property (Access)
 keywords: vbaac10.chm11116
 f1_keywords:
 - vbaac10.chm11116
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.TextBox.AfterUpdate
 ms.assetid: 690bc0cd-9717-7712-c022-75ba457ca0e3

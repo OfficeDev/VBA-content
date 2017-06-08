@@ -3,7 +3,7 @@ title: Report.Toolbar Property (Access)
 keywords: vbaac10.chm13711
 f1_keywords:
 - vbaac10.chm13711
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Report.Toolbar
 ms.assetid: e897d294-2d8d-aca7-9aed-4bd2ebd23552

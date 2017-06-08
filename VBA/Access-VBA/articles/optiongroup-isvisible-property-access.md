@@ -3,7 +3,7 @@ title: OptionGroup.IsVisible Property (Access)
 keywords: vbaac10.chm10860
 f1_keywords:
 - vbaac10.chm10860
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.OptionGroup.IsVisible
 ms.assetid: 6652c226-ee95-b94a-dabc-942e0d9d5226

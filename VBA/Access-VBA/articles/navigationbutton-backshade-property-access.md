@@ -3,7 +3,7 @@ title: NavigationButton.BackShade Property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.BackShade
 ms.assetid: 496f8604-0221-1815-3dbf-28418ce42c0f

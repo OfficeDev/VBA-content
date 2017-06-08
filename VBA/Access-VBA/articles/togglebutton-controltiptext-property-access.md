@@ -3,7 +3,7 @@ title: ToggleButton.ControlTipText Property (Access)
 keywords: vbaac10.chm11731
 f1_keywords:
 - vbaac10.chm11731
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.ToggleButton.ControlTipText
 ms.assetid: b15ebb7a-70cd-1a0c-cdfc-17cbd965e8f6

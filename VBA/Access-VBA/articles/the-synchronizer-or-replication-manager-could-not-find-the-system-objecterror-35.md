@@ -3,7 +3,7 @@ title: The Synchronizer or Replication Manager could not find the system object.
 keywords: jeterr40.chm5003527
 f1_keywords:
 - jeterr40.chm5003527
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 80e9f4c8-2ab0-3588-abb8-121958bb17f4
 ms.date: 06/08/2017
 ---

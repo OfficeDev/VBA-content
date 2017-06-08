@@ -3,7 +3,7 @@ title: Cannot retrieve the full path information for a member of the replica set
 keywords: jeterr40.chm5003499
 f1_keywords:
 - jeterr40.chm5003499
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 22b9534f-74af-fc56-5209-fa5f2cb90afb
 ms.date: 06/08/2017
 ---

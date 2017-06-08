@@ -3,7 +3,7 @@ title: BoundObjectFrame.LostFocus Event (Access)
 keywords: vbaac10.chm14095
 f1_keywords:
 - vbaac10.chm14095
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.BoundObjectFrame.LostFocus
 ms.assetid: 33972d0c-fc22-458d-26c1-35e7035039bb

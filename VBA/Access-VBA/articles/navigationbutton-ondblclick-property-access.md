@@ -3,7 +3,7 @@ title: NavigationButton.OnDblClick Property (Access)
 keywords: vbaac10.chm10498
 f1_keywords:
 - vbaac10.chm10498
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.NavigationButton.OnDblClick
 ms.assetid: 149872bc-946e-fffe-7f43-03bbdbd0ef2b

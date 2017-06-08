@@ -1,6 +1,6 @@
 ---
 title: Destination synchronizer is not configured to support indirect synchronization, and the destination replica is unavailable for direct synchronization. (Error 3516)
-ms.prod: ACCESS
+ms.prod: access
 ms.assetid: 8abd2568-77e0-8b56-93f8-3a8dd6574293
 ms.date: 06/08/2017
 ---

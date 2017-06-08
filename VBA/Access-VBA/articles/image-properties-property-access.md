@@ -3,7 +3,7 @@ title: Image.Properties Property (Access)
 keywords: vbaac10.chm10357
 f1_keywords:
 - vbaac10.chm10357
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Image.Properties
 ms.assetid: 14c0f780-0df2-8f89-320e-0e238e324f46

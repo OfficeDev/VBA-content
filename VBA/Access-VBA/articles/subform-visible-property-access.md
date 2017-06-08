@@ -3,7 +3,7 @@ title: SubForm.Visible Property (Access)
 keywords: vbaac10.chm11930
 f1_keywords:
 - vbaac10.chm11930
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Visible
 ms.assetid: 6566c85c-f906-d6a1-3e44-8f6bedde1167

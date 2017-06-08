@@ -3,7 +3,7 @@ title: SubForm.Move Method (Access)
 keywords: vbaac10.chm11961
 f1_keywords:
 - vbaac10.chm11961
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.SubForm.Move
 ms.assetid: 60ceea6d-d418-4622-b8b9-788850aee17b

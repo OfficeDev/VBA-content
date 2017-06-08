@@ -3,7 +3,7 @@ title: FormatConditions.Parent Property (Access)
 keywords: vbaac10.chm10068
 f1_keywords:
 - vbaac10.chm10068
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.FormatConditions.Parent
 ms.assetid: 9f083386-d4fb-97e4-c733-75ff416a1012

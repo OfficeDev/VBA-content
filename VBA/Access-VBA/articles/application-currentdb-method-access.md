@@ -3,7 +3,7 @@ title: Application.CurrentDb Method (Access)
 keywords: vbaac10.chm12546
 f1_keywords:
 - vbaac10.chm12546
-ms.prod: ACCESS
+ms.prod: access
 api_name:
 - Access.Application.CurrentDb
 ms.assetid: defcf58f-7689-90e0-001c-ba5e7e87eb88
