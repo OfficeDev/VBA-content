@@ -3,7 +3,7 @@ title: SharedWorkspaceMembers Object (Office)
 keywords: vbaof11.chm273000
 f1_keywords:
 - vbaof11.chm273000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers
 ms.assetid: 2d0e6ce0-79ef-3030-b1af-465428314b15

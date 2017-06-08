@@ -3,7 +3,7 @@ title: Permission.PolicyName Property (Office)
 keywords: vbaof11.chm261010
 f1_keywords:
 - vbaof11.chm261010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Permission.PolicyName
 ms.assetid: 2a76eac3-5012-6c6c-ab5a-388151f50e27

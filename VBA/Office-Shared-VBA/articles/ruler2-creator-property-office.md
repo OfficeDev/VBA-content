@@ -1,6 +1,6 @@
 ---
 title: Ruler2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Ruler2.Creator
 ms.assetid: bd471905-f875-05e3-66ef-9c8b2ee846c6

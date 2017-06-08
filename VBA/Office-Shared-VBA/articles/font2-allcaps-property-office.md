@@ -1,6 +1,6 @@
 ---
 title: Font2.Allcaps Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Allcaps
 ms.assetid: 66a576ef-d765-38ea-26e7-5bc06ff29907

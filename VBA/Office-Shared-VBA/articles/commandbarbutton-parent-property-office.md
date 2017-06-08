@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Parent
 ms.assetid: 1238aea6-0a4c-0af7-7fc4-6c5fd2627b78

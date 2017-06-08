@@ -3,7 +3,7 @@ title: ServerPolicy.Name Property (Office)
 keywords: vbaof11.chm278012
 f1_keywords:
 - vbaof11.chm278012
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ServerPolicy.Name
 ms.assetid: a2afd663-55a0-913d-dade-19df4a1ab8dd

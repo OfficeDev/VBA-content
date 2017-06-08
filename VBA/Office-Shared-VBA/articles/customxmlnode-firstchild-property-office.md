@@ -3,7 +3,7 @@ title: CustomXMLNode.FirstChild Property (Office)
 keywords: vbaof11.chm294005
 f1_keywords:
 - vbaof11.chm294005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.FirstChild
 ms.assetid: 8aa38a63-32a3-e798-83de-9797143dd1b9

@@ -1,6 +1,6 @@
 ---
 title: SmartArtNodes.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNodes.Parent
 ms.assetid: f0c8a542-97fe-f919-d04a-9620d1b829bd

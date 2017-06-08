@@ -1,6 +1,6 @@
 ---
 title: ThemeColorScheme.Save Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Save
 ms.assetid: 5ca73773-583b-dbf4-6bde-bc6fa26c66a2

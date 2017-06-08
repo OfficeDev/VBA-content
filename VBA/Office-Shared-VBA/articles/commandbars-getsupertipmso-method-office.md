@@ -3,7 +3,7 @@ title: CommandBars.GetSupertipMso Method (Office)
 keywords: vbaof11.chm2024
 f1_keywords:
 - vbaof11.chm2024
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetSupertipMso
 ms.assetid: e116402f-bbb7-8cd3-6305-7daf85feb514

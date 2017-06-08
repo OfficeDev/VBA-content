@@ -1,6 +1,6 @@
 ---
 title: Font2.Spacing Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Spacing
 ms.assetid: 4957d0cf-1c22-1f30-bc91-bb994d69454d

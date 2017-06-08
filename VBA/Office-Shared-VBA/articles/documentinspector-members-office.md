@@ -1,6 +1,6 @@
 ---
 title: DocumentInspector Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b23508a-5296-645f-2649-c1f29b921ace
 ms.date: 06/08/2017
 ---

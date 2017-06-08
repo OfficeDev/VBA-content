@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.HorizontalAnchor Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.HorizontalAnchor
 ms.assetid: 27419e1a-63e6-a08b-2d45-0cd21ada8889

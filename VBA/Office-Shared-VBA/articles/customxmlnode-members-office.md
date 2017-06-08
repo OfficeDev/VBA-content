@@ -1,6 +1,6 @@
 ---
 title: CustomXMLNode Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fbf957c8-40b8-2f75-fcc8-db0ed6e18438
 ms.date: 06/08/2017
 ---

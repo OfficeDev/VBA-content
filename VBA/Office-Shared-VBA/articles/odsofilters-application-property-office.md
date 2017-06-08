@@ -1,6 +1,6 @@
 ---
 title: ODSOFilters.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilters.Application
 ms.assetid: 942b52ed-cb45-6ad0-55a0-4313a4aa9d66

@@ -1,6 +1,6 @@
 ---
 title: ODSOFilters Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02c32e76-a4cb-45e3-874c-2fe20959d08b
 ms.date: 06/08/2017
 ---

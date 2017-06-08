@@ -1,6 +1,6 @@
 ---
 title: SignatureInfo.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureInfo.Application
 ms.assetid: 98544420-0b08-3fc4-50cd-a787f52450ae

@@ -3,7 +3,7 @@ title: CustomTaskPane.DockPositionRestrict Property (Office)
 keywords: vbaof11.chm301009
 f1_keywords:
 - vbaof11.chm301009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.DockPositionRestrict
 ms.assetid: 30378c40-a3b1-0482-146a-d95564760673

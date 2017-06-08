@@ -3,7 +3,7 @@ title: UserPermission.Parent Property (Office)
 keywords: vbaof11.chm260004
 f1_keywords:
 - vbaof11.chm260004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.UserPermission.Parent
 ms.assetid: 57243603-4e1b-c99f-bf1d-617840f89b3b

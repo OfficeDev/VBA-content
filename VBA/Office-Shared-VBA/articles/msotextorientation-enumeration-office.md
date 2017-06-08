@@ -1,6 +1,6 @@
 ---
 title: MsoTextOrientation Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextOrientation
 ms.assetid: 7e8d0e06-14dd-3ea1-a2e4-50375919517f

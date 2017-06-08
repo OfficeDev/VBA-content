@@ -3,7 +3,7 @@ title: CustomTaskPane.ContentControl Property (Office)
 keywords: vbaof11.chm301005
 f1_keywords:
 - vbaof11.chm301005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.ContentControl
 ms.assetid: 55cb59eb-8ffe-4b89-b585-3ee9defd1cda

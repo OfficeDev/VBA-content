@@ -3,7 +3,7 @@ title: MetaProperty.IsRequired Property (Office)
 keywords: vbaof11.chm275005
 f1_keywords:
 - vbaof11.chm275005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperty.IsRequired
 ms.assetid: a48204c3-9176-db22-8373-2bf705e50c22

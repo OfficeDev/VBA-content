@@ -1,6 +1,6 @@
 ---
 title: ThemeFonts.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFonts.Application
 ms.assetid: 0e0a50a9-d6a5-c0c0-59d2-e63fdbfcd03a

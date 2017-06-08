@@ -3,7 +3,7 @@ title: OfficeDataSourceObject.Open Method (Office)
 keywords: vbaof11.chm232007
 f1_keywords:
 - vbaof11.chm232007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Open
 ms.assetid: ef01fe38-68ad-6dfb-fcf6-2bd06d308acc

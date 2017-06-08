@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Height Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Height
 ms.assetid: 38692baa-5b41-6f38-305c-33eb1aa5f5df

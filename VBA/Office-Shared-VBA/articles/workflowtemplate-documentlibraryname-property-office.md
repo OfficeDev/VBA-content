@@ -3,7 +3,7 @@ title: WorkflowTemplate.DocumentLibraryName Property (Office)
 keywords: vbaof11.chm282004
 f1_keywords:
 - vbaof11.chm282004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTemplate.DocumentLibraryName
 ms.assetid: 4fca9798-a8be-87c8-7210-4a1fa1e808b4

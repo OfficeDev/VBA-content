@@ -3,7 +3,7 @@ title: UserPermission.ExpirationDate Property (Office)
 keywords: vbaof11.chm260003
 f1_keywords:
 - vbaof11.chm260003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.UserPermission.ExpirationDate
 ms.assetid: 769cd094-62c2-a9cd-9214-6fcc799617be

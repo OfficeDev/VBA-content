@@ -3,7 +3,7 @@ title: CustomXMLPart.Delete Method (Office)
 keywords: vbaof11.chm295009
 f1_keywords:
 - vbaof11.chm295009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.Delete
 ms.assetid: 2f5b0556-9807-8224-8b3a-e202163fc3e5

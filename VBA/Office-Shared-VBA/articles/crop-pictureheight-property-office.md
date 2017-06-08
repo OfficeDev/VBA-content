@@ -1,6 +1,6 @@
 ---
 title: Crop.PictureHeight Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.PictureHeight
 ms.assetid: 0feffd05-3175-a728-f72a-b97c4d9fa1ed

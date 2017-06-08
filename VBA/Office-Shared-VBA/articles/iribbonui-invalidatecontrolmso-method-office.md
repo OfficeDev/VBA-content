@@ -3,7 +3,7 @@ title: IRibbonUI.InvalidateControlMso Method (Office)
 keywords: vbaof11.chm320003
 f1_keywords:
 - vbaof11.chm320003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.InvalidateControlMso
 ms.assetid: bfcca0e9-8696-6a0e-ff27-6dfde41dff93

@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceLinks Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa6fb42c-8b67-432d-8376-f7bfd26c5be1
 ms.date: 06/08/2017
 ---

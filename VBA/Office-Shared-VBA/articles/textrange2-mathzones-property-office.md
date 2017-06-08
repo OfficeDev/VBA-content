@@ -1,6 +1,6 @@
 ---
 title: TextRange2.MathZones Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.MathZones
 ms.assetid: 277aa819-d717-e2f5-5bc7-607abfce20a4

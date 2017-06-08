@@ -1,6 +1,6 @@
 ---
 title: PictureEffects Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PictureEffects
 ms.assetid: bc0e1cfd-7328-360d-872e-c71ae93162ed

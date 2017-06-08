@@ -1,6 +1,6 @@
 ---
 title: PolicyItem.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PolicyItem.Creator
 ms.assetid: cef768a9-8c16-25dd-a596-7a9d2aa85bc3

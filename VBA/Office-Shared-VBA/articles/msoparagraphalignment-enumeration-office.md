@@ -1,6 +1,6 @@
 ---
 title: MsoParagraphAlignment Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoParagraphAlignment
 ms.assetid: 7e89a297-fe45-914e-df4b-95b8c8391221

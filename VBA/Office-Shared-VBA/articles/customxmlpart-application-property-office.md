@@ -1,6 +1,6 @@
 ---
 title: CustomXMLPart.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.Application
 ms.assetid: 0f5fadce-288b-d8f3-3e78-da8f44fdb14a

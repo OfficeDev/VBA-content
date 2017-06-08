@@ -1,6 +1,6 @@
 ---
 title: CustomTaskPane Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 858cc1d3-6fe8-5fa2-5a1c-416255227de8
 ms.date: 06/08/2017
 ---

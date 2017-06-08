@@ -1,6 +1,6 @@
 ---
 title: PickerDialog.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerDialog.Application
 ms.assetid: 7e8cdb9f-0261-5267-058f-39c00d6c9db2

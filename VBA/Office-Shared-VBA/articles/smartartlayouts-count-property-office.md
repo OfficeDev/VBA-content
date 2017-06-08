@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayouts.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Count
 ms.assetid: caf73afe-63e5-0832-deb9-c608b7b1b41a

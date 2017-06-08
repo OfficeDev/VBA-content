@@ -3,7 +3,7 @@ title: SmartDocument.RefreshPane Method (Office)
 keywords: vbaof11.chm262004
 f1_keywords:
 - vbaof11.chm262004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartDocument.RefreshPane
 ms.assetid: c37de2c2-f24a-0db2-fda8-cfe7d0b464fb

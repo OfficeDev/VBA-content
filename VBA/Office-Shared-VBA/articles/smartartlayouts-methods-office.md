@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayouts Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e4e5228-516d-4083-8ebd-d36186b10f3e
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceLinks.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Application
 ms.assetid: b0e7ca4f-2608-a668-a319-b7bd0f1d9fe4

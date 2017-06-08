@@ -1,6 +1,6 @@
 ---
 title: Concepts (Object library reference for Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 96bfd6b4-62c0-c4e8-252d-046d9993761f
 ms.date: 06/08/2017
 ---

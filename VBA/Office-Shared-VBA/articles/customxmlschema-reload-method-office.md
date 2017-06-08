@@ -3,7 +3,7 @@ title: CustomXMLSchema.Reload Method (Office)
 keywords: vbaof11.chm291005
 f1_keywords:
 - vbaof11.chm291005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Reload
 ms.assetid: 963b941a-0b93-fc02-c150-747975005561

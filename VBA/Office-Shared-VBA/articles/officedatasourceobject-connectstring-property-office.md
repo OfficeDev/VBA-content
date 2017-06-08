@@ -3,7 +3,7 @@ title: OfficeDataSourceObject.ConnectString Property (Office)
 keywords: vbaof11.chm232001
 f1_keywords:
 - vbaof11.chm232001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.ConnectString
 ms.assetid: 56c599a5-f493-ea5a-3d2b-a3dae973d71c

@@ -1,6 +1,6 @@
 ---
 title: SmartArtColors.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtColors.Count
 ms.assetid: 5e0a8893-911c-5694-4381-d81ab385e0fe

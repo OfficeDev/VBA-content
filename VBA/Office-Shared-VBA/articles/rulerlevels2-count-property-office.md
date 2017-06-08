@@ -1,6 +1,6 @@
 ---
 title: RulerLevels2.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RulerLevels2.Count
 ms.assetid: 94e7b037-ef73-753a-2231-fd31bd4405d5

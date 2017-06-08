@@ -3,7 +3,7 @@ title: SharedWorkspaceLinks.Add Method (Office)
 keywords: vbaof11.chm271003
 f1_keywords:
 - vbaof11.chm271003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Add
 ms.assetid: 76c1fe99-14de-7276-0c5c-fd54f6d0a6ce

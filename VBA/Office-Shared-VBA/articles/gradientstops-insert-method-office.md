@@ -1,6 +1,6 @@
 ---
 title: GradientStops.Insert Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GradientStops.Insert
 ms.assetid: 98aec7ed-44f9-c9b4-7a1a-e5b9a1d26d95

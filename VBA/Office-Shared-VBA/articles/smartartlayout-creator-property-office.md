@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayout.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayout.Creator
 ms.assetid: 6951dc2d-92d2-5359-5f32-b22d24385d94

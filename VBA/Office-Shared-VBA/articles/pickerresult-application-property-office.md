@@ -1,6 +1,6 @@
 ---
 title: PickerResult.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResult.Application
 ms.assetid: 6c5cfb43-8c2c-47c5-38a7-60688420c862

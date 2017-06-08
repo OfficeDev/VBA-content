@@ -1,6 +1,6 @@
 ---
 title: SmartArtQuickStyle.Description Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Description
 ms.assetid: 994074a4-9688-c40b-84b3-41d0005f5033

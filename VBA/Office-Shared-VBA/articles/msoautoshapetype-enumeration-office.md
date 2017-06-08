@@ -1,6 +1,6 @@
 ---
 title: MsoAutoShapeType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoAutoShapeType
 ms.assetid: 7e6fe414-2b25-56d7-a678-b6e718329118

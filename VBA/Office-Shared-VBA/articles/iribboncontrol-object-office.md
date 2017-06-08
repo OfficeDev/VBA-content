@@ -3,7 +3,7 @@ title: IRibbonControl Object (Office)
 keywords: vbaof11.chm288000
 f1_keywords:
 - vbaof11.chm288000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonControl
 ms.assetid: 63aef709-e1d3-b1a6-76af-b568ad0e69ae

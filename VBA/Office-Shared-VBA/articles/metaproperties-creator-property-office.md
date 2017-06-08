@@ -1,6 +1,6 @@
 ---
 title: MetaProperties.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperties.Creator
 ms.assetid: 377c8cee-9561-21aa-666c-f5e291ca899a

@@ -1,6 +1,6 @@
 ---
 title: EffectParameter.Value Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.EffectParameter.Value
 ms.assetid: 45bf51fe-c049-1c8e-cc3b-fdbd5d6d7157

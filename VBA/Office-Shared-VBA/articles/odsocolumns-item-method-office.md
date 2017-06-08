@@ -3,7 +3,7 @@ title: ODSOColumns.Item Method (Office)
 keywords: vbaof11.chm234003
 f1_keywords:
 - vbaof11.chm234003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOColumns.Item
 ms.assetid: be6035d4-aac3-879d-ab87-2aa57a70756c

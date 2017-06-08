@@ -1,6 +1,6 @@
 ---
 title: CustomXMLPrefixMapping.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Creator
 ms.assetid: 9a055934-1b99-ba25-dd22-806be93017be

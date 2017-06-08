@@ -3,7 +3,7 @@ title: FileDialogFilter.Description Property (Office)
 keywords: vbaof11.chm254003
 f1_keywords:
 - vbaof11.chm254003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilter.Description
 ms.assetid: ae3c17d7-62e7-21f5-b543-ee498b7f4d23

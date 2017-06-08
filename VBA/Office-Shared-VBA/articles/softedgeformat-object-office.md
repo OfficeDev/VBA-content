@@ -1,6 +1,6 @@
 ---
 title: SoftEdgeFormat Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SoftEdgeFormat
 ms.assetid: 9d9b34e1-03b5-9e56-b9ea-89c7ecce0370

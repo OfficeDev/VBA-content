@@ -3,7 +3,7 @@ title: CommandBarButton.Picture Property (Office)
 keywords: vbaof11.chm6009
 f1_keywords:
 - vbaof11.chm6009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Picture
 ms.assetid: b9a2d133-23a8-ac09-8b8b-08eda1210717

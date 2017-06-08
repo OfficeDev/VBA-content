@@ -3,7 +3,7 @@ title: PolicyItem.Parent Property (Office)
 keywords: vbaof11.chm278025
 f1_keywords:
 - vbaof11.chm278025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PolicyItem.Parent
 ms.assetid: 280c24b7-bcab-4f61-ad10-e7cf13d47dd5

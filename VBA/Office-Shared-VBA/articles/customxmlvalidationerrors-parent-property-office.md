@@ -3,7 +3,7 @@ title: CustomXMLValidationErrors.Parent Property (Office)
 keywords: vbaof11.chm308001
 f1_keywords:
 - vbaof11.chm308001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Parent
 ms.assetid: 71d61d87-d113-f2cd-226b-6d135686539b

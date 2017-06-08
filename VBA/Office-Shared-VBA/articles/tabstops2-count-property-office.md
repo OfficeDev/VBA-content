@@ -1,6 +1,6 @@
 ---
 title: TabStops2.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabStops2.Count
 ms.assetid: 7af04294-702d-bf43-5654-cd1f92ffaea4

@@ -3,7 +3,7 @@ title: SharedWorkspaceMembers.Parent Property (Office)
 keywords: vbaof11.chm273004
 f1_keywords:
 - vbaof11.chm273004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers.Parent
 ms.assetid: ac19fc64-ce8a-48e4-3f23-15f540788c51

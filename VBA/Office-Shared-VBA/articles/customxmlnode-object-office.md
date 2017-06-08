@@ -3,7 +3,7 @@ title: CustomXMLNode Object (Office)
 keywords: vbaof11.chm294000
 f1_keywords:
 - vbaof11.chm294000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode
 ms.assetid: e90213f5-6d62-52d8-3043-2399eaa5aaba

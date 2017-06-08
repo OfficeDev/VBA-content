@@ -1,6 +1,6 @@
 ---
 title: CommandBarControl.Move Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Move
 ms.assetid: 91858a91-49d8-7be6-95b3-491cd9f41235

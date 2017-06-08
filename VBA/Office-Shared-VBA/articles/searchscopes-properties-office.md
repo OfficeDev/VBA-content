@@ -1,6 +1,6 @@
 ---
 title: SearchScopes Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b869b67-5210-4683-9fff-ceaf93a14769
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: CustomXMLPrefixMapping.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Application
 ms.assetid: faf9ae57-3261-1813-0bc2-193392a47693

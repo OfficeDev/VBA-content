@@ -3,7 +3,7 @@ title: PickerResult.Fields Property (Office)
 keywords: vbaof11.chm338008
 f1_keywords:
 - vbaof11.chm338008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResult.Fields
 ms.assetid: c4be996c-cb3d-cdd4-3cc7-34f502fef4b8

@@ -1,6 +1,6 @@
 ---
 title: ThemeColorScheme.Colors Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Colors
 ms.assetid: 2ae73cd3-c1b7-1815-5b46-84c349c2535b

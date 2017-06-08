@@ -1,6 +1,6 @@
 ---
 title: SmartArtColors.Item Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtColors.Item
 ms.assetid: 58292e23-cdc9-09f0-7770-d5ea5ca4cf44

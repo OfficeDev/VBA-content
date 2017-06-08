@@ -1,6 +1,6 @@
 ---
 title: Font2.UnderlineColor Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.UnderlineColor
 ms.assetid: 7479a08a-7960-78bb-d3c0-e2716e2a7bbb

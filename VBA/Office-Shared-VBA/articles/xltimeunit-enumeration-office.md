@@ -1,6 +1,6 @@
 ---
 title: XlTimeUnit Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.XlTimeUnit
 ms.assetid: 8db571a6-565c-c3b9-3394-ff2ec6c4989b

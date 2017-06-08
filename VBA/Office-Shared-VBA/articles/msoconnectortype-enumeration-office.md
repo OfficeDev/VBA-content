@@ -1,6 +1,6 @@
 ---
 title: MsoConnectorType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoConnectorType
 ms.assetid: 2c67963f-5cb3-295d-fdf4-df33a283f1af

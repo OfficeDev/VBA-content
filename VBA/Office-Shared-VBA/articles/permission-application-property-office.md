@@ -1,6 +1,6 @@
 ---
 title: Permission.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Permission.Application
 ms.assetid: bc09401e-195c-ab94-a109-a49ecebc5f0c

@@ -1,6 +1,6 @@
 ---
 title: SignatureProviderDetail Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureProviderDetail
 ms.assetid: 4781a2ab-583b-d823-cd8c-e2398d8d6224

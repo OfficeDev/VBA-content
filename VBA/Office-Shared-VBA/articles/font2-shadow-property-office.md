@@ -1,6 +1,6 @@
 ---
 title: Font2.Shadow Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Shadow
 ms.assetid: 0a95cb09-3cc1-f08a-9986-454307cdbf1d

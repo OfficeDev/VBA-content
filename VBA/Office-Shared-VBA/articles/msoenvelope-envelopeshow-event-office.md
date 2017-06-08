@@ -3,7 +3,7 @@ title: MsoEnvelope.EnvelopeShow Event (Office)
 keywords: vbaof11.chm246001
 f1_keywords:
 - vbaof11.chm246001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoEnvelope.EnvelopeShow
 ms.assetid: 30d8c943-4108-75e3-5235-d5eebdd389aa

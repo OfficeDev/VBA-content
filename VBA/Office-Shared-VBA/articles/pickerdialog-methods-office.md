@@ -1,6 +1,6 @@
 ---
 title: PickerDialog Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54942993-1c2a-49a8-a771-d9c04734cc51
 ms.date: 06/08/2017
 ---

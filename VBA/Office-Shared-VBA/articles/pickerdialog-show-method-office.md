@@ -3,7 +3,7 @@ title: PickerDialog.Show Method (Office)
 keywords: vbaof11.chm340005
 f1_keywords:
 - vbaof11.chm340005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerDialog.Show
 ms.assetid: 3073defe-4585-816d-6b86-9959cce4655f

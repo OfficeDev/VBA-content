@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 223c51c0-4564-d14a-a8bf-d315a6a50b32
 ms.date: 06/08/2017
 ---

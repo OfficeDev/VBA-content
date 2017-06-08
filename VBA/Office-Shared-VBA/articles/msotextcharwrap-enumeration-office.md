@@ -1,6 +1,6 @@
 ---
 title: MsoTextCharWrap Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextCharWrap
 ms.assetid: 469b96d7-14ec-7bdc-2800-d7de83bd74e4

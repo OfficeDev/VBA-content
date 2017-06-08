@@ -1,6 +1,6 @@
 ---
 title: SmartArtQuickStyles.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Count
 ms.assetid: b70c5f59-50e1-86c8-c5c6-bd4b1e79165c

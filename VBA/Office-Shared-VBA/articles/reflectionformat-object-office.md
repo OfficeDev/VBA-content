@@ -1,6 +1,6 @@
 ---
 title: ReflectionFormat Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ReflectionFormat
 ms.assetid: 9684dbb3-5b99-113b-9808-1173fdd719a9

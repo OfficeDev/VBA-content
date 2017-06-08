@@ -1,6 +1,6 @@
 ---
 title: IConverterApplicationPreferences Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e39dcc4b-ca5a-490a-b47e-c571afc6119b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CommandBars.GetVisibleMso Method (Office)
 keywords: vbaof11.chm2020
 f1_keywords:
 - vbaof11.chm2020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetVisibleMso
 ms.assetid: ab916050-e1af-0752-9734-23d0fe27542f

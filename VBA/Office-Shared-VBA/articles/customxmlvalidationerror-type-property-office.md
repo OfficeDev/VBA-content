@@ -3,7 +3,7 @@ title: CustomXMLValidationError.Type Property (Office)
 keywords: vbaof11.chm307005
 f1_keywords:
 - vbaof11.chm307005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLValidationError.Type
 ms.assetid: 9e156bd5-e21f-cc49-3e46-080b3cc705a9

@@ -3,7 +3,7 @@ title: CustomXMLParts Object (Office)
 keywords: vbaof11.chm300000
 f1_keywords:
 - vbaof11.chm300000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLParts
 ms.assetid: 98c1c58e-a08d-6304-8626-1e6705917da3

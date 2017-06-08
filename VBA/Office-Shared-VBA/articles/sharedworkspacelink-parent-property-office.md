@@ -3,7 +3,7 @@ title: SharedWorkspaceLink.Parent Property (Office)
 keywords: vbaof11.chm270010
 f1_keywords:
 - vbaof11.chm270010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.Parent
 ms.assetid: a6470d25-9f45-c90d-4feb-ff823f969883

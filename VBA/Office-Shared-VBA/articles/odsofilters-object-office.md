@@ -3,7 +3,7 @@ title: ODSOFilters Object (Office)
 keywords: vbaof11.chm241000
 f1_keywords:
 - vbaof11.chm241000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilters
 ms.assetid: e706745d-3890-81e8-6c9a-4c6bf67387ee

@@ -1,6 +1,6 @@
 ---
 title: ThemeFonts.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFonts.Parent
 ms.assetid: dd0157c3-09c7-9286-53bf-079e1caed105

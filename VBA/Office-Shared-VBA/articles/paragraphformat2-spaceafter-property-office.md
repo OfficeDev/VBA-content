@@ -1,6 +1,6 @@
 ---
 title: ParagraphFormat2.SpaceAfter Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.SpaceAfter
 ms.assetid: f00dff14-9d0b-aff5-c323-c1c71b28c127

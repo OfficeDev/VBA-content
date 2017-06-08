@@ -3,7 +3,7 @@ title: CommandBars.GetEnabledMso Method (Office)
 keywords: vbaof11.chm2019
 f1_keywords:
 - vbaof11.chm2019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetEnabledMso
 ms.assetid: 68af6404-53ee-4c69-51fa-4d489736d228

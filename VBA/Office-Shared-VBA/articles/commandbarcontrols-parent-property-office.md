@@ -3,7 +3,7 @@ title: CommandBarControls.Parent Property (Office)
 keywords: vbaof11.chm4004
 f1_keywords:
 - vbaof11.chm4004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControls.Parent
 ms.assetid: 23fdc1d0-ffb4-04a2-55d6-9490dd9e795c

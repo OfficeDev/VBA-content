@@ -3,7 +3,7 @@ title: DocumentProperty.Name Property (Office)
 keywords: vbaof11.chm250005
 f1_keywords:
 - vbaof11.chm250005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperty.Name
 ms.assetid: b609c38e-71ca-e019-9852-fc7811dc798f

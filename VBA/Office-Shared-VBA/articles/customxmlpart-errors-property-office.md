@@ -3,7 +3,7 @@ title: CustomXMLPart.Errors Property (Office)
 keywords: vbaof11.chm295014
 f1_keywords:
 - vbaof11.chm295014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.Errors
 ms.assetid: 0b95f9fa-0efa-08aa-2fbd-27a726ce4290

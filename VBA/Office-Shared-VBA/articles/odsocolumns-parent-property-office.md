@@ -3,7 +3,7 @@ title: ODSOColumns.Parent Property (Office)
 keywords: vbaof11.chm234002
 f1_keywords:
 - vbaof11.chm234002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOColumns.Parent
 ms.assetid: b0d2184c-e33e-9cc0-e21c-bd26174aefc4

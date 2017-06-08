@@ -1,6 +1,6 @@
 ---
 title: Security Notes for Microsoft Office Solution Developers
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 076ce284-5d1d-4823-ba74-f5e5c05bae9b
 ms.date: 06/08/2017
 ---

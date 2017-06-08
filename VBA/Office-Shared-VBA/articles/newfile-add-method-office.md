@@ -3,7 +3,7 @@ title: NewFile.Add Method (Office)
 keywords: vbaof11.chm235001
 f1_keywords:
 - vbaof11.chm235001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.NewFile.Add
 ms.assetid: 094e4093-fc2d-beaa-4a63-b3ad88557907

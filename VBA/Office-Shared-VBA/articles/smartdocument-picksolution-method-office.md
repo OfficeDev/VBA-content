@@ -3,7 +3,7 @@ title: SmartDocument.PickSolution Method (Office)
 keywords: vbaof11.chm262003
 f1_keywords:
 - vbaof11.chm262003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartDocument.PickSolution
 ms.assetid: ea50c7a4-4b52-10c4-8b1a-86c7ef80dec1

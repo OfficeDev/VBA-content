@@ -1,6 +1,6 @@
 ---
 title: SmartArt.Reverse Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArt.Reverse
 ms.assetid: e967a320-b314-f7b3-bd5a-ded5287a4fda

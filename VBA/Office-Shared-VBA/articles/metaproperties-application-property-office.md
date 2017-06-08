@@ -1,6 +1,6 @@
 ---
 title: MetaProperties.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperties.Application
 ms.assetid: 40f520da-9408-06f9-f51d-1b4dda0d452b

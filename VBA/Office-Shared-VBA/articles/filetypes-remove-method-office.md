@@ -3,7 +3,7 @@ title: FileTypes.Remove Method (Office)
 keywords: vbaof11.chm257004
 f1_keywords:
 - vbaof11.chm257004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileTypes.Remove
 ms.assetid: 1c2d55c5-9f57-e9aa-f145-3ff61c69fb69

@@ -1,6 +1,6 @@
 ---
 title: Crop.PictureOffsetY Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.PictureOffsetY
 ms.assetid: cc36521e-69ac-56bf-5355-7bfa33c5ec30

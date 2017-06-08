@@ -1,6 +1,6 @@
 ---
 title: CommandBarControl.Left Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Left
 ms.assetid: 5af66df7-cfaa-bd98-612e-07be6d0d08c5

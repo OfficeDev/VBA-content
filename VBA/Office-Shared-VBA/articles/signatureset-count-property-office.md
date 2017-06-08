@@ -3,7 +3,7 @@ title: SignatureSet.Count Property (Office)
 keywords: vbaof11.chm247001
 f1_keywords:
 - vbaof11.chm247001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureSet.Count
 ms.assetid: 6918bb9c-775e-241d-c126-6e4a3a63c654

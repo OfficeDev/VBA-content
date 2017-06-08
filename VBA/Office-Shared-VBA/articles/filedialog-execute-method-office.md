@@ -3,7 +3,7 @@ title: FileDialog.Execute Method (Office)
 keywords: vbaof11.chm256013
 f1_keywords:
 - vbaof11.chm256013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.Execute
 ms.assetid: 63899b0e-51d4-f20a-b114-c713d8743527

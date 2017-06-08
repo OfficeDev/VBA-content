@@ -3,7 +3,7 @@ title: COMAddIn.ProgId Property (Office)
 keywords: vbaof11.chm219003
 f1_keywords:
 - vbaof11.chm219003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIn.ProgId
 ms.assetid: eb917d53-512e-35dd-ff70-ac7b976e6500

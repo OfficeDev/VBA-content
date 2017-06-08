@@ -3,7 +3,7 @@ title: CustomXMLNode.NamespaceURI Property (Office)
 keywords: vbaof11.chm294007
 f1_keywords:
 - vbaof11.chm294007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.NamespaceURI
 ms.assetid: 4bb671fd-b2e5-0259-40cf-5499ae0c747e

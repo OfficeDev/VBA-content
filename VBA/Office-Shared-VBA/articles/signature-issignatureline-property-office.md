@@ -3,7 +3,7 @@ title: Signature.IsSignatureLine Property (Office)
 keywords: vbaof11.chm248017
 f1_keywords:
 - vbaof11.chm248017
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature.IsSignatureLine
 ms.assetid: 88ed582d-ee3c-7aaa-cb46-90098f6968a9

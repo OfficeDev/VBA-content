@@ -1,6 +1,6 @@
 ---
 title: Font2.Subscript Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Subscript
 ms.assetid: 904325fa-e08e-999b-dd11-ef8c3bcc124c

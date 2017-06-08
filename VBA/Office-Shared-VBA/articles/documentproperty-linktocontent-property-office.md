@@ -3,7 +3,7 @@ title: DocumentProperty.LinkToContent Property (Office)
 keywords: vbaof11.chm250008
 f1_keywords:
 - vbaof11.chm250008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperty.LinkToContent
 ms.assetid: 062df6df-cdee-81fc-3244-e229dacaa64e

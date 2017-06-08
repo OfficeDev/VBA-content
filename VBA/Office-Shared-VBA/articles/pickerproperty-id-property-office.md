@@ -3,7 +3,7 @@ title: PickerProperty.Id Property (Office)
 keywords: vbaof11.chm336001
 f1_keywords:
 - vbaof11.chm336001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerProperty.Id
 ms.assetid: 64d97500-f722-6f9b-3283-be1aa96d2766

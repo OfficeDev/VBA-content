@@ -3,7 +3,7 @@ title: CustomTaskPane.DockPosition Property (Office)
 keywords: vbaof11.chm301008
 f1_keywords:
 - vbaof11.chm301008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomTaskPane.DockPosition
 ms.assetid: 591c3f81-545f-6b04-7c4c-a3a85946e161

@@ -3,7 +3,7 @@ title: FileDialogFilter.Extensions Property (Office)
 keywords: vbaof11.chm254002
 f1_keywords:
 - vbaof11.chm254002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilter.Extensions
 ms.assetid: ee80ebef-8214-8cef-9676-e6293e5d2a3f

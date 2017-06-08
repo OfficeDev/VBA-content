@@ -3,7 +3,7 @@ title: OfficeDataSourceObject.ApplyFilter Method (Office)
 keywords: vbaof11.chm232009
 f1_keywords:
 - vbaof11.chm232009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.ApplyFilter
 ms.assetid: 9ce3ed9b-3d84-9ebd-68ae-be958ad1a99c

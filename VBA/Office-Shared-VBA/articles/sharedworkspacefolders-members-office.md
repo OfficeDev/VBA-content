@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceFolders Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b0f86e38-ab1e-fc78-e543-f37705ebebf7
 ms.date: 06/08/2017
 ---

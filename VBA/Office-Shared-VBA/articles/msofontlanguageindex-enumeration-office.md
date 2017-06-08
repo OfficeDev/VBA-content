@@ -1,6 +1,6 @@
 ---
 title: MsoFontLanguageIndex Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoFontLanguageIndex
 ms.assetid: 1fb87874-d5d4-263e-056b-ab80e1093070

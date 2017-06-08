@@ -1,6 +1,6 @@
 ---
 title: TextRange2.InsertAfter Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.InsertAfter
 ms.assetid: 67ebed89-0090-98cb-882a-c1eaf701d182

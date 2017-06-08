@@ -1,6 +1,6 @@
 ---
 title: SearchScope.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchScope.Creator
 ms.assetid: 99656cbc-57c0-ca7c-4048-3239db958355

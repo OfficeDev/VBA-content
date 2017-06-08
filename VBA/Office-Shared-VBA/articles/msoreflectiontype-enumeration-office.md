@@ -1,6 +1,6 @@
 ---
 title: MsoReflectionType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoReflectionType
 ms.assetid: 78337972-fcdd-4a65-c9b8-b9eed981c717

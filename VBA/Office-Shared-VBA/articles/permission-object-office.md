@@ -3,7 +3,7 @@ title: Permission Object (Office)
 keywords: vbaof11.chm261000
 f1_keywords:
 - vbaof11.chm261000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Permission
 ms.assetid: 4bdf7058-d4ba-0bd4-c5cd-141d67245ced

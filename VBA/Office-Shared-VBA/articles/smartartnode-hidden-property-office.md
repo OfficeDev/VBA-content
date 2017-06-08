@@ -1,6 +1,6 @@
 ---
 title: SmartArtNode.Hidden Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNode.Hidden
 ms.assetid: 090033ae-903d-4405-4fad-d61fb2c990a7

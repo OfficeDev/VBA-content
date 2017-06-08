@@ -1,6 +1,6 @@
 ---
 title: GradientStop.Color Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GradientStop.Color
 ms.assetid: 06657586-b4fc-b88c-e6aa-e13d5b9e0090

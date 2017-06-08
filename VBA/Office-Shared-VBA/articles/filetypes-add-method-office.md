@@ -3,7 +3,7 @@ title: FileTypes.Add Method (Office)
 keywords: vbaof11.chm257003
 f1_keywords:
 - vbaof11.chm257003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileTypes.Add
 ms.assetid: 4febf3e9-8ed5-b92b-ae0c-e5f804b27039

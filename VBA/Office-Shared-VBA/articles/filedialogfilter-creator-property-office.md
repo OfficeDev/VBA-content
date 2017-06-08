@@ -1,6 +1,6 @@
 ---
 title: FileDialogFilter.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilter.Creator
 ms.assetid: 6e629add-d643-8e17-6fe2-cd3b24ddee6d

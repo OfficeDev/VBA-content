@@ -1,6 +1,6 @@
 ---
 title: ODSOFilters Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af01ccb0-034e-017b-2885-9301b5bda139
 ms.date: 06/08/2017
 ---

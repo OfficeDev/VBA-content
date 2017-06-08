@@ -3,7 +3,7 @@ title: SharedWorkspaceLinks.Count Property (Office)
 keywords: vbaof11.chm271002
 f1_keywords:
 - vbaof11.chm271002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Count
 ms.assetid: c3e490fe-7173-9046-5c7b-18f74a3a25b5

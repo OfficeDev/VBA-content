@@ -1,6 +1,6 @@
 ---
 title: IConverterApplicationPreferences Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a453f08-3086-6baa-be8a-1cd0c81c80ae
 ms.date: 06/08/2017
 ---

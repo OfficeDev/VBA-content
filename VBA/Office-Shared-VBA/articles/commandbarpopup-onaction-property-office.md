@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.OnAction Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.OnAction
 ms.assetid: 47511647-5f1f-5e40-179b-ec589a2c39be

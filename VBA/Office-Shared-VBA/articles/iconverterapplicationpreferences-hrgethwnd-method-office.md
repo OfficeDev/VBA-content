@@ -3,7 +3,7 @@ title: IConverterApplicationPreferences.HrGetHwnd Method (Office)
 keywords: vbaof11.chm331002
 f1_keywords:
 - vbaof11.chm331002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverterApplicationPreferences.HrGetHwnd
 ms.assetid: 1b5bf73c-c006-0452-363d-3355649b989f

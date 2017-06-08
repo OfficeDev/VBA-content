@@ -3,7 +3,7 @@ title: IConverter.HrGetErrorString Method (Office)
 keywords: vbaof11.chm333006
 f1_keywords:
 - vbaof11.chm333006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverter.HrGetErrorString
 ms.assetid: 4ae221fd-d047-7676-a65d-ee2cd604deea

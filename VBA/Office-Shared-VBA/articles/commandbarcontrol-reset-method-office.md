@@ -1,6 +1,6 @@
 ---
 title: CommandBarControl.Reset Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Reset
 ms.assetid: 7b2d42c4-ac1c-209e-6fe8-bd5ec91d1c57

@@ -3,7 +3,7 @@ title: CommandBarPopup Object (Office)
 keywords: vbaof11.chm7000
 f1_keywords:
 - vbaof11.chm7000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup
 ms.assetid: a8ae06a3-1d7b-a531-91df-756fafee5314

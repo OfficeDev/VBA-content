@@ -1,6 +1,6 @@
 ---
 title: TextRange2.Lines Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Lines
 ms.assetid: 5e20f089-c345-e22a-c136-483d13f7f658

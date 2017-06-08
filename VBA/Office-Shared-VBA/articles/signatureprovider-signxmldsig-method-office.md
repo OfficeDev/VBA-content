@@ -3,7 +3,7 @@ title: SignatureProvider.SignXmlDsig Method (Office)
 keywords: vbaof11.chm287004
 f1_keywords:
 - vbaof11.chm287004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureProvider.SignXmlDsig
 ms.assetid: d278f48f-4128-b8b1-f32d-d81ccbbf6771

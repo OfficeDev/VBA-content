@@ -1,6 +1,6 @@
 ---
 title: PickerResult Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3d04c242-a306-c3f6-34e4-6c5a590a369f
 ms.date: 06/08/2017
 ---

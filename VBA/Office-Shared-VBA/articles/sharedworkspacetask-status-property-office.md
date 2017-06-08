@@ -3,7 +3,7 @@ title: SharedWorkspaceTask.Status Property (Office)
 keywords: vbaof11.chm264003
 f1_keywords:
 - vbaof11.chm264003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Status
 ms.assetid: de1e6222-67cb-107d-ad59-7d3ea38d5283

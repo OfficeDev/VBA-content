@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.BuiltIn Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.BuiltIn
 ms.assetid: 7cf5322a-b970-39da-c200-fc8303d60f29

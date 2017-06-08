@@ -1,6 +1,6 @@
 ---
 title: MsoPresetLightingDirection Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPresetLightingDirection
 ms.assetid: d3de37f8-f4c8-d04f-12a9-5fb7340fb8b1

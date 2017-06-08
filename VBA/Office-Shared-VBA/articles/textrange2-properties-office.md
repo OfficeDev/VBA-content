@@ -1,6 +1,6 @@
 ---
 title: TextRange2 Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 07665f40-add0-4c01-a8be-3834b8c708fa
 ms.date: 06/08/2017
 ---

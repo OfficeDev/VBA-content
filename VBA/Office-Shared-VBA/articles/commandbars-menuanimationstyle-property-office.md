@@ -3,7 +3,7 @@ title: CommandBars.MenuAnimationStyle Property (Office)
 keywords: vbaof11.chm2010
 f1_keywords:
 - vbaof11.chm2010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.MenuAnimationStyle
 ms.assetid: bd79a55a-23f4-6056-649b-9dc384b597aa

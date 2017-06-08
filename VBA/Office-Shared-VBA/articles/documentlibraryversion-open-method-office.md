@@ -3,7 +3,7 @@ title: DocumentLibraryVersion.Open Method (Office)
 keywords: vbaof11.chm277023
 f1_keywords:
 - vbaof11.chm277023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Open
 ms.assetid: aa77a821-5fda-209b-a352-81aa9e4fb0d0

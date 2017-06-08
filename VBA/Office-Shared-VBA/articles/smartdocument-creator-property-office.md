@@ -1,6 +1,6 @@
 ---
 title: SmartDocument.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartDocument.Creator
 ms.assetid: e0928b40-f565-e063-83f4-f730c41ca77e

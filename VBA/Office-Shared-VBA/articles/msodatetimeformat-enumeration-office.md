@@ -1,6 +1,6 @@
 ---
 title: MsoDateTimeFormat Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoDateTimeFormat
 ms.assetid: 87cb55b6-6ad8-9f7b-91cb-d958353fe175

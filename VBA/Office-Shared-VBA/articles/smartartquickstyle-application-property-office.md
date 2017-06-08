@@ -1,6 +1,6 @@
 ---
 title: SmartArtQuickStyle.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Application
 ms.assetid: 7c41f756-f85e-a876-0a0e-fab0537e9eed

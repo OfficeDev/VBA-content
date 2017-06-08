@@ -3,7 +3,7 @@ title: SearchScopes.Count Property (Office)
 keywords: vbaof11.chm252002
 f1_keywords:
 - vbaof11.chm252002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SearchScopes.Count
 ms.assetid: 611eea64-3e41-27f4-4139-99cf89f7dadc

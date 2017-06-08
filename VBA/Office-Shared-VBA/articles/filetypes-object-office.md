@@ -3,7 +3,7 @@ title: FileTypes Object (Office)
 keywords: vbaof11.chm257000
 f1_keywords:
 - vbaof11.chm257000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileTypes
 ms.assetid: 5e8b5240-5ebd-704d-72e6-1f4ad951dfdc

@@ -3,7 +3,7 @@ title: CommandBars.GetImageMso Method (Office)
 keywords: vbaof11.chm2025
 f1_keywords:
 - vbaof11.chm2025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetImageMso
 ms.assetid: 36261e2b-9cbf-b0b6-5892-63bbb2f93959

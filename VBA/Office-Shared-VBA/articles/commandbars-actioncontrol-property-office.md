@@ -3,7 +3,7 @@ title: CommandBars.ActionControl Property (Office)
 keywords: vbaof11.chm2001
 f1_keywords:
 - vbaof11.chm2001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.ActionControl
 ms.assetid: 70097691-a771-4f7d-020b-2a9d33e18fa0

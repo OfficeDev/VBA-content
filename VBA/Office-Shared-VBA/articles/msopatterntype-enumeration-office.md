@@ -1,6 +1,6 @@
 ---
 title: MsoPatternType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPatternType
 ms.assetid: b95a7e43-329f-b93b-3664-04d8f570c747

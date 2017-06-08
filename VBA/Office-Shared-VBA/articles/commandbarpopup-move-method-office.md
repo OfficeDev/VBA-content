@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Move Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Move
 ms.assetid: 8c36e21d-0693-63c7-4f27-b1f333d240d9

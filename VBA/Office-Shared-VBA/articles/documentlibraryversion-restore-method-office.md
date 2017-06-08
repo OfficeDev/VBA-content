@@ -3,7 +3,7 @@ title: DocumentLibraryVersion.Restore Method (Office)
 keywords: vbaof11.chm277024
 f1_keywords:
 - vbaof11.chm277024
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Restore
 ms.assetid: 1f6bb17f-a6b7-c52b-7880-9b3f2ed7ff13

@@ -1,6 +1,6 @@
 ---
 title: XlDisplayUnit Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.XlDisplayUnit
 ms.assetid: 156f8f0b-01a6-283f-8b03-99e599d41431

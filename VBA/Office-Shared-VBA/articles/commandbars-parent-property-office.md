@@ -3,7 +3,7 @@ title: CommandBars.Parent Property (Office)
 keywords: vbaof11.chm2011
 f1_keywords:
 - vbaof11.chm2011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.Parent
 ms.assetid: 7819df1a-1f63-793c-54f3-c1129fd6cdff

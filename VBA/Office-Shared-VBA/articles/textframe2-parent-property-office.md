@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.Parent
 ms.assetid: 7e388458-0316-68e0-5d64-6cf3e93bc763

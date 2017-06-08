@@ -3,7 +3,7 @@ title: UserPermission.UserId Property (Office)
 keywords: vbaof11.chm260001
 f1_keywords:
 - vbaof11.chm260001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.UserPermission.UserId
 ms.assetid: 63c7f01b-3b41-6245-7d3f-5c6440703ccf

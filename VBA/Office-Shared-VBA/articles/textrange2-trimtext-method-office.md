@@ -1,6 +1,6 @@
 ---
 title: TextRange2.TrimText Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.TrimText
 ms.assetid: 304c6b05-febf-4ebe-2d26-326ffff613b6

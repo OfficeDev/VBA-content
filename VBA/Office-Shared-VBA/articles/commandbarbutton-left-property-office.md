@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Left Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Left
 ms.assetid: 0a3a83ce-bbb5-1884-4125-0d9f1bf20d27

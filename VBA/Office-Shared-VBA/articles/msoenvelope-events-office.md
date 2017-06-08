@@ -1,6 +1,6 @@
 ---
 title: MsoEnvelope Events (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ee7a6db5-fdac-4189-bc9c-d6b0450617b2
 ms.date: 06/08/2017
 ---

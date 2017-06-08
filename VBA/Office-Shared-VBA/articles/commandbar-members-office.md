@@ -1,6 +1,6 @@
 ---
 title: CommandBar Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e3756e7e-56a8-33a4-722f-640e5cc69b6d
 ms.date: 06/08/2017
 ---

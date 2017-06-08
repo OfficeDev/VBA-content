@@ -3,7 +3,7 @@ title: FileDialogSelectedItems.Item Method (Office)
 keywords: vbaof11.chm253003
 f1_keywords:
 - vbaof11.chm253003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogSelectedItems.Item
 ms.assetid: 25444621-5886-3465-6773-3ea59c5f2ea2

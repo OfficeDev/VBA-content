@@ -1,6 +1,6 @@
 ---
 title: TextRange2.InsertBefore Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.InsertBefore
 ms.assetid: f75709bd-1239-1736-9cb0-0092dd720860

@@ -3,7 +3,7 @@ title: ScopeFolder.ScopeFolders Property (Office)
 keywords: vbaof11.chm259003
 f1_keywords:
 - vbaof11.chm259003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ScopeFolder.ScopeFolders
 ms.assetid: e3e6ef0f-46b9-1b8c-c115-ab4832c3fb8a

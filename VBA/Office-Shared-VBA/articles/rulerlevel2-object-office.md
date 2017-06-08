@@ -1,6 +1,6 @@
 ---
 title: RulerLevel2 Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RulerLevel2
 ms.assetid: f1660a26-5990-9524-33f0-a2e3410160f3

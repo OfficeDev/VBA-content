@@ -1,6 +1,6 @@
 ---
 title: ThemeEffectScheme.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Application
 ms.assetid: 9308a820-3a62-1b7e-e137-74bf17c102c3

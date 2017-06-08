@@ -3,7 +3,7 @@ title: ODSOFilter.Index Property (Office)
 keywords: vbaof11.chm240001
 f1_keywords:
 - vbaof11.chm240001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOFilter.Index
 ms.assetid: 7a7986d6-812a-2237-5211-fd7c782dd497

@@ -3,7 +3,7 @@ title: CommandBarButton.HyperlinkType Property (Office)
 keywords: vbaof11.chm6008
 f1_keywords:
 - vbaof11.chm6008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.HyperlinkType
 ms.assetid: 5769ce22-a9e8-3eb2-919f-a3d016cf0706

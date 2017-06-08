@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.AutoSize Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.AutoSize
 ms.assetid: f5d6da56-bd8a-2485-6176-1ddafb19629d

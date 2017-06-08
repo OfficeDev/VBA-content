@@ -3,7 +3,7 @@ title: MsoContactCardStyle Enumeration (Office)
 keywords: vbaof11.chm100130
 f1_keywords:
 - vbaof11.chm100130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoContactCardStyle
 ms.assetid: d60ec2a4-287d-8e93-84c6-f568c9e06ab3

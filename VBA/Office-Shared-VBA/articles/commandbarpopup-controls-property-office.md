@@ -3,7 +3,7 @@ title: CommandBarPopup.Controls Property (Office)
 keywords: vbaof11.chm7002
 f1_keywords:
 - vbaof11.chm7002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Controls
 ms.assetid: 0b116a89-f4a8-8043-0c0c-c64eb07a3941

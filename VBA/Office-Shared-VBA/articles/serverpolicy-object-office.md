@@ -3,7 +3,7 @@ title: ServerPolicy Object (Office)
 keywords: vbaof11.chm278010
 f1_keywords:
 - vbaof11.chm278010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ServerPolicy
 ms.assetid: ce2a63d2-5deb-b94b-45d7-ed84e9be7deb

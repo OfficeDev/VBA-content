@@ -1,6 +1,6 @@
 ---
 title: ThemeColor.RGB Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColor.RGB
 ms.assetid: a9479913-c097-eaf3-03fa-fc16ba559357

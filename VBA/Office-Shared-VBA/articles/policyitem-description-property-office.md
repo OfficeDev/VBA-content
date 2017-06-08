@@ -3,7 +3,7 @@ title: PolicyItem.Description Property (Office)
 keywords: vbaof11.chm278023
 f1_keywords:
 - vbaof11.chm278023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PolicyItem.Description
 ms.assetid: 3eaa6a5a-0606-5f1d-9ead-f7d92328173f

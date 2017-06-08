@@ -3,7 +3,7 @@ title: DocumentProperty.LinkSource Property (Office)
 keywords: vbaof11.chm250009
 f1_keywords:
 - vbaof11.chm250009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperty.LinkSource
 ms.assetid: 3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3

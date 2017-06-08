@@ -3,7 +3,7 @@ title: CustomXMLValidationErrors.Add Method (Office)
 keywords: vbaof11.chm308004
 f1_keywords:
 - vbaof11.chm308004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Add
 ms.assetid: 21b330f2-9c4e-7216-cebb-70d602d68279

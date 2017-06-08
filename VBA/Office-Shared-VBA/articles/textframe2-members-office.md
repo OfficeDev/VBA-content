@@ -1,6 +1,6 @@
 ---
 title: TextFrame2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 35130cda-066c-ba5c-b7ec-672c0746ea76
 ms.date: 06/08/2017
 ---

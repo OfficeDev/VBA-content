@@ -1,6 +1,6 @@
 ---
 title: WorkflowTask.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTask.Application
 ms.assetid: 0a7dc052-3948-4f80-cbf4-56bc6e789353

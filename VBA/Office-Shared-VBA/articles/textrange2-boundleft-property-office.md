@@ -1,6 +1,6 @@
 ---
 title: TextRange2.BoundLeft Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.BoundLeft
 ms.assetid: 8af6b9b9-4ecf-c127-87db-b87cabe9184b

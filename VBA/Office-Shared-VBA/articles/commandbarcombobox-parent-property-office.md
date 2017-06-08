@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Parent
 ms.assetid: a4dc7231-5366-2504-f9b0-af6dd1728bfa

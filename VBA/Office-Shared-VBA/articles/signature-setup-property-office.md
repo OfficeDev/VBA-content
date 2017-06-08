@@ -3,7 +3,7 @@ title: Signature.Setup Property (Office)
 keywords: vbaof11.chm248016
 f1_keywords:
 - vbaof11.chm248016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature.Setup
 ms.assetid: 9ccfd72f-af1c-a0d5-3a8f-97ee58bda211

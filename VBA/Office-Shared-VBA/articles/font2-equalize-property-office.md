@@ -1,6 +1,6 @@
 ---
 title: Font2.Equalize Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Equalize
 ms.assetid: 634b30d8-7e8b-952a-eb89-1113560eb7d2

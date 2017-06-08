@@ -1,6 +1,6 @@
 ---
 title: Crop.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.Creator
 ms.assetid: 9344e44f-6fa2-73c0-f4f2-fe4ec4882494

@@ -3,7 +3,7 @@ title: CommandBars.DisplayTooltips Property (Office)
 keywords: vbaof11.chm2005
 f1_keywords:
 - vbaof11.chm2005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.DisplayTooltips
 ms.assetid: 98b62729-d1c8-a6dc-328e-8dbb6bbd80dc

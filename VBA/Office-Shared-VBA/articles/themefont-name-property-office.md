@@ -1,6 +1,6 @@
 ---
 title: ThemeFont.Name Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFont.Name
 ms.assetid: 4c087083-7ba4-a709-7901-4df4e5f10fe8

@@ -3,7 +3,7 @@ title: SignatureSetup.SuggestedSigner Property (Office)
 keywords: vbaof11.chm285004
 f1_keywords:
 - vbaof11.chm285004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureSetup.SuggestedSigner
 ms.assetid: 1430d2c9-bcfd-da0d-b6a7-625d60efb158

@@ -1,6 +1,6 @@
 ---
 title: SmartArtNode.Promote Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNode.Promote
 ms.assetid: 806dae89-7a05-7597-70dc-ad297c79fbff

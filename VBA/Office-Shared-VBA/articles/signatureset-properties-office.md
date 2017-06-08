@@ -1,6 +1,6 @@
 ---
 title: SignatureSet Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 263ab7c1-f355-4716-b48b-e1e23176502f
 ms.date: 06/08/2017
 ---

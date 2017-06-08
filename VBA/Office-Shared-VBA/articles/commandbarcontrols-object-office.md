@@ -3,7 +3,7 @@ title: CommandBarControls Object (Office)
 keywords: vbaof11.chm4000
 f1_keywords:
 - vbaof11.chm4000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControls
 ms.assetid: 7ccae243-2870-95c2-1e08-140a3e638fe6

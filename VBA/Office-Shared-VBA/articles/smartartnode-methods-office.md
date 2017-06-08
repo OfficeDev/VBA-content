@@ -1,6 +1,6 @@
 ---
 title: SmartArtNode Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0625b62d-b150-4128-9762-03273e02a02c
 ms.date: 06/08/2017
 ---

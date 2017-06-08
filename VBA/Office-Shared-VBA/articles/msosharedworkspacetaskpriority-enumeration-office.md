@@ -1,6 +1,6 @@
 ---
 title: MsoSharedWorkspaceTaskPriority Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoSharedWorkspaceTaskPriority
 ms.assetid: eb893f36-92ca-ab44-423b-24cff4bf971c

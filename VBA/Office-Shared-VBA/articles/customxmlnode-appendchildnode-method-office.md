@@ -3,7 +3,7 @@ title: CustomXMLNode.AppendChildNode Method (Office)
 keywords: vbaof11.chm294019
 f1_keywords:
 - vbaof11.chm294019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.AppendChildNode
 ms.assetid: 3fbe1c76-b60a-e365-4988-4a94a52e1fe0

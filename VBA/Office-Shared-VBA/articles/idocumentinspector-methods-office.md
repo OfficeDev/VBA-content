@@ -1,6 +1,6 @@
 ---
 title: IDocumentInspector Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75eea253-b2c0-4a08-bbf8-2e96d1faf634
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: CustomXMLSchemaCollection.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Application
 ms.assetid: 8376ce9d-c47d-b418-5b21-11cb43ffb366

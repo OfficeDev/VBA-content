@@ -1,6 +1,6 @@
 ---
 title: Font2.NameComplexScript Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.NameComplexScript
 ms.assetid: 8f5d513e-990c-1783-ea5b-d600a5a83170

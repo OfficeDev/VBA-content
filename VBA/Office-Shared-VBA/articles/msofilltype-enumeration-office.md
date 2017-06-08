@@ -1,6 +1,6 @@
 ---
 title: MsoFillType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoFillType
 ms.assetid: 43dd4aa6-40bc-e798-674d-d016d582631f

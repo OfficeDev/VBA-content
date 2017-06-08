@@ -1,6 +1,6 @@
 ---
 title: TextRange2.Select Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Select
 ms.assetid: 17c6e340-6522-d6b2-f4b7-137dacb666da

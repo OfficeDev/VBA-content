@@ -3,7 +3,7 @@ title: WorkflowTemplate.Id Property (Office)
 keywords: vbaof11.chm282001
 f1_keywords:
 - vbaof11.chm282001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTemplate.Id
 ms.assetid: 4143adf9-895e-ae83-300b-37cf3e966644

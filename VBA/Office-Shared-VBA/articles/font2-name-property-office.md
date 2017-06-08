@@ -1,6 +1,6 @@
 ---
 title: Font2.Name Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Name
 ms.assetid: febaac7b-dc8e-abd0-8883-cc8b1d2b98b5

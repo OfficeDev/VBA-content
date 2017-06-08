@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayouts Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62e24345-a9d8-4f6d-95c2-2166c7af1d1b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CustomXMLNode.BaseName Property (Office)
 keywords: vbaof11.chm294003
 f1_keywords:
 - vbaof11.chm294003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.BaseName
 ms.assetid: 7b5a6266-4020-6cab-3b4b-b3bbb59a0daa

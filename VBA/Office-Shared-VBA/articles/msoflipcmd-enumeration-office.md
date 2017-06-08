@@ -1,6 +1,6 @@
 ---
 title: MsoFlipCmd Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoFlipCmd
 ms.assetid: 8ca14f82-eaf6-754f-7a71-7b017dcfa230

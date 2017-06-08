@@ -1,6 +1,6 @@
 ---
 title: Font2.Strike Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Strike
 ms.assetid: a4d48ba9-08da-75f1-9470-59ae22dd9538

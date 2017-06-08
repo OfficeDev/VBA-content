@@ -1,6 +1,6 @@
 ---
 title: MsoPresetMaterial Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPresetMaterial
 ms.assetid: 4cf62ef4-f6c8-eb0c-1dfd-569aafca16c0

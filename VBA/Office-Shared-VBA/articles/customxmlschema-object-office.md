@@ -3,7 +3,7 @@ title: CustomXMLSchema Object (Office)
 keywords: vbaof11.chm291000
 f1_keywords:
 - vbaof11.chm291000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLSchema
 ms.assetid: 9110da6c-fc54-98b2-7e5e-e6d4c21712ad

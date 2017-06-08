@@ -3,7 +3,7 @@ title: CommandBarComboBox.Change Event (Office)
 keywords: vbaof11.chm229001
 f1_keywords:
 - vbaof11.chm229001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Change
 ms.assetid: ddf1a306-c299-36d5-9851-04d6e5185db9

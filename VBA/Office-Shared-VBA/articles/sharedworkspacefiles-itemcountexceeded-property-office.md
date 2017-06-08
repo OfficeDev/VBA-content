@@ -3,7 +3,7 @@ title: SharedWorkspaceFiles.ItemCountExceeded Property (Office)
 keywords: vbaof11.chm267005
 f1_keywords:
 - vbaof11.chm267005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles.ItemCountExceeded
 ms.assetid: c85b1e3f-c36a-1211-8082-d4f2652a36f5

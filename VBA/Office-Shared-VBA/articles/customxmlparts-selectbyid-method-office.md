@@ -3,7 +3,7 @@ title: CustomXMLParts.SelectByID Method (Office)
 keywords: vbaof11.chm298005
 f1_keywords:
 - vbaof11.chm298005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLParts.SelectByID
 ms.assetid: e9c0d3a1-c625-bb86-b4ca-6916d4a8a6b0

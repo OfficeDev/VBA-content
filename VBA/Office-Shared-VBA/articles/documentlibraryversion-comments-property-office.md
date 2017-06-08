@@ -3,7 +3,7 @@ title: DocumentLibraryVersion.Comments Property (Office)
 keywords: vbaof11.chm277021
 f1_keywords:
 - vbaof11.chm277021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Comments
 ms.assetid: ce99f474-527a-4895-c360-7e5d02435655

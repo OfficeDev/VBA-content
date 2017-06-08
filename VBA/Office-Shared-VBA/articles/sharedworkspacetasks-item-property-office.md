@@ -3,7 +3,7 @@ title: SharedWorkspaceTasks.Item Property (Office)
 keywords: vbaof11.chm265001
 f1_keywords:
 - vbaof11.chm265001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Item
 ms.assetid: 801adcf2-ed06-fbe3-39c6-15fcc72c25fb

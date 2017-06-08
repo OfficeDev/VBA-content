@@ -3,7 +3,7 @@ title: CustomXMLParts.PartAfterLoad Event (Office)
 keywords: vbaof11.chm299003
 f1_keywords:
 - vbaof11.chm299003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartAfterLoad
 ms.assetid: d59fe837-27b5-300f-133f-ffb01f5f95b9

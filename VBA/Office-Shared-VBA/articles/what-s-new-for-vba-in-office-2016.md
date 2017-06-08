@@ -1,6 +1,6 @@
 ---
 title: What's New for VBA in Office 2016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0294abb-bc0e-495d-b387-4398378dd3ad
 ms.date: 06/08/2017
 ---

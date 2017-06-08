@@ -1,6 +1,6 @@
 ---
 title: Crop.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Crop.Application
 ms.assetid: 88d2269e-24b0-07d9-36e0-a094f97bae2f

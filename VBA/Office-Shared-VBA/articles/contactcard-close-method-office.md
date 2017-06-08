@@ -1,6 +1,6 @@
 ---
 title: ContactCard.Close Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ContactCard.Close
 ms.assetid: 98556e94-3ea2-74a7-db67-fb268b36c905

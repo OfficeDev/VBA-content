@@ -1,6 +1,6 @@
 ---
 title: SmartArtNode.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtNode.Creator
 ms.assetid: aaa8d552-a632-0447-47be-3aade8b22a09

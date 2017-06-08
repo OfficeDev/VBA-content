@@ -1,6 +1,6 @@
 ---
 title: IAssistance.ShowHelp Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IAssistance.ShowHelp
 ms.assetid: 18b46084-114b-69a7-f108-07e4a455e024

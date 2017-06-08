@@ -1,6 +1,6 @@
 ---
 title: IAssistance Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IAssistance
 ms.assetid: c8327d45-a6a2-dc4c-67f0-d02598eb60ba

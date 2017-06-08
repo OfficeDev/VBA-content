@@ -1,6 +1,6 @@
 ---
 title: ODSOColumns.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOColumns.Creator
 ms.assetid: b7925809-daf7-cf95-2465-ec3d9832aa79

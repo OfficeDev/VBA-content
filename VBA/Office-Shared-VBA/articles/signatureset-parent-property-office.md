@@ -3,7 +3,7 @@ title: SignatureSet.Parent Property (Office)
 keywords: vbaof11.chm247005
 f1_keywords:
 - vbaof11.chm247005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureSet.Parent
 ms.assetid: 88fd9392-e2f3-e84e-9f7c-c2fce32de296

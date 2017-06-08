@@ -3,7 +3,7 @@ title: CustomXMLPart.SelectSingleNode Method (Office)
 keywords: vbaof11.chm295013
 f1_keywords:
 - vbaof11.chm295013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.SelectSingleNode
 ms.assetid: 2bd4c25b-d4e6-08db-b2ce-c74adf16336f

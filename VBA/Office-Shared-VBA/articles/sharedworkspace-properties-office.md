@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspace Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ffcea114-d658-4de6-a008-8ac7a898aadf
 ms.date: 06/08/2017
 ---

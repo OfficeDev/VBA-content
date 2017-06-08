@@ -3,7 +3,7 @@ title: EncryptionProvider.Save Method (Office)
 keywords: vbaof11.chm327006
 f1_keywords:
 - vbaof11.chm327006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.EncryptionProvider.Save
 ms.assetid: 7dfb6cea-f97b-51c3-e6bb-a773eec3fa73

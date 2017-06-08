@@ -1,6 +1,6 @@
 ---
 title: Font2.Italic Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Italic
 ms.assetid: 88cc4dcb-62c5-11ce-49b5-ee090111e616

@@ -3,7 +3,7 @@ title: MsoEnvelope.CommandBars Property (Office)
 keywords: vbaof11.chm11005
 f1_keywords:
 - vbaof11.chm11005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoEnvelope.CommandBars
 ms.assetid: ac2a7180-044a-e945-98f9-1d2fa76e7cb8

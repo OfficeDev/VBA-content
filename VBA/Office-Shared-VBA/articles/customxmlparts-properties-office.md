@@ -1,6 +1,6 @@
 ---
 title: CustomXMLParts Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 930e14a5-c540-455d-abd1-d92079d1ba1a
 ms.date: 06/08/2017
 ---

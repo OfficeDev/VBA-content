@@ -1,6 +1,6 @@
 ---
 title: BulletFormat2 Object (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BulletFormat2
 ms.assetid: ad4c2a05-c34d-fbd4-6b12-3153b94d2c4e

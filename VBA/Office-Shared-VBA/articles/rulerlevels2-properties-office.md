@@ -1,6 +1,6 @@
 ---
 title: RulerLevels2 Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4d28bfdd-2ef8-4567-ba8f-dbc64d853bb8
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: TextColumn2.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn2.Application
 ms.assetid: 7c70142d-65e8-85e7-a601-4f7aaf2eb335

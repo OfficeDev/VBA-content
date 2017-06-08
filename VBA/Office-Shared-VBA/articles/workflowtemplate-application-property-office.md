@@ -1,6 +1,6 @@
 ---
 title: WorkflowTemplate.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WorkflowTemplate.Application
 ms.assetid: 5c614394-2363-0b9f-2097-4dd1ca7750cd

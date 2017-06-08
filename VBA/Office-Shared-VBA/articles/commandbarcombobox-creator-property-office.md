@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Creator
 ms.assetid: c2c814c7-a99f-909e-8edc-16d103fd6837

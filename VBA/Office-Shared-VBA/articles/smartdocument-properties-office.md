@@ -1,6 +1,6 @@
 ---
 title: SmartDocument Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2aab44c2-158e-4a1d-b7d9-e2ea4dcf0b39
 ms.date: 06/08/2017
 ---

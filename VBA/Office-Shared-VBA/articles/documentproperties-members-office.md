@@ -1,6 +1,6 @@
 ---
 title: DocumentProperties Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb388713-3029-796e-3328-6193eb14d1bf
 ms.date: 06/08/2017
 ---

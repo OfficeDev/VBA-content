@@ -3,7 +3,7 @@ title: MsoEnvelope.Introduction Property (Office)
 keywords: vbaof11.chm11001
 f1_keywords:
 - vbaof11.chm11001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoEnvelope.Introduction
 ms.assetid: f37129d4-2a68-1623-272b-f71dfdeec59b

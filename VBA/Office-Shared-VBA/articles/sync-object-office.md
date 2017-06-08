@@ -3,7 +3,7 @@ title: Sync Object (Office)
 keywords: vbaof11.chm277000
 f1_keywords:
 - vbaof11.chm277000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync
 ms.assetid: 1cb049a0-a803-969a-7923-15ddb8da8f3b

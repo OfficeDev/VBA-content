@@ -1,6 +1,6 @@
 ---
 title: ThemeFontScheme.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Creator
 ms.assetid: bfe1af42-d652-1ccf-49b2-1f27aa37b7a1

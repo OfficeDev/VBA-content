@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceFolder Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f940cce-6aa6-4a23-abce-b6f1e608c924
 ms.date: 06/08/2017
 ---

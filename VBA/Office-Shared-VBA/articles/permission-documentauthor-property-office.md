@@ -3,7 +3,7 @@ title: Permission.DocumentAuthor Property (Office)
 keywords: vbaof11.chm261013
 f1_keywords:
 - vbaof11.chm261013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Permission.DocumentAuthor
 ms.assetid: d756c476-8adf-a302-9356-e491b0ae9bf7

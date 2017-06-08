@@ -1,6 +1,6 @@
 ---
 title: DocumentLibraryVersion.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Creator
 ms.assetid: 634bd139-a0bb-ffc0-436f-22a5d7c77918

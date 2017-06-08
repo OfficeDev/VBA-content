@@ -3,7 +3,7 @@ title: Signature Object (Office)
 keywords: vbaof11.chm248000
 f1_keywords:
 - vbaof11.chm248000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature
 ms.assetid: 574d246b-95cd-e4da-081b-4540387662a0

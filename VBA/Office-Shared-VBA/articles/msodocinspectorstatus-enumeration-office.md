@@ -1,6 +1,6 @@
 ---
 title: MsoDocInspectorStatus Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoDocInspectorStatus
 ms.assetid: b194864a-037c-532c-41f6-5f6dd9cad216

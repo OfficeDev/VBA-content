@@ -3,7 +3,7 @@ title: DocumentInspectors Object (Office)
 keywords: vbaof11.chm278000
 f1_keywords:
 - vbaof11.chm278000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentInspectors
 ms.assetid: 8366d7cd-e016-bb99-d27f-749ca10352f1

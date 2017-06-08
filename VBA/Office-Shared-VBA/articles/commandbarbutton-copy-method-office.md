@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Copy Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Copy
 ms.assetid: a78a7922-aa51-7b9f-d7de-a227a6869140

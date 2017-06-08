@@ -2,6 +2,7 @@
 title: MsoLineFillType Enumeration (Office)
 ms.assetid: 659dd96d-67d0-2109-44e0-812c9306e47d
 ms.date: 06/08/2017
+ms.prod: office
 ---
 
 

@@ -3,7 +3,7 @@ title: DocumentLibraryVersion.Index Property (Office)
 keywords: vbaof11.chm277018
 f1_keywords:
 - vbaof11.chm277018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Index
 ms.assetid: 36c14aa4-4de9-d712-fe04-22abda8f0189

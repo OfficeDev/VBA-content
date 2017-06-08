@@ -3,7 +3,7 @@ title: MetaProperties.Validate Method (Office)
 keywords: vbaof11.chm274004
 f1_keywords:
 - vbaof11.chm274004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperties.Validate
 ms.assetid: 658532c6-c8c0-ff01-3736-4161a09af2bb

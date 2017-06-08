@@ -2,6 +2,7 @@
 title: MsoPictureCompress Enumeration (Office)
 ms.assetid: f58e84f7-f284-425f-88df-b8f8578cebeb
 ms.date: 06/08/2017
+ms.prod: office
 ---
 
 

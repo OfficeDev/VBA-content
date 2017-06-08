@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayout.Id Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayout.Id
 ms.assetid: c8cd4332-6011-3ab7-a65c-f4f60240b2fd

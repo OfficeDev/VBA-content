@@ -3,7 +3,7 @@ title: COMAddIn.Guid Property (Office)
 keywords: vbaof11.chm219004
 f1_keywords:
 - vbaof11.chm219004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.COMAddIn.Guid
 ms.assetid: 1e3218d9-dce7-21e2-55a7-4435ca58bb35

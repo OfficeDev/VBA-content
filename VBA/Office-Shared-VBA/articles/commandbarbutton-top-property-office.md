@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Top Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Top
 ms.assetid: 4ad019ed-a344-dac5-0063-b52bdead7916

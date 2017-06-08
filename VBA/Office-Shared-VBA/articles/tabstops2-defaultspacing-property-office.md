@@ -1,6 +1,6 @@
 ---
 title: TabStops2.DefaultSpacing Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabStops2.DefaultSpacing
 ms.assetid: 78d5846a-2c9a-c341-7323-0e1b2d130b77

@@ -3,7 +3,7 @@ title: FileDialog.InitialFileName Property (Office)
 keywords: vbaof11.chm256008
 f1_keywords:
 - vbaof11.chm256008
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.InitialFileName
 ms.assetid: 900970fe-1331-9b0a-3182-953cb6b583ce

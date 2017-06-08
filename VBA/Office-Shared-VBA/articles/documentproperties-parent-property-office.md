@@ -3,7 +3,7 @@ title: DocumentProperties.Parent Property (Office)
 keywords: vbaof11.chm250011
 f1_keywords:
 - vbaof11.chm250011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperties.Parent
 ms.assetid: e1239ffa-b89e-e78f-4009-d576c473d477

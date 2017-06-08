@@ -3,7 +3,7 @@ title: CommandBars.GetPressedMso Method (Office)
 keywords: vbaof11.chm2021
 f1_keywords:
 - vbaof11.chm2021
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.GetPressedMso
 ms.assetid: 97811bb6-cc5c-eccc-9149-76bdfa37541f

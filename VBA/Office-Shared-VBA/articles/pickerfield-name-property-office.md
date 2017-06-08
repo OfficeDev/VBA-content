@@ -1,6 +1,6 @@
 ---
 title: PickerField.Name Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerField.Name
 ms.assetid: 9088c760-e35e-4a2f-9fc2-da24e7b4ecdd

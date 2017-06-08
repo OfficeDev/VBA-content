@@ -3,7 +3,7 @@ title: FileDialogFilters.Add Method (Office)
 keywords: vbaof11.chm255006
 f1_keywords:
 - vbaof11.chm255006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilters.Add
 ms.assetid: f1ff515f-9049-189d-a67a-30198d55253b

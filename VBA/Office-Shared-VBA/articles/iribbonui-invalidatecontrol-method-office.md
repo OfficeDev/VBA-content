@@ -3,7 +3,7 @@ title: IRibbonUI.InvalidateControl Method (Office)
 keywords: vbaof11.chm320002
 f1_keywords:
 - vbaof11.chm320002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.InvalidateControl
 ms.assetid: 33af7933-66f7-51e9-895e-07a6222973d2

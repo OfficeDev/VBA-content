@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Left Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Left
 ms.assetid: d384480a-9777-acee-d943-ec4ebb6cb5e7

@@ -1,6 +1,6 @@
 ---
 title: FileTypes Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c2ecfe17-b2bb-23ef-1c2b-e5b8b5ff4fe1
 ms.date: 06/08/2017
 ---

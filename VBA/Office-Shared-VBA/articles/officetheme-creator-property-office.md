@@ -1,6 +1,6 @@
 ---
 title: OfficeTheme.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeTheme.Creator
 ms.assetid: ad83d655-3cc8-b310-4590-531e9eff35d2

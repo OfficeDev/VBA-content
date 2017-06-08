@@ -3,7 +3,7 @@ title: DocumentProperty.Delete Method (Office)
 keywords: vbaof11.chm250004
 f1_keywords:
 - vbaof11.chm250004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentProperty.Delete
 ms.assetid: 2a9ac097-0156-007f-2b4b-62a34b240f71

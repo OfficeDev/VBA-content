@@ -1,6 +1,6 @@
 ---
 title: Customize the Office Fluent Ribbon by Using a Managed COM Add-in
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7926e6bc-c7ae-cc6f-faa5-28e2e6de664c
 ms.date: 06/08/2017
 ---

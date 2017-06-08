@@ -3,7 +3,7 @@ title: MsoContactCardAddressType Enumeration (Office)
 keywords: vbaof11.chm100125
 f1_keywords:
 - vbaof11.chm100125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoContactCardAddressType
 ms.assetid: 0edd8af5-1d4c-4aae-436f-8265e65620d6

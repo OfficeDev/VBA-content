@@ -3,7 +3,7 @@ title: MsoEnvelope.Parent Property (Office)
 keywords: vbaof11.chm11004
 f1_keywords:
 - vbaof11.chm11004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoEnvelope.Parent
 ms.assetid: fd0cf402-df20-6429-bd61-dfa54ca90fe6

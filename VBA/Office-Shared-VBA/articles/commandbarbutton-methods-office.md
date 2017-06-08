@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: afe76e3e-03d8-4b40-89e6-ed785bbf5232
 ms.date: 06/08/2017
 ---

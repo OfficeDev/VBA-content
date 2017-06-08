@@ -1,6 +1,6 @@
 ---
 title: DocumentProperties Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a6985b6-b340-440a-9aa3-82485acbcd38
 ms.date: 06/08/2017
 ---

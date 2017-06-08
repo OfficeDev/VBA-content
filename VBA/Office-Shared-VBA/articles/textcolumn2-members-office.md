@@ -1,6 +1,6 @@
 ---
 title: TextColumn2 Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: adfe4540-26e2-b315-6396-313169d503c6
 ms.date: 06/08/2017
 ---

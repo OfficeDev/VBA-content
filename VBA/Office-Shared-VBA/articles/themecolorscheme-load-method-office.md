@@ -1,6 +1,6 @@
 ---
 title: ThemeColorScheme.Load Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Load
 ms.assetid: 636f14c1-4178-ef12-e22b-4d948719cced

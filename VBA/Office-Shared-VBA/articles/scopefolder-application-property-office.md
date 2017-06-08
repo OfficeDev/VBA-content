@@ -1,6 +1,6 @@
 ---
 title: ScopeFolder.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ScopeFolder.Application
 ms.assetid: 5a77b1b5-36dd-babf-a615-28c8e9c2fad1

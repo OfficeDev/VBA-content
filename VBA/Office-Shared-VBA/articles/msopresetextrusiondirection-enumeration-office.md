@@ -1,6 +1,6 @@
 ---
 title: MsoPresetExtrusionDirection Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPresetExtrusionDirection
 ms.assetid: 6842c53f-a240-249c-32aa-18cac4859ecf

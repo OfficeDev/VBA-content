@@ -1,6 +1,6 @@
 ---
 title: MsoLineDashStyle Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoLineDashStyle
 ms.assetid: aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44

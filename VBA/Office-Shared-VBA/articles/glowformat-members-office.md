@@ -1,6 +1,6 @@
 ---
 title: GlowFormat Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d12e270-0b8b-930b-9c74-694b02a3a228
 ms.date: 06/08/2017
 ---

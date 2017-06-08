@@ -1,6 +1,6 @@
 ---
 title: MsoMenuAnimation Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoMenuAnimation
 ms.assetid: f57e861a-b1dd-d249-798b-4b607b5ed62e

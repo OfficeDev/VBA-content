@@ -1,6 +1,6 @@
 ---
 title: ThemeEffectScheme Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a48841c-2f51-2fe4-360b-a5d0044dba80
 ms.date: 06/08/2017
 ---

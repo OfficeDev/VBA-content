@@ -1,6 +1,6 @@
 ---
 title: PickerResults.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResults.Creator
 ms.assetid: de3c46dc-0655-4966-f2ac-7bbcdfacffca

@@ -1,6 +1,6 @@
 ---
 title: GradientStop Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4901f75d-a0d6-4e7c-86fe-107be4815d2e
 ms.date: 06/08/2017
 ---

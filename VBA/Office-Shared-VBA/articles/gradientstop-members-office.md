@@ -1,6 +1,6 @@
 ---
 title: GradientStop Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 49a04149-e038-a52a-6bf8-ad05f9630605
 ms.date: 06/08/2017
 ---

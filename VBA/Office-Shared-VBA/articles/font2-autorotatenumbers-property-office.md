@@ -1,6 +1,6 @@
 ---
 title: Font2.AutorotateNumbers Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.AutorotateNumbers
 ms.assetid: 91007f1f-a3e5-1a7c-19c5-badc25201596

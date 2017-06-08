@@ -2,6 +2,7 @@
 title: MsoLineCapStyle Enumeration (Office)
 ms.assetid: e2adcc46-2f4e-7e63-0063-04e57ee3e1dd
 ms.date: 06/08/2017
+ms.prod: office
 ---
 
 

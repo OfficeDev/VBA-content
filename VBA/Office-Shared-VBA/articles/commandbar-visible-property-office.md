@@ -3,7 +3,7 @@ title: CommandBar.Visible Property (Office)
 keywords: vbaof11.chm3020
 f1_keywords:
 - vbaof11.chm3020
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBar.Visible
 ms.assetid: c7057c83-ea8d-c167-a650-d784d5e6dd1f

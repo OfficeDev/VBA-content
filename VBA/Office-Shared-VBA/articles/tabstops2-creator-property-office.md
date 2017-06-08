@@ -1,6 +1,6 @@
 ---
 title: TabStops2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabStops2.Creator
 ms.assetid: be65a4ff-ff1e-7514-0509-5e64de3b74e4

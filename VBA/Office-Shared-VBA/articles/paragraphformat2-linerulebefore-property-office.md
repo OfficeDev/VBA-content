@@ -1,6 +1,6 @@
 ---
 title: ParagraphFormat2.LineRuleBefore Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleBefore
 ms.assetid: 8fff6daa-b7de-f490-6137-efc49c45c8dc

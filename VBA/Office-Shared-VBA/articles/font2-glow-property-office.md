@@ -1,6 +1,6 @@
 ---
 title: Font2.Glow Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Glow
 ms.assetid: 8f9c33aa-70fd-1e9f-fe45-5f1b988b8ef7

@@ -1,6 +1,6 @@
 ---
 title: IBlogPictureExtensibility Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 027ab75f-ebaa-4f5c-8acc-6ec1466c2ff2
 ms.date: 06/08/2017
 ---

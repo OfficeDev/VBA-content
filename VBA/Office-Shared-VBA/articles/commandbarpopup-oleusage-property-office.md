@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.OLEUsage Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.OLEUsage
 ms.assetid: 75d338e0-f5ca-f4b6-2f94-e575749e6ae9

@@ -1,6 +1,6 @@
 ---
 title: UserPermission Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 508f604c-2903-4a00-9498-755945ce0a2b
 ms.date: 06/08/2017
 ---

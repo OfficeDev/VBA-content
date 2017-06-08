@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.DescriptionText Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.DescriptionText
 ms.assetid: e06b5800-eecd-6863-68f7-9b88d3c4696b

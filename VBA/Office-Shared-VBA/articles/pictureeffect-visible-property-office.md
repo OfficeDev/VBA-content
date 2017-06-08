@@ -1,6 +1,6 @@
 ---
 title: PictureEffect.Visible Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PictureEffect.Visible
 ms.assetid: cdfcda14-5d74-c61f-e289-1d53ea3e8e80

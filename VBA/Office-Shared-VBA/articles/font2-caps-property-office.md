@@ -1,6 +1,6 @@
 ---
 title: Font2.Caps Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Caps
 ms.assetid: 56a52bb6-7040-b018-05e8-6680924e311c

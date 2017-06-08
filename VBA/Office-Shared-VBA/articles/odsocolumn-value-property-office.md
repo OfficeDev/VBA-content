@@ -3,7 +3,7 @@ title: ODSOColumn.Value Property (Office)
 keywords: vbaof11.chm233004
 f1_keywords:
 - vbaof11.chm233004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ODSOColumn.Value
 ms.assetid: 87220a5a-c7e8-5ddb-9354-14afa084f242

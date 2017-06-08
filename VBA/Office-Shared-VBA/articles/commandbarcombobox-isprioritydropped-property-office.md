@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.IsPriorityDropped Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.IsPriorityDropped
 ms.assetid: c556f630-5e95-6d1a-4e94-0ecf5b20875a

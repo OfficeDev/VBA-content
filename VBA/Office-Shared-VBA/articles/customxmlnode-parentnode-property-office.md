@@ -3,7 +3,7 @@ title: CustomXMLNode.ParentNode Property (Office)
 keywords: vbaof11.chm294014
 f1_keywords:
 - vbaof11.chm294014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.ParentNode
 ms.assetid: f9cfaf3e-1a86-e3ef-e1a1-d52e58d5b1ea

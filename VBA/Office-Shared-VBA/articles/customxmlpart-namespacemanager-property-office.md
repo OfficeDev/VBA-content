@@ -3,7 +3,7 @@ title: CustomXMLPart.NamespaceManager Property (Office)
 keywords: vbaof11.chm295006
 f1_keywords:
 - vbaof11.chm295006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.NamespaceManager
 ms.assetid: 4afc4dc8-32d5-c632-fd9a-f2bf46c72458

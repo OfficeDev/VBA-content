@@ -3,7 +3,7 @@ title: SharedWorkspaceMembers.Add Method (Office)
 keywords: vbaof11.chm273003
 f1_keywords:
 - vbaof11.chm273003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers.Add
 ms.assetid: 13d7c75d-a4d1-60ea-d689-c6886fb1e898

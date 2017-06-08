@@ -1,6 +1,6 @@
 ---
 title: MsoLineStyle Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoLineStyle
 ms.assetid: 888c4d9c-a20d-f71a-faa9-8ea0275efd4e

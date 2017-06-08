@@ -3,7 +3,7 @@ title: PickerDialog.Properties Property (Office)
 keywords: vbaof11.chm340003
 f1_keywords:
 - vbaof11.chm340003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerDialog.Properties
 ms.assetid: 053b5d62-9d9a-68ed-c7ed-cf4df7053ecc

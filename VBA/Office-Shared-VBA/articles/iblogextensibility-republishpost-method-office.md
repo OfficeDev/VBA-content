@@ -3,7 +3,7 @@ title: IBlogExtensibility.RepublishPost Method (Office)
 keywords: vbaof11.chm328007
 f1_keywords:
 - vbaof11.chm328007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IBlogExtensibility.RepublishPost
 ms.assetid: 1e701746-f63b-68a3-6a5c-75b78942d380

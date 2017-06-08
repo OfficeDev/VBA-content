@@ -1,6 +1,6 @@
 ---
 title: SearchScope Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 25ef5a3c-3179-7870-f28b-7700349a3ed4
 ms.date: 06/08/2017
 ---

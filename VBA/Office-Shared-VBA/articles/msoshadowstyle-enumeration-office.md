@@ -1,6 +1,6 @@
 ---
 title: MsoShadowStyle Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoShadowStyle
 ms.assetid: 98bbf0a7-03f5-449e-b469-3652d7642b4a

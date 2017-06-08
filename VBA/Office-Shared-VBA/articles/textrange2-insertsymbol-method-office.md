@@ -1,6 +1,6 @@
 ---
 title: TextRange2.InsertSymbol Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.InsertSymbol
 ms.assetid: 74642859-0d84-5de9-494a-a58b9d93de88

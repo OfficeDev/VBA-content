@@ -1,6 +1,6 @@
 ---
 title: MsoRecolorType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoRecolorType
 ms.assetid: 989e4451-e7d5-cd9a-a295-f752ae89f4f1

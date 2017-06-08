@@ -3,7 +3,7 @@ title: IMsoContactCard.CardType Property (Office)
 keywords: vbaof11.chm341003
 f1_keywords:
 - vbaof11.chm341003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IMsoContactCard.CardType
 ms.assetid: 002e308b-0a1b-087e-8a86-0aad2fa0f543

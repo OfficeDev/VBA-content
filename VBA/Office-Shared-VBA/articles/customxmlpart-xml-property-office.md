@@ -3,7 +3,7 @@ title: CustomXMLPart.XML Property (Office)
 keywords: vbaof11.chm295007
 f1_keywords:
 - vbaof11.chm295007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPart.XML
 ms.assetid: 0786876f-42bd-b6db-81b1-a05d9fa4558b

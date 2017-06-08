@@ -1,6 +1,6 @@
 ---
 title: MsoBarType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoBarType
 ms.assetid: 15d60a75-365b-1db4-0272-e2bb2f2f3aba

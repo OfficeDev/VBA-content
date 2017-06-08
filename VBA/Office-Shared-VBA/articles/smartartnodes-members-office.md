@@ -1,6 +1,6 @@
 ---
 title: SmartArtNodes Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ebf55b0-5b97-5c4e-5d7f-d119ba051bf4
 ms.date: 06/08/2017
 ---

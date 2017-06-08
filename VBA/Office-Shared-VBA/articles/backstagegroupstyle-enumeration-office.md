@@ -1,6 +1,6 @@
 ---
 title: BackstageGroupStyle Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BackstageGroupStyle
 ms.assetid: fe65008a-2579-0858-7912-29e8e3023937

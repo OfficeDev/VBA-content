@@ -3,7 +3,7 @@ title: MetaProperties.Count Property (Office)
 keywords: vbaof11.chm274003
 f1_keywords:
 - vbaof11.chm274003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MetaProperties.Count
 ms.assetid: ceb7c117-4d5a-511c-a849-b3cc9041d298

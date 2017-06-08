@@ -1,6 +1,6 @@
 ---
 title: Font2 Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b4ecd630-37cd-42e5-9901-bf1735ab6a91
 ms.date: 06/08/2017
 ---

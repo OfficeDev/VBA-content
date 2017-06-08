@@ -1,6 +1,6 @@
 ---
 title: MsoAlertCancelType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoAlertCancelType
 ms.assetid: 3dfe3983-ff86-2ef7-332f-eefa814a764b

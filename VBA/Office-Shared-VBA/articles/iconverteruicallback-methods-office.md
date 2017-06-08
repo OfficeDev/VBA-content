@@ -1,6 +1,6 @@
 ---
 title: IConverterUICallback Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ff04e1f4-d08d-4510-b971-931b144662ec
 ms.date: 06/08/2017
 ---

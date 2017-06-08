@@ -1,6 +1,6 @@
 ---
 title: Office VBA Object library reference
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 727c4e1c-e13c-7bac-e833-b1322607dfd3
 ms.date: 06/08/2017
 ---

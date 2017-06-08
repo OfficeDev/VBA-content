@@ -1,6 +1,6 @@
 ---
 title: BulletFormat2 Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 821f8dfd-d0f5-4079-a708-a0759250b010
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceFolder.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.Creator
 ms.assetid: 6804b5d2-62a2-6bc5-4de7-07fbe903eb5b

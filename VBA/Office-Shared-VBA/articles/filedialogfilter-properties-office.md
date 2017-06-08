@@ -1,6 +1,6 @@
 ---
 title: FileDialogFilter Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6d1b7ade-fc4e-432f-810b-2a21b320eb36
 ms.date: 06/08/2017
 ---

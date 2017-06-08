@@ -3,7 +3,7 @@ title: OfficeDataSourceObject.DataSource Property (Office)
 keywords: vbaof11.chm232003
 f1_keywords:
 - vbaof11.chm232003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.DataSource
 ms.assetid: 280e4d63-14d1-8b3c-b735-0190dba12ba1

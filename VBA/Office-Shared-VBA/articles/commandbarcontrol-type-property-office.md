@@ -1,6 +1,6 @@
 ---
 title: CommandBarControl.Type Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.Type
 ms.assetid: a0f20db6-a8a2-98e2-6f4e-efd9043df0c2

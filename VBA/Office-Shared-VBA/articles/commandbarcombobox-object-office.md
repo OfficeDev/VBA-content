@@ -3,7 +3,7 @@ title: CommandBarComboBox Object (Office)
 keywords: vbaof11.chm243000
 f1_keywords:
 - vbaof11.chm243000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox
 ms.assetid: fcfe6bde-dea0-f1f1-ad30-d0e28f97dd07

@@ -3,7 +3,7 @@ title: CommandBars.DisableAskAQuestionDropdown Property (Office)
 keywords: vbaof11.chm2017
 f1_keywords:
 - vbaof11.chm2017
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBars.DisableAskAQuestionDropdown
 ms.assetid: a0954aa4-256c-4a14-6bab-959a00e9367d

@@ -1,6 +1,6 @@
 ---
 title: TextRange2.Words Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Words
 ms.assetid: bab78b31-ebd6-649e-0b05-5b21552f8f22

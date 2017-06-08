@@ -1,6 +1,6 @@
 ---
 title: FileDialogFilters Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29870c13-1b57-4521-91ec-3f00900c196b
 ms.date: 06/08/2017
 ---

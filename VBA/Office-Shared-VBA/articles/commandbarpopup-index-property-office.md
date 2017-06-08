@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Index Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Index
 ms.assetid: 6f6f6d1f-a59a-cf52-d273-a732652b4f05

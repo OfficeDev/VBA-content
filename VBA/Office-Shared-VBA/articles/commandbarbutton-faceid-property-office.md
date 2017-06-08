@@ -3,7 +3,7 @@ title: CommandBarButton.FaceId Property (Office)
 keywords: vbaof11.chm6003
 f1_keywords:
 - vbaof11.chm6003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.FaceId
 ms.assetid: c2151f20-b1c7-97eb-35ac-7a12c5ee3f28

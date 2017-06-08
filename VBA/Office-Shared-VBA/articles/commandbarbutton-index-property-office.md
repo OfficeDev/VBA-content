@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Index Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Index
 ms.assetid: 2924d346-735b-cdb3-6237-f840f017cf3e

@@ -1,6 +1,6 @@
 ---
 title: TextFrame2 Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b8e0788c-d479-4651-b173-093aedff58ec
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: TabStops2.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabStops2.Parent
 ms.assetid: f0a137b5-a8d9-dcce-64cd-632349706a78

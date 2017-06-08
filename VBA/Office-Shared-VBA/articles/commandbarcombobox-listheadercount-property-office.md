@@ -3,7 +3,7 @@ title: CommandBarComboBox.ListHeaderCount Property (Office)
 keywords: vbaof11.chm8007
 f1_keywords:
 - vbaof11.chm8007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.ListHeaderCount
 ms.assetid: 54625ef5-2e09-5a39-7909-e775c4e9e0c4

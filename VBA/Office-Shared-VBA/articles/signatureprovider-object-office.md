@@ -3,7 +3,7 @@ title: SignatureProvider Object (Office)
 keywords: vbaof11.chm287000
 f1_keywords:
 - vbaof11.chm287000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureProvider
 ms.assetid: 3df5d1dc-f7da-dacc-239a-7b02f79a5d1b

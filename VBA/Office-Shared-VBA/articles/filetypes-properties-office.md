@@ -1,6 +1,6 @@
 ---
 title: FileTypes Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e5f42d4d-7185-4dcf-879a-1ddc66ea0885
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Signature.IsSigned Property (Office)
 keywords: vbaof11.chm248011
 f1_keywords:
 - vbaof11.chm248011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Signature.IsSigned
 ms.assetid: ddaa2ad6-26ce-35d7-ed69-9faef04b7a31

@@ -3,7 +3,7 @@ title: IConverterApplicationPreferences.HrGetLcid Method (Office)
 keywords: vbaof11.chm331001
 f1_keywords:
 - vbaof11.chm331001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverterApplicationPreferences.HrGetLcid
 ms.assetid: c1c14c98-ac69-554b-34b9-4d4149adc6e3

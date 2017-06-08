@@ -1,6 +1,6 @@
 ---
 title: Font2.Highlight Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Font2.Highlight
 ms.assetid: 320ee1c7-6d0e-c284-37e7-33cf99d0db9b

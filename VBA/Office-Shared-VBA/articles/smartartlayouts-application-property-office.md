@@ -1,6 +1,6 @@
 ---
 title: SmartArtLayouts.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Application
 ms.assetid: 884b8508-1860-f21f-a3f7-b236909b9efa

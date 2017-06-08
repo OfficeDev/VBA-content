@@ -1,6 +1,6 @@
 ---
 title: MsoGradientColorType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoGradientColorType
 ms.assetid: 0940fc83-d089-8b1d-dcf1-73773d0e21c5

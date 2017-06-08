@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.Priority Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Priority
 ms.assetid: 0166df8f-316a-8414-a3af-1156fc1a1166

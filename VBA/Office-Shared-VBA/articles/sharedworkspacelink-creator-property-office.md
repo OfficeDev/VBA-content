@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspaceLink.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.Creator
 ms.assetid: f6e91cf1-ceca-d5b6-d71e-26253943e429

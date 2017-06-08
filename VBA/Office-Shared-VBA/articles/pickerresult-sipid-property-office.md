@@ -3,7 +3,7 @@ title: PickerResult.SIPId Property (Office)
 keywords: vbaof11.chm338004
 f1_keywords:
 - vbaof11.chm338004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResult.SIPId
 ms.assetid: b1442592-1a6c-4f30-5242-2f2c080a6e46

@@ -1,6 +1,6 @@
 ---
 title: SmartArtQuickStyles.Parent Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Parent
 ms.assetid: 1443c158-4730-692c-7683-14229615bbbc

@@ -3,7 +3,7 @@ title: PickerProperties.Add Method (Office)
 keywords: vbaof11.chm337003
 f1_keywords:
 - vbaof11.chm337003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerProperties.Add
 ms.assetid: a52c9607-1b0a-c37e-a3af-dc0550c64deb

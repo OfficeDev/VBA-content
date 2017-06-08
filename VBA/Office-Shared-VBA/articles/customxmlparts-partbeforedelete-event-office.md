@@ -3,7 +3,7 @@ title: CustomXMLParts.PartBeforeDelete Event (Office)
 keywords: vbaof11.chm299002
 f1_keywords:
 - vbaof11.chm299002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartBeforeDelete
 ms.assetid: 50fa1172-3eac-e091-660e-693a91aaf330

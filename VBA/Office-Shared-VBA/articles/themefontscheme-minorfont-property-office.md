@@ -1,6 +1,6 @@
 ---
 title: ThemeFontScheme.MinorFont Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ThemeFontScheme.MinorFont
 ms.assetid: e57d0a0c-bb93-6fd2-e8d2-83ac1286f670

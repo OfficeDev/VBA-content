@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextFrame2.Creator
 ms.assetid: 12c1e3ee-4c76-907a-2606-661108f8a6ae

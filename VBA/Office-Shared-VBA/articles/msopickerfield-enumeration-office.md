@@ -3,7 +3,7 @@ title: MsoPickerField Enumeration (Office)
 keywords: vbaof11.chm100124
 f1_keywords:
 - vbaof11.chm100124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoPickerField
 ms.assetid: 9f38a257-223e-8dfe-8856-094717d5b513

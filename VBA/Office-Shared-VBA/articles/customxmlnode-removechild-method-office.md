@@ -3,7 +3,7 @@ title: CustomXMLNode.RemoveChild Method (Office)
 keywords: vbaof11.chm294025
 f1_keywords:
 - vbaof11.chm294025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.RemoveChild
 ms.assetid: dc6c380a-6cfd-870a-9a31-d92aed1ae3e1

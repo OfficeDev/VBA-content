@@ -1,6 +1,6 @@
 ---
 title: ParagraphFormat2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Creator
 ms.assetid: 361e1314-965c-0739-0ef8-f6d07e3db259

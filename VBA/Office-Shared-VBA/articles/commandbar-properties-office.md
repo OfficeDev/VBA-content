@@ -1,6 +1,6 @@
 ---
 title: CommandBar Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2b39ffa7-f828-4eca-9c40-8fb8ea816d50
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: IBlogExtensibility.PublishPost Method (Office)
 keywords: vbaof11.chm328006
 f1_keywords:
 - vbaof11.chm328006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IBlogExtensibility.PublishPost
 ms.assetid: 71d2907f-f64e-f318-7f10-095d9a004f03

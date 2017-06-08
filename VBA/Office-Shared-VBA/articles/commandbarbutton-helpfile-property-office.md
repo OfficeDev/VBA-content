@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.HelpFile Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.HelpFile
 ms.assetid: 6e97a52d-f50d-600b-26eb-b22988bd5ed5

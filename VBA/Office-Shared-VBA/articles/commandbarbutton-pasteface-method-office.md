@@ -3,7 +3,7 @@ title: CommandBarButton.PasteFace Method (Office)
 keywords: vbaof11.chm6004
 f1_keywords:
 - vbaof11.chm6004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.PasteFace
 ms.assetid: 1c4179c4-b6b5-527f-5027-25ced8ee907d

@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.HelpFile Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.HelpFile
 ms.assetid: 2fbe2d70-b8f7-d800-ed46-0ac88125b8f1

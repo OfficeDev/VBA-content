@@ -1,6 +1,6 @@
 ---
 title: RulerLevel2.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.RulerLevel2.Application
 ms.assetid: f03c2e77-5255-1099-872a-1b24912c5cf4

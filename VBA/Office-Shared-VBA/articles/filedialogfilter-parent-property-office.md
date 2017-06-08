@@ -3,7 +3,7 @@ title: FileDialogFilter.Parent Property (Office)
 keywords: vbaof11.chm254001
 f1_keywords:
 - vbaof11.chm254001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialogFilter.Parent
 ms.assetid: ad6cbf1a-d7f9-958c-4da4-cbe0c12ff5d1

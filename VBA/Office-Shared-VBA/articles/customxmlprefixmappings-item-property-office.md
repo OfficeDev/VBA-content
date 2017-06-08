@@ -3,7 +3,7 @@ title: CustomXMLPrefixMappings.Item Property (Office)
 keywords: vbaof11.chm290003
 f1_keywords:
 - vbaof11.chm290003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.Item
 ms.assetid: 2851c6d0-0965-ec73-b7a5-06eb59f5d9c4

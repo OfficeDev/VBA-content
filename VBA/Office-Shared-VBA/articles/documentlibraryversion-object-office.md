@@ -3,7 +3,7 @@ title: DocumentLibraryVersion Object (Office)
 keywords: vbaof11.chm277014
 f1_keywords:
 - vbaof11.chm277014
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion
 ms.assetid: ac13975d-4f91-1fc5-5b0a-94b21309ffb7

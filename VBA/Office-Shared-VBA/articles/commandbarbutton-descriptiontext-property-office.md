@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.DescriptionText Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.DescriptionText
 ms.assetid: bc22bef9-e923-40af-296b-959f3f3aeead

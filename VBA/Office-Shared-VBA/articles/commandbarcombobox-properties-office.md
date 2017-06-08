@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b3e94ed7-a280-491b-b30c-4778883f0ed3
 ms.date: 06/08/2017
 ---

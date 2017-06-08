@@ -1,6 +1,6 @@
 ---
 title: TextRange2.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Count
 ms.assetid: 3bb6408f-acc0-05cb-ef45-9f9a4bae4ebc

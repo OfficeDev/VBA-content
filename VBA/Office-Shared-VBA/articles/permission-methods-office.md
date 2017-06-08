@@ -1,6 +1,6 @@
 ---
 title: Permission Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d954c2c6-f21e-4047-a752-47bab4baf65c
 ms.date: 06/08/2017
 ---

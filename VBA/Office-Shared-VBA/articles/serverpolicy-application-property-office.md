@@ -1,6 +1,6 @@
 ---
 title: ServerPolicy.Application Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ServerPolicy.Application
 ms.assetid: 0d07cae1-9219-c617-f15d-01bc5ec59132

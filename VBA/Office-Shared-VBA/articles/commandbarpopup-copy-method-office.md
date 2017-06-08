@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Copy Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Copy
 ms.assetid: d50fff50-00fd-e70f-d777-9bf1850cae37

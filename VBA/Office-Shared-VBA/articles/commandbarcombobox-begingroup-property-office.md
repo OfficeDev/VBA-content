@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.BeginGroup Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.BeginGroup
 ms.assetid: 482ec5fc-91ef-746b-2ec8-360bb7780df2

@@ -1,6 +1,6 @@
 ---
 title: MsoTextEffectAlignment Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoTextEffectAlignment
 ms.assetid: 5a165109-c820-bbc2-235b-a24807abd0d0

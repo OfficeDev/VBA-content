@@ -1,6 +1,6 @@
 ---
 title: IBlogExtensibility Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9898ea41-5954-4e58-908f-a32993ab75d8
 ms.date: 06/08/2017
 ---

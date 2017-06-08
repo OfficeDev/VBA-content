@@ -3,7 +3,7 @@ title: IConverterPreferences Object (Office)
 keywords: vbaof11.chm330000
 f1_keywords:
 - vbaof11.chm330000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IConverterPreferences
 ms.assetid: c45e5b48-eced-32e6-1887-ff5c100ae1cc

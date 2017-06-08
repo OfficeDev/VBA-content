@@ -1,6 +1,6 @@
 ---
 title: PickerProperties Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20b77dc7-6f9e-4c79-a4d0-99b2fad476dd
 ms.date: 06/08/2017
 ---

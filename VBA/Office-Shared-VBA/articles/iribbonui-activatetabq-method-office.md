@@ -3,7 +3,7 @@ title: IRibbonUI.ActivateTabQ Method (Office)
 keywords: vbaof11.chm320006
 f1_keywords:
 - vbaof11.chm320006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.ActivateTabQ
 ms.assetid: bf664b52-2660-2ce7-a01b-83b459f66e09

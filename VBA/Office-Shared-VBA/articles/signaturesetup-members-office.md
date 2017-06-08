@@ -1,6 +1,6 @@
 ---
 title: SignatureSetup Members (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30bec290-276c-6a64-ca46-dc9dd145e3dd
 ms.date: 06/08/2017
 ---

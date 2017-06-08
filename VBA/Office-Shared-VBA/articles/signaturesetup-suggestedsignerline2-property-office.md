@@ -3,7 +3,7 @@ title: SignatureSetup.SuggestedSignerLine2 Property (Office)
 keywords: vbaof11.chm285005
 f1_keywords:
 - vbaof11.chm285005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SignatureSetup.SuggestedSignerLine2
 ms.assetid: 889dca6d-7242-c442-8b33-848e6d0a469d

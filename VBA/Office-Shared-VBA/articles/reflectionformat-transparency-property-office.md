@@ -1,6 +1,6 @@
 ---
 title: ReflectionFormat.Transparency Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ReflectionFormat.Transparency
 ms.assetid: 3b3768e8-578c-6060-7c55-8a0934ebe65e

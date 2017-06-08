@@ -3,7 +3,7 @@ title: Sync.Status Property (Office)
 keywords: vbaof11.chm277001
 f1_keywords:
 - vbaof11.chm277001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Sync.Status
 ms.assetid: fdddff38-268b-835a-7c8d-db76d862e392

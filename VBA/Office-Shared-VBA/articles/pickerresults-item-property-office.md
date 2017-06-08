@@ -3,7 +3,7 @@ title: PickerResults.Item Property (Office)
 keywords: vbaof11.chm339001
 f1_keywords:
 - vbaof11.chm339001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerResults.Item
 ms.assetid: a871f16f-8278-87bd-3633-5e273bc8865f

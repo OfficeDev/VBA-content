@@ -3,7 +3,7 @@ title: PickerProperties.Remove Method (Office)
 keywords: vbaof11.chm337004
 f1_keywords:
 - vbaof11.chm337004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PickerProperties.Remove
 ms.assetid: b224723d-7761-1ac6-f94c-58ead912c555

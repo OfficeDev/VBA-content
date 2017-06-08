@@ -1,6 +1,6 @@
 ---
 title: LanguageSettings Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e90f8fca-a4d2-4b73-b72e-18e5a9b389d1
 ms.date: 06/08/2017
 ---

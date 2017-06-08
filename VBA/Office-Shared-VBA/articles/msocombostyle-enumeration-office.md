@@ -1,6 +1,6 @@
 ---
 title: MsoComboStyle Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoComboStyle
 ms.assetid: 77891fe2-e3b3-c429-0ffa-efdfc8547269

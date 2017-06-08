@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup.Delete Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarPopup.Delete
 ms.assetid: 65ec78a1-9f8f-fbd7-3611-c788f3e8566d

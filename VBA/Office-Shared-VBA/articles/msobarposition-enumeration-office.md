@@ -1,6 +1,6 @@
 ---
 title: MsoBarPosition Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoBarPosition
 ms.assetid: 8a1c553c-54ee-8638-2c2e-85888428bebe

@@ -1,6 +1,6 @@
 ---
 title: IRibbonUI Methods (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 69b9dd2d-70e8-4ea4-be51-7da8e2650358
 ms.date: 06/08/2017
 ---

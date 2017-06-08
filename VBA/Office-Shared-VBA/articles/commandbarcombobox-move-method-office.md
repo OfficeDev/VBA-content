@@ -1,6 +1,6 @@
 ---
 title: CommandBarComboBox.Move Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Move
 ms.assetid: 8e8ccbee-da72-1167-9f34-ccf5b535fef8

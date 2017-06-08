@@ -1,6 +1,6 @@
 ---
 title: SmartArtColor Properties (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3d9eeb0e-f5eb-4bac-afaa-cd21e8eb7146
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: FileDialog.AllowMultiSelect Property (Office)
 keywords: vbaof11.chm256006
 f1_keywords:
 - vbaof11.chm256006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileDialog.AllowMultiSelect
 ms.assetid: b109b0b5-1a94-c93f-a1c0-43728d7b9f30

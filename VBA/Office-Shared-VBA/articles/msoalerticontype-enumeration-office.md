@@ -1,6 +1,6 @@
 ---
 title: MsoAlertIconType Enumeration (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MsoAlertIconType
 ms.assetid: bfaa9cfb-bf8e-793e-6981-967f394f6450

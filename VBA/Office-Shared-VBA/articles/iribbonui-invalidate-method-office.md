@@ -3,7 +3,7 @@ title: IRibbonUI.Invalidate Method (Office)
 keywords: vbaof11.chm320001
 f1_keywords:
 - vbaof11.chm320001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IRibbonUI.Invalidate
 ms.assetid: 068cd459-76c2-b1d3-ed7d-50fa88c4db73

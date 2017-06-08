@@ -1,6 +1,6 @@
 ---
 title: TextRange2.Find Method (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextRange2.Find
 ms.assetid: ad5bc61a-a7f1-485a-0fc8-a3bd6707f956

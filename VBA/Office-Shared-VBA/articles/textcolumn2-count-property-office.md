@@ -1,6 +1,6 @@
 ---
 title: TextColumn2.Count Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn2.Count
 ms.assetid: 7fb374fb-23bf-e28e-1ceb-796d098b45e0

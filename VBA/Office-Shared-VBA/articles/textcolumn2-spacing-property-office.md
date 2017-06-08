@@ -1,6 +1,6 @@
 ---
 title: TextColumn2.Spacing Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn2.Spacing
 ms.assetid: 991c6288-3044-5fe5-8e5b-e507daac88e6

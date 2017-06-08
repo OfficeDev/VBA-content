@@ -3,7 +3,7 @@ title: CustomXMLNode.SelectSingleNode Method (Office)
 keywords: vbaof11.chm294029
 f1_keywords:
 - vbaof11.chm294029
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CustomXMLNode.SelectSingleNode
 ms.assetid: 630751f0-fe41-8f91-32d0-e266b3214cbf

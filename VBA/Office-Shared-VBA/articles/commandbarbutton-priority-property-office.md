@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton.Priority Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarButton.Priority
 ms.assetid: 72599580-16d2-20b3-05ad-b454afbba6ef

@@ -1,6 +1,6 @@
 ---
 title: ParagraphFormat2.BaselineAlignment Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ParagraphFormat2.BaselineAlignment
 ms.assetid: 498b4f51-ed3b-94f4-2db1-afb02eeced40

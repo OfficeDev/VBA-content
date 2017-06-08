@@ -1,6 +1,6 @@
 ---
 title: CommandBarControl.IsPriorityDropped Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBarControl.IsPriorityDropped
 ms.assetid: cc537dd9-3b10-cba1-d8e0-bdf3952a1e23

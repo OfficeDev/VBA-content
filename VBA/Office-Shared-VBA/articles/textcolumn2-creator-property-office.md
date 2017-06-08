@@ -1,6 +1,6 @@
 ---
 title: TextColumn2.Creator Property (Office)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn2.Creator
 ms.assetid: a18d3fb2-58ed-b498-40b5-ef1cea1b22d5
