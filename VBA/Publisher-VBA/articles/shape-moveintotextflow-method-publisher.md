@@ -3,7 +3,7 @@ title: Shape.MoveIntoTextFlow Method (Publisher)
 keywords: vbapb10.chm2228356
 f1_keywords:
 - vbapb10.chm2228356
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.MoveIntoTextFlow
 ms.assetid: d8a2af57-f974-717e-0d97-c8a3aee16f01

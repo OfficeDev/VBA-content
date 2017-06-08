@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.NegativeImage Property (Publisher)
 keywords: vbapb10.chm7077893
 f1_keywords:
 - vbapb10.chm7077893
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.NegativeImage
 ms.assetid: 32a524ce-da31-8dfa-3286-c5d9c74367ca

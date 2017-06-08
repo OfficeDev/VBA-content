@@ -3,7 +3,7 @@ title: PbWizardNavBarDesign Enumeration (Publisher)
 keywords: vbapb10.chm65613
 f1_keywords:
 - vbapb10.chm65613
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbWizardNavBarDesign
 ms.assetid: 444da94f-a0e9-4630-bbe0-7c1832029f32

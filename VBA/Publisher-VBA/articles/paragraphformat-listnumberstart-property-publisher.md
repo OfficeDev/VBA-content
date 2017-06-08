@@ -3,7 +3,7 @@ title: ParagraphFormat.ListNumberStart Property (Publisher)
 keywords: vbapb10.chm5439527
 f1_keywords:
 - vbapb10.chm5439527
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.ListNumberStart
 ms.assetid: 8e17fdaa-f53e-26c4-d92b-8ead65c28555

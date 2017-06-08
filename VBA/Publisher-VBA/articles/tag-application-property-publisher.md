@@ -3,7 +3,7 @@ title: Tag.Application Property (Publisher)
 keywords: vbapb10.chm4718593
 f1_keywords:
 - vbapb10.chm4718593
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Tag.Application
 ms.assetid: 4aa8bbbc-c00e-d881-3d89-33a0a95cad7c

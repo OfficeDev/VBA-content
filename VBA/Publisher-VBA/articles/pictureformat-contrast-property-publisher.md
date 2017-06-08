@@ -3,7 +3,7 @@ title: PictureFormat.Contrast Property (Publisher)
 keywords: vbapb10.chm3604738
 f1_keywords:
 - vbapb10.chm3604738
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Contrast
 ms.assetid: f081b7c8-50cc-772b-f3b0-27c215cfebac

@@ -3,7 +3,7 @@ title: PhoneticGuide Object (Publisher)
 keywords: vbapb10.chm6225919
 f1_keywords:
 - vbapb10.chm6225919
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide
 ms.assetid: 164e8b54-4bad-4de9-bf6e-52c5687dfbc6

@@ -3,7 +3,7 @@ title: TextFrame Object (Publisher)
 keywords: vbapb10.chm3932159
 f1_keywords:
 - vbapb10.chm3932159
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame
 ms.assetid: 95e88f5a-b3dc-272e-7c1d-5282c97ae11e

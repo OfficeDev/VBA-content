@@ -3,7 +3,7 @@ title: Row.Delete Method (Publisher)
 keywords: vbapb10.chm4849669
 f1_keywords:
 - vbapb10.chm4849669
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Row.Delete
 ms.assetid: 2fbc2849-9553-bc4a-a3a2-1a2779819066

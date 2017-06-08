@@ -3,7 +3,7 @@ title: WrapFormat.Parent Property (Publisher)
 keywords: vbapb10.chm786434
 f1_keywords:
 - vbapb10.chm786434
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.Parent
 ms.assetid: af3c1a66-f16b-d04a-a123-731ada03b750

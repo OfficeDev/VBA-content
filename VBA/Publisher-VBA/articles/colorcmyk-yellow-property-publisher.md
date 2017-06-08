@@ -3,7 +3,7 @@ title: ColorCMYK.Yellow Property (Publisher)
 keywords: vbapb10.chm2621446
 f1_keywords:
 - vbapb10.chm2621446
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Yellow
 ms.assetid: 2eaa27a4-a9bb-e18a-bd0e-c9cf07c567f5

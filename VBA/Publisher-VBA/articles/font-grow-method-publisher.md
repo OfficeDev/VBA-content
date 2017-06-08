@@ -3,7 +3,7 @@ title: Font.Grow Method (Publisher)
 keywords: vbapb10.chm5373990
 f1_keywords:
 - vbapb10.chm5373990
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Grow
 ms.assetid: 41d48db2-4a0d-6efc-80c5-c6f035e9e6ff

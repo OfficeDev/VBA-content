@@ -3,7 +3,7 @@ title: ShadowFormat.Obscured Property (Publisher)
 keywords: vbapb10.chm3670273
 f1_keywords:
 - vbapb10.chm3670273
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.Obscured
 ms.assetid: 9bc7382e-50cf-0364-6b5a-8aa46a12d8fb

@@ -3,7 +3,7 @@ title: Document.MailMerge Property (Publisher)
 keywords: vbapb10.chm196628
 f1_keywords:
 - vbapb10.chm196628
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.MailMerge
 ms.assetid: 15b1a8aa-3472-c67d-1d99-92617b05c157

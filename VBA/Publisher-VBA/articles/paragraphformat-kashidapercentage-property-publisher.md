@@ -3,7 +3,7 @@ title: ParagraphFormat.KashidaPercentage Property (Publisher)
 keywords: vbapb10.chm5439513
 f1_keywords:
 - vbapb10.chm5439513
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.KashidaPercentage
 ms.assetid: d62aa512-cce6-2e78-657f-51ff1b2cbcf8

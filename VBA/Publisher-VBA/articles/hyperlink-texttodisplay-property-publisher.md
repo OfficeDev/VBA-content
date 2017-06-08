@@ -3,7 +3,7 @@ title: Hyperlink.TextToDisplay Property (Publisher)
 keywords: vbapb10.chm4587536
 f1_keywords:
 - vbapb10.chm4587536
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.TextToDisplay
 ms.assetid: 26b5857c-3f94-0d33-f65e-9c34f2a4cc2b

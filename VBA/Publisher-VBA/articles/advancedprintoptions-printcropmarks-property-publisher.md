@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.PrintCropMarks Property (Publisher)
 keywords: vbapb10.chm7077895
 f1_keywords:
 - vbapb10.chm7077895
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PrintCropMarks
 ms.assetid: 0b777632-572c-7080-8f4d-b97a284d04e2

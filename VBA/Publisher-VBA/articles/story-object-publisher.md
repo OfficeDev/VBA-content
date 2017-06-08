@@ -3,7 +3,7 @@ title: Story Object (Publisher)
 keywords: vbapb10.chm5898239
 f1_keywords:
 - vbapb10.chm5898239
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Story
 ms.assetid: 0385b4be-0046-9198-a186-0d992601780e

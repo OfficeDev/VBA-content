@@ -3,7 +3,7 @@ title: Shape.Hyperlink Property (Publisher)
 keywords: vbapb10.chm2228323
 f1_keywords:
 - vbapb10.chm2228323
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Hyperlink
 ms.assetid: 0990ab32-b4a3-6c89-cb9f-8f8c64ef804f

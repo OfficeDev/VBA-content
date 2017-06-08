@@ -3,7 +3,7 @@ title: HeaderFooter.Application Property (Publisher)
 keywords: vbapb10.chm7471106
 f1_keywords:
 - vbapb10.chm7471106
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter.Application
 ms.assetid: a0da12ac-607f-4c14-41d0-1ab5b33af694

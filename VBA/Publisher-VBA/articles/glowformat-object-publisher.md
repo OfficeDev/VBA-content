@@ -3,7 +3,7 @@ title: GlowFormat Object (Publisher)
 keywords: vbapb10.chm9699327
 f1_keywords:
 - vbapb10.chm9699327
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 62fd5b2a-f199-588e-c15e-ea27c5b59699
 ms.date: 06/08/2017
 ---

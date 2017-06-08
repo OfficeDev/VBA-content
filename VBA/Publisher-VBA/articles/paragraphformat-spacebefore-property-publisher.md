@@ -3,7 +3,7 @@ title: ParagraphFormat.SpaceBefore Property (Publisher)
 keywords: vbapb10.chm5439497
 f1_keywords:
 - vbapb10.chm5439497
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SpaceBefore
 ms.assetid: ed19a927-67e4-a1b3-06f8-1035c4b0815a

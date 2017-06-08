@@ -3,7 +3,7 @@ title: FindReplace.MatchWidth Property (Publisher)
 keywords: vbapb10.chm8323084
 f1_keywords:
 - vbapb10.chm8323084
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FindReplace.MatchWidth
 ms.assetid: b9f89092-6ac0-bbf9-4bfd-d3cce2359b80

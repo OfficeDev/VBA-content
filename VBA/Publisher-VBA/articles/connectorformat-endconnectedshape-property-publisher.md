@@ -3,7 +3,7 @@ title: ConnectorFormat.EndConnectedShape Property (Publisher)
 keywords: vbapb10.chm3211524
 f1_keywords:
 - vbapb10.chm3211524
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.EndConnectedShape
 ms.assetid: 3ee4a031-228a-cac7-8268-29bfc3a888c1

@@ -3,7 +3,7 @@ title: Row.Parent Property (Publisher)
 keywords: vbapb10.chm4849668
 f1_keywords:
 - vbapb10.chm4849668
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Row.Parent
 ms.assetid: 5a646044-cab0-b31d-94f8-fbfb6c8b044e

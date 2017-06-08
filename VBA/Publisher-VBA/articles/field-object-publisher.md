@@ -3,7 +3,7 @@ title: Field Object (Publisher)
 keywords: vbapb10.chm6160383
 f1_keywords:
 - vbapb10.chm6160383
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Field
 ms.assetid: 93da311a-b834-f990-60e9-786d4f6a16f1

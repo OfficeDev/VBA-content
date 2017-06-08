@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.HorizontalFlip Property (Publisher)
 keywords: vbapb10.chm7077892
 f1_keywords:
 - vbapb10.chm7077892
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.HorizontalFlip
 ms.assetid: afb61c80-4706-8602-e78a-be35e2966c8c

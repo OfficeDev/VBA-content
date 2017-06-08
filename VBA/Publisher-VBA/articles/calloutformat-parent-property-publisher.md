@@ -3,7 +3,7 @@ title: CalloutFormat.Parent Property (Publisher)
 keywords: vbapb10.chm2490370
 f1_keywords:
 - vbapb10.chm2490370
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Parent
 ms.assetid: 2cd29cfa-2def-b3cf-de50-948568f8968a

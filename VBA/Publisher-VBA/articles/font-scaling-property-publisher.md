@@ -3,7 +3,7 @@ title: Font.Scaling Property (Publisher)
 keywords: vbapb10.chm5373977
 f1_keywords:
 - vbapb10.chm5373977
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Scaling
 ms.assetid: 4ff0c484-12f8-38e3-72fd-dfd34507aec1

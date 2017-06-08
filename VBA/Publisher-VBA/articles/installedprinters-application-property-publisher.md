@@ -3,7 +3,7 @@ title: InstalledPrinters.Application Property (Publisher)
 keywords: vbapb10.chm8912898
 f1_keywords:
 - vbapb10.chm8912898
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.InstalledPrinters.Application
 ms.assetid: d34a7749-1e93-364b-74ca-dcc7e8574747

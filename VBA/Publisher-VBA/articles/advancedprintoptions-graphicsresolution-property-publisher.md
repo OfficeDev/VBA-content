@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.GraphicsResolution Property (Publisher)
 keywords: vbapb10.chm7077909
 f1_keywords:
 - vbapb10.chm7077909
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.GraphicsResolution
 ms.assetid: 1e4e06aa-327b-5689-ff97-eea9f866260a

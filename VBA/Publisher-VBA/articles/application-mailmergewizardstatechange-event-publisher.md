@@ -3,7 +3,7 @@ title: Application.MailMergeWizardStateChange Event (Publisher)
 keywords: vbapb10.chm268435479
 f1_keywords:
 - vbapb10.chm268435479
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeWizardStateChange
 ms.assetid: 3d3fcdaa-af51-0a28-ff25-f2b92deceaf6

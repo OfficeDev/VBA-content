@@ -3,7 +3,7 @@ title: CellRange Object (Publisher)
 keywords: vbapb10.chm5242879
 f1_keywords:
 - vbapb10.chm5242879
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellRange
 ms.assetid: 86e164f3-2a04-013f-3da8-d45c013eae7b

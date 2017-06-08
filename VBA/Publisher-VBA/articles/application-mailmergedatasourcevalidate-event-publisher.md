@@ -3,7 +3,7 @@ title: Application.MailMergeDataSourceValidate Event (Publisher)
 keywords: vbapb10.chm268435480
 f1_keywords:
 - vbapb10.chm268435480
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeDataSourceValidate
 ms.assetid: 8e18b0a0-8fe8-f72e-8a75-1585367cc796

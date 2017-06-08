@@ -3,7 +3,7 @@ title: PbHelpType Enumeration (Publisher)
 keywords: vbapb10.chm65571
 f1_keywords:
 - vbapb10.chm65571
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbHelpType
 ms.assetid: 1db807b7-de68-8f95-aafb-29000ab1d16e

@@ -3,7 +3,7 @@ title: MailMergeDataFields.Count Property (Publisher)
 keywords: vbapb10.chm6356993
 f1_keywords:
 - vbapb10.chm6356993
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields.Count
 ms.assetid: f46da7b1-acd8-f2d2-a6aa-71cc3c8eca99

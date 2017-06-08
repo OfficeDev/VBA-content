@@ -3,7 +3,7 @@ title: LayoutGuides.Rows Property (Publisher)
 keywords: vbapb10.chm1114120
 f1_keywords:
 - vbapb10.chm1114120
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.Rows
 ms.assetid: a42286ef-d955-c39d-49a4-b0e54b4d1cec

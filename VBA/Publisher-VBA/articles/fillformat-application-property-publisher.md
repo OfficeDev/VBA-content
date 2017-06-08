@@ -3,7 +3,7 @@ title: FillFormat.Application Property (Publisher)
 keywords: vbapb10.chm2359297
 f1_keywords:
 - vbapb10.chm2359297
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Application
 ms.assetid: 8ef81060-38c0-82cd-221f-881138c0fe3e

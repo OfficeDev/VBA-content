@@ -3,7 +3,7 @@ title: HeaderFooter.TextRange Property (Publisher)
 keywords: vbapb10.chm7471108
 f1_keywords:
 - vbapb10.chm7471108
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter.TextRange
 ms.assetid: 4bc5004e-6516-d6d3-222a-4960716c6845

@@ -3,7 +3,7 @@ title: View.ScrollShapeIntoView Method (Publisher)
 keywords: vbapb10.chm327685
 f1_keywords:
 - vbapb10.chm327685
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.View.ScrollShapeIntoView
 ms.assetid: 1d654fd4-d3b8-49e4-731d-fed27e6e0d8d

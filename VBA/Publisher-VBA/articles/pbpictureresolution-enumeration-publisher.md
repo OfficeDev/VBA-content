@@ -3,7 +3,7 @@ title: PbPictureResolution Enumeration (Publisher)
 keywords: vbapb10.chm65622
 f1_keywords:
 - vbapb10.chm65622
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbPictureResolution
 ms.assetid: 91e32ccf-60bc-f263-795e-0e614c7e7144

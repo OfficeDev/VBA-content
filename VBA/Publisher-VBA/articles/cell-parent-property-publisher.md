@@ -3,7 +3,7 @@ title: Cell.Parent Property (Publisher)
 keywords: vbapb10.chm5111830
 f1_keywords:
 - vbapb10.chm5111830
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Parent
 ms.assetid: 2eecfc29-e349-4dfe-0751-b2c43dce2f7e

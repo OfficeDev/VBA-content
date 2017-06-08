@@ -3,7 +3,7 @@ title: FillFormat.TextureName Property (Publisher)
 keywords: vbapb10.chm2359561
 f1_keywords:
 - vbapb10.chm2359561
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.TextureName
 ms.assetid: 237a85ff-018d-f6b7-e94b-32e85fce65ab

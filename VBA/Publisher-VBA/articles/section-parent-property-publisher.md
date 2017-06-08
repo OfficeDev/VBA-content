@@ -3,7 +3,7 @@ title: Section.Parent Property (Publisher)
 keywords: vbapb10.chm7405569
 f1_keywords:
 - vbapb10.chm7405569
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Section.Parent
 ms.assetid: 081f4653-2aff-22a3-f973-e86dade13de2

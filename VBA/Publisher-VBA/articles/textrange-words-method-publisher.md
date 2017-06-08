@@ -3,7 +3,7 @@ title: TextRange.Words Method (Publisher)
 keywords: vbapb10.chm5308456
 f1_keywords:
 - vbapb10.chm5308456
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Words
 ms.assetid: df812db2-98ca-848b-7922-6905cb71124c

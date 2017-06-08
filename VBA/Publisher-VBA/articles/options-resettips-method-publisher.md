@@ -3,7 +3,7 @@ title: Options.ResetTips Method (Publisher)
 keywords: vbapb10.chm1048616
 f1_keywords:
 - vbapb10.chm1048616
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.ResetTips
 ms.assetid: a119aacc-ba19-f430-e8af-6d84c438ec25

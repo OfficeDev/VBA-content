@@ -3,7 +3,7 @@ title: Section.StartPageIndex Property (Publisher)
 keywords: vbapb10.chm7405571
 f1_keywords:
 - vbapb10.chm7405571
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Section.StartPageIndex
 ms.assetid: 531d6724-3f18-bd2a-974c-5b58d64c2af1

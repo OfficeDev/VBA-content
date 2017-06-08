@@ -3,7 +3,7 @@ title: MailMergeDataSource.RecordCount Property (Publisher)
 keywords: vbapb10.chm6291477
 f1_keywords:
 - vbapb10.chm6291477
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.RecordCount
 ms.assetid: 56b929bf-9b7f-dd83-98b7-35bf96028732

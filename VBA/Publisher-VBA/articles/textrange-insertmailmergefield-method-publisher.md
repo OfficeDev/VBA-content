@@ -3,7 +3,7 @@ title: TextRange.InsertMailMergeField Method (Publisher)
 keywords: vbapb10.chm5308483
 f1_keywords:
 - vbapb10.chm5308483
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertMailMergeField
 ms.assetid: 97bce07d-b831-3ad6-2436-f85590c3bcd8

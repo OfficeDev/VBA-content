@@ -3,7 +3,7 @@ title: TextFrame.AutoFitText Property (Publisher)
 keywords: vbapb10.chm3866630
 f1_keywords:
 - vbapb10.chm3866630
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.AutoFitText
 ms.assetid: 468a9d3e-cb9d-8147-60ea-eb839d691e7a

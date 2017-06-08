@@ -3,7 +3,7 @@ title: PageBackground.Delete Method (Publisher)
 keywords: vbapb10.chm8126470
 f1_keywords:
 - vbapb10.chm8126470
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageBackground.Delete
 ms.assetid: 3b8be6c0-302a-21ae-1f22-02cb83eee34a

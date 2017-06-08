@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.AllowBleeds Property (Publisher)
 keywords: vbapb10.chm7077906
 f1_keywords:
 - vbapb10.chm7077906
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.AllowBleeds
 ms.assetid: 0c12a611-4e1e-468b-ada2-f07d01fd4445

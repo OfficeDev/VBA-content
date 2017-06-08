@@ -3,7 +3,7 @@ title: MailMergeDataSource.Filters Property (Publisher)
 keywords: vbapb10.chm6291463
 f1_keywords:
 - vbapb10.chm6291463
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Filters
 ms.assetid: 7b8fa974-08e5-9691-c69d-314eb6a5c651

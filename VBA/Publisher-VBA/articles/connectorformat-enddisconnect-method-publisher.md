@@ -3,7 +3,7 @@ title: ConnectorFormat.EndDisconnect Method (Publisher)
 keywords: vbapb10.chm3211283
 f1_keywords:
 - vbapb10.chm3211283
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.EndDisconnect
 ms.assetid: cf46820e-99fc-cdd2-999a-f30117b5616f

@@ -3,7 +3,7 @@ title: BorderArts.Parent Property (Publisher)
 keywords: vbapb10.chm7733250
 f1_keywords:
 - vbapb10.chm7733250
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArts.Parent
 ms.assetid: 1bed2f23-8cb2-662f-e3fa-81fa8a6f52f9

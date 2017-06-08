@@ -3,7 +3,7 @@ title: PageSetup.PageHeight Property (Publisher)
 keywords: vbapb10.chm6946821
 f1_keywords:
 - vbapb10.chm6946821
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSetup.PageHeight
 ms.assetid: 1ef153e2-5d13-d896-cd69-2066efa2f8ef

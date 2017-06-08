@@ -3,7 +3,7 @@ title: PageBackground.Fill Property (Publisher)
 keywords: vbapb10.chm8126467
 f1_keywords:
 - vbapb10.chm8126467
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageBackground.Fill
 ms.assetid: bb5226aa-0b47-0d0f-1310-5abb34999910

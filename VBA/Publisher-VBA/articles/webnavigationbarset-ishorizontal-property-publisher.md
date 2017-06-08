@@ -3,7 +3,7 @@ title: WebNavigationBarSet.IsHorizontal Property (Publisher)
 keywords: vbapb10.chm8519686
 f1_keywords:
 - vbapb10.chm8519686
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.IsHorizontal
 ms.assetid: d3bbb0b0-8d06-7d46-1ef7-fef0a3e846b7

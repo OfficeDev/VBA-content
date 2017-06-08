@@ -3,7 +3,7 @@ title: MailMergeDataField.AddToRecipientFields Method (Publisher)
 keywords: vbapb10.chm6422562
 f1_keywords:
 - vbapb10.chm6422562
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.AddToRecipientFields
 ms.assetid: eaf365f0-a9f4-c6e2-1267-d0a31b5934ce

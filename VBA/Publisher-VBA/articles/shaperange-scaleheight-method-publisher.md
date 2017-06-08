@@ -3,7 +3,7 @@ title: ShapeRange.ScaleHeight Method (Publisher)
 keywords: vbapb10.chm2293797
 f1_keywords:
 - vbapb10.chm2293797
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ScaleHeight
 ms.assetid: 54058fe5-d922-0ea9-08e8-99fff89bde55

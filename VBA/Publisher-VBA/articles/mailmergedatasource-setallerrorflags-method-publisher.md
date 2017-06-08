@@ -3,7 +3,7 @@ title: MailMergeDataSource.SetAllErrorFlags Method (Publisher)
 keywords: vbapb10.chm6291488
 f1_keywords:
 - vbapb10.chm6291488
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 17c41fbb-3b21-c31a-63cd-ed26065bfa79

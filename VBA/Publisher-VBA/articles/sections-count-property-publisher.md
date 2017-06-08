@@ -3,7 +3,7 @@ title: Sections.Count Property (Publisher)
 keywords: vbapb10.chm7340034
 f1_keywords:
 - vbapb10.chm7340034
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Sections.Count
 ms.assetid: 39a8848b-e528-7635-8f02-57f200f6a4c9

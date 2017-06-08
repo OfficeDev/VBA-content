@@ -3,7 +3,7 @@ title: Shape.RerouteConnections Method (Publisher)
 keywords: vbapb10.chm2228260
 f1_keywords:
 - vbapb10.chm2228260
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.RerouteConnections
 ms.assetid: 04afd4aa-dc84-d39c-e9fa-d06f8f4c0a02

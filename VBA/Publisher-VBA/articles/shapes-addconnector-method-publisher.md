@@ -3,7 +3,7 @@ title: Shapes.AddConnector Method (Publisher)
 keywords: vbapb10.chm2162705
 f1_keywords:
 - vbapb10.chm2162705
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddConnector
 ms.assetid: fd1ef969-7960-2555-e355-9804c86f6c01

@@ -3,7 +3,7 @@ title: CalloutFormat Object (Publisher)
 keywords: vbapb10.chm2555903
 f1_keywords:
 - vbapb10.chm2555903
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat
 ms.assetid: 1f54aba3-3872-e668-fe76-1966d1a62cca

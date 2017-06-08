@@ -3,7 +3,7 @@ title: MailMergeFilters.Add Method (Publisher)
 keywords: vbapb10.chm6750212
 f1_keywords:
 - vbapb10.chm6750212
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilters.Add
 ms.assetid: ab114dda-d144-7c5f-88b0-930cadcf53db

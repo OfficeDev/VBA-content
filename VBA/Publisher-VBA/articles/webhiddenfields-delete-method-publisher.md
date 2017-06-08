@@ -3,7 +3,7 @@ title: WebHiddenFields.Delete Method (Publisher)
 keywords: vbapb10.chm3997701
 f1_keywords:
 - vbapb10.chm3997701
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Delete
 ms.assetid: 7911f9fb-b578-ee20-b9fc-d1bca99b88e0

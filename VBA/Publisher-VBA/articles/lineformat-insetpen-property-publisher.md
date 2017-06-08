@@ -3,7 +3,7 @@ title: LineFormat.InsetPen Property (Publisher)
 keywords: vbapb10.chm3408148
 f1_keywords:
 - vbapb10.chm3408148
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.InsetPen
 ms.assetid: 955b152d-517f-b5fa-6e23-765ddeb41d46

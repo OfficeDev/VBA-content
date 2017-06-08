@@ -3,7 +3,7 @@ title: ShapeRange.MoveIntoTextFlow Method (Publisher)
 keywords: vbapb10.chm2294025
 f1_keywords:
 - vbapb10.chm2294025
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.MoveIntoTextFlow
 ms.assetid: bf76c82c-09de-5238-2c48-6addc5a4f000

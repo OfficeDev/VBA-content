@@ -3,7 +3,7 @@ title: GroupShapes.Item Method (Publisher)
 keywords: vbapb10.chm3342336
 f1_keywords:
 - vbapb10.chm3342336
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.GroupShapes.Item
 ms.assetid: d0e2f8a6-6529-a274-410b-744c2bb55774

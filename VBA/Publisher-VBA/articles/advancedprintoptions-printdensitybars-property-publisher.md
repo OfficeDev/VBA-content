@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.PrintDensityBars Property (Publisher)
 keywords: vbapb10.chm7077904
 f1_keywords:
 - vbapb10.chm7077904
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PrintDensityBars
 ms.assetid: b98baed0-e2ba-bf69-78e2-d60125d7f57a

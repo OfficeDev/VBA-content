@@ -3,7 +3,7 @@ title: FillFormat.Patterned Method (Publisher)
 keywords: vbapb10.chm2359314
 f1_keywords:
 - vbapb10.chm2359314
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Patterned
 ms.assetid: 10e363b7-1160-55d3-5c97-733b7742b619

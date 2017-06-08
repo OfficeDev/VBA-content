@@ -3,7 +3,7 @@ title: ShapeNodes.Insert Method (Publisher)
 keywords: vbapb10.chm3473426
 f1_keywords:
 - vbapb10.chm3473426
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Insert
 ms.assetid: c78ceefe-db9f-4af0-2e76-2ab1e4dc74b8

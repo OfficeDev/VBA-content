@@ -3,7 +3,7 @@ title: PbTabLeaderType Enumeration (Publisher)
 keywords: vbapb10.chm65558
 f1_keywords:
 - vbapb10.chm65558
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbTabLeaderType
 ms.assetid: 56ad8132-a365-c036-c820-359d0cd9098b

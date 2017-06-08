@@ -3,7 +3,7 @@ title: PbNavBarOrientation Enumeration (Publisher)
 keywords: vbapb10.chm65624
 f1_keywords:
 - vbapb10.chm65624
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbNavBarOrientation
 ms.assetid: ca999355-f53e-f506-5be9-a2dd415ce1bb

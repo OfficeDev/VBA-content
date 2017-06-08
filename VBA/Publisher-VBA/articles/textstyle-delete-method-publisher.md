@@ -3,7 +3,7 @@ title: TextStyle.Delete Method (Publisher)
 keywords: vbapb10.chm5963792
 f1_keywords:
 - vbapb10.chm5963792
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyle.Delete
 ms.assetid: 4b04a7f3-9bf1-122f-ca09-7552e06c9222

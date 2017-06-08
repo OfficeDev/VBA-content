@@ -3,7 +3,7 @@ title: TextRange.Font Property (Publisher)
 keywords: vbapb10.chm5308419
 f1_keywords:
 - vbapb10.chm5308419
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Font
 ms.assetid: c5795f33-4e7b-f765-9ba8-f5b6706561d6

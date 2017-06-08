@@ -3,7 +3,7 @@ title: Hyperlink Object (Publisher)
 keywords: vbapb10.chm4653055
 f1_keywords:
 - vbapb10.chm4653055
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlink
 ms.assetid: 1cc6d95b-357a-c169-a5d2-6850a1a3bbd6

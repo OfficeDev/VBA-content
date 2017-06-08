@@ -3,7 +3,7 @@ title: BorderArtFormat.RevertToOriginalColor Method (Publisher)
 keywords: vbapb10.chm7602192
 f1_keywords:
 - vbapb10.chm7602192
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.RevertToOriginalColor
 ms.assetid: 6b966576-eac4-3e55-ffdc-c064341474c0

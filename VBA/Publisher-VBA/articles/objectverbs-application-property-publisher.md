@@ -3,7 +3,7 @@ title: ObjectVerbs.Application Property (Publisher)
 keywords: vbapb10.chm4521985
 f1_keywords:
 - vbapb10.chm4521985
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ObjectVerbs.Application
 ms.assetid: 84e70676-84ba-c46c-d4e7-21d409c843b1

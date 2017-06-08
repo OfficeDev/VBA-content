@@ -3,7 +3,7 @@ title: Application Object (Publisher)
 keywords: vbapb10.chm536936447
 f1_keywords:
 - vbapb10.chm536936447
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application
 ms.assetid: acfc7efb-e6a5-a89a-3aee-3cb4af2f3508

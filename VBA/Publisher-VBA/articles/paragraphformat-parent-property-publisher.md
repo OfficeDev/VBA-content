@@ -3,7 +3,7 @@ title: ParagraphFormat.Parent Property (Publisher)
 keywords: vbapb10.chm5439490
 f1_keywords:
 - vbapb10.chm5439490
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.Parent
 ms.assetid: afa92f13-222f-d48c-c739-9b21f15f1868

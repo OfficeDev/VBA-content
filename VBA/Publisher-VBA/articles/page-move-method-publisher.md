@@ -3,7 +3,7 @@ title: Page.Move Method (Publisher)
 keywords: vbapb10.chm393250
 f1_keywords:
 - vbapb10.chm393250
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Move
 ms.assetid: 754cfe41-0853-a2cf-59ee-85db68fb871a

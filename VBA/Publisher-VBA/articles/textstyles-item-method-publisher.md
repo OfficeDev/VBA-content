@@ -3,7 +3,7 @@ title: TextStyles.Item Method (Publisher)
 keywords: vbapb10.chm5898240
 f1_keywords:
 - vbapb10.chm5898240
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyles.Item
 ms.assetid: 14d1871f-c2cb-31af-e22d-10b3cf59b6fc

@@ -3,7 +3,7 @@ title: Document.Redo Event (Publisher)
 keywords: vbapb10.chm285212679
 f1_keywords:
 - vbapb10.chm285212679
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Redo
 ms.assetid: c00db13d-1c03-2536-8923-bd7d9393fee2

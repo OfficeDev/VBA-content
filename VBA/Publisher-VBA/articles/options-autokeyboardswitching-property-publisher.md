@@ -3,7 +3,7 @@ title: Options.AutoKeyboardSwitching Property (Publisher)
 keywords: vbapb10.chm1048627
 f1_keywords:
 - vbapb10.chm1048627
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.AutoKeyboardSwitching
 ms.assetid: 05f22aa6-332d-e033-ab9d-550eb08f1018

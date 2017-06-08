@@ -3,7 +3,7 @@ title: PbMergeType Enumeration (Publisher)
 keywords: vbapb10.chm6225939
 f1_keywords:
 - vbapb10.chm6225939
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbMergeType
 ms.assetid: 11b9ceee-f783-bb51-63a1-22e7bf76848b

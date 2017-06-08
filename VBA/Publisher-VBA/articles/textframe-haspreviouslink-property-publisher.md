@@ -3,7 +3,7 @@ title: TextFrame.HasPreviousLink Property (Publisher)
 keywords: vbapb10.chm3866641
 f1_keywords:
 - vbapb10.chm3866641
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.HasPreviousLink
 ms.assetid: 85e0b497-55c9-d49f-2b65-e199361c121a

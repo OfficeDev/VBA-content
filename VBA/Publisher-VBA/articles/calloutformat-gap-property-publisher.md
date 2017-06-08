@@ -3,7 +3,7 @@ title: CalloutFormat.Gap Property (Publisher)
 keywords: vbapb10.chm2490631
 f1_keywords:
 - vbapb10.chm2490631
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Gap
 ms.assetid: fd7cdac7-5f09-a574-e9ef-08feebd81cff

@@ -3,7 +3,7 @@ title: Shape.WebCheckBox Property (Publisher)
 keywords: vbapb10.chm2228344
 f1_keywords:
 - vbapb10.chm2228344
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebCheckBox
 ms.assetid: 13796525-584f-7109-5dea-1f2baf1efda7

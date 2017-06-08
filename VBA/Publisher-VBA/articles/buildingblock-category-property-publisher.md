@@ -3,7 +3,7 @@ title: BuildingBlock.Category Property (Publisher)
 keywords: vbapb10.chm9502725
 f1_keywords:
 - vbapb10.chm9502725
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Category
 ms.assetid: b2ae4f7f-46f9-7933-3a36-cb8751f99ae5

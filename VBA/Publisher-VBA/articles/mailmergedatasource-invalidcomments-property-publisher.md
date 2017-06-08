@@ -3,7 +3,7 @@ title: MailMergeDataSource.InvalidComments Property (Publisher)
 keywords: vbapb10.chm6291473
 f1_keywords:
 - vbapb10.chm6291473
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.InvalidComments
 ms.assetid: ee08b03a-57e2-d79c-ee9f-a6f9231c8d6b

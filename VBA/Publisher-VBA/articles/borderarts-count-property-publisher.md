@@ -3,7 +3,7 @@ title: BorderArts.Count Property (Publisher)
 keywords: vbapb10.chm7733251
 f1_keywords:
 - vbapb10.chm7733251
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArts.Count
 ms.assetid: 024cd14d-80f7-7372-c550-ef804661bbae

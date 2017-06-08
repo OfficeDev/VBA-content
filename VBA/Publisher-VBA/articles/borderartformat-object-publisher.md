@@ -3,7 +3,7 @@ title: BorderArtFormat Object (Publisher)
 keywords: vbapb10.chm7667711
 f1_keywords:
 - vbapb10.chm7667711
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat
 ms.assetid: ba066b2e-fe40-aeef-9275-2cc2810f63ca

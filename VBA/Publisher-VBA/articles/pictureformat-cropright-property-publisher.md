@@ -3,7 +3,7 @@ title: PictureFormat.CropRight Property (Publisher)
 keywords: vbapb10.chm3604741
 f1_keywords:
 - vbapb10.chm3604741
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropRight
 ms.assetid: b1c20de2-e2cf-708f-ddae-194c8b1b01c1

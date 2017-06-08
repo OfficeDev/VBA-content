@@ -3,7 +3,7 @@ title: Printer.PaperSize Property (Publisher)
 keywords: vbapb10.chm8978439
 f1_keywords:
 - vbapb10.chm8978439
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperSize
 ms.assetid: fa7962fb-3ca0-470a-2337-3193ed0be2aa

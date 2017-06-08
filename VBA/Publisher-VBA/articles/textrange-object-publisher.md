@@ -3,7 +3,7 @@ title: TextRange Object (Publisher)
 keywords: vbapb10.chm5373951
 f1_keywords:
 - vbapb10.chm5373951
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange
 ms.assetid: 566f240b-d2a6-8cb3-9eb7-68328d6c28bd

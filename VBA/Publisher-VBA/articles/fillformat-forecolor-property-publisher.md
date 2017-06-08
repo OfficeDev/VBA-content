@@ -3,7 +3,7 @@ title: FillFormat.ForeColor Property (Publisher)
 keywords: vbapb10.chm2359553
 f1_keywords:
 - vbapb10.chm2359553
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.ForeColor
 ms.assetid: 39e7cf23-2ff8-69f3-8bf3-9051959c5418

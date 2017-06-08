@@ -3,7 +3,7 @@ title: PictureFormat.IsEmpty Property (Publisher)
 keywords: vbapb10.chm3604788
 f1_keywords:
 - vbapb10.chm3604788
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.IsEmpty
 ms.assetid: 493cbb8f-e069-14a9-a827-7f7631eb3a09

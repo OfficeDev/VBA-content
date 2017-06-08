@@ -3,7 +3,7 @@ title: Hyperlink.SetPageRelative Method (Publisher)
 keywords: vbapb10.chm4587542
 f1_keywords:
 - vbapb10.chm4587542
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.SetPageRelative
 ms.assetid: 4b2f2e84-09ce-cef6-6f22-b82642cc71fe

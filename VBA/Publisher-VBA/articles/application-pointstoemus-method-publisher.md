@@ -3,7 +3,7 @@ title: Application.PointsToEmus Method (Publisher)
 keywords: vbapb10.chm131156
 f1_keywords:
 - vbapb10.chm131156
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToEmus
 ms.assetid: cb3f0bb9-fa0d-d967-9294-081a369c2c4e

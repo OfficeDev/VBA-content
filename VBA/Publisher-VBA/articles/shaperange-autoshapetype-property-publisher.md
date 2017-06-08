@@ -3,7 +3,7 @@ title: ShapeRange.AutoShapeType Property (Publisher)
 keywords: vbapb10.chm2293810
 f1_keywords:
 - vbapb10.chm2293810
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.AutoShapeType
 ms.assetid: fa079239-07d8-0783-db34-77ee0f2d5391

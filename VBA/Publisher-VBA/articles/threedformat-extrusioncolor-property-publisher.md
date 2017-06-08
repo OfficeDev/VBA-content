@@ -3,7 +3,7 @@ title: ThreeDFormat.ExtrusionColor Property (Publisher)
 keywords: vbapb10.chm3801345
 f1_keywords:
 - vbapb10.chm3801345
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.ExtrusionColor
 ms.assetid: 209a47fd-a219-9533-1a4a-572dfa4312f2

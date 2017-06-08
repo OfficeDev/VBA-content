@@ -3,7 +3,7 @@ title: Hyperlinks.Parent Property (Publisher)
 keywords: vbapb10.chm6881282
 f1_keywords:
 - vbapb10.chm6881282
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Parent
 ms.assetid: e3b25f19-6322-172a-3620-c3e728074655

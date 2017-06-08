@@ -3,7 +3,7 @@ title: Application.PointsToLines Method (Publisher)
 keywords: vbapb10.chm131158
 f1_keywords:
 - vbapb10.chm131158
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToLines
 ms.assetid: beab39fe-9458-6878-ae45-487a8b2271df

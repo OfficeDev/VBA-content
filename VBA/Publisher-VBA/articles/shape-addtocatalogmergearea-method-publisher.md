@@ -3,7 +3,7 @@ title: Shape.AddToCatalogMergeArea Method (Publisher)
 keywords: vbapb10.chm5308688
 f1_keywords:
 - vbapb10.chm5308688
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.AddToCatalogMergeArea
 ms.assetid: 4178d286-045f-a7b6-86b6-710bed10e824

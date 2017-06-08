@@ -3,7 +3,7 @@ title: ParagraphFormat.Tabs Property (Publisher)
 keywords: vbapb10.chm5439506
 f1_keywords:
 - vbapb10.chm5439506
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.Tabs
 ms.assetid: c42ba898-b84f-7215-129d-8134670f75ac

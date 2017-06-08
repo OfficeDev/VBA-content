@@ -3,7 +3,7 @@ title: OLEFormat Object (Publisher)
 keywords: vbapb10.chm4521983
 f1_keywords:
 - vbapb10.chm4521983
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.OLEFormat
 ms.assetid: e5b72d6b-dff8-3882-549f-e376c1e4d372

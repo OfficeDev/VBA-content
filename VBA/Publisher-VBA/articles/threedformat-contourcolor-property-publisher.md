@@ -3,7 +3,7 @@ title: ThreeDFormat.ContourColor Property (Publisher)
 keywords: vbapb10.chm3801379
 f1_keywords:
 - vbapb10.chm3801379
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 4021df2d-8e38-098f-c539-851069b91584
 ms.date: 06/08/2017
 ---

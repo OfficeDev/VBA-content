@@ -1,6 +1,6 @@
 ---
 title: MailMergeFilters.Creator Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilters.Creator
 ms.assetid: 40794712-3195-e8b5-598d-8ef8adea7281

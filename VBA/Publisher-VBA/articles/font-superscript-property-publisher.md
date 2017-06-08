@@ -3,7 +3,7 @@ title: Font.SuperScript Property (Publisher)
 keywords: vbapb10.chm5373972
 f1_keywords:
 - vbapb10.chm5373972
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.SuperScript
 ms.assetid: 582c02c9-4dcb-f826-8ec0-e9e10702f717

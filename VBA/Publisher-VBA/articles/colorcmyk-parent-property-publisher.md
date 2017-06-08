@@ -3,7 +3,7 @@ title: ColorCMYK.Parent Property (Publisher)
 keywords: vbapb10.chm2621445
 f1_keywords:
 - vbapb10.chm2621445
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Parent
 ms.assetid: e2086402-d8b4-1414-9b09-67fd142083b1

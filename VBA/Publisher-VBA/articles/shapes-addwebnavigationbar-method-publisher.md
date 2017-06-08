@@ -3,7 +3,7 @@ title: Shapes.AddWebNavigationBar Method (Publisher)
 keywords: vbapb10.chm2162736
 f1_keywords:
 - vbapb10.chm2162736
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddWebNavigationBar
 ms.assetid: 26e9622c-ea28-b28b-9904-b3a3ccc9341b

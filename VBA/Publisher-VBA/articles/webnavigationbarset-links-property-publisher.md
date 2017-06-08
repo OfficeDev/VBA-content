@@ -3,7 +3,7 @@ title: WebNavigationBarSet.Links Property (Publisher)
 keywords: vbapb10.chm8519697
 f1_keywords:
 - vbapb10.chm8519697
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.Links
 ms.assetid: 9f155781-390b-ad77-8db7-5099be1409ce

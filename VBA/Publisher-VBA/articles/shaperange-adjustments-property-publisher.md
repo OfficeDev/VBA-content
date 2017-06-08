@@ -3,7 +3,7 @@ title: ShapeRange.Adjustments Property (Publisher)
 keywords: vbapb10.chm2293809
 f1_keywords:
 - vbapb10.chm2293809
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Adjustments
 ms.assetid: 819677e0-806d-a5ac-6fce-f7b0525e63ce

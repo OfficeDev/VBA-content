@@ -3,7 +3,7 @@ title: DropCap.FontBold Property (Publisher)
 keywords: vbapb10.chm5505029
 f1_keywords:
 - vbapb10.chm5505029
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap.FontBold
 ms.assetid: 7e1b9b51-258d-080c-e5ae-cdc9d6a2ba64

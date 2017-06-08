@@ -3,7 +3,7 @@ title: Selection.Application Property (Publisher)
 keywords: vbapb10.chm851969
 f1_keywords:
 - vbapb10.chm851969
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Selection.Application
 ms.assetid: ffa0d484-c8bd-943a-f3be-c6aaa7dda5c6

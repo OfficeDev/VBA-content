@@ -3,7 +3,7 @@ title: RulerGuides.Parent Property (Publisher)
 keywords: vbapb10.chm720898
 f1_keywords:
 - vbapb10.chm720898
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Parent
 ms.assetid: 93bc55d9-6709-418b-2110-3e05ac1f9663

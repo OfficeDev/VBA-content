@@ -3,7 +3,7 @@ title: Shape.Copy Method (Publisher)
 keywords: vbapb10.chm2228242
 f1_keywords:
 - vbapb10.chm2228242
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Copy
 ms.assetid: cfec06d8-9f9b-4d88-eb28-e9e29fb1aed1

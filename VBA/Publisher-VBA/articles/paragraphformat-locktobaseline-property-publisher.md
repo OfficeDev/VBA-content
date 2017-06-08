@@ -3,7 +3,7 @@ title: ParagraphFormat.LockToBaseLine Property (Publisher)
 keywords: vbapb10.chm5439540
 f1_keywords:
 - vbapb10.chm5439540
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.LockToBaseLine
 ms.assetid: 4430bab6-a338-e61d-681c-6063d4a5c3b3

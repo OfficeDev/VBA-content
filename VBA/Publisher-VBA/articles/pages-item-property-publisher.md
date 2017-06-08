@@ -3,7 +3,7 @@ title: Pages.Item Property (Publisher)
 keywords: vbapb10.chm458752
 f1_keywords:
 - vbapb10.chm458752
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Pages.Item
 ms.assetid: b220d9bf-321d-808a-d3cf-63a641e691e0

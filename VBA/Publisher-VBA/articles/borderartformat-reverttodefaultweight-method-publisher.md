@@ -3,7 +3,7 @@ title: BorderArtFormat.RevertToDefaultWeight Method (Publisher)
 keywords: vbapb10.chm7602180
 f1_keywords:
 - vbapb10.chm7602180
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.RevertToDefaultWeight
 ms.assetid: 3e46637f-3fce-3346-9193-063be40844bd

@@ -3,7 +3,7 @@ title: Printer.PaperWidth Property (Publisher)
 keywords: vbapb10.chm8978448
 f1_keywords:
 - vbapb10.chm8978448
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperWidth
 ms.assetid: e2f0392f-56b2-0ccb-c96c-0bccf2bfe0a0

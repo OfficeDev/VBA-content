@@ -3,7 +3,7 @@ title: RulerGuides.Item Property (Publisher)
 keywords: vbapb10.chm720896
 f1_keywords:
 - vbapb10.chm720896
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Item
 ms.assetid: e0c49279-4fd4-fe61-636c-c29399fdc404

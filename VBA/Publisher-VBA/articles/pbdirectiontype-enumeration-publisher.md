@@ -3,7 +3,7 @@ title: PbDirectionType Enumeration (Publisher)
 keywords: vbapb10.chm65553
 f1_keywords:
 - vbapb10.chm65553
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbDirectionType
 ms.assetid: cb4f69e5-88a0-ab05-d61c-8b770cea147f

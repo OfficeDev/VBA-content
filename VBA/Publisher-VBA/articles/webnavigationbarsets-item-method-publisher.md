@@ -3,7 +3,7 @@ title: WebNavigationBarSets.Item Method (Publisher)
 keywords: vbapb10.chm8454144
 f1_keywords:
 - vbapb10.chm8454144
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets.Item
 ms.assetid: c2be55e3-e5ef-afbe-608e-17f2325bfdb3

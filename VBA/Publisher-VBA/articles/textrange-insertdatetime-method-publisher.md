@@ -3,7 +3,7 @@ title: TextRange.InsertDateTime Method (Publisher)
 keywords: vbapb10.chm5308453
 f1_keywords:
 - vbapb10.chm5308453
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertDateTime
 ms.assetid: 1d02471a-f22b-7dad-bcbb-40af3a04d198

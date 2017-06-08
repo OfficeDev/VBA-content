@@ -3,7 +3,7 @@ title: ShapeRange.Shadow Property (Publisher)
 keywords: vbapb10.chm2293832
 f1_keywords:
 - vbapb10.chm2293832
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Shadow
 ms.assetid: d6ee257c-9a26-abfc-9e8e-ef89bf627690

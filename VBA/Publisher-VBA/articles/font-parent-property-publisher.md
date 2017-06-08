@@ -3,7 +3,7 @@ title: Font.Parent Property (Publisher)
 keywords: vbapb10.chm5373954
 f1_keywords:
 - vbapb10.chm5373954
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Parent
 ms.assetid: c02da1ef-014f-3c83-a2a8-8afa474be4e1

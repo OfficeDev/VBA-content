@@ -3,7 +3,7 @@ title: Section.PageNumberStart Property (Publisher)
 keywords: vbapb10.chm7405572
 f1_keywords:
 - vbapb10.chm7405572
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Section.PageNumberStart
 ms.assetid: f4124b7d-4a90-2489-13da-947df0c34a3d

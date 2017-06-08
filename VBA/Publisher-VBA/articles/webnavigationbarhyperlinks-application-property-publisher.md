@@ -3,7 +3,7 @@ title: WebNavigationBarHyperlinks.Application Property (Publisher)
 keywords: vbapb10.chm8585217
 f1_keywords:
 - vbapb10.chm8585217
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks.Application
 ms.assetid: e3800fe1-6040-aedf-8822-9c5451c61d57

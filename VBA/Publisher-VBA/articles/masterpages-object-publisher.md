@@ -3,7 +3,7 @@ title: MasterPages Object (Publisher)
 keywords: vbapb10.chm655359
 f1_keywords:
 - vbapb10.chm655359
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MasterPages
 ms.assetid: 3a7e6021-cbe4-4700-018c-c91d2f7d908a

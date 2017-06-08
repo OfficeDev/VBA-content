@@ -3,7 +3,7 @@ title: TextStyle.Application Property (Publisher)
 keywords: vbapb10.chm5963777
 f1_keywords:
 - vbapb10.chm5963777
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextStyle.Application
 ms.assetid: 5196c735-65d8-5106-0d1c-3a785e3901a7

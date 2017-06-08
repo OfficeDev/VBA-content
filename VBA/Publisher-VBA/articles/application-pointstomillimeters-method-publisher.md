@@ -3,7 +3,7 @@ title: Application.PointsToMillimeters Method (Publisher)
 keywords: vbapb10.chm131159
 f1_keywords:
 - vbapb10.chm131159
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToMillimeters
 ms.assetid: eaa9154d-1a9b-81e7-58bc-3f7bf873ab97

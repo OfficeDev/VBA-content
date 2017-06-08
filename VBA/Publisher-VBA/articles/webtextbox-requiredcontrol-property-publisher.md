@@ -3,7 +3,7 @@ title: WebTextBox.RequiredControl Property (Publisher)
 keywords: vbapb10.chm4194310
 f1_keywords:
 - vbapb10.chm4194310
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.RequiredControl
 ms.assetid: 32e18d4b-7af0-b079-4baf-9acc07c3c37d

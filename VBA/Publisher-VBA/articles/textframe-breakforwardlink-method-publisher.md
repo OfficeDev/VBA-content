@@ -3,7 +3,7 @@ title: TextFrame.BreakForwardLink Method (Publisher)
 keywords: vbapb10.chm3866661
 f1_keywords:
 - vbapb10.chm3866661
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.BreakForwardLink
 ms.assetid: 60a7a798-ebd3-e00d-032d-685dd0d5a042

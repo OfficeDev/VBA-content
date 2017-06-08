@@ -3,7 +3,7 @@ title: Shape.HorizontalFlip Property (Publisher)
 keywords: vbapb10.chm2228288
 f1_keywords:
 - vbapb10.chm2228288
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.HorizontalFlip
 ms.assetid: 5a940631-c63a-efdf-6cfb-dc6b82594028

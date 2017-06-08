@@ -3,7 +3,7 @@ title: FillFormat.PresetGradient Method (Publisher)
 keywords: vbapb10.chm2359315
 f1_keywords:
 - vbapb10.chm2359315
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetGradient
 ms.assetid: d97c4ce8-5cef-6f53-d0c8-8bcf9ab8bb80

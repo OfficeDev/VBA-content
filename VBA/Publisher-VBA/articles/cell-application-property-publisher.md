@@ -3,7 +3,7 @@ title: Cell.Application Property (Publisher)
 keywords: vbapb10.chm5111809
 f1_keywords:
 - vbapb10.chm5111809
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Application
 ms.assetid: 8ed632c6-ebcd-a6c6-3de0-42b40c17ffb4

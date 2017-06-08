@@ -3,7 +3,7 @@ title: LineFormat.EndArrowheadWidth Property (Publisher)
 keywords: vbapb10.chm3408135
 f1_keywords:
 - vbapb10.chm3408135
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.EndArrowheadWidth
 ms.assetid: 20284d2d-e733-ee26-3c1c-53fd60012a75

@@ -3,7 +3,7 @@ title: MailMergeDataSource.OpenRecipientsDialog Method (Publisher)
 keywords: vbapb10.chm6291490
 f1_keywords:
 - vbapb10.chm6291490
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.OpenRecipientsDialog
 ms.assetid: 5a0a2b4a-ce23-435c-6e18-f778d6e14fd6

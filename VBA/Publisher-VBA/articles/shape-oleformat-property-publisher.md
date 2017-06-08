@@ -3,7 +3,7 @@ title: Shape.OLEFormat Property (Publisher)
 keywords: vbapb10.chm2228327
 f1_keywords:
 - vbapb10.chm2228327
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.OLEFormat
 ms.assetid: 36bffb6b-4c7b-85f9-87b3-d7d7c1aed134

@@ -3,7 +3,7 @@ title: Story.Parent Property (Publisher)
 keywords: vbapb10.chm5832706
 f1_keywords:
 - vbapb10.chm5832706
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Story.Parent
 ms.assetid: fbcc74f6-a7ba-df22-0b75-a7b365883d89

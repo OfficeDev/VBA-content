@@ -3,7 +3,7 @@ title: WebNavigationBarHyperlinks.Count Property (Publisher)
 keywords: vbapb10.chm8585219
 f1_keywords:
 - vbapb10.chm8585219
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks.Count
 ms.assetid: 55e62f9b-7d7e-50bd-bd3b-0c2fdae903df

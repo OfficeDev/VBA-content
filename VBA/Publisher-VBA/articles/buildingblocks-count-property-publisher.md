@@ -1,6 +1,6 @@
 ---
 title: BuildingBlocks.Count Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BuildingBlocks.Count
 ms.assetid: 51a653d0-3623-8ae1-3cc6-1cd2147614e4

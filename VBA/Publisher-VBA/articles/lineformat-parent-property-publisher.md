@@ -3,7 +3,7 @@ title: LineFormat.Parent Property (Publisher)
 keywords: vbapb10.chm3407874
 f1_keywords:
 - vbapb10.chm3407874
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Parent
 ms.assetid: 08fdf1b4-cfda-989d-faa4-0614aa15d157

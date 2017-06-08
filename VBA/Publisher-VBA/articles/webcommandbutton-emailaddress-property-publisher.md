@@ -3,7 +3,7 @@ title: WebCommandButton.EmailAddress Property (Publisher)
 keywords: vbapb10.chm3932167
 f1_keywords:
 - vbapb10.chm3932167
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.EmailAddress
 ms.assetid: 8961e459-1ce1-558a-2450-c3b8da2d5559

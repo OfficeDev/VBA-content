@@ -3,7 +3,7 @@ title: Cell.MarginBottom Property (Publisher)
 keywords: vbapb10.chm5111826
 f1_keywords:
 - vbapb10.chm5111826
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.MarginBottom
 ms.assetid: a05fd3a4-f4d5-232a-1f5d-0fa1bce136bd

@@ -3,7 +3,7 @@ title: ShapeRange.ConnectorFormat Property (Publisher)
 keywords: vbapb10.chm2293814
 f1_keywords:
 - vbapb10.chm2293814
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ConnectorFormat
 ms.assetid: 1a1516bd-ef27-0b37-09dd-45af8a531a76

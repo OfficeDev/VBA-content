@@ -3,7 +3,7 @@ title: MailMergeDataSource.ConnectString Property (Publisher)
 keywords: vbapb10.chm6291460
 f1_keywords:
 - vbapb10.chm6291460
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.ConnectString
 ms.assetid: d7719567-f946-6b76-3ff2-d372dcc76a17

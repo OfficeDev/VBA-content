@@ -3,7 +3,7 @@ title: Shape.SaveAsPicture Method (Publisher)
 keywords: vbapb10.chm2228375
 f1_keywords:
 - vbapb10.chm2228375
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.SaveAsPicture
 ms.assetid: 2cc18a83-b947-ca8c-eab4-71a03b79b82b

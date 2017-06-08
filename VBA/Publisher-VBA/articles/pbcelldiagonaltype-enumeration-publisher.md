@@ -3,7 +3,7 @@ title: PbCellDiagonalType Enumeration (Publisher)
 keywords: vbapb10.chm65576
 f1_keywords:
 - vbapb10.chm65576
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbCellDiagonalType
 ms.assetid: faa801d1-d8fb-95e3-e33e-183aef7132d4

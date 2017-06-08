@@ -3,7 +3,7 @@ title: DropCap.Parent Property (Publisher)
 keywords: vbapb10.chm5505026
 f1_keywords:
 - vbapb10.chm5505026
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap.Parent
 ms.assetid: fd3032ad-14d2-775f-5c1e-64de54e56a4b

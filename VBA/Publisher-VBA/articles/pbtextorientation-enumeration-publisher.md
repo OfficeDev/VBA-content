@@ -3,7 +3,7 @@ title: PbTextOrientation Enumeration (Publisher)
 keywords: vbapb10.chm65555
 f1_keywords:
 - vbapb10.chm65555
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbTextOrientation
 ms.assetid: aafe3dbf-0f22-5f18-8943-19a1ff878790

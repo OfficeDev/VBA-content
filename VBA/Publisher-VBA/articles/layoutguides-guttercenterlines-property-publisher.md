@@ -3,7 +3,7 @@ title: LayoutGuides.GutterCenterlines Property (Publisher)
 keywords: vbapb10.chm1114130
 f1_keywords:
 - vbapb10.chm1114130
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.GutterCenterlines
 ms.assetid: 7a5b1aef-85c7-548f-15e9-2c3b7327b439

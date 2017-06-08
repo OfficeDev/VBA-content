@@ -3,7 +3,7 @@ title: Shapes.AddTextEffect Method (Publisher)
 keywords: vbapb10.chm2162721
 f1_keywords:
 - vbapb10.chm2162721
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddTextEffect
 ms.assetid: 21af82f1-d507-3c16-72df-bde1b5e00717

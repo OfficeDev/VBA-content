@@ -3,7 +3,7 @@ title: PictureFormat.LinkedFileStatus Property (Publisher)
 keywords: vbapb10.chm3604787
 f1_keywords:
 - vbapb10.chm3604787
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.LinkedFileStatus
 ms.assetid: 43ddffe3-9cc3-b102-c5e8-80f26f63849c

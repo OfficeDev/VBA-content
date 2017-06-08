@@ -3,7 +3,7 @@ title: Shape.GetHeight Method (Publisher)
 keywords: vbapb10.chm2228248
 f1_keywords:
 - vbapb10.chm2228248
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.GetHeight
 ms.assetid: e94eaede-f2b3-4f68-b3ec-915354a1b0b7

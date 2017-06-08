@@ -3,7 +3,7 @@ title: CatalogMergeShapes.Application Property (Publisher)
 keywords: vbapb10.chm8388609
 f1_keywords:
 - vbapb10.chm8388609
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Application
 ms.assetid: 2673d5c7-d7da-ff89-cf54-f96f0a6482e1

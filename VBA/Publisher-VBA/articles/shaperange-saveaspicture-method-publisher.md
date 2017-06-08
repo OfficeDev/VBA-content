@@ -3,7 +3,7 @@ title: ShapeRange.SaveAsPicture Method (Publisher)
 keywords: vbapb10.chm2294050
 f1_keywords:
 - vbapb10.chm2294050
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.SaveAsPicture
 ms.assetid: 0be9b741-8f11-a386-313b-231a3269883a

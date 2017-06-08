@@ -3,7 +3,7 @@ title: Application.ProductCode Property (Publisher)
 keywords: vbapb10.chm131105
 f1_keywords:
 - vbapb10.chm131105
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ProductCode
 ms.assetid: aacd5ff6-dad1-af86-f4e0-af9012ae93f8

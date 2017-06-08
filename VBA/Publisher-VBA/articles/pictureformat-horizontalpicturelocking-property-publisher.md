@@ -3,7 +3,7 @@ title: PictureFormat.HorizontalPictureLocking Property (Publisher)
 keywords: vbapb10.chm3604752
 f1_keywords:
 - vbapb10.chm3604752
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HorizontalPictureLocking
 ms.assetid: 9a8cb8ec-24d1-4a21-d662-bcdfd26821df

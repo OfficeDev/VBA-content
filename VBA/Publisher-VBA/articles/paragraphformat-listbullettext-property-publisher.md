@@ -3,7 +3,7 @@ title: ParagraphFormat.ListBulletText Property (Publisher)
 keywords: vbapb10.chm5439523
 f1_keywords:
 - vbapb10.chm5439523
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.ListBulletText
 ms.assetid: fa80957a-be91-398f-a24f-5a0449a9466f

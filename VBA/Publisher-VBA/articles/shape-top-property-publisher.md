@@ -3,7 +3,7 @@ title: Shape.Top Property (Publisher)
 keywords: vbapb10.chm2228306
 f1_keywords:
 - vbapb10.chm2228306
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Top
 ms.assetid: 76ab84a9-651c-ddc6-6f7f-f98e2b71074f

@@ -3,7 +3,7 @@ title: Field.Code Property (Publisher)
 keywords: vbapb10.chm6094851
 f1_keywords:
 - vbapb10.chm6094851
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Field.Code
 ms.assetid: bb2f3b23-dea1-bdfb-90bf-4b4ea09570f6

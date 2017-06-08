@@ -3,7 +3,7 @@ title: CellBorder Object (Publisher)
 keywords: vbapb10.chm5308415
 f1_keywords:
 - vbapb10.chm5308415
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellBorder
 ms.assetid: c4eddeac-54cd-95ff-9423-b06e515a720e

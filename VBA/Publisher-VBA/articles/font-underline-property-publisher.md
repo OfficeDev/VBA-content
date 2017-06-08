@@ -3,7 +3,7 @@ title: Font.Underline Property (Publisher)
 keywords: vbapb10.chm5373987
 f1_keywords:
 - vbapb10.chm5373987
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Underline
 ms.assetid: a01a943e-274d-725e-3f78-aa76c51d5c46

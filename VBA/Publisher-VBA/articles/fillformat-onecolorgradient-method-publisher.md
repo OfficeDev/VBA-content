@@ -3,7 +3,7 @@ title: FillFormat.OneColorGradient Method (Publisher)
 keywords: vbapb10.chm2359313
 f1_keywords:
 - vbapb10.chm2359313
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.OneColorGradient
 ms.assetid: e4ebf7c5-41af-8227-85de-10cc08ad9f91

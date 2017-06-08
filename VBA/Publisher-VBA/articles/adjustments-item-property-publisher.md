@@ -3,7 +3,7 @@ title: Adjustments.Item Property (Publisher)
 keywords: vbapb10.chm2424832
 f1_keywords:
 - vbapb10.chm2424832
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Adjustments.Item
 ms.assetid: 9adba87a-d09d-b024-f889-4dcdab961561

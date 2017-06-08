@@ -3,7 +3,7 @@ title: CellRange.Merge Method (Publisher)
 keywords: vbapb10.chm5177352
 f1_keywords:
 - vbapb10.chm5177352
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellRange.Merge
 ms.assetid: f097659c-d1b8-f2bb-c4fc-5efc2b7417dd

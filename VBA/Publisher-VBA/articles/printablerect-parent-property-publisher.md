@@ -3,7 +3,7 @@ title: PrintableRect.Parent Property (Publisher)
 keywords: vbapb10.chm7536641
 f1_keywords:
 - vbapb10.chm7536641
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PrintableRect.Parent
 ms.assetid: 4c275f11-022a-3ad8-f9f4-0296c5e4521b

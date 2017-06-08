@@ -3,7 +3,7 @@ title: OLEFormat.ProgId Property (Publisher)
 keywords: vbapb10.chm4456452
 f1_keywords:
 - vbapb10.chm4456452
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.OLEFormat.ProgId
 ms.assetid: dae7e591-65d2-b956-e598-8746955c4182

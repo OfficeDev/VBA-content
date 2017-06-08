@@ -3,7 +3,7 @@ title: ShapeNodes.Delete Method (Publisher)
 keywords: vbapb10.chm3473425
 f1_keywords:
 - vbapb10.chm3473425
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Delete
 ms.assetid: 09f7a8ef-cefd-5a68-f0a6-e99c2f111ea6

@@ -3,7 +3,7 @@ title: Documents.Parent Property (Publisher)
 keywords: vbapb10.chm8650755
 f1_keywords:
 - vbapb10.chm8650755
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Documents.Parent
 ms.assetid: a0bca15f-39a0-f7f0-9b68-f6ba30414d50

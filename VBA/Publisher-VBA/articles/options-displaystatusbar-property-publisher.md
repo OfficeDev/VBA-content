@@ -3,7 +3,7 @@ title: Options.DisplayStatusBar Property (Publisher)
 keywords: vbapb10.chm1048583
 f1_keywords:
 - vbapb10.chm1048583
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.DisplayStatusBar
 ms.assetid: 335b2f1e-03ff-fd90-5ec2-27d5219b27e7

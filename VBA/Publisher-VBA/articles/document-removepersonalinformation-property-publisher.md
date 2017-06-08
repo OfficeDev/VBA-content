@@ -3,7 +3,7 @@ title: Document.RemovePersonalInformation Property (Publisher)
 keywords: vbapb10.chm196742
 f1_keywords:
 - vbapb10.chm196742
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.RemovePersonalInformation
 ms.assetid: bbc1aee1-90ca-966e-c17c-579064318cd1

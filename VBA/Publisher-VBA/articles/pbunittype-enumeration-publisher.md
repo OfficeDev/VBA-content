@@ -3,7 +3,7 @@ title: PbUnitType Enumeration (Publisher)
 keywords: vbapb10.chm65543
 f1_keywords:
 - vbapb10.chm65543
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbUnitType
 ms.assetid: e14ef7b5-46c2-dec6-3af2-56da77ba5491

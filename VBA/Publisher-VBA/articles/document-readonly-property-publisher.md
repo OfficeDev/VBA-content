@@ -3,7 +3,7 @@ title: Document.ReadOnly Property (Publisher)
 keywords: vbapb10.chm196647
 f1_keywords:
 - vbapb10.chm196647
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ReadOnly
 ms.assetid: 9ee6488d-3070-e784-e772-78dace2c1284

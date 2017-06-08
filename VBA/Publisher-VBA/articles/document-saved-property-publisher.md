@@ -3,7 +3,7 @@ title: Document.Saved Property (Publisher)
 keywords: vbapb10.chm196649
 f1_keywords:
 - vbapb10.chm196649
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Saved
 ms.assetid: d1f4357a-103c-2227-d1bd-50706e1f241c

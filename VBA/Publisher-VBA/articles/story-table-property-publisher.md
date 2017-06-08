@@ -3,7 +3,7 @@ title: Story.Table Property (Publisher)
 keywords: vbapb10.chm5832710
 f1_keywords:
 - vbapb10.chm5832710
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Story.Table
 ms.assetid: e9da80d3-ea3c-b47c-d434-498c72955c14

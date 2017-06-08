@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.Application Property (Publisher)
 keywords: vbapb10.chm7077890
 f1_keywords:
 - vbapb10.chm7077890
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.Application
 ms.assetid: 0fa19d12-4947-7b85-332a-5067eb467be4

@@ -3,7 +3,7 @@ title: TextRange.Paragraphs Method (Publisher)
 keywords: vbapb10.chm5308454
 f1_keywords:
 - vbapb10.chm5308454
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Paragraphs
 ms.assetid: 895c32cf-cdbe-74b0-ab47-6ae63d1bdea0

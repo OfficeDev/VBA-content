@@ -3,7 +3,7 @@ title: PictureFormat.ColorModel Property (Publisher)
 keywords: vbapb10.chm3604753
 f1_keywords:
 - vbapb10.chm3604753
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.ColorModel
 ms.assetid: 8e3e259c-943d-c1a9-f090-2ee0f0bb29f2

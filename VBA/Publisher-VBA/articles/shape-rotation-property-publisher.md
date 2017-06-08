@@ -3,7 +3,7 @@ title: Shape.Rotation Property (Publisher)
 keywords: vbapb10.chm2228294
 f1_keywords:
 - vbapb10.chm2228294
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Rotation
 ms.assetid: 3cb55e8c-83fa-2f20-caac-a1e897e9a369

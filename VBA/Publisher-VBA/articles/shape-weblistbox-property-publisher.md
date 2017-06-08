@@ -3,7 +3,7 @@ title: Shape.WebListBox Property (Publisher)
 keywords: vbapb10.chm2228341
 f1_keywords:
 - vbapb10.chm2228341
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebListBox
 ms.assetid: c100dfc7-6fbd-db48-4de9-4a9a49739a8f

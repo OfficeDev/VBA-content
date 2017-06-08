@@ -3,7 +3,7 @@ title: Story.TextRange Property (Publisher)
 keywords: vbapb10.chm5832712
 f1_keywords:
 - vbapb10.chm5832712
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Story.TextRange
 ms.assetid: c948da79-ea67-0c8c-1df3-2b32499ea9b3

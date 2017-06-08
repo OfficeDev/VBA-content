@@ -3,7 +3,7 @@ title: GroupShapes.Parent Property (Publisher)
 keywords: vbapb10.chm3342338
 f1_keywords:
 - vbapb10.chm3342338
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.GroupShapes.Parent
 ms.assetid: 94325930-eb70-f10e-8875-067d26963bcb

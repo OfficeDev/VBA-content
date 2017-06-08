@@ -3,7 +3,7 @@ title: WebNavigationBarSet.AutoUpdate Property (Publisher)
 keywords: vbapb10.chm8519689
 f1_keywords:
 - vbapb10.chm8519689
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.AutoUpdate
 ms.assetid: b9ce8dde-c09f-6fe9-6935-cb4903a17b85

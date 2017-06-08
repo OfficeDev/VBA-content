@@ -3,7 +3,7 @@ title: LinkFormat.SourceFullName Property (Publisher)
 keywords: vbapb10.chm4390915
 f1_keywords:
 - vbapb10.chm4390915
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LinkFormat.SourceFullName
 ms.assetid: a83aad48-ce27-6fe7-d26b-f00bec42e614

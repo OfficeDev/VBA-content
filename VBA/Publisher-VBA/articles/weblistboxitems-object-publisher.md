@@ -3,7 +3,7 @@ title: WebListBoxItems Object (Publisher)
 keywords: vbapb10.chm4194303
 f1_keywords:
 - vbapb10.chm4194303
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems
 ms.assetid: 6d1b6755-426b-b518-c95c-7b30f9acceba

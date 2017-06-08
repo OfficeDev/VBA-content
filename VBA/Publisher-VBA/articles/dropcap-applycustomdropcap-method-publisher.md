@@ -3,7 +3,7 @@ title: DropCap.ApplyCustomDropCap Method (Publisher)
 keywords: vbapb10.chm5505041
 f1_keywords:
 - vbapb10.chm5505041
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap.ApplyCustomDropCap
 ms.assetid: 906cf476-3826-8510-315f-425f6f50a92a

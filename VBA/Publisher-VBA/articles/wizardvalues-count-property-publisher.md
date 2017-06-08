@@ -3,7 +3,7 @@ title: WizardValues.Count Property (Publisher)
 keywords: vbapb10.chm1638403
 f1_keywords:
 - vbapb10.chm1638403
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardValues.Count
 ms.assetid: f32f3e88-fe3e-6d47-3579-c017e4fa2994

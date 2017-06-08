@@ -3,7 +3,7 @@ title: PageSetup.PublicationLayout Property (Publisher)
 keywords: vbapb10.chm6946839
 f1_keywords:
 - vbapb10.chm6946839
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 6c476789-577d-2088-37dc-bcaed25cd219
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CalloutFormat.Accent Property (Publisher)
 keywords: vbapb10.chm2490624
 f1_keywords:
 - vbapb10.chm2490624
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Accent
 ms.assetid: 8e31544c-79ed-3882-98d1-42fc88f58115

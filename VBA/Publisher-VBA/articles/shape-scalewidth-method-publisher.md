@@ -3,7 +3,7 @@ title: Shape.ScaleWidth Method (Publisher)
 keywords: vbapb10.chm2228262
 f1_keywords:
 - vbapb10.chm2228262
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.ScaleWidth
 ms.assetid: 07dcc04e-cb84-9c69-c589-87c0ff0bb147

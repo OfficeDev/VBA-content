@@ -3,7 +3,7 @@ title: PageBackground.Create Method (Publisher)
 keywords: vbapb10.chm8126469
 f1_keywords:
 - vbapb10.chm8126469
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageBackground.Create
 ms.assetid: a9b699c4-067a-2c68-5f9b-ee7ba0c22cbd

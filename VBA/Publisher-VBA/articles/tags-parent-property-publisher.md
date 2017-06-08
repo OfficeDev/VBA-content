@@ -3,7 +3,7 @@ title: Tags.Parent Property (Publisher)
 keywords: vbapb10.chm4653058
 f1_keywords:
 - vbapb10.chm4653058
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Tags.Parent
 ms.assetid: 8d164438-f15f-5232-92b4-d293b62b15da

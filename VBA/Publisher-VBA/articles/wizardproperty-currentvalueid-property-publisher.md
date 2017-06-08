@@ -3,7 +3,7 @@ title: WizardProperty.CurrentValueId Property (Publisher)
 keywords: vbapb10.chm1572869
 f1_keywords:
 - vbapb10.chm1572869
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.CurrentValueId
 ms.assetid: d8a2eeb0-f6e7-2687-5952-cddd2cc3914b

@@ -3,7 +3,7 @@ title: WebCommandButton.DataFileFormat Property (Publisher)
 keywords: vbapb10.chm3932169
 f1_keywords:
 - vbapb10.chm3932169
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.DataFileFormat
 ms.assetid: 7594b575-b39f-3cd4-d0b9-c13c04299345

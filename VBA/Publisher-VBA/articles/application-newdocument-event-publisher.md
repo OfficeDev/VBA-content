@@ -3,7 +3,7 @@ title: Application.NewDocument Event (Publisher)
 keywords: vbapb10.chm268435462
 f1_keywords:
 - vbapb10.chm268435462
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.NewDocument
 ms.assetid: 629cf55c-5134-4207-14df-143b517b9f36

@@ -3,7 +3,7 @@ title: Shapes.Paste Method (Publisher)
 keywords: vbapb10.chm2162724
 f1_keywords:
 - vbapb10.chm2162724
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.Paste
 ms.assetid: 435dd253-ae35-1dcf-ae5a-d7dfd40abf33

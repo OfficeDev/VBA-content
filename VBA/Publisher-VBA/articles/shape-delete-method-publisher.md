@@ -3,7 +3,7 @@ title: Shape.Delete Method (Publisher)
 keywords: vbapb10.chm2228243
 f1_keywords:
 - vbapb10.chm2228243
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Delete
 ms.assetid: 29dc0685-b354-427c-2b95-e02847dbb09e

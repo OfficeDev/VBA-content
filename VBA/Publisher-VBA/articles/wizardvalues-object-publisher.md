@@ -3,7 +3,7 @@ title: WizardValues Object (Publisher)
 keywords: vbapb10.chm1703935
 f1_keywords:
 - vbapb10.chm1703935
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WizardValues
 ms.assetid: 559659bb-6c9f-9325-c931-14044c059e18

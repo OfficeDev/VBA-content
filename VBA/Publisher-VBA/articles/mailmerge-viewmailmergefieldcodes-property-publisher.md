@@ -3,7 +3,7 @@ title: MailMerge.ViewMailMergeFieldCodes Property (Publisher)
 keywords: vbapb10.chm6225928
 f1_keywords:
 - vbapb10.chm6225928
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.ViewMailMergeFieldCodes
 ms.assetid: 05b5e6e2-10ae-c6e0-3214-7016295703e2

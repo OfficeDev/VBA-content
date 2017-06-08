@@ -3,7 +3,7 @@ title: MailMerge.EmailMergeEnvelope Property (Publisher)
 keywords: vbapb10.chm6225943
 f1_keywords:
 - vbapb10.chm6225943
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.EmailMergeEnvelope
 ms.assetid: 96ddcd72-c87f-9ddb-5a7f-b91be715fc79

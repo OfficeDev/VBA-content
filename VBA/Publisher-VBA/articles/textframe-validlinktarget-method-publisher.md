@@ -3,7 +3,7 @@ title: TextFrame.ValidLinkTarget Method (Publisher)
 keywords: vbapb10.chm3866662
 f1_keywords:
 - vbapb10.chm3866662
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.ValidLinkTarget
 ms.assetid: ee946f58-669f-7150-0f40-2dd3b857e274

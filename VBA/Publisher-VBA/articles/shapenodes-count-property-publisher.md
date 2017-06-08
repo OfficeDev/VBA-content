@@ -3,7 +3,7 @@ title: ShapeNodes.Count Property (Publisher)
 keywords: vbapb10.chm3473411
 f1_keywords:
 - vbapb10.chm3473411
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.Count
 ms.assetid: 5b259584-0aad-57bd-4848-cc7f6e96d430

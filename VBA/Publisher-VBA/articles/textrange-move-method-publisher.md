@@ -3,7 +3,7 @@ title: TextRange.Move Method (Publisher)
 keywords: vbapb10.chm5308422
 f1_keywords:
 - vbapb10.chm5308422
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Move
 ms.assetid: a51b4153-2ac5-2293-d2a0-d4a3786268d7

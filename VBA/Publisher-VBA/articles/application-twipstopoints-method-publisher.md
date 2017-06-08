@@ -3,7 +3,7 @@ title: Application.TwipsToPoints Method (Publisher)
 keywords: vbapb10.chm131154
 f1_keywords:
 - vbapb10.chm131154
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.TwipsToPoints
 ms.assetid: 18e1c4da-1295-31a2-d66b-ab0df807b7a6

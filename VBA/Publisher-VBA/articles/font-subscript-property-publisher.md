@@ -3,7 +3,7 @@ title: Font.SubScript Property (Publisher)
 keywords: vbapb10.chm5373973
 f1_keywords:
 - vbapb10.chm5373973
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.SubScript
 ms.assetid: 9992fdcc-dd60-b2f7-307b-99b10dc7debb

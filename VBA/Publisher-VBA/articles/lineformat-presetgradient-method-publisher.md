@@ -3,7 +3,7 @@ title: LineFormat.PresetGradient Method (Publisher)
 keywords: vbapb10.chm3407889
 f1_keywords:
 - vbapb10.chm3407889
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 1722feb5-22d0-18dc-bae8-d6c128746f3a
 ms.date: 06/08/2017
 ---

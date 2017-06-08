@@ -3,7 +3,7 @@ title: MasterPages.Parent Property (Publisher)
 keywords: vbapb10.chm589826
 f1_keywords:
 - vbapb10.chm589826
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MasterPages.Parent
 ms.assetid: 55a82ec9-7a1c-efd7-a316-85f103018b2c

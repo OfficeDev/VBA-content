@@ -3,7 +3,7 @@ title: Font.GetScriptName Method (Publisher)
 keywords: vbapb10.chm5374000
 f1_keywords:
 - vbapb10.chm5374000
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.GetScriptName
 ms.assetid: 332860de-33fa-7d6a-ac42-28c39856cff7

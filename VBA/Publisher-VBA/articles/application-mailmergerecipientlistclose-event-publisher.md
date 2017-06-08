@@ -3,7 +3,7 @@ title: Application.MailMergeRecipientListClose Event (Publisher)
 keywords: vbapb10.chm268435488
 f1_keywords:
 - vbapb10.chm268435488
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeRecipientListClose
 ms.assetid: 4fb77771-9897-8623-f4e7-61f631f04922

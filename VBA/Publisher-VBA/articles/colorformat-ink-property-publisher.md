@@ -3,7 +3,7 @@ title: ColorFormat.Ink Property (Publisher)
 keywords: vbapb10.chm2555911
 f1_keywords:
 - vbapb10.chm2555911
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.Ink
 ms.assetid: 53851337-fdce-7b72-5626-50bce370457b

@@ -3,7 +3,7 @@ title: PbPrintGraphics Enumeration (Publisher)
 keywords: vbapb10.chm65589
 f1_keywords:
 - vbapb10.chm65589
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbPrintGraphics
 ms.assetid: 48ce8605-4212-2cf0-879f-accfb036fadb

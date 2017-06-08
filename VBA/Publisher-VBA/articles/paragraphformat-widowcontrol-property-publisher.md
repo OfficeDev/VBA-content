@@ -3,7 +3,7 @@ title: ParagraphFormat.WidowControl Property (Publisher)
 keywords: vbapb10.chm5439536
 f1_keywords:
 - vbapb10.chm5439536
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.WidowControl
 ms.assetid: af1f1106-60e3-3987-3710-30fae7cf3940

@@ -3,7 +3,7 @@ title: Pages.Application Property (Publisher)
 keywords: vbapb10.chm458753
 f1_keywords:
 - vbapb10.chm458753
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Pages.Application
 ms.assetid: 19cfea9a-ee28-85c0-0982-ffa3132dd8a0

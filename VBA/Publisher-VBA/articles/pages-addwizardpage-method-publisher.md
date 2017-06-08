@@ -3,7 +3,7 @@ title: Pages.AddWizardPage Method (Publisher)
 keywords: vbapb10.chm458758
 f1_keywords:
 - vbapb10.chm458758
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Pages.AddWizardPage
 ms.assetid: c56db218-d0f4-4f13-dfde-6198dc63cc81

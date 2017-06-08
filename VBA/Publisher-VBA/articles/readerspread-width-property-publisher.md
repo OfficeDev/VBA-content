@@ -3,7 +3,7 @@ title: ReaderSpread.Width Property (Publisher)
 keywords: vbapb10.chm524295
 f1_keywords:
 - vbapb10.chm524295
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Width
 ms.assetid: d752a094-8b5e-8a41-f6e7-ce0c3ae1b5aa

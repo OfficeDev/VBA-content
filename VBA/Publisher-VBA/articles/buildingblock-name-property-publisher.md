@@ -1,6 +1,6 @@
 ---
 title: BuildingBlock.Name Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Name
 ms.assetid: 2aaa1f16-2379-1f63-8f4f-c08026e69e1a

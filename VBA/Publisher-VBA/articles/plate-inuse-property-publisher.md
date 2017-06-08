@@ -3,7 +3,7 @@ title: Plate.InUse Property (Publisher)
 keywords: vbapb10.chm2883602
 f1_keywords:
 - vbapb10.chm2883602
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.InUse
 ms.assetid: 6c98ada2-ff05-30c9-0043-afbe892dab3d

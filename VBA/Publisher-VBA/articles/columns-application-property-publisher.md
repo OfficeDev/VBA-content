@@ -3,7 +3,7 @@ title: Columns.Application Property (Publisher)
 keywords: vbapb10.chm5046273
 f1_keywords:
 - vbapb10.chm5046273
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Columns.Application
 ms.assetid: 35d2e1a7-c38c-1bdc-65e6-3e76cd9aecb6

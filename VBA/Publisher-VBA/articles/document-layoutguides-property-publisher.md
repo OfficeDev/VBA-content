@@ -3,7 +3,7 @@ title: Document.LayoutGuides Property (Publisher)
 keywords: vbapb10.chm196626
 f1_keywords:
 - vbapb10.chm196626
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.LayoutGuides
 ms.assetid: 0c45366d-6b7a-7cf3-a566-bb945ff32ba4

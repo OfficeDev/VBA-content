@@ -3,7 +3,7 @@ title: PbFixedFormatIntent Enumeration (Publisher)
 keywords: vbapb10.chm65637
 f1_keywords:
 - vbapb10.chm65637
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbFixedFormatIntent
 ms.assetid: bddb023b-181f-7805-434f-128f27d609e4

@@ -3,7 +3,7 @@ title: Shapes.AddTextbox Method (Publisher)
 keywords: vbapb10.chm2162720
 f1_keywords:
 - vbapb10.chm2162720
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddTextbox
 ms.assetid: 38494902-61d5-2017-819e-248b2b7bc0d1

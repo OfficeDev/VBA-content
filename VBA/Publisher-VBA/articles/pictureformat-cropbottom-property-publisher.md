@@ -3,7 +3,7 @@ title: PictureFormat.CropBottom Property (Publisher)
 keywords: vbapb10.chm3604739
 f1_keywords:
 - vbapb10.chm3604739
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.CropBottom
 ms.assetid: 8c504221-11da-f6f1-8fbb-75dc5c62b953

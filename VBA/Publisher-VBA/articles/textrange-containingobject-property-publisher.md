@@ -3,7 +3,7 @@ title: TextRange.ContainingObject Property (Publisher)
 keywords: vbapb10.chm5308465
 f1_keywords:
 - vbapb10.chm5308465
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.ContainingObject
 ms.assetid: f15c81b5-d03f-0d83-323b-6ec6f57b4f26

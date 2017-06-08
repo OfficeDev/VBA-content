@@ -3,7 +3,7 @@ title: PageSize.Name Property (Publisher)
 keywords: vbapb10.chm8847379
 f1_keywords:
 - vbapb10.chm8847379
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSize.Name
 ms.assetid: 7ed8d2d1-7aab-ec6a-f24a-a93bb05dcdfd

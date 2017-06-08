@@ -3,7 +3,7 @@ title: ReaderSpread.Left Property (Publisher)
 keywords: vbapb10.chm524291
 f1_keywords:
 - vbapb10.chm524291
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Left
 ms.assetid: 7734b0ac-95b6-c47c-7228-53193e8f9041

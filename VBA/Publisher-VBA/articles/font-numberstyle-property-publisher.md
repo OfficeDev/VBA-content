@@ -3,7 +3,7 @@ title: Font.NumberStyle Property (Publisher)
 keywords: vbapb10.chm5374006
 f1_keywords:
 - vbapb10.chm5374006
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: e4adedac-e3a5-4a85-8825-ba24c32dca60
 ms.date: 06/08/2017
 ---

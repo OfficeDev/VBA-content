@@ -3,7 +3,7 @@ title: TextFrame.MarginLeft Property (Publisher)
 keywords: vbapb10.chm3866644
 f1_keywords:
 - vbapb10.chm3866644
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.MarginLeft
 ms.assetid: 4e784b9f-9467-5a14-c211-589e69c3b8bc

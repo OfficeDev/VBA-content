@@ -3,7 +3,7 @@ title: PbLinkedFileStatus Enumeration (Publisher)
 keywords: vbapb10.chm65582
 f1_keywords:
 - vbapb10.chm65582
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbLinkedFileStatus
 ms.assetid: 269a265e-a1b6-7497-cc44-9605d0f0a490

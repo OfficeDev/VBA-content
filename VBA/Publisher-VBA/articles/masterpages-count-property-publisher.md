@@ -3,7 +3,7 @@ title: MasterPages.Count Property (Publisher)
 keywords: vbapb10.chm589827
 f1_keywords:
 - vbapb10.chm589827
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MasterPages.Count
 ms.assetid: adb14000-5dc4-9154-5c5f-8f63c89309b7

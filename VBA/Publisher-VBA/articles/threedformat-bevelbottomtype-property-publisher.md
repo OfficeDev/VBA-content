@@ -3,7 +3,7 @@ title: ThreeDFormat.BevelBottomType Property (Publisher)
 keywords: vbapb10.chm3801367
 f1_keywords:
 - vbapb10.chm3801367
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: ed6173e5-e487-b69e-1d82-b5af103340bd
 ms.date: 06/08/2017
 ---

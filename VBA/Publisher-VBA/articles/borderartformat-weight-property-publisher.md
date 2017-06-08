@@ -3,7 +3,7 @@ title: BorderArtFormat.Weight Property (Publisher)
 keywords: vbapb10.chm7602182
 f1_keywords:
 - vbapb10.chm7602182
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Weight
 ms.assetid: 8ff67c8b-be41-a02e-5433-624baa0d888e

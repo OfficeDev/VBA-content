@@ -3,7 +3,7 @@ title: PrintableRect Object (Publisher)
 keywords: vbapb10.chm7602175
 f1_keywords:
 - vbapb10.chm7602175
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PrintableRect
 ms.assetid: fd99e9d4-81d9-63ae-78ca-f7a16b031239

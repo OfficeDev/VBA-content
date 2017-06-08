@@ -3,7 +3,7 @@ title: ColorSchemes.Count Property (Publisher)
 keywords: vbapb10.chm2752514
 f1_keywords:
 - vbapb10.chm2752514
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorSchemes.Count
 ms.assetid: cd3fe69f-df35-8dcd-1133-634983155592

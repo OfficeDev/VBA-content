@@ -3,7 +3,7 @@ title: Shape.WizardTag Property (Publisher)
 keywords: vbapb10.chm2228324
 f1_keywords:
 - vbapb10.chm2228324
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WizardTag
 ms.assetid: b93bbdf9-6ce7-3ba6-566a-b11f8044fbda

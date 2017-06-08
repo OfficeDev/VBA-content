@@ -3,7 +3,7 @@ title: PageSize.LeftMargin Property (Publisher)
 keywords: vbapb10.chm8847366
 f1_keywords:
 - vbapb10.chm8847366
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSize.LeftMargin
 ms.assetid: e1cb706e-6b0e-a7c2-494f-3e77717215cb

@@ -3,7 +3,7 @@ title: ConnectorFormat.EndConnectionSite Property (Publisher)
 keywords: vbapb10.chm3211525
 f1_keywords:
 - vbapb10.chm3211525
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.EndConnectionSite
 ms.assetid: 61d38281-7a48-99e1-bda7-67e61b7225a2

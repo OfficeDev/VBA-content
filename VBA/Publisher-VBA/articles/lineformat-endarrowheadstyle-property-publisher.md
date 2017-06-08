@@ -3,7 +3,7 @@ title: LineFormat.EndArrowheadStyle Property (Publisher)
 keywords: vbapb10.chm3408134
 f1_keywords:
 - vbapb10.chm3408134
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.EndArrowheadStyle
 ms.assetid: 991354c7-3f2c-a882-74d6-1c5cd3019494

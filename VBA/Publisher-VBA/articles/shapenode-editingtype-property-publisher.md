@@ -3,7 +3,7 @@ title: ShapeNode.EditingType Property (Publisher)
 keywords: vbapb10.chm3539200
 f1_keywords:
 - vbapb10.chm3539200
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNode.EditingType
 ms.assetid: f01db634-b35a-48cd-851d-418848674686

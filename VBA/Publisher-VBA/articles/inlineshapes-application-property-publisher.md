@@ -3,7 +3,7 @@ title: InlineShapes.Application Property (Publisher)
 keywords: vbapb10.chm5767169
 f1_keywords:
 - vbapb10.chm5767169
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.InlineShapes.Application
 ms.assetid: b68fb1e8-e749-f9ce-5621-89f019005cde

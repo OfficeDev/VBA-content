@@ -3,7 +3,7 @@ title: MailMergeDataSource.Included Property (Publisher)
 keywords: vbapb10.chm6291465
 f1_keywords:
 - vbapb10.chm6291465
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Included
 ms.assetid: 1cdac925-5fd6-e1d0-4612-0641e6057a7e

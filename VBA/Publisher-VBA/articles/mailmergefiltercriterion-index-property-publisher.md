@@ -3,7 +3,7 @@ title: MailMergeFilterCriterion.Index Property (Publisher)
 keywords: vbapb10.chm6815745
 f1_keywords:
 - vbapb10.chm6815745
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Index
 ms.assetid: e66e5afd-db28-cd00-9692-3b1a6d557198

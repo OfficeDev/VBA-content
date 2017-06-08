@@ -3,7 +3,7 @@ title: TabStop.Clear Method (Publisher)
 keywords: vbapb10.chm5636102
 f1_keywords:
 - vbapb10.chm5636102
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TabStop.Clear
 ms.assetid: 1627513d-0ccd-434f-68c9-9b7d0749261f

@@ -3,7 +3,7 @@ title: TextFrame.Overflowing Property (Publisher)
 keywords: vbapb10.chm3866649
 f1_keywords:
 - vbapb10.chm3866649
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Overflowing
 ms.assetid: 5a0f053b-519a-1637-0d73-992c56cdd7f0

@@ -3,7 +3,7 @@ title: Section Object (Publisher)
 keywords: vbapb10.chm7471103
 f1_keywords:
 - vbapb10.chm7471103
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Section
 ms.assetid: 7e92a8de-ed66-564b-2657-cef0fc2392b8

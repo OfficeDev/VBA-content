@@ -3,7 +3,7 @@ title: Document.Find Property (Publisher)
 keywords: vbapb10.chm196725
 f1_keywords:
 - vbapb10.chm196725
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Find
 ms.assetid: e9b31937-4504-79b5-5913-b2ef0a23f2a7

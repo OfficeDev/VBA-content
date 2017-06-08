@@ -3,7 +3,7 @@ title: Application.ColorSchemes Property (Publisher)
 keywords: vbapb10.chm131080
 f1_keywords:
 - vbapb10.chm131080
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ColorSchemes
 ms.assetid: b991d8a2-d25d-839a-c14a-18cb6d126d33

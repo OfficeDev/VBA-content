@@ -3,7 +3,7 @@ title: Document.MailEnvelope Property (Publisher)
 keywords: vbapb10.chm196627
 f1_keywords:
 - vbapb10.chm196627
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.MailEnvelope
 ms.assetid: 3c4c734a-6725-5f6e-ed0a-5b19e4e642bd

@@ -3,7 +3,7 @@ title: ShapeRange.Nodes Property (Publisher)
 keywords: vbapb10.chm2293829
 f1_keywords:
 - vbapb10.chm2293829
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Nodes
 ms.assetid: 513be66c-558c-f5f3-ed89-0ef4bc5a0101

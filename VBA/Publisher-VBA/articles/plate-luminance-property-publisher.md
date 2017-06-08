@@ -3,7 +3,7 @@ title: Plate.Luminance Property (Publisher)
 keywords: vbapb10.chm2883590
 f1_keywords:
 - vbapb10.chm2883590
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.Luminance
 ms.assetid: 8d84fe74-8421-4ec2-bf6e-a156a0c0018b

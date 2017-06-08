@@ -3,7 +3,7 @@ title: Document.ActiveView Property (Publisher)
 keywords: vbapb10.chm196707
 f1_keywords:
 - vbapb10.chm196707
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.ActiveView
 ms.assetid: 1448c8c6-30e5-2e2a-f124-ebf544d8f297

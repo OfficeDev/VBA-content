@@ -3,7 +3,7 @@ title: WebOptions.RelyOnVML Property (Publisher)
 keywords: vbapb10.chm8257543
 f1_keywords:
 - vbapb10.chm8257543
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebOptions.RelyOnVML
 ms.assetid: 8cd29d64-48a6-d33e-cb9d-6b1ea094069a

@@ -3,7 +3,7 @@ title: TextRange.MoveStart Method (Publisher)
 keywords: vbapb10.chm5308423
 f1_keywords:
 - vbapb10.chm5308423
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.MoveStart
 ms.assetid: 5a9c480b-3cb7-0fd8-59c0-e2f93a925164

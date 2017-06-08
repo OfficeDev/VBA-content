@@ -3,7 +3,7 @@ title: FillFormat.GradientVariant Property (Publisher)
 keywords: vbapb10.chm2359557
 f1_keywords:
 - vbapb10.chm2359557
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.GradientVariant
 ms.assetid: f57224dc-e9c6-e1aa-e950-97dfd5ed483f

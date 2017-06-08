@@ -3,7 +3,7 @@ title: ThreeDFormat.Parent Property (Publisher)
 keywords: vbapb10.chm3801090
 f1_keywords:
 - vbapb10.chm3801090
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Parent
 ms.assetid: 97e63fd4-9a1a-3770-3716-e8406c680d5a

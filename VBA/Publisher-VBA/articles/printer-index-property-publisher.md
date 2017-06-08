@@ -3,7 +3,7 @@ title: Printer.Index Property (Publisher)
 keywords: vbapb10.chm8978432
 f1_keywords:
 - vbapb10.chm8978432
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.Index
 ms.assetid: 2030a3d4-2e42-679c-6084-7a3959271e58

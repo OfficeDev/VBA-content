@@ -3,7 +3,7 @@ title: BorderArtFormat.Exists Property (Publisher)
 keywords: vbapb10.chm7602193
 f1_keywords:
 - vbapb10.chm7602193
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Exists
 ms.assetid: 572cc1c9-fbe7-a171-b98e-1ffad658ce2c

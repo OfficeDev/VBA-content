@@ -3,7 +3,7 @@ title: FillFormat.UserPicture Method (Publisher)
 keywords: vbapb10.chm2359319
 f1_keywords:
 - vbapb10.chm2359319
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.UserPicture
 ms.assetid: b1eaf724-42b4-657f-4d88-bc8547664893

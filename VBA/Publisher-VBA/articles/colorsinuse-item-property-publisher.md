@@ -3,7 +3,7 @@ title: ColorsInUse.Item Property (Publisher)
 keywords: vbapb10.chm2949120
 f1_keywords:
 - vbapb10.chm2949120
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse.Item
 ms.assetid: aaeb4351-0896-812c-5f0d-6edd4f0eba93

@@ -3,7 +3,7 @@ title: DropCap.FontName Property (Publisher)
 keywords: vbapb10.chm5505027
 f1_keywords:
 - vbapb10.chm5505027
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.DropCap.FontName
 ms.assetid: f5220c46-09b4-7860-0b85-7d44af05e3a9

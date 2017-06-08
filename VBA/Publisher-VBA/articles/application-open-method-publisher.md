@@ -3,7 +3,7 @@ title: Application.Open Method (Publisher)
 keywords: vbapb10.chm131128
 f1_keywords:
 - vbapb10.chm131128
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Open
 ms.assetid: 560ac406-f058-8fd8-4b6d-978ff369de9b

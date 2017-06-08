@@ -3,7 +3,7 @@ title: Options.SaveAutoRecoverInfo Property (Publisher)
 keywords: vbapb10.chm1048599
 f1_keywords:
 - vbapb10.chm1048599
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Options.SaveAutoRecoverInfo
 ms.assetid: 1cbb7960-8995-37f4-5989-01b97152269f

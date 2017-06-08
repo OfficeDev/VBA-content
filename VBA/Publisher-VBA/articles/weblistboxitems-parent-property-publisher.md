@@ -3,7 +3,7 @@ title: WebListBoxItems.Parent Property (Publisher)
 keywords: vbapb10.chm4128770
 f1_keywords:
 - vbapb10.chm4128770
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems.Parent
 ms.assetid: 71c964bc-c846-8113-2de6-4ce8da41baf2

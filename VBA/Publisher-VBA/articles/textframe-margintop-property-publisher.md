@@ -3,7 +3,7 @@ title: TextFrame.MarginTop Property (Publisher)
 keywords: vbapb10.chm3866645
 f1_keywords:
 - vbapb10.chm3866645
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.MarginTop
 ms.assetid: 9709eefe-0857-f228-aa56-780c4789a413

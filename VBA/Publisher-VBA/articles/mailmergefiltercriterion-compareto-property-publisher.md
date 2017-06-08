@@ -3,7 +3,7 @@ title: MailMergeFilterCriterion.CompareTo Property (Publisher)
 keywords: vbapb10.chm6815749
 f1_keywords:
 - vbapb10.chm6815749
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.CompareTo
 ms.assetid: 6e81fa38-a5d7-8421-6722-a18c5e9a8229

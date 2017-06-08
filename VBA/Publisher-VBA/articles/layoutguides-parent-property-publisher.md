@@ -3,7 +3,7 @@ title: LayoutGuides.Parent Property (Publisher)
 keywords: vbapb10.chm1114121
 f1_keywords:
 - vbapb10.chm1114121
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.Parent
 ms.assetid: ed45fad9-e402-d799-b5de-58756653f393

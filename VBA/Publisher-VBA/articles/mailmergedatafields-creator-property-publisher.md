@@ -1,6 +1,6 @@
 ---
 title: MailMergeDataFields.Creator Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields.Creator
 ms.assetid: 3d3adcd4-6746-7c0b-58be-bba04f9ba1e2

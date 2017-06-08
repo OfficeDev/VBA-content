@@ -3,7 +3,7 @@ title: MailMergeDataField.MapToRecipientField Method (Publisher)
 keywords: vbapb10.chm6422563
 f1_keywords:
 - vbapb10.chm6422563
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.MapToRecipientField
 ms.assetid: d3da8a00-e2ca-b07b-cc8f-02d729cb149c

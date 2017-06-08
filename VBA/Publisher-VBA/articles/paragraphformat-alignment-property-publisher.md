@@ -3,7 +3,7 @@ title: ParagraphFormat.Alignment Property (Publisher)
 keywords: vbapb10.chm5439491
 f1_keywords:
 - vbapb10.chm5439491
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.Alignment
 ms.assetid: db66f8b8-a813-418c-2735-e5299e6a6045

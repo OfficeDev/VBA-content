@@ -3,7 +3,7 @@ title: TextEffectFormat.Tracking Property (Publisher)
 keywords: vbapb10.chm3735825
 f1_keywords:
 - vbapb10.chm3735825
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.Tracking
 ms.assetid: 9e110e21-be0c-ec49-6bc4-1ff210de141c

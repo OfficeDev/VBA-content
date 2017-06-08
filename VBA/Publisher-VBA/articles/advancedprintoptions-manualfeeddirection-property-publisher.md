@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.ManualFeedDirection Property (Publisher)
 keywords: vbapb10.chm7077929
 f1_keywords:
 - vbapb10.chm7077929
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedDirection
 ms.assetid: 6c241594-d113-c3bd-5669-d3046e824c4e

@@ -3,7 +3,7 @@ title: WebOptionButton.ReturnDataLabel Property (Publisher)
 keywords: vbapb10.chm4259843
 f1_keywords:
 - vbapb10.chm4259843
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebOptionButton.ReturnDataLabel
 ms.assetid: 22b4a4d6-1068-2b35-d054-42bbea3f9098

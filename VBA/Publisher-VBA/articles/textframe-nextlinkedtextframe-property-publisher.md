@@ -3,7 +3,7 @@ title: TextFrame.NextLinkedTextFrame Property (Publisher)
 keywords: vbapb10.chm3866648
 f1_keywords:
 - vbapb10.chm3866648
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.NextLinkedTextFrame
 ms.assetid: 5ba08ab5-8515-4efe-59a3-79a11f6a7c4e

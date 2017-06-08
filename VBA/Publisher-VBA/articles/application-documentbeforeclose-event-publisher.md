@@ -3,7 +3,7 @@ title: Application.DocumentBeforeClose Event (Publisher)
 keywords: vbapb10.chm268435464
 f1_keywords:
 - vbapb10.chm268435464
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.DocumentBeforeClose
 ms.assetid: d3ca4397-4df3-dc77-b758-d47e0bf13fe5

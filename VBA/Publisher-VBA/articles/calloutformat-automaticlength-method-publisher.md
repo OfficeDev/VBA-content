@@ -3,7 +3,7 @@ title: CalloutFormat.AutomaticLength Method (Publisher)
 keywords: vbapb10.chm2490384
 f1_keywords:
 - vbapb10.chm2490384
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.AutomaticLength
 ms.assetid: 3772ad87-9808-5f25-0b9c-cdd7b1392ca1

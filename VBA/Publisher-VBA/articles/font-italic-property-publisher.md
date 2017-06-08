@@ -3,7 +3,7 @@ title: Font.Italic Property (Publisher)
 keywords: vbapb10.chm5373968
 f1_keywords:
 - vbapb10.chm5373968
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.Italic
 ms.assetid: c55c0bfa-a365-86ac-4cfb-f6911dadd0af

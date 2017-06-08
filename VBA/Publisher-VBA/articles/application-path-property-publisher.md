@@ -3,7 +3,7 @@ title: Application.Path Property (Publisher)
 keywords: vbapb10.chm131097
 f1_keywords:
 - vbapb10.chm131097
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Path
 ms.assetid: 36ac9a9c-8235-aeba-c3d5-d39aef960cc5

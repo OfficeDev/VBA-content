@@ -1,6 +1,6 @@
 ---
 title: MailMergeFilterCriterion.Application Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Application
 ms.assetid: 23438144-f791-8c76-d81c-aa40f592b948

@@ -3,7 +3,7 @@ title: Cell.Diagonal Property (Publisher)
 keywords: vbapb10.chm5111816
 f1_keywords:
 - vbapb10.chm5111816
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Diagonal
 ms.assetid: 4ec93690-38ef-7434-55a5-419f14c9ea73

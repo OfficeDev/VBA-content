@@ -3,7 +3,7 @@ title: Plate.ConvertToProcess Method (Publisher)
 keywords: vbapb10.chm2883601
 f1_keywords:
 - vbapb10.chm2883601
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.ConvertToProcess
 ms.assetid: 26476701-aa82-ca44-20c8-55a332a6539a

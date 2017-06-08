@@ -3,7 +3,7 @@ title: PictureFormat.FileSize Property (Publisher)
 keywords: vbapb10.chm3604757
 f1_keywords:
 - vbapb10.chm3604757
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.FileSize
 ms.assetid: 8bad7bc0-7381-9bd8-3db8-5841e41ccb34

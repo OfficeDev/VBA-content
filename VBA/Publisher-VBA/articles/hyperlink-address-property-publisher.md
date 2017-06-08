@@ -3,7 +3,7 @@ title: Hyperlink.Address Property (Publisher)
 keywords: vbapb10.chm4587523
 f1_keywords:
 - vbapb10.chm4587523
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Address
 ms.assetid: 784a9213-38bc-c5fd-f215-abeb174ec628

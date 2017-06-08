@@ -3,7 +3,7 @@ title: Cell.BorderDiagonal Property (Publisher)
 keywords: vbapb10.chm5111810
 f1_keywords:
 - vbapb10.chm5111810
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderDiagonal
 ms.assetid: 2c857a1b-2a0f-5796-9397-ad113dd984cb

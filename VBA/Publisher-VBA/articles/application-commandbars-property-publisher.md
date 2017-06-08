@@ -3,7 +3,7 @@ title: Application.CommandBars Property (Publisher)
 keywords: vbapb10.chm131088
 f1_keywords:
 - vbapb10.chm131088
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2

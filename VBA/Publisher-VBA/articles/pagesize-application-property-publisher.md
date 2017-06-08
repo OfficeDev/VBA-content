@@ -3,7 +3,7 @@ title: PageSize.Application Property (Publisher)
 keywords: vbapb10.chm8847362
 f1_keywords:
 - vbapb10.chm8847362
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSize.Application
 ms.assetid: 397e9db8-e12d-55bb-0b34-406e0c3666e0

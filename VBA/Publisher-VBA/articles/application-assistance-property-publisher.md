@@ -1,6 +1,6 @@
 ---
 title: Application.Assistance Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Assistance
 ms.assetid: 2abac248-bec5-876f-9ae5-88a59ce16b59

@@ -3,7 +3,7 @@ title: Document.UndoActionsAvailable Property (Publisher)
 keywords: vbapb10.chm196726
 f1_keywords:
 - vbapb10.chm196726
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.UndoActionsAvailable
 ms.assetid: 1dd20295-3987-c36d-ccc1-9e18a7887f33

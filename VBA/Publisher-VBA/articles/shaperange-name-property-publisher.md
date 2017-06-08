@@ -3,7 +3,7 @@ title: ShapeRange.Name Property (Publisher)
 keywords: vbapb10.chm2293828
 f1_keywords:
 - vbapb10.chm2293828
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Name
 ms.assetid: 517eca4b-fa8c-0f6a-2829-75704bb4c899

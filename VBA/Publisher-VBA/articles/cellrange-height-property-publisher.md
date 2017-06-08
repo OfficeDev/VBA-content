@@ -3,7 +3,7 @@ title: CellRange.Height Property (Publisher)
 keywords: vbapb10.chm5177348
 f1_keywords:
 - vbapb10.chm5177348
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellRange.Height
 ms.assetid: c4367357-5c33-7461-0cb4-a3fc392bc4bc

@@ -3,7 +3,7 @@ title: Shape.Line Property (Publisher)
 keywords: vbapb10.chm2228290
 f1_keywords:
 - vbapb10.chm2228290
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Line
 ms.assetid: 3d53f917-87ad-159d-65c3-e6fdfa72b15e

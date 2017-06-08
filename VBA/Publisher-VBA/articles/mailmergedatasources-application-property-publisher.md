@@ -1,6 +1,6 @@
 ---
 title: MailMergeDataSources.Application Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources.Application
 ms.assetid: 71ea1c44-beb8-c830-26b1-3209fcfb1cfd

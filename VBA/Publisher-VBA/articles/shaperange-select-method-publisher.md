@@ -3,7 +3,7 @@ title: ShapeRange.Select Method (Publisher)
 keywords: vbapb10.chm2293799
 f1_keywords:
 - vbapb10.chm2293799
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Select
 ms.assetid: 3252ba74-d051-8c28-a9ed-c6f5ca711dec

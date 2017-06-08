@@ -3,7 +3,7 @@ title: MailMergeDataFields.Item Method (Publisher)
 keywords: vbapb10.chm6356995
 f1_keywords:
 - vbapb10.chm6356995
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataFields.Item
 ms.assetid: d0305807-90a2-87eb-60cb-cd45925c5ed0

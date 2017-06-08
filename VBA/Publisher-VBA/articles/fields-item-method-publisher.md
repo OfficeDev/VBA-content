@@ -3,7 +3,7 @@ title: Fields.Item Method (Publisher)
 keywords: vbapb10.chm6029312
 f1_keywords:
 - vbapb10.chm6029312
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Fields.Item
 ms.assetid: 95783e5a-2c82-235e-75a4-5ac15938718e

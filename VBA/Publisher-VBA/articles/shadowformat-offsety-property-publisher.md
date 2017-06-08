@@ -3,7 +3,7 @@ title: ShadowFormat.OffsetY Property (Publisher)
 keywords: vbapb10.chm3670275
 f1_keywords:
 - vbapb10.chm3670275
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OffsetY
 ms.assetid: e7deb108-e027-dd61-714f-1a76e904009b

@@ -3,7 +3,7 @@ title: Cell.BorderLeft Property (Publisher)
 keywords: vbapb10.chm5111812
 f1_keywords:
 - vbapb10.chm5111812
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderLeft
 ms.assetid: f996a96f-4392-48c2-e5c2-bfe373a7997a

@@ -3,7 +3,7 @@ title: Table.Rows Property (Publisher)
 keywords: vbapb10.chm4784134
 f1_keywords:
 - vbapb10.chm4784134
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table.Rows
 ms.assetid: 97a543b9-a1d7-c7f8-9f3c-e08256e0b364

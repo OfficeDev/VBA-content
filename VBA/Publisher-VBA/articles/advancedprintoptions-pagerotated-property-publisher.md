@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.PageRotated Property (Publisher)
 keywords: vbapb10.chm7077936
 f1_keywords:
 - vbapb10.chm7077936
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PageRotated
 ms.assetid: 3880c99f-0fa3-080d-8ee3-94c061bb8ac8

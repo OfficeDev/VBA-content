@@ -3,7 +3,7 @@ title: ShapeRange.Distribute Method (Publisher)
 keywords: vbapb10.chm2294017
 f1_keywords:
 - vbapb10.chm2294017
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Distribute
 ms.assetid: a145fb46-d7b6-bc3c-b7fd-cdb892fda179

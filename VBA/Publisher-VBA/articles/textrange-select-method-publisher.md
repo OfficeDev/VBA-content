@@ -3,7 +3,7 @@ title: TextRange.Select Method (Publisher)
 keywords: vbapb10.chm5308457
 f1_keywords:
 - vbapb10.chm5308457
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Select
 ms.assetid: 36097502-2b06-37ac-3148-43a82cca4411

@@ -3,7 +3,7 @@ title: Document.TextStyles Property (Publisher)
 keywords: vbapb10.chm196662
 f1_keywords:
 - vbapb10.chm196662
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.TextStyles
 ms.assetid: a628e5c1-aed7-dd70-81fa-d9fb54afb527

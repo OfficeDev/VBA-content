@@ -3,7 +3,7 @@ title: Shape.VerticalFlip Property (Publisher)
 keywords: vbapb10.chm2228308
 f1_keywords:
 - vbapb10.chm2228308
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.VerticalFlip
 ms.assetid: b3c7492f-08ee-8fad-102a-8e2a2f69b969

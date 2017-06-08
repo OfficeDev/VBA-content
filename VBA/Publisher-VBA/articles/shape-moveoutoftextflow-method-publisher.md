@@ -3,7 +3,7 @@ title: Shape.MoveOutOfTextFlow Method (Publisher)
 keywords: vbapb10.chm2228357
 f1_keywords:
 - vbapb10.chm2228357
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.MoveOutOfTextFlow
 ms.assetid: 44411d6b-a627-f0c1-0576-2918f586ff0b

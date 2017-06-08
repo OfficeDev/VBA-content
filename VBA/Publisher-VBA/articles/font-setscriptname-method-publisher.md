@@ -3,7 +3,7 @@ title: Font.SetScriptName Method (Publisher)
 keywords: vbapb10.chm5374001
 f1_keywords:
 - vbapb10.chm5374001
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Font.SetScriptName
 ms.assetid: f1f2c01e-098c-1afd-0e64-1d563c1ca626

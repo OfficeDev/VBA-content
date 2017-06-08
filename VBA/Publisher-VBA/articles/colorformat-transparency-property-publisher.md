@@ -3,7 +3,7 @@ title: ColorFormat.Transparency Property (Publisher)
 keywords: vbapb10.chm2555920
 f1_keywords:
 - vbapb10.chm2555920
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.Transparency
 ms.assetid: 22162523-7745-0836-bfc3-cca69e6b2c69

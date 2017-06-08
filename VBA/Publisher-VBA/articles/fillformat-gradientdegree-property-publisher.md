@@ -3,7 +3,7 @@ title: FillFormat.GradientDegree Property (Publisher)
 keywords: vbapb10.chm2359555
 f1_keywords:
 - vbapb10.chm2359555
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.GradientDegree
 ms.assetid: b2eba471-5f03-4904-f876-edea4d40a908

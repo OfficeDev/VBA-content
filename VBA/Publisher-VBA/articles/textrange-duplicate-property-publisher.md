@@ -3,7 +3,7 @@ title: TextRange.Duplicate Property (Publisher)
 keywords: vbapb10.chm5308466
 f1_keywords:
 - vbapb10.chm5308466
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Duplicate
 ms.assetid: 545dbfdb-4cd5-99b1-1ba3-b723e8d7b827

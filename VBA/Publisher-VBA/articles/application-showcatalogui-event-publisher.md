@@ -3,7 +3,7 @@ title: Application.ShowCatalogUI Event (Publisher)
 keywords: vbapb10.chm268435493
 f1_keywords:
 - vbapb10.chm268435493
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ShowCatalogUI
 ms.assetid: 8a5a3798-4b95-d77f-70f6-d69dd9dc8f99

@@ -3,7 +3,7 @@ title: ThreeDFormat.BevelTopInset Property (Publisher)
 keywords: vbapb10.chm3801365
 f1_keywords:
 - vbapb10.chm3801365
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: d4bdeed9-36e0-1e4d-d881-cfc912a0ed61
 ms.date: 06/08/2017
 ---

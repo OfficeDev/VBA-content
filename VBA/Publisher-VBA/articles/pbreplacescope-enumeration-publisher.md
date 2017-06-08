@@ -3,7 +3,7 @@ title: PbReplaceScope Enumeration (Publisher)
 keywords: vbapb10.chm65611
 f1_keywords:
 - vbapb10.chm65611
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbReplaceScope
 ms.assetid: 17c0eb7e-9572-40cf-843b-451ef6c1fb93

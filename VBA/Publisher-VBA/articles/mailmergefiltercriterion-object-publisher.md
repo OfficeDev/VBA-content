@@ -3,7 +3,7 @@ title: MailMergeFilterCriterion Object (Publisher)
 keywords: vbapb10.chm6881279
 f1_keywords:
 - vbapb10.chm6881279
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion
 ms.assetid: 2814890f-009b-b277-3ea4-c1f167a5e1c9

@@ -3,7 +3,7 @@ title: PbPhoneticGuideAlignmentType Enumeration (Publisher)
 keywords: vbapb10.chm65551
 f1_keywords:
 - vbapb10.chm65551
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbPhoneticGuideAlignmentType
 ms.assetid: 882833f8-bf2b-e3b5-4568-344c4a2edf36

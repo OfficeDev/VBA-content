@@ -3,7 +3,7 @@ title: CatalogMergeShapes.VerticalRepeat Property (Publisher)
 keywords: vbapb10.chm8388614
 f1_keywords:
 - vbapb10.chm8388614
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.VerticalRepeat
 ms.assetid: 2a4852d6-14ee-7fa9-ea5e-170033c3a56d

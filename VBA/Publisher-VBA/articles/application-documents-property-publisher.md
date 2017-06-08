@@ -3,7 +3,7 @@ title: Application.Documents Property (Publisher)
 keywords: vbapb10.chm131174
 f1_keywords:
 - vbapb10.chm131174
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.Documents
 ms.assetid: dd48d68f-a6ae-b5c0-2a85-90abff1e6c5a

@@ -3,7 +3,7 @@ title: MailMergeDataField.Insert Method (Publisher)
 keywords: vbapb10.chm6422561
 f1_keywords:
 - vbapb10.chm6422561
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.Insert
 ms.assetid: 54482cda-d0d3-c799-7e7f-b25835a8bd6f

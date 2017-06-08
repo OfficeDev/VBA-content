@@ -3,7 +3,7 @@ title: ColorFormat Object (Publisher)
 keywords: vbapb10.chm2621439
 f1_keywords:
 - vbapb10.chm2621439
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorFormat
 ms.assetid: 659069e1-e359-94d7-de06-a1d98378193b

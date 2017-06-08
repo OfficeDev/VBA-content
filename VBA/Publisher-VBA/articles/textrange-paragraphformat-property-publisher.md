@@ -3,7 +3,7 @@ title: TextRange.ParagraphFormat Property (Publisher)
 keywords: vbapb10.chm5308439
 f1_keywords:
 - vbapb10.chm5308439
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.ParagraphFormat
 ms.assetid: 475da411-9292-a12d-addd-1bbe822ec09e

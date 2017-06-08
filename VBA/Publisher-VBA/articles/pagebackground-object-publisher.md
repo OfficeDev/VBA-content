@@ -3,7 +3,7 @@ title: PageBackground Object (Publisher)
 keywords: vbapb10.chm8191999
 f1_keywords:
 - vbapb10.chm8191999
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageBackground
 ms.assetid: 647f5a84-0971-2f69-d281-c9ab402968a4

@@ -3,7 +3,7 @@ title: Application.ActiveDocument Property (Publisher)
 keywords: vbapb10.chm131073
 f1_keywords:
 - vbapb10.chm131073
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ActiveDocument
 ms.assetid: c6293fa6-291c-d8ce-be54-f8a997b95d2e

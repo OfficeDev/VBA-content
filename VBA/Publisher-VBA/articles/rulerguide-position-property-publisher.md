@@ -3,7 +3,7 @@ title: RulerGuide.Position Property (Publisher)
 keywords: vbapb10.chm655364
 f1_keywords:
 - vbapb10.chm655364
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.RulerGuide.Position
 ms.assetid: af169eaf-3cca-0310-c49b-369ba9b2193f

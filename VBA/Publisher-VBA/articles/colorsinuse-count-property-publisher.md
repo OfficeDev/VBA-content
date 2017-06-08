@@ -3,7 +3,7 @@ title: ColorsInUse.Count Property (Publisher)
 keywords: vbapb10.chm2949122
 f1_keywords:
 - vbapb10.chm2949122
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse.Count
 ms.assetid: 2f1cdf49-665a-63e9-d221-a1abf756b501

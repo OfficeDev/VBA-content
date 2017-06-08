@@ -3,7 +3,7 @@ title: ShadowFormat.Size Property (Publisher)
 keywords: vbapb10.chm3670281
 f1_keywords:
 - vbapb10.chm3670281
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 4c7f7302-efd1-02c3-0d95-f9e313e0ae5e
 ms.date: 06/08/2017
 ---

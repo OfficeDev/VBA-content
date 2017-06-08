@@ -1,6 +1,6 @@
 ---
 title: CaptionStyles.Application Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Application
 ms.assetid: 57f7d211-340b-bd31-4270-522973e6c031

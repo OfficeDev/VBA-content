@@ -3,7 +3,7 @@ title: PictureFormat.OriginalResolution Property (Publisher)
 keywords: vbapb10.chm3604776
 f1_keywords:
 - vbapb10.chm3604776
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalResolution
 ms.assetid: 0cb7ee4e-3eb8-baee-6535-d936e3c5f05c

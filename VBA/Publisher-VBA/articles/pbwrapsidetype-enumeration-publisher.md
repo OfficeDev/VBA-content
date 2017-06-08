@@ -3,7 +3,7 @@ title: PbWrapSideType Enumeration (Publisher)
 keywords: vbapb10.chm65596
 f1_keywords:
 - vbapb10.chm65596
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbWrapSideType
 ms.assetid: 8b6082e2-d650-310d-7cfe-e2351a93226f

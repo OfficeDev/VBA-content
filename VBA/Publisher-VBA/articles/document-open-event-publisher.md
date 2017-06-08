@@ -3,7 +3,7 @@ title: Document.Open Event (Publisher)
 keywords: vbapb10.chm285212673
 f1_keywords:
 - vbapb10.chm285212673
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Open
 ms.assetid: 43108d1d-d101-8a07-943e-c9b8dbadcbfd

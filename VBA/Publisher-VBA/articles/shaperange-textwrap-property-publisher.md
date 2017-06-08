@@ -3,7 +3,7 @@ title: ShapeRange.TextWrap Property (Publisher)
 keywords: vbapb10.chm2294020
 f1_keywords:
 - vbapb10.chm2294020
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.TextWrap
 ms.assetid: 40fbc7aa-0a1b-7835-76bf-1815d7ccffc4

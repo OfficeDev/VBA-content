@@ -3,7 +3,7 @@ title: FillFormat.GradientColorType Property (Publisher)
 keywords: vbapb10.chm2359554
 f1_keywords:
 - vbapb10.chm2359554
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.FillFormat.GradientColorType
 ms.assetid: b0866675-4bc4-5e82-780d-8bae4b7d16ef

@@ -3,7 +3,7 @@ title: TextEffectFormat.PresetTextEffect Property (Publisher)
 keywords: vbapb10.chm3735816
 f1_keywords:
 - vbapb10.chm3735816
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.PresetTextEffect
 ms.assetid: d7ef0995-4560-fea0-b98d-03c8e0c8e65e

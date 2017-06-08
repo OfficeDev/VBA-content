@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetLightingDirection Property (Publisher)
 keywords: vbapb10.chm3801349
 f1_keywords:
 - vbapb10.chm3801349
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.PresetLightingDirection
 ms.assetid: 94957653-a4e1-bcb6-7697-ed10d1b54301

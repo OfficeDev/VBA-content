@@ -3,7 +3,7 @@ title: Application.WindowDeactivate Event (Publisher)
 keywords: vbapb10.chm268435458
 f1_keywords:
 - vbapb10.chm268435458
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.WindowDeactivate
 ms.assetid: 84473784-7c03-4c9e-3e1b-9bf6ec7e1fbc

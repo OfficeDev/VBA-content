@@ -3,7 +3,7 @@ title: Page.Delete Method (Publisher)
 keywords: vbapb10.chm393232
 f1_keywords:
 - vbapb10.chm393232
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Delete
 ms.assetid: 7a7d9a67-8856-6549-7846-97b21eaf0bd2

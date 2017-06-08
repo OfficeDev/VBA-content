@@ -3,7 +3,7 @@ title: ReaderSpread.Application Property (Publisher)
 keywords: vbapb10.chm524289
 f1_keywords:
 - vbapb10.chm524289
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Application
 ms.assetid: 84bff0f2-db25-debd-25fb-bfb115600571

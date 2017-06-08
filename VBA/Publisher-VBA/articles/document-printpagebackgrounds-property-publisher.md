@@ -3,7 +3,7 @@ title: Document.PrintPageBackgrounds Property (Publisher)
 keywords: vbapb10.chm196743
 f1_keywords:
 - vbapb10.chm196743
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.PrintPageBackgrounds
 ms.assetid: 6d1d6e6a-fd66-2afa-2172-4a6552d5cce4

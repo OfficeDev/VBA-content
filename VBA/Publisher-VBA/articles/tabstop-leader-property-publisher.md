@@ -3,7 +3,7 @@ title: TabStop.Leader Property (Publisher)
 keywords: vbapb10.chm5636101
 f1_keywords:
 - vbapb10.chm5636101
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TabStop.Leader
 ms.assetid: a788bdc8-8ab3-fcd3-931a-a5b83db93991

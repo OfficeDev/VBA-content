@@ -3,7 +3,7 @@ title: ReflectionFormat.Type Property (Publisher)
 keywords: vbapb10.chm9699329
 f1_keywords:
 - vbapb10.chm9699329
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: de621574-b8ab-908c-71a6-bc20ad9a4086
 ms.date: 06/08/2017
 ---

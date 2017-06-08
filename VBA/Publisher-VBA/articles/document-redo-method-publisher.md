@@ -3,7 +3,7 @@ title: Document.Redo Method (Publisher)
 keywords: vbapb10.chm196708
 f1_keywords:
 - vbapb10.chm196708
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Redo
 ms.assetid: 4b76aeaa-77f7-5f22-ff80-77479b0f0702

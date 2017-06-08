@@ -3,7 +3,7 @@ title: View.ActivePage Property (Publisher)
 keywords: vbapb10.chm327683
 f1_keywords:
 - vbapb10.chm327683
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.View.ActivePage
 ms.assetid: 29289fb2-6692-4cb5-a9e2-b2edb9e9cd7e

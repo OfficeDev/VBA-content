@@ -3,7 +3,7 @@ title: Application.WindowActivate Event (Publisher)
 keywords: vbapb10.chm268435457
 f1_keywords:
 - vbapb10.chm268435457
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.WindowActivate
 ms.assetid: a7e4e396-9661-763c-8e41-dc279757af94

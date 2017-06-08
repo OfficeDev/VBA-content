@@ -3,7 +3,7 @@ title: ShapeRange.Item Method (Publisher)
 keywords: vbapb10.chm2293760
 f1_keywords:
 - vbapb10.chm2293760
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Item
 ms.assetid: f316bbac-b0be-0281-585b-c32dcb709b66

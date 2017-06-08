@@ -3,7 +3,7 @@ title: ThreeDFormat.ContourWidth Property (Publisher)
 keywords: vbapb10.chm3801378
 f1_keywords:
 - vbapb10.chm3801378
-ms.prod: PUBLISHER
+ms.prod: publisher
 ms.assetid: 6bdaba81-d838-e353-b519-666e909cfa5b
 ms.date: 06/08/2017
 ---

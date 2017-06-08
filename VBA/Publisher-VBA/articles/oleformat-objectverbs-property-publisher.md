@@ -3,7 +3,7 @@ title: OLEFormat.ObjectVerbs Property (Publisher)
 keywords: vbapb10.chm4456453
 f1_keywords:
 - vbapb10.chm4456453
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.OLEFormat.ObjectVerbs
 ms.assetid: 887070e6-7f7d-4f65-290e-3d46bfd91d34

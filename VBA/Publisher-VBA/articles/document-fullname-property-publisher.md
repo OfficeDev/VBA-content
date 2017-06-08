@@ -3,7 +3,7 @@ title: Document.FullName Property (Publisher)
 keywords: vbapb10.chm196625
 f1_keywords:
 - vbapb10.chm196625
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.FullName
 ms.assetid: 137e4310-8431-ed2a-503a-c225378a9a74

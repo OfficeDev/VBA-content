@@ -3,7 +3,7 @@ title: Attachments Object (Publisher)
 keywords: vbapb10.chm9175039
 f1_keywords:
 - vbapb10.chm9175039
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Attachments
 ms.assetid: 61957961-8c75-992f-159c-51412ed309ea

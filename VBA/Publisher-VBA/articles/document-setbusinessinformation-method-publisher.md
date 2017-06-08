@@ -3,7 +3,7 @@ title: Document.SetBusinessInformation Method (Publisher)
 keywords: vbapb10.chm196757
 f1_keywords:
 - vbapb10.chm196757
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.SetBusinessInformation
 ms.assetid: 8549f75f-2fb6-6ac6-ecaf-54a0a9b22dc7

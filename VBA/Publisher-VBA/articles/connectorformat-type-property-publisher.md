@@ -3,7 +3,7 @@ title: ConnectorFormat.Type Property (Publisher)
 keywords: vbapb10.chm3211526
 f1_keywords:
 - vbapb10.chm3211526
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.Type
 ms.assetid: 78258632-a37b-6eac-af45-70ffa04357b8

@@ -3,7 +3,7 @@ title: TextRange.Cut Method (Publisher)
 keywords: vbapb10.chm5308473
 f1_keywords:
 - vbapb10.chm5308473
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Cut
 ms.assetid: c9b8b896-26e7-ac58-0e1a-a66ef789f397

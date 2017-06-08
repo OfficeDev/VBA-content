@@ -3,7 +3,7 @@ title: PbHlinkTargetType Enumeration (Publisher)
 keywords: vbapb10.chm65607
 f1_keywords:
 - vbapb10.chm65607
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbHlinkTargetType
 ms.assetid: ee45c38b-8b14-9e3e-2be6-dd55932c0c7e

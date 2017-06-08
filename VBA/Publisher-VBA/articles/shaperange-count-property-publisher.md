@@ -3,7 +3,7 @@ title: ShapeRange.Count Property (Publisher)
 keywords: vbapb10.chm2293763
 f1_keywords:
 - vbapb10.chm2293763
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Count
 ms.assetid: 5037bfe9-b430-4205-c514-b2f4313b4c53

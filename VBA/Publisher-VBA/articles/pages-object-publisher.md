@@ -3,7 +3,7 @@ title: Pages Object (Publisher)
 keywords: vbapb10.chm524287
 f1_keywords:
 - vbapb10.chm524287
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Pages
 ms.assetid: d6b7262c-015c-dcf3-bff4-0091dd32b78f

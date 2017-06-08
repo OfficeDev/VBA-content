@@ -3,7 +3,7 @@ title: ParagraphFormat.FirstLineIndent Property (Publisher)
 keywords: vbapb10.chm5439493
 f1_keywords:
 - vbapb10.chm5439493
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.FirstLineIndent
 ms.assetid: 4966b30e-7629-b66d-0870-ada91c3af4f3

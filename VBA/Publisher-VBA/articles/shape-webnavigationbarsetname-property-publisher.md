@@ -3,7 +3,7 @@ title: Shape.WebNavigationBarSetName Property (Publisher)
 keywords: vbapb10.chm5308677
 f1_keywords:
 - vbapb10.chm5308677
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.WebNavigationBarSetName
 ms.assetid: 0d9abe17-6936-562b-9210-5f092d13f215

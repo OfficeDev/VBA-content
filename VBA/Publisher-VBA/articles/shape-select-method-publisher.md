@@ -3,7 +3,7 @@ title: Shape.Select Method (Publisher)
 keywords: vbapb10.chm2228263
 f1_keywords:
 - vbapb10.chm2228263
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Select
 ms.assetid: d18914fd-7679-e922-090c-78affdb39d6a

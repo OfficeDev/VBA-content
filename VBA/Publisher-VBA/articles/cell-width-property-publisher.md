@@ -3,7 +3,7 @@ title: Cell.Width Property (Publisher)
 keywords: vbapb10.chm5111841
 f1_keywords:
 - vbapb10.chm5111841
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Width
 ms.assetid: 894ab5ba-97a5-a731-cac2-151de813e5b8

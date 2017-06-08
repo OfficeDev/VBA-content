@@ -3,7 +3,7 @@ title: Application.ActiveWindow Property (Publisher)
 keywords: vbapb10.chm131074
 f1_keywords:
 - vbapb10.chm131074
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ActiveWindow
 ms.assetid: 125e2bb4-f922-ceef-9e3e-5dbe3aaff2a4

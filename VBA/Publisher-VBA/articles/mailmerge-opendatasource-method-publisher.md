@@ -3,7 +3,7 @@ title: MailMerge.OpenDataSource Method (Publisher)
 keywords: vbapb10.chm6225937
 f1_keywords:
 - vbapb10.chm6225937
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.OpenDataSource
 ms.assetid: 4473e566-687f-595e-9fd6-a5483021cb48

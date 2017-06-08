@@ -3,7 +3,7 @@ title: PbTextDirection Enumeration (Publisher)
 keywords: vbapb10.chm65554
 f1_keywords:
 - vbapb10.chm65554
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbTextDirection
 ms.assetid: 8a9ce32b-5dbb-6f11-5783-f6fdd190dab6

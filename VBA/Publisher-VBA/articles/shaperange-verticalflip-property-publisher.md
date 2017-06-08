@@ -3,7 +3,7 @@ title: ShapeRange.VerticalFlip Property (Publisher)
 keywords: vbapb10.chm2293844
 f1_keywords:
 - vbapb10.chm2293844
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.VerticalFlip
 ms.assetid: cc3ab3ec-71f6-49fc-0141-505054d6abbb

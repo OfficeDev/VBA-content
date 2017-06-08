@@ -3,7 +3,7 @@ title: Printer.PaperOrientation Property (Publisher)
 keywords: vbapb10.chm8978440
 f1_keywords:
 - vbapb10.chm8978440
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Printer.PaperOrientation
 ms.assetid: f57986b6-e6c4-7a47-af93-56036d667240

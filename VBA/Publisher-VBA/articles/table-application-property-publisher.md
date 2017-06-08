@@ -3,7 +3,7 @@ title: Table.Application Property (Publisher)
 keywords: vbapb10.chm4784129
 f1_keywords:
 - vbapb10.chm4784129
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table.Application
 ms.assetid: 9d808ec1-3f29-c2d4-b685-7acd3c6d0f18

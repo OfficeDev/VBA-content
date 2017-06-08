@@ -3,7 +3,7 @@ title: TextFrame.VerticalTextAlignment Property (Publisher)
 keywords: vbapb10.chm3866660
 f1_keywords:
 - vbapb10.chm3866660
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.VerticalTextAlignment
 ms.assetid: cd809f00-b092-c483-fe99-2aa8043fb684

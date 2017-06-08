@@ -3,7 +3,7 @@ title: MailMergeDataField.Name Property (Publisher)
 keywords: vbapb10.chm6422530
 f1_keywords:
 - vbapb10.chm6422530
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.Name
 ms.assetid: 7a2f4e1d-446c-707b-2375-8481e8f08cf5

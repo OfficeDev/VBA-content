@@ -3,7 +3,7 @@ title: PbWindowState Enumeration (Publisher)
 keywords: vbapb10.chm65561
 f1_keywords:
 - vbapb10.chm65561
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbWindowState
 ms.assetid: 8e04e01b-0bf8-faa2-7a0d-b38ea2c92deb

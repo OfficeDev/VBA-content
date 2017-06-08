@@ -3,7 +3,7 @@ title: RulerGuides.Count Property (Publisher)
 keywords: vbapb10.chm720899
 f1_keywords:
 - vbapb10.chm720899
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Count
 ms.assetid: 92a93b1a-80c1-7a41-cb94-ac0859a4a470

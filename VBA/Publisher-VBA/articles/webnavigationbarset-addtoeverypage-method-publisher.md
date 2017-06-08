@@ -3,7 +3,7 @@ title: WebNavigationBarSet.AddToEveryPage Method (Publisher)
 keywords: vbapb10.chm8519698
 f1_keywords:
 - vbapb10.chm8519698
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.AddToEveryPage
 ms.assetid: d36a3281-a313-084c-0ae9-7a981a7d9713

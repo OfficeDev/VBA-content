@@ -3,7 +3,7 @@ title: PbSchemeColorIndex Enumeration (Publisher)
 keywords: vbapb10.chm65579
 f1_keywords:
 - vbapb10.chm65579
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbSchemeColorIndex
 ms.assetid: 37dc2391-208d-195d-11b5-c2c83c348abd

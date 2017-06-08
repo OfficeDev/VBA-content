@@ -3,7 +3,7 @@ title: Page.Name Property (Publisher)
 keywords: vbapb10.chm131098
 f1_keywords:
 - vbapb10.chm131098
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Page.Name
 ms.assetid: cd81994d-506a-69ca-c7f6-472705b2ccd3

@@ -3,7 +3,7 @@ title: Attachments.Count Property (Publisher)
 keywords: vbapb10.chm569347
 f1_keywords:
 - vbapb10.chm569347
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Attachments.Count
 ms.assetid: 44f4c11a-2ad7-5d1c-9e9c-046a1367dad6

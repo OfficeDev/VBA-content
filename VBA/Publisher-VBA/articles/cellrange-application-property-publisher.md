@@ -3,7 +3,7 @@ title: CellRange.Application Property (Publisher)
 keywords: vbapb10.chm5177345
 f1_keywords:
 - vbapb10.chm5177345
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CellRange.Application
 ms.assetid: 8e3b256e-9bef-7053-ca35-627649c132ab

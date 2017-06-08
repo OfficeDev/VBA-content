@@ -3,7 +3,7 @@ title: LineFormat.BackColor Property (Publisher)
 keywords: vbapb10.chm3408128
 f1_keywords:
 - vbapb10.chm3408128
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.LineFormat.BackColor
 ms.assetid: 45e18a2e-4354-65d7-9a80-53869c4914f0

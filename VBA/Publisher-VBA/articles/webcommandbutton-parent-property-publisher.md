@@ -3,7 +3,7 @@ title: WebCommandButton.Parent Property (Publisher)
 keywords: vbapb10.chm3932162
 f1_keywords:
 - vbapb10.chm3932162
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.Parent
 ms.assetid: 9c5165f7-5713-83c5-84c6-60d7112506c6

@@ -3,7 +3,7 @@ title: AdvancedPrintOptions.BackSideInsertFaceUp Property (Publisher)
 keywords: vbapb10.chm7077924
 f1_keywords:
 - vbapb10.chm7077924
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.BackSideInsertFaceUp
 ms.assetid: 359c05bf-e040-5dcc-910f-6510887ac554

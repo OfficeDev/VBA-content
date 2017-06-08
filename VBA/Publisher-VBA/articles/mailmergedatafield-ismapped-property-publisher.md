@@ -3,7 +3,7 @@ title: MailMergeDataField.IsMapped Property (Publisher)
 keywords: vbapb10.chm6422565
 f1_keywords:
 - vbapb10.chm6422565
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataField.IsMapped
 ms.assetid: 4a053a2b-f6ca-37a7-4a1f-8690982188c2

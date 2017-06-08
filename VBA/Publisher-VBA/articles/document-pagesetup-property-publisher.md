@@ -3,7 +3,7 @@ title: Document.PageSetup Property (Publisher)
 keywords: vbapb10.chm196632
 f1_keywords:
 - vbapb10.chm196632
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.PageSetup
 ms.assetid: 1dac39f0-2507-a85b-8c71-cd1980022fb3

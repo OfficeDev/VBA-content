@@ -3,7 +3,7 @@ title: TextRange.MajorityFont Property (Publisher)
 keywords: vbapb10.chm5308467
 f1_keywords:
 - vbapb10.chm5308467
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2

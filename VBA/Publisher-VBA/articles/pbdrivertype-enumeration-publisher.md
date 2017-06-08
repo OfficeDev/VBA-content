@@ -3,7 +3,7 @@ title: PbDriverType Enumeration (Publisher)
 keywords: vbapb10.chm65634
 f1_keywords:
 - vbapb10.chm65634
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbDriverType
 ms.assetid: d6f699cc-34c7-00fe-9c18-da5cdd6b98e7

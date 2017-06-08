@@ -3,7 +3,7 @@ title: Shape.IsExcess Property (Publisher)
 keywords: vbapb10.chm2228377
 f1_keywords:
 - vbapb10.chm2228377
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.IsExcess
 ms.assetid: 217689d6-7508-92ab-3828-e61fc70f0993

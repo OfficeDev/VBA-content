@@ -3,7 +3,7 @@ title: MailMerge.DocumentUpdating Property (Publisher)
 keywords: vbapb10.chm6225925
 f1_keywords:
 - vbapb10.chm6225925
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.DocumentUpdating
 ms.assetid: c65ca4a0-e5eb-d97e-9126-4af86f4e805f

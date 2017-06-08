@@ -3,7 +3,7 @@ title: TextRange.Characters Method (Publisher)
 keywords: vbapb10.chm5308425
 f1_keywords:
 - vbapb10.chm5308425
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.Characters
 ms.assetid: e851767e-12b2-ad77-071b-9d27bbf0d637

@@ -3,7 +3,7 @@ title: ColorCMYK.Cyan Property (Publisher)
 keywords: vbapb10.chm2621443
 f1_keywords:
 - vbapb10.chm2621443
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Cyan
 ms.assetid: 47729474-40f4-e336-a92c-62f3ac19ed8f

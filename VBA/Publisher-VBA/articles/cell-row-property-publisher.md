@@ -3,7 +3,7 @@ title: Cell.Row Property (Publisher)
 keywords: vbapb10.chm5111831
 f1_keywords:
 - vbapb10.chm5111831
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Row
 ms.assetid: b961af2b-6b03-f54b-922e-d2e7633a3dfe

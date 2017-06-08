@@ -3,7 +3,7 @@ title: Shape.GroupItems Property (Publisher)
 keywords: vbapb10.chm2228280
 f1_keywords:
 - vbapb10.chm2228280
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.GroupItems
 ms.assetid: 9194f43b-bd8a-76a9-aa8c-17544d052d47

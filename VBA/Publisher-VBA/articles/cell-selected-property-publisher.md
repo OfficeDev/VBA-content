@@ -3,7 +3,7 @@ title: Cell.Selected Property (Publisher)
 keywords: vbapb10.chm5111832
 f1_keywords:
 - vbapb10.chm5111832
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Cell.Selected
 ms.assetid: b07f40bf-a14b-9b2a-2e0d-dc907cc78748

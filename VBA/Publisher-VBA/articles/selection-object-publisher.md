@@ -3,7 +3,7 @@ title: Selection Object (Publisher)
 keywords: vbapb10.chm917503
 f1_keywords:
 - vbapb10.chm917503
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Selection
 ms.assetid: 1ebee88b-a39e-ea3a-48b0-6205621853af

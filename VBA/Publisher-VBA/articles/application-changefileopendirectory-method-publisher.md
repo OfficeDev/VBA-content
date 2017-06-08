@@ -3,7 +3,7 @@ title: Application.ChangeFileOpenDirectory Method (Publisher)
 keywords: vbapb10.chm131124
 f1_keywords:
 - vbapb10.chm131124
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Application.ChangeFileOpenDirectory
 ms.assetid: 9178881c-2f7f-9063-31d1-14d4745f0666

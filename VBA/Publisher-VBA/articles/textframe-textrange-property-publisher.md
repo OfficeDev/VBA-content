@@ -3,7 +3,7 @@ title: TextFrame.TextRange Property (Publisher)
 keywords: vbapb10.chm3866627
 f1_keywords:
 - vbapb10.chm3866627
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextFrame.TextRange
 ms.assetid: 44a8395e-81dc-7d06-f068-89f77a889f5e

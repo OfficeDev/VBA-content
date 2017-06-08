@@ -3,7 +3,7 @@ title: MailMerge.SuppressBlankLines Property (Publisher)
 keywords: vbapb10.chm6225927
 f1_keywords:
 - vbapb10.chm6225927
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.MailMerge.SuppressBlankLines
 ms.assetid: 3b41e0c0-8588-e86a-77ed-90c4692c03dc

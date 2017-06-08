@@ -3,7 +3,7 @@ title: Table.TableDirection Property (Publisher)
 keywords: vbapb10.chm4784135
 f1_keywords:
 - vbapb10.chm4784135
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Table.TableDirection
 ms.assetid: ffd664a8-781f-8fdc-055c-1ea7309b3b38

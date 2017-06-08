@@ -1,6 +1,6 @@
 ---
 title: CaptionStyle.Name Property (Publisher)
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Name
 ms.assetid: bc9ac1d6-6acc-e973-45dc-75b275891c9e

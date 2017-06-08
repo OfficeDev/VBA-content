@@ -3,7 +3,7 @@ title: TextRange.InsertSymbol Method (Publisher)
 keywords: vbapb10.chm5308452
 f1_keywords:
 - vbapb10.chm5308452
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertSymbol
 ms.assetid: 607d12da-5a2d-4e0e-b45e-92275ce97bab

@@ -3,7 +3,7 @@ title: InlineShapes.Range Property (Publisher)
 keywords: vbapb10.chm5767173
 f1_keywords:
 - vbapb10.chm5767173
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.InlineShapes.Range
 ms.assetid: 375843c1-5198-6981-2e7c-8abd1d0e9dff

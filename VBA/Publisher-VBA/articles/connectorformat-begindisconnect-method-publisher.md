@@ -3,7 +3,7 @@ title: ConnectorFormat.BeginDisconnect Method (Publisher)
 keywords: vbapb10.chm3211281
 f1_keywords:
 - vbapb10.chm3211281
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.BeginDisconnect
 ms.assetid: 30d8ffc0-e8a5-6d9e-a098-8c06d5fde3a9

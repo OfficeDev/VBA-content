@@ -3,7 +3,7 @@ title: WebPageOptions.BackgroundSoundLoopForever Property (Publisher)
 keywords: vbapb10.chm544775
 f1_keywords:
 - vbapb10.chm544775
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopForever
 ms.assetid: f2e90665-09e9-5215-59e4-f93e4469d0df

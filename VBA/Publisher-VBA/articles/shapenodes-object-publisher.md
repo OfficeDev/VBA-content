@@ -3,7 +3,7 @@ title: ShapeNodes Object (Publisher)
 keywords: vbapb10.chm3538943
 f1_keywords:
 - vbapb10.chm3538943
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes
 ms.assetid: f190a8a8-e03a-e8a2-482a-5e092ff3ed86

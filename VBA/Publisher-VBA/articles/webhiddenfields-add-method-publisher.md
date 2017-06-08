@@ -3,7 +3,7 @@ title: WebHiddenFields.Add Method (Publisher)
 keywords: vbapb10.chm3997700
 f1_keywords:
 - vbapb10.chm3997700
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Add
 ms.assetid: c3035138-f369-b561-b1f8-9977bd9e080c

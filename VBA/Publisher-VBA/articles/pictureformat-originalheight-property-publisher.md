@@ -3,7 +3,7 @@ title: PictureFormat.OriginalHeight Property (Publisher)
 keywords: vbapb10.chm3604774
 f1_keywords:
 - vbapb10.chm3604774
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalHeight
 ms.assetid: 0bf97bb1-d333-a7ed-686c-da2f3cce97c5

@@ -3,7 +3,7 @@ title: Document.Tags Property (Publisher)
 keywords: vbapb10.chm196661
 f1_keywords:
 - vbapb10.chm196661
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Document.Tags
 ms.assetid: d8baaf50-86ad-1997-c1b3-e54a77a3ee5b

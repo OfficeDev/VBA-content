@@ -3,7 +3,7 @@ title: ShapeRange.Cut Method (Publisher)
 keywords: vbapb10.chm2293777
 f1_keywords:
 - vbapb10.chm2293777
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Cut
 ms.assetid: 961d4646-8318-d2ff-ed98-649583d36115

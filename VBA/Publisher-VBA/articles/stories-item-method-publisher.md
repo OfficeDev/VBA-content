@@ -3,7 +3,7 @@ title: Stories.Item Method (Publisher)
 keywords: vbapb10.chm5701632
 f1_keywords:
 - vbapb10.chm5701632
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Stories.Item
 ms.assetid: 93dfcdec-0cdc-9d76-2698-0607281f7228

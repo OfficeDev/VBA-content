@@ -3,7 +3,7 @@ title: PageSetup.TopMargin Property (Publisher)
 keywords: vbapb10.chm6946837
 f1_keywords:
 - vbapb10.chm6946837
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSetup.TopMargin
 ms.assetid: 4eee9b1e-6c76-7831-13bc-25926c3c0f10

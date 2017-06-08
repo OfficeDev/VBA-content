@@ -3,7 +3,7 @@ title: Shape.Tags Property (Publisher)
 keywords: vbapb10.chm2228329
 f1_keywords:
 - vbapb10.chm2228329
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Shape.Tags
 ms.assetid: 282f77c8-f075-1eeb-65e8-f1126def32ff

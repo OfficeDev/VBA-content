@@ -3,7 +3,7 @@ title: PbPublicationType Enumeration (Publisher)
 keywords: vbapb10.chm65612
 f1_keywords:
 - vbapb10.chm65612
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PbPublicationType
 ms.assetid: e759900e-531d-0ec1-583d-ddc961b5e6f4

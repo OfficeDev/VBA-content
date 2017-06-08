@@ -3,7 +3,7 @@ title: PageSetup Object (Publisher)
 keywords: vbapb10.chm7012351
 f1_keywords:
 - vbapb10.chm7012351
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PageSetup
 ms.assetid: 23fe3235-88ea-ac93-6d7d-850298263046

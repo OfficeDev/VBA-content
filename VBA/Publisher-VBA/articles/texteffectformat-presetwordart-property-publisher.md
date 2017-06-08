@@ -3,7 +3,7 @@ title: TextEffectFormat.PresetWordArt Property (Publisher)
 keywords: vbapb10.chm3735826
 f1_keywords:
 - vbapb10.chm3735826
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.PresetWordArt
 ms.assetid: 0b78499e-1a66-143b-91b0-2efb66617017

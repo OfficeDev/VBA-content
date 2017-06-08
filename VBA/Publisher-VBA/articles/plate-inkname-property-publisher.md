@@ -3,7 +3,7 @@ title: Plate.InkName Property (Publisher)
 keywords: vbapb10.chm2883603
 f1_keywords:
 - vbapb10.chm2883603
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Plate.InkName
 ms.assetid: 248c1529-2706-5458-a13f-def479d16132

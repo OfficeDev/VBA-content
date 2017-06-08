@@ -3,7 +3,7 @@ title: Window.Left Property (Publisher)
 keywords: vbapb10.chm262149
 f1_keywords:
 - vbapb10.chm262149
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Window.Left
 ms.assetid: 8d61331a-a70f-4a8a-8dc7-12d93ec51bfc

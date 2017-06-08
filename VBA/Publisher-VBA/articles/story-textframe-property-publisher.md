@@ -3,7 +3,7 @@ title: Story.TextFrame Property (Publisher)
 keywords: vbapb10.chm5832709
 f1_keywords:
 - vbapb10.chm5832709
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.Story.TextFrame
 ms.assetid: bb6ce510-068c-27c2-9df0-a709ab46db2e

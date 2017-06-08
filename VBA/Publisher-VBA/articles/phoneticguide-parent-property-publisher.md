@@ -3,7 +3,7 @@ title: PhoneticGuide.Parent Property (Publisher)
 keywords: vbapb10.chm6160386
 f1_keywords:
 - vbapb10.chm6160386
-ms.prod: PUBLISHER
+ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.Parent
 ms.assetid: ea90594f-9f89-1e84-96e3-034b0016ef18
