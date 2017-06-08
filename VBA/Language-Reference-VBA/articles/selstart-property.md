@@ -3,7 +3,7 @@ title: SelStart Property
 keywords: fm20.chm5225091
 f1_keywords:
 - fm20.chm5225091
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SelStart
 ms.assetid: ca0db01c-bea0-6827-376f-f2a41c4eb5ed

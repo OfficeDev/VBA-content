@@ -3,7 +3,7 @@ title: MainWindow Property (VBA Add-In Object Model)
 keywords: vbob6.chm100175
 f1_keywords:
 - vbob6.chm100175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f017026e-3e21-614c-6f9c-45b4412fb9cc
 ms.date: 06/08/2017
 ---

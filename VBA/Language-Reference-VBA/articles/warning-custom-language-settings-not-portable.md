@@ -3,7 +3,7 @@ title: "Warning: custom language settings not portable"
 keywords: vblr6.chm1011120
 f1_keywords:
 - vblr6.chm1011120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a23a1fd7-2995-cab0-0be2-74cd84a3a98a
 ms.date: 06/08/2017
 ---

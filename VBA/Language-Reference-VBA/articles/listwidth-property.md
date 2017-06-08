@@ -3,7 +3,7 @@ title: ListWidth Property
 keywords: fm20.chm5225058
 f1_keywords:
 - fm20.chm5225058
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ListWidth
 ms.assetid: f06bcc8b-cb11-b89c-1d15-f5adfbf24dc2

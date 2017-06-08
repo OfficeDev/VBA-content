@@ -3,7 +3,7 @@ title: Deftype statements must precede declarations
 keywords: vblr6.chm1040057
 f1_keywords:
 - vblr6.chm1040057
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1cbcf2e1-cd74-7d92-2d7a-2b6c3086e89a
 ms.date: 06/08/2017
 ---

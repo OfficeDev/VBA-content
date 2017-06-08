@@ -3,7 +3,7 @@ title: Beginning of search scope has been reached; do you want to continue from 
 keywords: vblr6.chm1040210
 f1_keywords:
 - vblr6.chm1040210
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b71577a4-3c71-4d5c-1e39-cc8e9a03a7a7
 ms.date: 06/08/2017
 ---

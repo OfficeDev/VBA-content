@@ -3,7 +3,7 @@ title: CVErr Function
 keywords: vblr6.chm1008821
 f1_keywords:
 - vblr6.chm1008821
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 244ab040-3816-a744-7afb-06675a4b076d
 ms.date: 06/08/2017
 ---

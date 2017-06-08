@@ -3,7 +3,7 @@ title: Comparison Constants
 keywords: vblr6.chm1102645
 f1_keywords:
 - vblr6.chm1102645
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9206120a-d98b-3856-9eb3-b4667f7259d8
 ms.date: 06/08/2017
 ---

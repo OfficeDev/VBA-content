@@ -3,7 +3,7 @@ title: "'Item' could not be loaded. Remove it from the list of available add-ins
 keywords: vblr6.chm60071
 f1_keywords:
 - vblr6.chm60071
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c95c1162-a660-2576-8ea7-d87a7698a389
 ms.date: 06/08/2017
 ---

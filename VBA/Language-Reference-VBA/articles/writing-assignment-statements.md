@@ -3,7 +3,7 @@ title: Writing Assignment Statements
 keywords: vbcn6.chm1076692
 f1_keywords:
 - vbcn6.chm1076692
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7699bec2-c5a2-6f35-3ec0-8aa7cefa622d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Optional argument must be Variant
 keywords: vblr6.chm1011239
 f1_keywords:
 - vblr6.chm1011239
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24c249a4-f0aa-4437-fb57-9f74c748dddf
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Weekday Function
 keywords: vblr6.chm1009058
 f1_keywords:
 - vblr6.chm1009058
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4e6197a7-5c55-e5cd-5164-ce1d31a9f80c
 ms.date: 06/08/2017
 ---

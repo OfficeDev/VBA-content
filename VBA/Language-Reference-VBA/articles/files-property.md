@@ -3,7 +3,7 @@ title: Files Property
 keywords: vblr6.chm2182095
 f1_keywords:
 - vblr6.chm2182095
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Files
 ms.assetid: 80ee842f-759f-a018-c69c-4233d9714938

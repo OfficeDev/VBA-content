@@ -3,7 +3,7 @@ title: VerticalScrollbarSide Property
 keywords: fm20.chm5225112
 f1_keywords:
 - fm20.chm5225112
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.VerticalScrollbarSide
 ms.assetid: 0439743b-3774-5778-7022-dbeea5ef8c39

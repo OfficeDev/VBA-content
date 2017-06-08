@@ -3,7 +3,7 @@ title: Create an option group using the GroupName property
 keywords: fm20.chm5225257
 f1_keywords:
 - fm20.chm5225257
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eda26874-3d63-671d-8d10-882af5e612f6
 ms.date: 06/08/2017
 ---

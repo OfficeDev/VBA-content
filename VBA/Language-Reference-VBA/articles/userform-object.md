@@ -3,7 +3,7 @@ title: UserForm Object
 keywords: vblr6.chm1105493
 f1_keywords:
 - vblr6.chm1105493
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.UserForm
 ms.assetid: c64c7a57-56c6-e999-a5fe-dc083bf8fe99

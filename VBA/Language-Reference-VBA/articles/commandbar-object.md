@@ -1,6 +1,6 @@
 ---
 title: CommandBar Object
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CommandBar
 ms.assetid: ea1517fc-4bb5-0bce-7b52-a5cdfd155a31

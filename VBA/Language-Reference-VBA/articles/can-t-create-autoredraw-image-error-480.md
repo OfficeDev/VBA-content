@@ -3,7 +3,7 @@ title: Can't create AutoRedraw image (Error 480)
 keywords: vblr6.chm480
 f1_keywords:
 - vblr6.chm480
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 35a64aeb-89ad-26fa-2a06-dbbf3d5457e4
 ms.date: 06/08/2017
 ---

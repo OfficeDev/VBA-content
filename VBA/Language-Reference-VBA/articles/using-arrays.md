@@ -3,7 +3,7 @@ title: Using Arrays
 keywords: vbcn6.chm1076800
 f1_keywords:
 - vbcn6.chm1076800
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 23244a15-4c53-1f39-fdd5-d1fc2b394382
 ms.date: 06/08/2017
 ---

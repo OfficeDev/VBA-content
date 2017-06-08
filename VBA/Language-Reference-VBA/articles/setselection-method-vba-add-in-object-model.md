@@ -3,7 +3,7 @@ title: SetSelection Method (VBA Add-In Object Model)
 keywords: vbob6.chm104035
 f1_keywords:
 - vbob6.chm104035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6408c78-b41e-e0d7-1817-41f887ce2d50
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Erase Statement
 keywords: vblr6.chm1008910
 f1_keywords:
 - vblr6.chm1008910
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b051ba13-3669-57e5-b023-cc4d52ec93f6
 ms.date: 06/08/2017
 ---

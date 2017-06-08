@@ -3,7 +3,7 @@ title: Move Command (Shortcut Menu)
 keywords: vbui6.chm1080903
 f1_keywords:
 - vbui6.chm1080903
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6bcd3366-bb2d-06e0-06ec-80796a49f129
 ms.date: 06/08/2017
 ---

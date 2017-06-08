@@ -3,7 +3,7 @@ title: CreateToolWindow Method
 keywords: vbob6.chm100291
 f1_keywords:
 - vbob6.chm100291
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CreateToolWindow
 ms.assetid: da49893c-8b04-5bda-f7ff-fd70a70a084f

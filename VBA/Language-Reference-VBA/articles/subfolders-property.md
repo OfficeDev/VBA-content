@@ -3,7 +3,7 @@ title: SubFolders Property
 keywords: vblr6.chm2182070
 f1_keywords:
 - vblr6.chm2182070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.SubFolders
 ms.assetid: 60bc795f-22f9-6846-00d3-05229f062099

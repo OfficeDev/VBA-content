@@ -3,7 +3,7 @@ title: Name Property (VBA Add-In Object Model)
 keywords: vbob6.chm1071231
 f1_keywords:
 - vbob6.chm1071231
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c393694c-f28f-acda-968c-f93defaad3c1
 ms.date: 06/08/2017
 ---

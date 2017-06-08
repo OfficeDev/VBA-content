@@ -3,7 +3,7 @@ title: Executing code when setting properties
 keywords: vbcn6.chm1101378
 f1_keywords:
 - vbcn6.chm1101378
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ff32c6d2-1857-102f-371e-2d0f6ab848dc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Type mismatch (Error 13)
 keywords: vblr6.chm1011290
 f1_keywords:
 - vblr6.chm1011290
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cbc7e902-b468-c335-5620-1ff9a2026b9b
 ms.date: 06/08/2017
 ---

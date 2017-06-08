@@ -3,7 +3,7 @@ title: Randomize Statement
 keywords: vblr6.chm1008998
 f1_keywords:
 - vblr6.chm1008998
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b09ed4eb-1e05-c904-7cd5-482fea785ce6
 ms.date: 06/08/2017
 ---

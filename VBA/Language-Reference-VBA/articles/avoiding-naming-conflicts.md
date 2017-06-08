@@ -3,7 +3,7 @@ title: Avoiding Naming Conflicts
 keywords: vbcn6.chm1076671
 f1_keywords:
 - vbcn6.chm1076671
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bdeffd46-cdbc-4702-472a-e28df9507bb1
 ms.date: 06/08/2017
 ---

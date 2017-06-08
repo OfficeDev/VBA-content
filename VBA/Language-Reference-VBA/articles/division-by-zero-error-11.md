@@ -3,7 +3,7 @@ title: Division by zero (Error 11)
 keywords: vblr6.chm1011128
 f1_keywords:
 - vblr6.chm1011128
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3c6783d9-24a4-ef25-fdab-9e26a08e35a9
 ms.date: 06/08/2017
 ---

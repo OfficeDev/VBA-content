@@ -3,7 +3,7 @@ title: Toolbars Tab (Customize Dialog Box)
 keywords: vbui6.chm1077002
 f1_keywords:
 - vbui6.chm1077002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b61c61dd-d8f8-d7fd-84c2-282b5cc9cb18
 ms.date: 06/08/2017
 ---

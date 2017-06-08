@@ -3,7 +3,7 @@ title: Create a standard list box
 keywords: fm20.chm5225200
 f1_keywords:
 - fm20.chm5225200
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75e41514-2a94-512b-bd04-e06dfdccf885
 ms.date: 06/08/2017
 ---

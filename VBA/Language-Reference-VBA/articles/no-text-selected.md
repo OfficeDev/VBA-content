@@ -3,7 +3,7 @@ title: No text selected
 keywords: vblr6.chm1040206
 f1_keywords:
 - vblr6.chm1040206
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1466a713-cbb5-fa3a-5ed0-ea36761020c5
 ms.date: 06/08/2017
 ---

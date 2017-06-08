@@ -3,7 +3,7 @@ title: AddItem Method
 keywords: fm20.chm2000260
 f1_keywords:
 - fm20.chm2000260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.AddItem
 ms.assetid: cd8ce314-7ba2-5930-5747-4eb89c649630

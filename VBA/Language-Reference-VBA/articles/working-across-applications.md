@@ -3,7 +3,7 @@ title: Working Across Applications
 keywords: vbcn6.chm1012581
 f1_keywords:
 - vbcn6.chm1012581
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 46d31003-fdfb-04d3-6143-e286d91a46a8
 ms.date: 06/08/2017
 ---

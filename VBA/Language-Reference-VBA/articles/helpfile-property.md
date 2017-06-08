@@ -3,7 +3,7 @@ title: HelpFile Property
 keywords: vblr6.chm1014189
 f1_keywords:
 - vblr6.chm1014189
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.HelpFile
 ms.assetid: ed2b9abc-679c-91d9-4d39-987863430880

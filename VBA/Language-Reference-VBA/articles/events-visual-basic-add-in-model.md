@@ -1,6 +1,6 @@
 ---
 title: Events (Visual Basic Add-In Model)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ae90ce4d-7f61-4e7d-a4ab-7cf78028281a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Option Compare Statement
 keywords: vblr6.chm1008991
 f1_keywords:
 - vblr6.chm1008991
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9332562c-451e-50df-198a-21902fadac9c
 ms.date: 06/08/2017
 ---

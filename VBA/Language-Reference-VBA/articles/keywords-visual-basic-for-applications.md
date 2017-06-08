@@ -1,6 +1,6 @@
 ---
 title: Keywords (Visual Basic for Applications)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 77a07966-3587-4773-9631-0ea3e265c0ee
 ms.date: 06/08/2017
 ---

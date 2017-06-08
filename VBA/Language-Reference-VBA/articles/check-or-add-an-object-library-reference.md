@@ -3,7 +3,7 @@ title: Check or Add an Object Library Reference
 keywords: vbhw6.chm1107739
 f1_keywords:
 - vbhw6.chm1107739
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a04227a8-80e0-2eb3-52bb-f992d8bb5e68
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Let <keyword>
 keywords: vblr6.chm1009541
 f1_keywords:
 - vblr6.chm1009541
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f39d96b5-b462-8a8c-9b43-23f353289333
 ms.date: 06/08/2017
 ---

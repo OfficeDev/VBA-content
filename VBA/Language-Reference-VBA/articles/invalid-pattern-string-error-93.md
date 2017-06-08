@@ -3,7 +3,7 @@ title: Invalid pattern string (Error 93)
 keywords: vblr6.chm1000093
 f1_keywords:
 - vblr6.chm1000093
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 16213d46-5945-4592-2c58-23928f92215c
 ms.date: 06/08/2017
 ---

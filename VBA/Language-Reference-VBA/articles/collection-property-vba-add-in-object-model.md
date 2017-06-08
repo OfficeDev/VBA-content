@@ -3,7 +3,7 @@ title: Collection Property (VBA Add-In Object Model)
 keywords: vbob6.chm1071209
 f1_keywords:
 - vbob6.chm1071209
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 98a29080-a9e9-9235-64aa-4bcb8ee46034
 ms.date: 06/08/2017
 ---

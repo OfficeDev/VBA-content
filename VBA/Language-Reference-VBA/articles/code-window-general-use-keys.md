@@ -3,7 +3,7 @@ title: Code Window General Use Keys
 keywords: vbui6.chm1082085
 f1_keywords:
 - vbui6.chm1082085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 86a4fdba-d776-a70a-4d68-3018446385c5
 ms.date: 06/08/2017
 ---

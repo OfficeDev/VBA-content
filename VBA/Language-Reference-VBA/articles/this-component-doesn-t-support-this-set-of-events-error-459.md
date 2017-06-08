@@ -3,7 +3,7 @@ title: This component doesn't support this set of events (Error 459)
 keywords: vblr6.chm1000459
 f1_keywords:
 - vblr6.chm1000459
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f74abecc-6461-d5ef-0018-a7bbf05eeb4b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: String Function
 keywords: vblr6.chm1011358
 f1_keywords:
 - vblr6.chm1011358
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d6c5c054-21b9-f777-acae-ac31710ba5c5
 ms.date: 06/08/2017
 ---

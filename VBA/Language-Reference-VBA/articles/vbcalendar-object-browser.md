@@ -3,7 +3,7 @@ title: VbCalendar (Object Browser)
 keywords: vblr6.chm1113364
 f1_keywords:
 - vblr6.chm1113364
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79692600-5ed8-1820-f102-dfb25a87c2a5
 ms.date: 06/08/2017
 ---

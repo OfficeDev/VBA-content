@@ -3,7 +3,7 @@ title: Customize Dialog Box
 keywords: vbui6.chm1077001
 f1_keywords:
 - vbui6.chm1077001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6192e84b-d993-89a4-a452-096435ec218b
 ms.date: 06/08/2017
 ---

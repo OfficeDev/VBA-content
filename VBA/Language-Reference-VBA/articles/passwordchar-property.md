@@ -3,7 +3,7 @@ title: PasswordChar Property
 keywords: fm20.chm5225076
 f1_keywords:
 - fm20.chm5225076
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PasswordChar
 ms.assetid: 2dd645b2-fe8d-a644-b796-e0595627cbb8

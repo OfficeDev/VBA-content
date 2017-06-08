@@ -3,7 +3,7 @@ title: Enum types defined in standard modules or private classes cannot be used 
 keywords: vblr6.chm1040368
 f1_keywords:
 - vblr6.chm1040368
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73942c44-c1a2-e75a-d5ee-c1d6e4fd98d0
 ms.date: 06/08/2017
 ---

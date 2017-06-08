@@ -1,6 +1,6 @@
 ---
 title: String Manipulation Keyword Summary
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 736ca4ac-3fbb-097a-1c0a-04c570b532f7
 ms.date: 06/08/2017
 ---

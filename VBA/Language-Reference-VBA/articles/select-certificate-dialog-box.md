@@ -3,7 +3,7 @@ title: Select Certificate Dialog Box
 keywords: vbui6.chm181079
 f1_keywords:
 - vbui6.chm181079
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b9b1c7e7-6dd4-25a1-36cc-4fd2963fcb85
 ms.date: 06/08/2017
 ---

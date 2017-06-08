@@ -3,7 +3,7 @@ title: ByVal <keyword>
 keywords: vblr6.chm1008862
 f1_keywords:
 - vblr6.chm1008862
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cfc168a0-1be3-b5f7-9ef0-20ad17e04727
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: BeforeDropOrPaste Event
 keywords: fm20.chm5224936
 f1_keywords:
 - fm20.chm5224936
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BeforeDropOrPaste
 ms.assetid: ba572265-1a9d-2d02-6346-82f88c1f249a

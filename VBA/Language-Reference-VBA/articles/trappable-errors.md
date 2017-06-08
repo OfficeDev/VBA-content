@@ -3,7 +3,7 @@ title: Trappable Errors
 keywords: vblr6.chm1010125
 f1_keywords:
 - vblr6.chm1010125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11bf80a2-cc16-749f-3b7e-3b08ecf36081
 ms.date: 06/08/2017
 ---

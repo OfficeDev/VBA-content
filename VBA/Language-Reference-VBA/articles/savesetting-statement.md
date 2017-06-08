@@ -3,7 +3,7 @@ title: SaveSetting Statement
 keywords: vblr6.chm1020904
 f1_keywords:
 - vblr6.chm1020904
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f15549da-3c84-0991-592a-9d715fd488f3
 ms.date: 06/08/2017
 ---

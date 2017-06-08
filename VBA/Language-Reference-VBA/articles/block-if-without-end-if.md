@@ -3,7 +3,7 @@ title: Block If without End If
 keywords: vblr6.chm1040082
 f1_keywords:
 - vblr6.chm1040082
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 91afa2da-49e3-ea56-1d5c-128ae4fb1409
 ms.date: 06/08/2017
 ---

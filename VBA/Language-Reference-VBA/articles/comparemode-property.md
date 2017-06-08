@@ -3,7 +3,7 @@ title: CompareMode Property
 keywords: vblr6.chm2181931
 f1_keywords:
 - vblr6.chm2181931
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CompareMode
 ms.assetid: 75893886-8bed-4685-b483-18b3d39569da

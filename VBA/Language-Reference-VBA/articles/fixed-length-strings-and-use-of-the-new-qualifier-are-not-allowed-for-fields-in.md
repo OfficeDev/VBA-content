@@ -3,7 +3,7 @@ title: Fixed-length strings and use of the 'new' qualifier are not allowed for f
 keywords: vblr6.chm1040367
 f1_keywords:
 - vblr6.chm1040367
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 52458cdf-f2ff-9d66-cb2e-1f6f98e78548
 ms.date: 06/08/2017
 ---

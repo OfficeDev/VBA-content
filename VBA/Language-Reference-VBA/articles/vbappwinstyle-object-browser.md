@@ -3,7 +3,7 @@ title: VbAppWinStyle (Object Browser)
 keywords: vblr6.chm1113544
 f1_keywords:
 - vblr6.chm1113544
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64b7de4b-32a7-b67d-01da-dee087a01a93
 ms.date: 06/08/2017
 ---

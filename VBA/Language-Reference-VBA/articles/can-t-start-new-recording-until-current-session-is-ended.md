@@ -3,7 +3,7 @@ title: Can't start new recording until current session is ended
 keywords: vblr6.chm50288
 f1_keywords:
 - vblr6.chm50288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4337291-5941-0f9e-0702-2a8b2db983a2
 ms.date: 06/08/2017
 ---

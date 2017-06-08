@@ -3,7 +3,7 @@ title: End of search scope has been reached; do you want to continue from the be
 keywords: vblr6.chm1040209
 f1_keywords:
 - vblr6.chm1040209
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62314543-a54f-d0dc-d88f-52f3cbe77499
 ms.date: 06/08/2017
 ---

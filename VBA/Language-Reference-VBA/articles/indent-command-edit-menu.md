@@ -3,7 +3,7 @@ title: Indent Command (Edit Menu)
 keywords: vbui6.chm2012553
 f1_keywords:
 - vbui6.chm2012553
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5d81ed96-46f6-c9d8-c863-a11f2255a3fb
 ms.date: 06/08/2017
 ---

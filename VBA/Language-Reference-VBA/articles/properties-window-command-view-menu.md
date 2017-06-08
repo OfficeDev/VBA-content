@@ -3,7 +3,7 @@ title: Properties Window Command (View Menu)
 keywords: vbui6.chm2012567
 f1_keywords:
 - vbui6.chm2012567
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6263cb7b-c692-2d9b-7d1e-c9258f47e656
 ms.date: 06/08/2017
 ---

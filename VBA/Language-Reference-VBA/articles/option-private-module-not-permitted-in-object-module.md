@@ -3,7 +3,7 @@ title: Option Private Module not permitted in object module
 keywords: vblr6.chm1057033
 f1_keywords:
 - vblr6.chm1057033
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b3098a1-5bbd-61bf-f242-8b4e1b1714a2
 ms.date: 06/08/2017
 ---

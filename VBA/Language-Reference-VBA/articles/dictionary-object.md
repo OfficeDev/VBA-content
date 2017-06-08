@@ -3,7 +3,7 @@ title: Dictionary Object
 keywords: vblr6.chm2181922
 f1_keywords:
 - vblr6.chm2181922
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Dictionary
 ms.assetid: 718dbcd4-63bc-3a75-fa55-7d1e8c65e8b9

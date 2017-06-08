@@ -3,7 +3,7 @@ title: Returns for CStr
 keywords: vblr6.chm1074267
 f1_keywords:
 - vblr6.chm1074267
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cb26cbb8-a914-a533-ceb6-49f21d631b05
 ms.date: 06/08/2017
 ---

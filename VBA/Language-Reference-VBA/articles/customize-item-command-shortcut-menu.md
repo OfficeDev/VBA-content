@@ -3,7 +3,7 @@ title: Customize <item> Command (Shortcut Menu)
 keywords: vbui6.chm1077229
 f1_keywords:
 - vbui6.chm1077229
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c731f7b-f3c5-e719-60ae-cd3a36f7cec6
 ms.date: 06/08/2017
 ---

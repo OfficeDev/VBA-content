@@ -3,7 +3,7 @@ title: VBProjects Property
 keywords: vbob6.chm100013
 f1_keywords:
 - vbob6.chm100013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.VBProjects
 ms.assetid: 30111a65-207f-9d68-434b-f02360a7a1bd

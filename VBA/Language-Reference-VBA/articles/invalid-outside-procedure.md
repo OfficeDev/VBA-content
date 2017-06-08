@@ -3,7 +3,7 @@ title: Invalid outside procedure
 keywords: vblr6.chm1040051
 f1_keywords:
 - vblr6.chm1040051
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 46c00b2b-c656-9ad4-bff9-d341a6a7ecd5
 ms.date: 06/08/2017
 ---

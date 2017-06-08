@@ -3,7 +3,7 @@ title: Understanding Conditional Compilation
 keywords: vbcn6.chm1076725
 f1_keywords:
 - vbcn6.chm1076725
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d79bb580-f77e-b9fc-5548-3ee2b193947b
 ms.date: 06/08/2017
 ---

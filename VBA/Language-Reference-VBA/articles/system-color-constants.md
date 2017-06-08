@@ -3,7 +3,7 @@ title: System Color Constants
 keywords: vblr6.chm1106130
 f1_keywords:
 - vblr6.chm1106130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d70b3279-75c4-8479-8368-2a129568b668
 ms.date: 06/08/2017
 ---

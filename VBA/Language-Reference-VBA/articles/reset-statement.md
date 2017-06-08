@@ -3,7 +3,7 @@ title: Reset Statement
 keywords: vblr6.chm1009002
 f1_keywords:
 - vblr6.chm1009002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7fb7dedd-dcfd-08a1-37e1-fde804b267e4
 ms.date: 06/08/2017
 ---

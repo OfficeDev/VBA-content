@@ -3,7 +3,7 @@ title: DropButtonClick Event
 keywords: fm20.chm2000090
 f1_keywords:
 - fm20.chm2000090
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DropButtonClick
 ms.assetid: 228f625c-937d-13ef-e04d-0d49a55fc0fd

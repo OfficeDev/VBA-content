@@ -3,7 +3,7 @@ title: Folders Collection
 keywords: vblr6.chm2181929
 f1_keywords:
 - vblr6.chm2181929
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Folders
 ms.assetid: 84c95d58-9183-4820-bd45-817164497234

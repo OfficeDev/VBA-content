@@ -3,7 +3,7 @@ title: Spc Function
 keywords: vblr6.chm1009027
 f1_keywords:
 - vblr6.chm1009027
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a7f2d6f4-6d27-fca5-80ad-648fbf46c002
 ms.date: 06/08/2017
 ---

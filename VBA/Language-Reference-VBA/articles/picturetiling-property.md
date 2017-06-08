@@ -3,7 +3,7 @@ title: PictureTiling Property
 keywords: fm20.chm2001740
 f1_keywords:
 - fm20.chm2001740
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PictureTiling
 ms.assetid: 9bf2a163-0454-b959-0261-b2a9fd7f6bfa

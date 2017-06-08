@@ -1,6 +1,6 @@
 ---
 title: Visual Basic language reference
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ea3d048c-6984-42a0-8a27-27172aa69620
 ms.date: 06/08/2017
 ---

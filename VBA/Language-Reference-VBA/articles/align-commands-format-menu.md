@@ -3,7 +3,7 @@ title: Align Commands (Format Menu)
 keywords: vbui6.chm2056458
 f1_keywords:
 - vbui6.chm2056458
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d694f1a9-a6f2-5ab3-53a8-a2b2a7ec03cd
 ms.date: 06/08/2017
 ---

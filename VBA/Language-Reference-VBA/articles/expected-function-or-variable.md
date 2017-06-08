@@ -3,7 +3,7 @@ title: Expected Function or variable
 keywords: vblr6.chm1040076
 f1_keywords:
 - vblr6.chm1040076
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c4f8e6fb-43b7-3dcd-c93a-7f9b2e542817
 ms.date: 06/08/2017
 ---

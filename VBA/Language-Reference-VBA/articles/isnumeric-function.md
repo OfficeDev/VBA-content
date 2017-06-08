@@ -3,7 +3,7 @@ title: IsNumeric Function
 keywords: vblr6.chm1008954
 f1_keywords:
 - vblr6.chm1008954
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b8184a41-8400-1228-c40f-1414eb4b6e63
 ms.date: 06/08/2017
 ---

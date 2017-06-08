@@ -3,7 +3,7 @@ title: VarType Constants
 keywords: vblr6.chm1012527
 f1_keywords:
 - vblr6.chm1012527
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 169a159e-7494-56cf-e7ca-01da5bd9705d
 ms.date: 06/08/2017
 ---

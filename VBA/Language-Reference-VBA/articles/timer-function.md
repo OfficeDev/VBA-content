@@ -3,7 +3,7 @@ title: Timer Function
 keywords: vblr6.chm1009043
 f1_keywords:
 - vblr6.chm1009043
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a39cf81a-a90c-5833-75e8-9ac4605e3b02
 ms.date: 06/08/2017
 ---

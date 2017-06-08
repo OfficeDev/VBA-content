@@ -3,7 +3,7 @@ title: ActiveControl Property
 keywords: fm20.chm5225001
 f1_keywords:
 - fm20.chm5225001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ActiveControl
 ms.assetid: 069cdfc6-3457-f022-122a-f0daf2c0cc4d

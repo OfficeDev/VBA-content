@@ -3,7 +3,7 @@ title: Integer Data Type
 keywords: vblr6.chm1008948
 f1_keywords:
 - vblr6.chm1008948
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5ecb70cf-d8fb-770f-a175-30db4aa3fb9f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Data Types Displayed in Locals Window
 keywords: vbui6.chm1075107
 f1_keywords:
 - vbui6.chm1075107
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5b444a7-25cc-e002-86e0-113b7d0a1285
 ms.date: 06/08/2017
 ---

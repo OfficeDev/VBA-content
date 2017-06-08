@@ -1,6 +1,6 @@
 ---
 title: DriveType Constants
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d3e1fec9-927e-8c8d-911b-864e930801bb
 ms.date: 06/08/2017
 ---

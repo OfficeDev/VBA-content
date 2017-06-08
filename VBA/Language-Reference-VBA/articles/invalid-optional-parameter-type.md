@@ -1,6 +1,6 @@
 ---
 title: Invalid optional parameter type
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e3ac3390-b5b6-4534-bbe4-cc47bce48a8e
 ms.date: 06/08/2017
 ---

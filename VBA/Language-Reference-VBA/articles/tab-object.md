@@ -3,7 +3,7 @@ title: Tab Object
 keywords: fm20.chm2000640
 f1_keywords:
 - fm20.chm2000640
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Tab
 ms.assetid: 3ac18010-5e79-c52b-e2ae-0fcd3acdd7b9

@@ -3,7 +3,7 @@ title: TextAlign Property
 keywords: fm20.chm5225104
 f1_keywords:
 - fm20.chm5225104
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextAlign
 ms.assetid: 31904bca-6238-6807-fdbd-463cbc82b8ed

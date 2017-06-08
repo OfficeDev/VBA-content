@@ -3,7 +3,7 @@ title: Dim Statement
 keywords: vblr6.chm1008897
 f1_keywords:
 - vblr6.chm1008897
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 674a6797-5827-9ce6-6375-e24b21977a6d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Conflicting attributes were found in 'item'. The defaults will be used
 keywords: vblr6.chm1117711
 f1_keywords:
 - vblr6.chm1117711
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aff35cb5-ba98-9649-bd66-cecd0b3d7cf9
 ms.date: 06/08/2017
 ---

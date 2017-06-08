@@ -3,7 +3,7 @@ title: RGB Function
 keywords: vblr6.chm1009005
 f1_keywords:
 - vblr6.chm1009005
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e9956de-ba18-56cd-0556-715774055cf4
 ms.date: 06/08/2017
 ---

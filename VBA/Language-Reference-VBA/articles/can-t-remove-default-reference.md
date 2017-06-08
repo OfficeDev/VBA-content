@@ -3,7 +3,7 @@ title: Can't remove default reference
 keywords: vblr6.chm1107945
 f1_keywords:
 - vblr6.chm1107945
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 461a640c-1eba-a44f-c237-7470beab894d
 ms.date: 06/08/2017
 ---

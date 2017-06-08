@@ -3,7 +3,7 @@ title: Number Property (Visual Basic for Applications)
 keywords: vblr6.chm1014186
 f1_keywords:
 - vblr6.chm1014186
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e6a671d8-0fd3-9d92-efd2-bcf3d0ff0758
 ms.date: 06/08/2017
 ---

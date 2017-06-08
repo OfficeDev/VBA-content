@@ -3,7 +3,7 @@ title: Replace Text in Code
 keywords: vbhw6.chm1009001
 f1_keywords:
 - vbhw6.chm1009001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 00012763-3da0-2623-6add-231b8fbf2273
 ms.date: 06/08/2017
 ---

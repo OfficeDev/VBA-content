@@ -3,7 +3,7 @@ title: Can't change data types of array elements
 keywords: vblr6.chm1040117
 f1_keywords:
 - vblr6.chm1040117
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 909bc653-f7cc-ae95-3e43-efe06f69a629
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Resume Statement
 keywords: vblr6.chm1009004
 f1_keywords:
 - vblr6.chm1009004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 57fa9eb3-7e8d-2f7e-20d7-47e468b7836a
 ms.date: 06/08/2017
 ---

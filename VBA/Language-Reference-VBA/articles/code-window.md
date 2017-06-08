@@ -1,6 +1,6 @@
 ---
 title: Code Window
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1c4607d7-60ab-be9d-7579-ef6e1a6a7513
 ms.date: 06/08/2017
 ---

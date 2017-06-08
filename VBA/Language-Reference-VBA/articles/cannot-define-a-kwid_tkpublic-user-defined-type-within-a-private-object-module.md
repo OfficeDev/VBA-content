@@ -3,7 +3,7 @@ title: Cannot define a KWID_tkPUBLIC user-defined type within a private object m
 keywords: vblr6.chm1040352
 f1_keywords:
 - vblr6.chm1040352
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 594b1460-9990-57c6-9483-003827033d27
 ms.date: 06/08/2017
 ---

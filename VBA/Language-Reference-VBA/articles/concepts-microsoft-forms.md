@@ -1,6 +1,6 @@
 ---
 title: Concepts (Microsoft Forms)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 13f7683b-9bc5-4036-b79d-edd774a3613d
 ms.date: 06/08/2017
 ---

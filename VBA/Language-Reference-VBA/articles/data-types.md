@@ -1,6 +1,6 @@
 ---
 title: Data Types
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0023abe6-ac66-4f18-a7d5-5b7897d1111d
 ms.date: 06/08/2017
 ---

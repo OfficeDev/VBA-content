@@ -3,7 +3,7 @@ title: String <keyword>
 keywords: vblr6.chm1011041
 f1_keywords:
 - vblr6.chm1011041
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e2e0df8d-7f11-ff9f-b781-06ccf70be3e5
 ms.date: 06/08/2017
 ---

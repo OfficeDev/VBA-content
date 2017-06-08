@@ -3,7 +3,7 @@ title: External name not defined
 keywords: vblr6.chm1040124
 f1_keywords:
 - vblr6.chm1040124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 56f6b45e-2b1e-c1c9-3a1d-c7639aee4c66
 ms.date: 06/08/2017
 ---

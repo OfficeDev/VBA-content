@@ -3,7 +3,7 @@ title: MatchEntry Property, OptionButton Control Example
 keywords: fm20.chm5225120
 f1_keywords:
 - fm20.chm5225120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c68bae6a-b2cc-8616-bffb-9b7369fd9749
 ms.date: 06/08/2017
 ---

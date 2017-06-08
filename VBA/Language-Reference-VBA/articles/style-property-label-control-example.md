@@ -3,7 +3,7 @@ title: Style Property, Label Control Example
 keywords: fm20.chm5225124
 f1_keywords:
 - fm20.chm5225124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2eca73d-942f-f1d0-ce04-2cbbcd36d882
 ms.date: 06/08/2017
 ---

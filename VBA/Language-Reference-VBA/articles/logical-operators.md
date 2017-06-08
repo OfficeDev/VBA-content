@@ -1,6 +1,6 @@
 ---
 title: Logical Operators
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 50141d72-0bb9-864c-38bd-06a3c5106a0e
 ms.date: 06/08/2017
 ---

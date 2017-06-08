@@ -3,7 +3,7 @@ title: Parent Property Example
 keywords: fm20.chm5225195
 f1_keywords:
 - fm20.chm5225195
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cad2ce98-5c96-c8b0-4592-f3ffdfdaaed8
 ms.date: 06/08/2017
 ---

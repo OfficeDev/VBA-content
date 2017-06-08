@@ -3,7 +3,7 @@ title: Things you can do with a multicolumn ListBox or ComboBox
 keywords: fm20.chm5225252
 f1_keywords:
 - fm20.chm5225252
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 99a32411-4a80-043c-b312-42fb3c3eb83f
 ms.date: 06/08/2017
 ---

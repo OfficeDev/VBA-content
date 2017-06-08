@@ -3,7 +3,7 @@ title: "Line 'item1': Class name too long; truncated to 'item2'."
 keywords: vblr6.chm60113
 f1_keywords:
 - vblr6.chm60113
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2180b488-f9ce-62b7-3615-96115e426ec2
 ms.date: 06/08/2017
 ---

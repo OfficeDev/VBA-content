@@ -3,7 +3,7 @@ title: Ways to match entries in a list
 keywords: fm20.chm5225258
 f1_keywords:
 - fm20.chm5225258
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29926096-657b-ea66-e673-a0f82e6e5026
 ms.date: 06/08/2017
 ---

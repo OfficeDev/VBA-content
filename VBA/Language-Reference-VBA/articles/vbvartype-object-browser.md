@@ -3,7 +3,7 @@ title: VbVarType (Object Browser)
 keywords: vblr6.chm1113637
 f1_keywords:
 - vblr6.chm1113637
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4dfcb71b-592b-7e51-5818-0edd9fef386b
 ms.date: 06/08/2017
 ---

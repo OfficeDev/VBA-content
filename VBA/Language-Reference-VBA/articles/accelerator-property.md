@@ -3,7 +3,7 @@ title: Accelerator Property
 keywords: fm20.chm2000690
 f1_keywords:
 - fm20.chm2000690
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Accelerator
 ms.assetid: d9183848-4638-745b-e3f4-b076493d3668

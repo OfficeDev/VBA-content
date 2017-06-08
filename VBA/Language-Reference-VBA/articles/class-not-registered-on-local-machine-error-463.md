@@ -3,7 +3,7 @@ title: Class not registered on local machine (Error 463)
 keywords: vblr6.chm1000463
 f1_keywords:
 - vblr6.chm1000463
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e22bf2f1-3e4b-b212-5fe3-5d00d8dcf5da
 ms.date: 06/08/2017
 ---

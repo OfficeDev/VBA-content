@@ -3,7 +3,7 @@ title: Call Stack Command (View Menu)
 keywords: vbui6.chm2007505
 f1_keywords:
 - vbui6.chm2007505
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c5eaa876-9fbc-370c-ec17-9c04b7fc6854
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Selected Property
 keywords: fm20.chm2001830
 f1_keywords:
 - fm20.chm2001830
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Selected
 ms.assetid: 5a286e96-d250-089a-1682-da00112157aa

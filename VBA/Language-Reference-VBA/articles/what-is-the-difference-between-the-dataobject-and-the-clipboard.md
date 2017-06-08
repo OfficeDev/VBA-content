@@ -3,7 +3,7 @@ title: What is the difference between the DataObject and the Clipboard?
 keywords: fm20.chm5225203
 f1_keywords:
 - fm20.chm5225203
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8f3e37d4-1f31-ed57-d6d8-d579d9cd22b9
 ms.date: 06/08/2017
 ---

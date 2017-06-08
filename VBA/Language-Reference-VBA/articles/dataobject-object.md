@@ -3,7 +3,7 @@ title: DataObject Object
 keywords: fm20.chm2000510
 f1_keywords:
 - fm20.chm2000510
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DataObject
 ms.assetid: 96ad2ab2-3e9b-2d7e-9502-a881e5dd8354

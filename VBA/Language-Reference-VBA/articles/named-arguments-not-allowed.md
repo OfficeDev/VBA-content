@@ -3,7 +3,7 @@ title: Named arguments not allowed
 keywords: vblr6.chm1040129
 f1_keywords:
 - vblr6.chm1040129
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 886826a2-6d43-ec66-da42-7528a8470f9f
 ms.date: 06/08/2017
 ---

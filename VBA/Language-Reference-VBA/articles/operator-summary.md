@@ -3,7 +3,7 @@ title: Operator Summary
 keywords: vblr6.chm1009276
 f1_keywords:
 - vblr6.chm1009276
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 000f6a28-d974-e9c9-2c96-63f1e11e2a4b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: HideSelection Property
 keywords: fm20.chm2001270
 f1_keywords:
 - fm20.chm2001270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.HideSelection
 ms.assetid: fe840b76-7f50-8801-642f-3cce6707bb62

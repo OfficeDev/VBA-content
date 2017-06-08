@@ -3,7 +3,7 @@ title: DeleteFile Method
 keywords: vblr6.chm2182036
 f1_keywords:
 - vblr6.chm2182036
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DeleteFile
 ms.assetid: e036b009-4fd9-297a-de24-acc0dbc96c7a

@@ -3,7 +3,7 @@ title: AvailableSpace Property
 keywords: vblr6.chm2181954
 f1_keywords:
 - vblr6.chm2181954
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.AvailableSpace
 ms.assetid: c7a2a011-1b90-7091-4dcb-0149c75a6ee6

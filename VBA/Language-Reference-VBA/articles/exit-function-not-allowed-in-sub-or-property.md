@@ -3,7 +3,7 @@ title: Exit Function not allowed in Sub or Property
 keywords: vblr6.chm1040098
 f1_keywords:
 - vblr6.chm1040098
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 541d6a31-dc72-742a-d589-5f7be4c0edb1
 ms.date: 06/08/2017
 ---

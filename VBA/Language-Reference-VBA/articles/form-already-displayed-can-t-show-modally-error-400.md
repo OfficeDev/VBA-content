@@ -3,7 +3,7 @@ title: Form already displayed; can't show modally (Error 400)
 keywords: vblr6.chm1117807
 f1_keywords:
 - vblr6.chm1117807
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 98f6191b-2756-4d5f-f9c3-47791b664cba
 ms.date: 06/08/2017
 ---

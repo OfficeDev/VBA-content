@@ -3,7 +3,7 @@ title: ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText M
 keywords: fm20.chm5225174
 f1_keywords:
 - fm20.chm5225174
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83930d1d-a7e1-0c72-7e33-20922206c917
 ms.date: 06/08/2017
 ---

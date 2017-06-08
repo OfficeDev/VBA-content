@@ -1,6 +1,6 @@
 ---
 title: Reference (Microsoft Forms)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 01b19147-650c-4e20-84d7-06ab2fd746f7
 ms.date: 06/08/2017
 ---

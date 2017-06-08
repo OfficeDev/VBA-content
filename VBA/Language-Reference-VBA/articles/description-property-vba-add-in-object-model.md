@@ -3,7 +3,7 @@ title: Description Property (VBA Add-In Object Model)
 keywords: vbob6.chm104157
 f1_keywords:
 - vbob6.chm104157
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 135aaff8-0ea8-727a-cee0-44e71b7e7c46
 ms.date: 06/08/2017
 ---

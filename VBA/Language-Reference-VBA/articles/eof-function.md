@@ -3,7 +3,7 @@ title: EOF Function
 keywords: vblr6.chm1008908
 f1_keywords:
 - vblr6.chm1008908
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 593d065e-635a-8e9f-9623-fc223eab1afa
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Property let procedure not defined and property get procedure did not ret
 keywords: vblr6.chm1011233
 f1_keywords:
 - vblr6.chm1011233
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7f34f9a0-d83a-3fd6-50cd-10f82d893ee1
 ms.date: 06/08/2017
 ---

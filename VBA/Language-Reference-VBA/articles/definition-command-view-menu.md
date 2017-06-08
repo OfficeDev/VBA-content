@@ -3,7 +3,7 @@ title: Definition Command (View Menu)
 keywords: vbui6.chm2019285
 f1_keywords:
 - vbui6.chm2019285
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 18bec04c-f079-5053-0804-65745ed7fe35
 ms.date: 06/08/2017
 ---

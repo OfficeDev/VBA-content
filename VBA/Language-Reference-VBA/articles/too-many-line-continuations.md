@@ -3,7 +3,7 @@ title: Too many line continuations
 keywords: vblr6.chm1011284
 f1_keywords:
 - vblr6.chm1011284
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 40ab218a-a9be-931d-bfec-4d480f13b74a
 ms.date: 06/08/2017
 ---

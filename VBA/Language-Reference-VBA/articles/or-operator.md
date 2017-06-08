@@ -3,7 +3,7 @@ title: Or Operator
 keywords: vblr6.chm1008993
 f1_keywords:
 - vblr6.chm1008993
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3b0e4886-2f84-1296-9428-69338d033c6c
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: TabOrientation Property
 keywords: fm20.chm5225100
 f1_keywords:
 - fm20.chm5225100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabOrientation
 ms.assetid: dc84899d-2c50-56d2-5178-f8bfaefaa165

@@ -3,7 +3,7 @@ title: Math Functions
 keywords: vblr6.chm1008971
 f1_keywords:
 - vblr6.chm1008971
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd20e3cd-f10b-90d5-94b9-12c78b568b74
 ms.date: 06/08/2017
 ---

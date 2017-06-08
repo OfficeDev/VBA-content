@@ -3,7 +3,7 @@ title: "'item' cannot be added because it is referenced but not in use by any it
 keywords: vblr6.chm50153
 f1_keywords:
 - vblr6.chm50153
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 91d1306e-a959-6870-9763-c90f9692548d
 ms.date: 06/08/2017
 ---

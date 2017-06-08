@@ -3,7 +3,7 @@ title: Replace Command (Edit Menu)
 keywords: vbui6.chm2007519
 f1_keywords:
 - vbui6.chm2007519
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75751887-a4a0-1e41-0dc7-38cb9d12145e
 ms.date: 06/08/2017
 ---

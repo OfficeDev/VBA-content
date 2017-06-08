@@ -3,7 +3,7 @@ title: Can't perform operation because the project is protected
 keywords: vblr6.chm1117679
 f1_keywords:
 - vblr6.chm1117679
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6245146c-1818-91c1-1616-a41e615b77ef
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Scroll Event
 keywords: fm20.chm5224950
 f1_keywords:
 - fm20.chm5224950
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Scroll
 ms.assetid: 1b4f6243-ea9b-320c-1afd-9bb230823ffb

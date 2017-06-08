@@ -3,7 +3,7 @@ title: HelpContextID Property
 keywords: fm20.chm2001260
 f1_keywords:
 - fm20.chm2001260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.HelpContextID
 ms.assetid: 734940ce-ee04-09d6-7911-7b303beadf23

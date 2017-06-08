@@ -3,7 +3,7 @@ title: NumIndices Property (VBA Add-In Object Model)
 keywords: vbob6.chm102048
 f1_keywords:
 - vbob6.chm102048
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7ecb940c-5d5e-ee93-07ef-2f5999c75553
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Size all the controls in a group
 keywords: fm20.chm5225266
 f1_keywords:
 - fm20.chm5225266
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 84514471-d2e9-dfdf-d694-c31c764eda86
 ms.date: 06/08/2017
 ---

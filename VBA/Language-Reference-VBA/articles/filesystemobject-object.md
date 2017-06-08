@@ -3,7 +3,7 @@ title: FileSystemObject Object
 keywords: vblr6.chm2181927
 f1_keywords:
 - vblr6.chm2181927
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileSystemObject
 ms.assetid: 7ad2dad3-c6d8-90a6-77a5-c712da8316f3

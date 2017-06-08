@@ -3,7 +3,7 @@ title: Designers Tab (Components Dialog Box)
 keywords: vbui6.chm181062
 f1_keywords:
 - vbui6.chm181062
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 126d835a-8794-4bf2-f147-c4ee5595657a
 ms.date: 06/08/2017
 ---

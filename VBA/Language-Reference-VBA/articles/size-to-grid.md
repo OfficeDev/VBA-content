@@ -3,7 +3,7 @@ title: Size to grid
 keywords: fm20.chm5225241
 f1_keywords:
 - fm20.chm5225241
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4c16aa2-bbdd-6c53-3192-ef637a1c9e3c
 ms.date: 06/08/2017
 ---

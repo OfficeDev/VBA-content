@@ -3,7 +3,7 @@ title: Can't place conditional breakpoint on an array
 keywords: vblr6.chm1109539
 f1_keywords:
 - vblr6.chm1109539
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b4bc0e60-0eea-caef-045a-79634f31a080
 ms.date: 06/08/2017
 ---

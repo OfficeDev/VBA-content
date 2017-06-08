@@ -3,7 +3,7 @@ title: Version numbers must be in the range 0 to 9999
 keywords: vblr6.chm50241
 f1_keywords:
 - vblr6.chm50241
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ca776c8-95be-d92e-962a-6591c93c3f3e
 ms.date: 06/08/2017
 ---

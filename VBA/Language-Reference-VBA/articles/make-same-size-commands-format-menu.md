@@ -3,7 +3,7 @@ title: Make Same Size Commands (Format Menu)
 keywords: vbui6.chm2056333
 f1_keywords:
 - vbui6.chm2056333
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe06e552-66d1-aa0d-400f-838f621ada93
 ms.date: 06/08/2017
 ---

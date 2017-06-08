@@ -3,7 +3,7 @@ title: Make Tab (Project Properties Dialog Box)
 keywords: vbui6.chm181012
 f1_keywords:
 - vbui6.chm181012
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f24e976a-8c0d-a7b2-562d-a099a27786de
 ms.date: 06/08/2017
 ---

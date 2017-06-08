@@ -3,7 +3,7 @@ title: Color Constants
 keywords: vblr6.chm1106125
 f1_keywords:
 - vblr6.chm1106125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0740df2-8835-0f5b-932d-8eefc9bc0000
 ms.date: 06/08/2017
 ---

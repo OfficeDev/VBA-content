@@ -3,7 +3,7 @@ title: The binary compatibility DLL or EXE contains a parameter type or return t
 keywords: vblr6.chm1040374
 f1_keywords:
 - vblr6.chm1040374
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c13f8e8-76ba-9b7e-c6a2-8501e7bfbfd2
 ms.date: 06/08/2017
 ---

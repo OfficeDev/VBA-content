@@ -3,7 +3,7 @@ title: A compatible ActiveX component must be a Visual Basic executable or a DLL
 keywords: vblr6.chm1015639
 f1_keywords:
 - vblr6.chm1015639
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7057317-7bc5-4b5a-b95f-61e92a66c5f0
 ms.date: 06/08/2017
 ---

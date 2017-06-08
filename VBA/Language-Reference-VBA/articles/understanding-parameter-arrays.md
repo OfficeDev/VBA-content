@@ -3,7 +3,7 @@ title: Understanding Parameter Arrays
 keywords: vbcn6.chm1076759
 f1_keywords:
 - vbcn6.chm1076759
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 42438a68-37a8-85d0-6404-1df4266fe33d
 ms.date: 06/08/2017
 ---

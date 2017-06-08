@@ -3,7 +3,7 @@ title: Display the shortcut menu for a TabStrip or Tab
 keywords: fm20.chm5225271
 f1_keywords:
 - fm20.chm5225271
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c8abc0ed-2690-23cc-d2c4-4f5643003d39
 ms.date: 06/08/2017
 ---

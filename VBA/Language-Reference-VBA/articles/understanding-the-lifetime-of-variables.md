@@ -3,7 +3,7 @@ title: Understanding the Lifetime of Variables
 keywords: vbcn6.chm1076736
 f1_keywords:
 - vbcn6.chm1076736
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 018a61d5-4a0c-ac2e-6f06-50ba606034de
 ms.date: 06/08/2017
 ---

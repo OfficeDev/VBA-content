@@ -3,7 +3,7 @@ title: Object doesn't support current locale setting (Error 447)
 keywords: vblr6.chm1011333
 f1_keywords:
 - vblr6.chm1011333
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5039df77-9505-ff20-3823-875bc2701cde
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: IsRootFolder Property
 keywords: vblr6.chm2182069
 f1_keywords:
 - vblr6.chm2182069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.IsRootFolder
 ms.assetid: 4d47b8c1-9ca0-a6d4-996d-584d55033cc1

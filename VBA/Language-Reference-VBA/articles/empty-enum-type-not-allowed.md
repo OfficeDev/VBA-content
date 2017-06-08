@@ -3,7 +3,7 @@ title: Empty Enum type not allowed
 keywords: vblr6.chm1109578
 f1_keywords:
 - vblr6.chm1109578
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f9128fa9-faf0-aa11-5cd8-9c07502480a6
 ms.date: 06/08/2017
 ---

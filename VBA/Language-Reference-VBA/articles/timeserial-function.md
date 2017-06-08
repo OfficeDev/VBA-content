@@ -3,7 +3,7 @@ title: TimeSerial Function
 keywords: vblr6.chm1009044
 f1_keywords:
 - vblr6.chm1009044
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b08df07-bffb-ba69-7336-53067775fbf5
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Switch Function
 keywords: vblr6.chm1010096
 f1_keywords:
 - vblr6.chm1010096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 458ebfcb-af87-1c3b-3f4b-5f308aefa7d9
 ms.date: 06/08/2017
 ---

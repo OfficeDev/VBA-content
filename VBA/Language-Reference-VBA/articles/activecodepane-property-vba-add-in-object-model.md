@@ -3,7 +3,7 @@ title: ActiveCodePane Property (VBA Add-In Object Model)
 keywords: vbob6.chm1070961
 f1_keywords:
 - vbob6.chm1070961
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c9839e2-e458-1dc5-f402-b05305503824
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Invalid outside Enum
 keywords: vblr6.chm1058198
 f1_keywords:
 - vblr6.chm1058198
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 279374a3-7784-35f7-4ae3-8b2a432793ea
 ms.date: 06/08/2017
 ---

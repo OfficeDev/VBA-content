@@ -3,7 +3,7 @@ title: Please see the Readme file for more information on this error
 keywords: vblr6.chm1019368
 f1_keywords:
 - vblr6.chm1019368
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8382cc05-efa7-8556-1236-33dfff3a7ede
 ms.date: 06/08/2017
 ---

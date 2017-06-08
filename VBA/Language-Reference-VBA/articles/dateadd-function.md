@@ -3,7 +3,7 @@ title: DateAdd Function
 keywords: vblr6.chm1013094
 f1_keywords:
 - vblr6.chm1013094
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 68d4e339-67b2-37e7-214d-318edd683b23
 ms.date: 06/08/2017
 ---

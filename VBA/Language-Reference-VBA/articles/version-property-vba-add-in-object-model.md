@@ -3,7 +3,7 @@ title: Version Property (VBA Add-In Object Model)
 keywords: vbob6.chm100007
 f1_keywords:
 - vbob6.chm100007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 22708302-c901-b68b-e77d-d37fb477f819
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Immediate Window Keyboard Shortcuts
 keywords: vbui6.chm1082218
 f1_keywords:
 - vbui6.chm1082218
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 284533bd-f271-060b-dfc2-bad1893a39cc
 ms.date: 06/08/2017
 ---

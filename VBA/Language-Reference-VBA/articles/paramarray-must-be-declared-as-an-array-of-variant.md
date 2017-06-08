@@ -3,7 +3,7 @@ title: ParamArray must be declared as an array of Variant
 keywords: vblr6.chm1040144
 f1_keywords:
 - vblr6.chm1040144
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d6c8fce1-590f-53c3-8379-a5324003134e
 ms.date: 06/08/2017
 ---

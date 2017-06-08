@@ -1,6 +1,6 @@
 ---
 title: Properties (Microsoft Forms)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: LinkedWindowFrame Property (VBA Add-In Object Model)
 keywords: vbob6.chm1071224
 f1_keywords:
 - vbob6.chm1071224
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d97711c2-50e5-583f-70a1-ec25b0e1999f
 ms.date: 06/08/2017
 ---

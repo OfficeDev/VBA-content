@@ -1,6 +1,6 @@
 ---
 title: Object Browser (Visual Basic for Applications)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c5233ec0-0199-435f-9b30-678be18f3fb9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Assign an accelerator key
 keywords: fm20.chm5225223
 f1_keywords:
 - fm20.chm5225223
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eb0ec91d-21cd-a563-7524-7140f1b3d5ad
 ms.date: 06/08/2017
 ---

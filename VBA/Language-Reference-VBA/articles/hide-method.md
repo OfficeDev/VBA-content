@@ -3,7 +3,7 @@ title: Hide Method
 keywords: vblr6.chm916117
 f1_keywords:
 - vblr6.chm916117
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Hide
 ms.assetid: 24844c21-0181-24e9-10f6-2ac006f99cbe

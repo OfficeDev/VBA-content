@@ -3,7 +3,7 @@ title: Application-defined or object-defined error
 keywords: vblr6.chm1011299
 f1_keywords:
 - vblr6.chm1011299
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c1ea0e8-e6f6-a960-eb13-b4dfc2bf96fe
 ms.date: 06/08/2017
 ---

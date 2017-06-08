@@ -3,7 +3,7 @@ title: Redo, Undo Commands (Edit Menu)
 keywords: vbui6.chm2012587
 f1_keywords:
 - vbui6.chm2012587
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 63a4524d-62b9-d97c-e79b-1b38dcdfd073
 ms.date: 06/08/2017
 ---

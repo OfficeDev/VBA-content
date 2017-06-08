@@ -3,7 +3,7 @@ title: Expected variable or procedure, not Enum type
 keywords: vblr6.chm1109577
 f1_keywords:
 - vblr6.chm1109577
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e87a2297-58b5-5bf5-326c-efdeefcd9e83
 ms.date: 06/08/2017
 ---

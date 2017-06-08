@@ -1,6 +1,6 @@
 ---
 title: Invalid inside Enum
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e9638b44-9825-4dce-81a4-653e308cc6b2
 ms.date: 06/08/2017
 ---

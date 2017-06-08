@@ -3,7 +3,7 @@ title: The Rename dialog box (Microsoft Forms)
 keywords: fm20.chm2010010
 f1_keywords:
 - fm20.chm2010010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cd89f6f0-0566-ce85-9774-3eb9a3795403
 ms.date: 06/08/2017
 ---

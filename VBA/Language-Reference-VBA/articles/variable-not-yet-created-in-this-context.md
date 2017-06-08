@@ -3,7 +3,7 @@ title: Variable not yet created in this context
 keywords: vblr6.chm1040363
 f1_keywords:
 - vblr6.chm1040363
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 93dc4805-7ce4-0240-7bc7-e5bc593dfbf5
 ms.date: 06/08/2017
 ---

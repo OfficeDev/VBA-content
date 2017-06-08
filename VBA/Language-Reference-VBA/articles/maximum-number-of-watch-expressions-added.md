@@ -3,7 +3,7 @@ title: Maximum number of watch expressions added
 keywords: vblr6.chm1076407
 f1_keywords:
 - vblr6.chm1076407
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eab74d57-80bd-da4b-a114-8f1c7b8f2cfc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Can't exit design mode because control can't be created
 keywords: vblr6.chm1112920
 f1_keywords:
 - vblr6.chm1112920
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0b83e75a-4fd7-e903-754f-8395316ea13d
 ms.date: 06/08/2017
 ---

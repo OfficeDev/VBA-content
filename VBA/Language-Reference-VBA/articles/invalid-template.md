@@ -1,6 +1,6 @@
 ---
 title: Invalid Template
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 321a5138-f611-4db2-a448-195f8cbb9708
 ms.date: 06/08/2017
 ---

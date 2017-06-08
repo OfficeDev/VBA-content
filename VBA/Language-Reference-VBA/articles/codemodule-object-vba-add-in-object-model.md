@@ -3,7 +3,7 @@ title: CodeModule Object (VBA Add-In Object Model)
 keywords: vbob6.chm1070944
 f1_keywords:
 - vbob6.chm1070944
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f2ce876d-ee2b-058f-37fc-f681bd41f139
 ms.date: 06/08/2017
 ---

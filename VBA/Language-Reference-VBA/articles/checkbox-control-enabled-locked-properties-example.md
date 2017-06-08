@@ -3,7 +3,7 @@ title: CheckBox Control, Enabled, Locked Properties Example
 keywords: fm20.chm5225146
 f1_keywords:
 - fm20.chm5225146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0733a3d8-4057-b308-4c25-0f5ef529b668
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: VBE Object (VBA Add-In Object Model)
 keywords: vbob6.chm100000
 f1_keywords:
 - vbob6.chm100000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 82f7d911-5ad9-5e48-c2c0-8a2ebbf14ede
 ms.date: 06/08/2017
 ---

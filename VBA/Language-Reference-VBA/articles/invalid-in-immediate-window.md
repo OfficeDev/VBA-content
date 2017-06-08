@@ -3,7 +3,7 @@ title: Invalid in Immediate window
 keywords: vblr6.chm1011190
 f1_keywords:
 - vblr6.chm1011190
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e3a0a0e3-cd3e-a33f-d8ac-3fe799eb906c
 ms.date: 06/08/2017
 ---

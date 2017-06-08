@@ -3,7 +3,7 @@ title: Can't edit module
 keywords: vblr6.chm1040198
 f1_keywords:
 - vblr6.chm1040198
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bc1a207-1f97-d187-72c2-a795a217b9f2
 ms.date: 06/08/2017
 ---

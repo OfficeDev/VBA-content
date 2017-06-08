@@ -3,7 +3,7 @@ title: Select Member Command (Edit Menu)
 keywords: vbui6.chm2057517
 f1_keywords:
 - vbui6.chm2057517
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8df9fb43-10ca-46b1-50c1-1e258213400d
 ms.date: 06/08/2017
 ---

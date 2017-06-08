@@ -3,7 +3,7 @@ title: Could not execute specified program
 keywords: vblr6.chm1118900
 f1_keywords:
 - vblr6.chm1118900
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3bcba0df-cf63-b21c-294b-68c13a9b13f8
 ms.date: 06/08/2017
 ---

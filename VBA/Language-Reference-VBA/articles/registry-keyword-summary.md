@@ -1,6 +1,6 @@
 ---
 title: Registry Keyword Summary
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b5b209ed-ae87-8f84-d6dd-a47863dfa05e
 ms.date: 06/08/2017
 ---

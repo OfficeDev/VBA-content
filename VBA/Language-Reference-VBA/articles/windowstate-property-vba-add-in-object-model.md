@@ -3,7 +3,7 @@ title: WindowState Property (VBA Add-In Object Model)
 keywords: vbob6.chm100118
 f1_keywords:
 - vbob6.chm100118
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4acf1de3-920c-6521-ae1b-516196d5d3a5
 ms.date: 06/08/2017
 ---

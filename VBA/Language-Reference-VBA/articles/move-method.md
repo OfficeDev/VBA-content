@@ -3,7 +3,7 @@ title: Move Method
 keywords: fm20.chm5224963
 f1_keywords:
 - fm20.chm5224963
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Move
 ms.assetid: b4138364-0f1a-b774-a82b-3417cb9a6599

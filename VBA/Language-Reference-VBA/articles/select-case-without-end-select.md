@@ -3,7 +3,7 @@ title: Select Case without End Select
 keywords: vblr6.chm1011153
 f1_keywords:
 - vblr6.chm1011153
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7cc6a2dc-2818-d3c5-6852-9467bcb90531
 ms.date: 06/08/2017
 ---

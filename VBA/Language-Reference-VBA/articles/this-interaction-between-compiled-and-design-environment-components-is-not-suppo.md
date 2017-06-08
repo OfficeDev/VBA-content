@@ -3,7 +3,7 @@ title: This interaction between compiled and design environment components is no
 keywords: vblr6.chm1000373
 f1_keywords:
 - vblr6.chm1000373
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e24e520f-9561-deac-f2be-ba14af1db6ed
 ms.date: 06/08/2017
 ---

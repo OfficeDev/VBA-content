@@ -3,7 +3,7 @@ title: Environ Function
 keywords: vblr6.chm1013110
 f1_keywords:
 - vblr6.chm1013110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ad8cb911-5dab-a327-bd9c-ee57818a713a
 ms.date: 06/08/2017
 ---

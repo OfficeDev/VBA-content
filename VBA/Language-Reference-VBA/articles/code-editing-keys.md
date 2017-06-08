@@ -3,7 +3,7 @@ title: Code Editing Keys
 keywords: vbui6.chm1075335
 f1_keywords:
 - vbui6.chm1075335
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b8598753-35ff-14a5-0ec9-d2abd4e88e46
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Cyclic reference of projects not allowed
 keywords: vblr6.chm1011121
 f1_keywords:
 - vblr6.chm1011121
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 40b1af10-726c-6a66-a2c9-12cf380ac8e9
 ms.date: 06/08/2017
 ---

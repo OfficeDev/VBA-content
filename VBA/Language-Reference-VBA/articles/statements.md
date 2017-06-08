@@ -1,6 +1,6 @@
 ---
 title: Statements
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Properties (Visual Basic Add-In Model)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 278f8774-d259-4212-ba80-326841106aa1
 ms.date: 06/08/2017
 ---

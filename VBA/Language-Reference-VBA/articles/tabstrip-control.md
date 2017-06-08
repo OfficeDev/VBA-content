@@ -3,7 +3,7 @@ title: TabStrip Control
 keywords: fm20.chm2000660
 f1_keywords:
 - fm20.chm2000660
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 281a6f4a-059b-5d34-3855-f4d07b436ee4
 ms.date: 06/08/2017
 ---

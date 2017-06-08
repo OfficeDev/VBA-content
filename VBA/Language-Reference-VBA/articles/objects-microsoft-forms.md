@@ -1,6 +1,6 @@
 ---
 title: Objects (Microsoft Forms)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dafc5e84-6a80-4822-86f5-f502b402b3c2
 ms.date: 06/08/2017
 ---

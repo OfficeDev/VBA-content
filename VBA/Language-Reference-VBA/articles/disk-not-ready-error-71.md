@@ -3,7 +3,7 @@ title: Disk not ready (Error 71)
 keywords: vblr6.chm50030
 f1_keywords:
 - vblr6.chm50030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 58a903a2-b72a-2d4c-cc18-1239be6d7bfb
 ms.date: 06/08/2017
 ---

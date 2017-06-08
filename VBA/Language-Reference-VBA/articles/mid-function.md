@@ -3,7 +3,7 @@ title: Mid Function
 keywords: vblr6.chm1011070
 f1_keywords:
 - vblr6.chm1011070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5d5e7712-459a-d504-dae6-4b52a9a90c6f
 ms.date: 06/08/2017
 ---

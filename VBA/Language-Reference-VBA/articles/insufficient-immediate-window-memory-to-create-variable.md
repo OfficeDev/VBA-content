@@ -3,7 +3,7 @@ title: Insufficient Immediate window memory to create variable
 keywords: vblr6.chm1018970
 f1_keywords:
 - vblr6.chm1018970
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ad57989-25e7-6578-dc93-6b61f5530c91
 ms.date: 06/08/2017
 ---

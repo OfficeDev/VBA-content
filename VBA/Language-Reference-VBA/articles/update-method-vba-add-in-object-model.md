@@ -3,7 +3,7 @@ title: Update Method (VBA Add-In Object Model)
 keywords: vbob6.chm102251
 f1_keywords:
 - vbob6.chm102251
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c88ee513-6d8e-9c40-2999-4cc217fc3fc8
 ms.date: 06/08/2017
 ---

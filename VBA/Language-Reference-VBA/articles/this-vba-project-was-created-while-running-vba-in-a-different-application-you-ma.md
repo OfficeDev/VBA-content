@@ -3,7 +3,7 @@ title: This VBA project was created while running VBA in a different application
 keywords: vblr6.chm50069
 f1_keywords:
 - vblr6.chm50069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66865fe3-746d-981e-2a26-a64570df21e2
 ms.date: 06/08/2017
 ---

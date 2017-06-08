@@ -3,7 +3,7 @@ title: This feature requires Internet Explorer 'item' or greater. You can obtain
 keywords: vblr6.chm50287
 f1_keywords:
 - vblr6.chm50287
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cbf86dbd-10cf-552b-1cab-908b8cf79e66
 ms.date: 06/08/2017
 ---

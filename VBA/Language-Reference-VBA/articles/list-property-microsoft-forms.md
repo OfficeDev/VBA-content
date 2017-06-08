@@ -3,7 +3,7 @@ title: List Property (Microsoft Forms)
 keywords: fm20.chm2001400
 f1_keywords:
 - fm20.chm2001400
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 15ea715a-a361-34f4-98af-520942a6664e
 ms.date: 06/08/2017
 ---

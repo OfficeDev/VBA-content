@@ -3,7 +3,7 @@ title: Method not valid without suitable object
 keywords: vblr6.chm1057032
 f1_keywords:
 - vblr6.chm1057032
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a7dc857a-e803-35d1-d7df-d2b9a3c79652
 ms.date: 06/08/2017
 ---

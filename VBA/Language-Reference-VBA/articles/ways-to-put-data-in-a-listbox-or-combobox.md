@@ -3,7 +3,7 @@ title: Ways to put data in a ListBox or ComboBox
 keywords: fm20.chm5225251
 f1_keywords:
 - fm20.chm5225251
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a1548a5-c172-410d-6874-7336bd677546
 ms.date: 06/08/2017
 ---

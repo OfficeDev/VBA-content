@@ -3,7 +3,7 @@ title: DateTime (Object Browser)
 keywords: vblr6.chm1011391
 f1_keywords:
 - vblr6.chm1011391
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4ccc6a6c-811a-fd99-40c6-73d8a44b75c7
 ms.date: 06/08/2017
 ---

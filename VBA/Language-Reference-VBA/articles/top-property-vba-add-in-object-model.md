@@ -3,7 +3,7 @@ title: Top Property (VBA Add-In Object Model)
 keywords: vbob6.chm100115
 f1_keywords:
 - vbob6.chm100115
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7eb1fde3-c83e-e8bf-b8f9-dd9326580d4e
 ms.date: 06/08/2017
 ---

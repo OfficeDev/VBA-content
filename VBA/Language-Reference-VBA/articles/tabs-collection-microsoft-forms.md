@@ -3,7 +3,7 @@ title: Tabs Collection (Microsoft Forms)
 keywords: fm20.chm5224997
 f1_keywords:
 - fm20.chm5224997
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Tabs
 ms.assetid: 30528064-bbe2-c967-6ee6-0640fc24e668

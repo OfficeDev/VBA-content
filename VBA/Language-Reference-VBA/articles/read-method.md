@@ -3,7 +3,7 @@ title: Read Method
 keywords: vblr6.chm2182076
 f1_keywords:
 - vblr6.chm2182076
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Read
 ms.assetid: 5fec09b1-ffbd-e572-4016-00343e33b797

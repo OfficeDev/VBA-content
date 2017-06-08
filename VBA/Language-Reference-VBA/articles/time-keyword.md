@@ -3,7 +3,7 @@ title: Time <keyword>
 keywords: vblr6.chm1011039
 f1_keywords:
 - vblr6.chm1011039
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d5e2509e-0229-4aa8-c3eb-6d01bcd4b3cf
 ms.date: 06/08/2017
 ---

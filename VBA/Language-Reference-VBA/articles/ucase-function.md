@@ -3,7 +3,7 @@ title: UCase Function
 keywords: vblr6.chm1009051
 f1_keywords:
 - vblr6.chm1009051
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 444bd68b-a2bf-11b2-e6b7-76edf9b03ecd
 ms.date: 06/08/2017
 ---

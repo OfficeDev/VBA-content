@@ -1,6 +1,6 @@
 ---
 title: Make <Project> Command (File Menu)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 894c2bfe-5e2e-6e53-5ca2-b28723507ee2
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Keys Method
 keywords: vblr6.chm2181951
 f1_keywords:
 - vblr6.chm2181951
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Keys
 ms.assetid: d5ec76fc-d293-264b-7b84-1d9e7cac170c

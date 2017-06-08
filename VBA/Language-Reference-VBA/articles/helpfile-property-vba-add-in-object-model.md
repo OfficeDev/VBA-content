@@ -3,7 +3,7 @@ title: HelpFile Property (VBA Add-In Object Model)
 keywords: vbob6.chm102007
 f1_keywords:
 - vbob6.chm102007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48cbc4a9-01b3-099b-4682-88815cc8b31b
 ms.date: 06/08/2017
 ---

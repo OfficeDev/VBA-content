@@ -3,7 +3,7 @@ title: Use the Project Explorer
 keywords: vbhw6.chm1107718
 f1_keywords:
 - vbhw6.chm1107718
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3033b704-db2b-1a2b-fce3-b273707a0bbd
 ms.date: 06/08/2017
 ---

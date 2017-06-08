@@ -3,7 +3,7 @@ title: Const Directive
 keywords: vblr6.chm1014460
 f1_keywords:
 - vblr6.chm1014460
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c5d74b3a-75b1-1263-ab98-82a1a1087207
 ms.date: 06/08/2017
 ---

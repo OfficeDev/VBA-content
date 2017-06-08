@@ -3,7 +3,7 @@ title: "Type mismatch: array or user-defined type expected"
 keywords: vblr6.chm1011306
 f1_keywords:
 - vblr6.chm1011306
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 31786025-b2c7-8046-4c15-f6bdfad54778
 ms.date: 06/08/2017
 ---

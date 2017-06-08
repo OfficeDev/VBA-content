@@ -3,7 +3,7 @@ title: LSet Statement
 keywords: vblr6.chm1008969
 f1_keywords:
 - vblr6.chm1008969
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ecf1dbcb-7f8d-9f98-2d49-f7ceb790415d
 ms.date: 06/08/2017
 ---

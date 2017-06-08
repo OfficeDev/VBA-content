@@ -3,7 +3,7 @@ title: WhatsThisHelp Property
 keywords: vblr6.chm916695
 f1_keywords:
 - vblr6.chm916695
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WhatsThisHelp
 ms.assetid: f36a9ddc-c0d3-c2d7-8cf8-03b49bd00679

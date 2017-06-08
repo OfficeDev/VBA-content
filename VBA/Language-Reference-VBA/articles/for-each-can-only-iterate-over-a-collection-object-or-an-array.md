@@ -3,7 +3,7 @@ title: For Each can only iterate over a collection object or an array
 keywords: vblr6.chm1011172
 f1_keywords:
 - vblr6.chm1011172
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0defd9d4-4775-c5dd-1212-951016efe997
 ms.date: 06/08/2017
 ---

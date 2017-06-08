@@ -3,7 +3,7 @@ title: Error accessing the system registry
 keywords: vblr6.chm1011263
 f1_keywords:
 - vblr6.chm1011263
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: faaa5544-d39f-2b3e-bd9f-656cb4f2661e
 ms.date: 06/08/2017
 ---

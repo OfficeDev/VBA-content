@@ -3,7 +3,7 @@ title: "Expected: <various>"
 keywords: vblr6.chm1011312
 f1_keywords:
 - vblr6.chm1011312
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 05deb22f-01c5-ff47-9f02-b31217740b95
 ms.date: 06/08/2017
 ---

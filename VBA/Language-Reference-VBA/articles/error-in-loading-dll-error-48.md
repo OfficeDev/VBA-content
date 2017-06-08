@@ -3,7 +3,7 @@ title: Error in loading DLL (Error 48)
 keywords: vblr6.chm1011129
 f1_keywords:
 - vblr6.chm1011129
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1dc4647e-3a73-9873-b10f-76b6c6ef1092
 ms.date: 06/08/2017
 ---

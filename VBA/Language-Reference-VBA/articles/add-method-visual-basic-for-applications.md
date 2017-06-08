@@ -3,7 +3,7 @@ title: Add Method (Visual Basic for Applications)
 keywords: vblr6.chm1014017
 f1_keywords:
 - vblr6.chm1014017
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c9e9eb2e-42b1-9821-67ab-2f68fb87d1d0
 ms.date: 06/08/2017
 ---

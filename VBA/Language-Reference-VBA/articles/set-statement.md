@@ -3,7 +3,7 @@ title: Set Statement
 keywords: vblr6.chm1009016
 f1_keywords:
 - vblr6.chm1009016
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 59de2927-b338-0038-50b9-3379d7331935
 ms.date: 06/08/2017
 ---

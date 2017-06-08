@@ -3,7 +3,7 @@ title: MacID Function
 keywords: vblr6.chm1009753
 f1_keywords:
 - vblr6.chm1009753
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4df07ec9-c165-ab5a-2864-ef1d9168d7e5
 ms.date: 06/08/2017
 ---

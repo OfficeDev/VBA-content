@@ -3,7 +3,7 @@ title: RmDir Statement
 keywords: vblr6.chm1009007
 f1_keywords:
 - vblr6.chm1009007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7bc350d2-7d1a-7c8c-95a8-8dbf5c8f7953
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Invalid event name
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1d11c27f-fb53-44aa-98b4-1b72365ad15b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Copy Here and Move Here Commands (Shortcut Menu)
 keywords: vbui6.chm1103803
 f1_keywords:
 - vbui6.chm1103803
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5492aaa9-cecd-a729-3266-a43cde7db051
 ms.date: 06/08/2017
 ---

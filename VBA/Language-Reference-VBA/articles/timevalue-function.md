@@ -3,7 +3,7 @@ title: TimeValue Function
 keywords: vblr6.chm1009045
 f1_keywords:
 - vblr6.chm1009045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02ce264a-aa6b-2249-da37-dee3522c2db7
 ms.date: 06/08/2017
 ---

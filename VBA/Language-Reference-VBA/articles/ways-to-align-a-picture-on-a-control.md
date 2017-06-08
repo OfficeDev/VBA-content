@@ -3,7 +3,7 @@ title: Ways to align a picture on a control
 keywords: fm20.chm5225263
 f1_keywords:
 - fm20.chm5225263
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30584c25-3cb7-86b9-91ad-9704b996ef32
 ms.date: 06/08/2017
 ---

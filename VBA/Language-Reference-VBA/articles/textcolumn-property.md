@@ -3,7 +3,7 @@ title: TextColumn Property
 keywords: fm20.chm2002090
 f1_keywords:
 - fm20.chm2002090
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TextColumn
 ms.assetid: 65a18466-3a31-d3a8-4585-eb0ba3a6e473

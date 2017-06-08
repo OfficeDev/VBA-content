@@ -3,7 +3,7 @@ title: Center controls in a form
 keywords: fm20.chm5225247
 f1_keywords:
 - fm20.chm5225247
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a3869a8f-dc62-a82a-771f-695b51ecaf7a
 ms.date: 06/08/2017
 ---

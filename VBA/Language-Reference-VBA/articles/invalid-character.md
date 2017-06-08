@@ -3,7 +3,7 @@ title: Invalid character
 keywords: vblr6.chm1040044
 f1_keywords:
 - vblr6.chm1040044
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 298d47e8-bae0-6c60-12ce-87b5a0114fd1
 ms.date: 06/08/2017
 ---

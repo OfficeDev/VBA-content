@@ -3,7 +3,7 @@ title: DragBehavior Property
 keywords: fm20.chm2001085
 f1_keywords:
 - fm20.chm2001085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DragBehavior
 ms.assetid: 8145cbe3-0e13-0715-1c21-b2f4f2ed7b86

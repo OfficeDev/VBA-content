@@ -3,7 +3,7 @@ title: ListCount Property
 keywords: fm20.chm5225054
 f1_keywords:
 - fm20.chm5225054
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ListCount
 ms.assetid: e6878930-514c-47cb-0961-bd9f5f79caff

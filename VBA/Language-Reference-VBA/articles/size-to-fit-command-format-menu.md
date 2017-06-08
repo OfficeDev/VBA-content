@@ -3,7 +3,7 @@ title: Size to Fit Command (Format Menu)
 keywords: vbui6.chm2057238
 f1_keywords:
 - vbui6.chm2057238
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c64366e4-a224-d327-83ca-c0740b7fbf88
 ms.date: 06/08/2017
 ---

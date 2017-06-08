@@ -3,7 +3,7 @@ title: Xor Operator
 keywords: vblr6.chm1009062
 f1_keywords:
 - vblr6.chm1009062
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30f2f390-e777-8793-a287-038fb9a18ce6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Object Property (VBA Add-In Object Model)
 keywords: vbob6.chm102052
 f1_keywords:
 - vbob6.chm102052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5d281fcf-eca0-6da8-fcd5-a620c9e65182
 ms.date: 06/08/2017
 ---

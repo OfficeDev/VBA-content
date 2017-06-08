@@ -3,7 +3,7 @@ title: WriteLine Method
 keywords: vblr6.chm2182082
 f1_keywords:
 - vblr6.chm2182082
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.WriteLine
 ms.assetid: 38118a0d-90ec-bfa0-3e5e-74a0b2c6c98b

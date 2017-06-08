@@ -3,7 +3,7 @@ title: Selected watch expression invalid
 keywords: vblr6.chm1040216
 f1_keywords:
 - vblr6.chm1040216
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b5a05c94-4ec4-f92b-6073-1635ed49ca69
 ms.date: 06/08/2017
 ---

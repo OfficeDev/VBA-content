@@ -3,7 +3,7 @@ title: DropButtonStyle Property
 keywords: fm20.chm2001110
 f1_keywords:
 - fm20.chm2001110
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DropButtonStyle
 ms.assetid: 14d5061f-1267-64b5-5734-65febe6e584c

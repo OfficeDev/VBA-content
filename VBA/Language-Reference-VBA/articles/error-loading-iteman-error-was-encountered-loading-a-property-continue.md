@@ -3,7 +3,7 @@ title: Error loading 'item'. An error was encountered loading a property. Contin
 keywords: vblr6.chm60054
 f1_keywords:
 - vblr6.chm60054
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e63d2ee-5977-e8f3-d18c-074f2c5f0fbc
 ms.date: 06/08/2017
 ---

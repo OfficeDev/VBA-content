@@ -3,7 +3,7 @@ title: Too many files (Error 67)
 keywords: vblr6.chm1011283
 f1_keywords:
 - vblr6.chm1011283
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d1ef7ab6-a99d-02ab-61ac-1743b95897f2
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Type-declaration character required
 keywords: vblr6.chm1011288
 f1_keywords:
 - vblr6.chm1011288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4da8cd8-bb2f-d536-7d4a-b7bf701bd361
 ms.date: 06/08/2017
 ---

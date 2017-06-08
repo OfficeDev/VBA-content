@@ -3,7 +3,7 @@ title: IMEStatus Function
 keywords: vblr6.chm1011064
 f1_keywords:
 - vblr6.chm1011064
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8fb525b1-0243-79c8-32fc-4eb8d634e351
 ms.date: 06/08/2017
 ---

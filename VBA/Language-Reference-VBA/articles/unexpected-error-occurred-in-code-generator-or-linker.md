@@ -3,7 +3,7 @@ title: Unexpected error occurred in code generator or linker
 keywords: vblr6.chm50239
 f1_keywords:
 - vblr6.chm50239
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f89780ad-b95b-e9e5-cdbf-3af463241343
 ms.date: 06/08/2017
 ---

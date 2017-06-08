@@ -3,7 +3,7 @@ title: CodePane Property
 keywords: vbob6.chm104023
 f1_keywords:
 - vbob6.chm104023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CodePane
 ms.assetid: a9eafd86-38f4-c0cf-83ea-dcb48e74cfad

@@ -3,7 +3,7 @@ title: Conflicting names were found in 'item1'. The name 'item2' will be used
 keywords: vblr6.chm1117734
 f1_keywords:
 - vblr6.chm1117734
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 192c06dc-eb31-dc19-bc84-b66171115fa6
 ms.date: 06/08/2017
 ---

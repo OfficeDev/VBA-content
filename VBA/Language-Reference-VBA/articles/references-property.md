@@ -3,7 +3,7 @@ title: References Property
 keywords: vbob6.chm102011
 f1_keywords:
 - vbob6.chm102011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.References
 ms.assetid: 2541f610-4780-1c89-c8dd-7aafa7c3490b

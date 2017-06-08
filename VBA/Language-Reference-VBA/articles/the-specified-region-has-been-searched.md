@@ -3,7 +3,7 @@ title: The specified region has been searched
 keywords: vblr6.chm1015671
 f1_keywords:
 - vblr6.chm1015671
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1fbad072-24ca-7b4c-b3a1-b7fc546e9e90
 ms.date: 06/08/2017
 ---

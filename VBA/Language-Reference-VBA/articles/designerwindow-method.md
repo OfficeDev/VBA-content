@@ -3,7 +3,7 @@ title: DesignerWindow Method
 keywords: vbob6.chm102199
 f1_keywords:
 - vbob6.chm102199
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.DesignerWindow
 ms.assetid: 1a116dab-56ce-087e-1789-614a3709c9cc

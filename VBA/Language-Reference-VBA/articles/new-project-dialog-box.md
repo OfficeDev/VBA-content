@@ -3,7 +3,7 @@ title: New Project Dialog Box
 keywords: vbui6.chm181047
 f1_keywords:
 - vbui6.chm181047
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 08129014-c542-ae31-66ff-8dd4a88a2cb5
 ms.date: 06/08/2017
 ---

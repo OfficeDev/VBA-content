@@ -3,7 +3,7 @@ title: Find Whole Word Only Command (Object Browser Shortcut Menu)
 keywords: vbui6.chm1069951
 f1_keywords:
 - vbui6.chm1069951
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b98c4f59-4cd8-2de3-6979-121580c80416
 ms.date: 06/08/2017
 ---

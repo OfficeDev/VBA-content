@@ -3,7 +3,7 @@ title: Tab Order Dialog Box
 keywords: vbui6.chm1080710
 f1_keywords:
 - vbui6.chm1080710
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2703249b-8077-d774-a5b3-fda8d39133f7
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: What is a shortcut menu?
 keywords: fm20.chm5225250
 f1_keywords:
 - fm20.chm5225250
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ba2cd298-d81b-892d-93c6-dc3666528809
 ms.date: 06/08/2017
 ---

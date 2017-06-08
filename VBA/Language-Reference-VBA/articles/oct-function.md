@@ -3,7 +3,7 @@ title: Oct Function
 keywords: vblr6.chm1008983
 f1_keywords:
 - vblr6.chm1008983
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 178a6099-9181-2160-2b97-e08c97f8b2bb
 ms.date: 06/08/2017
 ---

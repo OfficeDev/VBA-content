@@ -3,7 +3,7 @@ title: MatchFound Property
 keywords: fm20.chm5225061
 f1_keywords:
 - fm20.chm5225061
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.MatchFound
 ms.assetid: db350684-1758-a849-c9e1-34714a00f1c3

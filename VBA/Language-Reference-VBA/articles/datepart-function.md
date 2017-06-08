@@ -3,7 +3,7 @@ title: DatePart Function
 keywords: vblr6.chm1012951
 f1_keywords:
 - vblr6.chm1012951
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 65476ecc-c1d6-333e-b8b5-417a96373594
 ms.date: 06/08/2017
 ---

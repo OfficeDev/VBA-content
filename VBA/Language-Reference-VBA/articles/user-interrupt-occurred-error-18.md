@@ -3,7 +3,7 @@ title: User interrupt occurred (Error 18)
 keywords: vblr6.chm1000018
 f1_keywords:
 - vblr6.chm1000018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 82f08fba-d54b-8f20-6d29-9c95bdca0230
 ms.date: 06/08/2017
 ---

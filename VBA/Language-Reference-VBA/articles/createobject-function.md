@@ -3,7 +3,7 @@ title: CreateObject Function
 keywords: vblr6.chm1010851
 f1_keywords:
 - vblr6.chm1010851
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d887c3d3-5c60-09a1-6856-49f7c4cc05ba
 ms.date: 06/08/2017
 ---

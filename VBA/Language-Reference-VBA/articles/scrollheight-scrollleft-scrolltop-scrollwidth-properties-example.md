@@ -3,7 +3,7 @@ title: ScrollHeight, ScrollLeft, ScrollTop, ScrollWidth Properties Example
 keywords: fm20.chm5225138
 f1_keywords:
 - fm20.chm5225138
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79f36650-9779-1ae4-678c-9f239e1306e1
 ms.date: 06/08/2017
 ---

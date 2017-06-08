@@ -3,7 +3,7 @@ title: Click Event
 keywords: fm20.chm2000070
 f1_keywords:
 - fm20.chm2000070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Click
 ms.assetid: 655b57b1-74fc-75e9-eb8d-debb83afaea9

@@ -3,7 +3,7 @@ title: IIf Function
 keywords: vblr6.chm1012957
 f1_keywords:
 - vblr6.chm1012957
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a31d9f49-1f5a-324b-77a2-276eb573552a
 ms.date: 06/08/2017
 ---

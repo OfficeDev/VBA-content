@@ -3,7 +3,7 @@ title: "'item' designers can only be used in DLL projects"
 keywords: vblr6.chm50336
 f1_keywords:
 - vblr6.chm50336
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c57288a-9fb9-a899-5a68-41b1d7dbb9aa
 ms.date: 06/08/2017
 ---

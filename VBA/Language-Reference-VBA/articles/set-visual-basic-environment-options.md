@@ -3,7 +3,7 @@ title: Set Visual Basic Environment Options
 keywords: vbhw6.chm1105240
 f1_keywords:
 - vbhw6.chm1105240
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce85ae8c-9e02-2525-98e7-403d5a590d6c
 ms.date: 06/08/2017
 ---

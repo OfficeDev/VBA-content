@@ -3,7 +3,7 @@ title: Left, Top Properties
 keywords: fm20.chm916577
 f1_keywords:
 - fm20.chm916577
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 372b97d0-30b9-6def-acac-89416fe8b9fc
 ms.date: 06/08/2017
 ---

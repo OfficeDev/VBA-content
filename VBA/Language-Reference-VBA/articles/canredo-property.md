@@ -3,7 +3,7 @@ title: CanRedo Property
 keywords: fm20.chm2000860
 f1_keywords:
 - fm20.chm2000860
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CanRedo
 ms.assetid: 18b4b51d-3a8a-e03d-14b2-b262f6a12c78

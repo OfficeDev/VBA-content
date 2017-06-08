@@ -3,7 +3,7 @@ title: Bad file name or number (Error 52)
 keywords: vblr6.chm1000052
 f1_keywords:
 - vblr6.chm1000052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9318e732-9cba-c4ec-2108-8147b34e0847
 ms.date: 06/08/2017
 ---

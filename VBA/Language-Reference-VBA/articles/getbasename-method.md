@@ -3,7 +3,7 @@ title: GetBaseName Method
 keywords: vblr6.chm2182047
 f1_keywords:
 - vblr6.chm2182047
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.GetBaseName
 ms.assetid: 2f3af3ff-a996-e2f7-0048-1f5aa891d674

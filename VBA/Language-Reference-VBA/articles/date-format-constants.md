@@ -3,7 +3,7 @@ title: Date Format Constants
 keywords: vblr6.chm1012531
 f1_keywords:
 - vblr6.chm1012531
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 091f5a85-70f9-d9a5-8c4e-01b4d0c7b5eb
 ms.date: 06/08/2017
 ---

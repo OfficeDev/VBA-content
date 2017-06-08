@@ -3,7 +3,7 @@ title: Exit Do not within Do...Loop
 keywords: vblr6.chm1011146
 f1_keywords:
 - vblr6.chm1011146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 67b91b0c-681c-13aa-a5f3-daf5c16ba7ee
 ms.date: 06/08/2017
 ---

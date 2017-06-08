@@ -3,7 +3,7 @@ title: Add items to a list using the List or Column property
 keywords: fm20.chm5225253
 f1_keywords:
 - fm20.chm5225253
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 08757f51-9c54-9ef7-7268-48824515b020
 ms.date: 06/08/2017
 ---

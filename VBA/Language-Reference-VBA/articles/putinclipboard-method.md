@@ -3,7 +3,7 @@ title: PutInClipboard Method
 keywords: fm20.chm5224965
 f1_keywords:
 - fm20.chm5224965
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.PutInClipboard
 ms.assetid: fd097450-a929-d9ce-d7a9-b93e75f4ec14

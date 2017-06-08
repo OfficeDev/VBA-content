@@ -3,7 +3,7 @@ title: Value Property (Microsoft Forms)
 keywords: fm20.chm2002180
 f1_keywords:
 - fm20.chm2002180
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd61f3ae-54b3-6382-6ecf-0c5598279330
 ms.date: 06/08/2017
 ---

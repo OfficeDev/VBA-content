@@ -3,7 +3,7 @@ title: ShortPath Property
 keywords: vblr6.chm2181998
 f1_keywords:
 - vblr6.chm2181998
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ShortPath
 ms.assetid: 9d473ea7-d555-0d79-9dfc-4822aa99ccd8

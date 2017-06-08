@@ -3,7 +3,7 @@ title: Item' already exists in project
 keywords: vblr6.chm60059
 f1_keywords:
 - vblr6.chm60059
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5b00224d-ffb6-bd5a-e539-554aae7f5da1
 ms.date: 06/08/2017
 ---

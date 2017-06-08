@@ -3,7 +3,7 @@ title: Beep Statement
 keywords: vblr6.chm1008861
 f1_keywords:
 - vblr6.chm1008861
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61328fce-c26c-2758-436a-474da9aac8b7
 ms.date: 06/08/2017
 ---

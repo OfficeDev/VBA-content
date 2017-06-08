@@ -3,7 +3,7 @@ title: A module is not a valid type
 keywords: vblr6.chm1035024
 f1_keywords:
 - vblr6.chm1035024
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 09d3e93e-9fca-eccc-e9e4-d636bb2b7f28
 ms.date: 06/08/2017
 ---

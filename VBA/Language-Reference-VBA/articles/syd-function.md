@@ -3,7 +3,7 @@ title: SYD Function
 keywords: vblr6.chm1009290
 f1_keywords:
 - vblr6.chm1009290
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5afb589-eaf4-d253-8999-5063bcab680c
 ms.date: 06/08/2017
 ---

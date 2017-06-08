@@ -3,7 +3,7 @@ title: System DLL 'dll' could not be loaded (Error 298)
 keywords: vblr6.chm298
 f1_keywords:
 - vblr6.chm298
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a745d3df-9817-9f36-5548-af040b484e91
 ms.date: 06/08/2017
 ---

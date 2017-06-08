@@ -3,7 +3,7 @@ title: Lines Property
 keywords: vbob6.chm1098980
 f1_keywords:
 - vbob6.chm1098980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Lines
 ms.assetid: bd45d817-37c0-c130-7044-4794449505f3

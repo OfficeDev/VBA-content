@@ -3,7 +3,7 @@ title: Can't add a reference to the specified file
 keywords: vblr6.chm1015636
 f1_keywords:
 - vblr6.chm1015636
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e5a1c7f9-4689-e62e-0608-01750ad6309c
 ms.date: 06/08/2017
 ---

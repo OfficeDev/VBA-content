@@ -3,7 +3,7 @@ title: FolderExists Method
 keywords: vblr6.chm2182042
 f1_keywords:
 - vblr6.chm2182042
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FolderExists
 ms.assetid: 5a4e9c53-7561-3065-f2b3-545e9efc503d

@@ -3,7 +3,7 @@ title: The project file 'item1' contains invalid 'item2' key value. Valid range 
 keywords: vblr6.chm50064
 f1_keywords:
 - vblr6.chm50064
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6da22a15-9a10-b91e-a4c3-99d69e6ae3ca
 ms.date: 06/08/2017
 ---

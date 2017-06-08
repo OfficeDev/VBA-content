@@ -3,7 +3,7 @@ title: Zoom Property
 keywords: fm20.chm2002240
 f1_keywords:
 - fm20.chm2002240
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.Zoom
 ms.assetid: d5230fdb-8332-c136-231b-6e2ab3acaf6a

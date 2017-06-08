@@ -3,7 +3,7 @@ title: Make controls the same size
 keywords: fm20.chm5225243
 f1_keywords:
 - fm20.chm5225243
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b1cd9961-37b8-96e1-8f2a-6829a447e869
 ms.date: 06/08/2017
 ---

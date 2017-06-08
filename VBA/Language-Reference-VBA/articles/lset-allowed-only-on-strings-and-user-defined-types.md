@@ -3,7 +3,7 @@ title: LSet allowed only on strings and user-defined types
 keywords: vblr6.chm1011214
 f1_keywords:
 - vblr6.chm1011214
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e641999-66f1-46fb-869f-369d3f5274b8
 ms.date: 06/08/2017
 ---

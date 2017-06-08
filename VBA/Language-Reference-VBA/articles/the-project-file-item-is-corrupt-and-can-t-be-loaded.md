@@ -3,7 +3,7 @@ title: The project file 'item' is corrupt and can't be loaded
 keywords: vblr6.chm50059
 f1_keywords:
 - vblr6.chm50059
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af54c65d-2d49-1e53-2d88-2d73c629e4c1
 ms.date: 06/08/2017
 ---

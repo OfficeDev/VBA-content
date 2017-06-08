@@ -3,7 +3,7 @@ title: Enabled Property (Microsoft Forms)
 keywords: fm20.chm5225035
 f1_keywords:
 - fm20.chm5225035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7e0320e4-91fa-2d2d-c484-70e54831e33b
 ms.date: 06/08/2017
 ---

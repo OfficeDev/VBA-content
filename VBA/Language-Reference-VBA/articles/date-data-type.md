@@ -3,7 +3,7 @@ title: Date Data Type
 keywords: vblr6.chm1011011
 f1_keywords:
 - vblr6.chm1011011
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 728428b8-006d-aa0f-2532-f5154b1c56a4
 ms.date: 06/08/2017
 ---

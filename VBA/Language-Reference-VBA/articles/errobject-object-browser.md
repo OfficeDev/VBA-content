@@ -1,6 +1,6 @@
 ---
 title: ErrObject (Object Browser)
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 44cd4591-88bd-aefd-ba5d-74629358ae98
 ms.date: 06/08/2017
 ---

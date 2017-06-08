@@ -3,7 +3,7 @@ title: ProcBodyLine Property
 keywords: vbob6.chm104018
 f1_keywords:
 - vbob6.chm104018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ProcBodyLine
 ms.assetid: 63169755-41db-fd3a-a3f4-87efa0739d38

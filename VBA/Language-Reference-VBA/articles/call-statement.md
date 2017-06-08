@@ -3,7 +3,7 @@ title: Call Statement
 keywords: vblr6.chm1008863
 f1_keywords:
 - vblr6.chm1008863
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6232c5cd-8bfe-2316-a0f6-6323db933357
 ms.date: 06/08/2017
 ---

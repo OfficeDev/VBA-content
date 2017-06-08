@@ -3,7 +3,7 @@ title: Returning Strings from Functions
 keywords: vbcn6.chm1009791
 f1_keywords:
 - vbcn6.chm1009791
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7d344b4f-e262-7f3c-71e0-7e4a884db54e
 ms.date: 06/08/2017
 ---

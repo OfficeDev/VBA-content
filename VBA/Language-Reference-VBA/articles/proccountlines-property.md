@@ -3,7 +3,7 @@ title: ProcCountLines Property
 keywords: vbob6.chm104004
 f1_keywords:
 - vbob6.chm104004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ProcCountLines
 ms.assetid: 4527ede7-80e6-45ec-c645-8a1fd623921f

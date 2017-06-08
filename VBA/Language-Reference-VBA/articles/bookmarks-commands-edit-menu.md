@@ -3,7 +3,7 @@ title: Bookmarks Commands (Edit Menu)
 keywords: vbui6.chm2056298
 f1_keywords:
 - vbui6.chm2056298
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e503dc13-861b-98a8-42ee-42b0f813b2a4
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: FileName Property
 keywords: vbob6.chm102003
 f1_keywords:
 - vbob6.chm102003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.FileName
 ms.assetid: 626a11bf-894c-1831-657c-44d34311afd1

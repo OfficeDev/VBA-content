@@ -3,7 +3,7 @@ title: "'Item' property can't be set at run time (Error 382)"
 keywords: vblr6.chm382
 f1_keywords:
 - vblr6.chm382
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20149505-5b45-6c97-228e-839bee802c62
 ms.date: 06/08/2017
 ---

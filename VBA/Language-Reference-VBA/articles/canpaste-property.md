@@ -3,7 +3,7 @@ title: CanPaste Property
 keywords: fm20.chm2000850
 f1_keywords:
 - fm20.chm2000850
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.CanPaste
 ms.assetid: 697a2f98-8c42-663c-9ff7-0330d3977c43

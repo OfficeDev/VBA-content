@@ -3,7 +3,7 @@ title: ControlSource Property
 keywords: fm20.chm2000980
 f1_keywords:
 - fm20.chm2000980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ControlSource
 ms.assetid: 69e5e7bb-5be9-2cca-7693-ac9020578762

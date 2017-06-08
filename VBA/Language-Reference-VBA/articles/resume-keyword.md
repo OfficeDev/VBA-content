@@ -3,7 +3,7 @@ title: Resume <keyword>
 keywords: vblr6.chm1011357
 f1_keywords:
 - vblr6.chm1011357
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24d4dc07-c144-1feb-7443-58d6543bce04
 ms.date: 06/08/2017
 ---

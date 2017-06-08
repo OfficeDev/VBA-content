@@ -3,7 +3,7 @@ title: ListIndex Property
 keywords: fm20.chm2001430
 f1_keywords:
 - fm20.chm2001430
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.ListIndex
 ms.assetid: ec6f8ad0-472b-18e3-6c56-bf2e94152504

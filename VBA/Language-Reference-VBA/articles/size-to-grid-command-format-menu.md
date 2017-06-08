@@ -3,7 +3,7 @@ title: Size to Grid Command (Format Menu)
 keywords: vbui6.chm2057237
 f1_keywords:
 - vbui6.chm2057237
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7bd375ad-b0bc-3a28-2722-e2d69e32621a
 ms.date: 06/08/2017
 ---

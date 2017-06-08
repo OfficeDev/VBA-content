@@ -3,7 +3,7 @@ title: Debugging Tab (Project Properties Dialog Box)
 keywords: vbui6.chm181073
 f1_keywords:
 - vbui6.chm181073
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 05253875-0dd6-359d-0db9-19326cf9c514
 ms.date: 06/08/2017
 ---

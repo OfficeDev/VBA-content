@@ -3,7 +3,7 @@ title: GetAllSettings Function
 keywords: vblr6.chm1020903
 f1_keywords:
 - vblr6.chm1020903
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f87675b2-d14e-593d-94ab-259ab8da094d
 ms.date: 06/08/2017
 ---

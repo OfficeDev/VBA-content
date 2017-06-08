@@ -3,7 +3,7 @@ title: Like Operator
 keywords: vblr6.chm1008961
 f1_keywords:
 - vblr6.chm1008961
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6df80925-8331-6c8c-4fd3-f397de0e44c1
 ms.date: 06/08/2017
 ---

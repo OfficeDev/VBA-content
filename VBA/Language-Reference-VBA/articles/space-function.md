@@ -3,7 +3,7 @@ title: Space Function
 keywords: vblr6.chm1009026
 f1_keywords:
 - vblr6.chm1009026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa531cfb-863f-ede9-34b8-6000711d71ed
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Argument required for Property Let or Property Set
 keywords: vblr6.chm1040125
 f1_keywords:
 - vblr6.chm1040125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbefad41-c17c-d1d3-52ac-32389acb3b7f
 ms.date: 06/08/2017
 ---

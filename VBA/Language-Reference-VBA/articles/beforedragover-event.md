@@ -3,7 +3,7 @@ title: BeforeDragOver Event
 keywords: fm20.chm5224935
 f1_keywords:
 - fm20.chm5224935
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.BeforeDragOver
 ms.assetid: 0c2803fc-0f69-60d8-06fb-36870aad8a27

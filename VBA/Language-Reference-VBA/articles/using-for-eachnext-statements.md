@@ -3,7 +3,7 @@ title: Using For Each...Next Statements
 keywords: vbcn6.chm1076683
 f1_keywords:
 - vbcn6.chm1076683
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 76df8944-219a-c28b-c449-39a3108c11be
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Calling convention not supported by Visual Basic
 keywords: vblr6.chm1015676
 f1_keywords:
 - vblr6.chm1015676
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fad78b15-d547-ced5-d12b-35d07f66c341
 ms.date: 06/08/2017
 ---

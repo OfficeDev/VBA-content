@@ -3,7 +3,7 @@ title: TabKeyBehavior Property
 keywords: fm20.chm5225099
 f1_keywords:
 - fm20.chm5225099
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 api_name:
 - Office.TabKeyBehavior
 ms.assetid: 9019c946-8590-2538-fbf0-c9d131a78963
