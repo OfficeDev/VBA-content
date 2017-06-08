@@ -3,7 +3,7 @@ title: Chart.ShowReportFilterFieldButtons Property (Word)
 keywords: vbawd10.chm79366940
 f1_keywords:
 - vbawd10.chm79366940
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.ShowReportFilterFieldButtons
 ms.assetid: 716bcdfb-0e94-85c3-1a3d-2da6a6867f36

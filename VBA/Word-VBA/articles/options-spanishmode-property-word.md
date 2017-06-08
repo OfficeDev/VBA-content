@@ -3,7 +3,7 @@ title: Options.SpanishMode Property (Word)
 keywords: vbawd10.chm162988530
 f1_keywords:
 - vbawd10.chm162988530
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SpanishMode
 ms.assetid: 85780cbd-19e3-b855-580f-154a8f4a6fc1

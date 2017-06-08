@@ -3,7 +3,7 @@ title: OMathAutoCorrectEntries.Creator Property (Word)
 keywords: vbawd10.chm247988325
 f1_keywords:
 - vbawd10.chm247988325
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrectEntries.Creator
 ms.assetid: dbc31dea-9a82-e1fd-714a-1df7f1107ec1

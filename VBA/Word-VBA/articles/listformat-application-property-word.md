@@ -3,7 +3,7 @@ title: ListFormat.Application Property (Word)
 keywords: vbawd10.chm163578856
 f1_keywords:
 - vbawd10.chm163578856
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListFormat.Application
 ms.assetid: 42278377-deaa-92b2-8252-90ccf91f01ac

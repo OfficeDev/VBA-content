@@ -3,7 +3,7 @@ title: ChartGroup.HasUpDownBars Property (Word)
 keywords: vbawd10.chm263454738
 f1_keywords:
 - vbawd10.chm263454738
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.HasUpDownBars
 ms.assetid: 9c39f015-f8cc-633c-54a0-b68fc420d8f6

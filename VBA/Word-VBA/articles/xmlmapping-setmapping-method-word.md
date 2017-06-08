@@ -3,7 +3,7 @@ title: XMLMapping.SetMapping Method (Word)
 keywords: vbawd10.chm199688195
 f1_keywords:
 - vbawd10.chm199688195
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping.SetMapping
 ms.assetid: 0d33be39-f355-7a59-802c-33d031485a0e

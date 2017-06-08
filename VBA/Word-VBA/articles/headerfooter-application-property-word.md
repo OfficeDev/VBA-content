@@ -1,6 +1,6 @@
 ---
 title: HeaderFooter.Application Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter.Application
 ms.assetid: 6e30a37f-4891-022c-c174-4b26dccd2ae0

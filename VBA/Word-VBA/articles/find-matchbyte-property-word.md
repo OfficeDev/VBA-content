@@ -3,7 +3,7 @@ title: Find.MatchByte Property (Word)
 keywords: vbawd10.chm162529321
 f1_keywords:
 - vbawd10.chm162529321
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchByte
 ms.assetid: c7da111f-e3ea-dec9-8091-5ccd9cd63cc7

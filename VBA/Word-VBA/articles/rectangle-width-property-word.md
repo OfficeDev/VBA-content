@@ -3,7 +3,7 @@ title: Rectangle.Width Property (Word)
 keywords: vbawd10.chm234029061
 f1_keywords:
 - vbawd10.chm234029061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle.Width
 ms.assetid: f745556b-fa79-c63a-256c-de2bc1f32084

@@ -3,7 +3,7 @@ title: ProofreadingErrors.Item Method (Word)
 keywords: vbawd10.chm163250176
 f1_keywords:
 - vbawd10.chm163250176
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Item
 ms.assetid: ef5d363b-4fba-3232-0f87-b1fe2e8a1fae

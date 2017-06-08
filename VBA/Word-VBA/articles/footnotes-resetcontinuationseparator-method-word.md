@@ -3,7 +3,7 @@ title: Footnotes.ResetContinuationSeparator Method (Word)
 keywords: vbawd10.chm155320328
 f1_keywords:
 - vbawd10.chm155320328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.ResetContinuationSeparator
 ms.assetid: edb1dae6-3e62-b625-0982-64dec3b654c9

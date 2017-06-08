@@ -3,7 +3,7 @@ title: XMLNamespaces.InstallManifest Method (Word)
 keywords: vbawd10.chm248971366
 f1_keywords:
 - vbawd10.chm248971366
-ms.prod: WORD
+ms.prod: word
 ms.assetid: ab8805f3-5009-7322-5bd7-3005af630c5d
 ms.date: 06/08/2017
 ---

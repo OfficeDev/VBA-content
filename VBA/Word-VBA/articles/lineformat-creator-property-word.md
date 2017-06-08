@@ -3,7 +3,7 @@ title: LineFormat.Creator Property (Word)
 keywords: vbawd10.chm164234217
 f1_keywords:
 - vbawd10.chm164234217
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.Creator
 ms.assetid: 6602d5e5-6747-020d-cbbc-45caae348910

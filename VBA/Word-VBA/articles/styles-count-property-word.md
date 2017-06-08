@@ -3,7 +3,7 @@ title: Styles.Count Property (Word)
 keywords: vbawd10.chm153944065
 f1_keywords:
 - vbawd10.chm153944065
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Styles.Count
 ms.assetid: 2e6c62a3-e6d6-645b-2cbd-9007a3c899c9

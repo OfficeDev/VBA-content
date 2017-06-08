@@ -3,7 +3,7 @@ title: Application.MailMergeDataSourceLoad Event (Word)
 keywords: vbawd10.chm4000020
 f1_keywords:
 - vbawd10.chm4000020
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MailMergeDataSourceLoad
 ms.assetid: 56158dbd-45df-76ef-260d-117becd2e9ac

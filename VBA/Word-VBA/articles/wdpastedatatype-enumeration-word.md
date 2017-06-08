@@ -1,6 +1,6 @@
 ---
 title: WdPasteDataType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPasteDataType
 ms.assetid: 64af8012-67d3-f5af-1e68-ebf910ca14f4

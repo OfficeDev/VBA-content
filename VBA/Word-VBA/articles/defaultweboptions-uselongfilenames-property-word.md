@@ -3,7 +3,7 @@ title: DefaultWebOptions.UseLongFileNames Property (Word)
 keywords: vbawd10.chm165871622
 f1_keywords:
 - vbawd10.chm165871622
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.UseLongFileNames
 ms.assetid: 7897cd7d-3815-8fc5-e752-0d93dd257915

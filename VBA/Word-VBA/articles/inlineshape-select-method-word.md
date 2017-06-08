@@ -3,7 +3,7 @@ title: InlineShape.Select Method (Word)
 keywords: vbawd10.chm162070527
 f1_keywords:
 - vbawd10.chm162070527
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Select
 ms.assetid: daade35b-6084-8c5a-0ac6-671e18750e32

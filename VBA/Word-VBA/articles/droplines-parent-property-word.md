@@ -3,7 +3,7 @@ title: DropLines.Parent Property (Word)
 keywords: vbawd10.chm104988674
 f1_keywords:
 - vbawd10.chm104988674
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropLines.Parent
 ms.assetid: bca815fd-daba-6410-3cbe-6777bee08081

@@ -3,7 +3,7 @@ title: PageNumbers.Add Method (Word)
 keywords: vbawd10.chm159776869
 f1_keywords:
 - vbawd10.chm159776869
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.Add
 ms.assetid: d8a81795-035b-9702-bcd4-02c302607670

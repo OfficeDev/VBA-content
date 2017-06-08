@@ -3,7 +3,7 @@ title: TextColumn.Application Property (Word)
 keywords: vbawd10.chm158598120
 f1_keywords:
 - vbawd10.chm158598120
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumn.Application
 ms.assetid: d2ad2995-252b-bdc8-aa3a-7030b2d6965e

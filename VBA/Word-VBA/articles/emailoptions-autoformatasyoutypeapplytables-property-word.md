@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
 keywords: vbawd10.chm165347618
 f1_keywords:
 - vbawd10.chm165347618
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyTables
 ms.assetid: e7435efc-b4a1-97a3-a7b1-d6e1fabfd0c2

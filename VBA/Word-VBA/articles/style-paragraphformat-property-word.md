@@ -3,7 +3,7 @@ title: Style.ParagraphFormat Property (Word)
 keywords: vbawd10.chm153878537
 f1_keywords:
 - vbawd10.chm153878537
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.ParagraphFormat
 ms.assetid: 83f6d48e-e13f-d5ab-c18f-6345dd6f4e9c

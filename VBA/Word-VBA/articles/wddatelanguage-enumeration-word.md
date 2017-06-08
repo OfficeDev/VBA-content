@@ -1,6 +1,6 @@
 ---
 title: WdDateLanguage Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDateLanguage
 ms.assetid: fdb242cc-0cfb-3e3f-92f6-722039812502

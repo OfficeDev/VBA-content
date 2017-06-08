@@ -3,7 +3,7 @@ title: Options.RepeatWord Property (Word)
 keywords: vbawd10.chm162988515
 f1_keywords:
 - vbawd10.chm162988515
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.RepeatWord
 ms.assetid: e66de0e1-29ff-bfd6-8a51-b50ccf67dc54

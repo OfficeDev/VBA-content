@@ -3,7 +3,7 @@ title: TextColumns.Spacing Property (Word)
 keywords: vbawd10.chm158531687
 f1_keywords:
 - vbawd10.chm158531687
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.Spacing
 ms.assetid: af171eb4-fa49-370c-6a8f-bf95abd57c31

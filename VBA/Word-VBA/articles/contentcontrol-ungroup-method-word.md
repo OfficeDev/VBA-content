@@ -3,7 +3,7 @@ title: ContentControl.Ungroup Method (Word)
 keywords: vbawd10.chm266534936
 f1_keywords:
 - vbawd10.chm266534936
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Ungroup
 ms.assetid: 533e80a7-e2a0-ff46-3464-03e5de7faaf1

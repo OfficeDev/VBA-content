@@ -3,7 +3,7 @@ title: Global.CustomizationContext Property (Word)
 keywords: vbawd10.chm163119172
 f1_keywords:
 - vbawd10.chm163119172
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.CustomizationContext
 ms.assetid: e541c2ee-4a4e-5fc0-fd1a-5c9a99d8f7e9

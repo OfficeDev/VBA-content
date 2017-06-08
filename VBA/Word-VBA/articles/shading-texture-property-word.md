@@ -3,7 +3,7 @@ title: Shading.Texture Property (Word)
 keywords: vbawd10.chm154796035
 f1_keywords:
 - vbawd10.chm154796035
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shading.Texture
 ms.assetid: 97fac431-4e0a-fd92-9845-47ee99196a78

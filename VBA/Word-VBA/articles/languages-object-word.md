@@ -1,6 +1,6 @@
 ---
 title: Languages Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e3b1d3f3-de1b-d2fe-962f-5a589842d1b0
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Envelope.DefaultPrintFIMA Property (Word)
 keywords: vbawd10.chm152567813
 f1_keywords:
 - vbawd10.chm152567813
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.DefaultPrintFIMA
 ms.assetid: 13cba63f-dc2a-722e-1bc2-21db8c0e82cd

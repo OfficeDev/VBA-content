@@ -3,7 +3,7 @@ title: Font.NameOther Property (Word)
 keywords: vbawd10.chm156369054
 f1_keywords:
 - vbawd10.chm156369054
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.NameOther
 ms.assetid: d3bfd1f6-e561-ed05-b0a6-e886d6e2264c

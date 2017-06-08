@@ -3,7 +3,7 @@ title: ListLevel.Application Property (Word)
 keywords: vbawd10.chm160236520
 f1_keywords:
 - vbawd10.chm160236520
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.Application
 ms.assetid: 4e4f74db-a6e6-0152-281a-8b4e555df5b8

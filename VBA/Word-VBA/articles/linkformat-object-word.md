@@ -3,7 +3,7 @@ title: LinkFormat Object (Word)
 keywords: vbawd10.chm2353
 f1_keywords:
 - vbawd10.chm2353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat
 ms.assetid: ca37d4e2-e978-8e6a-1e7a-7e43cf41e6c2

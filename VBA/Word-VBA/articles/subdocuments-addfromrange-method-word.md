@@ -3,7 +3,7 @@ title: Subdocuments.AddFromRange Method (Word)
 keywords: vbawd10.chm159907941
 f1_keywords:
 - vbawd10.chm159907941
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocuments.AddFromRange
 ms.assetid: ca205880-99d4-2cc5-cb45-3fd8fd60cf36

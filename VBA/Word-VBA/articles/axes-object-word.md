@@ -1,6 +1,6 @@
 ---
 title: Axes Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axes
 ms.assetid: 57261ca9-7fd6-ba99-19bd-5df8e940f714

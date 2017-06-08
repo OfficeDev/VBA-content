@@ -3,7 +3,7 @@ title: ErrorBars.Application Property (Word)
 keywords: vbawd10.chm74842260
 f1_keywords:
 - vbawd10.chm74842260
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ErrorBars.Application
 ms.assetid: 1a570155-974f-dd5d-98fd-c169f3acbbe1

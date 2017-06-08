@@ -3,7 +3,7 @@ title: TableOfFigures.Delete Method (Word)
 keywords: vbawd10.chm153157732
 f1_keywords:
 - vbawd10.chm153157732
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.Delete
 ms.assetid: cd35bd01-1a2f-b14b-c1ef-f6279458d592

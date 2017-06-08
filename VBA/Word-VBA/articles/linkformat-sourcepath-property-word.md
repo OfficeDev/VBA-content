@@ -3,7 +3,7 @@ title: LinkFormat.SourcePath Property (Word)
 keywords: vbawd10.chm154206213
 f1_keywords:
 - vbawd10.chm154206213
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat.SourcePath
 ms.assetid: c5aa7b91-7c65-b9d7-3e5e-8eb203340d08

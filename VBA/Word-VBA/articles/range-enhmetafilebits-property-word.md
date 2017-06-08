@@ -3,7 +3,7 @@ title: Range.EnhMetaFileBits Property (Word)
 keywords: vbawd10.chm157155673
 f1_keywords:
 - vbawd10.chm157155673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.EnhMetaFileBits
 ms.assetid: 1e43483a-fb1d-5855-ec42-047f9bc9ef44

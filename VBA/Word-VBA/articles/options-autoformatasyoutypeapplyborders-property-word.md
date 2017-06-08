@@ -3,7 +3,7 @@ title: Options.AutoFormatAsYouTypeApplyBorders Property (Word)
 keywords: vbawd10.chm162988293
 f1_keywords:
 - vbawd10.chm162988293
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 6600f044-10a7-9cc6-51d2-63c73d158219

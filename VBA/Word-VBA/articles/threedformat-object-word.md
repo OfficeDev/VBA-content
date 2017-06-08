@@ -3,7 +3,7 @@ title: ThreeDFormat Object (Word)
 keywords: vbawd10.chm2512
 f1_keywords:
 - vbawd10.chm2512
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat
 ms.assetid: d397e780-a53d-0cc3-7a02-b40397253e91

@@ -3,7 +3,7 @@ title: Paragraphs.SpaceAfter Property (Word)
 keywords: vbawd10.chm156762224
 f1_keywords:
 - vbawd10.chm156762224
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.SpaceAfter
 ms.assetid: 78a75278-acca-a588-0fef-01511cf67a20

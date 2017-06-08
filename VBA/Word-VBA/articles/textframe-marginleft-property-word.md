@@ -3,7 +3,7 @@ title: TextFrame.MarginLeft Property (Word)
 keywords: vbawd10.chm162660453
 f1_keywords:
 - vbawd10.chm162660453
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.MarginLeft
 ms.assetid: 4f4deac5-a4be-af1d-72ac-f9c3481b0290

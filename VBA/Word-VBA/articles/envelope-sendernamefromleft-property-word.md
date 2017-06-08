@@ -3,7 +3,7 @@ title: Envelope.SenderNamefromLeft Property (Word)
 keywords: vbawd10.chm152567835
 f1_keywords:
 - vbawd10.chm152567835
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.SenderNamefromLeft
 ms.assetid: 3cd5009a-d500-3346-ffea-957f905d3929

@@ -3,7 +3,7 @@ title: Browser.Parent Property (Word)
 keywords: vbawd10.chm154010602
 f1_keywords:
 - vbawd10.chm154010602
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Parent
 ms.assetid: 0cc3060e-0bda-31ac-ec51-326e3c6d9d47

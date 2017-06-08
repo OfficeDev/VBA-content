@@ -3,7 +3,7 @@ title: Document.UserControl Property (Word)
 keywords: vbawd10.chm158007388
 f1_keywords:
 - vbawd10.chm158007388
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.UserControl
 ms.assetid: 34ab71eb-397e-4c14-dfbe-d3f29f84c753

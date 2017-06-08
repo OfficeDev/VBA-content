@@ -3,7 +3,7 @@ title: Initializing Control Properties (Word)
 keywords: vbawd10.chm5211067
 f1_keywords:
 - vbawd10.chm5211067
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 18ae617c-6d51-ae79-be3c-1493ce4f6ef3
 ms.date: 06/08/2017
 ---

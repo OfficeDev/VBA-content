@@ -3,7 +3,7 @@ title: Font.DiacriticColor Property (Word)
 keywords: vbawd10.chm156369061
 f1_keywords:
 - vbawd10.chm156369061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.DiacriticColor
 ms.assetid: cae2bd1b-3ecb-48a4-0ba8-6273d1cd75d8

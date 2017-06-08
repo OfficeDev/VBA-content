@@ -3,7 +3,7 @@ title: PageSetup.Application Property (Word)
 keywords: vbawd10.chm158401512
 f1_keywords:
 - vbawd10.chm158401512
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.Application
 ms.assetid: 493943cb-cbdd-1d3f-4383-515234199b41

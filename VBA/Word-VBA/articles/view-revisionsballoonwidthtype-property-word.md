@@ -3,7 +3,7 @@ title: View.RevisionsBalloonWidthType Property (Word)
 keywords: vbawd10.chm161808425
 f1_keywords:
 - vbawd10.chm161808425
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.RevisionsBalloonWidthType
 ms.assetid: f300fc90-df18-cef4-bc00-dce76f2feff8

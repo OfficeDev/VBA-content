@@ -1,6 +1,6 @@
 ---
 title: How do I... (Word VBA reference)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 93242a67-809e-5e31-d8c4-50430332ab5a
 ms.date: 06/08/2017
 ---

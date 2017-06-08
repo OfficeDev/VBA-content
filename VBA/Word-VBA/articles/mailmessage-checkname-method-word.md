@@ -3,7 +3,7 @@ title: MailMessage.CheckName Method (Word)
 keywords: vbawd10.chm163184974
 f1_keywords:
 - vbawd10.chm163184974
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.CheckName
 ms.assetid: 2888dfb7-5773-cbf8-8865-c90875411476

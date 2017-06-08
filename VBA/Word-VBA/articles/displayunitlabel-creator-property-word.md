@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Creator Property (Word)
 keywords: vbawd10.chm94568597
 f1_keywords:
 - vbawd10.chm94568597
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Creator
 ms.assetid: 91197a0c-026a-6069-8739-d5b7627092a4

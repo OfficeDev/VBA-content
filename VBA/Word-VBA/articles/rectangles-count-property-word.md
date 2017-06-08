@@ -1,6 +1,6 @@
 ---
 title: Rectangles.Count Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangles.Count
 ms.assetid: 8f8df110-2656-af0c-850a-2f21ac57030c

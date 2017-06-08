@@ -3,7 +3,7 @@ title: MailMerge.Execute Method (Word)
 keywords: vbawd10.chm153092201
 f1_keywords:
 - vbawd10.chm153092201
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.Execute
 ms.assetid: ffce766a-2e2d-9633-e1d8-129a3976cadd

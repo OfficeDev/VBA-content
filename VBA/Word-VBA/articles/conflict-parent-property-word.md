@@ -3,7 +3,7 @@ title: Conflict.Parent Property (Word)
 keywords: vbawd10.chm78709738
 f1_keywords:
 - vbawd10.chm78709738
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflict.Parent
 ms.assetid: 429e819e-86cd-9318-3342-171c74646a43

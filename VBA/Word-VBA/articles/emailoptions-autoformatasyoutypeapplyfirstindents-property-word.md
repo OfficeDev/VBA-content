@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeApplyFirstIndents Property (Word)
 keywords: vbawd10.chm165347625
 f1_keywords:
 - vbawd10.chm165347625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyFirstIndents
 ms.assetid: a05e77d8-9280-7754-e842-6fe3ae66eaa9

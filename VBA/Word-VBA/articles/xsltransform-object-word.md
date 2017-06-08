@@ -3,7 +3,7 @@ title: XSLTransform Object (Word)
 keywords: vbawd10.chm1171
 f1_keywords:
 - vbawd10.chm1171
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XSLTransform
 ms.assetid: cccf0383-8b21-0f46-b5b6-9a092599fd76

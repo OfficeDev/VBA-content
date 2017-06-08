@@ -3,7 +3,7 @@ title: Options.CheckGrammarWithSpelling Property (Word)
 keywords: vbawd10.chm162988317
 f1_keywords:
 - vbawd10.chm162988317
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CheckGrammarWithSpelling
 ms.assetid: b08d1bc4-bc9c-c9b3-0448-92a051809a25

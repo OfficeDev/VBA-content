@@ -3,7 +3,7 @@ title: Document.Indexes Property (Word)
 keywords: vbawd10.chm158007335
 f1_keywords:
 - vbawd10.chm158007335
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Indexes
 ms.assetid: 47a8a5d3-3c3c-81f0-8d51-5459c5bc7f89

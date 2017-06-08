@@ -3,7 +3,7 @@ title: Selection.InsertNewPage Method (Word)
 keywords: vbawd10.chm158663697
 f1_keywords:
 - vbawd10.chm158663697
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertNewPage
 ms.assetid: 54c7e18a-6dfb-b8da-0e6d-3c53e71f42cd

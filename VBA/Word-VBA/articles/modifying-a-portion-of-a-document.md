@@ -1,6 +1,6 @@
 ---
 title: Modifying a Portion of a Document
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e664871f-4499-421e-deb7-e064cdeba0f0
 ms.date: 06/08/2017
 ---

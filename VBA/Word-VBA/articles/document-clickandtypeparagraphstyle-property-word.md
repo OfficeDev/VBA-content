@@ -3,7 +3,7 @@ title: Document.ClickAndTypeParagraphStyle Property (Word)
 keywords: vbawd10.chm158007624
 f1_keywords:
 - vbawd10.chm158007624
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ClickAndTypeParagraphStyle
 ms.assetid: e53d3740-265f-b3ed-350a-24dd97d9f7ab

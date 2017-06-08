@@ -3,7 +3,7 @@ title: ShapeRange.Vertices Property (Word)
 keywords: vbawd10.chm162857086
 f1_keywords:
 - vbawd10.chm162857086
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Vertices
 ms.assetid: 1e27dbd8-2800-fe7f-4769-b6e9a4e802b5

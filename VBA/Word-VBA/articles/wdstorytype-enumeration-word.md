@@ -1,6 +1,6 @@
 ---
 title: WdStoryType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdStoryType
 ms.assetid: 046fab29-72c8-8b71-4d3a-903e5cb15326

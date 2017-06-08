@@ -3,7 +3,7 @@ title: CaptionLabels.Creator Property (Word)
 keywords: vbawd10.chm158860265
 f1_keywords:
 - vbawd10.chm158860265
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabels.Creator
 ms.assetid: 956eec82-9d92-880c-83ad-2437e7bc6e41

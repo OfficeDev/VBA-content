@@ -3,7 +3,7 @@ title: Bibliography Object (Word)
 keywords: vbawd10.chm1551
 f1_keywords:
 - vbawd10.chm1551
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bibliography
 ms.assetid: 2e6c5a98-5c49-2404-e519-ef8bfc4215d2

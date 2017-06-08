@@ -3,7 +3,7 @@ title: Trendline.Format Property (Word)
 keywords: vbawd10.chm26345501
 f1_keywords:
 - vbawd10.chm26345501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.Format
 ms.assetid: ee749a39-2b49-1e03-0b3d-08b781f136df

@@ -3,7 +3,7 @@ title: Application.WindowBeforeDoubleClick Event (Word)
 keywords: vbawd10.chm4000013
 f1_keywords:
 - vbawd10.chm4000013
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WindowBeforeDoubleClick
 ms.assetid: ece03591-0410-9dac-dedf-72c736dd477a

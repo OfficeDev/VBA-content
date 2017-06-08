@@ -3,7 +3,7 @@ title: Table.ApplyStyleLastRow Property (Word)
 keywords: vbawd10.chm156303563
 f1_keywords:
 - vbawd10.chm156303563
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.ApplyStyleLastRow
 ms.assetid: 007ac0c4-bec8-9c48-99e2-017567415193

@@ -3,7 +3,7 @@ title: UndoRecord.Application Property (Word)
 keywords: vbawd10.chm56099816
 f1_keywords:
 - vbawd10.chm56099816
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UndoRecord.Application
 ms.assetid: ffabdf37-3ac6-318f-3481-6dde1993debf

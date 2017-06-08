@@ -3,7 +3,7 @@ title: Trendline.Forward2 Property (Word)
 keywords: vbawd10.chm26348123
 f1_keywords:
 - vbawd10.chm26348123
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.Forward2
 ms.assetid: a1135396-fca9-329f-27a7-964a305604b6

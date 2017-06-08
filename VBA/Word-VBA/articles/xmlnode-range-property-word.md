@@ -3,7 +3,7 @@ title: XMLNode.Range Property (Word)
 keywords: vbawd10.chm37748737
 f1_keywords:
 - vbawd10.chm37748737
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.Range
 ms.assetid: f953f6ad-c8ca-8680-b505-600548368c3f

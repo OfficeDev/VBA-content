@@ -3,7 +3,7 @@ title: Options.MultipleWordConversionsMode Property (Word)
 keywords: vbawd10.chm162988375
 f1_keywords:
 - vbawd10.chm162988375
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MultipleWordConversionsMode
 ms.assetid: 4200229d-9a37-4b51-6cdc-e24e241aceff

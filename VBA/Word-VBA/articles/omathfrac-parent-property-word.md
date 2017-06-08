@@ -3,7 +3,7 @@ title: OMathFrac.Parent Property (Word)
 keywords: vbawd10.chm158597222
 f1_keywords:
 - vbawd10.chm158597222
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFrac.Parent
 ms.assetid: 6e1c6d85-7c27-9c39-5753-568817626b55

@@ -3,7 +3,7 @@ title: ShadowFormat.OffsetX Property (Word)
 keywords: vbawd10.chm164364390
 f1_keywords:
 - vbawd10.chm164364390
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShadowFormat.OffsetX
 ms.assetid: 5556921b-b96b-7e28-8cd4-7be3475f6a6f

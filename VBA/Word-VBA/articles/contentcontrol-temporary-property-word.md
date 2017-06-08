@@ -3,7 +3,7 @@ title: ContentControl.Temporary Property (Word)
 keywords: vbawd10.chm266534929
 f1_keywords:
 - vbawd10.chm266534929
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Temporary
 ms.assetid: 66c1e5d6-9eb9-7d2e-dece-6b5c02373cb8

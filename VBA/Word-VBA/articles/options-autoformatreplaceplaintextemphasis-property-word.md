@@ -3,7 +3,7 @@ title: Options.AutoFormatReplacePlainTextEmphasis Property (Word)
 keywords: vbawd10.chm162988290
 f1_keywords:
 - vbawd10.chm162988290
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatReplacePlainTextEmphasis
 ms.assetid: a01034cc-18b0-425f-8296-884382a17b3c

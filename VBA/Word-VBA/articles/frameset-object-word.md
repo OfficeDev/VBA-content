@@ -3,7 +3,7 @@ title: Frameset Object (Word)
 keywords: vbawd10.chm2530
 f1_keywords:
 - vbawd10.chm2530
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset
 ms.assetid: d76806db-c82f-f7b6-fb85-28a649de48a7

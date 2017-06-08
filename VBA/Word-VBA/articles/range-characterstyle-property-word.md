@@ -3,7 +3,7 @@ title: Range.CharacterStyle Property (Word)
 keywords: vbawd10.chm157155748
 f1_keywords:
 - vbawd10.chm157155748
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.CharacterStyle
 ms.assetid: 22b57138-4e16-d144-9246-18b94ce463e7

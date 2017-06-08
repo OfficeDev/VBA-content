@@ -3,7 +3,7 @@ title: Languages.Count Property (Word)
 keywords: vbawd10.chm158203906
 f1_keywords:
 - vbawd10.chm158203906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Languages.Count
 ms.assetid: 44044dcf-0e8f-e890-afd5-1c22a9dfb4bb

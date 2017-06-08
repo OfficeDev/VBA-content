@@ -3,7 +3,7 @@ title: UpBars Object (Word)
 keywords: vbawd10.chm2761
 f1_keywords:
 - vbawd10.chm2761
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars
 ms.assetid: 22dff1d2-8f1b-8c48-354c-570906e0f830

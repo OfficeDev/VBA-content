@@ -3,7 +3,7 @@ title: Document.Lists Property (Word)
 keywords: vbawd10.chm158007360
 f1_keywords:
 - vbawd10.chm158007360
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Lists
 ms.assetid: 06d5539e-f0a2-0c93-4ade-26403eb6433e

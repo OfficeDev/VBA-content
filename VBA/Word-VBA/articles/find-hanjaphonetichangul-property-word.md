@@ -3,7 +3,7 @@ title: Find.HanjaPhoneticHangul Property (Word)
 keywords: vbawd10.chm162529389
 f1_keywords:
 - vbawd10.chm162529389
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.HanjaPhoneticHangul
 ms.assetid: a08838e5-c9fd-661c-a2ed-d75507798fce

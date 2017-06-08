@@ -3,7 +3,7 @@ title: Application.ResetIgnoreAll Method (Word)
 keywords: vbawd10.chm158335302
 f1_keywords:
 - vbawd10.chm158335302
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ResetIgnoreAll
 ms.assetid: 8a6dcb30-23bb-70bb-e257-e519bc63a289

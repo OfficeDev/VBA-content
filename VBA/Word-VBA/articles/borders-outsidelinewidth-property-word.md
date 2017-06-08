@@ -3,7 +3,7 @@ title: Borders.OutsideLineWidth Property (Word)
 keywords: vbawd10.chm154927113
 f1_keywords:
 - vbawd10.chm154927113
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.OutsideLineWidth
 ms.assetid: 4f2c2f67-7a0e-e06a-c49c-30e8446bebe2

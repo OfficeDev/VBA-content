@@ -3,7 +3,7 @@ title: Options.DisableFeaturesIntroducedAfterbyDefault Property (Word)
 keywords: vbawd10.chm162988469
 f1_keywords:
 - vbawd10.chm162988469
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DisableFeaturesIntroducedAfterbyDefault
 ms.assetid: a7cf788b-f5c1-2d7e-b3de-1261b2a65c45

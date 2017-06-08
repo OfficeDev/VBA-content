@@ -1,6 +1,6 @@
 ---
 title: WdFramesetNewFrameLocation Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFramesetNewFrameLocation
 ms.assetid: a03e6aa0-5b58-de2b-706e-de05de683d0b

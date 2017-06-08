@@ -3,7 +3,7 @@ title: MailMergeFields.AddAsk Method (Word)
 keywords: vbawd10.chm153026662
 f1_keywords:
 - vbawd10.chm153026662
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddAsk
 ms.assetid: ea52714b-c7c3-a175-67b3-3ce9645218d2

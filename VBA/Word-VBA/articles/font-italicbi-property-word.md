@@ -3,7 +3,7 @@ title: Font.ItalicBi Property (Word)
 keywords: vbawd10.chm156369057
 f1_keywords:
 - vbawd10.chm156369057
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.ItalicBi
 ms.assetid: 56b1a7cb-2e42-7ff7-d7b8-80f047fb3d4b

@@ -3,7 +3,7 @@ title: DefaultWebOptions.CheckIfWordIsDefaultHTMLEditor Property (Word)
 keywords: vbawd10.chm165871624
 f1_keywords:
 - vbawd10.chm165871624
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.CheckIfWordIsDefaultHTMLEditor
 ms.assetid: 9d3fbbe1-3a21-64eb-1266-ce22b2332e61

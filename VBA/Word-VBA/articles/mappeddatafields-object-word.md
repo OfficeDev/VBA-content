@@ -3,7 +3,7 @@ title: MappedDataFields Object (Word)
 keywords: vbawd10.chm2068
 f1_keywords:
 - vbawd10.chm2068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MappedDataFields
 ms.assetid: d67de1fb-f495-ff4a-f21d-fd165a96232c

@@ -3,7 +3,7 @@ title: DownBars.Format Property (Word)
 keywords: vbawd10.chm107151367
 f1_keywords:
 - vbawd10.chm107151367
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Format
 ms.assetid: d92d6442-6ac0-0501-97cd-155b4eec9346

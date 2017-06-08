@@ -3,7 +3,7 @@ title: ChartTitle.Position Property (Word)
 keywords: vbawd10.chm65275527
 f1_keywords:
 - vbawd10.chm65275527
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Position
 ms.assetid: d587c2a8-1315-de5b-ef3e-fb19d4eb84b8

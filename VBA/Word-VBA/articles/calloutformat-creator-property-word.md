@@ -3,7 +3,7 @@ title: CalloutFormat.Creator Property (Word)
 keywords: vbawd10.chm163906537
 f1_keywords:
 - vbawd10.chm163906537
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.Creator
 ms.assetid: a10b94d3-f69d-ef40-0a4d-081e6e3bad2e

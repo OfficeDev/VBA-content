@@ -3,7 +3,7 @@ title: ParagraphFormat.IndentFirstLineCharWidth Method (Word)
 keywords: vbawd10.chm156434754
 f1_keywords:
 - vbawd10.chm156434754
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.IndentFirstLineCharWidth
 ms.assetid: 9531e607-4287-d4a3-de85-315e806d9b51

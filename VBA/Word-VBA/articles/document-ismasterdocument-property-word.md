@@ -3,7 +3,7 @@ title: Document.IsMasterDocument Property (Word)
 keywords: vbawd10.chm158007342
 f1_keywords:
 - vbawd10.chm158007342
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.IsMasterDocument
 ms.assetid: fadf30e4-9a35-40ef-0b89-ebd981577624

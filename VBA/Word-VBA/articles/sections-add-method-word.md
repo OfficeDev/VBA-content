@@ -3,7 +3,7 @@ title: Sections.Add Method (Word)
 keywords: vbawd10.chm156893189
 f1_keywords:
 - vbawd10.chm156893189
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.Add
 ms.assetid: 85063c54-fcd6-8421-2de1-e7fc90289336

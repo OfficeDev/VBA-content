@@ -3,7 +3,7 @@ title: Source.XML Property (Word)
 keywords: vbawd10.chm140836969
 f1_keywords:
 - vbawd10.chm140836969
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Source.XML
 ms.assetid: 811cd77f-558d-a884-3ef3-911c79410b2f

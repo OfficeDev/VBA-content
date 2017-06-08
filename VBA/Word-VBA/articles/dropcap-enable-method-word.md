@@ -3,7 +3,7 @@ title: DropCap.Enable Method (Word)
 keywords: vbawd10.chm156631141
 f1_keywords:
 - vbawd10.chm156631141
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.Enable
 ms.assetid: 7e4bdd80-696c-c225-8f7e-0debdf071f27

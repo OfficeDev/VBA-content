@@ -1,6 +1,6 @@
 ---
 title: WdSortSeparator Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSortSeparator
 ms.assetid: 335cd319-d512-07f7-5605-f59869f542f1

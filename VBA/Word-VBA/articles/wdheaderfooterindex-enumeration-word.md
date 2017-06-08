@@ -1,6 +1,6 @@
 ---
 title: WdHeaderFooterIndex Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdHeaderFooterIndex
 ms.assetid: de39de15-b91e-4058-0eec-08ed16078a82

@@ -3,7 +3,7 @@ title: Document.HasVBProject Property (Word)
 keywords: vbawd10.chm158007844
 f1_keywords:
 - vbawd10.chm158007844
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.HasVBProject
 ms.assetid: 1338623e-5832-b77a-cf72-f09d7c8c80de

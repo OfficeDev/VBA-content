@@ -3,7 +3,7 @@ title: LegendEntry.Width Property (Word)
 keywords: vbawd10.chm4784250
 f1_keywords:
 - vbawd10.chm4784250
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntry.Width
 ms.assetid: 9a40261b-eaa5-dc40-4ab0-0959a7b4ab9f

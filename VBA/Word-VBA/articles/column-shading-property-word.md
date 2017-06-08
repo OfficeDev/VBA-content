@@ -3,7 +3,7 @@ title: Column.Shading Property (Word)
 keywords: vbawd10.chm156172390
 f1_keywords:
 - vbawd10.chm156172390
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Shading
 ms.assetid: d85b6720-6be8-6c2d-6e14-7c30c40f83ec

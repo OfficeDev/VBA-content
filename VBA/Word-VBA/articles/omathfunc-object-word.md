@@ -3,7 +3,7 @@ title: OMathFunc Object (Word)
 keywords: vbawd10.chm2783
 f1_keywords:
 - vbawd10.chm2783
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunc
 ms.assetid: c9acb683-6616-5f2e-d459-ea67b843c5d8

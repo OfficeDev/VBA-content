@@ -3,7 +3,7 @@ title: Table.Rows Property (Word)
 keywords: vbawd10.chm156303461
 f1_keywords:
 - vbawd10.chm156303461
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Rows
 ms.assetid: e4cc7541-15fe-97b6-0fe6-90d561a85420

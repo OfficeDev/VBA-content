@@ -3,7 +3,7 @@ title: Frame.Shading Property (Word)
 keywords: vbawd10.chm153747469
 f1_keywords:
 - vbawd10.chm153747469
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.Shading
 ms.assetid: 7e7273de-8263-c168-3681-76243f6d8b0a

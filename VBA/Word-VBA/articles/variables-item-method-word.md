@@ -3,7 +3,7 @@ title: Variables.Item Method (Word)
 keywords: vbawd10.chm157614080
 f1_keywords:
 - vbawd10.chm157614080
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variables.Item
 ms.assetid: 840d820e-fde9-72d8-22c2-8dcfbc8b0930

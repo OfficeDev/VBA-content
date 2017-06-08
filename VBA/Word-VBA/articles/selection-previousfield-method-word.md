@@ -3,7 +3,7 @@ title: Selection.PreviousField Method (Word)
 keywords: vbawd10.chm158662833
 f1_keywords:
 - vbawd10.chm158662833
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PreviousField
 ms.assetid: 9361a318-9ee2-fd72-9d52-106abfd8d44e

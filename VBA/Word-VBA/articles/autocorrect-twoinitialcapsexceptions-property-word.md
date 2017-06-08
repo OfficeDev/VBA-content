@@ -3,7 +3,7 @@ title: AutoCorrect.TwoInitialCapsExceptions Property (Word)
 keywords: vbawd10.chm155779081
 f1_keywords:
 - vbawd10.chm155779081
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.TwoInitialCapsExceptions
 ms.assetid: c301d210-c583-a092-4840-ac8efed80c86

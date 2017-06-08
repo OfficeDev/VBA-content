@@ -3,7 +3,7 @@ title: OMathAutoCorrect.UseOutsideOMath Property (Word)
 keywords: vbawd10.chm258474088
 f1_keywords:
 - vbawd10.chm258474088
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrect.UseOutsideOMath
 ms.assetid: befe2f17-3a5d-7a7a-dcc3-dc1895645049

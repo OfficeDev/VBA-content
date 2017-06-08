@@ -3,7 +3,7 @@ title: Footnotes.ResetContinuationNotice Method (Word)
 keywords: vbawd10.chm155320329
 f1_keywords:
 - vbawd10.chm155320329
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.ResetContinuationNotice
 ms.assetid: 7a5d4a70-bd00-2b24-619d-e7a8b50bf8f9

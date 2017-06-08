@@ -3,7 +3,7 @@ title: ChartFormat.Line Property (Word)
 keywords: vbawd10.chm203030530
 f1_keywords:
 - vbawd10.chm203030530
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFormat.Line
 ms.assetid: 008c250d-2afb-fec8-dc0b-54b1417d2ca6

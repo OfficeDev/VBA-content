@@ -3,7 +3,7 @@ title: AxisTitle.Parent Property (Word)
 keywords: vbawd10.chm98238491
 f1_keywords:
 - vbawd10.chm98238491
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Parent
 ms.assetid: 91128ea4-69ef-d876-f665-e6812032934b

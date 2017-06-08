@@ -3,7 +3,7 @@ title: ConditionalStyle.BottomPadding Property (Word)
 keywords: vbawd10.chm91029507
 f1_keywords:
 - vbawd10.chm91029507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ConditionalStyle.BottomPadding
 ms.assetid: 542503e0-7499-974c-a955-7da94f7a25c4

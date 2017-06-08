@@ -1,6 +1,6 @@
 ---
 title: WdBaselineAlignment Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdBaselineAlignment
 ms.assetid: 9dcb0757-ebee-9e6e-800b-b6a0ccb58f2f

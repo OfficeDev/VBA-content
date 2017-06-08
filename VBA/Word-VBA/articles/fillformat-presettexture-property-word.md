@@ -3,7 +3,7 @@ title: FillFormat.PresetTexture Property (Word)
 keywords: vbawd10.chm164102252
 f1_keywords:
 - vbawd10.chm164102252
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.PresetTexture
 ms.assetid: 90503151-0351-26f3-de16-65cb21992f46

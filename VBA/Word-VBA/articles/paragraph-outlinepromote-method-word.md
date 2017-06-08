@@ -3,7 +3,7 @@ title: Paragraph.OutlinePromote Method (Word)
 keywords: vbawd10.chm156696902
 f1_keywords:
 - vbawd10.chm156696902
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.OutlinePromote
 ms.assetid: 7612c321-0f0f-0a9b-8272-5328617c327a

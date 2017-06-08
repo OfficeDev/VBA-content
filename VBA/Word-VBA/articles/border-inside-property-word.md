@@ -3,7 +3,7 @@ title: Border.Inside Property (Word)
 keywords: vbawd10.chm154861570
 f1_keywords:
 - vbawd10.chm154861570
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Border.Inside
 ms.assetid: 73a38a3c-6c24-36f2-c6c6-8b4d2f61dc07

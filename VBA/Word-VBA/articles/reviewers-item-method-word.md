@@ -3,7 +3,7 @@ title: Reviewers.Item Method (Word)
 keywords: vbawd10.chm211419136
 f1_keywords:
 - vbawd10.chm211419136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewers.Item
 ms.assetid: 1753a118-e5e5-c83f-7e9e-02a6e0500b63

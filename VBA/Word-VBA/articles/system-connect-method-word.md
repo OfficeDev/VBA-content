@@ -3,7 +3,7 @@ title: System.Connect Method (Word)
 keywords: vbawd10.chm154468454
 f1_keywords:
 - vbawd10.chm154468454
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Connect
 ms.assetid: c2f2bc89-89a7-8ca0-3e78-ea558068b044

@@ -3,7 +3,7 @@ title: TextEffectFormat Object (Word)
 keywords: vbawd10.chm2511
 f1_keywords:
 - vbawd10.chm2511
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat
 ms.assetid: b274e5be-ed5b-7d63-aa4b-1d67b63e7c0b

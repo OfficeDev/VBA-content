@@ -3,7 +3,7 @@ title: Selection.Delete Method (Word)
 keywords: vbawd10.chm158662783
 f1_keywords:
 - vbawd10.chm158662783
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Delete
 ms.assetid: 35bfdf19-62d3-5593-0b2f-dd6b642b4cc3

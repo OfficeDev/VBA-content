@@ -3,7 +3,7 @@ title: Shapes.AddCurve Method (Word)
 keywords: vbawd10.chm161415180
 f1_keywords:
 - vbawd10.chm161415180
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddCurve
 ms.assetid: 105f6ff1-b8a9-aec5-285b-6bf7399ecdc7

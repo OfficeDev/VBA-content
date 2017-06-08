@@ -3,7 +3,7 @@ title: Find.Highlight Property (Word)
 keywords: vbawd10.chm162529304
 f1_keywords:
 - vbawd10.chm162529304
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Highlight
 ms.assetid: 75873be2-035e-ae93-1f5d-28e86d383a8c

@@ -3,7 +3,7 @@ title: LinkFormat.BreakLink Method (Word)
 keywords: vbawd10.chm154206312
 f1_keywords:
 - vbawd10.chm154206312
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat.BreakLink
 ms.assetid: 19f5f0b5-2536-b6d1-4476-4d46f3d7484e

@@ -3,7 +3,7 @@ title: RepeatingSectionItem Object (Word)
 keywords: vbawd10.chm3479
 f1_keywords:
 - vbawd10.chm3479
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 62a6f325-5c69-f360-9fed-8155ec2bccd0
 ms.date: 06/08/2017
 ---

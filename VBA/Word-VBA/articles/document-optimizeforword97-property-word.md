@@ -3,7 +3,7 @@ title: Document.OptimizeForWord97 Property (Word)
 keywords: vbawd10.chm158007630
 f1_keywords:
 - vbawd10.chm158007630
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.OptimizeForWord97
 ms.assetid: 9db75633-508c-eddb-1ee9-5c8a2e9969b2

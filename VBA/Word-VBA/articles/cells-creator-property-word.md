@@ -3,7 +3,7 @@ title: Cells.Creator Property (Word)
 keywords: vbawd10.chm155845609
 f1_keywords:
 - vbawd10.chm155845609
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.Creator
 ms.assetid: 5113f3bd-2ac3-4ba3-5ab4-321ae6917eb2

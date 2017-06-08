@@ -3,7 +3,7 @@ title: Language.NameLocal Property (Word)
 keywords: vbawd10.chm158138368
 f1_keywords:
 - vbawd10.chm158138368
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.NameLocal
 ms.assetid: b1e91f5e-4ed3-2361-e190-656b0279e8a1

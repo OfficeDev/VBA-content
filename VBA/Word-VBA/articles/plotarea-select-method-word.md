@@ -3,7 +3,7 @@ title: PlotArea.Select Method (Word)
 keywords: vbawd10.chm53477611
 f1_keywords:
 - vbawd10.chm53477611
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Select
 ms.assetid: e37239fa-afeb-5ced-578c-441419097a3d

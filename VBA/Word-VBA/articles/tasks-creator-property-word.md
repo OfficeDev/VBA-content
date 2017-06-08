@@ -3,7 +3,7 @@ title: Tasks.Creator Property (Word)
 keywords: vbawd10.chm159581161
 f1_keywords:
 - vbawd10.chm159581161
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Tasks.Creator
 ms.assetid: 9a545b9d-09eb-4fd8-c3e3-802de2736183

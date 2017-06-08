@@ -3,7 +3,7 @@ title: View.DisplayBackgrounds Property (Word)
 keywords: vbawd10.chm161808433
 f1_keywords:
 - vbawd10.chm161808433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.DisplayBackgrounds
 ms.assetid: 6b1dfa3a-a2bd-a737-e0b2-0792d13451ba

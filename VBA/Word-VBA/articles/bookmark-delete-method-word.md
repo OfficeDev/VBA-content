@@ -3,7 +3,7 @@ title: Bookmark.Delete Method (Word)
 keywords: vbawd10.chm157810699
 f1_keywords:
 - vbawd10.chm157810699
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Delete
 ms.assetid: d5b43d2b-b605-1631-b111-9ba851d0ef1c

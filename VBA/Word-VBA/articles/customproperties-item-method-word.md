@@ -3,7 +3,7 @@ title: CustomProperties.Item Method (Word)
 keywords: vbawd10.chm232849408
 f1_keywords:
 - vbawd10.chm232849408
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomProperties.Item
 ms.assetid: d262b0ed-ed09-5f74-0b3e-0cafd4df9f8a

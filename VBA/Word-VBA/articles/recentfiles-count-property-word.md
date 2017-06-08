@@ -3,7 +3,7 @@ title: RecentFiles.Count Property (Word)
 keywords: vbawd10.chm157483009
 f1_keywords:
 - vbawd10.chm157483009
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFiles.Count
 ms.assetid: e57ad204-b4d1-16a4-c6ce-ddf5f1aeb443

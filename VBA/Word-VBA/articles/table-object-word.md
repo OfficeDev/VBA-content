@@ -3,7 +3,7 @@ title: Table Object (Word)
 keywords: vbawd10.chm2385
 f1_keywords:
 - vbawd10.chm2385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table
 ms.assetid: 996b58dd-ebc6-ee30-5bfe-c5e51a0f71d6

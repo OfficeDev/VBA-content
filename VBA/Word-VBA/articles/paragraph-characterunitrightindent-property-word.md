@@ -3,7 +3,7 @@ title: Paragraph.CharacterUnitRightIndent Property (Word)
 keywords: vbawd10.chm156696702
 f1_keywords:
 - vbawd10.chm156696702
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.CharacterUnitRightIndent
 ms.assetid: f7241ec4-7737-3393-9a78-45a2dd267b8f

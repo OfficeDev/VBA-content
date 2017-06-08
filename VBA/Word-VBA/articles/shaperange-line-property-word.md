@@ -3,7 +3,7 @@ title: ShapeRange.Line Property (Word)
 keywords: vbawd10.chm162857072
 f1_keywords:
 - vbawd10.chm162857072
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Line
 ms.assetid: 0e4f0853-171a-486b-7d91-7921aa91387f

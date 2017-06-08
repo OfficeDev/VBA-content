@@ -3,7 +3,7 @@ title: Document.FarEastLineBreakLevel Property (Word)
 keywords: vbawd10.chm158007607
 f1_keywords:
 - vbawd10.chm158007607
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FarEastLineBreakLevel
 ms.assetid: 11642adb-2c15-a081-ae7c-d9ebe6d5b848

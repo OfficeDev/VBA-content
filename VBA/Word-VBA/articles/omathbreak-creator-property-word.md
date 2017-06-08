@@ -3,7 +3,7 @@ title: OMathBreak.Creator Property (Word)
 keywords: vbawd10.chm97845350
 f1_keywords:
 - vbawd10.chm97845350
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreak.Creator
 ms.assetid: 9ef2c743-f021-dae8-8296-7c04af95c47e

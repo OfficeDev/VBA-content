@@ -3,7 +3,7 @@ title: Selection.ShrinkDiscontiguousSelection Method (Word)
 keywords: vbawd10.chm158663675
 f1_keywords:
 - vbawd10.chm158663675
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.ShrinkDiscontiguousSelection
 ms.assetid: ce703cb4-8a20-b59d-ccf7-c0c93327a9ca

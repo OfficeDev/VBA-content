@@ -3,7 +3,7 @@ title: OMathRecognizedFunction.Application Property (Word)
 keywords: vbawd10.chm227737700
 f1_keywords:
 - vbawd10.chm227737700
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRecognizedFunction.Application
 ms.assetid: 78c859cc-39d4-56e1-f355-617c0b8268ec

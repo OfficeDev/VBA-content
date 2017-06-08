@@ -3,7 +3,7 @@ title: XMLNode.Copy Method (Word)
 keywords: vbawd10.chm37748837
 f1_keywords:
 - vbawd10.chm37748837
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.Copy
 ms.assetid: 7e68ff98-d80e-4723-1b0f-9575dea6aa16

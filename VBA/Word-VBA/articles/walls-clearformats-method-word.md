@@ -3,7 +3,7 @@ title: Walls.ClearFormats Method (Word)
 keywords: vbawd10.chm25165936
 f1_keywords:
 - vbawd10.chm25165936
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.ClearFormats
 ms.assetid: 70ca549c-fe9b-9165-9af1-f518f4d1bb5f

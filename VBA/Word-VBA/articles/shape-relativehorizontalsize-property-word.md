@@ -3,7 +3,7 @@ title: Shape.RelativeHorizontalSize Property (Word)
 keywords: vbawd10.chm161480908
 f1_keywords:
 - vbawd10.chm161480908
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.RelativeHorizontalSize
 ms.assetid: 63173fbf-65aa-95b9-22ff-bba9fb6f7b09

@@ -3,7 +3,7 @@ title: Application.FeatureInstall Property (Word)
 keywords: vbawd10.chm158335423
 f1_keywords:
 - vbawd10.chm158335423
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.FeatureInstall
 ms.assetid: 4abb8363-dee0-0209-2e56-54cea87fe692

@@ -3,7 +3,7 @@ title: ConditionalStyle.Borders Property (Word)
 keywords: vbawd10.chm91029506
 f1_keywords:
 - vbawd10.chm91029506
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ConditionalStyle.Borders
 ms.assetid: 3c5e1bf4-7264-f734-f5c8-619d25fcbc58

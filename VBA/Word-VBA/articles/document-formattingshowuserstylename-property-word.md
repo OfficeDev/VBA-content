@@ -3,7 +3,7 @@ title: Document.FormattingShowUserStyleName Property (Word)
 keywords: vbawd10.chm158007819
 f1_keywords:
 - vbawd10.chm158007819
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FormattingShowUserStyleName
 ms.assetid: 16bdfdcd-f550-9b15-d405-20bd391aa0e5

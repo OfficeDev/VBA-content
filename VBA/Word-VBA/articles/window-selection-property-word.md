@@ -3,7 +3,7 @@ title: Window.Selection Property (Word)
 keywords: vbawd10.chm157417476
 f1_keywords:
 - vbawd10.chm157417476
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Selection
 ms.assetid: 0e6812cd-8b8a-edaf-cf72-cf899c50f92a

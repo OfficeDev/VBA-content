@@ -3,7 +3,7 @@ title: OMathFunction.ScrSup Property (Word)
 keywords: vbawd10.chm22151291
 f1_keywords:
 - vbawd10.chm22151291
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.ScrSup
 ms.assetid: fb2baa59-568b-307b-edf5-11b86d230ee1

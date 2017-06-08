@@ -3,7 +3,7 @@ title: OMathMatRow.Args Property (Word)
 keywords: vbawd10.chm196477031
 f1_keywords:
 - vbawd10.chm196477031
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatRow.Args
 ms.assetid: 6978cd04-505b-fb82-f92e-fa4670ca9d23

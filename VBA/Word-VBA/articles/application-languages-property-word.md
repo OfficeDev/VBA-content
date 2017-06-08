@@ -3,7 +3,7 @@ title: Application.Languages Property (Word)
 keywords: vbawd10.chm158334990
 f1_keywords:
 - vbawd10.chm158334990
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Languages
 ms.assetid: f81cfcb6-33e2-bb8e-2ac4-b4f9df833946

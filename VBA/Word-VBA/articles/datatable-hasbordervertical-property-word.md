@@ -3,7 +3,7 @@ title: DataTable.HasBorderVertical Property (Word)
 keywords: vbawd10.chm46399492
 f1_keywords:
 - vbawd10.chm46399492
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.HasBorderVertical
 ms.assetid: cc104c8c-73b2-00a1-2ea9-641215560637

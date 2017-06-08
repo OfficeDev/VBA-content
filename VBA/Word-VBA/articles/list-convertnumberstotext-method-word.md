@@ -3,7 +3,7 @@ title: List.ConvertNumbersToText Method (Word)
 keywords: vbawd10.chm160563301
 f1_keywords:
 - vbawd10.chm160563301
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.ConvertNumbersToText
 ms.assetid: 302fc63e-626c-fb16-0514-25a2d6381363

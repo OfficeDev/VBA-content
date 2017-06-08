@@ -3,7 +3,7 @@ title: Document.FormattingShowNextLevel Property (Word)
 keywords: vbawd10.chm158007818
 f1_keywords:
 - vbawd10.chm158007818
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FormattingShowNextLevel
 ms.assetid: 4b358207-480f-c9fa-fd96-98fed411065f

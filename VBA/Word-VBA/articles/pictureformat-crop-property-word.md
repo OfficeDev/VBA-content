@@ -3,7 +3,7 @@ title: PictureFormat.Crop Property (Word)
 keywords: vbawd10.chm164298861
 f1_keywords:
 - vbawd10.chm164298861
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.Crop
 ms.assetid: 431cc1a8-dd05-d813-6ba6-a6a78ee2472b

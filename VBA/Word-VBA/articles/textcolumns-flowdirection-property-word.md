@@ -3,7 +3,7 @@ title: TextColumns.FlowDirection Property (Word)
 keywords: vbawd10.chm158531688
 f1_keywords:
 - vbawd10.chm158531688
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.FlowDirection
 ms.assetid: 65d2791e-f3ae-a3df-5d93-959750516b11

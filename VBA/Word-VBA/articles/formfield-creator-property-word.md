@@ -3,7 +3,7 @@ title: FormField.Creator Property (Word)
 keywords: vbawd10.chm153617385
 f1_keywords:
 - vbawd10.chm153617385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Creator
 ms.assetid: dac1978a-aa28-6d4a-5ada-dfade72f226f

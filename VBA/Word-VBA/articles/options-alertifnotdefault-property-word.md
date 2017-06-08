@@ -3,7 +3,7 @@ title: Options.AlertIfNotDefault Property (Word)
 keywords: vbawd10.chm162988542
 f1_keywords:
 - vbawd10.chm162988542
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 951eefe0-3633-235c-fec8-69a4a610e84b
 ms.date: 06/08/2017
 ---

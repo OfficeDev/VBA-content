@@ -3,7 +3,7 @@ title: Global.KeyString Method (Word)
 keywords: vbawd10.chm163119421
 f1_keywords:
 - vbawd10.chm163119421
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.KeyString
 ms.assetid: 4ad72e74-d26d-093e-8404-b3dc10ebe1f0

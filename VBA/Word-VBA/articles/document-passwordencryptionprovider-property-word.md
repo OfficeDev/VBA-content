@@ -3,7 +3,7 @@ title: Document.PasswordEncryptionProvider Property (Word)
 keywords: vbawd10.chm158007663
 f1_keywords:
 - vbawd10.chm158007663
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.PasswordEncryptionProvider
 ms.assetid: 473e7599-4c04-4a29-6d5c-70228900dedf

@@ -3,7 +3,7 @@ title: Page.Breaks Property (Word)
 keywords: vbawd10.chm11075591
 f1_keywords:
 - vbawd10.chm11075591
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Breaks
 ms.assetid: 13aed7c7-cf67-1456-7842-d113dfc00b31

@@ -3,7 +3,7 @@ title: LetterContent.RecipientReference Property (Word)
 keywords: vbawd10.chm161546352
 f1_keywords:
 - vbawd10.chm161546352
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.RecipientReference
 ms.assetid: e792b88e-b1f7-4a03-a966-ed519891b46d

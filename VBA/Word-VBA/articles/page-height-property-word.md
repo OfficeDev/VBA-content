@@ -3,7 +3,7 @@ title: Page.Height Property (Word)
 keywords: vbawd10.chm11075589
 f1_keywords:
 - vbawd10.chm11075589
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Height
 ms.assetid: fe097fed-868b-cb09-f2ad-d53cda76a426

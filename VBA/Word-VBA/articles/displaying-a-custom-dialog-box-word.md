@@ -3,7 +3,7 @@ title: Displaying a Custom Dialog Box (Word)
 keywords: vbawd10.chm5210530
 f1_keywords:
 - vbawd10.chm5210530
-ms.prod: WORD
+ms.prod: word
 ms.assetid: edda05bb-092c-1352-671a-1349b58d5ba4
 ms.date: 06/08/2017
 ---

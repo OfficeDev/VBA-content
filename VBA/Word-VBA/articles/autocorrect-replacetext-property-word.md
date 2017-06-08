@@ -3,7 +3,7 @@ title: AutoCorrect.ReplaceText Property (Word)
 keywords: vbawd10.chm155779076
 f1_keywords:
 - vbawd10.chm155779076
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.ReplaceText
 ms.assetid: 4325928d-dc53-4b3c-b6fa-860c090e90e2

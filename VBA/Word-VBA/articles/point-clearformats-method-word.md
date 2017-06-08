@@ -3,7 +3,7 @@ title: Point.ClearFormats Method (Word)
 keywords: vbawd10.chm262144112
 f1_keywords:
 - vbawd10.chm262144112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.ClearFormats
 ms.assetid: 31717f21-5cda-5cc0-5d20-a6aa0ba29a30

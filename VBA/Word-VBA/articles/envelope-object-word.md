@@ -3,7 +3,7 @@ title: Envelope Object (Word)
 keywords: vbawd10.chm2328
 f1_keywords:
 - vbawd10.chm2328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope
 ms.assetid: 03664453-f7fb-f76a-ea60-37e72b53e17c

@@ -3,7 +3,7 @@ title: Fields.Unlink Method (Word)
 keywords: vbawd10.chm154140774
 f1_keywords:
 - vbawd10.chm154140774
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Fields.Unlink
 ms.assetid: 18b72e38-8a03-90fc-76f0-2f4e9d768dd9

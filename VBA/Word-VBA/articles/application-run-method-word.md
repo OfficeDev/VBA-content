@@ -3,7 +3,7 @@ title: Application.Run Method (Word)
 keywords: vbawd10.chm158335421
 f1_keywords:
 - vbawd10.chm158335421
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Run
 ms.assetid: d7d89a15-caea-d055-c60a-0e31acdfc2aa

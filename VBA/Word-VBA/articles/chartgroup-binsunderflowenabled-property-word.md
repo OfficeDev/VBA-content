@@ -4,7 +4,7 @@ keywords: vbawd10.chm263457616
 f1_keywords:
 - vbawd10.chm263457616
 ms.assetid: 7ffe9878-2462-8d05-7158-24ba45107b31
-ms.prod: WORD
+ms.prod: word
 ms.date: 06/08/2017
 ---
 

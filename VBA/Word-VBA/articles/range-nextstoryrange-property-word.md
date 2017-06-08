@@ -3,7 +3,7 @@ title: Range.NextStoryRange Property (Word)
 keywords: vbawd10.chm157155648
 f1_keywords:
 - vbawd10.chm157155648
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.NextStoryRange
 ms.assetid: 392b17ff-335f-9b2b-7641-62ae44d7e919

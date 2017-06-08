@@ -3,7 +3,7 @@ title: WrapFormat Object (Word)
 keywords: vbawd10.chm2499
 f1_keywords:
 - vbawd10.chm2499
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat
 ms.assetid: 08396db4-f8e0-12fd-2b9f-3a0a61169ac4

@@ -3,7 +3,7 @@ title: Chart.Floor Property (Word)
 keywords: vbawd10.chm79364153
 f1_keywords:
 - vbawd10.chm79364153
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Floor
 ms.assetid: 1544e584-3b0f-92a8-cc8f-6b12ed66109e

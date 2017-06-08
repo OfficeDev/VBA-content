@@ -1,6 +1,6 @@
 ---
 title: DataLabels Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels
 ms.assetid: a7676f18-b1f2-1e11-9489-863cb85c1669

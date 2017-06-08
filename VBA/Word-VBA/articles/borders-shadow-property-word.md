@@ -3,7 +3,7 @@ title: Borders.Shadow Property (Word)
 keywords: vbawd10.chm154927109
 f1_keywords:
 - vbawd10.chm154927109
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.Shadow
 ms.assetid: 13f8b3b9-58e1-f28b-c99b-fa6bcdf39338

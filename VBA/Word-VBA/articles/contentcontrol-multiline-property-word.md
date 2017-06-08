@@ -3,7 +3,7 @@ title: ContentControl.MultiLine Property (Word)
 keywords: vbawd10.chm266534927
 f1_keywords:
 - vbawd10.chm266534927
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.MultiLine
 ms.assetid: 5261a18d-aef6-fada-2e55-3549dbe9206f

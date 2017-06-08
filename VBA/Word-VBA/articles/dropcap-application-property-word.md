@@ -3,7 +3,7 @@ title: DropCap.Application Property (Word)
 keywords: vbawd10.chm156632040
 f1_keywords:
 - vbawd10.chm156632040
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap.Application
 ms.assetid: 1dc4eb59-5805-7701-3da2-d24327b80b3b

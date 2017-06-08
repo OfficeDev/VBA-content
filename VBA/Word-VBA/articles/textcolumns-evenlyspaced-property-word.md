@@ -3,7 +3,7 @@ title: TextColumns.EvenlySpaced Property (Word)
 keywords: vbawd10.chm158531684
 f1_keywords:
 - vbawd10.chm158531684
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.EvenlySpaced
 ms.assetid: 9498889e-0f61-ddad-df6b-6defb11dc566

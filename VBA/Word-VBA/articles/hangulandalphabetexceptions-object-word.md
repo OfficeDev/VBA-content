@@ -1,6 +1,6 @@
 ---
 title: HangulAndAlphabetExceptions Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: ddb128f0-3752-5d38-e65a-767f17d86294
 ms.date: 06/08/2017
 ---

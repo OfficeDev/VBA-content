@@ -3,7 +3,7 @@ title: WrapFormat.DistanceTop Property (Word)
 keywords: vbawd10.chm163774566
 f1_keywords:
 - vbawd10.chm163774566
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.DistanceTop
 ms.assetid: b99f288e-873a-fa1a-2db1-6d59afd2e465

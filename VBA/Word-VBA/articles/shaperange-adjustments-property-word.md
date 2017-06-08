@@ -3,7 +3,7 @@ title: ShapeRange.Adjustments Property (Word)
 keywords: vbawd10.chm162857060
 f1_keywords:
 - vbawd10.chm162857060
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Adjustments
 ms.assetid: 54060aed-b98d-c6dc-32a7-3c7115573171

@@ -3,7 +3,7 @@ title: StyleSheets.Item Method (Word)
 keywords: vbawd10.chm209584128
 f1_keywords:
 - vbawd10.chm209584128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheets.Item
 ms.assetid: 1991f7c0-7598-831b-89ac-94182fd7a0f1

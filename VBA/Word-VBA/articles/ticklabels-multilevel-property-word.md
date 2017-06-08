@@ -3,7 +3,7 @@ title: TickLabels.MultiLevel Property (Word)
 keywords: vbawd10.chm167051286
 f1_keywords:
 - vbawd10.chm167051286
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.MultiLevel
 ms.assetid: 2f6f5c6a-8a62-267a-68ef-8b7161dfcce4

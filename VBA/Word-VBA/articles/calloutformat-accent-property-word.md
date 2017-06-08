@@ -3,7 +3,7 @@ title: CalloutFormat.Accent Property (Word)
 keywords: vbawd10.chm163905636
 f1_keywords:
 - vbawd10.chm163905636
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.Accent
 ms.assetid: 7c6d7e02-5117-36ab-1d61-72ef9c4b0fd3

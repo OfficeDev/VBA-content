@@ -1,6 +1,6 @@
 ---
 title: WdCellColor Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCellColor
 ms.assetid: 177745e4-de08-9e65-0185-98ff2e7301ea

@@ -3,7 +3,7 @@ title: ReflectionFormat.Offset Property (Word)
 keywords: vbawd10.chm67043332
 f1_keywords:
 - vbawd10.chm67043332
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReflectionFormat.Offset
 ms.assetid: a89c77e3-6cac-15ac-8d26-f1dee6f0db3d

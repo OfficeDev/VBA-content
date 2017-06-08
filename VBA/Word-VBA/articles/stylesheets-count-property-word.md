@@ -3,7 +3,7 @@ title: StyleSheets.Count Property (Word)
 keywords: vbawd10.chm209584129
 f1_keywords:
 - vbawd10.chm209584129
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheets.Count
 ms.assetid: d5a5f679-2e78-8b88-2650-72c381018075

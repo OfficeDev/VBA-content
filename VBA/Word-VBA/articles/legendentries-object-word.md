@@ -1,6 +1,6 @@
 ---
 title: LegendEntries Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntries
 ms.assetid: 3d130934-8a2d-a2f5-b609-3ab34f406dc4

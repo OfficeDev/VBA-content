@@ -1,6 +1,6 @@
 ---
 title: WdInsertedTextMark Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdInsertedTextMark
 ms.assetid: 298df626-b215-6ea3-bcf9-0c491f3545c1

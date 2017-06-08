@@ -3,7 +3,7 @@ title: Series.MarkerStyle Property (Word)
 keywords: vbawd10.chm123732040
 f1_keywords:
 - vbawd10.chm123732040
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.MarkerStyle
 ms.assetid: d9ba7847-2785-0f29-7e6e-d4bb2d62fc2f

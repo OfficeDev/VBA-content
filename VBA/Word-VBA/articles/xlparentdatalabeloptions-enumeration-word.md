@@ -1,7 +1,7 @@
 ---
 title: XlParentDataLabelOptions Enumeration (Word)
 ms.assetid: c83fe64d-5a14-74b5-5847-62cba83805b0
-ms.prod: WORD
+ms.prod: word
 ms.date: 06/08/2017
 ---
 

@@ -3,7 +3,7 @@ title: Options.PrintComments Property (Word)
 keywords: vbawd10.chm162988065
 f1_keywords:
 - vbawd10.chm162988065
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintComments
 ms.assetid: 8c65566a-a6e8-5c38-9ef5-23591086bb68

@@ -3,7 +3,7 @@ title: System.OperatingSystem Property (Word)
 keywords: vbawd10.chm154468353
 f1_keywords:
 - vbawd10.chm154468353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.OperatingSystem
 ms.assetid: 471183cf-ac38-c6ab-c468-05ed35b10b9b

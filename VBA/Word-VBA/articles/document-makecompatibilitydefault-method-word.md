@@ -3,7 +3,7 @@ title: Document.MakeCompatibilityDefault Method (Word)
 keywords: vbawd10.chm158007415
 f1_keywords:
 - vbawd10.chm158007415
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.MakeCompatibilityDefault
 ms.assetid: 06c3cede-312c-aacf-3780-4d79dd7c6fc3

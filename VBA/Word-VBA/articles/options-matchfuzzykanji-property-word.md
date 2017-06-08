@@ -3,7 +3,7 @@ title: Options.MatchFuzzyKanji Property (Word)
 keywords: vbawd10.chm162988347
 f1_keywords:
 - vbawd10.chm162988347
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyKanji
 ms.assetid: 6d2a1b1f-2a1c-23d2-5e3b-aa8f2e26388e

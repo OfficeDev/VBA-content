@@ -3,7 +3,7 @@ title: ShapeRange.Reflection Property (Word)
 keywords: vbawd10.chm162857114
 f1_keywords:
 - vbawd10.chm162857114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Reflection
 ms.assetid: 7b783583-9a0b-0a4b-b6b8-a829fbb16197

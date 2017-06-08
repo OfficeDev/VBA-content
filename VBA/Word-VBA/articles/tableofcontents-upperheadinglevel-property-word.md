@@ -3,7 +3,7 @@ title: TableOfContents.UpperHeadingLevel Property (Word)
 keywords: vbawd10.chm152240131
 f1_keywords:
 - vbawd10.chm152240131
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.UpperHeadingLevel
 ms.assetid: 3b360b6b-a422-4af5-9121-200105b0ad19

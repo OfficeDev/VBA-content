@@ -3,7 +3,7 @@ title: Application.FileConverters Property (Word)
 keywords: vbawd10.chm158334993
 f1_keywords:
 - vbawd10.chm158334993
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.FileConverters
 ms.assetid: 90f58ceb-6fb3-ee48-9637-effe39163888

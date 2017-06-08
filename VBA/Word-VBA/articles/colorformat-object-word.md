@@ -3,7 +3,7 @@ title: ColorFormat Object (Word)
 keywords: vbawd10.chm2502
 f1_keywords:
 - vbawd10.chm2502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ColorFormat
 ms.assetid: 5f12793f-d847-ecf2-6cf6-39387f7f0b28

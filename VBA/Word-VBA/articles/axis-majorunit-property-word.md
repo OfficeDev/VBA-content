@@ -3,7 +3,7 @@ title: Axis.MajorUnit Property (Word)
 keywords: vbawd10.chm113049620
 f1_keywords:
 - vbawd10.chm113049620
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MajorUnit
 ms.assetid: abfe244f-2718-dc5d-ebc0-d276ee274231

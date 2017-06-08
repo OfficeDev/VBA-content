@@ -3,7 +3,7 @@ title: Paragraph.Outdent Method (Word)
 keywords: vbawd10.chm156696910
 f1_keywords:
 - vbawd10.chm156696910
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.Outdent
 ms.assetid: 21b67b2e-8a68-7984-e6e4-b45ca5a52404

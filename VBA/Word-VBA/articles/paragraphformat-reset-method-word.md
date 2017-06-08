@@ -3,7 +3,7 @@ title: ParagraphFormat.Reset Method (Word)
 keywords: vbawd10.chm156434744
 f1_keywords:
 - vbawd10.chm156434744
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.Reset
 ms.assetid: ba44a672-1a02-e673-9bee-b0a7239445a2

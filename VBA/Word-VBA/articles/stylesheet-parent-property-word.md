@@ -3,7 +3,7 @@ title: StyleSheet.Parent Property (Word)
 keywords: vbawd10.chm166658148
 f1_keywords:
 - vbawd10.chm166658148
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheet.Parent
 ms.assetid: 47832472-3e4b-bf0b-d0d6-b69e2ee12241

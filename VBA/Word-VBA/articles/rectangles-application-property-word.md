@@ -1,6 +1,6 @@
 ---
 title: Rectangles.Application Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangles.Application
 ms.assetid: 6096264c-3da4-9f28-6014-9c0f2c495128

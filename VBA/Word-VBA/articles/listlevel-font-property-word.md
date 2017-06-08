@@ -3,7 +3,7 @@ title: ListLevel.Font Property (Word)
 keywords: vbawd10.chm160235532
 f1_keywords:
 - vbawd10.chm160235532
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.Font
 ms.assetid: 3e62bc28-1321-c74e-1a00-68a6c9fc8b51

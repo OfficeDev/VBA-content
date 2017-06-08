@@ -3,7 +3,7 @@ title: Options.SendMailAttach Property (Word)
 keywords: vbawd10.chm162988056
 f1_keywords:
 - vbawd10.chm162988056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SendMailAttach
 ms.assetid: e749ca30-089f-5116-ce70-a3d760006a2c

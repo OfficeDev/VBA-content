@@ -3,7 +3,7 @@ title: SpellingSuggestions.Application Property (Word)
 keywords: vbawd10.chm162137064
 f1_keywords:
 - vbawd10.chm162137064
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SpellingSuggestions.Application
 ms.assetid: e0961ff9-fe4a-4680-9e05-730b9c1c1db2

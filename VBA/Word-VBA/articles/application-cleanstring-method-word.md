@@ -3,7 +3,7 @@ title: Application.CleanString Method (Word)
 keywords: vbawd10.chm158335330
 f1_keywords:
 - vbawd10.chm158335330
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CleanString
 ms.assetid: 00fd8b33-77b0-d17a-b4f2-52b3892ed912

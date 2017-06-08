@@ -3,7 +3,7 @@ title: PageSetup.MirrorMargins Property (Word)
 keywords: vbawd10.chm158400623
 f1_keywords:
 - vbawd10.chm158400623
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.MirrorMargins
 ms.assetid: ae7c53d9-7669-fb22-323f-2ad3984e2dfa

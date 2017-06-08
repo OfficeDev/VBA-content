@@ -3,7 +3,7 @@ title: Paragraphs.IncreaseSpacing Method (Word)
 keywords: vbawd10.chm156762447
 f1_keywords:
 - vbawd10.chm156762447
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.IncreaseSpacing
 ms.assetid: d0416601-5616-0e93-540f-f09e192b0c91

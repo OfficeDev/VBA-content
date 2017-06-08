@@ -3,7 +3,7 @@ title: AutoCorrect.HangulAndAlphabetExceptions Property (Word)
 keywords: vbawd10.chm155779085
 f1_keywords:
 - vbawd10.chm155779085
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.HangulAndAlphabetExceptions
 ms.assetid: afb525ff-be41-c260-5210-f6ef930b8b04

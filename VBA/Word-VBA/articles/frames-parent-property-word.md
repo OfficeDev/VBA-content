@@ -3,7 +3,7 @@ title: Frames.Parent Property (Word)
 keywords: vbawd10.chm153813994
 f1_keywords:
 - vbawd10.chm153813994
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frames.Parent
 ms.assetid: f50db289-e0fc-975f-2a75-137d88f8fbf5

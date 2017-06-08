@@ -1,6 +1,6 @@
 ---
 title: XlTimeUnit Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5777d780-5995-56b7-d820-0b61f0161b53
 ms.date: 06/08/2017
 ---

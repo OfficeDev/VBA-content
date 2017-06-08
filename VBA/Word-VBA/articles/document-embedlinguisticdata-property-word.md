@@ -3,7 +3,7 @@ title: Document.EmbedLinguisticData Property (Word)
 keywords: vbawd10.chm158007673
 f1_keywords:
 - vbawd10.chm158007673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.EmbedLinguisticData
 ms.assetid: ad76bcba-dad3-6745-8cdb-a56797054af4

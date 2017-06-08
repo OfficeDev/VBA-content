@@ -3,7 +3,7 @@ title: SpellingSuggestions Object (Word)
 keywords: vbawd10.chm2474
 f1_keywords:
 - vbawd10.chm2474
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 7e0fb008-e43c-c4cb-b7d2-9436d039a070
 ms.date: 06/08/2017
 ---

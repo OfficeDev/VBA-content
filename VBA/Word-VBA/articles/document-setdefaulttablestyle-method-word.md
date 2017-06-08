@@ -3,7 +3,7 @@ title: Document.SetDefaultTableStyle Method (Word)
 keywords: vbawd10.chm158007662
 f1_keywords:
 - vbawd10.chm158007662
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SetDefaultTableStyle
 ms.assetid: 6e932b12-6af8-af0a-5c3b-c74cefaf0d35

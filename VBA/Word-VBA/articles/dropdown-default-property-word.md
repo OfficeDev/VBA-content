@@ -3,7 +3,7 @@ title: DropDown.Default Property (Word)
 keywords: vbawd10.chm153419777
 f1_keywords:
 - vbawd10.chm153419777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropDown.Default
 ms.assetid: aaf2920c-1077-3c5d-f80e-4ad119b3ae2f

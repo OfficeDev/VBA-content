@@ -3,7 +3,7 @@ title: CheckBox.Valid Property (Word)
 keywords: vbawd10.chm153485312
 f1_keywords:
 - vbawd10.chm153485312
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CheckBox.Valid
 ms.assetid: 5f14faf3-8025-709d-67a4-7ba0ae46b467

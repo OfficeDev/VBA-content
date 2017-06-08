@@ -3,7 +3,7 @@ title: Document.DocumentLibraryVersions Property (Word)
 keywords: vbawd10.chm158007772
 f1_keywords:
 - vbawd10.chm158007772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DocumentLibraryVersions
 ms.assetid: 1be5fae8-0ea1-115f-3786-6979a473448b

@@ -3,7 +3,7 @@ title: MailMergeDataSource.FindRecord Method (Word)
 keywords: vbawd10.chm152895590
 f1_keywords:
 - vbawd10.chm152895590
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.FindRecord
 ms.assetid: 1d4bc94c-8305-57d9-d63f-ce4ac54aa4d4

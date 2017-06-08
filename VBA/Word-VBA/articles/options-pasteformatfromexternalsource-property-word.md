@@ -3,7 +3,7 @@ title: Options.PasteFormatFromExternalSource Property (Word)
 keywords: vbawd10.chm162988512
 f1_keywords:
 - vbawd10.chm162988512
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PasteFormatFromExternalSource
 ms.assetid: 821e4983-1208-3d47-6378-f6b6d908c02f

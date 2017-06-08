@@ -3,7 +3,7 @@ title: TextInput.EditType Method (Word)
 keywords: vbawd10.chm153550950
 f1_keywords:
 - vbawd10.chm153550950
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextInput.EditType
 ms.assetid: edd9efba-ca77-3f2f-021e-89e86ac9efc8

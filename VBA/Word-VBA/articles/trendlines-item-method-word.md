@@ -3,7 +3,7 @@ title: Trendlines.Item Method (Word)
 keywords: vbawd10.chm102367232
 f1_keywords:
 - vbawd10.chm102367232
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendlines.Item
 ms.assetid: 2aa9492d-efbb-155c-6836-cd1ac676e726

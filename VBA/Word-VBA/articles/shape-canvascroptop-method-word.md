@@ -3,7 +3,7 @@ title: Shape.CanvasCropTop Method (Word)
 keywords: vbawd10.chm161480845
 f1_keywords:
 - vbawd10.chm161480845
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.CanvasCropTop
 ms.assetid: 5d7cd546-4d47-d45a-9642-b2cd1e955480

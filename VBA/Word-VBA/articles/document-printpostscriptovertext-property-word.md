@@ -3,7 +3,7 @@ title: Document.PrintPostScriptOverText Property (Word)
 keywords: vbawd10.chm158007376
 f1_keywords:
 - vbawd10.chm158007376
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.PrintPostScriptOverText
 ms.assetid: 614e3776-c3e7-a4ca-3148-2f285229ecb2

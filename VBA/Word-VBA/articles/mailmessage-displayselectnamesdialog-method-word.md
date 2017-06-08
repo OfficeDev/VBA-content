@@ -3,7 +3,7 @@ title: MailMessage.DisplaySelectNamesDialog Method (Word)
 keywords: vbawd10.chm163184978
 f1_keywords:
 - vbawd10.chm163184978
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.DisplaySelectNamesDialog
 ms.assetid: 54b3d2fd-42db-a4da-4247-cc0b0eca5f65

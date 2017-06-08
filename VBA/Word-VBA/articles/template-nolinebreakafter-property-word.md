@@ -3,7 +3,7 @@ title: Template.NoLineBreakAfter Property (Word)
 keywords: vbawd10.chm157941776
 f1_keywords:
 - vbawd10.chm157941776
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.NoLineBreakAfter
 ms.assetid: efe38080-35b3-16d4-ce5c-0acb9a2a52ad

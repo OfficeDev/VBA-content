@@ -3,7 +3,7 @@ title: Zoom.PageFit Property (Word)
 keywords: vbawd10.chm161873921
 f1_keywords:
 - vbawd10.chm161873921
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Zoom.PageFit
 ms.assetid: ead399ec-f05f-0f28-4337-726fa3b04146

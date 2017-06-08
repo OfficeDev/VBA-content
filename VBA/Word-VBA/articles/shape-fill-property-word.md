@@ -3,7 +3,7 @@ title: Shape.Fill Property (Word)
 keywords: vbawd10.chm161480811
 f1_keywords:
 - vbawd10.chm161480811
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Fill
 ms.assetid: 99a4d4f1-cc25-3b84-29ed-6e77a9a36765

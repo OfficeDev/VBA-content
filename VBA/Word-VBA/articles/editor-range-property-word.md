@@ -3,7 +3,7 @@ title: Editor.Range Property (Word)
 keywords: vbawd10.chm225575014
 f1_keywords:
 - vbawd10.chm225575014
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editor.Range
 ms.assetid: a09abe23-cc64-2fda-682d-7d2825a9e5fb

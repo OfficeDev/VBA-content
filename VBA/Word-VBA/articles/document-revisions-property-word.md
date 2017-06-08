@@ -3,7 +3,7 @@ title: Document.Revisions Property (Word)
 keywords: vbawd10.chm158007326
 f1_keywords:
 - vbawd10.chm158007326
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Revisions
 ms.assetid: 26211417-b9c5-128e-1b00-cb312dd3724f

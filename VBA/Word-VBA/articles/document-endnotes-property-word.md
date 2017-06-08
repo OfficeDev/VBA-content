@@ -3,7 +3,7 @@ title: Document.Endnotes Property (Word)
 keywords: vbawd10.chm158007304
 f1_keywords:
 - vbawd10.chm158007304
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Endnotes
 ms.assetid: 3c3e87c0-ea76-8bc4-0b2e-755bff6aa14c

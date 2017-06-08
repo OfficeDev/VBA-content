@@ -3,7 +3,7 @@ title: Application.CapsLock Property (Word)
 keywords: vbawd10.chm158335024
 f1_keywords:
 - vbawd10.chm158335024
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CapsLock
 ms.assetid: 73cc2530-5178-d348-739e-c4605b8f207d

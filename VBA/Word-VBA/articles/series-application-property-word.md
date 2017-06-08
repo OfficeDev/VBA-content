@@ -3,7 +3,7 @@ title: Series.Application Property (Word)
 keywords: vbawd10.chm123732116
 f1_keywords:
 - vbawd10.chm123732116
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Application
 ms.assetid: 2050d54e-188c-e64d-32b2-f854ef445103

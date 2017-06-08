@@ -3,7 +3,7 @@ title: Options.MatchFuzzyAY Property (Word)
 keywords: vbawd10.chm162988355
 f1_keywords:
 - vbawd10.chm162988355
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyAY
 ms.assetid: f9a56522-f3a8-0527-e0e9-9144ccc468bc

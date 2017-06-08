@@ -3,7 +3,7 @@ title: FormField.CalculateOnExit Property (Word)
 keywords: vbawd10.chm153616400
 f1_keywords:
 - vbawd10.chm153616400
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.CalculateOnExit
 ms.assetid: d92a165b-3138-9aae-bb98-08b7b01e52f8

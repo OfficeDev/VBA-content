@@ -3,7 +3,7 @@ title: InlineShape Object (Word)
 keywords: vbawd10.chm2472
 f1_keywords:
 - vbawd10.chm2472
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape
 ms.assetid: a8fd110a-4aa7-c4b9-1559-32022787d955

@@ -3,7 +3,7 @@ title: KeyBindings.Context Property (Word)
 keywords: vbawd10.chm160825354
 f1_keywords:
 - vbawd10.chm160825354
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBindings.Context
 ms.assetid: 8cdba82a-a4cc-f549-a3c5-4bfbb70578b6

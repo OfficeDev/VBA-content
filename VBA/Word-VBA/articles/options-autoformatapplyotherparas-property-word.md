@@ -3,7 +3,7 @@ title: Options.AutoFormatApplyOtherParas Property (Word)
 keywords: vbawd10.chm162988285
 f1_keywords:
 - vbawd10.chm162988285
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatApplyOtherParas
 ms.assetid: b6204429-d883-2235-f8c2-03e5d433c863

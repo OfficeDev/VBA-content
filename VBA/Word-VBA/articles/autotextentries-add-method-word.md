@@ -3,7 +3,7 @@ title: AutoTextEntries.Add Method (Word)
 keywords: vbawd10.chm154599525
 f1_keywords:
 - vbawd10.chm154599525
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntries.Add
 ms.assetid: 7ffa87f9-a23c-1847-3907-84c95f2b7f73

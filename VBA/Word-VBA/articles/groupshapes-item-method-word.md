@@ -3,7 +3,7 @@ title: GroupShapes.Item Method (Word)
 keywords: vbawd10.chm162922496
 f1_keywords:
 - vbawd10.chm162922496
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GroupShapes.Item
 ms.assetid: c80f9855-373e-5e45-ee26-417522bf4343

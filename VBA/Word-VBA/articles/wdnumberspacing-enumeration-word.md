@@ -1,6 +1,6 @@
 ---
 title: WdNumberSpacing Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdNumberSpacing
 ms.assetid: 46dd4d4d-aab4-2ae8-eff1-e6bf7567a0c9

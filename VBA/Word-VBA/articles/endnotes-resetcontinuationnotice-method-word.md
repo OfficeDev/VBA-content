@@ -3,7 +3,7 @@ title: Endnotes.ResetContinuationNotice Method (Word)
 keywords: vbawd10.chm155254793
 f1_keywords:
 - vbawd10.chm155254793
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.ResetContinuationNotice
 ms.assetid: b7565c90-6aaa-1154-ce45-61b43149ecb0

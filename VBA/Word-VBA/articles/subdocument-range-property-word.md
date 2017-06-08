@@ -3,7 +3,7 @@ title: Subdocument.Range Property (Word)
 keywords: vbawd10.chm159973378
 f1_keywords:
 - vbawd10.chm159973378
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocument.Range
 ms.assetid: eac34c98-01f8-6d81-8f81-672b3ff49eb8

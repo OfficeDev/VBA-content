@@ -3,7 +3,7 @@ title: AxisTitle.Width Property (Word)
 keywords: vbawd10.chm98238501
 f1_keywords:
 - vbawd10.chm98238501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Width
 ms.assetid: d360a36d-b67f-bdba-411b-b19e35d4d10f

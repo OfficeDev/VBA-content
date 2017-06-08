@@ -3,7 +3,7 @@ title: Column.IsLast Property (Word)
 keywords: vbawd10.chm156172293
 f1_keywords:
 - vbawd10.chm156172293
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.IsLast
 ms.assetid: 9f5e51fe-4bb7-a179-4dde-373f7798f200

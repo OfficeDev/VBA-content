@@ -3,7 +3,7 @@ title: OMathRad.HideDeg Property (Word)
 keywords: vbawd10.chm247791721
 f1_keywords:
 - vbawd10.chm247791721
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRad.HideDeg
 ms.assetid: f7687b0b-af97-b6df-4e39-0804ed2c93ac

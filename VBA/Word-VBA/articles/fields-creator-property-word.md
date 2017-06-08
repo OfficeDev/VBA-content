@@ -3,7 +3,7 @@ title: Fields.Creator Property (Word)
 keywords: vbawd10.chm154141673
 f1_keywords:
 - vbawd10.chm154141673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Fields.Creator
 ms.assetid: 7481c1aa-c50a-86ce-dcfd-63c17fe75543

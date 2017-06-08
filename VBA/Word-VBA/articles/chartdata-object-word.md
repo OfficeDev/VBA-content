@@ -3,7 +3,7 @@ title: ChartData Object (Word)
 keywords: vbawd10.chm2905
 f1_keywords:
 - vbawd10.chm2905
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartData
 ms.assetid: 323ee62c-9b70-8280-d448-79cf4d2b6953

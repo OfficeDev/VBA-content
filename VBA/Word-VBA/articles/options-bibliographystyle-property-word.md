@@ -3,7 +3,7 @@ title: Options.BibliographyStyle Property (Word)
 keywords: vbawd10.chm162988494
 f1_keywords:
 - vbawd10.chm162988494
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.BibliographyStyle
 ms.assetid: e0f77139-b71c-d249-96f0-febc6abd385b

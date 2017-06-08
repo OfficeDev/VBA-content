@@ -3,7 +3,7 @@ title: Application.WindowDeactivate Event (Word)
 keywords: vbawd10.chm4000010
 f1_keywords:
 - vbawd10.chm4000010
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WindowDeactivate
 ms.assetid: 70b86ecc-40ba-6e70-b430-4fce6083ff2d

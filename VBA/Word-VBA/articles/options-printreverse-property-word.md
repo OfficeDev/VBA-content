@@ -3,7 +3,7 @@ title: Options.PrintReverse Property (Word)
 keywords: vbawd10.chm162988320
 f1_keywords:
 - vbawd10.chm162988320
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintReverse
 ms.assetid: bdbe8ff9-5d9b-a8b6-e479-338f4d2b67dd

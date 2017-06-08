@@ -1,6 +1,6 @@
 ---
 title: TaskPanes.Application Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TaskPanes.Application
 ms.assetid: bdb47b7c-08f9-1092-7315-fd8d4f22c1eb

@@ -3,7 +3,7 @@ title: Rectangle.Application Property (Word)
 keywords: vbawd10.chm234030056
 f1_keywords:
 - vbawd10.chm234030056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle.Application
 ms.assetid: ea5879bb-9fdf-43c5-00be-805878ef04da

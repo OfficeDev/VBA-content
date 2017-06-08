@@ -3,7 +3,7 @@ title: Language.ActiveGrammarDictionary Property (Word)
 keywords: vbawd10.chm158138381
 f1_keywords:
 - vbawd10.chm158138381
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.ActiveGrammarDictionary
 ms.assetid: 6cded20a-78e3-f01b-9ea8-42134ca5d7c7

@@ -3,7 +3,7 @@ title: Template.KerningByAlgorithm Property (Word)
 keywords: vbawd10.chm157941772
 f1_keywords:
 - vbawd10.chm157941772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.KerningByAlgorithm
 ms.assetid: 4812a92c-8886-6c52-4b26-6fc50e270f21

@@ -3,7 +3,7 @@ title: PageSetup.LineNumbering Property (Word)
 keywords: vbawd10.chm158400630
 f1_keywords:
 - vbawd10.chm158400630
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.LineNumbering
 ms.assetid: acdf1ef4-baaa-aa22-b7a1-81e89d1cebfa

@@ -3,7 +3,7 @@ title: PlotArea.Width Property (Word)
 keywords: vbawd10.chm53477498
 f1_keywords:
 - vbawd10.chm53477498
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Width
 ms.assetid: 65133a86-fd48-43dc-2f32-66eece825ea7

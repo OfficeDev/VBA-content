@@ -3,7 +3,7 @@ title: Windows.BreakSideBySide Method (Word)
 keywords: vbawd10.chm157351949
 f1_keywords:
 - vbawd10.chm157351949
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Windows.BreakSideBySide
 ms.assetid: 86e02a0d-4449-30e9-69a1-984e815711d4

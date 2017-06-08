@@ -3,7 +3,7 @@ title: ListParagraphs.Application Property (Word)
 keywords: vbawd10.chm160498664
 f1_keywords:
 - vbawd10.chm160498664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListParagraphs.Application
 ms.assetid: e1f86027-5cd0-4dbd-fbb7-b51d7229ea7d

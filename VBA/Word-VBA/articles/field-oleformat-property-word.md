@@ -3,7 +3,7 @@ title: Field.OLEFormat Property (Word)
 keywords: vbawd10.chm154075147
 f1_keywords:
 - vbawd10.chm154075147
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.OLEFormat
 ms.assetid: 3b52dc7d-5309-2067-1af0-a39286cf9a77

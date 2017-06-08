@@ -3,7 +3,7 @@ title: TableStyle Object (Word)
 keywords: vbawd10.chm3735
 f1_keywords:
 - vbawd10.chm3735
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle
 ms.assetid: 4f1f4489-0ef7-dff0-8f2a-77f87937f3ad

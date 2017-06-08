@@ -3,7 +3,7 @@ title: ChartBorder.Application Property (Word)
 keywords: vbawd10.chm61014164
 f1_keywords:
 - vbawd10.chm61014164
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartBorder.Application
 ms.assetid: ceecf7bb-bde8-35b1-c5dd-238df6921b1a

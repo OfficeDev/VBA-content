@@ -3,7 +3,7 @@ title: Application.OrganizerCopy Method (Word)
 keywords: vbawd10.chm158335294
 f1_keywords:
 - vbawd10.chm158335294
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.OrganizerCopy
 ms.assetid: a23452aa-7372-ca58-291f-164e6000162d

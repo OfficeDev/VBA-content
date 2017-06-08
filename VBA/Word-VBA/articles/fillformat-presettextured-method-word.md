@@ -3,7 +3,7 @@ title: FillFormat.PresetTextured Method (Word)
 keywords: vbawd10.chm164102158
 f1_keywords:
 - vbawd10.chm164102158
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.PresetTextured
 ms.assetid: 9a4aac9d-6349-7947-bc4a-1b0bb64a848b

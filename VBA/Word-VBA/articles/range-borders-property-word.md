@@ -3,7 +3,7 @@ title: Range.Borders Property (Word)
 keywords: vbawd10.chm157156428
 f1_keywords:
 - vbawd10.chm157156428
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Borders
 ms.assetid: a09b85ab-4075-533b-5aa4-8cb7d10e436d

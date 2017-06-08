@@ -1,6 +1,6 @@
 ---
 title: WdCollapseDirection Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCollapseDirection
 ms.assetid: 4b462af0-cad6-60c0-a652-a27399e7c663

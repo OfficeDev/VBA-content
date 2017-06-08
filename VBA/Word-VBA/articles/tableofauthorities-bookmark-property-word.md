@@ -3,7 +3,7 @@ title: TableOfAuthorities.Bookmark Property (Word)
 keywords: vbawd10.chm152109060
 f1_keywords:
 - vbawd10.chm152109060
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.Bookmark
 ms.assetid: 72cc5292-882c-df16-1b3e-9ed182be7ce7

@@ -3,7 +3,7 @@ title: CustomLabel.HorizontalPitch Property (Word)
 keywords: vbawd10.chm152371208
 f1_keywords:
 - vbawd10.chm152371208
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.HorizontalPitch
 ms.assetid: 87d0ba81-3298-ffe2-71d3-eef2301e1484

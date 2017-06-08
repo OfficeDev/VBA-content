@@ -3,7 +3,7 @@ title: ListLevel.Alignment Property (Word)
 keywords: vbawd10.chm160235526
 f1_keywords:
 - vbawd10.chm160235526
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.Alignment
 ms.assetid: 40460a1b-ed25-8618-556d-f4ef6165bac4

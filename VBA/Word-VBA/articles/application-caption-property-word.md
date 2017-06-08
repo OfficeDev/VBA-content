@@ -3,7 +3,7 @@ title: Application.Caption Property (Word)
 keywords: vbawd10.chm158335056
 f1_keywords:
 - vbawd10.chm158335056
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Caption
 ms.assetid: 5554fa04-0744-400d-fd8c-2fe36d4ad9a3

@@ -3,7 +3,7 @@ title: OMathFunction.BorderBox Property (Word)
 keywords: vbawd10.chm22151276
 f1_keywords:
 - vbawd10.chm22151276
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.BorderBox
 ms.assetid: 004a39ff-a85c-1680-86db-3b054f52434e

@@ -3,7 +3,7 @@ title: Options.ShowDiacritics Property (Word)
 keywords: vbawd10.chm162988437
 f1_keywords:
 - vbawd10.chm162988437
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ShowDiacritics
 ms.assetid: b06b6d5e-1606-20c3-7efb-212503bc2790

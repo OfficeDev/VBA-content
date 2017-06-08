@@ -1,6 +1,6 @@
 ---
 title: WdHorizontalLineWidthType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdHorizontalLineWidthType
 ms.assetid: c36b6de0-6963-c92d-5e95-45e72eb4d2c2

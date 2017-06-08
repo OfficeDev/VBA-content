@@ -3,7 +3,7 @@ title: PageSetup.PageWidth Property (Word)
 keywords: vbawd10.chm158400617
 f1_keywords:
 - vbawd10.chm158400617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.PageWidth
 ms.assetid: 623bf072-b34b-8b8c-a24f-fe6a0f4073ce

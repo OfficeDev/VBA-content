@@ -3,7 +3,7 @@ title: XMLMapping Object (Word)
 keywords: vbawd10.chm3047
 f1_keywords:
 - vbawd10.chm3047
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping
 ms.assetid: cf76802b-f93d-0f3b-4936-ca357a7d7ff8

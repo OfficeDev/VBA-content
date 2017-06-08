@@ -3,7 +3,7 @@ title: CanvasShapes.AddPicture Method (Word)
 keywords: vbawd10.chm7536655
 f1_keywords:
 - vbawd10.chm7536655
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.AddPicture
 ms.assetid: 445a19cf-1388-34d7-69d8-778d889d917f

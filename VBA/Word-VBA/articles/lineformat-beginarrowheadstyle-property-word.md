@@ -3,7 +3,7 @@ title: LineFormat.BeginArrowheadStyle Property (Word)
 keywords: vbawd10.chm164233318
 f1_keywords:
 - vbawd10.chm164233318
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.BeginArrowheadStyle
 ms.assetid: 16aa1b91-5126-bbe5-be7d-ce26245f50a2

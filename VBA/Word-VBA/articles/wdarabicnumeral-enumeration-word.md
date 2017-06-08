@@ -1,6 +1,6 @@
 ---
 title: WdArabicNumeral Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdArabicNumeral
 ms.assetid: 63983b2a-4350-60a9-be67-92929a33c971

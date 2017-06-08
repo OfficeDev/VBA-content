@@ -3,7 +3,7 @@ title: Source.Delete Method (Word)
 keywords: vbawd10.chm140836970
 f1_keywords:
 - vbawd10.chm140836970
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Source.Delete
 ms.assetid: 5fdfa8bc-1894-5adb-b9a3-6f767b64af31

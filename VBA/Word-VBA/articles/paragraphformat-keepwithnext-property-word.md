@@ -3,7 +3,7 @@ title: ParagraphFormat.KeepWithNext Property (Word)
 keywords: vbawd10.chm156434535
 f1_keywords:
 - vbawd10.chm156434535
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.KeepWithNext
 ms.assetid: 5fc8ad97-d839-7837-04c7-dac2efe1d1c2

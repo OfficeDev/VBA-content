@@ -3,7 +3,7 @@ title: OMathScrSubSup Object (Word)
 keywords: vbawd10.chm2772
 f1_keywords:
 - vbawd10.chm2772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSubSup
 ms.assetid: e5fbf9cb-461c-3b08-a441-9e91e0745b15

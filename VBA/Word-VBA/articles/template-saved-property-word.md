@@ -3,7 +3,7 @@ title: Template.Saved Property (Word)
 keywords: vbawd10.chm157941765
 f1_keywords:
 - vbawd10.chm157941765
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.Saved
 ms.assetid: 334069e0-f419-ddf7-0327-6c875bf3b7cd

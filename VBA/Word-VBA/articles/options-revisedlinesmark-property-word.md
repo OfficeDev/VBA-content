@@ -3,7 +3,7 @@ title: Options.RevisedLinesMark Property (Word)
 keywords: vbawd10.chm162988091
 f1_keywords:
 - vbawd10.chm162988091
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.RevisedLinesMark
 ms.assetid: ecc358f2-4bf6-7546-5400-938a3dae6b77

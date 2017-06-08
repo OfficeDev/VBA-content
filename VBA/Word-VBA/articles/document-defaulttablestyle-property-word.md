@@ -3,7 +3,7 @@ title: Document.DefaultTableStyle Property (Word)
 keywords: vbawd10.chm158007661
 f1_keywords:
 - vbawd10.chm158007661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DefaultTableStyle
 ms.assetid: b6782b12-09a6-77b0-a52d-81d4028e7c19

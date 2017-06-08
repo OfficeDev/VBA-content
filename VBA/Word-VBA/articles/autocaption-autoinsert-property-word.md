@@ -3,7 +3,7 @@ title: AutoCaption.AutoInsert Property (Word)
 keywords: vbawd10.chm159055873
 f1_keywords:
 - vbawd10.chm159055873
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCaption.AutoInsert
 ms.assetid: eac9cee8-93d5-e707-b03d-ef1dbe906ef9

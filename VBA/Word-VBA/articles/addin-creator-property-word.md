@@ -3,7 +3,7 @@ title: AddIn.Creator Property (Word)
 keywords: vbawd10.chm159253481
 f1_keywords:
 - vbawd10.chm159253481
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AddIn.Creator
 ms.assetid: 78824e27-06e8-5028-b62f-14bfadf326b8

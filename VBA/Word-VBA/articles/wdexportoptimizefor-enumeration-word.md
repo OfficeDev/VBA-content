@@ -1,6 +1,6 @@
 ---
 title: WdExportOptimizeFor Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdExportOptimizeFor
 ms.assetid: 1570b20b-7da3-42f4-6c49-a3b1d0e70beb

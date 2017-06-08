@@ -3,7 +3,7 @@ title: Options.AutoFormatReplaceSymbols Property (Word)
 keywords: vbawd10.chm162988287
 f1_keywords:
 - vbawd10.chm162988287
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatReplaceSymbols
 ms.assetid: 58a1c811-2fd8-92a9-1f85-6d9beb4223ef

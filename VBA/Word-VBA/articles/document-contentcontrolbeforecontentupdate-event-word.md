@@ -3,7 +3,7 @@ title: Document.ContentControlBeforeContentUpdate Event (Word)
 keywords: vbawd10.chm4001015
 f1_keywords:
 - vbawd10.chm4001015
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ContentControlBeforeContentUpdate
 ms.assetid: 297241e3-fda9-1947-8b09-9dca97930dcf

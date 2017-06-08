@@ -3,7 +3,7 @@ title: CaptionLabel.BuiltIn Property (Word)
 keywords: vbawd10.chm158924801
 f1_keywords:
 - vbawd10.chm158924801
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabel.BuiltIn
 ms.assetid: 1df0a271-2792-0813-f45d-2b076afa0a3a

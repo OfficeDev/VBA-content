@@ -3,7 +3,7 @@ title: Options.MatchFuzzyByte Property (Word)
 keywords: vbawd10.chm162988342
 f1_keywords:
 - vbawd10.chm162988342
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyByte
 ms.assetid: 978d49df-a417-11b8-069e-1147067cd1ed

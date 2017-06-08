@@ -3,7 +3,7 @@ title: SpellingSuggestions.SpellingErrorType Property (Word)
 keywords: vbawd10.chm162136066
 f1_keywords:
 - vbawd10.chm162136066
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SpellingSuggestions.SpellingErrorType
 ms.assetid: 0d5c71a3-77eb-b36c-76b8-c6fd49bb6394

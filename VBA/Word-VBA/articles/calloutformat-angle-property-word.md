@@ -3,7 +3,7 @@ title: CalloutFormat.Angle Property (Word)
 keywords: vbawd10.chm163905637
 f1_keywords:
 - vbawd10.chm163905637
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.Angle
 ms.assetid: b5178aa0-c2e3-dc59-766d-7ce5b2e7c762

@@ -3,7 +3,7 @@ title: Section.Range Property (Word)
 keywords: vbawd10.chm156827648
 f1_keywords:
 - vbawd10.chm156827648
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section.Range
 ms.assetid: aabe43c6-4ace-af98-f773-bc547f289c9d

@@ -3,7 +3,7 @@ title: PageNumbers.ShowFirstPageNumber Property (Word)
 keywords: vbawd10.chm159776776
 f1_keywords:
 - vbawd10.chm159776776
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.ShowFirstPageNumber
 ms.assetid: 5f7c88cc-ddb7-08d6-880d-f55a9591fdea

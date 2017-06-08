@@ -1,6 +1,6 @@
 ---
 title: ChartGroups Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroups
 ms.assetid: 37136fbd-8740-c817-9666-993bc5d4c847

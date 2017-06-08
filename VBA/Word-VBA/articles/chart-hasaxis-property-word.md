@@ -3,7 +3,7 @@ title: Chart.HasAxis Property (Word)
 keywords: vbawd10.chm79364150
 f1_keywords:
 - vbawd10.chm79364150
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.HasAxis
 ms.assetid: b5b7effe-48c6-75d9-fdc4-7a9ff148f0e9

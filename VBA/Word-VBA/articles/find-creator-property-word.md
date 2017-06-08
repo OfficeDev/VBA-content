@@ -3,7 +3,7 @@ title: Find.Creator Property (Word)
 keywords: vbawd10.chm162530281
 f1_keywords:
 - vbawd10.chm162530281
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Creator
 ms.assetid: e57d8133-a26e-2628-fe78-280a38f4ef7e

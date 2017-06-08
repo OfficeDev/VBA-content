@@ -1,6 +1,6 @@
 ---
 title: WdRevisionsView Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRevisionsView
 ms.assetid: b460e555-c709-8e81-f043-f5cd4bfa0f14

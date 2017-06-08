@@ -3,7 +3,7 @@ title: Pane.MinimumFontSize Property (Word)
 keywords: vbawd10.chm157286415
 f1_keywords:
 - vbawd10.chm157286415
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.MinimumFontSize
 ms.assetid: 45aa3c50-ac50-c3b0-f7eb-099b4559ff43

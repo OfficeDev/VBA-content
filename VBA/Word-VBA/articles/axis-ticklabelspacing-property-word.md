@@ -3,7 +3,7 @@ title: Axis.TickLabelSpacing Property (Word)
 keywords: vbawd10.chm113049651
 f1_keywords:
 - vbawd10.chm113049651
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.TickLabelSpacing
 ms.assetid: af49728e-6c42-7846-50da-127c855264bf

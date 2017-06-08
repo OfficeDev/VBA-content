@@ -1,6 +1,6 @@
 ---
 title: FileConverters Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: b9b8fc53-1c8e-224d-726a-4edf172ca647
 ms.date: 06/08/2017
 ---

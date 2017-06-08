@@ -3,7 +3,7 @@ title: EndnoteOptions.StartingNumber Property (Word)
 keywords: vbawd10.chm23593062
 f1_keywords:
 - vbawd10.chm23593062
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EndnoteOptions.StartingNumber
 ms.assetid: 10d8d08b-dac5-5439-1f75-2d485c905e8f

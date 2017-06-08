@@ -3,7 +3,7 @@ title: Application.Tasks Property (Word)
 keywords: vbawd10.chm158335004
 f1_keywords:
 - vbawd10.chm158335004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Tasks
 ms.assetid: e78150fd-8c79-948b-7a46-5e560194aa48

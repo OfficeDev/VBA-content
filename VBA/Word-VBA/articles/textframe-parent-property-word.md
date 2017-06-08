@@ -3,7 +3,7 @@ title: TextFrame.Parent Property (Word)
 keywords: vbawd10.chm162660353
 f1_keywords:
 - vbawd10.chm162660353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.Parent
 ms.assetid: 862fb718-3f47-be74-a626-d7fd8b4410f8

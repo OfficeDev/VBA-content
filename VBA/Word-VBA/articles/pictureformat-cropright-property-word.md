@@ -3,7 +3,7 @@ title: PictureFormat.CropRight Property (Word)
 keywords: vbawd10.chm164298857
 f1_keywords:
 - vbawd10.chm164298857
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.CropRight
 ms.assetid: 89f73474-9b52-b758-e579-adbc803a5a62

@@ -3,7 +3,7 @@ title: Chart Object (Word)
 keywords: vbawd10.chm1211
 f1_keywords:
 - vbawd10.chm1211
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart
 ms.assetid: 366a825e-0daf-dbb7-b6f2-e7ce1a5ee2ef

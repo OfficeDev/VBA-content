@@ -3,7 +3,7 @@ title: LegendKey.PictureType Property (Word)
 keywords: vbawd10.chm266207393
 f1_keywords:
 - vbawd10.chm266207393
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.PictureType
 ms.assetid: 7579c428-4895-9d70-16d2-c99c260ca2f4

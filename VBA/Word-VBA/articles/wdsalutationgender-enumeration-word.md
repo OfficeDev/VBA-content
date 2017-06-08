@@ -1,6 +1,6 @@
 ---
 title: WdSalutationGender Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSalutationGender
 ms.assetid: 6dc73995-7196-b4cf-efe4-75868c4851db

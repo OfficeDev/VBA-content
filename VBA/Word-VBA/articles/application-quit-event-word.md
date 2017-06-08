@@ -3,7 +3,7 @@ title: Application.Quit Event (Word)
 keywords: vbawd10.chm400002
 f1_keywords:
 - vbawd10.chm400002
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Quit
 ms.assetid: 3e05cf42-47c9-6a1b-b7da-09abe9746fd5

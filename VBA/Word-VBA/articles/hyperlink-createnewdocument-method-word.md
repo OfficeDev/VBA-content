@@ -3,7 +3,7 @@ title: Hyperlink.CreateNewDocument Method (Word)
 keywords: vbawd10.chm161284202
 f1_keywords:
 - vbawd10.chm161284202
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.CreateNewDocument
 ms.assetid: e3077a0d-6a83-e36d-7199-8ec6aca8dfa7

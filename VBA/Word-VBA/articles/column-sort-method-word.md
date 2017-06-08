@@ -3,7 +3,7 @@ title: Column.Sort Method (Word)
 keywords: vbawd10.chm156172492
 f1_keywords:
 - vbawd10.chm156172492
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Sort
 ms.assetid: c71dbc55-a0dc-4ced-f579-6b446c427f88

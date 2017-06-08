@@ -3,7 +3,7 @@ title: CustomLabel.Delete Method (Word)
 keywords: vbawd10.chm152371301
 f1_keywords:
 - vbawd10.chm152371301
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.Delete
 ms.assetid: 812c213f-c34e-883b-014c-fa558f1be45a

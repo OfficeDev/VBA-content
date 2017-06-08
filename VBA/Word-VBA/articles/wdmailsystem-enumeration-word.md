@@ -1,6 +1,6 @@
 ---
 title: WdMailSystem Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMailSystem
 ms.assetid: 20cf9349-6d0b-e9fb-1654-fbebe723d07f

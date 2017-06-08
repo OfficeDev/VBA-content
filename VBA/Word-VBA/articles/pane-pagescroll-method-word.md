@@ -3,7 +3,7 @@ title: Pane.PageScroll Method (Word)
 keywords: vbawd10.chm157286505
 f1_keywords:
 - vbawd10.chm157286505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.PageScroll
 ms.assetid: d96a9e10-6d57-14d7-5f4c-ab2aeffed22b

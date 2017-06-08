@@ -3,7 +3,7 @@ title: Language.Creator Property (Word)
 keywords: vbawd10.chm158139369
 f1_keywords:
 - vbawd10.chm158139369
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.Creator
 ms.assetid: 41a286c6-03ff-9dc8-e4f4-ea8e7cffcfbb

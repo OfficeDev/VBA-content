@@ -3,7 +3,7 @@ title: Floor.ClearFormats Method (Word)
 keywords: vbawd10.chm46006384
 f1_keywords:
 - vbawd10.chm46006384
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor.ClearFormats
 ms.assetid: 401aeace-51c9-0d39-0646-3f49c80d2d15

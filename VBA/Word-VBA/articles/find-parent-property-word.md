@@ -3,7 +3,7 @@ title: Find.Parent Property (Word)
 keywords: vbawd10.chm162530282
 f1_keywords:
 - vbawd10.chm162530282
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Parent
 ms.assetid: 95500373-3f1b-81d6-39a0-30647fa4b07b

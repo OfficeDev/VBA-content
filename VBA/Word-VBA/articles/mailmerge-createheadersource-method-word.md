@@ -3,7 +3,7 @@ title: MailMerge.CreateHeaderSource Method (Word)
 keywords: vbawd10.chm153092198
 f1_keywords:
 - vbawd10.chm153092198
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.CreateHeaderSource
 ms.assetid: 607c668d-5f81-ecbe-d4c8-fbf509444683

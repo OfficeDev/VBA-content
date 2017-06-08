@@ -1,6 +1,6 @@
 ---
 title: WdKana Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdKana
 ms.assetid: 8154f6ea-6e8e-eee5-57cf-2edcfdcbe92f

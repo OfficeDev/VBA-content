@@ -3,7 +3,7 @@ title: Options.MergedCellColor Property (Word)
 keywords: vbawd10.chm162988498
 f1_keywords:
 - vbawd10.chm162988498
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MergedCellColor
 ms.assetid: 4f26b379-63fc-db31-cd9c-0a64ed227755

@@ -3,7 +3,7 @@ title: Options.Application Property (Word)
 keywords: vbawd10.chm162989032
 f1_keywords:
 - vbawd10.chm162989032
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.Application
 ms.assetid: 3055f6c9-5f12-af62-9147-ab26fe1d2e08

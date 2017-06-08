@@ -3,7 +3,7 @@ title: ShapeRange.Application Property (Word)
 keywords: vbawd10.chm162864960
 f1_keywords:
 - vbawd10.chm162864960
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Application
 ms.assetid: ab98b9ec-e28d-b7e8-db12-b71a4697c552

@@ -3,7 +3,7 @@ title: XMLSchemaReferences.Add Method (Word)
 keywords: vbawd10.chm116129893
 f1_keywords:
 - vbawd10.chm116129893
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.Add
 ms.assetid: fe6fa7d5-287a-f79f-b83b-fc182002504a

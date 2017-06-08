@@ -3,7 +3,7 @@ title: CoAuthoring.Locks Property (Word)
 keywords: vbawd10.chm254869509
 f1_keywords:
 - vbawd10.chm254869509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.Locks
 ms.assetid: cf8feb0f-3617-c239-08de-ac6f8fc71b6e

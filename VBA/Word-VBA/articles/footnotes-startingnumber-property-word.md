@@ -3,7 +3,7 @@ title: Footnotes.StartingNumber Property (Word)
 keywords: vbawd10.chm155320422
 f1_keywords:
 - vbawd10.chm155320422
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.StartingNumber
 ms.assetid: c058fc5b-80d0-beba-5e89-2f8661264122

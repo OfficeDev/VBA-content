@@ -3,7 +3,7 @@ title: MailMergeFields.AddNext Method (Word)
 keywords: vbawd10.chm153026667
 f1_keywords:
 - vbawd10.chm153026667
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddNext
 ms.assetid: c267f484-b9b0-44a0-c519-ca6624057223

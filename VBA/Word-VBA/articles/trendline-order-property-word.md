@@ -3,7 +3,7 @@ title: Trendline.Order Property (Word)
 keywords: vbawd10.chm26345664
 f1_keywords:
 - vbawd10.chm26345664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.Order
 ms.assetid: 721ee9e7-2300-2c6a-3707-7b751d670ceb

@@ -3,7 +3,7 @@ title: FileConverters.Item Method (Word)
 keywords: vbawd10.chm161087488
 f1_keywords:
 - vbawd10.chm161087488
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverters.Item
 ms.assetid: 6e280750-d43f-e0c5-fd99-4cd9a04f9b7b

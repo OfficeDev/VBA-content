@@ -3,7 +3,7 @@ title: TableOfFigures.HeadingStyles Property (Word)
 keywords: vbawd10.chm153157643
 f1_keywords:
 - vbawd10.chm153157643
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.HeadingStyles
 ms.assetid: d3e8f859-05eb-163a-d9a0-e49121d441de

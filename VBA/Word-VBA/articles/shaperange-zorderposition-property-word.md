@@ -3,7 +3,7 @@ title: ShapeRange.ZOrderPosition Property (Word)
 keywords: vbawd10.chm162857089
 f1_keywords:
 - vbawd10.chm162857089
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.ZOrderPosition
 ms.assetid: 358898b6-eab7-96f8-8f4e-bb993a425e5e

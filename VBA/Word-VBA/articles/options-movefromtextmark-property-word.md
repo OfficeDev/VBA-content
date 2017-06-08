@@ -3,7 +3,7 @@ title: Options.MoveFromTextMark Property (Word)
 keywords: vbawd10.chm162988493
 f1_keywords:
 - vbawd10.chm162988493
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MoveFromTextMark
 ms.assetid: c8fa964e-8331-b4d5-ffac-3ab62f1b0d56

@@ -3,7 +3,7 @@ title: Border.LineWidth Property (Word)
 keywords: vbawd10.chm154861572
 f1_keywords:
 - vbawd10.chm154861572
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Border.LineWidth
 ms.assetid: 31e87acf-fd7f-fa5c-d869-5f46bb7ed169

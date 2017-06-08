@@ -3,7 +3,7 @@ title: ChartGroup.HasHiLoLines Property (Word)
 keywords: vbawd10.chm263454732
 f1_keywords:
 - vbawd10.chm263454732
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.HasHiLoLines
 ms.assetid: 5713e885-9f36-6b6c-2622-a813cba2077b

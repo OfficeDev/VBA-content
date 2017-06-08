@@ -3,7 +3,7 @@ title: LetterContent.DateFormat Property (Word)
 keywords: vbawd10.chm161546341
 f1_keywords:
 - vbawd10.chm161546341
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.DateFormat
 ms.assetid: 4d23139a-1691-4548-f395-e46aed0306a6

@@ -3,7 +3,7 @@ title: Table.Descr Property (Word)
 keywords: vbawd10.chm156303570
 f1_keywords:
 - vbawd10.chm156303570
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Descr
 ms.assetid: 745b446c-1371-35d5-d6bd-8ad6aa4867fe

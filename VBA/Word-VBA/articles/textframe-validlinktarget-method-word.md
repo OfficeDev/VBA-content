@@ -3,7 +3,7 @@ title: TextFrame.ValidLinkTarget Method (Word)
 keywords: vbawd10.chm162665358
 f1_keywords:
 - vbawd10.chm162665358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.ValidLinkTarget
 ms.assetid: 09e900c9-30d8-0098-6ad1-d8c4fbaeb3cf

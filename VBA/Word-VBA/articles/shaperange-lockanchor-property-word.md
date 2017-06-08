@@ -3,7 +3,7 @@ title: ShapeRange.LockAnchor Property (Word)
 keywords: vbawd10.chm162857262
 f1_keywords:
 - vbawd10.chm162857262
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.LockAnchor
 ms.assetid: 63137738-47cb-bb2a-eb3a-25c421de298a

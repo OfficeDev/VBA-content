@@ -3,7 +3,7 @@ title: Application.CheckGrammar Method (Word)
 keywords: vbawd10.chm158335299
 f1_keywords:
 - vbawd10.chm158335299
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CheckGrammar
 ms.assetid: 4675bda9-c31d-efdc-4def-38bfdeb200e4

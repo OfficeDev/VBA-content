@@ -3,7 +3,7 @@ title: Words.First Property (Word)
 keywords: vbawd10.chm157024259
 f1_keywords:
 - vbawd10.chm157024259
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Words.First
 ms.assetid: 93525a9b-1259-30a2-23e6-5887ea93fb95

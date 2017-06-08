@@ -3,7 +3,7 @@ title: XMLNamespaces.Creator Property (Word)
 keywords: vbawd10.chm248972265
 f1_keywords:
 - vbawd10.chm248972265
-ms.prod: WORD
+ms.prod: word
 ms.assetid: acf3b4c0-02f6-6ad8-0a79-77d61e9d4245
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Document.ViewPropertyBrowser Method (Word)
 keywords: vbawd10.chm158007446
 f1_keywords:
 - vbawd10.chm158007446
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ViewPropertyBrowser
 ms.assetid: 937cfe62-b05d-db34-413c-61602f58eac8

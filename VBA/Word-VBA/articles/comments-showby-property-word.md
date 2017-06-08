@@ -3,7 +3,7 @@ title: Comments.ShowBy Property (Word)
 keywords: vbawd10.chm155190251
 f1_keywords:
 - vbawd10.chm155190251
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comments.ShowBy
 ms.assetid: 13568867-ca6b-828a-1914-f6f32099b976

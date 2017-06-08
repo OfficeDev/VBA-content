@@ -3,7 +3,7 @@ title: Page.Left Property (Word)
 keywords: vbawd10.chm11075586
 f1_keywords:
 - vbawd10.chm11075586
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Left
 ms.assetid: 681390e2-f121-5652-2923-aa460db0da64

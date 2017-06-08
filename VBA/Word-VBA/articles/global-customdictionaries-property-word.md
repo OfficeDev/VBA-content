@@ -3,7 +3,7 @@ title: Global.CustomDictionaries Property (Word)
 keywords: vbawd10.chm163119199
 f1_keywords:
 - vbawd10.chm163119199
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.CustomDictionaries
 ms.assetid: e0027537-b68d-d342-930e-9e581e112882

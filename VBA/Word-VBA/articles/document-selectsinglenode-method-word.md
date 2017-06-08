@@ -3,7 +3,7 @@ title: Document.SelectSingleNode Method (Word)
 keywords: vbawd10.chm158007784
 f1_keywords:
 - vbawd10.chm158007784
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SelectSingleNode
 ms.assetid: 85f22e41-97e3-4413-c57e-26719155dc7d

@@ -3,7 +3,7 @@ title: Shape.Anchor Property (Word)
 keywords: vbawd10.chm161481205
 f1_keywords:
 - vbawd10.chm161481205
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Anchor
 ms.assetid: a2889d2a-4b47-cf27-a9ef-b9fe479b7929

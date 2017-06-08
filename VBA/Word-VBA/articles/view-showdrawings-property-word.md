@@ -3,7 +3,7 @@ title: View.ShowDrawings Property (Word)
 keywords: vbawd10.chm161808398
 f1_keywords:
 - vbawd10.chm161808398
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowDrawings
 ms.assetid: fa03b2f0-e090-5130-c370-4a00ee6db958

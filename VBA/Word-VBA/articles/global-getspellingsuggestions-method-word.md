@@ -3,7 +3,7 @@ title: Global.GetSpellingSuggestions Method (Word)
 keywords: vbawd10.chm163119431
 f1_keywords:
 - vbawd10.chm163119431
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.GetSpellingSuggestions
 ms.assetid: 1539a24d-1548-d330-b90b-98d118b999c4

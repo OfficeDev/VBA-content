@@ -3,7 +3,7 @@ title: Application.Repeat Method (Word)
 keywords: vbawd10.chm158335281
 f1_keywords:
 - vbawd10.chm158335281
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Repeat
 ms.assetid: 811e9f1c-cbdc-01dc-1e76-5521976943ed

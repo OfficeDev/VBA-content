@@ -3,7 +3,7 @@ title: Range.Revisions Property (Word)
 keywords: vbawd10.chm157155478
 f1_keywords:
 - vbawd10.chm157155478
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Revisions
 ms.assetid: cf71b684-991a-fb6d-09bc-eeecb16edec5

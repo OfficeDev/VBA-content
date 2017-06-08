@@ -3,7 +3,7 @@ title: Series.Explosion Property (Word)
 keywords: vbawd10.chm123732150
 f1_keywords:
 - vbawd10.chm123732150
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Explosion
 ms.assetid: e517ecd2-58c4-9584-ba45-17a6189d427d

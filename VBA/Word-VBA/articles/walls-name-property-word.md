@@ -3,7 +3,7 @@ title: Walls.Name Property (Word)
 keywords: vbawd10.chm25165934
 f1_keywords:
 - vbawd10.chm25165934
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.Name
 ms.assetid: 8f4cbbf1-c231-84cb-31ba-2f4ad5c74475

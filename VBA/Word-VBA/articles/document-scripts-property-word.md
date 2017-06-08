@@ -3,7 +3,7 @@ title: Document.Scripts Property (Word)
 keywords: vbawd10.chm158007616
 f1_keywords:
 - vbawd10.chm158007616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Scripts
 ms.assetid: 5602a262-f4e2-bc9c-1457-68536adf7ac4

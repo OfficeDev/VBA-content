@@ -3,7 +3,7 @@ title: ChartArea.Name Property (Word)
 keywords: vbawd10.chm160039022
 f1_keywords:
 - vbawd10.chm160039022
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea.Name
 ms.assetid: 76382dc6-1131-4bf2-503a-23c7b1fa3ac5

@@ -3,7 +3,7 @@ title: View.ShowSpaces Property (Word)
 keywords: vbawd10.chm161808400
 f1_keywords:
 - vbawd10.chm161808400
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowSpaces
 ms.assetid: c560747d-691a-1ddb-b748-2c91f519ba53

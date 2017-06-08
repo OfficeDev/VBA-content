@@ -3,7 +3,7 @@ title: Options.BibliographySort Property (Word)
 keywords: vbawd10.chm162988495
 f1_keywords:
 - vbawd10.chm162988495
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.BibliographySort
 ms.assetid: 257d6ab9-fc3b-985e-bdcb-3e4465f77ded

@@ -1,6 +1,6 @@
 ---
 title: WdPreferredWidthType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPreferredWidthType
 ms.assetid: 611b2b0f-064d-7a00-108b-e282f6539a48

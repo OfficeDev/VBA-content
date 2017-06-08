@@ -3,7 +3,7 @@ title: TextFrame.ThreeD Property (Word)
 keywords: vbawd10.chm162665368
 f1_keywords:
 - vbawd10.chm162665368
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.ThreeD
 ms.assetid: 1e72ff5c-8806-be67-87df-40ae71d13188

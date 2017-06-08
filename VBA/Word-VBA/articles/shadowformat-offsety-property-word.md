@@ -3,7 +3,7 @@ title: ShadowFormat.OffsetY Property (Word)
 keywords: vbawd10.chm164364391
 f1_keywords:
 - vbawd10.chm164364391
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShadowFormat.OffsetY
 ms.assetid: 3ec87258-bcab-42fe-cc58-2d59b5dd4d65

@@ -3,7 +3,7 @@ title: DataTable.HasBorderOutline Property (Word)
 keywords: vbawd10.chm46399494
 f1_keywords:
 - vbawd10.chm46399494
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.HasBorderOutline
 ms.assetid: c7766f52-ee4f-f51b-a716-b1b76dcb434f

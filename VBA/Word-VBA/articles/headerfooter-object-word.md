@@ -1,6 +1,6 @@
 ---
 title: HeaderFooter Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter
 ms.assetid: 3f2f926a-9220-5536-80ed-af63d2feb016

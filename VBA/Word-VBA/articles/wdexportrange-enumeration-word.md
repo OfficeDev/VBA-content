@@ -1,6 +1,6 @@
 ---
 title: WdExportRange Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdExportRange
 ms.assetid: 45b45e2d-7eb8-897b-9167-9695000e8ebb

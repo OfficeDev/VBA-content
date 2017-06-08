@@ -3,7 +3,7 @@ title: GlowFormat.Parent Property (Word)
 keywords: vbawd10.chm255853546
 f1_keywords:
 - vbawd10.chm255853546
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GlowFormat.Parent
 ms.assetid: ef05f61a-467c-a2b6-e521-2ac60c3a33c2

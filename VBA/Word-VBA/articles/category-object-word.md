@@ -3,7 +3,7 @@ title: Category Object (Word)
 keywords: vbawd10.chm2910
 f1_keywords:
 - vbawd10.chm2910
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Category
 ms.assetid: 5485ae39-fbcf-b18f-b1f9-945e220ecd2a

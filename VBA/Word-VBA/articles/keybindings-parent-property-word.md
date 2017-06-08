@@ -3,7 +3,7 @@ title: KeyBindings.Parent Property (Word)
 keywords: vbawd10.chm160826346
 f1_keywords:
 - vbawd10.chm160826346
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBindings.Parent
 ms.assetid: 95594351-3827-9c7e-4cb8-ef10c3ab2b31

@@ -3,7 +3,7 @@ title: MailingLabel.Creator Property (Word)
 keywords: vbawd10.chm152503273
 f1_keywords:
 - vbawd10.chm152503273
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.Creator
 ms.assetid: f9a67daa-523e-b84d-e7eb-eeb1711c81c8

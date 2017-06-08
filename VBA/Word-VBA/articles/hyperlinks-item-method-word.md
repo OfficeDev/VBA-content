@@ -3,7 +3,7 @@ title: Hyperlinks.Item Method (Word)
 keywords: vbawd10.chm161218560
 f1_keywords:
 - vbawd10.chm161218560
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlinks.Item
 ms.assetid: e59fcc87-cfc6-1db6-f5ac-59154db8fc7c

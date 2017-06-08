@@ -1,6 +1,6 @@
 ---
 title: WdTableFormatApply Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTableFormatApply
 ms.assetid: 8a40b200-c09f-9117-5bc6-c5768105eeb2

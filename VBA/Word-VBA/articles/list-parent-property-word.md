@@ -3,7 +3,7 @@ title: List.Parent Property (Word)
 keywords: vbawd10.chm160564202
 f1_keywords:
 - vbawd10.chm160564202
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.Parent
 ms.assetid: 3c545ab4-13f6-94d7-4c4d-63922c58585a

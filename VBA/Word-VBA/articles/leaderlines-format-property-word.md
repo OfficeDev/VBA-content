@@ -3,7 +3,7 @@ title: LeaderLines.Format Property (Word)
 keywords: vbawd10.chm207749123
 f1_keywords:
 - vbawd10.chm207749123
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LeaderLines.Format
 ms.assetid: b19f88c5-d72b-fe4b-743e-315e6a6f8cd6

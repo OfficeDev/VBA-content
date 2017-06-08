@@ -3,7 +3,7 @@ title: OMathMatRow.Delete Method (Word)
 keywords: vbawd10.chm196477128
 f1_keywords:
 - vbawd10.chm196477128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatRow.Delete
 ms.assetid: b90615ee-6ecc-5d55-c088-b3a82593a050

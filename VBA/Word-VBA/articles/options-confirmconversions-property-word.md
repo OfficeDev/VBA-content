@@ -3,7 +3,7 @@ title: Options.ConfirmConversions Property (Word)
 keywords: vbawd10.chm162988054
 f1_keywords:
 - vbawd10.chm162988054
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ConfirmConversions
 ms.assetid: 4bdea504-e8c7-193c-c671-1a8ec84d93ca

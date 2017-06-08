@@ -3,7 +3,7 @@ title: Style.Font Property (Word)
 keywords: vbawd10.chm153878538
 f1_keywords:
 - vbawd10.chm153878538
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Font
 ms.assetid: e4e5968a-ab2e-786b-cc71-f770d8c121b4

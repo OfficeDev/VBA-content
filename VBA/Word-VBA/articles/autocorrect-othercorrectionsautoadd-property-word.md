@@ -3,7 +3,7 @@ title: AutoCorrect.OtherCorrectionsAutoAdd Property (Word)
 keywords: vbawd10.chm155779088
 f1_keywords:
 - vbawd10.chm155779088
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.OtherCorrectionsAutoAdd
 ms.assetid: ac284578-00af-7143-0573-a75a5557760c

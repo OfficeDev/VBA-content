@@ -3,7 +3,7 @@ title: Options.MatchFuzzySpace Property (Word)
 keywords: vbawd10.chm162988358
 f1_keywords:
 - vbawd10.chm162988358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzySpace
 ms.assetid: b32a93ac-620f-ba6a-a6e9-e38d72eda5cf

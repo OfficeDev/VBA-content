@@ -3,7 +3,7 @@ title: PageNumbers.Item Method (Word)
 keywords: vbawd10.chm159776768
 f1_keywords:
 - vbawd10.chm159776768
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.Item
 ms.assetid: dd39bc8f-ee56-f35c-0867-671f0951904d

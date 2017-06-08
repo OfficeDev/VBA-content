@@ -3,7 +3,7 @@ title: Cell.AutoSum Method (Word)
 keywords: vbawd10.chm156106958
 f1_keywords:
 - vbawd10.chm156106958
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.AutoSum
 ms.assetid: 5f8c36c3-2e26-8e5f-16c4-49d4c04144c1

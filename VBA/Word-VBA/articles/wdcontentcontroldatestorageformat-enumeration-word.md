@@ -1,6 +1,6 @@
 ---
 title: WdContentControlDateStorageFormat Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdContentControlDateStorageFormat
 ms.assetid: ae56d9f2-fbf3-f7f7-b601-5df23f434c7a

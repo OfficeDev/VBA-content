@@ -3,7 +3,7 @@ title: Revision.FormatDescription Property (Word)
 keywords: vbawd10.chm159449097
 f1_keywords:
 - vbawd10.chm159449097
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.FormatDescription
 ms.assetid: 5178a4d2-ae38-a0e7-4df4-3bac2789d37d

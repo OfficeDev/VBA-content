@@ -3,7 +3,7 @@ title: Paragraphs.SpaceBeforeAuto Property (Word)
 keywords: vbawd10.chm156762244
 f1_keywords:
 - vbawd10.chm156762244
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.SpaceBeforeAuto
 ms.assetid: be2bbab2-81bb-a95e-201b-46487fda2ca8

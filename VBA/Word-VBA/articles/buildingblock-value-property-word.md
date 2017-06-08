@@ -3,7 +3,7 @@ title: BuildingBlock.Value Property (Word)
 keywords: vbawd10.chm203620352
 f1_keywords:
 - vbawd10.chm203620352
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.Value
 ms.assetid: 7b6c7ebf-62fe-3215-9b34-85c32ae3ff8e

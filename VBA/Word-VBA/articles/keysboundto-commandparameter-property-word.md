@@ -3,7 +3,7 @@ title: KeysBoundTo.CommandParameter Property (Word)
 keywords: vbawd10.chm160890885
 f1_keywords:
 - vbawd10.chm160890885
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeysBoundTo.CommandParameter
 ms.assetid: de72887d-0970-05e5-84e2-4ba4c5c6ae45

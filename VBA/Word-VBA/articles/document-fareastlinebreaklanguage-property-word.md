@@ -3,7 +3,7 @@ title: Document.FarEastLineBreakLanguage Property (Word)
 keywords: vbawd10.chm158007622
 f1_keywords:
 - vbawd10.chm158007622
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FarEastLineBreakLanguage
 ms.assetid: cf868676-b880-46e9-a1b4-9cb341c63427

@@ -3,7 +3,7 @@ title: MailMessage.Forward Method (Word)
 keywords: vbawd10.chm163184979
 f1_keywords:
 - vbawd10.chm163184979
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.Forward
 ms.assetid: 3ae7a3bc-9cc1-82eb-eff5-ea4a99fe181f

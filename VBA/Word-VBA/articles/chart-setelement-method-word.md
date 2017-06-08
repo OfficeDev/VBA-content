@@ -1,6 +1,6 @@
 ---
 title: Chart.SetElement Method (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.SetElement
 ms.assetid: d172a9df-b081-0077-18ef-f75bf0d6f26a

@@ -3,7 +3,7 @@ title: OMathAutoCorrect Object (Word)
 keywords: vbawd10.chm3944
 f1_keywords:
 - vbawd10.chm3944
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrect
 ms.assetid: 933b77bd-335e-4f4c-026d-8141bd5fc6e2

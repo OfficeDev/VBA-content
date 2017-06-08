@@ -3,7 +3,7 @@ title: XMLNode.SelectNodes Method (Word)
 keywords: vbawd10.chm37748755
 f1_keywords:
 - vbawd10.chm37748755
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.SelectNodes
 ms.assetid: a72d1693-a5da-bf97-179f-4fba2412c4ae

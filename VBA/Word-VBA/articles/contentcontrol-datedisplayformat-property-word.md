@@ -3,7 +3,7 @@ title: ContentControl.DateDisplayFormat Property (Word)
 keywords: vbawd10.chm266534925
 f1_keywords:
 - vbawd10.chm266534925
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.DateDisplayFormat
 ms.assetid: 11b2f24e-22d6-177c-4e2a-10c5ebefc477

@@ -3,7 +3,7 @@ title: Shapes.AddCallout Method (Word)
 keywords: vbawd10.chm161415178
 f1_keywords:
 - vbawd10.chm161415178
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddCallout
 ms.assetid: 5745edcc-5010-8df8-5311-9179461e01fe

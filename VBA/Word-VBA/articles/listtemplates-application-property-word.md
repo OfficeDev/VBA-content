@@ -3,7 +3,7 @@ title: ListTemplates.Application Property (Word)
 keywords: vbawd10.chm160433128
 f1_keywords:
 - vbawd10.chm160433128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplates.Application
 ms.assetid: 0239a40d-cf89-4069-cc8a-69858b62c2ac

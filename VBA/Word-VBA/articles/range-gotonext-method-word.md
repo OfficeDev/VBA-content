@@ -3,7 +3,7 @@ title: Range.GoToNext Method (Word)
 keywords: vbawd10.chm157155502
 f1_keywords:
 - vbawd10.chm157155502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.GoToNext
 ms.assetid: 011de2d6-c0fc-608f-8d7e-faac5947978d

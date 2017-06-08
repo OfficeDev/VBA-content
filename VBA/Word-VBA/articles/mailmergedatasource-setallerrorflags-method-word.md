@@ -3,7 +3,7 @@ title: MailMergeDataSource.SetAllErrorFlags Method (Word)
 keywords: vbawd10.chm152895592
 f1_keywords:
 - vbawd10.chm152895592
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 9419781e-ca05-dac7-d11f-91e002a6cb84

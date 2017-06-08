@@ -3,7 +3,7 @@ title: Selection.InStory Method (Word)
 keywords: vbawd10.chm158662781
 f1_keywords:
 - vbawd10.chm158662781
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InStory
 ms.assetid: 29dae109-4361-f1ee-eb71-76f57ae186a3

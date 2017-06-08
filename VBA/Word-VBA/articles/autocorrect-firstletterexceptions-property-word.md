@@ -3,7 +3,7 @@ title: AutoCorrect.FirstLetterExceptions Property (Word)
 keywords: vbawd10.chm155779079
 f1_keywords:
 - vbawd10.chm155779079
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.FirstLetterExceptions
 ms.assetid: 393a7a13-90eb-ce63-f82a-d1b0a9ae2339

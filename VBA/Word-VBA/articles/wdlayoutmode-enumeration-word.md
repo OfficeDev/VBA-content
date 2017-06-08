@@ -1,6 +1,6 @@
 ---
 title: WdLayoutMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLayoutMode
 ms.assetid: bdcb65a5-c198-c515-d6a6-25e43e46b70f

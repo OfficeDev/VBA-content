@@ -3,7 +3,7 @@ title: Shape.LeftRelative Property (Word)
 keywords: vbawd10.chm161480904
 f1_keywords:
 - vbawd10.chm161480904
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.LeftRelative
 ms.assetid: a4fd7e18-9e04-8ea9-58d1-e2e816079ac3

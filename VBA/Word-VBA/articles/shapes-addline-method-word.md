@@ -3,7 +3,7 @@ title: Shapes.AddLine Method (Word)
 keywords: vbawd10.chm161415182
 f1_keywords:
 - vbawd10.chm161415182
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.AddLine
 ms.assetid: d1c609c3-d5d1-80e8-4f95-184a9a536feb

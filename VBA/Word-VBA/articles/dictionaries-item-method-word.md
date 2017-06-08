@@ -3,7 +3,7 @@ title: Dictionaries.Item Method (Word)
 keywords: vbawd10.chm162267136
 f1_keywords:
 - vbawd10.chm162267136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionaries.Item
 ms.assetid: d2ec9bae-a06c-7d88-343f-e3fe904630c5

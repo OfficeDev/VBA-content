@@ -3,7 +3,7 @@ title: Application.LinesToPoints Method (Word)
 keywords: vbawd10.chm158335350
 f1_keywords:
 - vbawd10.chm158335350
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.LinesToPoints
 ms.assetid: f146db0f-35f6-d25d-2674-e35a7c08801b

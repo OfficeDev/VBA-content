@@ -3,7 +3,7 @@ title: Paragraph Object (Word)
 keywords: vbawd10.chm2391
 f1_keywords:
 - vbawd10.chm2391
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph
 ms.assetid: 0a704079-a082-4ab1-841b-fc0d49dd26d4

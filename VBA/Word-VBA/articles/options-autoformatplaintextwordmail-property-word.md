@@ -3,7 +3,7 @@ title: Options.AutoFormatPlainTextWordMail Property (Word)
 keywords: vbawd10.chm162988303
 f1_keywords:
 - vbawd10.chm162988303
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatPlainTextWordMail
 ms.assetid: 87b5f068-772c-e37d-9370-377849138d07

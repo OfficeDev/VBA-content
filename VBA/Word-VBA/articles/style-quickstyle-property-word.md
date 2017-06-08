@@ -3,7 +3,7 @@ title: Style.QuickStyle Property (Word)
 keywords: vbawd10.chm153878553
 f1_keywords:
 - vbawd10.chm153878553
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.QuickStyle
 ms.assetid: 6942b679-445e-b969-31d3-54051097e7e0

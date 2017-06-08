@@ -3,7 +3,7 @@ title: ParagraphFormat.Duplicate Property (Word)
 keywords: vbawd10.chm156434442
 f1_keywords:
 - vbawd10.chm156434442
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.Duplicate
 ms.assetid: cc5e9633-ea7c-8317-5321-c7bbf1288579

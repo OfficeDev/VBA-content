@@ -3,7 +3,7 @@ title: OMathFunction.Frac Property (Word)
 keywords: vbawd10.chm22151279
 f1_keywords:
 - vbawd10.chm22151279
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Frac
 ms.assetid: ee3c9609-dd9c-9d6a-c104-7ed163f83448

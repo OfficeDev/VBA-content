@@ -3,7 +3,7 @@ title: MailingLabel.Parent Property (Word)
 keywords: vbawd10.chm152503274
 f1_keywords:
 - vbawd10.chm152503274
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.Parent
 ms.assetid: 1c2924ac-8d13-97ba-2eaf-7b546847e372

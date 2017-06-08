@@ -1,6 +1,6 @@
 ---
 title: WdIMEMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdIMEMode
 ms.assetid: c163ecb3-6876-3fa2-10db-a06d6803154b

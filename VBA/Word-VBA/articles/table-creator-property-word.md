@@ -3,7 +3,7 @@ title: Table.Creator Property (Word)
 keywords: vbawd10.chm156304361
 f1_keywords:
 - vbawd10.chm156304361
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Creator
 ms.assetid: 0f6c6ea5-ba19-8c47-edca-db3517149f82

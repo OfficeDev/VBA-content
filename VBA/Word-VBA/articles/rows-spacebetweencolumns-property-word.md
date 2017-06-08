@@ -3,7 +3,7 @@ title: Rows.SpaceBetweenColumns Property (Word)
 keywords: vbawd10.chm155975686
 f1_keywords:
 - vbawd10.chm155975686
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.SpaceBetweenColumns
 ms.assetid: 286e0236-eab3-18d2-926a-d27e2516e62b

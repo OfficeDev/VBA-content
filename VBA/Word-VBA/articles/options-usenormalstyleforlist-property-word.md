@@ -3,7 +3,7 @@ title: Options.UseNormalStyleForList Property (Word)
 keywords: vbawd10.chm162988521
 f1_keywords:
 - vbawd10.chm162988521
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UseNormalStyleForList
 ms.assetid: 715ed2b9-f5de-987d-c9f0-9172bdd5ea5d

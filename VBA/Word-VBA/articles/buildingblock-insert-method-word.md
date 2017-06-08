@@ -3,7 +3,7 @@ title: BuildingBlock.Insert Method (Word)
 keywords: vbawd10.chm203620454
 f1_keywords:
 - vbawd10.chm203620454
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlock.Insert
 ms.assetid: e2f3fd61-624b-fd18-3b5a-2c9f16fa6bd2

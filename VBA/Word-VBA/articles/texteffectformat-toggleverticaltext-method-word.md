@@ -3,7 +3,7 @@ title: TextEffectFormat.ToggleVerticalText Method (Word)
 keywords: vbawd10.chm164560906
 f1_keywords:
 - vbawd10.chm164560906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.ToggleVerticalText
 ms.assetid: 3d6fb851-e6f4-d8fc-a37a-80fb9455ca81

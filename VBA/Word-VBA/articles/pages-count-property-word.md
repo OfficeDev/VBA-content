@@ -3,7 +3,7 @@ title: Pages.Count Property (Word)
 keywords: vbawd10.chm67239938
 f1_keywords:
 - vbawd10.chm67239938
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pages.Count
 ms.assetid: e7acf9c8-a035-16b5-604c-ea77b61b4e3d

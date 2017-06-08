@@ -3,7 +3,7 @@ title: Series.PlotOrder Property (Word)
 keywords: vbawd10.chm123732196
 f1_keywords:
 - vbawd10.chm123732196
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.PlotOrder
 ms.assetid: 8813c546-f5ed-774e-e57f-3adfcb6ac926

@@ -3,7 +3,7 @@ title: Paragraphs.Style Property (Word)
 keywords: vbawd10.chm156762212
 f1_keywords:
 - vbawd10.chm156762212
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Style
 ms.assetid: 28d5c989-6595-51ea-4fa3-8fb7c0e87b79

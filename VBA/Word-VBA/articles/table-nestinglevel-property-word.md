@@ -3,7 +3,7 @@ title: Table.NestingLevel Property (Word)
 keywords: vbawd10.chm156303468
 f1_keywords:
 - vbawd10.chm156303468
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.NestingLevel
 ms.assetid: 419522f9-f102-88ef-5bf8-29f4896de5ae

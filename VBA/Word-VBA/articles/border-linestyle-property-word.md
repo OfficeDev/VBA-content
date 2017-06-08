@@ -3,7 +3,7 @@ title: Border.LineStyle Property (Word)
 keywords: vbawd10.chm154861571
 f1_keywords:
 - vbawd10.chm154861571
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Border.LineStyle
 ms.assetid: 1e95d9b9-1293-753a-efbd-8fc95e9dd8b0

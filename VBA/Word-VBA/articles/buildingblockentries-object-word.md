@@ -3,7 +3,7 @@ title: BuildingBlockEntries Object (Word)
 keywords: vbawd10.chm553
 f1_keywords:
 - vbawd10.chm553
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlockEntries
 ms.assetid: 9c5946e9-947d-7284-ab16-b570bf7f0ff3

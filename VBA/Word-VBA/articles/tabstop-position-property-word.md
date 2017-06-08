@@ -3,7 +3,7 @@ title: TabStop.Position Property (Word)
 keywords: vbawd10.chm156500070
 f1_keywords:
 - vbawd10.chm156500070
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStop.Position
 ms.assetid: f44ce39b-34e6-992b-fe50-be53bd6f53bf

@@ -3,7 +3,7 @@ title: Selection.SelectCurrentTabs Method (Word)
 keywords: vbawd10.chm158663177
 f1_keywords:
 - vbawd10.chm158663177
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentTabs
 ms.assetid: 38b0ba64-eedc-9ef5-5622-5499b50bbd3e

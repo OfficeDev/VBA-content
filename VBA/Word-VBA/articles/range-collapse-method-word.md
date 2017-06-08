@@ -3,7 +3,7 @@ title: Range.Collapse Method (Word)
 keywords: vbawd10.chm157155429
 f1_keywords:
 - vbawd10.chm157155429
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Collapse
 ms.assetid: fa5cae70-f047-e300-52f7-bd75d9c613da

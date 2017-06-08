@@ -3,7 +3,7 @@ title: StyleSheets.Application Property (Word)
 keywords: vbawd10.chm209585128
 f1_keywords:
 - vbawd10.chm209585128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheets.Application
 ms.assetid: a5f6d89d-a3b5-c772-f30d-4a1d593a1b6b

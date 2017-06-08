@@ -3,7 +3,7 @@ title: Selection.PasteSpecial Method (Word)
 keywords: vbawd10.chm158662832
 f1_keywords:
 - vbawd10.chm158662832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PasteSpecial
 ms.assetid: 186ddf42-f8ab-e334-ccfe-245b2cc82224

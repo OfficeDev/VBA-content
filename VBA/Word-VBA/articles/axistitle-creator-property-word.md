@@ -3,7 +3,7 @@ title: AxisTitle.Creator Property (Word)
 keywords: vbawd10.chm98238613
 f1_keywords:
 - vbawd10.chm98238613
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Creator
 ms.assetid: 681851d1-b045-85a1-e4bc-9fface4d4b00

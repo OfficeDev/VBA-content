@@ -3,7 +3,7 @@ title: InlineShapes.Count Property (Word)
 keywords: vbawd10.chm162070529
 f1_keywords:
 - vbawd10.chm162070529
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShapes.Count
 ms.assetid: ad69bf4a-cf83-bf67-3ce6-de69a01a91bf

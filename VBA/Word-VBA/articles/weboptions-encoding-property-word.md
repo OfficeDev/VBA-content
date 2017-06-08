@@ -3,7 +3,7 @@ title: WebOptions.Encoding Property (Word)
 keywords: vbawd10.chm165937162
 f1_keywords:
 - vbawd10.chm165937162
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.Encoding
 ms.assetid: 4156a3cc-744f-5a62-5961-a26e0e155567

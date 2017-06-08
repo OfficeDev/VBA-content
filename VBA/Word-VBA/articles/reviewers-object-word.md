@@ -3,7 +3,7 @@ title: Reviewers Object (Word)
 keywords: vbawd10.chm3226
 f1_keywords:
 - vbawd10.chm3226
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewers
 ms.assetid: ae1bec96-e6dc-39f0-421a-dfeeb95c9049

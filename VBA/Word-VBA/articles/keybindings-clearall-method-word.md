@@ -3,7 +3,7 @@ title: KeyBindings.ClearAll Method (Word)
 keywords: vbawd10.chm160825446
 f1_keywords:
 - vbawd10.chm160825446
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBindings.ClearAll
 ms.assetid: d03f9e7e-12e6-940b-d0f4-7d83e098eb05

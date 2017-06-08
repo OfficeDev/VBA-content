@@ -3,7 +3,7 @@ title: Application.PrintOut Method (Word)
 keywords: vbawd10.chm158335424
 f1_keywords:
 - vbawd10.chm158335424
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PrintOut
 ms.assetid: f795218e-cd49-f3ac-c03d-9a9424361392

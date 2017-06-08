@@ -3,7 +3,7 @@ title: ShapeRange.IncrementRotation Method (Word)
 keywords: vbawd10.chm162856977
 f1_keywords:
 - vbawd10.chm162856977
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.IncrementRotation
 ms.assetid: bf77da5d-7043-fa09-1b78-410d2514cde1

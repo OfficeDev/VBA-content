@@ -3,7 +3,7 @@ title: MailMergeDataSource.Parent Property (Word)
 keywords: vbawd10.chm152896490
 f1_keywords:
 - vbawd10.chm152896490
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.Parent
 ms.assetid: a7024e80-31aa-311e-e937-82749d937cd9

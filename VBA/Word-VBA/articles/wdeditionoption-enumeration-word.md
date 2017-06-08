@@ -1,6 +1,6 @@
 ---
 title: WdEditionOption Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdEditionOption
 ms.assetid: 42cf4187-3534-a1c1-e715-990fff5ec292

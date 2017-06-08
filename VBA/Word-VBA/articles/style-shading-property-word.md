@@ -3,7 +3,7 @@ title: Style.Shading Property (Word)
 keywords: vbawd10.chm153878535
 f1_keywords:
 - vbawd10.chm153878535
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Shading
 ms.assetid: 7d0b4372-ad16-12d1-f0b9-1f610b1e57d8

@@ -3,7 +3,7 @@ title: Rows.Item Method (Word)
 keywords: vbawd10.chm155975680
 f1_keywords:
 - vbawd10.chm155975680
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.Item
 ms.assetid: 6dbbaf17-c5c4-8dbc-765b-babb0c7ba8ed

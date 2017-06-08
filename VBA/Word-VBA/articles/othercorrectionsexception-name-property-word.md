@@ -3,7 +3,7 @@ title: OtherCorrectionsException.Name Property (Word)
 keywords: vbawd10.chm165740546
 f1_keywords:
 - vbawd10.chm165740546
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OtherCorrectionsException.Name
 ms.assetid: 2f342cf8-0cde-fee7-e19b-6068ee2a5cac

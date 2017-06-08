@@ -3,7 +3,7 @@ title: DropLines.Creator Property (Word)
 keywords: vbawd10.chm104988821
 f1_keywords:
 - vbawd10.chm104988821
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropLines.Creator
 ms.assetid: 1c8081db-916f-0291-b3a2-f163b664da68

@@ -3,7 +3,7 @@ title: OMathEqArray.Align Property (Word)
 keywords: vbawd10.chm174129258
 f1_keywords:
 - vbawd10.chm174129258
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathEqArray.Align
 ms.assetid: 19c9cc0a-b076-41e3-6acf-70199bbdea8a

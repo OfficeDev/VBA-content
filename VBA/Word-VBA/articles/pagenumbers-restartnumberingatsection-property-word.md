@@ -3,7 +3,7 @@ title: PageNumbers.RestartNumberingAtSection Property (Word)
 keywords: vbawd10.chm159776774
 f1_keywords:
 - vbawd10.chm159776774
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.RestartNumberingAtSection
 ms.assetid: b960fc7d-78f7-ec23-d429-7ee9820e8340

@@ -3,7 +3,7 @@ title: Point.Width Property (Word)
 keywords: vbawd10.chm262146653
 f1_keywords:
 - vbawd10.chm262146653
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Width
 ms.assetid: 0fe733c4-ac94-d328-0b50-b1951f20bacf

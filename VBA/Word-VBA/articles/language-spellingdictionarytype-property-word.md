@@ -3,7 +3,7 @@ title: Language.SpellingDictionaryType Property (Word)
 keywords: vbawd10.chm158138387
 f1_keywords:
 - vbawd10.chm158138387
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.SpellingDictionaryType
 ms.assetid: 4bde19be-a568-7145-f094-d483dc997020

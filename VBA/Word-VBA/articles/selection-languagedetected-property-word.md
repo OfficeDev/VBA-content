@@ -3,7 +3,7 @@ title: Selection.LanguageDetected Property (Word)
 keywords: vbawd10.chm158663663
 f1_keywords:
 - vbawd10.chm158663663
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.LanguageDetected
 ms.assetid: 289e6a01-1945-a17f-f6a0-e472cfa263eb

@@ -3,7 +3,7 @@ title: Selection.ReadingModeShrinkFont Method (Word)
 keywords: vbawd10.chm158663694
 f1_keywords:
 - vbawd10.chm158663694
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.ReadingModeShrinkFont
 ms.assetid: 58472c33-7f8e-dc3b-04d8-7b50ca911ed4

@@ -3,7 +3,7 @@ title: MailMessage.Parent Property (Word)
 keywords: vbawd10.chm163185642
 f1_keywords:
 - vbawd10.chm163185642
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.Parent
 ms.assetid: abfa1de2-dd9e-3a51-87c8-5d7ad9552add

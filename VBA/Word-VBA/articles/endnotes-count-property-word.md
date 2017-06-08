@@ -3,7 +3,7 @@ title: Endnotes.Count Property (Word)
 keywords: vbawd10.chm155254786
 f1_keywords:
 - vbawd10.chm155254786
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.Count
 ms.assetid: 489bf700-45c1-f6a3-9842-3b22933be1c0

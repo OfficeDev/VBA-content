@@ -3,7 +3,7 @@ title: Range.LookupNameProperties Method (Word)
 keywords: vbawd10.chm157155505
 f1_keywords:
 - vbawd10.chm157155505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.LookupNameProperties
 ms.assetid: a3a0facf-898a-d8c9-033a-b48416b53266

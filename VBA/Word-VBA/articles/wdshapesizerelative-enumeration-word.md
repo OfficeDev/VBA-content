@@ -1,6 +1,6 @@
 ---
 title: WdShapeSizeRelative Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdShapeSizeRelative
 ms.assetid: a341aab8-370c-6d29-d640-f8c029a017f1

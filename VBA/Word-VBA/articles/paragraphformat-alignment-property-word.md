@@ -3,7 +3,7 @@ title: ParagraphFormat.Alignment Property (Word)
 keywords: vbawd10.chm156434533
 f1_keywords:
 - vbawd10.chm156434533
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.Alignment
 ms.assetid: 637e83e0-813e-1a8d-18f2-6a8d41dc47af

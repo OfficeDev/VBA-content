@@ -3,7 +3,7 @@ title: Options.ButtonFieldClicks Property (Word)
 keywords: vbawd10.chm162988059
 f1_keywords:
 - vbawd10.chm162988059
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ButtonFieldClicks
 ms.assetid: 64bb9624-b60d-3999-adf4-9795f18167cd

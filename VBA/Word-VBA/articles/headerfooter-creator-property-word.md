@@ -1,6 +1,6 @@
 ---
 title: HeaderFooter.Creator Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter.Creator
 ms.assetid: 73f87192-f442-58ff-9ec0-ac743a6aec3a

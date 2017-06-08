@@ -3,7 +3,7 @@ title: Cell.Application Property (Word)
 keywords: vbawd10.chm156107752
 f1_keywords:
 - vbawd10.chm156107752
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Application
 ms.assetid: ccce55d3-b2ec-bd03-f1f5-46df97b5a07d

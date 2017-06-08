@@ -1,6 +1,6 @@
 ---
 title: WdStyleSheetLinkType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdStyleSheetLinkType
 ms.assetid: d2dca2c8-73a1-8281-c5b2-7734f0cdf515

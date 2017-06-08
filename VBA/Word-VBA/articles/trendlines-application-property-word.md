@@ -3,7 +3,7 @@ title: Trendlines.Application Property (Word)
 keywords: vbawd10.chm102367380
 f1_keywords:
 - vbawd10.chm102367380
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendlines.Application
 ms.assetid: 8938f7a2-953a-b51b-b510-47db92293e6a

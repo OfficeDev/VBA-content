@@ -3,7 +3,7 @@ title: Document.SnapToShapes Property (Word)
 keywords: vbawd10.chm158007597
 f1_keywords:
 - vbawd10.chm158007597
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SnapToShapes
 ms.assetid: b74e7a58-deee-aed2-8956-3911dd54d9ba

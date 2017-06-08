@@ -3,7 +3,7 @@ title: Shape.Child Property (Word)
 keywords: vbawd10.chm161480840
 f1_keywords:
 - vbawd10.chm161480840
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Child
 ms.assetid: 86102bd1-3df1-384e-589b-c37ba07b4afe

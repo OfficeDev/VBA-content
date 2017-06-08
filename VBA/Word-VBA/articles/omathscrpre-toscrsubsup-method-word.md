@@ -3,7 +3,7 @@ title: OMathScrPre.ToScrSubSup Method (Word)
 keywords: vbawd10.chm202244297
 f1_keywords:
 - vbawd10.chm202244297
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrPre.ToScrSubSup
 ms.assetid: 816a95cb-d4c0-0248-2637-c6c2f434ab00

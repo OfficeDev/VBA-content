@@ -3,7 +3,7 @@ title: ConditionalStyle.Parent Property (Word)
 keywords: vbawd10.chm91029604
 f1_keywords:
 - vbawd10.chm91029604
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ConditionalStyle.Parent
 ms.assetid: 53ed5c9c-1c42-0e74-d423-fcd02c99cafe

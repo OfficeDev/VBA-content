@@ -3,7 +3,7 @@ title: Font.Hidden Property (Word)
 keywords: vbawd10.chm156369028
 f1_keywords:
 - vbawd10.chm156369028
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Hidden
 ms.assetid: a857f5e5-cda6-9402-dc82-6ed3bd93e2c4

@@ -3,7 +3,7 @@ title: Options.DefaultHighlightColorIndex Property (Word)
 keywords: vbawd10.chm162988306
 f1_keywords:
 - vbawd10.chm162988306
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultHighlightColorIndex
 ms.assetid: 1171cc44-54c9-0a39-c90f-ebdebebdde26

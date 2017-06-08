@@ -1,6 +1,6 @@
 ---
 title: Chart.DataTable Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.DataTable
 ms.assetid: 1cae3588-5bc4-5ec4-c3f3-cc642d0755a6

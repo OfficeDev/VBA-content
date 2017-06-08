@@ -3,7 +3,7 @@ title: ShadowFormat.ForeColor Property (Word)
 keywords: vbawd10.chm164364388
 f1_keywords:
 - vbawd10.chm164364388
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShadowFormat.ForeColor
 ms.assetid: 9cba0df7-ea22-f162-4dfe-5db1db37e9a9

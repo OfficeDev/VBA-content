@@ -3,7 +3,7 @@ title: GlowFormat Object (Word)
 keywords: vbawd10.chm3904
 f1_keywords:
 - vbawd10.chm3904
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GlowFormat
 ms.assetid: d177e399-cafc-132f-b135-b8b578e76889

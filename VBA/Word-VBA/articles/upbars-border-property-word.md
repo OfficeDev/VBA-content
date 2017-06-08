@@ -3,7 +3,7 @@ title: UpBars.Border Property (Word)
 keywords: vbawd10.chm180945024
 f1_keywords:
 - vbawd10.chm180945024
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Border
 ms.assetid: ec65c1c5-110f-2497-e049-acb01d224742

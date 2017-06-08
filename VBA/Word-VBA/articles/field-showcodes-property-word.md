@@ -3,7 +3,7 @@ title: Field.ShowCodes Property (Word)
 keywords: vbawd10.chm154075145
 f1_keywords:
 - vbawd10.chm154075145
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.ShowCodes
 ms.assetid: 36871ffb-b307-c36e-5896-74fba6feb524

@@ -3,7 +3,7 @@ title: Selection.MoveStartWhile Method (Word)
 keywords: vbawd10.chm158662769
 f1_keywords:
 - vbawd10.chm158662769
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveStartWhile
 ms.assetid: b6e33ffc-a07f-2ef9-0e35-55aaf256f098

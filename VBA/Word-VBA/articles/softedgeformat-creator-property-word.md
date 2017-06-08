@@ -3,7 +3,7 @@ title: SoftEdgeFormat.Creator Property (Word)
 keywords: vbawd10.chm184091625
 f1_keywords:
 - vbawd10.chm184091625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SoftEdgeFormat.Creator
 ms.assetid: 713460ee-bb2f-b923-92a8-f1a4144ed4ac

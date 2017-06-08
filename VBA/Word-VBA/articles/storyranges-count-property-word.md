@@ -3,7 +3,7 @@ title: StoryRanges.Count Property (Word)
 keywords: vbawd10.chm160169986
 f1_keywords:
 - vbawd10.chm160169986
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StoryRanges.Count
 ms.assetid: 0e1f61e1-fd64-ce0a-5a56-0c8f55208a5a

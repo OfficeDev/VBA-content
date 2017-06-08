@@ -3,7 +3,7 @@ title: ShapeRange.Anchor Property (Word)
 keywords: vbawd10.chm162857264
 f1_keywords:
 - vbawd10.chm162857264
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Anchor
 ms.assetid: ee0b66e6-7385-bf61-79a3-14d874324f58

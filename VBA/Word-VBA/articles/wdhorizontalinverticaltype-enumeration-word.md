@@ -1,6 +1,6 @@
 ---
 title: WdHorizontalInVerticalType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdHorizontalInVerticalType
 ms.assetid: 10efc75b-c1de-196f-6560-81e42a21386b

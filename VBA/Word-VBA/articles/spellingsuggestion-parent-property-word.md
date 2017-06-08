@@ -3,7 +3,7 @@ title: SpellingSuggestion.Parent Property (Word)
 keywords: vbawd10.chm162202602
 f1_keywords:
 - vbawd10.chm162202602
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SpellingSuggestion.Parent
 ms.assetid: e46181a4-f41f-8c7b-70e5-7aca5ecbd818

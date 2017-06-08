@@ -3,7 +3,7 @@ title: Application.DDEInitiate Method (Word)
 keywords: vbawd10.chm158335287
 f1_keywords:
 - vbawd10.chm158335287
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DDEInitiate
 ms.assetid: b9f7e0d9-e31f-370d-dec1-52721a4b712f

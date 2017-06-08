@@ -3,7 +3,7 @@ title: Index.HeadingSeparator Property (Word)
 keywords: vbawd10.chm159186945
 f1_keywords:
 - vbawd10.chm159186945
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Index.HeadingSeparator
 ms.assetid: fa517204-b376-b25d-fbb2-8f1b5ef79e5c

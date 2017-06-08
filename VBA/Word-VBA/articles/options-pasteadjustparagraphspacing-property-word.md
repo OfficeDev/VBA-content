@@ -3,7 +3,7 @@ title: Options.PasteAdjustParagraphSpacing Property (Word)
 keywords: vbawd10.chm162988462
 f1_keywords:
 - vbawd10.chm162988462
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PasteAdjustParagraphSpacing
 ms.assetid: 0aab4ca9-f453-fdb4-8d2e-f37d1d1dde09

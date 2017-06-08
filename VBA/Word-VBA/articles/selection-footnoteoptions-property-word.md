@@ -3,7 +3,7 @@ title: Selection.FootnoteOptions Property (Word)
 keywords: vbawd10.chm158663680
 f1_keywords:
 - vbawd10.chm158663680
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.FootnoteOptions
 ms.assetid: 064bb3c1-cbaa-9d8f-5b97-a4337b0cfeae

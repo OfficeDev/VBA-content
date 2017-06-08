@@ -3,7 +3,7 @@ title: ChartCharacters.Count Property (Word)
 keywords: vbawd10.chm250740854
 f1_keywords:
 - vbawd10.chm250740854
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartCharacters.Count
 ms.assetid: 8ee2abf3-4d80-a235-8fbc-a011842da718

@@ -3,7 +3,7 @@ title: OMath.ParentCol Property (Word)
 keywords: vbawd10.chm176357485
 f1_keywords:
 - vbawd10.chm176357485
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.ParentCol
 ms.assetid: b0fd2bd8-b31a-cdb4-f1c8-c3c7230c9744

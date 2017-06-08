@@ -3,7 +3,7 @@ title: CoAuthUpdates.Item Method (Word)
 keywords: vbawd10.chm217841664
 f1_keywords:
 - vbawd10.chm217841664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthUpdates.Item
 ms.assetid: ca5bfbe3-a116-a1f4-2c6b-bd383f4b5a3a

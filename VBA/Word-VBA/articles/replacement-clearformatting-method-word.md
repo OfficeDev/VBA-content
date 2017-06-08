@@ -3,7 +3,7 @@ title: Replacement.ClearFormatting Method (Word)
 keywords: vbawd10.chm162594836
 f1_keywords:
 - vbawd10.chm162594836
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.ClearFormatting
 ms.assetid: 3229f741-91f0-1175-5652-96047547d811

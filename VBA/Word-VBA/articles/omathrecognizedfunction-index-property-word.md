@@ -3,7 +3,7 @@ title: OMathRecognizedFunction.Index Property (Word)
 keywords: vbawd10.chm227737703
 f1_keywords:
 - vbawd10.chm227737703
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRecognizedFunction.Index
 ms.assetid: ed180e99-8ac2-4056-ee66-057341bc6978

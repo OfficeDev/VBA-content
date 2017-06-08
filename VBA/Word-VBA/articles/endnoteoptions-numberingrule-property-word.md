@@ -3,7 +3,7 @@ title: EndnoteOptions.NumberingRule Property (Word)
 keywords: vbawd10.chm23593063
 f1_keywords:
 - vbawd10.chm23593063
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EndnoteOptions.NumberingRule
 ms.assetid: c2690da3-703b-4f9f-cdfb-7ec4e7559b54

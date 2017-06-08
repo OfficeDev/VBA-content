@@ -3,7 +3,7 @@ title: OMathMatRows.Item Method (Word)
 keywords: vbawd10.chm55050240
 f1_keywords:
 - vbawd10.chm55050240
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatRows.Item
 ms.assetid: d16514e4-4d74-de53-3a2b-6b2748ff22ff

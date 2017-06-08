@@ -3,7 +3,7 @@ title: Cell.Next Property (Word)
 keywords: vbawd10.chm156106855
 f1_keywords:
 - vbawd10.chm156106855
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Next
 ms.assetid: b4171c7c-6703-9cdf-a964-09e32874fbb6

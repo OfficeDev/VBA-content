@@ -3,7 +3,7 @@ title: DownBars.Name Property (Word)
 keywords: vbawd10.chm107151470
 f1_keywords:
 - vbawd10.chm107151470
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Name
 ms.assetid: 870f43cf-81ac-c1ae-6006-a07e62163d7f

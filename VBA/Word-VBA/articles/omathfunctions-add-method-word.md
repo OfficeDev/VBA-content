@@ -3,7 +3,7 @@ title: OMathFunctions.Add Method (Word)
 keywords: vbawd10.chm44302440
 f1_keywords:
 - vbawd10.chm44302440
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunctions.Add
 ms.assetid: 2292e297-6d24-cd73-971b-146be1edcb0a

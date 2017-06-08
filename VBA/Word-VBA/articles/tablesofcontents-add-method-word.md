@@ -3,7 +3,7 @@ title: TablesOfContents.Add Method (Word)
 keywords: vbawd10.chm152305767
 f1_keywords:
 - vbawd10.chm152305767
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Add
 ms.assetid: a5954a99-ee43-3b8d-4d81-d12f889021b4

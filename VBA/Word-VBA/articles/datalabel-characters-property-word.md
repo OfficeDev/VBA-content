@@ -3,7 +3,7 @@ title: DataLabel.Characters Property (Word)
 keywords: vbawd10.chm233898587
 f1_keywords:
 - vbawd10.chm233898587
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Characters
 ms.assetid: 9e880613-ca12-4a8e-24b9-4e0142445140

@@ -3,7 +3,7 @@ title: Application.ShowClipboard Method (Word)
 keywords: vbawd10.chm158335325
 f1_keywords:
 - vbawd10.chm158335325
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ShowClipboard
 ms.assetid: 93696be3-3fd5-eb31-391c-d94e83d39d2b

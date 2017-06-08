@@ -3,7 +3,7 @@ title: EndnoteOptions.NumberStyle Property (Word)
 keywords: vbawd10.chm23593061
 f1_keywords:
 - vbawd10.chm23593061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EndnoteOptions.NumberStyle
 ms.assetid: 732a8185-92c3-5054-fb9d-3c4bad62f5a1

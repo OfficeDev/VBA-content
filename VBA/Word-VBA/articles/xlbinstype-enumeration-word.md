@@ -1,7 +1,7 @@
 ---
 title: XlBinsType Enumeration (Word)
 ms.assetid: 945e729b-f0a0-fc0f-d198-c85aab081d7e
-ms.prod: WORD
+ms.prod: word
 ms.date: 06/08/2017
 ---
 

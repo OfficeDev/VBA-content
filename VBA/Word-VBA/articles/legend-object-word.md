@@ -3,7 +3,7 @@ title: Legend Object (Word)
 keywords: vbawd10.chm2246
 f1_keywords:
 - vbawd10.chm2246
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend
 ms.assetid: f0122074-87b7-0225-3c6c-406103fa4c29

@@ -3,7 +3,7 @@ title: PageNumbers.Parent Property (Word)
 keywords: vbawd10.chm159777770
 f1_keywords:
 - vbawd10.chm159777770
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.Parent
 ms.assetid: d257b21e-55a5-0c6c-e64e-581b3f8b0fe3

@@ -3,7 +3,7 @@ title: Document.SaveFormat Property (Word)
 keywords: vbawd10.chm158007355
 f1_keywords:
 - vbawd10.chm158007355
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SaveFormat
 ms.assetid: f8d31365-1935-307f-3663-d6e769944489

@@ -3,7 +3,7 @@ title: ThreeDFormat.RotationZ Property (Word)
 keywords: vbawd10.chm164626553
 f1_keywords:
 - vbawd10.chm164626553
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.RotationZ
 ms.assetid: f64d0efa-a109-2d63-73ca-43468399a4fe

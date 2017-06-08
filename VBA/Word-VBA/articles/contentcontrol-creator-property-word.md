@@ -3,7 +3,7 @@ title: ContentControl.Creator Property (Word)
 keywords: vbawd10.chm266535913
 f1_keywords:
 - vbawd10.chm266535913
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Creator
 ms.assetid: 395fa7f4-541f-8b89-5712-f05637b77a52

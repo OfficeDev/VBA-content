@@ -3,7 +3,7 @@ title: Find.Found Property (Word)
 keywords: vbawd10.chm162529292
 f1_keywords:
 - vbawd10.chm162529292
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.Found
 ms.assetid: c9a5d7ef-9df8-1439-248a-696c29fb01da

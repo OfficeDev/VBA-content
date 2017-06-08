@@ -3,7 +3,7 @@ title: System.MathCoprocessorInstalled Property (Word)
 keywords: vbawd10.chm154468363
 f1_keywords:
 - vbawd10.chm154468363
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.MathCoprocessorInstalled
 ms.assetid: 77f7da63-b940-ac22-125e-596a1518b6b8

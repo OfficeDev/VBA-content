@@ -3,7 +3,7 @@ title: Application.Path Property (Word)
 keywords: vbawd10.chm158335057
 f1_keywords:
 - vbawd10.chm158335057
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Path
 ms.assetid: 224b4c66-f49c-55f1-8b6b-74f5ed979a3d

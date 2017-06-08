@@ -3,7 +3,7 @@ title: Reviewer.Parent Property (Word)
 keywords: vbawd10.chm78513130
 f1_keywords:
 - vbawd10.chm78513130
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Reviewer.Parent
 ms.assetid: c3e408cd-8377-8605-c5e8-0762f6ab0387

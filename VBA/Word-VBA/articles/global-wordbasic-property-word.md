@@ -3,7 +3,7 @@ title: Global.WordBasic Property (Word)
 keywords: vbawd10.chm163119110
 f1_keywords:
 - vbawd10.chm163119110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.WordBasic
 ms.assetid: be6209eb-d06c-3399-23b2-31b62642fe83

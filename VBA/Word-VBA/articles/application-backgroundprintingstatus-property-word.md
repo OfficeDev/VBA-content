@@ -3,7 +3,7 @@ title: Application.BackgroundPrintingStatus Property (Word)
 keywords: vbawd10.chm158335062
 f1_keywords:
 - vbawd10.chm158335062
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.BackgroundPrintingStatus
 ms.assetid: 74fabdd0-55d8-63c6-4608-36af8138b3c1

@@ -3,7 +3,7 @@ title: AutoCorrectEntry.Apply Method (Word)
 keywords: vbawd10.chm155648102
 f1_keywords:
 - vbawd10.chm155648102
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrectEntry.Apply
 ms.assetid: 9427d4a3-e955-7fc6-eec2-d4580e95b13f

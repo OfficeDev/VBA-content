@@ -3,7 +3,7 @@ title: Application.DocumentOpen Event (Word)
 keywords: vbawd10.chm400004
 f1_keywords:
 - vbawd10.chm400004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DocumentOpen
 ms.assetid: 21fdd3cd-8769-899e-5749-f64c0e15b265

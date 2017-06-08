@@ -3,7 +3,7 @@ title: Envelope.DefaultFaceUp Property (Word)
 keywords: vbawd10.chm152567828
 f1_keywords:
 - vbawd10.chm152567828
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.DefaultFaceUp
 ms.assetid: ce745551-4385-420d-1790-464bf03da3d9

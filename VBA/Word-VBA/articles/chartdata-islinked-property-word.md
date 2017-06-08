@@ -3,7 +3,7 @@ title: ChartData.IsLinked Property (Word)
 keywords: vbawd10.chm190382082
 f1_keywords:
 - vbawd10.chm190382082
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartData.IsLinked
 ms.assetid: d22ba8ec-2e6e-aa46-6e4f-a370a01d0835

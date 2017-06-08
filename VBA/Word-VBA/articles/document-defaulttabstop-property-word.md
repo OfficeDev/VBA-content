@@ -3,7 +3,7 @@ title: Document.DefaultTabStop Property (Word)
 keywords: vbawd10.chm158007344
 f1_keywords:
 - vbawd10.chm158007344
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DefaultTabStop
 ms.assetid: 55c7a9e4-0a25-cd32-36b0-fc9431b1d110

@@ -1,6 +1,6 @@
 ---
 title: WdEditionType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdEditionType
 ms.assetid: aef61201-3d5b-babe-7de8-156d968542d5

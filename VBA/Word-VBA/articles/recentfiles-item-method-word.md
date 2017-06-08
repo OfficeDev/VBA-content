@@ -3,7 +3,7 @@ title: RecentFiles.Item Method (Word)
 keywords: vbawd10.chm157483008
 f1_keywords:
 - vbawd10.chm157483008
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.RecentFiles.Item
 ms.assetid: 8dc29b17-2a54-a8eb-2c24-07e16bac9de5

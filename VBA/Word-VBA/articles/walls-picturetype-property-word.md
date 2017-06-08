@@ -3,7 +3,7 @@ title: Walls.PictureType Property (Word)
 keywords: vbawd10.chm25165985
 f1_keywords:
 - vbawd10.chm25165985
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.PictureType
 ms.assetid: 406d0ee0-1373-bf05-5006-a21b0d47dd43

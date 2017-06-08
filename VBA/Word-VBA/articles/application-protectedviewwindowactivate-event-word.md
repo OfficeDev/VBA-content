@@ -1,6 +1,6 @@
 ---
 title: Application.ProtectedViewWindowActivate Event (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowActivate
 ms.assetid: ae68e1aa-7cec-cd76-ee0e-71a051c5b6e3

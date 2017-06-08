@@ -3,7 +3,7 @@ title: Paragraphs.Shading Property (Word)
 keywords: vbawd10.chm156762228
 f1_keywords:
 - vbawd10.chm156762228
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Shading
 ms.assetid: b732c59d-d861-00d8-fd00-6940449480a1

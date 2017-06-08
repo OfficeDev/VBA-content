@@ -3,7 +3,7 @@ title: PageSetup.BookFoldPrintingSheets Property (Word)
 keywords: vbawd10.chm158401737
 f1_keywords:
 - vbawd10.chm158401737
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.BookFoldPrintingSheets
 ms.assetid: 88431024-42a0-d92e-a62b-eeaedbe0c945

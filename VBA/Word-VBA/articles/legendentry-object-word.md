@@ -3,7 +3,7 @@ title: LegendEntry Object (Word)
 keywords: vbawd10.chm73
 f1_keywords:
 - vbawd10.chm73
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntry
 ms.assetid: 9f793578-cb9b-faa1-f0a1-ea0f9e90dc6f

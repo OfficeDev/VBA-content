@@ -3,7 +3,7 @@ title: Application.DefaultSaveFormat Property (Word)
 keywords: vbawd10.chm158335040
 f1_keywords:
 - vbawd10.chm158335040
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DefaultSaveFormat
 ms.assetid: e15d8cc9-f6da-ccb0-784f-02fe9dc7ee6a

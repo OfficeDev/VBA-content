@@ -3,7 +3,7 @@ title: Windows.SyncScrollingSideBySide Property (Word)
 keywords: vbawd10.chm157352939
 f1_keywords:
 - vbawd10.chm157352939
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SyncScrollingSideBySide
 ms.assetid: d6d84719-fc49-acd4-acfe-154d2b45b74a

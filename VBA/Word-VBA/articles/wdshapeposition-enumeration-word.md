@@ -1,6 +1,6 @@
 ---
 title: WdShapePosition Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdShapePosition
 ms.assetid: 6506f482-1a86-855e-66ef-e81ef9f52bc7

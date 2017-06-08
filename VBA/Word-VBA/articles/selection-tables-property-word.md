@@ -3,7 +3,7 @@ title: Selection.Tables Property (Word)
 keywords: vbawd10.chm158662706
 f1_keywords:
 - vbawd10.chm158662706
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Tables
 ms.assetid: 1639cfda-d347-0227-6a4c-8f269c81230f

@@ -3,7 +3,7 @@ title: Options.TypeNReplace Property (Word)
 keywords: vbawd10.chm162988457
 f1_keywords:
 - vbawd10.chm162988457
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.TypeNReplace
 ms.assetid: 9696b066-edb5-d7ce-8a4e-ad755acdc738

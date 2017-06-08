@@ -3,7 +3,7 @@ title: ShapeNode.Parent Property (Word)
 keywords: vbawd10.chm164429825
 f1_keywords:
 - vbawd10.chm164429825
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNode.Parent
 ms.assetid: 901c0ee1-24fb-9768-2a52-c94a03c28fd1

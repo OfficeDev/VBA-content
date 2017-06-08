@@ -3,7 +3,7 @@ title: Shape.TextEffect Property (Word)
 keywords: vbawd10.chm161480824
 f1_keywords:
 - vbawd10.chm161480824
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.TextEffect
 ms.assetid: ce70ed2a-c448-cb12-db9f-a1f5d5d301e0

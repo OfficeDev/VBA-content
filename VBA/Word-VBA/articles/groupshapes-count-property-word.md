@@ -3,7 +3,7 @@ title: GroupShapes.Count Property (Word)
 keywords: vbawd10.chm162922498
 f1_keywords:
 - vbawd10.chm162922498
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GroupShapes.Count
 ms.assetid: 86b5d8fd-3a6e-39b2-b764-5e67804b238d

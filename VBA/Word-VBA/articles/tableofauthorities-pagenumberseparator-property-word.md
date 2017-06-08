@@ -3,7 +3,7 @@ title: TableOfAuthorities.PageNumberSeparator Property (Word)
 keywords: vbawd10.chm152109066
 f1_keywords:
 - vbawd10.chm152109066
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.PageNumberSeparator
 ms.assetid: dad85c42-e819-1067-552e-e4387f344570

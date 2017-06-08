@@ -3,7 +3,7 @@ title: Footnotes.Convert Method (Word)
 keywords: vbawd10.chm155320325
 f1_keywords:
 - vbawd10.chm155320325
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.Convert
 ms.assetid: 6d703b30-b0a5-bf33-4ae8-c6574cceae99

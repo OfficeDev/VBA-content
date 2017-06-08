@@ -3,7 +3,7 @@ title: Rows.SetLeftIndent Method (Word)
 keywords: vbawd10.chm155975882
 f1_keywords:
 - vbawd10.chm155975882
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.SetLeftIndent
 ms.assetid: 4ce8093a-dcb9-4d2c-e841-176818d991b8

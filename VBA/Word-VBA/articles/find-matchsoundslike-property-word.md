@@ -3,7 +3,7 @@ title: Find.MatchSoundsLike Property (Word)
 keywords: vbawd10.chm162529296
 f1_keywords:
 - vbawd10.chm162529296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchSoundsLike
 ms.assetid: 81c341a7-40a8-7022-78d5-a8ed8ad407b1

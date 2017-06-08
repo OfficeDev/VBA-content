@@ -3,7 +3,7 @@ title: Range.InsertBefore Method (Word)
 keywords: vbawd10.chm157155430
 f1_keywords:
 - vbawd10.chm157155430
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertBefore
 ms.assetid: ac77dcf7-ffcd-b109-8e17-ea6db169e85a

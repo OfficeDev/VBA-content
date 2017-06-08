@@ -3,7 +3,7 @@ title: Application.DefaultTableSeparator Property (Word)
 keywords: vbawd10.chm158335081
 f1_keywords:
 - vbawd10.chm158335081
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DefaultTableSeparator
 ms.assetid: eb393e87-c408-8911-a1e3-8f04e5ce66c6

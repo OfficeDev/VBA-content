@@ -3,7 +3,7 @@ title: Selection.GoToNext Method (Word)
 keywords: vbawd10.chm158662830
 f1_keywords:
 - vbawd10.chm158662830
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.GoToNext
 ms.assetid: af6a4e91-7ec1-929a-7577-4e457f5ce1bd

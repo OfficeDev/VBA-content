@@ -3,7 +3,7 @@ title: ContentControl.DateDisplayLocale Property (Word)
 keywords: vbawd10.chm266534935
 f1_keywords:
 - vbawd10.chm266534935
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.DateDisplayLocale
 ms.assetid: 3b53d3c3-0b78-7d89-c3d2-46c8caf467f3

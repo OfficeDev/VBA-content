@@ -1,6 +1,6 @@
 ---
 title: WdCustomLabelPageSize Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCustomLabelPageSize
 ms.assetid: 3d12994c-6576-1741-b9ba-cce264e538d9

@@ -3,7 +3,7 @@ title: DefaultWebOptions.UpdateLinksOnSave Property (Word)
 keywords: vbawd10.chm165871621
 f1_keywords:
 - vbawd10.chm165871621
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.UpdateLinksOnSave
 ms.assetid: f926c078-ae86-fa73-8201-568e3cba2306

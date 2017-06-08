@@ -3,7 +3,7 @@ title: ParagraphFormat.Parent Property (Word)
 keywords: vbawd10.chm156435434
 f1_keywords:
 - vbawd10.chm156435434
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.Parent
 ms.assetid: fdc51dcf-3d40-9c24-a7de-4d69cc8e98ed

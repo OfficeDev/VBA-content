@@ -3,7 +3,7 @@ title: LinkFormat.SavePictureWithDocument Property (Word)
 keywords: vbawd10.chm154206230
 f1_keywords:
 - vbawd10.chm154206230
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LinkFormat.SavePictureWithDocument
 ms.assetid: 5aacc0de-7a95-1f95-2797-d84a722526a6

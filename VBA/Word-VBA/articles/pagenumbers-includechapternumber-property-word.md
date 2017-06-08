@@ -3,7 +3,7 @@ title: PageNumbers.IncludeChapterNumber Property (Word)
 keywords: vbawd10.chm159776771
 f1_keywords:
 - vbawd10.chm159776771
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.IncludeChapterNumber
 ms.assetid: 0ab2dbb4-4bf3-f878-1fd9-abca20dd790a

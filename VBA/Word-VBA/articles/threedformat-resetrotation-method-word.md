@@ -3,7 +3,7 @@ title: ThreeDFormat.ResetRotation Method (Word)
 keywords: vbawd10.chm164626444
 f1_keywords:
 - vbawd10.chm164626444
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.ResetRotation
 ms.assetid: ab8b1bb6-2d39-2488-5db9-8405f8494014

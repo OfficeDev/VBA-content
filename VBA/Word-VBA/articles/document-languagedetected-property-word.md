@@ -3,7 +3,7 @@ title: Document.LanguageDetected Property (Word)
 keywords: vbawd10.chm158007617
 f1_keywords:
 - vbawd10.chm158007617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.LanguageDetected
 ms.assetid: 18eba980-a599-e6f0-7d73-bee6da0474be

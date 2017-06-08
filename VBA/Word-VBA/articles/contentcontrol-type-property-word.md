@@ -3,7 +3,7 @@ title: ContentControl.Type Property (Word)
 keywords: vbawd10.chm266534917
 f1_keywords:
 - vbawd10.chm266534917
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Type
 ms.assetid: 24f4099d-b4ad-c7be-60a4-e23ede378208

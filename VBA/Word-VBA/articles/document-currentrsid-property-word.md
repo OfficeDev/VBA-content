@@ -3,7 +3,7 @@ title: Document.CurrentRsid Property (Word)
 keywords: vbawd10.chm158007859
 f1_keywords:
 - vbawd10.chm158007859
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CurrentRsid
 ms.assetid: 500a743e-6d1e-e93d-b4d2-20ac13c4651a

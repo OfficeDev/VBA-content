@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeApplyBorders Property (Word)
 keywords: vbawd10.chm165347589
 f1_keywords:
 - vbawd10.chm165347589
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 24e0f74e-b57e-d81c-2e36-c08adb59bf5e

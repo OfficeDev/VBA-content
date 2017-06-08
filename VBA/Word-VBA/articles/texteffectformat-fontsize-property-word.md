@@ -3,7 +3,7 @@ title: TextEffectFormat.FontSize Property (Word)
 keywords: vbawd10.chm164561000
 f1_keywords:
 - vbawd10.chm164561000
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.FontSize
 ms.assetid: 14538296-38d0-0545-0681-e6a7714dcaf4

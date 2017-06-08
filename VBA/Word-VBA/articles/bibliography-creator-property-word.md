@@ -3,7 +3,7 @@ title: Bibliography.Creator Property (Word)
 keywords: vbawd10.chm101646437
 f1_keywords:
 - vbawd10.chm101646437
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bibliography.Creator
 ms.assetid: d836d894-c8f4-d6e6-c1de-e7c0f29aa918

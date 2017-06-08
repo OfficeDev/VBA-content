@@ -3,7 +3,7 @@ title: Range.ParentContentControl Property (Word)
 keywords: vbawd10.chm157155829
 f1_keywords:
 - vbawd10.chm157155829
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ParentContentControl
 ms.assetid: e5805628-bfe0-64a6-78c4-f008098450d1

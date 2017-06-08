@@ -3,7 +3,7 @@ title: DownBars.Application Property (Word)
 keywords: vbawd10.chm107151508
 f1_keywords:
 - vbawd10.chm107151508
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Application
 ms.assetid: 58c4cae5-4869-4a3d-68ee-7ebac98b0fb5

@@ -3,7 +3,7 @@ title: Document.Range Method (Word)
 keywords: vbawd10.chm158009296
 f1_keywords:
 - vbawd10.chm158009296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Range
 ms.assetid: 7dd33ac8-38f6-925d-a511-8677ca6437e6

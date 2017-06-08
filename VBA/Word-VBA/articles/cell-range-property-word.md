@@ -3,7 +3,7 @@ title: Cell.Range Property (Word)
 keywords: vbawd10.chm156106752
 f1_keywords:
 - vbawd10.chm156106752
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Range
 ms.assetid: 579a25ad-91fa-a7c9-7eb8-4307521aeddd

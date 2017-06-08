@@ -3,7 +3,7 @@ title: CanvasShapes.Range Method (Word)
 keywords: vbawd10.chm7536661
 f1_keywords:
 - vbawd10.chm7536661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.Range
 ms.assetid: 4e0e24aa-7510-a002-63d2-e6dbb5bc3398

@@ -3,7 +3,7 @@ title: HangulHanjaConversionDictionaries.Item Method (Word)
 keywords: vbawd10.chm165675008
 f1_keywords:
 - vbawd10.chm165675008
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.Item
 ms.assetid: a1ba9b1e-9034-c8ae-61d8-736d3be87594

@@ -3,7 +3,7 @@ title: OMathEqArray.Application Property (Word)
 keywords: vbawd10.chm174129252
 f1_keywords:
 - vbawd10.chm174129252
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathEqArray.Application
 ms.assetid: 020883c7-b423-c4e6-70aa-aada1b9e5e46

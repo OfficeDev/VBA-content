@@ -1,6 +1,6 @@
 ---
 title: WdOMathBreakBin Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdOMathBreakBin
 ms.assetid: cd578a4e-6c71-3400-0631-f2b555d4b693

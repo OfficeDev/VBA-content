@@ -3,7 +3,7 @@ title: Variables Object (Word)
 keywords: vbawd10.chm2405
 f1_keywords:
 - vbawd10.chm2405
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 9719d0d4-319d-c710-d243-12a9dee45880
 ms.date: 06/08/2017
 ---

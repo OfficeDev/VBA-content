@@ -3,7 +3,7 @@ title: Document.JustificationMode Property (Word)
 keywords: vbawd10.chm158007606
 f1_keywords:
 - vbawd10.chm158007606
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.JustificationMode
 ms.assetid: 17d1a45f-eab7-b9f4-99d7-b5a12c7acc10

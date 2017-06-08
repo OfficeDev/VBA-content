@@ -3,7 +3,7 @@ title: Global.Dialogs Property (Word)
 keywords: vbawd10.chm163119123
 f1_keywords:
 - vbawd10.chm163119123
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Dialogs
 ms.assetid: 7eea3680-b232-c18a-d99a-d7c2a5b29cd4

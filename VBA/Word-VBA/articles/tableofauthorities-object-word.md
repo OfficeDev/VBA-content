@@ -3,7 +3,7 @@ title: TableOfAuthorities Object (Word)
 keywords: vbawd10.chm2321
 f1_keywords:
 - vbawd10.chm2321
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities
 ms.assetid: abd7d600-8b20-0752-4629-8a4f5193dd5d

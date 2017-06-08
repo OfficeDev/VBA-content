@@ -3,7 +3,7 @@ title: HTMLDivisions.Item Method (Word)
 keywords: vbawd10.chm166199296
 f1_keywords:
 - vbawd10.chm166199296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivisions.Item
 ms.assetid: 9eaeb45e-0165-4ca5-5fa7-51057301e27d

@@ -3,7 +3,7 @@ title: Range.SortAscending Method (Word)
 keywords: vbawd10.chm157155497
 f1_keywords:
 - vbawd10.chm157155497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.SortAscending
 ms.assetid: 2e7cd40d-6ddd-c191-c082-1e5c852e80a7

@@ -3,7 +3,7 @@ title: Documents.AddBlogDocument Method (Word)
 keywords: vbawd10.chm158072853
 f1_keywords:
 - vbawd10.chm158072853
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Documents.AddBlogDocument
 ms.assetid: d47b1b27-a5df-1c82-a8eb-6a4a2853f1ac

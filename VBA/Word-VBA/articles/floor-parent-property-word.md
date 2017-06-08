@@ -3,7 +3,7 @@ title: Floor.Parent Property (Word)
 keywords: vbawd10.chm46006422
 f1_keywords:
 - vbawd10.chm46006422
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor.Parent
 ms.assetid: 4132170e-8ed6-eda1-13fb-9ec5fdf29400

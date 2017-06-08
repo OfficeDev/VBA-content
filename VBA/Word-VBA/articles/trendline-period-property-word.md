@@ -3,7 +3,7 @@ title: Trendline.Period Property (Word)
 keywords: vbawd10.chm26345656
 f1_keywords:
 - vbawd10.chm26345656
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.Period
 ms.assetid: 3e9a1a9d-4f88-1ba2-d2c7-ed4d1b6ec514

@@ -3,7 +3,7 @@ title: Application.TaskPanes Property (Word)
 keywords: vbawd10.chm158335433
 f1_keywords:
 - vbawd10.chm158335433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.TaskPanes
 ms.assetid: 0b0add9d-6c76-9dca-e7a5-3f653f5d1581

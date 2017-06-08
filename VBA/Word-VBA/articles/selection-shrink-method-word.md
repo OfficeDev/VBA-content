@@ -3,7 +3,7 @@ title: Selection.Shrink Method (Word)
 keywords: vbawd10.chm158662957
 f1_keywords:
 - vbawd10.chm158662957
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Shrink
 ms.assetid: ed364c95-3b9d-44dc-b120-db23aedfeaed

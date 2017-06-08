@@ -3,7 +3,7 @@ title: ShapeNodes.SetSegmentType Method (Word)
 keywords: vbawd10.chm164495375
 f1_keywords:
 - vbawd10.chm164495375
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNodes.SetSegmentType
 ms.assetid: 8afa8b4b-73bf-e64b-b6fa-427e891a9e07

@@ -1,6 +1,6 @@
 ---
 title: Dialogs Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 8dfa5d8a-bb81-1cdd-853b-3acf9db70aa9
 ms.date: 06/08/2017
 ---

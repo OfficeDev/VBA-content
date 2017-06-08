@@ -3,7 +3,7 @@ title: Paragraphs.BaseLineAlignment Property (Word)
 keywords: vbawd10.chm156762235
 f1_keywords:
 - vbawd10.chm156762235
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.BaseLineAlignment
 ms.assetid: 023055e7-62a0-475c-2f26-962d1c0f207c

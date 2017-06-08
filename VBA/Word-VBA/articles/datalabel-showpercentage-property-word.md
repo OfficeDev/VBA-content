@@ -3,7 +3,7 @@ title: DataLabel.ShowPercentage Property (Word)
 keywords: vbawd10.chm233900009
 f1_keywords:
 - vbawd10.chm233900009
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.ShowPercentage
 ms.assetid: 4347e76f-0107-f153-ab4b-5897683d6495

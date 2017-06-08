@@ -3,7 +3,7 @@ title: ChartGroups.Item Method (Word)
 keywords: vbawd10.chm77004800
 f1_keywords:
 - vbawd10.chm77004800
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroups.Item
 ms.assetid: 0d78e50d-f2e1-1617-a563-65cc48ca2c30

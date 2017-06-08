@@ -3,7 +3,7 @@ title: Comments.Application Property (Word)
 keywords: vbawd10.chm155190248
 f1_keywords:
 - vbawd10.chm155190248
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comments.Application
 ms.assetid: 296fb824-b0b2-dce4-2d34-081c4fd5ab00

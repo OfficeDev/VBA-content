@@ -3,7 +3,7 @@ title: SeriesLines.Name Property (Word)
 keywords: vbawd10.chm202702958
 f1_keywords:
 - vbawd10.chm202702958
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesLines.Name
 ms.assetid: 2d821570-bdd4-651c-0a81-de2993b2bc6b

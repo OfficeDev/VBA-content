@@ -3,7 +3,7 @@ title: Pane.Frameset Property (Word)
 keywords: vbawd10.chm157286418
 f1_keywords:
 - vbawd10.chm157286418
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.Frameset
 ms.assetid: 6bab63ae-aa83-e2b8-9b92-e472c2433246

@@ -3,7 +3,7 @@ title: Document.CreateLetterContent Method (Word)
 keywords: vbawd10.chm158007556
 f1_keywords:
 - vbawd10.chm158007556
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CreateLetterContent
 ms.assetid: 33f47344-31d2-4099-45fc-91af2d79dc7c

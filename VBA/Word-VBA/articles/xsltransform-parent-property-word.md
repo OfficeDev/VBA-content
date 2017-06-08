@@ -3,7 +3,7 @@ title: XSLTransform.Parent Property (Word)
 keywords: vbawd10.chm76743658
 f1_keywords:
 - vbawd10.chm76743658
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XSLTransform.Parent
 ms.assetid: 37101737-e6a1-a984-681f-3ffd3d9154dc

@@ -3,7 +3,7 @@ title: HeadingStyles.Creator Property (Word)
 keywords: vbawd10.chm160039913
 f1_keywords:
 - vbawd10.chm160039913
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadingStyles.Creator
 ms.assetid: 2faa2928-740a-2ecb-326b-241a82bb973e

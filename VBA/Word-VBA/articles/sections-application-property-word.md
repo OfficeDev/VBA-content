@@ -3,7 +3,7 @@ title: Sections.Application Property (Word)
 keywords: vbawd10.chm156894184
 f1_keywords:
 - vbawd10.chm156894184
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.Application
 ms.assetid: 1dddeb94-4e0c-c510-94b3-25186a151763

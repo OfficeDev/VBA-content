@@ -3,7 +3,7 @@ title: Selection.SelectCurrentColor Method (Word)
 keywords: vbawd10.chm158663178
 f1_keywords:
 - vbawd10.chm158663178
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentColor
 ms.assetid: f7d23b80-7e1a-40a5-b292-820c3db500a6

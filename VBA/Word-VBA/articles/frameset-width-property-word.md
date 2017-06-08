@@ -3,7 +3,7 @@ title: Frameset.Width Property (Word)
 keywords: vbawd10.chm165806083
 f1_keywords:
 - vbawd10.chm165806083
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.Width
 ms.assetid: 08c2c81a-119f-18ab-fa6e-5a21ab673cba

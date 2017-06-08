@@ -3,7 +3,7 @@ title: MailMergeFieldName.Index Property (Word)
 keywords: vbawd10.chm152764417
 f1_keywords:
 - vbawd10.chm152764417
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFieldName.Index
 ms.assetid: 562692c8-36af-22e4-0542-2ca70e1f0ef9

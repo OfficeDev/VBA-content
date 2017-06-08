@@ -3,7 +3,7 @@ title: WebOptions.RelyOnCSS Property (Word)
 keywords: vbawd10.chm165937155
 f1_keywords:
 - vbawd10.chm165937155
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.RelyOnCSS
 ms.assetid: 7d203567-e4a8-ac5a-4307-739d07996c2d

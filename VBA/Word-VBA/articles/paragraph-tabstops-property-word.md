@@ -3,7 +3,7 @@ title: Paragraph.TabStops Property (Word)
 keywords: vbawd10.chm156697679
 f1_keywords:
 - vbawd10.chm156697679
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.TabStops
 ms.assetid: e1739724-c236-e934-4e10-512d19cb8989

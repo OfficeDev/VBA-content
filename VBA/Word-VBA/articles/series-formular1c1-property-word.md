@@ -3,7 +3,7 @@ title: Series.FormulaR1C1 Property (Word)
 keywords: vbawd10.chm123732232
 f1_keywords:
 - vbawd10.chm123732232
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.FormulaR1C1
 ms.assetid: 6bca114d-91fc-8808-dda3-b5ae3621f535

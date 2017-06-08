@@ -3,7 +3,7 @@ title: EmailOptions.TabIndentKey Property (Word)
 keywords: vbawd10.chm165347637
 f1_keywords:
 - vbawd10.chm165347637
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.TabIndentKey
 ms.assetid: 48b79b45-5bc6-f253-acef-96f80cc68e1e

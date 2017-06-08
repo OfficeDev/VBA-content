@@ -3,7 +3,7 @@ title: Document.Permission Property (Word)
 keywords: vbawd10.chm158007749
 f1_keywords:
 - vbawd10.chm158007749
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Permission
 ms.assetid: 17a100a0-3dc4-b15d-fcb6-e7bc57d08fc6

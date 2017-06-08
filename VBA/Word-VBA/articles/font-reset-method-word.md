@@ -3,7 +3,7 @@ title: Font.Reset Method (Word)
 keywords: vbawd10.chm156368998
 f1_keywords:
 - vbawd10.chm156368998
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Reset
 ms.assetid: 4e06c982-7b2b-03b2-b5c7-46370cb60044

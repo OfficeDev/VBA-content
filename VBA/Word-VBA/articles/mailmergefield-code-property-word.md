@@ -3,7 +3,7 @@ title: MailMergeField.Code Property (Word)
 keywords: vbawd10.chm152961029
 f1_keywords:
 - vbawd10.chm152961029
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Code
 ms.assetid: 65dcf765-318b-cfc3-37e5-2a9b2a606204

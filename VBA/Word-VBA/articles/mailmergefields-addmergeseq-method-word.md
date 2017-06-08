@@ -3,7 +3,7 @@ title: MailMergeFields.AddMergeSeq Method (Word)
 keywords: vbawd10.chm153026666
 f1_keywords:
 - vbawd10.chm153026666
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddMergeSeq
 ms.assetid: e437677d-2b2b-e921-d5e2-817a67624b66

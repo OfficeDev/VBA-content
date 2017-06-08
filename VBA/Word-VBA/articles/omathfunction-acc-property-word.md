@@ -3,7 +3,7 @@ title: OMathFunction.Acc Property (Word)
 keywords: vbawd10.chm22151273
 f1_keywords:
 - vbawd10.chm22151273
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Acc
 ms.assetid: 0154166f-742f-70f4-d78a-41ab2c28e137

@@ -3,7 +3,7 @@ title: TabStops.Before Method (Word)
 keywords: vbawd10.chm156565606
 f1_keywords:
 - vbawd10.chm156565606
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStops.Before
 ms.assetid: 7a6ff83f-a1cc-1f60-6a29-08bc1f94ef7f

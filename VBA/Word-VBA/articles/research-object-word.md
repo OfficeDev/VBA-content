@@ -1,6 +1,6 @@
 ---
 title: Research Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Research
 ms.assetid: 454e1fd6-0e52-84df-7d15-04fda00b177b

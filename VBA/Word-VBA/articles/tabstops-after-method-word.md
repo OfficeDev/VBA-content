@@ -3,7 +3,7 @@ title: TabStops.After Method (Word)
 keywords: vbawd10.chm156565607
 f1_keywords:
 - vbawd10.chm156565607
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStops.After
 ms.assetid: 4c081809-dfd9-b379-0f7b-ec1ef39eacfc

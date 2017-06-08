@@ -3,7 +3,7 @@ title: ThreeDFormat.Parent Property (Word)
 keywords: vbawd10.chm164626433
 f1_keywords:
 - vbawd10.chm164626433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Parent
 ms.assetid: 30323961-69f0-e183-65be-9d5e0cd75a05

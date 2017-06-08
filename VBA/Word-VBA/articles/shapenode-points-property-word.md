@@ -3,7 +3,7 @@ title: ShapeNode.Points Property (Word)
 keywords: vbawd10.chm164429925
 f1_keywords:
 - vbawd10.chm164429925
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNode.Points
 ms.assetid: 2d64956f-1ba5-66d0-c4db-cf54c594ca0c

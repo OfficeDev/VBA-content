@@ -3,7 +3,7 @@ title: HangulAndAlphabetExceptions.Parent Property (Word)
 keywords: vbawd10.chm164692970
 f1_keywords:
 - vbawd10.chm164692970
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulAndAlphabetExceptions.Parent
 ms.assetid: e075f637-75f0-2444-8366-c25812640d28

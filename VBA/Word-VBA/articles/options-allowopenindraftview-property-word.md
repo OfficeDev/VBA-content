@@ -3,7 +3,7 @@ title: Options.AllowOpenInDraftView Property (Word)
 keywords: vbawd10.chm162988522
 f1_keywords:
 - vbawd10.chm162988522
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowOpenInDraftView
 ms.assetid: bdd1fb10-8291-81d5-bc82-385f707dd2b3

@@ -3,7 +3,7 @@ title: Style.NextParagraphStyle Property (Word)
 keywords: vbawd10.chm153878533
 f1_keywords:
 - vbawd10.chm153878533
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.NextParagraphStyle
 ms.assetid: f8326275-bb81-4a0e-f790-32b34ef71f78

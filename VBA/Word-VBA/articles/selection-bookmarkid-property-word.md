@@ -3,7 +3,7 @@ title: Selection.BookmarkID Property (Word)
 keywords: vbawd10.chm158662964
 f1_keywords:
 - vbawd10.chm158662964
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.BookmarkID
 ms.assetid: f48d317c-b5ed-ff0e-4a22-13b68aa10be1

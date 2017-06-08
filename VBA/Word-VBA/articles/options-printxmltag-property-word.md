@@ -3,7 +3,7 @@ title: Options.PrintXMLTag Property (Word)
 keywords: vbawd10.chm162988487
 f1_keywords:
 - vbawd10.chm162988487
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintXMLTag
 ms.assetid: f0fd4863-d57a-f1cb-f87d-b60190b8093e

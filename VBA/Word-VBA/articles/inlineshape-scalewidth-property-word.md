@@ -3,7 +3,7 @@ title: InlineShape.ScaleWidth Property (Word)
 keywords: vbawd10.chm162005003
 f1_keywords:
 - vbawd10.chm162005003
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.ScaleWidth
 ms.assetid: 64a22966-2516-758a-1f83-d4eaf09e0040

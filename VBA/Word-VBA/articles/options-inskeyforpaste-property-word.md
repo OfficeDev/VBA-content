@@ -3,7 +3,7 @@ title: Options.INSKeyForPaste Property (Word)
 keywords: vbawd10.chm162988102
 f1_keywords:
 - vbawd10.chm162988102
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.INSKeyForPaste
 ms.assetid: a16b57f1-8c56-9544-4da2-57a114f14081

@@ -3,7 +3,7 @@ title: ContentControl.Level Property (Word)
 keywords: vbawd10.chm266534945
 f1_keywords:
 - vbawd10.chm266534945
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5e6f02bc-9a7c-6d07-507f-a9807fb0e773
 ms.date: 06/08/2017
 ---

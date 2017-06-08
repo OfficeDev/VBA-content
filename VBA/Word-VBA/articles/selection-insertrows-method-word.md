@@ -3,7 +3,7 @@ title: Selection.InsertRows Method (Word)
 keywords: vbawd10.chm158663184
 f1_keywords:
 - vbawd10.chm158663184
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertRows
 ms.assetid: 326ad049-4d39-1ca6-a203-ddba0e77cba4

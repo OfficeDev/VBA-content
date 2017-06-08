@@ -3,7 +3,7 @@ title: ProtectedViewWindows.Parent Property (Word)
 keywords: vbawd10.chm82314218
 f1_keywords:
 - vbawd10.chm82314218
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindows.Parent
 ms.assetid: 83872d9c-d73a-6bae-960c-6334f7dff2ce

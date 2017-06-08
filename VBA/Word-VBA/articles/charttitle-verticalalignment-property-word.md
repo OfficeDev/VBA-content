@@ -3,7 +3,7 @@ title: ChartTitle.VerticalAlignment Property (Word)
 keywords: vbawd10.chm65273872
 f1_keywords:
 - vbawd10.chm65273872
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.VerticalAlignment
 ms.assetid: 11311b89-76b9-eefe-ab21-a1c68b04f8df

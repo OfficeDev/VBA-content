@@ -3,7 +3,7 @@ title: FillFormat.UserTextured Method (Word)
 keywords: vbawd10.chm164102162
 f1_keywords:
 - vbawd10.chm164102162
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.UserTextured
 ms.assetid: 4407df38-2660-5974-eadb-e30fe292ef11

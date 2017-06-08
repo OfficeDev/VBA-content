@@ -3,7 +3,7 @@ title: FormField.Previous Property (Word)
 keywords: vbawd10.chm153616399
 f1_keywords:
 - vbawd10.chm153616399
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Previous
 ms.assetid: 34e8d20a-5009-67eb-fdc0-bafad134e9b3

@@ -3,7 +3,7 @@ title: Paragraph.DropCap Property (Word)
 keywords: vbawd10.chm156696589
 f1_keywords:
 - vbawd10.chm156696589
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.DropCap
 ms.assetid: 32fb0f84-bef9-13cc-86e3-4f644cb76bc7

@@ -3,7 +3,7 @@ title: Document.EnforceStyle Property (Word)
 keywords: vbawd10.chm158007767
 f1_keywords:
 - vbawd10.chm158007767
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.EnforceStyle
 ms.assetid: ce2249ca-bdb0-f2b7-e9fa-a759c4507a74

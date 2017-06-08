@@ -3,7 +3,7 @@ title: System.LanguageDesignation Property (Word)
 keywords: vbawd10.chm154468358
 f1_keywords:
 - vbawd10.chm154468358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.LanguageDesignation
 ms.assetid: c2cf7b97-262d-1b41-3d2e-58d93c243e4e

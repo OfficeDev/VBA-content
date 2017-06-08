@@ -3,7 +3,7 @@ title: HeaderFooter.PageNumbers Property (Word)
 keywords: vbawd10.chm159711237
 f1_keywords:
 - vbawd10.chm159711237
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter.PageNumbers
 ms.assetid: 2e36c668-f696-e09e-dd04-ae77e7524232

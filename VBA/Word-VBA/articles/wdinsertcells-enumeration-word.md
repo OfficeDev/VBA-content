@@ -1,6 +1,6 @@
 ---
 title: WdInsertCells Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdInsertCells
 ms.assetid: a2663d30-ef0e-f7b5-9cb5-e1afe5aff0d9

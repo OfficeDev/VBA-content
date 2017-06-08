@@ -3,7 +3,7 @@ title: ChartGroup.Index Property (Word)
 keywords: vbawd10.chm263454741
 f1_keywords:
 - vbawd10.chm263454741
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Index
 ms.assetid: cdc754ff-90de-d8c8-ff07-2f00a55ea959

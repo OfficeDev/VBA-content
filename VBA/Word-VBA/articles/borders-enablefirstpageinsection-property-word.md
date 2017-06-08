@@ -3,7 +3,7 @@ title: Borders.EnableFirstPageInSection Property (Word)
 keywords: vbawd10.chm154927134
 f1_keywords:
 - vbawd10.chm154927134
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.EnableFirstPageInSection
 ms.assetid: 89eae9eb-25ef-f068-1098-f00389b10a22

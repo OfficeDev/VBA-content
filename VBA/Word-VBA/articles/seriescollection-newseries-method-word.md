@@ -3,7 +3,7 @@ title: SeriesCollection.NewSeries Method (Word)
 keywords: vbawd10.chm150406237
 f1_keywords:
 - vbawd10.chm150406237
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesCollection.NewSeries
 ms.assetid: fbfe3d37-c099-508e-367d-27314dc5c8ae

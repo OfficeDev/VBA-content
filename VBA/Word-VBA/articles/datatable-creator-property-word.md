@@ -3,7 +3,7 @@ title: DataTable.Creator Property (Word)
 keywords: vbawd10.chm46399637
 f1_keywords:
 - vbawd10.chm46399637
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.Creator
 ms.assetid: 15f5bb8c-ac5a-5e51-45bb-1b163245e283

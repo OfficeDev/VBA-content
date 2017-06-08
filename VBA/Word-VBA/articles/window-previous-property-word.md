@@ -3,7 +3,7 @@ title: Window.Previous Property (Word)
 keywords: vbawd10.chm157417489
 f1_keywords:
 - vbawd10.chm157417489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Previous
 ms.assetid: 5eeca0db-eef9-88b7-4dac-abec4797b7a7

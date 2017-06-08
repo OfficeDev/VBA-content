@@ -3,7 +3,7 @@ title: PageSetup.Orientation Property (Word)
 keywords: vbawd10.chm158400619
 f1_keywords:
 - vbawd10.chm158400619
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.Orientation
 ms.assetid: 7761b95d-b6dc-7f2f-94b9-7e1d45a85498

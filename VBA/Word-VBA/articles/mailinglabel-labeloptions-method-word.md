@@ -3,7 +3,7 @@ title: MailingLabel.LabelOptions Method (Word)
 keywords: vbawd10.chm152502375
 f1_keywords:
 - vbawd10.chm152502375
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.LabelOptions
 ms.assetid: b49c8ade-59ae-f315-76f0-0a73d62e1ea7

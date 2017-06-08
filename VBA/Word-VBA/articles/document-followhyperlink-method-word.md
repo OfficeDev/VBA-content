@@ -3,7 +3,7 @@ title: Document.FollowHyperlink Method (Word)
 keywords: vbawd10.chm158007431
 f1_keywords:
 - vbawd10.chm158007431
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FollowHyperlink
 ms.assetid: ef9a3993-a7b5-5668-e804-c9d1f4fdb7dd

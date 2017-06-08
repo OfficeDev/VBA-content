@@ -3,7 +3,7 @@ title: Lists.Count Property (Word)
 keywords: vbawd10.chm160628738
 f1_keywords:
 - vbawd10.chm160628738
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Lists.Count
 ms.assetid: 79a16caf-e6d7-ad2a-9e41-b71c84f7d914

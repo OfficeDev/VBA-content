@@ -3,7 +3,7 @@ title: Shape.Line Property (Word)
 keywords: vbawd10.chm161480816
 f1_keywords:
 - vbawd10.chm161480816
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Line
 ms.assetid: 3bb8d585-8af8-a3fc-f61c-d7bcfe4ffa13

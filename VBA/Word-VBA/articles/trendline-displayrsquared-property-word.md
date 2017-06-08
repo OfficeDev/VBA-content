@@ -3,7 +3,7 @@ title: Trendline.DisplayRSquared Property (Word)
 keywords: vbawd10.chm26345661
 f1_keywords:
 - vbawd10.chm26345661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.DisplayRSquared
 ms.assetid: 10f55d97-f9f2-953a-427b-b158abe268d7

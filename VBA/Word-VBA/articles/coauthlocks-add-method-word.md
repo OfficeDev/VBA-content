@@ -3,7 +3,7 @@ title: CoAuthLocks.Add Method (Word)
 keywords: vbawd10.chm180486146
 f1_keywords:
 - vbawd10.chm180486146
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLocks.Add
 ms.assetid: e66aed3e-b097-31c5-3b2a-748e278c3b61

@@ -3,7 +3,7 @@ title: Cells.Count Property (Word)
 keywords: vbawd10.chm155844610
 f1_keywords:
 - vbawd10.chm155844610
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.Count
 ms.assetid: 3c806b94-5266-e32f-7f99-b6c3c03eb129

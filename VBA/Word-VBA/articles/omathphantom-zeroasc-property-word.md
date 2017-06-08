@@ -3,7 +3,7 @@ title: OMathPhantom.ZeroAsc Property (Word)
 keywords: vbawd10.chm88146026
 f1_keywords:
 - vbawd10.chm88146026
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathPhantom.ZeroAsc
 ms.assetid: 127007db-ad86-4240-a4bf-b43eea67fbbc

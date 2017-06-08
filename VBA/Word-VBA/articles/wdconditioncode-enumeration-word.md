@@ -1,6 +1,6 @@
 ---
 title: WdConditionCode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdConditionCode
 ms.assetid: 67a1b735-ad66-33a7-3e2c-cbdd708cb654

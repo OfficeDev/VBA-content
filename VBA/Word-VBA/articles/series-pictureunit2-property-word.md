@@ -3,7 +3,7 @@ title: Series.PictureUnit2 Property (Word)
 keywords: vbawd10.chm123734617
 f1_keywords:
 - vbawd10.chm123734617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.PictureUnit2
 ms.assetid: 461c860f-ad4d-394a-508c-a53ef6b00bdb

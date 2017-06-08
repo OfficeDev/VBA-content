@@ -3,7 +3,7 @@ title: Style.Locked Property (Word)
 keywords: vbawd10.chm153878550
 f1_keywords:
 - vbawd10.chm153878550
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Locked
 ms.assetid: 9d8d57db-4664-899e-f0ea-ee218a3cd48a

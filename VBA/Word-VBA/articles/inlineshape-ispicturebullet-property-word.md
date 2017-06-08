@@ -3,7 +3,7 @@ title: InlineShape.IsPictureBullet Property (Word)
 keywords: vbawd10.chm162005124
 f1_keywords:
 - vbawd10.chm162005124
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.IsPictureBullet
 ms.assetid: c53c7269-b6ab-beaa-41d6-105033c077b9

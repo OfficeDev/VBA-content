@@ -3,7 +3,7 @@ title: ChartCharacters.Caption Property (Word)
 keywords: vbawd10.chm250740875
 f1_keywords:
 - vbawd10.chm250740875
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartCharacters.Caption
 ms.assetid: a2cffa57-09a3-18c8-8ebc-da1d421efc7c

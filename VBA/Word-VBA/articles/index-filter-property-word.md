@@ -3,7 +3,7 @@ title: Index.Filter Property (Word)
 keywords: vbawd10.chm159186953
 f1_keywords:
 - vbawd10.chm159186953
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Index.Filter
 ms.assetid: 87b5ad20-cc3d-b1d5-9622-ff23ea25120c

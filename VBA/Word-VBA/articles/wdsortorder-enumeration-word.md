@@ -1,6 +1,6 @@
 ---
 title: WdSortOrder Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSortOrder
 ms.assetid: d532202f-3622-9b74-0bd9-85e446c3b616

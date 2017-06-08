@@ -3,7 +3,7 @@ title: Axis.Height Property (Word)
 keywords: vbawd10.chm113049670
 f1_keywords:
 - vbawd10.chm113049670
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Height
 ms.assetid: 0c4cdcfe-4ea7-1a42-71ac-2393dafead85

@@ -3,7 +3,7 @@ title: Find.NoProofing Property (Word)
 keywords: vbawd10.chm162529314
 f1_keywords:
 - vbawd10.chm162529314
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.NoProofing
 ms.assetid: 4e13dab9-8bff-5615-c2c0-4d18a354c711

@@ -3,7 +3,7 @@ title: Document.PasswordEncryptionAlgorithm Property (Word)
 keywords: vbawd10.chm158007664
 f1_keywords:
 - vbawd10.chm158007664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.PasswordEncryptionAlgorithm
 ms.assetid: 5317832f-936b-5c3b-5acc-6c067563acd6

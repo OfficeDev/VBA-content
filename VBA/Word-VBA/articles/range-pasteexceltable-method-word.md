@@ -3,7 +3,7 @@ title: Range.PasteExcelTable Method (Word)
 keywords: vbawd10.chm157155741
 f1_keywords:
 - vbawd10.chm157155741
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.PasteExcelTable
 ms.assetid: 2f682b61-6980-4287-5512-6cef62390b70

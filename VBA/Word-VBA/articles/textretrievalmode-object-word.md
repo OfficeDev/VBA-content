@@ -3,7 +3,7 @@ title: TextRetrievalMode Object (Word)
 keywords: vbawd10.chm2361
 f1_keywords:
 - vbawd10.chm2361
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode
 ms.assetid: b76ad3a6-efc2-4abb-abb4-b8128577bbf2

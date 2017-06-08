@@ -1,6 +1,6 @@
 ---
 title: WdSpellingErrorType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSpellingErrorType
 ms.assetid: 1536219d-12b6-2fb1-d63e-3d222d6ada07

@@ -3,7 +3,7 @@ title: Language.ID Property (Word)
 keywords: vbawd10.chm158138378
 f1_keywords:
 - vbawd10.chm158138378
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.ID
 ms.assetid: 8af15ba5-19f0-2a65-e44a-a9fed55f8239

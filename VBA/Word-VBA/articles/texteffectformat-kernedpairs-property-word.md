@@ -3,7 +3,7 @@ title: TextEffectFormat.KernedPairs Property (Word)
 keywords: vbawd10.chm164561001
 f1_keywords:
 - vbawd10.chm164561001
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.KernedPairs
 ms.assetid: 555d152e-09ff-b151-46c6-9a14ab872a37

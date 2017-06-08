@@ -3,7 +3,7 @@ title: ChartData.Workbook Property (Word)
 keywords: vbawd10.chm190382080
 f1_keywords:
 - vbawd10.chm190382080
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartData.Workbook
 ms.assetid: 2295d653-7a36-b258-dfb8-f48844331705

@@ -3,7 +3,7 @@ title: Options.CommentsColor Property (Word)
 keywords: vbawd10.chm162988486
 f1_keywords:
 - vbawd10.chm162988486
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CommentsColor
 ms.assetid: 5c2861d6-7933-3e77-ba55-c7bfd174f44a

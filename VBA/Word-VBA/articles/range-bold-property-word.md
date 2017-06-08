@@ -3,7 +3,7 @@ title: Range.Bold Property (Word)
 keywords: vbawd10.chm157155458
 f1_keywords:
 - vbawd10.chm157155458
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Bold
 ms.assetid: 04723b36-43bb-4721-90a5-33447a9b742e

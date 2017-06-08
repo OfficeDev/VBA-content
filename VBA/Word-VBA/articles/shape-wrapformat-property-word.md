@@ -3,7 +3,7 @@ title: Shape.WrapFormat Property (Word)
 keywords: vbawd10.chm161481007
 f1_keywords:
 - vbawd10.chm161481007
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.WrapFormat
 ms.assetid: 7ed0561f-7dcd-a9bd-3524-880237ebf1cb

@@ -3,7 +3,7 @@ title: Field.Parent Property (Word)
 keywords: vbawd10.chm154076138
 f1_keywords:
 - vbawd10.chm154076138
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Parent
 ms.assetid: f15ec98c-af10-7def-6a45-6621294ee6c5

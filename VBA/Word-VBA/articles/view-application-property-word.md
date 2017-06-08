@@ -3,7 +3,7 @@ title: View.Application Property (Word)
 keywords: vbawd10.chm161809384
 f1_keywords:
 - vbawd10.chm161809384
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.Application
 ms.assetid: 63da5dbb-1a89-7926-83c4-56e48bf792d8

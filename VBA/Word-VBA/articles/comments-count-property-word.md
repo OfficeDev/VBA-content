@@ -3,7 +3,7 @@ title: Comments.Count Property (Word)
 keywords: vbawd10.chm155189250
 f1_keywords:
 - vbawd10.chm155189250
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comments.Count
 ms.assetid: a2aef191-801e-2e12-7ebb-41c5238551f7

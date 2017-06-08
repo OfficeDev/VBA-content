@@ -3,7 +3,7 @@ title: Shape.GroupItems Property (Word)
 keywords: vbawd10.chm161480812
 f1_keywords:
 - vbawd10.chm161480812
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.GroupItems
 ms.assetid: c78ee480-b63a-cf0a-cbc0-94394f898912

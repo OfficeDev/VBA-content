@@ -3,7 +3,7 @@ title: TablesOfFigures.MarkEntry Method (Word)
 keywords: vbawd10.chm153223269
 f1_keywords:
 - vbawd10.chm153223269
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfFigures.MarkEntry
 ms.assetid: bd5847c0-5714-cb41-5809-138a97ab10f9

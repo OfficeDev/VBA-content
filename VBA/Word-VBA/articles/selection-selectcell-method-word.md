@@ -3,7 +3,7 @@ title: Selection.SelectCell Method (Word)
 keywords: vbawd10.chm158663192
 f1_keywords:
 - vbawd10.chm158663192
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCell
 ms.assetid: 49df8e0c-795d-5d5b-79e4-56e0bd64c222

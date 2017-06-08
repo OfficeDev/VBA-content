@@ -3,7 +3,7 @@ title: Trendlines.Parent Property (Word)
 keywords: vbawd10.chm102367382
 f1_keywords:
 - vbawd10.chm102367382
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendlines.Parent
 ms.assetid: 8f1ab7c4-0f14-c82e-9820-4807e7bfcf5c

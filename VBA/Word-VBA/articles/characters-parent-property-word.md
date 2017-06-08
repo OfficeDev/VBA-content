@@ -3,7 +3,7 @@ title: Characters.Parent Property (Word)
 keywords: vbawd10.chm157090794
 f1_keywords:
 - vbawd10.chm157090794
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Characters.Parent
 ms.assetid: dcbb2a77-bf82-97c9-1396-81b43ae49377

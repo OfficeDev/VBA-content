@@ -3,7 +3,7 @@ title: SynonymInfo.Parent Property (Word)
 keywords: vbawd10.chm161154026
 f1_keywords:
 - vbawd10.chm161154026
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SynonymInfo.Parent
 ms.assetid: 8a8acbec-8d96-d59e-f754-9594e84a2a38

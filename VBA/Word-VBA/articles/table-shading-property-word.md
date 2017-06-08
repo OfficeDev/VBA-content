@@ -3,7 +3,7 @@ title: Table.Shading Property (Word)
 keywords: vbawd10.chm156303464
 f1_keywords:
 - vbawd10.chm156303464
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Shading
 ms.assetid: 0c5c0ebe-d7cb-ff55-c77c-2c0c36a6c98a

@@ -3,7 +3,7 @@ title: WrapFormat.Type Property (Word)
 keywords: vbawd10.chm163774564
 f1_keywords:
 - vbawd10.chm163774564
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.Type
 ms.assetid: 33c1166f-eb93-bbf6-1a58-80759d526201

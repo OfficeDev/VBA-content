@@ -3,7 +3,7 @@ title: Series.ChartType Property (Word)
 keywords: vbawd10.chm123733368
 f1_keywords:
 - vbawd10.chm123733368
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ChartType
 ms.assetid: 9c87da56-c628-5aaf-d0c6-7cf04bf646f7

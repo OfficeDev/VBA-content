@@ -3,7 +3,7 @@ title: Variables.Add Method (Word)
 keywords: vbawd10.chm157614087
 f1_keywords:
 - vbawd10.chm157614087
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variables.Add
 ms.assetid: 5c38d785-539b-7e6c-9cd0-cfa48e1aef33

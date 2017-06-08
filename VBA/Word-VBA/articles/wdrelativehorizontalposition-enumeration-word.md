@@ -1,6 +1,6 @@
 ---
 title: WdRelativeHorizontalPosition Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalPosition
 ms.assetid: 155eefdf-bbf8-9895-1bc0-64fcda4e2635

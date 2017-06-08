@@ -3,7 +3,7 @@ title: Application Object (Word)
 keywords: vbawd10.chm2416
 f1_keywords:
 - vbawd10.chm2416
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application
 ms.assetid: d1cf6f8f-4e88-bf01-93b4-90a83f79cb44

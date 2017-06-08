@@ -3,7 +3,7 @@ title: Find.MatchAllWordForms Property (Word)
 keywords: vbawd10.chm162529293
 f1_keywords:
 - vbawd10.chm162529293
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchAllWordForms
 ms.assetid: 12244a30-2ddd-8de9-ff74-326c069e656b

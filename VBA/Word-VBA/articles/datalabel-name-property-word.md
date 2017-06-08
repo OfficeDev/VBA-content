@@ -3,7 +3,7 @@ title: DataLabel.Name Property (Word)
 keywords: vbawd10.chm233898094
 f1_keywords:
 - vbawd10.chm233898094
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Name
 ms.assetid: b413418c-11f3-a460-f5f0-41abb5294ee5

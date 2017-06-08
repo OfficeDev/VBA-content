@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Orientation Property (Word)
 keywords: vbawd10.chm94568456
 f1_keywords:
 - vbawd10.chm94568456
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Orientation
 ms.assetid: 795f9635-e33f-3dee-c9e6-199e95859257

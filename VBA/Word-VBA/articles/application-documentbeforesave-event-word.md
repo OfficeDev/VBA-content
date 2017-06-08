@@ -3,7 +3,7 @@ title: Application.DocumentBeforeSave Event (Word)
 keywords: vbawd10.chm400007
 f1_keywords:
 - vbawd10.chm400007
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DocumentBeforeSave
 ms.assetid: cc1c6ec3-0e9e-5147-78a5-3a0c47fd5e90

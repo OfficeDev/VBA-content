@@ -3,7 +3,7 @@ title: OMathAutoCorrectEntry.Value Property (Word)
 keywords: vbawd10.chm251723881
 f1_keywords:
 - vbawd10.chm251723881
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrectEntry.Value
 ms.assetid: 3fecde26-f345-b252-a591-133944e889e4

@@ -3,7 +3,7 @@ title: Table.PreferredWidth Property (Word)
 keywords: vbawd10.chm156303471
 f1_keywords:
 - vbawd10.chm156303471
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.PreferredWidth
 ms.assetid: 15c3d169-9c61-fb70-3cc6-15f385bab8c0

@@ -3,7 +3,7 @@ title: ContentControlListEntries.Creator Property (Word)
 keywords: vbawd10.chm230948965
 f1_keywords:
 - vbawd10.chm230948965
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntries.Creator
 ms.assetid: f2478dda-786b-2120-171f-23f7e564ecd4

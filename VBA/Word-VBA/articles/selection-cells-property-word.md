@@ -3,7 +3,7 @@ title: Selection.Cells Property (Word)
 keywords: vbawd10.chm158662713
 f1_keywords:
 - vbawd10.chm158662713
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Cells
 ms.assetid: 4b808b86-42ba-ccb4-b19a-87b134df3b79

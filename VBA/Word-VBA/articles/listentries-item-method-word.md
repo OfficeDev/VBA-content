@@ -3,7 +3,7 @@ title: ListEntries.Item Method (Word)
 keywords: vbawd10.chm153354240
 f1_keywords:
 - vbawd10.chm153354240
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntries.Item
 ms.assetid: 749a78cf-b72e-defe-396b-cd7f3c802277

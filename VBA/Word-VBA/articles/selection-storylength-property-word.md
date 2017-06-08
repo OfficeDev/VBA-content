@@ -3,7 +3,7 @@ title: Selection.StoryLength Property (Word)
 keywords: vbawd10.chm158662808
 f1_keywords:
 - vbawd10.chm158662808
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.StoryLength
 ms.assetid: adc9f016-5e8f-d9ef-bd5c-9f322a6c0e58

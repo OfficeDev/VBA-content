@@ -3,7 +3,7 @@ title: TabStop.Alignment Property (Word)
 keywords: vbawd10.chm156500068
 f1_keywords:
 - vbawd10.chm156500068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStop.Alignment
 ms.assetid: f27f7f39-439d-0cbf-5538-8d3028abddf1

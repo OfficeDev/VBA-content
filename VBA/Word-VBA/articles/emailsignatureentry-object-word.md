@@ -3,7 +3,7 @@ title: EmailSignatureEntry Object (Word)
 keywords: vbawd10.chm2534
 f1_keywords:
 - vbawd10.chm2534
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailSignatureEntry
 ms.assetid: a8cf11de-7a46-c609-3cd7-508e9ef91e09

@@ -3,7 +3,7 @@ title: BuildingBlockType.Parent Property (Word)
 keywords: vbawd10.chm167379946
 f1_keywords:
 - vbawd10.chm167379946
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.BuildingBlockType.Parent
 ms.assetid: 73dc6ab8-0be3-7954-5f01-94706a0e3365

@@ -3,7 +3,7 @@ title: TableStyle.Condition Method (Word)
 keywords: vbawd10.chm244776976
 f1_keywords:
 - vbawd10.chm244776976
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.Condition
 ms.assetid: f0adb8b7-434d-3134-38d0-d21d221a27d3

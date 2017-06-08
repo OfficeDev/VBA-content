@@ -3,7 +3,7 @@ title: OMathAutoCorrectEntry.Index Property (Word)
 keywords: vbawd10.chm251723879
 f1_keywords:
 - vbawd10.chm251723879
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrectEntry.Index
 ms.assetid: d2bcff3a-1097-aa12-d0ff-24593a845b52

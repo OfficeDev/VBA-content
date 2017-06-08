@@ -3,7 +3,7 @@ title: Options.InsertedTextMark Property (Word)
 keywords: vbawd10.chm162988089
 f1_keywords:
 - vbawd10.chm162988089
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.InsertedTextMark
 ms.assetid: 6c17aa01-2dcb-cf0e-6e8d-bd7f0b254fe8

@@ -1,6 +1,6 @@
 ---
 title: WdMoveFromTextMark Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMoveFromTextMark
 ms.assetid: 343005e2-535f-5de2-34b6-efa7353d44ff

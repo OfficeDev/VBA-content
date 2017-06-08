@@ -3,7 +3,7 @@ title: Axis.ReversePlotOrder Property (Word)
 keywords: vbawd10.chm113049643
 f1_keywords:
 - vbawd10.chm113049643
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.ReversePlotOrder
 ms.assetid: 663a1268-d7ed-0af4-afa6-1637a94f4525

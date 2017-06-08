@@ -1,6 +1,6 @@
 ---
 title: WdDefaultFilePath Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDefaultFilePath
 ms.assetid: e1b8a78b-a75d-d28f-4f5c-fc9752166c36

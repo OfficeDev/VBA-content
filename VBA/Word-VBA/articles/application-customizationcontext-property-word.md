@@ -3,7 +3,7 @@ title: Application.CustomizationContext Property (Word)
 keywords: vbawd10.chm158335044
 f1_keywords:
 - vbawd10.chm158335044
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.CustomizationContext
 ms.assetid: 87c4fb87-1a59-fc0f-ca92-47e5d9c7c588

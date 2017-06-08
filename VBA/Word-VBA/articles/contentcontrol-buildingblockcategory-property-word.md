@@ -3,7 +3,7 @@ title: ContentControl.BuildingBlockCategory Property (Word)
 keywords: vbawd10.chm266534934
 f1_keywords:
 - vbawd10.chm266534934
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.BuildingBlockCategory
 ms.assetid: ca799bde-8556-381e-c9ca-74c5ac250d99

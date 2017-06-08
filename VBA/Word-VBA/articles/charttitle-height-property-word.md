@@ -3,7 +3,7 @@ title: ChartTitle.Height Property (Word)
 keywords: vbawd10.chm65273890
 f1_keywords:
 - vbawd10.chm65273890
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Height
 ms.assetid: 61832628-dbd4-e4a4-fdcc-d600f4fefe89

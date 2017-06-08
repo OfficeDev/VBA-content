@@ -3,7 +3,7 @@ title: CoAuthLock.Parent Property (Word)
 keywords: vbawd10.chm260047850
 f1_keywords:
 - vbawd10.chm260047850
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLock.Parent
 ms.assetid: 9e7aaa18-5714-aa56-ec08-27ec79320202

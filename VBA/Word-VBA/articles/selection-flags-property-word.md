@@ -3,7 +3,7 @@ title: Selection.Flags Property (Word)
 keywords: vbawd10.chm158663058
 f1_keywords:
 - vbawd10.chm158663058
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Flags
 ms.assetid: bca92e77-077c-57d0-3012-8c064e93f112

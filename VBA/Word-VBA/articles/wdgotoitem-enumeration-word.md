@@ -1,6 +1,6 @@
 ---
 title: WdGoToItem Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdGoToItem
 ms.assetid: 14b60456-ee96-e845-2686-79e9810a2af5

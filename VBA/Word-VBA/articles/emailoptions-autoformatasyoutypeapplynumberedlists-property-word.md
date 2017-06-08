@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
 keywords: vbawd10.chm165347591
 f1_keywords:
 - vbawd10.chm165347591
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: 39e50b47-1e1c-4ed8-197c-b99476423187

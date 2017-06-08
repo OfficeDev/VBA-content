@@ -3,7 +3,7 @@ title: Selection.Borders Property (Word)
 keywords: vbawd10.chm158663756
 f1_keywords:
 - vbawd10.chm158663756
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Borders
 ms.assetid: 2e70c7be-c7dc-db59-0a99-a11770ffc220

@@ -3,7 +3,7 @@ title: Cell.Parent Property (Word)
 keywords: vbawd10.chm156107754
 f1_keywords:
 - vbawd10.chm156107754
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Parent
 ms.assetid: ef27abde-9789-52f2-ac30-b346404939d6

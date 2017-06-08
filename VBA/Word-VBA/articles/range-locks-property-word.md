@@ -3,7 +3,7 @@ title: Range.Locks Property (Word)
 keywords: vbawd10.chm157155832
 f1_keywords:
 - vbawd10.chm157155832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Locks
 ms.assetid: 102673f2-8cb0-d235-c158-c65759592d56

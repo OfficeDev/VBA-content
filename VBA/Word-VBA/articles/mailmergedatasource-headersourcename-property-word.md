@@ -3,7 +3,7 @@ title: MailMergeDataSource.HeaderSourceName Property (Word)
 keywords: vbawd10.chm152895490
 f1_keywords:
 - vbawd10.chm152895490
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.HeaderSourceName
 ms.assetid: 80380230-3f88-f08d-780b-923287d359fa

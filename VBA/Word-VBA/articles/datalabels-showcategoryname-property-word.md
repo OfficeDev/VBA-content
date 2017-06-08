@@ -3,7 +3,7 @@ title: DataLabels.ShowCategoryName Property (Word)
 keywords: vbawd10.chm207488999
 f1_keywords:
 - vbawd10.chm207488999
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.ShowCategoryName
 ms.assetid: 725deb0e-0b55-8c3d-7893-46d9c25e7b0d

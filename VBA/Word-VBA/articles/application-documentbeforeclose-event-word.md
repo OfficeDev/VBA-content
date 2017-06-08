@@ -3,7 +3,7 @@ title: Application.DocumentBeforeClose Event (Word)
 keywords: vbawd10.chm400005
 f1_keywords:
 - vbawd10.chm400005
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DocumentBeforeClose
 ms.assetid: 91c89b29-3110-85d7-c141-d1add3bb57f1

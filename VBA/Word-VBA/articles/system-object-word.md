@@ -3,7 +3,7 @@ title: System Object (Word)
 keywords: vbawd10.chm2357
 f1_keywords:
 - vbawd10.chm2357
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System
 ms.assetid: db15d780-3bbc-9515-a988-ea798777496f

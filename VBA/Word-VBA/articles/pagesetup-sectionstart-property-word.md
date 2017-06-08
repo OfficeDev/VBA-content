@@ -3,7 +3,7 @@ title: PageSetup.SectionStart Property (Word)
 keywords: vbawd10.chm158400626
 f1_keywords:
 - vbawd10.chm158400626
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.SectionStart
 ms.assetid: 2fa3d589-82e7-9f9a-7b0e-f8761dd60a9a

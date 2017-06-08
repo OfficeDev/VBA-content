@@ -3,7 +3,7 @@ title: Floor.Application Property (Word)
 keywords: vbawd10.chm46006420
 f1_keywords:
 - vbawd10.chm46006420
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor.Application
 ms.assetid: 4785ff63-0b8b-d3ca-b4ea-4746f7c3f23b

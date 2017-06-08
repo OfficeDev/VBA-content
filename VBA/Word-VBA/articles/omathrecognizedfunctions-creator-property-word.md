@@ -3,7 +3,7 @@ title: OMathRecognizedFunctions.Creator Property (Word)
 keywords: vbawd10.chm143065189
 f1_keywords:
 - vbawd10.chm143065189
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRecognizedFunctions.Creator
 ms.assetid: c1f81f2b-7a51-e6f7-ad62-e11088bd79ad

@@ -3,7 +3,7 @@ title: FillFormat.TextureOffsetX Property (Word)
 keywords: vbawd10.chm164102259
 f1_keywords:
 - vbawd10.chm164102259
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.TextureOffsetX
 ms.assetid: 19f49253-b996-9dc8-c214-be65fc7efe12

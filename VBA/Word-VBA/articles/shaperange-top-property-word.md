@@ -3,7 +3,7 @@ title: ShapeRange.Top Property (Word)
 keywords: vbawd10.chm162857083
 f1_keywords:
 - vbawd10.chm162857083
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Top
 ms.assetid: 2bfa4057-2b4e-6ea6-6d0f-3efd6eb3c63d

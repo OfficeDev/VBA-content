@@ -3,7 +3,7 @@ title: Font.Subscript Property (Word)
 keywords: vbawd10.chm156369034
 f1_keywords:
 - vbawd10.chm156369034
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Subscript
 ms.assetid: 51226088-218d-4848-1358-d524fb2fe56a

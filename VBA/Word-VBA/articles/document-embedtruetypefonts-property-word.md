@@ -3,7 +3,7 @@ title: Document.EmbedTrueTypeFonts Property (Word)
 keywords: vbawd10.chm158007346
 f1_keywords:
 - vbawd10.chm158007346
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.EmbedTrueTypeFonts
 ms.assetid: ac8fb6a1-584a-2ddb-4216-53e30473ff65

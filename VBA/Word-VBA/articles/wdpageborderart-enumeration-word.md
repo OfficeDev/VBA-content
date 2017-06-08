@@ -1,6 +1,6 @@
 ---
 title: WdPageBorderArt Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPageBorderArt
 ms.assetid: e01fae3c-c39c-8193-44e6-f3908f6b014b

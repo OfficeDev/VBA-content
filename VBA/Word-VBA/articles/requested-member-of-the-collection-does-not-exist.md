@@ -1,6 +1,6 @@
 ---
 title: Requested Member of the Collection Does Not Exist
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 0053e3e4-8e33-c994-a910-572370dbbfb2
 ms.date: 06/08/2017
 ---

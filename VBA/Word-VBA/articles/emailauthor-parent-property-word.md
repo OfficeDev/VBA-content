@@ -3,7 +3,7 @@ title: EmailAuthor.Parent Property (Word)
 keywords: vbawd10.chm165086186
 f1_keywords:
 - vbawd10.chm165086186
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailAuthor.Parent
 ms.assetid: c2700a0b-3c7d-94ef-6e34-1b148a28e4ab

@@ -3,7 +3,7 @@ title: Line.Left Property (Word)
 keywords: vbawd10.chm49610755
 f1_keywords:
 - vbawd10.chm49610755
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Line.Left
 ms.assetid: 6fdaf53f-be14-2718-146a-4a4116c378c5

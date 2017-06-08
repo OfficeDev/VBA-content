@@ -3,7 +3,7 @@ title: OMath.Type Property (Word)
 keywords: vbawd10.chm176357481
 f1_keywords:
 - vbawd10.chm176357481
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.Type
 ms.assetid: d546f006-dc43-343b-808e-b0230d3f3391

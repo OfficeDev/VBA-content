@@ -3,7 +3,7 @@ title: EmailSignatureEntries.Count Property (Word)
 keywords: vbawd10.chm166002689
 f1_keywords:
 - vbawd10.chm166002689
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailSignatureEntries.Count
 ms.assetid: 3da9db15-d8a9-19cb-fd31-7defbec30af9

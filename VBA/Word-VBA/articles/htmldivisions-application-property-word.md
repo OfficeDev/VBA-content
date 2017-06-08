@@ -3,7 +3,7 @@ title: HTMLDivisions.Application Property (Word)
 keywords: vbawd10.chm166200296
 f1_keywords:
 - vbawd10.chm166200296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivisions.Application
 ms.assetid: cccd5c30-b2e0-bdf9-29fd-7ebbf9f8c21d

@@ -3,7 +3,7 @@ title: Axis.TickLabelSpacingIsAuto Property (Word)
 keywords: vbawd10.chm113049624
 f1_keywords:
 - vbawd10.chm113049624
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.TickLabelSpacingIsAuto
 ms.assetid: 9ed52f03-60ea-218e-1409-19c4fb369603

@@ -3,7 +3,7 @@ title: DataLabel.Creator Property (Word)
 keywords: vbawd10.chm233898133
 f1_keywords:
 - vbawd10.chm233898133
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Creator
 ms.assetid: 3e261a34-9826-9c8e-5f5f-6fdd1101e9db

@@ -3,7 +3,7 @@ title: ProofreadingErrors.Parent Property (Word)
 keywords: vbawd10.chm163251178
 f1_keywords:
 - vbawd10.chm163251178
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Parent
 ms.assetid: cd2e17c6-77db-a92f-4179-0d31a54c8b0a

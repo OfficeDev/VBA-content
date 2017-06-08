@@ -1,6 +1,6 @@
 ---
 title: WdSaveOptions Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSaveOptions
 ms.assetid: be7da727-8683-bda5-1006-9786f946233d

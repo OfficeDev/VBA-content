@@ -3,7 +3,7 @@ title: Border.Parent Property (Word)
 keywords: vbawd10.chm154862570
 f1_keywords:
 - vbawd10.chm154862570
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Border.Parent
 ms.assetid: e89380be-c72e-7ab0-bd39-db2703cb8292

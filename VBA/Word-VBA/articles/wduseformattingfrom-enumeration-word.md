@@ -1,6 +1,6 @@
 ---
 title: WdUseFormattingFrom Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdUseFormattingFrom
 ms.assetid: f4860fb9-c291-6e20-6fc5-e307e629ee7c

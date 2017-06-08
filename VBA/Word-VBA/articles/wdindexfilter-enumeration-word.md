@@ -1,6 +1,6 @@
 ---
 title: WdIndexFilter Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdIndexFilter
 ms.assetid: 811b794d-127a-5a10-4a4a-8b1ad5077b31

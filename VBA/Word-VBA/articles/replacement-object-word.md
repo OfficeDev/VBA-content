@@ -3,7 +3,7 @@ title: Replacement Object (Word)
 keywords: vbawd10.chm2481
 f1_keywords:
 - vbawd10.chm2481
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement
 ms.assetid: 5d9615e4-f6ef-af5f-6e45-c382a88395c9

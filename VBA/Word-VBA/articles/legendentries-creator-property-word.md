@@ -3,7 +3,7 @@ title: LegendEntries.Creator Property (Word)
 keywords: vbawd10.chm6815893
 f1_keywords:
 - vbawd10.chm6815893
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendEntries.Creator
 ms.assetid: 4153e082-a1df-a118-3db6-4603e991bf9c

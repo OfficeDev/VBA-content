@@ -3,7 +3,7 @@ title: Documents.Item Method (Word)
 keywords: vbawd10.chm158072832
 f1_keywords:
 - vbawd10.chm158072832
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Documents.Item
 ms.assetid: 0777c075-b466-3ac9-312a-4e1da7c1a732

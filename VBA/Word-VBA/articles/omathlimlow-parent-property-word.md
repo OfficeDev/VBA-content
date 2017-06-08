@@ -3,7 +3,7 @@ title: OMathLimLow.Parent Property (Word)
 keywords: vbawd10.chm91619430
 f1_keywords:
 - vbawd10.chm91619430
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathLimLow.Parent
 ms.assetid: 6bfcc292-354b-cc0e-7fb5-9b6218de2162

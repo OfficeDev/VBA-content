@@ -3,7 +3,7 @@ title: Paragraph.FirstLineIndent Property (Word)
 keywords: vbawd10.chm156696684
 f1_keywords:
 - vbawd10.chm156696684
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.FirstLineIndent
 ms.assetid: 44f326b6-3352-da1a-5ff0-952627ed7b90

@@ -3,7 +3,7 @@ title: Envelope.SenderPostalfromTop Property (Word)
 keywords: vbawd10.chm152567838
 f1_keywords:
 - vbawd10.chm152567838
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.SenderPostalfromTop
 ms.assetid: a242a81b-c1e9-eb17-3ef3-b1c54c59bd12

@@ -3,7 +3,7 @@ title: FileConverter.OpenFormat Property (Word)
 keywords: vbawd10.chm161021955
 f1_keywords:
 - vbawd10.chm161021955
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.OpenFormat
 ms.assetid: d5a83e1f-bbf6-d0f5-8223-c2140850bc27

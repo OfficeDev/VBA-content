@@ -3,7 +3,7 @@ title: Selection.PasteAndFormat Method (Word)
 keywords: vbawd10.chm158663669
 f1_keywords:
 - vbawd10.chm158663669
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PasteAndFormat
 ms.assetid: 7ed87209-b786-280e-f3f0-dd81eda6f82d

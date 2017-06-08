@@ -3,7 +3,7 @@ title: LineNumbering Object (Word)
 keywords: vbawd10.chm2418
 f1_keywords:
 - vbawd10.chm2418
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering
 ms.assetid: a2dd1278-c7dd-af4c-be32-1daded5556d6

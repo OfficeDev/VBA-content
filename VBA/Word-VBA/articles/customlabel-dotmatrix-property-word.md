@@ -3,7 +3,7 @@ title: CustomLabel.DotMatrix Property (Word)
 keywords: vbawd10.chm152371211
 f1_keywords:
 - vbawd10.chm152371211
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.DotMatrix
 ms.assetid: 46646fd9-2d37-ed2b-d6f9-68cf139bbd57

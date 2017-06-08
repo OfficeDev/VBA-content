@@ -3,7 +3,7 @@ title: Chart.Delete Method (Word)
 keywords: vbawd10.chm79364213
 f1_keywords:
 - vbawd10.chm79364213
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Delete
 ms.assetid: ed16a8dc-6470-27ed-12d7-ab6e9ff06fe8

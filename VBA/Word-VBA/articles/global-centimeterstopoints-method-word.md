@@ -3,7 +3,7 @@ title: Global.CentimetersToPoints Method (Word)
 keywords: vbawd10.chm163119475
 f1_keywords:
 - vbawd10.chm163119475
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.CentimetersToPoints
 ms.assetid: dc32bb5f-9ea4-e366-d1ad-ac852dc05d82

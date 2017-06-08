@@ -3,7 +3,7 @@ title: CalloutFormat.PresetDrop Method (Word)
 keywords: vbawd10.chm163905549
 f1_keywords:
 - vbawd10.chm163905549
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.PresetDrop
 ms.assetid: 3bd6f39f-a5b6-95be-b8de-c60137694d42

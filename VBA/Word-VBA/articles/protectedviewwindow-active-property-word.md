@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Active Property (Word)
 keywords: vbawd10.chm231735303
 f1_keywords:
 - vbawd10.chm231735303
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Active
 ms.assetid: 8c301a06-aaca-4ecf-cf08-563b45810028

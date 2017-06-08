@@ -3,7 +3,7 @@ title: PageSetup.FooterDistance Property (Word)
 keywords: vbawd10.chm158400625
 f1_keywords:
 - vbawd10.chm158400625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.FooterDistance
 ms.assetid: 0c3fda7d-be19-982c-b54e-34905be189d1

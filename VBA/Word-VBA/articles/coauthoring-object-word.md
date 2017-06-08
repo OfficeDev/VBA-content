@@ -3,7 +3,7 @@ title: CoAuthoring Object (Word)
 keywords: vbawd10.chm3889
 f1_keywords:
 - vbawd10.chm3889
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring
 ms.assetid: d36ac5a7-6479-6565-dbb0-969d06b31f30

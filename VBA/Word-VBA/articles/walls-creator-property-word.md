@@ -3,7 +3,7 @@ title: Walls.Creator Property (Word)
 keywords: vbawd10.chm25165973
 f1_keywords:
 - vbawd10.chm25165973
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.Creator
 ms.assetid: 1d47046e-3552-43d9-79f0-2317f8df380e

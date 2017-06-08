@@ -3,7 +3,7 @@ title: OMathFrac.Den Property (Word)
 keywords: vbawd10.chm158597224
 f1_keywords:
 - vbawd10.chm158597224
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFrac.Den
 ms.assetid: 376d3c71-5321-1629-1c5a-1ab90d38b9e6

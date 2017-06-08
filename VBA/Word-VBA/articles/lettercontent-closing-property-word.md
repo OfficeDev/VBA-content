@@ -3,7 +3,7 @@ title: LetterContent.Closing Property (Word)
 keywords: vbawd10.chm161546361
 f1_keywords:
 - vbawd10.chm161546361
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.Closing
 ms.assetid: 46f367a8-c487-a837-f37c-7570e005728d

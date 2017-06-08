@@ -3,7 +3,7 @@ title: LetterContent.Parent Property (Word)
 keywords: vbawd10.chm161547242
 f1_keywords:
 - vbawd10.chm161547242
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.Parent
 ms.assetid: 5eaa9972-3c8f-ff5a-801b-fa5a0992079b

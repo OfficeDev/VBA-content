@@ -3,7 +3,7 @@ title: OMathFunction.Delim Property (Word)
 keywords: vbawd10.chm22151277
 f1_keywords:
 - vbawd10.chm22151277
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Delim
 ms.assetid: 3f62c595-f7ee-e2e4-c662-344a0b85a4f7

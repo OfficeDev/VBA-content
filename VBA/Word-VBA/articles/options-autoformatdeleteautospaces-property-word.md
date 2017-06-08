@@ -3,7 +3,7 @@ title: Options.AutoFormatDeleteAutoSpaces Property (Word)
 keywords: vbawd10.chm162988328
 f1_keywords:
 - vbawd10.chm162988328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatDeleteAutoSpaces
 ms.assetid: 45f56b46-bdb5-972b-d4f7-ba736a80d4c1

@@ -3,7 +3,7 @@ title: Version.Date Property (Word)
 keywords: vbawd10.chm162792429
 f1_keywords:
 - vbawd10.chm162792429
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version.Date
 ms.assetid: c46596fc-e6ff-4158-ba83-d83a6e84400b

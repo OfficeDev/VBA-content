@@ -3,7 +3,7 @@ title: Categories.Creator Property (Word)
 keywords: vbawd10.chm126551017
 f1_keywords:
 - vbawd10.chm126551017
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Categories.Creator
 ms.assetid: 7419019c-d6b1-1f10-5bb4-7e87f8c4acf1

@@ -1,6 +1,6 @@
 ---
 title: WdRevisedPropertiesMark Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRevisedPropertiesMark
 ms.assetid: 49477431-2396-2d38-9e25-a1e621fa26de

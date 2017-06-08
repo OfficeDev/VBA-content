@@ -3,7 +3,7 @@ title: Selection.InsertCells Method (Word)
 keywords: vbawd10.chm158662870
 f1_keywords:
 - vbawd10.chm158662870
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertCells
 ms.assetid: 461085a3-ae98-8028-5ad2-d5e22038c6db

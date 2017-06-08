@@ -3,7 +3,7 @@ title: Font.ContextualAlternates Property (Word)
 keywords: vbawd10.chm156369073
 f1_keywords:
 - vbawd10.chm156369073
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.ContextualAlternates
 ms.assetid: 065589b0-afbd-dfb1-4f96-2c70b558b773

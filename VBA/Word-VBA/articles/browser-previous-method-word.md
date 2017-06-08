@@ -3,7 +3,7 @@ title: Browser.Previous Method (Word)
 keywords: vbawd10.chm154009702
 f1_keywords:
 - vbawd10.chm154009702
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Browser.Previous
 ms.assetid: b23b637e-b7ee-05ae-dd7a-9f97ca2e6d7c

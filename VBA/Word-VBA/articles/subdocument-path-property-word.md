@@ -3,7 +3,7 @@ title: Subdocument.Path Property (Word)
 keywords: vbawd10.chm159973380
 f1_keywords:
 - vbawd10.chm159973380
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocument.Path
 ms.assetid: d27bc7ce-5346-b9a7-cd29-b42b0e8c98eb

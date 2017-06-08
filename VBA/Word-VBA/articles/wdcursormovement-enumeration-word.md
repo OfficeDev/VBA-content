@@ -1,6 +1,6 @@
 ---
 title: WdCursorMovement Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCursorMovement
 ms.assetid: 7aa937dc-8ba3-2dcf-9d07-66219e6b806f

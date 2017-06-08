@@ -3,7 +3,7 @@ title: OMath.ParentArg Property (Word)
 keywords: vbawd10.chm176357486
 f1_keywords:
 - vbawd10.chm176357486
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.ParentArg
 ms.assetid: 47f100e7-5615-5ec6-31e4-5a7efef932b6

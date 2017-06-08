@@ -3,7 +3,7 @@ title: Footnotes.Parent Property (Word)
 keywords: vbawd10.chm155321322
 f1_keywords:
 - vbawd10.chm155321322
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.Parent
 ms.assetid: 1f96e156-2611-2e93-9528-c0d9d8a61483

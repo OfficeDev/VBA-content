@@ -3,7 +3,7 @@ title: MailingLabel Object (Word)
 keywords: vbawd10.chm2327
 f1_keywords:
 - vbawd10.chm2327
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel
 ms.assetid: 9dd073b7-5d53-0f1e-f19a-9abf6427b3f2

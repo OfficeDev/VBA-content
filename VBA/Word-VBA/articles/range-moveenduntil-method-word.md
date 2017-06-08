@@ -3,7 +3,7 @@ title: Range.MoveEndUntil Method (Word)
 keywords: vbawd10.chm157155445
 f1_keywords:
 - vbawd10.chm157155445
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.MoveEndUntil
 ms.assetid: 62ac37a2-1116-73de-dcd8-0ff74ae7803b

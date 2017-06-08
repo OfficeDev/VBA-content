@@ -3,7 +3,7 @@ title: Selection.IPAtEndOfLine Property (Word)
 keywords: vbawd10.chm158663061
 f1_keywords:
 - vbawd10.chm158663061
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.IPAtEndOfLine
 ms.assetid: 8db37c0f-6c68-7ccd-0c34-9a40b62b9e9d

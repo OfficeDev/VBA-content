@@ -3,7 +3,7 @@ title: HTMLDivisions.Count Property (Word)
 keywords: vbawd10.chm166199297
 f1_keywords:
 - vbawd10.chm166199297
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivisions.Count
 ms.assetid: 8d310fc4-ec66-006b-d991-6bf3e2d0db8f

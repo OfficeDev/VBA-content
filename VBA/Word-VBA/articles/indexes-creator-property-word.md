@@ -3,7 +3,7 @@ title: Indexes.Creator Property (Word)
 keywords: vbawd10.chm159122409
 f1_keywords:
 - vbawd10.chm159122409
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Creator
 ms.assetid: 88fed4ac-033b-a33f-0355-c750fcea0783

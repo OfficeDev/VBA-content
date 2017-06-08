@@ -3,7 +3,7 @@ title: ParagraphFormat.ReadingOrder Property (Word)
 keywords: vbawd10.chm156434563
 f1_keywords:
 - vbawd10.chm156434563
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.ReadingOrder
 ms.assetid: 4a22e638-2af8-096a-d45c-2eed21dc8002

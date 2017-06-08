@@ -3,7 +3,7 @@ title: Selection.PreviousBookmarkID Property (Word)
 keywords: vbawd10.chm158662965
 f1_keywords:
 - vbawd10.chm158662965
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PreviousBookmarkID
 ms.assetid: 33d7490d-1b48-81a1-a7d5-9154c1d92230

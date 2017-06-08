@@ -3,7 +3,7 @@ title: Document.AttachedTemplate Property (Word)
 keywords: vbawd10.chm158007363
 f1_keywords:
 - vbawd10.chm158007363
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.AttachedTemplate
 ms.assetid: e7489e88-ec82-ff16-558b-1dd5470f83c9

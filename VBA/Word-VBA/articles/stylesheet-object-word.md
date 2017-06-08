@@ -3,7 +3,7 @@ title: StyleSheet Object (Word)
 keywords: vbawd10.chm2543
 f1_keywords:
 - vbawd10.chm2543
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheet
 ms.assetid: 5e576ff8-c458-f5bd-730d-9db827c4f76e

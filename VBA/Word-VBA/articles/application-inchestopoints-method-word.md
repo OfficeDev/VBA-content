@@ -3,7 +3,7 @@ title: Application.InchesToPoints Method (Word)
 keywords: vbawd10.chm158335346
 f1_keywords:
 - vbawd10.chm158335346
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.InchesToPoints
 ms.assetid: 67a7e59c-bc61-be03-852d-05fadebef148

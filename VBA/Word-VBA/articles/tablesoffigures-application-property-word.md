@@ -3,7 +3,7 @@ title: TablesOfFigures.Application Property (Word)
 keywords: vbawd10.chm153224168
 f1_keywords:
 - vbawd10.chm153224168
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfFigures.Application
 ms.assetid: 2ee42183-a063-59c7-13d7-d3a860809a53

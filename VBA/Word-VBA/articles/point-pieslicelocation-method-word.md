@@ -3,7 +3,7 @@ title: Point.PieSliceLocation Method (Word)
 keywords: vbawd10.chm262146656
 f1_keywords:
 - vbawd10.chm262146656
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.PieSliceLocation
 ms.assetid: 85687cf7-b9a8-a51d-886c-c45092cbd929

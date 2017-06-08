@@ -3,7 +3,7 @@ title: Range.WholeStory Method (Word)
 keywords: vbawd10.chm157155456
 f1_keywords:
 - vbawd10.chm157155456
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.WholeStory
 ms.assetid: bb55c363-b3c0-e1aa-5e25-74cf2a1954c8

@@ -3,7 +3,7 @@ title: HorizontalLineFormat Object (Word)
 keywords: vbawd10.chm2526
 f1_keywords:
 - vbawd10.chm2526
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HorizontalLineFormat
 ms.assetid: 55296fc7-9b7e-dcdb-00e0-901015cf0efb

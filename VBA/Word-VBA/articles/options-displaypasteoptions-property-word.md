@@ -3,7 +3,7 @@ title: Options.DisplayPasteOptions Property (Word)
 keywords: vbawd10.chm162988471
 f1_keywords:
 - vbawd10.chm162988471
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DisplayPasteOptions
 ms.assetid: 518789bd-4a9e-a3c7-0fab-16e44f63e68d

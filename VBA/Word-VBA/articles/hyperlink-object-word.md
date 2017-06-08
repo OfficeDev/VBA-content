@@ -3,7 +3,7 @@ title: Hyperlink Object (Word)
 keywords: vbawd10.chm2461
 f1_keywords:
 - vbawd10.chm2461
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink
 ms.assetid: af785a9e-081a-e359-705f-04f490304e2e

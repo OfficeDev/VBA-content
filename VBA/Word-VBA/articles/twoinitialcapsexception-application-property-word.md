@@ -3,7 +3,7 @@ title: TwoInitialCapsException.Application Property (Word)
 keywords: vbawd10.chm155386856
 f1_keywords:
 - vbawd10.chm155386856
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TwoInitialCapsException.Application
 ms.assetid: 919095a2-8bd7-bef7-09e7-76208b1066f5

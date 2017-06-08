@@ -3,7 +3,7 @@ title: Revisions.Count Property (Word)
 keywords: vbawd10.chm159383557
 f1_keywords:
 - vbawd10.chm159383557
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revisions.Count
 ms.assetid: ebf5091e-10f1-26b4-0d26-4d73d2d350fb

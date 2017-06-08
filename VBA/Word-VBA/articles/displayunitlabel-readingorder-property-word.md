@@ -3,7 +3,7 @@ title: DisplayUnitLabel.ReadingOrder Property (Word)
 keywords: vbawd10.chm94568466
 f1_keywords:
 - vbawd10.chm94568466
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.ReadingOrder
 ms.assetid: 0d5c265a-0cfb-cce7-f37a-e5ef5776453f

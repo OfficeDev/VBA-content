@@ -1,6 +1,6 @@
 ---
 title: Hyperlinks Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 25801753-737f-9219-6a14-6531eb2ca699
 ms.date: 06/08/2017
 ---

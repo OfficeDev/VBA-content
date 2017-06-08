@@ -3,7 +3,7 @@ title: LetterContent.PageDesign Property (Word)
 keywords: vbawd10.chm161546343
 f1_keywords:
 - vbawd10.chm161546343
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.PageDesign
 ms.assetid: 8544d8c1-3e43-22f5-794f-8bd7636f8a0e

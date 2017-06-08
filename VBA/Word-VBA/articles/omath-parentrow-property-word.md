@@ -3,7 +3,7 @@ title: OMath.ParentRow Property (Word)
 keywords: vbawd10.chm176357484
 f1_keywords:
 - vbawd10.chm176357484
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.ParentRow
 ms.assetid: 92389946-d081-26ff-a589-a4350e7359c9

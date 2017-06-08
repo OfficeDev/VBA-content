@@ -3,7 +3,7 @@ title: Selection.Columns Property (Word)
 keywords: vbawd10.chm158662958
 f1_keywords:
 - vbawd10.chm158662958
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Columns
 ms.assetid: 444726a7-0bbe-8d66-b3ca-113af074e673

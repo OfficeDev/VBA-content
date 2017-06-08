@@ -3,7 +3,7 @@ title: Options.MatchFuzzyDash Property (Word)
 keywords: vbawd10.chm162988345
 f1_keywords:
 - vbawd10.chm162988345
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyDash
 ms.assetid: 141535f8-158d-c20c-34cf-6ed19a2601b2

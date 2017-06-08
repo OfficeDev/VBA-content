@@ -3,7 +3,7 @@ title: Range.ListStyle Property (Word)
 keywords: vbawd10.chm157155750
 f1_keywords:
 - vbawd10.chm157155750
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ListStyle
 ms.assetid: 5bbeaeab-5dfa-6c3e-ba42-fb0af2940674

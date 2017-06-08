@@ -1,6 +1,6 @@
 ---
 title: WdBookmarkSortBy Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdBookmarkSortBy
 ms.assetid: 854dadea-372d-f8c0-40e5-ce98036e49f2

@@ -3,7 +3,7 @@ title: Options.AutoFormatApplyBulletedLists Property (Word)
 keywords: vbawd10.chm162988284
 f1_keywords:
 - vbawd10.chm162988284
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatApplyBulletedLists
 ms.assetid: a66aacd6-0709-d4ac-0af4-314a386ee39c

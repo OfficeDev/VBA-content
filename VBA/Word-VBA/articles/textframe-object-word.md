@@ -3,7 +3,7 @@ title: TextFrame Object (Word)
 keywords: vbawd10.chm2482
 f1_keywords:
 - vbawd10.chm2482
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame
 ms.assetid: 46f7e410-80d9-9fe9-2224-488b623f8592

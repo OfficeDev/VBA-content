@@ -3,7 +3,7 @@ title: PictureFormat.Contrast Property (Word)
 keywords: vbawd10.chm164298854
 f1_keywords:
 - vbawd10.chm164298854
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.Contrast
 ms.assetid: 43b91fc2-9a6d-c4d2-c68a-1c8f8a1a00b7

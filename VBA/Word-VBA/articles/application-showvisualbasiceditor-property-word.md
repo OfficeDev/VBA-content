@@ -3,7 +3,7 @@ title: Application.ShowVisualBasicEditor Property (Word)
 keywords: vbawd10.chm158335082
 f1_keywords:
 - vbawd10.chm158335082
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ShowVisualBasicEditor
 ms.assetid: eb0a9d3f-3eba-f7fb-2939-a7274744b4b8

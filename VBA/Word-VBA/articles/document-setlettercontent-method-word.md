@@ -3,7 +3,7 @@ title: Document.SetLetterContent Method (Word)
 keywords: vbawd10.chm158007421
 f1_keywords:
 - vbawd10.chm158007421
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SetLetterContent
 ms.assetid: 8c9b2f6e-34a7-41a3-761d-c1a5da141aba

@@ -3,7 +3,7 @@ title: Email.Creator Property (Word)
 keywords: vbawd10.chm165478501
 f1_keywords:
 - vbawd10.chm165478501
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Email.Creator
 ms.assetid: be3a596e-3067-49ad-f303-e87cbec5ad96

@@ -3,7 +3,7 @@ title: Language.WritingStyleList Property (Word)
 keywords: vbawd10.chm158138386
 f1_keywords:
 - vbawd10.chm158138386
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Language.WritingStyleList
 ms.assetid: 5a91ecaa-dce0-d9ab-0e25-ec9620fa7119

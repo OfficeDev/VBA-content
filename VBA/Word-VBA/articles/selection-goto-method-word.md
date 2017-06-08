@@ -3,7 +3,7 @@ title: Selection.GoTo Method (Word)
 keywords: vbawd10.chm158662829
 f1_keywords:
 - vbawd10.chm158662829
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.GoTo
 ms.assetid: 7a69e581-4047-ae62-e112-97fe2c2633bb

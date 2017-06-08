@@ -3,7 +3,7 @@ title: CaptionLabels.Item Method (Word)
 keywords: vbawd10.chm158859264
 f1_keywords:
 - vbawd10.chm158859264
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabels.Item
 ms.assetid: 84ca51e3-6a0a-b30b-a3eb-874543ce8c42

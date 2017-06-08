@@ -3,7 +3,7 @@ title: Options.DefaultBorderColorIndex Property (Word)
 keywords: vbawd10.chm162988369
 f1_keywords:
 - vbawd10.chm162988369
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DefaultBorderColorIndex
 ms.assetid: 8d430be3-b27e-7650-0c23-87436f088a0b

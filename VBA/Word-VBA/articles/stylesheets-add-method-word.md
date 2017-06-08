@@ -3,7 +3,7 @@ title: StyleSheets.Add Method (Word)
 keywords: vbawd10.chm209584130
 f1_keywords:
 - vbawd10.chm209584130
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StyleSheets.Add
 ms.assetid: 82659cfc-6681-93c8-299c-f570f23016b2

@@ -3,7 +3,7 @@ title: Templates.Parent Property (Word)
 keywords: vbawd10.chm161612778
 f1_keywords:
 - vbawd10.chm161612778
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Templates.Parent
 ms.assetid: 19070d0e-10e9-4588-d586-d780b33affd7

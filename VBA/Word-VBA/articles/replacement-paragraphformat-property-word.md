@@ -3,7 +3,7 @@ title: Replacement.ParagraphFormat Property (Word)
 keywords: vbawd10.chm162594827
 f1_keywords:
 - vbawd10.chm162594827
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.ParagraphFormat
 ms.assetid: 0cb9410e-74c9-0fd2-377e-c045dc0274c1

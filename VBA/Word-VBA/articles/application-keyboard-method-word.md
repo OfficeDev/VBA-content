@@ -3,7 +3,7 @@ title: Application.Keyboard Method (Word)
 keywords: vbawd10.chm158335422
 f1_keywords:
 - vbawd10.chm158335422
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Keyboard
 ms.assetid: 67745d17-3dec-b4d9-919e-49925f2a7e34

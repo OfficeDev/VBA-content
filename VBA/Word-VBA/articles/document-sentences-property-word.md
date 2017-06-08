@@ -3,7 +3,7 @@ title: Document.Sentences Property (Word)
 keywords: vbawd10.chm158007314
 f1_keywords:
 - vbawd10.chm158007314
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Sentences
 ms.assetid: 41906136-815c-4dfc-ad92-c16ad420ab91

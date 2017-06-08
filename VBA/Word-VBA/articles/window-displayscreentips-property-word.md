@@ -3,7 +3,7 @@ title: Window.DisplayScreenTips Property (Word)
 keywords: vbawd10.chm157417494
 f1_keywords:
 - vbawd10.chm157417494
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.DisplayScreenTips
 ms.assetid: fc90fe70-ed5d-b02c-63fd-59696ed70465

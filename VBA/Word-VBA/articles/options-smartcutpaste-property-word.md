@@ -3,7 +3,7 @@ title: Options.SmartCutPaste Property (Word)
 keywords: vbawd10.chm162988103
 f1_keywords:
 - vbawd10.chm162988103
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SmartCutPaste
 ms.assetid: 57e481b6-f3c4-8da4-2580-4abbbf21a95e

@@ -3,7 +3,7 @@ title: View.CollapseOutline Method (Word)
 keywords: vbawd10.chm161808485
 f1_keywords:
 - vbawd10.chm161808485
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.CollapseOutline
 ms.assetid: b22ac567-ef40-e47e-f0fc-311263675045

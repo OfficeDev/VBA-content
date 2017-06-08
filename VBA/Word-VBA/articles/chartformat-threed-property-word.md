@@ -3,7 +3,7 @@ title: ChartFormat.ThreeD Property (Word)
 keywords: vbawd10.chm203030536
 f1_keywords:
 - vbawd10.chm203030536
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFormat.ThreeD
 ms.assetid: c14ac841-39fa-8afd-59f1-0d5fa8f57a09

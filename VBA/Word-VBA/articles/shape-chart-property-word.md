@@ -3,7 +3,7 @@ title: Shape.Chart Property (Word)
 keywords: vbawd10.chm161480853
 f1_keywords:
 - vbawd10.chm161480853
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Chart
 ms.assetid: 5394f7e0-f33e-1b71-cb92-22a0dbda5c73

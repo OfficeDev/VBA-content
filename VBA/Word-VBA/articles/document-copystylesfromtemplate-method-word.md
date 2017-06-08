@@ -3,7 +3,7 @@ title: Document.CopyStylesFromTemplate Method (Word)
 keywords: vbawd10.chm158007422
 f1_keywords:
 - vbawd10.chm158007422
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CopyStylesFromTemplate
 ms.assetid: f02fbce7-f5aa-d71d-9043-f151f26bc9ec

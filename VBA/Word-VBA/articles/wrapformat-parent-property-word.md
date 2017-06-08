@@ -3,7 +3,7 @@ title: WrapFormat.Parent Property (Word)
 keywords: vbawd10.chm163775466
 f1_keywords:
 - vbawd10.chm163775466
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.Parent
 ms.assetid: 7860c17b-bf3c-a9d7-a8ae-eedd6a1dd3d6

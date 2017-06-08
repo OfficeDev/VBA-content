@@ -3,7 +3,7 @@ title: Global.PointsToPixels Method (Word)
 keywords: vbawd10.chm163119489
 f1_keywords:
 - vbawd10.chm163119489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.PointsToPixels
 ms.assetid: e119ddf1-851c-2870-73f4-52da1d17c035

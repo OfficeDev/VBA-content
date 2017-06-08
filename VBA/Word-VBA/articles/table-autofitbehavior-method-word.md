@@ -3,7 +3,7 @@ title: Table.AutoFitBehavior Method (Word)
 keywords: vbawd10.chm156303380
 f1_keywords:
 - vbawd10.chm156303380
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.AutoFitBehavior
 ms.assetid: 74e162a5-cde0-bdd3-2ea6-f78fb0ecca5a

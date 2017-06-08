@@ -3,7 +3,7 @@ title: Options.AutoFormatAsYouTypeReplaceOrdinals Property (Word)
 keywords: vbawd10.chm162988298
 f1_keywords:
 - vbawd10.chm162988298
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeReplaceOrdinals
 ms.assetid: eebf3119-8743-834f-7425-5adc60a1a7ef

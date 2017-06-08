@@ -3,7 +3,7 @@ title: HangulHanjaConversionDictionaries.Count Property (Word)
 keywords: vbawd10.chm165675009
 f1_keywords:
 - vbawd10.chm165675009
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.Count
 ms.assetid: 0dc95678-0036-f0c9-3d30-604e1d0a5b51

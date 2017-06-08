@@ -3,7 +3,7 @@ title: DropDown.Application Property (Word)
 keywords: vbawd10.chm153420776
 f1_keywords:
 - vbawd10.chm153420776
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropDown.Application
 ms.assetid: 38dd82d5-b74f-892c-5dea-e3f60da6033b

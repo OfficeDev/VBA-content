@@ -3,7 +3,7 @@ title: Series.ClearFormats Method (Word)
 keywords: vbawd10.chm123732080
 f1_keywords:
 - vbawd10.chm123732080
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ClearFormats
 ms.assetid: b4733fd8-d7be-8c8c-4baf-d241b80ab024

@@ -3,7 +3,7 @@ title: Range.PasteAppendTable Method (Word)
 keywords: vbawd10.chm157155742
 f1_keywords:
 - vbawd10.chm157155742
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.PasteAppendTable
 ms.assetid: dc3b9914-b0d6-aa85-a357-a96475680caf

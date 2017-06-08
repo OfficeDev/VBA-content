@@ -3,7 +3,7 @@ title: Application.MailMergeBeforeMerge Event (Word)
 keywords: vbawd10.chm4000018
 f1_keywords:
 - vbawd10.chm4000018
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MailMergeBeforeMerge
 ms.assetid: 968cf799-255f-b6fc-f576-7aec093ab1cb

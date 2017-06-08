@@ -3,7 +3,7 @@ title: CustomLabel.Application Property (Word)
 keywords: vbawd10.chm152372200
 f1_keywords:
 - vbawd10.chm152372200
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.Application
 ms.assetid: 9911ba77-79af-920e-3192-cfba59aeac77

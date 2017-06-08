@@ -3,7 +3,7 @@ title: DataLabel.Caption Property (Word)
 keywords: vbawd10.chm233898123
 f1_keywords:
 - vbawd10.chm233898123
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.Caption
 ms.assetid: d57d63df-240f-b951-60a6-fa1c1d408644

@@ -3,7 +3,7 @@ title: Options.MeasurementUnit Property (Word)
 keywords: vbawd10.chm162988058
 f1_keywords:
 - vbawd10.chm162988058
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MeasurementUnit
 ms.assetid: 7d5b1c89-eedd-9818-2137-d94e6f80d629

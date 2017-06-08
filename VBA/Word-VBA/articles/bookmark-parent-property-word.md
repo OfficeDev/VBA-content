@@ -3,7 +3,7 @@ title: Bookmark.Parent Property (Word)
 keywords: vbawd10.chm157811690
 f1_keywords:
 - vbawd10.chm157811690
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Parent
 ms.assetid: 0b633fc3-618c-b26e-b11f-e2685376dee4

@@ -3,7 +3,7 @@ title: Global.SynonymInfo Property (Word)
 keywords: vbawd10.chm163119163
 f1_keywords:
 - vbawd10.chm163119163
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.SynonymInfo
 ms.assetid: 792a9d40-2b03-6f3d-ed5e-2fc388a3b3d2

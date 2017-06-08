@@ -3,7 +3,7 @@ title: Bibliography.Sources Property (Word)
 keywords: vbawd10.chm101646439
 f1_keywords:
 - vbawd10.chm101646439
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bibliography.Sources
 ms.assetid: b7dc942d-e5e2-5ed9-9efa-15bf5ae1df51

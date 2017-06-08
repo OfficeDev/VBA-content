@@ -3,7 +3,7 @@ title: Cells.DistributeHeight Method (Word)
 keywords: vbawd10.chm155844814
 f1_keywords:
 - vbawd10.chm155844814
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.DistributeHeight
 ms.assetid: 0ae41e05-5ec1-4fcc-8ee1-c40c0a28714a

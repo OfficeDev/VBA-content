@@ -3,7 +3,7 @@ title: Style.Type Property (Word)
 keywords: vbawd10.chm153878531
 f1_keywords:
 - vbawd10.chm153878531
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Type
 ms.assetid: 2f065484-a7ec-0833-340f-93cbe954e4ba

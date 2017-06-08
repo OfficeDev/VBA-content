@@ -3,7 +3,7 @@ title: ShapeRange.Count Property (Word)
 keywords: vbawd10.chm162856962
 f1_keywords:
 - vbawd10.chm162856962
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Count
 ms.assetid: eeec0158-8936-1efa-5019-d51d4942dcad

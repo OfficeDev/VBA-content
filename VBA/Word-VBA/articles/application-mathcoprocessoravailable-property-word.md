@@ -3,7 +3,7 @@ title: Application.MathCoprocessorAvailable Property (Word)
 keywords: vbawd10.chm158335012
 f1_keywords:
 - vbawd10.chm158335012
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MathCoprocessorAvailable
 ms.assetid: 207b7f3f-4113-7069-51e3-10658ec3654f

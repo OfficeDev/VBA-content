@@ -3,7 +3,7 @@ title: Application.WindowBeforeRightClick Event (Word)
 keywords: vbawd10.chm4000012
 f1_keywords:
 - vbawd10.chm4000012
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WindowBeforeRightClick
 ms.assetid: c2d550e5-6781-a05f-41f6-eb9839aef208

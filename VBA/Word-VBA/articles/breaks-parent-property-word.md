@@ -3,7 +3,7 @@ title: Breaks.Parent Property (Word)
 keywords: vbawd10.chm50922474
 f1_keywords:
 - vbawd10.chm50922474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Breaks.Parent
 ms.assetid: b3da9f71-5b10-74cd-f2d9-5dd27fc60c52

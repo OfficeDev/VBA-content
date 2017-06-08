@@ -3,7 +3,7 @@ title: Range.Expand Method (Word)
 keywords: vbawd10.chm157155457
 f1_keywords:
 - vbawd10.chm157155457
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Expand
 ms.assetid: cf4a5705-ebda-fedb-4929-3e115d42a432

@@ -3,7 +3,7 @@ title: ProtectedViewWindow.ToggleRibbon Method (Word)
 keywords: vbawd10.chm231735399
 f1_keywords:
 - vbawd10.chm231735399
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.ToggleRibbon
 ms.assetid: 767f3efb-2dfe-c202-c544-f09486c660d9

@@ -3,7 +3,7 @@ title: TableOfAuthoritiesCategory.Application Property (Word)
 keywords: vbawd10.chm158794728
 f1_keywords:
 - vbawd10.chm158794728
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthoritiesCategory.Application
 ms.assetid: 5e2c283f-15bd-e1e0-b0a5-d19e1784f9b9

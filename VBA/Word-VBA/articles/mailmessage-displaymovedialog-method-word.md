@@ -3,7 +3,7 @@ title: MailMessage.DisplayMoveDialog Method (Word)
 keywords: vbawd10.chm163184976
 f1_keywords:
 - vbawd10.chm163184976
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMessage.DisplayMoveDialog
 ms.assetid: e913a4f3-e970-ae2f-84b1-c239cc57a15f

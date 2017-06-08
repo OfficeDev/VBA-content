@@ -1,6 +1,6 @@
 ---
 title: WdTemplateType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTemplateType
 ms.assetid: 980c0db3-8bcf-0d98-ccd2-6b1e6e294efe

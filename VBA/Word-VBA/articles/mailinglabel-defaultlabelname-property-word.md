@@ -3,7 +3,7 @@ title: MailingLabel.DefaultLabelName Property (Word)
 keywords: vbawd10.chm152502281
 f1_keywords:
 - vbawd10.chm152502281
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.DefaultLabelName
 ms.assetid: f874d60e-e75d-a8b8-6118-e73e467920f9

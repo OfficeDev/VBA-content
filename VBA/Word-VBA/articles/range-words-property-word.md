@@ -3,7 +3,7 @@ title: Range.Words Property (Word)
 keywords: vbawd10.chm157155379
 f1_keywords:
 - vbawd10.chm157155379
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Words
 ms.assetid: ada98916-b87c-7592-ee2d-561ed7067f39

@@ -3,7 +3,7 @@ title: DropCap Object (Word)
 keywords: vbawd10.chm2390
 f1_keywords:
 - vbawd10.chm2390
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropCap
 ms.assetid: 79daea90-657b-43db-34e3-08f7aed74591

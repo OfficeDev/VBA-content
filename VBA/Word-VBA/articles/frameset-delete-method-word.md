@@ -3,7 +3,7 @@ title: Frameset.Delete Method (Word)
 keywords: vbawd10.chm165806131
 f1_keywords:
 - vbawd10.chm165806131
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.Delete
 ms.assetid: 21290f22-9881-02a9-278c-055c0b8d1051

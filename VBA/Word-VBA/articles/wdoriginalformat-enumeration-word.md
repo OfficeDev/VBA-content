@@ -1,6 +1,6 @@
 ---
 title: WdOriginalFormat Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdOriginalFormat
 ms.assetid: d315f553-b84f-364d-35d0-1fe0340435e0

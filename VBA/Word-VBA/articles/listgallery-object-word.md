@@ -3,7 +3,7 @@ title: ListGallery Object (Word)
 keywords: vbawd10.chm2452
 f1_keywords:
 - vbawd10.chm2452
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListGallery
 ms.assetid: 4fa3af33-becd-0dfc-5c7a-a0e70714e045

@@ -3,7 +3,7 @@ title: TextInput.Creator Property (Word)
 keywords: vbawd10.chm153551849
 f1_keywords:
 - vbawd10.chm153551849
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextInput.Creator
 ms.assetid: 267f22b0-04b5-08d1-de75-f7099148a198

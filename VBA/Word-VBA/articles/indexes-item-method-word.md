@@ -3,7 +3,7 @@ title: Indexes.Item Method (Word)
 keywords: vbawd10.chm159121408
 f1_keywords:
 - vbawd10.chm159121408
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Item
 ms.assetid: 737eb9cb-a228-93db-9466-6c7a910afef6

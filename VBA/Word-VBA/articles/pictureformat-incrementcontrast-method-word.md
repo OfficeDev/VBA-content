@@ -3,7 +3,7 @@ title: PictureFormat.IncrementContrast Method (Word)
 keywords: vbawd10.chm164298763
 f1_keywords:
 - vbawd10.chm164298763
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.IncrementContrast
 ms.assetid: afde4afa-53b6-7dd2-57b2-c25a800fb69d

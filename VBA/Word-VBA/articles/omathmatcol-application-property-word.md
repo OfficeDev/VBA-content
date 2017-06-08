@@ -3,7 +3,7 @@ title: OMathMatCol.Application Property (Word)
 keywords: vbawd10.chm24445028
 f1_keywords:
 - vbawd10.chm24445028
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatCol.Application
 ms.assetid: f3bde7fb-cc5b-9a4f-eeee-1f9efd53fce6

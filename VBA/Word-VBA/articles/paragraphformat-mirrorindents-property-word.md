@@ -3,7 +3,7 @@ title: ParagraphFormat.MirrorIndents Property (Word)
 keywords: vbawd10.chm156434566
 f1_keywords:
 - vbawd10.chm156434566
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ParagraphFormat.MirrorIndents
 ms.assetid: 51521bd0-f492-c83c-1688-04779fa5cd53

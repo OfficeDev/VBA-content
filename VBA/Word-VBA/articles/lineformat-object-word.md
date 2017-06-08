@@ -3,7 +3,7 @@ title: LineFormat Object (Word)
 keywords: vbawd10.chm2506
 f1_keywords:
 - vbawd10.chm2506
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat
 ms.assetid: 28fabccb-d03f-3466-9d07-ea3ebc4cdd11

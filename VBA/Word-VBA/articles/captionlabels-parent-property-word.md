@@ -3,7 +3,7 @@ title: CaptionLabels.Parent Property (Word)
 keywords: vbawd10.chm158860266
 f1_keywords:
 - vbawd10.chm158860266
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabels.Parent
 ms.assetid: b0fbc4f3-c379-a29c-ce12-b7a3d9bdab63

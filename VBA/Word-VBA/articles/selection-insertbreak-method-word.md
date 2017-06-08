@@ -3,7 +3,7 @@ title: Selection.InsertBreak Method (Word)
 keywords: vbawd10.chm158662778
 f1_keywords:
 - vbawd10.chm158662778
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertBreak
 ms.assetid: 2c9d8cb8-1cc1-3d69-1e26-3a6878c0b1da

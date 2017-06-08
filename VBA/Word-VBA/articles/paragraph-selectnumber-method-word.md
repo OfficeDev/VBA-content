@@ -3,7 +3,7 @@ title: Paragraph.SelectNumber Method (Word)
 keywords: vbawd10.chm156696911
 f1_keywords:
 - vbawd10.chm156696911
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.SelectNumber
 ms.assetid: 9b5999d4-da07-8a32-4aa9-9b62f9cd9e31

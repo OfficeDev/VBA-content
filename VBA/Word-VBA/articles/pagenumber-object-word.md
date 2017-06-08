@@ -1,6 +1,6 @@
 ---
 title: PageNumber Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumber
 ms.assetid: 5b58f562-de19-ac9d-0b2c-7696603c1606

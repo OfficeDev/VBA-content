@@ -3,7 +3,7 @@ title: Bookmark Object (Word)
 keywords: vbawd10.chm2408
 f1_keywords:
 - vbawd10.chm2408
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark
 ms.assetid: be6b0c7b-60ca-97e7-ef19-6de335da3197

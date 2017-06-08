@@ -1,6 +1,6 @@
 ---
 title: WdHelpType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdHelpType
 ms.assetid: 798a78ec-73cc-62aa-32fd-19f08c4c556f

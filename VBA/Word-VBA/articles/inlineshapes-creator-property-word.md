@@ -3,7 +3,7 @@ title: InlineShapes.Creator Property (Word)
 keywords: vbawd10.chm162071529
 f1_keywords:
 - vbawd10.chm162071529
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShapes.Creator
 ms.assetid: 6f60b57b-12a8-997d-8043-ac33ab1e6840

@@ -3,7 +3,7 @@ title: AutoCorrect.CorrectTableCells Property (Word)
 keywords: vbawd10.chm155779091
 f1_keywords:
 - vbawd10.chm155779091
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.CorrectTableCells
 ms.assetid: 8bb5dfdd-9c54-b49e-609f-18b4d8b556ee

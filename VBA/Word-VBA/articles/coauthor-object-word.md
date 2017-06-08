@@ -3,7 +3,7 @@ title: CoAuthor Object (Word)
 keywords: vbawd10.chm1237
 f1_keywords:
 - vbawd10.chm1237
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthor
 ms.assetid: d1b58eea-4570-ffd3-4c13-a74a998b079e

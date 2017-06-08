@@ -3,7 +3,7 @@ title: Global.FindKey Property (Word)
 keywords: vbawd10.chm163119175
 f1_keywords:
 - vbawd10.chm163119175
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.FindKey
 ms.assetid: 79203ae9-dcc9-ffb1-d974-0eb814268d6e

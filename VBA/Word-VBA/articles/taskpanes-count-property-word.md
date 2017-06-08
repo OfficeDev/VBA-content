@@ -3,7 +3,7 @@ title: TaskPanes.Count Property (Word)
 keywords: vbawd10.chm201654274
 f1_keywords:
 - vbawd10.chm201654274
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TaskPanes.Count
 ms.assetid: 8e1e4bcd-9d4b-b7b6-e847-17d249d20896

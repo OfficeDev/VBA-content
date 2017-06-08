@@ -3,7 +3,7 @@ title: ChartFont.Creator Property (Word)
 keywords: vbawd10.chm255918229
 f1_keywords:
 - vbawd10.chm255918229
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Creator
 ms.assetid: d5be9856-817e-a03e-1f7d-43ef421f23f5

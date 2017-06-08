@@ -3,7 +3,7 @@ title: ChartFont.StrikeThrough Property (Word)
 keywords: vbawd10.chm255918100
 f1_keywords:
 - vbawd10.chm255918100
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.StrikeThrough
 ms.assetid: 8dbdd698-989f-5066-a64e-75556b145391

@@ -3,7 +3,7 @@ title: Font.Superscript Property (Word)
 keywords: vbawd10.chm156369035
 f1_keywords:
 - vbawd10.chm156369035
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Superscript
 ms.assetid: 07a1f270-263e-00af-ed8f-3b9d2904e78b

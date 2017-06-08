@@ -3,7 +3,7 @@ title: LegendKey.Left Property (Word)
 keywords: vbawd10.chm266207359
 f1_keywords:
 - vbawd10.chm266207359
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LegendKey.Left
 ms.assetid: 6ced807c-affc-ad14-7287-32ee589f424c

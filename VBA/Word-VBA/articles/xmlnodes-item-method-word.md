@@ -3,7 +3,7 @@ title: XMLNodes.Item Method (Word)
 keywords: vbawd10.chm255983616
 f1_keywords:
 - vbawd10.chm255983616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNodes.Item
 ms.assetid: 03214cdd-b974-eaf2-e4f6-0c5b2f7a1781

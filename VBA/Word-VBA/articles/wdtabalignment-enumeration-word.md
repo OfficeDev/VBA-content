@@ -1,6 +1,6 @@
 ---
 title: WdTabAlignment Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTabAlignment
 ms.assetid: 4fa9480e-6383-5326-c8b5-f49740392037

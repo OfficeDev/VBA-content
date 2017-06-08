@@ -1,6 +1,6 @@
 ---
 title: WdBrowseTarget Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdBrowseTarget
 ms.assetid: 3fe1ffab-84d9-3e76-eceb-32d166e05bad

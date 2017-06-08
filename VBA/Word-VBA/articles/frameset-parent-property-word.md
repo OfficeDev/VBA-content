@@ -3,7 +3,7 @@ title: Frameset.Parent Property (Word)
 keywords: vbawd10.chm165807082
 f1_keywords:
 - vbawd10.chm165807082
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.Parent
 ms.assetid: e115f092-802d-cb90-dada-33d7831dcb43

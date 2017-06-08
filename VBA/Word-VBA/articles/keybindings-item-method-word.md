@@ -3,7 +3,7 @@ title: KeyBindings.Item Method (Word)
 keywords: vbawd10.chm160825344
 f1_keywords:
 - vbawd10.chm160825344
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBindings.Item
 ms.assetid: b3f8ad6b-2244-0f7d-4e8f-443958d78021

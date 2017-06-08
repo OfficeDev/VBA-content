@@ -3,7 +3,7 @@ title: Table.ApplyStyleHeadingRows Property (Word)
 keywords: vbawd10.chm156303562
 f1_keywords:
 - vbawd10.chm156303562
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.ApplyStyleHeadingRows
 ms.assetid: 1c7fb6d5-9010-fded-d882-388d1e631da2

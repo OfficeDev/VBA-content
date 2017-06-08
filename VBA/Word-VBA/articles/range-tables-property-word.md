@@ -3,7 +3,7 @@ title: Range.Tables Property (Word)
 keywords: vbawd10.chm157155378
 f1_keywords:
 - vbawd10.chm157155378
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Tables
 ms.assetid: 1c6604be-233c-efb2-5d05-63fc5aa78481

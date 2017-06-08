@@ -1,6 +1,6 @@
 ---
 title: XlBorderWeight Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 4e845cbe-9811-d5bb-847f-72c239793991
 ms.date: 06/08/2017
 ---

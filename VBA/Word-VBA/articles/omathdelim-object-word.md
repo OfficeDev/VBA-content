@@ -3,7 +3,7 @@ title: OMathDelim Object (Word)
 keywords: vbawd10.chm2214
 f1_keywords:
 - vbawd10.chm2214
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathDelim
 ms.assetid: 6c203045-a0e0-6bf7-d8c7-01e991a3a168

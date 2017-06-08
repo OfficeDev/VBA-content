@@ -3,7 +3,7 @@ title: Document.Sync Property (Word)
 keywords: vbawd10.chm158007762
 f1_keywords:
 - vbawd10.chm158007762
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Sync
 ms.assetid: c48b0b07-84c6-0097-509c-ee6fb9b3784e

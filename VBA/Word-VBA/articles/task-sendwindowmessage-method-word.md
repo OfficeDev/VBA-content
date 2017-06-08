@@ -3,7 +3,7 @@ title: Task.SendWindowMessage Method (Word)
 keywords: vbawd10.chm159514638
 f1_keywords:
 - vbawd10.chm159514638
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task.SendWindowMessage
 ms.assetid: 3c4793b4-30cd-e27e-2b9f-cc5187304ddc

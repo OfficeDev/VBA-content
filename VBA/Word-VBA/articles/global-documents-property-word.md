@@ -3,7 +3,7 @@ title: Global.Documents Property (Word)
 keywords: vbawd10.chm163119105
 f1_keywords:
 - vbawd10.chm163119105
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Documents
 ms.assetid: a86bad22-aabf-dd0d-4b23-fc608d5db4c1

@@ -1,6 +1,6 @@
 ---
 title: WdPortugueseReform Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPortugueseReform
 ms.assetid: 41bbc549-b53b-eb4a-4c9d-e845d75a4eef

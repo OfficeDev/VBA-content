@@ -3,7 +3,7 @@ title: Window.DisplayRulers Property (Word)
 keywords: vbawd10.chm157417484
 f1_keywords:
 - vbawd10.chm157417484
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.DisplayRulers
 ms.assetid: 4e1f2dd1-641b-4fe7-c801-febba26372ec

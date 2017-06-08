@@ -3,7 +3,7 @@ title: ShapeRange.CanvasCropBottom Method (Word)
 keywords: vbawd10.chm162857103
 f1_keywords:
 - vbawd10.chm162857103
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.CanvasCropBottom
 ms.assetid: d602f76d-561d-cbb7-085a-e41de7c3fbb9

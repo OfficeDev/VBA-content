@@ -3,7 +3,7 @@ title: Series.Border Property (Word)
 keywords: vbawd10.chm123732096
 f1_keywords:
 - vbawd10.chm123732096
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Border
 ms.assetid: e7f8d59a-ac94-650d-337b-2d397e7b58c4

@@ -3,7 +3,7 @@ title: ShapeRange.Apply Method (Word)
 keywords: vbawd10.chm162856971
 f1_keywords:
 - vbawd10.chm162856971
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Apply
 ms.assetid: 175cbf2a-659c-c4b3-8d43-4c1601241dec

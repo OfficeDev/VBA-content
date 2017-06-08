@@ -3,7 +3,7 @@ title: XMLSchemaReferences.Count Property (Word)
 keywords: vbawd10.chm116129794
 f1_keywords:
 - vbawd10.chm116129794
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.Count
 ms.assetid: cb08104c-4790-204d-b4f9-d77023e64c76

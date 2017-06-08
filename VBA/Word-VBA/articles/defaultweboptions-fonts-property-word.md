@@ -3,7 +3,7 @@ title: DefaultWebOptions.Fonts Property (Word)
 keywords: vbawd10.chm165871631
 f1_keywords:
 - vbawd10.chm165871631
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.Fonts
 ms.assetid: 3a3247af-ae74-33f1-2944-0371bf13be6f

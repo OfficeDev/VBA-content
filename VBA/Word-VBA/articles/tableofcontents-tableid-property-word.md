@@ -3,7 +3,7 @@ title: TableOfContents.TableID Property (Word)
 keywords: vbawd10.chm152240133
 f1_keywords:
 - vbawd10.chm152240133
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.TableID
 ms.assetid: d95186f5-b6ee-20cd-840e-e55ec3f06d04

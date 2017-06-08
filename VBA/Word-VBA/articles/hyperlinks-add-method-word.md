@@ -3,7 +3,7 @@ title: Hyperlinks.Add Method (Word)
 keywords: vbawd10.chm161218661
 f1_keywords:
 - vbawd10.chm161218661
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlinks.Add
 ms.assetid: b838a93c-8ec8-e591-f2e9-c22a049c5335

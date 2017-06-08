@@ -3,7 +3,7 @@ title: Returning a Single Object from a Collection
 keywords: vbawd10.chm5212961
 f1_keywords:
 - vbawd10.chm5212961
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 8c0b84c0-582b-32f7-68e0-6383d0661e74
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Document.Activate Method (Word)
 keywords: vbawd10.chm158007409
 f1_keywords:
 - vbawd10.chm158007409
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Activate
 ms.assetid: 83cc5935-020b-470a-f7aa-7fea057ec08b

@@ -1,6 +1,6 @@
 ---
 title: ProtectedViewWindows Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindows
 ms.assetid: 62c2f4d5-1080-548e-730b-388308144dfe

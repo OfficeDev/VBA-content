@@ -3,7 +3,7 @@ title: Cell.Formula Method (Word)
 keywords: vbawd10.chm156106953
 f1_keywords:
 - vbawd10.chm156106953
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Formula
 ms.assetid: 0fec018a-5a6f-f5ec-ed1c-a963e53c27b3

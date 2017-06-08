@@ -3,7 +3,7 @@ title: ThreeDFormat.Visible Property (Word)
 keywords: vbawd10.chm164626543
 f1_keywords:
 - vbawd10.chm164626543
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Visible
 ms.assetid: 6e5cfe87-c2e4-7ee0-2574-cb33b2cacf96

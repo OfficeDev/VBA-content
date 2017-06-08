@@ -3,7 +3,7 @@ title: Global.AutoCorrect Property (Word)
 keywords: vbawd10.chm163119114
 f1_keywords:
 - vbawd10.chm163119114
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.AutoCorrect
 ms.assetid: 3565507b-c2b7-da6c-a725-ab925d695c6d

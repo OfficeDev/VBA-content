@@ -3,7 +3,7 @@ title: ThreeDFormat.FieldOfView Property (Word)
 keywords: vbawd10.chm164626556
 f1_keywords:
 - vbawd10.chm164626556
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.FieldOfView
 ms.assetid: 45a17841-4685-0c6f-af74-d33b1621891a

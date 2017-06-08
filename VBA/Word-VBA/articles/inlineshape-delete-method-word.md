@@ -3,7 +3,7 @@ title: InlineShape.Delete Method (Word)
 keywords: vbawd10.chm162005094
 f1_keywords:
 - vbawd10.chm162005094
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Delete
 ms.assetid: dd8e4d52-7d9c-4557-b349-ce797977bc84

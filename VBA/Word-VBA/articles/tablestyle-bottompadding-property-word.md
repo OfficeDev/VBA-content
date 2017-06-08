@@ -3,7 +3,7 @@ title: TableStyle.BottomPadding Property (Word)
 keywords: vbawd10.chm244776964
 f1_keywords:
 - vbawd10.chm244776964
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.BottomPadding
 ms.assetid: 9e5a6357-b935-a4d1-a603-11d143f54d2d

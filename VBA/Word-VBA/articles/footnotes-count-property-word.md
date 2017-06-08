@@ -3,7 +3,7 @@ title: Footnotes.Count Property (Word)
 keywords: vbawd10.chm155320322
 f1_keywords:
 - vbawd10.chm155320322
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnotes.Count
 ms.assetid: 6acdf855-1c18-dd55-2131-b2b3d19f26bc

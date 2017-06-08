@@ -3,7 +3,7 @@ title: LetterContent.MailingInstructions Property (Word)
 keywords: vbawd10.chm161546354
 f1_keywords:
 - vbawd10.chm161546354
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.MailingInstructions
 ms.assetid: a31f4a82-984d-8aae-294d-9ffaaa889028

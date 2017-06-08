@@ -3,7 +3,7 @@ title: Revision.MovedRange Property (Word)
 keywords: vbawd10.chm159449098
 f1_keywords:
 - vbawd10.chm159449098
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.MovedRange
 ms.assetid: 85f8b45e-a28f-7d02-6a2e-feb18562eb45

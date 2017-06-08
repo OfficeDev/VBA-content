@@ -3,7 +3,7 @@ title: Interior Object (Word)
 keywords: vbawd10.chm43
 f1_keywords:
 - vbawd10.chm43
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Interior
 ms.assetid: 6fc3e311-a7c9-bfa9-7459-9cea177b08e5

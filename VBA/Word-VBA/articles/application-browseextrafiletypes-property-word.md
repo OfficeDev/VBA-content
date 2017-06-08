@@ -3,7 +3,7 @@ title: Application.BrowseExtraFileTypes Property (Word)
 keywords: vbawd10.chm158335084
 f1_keywords:
 - vbawd10.chm158335084
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.BrowseExtraFileTypes
 ms.assetid: e411bb7a-d40f-1bda-5424-6202ba346717

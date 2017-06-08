@@ -3,7 +3,7 @@ title: MailMerge.Application Property (Word)
 keywords: vbawd10.chm153093096
 f1_keywords:
 - vbawd10.chm153093096
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.Application
 ms.assetid: c3e6e7f7-508d-87ac-eadb-e9a46a344b92

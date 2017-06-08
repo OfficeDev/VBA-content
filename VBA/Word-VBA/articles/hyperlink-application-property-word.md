@@ -3,7 +3,7 @@ title: Hyperlink.Application Property (Word)
 keywords: vbawd10.chm161285096
 f1_keywords:
 - vbawd10.chm161285096
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.Application
 ms.assetid: 26b63c29-55c0-62e9-e202-3e2934f3faf6

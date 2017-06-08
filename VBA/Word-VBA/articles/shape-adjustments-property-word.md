@@ -3,7 +3,7 @@ title: Shape.Adjustments Property (Word)
 keywords: vbawd10.chm161480804
 f1_keywords:
 - vbawd10.chm161480804
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Adjustments
 ms.assetid: 4e3d0258-a3d4-08af-20af-55fff8310a4e

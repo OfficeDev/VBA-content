@@ -3,7 +3,7 @@ title: Font.NameFarEast Property (Word)
 keywords: vbawd10.chm156369052
 f1_keywords:
 - vbawd10.chm156369052
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.NameFarEast
 ms.assetid: 8df21c3e-5f50-37ca-cde9-27f5b0551f8e

@@ -3,7 +3,7 @@ title: DataLabel.NumberFormatLocal Property (Word)
 keywords: vbawd10.chm233899081
 f1_keywords:
 - vbawd10.chm233899081
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.NumberFormatLocal
 ms.assetid: db5d6f4d-7109-80d5-834a-6b75d9ea56c7

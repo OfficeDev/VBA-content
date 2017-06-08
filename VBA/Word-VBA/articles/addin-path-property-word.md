@@ -3,7 +3,7 @@ title: AddIn.Path Property (Word)
 keywords: vbawd10.chm159252483
 f1_keywords:
 - vbawd10.chm159252483
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AddIn.Path
 ms.assetid: 0c9150fe-a57f-85d5-275b-a45916c35f76

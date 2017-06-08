@@ -3,7 +3,7 @@ title: Options.AnimateScreenMovements Property (Word)
 keywords: vbawd10.chm162988106
 f1_keywords:
 - vbawd10.chm162988106
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AnimateScreenMovements
 ms.assetid: 8f4a7986-887e-8752-4d77-6db54db58da6

@@ -3,7 +3,7 @@ title: OLEFormat.Label Property (Word)
 keywords: vbawd10.chm154337292
 f1_keywords:
 - vbawd10.chm154337292
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OLEFormat.Label
 ms.assetid: 3603bdee-3259-9068-9dfc-6861c253df97

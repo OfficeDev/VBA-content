@@ -3,7 +3,7 @@ title: Document.Password Property (Word)
 keywords: vbawd10.chm158007381
 f1_keywords:
 - vbawd10.chm158007381
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Password
 ms.assetid: 243f1735-5367-4ac9-5643-624ccf501abe

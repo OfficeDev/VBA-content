@@ -3,7 +3,7 @@ title: Options.ContextualSpeller Property (Word)
 keywords: vbawd10.chm162988517
 f1_keywords:
 - vbawd10.chm162988517
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ContextualSpeller
 ms.assetid: d75fc899-5b4e-b30c-661d-4fa2fad0ea38

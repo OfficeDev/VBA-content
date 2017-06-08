@@ -1,6 +1,6 @@
 ---
 title: WdOMathVertAlignType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdOMathVertAlignType
 ms.assetid: cfa6d15b-6e86-a34e-07aa-2541d03ae2f9

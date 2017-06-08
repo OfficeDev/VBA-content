@@ -3,7 +3,7 @@ title: ShapeRange.CanvasItems Property (Word)
 keywords: vbawd10.chm162857098
 f1_keywords:
 - vbawd10.chm162857098
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.CanvasItems
 ms.assetid: eeaff744-a3b7-02f9-4e6b-d32292f5f635

@@ -3,7 +3,7 @@ title: Point.Name Property (Word)
 keywords: vbawd10.chm262146651
 f1_keywords:
 - vbawd10.chm262146651
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Name
 ms.assetid: 96b45f01-d0d7-30a1-8cd9-d18c6e7c3b75

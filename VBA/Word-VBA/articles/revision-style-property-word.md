@@ -3,7 +3,7 @@ title: Revision.Style Property (Word)
 keywords: vbawd10.chm159449096
 f1_keywords:
 - vbawd10.chm159449096
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.Style
 ms.assetid: 6780dae4-b131-68b8-6f63-abde2bbf8584

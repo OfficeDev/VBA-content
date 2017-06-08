@@ -3,7 +3,7 @@ title: CoAuthoring.Updates Property (Word)
 keywords: vbawd10.chm254869510
 f1_keywords:
 - vbawd10.chm254869510
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.Updates
 ms.assetid: 89c99cbd-1b97-24b1-f614-d7ade4f383bc

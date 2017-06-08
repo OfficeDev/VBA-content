@@ -3,7 +3,7 @@ title: FormFields.Count Property (Word)
 keywords: vbawd10.chm153681921
 f1_keywords:
 - vbawd10.chm153681921
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormFields.Count
 ms.assetid: ef3cd67d-6713-4976-7cd2-930ef0cd84b2

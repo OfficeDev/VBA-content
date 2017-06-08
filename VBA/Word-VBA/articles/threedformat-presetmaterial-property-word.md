@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetMaterial Property (Word)
 keywords: vbawd10.chm164626539
 f1_keywords:
 - vbawd10.chm164626539
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetMaterial
 ms.assetid: 95cb7421-29fb-8905-7b0e-c43ec81f6dd5

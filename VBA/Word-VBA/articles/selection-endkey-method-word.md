@@ -3,7 +3,7 @@ title: Selection.EndKey Method (Word)
 keywords: vbawd10.chm158663161
 f1_keywords:
 - vbawd10.chm158663161
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.EndKey
 ms.assetid: 4f27681c-1117-99c2-1aba-bd97082bb8ba

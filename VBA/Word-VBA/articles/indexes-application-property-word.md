@@ -3,7 +3,7 @@ title: Indexes.Application Property (Word)
 keywords: vbawd10.chm159122408
 f1_keywords:
 - vbawd10.chm159122408
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Application
 ms.assetid: 929aef9b-6100-f549-791a-c46fbbb56663

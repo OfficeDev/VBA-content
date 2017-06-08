@@ -3,7 +3,7 @@ title: XMLNode.LastChild Property (Word)
 keywords: vbawd10.chm37748746
 f1_keywords:
 - vbawd10.chm37748746
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.LastChild
 ms.assetid: 96031a10-c2e9-2ada-67d0-c3c4cad53446

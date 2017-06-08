@@ -3,7 +3,7 @@ title: Row.Application Property (Word)
 keywords: vbawd10.chm156238824
 f1_keywords:
 - vbawd10.chm156238824
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Application
 ms.assetid: 911141b3-d705-2948-c9c8-4b0445c8e2c3

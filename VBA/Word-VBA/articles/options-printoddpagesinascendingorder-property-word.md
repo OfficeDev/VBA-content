@@ -3,7 +3,7 @@ title: Options.PrintOddPagesInAscendingOrder Property (Word)
 keywords: vbawd10.chm162988362
 f1_keywords:
 - vbawd10.chm162988362
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintOddPagesInAscendingOrder
 ms.assetid: c4759f97-ab6b-2df2-33b9-cf493fab1116

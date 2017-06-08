@@ -3,7 +3,7 @@ title: Columns.Parent Property (Word)
 keywords: vbawd10.chm155911146
 f1_keywords:
 - vbawd10.chm155911146
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Columns.Parent
 ms.assetid: fc245629-517e-3664-58cd-06c5c430e45c

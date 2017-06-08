@@ -3,7 +3,7 @@ title: Range.Orientation Property (Word)
 keywords: vbawd10.chm157155645
 f1_keywords:
 - vbawd10.chm157155645
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Orientation
 ms.assetid: 52fde061-7ae9-61a4-c66d-7ffe691e1f97

@@ -3,7 +3,7 @@ title: Document.Windows Property (Word)
 keywords: vbawd10.chm158007330
 f1_keywords:
 - vbawd10.chm158007330
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Windows
 ms.assetid: bb075fd7-2dae-18c9-f49a-0c478d840b76

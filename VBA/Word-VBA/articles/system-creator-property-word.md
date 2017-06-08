@@ -3,7 +3,7 @@ title: System.Creator Property (Word)
 keywords: vbawd10.chm154469353
 f1_keywords:
 - vbawd10.chm154469353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.System.Creator
 ms.assetid: 165d29a2-f01e-a754-95c1-e62f6179229e

@@ -3,7 +3,7 @@ title: Envelope.Application Property (Word)
 keywords: vbawd10.chm152568808
 f1_keywords:
 - vbawd10.chm152568808
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.Application
 ms.assetid: ec310e0e-d8d5-741c-f6b0-33df9ebd4514

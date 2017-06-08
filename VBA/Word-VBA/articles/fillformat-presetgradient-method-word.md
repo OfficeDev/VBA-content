@@ -3,7 +3,7 @@ title: FillFormat.PresetGradient Method (Word)
 keywords: vbawd10.chm164102157
 f1_keywords:
 - vbawd10.chm164102157
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.PresetGradient
 ms.assetid: bffe754d-6593-9684-abf4-b5d1e9df720e

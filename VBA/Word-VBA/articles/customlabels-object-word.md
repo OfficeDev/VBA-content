@@ -1,6 +1,6 @@
 ---
 title: CustomLabels Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 407e75b5-4116-fdc7-f0c1-dfd3809cdb41
 ms.date: 06/08/2017
 ---

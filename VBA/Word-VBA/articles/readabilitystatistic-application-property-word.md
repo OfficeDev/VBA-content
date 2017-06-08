@@ -3,7 +3,7 @@ title: ReadabilityStatistic.Application Property (Word)
 keywords: vbawd10.chm162464744
 f1_keywords:
 - vbawd10.chm162464744
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReadabilityStatistic.Application
 ms.assetid: 744952de-13c6-5cbf-66b1-19383b3d0623

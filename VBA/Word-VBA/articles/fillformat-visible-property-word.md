@@ -3,7 +3,7 @@ title: FillFormat.Visible Property (Word)
 keywords: vbawd10.chm164102257
 f1_keywords:
 - vbawd10.chm164102257
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.Visible
 ms.assetid: b502cfc8-3221-482c-6f5b-8502a52ef411

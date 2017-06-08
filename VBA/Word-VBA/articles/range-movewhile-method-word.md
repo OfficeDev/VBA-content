@@ -3,7 +3,7 @@ title: Range.MoveWhile Method (Word)
 keywords: vbawd10.chm157155440
 f1_keywords:
 - vbawd10.chm157155440
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.MoveWhile
 ms.assetid: 282464eb-60e6-df03-344f-6e666af8b01f

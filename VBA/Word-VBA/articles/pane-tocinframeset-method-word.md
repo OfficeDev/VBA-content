@@ -3,7 +3,7 @@ title: Pane.TOCInFrameset Method (Word)
 keywords: vbawd10.chm157286507
 f1_keywords:
 - vbawd10.chm157286507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.TOCInFrameset
 ms.assetid: fbc96c96-caff-b867-c468-21eec396e014

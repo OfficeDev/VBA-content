@@ -3,7 +3,7 @@ title: Style.Description Property (Word)
 keywords: vbawd10.chm153878530
 f1_keywords:
 - vbawd10.chm153878530
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Description
 ms.assetid: fec1fa70-7080-e159-b20c-1a389cbaf903

@@ -3,7 +3,7 @@ title: TickLabels.NumberFormatLinked Property (Word)
 keywords: vbawd10.chm167051270
 f1_keywords:
 - vbawd10.chm167051270
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TickLabels.NumberFormatLinked
 ms.assetid: c0daa894-b45e-69c1-540a-fa91599b105b

@@ -3,7 +3,7 @@ title: ListTemplate.Parent Property (Word)
 keywords: vbawd10.chm160367594
 f1_keywords:
 - vbawd10.chm160367594
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplate.Parent
 ms.assetid: 3e3332d9-8da7-93fe-6d4b-52aa6da81a0b

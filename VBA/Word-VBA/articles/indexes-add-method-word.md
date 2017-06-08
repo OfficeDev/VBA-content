@@ -3,7 +3,7 @@ title: Indexes.Add Method (Word)
 keywords: vbawd10.chm159121512
 f1_keywords:
 - vbawd10.chm159121512
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Add
 ms.assetid: 324fe848-5c93-d456-0e45-42be116b1b90

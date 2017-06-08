@@ -3,7 +3,7 @@ title: Series.Creator Property (Word)
 keywords: vbawd10.chm123732117
 f1_keywords:
 - vbawd10.chm123732117
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.Creator
 ms.assetid: 640e4150-6aa8-1001-de42-c2fbe5f94460

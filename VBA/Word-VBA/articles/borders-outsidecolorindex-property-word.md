@@ -3,7 +3,7 @@ title: Borders.OutsideColorIndex Property (Word)
 keywords: vbawd10.chm154927115
 f1_keywords:
 - vbawd10.chm154927115
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.OutsideColorIndex
 ms.assetid: e9d0a00d-d2c0-1a97-a484-e6da2ecef60a

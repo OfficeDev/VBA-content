@@ -3,7 +3,7 @@ title: Columns.First Property (Word)
 keywords: vbawd10.chm155910244
 f1_keywords:
 - vbawd10.chm155910244
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Columns.First
 ms.assetid: bb32abf3-c62d-b6af-d9c9-e94004842c72

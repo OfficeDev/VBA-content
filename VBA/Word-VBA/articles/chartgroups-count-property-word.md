@@ -3,7 +3,7 @@ title: ChartGroups.Count Property (Word)
 keywords: vbawd10.chm77004918
 f1_keywords:
 - vbawd10.chm77004918
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroups.Count
 ms.assetid: 400d14b9-4b05-d601-5003-35b5eb87a19f

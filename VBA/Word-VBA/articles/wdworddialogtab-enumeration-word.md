@@ -1,6 +1,6 @@
 ---
 title: WdWordDialogTab Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdWordDialogTab
 ms.assetid: 03059154-32d1-2e11-1428-331f2440406b

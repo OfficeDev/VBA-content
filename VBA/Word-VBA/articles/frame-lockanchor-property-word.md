@@ -3,7 +3,7 @@ title: Frame.LockAnchor Property (Word)
 keywords: vbawd10.chm153747462
 f1_keywords:
 - vbawd10.chm153747462
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.LockAnchor
 ms.assetid: 654dc51d-12bb-4168-f737-69f8de7da17a

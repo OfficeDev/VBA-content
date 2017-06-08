@@ -3,7 +3,7 @@ title: Application.PutFocusInMailHeader Method (Word)
 keywords: vbawd10.chm158335440
 f1_keywords:
 - vbawd10.chm158335440
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PutFocusInMailHeader
 ms.assetid: ca57a93b-1487-d19c-34c9-02484ce25485

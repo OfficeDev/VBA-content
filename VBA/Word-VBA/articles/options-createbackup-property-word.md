@@ -3,7 +3,7 @@ title: Options.CreateBackup Property (Word)
 keywords: vbawd10.chm162988073
 f1_keywords:
 - vbawd10.chm162988073
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.CreateBackup
 ms.assetid: 02933ae3-1c3b-8309-d496-09c44d28a616

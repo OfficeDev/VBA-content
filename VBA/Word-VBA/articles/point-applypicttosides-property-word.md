@@ -3,7 +3,7 @@ title: Point.ApplyPictToSides Property (Word)
 keywords: vbawd10.chm262145659
 f1_keywords:
 - vbawd10.chm262145659
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.ApplyPictToSides
 ms.assetid: 6f12c8f9-ec8f-18ca-9e77-ddc09a9be167

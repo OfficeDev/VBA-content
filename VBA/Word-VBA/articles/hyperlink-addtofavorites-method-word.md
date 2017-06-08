@@ -3,7 +3,7 @@ title: Hyperlink.AddToFavorites Method (Word)
 keywords: vbawd10.chm161284201
 f1_keywords:
 - vbawd10.chm161284201
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.AddToFavorites
 ms.assetid: 262f05e9-3697-a695-db2d-39162158ec41

@@ -3,7 +3,7 @@ title: PageNumber.Cut Method (Word)
 keywords: vbawd10.chm159842406
 f1_keywords:
 - vbawd10.chm159842406
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumber.Cut
 ms.assetid: 20813c72-2a09-8115-dbfe-ed738dbdbe7c

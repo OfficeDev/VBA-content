@@ -3,7 +3,7 @@ title: OMathBorderBox.StrikeBLTR Property (Word)
 keywords: vbawd10.chm116260974
 f1_keywords:
 - vbawd10.chm116260974
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBorderBox.StrikeBLTR
 ms.assetid: 74547e18-bf99-641b-bb68-aed13bc19057

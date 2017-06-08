@@ -3,7 +3,7 @@ title: OMathMat.PlcHoldHidden Property (Word)
 keywords: vbawd10.chm176029803
 f1_keywords:
 - vbawd10.chm176029803
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMat.PlcHoldHidden
 ms.assetid: ebc46941-8c4c-3511-42ac-72dcad557e2a

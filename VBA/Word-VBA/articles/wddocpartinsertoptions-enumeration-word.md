@@ -1,6 +1,6 @@
 ---
 title: WdDocPartInsertOptions Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDocPartInsertOptions
 ms.assetid: 6308899c-0877-6d11-97db-0402537ae8a0

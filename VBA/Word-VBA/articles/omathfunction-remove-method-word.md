@@ -3,7 +3,7 @@ title: OMathFunction.Remove Method (Word)
 keywords: vbawd10.chm22151369
 f1_keywords:
 - vbawd10.chm22151369
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Remove
 ms.assetid: 5c706b8d-39c1-c6c4-a5f5-e942d55a3a27

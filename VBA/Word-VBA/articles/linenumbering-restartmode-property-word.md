@@ -3,7 +3,7 @@ title: LineNumbering.RestartMode Property (Word)
 keywords: vbawd10.chm158466148
 f1_keywords:
 - vbawd10.chm158466148
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering.RestartMode
 ms.assetid: f812d5ab-4921-5d6e-a2f8-51d324c29333

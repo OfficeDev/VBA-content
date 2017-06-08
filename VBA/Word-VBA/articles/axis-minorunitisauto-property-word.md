@@ -3,7 +3,7 @@ title: Axis.MinorUnitIsAuto Property (Word)
 keywords: vbawd10.chm113049641
 f1_keywords:
 - vbawd10.chm113049641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MinorUnitIsAuto
 ms.assetid: 6ea041c2-b1f3-73b6-f9b4-707edc611ba4

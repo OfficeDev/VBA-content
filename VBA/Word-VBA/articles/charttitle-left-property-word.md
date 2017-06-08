@@ -3,7 +3,7 @@ title: ChartTitle.Left Property (Word)
 keywords: vbawd10.chm65273862
 f1_keywords:
 - vbawd10.chm65273862
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Left
 ms.assetid: ab1cbe1d-0378-3cd6-e349-aa4de30a9b8b

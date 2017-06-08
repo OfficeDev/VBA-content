@@ -3,7 +3,7 @@ title: Automating Common Word Tasks
 keywords: vbawd10.chm5210023
 f1_keywords:
 - vbawd10.chm5210023
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 52c50521-19a8-7f8e-537c-497fd22b5c2e
 ms.date: 06/08/2017
 ---

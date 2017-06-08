@@ -1,6 +1,6 @@
 ---
 title: Rectangles.Creator Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangles.Creator
 ms.assetid: 59f705bf-8d15-fb57-3809-3f5df35938aa

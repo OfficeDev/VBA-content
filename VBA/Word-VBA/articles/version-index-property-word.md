@@ -3,7 +3,7 @@ title: Version.Index Property (Word)
 keywords: vbawd10.chm162791426
 f1_keywords:
 - vbawd10.chm162791426
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version.Index
 ms.assetid: 74d00ebe-1ee5-b314-7b7c-2347123b08c9

@@ -3,7 +3,7 @@ title: Shape.Flip Method (Word)
 keywords: vbawd10.chm161480717
 f1_keywords:
 - vbawd10.chm161480717
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Flip
 ms.assetid: 6da14b0b-9e75-7891-dd92-db771cc242a4

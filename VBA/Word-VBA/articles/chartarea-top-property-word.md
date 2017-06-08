@@ -3,7 +3,7 @@ title: ChartArea.Top Property (Word)
 keywords: vbawd10.chm160039038
 f1_keywords:
 - vbawd10.chm160039038
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea.Top
 ms.assetid: ce59ca5d-ebb5-93bf-f68a-27d38ee941f6

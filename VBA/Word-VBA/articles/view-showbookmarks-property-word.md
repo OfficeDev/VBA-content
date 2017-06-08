@@ -3,7 +3,7 @@ title: View.ShowBookmarks Property (Word)
 keywords: vbawd10.chm161808406
 f1_keywords:
 - vbawd10.chm161808406
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowBookmarks
 ms.assetid: 20261163-6714-8361-b76d-34570868954b

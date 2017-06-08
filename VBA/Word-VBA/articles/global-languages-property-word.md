@@ -3,7 +3,7 @@ title: Global.Languages Property (Word)
 keywords: vbawd10.chm163119118
 f1_keywords:
 - vbawd10.chm163119118
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Languages
 ms.assetid: 6f0d87f8-f0f8-5865-3ba5-2a383c212998

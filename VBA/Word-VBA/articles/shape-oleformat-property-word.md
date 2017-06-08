@@ -3,7 +3,7 @@ title: Shape.OLEFormat Property (Word)
 keywords: vbawd10.chm161481204
 f1_keywords:
 - vbawd10.chm161481204
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.OLEFormat
 ms.assetid: d558bd26-207c-c308-889e-7316f5027c7f

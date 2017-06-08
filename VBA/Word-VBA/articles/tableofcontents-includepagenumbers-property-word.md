@@ -3,7 +3,7 @@ title: TableOfContents.IncludePageNumbers Property (Word)
 keywords: vbawd10.chm152240136
 f1_keywords:
 - vbawd10.chm152240136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.IncludePageNumbers
 ms.assetid: 2097f009-ae18-70c3-3f3b-dbabcee06fa5

@@ -3,7 +3,7 @@ title: OMathNary.E Property (Word)
 keywords: vbawd10.chm25428073
 f1_keywords:
 - vbawd10.chm25428073
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathNary.E
 ms.assetid: 8a76796e-a095-8ad6-b5ea-8e3a320f9484

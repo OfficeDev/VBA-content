@@ -1,6 +1,6 @@
 ---
 title: WdReferenceKind Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdReferenceKind
 ms.assetid: 8986d370-23b2-acfe-f60f-ca9c16d9a8e0

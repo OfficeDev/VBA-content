@@ -3,7 +3,7 @@ title: AxisTitle.Characters Property (Word)
 keywords: vbawd10.chm98238466
 f1_keywords:
 - vbawd10.chm98238466
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.Characters
 ms.assetid: a53ea4c6-a742-17b0-8120-1c16484c5995

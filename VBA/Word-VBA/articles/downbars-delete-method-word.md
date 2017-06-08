@@ -3,7 +3,7 @@ title: DownBars.Delete Method (Word)
 keywords: vbawd10.chm107151477
 f1_keywords:
 - vbawd10.chm107151477
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DownBars.Delete
 ms.assetid: 536c4723-a374-41ad-8ee5-aea2246dbd20

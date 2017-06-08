@@ -3,7 +3,7 @@ title: Range.ConvertHangulAndHanja Method (Word)
 keywords: vbawd10.chm157155549
 f1_keywords:
 - vbawd10.chm157155549
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ConvertHangulAndHanja
 ms.assetid: 2b640faf-da3c-a3b6-976b-d7dca3cb710f

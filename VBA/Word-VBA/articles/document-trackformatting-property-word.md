@@ -3,7 +3,7 @@ title: Document.TrackFormatting Property (Word)
 keywords: vbawd10.chm158007798
 f1_keywords:
 - vbawd10.chm158007798
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TrackFormatting
 ms.assetid: b3c39567-5aed-016b-2d43-d72be55c6ebd

@@ -3,7 +3,7 @@ title: Frameset.FrameDefaultURL Property (Word)
 keywords: vbawd10.chm165806116
 f1_keywords:
 - vbawd10.chm165806116
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.FrameDefaultURL
 ms.assetid: 596f57d4-2514-8cd0-2d97-20618051fd6c

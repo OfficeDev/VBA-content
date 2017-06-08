@@ -3,7 +3,7 @@ title: UndoRecord.EndCustomRecord Method (Word)
 keywords: vbawd10.chm56098818
 f1_keywords:
 - vbawd10.chm56098818
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UndoRecord.EndCustomRecord
 ms.assetid: af11d231-f799-d592-2bc5-de08030b41e4

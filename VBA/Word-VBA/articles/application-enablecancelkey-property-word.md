@@ -3,7 +3,7 @@ title: Application.EnableCancelKey Property (Word)
 keywords: vbawd10.chm158335076
 f1_keywords:
 - vbawd10.chm158335076
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.EnableCancelKey
 ms.assetid: dd7d6885-7306-c6f3-56ff-e6f828adc4ea

@@ -3,7 +3,7 @@ title: Options.UpdateFieldsAtPrint Property (Word)
 keywords: vbawd10.chm162988062
 f1_keywords:
 - vbawd10.chm162988062
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UpdateFieldsAtPrint
 ms.assetid: 065d63a9-7c07-c351-b18a-44dfa6b59078

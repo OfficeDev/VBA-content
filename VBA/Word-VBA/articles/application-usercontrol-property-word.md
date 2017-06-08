@@ -3,7 +3,7 @@ title: Application.UserControl Property (Word)
 keywords: vbawd10.chm158335077
 f1_keywords:
 - vbawd10.chm158335077
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.UserControl
 ms.assetid: 65cf8ccc-f846-cd86-a8d6-0b2951bad604

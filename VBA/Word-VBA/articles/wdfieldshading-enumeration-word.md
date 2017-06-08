@@ -1,6 +1,6 @@
 ---
 title: WdFieldShading Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFieldShading
 ms.assetid: b5964c3d-6025-4637-5d1f-f483e997801e

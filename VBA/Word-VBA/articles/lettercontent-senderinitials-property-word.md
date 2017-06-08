@@ -3,7 +3,7 @@ title: LetterContent.SenderInitials Property (Word)
 keywords: vbawd10.chm161546364
 f1_keywords:
 - vbawd10.chm161546364
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.SenderInitials
 ms.assetid: 8c2bdb64-840f-c442-a7b6-28c756701c30

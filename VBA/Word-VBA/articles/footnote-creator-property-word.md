@@ -3,7 +3,7 @@ title: Footnote.Creator Property (Word)
 keywords: vbawd10.chm155124713
 f1_keywords:
 - vbawd10.chm155124713
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnote.Creator
 ms.assetid: 38ed2317-24ab-c45a-c948-ab16401f1df6

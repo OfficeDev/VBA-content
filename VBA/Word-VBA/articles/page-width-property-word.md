@@ -3,7 +3,7 @@ title: Page.Width Property (Word)
 keywords: vbawd10.chm11075588
 f1_keywords:
 - vbawd10.chm11075588
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Page.Width
 ms.assetid: 530e4e99-4962-5887-6a1d-da328f43ffb8

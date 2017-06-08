@@ -3,7 +3,7 @@ title: CanvasShapes.AddTextbox Method (Word)
 keywords: vbawd10.chm7536659
 f1_keywords:
 - vbawd10.chm7536659
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.AddTextbox
 ms.assetid: b8688f8f-db7e-7cf6-12ea-d0712b4ce26b

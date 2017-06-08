@@ -3,7 +3,7 @@ title: Axis.MinimumScale Property (Word)
 keywords: vbawd10.chm113049632
 f1_keywords:
 - vbawd10.chm113049632
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MinimumScale
 ms.assetid: ccc3eb87-4839-5952-263b-00aad68b3521

@@ -1,6 +1,6 @@
 ---
 title: RecentFiles Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: WdDocumentKind Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdDocumentKind
 ms.assetid: 1cb7b4b2-c68a-50fd-fb59-805ebe76c3d4

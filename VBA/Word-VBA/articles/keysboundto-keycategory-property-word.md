@@ -3,7 +3,7 @@ title: KeysBoundTo.KeyCategory Property (Word)
 keywords: vbawd10.chm160890883
 f1_keywords:
 - vbawd10.chm160890883
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeysBoundTo.KeyCategory
 ms.assetid: 9dc7b783-171b-fea8-0d6d-4b9872b31f6d

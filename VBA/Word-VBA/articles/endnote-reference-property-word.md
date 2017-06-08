@@ -3,7 +3,7 @@ title: Endnote.Reference Property (Word)
 keywords: vbawd10.chm155058181
 f1_keywords:
 - vbawd10.chm155058181
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnote.Reference
 ms.assetid: 7e7bb259-8203-445c-fa84-80f1c05505d9

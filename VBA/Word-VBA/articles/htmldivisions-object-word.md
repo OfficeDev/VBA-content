@@ -3,7 +3,7 @@ title: HTMLDivisions Object (Word)
 keywords: vbawd10.chm2536
 f1_keywords:
 - vbawd10.chm2536
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivisions
 ms.assetid: fe896440-817f-5485-794c-c5e9700cd062

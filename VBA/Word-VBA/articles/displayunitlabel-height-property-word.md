@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Height Property (Word)
 keywords: vbawd10.chm94568571
 f1_keywords:
 - vbawd10.chm94568571
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Height
 ms.assetid: f69b85f2-c6f5-cf46-b75d-e6b96e79c3d2

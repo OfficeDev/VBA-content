@@ -3,7 +3,7 @@ title: Style.Linked Property (Word)
 keywords: vbawd10.chm153878554
 f1_keywords:
 - vbawd10.chm153878554
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Linked
 ms.assetid: d0b3be68-6131-39f0-1a8d-d9486755e19a

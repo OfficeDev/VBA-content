@@ -3,7 +3,7 @@ title: PlotArea.Parent Property (Word)
 keywords: vbawd10.chm53477526
 f1_keywords:
 - vbawd10.chm53477526
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Parent
 ms.assetid: 6ea941a1-cb03-7e55-1b35-a0a60ca087ff

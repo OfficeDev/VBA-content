@@ -3,7 +3,7 @@ title: ReadabilityStatistics.Count Property (Word)
 keywords: vbawd10.chm162398209
 f1_keywords:
 - vbawd10.chm162398209
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ReadabilityStatistics.Count
 ms.assetid: ef02be3f-96b8-9447-ca84-268b512833ef

@@ -3,7 +3,7 @@ title: AddIn.Compiled Property (Word)
 keywords: vbawd10.chm159252485
 f1_keywords:
 - vbawd10.chm159252485
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AddIn.Compiled
 ms.assetid: 812402c2-8755-cb40-beb8-e46cfba3e0ea

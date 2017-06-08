@@ -3,7 +3,7 @@ title: Conflict.Index Property (Word)
 keywords: vbawd10.chm78708741
 f1_keywords:
 - vbawd10.chm78708741
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflict.Index
 ms.assetid: a2a77fe7-9999-536f-3df3-0464316ea1cd

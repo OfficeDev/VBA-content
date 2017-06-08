@@ -3,7 +3,7 @@ title: OMathPhantom.Smash Property (Word)
 keywords: vbawd10.chm88146029
 f1_keywords:
 - vbawd10.chm88146029
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathPhantom.Smash
 ms.assetid: 7d1453f4-1aaf-9ca0-946b-7e38f564b19f

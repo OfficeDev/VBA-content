@@ -3,7 +3,7 @@ title: Source.Parent Property (Word)
 keywords: vbawd10.chm140836966
 f1_keywords:
 - vbawd10.chm140836966
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Source.Parent
 ms.assetid: 20d17106-f3fe-fc27-0e74-3e32836e5e6d

@@ -1,6 +1,6 @@
 ---
 title: Categories Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Categories
 ms.assetid: f5f5081d-4309-6617-28da-c369c1fe690c

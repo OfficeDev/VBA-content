@@ -3,7 +3,7 @@ title: Style.InUse Property (Word)
 keywords: vbawd10.chm153878534
 f1_keywords:
 - vbawd10.chm153878534
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.InUse
 ms.assetid: 6fbba751-f549-4175-6c1a-ec1f9abb478a

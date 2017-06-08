@@ -3,7 +3,7 @@ title: Conflict Object (Word)
 keywords: vbawd10.chm1201
 f1_keywords:
 - vbawd10.chm1201
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflict
 ms.assetid: e9fe0318-d3e3-7589-0c15-64210ac5b709

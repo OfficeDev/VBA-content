@@ -3,7 +3,7 @@ title: TableOfAuthorities.TabLeader Property (Word)
 keywords: vbawd10.chm152109068
 f1_keywords:
 - vbawd10.chm152109068
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.TabLeader
 ms.assetid: b437456d-30a2-8e47-2527-dab0b6a43755

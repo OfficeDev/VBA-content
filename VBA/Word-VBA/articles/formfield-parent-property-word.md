@@ -3,7 +3,7 @@ title: FormField.Parent Property (Word)
 keywords: vbawd10.chm153617386
 f1_keywords:
 - vbawd10.chm153617386
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Parent
 ms.assetid: a80f577e-8b51-7bc0-3afe-0ffb366e3265

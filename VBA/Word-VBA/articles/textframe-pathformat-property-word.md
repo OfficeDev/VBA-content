@@ -3,7 +3,7 @@ title: TextFrame.PathFormat Property (Word)
 keywords: vbawd10.chm162665365
 f1_keywords:
 - vbawd10.chm162665365
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.PathFormat
 ms.assetid: 16d389c8-eda3-dec6-a40c-056e70f51dec

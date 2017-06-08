@@ -3,7 +3,7 @@ title: Document.SetPasswordEncryptionOptions Method (Word)
 keywords: vbawd10.chm158007657
 f1_keywords:
 - vbawd10.chm158007657
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SetPasswordEncryptionOptions
 ms.assetid: 4e7c2c0a-cac2-6fa3-f237-f02c897757a1

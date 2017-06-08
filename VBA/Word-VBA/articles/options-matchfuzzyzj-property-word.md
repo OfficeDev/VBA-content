@@ -3,7 +3,7 @@ title: Options.MatchFuzzyZJ Property (Word)
 keywords: vbawd10.chm162988354
 f1_keywords:
 - vbawd10.chm162988354
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyZJ
 ms.assetid: 8f722df0-9fa4-3207-9cad-694cac2d955a

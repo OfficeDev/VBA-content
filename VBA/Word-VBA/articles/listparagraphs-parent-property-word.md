@@ -3,7 +3,7 @@ title: ListParagraphs.Parent Property (Word)
 keywords: vbawd10.chm160498666
 f1_keywords:
 - vbawd10.chm160498666
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListParagraphs.Parent
 ms.assetid: 40511d0f-cc6d-17ed-d3d8-9ccba03908c5

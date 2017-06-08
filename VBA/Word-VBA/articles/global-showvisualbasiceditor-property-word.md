@@ -3,7 +3,7 @@ title: Global.ShowVisualBasicEditor Property (Word)
 keywords: vbawd10.chm163119208
 f1_keywords:
 - vbawd10.chm163119208
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.ShowVisualBasicEditor
 ms.assetid: 8c9aeca6-64c3-f67d-1106-f0ab20c4d582

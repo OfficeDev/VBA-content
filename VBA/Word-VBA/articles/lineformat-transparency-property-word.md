@@ -3,7 +3,7 @@ title: LineFormat.Transparency Property (Word)
 keywords: vbawd10.chm164233327
 f1_keywords:
 - vbawd10.chm164233327
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineFormat.Transparency
 ms.assetid: c9b3adcb-c884-cfd1-6500-f430fdf86423

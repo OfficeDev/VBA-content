@@ -3,7 +3,7 @@ title: TabStops Object (Word)
 keywords: vbawd10.chm2389
 f1_keywords:
 - vbawd10.chm2389
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 2d3bcac4-db8c-05fe-1cc1-5d90774f84fb
 ms.date: 06/08/2017
 ---

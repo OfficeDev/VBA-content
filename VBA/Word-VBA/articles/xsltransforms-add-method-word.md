@@ -3,7 +3,7 @@ title: XSLTransforms.Add Method (Word)
 keywords: vbawd10.chm99221605
 f1_keywords:
 - vbawd10.chm99221605
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 017e0389-c414-3c73-4b9f-a130982339d2
 ms.date: 06/08/2017
 ---

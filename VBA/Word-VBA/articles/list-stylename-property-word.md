@@ -3,7 +3,7 @@ title: List.StyleName Property (Word)
 keywords: vbawd10.chm160563204
 f1_keywords:
 - vbawd10.chm160563204
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.StyleName
 ms.assetid: 3d55f975-f6a8-b201-6fd2-e2459fdd048e

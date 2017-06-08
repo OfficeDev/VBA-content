@@ -3,7 +3,7 @@ title: Selection.InRange Method (Word)
 keywords: vbawd10.chm158662782
 f1_keywords:
 - vbawd10.chm158662782
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InRange
 ms.assetid: 3759ad96-44b5-d63c-f4d5-844f937f4216

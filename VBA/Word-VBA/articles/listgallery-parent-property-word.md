@@ -3,7 +3,7 @@ title: ListGallery.Parent Property (Word)
 keywords: vbawd10.chm160695274
 f1_keywords:
 - vbawd10.chm160695274
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListGallery.Parent
 ms.assetid: ec3c73d6-9b3d-f2ea-f354-38fa80a16e6f

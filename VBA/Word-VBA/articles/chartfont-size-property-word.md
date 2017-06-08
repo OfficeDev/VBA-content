@@ -3,7 +3,7 @@ title: ChartFont.Size Property (Word)
 keywords: vbawd10.chm255918098
 f1_keywords:
 - vbawd10.chm255918098
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Size
 ms.assetid: 75062920-f306-1bfc-f1e0-e68a19d055e4

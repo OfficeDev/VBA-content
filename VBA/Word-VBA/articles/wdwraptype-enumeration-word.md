@@ -1,6 +1,6 @@
 ---
 title: WdWrapType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdWrapType
 ms.assetid: b572e6e5-707e-be2f-afd5-158369ed6e8e

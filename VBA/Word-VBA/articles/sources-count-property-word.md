@@ -1,6 +1,6 @@
 ---
 title: Sources.Count Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sources.Count
 ms.assetid: 06a6f0b3-1591-52b3-fcff-aca4324a80e3

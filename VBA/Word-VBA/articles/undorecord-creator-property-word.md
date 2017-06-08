@@ -3,7 +3,7 @@ title: UndoRecord.Creator Property (Word)
 keywords: vbawd10.chm56099817
 f1_keywords:
 - vbawd10.chm56099817
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UndoRecord.Creator
 ms.assetid: 8397c8ee-37d4-ec13-161a-4bd941226e2c

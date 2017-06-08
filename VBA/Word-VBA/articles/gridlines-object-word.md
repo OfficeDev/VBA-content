@@ -3,7 +3,7 @@ title: Gridlines Object (Word)
 keywords: vbawd10.chm175
 f1_keywords:
 - vbawd10.chm175
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.GridLines
 ms.assetid: 9dc77c2a-854f-63c0-4648-b7802fb6d9a2

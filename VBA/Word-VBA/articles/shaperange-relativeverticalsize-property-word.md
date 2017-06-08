@@ -3,7 +3,7 @@ title: ShapeRange.RelativeVerticalSize Property (Word)
 keywords: vbawd10.chm162857165
 f1_keywords:
 - vbawd10.chm162857165
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.RelativeVerticalSize
 ms.assetid: d0842799-9597-fae2-dd54-dfc404c14f59

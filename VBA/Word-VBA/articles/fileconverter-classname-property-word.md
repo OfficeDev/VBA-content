@@ -3,7 +3,7 @@ title: FileConverter.ClassName Property (Word)
 keywords: vbawd10.chm161021953
 f1_keywords:
 - vbawd10.chm161021953
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.ClassName
 ms.assetid: 71124adf-11fc-e42d-a9f5-940f7fea97af

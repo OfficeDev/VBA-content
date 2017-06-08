@@ -3,7 +3,7 @@ title: Range.InsertAutoText Method (Word)
 keywords: vbawd10.chm157155511
 f1_keywords:
 - vbawd10.chm157155511
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.InsertAutoText
 ms.assetid: d87ae18c-e527-bcf4-4939-5512a6fdaaf5

@@ -3,7 +3,7 @@ title: View.ShowFormat Property (Word)
 keywords: vbawd10.chm161808393
 f1_keywords:
 - vbawd10.chm161808393
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowFormat
 ms.assetid: 8171ff9b-5e5d-a3c1-2ea0-31743991ea8e

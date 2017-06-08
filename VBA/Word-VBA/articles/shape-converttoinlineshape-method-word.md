@@ -3,7 +3,7 @@ title: Shape.ConvertToInlineShape Method (Word)
 keywords: vbawd10.chm161480729
 f1_keywords:
 - vbawd10.chm161480729
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.ConvertToInlineShape
 ms.assetid: 367b6d36-dd62-aa2b-62df-d5f42ac2699c

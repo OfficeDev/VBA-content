@@ -3,7 +3,7 @@ title: Shape.SmartArt Property (Word)
 keywords: vbawd10.chm161480860
 f1_keywords:
 - vbawd10.chm161480860
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.SmartArt
 ms.assetid: d2f3fd89-288d-ac1e-18bb-00e2d043d4cd

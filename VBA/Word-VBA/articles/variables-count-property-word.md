@@ -3,7 +3,7 @@ title: Variables.Count Property (Word)
 keywords: vbawd10.chm157614082
 f1_keywords:
 - vbawd10.chm157614082
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variables.Count
 ms.assetid: 51f0f7db-8e6e-0427-d5f5-74af3ebf2872

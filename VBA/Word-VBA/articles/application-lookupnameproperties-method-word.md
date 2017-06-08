@@ -3,7 +3,7 @@ title: Application.LookupNameProperties Method (Word)
 keywords: vbawd10.chm158335279
 f1_keywords:
 - vbawd10.chm158335279
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.LookupNameProperties
 ms.assetid: e876b098-29c5-6302-97bb-c5f25ca4e101

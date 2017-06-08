@@ -3,7 +3,7 @@ title: Walls.Paste Method (Word)
 keywords: vbawd10.chm25166035
 f1_keywords:
 - vbawd10.chm25166035
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.Paste
 ms.assetid: f723f84b-4193-fd57-3e32-5134034482c1

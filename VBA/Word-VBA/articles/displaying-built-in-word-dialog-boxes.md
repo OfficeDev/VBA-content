@@ -3,7 +3,7 @@ title: Displaying Built-in Word Dialog Boxes
 keywords: vbawd10.chm5210531
 f1_keywords:
 - vbawd10.chm5210531
-ms.prod: WORD
+ms.prod: word
 ms.assetid: abe465f9-09a1-72ea-2e2d-9de14fc02434
 ms.date: 06/08/2017
 ---

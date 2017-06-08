@@ -3,7 +3,7 @@ title: WdAlertLevel Enumeration (Word)
 keywords: vbawd10.chm0
 f1_keywords:
 - vbawd10.chm0
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdAlertLevel
 ms.assetid: ecfcfb35-0fdc-0881-53aa-3c2e3f5350bf

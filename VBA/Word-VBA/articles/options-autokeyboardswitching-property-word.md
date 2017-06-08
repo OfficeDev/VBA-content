@@ -3,7 +3,7 @@ title: Options.AutoKeyboardSwitching Property (Word)
 keywords: vbawd10.chm162988431
 f1_keywords:
 - vbawd10.chm162988431
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoKeyboardSwitching
 ms.assetid: 22bc427f-20fd-107e-b3c0-c1ec9866a716

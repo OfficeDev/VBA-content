@@ -3,7 +3,7 @@ title: HeadingStyles.Item Method (Word)
 keywords: vbawd10.chm160038912
 f1_keywords:
 - vbawd10.chm160038912
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadingStyles.Item
 ms.assetid: 3dd43cbd-dd16-b2ed-de7f-2e70ac3aa886

@@ -3,7 +3,7 @@ title: Document.OMathWrap Property (Word)
 keywords: vbawd10.chm158007831
 f1_keywords:
 - vbawd10.chm158007831
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.OMathWrap
 ms.assetid: 486fad54-d0c2-3bab-83a0-b683b2e5fbbb

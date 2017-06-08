@@ -3,7 +3,7 @@ title: LetterContent.Subject Property (Word)
 keywords: vbawd10.chm161546356
 f1_keywords:
 - vbawd10.chm161546356
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.Subject
 ms.assetid: cfdf65ed-7a92-6462-b868-74c4cd3b17e2

@@ -3,7 +3,7 @@ title: OMathMatCol.ColIndex Property (Word)
 keywords: vbawd10.chm24445032
 f1_keywords:
 - vbawd10.chm24445032
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatCol.ColIndex
 ms.assetid: 607ba308-2c9f-e6a8-1573-0b853335b71e

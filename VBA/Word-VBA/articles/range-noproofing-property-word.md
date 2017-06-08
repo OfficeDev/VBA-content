@@ -3,7 +3,7 @@ title: Range.NoProofing Property (Word)
 keywords: vbawd10.chm157155651
 f1_keywords:
 - vbawd10.chm157155651
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.NoProofing
 ms.assetid: 0344239d-10bc-0e3e-9601-41c3c3bb6227

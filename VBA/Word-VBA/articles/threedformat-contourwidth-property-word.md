@@ -3,7 +3,7 @@ title: ThreeDFormat.ContourWidth Property (Word)
 keywords: vbawd10.chm164626554
 f1_keywords:
 - vbawd10.chm164626554
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.ContourWidth
 ms.assetid: 5444a451-8743-322a-efe5-ba6e34ddfd6c

@@ -3,7 +3,7 @@ title: FillFormat.ForeColor Property (Word)
 keywords: vbawd10.chm164102245
 f1_keywords:
 - vbawd10.chm164102245
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.ForeColor
 ms.assetid: 23ee2f7e-12f4-fba4-8b8c-9d6d4debe526

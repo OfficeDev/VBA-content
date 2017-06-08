@@ -3,7 +3,7 @@ title: OMathBreak.Delete Method (Word)
 keywords: vbawd10.chm97845354
 f1_keywords:
 - vbawd10.chm97845354
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreak.Delete
 ms.assetid: 27583320-f115-c2e7-1326-22b1316bc67e

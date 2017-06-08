@@ -3,7 +3,7 @@ title: Range.Find Property (Word)
 keywords: vbawd10.chm157155590
 f1_keywords:
 - vbawd10.chm157155590
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Find
 ms.assetid: 53c18061-5fb8-d331-33ff-5b81b628d509

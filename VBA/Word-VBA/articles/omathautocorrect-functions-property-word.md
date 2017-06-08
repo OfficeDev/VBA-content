@@ -3,7 +3,7 @@ title: OMathAutoCorrect.Functions Property (Word)
 keywords: vbawd10.chm258474090
 f1_keywords:
 - vbawd10.chm258474090
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrect.Functions
 ms.assetid: b60d5b0e-53e3-9f9b-7e8e-c1120796629f

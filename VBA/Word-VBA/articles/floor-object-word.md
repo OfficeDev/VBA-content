@@ -3,7 +3,7 @@ title: Floor Object (Word)
 keywords: vbawd10.chm702
 f1_keywords:
 - vbawd10.chm702
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor
 ms.assetid: 01d277eb-501b-09e5-65b8-83506c76ac05

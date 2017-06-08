@@ -3,7 +3,7 @@ title: Range.ImportFragment Method (Word)
 keywords: vbawd10.chm157155830
 f1_keywords:
 - vbawd10.chm157155830
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ImportFragment
 ms.assetid: d9feca50-6370-c1c2-00c0-e64ff7a5adb9

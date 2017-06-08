@@ -3,7 +3,7 @@ title: Frame.RelativeHorizontalPosition Property (Word)
 keywords: vbawd10.chm153747463
 f1_keywords:
 - vbawd10.chm153747463
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.RelativeHorizontalPosition
 ms.assetid: ff95768c-26c1-4be2-0a64-8626f2241e2a

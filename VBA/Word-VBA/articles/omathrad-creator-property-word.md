@@ -3,7 +3,7 @@ title: OMathRad.Creator Property (Word)
 keywords: vbawd10.chm247791717
 f1_keywords:
 - vbawd10.chm247791717
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRad.Creator
 ms.assetid: d5aeb0ee-f3e4-67aa-ba5c-bd526de0de0b

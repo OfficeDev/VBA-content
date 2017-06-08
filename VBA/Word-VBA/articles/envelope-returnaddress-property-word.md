@@ -3,7 +3,7 @@ title: Envelope.ReturnAddress Property (Word)
 keywords: vbawd10.chm152567810
 f1_keywords:
 - vbawd10.chm152567810
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.ReturnAddress
 ms.assetid: cbbbcc74-afb9-f646-caf8-171605de48c8

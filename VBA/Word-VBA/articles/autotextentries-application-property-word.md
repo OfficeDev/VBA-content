@@ -3,7 +3,7 @@ title: AutoTextEntries.Application Property (Word)
 keywords: vbawd10.chm154600424
 f1_keywords:
 - vbawd10.chm154600424
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntries.Application
 ms.assetid: 08589e55-10fa-d0a7-8916-1c2da0c81f0e

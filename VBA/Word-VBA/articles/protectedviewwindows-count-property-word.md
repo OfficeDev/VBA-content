@@ -3,7 +3,7 @@ title: ProtectedViewWindows.Count Property (Word)
 keywords: vbawd10.chm82313217
 f1_keywords:
 - vbawd10.chm82313217
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindows.Count
 ms.assetid: edd30c3f-6890-be71-57c0-0aa3b1dea1a5

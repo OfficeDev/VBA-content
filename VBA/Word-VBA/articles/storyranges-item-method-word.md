@@ -3,7 +3,7 @@ title: StoryRanges.Item Method (Word)
 keywords: vbawd10.chm160169984
 f1_keywords:
 - vbawd10.chm160169984
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StoryRanges.Item
 ms.assetid: 6d6cbde9-8e40-9ae7-a807-dc0889303aec

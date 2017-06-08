@@ -3,7 +3,7 @@ title: CustomLabels.Item Method (Word)
 keywords: vbawd10.chm152436736
 f1_keywords:
 - vbawd10.chm152436736
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabels.Item
 ms.assetid: 3b0734f9-de26-3722-7267-2665fa73d9f9

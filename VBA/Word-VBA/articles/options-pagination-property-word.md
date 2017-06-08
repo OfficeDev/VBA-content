@@ -3,7 +3,7 @@ title: Options.Pagination Property (Word)
 keywords: vbawd10.chm162988051
 f1_keywords:
 - vbawd10.chm162988051
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.Pagination
 ms.assetid: 885a621c-a1fd-e428-80a8-c0a7ca904a22

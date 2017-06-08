@@ -3,7 +3,7 @@ title: MailMergeFields.AddFillIn Method (Word)
 keywords: vbawd10.chm153026663
 f1_keywords:
 - vbawd10.chm153026663
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeFields.AddFillIn
 ms.assetid: aefd78e5-3439-473c-1b9b-7f58a3a45d55

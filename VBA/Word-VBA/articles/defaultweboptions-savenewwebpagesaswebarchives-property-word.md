@@ -3,7 +3,7 @@ title: DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Word)
 keywords: vbawd10.chm165871634
 f1_keywords:
 - vbawd10.chm165871634
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.SaveNewWebPagesAsWebArchives
 ms.assetid: a2c8a225-431e-9292-d081-bd71d27aae9c

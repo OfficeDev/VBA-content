@@ -3,7 +3,7 @@ title: Dialog.Type Property (Word)
 keywords: vbawd10.chm163053568
 f1_keywords:
 - vbawd10.chm163053568
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dialog.Type
 ms.assetid: 46906802-639b-fa40-01a7-64523a0451cc

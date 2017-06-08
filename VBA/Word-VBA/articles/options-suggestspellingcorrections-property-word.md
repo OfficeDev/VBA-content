@@ -3,7 +3,7 @@ title: Options.SuggestSpellingCorrections Property (Word)
 keywords: vbawd10.chm162988315
 f1_keywords:
 - vbawd10.chm162988315
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.SuggestSpellingCorrections
 ms.assetid: 2b4e821a-f44b-9166-5cf9-ff607164a99c

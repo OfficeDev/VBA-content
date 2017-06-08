@@ -3,7 +3,7 @@ title: TextFrame.AutoSize Property (Word)
 keywords: vbawd10.chm162665361
 f1_keywords:
 - vbawd10.chm162665361
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.AutoSize
 ms.assetid: 90fca98a-cac5-fa17-7b19-8bcf1c5e9ec3

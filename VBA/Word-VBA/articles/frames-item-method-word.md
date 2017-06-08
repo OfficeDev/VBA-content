@@ -3,7 +3,7 @@ title: Frames.Item Method (Word)
 keywords: vbawd10.chm153812992
 f1_keywords:
 - vbawd10.chm153812992
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frames.Item
 ms.assetid: 75822294-3f7b-70b2-4a0e-b42a6184192b

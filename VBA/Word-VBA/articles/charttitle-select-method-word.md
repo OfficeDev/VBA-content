@@ -3,7 +3,7 @@ title: ChartTitle.Select Method (Word)
 keywords: vbawd10.chm65273884
 f1_keywords:
 - vbawd10.chm65273884
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Select
 ms.assetid: f5649aee-838b-ff86-c097-8129ed520beb

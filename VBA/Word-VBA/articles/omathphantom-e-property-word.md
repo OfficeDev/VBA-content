@@ -3,7 +3,7 @@ title: OMathPhantom.E Property (Word)
 keywords: vbawd10.chm88146023
 f1_keywords:
 - vbawd10.chm88146023
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathPhantom.E
 ms.assetid: aa71743e-1060-5a1b-a471-0cb0decb9d69

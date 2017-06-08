@@ -3,7 +3,7 @@ title: Selection.Copy Method (Word)
 keywords: vbawd10.chm158662776
 f1_keywords:
 - vbawd10.chm158662776
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Copy
 ms.assetid: 5af32d69-5c0f-428a-44f3-35c75b5fb050

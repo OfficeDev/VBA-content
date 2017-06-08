@@ -3,7 +3,7 @@ title: MailMergeDataFields.Item Method (Word)
 keywords: vbawd10.chm152698880
 f1_keywords:
 - vbawd10.chm152698880
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataFields.Item
 ms.assetid: fd4894c6-4159-8bd4-a6b7-85f06788100f

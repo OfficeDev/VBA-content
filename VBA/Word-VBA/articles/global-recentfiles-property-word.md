@@ -3,7 +3,7 @@ title: Global.RecentFiles Property (Word)
 keywords: vbawd10.chm163119111
 f1_keywords:
 - vbawd10.chm163119111
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.RecentFiles
 ms.assetid: e1004877-5fe4-8945-6b7d-8f5279201362

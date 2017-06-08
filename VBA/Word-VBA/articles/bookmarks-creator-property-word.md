@@ -3,7 +3,7 @@ title: Bookmarks.Creator Property (Word)
 keywords: vbawd10.chm157746153
 f1_keywords:
 - vbawd10.chm157746153
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmarks.Creator
 ms.assetid: 897e3571-2147-c92c-e07a-0bd0d75b107b

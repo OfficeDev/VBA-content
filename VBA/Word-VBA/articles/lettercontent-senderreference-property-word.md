@@ -3,7 +3,7 @@ title: LetterContent.SenderReference Property (Word)
 keywords: vbawd10.chm161546372
 f1_keywords:
 - vbawd10.chm161546372
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.SenderReference
 ms.assetid: a20edd1b-5bd8-df19-2967-f3cf0a3c1004

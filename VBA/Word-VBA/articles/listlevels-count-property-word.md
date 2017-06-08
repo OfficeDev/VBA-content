@@ -3,7 +3,7 @@ title: ListLevels.Count Property (Word)
 keywords: vbawd10.chm160301058
 f1_keywords:
 - vbawd10.chm160301058
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevels.Count
 ms.assetid: 7b62af02-3ba9-eca9-97f7-eb9713e52e12

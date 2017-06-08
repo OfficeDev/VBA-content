@@ -3,7 +3,7 @@ title: Find Object (Word)
 keywords: vbawd10.chm2480
 f1_keywords:
 - vbawd10.chm2480
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find
 ms.assetid: da822788-cad5-992a-a835-18cc574cc324

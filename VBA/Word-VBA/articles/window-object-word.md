@@ -3,7 +3,7 @@ title: Window Object (Word)
 keywords: vbawd10.chm2402
 f1_keywords:
 - vbawd10.chm2402
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window
 ms.assetid: d92f83f9-ae44-56c0-4584-7a9359253c6d

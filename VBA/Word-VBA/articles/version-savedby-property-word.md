@@ -3,7 +3,7 @@ title: Version.SavedBy Property (Word)
 keywords: vbawd10.chm162792427
 f1_keywords:
 - vbawd10.chm162792427
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version.SavedBy
 ms.assetid: 4e92d644-48e2-8dd7-ffef-9b626e4ca908

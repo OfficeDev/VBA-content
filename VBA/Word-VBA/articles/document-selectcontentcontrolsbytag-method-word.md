@@ -3,7 +3,7 @@ title: Document.SelectContentControlsByTag Method (Word)
 keywords: vbawd10.chm158007858
 f1_keywords:
 - vbawd10.chm158007858
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SelectContentControlsByTag
 ms.assetid: e61d5f1a-b838-e8f6-f72d-da7df327fd27

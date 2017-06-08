@@ -3,7 +3,7 @@ title: Document.CommandBars Property (Word)
 keywords: vbawd10.chm158007353
 f1_keywords:
 - vbawd10.chm158007353
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CommandBars
 ms.assetid: 80b82381-691b-7995-aa3e-afdf764429d6

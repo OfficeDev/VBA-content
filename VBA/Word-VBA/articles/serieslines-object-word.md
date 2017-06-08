@@ -3,7 +3,7 @@ title: SeriesLines Object (Word)
 keywords: vbawd10.chm3093
 f1_keywords:
 - vbawd10.chm3093
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesLines
 ms.assetid: 7521c592-c5aa-8e50-6268-840a41b3a282

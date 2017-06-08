@@ -3,7 +3,7 @@ title: Options.PasteMergeFromXL Property (Word)
 keywords: vbawd10.chm162988466
 f1_keywords:
 - vbawd10.chm162988466
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PasteMergeFromXL
 ms.assetid: d09c2244-71f5-3345-fcbe-14a307f23da3

@@ -3,7 +3,7 @@ title: Range.Move Method (Word)
 keywords: vbawd10.chm157155437
 f1_keywords:
 - vbawd10.chm157155437
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Move
 ms.assetid: 40c73c63-12da-4e8c-05c3-121f4df57f3f

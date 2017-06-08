@@ -3,7 +3,7 @@ title: AutoCorrect.CorrectCapsLock Property (Word)
 keywords: vbawd10.chm155779083
 f1_keywords:
 - vbawd10.chm155779083
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.CorrectCapsLock
 ms.assetid: 2bbc35cc-3eb3-dc1d-250d-8d4c2a5f9cd3

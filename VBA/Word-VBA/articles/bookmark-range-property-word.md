@@ -3,7 +3,7 @@ title: Bookmark.Range Property (Word)
 keywords: vbawd10.chm157810689
 f1_keywords:
 - vbawd10.chm157810689
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.Range
 ms.assetid: 1d96bbb4-a3f4-dffb-7094-63a48a4b9b8a

@@ -3,7 +3,7 @@ title: DataLabels.ReadingOrder Property (Word)
 keywords: vbawd10.chm207487951
 f1_keywords:
 - vbawd10.chm207487951
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.ReadingOrder
 ms.assetid: f1c6f467-2d22-ade7-c4e3-fdabe9d08158

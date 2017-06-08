@@ -3,7 +3,7 @@ title: Shape.Top Property (Word)
 keywords: vbawd10.chm161480827
 f1_keywords:
 - vbawd10.chm161480827
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Top
 ms.assetid: 59000c91-58c0-7849-2945-48b9fb8d8b17

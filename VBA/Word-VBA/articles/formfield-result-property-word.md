@@ -3,7 +3,7 @@ title: FormField.Result Property (Word)
 keywords: vbawd10.chm153616394
 f1_keywords:
 - vbawd10.chm153616394
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FormField.Result
 ms.assetid: b1e242d0-11d1-4b85-28b2-6fc821ed3c96

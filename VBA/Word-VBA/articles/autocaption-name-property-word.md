@@ -3,7 +3,7 @@ title: AutoCaption.Name Property (Word)
 keywords: vbawd10.chm159055872
 f1_keywords:
 - vbawd10.chm159055872
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCaption.Name
 ms.assetid: 74e654ad-76bd-7a4d-df91-0c650ba4af5e

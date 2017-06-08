@@ -3,7 +3,7 @@ title: Shading.Application Property (Word)
 keywords: vbawd10.chm154797032
 f1_keywords:
 - vbawd10.chm154797032
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shading.Application
 ms.assetid: 6ea6c343-d0e0-fad5-af97-7c444178add6

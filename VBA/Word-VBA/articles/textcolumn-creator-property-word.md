@@ -3,7 +3,7 @@ title: TextColumn.Creator Property (Word)
 keywords: vbawd10.chm158598121
 f1_keywords:
 - vbawd10.chm158598121
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumn.Creator
 ms.assetid: 212586eb-93ac-e892-9890-310f18e2e6ca

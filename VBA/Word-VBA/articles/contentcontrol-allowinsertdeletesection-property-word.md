@@ -3,7 +3,7 @@ title: ContentControl.AllowInsertDeleteSection Property (Word)
 keywords: vbawd10.chm266534948
 f1_keywords:
 - vbawd10.chm266534948
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5c39b5a4-1efe-eb01-cab2-ed1273ebaf4d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: HeaderFooter.Exists Property (Word)
 keywords: vbawd10.chm159711236
 f1_keywords:
 - vbawd10.chm159711236
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeaderFooter.Exists
 ms.assetid: 84ce3ac9-a4be-f99a-eb4b-1a145373659f

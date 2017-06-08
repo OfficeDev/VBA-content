@@ -1,6 +1,6 @@
 ---
 title: WdApplyQuickStyleSets Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdApplyQuickStyleSets
 ms.assetid: e70214c2-729c-2298-60ba-faf323bb5f2a

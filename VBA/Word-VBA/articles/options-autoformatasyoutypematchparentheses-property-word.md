@@ -3,7 +3,7 @@ title: Options.AutoFormatAsYouTypeMatchParentheses Property (Word)
 keywords: vbawd10.chm162988332
 f1_keywords:
 - vbawd10.chm162988332
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeMatchParentheses
 ms.assetid: f5f816db-8123-df7c-54cc-3e8ec6550207

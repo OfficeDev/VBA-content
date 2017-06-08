@@ -3,7 +3,7 @@ title: ColorFormat.RGB Property (Word)
 keywords: vbawd10.chm163971072
 f1_keywords:
 - vbawd10.chm163971072
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ColorFormat.RGB
 ms.assetid: 78158429-359c-bc6e-9e81-a119aace776c

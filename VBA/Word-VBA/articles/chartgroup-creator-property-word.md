@@ -3,7 +3,7 @@ title: ChartGroup.Creator Property (Word)
 keywords: vbawd10.chm263454869
 f1_keywords:
 - vbawd10.chm263454869
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartGroup.Creator
 ms.assetid: 6c08be09-c7cd-ab41-3f75-fee9f26f6226

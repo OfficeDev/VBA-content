@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Close Method (Word)
 keywords: vbawd10.chm231735398
 f1_keywords:
 - vbawd10.chm231735398
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Close
 ms.assetid: 41ea45cd-5d5f-4e66-9b92-3bc02ff8b8b9

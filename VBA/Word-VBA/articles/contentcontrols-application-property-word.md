@@ -3,7 +3,7 @@ title: ContentControls.Application Property (Word)
 keywords: vbawd10.chm157745252
 f1_keywords:
 - vbawd10.chm157745252
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControls.Application
 ms.assetid: 0aad9eeb-2d41-07e6-1a4f-2cd2aa1b29d0

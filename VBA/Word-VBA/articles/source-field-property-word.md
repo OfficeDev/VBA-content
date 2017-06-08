@@ -3,7 +3,7 @@ title: Source.Field Property (Word)
 keywords: vbawd10.chm140836968
 f1_keywords:
 - vbawd10.chm140836968
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Source.Field
 ms.assetid: fd6689d4-a042-4ca2-fddd-d048fe8c3a93

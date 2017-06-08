@@ -1,6 +1,6 @@
 ---
 title: WdMultipleWordConversionsMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMultipleWordConversionsMode
 ms.assetid: f75302cd-d513-e88a-fc6d-6ac70308806c

@@ -3,7 +3,7 @@ title: Range.ComputeStatistics Method (Word)
 keywords: vbawd10.chm157155506
 f1_keywords:
 - vbawd10.chm157155506
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.ComputeStatistics
 ms.assetid: 5fbeeffd-f592-3078-cd5b-1e2a90ee5092

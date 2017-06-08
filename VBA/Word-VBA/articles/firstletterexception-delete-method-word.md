@@ -3,7 +3,7 @@ title: FirstLetterException.Delete Method (Word)
 keywords: vbawd10.chm155517029
 f1_keywords:
 - vbawd10.chm155517029
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FirstLetterException.Delete
 ms.assetid: d2079416-161b-8d06-a28b-81a714677395

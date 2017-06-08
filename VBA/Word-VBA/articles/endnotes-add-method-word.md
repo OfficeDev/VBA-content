@@ -3,7 +3,7 @@ title: Endnotes.Add Method (Word)
 keywords: vbawd10.chm155254788
 f1_keywords:
 - vbawd10.chm155254788
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.Add
 ms.assetid: 6931462d-ee52-862b-3c63-127ebc828c5e

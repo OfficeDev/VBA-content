@@ -3,7 +3,7 @@ title: OMathRecognizedFunctions.Count Property (Word)
 keywords: vbawd10.chm143065191
 f1_keywords:
 - vbawd10.chm143065191
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathRecognizedFunctions.Count
 ms.assetid: 429fc0a1-a5a0-93e2-0e5f-005a776d7d24

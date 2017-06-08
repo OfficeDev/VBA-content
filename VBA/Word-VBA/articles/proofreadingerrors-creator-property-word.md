@@ -3,7 +3,7 @@ title: ProofreadingErrors.Creator Property (Word)
 keywords: vbawd10.chm163251177
 f1_keywords:
 - vbawd10.chm163251177
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Creator
 ms.assetid: 230d4232-3171-0029-52ed-c8724e666fa8

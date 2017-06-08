@@ -3,7 +3,7 @@ title: Options.PortugalReform Property (Word)
 keywords: vbawd10.chm162988533
 f1_keywords:
 - vbawd10.chm162988533
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PortugalReform
 ms.assetid: 4dd323a9-226c-9475-1043-e61f335cd977

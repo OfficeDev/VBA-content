@@ -3,7 +3,7 @@ title: ContentControl.Checked Property (Word)
 keywords: vbawd10.chm266534940
 f1_keywords:
 - vbawd10.chm266534940
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Checked
 ms.assetid: 43315939-8ecb-788f-ddd5-3256cca5c9b6

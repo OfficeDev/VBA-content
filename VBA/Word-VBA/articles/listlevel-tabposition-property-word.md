@@ -3,7 +3,7 @@ title: ListLevel.TabPosition Property (Word)
 keywords: vbawd10.chm160235528
 f1_keywords:
 - vbawd10.chm160235528
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.TabPosition
 ms.assetid: 36b73a32-4e8a-f6f5-75d0-55f1ad411055

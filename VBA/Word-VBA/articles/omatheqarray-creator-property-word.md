@@ -3,7 +3,7 @@ title: OMathEqArray.Creator Property (Word)
 keywords: vbawd10.chm174129253
 f1_keywords:
 - vbawd10.chm174129253
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathEqArray.Creator
 ms.assetid: f6afb97b-61e0-65a0-8d50-3b7e7098ae46

@@ -3,7 +3,7 @@ title: Breaks.Count Property (Word)
 keywords: vbawd10.chm50921474
 f1_keywords:
 - vbawd10.chm50921474
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Breaks.Count
 ms.assetid: 33af59e1-182b-789d-35b6-a548379bafb0

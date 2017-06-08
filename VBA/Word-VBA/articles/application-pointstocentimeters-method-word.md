@@ -3,7 +3,7 @@ title: Application.PointsToCentimeters Method (Word)
 keywords: vbawd10.chm158335357
 f1_keywords:
 - vbawd10.chm158335357
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PointsToCentimeters
 ms.assetid: 48ddcc3b-8b77-d363-4d94-aa64b74604a8

@@ -3,7 +3,7 @@ title: OMathGroupChar.Parent Property (Word)
 keywords: vbawd10.chm213123174
 f1_keywords:
 - vbawd10.chm213123174
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathGroupChar.Parent
 ms.assetid: 135d9a83-7e1e-cae9-331a-13fe95ae7282

@@ -3,7 +3,7 @@ title: MailMergeDataSource.SetAllIncludedFlags Method (Word)
 keywords: vbawd10.chm152895591
 f1_keywords:
 - vbawd10.chm152895591
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: 1fd70215-9b74-bf36-7ba2-9c02e2dc6a89

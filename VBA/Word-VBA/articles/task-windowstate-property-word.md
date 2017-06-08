@@ -3,7 +3,7 @@ title: Task.WindowState Property (Word)
 keywords: vbawd10.chm159514629
 f1_keywords:
 - vbawd10.chm159514629
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task.WindowState
 ms.assetid: 08021f45-3d92-a921-a26c-b0391bbf9035

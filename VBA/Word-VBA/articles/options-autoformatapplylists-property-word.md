@@ -3,7 +3,7 @@ title: Options.AutoFormatApplyLists Property (Word)
 keywords: vbawd10.chm162988283
 f1_keywords:
 - vbawd10.chm162988283
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatApplyLists
 ms.assetid: f5d2e1d2-01f8-c3ca-565c-d8cf767741bd

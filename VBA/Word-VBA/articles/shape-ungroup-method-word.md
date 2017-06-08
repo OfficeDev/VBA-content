@@ -3,7 +3,7 @@ title: Shape.Ungroup Method (Word)
 keywords: vbawd10.chm161480727
 f1_keywords:
 - vbawd10.chm161480727
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Ungroup
 ms.assetid: 0e8ead12-19a7-4caf-696e-38509e30148d

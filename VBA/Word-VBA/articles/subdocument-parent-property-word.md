@@ -3,7 +3,7 @@ title: Subdocument.Parent Property (Word)
 keywords: vbawd10.chm159974378
 f1_keywords:
 - vbawd10.chm159974378
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocument.Parent
 ms.assetid: c8a5fdab-4452-dc56-ac47-fcef4cafd63c

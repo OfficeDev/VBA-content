@@ -3,7 +3,7 @@ title: ContentControl.Title Property (Word)
 keywords: vbawd10.chm266534924
 f1_keywords:
 - vbawd10.chm266534924
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Title
 ms.assetid: 3bfd7bd5-2477-95ed-a334-bb3e7e450036

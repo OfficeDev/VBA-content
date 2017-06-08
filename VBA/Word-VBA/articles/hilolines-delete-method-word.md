@@ -3,7 +3,7 @@ title: HiLoLines.Delete Method (Word)
 keywords: vbawd10.chm235995140
 f1_keywords:
 - vbawd10.chm235995140
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HiLoLines.Delete
 ms.assetid: 4fcb2251-3dbd-7c50-37e9-9905166822bc

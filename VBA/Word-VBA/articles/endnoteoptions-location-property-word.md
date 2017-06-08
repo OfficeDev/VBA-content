@@ -3,7 +3,7 @@ title: EndnoteOptions.Location Property (Word)
 keywords: vbawd10.chm23593060
 f1_keywords:
 - vbawd10.chm23593060
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EndnoteOptions.Location
 ms.assetid: 3fd348a5-69cd-7319-898e-3f1a102fd644

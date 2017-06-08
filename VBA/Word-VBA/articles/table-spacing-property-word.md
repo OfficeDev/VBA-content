@@ -3,7 +3,7 @@ title: Table.Spacing Property (Word)
 keywords: vbawd10.chm156303477
 f1_keywords:
 - vbawd10.chm156303477
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.Spacing
 ms.assetid: 56444e6f-70b6-c815-9098-e6e3ac2d6c3b

@@ -1,6 +1,6 @@
 ---
 title: WdListGalleryType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdListGalleryType
 ms.assetid: a142e284-182d-ee31-68cf-6f2de7b7a24c

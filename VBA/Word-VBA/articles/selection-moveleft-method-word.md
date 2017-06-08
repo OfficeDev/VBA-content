@@ -3,7 +3,7 @@ title: Selection.MoveLeft Method (Word)
 keywords: vbawd10.chm158663156
 f1_keywords:
 - vbawd10.chm158663156
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveLeft
 ms.assetid: 23c22588-e774-f70f-28ea-81b1a54c0dd5

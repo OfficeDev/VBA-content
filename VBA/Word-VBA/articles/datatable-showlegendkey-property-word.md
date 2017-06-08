@@ -3,7 +3,7 @@ title: DataTable.ShowLegendKey Property (Word)
 keywords: vbawd10.chm46399488
 f1_keywords:
 - vbawd10.chm46399488
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.ShowLegendKey
 ms.assetid: 4fa6ffe0-f4ac-a33c-3209-bdab61773988

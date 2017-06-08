@@ -3,7 +3,7 @@ title: Font.NumberSpacing Property (Word)
 keywords: vbawd10.chm156369072
 f1_keywords:
 - vbawd10.chm156369072
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.NumberSpacing
 ms.assetid: 468d47e9-9bda-dd6e-5a55-4a11b8ce351e

@@ -3,7 +3,7 @@ title: Document.CoAuthoring Property (Word)
 keywords: vbawd10.chm158007896
 f1_keywords:
 - vbawd10.chm158007896
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CoAuthoring
 ms.assetid: b67ac270-c583-f141-bf86-6fc385987636

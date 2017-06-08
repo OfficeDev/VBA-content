@@ -3,7 +3,7 @@ title: TableOfContents.UseFields Property (Word)
 keywords: vbawd10.chm152240130
 f1_keywords:
 - vbawd10.chm152240130
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.UseFields
 ms.assetid: 36d01961-ba9a-fe8d-d791-f892bea8b994

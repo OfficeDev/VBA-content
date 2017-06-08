@@ -3,7 +3,7 @@ title: UpBars.Delete Method (Word)
 keywords: vbawd10.chm180945013
 f1_keywords:
 - vbawd10.chm180945013
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UpBars.Delete
 ms.assetid: 80e83260-1a81-243e-5e77-483b1131856b

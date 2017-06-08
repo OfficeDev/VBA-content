@@ -3,7 +3,7 @@ title: Application.DontResetInsertionPointProperties Property (Word)
 keywords: vbawd10.chm158335456
 f1_keywords:
 - vbawd10.chm158335456
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DontResetInsertionPointProperties
 ms.assetid: 3e6dfd03-9ab9-43c2-378c-0d97c69e14b3

@@ -1,6 +1,6 @@
 ---
 title: WdBuildingBlockTypes Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdBuildingBlockTypes
 ms.assetid: be7fcedb-04fd-f27d-8f36-3120ca263f06

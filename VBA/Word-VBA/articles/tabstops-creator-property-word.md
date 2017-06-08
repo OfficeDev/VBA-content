@@ -3,7 +3,7 @@ title: TabStops.Creator Property (Word)
 keywords: vbawd10.chm156566505
 f1_keywords:
 - vbawd10.chm156566505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TabStops.Creator
 ms.assetid: 656e7362-a08e-ef90-2996-17ed7bcead6b

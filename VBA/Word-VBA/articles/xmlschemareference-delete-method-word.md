@@ -3,7 +3,7 @@ title: XMLSchemaReference.Delete Method (Word)
 keywords: vbawd10.chm32505956
 f1_keywords:
 - vbawd10.chm32505956
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReference.Delete
 ms.assetid: e14111b7-1a14-ed0f-762e-4dbdb9a4e483

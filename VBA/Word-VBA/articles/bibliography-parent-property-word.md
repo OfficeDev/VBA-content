@@ -3,7 +3,7 @@ title: Bibliography.Parent Property (Word)
 keywords: vbawd10.chm101646438
 f1_keywords:
 - vbawd10.chm101646438
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bibliography.Parent
 ms.assetid: 0ee2c09a-e678-b6ac-0f92-0902de8136c0

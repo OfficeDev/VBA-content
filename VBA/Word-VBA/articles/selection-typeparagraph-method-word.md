@@ -3,7 +3,7 @@ title: Selection.TypeParagraph Method (Word)
 keywords: vbawd10.chm158663168
 f1_keywords:
 - vbawd10.chm158663168
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.TypeParagraph
 ms.assetid: e866733b-4800-8e2c-7026-4e9603ccf585

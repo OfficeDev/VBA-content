@@ -3,7 +3,7 @@ title: Editors Object (Word)
 keywords: vbawd10.chm140
 f1_keywords:
 - vbawd10.chm140
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editors
 ms.assetid: acce718a-e3c1-deac-8b7f-fd8a5a9e47c6

@@ -3,7 +3,7 @@ title: ListTemplates.Item Method (Word)
 keywords: vbawd10.chm160432128
 f1_keywords:
 - vbawd10.chm160432128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplates.Item
 ms.assetid: fb33549f-3ca6-d969-e866-c57ebaa85dc6

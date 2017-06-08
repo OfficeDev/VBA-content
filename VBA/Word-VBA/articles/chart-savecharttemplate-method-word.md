@@ -3,7 +3,7 @@ title: Chart.SaveChartTemplate Method (Word)
 keywords: vbawd10.chm79364173
 f1_keywords:
 - vbawd10.chm79364173
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.SaveChartTemplate
 ms.assetid: d980f663-7e73-7b55-9f7c-1fc9da84c0bd

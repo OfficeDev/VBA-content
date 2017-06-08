@@ -3,7 +3,7 @@ title: Find.HitHighlight Method (Word)
 keywords: vbawd10.chm162529725
 f1_keywords:
 - vbawd10.chm162529725
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.HitHighlight
 ms.assetid: 11f6a7e5-7aba-a374-db39-327f6427364b

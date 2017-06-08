@@ -1,6 +1,6 @@
 ---
 title: WdPrintOutPages Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdPrintOutPages
 ms.assetid: f77fe4f3-60f9-4366-9cfc-937b3045c38c

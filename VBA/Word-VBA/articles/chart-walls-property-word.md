@@ -3,7 +3,7 @@ title: Chart.Walls Property (Word)
 keywords: vbawd10.chm79364152
 f1_keywords:
 - vbawd10.chm79364152
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Walls
 ms.assetid: f45ae75a-c96c-4441-af81-aedf23787194

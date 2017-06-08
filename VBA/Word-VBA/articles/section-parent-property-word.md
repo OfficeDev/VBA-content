@@ -3,7 +3,7 @@ title: Section.Parent Property (Word)
 keywords: vbawd10.chm156828650
 f1_keywords:
 - vbawd10.chm156828650
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Section.Parent
 ms.assetid: 1bdf2fb6-5242-b8e9-ea12-7e50df14477b

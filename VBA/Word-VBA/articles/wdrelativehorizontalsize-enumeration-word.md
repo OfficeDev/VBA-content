@@ -1,6 +1,6 @@
 ---
 title: WdRelativeHorizontalSize Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalSize
 ms.assetid: 954f0b82-bf0b-72b9-2203-e38a5897c767

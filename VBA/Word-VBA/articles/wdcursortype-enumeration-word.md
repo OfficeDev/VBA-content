@@ -1,6 +1,6 @@
 ---
 title: WdCursorType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCursorType
 ms.assetid: 6fd089cc-b0a6-3883-aa0f-c7ba3405b846

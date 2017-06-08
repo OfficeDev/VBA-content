@@ -3,7 +3,7 @@ title: ShapeRange.VerticalFlip Property (Word)
 keywords: vbawd10.chm162857085
 f1_keywords:
 - vbawd10.chm162857085
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.VerticalFlip
 ms.assetid: f4dc248c-3ffa-e7e3-8ca9-9f6afc8be832

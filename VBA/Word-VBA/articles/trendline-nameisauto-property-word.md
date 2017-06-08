@@ -3,7 +3,7 @@ title: Trendline.NameIsAuto Property (Word)
 keywords: vbawd10.chm26345660
 f1_keywords:
 - vbawd10.chm26345660
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.NameIsAuto
 ms.assetid: 83e61517-6255-252c-3fee-1a0415e8b741

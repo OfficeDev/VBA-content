@@ -3,7 +3,7 @@ title: Options.AutoFormatAsYouTypeApplyDates Property (Word)
 keywords: vbawd10.chm162988330
 f1_keywords:
 - vbawd10.chm162988330
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyDates
 ms.assetid: b31f13fa-9a76-3a86-c4c2-4720fec1b66b

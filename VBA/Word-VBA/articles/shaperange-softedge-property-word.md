@@ -3,7 +3,7 @@ title: ShapeRange.SoftEdge Property (Word)
 keywords: vbawd10.chm162857112
 f1_keywords:
 - vbawd10.chm162857112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.SoftEdge
 ms.assetid: f25d7dc2-05a5-91f0-924e-2807d66bc8cd

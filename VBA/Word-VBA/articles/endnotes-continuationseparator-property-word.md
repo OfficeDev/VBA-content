@@ -3,7 +3,7 @@ title: Endnotes.ContinuationSeparator Property (Word)
 keywords: vbawd10.chm155254889
 f1_keywords:
 - vbawd10.chm155254889
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.ContinuationSeparator
 ms.assetid: 4f62aa74-5c9e-6f95-ddc5-ff02c9a00bcf

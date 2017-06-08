@@ -3,7 +3,7 @@ title: Cell.Width Property (Word)
 keywords: vbawd10.chm156106758
 f1_keywords:
 - vbawd10.chm156106758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.Width
 ms.assetid: 87c0422d-5f4f-44a3-902a-cb751b459ef9

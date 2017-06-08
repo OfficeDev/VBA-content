@@ -3,7 +3,7 @@ title: Application.HelpTool Method (Word)
 keywords: vbawd10.chm158335308
 f1_keywords:
 - vbawd10.chm158335308
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.HelpTool
 ms.assetid: 81a93cf3-7695-8a35-d836-fc7a20622d92

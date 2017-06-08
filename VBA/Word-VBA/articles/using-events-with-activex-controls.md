@@ -3,7 +3,7 @@ title: Using Events with ActiveX Controls
 keywords: vbawd10.chm5214012
 f1_keywords:
 - vbawd10.chm5214012
-ms.prod: WORD
+ms.prod: word
 ms.assetid: a344a964-e5f8-b6f1-e1eb-3c2d1fea9fb6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ShapeNode.EditingType Property (Word)
 keywords: vbawd10.chm164429924
 f1_keywords:
 - vbawd10.chm164429924
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNode.EditingType
 ms.assetid: ac490e3c-3938-a1db-50b5-ec667061f711

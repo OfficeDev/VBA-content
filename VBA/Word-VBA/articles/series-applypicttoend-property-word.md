@@ -3,7 +3,7 @@ title: Series.ApplyPictToEnd Property (Word)
 keywords: vbawd10.chm123733629
 f1_keywords:
 - vbawd10.chm123733629
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ApplyPictToEnd
 ms.assetid: d21d40d6-7d66-7513-a225-e151e64c4188

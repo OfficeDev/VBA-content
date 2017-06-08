@@ -3,7 +3,7 @@ title: MailingLabel.Vertical Property (Word)
 keywords: vbawd10.chm152502282
 f1_keywords:
 - vbawd10.chm152502282
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailingLabel.Vertical
 ms.assetid: 9dac957c-d2be-addd-81f2-4dd6b134051d

@@ -3,7 +3,7 @@ title: DropDown.Value Property (Word)
 keywords: vbawd10.chm153419778
 f1_keywords:
 - vbawd10.chm153419778
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropDown.Value
 ms.assetid: 9777996d-4e60-f528-6dcd-c4da3b77dff8

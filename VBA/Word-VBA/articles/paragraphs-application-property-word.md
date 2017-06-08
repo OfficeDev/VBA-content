@@ -3,7 +3,7 @@ title: Paragraphs.Application Property (Word)
 keywords: vbawd10.chm156763112
 f1_keywords:
 - vbawd10.chm156763112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Application
 ms.assetid: d7325a23-cf85-f5cc-fc0c-3302dc708dcb

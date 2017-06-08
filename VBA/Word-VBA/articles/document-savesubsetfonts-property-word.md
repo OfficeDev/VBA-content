@@ -3,7 +3,7 @@ title: Document.SaveSubsetFonts Property (Word)
 keywords: vbawd10.chm158007349
 f1_keywords:
 - vbawd10.chm158007349
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SaveSubsetFonts
 ms.assetid: 01210b29-f346-e513-6876-3dab30b940e1

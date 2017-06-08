@@ -3,7 +3,7 @@ title: Walls.Thickness Property (Word)
 keywords: vbawd10.chm25168243
 f1_keywords:
 - vbawd10.chm25168243
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Walls.Thickness
 ms.assetid: a014b53e-fbf8-83a3-091f-9912be180308

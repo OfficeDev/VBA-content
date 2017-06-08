@@ -3,7 +3,7 @@ title: Selection.InsertBefore Method (Word)
 keywords: vbawd10.chm158662758
 f1_keywords:
 - vbawd10.chm158662758
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertBefore
 ms.assetid: 05dfc75f-9bb3-e090-9b31-aeb48b6c2ed8

@@ -3,7 +3,7 @@ title: Cell.BottomPadding Property (Word)
 keywords: vbawd10.chm156106864
 f1_keywords:
 - vbawd10.chm156106864
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cell.BottomPadding
 ms.assetid: 5f265dc2-a9c4-d307-69a8-1f73407a4301

@@ -3,7 +3,7 @@ title: Document.XMLAfterInsert Event (Word)
 keywords: vbawd10.chm4001008
 f1_keywords:
 - vbawd10.chm4001008
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.XMLAfterInsert
 ms.assetid: 6858fd64-e96b-308e-53eb-d79595fabac7

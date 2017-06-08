@@ -3,7 +3,7 @@ title: Endnote.Application Property (Word)
 keywords: vbawd10.chm155059176
 f1_keywords:
 - vbawd10.chm155059176
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnote.Application
 ms.assetid: 3e705065-cc2d-e61b-0243-e502acbc63a1

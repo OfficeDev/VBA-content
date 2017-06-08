@@ -3,7 +3,7 @@ title: ContentControlListEntries.Application Property (Word)
 keywords: vbawd10.chm230948964
 f1_keywords:
 - vbawd10.chm230948964
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntries.Application
 ms.assetid: 8ffc7212-bddb-2bbc-a5e7-56552893695f

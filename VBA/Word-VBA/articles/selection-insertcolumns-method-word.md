@@ -3,7 +3,7 @@ title: Selection.InsertColumns Method (Word)
 keywords: vbawd10.chm158663185
 f1_keywords:
 - vbawd10.chm158663185
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertColumns
 ms.assetid: d58691b4-afa5-959a-a6a8-f202723df9f1

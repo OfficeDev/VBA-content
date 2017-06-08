@@ -3,7 +3,7 @@ title: XMLSchemaReference.Location Property (Word)
 keywords: vbawd10.chm32505859
 f1_keywords:
 - vbawd10.chm32505859
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReference.Location
 ms.assetid: 3b753ffa-4e23-f83b-f4ec-45c91807f3fb

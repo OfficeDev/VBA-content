@@ -3,7 +3,7 @@ title: Find.ClearFormatting Method (Word)
 keywords: vbawd10.chm162529311
 f1_keywords:
 - vbawd10.chm162529311
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.ClearFormatting
 ms.assetid: 9b25fb62-13e1-d953-90f2-57059221d820

@@ -3,7 +3,7 @@ title: HangulHanjaConversionDictionaries.ActiveCustomDictionary Property (Word)
 keywords: vbawd10.chm165675011
 f1_keywords:
 - vbawd10.chm165675011
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.ActiveCustomDictionary
 ms.assetid: 3e1d8fd9-eee8-eb18-f4db-6a9e5379436e

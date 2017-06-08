@@ -3,7 +3,7 @@ title: DataTable.Delete Method (Word)
 keywords: vbawd10.chm46399499
 f1_keywords:
 - vbawd10.chm46399499
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.Delete
 ms.assetid: 82ab6611-856f-1853-694d-589baa8544d2

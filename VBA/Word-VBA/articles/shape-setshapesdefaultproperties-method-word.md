@@ -3,7 +3,7 @@ title: Shape.SetShapesDefaultProperties Method (Word)
 keywords: vbawd10.chm161480726
 f1_keywords:
 - vbawd10.chm161480726
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.SetShapesDefaultProperties
 ms.assetid: 372bf936-720a-bb15-a7cc-0bb8ca20181d

@@ -3,7 +3,7 @@ title: Selection.LanguageID Property (Word)
 keywords: vbawd10.chm158662809
 f1_keywords:
 - vbawd10.chm158662809
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.LanguageID
 ms.assetid: d92be532-99db-8b46-3e64-8a3fca65004e

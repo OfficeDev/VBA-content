@@ -1,6 +1,6 @@
 ---
 title: WdAutoVersions Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdAutoVersions
 ms.assetid: 19ea6218-1ca1-9a70-cdfc-94df7674dbb6

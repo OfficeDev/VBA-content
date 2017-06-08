@@ -3,7 +3,7 @@ title: Options.AutoWordSelection Property (Word)
 keywords: vbawd10.chm162988101
 f1_keywords:
 - vbawd10.chm162988101
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoWordSelection
 ms.assetid: 44b3a688-b5ef-6145-de33-00f0cf77409d

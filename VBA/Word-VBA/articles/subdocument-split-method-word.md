@@ -3,7 +3,7 @@ title: Subdocument.Split Method (Word)
 keywords: vbawd10.chm159973477
 f1_keywords:
 - vbawd10.chm159973477
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocument.Split
 ms.assetid: f4548dbc-3b96-b271-8e71-0d436a1c3ecc

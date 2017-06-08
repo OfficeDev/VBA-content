@@ -3,7 +3,7 @@ title: Shape Object (Word)
 keywords: vbawd10.chm2464
 f1_keywords:
 - vbawd10.chm2464
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape
 ms.assetid: 604029ce-9b2f-9748-5d4e-b458796fa2f0

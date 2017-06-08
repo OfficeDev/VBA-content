@@ -3,7 +3,7 @@ title: Zoom.Creator Property (Word)
 keywords: vbawd10.chm161874921
 f1_keywords:
 - vbawd10.chm161874921
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Zoom.Creator
 ms.assetid: 6505d975-4e4d-1af3-4bc6-0b0642206550

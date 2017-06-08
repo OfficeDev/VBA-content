@@ -3,7 +3,7 @@ title: ProtectedViewWindow.WindowState Property (Word)
 keywords: vbawd10.chm231735302
 f1_keywords:
 - vbawd10.chm231735302
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.WindowState
 ms.assetid: 858036ac-b0f2-f312-81f2-d02ace00b2fb

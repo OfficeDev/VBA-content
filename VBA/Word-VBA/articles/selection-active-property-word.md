@@ -3,7 +3,7 @@ title: Selection.Active Property (Word)
 keywords: vbawd10.chm158663059
 f1_keywords:
 - vbawd10.chm158663059
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Active
 ms.assetid: a279837e-8ae7-24ec-71f0-de82c5a33ad8

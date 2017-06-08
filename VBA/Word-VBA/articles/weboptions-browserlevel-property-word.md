@@ -3,7 +3,7 @@ title: WebOptions.BrowserLevel Property (Word)
 keywords: vbawd10.chm165937154
 f1_keywords:
 - vbawd10.chm165937154
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.BrowserLevel
 ms.assetid: f753deef-cd67-918d-0fe0-af4f3d283086

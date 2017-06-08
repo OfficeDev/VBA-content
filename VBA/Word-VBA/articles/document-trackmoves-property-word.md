@@ -3,7 +3,7 @@ title: Document.TrackMoves Property (Word)
 keywords: vbawd10.chm158007795
 f1_keywords:
 - vbawd10.chm158007795
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TrackMoves
 ms.assetid: 6c94cd58-dd47-313c-c04f-f04fe6f86f02

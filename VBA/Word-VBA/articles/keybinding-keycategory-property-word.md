@@ -3,7 +3,7 @@ title: KeyBinding.KeyCategory Property (Word)
 keywords: vbawd10.chm160956420
 f1_keywords:
 - vbawd10.chm160956420
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBinding.KeyCategory
 ms.assetid: 293371f6-7057-b579-b039-13e762f5ea62

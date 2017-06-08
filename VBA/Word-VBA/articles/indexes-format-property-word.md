@@ -3,7 +3,7 @@ title: Indexes.Format Property (Word)
 keywords: vbawd10.chm159121410
 f1_keywords:
 - vbawd10.chm159121410
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Indexes.Format
 ms.assetid: f1122cba-7d90-7c6e-5d64-efe15724cdcf

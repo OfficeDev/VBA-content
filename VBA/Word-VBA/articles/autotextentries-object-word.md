@@ -1,6 +1,6 @@
 ---
 title: AutoTextEntries Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 4e4d92b3-d259-84b7-061f-82065e177c29
 ms.date: 06/08/2017
 ---

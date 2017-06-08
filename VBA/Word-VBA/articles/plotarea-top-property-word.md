@@ -3,7 +3,7 @@ title: PlotArea.Top Property (Word)
 keywords: vbawd10.chm53477502
 f1_keywords:
 - vbawd10.chm53477502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Top
 ms.assetid: 01381916-af1f-a3c8-77b5-30b5a648dc69

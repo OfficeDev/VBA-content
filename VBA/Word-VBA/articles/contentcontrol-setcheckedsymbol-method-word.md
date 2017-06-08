@@ -3,7 +3,7 @@ title: ContentControl.SetCheckedSymbol Method (Word)
 keywords: vbawd10.chm266534941
 f1_keywords:
 - vbawd10.chm266534941
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.SetCheckedSymbol
 ms.assetid: 67f93aa6-a4ad-2d89-eb6d-483ff6df2db2

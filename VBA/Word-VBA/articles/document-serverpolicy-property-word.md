@@ -3,7 +3,7 @@ title: Document.ServerPolicy Property (Word)
 keywords: vbawd10.chm158007803
 f1_keywords:
 - vbawd10.chm158007803
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ServerPolicy
 ms.assetid: dd3d41c3-588e-3a9b-049a-9f7e18402a95

@@ -3,7 +3,7 @@ title: FullSeriesCollection.Item Method (Word)
 keywords: vbawd10.chm73990144
 f1_keywords:
 - vbawd10.chm73990144
-ms.prod: WORD
+ms.prod: word
 ms.assetid: f5705b33-f8a3-e6e8-1434-4ba8df4681ff
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Selection.InsertXML Method (Word)
 keywords: vbawd10.chm158663684
 f1_keywords:
 - vbawd10.chm158663684
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertXML
 ms.assetid: 7a9e52b5-9b05-f939-6fd0-33a923989f48

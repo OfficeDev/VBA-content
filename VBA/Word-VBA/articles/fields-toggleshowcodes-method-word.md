@@ -3,7 +3,7 @@ title: Fields.ToggleShowCodes Method (Word)
 keywords: vbawd10.chm154140772
 f1_keywords:
 - vbawd10.chm154140772
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Fields.ToggleShowCodes
 ms.assetid: 71f5aabf-7570-3594-d97c-de9cfcee0650

@@ -3,7 +3,7 @@ title: Pane.HorizontalPercentScrolled Property (Word)
 keywords: vbawd10.chm157286413
 f1_keywords:
 - vbawd10.chm157286413
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.HorizontalPercentScrolled
 ms.assetid: db5c1e50-a910-9b5e-9767-9b2e1ce8cc94

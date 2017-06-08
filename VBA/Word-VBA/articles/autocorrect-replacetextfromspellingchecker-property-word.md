@@ -3,7 +3,7 @@ title: AutoCorrect.ReplaceTextFromSpellingChecker Property (Word)
 keywords: vbawd10.chm155779087
 f1_keywords:
 - vbawd10.chm155779087
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCorrect.ReplaceTextFromSpellingChecker
 ms.assetid: 8cc4a48f-86a6-5b26-ad2d-cca3b969047c

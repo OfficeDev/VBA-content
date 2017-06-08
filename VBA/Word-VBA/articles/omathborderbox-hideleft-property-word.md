@@ -3,7 +3,7 @@ title: OMathBorderBox.HideLeft Property (Word)
 keywords: vbawd10.chm116260970
 f1_keywords:
 - vbawd10.chm116260970
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBorderBox.HideLeft
 ms.assetid: 15725979-842b-d574-ee47-0fe3e71d441b

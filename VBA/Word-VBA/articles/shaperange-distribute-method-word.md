@@ -3,7 +3,7 @@ title: ShapeRange.Distribute Method (Word)
 keywords: vbawd10.chm162856973
 f1_keywords:
 - vbawd10.chm162856973
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.Distribute
 ms.assetid: fae7b87a-9542-7018-15fb-a4e4efee4c9b

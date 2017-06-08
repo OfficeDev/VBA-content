@@ -3,7 +3,7 @@ title: Dictionary.Creator Property (Word)
 keywords: vbawd10.chm162333673
 f1_keywords:
 - vbawd10.chm162333673
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionary.Creator
 ms.assetid: bc739b16-50ab-254d-7620-61439ecbd7a7

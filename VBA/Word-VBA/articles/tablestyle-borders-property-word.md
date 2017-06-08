@@ -3,7 +3,7 @@ title: TableStyle.Borders Property (Word)
 keywords: vbawd10.chm244776963
 f1_keywords:
 - vbawd10.chm244776963
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.Borders
 ms.assetid: 5b8660de-dfbc-f6ea-9195-954afec5eca4

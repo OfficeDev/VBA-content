@@ -3,7 +3,7 @@ title: PageSetup.GutterStyle Property (Word)
 keywords: vbawd10.chm158400641
 f1_keywords:
 - vbawd10.chm158400641
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.GutterStyle
 ms.assetid: cf2dafc3-1f08-d60d-830b-80ee921ee4cd

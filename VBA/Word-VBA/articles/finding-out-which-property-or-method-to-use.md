@@ -1,6 +1,6 @@
 ---
 title: Finding Out Which Property or Method to Use
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 6da49a9c-e28f-dae5-f4bd-3124004052fb
 ms.date: 06/08/2017
 ---

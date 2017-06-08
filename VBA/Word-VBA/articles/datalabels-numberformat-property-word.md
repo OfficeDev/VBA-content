@@ -3,7 +3,7 @@ title: DataLabels.NumberFormat Property (Word)
 keywords: vbawd10.chm207487169
 f1_keywords:
 - vbawd10.chm207487169
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.NumberFormat
 ms.assetid: af8b0dab-0584-5ee4-15f9-e182d9967f4b

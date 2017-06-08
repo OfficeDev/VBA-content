@@ -1,6 +1,6 @@
 ---
 title: Working with Range Objects
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 9e240aa7-8608-9d70-aee3-2e202687459e
 ms.date: 06/08/2017
 ---

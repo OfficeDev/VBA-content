@@ -1,6 +1,6 @@
 ---
 title: WdRelativeVerticalSize Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdRelativeVerticalSize
 ms.assetid: 07a507e4-66fb-b383-fe36-aa5ccadbdcba

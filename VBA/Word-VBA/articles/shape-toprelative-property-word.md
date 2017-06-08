@@ -3,7 +3,7 @@ title: Shape.TopRelative Property (Word)
 keywords: vbawd10.chm161480905
 f1_keywords:
 - vbawd10.chm161480905
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.TopRelative
 ms.assetid: 5ae905f1-2e86-2aab-fe43-3be81f61847c

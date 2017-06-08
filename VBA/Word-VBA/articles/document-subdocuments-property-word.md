@@ -3,7 +3,7 @@ title: Document.Subdocuments Property (Word)
 keywords: vbawd10.chm158007341
 f1_keywords:
 - vbawd10.chm158007341
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Subdocuments
 ms.assetid: 4d0047da-03ef-67da-61ed-8bdbeaa55024

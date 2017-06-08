@@ -3,7 +3,7 @@ title: Template.LanguageID Property (Word)
 keywords: vbawd10.chm157941764
 f1_keywords:
 - vbawd10.chm157941764
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.LanguageID
 ms.assetid: a65168f1-daef-038a-fc2a-90592b63a82f

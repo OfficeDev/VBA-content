@@ -3,7 +3,7 @@ title: CoAuthUpdate.Range Property (Word)
 keywords: vbawd10.chm247791617
 f1_keywords:
 - vbawd10.chm247791617
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthUpdate.Range
 ms.assetid: 786bc4aa-bae2-9ef5-59b2-02eeb6445846

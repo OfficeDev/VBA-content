@@ -3,7 +3,7 @@ title: TextEffectFormat.Application Property (Word)
 keywords: vbawd10.chm164561896
 f1_keywords:
 - vbawd10.chm164561896
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.Application
 ms.assetid: 3793169b-a397-d225-3f4b-586f857c4aa2

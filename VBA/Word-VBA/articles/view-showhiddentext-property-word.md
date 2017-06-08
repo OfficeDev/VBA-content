@@ -3,7 +3,7 @@ title: View.ShowHiddenText Property (Word)
 keywords: vbawd10.chm161808403
 f1_keywords:
 - vbawd10.chm161808403
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowHiddenText
 ms.assetid: e4f58049-1fb9-5c70-0786-5f4c8c54f3ba

@@ -3,7 +3,7 @@ title: Options.ShowControlCharacters Property (Word)
 keywords: vbawd10.chm162988438
 f1_keywords:
 - vbawd10.chm162988438
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.ShowControlCharacters
 ms.assetid: 9fed5e7a-79b9-0517-e985-7d53a642220c

@@ -3,7 +3,7 @@ title: ChartTitle.Application Property (Word)
 keywords: vbawd10.chm65274004
 f1_keywords:
 - vbawd10.chm65274004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Application
 ms.assetid: ae56725c-416c-d015-3c28-f22c2f749835

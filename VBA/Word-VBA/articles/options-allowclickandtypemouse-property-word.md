@@ -3,7 +3,7 @@ title: Options.AllowClickAndTypeMouse Property (Word)
 keywords: vbawd10.chm162988445
 f1_keywords:
 - vbawd10.chm162988445
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowClickAndTypeMouse
 ms.assetid: 40b6f33c-a577-ff1e-6f7c-46b971e34cab

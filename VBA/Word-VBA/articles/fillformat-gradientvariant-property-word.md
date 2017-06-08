@@ -3,7 +3,7 @@ title: FillFormat.GradientVariant Property (Word)
 keywords: vbawd10.chm164102249
 f1_keywords:
 - vbawd10.chm164102249
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.GradientVariant
 ms.assetid: d92f56a2-fe56-4734-bddc-97517eea5def

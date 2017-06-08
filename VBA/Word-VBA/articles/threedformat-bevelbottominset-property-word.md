@@ -3,7 +3,7 @@ title: ThreeDFormat.BevelBottomInset Property (Word)
 keywords: vbawd10.chm164626550
 f1_keywords:
 - vbawd10.chm164626550
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.BevelBottomInset
 ms.assetid: 99feb954-a4d1-89b4-1f7d-fd28b480158d

@@ -1,6 +1,6 @@
 ---
 title: Editing Text
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 55c4d9ee-00f1-fcc6-72b1-2c19f25420a6
 ms.date: 06/08/2017
 ---

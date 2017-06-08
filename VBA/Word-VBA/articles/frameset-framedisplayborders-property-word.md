@@ -3,7 +3,7 @@ title: Frameset.FrameDisplayBorders Property (Word)
 keywords: vbawd10.chm165806115
 f1_keywords:
 - vbawd10.chm165806115
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.FrameDisplayBorders
 ms.assetid: a1993b72-2737-92d8-d1bc-b4bc0182b23a

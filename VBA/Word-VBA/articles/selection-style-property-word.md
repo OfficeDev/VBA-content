@@ -3,7 +3,7 @@ title: Selection.Style Property (Word)
 keywords: vbawd10.chm158662664
 f1_keywords:
 - vbawd10.chm158662664
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Style
 ms.assetid: d9295c79-97bd-3866-8321-45b708154716

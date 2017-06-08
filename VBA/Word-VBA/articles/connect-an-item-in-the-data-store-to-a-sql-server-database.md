@@ -1,6 +1,6 @@
 ---
 title: Connect an Item in the Data Store to a SQL Server Database
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5c3ecc43-492d-0668-18f6-752b03dd2a54
 ms.date: 06/08/2017
 ---

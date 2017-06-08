@@ -3,7 +3,7 @@ title: Options.DeletedCellColor Property (Word)
 keywords: vbawd10.chm162988497
 f1_keywords:
 - vbawd10.chm162988497
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DeletedCellColor
 ms.assetid: 6ae918ee-9679-0d3d-fa45-0e404258d1bf

@@ -3,7 +3,7 @@ title: ConditionalStyle.Creator Property (Word)
 keywords: vbawd10.chm91030505
 f1_keywords:
 - vbawd10.chm91030505
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ConditionalStyle.Creator
 ms.assetid: f0311e68-ce40-86fd-1009-adf361a072e0

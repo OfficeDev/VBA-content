@@ -3,7 +3,7 @@ title: KeysBoundTo.Application Property (Word)
 keywords: vbawd10.chm160891880
 f1_keywords:
 - vbawd10.chm160891880
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeysBoundTo.Application
 ms.assetid: e64646b5-d02b-72c2-dada-ae223f39094e

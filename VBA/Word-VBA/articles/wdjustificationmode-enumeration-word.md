@@ -1,6 +1,6 @@
 ---
 title: WdJustificationMode Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdJustificationMode
 ms.assetid: 2da439ab-c229-d19f-6d01-8fa0f12bb0b4

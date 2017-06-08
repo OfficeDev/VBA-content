@@ -3,7 +3,7 @@ title: CoAuthLocks.RemoveEphemeralLocks Method (Word)
 keywords: vbawd10.chm180486147
 f1_keywords:
 - vbawd10.chm180486147
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLocks.RemoveEphemeralLocks
 ms.assetid: fc894f97-b84c-8410-1847-ef2c3ad97300

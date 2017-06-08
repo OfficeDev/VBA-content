@@ -3,7 +3,7 @@ title: TextColumns.Parent Property (Word)
 keywords: vbawd10.chm158532586
 f1_keywords:
 - vbawd10.chm158532586
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.Parent
 ms.assetid: 1924a03a-7162-dddb-bdf1-451ad910859a

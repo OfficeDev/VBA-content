@@ -3,7 +3,7 @@ title: AxisTitle.FormulaR1C1Local Property (Word)
 keywords: vbawd10.chm98238508
 f1_keywords:
 - vbawd10.chm98238508
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AxisTitle.FormulaR1C1Local
 ms.assetid: 81f5aa57-80be-3a7d-685e-67b165213229

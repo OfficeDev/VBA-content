@@ -3,7 +3,7 @@ title: Selection.Rows Property (Word)
 keywords: vbawd10.chm158662959
 f1_keywords:
 - vbawd10.chm158662959
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Rows
 ms.assetid: 800edca7-fc0f-ed73-ae3a-400eadcccf8b

@@ -1,6 +1,6 @@
 ---
 title: WdLetterheadLocation Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLetterheadLocation
 ms.assetid: e8f68788-29b5-be9b-0217-647d3e794592

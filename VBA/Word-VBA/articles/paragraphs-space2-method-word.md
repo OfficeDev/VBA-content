@@ -3,7 +3,7 @@ title: Paragraphs.Space2 Method (Word)
 keywords: vbawd10.chm156762427
 f1_keywords:
 - vbawd10.chm156762427
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.Space2
 ms.assetid: dfd70842-8a1b-8266-7c37-1b8d61c046ae

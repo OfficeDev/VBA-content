@@ -3,7 +3,7 @@ title: Floor.Select Method (Word)
 keywords: vbawd10.chm46006507
 f1_keywords:
 - vbawd10.chm46006507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Floor.Select
 ms.assetid: d36401f0-5525-846b-8749-7a4d4944bead

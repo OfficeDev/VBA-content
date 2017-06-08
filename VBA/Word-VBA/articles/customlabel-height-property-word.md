@@ -3,7 +3,7 @@ title: CustomLabel.Height Property (Word)
 keywords: vbawd10.chm152371205
 f1_keywords:
 - vbawd10.chm152371205
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.Height
 ms.assetid: 8517f207-96f2-700f-9d14-cbc1a9043960

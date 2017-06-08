@@ -3,7 +3,7 @@ title: Row Object (Word)
 keywords: vbawd10.chm2384
 f1_keywords:
 - vbawd10.chm2384
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row
 ms.assetid: 38a05858-829a-ea5c-ce63-7f7343bf7b88

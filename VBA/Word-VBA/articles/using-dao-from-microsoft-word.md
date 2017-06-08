@@ -1,6 +1,6 @@
 ---
 title: Using DAO from Microsoft Word
-ms.prod: WORD
+ms.prod: word
 ms.assetid: f8c2b535-b912-e7ff-73a0-3b6558aae565
 ms.date: 06/08/2017
 ---

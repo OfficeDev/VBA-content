@@ -3,7 +3,7 @@ title: Zoom.PageRows Property (Word)
 keywords: vbawd10.chm161873922
 f1_keywords:
 - vbawd10.chm161873922
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Zoom.PageRows
 ms.assetid: 15db7c14-ee98-bac7-179a-018f4cb47fb9

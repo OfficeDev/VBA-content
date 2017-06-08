@@ -3,7 +3,7 @@ title: OMathBreaks.Count Property (Word)
 keywords: vbawd10.chm61276264
 f1_keywords:
 - vbawd10.chm61276264
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreaks.Count
 ms.assetid: 57d15145-8cb2-30a4-0763-3b8e5611d118

@@ -3,7 +3,7 @@ title: View.RevisionsFilter Property (Word)
 keywords: vbawd10.chm161808446
 f1_keywords:
 - vbawd10.chm161808446
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 98cb452c-d497-06ce-3be2-5b6ddbf16fb4
 ms.date: 06/08/2017
 ---

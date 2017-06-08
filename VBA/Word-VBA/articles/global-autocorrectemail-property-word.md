@@ -3,7 +3,7 @@ title: Global.AutoCorrectEmail Property (Word)
 keywords: vbawd10.chm163119217
 f1_keywords:
 - vbawd10.chm163119217
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.AutoCorrectEmail
 ms.assetid: 778d2ab6-09cb-524f-1b31-5abe467ce14c

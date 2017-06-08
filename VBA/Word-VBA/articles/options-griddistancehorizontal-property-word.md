@@ -3,7 +3,7 @@ title: Options.GridDistanceHorizontal Property (Word)
 keywords: vbawd10.chm162988113
 f1_keywords:
 - vbawd10.chm162988113
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.GridDistanceHorizontal
 ms.assetid: 1d28ba4b-ee06-1b1a-e921-2d8d07cab305

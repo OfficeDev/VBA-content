@@ -1,6 +1,6 @@
 ---
 title: XlChartItem Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 66a4e750-6edf-18e9-ba02-72913796954b
 ms.date: 06/08/2017
 ---

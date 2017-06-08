@@ -1,6 +1,6 @@
 ---
 title: WdKeyCategory Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdKeyCategory
 ms.assetid: 8389e00c-776f-5066-bfeb-f1f81ac85319

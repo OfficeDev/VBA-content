@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Parent Property (Word)
 keywords: vbawd10.chm94568475
 f1_keywords:
 - vbawd10.chm94568475
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Parent
 ms.assetid: 36c0ff07-d6e2-64b6-89f0-6dce3451660d

@@ -3,7 +3,7 @@ title: Chart.SeriesNameLevel Property (Word)
 keywords: vbawd10.chm79364334
 f1_keywords:
 - vbawd10.chm79364334
-ms.prod: WORD
+ms.prod: word
 ms.assetid: e77240d4-273c-460e-d10a-c43f67f6f955
 ms.date: 06/08/2017
 ---

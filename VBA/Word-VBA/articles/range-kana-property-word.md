@@ -3,7 +3,7 @@ title: Range.Kana Property (Word)
 keywords: vbawd10.chm157155655
 f1_keywords:
 - vbawd10.chm157155655
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Kana
 ms.assetid: ed64b73e-6970-3099-6f75-0beac6bba84e

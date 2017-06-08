@@ -3,7 +3,7 @@ title: MailMergeDataFields.Count Property (Word)
 keywords: vbawd10.chm152698881
 f1_keywords:
 - vbawd10.chm152698881
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataFields.Count
 ms.assetid: c6b7bb82-ee54-5972-96b6-ab8b2803cf83

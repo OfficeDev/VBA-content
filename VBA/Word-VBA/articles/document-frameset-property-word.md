@@ -3,7 +3,7 @@ title: Document.Frameset Property (Word)
 keywords: vbawd10.chm158007623
 f1_keywords:
 - vbawd10.chm158007623
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Frameset
 ms.assetid: 40079f4f-be1d-c8dd-5536-ccb5f570bde9

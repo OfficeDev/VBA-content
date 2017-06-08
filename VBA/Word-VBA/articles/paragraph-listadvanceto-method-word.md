@@ -3,7 +3,7 @@ title: Paragraph.ListAdvanceTo Method (Word)
 keywords: vbawd10.chm156696912
 f1_keywords:
 - vbawd10.chm156696912
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.ListAdvanceTo
 ms.assetid: 41b60f22-74b1-60f6-40ad-4107074a57ee

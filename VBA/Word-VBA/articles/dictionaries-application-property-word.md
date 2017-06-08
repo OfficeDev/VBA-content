@@ -3,7 +3,7 @@ title: Dictionaries.Application Property (Word)
 keywords: vbawd10.chm162268136
 f1_keywords:
 - vbawd10.chm162268136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Dictionaries.Application
 ms.assetid: 37b6adff-c52b-e53f-c07e-56f2d1b2eda5

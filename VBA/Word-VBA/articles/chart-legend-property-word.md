@@ -3,7 +3,7 @@ title: Chart.Legend Property (Word)
 keywords: vbawd10.chm79364180
 f1_keywords:
 - vbawd10.chm79364180
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Legend
 ms.assetid: b1ffdbfb-854c-bd65-dd63-d3b8d0547f67

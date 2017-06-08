@@ -3,7 +3,7 @@ title: AutoTextEntries.Parent Property (Word)
 keywords: vbawd10.chm154600426
 f1_keywords:
 - vbawd10.chm154600426
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoTextEntries.Parent
 ms.assetid: 7d248d75-3b97-46c8-bc80-19827a0bc2d1

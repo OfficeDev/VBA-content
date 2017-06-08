@@ -3,7 +3,7 @@ title: Borders.EnableOtherPagesInSection Property (Word)
 keywords: vbawd10.chm154927135
 f1_keywords:
 - vbawd10.chm154927135
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.EnableOtherPagesInSection
 ms.assetid: 288caacd-e8c8-fa27-fda0-0d02932b90aa

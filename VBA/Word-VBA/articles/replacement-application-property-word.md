@@ -3,7 +3,7 @@ title: Replacement.Application Property (Word)
 keywords: vbawd10.chm162595816
 f1_keywords:
 - vbawd10.chm162595816
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Replacement.Application
 ms.assetid: ba3cabce-b4f6-edcc-abc0-471be6ec02cb

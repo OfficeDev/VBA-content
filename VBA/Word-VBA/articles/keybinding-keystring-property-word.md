@@ -3,7 +3,7 @@ title: KeyBinding.KeyString Property (Word)
 keywords: vbawd10.chm160956418
 f1_keywords:
 - vbawd10.chm160956418
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBinding.KeyString
 ms.assetid: 2ee7b80c-e923-7b0a-81f3-d807b38cba4e

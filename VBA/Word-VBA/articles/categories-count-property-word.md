@@ -3,7 +3,7 @@ title: Categories.Count Property (Word)
 keywords: vbawd10.chm126550017
 f1_keywords:
 - vbawd10.chm126550017
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Categories.Count
 ms.assetid: 3aa912e6-12f3-0be5-ab24-8e26e15ba40e

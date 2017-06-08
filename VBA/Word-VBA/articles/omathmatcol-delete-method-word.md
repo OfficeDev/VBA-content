@@ -3,7 +3,7 @@ title: OMathMatCol.Delete Method (Word)
 keywords: vbawd10.chm24445128
 f1_keywords:
 - vbawd10.chm24445128
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatCol.Delete
 ms.assetid: dda6ddbf-03d5-c68e-8d95-9bc1c8ebaddd

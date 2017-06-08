@@ -3,7 +3,7 @@ title: Application.NormalTemplate Property (Word)
 keywords: vbawd10.chm158334984
 f1_keywords:
 - vbawd10.chm158334984
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.NormalTemplate
 ms.assetid: 0ffd1cfd-78da-5189-2504-bbc04bf5b484

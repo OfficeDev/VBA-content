@@ -3,7 +3,7 @@ title: Variable.Index Property (Word)
 keywords: vbawd10.chm157679618
 f1_keywords:
 - vbawd10.chm157679618
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Variable.Index
 ms.assetid: 203623e2-61ba-a6d4-e1a2-cdb7a05d2857

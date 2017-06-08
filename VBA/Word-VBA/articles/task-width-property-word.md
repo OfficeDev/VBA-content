@@ -3,7 +3,7 @@ title: Task.Width Property (Word)
 keywords: vbawd10.chm159514627
 f1_keywords:
 - vbawd10.chm159514627
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Task.Width
 ms.assetid: 3cba40e6-d097-04ff-d42c-435ae7fb57f1

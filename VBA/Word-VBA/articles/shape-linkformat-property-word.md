@@ -3,7 +3,7 @@ title: Shape.LinkFormat Property (Word)
 keywords: vbawd10.chm161481206
 f1_keywords:
 - vbawd10.chm161481206
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.LinkFormat
 ms.assetid: 68645111-3036-da95-eab7-3d78a6896e51

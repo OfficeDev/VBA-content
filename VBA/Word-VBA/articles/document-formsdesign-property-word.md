@@ -3,7 +3,7 @@ title: Document.FormsDesign Property (Word)
 keywords: vbawd10.chm158007396
 f1_keywords:
 - vbawd10.chm158007396
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.FormsDesign
 ms.assetid: f5ec4968-fb3e-5cca-de0b-55c36a7ae584

@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Caption Property (Word)
 keywords: vbawd10.chm94568448
 f1_keywords:
 - vbawd10.chm94568448
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Caption
 ms.assetid: 54fdd1bd-b5d5-fdb1-5963-cab07a8a86b0

@@ -3,7 +3,7 @@ title: OtherCorrectionsExceptions.Creator Property (Word)
 keywords: vbawd10.chm165610473
 f1_keywords:
 - vbawd10.chm165610473
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OtherCorrectionsExceptions.Creator
 ms.assetid: b555cd72-95a8-edd9-a335-5885b85ef517

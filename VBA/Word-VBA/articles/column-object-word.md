@@ -3,7 +3,7 @@ title: Column Object (Word)
 keywords: vbawd10.chm2383
 f1_keywords:
 - vbawd10.chm2383
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column
 ms.assetid: 49d68571-2a57-6795-34b9-eb09aeb43043

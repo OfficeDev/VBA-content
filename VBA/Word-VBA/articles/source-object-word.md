@@ -3,7 +3,7 @@ title: Source Object (Word)
 keywords: vbawd10.chm2149
 f1_keywords:
 - vbawd10.chm2149
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Source
 ms.assetid: f90108a8-6432-a700-86ce-7b8f9e9c034b

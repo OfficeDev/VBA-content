@@ -3,7 +3,7 @@ title: Legend.Name Property (Word)
 keywords: vbawd10.chm147193966
 f1_keywords:
 - vbawd10.chm147193966
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend.Name
 ms.assetid: 84bbfb61-98f3-20eb-0a6f-ec922b566c11

@@ -3,7 +3,7 @@ title: Application.MailingLabel Property (Word)
 keywords: vbawd10.chm158334994
 f1_keywords:
 - vbawd10.chm158334994
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.MailingLabel
 ms.assetid: 7eba3273-4a4c-6cdf-004a-4a0d214d6127

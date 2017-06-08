@@ -3,7 +3,7 @@ title: View.ShowComments Property (Word)
 keywords: vbawd10.chm161808419
 f1_keywords:
 - vbawd10.chm161808419
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowComments
 ms.assetid: 01d688e8-9a5c-acd3-1626-d45a24a6b3b2

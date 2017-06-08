@@ -3,7 +3,7 @@ title: XMLMapping.IsMapped Property (Word)
 keywords: vbawd10.chm199688192
 f1_keywords:
 - vbawd10.chm199688192
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLMapping.IsMapped
 ms.assetid: e78ae752-1f8f-5f18-0755-97ec10ab68ec

@@ -3,7 +3,7 @@ title: Document.GetCrossReferenceItems Method (Word)
 keywords: vbawd10.chm158007443
 f1_keywords:
 - vbawd10.chm158007443
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.GetCrossReferenceItems
 ms.assetid: 380e3019-2574-f50b-d871-dcebb564b06e

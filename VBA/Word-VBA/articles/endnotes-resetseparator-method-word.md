@@ -3,7 +3,7 @@ title: Endnotes.ResetSeparator Method (Word)
 keywords: vbawd10.chm155254791
 f1_keywords:
 - vbawd10.chm155254791
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.ResetSeparator
 ms.assetid: 9d525a4b-d3ed-5a31-9c07-1c19129cd171

@@ -3,7 +3,7 @@ title: UndoRecord.Parent Property (Word)
 keywords: vbawd10.chm56099818
 f1_keywords:
 - vbawd10.chm56099818
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.UndoRecord.Parent
 ms.assetid: aa940b20-df12-a8ed-fe98-242102ca0df1

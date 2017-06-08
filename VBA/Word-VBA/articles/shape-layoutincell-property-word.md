@@ -3,7 +3,7 @@ title: Shape.LayoutInCell Property (Word)
 keywords: vbawd10.chm161480849
 f1_keywords:
 - vbawd10.chm161480849
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.LayoutInCell
 ms.assetid: 6a80b806-2a7b-aced-4601-774d8937ee2f

@@ -3,7 +3,7 @@ title: Document.TextLineEnding Property (Word)
 keywords: vbawd10.chm158007654
 f1_keywords:
 - vbawd10.chm158007654
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TextLineEnding
 ms.assetid: 6e1f2243-473c-0294-623e-c09588645ee3

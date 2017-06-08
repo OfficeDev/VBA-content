@@ -3,7 +3,7 @@ title: Categories.Parent Property (Word)
 keywords: vbawd10.chm126551018
 f1_keywords:
 - vbawd10.chm126551018
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Categories.Parent
 ms.assetid: a85305f2-a3af-643c-70b5-b2bdf7b9cc81

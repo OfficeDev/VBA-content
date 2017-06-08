@@ -3,7 +3,7 @@ title: LineNumbering.CountBy Property (Word)
 keywords: vbawd10.chm158466151
 f1_keywords:
 - vbawd10.chm158466151
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering.CountBy
 ms.assetid: 7cb90bfb-84a9-d52f-f406-7bef835744d3

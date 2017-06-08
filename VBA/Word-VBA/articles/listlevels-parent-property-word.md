@@ -3,7 +3,7 @@ title: ListLevels.Parent Property (Word)
 keywords: vbawd10.chm160302058
 f1_keywords:
 - vbawd10.chm160302058
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevels.Parent
 ms.assetid: fce05204-f947-08da-b87a-8953c76560e9

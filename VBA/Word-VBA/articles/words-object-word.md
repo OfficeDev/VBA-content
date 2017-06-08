@@ -3,7 +3,7 @@ title: Words Object (Word)
 keywords: vbawd10.chm2396
 f1_keywords:
 - vbawd10.chm2396
-ms.prod: WORD
+ms.prod: word
 ms.assetid: a718f69f-1db1-231a-9d65-bf20b48778ed
 ms.date: 06/08/2017
 ---

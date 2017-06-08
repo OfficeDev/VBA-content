@@ -3,7 +3,7 @@ title: TableOfAuthorities.EntrySeparator Property (Word)
 keywords: vbawd10.chm152109063
 f1_keywords:
 - vbawd10.chm152109063
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfAuthorities.EntrySeparator
 ms.assetid: d063aabf-d50e-d66b-4450-5c589d79d3be

@@ -3,7 +3,7 @@ title: KeyBindings.Creator Property (Word)
 keywords: vbawd10.chm160826345
 f1_keywords:
 - vbawd10.chm160826345
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBindings.Creator
 ms.assetid: 03f77c18-be70-88fd-29e7-c8d3eaee9e1b

@@ -1,6 +1,6 @@
 ---
 title: Conflicts Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflicts
 ms.assetid: 476e8f6d-c93e-b372-2fa7-1c9a4a84a182

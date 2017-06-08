@@ -3,7 +3,7 @@ title: Selection.Sentences Property (Word)
 keywords: vbawd10.chm158662708
 f1_keywords:
 - vbawd10.chm158662708
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Sentences
 ms.assetid: 38d0e311-5033-bada-005b-3be642a618c1

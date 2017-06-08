@@ -3,7 +3,7 @@ title: Range.BoldBi Property (Word)
 keywords: vbawd10.chm157155728
 f1_keywords:
 - vbawd10.chm157155728
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.BoldBi
 ms.assetid: 80a4e893-0337-41ef-5a45-506deea43f29

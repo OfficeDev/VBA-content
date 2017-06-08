@@ -3,7 +3,7 @@ title: Paragraph.LeftIndent Property (Word)
 keywords: vbawd10.chm156696683
 f1_keywords:
 - vbawd10.chm156696683
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.LeftIndent
 ms.assetid: 1e30416e-fcf2-e0cd-694a-d3608fa950f8

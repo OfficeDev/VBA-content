@@ -3,7 +3,7 @@ title: Selection.CreateAutoTextEntry Method (Word)
 keywords: vbawd10.chm158663190
 f1_keywords:
 - vbawd10.chm158663190
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.CreateAutoTextEntry
 ms.assetid: def6f758-af70-eaf2-f15c-4a6a28c247b5

@@ -3,7 +3,7 @@ title: Selection.InsertRowsBelow Method (Word)
 keywords: vbawd10.chm158663193
 f1_keywords:
 - vbawd10.chm158663193
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.InsertRowsBelow
 ms.assetid: d36441d1-ff1f-b557-d0d0-1d12d4abab2d

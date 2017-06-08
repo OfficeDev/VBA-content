@@ -3,7 +3,7 @@ title: Envelope.Vertical Property (Word)
 keywords: vbawd10.chm152567830
 f1_keywords:
 - vbawd10.chm152567830
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.Vertical
 ms.assetid: 23f8fbf0-375e-98c2-81b4-451cc8973e85

@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeDefineStyles Property (Word)
 keywords: vbawd10.chm165347598
 f1_keywords:
 - vbawd10.chm165347598
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeDefineStyles
 ms.assetid: ec9df413-17f5-a2c2-4386-7b1d44328b78

@@ -1,6 +1,6 @@
 ---
 title: WdMailMergeComparison Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMailMergeComparison
 ms.assetid: 2c1712ac-b9fb-d42a-79d7-70ca8383820c

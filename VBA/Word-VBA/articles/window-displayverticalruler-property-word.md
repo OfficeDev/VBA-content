@@ -3,7 +3,7 @@ title: Window.DisplayVerticalRuler Property (Word)
 keywords: vbawd10.chm157417485
 f1_keywords:
 - vbawd10.chm157417485
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.DisplayVerticalRuler
 ms.assetid: a529b86a-80a1-0ee3-821c-f11bcdb2a9ca

@@ -3,7 +3,7 @@ title: Global.DDERequest Method (Word)
 keywords: vbawd10.chm163119417
 f1_keywords:
 - vbawd10.chm163119417
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.DDERequest
 ms.assetid: be540a7b-9a38-633a-cf48-2a15a3159a51

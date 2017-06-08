@@ -3,7 +3,7 @@ title: MailMergeDataSource.ConnectString Property (Word)
 keywords: vbawd10.chm152895493
 f1_keywords:
 - vbawd10.chm152895493
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeDataSource.ConnectString
 ms.assetid: e402bc58-89e8-f18a-f70d-d970297777be

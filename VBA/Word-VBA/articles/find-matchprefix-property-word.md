@@ -3,7 +3,7 @@ title: Find.MatchPrefix Property (Word)
 keywords: vbawd10.chm162529385
 f1_keywords:
 - vbawd10.chm162529385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchPrefix
 ms.assetid: 6af7190a-2950-df5e-d78c-12ea3e60a357

@@ -3,7 +3,7 @@ title: OMathMatRows Object (Word)
 keywords: vbawd10.chm840
 f1_keywords:
 - vbawd10.chm840
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatRows
 ms.assetid: beeb74aa-23ba-b9da-1f24-65c91fb3dc2c

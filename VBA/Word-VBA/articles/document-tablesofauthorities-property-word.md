@@ -3,7 +3,7 @@ title: Document.TablesOfAuthorities Property (Word)
 keywords: vbawd10.chm158007328
 f1_keywords:
 - vbawd10.chm158007328
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TablesOfAuthorities
 ms.assetid: c49d1fc5-1d0a-3b6e-ab9e-62b968766cd3

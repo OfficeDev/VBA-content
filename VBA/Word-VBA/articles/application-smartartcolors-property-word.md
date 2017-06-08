@@ -3,7 +3,7 @@ title: Application.SmartArtColors Property (Word)
 keywords: vbawd10.chm158335459
 f1_keywords:
 - vbawd10.chm158335459
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.SmartArtColors
 ms.assetid: e2cb12c4-3162-2327-9210-bd912dffa8e9

@@ -3,7 +3,7 @@ title: Options.AllowCompoundNounProcessing Property (Word)
 keywords: vbawd10.chm162988379
 f1_keywords:
 - vbawd10.chm162988379
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowCompoundNounProcessing
 ms.assetid: 78da1977-2d44-7686-5e31-2e7c340f726f

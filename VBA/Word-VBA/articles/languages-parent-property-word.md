@@ -3,7 +3,7 @@ title: Languages.Parent Property (Word)
 keywords: vbawd10.chm158204906
 f1_keywords:
 - vbawd10.chm158204906
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Languages.Parent
 ms.assetid: b28f73a2-0478-c9cc-43b1-b298bb24a240

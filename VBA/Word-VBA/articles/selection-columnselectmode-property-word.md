@@ -3,7 +3,7 @@ title: Selection.ColumnSelectMode Property (Word)
 keywords: vbawd10.chm158663063
 f1_keywords:
 - vbawd10.chm158663063
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.ColumnSelectMode
 ms.assetid: de146d32-63aa-3a17-6eeb-32cccf3f8bfd

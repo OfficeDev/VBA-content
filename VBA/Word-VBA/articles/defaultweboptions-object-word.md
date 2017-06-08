@@ -1,6 +1,6 @@
 ---
 title: DefaultWebOptions Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions
 ms.assetid: 7459af1e-c495-f84f-929c-f7a611ec49b3

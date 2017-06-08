@@ -3,7 +3,7 @@ title: Chart.HasTitle Property (Word)
 keywords: vbawd10.chm79364097
 f1_keywords:
 - vbawd10.chm79364097
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.HasTitle
 ms.assetid: 5995f349-3809-e842-69a6-e9227b731021

@@ -3,7 +3,7 @@ title: Sections.Last Property (Word)
 keywords: vbawd10.chm156893188
 f1_keywords:
 - vbawd10.chm156893188
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.Last
 ms.assetid: 57b1a019-8998-861a-6662-da0696df9c86

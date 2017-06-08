@@ -3,7 +3,7 @@ title: Application.OrganizerRename Method (Word)
 keywords: vbawd10.chm158335296
 f1_keywords:
 - vbawd10.chm158335296
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.OrganizerRename
 ms.assetid: abbe323c-b882-e497-608f-80004e166c8a

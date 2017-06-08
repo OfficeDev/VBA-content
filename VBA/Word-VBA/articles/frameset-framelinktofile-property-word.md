@@ -3,7 +3,7 @@ title: Frameset.FrameLinkToFile Property (Word)
 keywords: vbawd10.chm165806117
 f1_keywords:
 - vbawd10.chm165806117
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frameset.FrameLinkToFile
 ms.assetid: a27ce637-a892-3697-a727-e7c60eb26aaf

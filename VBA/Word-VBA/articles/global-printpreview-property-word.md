@@ -3,7 +3,7 @@ title: Global.PrintPreview Property (Word)
 keywords: vbawd10.chm163119131
 f1_keywords:
 - vbawd10.chm163119131
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.PrintPreview
 ms.assetid: f9da7e12-0d4b-4d1c-fd53-219f0f9c146f

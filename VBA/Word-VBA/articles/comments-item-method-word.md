@@ -3,7 +3,7 @@ title: Comments.Item Method (Word)
 keywords: vbawd10.chm155189248
 f1_keywords:
 - vbawd10.chm155189248
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comments.Item
 ms.assetid: 4e8fa38f-a623-fb70-3370-bd4ae9503019

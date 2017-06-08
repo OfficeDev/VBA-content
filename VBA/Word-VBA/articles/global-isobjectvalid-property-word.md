@@ -3,7 +3,7 @@ title: Global.IsObjectValid Property (Word)
 keywords: vbawd10.chm163119213
 f1_keywords:
 - vbawd10.chm163119213
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.IsObjectValid
 ms.assetid: 73115443-ad95-8e58-cd35-b9a34c6e641d

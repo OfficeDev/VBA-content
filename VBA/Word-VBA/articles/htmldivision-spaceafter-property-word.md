@@ -3,7 +3,7 @@ title: HTMLDivision.SpaceAfter Property (Word)
 keywords: vbawd10.chm166133766
 f1_keywords:
 - vbawd10.chm166133766
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.SpaceAfter
 ms.assetid: 27101c18-02d9-c4b4-77b8-4d324a02e8d4

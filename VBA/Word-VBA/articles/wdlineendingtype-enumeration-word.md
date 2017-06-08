@@ -1,6 +1,6 @@
 ---
 title: WdLineEndingType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdLineEndingType
 ms.assetid: 6a0d8e41-4248-e48f-1db6-77fa59a6f212

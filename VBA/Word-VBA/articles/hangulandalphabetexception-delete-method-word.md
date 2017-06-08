@@ -3,7 +3,7 @@ title: HangulAndAlphabetException.Delete Method (Word)
 keywords: vbawd10.chm164757605
 f1_keywords:
 - vbawd10.chm164757605
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulAndAlphabetException.Delete
 ms.assetid: f7d9341d-619e-06c5-d4e4-9d9400a20fd7

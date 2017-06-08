@@ -1,6 +1,6 @@
 ---
 title: WdStyleType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdStyleType
 ms.assetid: 5ef956ab-feef-b218-d5a3-d417798e3d52

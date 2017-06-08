@@ -3,7 +3,7 @@ title: FillFormat.TextureAlignment Property (Word)
 keywords: vbawd10.chm164102261
 f1_keywords:
 - vbawd10.chm164102261
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.TextureAlignment
 ms.assetid: c28ba99a-8219-996c-676d-ee98d908ab0f

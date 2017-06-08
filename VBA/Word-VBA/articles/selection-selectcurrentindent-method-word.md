@@ -3,7 +3,7 @@ title: Selection.SelectCurrentIndent Method (Word)
 keywords: vbawd10.chm158663176
 f1_keywords:
 - vbawd10.chm158663176
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentIndent
 ms.assetid: 3a71080e-935c-fc3c-40b9-e82acf9d28cc

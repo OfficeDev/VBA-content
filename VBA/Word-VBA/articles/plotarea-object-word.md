@@ -3,7 +3,7 @@ title: PlotArea Object (Word)
 keywords: vbawd10.chm816
 f1_keywords:
 - vbawd10.chm816
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea
 ms.assetid: 72d30767-7cfc-3063-0b49-f9fbc129a52c

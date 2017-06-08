@@ -3,7 +3,7 @@ title: Axis.MajorTickMark Property (Word)
 keywords: vbawd10.chm113049618
 f1_keywords:
 - vbawd10.chm113049618
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.MajorTickMark
 ms.assetid: f2e4c509-0736-44bd-249b-1963ac697ee4

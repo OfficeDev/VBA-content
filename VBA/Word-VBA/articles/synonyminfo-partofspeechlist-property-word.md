@@ -3,7 +3,7 @@ title: SynonymInfo.PartOfSpeechList Property (Word)
 keywords: vbawd10.chm161153029
 f1_keywords:
 - vbawd10.chm161153029
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SynonymInfo.PartOfSpeechList
 ms.assetid: 98d61149-8e25-7c1d-38af-d211d1d205f6

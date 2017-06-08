@@ -3,7 +3,7 @@ title: Endnotes.Creator Property (Word)
 keywords: vbawd10.chm155255785
 f1_keywords:
 - vbawd10.chm155255785
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnotes.Creator
 ms.assetid: 01b4e67b-b7d3-36ed-b58c-a0aab01035e7

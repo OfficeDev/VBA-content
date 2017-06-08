@@ -3,7 +3,7 @@ title: OMathMatRow.Parent Property (Word)
 keywords: vbawd10.chm196477030
 f1_keywords:
 - vbawd10.chm196477030
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMatRow.Parent
 ms.assetid: 96c1e0d0-dda0-9209-4f23-fc0caddd0fb8

@@ -1,6 +1,6 @@
 ---
 title: WdCharacterWidth Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCharacterWidth
 ms.assetid: cfa0352b-65ed-5c45-22f1-b902033a7af7

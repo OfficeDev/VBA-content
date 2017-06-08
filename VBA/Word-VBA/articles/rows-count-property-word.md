@@ -3,7 +3,7 @@ title: Rows.Count Property (Word)
 keywords: vbawd10.chm155975682
 f1_keywords:
 - vbawd10.chm155975682
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.Count
 ms.assetid: 6e326ef4-2a5e-dd90-a1bb-c2b6d59006e6

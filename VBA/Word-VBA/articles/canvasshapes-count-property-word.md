@@ -3,7 +3,7 @@ title: CanvasShapes.Count Property (Word)
 keywords: vbawd10.chm7536642
 f1_keywords:
 - vbawd10.chm7536642
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.Count
 ms.assetid: d6f54f95-716b-1b6a-33b8-0dbbc1006a2b

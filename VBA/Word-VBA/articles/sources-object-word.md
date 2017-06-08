@@ -1,6 +1,6 @@
 ---
 title: Sources Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sources
 ms.assetid: 92a74894-1c69-0ff1-749d-baa49b45a174

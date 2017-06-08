@@ -3,7 +3,7 @@ title: OMathAutoCorrectEntry Object (Word)
 keywords: vbawd10.chm3841
 f1_keywords:
 - vbawd10.chm3841
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathAutoCorrectEntry
 ms.assetid: 477e0077-ba5c-ca81-1aaf-20b941bd2a15

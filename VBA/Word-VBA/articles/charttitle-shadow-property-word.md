@@ -3,7 +3,7 @@ title: ChartTitle.Shadow Property (Word)
 keywords: vbawd10.chm65273866
 f1_keywords:
 - vbawd10.chm65273866
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartTitle.Shadow
 ms.assetid: 200c4a85-5480-28ca-a64a-93e82ca2d638

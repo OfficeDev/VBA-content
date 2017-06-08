@@ -3,7 +3,7 @@ title: XMLNamespace Object (Word)
 keywords: vbawd10.chm35
 f1_keywords:
 - vbawd10.chm35
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNamespace
 ms.assetid: a50ed533-8961-f433-d501-797e5d678fda

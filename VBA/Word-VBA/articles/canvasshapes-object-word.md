@@ -3,7 +3,7 @@ title: CanvasShapes Object (Word)
 keywords: vbawd10.chm115
 f1_keywords:
 - vbawd10.chm115
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes
 ms.assetid: f4b37915-7fde-2a21-0df0-fc3c97983900

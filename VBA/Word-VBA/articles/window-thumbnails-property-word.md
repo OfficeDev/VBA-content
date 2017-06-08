@@ -3,7 +3,7 @@ title: Window.Thumbnails Property (Word)
 keywords: vbawd10.chm157417509
 f1_keywords:
 - vbawd10.chm157417509
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Thumbnails
 ms.assetid: 2979b109-e2e6-34de-539b-53c46b0d0c55

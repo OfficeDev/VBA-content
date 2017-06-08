@@ -3,7 +3,7 @@ title: Chart.ApplyLayout Method (Word)
 keywords: vbawd10.chm79366564
 f1_keywords:
 - vbawd10.chm79366564
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.ApplyLayout
 ms.assetid: f23d8a12-65d5-3336-4381-76bfc4b73507

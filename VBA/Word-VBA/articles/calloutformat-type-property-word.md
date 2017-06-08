@@ -3,7 +3,7 @@ title: CalloutFormat.Type Property (Word)
 keywords: vbawd10.chm163905645
 f1_keywords:
 - vbawd10.chm163905645
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CalloutFormat.Type
 ms.assetid: cb19e1fa-729a-7068-763e-9254b7b55e90

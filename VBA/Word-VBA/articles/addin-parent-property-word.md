@@ -3,7 +3,7 @@ title: AddIn.Parent Property (Word)
 keywords: vbawd10.chm159253482
 f1_keywords:
 - vbawd10.chm159253482
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AddIn.Parent
 ms.assetid: 21a3386c-f8f3-2c25-930d-8c437f7be121

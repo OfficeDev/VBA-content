@@ -3,7 +3,7 @@ title: FirstLetterExceptions.Creator Property (Word)
 keywords: vbawd10.chm155583465
 f1_keywords:
 - vbawd10.chm155583465
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FirstLetterExceptions.Creator
 ms.assetid: 776e2ae5-6de8-ecaa-bd83-9698ebf04882

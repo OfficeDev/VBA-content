@@ -3,7 +3,7 @@ title: Global Object (Word)
 keywords: vbawd10.chm2489
 f1_keywords:
 - vbawd10.chm2489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global
 ms.assetid: b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c

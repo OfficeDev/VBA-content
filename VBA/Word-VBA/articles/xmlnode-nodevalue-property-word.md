@@ -3,7 +3,7 @@ title: XMLNode.NodeValue Property (Word)
 keywords: vbawd10.chm37748752
 f1_keywords:
 - vbawd10.chm37748752
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNode.NodeValue
 ms.assetid: 055e2b09-7ffa-e7c2-1b6c-83176dbe79db

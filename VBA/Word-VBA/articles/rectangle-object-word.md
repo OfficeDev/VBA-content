@@ -3,7 +3,7 @@ title: Rectangle Object (Word)
 keywords: vbawd10.chm3571
 f1_keywords:
 - vbawd10.chm3571
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rectangle
 ms.assetid: 90ad4f48-2051-38f9-9b2e-a14bd38478be

@@ -3,7 +3,7 @@ title: EmailOptions.ComposeStyle Property (Word)
 keywords: vbawd10.chm165347437
 f1_keywords:
 - vbawd10.chm165347437
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.ComposeStyle
 ms.assetid: 0c1ada5e-7bf0-2ae1-3223-ed4f76252bb1

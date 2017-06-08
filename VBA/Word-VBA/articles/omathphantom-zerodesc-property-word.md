@@ -3,7 +3,7 @@ title: OMathPhantom.ZeroDesc Property (Word)
 keywords: vbawd10.chm88146027
 f1_keywords:
 - vbawd10.chm88146027
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathPhantom.ZeroDesc
 ms.assetid: 56236b3e-6594-659d-8f04-40cda1393835

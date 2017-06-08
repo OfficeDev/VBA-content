@@ -3,7 +3,7 @@ title: Series.ApplyPictToSides Property (Word)
 keywords: vbawd10.chm123733627
 f1_keywords:
 - vbawd10.chm123733627
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.ApplyPictToSides
 ms.assetid: b8277abd-64c6-2b1c-23e6-5ff8c21619fc

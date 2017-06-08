@@ -3,7 +3,7 @@ title: Field.Code Property (Word)
 keywords: vbawd10.chm154075136
 f1_keywords:
 - vbawd10.chm154075136
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Code
 ms.assetid: 4273619f-184c-a964-6c0d-14fec927ec01

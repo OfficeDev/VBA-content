@@ -1,6 +1,6 @@
 ---
 title: Capture and Respond to Events in the Data Store
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 5d9fd121-be59-0bcf-68d4-48bf62fc5003
 ms.date: 06/08/2017
 ---

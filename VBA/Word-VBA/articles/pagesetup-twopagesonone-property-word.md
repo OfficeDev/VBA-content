@@ -3,7 +3,7 @@ title: PageSetup.TwoPagesOnOne Property (Word)
 keywords: vbawd10.chm158400633
 f1_keywords:
 - vbawd10.chm158400633
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.TwoPagesOnOne
 ms.assetid: c9d8edac-1fea-5fdb-a4e2-193920fa89d1

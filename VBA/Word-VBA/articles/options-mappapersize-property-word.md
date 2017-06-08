@@ -3,7 +3,7 @@ title: Options.MapPaperSize Property (Word)
 keywords: vbawd10.chm162988321
 f1_keywords:
 - vbawd10.chm162988321
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MapPaperSize
 ms.assetid: aace2fd4-d2a5-852a-8918-a40114c450cd

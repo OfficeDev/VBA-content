@@ -3,7 +3,7 @@ title: CoAuthoring.Application Property (Word)
 keywords: vbawd10.chm254870504
 f1_keywords:
 - vbawd10.chm254870504
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.Application
 ms.assetid: 1bc49705-dfe2-9997-685f-2994ad8f8827

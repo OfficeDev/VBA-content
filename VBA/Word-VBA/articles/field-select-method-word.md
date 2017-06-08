@@ -3,7 +3,7 @@ title: Field.Select Method (Word)
 keywords: vbawd10.chm154140671
 f1_keywords:
 - vbawd10.chm154140671
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Field.Select
 ms.assetid: 03fa304c-acc7-30a5-7dfa-06098bbdac7a

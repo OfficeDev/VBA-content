@@ -3,7 +3,7 @@ title: TablesOfFigures.Count Property (Word)
 keywords: vbawd10.chm153223169
 f1_keywords:
 - vbawd10.chm153223169
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfFigures.Count
 ms.assetid: d5fd1b6e-574c-d4ca-111b-483f58a1ed28

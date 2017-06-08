@@ -3,7 +3,7 @@ title: Broadcast.Parent Property (Word)
 keywords: vbawd10.chm36439018
 f1_keywords:
 - vbawd10.chm36439018
-ms.prod: WORD
+ms.prod: word
 ms.assetid: adebf4f4-665c-cefe-3df1-4b300561980d
 ms.date: 06/08/2017
 ---

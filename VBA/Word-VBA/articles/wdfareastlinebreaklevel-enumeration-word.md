@@ -1,6 +1,6 @@
 ---
 title: WdFarEastLineBreakLevel Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdFarEastLineBreakLevel
 ms.assetid: 8147a3c2-d5bb-b0fa-a9c1-07875a75bd20

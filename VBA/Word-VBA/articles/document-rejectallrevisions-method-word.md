@@ -3,7 +3,7 @@ title: Document.RejectAllRevisions Method (Word)
 keywords: vbawd10.chm158007614
 f1_keywords:
 - vbawd10.chm158007614
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.RejectAllRevisions
 ms.assetid: d0cf9e63-0057-c832-90b5-e4057c888528

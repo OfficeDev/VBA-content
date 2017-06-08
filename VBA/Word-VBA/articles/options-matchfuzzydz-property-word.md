@@ -3,7 +3,7 @@ title: Options.MatchFuzzyDZ Property (Word)
 keywords: vbawd10.chm162988350
 f1_keywords:
 - vbawd10.chm162988350
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyDZ
 ms.assetid: 4594528b-3855-512d-9738-878ce68c4bf7

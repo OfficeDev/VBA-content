@@ -3,7 +3,7 @@ title: PictureFormat.Brightness Property (Word)
 keywords: vbawd10.chm164298852
 f1_keywords:
 - vbawd10.chm164298852
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PictureFormat.Brightness
 ms.assetid: 385fbf20-db89-e159-31ec-2c9cf3bb5a3a

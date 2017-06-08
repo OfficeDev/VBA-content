@@ -3,7 +3,7 @@ title: Point.Paste Method (Word)
 keywords: vbawd10.chm262144211
 f1_keywords:
 - vbawd10.chm262144211
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Paste
 ms.assetid: 88a215df-a271-2d09-8ffe-765fcb990163

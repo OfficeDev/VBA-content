@@ -3,7 +3,7 @@ title: Application.LoadMasterList Method (Word)
 keywords: vbawd10.chm158335445
 f1_keywords:
 - vbawd10.chm158335445
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.LoadMasterList
 ms.assetid: f7722058-f097-3b8c-f124-df479e3efde6

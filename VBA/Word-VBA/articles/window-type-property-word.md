@@ -3,7 +3,7 @@ title: Window.Type Property (Word)
 keywords: vbawd10.chm157417487
 f1_keywords:
 - vbawd10.chm157417487
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Type
 ms.assetid: 6bf9c560-09f1-7d39-cf75-8610eae6a60b

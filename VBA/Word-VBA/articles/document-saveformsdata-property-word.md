@@ -3,7 +3,7 @@ title: Document.SaveFormsData Property (Word)
 keywords: vbawd10.chm158007347
 f1_keywords:
 - vbawd10.chm158007347
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SaveFormsData
 ms.assetid: 0f8a14be-49e9-06d4-d601-aa724c4c3c42

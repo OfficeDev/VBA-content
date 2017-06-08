@@ -3,7 +3,7 @@ title: Categories.Item Method (Word)
 keywords: vbawd10.chm126550016
 f1_keywords:
 - vbawd10.chm126550016
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Categories.Item
 ms.assetid: 49a3f591-3675-ec7f-73bc-adc1e5bb41cf

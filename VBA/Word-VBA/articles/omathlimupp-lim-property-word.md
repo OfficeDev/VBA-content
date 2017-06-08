@@ -3,7 +3,7 @@ title: OMathLimUpp.Lim Property (Word)
 keywords: vbawd10.chm113639528
 f1_keywords:
 - vbawd10.chm113639528
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathLimUpp.Lim
 ms.assetid: 7b0d586c-1a1d-a7cd-6ef7-1aa1de1b1712

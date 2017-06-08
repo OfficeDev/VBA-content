@@ -3,7 +3,7 @@ title: Options.PrintBackground Property (Word)
 keywords: vbawd10.chm162988069
 f1_keywords:
 - vbawd10.chm162988069
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PrintBackground
 ms.assetid: 3e51bfb2-63b1-d072-2a63-f3a417ffdba5

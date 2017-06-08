@@ -3,7 +3,7 @@ title: TableStyle.Application Property (Word)
 keywords: vbawd10.chm244777960
 f1_keywords:
 - vbawd10.chm244777960
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.Application
 ms.assetid: 163e9513-5f42-946b-93b8-e901c6d4f219

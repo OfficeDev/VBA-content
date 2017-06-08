@@ -3,7 +3,7 @@ title: Style.AutomaticallyUpdate Property (Word)
 keywords: vbawd10.chm153878541
 f1_keywords:
 - vbawd10.chm153878541
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.AutomaticallyUpdate
 ms.assetid: 6b224938-9519-5cb3-4ca5-ca9e465432e9

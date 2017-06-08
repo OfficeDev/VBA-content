@@ -3,7 +3,7 @@ title: Document.ApplyDocumentTheme Method
 keywords: vbawd10.chm158007842
 f1_keywords:
 - vbawd10.chm158007842
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ApplyDocumentTheme
 ms.assetid: fd376134-f6d4-b6da-8eae-671e7e3b05e0

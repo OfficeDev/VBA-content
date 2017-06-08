@@ -3,7 +3,7 @@ title: Shading.ForegroundPatternColorIndex Property (Word)
 keywords: vbawd10.chm154796033
 f1_keywords:
 - vbawd10.chm154796033
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shading.ForegroundPatternColorIndex
 ms.assetid: 9a6e7647-b034-7ae3-55ca-9d0e1956b76f

@@ -3,7 +3,7 @@ title: TableStyle.LeftPadding Property (Word)
 keywords: vbawd10.chm244776965
 f1_keywords:
 - vbawd10.chm244776965
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableStyle.LeftPadding
 ms.assetid: e6b02546-7418-3df1-0d96-b6ec7b52f49d

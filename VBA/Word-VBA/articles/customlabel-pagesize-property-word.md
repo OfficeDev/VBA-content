@@ -3,7 +3,7 @@ title: CustomLabel.PageSize Property (Word)
 keywords: vbawd10.chm152371212
 f1_keywords:
 - vbawd10.chm152371212
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.PageSize
 ms.assetid: b2a9e63e-041a-d4fc-6135-0e1e294886a2

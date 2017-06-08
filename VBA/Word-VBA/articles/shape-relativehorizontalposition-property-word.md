@@ -3,7 +3,7 @@ title: Shape.RelativeHorizontalPosition Property (Word)
 keywords: vbawd10.chm161481004
 f1_keywords:
 - vbawd10.chm161481004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.RelativeHorizontalPosition
 ms.assetid: e691c13e-69c8-e6e4-0be8-a02a9763135a

@@ -3,7 +3,7 @@ title: Shape.AutoShapeType Property (Word)
 keywords: vbawd10.chm161480805
 f1_keywords:
 - vbawd10.chm161480805
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.AutoShapeType
 ms.assetid: 521ed05e-99b5-d917-6a26-3d911192b569

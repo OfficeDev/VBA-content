@@ -3,7 +3,7 @@ title: Paragraph.IsStyleSeparator Property (Word)
 keywords: vbawd10.chm156696710
 f1_keywords:
 - vbawd10.chm156696710
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.IsStyleSeparator
 ms.assetid: 7143ac54-0de8-ed70-e212-5d48b5718302

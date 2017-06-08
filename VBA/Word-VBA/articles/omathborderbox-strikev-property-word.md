@@ -3,7 +3,7 @@ title: OMathBorderBox.StrikeV Property (Word)
 keywords: vbawd10.chm116260973
 f1_keywords:
 - vbawd10.chm116260973
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBorderBox.StrikeV
 ms.assetid: 278dfb37-12c6-c09e-8c4f-4403fe4df7fa

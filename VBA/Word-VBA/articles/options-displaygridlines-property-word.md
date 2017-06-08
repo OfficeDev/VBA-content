@@ -3,7 +3,7 @@ title: Options.DisplayGridLines Property (Word)
 keywords: vbawd10.chm162988338
 f1_keywords:
 - vbawd10.chm162988338
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.DisplayGridLines
 ms.assetid: b4bb7db3-bdfb-74bb-891d-cd11c31d66ba

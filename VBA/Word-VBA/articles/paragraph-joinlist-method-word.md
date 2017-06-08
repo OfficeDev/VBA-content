@@ -3,7 +3,7 @@ title: Paragraph.JoinList Method (Word)
 keywords: vbawd10.chm156696915
 f1_keywords:
 - vbawd10.chm156696915
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.JoinList
 ms.assetid: 2dc97bcf-2e4e-bd4f-2873-3efcc887e9e4

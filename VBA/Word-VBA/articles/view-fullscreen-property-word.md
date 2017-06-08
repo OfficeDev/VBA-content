@@ -3,7 +3,7 @@ title: View.FullScreen Property (Word)
 keywords: vbawd10.chm161808385
 f1_keywords:
 - vbawd10.chm161808385
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.FullScreen
 ms.assetid: f26be86f-be78-84f7-8222-187040d61a40

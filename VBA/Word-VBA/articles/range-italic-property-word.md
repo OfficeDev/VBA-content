@@ -3,7 +3,7 @@ title: Range.Italic Property (Word)
 keywords: vbawd10.chm157155459
 f1_keywords:
 - vbawd10.chm157155459
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Italic
 ms.assetid: 7d52781a-46f2-7bca-067e-dc41772149fc

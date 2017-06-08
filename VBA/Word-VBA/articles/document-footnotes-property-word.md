@@ -3,7 +3,7 @@ title: Document.Footnotes Property (Word)
 keywords: vbawd10.chm158007303
 f1_keywords:
 - vbawd10.chm158007303
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Footnotes
 ms.assetid: 6257f658-69f5-4223-153b-56bc3791a99d

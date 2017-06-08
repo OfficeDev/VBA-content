@@ -3,7 +3,7 @@ title: Options.UseCharacterUnit Property (Word)
 keywords: vbawd10.chm162988378
 f1_keywords:
 - vbawd10.chm162988378
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.UseCharacterUnit
 ms.assetid: ce6e6c23-91ec-7bbc-d4fa-b2d85dcdce76

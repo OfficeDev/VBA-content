@@ -3,7 +3,7 @@ title: ChartCharacters.Parent Property (Word)
 keywords: vbawd10.chm250740886
 f1_keywords:
 - vbawd10.chm250740886
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartCharacters.Parent
 ms.assetid: bdf46399-8d7a-7882-297b-ed657761bb3e

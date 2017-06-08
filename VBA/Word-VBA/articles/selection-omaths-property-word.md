@@ -3,7 +3,7 @@ title: Selection.OMaths Property (Word)
 keywords: vbawd10.chm158662972
 f1_keywords:
 - vbawd10.chm158662972
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.OMaths
 ms.assetid: ca63d636-1f78-e075-087b-2d8d55254406

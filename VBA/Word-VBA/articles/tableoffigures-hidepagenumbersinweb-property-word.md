@@ -3,7 +3,7 @@ title: TableOfFigures.HidePageNumbersInWeb Property (Word)
 keywords: vbawd10.chm153157646
 f1_keywords:
 - vbawd10.chm153157646
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.HidePageNumbersInWeb
 ms.assetid: 2a937df2-3f0d-a1e1-e402-3e9b06717fe4

@@ -3,7 +3,7 @@ title: Chart.HasDataTable Property (Word)
 keywords: vbawd10.chm79365492
 f1_keywords:
 - vbawd10.chm79365492
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.HasDataTable
 ms.assetid: 62af9540-9a69-0e19-b884-4f2b5947152f

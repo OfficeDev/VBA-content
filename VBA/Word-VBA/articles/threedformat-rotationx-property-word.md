@@ -3,7 +3,7 @@ title: ThreeDFormat.RotationX Property (Word)
 keywords: vbawd10.chm164626541
 f1_keywords:
 - vbawd10.chm164626541
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.RotationX
 ms.assetid: 8ed5e2de-8a1b-e75e-da7d-10b6d1d1a988

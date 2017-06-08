@@ -3,7 +3,7 @@ title: Shape.Visible Property (Word)
 keywords: vbawd10.chm161480831
 f1_keywords:
 - vbawd10.chm161480831
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Visible
 ms.assetid: b3024bf2-3015-d3ce-97dc-2dd5858bf798

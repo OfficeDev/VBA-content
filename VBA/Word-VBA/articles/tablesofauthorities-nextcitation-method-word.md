@@ -3,7 +3,7 @@ title: TablesOfAuthorities.NextCitation Method (Word)
 keywords: vbawd10.chm152174695
 f1_keywords:
 - vbawd10.chm152174695
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.NextCitation
 ms.assetid: c0bfde51-ce49-1570-9599-515b43875dec

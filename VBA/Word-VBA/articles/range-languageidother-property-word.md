@@ -3,7 +3,7 @@ title: Range.LanguageIDOther Property (Word)
 keywords: vbawd10.chm157155650
 f1_keywords:
 - vbawd10.chm157155650
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.LanguageIDOther
 ms.assetid: 00b07195-df7d-a979-2534-370cf6540c79

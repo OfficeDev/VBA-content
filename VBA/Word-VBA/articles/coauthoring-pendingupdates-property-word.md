@@ -3,7 +3,7 @@ title: CoAuthoring.PendingUpdates Property (Word)
 keywords: vbawd10.chm254869507
 f1_keywords:
 - vbawd10.chm254869507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthoring.PendingUpdates
 ms.assetid: ddc669ca-89dd-d321-4544-cc24e18270c6

@@ -3,7 +3,7 @@ title: CheckBox Object (Word)
 keywords: vbawd10.chm2342
 f1_keywords:
 - vbawd10.chm2342
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CheckBox
 ms.assetid: e72b57b7-0328-9e78-94ca-ab7fb3c64afb

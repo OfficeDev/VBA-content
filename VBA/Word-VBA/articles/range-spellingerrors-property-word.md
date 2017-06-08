@@ -3,7 +3,7 @@ title: Range.SpellingErrors Property (Word)
 keywords: vbawd10.chm157155644
 f1_keywords:
 - vbawd10.chm157155644
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.SpellingErrors
 ms.assetid: 4b35a13d-2a5f-e9cd-0667-58aae00a48f1

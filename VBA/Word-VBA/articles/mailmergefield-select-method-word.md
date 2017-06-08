@@ -3,7 +3,7 @@ title: MailMergeField.Select Method (Word)
 keywords: vbawd10.chm153026559
 f1_keywords:
 - vbawd10.chm153026559
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Select
 ms.assetid: 106a5a7b-9585-8dba-197a-1ce55f8f6d28

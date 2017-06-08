@@ -3,7 +3,7 @@ title: PageSetup.OtherPagesTray Property (Word)
 keywords: vbawd10.chm158400621
 f1_keywords:
 - vbawd10.chm158400621
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.OtherPagesTray
 ms.assetid: df6a8e6d-2b49-d633-cd2b-5d3099410a73

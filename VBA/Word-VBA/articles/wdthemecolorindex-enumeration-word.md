@@ -1,6 +1,6 @@
 ---
 title: WdThemeColorIndex Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdThemeColorIndex
 ms.assetid: 53155d76-428a-20c2-66d4-241788e3377a

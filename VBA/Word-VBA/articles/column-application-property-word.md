@@ -3,7 +3,7 @@ title: Column.Application Property (Word)
 keywords: vbawd10.chm156173288
 f1_keywords:
 - vbawd10.chm156173288
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Column.Application
 ms.assetid: 2c4269f8-f723-66b1-c8b2-a440e788883a

@@ -3,7 +3,7 @@ title: TablesOfContents.Count Property (Word)
 keywords: vbawd10.chm152305665
 f1_keywords:
 - vbawd10.chm152305665
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfContents.Count
 ms.assetid: 08f54a19-3e58-4070-23f3-4242117c3368

@@ -3,7 +3,7 @@ title: TextFrame.Application Property (Word)
 keywords: vbawd10.chm162668352
 f1_keywords:
 - vbawd10.chm162668352
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.Application
 ms.assetid: 2a846405-9d5a-7a76-3d8b-402b310c3248

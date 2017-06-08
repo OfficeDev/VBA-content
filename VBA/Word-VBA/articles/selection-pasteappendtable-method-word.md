@@ -3,7 +3,7 @@ title: Selection.PasteAppendTable Method (Word)
 keywords: vbawd10.chm158663666
 f1_keywords:
 - vbawd10.chm158663666
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.PasteAppendTable
 ms.assetid: 60e12397-563f-f8bc-160f-f24a12794d01

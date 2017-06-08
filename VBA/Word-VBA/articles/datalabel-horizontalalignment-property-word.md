@@ -3,7 +3,7 @@ title: DataLabel.HorizontalAlignment Property (Word)
 keywords: vbawd10.chm233898120
 f1_keywords:
 - vbawd10.chm233898120
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabel.HorizontalAlignment
 ms.assetid: 6019a98c-6162-c3cc-a397-aeb51693f4ce

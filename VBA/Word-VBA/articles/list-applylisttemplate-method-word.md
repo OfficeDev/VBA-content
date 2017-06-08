@@ -3,7 +3,7 @@ title: List.ApplyListTemplate Method (Word)
 keywords: vbawd10.chm160563306
 f1_keywords:
 - vbawd10.chm160563306
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.List.ApplyListTemplate
 ms.assetid: 55fbbdef-880b-5b3c-ada3-4f8d423c68b3

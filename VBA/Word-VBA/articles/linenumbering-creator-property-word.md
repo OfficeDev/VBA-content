@@ -3,7 +3,7 @@ title: LineNumbering.Creator Property (Word)
 keywords: vbawd10.chm158467049
 f1_keywords:
 - vbawd10.chm158467049
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering.Creator
 ms.assetid: 701e2f58-272c-d24d-367a-a5db952ae106

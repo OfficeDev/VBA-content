@@ -3,7 +3,7 @@ title: Document.PrintRevisions Property (Word)
 keywords: vbawd10.chm158007611
 f1_keywords:
 - vbawd10.chm158007611
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.PrintRevisions
 ms.assetid: 2dd7e497-70de-6bd5-7692-5757811fdec7

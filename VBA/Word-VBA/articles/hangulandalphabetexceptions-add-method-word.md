@@ -3,7 +3,7 @@ title: HangulAndAlphabetExceptions.Add Method (Word)
 keywords: vbawd10.chm164692069
 f1_keywords:
 - vbawd10.chm164692069
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulAndAlphabetExceptions.Add
 ms.assetid: 6cbfb762-4e14-a31a-1619-e8ad725b58c8

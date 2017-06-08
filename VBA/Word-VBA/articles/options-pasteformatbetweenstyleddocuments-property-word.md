@@ -3,7 +3,7 @@ title: Options.PasteFormatBetweenStyledDocuments Property (Word)
 keywords: vbawd10.chm162988511
 f1_keywords:
 - vbawd10.chm162988511
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PasteFormatBetweenStyledDocuments
 ms.assetid: 1d54b1f7-2910-39d5-d49e-b25f75656c63

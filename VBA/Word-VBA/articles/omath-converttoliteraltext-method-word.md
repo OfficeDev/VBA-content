@@ -3,7 +3,7 @@ title: OMath.ConvertToLiteralText Method (Word)
 keywords: vbawd10.chm176357581
 f1_keywords:
 - vbawd10.chm176357581
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMath.ConvertToLiteralText
 ms.assetid: d282db34-9137-b5e0-0268-ba1981497379

@@ -3,7 +3,7 @@ title: OMathMat.Align Property (Word)
 keywords: vbawd10.chm176029802
 f1_keywords:
 - vbawd10.chm176029802
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathMat.Align
 ms.assetid: 0bd58931-706e-1af5-5d14-801e941a1acc

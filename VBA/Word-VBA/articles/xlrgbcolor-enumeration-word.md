@@ -1,6 +1,6 @@
 ---
 title: XlRgbColor Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: aa95f9b1-55ad-091c-2700-fd75c953cdea
 ms.date: 06/08/2017
 ---

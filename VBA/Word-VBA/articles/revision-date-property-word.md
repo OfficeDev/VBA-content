@@ -3,7 +3,7 @@ title: Revision.Date Property (Word)
 keywords: vbawd10.chm159449090
 f1_keywords:
 - vbawd10.chm159449090
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Revision.Date
 ms.assetid: 3c8941e1-7b1e-23d0-89f6-a83db6c00f20

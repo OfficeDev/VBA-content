@@ -3,7 +3,7 @@ title: Row.Height Property (Word)
 keywords: vbawd10.chm156237831
 f1_keywords:
 - vbawd10.chm156237831
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Height
 ms.assetid: 37586889-891d-5fb4-7f27-d590b92ba77b

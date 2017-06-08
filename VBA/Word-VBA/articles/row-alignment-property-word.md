@@ -3,7 +3,7 @@ title: Row.Alignment Property (Word)
 keywords: vbawd10.chm156237828
 f1_keywords:
 - vbawd10.chm156237828
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Alignment
 ms.assetid: 56214c5a-55d4-bcc9-857a-6591622bd264

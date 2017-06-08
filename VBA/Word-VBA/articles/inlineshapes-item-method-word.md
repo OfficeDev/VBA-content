@@ -3,7 +3,7 @@ title: InlineShapes.Item Method (Word)
 keywords: vbawd10.chm162070528
 f1_keywords:
 - vbawd10.chm162070528
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShapes.Item
 ms.assetid: 582c7498-37af-7407-f7fc-659b93c3532f

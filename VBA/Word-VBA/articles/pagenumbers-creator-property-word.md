@@ -3,7 +3,7 @@ title: PageNumbers.Creator Property (Word)
 keywords: vbawd10.chm159777769
 f1_keywords:
 - vbawd10.chm159777769
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageNumbers.Creator
 ms.assetid: bfd4e131-9c8a-2b37-b62c-fb8728b0e974

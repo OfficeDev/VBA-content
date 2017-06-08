@@ -3,7 +3,7 @@ title: DataLabels.Parent Property (Word)
 keywords: vbawd10.chm207487126
 f1_keywords:
 - vbawd10.chm207487126
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.Parent
 ms.assetid: 6983b81d-1128-8634-1cb4-9a4773eaeb95

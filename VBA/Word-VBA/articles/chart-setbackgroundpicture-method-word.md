@@ -3,7 +3,7 @@ title: Chart.SetBackgroundPicture Method (Word)
 keywords: vbawd10.chm79364161
 f1_keywords:
 - vbawd10.chm79364161
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.SetBackgroundPicture
 ms.assetid: 6bc2d271-86dd-cd4f-a7b8-323f6f7fe332

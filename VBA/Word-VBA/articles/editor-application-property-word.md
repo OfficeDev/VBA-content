@@ -3,7 +3,7 @@ title: Editor.Application Property (Word)
 keywords: vbawd10.chm225575912
 f1_keywords:
 - vbawd10.chm225575912
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Editor.Application
 ms.assetid: f688e2ba-ae9c-d996-2217-90aac458d01e

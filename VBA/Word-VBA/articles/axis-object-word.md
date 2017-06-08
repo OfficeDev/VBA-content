@@ -3,7 +3,7 @@ title: Axis Object (Word)
 keywords: vbawd10.chm1725
 f1_keywords:
 - vbawd10.chm1725
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis
 ms.assetid: 3a7ad7d8-d397-a79a-eb6a-a5f0822cbe5d

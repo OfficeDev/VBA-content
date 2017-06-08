@@ -3,7 +3,7 @@ title: Selection.Select Method (Word)
 keywords: vbawd10.chm158728191
 f1_keywords:
 - vbawd10.chm158728191
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Select
 ms.assetid: 129ca04c-05f0-90b5-c2fa-789038c34b2f

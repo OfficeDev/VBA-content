@@ -3,7 +3,7 @@ title: Chart.BarShape Property (Word)
 keywords: vbawd10.chm79364168
 f1_keywords:
 - vbawd10.chm79364168
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.BarShape
 ms.assetid: e29af332-162c-4a9e-0281-f546bd00f27c

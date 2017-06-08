@@ -3,7 +3,7 @@ title: Document.SaveAsQuickStyleSet Method (Word)
 keywords: vbawd10.chm158007820
 f1_keywords:
 - vbawd10.chm158007820
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.SaveAsQuickStyleSet
 ms.assetid: 710dc893-235d-0571-2f5a-d5111965c6fd

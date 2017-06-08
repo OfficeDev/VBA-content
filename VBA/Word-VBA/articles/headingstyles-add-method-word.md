@@ -3,7 +3,7 @@ title: HeadingStyles.Add Method (Word)
 keywords: vbawd10.chm160039012
 f1_keywords:
 - vbawd10.chm160039012
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadingStyles.Add
 ms.assetid: 1ad89871-cd73-4159-e85f-e0cdbe3633af

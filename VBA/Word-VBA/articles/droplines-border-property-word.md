@@ -3,7 +3,7 @@ title: DropLines.Border Property (Word)
 keywords: vbawd10.chm104988675
 f1_keywords:
 - vbawd10.chm104988675
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DropLines.Border
 ms.assetid: daa3ecf2-3367-233d-8798-3e6c10e4f8e0

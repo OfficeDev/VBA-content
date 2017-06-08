@@ -3,7 +3,7 @@ title: TextEffectFormat.FontName Property (Word)
 keywords: vbawd10.chm164560999
 f1_keywords:
 - vbawd10.chm164560999
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextEffectFormat.FontName
 ms.assetid: fe1f6714-ed34-0c7f-c156-b91b601149de

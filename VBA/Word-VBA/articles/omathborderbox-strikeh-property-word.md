@@ -3,7 +3,7 @@ title: OMathBorderBox.StrikeH Property (Word)
 keywords: vbawd10.chm116260972
 f1_keywords:
 - vbawd10.chm116260972
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBorderBox.StrikeH
 ms.assetid: 9533da90-b8c5-ae57-d8a5-1a09b463052e

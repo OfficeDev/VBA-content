@@ -3,7 +3,7 @@ title: CoAuthLock.Owner Property (Word)
 keywords: vbawd10.chm260046850
 f1_keywords:
 - vbawd10.chm260046850
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Owner
 ms.assetid: 55158805-f9fe-6cb0-c13a-30207b5f6f2d

@@ -3,7 +3,7 @@ title: EmailOptions.AutoFormatAsYouTypeAutoLetterWizard Property (Word)
 keywords: vbawd10.chm165347632
 f1_keywords:
 - vbawd10.chm165347632
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeAutoLetterWizard
 ms.assetid: 3a11e89f-7f02-e20c-4dcb-0bcf2724c043

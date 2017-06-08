@@ -1,6 +1,6 @@
 ---
 title: XMLNodes Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNodes
 ms.assetid: c29850f2-8db2-aef6-57ee-fed1b625616c

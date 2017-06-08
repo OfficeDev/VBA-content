@@ -3,7 +3,7 @@ title: CoAuthLock.HeaderFooter Property (Word)
 keywords: vbawd10.chm260046852
 f1_keywords:
 - vbawd10.chm260046852
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLock.HeaderFooter
 ms.assetid: feeed8d4-67d4-5b88-5aa7-a8a05f2c66df

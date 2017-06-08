@@ -3,7 +3,7 @@ title: Rows.Add Method (Word)
 keywords: vbawd10.chm155975780
 f1_keywords:
 - vbawd10.chm155975780
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.Add
 ms.assetid: d84286cb-42b5-a717-f152-0d9c3f1c6d9c

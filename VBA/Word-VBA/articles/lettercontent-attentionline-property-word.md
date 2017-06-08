@@ -3,7 +3,7 @@ title: LetterContent.AttentionLine Property (Word)
 keywords: vbawd10.chm161546355
 f1_keywords:
 - vbawd10.chm161546355
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.AttentionLine
 ms.assetid: 56cbda4c-08ff-2d0b-2b1b-2c5e0ac26fea

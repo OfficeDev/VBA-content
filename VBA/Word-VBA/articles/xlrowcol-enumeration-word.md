@@ -1,6 +1,6 @@
 ---
 title: XlRowCol Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: d9c9303d-155f-155c-6012-c7df2e1e47e4
 ms.date: 06/08/2017
 ---

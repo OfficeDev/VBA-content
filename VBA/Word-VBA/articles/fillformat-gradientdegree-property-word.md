@@ -3,7 +3,7 @@ title: FillFormat.GradientDegree Property (Word)
 keywords: vbawd10.chm164102247
 f1_keywords:
 - vbawd10.chm164102247
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.GradientDegree
 ms.assetid: c9fba9b0-cfbb-4cf1-c416-5886c77098fb

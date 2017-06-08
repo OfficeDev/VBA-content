@@ -3,7 +3,7 @@ title: Legend.Width Property (Word)
 keywords: vbawd10.chm147193978
 f1_keywords:
 - vbawd10.chm147193978
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Legend.Width
 ms.assetid: f1096781-043f-385e-6920-0b697d79a44d

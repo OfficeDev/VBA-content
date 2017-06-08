@@ -3,7 +3,7 @@ title: ListTemplate.OutlineNumbered Property (Word)
 keywords: vbawd10.chm160366593
 f1_keywords:
 - vbawd10.chm160366593
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListTemplate.OutlineNumbered
 ms.assetid: 0d728c52-b33d-7764-a0ef-6573040ed1ef

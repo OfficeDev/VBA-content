@@ -3,7 +3,7 @@ title: ListEntries.Add Method (Word)
 keywords: vbawd10.chm153354341
 f1_keywords:
 - vbawd10.chm153354341
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListEntries.Add
 ms.assetid: 02e51c84-a95e-3058-e1b5-7258ac7bc65b

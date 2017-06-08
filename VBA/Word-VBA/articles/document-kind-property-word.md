@@ -3,7 +3,7 @@ title: Document.Kind Property (Word)
 keywords: vbawd10.chm158007339
 f1_keywords:
 - vbawd10.chm158007339
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Kind
 ms.assetid: 2a2ca204-ae61-4de2-feaa-678f564b2ca0

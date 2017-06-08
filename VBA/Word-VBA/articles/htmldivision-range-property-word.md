@@ -3,7 +3,7 @@ title: HTMLDivision.Range Property (Word)
 keywords: vbawd10.chm166133761
 f1_keywords:
 - vbawd10.chm166133761
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HTMLDivision.Range
 ms.assetid: 53687058-2a1c-cbd6-3e4a-9e64aaa020b8

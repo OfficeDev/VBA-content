@@ -3,7 +3,7 @@ title: Document.Characters Property (Word)
 keywords: vbawd10.chm158007315
 f1_keywords:
 - vbawd10.chm158007315
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Characters
 ms.assetid: 1703bbe3-6c46-a45b-9f36-1205a0d2d47c

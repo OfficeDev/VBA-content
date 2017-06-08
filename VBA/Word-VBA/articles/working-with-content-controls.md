@@ -1,6 +1,6 @@
 ---
 title: Working with Content Controls
-ms.prod: WORD
+ms.prod: word
 ms.assetid: b4092c71-a383-f1db-8d68-de69e8d8a86b
 ms.date: 06/08/2017
 ---

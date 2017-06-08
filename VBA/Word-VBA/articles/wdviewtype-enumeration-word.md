@@ -1,6 +1,6 @@
 ---
 title: WdViewType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdViewType
 ms.assetid: ade8beac-7f70-2923-a40f-d2c0f900c585

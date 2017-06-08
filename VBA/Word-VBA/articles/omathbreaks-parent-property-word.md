@@ -3,7 +3,7 @@ title: OMathBreaks.Parent Property (Word)
 keywords: vbawd10.chm61276263
 f1_keywords:
 - vbawd10.chm61276263
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBreaks.Parent
 ms.assetid: 65f55e9f-598a-71fd-b2b2-e504e03d1b0f

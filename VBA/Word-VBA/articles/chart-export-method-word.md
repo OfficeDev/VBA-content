@@ -3,7 +3,7 @@ title: Chart.Export Method (Word)
 keywords: vbawd10.chm79364170
 f1_keywords:
 - vbawd10.chm79364170
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Export
 ms.assetid: 49660450-ae9f-c59e-8974-b04327a72dc0

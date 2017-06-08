@@ -3,7 +3,7 @@ title: TextColumns.Add Method (Word)
 keywords: vbawd10.chm158531785
 f1_keywords:
 - vbawd10.chm158531785
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumns.Add
 ms.assetid: 09e01558-9efc-ac84-684b-63ce459705fd

@@ -3,7 +3,7 @@ title: Template.NoProofing Property (Word)
 keywords: vbawd10.chm157941777
 f1_keywords:
 - vbawd10.chm157941777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.NoProofing
 ms.assetid: 201b9df1-a290-1d7a-569f-956b7bc2da4a

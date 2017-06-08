@@ -3,7 +3,7 @@ title: Index.Update Method (Word)
 keywords: vbawd10.chm159187046
 f1_keywords:
 - vbawd10.chm159187046
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Index.Update
 ms.assetid: c6ba93f1-d583-7872-1488-0a94c05e72fe

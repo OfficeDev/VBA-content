@@ -3,7 +3,7 @@ title: Application.Height Property (Word)
 keywords: vbawd10.chm158335066
 f1_keywords:
 - vbawd10.chm158335066
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Height
 ms.assetid: 070e8b38-8ed7-ff4a-0980-7ffc7cb901d4

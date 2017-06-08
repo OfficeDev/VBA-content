@@ -3,7 +3,7 @@ title: Options.AllowAccentedUppercase Property (Word)
 keywords: vbawd10.chm162988033
 f1_keywords:
 - vbawd10.chm162988033
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowAccentedUppercase
 ms.assetid: 69eecdb3-bec1-d0ac-785e-ba1113bc3e0e

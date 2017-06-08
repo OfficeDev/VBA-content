@@ -3,7 +3,7 @@ title: Selection Object (Word)
 keywords: vbawd10.chm2421
 f1_keywords:
 - vbawd10.chm2421
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection
 ms.assetid: 7b574a91-c33e-ecfd-6783-6b7528b2ed8f

@@ -3,7 +3,7 @@ title: FileConverter.CanOpen Property (Word)
 keywords: vbawd10.chm161021957
 f1_keywords:
 - vbawd10.chm161021957
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FileConverter.CanOpen
 ms.assetid: 0fe665dc-fe64-a61d-f6a5-a7ba2ff7b2d6

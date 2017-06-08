@@ -1,6 +1,6 @@
 ---
 title: WdSpellingWordType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdSpellingWordType
 ms.assetid: 7d0fd802-87c6-cf88-22d7-09800e256573

@@ -3,7 +3,7 @@ title: ShapeRange.ScaleHeight Method (Word)
 keywords: vbawd10.chm162856983
 f1_keywords:
 - vbawd10.chm162856983
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.ScaleHeight
 ms.assetid: 54697d85-1305-de17-dce5-aeccaa73b634

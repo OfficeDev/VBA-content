@@ -3,7 +3,7 @@ title: HangulHanjaConversionDictionaries.ClearAll Method (Word)
 keywords: vbawd10.chm165675110
 f1_keywords:
 - vbawd10.chm165675110
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.ClearAll
 ms.assetid: 920a8b08-0475-131a-28cc-58cbeb8b6a9c

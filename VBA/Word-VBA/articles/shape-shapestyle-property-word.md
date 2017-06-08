@@ -3,7 +3,7 @@ title: Shape.ShapeStyle Property (Word)
 keywords: vbawd10.chm161480854
 f1_keywords:
 - vbawd10.chm161480854
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.ShapeStyle
 ms.assetid: 7d6a6f4b-d55c-085e-1dab-c76ddbbb54ae

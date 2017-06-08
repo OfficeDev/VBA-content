@@ -3,7 +3,7 @@ title: Paragraph.SeparateList Method (Word)
 keywords: vbawd10.chm156696914
 f1_keywords:
 - vbawd10.chm156696914
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.SeparateList
 ms.assetid: 0efe3e3c-67ad-1648-f27c-4aee5811bebd

@@ -3,7 +3,7 @@ title: OMathFunc.Parent Property (Word)
 keywords: vbawd10.chm182386790
 f1_keywords:
 - vbawd10.chm182386790
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunc.Parent
 ms.assetid: 3be9fae4-1ac0-91dc-a2a0-d8d25f624461

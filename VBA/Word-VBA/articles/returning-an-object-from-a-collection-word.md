@@ -1,6 +1,6 @@
 ---
 title: Returning an Object from a Collection (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 28f76384-f495-9640-a7c8-10ada3fac727
 ms.date: 06/08/2017
 ---

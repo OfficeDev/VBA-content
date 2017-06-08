@@ -3,7 +3,7 @@ title: Application.PrintPreview Property (Word)
 keywords: vbawd10.chm158335003
 f1_keywords:
 - vbawd10.chm158335003
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.PrintPreview
 ms.assetid: 6f522dc1-60ad-d5c1-029b-961fce1992e5

@@ -3,7 +3,7 @@ title: Shape.Callout Property (Word)
 keywords: vbawd10.chm161480807
 f1_keywords:
 - vbawd10.chm161480807
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Callout
 ms.assetid: 191ba6c5-20e5-458f-b3e3-751a4e566f4a

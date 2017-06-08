@@ -3,7 +3,7 @@ title: ShapeRange.ScaleWidth Method (Word)
 keywords: vbawd10.chm162856984
 f1_keywords:
 - vbawd10.chm162856984
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.ScaleWidth
 ms.assetid: 3742c9a7-7a97-9e24-299c-b7567eedb9d1

@@ -3,7 +3,7 @@ title: FreeformBuilder.Parent Property (Word)
 keywords: vbawd10.chm164167681
 f1_keywords:
 - vbawd10.chm164167681
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FreeformBuilder.Parent
 ms.assetid: 0958b71d-383f-1f42-31d5-5b7236334029

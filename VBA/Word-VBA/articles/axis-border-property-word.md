@@ -3,7 +3,7 @@ title: Axis.Border Property (Word)
 keywords: vbawd10.chm113049678
 f1_keywords:
 - vbawd10.chm113049678
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.Border
 ms.assetid: 2564aa1c-7b10-ae75-16ce-f8a2a7625f2f

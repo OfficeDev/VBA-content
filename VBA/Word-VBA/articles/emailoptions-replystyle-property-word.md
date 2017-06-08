@@ -3,7 +3,7 @@ title: EmailOptions.ReplyStyle Property (Word)
 keywords: vbawd10.chm165347438
 f1_keywords:
 - vbawd10.chm165347438
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailOptions.ReplyStyle
 ms.assetid: adb778ca-8943-4f30-48d8-98336ea81ea7

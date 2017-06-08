@@ -3,7 +3,7 @@ title: Range.Relocate Method (Word)
 keywords: vbawd10.chm157155507
 f1_keywords:
 - vbawd10.chm157155507
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Relocate
 ms.assetid: 2df77535-627f-d8ba-6ea2-15676b24221c

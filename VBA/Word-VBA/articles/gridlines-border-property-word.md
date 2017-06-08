@@ -3,7 +3,7 @@ title: Gridlines.Border Property (Word)
 keywords: vbawd10.chm11468928
 f1_keywords:
 - vbawd10.chm11468928
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Gridlines.Border
 ms.assetid: faf4d3ac-c870-c28d-6ab1-aca4b28c0132

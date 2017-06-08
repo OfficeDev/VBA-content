@@ -3,7 +3,7 @@ title: ThreeDFormat.Application Property (Word)
 keywords: vbawd10.chm164627432
 f1_keywords:
 - vbawd10.chm164627432
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.Application
 ms.assetid: 0a3f6bd4-f3ed-1967-021f-a5ab73d183d2

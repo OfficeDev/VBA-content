@@ -3,7 +3,7 @@ title: Options.BackgroundSave Property (Word)
 keywords: vbawd10.chm162988078
 f1_keywords:
 - vbawd10.chm162988078
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.BackgroundSave
 ms.assetid: a579d9ae-5ee2-543e-fe16-e642e48dcb61

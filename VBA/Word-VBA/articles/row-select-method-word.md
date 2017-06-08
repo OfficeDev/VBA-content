@@ -3,7 +3,7 @@ title: Row.Select Method (Word)
 keywords: vbawd10.chm156303359
 f1_keywords:
 - vbawd10.chm156303359
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.Select
 ms.assetid: f3c31e32-b316-abf2-fec6-b76e8950b1b5

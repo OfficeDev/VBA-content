@@ -3,7 +3,7 @@ title: OMathScrSubSup.Sup Property (Word)
 keywords: vbawd10.chm181665897
 f1_keywords:
 - vbawd10.chm181665897
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSubSup.Sup
 ms.assetid: ac0267f9-040f-e2b7-c54d-f60a253f07d8

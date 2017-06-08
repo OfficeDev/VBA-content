@@ -3,7 +3,7 @@ title: Document.Merge Method (Word)
 keywords: vbawd10.chm158007658
 f1_keywords:
 - vbawd10.chm158007658
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Merge
 ms.assetid: e7ab537d-dfd3-177b-722a-6fe693c158d8

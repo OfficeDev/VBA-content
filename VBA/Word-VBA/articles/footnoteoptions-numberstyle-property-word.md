@@ -3,7 +3,7 @@ title: FootnoteOptions.NumberStyle Property (Word)
 keywords: vbawd10.chm170131557
 f1_keywords:
 - vbawd10.chm170131557
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FootnoteOptions.NumberStyle
 ms.assetid: 92752439-001a-fca7-bc66-4754e2b4189a

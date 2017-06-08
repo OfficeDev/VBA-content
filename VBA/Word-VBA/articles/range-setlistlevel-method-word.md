@@ -3,7 +3,7 @@ title: Range.SetListLevel Method (Word)
 keywords: vbawd10.chm157155755
 f1_keywords:
 - vbawd10.chm157155755
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.SetListLevel
 ms.assetid: 80cce7e2-49d1-614d-eb61-543d42aa5645

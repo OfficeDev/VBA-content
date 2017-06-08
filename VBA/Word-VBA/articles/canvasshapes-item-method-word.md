@@ -3,7 +3,7 @@ title: CanvasShapes.Item Method (Word)
 keywords: vbawd10.chm7536640
 f1_keywords:
 - vbawd10.chm7536640
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CanvasShapes.Item
 ms.assetid: 8a985058-b2ea-7011-274e-a3b336af72f2

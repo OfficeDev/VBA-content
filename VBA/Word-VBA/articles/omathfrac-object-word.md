@@ -1,6 +1,6 @@
 ---
 title: OMathFrac Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFrac
 ms.assetid: 31221b8f-9edc-9684-3b4e-867c23cf1c26

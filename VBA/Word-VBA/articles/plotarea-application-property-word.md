@@ -3,7 +3,7 @@ title: PlotArea.Application Property (Word)
 keywords: vbawd10.chm53477524
 f1_keywords:
 - vbawd10.chm53477524
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PlotArea.Application
 ms.assetid: 7c5a4198-6a1a-1039-7bf7-b88f4aa0a3e0

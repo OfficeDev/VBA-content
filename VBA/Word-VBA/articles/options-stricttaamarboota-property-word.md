@@ -3,7 +3,7 @@ title: Options.StrictTaaMarboota Property (Word)
 keywords: vbawd10.chm162988528
 f1_keywords:
 - vbawd10.chm162988528
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.StrictTaaMarboota
 ms.assetid: 42daef30-2307-1f45-c26d-8511a1d6cd3e

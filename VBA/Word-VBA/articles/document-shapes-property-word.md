@@ -3,7 +3,7 @@ title: Document.Shapes Property (Word)
 keywords: vbawd10.chm158007358
 f1_keywords:
 - vbawd10.chm158007358
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Shapes
 ms.assetid: 638ab04b-2e82-afe9-3817-740f464542cc

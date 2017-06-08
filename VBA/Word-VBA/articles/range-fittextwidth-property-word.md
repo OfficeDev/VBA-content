@@ -3,7 +3,7 @@ title: Range.FitTextWidth Property (Word)
 keywords: vbawd10.chm157155592
 f1_keywords:
 - vbawd10.chm157155592
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.FitTextWidth
 ms.assetid: 6322c657-21db-bc45-e2d6-cb559edfc047

@@ -1,6 +1,6 @@
 ---
 title: CoAuthors Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthors
 ms.assetid: 47fc864d-5f1b-b113-85b5-6e8b1b75c225

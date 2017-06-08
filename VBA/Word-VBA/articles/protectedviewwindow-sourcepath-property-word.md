@@ -3,7 +3,7 @@ title: ProtectedViewWindow.SourcePath Property (Word)
 keywords: vbawd10.chm231735307
 f1_keywords:
 - vbawd10.chm231735307
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.SourcePath
 ms.assetid: 05b4e601-894a-de8f-1119-565183b244b7

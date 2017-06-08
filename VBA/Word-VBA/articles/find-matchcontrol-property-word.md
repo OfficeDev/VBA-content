@@ -3,7 +3,7 @@ title: Find.MatchControl Property (Word)
 keywords: vbawd10.chm162529383
 f1_keywords:
 - vbawd10.chm162529383
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.MatchControl
 ms.assetid: 43d76f90-5b3f-db3b-15b0-98e87d8d8bc8

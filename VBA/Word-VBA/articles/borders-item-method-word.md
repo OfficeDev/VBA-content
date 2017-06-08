@@ -3,7 +3,7 @@ title: Borders.Item Method (Word)
 keywords: vbawd10.chm154927104
 f1_keywords:
 - vbawd10.chm154927104
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Borders.Item
 ms.assetid: ac2b9108-5ae1-e875-f6a0-47a8c2175fe1

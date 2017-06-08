@@ -3,7 +3,7 @@ title: Shading Object (Word)
 keywords: vbawd10.chm2362
 f1_keywords:
 - vbawd10.chm2362
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shading
 ms.assetid: e136509a-1be1-29e4-7b37-1faf659e37ba

@@ -3,7 +3,7 @@ title: Shapes.Application Property (Word)
 keywords: vbawd10.chm161423168
 f1_keywords:
 - vbawd10.chm161423168
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.Application
 ms.assetid: 82a729aa-34df-1904-71b6-505625cd9baa

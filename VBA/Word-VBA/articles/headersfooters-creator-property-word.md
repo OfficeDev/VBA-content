@@ -3,7 +3,7 @@ title: HeadersFooters.Creator Property (Word)
 keywords: vbawd10.chm159646697
 f1_keywords:
 - vbawd10.chm159646697
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HeadersFooters.Creator
 ms.assetid: 20a07fa4-5bce-fd6b-aec9-08b2fe3f818a

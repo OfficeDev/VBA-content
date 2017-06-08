@@ -3,7 +3,7 @@ title: Template.BuildingBlockTypes Property (Word)
 keywords: vbawd10.chm157941780
 f1_keywords:
 - vbawd10.chm157941780
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Template.BuildingBlockTypes
 ms.assetid: 9250d107-4943-c0bf-b11d-08aded886ef2

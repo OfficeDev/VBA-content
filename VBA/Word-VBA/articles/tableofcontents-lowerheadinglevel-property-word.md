@@ -3,7 +3,7 @@ title: TableOfContents.LowerHeadingLevel Property (Word)
 keywords: vbawd10.chm152240132
 f1_keywords:
 - vbawd10.chm152240132
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfContents.LowerHeadingLevel
 ms.assetid: 02bd1965-b3a1-e09a-fb08-62862e87536b

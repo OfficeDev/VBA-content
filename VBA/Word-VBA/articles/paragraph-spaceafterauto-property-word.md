@@ -3,7 +3,7 @@ title: Paragraph.SpaceAfterAuto Property (Word)
 keywords: vbawd10.chm156696709
 f1_keywords:
 - vbawd10.chm156696709
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraph.SpaceAfterAuto
 ms.assetid: ca17c146-ad99-2d2c-8f04-4c6183bf7182

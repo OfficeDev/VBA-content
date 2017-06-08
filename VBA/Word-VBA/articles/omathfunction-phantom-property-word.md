@@ -3,7 +3,7 @@ title: OMathFunction.Phantom Property (Word)
 keywords: vbawd10.chm22151286
 f1_keywords:
 - vbawd10.chm22151286
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathFunction.Phantom
 ms.assetid: 3a336a90-a060-c4e4-c34c-0740cf1d3b31

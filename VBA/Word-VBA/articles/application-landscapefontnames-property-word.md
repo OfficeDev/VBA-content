@@ -3,7 +3,7 @@ title: Application.LandscapeFontNames Property (Word)
 keywords: vbawd10.chm158334988
 f1_keywords:
 - vbawd10.chm158334988
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.LandscapeFontNames
 ms.assetid: 59599ca0-0c6f-8d4a-9f4e-e98c5c241944

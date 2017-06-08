@@ -3,7 +3,7 @@ title: Application.WordBasic Property (Word)
 keywords: vbawd10.chm158334977
 f1_keywords:
 - vbawd10.chm158334977
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WordBasic
 ms.assetid: 8c405ea6-0073-f994-42b2-cacb986f1f1f

@@ -3,7 +3,7 @@ title: PageSetup.RightMargin Property (Word)
 keywords: vbawd10.chm158400615
 f1_keywords:
 - vbawd10.chm158400615
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.PageSetup.RightMargin
 ms.assetid: abaabc8b-bb3f-fe68-ca35-d06f74d06791

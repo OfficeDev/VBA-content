@@ -3,7 +3,7 @@ title: Row.LeftIndent Property (Word)
 keywords: vbawd10.chm156237833
 f1_keywords:
 - vbawd10.chm156237833
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.LeftIndent
 ms.assetid: 64dc0ca7-fd32-7dca-a09a-514af314c974

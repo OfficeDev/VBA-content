@@ -1,6 +1,6 @@
 ---
 title: WdTextureIndex Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTextureIndex
 ms.assetid: b9f758d2-0fb5-c373-9f2a-b581cf4c8196

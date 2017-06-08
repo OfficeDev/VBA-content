@@ -3,7 +3,7 @@ title: AutoCaption.Parent Property (Word)
 keywords: vbawd10.chm159056874
 f1_keywords:
 - vbawd10.chm159056874
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.AutoCaption.Parent
 ms.assetid: 9e47c8a5-dfcc-e06f-4621-69dab5e7430c

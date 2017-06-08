@@ -3,7 +3,7 @@ title: Selection.Document Property (Word)
 keywords: vbawd10.chm158663659
 f1_keywords:
 - vbawd10.chm158663659
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Document
 ms.assetid: 03b4bfd7-8d4a-f069-0c28-41be2ead8614

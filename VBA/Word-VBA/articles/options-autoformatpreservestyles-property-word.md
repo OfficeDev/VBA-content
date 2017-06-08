@@ -3,7 +3,7 @@ title: Options.AutoFormatPreserveStyles Property (Word)
 keywords: vbawd10.chm162988291
 f1_keywords:
 - vbawd10.chm162988291
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AutoFormatPreserveStyles
 ms.assetid: cbde64c7-4a82-f33f-c337-bbc24c32ab40

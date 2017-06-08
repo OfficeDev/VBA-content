@@ -3,7 +3,7 @@ title: InlineShape.Height Property (Word)
 keywords: vbawd10.chm162005000
 f1_keywords:
 - vbawd10.chm162005000
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Height
 ms.assetid: 1e350fcd-9a18-92cf-b23d-b809bdb49708

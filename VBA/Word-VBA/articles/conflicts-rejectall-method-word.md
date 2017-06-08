@@ -3,7 +3,7 @@ title: Conflicts.RejectAll Method (Word)
 keywords: vbawd10.chm174391398
 f1_keywords:
 - vbawd10.chm174391398
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Conflicts.RejectAll
 ms.assetid: bd3779d6-8cba-9cf8-d8ec-a9952e3918ad

@@ -3,7 +3,7 @@ title: Application.ActiveDocument Property (Word)
 keywords: vbawd10.chm158334979
 f1_keywords:
 - vbawd10.chm158334979
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ActiveDocument
 ms.assetid: c20a7c9f-f8a4-7913-f53f-10baa6807def

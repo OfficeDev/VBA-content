@@ -3,7 +3,7 @@ title: WebOptions.OrganizeInFolder Property (Word)
 keywords: vbawd10.chm165937156
 f1_keywords:
 - vbawd10.chm165937156
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WebOptions.OrganizeInFolder
 ms.assetid: 99ed0575-69d6-0f28-54bc-a3f7a94ebd52

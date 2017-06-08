@@ -3,7 +3,7 @@ title: Application.Build Property (Word)
 keywords: vbawd10.chm158335023
 f1_keywords:
 - vbawd10.chm158335023
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Build
 ms.assetid: e22e7633-9327-eacc-3936-3d113381f675

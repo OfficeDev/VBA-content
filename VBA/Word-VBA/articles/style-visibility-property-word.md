@@ -3,7 +3,7 @@ title: Style.Visibility Property (Word)
 keywords: vbawd10.chm153878547
 f1_keywords:
 - vbawd10.chm153878547
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.Visibility
 ms.assetid: 4afbdfc5-782d-2cb3-33f1-1bb438dd392c

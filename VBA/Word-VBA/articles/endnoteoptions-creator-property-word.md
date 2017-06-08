@@ -3,7 +3,7 @@ title: EndnoteOptions.Creator Property (Word)
 keywords: vbawd10.chm23593961
 f1_keywords:
 - vbawd10.chm23593961
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EndnoteOptions.Creator
 ms.assetid: 3fc925c8-007c-286d-ef74-3d00f916514b

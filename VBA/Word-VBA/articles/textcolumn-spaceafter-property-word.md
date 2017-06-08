@@ -1,6 +1,6 @@
 ---
 title: TextColumn.SpaceAfter Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextColumn.SpaceAfter
 ms.assetid: 95b77d91-e13a-c6d3-f8c3-069c81b39cb1

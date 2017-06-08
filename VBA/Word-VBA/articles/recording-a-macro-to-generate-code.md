@@ -3,7 +3,7 @@ title: Recording a Macro to Generate Code
 keywords: vbawd10.chm5212835
 f1_keywords:
 - vbawd10.chm5212835
-ms.prod: WORD
+ms.prod: word
 ms.assetid: cd41b71f-567b-d156-1d5e-973e276f27fb
 ms.date: 06/08/2017
 ---

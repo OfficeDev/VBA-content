@@ -3,7 +3,7 @@ title: Endnote.Parent Property (Word)
 keywords: vbawd10.chm155059178
 f1_keywords:
 - vbawd10.chm155059178
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Endnote.Parent
 ms.assetid: 123e948f-f558-d0f5-1c4c-bbf454f1de02

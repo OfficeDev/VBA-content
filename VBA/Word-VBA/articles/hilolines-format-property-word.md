@@ -3,7 +3,7 @@ title: HiLoLines.Format Property (Word)
 keywords: vbawd10.chm235995141
 f1_keywords:
 - vbawd10.chm235995141
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HiLoLines.Format
 ms.assetid: 5e57a643-add7-083e-11f9-1f506393d1c0

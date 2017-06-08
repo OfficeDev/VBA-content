@@ -3,7 +3,7 @@ title: TablesOfAuthorities.MarkCitation Method (Word)
 keywords: vbawd10.chm152174693
 f1_keywords:
 - vbawd10.chm152174693
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.MarkCitation
 ms.assetid: 6dbbd99e-11c2-803a-fb31-e486ba530585

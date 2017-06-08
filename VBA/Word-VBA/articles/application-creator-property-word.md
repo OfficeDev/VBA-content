@@ -3,7 +3,7 @@ title: Application.Creator Property (Word)
 keywords: vbawd10.chm158335977
 f1_keywords:
 - vbawd10.chm158335977
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Creator
 ms.assetid: 6afdfc30-5021-7b09-a148-48db16d5efbd

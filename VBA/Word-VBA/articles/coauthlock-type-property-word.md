@@ -3,7 +3,7 @@ title: CoAuthLock.Type Property (Word)
 keywords: vbawd10.chm260046849
 f1_keywords:
 - vbawd10.chm260046849
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CoAuthLock.Type
 ms.assetid: a88c38de-bea1-1766-cb33-c86eb30ef98e

@@ -3,7 +3,7 @@ title: Document.TransformDocument Method (Word)
 keywords: vbawd10.chm158007796
 f1_keywords:
 - vbawd10.chm158007796
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.TransformDocument
 ms.assetid: 5829a16f-b514-479f-c227-359123611970

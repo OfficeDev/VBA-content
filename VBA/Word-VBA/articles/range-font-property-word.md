@@ -3,7 +3,7 @@ title: Range.Font Property (Word)
 keywords: vbawd10.chm157155333
 f1_keywords:
 - vbawd10.chm157155333
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Font
 ms.assetid: 7582a7ed-0f16-e8f3-73f7-5d7b91193679

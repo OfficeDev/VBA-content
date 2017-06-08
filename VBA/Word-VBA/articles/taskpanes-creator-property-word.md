@@ -1,6 +1,6 @@
 ---
 title: TaskPanes.Creator Property (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TaskPanes.Creator
 ms.assetid: e94b0c6c-90a6-e221-2d56-966a197056bf

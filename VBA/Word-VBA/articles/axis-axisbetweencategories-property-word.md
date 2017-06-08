@@ -3,7 +3,7 @@ title: Axis.AxisBetweenCategories Property (Word)
 keywords: vbawd10.chm113049600
 f1_keywords:
 - vbawd10.chm113049600
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Axis.AxisBetweenCategories
 ms.assetid: b99e83a2-5540-e69d-402c-224612f8e568

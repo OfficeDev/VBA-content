@@ -3,7 +3,7 @@ title: Document.CheckConsistency Method (Word)
 keywords: vbawd10.chm158007555
 f1_keywords:
 - vbawd10.chm158007555
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CheckConsistency
 ms.assetid: 9ae5e917-0bd7-7c20-ca00-eea5a7e9dff7

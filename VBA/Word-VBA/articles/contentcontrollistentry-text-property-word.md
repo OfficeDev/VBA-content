@@ -3,7 +3,7 @@ title: ContentControlListEntry.Text Property (Word)
 keywords: vbawd10.chm147456000
 f1_keywords:
 - vbawd10.chm147456000
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControlListEntry.Text
 ms.assetid: bfe2487b-7ba6-3047-842b-0c2466919efb

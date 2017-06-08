@@ -3,7 +3,7 @@ title: OMathGroupChar.CharTop Property (Word)
 keywords: vbawd10.chm213123177
 f1_keywords:
 - vbawd10.chm213123177
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathGroupChar.CharTop
 ms.assetid: abce1df2-4246-218e-8a80-7341042f9479

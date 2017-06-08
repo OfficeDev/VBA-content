@@ -3,7 +3,7 @@ title: Application.HangulHanjaDictionaries Property (Word)
 keywords: vbawd10.chm158335086
 f1_keywords:
 - vbawd10.chm158335086
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.HangulHanjaDictionaries
 ms.assetid: 453e2a77-f363-5afc-d9a3-26f8b6516b4c

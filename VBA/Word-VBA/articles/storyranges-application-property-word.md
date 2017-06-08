@@ -3,7 +3,7 @@ title: StoryRanges.Application Property (Word)
 keywords: vbawd10.chm160170984
 f1_keywords:
 - vbawd10.chm160170984
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StoryRanges.Application
 ms.assetid: 49548fba-8099-18f0-a24e-cc1b252a9d4b

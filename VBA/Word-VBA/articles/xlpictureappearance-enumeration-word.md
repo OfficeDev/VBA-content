@@ -1,6 +1,6 @@
 ---
 title: XlPictureAppearance Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: d676a180-e7ac-93c2-3285-8983b8cd938f
 ms.date: 06/08/2017
 ---

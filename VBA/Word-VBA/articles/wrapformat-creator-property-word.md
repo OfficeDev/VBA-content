@@ -3,7 +3,7 @@ title: WrapFormat.Creator Property (Word)
 keywords: vbawd10.chm163775465
 f1_keywords:
 - vbawd10.chm163775465
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WrapFormat.Creator
 ms.assetid: d1075c68-6ce2-9856-f5b3-e53dfc72f565

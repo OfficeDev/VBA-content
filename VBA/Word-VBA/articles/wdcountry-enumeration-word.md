@@ -1,6 +1,6 @@
 ---
 title: WdCountry Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCountry
 ms.assetid: 04161e7e-bc11-0fc4-5778-6dc933324d7a

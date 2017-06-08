@@ -1,6 +1,6 @@
 ---
 title: WdTocFormat Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdTocFormat
 ms.assetid: 2f21ad4a-f200-a2cf-4ce4-db7f304c0708

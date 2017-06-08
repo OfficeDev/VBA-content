@@ -3,7 +3,7 @@ title: Document.DocumentTheme Property (Word)
 keywords: vbawd10.chm158007841
 f1_keywords:
 - vbawd10.chm158007841
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.DocumentTheme
 ms.assetid: f570f807-6b36-bed8-17b4-848142c37ce7

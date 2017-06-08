@@ -3,7 +3,7 @@ title: Range.Creator Property (Word)
 keywords: vbawd10.chm157156329
 f1_keywords:
 - vbawd10.chm157156329
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.Creator
 ms.assetid: df19ebef-edb2-ac75-e878-bce9e35794b3

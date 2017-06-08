@@ -3,7 +3,7 @@ title: Shape.Apply Method (Word)
 keywords: vbawd10.chm161480714
 f1_keywords:
 - vbawd10.chm161480714
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Apply
 ms.assetid: 3a42c1a6-7037-2649-c079-68f1391521a3

@@ -3,7 +3,7 @@ title: Sections.Item Method (Word)
 keywords: vbawd10.chm156893184
 f1_keywords:
 - vbawd10.chm156893184
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.Item
 ms.assetid: 81640338-dfdc-b2bb-d98f-4a91da0b76c6

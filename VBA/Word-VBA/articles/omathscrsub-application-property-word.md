@@ -3,7 +3,7 @@ title: OMathScrSub.Application Property (Word)
 keywords: vbawd10.chm219283556
 f1_keywords:
 - vbawd10.chm219283556
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathScrSub.Application
 ms.assetid: 809ad83f-3329-d35a-08c5-1df979833475

@@ -3,7 +3,7 @@ title: Windows.Application Property (Word)
 keywords: vbawd10.chm157352936
 f1_keywords:
 - vbawd10.chm157352936
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Windows.Application
 ms.assetid: 82753062-7e80-ebb8-91a1-4843767739af

@@ -3,7 +3,7 @@ title: HorizontalLineFormat.Parent Property (Word)
 keywords: vbawd10.chm165544938
 f1_keywords:
 - vbawd10.chm165544938
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.Parent
 ms.assetid: c6023f6d-3cfc-d03d-1d2c-86bfb3ac7d1f

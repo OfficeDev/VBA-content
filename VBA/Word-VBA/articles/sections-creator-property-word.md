@@ -3,7 +3,7 @@ title: Sections.Creator Property (Word)
 keywords: vbawd10.chm156894185
 f1_keywords:
 - vbawd10.chm156894185
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sections.Creator
 ms.assetid: ecb1915f-d954-808f-f934-a70ab72cf900

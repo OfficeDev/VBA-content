@@ -3,7 +3,7 @@ title: Frame.WidthRule Property (Word)
 keywords: vbawd10.chm153747458
 f1_keywords:
 - vbawd10.chm153747458
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frame.WidthRule
 ms.assetid: cd780bff-f0b9-c594-a134-005f3cce2edf

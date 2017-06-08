@@ -3,7 +3,7 @@ title: ThreeDFormat.IncrementRotationVertical Method (Word)
 keywords: vbawd10.chm164626450
 f1_keywords:
 - vbawd10.chm164626450
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ThreeDFormat.IncrementRotationVertical
 ms.assetid: f7bf83d2-ce99-3feb-cca2-952b65e756a3

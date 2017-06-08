@@ -3,7 +3,7 @@ title: Document.BuildingBlockInsert Event (Word)
 keywords: vbawd10.chm4001016
 f1_keywords:
 - vbawd10.chm4001016
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.BuildingBlockInsert
 ms.assetid: 6c4b1f1f-da22-63b9-a3d9-21d7bedb4b5b

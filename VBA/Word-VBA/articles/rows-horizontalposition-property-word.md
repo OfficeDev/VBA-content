@@ -3,7 +3,7 @@ title: Rows.HorizontalPosition Property (Word)
 keywords: vbawd10.chm155975695
 f1_keywords:
 - vbawd10.chm155975695
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.HorizontalPosition
 ms.assetid: 249389cb-c21f-61f2-c12a-648f70fe5357

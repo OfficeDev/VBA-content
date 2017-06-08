@@ -3,7 +3,7 @@ title: ChartArea.Width Property (Word)
 keywords: vbawd10.chm160039034
 f1_keywords:
 - vbawd10.chm160039034
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartArea.Width
 ms.assetid: 623e72a1-f584-0c59-5a74-4edf8c469c3b

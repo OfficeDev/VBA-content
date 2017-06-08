@@ -3,7 +3,7 @@ title: Bookmark.End Property (Word)
 keywords: vbawd10.chm157810692
 f1_keywords:
 - vbawd10.chm157810692
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Bookmark.End
 ms.assetid: 05531b0d-b05e-0010-9ff8-ba6d90de560d

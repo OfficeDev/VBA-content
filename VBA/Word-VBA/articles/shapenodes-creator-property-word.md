@@ -3,7 +3,7 @@ title: ShapeNodes.Creator Property (Word)
 keywords: vbawd10.chm164496361
 f1_keywords:
 - vbawd10.chm164496361
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNodes.Creator
 ms.assetid: 1c528b1c-0dbd-1757-f7eb-9696dbec2cf9

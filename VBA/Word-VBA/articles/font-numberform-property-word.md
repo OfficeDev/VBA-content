@@ -3,7 +3,7 @@ title: Font.NumberForm Property (Word)
 keywords: vbawd10.chm156369071
 f1_keywords:
 - vbawd10.chm156369071
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.NumberForm
 ms.assetid: 730ce7a1-a0f4-3ed8-d7a0-5b4039f56817

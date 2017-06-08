@@ -3,7 +3,7 @@ title: Paragraphs.DecreaseSpacing Method (Word)
 keywords: vbawd10.chm156762448
 f1_keywords:
 - vbawd10.chm156762448
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Paragraphs.DecreaseSpacing
 ms.assetid: 9d1dfab7-87a0-21c0-f023-0b1368aa9773

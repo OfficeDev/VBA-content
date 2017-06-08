@@ -3,7 +3,7 @@ title: XMLNodes.Application Property (Word)
 keywords: vbawd10.chm255984616
 f1_keywords:
 - vbawd10.chm255984616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNodes.Application
 ms.assetid: 62946624-a69a-9d7b-5ba3-87307890194d

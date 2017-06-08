@@ -3,7 +3,7 @@ title: ErrorBars.ClearFormats Method (Word)
 keywords: vbawd10.chm74842224
 f1_keywords:
 - vbawd10.chm74842224
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ErrorBars.ClearFormats
 ms.assetid: 9288ab4a-b4f6-f727-49fd-4036f32e9a20

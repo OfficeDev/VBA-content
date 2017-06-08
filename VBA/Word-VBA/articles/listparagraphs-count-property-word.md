@@ -3,7 +3,7 @@ title: ListParagraphs.Count Property (Word)
 keywords: vbawd10.chm160497666
 f1_keywords:
 - vbawd10.chm160497666
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListParagraphs.Count
 ms.assetid: 357e5966-1b65-c796-b1ab-69fe9dd4b65c

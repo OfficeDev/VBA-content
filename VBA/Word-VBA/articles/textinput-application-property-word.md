@@ -3,7 +3,7 @@ title: TextInput.Application Property (Word)
 keywords: vbawd10.chm153551848
 f1_keywords:
 - vbawd10.chm153551848
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextInput.Application
 ms.assetid: 3a764be1-78a6-5080-a0f7-e3de613888fd

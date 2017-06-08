@@ -3,7 +3,7 @@ title: TextRetrievalMode.IncludeFieldCodes Property (Word)
 keywords: vbawd10.chm154730499
 f1_keywords:
 - vbawd10.chm154730499
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.IncludeFieldCodes
 ms.assetid: 9055d78b-ddf4-3e58-a42d-813ef838cdf2

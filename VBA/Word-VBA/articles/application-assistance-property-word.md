@@ -3,7 +3,7 @@ title: Application.Assistance Property (Word)
 keywords: vbawd10.chm158335453
 f1_keywords:
 - vbawd10.chm158335453
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.Assistance
 ms.assetid: 626b95a3-edae-977d-3c10-7a78fdcefeff

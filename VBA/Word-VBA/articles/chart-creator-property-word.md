@@ -3,7 +3,7 @@ title: Chart.Creator Property (Word)
 keywords: vbawd10.chm79364245
 f1_keywords:
 - vbawd10.chm79364245
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Chart.Creator
 ms.assetid: 24057d70-7bab-728d-92de-3670b9e0e392

@@ -3,7 +3,7 @@ title: Pane Object (Word)
 keywords: vbawd10.chm2400
 f1_keywords:
 - vbawd10.chm2400
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane
 ms.assetid: 4a0c2690-d9d2-4e34-fef4-cc41365f5251

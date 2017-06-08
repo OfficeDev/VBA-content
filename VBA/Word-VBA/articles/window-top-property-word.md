@@ -3,7 +3,7 @@ title: Window.Top Property (Word)
 keywords: vbawd10.chm157417478
 f1_keywords:
 - vbawd10.chm157417478
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Window.Top
 ms.assetid: 302d1ae6-e030-237a-f9f2-87b642e8914f

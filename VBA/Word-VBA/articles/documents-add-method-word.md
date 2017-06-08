@@ -3,7 +3,7 @@ title: Documents.Add Method (Word)
 keywords: vbawd10.chm158072846
 f1_keywords:
 - vbawd10.chm158072846
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Documents.Add
 ms.assetid: 04b81417-cde9-4657-7737-90d266d05487

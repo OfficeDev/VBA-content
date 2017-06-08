@@ -3,7 +3,7 @@ title: Envelope.SenderPostalfromLeft Property (Word)
 keywords: vbawd10.chm152567837
 f1_keywords:
 - vbawd10.chm152567837
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Envelope.SenderPostalfromLeft
 ms.assetid: 40cb389c-47c7-09d6-7ebf-f83babd0a517

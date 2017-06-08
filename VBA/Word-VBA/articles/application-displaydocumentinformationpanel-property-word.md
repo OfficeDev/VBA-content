@@ -3,7 +3,7 @@ title: Application.DisplayDocumentInformationPanel Property (Word)
 keywords: vbawd10.chm158335452
 f1_keywords:
 - vbawd10.chm158335452
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.DisplayDocumentInformationPanel
 ms.assetid: aa09e60f-6378-28b3-ff94-40f54a29d7b1

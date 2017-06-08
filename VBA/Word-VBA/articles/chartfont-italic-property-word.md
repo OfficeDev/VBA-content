@@ -3,7 +3,7 @@ title: ChartFont.Italic Property (Word)
 keywords: vbawd10.chm255918090
 f1_keywords:
 - vbawd10.chm255918090
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Italic
 ms.assetid: 8e25a2dd-2ac1-83ec-c505-fdc23b0de7d9

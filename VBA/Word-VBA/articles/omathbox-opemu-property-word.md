@@ -3,7 +3,7 @@ title: OMathBox.OpEmu Property (Word)
 keywords: vbawd10.chm134086760
 f1_keywords:
 - vbawd10.chm134086760
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathBox.OpEmu
 ms.assetid: 27e17879-b26b-cdc0-87fd-e947942ac97b

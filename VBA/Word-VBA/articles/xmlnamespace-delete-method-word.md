@@ -3,7 +3,7 @@ title: XMLNamespace.Delete Method (Word)
 keywords: vbawd10.chm2293861
 f1_keywords:
 - vbawd10.chm2293861
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLNamespace.Delete
 ms.assetid: a9cf0d05-8c9d-28ac-a25e-a29e47be103a

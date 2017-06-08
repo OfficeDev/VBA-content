@@ -3,7 +3,7 @@ title: Document.ContentControlAfterAdd Event (Word)
 keywords: vbawd10.chm4001010
 f1_keywords:
 - vbawd10.chm4001010
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.ContentControlAfterAdd
 ms.assetid: 9a19d147-76bd-eb92-5844-c56b2d6eae7c

@@ -3,7 +3,7 @@ title: TablesOfAuthorities.Add Method (Word)
 keywords: vbawd10.chm152174692
 f1_keywords:
 - vbawd10.chm152174692
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.Add
 ms.assetid: 8d89d4cd-933e-eb54-5644-fe02c81fb4a1

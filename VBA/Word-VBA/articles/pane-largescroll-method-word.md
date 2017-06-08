@@ -3,7 +3,7 @@ title: Pane.LargeScroll Method (Word)
 keywords: vbawd10.chm157286502
 f1_keywords:
 - vbawd10.chm157286502
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Pane.LargeScroll
 ms.assetid: 669093ef-105f-5dc2-19d6-5f8ab11f6d50

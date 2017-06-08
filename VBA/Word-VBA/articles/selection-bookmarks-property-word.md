@@ -3,7 +3,7 @@ title: Selection.Bookmarks Property (Word)
 keywords: vbawd10.chm158662731
 f1_keywords:
 - vbawd10.chm158662731
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.Bookmarks
 ms.assetid: 32e25786-512a-5bee-4ba6-42c801b49176

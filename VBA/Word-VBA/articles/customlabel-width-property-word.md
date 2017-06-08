@@ -3,7 +3,7 @@ title: CustomLabel.Width Property (Word)
 keywords: vbawd10.chm152371206
 f1_keywords:
 - vbawd10.chm152371206
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CustomLabel.Width
 ms.assetid: 11cd3847-b8d3-fdc9-6536-c6eaec436832

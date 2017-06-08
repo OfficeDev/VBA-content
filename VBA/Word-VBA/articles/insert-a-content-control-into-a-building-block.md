@@ -1,6 +1,6 @@
 ---
 title: Insert a Content Control into a Building Block
-ms.prod: WORD
+ms.prod: word
 ms.assetid: f6e917d9-f756-e36e-696f-bc7cf84b92e3
 ms.date: 06/08/2017
 ---

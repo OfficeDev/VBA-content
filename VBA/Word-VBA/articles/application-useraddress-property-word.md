@@ -3,7 +3,7 @@ title: Application.UserAddress Property (Word)
 keywords: vbawd10.chm158335030
 f1_keywords:
 - vbawd10.chm158335030
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.UserAddress
 ms.assetid: 34f9bf48-8af4-4017-a648-13ab7612ca4a

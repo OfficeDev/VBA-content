@@ -3,7 +3,7 @@ title: MailMergeField.Delete Method (Word)
 keywords: vbawd10.chm152961131
 f1_keywords:
 - vbawd10.chm152961131
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Delete
 ms.assetid: 50a01681-95c7-2e65-9ba5-3258d388e0e1

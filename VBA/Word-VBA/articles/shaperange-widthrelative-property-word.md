@@ -3,7 +3,7 @@ title: ShapeRange.WidthRelative Property (Word)
 keywords: vbawd10.chm162857162
 f1_keywords:
 - vbawd10.chm162857162
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.WidthRelative
 ms.assetid: 907626b9-80e2-ea63-d6a6-27295ef1e2c4

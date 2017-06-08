@@ -3,7 +3,7 @@ title: Subdocuments.Merge Method (Word)
 keywords: vbawd10.chm159907942
 f1_keywords:
 - vbawd10.chm159907942
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocuments.Merge
 ms.assetid: 486b0b4e-1bc7-4ba3-15f0-466aede8c172

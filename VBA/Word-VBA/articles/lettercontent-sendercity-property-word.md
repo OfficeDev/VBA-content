@@ -3,7 +3,7 @@ title: LetterContent.SenderCity Property (Word)
 keywords: vbawd10.chm161546369
 f1_keywords:
 - vbawd10.chm161546369
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.SenderCity
 ms.assetid: 13a101c2-c149-2e70-a8ec-0b6eaecb57ff

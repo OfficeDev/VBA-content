@@ -3,7 +3,7 @@ title: KeysBoundTo Object (Word)
 keywords: vbawd10.chm2455
 f1_keywords:
 - vbawd10.chm2455
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 63ed40e5-8223-78d6-c90a-bf6be8a2fbf6
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: WdCompareTarget Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCompareTarget
 ms.assetid: a003e09a-039e-40ba-faff-e9922bd74208

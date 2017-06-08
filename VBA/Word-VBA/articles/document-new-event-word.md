@@ -3,7 +3,7 @@ title: Document.New Event (Word)
 keywords: vbawd10.chm4001004
 f1_keywords:
 - vbawd10.chm4001004
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.New
 ms.assetid: c37f7e20-f429-e921-3d17-609d536e8baa

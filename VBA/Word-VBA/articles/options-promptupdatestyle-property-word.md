@@ -3,7 +3,7 @@ title: Options.PromptUpdateStyle Property (Word)
 keywords: vbawd10.chm162988473
 f1_keywords:
 - vbawd10.chm162988473
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.PromptUpdateStyle
 ms.assetid: 0646e8e2-3462-14c7-7e73-d35ad9a20724

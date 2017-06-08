@@ -3,7 +3,7 @@ title: Document.Reload Method (Word)
 keywords: vbawd10.chm158007433
 f1_keywords:
 - vbawd10.chm158007433
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.Reload
 ms.assetid: 4feda9b6-dd7b-2e3c-b822-04684638e9d8

@@ -3,7 +3,7 @@ title: Point.Parent Property (Word)
 keywords: vbawd10.chm262144150
 f1_keywords:
 - vbawd10.chm262144150
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Parent
 ms.assetid: 357f3b33-8e83-a21a-eb6e-7791306964c7

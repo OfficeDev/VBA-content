@@ -3,7 +3,7 @@ title: DataTable.HasBorderHorizontal Property (Word)
 keywords: vbawd10.chm46399490
 f1_keywords:
 - vbawd10.chm46399490
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataTable.HasBorderHorizontal
 ms.assetid: d0e943dc-179b-c070-dd5b-2d58cc354b09

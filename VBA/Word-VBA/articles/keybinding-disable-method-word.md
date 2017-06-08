@@ -3,7 +3,7 @@ title: KeyBinding.Disable Method (Word)
 keywords: vbawd10.chm160956518
 f1_keywords:
 - vbawd10.chm160956518
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.KeyBinding.Disable
 ms.assetid: 07463e08-1802-0f1b-7c3f-408f072386b5

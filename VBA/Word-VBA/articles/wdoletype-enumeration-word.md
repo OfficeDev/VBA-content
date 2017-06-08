@@ -1,6 +1,6 @@
 ---
 title: WdOLEType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdOLEType
 ms.assetid: 84acf306-e4aa-1d47-1509-097a6b078fd4

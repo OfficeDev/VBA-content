@@ -3,7 +3,7 @@ title: Style.BuiltIn Property (Word)
 keywords: vbawd10.chm153878532
 f1_keywords:
 - vbawd10.chm153878532
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Style.BuiltIn
 ms.assetid: dee6db94-7f87-3cfc-de76-b6bda8911cce

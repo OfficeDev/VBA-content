@@ -3,7 +3,7 @@ title: Selection.MoveEndUntil Method (Word)
 keywords: vbawd10.chm158662773
 f1_keywords:
 - vbawd10.chm158662773
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveEndUntil
 ms.assetid: e8f7532a-6a5a-3173-3e5e-db46aec44170

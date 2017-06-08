@@ -3,7 +3,7 @@ title: FillFormat.OneColorGradient Method (Word)
 keywords: vbawd10.chm164102155
 f1_keywords:
 - vbawd10.chm164102155
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.OneColorGradient
 ms.assetid: 993ae539-0051-cbf1-390b-4852aa97f5fb

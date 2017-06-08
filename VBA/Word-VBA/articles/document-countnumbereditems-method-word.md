@@ -3,7 +3,7 @@ title: Document.CountNumberedItems Method (Word)
 keywords: vbawd10.chm158007438
 f1_keywords:
 - vbawd10.chm158007438
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.CountNumberedItems
 ms.assetid: b35face4-9d35-2071-90e1-628e7eca04fc

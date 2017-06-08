@@ -3,7 +3,7 @@ title: LetterContent.Creator Property (Word)
 keywords: vbawd10.chm161547241
 f1_keywords:
 - vbawd10.chm161547241
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LetterContent.Creator
 ms.assetid: b2bee17a-490e-ebd5-5e3b-62e154d30a31

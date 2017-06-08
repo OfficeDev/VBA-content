@@ -3,7 +3,7 @@ title: Table.UpdateAutoFormat Method (Word)
 keywords: vbawd10.chm156303375
 f1_keywords:
 - vbawd10.chm156303375
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Table.UpdateAutoFormat
 ms.assetid: d33f3b59-f05c-d51e-5f43-17d56af6693f

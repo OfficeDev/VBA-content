@@ -3,7 +3,7 @@ title: Hyperlink.Shape Property (Word)
 keywords: vbawd10.chm161285103
 f1_keywords:
 - vbawd10.chm161285103
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Hyperlink.Shape
 ms.assetid: bee91eb6-fc38-e2b9-ca90-e9a34062c9f5

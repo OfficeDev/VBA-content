@@ -3,7 +3,7 @@ title: Point.Select Method (Word)
 keywords: vbawd10.chm262144235
 f1_keywords:
 - vbawd10.chm262144235
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Point.Select
 ms.assetid: ea62372a-6fbb-219c-c426-12f9452ce447

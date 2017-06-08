@@ -3,7 +3,7 @@ title: Shapes.SelectAll Method (Word)
 keywords: vbawd10.chm161415190
 f1_keywords:
 - vbawd10.chm161415190
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shapes.SelectAll
 ms.assetid: 2d907cfd-75ad-c29f-8ef8-85f810915ba8

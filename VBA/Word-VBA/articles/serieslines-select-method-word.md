@@ -3,7 +3,7 @@ title: SeriesLines.Select Method (Word)
 keywords: vbawd10.chm202703083
 f1_keywords:
 - vbawd10.chm202703083
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.SeriesLines.Select
 ms.assetid: b7a2e3e8-ea12-c7fa-0777-2ff46e3b87ab

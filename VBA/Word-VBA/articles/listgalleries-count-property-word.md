@@ -3,7 +3,7 @@ title: ListGalleries.Count Property (Word)
 keywords: vbawd10.chm160759810
 f1_keywords:
 - vbawd10.chm160759810
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListGalleries.Count
 ms.assetid: bab7df3a-51f7-79fe-6d3d-f665dd23b7cf

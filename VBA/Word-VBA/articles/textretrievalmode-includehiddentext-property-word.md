@@ -3,7 +3,7 @@ title: TextRetrievalMode.IncludeHiddenText Property (Word)
 keywords: vbawd10.chm154730498
 f1_keywords:
 - vbawd10.chm154730498
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextRetrievalMode.IncludeHiddenText
 ms.assetid: 8904b230-ba07-ecf1-45c3-95d2a11cc434

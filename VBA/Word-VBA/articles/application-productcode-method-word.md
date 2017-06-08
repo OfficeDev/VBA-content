@@ -3,7 +3,7 @@ title: Application.ProductCode Method (Word)
 keywords: vbawd10.chm158335380
 f1_keywords:
 - vbawd10.chm158335380
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.ProductCode
 ms.assetid: 3913ee8b-291b-e81c-b106-01007738c7a0

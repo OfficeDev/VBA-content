@@ -3,7 +3,7 @@ title: Rows.Last Property (Word)
 keywords: vbawd10.chm155975691
 f1_keywords:
 - vbawd10.chm155975691
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Rows.Last
 ms.assetid: ae7432c5-6ea8-23eb-6f24-727c79fdd632

@@ -1,6 +1,6 @@
 ---
 title: WdMailerPriority Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdMailerPriority
 ms.assetid: 82b17b91-ded6-a96c-70ef-e0230e7b6658

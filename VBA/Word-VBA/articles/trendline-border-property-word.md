@@ -3,7 +3,7 @@ title: Trendline.Border Property (Word)
 keywords: vbawd10.chm26345600
 f1_keywords:
 - vbawd10.chm26345600
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Trendline.Border
 ms.assetid: 43cf81c8-ad8d-fbd4-1b06-82e2490c8e10

@@ -3,7 +3,7 @@ title: Application.WindowActivate Event (Word)
 keywords: vbawd10.chm400009
 f1_keywords:
 - vbawd10.chm400009
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WindowActivate
 ms.assetid: f1340e1e-6aec-edaa-78c2-47e3e1d5299f

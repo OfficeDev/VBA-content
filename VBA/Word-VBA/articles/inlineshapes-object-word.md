@@ -1,6 +1,6 @@
 ---
 title: InlineShapes Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 88c632b2-80de-c96a-8879-a98461b38bd0
 ms.date: 06/08/2017
 ---

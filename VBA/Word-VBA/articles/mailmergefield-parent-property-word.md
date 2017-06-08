@@ -3,7 +3,7 @@ title: MailMergeField.Parent Property (Word)
 keywords: vbawd10.chm152962026
 f1_keywords:
 - vbawd10.chm152962026
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMergeField.Parent
 ms.assetid: 15580020-7b21-8d08-2315-a90f0cb306cb

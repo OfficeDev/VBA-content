@@ -3,7 +3,7 @@ title: View.PreviousHeaderFooter Method (Word)
 keywords: vbawd10.chm161808489
 f1_keywords:
 - vbawd10.chm161808489
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.PreviousHeaderFooter
 ms.assetid: fee57f18-348d-a671-2fb2-1f9797c39727

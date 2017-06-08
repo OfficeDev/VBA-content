@@ -3,7 +3,7 @@ title: Templates.Creator Property (Word)
 keywords: vbawd10.chm161612777
 f1_keywords:
 - vbawd10.chm161612777
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Templates.Creator
 ms.assetid: ba27eede-bd2b-9e13-d9c7-717a8fc83b0b

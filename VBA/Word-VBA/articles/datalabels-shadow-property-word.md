@@ -3,7 +3,7 @@ title: DataLabels.Shadow Property (Word)
 keywords: vbawd10.chm207487079
 f1_keywords:
 - vbawd10.chm207487079
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.Shadow
 ms.assetid: 573a2dbb-2cbf-ef08-b052-c21723daf91e

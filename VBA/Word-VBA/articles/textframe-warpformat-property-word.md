@@ -3,7 +3,7 @@ title: TextFrame.WarpFormat Property (Word)
 keywords: vbawd10.chm162665366
 f1_keywords:
 - vbawd10.chm162665366
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TextFrame.WarpFormat
 ms.assetid: 2ea707b9-0ed1-1196-2bf9-a32ae87d456a

@@ -3,7 +3,7 @@ title: EmailSignatureEntries.Add Method (Word)
 keywords: vbawd10.chm166002789
 f1_keywords:
 - vbawd10.chm166002789
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.EmailSignatureEntries.Add
 ms.assetid: da8b1a9a-aa3f-4288-887f-50d646d75728

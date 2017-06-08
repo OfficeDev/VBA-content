@@ -3,7 +3,7 @@ title: Font.NameAscii Property (Word)
 keywords: vbawd10.chm156369053
 f1_keywords:
 - vbawd10.chm156369053
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.NameAscii
 ms.assetid: 9725a12b-0dd2-0bf7-faa6-2c2b68107771

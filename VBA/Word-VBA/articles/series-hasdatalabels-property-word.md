@@ -3,7 +3,7 @@ title: Series.HasDataLabels Property (Word)
 keywords: vbawd10.chm123732046
 f1_keywords:
 - vbawd10.chm123732046
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Series.HasDataLabels
 ms.assetid: 2e5ffc2d-11ae-2ab3-a642-fc0349ff356b

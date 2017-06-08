@@ -3,7 +3,7 @@ title: Comments.Creator Property (Word)
 keywords: vbawd10.chm155190249
 f1_keywords:
 - vbawd10.chm155190249
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comments.Creator
 ms.assetid: c6af394d-cdfc-440b-977f-4f972584f5e5

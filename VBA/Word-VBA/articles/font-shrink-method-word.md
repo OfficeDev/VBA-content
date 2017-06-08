@@ -3,7 +3,7 @@ title: Font.Shrink Method (Word)
 keywords: vbawd10.chm156368997
 f1_keywords:
 - vbawd10.chm156368997
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Shrink
 ms.assetid: 6a4ca959-07df-2b17-f59e-c6cf1f6236c6

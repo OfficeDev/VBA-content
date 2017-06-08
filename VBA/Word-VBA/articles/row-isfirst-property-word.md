@@ -3,7 +3,7 @@ title: Row.IsFirst Property (Word)
 keywords: vbawd10.chm156237835
 f1_keywords:
 - vbawd10.chm156237835
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Row.IsFirst
 ms.assetid: 5efc4afa-cd5d-e9f2-b77e-b1375fa258d7

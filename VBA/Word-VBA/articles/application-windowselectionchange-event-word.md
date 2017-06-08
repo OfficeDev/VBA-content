@@ -3,7 +3,7 @@ title: Application.WindowSelectionChange Event (Word)
 keywords: vbawd10.chm4000011
 f1_keywords:
 - vbawd10.chm4000011
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.WindowSelectionChange
 ms.assetid: 2c5cc640-a3a4-46b2-3352-20a057854b3a

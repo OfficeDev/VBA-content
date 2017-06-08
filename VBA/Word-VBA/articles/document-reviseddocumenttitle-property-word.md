@@ -3,7 +3,7 @@ title: Document.RevisedDocumentTitle Property (Word)
 keywords: vbawd10.chm158007816
 f1_keywords:
 - vbawd10.chm158007816
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Document.RevisedDocumentTitle
 ms.assetid: 9783dc13-6cf5-90ac-86c4-ea4a8fc85504

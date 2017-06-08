@@ -1,6 +1,6 @@
 ---
 title: WdIndexType Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdIndexType
 ms.assetid: 031ee672-56e4-2c56-7ec1-a3aaa62e094d

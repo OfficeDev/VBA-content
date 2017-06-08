@@ -3,7 +3,7 @@ title: ListLevel.Index Property (Word)
 keywords: vbawd10.chm160235521
 f1_keywords:
 - vbawd10.chm160235521
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ListLevel.Index
 ms.assetid: 46c50175-4c08-c0ae-ff60-d5e143168f26

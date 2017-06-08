@@ -3,7 +3,7 @@ title: Range.PasteAsNestedTable Method (Word)
 keywords: vbawd10.chm157155550
 f1_keywords:
 - vbawd10.chm157155550
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Range.PasteAsNestedTable
 ms.assetid: 8d7a3fc6-5fc2-9cbc-d551-b4606af54619

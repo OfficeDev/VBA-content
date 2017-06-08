@@ -3,7 +3,7 @@ title: CaptionLabels.Application Property (Word)
 keywords: vbawd10.chm158860264
 f1_keywords:
 - vbawd10.chm158860264
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.CaptionLabels.Application
 ms.assetid: 21ed076f-7c1a-5ce0-7abe-966a77506e05

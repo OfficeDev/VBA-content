@@ -3,7 +3,7 @@ title: Selection.MoveStart Method (Word)
 keywords: vbawd10.chm158662766
 f1_keywords:
 - vbawd10.chm158662766
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Selection.MoveStart
 ms.assetid: c58f4dd5-791b-ac0f-8445-29e0ade48d7f

@@ -3,7 +3,7 @@ title: Windows.CompareSideBySideWith Method (Word)
 keywords: vbawd10.chm157351948
 f1_keywords:
 - vbawd10.chm157351948
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Windows.CompareSideBySideWith
 ms.assetid: 522c75b2-460a-460f-93ef-71cc84973d2f

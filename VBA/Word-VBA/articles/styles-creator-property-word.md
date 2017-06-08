@@ -3,7 +3,7 @@ title: Styles.Creator Property (Word)
 keywords: vbawd10.chm153945065
 f1_keywords:
 - vbawd10.chm153945065
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Styles.Creator
 ms.assetid: 36f711c7-aeb1-c0ea-5f43-e1264f49688d

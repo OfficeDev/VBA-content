@@ -3,7 +3,7 @@ title: Font.Shading Property (Word)
 keywords: vbawd10.chm156369049
 f1_keywords:
 - vbawd10.chm156369049
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Font.Shading
 ms.assetid: 9a6114d2-c8b6-2656-1703-c0bc5356ae64

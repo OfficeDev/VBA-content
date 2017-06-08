@@ -3,7 +3,7 @@ title: ChartFont.Name Property (Word)
 keywords: vbawd10.chm255918092
 f1_keywords:
 - vbawd10.chm255918092
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ChartFont.Name
 ms.assetid: 297c16a1-4cc1-736d-377c-fc57f9c08d9a

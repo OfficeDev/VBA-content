@@ -1,6 +1,6 @@
 ---
 title: Create Custom Bibliography Styles
-ms.prod: WORD
+ms.prod: word
 ms.assetid: 4b55522f-3387-4e53-a8cd-3b616e3194c8
 ms.date: 06/08/2017
 ---

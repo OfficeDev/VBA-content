@@ -3,7 +3,7 @@ title: ShapeNode.SegmentType Property (Word)
 keywords: vbawd10.chm164429926
 f1_keywords:
 - vbawd10.chm164429926
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeNode.SegmentType
 ms.assetid: d6872a73-6021-8a93-5b1f-95e3349cc818

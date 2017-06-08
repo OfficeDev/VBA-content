@@ -3,7 +3,7 @@ title: View.ShowFormatChanges Property (Word)
 keywords: vbawd10.chm161808421
 f1_keywords:
 - vbawd10.chm161808421
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.View.ShowFormatChanges
 ms.assetid: e431dc24-a975-958c-07dc-64062e05cb26

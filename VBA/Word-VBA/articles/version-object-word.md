@@ -3,7 +3,7 @@ title: Version Object (Word)
 keywords: vbawd10.chm2484
 f1_keywords:
 - vbawd10.chm2484
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Version
 ms.assetid: 63eeefb0-2d63-75e6-a070-a4a80f243bc4

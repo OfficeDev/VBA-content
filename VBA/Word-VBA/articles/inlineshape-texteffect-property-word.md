@@ -3,7 +3,7 @@ title: InlineShape.TextEffect Property (Word)
 keywords: vbawd10.chm162005112
 f1_keywords:
 - vbawd10.chm162005112
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.TextEffect
 ms.assetid: 349563af-6a14-a8d9-c0a4-829910d7dc2c

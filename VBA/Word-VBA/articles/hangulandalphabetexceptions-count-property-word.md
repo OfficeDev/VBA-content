@@ -3,7 +3,7 @@ title: HangulAndAlphabetExceptions.Count Property (Word)
 keywords: vbawd10.chm164691969
 f1_keywords:
 - vbawd10.chm164691969
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.HangulAndAlphabetExceptions.Count
 ms.assetid: 75b0a9df-0637-defe-a2ae-474eba7ade58

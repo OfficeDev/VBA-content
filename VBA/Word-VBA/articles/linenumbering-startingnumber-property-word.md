@@ -3,7 +3,7 @@ title: LineNumbering.StartingNumber Property (Word)
 keywords: vbawd10.chm158466149
 f1_keywords:
 - vbawd10.chm158466149
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.LineNumbering.StartingNumber
 ms.assetid: 115d4c0a-d895-a404-84bb-7ffe17706a98

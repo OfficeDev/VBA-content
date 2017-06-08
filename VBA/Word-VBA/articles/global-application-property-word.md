@@ -3,7 +3,7 @@ title: Global.Application Property (Word)
 keywords: vbawd10.chm163120104
 f1_keywords:
 - vbawd10.chm163120104
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.Application
 ms.assetid: 5871a2b0-b0f8-44f6-4e4e-0639a6c52da2

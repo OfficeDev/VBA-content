@@ -3,7 +3,7 @@ title: ShapeRange.HeightRelative Property (Word)
 keywords: vbawd10.chm162857163
 f1_keywords:
 - vbawd10.chm162857163
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ShapeRange.HeightRelative
 ms.assetid: f0414af1-f09a-475d-5e96-bfe2ceab8901

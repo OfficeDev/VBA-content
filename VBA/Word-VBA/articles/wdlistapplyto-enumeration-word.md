@@ -1,6 +1,6 @@
 ---
 title: WdListApplyTo Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdListApplyTo
 ms.assetid: 6155d0f3-8963-d68b-4f46-2e0e487aa025

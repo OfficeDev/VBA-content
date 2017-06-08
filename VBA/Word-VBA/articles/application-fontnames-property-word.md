@@ -3,7 +3,7 @@ title: Application.FontNames Property (Word)
 keywords: vbawd10.chm158334987
 f1_keywords:
 - vbawd10.chm158334987
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Application.FontNames
 ms.assetid: 6aeadf51-79c7-1123-ea64-582ceee26443

@@ -3,7 +3,7 @@ title: FillFormat.PresetGradientType Property (Word)
 keywords: vbawd10.chm164102251
 f1_keywords:
 - vbawd10.chm164102251
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.FillFormat.PresetGradientType
 ms.assetid: b53ed5f8-61be-1abd-d3c7-e47a4ffc44b9

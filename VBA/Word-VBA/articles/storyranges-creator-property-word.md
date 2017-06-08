@@ -3,7 +3,7 @@ title: StoryRanges.Creator Property (Word)
 keywords: vbawd10.chm160170985
 f1_keywords:
 - vbawd10.chm160170985
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.StoryRanges.Creator
 ms.assetid: 192e5457-6ef6-4442-708e-5bd3dc96f843

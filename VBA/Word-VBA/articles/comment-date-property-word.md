@@ -3,7 +3,7 @@ title: Comment.Date Property (Word)
 keywords: vbawd10.chm154993650
 f1_keywords:
 - vbawd10.chm154993650
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comment.Date
 ms.assetid: 73c9ee23-1f7f-bada-5d0c-d586f31656fc

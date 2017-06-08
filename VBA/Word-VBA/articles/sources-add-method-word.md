@@ -3,7 +3,7 @@ title: Sources.Add Method (Word)
 keywords: vbawd10.chm40566891
 f1_keywords:
 - vbawd10.chm40566891
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Sources.Add
 ms.assetid: 638d00ba-ce25-bca7-5c4c-d63f28fd13ac

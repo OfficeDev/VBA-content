@@ -3,7 +3,7 @@ title: Global.AddIns Property (Word)
 keywords: vbawd10.chm163119126
 f1_keywords:
 - vbawd10.chm163119126
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.AddIns
 ms.assetid: 21b0d291-aa8c-28c0-ef5e-6a566d17da9d

@@ -3,7 +3,7 @@ title: TableOfFigures.Caption Property (Word)
 keywords: vbawd10.chm153157633
 f1_keywords:
 - vbawd10.chm153157633
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.TableOfFigures.Caption
 ms.assetid: 66848200-1eaa-f0ed-f270-51339de1f213

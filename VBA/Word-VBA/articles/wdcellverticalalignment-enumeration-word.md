@@ -1,6 +1,6 @@
 ---
 title: WdCellVerticalAlignment Enumeration (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.WdCellVerticalAlignment
 ms.assetid: 328e4e14-b392-26e6-06f8-619629cf1665

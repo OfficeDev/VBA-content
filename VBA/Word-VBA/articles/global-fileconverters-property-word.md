@@ -3,7 +3,7 @@ title: Global.FileConverters Property (Word)
 keywords: vbawd10.chm163119121
 f1_keywords:
 - vbawd10.chm163119121
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Global.FileConverters
 ms.assetid: 1112fe8e-5a32-bbef-d02f-f17f0603f539

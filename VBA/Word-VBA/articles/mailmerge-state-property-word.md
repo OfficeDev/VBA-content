@@ -3,7 +3,7 @@ title: MailMerge.State Property (Word)
 keywords: vbawd10.chm153092098
 f1_keywords:
 - vbawd10.chm153092098
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.MailMerge.State
 ms.assetid: eeee1112-91fb-ec32-a9ea-ab999f0c28e9

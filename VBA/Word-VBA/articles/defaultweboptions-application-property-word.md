@@ -3,7 +3,7 @@ title: DefaultWebOptions.Application Property (Word)
 keywords: vbawd10.chm165872616
 f1_keywords:
 - vbawd10.chm165872616
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DefaultWebOptions.Application
 ms.assetid: 31141cfd-0edd-5900-e12f-53fbbcca4012

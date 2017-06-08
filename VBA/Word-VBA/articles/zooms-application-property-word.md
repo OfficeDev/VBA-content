@@ -3,7 +3,7 @@ title: Zooms.Application Property (Word)
 keywords: vbawd10.chm161940456
 f1_keywords:
 - vbawd10.chm161940456
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Zooms.Application
 ms.assetid: 90b82fd6-6000-d8b9-09a0-c4152e912b6a

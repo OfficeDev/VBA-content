@@ -1,6 +1,6 @@
 ---
 title: Rows Object (Word)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: cd83d0ef-f743-1886-54de-497017c5f542
 ms.date: 06/08/2017
 ---

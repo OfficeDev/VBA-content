@@ -3,7 +3,7 @@ title: Comment.Range Property (Word)
 keywords: vbawd10.chm154993643
 f1_keywords:
 - vbawd10.chm154993643
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Comment.Range
 ms.assetid: 1a67e361-67ee-0fb1-ffe4-9e15aa73e2a2

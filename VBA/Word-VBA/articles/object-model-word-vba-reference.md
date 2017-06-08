@@ -1,6 +1,6 @@
 ---
 title: Object model (Word VBA reference)
-ms.prod: WORD
+ms.prod: word
 ms.assetid: be452561-b436-bb9b-6f94-3faa9a74a6fd
 ms.date: 06/08/2017
 ---

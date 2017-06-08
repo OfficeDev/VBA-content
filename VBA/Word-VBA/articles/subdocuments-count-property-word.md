@@ -3,7 +3,7 @@ title: Subdocuments.Count Property (Word)
 keywords: vbawd10.chm159907841
 f1_keywords:
 - vbawd10.chm159907841
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Subdocuments.Count
 ms.assetid: 0c94e4b0-a046-79e8-3601-95bcde3bf004

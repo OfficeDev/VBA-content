@@ -3,7 +3,7 @@ title: XMLSchemaReference.Creator Property (Word)
 keywords: vbawd10.chm32506857
 f1_keywords:
 - vbawd10.chm32506857
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.XMLSchemaReference.Creator
 ms.assetid: f2153a6e-0be9-2bf3-f2ba-3c21f99a7021

@@ -3,7 +3,7 @@ title: OMathLimUpp.Creator Property (Word)
 keywords: vbawd10.chm113639525
 f1_keywords:
 - vbawd10.chm113639525
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathLimUpp.Creator
 ms.assetid: 7ad1facc-dbe8-cc0c-028c-6b444e6de699

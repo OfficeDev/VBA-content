@@ -3,7 +3,7 @@ title: Cells.PreferredWidthType Property (Word)
 keywords: vbawd10.chm155844712
 f1_keywords:
 - vbawd10.chm155844712
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Cells.PreferredWidthType
 ms.assetid: 65fd3b1d-7048-699b-b549-e2d5265dfe01

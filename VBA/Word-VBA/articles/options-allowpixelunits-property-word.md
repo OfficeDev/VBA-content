@@ -3,7 +3,7 @@ title: Options.AllowPixelUnits Property (Word)
 keywords: vbawd10.chm162988377
 f1_keywords:
 - vbawd10.chm162988377
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Options.AllowPixelUnits
 ms.assetid: 11c2d832-e1e0-094e-df76-b6eeae4b0d36

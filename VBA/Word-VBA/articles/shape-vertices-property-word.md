@@ -3,7 +3,7 @@ title: Shape.Vertices Property (Word)
 keywords: vbawd10.chm161480830
 f1_keywords:
 - vbawd10.chm161480830
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Shape.Vertices
 ms.assetid: e51e17dd-9e4e-28ab-4efd-7913cab45ca9

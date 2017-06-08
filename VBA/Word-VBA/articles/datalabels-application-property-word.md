@@ -3,7 +3,7 @@ title: DataLabels.Application Property (Word)
 keywords: vbawd10.chm207487124
 f1_keywords:
 - vbawd10.chm207487124
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DataLabels.Application
 ms.assetid: c0a70d81-7a14-5e68-b257-1784699b3571

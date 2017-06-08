@@ -3,7 +3,7 @@ title: DisplayUnitLabel.FormulaR1C1 Property (Word)
 keywords: vbawd10.chm94568488
 f1_keywords:
 - vbawd10.chm94568488
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.FormulaR1C1
 ms.assetid: 58cc124a-8b9e-3c6e-6595-5372fe2ac943

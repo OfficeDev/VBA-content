@@ -3,7 +3,7 @@ title: OMathLimUpp.ToLimLow Method (Word)
 keywords: vbawd10.chm113639625
 f1_keywords:
 - vbawd10.chm113639625
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.OMathLimUpp.ToLimLow
 ms.assetid: 1f3f1851-ea32-71b5-ac2a-e8e8f070f320

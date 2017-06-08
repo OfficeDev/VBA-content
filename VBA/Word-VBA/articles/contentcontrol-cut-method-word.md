@@ -3,7 +3,7 @@ title: ContentControl.Cut Method (Word)
 keywords: vbawd10.chm266534919
 f1_keywords:
 - vbawd10.chm266534919
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.ContentControl.Cut
 ms.assetid: ac1300ea-13e9-5513-52f9-95dba444fe7a

@@ -3,7 +3,7 @@ title: Find.ClearAllFuzzyOptions Method (Word)
 keywords: vbawd10.chm162529313
 f1_keywords:
 - vbawd10.chm162529313
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Find.ClearAllFuzzyOptions
 ms.assetid: cf0b33a4-bfcc-36f9-e4b4-b98b3c628c0d

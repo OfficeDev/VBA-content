@@ -3,7 +3,7 @@ title: Footnote.Reference Property (Word)
 keywords: vbawd10.chm155123717
 f1_keywords:
 - vbawd10.chm155123717
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Footnote.Reference
 ms.assetid: c13dfad2-a103-8d91-0e55-86022a7857cd

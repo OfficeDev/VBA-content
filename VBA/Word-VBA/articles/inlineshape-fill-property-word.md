@@ -3,7 +3,7 @@ title: InlineShape.Fill Property (Word)
 keywords: vbawd10.chm162005099
 f1_keywords:
 - vbawd10.chm162005099
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.InlineShape.Fill
 ms.assetid: d803d3cf-095f-a545-453d-4747a6e056c7

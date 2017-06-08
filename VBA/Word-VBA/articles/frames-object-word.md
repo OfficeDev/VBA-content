@@ -1,6 +1,6 @@
 ---
 title: Frames Object (Word)
-ms.prod: WORD
+ms.prod: word
 api_name:
 - Word.Frames
 ms.assetid: d0f526b5-ae1d-ad7a-0da3-5a7b30526b55
