@@ -3,7 +3,7 @@ title: Font Object (PowerPoint)
 keywords: vbapp10.chm575000
 f1_keywords:
 - vbapp10.chm575000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font
 ms.assetid: ad62daaa-01a5-36cc-5451-e0da0134ac95

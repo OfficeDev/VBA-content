@@ -3,7 +3,7 @@ title: Application.WindowBeforeRightClick Event (PowerPoint)
 keywords: vbapp10.chm621002
 f1_keywords:
 - vbapp10.chm621002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.WindowBeforeRightClick
 ms.assetid: e6239915-f487-3619-c84f-d436d645e6c0

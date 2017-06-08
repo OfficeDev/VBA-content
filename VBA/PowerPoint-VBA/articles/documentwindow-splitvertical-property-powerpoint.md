@@ -3,7 +3,7 @@ title: DocumentWindow.SplitVertical Property (PowerPoint)
 keywords: vbapp10.chm511024
 f1_keywords:
 - vbapp10.chm511024
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.SplitVertical
 ms.assetid: 8a26332f-d00d-9816-30e1-48411db07a62

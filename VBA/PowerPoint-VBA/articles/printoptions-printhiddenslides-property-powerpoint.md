@@ -3,7 +3,7 @@ title: PrintOptions.PrintHiddenSlides Property (PowerPoint)
 keywords: vbapp10.chm517009
 f1_keywords:
 - vbapp10.chm517009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.PrintHiddenSlides
 ms.assetid: 39b5845e-7fd0-6759-bf1c-e2497acc1c61

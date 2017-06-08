@@ -1,6 +1,6 @@
 ---
 title: ErrorBars.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Select
 ms.assetid: 846287e5-0f2a-3cb1-1272-6afb5cebb0c5

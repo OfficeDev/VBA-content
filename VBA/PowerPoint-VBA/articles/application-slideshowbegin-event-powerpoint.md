@@ -3,7 +3,7 @@ title: Application.SlideShowBegin Event (PowerPoint)
 keywords: vbapp10.chm621011
 f1_keywords:
 - vbapp10.chm621011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowBegin
 ms.assetid: f70ca9cb-11a7-2a81-19bb-36e0b0ca0b97

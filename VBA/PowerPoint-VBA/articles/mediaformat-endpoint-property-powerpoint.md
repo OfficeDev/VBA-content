@@ -3,7 +3,7 @@ title: MediaFormat.EndPoint Property (PowerPoint)
 keywords: vbapp10.chm724007
 f1_keywords:
 - vbapp10.chm724007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.EndPoint
 ms.assetid: bc2476a0-581c-4363-4f39-d7dd23c560af

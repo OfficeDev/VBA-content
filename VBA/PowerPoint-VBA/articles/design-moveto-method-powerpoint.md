@@ -3,7 +3,7 @@ title: Design.MoveTo Method (PowerPoint)
 keywords: vbapp10.chm644010
 f1_keywords:
 - vbapp10.chm644010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Design.MoveTo
 ms.assetid: fc0d8e56-0e82-da31-3360-995ad804db7d

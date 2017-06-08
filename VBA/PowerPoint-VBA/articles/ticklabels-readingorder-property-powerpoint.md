@@ -3,7 +3,7 @@ title: TickLabels.ReadingOrder Property (PowerPoint)
 keywords: vbapp10.chm719017
 f1_keywords:
 - vbapp10.chm719017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.ReadingOrder
 ms.assetid: 6b81f7ba-4480-385f-e6a0-14358bde441c

@@ -3,7 +3,7 @@ title: Master.Shapes Property (PowerPoint)
 keywords: vbapp10.chm533003
 f1_keywords:
 - vbapp10.chm533003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Shapes
 ms.assetid: a4620f02-d3d2-da87-6bbc-430557365c2d

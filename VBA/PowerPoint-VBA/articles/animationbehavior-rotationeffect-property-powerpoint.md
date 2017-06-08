@@ -3,7 +3,7 @@ title: AnimationBehavior.RotationEffect Property (PowerPoint)
 keywords: vbapp10.chm657009
 f1_keywords:
 - vbapp10.chm657009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.RotationEffect
 ms.assetid: 46983cf0-0977-41ec-6264-958216ee44dc

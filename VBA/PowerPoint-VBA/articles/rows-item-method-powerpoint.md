@@ -3,7 +3,7 @@ title: Rows.Item Method (PowerPoint)
 keywords: vbapp10.chm625003
 f1_keywords:
 - vbapp10.chm625003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Rows.Item
 ms.assetid: 34a6d828-4c5e-098b-2c34-71b7cea0e9e2

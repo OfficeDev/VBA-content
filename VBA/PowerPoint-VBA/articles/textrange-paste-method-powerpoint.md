@@ -3,7 +3,7 @@ title: TextRange.Paste Method (PowerPoint)
 keywords: vbapp10.chm569030
 f1_keywords:
 - vbapp10.chm569030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Paste
 ms.assetid: 4bbaa1f3-206e-2009-11f0-5abde24517c6

@@ -3,7 +3,7 @@ title: Presentation.SlideMaster Property (PowerPoint)
 keywords: vbapp10.chm583003
 f1_keywords:
 - vbapp10.chm583003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SlideMaster
 ms.assetid: 86b11fcd-b979-6ffe-bda7-1b9c6e807d29

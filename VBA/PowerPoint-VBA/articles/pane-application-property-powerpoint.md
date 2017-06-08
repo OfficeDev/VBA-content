@@ -3,7 +3,7 @@ title: Pane.Application Property (PowerPoint)
 keywords: vbapp10.chm631004
 f1_keywords:
 - vbapp10.chm631004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Pane.Application
 ms.assetid: dc40ba0a-23cd-cf07-d59b-dbe5f7d700d9

@@ -3,7 +3,7 @@ title: DataTable.HasBorderHorizontal Property (PowerPoint)
 keywords: vbapp10.chm698002
 f1_keywords:
 - vbapp10.chm698002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.HasBorderHorizontal
 ms.assetid: 6fb381e0-f990-656d-89e7-cb2f43a84ece

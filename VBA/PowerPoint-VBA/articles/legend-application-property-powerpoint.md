@@ -3,7 +3,7 @@ title: Legend.Application Property (PowerPoint)
 keywords: vbapp10.chm709002
 f1_keywords:
 - vbapp10.chm709002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Application
 ms.assetid: 655f8308-907a-bdb2-4e20-62ce1579b82c

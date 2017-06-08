@@ -3,7 +3,7 @@ title: ThreeDFormat.RotationY Property (PowerPoint)
 keywords: vbapp10.chm557017
 f1_keywords:
 - vbapp10.chm557017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.RotationY
 ms.assetid: 1e39544d-e95d-7419-8d6b-140696a43895

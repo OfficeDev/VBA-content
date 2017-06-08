@@ -1,6 +1,6 @@
 ---
 title: PpSlideLayout Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideLayout
 ms.assetid: ff56107a-f37a-f817-86ef-68ee708cbdc2

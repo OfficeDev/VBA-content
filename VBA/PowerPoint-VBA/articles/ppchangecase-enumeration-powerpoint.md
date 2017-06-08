@@ -1,6 +1,6 @@
 ---
 title: PpChangeCase Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpChangeCase
 ms.assetid: 93d2d684-5b5c-64ad-667b-dd60093fb366

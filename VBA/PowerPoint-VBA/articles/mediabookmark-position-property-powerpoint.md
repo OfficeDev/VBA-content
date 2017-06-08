@@ -3,7 +3,7 @@ title: MediaBookmark.Position Property (PowerPoint)
 keywords: vbapp10.chm729003
 f1_keywords:
 - vbapp10.chm729003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmark.Position
 ms.assetid: 00049167-6b96-f62f-2344-d4189e4c77de

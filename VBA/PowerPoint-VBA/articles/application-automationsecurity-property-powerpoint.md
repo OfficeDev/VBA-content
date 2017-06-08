@@ -3,7 +3,7 @@ title: Application.AutomationSecurity Property (PowerPoint)
 keywords: vbapp10.chm502048
 f1_keywords:
 - vbapp10.chm502048
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.AutomationSecurity
 ms.assetid: 942341fe-5290-2903-db70-4e7cff0d75c7

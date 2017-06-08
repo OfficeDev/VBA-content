@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Left Property (PowerPoint)
 keywords: vbapp10.chm734009
 f1_keywords:
 - vbapp10.chm734009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Left
 ms.assetid: 1434f29b-e0e0-0067-dad8-d3583630cc96

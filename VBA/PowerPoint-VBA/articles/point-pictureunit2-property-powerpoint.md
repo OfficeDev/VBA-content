@@ -1,6 +1,6 @@
 ---
 title: Point.PictureUnit2 Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.PictureUnit2
 ms.assetid: 3e221489-f24e-f939-78dd-4c5c6a5413d0

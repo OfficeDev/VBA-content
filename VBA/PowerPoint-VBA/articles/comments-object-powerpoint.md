@@ -3,7 +3,7 @@ title: Comments Object (PowerPoint)
 keywords: vbapp10.chm641000
 f1_keywords:
 - vbapp10.chm641000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments
 ms.assetid: 1f29db7c-90fa-db9f-5229-136534ce803d

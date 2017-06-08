@@ -3,7 +3,7 @@ title: Series.Trendlines Method (PowerPoint)
 keywords: vbapp10.chm65690
 f1_keywords:
 - vbapp10.chm65690
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Trendlines
 ms.assetid: 17578607-d0aa-dcc2-1eec-3af031f17c2d

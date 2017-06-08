@@ -3,7 +3,7 @@ title: PageSetup.Parent Property (PowerPoint)
 keywords: vbapp10.chm527002
 f1_keywords:
 - vbapp10.chm527002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.Parent
 ms.assetid: 58f34a76-6ae8-c861-f4e7-0290931fb736

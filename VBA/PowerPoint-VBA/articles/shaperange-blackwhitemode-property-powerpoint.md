@@ -3,7 +3,7 @@ title: ShapeRange.BlackWhiteMode Property (PowerPoint)
 keywords: vbapp10.chm548017
 f1_keywords:
 - vbapp10.chm548017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.BlackWhiteMode
 ms.assetid: a9d51d2d-aee3-78ba-3213-6ad7263f268c

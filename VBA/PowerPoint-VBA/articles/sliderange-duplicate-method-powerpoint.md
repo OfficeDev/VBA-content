@@ -3,7 +3,7 @@ title: SlideRange.Duplicate Method (PowerPoint)
 keywords: vbapp10.chm532015
 f1_keywords:
 - vbapp10.chm532015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Duplicate
 ms.assetid: 054b5be1-adbb-be83-1c25-e8585dbbdfe8

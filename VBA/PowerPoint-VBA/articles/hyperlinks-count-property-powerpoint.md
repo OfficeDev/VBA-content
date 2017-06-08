@@ -1,6 +1,6 @@
 ---
 title: Hyperlinks.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlinks.Count
 ms.assetid: c16de153-87c8-2be0-7953-1838f57b5155

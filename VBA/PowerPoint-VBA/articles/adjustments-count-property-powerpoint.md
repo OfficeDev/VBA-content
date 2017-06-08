@@ -3,7 +3,7 @@ title: Adjustments.Count Property (PowerPoint)
 keywords: vbapp10.chm550002
 f1_keywords:
 - vbapp10.chm550002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Count
 ms.assetid: dcfb5bf4-1404-8525-7fe1-d1504491267f

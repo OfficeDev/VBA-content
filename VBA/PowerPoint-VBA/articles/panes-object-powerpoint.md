@@ -3,7 +3,7 @@ title: Panes Object (PowerPoint)
 keywords: vbapp10.chm630000
 f1_keywords:
 - vbapp10.chm630000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Panes
 ms.assetid: a6fe4d77-dff2-6e90-1df6-eb281bc46fa6

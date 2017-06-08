@@ -1,6 +1,6 @@
 ---
 title: Point.Shadow Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Shadow
 ms.assetid: c3b60bbe-55a1-5ef0-1379-20e859007861

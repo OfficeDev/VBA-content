@@ -3,7 +3,7 @@ title: AnimationPoint.Delete Method (PowerPoint)
 keywords: vbapp10.chm664003
 f1_keywords:
 - vbapp10.chm664003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoint.Delete
 ms.assetid: cee0b7f9-2563-1267-710c-b0e4d1df2732

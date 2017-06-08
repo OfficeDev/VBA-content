@@ -2,6 +2,7 @@
 title: TextRange2.AddPeriods Method (PowerPoint)
 ms.assetid: 07894fbc-2d3b-42b5-a240-8cdcce661562
 ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

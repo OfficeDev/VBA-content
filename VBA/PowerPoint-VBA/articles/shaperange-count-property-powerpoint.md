@@ -3,7 +3,7 @@ title: ShapeRange.Count Property (PowerPoint)
 keywords: vbapp10.chm548060
 f1_keywords:
 - vbapp10.chm548060
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Count
 ms.assetid: 17d38ae2-667c-d256-2098-4ed110b7488f

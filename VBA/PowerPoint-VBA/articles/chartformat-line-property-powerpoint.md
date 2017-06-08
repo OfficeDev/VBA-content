@@ -3,7 +3,7 @@ title: ChartFormat.Line Property (PowerPoint)
 keywords: vbapp10.chm691003
 f1_keywords:
 - vbapp10.chm691003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFormat.Line
 ms.assetid: 199a8058-f97e-fc8d-6a86-a63b74cb0126

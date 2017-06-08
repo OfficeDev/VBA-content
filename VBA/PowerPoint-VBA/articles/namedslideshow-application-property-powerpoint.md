@@ -3,7 +3,7 @@ title: NamedSlideShow.Application Property (PowerPoint)
 keywords: vbapp10.chm516001
 f1_keywords:
 - vbapp10.chm516001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow.Application
 ms.assetid: 7e8220b0-a010-a0b0-5baf-cc54cf0df233

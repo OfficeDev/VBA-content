@@ -3,7 +3,7 @@ title: ShapeRange.Regroup Method (PowerPoint)
 keywords: vbapp10.chm548062
 f1_keywords:
 - vbapp10.chm548062
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Regroup
 ms.assetid: 3da4a44d-4b0c-e335-b376-4d76fe5ed561

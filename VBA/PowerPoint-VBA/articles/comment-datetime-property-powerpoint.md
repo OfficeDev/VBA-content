@@ -3,7 +3,7 @@ title: Comment.DateTime Property (PowerPoint)
 keywords: vbapp10.chm642006
 f1_keywords:
 - vbapp10.chm642006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.DateTime
 ms.assetid: 52e08d04-18d6-61fc-1526-ef669aa5f6c8

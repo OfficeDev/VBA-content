@@ -3,7 +3,7 @@ title: ShapeRange.Select Method (PowerPoint)
 keywords: vbapp10.chm548052
 f1_keywords:
 - vbapp10.chm548052
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Select
 ms.assetid: 475f035e-a266-c263-eb62-542c51bb4087

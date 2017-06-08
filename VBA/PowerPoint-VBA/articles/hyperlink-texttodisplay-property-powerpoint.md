@@ -3,7 +3,7 @@ title: Hyperlink.TextToDisplay Property (PowerPoint)
 keywords: vbapp10.chm526009
 f1_keywords:
 - vbapp10.chm526009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.TextToDisplay
 ms.assetid: 5f30033e-ddb8-8814-9e55-e0137ff6fa48

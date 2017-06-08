@@ -3,7 +3,7 @@ title: SlideShowView.AcceleratorsEnabled Property (PowerPoint)
 keywords: vbapp10.chm513007
 f1_keywords:
 - vbapp10.chm513007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.AcceleratorsEnabled
 ms.assetid: 04db702f-af30-1868-0cab-17e692892e82

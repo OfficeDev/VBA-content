@@ -3,7 +3,7 @@ title: Axis.MajorUnitScale Property (PowerPoint)
 keywords: vbapp10.chm682035
 f1_keywords:
 - vbapp10.chm682035
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MajorUnitScale
 ms.assetid: 42fe928b-de99-02d5-b56e-1e735ba5f0da

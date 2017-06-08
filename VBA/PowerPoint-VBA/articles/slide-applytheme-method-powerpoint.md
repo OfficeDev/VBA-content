@@ -3,7 +3,7 @@ title: Slide.ApplyTheme Method (PowerPoint)
 keywords: vbapp10.chm531035
 f1_keywords:
 - vbapp10.chm531035
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.ApplyTheme
 ms.assetid: 70fff6cd-0541-dff8-754e-e8ee1a46dc2b

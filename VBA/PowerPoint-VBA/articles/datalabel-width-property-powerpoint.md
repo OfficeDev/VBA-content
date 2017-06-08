@@ -3,7 +3,7 @@ title: DataLabel.Width Property (PowerPoint)
 keywords: vbapp10.chm696004
 f1_keywords:
 - vbapp10.chm696004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Width
 ms.assetid: 297ed420-f582-4d22-eb40-de66012cdf12

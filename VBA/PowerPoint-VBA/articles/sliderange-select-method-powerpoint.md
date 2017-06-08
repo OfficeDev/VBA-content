@@ -3,7 +3,7 @@ title: SlideRange.Select Method (PowerPoint)
 keywords: vbapp10.chm532011
 f1_keywords:
 - vbapp10.chm532011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Select
 ms.assetid: bcd521aa-b107-4b49-71d1-86c936077cb1

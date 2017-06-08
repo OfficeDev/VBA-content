@@ -3,7 +3,7 @@ title: ChartTitle.Top Property (PowerPoint)
 keywords: vbapp10.chm694009
 f1_keywords:
 - vbapp10.chm694009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Top
 ms.assetid: b78b0f84-df69-d882-ed6b-85c76297efa1

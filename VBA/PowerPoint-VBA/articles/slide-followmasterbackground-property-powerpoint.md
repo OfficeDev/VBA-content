@@ -3,7 +3,7 @@ title: Slide.FollowMasterBackground Property (PowerPoint)
 keywords: vbapp10.chm531021
 f1_keywords:
 - vbapp10.chm531021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.FollowMasterBackground
 ms.assetid: 252c1893-f877-082a-8778-4ee9cc1d9c72

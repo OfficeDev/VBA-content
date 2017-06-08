@@ -3,7 +3,7 @@ title: CustomLayout.MatchingName Property (PowerPoint)
 keywords: vbapp10.chm672014
 f1_keywords:
 - vbapp10.chm672014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.MatchingName
 ms.assetid: ff661ecd-37c7-5ea1-3bba-93e0d56aa66e

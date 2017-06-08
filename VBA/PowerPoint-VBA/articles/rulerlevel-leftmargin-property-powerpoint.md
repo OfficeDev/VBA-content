@@ -3,7 +3,7 @@ title: RulerLevel.LeftMargin Property (PowerPoint)
 keywords: vbapp10.chm572004
 f1_keywords:
 - vbapp10.chm572004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RulerLevel.LeftMargin
 ms.assetid: ea9e94ac-c56b-5acd-761d-ba0f45e8da3c

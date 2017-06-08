@@ -1,6 +1,6 @@
 ---
 title: XlRowCol Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlRowCol
 ms.assetid: 011d264b-6d5e-d6c6-f02e-8530dfefb186

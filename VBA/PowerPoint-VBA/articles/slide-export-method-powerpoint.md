@@ -3,7 +3,7 @@ title: Slide.Export Method (PowerPoint)
 keywords: vbapp10.chm531025
 f1_keywords:
 - vbapp10.chm531025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Export
 ms.assetid: b7379dfa-ce0b-340d-9109-5970beb77aa3

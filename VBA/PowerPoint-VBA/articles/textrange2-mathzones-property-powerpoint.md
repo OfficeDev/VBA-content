@@ -2,6 +2,7 @@
 title: TextRange2.MathZones Property (PowerPoint)
 ms.assetid: 77e13bb5-e1c2-4438-a9eb-a475fd5f372c
 ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

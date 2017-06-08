@@ -1,6 +1,6 @@
 ---
 title: LegendEntry.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Select
 ms.assetid: 86b3cbf7-d491-1e43-0ae6-f6527109653d

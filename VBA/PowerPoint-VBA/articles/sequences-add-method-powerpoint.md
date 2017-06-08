@@ -3,7 +3,7 @@ title: Sequences.Add Method (PowerPoint)
 keywords: vbapp10.chm650004
 f1_keywords:
 - vbapp10.chm650004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequences.Add
 ms.assetid: 5f1516ec-d617-ffcf-c786-318a7ba3cb1e

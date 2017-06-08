@@ -3,7 +3,7 @@ title: Axis.ScaleType Property (PowerPoint)
 keywords: vbapp10.chm682026
 f1_keywords:
 - vbapp10.chm682026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.ScaleType
 ms.assetid: baf40097-28a4-c2ec-fea9-2ce971f72ed5

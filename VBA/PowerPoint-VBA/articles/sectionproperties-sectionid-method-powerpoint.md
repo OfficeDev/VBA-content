@@ -3,7 +3,7 @@ title: SectionProperties.SectionID Method (PowerPoint)
 keywords: vbapp10.chm725012
 f1_keywords:
 - vbapp10.chm725012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.SectionID
 ms.assetid: eec3a584-8f97-ae9f-9630-0b34964a5c02

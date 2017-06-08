@@ -3,7 +3,7 @@ title: Slide.BackgroundStyle Property (PowerPoint)
 keywords: vbapp10.chm531038
 f1_keywords:
 - vbapp10.chm531038
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.BackgroundStyle
 ms.assetid: 5f085f74-8f67-94fa-213e-46be866155fe

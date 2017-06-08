@@ -1,6 +1,6 @@
 ---
 title: PpViewType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpViewType
 ms.assetid: ae5e79ec-4176-4a00-5690-aca0570dcb84

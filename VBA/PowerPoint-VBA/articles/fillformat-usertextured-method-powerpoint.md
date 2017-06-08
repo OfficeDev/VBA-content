@@ -3,7 +3,7 @@ title: FillFormat.UserTextured Method (PowerPoint)
 keywords: vbapp10.chm552010
 f1_keywords:
 - vbapp10.chm552010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.UserTextured
 ms.assetid: 351d00db-4ed3-6975-e9c6-4174e796395d

@@ -3,7 +3,7 @@ title: Tags.Value Method (PowerPoint)
 keywords: vbapp10.chm611009
 f1_keywords:
 - vbapp10.chm611009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Tags.Value
 ms.assetid: 8d7507d2-6533-5d63-c6ff-fec9581fb44f

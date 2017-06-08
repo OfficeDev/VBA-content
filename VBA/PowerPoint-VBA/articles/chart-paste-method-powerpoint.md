@@ -3,7 +3,7 @@ title: Chart.Paste Method (PowerPoint)
 keywords: vbapp10.chm684004
 f1_keywords:
 - vbapp10.chm684004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Paste
 ms.assetid: b94ee91d-5b7c-c0b3-340d-b8eba4f3710f

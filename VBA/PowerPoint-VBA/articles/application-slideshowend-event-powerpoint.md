@@ -3,7 +3,7 @@ title: Application.SlideShowEnd Event (PowerPoint)
 keywords: vbapp10.chm621014
 f1_keywords:
 - vbapp10.chm621014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowEnd
 ms.assetid: e46f8177-e00b-6704-1606-dbf9e96bf812

@@ -3,7 +3,7 @@ title: ColorSchemes.Add Method (PowerPoint)
 keywords: vbapp10.chm536004
 f1_keywords:
 - vbapp10.chm536004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorSchemes.Add
 ms.assetid: 1e727a60-0e19-e033-2dc2-c00083263e06

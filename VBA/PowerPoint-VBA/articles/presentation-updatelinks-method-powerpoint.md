@@ -3,7 +3,7 @@ title: Presentation.UpdateLinks Method (PowerPoint)
 keywords: vbapp10.chm583046
 f1_keywords:
 - vbapp10.chm583046
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.UpdateLinks
 ms.assetid: 1ce2246c-d64e-c78c-8d2a-7c564eb07ecc

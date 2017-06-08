@@ -3,7 +3,7 @@ title: CustomLayout.Application Property (PowerPoint)
 keywords: vbapp10.chm672001
 f1_keywords:
 - vbapp10.chm672001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Application
 ms.assetid: 91126d20-bfbb-fcad-72e0-fb10d78a17ab

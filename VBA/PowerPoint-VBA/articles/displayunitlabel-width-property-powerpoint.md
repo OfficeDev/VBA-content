@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Width Property (PowerPoint)
 keywords: vbapp10.chm699023
 f1_keywords:
 - vbapp10.chm699023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Width
 ms.assetid: cb15846f-8f57-fc85-d2e7-babc27844357

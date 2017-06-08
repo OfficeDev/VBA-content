@@ -1,6 +1,6 @@
 ---
 title: LegendKey.MarkerForegroundColorIndex Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerForegroundColorIndex
 ms.assetid: 47760c8c-a791-fac5-a5cc-d91c59221026

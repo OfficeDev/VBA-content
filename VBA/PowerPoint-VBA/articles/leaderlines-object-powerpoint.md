@@ -3,7 +3,7 @@ title: LeaderLines Object (PowerPoint)
 keywords: vbapp10.chm708000
 f1_keywords:
 - vbapp10.chm708000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines
 ms.assetid: 2357c570-0f68-8bb4-910a-e88c00ed9884

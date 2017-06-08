@@ -3,7 +3,7 @@ title: Shape.Type Property (PowerPoint)
 keywords: vbapp10.chm547038
 f1_keywords:
 - vbapp10.chm547038
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Type
 ms.assetid: 3a6aa03d-8d93-9a08-ef42-8f128ada7b87

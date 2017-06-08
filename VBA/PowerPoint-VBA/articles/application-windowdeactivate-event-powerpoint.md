@@ -3,7 +3,7 @@ title: Application.WindowDeactivate Event (PowerPoint)
 keywords: vbapp10.chm621010
 f1_keywords:
 - vbapp10.chm621010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.WindowDeactivate
 ms.assetid: 89bf2c09-a1a8-ed7f-74d5-49f8f7c027a7

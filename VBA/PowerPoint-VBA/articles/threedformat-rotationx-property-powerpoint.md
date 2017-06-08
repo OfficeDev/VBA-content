@@ -3,7 +3,7 @@ title: ThreeDFormat.RotationX Property (PowerPoint)
 keywords: vbapp10.chm557016
 f1_keywords:
 - vbapp10.chm557016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.RotationX
 ms.assetid: 8c434ef8-1364-5989-71da-e96ddfbd15ac

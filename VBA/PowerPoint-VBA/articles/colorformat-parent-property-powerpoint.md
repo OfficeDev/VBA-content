@@ -3,7 +3,7 @@ title: ColorFormat.Parent Property (PowerPoint)
 keywords: vbapp10.chm506001
 f1_keywords:
 - vbapp10.chm506001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Parent
 ms.assetid: aa54269d-ee71-0a4e-7063-8631577d6e76

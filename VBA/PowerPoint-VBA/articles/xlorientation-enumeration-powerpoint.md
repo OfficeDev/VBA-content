@@ -1,6 +1,6 @@
 ---
 title: XlOrientation Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlOrientation
 ms.assetid: df963ba0-dc15-689a-4922-8b0b0ec6f147

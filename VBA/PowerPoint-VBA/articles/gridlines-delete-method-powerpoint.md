@@ -1,6 +1,6 @@
 ---
 title: Gridlines.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Delete
 ms.assetid: 2f869cc2-8fe2-299e-ad3e-cba6e0e19d06

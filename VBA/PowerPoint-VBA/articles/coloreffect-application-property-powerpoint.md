@@ -3,7 +3,7 @@ title: ColorEffect.Application Property (PowerPoint)
 keywords: vbapp10.chm659001
 f1_keywords:
 - vbapp10.chm659001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorEffect.Application
 ms.assetid: 4183d3f5-8f45-11e0-3895-860951decab9

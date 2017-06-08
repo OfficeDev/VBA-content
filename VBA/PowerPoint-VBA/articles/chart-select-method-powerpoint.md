@@ -3,7 +3,7 @@ title: Chart.Select Method (PowerPoint)
 keywords: vbapp10.chm684042
 f1_keywords:
 - vbapp10.chm684042
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Select
 ms.assetid: 5ea52965-ecf4-7a24-1b74-0e5ebc8d48a5

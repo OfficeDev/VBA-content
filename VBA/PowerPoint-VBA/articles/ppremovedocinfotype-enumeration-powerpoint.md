@@ -1,6 +1,6 @@
 ---
 title: PpRemoveDocInfoType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpRemoveDocInfoType
 ms.assetid: 76cb213a-34a4-8b5e-6e9d-9fc7528c7574

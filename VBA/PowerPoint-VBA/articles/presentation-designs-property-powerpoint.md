@@ -3,7 +3,7 @@ title: Presentation.Designs Property (PowerPoint)
 keywords: vbapp10.chm583063
 f1_keywords:
 - vbapp10.chm583063
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Designs
 ms.assetid: 5ad47ac9-aaab-3971-1102-fa48e8bcef8b

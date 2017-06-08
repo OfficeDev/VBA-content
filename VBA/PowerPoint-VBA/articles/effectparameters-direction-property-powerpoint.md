@@ -3,7 +3,7 @@ title: EffectParameters.Direction Property (PowerPoint)
 keywords: vbapp10.chm654003
 f1_keywords:
 - vbapp10.chm654003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Direction
 ms.assetid: 39ef6eaf-79fb-f70f-20fe-7ec07715d59c

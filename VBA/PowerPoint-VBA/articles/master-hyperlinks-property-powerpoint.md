@@ -3,7 +3,7 @@ title: Master.Hyperlinks Property (PowerPoint)
 keywords: vbapp10.chm533012
 f1_keywords:
 - vbapp10.chm533012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Hyperlinks
 ms.assetid: 5d9af48b-49e2-4253-a431-4341a697437b

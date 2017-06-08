@@ -3,7 +3,7 @@ title: Shapes.AddSmartArt Method (PowerPoint)
 keywords: vbapp10.chm543034
 f1_keywords:
 - vbapp10.chm543034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddSmartArt
 ms.assetid: 5bd66a76-a31c-3633-7aae-f24e0a92021c

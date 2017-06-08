@@ -3,7 +3,7 @@ title: PrintOptions.SlideShowName Property (PowerPoint)
 keywords: vbapp10.chm517014
 f1_keywords:
 - vbapp10.chm517014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.SlideShowName
 ms.assetid: 0eca6fce-23ba-0e13-a6a7-ee968f3aa973

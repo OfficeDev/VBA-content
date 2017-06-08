@@ -3,7 +3,7 @@ title: DocumentWindows.Parent Property (PowerPoint)
 keywords: vbapp10.chm509002
 f1_keywords:
 - vbapp10.chm509002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Parent
 ms.assetid: c0b45972-9677-b14a-e1fa-ae20b3afa3c6

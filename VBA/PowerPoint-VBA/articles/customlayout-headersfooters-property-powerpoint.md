@@ -3,7 +3,7 @@ title: CustomLayout.HeadersFooters Property (PowerPoint)
 keywords: vbapp10.chm672004
 f1_keywords:
 - vbapp10.chm672004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.HeadersFooters
 ms.assetid: e8a53212-99cb-26df-12dd-ec6a6c7b7116

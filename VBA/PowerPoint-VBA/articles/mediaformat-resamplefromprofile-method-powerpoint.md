@@ -3,7 +3,7 @@ title: MediaFormat.ResampleFromProfile Method (PowerPoint)
 keywords: vbapp10.chm724014
 f1_keywords:
 - vbapp10.chm724014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.ResampleFromProfile
 ms.assetid: f2d0ed29-82f1-e3f3-a4d9-e00a911176b3

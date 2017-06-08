@@ -1,6 +1,6 @@
 ---
 title: PlotArea.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Select
 ms.assetid: e723e99f-5e86-b33f-a340-50c75971f956

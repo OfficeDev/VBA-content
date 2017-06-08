@@ -1,6 +1,6 @@
 ---
 title: DataTable.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.Creator
 ms.assetid: 33049059-855a-a45d-2f36-db42b1c3dd24

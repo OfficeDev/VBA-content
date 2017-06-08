@@ -3,7 +3,7 @@ title: Shape.Adjustments Property (PowerPoint)
 keywords: vbapp10.chm547015
 f1_keywords:
 - vbapp10.chm547015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Adjustments
 ms.assetid: 2bb29847-cbeb-891b-c1e2-18e8ea7e8122

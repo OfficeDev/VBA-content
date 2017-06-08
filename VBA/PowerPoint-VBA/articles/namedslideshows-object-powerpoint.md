@@ -3,7 +3,7 @@ title: NamedSlideShows Object (PowerPoint)
 keywords: vbapp10.chm515000
 f1_keywords:
 - vbapp10.chm515000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShows
 ms.assetid: 9f20ff20-a81e-f771-5ef2-44b21ecfb055

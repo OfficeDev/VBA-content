@@ -3,7 +3,7 @@ title: DocumentWindow.ScrollIntoView Method (PowerPoint)
 keywords: vbapp10.chm511029
 f1_keywords:
 - vbapp10.chm511029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.ScrollIntoView
 ms.assetid: 1eee6b36-9f01-5204-dd75-1172f2e00577

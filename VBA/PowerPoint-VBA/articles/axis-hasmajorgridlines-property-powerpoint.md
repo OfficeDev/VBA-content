@@ -3,7 +3,7 @@ title: Axis.HasMajorGridlines Property (PowerPoint)
 keywords: vbapp10.chm682008
 f1_keywords:
 - vbapp10.chm682008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.HasMajorGridlines
 ms.assetid: a8d5a060-ce84-8ca5-a42c-4a52d09a1e50

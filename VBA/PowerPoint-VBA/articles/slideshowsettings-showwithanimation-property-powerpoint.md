@@ -3,7 +3,7 @@ title: SlideShowSettings.ShowWithAnimation Property (PowerPoint)
 keywords: vbapp10.chm514012
 f1_keywords:
 - vbapp10.chm514012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowWithAnimation
 ms.assetid: 9255fc7b-50fa-c65e-5ef4-3c214dede4a4

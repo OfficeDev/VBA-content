@@ -3,7 +3,7 @@ title: MediaFormat.SampleWidth Property (PowerPoint)
 keywords: vbapp10.chm724021
 f1_keywords:
 - vbapp10.chm724021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.SampleWidth
 ms.assetid: 40facdaf-200c-c7c5-3835-fa5be601385e

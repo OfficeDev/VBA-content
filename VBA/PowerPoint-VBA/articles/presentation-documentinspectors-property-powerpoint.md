@@ -3,7 +3,7 @@ title: Presentation.DocumentInspectors Property (PowerPoint)
 keywords: vbapp10.chm583101
 f1_keywords:
 - vbapp10.chm583101
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.DocumentInspectors
 ms.assetid: 3f5c9fb1-de9c-170b-dca5-22215cad1dd5

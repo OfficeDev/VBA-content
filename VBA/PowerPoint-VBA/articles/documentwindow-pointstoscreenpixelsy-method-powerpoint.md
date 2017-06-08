@@ -3,7 +3,7 @@ title: DocumentWindow.PointsToScreenPixelsY Method (PowerPoint)
 keywords: vbapp10.chm511028
 f1_keywords:
 - vbapp10.chm511028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.PointsToScreenPixelsY
 ms.assetid: 0a5a96c6-3e91-31c6-ee60-ca1f8481daf0

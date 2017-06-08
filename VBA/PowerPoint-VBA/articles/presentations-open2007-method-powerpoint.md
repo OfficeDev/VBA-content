@@ -3,7 +3,7 @@ title: Presentations.Open2007 Method (PowerPoint)
 keywords: vbapp10.chm522009
 f1_keywords:
 - vbapp10.chm522009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.Open2007
 ms.assetid: 45bbbe1f-461c-d908-0d3b-8b4e8aa681a6

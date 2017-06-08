@@ -3,7 +3,7 @@ title: Shape.ShapeStyle Property (PowerPoint)
 keywords: vbapp10.chm547079
 f1_keywords:
 - vbapp10.chm547079
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ShapeStyle
 ms.assetid: b93ffebd-8ace-6876-8336-96febb46be8c

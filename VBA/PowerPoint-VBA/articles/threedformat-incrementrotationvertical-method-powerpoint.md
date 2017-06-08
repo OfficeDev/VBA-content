@@ -3,7 +3,7 @@ title: ThreeDFormat.IncrementRotationVertical Method (PowerPoint)
 keywords: vbapp10.chm557022
 f1_keywords:
 - vbapp10.chm557022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationVertical
 ms.assetid: d2f1469b-fc64-9a1c-98ab-88158a0094a9

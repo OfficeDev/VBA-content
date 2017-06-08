@@ -3,7 +3,7 @@ title: Font.NameOther Property (PowerPoint)
 keywords: vbapp10.chm575019
 f1_keywords:
 - vbapp10.chm575019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.NameOther
 ms.assetid: 64f62838-635c-9b6d-082a-06fe698685e1

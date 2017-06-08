@@ -3,7 +3,7 @@ title: SlideShowSettings.ShowMediaControls Property (PowerPoint)
 keywords: vbapp10.chm514017
 f1_keywords:
 - vbapp10.chm514017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowMediaControls
 ms.assetid: 6b7a63d3-f43d-bbb2-0af2-574e19d48e3d

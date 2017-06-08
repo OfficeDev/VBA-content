@@ -3,7 +3,7 @@ title: ShapeNodes.Delete Method (PowerPoint)
 keywords: vbapp10.chm560005
 f1_keywords:
 - vbapp10.chm560005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.Delete
 ms.assetid: a132067b-b8d7-0730-5dec-2df666eac209

@@ -3,7 +3,7 @@ title: ActionSetting.AnimateAction Property (PowerPoint)
 keywords: vbapp10.chm567005
 f1_keywords:
 - vbapp10.chm567005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.AnimateAction
 ms.assetid: cf6c13e4-1fc5-8335-16b3-9a9f30c246ea

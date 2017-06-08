@@ -1,6 +1,6 @@
 ---
 title: PpFixedFormatIntent Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpFixedFormatIntent
 ms.assetid: e11adacd-6cf1-635f-4d5e-bbd76176fd8f

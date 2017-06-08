@@ -3,7 +3,7 @@ title: EffectParameters.Parent Property (PowerPoint)
 keywords: vbapp10.chm654002
 f1_keywords:
 - vbapp10.chm654002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Parent
 ms.assetid: b83fd852-e015-04f8-9856-ce018c23b848

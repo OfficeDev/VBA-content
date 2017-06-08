@@ -3,7 +3,7 @@ title: Hyperlink.CreateNewDocument Method (PowerPoint)
 keywords: vbapp10.chm526012
 f1_keywords:
 - vbapp10.chm526012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.CreateNewDocument
 ms.assetid: d2de9bbb-a659-3ea3-bdee-244329d88416

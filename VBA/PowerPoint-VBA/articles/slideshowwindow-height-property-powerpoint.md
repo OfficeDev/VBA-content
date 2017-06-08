@@ -3,7 +3,7 @@ title: SlideShowWindow.Height Property (PowerPoint)
 keywords: vbapp10.chm507009
 f1_keywords:
 - vbapp10.chm507009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Height
 ms.assetid: 0108ffd6-2a91-4add-526f-9d34523ca3b9

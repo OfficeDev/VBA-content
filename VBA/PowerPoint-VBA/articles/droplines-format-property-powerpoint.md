@@ -3,7 +3,7 @@ title: DropLines.Format Property (PowerPoint)
 keywords: vbapp10.chm701004
 f1_keywords:
 - vbapp10.chm701004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DropLines.Format
 ms.assetid: ea123388-c397-c6a9-fbe0-a2dae18e21a6

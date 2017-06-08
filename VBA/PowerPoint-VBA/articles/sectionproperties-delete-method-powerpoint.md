@@ -3,7 +3,7 @@ title: SectionProperties.Delete Method (PowerPoint)
 keywords: vbapp10.chm725011
 f1_keywords:
 - vbapp10.chm725011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.Delete
 ms.assetid: 5a102ee7-60a1-64b1-db6c-6ba84447dd12

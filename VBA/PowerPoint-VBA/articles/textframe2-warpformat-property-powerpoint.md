@@ -3,7 +3,7 @@ title: TextFrame2.WarpFormat Property (PowerPoint)
 keywords: vbapp10.chm678010
 f1_keywords:
 - vbapp10.chm678010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.WarpFormat
 ms.assetid: 1b22dbf3-d54f-7a00-46b1-6dd1b84b0993

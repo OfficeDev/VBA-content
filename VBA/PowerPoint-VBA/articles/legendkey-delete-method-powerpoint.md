@@ -1,6 +1,6 @@
 ---
 title: LegendKey.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Delete
 ms.assetid: 501e2252-b672-00d5-1e41-64336c512591

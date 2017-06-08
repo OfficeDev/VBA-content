@@ -3,7 +3,7 @@ title: Design.Delete Method (PowerPoint)
 keywords: vbapp10.chm644011
 f1_keywords:
 - vbapp10.chm644011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Design.Delete
 ms.assetid: dd1bd6f7-9986-0abc-2e84-4c9ba4b12a57

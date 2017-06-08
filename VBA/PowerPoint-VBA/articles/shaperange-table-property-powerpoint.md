@@ -3,7 +3,7 @@ title: ShapeRange.Table Property (PowerPoint)
 keywords: vbapp10.chm548069
 f1_keywords:
 - vbapp10.chm548069
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Table
 ms.assetid: 2ab10bd4-071a-8e84-cf46-1687e6661bb8

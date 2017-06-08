@@ -1,6 +1,6 @@
 ---
 title: MsoAnimEffectRestart Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimEffectRestart
 ms.assetid: 6cfe84e8-c7ff-ac98-50f5-ba9e173d94c3

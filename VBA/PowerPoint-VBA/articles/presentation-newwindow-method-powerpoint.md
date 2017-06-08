@@ -3,7 +3,7 @@ title: Presentation.NewWindow Method (PowerPoint)
 keywords: vbapp10.chm583029
 f1_keywords:
 - vbapp10.chm583029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.NewWindow
 ms.assetid: 2c4e4d63-ccef-ae98-0676-fa231dec1e8c

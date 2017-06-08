@@ -3,7 +3,7 @@ title: ColorSchemes.Parent Property (PowerPoint)
 keywords: vbapp10.chm536002
 f1_keywords:
 - vbapp10.chm536002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorSchemes.Parent
 ms.assetid: 5c59240a-c9a1-c6cc-ecc2-3e98dacd2a81

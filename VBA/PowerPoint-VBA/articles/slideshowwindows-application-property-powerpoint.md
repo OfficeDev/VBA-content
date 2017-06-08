@@ -3,7 +3,7 @@ title: SlideShowWindows.Application Property (PowerPoint)
 keywords: vbapp10.chm510001
 f1_keywords:
 - vbapp10.chm510001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindows.Application
 ms.assetid: a06ac051-4808-1218-d640-198423f66c55

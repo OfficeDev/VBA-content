@@ -1,6 +1,6 @@
 ---
 title: ActionSettings.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings.Count
 ms.assetid: 0ebd513d-50ff-2fdb-f2a7-c92a1be283c0

@@ -3,7 +3,7 @@ title: Shape.Top Property (PowerPoint)
 keywords: vbapp10.chm547037
 f1_keywords:
 - vbapp10.chm547037
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Top
 ms.assetid: cf56f128-43d7-4f6e-f34c-83fbae854c12

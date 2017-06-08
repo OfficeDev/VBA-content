@@ -3,7 +3,7 @@ title: ColorFormat.SchemeColor Property (PowerPoint)
 keywords: vbapp10.chm506004
 f1_keywords:
 - vbapp10.chm506004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.SchemeColor
 ms.assetid: 4c62e7a7-ce53-c93e-9ec5-b299a18f5bf7

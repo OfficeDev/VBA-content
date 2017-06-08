@@ -3,7 +3,7 @@ title: ChartTitle.Characters Property (PowerPoint)
 keywords: vbapp10.chm694002
 f1_keywords:
 - vbapp10.chm694002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Characters
 ms.assetid: 38d03ba1-54dd-4bcb-1da3-37ad9b4f9b4c

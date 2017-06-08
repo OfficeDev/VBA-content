@@ -3,7 +3,7 @@ title: Broadcast.End Method (PowerPoint)
 keywords: vbapp10.chm732004
 f1_keywords:
 - vbapp10.chm732004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Broadcast.End
 ms.assetid: b4ccda97-aa08-77ff-3a2f-8600721a55b0

@@ -1,6 +1,6 @@
 ---
 title: SeriesCollection.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.Count
 ms.assetid: 527e7502-d84e-8884-b0df-7d44cbe89f3f

@@ -3,7 +3,7 @@ title: TextEffectFormat.FontBold Property (PowerPoint)
 keywords: vbapp10.chm556004
 f1_keywords:
 - vbapp10.chm556004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.FontBold
 ms.assetid: 3166f581-63f6-c2c1-1902-c6b3a511f244

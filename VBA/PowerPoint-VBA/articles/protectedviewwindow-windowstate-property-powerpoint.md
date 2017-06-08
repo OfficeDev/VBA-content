@@ -3,7 +3,7 @@ title: ProtectedViewWindow.WindowState Property (PowerPoint)
 keywords: vbapp10.chm734005
 f1_keywords:
 - vbapp10.chm734005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.WindowState
 ms.assetid: b9956aca-4aae-d94a-5689-b0c66f17414f

@@ -3,7 +3,7 @@ title: ActionSettings.Parent Property (PowerPoint)
 keywords: vbapp10.chm566002
 f1_keywords:
 - vbapp10.chm566002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings.Parent
 ms.assetid: d0c6c5db-5117-36af-5703-c79010903646

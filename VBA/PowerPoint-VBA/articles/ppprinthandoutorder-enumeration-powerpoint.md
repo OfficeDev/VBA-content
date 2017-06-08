@@ -1,6 +1,6 @@
 ---
 title: PpPrintHandoutOrder Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintHandoutOrder
 ms.assetid: 380b3e32-b29e-1f89-5fb0-aca875447fb6

@@ -3,7 +3,7 @@ title: Chart.ApplyDataLabels Method (PowerPoint)
 keywords: vbapp10.chm67458
 f1_keywords:
 - vbapp10.chm67458
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ApplyDataLabels
 ms.assetid: 9d712577-82cc-5d8d-69d1-f5fbaf02c820

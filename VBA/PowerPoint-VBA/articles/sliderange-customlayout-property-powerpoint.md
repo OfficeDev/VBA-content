@@ -3,7 +3,7 @@ title: SlideRange.CustomLayout Property (PowerPoint)
 keywords: vbapp10.chm532038
 f1_keywords:
 - vbapp10.chm532038
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.CustomLayout
 ms.assetid: 59ab6080-ffa1-ef26-a508-1ec35fd2102a

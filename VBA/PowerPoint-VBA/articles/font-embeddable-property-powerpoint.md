@@ -3,7 +3,7 @@ title: Font.Embeddable Property (PowerPoint)
 keywords: vbapp10.chm575013
 f1_keywords:
 - vbapp10.chm575013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Embeddable
 ms.assetid: 50824587-0371-e7eb-8885-370f97b8bf0c

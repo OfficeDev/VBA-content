@@ -3,7 +3,7 @@ title: ShapeRange.PictureFormat Property (PowerPoint)
 keywords: vbapp10.chm548032
 f1_keywords:
 - vbapp10.chm548032
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.PictureFormat
 ms.assetid: 5d51631d-1cd4-fbfc-9198-9d883b281821

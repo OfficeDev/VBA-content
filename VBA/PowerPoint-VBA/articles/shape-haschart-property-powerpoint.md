@@ -3,7 +3,7 @@ title: Shape.HasChart Property (PowerPoint)
 keywords: vbapp10.chm547078
 f1_keywords:
 - vbapp10.chm547078
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.HasChart
 ms.assetid: 5de934a4-03c2-959f-b0b9-562217146640

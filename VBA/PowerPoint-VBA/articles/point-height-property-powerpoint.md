@@ -3,7 +3,7 @@ title: Point.Height Property (PowerPoint)
 keywords: vbapp10.chm714007
 f1_keywords:
 - vbapp10.chm714007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Height
 ms.assetid: e618c9e4-fda4-d584-3ddf-9b8e589b382a

@@ -3,7 +3,7 @@ title: TextFrame.MarginTop Property (PowerPoint)
 keywords: vbapp10.chm558005
 f1_keywords:
 - vbapp10.chm558005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.MarginTop
 ms.assetid: 78ae54cd-1841-950b-c06e-c693fa5daebb

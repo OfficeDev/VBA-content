@@ -3,7 +3,7 @@ title: AnimationBehavior.Timing Property (PowerPoint)
 keywords: vbapp10.chm657011
 f1_keywords:
 - vbapp10.chm657011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Timing
 ms.assetid: 343f11d4-04bf-2637-dbbc-dc3256d57940

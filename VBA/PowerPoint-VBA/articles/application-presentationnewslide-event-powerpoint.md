@@ -3,7 +3,7 @@ title: Application.PresentationNewSlide Event (PowerPoint)
 keywords: vbapp10.chm621008
 f1_keywords:
 - vbapp10.chm621008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.PresentationNewSlide
 ms.assetid: e9718cad-6411-d013-6c93-0370aa71a8f2

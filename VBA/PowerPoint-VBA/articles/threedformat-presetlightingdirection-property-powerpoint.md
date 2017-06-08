@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetLightingDirection Property (PowerPoint)
 keywords: vbapp10.chm557012
 f1_keywords:
 - vbapp10.chm557012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.PresetLightingDirection
 ms.assetid: 85a5ae6c-5cdf-f4b5-ee9d-9ae220991037

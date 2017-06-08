@@ -3,7 +3,7 @@ title: PlaySettings Object (PowerPoint)
 keywords: vbapp10.chm568000
 f1_keywords:
 - vbapp10.chm568000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings
 ms.assetid: 5a588b69-08ab-2422-12f9-a2666d3fc6ac

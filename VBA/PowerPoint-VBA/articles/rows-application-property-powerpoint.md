@@ -3,7 +3,7 @@ title: Rows.Application Property (PowerPoint)
 keywords: vbapp10.chm625001
 f1_keywords:
 - vbapp10.chm625001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Rows.Application
 ms.assetid: e180bd7c-5ac2-72eb-4793-b08e0ea7eb3a

@@ -3,7 +3,7 @@ title: ShapeRange.Flip Method (PowerPoint)
 keywords: vbapp10.chm548004
 f1_keywords:
 - vbapp10.chm548004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Flip
 ms.assetid: e9f5ceb5-2ddf-d70c-41d5-d5877043b62a

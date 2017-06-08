@@ -3,7 +3,7 @@ title: Shape.ScaleHeight Method (PowerPoint)
 keywords: vbapp10.chm547010
 f1_keywords:
 - vbapp10.chm547010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ScaleHeight
 ms.assetid: 0324449a-535c-e5ec-a9c3-0913f66057c0

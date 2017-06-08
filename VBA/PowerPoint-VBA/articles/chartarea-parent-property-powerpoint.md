@@ -1,6 +1,6 @@
 ---
 title: ChartArea.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Parent
 ms.assetid: 6e720423-30f2-dc6d-278d-329eb2938531

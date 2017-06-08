@@ -3,7 +3,7 @@ title: AnimationBehaviors.Add Method (PowerPoint)
 keywords: vbapp10.chm656004
 f1_keywords:
 - vbapp10.chm656004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehaviors.Add
 ms.assetid: 427e7faa-1fc7-a145-98bc-1954054c2aec

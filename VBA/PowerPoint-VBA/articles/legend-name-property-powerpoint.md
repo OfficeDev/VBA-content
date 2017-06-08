@@ -1,6 +1,6 @@
 ---
 title: Legend.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Name
 ms.assetid: 84be5075-b040-3999-ab57-a7e147f730c0

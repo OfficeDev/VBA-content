@@ -3,7 +3,7 @@ title: TextStyleLevel.Font Property (PowerPoint)
 keywords: vbapp10.chm581004
 f1_keywords:
 - vbapp10.chm581004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevel.Font
 ms.assetid: 9fb1ff74-9509-72e1-d887-c727f94fa592

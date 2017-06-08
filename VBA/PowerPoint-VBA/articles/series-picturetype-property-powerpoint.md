@@ -1,6 +1,6 @@
 ---
 title: Series.PictureType Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.PictureType
 ms.assetid: 106933a2-49a7-e9d3-e5fa-fd2d0ab8974a

@@ -3,7 +3,7 @@ title: ChartCharacters.Insert Method (PowerPoint)
 keywords: vbapp10.chm65788
 f1_keywords:
 - vbapp10.chm65788
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Insert
 ms.assetid: 28495f16-3216-be64-853f-34f697a72c51

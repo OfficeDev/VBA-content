@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Parent Property (PowerPoint)
 keywords: vbapp10.chm734002
 f1_keywords:
 - vbapp10.chm734002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Parent
 ms.assetid: 63e44c9d-a3c7-50fb-ca11-3324014f0d3a

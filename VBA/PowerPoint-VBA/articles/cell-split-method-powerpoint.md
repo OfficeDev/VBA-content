@@ -3,7 +3,7 @@ title: Cell.Split Method (PowerPoint)
 keywords: vbapp10.chm628006
 f1_keywords:
 - vbapp10.chm628006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Split
 ms.assetid: edd81309-f0de-da70-67b2-4197059378fc

@@ -3,7 +3,7 @@ title: ResampleMediaTask.SampleWidth Property (PowerPoint)
 keywords: vbapp10.chm727007
 f1_keywords:
 - vbapp10.chm727007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.SampleWidth
 ms.assetid: 87572ea4-7de0-f401-bd0f-4c8963e651a9

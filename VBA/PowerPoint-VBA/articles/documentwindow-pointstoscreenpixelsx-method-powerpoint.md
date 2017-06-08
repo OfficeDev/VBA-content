@@ -3,7 +3,7 @@ title: DocumentWindow.PointsToScreenPixelsX Method (PowerPoint)
 keywords: vbapp10.chm511027
 f1_keywords:
 - vbapp10.chm511027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.PointsToScreenPixelsX
 ms.assetid: 6b5f2f58-41af-3620-74f3-1c4ec3922fc2

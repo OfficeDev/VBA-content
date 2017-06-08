@@ -3,7 +3,7 @@ title: ChartFormat.Shadow Property (PowerPoint)
 keywords: vbapp10.chm691006
 f1_keywords:
 - vbapp10.chm691006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFormat.Shadow
 ms.assetid: 4ef20e4b-4f8c-0a86-7f80-90a681bc0e5f

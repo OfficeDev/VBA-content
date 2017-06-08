@@ -3,7 +3,7 @@ title: TimeLine.Parent Property (PowerPoint)
 keywords: vbapp10.chm649002
 f1_keywords:
 - vbapp10.chm649002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TimeLine.Parent
 ms.assetid: 7c38d6ba-928c-5770-a6f5-9f948a1a50e9

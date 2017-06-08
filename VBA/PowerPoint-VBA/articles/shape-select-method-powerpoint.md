@@ -3,7 +3,7 @@ title: Shape.Select Method (PowerPoint)
 keywords: vbapp10.chm547052
 f1_keywords:
 - vbapp10.chm547052
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Select
 ms.assetid: 9fcf0ba4-ee6e-ecca-7948-7542db03ee99

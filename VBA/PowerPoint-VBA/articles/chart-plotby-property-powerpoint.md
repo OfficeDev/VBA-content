@@ -3,7 +3,7 @@ title: Chart.PlotBy Property (PowerPoint)
 keywords: vbapp10.chm65738
 f1_keywords:
 - vbapp10.chm65738
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.PlotBy
 ms.assetid: 14b696d7-148c-267f-4294-4dddc9fba4e1

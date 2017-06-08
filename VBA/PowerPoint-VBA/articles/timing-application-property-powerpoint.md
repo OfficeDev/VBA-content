@@ -3,7 +3,7 @@ title: Timing.Application Property (PowerPoint)
 keywords: vbapp10.chm653001
 f1_keywords:
 - vbapp10.chm653001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.Application
 ms.assetid: 887bbfbd-c9fd-bc10-03ec-ddcd7dd52656

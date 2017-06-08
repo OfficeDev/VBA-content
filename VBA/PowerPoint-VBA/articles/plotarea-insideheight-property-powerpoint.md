@@ -3,7 +3,7 @@ title: PlotArea.InsideHeight Property (PowerPoint)
 keywords: vbapp10.chm67206
 f1_keywords:
 - vbapp10.chm67206
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.InsideHeight
 ms.assetid: c775684d-57dd-d954-5e70-ee3af4788e40

@@ -3,7 +3,7 @@ title: ShapeRange.SmartArt Property (PowerPoint)
 keywords: vbapp10.chm548095
 f1_keywords:
 - vbapp10.chm548095
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.SmartArt
 ms.assetid: e91922e1-71a6-009e-4592-cbd7f5934270

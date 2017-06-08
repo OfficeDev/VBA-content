@@ -1,6 +1,6 @@
 ---
 title: Series.ApplyPictToFront Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.ApplyPictToFront
 ms.assetid: babe864c-1301-a8d1-ab13-41b9ccc71824

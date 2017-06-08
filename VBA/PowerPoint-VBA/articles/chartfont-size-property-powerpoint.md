@@ -3,7 +3,7 @@ title: ChartFont.Size Property (PowerPoint)
 keywords: vbapp10.chm704010
 f1_keywords:
 - vbapp10.chm704010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Size
 ms.assetid: 752f7440-3540-5720-5597-b5aa36c52447

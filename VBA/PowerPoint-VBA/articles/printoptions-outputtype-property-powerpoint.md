@@ -3,7 +3,7 @@ title: PrintOptions.OutputType Property (PowerPoint)
 keywords: vbapp10.chm517007
 f1_keywords:
 - vbapp10.chm517007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.OutputType
 ms.assetid: 673bcc73-bd60-13f9-f383-dd927401e0f6

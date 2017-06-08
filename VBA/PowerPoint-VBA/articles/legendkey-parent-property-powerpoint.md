@@ -1,6 +1,6 @@
 ---
 title: LegendKey.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Parent
 ms.assetid: aaf91d7a-ccff-8517-1afb-5ca47bb5ac42

@@ -3,7 +3,7 @@ title: AnimationSettings.AnimationOrder Property (PowerPoint)
 keywords: vbapp10.chm565007
 f1_keywords:
 - vbapp10.chm565007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.AnimationOrder
 ms.assetid: 0a29fb35-1cd8-4d12-184e-1132494a0864

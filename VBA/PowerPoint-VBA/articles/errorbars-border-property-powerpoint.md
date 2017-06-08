@@ -1,6 +1,6 @@
 ---
 title: ErrorBars.Border Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Border
 ms.assetid: 4bc5395a-11f2-b9c6-15d9-e96f93f424ae

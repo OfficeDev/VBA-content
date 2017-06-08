@@ -3,7 +3,7 @@ title: TextFrame2.VerticalAnchor Property (PowerPoint)
 keywords: vbapp10.chm678008
 f1_keywords:
 - vbapp10.chm678008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.VerticalAnchor
 ms.assetid: e00b1b4b-c291-fb10-be85-49e84ab0b739

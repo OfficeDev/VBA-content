@@ -3,7 +3,7 @@ title: Chart.ChartGroups Method (PowerPoint)
 keywords: vbapp10.chm684018
 f1_keywords:
 - vbapp10.chm684018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ChartGroups
 ms.assetid: 23339025-6d5f-b51a-e2b4-6fc15a903cea

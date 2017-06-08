@@ -1,6 +1,6 @@
 ---
 title: DisplayUnitLabel.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Creator
 ms.assetid: 02484df7-ea84-df3a-9bee-70cb8d2f8d58

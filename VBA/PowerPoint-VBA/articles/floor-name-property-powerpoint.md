@@ -1,6 +1,6 @@
 ---
 title: Floor.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Name
 ms.assetid: 683e99b5-59ea-3495-272b-1452613a147e

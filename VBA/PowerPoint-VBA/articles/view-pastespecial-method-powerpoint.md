@@ -3,7 +3,7 @@ title: View.PasteSpecial Method (PowerPoint)
 keywords: vbapp10.chm512010
 f1_keywords:
 - vbapp10.chm512010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.PasteSpecial
 ms.assetid: 074fb28f-19c6-3c0f-21ae-75012614485e

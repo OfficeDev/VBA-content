@@ -3,7 +3,7 @@ title: ChartBorder.LineStyle Property (PowerPoint)
 keywords: vbapp10.chm685003
 f1_keywords:
 - vbapp10.chm685003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.LineStyle
 ms.assetid: 97ec4f20-72a4-b0a9-d875-c0ae0c492b1e

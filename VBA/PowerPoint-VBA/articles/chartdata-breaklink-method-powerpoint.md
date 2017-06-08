@@ -3,7 +3,7 @@ title: ChartData.BreakLink Method (PowerPoint)
 keywords: vbapp10.chm689004
 f1_keywords:
 - vbapp10.chm689004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartData.BreakLink
 ms.assetid: 6fa73e90-f99c-d932-b864-e8ff3e53e086

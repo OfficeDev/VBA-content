@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Format Property (PowerPoint)
 keywords: vbapp10.chm699019
 f1_keywords:
 - vbapp10.chm699019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Format
 ms.assetid: 3aad21a1-8b90-13b7-9bd7-1ed3d048ac6d

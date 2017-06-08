@@ -1,6 +1,6 @@
 ---
 title: Points.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Count
 ms.assetid: 263044ee-6f0c-c8ae-c6ab-7976dd51e0ae

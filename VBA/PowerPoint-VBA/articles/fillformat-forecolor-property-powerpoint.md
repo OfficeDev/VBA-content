@@ -3,7 +3,7 @@ title: FillFormat.ForeColor Property (PowerPoint)
 keywords: vbapp10.chm552012
 f1_keywords:
 - vbapp10.chm552012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.ForeColor
 ms.assetid: 3dc07a0f-d0bc-52c8-e06a-dd0315151742

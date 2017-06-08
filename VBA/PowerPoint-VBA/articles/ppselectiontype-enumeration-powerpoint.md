@@ -1,6 +1,6 @@
 ---
 title: PpSelectionType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSelectionType
 ms.assetid: 0e18d698-0c6e-ea47-213c-539037d844e3

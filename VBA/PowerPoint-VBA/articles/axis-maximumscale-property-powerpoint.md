@@ -3,7 +3,7 @@ title: Axis.MaximumScale Property (PowerPoint)
 keywords: vbapp10.chm682017
 f1_keywords:
 - vbapp10.chm682017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MaximumScale
 ms.assetid: cb0588ce-0685-77ac-da06-75a913f90e41

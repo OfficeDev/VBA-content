@@ -3,7 +3,7 @@ title: ShapeNodes.Insert Method (PowerPoint)
 keywords: vbapp10.chm560006
 f1_keywords:
 - vbapp10.chm560006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.Insert
 ms.assetid: ece6e886-db56-6800-fe1c-f9d308104d75

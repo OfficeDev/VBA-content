@@ -1,6 +1,6 @@
 ---
 title: LeaderLines.Border Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Border
 ms.assetid: b07c2a0b-7851-1f6a-85ee-eaf85d7d4917

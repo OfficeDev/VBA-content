@@ -3,7 +3,7 @@ title: EffectParameters.Color2 Property (PowerPoint)
 keywords: vbapp10.chm654006
 f1_keywords:
 - vbapp10.chm654006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Color2
 ms.assetid: 9baff264-9b29-8065-a338-374bdc303451

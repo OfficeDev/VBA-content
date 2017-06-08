@@ -3,7 +3,7 @@ title: PrintOptions.RangeType Property (PowerPoint)
 keywords: vbapp10.chm517011
 f1_keywords:
 - vbapp10.chm517011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.RangeType
 ms.assetid: 51d48974-16c9-0b96-9feb-651ca6347587

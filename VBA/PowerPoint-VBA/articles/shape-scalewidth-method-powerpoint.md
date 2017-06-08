@@ -3,7 +3,7 @@ title: Shape.ScaleWidth Method (PowerPoint)
 keywords: vbapp10.chm547011
 f1_keywords:
 - vbapp10.chm547011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ScaleWidth
 ms.assetid: 2fc35ce6-62f5-7fa5-582d-26df91656a50

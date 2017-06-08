@@ -3,7 +3,7 @@ title: Panes.Item Method (PowerPoint)
 keywords: vbapp10.chm630002
 f1_keywords:
 - vbapp10.chm630002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Panes.Item
 ms.assetid: 5e2f98d3-1d77-2965-cefd-9d53fcc782ce

@@ -3,7 +3,7 @@ title: DocumentWindow.Close Method (PowerPoint)
 keywords: vbapp10.chm511020
 f1_keywords:
 - vbapp10.chm511020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Close
 ms.assetid: c7ba0097-5fa3-b0d0-234b-3cfe3e493522

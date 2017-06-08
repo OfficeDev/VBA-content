@@ -1,6 +1,6 @@
 ---
 title: DownBars.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Name
 ms.assetid: 9dc48ca3-6058-980c-be0a-0c4dc4962047

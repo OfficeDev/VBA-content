@@ -3,7 +3,7 @@ title: Master Object (PowerPoint)
 keywords: vbapp10.chm638000
 f1_keywords:
 - vbapp10.chm638000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master
 ms.assetid: 22e8805e-6469-1a34-7f7b-f1ea5c6c49ff

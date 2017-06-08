@@ -3,7 +3,7 @@ title: FillFormat.TextureName Property (PowerPoint)
 keywords: vbapp10.chm552020
 f1_keywords:
 - vbapp10.chm552020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureName
 ms.assetid: c8ca47e7-90c8-50b8-2e7e-29e56ec0f70e

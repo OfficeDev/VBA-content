@@ -3,7 +3,7 @@ title: Effect.Behaviors Property (PowerPoint)
 keywords: vbapp10.chm652017
 f1_keywords:
 - vbapp10.chm652017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Behaviors
 ms.assetid: e5335758-2f92-ccbc-a665-b6d5947e79f2

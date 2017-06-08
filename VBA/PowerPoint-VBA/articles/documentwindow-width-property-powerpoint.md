@@ -3,7 +3,7 @@ title: DocumentWindow.Width Property (PowerPoint)
 keywords: vbapp10.chm511013
 f1_keywords:
 - vbapp10.chm511013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Width
 ms.assetid: ede3967a-5d52-ba5d-2279-ea7345a7d370

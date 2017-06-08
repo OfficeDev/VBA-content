@@ -3,7 +3,7 @@ title: Presentation.CustomDocumentProperties Property (PowerPoint)
 keywords: vbapp10.chm583021
 f1_keywords:
 - vbapp10.chm583021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.CustomDocumentProperties
 ms.assetid: 3f972f15-f606-0a11-56b6-1994e617def2

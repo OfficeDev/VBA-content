@@ -3,7 +3,7 @@ title: AnimationBehavior.ScaleEffect Property (PowerPoint)
 keywords: vbapp10.chm657008
 f1_keywords:
 - vbapp10.chm657008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.ScaleEffect
 ms.assetid: 8e8236ca-c389-a888-5e07-42101fb92126

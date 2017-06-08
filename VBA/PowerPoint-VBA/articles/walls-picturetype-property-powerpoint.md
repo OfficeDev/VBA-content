@@ -1,6 +1,6 @@
 ---
 title: Walls.PictureType Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.PictureType
 ms.assetid: c317c52a-2364-f8c5-4075-d26e524d05bd

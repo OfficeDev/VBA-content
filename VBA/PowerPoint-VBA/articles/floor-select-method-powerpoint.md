@@ -1,6 +1,6 @@
 ---
 title: Floor.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Select
 ms.assetid: 1300294f-a5d7-5a43-ea55-755e844f8436

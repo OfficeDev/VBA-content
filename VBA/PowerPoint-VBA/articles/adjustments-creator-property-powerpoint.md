@@ -1,6 +1,6 @@
 ---
 title: Adjustments.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Adjustments.Creator
 ms.assetid: a9782244-144e-820f-1a6d-895a1b03a7fe

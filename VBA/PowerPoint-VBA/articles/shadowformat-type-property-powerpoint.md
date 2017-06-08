@@ -3,7 +3,7 @@ title: ShadowFormat.Type Property (PowerPoint)
 keywords: vbapp10.chm554009
 f1_keywords:
 - vbapp10.chm554009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Type
 ms.assetid: 39c68d71-637c-df72-1526-35cea8498b31

@@ -3,7 +3,7 @@ title: CellRange.Parent Property (PowerPoint)
 keywords: vbapp10.chm627002
 f1_keywords:
 - vbapp10.chm627002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CellRange.Parent
 ms.assetid: 9e19b9d0-eff7-f820-fee0-57b8b024eba2

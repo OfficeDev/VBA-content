@@ -1,6 +1,6 @@
 ---
 title: Sequences.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequences.Count
 ms.assetid: 3292024f-d87d-8031-29ab-11631361cd99

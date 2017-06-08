@@ -3,7 +3,7 @@ title: SlideRange.Delete Method (PowerPoint)
 keywords: vbapp10.chm532016
 f1_keywords:
 - vbapp10.chm532016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Delete
 ms.assetid: 23650f2f-6093-ce62-f545-3ffca0971719

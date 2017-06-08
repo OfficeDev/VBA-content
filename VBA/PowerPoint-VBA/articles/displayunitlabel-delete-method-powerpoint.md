@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Delete Method (PowerPoint)
 keywords: vbapp10.chm699014
 f1_keywords:
 - vbapp10.chm699014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Delete
 ms.assetid: a868d1d4-550d-9ad7-075c-aa85e265205c

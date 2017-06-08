@@ -3,7 +3,7 @@ title: SlideShowView.FirstAnimationIsAutomatic Method (PowerPoint)
 keywords: vbapp10.chm513031
 f1_keywords:
 - vbapp10.chm513031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.FirstAnimationIsAutomatic
 ms.assetid: 689b2dfc-a441-51c6-9eea-de99194ba203

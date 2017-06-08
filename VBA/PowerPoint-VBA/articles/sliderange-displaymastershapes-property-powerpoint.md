@@ -3,7 +3,7 @@ title: SlideRange.DisplayMasterShapes Property (PowerPoint)
 keywords: vbapp10.chm532020
 f1_keywords:
 - vbapp10.chm532020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.DisplayMasterShapes
 ms.assetid: 1c30ec1d-4865-5fcd-12c5-70f3bfeffe7c

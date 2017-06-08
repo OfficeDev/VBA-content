@@ -3,7 +3,7 @@ title: Shape.Cut Method (PowerPoint)
 keywords: vbapp10.chm547050
 f1_keywords:
 - vbapp10.chm547050
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Cut
 ms.assetid: 908c998d-a15f-5075-33e0-de6c124a0ec7

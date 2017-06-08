@@ -3,7 +3,7 @@ title: TimeLine.InteractiveSequences Property (PowerPoint)
 keywords: vbapp10.chm649004
 f1_keywords:
 - vbapp10.chm649004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TimeLine.InteractiveSequences
 ms.assetid: 6dbd6b26-6715-e66c-747f-12f1a16416c8

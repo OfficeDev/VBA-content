@@ -1,6 +1,6 @@
 ---
 title: XlDisplayBlanksAs Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDisplayBlanksAs
 ms.assetid: 33ff55a8-7873-a789-b1c1-cadc542021cb

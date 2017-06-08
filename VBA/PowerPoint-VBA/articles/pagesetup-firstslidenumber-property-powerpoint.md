@@ -3,7 +3,7 @@ title: PageSetup.FirstSlideNumber Property (PowerPoint)
 keywords: vbapp10.chm527003
 f1_keywords:
 - vbapp10.chm527003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.FirstSlideNumber
 ms.assetid: 277f613b-8c3a-d8bb-593c-a66ca41b4fa0

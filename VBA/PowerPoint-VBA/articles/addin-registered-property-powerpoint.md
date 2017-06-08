@@ -3,7 +3,7 @@ title: AddIn.Registered Property (PowerPoint)
 keywords: vbapp10.chm521006
 f1_keywords:
 - vbapp10.chm521006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn.Registered
 ms.assetid: 693bcb7a-dabc-5933-38df-710172bbce26

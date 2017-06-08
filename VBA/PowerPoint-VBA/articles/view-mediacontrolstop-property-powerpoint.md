@@ -3,7 +3,7 @@ title: View.MediaControlsTop Property (PowerPoint)
 keywords: vbapp10.chm512016
 f1_keywords:
 - vbapp10.chm512016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.MediaControlsTop
 ms.assetid: 6a18056b-487a-afe2-9a2c-05dd440c87bc

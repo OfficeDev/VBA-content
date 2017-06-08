@@ -3,7 +3,7 @@ title: Shape.Fill Property (PowerPoint)
 keywords: vbapp10.chm547022
 f1_keywords:
 - vbapp10.chm547022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Fill
 ms.assetid: bfb2dfe6-5036-0731-3a0f-1294ba87e103

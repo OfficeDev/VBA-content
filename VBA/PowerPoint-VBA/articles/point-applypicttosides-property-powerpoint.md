@@ -1,6 +1,6 @@
 ---
 title: Point.ApplyPictToSides Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyPictToSides
 ms.assetid: 0becd070-eb00-7aa4-77ec-c5867b36cae3

@@ -3,7 +3,7 @@ title: Chart.Rotation Property (PowerPoint)
 keywords: vbapp10.chm684041
 f1_keywords:
 - vbapp10.chm684041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Rotation
 ms.assetid: 5f533c86-369c-6dbd-f70c-c7de0cc6d868

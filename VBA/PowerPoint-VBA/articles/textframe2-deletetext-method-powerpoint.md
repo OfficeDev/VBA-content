@@ -3,7 +3,7 @@ title: TextFrame2.DeleteText Method (PowerPoint)
 keywords: vbapp10.chm678019
 f1_keywords:
 - vbapp10.chm678019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.DeleteText
 ms.assetid: 47197c75-99be-4f42-0b4a-bf9207480a94

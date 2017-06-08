@@ -3,7 +3,7 @@ title: Slide Object (PowerPoint)
 keywords: vbapp10.chm535000
 f1_keywords:
 - vbapp10.chm535000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide
 ms.assetid: afe42344-6898-00d2-ecc1-b0ed23a71fe8

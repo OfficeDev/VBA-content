@@ -3,7 +3,7 @@ title: Chart.ShowAxisFieldButtons Property (PowerPoint)
 keywords: vbapp10.chm684051
 f1_keywords:
 - vbapp10.chm684051
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ShowAxisFieldButtons
 ms.assetid: 35c5f51c-fe2c-3448-d07d-327289d66a49

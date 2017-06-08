@@ -3,7 +3,7 @@ title: Chart.SeriesCollection Method (PowerPoint)
 keywords: vbapp10.chm684043
 f1_keywords:
 - vbapp10.chm684043
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SeriesCollection
 ms.assetid: 8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8

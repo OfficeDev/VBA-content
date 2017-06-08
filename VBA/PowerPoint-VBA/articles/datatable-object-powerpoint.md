@@ -3,7 +3,7 @@ title: DataTable Object (PowerPoint)
 keywords: vbapp10.chm698000
 f1_keywords:
 - vbapp10.chm698000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable
 ms.assetid: eaa7cdda-e374-7d19-47a6-87e4458fc244

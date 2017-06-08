@@ -3,7 +3,7 @@ title: SlideRange.TimeLine Property (PowerPoint)
 keywords: vbapp10.chm532035
 f1_keywords:
 - vbapp10.chm532035
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.TimeLine
 ms.assetid: 3d9ad2f6-6d36-dd3d-d564-9bfe97ce08d8

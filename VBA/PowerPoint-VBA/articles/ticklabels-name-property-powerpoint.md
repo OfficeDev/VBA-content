@@ -3,7 +3,7 @@ title: TickLabels.Name Property (PowerPoint)
 keywords: vbapp10.chm719004
 f1_keywords:
 - vbapp10.chm719004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Name
 ms.assetid: 4a743ea0-e1e8-b225-58ba-d246d0f7f830

@@ -3,7 +3,7 @@ title: PropertyEffect.To Property (PowerPoint)
 keywords: vbapp10.chm662006
 f1_keywords:
 - vbapp10.chm662006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PropertyEffect.To
 ms.assetid: 453cc64b-88b7-e543-fff5-d218b8cc320f

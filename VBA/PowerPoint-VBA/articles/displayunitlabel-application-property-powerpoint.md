@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Application Property (PowerPoint)
 keywords: vbapp10.chm699020
 f1_keywords:
 - vbapp10.chm699020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Application
 ms.assetid: 9eff9f36-77ec-d3e0-5258-7ed34920f978

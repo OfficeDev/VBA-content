@@ -1,6 +1,6 @@
 ---
 title: DataLabels.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Count
 ms.assetid: 1f6645da-2b72-c8c8-b8a5-0b143eee5a7e

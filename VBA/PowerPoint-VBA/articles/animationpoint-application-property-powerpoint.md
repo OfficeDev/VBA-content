@@ -3,7 +3,7 @@ title: AnimationPoint.Application Property (PowerPoint)
 keywords: vbapp10.chm664001
 f1_keywords:
 - vbapp10.chm664001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoint.Application
 ms.assetid: 1d8cf394-8c75-6aa1-03b9-cee66e12c287

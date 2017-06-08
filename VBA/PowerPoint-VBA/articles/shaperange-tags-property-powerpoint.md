@@ -3,7 +3,7 @@ title: ShapeRange.Tags Property (PowerPoint)
 keywords: vbapp10.chm548049
 f1_keywords:
 - vbapp10.chm548049
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Tags
 ms.assetid: 98620c36-50aa-a2a0-e6b6-125229dd87af

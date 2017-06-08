@@ -3,7 +3,7 @@ title: CalloutFormat.Gap Property (PowerPoint)
 keywords: vbapp10.chm559013
 f1_keywords:
 - vbapp10.chm559013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Gap
 ms.assetid: f7fa7ba7-18ab-2b72-a6a1-5bc252e47d49

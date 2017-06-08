@@ -3,7 +3,7 @@ title: HeaderFooter Object (PowerPoint)
 keywords: vbapp10.chm582000
 f1_keywords:
 - vbapp10.chm582000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter
 ms.assetid: 8aeafb02-adec-17c1-3108-565c78a64ed1

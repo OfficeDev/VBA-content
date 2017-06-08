@@ -1,6 +1,6 @@
 ---
 title: Series.Has3DEffect Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Has3DEffect
 ms.assetid: ce72d83a-d89e-1953-980e-3caea6b4d4c9

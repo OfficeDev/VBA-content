@@ -3,7 +3,7 @@ title: ResampleMediaTask.VideoCompressionType Property (PowerPoint)
 keywords: vbapp10.chm727009
 f1_keywords:
 - vbapp10.chm727009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.VideoCompressionType
 ms.assetid: b7cef799-6448-99be-acd2-012e72d171a6

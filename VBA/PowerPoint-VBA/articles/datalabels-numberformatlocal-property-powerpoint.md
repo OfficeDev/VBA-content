@@ -1,6 +1,6 @@
 ---
 title: DataLabels.NumberFormatLocal Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.NumberFormatLocal
 ms.assetid: 76da6803-23d6-5e1f-6073-882090542fb9

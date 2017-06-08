@@ -3,7 +3,7 @@ title: SlideRange.Hyperlinks Property (PowerPoint)
 keywords: vbapp10.chm532024
 f1_keywords:
 - vbapp10.chm532024
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Hyperlinks
 ms.assetid: bfa4da43-4c56-e010-0848-2cb55fb68154

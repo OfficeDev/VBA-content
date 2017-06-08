@@ -3,7 +3,7 @@ title: ChartArea Object (PowerPoint)
 keywords: vbapp10.chm687000
 f1_keywords:
 - vbapp10.chm687000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea
 ms.assetid: 2c8bd84e-18e7-6417-de4d-d643064e20f5

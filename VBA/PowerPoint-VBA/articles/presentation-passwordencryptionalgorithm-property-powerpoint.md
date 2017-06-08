@@ -3,7 +3,7 @@ title: Presentation.PasswordEncryptionAlgorithm Property (PowerPoint)
 keywords: vbapp10.chm583076
 f1_keywords:
 - vbapp10.chm583076
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.PasswordEncryptionAlgorithm
 ms.assetid: 728934cf-b4f3-6acd-0e42-6fc5928af807

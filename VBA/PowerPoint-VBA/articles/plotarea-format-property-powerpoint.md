@@ -3,7 +3,7 @@ title: PlotArea.Format Property (PowerPoint)
 keywords: vbapp10.chm713001
 f1_keywords:
 - vbapp10.chm713001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Format
 ms.assetid: 73989e26-f512-0043-bd3a-24e3e8866121

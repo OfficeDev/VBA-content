@@ -1,6 +1,6 @@
 ---
 title: UpBars.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Creator
 ms.assetid: e7f69c86-a8c4-e4c6-83fc-fc7b3e32d143

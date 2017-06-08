@@ -1,6 +1,6 @@
 ---
 title: Series.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Select
 ms.assetid: 13b8b940-c05c-bcaa-8cba-5a63e2445d51

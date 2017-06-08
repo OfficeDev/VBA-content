@@ -3,7 +3,7 @@ title: ChartGroup.DoughnutHoleSize Property (PowerPoint)
 keywords: vbapp10.chm692009
 f1_keywords:
 - vbapp10.chm692009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.DoughnutHoleSize
 ms.assetid: bd5fab99-265b-e9d9-3cb4-63d7e270d8b1

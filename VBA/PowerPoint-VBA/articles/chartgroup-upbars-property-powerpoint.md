@@ -1,6 +1,6 @@
 ---
 title: ChartGroup.UpBars Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.UpBars
 ms.assetid: c6496698-c9a3-eee4-f829-f2feec787118

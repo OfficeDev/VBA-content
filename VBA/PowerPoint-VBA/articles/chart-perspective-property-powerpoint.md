@@ -3,7 +3,7 @@ title: Chart.Perspective Property (PowerPoint)
 keywords: vbapp10.chm684037
 f1_keywords:
 - vbapp10.chm684037
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Perspective
 ms.assetid: 0ac63aba-4182-c8dc-d51b-a75539025865

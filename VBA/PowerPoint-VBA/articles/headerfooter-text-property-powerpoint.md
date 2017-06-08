@@ -3,7 +3,7 @@ title: HeaderFooter.Text Property (PowerPoint)
 keywords: vbapp10.chm582004
 f1_keywords:
 - vbapp10.chm582004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.Text
 ms.assetid: c158552c-834b-819a-871c-35dbcba3fdfc

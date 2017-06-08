@@ -3,7 +3,7 @@ title: SlideShowView.MediaControlsHeight Property (PowerPoint)
 keywords: vbapp10.chm513037
 f1_keywords:
 - vbapp10.chm513037
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.MediaControlsHeight
 ms.assetid: 523732d6-6b6a-7658-a8f0-dbdeb9e3e68e

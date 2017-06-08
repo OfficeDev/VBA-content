@@ -1,6 +1,6 @@
 ---
 title: Designs.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Count
 ms.assetid: 2f575acd-0230-a13f-0331-9124d1ac5653

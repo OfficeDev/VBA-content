@@ -3,7 +3,7 @@ title: PictureFormat.CropLeft Property (PowerPoint)
 keywords: vbapp10.chm551008
 f1_keywords:
 - vbapp10.chm551008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.CropLeft
 ms.assetid: 401a863f-9162-a8d8-825c-f615e6d25907

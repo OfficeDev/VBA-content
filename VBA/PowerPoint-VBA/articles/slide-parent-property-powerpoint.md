@@ -3,7 +3,7 @@ title: Slide.Parent Property (PowerPoint)
 keywords: vbapp10.chm531002
 f1_keywords:
 - vbapp10.chm531002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Parent
 ms.assetid: 02925312-0c0b-b1b9-c353-7d559f0e0050

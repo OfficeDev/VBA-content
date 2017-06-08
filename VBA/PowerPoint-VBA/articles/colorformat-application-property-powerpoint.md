@@ -1,6 +1,6 @@
 ---
 title: ColorFormat.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Application
 ms.assetid: b911e512-fae0-990d-36b1-85e8f9d74e08

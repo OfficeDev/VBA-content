@@ -3,7 +3,7 @@ title: Chart.ShowDataLabelsOverMaximum Property (PowerPoint)
 keywords: vbapp10.chm684009
 f1_keywords:
 - vbapp10.chm684009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 92ca7542-3926-e7fd-0c45-5930646e6f04

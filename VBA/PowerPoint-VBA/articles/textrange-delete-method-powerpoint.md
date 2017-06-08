@@ -3,7 +3,7 @@ title: TextRange.Delete Method (PowerPoint)
 keywords: vbapp10.chm569029
 f1_keywords:
 - vbapp10.chm569029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Delete
 ms.assetid: 2baac89b-d7b1-2209-b17f-b65b71b5aed4

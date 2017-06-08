@@ -3,7 +3,7 @@ title: DocumentWindow.Panes Property (PowerPoint)
 keywords: vbapp10.chm511023
 f1_keywords:
 - vbapp10.chm511023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Panes
 ms.assetid: 1f26709d-8414-ee89-29d8-588c6787611a

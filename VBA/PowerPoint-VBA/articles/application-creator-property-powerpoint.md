@@ -3,7 +3,7 @@ title: Application.Creator Property (PowerPoint)
 keywords: vbapp10.chm502018
 f1_keywords:
 - vbapp10.chm502018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Creator
 ms.assetid: 3caec137-72b5-6ec9-3b79-acd55df62a3e

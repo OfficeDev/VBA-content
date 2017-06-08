@@ -3,7 +3,7 @@ title: Shape.ActionSettings Property (PowerPoint)
 keywords: vbapp10.chm547048
 f1_keywords:
 - vbapp10.chm547048
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ActionSettings
 ms.assetid: 67e76de6-c0c3-7a35-f01e-e1cab4eb13d3

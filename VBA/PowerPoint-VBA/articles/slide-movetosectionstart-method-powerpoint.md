@@ -3,7 +3,7 @@ title: Slide.MoveToSectionStart Method (PowerPoint)
 keywords: vbapp10.chm531041
 f1_keywords:
 - vbapp10.chm531041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.MoveToSectionStart
 ms.assetid: 757a0e42-85d1-2b03-65f7-92d15c626320

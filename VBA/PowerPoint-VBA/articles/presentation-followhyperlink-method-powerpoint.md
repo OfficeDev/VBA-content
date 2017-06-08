@@ -3,7 +3,7 @@ title: Presentation.FollowHyperlink Method (PowerPoint)
 keywords: vbapp10.chm583030
 f1_keywords:
 - vbapp10.chm583030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.FollowHyperlink
 ms.assetid: 411863be-0bd9-c939-1309-9f537b47f30b

@@ -3,7 +3,7 @@ title: Selection.HasChildShapeRange Property (PowerPoint)
 keywords: vbapp10.chm508012
 f1_keywords:
 - vbapp10.chm508012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.HasChildShapeRange
 ms.assetid: f86dac76-66cc-7512-fe7c-1a16f5a381f8

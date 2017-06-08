@@ -3,7 +3,7 @@ title: FilterEffect.Application Property (PowerPoint)
 keywords: vbapp10.chm669001
 f1_keywords:
 - vbapp10.chm669001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FilterEffect.Application
 ms.assetid: b1ef696f-e3b3-7a84-9541-5f89f13bc733

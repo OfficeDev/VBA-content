@@ -3,7 +3,7 @@ title: ParagraphFormat.TextDirection Property (PowerPoint)
 keywords: vbapp10.chm576015
 f1_keywords:
 - vbapp10.chm576015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.TextDirection
 ms.assetid: 42b8cd29-c467-07c9-c9c9-f644fdc824ae

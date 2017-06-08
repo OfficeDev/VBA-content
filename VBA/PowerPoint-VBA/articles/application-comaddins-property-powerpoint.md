@@ -3,7 +3,7 @@ title: Application.COMAddIns Property (PowerPoint)
 keywords: vbapp10.chm502036
 f1_keywords:
 - vbapp10.chm502036
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.COMAddIns
 ms.assetid: f24029c9-f839-e9a4-d661-5f1e22080d46

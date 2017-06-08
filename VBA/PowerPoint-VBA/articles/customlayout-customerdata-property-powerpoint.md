@@ -3,7 +3,7 @@ title: CustomLayout.CustomerData Property (PowerPoint)
 keywords: vbapp10.chm672025
 f1_keywords:
 - vbapp10.chm672025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.CustomerData
 ms.assetid: a589362b-d987-f2ed-79f2-0e0afd9ae051

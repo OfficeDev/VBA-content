@@ -3,7 +3,7 @@ title: DropLines.Select Method (PowerPoint)
 keywords: vbapp10.chm701007
 f1_keywords:
 - vbapp10.chm701007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DropLines.Select
 ms.assetid: 3275cad2-36dd-42ec-e34f-6eb1248b5c33

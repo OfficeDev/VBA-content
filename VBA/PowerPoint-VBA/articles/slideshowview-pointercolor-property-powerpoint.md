@@ -3,7 +3,7 @@ title: SlideShowView.PointerColor Property (PowerPoint)
 keywords: vbapp10.chm513012
 f1_keywords:
 - vbapp10.chm513012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.PointerColor
 ms.assetid: 29f4c5e0-0927-1dbb-7bc9-b147ae38ff88

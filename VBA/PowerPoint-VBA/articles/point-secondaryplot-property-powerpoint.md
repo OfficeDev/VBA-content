@@ -3,7 +3,7 @@ title: Point.SecondaryPlot Property (PowerPoint)
 keywords: vbapp10.chm67198
 f1_keywords:
 - vbapp10.chm67198
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.SecondaryPlot
 ms.assetid: 37bba3d7-2bb7-fd46-eaf8-eb8b44aa071c

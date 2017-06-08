@@ -3,7 +3,7 @@ title: Application.AfterNewPresentation Event (PowerPoint)
 keywords: vbapp10.chm621020
 f1_keywords:
 - vbapp10.chm621020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.AfterNewPresentation
 ms.assetid: d95bb247-2ebd-263f-d6b5-9918204b9130

@@ -3,7 +3,7 @@ title: SlideShowView.MediaControlsTop Property (PowerPoint)
 keywords: vbapp10.chm513035
 f1_keywords:
 - vbapp10.chm513035
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.MediaControlsTop
 ms.assetid: e530dad8-ab23-e37d-fde3-5edb79c51365

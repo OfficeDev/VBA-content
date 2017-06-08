@@ -3,7 +3,7 @@ title: Font.BaselineOffset Property (PowerPoint)
 keywords: vbapp10.chm575011
 f1_keywords:
 - vbapp10.chm575011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.BaselineOffset
 ms.assetid: aa948e2e-957c-ff4c-16b9-480d7f5f2d24

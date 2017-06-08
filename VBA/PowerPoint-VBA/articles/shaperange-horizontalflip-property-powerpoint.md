@@ -3,7 +3,7 @@ title: ShapeRange.HorizontalFlip Property (PowerPoint)
 keywords: vbapp10.chm548025
 f1_keywords:
 - vbapp10.chm548025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.HorizontalFlip
 ms.assetid: 4c41e250-2a8f-3eab-3244-0910fb43362e

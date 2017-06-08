@@ -3,7 +3,7 @@ title: View.ZoomToFit Property (PowerPoint)
 keywords: vbapp10.chm512009
 f1_keywords:
 - vbapp10.chm512009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.ZoomToFit
 ms.assetid: b35e3466-c135-bc5f-40d6-0331cf642b12

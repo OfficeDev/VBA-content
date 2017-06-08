@@ -3,7 +3,7 @@ title: SlideShowView.GetClickCount Method (PowerPoint)
 keywords: vbapp10.chm513030
 f1_keywords:
 - vbapp10.chm513030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.GetClickCount
 ms.assetid: 3df28d31-4da1-1ea3-e1d6-5ff334018ebc

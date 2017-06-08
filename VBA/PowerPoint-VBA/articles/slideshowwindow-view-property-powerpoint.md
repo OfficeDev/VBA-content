@@ -3,7 +3,7 @@ title: SlideShowWindow.View Property (PowerPoint)
 keywords: vbapp10.chm507003
 f1_keywords:
 - vbapp10.chm507003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.View
 ms.assetid: ebf565af-fc90-ab1b-0e05-6dcb90a7c2d2

@@ -3,7 +3,7 @@ title: TickLabels.Font Property (PowerPoint)
 keywords: vbapp10.chm719003
 f1_keywords:
 - vbapp10.chm719003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Font
 ms.assetid: 2aafc69f-e3bc-c6fe-a8da-12377bceb2ae

@@ -3,7 +3,7 @@ title: AnimationBehavior.SetEffect Property (PowerPoint)
 keywords: vbapp10.chm657015
 f1_keywords:
 - vbapp10.chm657015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.SetEffect
 ms.assetid: d23fe7c5-9b1b-f7c6-32d5-dd6fa00cb533

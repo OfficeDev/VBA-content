@@ -3,7 +3,7 @@ title: TextRange.Copy Method (PowerPoint)
 keywords: vbapp10.chm569028
 f1_keywords:
 - vbapp10.chm569028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Copy
 ms.assetid: c8d1edf7-68ef-aaa4-e2db-717263df8dd3

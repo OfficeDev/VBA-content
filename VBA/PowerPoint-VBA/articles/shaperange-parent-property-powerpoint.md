@@ -3,7 +3,7 @@ title: ShapeRange.Parent Property (PowerPoint)
 keywords: vbapp10.chm548001
 f1_keywords:
 - vbapp10.chm548001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Parent
 ms.assetid: d43d43e8-8b92-bf87-fc4e-160166f26b10

@@ -3,7 +3,7 @@ title: Shapes.AddMediaObjectFromEmbedTag Method (PowerPoint)
 keywords: vbapp10.chm543033
 f1_keywords:
 - vbapp10.chm543033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddMediaObjectFromEmbedTag
 ms.assetid: c463e7e2-8bac-8762-fec8-e1e84847907b

@@ -3,7 +3,7 @@ title: Master.TextStyles Property (PowerPoint)
 keywords: vbapp10.chm533011
 f1_keywords:
 - vbapp10.chm533011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.TextStyles
 ms.assetid: 713b6f60-5c20-6ddf-9660-4f5f2d27546d

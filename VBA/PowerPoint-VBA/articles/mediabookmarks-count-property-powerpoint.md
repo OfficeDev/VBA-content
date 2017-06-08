@@ -1,6 +1,6 @@
 ---
 title: MediaBookmarks.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmarks.Count
 ms.assetid: f9aecfa7-2723-d281-fe16-28cecedebb86

@@ -3,7 +3,7 @@ title: PublishObject.RangeEnd Property (PowerPoint)
 keywords: vbapp10.chm635006
 f1_keywords:
 - vbapp10.chm635006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.RangeEnd
 ms.assetid: 3edce18e-31c5-4585-9ca5-adb8cbdbca17

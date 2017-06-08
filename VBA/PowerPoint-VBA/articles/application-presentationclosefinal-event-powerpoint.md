@@ -3,7 +3,7 @@ title: Application.PresentationCloseFinal Event (PowerPoint)
 keywords: vbapp10.chm621031
 f1_keywords:
 - vbapp10.chm621031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.PresentationCloseFinal
 ms.assetid: 4972c700-9d7a-e43e-1e22-f9882368741e

@@ -3,7 +3,7 @@ title: Table.FirstCol Property (PowerPoint)
 keywords: vbapp10.chm622010
 f1_keywords:
 - vbapp10.chm622010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.FirstCol
 ms.assetid: 34eb7612-f3df-3cbb-4a51-911bdcd065ab

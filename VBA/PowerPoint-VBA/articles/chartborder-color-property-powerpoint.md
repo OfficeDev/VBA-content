@@ -3,7 +3,7 @@ title: ChartBorder.Color Property (PowerPoint)
 keywords: vbapp10.chm685001
 f1_keywords:
 - vbapp10.chm685001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Color
 ms.assetid: f1aa6b63-4327-977d-38e6-f218d0b9c0d8

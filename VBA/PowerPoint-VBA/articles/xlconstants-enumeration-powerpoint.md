@@ -1,6 +1,6 @@
 ---
 title: XlConstants Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlConstants
 ms.assetid: fe30391f-83ee-3259-620f-d1224ab92d5f

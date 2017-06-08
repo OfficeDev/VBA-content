@@ -1,6 +1,6 @@
 ---
 title: DataLabel.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Select
 ms.assetid: 10a8d96c-8646-c65c-76aa-fc80a963c544

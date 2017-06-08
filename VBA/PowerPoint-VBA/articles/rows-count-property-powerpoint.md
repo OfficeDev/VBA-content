@@ -1,6 +1,6 @@
 ---
 title: Rows.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Rows.Count
 ms.assetid: bfb443ea-abe0-401e-3aa9-ff47aa081c13

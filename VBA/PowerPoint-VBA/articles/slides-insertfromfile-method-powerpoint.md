@@ -3,7 +3,7 @@ title: Slides.InsertFromFile Method (PowerPoint)
 keywords: vbapp10.chm530006
 f1_keywords:
 - vbapp10.chm530006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.InsertFromFile
 ms.assetid: b8c6faa4-b77a-1237-cb90-00a2814e6aaa

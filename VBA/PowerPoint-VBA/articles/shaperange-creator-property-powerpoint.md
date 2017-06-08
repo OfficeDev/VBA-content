@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Creator
 ms.assetid: 6c273206-ecd1-d420-bf40-877ca678876c

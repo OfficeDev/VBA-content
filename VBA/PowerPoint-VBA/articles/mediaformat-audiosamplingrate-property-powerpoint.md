@@ -3,7 +3,7 @@ title: MediaFormat.AudioSamplingRate Property (PowerPoint)
 keywords: vbapp10.chm724018
 f1_keywords:
 - vbapp10.chm724018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.AudioSamplingRate
 ms.assetid: 4e1f84b6-91af-b3f8-0d2c-8a9bf7ad1ac5

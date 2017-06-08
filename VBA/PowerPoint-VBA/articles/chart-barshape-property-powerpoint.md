@@ -3,7 +3,7 @@ title: Chart.BarShape Property (PowerPoint)
 keywords: vbapp10.chm684005
 f1_keywords:
 - vbapp10.chm684005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.BarShape
 ms.assetid: fae46b36-9d4c-3646-db91-95691d8ce2af

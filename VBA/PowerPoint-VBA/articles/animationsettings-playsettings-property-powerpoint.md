@@ -3,7 +3,7 @@ title: AnimationSettings.PlaySettings Property (PowerPoint)
 keywords: vbapp10.chm565010
 f1_keywords:
 - vbapp10.chm565010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.PlaySettings
 ms.assetid: 2cfd1ed9-7ed0-0f69-4df5-43aa22e37f46

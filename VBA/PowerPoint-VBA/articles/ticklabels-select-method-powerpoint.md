@@ -3,7 +3,7 @@ title: TickLabels.Select Method (PowerPoint)
 keywords: vbapp10.chm719009
 f1_keywords:
 - vbapp10.chm719009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Select
 ms.assetid: 60656a71-53c4-915f-d009-338d53389a88

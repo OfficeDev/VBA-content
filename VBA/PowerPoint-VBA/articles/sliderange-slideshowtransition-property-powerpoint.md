@@ -3,7 +3,7 @@ title: SlideRange.SlideShowTransition Property (PowerPoint)
 keywords: vbapp10.chm532005
 f1_keywords:
 - vbapp10.chm532005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.SlideShowTransition
 ms.assetid: d97522ce-75c8-16f7-cdee-337b3af035db

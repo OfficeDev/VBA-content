@@ -3,7 +3,7 @@ title: Research.Query Method (PowerPoint)
 keywords: vbapp10.chm676003
 f1_keywords:
 - vbapp10.chm676003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Research.Query
 ms.assetid: 21ab6e91-7719-2714-7606-883501aa94eb

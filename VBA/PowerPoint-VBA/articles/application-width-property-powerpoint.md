@@ -3,7 +3,7 @@ title: Application.Width Property (PowerPoint)
 keywords: vbapp10.chm502028
 f1_keywords:
 - vbapp10.chm502028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Width
 ms.assetid: ba9c122d-4283-1865-63f1-07bf746f1606

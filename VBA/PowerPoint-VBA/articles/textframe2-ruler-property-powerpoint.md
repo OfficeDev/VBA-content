@@ -3,7 +3,7 @@ title: TextFrame2.Ruler Property (PowerPoint)
 keywords: vbapp10.chm678018
 f1_keywords:
 - vbapp10.chm678018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Ruler
 ms.assetid: 2fcf6db9-e34f-0dac-de6f-3b470d325ee0

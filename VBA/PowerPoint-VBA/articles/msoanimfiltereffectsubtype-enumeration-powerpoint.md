@@ -1,6 +1,6 @@
 ---
 title: MsoAnimFilterEffectSubtype Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimFilterEffectSubtype
 ms.assetid: ef923d20-9e33-497c-bf92-424b779a43a9

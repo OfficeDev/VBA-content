@@ -3,7 +3,7 @@ title: ChartTitle.FormulaR1C1Local Property (PowerPoint)
 keywords: vbapp10.chm694027
 f1_keywords:
 - vbapp10.chm694027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.FormulaR1C1Local
 ms.assetid: 72e5648e-fd6a-27b4-5411-18f8e2c05949

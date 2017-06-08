@@ -3,7 +3,7 @@ title: FilterEffect.Subtype Property (PowerPoint)
 keywords: vbapp10.chm669004
 f1_keywords:
 - vbapp10.chm669004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FilterEffect.Subtype
 ms.assetid: 1c244c97-9d50-93eb-7abc-5082aafcfb3e

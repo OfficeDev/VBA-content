@@ -3,7 +3,7 @@ title: FileConverter.Parent Property (PowerPoint)
 keywords: vbapp10.chm680009
 f1_keywords:
 - vbapp10.chm680009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.Parent
 ms.assetid: 472e5bc4-56b2-19af-8f15-7cf52963f105

@@ -3,7 +3,7 @@ title: CustomLayout.SlideShowTransition Property (PowerPoint)
 keywords: vbapp10.chm672013
 f1_keywords:
 - vbapp10.chm672013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.SlideShowTransition
 ms.assetid: f165346b-4ad3-035b-a9be-141dc7666958

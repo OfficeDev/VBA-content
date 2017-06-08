@@ -1,6 +1,6 @@
 ---
 title: SeriesLines.Select Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Select
 ms.assetid: c84d09ca-891a-9863-b1f5-acb49e024937

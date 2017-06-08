@@ -3,7 +3,7 @@ title: Effect.Application Property (PowerPoint)
 keywords: vbapp10.chm652001
 f1_keywords:
 - vbapp10.chm652001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Application
 ms.assetid: 031db407-eb15-2092-24b0-91bab5aab8c9

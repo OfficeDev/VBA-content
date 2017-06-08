@@ -3,7 +3,7 @@ title: Chart.ChartData Property (PowerPoint)
 keywords: vbapp10.chm684011
 f1_keywords:
 - vbapp10.chm684011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ChartData
 ms.assetid: 16262f71-13cd-a023-35df-2ca6bd017e3b

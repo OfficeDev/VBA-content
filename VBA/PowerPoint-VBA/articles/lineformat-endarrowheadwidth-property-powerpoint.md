@@ -3,7 +3,7 @@ title: LineFormat.EndArrowheadWidth Property (PowerPoint)
 keywords: vbapp10.chm553009
 f1_keywords:
 - vbapp10.chm553009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.EndArrowheadWidth
 ms.assetid: 5830e4ff-c630-198a-ea2b-b5d1397ea846

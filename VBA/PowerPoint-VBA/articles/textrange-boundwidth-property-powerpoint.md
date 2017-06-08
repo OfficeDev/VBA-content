@@ -3,7 +3,7 @@ title: TextRange.BoundWidth Property (PowerPoint)
 keywords: vbapp10.chm569008
 f1_keywords:
 - vbapp10.chm569008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.BoundWidth
 ms.assetid: 409d1c66-8956-cdd0-2328-f1cbe584f778

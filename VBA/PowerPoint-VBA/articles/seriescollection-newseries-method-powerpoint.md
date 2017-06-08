@@ -3,7 +3,7 @@ title: SeriesCollection.NewSeries Method (PowerPoint)
 keywords: vbapp10.chm66653
 f1_keywords:
 - vbapp10.chm66653
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.NewSeries
 ms.assetid: 37a94558-02d9-7f0b-e881-0d9c5a9d4787

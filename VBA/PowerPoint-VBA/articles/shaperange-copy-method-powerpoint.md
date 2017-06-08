@@ -3,7 +3,7 @@ title: ShapeRange.Copy Method (PowerPoint)
 keywords: vbapp10.chm548051
 f1_keywords:
 - vbapp10.chm548051
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Copy
 ms.assetid: ddc0dad9-6647-e2f4-393a-347c273656dd

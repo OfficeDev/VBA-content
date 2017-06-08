@@ -3,7 +3,7 @@ title: Axis.AxisTitle Property (PowerPoint)
 keywords: vbapp10.chm682003
 f1_keywords:
 - vbapp10.chm682003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.AxisTitle
 ms.assetid: c1063cf8-3aa2-ea39-ea2d-33a7c63b77d4

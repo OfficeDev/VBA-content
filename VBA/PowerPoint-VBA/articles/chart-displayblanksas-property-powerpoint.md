@@ -3,7 +3,7 @@ title: Chart.DisplayBlanksAs Property (PowerPoint)
 keywords: vbapp10.chm684026
 f1_keywords:
 - vbapp10.chm684026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.DisplayBlanksAs
 ms.assetid: 8f00f6dc-3885-1f97-057d-3c426c19a1a1

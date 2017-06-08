@@ -3,7 +3,7 @@ title: ChartData.Activate Method (PowerPoint)
 keywords: vbapp10.chm689002
 f1_keywords:
 - vbapp10.chm689002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartData.Activate
 ms.assetid: 789651b8-334c-340a-e281-822f7129b76e

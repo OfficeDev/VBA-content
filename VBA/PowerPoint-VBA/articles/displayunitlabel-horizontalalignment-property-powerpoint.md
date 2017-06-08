@@ -3,7 +3,7 @@ title: DisplayUnitLabel.HorizontalAlignment Property (PowerPoint)
 keywords: vbapp10.chm699004
 f1_keywords:
 - vbapp10.chm699004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.HorizontalAlignment
 ms.assetid: 1ea8341b-b718-e5f7-5f32-20b833d600ac

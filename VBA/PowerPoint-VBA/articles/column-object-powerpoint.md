@@ -3,7 +3,7 @@ title: Column Object (PowerPoint)
 keywords: vbapp10.chm624000
 f1_keywords:
 - vbapp10.chm624000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Column
 ms.assetid: 4f289477-abab-a99a-21af-df3950b6654d

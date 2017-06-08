@@ -3,7 +3,7 @@ title: Application.Visible Property (PowerPoint)
 keywords: vbapp10.chm502031
 f1_keywords:
 - vbapp10.chm502031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Visible
 ms.assetid: 8c28f542-56b2-49e3-8b77-a7424e00c773

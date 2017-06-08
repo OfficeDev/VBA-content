@@ -3,7 +3,7 @@ title: SoundEffect.ImportFromFile Method (PowerPoint)
 keywords: vbapp10.chm540005
 f1_keywords:
 - vbapp10.chm540005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SoundEffect.ImportFromFile
 ms.assetid: 78a56002-a854-cadb-c86f-806bfbd41f2b

@@ -3,7 +3,7 @@ title: SlideShowView.GotoSlide Method (PowerPoint)
 keywords: vbapp10.chm513021
 f1_keywords:
 - vbapp10.chm513021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.GotoSlide
 ms.assetid: f733f46d-a632-02cb-3dbf-f29122fe347a

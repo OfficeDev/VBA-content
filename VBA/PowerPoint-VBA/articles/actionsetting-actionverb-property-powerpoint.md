@@ -3,7 +3,7 @@ title: ActionSetting.ActionVerb Property (PowerPoint)
 keywords: vbapp10.chm567004
 f1_keywords:
 - vbapp10.chm567004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.ActionVerb
 ms.assetid: f7b57e12-0c70-bc62-b94d-7ae8f65f7de0

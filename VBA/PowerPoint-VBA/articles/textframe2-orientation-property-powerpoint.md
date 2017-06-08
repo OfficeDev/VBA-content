@@ -3,7 +3,7 @@ title: TextFrame2.Orientation Property (PowerPoint)
 keywords: vbapp10.chm678006
 f1_keywords:
 - vbapp10.chm678006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Orientation
 ms.assetid: 713ce09e-575a-c1be-b60b-67884cb76673

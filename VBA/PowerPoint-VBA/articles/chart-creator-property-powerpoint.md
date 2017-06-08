@@ -1,6 +1,6 @@
 ---
 title: Chart.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Creator
 ms.assetid: d14809dd-e4d0-fe60-b092-d2c6a3dda111

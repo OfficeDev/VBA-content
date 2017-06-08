@@ -3,7 +3,7 @@ title: ShadowFormat.Transparency Property (PowerPoint)
 keywords: vbapp10.chm554008
 f1_keywords:
 - vbapp10.chm554008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Transparency
 ms.assetid: 5ab7440c-111e-c3a5-159f-abe752893fd3

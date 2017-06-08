@@ -3,7 +3,7 @@ title: LinkFormat.BreakLink Method (PowerPoint)
 keywords: vbapp10.chm563006
 f1_keywords:
 - vbapp10.chm563006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LinkFormat.BreakLink
 ms.assetid: cc177e67-8664-7273-2339-7d9c01f65ba6

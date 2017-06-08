@@ -3,7 +3,7 @@ title: ShapeRange.Height Property (PowerPoint)
 keywords: vbapp10.chm548024
 f1_keywords:
 - vbapp10.chm548024
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Height
 ms.assetid: d70eeb9d-d3d2-51ee-1567-f8762aaa089b

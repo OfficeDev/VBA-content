@@ -3,7 +3,7 @@ title: ShapeRange.ZOrder Method (PowerPoint)
 keywords: vbapp10.chm548014
 f1_keywords:
 - vbapp10.chm548014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ZOrder
 ms.assetid: 906620bd-9293-694a-002d-97e760de988a

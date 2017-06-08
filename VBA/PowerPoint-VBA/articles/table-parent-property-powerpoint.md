@@ -3,7 +3,7 @@ title: Table.Parent Property (PowerPoint)
 keywords: vbapp10.chm622002
 f1_keywords:
 - vbapp10.chm622002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.Parent
 ms.assetid: 1c873300-6a8d-bdd7-ff69-aa0ffc9aa157

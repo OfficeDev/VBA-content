@@ -3,7 +3,7 @@ title: ErrorBars.Application Property (PowerPoint)
 keywords: vbapp10.chm702002
 f1_keywords:
 - vbapp10.chm702002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Application
 ms.assetid: b6c22aa7-cb78-f1a8-96c6-cc91be4a2bf4

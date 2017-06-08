@@ -3,7 +3,7 @@ title: Slide.Design Property (PowerPoint)
 keywords: vbapp10.chm531029
 f1_keywords:
 - vbapp10.chm531029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Design
 ms.assetid: bac64534-92f7-5611-db7e-501504e577e1

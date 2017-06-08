@@ -3,7 +3,7 @@ title: Placeholders.Parent Property (PowerPoint)
 keywords: vbapp10.chm544002
 f1_keywords:
 - vbapp10.chm544002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders.Parent
 ms.assetid: 216faab2-d0cc-1967-3b96-32bdea5a9b72

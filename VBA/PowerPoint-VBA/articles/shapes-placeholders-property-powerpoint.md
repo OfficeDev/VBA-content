@@ -3,7 +3,7 @@ title: Shapes.Placeholders Property (PowerPoint)
 keywords: vbapp10.chm543021
 f1_keywords:
 - vbapp10.chm543021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Placeholders
 ms.assetid: 2926d893-056a-0805-85ba-681e64bf81ed

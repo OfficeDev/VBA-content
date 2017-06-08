@@ -3,7 +3,7 @@ title: FillFormat.PresetGradient Method (PowerPoint)
 keywords: vbapp10.chm552005
 f1_keywords:
 - vbapp10.chm552005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.PresetGradient
 ms.assetid: 6aa304c7-a2ee-ceea-f956-404538bebc43

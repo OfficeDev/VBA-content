@@ -3,7 +3,7 @@ title: DocumentWindow.SplitHorizontal Property (PowerPoint)
 keywords: vbapp10.chm511025
 f1_keywords:
 - vbapp10.chm511025
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.SplitHorizontal
 ms.assetid: 89ec538b-d8a3-23e8-a246-35c44884a432

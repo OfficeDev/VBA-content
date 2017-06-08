@@ -1,6 +1,6 @@
 ---
 title: Point.Copy Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Copy
 ms.assetid: 85bd2c66-986b-291d-9de2-53d5e3e81202

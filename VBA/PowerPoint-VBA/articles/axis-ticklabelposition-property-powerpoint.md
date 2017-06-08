@@ -3,7 +3,7 @@ title: Axis.TickLabelPosition Property (PowerPoint)
 keywords: vbapp10.chm682028
 f1_keywords:
 - vbapp10.chm682028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.TickLabelPosition
 ms.assetid: 439b3da0-37d1-1fd8-b810-66accac03001

@@ -3,7 +3,7 @@ title: Chart.RightAngleAxes Property (PowerPoint)
 keywords: vbapp10.chm684040
 f1_keywords:
 - vbapp10.chm684040
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.RightAngleAxes
 ms.assetid: 4bccf442-1cf6-48b9-d67c-5a72561211e0

@@ -3,7 +3,7 @@ title: Font.Size Property (PowerPoint)
 keywords: vbapp10.chm575014
 f1_keywords:
 - vbapp10.chm575014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Size
 ms.assetid: dd56a4e9-20c7-b38d-0d0e-82e5326d51c4

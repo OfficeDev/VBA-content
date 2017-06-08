@@ -3,7 +3,7 @@ title: MediaFormat.VideoCompressionType Property (PowerPoint)
 keywords: vbapp10.chm724022
 f1_keywords:
 - vbapp10.chm724022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.VideoCompressionType
 ms.assetid: 2242d6ee-a663-b5ca-510d-f06bd291f615

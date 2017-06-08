@@ -3,7 +3,7 @@ title: Comment.Left Property (PowerPoint)
 keywords: vbapp10.chm642008
 f1_keywords:
 - vbapp10.chm642008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.Left
 ms.assetid: 29da86cf-2216-021a-d5d1-32995b8742fd

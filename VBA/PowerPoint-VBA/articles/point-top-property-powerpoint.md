@@ -3,7 +3,7 @@ title: Point.Top Property (PowerPoint)
 keywords: vbapp10.chm714010
 f1_keywords:
 - vbapp10.chm714010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Top
 ms.assetid: 7da804b0-ea52-70b5-439c-b27b3e29d414

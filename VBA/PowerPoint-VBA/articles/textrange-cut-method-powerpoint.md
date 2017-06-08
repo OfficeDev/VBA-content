@@ -3,7 +3,7 @@ title: TextRange.Cut Method (PowerPoint)
 keywords: vbapp10.chm569027
 f1_keywords:
 - vbapp10.chm569027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Cut
 ms.assetid: 9be71668-1486-0466-f87b-47792d402102

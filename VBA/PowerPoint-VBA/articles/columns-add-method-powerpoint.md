@@ -3,7 +3,7 @@ title: Columns.Add Method (PowerPoint)
 keywords: vbapp10.chm623004
 f1_keywords:
 - vbapp10.chm623004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Columns.Add
 ms.assetid: c16d9aa7-20f0-b3f5-e6f2-ad09867d565e

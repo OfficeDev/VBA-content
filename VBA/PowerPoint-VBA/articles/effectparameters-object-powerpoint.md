@@ -3,7 +3,7 @@ title: EffectParameters Object (PowerPoint)
 keywords: vbapp10.chm654000
 f1_keywords:
 - vbapp10.chm654000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters
 ms.assetid: 78145783-800b-433b-25c2-54dd65f59556

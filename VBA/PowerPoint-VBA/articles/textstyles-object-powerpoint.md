@@ -3,7 +3,7 @@ title: TextStyles Object (PowerPoint)
 keywords: vbapp10.chm578000
 f1_keywords:
 - vbapp10.chm578000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles
 ms.assetid: 5c56df6d-8f37-ebe7-2955-c6c5de1ed771

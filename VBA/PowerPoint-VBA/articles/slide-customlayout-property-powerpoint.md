@@ -3,7 +3,7 @@ title: Slide.CustomLayout Property (PowerPoint)
 keywords: vbapp10.chm531034
 f1_keywords:
 - vbapp10.chm531034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.CustomLayout
 ms.assetid: 0dcf50e8-b09a-c1da-4e72-50797eb09f9c

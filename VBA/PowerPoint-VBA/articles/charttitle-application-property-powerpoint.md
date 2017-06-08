@@ -3,7 +3,7 @@ title: ChartTitle.Application Property (PowerPoint)
 keywords: vbapp10.chm694020
 f1_keywords:
 - vbapp10.chm694020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Application
 ms.assetid: 9d3ba17e-4784-929b-873b-b500f291dac7

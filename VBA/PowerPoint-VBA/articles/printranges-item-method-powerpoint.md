@@ -3,7 +3,7 @@ title: PrintRanges.Item Method (PowerPoint)
 keywords: vbapp10.chm518004
 f1_keywords:
 - vbapp10.chm518004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRanges.Item
 ms.assetid: 4f90e8ae-aa96-07fa-0d5d-df23b58e3852

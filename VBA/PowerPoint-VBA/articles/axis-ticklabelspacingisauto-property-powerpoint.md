@@ -3,7 +3,7 @@ title: Axis.TickLabelSpacingIsAuto Property (PowerPoint)
 keywords: vbapp10.chm682015
 f1_keywords:
 - vbapp10.chm682015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.TickLabelSpacingIsAuto
 ms.assetid: f0c644a4-2842-6468-9047-239f891dd0b2

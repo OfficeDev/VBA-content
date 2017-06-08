@@ -1,6 +1,6 @@
 ---
 title: XlVAlign Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlVAlign
 ms.assetid: eb79c279-ae90-8cb3-c59c-74206f34bf4e

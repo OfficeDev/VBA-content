@@ -3,7 +3,7 @@ title: Hyperlink.SubAddress Property (PowerPoint)
 keywords: vbapp10.chm526005
 f1_keywords:
 - vbapp10.chm526005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.SubAddress
 ms.assetid: f7b34b39-6e4c-5606-8b19-92ddc0dcede5

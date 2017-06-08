@@ -3,7 +3,7 @@ title: SlideShowView.Parent Property (PowerPoint)
 keywords: vbapp10.chm513002
 f1_keywords:
 - vbapp10.chm513002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.Parent
 ms.assetid: 0e21d9e5-48d3-2a4c-fe64-8a33e4341417

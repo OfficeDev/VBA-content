@@ -3,7 +3,7 @@ title: AutoCorrect Object (PowerPoint)
 keywords: vbapp10.chm666000
 f1_keywords:
 - vbapp10.chm666000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AutoCorrect
 ms.assetid: c7d0c7a5-220e-6290-b326-cb5cf17c458b

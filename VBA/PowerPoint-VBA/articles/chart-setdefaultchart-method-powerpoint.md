@@ -3,7 +3,7 @@ title: Chart.SetDefaultChart Method (PowerPoint)
 keywords: vbapp10.chm684006
 f1_keywords:
 - vbapp10.chm684006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SetDefaultChart
 ms.assetid: a75ac074-dd5d-7530-2446-cc89b3d1ac5f

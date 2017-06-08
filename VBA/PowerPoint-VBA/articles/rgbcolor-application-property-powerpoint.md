@@ -3,7 +3,7 @@ title: RGBColor.Application Property (PowerPoint)
 keywords: vbapp10.chm538001
 f1_keywords:
 - vbapp10.chm538001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RGBColor.Application
 ms.assetid: d23d9de5-2f41-1cc7-844a-b2a86d0e6625

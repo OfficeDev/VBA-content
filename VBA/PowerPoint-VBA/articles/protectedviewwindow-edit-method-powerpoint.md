@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Edit Method (PowerPoint)
 keywords: vbapp10.chm734015
 f1_keywords:
 - vbapp10.chm734015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Edit
 ms.assetid: fd16714d-c581-a34c-aa51-7630217ed2df

@@ -1,6 +1,6 @@
 ---
 title: Axes.Item Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axes.Item
 ms.assetid: 61657765-2c92-5fdf-c3a9-0c75ca70fe68

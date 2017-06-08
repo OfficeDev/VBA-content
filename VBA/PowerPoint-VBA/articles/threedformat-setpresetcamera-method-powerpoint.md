@@ -3,7 +3,7 @@ title: ThreeDFormat.SetPresetCamera Method (PowerPoint)
 keywords: vbapp10.chm557019
 f1_keywords:
 - vbapp10.chm557019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.SetPresetCamera
 ms.assetid: b9c01428-aa93-c338-0e1c-e61fb88d82eb

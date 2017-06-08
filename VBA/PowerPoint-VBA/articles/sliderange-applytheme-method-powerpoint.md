@@ -3,7 +3,7 @@ title: SlideRange.ApplyTheme Method (PowerPoint)
 keywords: vbapp10.chm532039
 f1_keywords:
 - vbapp10.chm532039
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.ApplyTheme
 ms.assetid: 779ca8d3-e235-7f65-1a2f-b5233517da1f

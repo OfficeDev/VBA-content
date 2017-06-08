@@ -1,6 +1,6 @@
 ---
 title: SeriesLines.Border Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Border
 ms.assetid: 69c18c79-d7f7-1d45-9867-4ad32b9d7532

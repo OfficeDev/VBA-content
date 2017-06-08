@@ -3,7 +3,7 @@ title: Presentation.DefaultLanguageID Property (PowerPoint)
 keywords: vbapp10.chm583050
 f1_keywords:
 - vbapp10.chm583050
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.DefaultLanguageID
 ms.assetid: 8568c96c-b997-6a92-e93b-0f3d091383e2

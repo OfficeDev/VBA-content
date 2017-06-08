@@ -1,6 +1,6 @@
 ---
 title: PpSoundEffectType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSoundEffectType
 ms.assetid: a8facdea-92bc-6dbe-cef4-f81bbebd1fbe

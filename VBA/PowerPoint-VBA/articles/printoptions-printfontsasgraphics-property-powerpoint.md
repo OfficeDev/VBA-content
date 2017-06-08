@@ -3,7 +3,7 @@ title: PrintOptions.PrintFontsAsGraphics Property (PowerPoint)
 keywords: vbapp10.chm517013
 f1_keywords:
 - vbapp10.chm517013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.PrintFontsAsGraphics
 ms.assetid: f782be2c-9787-72e3-139e-163041e066f7

@@ -3,7 +3,7 @@ title: Application.Activate Method (PowerPoint)
 keywords: vbapp10.chm502034
 f1_keywords:
 - vbapp10.chm502034
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Activate
 ms.assetid: 63a64e28-8e27-12b3-0189-4b6e5513bc00

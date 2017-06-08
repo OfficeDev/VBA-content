@@ -3,7 +3,7 @@ title: TableStyle Object (PowerPoint)
 keywords: vbapp10.chm674000
 f1_keywords:
 - vbapp10.chm674000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TableStyle
 ms.assetid: 2191b68d-2dae-3453-6904-3689f34eeaf9

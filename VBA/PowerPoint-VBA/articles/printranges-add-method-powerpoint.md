@@ -3,7 +3,7 @@ title: PrintRanges.Add Method (PowerPoint)
 keywords: vbapp10.chm518001
 f1_keywords:
 - vbapp10.chm518001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRanges.Add
 ms.assetid: e5b50370-699b-b904-8ce7-b825f29d0682

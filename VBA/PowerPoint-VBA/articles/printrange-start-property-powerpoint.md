@@ -3,7 +3,7 @@ title: PrintRange.Start Property (PowerPoint)
 keywords: vbapp10.chm519003
 f1_keywords:
 - vbapp10.chm519003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRange.Start
 ms.assetid: 493d64b3-c2fb-7f4a-ca59-a7f657a386a0

@@ -3,7 +3,7 @@ title: ChartArea.ClearContents Method (PowerPoint)
 keywords: vbapp10.chm65649
 f1_keywords:
 - vbapp10.chm65649
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.ClearContents
 ms.assetid: 7cb3e9a9-e808-ed80-c55e-de422d19d9e3

@@ -3,7 +3,7 @@ title: TextRange.InsertSymbol Method (PowerPoint)
 keywords: vbapp10.chm569022
 f1_keywords:
 - vbapp10.chm569022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.InsertSymbol
 ms.assetid: a424e011-1bfe-f690-cbc0-604f89718831

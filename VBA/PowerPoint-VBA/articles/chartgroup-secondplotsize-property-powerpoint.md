@@ -3,7 +3,7 @@ title: ChartGroup.SecondPlotSize Property (PowerPoint)
 keywords: vbapp10.chm692017
 f1_keywords:
 - vbapp10.chm692017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SecondPlotSize
 ms.assetid: c272c36e-53c8-6f91-ea53-35445a03d06e

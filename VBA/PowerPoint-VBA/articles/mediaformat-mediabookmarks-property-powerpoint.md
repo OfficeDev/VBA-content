@@ -3,7 +3,7 @@ title: MediaFormat.MediaBookmarks Property (PowerPoint)
 keywords: vbapp10.chm724010
 f1_keywords:
 - vbapp10.chm724010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.MediaBookmarks
 ms.assetid: e307f981-e516-ed4f-b200-adb8d8a84bff

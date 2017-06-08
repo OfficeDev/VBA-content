@@ -1,6 +1,6 @@
 ---
 title: ChartArea.Top Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Top
 ms.assetid: dac1cfbb-9fc3-c4ce-205a-bcaad54c5b88

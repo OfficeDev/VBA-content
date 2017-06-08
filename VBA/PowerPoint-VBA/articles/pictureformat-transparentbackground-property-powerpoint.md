@@ -3,7 +3,7 @@ title: PictureFormat.TransparentBackground Property (PowerPoint)
 keywords: vbapp10.chm551012
 f1_keywords:
 - vbapp10.chm551012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.TransparentBackground
 ms.assetid: b4a15c64-0568-dcd7-99a2-00295bfe679c

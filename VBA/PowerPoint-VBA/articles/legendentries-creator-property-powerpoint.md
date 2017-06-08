@@ -1,6 +1,6 @@
 ---
 title: LegendEntries.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Creator
 ms.assetid: c346eb9a-8cdc-261b-b343-834a7db38cb4

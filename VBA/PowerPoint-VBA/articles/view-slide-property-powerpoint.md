@@ -3,7 +3,7 @@ title: View.Slide Property (PowerPoint)
 keywords: vbapp10.chm512006
 f1_keywords:
 - vbapp10.chm512006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Slide
 ms.assetid: 18a2f9e0-ae3d-b662-90d4-a0c0de18d073

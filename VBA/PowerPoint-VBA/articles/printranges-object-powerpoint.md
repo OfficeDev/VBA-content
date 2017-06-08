@@ -3,7 +3,7 @@ title: PrintRanges Object (PowerPoint)
 keywords: vbapp10.chm518000
 f1_keywords:
 - vbapp10.chm518000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRanges
 ms.assetid: 5c1e9dc1-e30c-bc65-5283-448b95795b11

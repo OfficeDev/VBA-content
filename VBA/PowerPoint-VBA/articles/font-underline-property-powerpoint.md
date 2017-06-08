@@ -3,7 +3,7 @@ title: Font.Underline Property (PowerPoint)
 keywords: vbapp10.chm575008
 f1_keywords:
 - vbapp10.chm575008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Underline
 ms.assetid: ee21ab18-b131-7e4d-de19-93c9b7549d3b

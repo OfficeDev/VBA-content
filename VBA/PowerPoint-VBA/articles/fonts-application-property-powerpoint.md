@@ -3,7 +3,7 @@ title: Fonts.Application Property (PowerPoint)
 keywords: vbapp10.chm528001
 f1_keywords:
 - vbapp10.chm528001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Fonts.Application
 ms.assetid: 8e40626a-d64c-4a5e-4a4b-b2bac22d931f

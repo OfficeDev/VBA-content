@@ -3,7 +3,7 @@ title: Timing.Speed Property (PowerPoint)
 keywords: vbapp10.chm653009
 f1_keywords:
 - vbapp10.chm653009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.Speed
 ms.assetid: 4dcd7907-47f6-211f-0d88-cfe20165e09f

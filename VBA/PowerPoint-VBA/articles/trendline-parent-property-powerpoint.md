@@ -1,6 +1,6 @@
 ---
 title: Trendline.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Parent
 ms.assetid: 89003a2d-d31d-07ad-dbfb-d37c42273adb

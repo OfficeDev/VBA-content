@@ -3,7 +3,7 @@ title: ShapeRange.TextFrame2 Property (PowerPoint)
 keywords: vbapp10.chm548086
 f1_keywords:
 - vbapp10.chm548086
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.TextFrame2
 ms.assetid: 56554e58-c16b-09dd-8acc-4e2da7715bef

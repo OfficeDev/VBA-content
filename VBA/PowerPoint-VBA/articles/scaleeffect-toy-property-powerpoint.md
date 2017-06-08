@@ -3,7 +3,7 @@ title: ScaleEffect.ToY Property (PowerPoint)
 keywords: vbapp10.chm660008
 f1_keywords:
 - vbapp10.chm660008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect.ToY
 ms.assetid: 987b5456-ea44-0fa8-3f2b-7bc0c9dccbe0

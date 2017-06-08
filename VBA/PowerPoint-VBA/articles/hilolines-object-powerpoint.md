@@ -3,7 +3,7 @@ title: HiLoLines Object (PowerPoint)
 keywords: vbapp10.chm706000
 f1_keywords:
 - vbapp10.chm706000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HiLoLines
 ms.assetid: 77a7ae91-daf3-4c35-1f39-067d2698fb43

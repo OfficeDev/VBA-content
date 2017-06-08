@@ -3,7 +3,7 @@ title: Shape.Parent Property (PowerPoint)
 keywords: vbapp10.chm547001
 f1_keywords:
 - vbapp10.chm547001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Parent
 ms.assetid: a88b1ec0-79de-4aef-9b71-a21bf8de2f44

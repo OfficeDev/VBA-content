@@ -3,7 +3,7 @@ title: Shapes.AddCurve Method (PowerPoint)
 keywords: vbapp10.chm543007
 f1_keywords:
 - vbapp10.chm543007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddCurve
 ms.assetid: 47f90182-a71b-a028-c43f-a85d59d2a56b

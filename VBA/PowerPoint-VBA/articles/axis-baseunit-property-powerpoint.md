@@ -3,7 +3,7 @@ title: Axis.BaseUnit Property (PowerPoint)
 keywords: vbapp10.chm682033
 f1_keywords:
 - vbapp10.chm682033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.BaseUnit
 ms.assetid: a53e90c5-5048-8e93-57b2-024d64d2ff73

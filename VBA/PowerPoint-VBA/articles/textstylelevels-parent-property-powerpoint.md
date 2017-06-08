@@ -3,7 +3,7 @@ title: TextStyleLevels.Parent Property (PowerPoint)
 keywords: vbapp10.chm580002
 f1_keywords:
 - vbapp10.chm580002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevels.Parent
 ms.assetid: fe867896-cc88-4772-abed-47d88c0f430f

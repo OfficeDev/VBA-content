@@ -3,7 +3,7 @@ title: Point.Application Property (PowerPoint)
 keywords: vbapp10.chm714002
 f1_keywords:
 - vbapp10.chm714002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Application
 ms.assetid: db284e86-951e-ada6-5690-75d2ca2245b6

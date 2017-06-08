@@ -3,7 +3,7 @@ title: GroupShapes Object (PowerPoint)
 keywords: vbapp10.chm549000
 f1_keywords:
 - vbapp10.chm549000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes
 ms.assetid: db5eee43-c8bf-1d45-3075-8d9ceea2ae38

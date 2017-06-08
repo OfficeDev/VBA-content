@@ -3,7 +3,7 @@ title: AxisTitle.HorizontalAlignment Property (PowerPoint)
 keywords: vbapp10.chm683004
 f1_keywords:
 - vbapp10.chm683004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.HorizontalAlignment
 ms.assetid: eec8e73a-c84b-a434-3029-2ef7f5608989

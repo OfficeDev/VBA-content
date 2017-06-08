@@ -3,7 +3,7 @@ title: GroupShapes.Range Method (PowerPoint)
 keywords: vbapp10.chm549005
 f1_keywords:
 - vbapp10.chm549005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Range
 ms.assetid: d7273a15-71f2-2e50-a481-055e8cc39e1f

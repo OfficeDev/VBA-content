@@ -3,7 +3,7 @@ title: Shape.ApplyAnimation Method (PowerPoint)
 keywords: vbapp10.chm547091
 f1_keywords:
 - vbapp10.chm547091
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ApplyAnimation
 ms.assetid: e3c65ffb-ea84-d5fd-4b14-25f517fb02f4

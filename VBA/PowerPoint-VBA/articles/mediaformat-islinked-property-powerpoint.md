@@ -3,7 +3,7 @@ title: MediaFormat.IsLinked Property (PowerPoint)
 keywords: vbapp10.chm724016
 f1_keywords:
 - vbapp10.chm724016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.IsLinked
 ms.assetid: a9e00099-a2b2-0fef-e926-20fdb06d9c30

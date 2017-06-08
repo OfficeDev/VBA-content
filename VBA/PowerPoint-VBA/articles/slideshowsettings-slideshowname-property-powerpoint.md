@@ -3,7 +3,7 @@ title: SlideShowSettings.SlideShowName Property (PowerPoint)
 keywords: vbapp10.chm514013
 f1_keywords:
 - vbapp10.chm514013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.SlideShowName
 ms.assetid: 212a2851-cc73-76ad-98fa-f295ae3c89c8

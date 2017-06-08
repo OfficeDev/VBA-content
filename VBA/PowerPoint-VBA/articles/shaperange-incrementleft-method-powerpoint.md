@@ -3,7 +3,7 @@ title: ShapeRange.IncrementLeft Method (PowerPoint)
 keywords: vbapp10.chm548005
 f1_keywords:
 - vbapp10.chm548005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.IncrementLeft
 ms.assetid: 08d84101-bdfe-c3c6-a309-00c2fb2adab5

@@ -3,7 +3,7 @@ title: Shape.TextFrame2 Property (PowerPoint)
 keywords: vbapp10.chm547077
 f1_keywords:
 - vbapp10.chm547077
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.TextFrame2
 ms.assetid: bc76d1e5-3feb-51c9-a4d4-61f0bf36183f

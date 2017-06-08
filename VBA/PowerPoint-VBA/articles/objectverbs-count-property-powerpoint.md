@@ -1,6 +1,6 @@
 ---
 title: ObjectVerbs.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ObjectVerbs.Count
 ms.assetid: 8aabdb50-1e4a-655b-5336-5ae7be5a65b1

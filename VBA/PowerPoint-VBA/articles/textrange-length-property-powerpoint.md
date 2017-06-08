@@ -3,7 +3,7 @@ title: TextRange.Length Property (PowerPoint)
 keywords: vbapp10.chm569005
 f1_keywords:
 - vbapp10.chm569005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Length
 ms.assetid: 4eb64830-f8e4-5226-57c1-80df7f4bd39f

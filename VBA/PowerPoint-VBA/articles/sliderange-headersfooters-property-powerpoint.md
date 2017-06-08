@@ -3,7 +3,7 @@ title: SlideRange.HeadersFooters Property (PowerPoint)
 keywords: vbapp10.chm532004
 f1_keywords:
 - vbapp10.chm532004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.HeadersFooters
 ms.assetid: 204e867b-af78-81ad-bcc3-aa0e77d36a36

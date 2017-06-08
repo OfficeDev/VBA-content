@@ -3,7 +3,7 @@ title: SlideRange.FollowMasterBackground Property (PowerPoint)
 keywords: vbapp10.chm532021
 f1_keywords:
 - vbapp10.chm532021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.FollowMasterBackground
 ms.assetid: 0c409371-8ecc-ecf9-3d16-cbbd0009d825

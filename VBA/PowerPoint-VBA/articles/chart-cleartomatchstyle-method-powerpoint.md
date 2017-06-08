@@ -1,6 +1,6 @@
 ---
 title: Chart.ClearToMatchStyle Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ClearToMatchStyle
 ms.assetid: fa85b905-6415-3ce9-4517-0a8dcedfbf14

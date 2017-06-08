@@ -3,7 +3,7 @@ title: TextRange.ChangeCase Method (PowerPoint)
 keywords: vbapp10.chm569031
 f1_keywords:
 - vbapp10.chm569031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.ChangeCase
 ms.assetid: a14edb26-7ec3-5fb5-7590-cd67a75c1f03

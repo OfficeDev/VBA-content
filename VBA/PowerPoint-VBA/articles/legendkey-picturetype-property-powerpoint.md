@@ -1,6 +1,6 @@
 ---
 title: LegendKey.PictureType Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.PictureType
 ms.assetid: 9f605c49-eb0f-2e04-304a-34fbf15143b1

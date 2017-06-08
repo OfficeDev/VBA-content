@@ -3,7 +3,7 @@ title: Effect.Exit Property (PowerPoint)
 keywords: vbapp10.chm652016
 f1_keywords:
 - vbapp10.chm652016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Exit
 ms.assetid: 0f4d74d4-ce88-f9b9-7de5-0e42edf12967

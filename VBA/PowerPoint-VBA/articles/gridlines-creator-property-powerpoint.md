@@ -1,6 +1,6 @@
 ---
 title: Gridlines.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Creator
 ms.assetid: 8f0ee740-a636-1c62-21e5-f858d21f2420

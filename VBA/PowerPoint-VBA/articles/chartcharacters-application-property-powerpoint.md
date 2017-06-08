@@ -3,7 +3,7 @@ title: ChartCharacters.Application Property (PowerPoint)
 keywords: vbapp10.chm686001
 f1_keywords:
 - vbapp10.chm686001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Application
 ms.assetid: 57f56991-06f8-3ba0-5db1-0c9fe65d7585

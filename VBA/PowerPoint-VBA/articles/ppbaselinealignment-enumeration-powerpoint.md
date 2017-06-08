@@ -1,6 +1,6 @@
 ---
 title: PpBaselineAlignment Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBaselineAlignment
 ms.assetid: 0a7a5ae6-c0e9-8652-01af-6b2f287d41a7

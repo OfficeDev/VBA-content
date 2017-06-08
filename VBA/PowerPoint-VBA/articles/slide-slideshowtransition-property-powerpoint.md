@@ -3,7 +3,7 @@ title: Slide.SlideShowTransition Property (PowerPoint)
 keywords: vbapp10.chm531005
 f1_keywords:
 - vbapp10.chm531005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.SlideShowTransition
 ms.assetid: bb931628-0ad1-e58b-9ddb-5680cb6ce9ec

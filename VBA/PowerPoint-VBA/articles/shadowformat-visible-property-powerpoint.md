@@ -3,7 +3,7 @@ title: ShadowFormat.Visible Property (PowerPoint)
 keywords: vbapp10.chm554010
 f1_keywords:
 - vbapp10.chm554010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Visible
 ms.assetid: 83508398-55b9-8ac4-1724-f97247006664

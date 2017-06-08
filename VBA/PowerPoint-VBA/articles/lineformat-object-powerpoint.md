@@ -3,7 +3,7 @@ title: LineFormat Object (PowerPoint)
 keywords: vbapp10.chm553000
 f1_keywords:
 - vbapp10.chm553000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat
 ms.assetid: 11c955d5-bbda-d99f-cec9-fc6187450a12

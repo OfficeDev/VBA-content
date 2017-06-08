@@ -3,7 +3,7 @@ title: Placeholders Object (PowerPoint)
 keywords: vbapp10.chm544000
 f1_keywords:
 - vbapp10.chm544000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Placeholders
 ms.assetid: d16e06e4-185a-1b99-52a7-4787a4990684

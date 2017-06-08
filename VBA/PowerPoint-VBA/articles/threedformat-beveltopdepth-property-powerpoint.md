@@ -3,7 +3,7 @@ title: ThreeDFormat.BevelTopDepth Property (PowerPoint)
 keywords: vbapp10.chm557027
 f1_keywords:
 - vbapp10.chm557027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.BevelTopDepth
 ms.assetid: e3074175-1be2-93cc-dd30-892355b8aec4

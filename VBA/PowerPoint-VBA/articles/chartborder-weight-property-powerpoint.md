@@ -3,7 +3,7 @@ title: ChartBorder.Weight Property (PowerPoint)
 keywords: vbapp10.chm685004
 f1_keywords:
 - vbapp10.chm685004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.Weight
 ms.assetid: 71750026-1df0-1a1b-bb43-b0c6891d66be

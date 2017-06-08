@@ -3,7 +3,7 @@ title: PictureFormat.Contrast Property (PowerPoint)
 keywords: vbapp10.chm551006
 f1_keywords:
 - vbapp10.chm551006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.Contrast
 ms.assetid: 19e2a7d2-59c3-e3d7-3770-0cbecdba2550

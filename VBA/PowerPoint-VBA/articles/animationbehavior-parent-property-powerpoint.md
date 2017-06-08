@@ -3,7 +3,7 @@ title: AnimationBehavior.Parent Property (PowerPoint)
 keywords: vbapp10.chm657002
 f1_keywords:
 - vbapp10.chm657002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Parent
 ms.assetid: cef1124b-fe7d-df0a-5a62-68b77d8022fb

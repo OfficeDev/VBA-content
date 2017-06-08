@@ -3,7 +3,7 @@ title: Cell.Select Method (PowerPoint)
 keywords: vbapp10.chm628007
 f1_keywords:
 - vbapp10.chm628007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Select
 ms.assetid: 8eef42ab-b3d1-5460-95bb-f14cbce9f434

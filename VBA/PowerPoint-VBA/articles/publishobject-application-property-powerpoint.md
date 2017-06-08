@@ -3,7 +3,7 @@ title: PublishObject.Application Property (PowerPoint)
 keywords: vbapp10.chm635001
 f1_keywords:
 - vbapp10.chm635001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.Application
 ms.assetid: fa4ed2eb-f1d0-da75-d0d0-3b9255d66cb6

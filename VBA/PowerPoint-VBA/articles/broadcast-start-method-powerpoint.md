@@ -3,7 +3,7 @@ title: Broadcast.Start Method (PowerPoint)
 keywords: vbapp10.chm732003
 f1_keywords:
 - vbapp10.chm732003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Broadcast.Start
 ms.assetid: bd43dd94-8010-6e3d-ac9a-4406c6404e04

@@ -3,7 +3,7 @@ title: Shape.SoftEdge Property (PowerPoint)
 keywords: vbapp10.chm547081
 f1_keywords:
 - vbapp10.chm547081
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.SoftEdge
 ms.assetid: ec0e0555-a6fe-e389-e6b7-7ffa551e885b

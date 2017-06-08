@@ -3,7 +3,7 @@ title: ColorFormat.Type Property (PowerPoint)
 keywords: vbapp10.chm506003
 f1_keywords:
 - vbapp10.chm506003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Type
 ms.assetid: 289f0d88-2b8c-ea7c-38bb-875a9fc1a3dc

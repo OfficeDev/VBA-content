@@ -1,6 +1,6 @@
 ---
 title: XlDataLabelPosition Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelPosition
 ms.assetid: 642e24a4-614b-a489-1ea3-6cec3e9e30a1

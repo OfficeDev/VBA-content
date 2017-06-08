@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Width Property (PowerPoint)
 keywords: vbapp10.chm734011
 f1_keywords:
 - vbapp10.chm734011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Width
 ms.assetid: 3eb1449c-7213-39a7-01fc-3a4bf170217c

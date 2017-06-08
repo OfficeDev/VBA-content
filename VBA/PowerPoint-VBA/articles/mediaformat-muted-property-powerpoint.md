@@ -3,7 +3,7 @@ title: MediaFormat.Muted Property (PowerPoint)
 keywords: vbapp10.chm724004
 f1_keywords:
 - vbapp10.chm724004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.Muted
 ms.assetid: 3006fa50-7cda-3752-8ac9-4b26396847ea

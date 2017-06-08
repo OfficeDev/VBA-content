@@ -1,6 +1,6 @@
 ---
 title: XlChartItem Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartItem
 ms.assetid: b25cf8c6-58ba-2ddf-5000-a325ff6e98af

@@ -3,7 +3,7 @@ title: SlideShowView.MediaControlsWidth Property (PowerPoint)
 keywords: vbapp10.chm513036
 f1_keywords:
 - vbapp10.chm513036
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.MediaControlsWidth
 ms.assetid: 02a81c3e-c19d-183a-c9e4-08decf01d30f

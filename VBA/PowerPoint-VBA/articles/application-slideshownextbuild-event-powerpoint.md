@@ -3,7 +3,7 @@ title: Application.SlideShowNextBuild Event (PowerPoint)
 keywords: vbapp10.chm621012
 f1_keywords:
 - vbapp10.chm621012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowNextBuild
 ms.assetid: 63919ea5-57e4-853a-0e5a-94e1126cbfbf

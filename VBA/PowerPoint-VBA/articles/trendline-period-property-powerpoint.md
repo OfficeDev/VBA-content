@@ -3,7 +3,7 @@ title: Trendline.Period Property (PowerPoint)
 keywords: vbapp10.chm65720
 f1_keywords:
 - vbapp10.chm65720
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Period
 ms.assetid: 7482f5c1-412f-8653-b5f3-1b672125b3e5

@@ -1,6 +1,6 @@
 ---
 title: HiLoLines.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HiLoLines.Creator
 ms.assetid: e5a3633b-b4c7-40f7-a957-d19276f1e261

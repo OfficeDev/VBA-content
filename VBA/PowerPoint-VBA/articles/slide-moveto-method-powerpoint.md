@@ -3,7 +3,7 @@ title: Slide.MoveTo Method (PowerPoint)
 keywords: vbapp10.chm531030
 f1_keywords:
 - vbapp10.chm531030
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.MoveTo
 ms.assetid: b044a6fe-b6af-0f7f-ca4a-69d8a6f146e6

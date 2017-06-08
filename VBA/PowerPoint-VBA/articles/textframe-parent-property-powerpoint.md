@@ -3,7 +3,7 @@ title: TextFrame.Parent Property (PowerPoint)
 keywords: vbapp10.chm558001
 f1_keywords:
 - vbapp10.chm558001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.Parent
 ms.assetid: 3c5706c9-188e-6946-6e87-1501f32b1ce3

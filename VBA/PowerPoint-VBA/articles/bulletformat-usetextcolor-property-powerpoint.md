@@ -3,7 +3,7 @@ title: BulletFormat.UseTextColor Property (PowerPoint)
 keywords: vbapp10.chm577006
 f1_keywords:
 - vbapp10.chm577006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.UseTextColor
 ms.assetid: 8242712a-051e-18fa-1b43-93a0ce1cd17b

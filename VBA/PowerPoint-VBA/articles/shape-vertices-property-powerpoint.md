@@ -3,7 +3,7 @@ title: Shape.Vertices Property (PowerPoint)
 keywords: vbapp10.chm547040
 f1_keywords:
 - vbapp10.chm547040
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Vertices
 ms.assetid: b9ce441c-b305-4224-3fe8-3f947199a4d4

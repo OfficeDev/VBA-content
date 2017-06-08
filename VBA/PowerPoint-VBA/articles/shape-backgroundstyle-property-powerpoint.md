@@ -3,7 +3,7 @@ title: Shape.BackgroundStyle Property (PowerPoint)
 keywords: vbapp10.chm547080
 f1_keywords:
 - vbapp10.chm547080
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.BackgroundStyle
 ms.assetid: 8b25d075-1ba8-ca90-7ec3-d28d7e7fa838

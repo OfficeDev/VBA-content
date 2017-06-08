@@ -3,7 +3,7 @@ title: Sequences.Parent Property (PowerPoint)
 keywords: vbapp10.chm650002
 f1_keywords:
 - vbapp10.chm650002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequences.Parent
 ms.assetid: 452a714e-dcec-f217-ceae-97265f62c691

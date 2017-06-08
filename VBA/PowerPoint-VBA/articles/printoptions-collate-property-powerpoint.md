@@ -3,7 +3,7 @@ title: PrintOptions.Collate Property (PowerPoint)
 keywords: vbapp10.chm517003
 f1_keywords:
 - vbapp10.chm517003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.Collate
 ms.assetid: 4cf1d714-6ea2-fce5-340e-202d91ad1137

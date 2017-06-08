@@ -3,7 +3,7 @@ title: Chart.ShowReportFilterFieldButtons Property (PowerPoint)
 keywords: vbapp10.chm684049
 f1_keywords:
 - vbapp10.chm684049
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ShowReportFilterFieldButtons
 ms.assetid: a254a18b-466a-bee4-772e-3352dc27249b

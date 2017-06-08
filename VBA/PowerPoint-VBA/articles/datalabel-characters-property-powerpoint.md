@@ -3,7 +3,7 @@ title: DataLabel.Characters Property (PowerPoint)
 keywords: vbapp10.chm66139
 f1_keywords:
 - vbapp10.chm66139
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Characters
 ms.assetid: 0ac6cc61-6a4e-df5a-44c8-754dc08c381f

@@ -1,6 +1,6 @@
 ---
 title: Enumerations (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 ms.assetid: 11d86f40-9e35-43ee-b5d9-f80b7f8f8511
 ms.date: 06/08/2017
 ---

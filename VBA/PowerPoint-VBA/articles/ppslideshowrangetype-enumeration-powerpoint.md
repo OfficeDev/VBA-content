@@ -1,6 +1,6 @@
 ---
 title: PpSlideShowRangeType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowRangeType
 ms.assetid: 224a29cc-eb31-0cc5-c543-3646ec5d73cf

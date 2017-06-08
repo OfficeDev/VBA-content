@@ -3,7 +3,7 @@ title: SlideShowView.Previous Method (PowerPoint)
 keywords: vbapp10.chm513020
 f1_keywords:
 - vbapp10.chm513020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.Previous
 ms.assetid: a53741b0-8325-696c-51e5-ffd3f9358ca8

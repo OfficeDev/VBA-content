@@ -1,6 +1,6 @@
 ---
 title: PpAutoSize Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAutoSize
 ms.assetid: 424c05a1-8f2b-c0da-b0ca-bbc360910274

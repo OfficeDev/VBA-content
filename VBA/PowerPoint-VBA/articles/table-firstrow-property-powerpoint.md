@@ -3,7 +3,7 @@ title: Table.FirstRow Property (PowerPoint)
 keywords: vbapp10.chm622008
 f1_keywords:
 - vbapp10.chm622008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.FirstRow
 ms.assetid: 49a38e0b-7f30-b89f-7ee1-e45d60c2270f

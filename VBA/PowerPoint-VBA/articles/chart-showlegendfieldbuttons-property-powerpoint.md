@@ -3,7 +3,7 @@ title: Chart.ShowLegendFieldButtons Property (PowerPoint)
 keywords: vbapp10.chm684050
 f1_keywords:
 - vbapp10.chm684050
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ShowLegendFieldButtons
 ms.assetid: 03860057-293c-7f1b-aecd-71428329c91c

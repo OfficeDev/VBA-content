@@ -3,7 +3,7 @@ title: ShapeRange.Connector Property (PowerPoint)
 keywords: vbapp10.chm548020
 f1_keywords:
 - vbapp10.chm548020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Connector
 ms.assetid: 04871183-d9d0-f0ba-f801-4f1f6564f0d3

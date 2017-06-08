@@ -3,7 +3,7 @@ title: Point.ApplyDataLabels Method (PowerPoint)
 keywords: vbapp10.chm714004
 f1_keywords:
 - vbapp10.chm714004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyDataLabels
 ms.assetid: 49bd00ab-d1d1-563f-b5ce-e0a575a97a5c

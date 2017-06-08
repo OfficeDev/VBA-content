@@ -3,7 +3,7 @@ title: TextRange.Words Method (PowerPoint)
 keywords: vbapp10.chm569012
 f1_keywords:
 - vbapp10.chm569012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Words
 ms.assetid: b8cd8dca-bf10-1041-dd9e-adc04b2df42d

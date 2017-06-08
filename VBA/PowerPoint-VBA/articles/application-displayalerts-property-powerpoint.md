@@ -3,7 +3,7 @@ title: Application.DisplayAlerts Property (PowerPoint)
 keywords: vbapp10.chm502050
 f1_keywords:
 - vbapp10.chm502050
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.DisplayAlerts
 ms.assetid: e18cf1f5-c456-8cd5-40e7-eec69c40811d

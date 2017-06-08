@@ -3,7 +3,7 @@ title: AxisTitle.FormulaR1C1Local Property (PowerPoint)
 keywords: vbapp10.chm683027
 f1_keywords:
 - vbapp10.chm683027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.FormulaR1C1Local
 ms.assetid: 430d5807-d7da-5129-fa28-798c453000a7

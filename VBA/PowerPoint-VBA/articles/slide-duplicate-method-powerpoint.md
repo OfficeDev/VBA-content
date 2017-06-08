@@ -3,7 +3,7 @@ title: Slide.Duplicate Method (PowerPoint)
 keywords: vbapp10.chm531015
 f1_keywords:
 - vbapp10.chm531015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Duplicate
 ms.assetid: a098ddc4-9838-35f2-86c1-8d9e4ff40209

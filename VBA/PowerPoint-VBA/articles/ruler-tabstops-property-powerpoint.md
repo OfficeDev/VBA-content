@@ -3,7 +3,7 @@ title: Ruler.TabStops Property (PowerPoint)
 keywords: vbapp10.chm570003
 f1_keywords:
 - vbapp10.chm570003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Ruler.TabStops
 ms.assetid: 11cc74dc-8efe-3327-87a1-0880e925040d

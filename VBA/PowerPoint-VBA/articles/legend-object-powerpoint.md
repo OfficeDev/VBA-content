@@ -3,7 +3,7 @@ title: Legend Object (PowerPoint)
 keywords: vbapp10.chm709000
 f1_keywords:
 - vbapp10.chm709000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend
 ms.assetid: 7be25694-8694-049a-c31f-533fe6fd0562

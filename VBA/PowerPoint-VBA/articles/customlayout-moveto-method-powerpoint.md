@@ -3,7 +3,7 @@ title: CustomLayout.MoveTo Method (PowerPoint)
 keywords: vbapp10.chm672021
 f1_keywords:
 - vbapp10.chm672021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.MoveTo
 ms.assetid: 0efa5d50-0dd8-bcaa-5c05-1493c40c5b45

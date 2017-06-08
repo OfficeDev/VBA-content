@@ -3,7 +3,7 @@ title: ParagraphFormat.FarEastLineBreakControl Property (PowerPoint)
 keywords: vbapp10.chm576012
 f1_keywords:
 - vbapp10.chm576012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.FarEastLineBreakControl
 ms.assetid: ffc0cb13-b547-5a33-e661-8a2cc4237e88

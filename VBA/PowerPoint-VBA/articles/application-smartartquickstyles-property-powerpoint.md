@@ -3,7 +3,7 @@ title: Application.SmartArtQuickStyles Property (PowerPoint)
 keywords: vbapp10.chm502062
 f1_keywords:
 - vbapp10.chm502062
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SmartArtQuickStyles
 ms.assetid: 79fc3e91-0862-c294-dc0b-fe06d9c2c006

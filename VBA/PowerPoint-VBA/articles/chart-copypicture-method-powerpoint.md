@@ -3,7 +3,7 @@ title: Chart.CopyPicture Method (PowerPoint)
 keywords: vbapp10.chm684022
 f1_keywords:
 - vbapp10.chm684022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.CopyPicture
 ms.assetid: ac8c3f05-3458-8f24-ada8-b89beb52a968

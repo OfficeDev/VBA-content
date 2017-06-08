@@ -3,7 +3,7 @@ title: Axis.CategoryType Property (PowerPoint)
 keywords: vbapp10.chm682037
 f1_keywords:
 - vbapp10.chm682037
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.CategoryType
 ms.assetid: bbcb485d-9464-33c8-ca9b-e3463bc9e884

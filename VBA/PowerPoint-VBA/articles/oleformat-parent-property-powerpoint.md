@@ -3,7 +3,7 @@ title: OLEFormat.Parent Property (PowerPoint)
 keywords: vbapp10.chm562002
 f1_keywords:
 - vbapp10.chm562002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.OLEFormat.Parent
 ms.assetid: 2eb7c4bf-5d11-d0e6-74b3-bde215ca3701

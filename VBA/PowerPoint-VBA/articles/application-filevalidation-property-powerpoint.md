@@ -3,7 +3,7 @@ title: Application.FileValidation Property (PowerPoint)
 keywords: vbapp10.chm502069
 f1_keywords:
 - vbapp10.chm502069
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.FileValidation
 ms.assetid: 90cc8bff-df3b-7a57-adcc-bbfb9c677468

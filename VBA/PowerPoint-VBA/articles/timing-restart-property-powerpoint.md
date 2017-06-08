@@ -3,7 +3,7 @@ title: Timing.Restart Property (PowerPoint)
 keywords: vbapp10.chm653016
 f1_keywords:
 - vbapp10.chm653016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.Restart
 ms.assetid: 0dd82d15-aa92-1de9-6406-957710c26fb6

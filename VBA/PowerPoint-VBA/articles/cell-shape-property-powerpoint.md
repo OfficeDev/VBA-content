@@ -3,7 +3,7 @@ title: Cell.Shape Property (PowerPoint)
 keywords: vbapp10.chm628003
 f1_keywords:
 - vbapp10.chm628003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Shape
 ms.assetid: 942f67bd-b4ef-3f1f-153a-5a55aaa5663c

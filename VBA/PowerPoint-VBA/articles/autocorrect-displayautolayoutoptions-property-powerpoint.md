@@ -3,7 +3,7 @@ title: AutoCorrect.DisplayAutoLayoutOptions Property (PowerPoint)
 keywords: vbapp10.chm666002
 f1_keywords:
 - vbapp10.chm666002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AutoCorrect.DisplayAutoLayoutOptions
 ms.assetid: 2afaf8e2-a30d-1076-3e78-2ee9a4533482

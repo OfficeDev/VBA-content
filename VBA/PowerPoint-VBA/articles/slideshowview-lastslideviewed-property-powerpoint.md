@@ -3,7 +3,7 @@ title: SlideShowView.LastSlideViewed Property (PowerPoint)
 keywords: vbapp10.chm513010
 f1_keywords:
 - vbapp10.chm513010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.LastSlideViewed
 ms.assetid: 47647e03-d898-47b5-cb50-79f3e368b56f

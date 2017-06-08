@@ -3,7 +3,7 @@ title: View.Paste Method (PowerPoint)
 keywords: vbapp10.chm512005
 f1_keywords:
 - vbapp10.chm512005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Paste
 ms.assetid: e7878c74-92d7-8993-9b46-8647c1b59b15

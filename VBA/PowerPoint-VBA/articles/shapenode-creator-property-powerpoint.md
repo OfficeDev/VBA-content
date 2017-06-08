@@ -1,6 +1,6 @@
 ---
 title: ShapeNode.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.Creator
 ms.assetid: 25e04e52-3a5b-c2ff-a4ef-db3df3d385db

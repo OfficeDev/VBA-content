@@ -3,7 +3,7 @@ title: ResampleMediaTask.VideoFrameRate Property (PowerPoint)
 keywords: vbapp10.chm727005
 f1_keywords:
 - vbapp10.chm727005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.VideoFrameRate
 ms.assetid: 46ceead8-4e4d-fc25-ad6d-e387dfdc3089

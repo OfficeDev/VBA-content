@@ -1,6 +1,6 @@
 ---
 title: XlLegendPosition Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlLegendPosition
 ms.assetid: a50f907b-b1ab-9af2-85d3-0dfd25c1eff7

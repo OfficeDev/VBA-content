@@ -3,7 +3,7 @@ title: ObjectVerbs.Application Property (PowerPoint)
 keywords: vbapp10.chm564001
 f1_keywords:
 - vbapp10.chm564001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ObjectVerbs.Application
 ms.assetid: 64b99393-c7cf-28c2-d3bd-86a073db015a

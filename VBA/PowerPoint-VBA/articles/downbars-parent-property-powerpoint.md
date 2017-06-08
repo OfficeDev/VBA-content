@@ -1,6 +1,6 @@
 ---
 title: DownBars.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Parent
 ms.assetid: 6e4a65de-c892-c0cc-1ec8-c7929f12539a

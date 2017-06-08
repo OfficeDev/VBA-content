@@ -3,7 +3,7 @@ title: TableBackground.Picture Property (PowerPoint)
 keywords: vbapp10.chm677002
 f1_keywords:
 - vbapp10.chm677002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TableBackground.Picture
 ms.assetid: 2a7a6adb-8fec-fc26-6f57-afc631325404

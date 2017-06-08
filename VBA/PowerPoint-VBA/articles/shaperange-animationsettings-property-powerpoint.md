@@ -3,7 +3,7 @@ title: ShapeRange.AnimationSettings Property (PowerPoint)
 keywords: vbapp10.chm548047
 f1_keywords:
 - vbapp10.chm548047
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.AnimationSettings
 ms.assetid: b248113c-54f6-5a36-b77f-63d76c10f7f3

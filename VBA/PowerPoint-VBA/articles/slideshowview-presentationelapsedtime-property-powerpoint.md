@@ -3,7 +3,7 @@ title: SlideShowView.PresentationElapsedTime Property (PowerPoint)
 keywords: vbapp10.chm513008
 f1_keywords:
 - vbapp10.chm513008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.PresentationElapsedTime
 ms.assetid: 6f710354-1691-4673-f83f-395d510d6999

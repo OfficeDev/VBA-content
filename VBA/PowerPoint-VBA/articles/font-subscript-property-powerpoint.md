@@ -3,7 +3,7 @@ title: Font.Subscript Property (PowerPoint)
 keywords: vbapp10.chm575009
 f1_keywords:
 - vbapp10.chm575009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Subscript
 ms.assetid: ad23433b-b14b-9b2a-3bf6-772de41995f7

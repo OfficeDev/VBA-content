@@ -3,7 +3,7 @@ title: DocumentWindow.ViewType Property (PowerPoint)
 keywords: vbapp10.chm511006
 f1_keywords:
 - vbapp10.chm511006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.ViewType
 ms.assetid: 95eb4962-6d7a-41bd-fdae-757287f06350

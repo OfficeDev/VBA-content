@@ -3,7 +3,7 @@ title: Effect.DisplayName Property (PowerPoint)
 keywords: vbapp10.chm652015
 f1_keywords:
 - vbapp10.chm652015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.DisplayName
 ms.assetid: 1c8c7a78-5b09-a94e-880e-d82311cc5ee9

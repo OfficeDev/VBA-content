@@ -3,7 +3,7 @@ title: Table.Background Property (PowerPoint)
 keywords: vbapp10.chm622015
 f1_keywords:
 - vbapp10.chm622015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.Background
 ms.assetid: 160ff59b-fe7e-16dd-4cf5-21f270e56ffc

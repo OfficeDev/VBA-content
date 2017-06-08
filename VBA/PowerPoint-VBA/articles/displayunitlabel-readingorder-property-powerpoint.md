@@ -3,7 +3,7 @@ title: DisplayUnitLabel.ReadingOrder Property (PowerPoint)
 keywords: vbapp10.chm699021
 f1_keywords:
 - vbapp10.chm699021
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.ReadingOrder
 ms.assetid: e083332c-eadb-c09f-29e6-fde7f71ba700

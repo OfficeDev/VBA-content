@@ -3,7 +3,7 @@ title: Table.LastCol Property (PowerPoint)
 keywords: vbapp10.chm622011
 f1_keywords:
 - vbapp10.chm622011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.LastCol
 ms.assetid: cf06f919-4092-8a8e-3fed-74456a507dd9

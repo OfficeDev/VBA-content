@@ -1,6 +1,6 @@
 ---
 title: Floor.ClearFormats Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.ClearFormats
 ms.assetid: d517691c-afde-71ca-608c-a7c88188f319

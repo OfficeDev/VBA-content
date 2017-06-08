@@ -3,7 +3,7 @@ title: PrintOptions.PrintComments Property (PowerPoint)
 keywords: vbapp10.chm517017
 f1_keywords:
 - vbapp10.chm517017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.PrintComments
 ms.assetid: 3c908a66-1db7-ef43-48a4-153f6095d041

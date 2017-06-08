@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetExtrusionDirection Property (PowerPoint)
 keywords: vbapp10.chm557011
 f1_keywords:
 - vbapp10.chm557011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: 9bc0ba5b-c091-c385-3ef2-46994ed81347

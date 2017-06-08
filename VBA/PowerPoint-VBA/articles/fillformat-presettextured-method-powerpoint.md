@@ -3,7 +3,7 @@ title: FillFormat.PresetTextured Method (PowerPoint)
 keywords: vbapp10.chm552006
 f1_keywords:
 - vbapp10.chm552006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.PresetTextured
 ms.assetid: a025a1d3-a2db-e219-7080-1a29c2fd3f21

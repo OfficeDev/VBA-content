@@ -3,7 +3,7 @@ title: ChartFont.Color Property (PowerPoint)
 keywords: vbapp10.chm704003
 f1_keywords:
 - vbapp10.chm704003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Color
 ms.assetid: c95350e1-11c3-f105-15d8-9d2686cc1340

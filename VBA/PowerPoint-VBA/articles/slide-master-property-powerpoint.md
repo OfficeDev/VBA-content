@@ -3,7 +3,7 @@ title: Slide.Master Property (PowerPoint)
 keywords: vbapp10.chm531023
 f1_keywords:
 - vbapp10.chm531023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Master
 ms.assetid: cec5385d-f6af-dd8d-7989-251a70c4937e

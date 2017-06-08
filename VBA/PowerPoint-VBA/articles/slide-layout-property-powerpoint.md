@@ -3,7 +3,7 @@ title: Slide.Layout Property (PowerPoint)
 keywords: vbapp10.chm531014
 f1_keywords:
 - vbapp10.chm531014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Layout
 ms.assetid: 681819b8-327e-fb6f-e9d2-0f8feb48ec36

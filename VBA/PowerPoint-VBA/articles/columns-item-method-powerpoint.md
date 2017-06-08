@@ -3,7 +3,7 @@ title: Columns.Item Method (PowerPoint)
 keywords: vbapp10.chm623003
 f1_keywords:
 - vbapp10.chm623003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Columns.Item
 ms.assetid: 57cf3c05-8832-59ac-297d-851124119c2e

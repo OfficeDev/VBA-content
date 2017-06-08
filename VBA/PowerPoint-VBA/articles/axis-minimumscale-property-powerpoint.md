@@ -3,7 +3,7 @@ title: Axis.MinimumScale Property (PowerPoint)
 keywords: vbapp10.chm682019
 f1_keywords:
 - vbapp10.chm682019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MinimumScale
 ms.assetid: 90cfaa99-0ccf-2fa8-c6b0-54d1440b6677

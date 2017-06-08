@@ -1,6 +1,6 @@
 ---
 title: XlTickMark Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTickMark
 ms.assetid: aaf2d02a-7e21-8433-0b18-ecf9af32e3af

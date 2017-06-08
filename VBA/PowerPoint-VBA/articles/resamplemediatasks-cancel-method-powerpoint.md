@@ -3,7 +3,7 @@ title: ResampleMediaTasks.Cancel Method (PowerPoint)
 keywords: vbapp10.chm728003
 f1_keywords:
 - vbapp10.chm728003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTasks.Cancel
 ms.assetid: 9ca43cf6-9f2d-9b81-2f91-6d16c4dffd05

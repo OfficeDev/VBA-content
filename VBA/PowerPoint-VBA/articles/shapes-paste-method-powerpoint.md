@@ -3,7 +3,7 @@ title: Shapes.Paste Method (PowerPoint)
 keywords: vbapp10.chm543026
 f1_keywords:
 - vbapp10.chm543026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Paste
 ms.assetid: 8aa534f8-bd59-3945-cc1f-45ffc3883bf7

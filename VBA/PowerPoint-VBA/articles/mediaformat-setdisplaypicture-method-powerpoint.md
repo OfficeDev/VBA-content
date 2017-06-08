@@ -3,7 +3,7 @@ title: MediaFormat.SetDisplayPicture Method (PowerPoint)
 keywords: vbapp10.chm724011
 f1_keywords:
 - vbapp10.chm724011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.SetDisplayPicture
 ms.assetid: a524df79-2bc2-9f1a-45df-9db4804f8f3c

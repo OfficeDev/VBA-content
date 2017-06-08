@@ -3,7 +3,7 @@ title: Pane.Parent Property (PowerPoint)
 keywords: vbapp10.chm631001
 f1_keywords:
 - vbapp10.chm631001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Pane.Parent
 ms.assetid: 75432a2d-4db5-076c-dfeb-43955476e3a0

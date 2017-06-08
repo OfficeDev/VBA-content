@@ -3,7 +3,7 @@ title: TickLabels.Alignment Property (PowerPoint)
 keywords: vbapp10.chm719016
 f1_keywords:
 - vbapp10.chm719016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Alignment
 ms.assetid: fcf08702-02d4-b6d7-6881-9565c7b2fd23

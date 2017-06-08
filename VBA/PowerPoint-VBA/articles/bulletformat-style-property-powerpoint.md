@@ -3,7 +3,7 @@ title: BulletFormat.Style Property (PowerPoint)
 keywords: vbapp10.chm577010
 f1_keywords:
 - vbapp10.chm577010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.Style
 ms.assetid: 2cc49660-bcf7-f965-f3cb-80e6d06ba789

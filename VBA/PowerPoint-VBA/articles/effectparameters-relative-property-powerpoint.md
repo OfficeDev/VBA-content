@@ -3,7 +3,7 @@ title: EffectParameters.Relative Property (PowerPoint)
 keywords: vbapp10.chm654007
 f1_keywords:
 - vbapp10.chm654007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Relative
 ms.assetid: 2675d451-6123-d9df-8c83-a009037d5108

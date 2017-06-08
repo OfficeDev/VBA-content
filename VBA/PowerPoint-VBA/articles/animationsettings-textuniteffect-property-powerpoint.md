@@ -3,7 +3,7 @@ title: AnimationSettings.TextUnitEffect Property (PowerPoint)
 keywords: vbapp10.chm565012
 f1_keywords:
 - vbapp10.chm565012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.TextUnitEffect
 ms.assetid: 6948db54-775a-39d6-9d90-99ad25f9cb80

@@ -3,7 +3,7 @@ title: CustomLayout.DisplayMasterShapes Property (PowerPoint)
 keywords: vbapp10.chm672022
 f1_keywords:
 - vbapp10.chm672022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.DisplayMasterShapes
 ms.assetid: 07790f9c-fad7-7086-5d18-80fd6bf0658b

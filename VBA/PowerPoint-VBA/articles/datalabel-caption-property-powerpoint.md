@@ -1,6 +1,6 @@
 ---
 title: DataLabel.Caption Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Caption
 ms.assetid: b7c52453-62a3-0614-fc96-378ff214541f

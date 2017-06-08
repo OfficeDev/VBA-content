@@ -3,7 +3,7 @@ title: ChartTitle.Format Property (PowerPoint)
 keywords: vbapp10.chm694019
 f1_keywords:
 - vbapp10.chm694019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Format
 ms.assetid: db98cf4f-57fa-8d4f-216c-c703084aa513

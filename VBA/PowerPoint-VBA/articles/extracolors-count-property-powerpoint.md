@@ -1,6 +1,6 @@
 ---
 title: ExtraColors.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Count
 ms.assetid: a3e5efcd-498f-3c29-2577-25cdc7206a7b

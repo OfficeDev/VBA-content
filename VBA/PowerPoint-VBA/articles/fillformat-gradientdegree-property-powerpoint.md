@@ -3,7 +3,7 @@ title: FillFormat.GradientDegree Property (PowerPoint)
 keywords: vbapp10.chm552014
 f1_keywords:
 - vbapp10.chm552014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.GradientDegree
 ms.assetid: 201380df-f7b4-a38c-e615-2eb490b7042c

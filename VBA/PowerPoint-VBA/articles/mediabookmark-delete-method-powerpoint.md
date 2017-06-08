@@ -3,7 +3,7 @@ title: MediaBookmark.Delete Method (PowerPoint)
 keywords: vbapp10.chm729004
 f1_keywords:
 - vbapp10.chm729004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmark.Delete
 ms.assetid: d5077d2b-99de-6d02-2775-7f8788520982

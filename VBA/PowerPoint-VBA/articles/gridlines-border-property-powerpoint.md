@@ -1,6 +1,6 @@
 ---
 title: Gridlines.Border Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Border
 ms.assetid: 0cc39199-8d38-caa3-0c2b-5c430d99afeb

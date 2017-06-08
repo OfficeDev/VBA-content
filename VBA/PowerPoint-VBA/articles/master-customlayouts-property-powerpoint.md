@@ -3,7 +3,7 @@ title: Master.CustomLayouts Property (PowerPoint)
 keywords: vbapp10.chm533017
 f1_keywords:
 - vbapp10.chm533017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.CustomLayouts
 ms.assetid: 8364388f-71be-c6b7-5ab0-4150e6f62feb

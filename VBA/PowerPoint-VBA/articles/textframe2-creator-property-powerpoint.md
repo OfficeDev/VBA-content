@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Creator
 ms.assetid: e591a997-2322-cf14-d79b-0b63aa9d9e46

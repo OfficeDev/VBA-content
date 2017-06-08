@@ -3,7 +3,7 @@ title: Slide.ThemeColorScheme Property (PowerPoint)
 keywords: vbapp10.chm531036
 f1_keywords:
 - vbapp10.chm531036
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.ThemeColorScheme
 ms.assetid: aaa8f7b5-e7c9-6c75-d88b-858a5dd3429d

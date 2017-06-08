@@ -3,7 +3,7 @@ title: Row.Height Property (PowerPoint)
 keywords: vbapp10.chm626006
 f1_keywords:
 - vbapp10.chm626006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Row.Height
 ms.assetid: a4334eed-66c3-0042-585d-069ce23ffb3d

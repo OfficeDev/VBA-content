@@ -3,7 +3,7 @@ title: FillFormat.Transparency Property (PowerPoint)
 keywords: vbapp10.chm552022
 f1_keywords:
 - vbapp10.chm552022
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Transparency
 ms.assetid: 98b099d7-9149-d306-1a80-f85b89b029c5

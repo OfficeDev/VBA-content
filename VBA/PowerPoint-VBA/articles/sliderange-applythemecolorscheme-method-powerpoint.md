@@ -3,7 +3,7 @@ title: SlideRange.ApplyThemeColorScheme Method (PowerPoint)
 keywords: vbapp10.chm532041
 f1_keywords:
 - vbapp10.chm532041
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.ApplyThemeColorScheme
 ms.assetid: 5e261331-5c3b-b210-07e6-e99c0a301afb

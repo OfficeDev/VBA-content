@@ -1,6 +1,6 @@
 ---
 title: Shape.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Creator
 ms.assetid: 77d85e2f-aeba-7aba-b3d4-efe37ee487fe

@@ -3,7 +3,7 @@ title: Shape.Tags Property (PowerPoint)
 keywords: vbapp10.chm547049
 f1_keywords:
 - vbapp10.chm547049
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Tags
 ms.assetid: 23104a05-c2f0-21ea-f7ef-3bdc5587ce18

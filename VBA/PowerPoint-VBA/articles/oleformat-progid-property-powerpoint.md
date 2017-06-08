@@ -3,7 +3,7 @@ title: OLEFormat.ProgID Property (PowerPoint)
 keywords: vbapp10.chm562005
 f1_keywords:
 - vbapp10.chm562005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.OLEFormat.ProgID
 ms.assetid: 7564f3e1-4e14-9038-a836-5665518b0d09

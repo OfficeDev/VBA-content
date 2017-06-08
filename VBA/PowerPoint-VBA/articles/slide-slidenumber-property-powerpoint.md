@@ -3,7 +3,7 @@ title: Slide.SlideNumber Property (PowerPoint)
 keywords: vbapp10.chm531019
 f1_keywords:
 - vbapp10.chm531019
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.SlideNumber
 ms.assetid: 6d62848b-5969-c711-9df4-2b9140ec502c

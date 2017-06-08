@@ -3,7 +3,7 @@ title: Player.State Property (PowerPoint)
 keywords: vbapp10.chm726009
 f1_keywords:
 - vbapp10.chm726009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Player.State
 ms.assetid: 927216b3-54b7-b00c-9812-ac274bfa5348

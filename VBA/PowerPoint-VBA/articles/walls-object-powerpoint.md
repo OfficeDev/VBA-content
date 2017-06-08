@@ -3,7 +3,7 @@ title: Walls Object (PowerPoint)
 keywords: vbapp10.chm723000
 f1_keywords:
 - vbapp10.chm723000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls
 ms.assetid: b2288a5f-efec-84b4-9a40-d62d61196ac8

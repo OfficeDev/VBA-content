@@ -3,7 +3,7 @@ title: Coauthoring.Parent Property (PowerPoint)
 keywords: vbapp10.chm731002
 f1_keywords:
 - vbapp10.chm731002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Coauthoring.Parent
 ms.assetid: 70ba49e9-a239-c09f-e6ed-e10822be893f

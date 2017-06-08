@@ -3,7 +3,7 @@ title: ShapeRange.BackgroundStyle Property (PowerPoint)
 keywords: vbapp10.chm548089
 f1_keywords:
 - vbapp10.chm548089
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.BackgroundStyle
 ms.assetid: 5abc16be-d2b1-0138-49be-227dd467869f

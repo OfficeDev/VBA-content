@@ -3,7 +3,7 @@ title: BulletFormat.Parent Property (PowerPoint)
 keywords: vbapp10.chm577002
 f1_keywords:
 - vbapp10.chm577002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.Parent
 ms.assetid: 95829267-e354-828b-5034-7da64dc5d5d7

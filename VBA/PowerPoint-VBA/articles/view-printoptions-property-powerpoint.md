@@ -3,7 +3,7 @@ title: View.PrintOptions Property (PowerPoint)
 keywords: vbapp10.chm512011
 f1_keywords:
 - vbapp10.chm512011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.PrintOptions
 ms.assetid: ee0aeece-e1f9-36ce-1d5d-cec9e0e4046b

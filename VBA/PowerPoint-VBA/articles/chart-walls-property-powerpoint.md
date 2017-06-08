@@ -3,7 +3,7 @@ title: Chart.Walls Property (PowerPoint)
 keywords: vbapp10.chm684047
 f1_keywords:
 - vbapp10.chm684047
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Walls
 ms.assetid: e4c019c0-41de-988b-b5c7-009fcc0eee15

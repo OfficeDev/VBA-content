@@ -3,7 +3,7 @@ title: Series.HasErrorBars Property (PowerPoint)
 keywords: vbapp10.chm65696
 f1_keywords:
 - vbapp10.chm65696
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.HasErrorBars
 ms.assetid: 658e45b6-0c1c-af50-491a-d88468782227

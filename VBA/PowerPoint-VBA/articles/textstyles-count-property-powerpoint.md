@@ -1,6 +1,6 @@
 ---
 title: TextStyles.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles.Count
 ms.assetid: afdd652f-7f97-899d-af82-1f2396ff23b9

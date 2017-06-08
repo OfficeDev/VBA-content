@@ -3,7 +3,7 @@ title: PrintOptions.ActivePrinter Property (PowerPoint)
 keywords: vbapp10.chm517015
 f1_keywords:
 - vbapp10.chm517015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.ActivePrinter
 ms.assetid: 42a7f4be-f2e6-ccdf-64a9-ef686e8130f1

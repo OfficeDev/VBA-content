@@ -3,7 +3,7 @@ title: LineFormat.EndArrowheadStyle Property (PowerPoint)
 keywords: vbapp10.chm553008
 f1_keywords:
 - vbapp10.chm553008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.EndArrowheadStyle
 ms.assetid: 8f4f7a0a-cbfa-ee6c-25bb-b1aca1e2b883

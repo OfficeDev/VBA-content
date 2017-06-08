@@ -3,7 +3,7 @@ title: DataTable.ShowLegendKey Property (PowerPoint)
 keywords: vbapp10.chm698001
 f1_keywords:
 - vbapp10.chm698001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.ShowLegendKey
 ms.assetid: 031af40c-a11f-1bfa-cf2e-cfa919300a60

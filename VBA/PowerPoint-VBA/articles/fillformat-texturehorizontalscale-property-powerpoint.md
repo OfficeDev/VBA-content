@@ -3,7 +3,7 @@ title: FillFormat.TextureHorizontalScale Property (PowerPoint)
 keywords: vbapp10.chm552029
 f1_keywords:
 - vbapp10.chm552029
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureHorizontalScale
 ms.assetid: 3ffaf1b9-0657-96b4-9c28-39c111200f1d

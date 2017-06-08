@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.Application Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Application
 ms.assetid: 958fcb9f-4eeb-d244-cdde-ecc62f09a58f

@@ -3,7 +3,7 @@ title: RulerLevels.Parent Property (PowerPoint)
 keywords: vbapp10.chm571002
 f1_keywords:
 - vbapp10.chm571002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.RulerLevels.Parent
 ms.assetid: 80d2cdae-bbbf-4d29-ebd8-2fe5eab37737

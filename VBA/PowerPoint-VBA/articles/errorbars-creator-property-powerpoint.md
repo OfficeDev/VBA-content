@@ -1,6 +1,6 @@
 ---
 title: ErrorBars.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Creator
 ms.assetid: 5e46c8d1-511b-7cba-e212-c9ffc00a9fbc

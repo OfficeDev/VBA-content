@@ -1,6 +1,6 @@
 ---
 title: LegendKey.ClearFormats Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.ClearFormats
 ms.assetid: edc50b12-715f-52dd-30f3-6cd60e43a17a

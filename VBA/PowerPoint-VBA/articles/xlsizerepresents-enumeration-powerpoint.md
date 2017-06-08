@@ -1,6 +1,6 @@
 ---
 title: XlSizeRepresents Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlSizeRepresents
 ms.assetid: 2eadb89b-e4dc-3883-8bd8-d708e9d8adf5

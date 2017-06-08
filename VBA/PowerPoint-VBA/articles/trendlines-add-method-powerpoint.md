@@ -3,7 +3,7 @@ title: Trendlines.Add Method (PowerPoint)
 keywords: vbapp10.chm65717
 f1_keywords:
 - vbapp10.chm65717
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines.Add
 ms.assetid: d7bd5d75-233f-bdc7-87a4-297b69031838

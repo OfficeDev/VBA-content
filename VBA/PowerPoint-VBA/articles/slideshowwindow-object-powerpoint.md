@@ -3,7 +3,7 @@ title: SlideShowWindow Object (PowerPoint)
 keywords: vbapp10.chm507000
 f1_keywords:
 - vbapp10.chm507000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow
 ms.assetid: 22468489-d4a2-ffea-7479-53ecb8d5da29

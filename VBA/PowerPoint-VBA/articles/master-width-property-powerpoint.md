@@ -3,7 +3,7 @@ title: Master.Width Property (PowerPoint)
 keywords: vbapp10.chm533010
 f1_keywords:
 - vbapp10.chm533010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Width
 ms.assetid: 7dd4a429-789d-fb76-2689-7e42b0668d4e

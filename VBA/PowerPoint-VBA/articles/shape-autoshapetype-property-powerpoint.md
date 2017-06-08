@@ -3,7 +3,7 @@ title: Shape.AutoShapeType Property (PowerPoint)
 keywords: vbapp10.chm547016
 f1_keywords:
 - vbapp10.chm547016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.AutoShapeType
 ms.assetid: 99c8e48a-2e0e-0c5a-fb78-91790c668bd7

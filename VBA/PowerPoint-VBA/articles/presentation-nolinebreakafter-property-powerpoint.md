@@ -3,7 +3,7 @@ title: Presentation.NoLineBreakAfter Property (PowerPoint)
 keywords: vbapp10.chm583045
 f1_keywords:
 - vbapp10.chm583045
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.NoLineBreakAfter
 ms.assetid: bc9c7fd9-4aa6-b350-4c30-586a237d904a

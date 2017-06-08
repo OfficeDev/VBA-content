@@ -1,6 +1,6 @@
 ---
 title: UpBars.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Delete
 ms.assetid: 5aeca91a-e54e-0e21-1109-f1810ee13995

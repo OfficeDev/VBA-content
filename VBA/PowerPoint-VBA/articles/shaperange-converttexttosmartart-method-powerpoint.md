@@ -3,7 +3,7 @@ title: ShapeRange.ConvertTextToSmartArt Method (PowerPoint)
 keywords: vbapp10.chm548096
 f1_keywords:
 - vbapp10.chm548096
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ConvertTextToSmartArt
 ms.assetid: c61b8cb6-d5a6-00bf-49e6-94b7a9499e75

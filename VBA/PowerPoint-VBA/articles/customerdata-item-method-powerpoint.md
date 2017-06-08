@@ -3,7 +3,7 @@ title: CustomerData.Item Method (PowerPoint)
 keywords: vbapp10.chm675003
 f1_keywords:
 - vbapp10.chm675003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData.Item
 ms.assetid: 4ccbd7b2-3fd5-fc13-42b6-060fc88f1465

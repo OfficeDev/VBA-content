@@ -3,7 +3,7 @@ title: Selection.TextRange2 Property (PowerPoint)
 keywords: vbapp10.chm508013
 f1_keywords:
 - vbapp10.chm508013
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.TextRange2
 ms.assetid: 3c4ccea8-d234-d7ab-a9d1-57b53b169066

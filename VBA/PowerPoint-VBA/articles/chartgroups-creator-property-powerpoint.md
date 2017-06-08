@@ -1,6 +1,6 @@
 ---
 title: ChartGroups.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroups.Creator
 ms.assetid: 6c3f50b0-9877-220a-26cc-3fb94765535a

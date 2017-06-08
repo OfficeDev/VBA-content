@@ -3,7 +3,7 @@ title: Series.LeaderLines Property (PowerPoint)
 keywords: vbapp10.chm67202
 f1_keywords:
 - vbapp10.chm67202
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.LeaderLines
 ms.assetid: f5c706e0-c6df-ae45-9f34-b7f6b4200326

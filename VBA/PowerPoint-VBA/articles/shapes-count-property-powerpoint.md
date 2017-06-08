@@ -3,7 +3,7 @@ title: Shapes.Count Property (PowerPoint)
 keywords: vbapp10.chm543002
 f1_keywords:
 - vbapp10.chm543002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Count
 ms.assetid: bc313541-1e87-cc85-e489-80d53f18abe5

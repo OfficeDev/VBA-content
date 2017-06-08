@@ -3,7 +3,7 @@ title: Application.SlideShowOnNext Event (PowerPoint)
 keywords: vbapp10.chm621023
 f1_keywords:
 - vbapp10.chm621023
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowOnNext
 ms.assetid: de72c6d6-0794-ad1d-5b25-478caaafd099

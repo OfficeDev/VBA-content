@@ -3,7 +3,7 @@ title: TextEffectFormat.FontName Property (PowerPoint)
 keywords: vbapp10.chm556006
 f1_keywords:
 - vbapp10.chm556006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.FontName
 ms.assetid: 4fdfc7a2-4b2e-e90f-719d-75a3f73c34e6

@@ -3,7 +3,7 @@ title: Chart.SideWall Property (PowerPoint)
 keywords: vbapp10.chm67913
 f1_keywords:
 - vbapp10.chm67913
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SideWall
 ms.assetid: 2fb6e33b-0b6a-9a3f-49d6-0dbf07e5a949

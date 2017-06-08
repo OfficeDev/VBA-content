@@ -2,6 +2,7 @@
 title: TextRange2.ChangeCase Method (PowerPoint)
 ms.assetid: d8a3ae13-c328-4eaa-a548-520de13e5e5d
 ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

@@ -3,7 +3,7 @@ title: Presentation.CheckInWithVersion Method (PowerPoint)
 keywords: vbapp10.chm583095
 f1_keywords:
 - vbapp10.chm583095
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.CheckInWithVersion
 ms.assetid: fc40dda4-e8cb-196d-8b82-4c0adbdf6435

@@ -3,7 +3,7 @@ title: Presentation.BuiltInDocumentProperties Property (PowerPoint)
 keywords: vbapp10.chm583020
 f1_keywords:
 - vbapp10.chm583020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.BuiltInDocumentProperties
 ms.assetid: d59341c4-70f4-b9be-0db6-3673d588a6bd

@@ -1,6 +1,6 @@
 ---
 title: MsoAnimAfterEffect Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimAfterEffect
 ms.assetid: f256ae08-29a4-efe5-2402-c212b6fca9a1

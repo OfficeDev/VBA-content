@@ -3,7 +3,7 @@ title: ResampleMediaTask.AudioCompressionType Property (PowerPoint)
 keywords: vbapp10.chm727010
 f1_keywords:
 - vbapp10.chm727010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.AudioCompressionType
 ms.assetid: 26b867a7-f738-f38c-8a93-b883b69add90

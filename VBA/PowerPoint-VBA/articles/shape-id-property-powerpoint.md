@@ -3,7 +3,7 @@ title: Shape.Id Property (PowerPoint)
 keywords: vbapp10.chm547069
 f1_keywords:
 - vbapp10.chm547069
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Id
 ms.assetid: b8d1c2ed-08e6-2a1d-7603-d80387fa4ee4

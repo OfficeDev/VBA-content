@@ -3,7 +3,7 @@ title: Trendline.Intercept Property (PowerPoint)
 keywords: vbapp10.chm65722
 f1_keywords:
 - vbapp10.chm65722
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Intercept
 ms.assetid: 4ffb60a6-a5b8-9b6d-1adc-42eb6c2a7eef

@@ -1,6 +1,6 @@
 ---
 title: DataLabels.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Name
 ms.assetid: 6f849f0d-4087-19a4-1cc2-eba9d83778e3

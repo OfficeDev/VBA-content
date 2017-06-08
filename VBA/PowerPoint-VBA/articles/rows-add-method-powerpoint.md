@@ -3,7 +3,7 @@ title: Rows.Add Method (PowerPoint)
 keywords: vbapp10.chm625004
 f1_keywords:
 - vbapp10.chm625004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Rows.Add
 ms.assetid: 7cc0c530-e817-1983-0946-90e499470668

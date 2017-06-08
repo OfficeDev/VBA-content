@@ -3,7 +3,7 @@ title: CustomLayout.Duplicate Method (PowerPoint)
 keywords: vbapp10.chm672020
 f1_keywords:
 - vbapp10.chm672020
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Duplicate
 ms.assetid: c4e0703e-5cd8-c305-bbc9-71b845ff4aba

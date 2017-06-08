@@ -3,7 +3,7 @@ title: TextFrame.HorizontalAnchor Property (PowerPoint)
 keywords: vbapp10.chm558010
 f1_keywords:
 - vbapp10.chm558010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.HorizontalAnchor
 ms.assetid: 9f694882-ce8d-d412-d60e-5217e92a81a7

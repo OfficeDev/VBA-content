@@ -3,7 +3,7 @@ title: LineFormat.BeginArrowheadWidth Property (PowerPoint)
 keywords: vbapp10.chm553005
 f1_keywords:
 - vbapp10.chm553005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.BeginArrowheadWidth
 ms.assetid: 3834e2c8-d153-57f8-014e-1545326dd370

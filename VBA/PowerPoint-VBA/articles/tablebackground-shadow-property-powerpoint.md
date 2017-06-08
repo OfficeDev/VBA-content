@@ -3,7 +3,7 @@ title: TableBackground.Shadow Property (PowerPoint)
 keywords: vbapp10.chm677004
 f1_keywords:
 - vbapp10.chm677004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TableBackground.Shadow
 ms.assetid: 9512d3d7-b029-d66c-2861-ba6c4d00e9e9

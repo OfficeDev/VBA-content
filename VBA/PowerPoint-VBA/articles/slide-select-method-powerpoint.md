@@ -3,7 +3,7 @@ title: Slide.Select Method (PowerPoint)
 keywords: vbapp10.chm531011
 f1_keywords:
 - vbapp10.chm531011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Select
 ms.assetid: 8c9511bd-4d21-fe81-f2b9-38ffef028d63

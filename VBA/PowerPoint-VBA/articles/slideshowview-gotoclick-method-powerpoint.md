@@ -3,7 +3,7 @@ title: SlideShowView.GotoClick Method (PowerPoint)
 keywords: vbapp10.chm513028
 f1_keywords:
 - vbapp10.chm513028
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.GotoClick
 ms.assetid: b41dec86-96a9-447a-5895-0b28fc4bd6b2

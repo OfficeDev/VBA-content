@@ -3,7 +3,7 @@ title: Chart.GetChartElement Method (PowerPoint)
 keywords: vbapp10.chm66945
 f1_keywords:
 - vbapp10.chm66945
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.GetChartElement
 ms.assetid: c0764342-dcd3-fdc6-6661-bbeed20f6e5a

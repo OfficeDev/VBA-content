@@ -3,7 +3,7 @@ title: Series Object (PowerPoint)
 keywords: vbapp10.chm716000
 f1_keywords:
 - vbapp10.chm716000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series
 ms.assetid: 5c8c2d92-d8ca-4d21-e213-c374292275d4

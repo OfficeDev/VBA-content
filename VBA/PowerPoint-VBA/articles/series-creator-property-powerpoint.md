@@ -1,6 +1,6 @@
 ---
 title: Series.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Creator
 ms.assetid: 36a05700-cbf8-0114-633d-70cf6991514a

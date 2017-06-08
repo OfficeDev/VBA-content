@@ -3,7 +3,7 @@ title: SetEffect.Property Property (PowerPoint)
 keywords: vbapp10.chm670003
 f1_keywords:
 - vbapp10.chm670003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SetEffect.Property
 ms.assetid: 75f31c60-327d-ce11-2703-d05ed870ef1b

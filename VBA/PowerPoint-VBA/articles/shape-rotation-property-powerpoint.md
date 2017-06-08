@@ -3,7 +3,7 @@ title: Shape.Rotation Property (PowerPoint)
 keywords: vbapp10.chm547031
 f1_keywords:
 - vbapp10.chm547031
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Rotation
 ms.assetid: 3ed090a8-d945-85ee-155b-08628feff348

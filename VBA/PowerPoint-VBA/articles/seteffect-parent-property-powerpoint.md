@@ -3,7 +3,7 @@ title: SetEffect.Parent Property (PowerPoint)
 keywords: vbapp10.chm670002
 f1_keywords:
 - vbapp10.chm670002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SetEffect.Parent
 ms.assetid: 5d7ed1cf-c24c-cc13-e923-03b5308557dd

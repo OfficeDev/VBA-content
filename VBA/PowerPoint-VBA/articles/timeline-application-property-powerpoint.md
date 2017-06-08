@@ -3,7 +3,7 @@ title: TimeLine.Application Property (PowerPoint)
 keywords: vbapp10.chm649001
 f1_keywords:
 - vbapp10.chm649001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TimeLine.Application
 ms.assetid: ca619c2e-5a15-810f-9441-cf3b17f11ca1

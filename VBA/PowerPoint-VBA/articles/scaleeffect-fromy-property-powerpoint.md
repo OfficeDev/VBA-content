@@ -3,7 +3,7 @@ title: ScaleEffect.FromY Property (PowerPoint)
 keywords: vbapp10.chm660006
 f1_keywords:
 - vbapp10.chm660006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect.FromY
 ms.assetid: a63e5ec1-35c6-bb1e-58d2-57e2c7299f6e

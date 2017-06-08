@@ -1,6 +1,6 @@
 ---
 title: ChartFont.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Parent
 ms.assetid: 25a894a3-cd13-bf09-1bf6-9d25c29a20b6

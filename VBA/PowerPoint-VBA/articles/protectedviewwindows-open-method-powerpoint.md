@@ -3,7 +3,7 @@ title: ProtectedViewWindows.Open Method (PowerPoint)
 keywords: vbapp10.chm733004
 f1_keywords:
 - vbapp10.chm733004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindows.Open
 ms.assetid: 864042f4-bfe7-3a70-6428-f7ab166da08d

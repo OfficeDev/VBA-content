@@ -3,7 +3,7 @@ title: Presentation.SendFaxOverInternet Method (PowerPoint)
 keywords: vbapp10.chm583085
 f1_keywords:
 - vbapp10.chm583085
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SendFaxOverInternet
 ms.assetid: 4470cafb-16f5-045b-1dab-8f8ead50ffe0

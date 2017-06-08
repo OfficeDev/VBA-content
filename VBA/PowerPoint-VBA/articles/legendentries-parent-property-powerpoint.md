@@ -1,6 +1,6 @@
 ---
 title: LegendEntries.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Parent
 ms.assetid: e7dba178-4ba7-bd95-f553-28489db99102

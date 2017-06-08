@@ -3,7 +3,7 @@ title: Presentation.RemovePersonalInformation Property (PowerPoint)
 keywords: vbapp10.chm583068
 f1_keywords:
 - vbapp10.chm583068
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.RemovePersonalInformation
 ms.assetid: beb422cc-23c5-5de5-ed6f-0fc71315daec

@@ -1,6 +1,6 @@
 ---
 title: DataLabels.ShowValue Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowValue
 ms.assetid: e0c739f6-286b-1267-49c0-484b7d1bca16

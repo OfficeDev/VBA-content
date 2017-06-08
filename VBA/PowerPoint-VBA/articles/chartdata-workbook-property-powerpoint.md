@@ -3,7 +3,7 @@ title: ChartData.Workbook Property (PowerPoint)
 keywords: vbapp10.chm689001
 f1_keywords:
 - vbapp10.chm689001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartData.Workbook
 ms.assetid: 2d22aa4a-15d8-c5f3-5059-a968e9a85789

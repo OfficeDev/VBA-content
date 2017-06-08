@@ -1,6 +1,6 @@
 ---
 title: PpCheckInVersionType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpCheckInVersionType
 ms.assetid: c8500cce-1c18-2d61-ba25-09c4f83d0893

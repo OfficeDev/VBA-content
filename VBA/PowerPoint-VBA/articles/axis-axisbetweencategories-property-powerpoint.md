@@ -3,7 +3,7 @@ title: Axis.AxisBetweenCategories Property (PowerPoint)
 keywords: vbapp10.chm682001
 f1_keywords:
 - vbapp10.chm682001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.AxisBetweenCategories
 ms.assetid: 8e0e0e80-58b9-005f-c719-ad45b491f9a9

@@ -3,7 +3,7 @@ title: Application.WindowActivate Event (PowerPoint)
 keywords: vbapp10.chm621009
 f1_keywords:
 - vbapp10.chm621009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.WindowActivate
 ms.assetid: 0d83fda3-b0ad-18df-57bf-c34dafcf782f

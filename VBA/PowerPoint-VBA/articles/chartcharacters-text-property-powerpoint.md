@@ -1,6 +1,6 @@
 ---
 title: ChartCharacters.Text Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Text
 ms.assetid: c38177fd-c248-4427-8243-510e810bbddb

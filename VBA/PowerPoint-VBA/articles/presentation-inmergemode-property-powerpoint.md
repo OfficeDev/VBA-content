@@ -3,7 +3,7 @@ title: Presentation.InMergeMode Property (PowerPoint)
 keywords: vbapp10.chm583114
 f1_keywords:
 - vbapp10.chm583114
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.InMergeMode
 ms.assetid: d9a4f840-eac2-0115-5bcf-df260b6db3c7

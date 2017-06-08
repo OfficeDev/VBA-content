@@ -3,7 +3,7 @@ title: SectionProperties.Move Method (PowerPoint)
 keywords: vbapp10.chm725010
 f1_keywords:
 - vbapp10.chm725010
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.Move
 ms.assetid: f414c836-09ed-3f82-4158-fa4291c0d931

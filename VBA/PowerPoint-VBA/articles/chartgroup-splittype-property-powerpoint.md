@@ -3,7 +3,7 @@ title: ChartGroup.SplitType Property (PowerPoint)
 keywords: vbapp10.chm692003
 f1_keywords:
 - vbapp10.chm692003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.SplitType
 ms.assetid: 97203482-6864-ead0-dd83-1039ceb55bc3

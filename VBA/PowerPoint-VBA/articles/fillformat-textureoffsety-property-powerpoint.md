@@ -3,7 +3,7 @@ title: FillFormat.TextureOffsetY Property (PowerPoint)
 keywords: vbapp10.chm552027
 f1_keywords:
 - vbapp10.chm552027
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureOffsetY
 ms.assetid: f1ba83a3-65ca-dd4c-cb70-f6cb453b824c

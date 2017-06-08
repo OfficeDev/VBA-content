@@ -3,7 +3,7 @@ title: Trendline.NameIsAuto Property (PowerPoint)
 keywords: vbapp10.chm65724
 f1_keywords:
 - vbapp10.chm65724
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.NameIsAuto
 ms.assetid: 7fe8b6ef-b5d9-5a97-64b2-561552654684

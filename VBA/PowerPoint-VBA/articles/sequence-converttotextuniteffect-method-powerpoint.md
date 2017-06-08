@@ -3,7 +3,7 @@ title: Sequence.ConvertToTextUnitEffect Method (PowerPoint)
 keywords: vbapp10.chm651012
 f1_keywords:
 - vbapp10.chm651012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.ConvertToTextUnitEffect
 ms.assetid: f6d2dabb-e8c5-99a9-5924-e897cbdc9968

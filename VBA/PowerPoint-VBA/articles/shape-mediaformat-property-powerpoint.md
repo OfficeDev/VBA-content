@@ -3,7 +3,7 @@ title: Shape.MediaFormat Property (PowerPoint)
 keywords: vbapp10.chm547089
 f1_keywords:
 - vbapp10.chm547089
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.MediaFormat
 ms.assetid: e44c15c6-bfe4-010b-ab40-adc80e556da6

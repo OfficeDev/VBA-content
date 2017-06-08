@@ -3,7 +3,7 @@ title: ChartFont.Subscript Property (PowerPoint)
 keywords: vbapp10.chm704012
 f1_keywords:
 - vbapp10.chm704012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Subscript
 ms.assetid: 47460379-f713-6338-fe8a-fbb4415ead91

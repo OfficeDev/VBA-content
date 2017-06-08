@@ -1,6 +1,6 @@
 ---
 title: XlDisplayUnit Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDisplayUnit
 ms.assetid: 21d841e6-95bd-ac4e-b998-11d5f7b26d69

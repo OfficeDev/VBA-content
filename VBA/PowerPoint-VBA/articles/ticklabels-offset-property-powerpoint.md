@@ -3,7 +3,7 @@ title: TickLabels.Offset Property (PowerPoint)
 keywords: vbapp10.chm719012
 f1_keywords:
 - vbapp10.chm719012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Offset
 ms.assetid: 1bb539a8-a777-e3ff-d1c8-da33b87a2f3f

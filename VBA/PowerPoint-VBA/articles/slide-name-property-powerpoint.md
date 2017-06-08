@@ -3,7 +3,7 @@ title: Slide.Name Property (PowerPoint)
 keywords: vbapp10.chm531008
 f1_keywords:
 - vbapp10.chm531008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Name
 ms.assetid: 11d6a295-02b6-3cf2-0e8b-42637e3b1f11

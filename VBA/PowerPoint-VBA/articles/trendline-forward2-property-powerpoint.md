@@ -3,7 +3,7 @@ title: Trendline.Forward2 Property (PowerPoint)
 keywords: vbapp10.chm68187
 f1_keywords:
 - vbapp10.chm68187
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Forward2
 ms.assetid: d5968c1f-de77-a03f-44b2-f91d6638a6ae

@@ -3,7 +3,7 @@ title: Designs.Add Method (PowerPoint)
 keywords: vbapp10.chm643004
 f1_keywords:
 - vbapp10.chm643004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Add
 ms.assetid: 00608390-a12b-d698-36a6-ded2df3cc26a

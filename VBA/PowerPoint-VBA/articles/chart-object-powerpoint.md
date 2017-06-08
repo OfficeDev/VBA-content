@@ -3,7 +3,7 @@ title: Chart Object (PowerPoint)
 keywords: vbapp10.chm684000
 f1_keywords:
 - vbapp10.chm684000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart
 ms.assetid: 3fcf082f-9f58-f67d-1061-e7f37e30fbcd

@@ -3,7 +3,7 @@ title: HeadersFooters.DateAndTime Property (PowerPoint)
 keywords: vbapp10.chm542003
 f1_keywords:
 - vbapp10.chm542003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeadersFooters.DateAndTime
 ms.assetid: 15d8f1a4-c48f-7afd-d701-d5e7545aadd4

@@ -3,7 +3,7 @@ title: AnimationSettings.ChartUnitEffect Property (PowerPoint)
 keywords: vbapp10.chm565016
 f1_keywords:
 - vbapp10.chm565016
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.ChartUnitEffect
 ms.assetid: a2b66cf3-c8b9-6b9c-d184-13a828b474b2

@@ -3,7 +3,7 @@ title: HeaderFooter.Visible Property (PowerPoint)
 keywords: vbapp10.chm582003
 f1_keywords:
 - vbapp10.chm582003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.Visible
 ms.assetid: 8389c5c7-4dd5-47e8-aec0-d45fda55383f

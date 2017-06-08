@@ -3,7 +3,7 @@ title: SectionProperties.SlidesCount Method (PowerPoint)
 keywords: vbapp10.chm725006
 f1_keywords:
 - vbapp10.chm725006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.SlidesCount
 ms.assetid: 7c24d63b-b8e0-c0f0-2615-1ba13d69d6d8

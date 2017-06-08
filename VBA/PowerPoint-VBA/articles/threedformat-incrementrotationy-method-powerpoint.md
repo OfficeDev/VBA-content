@@ -3,7 +3,7 @@ title: ThreeDFormat.IncrementRotationY Method (PowerPoint)
 keywords: vbapp10.chm557003
 f1_keywords:
 - vbapp10.chm557003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationY
 ms.assetid: a9216bbc-8e82-4b6d-d1ac-f67a4a44a092

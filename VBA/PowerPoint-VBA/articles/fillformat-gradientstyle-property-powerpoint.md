@@ -3,7 +3,7 @@ title: FillFormat.GradientStyle Property (PowerPoint)
 keywords: vbapp10.chm552015
 f1_keywords:
 - vbapp10.chm552015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.GradientStyle
 ms.assetid: dca37bf2-1219-d815-7584-97a8665e3420

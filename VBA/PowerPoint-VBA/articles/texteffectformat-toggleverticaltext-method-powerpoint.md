@@ -3,7 +3,7 @@ title: TextEffectFormat.ToggleVerticalText Method (PowerPoint)
 keywords: vbapp10.chm556002
 f1_keywords:
 - vbapp10.chm556002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.ToggleVerticalText
 ms.assetid: f9b71bae-4432-c4bd-4b47-1294520e33d1

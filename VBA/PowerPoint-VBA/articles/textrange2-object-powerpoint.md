@@ -2,6 +2,7 @@
 title: TextRange2 Object (PowerPoint)
 ms.assetid: 88e2de08-3d15-406d-99a0-93c3cd661eda
 ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

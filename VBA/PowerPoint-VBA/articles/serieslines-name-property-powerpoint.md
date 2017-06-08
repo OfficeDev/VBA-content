@@ -1,6 +1,6 @@
 ---
 title: SeriesLines.Name Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Name
 ms.assetid: 2116e8d5-bd23-5c1b-4286-00e6675d57eb

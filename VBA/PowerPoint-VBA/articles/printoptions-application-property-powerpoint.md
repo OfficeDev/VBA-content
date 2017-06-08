@@ -3,7 +3,7 @@ title: PrintOptions.Application Property (PowerPoint)
 keywords: vbapp10.chm517001
 f1_keywords:
 - vbapp10.chm517001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.Application
 ms.assetid: 6ae689d3-265a-7277-9dc1-8deb7cdcfb8c

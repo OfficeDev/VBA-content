@@ -3,7 +3,7 @@ title: CommandEffect.Parent Property (PowerPoint)
 keywords: vbapp10.chm668002
 f1_keywords:
 - vbapp10.chm668002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CommandEffect.Parent
 ms.assetid: 06e0ba82-71ad-be99-adae-1ac44fd4d4bf

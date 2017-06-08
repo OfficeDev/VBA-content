@@ -3,7 +3,7 @@ title: CalloutFormat.Type Property (PowerPoint)
 keywords: vbapp10.chm559015
 f1_keywords:
 - vbapp10.chm559015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Type
 ms.assetid: d7cb3fa3-2100-6bcf-de5f-45d21e03f07f

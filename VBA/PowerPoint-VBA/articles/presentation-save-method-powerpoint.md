@@ -3,7 +3,7 @@ title: Presentation.Save Method (PowerPoint)
 keywords: vbapp10.chm583035
 f1_keywords:
 - vbapp10.chm583035
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Save
 ms.assetid: 6d1251bb-27f3-0a80-bc2f-d385e2b3e3ec

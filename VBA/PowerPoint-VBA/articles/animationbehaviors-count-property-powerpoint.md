@@ -1,6 +1,6 @@
 ---
 title: AnimationBehaviors.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehaviors.Count
 ms.assetid: cffdda44-6b03-b25f-b21a-8e0e350d5d87

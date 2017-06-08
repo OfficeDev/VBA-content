@@ -3,7 +3,7 @@ title: Selection.Type Property (PowerPoint)
 keywords: vbapp10.chm508007
 f1_keywords:
 - vbapp10.chm508007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.Type
 ms.assetid: 1c39388f-2ca4-211c-393e-1f0af0723898

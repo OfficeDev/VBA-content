@@ -3,7 +3,7 @@ title: Chart.DataTable Property (PowerPoint)
 keywords: vbapp10.chm684003
 f1_keywords:
 - vbapp10.chm684003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.DataTable
 ms.assetid: fd212746-be95-06dd-144e-e6a4edf28e94

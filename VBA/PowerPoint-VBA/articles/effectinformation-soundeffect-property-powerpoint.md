@@ -3,7 +3,7 @@ title: EffectInformation.SoundEffect Property (PowerPoint)
 keywords: vbapp10.chm655009
 f1_keywords:
 - vbapp10.chm655009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.SoundEffect
 ms.assetid: ff881716-307e-4cce-7cc5-68d32350527f

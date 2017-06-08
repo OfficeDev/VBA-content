@@ -3,7 +3,7 @@ title: AnimationPoints.Add Method (PowerPoint)
 keywords: vbapp10.chm663004
 f1_keywords:
 - vbapp10.chm663004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoints.Add
 ms.assetid: faa75675-aac2-af60-b3a3-a142181ef10b

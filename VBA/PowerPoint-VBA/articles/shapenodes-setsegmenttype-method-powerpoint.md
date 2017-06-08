@@ -3,7 +3,7 @@ title: ShapeNodes.SetSegmentType Method (PowerPoint)
 keywords: vbapp10.chm560009
 f1_keywords:
 - vbapp10.chm560009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.SetSegmentType
 ms.assetid: 8dfca78c-db97-b0a5-37e9-232354c2e21f

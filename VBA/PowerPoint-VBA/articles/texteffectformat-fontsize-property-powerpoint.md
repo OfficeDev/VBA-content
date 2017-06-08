@@ -3,7 +3,7 @@ title: TextEffectFormat.FontSize Property (PowerPoint)
 keywords: vbapp10.chm556007
 f1_keywords:
 - vbapp10.chm556007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.FontSize
 ms.assetid: 296c6a9b-7e8c-b9d5-99d2-e84ce5f41d0a

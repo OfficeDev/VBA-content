@@ -1,6 +1,6 @@
 ---
 title: TextEffectFormat.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.Creator
 ms.assetid: 96e589f1-2321-47e2-5245-1c6b96bace92

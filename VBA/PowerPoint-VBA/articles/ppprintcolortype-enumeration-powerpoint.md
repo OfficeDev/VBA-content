@@ -1,6 +1,6 @@
 ---
 title: PpPrintColorType Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintColorType
 ms.assetid: f700c7fb-33c6-f69a-efbd-5bf75a542fa4

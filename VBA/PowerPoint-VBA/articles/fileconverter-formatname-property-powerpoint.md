@@ -3,7 +3,7 @@ title: FileConverter.FormatName Property (PowerPoint)
 keywords: vbapp10.chm680007
 f1_keywords:
 - vbapp10.chm680007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.FormatName
 ms.assetid: 50d92230-05a5-7dc1-115c-0e32ba0a76f3

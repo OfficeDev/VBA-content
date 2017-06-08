@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetThreeDFormat Property (PowerPoint)
 keywords: vbapp10.chm557015
 f1_keywords:
 - vbapp10.chm557015
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.PresetThreeDFormat
 ms.assetid: fcae7d2f-4d6d-6dfd-1693-fa46a85d1df2

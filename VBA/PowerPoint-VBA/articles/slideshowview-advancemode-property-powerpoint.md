@@ -3,7 +3,7 @@ title: SlideShowView.AdvanceMode Property (PowerPoint)
 keywords: vbapp10.chm513011
 f1_keywords:
 - vbapp10.chm513011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.AdvanceMode
 ms.assetid: cdc2a780-c591-b96d-cc2e-7b0571056491

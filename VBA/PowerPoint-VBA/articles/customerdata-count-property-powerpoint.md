@@ -1,6 +1,6 @@
 ---
 title: CustomerData.Count Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData.Count
 ms.assetid: a7934bc8-1c3a-79ff-5924-646d248e7cb7

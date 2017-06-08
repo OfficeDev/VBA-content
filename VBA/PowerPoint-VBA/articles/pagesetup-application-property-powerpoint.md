@@ -3,7 +3,7 @@ title: PageSetup.Application Property (PowerPoint)
 keywords: vbapp10.chm527001
 f1_keywords:
 - vbapp10.chm527001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.Application
 ms.assetid: 37ca1a31-13dd-cd78-7622-15566bfbae98

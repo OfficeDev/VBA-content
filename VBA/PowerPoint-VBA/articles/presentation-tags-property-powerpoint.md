@@ -3,7 +3,7 @@ title: Presentation.Tags Property (PowerPoint)
 keywords: vbapp10.chm583018
 f1_keywords:
 - vbapp10.chm583018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Tags
 ms.assetid: 3b75d7ae-ce76-0023-c11e-1f39f4319ed5

@@ -1,6 +1,6 @@
 ---
 title: ChartCharacters.Delete Method (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Delete
 ms.assetid: 863495ad-1656-ef43-a0c0-50682ab500eb

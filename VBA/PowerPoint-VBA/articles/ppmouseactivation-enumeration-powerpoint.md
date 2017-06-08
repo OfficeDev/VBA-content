@@ -1,6 +1,6 @@
 ---
 title: PpMouseActivation Enumeration (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PpMouseActivation
 ms.assetid: 0495c83d-c2ec-67fa-12bf-8c6c466d9693

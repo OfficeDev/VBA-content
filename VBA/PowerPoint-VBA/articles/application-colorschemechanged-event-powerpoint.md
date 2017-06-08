@@ -3,7 +3,7 @@ title: Application.ColorSchemeChanged Event (PowerPoint)
 keywords: vbapp10.chm621017
 f1_keywords:
 - vbapp10.chm621017
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ColorSchemeChanged
 ms.assetid: 8b517ce7-879d-bb96-477b-072477c991d5

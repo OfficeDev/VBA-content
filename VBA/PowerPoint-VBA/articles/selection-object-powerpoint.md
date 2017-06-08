@@ -3,7 +3,7 @@ title: Selection Object (PowerPoint)
 keywords: vbapp10.chm508000
 f1_keywords:
 - vbapp10.chm508000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection
 ms.assetid: a7def3bd-9dff-da53-152d-4fd686642413

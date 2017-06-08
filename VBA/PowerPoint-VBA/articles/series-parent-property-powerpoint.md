@@ -1,6 +1,6 @@
 ---
 title: Series.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Parent
 ms.assetid: 1549d1bb-0a61-7772-fae4-3e6c941b7276

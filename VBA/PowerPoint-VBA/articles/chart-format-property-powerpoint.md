@@ -3,7 +3,7 @@ title: Chart.Format Property (PowerPoint)
 keywords: vbapp10.chm684048
 f1_keywords:
 - vbapp10.chm684048
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Format
 ms.assetid: 760534d0-8f68-494d-d72a-a070fc98b2fc

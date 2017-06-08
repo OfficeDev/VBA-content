@@ -3,7 +3,7 @@ title: AnimationSettings.AdvanceMode Property (PowerPoint)
 keywords: vbapp10.chm565008
 f1_keywords:
 - vbapp10.chm565008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.AdvanceMode
 ms.assetid: 794d867f-cd7d-eeb6-0d6c-081e2be72ee5

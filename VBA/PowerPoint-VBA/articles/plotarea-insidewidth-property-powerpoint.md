@@ -3,7 +3,7 @@ title: PlotArea.InsideWidth Property (PowerPoint)
 keywords: vbapp10.chm67205
 f1_keywords:
 - vbapp10.chm67205
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.InsideWidth
 ms.assetid: 99136fb4-4ee9-55e8-3c3b-bf03b95188d1

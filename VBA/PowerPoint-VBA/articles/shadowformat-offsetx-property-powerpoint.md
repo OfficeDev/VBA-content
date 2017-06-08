@@ -3,7 +3,7 @@ title: ShadowFormat.OffsetX Property (PowerPoint)
 keywords: vbapp10.chm554006
 f1_keywords:
 - vbapp10.chm554006
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.OffsetX
 ms.assetid: 54c43556-99cc-dbd4-5192-abd57798d73f

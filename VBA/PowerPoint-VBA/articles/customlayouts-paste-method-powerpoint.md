@@ -3,7 +3,7 @@ title: CustomLayouts.Paste Method (PowerPoint)
 keywords: vbapp10.chm671005
 f1_keywords:
 - vbapp10.chm671005
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Paste
 ms.assetid: d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04

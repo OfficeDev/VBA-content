@@ -3,7 +3,7 @@ title: Interior.Pattern Property (PowerPoint)
 keywords: vbapp10.chm707004
 f1_keywords:
 - vbapp10.chm707004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.Pattern
 ms.assetid: f400b457-61ba-e923-debb-14abead41670

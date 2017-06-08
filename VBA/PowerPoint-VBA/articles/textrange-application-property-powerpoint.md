@@ -3,7 +3,7 @@ title: TextRange.Application Property (PowerPoint)
 keywords: vbapp10.chm569001
 f1_keywords:
 - vbapp10.chm569001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Application
 ms.assetid: 53b4f6fc-7e1b-7045-e59d-eec668a75d3e

@@ -3,7 +3,7 @@ title: Series.Points Method (PowerPoint)
 keywords: vbapp10.chm65606
 f1_keywords:
 - vbapp10.chm65606
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Points
 ms.assetid: 53bec845-d3a0-fdce-921b-66d2d4e1eb59

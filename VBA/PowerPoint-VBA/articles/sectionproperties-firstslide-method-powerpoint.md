@@ -3,7 +3,7 @@ title: SectionProperties.FirstSlide Method (PowerPoint)
 keywords: vbapp10.chm725007
 f1_keywords:
 - vbapp10.chm725007
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.FirstSlide
 ms.assetid: 136be75f-7932-8f91-767a-3eda127e47af

@@ -3,7 +3,7 @@ title: Presentation.PrintOptions Property (PowerPoint)
 keywords: vbapp10.chm583033
 f1_keywords:
 - vbapp10.chm583033
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.PrintOptions
 ms.assetid: 3620e0bb-1dcc-9979-d815-c3f34205aaaf

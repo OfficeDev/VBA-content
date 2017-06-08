@@ -3,7 +3,7 @@ title: PublishObjects.Parent Property (PowerPoint)
 keywords: vbapp10.chm634002
 f1_keywords:
 - vbapp10.chm634002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObjects.Parent
 ms.assetid: a0fe1b93-0ea8-4c08-d856-2ad1396b15c5

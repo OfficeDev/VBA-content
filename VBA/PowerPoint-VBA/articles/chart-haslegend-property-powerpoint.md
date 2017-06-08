@@ -3,7 +3,7 @@ title: Chart.HasLegend Property (PowerPoint)
 keywords: vbapp10.chm684032
 f1_keywords:
 - vbapp10.chm684032
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.HasLegend
 ms.assetid: 084f7de3-b0ed-d7b3-3b24-465e74afa167

@@ -3,7 +3,7 @@ title: ObjectVerbs.Item Method (PowerPoint)
 keywords: vbapp10.chm564003
 f1_keywords:
 - vbapp10.chm564003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ObjectVerbs.Item
 ms.assetid: f22425fd-b043-19e2-05e3-0fc061418d57

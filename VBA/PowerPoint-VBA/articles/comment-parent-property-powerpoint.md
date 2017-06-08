@@ -3,7 +3,7 @@ title: Comment.Parent Property (PowerPoint)
 keywords: vbapp10.chm642002
 f1_keywords:
 - vbapp10.chm642002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.Parent
 ms.assetid: e20e0dee-f076-3edd-6d79-574d09577b97

@@ -3,7 +3,7 @@ title: PublishObject.HTMLVersion Property (PowerPoint)
 keywords: vbapp10.chm635003
 f1_keywords:
 - vbapp10.chm635003
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.HTMLVersion
 ms.assetid: 39d6328d-f361-d2ae-34fd-03543c9883a7

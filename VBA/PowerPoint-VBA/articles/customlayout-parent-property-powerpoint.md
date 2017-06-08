@@ -3,7 +3,7 @@ title: CustomLayout.Parent Property (PowerPoint)
 keywords: vbapp10.chm672002
 f1_keywords:
 - vbapp10.chm672002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Parent
 ms.assetid: 373ab10a-71c8-fefb-1d5f-67c19abbc679

@@ -3,7 +3,7 @@ title: PlaySettings.StopAfterSlides Property (PowerPoint)
 keywords: vbapp10.chm568009
 f1_keywords:
 - vbapp10.chm568009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.StopAfterSlides
 ms.assetid: 4c979acf-92b8-ebf6-16a3-ae9334dc4593

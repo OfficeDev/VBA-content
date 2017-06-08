@@ -3,7 +3,7 @@ title: CustomLayouts Object (PowerPoint)
 keywords: vbapp10.chm671000
 f1_keywords:
 - vbapp10.chm671000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts
 ms.assetid: 9ce682fb-545c-55cb-e9ac-3475f7556af1

@@ -3,7 +3,7 @@ title: Application.Left Property (PowerPoint)
 keywords: vbapp10.chm502026
 f1_keywords:
 - vbapp10.chm502026
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Left
 ms.assetid: 8513a292-b293-19ec-18ce-0b444b8b4715

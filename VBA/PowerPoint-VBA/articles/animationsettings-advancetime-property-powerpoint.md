@@ -3,7 +3,7 @@ title: AnimationSettings.AdvanceTime Property (PowerPoint)
 keywords: vbapp10.chm565009
 f1_keywords:
 - vbapp10.chm565009
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.AdvanceTime
 ms.assetid: f4e5cec6-ba11-f605-3b3f-c4867fbce315

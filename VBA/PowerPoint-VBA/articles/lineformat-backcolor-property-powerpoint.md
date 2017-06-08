@@ -3,7 +3,7 @@ title: LineFormat.BackColor Property (PowerPoint)
 keywords: vbapp10.chm553002
 f1_keywords:
 - vbapp10.chm553002
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.BackColor
 ms.assetid: 5c8e915a-6fb6-92b1-1d49-a74ee3a3e06d

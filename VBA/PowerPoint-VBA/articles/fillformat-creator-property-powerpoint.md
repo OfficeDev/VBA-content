@@ -1,6 +1,6 @@
 ---
 title: FillFormat.Creator Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Creator
 ms.assetid: f2d09239-4438-ac63-41d6-414cda762802

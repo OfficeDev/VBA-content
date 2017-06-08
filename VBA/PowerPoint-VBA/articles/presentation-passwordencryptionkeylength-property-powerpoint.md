@@ -3,7 +3,7 @@ title: Presentation.PasswordEncryptionKeyLength Property (PowerPoint)
 keywords: vbapp10.chm583077
 f1_keywords:
 - vbapp10.chm583077
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.PasswordEncryptionKeyLength
 ms.assetid: 4a3d59e4-fd4d-cd8d-8d51-cca6ebd4b758

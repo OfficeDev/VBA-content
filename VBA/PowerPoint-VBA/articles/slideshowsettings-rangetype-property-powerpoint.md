@@ -3,7 +3,7 @@ title: SlideShowSettings.RangeType Property (PowerPoint)
 keywords: vbapp10.chm514014
 f1_keywords:
 - vbapp10.chm514014
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.RangeType
 ms.assetid: 63e266b6-4898-abb1-23fe-20039a6aea78

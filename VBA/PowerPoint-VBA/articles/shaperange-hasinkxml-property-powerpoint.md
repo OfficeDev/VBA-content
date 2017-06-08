@@ -2,6 +2,7 @@
 title: ShapeRange.HasInkXML Property (PowerPoint)
 ms.assetid: 1a7b7b8b-c0e8-8f62-1015-e99cb590fd50
 ms.date: 06/08/2017
+ms.prod: powerpoint
 ---
 
 

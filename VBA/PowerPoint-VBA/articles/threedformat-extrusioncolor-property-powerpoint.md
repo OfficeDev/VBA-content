@@ -3,7 +3,7 @@ title: ThreeDFormat.ExtrusionColor Property (PowerPoint)
 keywords: vbapp10.chm557008
 f1_keywords:
 - vbapp10.chm557008
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.ExtrusionColor
 ms.assetid: 70d290bd-84e6-8a24-0c87-3a9b10ae4282

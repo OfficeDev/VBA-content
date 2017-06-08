@@ -3,7 +3,7 @@ title: Slide.SlideIndex Property (PowerPoint)
 keywords: vbapp10.chm531018
 f1_keywords:
 - vbapp10.chm531018
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.SlideIndex
 ms.assetid: 8a046547-9655-7281-a406-1533f41016aa

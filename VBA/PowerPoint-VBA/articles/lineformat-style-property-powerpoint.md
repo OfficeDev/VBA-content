@@ -3,7 +3,7 @@ title: LineFormat.Style Property (PowerPoint)
 keywords: vbapp10.chm553012
 f1_keywords:
 - vbapp10.chm553012
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Style
 ms.assetid: 8a9b1a85-f290-97f5-c19d-6427d1214f7b

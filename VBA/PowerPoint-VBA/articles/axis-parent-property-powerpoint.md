@@ -1,6 +1,6 @@
 ---
 title: Axis.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Parent
 ms.assetid: 14409079-3cd4-7581-295a-adbd093dbdad

@@ -3,7 +3,7 @@ title: TextRange.Sentences Method (PowerPoint)
 keywords: vbapp10.chm569011
 f1_keywords:
 - vbapp10.chm569011
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Sentences
 ms.assetid: c3640cb8-f78a-2934-bbe0-506cb8d2534c

@@ -3,7 +3,7 @@ title: View.Application Property (PowerPoint)
 keywords: vbapp10.chm512001
 f1_keywords:
 - vbapp10.chm512001
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Application
 ms.assetid: 88ee59e8-8fcc-b933-95d3-399f83485477

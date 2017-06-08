@@ -3,7 +3,7 @@ title: CellRange.Borders Property (PowerPoint)
 keywords: vbapp10.chm627004
 f1_keywords:
 - vbapp10.chm627004
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.CellRange.Borders
 ms.assetid: 06bd16b9-8d3e-d818-cdf4-44e0dfbaca5c

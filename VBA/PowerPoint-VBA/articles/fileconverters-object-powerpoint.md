@@ -3,7 +3,7 @@ title: FileConverters Object (PowerPoint)
 keywords: vbapp10.chm679000
 f1_keywords:
 - vbapp10.chm679000
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverters
 ms.assetid: b175c08d-a910-636e-cdbe-d4f0e6af595e

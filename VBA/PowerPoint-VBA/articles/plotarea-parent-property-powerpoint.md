@@ -1,6 +1,6 @@
 ---
 title: PlotArea.Parent Property (PowerPoint)
-ms.prod: POWERPOINT
+ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Parent
 ms.assetid: e0c10047-6fe6-1610-cb49-baf29a6ecfba
