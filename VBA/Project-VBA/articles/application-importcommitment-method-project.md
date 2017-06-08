@@ -3,7 +3,7 @@ title: Application.ImportCommitment Method (Project)
 keywords: vbapj.chm2098
 f1_keywords:
 - vbapj.chm2098
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ImportCommitment
 ms.assetid: ad87bf6a-5409-bd10-b658-b81a3ba501f4

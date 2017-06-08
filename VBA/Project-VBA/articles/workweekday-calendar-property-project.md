@@ -1,6 +1,6 @@
 ---
 title: WorkWeekDay.Calendar Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Calendar
 ms.assetid: 969e8ecd-f7cd-c87d-6d43-1b893841c5dc

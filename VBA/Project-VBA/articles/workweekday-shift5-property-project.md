@@ -1,6 +1,6 @@
 ---
 title: WorkWeekDay.Shift5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeekDay.Shift5
 ms.assetid: 814fe10f-59ff-c830-c21f-433907c142d8

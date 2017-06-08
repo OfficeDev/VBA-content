@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultDurationUnits Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultDurationUnits
 ms.assetid: 611ad984-d792-bf8c-b254-901fc8c952f1

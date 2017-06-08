@@ -3,7 +3,7 @@ title: Application.OptionsCalendar Method (Project)
 keywords: vbapj.chm649
 f1_keywords:
 - vbapj.chm649
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsCalendar
 ms.assetid: bde3b645-3417-ee45-57b5-0109bc7b17ad

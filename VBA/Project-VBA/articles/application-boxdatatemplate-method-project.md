@@ -3,7 +3,7 @@ title: Application.BoxDataTemplate Method (Project)
 keywords: vbapj.chm2391
 f1_keywords:
 - vbapj.chm2391
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxDataTemplate
 ms.assetid: ce3530d5-6218-b0db-a890-9a80bca5e3db

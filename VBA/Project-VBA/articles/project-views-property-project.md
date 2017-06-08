@@ -3,7 +3,7 @@ title: Project.Views Property (Project)
 keywords: vbapj.chm132805
 f1_keywords:
 - vbapj.chm132805
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Views
 ms.assetid: 12a4c68a-f5bc-0754-bc7f-a5581e3aa200

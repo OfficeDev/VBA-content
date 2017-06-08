@@ -3,7 +3,7 @@ title: Application.OutlineHideSubTasks Method (Project)
 keywords: vbapj.chm2020
 f1_keywords:
 - vbapj.chm2020
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OutlineHideSubTasks
 ms.assetid: 79e79b71-aa4d-eb17-7f27-96d4dd382547

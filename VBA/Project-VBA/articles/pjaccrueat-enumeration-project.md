@@ -1,6 +1,6 @@
 ---
 title: PjAccrueAt Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAccrueAt
 ms.assetid: a86ac41f-9b7c-dd20-6d41-131b1c96af6b

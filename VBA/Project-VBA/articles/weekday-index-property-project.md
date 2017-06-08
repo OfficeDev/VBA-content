@@ -1,6 +1,6 @@
 ---
 title: WeekDay.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WeekDay.Index
 ms.assetid: 6af52995-fcd3-cb06-b7c5-3100eeee2e73

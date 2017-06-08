@@ -3,7 +3,7 @@ title: Application.OutlineShowAllTasks Method (Project)
 keywords: vbapj.chm2022
 f1_keywords:
 - vbapj.chm2022
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OutlineShowAllTasks
 ms.assetid: b8c089b5-f981-cdfd-7378-9e62259b43b4

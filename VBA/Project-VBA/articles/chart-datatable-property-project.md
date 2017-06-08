@@ -1,6 +1,6 @@
 ---
 title: Chart.DataTable Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 858ba41c-a96c-0c3d-0faf-dcfcc448c6f9
 ms.date: 06/08/2017
 ---

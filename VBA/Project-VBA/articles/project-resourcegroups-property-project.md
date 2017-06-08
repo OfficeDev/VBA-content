@@ -1,6 +1,6 @@
 ---
 title: Project.ResourceGroups Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ResourceGroups
 ms.assetid: 9f268036-e676-708c-7688-b08cfa1ed5e1

@@ -3,7 +3,7 @@ title: Application.TableCopy Method (Project)
 keywords: vbapj.chm400
 f1_keywords:
 - vbapj.chm400
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TableCopy
 ms.assetid: 90e0a546-2802-5ba7-6b49-086b32051451

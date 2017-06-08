@@ -3,7 +3,7 @@ title: Application.CacheSettings Method (Project)
 keywords: vbapj.chm2276
 f1_keywords:
 - vbapj.chm2276
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CacheSettings
 ms.assetid: 48b25030-cbb7-2fec-8025-01b8a96bf6eb

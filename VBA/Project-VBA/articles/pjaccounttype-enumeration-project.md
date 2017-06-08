@@ -1,6 +1,6 @@
 ---
 title: PjAccountType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAccountType
 ms.assetid: 60776ee8-6c6d-7fa4-0a54-5f44a6f273bc

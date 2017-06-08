@@ -3,7 +3,7 @@ title: ViewSingle.Table Property (Project)
 keywords: vbapj.chm132803
 f1_keywords:
 - vbapj.chm132803
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewSingle.Table
 ms.assetid: 356cf967-e443-e068-27f7-c7433f1a5329

@@ -3,7 +3,7 @@ title: Task.CPI Property (Project)
 keywords: vbapj.chm131592
 f1_keywords:
 - vbapj.chm131592
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.CPI
 ms.assetid: 91988461-bcde-3b5a-d051-71596b76597e

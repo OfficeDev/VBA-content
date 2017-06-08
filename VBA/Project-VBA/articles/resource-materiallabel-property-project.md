@@ -1,6 +1,6 @@
 ---
 title: Resource.MaterialLabel Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.MaterialLabel
 ms.assetid: 802fd00b-3f0e-9ecf-6cb9-a8858f0137a0

@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectResourceNew Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectResourceNew
 ms.assetid: 9b030fbc-5cca-df10-f7a3-613d7ad70dc7

@@ -1,6 +1,6 @@
 ---
 title: PjMergeType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjMergeType
 ms.assetid: 040c6814-1631-40c6-6444-1ad7e9405082

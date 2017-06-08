@@ -3,7 +3,7 @@ title: Task.UniqueIDSuccessors Property (Project)
 keywords: vbapj.chm132773
 f1_keywords:
 - vbapj.chm132773
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.UniqueIDSuccessors
 ms.assetid: 2462e6da-8624-62f6-408e-0f50de82096d

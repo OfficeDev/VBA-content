@@ -1,6 +1,6 @@
 ---
 title: ReportTemplates.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ReportTemplates.Item
 ms.assetid: 5b26a22e-34ec-4c5c-4adb-d3b43513d62e

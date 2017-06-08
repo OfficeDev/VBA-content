@@ -3,7 +3,7 @@ title: EventInfo Object (Project)
 keywords: vbapj.chm131286
 f1_keywords:
 - vbapj.chm131286
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.EventInfo
 ms.assetid: 97a51ee0-f7eb-5215-0686-1944c537e8fc

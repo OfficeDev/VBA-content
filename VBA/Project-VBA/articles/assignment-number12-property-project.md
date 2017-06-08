@@ -1,6 +1,6 @@
 ---
 title: Assignment.Number12 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number12
 ms.assetid: aa305f50-5145-69c2-5038-8884ac2cb2c6

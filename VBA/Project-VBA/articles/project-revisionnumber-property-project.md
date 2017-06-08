@@ -1,6 +1,6 @@
 ---
 title: Project.RevisionNumber Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.RevisionNumber
 ms.assetid: 1093ffd7-da1c-30d5-03af-d43a49554831

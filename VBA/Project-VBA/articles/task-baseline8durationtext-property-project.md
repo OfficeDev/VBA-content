@@ -3,7 +3,7 @@ title: Task.Baseline8DurationText Property (Project)
 keywords: vbapj.chm131546
 f1_keywords:
 - vbapj.chm131546
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline8DurationText
 ms.assetid: a2410973-9a4a-d2b2-3a3b-610c23bb35b5

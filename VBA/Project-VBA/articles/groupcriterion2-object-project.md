@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2 Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2
 ms.assetid: 06047a9d-a9db-43e0-e759-e24560da7128

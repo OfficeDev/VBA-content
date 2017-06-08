@@ -1,6 +1,6 @@
 ---
 title: Tables Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad
 ms.date: 06/08/2017
 ---

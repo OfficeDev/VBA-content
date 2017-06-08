@@ -3,7 +3,7 @@ title: Project.ProjectGuideSaveBuffer Property (Project)
 keywords: vbapj.chm131087
 f1_keywords:
 - vbapj.chm131087
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ProjectGuideSaveBuffer
 ms.assetid: 0e2ef078-6667-fd17-f240-4c847c88dbeb

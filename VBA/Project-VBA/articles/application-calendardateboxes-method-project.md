@@ -3,7 +3,7 @@ title: Application.CalendarDateBoxes Method (Project)
 keywords: vbapj.chm2340
 f1_keywords:
 - vbapj.chm2340
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CalendarDateBoxes
 ms.assetid: 3870fa41-ef58-8b5d-efe1-b8b3d3a03835

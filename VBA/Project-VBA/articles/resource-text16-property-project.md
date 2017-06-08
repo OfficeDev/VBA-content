@@ -1,6 +1,6 @@
 ---
 title: Resource.Text16 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text16
 ms.assetid: 1abdcfb0-b34b-b52d-7dbb-2580b99c9e10

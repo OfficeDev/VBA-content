@@ -1,6 +1,6 @@
 ---
 title: Task.Guid Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Guid
 ms.assetid: 0a40e2ac-86a7-0e9d-17d7-7b187b32952c

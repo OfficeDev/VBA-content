@@ -1,6 +1,6 @@
 ---
 title: PjLinkColorMode Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjLinkColorMode
 ms.assetid: a280af4f-a540-cb5b-f4c8-1910c9f1b4bd

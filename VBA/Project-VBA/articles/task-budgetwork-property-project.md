@@ -1,6 +1,6 @@
 ---
 title: Task.BudgetWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.BudgetWork
 ms.assetid: de3735ad-c804-3ae5-e4c5-10d2a167b0fb

@@ -3,7 +3,7 @@ title: Application.BaselineSave Method (Project)
 keywords: vbapj.chm610
 f1_keywords:
 - vbapj.chm610
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BaselineSave
 ms.assetid: b64967fe-f029-fc32-762a-f81cac405447

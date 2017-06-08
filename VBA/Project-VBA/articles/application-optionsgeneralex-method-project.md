@@ -3,7 +3,7 @@ title: Application.OptionsGeneralEx Method (Project)
 keywords: vbapj.chm642
 f1_keywords:
 - vbapj.chm642
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsGeneralEx
 ms.assetid: c82b09d5-0937-ed06-58d6-e6b5fda186ac

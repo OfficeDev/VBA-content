@@ -3,7 +3,7 @@ title: Application.ShowWelcome Property (Project)
 keywords: vbapj.chm132583
 f1_keywords:
 - vbapj.chm132583
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ShowWelcome
 ms.assetid: 083e38b0-7cfe-027a-882d-05c98f8de3b2

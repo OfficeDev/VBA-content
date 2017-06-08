@@ -1,6 +1,6 @@
 ---
 title: PjTextItem Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjTextItem
 ms.assetid: 0ebefb9f-91f0-56c5-b7f8-a11fade79eb9

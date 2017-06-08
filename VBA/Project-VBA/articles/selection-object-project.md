@@ -1,6 +1,6 @@
 ---
 title: Selection Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Selection
 ms.assetid: 06b2fc7e-5c72-3c13-132f-769e68057b43

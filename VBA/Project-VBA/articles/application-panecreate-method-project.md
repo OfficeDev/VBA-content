@@ -3,7 +3,7 @@ title: Application.PaneCreate Method (Project)
 keywords: vbapj.chm2003
 f1_keywords:
 - vbapj.chm2003
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PaneCreate
 ms.assetid: 6ecf7151-eaeb-4a28-c877-a6e5366e2a8e

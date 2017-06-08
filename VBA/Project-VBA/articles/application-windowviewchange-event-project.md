@@ -1,6 +1,6 @@
 ---
 title: Application.WindowViewChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowViewChange
 ms.assetid: e6a5f884-5bb9-f975-9237-25996b436589

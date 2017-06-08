@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValue.StartDate Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.StartDate
 ms.assetid: fdd70c48-7f07-f4dc-db93-ad46fb30a2bb

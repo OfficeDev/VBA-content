@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline1FixedCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline1FixedCost
 ms.assetid: a4d9f213-b806-b16e-22d9-03167fd733e1

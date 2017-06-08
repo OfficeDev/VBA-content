@@ -3,7 +3,7 @@ title: Application.PageBreakRemove Method (Project)
 keywords: vbapj.chm935
 f1_keywords:
 - vbapj.chm935
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PageBreakRemove
 ms.assetid: 94c82693-4dd3-d178-06b6-e6f0301aa7e1

@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Chart Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 956c50d8-9af5-4297-8433-f3429e434b4e
 ms.date: 06/08/2017
 ---

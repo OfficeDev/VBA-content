@@ -1,6 +1,6 @@
 ---
 title: Project.LevelFromDate Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.LevelFromDate
 ms.assetid: 19e29259-de9d-9e8a-b724-129839dca23b

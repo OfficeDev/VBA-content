@@ -3,7 +3,7 @@ title: Table.DateFormat Property (Project)
 keywords: vbapj.chm132681
 f1_keywords:
 - vbapj.chm132681
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.DateFormat
 ms.assetid: 69e0d08b-698e-8354-a583-b08122762f3f

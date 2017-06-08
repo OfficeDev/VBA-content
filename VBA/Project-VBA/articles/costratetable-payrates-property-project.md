@@ -1,6 +1,6 @@
 ---
 title: CostRateTable.PayRates Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CostRateTable.PayRates
 ms.assetid: 260d9e77-9fce-5169-687f-027995c73273

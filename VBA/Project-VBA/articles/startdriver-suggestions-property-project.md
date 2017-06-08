@@ -1,6 +1,6 @@
 ---
 title: StartDriver.Suggestions Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.Suggestions
 ms.assetid: 39cfa3ae-ca39-7260-ebe4-a0abe40b3799

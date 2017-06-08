@@ -3,7 +3,7 @@ title: Application.DrawingProperties Method (Project)
 keywords: vbapj.chm2307
 f1_keywords:
 - vbapj.chm2307
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DrawingProperties
 ms.assetid: 8d63be84-6321-c0b2-27f0-945baf349714

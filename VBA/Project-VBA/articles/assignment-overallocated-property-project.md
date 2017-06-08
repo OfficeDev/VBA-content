@@ -1,6 +1,6 @@
 ---
 title: Assignment.Overallocated Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Overallocated
 ms.assetid: 739fcdcd-5ef0-754b-8868-ef3e0662a2e2

@@ -1,6 +1,6 @@
 ---
 title: Application.NewProject Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.NewProject
 ms.assetid: de3c9e06-405a-8f63-6210-013f5d292c20

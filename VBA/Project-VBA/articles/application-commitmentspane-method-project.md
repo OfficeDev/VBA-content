@@ -3,7 +3,7 @@ title: Application.CommitmentsPane Method (Project)
 keywords: vbapj.chm2280
 f1_keywords:
 - vbapj.chm2280
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CommitmentsPane
 ms.assetid: 5b37e396-7c70-4554-8164-ea05406ed299

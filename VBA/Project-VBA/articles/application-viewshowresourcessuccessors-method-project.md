@@ -3,7 +3,7 @@ title: Application.ViewShowResourcesSuccessors Method (Project)
 keywords: vbapj.chm916
 f1_keywords:
 - vbapj.chm916
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowResourcesSuccessors
 ms.assetid: 632893a7-70ec-6cd5-56c6-82b216f09d48

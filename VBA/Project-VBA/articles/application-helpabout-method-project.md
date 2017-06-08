@@ -3,7 +3,7 @@ title: Application.HelpAbout Method (Project)
 keywords: vbapj.chm806
 f1_keywords:
 - vbapj.chm806
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.HelpAbout
 ms.assetid: 8afda354-3914-37f6-c274-bdb816477506

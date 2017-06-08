@@ -1,6 +1,6 @@
 ---
 title: PjDateOrder Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjDateOrder
 ms.assetid: 99946a59-559d-439a-ff14-38c7be671c3c

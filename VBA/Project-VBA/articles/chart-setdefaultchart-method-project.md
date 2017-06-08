@@ -1,6 +1,6 @@
 ---
 title: Chart.SetDefaultChart Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: e0586f53-9ca4-7d06-97ed-ecc418644d9d
 ms.date: 06/08/2017
 ---

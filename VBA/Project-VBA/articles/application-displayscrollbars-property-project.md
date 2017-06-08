@@ -1,6 +1,6 @@
 ---
 title: Application.DisplayScrollBars Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayScrollBars
 ms.assetid: 4c8e2aa3-3d85-94c8-d1ce-67586b78e7e7

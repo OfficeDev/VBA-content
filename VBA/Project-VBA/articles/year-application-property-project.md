@@ -1,6 +1,6 @@
 ---
 title: Year.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Application
 ms.assetid: 336d06a8-2ed8-2500-056e-4c2caba00902

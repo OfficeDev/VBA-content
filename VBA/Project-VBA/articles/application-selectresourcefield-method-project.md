@@ -3,7 +3,7 @@ title: Application.SelectResourceField Method (Project)
 keywords: vbapj.chm2064
 f1_keywords:
 - vbapj.chm2064
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectResourceField
 ms.assetid: 6942d5a5-4072-4a95-f2b7-33bf965e302f

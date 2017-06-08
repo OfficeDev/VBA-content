@@ -1,6 +1,6 @@
 ---
 title: Task.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Index
 ms.assetid: 2720e56a-95eb-f119-445d-3052198c46b0

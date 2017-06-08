@@ -1,6 +1,6 @@
 ---
 title: Application.CompareProjectsPreviousVersionName Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CompareProjectsPreviousVersionName
 ms.assetid: 205c43cc-1dbf-d8ef-5dea-90087d7820ed

@@ -3,7 +3,7 @@ title: Application.WindowNext Method (Project)
 keywords: vbapj.chm2005
 f1_keywords:
 - vbapj.chm2005
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowNext
 ms.assetid: 10b5306d-038a-1b1c-9dec-8dd9d8b05dc3

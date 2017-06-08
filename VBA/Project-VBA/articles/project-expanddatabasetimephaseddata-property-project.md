@@ -3,7 +3,7 @@ title: Project.ExpandDatabaseTimephasedData Property (Project)
 keywords: vbapj.chm131086
 f1_keywords:
 - vbapj.chm131086
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ExpandDatabaseTimephasedData
 ms.assetid: 225de995-5c70-2414-f34b-810abd09d13b

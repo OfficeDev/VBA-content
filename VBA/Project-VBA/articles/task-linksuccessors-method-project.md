@@ -1,6 +1,6 @@
 ---
 title: Task.LinkSuccessors Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.LinkSuccessors
 ms.assetid: 397fff8c-3ff3-4725-2938-fdaecddf624b

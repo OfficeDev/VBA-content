@@ -3,7 +3,7 @@ title: Task.BaselineFixedCostAccrual Property (Project)
 keywords: vbapj.chm131580
 f1_keywords:
 - vbapj.chm131580
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.BaselineFixedCostAccrual
 ms.assetid: 749fd1e0-33f2-7622-bf0f-86abda5d211b

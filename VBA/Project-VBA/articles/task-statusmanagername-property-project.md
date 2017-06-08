@@ -3,7 +3,7 @@ title: Task.StatusManagerName Property (Project)
 keywords: vbapj.chm132658
 f1_keywords:
 - vbapj.chm132658
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.StatusManagerName
 ms.assetid: 4a48ca32-f34b-2225-a687-254c8e3531b1

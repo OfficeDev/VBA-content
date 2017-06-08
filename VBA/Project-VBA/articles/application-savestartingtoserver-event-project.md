@@ -1,6 +1,6 @@
 ---
 title: Application.SaveStartingToServer Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SaveStartingToServer
 ms.assetid: e9d19b19-b916-a85d-486a-4a8676998b6c

@@ -1,6 +1,6 @@
 ---
 title: Assignment.OvertimeWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.OvertimeWork
 ms.assetid: df885955-c919-82c7-e3c1-5ee6b66440e4

@@ -3,7 +3,7 @@ title: Task.ScheduledDuration Property (Project)
 keywords: vbapj.chm132554
 f1_keywords:
 - vbapj.chm132554
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ScheduledDuration
 ms.assetid: 3a787ac9-ef29-9703-72dd-1edb198541e2

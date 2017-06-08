@@ -3,7 +3,7 @@ title: Application.PaneNext Method (Project)
 keywords: vbapj.chm2002
 f1_keywords:
 - vbapj.chm2002
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PaneNext
 ms.assetid: 7e8543e4-af6a-82ad-8225-16df72d47492

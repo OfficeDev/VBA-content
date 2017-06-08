@@ -1,6 +1,6 @@
 ---
 title: PjVisualReportsCubeType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjVisualReportsCubeType
 ms.assetid: dd05c192-8213-e6fc-0060-c32c761ec5d5

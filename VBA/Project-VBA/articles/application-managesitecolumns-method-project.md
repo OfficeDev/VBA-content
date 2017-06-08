@@ -3,7 +3,7 @@ title: Application.ManageSiteColumns Method (Project)
 keywords: vbapj.chm2288
 f1_keywords:
 - vbapj.chm2288
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ManageSiteColumns
 ms.assetid: 1900552c-6320-2ff5-4a07-bc6ebee60696

@@ -1,6 +1,6 @@
 ---
 title: PjProjectServerTrackingMethod Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjProjectServerTrackingMethod
 ms.assetid: 7b7717cb-316b-96fd-1131-002377ae4a7b

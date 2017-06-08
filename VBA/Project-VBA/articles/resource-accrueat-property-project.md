@@ -3,7 +3,7 @@ title: Resource.AccrueAt Property (Project)
 keywords: vbapj.chm131366
 f1_keywords:
 - vbapj.chm131366
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.AccrueAt
 ms.assetid: 760e1f6f-04b9-39e0-61a9-43af3813c473

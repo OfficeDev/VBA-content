@@ -3,7 +3,7 @@ title: Application.ResourceWindowsAccount Method (Project)
 keywords: vbapj.chm2394
 f1_keywords:
 - vbapj.chm2394
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceWindowsAccount
 ms.assetid: f03e8445-10a6-d288-b6ae-9ea2eb46f532

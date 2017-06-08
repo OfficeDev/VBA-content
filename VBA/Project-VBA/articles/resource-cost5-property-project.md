@@ -1,6 +1,6 @@
 ---
 title: Resource.Cost5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Cost5
 ms.assetid: db341836-7d9f-6517-f11e-c378194d62b9

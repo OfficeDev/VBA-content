@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline1FixedCostAccrual Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline1FixedCostAccrual
 ms.assetid: 1336ebeb-c94d-ff55-9836-0187cdbc8e2f

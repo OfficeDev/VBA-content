@@ -1,6 +1,6 @@
 ---
 title: Application.SecondaryViewChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SecondaryViewChange
 ms.assetid: f0f3f81b-c75f-79ee-db8b-6bdd32a3702f

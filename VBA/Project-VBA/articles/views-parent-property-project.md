@@ -1,6 +1,6 @@
 ---
 title: Views.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Views.Parent
 ms.assetid: d1727d12-375b-dba0-0e39-433b6de0ee00

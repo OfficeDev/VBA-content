@@ -3,7 +3,7 @@ title: Application.DetailsPaneToggle Method (Project)
 keywords: vbapj.chm85
 f1_keywords:
 - vbapj.chm85
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailsPaneToggle
 ms.assetid: f62a42b2-397f-45c0-f2c1-f0468b8d489b

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Duration1 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Duration1
 ms.assetid: a6d57e54-cad2-0edf-994b-65405d47c0d9

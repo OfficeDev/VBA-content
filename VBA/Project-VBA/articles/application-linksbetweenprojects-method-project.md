@@ -3,7 +3,7 @@ title: Application.LinksBetweenProjects Method (Project)
 keywords: vbapj.chm245
 f1_keywords:
 - vbapj.chm245
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LinksBetweenProjects
 ms.assetid: 63962df8-05ef-f3b4-7ad7-4c75b50ac398

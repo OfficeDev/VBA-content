@@ -1,6 +1,6 @@
 ---
 title: Task.OutlineHideSubTasks Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.OutlineHideSubTasks
 ms.assetid: 877e8248-3e3f-1816-0799-52fb5cda1d60

@@ -3,7 +3,7 @@ title: Application.CustomOutlineCodeEditEx Method (Project)
 keywords: vbapj.chm631
 f1_keywords:
 - vbapj.chm631
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomOutlineCodeEditEx
 ms.assetid: fc0f60a6-18bf-a8e6-9376-1222a126a64a

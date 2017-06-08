@@ -3,7 +3,7 @@ title: TimeScaleValue.EndDate Property (Project)
 keywords: vbapj.chm131793
 f1_keywords:
 - vbapj.chm131793
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValue.EndDate
 ms.assetid: e9acd4f8-b002-5195-2e0c-505b633a3b54

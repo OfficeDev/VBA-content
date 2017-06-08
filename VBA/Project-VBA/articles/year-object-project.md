@@ -3,7 +3,7 @@ title: Year Object (Project)
 keywords: vbapj.chm131361
 f1_keywords:
 - vbapj.chm131361
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year
 ms.assetid: 060e541f-f709-65dd-c955-5d04c1554373

@@ -1,6 +1,6 @@
 ---
 title: Subproject.IsLoaded Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Subproject.IsLoaded
 ms.assetid: 5e2e5877-1e60-9797-3fc9-ab10d8a64c1c

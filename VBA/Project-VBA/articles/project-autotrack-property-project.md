@@ -3,7 +3,7 @@ title: Project.AutoTrack Property (Project)
 keywords: vbapj.chm131409
 f1_keywords:
 - vbapj.chm131409
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AutoTrack
 ms.assetid: f72fe5ea-b2d5-6917-ab19-c4ae53a42a9a

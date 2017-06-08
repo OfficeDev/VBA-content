@@ -3,7 +3,7 @@ title: Application.BoxLinkStyleToggle Method (Project)
 keywords: vbapj.chm48
 f1_keywords:
 - vbapj.chm48
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxLinkStyleToggle
 ms.assetid: 8367a55b-9a7e-3272-49b2-486c0a284f7d

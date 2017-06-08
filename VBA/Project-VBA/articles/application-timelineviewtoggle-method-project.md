@@ -3,7 +3,7 @@ title: Application.TimelineViewToggle Method (Project)
 keywords: vbapj.chm2194
 f1_keywords:
 - vbapj.chm2194
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TimelineViewToggle
 ms.assetid: c5623da2-dd27-c22e-0021-b139e8875401

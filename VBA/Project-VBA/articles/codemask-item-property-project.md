@@ -1,6 +1,6 @@
 ---
 title: CodeMask.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMask.Item
 ms.assetid: 9b4aa0df-9b5a-15fa-5bf5-4c7468c6bce5

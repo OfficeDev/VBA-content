@@ -1,6 +1,6 @@
 ---
 title: Application.GoalAreaTaskHighlight Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GoalAreaTaskHighlight
 ms.assetid: 32616617-d34a-c9f4-8ddd-17fa3f1c7e74

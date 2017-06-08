@@ -3,7 +3,7 @@ title: Application.ApplyReportLayoutTemplate Method (Project)
 keywords: vbapj.chm1524
 f1_keywords:
 - vbapj.chm1524
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: cbc233c9-b955-3cd2-b1b8-99e4257bfea0
 ms.date: 06/08/2017
 ---

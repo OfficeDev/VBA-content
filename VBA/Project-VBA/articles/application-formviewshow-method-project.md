@@ -3,7 +3,7 @@ title: Application.FormViewShow Method (Project)
 keywords: vbapj.chm2074
 f1_keywords:
 - vbapj.chm2074
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FormViewShow
 ms.assetid: c1e40d2a-a4bd-60af-3e3c-146e97d7e770

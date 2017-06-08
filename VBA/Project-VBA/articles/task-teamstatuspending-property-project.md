@@ -1,6 +1,6 @@
 ---
 title: Task.TeamStatusPending Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.TeamStatusPending
 ms.assetid: 4c20c56d-d782-5364-0ac8-e19b93f6a887

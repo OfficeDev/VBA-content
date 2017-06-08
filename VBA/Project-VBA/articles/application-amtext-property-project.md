@@ -3,7 +3,7 @@ title: Application.AMText Property (Project)
 keywords: vbapj.chm131364
 f1_keywords:
 - vbapj.chm131364
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AMText
 ms.assetid: 92a8d781-79ac-ebfa-8419-31cbd140e505

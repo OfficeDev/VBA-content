@@ -3,7 +3,7 @@ title: Application.UseOMIDs Property (Project)
 keywords: vbapj.chm132781
 f1_keywords:
 - vbapj.chm132781
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UseOMIDs
 ms.assetid: 15339e09-0b65-d939-df47-eb538dee7c38

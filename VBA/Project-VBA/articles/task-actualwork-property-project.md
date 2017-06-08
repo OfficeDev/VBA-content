@@ -1,6 +1,6 @@
 ---
 title: Task.ActualWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ActualWork
 ms.assetid: 22425eb3-c40f-9f85-9f91-74efda8c9838

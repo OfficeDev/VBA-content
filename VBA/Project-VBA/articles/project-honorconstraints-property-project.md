@@ -1,6 +1,6 @@
 ---
 title: Project.HonorConstraints Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.HonorConstraints
 ms.assetid: 8e14bc5c-7b07-1d20-f3ff-63d6c79ee7d1

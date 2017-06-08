@@ -1,6 +1,6 @@
 ---
 title: Assignment.Start9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Start9
 ms.assetid: c533d79f-e78d-94da-f481-043fb91624dc

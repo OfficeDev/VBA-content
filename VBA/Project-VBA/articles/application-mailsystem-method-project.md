@@ -1,6 +1,6 @@
 ---
 title: Application.MailSystem Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MailSystem
 ms.assetid: 4ee9011c-f5f5-d0aa-0cd6-aa90130af4af

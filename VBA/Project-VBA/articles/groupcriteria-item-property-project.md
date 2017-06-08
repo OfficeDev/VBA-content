@@ -1,6 +1,6 @@
 ---
 title: GroupCriteria.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriteria.Item
 ms.assetid: ed029768-80e5-d816-0f5d-2677d5e70386

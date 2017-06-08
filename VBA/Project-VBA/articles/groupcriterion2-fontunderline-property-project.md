@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.FontUnderLine Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontUnderLine
 ms.assetid: cd996486-da47-4f12-0ffa-01aa61b2a039

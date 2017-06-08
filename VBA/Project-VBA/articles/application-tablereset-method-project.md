@@ -3,7 +3,7 @@ title: Application.TableReset Method (Project)
 keywords: vbapj.chm404
 f1_keywords:
 - vbapj.chm404
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TableReset
 ms.assetid: 1db786fb-b79d-0404-fe39-4118e10f3cb4

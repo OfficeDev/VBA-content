@@ -1,6 +1,6 @@
 ---
 title: StartDriver.Warnings Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.Warnings
 ms.assetid: 409c84e2-8307-fb82-af19-fa0e9f6b406b

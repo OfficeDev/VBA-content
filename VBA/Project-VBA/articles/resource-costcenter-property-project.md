@@ -1,6 +1,6 @@
 ---
 title: Resource.CostCenter Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.CostCenter
 ms.assetid: e6639803-e3f6-9e04-0b44-0bdc6c12348c

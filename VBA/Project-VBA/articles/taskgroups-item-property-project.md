@@ -1,6 +1,6 @@
 ---
 title: TaskGroups.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskGroups.Item
 ms.assetid: 979a5434-551b-8cb1-7da0-bdac4c1a9942

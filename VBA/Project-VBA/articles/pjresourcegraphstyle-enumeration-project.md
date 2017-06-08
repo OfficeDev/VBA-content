@@ -1,6 +1,6 @@
 ---
 title: PjResourceGraphStyle Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjResourceGraphStyle
 ms.assetid: 04e035ee-2f46-ca0c-5699-cd8fe721920a

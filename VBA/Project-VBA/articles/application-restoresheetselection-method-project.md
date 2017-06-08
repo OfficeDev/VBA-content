@@ -3,7 +3,7 @@ title: Application.RestoreSheetSelection Method (Project)
 keywords: vbapj.chm2096
 f1_keywords:
 - vbapj.chm2096
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.RestoreSheetSelection
 ms.assetid: cbc4dd00-4055-b505-661b-e2c0276335b3

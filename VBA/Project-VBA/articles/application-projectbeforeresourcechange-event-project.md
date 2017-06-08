@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeResourceChange Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceChange
 ms.assetid: d676f2c7-8857-70d7-41c6-4c505a0bcbcc

@@ -1,6 +1,6 @@
 ---
 title: View.Type Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.View.Type
 ms.assetid: ba42ed15-75ba-fad6-588a-3c4b8f42bad5

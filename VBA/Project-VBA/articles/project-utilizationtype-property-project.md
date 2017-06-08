@@ -2,6 +2,7 @@
 title: Project.UtilizationType Property (Project)
 ms.assetid: 5b6aa424-b84d-4ad6-c6e5-d7a54a63a63f
 ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

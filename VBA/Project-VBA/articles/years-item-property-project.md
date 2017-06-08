@@ -1,6 +1,6 @@
 ---
 title: Years.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Years.Item
 ms.assetid: 87e6b7d1-b1a4-f1d8-f7b5-d9e5f5d4bb4b

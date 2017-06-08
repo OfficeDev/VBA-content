@@ -1,6 +1,6 @@
 ---
 title: Resource.Import Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Import
 ms.assetid: 7c671e26-db67-3f37-b359-f3666365d99a

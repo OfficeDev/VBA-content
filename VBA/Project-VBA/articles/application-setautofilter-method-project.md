@@ -3,7 +3,7 @@ title: Application.SetAutoFilter Method (Project)
 keywords: vbapj.chm2166
 f1_keywords:
 - vbapj.chm2166
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SetAutoFilter
 ms.assetid: 4e4b4d4a-838b-f9b7-e3ab-d7bfa8efce5f

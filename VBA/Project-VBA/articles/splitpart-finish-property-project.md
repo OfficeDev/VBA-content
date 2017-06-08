@@ -1,6 +1,6 @@
 ---
 title: SplitPart.Finish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.SplitPart.Finish
 ms.assetid: deabe924-95f8-5763-6f8a-e1c913784543

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Confirmed Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Confirmed
 ms.assetid: 67d562c2-139a-3bf1-8a50-8e44adad657e

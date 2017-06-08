@@ -1,6 +1,6 @@
 ---
 title: CalendarDrivers Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 86fcfb21-a6d2-68a5-0cb0-d9a57f9028da
 ms.date: 06/08/2017
 ---

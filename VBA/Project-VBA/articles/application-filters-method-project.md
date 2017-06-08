@@ -3,7 +3,7 @@ title: Application.Filters Method (Project)
 keywords: vbapj.chm501
 f1_keywords:
 - vbapj.chm501
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Filters
 ms.assetid: f192d400-9867-b978-c68f-e4bc262d36c7

@@ -3,7 +3,7 @@ title: Application.ApplyReport Method (Project)
 keywords: vbapj.chm2198
 f1_keywords:
 - vbapj.chm2198
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 869640a0-e45e-2e89-e3c9-ca15113ba8d3
 ms.date: 06/08/2017
 ---

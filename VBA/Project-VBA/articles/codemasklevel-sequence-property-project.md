@@ -1,6 +1,6 @@
 ---
 title: CodeMaskLevel.Sequence Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Sequence
 ms.assetid: 539629b7-eb7d-aaf0-3278-39bd80494303

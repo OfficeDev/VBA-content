@@ -3,7 +3,7 @@ title: Application.SelectTaskField Method (Project)
 keywords: vbapj.chm2063
 f1_keywords:
 - vbapj.chm2063
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectTaskField
 ms.assetid: 182bfb43-c1ae-32e1-2e93-7cb035e36bd0

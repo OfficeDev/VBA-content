@@ -3,7 +3,7 @@ title: Resource.EnterpriseLastModifiedDate Property (Project)
 keywords: vbapj.chm131856
 f1_keywords:
 - vbapj.chm131856
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.EnterpriseLastModifiedDate
 ms.assetid: b31d91b4-e1a4-85a6-5634-e366d6bf855b

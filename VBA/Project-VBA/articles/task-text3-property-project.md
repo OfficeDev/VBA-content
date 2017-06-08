@@ -1,6 +1,6 @@
 ---
 title: Task.Text3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text3
 ms.assetid: 95638aa5-2de4-6020-21ae-1b2cb4fec7f9

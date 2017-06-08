@@ -3,7 +3,7 @@ title: Filter.Delete Method (Project)
 keywords: vbapj.chm132243
 f1_keywords:
 - vbapj.chm132243
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filter.Delete
 ms.assetid: f0227a43-efc6-0cba-25ee-dc6320ca1206

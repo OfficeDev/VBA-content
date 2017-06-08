@@ -1,6 +1,6 @@
 ---
 title: LookupTable.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTable.Item
 ms.assetid: d22476e1-404b-75ca-b2da-7fbd9797f4bf

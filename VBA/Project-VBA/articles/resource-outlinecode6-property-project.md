@@ -1,6 +1,6 @@
 ---
 title: Resource.OutlineCode6 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.OutlineCode6
 ms.assetid: af35e877-525b-4300-2f4e-e81627007432

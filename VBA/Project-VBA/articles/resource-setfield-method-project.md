@@ -1,6 +1,6 @@
 ---
 title: Resource.SetField Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.SetField
 ms.assetid: 9ac1e770-8716-2954-4459-7f5ff090e2ed

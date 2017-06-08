@@ -1,6 +1,6 @@
 ---
 title: StartDriver.EffectiveDateSubtract Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateSubtract
 ms.assetid: 14529bd1-9029-d1bc-60a0-b7863cba4d6d

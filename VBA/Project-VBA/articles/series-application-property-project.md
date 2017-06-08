@@ -1,6 +1,6 @@
 ---
 title: Series.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 670aadb9-e792-0abe-bc44-45b0e9a75e19
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: PjResourceTypes Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjResourceTypes
 ms.assetid: 9e5c4732-e07f-6082-6073-9674862d9676

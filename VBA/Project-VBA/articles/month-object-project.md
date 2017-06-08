@@ -1,6 +1,6 @@
 ---
 title: Month Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month
 ms.assetid: 5ee32f12-72aa-fa16-ead2-97949005cd7c

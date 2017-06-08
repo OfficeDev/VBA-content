@@ -1,6 +1,6 @@
 ---
 title: Resource.RemainingOvertimeWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.RemainingOvertimeWork
 ms.assetid: f5b3ae63-5983-60e4-517b-b484b35505c0

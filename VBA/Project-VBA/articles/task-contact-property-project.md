@@ -3,7 +3,7 @@ title: Task.Contact Property (Project)
 keywords: vbapj.chm131668
 f1_keywords:
 - vbapj.chm131668
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Contact
 ms.assetid: 856c05dd-3780-e4c5-97f3-ef428fc039d4

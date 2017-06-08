@@ -1,6 +1,6 @@
 ---
 title: Project.AutoFilter Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AutoFilter
 ms.assetid: 3e6960f7-8a8a-6300-d74b-4e009fbcfca2

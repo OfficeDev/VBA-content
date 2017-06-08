@@ -3,7 +3,7 @@ title: Application.LayoutNow Method (Project)
 keywords: vbapj.chm907
 f1_keywords:
 - vbapj.chm907
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LayoutNow
 ms.assetid: 8f01c461-a58d-7977-bf62-fda787e9334b

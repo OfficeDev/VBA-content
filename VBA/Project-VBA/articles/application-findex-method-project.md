@@ -3,7 +3,7 @@ title: Application.FindEx Method (Project)
 keywords: vbapj.chm97
 f1_keywords:
 - vbapj.chm97
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FindEx
 ms.assetid: fdb2661e-f705-ffa4-1ca3-7bbc97b9958d

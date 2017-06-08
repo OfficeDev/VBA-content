@@ -1,6 +1,6 @@
 ---
 title: Month.Default Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month.Default
 ms.assetid: 6727ef9b-aa8d-99f8-6755-ff52ccfac002

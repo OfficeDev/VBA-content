@@ -1,6 +1,6 @@
 ---
 title: StartDriver.EffectiveDateDifference Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.EffectiveDateDifference
 ms.assetid: 9b825839-31de-71f8-9804-015dfd5a293c

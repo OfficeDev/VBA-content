@@ -3,7 +3,7 @@ title: Project.CreationDate Property (Project)
 keywords: vbapj.chm131693
 f1_keywords:
 - vbapj.chm131693
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CreationDate
 ms.assetid: 7126f72b-fe35-c183-04b7-03efd78a8589

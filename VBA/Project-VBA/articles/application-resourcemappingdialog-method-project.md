@@ -3,7 +3,7 @@ title: Application.ResourceMappingDialog Method (Project)
 keywords: vbapj.chm2255
 f1_keywords:
 - vbapj.chm2255
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceMappingDialog
 ms.assetid: b465a823-769f-7e3e-2f2c-98bda2502e0a

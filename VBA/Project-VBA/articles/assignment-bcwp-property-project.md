@@ -1,6 +1,6 @@
 ---
 title: Assignment.BCWP Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.BCWP
 ms.assetid: 4e8f5b89-8e71-bd05-3681-63e56d6969b2

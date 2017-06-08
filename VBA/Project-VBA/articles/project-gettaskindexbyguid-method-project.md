@@ -1,6 +1,6 @@
 ---
 title: Project.GetTaskIndexByGuid Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.GetTaskIndexByGuid
 ms.assetid: 6887241c-9daf-385b-42a2-7a82b37c8da7

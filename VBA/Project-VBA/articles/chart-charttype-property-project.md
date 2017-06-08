@@ -1,6 +1,6 @@
 ---
 title: Chart.ChartType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: c2557457-8aab-dec9-8098-e14b31a87c4f
 ms.date: 06/08/2017
 ---

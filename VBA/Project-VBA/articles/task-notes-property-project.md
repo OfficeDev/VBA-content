@@ -1,6 +1,6 @@
 ---
 title: Task.Notes Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Notes
 ms.assetid: 65eecb2e-9116-2b00-8fb1-6df471a88f1d

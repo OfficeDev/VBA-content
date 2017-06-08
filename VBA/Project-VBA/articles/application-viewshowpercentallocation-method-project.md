@@ -3,7 +3,7 @@ title: Application.ViewShowPercentAllocation Method (Project)
 keywords: vbapj.chm926
 f1_keywords:
 - vbapj.chm926
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowPercentAllocation
 ms.assetid: 41da8198-1899-f9af-2ddd-7a992a3c3465

@@ -1,6 +1,6 @@
 ---
 title: Application.UserName Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UserName
 ms.assetid: c501ef16-f4c8-3c08-69b8-3e9756db8336

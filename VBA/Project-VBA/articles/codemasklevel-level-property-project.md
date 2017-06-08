@@ -3,7 +3,7 @@ title: CodeMaskLevel.Level Property (Project)
 keywords: vbapj.chm131646
 f1_keywords:
 - vbapj.chm131646
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Level
 ms.assetid: aa8319cb-8199-c695-fd73-aef81708619f

@@ -1,6 +1,6 @@
 ---
 title: Application.IsReducedFunctionalityMode Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.IsReducedFunctionalityMode
 ms.assetid: d53320db-377d-2e78-10b2-03af8d8bded3

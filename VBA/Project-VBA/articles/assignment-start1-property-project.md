@@ -1,6 +1,6 @@
 ---
 title: Assignment.Start1 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Start1
 ms.assetid: 06c9ff33-867e-872b-9421-8a8058de3524

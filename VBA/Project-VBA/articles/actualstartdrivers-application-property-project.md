@@ -1,6 +1,6 @@
 ---
 title: ActualStartDrivers.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ActualStartDrivers.Application
 ms.assetid: cd23106a-fcf6-7563-a582-af7a02ffa6bc

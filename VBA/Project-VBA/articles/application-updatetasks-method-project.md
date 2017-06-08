@@ -3,7 +3,7 @@ title: Application.UpdateTasks Method (Project)
 keywords: vbapj.chm2350
 f1_keywords:
 - vbapj.chm2350
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UpdateTasks
 ms.assetid: 4a04e459-9f5c-f944-d39f-dcbbfc48fdab

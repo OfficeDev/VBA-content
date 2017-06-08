@@ -1,6 +1,6 @@
 ---
 title: PjAssignResourcesListFields Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAssignResourcesListFields
 ms.assetid: 84bd2625-c9b4-858a-8238-1a64ef51686f

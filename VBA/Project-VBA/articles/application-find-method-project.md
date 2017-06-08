@@ -3,7 +3,7 @@ title: Application.Find Method (Project)
 keywords: vbapj.chm215
 f1_keywords:
 - vbapj.chm215
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Find
 ms.assetid: 0e7b1027-5609-19fa-f100-4eb7b108bae7

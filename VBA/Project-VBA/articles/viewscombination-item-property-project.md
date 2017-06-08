@@ -1,6 +1,6 @@
 ---
 title: ViewsCombination.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Item
 ms.assetid: be09b14c-d305-a640-1767-2a6f96fd53c6

@@ -3,7 +3,7 @@ title: Task.EarlyFinish Property (Project)
 keywords: vbapj.chm131786
 f1_keywords:
 - vbapj.chm131786
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.EarlyFinish
 ms.assetid: 17127825-4eec-7278-8a77-1692142e15e5

@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.MatchGeneric Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.MatchGeneric
 ms.assetid: 5c724bc3-0d2c-8fdc-1f5e-4b62a7d3f761

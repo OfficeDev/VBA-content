@@ -3,7 +3,7 @@ title: Application.GetProjectServerVersion Method (Project)
 keywords: vbapj.chm131223
 f1_keywords:
 - vbapj.chm131223
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GetProjectServerVersion
 ms.assetid: f41cb738-3a30-f555-9d10-78343fae0ddb

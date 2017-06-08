@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.Assignment Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion.Assignment
 ms.assetid: 6735a668-ecfb-8618-36a7-cc7c4cdc39a0

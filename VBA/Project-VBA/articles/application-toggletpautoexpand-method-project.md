@@ -3,7 +3,7 @@ title: Application.ToggleTPAutoExpand Method (Project)
 keywords: vbapj.chm1502
 f1_keywords:
 - vbapj.chm1502
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ToggleTPAutoExpand
 ms.assetid: 17520aa8-b364-22be-cdc3-62850e77a228

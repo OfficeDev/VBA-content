@@ -3,7 +3,7 @@ title: LookupTableEntry.Description Property (Project)
 keywords: vbapj.chm132390
 f1_keywords:
 - vbapj.chm132390
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTableEntry.Description
 ms.assetid: 7eede884-0463-0071-32ad-7d11c50f90fc

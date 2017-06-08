@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline3BudgetCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline3BudgetCost
 ms.assetid: e55e4f8e-5e14-8e7a-67f9-d6e721d7b671

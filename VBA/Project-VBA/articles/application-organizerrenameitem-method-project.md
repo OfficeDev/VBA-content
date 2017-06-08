@@ -3,7 +3,7 @@ title: Application.OrganizerRenameItem Method (Project)
 keywords: vbapj.chm130
 f1_keywords:
 - vbapj.chm130
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OrganizerRenameItem
 ms.assetid: 97ef4b63-a2fb-35ac-0a27-ebe8566fd28c

@@ -3,7 +3,7 @@ title: Project.MoveRemaining Property (Project)
 keywords: vbapj.chm131107
 f1_keywords:
 - vbapj.chm131107
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.MoveRemaining
 ms.assetid: 36579137-24b4-09eb-ea38-31ce86a06cab

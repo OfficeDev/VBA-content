@@ -1,6 +1,6 @@
 ---
 title: OutlineCodes.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Application
 ms.assetid: 88f61596-0f81-7544-5fec-66320b35677c

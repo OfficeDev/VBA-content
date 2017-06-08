@@ -3,7 +3,7 @@ title: Cell.FontColorEx Property (Project)
 keywords: vbapj.chm131605
 f1_keywords:
 - vbapj.chm131605
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell.FontColorEx
 ms.assetid: 3b9761b3-f1e8-9547-7f2f-8065f6646edc

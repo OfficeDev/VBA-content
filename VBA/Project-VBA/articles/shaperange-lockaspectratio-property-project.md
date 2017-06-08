@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.LockAspectRatio Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 82d60445-a114-d060-a85b-6a631df4c2ab
 ms.date: 06/08/2017
 ---

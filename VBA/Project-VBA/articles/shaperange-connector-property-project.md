@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Connector Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 0e480623-e5b8-49d8-38cf-30c7c7a20c3c
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shape.Delete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: b8e01778-85d4-a8bc-5ebe-1489bb79ce7b
 ms.date: 06/08/2017
 ---

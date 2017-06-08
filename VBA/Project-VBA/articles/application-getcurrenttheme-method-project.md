@@ -1,6 +1,6 @@
 ---
 title: Application.GetCurrentTheme Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GetCurrentTheme
 ms.assetid: 42384278-abaa-c15a-953f-b1ab4d0901c1

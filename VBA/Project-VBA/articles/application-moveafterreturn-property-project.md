@@ -3,7 +3,7 @@ title: Application.MoveAfterReturn Property (Project)
 keywords: vbapj.chm132417
 f1_keywords:
 - vbapj.chm132417
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MoveAfterReturn
 ms.assetid: 03bfce40-c863-a29b-da19-e4c2523265ff

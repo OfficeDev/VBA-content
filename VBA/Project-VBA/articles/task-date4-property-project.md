@@ -1,6 +1,6 @@
 ---
 title: Task.Date4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Date4
 ms.assetid: 8770070a-19f1-f1c1-8537-a387389195a9

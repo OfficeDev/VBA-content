@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValue Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValue
 ms.assetid: bea0ad82-a3de-30d8-f191-dc2248c32653

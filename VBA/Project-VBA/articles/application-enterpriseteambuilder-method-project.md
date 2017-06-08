@@ -3,7 +3,7 @@ title: Application.EnterpriseTeamBuilder Method (Project)
 keywords: vbapj.chm2124
 f1_keywords:
 - vbapj.chm2124
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseTeamBuilder
 ms.assetid: 9c164db0-5542-ec3e-121b-206a38cb3ba9

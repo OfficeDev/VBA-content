@@ -1,6 +1,6 @@
 ---
 title: Resource.Text21 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text21
 ms.assetid: ddbd4692-21a0-348c-fb73-423f574050c7

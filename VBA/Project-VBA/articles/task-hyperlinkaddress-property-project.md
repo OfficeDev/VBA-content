@@ -1,6 +1,6 @@
 ---
 title: Task.HyperlinkAddress Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.HyperlinkAddress
 ms.assetid: 0fd6c70e-df9e-1d6e-df65-aa1de2f98b44

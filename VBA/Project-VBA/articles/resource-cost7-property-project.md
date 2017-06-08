@@ -1,6 +1,6 @@
 ---
 title: Resource.Cost7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Cost7
 ms.assetid: 2022678d-f3d0-32a7-f253-6d56ef31a121

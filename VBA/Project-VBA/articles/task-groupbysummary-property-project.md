@@ -1,6 +1,6 @@
 ---
 title: Task.GroupBySummary Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.GroupBySummary
 ms.assetid: c86393b7-e123-b627-0762-475cef921fdf

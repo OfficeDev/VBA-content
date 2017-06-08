@@ -3,7 +3,7 @@ title: Application.FieldNameToFieldConstant Method (Project)
 keywords: vbapj.chm131217
 f1_keywords:
 - vbapj.chm131217
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FieldNameToFieldConstant
 ms.assetid: 0830db06-22a7-3ca5-c9ca-f9efbc360767

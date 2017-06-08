@@ -3,7 +3,7 @@ title: Application.ResourceSharing Method (Project)
 keywords: vbapj.chm105
 f1_keywords:
 - vbapj.chm105
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ResourceSharing
 ms.assetid: c11f9715-83c2-7872-1d53-fb538ed21c74

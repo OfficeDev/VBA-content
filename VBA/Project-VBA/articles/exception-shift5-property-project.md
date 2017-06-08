@@ -1,6 +1,6 @@
 ---
 title: Exception.Shift5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Shift5
 ms.assetid: 1275285a-3471-08bd-12b6-d37e60e4d9be

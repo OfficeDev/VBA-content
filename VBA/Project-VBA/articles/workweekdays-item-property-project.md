@@ -1,6 +1,6 @@
 ---
 title: WorkWeekDays.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WorkWeekDays.Item
 ms.assetid: 70633ede-db5e-4948-f9b0-2258aa141b01

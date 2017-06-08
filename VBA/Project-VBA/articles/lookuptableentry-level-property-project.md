@@ -3,7 +3,7 @@ title: LookupTableEntry.Level Property (Project)
 keywords: vbapj.chm132394
 f1_keywords:
 - vbapj.chm132394
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTableEntry.Level
 ms.assetid: 220f741a-4228-fbe3-f653-500f84f43692

@@ -1,6 +1,6 @@
 ---
 title: Month.Days Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month.Days
 ms.assetid: 86572272-1a5f-2c86-2111-e41f39f4c1e6

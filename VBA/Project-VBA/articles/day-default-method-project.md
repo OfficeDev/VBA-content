@@ -1,6 +1,6 @@
 ---
 title: Day.Default Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Day.Default
 ms.assetid: ed9f6b1f-71a5-b34b-908a-466db56acdc9

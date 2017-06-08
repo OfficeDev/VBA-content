@@ -3,7 +3,7 @@ title: Task.Estimated Property (Project)
 keywords: vbapj.chm132202
 f1_keywords:
 - vbapj.chm132202
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Estimated
 ms.assetid: d6fb8a45-8ccf-b1ed-06d5-2855ac2abb46

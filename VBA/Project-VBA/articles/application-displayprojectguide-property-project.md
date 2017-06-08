@@ -3,7 +3,7 @@ title: Application.DisplayProjectGuide Property (Project)
 keywords: vbapj.chm132839
 f1_keywords:
 - vbapj.chm132839
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayProjectGuide
 ms.assetid: 5b10db18-8cee-3824-79c7-85eadf11b0af

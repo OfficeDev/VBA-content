@@ -3,7 +3,7 @@ title: Project.CheckIn Method (Project)
 keywords: vbapj.chm132592
 f1_keywords:
 - vbapj.chm132592
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CheckIn
 ms.assetid: 9620bd94-4b75-5c7e-2993-5018c5bb84e3

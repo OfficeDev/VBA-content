@@ -1,6 +1,6 @@
 ---
 title: Application.Path Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Path
 ms.assetid: bb739ed8-9e1f-36e0-5a26-68301cfa24eb

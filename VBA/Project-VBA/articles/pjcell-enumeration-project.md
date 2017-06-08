@@ -1,6 +1,6 @@
 ---
 title: PjCell Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCell
 ms.assetid: c723eac4-6a19-ae9e-19e9-5b203a2dcf54

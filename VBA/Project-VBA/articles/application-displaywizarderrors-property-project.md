@@ -3,7 +3,7 @@ title: Application.DisplayWizardErrors Property (Project)
 keywords: vbapj.chm131754
 f1_keywords:
 - vbapj.chm131754
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayWizardErrors
 ms.assetid: b0af54ec-392f-b84d-3dcc-cc52c991b66d

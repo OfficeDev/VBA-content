@@ -3,7 +3,7 @@ title: Application.Sort Method (Project)
 keywords: vbapj.chm903
 f1_keywords:
 - vbapj.chm903
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Sort
 ms.assetid: 996df315-32ae-eac8-75cb-182a95f74879

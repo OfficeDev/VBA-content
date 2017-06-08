@@ -3,7 +3,7 @@ title: Application.HelpLaunch Method (Project)
 keywords: vbapj.chm810
 f1_keywords:
 - vbapj.chm810
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.HelpLaunch
 ms.assetid: 05e4e98c-bda7-5b41-372b-2f3752d2ab0e

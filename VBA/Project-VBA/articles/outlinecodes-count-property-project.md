@@ -1,6 +1,6 @@
 ---
 title: OutlineCodes.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCodes.Count
 ms.assetid: 992586f5-b4f0-3e96-1d6d-5d92bf968ca2

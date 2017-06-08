@@ -1,6 +1,6 @@
 ---
 title: Assignment.PercentWorkComplete Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.PercentWorkComplete
 ms.assetid: 9535e887-e15c-ebd7-c65f-a3e8d80b8f99

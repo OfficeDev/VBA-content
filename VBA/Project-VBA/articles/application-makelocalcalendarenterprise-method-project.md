@@ -3,7 +3,7 @@ title: Application.MakeLocalCalendarEnterprise Method (Project)
 keywords: vbapj.chm2369
 f1_keywords:
 - vbapj.chm2369
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MakeLocalCalendarEnterprise
 ms.assetid: deb355ad-39ca-77cd-7d0d-f5915c7185da

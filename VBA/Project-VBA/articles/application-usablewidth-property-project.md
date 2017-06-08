@@ -3,7 +3,7 @@ title: Application.UsableWidth Property (Project)
 keywords: vbapj.chm132778
 f1_keywords:
 - vbapj.chm132778
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UsableWidth
 ms.assetid: ccc312da-6794-657d-7c76-e3e8549e2da7

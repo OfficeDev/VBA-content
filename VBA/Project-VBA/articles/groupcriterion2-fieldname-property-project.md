@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.FieldName Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FieldName
 ms.assetid: 6828c1eb-aaa2-6538-0d92-6a458e678a20

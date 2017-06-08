@@ -1,6 +1,6 @@
 ---
 title: Resource.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Index
 ms.assetid: 63472085-2ce5-fb09-cdef-35706e46d826

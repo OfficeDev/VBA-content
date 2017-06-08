@@ -1,6 +1,6 @@
 ---
 title: Project.DayLabelDisplay Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DayLabelDisplay
 ms.assetid: 6888b00a-3589-1e39-1394-c5089ec38521

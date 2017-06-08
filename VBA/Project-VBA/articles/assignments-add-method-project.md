@@ -1,6 +1,6 @@
 ---
 title: Assignments.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignments.Add
 ms.assetid: c135a80e-1fb9-32e3-864e-f701c1947ca4

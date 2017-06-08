@@ -3,7 +3,7 @@ title: Task.EarlyStart Property (Project)
 keywords: vbapj.chm131787
 f1_keywords:
 - vbapj.chm131787
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.EarlyStart
 ms.assetid: 1bc7f501-8575-c6cf-1f21-82be248ca357

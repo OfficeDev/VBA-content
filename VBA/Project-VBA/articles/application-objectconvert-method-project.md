@@ -3,7 +3,7 @@ title: Application.ObjectConvert Method (Project)
 keywords: vbapj.chm236
 f1_keywords:
 - vbapj.chm236
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ObjectConvert
 ms.assetid: 31b7cd47-b592-1425-f2b5-53292306019a

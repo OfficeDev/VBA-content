@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text22 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text22
 ms.assetid: bf9aaf5c-7544-1449-e374-72a368bf6605

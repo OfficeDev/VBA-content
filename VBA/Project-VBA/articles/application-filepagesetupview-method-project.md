@@ -3,7 +3,7 @@ title: Application.FilePageSetupView Method (Project)
 keywords: vbapj.chm2360
 f1_keywords:
 - vbapj.chm2360
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilePageSetupView
 ms.assetid: 46a90db8-a635-3592-77ed-c051afa36946

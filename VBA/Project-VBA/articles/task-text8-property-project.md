@@ -1,6 +1,6 @@
 ---
 title: Task.Text8 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text8
 ms.assetid: b5add0ef-aab3-9806-f3dd-076a0b42bec9

@@ -3,7 +3,7 @@ title: Application.Reports Method (Project)
 keywords: vbapj.chm2334
 f1_keywords:
 - vbapj.chm2334
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Reports
 ms.assetid: 5288cc2d-538f-59c8-6c69-2244b1179cc1

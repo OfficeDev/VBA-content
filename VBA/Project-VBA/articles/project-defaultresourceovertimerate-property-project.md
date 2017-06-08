@@ -3,7 +3,7 @@ title: Project.DefaultResourceOvertimeRate Property (Project)
 keywords: vbapj.chm131731
 f1_keywords:
 - vbapj.chm131731
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultResourceOvertimeRate
 ms.assetid: 46b26279-651d-53bf-ed2b-3a356f0f506a

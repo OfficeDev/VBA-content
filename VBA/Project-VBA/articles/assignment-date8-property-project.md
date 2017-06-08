@@ -1,6 +1,6 @@
 ---
 title: Assignment.Date8 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Date8
 ms.assetid: cc1af84d-7b97-de6a-72c4-334fd6183303

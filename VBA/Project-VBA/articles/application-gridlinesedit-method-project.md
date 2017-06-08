@@ -3,7 +3,7 @@ title: Application.GridlinesEdit Method (Project)
 keywords: vbapj.chm2061
 f1_keywords:
 - vbapj.chm2061
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GridlinesEdit
 ms.assetid: 75b9d660-88b5-da71-faf8-215abce897d2

@@ -1,6 +1,6 @@
 ---
 title: Project Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project
 ms.assetid: 855c1ad9-0e84-f274-9e0e-2424e7cab447

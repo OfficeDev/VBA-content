@@ -1,6 +1,6 @@
 ---
 title: Application.IsUndoingOrRedoing Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.IsUndoingOrRedoing
 ms.assetid: e0e5ddc7-aa22-0d43-1de6-83a260d57608

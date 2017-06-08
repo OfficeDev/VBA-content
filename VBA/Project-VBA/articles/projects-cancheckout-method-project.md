@@ -3,7 +3,7 @@ title: Projects.CanCheckOut Method (Project)
 keywords: vbapj.chm132591
 f1_keywords:
 - vbapj.chm132591
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Projects.CanCheckOut
 ms.assetid: 330f28a3-d785-ae5d-0f64-8e02ac52d8d6

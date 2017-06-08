@@ -3,7 +3,7 @@ title: Application.GroupApply Method (Project)
 keywords: vbapj.chm512
 f1_keywords:
 - vbapj.chm512
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GroupApply
 ms.assetid: 862ff123-2fef-611a-f7c3-dedf8eab0e0b

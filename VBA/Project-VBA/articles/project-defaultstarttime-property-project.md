@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultStartTime Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultStartTime
 ms.assetid: 5123c289-2450-346f-315a-443cace6a1d9

@@ -1,6 +1,6 @@
 ---
 title: Task.CV Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.CV
 ms.assetid: 29ca1811-b2f1-6830-424d-f3306dce38ef

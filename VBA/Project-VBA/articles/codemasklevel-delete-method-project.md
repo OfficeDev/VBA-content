@@ -3,7 +3,7 @@ title: CodeMaskLevel.Delete Method (Project)
 keywords: vbapj.chm131649
 f1_keywords:
 - vbapj.chm131649
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Delete
 ms.assetid: 0630c476-d45a-081b-01de-dc6d8ab17a9a

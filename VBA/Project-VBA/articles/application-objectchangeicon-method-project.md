@@ -3,7 +3,7 @@ title: Application.ObjectChangeIcon Method (Project)
 keywords: vbapj.chm235
 f1_keywords:
 - vbapj.chm235
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ObjectChangeIcon
 ms.assetid: 8153748e-9b46-5d57-eaaf-0f09564c55e4

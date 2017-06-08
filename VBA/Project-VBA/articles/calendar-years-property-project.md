@@ -3,7 +3,7 @@ title: Calendar.Years Property (Project)
 keywords: vbapj.chm132836
 f1_keywords:
 - vbapj.chm132836
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Years
 ms.assetid: 63f17754-d258-3fd2-5f20-33b8998e7e4d

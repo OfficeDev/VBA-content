@@ -3,7 +3,7 @@ title: Application.DDEExecute Method (Project)
 keywords: vbapj.chm1202
 f1_keywords:
 - vbapj.chm1202
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DDEExecute
 ms.assetid: 307b1373-309a-1ecf-6899-fd64e663e4f9

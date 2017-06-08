@@ -1,6 +1,6 @@
 ---
 title: PjServerPage Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjServerPage
 ms.assetid: a3f0939a-9e7a-fd6f-092b-eece92717b2c

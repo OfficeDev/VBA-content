@@ -3,7 +3,7 @@ title: Task.Milestone Property (Project)
 keywords: vbapj.chm132409
 f1_keywords:
 - vbapj.chm132409
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Milestone
 ms.assetid: 246b3d92-43d7-850b-ab7c-8c314ca42aa9

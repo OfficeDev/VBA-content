@@ -3,7 +3,7 @@ title: Filter.ShowInMenu Property (Project)
 keywords: vbapj.chm132214
 f1_keywords:
 - vbapj.chm132214
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filter.ShowInMenu
 ms.assetid: cb5d2317-96b4-aac3-58af-16238755b37a

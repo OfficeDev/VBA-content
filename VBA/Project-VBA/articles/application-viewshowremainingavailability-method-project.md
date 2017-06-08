@@ -3,7 +3,7 @@ title: Application.ViewShowRemainingAvailability Method (Project)
 keywords: vbapj.chm929
 f1_keywords:
 - vbapj.chm929
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowRemainingAvailability
 ms.assetid: 9e76e3e1-1f50-d744-3804-70d4ce9cff33

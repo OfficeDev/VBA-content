@@ -1,6 +1,6 @@
 ---
 title: PjLayoutScheme Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjLayoutScheme
 ms.assetid: fde6b6eb-eef4-296c-032e-8b279c1bae71

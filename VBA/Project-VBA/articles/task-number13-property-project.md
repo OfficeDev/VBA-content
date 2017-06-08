@@ -1,6 +1,6 @@
 ---
 title: Task.Number13 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Number13
 ms.assetid: 7ac3594c-d07a-36c7-0adf-99bc050aa242

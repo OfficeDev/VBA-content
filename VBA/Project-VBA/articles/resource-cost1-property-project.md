@@ -1,6 +1,6 @@
 ---
 title: Resource.Cost1 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Cost1
 ms.assetid: 65d221e6-cb89-d269-a982-32dc8a41ea7d

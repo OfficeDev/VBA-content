@@ -3,7 +3,7 @@ title: Application.EditPasteSpecial Method (Project)
 keywords: vbapj.chm232
 f1_keywords:
 - vbapj.chm232
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditPasteSpecial
 ms.assetid: afbe96f1-a4f6-e879-cacc-115761f5e1c4

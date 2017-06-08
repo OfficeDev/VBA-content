@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline9BudgetWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline9BudgetWork
 ms.assetid: ba1b1070-516d-80fd-7bd4-c6baafe6453b

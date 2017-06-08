@@ -1,6 +1,6 @@
 ---
 title: PjBarSize Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjBarSize
 ms.assetid: 683c9505-2d2a-0239-d416-8918b587f70e

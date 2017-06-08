@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline3Finish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline3Finish
 ms.assetid: a52d9f03-e7f0-b1a0-69bd-cc563162bb69

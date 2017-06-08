@@ -1,6 +1,6 @@
 ---
 title: Application.LevelFreeformTasks Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelFreeformTasks
 ms.assetid: d9a9abca-0efa-ea38-3665-7f7b7ecccc9e

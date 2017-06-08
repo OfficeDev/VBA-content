@@ -1,6 +1,6 @@
 ---
 title: PjVisualReportsTemplateType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjVisualReportsTemplateType
 ms.assetid: 66c80c6d-434c-5983-45fb-48120db7a8b6

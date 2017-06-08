@@ -3,7 +3,7 @@ title: Application.EditRedo Method (Project)
 keywords: vbapj.chm200
 f1_keywords:
 - vbapj.chm200
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditRedo
 ms.assetid: 4d391a2e-cc0b-f2c6-2347-8020ada46670

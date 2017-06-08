@@ -3,7 +3,7 @@ title: Application.ZoomCalendar Method (Project)
 keywords: vbapj.chm2347
 f1_keywords:
 - vbapj.chm2347
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ZoomCalendar
 ms.assetid: fc02c827-11a0-380b-9e05-b4452246ff05

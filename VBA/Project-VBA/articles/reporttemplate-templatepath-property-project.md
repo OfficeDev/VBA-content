@@ -1,6 +1,6 @@
 ---
 title: ReportTemplate.TemplatePath Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ReportTemplate.TemplatePath
 ms.assetid: be8381a8-f19e-76f0-32c8-c85f29ba93cc

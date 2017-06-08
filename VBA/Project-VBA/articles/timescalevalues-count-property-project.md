@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValues.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValues.Count
 ms.assetid: 76ac63bf-74e1-3f1c-1089-90eb101e1147

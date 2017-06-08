@@ -3,7 +3,7 @@ title: EventInfo.Cancel Property (Project)
 keywords: vbapj.chm131085
 f1_keywords:
 - vbapj.chm131085
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.EventInfo.Cancel
 ms.assetid: 2bd3a795-9a8f-8cdb-5358-a22487610a72

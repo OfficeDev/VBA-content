@@ -3,7 +3,7 @@ title: Application.DisplayWizardUsage Property (Project)
 keywords: vbapj.chm131756
 f1_keywords:
 - vbapj.chm131756
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayWizardUsage
 ms.assetid: 3b4362ca-c748-3da8-0e1d-8d0baa1c3d69

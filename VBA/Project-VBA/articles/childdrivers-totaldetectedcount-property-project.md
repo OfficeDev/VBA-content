@@ -1,6 +1,6 @@
 ---
 title: ChildDrivers.TotalDetectedCount Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ChildDrivers.TotalDetectedCount
 ms.assetid: a87aa807-8585-e323-c34e-63b18d2bc781

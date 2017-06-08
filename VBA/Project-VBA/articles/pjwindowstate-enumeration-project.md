@@ -1,6 +1,6 @@
 ---
 title: PjWindowState Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjWindowState
 ms.assetid: e5d7bd5b-9993-7f3d-f0c3-96d299a32504

@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.Ascending Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.Ascending
 ms.assetid: 925ca236-4327-de03-d208-093f71d2f135

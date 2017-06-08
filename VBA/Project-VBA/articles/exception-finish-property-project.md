@@ -1,6 +1,6 @@
 ---
 title: Exception.Finish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Finish
 ms.assetid: 6cc70993-916e-f093-ab52-2cfdefe3d75a

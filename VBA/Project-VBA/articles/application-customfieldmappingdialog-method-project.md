@@ -3,7 +3,7 @@ title: Application.CustomFieldMappingDialog Method (Project)
 keywords: vbapj.chm2256
 f1_keywords:
 - vbapj.chm2256
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldMappingDialog
 ms.assetid: cb4bd820-04c0-7364-4fde-3a1f4534b72e

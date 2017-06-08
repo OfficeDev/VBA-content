@@ -3,7 +3,7 @@ title: Application.Tables Method (Project)
 keywords: vbapj.chm401
 f1_keywords:
 - vbapj.chm401
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Tables
 ms.assetid: ef71a3c7-9851-fe87-7189-24f821c96ea3

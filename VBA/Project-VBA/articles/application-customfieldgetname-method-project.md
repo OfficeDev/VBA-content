@@ -1,6 +1,6 @@
 ---
 title: Application.CustomFieldGetName Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldGetName
 ms.assetid: c68a6aae-7350-e4b5-318b-3d11b77847de

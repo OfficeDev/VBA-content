@@ -3,7 +3,7 @@ title: Application.DependenciesPane Method (Project)
 keywords: vbapj.chm2281
 f1_keywords:
 - vbapj.chm2281
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DependenciesPane
 ms.assetid: c4365a73-af82-7074-9a3e-51298c2dcff6

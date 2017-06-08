@@ -3,7 +3,7 @@ title: Application.CalendarWeekHeadingsEx Method (Project)
 keywords: vbapj.chm2341
 f1_keywords:
 - vbapj.chm2341
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CalendarWeekHeadingsEx
 ms.assetid: af964116-1d0e-7ab8-4674-4418c1c80f9c

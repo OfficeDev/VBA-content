@@ -1,6 +1,6 @@
 ---
 title: Task.BaselineFinish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.BaselineFinish
 ms.assetid: 3897fc3f-1fff-1350-dcd9-c4465f0cbc3c

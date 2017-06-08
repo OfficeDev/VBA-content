@@ -1,6 +1,6 @@
 ---
 title: Application.PanZoomPanTo Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PanZoomPanTo
 ms.assetid: 7bdca9f2-d006-6cab-872b-01cf54f6e8ce

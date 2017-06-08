@@ -3,7 +3,7 @@ title: Application.LevelingOptionsEx Method (Project)
 keywords: vbapj.chm2249
 f1_keywords:
 - vbapj.chm2249
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelingOptionsEx
 ms.assetid: f8799750-fecf-48d1-7559-25cd7a8d3d28

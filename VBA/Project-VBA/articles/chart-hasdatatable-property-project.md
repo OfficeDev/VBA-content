@@ -3,7 +3,7 @@ title: Chart.HasDataTable Property (Project)
 keywords: vbapj.chm131618
 f1_keywords:
 - vbapj.chm131618
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: ff2b3bb6-9508-d793-2382-29e3cbac872b
 ms.date: 06/08/2017
 ---

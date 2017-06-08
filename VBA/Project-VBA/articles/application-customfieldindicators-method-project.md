@@ -3,7 +3,7 @@ title: Application.CustomFieldIndicators Method (Project)
 keywords: vbapj.chm37
 f1_keywords:
 - vbapj.chm37
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldIndicators
 ms.assetid: afbb7bff-49fe-7e12-a257-cab4c730bfbb

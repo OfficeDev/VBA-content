@@ -1,6 +1,6 @@
 ---
 title: Group2.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Group2.Parent
 ms.assetid: fa781365-fdae-700c-a130-650343c01562

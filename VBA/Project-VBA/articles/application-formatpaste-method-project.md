@@ -3,7 +3,7 @@ title: Application.FormatPaste Method (Project)
 keywords: vbapj.chm2313
 f1_keywords:
 - vbapj.chm2313
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FormatPaste
 ms.assetid: 605d0f1d-8a4c-955b-7f82-6c84ad98fbef

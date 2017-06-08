@@ -1,6 +1,6 @@
 ---
 title: PjNewTasksStartOnDate Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjNewTasksStartOnDate
 ms.assetid: d2f48f35-3783-168e-9d54-d7287203c1b0

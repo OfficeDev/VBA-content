@@ -1,6 +1,6 @@
 ---
 title: Task.Subproject Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Subproject
 ms.assetid: da054f33-3200-e2bd-4db4-179a30958b98

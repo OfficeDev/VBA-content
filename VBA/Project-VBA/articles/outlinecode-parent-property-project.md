@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.Parent
 ms.assetid: fd9ff0b9-3f51-65c3-88cc-5a0bb9378c20

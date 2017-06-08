@@ -3,7 +3,7 @@ title: Application.GanttShowDrawings Method (Project)
 keywords: vbapj.chm2079
 f1_keywords:
 - vbapj.chm2079
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttShowDrawings
 ms.assetid: 8e18c9f0-f434-6aea-f6e6-13263011812a

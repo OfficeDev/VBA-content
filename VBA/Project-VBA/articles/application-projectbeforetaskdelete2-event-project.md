@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeTaskDelete2 Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskDelete2
 ms.assetid: 2c695579-bfe4-d109-eebc-4fb258a95c1e

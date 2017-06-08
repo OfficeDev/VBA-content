@@ -1,6 +1,6 @@
 ---
 title: Task.StartText Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.StartText
 ms.assetid: 32a19317-a16b-c64f-d21f-cdb76d182743

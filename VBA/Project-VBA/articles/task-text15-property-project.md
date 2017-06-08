@@ -1,6 +1,6 @@
 ---
 title: Task.Text15 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Text15
 ms.assetid: 060c86c8-1454-3042-ad27-cb05e609d167

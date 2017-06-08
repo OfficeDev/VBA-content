@@ -1,6 +1,6 @@
 ---
 title: Project.ProjectSummaryTask Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ProjectSummaryTask
 ms.assetid: 88603abc-e988-9ab3-dc83-c44221da13b9

@@ -1,6 +1,6 @@
 ---
 title: PjCalendarDateLabel Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCalendarDateLabel
 ms.assetid: a69c63e9-4cf7-e112-d6a7-d128174256d4

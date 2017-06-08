@@ -3,7 +3,7 @@ title: Application.FileCloseEx Method (Project)
 keywords: vbapj.chm103
 f1_keywords:
 - vbapj.chm103
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileCloseEx
 ms.assetid: 56e6eec6-6031-312b-fba5-50db7b43f0b1

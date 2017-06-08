@@ -3,7 +3,7 @@ title: LookupTableEntry.Delete Method (Project)
 keywords: vbapj.chm132389
 f1_keywords:
 - vbapj.chm132389
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTableEntry.Delete
 ms.assetid: 97a15eed-c9d9-1421-dc4e-c261e10f2614

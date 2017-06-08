@@ -1,6 +1,6 @@
 ---
 title: PjVisualReportsDataLevel Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjVisualReportsDataLevel
 ms.assetid: 56792ea8-6459-38ef-e994-95024e6d8fe9

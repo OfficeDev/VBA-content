@@ -3,7 +3,7 @@ title: Application.MacroShowCode Method (Project)
 keywords: vbapj.chm2246
 f1_keywords:
 - vbapj.chm2246
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MacroShowCode
 ms.assetid: 671c557f-0f56-a751-d7bb-37d3c2266687

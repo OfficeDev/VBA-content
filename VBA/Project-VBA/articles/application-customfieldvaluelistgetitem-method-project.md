@@ -3,7 +3,7 @@ title: Application.CustomFieldValueListGetItem Method (Project)
 keywords: vbapj.chm131200
 f1_keywords:
 - vbapj.chm131200
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldValueListGetItem
 ms.assetid: 54ab8b15-374a-3c7a-ffe6-bc90b5d4561e

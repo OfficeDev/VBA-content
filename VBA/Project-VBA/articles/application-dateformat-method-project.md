@@ -3,7 +3,7 @@ title: Application.DateFormat Method (Project)
 keywords: vbapj.chm131208
 f1_keywords:
 - vbapj.chm131208
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DateFormat
 ms.assetid: b4fc14a0-5139-b7cf-8d96-443cd23fd8ec

@@ -3,7 +3,7 @@ title: Application.ShowAssignmentUnitsAs Property (Project)
 keywords: vbapj.chm132620
 f1_keywords:
 - vbapj.chm132620
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ShowAssignmentUnitsAs
 ms.assetid: bf845895-9efe-bb95-9b60-3fdc30615ab5

@@ -1,6 +1,6 @@
 ---
 title: Resource.RemainingWork Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.RemainingWork
 ms.assetid: fe1e6503-4b6e-7b92-b907-7e12c02a4389

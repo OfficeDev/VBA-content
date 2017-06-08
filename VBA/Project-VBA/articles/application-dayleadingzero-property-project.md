@@ -1,6 +1,6 @@
 ---
 title: Application.DayLeadingZero Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DayLeadingZero
 ms.assetid: 63220c29-6f41-7a32-22bd-0afe49fef5c3

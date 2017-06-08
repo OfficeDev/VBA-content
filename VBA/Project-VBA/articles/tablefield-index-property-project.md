@@ -3,7 +3,7 @@ title: TableField.Index Property (Project)
 keywords: vbapj.chm132688
 f1_keywords:
 - vbapj.chm132688
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TableField.Index
 ms.assetid: 7580e8ed-2f4a-073c-a76e-49bb342ec34c

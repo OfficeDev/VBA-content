@@ -1,6 +1,6 @@
 ---
 title: Project.SpreadPercentCompleteToStatusDate Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.SpreadPercentCompleteToStatusDate
 ms.assetid: c1c9a8eb-8572-7bad-33b2-23157c908f60

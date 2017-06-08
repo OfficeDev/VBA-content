@@ -3,7 +3,7 @@ title: Exception Object (Project)
 keywords: vbapj.chm131287
 f1_keywords:
 - vbapj.chm131287
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception
 ms.assetid: 105372cd-2e8b-0fd0-f565-0a75c907a40a

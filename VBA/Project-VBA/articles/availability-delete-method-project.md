@@ -1,6 +1,6 @@
 ---
 title: Availability.Delete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availability.Delete
 ms.assetid: b014e345-10e8-efdd-310b-dd405143f6c6

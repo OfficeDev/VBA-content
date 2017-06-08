@@ -1,6 +1,6 @@
 ---
 title: Chart.ChartWizard Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 7626dc1f-89e1-3f18-0859-ebe2e0771de0
 ms.date: 06/08/2017
 ---

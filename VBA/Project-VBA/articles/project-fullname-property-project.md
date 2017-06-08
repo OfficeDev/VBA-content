@@ -1,6 +1,6 @@
 ---
 title: Project.FullName Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.FullName
 ms.assetid: ae8cea25-f365-d8ae-e119-929a61a9c110

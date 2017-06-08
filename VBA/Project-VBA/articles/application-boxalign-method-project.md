@@ -3,7 +3,7 @@ title: Application.BoxAlign Method (Project)
 keywords: vbapj.chm29
 f1_keywords:
 - vbapj.chm29
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxAlign
 ms.assetid: 2b27c9a0-36fa-1bbd-96e3-267b95ad5407

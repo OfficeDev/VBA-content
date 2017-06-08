@@ -1,6 +1,6 @@
 ---
 title: Resource.Text8 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text8
 ms.assetid: a247a79a-4bef-4bd1-5fa3-f3f36e367948

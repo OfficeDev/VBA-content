@@ -1,6 +1,6 @@
 ---
 title: TaskGroups2.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskGroups2.Count
 ms.assetid: 9865c194-f261-f2b3-29ff-bd399dff4bdb

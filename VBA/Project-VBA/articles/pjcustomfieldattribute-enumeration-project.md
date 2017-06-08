@@ -1,6 +1,6 @@
 ---
 title: PjCustomFieldAttribute Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCustomFieldAttribute
 ms.assetid: a9c722e8-b268-5639-ad3d-7940fed9e9f1

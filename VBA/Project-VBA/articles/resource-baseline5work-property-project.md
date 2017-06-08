@@ -1,6 +1,6 @@
 ---
 title: Resource.Baseline5Work Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Baseline5Work
 ms.assetid: 0df841e3-9c88-f252-2f30-f64f7507369a

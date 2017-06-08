@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline2Start Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Baseline2Start
 ms.assetid: e62326eb-590b-6df4-362e-3cd00220557f

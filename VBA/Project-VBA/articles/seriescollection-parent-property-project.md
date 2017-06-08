@@ -1,6 +1,6 @@
 ---
 title: SeriesCollection.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: de776459-31a9-f26a-dc66-1e169afc90fe
 ms.date: 06/08/2017
 ---

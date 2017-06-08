@@ -3,7 +3,7 @@ title: Application.BoxZoom Method (Project)
 keywords: vbapj.chm308
 f1_keywords:
 - vbapj.chm308
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxZoom
 ms.assetid: fbfae092-93b1-b72f-6b42-a498a1543e00

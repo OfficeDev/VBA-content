@@ -3,7 +3,7 @@ title: Application.CreateComparisonReport Method (Project)
 keywords: vbapj.chm2182
 f1_keywords:
 - vbapj.chm2182
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CreateComparisonReport
 ms.assetid: 55b423a7-4613-e1ba-c1b8-e790e74694e7

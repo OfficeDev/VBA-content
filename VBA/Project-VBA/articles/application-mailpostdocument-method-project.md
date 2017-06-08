@@ -3,7 +3,7 @@ title: Application.MailPostDocument Method (Project)
 keywords: vbapj.chm131
 f1_keywords:
 - vbapj.chm131
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MailPostDocument
 ms.assetid: 568d283a-3765-6371-fb2e-31624f15a0ed

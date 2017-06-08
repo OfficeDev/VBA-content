@@ -1,6 +1,6 @@
 ---
 title: PjAlignment Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjAlignment
 ms.assetid: 925376b3-c8aa-3326-5693-71dd3510f28c

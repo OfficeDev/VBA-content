@@ -1,6 +1,6 @@
 ---
 title: Calendar.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Parent
 ms.assetid: b86fa5e8-f468-862e-f8a9-7ab2cb6b43b3

@@ -3,7 +3,7 @@ title: TaskDependency.From Property (Project)
 keywords: vbapj.chm132290
 f1_keywords:
 - vbapj.chm132290
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependency.From
 ms.assetid: 76127fff-e8c0-f5b4-da5b-510a5f2222fa

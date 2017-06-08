@@ -1,6 +1,6 @@
 ---
 title: PjPublishScope Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjPublishScope
 ms.assetid: c19b90ca-a786-1e6c-8f62-e0399cd5ceed

@@ -3,7 +3,7 @@ title: Project.StatusDate Property (Project)
 keywords: vbapj.chm132611
 f1_keywords:
 - vbapj.chm132611
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.StatusDate
 ms.assetid: 3d53790c-051c-e3d1-887a-1329c8ef98a8

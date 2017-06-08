@@ -1,6 +1,6 @@
 ---
 title: OverAllocatedAssignments.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Count
 ms.assetid: 4133ea30-42c4-c8dd-21f6-bd938f1f74f6

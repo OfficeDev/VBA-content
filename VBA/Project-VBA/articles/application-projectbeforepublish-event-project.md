@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforePublish Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforePublish
 ms.assetid: 5778ec6c-a8c0-0a05-145c-c9ad6132bf87

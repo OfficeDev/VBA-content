@@ -1,6 +1,6 @@
 ---
 title: Application.FileBuildID Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileBuildID
 ms.assetid: 6fae0673-614d-6cb2-31c2-bff9eabeecc9

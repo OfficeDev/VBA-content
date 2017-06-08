@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeResourceDelete Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeResourceDelete
 ms.assetid: aadef12e-57dc-210e-d29a-54f79d1c1abd

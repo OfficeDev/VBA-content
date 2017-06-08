@@ -1,6 +1,6 @@
 ---
 title: Project.Change Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Change
 ms.assetid: ef109b59-c7be-0707-9716-13c86180c27c

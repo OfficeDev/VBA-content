@@ -1,6 +1,6 @@
 ---
 title: Calendars.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendars.Application
 ms.assetid: 8101846d-3996-8c44-12ad-ad63fc4ce094

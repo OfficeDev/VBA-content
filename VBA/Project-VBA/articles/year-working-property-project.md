@@ -1,6 +1,6 @@
 ---
 title: Year.Working Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Working
 ms.assetid: 1d3b0294-d24d-9ccd-033e-953129dacd8d

@@ -3,7 +3,7 @@ title: Application.AddResourcesFromProjectServer Method (Project)
 keywords: vbapj.chm2130
 f1_keywords:
 - vbapj.chm2130
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AddResourcesFromProjectServer
 ms.assetid: 74fe4224-0019-5daa-11ae-3bdd6f2f5abb

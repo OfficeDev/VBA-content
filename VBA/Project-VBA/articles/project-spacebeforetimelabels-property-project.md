@@ -1,6 +1,6 @@
 ---
 title: Project.SpaceBeforeTimeLabels Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.SpaceBeforeTimeLabels
 ms.assetid: fe047ed1-cff4-3f8b-9412-0cb60faadfad

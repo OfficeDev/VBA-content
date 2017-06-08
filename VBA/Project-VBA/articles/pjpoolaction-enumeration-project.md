@@ -1,6 +1,6 @@
 ---
 title: PjPoolAction Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjPoolAction
 ms.assetid: 316088e3-33b2-a010-05c8-4453ede8c360

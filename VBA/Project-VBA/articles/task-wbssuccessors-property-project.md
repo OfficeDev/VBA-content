@@ -3,7 +3,7 @@ title: Task.WBSSuccessors Property (Project)
 keywords: vbapj.chm132816
 f1_keywords:
 - vbapj.chm132816
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.WBSSuccessors
 ms.assetid: 4d435645-8437-af81-ad38-eca0c27cfd80

@@ -1,6 +1,6 @@
 ---
 title: Period.Working Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Period.Working
 ms.assetid: 0a921e9d-2143-74d0-7eb3-1c70596113bf

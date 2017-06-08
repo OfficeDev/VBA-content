@@ -3,7 +3,7 @@ title: Application.ViewEditSingle Method (Project)
 keywords: vbapj.chm303
 f1_keywords:
 - vbapj.chm303
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewEditSingle
 ms.assetid: 445977e9-e540-14b3-a179-ea132491265e

@@ -1,6 +1,6 @@
 ---
 title: PjEditionType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjEditionType
 ms.assetid: f9cc6581-8c8e-7628-3a2d-e23d7a9c9e11

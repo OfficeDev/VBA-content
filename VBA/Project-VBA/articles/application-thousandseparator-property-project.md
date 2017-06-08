@@ -1,6 +1,6 @@
 ---
 title: Application.ThousandSeparator Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ThousandSeparator
 ms.assetid: 27e0548f-2def-1aa6-6ffb-46fbeba85dca

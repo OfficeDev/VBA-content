@@ -3,7 +3,7 @@ title: Application.SetShowTaskWarnings Method (Project)
 keywords: vbapj.chm2176
 f1_keywords:
 - vbapj.chm2176
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SetShowTaskWarnings
 ms.assetid: 43ccb666-c61d-e26a-2645-9fa2cb4b3d72

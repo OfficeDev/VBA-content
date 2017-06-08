@@ -1,6 +1,6 @@
 ---
 title: PjCopyPictureScaleOption Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCopyPictureScaleOption
 ms.assetid: c9b995a6-67a4-93bb-6ed0-1a5f738db537

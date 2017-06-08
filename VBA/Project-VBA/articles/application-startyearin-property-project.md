@@ -1,6 +1,6 @@
 ---
 title: Application.StartYearIn Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.StartYearIn
 ms.assetid: 7662b30f-572d-a7a7-22d1-6a3bb6e1ea5d

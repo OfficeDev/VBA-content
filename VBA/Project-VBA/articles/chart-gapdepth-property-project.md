@@ -1,6 +1,6 @@
 ---
 title: Chart.GapDepth Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 22b3c702-6b1e-140b-13a7-04b6cd4bdab2
 ms.date: 06/08/2017
 ---

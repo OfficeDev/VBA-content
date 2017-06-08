@@ -3,7 +3,7 @@ title: Application.WebAddToFavorites Method (Project)
 keywords: vbapj.chm1314
 f1_keywords:
 - vbapj.chm1314
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebAddToFavorites
 ms.assetid: 3cf8b3e7-4dbf-8555-1662-2412e7d420b0

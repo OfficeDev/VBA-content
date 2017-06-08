@@ -3,7 +3,7 @@ title: Application.OutlineIndent Method (Project)
 keywords: vbapj.chm2019
 f1_keywords:
 - vbapj.chm2019
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OutlineIndent
 ms.assetid: 43225efc-8b41-5ab3-b646-5012fc9453f4

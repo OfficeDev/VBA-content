@@ -1,6 +1,6 @@
 ---
 title: SeriesCollection.Creator Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: d2bc1554-6ae3-7eb2-e455-fef0cf544290
 ms.date: 06/08/2017
 ---

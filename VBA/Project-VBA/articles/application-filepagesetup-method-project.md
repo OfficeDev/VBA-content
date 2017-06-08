@@ -3,7 +3,7 @@ title: Application.FilePageSetup Method (Project)
 keywords: vbapj.chm116
 f1_keywords:
 - vbapj.chm116
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilePageSetup
 ms.assetid: 441d787e-8f0d-34ab-09ee-f1e8b1fa350c

@@ -3,7 +3,7 @@ title: Application.DrawingMove Method (Project)
 keywords: vbapj.chm2311
 f1_keywords:
 - vbapj.chm2311
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DrawingMove
 ms.assetid: 0d6e2b43-a9ab-1e9d-ad89-afa01afddb50

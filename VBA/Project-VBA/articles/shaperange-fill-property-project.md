@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Fill Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 8e3ab706-8ff2-23a1-f97e-d1a1dc6d67a7
 ms.date: 06/08/2017
 ---

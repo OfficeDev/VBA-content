@@ -3,7 +3,7 @@ title: Application.CheckResourceErrors Method (Project)
 keywords: vbapj.chm2258
 f1_keywords:
 - vbapj.chm2258
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CheckResourceErrors
 ms.assetid: 780cf9c8-078b-3707-f0e4-a468432c1ced

@@ -1,6 +1,6 @@
 ---
 title: List.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.List.Item
 ms.assetid: 9dbe7805-82b7-650a-28c4-ec4d22914f66

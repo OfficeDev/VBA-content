@@ -3,7 +3,7 @@ title: Project.Open Event (Project)
 keywords: vbapj.chm131191
 f1_keywords:
 - vbapj.chm131191
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Open
 ms.assetid: ff66a69b-4190-ddef-ad39-12a3f9f85b9c

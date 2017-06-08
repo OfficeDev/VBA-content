@@ -1,6 +1,6 @@
 ---
 title: Task.Work Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Work
 ms.assetid: 749a3472-f52a-3d37-742d-9967dde3464f

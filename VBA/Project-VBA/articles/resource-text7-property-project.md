@@ -1,6 +1,6 @@
 ---
 title: Resource.Text7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text7
 ms.assetid: bf958b21-5e71-ce14-33fa-348fc7e3e55b

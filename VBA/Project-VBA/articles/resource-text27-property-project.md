@@ -1,6 +1,6 @@
 ---
 title: Resource.Text27 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Text27
 ms.assetid: d39f612b-002b-8371-ab09-cec207302af8

@@ -3,7 +3,7 @@ title: Application.Run Method (Project)
 keywords: vbapj.chm131259
 f1_keywords:
 - vbapj.chm131259
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Run
 ms.assetid: 0d4060b0-79e8-ad48-f5bf-c1050af379a2

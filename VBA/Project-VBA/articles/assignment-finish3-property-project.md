@@ -1,6 +1,6 @@
 ---
 title: Assignment.Finish3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Finish3
 ms.assetid: d76d6820-68b7-1742-1b7c-c8ab69d928cf

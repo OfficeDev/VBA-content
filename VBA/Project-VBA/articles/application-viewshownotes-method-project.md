@@ -3,7 +3,7 @@ title: Application.ViewShowNotes Method (Project)
 keywords: vbapj.chm919
 f1_keywords:
 - vbapj.chm919
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowNotes
 ms.assetid: 6721aa38-185d-4b10-abf3-d7587cd793b5

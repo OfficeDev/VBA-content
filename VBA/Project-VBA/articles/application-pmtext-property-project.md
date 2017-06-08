@@ -1,6 +1,6 @@
 ---
 title: Application.PMText Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.PMText
 ms.assetid: a52193c7-2a74-c3b8-357b-ea7637309d14

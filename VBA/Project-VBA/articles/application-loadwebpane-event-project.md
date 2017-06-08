@@ -1,6 +1,6 @@
 ---
 title: Application.LoadWebPane Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LoadWebPane
 ms.assetid: b9fefabb-3d0b-9aa7-6d3b-b8fd8000571d

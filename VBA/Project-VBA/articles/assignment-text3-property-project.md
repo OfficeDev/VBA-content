@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text3
 ms.assetid: a2121c88-a787-4118-9451-89024ebe3048

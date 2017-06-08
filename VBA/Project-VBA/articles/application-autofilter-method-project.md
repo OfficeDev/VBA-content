@@ -3,7 +3,7 @@ title: Application.AutoFilter Method (Project)
 keywords: vbapj.chm22
 f1_keywords:
 - vbapj.chm22
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AutoFilter
 ms.assetid: 391d5a61-cba3-9e28-c448-d0befcc456c7

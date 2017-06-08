@@ -3,7 +3,7 @@ title: Chart.SeriesCollection Method (Project)
 keywords: vbapj.chm131631
 f1_keywords:
 - vbapj.chm131631
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: fb4fea11-3dac-73f9-6566-6c81de0888e7
 ms.date: 06/08/2017
 ---

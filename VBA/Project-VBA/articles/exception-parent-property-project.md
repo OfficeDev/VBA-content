@@ -1,6 +1,6 @@
 ---
 title: Exception.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Parent
 ms.assetid: 9a7d596c-a288-1d68-79b6-3e1272b9a6f1

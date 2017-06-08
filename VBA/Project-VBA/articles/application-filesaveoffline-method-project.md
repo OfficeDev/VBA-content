@@ -3,7 +3,7 @@ title: Application.FileSaveOffline Method (Project)
 keywords: vbapj.chm136
 f1_keywords:
 - vbapj.chm136
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileSaveOffline
 ms.assetid: 109f95d5-be49-549f-fa39-3231207d61de

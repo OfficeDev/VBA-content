@@ -3,7 +3,7 @@ title: Application.BoxShowHideFields Method (Project)
 keywords: vbapj.chm905
 f1_keywords:
 - vbapj.chm905
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxShowHideFields
 ms.assetid: b100c012-8ab9-2e39-c8c8-569b1498c5da

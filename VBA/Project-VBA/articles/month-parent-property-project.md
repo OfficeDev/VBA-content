@@ -1,6 +1,6 @@
 ---
 title: Month.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Month.Parent
 ms.assetid: faac3164-4a07-0dfe-75e7-ad2006d350e8

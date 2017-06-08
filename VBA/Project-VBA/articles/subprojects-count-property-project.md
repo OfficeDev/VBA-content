@@ -1,6 +1,6 @@
 ---
 title: Subprojects.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Subprojects.Count
 ms.assetid: ddbbcd5b-3885-fae9-14ef-4854d9d3874f

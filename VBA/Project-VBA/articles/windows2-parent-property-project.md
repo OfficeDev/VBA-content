@@ -1,6 +1,6 @@
 ---
 title: Windows2.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Windows2.Parent
 ms.assetid: 621fc860-22c8-2c79-ba85-6372f16c7ddb

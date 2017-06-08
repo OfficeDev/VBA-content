@@ -1,6 +1,6 @@
 ---
 title: Window.Close Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Window.Close
 ms.assetid: 820f202b-d609-02e6-eff4-3368b9f93dd5

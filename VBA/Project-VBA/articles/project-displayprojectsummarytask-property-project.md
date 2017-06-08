@@ -3,7 +3,7 @@ title: Project.DisplayProjectSummaryTask Property (Project)
 keywords: vbapj.chm131748
 f1_keywords:
 - vbapj.chm131748
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DisplayProjectSummaryTask
 ms.assetid: 4b04ec4a-a050-8038-c549-bc8942fbadd6

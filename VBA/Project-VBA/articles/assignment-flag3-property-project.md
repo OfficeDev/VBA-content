@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag3
 ms.assetid: 00dbf405-bed1-60fa-8b36-e7111f0519b4

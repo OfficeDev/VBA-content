@@ -1,6 +1,6 @@
 ---
 title: Application.LevelPeriodBasis Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelPeriodBasis
 ms.assetid: 24a13a72-8a3d-e59b-d912-6847f79019e1

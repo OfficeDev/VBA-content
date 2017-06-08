@@ -3,7 +3,7 @@ title: Application.CustomizeField Method (Project)
 keywords: vbapj.chm2379
 f1_keywords:
 - vbapj.chm2379
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomizeField
 ms.assetid: e02fef90-4dc0-639e-d06e-65db997baa8e

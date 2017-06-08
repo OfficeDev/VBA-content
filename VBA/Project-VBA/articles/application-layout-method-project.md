@@ -3,7 +3,7 @@ title: Application.Layout Method (Project)
 keywords: vbapj.chm941
 f1_keywords:
 - vbapj.chm941
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Layout
 ms.assetid: 0b1aaddf-503b-37ff-f9f4-eb102a6ca885

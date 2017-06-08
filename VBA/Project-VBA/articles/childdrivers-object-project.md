@@ -1,6 +1,6 @@
 ---
 title: ChildDrivers Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 5260ab69-f81a-3466-c969-d84a2c60551e
 ms.date: 06/08/2017
 ---

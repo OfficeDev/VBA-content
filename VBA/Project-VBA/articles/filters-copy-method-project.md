@@ -3,7 +3,7 @@ title: Filters.Copy Method (Project)
 keywords: vbapj.chm132248
 f1_keywords:
 - vbapj.chm132248
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filters.Copy
 ms.assetid: e0432403-a31f-f60a-1a60-c7731809d626

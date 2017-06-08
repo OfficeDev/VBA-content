@@ -1,6 +1,6 @@
 ---
 title: Task.Deadline Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Deadline
 ms.assetid: cc682110-d8c7-77d4-8614-53fc72494d54

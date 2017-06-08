@@ -3,7 +3,7 @@ title: Application.DisplayWindowsInTaskbar Property (Project)
 keywords: vbapj.chm132825
 f1_keywords:
 - vbapj.chm132825
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayWindowsInTaskbar
 ms.assetid: f4b352f4-4b7b-a438-c29b-bc2f5b68aeb0

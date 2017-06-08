@@ -3,7 +3,7 @@ title: Assignment.Replan Method (Project)
 keywords: vbapj.chm131251
 f1_keywords:
 - vbapj.chm131251
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Replan
 ms.assetid: 29ec0102-b4e4-c9dc-d930-4f8ff4069bd6

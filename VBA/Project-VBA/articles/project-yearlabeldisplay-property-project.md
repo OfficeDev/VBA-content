@@ -3,7 +3,7 @@ title: Project.YearLabelDisplay Property (Project)
 keywords: vbapj.chm132835
 f1_keywords:
 - vbapj.chm132835
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.YearLabelDisplay
 ms.assetid: b15f8460-45cb-0383-4d70-14c506ea364a

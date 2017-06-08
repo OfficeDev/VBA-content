@@ -3,7 +3,7 @@ title: Application.OnUndoOrRedo Event (Project)
 keywords: vbapj.chm131132
 f1_keywords:
 - vbapj.chm131132
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OnUndoOrRedo
 ms.assetid: 7f60e893-81d0-1b2f-c5f5-ec1451633fa7

@@ -3,7 +3,7 @@ title: Application.ChangeStatusDate Method (Project)
 keywords: vbapj.chm2181
 f1_keywords:
 - vbapj.chm2181
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ChangeStatusDate
 ms.assetid: 93635ef2-43c2-7cfd-5869-f8270a95a0ea

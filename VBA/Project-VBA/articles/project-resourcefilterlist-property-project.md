@@ -1,6 +1,6 @@
 ---
 title: Project.ResourceFilterList Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ResourceFilterList
 ms.assetid: d515691a-2f8c-ed61-4844-3a938c658847

@@ -3,7 +3,7 @@ title: Application.UpdateFromProjectServer Method (Project)
 keywords: vbapj.chm131263
 f1_keywords:
 - vbapj.chm131263
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.UpdateFromProjectServer
 ms.assetid: f37bb573-2d25-b4f9-21ba-109db75962f6

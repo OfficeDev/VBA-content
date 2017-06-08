@@ -1,6 +1,6 @@
 ---
 title: Resource.Notes Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Notes
 ms.assetid: 63916a17-8ac0-e921-a29f-4d315c6cbc79

@@ -3,7 +3,7 @@ title: TaskDependency.Lag Property (Project)
 keywords: vbapj.chm132365
 f1_keywords:
 - vbapj.chm132365
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependency.Lag
 ms.assetid: d3370ea3-5485-24d5-e363-ec4b5a0ec95b

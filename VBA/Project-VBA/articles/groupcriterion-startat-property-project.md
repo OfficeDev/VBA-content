@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.StartAt Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion.StartAt
 ms.assetid: 27fa5bdb-c9a5-601f-ad0a-6bb50429fd28

@@ -1,6 +1,6 @@
 ---
 title: Calendar.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Index
 ms.assetid: ad177421-1e7b-5c85-e437-f3d2b83a66c5

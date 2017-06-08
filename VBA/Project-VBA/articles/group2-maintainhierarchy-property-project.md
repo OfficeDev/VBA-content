@@ -3,7 +3,7 @@ title: Group2.MaintainHierarchy Property (Project)
 keywords: vbapj.chm132400
 f1_keywords:
 - vbapj.chm132400
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Group2.MaintainHierarchy
 ms.assetid: 47706f83-abd6-dd6b-0dff-41e260cf1107

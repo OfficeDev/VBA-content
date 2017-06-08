@@ -1,6 +1,6 @@
 ---
 title: Windows2.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Windows2.Count
 ms.assetid: dc11d58b-71bb-24bf-888c-93877f2b6527

@@ -1,6 +1,6 @@
 ---
 title: Task.Confirmed Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Confirmed
 ms.assetid: 1ffc0ed6-7787-d0b8-068c-70c92e5a4c99

@@ -3,7 +3,7 @@ title: Application.TimelineExport Method (Project)
 keywords: vbapj.chm66
 f1_keywords:
 - vbapj.chm66
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TimelineExport
 ms.assetid: a2829e86-5b83-0076-33a3-4c10040ffc17

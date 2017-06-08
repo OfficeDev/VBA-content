@@ -3,7 +3,7 @@ title: Application.TaskOnTimeline Method (Project)
 keywords: vbapj.chm60
 f1_keywords:
 - vbapj.chm60
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskOnTimeline
 ms.assetid: 8201380b-f0ae-4e53-7461-e323ad6fe5e2

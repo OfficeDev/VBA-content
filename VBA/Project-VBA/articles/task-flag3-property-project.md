@@ -1,6 +1,6 @@
 ---
 title: Task.Flag3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Flag3
 ms.assetid: 94da8958-027a-8ea3-88fd-03d901297bc8

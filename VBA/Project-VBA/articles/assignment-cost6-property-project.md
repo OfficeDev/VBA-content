@@ -1,6 +1,6 @@
 ---
 title: Assignment.Cost6 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Cost6
 ms.assetid: d0ad1074-caf9-c160-042b-2bca5ea220e4

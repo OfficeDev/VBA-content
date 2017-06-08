@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Select Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 41e923f7-a34f-d79a-e05c-55c8d0129ed5
 ms.date: 06/08/2017
 ---

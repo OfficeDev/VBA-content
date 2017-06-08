@@ -1,6 +1,6 @@
 ---
 title: Task.PathSuccessor Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 827bf575-d93b-9959-c664-625c0e199699
 ms.date: 06/08/2017
 ---

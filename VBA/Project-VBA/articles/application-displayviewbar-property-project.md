@@ -1,6 +1,6 @@
 ---
 title: Application.DisplayViewBar Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayViewBar
 ms.assetid: e097b5ef-9d87-a55b-719b-3c31c6000b05

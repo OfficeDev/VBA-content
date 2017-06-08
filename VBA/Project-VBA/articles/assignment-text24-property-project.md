@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text24 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text24
 ms.assetid: 0cb73f81-293b-4281-19fa-022d0af71609

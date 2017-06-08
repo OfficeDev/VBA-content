@@ -1,6 +1,6 @@
 ---
 title: PjDocExportType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjDocExportType
 ms.assetid: c8455b20-20d9-b4d0-b211-09d3b8a00553

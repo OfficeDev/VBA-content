@@ -3,7 +3,7 @@ title: Application.Redo Method (Project)
 keywords: vbapj.chm132540
 f1_keywords:
 - vbapj.chm132540
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Redo
 ms.assetid: 25a43bd7-4bfd-2be6-172d-8e5bef781f00

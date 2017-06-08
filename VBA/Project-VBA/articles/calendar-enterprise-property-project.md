@@ -1,6 +1,6 @@
 ---
 title: Calendar.Enterprise Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Enterprise
 ms.assetid: 1e160265-1c49-e95d-f04e-e87ce0222f85

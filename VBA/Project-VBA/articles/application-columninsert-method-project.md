@@ -3,7 +3,7 @@ title: Application.ColumnInsert Method (Project)
 keywords: vbapj.chm228
 f1_keywords:
 - vbapj.chm228
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ColumnInsert
 ms.assetid: 5dfa6b58-7d13-4a96-fdea-8cbe95af52eb

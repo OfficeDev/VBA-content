@@ -3,7 +3,7 @@ title: Application.AppMinimize Method (Project)
 keywords: vbapj.chm2009
 f1_keywords:
 - vbapj.chm2009
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AppMinimize
 ms.assetid: 3794f51b-783e-0efa-7bdc-333f2964cf1f

@@ -3,7 +3,7 @@ title: Application.Zoom Method (Project)
 keywords: vbapj.chm306
 f1_keywords:
 - vbapj.chm306
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Zoom
 ms.assetid: 0ac9b17a-6791-31a2-11d4-6d97ade57989

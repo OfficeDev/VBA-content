@@ -1,6 +1,6 @@
 ---
 title: Task.Duration1Estimated Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Duration1Estimated
 ms.assetid: 0cc3bf08-1723-3154-1831-a74e0e6b9273

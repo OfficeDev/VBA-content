@@ -1,6 +1,6 @@
 ---
 title: CostRateTable Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CostRateTable
 ms.assetid: ca514e06-3542-00f1-5221-a609378d2392

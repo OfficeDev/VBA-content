@@ -1,6 +1,6 @@
 ---
 title: Project.ProjectFinish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ProjectFinish
 ms.assetid: ff56a629-5a83-0a13-6312-b91803b30d53

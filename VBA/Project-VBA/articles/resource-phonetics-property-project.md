@@ -1,6 +1,6 @@
 ---
 title: Resource.Phonetics Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Phonetics
 ms.assetid: 9388a047-6c4a-d97f-9aaf-0d264b36da31

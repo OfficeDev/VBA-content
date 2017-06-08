@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeClearBaseline Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeClearBaseline
 ms.assetid: 4aa11658-7962-a46f-c914-5ed3bebd15a3

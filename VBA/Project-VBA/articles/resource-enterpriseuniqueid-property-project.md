@@ -3,7 +3,7 @@ title: Resource.EnterpriseUniqueID Property (Project)
 keywords: vbapj.chm132200
 f1_keywords:
 - vbapj.chm132200
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.EnterpriseUniqueID
 ms.assetid: ad5bdf09-a1e0-c9fd-c3ae-ba1639177a95

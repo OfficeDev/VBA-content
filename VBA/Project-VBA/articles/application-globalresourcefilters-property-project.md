@@ -3,7 +3,7 @@ title: Application.GlobalResourceFilters Property (Project)
 keywords: vbapj.chm132296
 f1_keywords:
 - vbapj.chm132296
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GlobalResourceFilters
 ms.assetid: d3cd1f3f-7d46-612f-eaa1-3b3528ca4ab6

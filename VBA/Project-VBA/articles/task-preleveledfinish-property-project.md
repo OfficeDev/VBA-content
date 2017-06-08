@@ -1,6 +1,6 @@
 ---
 title: Task.PreleveledFinish Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.PreleveledFinish
 ms.assetid: edcb110a-41b7-c2ad-0382-d88cf5f3708c

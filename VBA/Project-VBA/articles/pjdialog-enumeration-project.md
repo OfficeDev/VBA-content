@@ -1,6 +1,6 @@
 ---
 title: PjDialog Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjDialog
 ms.assetid: c99b2a86-bd44-0a2c-1e26-db1241184845

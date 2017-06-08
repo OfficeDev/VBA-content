@@ -3,7 +3,7 @@ title: Project.TaskViewList Property (Project)
 keywords: vbapj.chm132716
 f1_keywords:
 - vbapj.chm132716
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.TaskViewList
 ms.assetid: 86d408a2-ed60-fde0-8849-17167d71f6d6

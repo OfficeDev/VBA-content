@@ -3,7 +3,7 @@ title: Project.MakeServerURLTrusted Method (Project)
 keywords: vbapj.chm132401
 f1_keywords:
 - vbapj.chm132401
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.MakeServerURLTrusted
 ms.assetid: 8ef5ae1c-f22f-325c-07a9-253e64c62cb0

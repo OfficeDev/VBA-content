@@ -1,6 +1,6 @@
 ---
 title: PjBarType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjBarType
 ms.assetid: abc6a0b2-90bd-48d4-283a-a53618856692

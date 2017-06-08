@@ -3,7 +3,7 @@ title: Application.DrawingReshape Method (Project)
 keywords: vbapj.chm2314
 f1_keywords:
 - vbapj.chm2314
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DrawingReshape
 ms.assetid: b9fe0b7c-4112-92fd-d66b-3ebe64e75b8d

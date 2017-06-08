@@ -1,6 +1,6 @@
 ---
 title: Availability.AvailableFrom Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availability.AvailableFrom
 ms.assetid: 114a1c41-8866-f479-ef08-e099cf7a9968

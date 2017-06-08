@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.CellColorEx Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.CellColorEx
 ms.assetid: 7078cdff-c17b-8e56-f667-04e467b54d62

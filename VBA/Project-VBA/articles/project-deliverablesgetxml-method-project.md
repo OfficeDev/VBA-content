@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverablesGetXml Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DeliverablesGetXml
 ms.assetid: 155eee50-7d34-c99e-7a80-6f39eec0bd14

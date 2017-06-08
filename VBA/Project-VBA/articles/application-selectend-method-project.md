@@ -3,7 +3,7 @@ title: Application.SelectEnd Method (Project)
 keywords: vbapj.chm2042
 f1_keywords:
 - vbapj.chm2042
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectEnd
 ms.assetid: c1d050e7-739d-8a4f-01da-b8c093836733

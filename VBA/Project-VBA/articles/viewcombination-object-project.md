@@ -1,6 +1,6 @@
 ---
 title: ViewCombination Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewCombination
 ms.assetid: 34e4559a-5eb4-02be-8ad6-bdd3839d91db

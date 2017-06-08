@@ -1,6 +1,6 @@
 ---
 title: SplitParts.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.SplitParts.Item
 ms.assetid: bcf77c2b-0203-aa76-6323-f5f996376181

@@ -1,6 +1,6 @@
 ---
 title: Task.LinkPredecessors Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.LinkPredecessors
 ms.assetid: 6aaf3dfc-3f8c-a7a7-9f7f-59bd1d5a50b3

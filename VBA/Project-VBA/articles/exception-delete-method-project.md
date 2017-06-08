@@ -1,6 +1,6 @@
 ---
 title: Exception.Delete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.Delete
 ms.assetid: 0e311cea-411b-9600-1970-b5a4dccf0e5a

@@ -3,7 +3,7 @@ title: Application.SidepaneToggle Method (Project)
 keywords: vbapj.chm52
 f1_keywords:
 - vbapj.chm52
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SidepaneToggle
 ms.assetid: 882c9bef-f150-7128-a506-388dbe39558d

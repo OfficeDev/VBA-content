@@ -1,6 +1,6 @@
 ---
 title: PayRate.StandardRate Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PayRate.StandardRate
 ms.assetid: ad4d498b-2a64-d821-cf93-4d5fefda6da8

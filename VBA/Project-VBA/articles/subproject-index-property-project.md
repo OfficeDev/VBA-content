@@ -1,6 +1,6 @@
 ---
 title: Subproject.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Subproject.Index
 ms.assetid: 90cb228c-e757-3826-7735-5ff169477171

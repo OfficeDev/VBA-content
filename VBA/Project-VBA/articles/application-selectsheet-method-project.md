@@ -3,7 +3,7 @@ title: Application.SelectSheet Method (Project)
 keywords: vbapj.chm2067
 f1_keywords:
 - vbapj.chm2067
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectSheet
 ms.assetid: 7e156dbf-20c7-7cbd-5f3d-57ca5d241ba5

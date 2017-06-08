@@ -1,6 +1,6 @@
 ---
 title: Task.Status Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Status
 ms.assetid: 4ea3a033-2306-8ae1-4e5e-c0420dcfa3dc

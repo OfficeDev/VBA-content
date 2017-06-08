@@ -1,6 +1,6 @@
 ---
 title: Task.DeliverableStart Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.DeliverableStart
 ms.assetid: 8d5df8de-e564-78c5-c2f0-d7096dc35b32

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Number1 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Number1
 ms.assetid: 5cfe0434-a7ef-2f5d-ed61-6262e475288c

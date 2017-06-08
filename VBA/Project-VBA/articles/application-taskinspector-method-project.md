@@ -3,7 +3,7 @@ title: Application.TaskInspector Method (Project)
 keywords: vbapj.chm1515
 f1_keywords:
 - vbapj.chm1515
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskInspector
 ms.assetid: cc2f34af-a4e0-8ad4-5dd1-9cf9663e342b

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag10 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag10
 ms.assetid: 204a3d12-fb71-2277-c613-f9427402dff1

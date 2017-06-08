@@ -1,6 +1,6 @@
 ---
 title: PjTaskTimescaledData Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjTaskTimescaledData
 ms.assetid: ece1e216-a43b-4d62-f866-83937f7a493a

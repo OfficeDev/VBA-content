@@ -1,6 +1,6 @@
 ---
 title: Shift.Start Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Shift.Start
 ms.assetid: 0e5232a0-a056-8933-a9cc-87c516784302

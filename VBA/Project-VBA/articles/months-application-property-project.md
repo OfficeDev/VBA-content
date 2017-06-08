@@ -1,6 +1,6 @@
 ---
 title: Months.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Months.Application
 ms.assetid: 3dfde702-132c-3134-9586-25d1ba2f867a

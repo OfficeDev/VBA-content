@@ -3,7 +3,7 @@ title: Application.DurationFormat Method (Project)
 keywords: vbapj.chm131212
 f1_keywords:
 - vbapj.chm131212
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DurationFormat
 ms.assetid: 37970edc-c6f9-66b7-7c0d-b22beb8a36c1

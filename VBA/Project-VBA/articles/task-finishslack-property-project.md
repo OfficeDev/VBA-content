@@ -3,7 +3,7 @@ title: Task.FinishSlack Property (Project)
 keywords: vbapj.chm132228
 f1_keywords:
 - vbapj.chm132228
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.FinishSlack
 ms.assetid: 478b5cc7-0075-0876-1811-55cde2973463

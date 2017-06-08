@@ -1,6 +1,6 @@
 ---
 title: Years.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Years.Count
 ms.assetid: 6a65ff7b-55ca-31e0-0edd-c2f75cb9fc74

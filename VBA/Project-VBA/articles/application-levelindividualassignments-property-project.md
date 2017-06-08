@@ -1,6 +1,6 @@
 ---
 title: Application.LevelIndividualAssignments Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelIndividualAssignments
 ms.assetid: 7ce1ac1a-3dd5-be72-f410-7ff173b1c280

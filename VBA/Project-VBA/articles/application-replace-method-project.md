@@ -3,7 +3,7 @@ title: Application.Replace Method (Project)
 keywords: vbapj.chm241
 f1_keywords:
 - vbapj.chm241
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Replace
 ms.assetid: fd1c66ba-c611-ec97-ebb9-92ff0739c719

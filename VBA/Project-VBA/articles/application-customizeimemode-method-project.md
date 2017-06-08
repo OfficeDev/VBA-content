@@ -3,7 +3,7 @@ title: Application.CustomizeIMEMode Method (Project)
 keywords: vbapj.chm254
 f1_keywords:
 - vbapj.chm254
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomizeIMEMode
 ms.assetid: 1e6cae3d-7b06-327a-4db1-8b4416d703ee

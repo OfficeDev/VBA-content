@@ -1,6 +1,6 @@
 ---
 title: PjCopyPictureRows Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCopyPictureRows
 ms.assetid: 0f23afa0-2a38-d529-4cdb-92b1196b7a76

@@ -1,6 +1,6 @@
 ---
 title: Task.BaselineDurationText Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.BaselineDurationText
 ms.assetid: 87307d59-3307-1ee1-82f3-87840d1b4e7a

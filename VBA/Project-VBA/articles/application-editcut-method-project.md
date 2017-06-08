@@ -3,7 +3,7 @@ title: Application.EditCut Method (Project)
 keywords: vbapj.chm202
 f1_keywords:
 - vbapj.chm202
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditCut
 ms.assetid: 63b43184-4dcf-d863-87a9-af93c54d4001

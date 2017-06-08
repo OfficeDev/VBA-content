@@ -3,7 +3,7 @@ title: Application.SelectRow Method (Project)
 keywords: vbapj.chm2045
 f1_keywords:
 - vbapj.chm2045
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectRow
 ms.assetid: 63d31b23-3edb-9cd9-16c5-ac4ca4555a2c

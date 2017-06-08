@@ -3,7 +3,7 @@ title: Application.CheckField Method (Project)
 keywords: vbapj.chm7
 f1_keywords:
 - vbapj.chm7
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CheckField
 ms.assetid: a3360541-faa7-169e-1b23-5b3937fc6c07

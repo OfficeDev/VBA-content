@@ -3,7 +3,7 @@ title: ViewsSingle.Add Method (Project)
 keywords: vbapj.chm132759
 f1_keywords:
 - vbapj.chm132759
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewsSingle.Add
 ms.assetid: 509103f7-6301-0880-75eb-590141179caf

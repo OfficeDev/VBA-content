@@ -3,7 +3,7 @@ title: Task.ResourceNames Property (Project)
 keywords: vbapj.chm132571
 f1_keywords:
 - vbapj.chm132571
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.ResourceNames
 ms.assetid: 0c933d60-42bf-ece6-fa37-da5181a56944

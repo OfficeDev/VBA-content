@@ -1,6 +1,6 @@
 ---
 title: Chart.CopyPicture Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 4353ddb2-51f0-a1a4-a472-ec8bbc83b146
 ms.date: 06/08/2017
 ---

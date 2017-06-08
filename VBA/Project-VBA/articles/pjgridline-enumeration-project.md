@@ -1,6 +1,6 @@
 ---
 title: PjGridline Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjGridline
 ms.assetid: 0cfe14fe-422a-416a-3dac-93a954bb188b

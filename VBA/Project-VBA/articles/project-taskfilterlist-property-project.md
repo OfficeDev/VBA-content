@@ -1,6 +1,6 @@
 ---
 title: Project.TaskFilterList Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.TaskFilterList
 ms.assetid: 303b49c8-cfc3-f4d6-197a-a4dfc130ee85

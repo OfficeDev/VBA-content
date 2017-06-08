@@ -3,7 +3,7 @@ title: Application.CleanupCache Method (Project)
 keywords: vbapj.chm2277
 f1_keywords:
 - vbapj.chm2277
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CleanupCache
 ms.assetid: cabd3c0b-b4d0-65ee-0fbd-8be2bde3e170

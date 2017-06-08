@@ -3,7 +3,7 @@ title: Application.EnterpriseProjectImportWizard Method (Project)
 keywords: vbapj.chm2248
 f1_keywords:
 - vbapj.chm2248
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseProjectImportWizard
 ms.assetid: 0666657f-4352-d7d3-5651-88dc584ea917

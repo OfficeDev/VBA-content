@@ -1,6 +1,6 @@
 ---
 title: Application.ScreenUpdating Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ScreenUpdating
 ms.assetid: 23260017-c550-4f2b-a57f-4d7f7c1c0d52

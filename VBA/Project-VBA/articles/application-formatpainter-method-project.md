@@ -3,7 +3,7 @@ title: Application.FormatPainter Method (Project)
 keywords: vbapj.chm2333
 f1_keywords:
 - vbapj.chm2333
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FormatPainter
 ms.assetid: fb2e2fa1-2e14-26ea-6057-583871e4b170

@@ -1,6 +1,6 @@
 ---
 title: Task.WBS Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.WBS
 ms.assetid: 21268405-15da-f12f-2beb-a8e757ed5752

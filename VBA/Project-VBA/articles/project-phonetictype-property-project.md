@@ -3,7 +3,7 @@ title: Project.PhoneticType Property (Project)
 keywords: vbapj.chm132499
 f1_keywords:
 - vbapj.chm132499
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.PhoneticType
 ms.assetid: d959bb6c-9efa-2b4c-594a-1b9294460770

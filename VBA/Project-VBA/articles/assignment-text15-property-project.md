@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text15 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Text15
 ms.assetid: 98f6ac6f-c443-e7b7-cdaa-e6ddb1046623

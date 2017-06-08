@@ -3,7 +3,7 @@ title: Application.TaskMoveToStatusDate Method (Project)
 keywords: vbapj.chm2290
 f1_keywords:
 - vbapj.chm2290
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskMoveToStatusDate
 ms.assetid: 100ec970-ca52-2ac8-f367-c346c40e4c61

@@ -1,6 +1,6 @@
 ---
 title: Profile.Delete Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Profile.Delete
 ms.assetid: 61c3e2a8-2efd-36d7-2619-acbb7a055162

@@ -1,6 +1,6 @@
 ---
 title: Resource.ResponsePending Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.ResponsePending
 ms.assetid: dd9dc413-7969-9422-66dd-4876e8c47e10

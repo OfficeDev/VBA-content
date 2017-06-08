@@ -3,7 +3,7 @@ title: Table.Name Property (Project)
 keywords: vbapj.chm132695
 f1_keywords:
 - vbapj.chm132695
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.Name
 ms.assetid: d4b65bdb-9129-1025-f89b-370a68b166eb

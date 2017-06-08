@@ -3,7 +3,7 @@ title: Application.ProjectMove Method (Project)
 keywords: vbapj.chm2291
 f1_keywords:
 - vbapj.chm2291
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectMove
 ms.assetid: ba30bd12-a26a-12e5-8cff-df1a34a58df0

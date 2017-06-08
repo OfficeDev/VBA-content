@@ -1,6 +1,6 @@
 ---
 title: TaskDependency.LagType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependency.LagType
 ms.assetid: 0c055a94-ea5f-1267-0b61-d3a50c6bc9b4

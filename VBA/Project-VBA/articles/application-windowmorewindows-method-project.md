@@ -3,7 +3,7 @@ title: Application.WindowMoreWindows Method (Project)
 keywords: vbapj.chm706
 f1_keywords:
 - vbapj.chm706
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowMoreWindows
 ms.assetid: 66c50a0c-624d-485b-d6c8-3046643dcb36

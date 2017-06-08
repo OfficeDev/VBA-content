@@ -1,6 +1,6 @@
 ---
 title: Resource.ErrorMessage Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.ErrorMessage
 ms.assetid: cb78732f-8c9c-df97-b6bc-c4eb52f4bf16

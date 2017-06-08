@@ -3,7 +3,7 @@ title: Application.CustomFieldSetFormula Method (Project)
 keywords: vbapj.chm36
 f1_keywords:
 - vbapj.chm36
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldSetFormula
 ms.assetid: d6d5a5d5-c948-07c9-3f5e-b4607df6538c

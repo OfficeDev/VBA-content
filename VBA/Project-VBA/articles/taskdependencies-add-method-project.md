@@ -1,6 +1,6 @@
 ---
 title: TaskDependencies.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TaskDependencies.Add
 ms.assetid: 37e67ab2-ca7b-26c2-50e7-8a933b746489

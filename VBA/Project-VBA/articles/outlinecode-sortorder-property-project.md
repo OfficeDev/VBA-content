@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.SortOrder Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.SortOrder
 ms.assetid: 5b6014e3-6787-9b32-0446-04415c2f8c87

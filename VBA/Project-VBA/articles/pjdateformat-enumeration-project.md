@@ -1,6 +1,6 @@
 ---
 title: PjDateFormat Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjDateFormat
 ms.assetid: d6bae7cd-4be0-b4eb-bbb1-5d82d7120bb2

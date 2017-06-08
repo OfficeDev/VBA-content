@@ -3,7 +3,7 @@ title: Application.BoxStylesEditEx Method (Project)
 keywords: vbapj.chm2154
 f1_keywords:
 - vbapj.chm2154
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BoxStylesEditEx
 ms.assetid: 8a473e08-7893-6871-d015-23e1791e67e3

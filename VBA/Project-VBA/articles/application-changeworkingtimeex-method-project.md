@@ -3,7 +3,7 @@ title: Application.ChangeWorkingTimeEx Method (Project)
 keywords: vbapj.chm625
 f1_keywords:
 - vbapj.chm625
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ChangeWorkingTimeEx
 ms.assetid: 4608fdab-0b39-9918-522a-71d502ba7e3a

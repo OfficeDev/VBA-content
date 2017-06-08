@@ -3,7 +3,7 @@ title: Application.GlobalTaskTables Property (Project)
 keywords: vbapj.chm132299
 f1_keywords:
 - vbapj.chm132299
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GlobalTaskTables
 ms.assetid: 5ca768b2-2e0f-6889-a300-8e81130ba798

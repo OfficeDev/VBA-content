@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValues.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TimeScaleValues.Add
 ms.assetid: 083ef154-31ce-55ec-793a-0627c1eff211

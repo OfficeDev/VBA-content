@@ -3,7 +3,7 @@ title: Project.CurrentFilter Property (Project)
 keywords: vbapj.chm131700
 f1_keywords:
 - vbapj.chm131700
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CurrentFilter
 ms.assetid: b97e43ac-2167-80f0-bf5e-609a08f42fd9

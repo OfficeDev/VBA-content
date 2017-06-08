@@ -3,7 +3,7 @@ title: Table.Delete Method (Project)
 keywords: vbapj.chm132682
 f1_keywords:
 - vbapj.chm132682
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.Delete
 ms.assetid: 9a85b66b-5124-529c-84b6-306789cb6986

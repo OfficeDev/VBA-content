@@ -1,6 +1,6 @@
 ---
 title: Application.DisplayOLEIndicator Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayOLEIndicator
 ms.assetid: 85d58ecf-69eb-a1c4-c5a2-6499bfa56e22

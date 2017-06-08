@@ -1,6 +1,6 @@
 ---
 title: Task.Cost4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Cost4
 ms.assetid: a0e9be53-6139-b4d1-3073-799e4c20b7cf

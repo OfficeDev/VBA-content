@@ -3,7 +3,7 @@ title: Application.SidepaneTaskChange Method (Project)
 keywords: vbapj.chm53
 f1_keywords:
 - vbapj.chm53
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SidepaneTaskChange
 ms.assetid: 277a9242-b098-8f69-44b8-668175867b42

@@ -1,6 +1,6 @@
 ---
 title: Resource.Number3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Number3
 ms.assetid: 18520cea-8946-f83f-015f-f17a27d84fc4

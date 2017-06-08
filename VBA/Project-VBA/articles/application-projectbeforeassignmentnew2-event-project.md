@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeAssignmentNew2 Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentNew2
 ms.assetid: 9e2f3358-325e-53b9-3da6-5323482e2a47

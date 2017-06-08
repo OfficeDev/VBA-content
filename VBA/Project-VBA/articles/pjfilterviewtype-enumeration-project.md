@@ -1,6 +1,6 @@
 ---
 title: PjFilterViewType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjFilterViewType
 ms.assetid: 07a8673c-cfe4-38bd-2827-460ed9b2026d

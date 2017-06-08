@@ -3,7 +3,7 @@ title: Project.HideCheckoutMsgBar Method (Project)
 keywords: vbapj.chm131099
 f1_keywords:
 - vbapj.chm131099
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 2a62080f-1e23-dda5-346f-4b0194173190
 ms.date: 06/08/2017
 ---

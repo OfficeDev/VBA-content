@@ -3,7 +3,7 @@ title: Task.EffortDriven Property (Project)
 keywords: vbapj.chm131791
 f1_keywords:
 - vbapj.chm131791
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.EffortDriven
 ms.assetid: 9c17e4b9-258e-6929-6b35-de0dfa7687c2

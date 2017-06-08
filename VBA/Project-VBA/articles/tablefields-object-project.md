@@ -1,6 +1,6 @@
 ---
 title: TableFields Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 1698bb53-f618-cd1a-a191-702f174ff279
 ms.date: 06/08/2017
 ---

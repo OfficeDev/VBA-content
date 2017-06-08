@@ -1,6 +1,6 @@
 ---
 title: StartDriver.PredecessorDrivers Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.StartDriver.PredecessorDrivers
 ms.assetid: 5994a52a-7a60-4710-2c84-c1e982783579

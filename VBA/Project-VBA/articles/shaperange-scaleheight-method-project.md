@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.ScaleHeight Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 5f6f353d-6045-2a50-3a55-b0c380dafd2d
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Project.CurrentView Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.CurrentView
 ms.assetid: 002fc584-511e-0554-65f0-65dfd6b3dccb

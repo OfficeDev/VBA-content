@@ -3,7 +3,7 @@ title: Application.Gridlines Method (Project)
 keywords: vbapj.chm912
 f1_keywords:
 - vbapj.chm912
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Gridlines
 ms.assetid: 36252fa9-e0de-f221-58fb-871c1ddb2f77

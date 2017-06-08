@@ -1,6 +1,6 @@
 ---
 title: Period.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Period.Parent
 ms.assetid: 79fb5f07-f9d0-534d-32cf-e44e26fa4007

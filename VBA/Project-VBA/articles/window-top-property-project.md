@@ -1,6 +1,6 @@
 ---
 title: Window.Top Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Window.Top
 ms.assetid: 60aca1d3-5ca5-093f-7828-39974300257f

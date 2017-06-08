@@ -2,6 +2,7 @@
 title: Engagement.ResourceID Property (Project)
 ms.assetid: 11a1cb67-e799-5dbb-8361-8668a991eaee
 ms.date: 06/08/2017
+ms.prod: project-server
 ---
 
 

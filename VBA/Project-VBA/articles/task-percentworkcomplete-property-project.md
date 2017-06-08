@@ -1,6 +1,6 @@
 ---
 title: Task.PercentWorkComplete Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.PercentWorkComplete
 ms.assetid: f1b1dc5e-843c-ca0f-72f1-f8d7cdf6edab

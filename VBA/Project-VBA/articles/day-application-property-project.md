@@ -1,6 +1,6 @@
 ---
 title: Day.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Day.Application
 ms.assetid: 36e4200f-075e-bc3f-9c6e-05d43babfa9c

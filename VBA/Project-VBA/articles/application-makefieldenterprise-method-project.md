@@ -3,7 +3,7 @@ title: Application.MakeFieldEnterprise Method (Project)
 keywords: vbapj.chm2275
 f1_keywords:
 - vbapj.chm2275
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MakeFieldEnterprise
 ms.assetid: ba9564c9-faa6-bce6-0d59-05dee0cfc887

@@ -3,7 +3,7 @@ title: Application.CustomForms Method (Project)
 keywords: vbapj.chm1003
 f1_keywords:
 - vbapj.chm1003
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomForms
 ms.assetid: 392bdcf3-59af-cfa4-c14f-a5d7a6f07495

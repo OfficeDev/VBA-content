@@ -3,7 +3,7 @@ title: Application.ViewShowWorkAvailability Method (Project)
 keywords: vbapj.chm930
 f1_keywords:
 - vbapj.chm930
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewShowWorkAvailability
 ms.assetid: 909fbc1a-fe49-8121-c103-e287d10a49fa

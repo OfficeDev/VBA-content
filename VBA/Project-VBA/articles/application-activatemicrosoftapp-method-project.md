@@ -3,7 +3,7 @@ title: Application.ActivateMicrosoftApp Method (Project)
 keywords: vbapj.chm131193
 f1_keywords:
 - vbapj.chm131193
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ActivateMicrosoftApp
 ms.assetid: a9b59db3-7ad2-8674-9026-090e161ef983

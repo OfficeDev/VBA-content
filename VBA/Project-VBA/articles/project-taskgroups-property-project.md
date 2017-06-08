@@ -1,6 +1,6 @@
 ---
 title: Project.TaskGroups Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.TaskGroups
 ms.assetid: fca3e169-396b-714d-8710-f54d8f777aeb

@@ -3,7 +3,7 @@ title: Application.OptionsSpelling Method (Project)
 keywords: vbapj.chm614
 f1_keywords:
 - vbapj.chm614
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OptionsSpelling
 ms.assetid: e0085f68-a57d-c117-cc81-ad11f363c5f4

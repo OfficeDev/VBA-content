@@ -3,7 +3,7 @@ title: Application.EditCopyPicture Method (Project)
 keywords: vbapj.chm204
 f1_keywords:
 - vbapj.chm204
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EditCopyPicture
 ms.assetid: 03f6306b-3538-9a34-dbc3-4ff2f7f40b1e

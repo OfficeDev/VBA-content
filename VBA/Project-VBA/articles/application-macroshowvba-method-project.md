@@ -3,7 +3,7 @@ title: Application.MacroShowVba Method (Project)
 keywords: vbapj.chm2245
 f1_keywords:
 - vbapj.chm2245
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.MacroShowVba
 ms.assetid: f585dbe3-0f3a-2552-0770-c395072b6aad

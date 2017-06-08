@@ -1,6 +1,6 @@
 ---
 title: Project.RemoveFileProperties Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.RemoveFileProperties
 ms.assetid: 7aff624c-e9c9-f526-b233-fe0cc415e901

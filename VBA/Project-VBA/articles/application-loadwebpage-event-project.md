@@ -1,6 +1,6 @@
 ---
 title: Application.LoadWebPage Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LoadWebPage
 ms.assetid: 393115c4-6245-3a1a-3c98-a5ddc1416aa0

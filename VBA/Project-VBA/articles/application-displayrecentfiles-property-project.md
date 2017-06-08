@@ -1,6 +1,6 @@
 ---
 title: Application.DisplayRecentFiles Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DisplayRecentFiles
 ms.assetid: 99c60109-676f-41ee-3ed0-76d0b0c4ee99

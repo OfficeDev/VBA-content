@@ -3,7 +3,7 @@ title: Application.DDELinksUpdate Method (Project)
 keywords: vbapj.chm2053
 f1_keywords:
 - vbapj.chm2053
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DDELinksUpdate
 ms.assetid: 590b5379-f9b7-b245-beed-f656eadd8269

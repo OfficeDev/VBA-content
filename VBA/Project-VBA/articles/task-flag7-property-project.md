@@ -1,6 +1,6 @@
 ---
 title: Task.Flag7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Flag7
 ms.assetid: edfbd94c-42d4-2a93-8ff7-b7f99ac7c3dd

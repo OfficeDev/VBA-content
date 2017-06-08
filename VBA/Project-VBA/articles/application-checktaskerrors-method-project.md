@@ -3,7 +3,7 @@ title: Application.CheckTaskErrors Method (Project)
 keywords: vbapj.chm2257
 f1_keywords:
 - vbapj.chm2257
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CheckTaskErrors
 ms.assetid: 7b361295-993a-13b2-b9bb-26f149e16e72

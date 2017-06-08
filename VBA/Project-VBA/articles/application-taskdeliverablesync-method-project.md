@@ -3,7 +3,7 @@ title: Application.TaskDeliverableSync Method (Project)
 keywords: vbapj.chm93
 f1_keywords:
 - vbapj.chm93
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskDeliverableSync
 ms.assetid: e5903c42-bade-959b-3c20-d02e3cf56b24

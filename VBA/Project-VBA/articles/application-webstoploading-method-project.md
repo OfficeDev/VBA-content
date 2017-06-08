@@ -3,7 +3,7 @@ title: Application.WebStopLoading Method (Project)
 keywords: vbapj.chm1302
 f1_keywords:
 - vbapj.chm1302
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebStopLoading
 ms.assetid: e76165ff-0636-3dff-b525-0ff56f24a38c

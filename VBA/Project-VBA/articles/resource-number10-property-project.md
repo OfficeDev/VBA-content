@@ -1,6 +1,6 @@
 ---
 title: Resource.Number10 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Number10
 ms.assetid: c4e80e3f-e15b-cb18-856a-d75996d679ff

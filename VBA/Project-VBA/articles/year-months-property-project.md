@@ -3,7 +3,7 @@ title: Year.Months Property (Project)
 keywords: vbapj.chm132416
 f1_keywords:
 - vbapj.chm132416
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Months
 ms.assetid: 615a4f5c-bda7-f684-1c29-d8003badf3a8

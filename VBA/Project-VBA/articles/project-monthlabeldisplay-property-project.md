@@ -3,7 +3,7 @@ title: Project.MonthLabelDisplay Property (Project)
 keywords: vbapj.chm132414
 f1_keywords:
 - vbapj.chm132414
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.MonthLabelDisplay
 ms.assetid: ed6e783c-9f11-1ecf-7cf6-e8281a1892b2

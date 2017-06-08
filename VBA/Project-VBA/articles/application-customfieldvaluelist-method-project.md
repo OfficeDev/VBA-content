@@ -3,7 +3,7 @@ title: Application.CustomFieldValueList Method (Project)
 keywords: vbapj.chm40
 f1_keywords:
 - vbapj.chm40
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldValueList
 ms.assetid: 7365511c-6746-869b-f8e7-d4b87c5b8e70

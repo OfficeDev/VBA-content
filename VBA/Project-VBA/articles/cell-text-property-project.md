@@ -1,6 +1,6 @@
 ---
 title: Cell.Text Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Cell.Text
 ms.assetid: 015a9f11-6a4e-5c02-cbeb-e9fd398b2f3c

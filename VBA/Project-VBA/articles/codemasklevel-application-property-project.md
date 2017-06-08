@@ -1,6 +1,6 @@
 ---
 title: CodeMaskLevel.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.CodeMaskLevel.Application
 ms.assetid: 51365cbe-a4a4-712f-2fb5-7c38077a9b4b

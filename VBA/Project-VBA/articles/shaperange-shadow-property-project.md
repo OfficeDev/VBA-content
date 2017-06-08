@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Shadow Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 900d4206-a21b-19ea-4e41-149a9d5b373c
 ms.date: 06/08/2017
 ---

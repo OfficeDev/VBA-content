@@ -1,6 +1,6 @@
 ---
 title: Filters.Item Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filters.Item
 ms.assetid: 7eb72f5e-968f-84a4-6359-8beda5feb07f

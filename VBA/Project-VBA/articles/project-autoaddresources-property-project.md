@@ -1,6 +1,6 @@
 ---
 title: Project.AutoAddResources Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AutoAddResources
 ms.assetid: b8e048f8-5bc1-740f-d397-e6f0ddf77a3a

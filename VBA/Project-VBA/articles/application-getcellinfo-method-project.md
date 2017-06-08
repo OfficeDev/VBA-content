@@ -3,7 +3,7 @@ title: Application.GetCellInfo Method (Project)
 keywords: vbapj.chm131092
 f1_keywords:
 - vbapj.chm131092
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GetCellInfo
 ms.assetid: ddd531b1-e66d-5c70-c4ed-2e2b456e3a3b

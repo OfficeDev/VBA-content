@@ -3,7 +3,7 @@ title: Application.WBSCodeMaskEdit Method (Project)
 keywords: vbapj.chm630
 f1_keywords:
 - vbapj.chm630
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WBSCodeMaskEdit
 ms.assetid: 37ade035-5235-54ab-92fa-962c4172dcdc

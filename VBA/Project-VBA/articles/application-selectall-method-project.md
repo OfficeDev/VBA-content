@@ -3,7 +3,7 @@ title: Application.SelectAll Method (Project)
 keywords: vbapj.chm216
 f1_keywords:
 - vbapj.chm216
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectAll
 ms.assetid: d2003dd7-a6a2-6964-34cb-5331995c7990

@@ -3,7 +3,7 @@ title: Application.BaseCalendarCreate Method (Project)
 keywords: vbapj.chm618
 f1_keywords:
 - vbapj.chm618
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.BaseCalendarCreate
 ms.assetid: c9c92dff-255a-041b-c18d-49d6d75884e3

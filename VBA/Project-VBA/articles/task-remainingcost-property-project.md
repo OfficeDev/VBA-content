@@ -1,6 +1,6 @@
 ---
 title: Task.RemainingCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.RemainingCost
 ms.assetid: 322e8734-907a-40cd-5e4e-1c18eb4ea935

@@ -1,6 +1,6 @@
 ---
 title: SplitPart.Index Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.SplitPart.Index
 ms.assetid: 9e317531-6f4f-4053-c628-4b5e8a19d840

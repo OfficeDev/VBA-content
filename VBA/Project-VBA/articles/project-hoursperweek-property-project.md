@@ -1,6 +1,6 @@
 ---
 title: Project.HoursPerWeek Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.HoursPerWeek
 ms.assetid: f7341297-1dae-cd6d-1e13-6bd273dc3d19

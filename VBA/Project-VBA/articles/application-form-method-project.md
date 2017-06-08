@@ -3,7 +3,7 @@ title: Application.Form Method (Project)
 keywords: vbapj.chm1004
 f1_keywords:
 - vbapj.chm1004
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.Form
 ms.assetid: 23e7c800-bda9-c931-bc27-084dec872953

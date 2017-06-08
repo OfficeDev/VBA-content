@@ -3,7 +3,7 @@ title: Application.GanttShowBarSplits Method (Project)
 keywords: vbapj.chm2381
 f1_keywords:
 - vbapj.chm2381
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GanttShowBarSplits
 ms.assetid: 6f3cf637-4718-8fb9-aed9-cd45ef785ca8

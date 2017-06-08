@@ -1,6 +1,6 @@
 ---
 title: Task.IsPublished Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.IsPublished
 ms.assetid: ace2c679-37fe-a3fc-b5f4-de55128efd05

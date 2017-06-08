@@ -3,7 +3,7 @@ title: Application.TaskMove Method (Project)
 keywords: vbapj.chm2289
 f1_keywords:
 - vbapj.chm2289
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskMove
 ms.assetid: 7a847c59-b07c-6bf2-90a3-b62d0d080cc6

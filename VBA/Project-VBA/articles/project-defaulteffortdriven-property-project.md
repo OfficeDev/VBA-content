@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultEffortDriven Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DefaultEffortDriven
 ms.assetid: 2af7c41d-630f-1cda-7473-36eb49f400f4

@@ -1,6 +1,6 @@
 ---
 title: OutlineCode Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode
 ms.assetid: 8f75bdd3-ed5b-ed0f-9c3c-85af3a21580c

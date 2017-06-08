@@ -1,6 +1,6 @@
 ---
 title: Resource.Project Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Project
 ms.assetid: 6370b925-05a4-fefc-f960-5bb1594a57d8

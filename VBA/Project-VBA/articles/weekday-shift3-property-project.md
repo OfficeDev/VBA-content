@@ -1,6 +1,6 @@
 ---
 title: WeekDay.Shift3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.WeekDay.Shift3
 ms.assetid: c09fde08-3f8d-71e8-5c5d-f0ebbb0069ce

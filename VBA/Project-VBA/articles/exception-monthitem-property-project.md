@@ -1,6 +1,6 @@
 ---
 title: Exception.MonthItem Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.MonthItem
 ms.assetid: 831b813a-4222-3c86-278b-daa1825f44c2

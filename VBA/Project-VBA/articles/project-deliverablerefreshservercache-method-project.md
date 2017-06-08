@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverableRefreshServerCache Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.DeliverableRefreshServerCache
 ms.assetid: 52fe1833-7eab-f65e-a31c-efadb13b89d0

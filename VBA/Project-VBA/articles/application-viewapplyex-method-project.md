@@ -3,7 +3,7 @@ title: Application.ViewApplyEx Method (Project)
 keywords: vbapj.chm311
 f1_keywords:
 - vbapj.chm311
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ViewApplyEx
 ms.assetid: 437ec3b5-d42d-ed79-e8c7-220f797023b5

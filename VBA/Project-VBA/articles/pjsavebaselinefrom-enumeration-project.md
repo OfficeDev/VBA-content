@@ -1,6 +1,6 @@
 ---
 title: PjSaveBaselineFrom Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjSaveBaselineFrom
 ms.assetid: eef21c4e-77e8-d4c2-42fb-18ceb14bbddc

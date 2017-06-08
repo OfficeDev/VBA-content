@@ -3,7 +3,7 @@ title: Application.FileProperties Method (Project)
 keywords: vbapj.chm626
 f1_keywords:
 - vbapj.chm626
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FileProperties
 ms.assetid: e1edf1f2-52e1-8a90-aef8-5a5453e89178

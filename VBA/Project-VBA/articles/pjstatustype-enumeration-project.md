@@ -1,6 +1,6 @@
 ---
 title: PjStatusType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjStatusType
 ms.assetid: 575de6df-978c-3c83-e7f4-792e6e141d93

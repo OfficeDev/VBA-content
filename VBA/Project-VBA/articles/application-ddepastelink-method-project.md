@@ -3,7 +3,7 @@ title: Application.DDEPasteLink Method (Project)
 keywords: vbapj.chm207
 f1_keywords:
 - vbapj.chm207
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DDEPasteLink
 ms.assetid: f97547e7-b541-1a77-94a4-96da1a52ecb2

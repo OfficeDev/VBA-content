@@ -3,7 +3,7 @@ title: Application.TaskComparison Method (Project)
 keywords: vbapj.chm2184
 f1_keywords:
 - vbapj.chm2184
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskComparison
 ms.assetid: 61d0c322-39a3-f731-3662-f6cf6709bb12

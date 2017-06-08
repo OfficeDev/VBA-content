@@ -1,6 +1,6 @@
 ---
 title: Project.VBASigned Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.VBASigned
 ms.assetid: 469f9f58-4386-7a0b-5937-5f758411bd38

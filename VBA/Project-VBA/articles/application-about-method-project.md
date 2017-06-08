@@ -3,7 +3,7 @@ title: Application.About Method (Project)
 keywords: vbapj.chm2376
 f1_keywords:
 - vbapj.chm2376
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.About
 ms.assetid: 323c2400-e886-300a-f8ad-a4fed3fe00bf

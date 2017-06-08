@@ -3,7 +3,7 @@ title: Application.OrganizerMoveItem Method (Project)
 keywords: vbapj.chm127
 f1_keywords:
 - vbapj.chm127
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.OrganizerMoveItem
 ms.assetid: a597c657-130e-2e7b-3837-7e3f95421af7

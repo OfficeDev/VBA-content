@@ -1,6 +1,6 @@
 ---
 title: Shapes.AddShape Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 58af0a51-a455-5c9a-1cae-e56dc67a08a5
 ms.date: 06/08/2017
 ---

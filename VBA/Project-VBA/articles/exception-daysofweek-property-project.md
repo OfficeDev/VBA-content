@@ -1,6 +1,6 @@
 ---
 title: Exception.DaysOfWeek Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Exception.DaysOfWeek
 ms.assetid: 4b9cf24a-615e-0bd5-f753-47ae6e0a312d

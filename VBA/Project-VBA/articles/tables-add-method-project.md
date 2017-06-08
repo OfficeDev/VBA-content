@@ -1,6 +1,6 @@
 ---
 title: Tables.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Tables.Add
 ms.assetid: 595c0cb8-fd3f-8f5c-3eaf-588f41dc36dc

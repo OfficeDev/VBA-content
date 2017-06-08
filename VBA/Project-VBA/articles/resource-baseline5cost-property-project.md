@@ -1,6 +1,6 @@
 ---
 title: Resource.Baseline5Cost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Baseline5Cost
 ms.assetid: ddf49b69-9c87-b2a6-c75e-04093e6bd5df

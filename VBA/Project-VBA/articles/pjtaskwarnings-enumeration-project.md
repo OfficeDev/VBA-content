@@ -1,6 +1,6 @@
 ---
 title: PjTaskWarnings Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjTaskWarnings
 ms.assetid: 02bff43f-4459-3c34-5e8f-c441ffefe954

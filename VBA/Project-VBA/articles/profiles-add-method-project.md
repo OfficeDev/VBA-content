@@ -1,6 +1,6 @@
 ---
 title: Profiles.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Profiles.Add
 ms.assetid: 056f912a-214f-8e23-338e-38e26b9d1e9d

@@ -3,7 +3,7 @@ title: Availability.AvailableTo Property (Project)
 keywords: vbapj.chm132560
 f1_keywords:
 - vbapj.chm132560
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Availability.AvailableTo
 ms.assetid: fe1b9efc-b981-5dc0-fbaa-a29c098e2628

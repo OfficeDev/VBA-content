@@ -3,7 +3,7 @@ title: Application.HighlightDrivenSuccessors Method (Project)
 keywords: vbapj.chm150
 f1_keywords:
 - vbapj.chm150
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 2c93505b-541f-15a7-31ff-fcddcfa0bb55
 ms.date: 06/08/2017
 ---

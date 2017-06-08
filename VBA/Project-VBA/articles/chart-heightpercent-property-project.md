@@ -1,6 +1,6 @@
 ---
 title: Chart.HeightPercent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: cb7e3a55-eb99-b02d-2242-ebdcbd954b35
 ms.date: 06/08/2017
 ---

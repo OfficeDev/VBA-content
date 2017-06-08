@@ -3,7 +3,7 @@ title: Application.GetRedoListCount Method (Project)
 keywords: vbapj.chm131093
 f1_keywords:
 - vbapj.chm131093
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GetRedoListCount
 ms.assetid: c505545d-4dda-7b0e-42c2-46591e711b74

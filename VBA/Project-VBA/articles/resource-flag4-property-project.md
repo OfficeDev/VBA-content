@@ -1,6 +1,6 @@
 ---
 title: Resource.Flag4 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Flag4
 ms.assetid: 10a38af7-abb2-64f5-6307-4c6216b750af

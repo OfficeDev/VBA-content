@@ -1,6 +1,6 @@
 ---
 title: Assignment.WorkVariance Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.WorkVariance
 ms.assetid: e92fce82-213f-b412-cc4a-f3c93d11ad8f

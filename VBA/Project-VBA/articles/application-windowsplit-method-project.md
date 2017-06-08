@@ -3,7 +3,7 @@ title: Application.WindowSplit Method (Project)
 keywords: vbapj.chm2073
 f1_keywords:
 - vbapj.chm2073
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowSplit
 ms.assetid: cbdea999-4692-a10d-80e3-ae6b4407eebc

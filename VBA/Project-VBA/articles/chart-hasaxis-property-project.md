@@ -1,6 +1,6 @@
 ---
 title: Chart.HasAxis Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: f1059a7e-01ac-cd41-78d6-dc88f52943f2
 ms.date: 06/08/2017
 ---

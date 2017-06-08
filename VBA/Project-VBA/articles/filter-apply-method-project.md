@@ -3,7 +3,7 @@ title: Filter.Apply Method (Project)
 keywords: vbapj.chm132210
 f1_keywords:
 - vbapj.chm132210
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Filter.Apply
 ms.assetid: bc9a406c-d4ae-0fa5-a5b1-70bf3520fac4

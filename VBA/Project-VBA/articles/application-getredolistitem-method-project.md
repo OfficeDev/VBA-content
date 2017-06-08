@@ -3,7 +3,7 @@ title: Application.GetRedoListItem Method (Project)
 keywords: vbapj.chm131094
 f1_keywords:
 - vbapj.chm131094
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GetRedoListItem
 ms.assetid: 65a23a84-dc85-2935-c673-87643d1a2a2d

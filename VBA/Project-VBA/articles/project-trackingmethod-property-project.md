@@ -1,6 +1,6 @@
 ---
 title: Project.TrackingMethod Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.TrackingMethod
 ms.assetid: cda3f127-5fad-f486-f02d-6d6eeb0d5588

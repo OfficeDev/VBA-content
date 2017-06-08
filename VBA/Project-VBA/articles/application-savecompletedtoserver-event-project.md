@@ -1,6 +1,6 @@
 ---
 title: Application.SaveCompletedToServer Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SaveCompletedToServer
 ms.assetid: 05ca27a0-a6cd-efbd-eff8-4f457c3de5c0

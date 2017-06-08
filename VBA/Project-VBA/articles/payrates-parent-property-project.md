@@ -1,6 +1,6 @@
 ---
 title: PayRates.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PayRates.Parent
 ms.assetid: 32fd66ee-f4c6-d903-80c4-6ee7e73d8ad6

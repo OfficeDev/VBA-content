@@ -1,6 +1,6 @@
 ---
 title: Shape.Table Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 5e1fc97f-8ac8-db26-3a2d-c39261c23588
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: PjCalendarBarType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCalendarBarType
 ms.assetid: 7e43f537-fd96-9f3d-1f3b-9c444bf7b672

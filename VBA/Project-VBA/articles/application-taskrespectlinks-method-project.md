@@ -3,7 +3,7 @@ title: Application.TaskRespectLinks Method (Project)
 keywords: vbapj.chm2175
 f1_keywords:
 - vbapj.chm2175
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TaskRespectLinks
 ms.assetid: 1910b74a-7ea7-d0eb-97b9-aa79330952a0

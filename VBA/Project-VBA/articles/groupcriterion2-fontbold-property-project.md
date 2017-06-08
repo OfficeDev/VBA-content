@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.FontBold Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.GroupCriterion2.FontBold
 ms.assetid: af463796-40c0-6a4c-8a8d-251551676b1d

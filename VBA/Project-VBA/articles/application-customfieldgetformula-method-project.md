@@ -3,7 +3,7 @@ title: Application.CustomFieldGetFormula Method (Project)
 keywords: vbapj.chm131199
 f1_keywords:
 - vbapj.chm131199
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.CustomFieldGetFormula
 ms.assetid: ce741a1a-1227-b3ae-f45e-0d1f3a048311

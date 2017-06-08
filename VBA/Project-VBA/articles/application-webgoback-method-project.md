@@ -3,7 +3,7 @@ title: Application.WebGoBack Method (Project)
 keywords: vbapj.chm1300
 f1_keywords:
 - vbapj.chm1300
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WebGoBack
 ms.assetid: bbc0d3bb-9074-eab6-a65a-58d095bf125f

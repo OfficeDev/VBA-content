@@ -3,7 +3,7 @@ title: Application.DetailStylesFormat Method (Project)
 keywords: vbapj.chm962
 f1_keywords:
 - vbapj.chm962
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailStylesFormat
 ms.assetid: df3b7963-134f-be55-715e-2e4c214b35fc

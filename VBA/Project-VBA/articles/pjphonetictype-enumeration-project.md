@@ -1,6 +1,6 @@
 ---
 title: PjPhoneticType Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjPhoneticType
 ms.assetid: 61edaad8-bc20-507f-9e36-40e765f55cf8

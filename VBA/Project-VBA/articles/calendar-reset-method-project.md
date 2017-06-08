@@ -3,7 +3,7 @@ title: Calendar.Reset Method (Project)
 keywords: vbapj.chm131258
 f1_keywords:
 - vbapj.chm131258
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Reset
 ms.assetid: fc638f47-36b5-aa36-55c2-882bd570b9cb

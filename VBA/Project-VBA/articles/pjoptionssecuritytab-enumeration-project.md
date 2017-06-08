@@ -1,6 +1,6 @@
 ---
 title: PjOptionsSecurityTab Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjOptionsSecurityTab
 ms.assetid: b0afc2a7-2847-538b-0dca-6897f28ea17d

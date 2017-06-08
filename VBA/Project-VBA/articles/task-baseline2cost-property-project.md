@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline2Cost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline2Cost
 ms.assetid: ae1d835b-021b-2066-6826-21b068263e15

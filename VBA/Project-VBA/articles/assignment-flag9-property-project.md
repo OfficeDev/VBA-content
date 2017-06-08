@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag9 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Flag9
 ms.assetid: 516292ee-c93a-61ff-be24-c1e620d9088f

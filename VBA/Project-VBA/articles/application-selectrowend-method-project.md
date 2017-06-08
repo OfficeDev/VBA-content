@@ -3,7 +3,7 @@ title: Application.SelectRowEnd Method (Project)
 keywords: vbapj.chm2044
 f1_keywords:
 - vbapj.chm2044
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.SelectRowEnd
 ms.assetid: 4aa9b311-46d7-2424-e675-6be0c61248f3

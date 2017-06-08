@@ -1,6 +1,6 @@
 ---
 title: Year.Shift3 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Year.Shift3
 ms.assetid: eea8a0f6-8889-0d13-f648-e95fc09b2874

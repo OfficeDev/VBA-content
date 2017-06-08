@@ -1,6 +1,6 @@
 ---
 title: PjIndicator Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjIndicator
 ms.assetid: 97e7473c-4b4f-6934-0871-959d723fb72e

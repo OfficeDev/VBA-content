@@ -1,6 +1,6 @@
 ---
 title: PjCompareVersionItems Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjCompareVersionItems
 ms.assetid: 1d5a4372-259c-2bd1-e967-bcab2485950f

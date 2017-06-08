@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.HasTable Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: c80b6ead-4b26-63a6-6994-8b7a22d118e8
 ms.date: 06/08/2017
 ---

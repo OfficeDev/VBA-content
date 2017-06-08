@@ -3,7 +3,7 @@ title: Application.ShareProjectOnline Method (Project)
 keywords: vbapj.chm74
 f1_keywords:
 - vbapj.chm74
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ShareProjectOnline
 ms.assetid: 7742715a-d78a-334b-5655-7047efd28890

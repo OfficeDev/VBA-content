@@ -1,6 +1,6 @@
 ---
 title: Task.CalendarObject Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.CalendarObject
 ms.assetid: 7233555c-9535-ed2b-37ad-cceecf730c98

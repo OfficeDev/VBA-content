@@ -1,6 +1,6 @@
 ---
 title: Calendar.Name Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar.Name
 ms.assetid: e437e29c-ed61-c83a-53b7-8a0d1cb7cb4e

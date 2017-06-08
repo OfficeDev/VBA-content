@@ -1,6 +1,6 @@
 ---
 title: Assignment.SV Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.SV
 ms.assetid: c63cd139-5a5e-2111-ed52-f239d401f227

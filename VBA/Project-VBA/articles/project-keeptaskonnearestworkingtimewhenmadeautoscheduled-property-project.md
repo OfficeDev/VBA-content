@@ -3,7 +3,7 @@ title: Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled Property (Proje
 keywords: vbapj.chm131104
 f1_keywords:
 - vbapj.chm131104
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled
 ms.assetid: 3da9e023-d5cb-c212-4f61-e3ca5466db4a

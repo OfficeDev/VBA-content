@@ -1,6 +1,6 @@
 ---
 title: Project.OutlineChildren Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.OutlineChildren
 ms.assetid: f0feaf89-04ad-4523-7b15-eff6573f6ddd

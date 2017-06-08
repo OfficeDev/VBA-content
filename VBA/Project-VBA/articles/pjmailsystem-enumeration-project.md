@@ -1,6 +1,6 @@
 ---
 title: PjMailSystem Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjMailSystem
 ms.assetid: d32f0e55-52fc-75b2-34d9-237447d26fe1

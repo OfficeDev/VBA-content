@@ -1,6 +1,6 @@
 ---
 title: Projects.Add Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Projects.Add
 ms.assetid: 51629c33-1521-bfee-edf7-bed792d393c1

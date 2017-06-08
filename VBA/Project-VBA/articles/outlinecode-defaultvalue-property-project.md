@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.DefaultValue Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OutlineCode.DefaultValue
 ms.assetid: 8b62d945-d98c-923c-2829-e50e51cd45b6

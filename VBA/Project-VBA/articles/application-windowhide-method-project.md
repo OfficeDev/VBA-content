@@ -3,7 +3,7 @@ title: Application.WindowHide Method (Project)
 keywords: vbapj.chm703
 f1_keywords:
 - vbapj.chm703
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WindowHide
 ms.assetid: 37219d9d-1e50-3341-7618-9827d077d4d8

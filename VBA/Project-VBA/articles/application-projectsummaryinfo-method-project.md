@@ -3,7 +3,7 @@ title: Application.ProjectSummaryInfo Method (Project)
 keywords: vbapj.chm601
 f1_keywords:
 - vbapj.chm601
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectSummaryInfo
 ms.assetid: 7275598c-02b1-7e07-ecdb-04fa0a21f41a

@@ -3,7 +3,7 @@ title: Application.EnterpriseResSubstitutionWizard Method (Project)
 keywords: vbapj.chm2123
 f1_keywords:
 - vbapj.chm2123
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnterpriseResSubstitutionWizard
 ms.assetid: 627b04ad-0088-5032-4f05-b6dc8cabe436

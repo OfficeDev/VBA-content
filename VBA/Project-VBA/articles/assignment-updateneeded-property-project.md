@@ -1,6 +1,6 @@
 ---
 title: Assignment.UpdateNeeded Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.UpdateNeeded
 ms.assetid: 5a98cd9e-b467-6bdf-e17f-cf96ee7cf15e

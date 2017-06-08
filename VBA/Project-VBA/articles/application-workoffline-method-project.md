@@ -3,7 +3,7 @@ title: Application.WorkOffline Method (Project)
 keywords: vbapj.chm2283
 f1_keywords:
 - vbapj.chm2283
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.WorkOffline
 ms.assetid: 65a38e80-f311-eb19-359a-da9f1022be71

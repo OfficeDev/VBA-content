@@ -1,6 +1,6 @@
 ---
 title: TableField.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.TableField.Application
 ms.assetid: 99a21204-a913-2c8b-d00e-e05eece6992c

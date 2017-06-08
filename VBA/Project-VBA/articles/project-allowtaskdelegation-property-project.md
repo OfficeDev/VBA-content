@@ -3,7 +3,7 @@ title: Project.AllowTaskDelegation Property (Project)
 keywords: vbapj.chm131385
 f1_keywords:
 - vbapj.chm131385
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.AllowTaskDelegation
 ms.assetid: ff8501bf-28a0-c53b-36a6-a697f5e160b7

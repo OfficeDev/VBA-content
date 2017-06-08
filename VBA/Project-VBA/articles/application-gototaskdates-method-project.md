@@ -3,7 +3,7 @@ title: Application.GotoTaskDates Method (Project)
 keywords: vbapj.chm2054
 f1_keywords:
 - vbapj.chm2054
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.GotoTaskDates
 ms.assetid: d9d3de8d-e4d7-89f4-0dcf-be132287e19e

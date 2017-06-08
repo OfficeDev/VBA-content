@@ -1,6 +1,6 @@
 ---
 title: Tables.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Tables.Application
 ms.assetid: 721a4b3c-12a0-7b1c-7ddd-ef22a5f80bb3

@@ -3,7 +3,7 @@ title: Project.Saved Property (Project)
 keywords: vbapj.chm132598
 f1_keywords:
 - vbapj.chm132598
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Saved
 ms.assetid: e35021dd-68f4-612e-06fc-e9d90c600352

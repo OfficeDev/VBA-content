@@ -3,7 +3,7 @@ title: ViewsCombination.Add Method (Project)
 keywords: vbapj.chm132807
 f1_keywords:
 - vbapj.chm132807
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.ViewsCombination.Add
 ms.assetid: 84e93698-88c3-b4a7-a754-8078fcab897a

@@ -1,6 +1,6 @@
 ---
 title: Application.DateSubtract Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DateSubtract
 ms.assetid: 1eb05a59-271d-31d0-8945-23bc3c9600e0

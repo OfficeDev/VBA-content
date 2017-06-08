@@ -3,7 +3,7 @@ title: Application.DetailStylesToggleItem Method (Project)
 keywords: vbapj.chm960
 f1_keywords:
 - vbapj.chm960
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailStylesToggleItem
 ms.assetid: 744022ac-e5c1-ee5a-c02b-c6962c821c55

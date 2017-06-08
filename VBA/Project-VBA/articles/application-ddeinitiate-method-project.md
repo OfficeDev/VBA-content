@@ -3,7 +3,7 @@ title: Application.DDEInitiate Method (Project)
 keywords: vbapj.chm1201
 f1_keywords:
 - vbapj.chm1201
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DDEInitiate
 ms.assetid: a517c66f-4bec-9bec-270c-2053bc733145

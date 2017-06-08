@@ -3,7 +3,7 @@ title: Application.FilePageSetupCalendarTextEx Method (Project)
 keywords: vbapj.chm2162
 f1_keywords:
 - vbapj.chm2162
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.FilePageSetupCalendarTextEx
 ms.assetid: 370cfaa4-4a7b-e40e-be9e-d562bf9947d7

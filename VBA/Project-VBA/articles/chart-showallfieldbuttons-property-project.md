@@ -1,6 +1,6 @@
 ---
 title: Chart.ShowAllFieldButtons Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 8e21d102-a23f-e56b-05d4-615f39f10a60
 ms.date: 06/08/2017
 ---

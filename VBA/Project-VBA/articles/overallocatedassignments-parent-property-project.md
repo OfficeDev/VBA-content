@@ -1,6 +1,6 @@
 ---
 title: OverAllocatedAssignments.Parent Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.OverAllocatedAssignments.Parent
 ms.assetid: d7a74d73-b5bc-69ea-a6c6-312d91df04d6

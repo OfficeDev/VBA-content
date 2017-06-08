@@ -1,6 +1,6 @@
 ---
 title: Task.TaskDependencies Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.TaskDependencies
 ms.assetid: 9c02fe5f-cb9e-a10e-bf9a-66b7600f8c64

@@ -1,6 +1,6 @@
 ---
 title: Shape.Name Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: 72a1f223-a47a-7674-0bcc-218f7ff86e63
 ms.date: 06/08/2017
 ---

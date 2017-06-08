@@ -1,6 +1,6 @@
 ---
 title: PayRate.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PayRate.Application
 ms.assetid: 6d4579e3-a061-719b-278f-626afeb4fc0b

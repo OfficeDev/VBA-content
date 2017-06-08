@@ -3,7 +3,7 @@ title: Application.EnableCancelKey Property (Project)
 keywords: vbapj.chm131792
 f1_keywords:
 - vbapj.chm131792
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.EnableCancelKey
 ms.assetid: 9b5f4f90-3ef3-139b-5f76-f48d3d7710a8

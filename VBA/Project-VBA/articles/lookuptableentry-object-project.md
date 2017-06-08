@@ -1,6 +1,6 @@
 ---
 title: LookupTableEntry Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTableEntry
 ms.assetid: 5be081fa-6f4e-9571-e1e2-c4652871b756

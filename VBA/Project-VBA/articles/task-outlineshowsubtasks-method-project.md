@@ -3,7 +3,7 @@ title: Task.OutlineShowSubTasks Method (Project)
 keywords: vbapj.chm131245
 f1_keywords:
 - vbapj.chm131245
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.OutlineShowSubTasks
 ms.assetid: 39c74262-ea6d-2599-5f57-4c259186e303

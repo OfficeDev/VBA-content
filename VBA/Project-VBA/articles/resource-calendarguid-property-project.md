@@ -1,6 +1,6 @@
 ---
 title: Resource.CalendarGuid Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.CalendarGuid
 ms.assetid: 1414fbad-fa79-f7ff-ce63-833fb179de6d

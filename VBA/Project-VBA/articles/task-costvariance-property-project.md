@@ -1,6 +1,6 @@
 ---
 title: Task.CostVariance Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.CostVariance
 ms.assetid: 2dd4da66-3135-e59d-fbc7-5ddd07e14a1b

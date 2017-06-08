@@ -3,7 +3,7 @@ title: Application.DateSeparator Property (Project)
 keywords: vbapj.chm131716
 f1_keywords:
 - vbapj.chm131716
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DateSeparator
 ms.assetid: ff89ed80-4839-4195-09a7-f1d6ab4ad88a

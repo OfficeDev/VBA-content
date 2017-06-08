@@ -3,7 +3,7 @@ title: Application.DetailStylesRemoveAll Method (Project)
 keywords: vbapj.chm965
 f1_keywords:
 - vbapj.chm965
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.DetailStylesRemoveAll
 ms.assetid: 71e9a154-3c02-f289-a06b-b1bbe74f7f70

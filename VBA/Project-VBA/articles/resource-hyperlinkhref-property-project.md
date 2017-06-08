@@ -1,6 +1,6 @@
 ---
 title: Resource.HyperlinkHREF Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.HyperlinkHREF
 ms.assetid: dbfe6680-9131-af9e-a982-5eb1093b92d1

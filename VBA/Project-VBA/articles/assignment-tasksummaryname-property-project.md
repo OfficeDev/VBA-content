@@ -1,6 +1,6 @@
 ---
 title: Assignment.TaskSummaryName Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.TaskSummaryName
 ms.assetid: a206d327-1ae2-4a09-7029-ac52a517a0a9

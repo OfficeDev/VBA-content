@@ -1,6 +1,6 @@
 ---
 title: Project.Activate Method (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Activate
 ms.assetid: 965ad204-9f56-591f-91a1-7c42ded480cf

@@ -1,6 +1,6 @@
 ---
 title: Calendar Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Calendar
 ms.assetid: 2d3b0f05-4762-0058-15d4-47e1d2b9d9a9

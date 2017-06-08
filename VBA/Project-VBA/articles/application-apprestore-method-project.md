@@ -3,7 +3,7 @@ title: Application.AppRestore Method (Project)
 keywords: vbapj.chm2011
 f1_keywords:
 - vbapj.chm2011
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.AppRestore
 ms.assetid: f50a1158-83d1-e38e-65e6-cdc456f14bc7

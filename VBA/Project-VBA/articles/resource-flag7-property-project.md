@@ -1,6 +1,6 @@
 ---
 title: Resource.Flag7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.Flag7
 ms.assetid: 45bc1274-503c-3d14-8dd1-2c3c946508ed

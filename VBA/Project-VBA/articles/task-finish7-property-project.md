@@ -1,6 +1,6 @@
 ---
 title: Task.Finish7 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Finish7
 ms.assetid: 80451dcc-baae-190e-1749-612130f5b80c

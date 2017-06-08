@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeClose Event (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.ProjectBeforeClose
 ms.assetid: 90e75c72-03f9-25ab-1339-94d9ff8933a2

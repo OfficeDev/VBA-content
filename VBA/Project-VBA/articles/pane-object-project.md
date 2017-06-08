@@ -1,6 +1,6 @@
 ---
 title: Pane Object (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Pane
 ms.assetid: a6995e47-c0a0-2c5e-269f-d7a59d20f982

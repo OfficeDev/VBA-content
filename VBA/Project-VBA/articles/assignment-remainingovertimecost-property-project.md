@@ -1,6 +1,6 @@
 ---
 title: Assignment.RemainingOvertimeCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.RemainingOvertimeCost
 ms.assetid: 6f13f7f0-bc3f-9f58-8047-0fabfa2eccb7

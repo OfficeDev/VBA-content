@@ -1,6 +1,6 @@
 ---
 title: Assignment.Cost5 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.Cost5
 ms.assetid: 54217131-6d53-7568-6f98-4f1266bbbf9d

@@ -1,6 +1,6 @@
 ---
 title: Task.Duration10 Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Duration10
 ms.assetid: 3595e16b-cdd9-7938-154c-5d8781aa1d11

@@ -3,7 +3,7 @@ title: Resource.EnterpriseInactive Property (Project)
 keywords: vbapj.chm131854
 f1_keywords:
 - vbapj.chm131854
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resource.EnterpriseInactive
 ms.assetid: 3afac476-b4c4-e133-01e3-d9320186b677

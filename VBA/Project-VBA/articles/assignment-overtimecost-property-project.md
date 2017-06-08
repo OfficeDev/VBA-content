@@ -1,6 +1,6 @@
 ---
 title: Assignment.OvertimeCost Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Assignment.OvertimeCost
 ms.assetid: 5c5ab221-104d-147b-320c-9514acc98447

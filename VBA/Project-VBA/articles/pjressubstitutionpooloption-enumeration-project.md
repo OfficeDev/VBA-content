@@ -1,6 +1,6 @@
 ---
 title: PjResSubstitutionPoolOption Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjResSubstitutionPoolOption
 ms.assetid: 6d53f3a0-484b-1b8d-a224-b6b328d5b2ef

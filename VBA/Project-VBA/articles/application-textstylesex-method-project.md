@@ -3,7 +3,7 @@ title: Application.TextStylesEx Method (Project)
 keywords: vbapj.chm901
 f1_keywords:
 - vbapj.chm901
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.TextStylesEx
 ms.assetid: 674c16c8-8ba5-604f-494c-3b59017e1207

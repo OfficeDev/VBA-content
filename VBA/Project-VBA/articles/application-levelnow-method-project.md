@@ -3,7 +3,7 @@ title: Application.LevelNow Method (Project)
 keywords: vbapj.chm609
 f1_keywords:
 - vbapj.chm609
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Application.LevelNow
 ms.assetid: c15b4b91-c005-5f7f-0617-2992a2695e1b

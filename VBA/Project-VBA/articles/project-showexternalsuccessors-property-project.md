@@ -1,6 +1,6 @@
 ---
 title: Project.ShowExternalSuccessors Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.ShowExternalSuccessors
 ms.assetid: c59ef7de-1b7a-1106-7659-e13920da9f5f

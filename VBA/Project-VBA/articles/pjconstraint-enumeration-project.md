@@ -1,6 +1,6 @@
 ---
 title: PjConstraint Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjConstraint
 ms.assetid: 1ba4f126-18b8-0c74-a26d-d896ca5f87dd

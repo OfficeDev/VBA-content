@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.AutoShapeType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 ms.assetid: d51dc0bc-eb86-a20b-1bb6-b530e2ca448e
 ms.date: 06/08/2017
 ---

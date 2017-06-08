@@ -1,6 +1,6 @@
 ---
 title: Groups2.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Groups2.Count
 ms.assetid: 156e2290-4a54-17de-61ba-506f6e03a16e

@@ -3,7 +3,7 @@ title: Table.ShowInMenu Property (Project)
 keywords: vbapj.chm132697
 f1_keywords:
 - vbapj.chm132697
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Table.ShowInMenu
 ms.assetid: 3f2be58d-4549-ac6e-e74c-40cf81e56db6

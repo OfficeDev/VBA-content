@@ -1,6 +1,6 @@
 ---
 title: LookupTable.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTable.Count
 ms.assetid: 8b00cad1-b49d-8365-46f9-3dd3d9e191cc

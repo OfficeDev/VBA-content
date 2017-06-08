@@ -1,6 +1,6 @@
 ---
 title: Profile.LoginType Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Profile.LoginType
 ms.assetid: ebf00927-9c84-9fbc-1315-2e95c81c2d68

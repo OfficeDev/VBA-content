@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline8Duration Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Task.Baseline8Duration
 ms.assetid: e48e8617-01dd-1a61-390b-fbe1760df533

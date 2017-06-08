@@ -1,6 +1,6 @@
 ---
 title: Project.Subprojects Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Project.Subprojects
 ms.assetid: e4b143fb-3da7-69bd-6535-5604c2cc2dc0

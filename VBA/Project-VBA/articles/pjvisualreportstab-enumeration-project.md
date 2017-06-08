@@ -1,6 +1,6 @@
 ---
 title: PjVisualReportsTab Enumeration (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.PjVisualReportsTab
 ms.assetid: 5563864a-db5f-ef87-a1f5-7ed2b76a1380

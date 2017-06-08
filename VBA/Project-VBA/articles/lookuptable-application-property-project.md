@@ -1,6 +1,6 @@
 ---
 title: LookupTable.Application Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.LookupTable.Application
 ms.assetid: 940d929c-b080-3eb3-6776-f1577ad1bed8

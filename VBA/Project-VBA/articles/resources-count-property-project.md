@@ -1,6 +1,6 @@
 ---
 title: Resources.Count Property (Project)
-ms.prod: PROJECTSERVER
+ms.prod: project-server
 api_name:
 - Project.Resources.Count
 ms.assetid: 53a50d7d-beea-2bed-c2dd-67b402a27e0c
