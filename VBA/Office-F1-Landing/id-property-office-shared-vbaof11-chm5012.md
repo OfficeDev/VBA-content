@@ -3,7 +3,7 @@ title: Id Property, Office Shared [vbaof11.chm5012]
 keywords: vbaof11.chm5012
 f1_keywords:
 - vbaof11.chm5012
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7b91ee9a-1ba3-4d1c-8d1d-67ff3d4fdaff
 ms.date: 06/08/2017
 ---

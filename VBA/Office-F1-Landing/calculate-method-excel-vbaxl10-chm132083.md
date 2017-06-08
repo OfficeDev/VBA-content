@@ -3,7 +3,7 @@ title: Calculate Method, Excel [vbaxl10.chm132083]
 keywords: vbaxl10.chm132083
 f1_keywords:
 - vbaxl10.chm132083
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a60719f6-50a4-4405-90f2-f4c11989df28
 ms.date: 06/08/2017
 ---

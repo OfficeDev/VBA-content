@@ -3,7 +3,7 @@ title: Index Property, Project [vbapj.chm132286]
 keywords: vbapj.chm132286
 f1_keywords:
 - vbapj.chm132286
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f6eedc56-c3ac-4024-b08c-3670a2e80cb1
 ms.date: 06/08/2017
 ---

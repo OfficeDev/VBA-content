@@ -3,7 +3,7 @@ title: Item Method (VBA Add-In Object Model), Office Shared [vbob6.chm102247]
 keywords: vbob6.chm102247
 f1_keywords:
 - vbob6.chm102247
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b65f11c-e384-4cfe-affd-ad20c016a81a
 ms.date: 06/08/2017
 ---

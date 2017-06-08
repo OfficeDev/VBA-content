@@ -3,7 +3,7 @@ title: Name Property, Project [vbapj.chm132510]
 keywords: vbapj.chm132510
 f1_keywords:
 - vbapj.chm132510
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6aea02e9-afbb-4151-9d01-a2f7b40e4668
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: GroupName Property, Office Shared [fm20.chm2001245]
 keywords: fm20.chm2001245
 f1_keywords:
 - fm20.chm2001245
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce364ed8-a606-43d8-99eb-4bb4a00fe6a7
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Address Cell (Hyperlinks Section), Visio [Vis_DSS.chm15]
 keywords: vis_dss.chm15
 f1_keywords:
 - vis_dss.chm15
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5769e3d9-1c76-4d9e-abc6-04654170eb81
 ms.date: 06/08/2017
 ---

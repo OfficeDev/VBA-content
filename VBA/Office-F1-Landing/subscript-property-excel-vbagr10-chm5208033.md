@@ -3,7 +3,7 @@ title: Subscript Property, Excel [vbagr10.chm5208033]
 keywords: vbagr10.chm5208033
 f1_keywords:
 - vbagr10.chm5208033
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc522dbc-2008-48db-a919-f40f8a7f3c67
 ms.date: 06/08/2017
 ---

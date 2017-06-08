@@ -3,7 +3,7 @@ title: ChartGroup Object, Excel [vbagr10.chm5207189]
 keywords: vbagr10.chm5207189
 f1_keywords:
 - vbagr10.chm5207189
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 70a9ea82-220f-4cb6-a06c-c66ffc734877
 ms.date: 06/08/2017
 ---

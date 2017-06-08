@@ -3,7 +3,7 @@ title: User-defined Cells Section, Visio [Vis_DSS.chm82251377]
 keywords: vis_dss.chm82251377
 f1_keywords:
 - vis_dss.chm82251377
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2ebe1d60-2013-4f8b-926e-a4156091e78e
 ms.date: 06/08/2017
 ---

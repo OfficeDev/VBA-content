@@ -3,7 +3,7 @@ title: Windows Property, Project [vbapj.chm132823]
 keywords: vbapj.chm132823
 f1_keywords:
 - vbapj.chm132823
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce8a83da-2063-456c-bb57-125c7e674d1d
 ms.date: 06/08/2017
 ---

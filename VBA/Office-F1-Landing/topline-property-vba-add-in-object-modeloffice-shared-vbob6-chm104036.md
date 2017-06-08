@@ -3,7 +3,7 @@ title: TopLine Property (VBA Add-In Object Model), Office Shared [vbob6.chm10403
 keywords: vbob6.chm104036
 f1_keywords:
 - vbob6.chm104036
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1561f2dc-2c76-47a4-b2d3-1da53b1e0890
 ms.date: 06/08/2017
 ---

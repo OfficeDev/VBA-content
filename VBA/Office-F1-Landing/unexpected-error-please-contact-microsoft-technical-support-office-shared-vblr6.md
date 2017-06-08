@@ -3,7 +3,7 @@ title: Unexpected error; please contact Microsoft Technical Support, Office Shar
 keywords: vblr6.chm1107784
 f1_keywords:
 - vblr6.chm1107784
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1e4c0510-4689-4578-9625-cf3f251bb69a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Report Object, Project [vbapj.chm131306]
 keywords: vbapj.chm131306
 f1_keywords:
 - vbapj.chm131306
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2759c445-8a7d-4a70-bf5f-af91d29abf02
 ms.date: 06/08/2017
 ---

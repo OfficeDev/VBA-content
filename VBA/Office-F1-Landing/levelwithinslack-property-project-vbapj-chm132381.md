@@ -3,7 +3,7 @@ title: LevelWithinSlack Property, Project [vbapj.chm132381]
 keywords: vbapj.chm132381
 f1_keywords:
 - vbapj.chm132381
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7dfced95-7c5a-44b0-990e-4abe8cbc3388
 ms.date: 06/08/2017
 ---

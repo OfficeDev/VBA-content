@@ -3,7 +3,7 @@ title: The project file 'item1' contains invalid 'item2' key value, Office Share
 keywords: vblr6.chm1117770
 f1_keywords:
 - vblr6.chm1117770
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a4006c7-00b0-46f3-83bc-70b1f8b2b239
 ms.date: 06/08/2017
 ---

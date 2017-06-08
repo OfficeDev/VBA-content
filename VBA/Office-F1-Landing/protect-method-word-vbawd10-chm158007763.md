@@ -3,7 +3,7 @@ title: Protect Method, Word [vbawd10.chm158007763]
 keywords: vbawd10.chm158007763
 f1_keywords:
 - vbawd10.chm158007763
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 31d616b8-1f7d-4653-be9a-cab4dd8352cc
 ms.date: 06/08/2017
 ---

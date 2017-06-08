@@ -3,7 +3,7 @@ title: Connection Points Section, Visio [Vis_DSS.chm82251278]
 keywords: vis_dss.chm82251278
 f1_keywords:
 - vis_dss.chm82251278
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1549ce55-fd49-472b-a64a-b8a95d9fa5ea
 ms.date: 06/08/2017
 ---

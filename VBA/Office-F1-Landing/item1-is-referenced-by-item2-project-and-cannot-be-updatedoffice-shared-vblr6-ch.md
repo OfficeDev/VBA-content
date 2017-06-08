@@ -3,7 +3,7 @@ title: "'item1' is referenced by 'item2' project and cannot be updated., Office 
 keywords: vblr6.chm60058
 f1_keywords:
 - vblr6.chm60058
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73d73430-109d-4153-8f05-644f4fefe761
 ms.date: 06/08/2017
 ---

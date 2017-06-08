@@ -3,7 +3,7 @@ title: EndArrow Cell (Line Format Section), Visio [Vis_DSS.chm82251236]
 keywords: vis_dss.chm82251236
 f1_keywords:
 - vis_dss.chm82251236
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e2db14a-0c05-454c-af49-3cde8a8b4e70
 ms.date: 06/08/2017
 ---

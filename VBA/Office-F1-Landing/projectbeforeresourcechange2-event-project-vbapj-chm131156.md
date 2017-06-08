@@ -3,7 +3,7 @@ title: ProjectBeforeResourceChange2 Event, Project [vbapj.chm131156]
 keywords: vbapj.chm131156
 f1_keywords:
 - vbapj.chm131156
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75fcfa2f-e972-46a4-b2a1-02b1f908690f
 ms.date: 06/08/2017
 ---

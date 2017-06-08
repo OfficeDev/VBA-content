@@ -3,7 +3,7 @@ title: Unable to write to the disk, Office Shared [vblr6.chm1032773]
 keywords: vblr6.chm1032773
 f1_keywords:
 - vblr6.chm1032773
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54587825-3747-46d2-aa03-42bafd7dae2e
 ms.date: 06/08/2017
 ---

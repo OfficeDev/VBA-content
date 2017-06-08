@@ -3,7 +3,7 @@ title: Count Property, Office Shared [fm20.chm5225025]
 keywords: fm20.chm5225025
 f1_keywords:
 - fm20.chm5225025
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 08152995-0050-4398-bb98-de0e19171e65
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Parent Property, Access [vbaac10.chm12679]
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4c21253-74d3-4c78-afa0-38c42cdac71a
 ms.date: 06/08/2017
 ---

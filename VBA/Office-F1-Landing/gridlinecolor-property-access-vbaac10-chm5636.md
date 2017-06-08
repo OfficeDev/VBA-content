@@ -3,7 +3,7 @@ title: GridlineColor Property, Access [vbaac10.chm5636]
 keywords: vbaac10.chm5636
 f1_keywords:
 - vbaac10.chm5636
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fec5b92c-f227-4946-9feb-480ce45e5051
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: RecalcFlags Property, Project [vbapj.chm132536]
 keywords: vbapj.chm132536
 f1_keywords:
 - vbapj.chm132536
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4fcc2af4-2c45-4546-b4ca-a5e681323b5b
 ms.date: 06/08/2017
 ---

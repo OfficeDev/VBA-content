@@ -3,7 +3,7 @@ title: FontItalic Property, Access [vbaac10.chm4356]
 keywords: vbaac10.chm4356
 f1_keywords:
 - vbaac10.chm4356
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b03d5ffb-af9b-4199-9204-c11d272f8257
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Tasks Property, Project [vbapj.chm132717]
 keywords: vbapj.chm132717
 f1_keywords:
 - vbapj.chm132717
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 777d394e-f3ae-4232-9fa1-8cf7d618c867
 ms.date: 06/08/2017
 ---

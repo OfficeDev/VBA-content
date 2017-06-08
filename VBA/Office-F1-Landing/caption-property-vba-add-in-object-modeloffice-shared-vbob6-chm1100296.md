@@ -3,7 +3,7 @@ title: Caption Property (VBA Add-In Object Model), Office Shared [vbob6.chm11002
 keywords: vbob6.chm1100296
 f1_keywords:
 - vbob6.chm1100296
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c28d9e4-b9f9-429f-b23d-98858ea8ab1e
 ms.date: 06/08/2017
 ---

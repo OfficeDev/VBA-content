@@ -3,7 +3,7 @@ title: Perpendicular Cell (Character Section), Visio [vis_sdr.chm785]
 keywords: vis_sdr.chm785
 f1_keywords:
 - vis_sdr.chm785
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75e99000-1ac4-40cb-ab6a-191f907c6b2d
 ms.date: 06/08/2017
 ---

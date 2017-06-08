@@ -3,7 +3,7 @@ title: AfterModal Event, Visio [vis_sdr.chm10019000]
 keywords: vis_sdr.chm10019000
 f1_keywords:
 - vis_sdr.chm10019000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 754bd724-7a42-4d31-a778-156c9aa54359
 ms.date: 06/08/2017
 ---

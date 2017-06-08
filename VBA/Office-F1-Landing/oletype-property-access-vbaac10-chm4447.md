@@ -3,7 +3,7 @@ title: OLEType Property, Access [vbaac10.chm4447]
 keywords: vbaac10.chm4447
 f1_keywords:
 - vbaac10.chm4447
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9ae85c5c-f590-406a-a176-15599e73294a
 ms.date: 06/08/2017
 ---

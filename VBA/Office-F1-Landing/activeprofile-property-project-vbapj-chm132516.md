@@ -3,7 +3,7 @@ title: ActiveProfile Property, Project [vbapj.chm132516]
 keywords: vbapj.chm132516
 f1_keywords:
 - vbapj.chm132516
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9268a58b-967a-4a16-bd57-c2a9daa46764
 ms.date: 06/08/2017
 ---

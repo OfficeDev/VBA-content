@@ -3,7 +3,7 @@ title: PrintForm Method, Office Shared [vblr6.chm1100682]
 keywords: vblr6.chm1100682
 f1_keywords:
 - vblr6.chm1100682
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 63167954-a8e1-4846-8a86-479289962ca6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: AutomationSecurity Property, Publisher [vbapb10.chm131190]
 keywords: vbapb10.chm131190
 f1_keywords:
 - vbapb10.chm131190
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a3f69a5e-8de3-4ec7-8485-c78f8071cb7b
 ms.date: 06/08/2017
 ---

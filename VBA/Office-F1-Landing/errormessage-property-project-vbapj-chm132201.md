@@ -3,7 +3,7 @@ title: ErrorMessage Property, Project [vbapj.chm132201]
 keywords: vbapj.chm132201
 f1_keywords:
 - vbapj.chm132201
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a61546fc-3d0e-41b3-a55b-3f75ac5e3347
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Group Property, Project [vbapj.chm132303]
 keywords: vbapj.chm132303
 f1_keywords:
 - vbapj.chm132303
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1fb63c5-f094-4da6-b350-afebc039831a
 ms.date: 06/08/2017
 ---

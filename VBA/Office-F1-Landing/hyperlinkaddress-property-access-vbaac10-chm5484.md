@@ -3,7 +3,7 @@ title: HyperlinkAddress Property, Access [vbaac10.chm5484]
 keywords: vbaac10.chm5484
 f1_keywords:
 - vbaac10.chm5484
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6117ad2a-1512-41e7-9a4c-57dca006ff8a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: TripleState Property, Access [vbaac10.chm4527]
 keywords: vbaac10.chm4527
 f1_keywords:
 - vbaac10.chm4527
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb017c18-8d4b-4d28-8244-f2c864e39e21
 ms.date: 06/08/2017
 ---

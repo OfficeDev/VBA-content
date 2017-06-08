@@ -3,7 +3,7 @@ title: Protection Section, Visio [vis_sdr.chm2115]
 keywords: vis_sdr.chm2115
 f1_keywords:
 - vis_sdr.chm2115
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dfcbcd89-efbc-4d0a-be01-1c64a83069b3
 ms.date: 06/08/2017
 ---

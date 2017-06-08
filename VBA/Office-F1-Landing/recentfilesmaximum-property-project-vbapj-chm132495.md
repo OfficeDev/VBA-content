@@ -3,7 +3,7 @@ title: RecentFilesMaximum Property, Project [vbapj.chm132495]
 keywords: vbapj.chm132495
 f1_keywords:
 - vbapj.chm132495
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d40da8f0-cdca-4265-a92a-4873cff946a2
 ms.date: 06/08/2017
 ---

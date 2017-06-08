@@ -3,7 +3,7 @@ title: Font Object, Office Shared [fm20.chm5224991]
 keywords: fm20.chm5224991
 f1_keywords:
 - fm20.chm5224991
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1e0bfabe-d0f8-405c-8c57-8d72e86d58c6
 ms.date: 06/08/2017
 ---

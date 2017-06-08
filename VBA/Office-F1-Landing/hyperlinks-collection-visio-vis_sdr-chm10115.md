@@ -3,7 +3,7 @@ title: Hyperlinks Collection, Visio [vis_sdr.chm10115]
 keywords: vis_sdr.chm10115
 f1_keywords:
 - vis_sdr.chm10115
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d35bb201-a062-42b6-a2d4-69abf131a42c
 ms.date: 06/08/2017
 ---

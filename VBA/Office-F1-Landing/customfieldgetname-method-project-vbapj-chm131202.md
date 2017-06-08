@@ -3,7 +3,7 @@ title: CustomFieldGetName Method, Project [vbapj.chm131202]
 keywords: vbapj.chm131202
 f1_keywords:
 - vbapj.chm131202
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4ae8025d-71ae-4687-91b7-e70d67d9b949
 ms.date: 06/08/2017
 ---

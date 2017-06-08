@@ -3,7 +3,7 @@ title: Interior Object, Excel [vbagr10.chm131120]
 keywords: vbagr10.chm131120
 f1_keywords:
 - vbagr10.chm131120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e140c178-2d09-4956-a4b1-72cb2941618f
 ms.date: 06/08/2017
 ---

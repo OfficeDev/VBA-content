@@ -3,7 +3,7 @@ title: Can't load module; invalid format, Office Shared [vblr6.chm1040342]
 keywords: vblr6.chm1040342
 f1_keywords:
 - vblr6.chm1040342
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7f6388f0-675e-4bbd-b6a9-8baa4c88922b
 ms.date: 06/08/2017
 ---

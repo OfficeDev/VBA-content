@@ -3,7 +3,7 @@ title: Y Behavior Cell (Controls Section), Visio [vis_sdr.chm1190]
 keywords: vis_sdr.chm1190
 f1_keywords:
 - vis_sdr.chm1190
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d228df81-cdfd-4944-9c15-bff605162325
 ms.date: 06/08/2017
 ---

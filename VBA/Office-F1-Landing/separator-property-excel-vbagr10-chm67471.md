@@ -3,7 +3,7 @@ title: Separator Property, Excel [vbagr10.chm67471]
 keywords: vbagr10.chm67471
 f1_keywords:
 - vbagr10.chm67471
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0641d74-4983-4b12-8fc3-5deda73df864
 ms.date: 06/08/2017
 ---

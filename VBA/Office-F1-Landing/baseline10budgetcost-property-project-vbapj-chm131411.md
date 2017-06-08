@@ -3,7 +3,7 @@ title: Baseline10BudgetCost Property, Project [vbapj.chm131411]
 keywords: vbapj.chm131411
 f1_keywords:
 - vbapj.chm131411
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a14c4910-99c3-4547-9434-d5ec31aab085
 ms.date: 06/08/2017
 ---

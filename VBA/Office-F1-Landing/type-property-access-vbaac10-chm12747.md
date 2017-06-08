@@ -3,7 +3,7 @@ title: Type Property, Access [vbaac10.chm12747]
 keywords: vbaac10.chm12747
 f1_keywords:
 - vbaac10.chm12747
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ffad97b7-8e0d-46e0-917f-97c6842e1402
 ms.date: 06/08/2017
 ---

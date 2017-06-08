@@ -3,7 +3,7 @@ title: TimeSeparator Property, Project [vbapj.chm132754]
 keywords: vbapj.chm132754
 f1_keywords:
 - vbapj.chm132754
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c5d82b45-b128-4fbf-b51a-727de5b446ed
 ms.date: 06/08/2017
 ---

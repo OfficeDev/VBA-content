@@ -3,7 +3,7 @@ title: LinkToSource Property, Project [vbapj.chm132664]
 keywords: vbapj.chm132664
 f1_keywords:
 - vbapj.chm132664
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 664a760a-8f80-4bbd-8b65-cd623483e0ba
 ms.date: 06/08/2017
 ---

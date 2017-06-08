@@ -2,7 +2,7 @@
 keywords: vbui6.chm2007531
 f1_keywords:
 - vbui6.chm2007531
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 63b2c5db-29f1-4b8c-807e-767990b7d47e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: RecordSource Property, Access [vbaac10.chm4485]
 keywords: vbaac10.chm4485
 f1_keywords:
 - vbaac10.chm4485
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 866e62ab-888e-46a1-89f8-7f8f43ca90a8
 ms.date: 06/08/2017
 ---

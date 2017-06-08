@@ -3,7 +3,7 @@ title: Object doesn't support named arguments (Error 446), Office Shared [vblr6.
 keywords: vblr6.chm1000446
 f1_keywords:
 - vblr6.chm1000446
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9154ac8-0bfe-4640-9ee6-c47da616d064
 ms.date: 06/08/2017
 ---

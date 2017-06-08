@@ -3,7 +3,7 @@ title: LangID Cell (Character Section), Visio [vis_sdr.chm60049]
 keywords: vis_sdr.chm60049
 f1_keywords:
 - vis_sdr.chm60049
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5297321-99f0-4b3e-a271-d32e90898767
 ms.date: 06/08/2017
 ---

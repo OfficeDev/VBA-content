@@ -3,7 +3,7 @@ title: AreaGroups Method, Excel [vbagr10.chm65545]
 keywords: vbagr10.chm65545
 f1_keywords:
 - vbagr10.chm65545
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6f8969a2-a531-4c1b-bf26-7ffdc34810b9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: EffectiveDateDifference Property, Project [vbapj.chm132363]
 keywords: vbapj.chm132363
 f1_keywords:
 - vbapj.chm132363
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: be237610-ef84-4358-a7f8-d5df672870ea
 ms.date: 06/08/2017
 ---

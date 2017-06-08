@@ -3,7 +3,7 @@ title: Walls Property, Excel [vbagr10.chm5208139]
 keywords: vbagr10.chm5208139
 f1_keywords:
 - vbagr10.chm5208139
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ad5b8111-44d8-46bf-ad20-5347e68184d1
 ms.date: 06/08/2017
 ---

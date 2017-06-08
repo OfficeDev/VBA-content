@@ -3,7 +3,7 @@ title: RecordLocks Property, Access [vbaac10.chm4481]
 keywords: vbaac10.chm4481
 f1_keywords:
 - vbaac10.chm4481
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a32dbc84-d671-4097-b453-f96fbb01dd58
 ms.date: 06/08/2017
 ---

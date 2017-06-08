@@ -3,7 +3,7 @@ title: Terminate Event (Visual Basic for Applications), Office Shared [vblr6.chm
 keywords: vblr6.chm916329
 f1_keywords:
 - vblr6.chm916329
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5965b906-ff9b-479f-942e-b7794277a1b2
 ms.date: 06/08/2017
 ---

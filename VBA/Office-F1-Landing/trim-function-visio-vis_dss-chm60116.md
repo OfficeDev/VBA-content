@@ -3,7 +3,7 @@ title: TRIM Function, Visio [Vis_DSS.chm60116]
 keywords: vis_dss.chm60116
 f1_keywords:
 - vis_dss.chm60116
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1709fbde-bafe-491f-a803-8d281e2fab73
 ms.date: 06/08/2017
 ---

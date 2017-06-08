@@ -3,7 +3,7 @@ title: Cost6 Property, Project [vbapj.chm131665]
 keywords: vbapj.chm131665
 f1_keywords:
 - vbapj.chm131665
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cfd3300c-6129-487d-ada3-b7cef22ccf13
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ProcCountLines Property, Office Shared [vbob6.chm104001]
 keywords: vbob6.chm104001
 f1_keywords:
 - vbob6.chm104001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e42ffba4-c575-4e9e-9694-c5fcf00d64ec
 ms.date: 06/08/2017
 ---

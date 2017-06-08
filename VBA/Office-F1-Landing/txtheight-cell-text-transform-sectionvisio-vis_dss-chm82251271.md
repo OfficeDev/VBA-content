@@ -3,7 +3,7 @@ title: TxtHeight Cell (Text Transform Section), Visio [Vis_DSS.chm82251271]
 keywords: vis_dss.chm82251271
 f1_keywords:
 - vis_dss.chm82251271
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d019d6b-6c3d-43ca-bcc1-eeffdb7058e5
 ms.date: 06/08/2017
 ---

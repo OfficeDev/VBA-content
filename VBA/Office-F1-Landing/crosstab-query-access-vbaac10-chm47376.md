@@ -3,7 +3,7 @@ title: Crosstab Query, Access [vbaac10.chm47376]
 keywords: vbaac10.chm47376
 f1_keywords:
 - vbaac10.chm47376
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 32b59b2b-51fb-4e43-8b10-03c4ee304056
 ms.date: 06/08/2017
 ---

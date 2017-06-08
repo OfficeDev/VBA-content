@@ -3,7 +3,7 @@ title: GetRasterExportResolution Method, Visio [vis_sdr.chm16262270]
 keywords: vis_sdr.chm16262270
 f1_keywords:
 - vis_sdr.chm16262270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f1594196-cfbc-41ba-8ac7-c4ffdc04f3de
 ms.date: 06/08/2017
 ---

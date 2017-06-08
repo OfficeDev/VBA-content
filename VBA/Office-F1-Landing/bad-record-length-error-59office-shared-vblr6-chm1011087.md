@@ -3,7 +3,7 @@ title: Bad record length (Error 59), Office Shared [vblr6.chm1011087]
 keywords: vblr6.chm1011087
 f1_keywords:
 - vblr6.chm1011087
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0d846210-d27f-48a0-8881-dee3b54ffee8
 ms.date: 06/08/2017
 ---

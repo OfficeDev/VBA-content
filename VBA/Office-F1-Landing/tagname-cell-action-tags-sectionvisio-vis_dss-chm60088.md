@@ -3,7 +3,7 @@ title: TagName Cell (Action Tags Section), Visio [Vis_DSS.chm60088]
 keywords: vis_dss.chm60088
 f1_keywords:
 - vis_dss.chm60088
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ce6061e9-0fc6-4627-b022-c562d774f238
 ms.date: 06/08/2017
 ---

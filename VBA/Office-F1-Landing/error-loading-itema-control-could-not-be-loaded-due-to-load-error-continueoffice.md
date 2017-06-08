@@ -3,7 +3,7 @@ title: Error loading 'item'. A control could not be loaded due to load error. Co
 keywords: vblr6.chm60055
 f1_keywords:
 - vblr6.chm60055
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6934e315-0133-4ba5-8039-d9ec6e80eb1f
 ms.date: 06/08/2017
 ---

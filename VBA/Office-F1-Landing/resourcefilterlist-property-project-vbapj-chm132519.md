@@ -3,7 +3,7 @@ title: ResourceFilterList Property, Project [vbapj.chm132519]
 keywords: vbapj.chm132519
 f1_keywords:
 - vbapj.chm132519
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e959b4e9-764d-4e4e-9cfa-1ce3a94d5175
 ms.date: 06/08/2017
 ---

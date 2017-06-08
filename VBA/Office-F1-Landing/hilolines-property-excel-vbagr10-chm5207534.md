@@ -3,7 +3,7 @@ title: HiLoLines Property, Excel [vbagr10.chm5207534]
 keywords: vbagr10.chm5207534
 f1_keywords:
 - vbagr10.chm5207534
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 522c36c8-7676-4f61-89fd-77f5084d360f
 ms.date: 06/08/2017
 ---

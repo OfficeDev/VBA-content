@@ -3,7 +3,7 @@ title: DynamicsOff Cell (Page Layout Section), Visio [vis_sdr.chm280]
 keywords: vis_sdr.chm280
 f1_keywords:
 - vis_sdr.chm280
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c9f27bcc-c316-4789-aef9-84d9971402ee
 ms.date: 06/08/2017
 ---

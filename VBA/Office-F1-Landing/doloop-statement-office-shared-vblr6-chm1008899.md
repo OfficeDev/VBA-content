@@ -3,7 +3,7 @@ title: Do...Loop Statement, Office Shared [vblr6.chm1008899]
 keywords: vblr6.chm1008899
 f1_keywords:
 - vblr6.chm1008899
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 930a0c31-0add-4032-b716-3e28e8f9098a
 ms.date: 06/08/2017
 ---

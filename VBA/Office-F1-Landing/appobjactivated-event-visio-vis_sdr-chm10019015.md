@@ -3,7 +3,7 @@ title: AppObjActivated Event, Visio [vis_sdr.chm10019015]
 keywords: vis_sdr.chm10019015
 f1_keywords:
 - vis_sdr.chm10019015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 620ec8c1-67ed-4ad6-9df8-b7f4bfe9d359
 ms.date: 06/08/2017
 ---

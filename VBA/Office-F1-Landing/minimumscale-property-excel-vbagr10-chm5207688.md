@@ -3,7 +3,7 @@ title: MinimumScale Property, Excel [vbagr10.chm5207688]
 keywords: vbagr10.chm5207688
 f1_keywords:
 - vbagr10.chm5207688
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02f45694-b5dc-4ad1-ac87-70dc7dc5c6cb
 ms.date: 06/08/2017
 ---

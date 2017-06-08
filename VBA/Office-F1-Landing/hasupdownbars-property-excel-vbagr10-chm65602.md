@@ -3,7 +3,7 @@ title: HasUpDownBars Property, Excel [vbagr10.chm65602]
 keywords: vbagr10.chm65602
 f1_keywords:
 - vbagr10.chm65602
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fbacd3bc-8925-4800-ba1a-d5d387cf9e23
 ms.date: 06/08/2017
 ---

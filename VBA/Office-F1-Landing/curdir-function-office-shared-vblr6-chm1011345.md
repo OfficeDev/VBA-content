@@ -3,7 +3,7 @@ title: CurDir Function, Office Shared [vblr6.chm1011345]
 keywords: vblr6.chm1011345
 f1_keywords:
 - vblr6.chm1011345
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ccfc6928-b24a-450e-906d-ad09c4704b80
 ms.date: 06/08/2017
 ---

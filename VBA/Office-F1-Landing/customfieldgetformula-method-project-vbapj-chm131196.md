@@ -3,7 +3,7 @@ title: CustomFieldGetFormula Method, Project [vbapj.chm131196]
 keywords: vbapj.chm131196
 f1_keywords:
 - vbapj.chm131196
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: be97f504-1be8-4ce9-8566-4afb84c64f69
 ms.date: 06/08/2017
 ---

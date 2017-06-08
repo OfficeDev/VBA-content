@@ -3,7 +3,7 @@ title: Window Object (VBA Add-In Object Model), Office Shared [vbob6.chm1071202]
 keywords: vbob6.chm1071202
 f1_keywords:
 - vbob6.chm1071202
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: feb95d0c-fc5c-428a-a17f-f9208279326f
 ms.date: 06/08/2017
 ---

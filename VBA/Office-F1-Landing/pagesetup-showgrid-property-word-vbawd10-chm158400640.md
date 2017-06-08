@@ -3,7 +3,7 @@ title: PageSetup.ShowGrid Property, Word [vbawd10.chm158400640]
 keywords: vbawd10.chm158400640
 f1_keywords:
 - vbawd10.chm158400640
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 33fa4140-8096-42af-bdf1-82b896650a42
 ms.date: 06/08/2017
 ---

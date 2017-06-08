@@ -3,7 +3,7 @@ title: PropertyChange Event, Outlook [vbaol11.chm479]
 keywords: vbaol11.chm479
 f1_keywords:
 - vbaol11.chm479
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4cdf216b-95fc-4366-896e-5400ff946168
 ms.date: 06/08/2017
 ---

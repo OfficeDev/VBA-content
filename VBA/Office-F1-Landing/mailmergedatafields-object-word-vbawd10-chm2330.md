@@ -3,7 +3,7 @@ title: MailMergeDataFields Object, Word [vbawd10.chm2330]
 keywords: vbawd10.chm2330
 f1_keywords:
 - vbawd10.chm2330
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3bf7ccde-7803-4885-8f40-6b39318db5b4
 ms.date: 06/08/2017
 ---

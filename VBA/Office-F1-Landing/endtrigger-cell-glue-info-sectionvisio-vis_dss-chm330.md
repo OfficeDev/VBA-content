@@ -3,7 +3,7 @@ title: EndTrigger Cell (Glue Info Section), Visio [Vis_DSS.chm330]
 keywords: vis_dss.chm330
 f1_keywords:
 - vis_dss.chm330
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 969e0201-edfb-480f-8791-b1ac3390d9f9
 ms.date: 06/08/2017
 ---

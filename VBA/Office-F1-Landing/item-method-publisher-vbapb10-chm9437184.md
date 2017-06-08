@@ -3,7 +3,7 @@ title: Item Method, Publisher [vbapb10.chm9437184]
 keywords: vbapb10.chm9437184
 f1_keywords:
 - vbapb10.chm9437184
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a0731b0-5959-4874-b5e6-e44261916bc3
 ms.date: 06/08/2017
 ---

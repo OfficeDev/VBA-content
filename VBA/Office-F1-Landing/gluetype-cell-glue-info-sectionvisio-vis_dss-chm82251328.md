@@ -3,7 +3,7 @@ title: GlueType Cell (Glue Info Section), Visio [Vis_DSS.chm82251328]
 keywords: vis_dss.chm82251328
 f1_keywords:
 - vis_dss.chm82251328
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c93f7588-05be-42ec-92ae-bfd65c621a31
 ms.date: 06/08/2017
 ---

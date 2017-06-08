@@ -3,7 +3,7 @@ title: Evaluate Method, Excel [vbaxl10.chm183096]
 keywords: vbaxl10.chm183096
 f1_keywords:
 - vbaxl10.chm183096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 53f62f5a-e41a-4e12-9224-dbfa54a1055f
 ms.date: 06/08/2017
 ---

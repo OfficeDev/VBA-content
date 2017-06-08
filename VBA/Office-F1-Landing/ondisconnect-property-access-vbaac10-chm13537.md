@@ -3,7 +3,7 @@ title: OnDisconnect Property, Access [vbaac10.chm13537]
 keywords: vbaac10.chm13537
 f1_keywords:
 - vbaac10.chm13537
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 082d2f0a-e12c-4816-aa8a-8c26b365aa16
 ms.date: 06/08/2017
 ---

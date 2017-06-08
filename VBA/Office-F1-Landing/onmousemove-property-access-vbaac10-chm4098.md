@@ -3,7 +3,7 @@ title: OnMouseMove Property, Access [vbaac10.chm4098]
 keywords: vbaac10.chm4098
 f1_keywords:
 - vbaac10.chm4098
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3323765c-588b-4cc4-8de6-3f0f2bb7f8a3
 ms.date: 06/08/2017
 ---

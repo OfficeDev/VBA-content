@@ -3,7 +3,7 @@ title: BuiltIn Property, Office Shared [vbaof11.chm5002]
 keywords: vbaof11.chm5002
 f1_keywords:
 - vbaof11.chm5002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3f5b99b2-493b-40d9-a4bc-00678a6a0a89
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: UserPicture Method, Excel [vbagr10.chm3077638]
 keywords: vbagr10.chm3077638
 f1_keywords:
 - vbagr10.chm3077638
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e56ccfba-b1e3-46cb-842b-e5463755e83f
 ms.date: 06/08/2017
 ---

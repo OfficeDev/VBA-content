@@ -3,7 +3,7 @@ title: Internal error (Error 51), Office Shared [vblr6.chm50010]
 keywords: vblr6.chm50010
 f1_keywords:
 - vblr6.chm50010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1a5043c4-e53e-48d8-ae76-2f2dba17a802
 ms.date: 06/08/2017
 ---

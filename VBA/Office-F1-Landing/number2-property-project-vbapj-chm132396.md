@@ -3,7 +3,7 @@ title: Number2 Property, Project [vbapj.chm132396]
 keywords: vbapj.chm132396
 f1_keywords:
 - vbapj.chm132396
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 54971557-cec9-48ab-a4a6-608ce24a1ef1
 ms.date: 06/08/2017
 ---

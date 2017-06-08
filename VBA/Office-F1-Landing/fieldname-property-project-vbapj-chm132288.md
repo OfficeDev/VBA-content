@@ -3,7 +3,7 @@ title: FieldName Property, Project [vbapj.chm132288]
 keywords: vbapj.chm132288
 f1_keywords:
 - vbapj.chm132288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9f203998-2a7d-4bd4-be8e-799dd33c6872
 ms.date: 06/08/2017
 ---

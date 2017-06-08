@@ -3,7 +3,7 @@ title: ObjType Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251326]
 keywords: vis_dss.chm82251326
 f1_keywords:
 - vis_dss.chm82251326
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 19f11f2e-2ed0-4e63-9bf3-183be006b295
 ms.date: 06/08/2017
 ---

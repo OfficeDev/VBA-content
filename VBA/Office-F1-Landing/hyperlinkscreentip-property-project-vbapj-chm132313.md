@@ -3,7 +3,7 @@ title: HyperlinkScreenTip Property, Project [vbapj.chm132313]
 keywords: vbapj.chm132313
 f1_keywords:
 - vbapj.chm132313
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 68ba99db-ed07-4172-8259-074db516cc5b
 ms.date: 06/08/2017
 ---

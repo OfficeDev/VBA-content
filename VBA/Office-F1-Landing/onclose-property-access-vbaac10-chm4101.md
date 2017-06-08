@@ -3,7 +3,7 @@ title: OnClose Property, Access [vbaac10.chm4101]
 keywords: vbaac10.chm4101
 f1_keywords:
 - vbaac10.chm4101
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 59bff986-c618-4bf5-8697-4379ffca151d
 ms.date: 06/08/2017
 ---

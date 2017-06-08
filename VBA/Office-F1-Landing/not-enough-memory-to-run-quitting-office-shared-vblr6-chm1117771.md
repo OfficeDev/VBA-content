@@ -3,7 +3,7 @@ title: Not enough memory to run; quitting, Office Shared [vblr6.chm1117771]
 keywords: vblr6.chm1117771
 f1_keywords:
 - vblr6.chm1117771
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e4bd2f80-da0a-48c9-8466-87307e560977
 ms.date: 06/08/2017
 ---

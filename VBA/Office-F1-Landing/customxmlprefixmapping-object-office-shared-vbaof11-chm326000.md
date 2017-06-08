@@ -3,7 +3,7 @@ title: CustomXMLPrefixMapping Object, Office Shared [vbaof11.chm326000]
 keywords: vbaof11.chm326000
 f1_keywords:
 - vbaof11.chm326000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9d68eb67-76d7-4697-8792-124d3d8f00fd
 ms.date: 06/08/2017
 ---

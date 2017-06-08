@@ -3,7 +3,7 @@ title: ContainerRelationshipDeleted Event, Visio [vis_sdr.chm10062070]
 keywords: vis_sdr.chm10062070
 f1_keywords:
 - vis_sdr.chm10062070
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 60fca5e1-921c-4019-9700-402848d4a467
 ms.date: 06/08/2017
 ---

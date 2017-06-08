@@ -3,7 +3,7 @@ title: Projects Property, Project [vbapj.chm132527]
 keywords: vbapj.chm132527
 f1_keywords:
 - vbapj.chm132527
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ab6eea00-781f-4c70-a84f-099bf3d7886f
 ms.date: 06/08/2017
 ---

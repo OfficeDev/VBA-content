@@ -3,7 +3,7 @@ title: Designer Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071
 keywords: vbob6.chm1071212
 f1_keywords:
 - vbob6.chm1071212
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 59d5874f-df8e-41fe-8226-59fd1ebd3d17
 ms.date: 06/08/2017
 ---

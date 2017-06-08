@@ -3,7 +3,7 @@ title: ProjectBeforeClose2 Event, Project [vbapj.chm131151]
 keywords: vbapj.chm131151
 f1_keywords:
 - vbapj.chm131151
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 71db85fa-48a7-42ce-9706-1e247394f431
 ms.date: 06/08/2017
 ---

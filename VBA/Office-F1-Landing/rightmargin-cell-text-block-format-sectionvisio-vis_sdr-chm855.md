@@ -3,7 +3,7 @@ title: RightMargin Cell (Text Block Format Section), Visio [vis_sdr.chm855]
 keywords: vis_sdr.chm855
 f1_keywords:
 - vis_sdr.chm855
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb1756dd-2658-418e-a64b-5073cca962ba
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Orientation Property, Access [vbaac10.chm5010]
 keywords: vbaac10.chm5010
 f1_keywords:
 - vbaac10.chm5010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7d129e0-13b5-4411-8921-422f1456e51e
 ms.date: 06/08/2017
 ---

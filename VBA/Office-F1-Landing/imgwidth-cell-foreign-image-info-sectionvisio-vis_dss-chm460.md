@@ -3,7 +3,7 @@ title: ImgWidth Cell (Foreign Image Info Section), Visio [Vis_DSS.chm460]
 keywords: vis_dss.chm460
 f1_keywords:
 - vis_dss.chm460
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d598edd-998f-4af3-815e-a17ed65ab612
 ms.date: 06/08/2017
 ---

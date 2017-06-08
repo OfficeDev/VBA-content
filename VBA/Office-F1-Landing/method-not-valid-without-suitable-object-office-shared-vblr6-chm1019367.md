@@ -3,7 +3,7 @@ title: Method not valid without suitable object, Office Shared [vblr6.chm1019367
 keywords: vblr6.chm1019367
 f1_keywords:
 - vblr6.chm1019367
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ea2f3e1a-4a7a-4aef-a0b5-34a137992699
 ms.date: 06/08/2017
 ---

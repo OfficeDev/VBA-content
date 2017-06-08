@@ -3,7 +3,7 @@ title: IMEMode Property, Office Shared [fm20.chm2012300]
 keywords: fm20.chm2012300
 f1_keywords:
 - fm20.chm2012300
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4e201239-f3cf-4326-863a-415a2c57392c
 ms.date: 06/08/2017
 ---

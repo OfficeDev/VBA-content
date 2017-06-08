@@ -3,7 +3,7 @@ title: Statement invalid inside Type block, Office Shared [vblr6.chm1011203]
 keywords: vblr6.chm1011203
 f1_keywords:
 - vblr6.chm1011203
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e4eb524b-df7f-45b3-b094-ae2d18482fec
 ms.date: 06/08/2017
 ---

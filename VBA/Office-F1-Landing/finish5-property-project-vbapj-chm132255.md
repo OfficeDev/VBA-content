@@ -3,7 +3,7 @@ title: Finish5 Property, Project [vbapj.chm132255]
 keywords: vbapj.chm132255
 f1_keywords:
 - vbapj.chm132255
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 68f42b45-10e2-4482-bef1-20c70850ae4e
 ms.date: 06/08/2017
 ---

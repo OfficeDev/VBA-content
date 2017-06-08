@@ -3,7 +3,7 @@ title: Find Method (VBA Add-In Object Model), Office Shared [vbob6.chm104022]
 keywords: vbob6.chm104022
 f1_keywords:
 - vbob6.chm104022
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8e40e1b3-efd8-42bb-b096-4e066c7562cf
 ms.date: 06/08/2017
 ---

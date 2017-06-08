@@ -3,7 +3,7 @@ title: LockDelete Cell (Protection Section), Visio [vis_sdr.chm615]
 keywords: vis_sdr.chm615
 f1_keywords:
 - vis_sdr.chm615
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 075249a2-1f57-484b-9681-de931377d536
 ms.date: 06/08/2017
 ---

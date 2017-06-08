@@ -3,7 +3,7 @@ title: Resources Object, Project [vbapj.chm131321]
 keywords: vbapj.chm131321
 f1_keywords:
 - vbapj.chm131321
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fec2f59c-ad2d-4d89-b9f0-56d940f4254d
 ms.date: 06/08/2017
 ---

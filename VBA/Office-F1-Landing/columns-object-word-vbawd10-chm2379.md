@@ -3,7 +3,7 @@ title: Columns Object, Word [vbawd10.chm2379]
 keywords: vbawd10.chm2379
 f1_keywords:
 - vbawd10.chm2379
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 69734387-0f86-4558-a42b-15a3ba166e5d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: UnloadWebBrowserControl Method, Project [vbapj.chm131266]
 keywords: vbapj.chm131266
 f1_keywords:
 - vbapj.chm131266
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 12f58422-fc4d-473b-9d03-ea0b4b626c6b
 ms.date: 06/08/2017
 ---

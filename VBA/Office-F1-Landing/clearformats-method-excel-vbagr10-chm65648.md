@@ -3,7 +3,7 @@ title: ClearFormats Method, Excel [vbagr10.chm65648]
 keywords: vbagr10.chm65648
 f1_keywords:
 - vbagr10.chm65648
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 039213c7-0fea-48df-9fe4-07ee0efdc558
 ms.date: 06/08/2017
 ---

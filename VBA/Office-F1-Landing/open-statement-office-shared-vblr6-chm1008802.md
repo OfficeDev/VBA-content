@@ -3,7 +3,7 @@ title: Open Statement, Office Shared [vblr6.chm1008802]
 keywords: vblr6.chm1008802
 f1_keywords:
 - vblr6.chm1008802
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f5e4a9b1-68c5-47df-9f24-2538958e51fe
 ms.date: 06/08/2017
 ---

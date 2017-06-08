@@ -3,7 +3,7 @@ title: DefaultTabstop Cell (Text Block Format Section), Visio [Vis_DSS.chm220]
 keywords: vis_dss.chm220
 f1_keywords:
 - vis_dss.chm220
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 003f0a47-d07c-4fda-8dd2-c4110ca45f21
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Optional argument must be Variant, Office Shared [vblr6.chm1040143]
 keywords: vblr6.chm1040143
 f1_keywords:
 - vblr6.chm1040143
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fea7a85a-6ca4-48b1-8ed2-02c04ee25cc7
 ms.date: 06/08/2017
 ---

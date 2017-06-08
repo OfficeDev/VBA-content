@@ -3,7 +3,7 @@ title: TickLabelSpacing Property, Excel [vbagr10.chm65565]
 keywords: vbagr10.chm65565
 f1_keywords:
 - vbagr10.chm65565
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 80c0bc03-ea88-449c-bcaa-8bdfd26ad80a
 ms.date: 06/08/2017
 ---

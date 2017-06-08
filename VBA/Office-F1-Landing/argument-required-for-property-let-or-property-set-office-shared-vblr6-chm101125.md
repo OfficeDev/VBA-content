@@ -3,7 +3,7 @@ title: Argument required for Property Let or Property Set, Office Shared [vblr6.
 keywords: vblr6.chm1011255
 f1_keywords:
 - vblr6.chm1011255
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cf5a80f3-cf2c-4cc9-b5b5-2807d5c74c19
 ms.date: 06/08/2017
 ---

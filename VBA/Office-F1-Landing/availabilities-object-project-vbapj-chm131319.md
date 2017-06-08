@@ -3,7 +3,7 @@ title: Availabilities Object, Project [vbapj.chm131319]
 keywords: vbapj.chm131319
 f1_keywords:
 - vbapj.chm131319
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bfa3c7e-805d-4547-ae93-8b30d00ce8da
 ms.date: 06/08/2017
 ---

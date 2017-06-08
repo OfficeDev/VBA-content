@@ -3,7 +3,7 @@ title: The project file 'item1' contains invalid key 'item2'. The project can't 
 keywords: vblr6.chm1117768
 f1_keywords:
 - vblr6.chm1117768
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 34c44000-113c-4269-9269-73ce16e33e52
 ms.date: 06/08/2017
 ---

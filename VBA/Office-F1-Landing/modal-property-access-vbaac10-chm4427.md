@@ -3,7 +3,7 @@ title: Modal Property, Access [vbaac10.chm4427]
 keywords: vbaac10.chm4427
 f1_keywords:
 - vbaac10.chm4427
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb56c43a-f3c4-4b4c-a1ff-d5cb92d5c53d
 ms.date: 06/08/2017
 ---

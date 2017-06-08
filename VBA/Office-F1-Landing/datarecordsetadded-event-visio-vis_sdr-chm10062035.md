@@ -3,7 +3,7 @@ title: DataRecordsetAdded Event, Visio [vis_sdr.chm10062035]
 keywords: vis_sdr.chm10062035
 f1_keywords:
 - vis_sdr.chm10062035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a9c653d3-eefc-4cae-a3ca-e0b74f1ad69f
 ms.date: 06/08/2017
 ---

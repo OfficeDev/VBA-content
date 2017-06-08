@@ -3,7 +3,7 @@ title: DisplayUnitLabel Object, Excel [vbagr10.chm5251584]
 keywords: vbagr10.chm5251584
 f1_keywords:
 - vbagr10.chm5251584
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5620a233-25f1-4b1e-be5a-2a62926f5d19
 ms.date: 06/08/2017
 ---

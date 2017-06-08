@@ -3,7 +3,7 @@ title: SizeMode Property, Access [vbaac10.chm4503]
 keywords: vbaac10.chm4503
 f1_keywords:
 - vbaac10.chm4503
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cd013b44-16fd-4062-9fc5-b56b40416852
 ms.date: 06/08/2017
 ---

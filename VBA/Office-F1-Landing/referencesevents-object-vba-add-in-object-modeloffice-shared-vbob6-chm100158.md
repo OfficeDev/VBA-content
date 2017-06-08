@@ -3,7 +3,7 @@ title: ReferencesEvents Object (VBA Add-In Object Model), Office Shared [vbob6.c
 keywords: vbob6.chm100158
 f1_keywords:
 - vbob6.chm100158
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 751e285e-9d9f-4c56-ac31-255ac4a694a9
 ms.date: 06/08/2017
 ---

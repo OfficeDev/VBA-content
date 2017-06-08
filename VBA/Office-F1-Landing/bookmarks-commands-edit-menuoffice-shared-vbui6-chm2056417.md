@@ -3,7 +3,7 @@ title: Bookmarks Commands (Edit Menu), Office Shared [vbui6.chm2056417]
 keywords: vbui6.chm2056417
 f1_keywords:
 - vbui6.chm2056417
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 266d0783-f58c-4391-a402-eec83516e1c2
 ms.date: 06/08/2017
 ---

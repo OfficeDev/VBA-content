@@ -3,7 +3,7 @@ title: AllowDatasheetView Property, Access [vbaac10.chm5093]
 keywords: vbaac10.chm5093
 f1_keywords:
 - vbaac10.chm5093
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e30c9964-2847-4156-bfed-ccb14c5f3ec6
 ms.date: 06/08/2017
 ---

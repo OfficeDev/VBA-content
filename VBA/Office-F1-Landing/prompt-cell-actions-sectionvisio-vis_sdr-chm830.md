@@ -3,7 +3,7 @@ title: Prompt Cell (Actions Section), Visio [vis_sdr.chm830]
 keywords: vis_sdr.chm830
 f1_keywords:
 - vis_sdr.chm830
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3e3e3fb6-da95-4a73-b07c-78543114d3d9
 ms.date: 06/08/2017
 ---

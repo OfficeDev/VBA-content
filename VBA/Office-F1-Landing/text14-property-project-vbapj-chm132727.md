@@ -3,7 +3,7 @@ title: Text14 Property, Project [vbapj.chm132727]
 keywords: vbapj.chm132727
 f1_keywords:
 - vbapj.chm132727
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 84c21e44-d67d-45f3-9d05-d09ff6f456e6
 ms.date: 06/08/2017
 ---

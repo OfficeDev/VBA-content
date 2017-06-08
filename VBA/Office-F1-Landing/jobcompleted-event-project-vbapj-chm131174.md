@@ -3,7 +3,7 @@ title: JobCompleted Event, Project [vbapj.chm131174]
 keywords: vbapj.chm131174
 f1_keywords:
 - vbapj.chm131174
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb4ca993-ad7c-43fd-b7af-e0b25029b91f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ByRef argument type mismatch, Office Shared [vblr6.chm1040077]
 keywords: vblr6.chm1040077
 f1_keywords:
 - vblr6.chm1040077
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 622ec350-98d3-4edf-b43c-34f910b177d4
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Spacing Cell (Character Section), Visio [Vis_DSS.chm955]
 keywords: vis_dss.chm955
 f1_keywords:
 - vis_dss.chm955
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 106b674b-f4bc-4c55-9974-9c876f21a329
 ms.date: 06/08/2017
 ---

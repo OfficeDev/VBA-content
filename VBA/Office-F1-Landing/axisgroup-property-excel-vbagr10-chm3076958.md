@@ -3,7 +3,7 @@ title: AxisGroup Property, Excel [vbagr10.chm3076958]
 keywords: vbagr10.chm3076958
 f1_keywords:
 - vbagr10.chm3076958
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29b39864-3c1c-457f-9eb6-840cf9f7cc0c
 ms.date: 06/08/2017
 ---

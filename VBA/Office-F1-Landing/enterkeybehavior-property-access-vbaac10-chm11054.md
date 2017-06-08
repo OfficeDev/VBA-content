@@ -3,7 +3,7 @@ title: EnterKeyBehavior Property, Access [vbaac10.chm11054]
 keywords: vbaac10.chm11054
 f1_keywords:
 - vbaac10.chm11054
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 63489305-ce37-4158-b118-98ee8e64f6e5
 ms.date: 06/08/2017
 ---

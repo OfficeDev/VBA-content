@@ -3,7 +3,7 @@ title: For control variable already in use, Office Shared [vblr6.chm1040142]
 keywords: vblr6.chm1040142
 f1_keywords:
 - vblr6.chm1040142
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 00b8109d-2786-4a72-beb7-31acad91976a
 ms.date: 06/08/2017
 ---

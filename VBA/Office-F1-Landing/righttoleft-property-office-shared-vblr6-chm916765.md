@@ -3,7 +3,7 @@ title: RightToLeft Property, Office Shared [vblr6.chm916765]
 keywords: vblr6.chm916765
 f1_keywords:
 - vblr6.chm916765
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 536efceb-3204-4763-b208-a5ecc2dea987
 ms.date: 06/08/2017
 ---

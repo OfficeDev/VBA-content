@@ -3,7 +3,7 @@ title: ShowPageMargins Property, Access [vbaac10.chm13853]
 keywords: vbaac10.chm13853
 f1_keywords:
 - vbaac10.chm13853
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 579c01a7-8fad-4c0b-82fe-d467137ccfc0
 ms.date: 06/08/2017
 ---

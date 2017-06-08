@@ -3,7 +3,7 @@ title: EnterpriseLastModifiedDate Property, Project [vbapj.chm131888]
 keywords: vbapj.chm131888
 f1_keywords:
 - vbapj.chm131888
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ff217714-8bfc-440a-a6bf-bf76828e669d
 ms.date: 06/08/2017
 ---

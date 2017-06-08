@@ -3,7 +3,7 @@ title: Current module does not support Print method, Office Shared [vblr6.chm104
 keywords: vblr6.chm1040131
 f1_keywords:
 - vblr6.chm1040131
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 49bfef96-13f4-4f6d-ab38-c6a27052bcba
 ms.date: 06/08/2017
 ---

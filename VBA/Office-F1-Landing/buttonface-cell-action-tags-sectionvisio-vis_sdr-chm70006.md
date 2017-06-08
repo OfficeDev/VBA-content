@@ -3,7 +3,7 @@ title: ButtonFace Cell (Action Tags Section), Visio [vis_sdr.chm70006]
 keywords: vis_sdr.chm70006
 f1_keywords:
 - vis_sdr.chm70006
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5af43607-7a6b-4a1e-8390-5ab397fc8992
 ms.date: 06/08/2017
 ---

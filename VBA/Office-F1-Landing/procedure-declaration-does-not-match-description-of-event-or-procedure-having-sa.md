@@ -3,7 +3,7 @@ title: Procedure declaration does not match description of event or procedure ha
 keywords: vblr6.chm1015675
 f1_keywords:
 - vblr6.chm1015675
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e09360e1-0ae0-42fd-8fa5-333e28a04de8
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: QueryCancelDocumentClose Event, Visio [vis_sdr.chm10019295]
 keywords: vis_sdr.chm10019295
 f1_keywords:
 - vis_sdr.chm10019295
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7d6ad72-b02a-4d33-963a-32d90a0890c6
 ms.date: 06/08/2017
 ---

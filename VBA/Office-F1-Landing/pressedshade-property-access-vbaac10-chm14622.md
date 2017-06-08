@@ -3,7 +3,7 @@ title: PressedShade Property, Access [vbaac10.chm14622]
 keywords: vbaac10.chm14622
 f1_keywords:
 - vbaac10.chm14622
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 45c9e11d-4292-4473-9864-86c7a73be61b
 ms.date: 06/08/2017
 ---

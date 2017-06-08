@@ -3,7 +3,7 @@ title: COMAddIns Property, Project [vbapj.chm131198]
 keywords: vbapj.chm131198
 f1_keywords:
 - vbapj.chm131198
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1d0fe59b-b8a8-4f2c-9702-dec98e03f37a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: EventProcPrefix Property, Access [vbaac10.chm10447]
 keywords: vbaac10.chm10447
 f1_keywords:
 - vbaac10.chm10447
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e827a777-5d66-4eff-942a-ab43f70781b6
 ms.date: 06/08/2017
 ---

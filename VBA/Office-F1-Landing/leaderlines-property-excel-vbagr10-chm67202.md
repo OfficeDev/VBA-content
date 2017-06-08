@@ -3,7 +3,7 @@ title: LeaderLines Property, Excel [vbagr10.chm67202]
 keywords: vbagr10.chm67202
 f1_keywords:
 - vbagr10.chm67202
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75955063-95d8-4e86-8c3d-0446b1b8aa66
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: HasTitle Property, Excel [vbagr10.chm5207514]
 keywords: vbagr10.chm5207514
 f1_keywords:
 - vbagr10.chm5207514
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb18bb4e-f104-4b04-bb90-4ca89a4071f5
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CanShrink Property, Access [vbaac10.chm5463]
 keywords: vbaac10.chm5463
 f1_keywords:
 - vbaac10.chm5463
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e86dc1d3-2cf5-4d69-836c-9bb711f236a5
 ms.date: 06/08/2017
 ---

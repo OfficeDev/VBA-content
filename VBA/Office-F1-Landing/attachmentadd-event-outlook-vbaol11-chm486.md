@@ -3,7 +3,7 @@ title: AttachmentAdd Event, Outlook [vbaol11.chm486]
 keywords: vbaol11.chm486
 f1_keywords:
 - vbaol11.chm486
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 13b73f2a-f1ee-410e-9831-90c4a3bb327f
 ms.date: 06/08/2017
 ---

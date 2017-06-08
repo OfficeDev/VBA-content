@@ -3,7 +3,7 @@ title: MasterShortcuts Collection, Visio [vis_sdr.chm10145]
 keywords: vis_sdr.chm10145
 f1_keywords:
 - vis_sdr.chm10145
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e2ec1a70-07df-45ba-91a5-de3ec1789db4
 ms.date: 06/08/2017
 ---

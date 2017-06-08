@@ -3,7 +3,7 @@ title: SubdatasheetExpanded Property, Access [vbaac10.chm4965]
 keywords: vbaac10.chm4965
 f1_keywords:
 - vbaac10.chm4965
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 733d742e-a3e5-4003-bdc0-cca440876db8
 ms.date: 06/08/2017
 ---

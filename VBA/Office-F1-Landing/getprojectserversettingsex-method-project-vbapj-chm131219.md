@@ -3,7 +3,7 @@ title: GetProjectServerSettingsEx Method, Project [vbapj.chm131219]
 keywords: vbapj.chm131219
 f1_keywords:
 - vbapj.chm131219
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11a1dcfb-35bd-49f1-bc0a-358e3b184612
 ms.date: 06/08/2017
 ---

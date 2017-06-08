@@ -3,7 +3,7 @@ title: Block If without End If, Office Shared [vblr6.chm1011152]
 keywords: vblr6.chm1011152
 f1_keywords:
 - vblr6.chm1011152
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 58dd4f3b-4153-413a-b74a-468a6b725a98
 ms.date: 06/08/2017
 ---

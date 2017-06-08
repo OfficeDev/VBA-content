@@ -3,7 +3,7 @@ title: TimeScaleValues Object, Project [vbapj.chm131340]
 keywords: vbapj.chm131340
 f1_keywords:
 - vbapj.chm131340
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c81f70b0-9edb-47b4-bdb5-ff0f181e31e5
 ms.date: 06/08/2017
 ---

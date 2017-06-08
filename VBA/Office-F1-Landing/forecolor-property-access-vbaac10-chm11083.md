@@ -3,7 +3,7 @@ title: ForeColor Property, Access [vbaac10.chm11083]
 keywords: vbaac10.chm11083
 f1_keywords:
 - vbaac10.chm11083
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 887a44d1-167a-4fc6-b914-513bf188045a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: PictureCaptionArrangement Property, Access [vbaac10.chm14291]
 keywords: vbaac10.chm14291
 f1_keywords:
 - vbaac10.chm14291
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c7589acd-bb21-4ec3-8b50-6865a845d7bd
 ms.date: 06/08/2017
 ---

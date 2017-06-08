@@ -3,7 +3,7 @@ title: Cycle Property, Access [vbaac10.chm4315]
 keywords: vbaac10.chm4315
 f1_keywords:
 - vbaac10.chm4315
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 737e6639-e937-4917-8efb-48d38e88c456
 ms.date: 06/08/2017
 ---

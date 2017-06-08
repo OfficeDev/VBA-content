@@ -3,7 +3,7 @@ title: Visible Property, Excel [vbagr10.chm3077600]
 keywords: vbagr10.chm3077600
 f1_keywords:
 - vbagr10.chm3077600
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d107c542-15b3-4521-9469-07f5f7f67694
 ms.date: 06/08/2017
 ---

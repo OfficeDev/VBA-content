@@ -3,7 +3,7 @@ title: Text20 Property, Project [vbapj.chm132734]
 keywords: vbapj.chm132734
 f1_keywords:
 - vbapj.chm132734
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d457eb97-8ec1-4c11-9d6e-d11c1ae9146f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Enabled Property, Access [vbaac10.chm4342]
 keywords: vbaac10.chm4342
 f1_keywords:
 - vbaac10.chm4342
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6174f30e-5af6-408a-a3b4-e31cbe904d9e
 ms.date: 06/08/2017
 ---

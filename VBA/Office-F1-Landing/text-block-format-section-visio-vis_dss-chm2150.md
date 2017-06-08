@@ -3,7 +3,7 @@ title: Text Block Format Section, Visio [Vis_DSS.chm2150]
 keywords: vis_dss.chm2150
 f1_keywords:
 - vis_dss.chm2150
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8977dd60-70de-4feb-a241-831f82b6f327
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: AddSharedImage Method, Access [vbaac10.chm14660]
 keywords: vbaac10.chm14660
 f1_keywords:
 - vbaac10.chm14660
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 881dd001-1da6-428b-91ab-1a594640091f
 ms.date: 06/08/2017
 ---

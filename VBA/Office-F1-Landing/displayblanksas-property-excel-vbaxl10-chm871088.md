@@ -3,7 +3,7 @@ title: DisplayBlanksAs Property, Excel [vbaxl10.chm871088]
 keywords: vbaxl10.chm871088
 f1_keywords:
 - vbaxl10.chm871088
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e9552f1-f0fd-4e0d-94bc-1ffffd21eb2c
 ms.date: 06/08/2017
 ---

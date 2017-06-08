@@ -3,7 +3,7 @@ title: ShowAssignmentUnitsAs Property, Project [vbapj.chm132574]
 keywords: vbapj.chm132574
 f1_keywords:
 - vbapj.chm132574
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a1b29fa4-9a8c-47bd-bfbe-315f81baf250
 ms.date: 06/08/2017
 ---

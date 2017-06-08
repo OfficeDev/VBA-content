@@ -3,7 +3,7 @@ title: PromptForSummaryInfo Property, Project [vbapj.chm132528]
 keywords: vbapj.chm132528
 f1_keywords:
 - vbapj.chm132528
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 437a8ce3-e021-4f3e-98d3-ee574e4bb0ea
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Locked Property, Office Shared [fm20.chm2001470]
 keywords: fm20.chm2001470
 f1_keywords:
 - fm20.chm2001470
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 840b69e9-6944-4dc7-95f3-4a732a33a21e
 ms.date: 06/08/2017
 ---

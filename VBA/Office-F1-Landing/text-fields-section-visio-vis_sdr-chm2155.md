@@ -3,7 +3,7 @@ title: Text Fields Section, Visio [vis_sdr.chm2155]
 keywords: vis_sdr.chm2155
 f1_keywords:
 - vis_sdr.chm2155
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc889a7b-f977-46fd-9a12-4fbfcf41347b
 ms.date: 06/08/2017
 ---

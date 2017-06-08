@@ -3,7 +3,7 @@ title: Numeric Criteria from a Control on a Form, Access [vbaac10.chm10886]
 keywords: vbaac10.chm10886
 f1_keywords:
 - vbaac10.chm10886
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b17c60aa-c37c-4301-b6a1-f0247c1d9258
 ms.date: 06/08/2017
 ---

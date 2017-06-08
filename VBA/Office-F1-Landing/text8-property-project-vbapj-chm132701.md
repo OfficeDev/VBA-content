@@ -3,7 +3,7 @@ title: Text8 Property, Project [vbapj.chm132701]
 keywords: vbapj.chm132701
 f1_keywords:
 - vbapj.chm132701
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3f989b85-c50f-49ef-9bc9-85134108bceb
 ms.date: 06/08/2017
 ---

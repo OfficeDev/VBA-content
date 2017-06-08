@@ -3,7 +3,7 @@ title: StandardRate Property, Project [vbapj.chm132634]
 keywords: vbapj.chm132634
 f1_keywords:
 - vbapj.chm132634
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 29e7987c-68ad-4d25-a894-011fb7e5fe63
 ms.date: 06/08/2017
 ---

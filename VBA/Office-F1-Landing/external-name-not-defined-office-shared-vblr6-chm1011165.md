@@ -3,7 +3,7 @@ title: External name not defined, Office Shared [vblr6.chm1011165]
 keywords: vblr6.chm1011165
 f1_keywords:
 - vblr6.chm1011165
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 03b919ee-cc4f-44c9-9773-2aeafdd331a8
 ms.date: 06/08/2017
 ---

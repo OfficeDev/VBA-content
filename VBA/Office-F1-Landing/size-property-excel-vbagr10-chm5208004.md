@@ -3,7 +3,7 @@ title: Size Property, Excel [vbagr10.chm5208004]
 keywords: vbagr10.chm5208004
 f1_keywords:
 - vbagr10.chm5208004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 36d712e1-3087-4928-9c7c-c97d6b12beeb
 ms.date: 06/08/2017
 ---

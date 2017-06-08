@@ -3,7 +3,7 @@ title: DefaultValue Property, Access [vbaac10.chm4329]
 keywords: vbaac10.chm4329
 f1_keywords:
 - vbaac10.chm4329
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 70c8ff8d-6ee5-4e45-96c0-cb7dee64cd04
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: FontName Property, Access [vbaac10.chm4357]
 keywords: vbaac10.chm4357
 f1_keywords:
 - vbaac10.chm4357
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a81d398-662d-4afc-892c-aa409659b8f8
 ms.date: 06/08/2017
 ---

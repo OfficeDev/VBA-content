@@ -3,7 +3,7 @@ title: Center in Form Commands (Format Menu), Office Shared [vbui6.chm2056334]
 keywords: vbui6.chm2056334
 f1_keywords:
 - vbui6.chm2056334
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c17b9505-d030-47fa-a355-cd7286e75d23
 ms.date: 06/08/2017
 ---

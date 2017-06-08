@@ -3,7 +3,7 @@ title: BeforeDelConfirm Property, Access [vbaac10.chm5425]
 keywords: vbaac10.chm5425
 f1_keywords:
 - vbaac10.chm5425
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: be4f9f23-a9f7-49ca-b44b-19697c1c08be
 ms.date: 06/08/2017
 ---

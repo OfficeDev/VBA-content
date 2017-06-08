@@ -3,7 +3,7 @@ title: Lock, Unlock Statements, Office Shared [vblr6.chm1008964]
 keywords: vblr6.chm1008964
 f1_keywords:
 - vblr6.chm1008964
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c1433d52-f0fd-41ca-819e-20e443521e51
 ms.date: 06/08/2017
 ---

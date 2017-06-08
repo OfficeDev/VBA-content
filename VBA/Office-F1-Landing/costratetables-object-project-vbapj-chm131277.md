@@ -3,7 +3,7 @@ title: CostRateTables Object, Project [vbapj.chm131277]
 keywords: vbapj.chm131277
 f1_keywords:
 - vbapj.chm131277
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0e5d3dbb-a042-4e32-8551-a3d65670287e
 ms.date: 06/08/2017
 ---

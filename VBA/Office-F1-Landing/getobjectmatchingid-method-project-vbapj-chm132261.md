@@ -3,7 +3,7 @@ title: GetObjectMatchingID Method, Project [vbapj.chm132261]
 keywords: vbapj.chm132261
 f1_keywords:
 - vbapj.chm132261
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e5e3fb0-040b-42de-9ff1-9aee3fe18736
 ms.date: 06/08/2017
 ---

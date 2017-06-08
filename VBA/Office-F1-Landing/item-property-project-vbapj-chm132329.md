@@ -3,7 +3,7 @@ title: Item Property, Project [vbapj.chm132329]
 keywords: vbapj.chm132329
 f1_keywords:
 - vbapj.chm132329
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a72c650-ae35-404c-8613-bfd4a2f9b95a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Orientation Property, Office Shared [fm20.chm2001660]
 keywords: fm20.chm2001660
 f1_keywords:
 - fm20.chm2001660
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04187fdc-4c2a-453e-9304-3431db27552d
 ms.date: 06/08/2017
 ---

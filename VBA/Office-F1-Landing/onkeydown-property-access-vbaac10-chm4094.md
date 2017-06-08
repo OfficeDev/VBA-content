@@ -3,7 +3,7 @@ title: OnKeyDown Property, Access [vbaac10.chm4094]
 keywords: vbaac10.chm4094
 f1_keywords:
 - vbaac10.chm4094
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 644856d9-baed-4653-972f-fcc6a81462ce
 ms.date: 06/08/2017
 ---

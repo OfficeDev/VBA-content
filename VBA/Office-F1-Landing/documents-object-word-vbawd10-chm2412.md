@@ -3,7 +3,7 @@ title: Documents Object, Word [vbawd10.chm2412]
 keywords: vbawd10.chm2412
 f1_keywords:
 - vbawd10.chm2412
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af0aa9f0-7a87-4ca2-a0c1-b07ca8ed4863
 ms.date: 06/08/2017
 ---

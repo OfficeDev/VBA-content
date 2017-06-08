@@ -3,7 +3,7 @@ title: NavigationCaption Property, Access [vbaac10.chm13568]
 keywords: vbaac10.chm13568
 f1_keywords:
 - vbaac10.chm13568
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c0bc145a-9d30-479a-a97a-fae2da42b551
 ms.date: 06/08/2017
 ---

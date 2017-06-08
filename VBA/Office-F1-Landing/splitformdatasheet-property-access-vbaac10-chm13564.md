@@ -3,7 +3,7 @@ title: SplitFormDatasheet Property, Access [vbaac10.chm13564]
 keywords: vbaac10.chm13564
 f1_keywords:
 - vbaac10.chm13564
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9fca18ab-5120-4a55-aa71-c614ea7f5dea
 ms.date: 06/08/2017
 ---

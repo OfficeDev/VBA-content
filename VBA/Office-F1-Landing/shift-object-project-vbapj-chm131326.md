@@ -3,7 +3,7 @@ title: Shift Object, Project [vbapj.chm131326]
 keywords: vbapj.chm131326
 f1_keywords:
 - vbapj.chm131326
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: efe553d6-bebc-4d79-b917-0d1d3f2eb2a2
 ms.date: 06/08/2017
 ---

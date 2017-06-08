@@ -3,7 +3,7 @@ title: Option Group Control, Access [vbaac10.chm4069]
 keywords: vbaac10.chm4069
 f1_keywords:
 - vbaac10.chm4069
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a77a9785-7887-4538-81d8-19c45185de70
 ms.date: 06/08/2017
 ---

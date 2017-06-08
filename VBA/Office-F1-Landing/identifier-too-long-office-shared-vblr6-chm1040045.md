@@ -3,7 +3,7 @@ title: Identifier too long, Office Shared [vblr6.chm1040045]
 keywords: vblr6.chm1040045
 f1_keywords:
 - vblr6.chm1040045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d80e4044-f8c2-43c9-850a-efb4ff93a363
 ms.date: 06/08/2017
 ---

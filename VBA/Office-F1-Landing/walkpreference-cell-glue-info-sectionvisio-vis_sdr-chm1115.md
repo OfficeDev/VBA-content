@@ -3,7 +3,7 @@ title: WalkPreference Cell (Glue Info Section), Visio [vis_sdr.chm1115]
 keywords: vis_sdr.chm1115
 f1_keywords:
 - vis_sdr.chm1115
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d6c73568-2f55-4cec-a033-cb5f8cacbdf8
 ms.date: 06/08/2017
 ---

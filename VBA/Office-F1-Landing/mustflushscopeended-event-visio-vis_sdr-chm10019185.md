@@ -3,7 +3,7 @@ title: MustFlushScopeEnded Event, Visio [vis_sdr.chm10019185]
 keywords: vis_sdr.chm10019185
 f1_keywords:
 - vis_sdr.chm10019185
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7b0e3425-23a4-447e-9f55-6cafb57d3d7f
 ms.date: 06/08/2017
 ---

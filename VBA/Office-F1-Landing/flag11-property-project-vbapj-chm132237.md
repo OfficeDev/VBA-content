@@ -3,7 +3,7 @@ title: Flag11 Property, Project [vbapj.chm132237]
 keywords: vbapj.chm132237
 f1_keywords:
 - vbapj.chm132237
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 82ac0db3-f6bb-4062-a548-07d21574622a
 ms.date: 06/08/2017
 ---

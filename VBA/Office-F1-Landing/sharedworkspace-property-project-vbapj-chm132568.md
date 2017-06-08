@@ -3,7 +3,7 @@ title: SharedWorkspace Property, Project [vbapj.chm132568]
 keywords: vbapj.chm132568
 f1_keywords:
 - vbapj.chm132568
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d446ec86-9fd5-405e-918d-ecf517ff51f9
 ms.date: 06/08/2017
 ---

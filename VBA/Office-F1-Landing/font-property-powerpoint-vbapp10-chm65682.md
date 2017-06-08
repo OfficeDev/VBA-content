@@ -3,7 +3,7 @@ title: Font Property, PowerPoint [vbapp10.chm65682]
 keywords: vbapp10.chm65682
 f1_keywords:
 - vbapp10.chm65682
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 98093081-f616-49c8-9b5b-289a1058ecb9
 ms.date: 06/08/2017
 ---

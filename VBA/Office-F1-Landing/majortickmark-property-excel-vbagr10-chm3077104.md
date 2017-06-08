@@ -3,7 +3,7 @@ title: MajorTickMark Property, Excel [vbagr10.chm3077104]
 keywords: vbagr10.chm3077104
 f1_keywords:
 - vbagr10.chm3077104
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9d6ce146-2a3f-4ebc-b056-7262adc9decc
 ms.date: 06/08/2017
 ---

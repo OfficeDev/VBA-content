@@ -3,7 +3,7 @@ title: FillBkgndTrans Cell (Fill Format Section), Visio [vis_sdr.chm50100]
 keywords: vis_sdr.chm50100
 f1_keywords:
 - vis_sdr.chm50100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2bb30261-1764-44af-81de-0da7e2e1c4e8
 ms.date: 06/08/2017
 ---

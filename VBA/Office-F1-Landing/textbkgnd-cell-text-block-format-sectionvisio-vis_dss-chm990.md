@@ -3,7 +3,7 @@ title: TextBkgnd Cell (Text Block Format Section), Visio [Vis_DSS.chm990]
 keywords: vis_dss.chm990
 f1_keywords:
 - vis_dss.chm990
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b11fd050-f25a-4f0a-92b9-39309d3003a9
 ms.date: 06/08/2017
 ---

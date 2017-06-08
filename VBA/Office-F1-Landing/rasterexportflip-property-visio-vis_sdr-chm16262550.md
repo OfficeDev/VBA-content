@@ -3,7 +3,7 @@ title: RasterExportFlip Property, Visio [vis_sdr.chm16262550]
 keywords: vis_sdr.chm16262550
 f1_keywords:
 - vis_sdr.chm16262550
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbdf1b60-903a-44da-a977-4f9133404350
 ms.date: 06/08/2017
 ---

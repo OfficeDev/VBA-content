@@ -3,7 +3,7 @@ title: NumberOfTasks Property, Project [vbapj.chm132406]
 keywords: vbapj.chm132406
 f1_keywords:
 - vbapj.chm132406
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 10fe1efd-9925-4bf3-9c57-f5d6eb6af730
 ms.date: 06/08/2017
 ---

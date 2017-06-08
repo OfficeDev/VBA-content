@@ -3,7 +3,7 @@ title: Text19 Property, Project [vbapj.chm132683]
 keywords: vbapj.chm132683
 f1_keywords:
 - vbapj.chm132683
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 061edfac-a721-4c86-be16-2b5612e606d0
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: TabIndex Property, Access [vbaac10.chm10466]
 keywords: vbaac10.chm10466
 f1_keywords:
 - vbaac10.chm10466
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 820e338b-8b1d-4921-84aa-c60aad3d2d85
 ms.date: 06/08/2017
 ---

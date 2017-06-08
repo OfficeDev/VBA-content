@@ -3,7 +3,7 @@ title: Copy Method, Excel [vbagr10.chm3077615]
 keywords: vbagr10.chm3077615
 f1_keywords:
 - vbagr10.chm3077615
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1184c75a-fd0c-477b-a206-49e02f50303c
 ms.date: 06/08/2017
 ---

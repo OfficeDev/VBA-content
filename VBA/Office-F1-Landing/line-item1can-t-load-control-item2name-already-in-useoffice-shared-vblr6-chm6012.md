@@ -3,7 +3,7 @@ title: Line 'item1' Can't load control 'item2'; name already in use., Office Sha
 keywords: vblr6.chm60124
 f1_keywords:
 - vblr6.chm60124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9314c619-ebc9-4e27-bd78-c4dc90d835c3
 ms.date: 06/08/2017
 ---

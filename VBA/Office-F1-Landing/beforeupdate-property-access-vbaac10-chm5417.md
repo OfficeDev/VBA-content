@@ -3,7 +3,7 @@ title: BeforeUpdate Property, Access [vbaac10.chm5417]
 keywords: vbaac10.chm5417
 f1_keywords:
 - vbaac10.chm5417
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a3dfdee9-5131-456c-9947-0ebae897e786
 ms.date: 06/08/2017
 ---

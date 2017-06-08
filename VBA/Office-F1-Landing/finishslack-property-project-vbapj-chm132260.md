@@ -3,7 +3,7 @@ title: FinishSlack Property, Project [vbapj.chm132260]
 keywords: vbapj.chm132260
 f1_keywords:
 - vbapj.chm132260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e09ac0e-da8f-4d26-a300-d742213d92b0
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: GetField Method, Project [vbapj.chm131217]
 keywords: vbapj.chm131217
 f1_keywords:
 - vbapj.chm131217
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e19fadab-5359-44e2-bde9-af2175832576
 ms.date: 06/08/2017
 ---

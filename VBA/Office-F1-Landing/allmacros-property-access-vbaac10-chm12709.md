@@ -3,7 +3,7 @@ title: AllMacros Property, Access [vbaac10.chm12709]
 keywords: vbaac10.chm12709
 f1_keywords:
 - vbaac10.chm12709
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 53281f73-3476-44a7-b247-f2aacae4ef28
 ms.date: 06/08/2017
 ---

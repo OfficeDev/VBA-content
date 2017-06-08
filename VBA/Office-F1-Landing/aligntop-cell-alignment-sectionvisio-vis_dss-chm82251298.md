@@ -3,7 +3,7 @@ title: AlignTop Cell (Alignment Section), Visio [Vis_DSS.chm82251298]
 keywords: vis_dss.chm82251298
 f1_keywords:
 - vis_dss.chm82251298
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8fae0afa-9e00-4a19-bf03-6e13f0a5df97
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: BaselineFinishText Property, Project [vbapj.chm131570]
 keywords: vbapj.chm131570
 f1_keywords:
 - vbapj.chm131570
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 575b97fc-6177-4d28-8565-26b164092a31
 ms.date: 06/08/2017
 ---

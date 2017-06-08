@@ -3,7 +3,7 @@ title: UICode Cell (Text Fields Section), Visio [Vis_DSS.chm1075]
 keywords: vis_dss.chm1075
 f1_keywords:
 - vis_dss.chm1075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5528aa21-2d07-4018-ab39-9e121d81d150
 ms.date: 06/08/2017
 ---

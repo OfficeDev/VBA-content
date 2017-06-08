@@ -3,7 +3,7 @@ title: Count Property, Project [vbapj.chm131674]
 keywords: vbapj.chm131674
 f1_keywords:
 - vbapj.chm131674
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2edfe6f9-d9d4-45c3-9582-a63023e17488
 ms.date: 06/08/2017
 ---

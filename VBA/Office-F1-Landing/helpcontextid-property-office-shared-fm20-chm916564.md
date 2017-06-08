@@ -3,7 +3,7 @@ title: HelpContextID Property, Office Shared [fm20.chm916564]
 keywords: fm20.chm916564
 f1_keywords:
 - fm20.chm916564
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bc7168dd-0185-4810-9507-c1e3c93dd0a6
 ms.date: 06/08/2017
 ---

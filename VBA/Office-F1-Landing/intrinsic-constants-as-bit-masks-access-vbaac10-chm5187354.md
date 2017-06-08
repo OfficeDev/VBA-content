@@ -3,7 +3,7 @@ title: Intrinsic Constants as Bit Masks, Access [vbaac10.chm5187354]
 keywords: vbaac10.chm5187354
 f1_keywords:
 - vbaac10.chm5187354
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1357a148-fe34-43d6-867b-402fd9a86485
 ms.date: 06/08/2017
 ---

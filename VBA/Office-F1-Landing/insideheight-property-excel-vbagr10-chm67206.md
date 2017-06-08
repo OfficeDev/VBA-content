@@ -3,7 +3,7 @@ title: InsideHeight Property, Excel [vbagr10.chm67206]
 keywords: vbagr10.chm67206
 f1_keywords:
 - vbagr10.chm67206
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c71d3644-a507-45ab-83e6-ff51eeb53add
 ms.date: 06/08/2017
 ---

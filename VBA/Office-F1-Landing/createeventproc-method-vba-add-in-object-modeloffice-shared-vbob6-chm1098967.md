@@ -3,7 +3,7 @@ title: CreateEventProc Method (VBA Add-In Object Model), Office Shared [vbob6.ch
 keywords: vbob6.chm1098967
 f1_keywords:
 - vbob6.chm1098967
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66782d32-997d-4877-a33b-485bc15be601
 ms.date: 06/08/2017
 ---

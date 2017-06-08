@@ -3,7 +3,7 @@ title: Deadline Property, Project [vbapj.chm131721]
 keywords: vbapj.chm131721
 f1_keywords:
 - vbapj.chm131721
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 118a04e8-706c-4167-9858-7207a54eac8d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Width Property, Project [vbapj.chm132770]
 keywords: vbapj.chm132770
 f1_keywords:
 - vbapj.chm132770
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f07c10bd-73fe-44ce-b152-9dd5c832f8fd
 ms.date: 06/08/2017
 ---

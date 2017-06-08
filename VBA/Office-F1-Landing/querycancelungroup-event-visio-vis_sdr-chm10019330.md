@@ -3,7 +3,7 @@ title: QueryCancelUngroup Event, Visio [vis_sdr.chm10019330]
 keywords: vis_sdr.chm10019330
 f1_keywords:
 - vis_sdr.chm10019330
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e664980e-ed3f-4a88-8afa-3159e007a786
 ms.date: 06/08/2017
 ---

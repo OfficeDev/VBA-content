@@ -3,7 +3,7 @@ title: Sequence Property, Project [vbapj.chm131653]
 keywords: vbapj.chm131653
 f1_keywords:
 - vbapj.chm131653
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 35b78437-cde0-43e2-b9ee-84eb320582e6
 ms.date: 06/08/2017
 ---

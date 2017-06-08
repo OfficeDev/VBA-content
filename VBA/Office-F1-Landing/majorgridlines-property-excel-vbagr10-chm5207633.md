@@ -3,7 +3,7 @@ title: MajorGridlines Property, Excel [vbagr10.chm5207633]
 keywords: vbagr10.chm5207633
 f1_keywords:
 - vbagr10.chm5207633
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 423d4b4c-fe97-4087-8e61-348d613cb568
 ms.date: 06/08/2017
 ---

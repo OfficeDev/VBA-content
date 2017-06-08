@@ -3,7 +3,7 @@ title: Object library not registered, Office Shared [vblr6.chm1011400]
 keywords: vblr6.chm1011400
 f1_keywords:
 - vblr6.chm1011400
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f15ae765-2abe-4f96-b665-4e892c8b7330
 ms.date: 06/08/2017
 ---

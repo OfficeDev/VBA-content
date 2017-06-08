@@ -3,7 +3,7 @@ title: Indexed Property, Access [vbaac10.chm4394]
 keywords: vbaac10.chm4394
 f1_keywords:
 - vbaac10.chm4394
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b4735b0d-238e-4736-b79e-385c9d8654ea
 ms.date: 06/08/2017
 ---

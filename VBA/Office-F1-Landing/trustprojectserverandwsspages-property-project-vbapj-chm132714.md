@@ -3,7 +3,7 @@ title: TrustProjectServerAndWSSPages Property, Project [vbapj.chm132714]
 keywords: vbapj.chm132714
 f1_keywords:
 - vbapj.chm132714
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9b4eacdf-35db-4720-9fad-204a7e7a0e39
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Calendar Cell (Miscellaneous Section), Visio [Vis_DSS.chm60028]
 keywords: vis_dss.chm60028
 f1_keywords:
 - vis_dss.chm60028
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a3ae598-2887-4a10-b672-4ce2662b411c
 ms.date: 06/08/2017
 ---

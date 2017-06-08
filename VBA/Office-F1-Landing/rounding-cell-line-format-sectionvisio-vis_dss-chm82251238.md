@@ -3,7 +3,7 @@ title: Rounding Cell (Line Format Section), Visio [Vis_DSS.chm82251238]
 keywords: vis_dss.chm82251238
 f1_keywords:
 - vis_dss.chm82251238
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73b314db-31e2-42c3-b454-6b4f40a8e902
 ms.date: 06/08/2017
 ---

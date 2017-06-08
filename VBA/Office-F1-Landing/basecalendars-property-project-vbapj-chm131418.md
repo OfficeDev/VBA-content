@@ -3,7 +3,7 @@ title: BaseCalendars Property, Project [vbapj.chm131418]
 keywords: vbapj.chm131418
 f1_keywords:
 - vbapj.chm131418
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 37ce6a1f-7b1f-4632-a7dd-30684b287e18
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Delay Property, Project [vbapj.chm131723]
 keywords: vbapj.chm131723
 f1_keywords:
 - vbapj.chm131723
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92b97ee1-0ae6-40b2-a6e7-a2847bcad03d
 ms.date: 06/08/2017
 ---

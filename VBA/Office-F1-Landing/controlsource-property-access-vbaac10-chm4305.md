@@ -3,7 +3,7 @@ title: ControlSource Property, Access [vbaac10.chm4305]
 keywords: vbaac10.chm4305
 f1_keywords:
 - vbaac10.chm4305
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5985870c-31f6-4685-afed-f880884e718a
 ms.date: 06/08/2017
 ---

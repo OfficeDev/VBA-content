@@ -3,7 +3,7 @@ title: EnterpriseIsCheckedOut Property, Project [vbapj.chm131887]
 keywords: vbapj.chm131887
 f1_keywords:
 - vbapj.chm131887
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c9434480-57ab-4753-978f-fee95e93dcd9
 ms.date: 06/08/2017
 ---

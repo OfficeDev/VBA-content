@@ -3,7 +3,7 @@ title: ShowOnlyRowSourceValues Property, Access [vbaac10.chm5863]
 keywords: vbaac10.chm5863
 f1_keywords:
 - vbaac10.chm5863
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 32a3f1d3-f3af-4250-a880-4c0a53dfd3c4
 ms.date: 06/08/2017
 ---

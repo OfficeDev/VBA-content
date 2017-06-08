@@ -3,7 +3,7 @@ title: User-defined type may not be passed ByVal, Office Shared [vblr6.chm101126
 keywords: vblr6.chm1011261
 f1_keywords:
 - vblr6.chm1011261
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a22bea58-cb28-49d0-a0aa-8c072abd2c1f
 ms.date: 06/08/2017
 ---

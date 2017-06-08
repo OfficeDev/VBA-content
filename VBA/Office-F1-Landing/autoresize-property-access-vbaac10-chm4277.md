@@ -3,7 +3,7 @@ title: AutoResize Property, Access [vbaac10.chm4277]
 keywords: vbaac10.chm4277
 f1_keywords:
 - vbaac10.chm4277
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79e9f31a-64eb-4ecd-a44b-a2bd879a9298
 ms.date: 06/08/2017
 ---

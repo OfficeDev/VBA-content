@@ -3,7 +3,7 @@ title: LockCalcWH Cell (Protection Section), Visio [vis_sdr.chm605]
 keywords: vis_sdr.chm605
 f1_keywords:
 - vis_sdr.chm605
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aa6218a2-41be-48b4-be03-a045685de405
 ms.date: 06/08/2017
 ---

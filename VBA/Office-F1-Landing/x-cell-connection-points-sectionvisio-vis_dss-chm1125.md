@@ -3,7 +3,7 @@ title: X Cell (Connection Points Section), Visio [Vis_DSS.chm1125]
 keywords: vis_dss.chm1125
 f1_keywords:
 - vis_dss.chm1125
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4aa05703-d842-4f24-91da-e24f09ec3107
 ms.date: 06/08/2017
 ---

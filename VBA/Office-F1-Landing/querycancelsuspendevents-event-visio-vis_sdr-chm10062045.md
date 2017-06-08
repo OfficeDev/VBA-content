@@ -3,7 +3,7 @@ title: QueryCancelSuspendEvents Event, Visio [vis_sdr.chm10062045]
 keywords: vis_sdr.chm10062045
 f1_keywords:
 - vis_sdr.chm10062045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b8faa274-c7dd-4770-a4ae-05cee3b08c36
 ms.date: 06/08/2017
 ---

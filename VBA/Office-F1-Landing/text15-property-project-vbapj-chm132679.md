@@ -3,7 +3,7 @@ title: Text15 Property, Project [vbapj.chm132679]
 keywords: vbapj.chm132679
 f1_keywords:
 - vbapj.chm132679
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6e9ca51-98e5-4f7f-bf55-808b10a00e7d
 ms.date: 06/08/2017
 ---

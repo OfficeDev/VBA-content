@@ -3,7 +3,7 @@ title: MenuBar Property, Access [vbaac10.chm4424]
 keywords: vbaac10.chm4424
 f1_keywords:
 - vbaac10.chm4424
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4cbcc4af-c8b9-4e5a-9f8b-e6fcd44056cf
 ms.date: 06/08/2017
 ---

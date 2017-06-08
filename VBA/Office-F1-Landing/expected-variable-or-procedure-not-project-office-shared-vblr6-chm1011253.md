@@ -3,7 +3,7 @@ title: Expected variable or procedure, not project, Office Shared [vblr6.chm1011
 keywords: vblr6.chm1011253
 f1_keywords:
 - vblr6.chm1011253
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ff44a14b-d0aa-45bb-b2a1-924df91b55ec
 ms.date: 06/08/2017
 ---

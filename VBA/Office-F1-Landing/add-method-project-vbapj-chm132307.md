@@ -3,7 +3,7 @@ title: Add Method, Project [vbapj.chm132307]
 keywords: vbapj.chm132307
 f1_keywords:
 - vbapj.chm132307
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f08d5d7a-73d7-4d09-8f00-5c4497d75beb
 ms.date: 06/08/2017
 ---

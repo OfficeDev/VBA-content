@@ -3,7 +3,7 @@ title: Line 'item1' Missing or invalid control class in file 'item2 '., Office S
 keywords: vblr6.chm1117752
 f1_keywords:
 - vblr6.chm1117752
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eff86b33-f50f-4e91-a956-2f16ed40efbb
 ms.date: 06/08/2017
 ---

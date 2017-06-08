@@ -3,7 +3,7 @@ title: ShapeDataGraphicChanged Event, Visio [vis_sdr.chm10062010]
 keywords: vis_sdr.chm10062010
 f1_keywords:
 - vis_sdr.chm10062010
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b742de60-5b52-4909-afd8-b4bbe8d31264
 ms.date: 06/08/2017
 ---

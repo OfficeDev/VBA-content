@@ -3,7 +3,7 @@ title: Text30 Property, Project [vbapj.chm132745]
 keywords: vbapj.chm132745
 f1_keywords:
 - vbapj.chm132745
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 00b3e183-b654-4cde-8dc7-a3cc9f4d1423
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ProjectBeforeSave2 Event, Project [vbapj.chm131162]
 keywords: vbapj.chm131162
 f1_keywords:
 - vbapj.chm131162
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7d8521f2-23cf-4efd-a6ea-c0aa34006fe8
 ms.date: 06/08/2017
 ---

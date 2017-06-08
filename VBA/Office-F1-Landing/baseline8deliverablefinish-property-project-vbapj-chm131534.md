@@ -3,7 +3,7 @@ title: Baseline8DeliverableFinish Property, Project [vbapj.chm131534]
 keywords: vbapj.chm131534
 f1_keywords:
 - vbapj.chm131534
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4585c242-457d-4f3a-8206-5801dc5c3749
 ms.date: 06/08/2017
 ---

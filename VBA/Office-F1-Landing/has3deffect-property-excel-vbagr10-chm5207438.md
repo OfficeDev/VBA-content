@@ -3,7 +3,7 @@ title: Has3DEffect Property, Excel [vbagr10.chm5207438]
 keywords: vbagr10.chm5207438
 f1_keywords:
 - vbagr10.chm5207438
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0370db29-6bfc-4667-85ed-5032d22dd7a8
 ms.date: 06/08/2017
 ---

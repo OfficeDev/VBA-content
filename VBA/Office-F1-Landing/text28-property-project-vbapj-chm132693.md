@@ -3,7 +3,7 @@ title: Text28 Property, Project [vbapj.chm132693]
 keywords: vbapj.chm132693
 f1_keywords:
 - vbapj.chm132693
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7446b885-cada-456c-bf7a-dca3f2fc4eb9
 ms.date: 06/08/2017
 ---

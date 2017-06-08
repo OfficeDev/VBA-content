@@ -3,7 +3,7 @@ title: Line 'item1' Can't create embedded object in 'item2', Office Shared [vblr
 keywords: vblr6.chm1117700
 f1_keywords:
 - vblr6.chm1117700
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ac0eef22-9374-4b00-8425-44dc995bd928
 ms.date: 06/08/2017
 ---

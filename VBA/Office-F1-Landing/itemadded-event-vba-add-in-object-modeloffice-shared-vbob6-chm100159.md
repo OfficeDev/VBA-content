@@ -3,7 +3,7 @@ title: ItemAdded Event (VBA Add-In Object Model), Office Shared [vbob6.chm100159
 keywords: vbob6.chm100159
 f1_keywords:
 - vbob6.chm100159
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c9a4b709-130b-4e87-ba3e-f746235a69a0
 ms.date: 06/08/2017
 ---

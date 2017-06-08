@@ -3,7 +3,7 @@ title: DataLabel Object, Excel [vbagr10.chm5207279]
 keywords: vbagr10.chm5207279
 f1_keywords:
 - vbagr10.chm5207279
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c8eda6a-b328-48d4-86bb-7549b450b800
 ms.date: 06/08/2017
 ---

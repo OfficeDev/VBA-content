@@ -3,7 +3,7 @@ title: EndnoteOptions Object, Word [vbawd10.chm360]
 keywords: vbawd10.chm360
 f1_keywords:
 - vbawd10.chm360
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8128cd30-71bb-4965-9b71-52eb53aec0b7
 ms.date: 06/08/2017
 ---

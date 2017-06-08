@@ -3,7 +3,7 @@ title: Parent Property, Office Shared [vbaof11.chm5018]
 keywords: vbaof11.chm5018
 f1_keywords:
 - vbaof11.chm5018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 149e5621-324c-4a2c-8675-d0a88390125f
 ms.date: 06/08/2017
 ---

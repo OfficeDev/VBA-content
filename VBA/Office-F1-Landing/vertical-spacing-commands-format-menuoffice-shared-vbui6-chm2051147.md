@@ -3,7 +3,7 @@ title: Vertical Spacing Commands (Format Menu), Office Shared [vbui6.chm2051147]
 keywords: vbui6.chm2051147
 f1_keywords:
 - vbui6.chm2051147
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8a11a32d-996c-47c3-a9e8-218cd4b93d90
 ms.date: 06/08/2017
 ---

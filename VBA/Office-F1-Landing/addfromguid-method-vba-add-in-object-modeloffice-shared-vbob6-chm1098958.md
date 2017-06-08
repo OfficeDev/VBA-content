@@ -3,7 +3,7 @@ title: AddFromGuid Method (VBA Add-In Object Model), Office Shared [vbob6.chm109
 keywords: vbob6.chm1098958
 f1_keywords:
 - vbob6.chm1098958
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c603f6ff-8566-4f7a-a387-e09136f070c6
 ms.date: 06/08/2017
 ---

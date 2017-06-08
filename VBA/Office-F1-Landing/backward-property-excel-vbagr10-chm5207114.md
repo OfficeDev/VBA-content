@@ -3,7 +3,7 @@ title: Backward Property, Excel [vbagr10.chm5207114]
 keywords: vbagr10.chm5207114
 f1_keywords:
 - vbagr10.chm5207114
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb164a0c-46d8-41a2-a965-c152fde2ca1c
 ms.date: 06/08/2017
 ---

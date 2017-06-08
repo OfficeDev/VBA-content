@@ -3,7 +3,7 @@ title: PageLineJumpDirX Cell (Page Layout Section), Visio [Vis_DSS.chm765]
 keywords: vis_dss.chm765
 f1_keywords:
 - vis_dss.chm765
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48040636-419b-4787-b5bb-34e0c8344aab
 ms.date: 06/08/2017
 ---

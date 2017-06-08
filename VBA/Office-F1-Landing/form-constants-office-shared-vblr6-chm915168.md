@@ -3,7 +3,7 @@ title: Form Constants, Office Shared [vblr6.chm915168]
 keywords: vblr6.chm915168
 f1_keywords:
 - vblr6.chm915168
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 50060fe2-fe32-418f-b984-d8bbf6a35c5a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Wrong number of arguments (Error 450), Office Shared [vblr6.chm1011176]
 keywords: vblr6.chm1011176
 f1_keywords:
 - vblr6.chm1011176
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: abefb4c4-3de4-444f-afe1-259abf8cd12c
 ms.date: 06/08/2017
 ---

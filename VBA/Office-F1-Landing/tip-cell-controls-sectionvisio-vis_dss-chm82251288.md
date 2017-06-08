@@ -3,7 +3,7 @@ title: Tip Cell (Controls Section), Visio [Vis_DSS.chm82251288]
 keywords: vis_dss.chm82251288
 f1_keywords:
 - vis_dss.chm82251288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ba151248-241f-433c-9864-602599bf1c45
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: LocalizeFont Cell (Character Section), Visio [Vis_DSS.chm1033766]
 keywords: vis_dss.chm1033766
 f1_keywords:
 - vis_dss.chm1033766
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bfe90b47-a31f-4a84-897d-964ce922061e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: No object (Error 31004), Office Shared [vblr6.chm31004]
 keywords: vblr6.chm31004
 f1_keywords:
 - vblr6.chm31004
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d7c61f7f-4374-4b6a-be75-3bc7900487b1
 ms.date: 06/08/2017
 ---

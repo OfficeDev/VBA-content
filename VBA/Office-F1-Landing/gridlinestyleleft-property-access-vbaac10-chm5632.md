@@ -3,7 +3,7 @@ title: GridlineStyleLeft Property, Access [vbaac10.chm5632]
 keywords: vbaac10.chm5632
 f1_keywords:
 - vbaac10.chm5632
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4822878f-4ea1-4389-983a-471e357426df
 ms.date: 06/08/2017
 ---

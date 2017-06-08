@@ -3,7 +3,7 @@ title: MouseMove Event, Visio [vis_sdr.chm11651305]
 keywords: vis_sdr.chm11651305
 f1_keywords:
 - vis_sdr.chm11651305
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3319c374-ac25-4934-aee6-9bc824810eb4
 ms.date: 06/08/2017
 ---

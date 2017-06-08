@@ -3,7 +3,7 @@ title: Windows Collection, Visio [vis_sdr.chm10310]
 keywords: vis_sdr.chm10310
 f1_keywords:
 - vis_sdr.chm10310
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ec466ec-f6d5-4721-8710-8d5404e1249c
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OverAllocatedAssignments Object, Project [vbapj.chm131297]
 keywords: vbapj.chm131297
 f1_keywords:
 - vbapj.chm131297
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f491045d-fd5c-4e1e-a818-cae6b41910a7
 ms.date: 06/08/2017
 ---

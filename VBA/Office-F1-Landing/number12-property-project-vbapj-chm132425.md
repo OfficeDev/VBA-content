@@ -3,7 +3,7 @@ title: Number12 Property, Project [vbapj.chm132425]
 keywords: vbapj.chm132425
 f1_keywords:
 - vbapj.chm132425
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: feefe65b-18be-46df-8d4c-000280fcb8dc
 ms.date: 06/08/2017
 ---

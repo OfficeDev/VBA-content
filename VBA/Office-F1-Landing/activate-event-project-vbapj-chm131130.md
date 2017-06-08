@@ -3,7 +3,7 @@ title: Activate Event, Project [vbapj.chm131130]
 keywords: vbapj.chm131130
 f1_keywords:
 - vbapj.chm131130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 15822a94-f80c-4395-b99a-eecc1b445f75
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Selection Property, Excel [vbaxl10.chm132106]
 keywords: vbaxl10.chm132106
 f1_keywords:
 - vbaxl10.chm132106
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f01d3446-240f-4b27-bdd6-e7ecd3baa950
 ms.date: 06/08/2017
 ---

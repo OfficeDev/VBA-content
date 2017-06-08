@@ -3,7 +3,7 @@ title: GroupShapes Object, Word [vbawd10.chm2486]
 keywords: vbawd10.chm2486
 f1_keywords:
 - vbawd10.chm2486
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4cb21fde-1b82-4f4f-af4a-a59be9716c03
 ms.date: 06/08/2017
 ---

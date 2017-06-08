@@ -3,7 +3,7 @@ title: EnterpriseListSeparator Property, Project [vbapj.chm131777]
 keywords: vbapj.chm131777
 f1_keywords:
 - vbapj.chm131777
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 652bee0d-6072-4afa-bec3-2357750f915d
 ms.date: 06/08/2017
 ---

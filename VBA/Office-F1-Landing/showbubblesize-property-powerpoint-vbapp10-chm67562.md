@@ -3,7 +3,7 @@ title: ShowBubbleSize Property, PowerPoint [vbapp10.chm67562]
 keywords: vbapp10.chm67562
 f1_keywords:
 - vbapp10.chm67562
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1cd05fb-d048-4cc2-a19f-a0e7abea8d55
 ms.date: 06/08/2017
 ---

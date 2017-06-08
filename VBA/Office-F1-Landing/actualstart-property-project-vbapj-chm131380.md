@@ -3,7 +3,7 @@ title: ActualStart Property, Project [vbapj.chm131380]
 keywords: vbapj.chm131380
 f1_keywords:
 - vbapj.chm131380
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75fa9061-5c23-42e9-9143-1d81451af022
 ms.date: 06/08/2017
 ---

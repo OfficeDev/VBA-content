@@ -3,7 +3,7 @@ title: Reviewer Section, Visio [Vis_DSS.chm60015]
 keywords: vis_dss.chm60015
 f1_keywords:
 - vis_dss.chm60015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9ccae2d5-8407-4461-b1a5-a1cae4dc154c
 ms.date: 06/08/2017
 ---

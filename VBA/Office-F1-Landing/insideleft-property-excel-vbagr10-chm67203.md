@@ -3,7 +3,7 @@ title: InsideLeft Property, Excel [vbagr10.chm67203]
 keywords: vbagr10.chm67203
 f1_keywords:
 - vbagr10.chm67203
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 02ff13a4-1a52-4834-ba1f-84b9ebe0c9a9
 ms.date: 06/08/2017
 ---

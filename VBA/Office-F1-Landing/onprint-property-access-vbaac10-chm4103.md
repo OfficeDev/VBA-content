@@ -3,7 +3,7 @@ title: OnPrint Property, Access [vbaac10.chm4103]
 keywords: vbaac10.chm4103
 f1_keywords:
 - vbaac10.chm4103
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d944306c-623c-4a52-8147-ab8dfa2fc083
 ms.date: 06/08/2017
 ---

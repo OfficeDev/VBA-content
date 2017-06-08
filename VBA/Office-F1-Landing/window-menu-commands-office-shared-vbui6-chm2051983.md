@@ -3,7 +3,7 @@ title: Window Menu Commands, Office Shared [vbui6.chm2051983]
 keywords: vbui6.chm2051983
 f1_keywords:
 - vbui6.chm2051983
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7fd2f3e8-04a3-47c8-94ba-21727d1b62b1
 ms.date: 06/08/2017
 ---

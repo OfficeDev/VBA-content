@@ -3,7 +3,7 @@ title: Too many DLL application clients, Office Shared [vblr6.chm1000047]
 keywords: vblr6.chm1000047
 f1_keywords:
 - vblr6.chm1000047
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6c4bb4eb-7978-4a32-bc2e-4cf037db8ff1
 ms.date: 06/08/2017
 ---

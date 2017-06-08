@@ -3,7 +3,7 @@ title: BeforeAutoSave Event, Outlook [vbaol11.chm496]
 keywords: vbaol11.chm496
 f1_keywords:
 - vbaol11.chm496
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 99ddb576-8d00-4fa0-8c0f-6de2c9e74aff
 ms.date: 06/08/2017
 ---

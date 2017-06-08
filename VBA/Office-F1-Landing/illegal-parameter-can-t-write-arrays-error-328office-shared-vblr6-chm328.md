@@ -3,7 +3,7 @@ title: Illegal parameter. Can't write arrays (Error 328), Office Shared [vblr6.c
 keywords: vblr6.chm328
 f1_keywords:
 - vblr6.chm328
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df73a840-b18d-4a82-ac6b-aebcd8554169
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ControlType Property, Access [vbaac10.chm11042]
 keywords: vbaac10.chm11042
 f1_keywords:
 - vbaac10.chm11042
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 979a80c1-1775-4cce-8c0f-6f1724597b3e
 ms.date: 06/08/2017
 ---

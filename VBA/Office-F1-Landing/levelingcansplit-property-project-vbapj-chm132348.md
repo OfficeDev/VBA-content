@@ -3,7 +3,7 @@ title: LevelingCanSplit Property, Project [vbapj.chm132348]
 keywords: vbapj.chm132348
 f1_keywords:
 - vbapj.chm132348
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ed051d8b-3678-47fd-8cab-f5ecb6e2c247
 ms.date: 06/08/2017
 ---

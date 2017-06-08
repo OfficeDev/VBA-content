@@ -3,7 +3,7 @@ title: XValues Property, Project [vbapj.chm132609]
 keywords: vbapj.chm132609
 f1_keywords:
 - vbapj.chm132609
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 239068ec-48a6-46e1-86c0-9f6ca2fdd6f6
 ms.date: 06/08/2017
 ---

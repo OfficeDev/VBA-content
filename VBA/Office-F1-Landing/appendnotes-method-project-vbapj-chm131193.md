@@ -3,7 +3,7 @@ title: AppendNotes Method, Project [vbapj.chm131193]
 keywords: vbapj.chm131193
 f1_keywords:
 - vbapj.chm131193
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 682f8114-fce7-4cce-9ab5-c85db4aba0dd
 ms.date: 06/08/2017
 ---

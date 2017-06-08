@@ -3,7 +3,7 @@ title: CodeMask Object, Project [vbapj.chm131278]
 keywords: vbapj.chm131278
 f1_keywords:
 - vbapj.chm131278
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 062f0a53-b483-402e-b960-ebd009571a77
 ms.date: 06/08/2017
 ---

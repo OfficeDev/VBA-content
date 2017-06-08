@@ -3,7 +3,7 @@ title: Text3 Property, Project [vbapj.chm132695]
 keywords: vbapj.chm132695
 f1_keywords:
 - vbapj.chm132695
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9bd56746-0dde-4b7e-830f-2c9d78d31a93
 ms.date: 06/08/2017
 ---

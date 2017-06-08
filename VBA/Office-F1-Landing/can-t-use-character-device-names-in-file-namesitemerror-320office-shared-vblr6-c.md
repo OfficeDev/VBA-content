@@ -3,7 +3,7 @@ title: Can't use character device names in file names 'item' (Error 320), Office
 keywords: vblr6.chm1117814
 f1_keywords:
 - vblr6.chm1117814
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ea34ae7-12f5-40e6-846d-1cd4804e2773
 ms.date: 06/08/2017
 ---

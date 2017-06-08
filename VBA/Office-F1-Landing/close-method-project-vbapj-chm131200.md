@@ -3,7 +3,7 @@ title: Close Method, Project [vbapj.chm131200]
 keywords: vbapj.chm131200
 f1_keywords:
 - vbapj.chm131200
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 293716eb-92e0-4040-8015-b124f6f1bdc1
 ms.date: 06/08/2017
 ---

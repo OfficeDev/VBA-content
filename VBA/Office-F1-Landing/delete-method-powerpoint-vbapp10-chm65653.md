@@ -3,7 +3,7 @@ title: Delete Method, PowerPoint [vbapp10.chm65653]
 keywords: vbapp10.chm65653
 f1_keywords:
 - vbapp10.chm65653
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 94c7db11-5a1c-44ba-b36e-1fff13c1428f
 ms.date: 06/08/2017
 ---

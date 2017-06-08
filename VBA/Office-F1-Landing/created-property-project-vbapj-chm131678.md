@@ -3,7 +3,7 @@ title: Created Property, Project [vbapj.chm131678]
 keywords: vbapj.chm131678
 f1_keywords:
 - vbapj.chm131678
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e31f6a7e-0615-4201-93af-ec7863ba91f4
 ms.date: 06/08/2017
 ---

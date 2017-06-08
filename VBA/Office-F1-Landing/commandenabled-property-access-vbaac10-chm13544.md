@@ -3,7 +3,7 @@ title: CommandEnabled Property, Access [vbaac10.chm13544]
 keywords: vbaac10.chm13544
 f1_keywords:
 - vbaac10.chm13544
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 333189ac-8087-41b9-9058-c6a6fc4802df
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Width Property, Word [vbawd10.chm94568485]
 keywords: vbawd10.chm94568485
 f1_keywords:
 - vbawd10.chm94568485
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: db29191f-9515-4f28-aab7-3f78354b4240
 ms.date: 06/08/2017
 ---

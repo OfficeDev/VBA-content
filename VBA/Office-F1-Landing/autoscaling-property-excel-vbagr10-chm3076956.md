@@ -3,7 +3,7 @@ title: AutoScaling Property, Excel [vbagr10.chm3076956]
 keywords: vbagr10.chm3076956
 f1_keywords:
 - vbagr10.chm3076956
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 25e8df27-4ea6-440c-a3ae-d6377361468f
 ms.date: 06/08/2017
 ---

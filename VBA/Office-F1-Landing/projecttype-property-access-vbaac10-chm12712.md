@@ -3,7 +3,7 @@ title: ProjectType Property, Access [vbaac10.chm12712]
 keywords: vbaac10.chm12712
 f1_keywords:
 - vbaac10.chm12712
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3fb4eb51-cd02-4701-a07d-7b6fb893257d
 ms.date: 06/08/2017
 ---

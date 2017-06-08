@@ -3,7 +3,7 @@ title: Baseline7DurationText Property, Project [vbapj.chm131523]
 keywords: vbapj.chm131523
 f1_keywords:
 - vbapj.chm131523
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 444701bd-bdb1-46c0-82de-0f4a73fa315b
 ms.date: 06/08/2017
 ---

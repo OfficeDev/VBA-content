@@ -3,7 +3,7 @@ title: AfterResumeEvents Event, Visio [vis_sdr.chm10062060]
 keywords: vis_sdr.chm10062060
 f1_keywords:
 - vis_sdr.chm10062060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6353ab2c-5f45-4306-804b-1979cf0326d7
 ms.date: 06/08/2017
 ---

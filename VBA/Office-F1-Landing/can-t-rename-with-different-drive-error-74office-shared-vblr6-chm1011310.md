@@ -3,7 +3,7 @@ title: Can't rename with different drive (Error 74), Office Shared [vblr6.chm101
 keywords: vblr6.chm1011310
 f1_keywords:
 - vblr6.chm1011310
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: db13d877-70e7-443e-bf53-d5173334545a
 ms.date: 06/08/2017
 ---

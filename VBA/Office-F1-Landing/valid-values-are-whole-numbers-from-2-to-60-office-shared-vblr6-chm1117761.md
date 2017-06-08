@@ -3,7 +3,7 @@ title: Valid values are whole numbers from 2 to 60, Office Shared [vblr6.chm1117
 keywords: vblr6.chm1117761
 f1_keywords:
 - vblr6.chm1117761
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7dea8883-143a-4fb7-a540-0a1aacbbcc73
 ms.date: 06/08/2017
 ---

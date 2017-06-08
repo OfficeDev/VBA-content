@@ -3,7 +3,7 @@ title: LineCount Property, Office Shared [fm20.chm5225052]
 keywords: fm20.chm5225052
 f1_keywords:
 - fm20.chm5225052
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4135de71-135f-4c98-8bdf-ebccb3afa45d
 ms.date: 06/08/2017
 ---

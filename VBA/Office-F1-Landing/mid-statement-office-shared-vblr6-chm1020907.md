@@ -3,7 +3,7 @@ title: Mid Statement, Office Shared [vblr6.chm1020907]
 keywords: vblr6.chm1020907
 f1_keywords:
 - vblr6.chm1020907
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9458b24d-d8eb-43e8-9345-38e008275048
 ms.date: 06/08/2017
 ---

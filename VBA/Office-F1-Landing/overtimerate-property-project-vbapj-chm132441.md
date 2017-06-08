@@ -3,7 +3,7 @@ title: OvertimeRate Property, Project [vbapj.chm132441]
 keywords: vbapj.chm132441
 f1_keywords:
 - vbapj.chm132441
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e2b36dba-3bd4-48a5-93e9-a9621a0ee4cd
 ms.date: 06/08/2017
 ---

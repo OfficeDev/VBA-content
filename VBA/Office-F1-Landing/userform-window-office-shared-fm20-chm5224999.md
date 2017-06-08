@@ -3,7 +3,7 @@ title: UserForm Window, Office Shared [fm20.chm5224999]
 keywords: fm20.chm5224999
 f1_keywords:
 - fm20.chm5224999
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7be2f4c-c9bc-44a2-9df1-9489deb7738f
 ms.date: 06/08/2017
 ---

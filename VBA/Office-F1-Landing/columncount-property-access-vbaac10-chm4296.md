@@ -3,7 +3,7 @@ title: ColumnCount Property, Access [vbaac10.chm4296]
 keywords: vbaac10.chm4296
 f1_keywords:
 - vbaac10.chm4296
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2b63e8c-124f-49cf-924b-f25920a478eb
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NameIsAuto Property, Excel [vbagr10.chm5207723]
 keywords: vbagr10.chm5207723
 f1_keywords:
 - vbagr10.chm5207723
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 054083ea-c1c9-45b8-9fef-c7371474cc49
 ms.date: 06/08/2017
 ---

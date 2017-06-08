@@ -3,7 +3,7 @@ title: ReadabilityStatistics Object, Word [vbawd10.chm2478]
 keywords: vbawd10.chm2478
 f1_keywords:
 - vbawd10.chm2478
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b5fc581f-be8d-4162-a4c9-652289e45856
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Primary Property, Access [acmain11.chm2239]
 keywords: acmain11.chm2239
 f1_keywords:
 - acmain11.chm2239
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e88c5fad-ed34-4e14-94d3-3e3170cf7170
 ms.date: 06/08/2017
 ---

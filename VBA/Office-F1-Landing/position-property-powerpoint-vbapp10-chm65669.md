@@ -3,7 +3,7 @@ title: Position Property, PowerPoint [vbapp10.chm65669]
 keywords: vbapp10.chm65669
 f1_keywords:
 - vbapp10.chm65669
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5f2c7045-a45f-45cc-a202-47ba9dd6fc7f
 ms.date: 06/08/2017
 ---

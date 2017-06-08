@@ -3,7 +3,7 @@ title: A procedure of that name already exists, Office Shared [vblr6.chm50097]
 keywords: vblr6.chm50097
 f1_keywords:
 - vblr6.chm50097
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c4c666e-47b0-4176-b3e3-50f5da4292ad
 ms.date: 06/08/2017
 ---

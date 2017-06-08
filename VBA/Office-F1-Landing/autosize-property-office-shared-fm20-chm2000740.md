@@ -3,7 +3,7 @@ title: AutoSize Property, Office Shared [fm20.chm2000740]
 keywords: fm20.chm2000740
 f1_keywords:
 - fm20.chm2000740
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8fccd168-b6bd-48cd-8a5d-a69e9bae3bb5
 ms.date: 06/08/2017
 ---

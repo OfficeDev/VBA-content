@@ -3,7 +3,7 @@ title: CalendarDrivers Object, Project [vbapj.chm131331]
 keywords: vbapj.chm131331
 f1_keywords:
 - vbapj.chm131331
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e8c32d17-b4fd-4017-a260-ab6fea4e553d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Application Property, Visio [vis_sdr.chm17513090]
 keywords: vis_sdr.chm17513090
 f1_keywords:
 - vis_sdr.chm17513090
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 994df18c-4d72-4859-a04a-5ac238870ffb
 ms.date: 06/08/2017
 ---

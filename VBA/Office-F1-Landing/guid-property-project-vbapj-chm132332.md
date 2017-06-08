@@ -3,7 +3,7 @@ title: Guid Property, Project [vbapj.chm132332]
 keywords: vbapj.chm132332
 f1_keywords:
 - vbapj.chm132332
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9370fad6-49b4-4eaa-a059-987e59fa198e
 ms.date: 06/08/2017
 ---

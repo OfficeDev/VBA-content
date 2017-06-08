@@ -3,7 +3,7 @@ title: Stop Property, Project [vbapj.chm132659]
 keywords: vbapj.chm132659
 f1_keywords:
 - vbapj.chm132659
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 26e7f80b-4715-4a26-b916-403c8b20d0b6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: DataLabels Collection, Excel [vbagr10.chm5207285]
 keywords: vbagr10.chm5207285
 f1_keywords:
 - vbagr10.chm5207285
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4c177122-3703-4c79-b204-3a410d446b28
 ms.date: 06/08/2017
 ---

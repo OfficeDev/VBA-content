@@ -3,7 +3,7 @@ title: GetSelection Method (VBA Add-In Object Model), Office Shared [vbob6.chm10
 keywords: vbob6.chm104034
 f1_keywords:
 - vbob6.chm104034
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 303a859c-29a2-4b71-b8a9-5f7ee1b7d8a2
 ms.date: 06/08/2017
 ---

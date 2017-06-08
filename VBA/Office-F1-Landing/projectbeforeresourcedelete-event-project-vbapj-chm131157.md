@@ -3,7 +3,7 @@ title: ProjectBeforeResourceDelete Event, Project [vbapj.chm131157]
 keywords: vbapj.chm131157
 f1_keywords:
 - vbapj.chm131157
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3cd2a81e-d812-4ebb-b27d-a1d4ac67303d
 ms.date: 06/08/2017
 ---

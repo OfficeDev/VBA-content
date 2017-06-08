@@ -3,7 +3,7 @@ title: The project file 'item' is corrupt and can't be loaded, Office Shared [vb
 keywords: vblr6.chm1117775
 f1_keywords:
 - vblr6.chm1117775
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61d8cd7b-ba7f-424a-95c7-f5693bcda891
 ms.date: 06/08/2017
 ---

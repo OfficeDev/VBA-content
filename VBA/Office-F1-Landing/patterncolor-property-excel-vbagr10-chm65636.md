@@ -3,7 +3,7 @@ title: PatternColor Property, Excel [vbagr10.chm65636]
 keywords: vbagr10.chm65636
 f1_keywords:
 - vbagr10.chm65636
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c5e4829-b94a-42fe-8bff-f8010f593dc1
 ms.date: 06/08/2017
 ---

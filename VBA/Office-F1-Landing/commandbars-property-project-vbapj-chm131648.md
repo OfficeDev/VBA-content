@@ -3,7 +3,7 @@ title: CommandBars Property, Project [vbapj.chm131648]
 keywords: vbapj.chm131648
 f1_keywords:
 - vbapj.chm131648
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 77e855f6-e9c2-4e14-b5d1-1fc15c9313b5
 ms.date: 06/08/2017
 ---

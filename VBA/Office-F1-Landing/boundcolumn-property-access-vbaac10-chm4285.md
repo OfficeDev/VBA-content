@@ -3,7 +3,7 @@ title: BoundColumn Property, Access [vbaac10.chm4285]
 keywords: vbaac10.chm4285
 f1_keywords:
 - vbaac10.chm4285
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e9b5d491-927f-483a-8890-79a50e430817
 ms.date: 06/08/2017
 ---

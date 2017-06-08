@@ -3,7 +3,7 @@ title: TxtLocPinY Cell (Text Transform Section), Visio [vis_sdr.chm1035]
 keywords: vis_sdr.chm1035
 f1_keywords:
 - vis_sdr.chm1035
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a0ad29bd-fca0-47f3-bf38-885529572ad5
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: The Customize Control dialog box, Office Shared [fm20.chm5225280]
 keywords: fm20.chm5225280
 f1_keywords:
 - fm20.chm5225280
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 22824781-4312-486d-8d1d-cc67216ed969
 ms.date: 06/08/2017
 ---

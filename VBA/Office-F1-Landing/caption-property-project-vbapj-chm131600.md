@@ -3,7 +3,7 @@ title: Caption Property, Project [vbapj.chm131600]
 keywords: vbapj.chm131600
 f1_keywords:
 - vbapj.chm131600
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3639f2ed-2d47-4ee7-b7bb-1aadb50ff2d1
 ms.date: 06/08/2017
 ---

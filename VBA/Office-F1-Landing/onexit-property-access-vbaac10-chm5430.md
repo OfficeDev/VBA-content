@@ -3,7 +3,7 @@ title: OnExit Property, Access [vbaac10.chm5430]
 keywords: vbaac10.chm5430
 f1_keywords:
 - vbaac10.chm5430
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24b7c5aa-b61b-4c6d-bb58-08bd684cad4d
 ms.date: 06/08/2017
 ---

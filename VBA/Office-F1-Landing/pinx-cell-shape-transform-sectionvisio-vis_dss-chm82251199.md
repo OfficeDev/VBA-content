@@ -3,7 +3,7 @@ title: PinX Cell (Shape Transform Section), Visio [Vis_DSS.chm82251199]
 keywords: vis_dss.chm82251199
 f1_keywords:
 - vis_dss.chm82251199
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b002f25f-2912-46f0-a293-05b717615ccf
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: QueryCancelMasterDelete Event, Visio [vis_sdr.chm10519310]
 keywords: vis_sdr.chm10519310
 f1_keywords:
 - vis_sdr.chm10519310
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c4b7ee4a-8ce4-4580-b4a4-2eb0d711e97e
 ms.date: 06/08/2017
 ---

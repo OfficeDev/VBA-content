@@ -3,7 +3,7 @@ title: NoAlignBox Cell (Miscellaneous Section), Visio [Vis_DSS.chm82251320]
 keywords: vis_dss.chm82251320
 f1_keywords:
 - vis_dss.chm82251320
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 934bd001-86e8-486a-a77a-5e48dfee1071
 ms.date: 06/08/2017
 ---

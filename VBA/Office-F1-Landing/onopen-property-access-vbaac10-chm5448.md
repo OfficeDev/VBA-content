@@ -3,7 +3,7 @@ title: OnOpen Property, Access [vbaac10.chm5448]
 keywords: vbaac10.chm5448
 f1_keywords:
 - vbaac10.chm5448
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3564ae2e-e35c-4959-a9f3-dacb593c49fd
 ms.date: 06/08/2017
 ---

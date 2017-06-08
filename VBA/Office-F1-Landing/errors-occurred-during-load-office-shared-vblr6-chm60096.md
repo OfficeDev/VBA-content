@@ -3,7 +3,7 @@ title: Errors occurred during load, Office Shared [vblr6.chm60096]
 keywords: vblr6.chm60096
 f1_keywords:
 - vblr6.chm60096
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dc91f551-5fc3-4cfa-b122-e961d4dbb516
 ms.date: 06/08/2017
 ---

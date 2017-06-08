@@ -3,7 +3,7 @@ title: HyperlinkColor Property, Project [vbapj.chm132310]
 keywords: vbapj.chm132310
 f1_keywords:
 - vbapj.chm132310
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a40b4e20-35db-43ba-902f-7bf13e17093e
 ms.date: 06/08/2017
 ---

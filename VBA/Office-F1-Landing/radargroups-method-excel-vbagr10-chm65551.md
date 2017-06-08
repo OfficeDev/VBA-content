@@ -3,7 +3,7 @@ title: RadarGroups Method, Excel [vbagr10.chm65551]
 keywords: vbagr10.chm65551
 f1_keywords:
 - vbagr10.chm65551
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 68d68ae1-a021-48bb-939f-852ea3c3c3f5
 ms.date: 06/08/2017
 ---

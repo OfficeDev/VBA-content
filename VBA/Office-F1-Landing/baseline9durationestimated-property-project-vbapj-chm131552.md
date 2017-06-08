@@ -3,7 +3,7 @@ title: Baseline9DurationEstimated Property, Project [vbapj.chm131552]
 keywords: vbapj.chm131552
 f1_keywords:
 - vbapj.chm131552
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0667acbc-619d-43d8-968f-6dd61aee1ca5
 ms.date: 06/08/2017
 ---

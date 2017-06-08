@@ -3,7 +3,7 @@ title: Sheets Property, Excel [vbaxl10.chm183109]
 keywords: vbaxl10.chm183109
 f1_keywords:
 - vbaxl10.chm183109
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fb74147f-ed6f-42e5-915b-3263c9173324
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: InsertLines Method (VBA Add-In Object Model), Office Shared [vbob6.chm104
 keywords: vbob6.chm104013
 f1_keywords:
 - vbob6.chm104013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4023e6d1-13e4-4162-bd9e-7bc92c3954bf
 ms.date: 06/08/2017
 ---

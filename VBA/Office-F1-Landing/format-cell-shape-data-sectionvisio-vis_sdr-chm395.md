@@ -3,7 +3,7 @@ title: Format Cell (Shape Data Section), Visio [vis_sdr.chm395]
 keywords: vis_sdr.chm395
 f1_keywords:
 - vis_sdr.chm395
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f504ae87-86ea-429f-84b8-0dd056107666
 ms.date: 06/08/2017
 ---

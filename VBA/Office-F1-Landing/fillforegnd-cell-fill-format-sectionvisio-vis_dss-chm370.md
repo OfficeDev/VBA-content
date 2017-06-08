@@ -3,7 +3,7 @@ title: FillForegnd Cell (Fill Format Section), Visio [Vis_DSS.chm370]
 keywords: vis_dss.chm370
 f1_keywords:
 - vis_dss.chm370
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6d57d6d3-3f9f-4f92-b28c-61bb52d69582
 ms.date: 06/08/2017
 ---

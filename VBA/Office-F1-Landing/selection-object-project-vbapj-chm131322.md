@@ -3,7 +3,7 @@ title: Selection Object, Project [vbapj.chm131322]
 keywords: vbapj.chm131322
 f1_keywords:
 - vbapj.chm131322
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 698e0bc5-fde5-493c-b42b-c07ed2b4d137
 ms.date: 06/08/2017
 ---

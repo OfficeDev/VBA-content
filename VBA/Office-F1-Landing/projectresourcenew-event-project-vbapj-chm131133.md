@@ -3,7 +3,7 @@ title: ProjectResourceNew Event, Project [vbapj.chm131133]
 keywords: vbapj.chm131133
 f1_keywords:
 - vbapj.chm131133
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 235fa07c-84ff-4a55-abda-52a71713410f
 ms.date: 06/08/2017
 ---

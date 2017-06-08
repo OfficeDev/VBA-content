@@ -3,7 +3,7 @@ title: ShowCrossProjectLinksInfo Property, Project [vbapj.chm132576]
 keywords: vbapj.chm132576
 f1_keywords:
 - vbapj.chm132576
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5ba9d2f2-c36d-416a-9fb2-6809f9bbc812
 ms.date: 06/08/2017
 ---

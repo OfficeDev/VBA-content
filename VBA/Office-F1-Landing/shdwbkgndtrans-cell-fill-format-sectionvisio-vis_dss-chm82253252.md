@@ -3,7 +3,7 @@ title: ShdwBkgndTrans Cell (Fill Format Section), Visio [Vis_DSS.chm82253252]
 keywords: vis_dss.chm82253252
 f1_keywords:
 - vis_dss.chm82253252
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 182eb49a-0e5a-4a39-a4d9-668f58a49055
 ms.date: 06/08/2017
 ---

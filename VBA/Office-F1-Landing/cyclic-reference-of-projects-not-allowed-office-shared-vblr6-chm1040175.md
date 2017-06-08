@@ -3,7 +3,7 @@ title: Cyclic reference of projects not allowed, Office Shared [vblr6.chm1040175
 keywords: vblr6.chm1040175
 f1_keywords:
 - vblr6.chm1040175
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14fe46d5-1948-40e2-bf35-8de51fc5c71e
 ms.date: 06/08/2017
 ---

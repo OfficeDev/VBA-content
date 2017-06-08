@@ -3,7 +3,7 @@ title: Value Property (VBA Add-In Object Model), Office Shared [vbob6.chm1100299
 keywords: vbob6.chm1100299
 f1_keywords:
 - vbob6.chm1100299
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30961b13-e676-4151-8428-5363d3d39626
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Design Mode and Exit Design Mode Commands (Run Menu), Office Shared [vbui
 keywords: vbui6.chm2057523
 f1_keywords:
 - vbui6.chm2057523
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb548e5c-6919-4dc1-a53a-30bc5bfece77
 ms.date: 06/08/2017
 ---

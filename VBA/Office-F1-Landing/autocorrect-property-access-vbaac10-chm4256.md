@@ -3,7 +3,7 @@ title: AutoCorrect Property, Access [vbaac10.chm4256]
 keywords: vbaac10.chm4256
 f1_keywords:
 - vbaac10.chm4256
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ca5921e2-cda8-4912-8c1a-61f3cf8d6c90
 ms.date: 06/08/2017
 ---

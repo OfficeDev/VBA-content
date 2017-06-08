@@ -3,7 +3,7 @@ title: Object Property, Office Shared [fm20.chm5225071]
 keywords: fm20.chm5225071
 f1_keywords:
 - fm20.chm5225071
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0241a70f-a0c5-415f-b243-ddaed067d06d
 ms.date: 06/08/2017
 ---

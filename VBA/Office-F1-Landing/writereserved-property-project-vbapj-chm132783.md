@@ -3,7 +3,7 @@ title: WriteReserved Property, Project [vbapj.chm132783]
 keywords: vbapj.chm132783
 f1_keywords:
 - vbapj.chm132783
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 88bbe953-f2e4-4769-bd57-b777fb31a87d
 ms.date: 06/08/2017
 ---

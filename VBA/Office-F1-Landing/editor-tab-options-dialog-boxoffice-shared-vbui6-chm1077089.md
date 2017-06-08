@@ -3,7 +3,7 @@ title: Editor Tab (Options Dialog Box), Office Shared [vbui6.chm1077089]
 keywords: vbui6.chm1077089
 f1_keywords:
 - vbui6.chm1077089
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 587009a3-c94d-4c57-829d-199928921b9d
 ms.date: 06/08/2017
 ---

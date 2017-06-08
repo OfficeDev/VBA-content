@@ -3,7 +3,7 @@ title: Hide Command (Shortcut Menu), Office Shared [vbui6.chm1069959]
 keywords: vbui6.chm1069959
 f1_keywords:
 - vbui6.chm1069959
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bdf71291-b488-4ce4-99b6-5d23a39bbe9f
 ms.date: 06/08/2017
 ---

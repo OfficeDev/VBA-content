@@ -3,7 +3,7 @@ title: Start4 Property, Project [vbapj.chm132594]
 keywords: vbapj.chm132594
 f1_keywords:
 - vbapj.chm132594
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d8048241-8af3-4f1c-b83f-238119e08091
 ms.date: 06/08/2017
 ---

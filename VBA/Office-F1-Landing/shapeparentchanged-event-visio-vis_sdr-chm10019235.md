@@ -3,7 +3,7 @@ title: ShapeParentChanged Event, Visio [vis_sdr.chm10019235]
 keywords: vis_sdr.chm10019235
 f1_keywords:
 - vis_sdr.chm10019235
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b45503f2-8d53-41ee-9438-e768fb6ae279
 ms.date: 06/08/2017
 ---

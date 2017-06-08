@@ -3,7 +3,7 @@ title: WindowSidepaneTaskChange Event, Project [vbapj.chm131137]
 keywords: vbapj.chm131137
 f1_keywords:
 - vbapj.chm131137
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7ef7509e-f99a-4141-9982-e08572b88dd2
 ms.date: 06/08/2017
 ---

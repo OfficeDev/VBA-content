@@ -3,7 +3,7 @@ title: Color Cell (Reviewer Section), Visio [Vis_DSS.chm1030990]
 keywords: vis_dss.chm1030990
 f1_keywords:
 - vis_dss.chm1030990
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7df79d1e-6042-4f9c-911e-37b48ef123e2
 ms.date: 06/08/2017
 ---

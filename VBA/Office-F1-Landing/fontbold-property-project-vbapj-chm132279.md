@@ -3,7 +3,7 @@ title: FontBold Property, Project [vbapj.chm132279]
 keywords: vbapj.chm132279
 f1_keywords:
 - vbapj.chm132279
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b266cf35-8834-4136-b97f-5377016d0d33
 ms.date: 06/08/2017
 ---

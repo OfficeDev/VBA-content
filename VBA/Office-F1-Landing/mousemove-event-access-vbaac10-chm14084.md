@@ -3,7 +3,7 @@ title: MouseMove Event, Access [vbaac10.chm14084]
 keywords: vbaac10.chm14084
 f1_keywords:
 - vbaac10.chm14084
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 693df8ca-7031-44bb-a5c4-d0d06203d91a
 ms.date: 06/08/2017
 ---

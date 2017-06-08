@@ -3,7 +3,7 @@ title: Open Each ShapeSheet in the Same Window, Visio [Vis_DSS.chm60120]
 keywords: vis_dss.chm60120
 f1_keywords:
 - vis_dss.chm60120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6c791f43-e995-4705-8051-169377639a07
 ms.date: 06/08/2017
 ---

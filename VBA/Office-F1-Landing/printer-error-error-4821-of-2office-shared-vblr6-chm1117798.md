@@ -3,7 +3,7 @@ title: Printer error (Error 482) [1 of 2], Office Shared [vblr6.chm1117798]
 keywords: vblr6.chm1117798
 f1_keywords:
 - vblr6.chm1117798
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d98dd26-5898-4a0f-8c2c-d08adb0653e2
 ms.date: 06/08/2017
 ---

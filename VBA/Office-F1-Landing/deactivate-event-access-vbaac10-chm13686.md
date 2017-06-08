@@ -3,7 +3,7 @@ title: Deactivate Event, Access [vbaac10.chm13686]
 keywords: vbaac10.chm13686
 f1_keywords:
 - vbaac10.chm13686
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4bd5d05c-79f7-441e-bbbf-1f241f4aec30
 ms.date: 06/08/2017
 ---

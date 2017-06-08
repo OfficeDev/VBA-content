@@ -3,7 +3,7 @@ title: ControlBox Property, Access [vbaac10.chm4304]
 keywords: vbaac10.chm4304
 f1_keywords:
 - vbaac10.chm4304
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 455b20c6-7bf8-4be6-b964-796afbcc2d25
 ms.date: 06/08/2017
 ---

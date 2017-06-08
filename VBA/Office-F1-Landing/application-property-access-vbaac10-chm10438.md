@@ -3,7 +3,7 @@ title: Application Property, Access [vbaac10.chm10438]
 keywords: vbaac10.chm10438
 f1_keywords:
 - vbaac10.chm10438
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1de6cf1e-3011-43dd-be9f-7b6acde44449
 ms.date: 06/08/2017
 ---

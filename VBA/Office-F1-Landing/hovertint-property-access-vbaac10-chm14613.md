@@ -3,7 +3,7 @@ title: HoverTint Property, Access [vbaac10.chm14613]
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5e162df-b935-4979-b479-5276de380d93
 ms.date: 06/08/2017
 ---

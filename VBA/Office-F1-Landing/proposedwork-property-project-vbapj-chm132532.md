@@ -3,7 +3,7 @@ title: ProposedWork Property, Project [vbapj.chm132532]
 keywords: vbapj.chm132532
 f1_keywords:
 - vbapj.chm132532
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8fb8a3fd-01cb-4f6c-8ccc-c8d645ceb439
 ms.date: 06/08/2017
 ---

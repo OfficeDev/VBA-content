@@ -3,7 +3,7 @@ title: CheckIn Method, Project [vbapj.chm132546]
 keywords: vbapj.chm132546
 f1_keywords:
 - vbapj.chm132546
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 43c0c1bc-7e1f-449c-a233-c035c0776acb
 ms.date: 06/08/2017
 ---

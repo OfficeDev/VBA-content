@@ -3,7 +3,7 @@ title: Type Cell (Text Fields Section), Visio [Vis_DSS.chm82251702]
 keywords: vis_dss.chm82251702
 f1_keywords:
 - vis_dss.chm82251702
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3feb1e1c-685f-43ad-acc7-bc6fdf3120b4
 ms.date: 06/08/2017
 ---

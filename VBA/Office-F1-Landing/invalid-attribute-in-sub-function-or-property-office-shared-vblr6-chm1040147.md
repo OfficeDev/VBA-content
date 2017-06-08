@@ -3,7 +3,7 @@ title: Invalid attribute in Sub, Function, or Property, Office Shared [vblr6.chm
 keywords: vblr6.chm1040147
 f1_keywords:
 - vblr6.chm1040147
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a245462e-283e-473e-9ea5-920a3c76a368
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Read Event, Outlook [vbaol11.chm480]
 keywords: vbaol11.chm480
 f1_keywords:
 - vbaol11.chm480
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d56a30e6-1d3f-447f-97a4-219657324e55
 ms.date: 06/08/2017
 ---

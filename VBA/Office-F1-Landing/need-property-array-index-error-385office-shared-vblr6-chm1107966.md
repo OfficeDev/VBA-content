@@ -3,7 +3,7 @@ title: Need property-array index (Error 385), Office Shared [vblr6.chm1107966]
 keywords: vblr6.chm1107966
 f1_keywords:
 - vblr6.chm1107966
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 472a8580-0814-48a5-a089-720e3358488b
 ms.date: 06/08/2017
 ---

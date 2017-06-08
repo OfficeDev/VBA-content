@@ -3,7 +3,7 @@ title: EventDrop Cell (Events Section), Visio [Vis_DSS.chm350]
 keywords: vis_dss.chm350
 f1_keywords:
 - vis_dss.chm350
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9eb66f69-3738-47e5-ae6b-c7797191d289
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: DblClick Event, Access [vbaac10.chm10671]
 keywords: vbaac10.chm10671
 f1_keywords:
 - vbaac10.chm10671
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d644767e-43ae-4c72-8607-5be5df334f98
 ms.date: 06/08/2017
 ---

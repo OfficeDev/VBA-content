@@ -3,7 +3,7 @@ title: Trendlines Method, Excel [vbagr10.chm65690]
 keywords: vbagr10.chm65690
 f1_keywords:
 - vbagr10.chm65690
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1485ebc6-6d50-4367-a4f0-6d44727fb4b0
 ms.date: 06/08/2017
 ---

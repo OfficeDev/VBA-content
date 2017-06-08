@@ -3,7 +3,7 @@ title: Left Property, Project [vbapj.chm132372]
 keywords: vbapj.chm132372
 f1_keywords:
 - vbapj.chm132372
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b594d0d-d5c8-4616-85a2-ec9c54599b39
 ms.date: 06/08/2017
 ---

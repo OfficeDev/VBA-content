@@ -3,7 +3,7 @@ title: ScrollBarAlign Property, Access [vbaac10.chm5009]
 keywords: vbaac10.chm5009
 f1_keywords:
 - vbaac10.chm5009
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 12204272-3840-4999-84a7-b0afb137f99a
 ms.date: 06/08/2017
 ---

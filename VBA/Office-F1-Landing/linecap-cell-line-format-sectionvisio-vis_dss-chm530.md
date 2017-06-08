@@ -3,7 +3,7 @@ title: LineCap Cell (Line Format Section), Visio [Vis_DSS.chm530]
 keywords: vis_dss.chm530
 f1_keywords:
 - vis_dss.chm530
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7932b077-4da9-4906-81a8-90473cdfc0bb
 ms.date: 06/08/2017
 ---

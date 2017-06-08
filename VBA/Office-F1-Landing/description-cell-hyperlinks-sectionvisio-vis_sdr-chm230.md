@@ -3,7 +3,7 @@ title: Description Cell (Hyperlinks Section), Visio [vis_sdr.chm230]
 keywords: vis_sdr.chm230
 f1_keywords:
 - vis_sdr.chm230
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 77201a6a-bdb7-460d-8116-ad12819b4967
 ms.date: 06/08/2017
 ---

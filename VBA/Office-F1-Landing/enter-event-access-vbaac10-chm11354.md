@@ -3,7 +3,7 @@ title: Enter Event, Access [vbaac10.chm11354]
 keywords: vbaac10.chm11354
 f1_keywords:
 - vbaac10.chm11354
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6b8e9074-738d-423b-9dcf-3d258a2e235f
 ms.date: 06/08/2017
 ---

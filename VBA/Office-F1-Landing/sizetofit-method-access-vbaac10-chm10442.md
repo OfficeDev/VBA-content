@@ -3,7 +3,7 @@ title: SizeToFit Method, Access [vbaac10.chm10442]
 keywords: vbaac10.chm10442
 f1_keywords:
 - vbaac10.chm10442
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20b22269-8ae2-46fb-bca7-6e5d82aba899
 ms.date: 06/08/2017
 ---

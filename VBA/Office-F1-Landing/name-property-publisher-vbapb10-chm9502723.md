@@ -3,7 +3,7 @@ title: Name Property, Publisher [vbapb10.chm9502723]
 keywords: vbapb10.chm9502723
 f1_keywords:
 - vbapb10.chm9502723
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbc42140-91e4-4608-9b88-39fa8446685b
 ms.date: 06/08/2017
 ---

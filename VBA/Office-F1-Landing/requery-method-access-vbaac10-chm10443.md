@@ -3,7 +3,7 @@ title: Requery Method, Access [vbaac10.chm10443]
 keywords: vbaac10.chm10443
 f1_keywords:
 - vbaac10.chm10443
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2cebf36b-203d-448d-a0a0-99d15cde1602
 ms.date: 06/08/2017
 ---

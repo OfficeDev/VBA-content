@@ -3,7 +3,7 @@ title: MultiPage Control, Office Shared [fm20.chm2000570]
 keywords: fm20.chm2000570
 f1_keywords:
 - fm20.chm2000570
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbaec808-4a62-4334-bdcf-b7f5593193bb
 ms.date: 06/08/2017
 ---

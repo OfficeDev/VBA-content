@@ -3,7 +3,7 @@ title: ShdwForegnd Cell (Fill Format Section), Visio [Vis_DSS.chm920]
 keywords: vis_dss.chm920
 f1_keywords:
 - vis_dss.chm920
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73cf00da-e7f8-4cf2-8e42-867a422e7070
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: User interrupt occurred (Error 18), Office Shared [vblr6.chm1011376]
 keywords: vblr6.chm1011376
 f1_keywords:
 - vblr6.chm1011376
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62fc879b-a3fc-4462-b41b-aef278a05d4f
 ms.date: 06/08/2017
 ---

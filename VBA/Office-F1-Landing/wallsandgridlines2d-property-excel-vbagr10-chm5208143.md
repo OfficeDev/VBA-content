@@ -3,7 +3,7 @@ title: WallsAndGridlines2D Property, Excel [vbagr10.chm5208143]
 keywords: vbagr10.chm5208143
 f1_keywords:
 - vbagr10.chm5208143
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0b6ae0b1-80e2-4620-ab20-77241f260688
 ms.date: 06/08/2017
 ---

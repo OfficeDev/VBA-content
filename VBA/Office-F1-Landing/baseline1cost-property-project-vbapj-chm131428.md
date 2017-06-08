@@ -3,7 +3,7 @@ title: Baseline1Cost Property, Project [vbapj.chm131428]
 keywords: vbapj.chm131428
 f1_keywords:
 - vbapj.chm131428
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c2b7cd1-52c6-4542-9a36-4685652e7288
 ms.date: 06/08/2017
 ---

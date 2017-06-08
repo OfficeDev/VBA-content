@@ -3,7 +3,7 @@ title: ListRows Property, Access [vbaac10.chm11384]
 keywords: vbaac10.chm11384
 f1_keywords:
 - vbaac10.chm11384
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 48d2f269-9bac-4f67-a6e7-c277ba65598c
 ms.date: 06/08/2017
 ---

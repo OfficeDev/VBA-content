@@ -3,7 +3,7 @@ title: Expected Function or variable, Office Shared [vblr6.chm1011155]
 keywords: vblr6.chm1011155
 f1_keywords:
 - vblr6.chm1011155
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e7621af-f9ca-4042-bb02-99bd17649d1f
 ms.date: 06/08/2017
 ---

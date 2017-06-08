@@ -3,7 +3,7 @@ title: PathSuccessor Property, Project [vbapj.chm132492]
 keywords: vbapj.chm132492
 f1_keywords:
 - vbapj.chm132492
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 207759de-0a6c-4840-b0ea-3057e0694dd1
 ms.date: 06/08/2017
 ---

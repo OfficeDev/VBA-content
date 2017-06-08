@@ -3,7 +3,7 @@ title: MouseWheel Property, Access [vbaac10.chm5117]
 keywords: vbaac10.chm5117
 f1_keywords:
 - vbaac10.chm5117
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2c5a31b5-20f8-4b8a-9d4d-d08e9f787dce
 ms.date: 06/08/2017
 ---

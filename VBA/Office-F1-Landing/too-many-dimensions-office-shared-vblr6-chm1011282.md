@@ -3,7 +3,7 @@ title: Too many dimensions, Office Shared [vblr6.chm1011282]
 keywords: vblr6.chm1011282
 f1_keywords:
 - vblr6.chm1011282
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f22f0e08-f12b-4833-8b96-e15c21e94ae3
 ms.date: 06/08/2017
 ---

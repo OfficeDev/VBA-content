@@ -3,7 +3,7 @@ title: HoursPerDay Property, Project [vbapj.chm132306]
 keywords: vbapj.chm132306
 f1_keywords:
 - vbapj.chm132306
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1437a6d-96ac-4d1f-bfa1-f8b83cc6f79b
 ms.date: 06/08/2017
 ---

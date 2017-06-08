@@ -3,7 +3,7 @@ title: Parent Property, Publisher [vbapb10.chm9437186]
 keywords: vbapb10.chm9437186
 f1_keywords:
 - vbapb10.chm9437186
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 49ff38a4-cfb1-422e-9c33-d912b1b5f17a
 ms.date: 06/08/2017
 ---

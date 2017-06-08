@@ -3,7 +3,7 @@ title: Value Cell (User-Defined Cells Section), Visio [vis_sdr.chm1100]
 keywords: vis_sdr.chm1100
 f1_keywords:
 - vis_sdr.chm1100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 85c14549-3d9d-4123-8e04-9d1f862528c0
 ms.date: 06/08/2017
 ---

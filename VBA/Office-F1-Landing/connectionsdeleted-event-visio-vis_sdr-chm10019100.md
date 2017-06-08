@@ -3,7 +3,7 @@ title: ConnectionsDeleted Event, Visio [vis_sdr.chm10019100]
 keywords: vis_sdr.chm10019100
 f1_keywords:
 - vis_sdr.chm10019100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 34fbfaef-3e85-4b1b-873a-2ce1b582f405
 ms.date: 06/08/2017
 ---

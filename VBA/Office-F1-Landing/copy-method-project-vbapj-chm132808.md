@@ -3,7 +3,7 @@ title: Copy Method, Project [vbapj.chm132808]
 keywords: vbapj.chm132808
 f1_keywords:
 - vbapj.chm132808
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6531333b-5e96-4660-9191-26125135d321
 ms.date: 06/08/2017
 ---

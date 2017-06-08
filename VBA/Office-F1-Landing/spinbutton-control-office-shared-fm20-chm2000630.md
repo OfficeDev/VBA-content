@@ -3,7 +3,7 @@ title: SpinButton Control, Office Shared [fm20.chm2000630]
 keywords: fm20.chm2000630
 f1_keywords:
 - fm20.chm2000630
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 208fa7c2-c3cb-406d-af02-d75741da8bdb
 ms.date: 06/08/2017
 ---

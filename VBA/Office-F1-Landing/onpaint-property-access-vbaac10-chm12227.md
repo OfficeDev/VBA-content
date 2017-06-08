@@ -3,7 +3,7 @@ title: OnPaint Property, Access [vbaac10.chm12227]
 keywords: vbaac10.chm12227
 f1_keywords:
 - vbaac10.chm12227
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bdede645-c630-41e7-b99d-497d98cf3881
 ms.date: 06/08/2017
 ---

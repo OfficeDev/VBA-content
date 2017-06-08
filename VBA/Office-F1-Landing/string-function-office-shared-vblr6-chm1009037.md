@@ -3,7 +3,7 @@ title: String Function, Office Shared [vblr6.chm1009037]
 keywords: vblr6.chm1009037
 f1_keywords:
 - vblr6.chm1009037
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 792a1ead-116d-4369-a939-f0fe20eed262
 ms.date: 06/08/2017
 ---

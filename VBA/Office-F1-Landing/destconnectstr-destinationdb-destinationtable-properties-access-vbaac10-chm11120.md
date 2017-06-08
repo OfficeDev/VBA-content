@@ -3,7 +3,7 @@ title: DestConnectStr, DestinationDB, DestinationTable Properties, Access [vbaac
 keywords: vbaac10.chm11120
 f1_keywords:
 - vbaac10.chm11120
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 794e7755-ced7-4d89-8b49-eab37a8875e6
 ms.date: 06/08/2017
 ---

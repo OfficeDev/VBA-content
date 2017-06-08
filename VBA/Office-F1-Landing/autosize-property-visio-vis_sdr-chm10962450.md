@@ -3,7 +3,7 @@ title: AutoSize Property, Visio [vis_sdr.chm10962450]
 keywords: vis_sdr.chm10962450
 f1_keywords:
 - vis_sdr.chm10962450
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0410363-031c-4868-9f24-78ade0a152e8
 ms.date: 06/08/2017
 ---

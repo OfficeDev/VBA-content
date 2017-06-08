@@ -3,7 +3,7 @@ title: Shape Property, Access [vbaac10.chm13815]
 keywords: vbaac10.chm13815
 f1_keywords:
 - vbaac10.chm13815
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 700508f5-4885-48ff-8f5b-534ce541e929
 ms.date: 06/08/2017
 ---

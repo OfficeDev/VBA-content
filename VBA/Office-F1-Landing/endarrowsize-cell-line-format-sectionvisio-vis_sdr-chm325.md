@@ -3,7 +3,7 @@ title: EndArrowSize Cell (Line Format Section), Visio [vis_sdr.chm325]
 keywords: vis_sdr.chm325
 f1_keywords:
 - vis_sdr.chm325
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a6c9c1f-1476-498d-b7fd-c8b55026a3b8
 ms.date: 06/08/2017
 ---

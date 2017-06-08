@@ -3,7 +3,7 @@ title: Controls Row (Controls Section), Visio [vis_sdr.chm60018]
 keywords: vis_sdr.chm60018
 f1_keywords:
 - vis_sdr.chm60018
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0dc252c5-d9bb-42e8-ac1e-a113ae611853
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Item Property, Access [vbaac10.chm12680]
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1b3cb27d-e31c-4a6d-8ed0-71ea34f4b89c
 ms.date: 06/08/2017
 ---

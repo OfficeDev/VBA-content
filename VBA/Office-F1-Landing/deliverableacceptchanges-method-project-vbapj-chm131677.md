@@ -3,7 +3,7 @@ title: DeliverableAcceptChanges Method, Project [vbapj.chm131677]
 keywords: vbapj.chm131677
 f1_keywords:
 - vbapj.chm131677
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af4665cd-1d5e-44b9-b4bd-1a66cdd94774
 ms.date: 06/08/2017
 ---

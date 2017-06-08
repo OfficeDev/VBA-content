@@ -3,7 +3,7 @@ title: DefaultFixedCostAccrual Property, Project [vbapj.chm131715]
 keywords: vbapj.chm131715
 f1_keywords:
 - vbapj.chm131715
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5482264a-f8e9-4ba9-b17e-1e89a82912b5
 ms.date: 06/08/2017
 ---

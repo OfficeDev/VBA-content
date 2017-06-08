@@ -3,7 +3,7 @@ title: AllowSpecialKeys Property, Access [vbaac10.chm10103]
 keywords: vbaac10.chm10103
 f1_keywords:
 - vbaac10.chm10103
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6c355b1c-1dbd-425c-b5e1-96245ddd40c7
 ms.date: 06/08/2017
 ---

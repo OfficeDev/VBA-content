@@ -3,7 +3,7 @@ title: Predecessors Property, Project [vbapj.chm132504]
 keywords: vbapj.chm132504
 f1_keywords:
 - vbapj.chm132504
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1dc18ac8-9f59-44b2-9440-4a03f1f6b8b2
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Objects Property, Project [vbapj.chm132444]
 keywords: vbapj.chm132444
 f1_keywords:
 - vbapj.chm132444
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a9fa0a48-5cf8-4340-b965-120284416b08
 ms.date: 06/08/2017
 ---

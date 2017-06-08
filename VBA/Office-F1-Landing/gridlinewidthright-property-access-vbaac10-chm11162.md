@@ -3,7 +3,7 @@ title: GridlineWidthRight Property, Access [vbaac10.chm11162]
 keywords: vbaac10.chm11162
 f1_keywords:
 - vbaac10.chm11162
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 60b1e0bf-cbb6-40dc-a581-3e78c0652f28
 ms.date: 06/08/2017
 ---

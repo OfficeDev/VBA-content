@@ -3,7 +3,7 @@ title: Line 'item1' Property 'item2' in 'item3' must be a quoted string., Office
 keywords: vblr6.chm60106
 f1_keywords:
 - vblr6.chm60106
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e00a16c5-1afb-4df0-be9c-1b040ed5a087
 ms.date: 06/08/2017
 ---

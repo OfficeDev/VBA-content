@@ -3,7 +3,7 @@ title: Prompt Cell (User-Defined Cells Section), Visio [Vis_DSS.chm82251379]
 keywords: vis_dss.chm82251379
 f1_keywords:
 - vis_dss.chm82251379
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 048a5d16-5f2b-49ae-aaeb-f1e0178e184f
 ms.date: 06/08/2017
 ---

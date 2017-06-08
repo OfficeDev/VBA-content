@@ -3,7 +3,7 @@ title: LayoutForPrint Property, Access [vbaac10.chm4409]
 keywords: vbaac10.chm4409
 f1_keywords:
 - vbaac10.chm4409
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b4b8a3c2-a27b-4921-9908-a4a477388f09
 ms.date: 06/08/2017
 ---

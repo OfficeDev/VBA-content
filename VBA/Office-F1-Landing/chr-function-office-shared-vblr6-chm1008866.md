@@ -3,7 +3,7 @@ title: Chr Function, Office Shared [vblr6.chm1008866]
 keywords: vblr6.chm1008866
 f1_keywords:
 - vblr6.chm1008866
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2fa1f501-01b9-442f-b9a4-80287b886715
 ms.date: 06/08/2017
 ---

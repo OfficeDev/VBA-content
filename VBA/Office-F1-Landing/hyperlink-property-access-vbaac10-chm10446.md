@@ -3,7 +3,7 @@ title: Hyperlink Property, Access [vbaac10.chm10446]
 keywords: vbaac10.chm10446
 f1_keywords:
 - vbaac10.chm10446
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0700f32-9d4c-40bb-b4ee-24eb5370a30b
 ms.date: 06/08/2017
 ---

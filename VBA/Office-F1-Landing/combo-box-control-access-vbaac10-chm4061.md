@@ -3,7 +3,7 @@ title: Combo Box Control, Access [vbaac10.chm4061]
 keywords: vbaac10.chm4061
 f1_keywords:
 - vbaac10.chm4061
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e7b51ac1-f96b-4bb9-bc22-eeb2b1e315ed
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ApplyPictToSides Property, Excel [vbagr10.chm5207046]
 keywords: vbagr10.chm5207046
 f1_keywords:
 - vbagr10.chm5207046
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7bbbdaf9-64fa-4266-aaba-5816c07e7ba3
 ms.date: 06/08/2017
 ---

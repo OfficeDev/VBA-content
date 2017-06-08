@@ -3,7 +3,7 @@ title: VBE Property (VBA Add-In Object Model), Office Shared [vbob6.chm100137]
 keywords: vbob6.chm100137
 f1_keywords:
 - vbob6.chm100137
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8518022e-5e34-41b5-a5ce-0ea3e3ea0da2
 ms.date: 06/08/2017
 ---

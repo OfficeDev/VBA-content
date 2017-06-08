@@ -3,7 +3,7 @@ title: Shift1 Property, Project [vbapj.chm132569]
 keywords: vbapj.chm132569
 f1_keywords:
 - vbapj.chm132569
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 23313ed8-7a55-4dfb-b7c7-bc7173c749ae
 ms.date: 06/08/2017
 ---

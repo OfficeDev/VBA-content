@@ -3,7 +3,7 @@ title: CommandBeforeExecute Property, Access [vbaac10.chm5106]
 keywords: vbaac10.chm5106
 f1_keywords:
 - vbaac10.chm5106
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0a13662-dfd5-4757-b53e-14f0dc9077f5
 ms.date: 06/08/2017
 ---

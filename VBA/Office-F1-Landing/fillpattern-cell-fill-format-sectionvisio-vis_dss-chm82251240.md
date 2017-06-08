@@ -3,7 +3,7 @@ title: FillPattern Cell (Fill Format Section), Visio [Vis_DSS.chm82251240]
 keywords: vis_dss.chm82251240
 f1_keywords:
 - vis_dss.chm82251240
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0bfc11a3-3808-46d5-9695-2ebbaac86d8a
 ms.date: 06/08/2017
 ---

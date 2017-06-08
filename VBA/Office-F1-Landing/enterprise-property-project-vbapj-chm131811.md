@@ -3,7 +3,7 @@ title: Enterprise Property, Project [vbapj.chm131811]
 keywords: vbapj.chm131811
 f1_keywords:
 - vbapj.chm131811
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b539202e-073a-4995-a55a-00a652684c6a
 ms.date: 06/08/2017
 ---

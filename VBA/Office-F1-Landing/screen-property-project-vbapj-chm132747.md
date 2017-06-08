@@ -3,7 +3,7 @@ title: Screen Property, Project [vbapj.chm132747]
 keywords: vbapj.chm132747
 f1_keywords:
 - vbapj.chm132747
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9e56f4ec-abba-4386-a1af-d5528746821e
 ms.date: 06/08/2017
 ---

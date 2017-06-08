@@ -3,7 +3,7 @@ title: AutoCorrect Property, Excel [vbagr10.chm66681]
 keywords: vbagr10.chm66681
 f1_keywords:
 - vbagr10.chm66681
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbb0088b-ef98-43c1-b327-00e4c893124e
 ms.date: 06/08/2017
 ---

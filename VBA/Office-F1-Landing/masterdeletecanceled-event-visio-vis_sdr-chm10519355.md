@@ -3,7 +3,7 @@ title: MasterDeleteCanceled Event, Visio [vis_sdr.chm10519355]
 keywords: vis_sdr.chm10519355
 f1_keywords:
 - vis_sdr.chm10519355
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3e2868bb-410f-4aad-9501-5b0f94ad7842
 ms.date: 06/08/2017
 ---

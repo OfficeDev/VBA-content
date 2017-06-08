@@ -3,7 +3,7 @@ title: SendKeys Method, Excel [vbaxl10.chm132107]
 keywords: vbaxl10.chm132107
 f1_keywords:
 - vbaxl10.chm132107
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a0a2abe0-2f8b-4406-b9a8-6cc10d2f8157
 ms.date: 06/08/2017
 ---

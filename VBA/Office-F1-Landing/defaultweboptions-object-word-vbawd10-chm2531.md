@@ -3,7 +3,7 @@ title: DefaultWebOptions Object, Word [vbawd10.chm2531]
 keywords: vbawd10.chm2531
 f1_keywords:
 - vbawd10.chm2531
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6aa6c159-2678-4648-af7a-71f93d0ef269
 ms.date: 06/08/2017
 ---

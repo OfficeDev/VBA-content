@@ -3,7 +3,7 @@ title: Glue Cell (Layers Section), Visio [Vis_DSS.chm415]
 keywords: vis_dss.chm415
 f1_keywords:
 - vis_dss.chm415
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1aadec9c-54b3-4a95-adff-f5555fd4dedd
 ms.date: 06/08/2017
 ---

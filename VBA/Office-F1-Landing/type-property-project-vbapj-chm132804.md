@@ -3,7 +3,7 @@ title: Type Property, Project [vbapj.chm132804]
 keywords: vbapj.chm132804
 f1_keywords:
 - vbapj.chm132804
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c25f4e16-a611-41f2-a795-87c936587d04
 ms.date: 06/08/2017
 ---

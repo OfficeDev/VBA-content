@@ -3,7 +3,7 @@ title: Transparency Cell (Layers Section), Visio [Vis_DSS.chm82253242]
 keywords: vis_dss.chm82253242
 f1_keywords:
 - vis_dss.chm82253242
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f72e48f4-7dfb-44b0-ade1-7fc0c1082f6e
 ms.date: 06/08/2017
 ---

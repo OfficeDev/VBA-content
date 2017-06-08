@@ -3,7 +3,7 @@ title: ShowTaskSuggestions Property, Project [vbapj.chm131124]
 keywords: vbapj.chm131124
 f1_keywords:
 - vbapj.chm131124
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: acc51756-56ea-4d92-8d89-7ac725e73c39
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Class Property, Access [vbaac10.chm4291]
 keywords: vbaac10.chm4291
 f1_keywords:
 - vbaac10.chm4291
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 445f37a1-4608-4a70-bf3b-6f031f306e7b
 ms.date: 06/08/2017
 ---

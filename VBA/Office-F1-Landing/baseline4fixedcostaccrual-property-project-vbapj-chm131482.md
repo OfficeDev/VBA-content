@@ -3,7 +3,7 @@ title: Baseline4FixedCostAccrual Property, Project [vbapj.chm131482]
 keywords: vbapj.chm131482
 f1_keywords:
 - vbapj.chm131482
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2834e78c-591d-4eed-a13e-6b632b2027dc
 ms.date: 06/08/2017
 ---

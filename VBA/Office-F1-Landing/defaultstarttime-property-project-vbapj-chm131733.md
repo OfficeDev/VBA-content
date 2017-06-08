@@ -3,7 +3,7 @@ title: DefaultStartTime Property, Project [vbapj.chm131733]
 keywords: vbapj.chm131733
 f1_keywords:
 - vbapj.chm131733
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c188497-8307-47fe-a8ba-5a5a7cebb930
 ms.date: 06/08/2017
 ---

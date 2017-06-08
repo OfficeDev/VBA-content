@@ -3,7 +3,7 @@ title: ShowLegendKey Property, PowerPoint [vbapp10.chm65707]
 keywords: vbapp10.chm65707
 f1_keywords:
 - vbapp10.chm65707
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d48cca9d-fe51-44b8-87be-cc233dfb82f9
 ms.date: 06/08/2017
 ---

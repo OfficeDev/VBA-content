@@ -3,7 +3,7 @@ title: Invisible Cell (Shape Data Section), Visio [Vis_DSS.chm485]
 keywords: vis_dss.chm485
 f1_keywords:
 - vis_dss.chm485
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 211ce4be-4de8-4333-893f-795d647d24a9
 ms.date: 06/08/2017
 ---

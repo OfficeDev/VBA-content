@@ -3,7 +3,7 @@ title: ResourceType Property, Project [vbapj.chm132534]
 keywords: vbapj.chm132534
 f1_keywords:
 - vbapj.chm132534
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bd42949f-561b-4145-969f-fee301e9051c
 ms.date: 06/08/2017
 ---

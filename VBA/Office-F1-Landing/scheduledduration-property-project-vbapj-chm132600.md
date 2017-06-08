@@ -3,7 +3,7 @@ title: ScheduledDuration Property, Project [vbapj.chm132600]
 keywords: vbapj.chm132600
 f1_keywords:
 - vbapj.chm132600
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f61f38e6-b655-4310-8749-cf57f8374c19
 ms.date: 06/08/2017
 ---

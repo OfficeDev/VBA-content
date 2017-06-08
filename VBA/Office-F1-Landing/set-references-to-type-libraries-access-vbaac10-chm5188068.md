@@ -3,7 +3,7 @@ title: Set References to Type Libraries, Access [vbaac10.chm5188068]
 keywords: vbaac10.chm5188068
 f1_keywords:
 - vbaac10.chm5188068
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 583d840a-190e-4904-a8d8-75dfe1c9f4d6
 ms.date: 06/08/2017
 ---

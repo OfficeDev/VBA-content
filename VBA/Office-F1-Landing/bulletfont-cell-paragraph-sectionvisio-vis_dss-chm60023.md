@@ -3,7 +3,7 @@ title: BulletFont Cell (Paragraph Section), Visio [Vis_DSS.chm60023]
 keywords: vis_dss.chm60023
 f1_keywords:
 - vis_dss.chm60023
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a9b68833-6734-495e-b84c-6060185e8f1b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Add Watch Dialog Box, Office Shared [vbui6.chm181026]
 keywords: vbui6.chm181026
 f1_keywords:
 - vbui6.chm181026
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 753f8d6d-cd47-4c62-8252-78260e53a139
 ms.date: 06/08/2017
 ---

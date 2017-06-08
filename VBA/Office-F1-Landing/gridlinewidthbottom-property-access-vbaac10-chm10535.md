@@ -3,7 +3,7 @@ title: GridlineWidthBottom Property, Access [vbaac10.chm10535]
 keywords: vbaac10.chm10535
 f1_keywords:
 - vbaac10.chm10535
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6ea41d10-9ac3-49b5-a485-f0378132f49f
 ms.date: 06/08/2017
 ---

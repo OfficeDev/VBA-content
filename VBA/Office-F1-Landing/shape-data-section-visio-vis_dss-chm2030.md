@@ -3,7 +3,7 @@ title: Shape Data Section, Visio [Vis_DSS.chm2030]
 keywords: vis_dss.chm2030
 f1_keywords:
 - vis_dss.chm2030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a5bf148f-2b64-406f-94b5-78fcb9e38484
 ms.date: 06/08/2017
 ---

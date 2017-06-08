@@ -3,7 +3,7 @@ title: CompareProjectsCurrentVersionName Property, Project [vbapj.chm131675]
 keywords: vbapj.chm131675
 f1_keywords:
 - vbapj.chm131675
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ae5a27da-8e20-40ea-a828-cf076b9bffc6
 ms.date: 06/08/2017
 ---

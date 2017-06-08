@@ -3,7 +3,7 @@ title: Value Cell (User-Defined Cells Section), Visio [Vis_DSS.chm82251378]
 keywords: vis_dss.chm82251378
 f1_keywords:
 - vis_dss.chm82251378
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7a2a8eb6-f89a-475f-bd0e-92ae80708afb
 ms.date: 06/08/2017
 ---

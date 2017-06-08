@@ -3,7 +3,7 @@ title: ActiveWindow Property, Excel [vbaxl10.chm183080]
 keywords: vbaxl10.chm183080
 f1_keywords:
 - vbaxl10.chm183080
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d59baf99-46af-44c3-9d89-426baefba544
 ms.date: 06/08/2017
 ---

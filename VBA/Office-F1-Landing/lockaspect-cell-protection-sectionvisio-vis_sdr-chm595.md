@@ -3,7 +3,7 @@ title: LockAspect Cell (Protection Section), Visio [vis_sdr.chm595]
 keywords: vis_sdr.chm595
 f1_keywords:
 - vis_sdr.chm595
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fb18d1c6-8505-4c84-bc71-7f454372b33b
 ms.date: 06/08/2017
 ---

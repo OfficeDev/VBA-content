@@ -3,7 +3,7 @@ title: Frames Object, Word [vbawd10.chm2347]
 keywords: vbawd10.chm2347
 f1_keywords:
 - vbawd10.chm2347
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e093dd15-a3b8-491b-8966-881b867ed575
 ms.date: 06/08/2017
 ---

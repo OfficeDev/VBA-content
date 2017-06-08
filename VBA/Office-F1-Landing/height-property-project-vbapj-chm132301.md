@@ -3,7 +3,7 @@ title: Height Property, Project [vbapj.chm132301]
 keywords: vbapj.chm132301
 f1_keywords:
 - vbapj.chm132301
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 620eb83a-f34e-4c0c-8c5e-ab3055fa7053
 ms.date: 06/08/2017
 ---

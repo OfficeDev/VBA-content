@@ -3,7 +3,7 @@ title: CommandChecked Property, Access [vbaac10.chm5107]
 keywords: vbaac10.chm5107
 f1_keywords:
 - vbaac10.chm5107
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 01bf8bea-7a9b-492a-88cd-7faca98fe1c3
 ms.date: 06/08/2017
 ---

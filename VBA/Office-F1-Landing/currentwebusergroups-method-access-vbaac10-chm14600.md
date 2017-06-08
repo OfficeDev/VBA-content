@@ -3,7 +3,7 @@ title: CurrentWebUserGroups Method, Access [vbaac10.chm14600]
 keywords: vbaac10.chm14600
 f1_keywords:
 - vbaac10.chm14600
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0856f277-7dcb-4ade-a3e1-a1c27fcc4fad
 ms.date: 06/08/2017
 ---

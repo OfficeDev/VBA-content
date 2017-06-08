@@ -3,7 +3,7 @@ title: Container Property, Visio [vis_sdr.chm10513295]
 keywords: vis_sdr.chm10513295
 f1_keywords:
 - vis_sdr.chm10513295
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa464f35-8b39-41e7-bc2e-564923947b63
 ms.date: 06/08/2017
 ---

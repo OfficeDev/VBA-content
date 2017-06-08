@@ -3,7 +3,7 @@ title: InSelection Property, Access [vbaac10.chm10492]
 keywords: vbaac10.chm10492
 f1_keywords:
 - vbaac10.chm10492
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: db233735-07fd-405f-acea-b7eb614862a7
 ms.date: 06/08/2017
 ---

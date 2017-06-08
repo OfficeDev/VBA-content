@@ -3,7 +3,7 @@ title: Application Object, Excel [vbagr10.chm131073]
 keywords: vbagr10.chm131073
 f1_keywords:
 - vbagr10.chm131073
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e295bfe6-7725-4841-adfd-be984bd6ccfd
 ms.date: 06/08/2017
 ---

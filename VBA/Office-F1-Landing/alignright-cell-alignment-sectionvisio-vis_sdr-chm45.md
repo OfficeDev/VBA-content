@@ -3,7 +3,7 @@ title: AlignRight Cell (Alignment Section), Visio [vis_sdr.chm45]
 keywords: vis_sdr.chm45
 f1_keywords:
 - vis_sdr.chm45
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f28eff28-cf80-4fa1-b9f4-72f1702c4255
 ms.date: 06/08/2017
 ---

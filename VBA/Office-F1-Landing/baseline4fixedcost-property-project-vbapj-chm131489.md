@@ -3,7 +3,7 @@ title: Baseline4FixedCost Property, Project [vbapj.chm131489]
 keywords: vbapj.chm131489
 f1_keywords:
 - vbapj.chm131489
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec8183c1-27a4-48cb-8ba3-de978e4d58e8
 ms.date: 06/08/2017
 ---

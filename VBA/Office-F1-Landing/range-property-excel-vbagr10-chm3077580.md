@@ -3,7 +3,7 @@ title: Range Property, Excel [vbagr10.chm3077580]
 keywords: vbagr10.chm3077580
 f1_keywords:
 - vbagr10.chm3077580
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fb795048-472d-454e-bdce-4deafafa81c9
 ms.date: 06/08/2017
 ---

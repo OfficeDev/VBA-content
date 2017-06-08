@@ -3,7 +3,7 @@ title: WindowSelectionChange Event, Project [vbapj.chm131135]
 keywords: vbapj.chm131135
 f1_keywords:
 - vbapj.chm131135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e3a44dc4-7d01-4cc8-8230-562573e57c97
 ms.date: 06/08/2017
 ---

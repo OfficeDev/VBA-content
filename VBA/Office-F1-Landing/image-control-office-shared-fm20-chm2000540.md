@@ -3,7 +3,7 @@ title: Image Control, Office Shared [fm20.chm2000540]
 keywords: fm20.chm2000540
 f1_keywords:
 - fm20.chm2000540
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc2a7e7f-164b-4b78-a9a3-0aa972538979
 ms.date: 06/08/2017
 ---

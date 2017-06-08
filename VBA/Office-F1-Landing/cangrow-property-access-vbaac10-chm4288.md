@@ -3,7 +3,7 @@ title: CanGrow Property, Access [vbaac10.chm4288]
 keywords: vbaac10.chm4288
 f1_keywords:
 - vbaac10.chm4288
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bb7a8bb0-1f1c-48c9-a2ca-0bd8920e0165
 ms.date: 06/08/2017
 ---

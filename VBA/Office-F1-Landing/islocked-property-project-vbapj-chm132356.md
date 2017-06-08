@@ -3,7 +3,7 @@ title: IsLocked Property, Project [vbapj.chm132356]
 keywords: vbapj.chm132356
 f1_keywords:
 - vbapj.chm132356
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a5a59eb-9ad6-490f-8b29-f30016ae83bf
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: SpecialEffect Property, Access [vbaac10.chm4510]
 keywords: vbaac10.chm4510
 f1_keywords:
 - vbaac10.chm4510
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ae795c34-584d-4120-a72f-05564f309715
 ms.date: 06/08/2017
 ---

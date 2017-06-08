@@ -3,7 +3,7 @@ title: Return without GoSub (Error 3), Office Shared [vblr6.chm1000003]
 keywords: vblr6.chm1000003
 f1_keywords:
 - vblr6.chm1000003
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6c8439ae-f86e-4606-82b4-341f62f8bbae
 ms.date: 06/08/2017
 ---

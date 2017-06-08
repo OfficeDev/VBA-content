@@ -3,7 +3,7 @@ title: MouseUp Event, Access [vbaac10.chm14085]
 keywords: vbaac10.chm14085
 f1_keywords:
 - vbaac10.chm14085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 91480c5b-e1df-45d0-b0e3-6cfd9dd67efc
 ms.date: 06/08/2017
 ---

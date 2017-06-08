@@ -3,7 +3,7 @@ title: BCWS Property, Project [vbapj.chm131415]
 keywords: vbapj.chm131415
 f1_keywords:
 - vbapj.chm131415
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a3c94b2-d919-443c-9b6c-f3781eb39910
 ms.date: 06/08/2017
 ---

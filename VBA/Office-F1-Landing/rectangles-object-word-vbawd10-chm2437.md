@@ -3,7 +3,7 @@ title: Rectangles Object, Word [vbawd10.chm2437]
 keywords: vbawd10.chm2437
 f1_keywords:
 - vbawd10.chm2437
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1547dc1e-e9a1-4152-98a0-b40ea39847be
 ms.date: 06/08/2017
 ---

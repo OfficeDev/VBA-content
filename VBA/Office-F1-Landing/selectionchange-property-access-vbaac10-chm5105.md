@@ -3,7 +3,7 @@ title: SelectionChange Property, Access [vbaac10.chm5105]
 keywords: vbaac10.chm5105
 f1_keywords:
 - vbaac10.chm5105
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8c6e9833-416d-437e-b660-32c53eaee3cb
 ms.date: 06/08/2017
 ---

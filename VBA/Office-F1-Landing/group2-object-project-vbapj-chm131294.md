@@ -3,7 +3,7 @@ title: Group2 Object, Project [vbapj.chm131294]
 keywords: vbapj.chm131294
 f1_keywords:
 - vbapj.chm131294
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9db08468-a7a4-45ce-a872-fa4a84da794b
 ms.date: 06/08/2017
 ---

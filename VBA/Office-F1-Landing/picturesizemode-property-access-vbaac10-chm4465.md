@@ -3,7 +3,7 @@ title: PictureSizeMode Property, Access [vbaac10.chm4465]
 keywords: vbaac10.chm4465
 f1_keywords:
 - vbaac10.chm4465
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a0c0b56-4e72-4d1b-951f-251f1d439b97
 ms.date: 06/08/2017
 ---

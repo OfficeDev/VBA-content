@@ -3,7 +3,7 @@ title: Shape Data Row (Shape Data Section), Visio [vis_sdr.chm3045]
 keywords: vis_sdr.chm3045
 f1_keywords:
 - vis_sdr.chm3045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3c10bce7-ca51-4809-aef2-996845e4cdad
 ms.date: 06/08/2017
 ---

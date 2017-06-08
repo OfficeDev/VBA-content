@@ -3,7 +3,7 @@ title: GlobalViewsSingle Property, Project [vbapj.chm132302]
 keywords: vbapj.chm132302
 f1_keywords:
 - vbapj.chm132302
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1fa1262c-e2ae-4c09-bd45-de651a26a762
 ms.date: 06/08/2017
 ---

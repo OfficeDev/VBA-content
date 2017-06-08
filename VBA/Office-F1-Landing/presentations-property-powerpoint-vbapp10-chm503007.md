@@ -3,7 +3,7 @@ title: Presentations Property, PowerPoint [vbapp10.chm503007]
 keywords: vbapp10.chm503007
 f1_keywords:
 - vbapp10.chm503007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3c90db33-9d19-4cb0-9103-26f65fa92042
 ms.date: 06/08/2017
 ---

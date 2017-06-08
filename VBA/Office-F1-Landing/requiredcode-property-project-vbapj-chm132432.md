@@ -3,7 +3,7 @@ title: RequiredCode Property, Project [vbapj.chm132432]
 keywords: vbapj.chm132432
 f1_keywords:
 - vbapj.chm132432
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b95bc2ab-d396-41d9-bbd7-935262a7bf29
 ms.date: 06/08/2017
 ---

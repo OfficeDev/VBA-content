@@ -3,7 +3,7 @@ title: IsSandboxed Property, PowerPoint [vbapp10.chm503015]
 keywords: vbapp10.chm503015
 f1_keywords:
 - vbapp10.chm503015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe8bef15-c3e7-4f0e-afa6-b13fc502caae
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Number5 Property, Project [vbapj.chm132437]
 keywords: vbapj.chm132437
 f1_keywords:
 - vbapj.chm132437
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 203689e3-9d1e-4601-a0a4-bf94c64c8414
 ms.date: 06/08/2017
 ---

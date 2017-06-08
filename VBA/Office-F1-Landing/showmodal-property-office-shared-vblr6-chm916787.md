@@ -3,7 +3,7 @@ title: ShowModal Property, Office Shared [vblr6.chm916787]
 keywords: vblr6.chm916787
 f1_keywords:
 - vblr6.chm916787
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eb5ecb75-6e05-483b-842f-7cadbaea5a3a
 ms.date: 06/08/2017
 ---

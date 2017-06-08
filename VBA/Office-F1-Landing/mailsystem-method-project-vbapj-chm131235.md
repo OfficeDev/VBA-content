@@ -3,7 +3,7 @@ title: MailSystem Method, Project [vbapj.chm131235]
 keywords: vbapj.chm131235
 f1_keywords:
 - vbapj.chm131235
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5a4c4006-f29a-47c4-b11e-b75009286944
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Actions Row (Actions Section), Visio [Vis_DSS.chm1024640]
 keywords: vis_dss.chm1024640
 f1_keywords:
 - vis_dss.chm1024640
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ae95651-7078-462d-b123-c3dce08f125c
 ms.date: 06/08/2017
 ---

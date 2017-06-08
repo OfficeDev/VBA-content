@@ -3,7 +3,7 @@ title: Application Property, Publisher [vbapb10.chm1001]
 keywords: vbapb10.chm1001
 f1_keywords:
 - vbapb10.chm1001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 05e4a2cc-8c27-4ac7-85c6-f7e200f417bb
 ms.date: 06/08/2017
 ---

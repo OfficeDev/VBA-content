@@ -3,7 +3,7 @@ title: Status Property, Project [vbapj.chm132655]
 keywords: vbapj.chm132655
 f1_keywords:
 - vbapj.chm132655
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 19fcc540-9784-4518-95c2-a9e100a3ef34
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: PbRecipientListFileType Enumeration, Publisher [vbapb10.chm65639]
 keywords: vbapb10.chm65639
 f1_keywords:
 - vbapb10.chm65639
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 061244bf-3746-44bc-93ce-1d3f907c07cf
 ms.date: 06/08/2017
 ---

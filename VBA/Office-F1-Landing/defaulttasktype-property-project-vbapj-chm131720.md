@@ -3,7 +3,7 @@ title: DefaultTaskType Property, Project [vbapj.chm131720]
 keywords: vbapj.chm131720
 f1_keywords:
 - vbapj.chm131720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aaccb19b-6659-4dbd-9928-f496cc0c5fe0
 ms.date: 06/08/2017
 ---

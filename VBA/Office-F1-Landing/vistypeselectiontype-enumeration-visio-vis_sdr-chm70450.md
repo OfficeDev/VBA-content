@@ -3,7 +3,7 @@ title: VisTypeSelectionType Enumeration, Visio [vis_sdr.chm70450]
 keywords: vis_sdr.chm70450
 f1_keywords:
 - vis_sdr.chm70450
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 66c6867e-d634-4377-ad44-cc009a50c6c6
 ms.date: 06/08/2017
 ---

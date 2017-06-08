@@ -3,7 +3,7 @@ title: Border Property, PowerPoint [vbapp10.chm65664]
 keywords: vbapp10.chm65664
 f1_keywords:
 - vbapp10.chm65664
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 819e58a5-b561-4959-8461-72e6f1313dde
 ms.date: 06/08/2017
 ---

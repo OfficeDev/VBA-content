@@ -3,7 +3,7 @@ title: Replan Method, Project [vbapj.chm131255]
 keywords: vbapj.chm131255
 f1_keywords:
 - vbapj.chm131255
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c007a973-a9b2-4ec6-9512-def95e8c91f2
 ms.date: 06/08/2017
 ---

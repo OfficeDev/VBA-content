@@ -3,7 +3,7 @@ title: Split Method, Project [vbapj.chm131257]
 keywords: vbapj.chm131257
 f1_keywords:
 - vbapj.chm131257
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: af363255-75f2-41d2-901d-aee68009283b
 ms.date: 06/08/2017
 ---

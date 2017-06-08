@@ -3,7 +3,7 @@ title: BorderWidth Property, Access [vbaac10.chm4284]
 keywords: vbaac10.chm4284
 f1_keywords:
 - vbaac10.chm4284
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c2f2fce9-28dd-4d29-97f4-dc729e15c82f
 ms.date: 06/08/2017
 ---

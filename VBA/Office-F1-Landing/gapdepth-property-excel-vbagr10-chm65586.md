@@ -3,7 +3,7 @@ title: GapDepth Property, Excel [vbagr10.chm65586]
 keywords: vbagr10.chm65586
 f1_keywords:
 - vbagr10.chm65586
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7c01c574-be03-4e16-8b21-b7e93263aa09
 ms.date: 06/08/2017
 ---

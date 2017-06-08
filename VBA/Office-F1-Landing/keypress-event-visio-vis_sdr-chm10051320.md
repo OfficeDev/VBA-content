@@ -3,7 +3,7 @@ title: KeyPress Event, Visio [vis_sdr.chm10051320]
 keywords: vis_sdr.chm10051320
 f1_keywords:
 - vis_sdr.chm10051320
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: eee32a46-dd0f-4c80-930a-92809827988d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Union Method, Excel [vbaxl10.chm183113]
 keywords: vbaxl10.chm183113
 f1_keywords:
 - vbaxl10.chm183113
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fa530c11-c2b2-44e9-817c-34b9a02122b5
 ms.date: 06/08/2017
 ---

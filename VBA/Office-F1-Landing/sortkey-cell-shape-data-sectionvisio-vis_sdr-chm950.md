@@ -3,7 +3,7 @@ title: SortKey Cell (Shape Data Section), Visio [vis_sdr.chm950]
 keywords: vis_sdr.chm950
 f1_keywords:
 - vis_sdr.chm950
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 35172421-e65d-4c89-ad8d-6cc577da1739
 ms.date: 06/08/2017
 ---

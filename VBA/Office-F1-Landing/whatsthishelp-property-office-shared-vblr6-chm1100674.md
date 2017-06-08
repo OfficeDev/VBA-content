@@ -3,7 +3,7 @@ title: WhatsThisHelp Property, Office Shared [vblr6.chm1100674]
 keywords: vblr6.chm1100674
 f1_keywords:
 - vblr6.chm1100674
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c459a3dd-ac16-4bbf-a0f5-a17bd6abacfb
 ms.date: 06/08/2017
 ---

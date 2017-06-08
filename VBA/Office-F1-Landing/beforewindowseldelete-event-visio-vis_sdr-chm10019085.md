@@ -3,7 +3,7 @@ title: BeforeWindowSelDelete Event, Visio [vis_sdr.chm10019085]
 keywords: vis_sdr.chm10019085
 f1_keywords:
 - vis_sdr.chm10019085
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cd0eb720-a06f-426a-9b52-7b527b989d5a
 ms.date: 06/08/2017
 ---

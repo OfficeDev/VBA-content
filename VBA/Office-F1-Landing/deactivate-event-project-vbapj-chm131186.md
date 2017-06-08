@@ -3,7 +3,7 @@ title: Deactivate Event, Project [vbapj.chm131186]
 keywords: vbapj.chm131186
 f1_keywords:
 - vbapj.chm131186
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3ae41cd2-2b3b-4177-9bba-cd2ed99f9cba
 ms.date: 06/08/2017
 ---

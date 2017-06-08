@@ -3,7 +3,7 @@ title: Creator Property, Publisher [vbapb10.chm1002]
 keywords: vbapb10.chm1002
 f1_keywords:
 - vbapb10.chm1002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0a0efded-883b-43fe-a8b8-3ca589ce9444
 ms.date: 06/08/2017
 ---

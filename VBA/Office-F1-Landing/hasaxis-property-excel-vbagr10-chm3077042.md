@@ -3,7 +3,7 @@ title: HasAxis Property, Excel [vbagr10.chm3077042]
 keywords: vbagr10.chm3077042
 f1_keywords:
 - vbagr10.chm3077042
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 99f7467d-6030-4bc1-be9f-80ab9881168c
 ms.date: 06/08/2017
 ---

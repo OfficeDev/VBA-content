@@ -3,7 +3,7 @@ title: RegularWork Property, Project [vbapj.chm132541]
 keywords: vbapj.chm132541
 f1_keywords:
 - vbapj.chm132541
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc8558ce-c7d0-4647-8dc6-8081d3370b75
 ms.date: 06/08/2017
 ---

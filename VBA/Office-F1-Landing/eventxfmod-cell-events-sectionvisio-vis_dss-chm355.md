@@ -3,7 +3,7 @@ title: EventXFMod Cell (Events Section), Visio [Vis_DSS.chm355]
 keywords: vis_dss.chm355
 f1_keywords:
 - vis_dss.chm355
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 785495f2-23e5-4f3b-a1cc-7e038195047c
 ms.date: 06/08/2017
 ---

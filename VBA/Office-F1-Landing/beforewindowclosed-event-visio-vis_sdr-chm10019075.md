@@ -3,7 +3,7 @@ title: BeforeWindowClosed Event, Visio [vis_sdr.chm10019075]
 keywords: vis_sdr.chm10019075
 f1_keywords:
 - vis_sdr.chm10019075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c165f7eb-231d-4148-8f8a-b72cd254db8d
 ms.date: 06/08/2017
 ---

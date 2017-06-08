@@ -3,7 +3,7 @@ title: HAlign Cell (Paragraph Section), Visio [Vis_DSS.chm82251260]
 keywords: vis_dss.chm82251260
 f1_keywords:
 - vis_dss.chm82251260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f43a7385-cf93-4ca2-974f-aaf9714ee35e
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Apply Method, Project [vbapj.chm132740]
 keywords: vbapj.chm132740
 f1_keywords:
 - vbapj.chm132740
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 41a781f8-92f1-4c22-922f-c30d11c40c67
 ms.date: 06/08/2017
 ---

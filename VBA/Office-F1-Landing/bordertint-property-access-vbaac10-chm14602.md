@@ -3,7 +3,7 @@ title: BorderTint Property, Access [vbaac10.chm14602]
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 856e8d92-4a0a-45e0-b28b-a7153ea36eae
 ms.date: 06/08/2017
 ---

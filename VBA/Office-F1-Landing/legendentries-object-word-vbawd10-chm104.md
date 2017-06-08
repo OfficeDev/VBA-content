@@ -3,7 +3,7 @@ title: LegendEntries Object, Word [vbawd10.chm104]
 keywords: vbawd10.chm104
 f1_keywords:
 - vbawd10.chm104
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79b0873f-9fd1-4af9-89d7-ce2b980a7205
 ms.date: 06/08/2017
 ---

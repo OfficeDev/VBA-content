@@ -3,7 +3,7 @@ title: AutoText Property, Excel [vbagr10.chm5207078]
 keywords: vbagr10.chm5207078
 f1_keywords:
 - vbagr10.chm5207078
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ccb55d7e-844d-4d25-bce9-26675c499ced
 ms.date: 06/08/2017
 ---

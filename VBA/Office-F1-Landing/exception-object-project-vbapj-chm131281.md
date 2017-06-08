@@ -3,7 +3,7 @@ title: Exception Object, Project [vbapj.chm131281]
 keywords: vbapj.chm131281
 f1_keywords:
 - vbapj.chm131281
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6349f0ac-9f2a-46f4-95b6-bf5db85adfe9
 ms.date: 06/08/2017
 ---

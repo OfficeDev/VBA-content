@@ -3,7 +3,7 @@ title: User-defined Cells Row (User-defined Cells Section), Visio [Vis_DSS.chm30
 keywords: vis_dss.chm3060
 f1_keywords:
 - vis_dss.chm3060
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a4f3611f-a275-485d-a69c-7cd2675338d0
 ms.date: 06/08/2017
 ---

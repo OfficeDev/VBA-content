@@ -3,7 +3,7 @@ title: GridlineStyleTop Property, Access [vbaac10.chm5633]
 keywords: vbaac10.chm5633
 f1_keywords:
 - vbaac10.chm5633
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cd21c420-000e-4a28-9d86-5197e6033dc5
 ms.date: 06/08/2017
 ---

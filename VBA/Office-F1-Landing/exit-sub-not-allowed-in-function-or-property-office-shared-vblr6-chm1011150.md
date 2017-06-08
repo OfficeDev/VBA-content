@@ -3,7 +3,7 @@ title: Exit Sub not allowed in Function or Property, Office Shared [vblr6.chm101
 keywords: vblr6.chm1011150
 f1_keywords:
 - vblr6.chm1011150
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 73f268fe-07cd-4db6-885e-65fd2d2b6579
 ms.date: 06/08/2017
 ---

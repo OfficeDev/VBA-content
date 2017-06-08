@@ -3,7 +3,7 @@ title: AvailableUnit Property, Project [vbapj.chm132518]
 keywords: vbapj.chm132518
 f1_keywords:
 - vbapj.chm132518
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8aade154-7d69-4884-8e78-c2b642c123c5
 ms.date: 06/08/2017
 ---

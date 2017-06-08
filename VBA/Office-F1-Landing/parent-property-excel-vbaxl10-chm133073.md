@@ -3,7 +3,7 @@ title: Parent Property, Excel [vbaxl10.chm133073]
 keywords: vbaxl10.chm133073
 f1_keywords:
 - vbaxl10.chm133073
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24c391bb-c39e-440d-a5bb-476dc25d2190
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Can't create necessary temporary file (Error 322), Office Shared [vblr6.c
 keywords: vblr6.chm1019374
 f1_keywords:
 - vblr6.chm1019374
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cef9044c-2d4b-4cd3-92a4-ef51d8c75275
 ms.date: 06/08/2017
 ---

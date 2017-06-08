@@ -3,7 +3,7 @@ title: BeginArrow Cell (Line Format Section), Visio [Vis_DSS.chm82253258]
 keywords: vis_dss.chm82253258
 f1_keywords:
 - vis_dss.chm82253258
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 364162f0-1f18-4583-93ae-7ca36c2fba3e
 ms.date: 06/08/2017
 ---

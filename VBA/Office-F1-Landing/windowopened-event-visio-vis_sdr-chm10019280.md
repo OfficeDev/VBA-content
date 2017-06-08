@@ -3,7 +3,7 @@ title: WindowOpened Event, Visio [vis_sdr.chm10019280]
 keywords: vis_sdr.chm10019280
 f1_keywords:
 - vis_sdr.chm10019280
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 20b98c1b-10d6-4712-b72a-a2faecbbe629
 ms.date: 06/08/2017
 ---

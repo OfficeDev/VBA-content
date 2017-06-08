@@ -3,7 +3,7 @@ title: No watch expression selected, Office Shared [vblr6.chm1040218]
 keywords: vblr6.chm1040218
 f1_keywords:
 - vblr6.chm1040218
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a4d06a27-3b65-40ff-b58e-f0c7c4a995f9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ActualWork Property, Project [vbapj.chm131381]
 keywords: vbapj.chm131381
 f1_keywords:
 - vbapj.chm131381
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f685a47e-f41d-4ecd-b58b-f1a8ec90f3dd
 ms.date: 06/08/2017
 ---

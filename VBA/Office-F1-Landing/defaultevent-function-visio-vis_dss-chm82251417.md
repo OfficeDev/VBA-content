@@ -3,7 +3,7 @@ title: DEFAULTEVENT Function, Visio [Vis_DSS.chm82251417]
 keywords: vis_dss.chm82251417
 f1_keywords:
 - vis_dss.chm82251417
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7d019119-31bc-4967-bce3-b3ddb08b0d5e
 ms.date: 06/08/2017
 ---

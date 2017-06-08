@@ -3,7 +3,7 @@ title: ViewsCombination Property, Project [vbapj.chm132755]
 keywords: vbapj.chm132755
 f1_keywords:
 - vbapj.chm132755
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4571691-74a6-4bae-91a0-752f96c7b8ae
 ms.date: 06/08/2017
 ---

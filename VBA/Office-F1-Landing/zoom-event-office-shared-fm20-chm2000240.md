@@ -3,7 +3,7 @@ title: Zoom Event, Office Shared [fm20.chm2000240]
 keywords: fm20.chm2000240
 f1_keywords:
 - fm20.chm2000240
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d015b496-0d33-45d3-9399-55bb48f357da
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Creator Property, PowerPoint [vbapp10.chm1002]
 keywords: vbapp10.chm1002
 f1_keywords:
 - vbapp10.chm1002
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5ec06d05-6a31-4c33-b592-ad3df693cdb6
 ms.date: 06/08/2017
 ---

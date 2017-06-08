@@ -3,7 +3,7 @@ title: Search string too long or complex, Office Shared [vblr6.chm1011270]
 keywords: vblr6.chm1011270
 f1_keywords:
 - vblr6.chm1011270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 319ab04a-59e2-4ba0-95ef-f0e080b19ba8
 ms.date: 06/08/2017
 ---

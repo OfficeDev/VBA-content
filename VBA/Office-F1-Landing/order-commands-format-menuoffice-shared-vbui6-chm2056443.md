@@ -3,7 +3,7 @@ title: Order Commands (Format Menu), Office Shared [vbui6.chm2056443]
 keywords: vbui6.chm2056443
 f1_keywords:
 - vbui6.chm2056443
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 838cace1-d951-45af-b70f-cee7b05196e7
 ms.date: 06/08/2017
 ---

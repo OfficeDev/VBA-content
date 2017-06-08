@@ -3,7 +3,7 @@ title: AddChartAutoFormat Method, Excel [vbagr10.chm5207007]
 keywords: vbagr10.chm5207007
 f1_keywords:
 - vbagr10.chm5207007
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 997a1810-8cb9-41c0-abae-44368686ade6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Invalid syntax for conditional compiler constant declarations, Office Sha
 keywords: vblr6.chm1015640
 f1_keywords:
 - vblr6.chm1015640
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8f187ba1-138c-463a-8785-781eca8beb5a
 ms.date: 06/08/2017
 ---

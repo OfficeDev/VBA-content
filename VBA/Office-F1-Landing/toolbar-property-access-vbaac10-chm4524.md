@@ -3,7 +3,7 @@ title: Toolbar Property, Access [vbaac10.chm4524]
 keywords: vbaac10.chm4524
 f1_keywords:
 - vbaac10.chm4524
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 13d4366f-2f1d-4a73-a2e9-f02b331452b3
 ms.date: 06/08/2017
 ---

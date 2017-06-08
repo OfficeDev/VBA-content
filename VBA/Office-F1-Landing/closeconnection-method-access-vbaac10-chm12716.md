@@ -3,7 +3,7 @@ title: CloseConnection Method, Access [vbaac10.chm12716]
 keywords: vbaac10.chm12716
 f1_keywords:
 - vbaac10.chm12716
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dbdf5763-dee5-4c1a-8e58-a3861cf000f1
 ms.date: 06/08/2017
 ---

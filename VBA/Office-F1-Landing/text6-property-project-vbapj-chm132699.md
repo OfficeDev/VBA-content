@@ -3,7 +3,7 @@ title: Text6 Property, Project [vbapj.chm132699]
 keywords: vbapj.chm132699
 f1_keywords:
 - vbapj.chm132699
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d88bf0b3-532e-4fcf-a5be-90e0bb2a5694
 ms.date: 06/08/2017
 ---

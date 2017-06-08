@@ -3,7 +3,7 @@ title: FIND Function, Visio [Vis_DSS.chm1027304]
 keywords: vis_dss.chm1027304
 f1_keywords:
 - vis_dss.chm1027304
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6810fc19-7d23-476e-943b-4c0df581f5b9
 ms.date: 06/08/2017
 ---

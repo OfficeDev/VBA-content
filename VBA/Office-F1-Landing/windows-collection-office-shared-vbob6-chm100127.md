@@ -3,7 +3,7 @@ title: Windows Collection, Office Shared [vbob6.chm100127]
 keywords: vbob6.chm100127
 f1_keywords:
 - vbob6.chm100127
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f8c23ad8-49a0-471f-82fc-418c4781846b
 ms.date: 06/08/2017
 ---

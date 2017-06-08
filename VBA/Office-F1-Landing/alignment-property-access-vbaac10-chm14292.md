@@ -3,7 +3,7 @@ title: Alignment Property, Access [vbaac10.chm14292]
 keywords: vbaac10.chm14292
 f1_keywords:
 - vbaac10.chm14292
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 327133c3-b465-4f1a-8153-1583a858c065
 ms.date: 06/08/2017
 ---

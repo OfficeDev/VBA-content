@@ -3,7 +3,7 @@ title: Underline Property, Excel [vbagr10.chm3077597]
 keywords: vbagr10.chm3077597
 f1_keywords:
 - vbagr10.chm3077597
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fe94f0d5-a681-47fe-b140-8e1308684a5e
 ms.date: 06/08/2017
 ---

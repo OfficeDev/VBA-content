@@ -3,7 +3,7 @@ title: Error Event, Office Shared [fm20.chm5224943]
 keywords: fm20.chm5224943
 f1_keywords:
 - fm20.chm5224943
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a920c7b9-1d04-4035-9be7-9dbd7bc9bd4c
 ms.date: 06/08/2017
 ---

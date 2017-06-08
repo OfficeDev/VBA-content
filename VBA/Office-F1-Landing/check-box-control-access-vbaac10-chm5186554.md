@@ -3,7 +3,7 @@ title: Check Box Control, Access [vbaac10.chm5186554]
 keywords: vbaac10.chm5186554
 f1_keywords:
 - vbaac10.chm5186554
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 959693c2-a1bf-423c-a969-3a4712bd071c
 ms.date: 06/08/2017
 ---

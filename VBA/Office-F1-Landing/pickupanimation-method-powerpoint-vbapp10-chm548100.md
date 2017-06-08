@@ -3,7 +3,7 @@ title: PickupAnimation Method, PowerPoint [vbapp10.chm548100]
 keywords: vbapp10.chm548100
 f1_keywords:
 - vbapp10.chm548100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c1358f80-d929-4975-955d-28935f1094bf
 ms.date: 06/08/2017
 ---

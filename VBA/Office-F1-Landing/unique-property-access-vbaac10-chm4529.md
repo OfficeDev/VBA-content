@@ -3,7 +3,7 @@ title: Unique Property, Access [vbaac10.chm4529]
 keywords: vbaac10.chm4529
 f1_keywords:
 - vbaac10.chm4529
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 42547dd3-5f72-4808-8bd1-20f259233426
 ms.date: 06/08/2017
 ---

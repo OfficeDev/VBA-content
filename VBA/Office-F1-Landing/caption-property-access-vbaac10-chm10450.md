@@ -3,7 +3,7 @@ title: Caption Property, Access [vbaac10.chm10450]
 keywords: vbaac10.chm10450
 f1_keywords:
 - vbaac10.chm10450
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 90f4f6b5-8c3d-4d0b-ba0e-ea49c0b7c972
 ms.date: 06/08/2017
 ---

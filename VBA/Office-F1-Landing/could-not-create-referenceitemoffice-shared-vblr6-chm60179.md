@@ -3,7 +3,7 @@ title: Could not create reference 'item', Office Shared [vblr6.chm60179]
 keywords: vblr6.chm60179
 f1_keywords:
 - vblr6.chm60179
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b7ab8a9e-0032-4446-ac83-0821e3601878
 ms.date: 06/08/2017
 ---

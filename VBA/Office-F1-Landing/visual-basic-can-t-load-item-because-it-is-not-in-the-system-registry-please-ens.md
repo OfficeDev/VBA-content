@@ -3,7 +3,7 @@ title: Visual Basic can't load 'item' because it is not in the system registry. 
 keywords: vblr6.chm1117717
 f1_keywords:
 - vblr6.chm1117717
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f0f25818-2251-4998-b434-1fd5366a0ee4
 ms.date: 06/08/2017
 ---

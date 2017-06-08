@@ -3,7 +3,7 @@ title: Function marked as restricted or uses a type not supported in Visual Basi
 keywords: vblr6.chm1015665
 f1_keywords:
 - vblr6.chm1015665
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ed2c2684-3a66-4a8a-ac86-974b46d59e28
 ms.date: 06/08/2017
 ---

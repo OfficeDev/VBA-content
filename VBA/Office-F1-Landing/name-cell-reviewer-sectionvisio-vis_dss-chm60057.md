@@ -3,7 +3,7 @@ title: Name Cell (Reviewer Section), Visio [Vis_DSS.chm60057]
 keywords: vis_dss.chm60057
 f1_keywords:
 - vis_dss.chm60057
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64b92861-ca0a-46b9-a905-1073372243c8
 ms.date: 06/08/2017
 ---

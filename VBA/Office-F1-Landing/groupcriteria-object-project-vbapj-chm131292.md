@@ -3,7 +3,7 @@ title: GroupCriteria Object, Project [vbapj.chm131292]
 keywords: vbapj.chm131292
 f1_keywords:
 - vbapj.chm131292
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc4186d3-f02c-40a2-9fc9-e6de9009a320
 ms.date: 06/08/2017
 ---

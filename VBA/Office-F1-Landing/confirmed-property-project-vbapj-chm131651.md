@@ -3,7 +3,7 @@ title: Confirmed Property, Project [vbapj.chm131651]
 keywords: vbapj.chm131651
 f1_keywords:
 - vbapj.chm131651
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 27a0cc83-ea76-4aa1-b1dd-c391692ec017
 ms.date: 06/08/2017
 ---

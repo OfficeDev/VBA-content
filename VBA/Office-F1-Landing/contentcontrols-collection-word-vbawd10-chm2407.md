@@ -3,7 +3,7 @@ title: ContentControls Collection, Word [vbawd10.chm2407]
 keywords: vbawd10.chm2407
 f1_keywords:
 - vbawd10.chm2407
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 38ed550a-e0a8-4ef2-906a-005ff2258813
 ms.date: 06/08/2017
 ---

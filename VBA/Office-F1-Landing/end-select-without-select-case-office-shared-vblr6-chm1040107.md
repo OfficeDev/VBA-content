@@ -3,7 +3,7 @@ title: End Select without Select Case, Office Shared [vblr6.chm1040107]
 keywords: vblr6.chm1040107
 f1_keywords:
 - vblr6.chm1040107
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4a7beea4-f574-4403-b177-a7a053d67edf
 ms.date: 06/08/2017
 ---

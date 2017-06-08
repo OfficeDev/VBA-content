@@ -3,7 +3,7 @@ title: RevisionsFilter Object, Word [vbawd10.chm619]
 keywords: vbawd10.chm619
 f1_keywords:
 - vbawd10.chm619
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9017af6-47ce-417c-b0aa-e4f28c0fe64f
 ms.date: 06/08/2017
 ---

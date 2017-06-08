@@ -3,7 +3,7 @@ title: Count Property, Publisher [vbapb10.chm9437185]
 keywords: vbapb10.chm9437185
 f1_keywords:
 - vbapb10.chm9437185
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7f4dfca-d2db-4da3-8ac3-021c2cba49b6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Object already loaded (Error 360), Office Shared [vblr6.chm360]
 keywords: vblr6.chm360
 f1_keywords:
 - vblr6.chm360
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f6147231-36d7-4ad9-80fa-77a5c0ee903a
 ms.date: 06/08/2017
 ---

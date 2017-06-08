@@ -3,7 +3,7 @@ title: ResourceGroups2 Property, Project [vbapj.chm132566]
 keywords: vbapj.chm132566
 f1_keywords:
 - vbapj.chm132566
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 179b182e-b972-443d-a3cd-4c71f8d573d0
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: A procedure with a ParamArray argument cannot be called with named argume
 keywords: vblr6.chm1011246
 f1_keywords:
 - vblr6.chm1011246
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 93c8713b-59ea-4e56-b97f-849b220836e3
 ms.date: 06/08/2017
 ---

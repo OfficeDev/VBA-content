@@ -3,7 +3,7 @@ title: Characters Object, Word [vbawd10.chm2397]
 keywords: vbawd10.chm2397
 f1_keywords:
 - vbawd10.chm2397
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f80fdb00-8a40-46f0-a881-30fe276e8d29
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Text9 Property, Project [vbapj.chm132702]
 keywords: vbapj.chm132702
 f1_keywords:
 - vbapj.chm132702
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 541d6e62-f6e3-4f87-b471-c72ff83bcb43
 ms.date: 06/08/2017
 ---

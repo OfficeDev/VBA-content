@@ -3,7 +3,7 @@ title: ReportList Property, Project [vbapj.chm132508]
 keywords: vbapj.chm132508
 f1_keywords:
 - vbapj.chm132508
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 64da79b1-42fc-480c-9aa1-814fd5f302da
 ms.date: 06/08/2017
 ---

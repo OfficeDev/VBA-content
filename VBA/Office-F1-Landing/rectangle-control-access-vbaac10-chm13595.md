@@ -3,7 +3,7 @@ title: Rectangle Control, Access [vbaac10.chm13595]
 keywords: vbaac10.chm13595
 f1_keywords:
 - vbaac10.chm13595
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6854d9ae-2ff4-4fbf-ada4-2e88a01019d3
 ms.date: 06/08/2017
 ---

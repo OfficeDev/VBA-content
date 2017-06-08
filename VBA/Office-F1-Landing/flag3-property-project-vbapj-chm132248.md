@@ -3,7 +3,7 @@ title: Flag3 Property, Project [vbapj.chm132248]
 keywords: vbapj.chm132248
 f1_keywords:
 - vbapj.chm132248
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ec669a8-fd55-46d0-921c-8aefe765ce43
 ms.date: 06/08/2017
 ---

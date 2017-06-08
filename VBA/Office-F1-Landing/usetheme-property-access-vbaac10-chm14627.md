@@ -3,7 +3,7 @@ title: UseTheme Property, Access [vbaac10.chm14627]
 keywords: vbaac10.chm14627
 f1_keywords:
 - vbaac10.chm14627
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 04be4465-215a-4474-a3e7-4211c57f0f1c
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Shadow Property, PowerPoint [vbapp10.chm65639]
 keywords: vbapp10.chm65639
 f1_keywords:
 - vbapp10.chm65639
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: afa33928-d3ae-4b45-8d7e-433d6a7fd941
 ms.date: 06/08/2017
 ---

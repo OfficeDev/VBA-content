@@ -3,7 +3,7 @@ title: Start6 Property, Project [vbapj.chm132596]
 keywords: vbapj.chm132596
 f1_keywords:
 - vbapj.chm132596
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b4498a3b-672f-4df3-9dc3-934b12d08468
 ms.date: 06/08/2017
 ---

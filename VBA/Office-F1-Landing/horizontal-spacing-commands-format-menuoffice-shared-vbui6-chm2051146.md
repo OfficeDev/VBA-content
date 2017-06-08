@@ -3,7 +3,7 @@ title: Horizontal Spacing Commands (Format Menu), Office Shared [vbui6.chm205114
 keywords: vbui6.chm2051146
 f1_keywords:
 - vbui6.chm2051146
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d03ce4f3-8407-4736-9722-29fbba694d3a
 ms.date: 06/08/2017
 ---

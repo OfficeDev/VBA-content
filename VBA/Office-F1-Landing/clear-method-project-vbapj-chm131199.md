@@ -3,7 +3,7 @@ title: Clear Method, Project [vbapj.chm131199]
 keywords: vbapj.chm131199
 f1_keywords:
 - vbapj.chm131199
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79f0c3d6-c07d-44c0-be58-af483e9884c4
 ms.date: 06/08/2017
 ---

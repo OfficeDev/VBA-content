@@ -3,7 +3,7 @@ title: BeforeAttachmentPreview Event, Outlook [vbaol11.chm492]
 keywords: vbaol11.chm492
 f1_keywords:
 - vbaol11.chm492
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0ded0917-0d55-4144-b24c-66bfa3e4f3f9
 ms.date: 06/08/2017
 ---

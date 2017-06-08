@@ -3,7 +3,7 @@ title: DropDown Method, Office Shared [fm20.chm2000300]
 keywords: fm20.chm2000300
 f1_keywords:
 - fm20.chm2000300
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 31667ea7-522d-40d1-b1ee-2bb787184ec0
 ms.date: 06/08/2017
 ---

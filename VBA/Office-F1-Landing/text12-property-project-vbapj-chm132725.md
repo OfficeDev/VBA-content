@@ -3,7 +3,7 @@ title: Text12 Property, Project [vbapj.chm132725]
 keywords: vbapj.chm132725
 f1_keywords:
 - vbapj.chm132725
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 62762c35-c16b-4275-8934-dbabd2bb1e74
 ms.date: 06/08/2017
 ---

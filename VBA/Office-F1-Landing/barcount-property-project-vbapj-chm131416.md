@@ -3,7 +3,7 @@ title: BarCount Property, Project [vbapj.chm131416]
 keywords: vbapj.chm131416
 f1_keywords:
 - vbapj.chm131416
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a133be13-6223-4d19-9756-d7d33a7b14fe
 ms.date: 06/08/2017
 ---

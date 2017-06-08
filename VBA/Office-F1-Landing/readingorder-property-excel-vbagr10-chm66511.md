@@ -3,7 +3,7 @@ title: ReadingOrder Property, Excel [vbagr10.chm66511]
 keywords: vbagr10.chm66511
 f1_keywords:
 - vbagr10.chm66511
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 51534f2a-42ac-4d35-a282-734dc5df91f6
 ms.date: 06/08/2017
 ---

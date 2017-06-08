@@ -3,7 +3,7 @@ title: ItemRemoved Event, Access [vbaac10.chm12648]
 keywords: vbaac10.chm12648
 f1_keywords:
 - vbaac10.chm12648
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c11a6ce4-0d91-4293-9cfc-a86170bdf3f9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Initials Cell (Reviewer Section), Visio [Vis_DSS.chm1030991]
 keywords: vis_dss.chm1030991
 f1_keywords:
 - vis_dss.chm1030991
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4509091-955c-401a-af46-f9a10e94db62
 ms.date: 06/08/2017
 ---

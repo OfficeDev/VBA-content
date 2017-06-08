@@ -3,7 +3,7 @@ title: Disk not ready (Error 71), Office Shared [vblr6.chm1000071]
 keywords: vblr6.chm1000071
 f1_keywords:
 - vblr6.chm1000071
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a6073641-241a-43f6-a66b-ab8bf2c95b39
 ms.date: 06/08/2017
 ---

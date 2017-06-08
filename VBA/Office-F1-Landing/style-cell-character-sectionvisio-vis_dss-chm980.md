@@ -3,7 +3,7 @@ title: Style Cell (Character Section), Visio [Vis_DSS.chm980]
 keywords: vis_dss.chm980
 f1_keywords:
 - vis_dss.chm980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bdc134ff-a209-4731-99e4-4bb75cd4315b
 ms.date: 06/08/2017
 ---

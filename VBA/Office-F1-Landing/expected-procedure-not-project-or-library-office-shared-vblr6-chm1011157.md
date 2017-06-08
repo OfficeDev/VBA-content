@@ -3,7 +3,7 @@ title: Expected procedure, not project or library, Office Shared [vblr6.chm10111
 keywords: vblr6.chm1011157
 f1_keywords:
 - vblr6.chm1011157
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4ef84ba4-3ca5-4c52-9036-aa89498a85a3
 ms.date: 06/08/2017
 ---

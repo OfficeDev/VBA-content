@@ -3,7 +3,7 @@ title: IsReducedFunctionalityMode Method, Project [vbapj.chm132358]
 keywords: vbapj.chm132358
 f1_keywords:
 - vbapj.chm132358
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 75fffa89-20af-4c7e-a231-7b9a6fc1c95f
 ms.date: 06/08/2017
 ---

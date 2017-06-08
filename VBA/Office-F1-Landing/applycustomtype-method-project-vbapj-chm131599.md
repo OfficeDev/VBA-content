@@ -3,7 +3,7 @@ title: ApplyCustomType Method, Project [vbapj.chm131599]
 keywords: vbapj.chm131599
 f1_keywords:
 - vbapj.chm131599
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bfb1bbd8-6ab5-436d-b8a9-a766e687ab94
 ms.date: 06/08/2017
 ---

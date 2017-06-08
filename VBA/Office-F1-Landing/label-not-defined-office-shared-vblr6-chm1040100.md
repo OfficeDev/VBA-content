@@ -3,7 +3,7 @@ title: Label not defined, Office Shared [vblr6.chm1040100]
 keywords: vblr6.chm1040100
 f1_keywords:
 - vblr6.chm1040100
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9d79d81e-f9ff-4135-ba3a-d9d756cd5835
 ms.date: 06/08/2017
 ---

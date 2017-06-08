@@ -3,7 +3,7 @@ title: Can't place conditional breakpoint on an array, Office Shared [vblr6.chm1
 keywords: vblr6.chm1057091
 f1_keywords:
 - vblr6.chm1057091
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 635bad97-3290-40eb-a349-880989686fbc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Maximum number of watch expressions added, Office Shared [vblr6.chm104021
 keywords: vblr6.chm1040214
 f1_keywords:
 - vblr6.chm1040214
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6d125773-c3a4-4372-8790-5356ec3f0f4f
 ms.date: 06/08/2017
 ---

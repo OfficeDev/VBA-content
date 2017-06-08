@@ -3,7 +3,7 @@ title: WhatsThisMode Method, Office Shared [vblr6.chm916156]
 keywords: vblr6.chm916156
 f1_keywords:
 - vblr6.chm916156
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 65fcc9d4-a7c4-4015-9a79-4dc771e199dc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Send Event, Outlook [vbaol11.chm483]
 keywords: vbaol11.chm483
 f1_keywords:
 - vbaol11.chm483
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 81b3b852-c678-4ba7-a269-d33cf6882eef
 ms.date: 06/08/2017
 ---

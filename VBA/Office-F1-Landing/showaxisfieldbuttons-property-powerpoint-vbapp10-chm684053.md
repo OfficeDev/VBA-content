@@ -3,7 +3,7 @@ title: ShowAxisFieldButtons Property, PowerPoint [vbapp10.chm684053]
 keywords: vbapp10.chm684053
 f1_keywords:
 - vbapp10.chm684053
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fc94aeac-8730-4149-b4f4-3c32852ca1f9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: GUID Property (VBA Add-In Object Model), Office Shared [vbob6.chm102261]
 keywords: vbob6.chm102261
 f1_keywords:
 - vbob6.chm102261
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1f588037-427b-467c-b580-2cb3431c494e
 ms.date: 06/08/2017
 ---

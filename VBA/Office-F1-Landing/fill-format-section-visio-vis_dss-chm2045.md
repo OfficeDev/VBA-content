@@ -3,7 +3,7 @@ title: Fill Format Section, Visio [Vis_DSS.chm2045]
 keywords: vis_dss.chm2045
 f1_keywords:
 - vis_dss.chm2045
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d9445a21-900e-4364-a613-e992b0812e8c
 ms.date: 06/08/2017
 ---

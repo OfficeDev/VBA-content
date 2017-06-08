@@ -3,7 +3,7 @@ title: Exit Event, Access [vbaac10.chm14198]
 keywords: vbaac10.chm14198
 f1_keywords:
 - vbaac10.chm14198
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c689800d-6026-4091-b44a-92f3f5164c06
 ms.date: 06/08/2017
 ---

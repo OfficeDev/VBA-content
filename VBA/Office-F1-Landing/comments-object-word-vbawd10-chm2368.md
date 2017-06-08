@@ -3,7 +3,7 @@ title: Comments Object, Word [vbawd10.chm2368]
 keywords: vbawd10.chm2368
 f1_keywords:
 - vbawd10.chm2368
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f4dfba55-a3a5-4f9c-9412-a4e7bb72ac7b
 ms.date: 06/08/2017
 ---

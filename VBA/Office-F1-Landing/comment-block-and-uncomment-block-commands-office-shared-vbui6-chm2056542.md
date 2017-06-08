@@ -3,7 +3,7 @@ title: Comment Block and Uncomment Block Commands, Office Shared [vbui6.chm20565
 keywords: vbui6.chm2056542
 f1_keywords:
 - vbui6.chm2056542
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1fd29e3a-946c-4b49-b874-19ee08ba5551
 ms.date: 06/08/2017
 ---

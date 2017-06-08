@@ -2,7 +2,7 @@
 keywords: vblr6.chm1040201
 f1_keywords:
 - vblr6.chm1040201
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 655a5952-3260-4fb5-9203-3e4ac8e002ae
 ms.date: 06/08/2017
 ---

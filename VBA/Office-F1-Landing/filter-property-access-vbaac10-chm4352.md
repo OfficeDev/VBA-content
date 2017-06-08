@@ -3,7 +3,7 @@ title: Filter Property, Access [vbaac10.chm4352]
 keywords: vbaac10.chm4352
 f1_keywords:
 - vbaac10.chm4352
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 290d6d5c-79fe-4a13-8786-098e2d0e28e0
 ms.date: 06/08/2017
 ---

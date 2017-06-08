@@ -3,7 +3,7 @@ title: DiagramServicesEnabled Property, Visio [vis_sdr.chm10562435]
 keywords: vis_sdr.chm10562435
 f1_keywords:
 - vis_sdr.chm10562435
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 766beb9a-0789-4b23-9bb6-a7f6acec77fd
 ms.date: 06/08/2017
 ---

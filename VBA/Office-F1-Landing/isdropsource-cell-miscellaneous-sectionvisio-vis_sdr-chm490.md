@@ -3,7 +3,7 @@ title: IsDropSource Cell (Miscellaneous Section), Visio [vis_sdr.chm490]
 keywords: vis_sdr.chm490
 f1_keywords:
 - vis_sdr.chm490
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7f38279e-4f71-477a-a8bf-9209c565a952
 ms.date: 06/08/2017
 ---

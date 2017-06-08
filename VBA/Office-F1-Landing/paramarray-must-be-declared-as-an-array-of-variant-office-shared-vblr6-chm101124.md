@@ -3,7 +3,7 @@ title: ParamArray must be declared as an array of Variant, Office Shared [vblr6.
 keywords: vblr6.chm1011247
 f1_keywords:
 - vblr6.chm1011247
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e0e59978-56f4-4fd8-a158-e2a152c733c5
 ms.date: 06/08/2017
 ---

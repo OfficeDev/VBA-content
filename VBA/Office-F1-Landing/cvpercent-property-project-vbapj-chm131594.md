@@ -3,7 +3,7 @@ title: CVPercent Property, Project [vbapj.chm131594]
 keywords: vbapj.chm131594
 f1_keywords:
 - vbapj.chm131594
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e1753e12-ae7b-4cf0-a6b9-1d46f0be8739
 ms.date: 06/08/2017
 ---

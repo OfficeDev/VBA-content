@@ -3,7 +3,7 @@ title: Add Method, Excel [vbaxl10.chm895077]
 keywords: vbaxl10.chm895077
 f1_keywords:
 - vbaxl10.chm895077
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 12f23415-3be3-454c-b16c-e8067fba1b2f
 ms.date: 06/08/2017
 ---

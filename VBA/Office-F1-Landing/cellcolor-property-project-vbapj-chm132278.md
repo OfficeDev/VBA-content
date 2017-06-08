@@ -3,7 +3,7 @@ title: CellColor Property, Project [vbapj.chm132278]
 keywords: vbapj.chm132278
 f1_keywords:
 - vbapj.chm132278
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2794dce0-4767-46d0-afbf-e6f208ae7d4b
 ms.date: 06/08/2017
 ---

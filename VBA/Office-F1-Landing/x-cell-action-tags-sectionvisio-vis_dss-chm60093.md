@@ -3,7 +3,7 @@ title: X Cell (Action Tags Section), Visio [Vis_DSS.chm60093]
 keywords: vis_dss.chm60093
 f1_keywords:
 - vis_dss.chm60093
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 44e75ffc-8151-4427-8e00-706a2a233367
 ms.date: 06/08/2017
 ---

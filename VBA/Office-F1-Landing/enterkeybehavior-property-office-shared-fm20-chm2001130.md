@@ -3,7 +3,7 @@ title: EnterKeyBehavior Property, Office Shared [fm20.chm2001130]
 keywords: fm20.chm2001130
 f1_keywords:
 - fm20.chm2001130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b21aee42-cc78-42ee-8847-f1eff9d4f147
 ms.date: 06/08/2017
 ---

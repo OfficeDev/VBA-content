@@ -3,7 +3,7 @@ title: Connection Property, Access [vbaac10.chm12720]
 keywords: vbaac10.chm12720
 f1_keywords:
 - vbaac10.chm12720
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ac6ef28-b28e-430a-9b7f-3fcb164a5d16
 ms.date: 06/08/2017
 ---

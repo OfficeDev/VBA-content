@@ -3,7 +3,7 @@ title: List Object, Project [vbapj.chm131296]
 keywords: vbapj.chm131296
 f1_keywords:
 - vbapj.chm131296
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: aa19f456-a386-4b96-896d-0becd69a6f1d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Do you want to export specified object before removing it?, Office Shared
 keywords: vblr6.chm60080
 f1_keywords:
 - vblr6.chm60080
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f7387dbb-2142-464b-b71b-03928c47c48f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ActiveX Control, Access [vbaac10.chm108082]
 keywords: vbaac10.chm108082
 f1_keywords:
 - vbaac10.chm108082
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3d834aec-d365-4afc-bda6-8aa81ad035b4
 ms.date: 06/08/2017
 ---

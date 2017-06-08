@@ -3,7 +3,7 @@ title: MouseIcon Property, Office Shared [fm20.chm5225065]
 keywords: fm20.chm5225065
 f1_keywords:
 - fm20.chm5225065
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6fa1b1d5-a518-4c4b-99d5-20ef2001aef8
 ms.date: 06/08/2017
 ---

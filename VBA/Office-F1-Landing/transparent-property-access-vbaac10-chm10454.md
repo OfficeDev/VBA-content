@@ -3,7 +3,7 @@ title: Transparent Property, Access [vbaac10.chm10454]
 keywords: vbaac10.chm10454
 f1_keywords:
 - vbaac10.chm10454
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 632f6995-335d-4f46-8d40-3684854582d5
 ms.date: 06/08/2017
 ---

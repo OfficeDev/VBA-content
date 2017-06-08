@@ -3,7 +3,7 @@ title: MustFlushScopeBeginning Event, Visio [vis_sdr.chm10019180]
 keywords: vis_sdr.chm10019180
 f1_keywords:
 - vis_sdr.chm10019180
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5390dbec-90d1-4408-b80e-25372f239889
 ms.date: 06/08/2017
 ---

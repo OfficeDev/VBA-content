@@ -3,7 +3,7 @@ title: NumeralShapes Property, Access [vbaac10.chm11134]
 keywords: vbaac10.chm11134
 f1_keywords:
 - vbaac10.chm11134
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: db376f33-6064-4461-bfa7-83064ba13674
 ms.date: 06/08/2017
 ---

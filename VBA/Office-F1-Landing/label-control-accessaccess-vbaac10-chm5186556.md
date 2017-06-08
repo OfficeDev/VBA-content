@@ -3,7 +3,7 @@ title: Label Control (Access), Access [vbaac10.chm5186556]
 keywords: vbaac10.chm5186556
 f1_keywords:
 - vbaac10.chm5186556
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 97d33fe8-1091-4041-a4cc-1645121bdf01
 ms.date: 06/08/2017
 ---

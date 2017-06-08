@@ -3,7 +3,7 @@ title: ShapeSplit Cell (Shape Layout Section), Visio [Vis_DSS.chm1033799]
 keywords: vis_dss.chm1033799
 f1_keywords:
 - vis_dss.chm1033799
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 953f5b7d-1dc8-4690-9d12-745bde41fcf2
 ms.date: 06/08/2017
 ---

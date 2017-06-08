@@ -3,7 +3,7 @@ title: MarkerBackgroundColorIndex Property, Excel [vbagr10.chm3077106]
 keywords: vbagr10.chm3077106
 f1_keywords:
 - vbagr10.chm3077106
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6679befa-2114-433b-a2f5-08c54c63aaa0
 ms.date: 06/08/2017
 ---

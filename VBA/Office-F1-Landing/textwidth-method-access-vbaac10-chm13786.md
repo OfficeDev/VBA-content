@@ -3,7 +3,7 @@ title: TextWidth Method, Access [vbaac10.chm13786]
 keywords: vbaac10.chm13786
 f1_keywords:
 - vbaac10.chm13786
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 709f7161-3d05-4b69-9a6b-df8b44d31b84
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: VerticalScrollbarSide Property, Office Shared [fm20.chm2002190]
 keywords: fm20.chm2002190
 f1_keywords:
 - fm20.chm2002190
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 40941d88-9d1a-49b3-a815-a0874510bd62
 ms.date: 06/08/2017
 ---

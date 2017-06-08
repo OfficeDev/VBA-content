@@ -3,7 +3,7 @@ title: Color Builder, Access [vbaac10.chm13627]
 keywords: vbaac10.chm13627
 f1_keywords:
 - vbaac10.chm13627
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b0ab8dd4-c632-457e-91a7-3bf0fe819573
 ms.date: 06/08/2017
 ---

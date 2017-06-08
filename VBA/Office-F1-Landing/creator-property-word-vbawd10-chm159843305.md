@@ -3,7 +3,7 @@ title: Creator Property, Word [vbawd10.chm159843305]
 keywords: vbawd10.chm159843305
 f1_keywords:
 - vbawd10.chm159843305
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1990bcb0-e86a-4a34-9340-fbdcc2d142d5
 ms.date: 06/08/2017
 ---

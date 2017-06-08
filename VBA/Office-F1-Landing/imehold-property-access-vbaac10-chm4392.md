@@ -3,7 +3,7 @@ title: IMEHold Property, Access [vbaac10.chm4392]
 keywords: vbaac10.chm4392
 f1_keywords:
 - vbaac10.chm4392
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: ec3701b4-204d-4fe0-9e18-787c5385d7a2
 ms.date: 06/08/2017
 ---

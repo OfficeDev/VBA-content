@@ -3,7 +3,7 @@ title: Flag20 Property, Project [vbapj.chm132247]
 keywords: vbapj.chm132247
 f1_keywords:
 - vbapj.chm132247
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c6ed2518-9d91-4e47-a892-544972636f80
 ms.date: 06/08/2017
 ---

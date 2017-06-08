@@ -3,7 +3,7 @@ title: OnPush Property, Access [vbaac10.chm10459]
 keywords: vbaac10.chm10459
 f1_keywords:
 - vbaac10.chm10459
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2454664b-76b7-40db-ada4-8698df0f72b7
 ms.date: 06/08/2017
 ---

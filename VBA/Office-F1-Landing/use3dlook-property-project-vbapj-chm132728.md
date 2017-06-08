@@ -3,7 +3,7 @@ title: Use3DLook Property, Project [vbapj.chm132728]
 keywords: vbapj.chm132728
 f1_keywords:
 - vbapj.chm132728
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c76b3670-7559-4548-ad2f-c5a726ef8613
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Application Property, PowerPoint [vbapp10.chm1001]
 keywords: vbapp10.chm1001
 f1_keywords:
 - vbapp10.chm1001
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5fdd7666-f0bf-45ba-8d0c-cf6cc84b79d1
 ms.date: 06/08/2017
 ---

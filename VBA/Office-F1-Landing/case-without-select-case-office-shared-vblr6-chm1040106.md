@@ -3,7 +3,7 @@ title: Case without Select Case, Office Shared [vblr6.chm1040106]
 keywords: vblr6.chm1040106
 f1_keywords:
 - vblr6.chm1040106
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6dec5077-cc44-4b40-b256-246fc65602c4
 ms.date: 06/08/2017
 ---

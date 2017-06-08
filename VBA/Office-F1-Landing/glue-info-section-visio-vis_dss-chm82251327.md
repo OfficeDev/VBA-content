@@ -3,7 +3,7 @@ title: Glue Info Section, Visio [Vis_DSS.chm82251327]
 keywords: vis_dss.chm82251327
 f1_keywords:
 - vis_dss.chm82251327
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 17071a99-4b4d-4181-8c55-e4b61fa7ebab
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Categories Object, Word [vbawd10.chm1931]
 keywords: vbawd10.chm1931
 f1_keywords:
 - vbawd10.chm1931
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 33249daa-76d9-4986-ab38-43c5068fe8c0
 ms.date: 06/08/2017
 ---

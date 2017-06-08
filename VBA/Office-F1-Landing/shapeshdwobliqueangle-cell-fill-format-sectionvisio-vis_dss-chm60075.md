@@ -3,7 +3,7 @@ title: ShapeShdwObliqueAngle Cell (Fill Format Section), Visio [Vis_DSS.chm60075
 keywords: vis_dss.chm60075
 f1_keywords:
 - vis_dss.chm60075
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d4427ce6-1b51-4bfe-81a1-0731c57675ea
 ms.date: 06/08/2017
 ---

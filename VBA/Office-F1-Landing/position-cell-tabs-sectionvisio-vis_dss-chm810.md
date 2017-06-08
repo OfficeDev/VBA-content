@@ -3,7 +3,7 @@ title: Position Cell (Tabs Section), Visio [Vis_DSS.chm810]
 keywords: vis_dss.chm810
 f1_keywords:
 - vis_dss.chm810
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b8ea9e0-fd87-4c5c-9aba-3c99d53f34e5
 ms.date: 06/08/2017
 ---

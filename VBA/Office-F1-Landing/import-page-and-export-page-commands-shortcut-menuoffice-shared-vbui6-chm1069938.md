@@ -3,7 +3,7 @@ title: Import Page and Export Page Commands (Shortcut Menu), Office Shared [vbui
 keywords: vbui6.chm1069938
 f1_keywords:
 - vbui6.chm1069938
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3c32e7c5-3114-4ab3-a469-db46e177a0c6
 ms.date: 06/08/2017
 ---

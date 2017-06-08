@@ -3,7 +3,7 @@ title: Text Box Control, Access [vbaac10.chm4072]
 keywords: vbaac10.chm4072
 f1_keywords:
 - vbaac10.chm4072
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5e778375-bbc7-4afb-b9d9-c55f6419081d
 ms.date: 06/08/2017
 ---

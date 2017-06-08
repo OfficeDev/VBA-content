@@ -3,7 +3,7 @@ title: SendHyperlinkNote Property, Project [vbapj.chm132558]
 keywords: vbapj.chm132558
 f1_keywords:
 - vbapj.chm132558
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9497eae1-3aa5-4fb2-88d3-bb7e15d667ee
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ShowSummary Property, Project [vbapj.chm132296]
 keywords: vbapj.chm132296
 f1_keywords:
 - vbapj.chm132296
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c9800c93-20d4-489b-92f4-d971022805a5
 ms.date: 06/08/2017
 ---

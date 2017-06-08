@@ -3,7 +3,7 @@ title: MoveTo Row (Geometry Section), Visio [Vis_DSS.chm3030]
 keywords: vis_dss.chm3030
 f1_keywords:
 - vis_dss.chm3030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 50feaa2e-24b1-4000-bf25-a18ed07b5b49
 ms.date: 06/08/2017
 ---

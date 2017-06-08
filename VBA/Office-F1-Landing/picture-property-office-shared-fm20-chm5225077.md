@@ -3,7 +3,7 @@ title: Picture Property, Office Shared [fm20.chm5225077]
 keywords: fm20.chm5225077
 f1_keywords:
 - fm20.chm5225077
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4b70b095-4665-4a61-a8e2-d50743c6fb2f
 ms.date: 06/08/2017
 ---

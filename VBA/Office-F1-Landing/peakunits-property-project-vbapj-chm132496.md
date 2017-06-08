@@ -3,7 +3,7 @@ title: PeakUnits Property, Project [vbapj.chm132496]
 keywords: vbapj.chm132496
 f1_keywords:
 - vbapj.chm132496
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f15378ba-6e59-456f-b320-faa5d07f13b2
 ms.date: 06/08/2017
 ---

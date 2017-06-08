@@ -3,7 +3,7 @@ title: Minor Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071228
 keywords: vbob6.chm1071228
 f1_keywords:
 - vbob6.chm1071228
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 92bd69fd-fa03-4859-917d-81e1e8d8cda2
 ms.date: 06/08/2017
 ---

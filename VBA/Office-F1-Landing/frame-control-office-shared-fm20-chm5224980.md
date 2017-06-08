@@ -3,7 +3,7 @@ title: Frame Control, Office Shared [fm20.chm5224980]
 keywords: fm20.chm5224980
 f1_keywords:
 - fm20.chm5224980
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 682821a6-4f8c-46d1-98d4-8a162a1ed177
 ms.date: 06/08/2017
 ---

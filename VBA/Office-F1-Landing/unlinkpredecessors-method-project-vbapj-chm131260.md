@@ -3,7 +3,7 @@ title: UnlinkPredecessors Method, Project [vbapj.chm131260]
 keywords: vbapj.chm131260
 f1_keywords:
 - vbapj.chm131260
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 85a3ed5e-cb59-42bf-a922-c989d4cb60a4
 ms.date: 06/08/2017
 ---

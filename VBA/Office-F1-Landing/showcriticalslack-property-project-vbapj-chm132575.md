@@ -3,7 +3,7 @@ title: ShowCriticalSlack Property, Project [vbapj.chm132575]
 keywords: vbapj.chm132575
 f1_keywords:
 - vbapj.chm132575
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c981272e-2735-4f51-b653-555e1b67d764
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: DisplayModeChange Method, Outlook [vbaol11.chm3601]
 keywords: vbaol11.chm3601
 f1_keywords:
 - vbaol11.chm3601
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cf09fc08-d7f5-47e7-8983-291ff78206a7
 ms.date: 06/08/2017
 ---

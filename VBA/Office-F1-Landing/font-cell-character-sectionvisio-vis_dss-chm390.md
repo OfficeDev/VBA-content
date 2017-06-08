@@ -3,7 +3,7 @@ title: Font Cell (Character Section), Visio [Vis_DSS.chm390]
 keywords: vis_dss.chm390
 f1_keywords:
 - vis_dss.chm390
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78be2000-6825-4f4a-9259-c95b22badb79
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: WBS Property, Project [vbapj.chm132762]
 keywords: vbapj.chm132762
 f1_keywords:
 - vbapj.chm132762
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 109f2097-b517-45dd-9d2c-47b965fc9a32
 ms.date: 06/08/2017
 ---

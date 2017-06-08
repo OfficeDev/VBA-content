@@ -3,7 +3,7 @@ title: Cancel Property, Office Shared [fm20.chm5225013]
 keywords: fm20.chm5225013
 f1_keywords:
 - fm20.chm5225013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 68163526-e94f-4522-8513-773735fc043a
 ms.date: 06/08/2017
 ---

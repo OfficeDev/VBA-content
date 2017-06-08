@@ -3,7 +3,7 @@ title: ChartArea Property, Excel [vbagr10.chm65616]
 keywords: vbagr10.chm65616
 f1_keywords:
 - vbagr10.chm65616
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1c95ba52-fa7d-4cfc-997e-ce879fab52e3
 ms.date: 06/08/2017
 ---

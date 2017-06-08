@@ -3,7 +3,7 @@ title: Column Property, Office Shared [fm20.chm5225019]
 keywords: fm20.chm5225019
 f1_keywords:
 - fm20.chm5225019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d8c70417-9725-43cd-b78a-531563bdc91a
 ms.date: 06/08/2017
 ---

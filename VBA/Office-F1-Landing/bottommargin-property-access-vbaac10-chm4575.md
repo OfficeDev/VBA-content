@@ -3,7 +3,7 @@ title: BottomMargin Property, Access [vbaac10.chm4575]
 keywords: vbaac10.chm4575
 f1_keywords:
 - vbaac10.chm4575
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 102ac38c-32c0-4228-b259-822788c85143
 ms.date: 06/08/2017
 ---

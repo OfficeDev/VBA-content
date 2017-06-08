@@ -3,7 +3,7 @@ title: FullPath Property (VBA Add-In Object Model), Office Shared [vbob6.chm1071
 keywords: vbob6.chm1071225
 f1_keywords:
 - vbob6.chm1071225
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2252a91d-70c3-42af-b03d-8f262bb90b81
 ms.date: 06/08/2017
 ---

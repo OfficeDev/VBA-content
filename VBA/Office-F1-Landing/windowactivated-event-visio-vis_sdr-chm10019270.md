@@ -3,7 +3,7 @@ title: WindowActivated Event, Visio [vis_sdr.chm10019270]
 keywords: vis_sdr.chm10019270
 f1_keywords:
 - vis_sdr.chm10019270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 543f7912-1c57-42bf-a9ab-aeb5d9e5699e
 ms.date: 06/08/2017
 ---

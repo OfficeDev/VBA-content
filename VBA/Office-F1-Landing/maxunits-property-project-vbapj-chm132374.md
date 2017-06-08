@@ -3,7 +3,7 @@ title: MaxUnits Property, Project [vbapj.chm132374]
 keywords: vbapj.chm132374
 f1_keywords:
 - vbapj.chm132374
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 16991cb5-546d-4a6c-94fd-308b78dab206
 ms.date: 06/08/2017
 ---

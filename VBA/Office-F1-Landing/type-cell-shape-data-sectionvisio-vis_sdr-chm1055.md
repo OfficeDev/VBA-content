@@ -3,7 +3,7 @@ title: Type Cell (Shape Data Section), Visio [vis_sdr.chm1055]
 keywords: vis_sdr.chm1055
 f1_keywords:
 - vis_sdr.chm1055
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c475c67c-0199-4724-a118-825c17647979
 ms.date: 06/08/2017
 ---

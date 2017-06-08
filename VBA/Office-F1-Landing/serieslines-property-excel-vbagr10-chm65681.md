@@ -3,7 +3,7 @@ title: SeriesLines Property, Excel [vbagr10.chm65681]
 keywords: vbagr10.chm65681
 f1_keywords:
 - vbagr10.chm65681
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79a44c6b-7bc3-4a9c-8942-253f39724208
 ms.date: 06/08/2017
 ---

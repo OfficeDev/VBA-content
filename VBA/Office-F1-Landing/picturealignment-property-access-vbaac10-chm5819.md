@@ -3,7 +3,7 @@ title: PictureAlignment Property, Access [vbaac10.chm5819]
 keywords: vbaac10.chm5819
 f1_keywords:
 - vbaac10.chm5819
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 61767c14-0cd7-4448-a9cc-74b517dd5c33
 ms.date: 06/08/2017
 ---

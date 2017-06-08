@@ -3,7 +3,7 @@ title: The specified object can't be used as an owner form for Show() (Error 371
 keywords: vblr6.chm371
 f1_keywords:
 - vblr6.chm371
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a8e08004-4f0f-4349-91cc-2a989b7eff1d
 ms.date: 06/08/2017
 ---

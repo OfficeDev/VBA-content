@@ -3,7 +3,7 @@ title: Can't add a reference to the specified file, Office Shared [vblr6.chm1057
 keywords: vblr6.chm1057015
 f1_keywords:
 - vblr6.chm1057015
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3ea1d85f-bb6b-4170-9844-50ecc57dd8c8
 ms.date: 06/08/2017
 ---

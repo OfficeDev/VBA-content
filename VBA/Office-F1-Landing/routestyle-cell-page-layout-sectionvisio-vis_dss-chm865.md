@@ -3,7 +3,7 @@ title: RouteStyle Cell (Page Layout Section), Visio [Vis_DSS.chm865]
 keywords: vis_dss.chm865
 f1_keywords:
 - vis_dss.chm865
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dc818823-1339-4386-a4b8-db05616ee484
 ms.date: 06/08/2017
 ---

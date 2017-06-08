@@ -3,7 +3,7 @@ title: LinkedFields Property, Project [vbapj.chm132350]
 keywords: vbapj.chm132350
 f1_keywords:
 - vbapj.chm132350
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9087186c-89fe-424b-9e90-1465978567fb
 ms.date: 06/08/2017
 ---

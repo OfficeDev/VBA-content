@@ -3,7 +3,7 @@ title: RasterExportDataFormat Property, Visio [vis_sdr.chm16262520]
 keywords: vis_sdr.chm16262520
 f1_keywords:
 - vis_sdr.chm16262520
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: bbda6d24-062d-49ea-a115-8df9ab4aca84
 ms.date: 06/08/2017
 ---

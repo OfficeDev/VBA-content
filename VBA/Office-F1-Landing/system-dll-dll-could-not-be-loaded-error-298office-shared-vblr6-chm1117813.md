@@ -3,7 +3,7 @@ title: System DLL 'dll' could not be loaded (Error 298), Office Shared [vblr6.ch
 keywords: vblr6.chm1117813
 f1_keywords:
 - vblr6.chm1117813
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1d5c7be9-b57f-4c5e-8cf8-3ff647ca7036
 ms.date: 06/08/2017
 ---

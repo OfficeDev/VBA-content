@@ -3,7 +3,7 @@ title: OnUpdated Property, Access [vbaac10.chm4108]
 keywords: vbaac10.chm4108
 f1_keywords:
 - vbaac10.chm4108
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9bb00318-33ba-4850-8256-9b168062176b
 ms.date: 06/08/2017
 ---

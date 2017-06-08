@@ -3,7 +3,7 @@ title: Type Property (VBA Add-In Object Model), Office Shared [vbob6.chm102028]
 keywords: vbob6.chm102028
 f1_keywords:
 - vbob6.chm102028
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 869ed92c-f6dd-48d1-b8f7-93e7ca79a7a8
 ms.date: 06/08/2017
 ---

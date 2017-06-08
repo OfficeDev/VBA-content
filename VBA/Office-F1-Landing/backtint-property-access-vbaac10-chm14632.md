@@ -3,7 +3,7 @@ title: BackTint Property, Access [vbaac10.chm14632]
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 193151a0-618d-4e5f-90de-72152ab94d19
 ms.date: 06/08/2017
 ---

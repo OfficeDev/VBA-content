@@ -3,7 +3,7 @@ title: LineJumpStyle Cell (Page Layout Section), Visio [Vis_DSS.chm555]
 keywords: vis_dss.chm555
 f1_keywords:
 - vis_dss.chm555
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a916e38-3638-4945-97fd-b7aad74d2fbc
 ms.date: 06/08/2017
 ---

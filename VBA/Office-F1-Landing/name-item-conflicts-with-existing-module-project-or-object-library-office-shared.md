@@ -3,7 +3,7 @@ title: Name 'item' conflicts with existing module, project, or object library, O
 keywords: vblr6.chm50135
 f1_keywords:
 - vblr6.chm50135
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d83bb1a9-63f8-4f20-b189-d337d945ec5f
 ms.date: 06/08/2017
 ---

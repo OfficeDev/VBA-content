@@ -3,7 +3,7 @@ title: Color Cell (Character Section), Visio [Vis_DSS.chm82251248]
 keywords: vis_dss.chm82251248
 f1_keywords:
 - vis_dss.chm82251248
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d67e4c3b-26c2-4cc1-b2be-47ca3efa715a
 ms.date: 06/08/2017
 ---

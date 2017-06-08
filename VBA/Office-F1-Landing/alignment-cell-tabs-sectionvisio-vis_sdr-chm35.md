@@ -3,7 +3,7 @@ title: Alignment Cell (Tabs Section), Visio [vis_sdr.chm35]
 keywords: vis_sdr.chm35
 f1_keywords:
 - vis_sdr.chm35
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 89caa453-6ae3-4c6c-b5ef-437aa71ae08b
 ms.date: 06/08/2017
 ---

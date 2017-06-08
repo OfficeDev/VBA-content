@@ -3,7 +3,7 @@ title: GraphicItems Object, Visio [vis_sdr.chm61030]
 keywords: vis_sdr.chm61030
 f1_keywords:
 - vis_sdr.chm61030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 78650ee5-dc1e-4ad8-9db3-929b7e51c1ad
 ms.date: 06/08/2017
 ---

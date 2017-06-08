@@ -3,7 +3,7 @@ title: Smart Tags Row (Action Tags Section), Visio [vis_sdr.chm60019]
 keywords: vis_sdr.chm60019
 f1_keywords:
 - vis_sdr.chm60019
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d57ffa6-9f87-4391-a63c-4e9e6aaaa476
 ms.date: 06/08/2017
 ---

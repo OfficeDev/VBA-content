@@ -3,7 +3,7 @@ title: Paragraph Section, Visio [Vis_DSS.chm82251253]
 keywords: vis_dss.chm82251253
 f1_keywords:
 - vis_dss.chm82251253
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c881ff33-dfd5-4160-ae78-99001e23cd5f
 ms.date: 06/08/2017
 ---

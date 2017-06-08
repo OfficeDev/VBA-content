@@ -3,7 +3,7 @@ title: RecentFiles Object, Word [vbawd10.chm2403]
 keywords: vbawd10.chm2403
 f1_keywords:
 - vbawd10.chm2403
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: f12c3bb1-66b4-40ce-985b-153d402827d0
 ms.date: 06/08/2017
 ---

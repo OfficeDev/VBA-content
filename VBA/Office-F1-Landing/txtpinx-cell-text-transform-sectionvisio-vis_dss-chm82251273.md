@@ -3,7 +3,7 @@ title: TxtPinX Cell (Text Transform Section), Visio [Vis_DSS.chm82251273]
 keywords: vis_dss.chm82251273
 f1_keywords:
 - vis_dss.chm82251273
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 05c7c9d4-969d-41a8-b39e-e8ae41f32bce
 ms.date: 06/08/2017
 ---

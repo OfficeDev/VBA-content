@@ -3,7 +3,7 @@ title: SiteId Property, Project [vbapj.chm132512]
 keywords: vbapj.chm132512
 f1_keywords:
 - vbapj.chm132512
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 225e7acc-8ec1-4bbb-8a99-60ca828320d3
 ms.date: 06/08/2017
 ---

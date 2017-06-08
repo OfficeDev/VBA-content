@@ -3,7 +3,7 @@ title: Caption Property, Excel [vbagr10.chm65675]
 keywords: vbagr10.chm65675
 f1_keywords:
 - vbagr10.chm65675
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a612a19f-164d-4d5d-919f-7dbb89989ccf
 ms.date: 06/08/2017
 ---

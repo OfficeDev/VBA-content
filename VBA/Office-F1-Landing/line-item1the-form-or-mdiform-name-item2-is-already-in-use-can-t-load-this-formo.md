@@ -3,7 +3,7 @@ title: Line 'item1' The Form or MDIForm name 'item2' is already in use; can't lo
 keywords: vblr6.chm1117710
 f1_keywords:
 - vblr6.chm1117710
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79e6b9e5-9ada-4a48-91ad-aa2b54ada43c
 ms.date: 06/08/2017
 ---

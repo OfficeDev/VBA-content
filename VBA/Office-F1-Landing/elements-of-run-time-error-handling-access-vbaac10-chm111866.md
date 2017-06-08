@@ -3,7 +3,7 @@ title: Elements of Run-Time Error Handling, Access [vbaac10.chm111866]
 keywords: vbaac10.chm111866
 f1_keywords:
 - vbaac10.chm111866
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 811be1ba-01ef-4969-95e6-6446cafdaf52
 ms.date: 06/08/2017
 ---

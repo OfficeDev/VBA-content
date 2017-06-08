@@ -3,7 +3,7 @@ title: Using Excel Worksheet Functions in Visual Basic, Excel [vbaxl10.chm81925]
 keywords: vbaxl10.chm81925
 f1_keywords:
 - vbaxl10.chm81925
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 21644dd2-d281-48a5-96aa-75754b29010f
 ms.date: 06/08/2017
 ---

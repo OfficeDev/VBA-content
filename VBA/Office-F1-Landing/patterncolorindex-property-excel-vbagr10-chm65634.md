@@ -3,7 +3,7 @@ title: PatternColorIndex Property, Excel [vbagr10.chm65634]
 keywords: vbagr10.chm65634
 f1_keywords:
 - vbagr10.chm65634
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 092e252e-8e25-4ae3-80c4-a0c05eb344b0
 ms.date: 06/08/2017
 ---

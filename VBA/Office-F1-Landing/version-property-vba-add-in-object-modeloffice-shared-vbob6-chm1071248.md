@@ -3,7 +3,7 @@ title: Version Property (VBA Add-In Object Model), Office Shared [vbob6.chm10712
 keywords: vbob6.chm1071248
 f1_keywords:
 - vbob6.chm1071248
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 94e968d2-f91b-4ac4-a569-84adfd7d7295
 ms.date: 06/08/2017
 ---

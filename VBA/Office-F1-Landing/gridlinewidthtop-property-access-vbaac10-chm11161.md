@@ -3,7 +3,7 @@ title: GridlineWidthTop Property, Access [vbaac10.chm11161]
 keywords: vbaac10.chm11161
 f1_keywords:
 - vbaac10.chm11161
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 27c3da17-e466-4ceb-b9a1-e7dbe7a6fded
 ms.date: 06/08/2017
 ---

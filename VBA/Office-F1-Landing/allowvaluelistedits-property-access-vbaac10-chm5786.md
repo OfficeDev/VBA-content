@@ -3,7 +3,7 @@ title: AllowValueListEdits Property, Access [vbaac10.chm5786]
 keywords: vbaac10.chm5786
 f1_keywords:
 - vbaac10.chm5786
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7dda7f2d-eb0b-4ca6-a1ff-91aa74a1b659
 ms.date: 06/08/2017
 ---

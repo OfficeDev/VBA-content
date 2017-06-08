@@ -3,7 +3,7 @@ title: UpdateTableData Method, Project [vbapj.chm132651]
 keywords: vbapj.chm132651
 f1_keywords:
 - vbapj.chm132651
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 22068fe2-013a-49c8-994a-2ceb67f020d2
 ms.date: 06/08/2017
 ---

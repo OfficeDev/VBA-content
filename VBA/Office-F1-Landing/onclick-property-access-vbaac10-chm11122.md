@@ -3,7 +3,7 @@ title: OnClick Property, Access [vbaac10.chm11122]
 keywords: vbaac10.chm11122
 f1_keywords:
 - vbaac10.chm11122
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a40bc17f-012c-48b5-af38-ef55f733c44d
 ms.date: 06/08/2017
 ---

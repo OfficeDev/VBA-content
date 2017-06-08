@@ -3,7 +3,7 @@ title: Search text not found (Error 744), Office Shared [vblr6.chm1000744]
 keywords: vblr6.chm1000744
 f1_keywords:
 - vblr6.chm1000744
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 194ef041-e362-4708-928c-75134c0f87f5
 ms.date: 06/08/2017
 ---

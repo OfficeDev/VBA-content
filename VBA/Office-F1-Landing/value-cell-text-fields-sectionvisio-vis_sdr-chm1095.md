@@ -3,7 +3,7 @@ title: Value Cell (Text Fields Section), Visio [vis_sdr.chm1095]
 keywords: vis_sdr.chm1095
 f1_keywords:
 - vis_sdr.chm1095
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: dad8cc9c-8a21-4cd8-92c2-8bf03fdc806f
 ms.date: 06/08/2017
 ---

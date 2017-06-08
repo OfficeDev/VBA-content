@@ -3,7 +3,7 @@ title: VisualReportsAdditionalTemplatePath Property, Project [vbapj.chm131384]
 keywords: vbapj.chm131384
 f1_keywords:
 - vbapj.chm131384
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d2bc5d09-9a11-4ff2-a944-71c0b5780b9f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Command Button Control, Access [vbaac10.chm4062]
 keywords: vbaac10.chm4062
 f1_keywords:
 - vbaac10.chm4062
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b023635d-70e3-4891-8dae-e7f6677aa80f
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: BeforeRead Event, Outlook [vbaol11.chm3567]
 keywords: vbaol11.chm3567
 f1_keywords:
 - vbaol11.chm3567
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8750a412-bec6-4af3-9bf8-f889d0d68a48
 ms.date: 06/08/2017
 ---

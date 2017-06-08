@@ -3,7 +3,7 @@ title: FontColor Property, Project [vbapj.chm131604]
 keywords: vbapj.chm131604
 f1_keywords:
 - vbapj.chm131604
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 24a963d8-4d69-44ee-9e13-7906782bdb52
 ms.date: 06/08/2017
 ---

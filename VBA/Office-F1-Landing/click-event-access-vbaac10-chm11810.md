@@ -3,7 +3,7 @@ title: Click Event, Access [vbaac10.chm11810]
 keywords: vbaac10.chm11810
 f1_keywords:
 - vbaac10.chm11810
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d28085c4-c92d-4f04-b3ac-7bcbaa985fbc
 ms.date: 06/08/2017
 ---

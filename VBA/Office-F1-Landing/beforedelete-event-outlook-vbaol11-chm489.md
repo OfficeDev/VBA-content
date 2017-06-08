@@ -3,7 +3,7 @@ title: BeforeDelete Event, Outlook [vbaol11.chm489]
 keywords: vbaol11.chm489
 f1_keywords:
 - vbaol11.chm489
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 095725af-827c-4a0e-b01d-186ae2a6f3b4
 ms.date: 06/08/2017
 ---

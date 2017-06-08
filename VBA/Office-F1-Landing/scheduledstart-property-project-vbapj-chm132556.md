@@ -3,7 +3,7 @@ title: ScheduledStart Property, Project [vbapj.chm132556]
 keywords: vbapj.chm132556
 f1_keywords:
 - vbapj.chm132556
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: da01fe8c-3e3f-420d-b832-86526bbcfc11
 ms.date: 06/08/2017
 ---

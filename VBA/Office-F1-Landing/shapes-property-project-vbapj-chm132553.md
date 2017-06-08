@@ -3,7 +3,7 @@ title: Shapes Property, Project [vbapj.chm132553]
 keywords: vbapj.chm132553
 f1_keywords:
 - vbapj.chm132553
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 5776915f-75bc-4b87-a4ab-fe1f34a872b5
 ms.date: 06/08/2017
 ---

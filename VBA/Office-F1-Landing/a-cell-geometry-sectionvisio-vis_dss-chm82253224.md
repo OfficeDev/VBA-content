@@ -3,7 +3,7 @@ title: A Cell (Geometry Section), Visio [Vis_DSS.chm82253224]
 keywords: vis_dss.chm82253224
 f1_keywords:
 - vis_dss.chm82253224
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7de09887-c362-4b0d-bb1a-911b0e9c55e5
 ms.date: 06/08/2017
 ---

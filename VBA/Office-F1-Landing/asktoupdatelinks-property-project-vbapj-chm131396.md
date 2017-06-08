@@ -3,7 +3,7 @@ title: AskToUpdateLinks Property, Project [vbapj.chm131396]
 keywords: vbapj.chm131396
 f1_keywords:
 - vbapj.chm131396
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a8086ae8-e90c-4379-a97a-0b5b3baa58d7
 ms.date: 06/08/2017
 ---

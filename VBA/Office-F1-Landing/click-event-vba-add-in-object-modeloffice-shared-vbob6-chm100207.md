@@ -3,7 +3,7 @@ title: Click Event (VBA Add-In Object Model), Office Shared [vbob6.chm100207]
 keywords: vbob6.chm100207
 f1_keywords:
 - vbob6.chm100207
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ca9b0af-2824-4257-8b85-a61869362b72
 ms.date: 06/08/2017
 ---

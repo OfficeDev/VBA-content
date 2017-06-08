@@ -3,7 +3,7 @@ title: NonPrinting Cell (Miscellaneous Section), Visio [vis_sdr.chm725]
 keywords: vis_sdr.chm725
 f1_keywords:
 - vis_sdr.chm725
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 83527e7c-fcba-4854-a490-9c9616626873
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: SourceProject Property, Project [vbapj.chm132621]
 keywords: vbapj.chm132621
 f1_keywords:
 - vbapj.chm132621
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4967f31e-f1fa-444a-9d8e-7f5857e6f6ca
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ProtectedViewWindows Property, PowerPoint [vbapp10.chm503013]
 keywords: vbapp10.chm503013
 f1_keywords:
 - vbapp10.chm503013
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 7389f623-ee30-4adf-9ff0-dc7245448b98
 ms.date: 06/08/2017
 ---

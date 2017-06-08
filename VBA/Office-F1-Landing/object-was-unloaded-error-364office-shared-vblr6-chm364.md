@@ -3,7 +3,7 @@ title: Object was unloaded (Error 364), Office Shared [vblr6.chm364]
 keywords: vblr6.chm364
 f1_keywords:
 - vblr6.chm364
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9ca564c4-c3c6-4dd9-8273-554c39904293
 ms.date: 06/08/2017
 ---

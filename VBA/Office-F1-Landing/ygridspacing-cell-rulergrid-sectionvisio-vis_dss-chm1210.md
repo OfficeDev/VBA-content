@@ -2,7 +2,7 @@
 keywords: vis_dss.chm1210
 f1_keywords:
 - vis_dss.chm1210
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: c263ab90-8bc2-4026-9e4e-11e3ab53f61c
 ms.date: 06/08/2017
 ---

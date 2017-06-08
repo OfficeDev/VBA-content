@@ -3,7 +3,7 @@ title: SubAddress Cell (Hyperlinks Section), Visio [vis_sdr.chm985]
 keywords: vis_sdr.chm985
 f1_keywords:
 - vis_sdr.chm985
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d150394d-c0ab-4483-9b67-43de0734f6aa
 ms.date: 06/08/2017
 ---

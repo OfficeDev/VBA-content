@@ -3,7 +3,7 @@ title: VerticalAnchor Property, Access [vbaac10.chm5691]
 keywords: vbaac10.chm5691
 f1_keywords:
 - vbaac10.chm5691
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 1ba914a2-deea-44e9-b558-44dc8a89883c
 ms.date: 06/08/2017
 ---

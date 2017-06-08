@@ -3,7 +3,7 @@ title: Bullet Cell (Paragraph Section), Visio [Vis_DSS.chm130]
 keywords: vis_dss.chm130
 f1_keywords:
 - vis_dss.chm130
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b6d2ebc5-9bf9-458e-8571-2321bd62a4c8
 ms.date: 06/08/2017
 ---

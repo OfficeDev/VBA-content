@@ -3,7 +3,7 @@ title: IsConnected Property, Access [vbaac10.chm12714]
 keywords: vbaac10.chm12714
 f1_keywords:
 - vbaac10.chm12714
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de748f1b-7228-4ffc-96e8-84e82ae3f485
 ms.date: 06/08/2017
 ---

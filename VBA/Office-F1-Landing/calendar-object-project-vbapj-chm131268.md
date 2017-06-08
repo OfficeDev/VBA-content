@@ -3,7 +3,7 @@ title: Calendar Object, Project [vbapj.chm131268]
 keywords: vbapj.chm131268
 f1_keywords:
 - vbapj.chm131268
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3d7619ed-d847-4270-89d9-61d6d838a248
 ms.date: 06/08/2017
 ---

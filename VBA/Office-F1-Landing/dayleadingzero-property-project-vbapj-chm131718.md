@@ -3,7 +3,7 @@ title: DayLeadingZero Property, Project [vbapj.chm131718]
 keywords: vbapj.chm131718
 f1_keywords:
 - vbapj.chm131718
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: d8a3eb0d-b366-4269-a841-7534d9d48bfd
 ms.date: 06/08/2017
 ---

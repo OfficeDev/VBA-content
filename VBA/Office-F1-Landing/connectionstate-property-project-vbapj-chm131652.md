@@ -3,7 +3,7 @@ title: ConnectionState Property, Project [vbapj.chm131652]
 keywords: vbapj.chm131652
 f1_keywords:
 - vbapj.chm131652
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2a390ab9-909c-45ba-9ad3-1ba2c4ea8b47
 ms.date: 06/08/2017
 ---

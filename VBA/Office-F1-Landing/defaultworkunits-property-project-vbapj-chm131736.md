@@ -3,7 +3,7 @@ title: DefaultWorkUnits Property, Project [vbapj.chm131736]
 keywords: vbapj.chm131736
 f1_keywords:
 - vbapj.chm131736
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: e983108c-5d86-44d9-ac46-9ac879389ca6
 ms.date: 06/08/2017
 ---

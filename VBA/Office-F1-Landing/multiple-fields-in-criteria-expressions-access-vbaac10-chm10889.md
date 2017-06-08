@@ -3,7 +3,7 @@ title: Multiple Fields in Criteria Expressions, Access [vbaac10.chm10889]
 keywords: vbaac10.chm10889
 f1_keywords:
 - vbaac10.chm10889
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6ad56e29-05be-4cc5-8fc5-da65857e9d72
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NewWindow Cell (Hyperlinks Section), Visio [Vis_DSS.chm82251386]
 keywords: vis_dss.chm82251386
 f1_keywords:
 - vis_dss.chm82251386
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0d8dc15f-9f8c-4a78-b9de-036ba8cb2a4e
 ms.date: 06/08/2017
 ---

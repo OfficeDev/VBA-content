@@ -3,7 +3,7 @@ title: LimitToList Property, Access [vbaac10.chm4411]
 keywords: vbaac10.chm4411
 f1_keywords:
 - vbaac10.chm4411
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 95a8c6f4-47ae-4a62-a331-61a1186db74f
 ms.date: 06/08/2017
 ---

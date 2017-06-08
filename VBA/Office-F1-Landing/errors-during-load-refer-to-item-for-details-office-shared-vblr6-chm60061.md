@@ -3,7 +3,7 @@ title: Errors during load. Refer to 'item' for details, Office Shared [vblr6.chm
 keywords: vblr6.chm60061
 f1_keywords:
 - vblr6.chm60061
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 687eddc0-3d6a-4ad8-9b89-7b2fffb5e3b6
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: LostFocus Event, Access [vbaac10.chm14200]
 keywords: vbaac10.chm14200
 f1_keywords:
 - vbaac10.chm14200
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 87cf5a96-c2a0-4deb-aa73-9b8d05a4f3c4
 ms.date: 06/08/2017
 ---

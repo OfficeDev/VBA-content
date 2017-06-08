@@ -3,7 +3,7 @@ title: DisplayProjectGuide Property, Project [vbapj.chm132788]
 keywords: vbapj.chm132788
 f1_keywords:
 - vbapj.chm132788
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: a4a2c206-5b55-4b9f-83a4-060dd1a6280c
 ms.date: 06/08/2017
 ---

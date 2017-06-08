@@ -3,7 +3,7 @@ title: OtherCorrectionsExceptions Object, Word [vbawd10.chm2527]
 keywords: vbawd10.chm2527
 f1_keywords:
 - vbawd10.chm2527
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: fbbfd2e0-0a2b-452f-a788-b5c074e28796
 ms.date: 06/08/2017
 ---

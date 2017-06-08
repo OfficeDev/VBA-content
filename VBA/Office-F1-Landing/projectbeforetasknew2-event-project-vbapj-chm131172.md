@@ -3,7 +3,7 @@ title: ProjectBeforeTaskNew2 Event, Project [vbapj.chm131172]
 keywords: vbapj.chm131172
 f1_keywords:
 - vbapj.chm131172
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: feabe99c-be96-469a-892f-a050bd2fbe1a
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ItemRemoved Event (VBA Add-In Object Model), Office Shared [vbob6.chm1001
 keywords: vbob6.chm100155
 f1_keywords:
 - vbob6.chm100155
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2dc5fe6c-795d-48b8-a3ed-5282dd483d68
 ms.date: 06/08/2017
 ---

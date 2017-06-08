@@ -3,7 +3,7 @@ title: OrderBy Property, Access [vbaac10.chm4451]
 keywords: vbaac10.chm4451
 f1_keywords:
 - vbaac10.chm4451
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 30df0812-0b85-4cd5-ab14-d05ba564abf9
 ms.date: 06/08/2017
 ---

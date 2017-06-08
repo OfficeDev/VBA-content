@@ -3,7 +3,7 @@ title: LockRotate Cell (Protection Section), Visio [Vis_DSS.chm82251222]
 keywords: vis_dss.chm82251222
 f1_keywords:
 - vis_dss.chm82251222
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cc612825-f342-4929-b8d4-b1aa9f71f0e6
 ms.date: 06/08/2017
 ---

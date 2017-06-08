@@ -3,7 +3,7 @@ title: Cut, Copy, Paste, and Delete Commands (Edit Menu), Office Shared [vbui6.c
 keywords: vbui6.chm2012582
 f1_keywords:
 - vbui6.chm2012582
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 6e511ac7-a602-4f84-9fcc-0961b597e5d8
 ms.date: 06/08/2017
 ---

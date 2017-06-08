@@ -3,7 +3,7 @@ title: BarShape Property, Excel [vbagr10.chm3076961]
 keywords: vbagr10.chm3076961
 f1_keywords:
 - vbagr10.chm3076961
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 14f1aac3-89b1-4dd6-8d6d-09e71016d751
 ms.date: 06/08/2017
 ---

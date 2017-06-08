@@ -3,7 +3,7 @@ title: ActiveVBProject Property (VBA Add-In Object Model), Office Shared [vbob6.
 keywords: vbob6.chm1070957
 f1_keywords:
 - vbob6.chm1070957
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 34bb2813-1a7d-46ba-a052-51ec1b2902d5
 ms.date: 06/08/2017
 ---

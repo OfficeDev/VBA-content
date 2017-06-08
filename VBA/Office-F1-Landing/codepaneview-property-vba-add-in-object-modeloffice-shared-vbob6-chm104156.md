@@ -3,7 +3,7 @@ title: CodePaneView Property (VBA Add-In Object Model), Office Shared [vbob6.chm
 keywords: vbob6.chm104156
 f1_keywords:
 - vbob6.chm104156
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: cb713dc3-0634-49f6-bf4a-c7b75998608e
 ms.date: 06/08/2017
 ---

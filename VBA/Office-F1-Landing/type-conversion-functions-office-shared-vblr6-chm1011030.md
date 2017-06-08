@@ -3,7 +3,7 @@ title: Type Conversion Functions, Office Shared [vblr6.chm1011030]
 keywords: vblr6.chm1011030
 f1_keywords:
 - vblr6.chm1011030
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 2ff38922-bf9f-4b5d-8d2a-1218670e6a4b
 ms.date: 06/08/2017
 ---

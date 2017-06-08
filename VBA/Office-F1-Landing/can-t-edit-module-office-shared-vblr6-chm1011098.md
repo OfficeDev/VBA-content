@@ -3,7 +3,7 @@ title: Can't edit module, Office Shared [vblr6.chm1011098]
 keywords: vblr6.chm1011098
 f1_keywords:
 - vblr6.chm1011098
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 844b73a5-4d49-462b-b89b-4779eab9233f
 ms.date: 06/08/2017
 ---

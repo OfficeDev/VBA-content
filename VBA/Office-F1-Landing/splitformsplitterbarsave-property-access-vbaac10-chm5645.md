@@ -3,7 +3,7 @@ title: SplitFormSplitterBarSave Property, Access [vbaac10.chm5645]
 keywords: vbaac10.chm5645
 f1_keywords:
 - vbaac10.chm5645
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 608c07eb-5e3c-499c-b0ba-d2bae088a2ef
 ms.date: 06/08/2017
 ---

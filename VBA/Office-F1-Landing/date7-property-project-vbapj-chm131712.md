@@ -3,7 +3,7 @@ title: Date7 Property, Project [vbapj.chm131712]
 keywords: vbapj.chm131712
 f1_keywords:
 - vbapj.chm131712
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 70bf875b-8c7b-49ae-873e-10238eb4e5d7
 ms.date: 06/08/2017
 ---

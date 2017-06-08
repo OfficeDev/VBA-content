@@ -3,7 +3,7 @@ title: OnMouseUp Property, Access [vbaac10.chm10501]
 keywords: vbaac10.chm10501
 f1_keywords:
 - vbaac10.chm10501
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0b805350-897f-4645-b0f8-81bea039061d
 ms.date: 06/08/2017
 ---

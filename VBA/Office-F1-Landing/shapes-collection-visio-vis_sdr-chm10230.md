@@ -3,7 +3,7 @@ title: Shapes Collection, Visio [vis_sdr.chm10230]
 keywords: vis_sdr.chm10230
 f1_keywords:
 - vis_sdr.chm10230
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9a4aa434-fe2d-4a75-99f5-4bd6b05436b1
 ms.date: 06/08/2017
 ---

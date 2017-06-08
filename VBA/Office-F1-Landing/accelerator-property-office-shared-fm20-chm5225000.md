@@ -3,7 +3,7 @@ title: Accelerator Property, Office Shared [fm20.chm5225000]
 keywords: fm20.chm5225000
 f1_keywords:
 - fm20.chm5225000
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: b548f54d-a79d-4ab8-833b-281fcf70667e
 ms.date: 06/08/2017
 ---

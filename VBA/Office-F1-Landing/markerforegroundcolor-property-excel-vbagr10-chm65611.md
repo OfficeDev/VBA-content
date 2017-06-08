@@ -3,7 +3,7 @@ title: MarkerForegroundColor Property, Excel [vbagr10.chm65611]
 keywords: vbagr10.chm65611
 f1_keywords:
 - vbagr10.chm65611
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: df9bdb66-1118-433c-ac9b-23db094ead85
 ms.date: 06/08/2017
 ---

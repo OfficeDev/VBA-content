@@ -3,7 +3,7 @@ title: LockGroup Cell (Protection Section), Visio [Vis_DSS.chm630]
 keywords: vis_dss.chm630
 f1_keywords:
 - vis_dss.chm630
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 91696dcd-3030-4140-a5d1-d1cceaf3f4a1
 ms.date: 06/08/2017
 ---

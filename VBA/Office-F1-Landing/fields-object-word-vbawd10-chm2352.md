@@ -3,7 +3,7 @@ title: Fields Object, Word [vbawd10.chm2352]
 keywords: vbawd10.chm2352
 f1_keywords:
 - vbawd10.chm2352
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 43d82db1-084a-482b-89a3-39d0a134ce00
 ms.date: 06/08/2017
 ---

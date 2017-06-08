@@ -3,7 +3,7 @@ title: File format no longer supported, Office Shared [vblr6.chm1011296]
 keywords: vblr6.chm1011296
 f1_keywords:
 - vblr6.chm1011296
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 3a33d860-d6ec-4c9c-a277-9515abf736bc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: StartYearIn Property, Project [vbapj.chm132654]
 keywords: vbapj.chm132654
 f1_keywords:
 - vbapj.chm132654
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0cc9b2f3-fd0f-4674-8f18-d727e2ea3cd6
 ms.date: 06/08/2017
 ---

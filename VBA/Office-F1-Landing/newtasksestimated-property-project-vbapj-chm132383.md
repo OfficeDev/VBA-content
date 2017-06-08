@@ -3,7 +3,7 @@ title: NewTasksEstimated Property, Project [vbapj.chm132383]
 keywords: vbapj.chm132383
 f1_keywords:
 - vbapj.chm132383
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 9299b58c-c519-4cdf-b4ac-7fcabfa5a5f4
 ms.date: 06/08/2017
 ---

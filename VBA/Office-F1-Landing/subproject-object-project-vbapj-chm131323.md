@@ -3,7 +3,7 @@ title: Subproject Object, Project [vbapj.chm131323]
 keywords: vbapj.chm131323
 f1_keywords:
 - vbapj.chm131323
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 4721e85e-21eb-46a5-b921-373e96ad1144
 ms.date: 06/08/2017
 ---

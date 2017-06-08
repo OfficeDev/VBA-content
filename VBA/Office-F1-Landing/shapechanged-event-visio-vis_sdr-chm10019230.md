@@ -3,7 +3,7 @@ title: ShapeChanged Event, Visio [vis_sdr.chm10019230]
 keywords: vis_sdr.chm10019230
 f1_keywords:
 - vis_sdr.chm10019230
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 0c826f0b-f760-4b8e-8b9a-7b3c94998dcc
 ms.date: 06/08/2017
 ---

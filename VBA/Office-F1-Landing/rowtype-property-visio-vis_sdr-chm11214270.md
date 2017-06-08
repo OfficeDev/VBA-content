@@ -3,7 +3,7 @@ title: RowType Property, Visio [vis_sdr.chm11214270]
 keywords: vis_sdr.chm11214270
 f1_keywords:
 - vis_sdr.chm11214270
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 888f57c3-8c73-4bb8-b25f-3d8df512eba7
 ms.date: 06/08/2017
 ---

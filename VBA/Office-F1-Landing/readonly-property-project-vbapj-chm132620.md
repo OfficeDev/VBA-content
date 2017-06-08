@@ -3,7 +3,7 @@ title: ReadOnly Property, Project [vbapj.chm132620]
 keywords: vbapj.chm132620
 f1_keywords:
 - vbapj.chm132620
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: de97f537-9d4f-4247-8921-adfb16a76aa0
 ms.date: 06/08/2017
 ---

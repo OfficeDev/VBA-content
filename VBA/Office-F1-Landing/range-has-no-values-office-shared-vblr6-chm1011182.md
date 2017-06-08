@@ -3,7 +3,7 @@ title: Range has no values, Office Shared [vblr6.chm1011182]
 keywords: vblr6.chm1011182
 f1_keywords:
 - vblr6.chm1011182
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 11bcf025-321a-4ad5-a8ce-8b98e415f0c5
 ms.date: 06/08/2017
 ---

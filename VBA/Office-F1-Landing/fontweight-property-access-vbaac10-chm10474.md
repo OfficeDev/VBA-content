@@ -3,7 +3,7 @@ title: FontWeight Property, Access [vbaac10.chm10474]
 keywords: vbaac10.chm10474
 f1_keywords:
 - vbaac10.chm10474
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 8d4c64cc-086f-4827-bdba-bf30a6085f35
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Reference Object (VBA Add-In Object Model), Office Shared [vbob6.chm10709
 keywords: vbob6.chm1070950
 f1_keywords:
 - vbob6.chm1070950
-ms.prod: MULTIPLEPRODUCTS
+ms.prod: office
 ms.assetid: 79c3c39c-350c-4bca-810e-e670283c639f
 ms.date: 06/08/2017
 ---
