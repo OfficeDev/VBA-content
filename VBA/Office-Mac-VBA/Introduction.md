@@ -1,3 +1,8 @@
+---
+title: Office for Mac
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Office for Mac
 
 Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.

@@ -1,3 +1,8 @@
+---
+title: Run an AppleScript with VB
+ms.prod: office
+ms.date: 06/08/2017
+---
 # Run an AppleScript with VB
  
 Call an AppleScript file from a VB macro in Office 2016 for Mac.

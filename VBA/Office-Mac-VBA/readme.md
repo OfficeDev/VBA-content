@@ -1,3 +1,8 @@
+---
+title: '[Office for Mac](Introduction.md)'
+ms.prod: office
+ms.date: 06/08/2017
+---
 #[Office for Mac](Introduction.md)
 ##[Request access to multiple files](GrantAccessToMultipleFiles.md)
 ##[Run an AppleScript with VB](AppleScriptTask.md)

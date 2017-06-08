@@ -1,3 +1,8 @@
+---
+title: idMSOs supported in PowerPoint for Mac
+ms.prod: office
+ms.date: 06/08/2017
+---
 # idMSOs supported in PowerPoint for Mac
 
 Find the idMSOs that are supported in PowerPoint in Office 2016 for Mac.
