@@ -3,7 +3,7 @@ title: RemoteItem.Session Property (Outlook)
 keywords: vbaol11.chm1584
 f1_keywords:
 - vbaol11.chm1584
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Session
 ms.assetid: 2692f2ef-b8cb-1b0e-25fb-0381f98c7e79

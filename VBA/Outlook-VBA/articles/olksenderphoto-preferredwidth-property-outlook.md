@@ -3,7 +3,7 @@ title: OlkSenderPhoto.PreferredWidth Property (Outlook)
 keywords: vbaol11.chm1000481
 f1_keywords:
 - vbaol11.chm1000481
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.PreferredWidth
 ms.assetid: 8546b80a-a191-bfce-2e24-6bd74f8e2a8b

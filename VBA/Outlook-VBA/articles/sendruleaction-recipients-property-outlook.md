@@ -3,7 +3,7 @@ title: SendRuleAction.Recipients Property (Outlook)
 keywords: vbaol11.chm2222
 f1_keywords:
 - vbaol11.chm2222
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SendRuleAction.Recipients
 ms.assetid: 5a4a9a2f-4e3c-a4b3-e29c-99c6e8e7a061

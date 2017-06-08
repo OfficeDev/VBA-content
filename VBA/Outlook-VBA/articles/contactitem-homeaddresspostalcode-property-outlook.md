@@ -3,7 +3,7 @@ title: ContactItem.HomeAddressPostalCode Property (Outlook)
 keywords: vbaol11.chm1015
 f1_keywords:
 - vbaol11.chm1015
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddressPostalCode
 ms.assetid: 28d65f71-6be6-5d9e-0935-7f09a5f9fa94

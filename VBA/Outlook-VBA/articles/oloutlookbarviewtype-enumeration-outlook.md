@@ -3,7 +3,7 @@ title: OlOutlookBarViewType Enumeration (Outlook)
 keywords: vbaol11.chm3074
 f1_keywords:
 - vbaol11.chm3074
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlOutlookBarViewType
 ms.assetid: b4cf632e-d839-049d-77aa-5ad51182ef3a

@@ -3,7 +3,7 @@ title: OutlookBarStorage.Parent Property (Outlook)
 keywords: vbaol11.chm371
 f1_keywords:
 - vbaol11.chm371
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarStorage.Parent
 ms.assetid: d8f82919-4a68-4092-f37b-87d63b0dd57a

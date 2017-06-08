@@ -3,7 +3,7 @@ title: RecurrencePattern.Parent Property (Outlook)
 keywords: vbaol11.chm272
 f1_keywords:
 - vbaol11.chm272
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Parent
 ms.assetid: 81ecfc56-b35d-e99d-9312-6b83a8dc58bf

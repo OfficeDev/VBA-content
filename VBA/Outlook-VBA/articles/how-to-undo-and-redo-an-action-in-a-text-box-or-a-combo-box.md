@@ -3,7 +3,7 @@ title: "How to: Undo and Redo an Action in a Text Box or a Combo Box"
 keywords: olfm10.chm3077161
 f1_keywords:
 - olfm10.chm3077161
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5edb515c-d035-e8a3-8c0b-f2ddc74378fd
 ms.date: 06/08/2017
 ---

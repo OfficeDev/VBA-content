@@ -3,7 +3,7 @@ title: Store.GetRules Method (Outlook)
 keywords: vbaol11.chm810
 f1_keywords:
 - vbaol11.chm810
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.GetRules
 ms.assetid: 06048799-e162-68f9-17c2-d80c25e2c55e

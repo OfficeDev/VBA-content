@@ -1,6 +1,6 @@
 ---
 title: DistListItem.BeforeAttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentAdd
 ms.assetid: 96e8cd2d-fabb-f026-c442-483f46414a21

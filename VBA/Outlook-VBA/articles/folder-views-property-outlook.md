@@ -3,7 +3,7 @@ title: Folder.Views Property (Outlook)
 keywords: vbaol11.chm2011
 f1_keywords:
 - vbaol11.chm2011
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Views
 ms.assetid: 24ef613a-9832-032c-4e68-1001a0385b11

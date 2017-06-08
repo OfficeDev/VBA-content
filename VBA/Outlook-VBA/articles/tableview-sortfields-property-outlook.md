@@ -3,7 +3,7 @@ title: TableView.SortFields Property (Outlook)
 keywords: vbaol11.chm2519
 f1_keywords:
 - vbaol11.chm2519
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.SortFields
 ms.assetid: 0b643d55-c4cb-dcba-b90b-66f6b936b5a8

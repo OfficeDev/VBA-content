@@ -3,7 +3,7 @@ title: ReportItem.Companies Property (Outlook)
 keywords: vbaol11.chm1643
 f1_keywords:
 - vbaol11.chm1643
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Companies
 ms.assetid: 293e2355-5597-2628-8eaa-8e2504fc8510

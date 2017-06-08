@@ -3,7 +3,7 @@ title: SharingItem.Recipients Property (Outlook)
 keywords: vbaol11.chm650
 f1_keywords:
 - vbaol11.chm650
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Recipients
 ms.assetid: 4c59319e-33e1-aaaf-c389-7390a6a85493

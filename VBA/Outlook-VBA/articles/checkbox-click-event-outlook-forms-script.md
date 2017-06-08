@@ -3,7 +3,7 @@ title: CheckBox.Click Event (Outlook Forms Script)
 keywords: olfm10.chm2000070
 f1_keywords:
 - olfm10.chm2000070
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 186f0164-0d7d-0068-b8ec-2e1bc6e561cd
 ms.date: 06/08/2017
 ---

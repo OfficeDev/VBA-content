@@ -3,7 +3,7 @@ title: MeetingItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1415
 f1_keywords:
 - vbaol11.chm1415
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.LastModificationTime
 ms.assetid: 175726cb-b1fa-83ab-8e14-684611fab02b

@@ -1,6 +1,6 @@
 ---
 title: Validating User Input to a Field
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7e23ff38-1fa8-a34e-99bb-bf1e651efd9b
 ms.date: 06/08/2017
 ---

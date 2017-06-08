@@ -3,7 +3,7 @@ title: ExchangeUser.Alias Property (Outlook)
 keywords: vbaol11.chm2085
 f1_keywords:
 - vbaol11.chm2085
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Alias
 ms.assetid: ea87a061-4f09-e0ed-fd3d-bfb44cccaf15

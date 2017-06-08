@@ -3,7 +3,7 @@ title: Using Outlook Visual Basic for Applications to Respond to Outlook Events
 keywords: vbaol11.chm5274250
 f1_keywords:
 - vbaol11.chm5274250
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 560bb264-05d0-dbc6-39c2-b95b12f50ed9
 ms.date: 06/08/2017
 ---

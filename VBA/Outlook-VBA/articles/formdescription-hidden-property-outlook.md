@@ -3,7 +3,7 @@ title: FormDescription.Hidden Property (Outlook)
 keywords: vbaol11.chm188
 f1_keywords:
 - vbaol11.chm188
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.Hidden
 ms.assetid: 0e5a447e-4a6e-6b55-c931-e24e931de380

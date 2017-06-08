@@ -3,7 +3,7 @@ title: CalendarView.Session Property (Outlook)
 keywords: vbaol11.chm2609
 f1_keywords:
 - vbaol11.chm2609
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Session
 ms.assetid: 550d9b8a-e980-9671-f45d-7ff54abdd591

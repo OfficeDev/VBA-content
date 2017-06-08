@@ -3,7 +3,7 @@ title: OlkTimeControl.HideSelection Property (Outlook)
 keywords: vbaol11.chm1000387
 f1_keywords:
 - vbaol11.chm1000387
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.HideSelection
 ms.assetid: c245d705-2d58-23e0-6685-8bf3cccf0ac9

@@ -3,7 +3,7 @@ title: SharingItem.Reply Method (Outlook)
 keywords: vbaol11.chm670
 f1_keywords:
 - vbaol11.chm670
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Reply
 ms.assetid: c40fffed-8f56-c500-8dd8-7ae889f91712

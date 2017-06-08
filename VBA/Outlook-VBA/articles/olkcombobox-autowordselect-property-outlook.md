@@ -3,7 +3,7 @@ title: OlkComboBox.AutoWordSelect Property (Outlook)
 keywords: vbaol11.chm1000196
 f1_keywords:
 - vbaol11.chm1000196
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.AutoWordSelect
 ms.assetid: b21674a0-dfd7-1c4b-acc6-40b382ec51bd

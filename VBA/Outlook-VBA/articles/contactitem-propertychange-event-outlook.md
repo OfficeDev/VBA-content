@@ -1,6 +1,6 @@
 ---
 title: ContactItem.PropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PropertyChange
 ms.assetid: 4138deee-2915-f581-b003-16007e37f128

@@ -1,6 +1,6 @@
 ---
 title: PostItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentWriteToTempFile
 ms.assetid: c05d420d-8abe-2539-c8e6-64372828ec5c

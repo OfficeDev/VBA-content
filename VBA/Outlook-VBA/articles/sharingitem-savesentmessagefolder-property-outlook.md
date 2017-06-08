@@ -3,7 +3,7 @@ title: SharingItem.SaveSentMessageFolder Property (Outlook)
 keywords: vbaol11.chm659
 f1_keywords:
 - vbaol11.chm659
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SaveSentMessageFolder
 ms.assetid: 89b3e91c-63f9-1ad1-7a60-d91e36097e8c

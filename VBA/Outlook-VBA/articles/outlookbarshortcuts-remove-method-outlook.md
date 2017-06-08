@@ -3,7 +3,7 @@ title: OutlookBarShortcuts.Remove Method (Outlook)
 keywords: vbaol11.chm336
 f1_keywords:
 - vbaol11.chm336
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.Remove
 ms.assetid: 378607fc-4d35-6d3b-041c-ae819d095065

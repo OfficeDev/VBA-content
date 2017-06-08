@@ -3,7 +3,7 @@ title: MeetingItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1446
 f1_keywords:
 - vbaol11.chm1446
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReminderSet
 ms.assetid: a86c2e82-061b-a608-ca22-1a4a8973a62e

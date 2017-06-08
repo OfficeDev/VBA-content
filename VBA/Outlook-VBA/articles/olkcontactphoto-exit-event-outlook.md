@@ -3,7 +3,7 @@ title: OlkContactPhoto.Exit Event (Outlook)
 keywords: vbaol11.chm1000317
 f1_keywords:
 - vbaol11.chm1000317
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.Exit
 ms.assetid: 8bc0e21f-7376-3bc7-5006-a00031686229

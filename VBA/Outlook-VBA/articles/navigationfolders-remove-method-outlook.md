@@ -3,7 +3,7 @@ title: NavigationFolders.Remove Method (Outlook)
 keywords: vbaol11.chm2898
 f1_keywords:
 - vbaol11.chm2898
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolders.Remove
 ms.assetid: ddaa3dd8-7539-ea5b-78a8-daa48ea63771

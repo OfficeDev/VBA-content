@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1810
 f1_keywords:
 - vbaol11.chm1810
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.DownloadState
 ms.assetid: 999b8538-919d-af1b-eca2-f3d773ef281e

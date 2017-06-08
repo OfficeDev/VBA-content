@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.Enter Event (Outlook)
 keywords: vbaol11.chm1000521
 f1_keywords:
 - vbaol11.chm1000521
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Enter
 ms.assetid: 24d38a63-c625-9afe-e270-56f199b577a6

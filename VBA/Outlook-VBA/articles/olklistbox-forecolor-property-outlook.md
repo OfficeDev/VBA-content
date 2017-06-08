@@ -3,7 +3,7 @@ title: OlkListBox.ForeColor Property (Outlook)
 keywords: vbaol11.chm1000255
 f1_keywords:
 - vbaol11.chm1000255
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.ForeColor
 ms.assetid: 1c99213e-8d85-25cb-018b-09f87ccf63d4

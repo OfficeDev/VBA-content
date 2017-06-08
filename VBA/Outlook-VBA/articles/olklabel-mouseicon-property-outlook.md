@@ -3,7 +3,7 @@ title: OlkLabel.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000095
 f1_keywords:
 - vbaol11.chm1000095
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.MouseIcon
 ms.assetid: e576c0c1-0d1f-1614-c43c-6be3226b6510

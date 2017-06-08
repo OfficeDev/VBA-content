@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeCheckNames
 ms.assetid: b34071cd-b43f-4801-b5da-6008eaef6ebf

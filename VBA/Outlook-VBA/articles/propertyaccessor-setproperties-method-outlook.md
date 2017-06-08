@@ -3,7 +3,7 @@ title: PropertyAccessor.SetProperties Method (Outlook)
 keywords: vbaol11.chm1973
 f1_keywords:
 - vbaol11.chm1973
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.SetProperties
 ms.assetid: bf7c86da-5146-9567-5b7e-3e5e63ee5587

@@ -3,7 +3,7 @@ title: ReportItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1662
 f1_keywords:
 - vbaol11.chm1662
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.UnRead
 ms.assetid: 368ee0bb-4167-2499-4a83-4b4a4320eae0

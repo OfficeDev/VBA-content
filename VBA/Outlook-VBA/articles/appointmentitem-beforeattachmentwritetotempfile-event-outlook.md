@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 7754a2f9-d36b-5ba8-331c-8dfcfa9f03d3

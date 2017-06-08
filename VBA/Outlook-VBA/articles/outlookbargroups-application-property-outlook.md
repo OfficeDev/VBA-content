@@ -3,7 +3,7 @@ title: OutlookBarGroups.Application Property (Outlook)
 keywords: vbaol11.chm346
 f1_keywords:
 - vbaol11.chm346
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Application
 ms.assetid: b9e15eb6-8399-d4fd-ceac-19f590b10106

@@ -3,7 +3,7 @@ title: NameSpace.GetStoreFromID Method (Outlook)
 keywords: vbaol11.chm786
 f1_keywords:
 - vbaol11.chm786
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetStoreFromID
 ms.assetid: ba5b3df8-22a5-39fa-68ab-9f1e4cfe7f47

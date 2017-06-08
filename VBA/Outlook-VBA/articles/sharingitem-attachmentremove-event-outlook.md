@@ -1,6 +1,6 @@
 ---
 title: SharingItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AttachmentRemove
 ms.assetid: e32249bd-7ff4-e240-ddd8-2b59bbb1d0d8

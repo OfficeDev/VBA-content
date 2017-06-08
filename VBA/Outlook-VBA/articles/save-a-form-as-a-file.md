@@ -1,6 +1,6 @@
 ---
 title: Save a Form as a File
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 605deaaf-2f03-7a2d-e694-997cda60b026
 ms.date: 06/08/2017
 ---

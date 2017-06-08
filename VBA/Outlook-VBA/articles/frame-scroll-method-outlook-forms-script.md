@@ -3,7 +3,7 @@ title: Frame.Scroll Method (Outlook Forms Script)
 keywords: olfm10.chm2000390
 f1_keywords:
 - olfm10.chm2000390
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d04c2860-bf4a-f95a-6c07-dfe27f12a84a
 ms.date: 06/08/2017
 ---

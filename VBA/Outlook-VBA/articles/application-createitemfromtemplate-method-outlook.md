@@ -3,7 +3,7 @@ title: Application.CreateItemFromTemplate Method (Outlook)
 keywords: vbaol11.chm715
 f1_keywords:
 - vbaol11.chm715
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.CreateItemFromTemplate
 ms.assetid: 5e6c0ec4-779d-3743-afdb-606ad512ba95

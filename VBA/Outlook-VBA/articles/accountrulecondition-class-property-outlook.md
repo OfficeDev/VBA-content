@@ -3,7 +3,7 @@ title: AccountRuleCondition.Class Property (Outlook)
 keywords: vbaol11.chm2378
 f1_keywords:
 - vbaol11.chm2378
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountRuleCondition.Class
 ms.assetid: 1389c5f9-1b78-3169-eb11-7604d3604cdd

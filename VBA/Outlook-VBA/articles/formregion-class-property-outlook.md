@@ -3,7 +3,7 @@ title: FormRegion.Class Property (Outlook)
 keywords: vbaol11.chm2386
 f1_keywords:
 - vbaol11.chm2386
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Class
 ms.assetid: 0b6db516-9119-20f6-d73e-6ca5b5424eca

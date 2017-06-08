@@ -3,7 +3,7 @@ title: NameSpace.ExchangeConnectionMode Property (Outlook)
 keywords: vbaol11.chm776
 f1_keywords:
 - vbaol11.chm776
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.ExchangeConnectionMode
 ms.assetid: 4b9f7917-5340-cf72-d690-ac5a7b8d4792

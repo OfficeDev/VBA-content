@@ -3,7 +3,7 @@ title: TimelineView.Save Method (Outlook)
 keywords: vbaol11.chm2650
 f1_keywords:
 - vbaol11.chm2650
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Save
 ms.assetid: fce2dac2-9f78-6211-e2d6-afb28d5dcbb7

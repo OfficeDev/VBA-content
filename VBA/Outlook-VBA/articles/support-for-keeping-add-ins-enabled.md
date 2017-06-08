@@ -1,6 +1,6 @@
 ---
 title: Support for Keeping Add-ins Enabled
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 63cd5a19-6c46-42f9-8fe2-9ce943bf106c
 ms.date: 06/08/2017
 ---

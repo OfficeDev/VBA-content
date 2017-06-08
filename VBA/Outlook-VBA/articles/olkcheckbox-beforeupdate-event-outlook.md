@@ -3,7 +3,7 @@ title: OlkCheckBox.BeforeUpdate Event (Outlook)
 keywords: vbaol11.chm1000161
 f1_keywords:
 - vbaol11.chm1000161
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.BeforeUpdate
 ms.assetid: e12072d3-cd24-ce5d-0738-80d44a9c9154

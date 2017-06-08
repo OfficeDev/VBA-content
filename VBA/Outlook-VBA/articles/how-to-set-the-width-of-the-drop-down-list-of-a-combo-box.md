@@ -3,7 +3,7 @@ title: "How to: Set the Width of the Drop-Down List of a Combo Box"
 keywords: olfm10.chm3077209
 f1_keywords:
 - olfm10.chm3077209
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0e36a1fa-482a-9016-9a32-265193bb741e
 ms.date: 06/08/2017
 ---

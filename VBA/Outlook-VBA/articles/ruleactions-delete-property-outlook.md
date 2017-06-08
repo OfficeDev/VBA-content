@@ -3,7 +3,7 @@ title: RuleActions.Delete Property (Outlook)
 keywords: vbaol11.chm2186
 f1_keywords:
 - vbaol11.chm2186
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.Delete
 ms.assetid: eb219d46-64c2-650c-ad39-e049ef33160f

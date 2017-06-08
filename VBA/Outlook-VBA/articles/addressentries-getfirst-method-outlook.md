@@ -3,7 +3,7 @@ title: AddressEntries.GetFirst Method (Outlook)
 keywords: vbaol11.chm33
 f1_keywords:
 - vbaol11.chm33
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.GetFirst
 ms.assetid: f8f03b6e-d79e-09b5-2f75-6886e699a4b3

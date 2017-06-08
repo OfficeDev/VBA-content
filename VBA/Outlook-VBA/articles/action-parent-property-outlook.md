@@ -3,7 +3,7 @@ title: Action.Parent Property (Outlook)
 keywords: vbaol11.chm13
 f1_keywords:
 - vbaol11.chm13
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Action.Parent
 ms.assetid: 2840b03e-7290-f633-2107-c2c49fc191de

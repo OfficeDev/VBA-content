@@ -3,7 +3,7 @@ title: NotesModule.NavigationGroups Property (Outlook)
 keywords: vbaol11.chm2880
 f1_keywords:
 - vbaol11.chm2880
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NotesModule.NavigationGroups
 ms.assetid: 92539b30-31c9-c57d-c58d-a7d70947aa4d

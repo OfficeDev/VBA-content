@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.Session Property (Outlook)
 keywords: vbaol11.chm1772
 f1_keywords:
 - vbaol11.chm1772
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Session
 ms.assetid: 5b50756f-1b1c-06d3-f3ee-24e71a66d01b

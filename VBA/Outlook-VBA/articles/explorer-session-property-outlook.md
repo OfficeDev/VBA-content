@@ -3,7 +3,7 @@ title: Explorer.Session Property (Outlook)
 keywords: vbaol11.chm2759
 f1_keywords:
 - vbaol11.chm2759
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Session
 ms.assetid: 47752d87-6ef5-4838-4c08-0325c0b613f7

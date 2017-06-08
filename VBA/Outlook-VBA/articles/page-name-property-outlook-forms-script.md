@@ -3,7 +3,7 @@ title: Page.Name Property (Outlook Forms Script)
 keywords: olfm10.chm2001590
 f1_keywords:
 - olfm10.chm2001590
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 42751e7b-2eac-a1c2-d476-80b97d41d8f0
 ms.date: 06/08/2017
 ---

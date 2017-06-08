@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.CollapseAllGroups Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e55e8ca4-4c36-af82-4158-87067bd1a455
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CategoryRuleCondition.Class Property (Outlook)
 keywords: vbaol11.chm2441
 f1_keywords:
 - vbaol11.chm2441
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CategoryRuleCondition.Class
 ms.assetid: 49742e81-83d6-afad-21bc-a22e501a1359

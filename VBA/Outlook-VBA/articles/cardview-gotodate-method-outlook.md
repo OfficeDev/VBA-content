@@ -3,7 +3,7 @@ title: CardView.GoToDate Method (Outlook)
 keywords: vbaol11.chm2595
 f1_keywords:
 - vbaol11.chm2595
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.GoToDate
 ms.assetid: c68e379b-92cf-b93e-5f67-911767166d18

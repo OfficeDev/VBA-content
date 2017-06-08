@@ -3,7 +3,7 @@ title: Rules.Session Property (Outlook)
 keywords: vbaol11.chm2156
 f1_keywords:
 - vbaol11.chm2156
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rules.Session
 ms.assetid: c544e009-623c-3e4d-b71a-9177dcfcc668

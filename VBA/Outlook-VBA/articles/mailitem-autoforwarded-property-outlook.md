@@ -3,7 +3,7 @@ title: MailItem.AutoForwarded Property (Outlook)
 keywords: vbaol11.chm1329
 f1_keywords:
 - vbaol11.chm1329
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.AutoForwarded
 ms.assetid: 822bf508-4a5b-89ec-1077-1cbed75068c2

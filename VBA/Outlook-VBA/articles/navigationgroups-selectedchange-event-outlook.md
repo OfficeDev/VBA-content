@@ -3,7 +3,7 @@ title: NavigationGroups.SelectedChange Event (Outlook)
 keywords: vbaol11.chm2913
 f1_keywords:
 - vbaol11.chm2913
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.SelectedChange
 ms.assetid: eb55ed92-1925-9aaa-8fd6-9280cfc8aa47

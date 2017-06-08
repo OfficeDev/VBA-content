@@ -1,6 +1,6 @@
 ---
 title: Store Data in a StorageItem for a Solution
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 75adfdbe-1c4d-fbd0-22ea-8f8fd5e212a5
 ms.date: 06/08/2017
 ---

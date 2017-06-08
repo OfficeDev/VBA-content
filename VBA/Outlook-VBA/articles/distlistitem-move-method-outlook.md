@@ -3,7 +3,7 @@ title: DistListItem.Move Method (Outlook)
 keywords: vbaol11.chm1144
 f1_keywords:
 - vbaol11.chm1144
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Move
 ms.assetid: 663c308f-3682-cbe9-ba31-f13fcf97fc85

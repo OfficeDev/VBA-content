@@ -3,7 +3,7 @@ title: OutlookBarPane.Visible Property (Outlook)
 keywords: vbaol11.chm366
 f1_keywords:
 - vbaol11.chm366
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.Visible
 ms.assetid: d9d00e7a-52ef-b481-7a56-729e1ac04534

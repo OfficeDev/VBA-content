@@ -3,7 +3,7 @@ title: ViewFields.Remove Method (Outlook)
 keywords: vbaol11.chm2554
 f1_keywords:
 - vbaol11.chm2554
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFields.Remove
 ms.assetid: 2cd98ed5-72a3-d7a8-319f-ecb936fee7d8

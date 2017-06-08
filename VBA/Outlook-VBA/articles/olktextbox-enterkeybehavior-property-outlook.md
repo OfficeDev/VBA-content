@@ -3,7 +3,7 @@ title: OlkTextBox.EnterKeyBehavior Property (Outlook)
 keywords: vbaol11.chm1000044
 f1_keywords:
 - vbaol11.chm1000044
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.EnterKeyBehavior
 ms.assetid: f392f600-3b62-d202-da6d-a23919d2df1c

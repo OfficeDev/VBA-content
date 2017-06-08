@@ -3,7 +3,7 @@ title: RemoteItem.Copy Method (Outlook)
 keywords: vbaol11.chm1613
 f1_keywords:
 - vbaol11.chm1613
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Copy
 ms.assetid: 42d086f3-0364-78ae-14d6-ce37cb71baec

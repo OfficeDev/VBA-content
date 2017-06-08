@@ -3,7 +3,7 @@ title: RecurrencePattern.PatternStartDate Property (Outlook)
 keywords: vbaol11.chm284
 f1_keywords:
 - vbaol11.chm284
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.PatternStartDate
 ms.assetid: 20c82dbd-a622-91b6-618c-7cbe8bff2ca7

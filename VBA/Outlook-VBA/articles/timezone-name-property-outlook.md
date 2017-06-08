@@ -3,7 +3,7 @@ title: TimeZone.Name Property (Outlook)
 keywords: vbaol11.chm3282
 f1_keywords:
 - vbaol11.chm3282
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.Name
 ms.assetid: e75bf2af-ae74-4d8f-7246-99a0daa17cb1

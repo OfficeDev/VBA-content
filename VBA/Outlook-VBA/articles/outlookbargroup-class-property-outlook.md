@@ -3,7 +3,7 @@ title: OutlookBarGroup.Class Property (Outlook)
 keywords: vbaol11.chm322
 f1_keywords:
 - vbaol11.chm322
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroup.Class
 ms.assetid: 52e62ea0-fb69-a0d4-0ad9-d06fbfa6b720

@@ -1,6 +1,6 @@
 ---
 title: MultiPage Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 82aae556-cf00-4378-b57e-35e3b53c7669
 ms.date: 06/08/2017
 ---

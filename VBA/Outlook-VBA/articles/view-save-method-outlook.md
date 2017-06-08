@@ -3,7 +3,7 @@ title: View.Save Method (Outlook)
 keywords: vbaol11.chm2488
 f1_keywords:
 - vbaol11.chm2488
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Save
 ms.assetid: effc4046-2e9c-3898-e37f-c4de817ddde7

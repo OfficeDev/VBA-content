@@ -3,7 +3,7 @@ title: TableView.ShowReadingPane Property (Outlook)
 keywords: vbaol11.chm2530
 f1_keywords:
 - vbaol11.chm2530
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.ShowReadingPane
 ms.assetid: 4cf87f66-fc93-7428-1b1c-9541e699f8c9

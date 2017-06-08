@@ -3,7 +3,7 @@ title: NoteItem.Save Method (Outlook)
 keywords: vbaol11.chm1498
 f1_keywords:
 - vbaol11.chm1498
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Save
 ms.assetid: 07554a65-f733-aeb3-c06c-17c882bc86ab

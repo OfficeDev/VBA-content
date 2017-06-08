@@ -3,7 +3,7 @@ title: ContactItem.OfficeLocation Property (Outlook)
 keywords: vbaol11.chm1047
 f1_keywords:
 - vbaol11.chm1047
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OfficeLocation
 ms.assetid: faf658b0-61ff-26ec-4a65-09dfd564f9a4

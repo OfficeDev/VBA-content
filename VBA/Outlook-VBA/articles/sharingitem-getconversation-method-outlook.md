@@ -3,7 +3,7 @@ title: SharingItem.GetConversation Method (Outlook)
 keywords: vbaol11.chm3496
 f1_keywords:
 - vbaol11.chm3496
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.GetConversation
 ms.assetid: 20e0b147-b963-3be3-55a2-7075675bb727

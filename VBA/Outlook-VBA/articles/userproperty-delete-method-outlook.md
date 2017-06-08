@@ -3,7 +3,7 @@ title: UserProperty.Delete Method (Outlook)
 keywords: vbaol11.chm223
 f1_keywords:
 - vbaol11.chm223
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperty.Delete
 ms.assetid: 6b1da165-f3d9-0a44-4582-3b468896a911

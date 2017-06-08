@@ -3,7 +3,7 @@ title: OlkListBox.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000260
 f1_keywords:
 - vbaol11.chm1000260
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.MousePointer
 ms.assetid: ba3ef4e0-c825-b705-18f6-fc93397bb13c

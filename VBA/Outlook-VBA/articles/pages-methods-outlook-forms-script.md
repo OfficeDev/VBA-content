@@ -1,6 +1,6 @@
 ---
 title: Pages Methods (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1fac245c-05c1-4248-8741-33b0b006b2c9
 ms.date: 06/08/2017
 ---

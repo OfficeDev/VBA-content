@@ -3,7 +3,7 @@ title: OlkCategory Object (Outlook)
 keywords: vbaol11.chm1000460
 f1_keywords:
 - vbaol11.chm1000460
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory
 ms.assetid: f635c0c8-e562-02a2-2a76-25caaee623c0

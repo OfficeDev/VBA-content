@@ -3,7 +3,7 @@ title: OlkTextBox.MaxLength Property (Outlook)
 keywords: vbaol11.chm1000050
 f1_keywords:
 - vbaol11.chm1000050
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.MaxLength
 ms.assetid: 7e7621e9-817a-ac05-a4de-e86656a021b1

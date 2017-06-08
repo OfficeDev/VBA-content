@@ -3,7 +3,7 @@ title: NameSpace.GetGlobalAddressList Method (Outlook)
 keywords: vbaol11.chm785
 f1_keywords:
 - vbaol11.chm785
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetGlobalAddressList
 ms.assetid: 0c892483-96c5-461d-a862-fe84ddcce097

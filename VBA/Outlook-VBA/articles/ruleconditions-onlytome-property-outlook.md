@@ -3,7 +3,7 @@ title: RuleConditions.OnlyToMe Property (Outlook)
 keywords: vbaol11.chm2307
 f1_keywords:
 - vbaol11.chm2307
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.OnlyToMe
 ms.assetid: 208e7bc4-2938-ecc8-7af5-9e3e256fe5b1

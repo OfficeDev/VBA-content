@@ -3,7 +3,7 @@ title: RemoteItem.AutoResolvedWinner Property (Outlook)
 keywords: vbaol11.chm1630
 f1_keywords:
 - vbaol11.chm1630
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AutoResolvedWinner
 ms.assetid: 920a51da-ba59-eb6c-5c14-fe2041df11b5

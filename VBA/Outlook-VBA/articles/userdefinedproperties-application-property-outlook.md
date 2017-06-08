@@ -3,7 +3,7 @@ title: UserDefinedProperties.Application Property (Outlook)
 keywords: vbaol11.chm582
 f1_keywords:
 - vbaol11.chm582
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Application
 ms.assetid: a2af00fd-231b-3d85-3d77-b59005c63cd8

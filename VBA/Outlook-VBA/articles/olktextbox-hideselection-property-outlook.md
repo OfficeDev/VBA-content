@@ -3,7 +3,7 @@ title: OlkTextBox.HideSelection Property (Outlook)
 keywords: vbaol11.chm1000047
 f1_keywords:
 - vbaol11.chm1000047
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.HideSelection
 ms.assetid: 88999d62-3dee-cfdc-85ae-e9c71f16dadf

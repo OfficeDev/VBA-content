@@ -1,6 +1,6 @@
 ---
 title: PostItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeRead
 ms.assetid: 26a64e4e-a48e-84e8-4fea-70913a8f170f

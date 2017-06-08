@@ -3,7 +3,7 @@ title: AddressEntries Object (Outlook)
 keywords: vbaol11.chm24
 f1_keywords:
 - vbaol11.chm24
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntries
 ms.assetid: db91b717-07c6-d1f2-c545-b766ee1f0c6b

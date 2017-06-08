@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AttachmentRemove
 ms.assetid: b31b2967-5014-1ced-67b7-4cc4793864e0

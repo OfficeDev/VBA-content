@@ -1,6 +1,6 @@
 ---
 title: JournalItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Write
 ms.assetid: 634419af-303f-df4f-cc60-3446db611330

@@ -3,7 +3,7 @@ title: MeetingItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1461
 f1_keywords:
 - vbaol11.chm1461
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ShowCategoriesDialog
 ms.assetid: e4530fc8-2e6b-ad84-936c-9d20c4c0bff2

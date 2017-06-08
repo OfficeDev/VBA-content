@@ -3,7 +3,7 @@ title: IconView Object (Outlook)
 keywords: vbaol11.chm3206
 f1_keywords:
 - vbaol11.chm3206
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView
 ms.assetid: dc2efa6c-4752-f713-f77e-378036f358dc

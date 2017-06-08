@@ -3,7 +3,7 @@ title: DocumentItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm1214
 f1_keywords:
 - vbaol11.chm1214
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.PrintOut
 ms.assetid: d60f62a9-1fc0-4515-5ad9-a377b6aa9276

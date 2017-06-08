@@ -1,6 +1,6 @@
 ---
 title: Show the Shortcut Menu for Controls and Groups of Controls
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 722bb9d7-3a41-1469-4894-7e305e43b52c
 ms.date: 06/08/2017
 ---

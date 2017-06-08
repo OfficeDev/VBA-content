@@ -3,7 +3,7 @@ title: OlkInfoBar Object (Outlook)
 keywords: vbaol11.chm1000304
 f1_keywords:
 - vbaol11.chm1000304
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkInfoBar
 ms.assetid: 1aec19db-d28b-ef9b-3227-45aa4a296de6

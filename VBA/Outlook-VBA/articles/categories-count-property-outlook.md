@@ -3,7 +3,7 @@ title: Categories.Count Property (Outlook)
 keywords: vbaol11.chm2435
 f1_keywords:
 - vbaol11.chm2435
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories.Count
 ms.assetid: b78ff508-c5c2-515c-d5f4-f4ab959f207a

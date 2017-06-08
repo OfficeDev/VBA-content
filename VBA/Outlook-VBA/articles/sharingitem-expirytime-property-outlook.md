@@ -3,7 +3,7 @@ title: SharingItem.ExpiryTime Property (Outlook)
 keywords: vbaol11.chm637
 f1_keywords:
 - vbaol11.chm637
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ExpiryTime
 ms.assetid: f747a109-f0c5-1c6b-773d-ed96825d8263

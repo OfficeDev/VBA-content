@@ -1,6 +1,6 @@
 ---
 title: TaskItem.BeforeAttachmentPreview Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.BeforeAttachmentPreview
 ms.assetid: 5f0a89ce-b9d7-b7e7-57a5-79a7e69e0d42

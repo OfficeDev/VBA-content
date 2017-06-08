@@ -3,7 +3,7 @@ title: FormDescription.MessageClass Property (Outlook)
 keywords: vbaol11.chm191
 f1_keywords:
 - vbaol11.chm191
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.MessageClass
 ms.assetid: 51ab2c14-de92-b029-e5b8-2e158a626319

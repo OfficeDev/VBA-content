@@ -1,6 +1,6 @@
 ---
 title: TaskItem.CustomPropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.CustomPropertyChange
 ms.assetid: b5241171-75d1-17e7-d564-d414662fe5a5

@@ -3,7 +3,7 @@ title: Folder.GetCustomIcon Method (Outlook)
 keywords: vbaol11.chm3316
 f1_keywords:
 - vbaol11.chm3316
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.GetCustomIcon
 ms.assetid: 49a3da64-2b2f-76db-0053-88e35141cca0

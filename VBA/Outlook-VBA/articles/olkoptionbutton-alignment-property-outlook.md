@@ -3,7 +3,7 @@ title: OlkOptionButton.Alignment Property (Outlook)
 keywords: vbaol11.chm1000165
 f1_keywords:
 - vbaol11.chm1000165
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Alignment
 ms.assetid: 0d6d5ac4-d084-ea7d-80e6-854315f94b90

@@ -3,7 +3,7 @@ title: ReportItem.AutoResolvedWinner Property (Outlook)
 keywords: vbaol11.chm1678
 f1_keywords:
 - vbaol11.chm1678
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AutoResolvedWinner
 ms.assetid: 55f74600-8058-b7cc-33c3-e5b80cef255a

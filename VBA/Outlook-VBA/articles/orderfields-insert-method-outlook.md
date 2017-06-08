@@ -3,7 +3,7 @@ title: OrderFields.Insert Method (Outlook)
 keywords: vbaol11.chm2681
 f1_keywords:
 - vbaol11.chm2681
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Insert
 ms.assetid: b866034d-4999-ebab-7f18-5fd63f169564

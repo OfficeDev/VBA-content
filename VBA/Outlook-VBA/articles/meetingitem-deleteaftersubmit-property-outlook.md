@@ -3,7 +3,7 @@ title: MeetingItem.DeleteAfterSubmit Property (Outlook)
 keywords: vbaol11.chm1438
 f1_keywords:
 - vbaol11.chm1438
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.DeleteAfterSubmit
 ms.assetid: 576ca136-8144-dc32-e048-d75a17303740

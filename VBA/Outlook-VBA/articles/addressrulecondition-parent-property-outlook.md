@@ -3,7 +3,7 @@ title: AddressRuleCondition.Parent Property (Outlook)
 keywords: vbaol11.chm2952
 f1_keywords:
 - vbaol11.chm2952
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressRuleCondition.Parent
 ms.assetid: 8943ab05-a3c7-6ee2-c2c1-f97315a08ac0

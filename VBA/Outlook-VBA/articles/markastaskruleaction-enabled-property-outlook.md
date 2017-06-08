@@ -3,7 +3,7 @@ title: MarkAsTaskRuleAction.Enabled Property (Outlook)
 keywords: vbaol11.chm2283
 f1_keywords:
 - vbaol11.chm2283
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MarkAsTaskRuleAction.Enabled
 ms.assetid: 3e969ccd-7af2-d6db-ab63-d17ce2c2614c

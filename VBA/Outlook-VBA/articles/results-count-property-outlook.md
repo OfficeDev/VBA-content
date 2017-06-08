@@ -3,7 +3,7 @@ title: Results.Count Property (Outlook)
 keywords: vbaol11.chm502
 f1_keywords:
 - vbaol11.chm502
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.Count
 ms.assetid: 7122cb5b-e2bc-5c59-a3ba-61056d22c146

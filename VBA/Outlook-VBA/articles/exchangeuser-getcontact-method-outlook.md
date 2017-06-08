@@ -3,7 +3,7 @@ title: ExchangeUser.GetContact Method (Outlook)
 keywords: vbaol11.chm2078
 f1_keywords:
 - vbaol11.chm2078
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetContact
 ms.assetid: 443fb23a-cd26-e385-bd9d-e978aec56458

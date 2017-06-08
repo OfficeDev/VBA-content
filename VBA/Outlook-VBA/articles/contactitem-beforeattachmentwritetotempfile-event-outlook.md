@@ -1,6 +1,6 @@
 ---
 title: ContactItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentWriteToTempFile
 ms.assetid: d6e84398-10ca-53fc-8576-102ae8d8971f

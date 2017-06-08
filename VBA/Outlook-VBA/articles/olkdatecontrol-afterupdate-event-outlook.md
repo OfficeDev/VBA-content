@@ -3,7 +3,7 @@ title: OlkDateControl.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000374
 f1_keywords:
 - vbaol11.chm1000374
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.AfterUpdate
 ms.assetid: 7086c185-99a2-94e1-6041-64c58869067f

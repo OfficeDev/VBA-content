@@ -1,6 +1,6 @@
 ---
 title: Label Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a5e25502-0915-4dfb-b6e1-fdfe2d3bc080
 ms.date: 06/08/2017
 ---

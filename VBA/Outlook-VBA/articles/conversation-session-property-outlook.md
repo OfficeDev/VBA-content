@@ -3,7 +3,7 @@ title: Conversation.Session Property (Outlook)
 keywords: vbaol11.chm3386
 f1_keywords:
 - vbaol11.chm3386
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.Session
 ms.assetid: 6f41faaa-e16a-d171-ed72-d2fef64a77f1

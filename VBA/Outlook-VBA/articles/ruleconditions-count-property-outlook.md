@@ -3,7 +3,7 @@ title: RuleConditions.Count Property (Outlook)
 keywords: vbaol11.chm2300
 f1_keywords:
 - vbaol11.chm2300
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.Count
 ms.assetid: 7950c105-4528-40aa-f263-b800a68ae1ad

@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.AppointmentTimeField Property (Outlook)
 keywords: vbaol11.chm1000534
 f1_keywords:
 - vbaol11.chm1000534
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.AppointmentTimeField
 ms.assetid: 4b53560f-43b8-4bd8-4917-9a724e556782

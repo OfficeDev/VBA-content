@@ -3,7 +3,7 @@ title: ContactItem.FullName Property (Outlook)
 keywords: vbaol11.chm1006
 f1_keywords:
 - vbaol11.chm1006
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.FullName
 ms.assetid: 3036dc57-31fb-45ad-f51e-49336206581d

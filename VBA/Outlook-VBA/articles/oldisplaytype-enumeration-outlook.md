@@ -3,7 +3,7 @@ title: OlDisplayType Enumeration (Outlook)
 keywords: vbaol11.chm3056
 f1_keywords:
 - vbaol11.chm3056
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlDisplayType
 ms.assetid: 356e5f75-8aa2-e28d-64ee-27b78348ba7a

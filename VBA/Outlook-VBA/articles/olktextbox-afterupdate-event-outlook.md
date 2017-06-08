@@ -3,7 +3,7 @@ title: OlkTextBox.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000082
 f1_keywords:
 - vbaol11.chm1000082
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.AfterUpdate
 ms.assetid: f61b5a19-4f3d-9287-d681-d5ac7b8979a4

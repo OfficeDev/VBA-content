@@ -3,7 +3,7 @@ title: Columns.Add Method (Outlook)
 keywords: vbaol11.chm2741
 f1_keywords:
 - vbaol11.chm2741
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Columns.Add
 ms.assetid: d438cfeb-629f-4234-6f4f-ffa086ef9a41

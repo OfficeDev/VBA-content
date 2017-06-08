@@ -3,7 +3,7 @@ title: Inspector.AttachmentSelectionChange Event (Outlook)
 keywords: vbaol11.chm3484
 f1_keywords:
 - vbaol11.chm3484
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.AttachmentSelectionChange
 ms.assetid: 1250045d-bcb3-b823-31d5-ec31c64ad59e

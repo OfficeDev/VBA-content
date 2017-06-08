@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.AttachmentAdd
 ms.assetid: ea34a56f-abdc-c928-9df8-ba83d3584565

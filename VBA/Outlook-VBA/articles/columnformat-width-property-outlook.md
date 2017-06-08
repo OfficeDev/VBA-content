@@ -3,7 +3,7 @@ title: ColumnFormat.Width Property (Outlook)
 keywords: vbaol11.chm2730
 f1_keywords:
 - vbaol11.chm2730
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Width
 ms.assetid: d0dd6c11-bce4-3785-7686-7863466d2380

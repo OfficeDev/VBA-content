@@ -3,7 +3,7 @@ title: SharingItem.SentOn Property (Outlook)
 keywords: vbaol11.chm662
 f1_keywords:
 - vbaol11.chm662
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SentOn
 ms.assetid: 9b744303-42e2-9c38-b203-db6f8260d474

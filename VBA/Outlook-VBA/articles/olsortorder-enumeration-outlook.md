@@ -3,7 +3,7 @@ title: OlSortOrder Enumeration (Outlook)
 keywords: vbaol11.chm3082
 f1_keywords:
 - vbaol11.chm3082
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSortOrder
 ms.assetid: 56fa4e8d-bf41-db0c-227c-fd2999673e36

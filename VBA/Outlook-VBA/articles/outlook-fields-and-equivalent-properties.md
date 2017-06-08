@@ -3,7 +3,7 @@ title: Outlook Fields and Equivalent Properties
 keywords: olfm10.chm1044367
 f1_keywords:
 - olfm10.chm1044367
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: acc5d2c5-f579-0a60-5676-3faa63f26c0e
 ms.date: 06/08/2017
 ---

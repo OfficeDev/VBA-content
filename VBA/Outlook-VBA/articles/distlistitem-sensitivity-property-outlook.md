@@ -3,7 +3,7 @@ title: DistListItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm1135
 f1_keywords:
 - vbaol11.chm1135
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Sensitivity
 ms.assetid: 4d0380a6-ab2f-f51b-92e4-5136e97dffd8

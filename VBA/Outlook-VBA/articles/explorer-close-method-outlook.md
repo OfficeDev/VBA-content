@@ -3,7 +3,7 @@ title: Explorer.Close Method (Outlook)
 keywords: vbaol11.chm2763
 f1_keywords:
 - vbaol11.chm2763
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Close
 ms.assetid: df5ecd62-066a-0b46-3a5c-e7d955677f4a

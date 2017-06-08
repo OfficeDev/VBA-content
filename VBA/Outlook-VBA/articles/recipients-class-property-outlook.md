@@ -3,7 +3,7 @@ title: Recipients.Class Property (Outlook)
 keywords: vbaol11.chm227
 f1_keywords:
 - vbaol11.chm227
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipients.Class
 ms.assetid: d83f6ca2-e77f-bfa5-b32b-ed52f023c701

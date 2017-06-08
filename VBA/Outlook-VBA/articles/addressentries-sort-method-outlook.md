@@ -3,7 +3,7 @@ title: AddressEntries.Sort Method (Outlook)
 keywords: vbaol11.chm37
 f1_keywords:
 - vbaol11.chm37
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.Sort
 ms.assetid: 9b381837-9fe9-1041-8297-e8c8dbcdc2e4

@@ -3,7 +3,7 @@ title: TimelineView.SaveOption Property (Outlook)
 keywords: vbaol11.chm2654
 f1_keywords:
 - vbaol11.chm2654
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.SaveOption
 ms.assetid: c18bcf6f-eeb7-53d2-95a9-5d380d32f6cf

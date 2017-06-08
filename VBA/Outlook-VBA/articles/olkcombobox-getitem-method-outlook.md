@@ -3,7 +3,7 @@ title: OlkComboBox.GetItem Method (Outlook)
 keywords: vbaol11.chm1000224
 f1_keywords:
 - vbaol11.chm1000224
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.GetItem
 ms.assetid: 650fa823-fbb9-9013-86af-4f55367475c3

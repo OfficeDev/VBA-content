@@ -1,6 +1,6 @@
 ---
 title: DocumentItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Open
 ms.assetid: e7d95148-9fa2-3f0f-cbfc-f835c9017c3b

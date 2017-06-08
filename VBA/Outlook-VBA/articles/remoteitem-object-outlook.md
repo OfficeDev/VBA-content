@@ -3,7 +3,7 @@ title: RemoteItem Object (Outlook)
 keywords: vbaol11.chm3006
 f1_keywords:
 - vbaol11.chm3006
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem
 ms.assetid: 6302aaff-cdcf-4d86-60f1-4bed15540d9f

@@ -3,7 +3,7 @@ title: MailItem.SaveAs Method (Outlook)
 keywords: vbaol11.chm1327
 f1_keywords:
 - vbaol11.chm1327
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.SaveAs
 ms.assetid: b81cf18b-0b0a-19b9-9e88-c6ae0bdc761a

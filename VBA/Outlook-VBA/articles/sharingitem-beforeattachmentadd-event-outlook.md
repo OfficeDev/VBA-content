@@ -1,6 +1,6 @@
 ---
 title: SharingItem.BeforeAttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentAdd
 ms.assetid: 84c14b49-a410-5e85-159d-b3f24a1dcad9

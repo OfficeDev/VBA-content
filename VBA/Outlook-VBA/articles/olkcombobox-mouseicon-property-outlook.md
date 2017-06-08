@@ -3,7 +3,7 @@ title: OlkComboBox.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000211
 f1_keywords:
 - vbaol11.chm1000211
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MouseIcon
 ms.assetid: 13b61207-2078-bfb5-1693-8ca2440ad3c9

@@ -1,6 +1,6 @@
 ---
 title: MailItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Read
 ms.assetid: f20ec6d1-a2b4-9af3-66be-5398dc059c90

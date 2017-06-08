@@ -3,7 +3,7 @@ title: TaskRequestItem.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm1915
 f1_keywords:
 - vbaol11.chm1915
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.PropertyAccessor
 ms.assetid: b1caf80e-1722-9762-b103-1260e1c88560

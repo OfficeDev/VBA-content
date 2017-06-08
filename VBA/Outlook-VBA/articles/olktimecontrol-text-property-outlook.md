@@ -3,7 +3,7 @@ title: OlkTimeControl.Text Property (Outlook)
 keywords: vbaol11.chm1000394
 f1_keywords:
 - vbaol11.chm1000394
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.Text
 ms.assetid: bf9c97af-65af-655a-642f-17af6513c670

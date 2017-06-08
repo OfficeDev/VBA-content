@@ -3,7 +3,7 @@ title: Explorers.Parent Property (Outlook)
 keywords: vbaol11.chm119
 f1_keywords:
 - vbaol11.chm119
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorers.Parent
 ms.assetid: 3303e3d9-19d9-3439-e86b-af96fb28d8b7

@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1839
 f1_keywords:
 - vbaol11.chm1839
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Mileage
 ms.assetid: e4d08bb4-799d-f0ca-dd25-4f9ebd17d5ed

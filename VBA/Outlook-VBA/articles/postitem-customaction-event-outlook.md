@@ -1,6 +1,6 @@
 ---
 title: PostItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.CustomAction
 ms.assetid: 656a6511-1461-8f22-12d3-faec3b89b482

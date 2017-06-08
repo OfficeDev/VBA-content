@@ -3,7 +3,7 @@ title: JournalItem.DocRouted Property (Outlook)
 keywords: vbaol11.chm1268
 f1_keywords:
 - vbaol11.chm1268
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.DocRouted
 ms.assetid: 9abc5c1d-0e7f-397e-66ac-da199974722e

@@ -1,6 +1,6 @@
 ---
 title: TaskItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Open
 ms.assetid: 001d2598-58e1-86d9-b893-31a79ac2a0a0

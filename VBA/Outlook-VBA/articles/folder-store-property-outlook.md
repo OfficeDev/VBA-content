@@ -3,7 +3,7 @@ title: Folder.Store Property (Outlook)
 keywords: vbaol11.chm2016
 f1_keywords:
 - vbaol11.chm2016
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Store
 ms.assetid: 347d3031-01cf-a248-4abc-f749feb811a4

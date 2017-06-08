@@ -3,7 +3,7 @@ title: DistListItem.Conflicts Property (Outlook)
 keywords: vbaol11.chm1165
 f1_keywords:
 - vbaol11.chm1165
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Conflicts
 ms.assetid: f7f34894-c31c-610a-f7f2-40ac47389fb1

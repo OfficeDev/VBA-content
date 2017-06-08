@@ -3,7 +3,7 @@ title: Conflict.Type Property (Outlook)
 keywords: vbaol11.chm417
 f1_keywords:
 - vbaol11.chm417
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflict.Type
 ms.assetid: 6e15fae9-befc-013d-9e95-05c5dc928e09

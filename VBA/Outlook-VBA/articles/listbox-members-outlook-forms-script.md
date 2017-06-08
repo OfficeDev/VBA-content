@@ -1,6 +1,6 @@
 ---
 title: ListBox Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 29209459-9b73-4fc4-8866-23ac28ea8e9b
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: UserDefinedProperties.Refresh Method (Outlook)
 keywords: vbaol11.chm591
 f1_keywords:
 - vbaol11.chm591
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Refresh
 ms.assetid: d8db8703-b1e4-4b1f-cdbe-099996830c26

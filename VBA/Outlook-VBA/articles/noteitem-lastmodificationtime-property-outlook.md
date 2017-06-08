@@ -3,7 +3,7 @@ title: NoteItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1484
 f1_keywords:
 - vbaol11.chm1484
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.LastModificationTime
 ms.assetid: 24545752-3c11-4a05-afeb-d18257894d20

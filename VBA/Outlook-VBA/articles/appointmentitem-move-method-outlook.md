@@ -3,7 +3,7 @@ title: AppointmentItem.Move Method (Outlook)
 keywords: vbaol11.chm872
 f1_keywords:
 - vbaol11.chm872
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Move
 ms.assetid: 29f3a845-cf7d-e598-45c5-1e67e8985215

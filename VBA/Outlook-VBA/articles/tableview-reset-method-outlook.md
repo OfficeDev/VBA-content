@@ -3,7 +3,7 @@ title: TableView.Reset Method (Outlook)
 keywords: vbaol11.chm2506
 f1_keywords:
 - vbaol11.chm2506
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Reset
 ms.assetid: bb164b86-804c-8b4f-4dd7-505d400e8b08

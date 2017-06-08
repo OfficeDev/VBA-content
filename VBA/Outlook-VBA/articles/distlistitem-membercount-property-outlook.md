@@ -3,7 +3,7 @@ title: DistListItem.MemberCount Property (Outlook)
 keywords: vbaol11.chm1149
 f1_keywords:
 - vbaol11.chm1149
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.MemberCount
 ms.assetid: 56e3aa96-4e2a-bdf9-93a1-daa206fb8d30

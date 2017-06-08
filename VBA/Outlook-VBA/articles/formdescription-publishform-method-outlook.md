@@ -3,7 +3,7 @@ title: FormDescription.PublishForm Method (Outlook)
 keywords: vbaol11.chm201
 f1_keywords:
 - vbaol11.chm201
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.PublishForm
 ms.assetid: 2040736a-4be0-90c4-0dfc-20c6ee4eb305

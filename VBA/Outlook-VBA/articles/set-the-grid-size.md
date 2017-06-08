@@ -1,6 +1,6 @@
 ---
 title: Set the Grid Size
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8c9850c4-7c70-48ca-af49-d5a65515961e
 ms.date: 06/08/2017
 ---

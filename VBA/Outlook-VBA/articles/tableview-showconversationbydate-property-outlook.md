@@ -3,7 +3,7 @@ title: TableView.ShowConversationByDate Property (Outlook)
 keywords: vbaol11.chm3515
 f1_keywords:
 - vbaol11.chm3515
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.ShowConversationByDate
 ms.assetid: b568d714-93ce-e4a4-c84c-b0870dd565dd

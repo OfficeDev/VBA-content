@@ -1,6 +1,6 @@
 ---
 title: TextBox.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b7365d4e-c25d-9fa6-c088-0cc5bb6bb200
 ms.date: 06/08/2017
 ---

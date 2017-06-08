@@ -3,7 +3,7 @@ title: DistListItem.BillingInformation Property (Outlook)
 keywords: vbaol11.chm1116
 f1_keywords:
 - vbaol11.chm1116
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BillingInformation
 ms.assetid: 6d6c9e2d-b61c-0baf-7b5e-e4042a80d614

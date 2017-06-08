@@ -3,7 +3,7 @@ title: ItemProperties.Add Method (Outlook)
 keywords: vbaol11.chm538
 f1_keywords:
 - vbaol11.chm538
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperties.Add
 ms.assetid: 317daeba-e34c-8458-2492-c434707fa805

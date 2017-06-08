@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Unload
 ms.assetid: 87053a2f-11cc-6a76-a4fd-7c752efb00bd

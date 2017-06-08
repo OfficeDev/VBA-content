@@ -3,7 +3,7 @@ title: IconView.Filter Property (Outlook)
 keywords: vbaol11.chm2574
 f1_keywords:
 - vbaol11.chm2574
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Filter
 ms.assetid: 121b375b-40f0-ef8c-108a-ac57d6e693e7

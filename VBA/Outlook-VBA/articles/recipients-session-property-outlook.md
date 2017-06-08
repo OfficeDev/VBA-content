@@ -3,7 +3,7 @@ title: Recipients.Session Property (Outlook)
 keywords: vbaol11.chm228
 f1_keywords:
 - vbaol11.chm228
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipients.Session
 ms.assetid: 41ddda3c-ca79-9387-b416-8334aeecc102

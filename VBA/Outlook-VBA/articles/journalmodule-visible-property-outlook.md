@@ -3,7 +3,7 @@ title: JournalModule.Visible Property (Outlook)
 keywords: vbaol11.chm2869
 f1_keywords:
 - vbaol11.chm2869
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalModule.Visible
 ms.assetid: de3466db-3f96-b6bd-ba58-3e052e686d91

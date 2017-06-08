@@ -3,7 +3,7 @@ title: Category.Parent Property (Outlook)
 keywords: vbaol11.chm2425
 f1_keywords:
 - vbaol11.chm2425
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Category.Parent
 ms.assetid: 6d58be95-ef11-e1f2-ccb0-c9ad8aff111f

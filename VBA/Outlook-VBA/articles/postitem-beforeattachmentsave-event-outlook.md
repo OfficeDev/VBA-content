@@ -1,6 +1,6 @@
 ---
 title: PostItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentSave
 ms.assetid: 5518eed4-a132-da73-6f91-d1eacb3eaf6b

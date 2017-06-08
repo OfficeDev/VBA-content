@@ -1,6 +1,6 @@
 ---
 title: OptionButton.GroupName Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7b3b92d6-e1e0-6171-4d6a-4b0221e1c083
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Inspectors.Count Property (Outlook)
 keywords: vbaol11.chm137
 f1_keywords:
 - vbaol11.chm137
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspectors.Count
 ms.assetid: d3982490-aca7-9494-32aa-9ec262ffb1c4

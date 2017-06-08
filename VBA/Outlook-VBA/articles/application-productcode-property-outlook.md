@@ -3,7 +3,7 @@ title: Application.ProductCode Property (Outlook)
 keywords: vbaol11.chm723
 f1_keywords:
 - vbaol11.chm723
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.ProductCode
 ms.assetid: cdb4678a-fa6b-7d4f-b0b1-b34811749bf5

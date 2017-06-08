@@ -3,7 +3,7 @@ title: OlkSenderPhoto.Enabled Property (Outlook)
 keywords: vbaol11.chm1000478
 f1_keywords:
 - vbaol11.chm1000478
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.Enabled
 ms.assetid: d4827881-3c53-4b16-7039-e10fcea7d56b

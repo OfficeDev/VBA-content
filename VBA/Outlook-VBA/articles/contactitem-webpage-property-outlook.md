@@ -3,7 +3,7 @@ title: ContactItem.WebPage Property (Outlook)
 keywords: vbaol11.chm1075
 f1_keywords:
 - vbaol11.chm1075
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.WebPage
 ms.assetid: 0914b59d-64f3-2c6f-fc83-25d5f0e91abb

@@ -3,7 +3,7 @@ title: MeetingItem.DeferredDeliveryTime Property (Outlook)
 keywords: vbaol11.chm1437
 f1_keywords:
 - vbaol11.chm1437
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.DeferredDeliveryTime
 ms.assetid: 1d68f55d-dd1c-f043-8d7b-f96f0e981cbc

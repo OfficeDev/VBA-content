@@ -3,7 +3,7 @@ title: ExchangeUser.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm2082
 f1_keywords:
 - vbaol11.chm2082
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.PropertyAccessor
 ms.assetid: d1427525-8f6a-04a2-9cfa-b91ee0a89ec2

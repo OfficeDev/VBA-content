@@ -3,7 +3,7 @@ title: TimelineView.Session Property (Outlook)
 keywords: vbaol11.chm2644
 f1_keywords:
 - vbaol11.chm2644
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Session
 ms.assetid: 9d85749d-c254-c294-112f-d0343a2f01a9

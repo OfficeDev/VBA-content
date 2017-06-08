@@ -3,7 +3,7 @@ title: OlkFrameHeader.Alignment Property (Outlook)
 keywords: vbaol11.chm1000494
 f1_keywords:
 - vbaol11.chm1000494
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.Alignment
 ms.assetid: c0755479-d3a6-9714-6e9e-672d0a1387e4

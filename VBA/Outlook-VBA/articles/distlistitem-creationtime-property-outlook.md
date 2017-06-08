@@ -3,7 +3,7 @@ title: DistListItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm1122
 f1_keywords:
 - vbaol11.chm1122
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.CreationTime
 ms.assetid: 04610a8b-fc88-f53a-8a69-697eecf4378e

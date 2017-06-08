@@ -3,7 +3,7 @@ title: MultiPage.TabFixedWidth Property (Outlook Forms Script)
 keywords: olfm10.chm2002000
 f1_keywords:
 - olfm10.chm2002000
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 932c2b27-97b7-adda-4ac5-3da64716f370
 ms.date: 06/08/2017
 ---

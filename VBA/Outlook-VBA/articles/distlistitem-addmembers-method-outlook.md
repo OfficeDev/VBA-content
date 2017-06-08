@@ -3,7 +3,7 @@ title: DistListItem.AddMembers Method (Outlook)
 keywords: vbaol11.chm1154
 f1_keywords:
 - vbaol11.chm1154
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AddMembers
 ms.assetid: 42e3e9f2-0c73-f612-049a-aa477add03fa

@@ -3,7 +3,7 @@ title: AppointmentItem.UnRead Property (Outlook)
 keywords: vbaol11.chm866
 f1_keywords:
 - vbaol11.chm866
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.UnRead
 ms.assetid: 297e8b98-54b6-bd05-31e2-8479ae06ceb3

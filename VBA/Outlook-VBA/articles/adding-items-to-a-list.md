@@ -1,6 +1,6 @@
 ---
 title: Adding Items to a List
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 953f9872-c353-ffe8-2cc6-67b46603db80
 ms.date: 06/08/2017
 ---

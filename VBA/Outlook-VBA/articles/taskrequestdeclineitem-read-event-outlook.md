@@ -1,6 +1,6 @@
 ---
 title: TaskRequestDeclineItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Read
 ms.assetid: 369c5fe3-2187-46ae-ef68-89734e1296ab

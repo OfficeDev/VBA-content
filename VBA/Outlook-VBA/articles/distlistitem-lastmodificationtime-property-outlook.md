@@ -3,7 +3,7 @@ title: DistListItem.LastModificationTime Property (Outlook)
 keywords: vbaol11.chm1127
 f1_keywords:
 - vbaol11.chm1127
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.LastModificationTime
 ms.assetid: cab45494-4410-bbee-1f09-12cc057b99bf

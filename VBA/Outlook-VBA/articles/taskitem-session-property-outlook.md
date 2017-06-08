@@ -3,7 +3,7 @@ title: TaskItem.Session Property (Outlook)
 keywords: vbaol11.chm1684
 f1_keywords:
 - vbaol11.chm1684
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Session
 ms.assetid: f2c0a916-b654-98de-c134-d9736d482cea

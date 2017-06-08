@@ -1,6 +1,6 @@
 ---
 title: Using Visual Basic to Automate Outlook
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f1914894-d828-46bc-9f94-097a55f69c3d
 ms.date: 06/08/2017
 ---

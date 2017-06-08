@@ -1,6 +1,6 @@
 ---
 title: DistListItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentSave
 ms.assetid: 5c96c5df-bb29-c2d5-1f80-5e4cd426f7b7

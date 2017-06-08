@@ -3,7 +3,7 @@ title: MeetingItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm1410
 f1_keywords:
 - vbaol11.chm1410
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.CreationTime
 ms.assetid: aa20cc5a-6c28-858d-dc3f-1d5c8b30013c

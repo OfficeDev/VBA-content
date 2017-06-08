@@ -3,7 +3,7 @@ title: OlTaskResponse Enumeration (Outlook)
 keywords: vbaol11.chm3086
 f1_keywords:
 - vbaol11.chm3086
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlTaskResponse
 ms.assetid: 7616cbdc-fc9c-abbe-fd07-ebdadc13ede2

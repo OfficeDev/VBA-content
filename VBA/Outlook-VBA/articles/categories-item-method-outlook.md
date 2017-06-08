@@ -3,7 +3,7 @@ title: Categories.Item Method (Outlook)
 keywords: vbaol11.chm2436
 f1_keywords:
 - vbaol11.chm2436
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories.Item
 ms.assetid: 7bdf22ec-7c77-1f1f-e4fd-77bdcc0ea288

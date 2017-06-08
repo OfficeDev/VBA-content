@@ -3,7 +3,7 @@ title: OlTaskStatus Enumeration (Outlook)
 keywords: vbaol11.chm3087
 f1_keywords:
 - vbaol11.chm3087
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlTaskStatus
 ms.assetid: 99ff6947-b53d-9cbc-cbe7-726de6ed93ec

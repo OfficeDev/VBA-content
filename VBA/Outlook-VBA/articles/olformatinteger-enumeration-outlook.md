@@ -3,7 +3,7 @@ title: OlFormatInteger Enumeration (Outlook)
 keywords: vbaol11.chm3135
 f1_keywords:
 - vbaol11.chm3135
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatInteger
 ms.assetid: f63df4f1-2d41-18bc-fccb-c2375cd23be8

@@ -3,7 +3,7 @@ title: ContactItem.OtherAddressPostalCode Property (Outlook)
 keywords: vbaol11.chm1052
 f1_keywords:
 - vbaol11.chm1052
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OtherAddressPostalCode
 ms.assetid: a9cecb5e-d6c3-9496-8537-fab14520321f

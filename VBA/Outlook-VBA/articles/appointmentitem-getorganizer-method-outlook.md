@@ -3,7 +3,7 @@ title: AppointmentItem.GetOrganizer Method (Outlook)
 keywords: vbaol11.chm3556
 f1_keywords:
 - vbaol11.chm3556
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.GetOrganizer
 ms.assetid: c6cd89b6-d0ab-721b-5671-c057b0646c24

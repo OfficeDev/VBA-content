@@ -3,7 +3,7 @@ title: MeetingItem.Application Property (Outlook)
 keywords: vbaol11.chm1398
 f1_keywords:
 - vbaol11.chm1398
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Application
 ms.assetid: d727319a-3e42-c053-6ee7-550d13dfc738

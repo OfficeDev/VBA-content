@@ -3,7 +3,7 @@ title: TimelineView.Standard Property (Outlook)
 keywords: vbaol11.chm2655
 f1_keywords:
 - vbaol11.chm2655
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Standard
 ms.assetid: 798b5dcd-9226-b0f9-032e-bcfa7b3e17ab

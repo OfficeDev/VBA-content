@@ -3,7 +3,7 @@ title: Conversation.GetTable Method (Outlook)
 keywords: vbaol11.chm3382
 f1_keywords:
 - vbaol11.chm3382
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.GetTable
 ms.assetid: 6c5a4ef5-c31d-6684-722a-f6f3b3fe6b55

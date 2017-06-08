@@ -3,7 +3,7 @@ title: ContactItem.Children Property (Outlook)
 keywords: vbaol11.chm982
 f1_keywords:
 - vbaol11.chm982
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Children
 ms.assetid: e002308f-4488-ad1f-a6de-3768c8c2f414

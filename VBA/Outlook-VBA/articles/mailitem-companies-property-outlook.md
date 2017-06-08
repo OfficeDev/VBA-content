@@ -3,7 +3,7 @@ title: MailItem.Companies Property (Outlook)
 keywords: vbaol11.chm1299
 f1_keywords:
 - vbaol11.chm1299
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Companies
 ms.assetid: 1b108d0d-c2b8-60a0-696b-f5c2badd6ead

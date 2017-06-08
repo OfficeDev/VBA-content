@@ -3,7 +3,7 @@ title: ViewField Object (Outlook)
 keywords: vbaol11.chm3205
 f1_keywords:
 - vbaol11.chm3205
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewField
 ms.assetid: 997319f0-7ff3-a712-8484-2e442965e187

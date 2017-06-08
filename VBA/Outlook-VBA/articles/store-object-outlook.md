@@ -3,7 +3,7 @@ title: Store Object (Outlook)
 keywords: vbaol11.chm3155
 f1_keywords:
 - vbaol11.chm3155
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store
 ms.assetid: 1eb22fe9-8849-7476-5388-2515b48591b9

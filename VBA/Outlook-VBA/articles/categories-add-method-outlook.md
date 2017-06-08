@@ -3,7 +3,7 @@ title: Categories.Add Method (Outlook)
 keywords: vbaol11.chm2437
 f1_keywords:
 - vbaol11.chm2437
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories.Add
 ms.assetid: f776c2a2-1b32-f4eb-de5e-6e245a60cac2

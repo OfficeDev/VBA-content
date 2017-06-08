@@ -3,7 +3,7 @@ title: Reminder.Dismiss Method (Outlook)
 keywords: vbaol11.chm558
 f1_keywords:
 - vbaol11.chm558
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder.Dismiss
 ms.assetid: cc757453-5eab-4e9f-5dd2-2b7620506d11

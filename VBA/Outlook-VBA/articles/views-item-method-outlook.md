@@ -3,7 +3,7 @@ title: Views.Item Method (Outlook)
 keywords: vbaol11.chm546
 f1_keywords:
 - vbaol11.chm546
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Views.Item
 ms.assetid: c8fa2aec-5e38-4233-bf58-ec8669377ec7

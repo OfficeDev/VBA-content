@@ -3,7 +3,7 @@ title: AppointmentItem.Importance Property (Outlook)
 keywords: vbaol11.chm854
 f1_keywords:
 - vbaol11.chm854
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Importance
 ms.assetid: 72b5a262-b7d0-4fca-5862-5d932cf9c694

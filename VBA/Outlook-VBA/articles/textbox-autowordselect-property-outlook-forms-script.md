@@ -1,6 +1,6 @@
 ---
 title: TextBox.AutoWordSelect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 00fb7b7b-e7ab-a996-765d-04207d6ba995
 ms.date: 06/08/2017
 ---

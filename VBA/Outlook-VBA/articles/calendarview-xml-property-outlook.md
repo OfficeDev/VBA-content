@@ -3,7 +3,7 @@ title: CalendarView.XML Property (Outlook)
 keywords: vbaol11.chm2622
 f1_keywords:
 - vbaol11.chm2622
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.XML
 ms.assetid: f188b827-77c6-71da-0b36-972b16b843a8

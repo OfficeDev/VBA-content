@@ -3,7 +3,7 @@ title: CalendarView.Class Property (Outlook)
 keywords: vbaol11.chm2608
 f1_keywords:
 - vbaol11.chm2608
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Class
 ms.assetid: 700db798-59c3-15ce-7741-f4ad86174a84

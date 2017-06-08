@@ -3,7 +3,7 @@ title: TaskRequestItem.ConversationID Property (Outlook)
 keywords: vbaol11.chm3499
 f1_keywords:
 - vbaol11.chm3499
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.ConversationID
 ms.assetid: 9518e9aa-a20e-69fa-b173-e90f45d28331

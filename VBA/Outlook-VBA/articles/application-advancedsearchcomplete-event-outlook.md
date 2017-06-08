@@ -3,7 +3,7 @@ title: Application.AdvancedSearchComplete Event (Outlook)
 keywords: vbaol11.chm435
 f1_keywords:
 - vbaol11.chm435
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.AdvancedSearchComplete
 ms.assetid: 4f33ad44-20a3-62cd-aa1b-db74581ebb3c

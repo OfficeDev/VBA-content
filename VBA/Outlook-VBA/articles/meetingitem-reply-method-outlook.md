@@ -3,7 +3,7 @@ title: MeetingItem.Reply Method (Outlook)
 keywords: vbaol11.chm1456
 f1_keywords:
 - vbaol11.chm1456
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Reply
 ms.assetid: df43c9d0-8a70-a54a-90a2-9675414ccddb

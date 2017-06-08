@@ -3,7 +3,7 @@ title: ContactItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1106
 f1_keywords:
 - vbaol11.chm1106
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReminderSet
 ms.assetid: 8e3b7091-1d4c-8d9a-ebb0-ebe478c6e386

@@ -3,7 +3,7 @@ title: Items.Item Method (Outlook)
 keywords: vbaol11.chm58
 f1_keywords:
 - vbaol11.chm58
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.Item
 ms.assetid: 89a031e0-c0a3-fc22-f485-189df8db45f4

@@ -3,7 +3,7 @@ title: PostItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1529
 f1_keywords:
 - vbaol11.chm1529
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Mileage
 ms.assetid: b19b0a68-3a75-cda3-49bf-58232a102628

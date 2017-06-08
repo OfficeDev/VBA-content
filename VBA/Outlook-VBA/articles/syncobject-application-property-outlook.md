@@ -3,7 +3,7 @@ title: SyncObject.Application Property (Outlook)
 keywords: vbaol11.chm103
 f1_keywords:
 - vbaol11.chm103
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObject.Application
 ms.assetid: 1ce5b6b9-8697-869d-1ca5-430adacecdd1

@@ -3,7 +3,7 @@ title: ContactItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm945
 f1_keywords:
 - vbaol11.chm945
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MessageClass
 ms.assetid: 3d6594b7-8abe-9e49-64e0-be3062807e34

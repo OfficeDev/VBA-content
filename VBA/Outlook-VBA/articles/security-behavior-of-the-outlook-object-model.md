@@ -1,6 +1,6 @@
 ---
 title: Security Behavior of the Outlook Object Model
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4aa3b7c7-5f3f-41ce-bbf3-75d8ecbd6d4f
 ms.date: 06/08/2017
 ---

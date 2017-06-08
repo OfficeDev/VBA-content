@@ -3,7 +3,7 @@ title: OlkTimeControl.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000403
 f1_keywords:
 - vbaol11.chm1000403
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.MouseDown
 ms.assetid: 64508238-09aa-bdd4-29bb-0f19d757b400

@@ -3,7 +3,7 @@ title: OlSyncState Enumeration (Outlook)
 keywords: vbaol11.chm3091
 f1_keywords:
 - vbaol11.chm3091
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSyncState
 ms.assetid: 97773380-1e2e-7dd7-2ec6-efb50095db62

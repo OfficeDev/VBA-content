@@ -3,7 +3,7 @@ title: Selection.GetSelection Method (Outlook)
 keywords: vbaol11.chm3533
 f1_keywords:
 - vbaol11.chm3533
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection.GetSelection
 ms.assetid: c6af6665-d97d-3833-1014-5b43282bafc2

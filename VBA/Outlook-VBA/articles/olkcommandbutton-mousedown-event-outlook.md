@@ -3,7 +3,7 @@ title: OlkCommandButton.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000122
 f1_keywords:
 - vbaol11.chm1000122
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.MouseDown
 ms.assetid: a4822686-ea9b-7dfa-0af1-515e595938f3

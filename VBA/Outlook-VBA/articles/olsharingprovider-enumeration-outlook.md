@@ -3,7 +3,7 @@ title: OlSharingProvider Enumeration (Outlook)
 keywords: vbaol11.chm3146
 f1_keywords:
 - vbaol11.chm3146
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSharingProvider
 ms.assetid: b42c20dc-e90d-264b-38d7-686cd74a547f

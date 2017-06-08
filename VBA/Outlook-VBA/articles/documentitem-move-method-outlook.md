@@ -3,7 +3,7 @@ title: DocumentItem.Move Method (Outlook)
 keywords: vbaol11.chm1213
 f1_keywords:
 - vbaol11.chm1213
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Move
 ms.assetid: 326006b8-5cd2-7035-9228-18265ec2fcbe

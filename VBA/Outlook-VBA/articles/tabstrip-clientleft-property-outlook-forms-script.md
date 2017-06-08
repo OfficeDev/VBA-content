@@ -3,7 +3,7 @@ title: TabStrip.ClientLeft Property (Outlook Forms Script)
 keywords: olfm10.chm2000900
 f1_keywords:
 - olfm10.chm2000900
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4774cba6-430d-da76-f67f-fede5aec6eea
 ms.date: 06/08/2017
 ---

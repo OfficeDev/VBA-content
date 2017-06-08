@@ -3,7 +3,7 @@ title: Pages.Item Method (Outlook)
 keywords: vbaol11.chm396
 f1_keywords:
 - vbaol11.chm396
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Pages.Item
 ms.assetid: f2bdcbfa-33d1-04bd-7ab5-551ea779e648

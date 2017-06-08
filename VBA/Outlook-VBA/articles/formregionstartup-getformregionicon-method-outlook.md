@@ -3,7 +3,7 @@ title: FormRegionStartup.GetFormRegionIcon Method (Outlook)
 keywords: vbaol11.chm3307
 f1_keywords:
 - vbaol11.chm3307
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegionStartup.GetFormRegionIcon
 ms.assetid: c1c0bd3f-3fae-8e9b-d579-58d609bbaa4e

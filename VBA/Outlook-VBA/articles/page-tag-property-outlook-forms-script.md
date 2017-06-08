@@ -1,6 +1,6 @@
 ---
 title: Page.Tag Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 29e43f41-a12e-7cf1-380a-d6ef747a6233
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NameSpace.GetRecipientFromID Method (Outlook)
 keywords: vbaol11.chm764
 f1_keywords:
 - vbaol11.chm764
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetRecipientFromID
 ms.assetid: 8475e869-ce1f-cd10-0c02-79a6dd5f9a8e

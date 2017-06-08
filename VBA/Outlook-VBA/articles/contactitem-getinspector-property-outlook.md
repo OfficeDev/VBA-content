@@ -3,7 +3,7 @@ title: ContactItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm941
 f1_keywords:
 - vbaol11.chm941
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.GetInspector
 ms.assetid: d1f8530f-f797-413f-92cb-d0e8215de0e4

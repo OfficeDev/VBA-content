@@ -3,7 +3,7 @@ title: ContactItem.UnRead Property (Outlook)
 keywords: vbaol11.chm954
 f1_keywords:
 - vbaol11.chm954
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.UnRead
 ms.assetid: 6029ff4d-76be-d0df-a5b4-c7af42f2fa17

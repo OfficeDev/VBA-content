@@ -3,7 +3,7 @@ title: AppointmentItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm853
 f1_keywords:
 - vbaol11.chm853
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.GetInspector
 ms.assetid: 6d0dc447-80f3-ab00-4bb9-7bbda34745aa

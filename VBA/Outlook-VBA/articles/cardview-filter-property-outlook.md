@@ -3,7 +3,7 @@ title: CardView.Filter Property (Outlook)
 keywords: vbaol11.chm2596
 f1_keywords:
 - vbaol11.chm2596
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.Filter
 ms.assetid: 2ac2ed8b-9ce9-60a1-7b6a-b136c0d0ffff

@@ -1,6 +1,6 @@
 ---
 title: Enumerate Search Folders on All Stores
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 513b0a63-1c0f-480c-214d-7a30be137875
 ms.date: 06/08/2017
 ---

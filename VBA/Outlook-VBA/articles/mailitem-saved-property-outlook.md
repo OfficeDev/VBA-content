@@ -3,7 +3,7 @@ title: MailItem.Saved Property (Outlook)
 keywords: vbaol11.chm1314
 f1_keywords:
 - vbaol11.chm1314
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Saved
 ms.assetid: 54a436a6-3da4-89d0-e1a6-db45c3732d95

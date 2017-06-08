@@ -3,7 +3,7 @@ title: RemoteItem.TransferTime Property (Outlook)
 keywords: vbaol11.chm1623
 f1_keywords:
 - vbaol11.chm1623
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.TransferTime
 ms.assetid: 5fb7558a-9f0b-817c-6617-77bae53f4893

@@ -3,7 +3,7 @@ title: OlkTextBox.Exit Event (Outlook)
 keywords: vbaol11.chm1000077
 f1_keywords:
 - vbaol11.chm1000077
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Exit
 ms.assetid: ea36905e-bd5a-2d6c-6ea6-0ad33d965741

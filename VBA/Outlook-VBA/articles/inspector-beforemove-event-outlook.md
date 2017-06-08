@@ -3,7 +3,7 @@ title: Inspector.BeforeMove Event (Outlook)
 keywords: vbaol11.chm470
 f1_keywords:
 - vbaol11.chm470
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.BeforeMove
 ms.assetid: 52a4445e-4d76-7b55-ce28-d972fba87a9b

@@ -3,7 +3,7 @@ title: ComboBox.Column Property (Outlook Forms Script)
 keywords: olfm10.chm2000930
 f1_keywords:
 - olfm10.chm2000930
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f00c388f-fe1f-5458-281f-4bfa549291d5
 ms.date: 06/08/2017
 ---

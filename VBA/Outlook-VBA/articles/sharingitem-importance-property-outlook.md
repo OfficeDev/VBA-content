@@ -3,7 +3,7 @@ title: SharingItem.Importance Property (Outlook)
 keywords: vbaol11.chm609
 f1_keywords:
 - vbaol11.chm609
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Importance
 ms.assetid: f22b8d5b-4a4b-0cb3-19ae-17c6c09bebb7

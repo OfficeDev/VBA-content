@@ -1,6 +1,6 @@
 ---
 title: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 69ea2e05-fa0e-f4b8-c9fb-52cdbb5c0f71
 ms.date: 06/08/2017
 ---

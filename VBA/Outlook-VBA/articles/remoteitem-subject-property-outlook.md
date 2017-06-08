@@ -3,7 +3,7 @@ title: RemoteItem.Subject Property (Outlook)
 keywords: vbaol11.chm1609
 f1_keywords:
 - vbaol11.chm1609
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Subject
 ms.assetid: 3d492ccf-231f-b902-e9cd-ea9eb09c1e9a

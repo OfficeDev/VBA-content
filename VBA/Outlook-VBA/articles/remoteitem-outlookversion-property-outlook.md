@@ -3,7 +3,7 @@ title: RemoteItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1605
 f1_keywords:
 - vbaol11.chm1605
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.OutlookVersion
 ms.assetid: 56542f71-d609-5bea-fe24-c0c6737088b9

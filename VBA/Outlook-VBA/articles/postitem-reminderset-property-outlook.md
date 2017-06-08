@@ -3,7 +3,7 @@ title: PostItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1578
 f1_keywords:
 - vbaol11.chm1578
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ReminderSet
 ms.assetid: 11e1c054-2f84-ca6a-fd53-4fee64b4f708

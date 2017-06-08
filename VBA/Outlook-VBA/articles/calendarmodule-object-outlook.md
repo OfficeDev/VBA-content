@@ -3,7 +3,7 @@ title: CalendarModule Object (Outlook)
 keywords: vbaol11.chm3194
 f1_keywords:
 - vbaol11.chm3194
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarModule
 ms.assetid: 9203024d-9cef-75e0-600f-f3899e24761a

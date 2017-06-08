@@ -3,7 +3,7 @@ title: MailItem.ItemProperties Property (Outlook)
 keywords: vbaol11.chm1371
 f1_keywords:
 - vbaol11.chm1371
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ItemProperties
 ms.assetid: 620e3af5-0c11-bd78-a98f-b08b36857113

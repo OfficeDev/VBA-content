@@ -1,6 +1,6 @@
 ---
 title: MailItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Open
 ms.assetid: 656c16f7-d561-a8f7-e859-9ac24f357769

@@ -3,7 +3,7 @@ title: TaskItem.PercentComplete Property (Outlook)
 keywords: vbaol11.chm1733
 f1_keywords:
 - vbaol11.chm1733
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.PercentComplete
 ms.assetid: 39525055-647b-02c0-a9da-150698181511

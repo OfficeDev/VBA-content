@@ -3,7 +3,7 @@ title: ContactItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm961
 f1_keywords:
 - vbaol11.chm961
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PrintOut
 ms.assetid: 97546d46-1171-76f6-1f4f-e02cc39110a3

@@ -3,7 +3,7 @@ title: TaskItem.Body Property (Outlook)
 keywords: vbaol11.chm1689
 f1_keywords:
 - vbaol11.chm1689
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Body
 ms.assetid: 746d3d3d-1b62-0647-60ba-0404d1099926

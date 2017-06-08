@@ -3,7 +3,7 @@ title: OlkCommandButton.Picture Property (Outlook)
 keywords: vbaol11.chm1000496
 f1_keywords:
 - vbaol11.chm1000496
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Picture
 ms.assetid: 68b60b14-1a26-4b62-2770-5c3e16cf96b5

@@ -1,6 +1,6 @@
 ---
 title: ToggleButton.Value Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7e935582-fcae-a703-4fbe-eda43852d0ce
 ms.date: 06/08/2017
 ---

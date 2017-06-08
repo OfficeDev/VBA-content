@@ -3,7 +3,7 @@ title: StorageItem.UserProperties Property (Outlook)
 keywords: vbaol11.chm2149
 f1_keywords:
 - vbaol11.chm2149
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.UserProperties
 ms.assetid: 0a08e77c-1665-a612-2f47-ef1c3fc331d2

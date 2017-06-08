@@ -1,6 +1,6 @@
 ---
 title: DocumentItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.AttachmentAdd
 ms.assetid: 229bc1b9-64bb-2198-1ec9-10f7129a59b9

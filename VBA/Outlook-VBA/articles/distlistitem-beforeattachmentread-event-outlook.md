@@ -1,6 +1,6 @@
 ---
 title: DistListItem.BeforeAttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentRead
 ms.assetid: f7c6f477-9f50-f099-eec4-67d12d4ca398

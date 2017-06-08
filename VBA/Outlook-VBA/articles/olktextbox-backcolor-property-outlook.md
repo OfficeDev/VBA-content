@@ -3,7 +3,7 @@ title: OlkTextBox.BackColor Property (Outlook)
 keywords: vbaol11.chm1000038
 f1_keywords:
 - vbaol11.chm1000038
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.BackColor
 ms.assetid: be9ec885-ca09-fec0-7f38-b49821522f55

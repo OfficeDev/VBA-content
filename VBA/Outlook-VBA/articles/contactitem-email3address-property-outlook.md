@@ -3,7 +3,7 @@ title: ContactItem.Email3Address Property (Outlook)
 keywords: vbaol11.chm999
 f1_keywords:
 - vbaol11.chm999
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Email3Address
 ms.assetid: b0f29077-a06c-a2cf-e873-b9d560d91498

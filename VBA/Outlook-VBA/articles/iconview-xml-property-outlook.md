@@ -3,7 +3,7 @@ title: IconView.XML Property (Outlook)
 keywords: vbaol11.chm2572
 f1_keywords:
 - vbaol11.chm2572
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.XML
 ms.assetid: d6876759-9266-77ab-c61e-e7d2eb240a96

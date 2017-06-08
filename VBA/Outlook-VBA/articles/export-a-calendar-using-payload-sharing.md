@@ -1,6 +1,6 @@
 ---
 title: Export a Calendar using Payload Sharing
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: acd7d29e-12d6-a5ea-c1a6-8b3165b27dc7
 ms.date: 06/08/2017
 ---

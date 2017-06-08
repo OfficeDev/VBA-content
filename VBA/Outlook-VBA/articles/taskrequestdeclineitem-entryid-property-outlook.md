@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1832
 f1_keywords:
 - vbaol11.chm1832
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.EntryID
 ms.assetid: 87e8ee80-326b-a391-5795-7e76174164e5

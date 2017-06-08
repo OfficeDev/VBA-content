@@ -3,7 +3,7 @@ title: ContactItem.HasPicture Property (Outlook)
 keywords: vbaol11.chm1092
 f1_keywords:
 - vbaol11.chm1092
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HasPicture
 ms.assetid: 5e835af9-bcee-692d-f486-5f8a4a0efa1a

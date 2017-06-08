@@ -3,7 +3,7 @@ title: Search Object (Outlook)
 keywords: vbaol11.chm2248
 f1_keywords:
 - vbaol11.chm2248
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Search
 ms.assetid: 226a5d49-3caf-90dd-725c-265404d1939f

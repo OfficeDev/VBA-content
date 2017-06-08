@@ -3,7 +3,7 @@ title: NameSpace.Stores Property (Outlook)
 keywords: vbaol11.chm780
 f1_keywords:
 - vbaol11.chm780
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Stores
 ms.assetid: 4ffdc2b3-be7b-da21-ac85-bde5481ae2f2

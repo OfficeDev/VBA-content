@@ -3,7 +3,7 @@ title: SharingItem.ReminderPlaySound Property (Outlook)
 keywords: vbaol11.chm652
 f1_keywords:
 - vbaol11.chm652
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReminderPlaySound
 ms.assetid: c7588cea-a416-8eb1-8f5e-e9c4cc5ad84a

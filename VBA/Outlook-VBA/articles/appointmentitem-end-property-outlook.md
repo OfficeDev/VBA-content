@@ -3,7 +3,7 @@ title: AppointmentItem.End Property (Outlook)
 keywords: vbaol11.chm879
 f1_keywords:
 - vbaol11.chm879
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.End
 ms.assetid: ce40f8ef-224e-2a64-fe78-cf4ae42be822

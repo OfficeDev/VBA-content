@@ -3,7 +3,7 @@ title: OlAlwaysDeleteConversation Enumeration (Outlook)
 keywords: vbaol11.chm3420
 f1_keywords:
 - vbaol11.chm3420
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAlwaysDeleteConversation
 ms.assetid: 5302003d-b227-5b0b-a8ec-52c107defc97

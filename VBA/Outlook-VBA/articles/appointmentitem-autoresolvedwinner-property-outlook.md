@@ -3,7 +3,7 @@ title: AppointmentItem.AutoResolvedWinner Property (Outlook)
 keywords: vbaol11.chm920
 f1_keywords:
 - vbaol11.chm920
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AutoResolvedWinner
 ms.assetid: d48a7ba9-bb70-9126-98ef-3bdee1f62436

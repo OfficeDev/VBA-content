@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.Attachments Property (Outlook)
 keywords: vbaol11.chm1824
 f1_keywords:
 - vbaol11.chm1824
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Attachments
 ms.assetid: 36da0188-c13b-2626-983b-05c110b65ed1

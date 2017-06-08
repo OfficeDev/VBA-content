@@ -3,7 +3,7 @@ title: Folder.CopyTo Method (Outlook)
 keywords: vbaol11.chm1994
 f1_keywords:
 - vbaol11.chm1994
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.CopyTo
 ms.assetid: ddd010e2-54af-f291-b9a9-92cc55a83cca

@@ -3,7 +3,7 @@ title: Application.RefreshFormRegionDefinition Method (Outlook)
 keywords: vbaol11.chm3521
 f1_keywords:
 - vbaol11.chm3521
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.RefreshFormRegionDefinition
 ms.assetid: 35183f18-7c59-80c5-e281-af15afe39198

@@ -3,7 +3,7 @@ title: Explorer.AttachmentSelection Property (Outlook)
 keywords: vbaol11.chm3479
 f1_keywords:
 - vbaol11.chm3479
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.AttachmentSelection
 ms.assetid: d516b972-5eb0-7a76-d4b6-000e26d523aa

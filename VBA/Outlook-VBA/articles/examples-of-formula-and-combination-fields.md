@@ -1,6 +1,6 @@
 ---
 title: Examples of Formula and Combination Fields
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 40e7ff96-222b-14ce-102c-63467d2435f8
 ms.date: 06/08/2017
 ---

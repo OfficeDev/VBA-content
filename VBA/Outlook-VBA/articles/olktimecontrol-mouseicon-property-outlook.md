@@ -3,7 +3,7 @@ title: OlkTimeControl.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000389
 f1_keywords:
 - vbaol11.chm1000389
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.MouseIcon
 ms.assetid: 01d4fa08-f3ea-4c74-5f23-c79dc5817e2a

@@ -3,7 +3,7 @@ title: NavigationFolders.Add Method (Outlook)
 keywords: vbaol11.chm2897
 f1_keywords:
 - vbaol11.chm2897
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolders.Add
 ms.assetid: f88fd69a-8684-bfc4-bc20-1cff5c44974e

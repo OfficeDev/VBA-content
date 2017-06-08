@@ -3,7 +3,7 @@ title: About the Order of Events
 keywords: olfm10.chm3077138
 f1_keywords:
 - olfm10.chm3077138
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 04fc8833-90be-a7d1-d196-be10d1852aee
 ms.date: 06/08/2017
 ---

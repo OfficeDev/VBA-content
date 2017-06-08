@@ -1,6 +1,6 @@
 ---
 title: MailItem.Close Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Close
 ms.assetid: 95caf7b5-d139-8b8b-bcd2-874243c4ed50

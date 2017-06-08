@@ -3,7 +3,7 @@ title: TableView.XML Property (Outlook)
 keywords: vbaol11.chm2514
 f1_keywords:
 - vbaol11.chm2514
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.XML
 ms.assetid: 0f085984-3056-6603-ca12-a4436abf429f

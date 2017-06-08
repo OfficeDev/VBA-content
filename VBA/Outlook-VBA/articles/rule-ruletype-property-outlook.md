@@ -3,7 +3,7 @@ title: Rule.RuleType Property (Outlook)
 keywords: vbaol11.chm2170
 f1_keywords:
 - vbaol11.chm2170
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.RuleType
 ms.assetid: 6ae3ca3c-860e-9cbd-d0d0-c36039b54c39

@@ -3,7 +3,7 @@ title: ReportItem.Saved Property (Outlook)
 keywords: vbaol11.chm1658
 f1_keywords:
 - vbaol11.chm1658
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Saved
 ms.assetid: 64b02e02-9d33-da89-5293-276c1f3eb3cb

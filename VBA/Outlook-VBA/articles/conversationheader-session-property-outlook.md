@@ -3,7 +3,7 @@ title: ConversationHeader.Session Property (Outlook)
 keywords: vbaol11.chm3548
 f1_keywords:
 - vbaol11.chm3548
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.Session
 ms.assetid: 1262a068-ad5f-492d-2a96-edc365956fe6

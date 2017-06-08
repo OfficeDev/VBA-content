@@ -3,7 +3,7 @@ title: "How to: Display the Name of Each Control on a Page"
 keywords: olfm10.chm3077222
 f1_keywords:
 - olfm10.chm3077222
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 109f6397-5b7f-bd8d-0ef5-ed0ba770bc5b
 ms.date: 06/08/2017
 ---

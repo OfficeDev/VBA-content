@@ -3,7 +3,7 @@ title: ViewFont Object (Outlook)
 keywords: vbaol11.chm3188
 f1_keywords:
 - vbaol11.chm3188
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFont
 ms.assetid: cbd7c6ce-f49a-1627-0ad9-a019911fb47b

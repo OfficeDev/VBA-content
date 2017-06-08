@@ -3,7 +3,7 @@ title: RuleConditions.SenderAddress Property (Outlook)
 keywords: vbaol11.chm2318
 f1_keywords:
 - vbaol11.chm2318
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.SenderAddress
 ms.assetid: 6e5eb1cc-385f-b1b2-aea7-12629cc31030

@@ -3,7 +3,7 @@ title: MeetingItem.SaveAs Method (Outlook)
 keywords: vbaol11.chm1435
 f1_keywords:
 - vbaol11.chm1435
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.SaveAs
 ms.assetid: cda4cccc-1930-3aa8-d0e1-651de6b0a0b7

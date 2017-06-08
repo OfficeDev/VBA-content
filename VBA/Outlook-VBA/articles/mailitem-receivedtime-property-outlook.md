@@ -3,7 +3,7 @@ title: MailItem.ReceivedTime Property (Outlook)
 keywords: vbaol11.chm1345
 f1_keywords:
 - vbaol11.chm1345
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReceivedTime
 ms.assetid: 83a4514c-915f-5607-a451-c409720fd25c

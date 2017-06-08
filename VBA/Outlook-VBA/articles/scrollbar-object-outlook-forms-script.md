@@ -3,7 +3,7 @@ title: ScrollBar Object (Outlook Forms Script)
 keywords: olfm10.chm2000610
 f1_keywords:
 - olfm10.chm2000610
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9e0a0f3d-fb04-2180-3beb-306b09c10c01
 ms.date: 06/08/2017
 ---

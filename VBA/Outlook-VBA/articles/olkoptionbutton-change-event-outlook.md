@@ -3,7 +3,7 @@ title: OlkOptionButton.Change Event (Outlook)
 keywords: vbaol11.chm1000189
 f1_keywords:
 - vbaol11.chm1000189
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Change
 ms.assetid: da06c451-4fc3-174b-f0dd-6939fafb22f7

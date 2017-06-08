@@ -3,7 +3,7 @@ title: OlkTextBox.Scrollbars Property (Outlook)
 keywords: vbaol11.chm1000055
 f1_keywords:
 - vbaol11.chm1000055
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Scrollbars
 ms.assetid: b726ee18-3542-f450-08cd-1a7f3329db05

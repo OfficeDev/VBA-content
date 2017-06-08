@@ -3,7 +3,7 @@ title: Panes.Application Property (Outlook)
 keywords: vbaol11.chm74
 f1_keywords:
 - vbaol11.chm74
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Panes.Application
 ms.assetid: a428cc73-b31a-7d84-7955-7509b81a143c

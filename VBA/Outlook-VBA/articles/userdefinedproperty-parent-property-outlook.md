@@ -3,7 +3,7 @@ title: UserDefinedProperty.Parent Property (Outlook)
 keywords: vbaol11.chm4
 f1_keywords:
 - vbaol11.chm4
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperty.Parent
 ms.assetid: 5d8eb625-d5d8-b17d-8f7b-91a569fc4d26

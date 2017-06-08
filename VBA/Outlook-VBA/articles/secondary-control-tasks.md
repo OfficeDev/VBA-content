@@ -1,6 +1,6 @@
 ---
 title: Secondary Control Tasks
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 03bd5108-dab6-4555-869e-5219471f5f93
 ms.date: 06/08/2017
 ---

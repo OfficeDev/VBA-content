@@ -3,7 +3,7 @@ title: NavigationModule.Parent Property (Outlook)
 keywords: vbaol11.chm2806
 f1_keywords:
 - vbaol11.chm2806
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationModule.Parent
 ms.assetid: 43d97f47-8c42-91e6-ed75-f9dc53f57361

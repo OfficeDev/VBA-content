@@ -3,7 +3,7 @@ title: Inspector.Width Property (Outlook)
 keywords: vbaol11.chm2977
 f1_keywords:
 - vbaol11.chm2977
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.Width
 ms.assetid: 9484ad5c-c96d-62ba-f964-1de6fd9726ce

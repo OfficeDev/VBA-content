@@ -1,6 +1,6 @@
 ---
 title: Change the Name and Control Tip of a Page in the Control Toolbox
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2756c484-1a95-02e7-46a4-53fc6e42e9d2
 ms.date: 06/08/2017
 ---

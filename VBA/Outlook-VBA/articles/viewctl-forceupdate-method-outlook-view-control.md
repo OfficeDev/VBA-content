@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.ForceUpdate Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f4b9dab8-3ab8-437f-ea3e-011a12b0e7fb
 ms.date: 06/08/2017
 ---

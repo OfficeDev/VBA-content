@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.MarkAsRead Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 34a987bb-a78c-8014-4ecb-d93b36e1608c
 ms.date: 06/08/2017
 ---

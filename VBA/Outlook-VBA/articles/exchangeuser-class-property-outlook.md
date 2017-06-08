@@ -3,7 +3,7 @@ title: ExchangeUser.Class Property (Outlook)
 keywords: vbaol11.chm2062
 f1_keywords:
 - vbaol11.chm2062
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Class
 ms.assetid: eea4ce34-a957-3771-ae7b-d8fdd959a37d

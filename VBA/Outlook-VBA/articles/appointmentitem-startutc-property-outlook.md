@@ -3,7 +3,7 @@ title: AppointmentItem.StartUTC Property (Outlook)
 keywords: vbaol11.chm3271
 f1_keywords:
 - vbaol11.chm3271
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.StartUTC
 ms.assetid: 8bfbf95f-bd88-acdc-f592-c41b454afe4b

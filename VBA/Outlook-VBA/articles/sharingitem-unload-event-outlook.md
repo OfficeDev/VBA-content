@@ -1,6 +1,6 @@
 ---
 title: SharingItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Unload
 ms.assetid: b79a4c94-46cc-5571-a36d-ad537db97bcc

@@ -3,7 +3,7 @@ title: Conversation.ClearAlwaysAssignCategories Method (Outlook)
 keywords: vbaol11.chm3489
 f1_keywords:
 - vbaol11.chm3489
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.ClearAlwaysAssignCategories
 ms.assetid: 0494d8af-6569-c03d-99b1-be332c000985

@@ -3,7 +3,7 @@ title: PropertyPage.Dirty Property (Outlook)
 keywords: vbaol11.chm382
 f1_keywords:
 - vbaol11.chm382
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPage.Dirty
 ms.assetid: fb654f40-9b80-654c-395a-811923dfb903

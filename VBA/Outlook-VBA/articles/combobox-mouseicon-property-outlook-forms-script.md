@@ -1,6 +1,6 @@
 ---
 title: ComboBox.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 93950d41-193b-0f9c-c4cf-51e8933317ab
 ms.date: 06/08/2017
 ---

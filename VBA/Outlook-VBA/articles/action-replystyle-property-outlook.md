@@ -3,7 +3,7 @@ title: Action.ReplyStyle Property (Outlook)
 keywords: vbaol11.chm19
 f1_keywords:
 - vbaol11.chm19
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Action.ReplyStyle
 ms.assetid: bb5e0d3d-29ca-33dd-b437-cf2526451352

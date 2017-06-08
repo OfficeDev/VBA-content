@@ -3,7 +3,7 @@ title: OlkComboBox.KeyDown Event (Outlook)
 keywords: vbaol11.chm1000242
 f1_keywords:
 - vbaol11.chm1000242
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.KeyDown
 ms.assetid: 43d7718f-ce95-1a97-f65f-e3b018852e46

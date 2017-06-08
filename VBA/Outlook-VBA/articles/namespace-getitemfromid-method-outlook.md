@@ -3,7 +3,7 @@ title: NameSpace.GetItemFromID Method (Outlook)
 keywords: vbaol11.chm763
 f1_keywords:
 - vbaol11.chm763
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetItemFromID
 ms.assetid: f2abff80-4c04-998b-654b-28600424a16f

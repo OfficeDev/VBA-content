@@ -3,7 +3,7 @@ title: OlkCategory.Change Event (Outlook)
 keywords: vbaol11.chm1000459
 f1_keywords:
 - vbaol11.chm1000459
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.Change
 ms.assetid: 8f50d10c-4cdb-eadc-cf46-585338d33689

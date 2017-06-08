@@ -3,7 +3,7 @@ title: OlAccountType Enumeration (Outlook)
 keywords: vbaol11.chm3105
 f1_keywords:
 - vbaol11.chm3105
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAccountType
 ms.assetid: 8aeafc50-3f97-8d28-7fd9-a9d8e1eafc4c

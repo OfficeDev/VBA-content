@@ -3,7 +3,7 @@ title: CalendarView.SaveOption Property (Outlook)
 keywords: vbaol11.chm2619
 f1_keywords:
 - vbaol11.chm2619
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.SaveOption
 ms.assetid: fce87049-1d50-464b-1359-cbcd8c195193

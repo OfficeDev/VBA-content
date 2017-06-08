@@ -3,7 +3,7 @@ title: TimelineView.XML Property (Outlook)
 keywords: vbaol11.chm2657
 f1_keywords:
 - vbaol11.chm2657
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.XML
 ms.assetid: 34dee7f8-ee8f-1194-f421-e43fd7815ffe

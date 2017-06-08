@@ -3,7 +3,7 @@ title: ContactItem.BusinessAddressStreet Property (Outlook)
 keywords: vbaol11.chm976
 f1_keywords:
 - vbaol11.chm976
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessAddressStreet
 ms.assetid: 1d3e67c4-b02d-c2cf-b04b-85bc1464d788

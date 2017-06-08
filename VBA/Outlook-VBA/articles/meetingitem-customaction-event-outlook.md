@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.CustomAction
 ms.assetid: c9ba1402-f1e1-3bb6-3242-288cd0276224

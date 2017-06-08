@@ -3,7 +3,7 @@ title: Control Events
 keywords: olfm10.chm3077124
 f1_keywords:
 - olfm10.chm3077124
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6305af2d-d26c-024f-945a-8eaa773bab85
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: NavigationGroups Object (Outlook)
 keywords: vbaol11.chm3022
 f1_keywords:
 - vbaol11.chm3022
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups
 ms.assetid: 07206203-36a9-7467-3a89-24fa2a7c2b1f

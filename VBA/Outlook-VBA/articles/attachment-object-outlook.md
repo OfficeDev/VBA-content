@@ -3,7 +3,7 @@ title: Attachment Object (Outlook)
 keywords: vbaol11.chm2360
 f1_keywords:
 - vbaol11.chm2360
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachment
 ms.assetid: 3e11582b-ac90-0948-bc37-506570bb287b

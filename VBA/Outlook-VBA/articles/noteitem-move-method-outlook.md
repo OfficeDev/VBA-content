@@ -3,7 +3,7 @@ title: NoteItem.Move Method (Outlook)
 keywords: vbaol11.chm1496
 f1_keywords:
 - vbaol11.chm1496
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Move
 ms.assetid: 73e831f7-4d15-d9f4-ed8d-35f1a4038bb6

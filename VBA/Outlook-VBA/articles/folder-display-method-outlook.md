@@ -3,7 +3,7 @@ title: Folder.Display Method (Outlook)
 keywords: vbaol11.chm1996
 f1_keywords:
 - vbaol11.chm1996
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Display
 ms.assetid: cde389e0-5ec9-8261-5ec0-9a5ba4f8776d

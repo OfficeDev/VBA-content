@@ -3,7 +3,7 @@ title: SyncObject.Progress Event (Outlook)
 keywords: vbaol11.chm112
 f1_keywords:
 - vbaol11.chm112
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObject.Progress
 ms.assetid: 605c0243-45c1-94d9-8356-b31bb1d0d3e1

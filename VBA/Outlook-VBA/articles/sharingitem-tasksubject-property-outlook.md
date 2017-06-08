@@ -3,7 +3,7 @@ title: SharingItem.TaskSubject Property (Outlook)
 keywords: vbaol11.chm3218
 f1_keywords:
 - vbaol11.chm3218
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.TaskSubject
 ms.assetid: 4a484cb0-0db9-da39-2d2d-509eb2dacf8a

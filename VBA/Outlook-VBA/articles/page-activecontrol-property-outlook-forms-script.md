@@ -1,6 +1,6 @@
 ---
 title: Page.ActiveControl Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1ce6c138-e87d-bd6b-6bfd-edd43f9206fc
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Unsupported Properties in a Table Object or Table Filter
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0e37f03f-7677-ca29-d0b2-8b45c026e5f1
 ms.date: 06/08/2017
 ---

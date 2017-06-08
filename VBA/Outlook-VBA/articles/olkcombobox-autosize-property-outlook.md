@@ -3,7 +3,7 @@ title: OlkComboBox.AutoSize Property (Outlook)
 keywords: vbaol11.chm1000194
 f1_keywords:
 - vbaol11.chm1000194
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.AutoSize
 ms.assetid: a7206a65-eb22-d671-3a19-2826f21f8e6f

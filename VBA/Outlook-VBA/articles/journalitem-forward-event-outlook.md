@@ -1,6 +1,6 @@
 ---
 title: JournalItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Forward
 ms.assetid: 0e52ded6-1963-8259-862d-cac610102b10

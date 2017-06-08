@@ -3,7 +3,7 @@ title: Rules.Save Method (Outlook)
 keywords: vbaol11.chm2161
 f1_keywords:
 - vbaol11.chm2161
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rules.Save
 ms.assetid: d838eca0-4ec5-ab43-a031-fd65ab7d9f3c

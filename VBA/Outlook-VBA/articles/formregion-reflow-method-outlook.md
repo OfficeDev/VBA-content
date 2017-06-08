@@ -3,7 +3,7 @@ title: FormRegion.Reflow Method (Outlook)
 keywords: vbaol11.chm2398
 f1_keywords:
 - vbaol11.chm2398
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Reflow
 ms.assetid: 06874e99-8cca-2176-52ab-211f672d5783

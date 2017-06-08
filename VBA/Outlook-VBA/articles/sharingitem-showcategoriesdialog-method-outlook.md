@@ -3,7 +3,7 @@ title: SharingItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm677
 f1_keywords:
 - vbaol11.chm677
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ShowCategoriesDialog
 ms.assetid: 9cfc51f4-a55c-0f17-0d49-63ac48880fce

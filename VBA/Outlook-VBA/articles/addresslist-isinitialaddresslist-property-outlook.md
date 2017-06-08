@@ -3,7 +3,7 @@ title: AddressList.IsInitialAddressList Property (Outlook)
 keywords: vbaol11.chm2035
 f1_keywords:
 - vbaol11.chm2035
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressList.IsInitialAddressList
 ms.assetid: cc3f1f6a-7377-6db1-2f7c-3baf9a7361db

@@ -3,7 +3,7 @@ title: NoteItem.Height Property (Outlook)
 keywords: vbaol11.chm1483
 f1_keywords:
 - vbaol11.chm1483
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Height
 ms.assetid: 4e0ccbf8-7bec-9e6a-57ac-77ea2c8754e1

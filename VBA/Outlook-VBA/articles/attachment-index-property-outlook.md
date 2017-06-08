@@ -3,7 +3,7 @@ title: Attachment.Index Property (Outlook)
 keywords: vbaol11.chm2367
 f1_keywords:
 - vbaol11.chm2367
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachment.Index
 ms.assetid: 639ebc08-40a1-12ab-d9e1-6754add14b24

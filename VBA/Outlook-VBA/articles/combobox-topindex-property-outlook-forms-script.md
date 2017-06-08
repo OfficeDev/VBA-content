@@ -3,7 +3,7 @@ title: ComboBox.TopIndex Property (Outlook Forms Script)
 keywords: olfm10.chm2002120
 f1_keywords:
 - olfm10.chm2002120
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e5fcb92e-5f0c-2dc5-c074-022174a0b4e7
 ms.date: 06/08/2017
 ---

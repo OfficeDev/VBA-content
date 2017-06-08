@@ -3,7 +3,7 @@ title: MeetingItem.Saved Property (Outlook)
 keywords: vbaol11.chm1422
 f1_keywords:
 - vbaol11.chm1422
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Saved
 ms.assetid: 911ad89a-15f3-ce02-0eba-4081b43b0e72

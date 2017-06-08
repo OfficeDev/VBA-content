@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.KeyUp Event (Outlook)
 keywords: vbaol11.chm1000525
 f1_keywords:
 - vbaol11.chm1000525
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.KeyUp
 ms.assetid: 06869fbe-73dc-fd0f-0a6f-59505e0e80f8

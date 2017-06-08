@@ -3,7 +3,7 @@ title: ContactItem.MarkAsTask Method (Outlook)
 keywords: vbaol11.chm3031
 f1_keywords:
 - vbaol11.chm3031
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MarkAsTask
 ms.assetid: def25d8d-6074-5e4d-18d9-82381b0b7876

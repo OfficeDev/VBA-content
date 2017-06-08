@@ -3,7 +3,7 @@ title: Action.Execute Method (Outlook)
 keywords: vbaol11.chm23
 f1_keywords:
 - vbaol11.chm23
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Action.Execute
 ms.assetid: 29dd0c5c-ed5f-b2cc-45b0-1c8c348239bb

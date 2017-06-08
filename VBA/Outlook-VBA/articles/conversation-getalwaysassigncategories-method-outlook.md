@@ -3,7 +3,7 @@ title: Conversation.GetAlwaysAssignCategories Method (Outlook)
 keywords: vbaol11.chm3439
 f1_keywords:
 - vbaol11.chm3439
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.GetAlwaysAssignCategories
 ms.assetid: d09ae8ff-b725-cc09-9408-7b9039ee129f

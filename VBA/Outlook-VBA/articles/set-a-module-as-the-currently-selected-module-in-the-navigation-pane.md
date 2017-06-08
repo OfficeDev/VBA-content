@@ -1,6 +1,6 @@
 ---
 title: Set a Module as the Currently Selected Module in the Navigation Pane
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c7aeafcf-d88d-8d79-8dfd-e336cf00f101
 ms.date: 06/08/2017
 ---

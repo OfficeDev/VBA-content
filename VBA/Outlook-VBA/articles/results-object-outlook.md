@@ -3,7 +3,7 @@ title: Results Object (Outlook)
 keywords: vbaol11.chm3012
 f1_keywords:
 - vbaol11.chm3012
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results
 ms.assetid: 59057f6f-8f6d-eed0-c945-240b9593b7ea

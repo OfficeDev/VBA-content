@@ -3,7 +3,7 @@ title: Selection Object (Outlook)
 keywords: vbaol11.chm80
 f1_keywords:
 - vbaol11.chm80
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection
 ms.assetid: 0b06a3ce-0445-db8f-e6e8-bb7bd469c50f

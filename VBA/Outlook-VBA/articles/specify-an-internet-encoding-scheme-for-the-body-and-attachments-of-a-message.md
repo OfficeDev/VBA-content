@@ -1,6 +1,6 @@
 ---
 title: Specify an Internet Encoding Scheme for the Body and Attachments of a Message
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e6207bf2-238d-2b7a-cd80-5783e49c05ec
 ms.date: 06/08/2017
 ---

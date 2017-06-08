@@ -3,7 +3,7 @@ title: TaskRequestUpdateItem.Companies Property (Outlook)
 keywords: vbaol11.chm1926
 f1_keywords:
 - vbaol11.chm1926
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Companies
 ms.assetid: 92b7a6ff-5375-1174-b053-51d2f9bcfc39

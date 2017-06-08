@@ -1,6 +1,6 @@
 ---
 title: Specify Locale-Specific User Interface for a Form Region
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 74cf8452-5e75-c939-2bf8-91607241bb76
 ms.date: 06/08/2017
 ---

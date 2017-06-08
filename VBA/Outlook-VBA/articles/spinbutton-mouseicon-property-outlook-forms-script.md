@@ -1,6 +1,6 @@
 ---
 title: SpinButton.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1980cc3e-b38f-5902-7e8d-4e6450626c94
 ms.date: 06/08/2017
 ---

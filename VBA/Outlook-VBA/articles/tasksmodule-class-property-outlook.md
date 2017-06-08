@@ -3,7 +3,7 @@ title: TasksModule.Class Property (Outlook)
 keywords: vbaol11.chm2843
 f1_keywords:
 - vbaol11.chm2843
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TasksModule.Class
 ms.assetid: 2b6d9f8c-c189-c8a8-7c2e-a37ce150389b

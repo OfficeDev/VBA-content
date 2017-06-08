@@ -1,6 +1,6 @@
 ---
 title: DistListItem.PropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.PropertyChange
 ms.assetid: 932a2ded-1e92-e40d-8f88-9044cccb7863

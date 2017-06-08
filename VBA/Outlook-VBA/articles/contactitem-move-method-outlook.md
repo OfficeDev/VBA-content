@@ -3,7 +3,7 @@ title: ContactItem.Move Method (Outlook)
 keywords: vbaol11.chm960
 f1_keywords:
 - vbaol11.chm960
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Move
 ms.assetid: e5e2ac9f-5fb2-2ebb-4afe-b61fc414d0aa

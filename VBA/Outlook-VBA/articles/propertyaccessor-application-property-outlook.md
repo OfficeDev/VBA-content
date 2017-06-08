@@ -3,7 +3,7 @@ title: PropertyAccessor.Application Property (Outlook)
 keywords: vbaol11.chm1966
 f1_keywords:
 - vbaol11.chm1966
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.Application
 ms.assetid: 51df74aa-6120-519b-3b68-e86e11222264

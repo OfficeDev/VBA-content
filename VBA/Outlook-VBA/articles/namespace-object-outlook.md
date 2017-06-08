@@ -3,7 +3,7 @@ title: NameSpace Object (Outlook)
 keywords: vbaol11.chm3000
 f1_keywords:
 - vbaol11.chm3000
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace
 ms.assetid: f0dcaa19-07f5-5d42-a3bf-2e42b7885644

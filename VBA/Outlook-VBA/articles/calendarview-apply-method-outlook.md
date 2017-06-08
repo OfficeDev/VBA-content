@@ -3,7 +3,7 @@ title: CalendarView.Apply Method (Outlook)
 keywords: vbaol11.chm2611
 f1_keywords:
 - vbaol11.chm2611
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Apply
 ms.assetid: 274edf67-7a3b-8132-3990-a07fa30b5024

@@ -1,6 +1,6 @@
 ---
 title: Select Multiple Controls and the Dominant Control
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b206fb74-2273-73c1-1558-1be91346054f
 ms.date: 06/08/2017
 ---

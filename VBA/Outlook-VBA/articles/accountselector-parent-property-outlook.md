@@ -3,7 +3,7 @@ title: AccountSelector.Parent Property (Outlook)
 keywords: vbaol11.chm3452
 f1_keywords:
 - vbaol11.chm3452
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountSelector.Parent
 ms.assetid: 63d9082c-04c2-e006-fa4f-fa6eb1417cee

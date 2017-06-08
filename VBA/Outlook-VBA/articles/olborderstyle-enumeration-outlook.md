@@ -3,7 +3,7 @@ title: OlBorderStyle Enumeration (Outlook)
 keywords: vbaol11.chm1000022
 f1_keywords:
 - vbaol11.chm1000022
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlBorderStyle
 ms.assetid: fd0a6be8-8d4b-be9f-639c-cd1ea5de9c97

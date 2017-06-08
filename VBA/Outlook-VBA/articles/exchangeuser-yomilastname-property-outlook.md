@@ -3,7 +3,7 @@ title: ExchangeUser.YomiLastName Property (Outlook)
 keywords: vbaol11.chm2104
 f1_keywords:
 - vbaol11.chm2104
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.YomiLastName
 ms.assetid: 079ba8e7-4a3a-2f8c-fa17-0db5ab8f47c2

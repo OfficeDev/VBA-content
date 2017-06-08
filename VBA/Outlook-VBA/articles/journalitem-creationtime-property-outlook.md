@@ -3,7 +3,7 @@ title: JournalItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm1239
 f1_keywords:
 - vbaol11.chm1239
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.CreationTime
 ms.assetid: 774821e3-bb63-5048-ad9e-bb9e25664307

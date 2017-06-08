@@ -3,7 +3,7 @@ title: MailItem.Forward Method (Outlook)
 keywords: vbaol11.chm1366
 f1_keywords:
 - vbaol11.chm1366
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Forward
 ms.assetid: 5b8c2261-c5ac-fd80-8acf-dfa645a04a1e

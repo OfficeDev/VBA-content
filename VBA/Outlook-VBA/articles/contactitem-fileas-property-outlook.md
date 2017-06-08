@@ -3,7 +3,7 @@ title: ContactItem.FileAs Property (Outlook)
 keywords: vbaol11.chm1003
 f1_keywords:
 - vbaol11.chm1003
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.FileAs
 ms.assetid: 65ea6d2e-17ef-5de8-adfb-2b1aebfbd9fd

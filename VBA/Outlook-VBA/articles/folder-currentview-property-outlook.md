@@ -3,7 +3,7 @@ title: Folder.CurrentView Property (Outlook)
 keywords: vbaol11.chm2009
 f1_keywords:
 - vbaol11.chm2009
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.CurrentView
 ms.assetid: 42af4345-60f1-10cd-66e5-517ca002284b

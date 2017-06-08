@@ -3,7 +3,7 @@ title: ExchangeDistributionList.GetExchangeUser Method (Outlook)
 keywords: vbaol11.chm2126
 f1_keywords:
 - vbaol11.chm2126
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.GetExchangeUser
 ms.assetid: a5ce23e5-76cb-ac86-b8c7-a4e63eda560d

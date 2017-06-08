@@ -3,7 +3,7 @@ title: BusinessCardView.Language Property (Outlook)
 keywords: vbaol11.chm2926
 f1_keywords:
 - vbaol11.chm2926
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Language
 ms.assetid: 4ddc6c63-3402-15ae-bcb7-7eab0d423bb3

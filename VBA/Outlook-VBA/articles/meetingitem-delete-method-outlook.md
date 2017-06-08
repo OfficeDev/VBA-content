@@ -3,7 +3,7 @@ title: MeetingItem.Delete Method (Outlook)
 keywords: vbaol11.chm1430
 f1_keywords:
 - vbaol11.chm1430
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Delete
 ms.assetid: 62821244-206b-039d-d321-e1b373a44d0b

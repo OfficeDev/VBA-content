@@ -3,7 +3,7 @@ title: PostItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm1519
 f1_keywords:
 - vbaol11.chm1519
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ConversationIndex
 ms.assetid: fe52d844-8702-6c15-9912-8a3d659a17b0

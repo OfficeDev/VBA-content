@@ -3,7 +3,7 @@ title: FormDescription.Locked Property (Outlook)
 keywords: vbaol11.chm190
 f1_keywords:
 - vbaol11.chm190
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.Locked
 ms.assetid: 983a83c5-8c0a-ab21-0bca-834839758ddd

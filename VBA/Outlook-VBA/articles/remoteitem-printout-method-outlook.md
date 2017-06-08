@@ -3,7 +3,7 @@ title: RemoteItem.PrintOut Method (Outlook)
 keywords: vbaol11.chm1617
 f1_keywords:
 - vbaol11.chm1617
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.PrintOut
 ms.assetid: 753ec4e0-7a92-361d-0a63-0af698f54ce6

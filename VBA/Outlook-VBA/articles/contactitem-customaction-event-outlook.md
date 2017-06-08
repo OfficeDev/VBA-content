@@ -1,6 +1,6 @@
 ---
 title: ContactItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CustomAction
 ms.assetid: e2f6da0c-0470-8cbd-ce31-2e2a6e0e5353

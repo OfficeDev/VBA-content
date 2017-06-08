@@ -3,7 +3,7 @@ title: DocumentItem.Session Property (Outlook)
 keywords: vbaol11.chm1181
 f1_keywords:
 - vbaol11.chm1181
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Session
 ms.assetid: 40c7d5d6-2efd-f946-bc2b-273209c6c896

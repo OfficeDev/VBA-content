@@ -1,6 +1,6 @@
 ---
 title: PostItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentRemove
 ms.assetid: 9fb7c1c3-e339-1dca-7c89-58c44e4435d5

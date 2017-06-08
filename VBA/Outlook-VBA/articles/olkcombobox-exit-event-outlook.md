@@ -3,7 +3,7 @@ title: OlkComboBox.Exit Event (Outlook)
 keywords: vbaol11.chm1000241
 f1_keywords:
 - vbaol11.chm1000241
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Exit
 ms.assetid: ce386495-2c81-b256-c1dd-ede086f7a0f3

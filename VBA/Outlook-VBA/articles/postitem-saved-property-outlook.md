@@ -3,7 +3,7 @@ title: PostItem.Saved Property (Outlook)
 keywords: vbaol11.chm1533
 f1_keywords:
 - vbaol11.chm1533
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Saved
 ms.assetid: a3126c7e-5507-8942-1470-2ac11ef2178e

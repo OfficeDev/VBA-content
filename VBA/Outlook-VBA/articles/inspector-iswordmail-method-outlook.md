@@ -3,7 +3,7 @@ title: Inspector.IsWordMail Method (Outlook)
 keywords: vbaol11.chm2968
 f1_keywords:
 - vbaol11.chm2968
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.IsWordMail
 ms.assetid: f6c588f1-90b0-53e8-fd54-068a93a5f824

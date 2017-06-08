@@ -3,7 +3,7 @@ title: PostItem.InternetCodepage Property (Outlook)
 keywords: vbaol11.chm1561
 f1_keywords:
 - vbaol11.chm1561
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.InternetCodepage
 ms.assetid: f42488b4-5f41-d03e-bf75-c07249230215

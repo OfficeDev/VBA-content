@@ -3,7 +3,7 @@ title: MailItem.BCC Property (Outlook)
 keywords: vbaol11.chm1330
 f1_keywords:
 - vbaol11.chm1330
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.BCC
 ms.assetid: 6454f9b1-1bfa-d4d4-ca95-7a19db920977

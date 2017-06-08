@@ -3,7 +3,7 @@ title: SharingItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm618
 f1_keywords:
 - vbaol11.chm618
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Sensitivity
 ms.assetid: f6274264-05d3-f802-d1fc-eb6176e531d8

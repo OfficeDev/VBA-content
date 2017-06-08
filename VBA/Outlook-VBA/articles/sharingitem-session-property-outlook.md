@@ -3,7 +3,7 @@ title: SharingItem.Session Property (Outlook)
 keywords: vbaol11.chm595
 f1_keywords:
 - vbaol11.chm595
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Session
 ms.assetid: 0563b8e1-6b5b-2c1f-9cc7-3c69ccb80346

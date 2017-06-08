@@ -3,7 +3,7 @@ title: Table.Class Property (Outlook)
 keywords: vbaol11.chm2225
 f1_keywords:
 - vbaol11.chm2225
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.Class
 ms.assetid: bea314b0-9db9-ac67-a897-49e619da1066

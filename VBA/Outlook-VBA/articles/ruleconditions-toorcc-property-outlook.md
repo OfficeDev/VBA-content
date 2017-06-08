@@ -3,7 +3,7 @@ title: RuleConditions.ToOrCc Property (Outlook)
 keywords: vbaol11.chm2309
 f1_keywords:
 - vbaol11.chm2309
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.ToOrCc
 ms.assetid: 28a34223-e47d-3843-4648-fe757568d406

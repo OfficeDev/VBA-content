@@ -1,6 +1,6 @@
 ---
 title: TaskRequestItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Write
 ms.assetid: d2b3ace4-4ab3-307b-a929-566514522dc0

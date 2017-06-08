@@ -3,7 +3,7 @@ title: Application.CopyFile Method (Outlook)
 keywords: vbaol11.chm727
 f1_keywords:
 - vbaol11.chm727
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.CopyFile
 ms.assetid: dc848d48-23e0-d0a9-049d-b2ae414151d5

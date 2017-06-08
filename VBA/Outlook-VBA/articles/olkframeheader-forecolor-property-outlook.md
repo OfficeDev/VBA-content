@@ -3,7 +3,7 @@ title: OlkFrameHeader.ForeColor Property (Outlook)
 keywords: vbaol11.chm1000464
 f1_keywords:
 - vbaol11.chm1000464
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.ForeColor
 ms.assetid: 2f397b5f-292c-b2a8-4eb2-6df01e30317f

@@ -3,7 +3,7 @@ title: AppointmentItem.GlobalAppointmentID Property (Outlook)
 keywords: vbaol11.chm924
 f1_keywords:
 - vbaol11.chm924
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.GlobalAppointmentID
 ms.assetid: 3a5e210a-5298-8977-d6e4-dc49a59bdd78

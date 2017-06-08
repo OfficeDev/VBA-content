@@ -3,7 +3,7 @@ title: View.Application Property (Outlook)
 keywords: vbaol11.chm2480
 f1_keywords:
 - vbaol11.chm2480
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Application
 ms.assetid: 84fdf8a6-891f-133f-e587-f6d2ced35304

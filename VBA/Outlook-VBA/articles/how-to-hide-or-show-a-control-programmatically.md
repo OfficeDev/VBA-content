@@ -3,7 +3,7 @@ title: "How to: Hide or Show a Control Programmatically"
 keywords: olmain11.chm1045238
 f1_keywords:
 - olmain11.chm1045238
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c6cbadf7-7b10-81de-0abe-65b24c3f46d4
 ms.date: 06/08/2017
 ---

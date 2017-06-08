@@ -3,7 +3,7 @@ title: NameSpace.OpenSharedFolder Method (Outlook)
 keywords: vbaol11.chm788
 f1_keywords:
 - vbaol11.chm788
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.OpenSharedFolder
 ms.assetid: 907efeab-8a37-98a6-f241-0a051f03f472

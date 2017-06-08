@@ -1,6 +1,6 @@
 ---
 title: Page.KeepScrollBarsVisible Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4abf7176-4460-91b6-03e1-291b71db0752
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OlkTimeControl.Click Event (Outlook)
 keywords: vbaol11.chm1000401
 f1_keywords:
 - vbaol11.chm1000401
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.Click
 ms.assetid: 756b3a57-54c2-932d-e001-3e22baa9e8dd

@@ -3,7 +3,7 @@ title: ContactItem.LastFirstAndSuffix Property (Outlook)
 keywords: vbaol11.chm1027
 f1_keywords:
 - vbaol11.chm1027
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastFirstAndSuffix
 ms.assetid: b234614c-e2c0-cba2-6ec8-69be1a31caf1

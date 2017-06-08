@@ -3,7 +3,7 @@ title: Recipient.EntryID Property (Outlook)
 keywords: vbaol11.chm2348
 f1_keywords:
 - vbaol11.chm2348
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.EntryID
 ms.assetid: f71d384c-6e1c-f96c-1415-cf21a0c26712

@@ -3,7 +3,7 @@ title: ItemProperties.Remove Method (Outlook)
 keywords: vbaol11.chm539
 f1_keywords:
 - vbaol11.chm539
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperties.Remove
 ms.assetid: 51d0320b-99f4-60df-4646-b8e365813d2f

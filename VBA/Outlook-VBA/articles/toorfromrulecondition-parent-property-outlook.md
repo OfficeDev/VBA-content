@@ -3,7 +3,7 @@ title: ToOrFromRuleCondition.Parent Property (Outlook)
 keywords: vbaol11.chm2459
 f1_keywords:
 - vbaol11.chm2459
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ToOrFromRuleCondition.Parent
 ms.assetid: 8714a33b-54c8-7442-f454-1fc7138583ec

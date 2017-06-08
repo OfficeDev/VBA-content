@@ -1,6 +1,6 @@
 ---
 title: Frame.Picture Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 61abe92d-9939-3a07-e6e4-233c4290b15d
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OutlookBarPane Object (Outlook)
 keywords: vbaol11.chm3003
 f1_keywords:
 - vbaol11.chm3003
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane
 ms.assetid: f8e6aa05-7a66-64f2-5a6a-ea639b6bbc59

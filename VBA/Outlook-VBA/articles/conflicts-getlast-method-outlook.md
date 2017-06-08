@@ -3,7 +3,7 @@ title: Conflicts.GetLast Method (Outlook)
 keywords: vbaol11.chm407
 f1_keywords:
 - vbaol11.chm407
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflicts.GetLast
 ms.assetid: 2f82fcab-7c8e-3df7-adc1-8f701d3bf9cb

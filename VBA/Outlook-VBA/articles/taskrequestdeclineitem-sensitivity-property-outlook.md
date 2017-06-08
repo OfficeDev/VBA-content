@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm1844
 f1_keywords:
 - vbaol11.chm1844
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Sensitivity
 ms.assetid: 624c343a-2d65-427c-e18b-21daf78c8c8d

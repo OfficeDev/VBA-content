@@ -3,7 +3,7 @@ title: AutoFormatRule Object (Outlook)
 keywords: vbaol11.chm3209
 f1_keywords:
 - vbaol11.chm3209
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRule
 ms.assetid: 6d295c41-17f9-8e67-4595-4330fd3cec99

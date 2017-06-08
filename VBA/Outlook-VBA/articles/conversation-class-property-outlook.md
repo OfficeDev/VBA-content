@@ -3,7 +3,7 @@ title: Conversation.Class Property (Outlook)
 keywords: vbaol11.chm3384
 f1_keywords:
 - vbaol11.chm3384
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.Class
 ms.assetid: 99e49411-5464-396e-09b9-28580179fdd1

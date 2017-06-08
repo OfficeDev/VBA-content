@@ -1,6 +1,6 @@
 ---
 title: ReportItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Send
 ms.assetid: aab0b0f3-8e33-f1fa-cc74-d914effcb833

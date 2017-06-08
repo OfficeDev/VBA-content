@@ -3,7 +3,7 @@ title: JournalModule.Parent Property (Outlook)
 keywords: vbaol11.chm2865
 f1_keywords:
 - vbaol11.chm2865
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalModule.Parent
 ms.assetid: b5401f7f-5466-56a9-4c59-f2fc7e9adfc1

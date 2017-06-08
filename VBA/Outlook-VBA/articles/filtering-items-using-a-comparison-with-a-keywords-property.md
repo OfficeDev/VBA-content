@@ -1,6 +1,6 @@
 ---
 title: Filtering Items Using a Comparison with a Keywords Property
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8d1bcff0-cf25-662d-08ae-15e8d0edb8ea
 ms.date: 06/08/2017
 ---

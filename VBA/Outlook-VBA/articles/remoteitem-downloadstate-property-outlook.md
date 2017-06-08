@@ -3,7 +3,7 @@ title: RemoteItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1625
 f1_keywords:
 - vbaol11.chm1625
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.DownloadState
 ms.assetid: 30e87940-f365-113c-dad4-c17775db7cdb

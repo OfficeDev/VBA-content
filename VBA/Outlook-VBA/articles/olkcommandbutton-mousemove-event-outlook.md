@@ -3,7 +3,7 @@ title: OlkCommandButton.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000123
 f1_keywords:
 - vbaol11.chm1000123
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.MouseMove
 ms.assetid: 2d489bea-a8b9-bcbc-045e-696d6ef46f1f

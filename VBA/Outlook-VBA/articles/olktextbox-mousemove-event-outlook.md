@@ -3,7 +3,7 @@ title: OlkTextBox.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000074
 f1_keywords:
 - vbaol11.chm1000074
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.MouseMove
 ms.assetid: 431bf2ee-6c9f-6dd9-5c9a-dde84acd87db

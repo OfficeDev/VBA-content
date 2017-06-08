@@ -3,7 +3,7 @@ title: DocumentItem.Body Property (Outlook)
 keywords: vbaol11.chm1186
 f1_keywords:
 - vbaol11.chm1186
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Body
 ms.assetid: 51b43935-2674-6bae-2e30-be21b22a1353

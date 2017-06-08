@@ -1,6 +1,6 @@
 ---
 title: Run in Developer Mode in Outlook
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8f81b1ce-333d-d9be-2af7-cfc65bf15e22
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: TabStrip.BackColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5d750acd-38aa-fa3d-55b3-3d10fb0d7c63
 ms.date: 06/08/2017
 ---

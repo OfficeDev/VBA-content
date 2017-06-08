@@ -3,7 +3,7 @@ title: ExchangeDistributionList Object (Outlook)
 keywords: vbaol11.chm3159
 f1_keywords:
 - vbaol11.chm3159
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList
 ms.assetid: 2830dfba-6c0a-a81f-6b98-92ac2aafb59d

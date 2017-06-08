@@ -3,7 +3,7 @@ title: NameSpace.GetSelectNamesDialog Method (Outlook)
 keywords: vbaol11.chm781
 f1_keywords:
 - vbaol11.chm781
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetSelectNamesDialog
 ms.assetid: 883d90e0-b3cc-e76e-cbe6-cb271e9ccb37

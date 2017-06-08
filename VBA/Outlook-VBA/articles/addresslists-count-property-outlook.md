@@ -3,7 +3,7 @@ title: AddressLists.Count Property (Outlook)
 keywords: vbaol11.chm92
 f1_keywords:
 - vbaol11.chm92
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressLists.Count
 ms.assetid: aca2191f-0b86-2d4a-96b8-f5d7d61c03d3

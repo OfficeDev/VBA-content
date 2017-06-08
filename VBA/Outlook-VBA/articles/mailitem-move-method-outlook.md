@@ -3,7 +3,7 @@ title: MailItem.Move Method (Outlook)
 keywords: vbaol11.chm1324
 f1_keywords:
 - vbaol11.chm1324
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Move
 ms.assetid: 08a0fa20-b891-393a-00fa-5a8fb5405cf6

@@ -3,7 +3,7 @@ title: OlkCommandButton.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000124
 f1_keywords:
 - vbaol11.chm1000124
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.MouseUp
 ms.assetid: 080bed9d-9fc6-8f17-9e95-b23da2b923fd

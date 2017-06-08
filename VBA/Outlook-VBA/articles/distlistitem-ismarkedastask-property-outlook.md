@@ -3,7 +3,7 @@ title: DistListItem.IsMarkedAsTask Property (Outlook)
 keywords: vbaol11.chm3037
 f1_keywords:
 - vbaol11.chm3037
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.IsMarkedAsTask
 ms.assetid: 6dc846e0-c6a6-2151-13e7-f305772b5ae8

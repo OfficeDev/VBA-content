@@ -1,6 +1,6 @@
 ---
 title: TaskRequestUpdateItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.ReplyAll
 ms.assetid: b55af873-d270-4b22-3412-324c0285fd37

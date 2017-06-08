@@ -3,7 +3,7 @@ title: BusinessCardView.Delete Method (Outlook)
 keywords: vbaol11.chm2923
 f1_keywords:
 - vbaol11.chm2923
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Delete
 ms.assetid: 0f771496-ef4a-1c2e-49b4-19f786bff055

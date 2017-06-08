@@ -3,7 +3,7 @@ title: OlFormRegistry Enumeration (Outlook)
 keywords: vbaol11.chm3060
 f1_keywords:
 - vbaol11.chm3060
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormRegistry
 ms.assetid: 2d1076ae-0984-da03-a7ec-f083dc9d9e46

@@ -3,7 +3,7 @@ title: FormRegionStartup.BeforeFormRegionShow Method (Outlook)
 keywords: vbaol11.chm2947
 f1_keywords:
 - vbaol11.chm2947
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegionStartup.BeforeFormRegionShow
 ms.assetid: c93c2f6a-511f-15cd-eca2-4eb35af9939a

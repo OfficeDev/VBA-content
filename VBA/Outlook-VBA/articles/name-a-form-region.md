@@ -1,6 +1,6 @@
 ---
 title: Name a Form Region
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9e5009db-8230-3a82-60a6-d62cb5b0cc3c
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Rule.Enabled Property (Outlook)
 keywords: vbaol11.chm2171
 f1_keywords:
 - vbaol11.chm2171
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.Enabled
 ms.assetid: 9ba65f87-799f-7a22-04a1-c0abcb320559

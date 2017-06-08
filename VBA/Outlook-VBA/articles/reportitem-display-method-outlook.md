@@ -3,7 +3,7 @@ title: ReportItem.Display Method (Outlook)
 keywords: vbaol11.chm1667
 f1_keywords:
 - vbaol11.chm1667
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Display
 ms.assetid: 583673cd-f646-2843-82ce-b11d673df5a3

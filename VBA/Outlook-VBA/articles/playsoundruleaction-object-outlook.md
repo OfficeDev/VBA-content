@@ -3,7 +3,7 @@ title: PlaySoundRuleAction Object (Outlook)
 keywords: vbaol11.chm3169
 f1_keywords:
 - vbaol11.chm3169
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction
 ms.assetid: 6a7a1f78-640e-8ffc-558c-c26b87638d64

@@ -3,7 +3,7 @@ title: DistListItem.Parent Property (Outlook)
 keywords: vbaol11.chm1113
 f1_keywords:
 - vbaol11.chm1113
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Parent
 ms.assetid: 823acb1e-0456-1fb2-ea55-9f5c078c699e

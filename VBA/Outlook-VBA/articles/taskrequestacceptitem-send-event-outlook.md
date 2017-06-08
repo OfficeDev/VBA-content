@@ -1,6 +1,6 @@
 ---
 title: TaskRequestAcceptItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Send
 ms.assetid: 47bbd12c-699e-8fb5-697d-e52e3acd12b5

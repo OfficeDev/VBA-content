@@ -3,7 +3,7 @@ title: MailItem.ReplyRecipientNames Property (Outlook)
 keywords: vbaol11.chm1354
 f1_keywords:
 - vbaol11.chm1354
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReplyRecipientNames
 ms.assetid: 96f0e12d-c580-4ec0-9b8f-06607a30faf9

@@ -1,6 +1,6 @@
 ---
 title: SpinButton.Orientation Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 923f3fe6-0740-9e42-ad63-ca29d04aad70
 ms.date: 06/08/2017
 ---

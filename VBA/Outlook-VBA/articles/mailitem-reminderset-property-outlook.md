@@ -3,7 +3,7 @@ title: MailItem.ReminderSet Property (Outlook)
 keywords: vbaol11.chm1350
 f1_keywords:
 - vbaol11.chm1350
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReminderSet
 ms.assetid: f99a945b-1890-7d52-f13b-e0fada91903d

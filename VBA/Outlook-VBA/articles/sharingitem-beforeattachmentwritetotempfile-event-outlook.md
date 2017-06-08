@@ -1,6 +1,6 @@
 ---
 title: SharingItem.BeforeAttachmentWriteToTempFile Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 85a7ac8e-94e2-1248-0d22-1ca8565c9530

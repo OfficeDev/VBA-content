@@ -3,7 +3,7 @@ title: CardView.Save Method (Outlook)
 keywords: vbaol11.chm2587
 f1_keywords:
 - vbaol11.chm2587
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.Save
 ms.assetid: 78d967c3-c685-89c3-0569-52af744b10fb

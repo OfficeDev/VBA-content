@@ -3,7 +3,7 @@ title: OlkDateControl.Enabled Property (Outlook)
 keywords: vbaol11.chm1000347
 f1_keywords:
 - vbaol11.chm1000347
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.Enabled
 ms.assetid: ac687fc7-6e69-2020-25d3-facc24689633

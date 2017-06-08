@@ -3,7 +3,7 @@ title: OlkContactPhoto.Enabled Property (Outlook)
 keywords: vbaol11.chm1000306
 f1_keywords:
 - vbaol11.chm1000306
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.Enabled
 ms.assetid: 8e10a7ed-5d46-95f2-6e56-83b88af7c536

@@ -3,7 +3,7 @@ title: AppointmentItem.Session Property (Outlook)
 keywords: vbaol11.chm840
 f1_keywords:
 - vbaol11.chm840
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Session
 ms.assetid: ff92a5eb-5a5a-9211-c247-42b9d993780f

@@ -3,7 +3,7 @@ title: SyncObjects.AppFolders Property (Outlook)
 keywords: vbaol11.chm101
 f1_keywords:
 - vbaol11.chm101
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObjects.AppFolders
 ms.assetid: 711ebc16-12ac-9df3-31af-a883f438814f

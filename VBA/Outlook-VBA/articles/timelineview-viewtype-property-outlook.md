@@ -3,7 +3,7 @@ title: TimelineView.ViewType Property (Outlook)
 keywords: vbaol11.chm2656
 f1_keywords:
 - vbaol11.chm2656
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.ViewType
 ms.assetid: 6539a03b-b079-e443-7b79-0488fb5e8a3b

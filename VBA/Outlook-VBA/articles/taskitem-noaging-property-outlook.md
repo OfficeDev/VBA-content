@@ -3,7 +3,7 @@ title: TaskItem.NoAging Property (Outlook)
 keywords: vbaol11.chm1703
 f1_keywords:
 - vbaol11.chm1703
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.NoAging
 ms.assetid: 3cc48820-8c03-57ab-6c7f-d4b47aed9fbe

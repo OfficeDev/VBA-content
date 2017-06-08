@@ -3,7 +3,7 @@ title: PostItem.SentOn Property (Outlook)
 keywords: vbaol11.chm1551
 f1_keywords:
 - vbaol11.chm1551
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.SentOn
 ms.assetid: 99bdf4d7-128f-9093-a553-a1d3e56254bb

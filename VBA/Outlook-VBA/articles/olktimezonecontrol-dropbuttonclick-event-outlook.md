@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.DropButtonClick Event (Outlook)
 keywords: vbaol11.chm1000527
 f1_keywords:
 - vbaol11.chm1000527
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.DropButtonClick
 ms.assetid: 4b0026d4-fb18-e72f-a369-6e14f4cfe8dd

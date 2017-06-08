@@ -3,7 +3,7 @@ title: Items.IncludeRecurrences Property (Outlook)
 keywords: vbaol11.chm60
 f1_keywords:
 - vbaol11.chm60
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.IncludeRecurrences
 ms.assetid: 7d192112-889c-56ce-aab2-107d751c80c4

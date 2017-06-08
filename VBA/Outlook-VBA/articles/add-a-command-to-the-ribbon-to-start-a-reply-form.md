@@ -1,6 +1,6 @@
 ---
 title: Add a Command to the Ribbon to Start a Reply Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fedf64ec-6c4f-bc89-b144-f5105851c8fa
 ms.date: 06/08/2017
 ---

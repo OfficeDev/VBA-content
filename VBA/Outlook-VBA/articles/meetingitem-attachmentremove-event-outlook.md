@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.AttachmentRemove
 ms.assetid: 418fcee8-fba8-1296-0689-75d4f84c508a

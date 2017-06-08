@@ -3,7 +3,7 @@ title: NavigationPane.Modules Property (Outlook)
 keywords: vbaol11.chm2793
 f1_keywords:
 - vbaol11.chm2793
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationPane.Modules
 ms.assetid: f7311738-369c-4dd6-947c-9382195bc944

@@ -3,7 +3,7 @@ title: FormNameRuleCondition.Class Property (Outlook)
 keywords: vbaol11.chm2449
 f1_keywords:
 - vbaol11.chm2449
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormNameRuleCondition.Class
 ms.assetid: 75a66c33-a79a-b9f7-ddd6-b987e65cf0a2

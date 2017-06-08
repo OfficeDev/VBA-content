@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.Categories Property (Outlook)
 keywords: vbaol11.chm1778
 f1_keywords:
 - vbaol11.chm1778
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Categories
 ms.assetid: 18b34d77-3479-08b3-d031-4732fb7657f1

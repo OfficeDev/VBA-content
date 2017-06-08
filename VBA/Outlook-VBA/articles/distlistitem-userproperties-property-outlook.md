@@ -3,7 +3,7 @@ title: DistListItem.UserProperties Property (Outlook)
 keywords: vbaol11.chm1139
 f1_keywords:
 - vbaol11.chm1139
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.UserProperties
 ms.assetid: 847ced9f-258c-7730-86a1-657bc2453b6e

@@ -3,7 +3,7 @@ title: Explorer.Left Property (Outlook)
 keywords: vbaol11.chm2768
 f1_keywords:
 - vbaol11.chm2768
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Left
 ms.assetid: 83691416-276b-a77f-4a20-9fc2443571e0

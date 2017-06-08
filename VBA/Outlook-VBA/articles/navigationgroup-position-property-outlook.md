@@ -3,7 +3,7 @@ title: NavigationGroup.Position Property (Outlook)
 keywords: vbaol11.chm2889
 f1_keywords:
 - vbaol11.chm2889
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroup.Position
 ms.assetid: b6fb7506-e143-97d8-ae36-0812ca8d7355

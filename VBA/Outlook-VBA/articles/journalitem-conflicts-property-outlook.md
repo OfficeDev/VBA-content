@@ -3,7 +3,7 @@ title: JournalItem.Conflicts Property (Outlook)
 keywords: vbaol11.chm1287
 f1_keywords:
 - vbaol11.chm1287
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Conflicts
 ms.assetid: 27e68a60-745a-43a3-b1db-e4c80a9e4a38

@@ -3,7 +3,7 @@ title: TaskItem.ContactNames Property (Outlook)
 keywords: vbaol11.chm1724
 f1_keywords:
 - vbaol11.chm1724
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ContactNames
 ms.assetid: 2cbafecb-4984-ed71-efec-c0a565966218

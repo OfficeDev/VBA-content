@@ -3,7 +3,7 @@ title: OlkCommandButton.KeyPress Event (Outlook)
 keywords: vbaol11.chm1000128
 f1_keywords:
 - vbaol11.chm1000128
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.KeyPress
 ms.assetid: c742f3e3-56e2-de6c-8ccf-e69a6096e3d5

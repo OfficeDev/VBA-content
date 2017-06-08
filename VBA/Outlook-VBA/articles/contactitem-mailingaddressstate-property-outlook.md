@@ -3,7 +3,7 @@ title: ContactItem.MailingAddressState Property (Outlook)
 keywords: vbaol11.chm1039
 f1_keywords:
 - vbaol11.chm1039
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MailingAddressState
 ms.assetid: 9e15bba8-2256-fd1a-60ae-ac63d6d4f4e3

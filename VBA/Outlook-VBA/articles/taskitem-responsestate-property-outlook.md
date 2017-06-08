@@ -3,7 +3,7 @@ title: TaskItem.ResponseState Property (Outlook)
 keywords: vbaol11.chm1740
 f1_keywords:
 - vbaol11.chm1740
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ResponseState
 ms.assetid: 91f1d4a1-f55b-7379-c1a8-c302bac25a6c

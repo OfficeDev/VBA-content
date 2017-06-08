@@ -3,7 +3,7 @@ title: ContactItem.ManagerName Property (Outlook)
 keywords: vbaol11.chm1041
 f1_keywords:
 - vbaol11.chm1041
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ManagerName
 ms.assetid: bf8c6303-75da-f589-c7a0-b16ded036bb3

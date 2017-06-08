@@ -2,6 +2,7 @@
 title: MailItem.ReadComplete Event (Outlook)
 ms.assetid: 39bba654-0683-95a4-9092-3c0ecbbf9104
 ms.date: 06/08/2017
+ms.prod: outlook
 ---
 
 

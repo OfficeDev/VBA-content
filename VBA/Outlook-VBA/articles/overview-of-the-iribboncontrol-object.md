@@ -1,6 +1,6 @@
 ---
 title: Overview of the IRibbonControl Object
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 32a0ae0b-26d9-673b-d609-b86696538435
 ms.date: 06/08/2017
 ---

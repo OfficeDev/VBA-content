@@ -3,7 +3,7 @@ title: Reminder.IsVisible Property (Outlook)
 keywords: vbaol11.chm561
 f1_keywords:
 - vbaol11.chm561
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder.IsVisible
 ms.assetid: e99f8fab-32fa-94ef-be9b-523b580fa551

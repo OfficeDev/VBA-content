@@ -3,7 +3,7 @@ title: OlkComboBox.KeyUp Event (Outlook)
 keywords: vbaol11.chm1000244
 f1_keywords:
 - vbaol11.chm1000244
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.KeyUp
 ms.assetid: 22f2f29c-f4ea-764a-85a0-90d11becf5dc

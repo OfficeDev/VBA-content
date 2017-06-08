@@ -3,7 +3,7 @@ title: TaskItem.AutoResolvedWinner Property (Outlook)
 keywords: vbaol11.chm1765
 f1_keywords:
 - vbaol11.chm1765
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.AutoResolvedWinner
 ms.assetid: 19acff0c-a540-f08e-f662-30daf992f575

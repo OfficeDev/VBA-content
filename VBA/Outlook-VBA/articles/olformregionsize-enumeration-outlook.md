@@ -3,7 +3,7 @@ title: OlFormRegionSize Enumeration (Outlook)
 keywords: vbaol11.chm3104
 f1_keywords:
 - vbaol11.chm3104
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormRegionSize
 ms.assetid: a52c7e73-b6f1-ddb0-2307-55107912bc44

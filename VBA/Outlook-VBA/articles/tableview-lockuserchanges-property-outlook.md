@@ -3,7 +3,7 @@ title: TableView.LockUserChanges Property (Outlook)
 keywords: vbaol11.chm2509
 f1_keywords:
 - vbaol11.chm2509
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.LockUserChanges
 ms.assetid: 3d4491ff-dad0-055a-b9e5-9de19cd1eb0d

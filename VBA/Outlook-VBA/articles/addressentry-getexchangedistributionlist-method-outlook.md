@@ -3,7 +3,7 @@ title: AddressEntry.GetExchangeDistributionList Method (Outlook)
 keywords: vbaol11.chm2058
 f1_keywords:
 - vbaol11.chm2058
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.GetExchangeDistributionList
 ms.assetid: 060ac302-b916-d85d-5ba8-c682894129e2

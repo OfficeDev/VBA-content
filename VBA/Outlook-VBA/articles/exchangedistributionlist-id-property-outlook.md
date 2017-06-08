@@ -3,7 +3,7 @@ title: ExchangeDistributionList.ID Property (Outlook)
 keywords: vbaol11.chm2114
 f1_keywords:
 - vbaol11.chm2114
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.ID
 ms.assetid: 20ace2a3-7475-9b81-a55c-92a1b28e8c18

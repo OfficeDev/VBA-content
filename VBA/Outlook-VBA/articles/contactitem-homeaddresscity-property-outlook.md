@@ -3,7 +3,7 @@ title: ContactItem.HomeAddressCity Property (Outlook)
 keywords: vbaol11.chm1013
 f1_keywords:
 - vbaol11.chm1013
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddressCity
 ms.assetid: 1d2334f2-0401-3bcc-53bf-fa55e1664d9c

@@ -3,7 +3,7 @@ title: Table.Application Property (Outlook)
 keywords: vbaol11.chm2224
 f1_keywords:
 - vbaol11.chm2224
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.Application
 ms.assetid: 10e7611e-e3b3-a07c-da85-f8c270a37212

@@ -3,7 +3,7 @@ title: ContactsModule Object (Outlook)
 keywords: vbaol11.chm3195
 f1_keywords:
 - vbaol11.chm3195
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactsModule
 ms.assetid: fb183bd5-c72f-b38f-97e3-209a2a463d24

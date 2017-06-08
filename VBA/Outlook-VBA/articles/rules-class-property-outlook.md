@@ -3,7 +3,7 @@ title: Rules.Class Property (Outlook)
 keywords: vbaol11.chm2155
 f1_keywords:
 - vbaol11.chm2155
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rules.Class
 ms.assetid: 3ee88b9e-4cb3-c80b-6386-4b35ef59d27b

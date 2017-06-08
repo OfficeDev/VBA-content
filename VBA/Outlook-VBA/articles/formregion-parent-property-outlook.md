@@ -3,7 +3,7 @@ title: FormRegion.Parent Property (Outlook)
 keywords: vbaol11.chm2388
 f1_keywords:
 - vbaol11.chm2388
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Parent
 ms.assetid: 07f9d503-01c7-c4f4-7a65-243bd15967a9

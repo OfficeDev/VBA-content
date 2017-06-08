@@ -3,7 +3,7 @@ title: "How to: Add, Cut, and Paste a Control on a Page"
 keywords: olfm10.chm3077170
 f1_keywords:
 - olfm10.chm3077170
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f20fb2d9-0ee2-2cf5-173c-9fdd6201bdca
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Enumerate Folders on All Stores
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9c78ecee-7b9b-bec0-5510-3224cd9aa1fd
 ms.date: 06/08/2017
 ---

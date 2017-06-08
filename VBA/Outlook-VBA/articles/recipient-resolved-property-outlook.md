@@ -3,7 +3,7 @@ title: Recipient.Resolved Property (Outlook)
 keywords: vbaol11.chm2352
 f1_keywords:
 - vbaol11.chm2352
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Resolved
 ms.assetid: 09c7655b-5acd-b527-56f6-59bc994a5ca1

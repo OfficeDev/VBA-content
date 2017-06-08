@@ -3,7 +3,7 @@ title: "How to: Enable and Lock a Text Box from User Entry"
 keywords: olfm10.chm3077184
 f1_keywords:
 - olfm10.chm3077184
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 354918d6-90f2-7e3f-cd72-2fa7681372ef
 ms.date: 06/08/2017
 ---

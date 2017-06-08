@@ -3,7 +3,7 @@ title: MailItem.BodyFormat Property (Outlook)
 keywords: vbaol11.chm1372
 f1_keywords:
 - vbaol11.chm1372
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.BodyFormat
 ms.assetid: f635a0bc-20b7-206c-f558-a4ca2519670f

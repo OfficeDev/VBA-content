@@ -3,7 +3,7 @@ title: "How to: Add and Remove Items from a List Box"
 keywords: olfm10.chm3077205
 f1_keywords:
 - olfm10.chm3077205
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4cff205b-4a15-d528-6ebd-adca6711a4d4
 ms.date: 06/08/2017
 ---

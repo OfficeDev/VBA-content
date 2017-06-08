@@ -3,7 +3,7 @@ title: ContactsModule.Parent Property (Outlook)
 keywords: vbaol11.chm2835
 f1_keywords:
 - vbaol11.chm2835
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactsModule.Parent
 ms.assetid: a4a0d34e-2587-ea05-578c-17f0728d674f

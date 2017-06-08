@@ -1,6 +1,6 @@
 ---
 title: CommandButton.Accelerator Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 896f426a-6bc7-c6cc-96a0-eb0106b027f1
 ms.date: 06/08/2017
 ---

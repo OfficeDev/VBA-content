@@ -3,7 +3,7 @@ title: MailItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm1301
 f1_keywords:
 - vbaol11.chm1301
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ConversationTopic
 ms.assetid: d5625f97-3929-95e8-cdaf-6e555cdf9c2b

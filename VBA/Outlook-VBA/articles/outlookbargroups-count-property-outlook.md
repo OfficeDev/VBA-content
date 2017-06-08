@@ -3,7 +3,7 @@ title: OutlookBarGroups.Count Property (Outlook)
 keywords: vbaol11.chm350
 f1_keywords:
 - vbaol11.chm350
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Count
 ms.assetid: 28ec7a66-335f-b7ae-e066-404ee070e0e9

@@ -1,6 +1,6 @@
 ---
 title: SharingItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AttachmentRead
 ms.assetid: 84374993-a9f6-2741-e644-09030e09eb70

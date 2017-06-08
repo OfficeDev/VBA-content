@@ -3,7 +3,7 @@ title: NoteItem.Saved Property (Outlook)
 keywords: vbaol11.chm1487
 f1_keywords:
 - vbaol11.chm1487
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Saved
 ms.assetid: cadc58cf-68d9-bed5-c15f-dbe508967014

@@ -3,7 +3,7 @@ title: MailItem.ToDoTaskOrdinal Property (Outlook)
 keywords: vbaol11.chm3038
 f1_keywords:
 - vbaol11.chm3038
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ToDoTaskOrdinal
 ms.assetid: d1ccb01a-0792-3779-3f94-eb5195a39bb0

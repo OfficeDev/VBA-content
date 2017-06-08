@@ -3,7 +3,7 @@ title: CardView.SaveOption Property (Outlook)
 keywords: vbaol11.chm2591
 f1_keywords:
 - vbaol11.chm2591
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.SaveOption
 ms.assetid: 7b649142-2a4d-d9b6-e822-828d61cd01aa

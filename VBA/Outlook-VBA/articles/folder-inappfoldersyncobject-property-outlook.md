@@ -3,7 +3,7 @@ title: Folder.InAppFolderSyncObject Property (Outlook)
 keywords: vbaol11.chm2008
 f1_keywords:
 - vbaol11.chm2008
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.InAppFolderSyncObject
 ms.assetid: d9e94fb7-add5-65d5-d2bc-e23bdfa11078

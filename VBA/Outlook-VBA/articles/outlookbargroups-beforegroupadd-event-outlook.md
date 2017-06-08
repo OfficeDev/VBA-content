@@ -3,7 +3,7 @@ title: OutlookBarGroups.BeforeGroupAdd Event (Outlook)
 keywords: vbaol11.chm356
 f1_keywords:
 - vbaol11.chm356
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.BeforeGroupAdd
 ms.assetid: 7bce246a-69fa-0dcd-4c43-fbfc43385864

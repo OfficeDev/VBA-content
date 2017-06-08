@@ -3,7 +3,7 @@ title: JournalItem.GetConversation Method (Outlook)
 keywords: vbaol11.chm3405
 f1_keywords:
 - vbaol11.chm3405
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.GetConversation
 ms.assetid: 46879e76-46e1-0553-3c55-9b7eaf13fdb4

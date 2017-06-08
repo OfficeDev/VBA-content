@@ -1,6 +1,6 @@
 ---
 title: Create an Outlook Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c2674dd0-f033-ecea-3262-8b591acab784
 ms.date: 06/08/2017
 ---

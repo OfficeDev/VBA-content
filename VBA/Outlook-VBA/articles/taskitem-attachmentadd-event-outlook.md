@@ -1,6 +1,6 @@
 ---
 title: TaskItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.AttachmentAdd
 ms.assetid: 989c0e3c-ad11-8017-3b0f-f5e3636c3de6

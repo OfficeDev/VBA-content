@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.Importance Property (Outlook)
 keywords: vbaol11.chm1835
 f1_keywords:
 - vbaol11.chm1835
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Importance
 ms.assetid: fa51f1eb-0dc1-4d88-04ef-cabf280a6b00

@@ -1,6 +1,6 @@
 ---
 title: ComboBox.MousePointer Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 17e6cb42-939c-2d2b-1cea-62cf4a35232d
 ms.date: 06/08/2017
 ---

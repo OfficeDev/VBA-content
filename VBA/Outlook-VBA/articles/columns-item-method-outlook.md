@@ -3,7 +3,7 @@ title: Columns.Item Method (Outlook)
 keywords: vbaol11.chm2740
 f1_keywords:
 - vbaol11.chm2740
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Columns.Item
 ms.assetid: d9abb503-32ea-d98b-bc43-d818c8b72883

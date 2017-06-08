@@ -3,7 +3,7 @@ title: IconView.GoToDate Method (Outlook)
 keywords: vbaol11.chm2573
 f1_keywords:
 - vbaol11.chm2573
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.GoToDate
 ms.assetid: aef21294-fddd-0dac-fdf1-262e7f28623b

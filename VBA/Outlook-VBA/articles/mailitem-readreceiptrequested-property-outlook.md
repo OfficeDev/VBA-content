@@ -3,7 +3,7 @@ title: MailItem.ReadReceiptRequested Property (Outlook)
 keywords: vbaol11.chm1340
 f1_keywords:
 - vbaol11.chm1340
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReadReceiptRequested
 ms.assetid: 5b8d5283-b2fc-4b01-6ccb-b8ac6c7c617e

@@ -3,7 +3,7 @@ title: ContactItem.BillingInformation Property (Outlook)
 keywords: vbaol11.chm932
 f1_keywords:
 - vbaol11.chm932
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BillingInformation
 ms.assetid: c41719c5-0f26-aa0a-754c-c72127c88e00

@@ -3,7 +3,7 @@ title: Conversation.GetParent Method (Outlook)
 keywords: vbaol11.chm3401
 f1_keywords:
 - vbaol11.chm3401
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conversation.GetParent
 ms.assetid: edcd31fb-f62e-4273-f827-ac1f704adc5e

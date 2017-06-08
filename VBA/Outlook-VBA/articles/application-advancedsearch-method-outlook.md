@@ -3,7 +3,7 @@ title: Application.AdvancedSearch Method (Outlook)
 keywords: vbaol11.chm728
 f1_keywords:
 - vbaol11.chm728
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.AdvancedSearch
 ms.assetid: 7b433d8b-08b9-dff1-b854-287d76b47a90

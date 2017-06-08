@@ -3,7 +3,7 @@ title: Frame.VerticalScrollBarSide Property (Outlook Forms Script)
 keywords: olfm10.chm2002190
 f1_keywords:
 - olfm10.chm2002190
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0e15a73b-2202-4b77-8306-2992553f2ce0
 ms.date: 06/08/2017
 ---

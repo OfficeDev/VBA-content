@@ -3,7 +3,7 @@ title: IconView.Copy Method (Outlook)
 keywords: vbaol11.chm2562
 f1_keywords:
 - vbaol11.chm2562
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Copy
 ms.assetid: aa0c2905-766b-55d7-db32-07caffd03815

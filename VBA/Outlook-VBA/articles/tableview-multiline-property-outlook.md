@@ -3,7 +3,7 @@ title: TableView.MultiLine Property (Outlook)
 keywords: vbaol11.chm2524
 f1_keywords:
 - vbaol11.chm2524
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Multiline
 ms.assetid: 732b39ca-ec7f-5a43-db55-3351a368b599

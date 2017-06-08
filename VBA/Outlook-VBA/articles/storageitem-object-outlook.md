@@ -3,7 +3,7 @@ title: StorageItem Object (Outlook)
 keywords: vbaol11.chm3017
 f1_keywords:
 - vbaol11.chm3017
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem
 ms.assetid: 41776bc3-b838-2755-fd6b-3b5012fb9ae5

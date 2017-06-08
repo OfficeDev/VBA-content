@@ -1,6 +1,6 @@
 ---
 title: Frame Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2af42a27-046d-4b5c-8112-0350fcffb7d6
 ms.date: 06/08/2017
 ---

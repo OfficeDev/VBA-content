@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1860
 f1_keywords:
 - vbaol11.chm1860
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.ShowCategoriesDialog
 ms.assetid: ddf0da8c-d22a-47ba-2e36-235e18caec96

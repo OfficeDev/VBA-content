@@ -3,7 +3,7 @@ title: OlkTimeControl.KeyDown Event (Outlook)
 keywords: vbaol11.chm1000408
 f1_keywords:
 - vbaol11.chm1000408
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.KeyDown
 ms.assetid: 1214ffd2-033e-13bb-309e-254d98f903c0

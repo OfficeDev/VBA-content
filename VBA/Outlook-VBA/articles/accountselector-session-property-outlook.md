@@ -3,7 +3,7 @@ title: AccountSelector.Session Property (Outlook)
 keywords: vbaol11.chm3451
 f1_keywords:
 - vbaol11.chm3451
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountSelector.Session
 ms.assetid: aca5ce47-5597-8bb3-588b-0c58d704b158

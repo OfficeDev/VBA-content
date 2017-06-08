@@ -1,6 +1,6 @@
 ---
 title: MailItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.AttachmentAdd
 ms.assetid: ae95c10b-f8dc-0341-4153-c7805d973df9

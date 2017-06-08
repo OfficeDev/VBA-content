@@ -1,6 +1,6 @@
 ---
 title: TaskRequestAcceptItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.AttachmentRead
 ms.assetid: 2e43ecc4-47da-3047-8c7e-d0454b987b42

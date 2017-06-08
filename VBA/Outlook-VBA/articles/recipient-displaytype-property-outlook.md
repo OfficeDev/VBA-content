@@ -3,7 +3,7 @@ title: Recipient.DisplayType Property (Outlook)
 keywords: vbaol11.chm2347
 f1_keywords:
 - vbaol11.chm2347
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.DisplayType
 ms.assetid: 1109138d-ef1b-deec-13cc-8443d03e825c

@@ -3,7 +3,7 @@ title: MeetingItem.GetConversation Method (Outlook)
 keywords: vbaol11.chm3406
 f1_keywords:
 - vbaol11.chm3406
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.GetConversation
 ms.assetid: 0ff1d250-a791-4438-4b3a-112b76a18ea8

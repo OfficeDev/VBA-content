@@ -3,7 +3,7 @@ title: MeetingItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1413
 f1_keywords:
 - vbaol11.chm1413
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.GetInspector
 ms.assetid: 5e170a6a-6857-ca24-4c14-1e2bc046fd2d

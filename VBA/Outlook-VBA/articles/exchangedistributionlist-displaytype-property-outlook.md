@@ -3,7 +3,7 @@ title: ExchangeDistributionList.DisplayType Property (Outlook)
 keywords: vbaol11.chm2113
 f1_keywords:
 - vbaol11.chm2113
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.DisplayType
 ms.assetid: e75c09e0-6acc-92cc-51a2-d43c13dd85c4

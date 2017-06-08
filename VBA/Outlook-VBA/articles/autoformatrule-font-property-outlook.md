@@ -3,7 +3,7 @@ title: AutoFormatRule.Font Property (Outlook)
 keywords: vbaol11.chm2710
 f1_keywords:
 - vbaol11.chm2710
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRule.Font
 ms.assetid: 25cd0b69-fb9d-5e48-a14d-686037490839

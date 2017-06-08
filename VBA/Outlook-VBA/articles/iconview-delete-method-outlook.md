@@ -3,7 +3,7 @@ title: IconView.Delete Method (Outlook)
 keywords: vbaol11.chm2563
 f1_keywords:
 - vbaol11.chm2563
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Delete
 ms.assetid: fa5ea9eb-3eb9-6617-d4e4-76b06e6dfa96

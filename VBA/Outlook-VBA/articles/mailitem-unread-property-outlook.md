@@ -3,7 +3,7 @@ title: MailItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1318
 f1_keywords:
 - vbaol11.chm1318
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.UnRead
 ms.assetid: af6058cb-abcf-8e77-a5f5-1402addcb333

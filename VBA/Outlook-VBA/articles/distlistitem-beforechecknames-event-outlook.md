@@ -1,6 +1,6 @@
 ---
 title: DistListItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeCheckNames
 ms.assetid: 4edd73b3-9f5e-1ac9-0d7f-4b79ed3a1840

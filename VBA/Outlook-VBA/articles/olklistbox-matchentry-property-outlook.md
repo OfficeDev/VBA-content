@@ -3,7 +3,7 @@ title: OlkListBox.MatchEntry Property (Outlook)
 keywords: vbaol11.chm1000258
 f1_keywords:
 - vbaol11.chm1000258
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.MatchEntry
 ms.assetid: 356d3bf5-aee6-5085-a7b5-5d2dbb8d1335

@@ -3,7 +3,7 @@ title: DistListItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1123
 f1_keywords:
 - vbaol11.chm1123
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.EntryID
 ms.assetid: 86271ffc-a395-e258-4aea-e9077d680664

@@ -3,7 +3,7 @@ title: NoteItem.Parent Property (Outlook)
 keywords: vbaol11.chm1476
 f1_keywords:
 - vbaol11.chm1476
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Parent
 ms.assetid: 452ba1db-d307-9baf-5f82-46a423fa501d

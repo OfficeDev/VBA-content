@@ -3,7 +3,7 @@ title: OlkComboBox.Change Event (Outlook)
 keywords: vbaol11.chm1000245
 f1_keywords:
 - vbaol11.chm1000245
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Change
 ms.assetid: bf283711-32d8-4cfc-f861-12ed2f38bcfa

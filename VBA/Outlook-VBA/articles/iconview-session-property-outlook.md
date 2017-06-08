@@ -3,7 +3,7 @@ title: IconView.Session Property (Outlook)
 keywords: vbaol11.chm2559
 f1_keywords:
 - vbaol11.chm2559
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.Session
 ms.assetid: 456b7396-f69c-57bb-1e71-cfc26b9e5613

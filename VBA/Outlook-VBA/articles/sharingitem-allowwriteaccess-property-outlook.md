@@ -3,7 +3,7 @@ title: SharingItem.AllowWriteAccess Property (Outlook)
 keywords: vbaol11.chm700
 f1_keywords:
 - vbaol11.chm700
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AllowWriteAccess
 ms.assetid: 538c9681-d164-52ff-eb8b-4ae0c6875247

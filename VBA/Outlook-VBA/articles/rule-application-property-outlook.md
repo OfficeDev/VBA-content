@@ -3,7 +3,7 @@ title: Rule.Application Property (Outlook)
 keywords: vbaol11.chm2164
 f1_keywords:
 - vbaol11.chm2164
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.Application
 ms.assetid: 8c21ce34-b206-315c-16ff-e27bfc606d85

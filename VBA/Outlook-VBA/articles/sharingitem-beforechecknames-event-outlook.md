@@ -1,6 +1,6 @@
 ---
 title: SharingItem.BeforeCheckNames Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeCheckNames
 ms.assetid: f6e787a5-dad1-6d4e-119f-1d0f07133a83

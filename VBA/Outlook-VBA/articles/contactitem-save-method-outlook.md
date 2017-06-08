@@ -3,7 +3,7 @@ title: ContactItem.Save Method (Outlook)
 keywords: vbaol11.chm962
 f1_keywords:
 - vbaol11.chm962
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Save
 ms.assetid: 1f7e998f-be59-6a50-95b5-cb066adbb278

@@ -3,7 +3,7 @@ title: Item-Level Events
 keywords: olfm10.chm3077126
 f1_keywords:
 - olfm10.chm3077126
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2f90bac7-4256-4675-c5b0-15cc2bdf9046
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OlkCheckBox.Caption Property (Outlook)
 keywords: vbaol11.chm1000138
 f1_keywords:
 - vbaol11.chm1000138
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Caption
 ms.assetid: 19480d82-3cd7-257f-3f5e-a669650cfffe

@@ -1,6 +1,6 @@
 ---
 title: SpinButton.Delay Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 84a38d62-6db1-8a1b-ac91-40e199ca5d3f
 ms.date: 06/08/2017
 ---

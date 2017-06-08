@@ -3,7 +3,7 @@ title: ContactItem.User3 Property (Outlook)
 keywords: vbaol11.chm1072
 f1_keywords:
 - vbaol11.chm1072
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.User3
 ms.assetid: feac1ac5-9598-7183-7262-6f28e23efaaa

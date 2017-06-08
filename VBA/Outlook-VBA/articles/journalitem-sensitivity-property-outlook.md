@@ -3,7 +3,7 @@ title: JournalItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm1252
 f1_keywords:
 - vbaol11.chm1252
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Sensitivity
 ms.assetid: 3715ceb8-4cb5-672f-b666-0b9bb0ebee4d

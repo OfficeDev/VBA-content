@@ -1,6 +1,6 @@
 ---
 title: ContactItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AttachmentRemove
 ms.assetid: e7080603-d978-aeb8-a50c-1bcc53504422

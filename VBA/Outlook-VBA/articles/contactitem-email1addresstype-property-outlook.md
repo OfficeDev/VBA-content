@@ -3,7 +3,7 @@ title: ContactItem.Email1AddressType Property (Outlook)
 keywords: vbaol11.chm992
 f1_keywords:
 - vbaol11.chm992
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Email1AddressType
 ms.assetid: f498f1be-713c-7d86-28c8-fbeb6b1d3f6d

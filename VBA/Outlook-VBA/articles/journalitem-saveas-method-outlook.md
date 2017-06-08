@@ -3,7 +3,7 @@ title: JournalItem.SaveAs Method (Outlook)
 keywords: vbaol11.chm1264
 f1_keywords:
 - vbaol11.chm1264
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.SaveAs
 ms.assetid: f23ffcb6-8c08-1dc0-d491-6389303934ec

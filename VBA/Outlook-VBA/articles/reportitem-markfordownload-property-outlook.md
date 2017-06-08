@@ -3,7 +3,7 @@ title: ReportItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm1676
 f1_keywords:
 - vbaol11.chm1676
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.MarkForDownload
 ms.assetid: 6abf44c2-975d-90ca-986f-f1d8b7c1ba6b

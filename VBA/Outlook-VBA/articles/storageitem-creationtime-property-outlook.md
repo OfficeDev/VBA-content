@@ -3,7 +3,7 @@ title: StorageItem.CreationTime Property (Outlook)
 keywords: vbaol11.chm3237
 f1_keywords:
 - vbaol11.chm3237
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.CreationTime
 ms.assetid: d9104584-97db-9a74-208b-cf5c2cd48b2c

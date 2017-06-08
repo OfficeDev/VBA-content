@@ -1,6 +1,6 @@
 ---
 title: OlxDefaultFolders Enumeration (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 92411a91-9b80-f283-a46b-19d2b9a6562e
 ms.date: 06/08/2017
 ---

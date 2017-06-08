@@ -1,6 +1,6 @@
 ---
 title: Use an Add-in to Specify Icons for a Form Region
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7d542c9b-1881-780a-b58d-e34639399b60
 ms.date: 06/08/2017
 ---

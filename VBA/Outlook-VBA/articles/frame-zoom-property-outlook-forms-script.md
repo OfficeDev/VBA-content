@@ -3,7 +3,7 @@ title: Frame.Zoom Property (Outlook Forms Script)
 keywords: olfm10.chm2002240
 f1_keywords:
 - olfm10.chm2002240
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a4f67386-1300-c13c-433c-e60434180a9c
 ms.date: 06/08/2017
 ---

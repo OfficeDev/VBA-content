@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.Change Event (Outlook)
 keywords: vbaol11.chm1000526
 f1_keywords:
 - vbaol11.chm1000526
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Change
 ms.assetid: 3afbd91d-6b14-4f0b-14dc-9ed266704876

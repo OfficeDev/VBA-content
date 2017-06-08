@@ -1,6 +1,6 @@
 ---
 title: SharingItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Reply
 ms.assetid: 5cfc04d3-a65b-73e1-e91c-3e5a90e75c03

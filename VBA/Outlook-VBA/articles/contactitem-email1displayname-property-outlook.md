@@ -3,7 +3,7 @@ title: ContactItem.Email1DisplayName Property (Outlook)
 keywords: vbaol11.chm993
 f1_keywords:
 - vbaol11.chm993
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Email1DisplayName
 ms.assetid: 71a7e227-f462-9dae-1315-dfe445c2329c

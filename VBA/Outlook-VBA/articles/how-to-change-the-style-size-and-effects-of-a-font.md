@@ -3,7 +3,7 @@ title: "How to: Change the Style, Size, and Effects of a Font"
 keywords: olfm10.chm3077158
 f1_keywords:
 - olfm10.chm3077158
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 17225340-8da2-69b8-3255-d6c925f16aaf
 ms.date: 06/08/2017
 ---

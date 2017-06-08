@@ -3,7 +3,7 @@ title: ContactItem.OtherFaxNumber Property (Outlook)
 keywords: vbaol11.chm1056
 f1_keywords:
 - vbaol11.chm1056
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.OtherFaxNumber
 ms.assetid: 9e0d701e-874f-6cd8-dae5-4b7a0b5f5744

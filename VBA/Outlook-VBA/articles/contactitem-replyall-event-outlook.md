@@ -1,6 +1,6 @@
 ---
 title: ContactItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReplyAll
 ms.assetid: 380f187f-e914-5810-baaf-07473f1719f1

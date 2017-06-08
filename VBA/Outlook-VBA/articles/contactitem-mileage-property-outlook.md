@@ -3,7 +3,7 @@ title: ContactItem.Mileage Property (Outlook)
 keywords: vbaol11.chm946
 f1_keywords:
 - vbaol11.chm946
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Mileage
 ms.assetid: 8c88b294-8c43-386c-36c4-749377862938

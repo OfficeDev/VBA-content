@@ -1,6 +1,6 @@
 ---
 title: DocumentItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.ReplyAll
 ms.assetid: b60ee051-6fb7-3572-e359-57093495adb2

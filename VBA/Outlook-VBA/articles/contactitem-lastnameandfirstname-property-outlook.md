@@ -3,7 +3,7 @@ title: ContactItem.LastNameAndFirstName Property (Outlook)
 keywords: vbaol11.chm1033
 f1_keywords:
 - vbaol11.chm1033
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastNameAndFirstName
 ms.assetid: 7667650d-3da9-8a30-63d5-2d6b0d55ccb7

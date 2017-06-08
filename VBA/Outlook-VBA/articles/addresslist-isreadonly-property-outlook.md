@@ -3,7 +3,7 @@ title: AddressList.IsReadOnly Property (Outlook)
 keywords: vbaol11.chm2030
 f1_keywords:
 - vbaol11.chm2030
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressList.IsReadOnly
 ms.assetid: 45d40efc-08c0-e2d7-572a-a5e60efb7d2f

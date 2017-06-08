@@ -1,6 +1,6 @@
 ---
 title: Using Macros to Customize Outlook
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3667798a-0398-466c-8fde-206f71fed5a1
 ms.date: 06/08/2017
 ---

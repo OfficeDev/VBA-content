@@ -3,7 +3,7 @@ title: NameSpace.OptionsPagesAdd Event (Outlook)
 keywords: vbaol11.chm319
 f1_keywords:
 - vbaol11.chm319
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.OptionsPagesAdd
 ms.assetid: 3f4920bd-ab22-90a7-490a-67122dac6c51

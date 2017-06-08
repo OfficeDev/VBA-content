@@ -3,7 +3,7 @@ title: Inspector.SetControlItemProperty Method (Outlook)
 keywords: vbaol11.chm2980
 f1_keywords:
 - vbaol11.chm2980
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.SetControlItemProperty
 ms.assetid: 90bb0dbf-c47e-9d75-182c-59c3e2384db2

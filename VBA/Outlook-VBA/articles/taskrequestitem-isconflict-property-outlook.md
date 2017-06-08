@@ -3,7 +3,7 @@ title: TaskRequestItem.IsConflict Property (Outlook)
 keywords: vbaol11.chm1912
 f1_keywords:
 - vbaol11.chm1912
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.IsConflict
 ms.assetid: d2ab2c17-ba99-1958-38b7-27529cc498e9

@@ -3,7 +3,7 @@ title: Results.ItemRemove Event (Outlook)
 keywords: vbaol11.chm516
 f1_keywords:
 - vbaol11.chm516
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.ItemRemove
 ms.assetid: 95f59319-3182-5b2e-977f-d61512106090

@@ -3,7 +3,7 @@ title: OlkBusinessCardControl.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000330
 f1_keywords:
 - vbaol11.chm1000330
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl.MouseDown
 ms.assetid: 24f259e0-911e-0a45-504b-acb759c5168f

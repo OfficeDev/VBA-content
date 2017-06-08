@@ -3,7 +3,7 @@ title: SolutionsModule.Visible Property (Outlook)
 keywords: vbaol11.chm3367
 f1_keywords:
 - vbaol11.chm3367
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Visible
 ms.assetid: 4f4d15e5-fb5a-e586-5695-3f0aeea216b2

@@ -3,7 +3,7 @@ title: OlkOptionButton.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000174
 f1_keywords:
 - vbaol11.chm1000174
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.MousePointer
 ms.assetid: b539a4bb-4ffc-aff1-eafb-cca7a90a05a7

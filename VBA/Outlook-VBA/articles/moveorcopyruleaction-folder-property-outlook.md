@@ -3,7 +3,7 @@ title: MoveOrCopyRuleAction.Folder Property (Outlook)
 keywords: vbaol11.chm2214
 f1_keywords:
 - vbaol11.chm2214
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MoveOrCopyRuleAction.Folder
 ms.assetid: d9588bab-c863-428f-0bbe-289f0981ff0f

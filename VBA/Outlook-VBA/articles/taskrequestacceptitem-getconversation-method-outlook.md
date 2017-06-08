@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.GetConversation Method (Outlook)
 keywords: vbaol11.chm3500
 f1_keywords:
 - vbaol11.chm3500
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.GetConversation
 ms.assetid: bf64cf33-ce6d-a37a-09e4-f2970f669983

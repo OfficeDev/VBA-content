@@ -3,7 +3,7 @@ title: Categories.Remove Method (Outlook)
 keywords: vbaol11.chm2438
 f1_keywords:
 - vbaol11.chm2438
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Categories.Remove
 ms.assetid: 8c16b02e-0297-9f36-7cb7-20e6ab0c286b

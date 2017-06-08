@@ -3,7 +3,7 @@ title: OlActionResponseStyle Enumeration (Outlook)
 keywords: vbaol11.chm3050
 f1_keywords:
 - vbaol11.chm3050
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlActionResponseStyle
 ms.assetid: 9981a41c-57e4-b981-e245-075811a10cdc

@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AfterWrite
 ms.assetid: e63e0d48-f3cd-4c3b-1ef9-4a9a83a34a32

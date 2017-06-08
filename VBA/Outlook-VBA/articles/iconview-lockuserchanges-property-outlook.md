@@ -3,7 +3,7 @@ title: IconView.LockUserChanges Property (Outlook)
 keywords: vbaol11.chm2567
 f1_keywords:
 - vbaol11.chm2567
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.IconView.LockUserChanges
 ms.assetid: 53d42f7f-3fb0-2a3f-7431-f21fb43820d1

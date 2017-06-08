@@ -3,7 +3,7 @@ title: ContactItem.BusinessAddress Property (Outlook)
 keywords: vbaol11.chm970
 f1_keywords:
 - vbaol11.chm970
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessAddress
 ms.assetid: 840e40ed-6773-3ef0-d17a-471921415bf9

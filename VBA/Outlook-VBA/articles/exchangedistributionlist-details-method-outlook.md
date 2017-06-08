@@ -3,7 +3,7 @@ title: ExchangeDistributionList.Details Method (Outlook)
 keywords: vbaol11.chm2121
 f1_keywords:
 - vbaol11.chm2121
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Details
 ms.assetid: e1d3a324-1a2b-54e2-641a-f7d37aa37358

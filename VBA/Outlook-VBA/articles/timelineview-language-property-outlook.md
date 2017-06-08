@@ -3,7 +3,7 @@ title: TimelineView.Language Property (Outlook)
 keywords: vbaol11.chm2651
 f1_keywords:
 - vbaol11.chm2651
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Language
 ms.assetid: 6c213b89-ddb2-2b5a-637a-55953b42abd3

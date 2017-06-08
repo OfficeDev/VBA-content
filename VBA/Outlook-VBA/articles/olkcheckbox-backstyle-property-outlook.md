@@ -3,7 +3,7 @@ title: OlkCheckBox.BackStyle Property (Outlook)
 keywords: vbaol11.chm1000137
 f1_keywords:
 - vbaol11.chm1000137
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.BackStyle
 ms.assetid: 362e42bc-6169-31cc-8c6f-072d956da095

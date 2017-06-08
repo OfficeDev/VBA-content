@@ -3,7 +3,7 @@ title: Explorers.NewExplorer Event (Outlook)
 keywords: vbaol11.chm306
 f1_keywords:
 - vbaol11.chm306
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorers.NewExplorer
 ms.assetid: 701409f3-ead3-2707-b3de-baa053e8d5c2

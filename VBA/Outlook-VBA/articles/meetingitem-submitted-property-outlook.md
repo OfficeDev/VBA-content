@@ -3,7 +3,7 @@ title: MeetingItem.Submitted Property (Outlook)
 keywords: vbaol11.chm1453
 f1_keywords:
 - vbaol11.chm1453
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Submitted
 ms.assetid: 195c6188-eaab-3319-0b69-641d273b406f

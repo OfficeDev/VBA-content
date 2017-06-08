@@ -3,7 +3,7 @@ title: View.Session Property (Outlook)
 keywords: vbaol11.chm2482
 f1_keywords:
 - vbaol11.chm2482
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Session
 ms.assetid: 32c6c27e-2351-c10c-47cd-bcca06d25660

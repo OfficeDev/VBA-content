@@ -3,7 +3,7 @@ title: UserDefinedProperties.Remove Method (Outlook)
 keywords: vbaol11.chm590
 f1_keywords:
 - vbaol11.chm590
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Remove
 ms.assetid: 69bfb78a-0add-2c28-99e5-50a6686c7790

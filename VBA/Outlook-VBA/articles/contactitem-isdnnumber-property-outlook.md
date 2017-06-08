@@ -3,7 +3,7 @@ title: ContactItem.ISDNNumber Property (Outlook)
 keywords: vbaol11.chm1023
 f1_keywords:
 - vbaol11.chm1023
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ISDNNumber
 ms.assetid: 98e27ef6-0af7-948c-8f62-49bc01d42c11

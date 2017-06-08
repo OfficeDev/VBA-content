@@ -3,7 +3,7 @@ title: Attachment.SaveAsFile Method (Outlook)
 keywords: vbaol11.chm2373
 f1_keywords:
 - vbaol11.chm2373
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachment.SaveAsFile
 ms.assetid: d755261a-d551-f3a1-1b20-d87d4d9c38ae

@@ -3,7 +3,7 @@ title: OlkTextBox.Enter Event (Outlook)
 keywords: vbaol11.chm1000076
 f1_keywords:
 - vbaol11.chm1000076
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Enter
 ms.assetid: ddeab2d3-1dfa-3f49-4480-1234196afb4b

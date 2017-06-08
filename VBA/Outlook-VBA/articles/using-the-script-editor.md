@@ -3,7 +3,7 @@ title: Using the Script Editor
 keywords: olfm10.chm3077361
 f1_keywords:
 - olfm10.chm3077361
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a0640fdd-07a6-3aa9-8c39-9b53bafd485c
 ms.date: 06/08/2017
 ---

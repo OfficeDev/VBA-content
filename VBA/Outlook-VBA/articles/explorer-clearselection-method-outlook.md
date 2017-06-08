@@ -3,7 +3,7 @@ title: Explorer.ClearSelection Method (Outlook)
 keywords: vbaol11.chm3312
 f1_keywords:
 - vbaol11.chm3312
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.ClearSelection
 ms.assetid: 2809b5fb-961e-fb2a-a74d-fffa4484c838

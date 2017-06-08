@@ -1,6 +1,6 @@
 ---
 title: TaskRequestDeclineItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentAdd
 ms.assetid: f7cba638-fd4c-f7b0-44fc-e4985aa9c68d

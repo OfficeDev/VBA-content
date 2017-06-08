@@ -3,7 +3,7 @@ title: Application.IsSearchSynchronous Method (Outlook)
 keywords: vbaol11.chm729
 f1_keywords:
 - vbaol11.chm729
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.IsSearchSynchronous
 ms.assetid: cd757b43-5e3f-1504-9944-7431bda6f004

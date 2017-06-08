@@ -3,7 +3,7 @@ title: "How to: Allow the Null State for a Check Box and a Toggle Button"
 keywords: olfm10.chm3077261
 f1_keywords:
 - olfm10.chm3077261
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 75b3374d-6d96-3bcc-3e97-f0089f3fdd99
 ms.date: 06/08/2017
 ---

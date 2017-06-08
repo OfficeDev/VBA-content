@@ -3,7 +3,7 @@ title: DistListItem.ReminderOverrideDefault Property (Outlook)
 keywords: vbaol11.chm1173
 f1_keywords:
 - vbaol11.chm1173
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReminderOverrideDefault
 ms.assetid: 652e4cf9-9183-0940-4376-2a1ba4337bb5

@@ -3,7 +3,7 @@ title: JournalItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1282
 f1_keywords:
 - vbaol11.chm1282
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ShowCategoriesDialog
 ms.assetid: 3159ed4c-b272-764d-3ba7-ec5e7f8cd03e

@@ -3,7 +3,7 @@ title: UserProperty.Application Property (Outlook)
 keywords: vbaol11.chm213
 f1_keywords:
 - vbaol11.chm213
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperty.Application
 ms.assetid: 8796ad9a-dc97-72b4-9bcf-14cb9196335a

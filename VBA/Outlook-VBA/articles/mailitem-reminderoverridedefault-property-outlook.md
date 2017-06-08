@@ -3,7 +3,7 @@ title: MailItem.ReminderOverrideDefault Property (Outlook)
 keywords: vbaol11.chm1348
 f1_keywords:
 - vbaol11.chm1348
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReminderOverrideDefault
 ms.assetid: 78aaca38-6de7-9bc1-6539-74d7b03bfd54

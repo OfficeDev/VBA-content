@@ -3,7 +3,7 @@ title: MailItem.GetInspector Property (Outlook)
 keywords: vbaol11.chm1305
 f1_keywords:
 - vbaol11.chm1305
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.GetInspector
 ms.assetid: 9ba8bdbf-1dd5-eaff-3889-33433e3cb3fa

@@ -3,7 +3,7 @@ title: Recipient.Delete Method (Outlook)
 keywords: vbaol11.chm2356
 f1_keywords:
 - vbaol11.chm2356
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.Delete
 ms.assetid: 726577e1-b91d-0127-adb8-069a648ee220

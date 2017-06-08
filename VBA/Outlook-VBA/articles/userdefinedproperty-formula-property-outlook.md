@@ -3,7 +3,7 @@ title: UserDefinedProperty.Formula Property (Outlook)
 keywords: vbaol11.chm5
 f1_keywords:
 - vbaol11.chm5
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperty.Formula
 ms.assetid: 5cbf6147-4f54-dce1-7c25-52a3f18896db

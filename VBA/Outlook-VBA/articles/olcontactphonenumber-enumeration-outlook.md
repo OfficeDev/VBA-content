@@ -3,7 +3,7 @@ title: OlContactPhoneNumber Enumeration (Outlook)
 keywords: vbaol11.chm3150
 f1_keywords:
 - vbaol11.chm3150
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlContactPhoneNumber
 ms.assetid: 93be67bb-9b2d-05f9-edb5-1e9cf0061ccc

@@ -3,7 +3,7 @@ title: OlTaskDelegationState Enumeration (Outlook)
 keywords: vbaol11.chm3083
 f1_keywords:
 - vbaol11.chm3083
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlTaskDelegationState
 ms.assetid: c6374297-d9ec-dbd0-f6b3-5b8c95127f33

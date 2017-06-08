@@ -1,6 +1,6 @@
 ---
 title: Filtering
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 139ce3a5-8e8d-417c-be52-82ae4bfa9bf6
 ms.date: 06/08/2017
 ---

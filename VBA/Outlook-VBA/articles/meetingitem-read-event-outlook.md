@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Read
 ms.assetid: 8a83b213-1afb-7ded-eb67-3e5d21502c5b

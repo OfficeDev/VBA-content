@@ -3,7 +3,7 @@ title: TableView.GridLineStyle Property (Outlook)
 keywords: vbaol11.chm2528
 f1_keywords:
 - vbaol11.chm2528
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.GridLineStyle
 ms.assetid: b3a95e34-4d22-e208-255d-43fc2456f0e6

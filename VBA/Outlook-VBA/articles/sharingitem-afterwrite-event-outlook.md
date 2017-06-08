@@ -1,6 +1,6 @@
 ---
 title: SharingItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AfterWrite
 ms.assetid: a9eb761b-1d08-920a-31bd-76f2758ab67c

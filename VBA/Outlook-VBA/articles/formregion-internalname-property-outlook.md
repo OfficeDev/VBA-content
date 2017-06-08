@@ -3,7 +3,7 @@ title: FormRegion.InternalName Property (Outlook)
 keywords: vbaol11.chm2400
 f1_keywords:
 - vbaol11.chm2400
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormRegion.InternalName
 ms.assetid: 2478d44e-887c-c245-6cfa-70a6a1e2c828

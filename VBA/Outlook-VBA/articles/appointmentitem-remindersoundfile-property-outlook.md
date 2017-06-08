@@ -3,7 +3,7 @@ title: AppointmentItem.ReminderSoundFile Property (Outlook)
 keywords: vbaol11.chm896
 f1_keywords:
 - vbaol11.chm896
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReminderSoundFile
 ms.assetid: e3599e63-1300-7821-b94d-f8387a47e87d

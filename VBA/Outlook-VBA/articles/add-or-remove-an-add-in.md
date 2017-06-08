@@ -1,6 +1,6 @@
 ---
 title: Add or Remove an Add-in
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a3d7425b-014d-fedd-e1a7-7eb3069ae002
 ms.date: 06/08/2017
 ---

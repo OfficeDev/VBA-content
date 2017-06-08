@@ -3,7 +3,7 @@ title: SharingItem.SharingProvider Property (Outlook)
 keywords: vbaol11.chm699
 f1_keywords:
 - vbaol11.chm699
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SharingProvider
 ms.assetid: ce903565-3e07-677a-5e69-d77fc742a7fa

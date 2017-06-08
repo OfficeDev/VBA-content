@@ -3,7 +3,7 @@ title: OlDayWeekTimeScale Enumeration (Outlook)
 keywords: vbaol11.chm3127
 f1_keywords:
 - vbaol11.chm3127
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlDayWeekTimeScale
 ms.assetid: 9d594154-acf4-d4b4-fdb3-70f191ac638a

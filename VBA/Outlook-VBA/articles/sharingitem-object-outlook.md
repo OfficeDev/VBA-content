@@ -3,7 +3,7 @@ title: SharingItem Object (Outlook)
 keywords: vbaol11.chm3016
 f1_keywords:
 - vbaol11.chm3016
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem
 ms.assetid: 63dd3451-44f3-7cc4-c6e2-7dad5835a7d2

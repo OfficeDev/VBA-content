@@ -1,6 +1,6 @@
 ---
 title: TaskRequestUpdateItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Send
 ms.assetid: 5ae11d3f-67f8-3256-b26f-88a89bade5a1

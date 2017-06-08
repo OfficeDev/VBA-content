@@ -3,7 +3,7 @@ title: RecurrencePattern.Session Property (Outlook)
 keywords: vbaol11.chm271
 f1_keywords:
 - vbaol11.chm271
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Session
 ms.assetid: f30fce75-350c-6893-276a-47b19f211249

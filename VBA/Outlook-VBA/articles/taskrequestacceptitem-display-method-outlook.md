@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.Display Method (Outlook)
 keywords: vbaol11.chm1803
 f1_keywords:
 - vbaol11.chm1803
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Display
 ms.assetid: ce7bd313-7fc8-bddb-bc6c-221563fc5971

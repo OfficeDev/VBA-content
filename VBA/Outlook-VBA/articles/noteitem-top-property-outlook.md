@@ -3,7 +3,7 @@ title: NoteItem.Top Property (Outlook)
 keywords: vbaol11.chm1490
 f1_keywords:
 - vbaol11.chm1490
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Top
 ms.assetid: 74326198-880a-fe3f-df79-81be1748f7c4

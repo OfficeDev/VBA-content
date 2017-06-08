@@ -3,7 +3,7 @@ title: About Using VBScript in Outlook
 keywords: olfm10.chm3077140
 f1_keywords:
 - olfm10.chm3077140
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 7c393ab9-1fa6-f615-b4ca-74b15f708809
 ms.date: 06/08/2017
 ---

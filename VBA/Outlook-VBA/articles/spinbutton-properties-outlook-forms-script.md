@@ -1,6 +1,6 @@
 ---
 title: SpinButton Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 03d6b184-b8fd-4d43-a2e6-b351b66d82b6
 ms.date: 06/08/2017
 ---

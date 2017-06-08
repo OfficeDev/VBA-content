@@ -3,7 +3,7 @@ title: "How to: Use the Controls Collection to Move Controls on a Page"
 keywords: olfm10.chm3077149
 f1_keywords:
 - olfm10.chm3077149
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 19170632-76c6-3ca9-d7ea-f68323d878a6
 ms.date: 06/08/2017
 ---

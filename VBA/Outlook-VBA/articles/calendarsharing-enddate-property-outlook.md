@@ -3,7 +3,7 @@ title: CalendarSharing.EndDate Property (Outlook)
 keywords: vbaol11.chm2414
 f1_keywords:
 - vbaol11.chm2414
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.EndDate
 ms.assetid: 89358c71-7805-7acc-5afb-2ba7b592f9f2

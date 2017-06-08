@@ -3,7 +3,7 @@ title: Pages Object (Outlook)
 keywords: vbaol11.chm390
 f1_keywords:
 - vbaol11.chm390
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Pages
 ms.assetid: ed4dd77e-b339-7f43-d036-c02daa69d5b8

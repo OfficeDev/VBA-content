@@ -1,6 +1,6 @@
 ---
 title: Use a Custom Color for the Background or Foreground of a Control
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 25bd9ffc-ce15-5090-9b75-5b19c8ec8b5d
 ms.date: 06/08/2017
 ---

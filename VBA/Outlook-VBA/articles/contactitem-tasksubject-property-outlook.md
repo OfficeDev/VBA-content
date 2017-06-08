@@ -3,7 +3,7 @@ title: ContactItem.TaskSubject Property (Outlook)
 keywords: vbaol11.chm1099
 f1_keywords:
 - vbaol11.chm1099
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.TaskSubject
 ms.assetid: f80c702f-70fa-d7c4-fcc5-b85d802a8d40

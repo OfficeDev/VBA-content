@@ -3,7 +3,7 @@ title: PlaySoundRuleAction.Enabled Property (Outlook)
 keywords: vbaol11.chm2275
 f1_keywords:
 - vbaol11.chm2275
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction.Enabled
 ms.assetid: 7a8b222e-a9db-f38f-8f8b-a834ff46c39a

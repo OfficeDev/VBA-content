@@ -3,7 +3,7 @@ title: Account Object (Outlook)
 keywords: vbaol11.chm3153
 f1_keywords:
 - vbaol11.chm3153
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account
 ms.assetid: f624438c-4e45-2822-18b6-bfe8074a33c0

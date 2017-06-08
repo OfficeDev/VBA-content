@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.GroupBy Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 19daa0ac-f8b0-4c08-a8fd-d2f63797818f
 ms.date: 06/08/2017
 ---

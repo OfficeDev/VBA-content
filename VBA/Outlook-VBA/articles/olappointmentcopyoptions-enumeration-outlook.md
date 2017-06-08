@@ -3,7 +3,7 @@ title: OlAppointmentCopyOptions Enumeration (Outlook)
 keywords: vbaol11.chm3513
 f1_keywords:
 - vbaol11.chm3513
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlAppointmentCopyOptions
 ms.assetid: b2ea721d-f800-6102-c893-28f265e70b88

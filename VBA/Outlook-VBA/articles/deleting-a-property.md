@@ -1,6 +1,6 @@
 ---
 title: Deleting a Property
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 69d97b27-f60e-6c7a-36c8-a10986101219
 ms.date: 06/08/2017
 ---

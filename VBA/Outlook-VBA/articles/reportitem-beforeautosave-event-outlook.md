@@ -1,6 +1,6 @@
 ---
 title: ReportItem.BeforeAutoSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAutoSave
 ms.assetid: c3a2882c-ff82-39a1-3d18-5bf4f608b09e

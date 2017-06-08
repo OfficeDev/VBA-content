@@ -3,7 +3,7 @@ title: MailItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1313
 f1_keywords:
 - vbaol11.chm1313
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.OutlookVersion
 ms.assetid: c3ea9b11-9bf2-64c3-409b-3eb33129ae1a

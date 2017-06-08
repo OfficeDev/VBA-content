@@ -3,7 +3,7 @@ title: SyncObjects.Item Method (Outlook)
 keywords: vbaol11.chm100
 f1_keywords:
 - vbaol11.chm100
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObjects.Item
 ms.assetid: 44a2ffaf-6bb7-28dc-9d15-c9b87c1c62dd

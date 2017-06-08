@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.BeforeDelete Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeDelete
 ms.assetid: dc6944f6-e020-bdd7-0b64-98a3f3d2e94c

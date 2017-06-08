@@ -1,6 +1,6 @@
 ---
 title: Font.Strikethrough Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a64a3ee7-717e-c988-e2e4-200e8dfc3b38
 ms.date: 06/08/2017
 ---

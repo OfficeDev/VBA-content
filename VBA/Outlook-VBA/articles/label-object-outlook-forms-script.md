@@ -3,7 +3,7 @@ title: Label Object (Outlook Forms Script)
 keywords: olfm10.chm2000550
 f1_keywords:
 - olfm10.chm2000550
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 546cc9e1-90e9-3b29-88ac-02fcc75f8f29
 ms.date: 06/08/2017
 ---

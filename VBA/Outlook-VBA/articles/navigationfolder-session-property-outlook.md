@@ -3,7 +3,7 @@ title: NavigationFolder.Session Property (Outlook)
 keywords: vbaol11.chm2902
 f1_keywords:
 - vbaol11.chm2902
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.Session
 ms.assetid: f31a9538-4ebe-80f1-aa93-4d7de8e0bb7e

@@ -3,7 +3,7 @@ title: OutlookBarGroups.Item Method (Outlook)
 keywords: vbaol11.chm351
 f1_keywords:
 - vbaol11.chm351
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Item
 ms.assetid: 443bfb94-28c0-3977-8edd-e2630acd91be

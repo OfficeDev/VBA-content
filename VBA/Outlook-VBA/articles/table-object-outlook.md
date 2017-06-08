@@ -3,7 +3,7 @@ title: Table Object (Outlook)
 keywords: vbaol11.chm3166
 f1_keywords:
 - vbaol11.chm3166
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table
 ms.assetid: 0affaafd-93fe-227a-acee-e09a86cadc20

@@ -3,7 +3,7 @@ title: ContactItem.Birthday Property (Outlook)
 keywords: vbaol11.chm968
 f1_keywords:
 - vbaol11.chm968
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Birthday
 ms.assetid: d36f2719-8ccb-a6bf-457c-7430e9c26853

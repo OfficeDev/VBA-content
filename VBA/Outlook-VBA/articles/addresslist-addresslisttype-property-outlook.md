@@ -3,7 +3,7 @@ title: AddressList.AddressListType Property (Outlook)
 keywords: vbaol11.chm2033
 f1_keywords:
 - vbaol11.chm2033
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressList.AddressListType
 ms.assetid: 3a62cdec-3d8d-3bcf-b2c3-f9dd496fd6e0

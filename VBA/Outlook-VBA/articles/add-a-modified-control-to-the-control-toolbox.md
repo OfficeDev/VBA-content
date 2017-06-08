@@ -1,6 +1,6 @@
 ---
 title: Add a Modified Control to the Control Toolbox
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 74d751d0-e93d-557e-e878-1fce71b7143a
 ms.date: 06/08/2017
 ---

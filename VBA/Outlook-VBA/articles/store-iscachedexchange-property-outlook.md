@@ -3,7 +3,7 @@ title: Store.IsCachedExchange Property (Outlook)
 keywords: vbaol11.chm804
 f1_keywords:
 - vbaol11.chm804
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.IsCachedExchange
 ms.assetid: 2f3fbd5d-8cf1-5fdd-6074-f4da4216dcd4

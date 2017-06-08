@@ -3,7 +3,7 @@ title: RemoteItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm1593
 f1_keywords:
 - vbaol11.chm1593
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.ConversationTopic
 ms.assetid: e8f624d0-f7bb-7672-178d-80d6aa498858

@@ -3,7 +3,7 @@ title: Results.Application Property (Outlook)
 keywords: vbaol11.chm498
 f1_keywords:
 - vbaol11.chm498
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.Application
 ms.assetid: d2b34668-aed7-20b7-8b11-6f4dfa42982f

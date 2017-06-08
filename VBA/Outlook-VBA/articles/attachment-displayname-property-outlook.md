@@ -3,7 +3,7 @@ title: Attachment.DisplayName Property (Outlook)
 keywords: vbaol11.chm2365
 f1_keywords:
 - vbaol11.chm2365
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachment.DisplayName
 ms.assetid: 2321da5d-4aae-c483-f41e-03b35af80dd1

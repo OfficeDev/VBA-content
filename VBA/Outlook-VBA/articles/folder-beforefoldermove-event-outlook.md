@@ -3,7 +3,7 @@ title: Folder.BeforeFolderMove Event (Outlook)
 keywords: vbaol11.chm2751
 f1_keywords:
 - vbaol11.chm2751
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.BeforeFolderMove
 ms.assetid: c085f0cf-3d91-db84-aab9-18c7b46a04d2

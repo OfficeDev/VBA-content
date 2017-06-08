@@ -3,7 +3,7 @@ title: Account.DeliveryStore Property (Outlook)
 keywords: vbaol11.chm3423
 f1_keywords:
 - vbaol11.chm3423
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.DeliveryStore
 ms.assetid: 181d52ff-7c48-af7b-dbec-3562f1c8801b

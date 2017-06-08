@@ -1,6 +1,6 @@
 ---
 title: Specify Whether a Form Prompts the User, Opens, or is Sent
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 37026f13-322d-d435-48b0-ec488c346215
 ms.date: 06/08/2017
 ---

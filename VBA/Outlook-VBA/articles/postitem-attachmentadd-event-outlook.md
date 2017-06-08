@@ -1,6 +1,6 @@
 ---
 title: PostItem.AttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.AttachmentAdd
 ms.assetid: 962fb9c9-4273-862b-e7d4-9c3dd9711bbd

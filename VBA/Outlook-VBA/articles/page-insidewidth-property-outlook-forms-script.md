@@ -1,6 +1,6 @@
 ---
 title: Page.InsideWidth Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0f8eba1f-79cb-7d9b-990b-70e18e4f8558
 ms.date: 06/08/2017
 ---

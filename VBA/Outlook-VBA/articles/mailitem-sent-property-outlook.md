@@ -3,7 +3,7 @@ title: MailItem.Sent Property (Outlook)
 keywords: vbaol11.chm1358
 f1_keywords:
 - vbaol11.chm1358
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Sent
 ms.assetid: a064267f-9329-9018-aa09-c92e17ed46bd

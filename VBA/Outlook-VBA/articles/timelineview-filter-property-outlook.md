@@ -3,7 +3,7 @@ title: TimelineView.Filter Property (Outlook)
 keywords: vbaol11.chm2659
 f1_keywords:
 - vbaol11.chm2659
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Filter
 ms.assetid: 588f39bd-9bc2-4e11-3359-da75bfbff62d

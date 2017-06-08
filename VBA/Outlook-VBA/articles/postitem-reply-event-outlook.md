@@ -1,6 +1,6 @@
 ---
 title: PostItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Reply
 ms.assetid: 412fcf1a-fcb6-c559-7fab-7fad40720c24

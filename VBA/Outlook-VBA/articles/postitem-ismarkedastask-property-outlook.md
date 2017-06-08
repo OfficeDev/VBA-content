@@ -3,7 +3,7 @@ title: PostItem.IsMarkedAsTask Property (Outlook)
 keywords: vbaol11.chm3045
 f1_keywords:
 - vbaol11.chm3045
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.IsMarkedAsTask
 ms.assetid: a84195b3-8d6e-8842-6747-86977f4dfaad

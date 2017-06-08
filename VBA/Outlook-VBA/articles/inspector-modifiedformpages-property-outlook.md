@@ -3,7 +3,7 @@ title: Inspector.ModifiedFormPages Property (Outlook)
 keywords: vbaol11.chm2964
 f1_keywords:
 - vbaol11.chm2964
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.ModifiedFormPages
 ms.assetid: ac377d47-846a-1217-592f-7ed190b824ca

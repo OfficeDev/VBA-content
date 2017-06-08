@@ -3,7 +3,7 @@ title: Use the PropertyChange Event to Test Procedures
 keywords: olfm10.chm3077359
 f1_keywords:
 - olfm10.chm3077359
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9e0beb04-dc64-ad5d-ae77-8c11c11349b0
 ms.date: 06/08/2017
 ---

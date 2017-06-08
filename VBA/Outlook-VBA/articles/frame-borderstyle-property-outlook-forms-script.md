@@ -1,6 +1,6 @@
 ---
 title: Frame.BorderStyle Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f2e84e06-4b53-87d9-fe06-14505f38a0df
 ms.date: 06/08/2017
 ---

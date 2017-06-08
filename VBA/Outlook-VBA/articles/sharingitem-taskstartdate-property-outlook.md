@@ -3,7 +3,7 @@ title: SharingItem.TaskStartDate Property (Outlook)
 keywords: vbaol11.chm3220
 f1_keywords:
 - vbaol11.chm3220
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.TaskStartDate
 ms.assetid: 93fedab7-999e-4ee0-e65e-57d64ae02167

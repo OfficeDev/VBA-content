@@ -3,7 +3,7 @@ title: CardView.SortFields Property (Outlook)
 keywords: vbaol11.chm2597
 f1_keywords:
 - vbaol11.chm2597
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.SortFields
 ms.assetid: 619938a1-25aa-ffdf-01e1-9a12801245bd

@@ -3,7 +3,7 @@ title: ContactItem.HomeAddressState Property (Outlook)
 keywords: vbaol11.chm1017
 f1_keywords:
 - vbaol11.chm1017
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddressState
 ms.assetid: bc052902-1e38-3d6a-1b7b-308861357731

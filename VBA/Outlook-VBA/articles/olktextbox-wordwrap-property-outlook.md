@@ -3,7 +3,7 @@ title: OlkTextBox.WordWrap Property (Outlook)
 keywords: vbaol11.chm1000061
 f1_keywords:
 - vbaol11.chm1000061
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.WordWrap
 ms.assetid: 36dd3db9-449d-97b7-de68-3f53dbe472ef

@@ -3,7 +3,7 @@ title: TableView.Filter Property (Outlook)
 keywords: vbaol11.chm2516
 f1_keywords:
 - vbaol11.chm2516
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Filter
 ms.assetid: 7e65e578-5f0c-d875-608c-cefe9bc1b55b

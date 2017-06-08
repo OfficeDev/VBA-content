@@ -3,7 +3,7 @@ title: TimelineView.EndField Property (Outlook)
 keywords: vbaol11.chm2661
 f1_keywords:
 - vbaol11.chm2661
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.EndField
 ms.assetid: 7fef24ee-f96a-39e5-5b9a-9fe46ee7c627

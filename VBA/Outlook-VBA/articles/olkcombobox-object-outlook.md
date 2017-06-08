@@ -3,7 +3,7 @@ title: OlkComboBox Object (Outlook)
 keywords: vbaol11.chm1000249
 f1_keywords:
 - vbaol11.chm1000249
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox
 ms.assetid: 8d5e2f25-2962-af28-2523-b7b82473ea0a

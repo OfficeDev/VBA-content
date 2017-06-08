@@ -3,7 +3,7 @@ title: RuleActions.ForwardAsAttachment Property (Outlook)
 keywords: vbaol11.chm2194
 f1_keywords:
 - vbaol11.chm2194
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.ForwardAsAttachment
 ms.assetid: 9e2eb736-35d9-b17e-8d6d-c5105388f513

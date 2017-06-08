@@ -3,7 +3,7 @@ title: OlkSenderPhoto.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000488
 f1_keywords:
 - vbaol11.chm1000488
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.MouseMove
 ms.assetid: 8cf25c54-8216-26e5-c926-60a346b069fc

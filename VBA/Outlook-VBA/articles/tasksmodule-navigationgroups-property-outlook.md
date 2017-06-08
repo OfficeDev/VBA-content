@@ -3,7 +3,7 @@ title: TasksModule.NavigationGroups Property (Outlook)
 keywords: vbaol11.chm2850
 f1_keywords:
 - vbaol11.chm2850
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TasksModule.NavigationGroups
 ms.assetid: c80707ff-216c-083a-475b-6de95621b775

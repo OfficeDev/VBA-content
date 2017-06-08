@@ -3,7 +3,7 @@ title: CardView.Class Property (Outlook)
 keywords: vbaol11.chm2580
 f1_keywords:
 - vbaol11.chm2580
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.Class
 ms.assetid: f2459359-ac20-4e35-acd8-f7269d35f829

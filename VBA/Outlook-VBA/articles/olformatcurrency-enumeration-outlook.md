@@ -3,7 +3,7 @@ title: OlFormatCurrency Enumeration (Outlook)
 keywords: vbaol11.chm3132
 f1_keywords:
 - vbaol11.chm3132
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatCurrency
 ms.assetid: 8fd3dbad-66cc-fd76-ac88-54e5d7612a25

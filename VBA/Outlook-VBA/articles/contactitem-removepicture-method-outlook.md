@@ -3,7 +3,7 @@ title: ContactItem.RemovePicture Method (Outlook)
 keywords: vbaol11.chm1091
 f1_keywords:
 - vbaol11.chm1091
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.RemovePicture
 ms.assetid: a67d9d39-1697-0780-b52f-a3cc463f60d9

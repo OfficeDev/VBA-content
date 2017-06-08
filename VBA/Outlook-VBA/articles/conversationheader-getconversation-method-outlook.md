@@ -3,7 +3,7 @@ title: ConversationHeader.GetConversation Method (Outlook)
 keywords: vbaol11.chm3541
 f1_keywords:
 - vbaol11.chm3541
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.GetConversation
 ms.assetid: c6a98d31-9973-1e75-3aa6-edb37d82d7d1

@@ -3,7 +3,7 @@ title: TaskRequestItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1909
 f1_keywords:
 - vbaol11.chm1909
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.ShowCategoriesDialog
 ms.assetid: 79912271-14fe-4a9f-d3f2-553f0116fcb9

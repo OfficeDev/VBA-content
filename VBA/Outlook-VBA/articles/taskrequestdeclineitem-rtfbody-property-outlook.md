@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.RTFBody Property (Outlook)
 keywords: vbaol11.chm3538
 f1_keywords:
 - vbaol11.chm3538
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.RTFBody
 ms.assetid: f2a072e8-f180-7e51-a5cd-8850e54a4f8a

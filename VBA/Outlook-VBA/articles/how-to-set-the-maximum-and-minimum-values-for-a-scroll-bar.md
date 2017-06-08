@@ -3,7 +3,7 @@ title: "How to: Set the Maximum and Minimum Values for a Scroll Bar"
 keywords: olfm10.chm3077214
 f1_keywords:
 - olfm10.chm3077214
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 45312fc9-6c40-2dcc-175c-2a64ea635cc8
 ms.date: 06/08/2017
 ---

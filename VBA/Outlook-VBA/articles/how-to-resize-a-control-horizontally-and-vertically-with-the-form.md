@@ -3,7 +3,7 @@ title: "How to: Resize a Control Horizontally and Vertically with the Form"
 keywords: olfm10.chm3077352
 f1_keywords:
 - olfm10.chm3077352
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 67dfbd5d-98a8-41d1-a92f-56ae381d2e50
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OlkContactPhoto.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000313
 f1_keywords:
 - vbaol11.chm1000313
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.MouseDown
 ms.assetid: d629dd2f-5bcc-0328-d453-c8cda2d38b2f

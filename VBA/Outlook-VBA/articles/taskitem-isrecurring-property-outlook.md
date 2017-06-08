@@ -3,7 +3,7 @@ title: TaskItem.IsRecurring Property (Outlook)
 keywords: vbaol11.chm1729
 f1_keywords:
 - vbaol11.chm1729
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.IsRecurring
 ms.assetid: 09684a02-bab4-56ff-cdb3-0a20049c968d

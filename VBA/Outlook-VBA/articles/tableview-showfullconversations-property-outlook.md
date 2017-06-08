@@ -3,7 +3,7 @@ title: TableView.ShowFullConversations Property (Outlook)
 keywords: vbaol11.chm3516
 f1_keywords:
 - vbaol11.chm3516
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.ShowFullConversations
 ms.assetid: 126cab84-5276-43bd-c19c-2d442e5a2aad

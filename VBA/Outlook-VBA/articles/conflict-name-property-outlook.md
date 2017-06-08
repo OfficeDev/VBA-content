@@ -3,7 +3,7 @@ title: Conflict.Name Property (Outlook)
 keywords: vbaol11.chm416
 f1_keywords:
 - vbaol11.chm416
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Conflict.Name
 ms.assetid: 46927bd4-a9cc-4098-8089-a40ea968b3ed

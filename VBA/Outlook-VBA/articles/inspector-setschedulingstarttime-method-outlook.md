@@ -3,7 +3,7 @@ title: Inspector.SetSchedulingStartTime Method (Outlook)
 keywords: vbaol11.chm3555
 f1_keywords:
 - vbaol11.chm3555
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.SetSchedulingStartTime
 ms.assetid: 22e6358a-9dba-7edb-fc5f-3a2a7326bece

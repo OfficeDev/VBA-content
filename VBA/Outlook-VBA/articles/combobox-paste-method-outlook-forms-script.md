@@ -3,7 +3,7 @@ title: ComboBox.Paste Method (Outlook Forms Script)
 keywords: olfm10.chm2000330
 f1_keywords:
 - olfm10.chm2000330
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3fd1314e-b0c2-df9e-d3cd-7d0a06561dc6
 ms.date: 06/08/2017
 ---

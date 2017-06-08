@@ -3,7 +3,7 @@ title: JournalItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1246
 f1_keywords:
 - vbaol11.chm1246
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.MessageClass
 ms.assetid: 1a47a08f-d7ba-5627-dfae-c918c74074c4

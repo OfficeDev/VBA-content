@@ -3,7 +3,7 @@ title: Reminder Object (Outlook)
 keywords: vbaol11.chm3014
 f1_keywords:
 - vbaol11.chm3014
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder
 ms.assetid: b7364e48-51bc-b360-2154-e85e7779ece4

@@ -3,7 +3,7 @@ title: Rule.Parent Property (Outlook)
 keywords: vbaol11.chm2167
 f1_keywords:
 - vbaol11.chm2167
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.Parent
 ms.assetid: d8b810ee-76c6-9aa4-68ca-97a62a35c81c

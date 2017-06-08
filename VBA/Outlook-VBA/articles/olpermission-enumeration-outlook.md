@@ -3,7 +3,7 @@ title: OlPermission Enumeration (Outlook)
 keywords: vbaol11.chm3101
 f1_keywords:
 - vbaol11.chm3101
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlPermission
 ms.assetid: 11126d37-33da-53f7-f5b6-ea8603998651

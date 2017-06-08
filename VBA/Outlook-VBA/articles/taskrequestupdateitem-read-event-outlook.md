@@ -1,6 +1,6 @@
 ---
 title: TaskRequestUpdateItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Read
 ms.assetid: f324f6b2-dda8-d481-a470-eb660614b6c1

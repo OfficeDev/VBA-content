@@ -1,6 +1,6 @@
 ---
 title: Save Auto-Archive Properties of a Folder in Solution Storage
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fbcdbbdf-3320-85f3-2dae-200fddd67285
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Display Names from the Address Book
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 32e7179c-8133-ee20-ecf6-52c9275f205f
 ms.date: 06/08/2017
 ---

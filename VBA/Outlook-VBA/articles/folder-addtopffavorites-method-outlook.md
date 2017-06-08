@@ -3,7 +3,7 @@ title: Folder.AddToPFFavorites Method (Outlook)
 keywords: vbaol11.chm2003
 f1_keywords:
 - vbaol11.chm2003
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.AddToPFFavorites
 ms.assetid: d3926957-bf6d-ad4d-9c24-bfc5037ba9fd

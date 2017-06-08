@@ -1,6 +1,6 @@
 ---
 title: Make Separate Compose and Read Versions for a Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6c533327-ce16-169c-6c6a-dd6cecb0e3fb
 ms.date: 06/08/2017
 ---

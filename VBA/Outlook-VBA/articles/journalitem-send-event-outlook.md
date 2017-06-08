@@ -1,6 +1,6 @@
 ---
 title: JournalItem.Send Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Send
 ms.assetid: 0de70191-07cf-fac9-fa0c-49e409e964ac

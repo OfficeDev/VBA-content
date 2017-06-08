@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.BillingInformation Property (Outlook)
 keywords: vbaol11.chm1825
 f1_keywords:
 - vbaol11.chm1825
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BillingInformation
 ms.assetid: 42b6f652-010c-455b-f714-690ea003aca6

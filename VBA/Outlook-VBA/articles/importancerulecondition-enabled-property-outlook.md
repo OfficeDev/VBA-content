@@ -3,7 +3,7 @@ title: ImportanceRuleCondition.Enabled Property (Outlook)
 keywords: vbaol11.chm2336
 f1_keywords:
 - vbaol11.chm2336
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ImportanceRuleCondition.Enabled
 ms.assetid: a082587d-d191-1446-6f8b-8604bf9372f5

@@ -3,7 +3,7 @@ title: PropertyPages Object (Outlook)
 keywords: vbaol11.chm160
 f1_keywords:
 - vbaol11.chm160
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPages
 ms.assetid: 9850ae7b-f167-d3b2-2e9b-f1df1e4922ec

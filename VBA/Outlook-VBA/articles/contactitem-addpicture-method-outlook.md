@@ -3,7 +3,7 @@ title: ContactItem.AddPicture Method (Outlook)
 keywords: vbaol11.chm1090
 f1_keywords:
 - vbaol11.chm1090
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AddPicture
 ms.assetid: aa02c3b2-bb4c-fde9-3dbf-f871cbc200b1

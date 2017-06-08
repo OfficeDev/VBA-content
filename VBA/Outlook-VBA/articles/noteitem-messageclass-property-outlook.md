@@ -3,7 +3,7 @@ title: NoteItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm1486
 f1_keywords:
 - vbaol11.chm1486
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.MessageClass
 ms.assetid: ef550261-5751-df5c-a25d-1278d245c033

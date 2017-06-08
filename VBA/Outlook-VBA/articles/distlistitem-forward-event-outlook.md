@@ -1,6 +1,6 @@
 ---
 title: DistListItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Forward
 ms.assetid: 29b59fb9-0752-0260-fa57-652213a6c657

@@ -1,6 +1,6 @@
 ---
 title: ContactItem.BeforeAttachmentAdd Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentAdd
 ms.assetid: d0c0bfd1-5d18-759c-0131-c78e45982b18

@@ -3,7 +3,7 @@ title: OlkCategory.Exit Event (Outlook)
 keywords: vbaol11.chm1000455
 f1_keywords:
 - vbaol11.chm1000455
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.Exit
 ms.assetid: bc1dac11-00f0-7fcb-9a8f-c8fde0d61e51

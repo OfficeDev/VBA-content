@@ -3,7 +3,7 @@ title: TimeZone.StandardDate Property (Outlook)
 keywords: vbaol11.chm3288
 f1_keywords:
 - vbaol11.chm3288
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZone.StandardDate
 ms.assetid: 61114f2b-e0cf-80e9-ef4c-2553fba68fe1

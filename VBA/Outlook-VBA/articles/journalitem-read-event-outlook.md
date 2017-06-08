@@ -1,6 +1,6 @@
 ---
 title: JournalItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Read
 ms.assetid: 35111126-291b-73b2-2d89-64d950f1c598

@@ -1,6 +1,6 @@
 ---
 title: Frame.Enabled Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 422240cf-8a8f-83ab-8cab-1a0699467282
 ms.date: 06/08/2017
 ---

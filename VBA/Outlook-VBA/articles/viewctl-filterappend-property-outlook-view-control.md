@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.FilterAppend Property (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bb87a8a8-4493-c047-b8f8-3ff039f42a86
 ms.date: 06/08/2017
 ---

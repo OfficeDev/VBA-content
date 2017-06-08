@@ -3,7 +3,7 @@ title: ContactItem.Journal Property (Outlook)
 keywords: vbaol11.chm1025
 f1_keywords:
 - vbaol11.chm1025
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Journal
 ms.assetid: 3916e2e9-9660-6622-6315-cf1a21865f53

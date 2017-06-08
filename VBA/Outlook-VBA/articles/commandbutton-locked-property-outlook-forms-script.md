@@ -1,6 +1,6 @@
 ---
 title: CommandButton.Locked Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6aefa476-162c-0191-cc29-ff65b446e400
 ms.date: 06/08/2017
 ---

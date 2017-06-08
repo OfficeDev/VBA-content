@@ -3,7 +3,7 @@ title: OlkCheckBox.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000143
 f1_keywords:
 - vbaol11.chm1000143
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.MousePointer
 ms.assetid: 61db8ecc-4a10-dae0-4935-2e7b3386ba85

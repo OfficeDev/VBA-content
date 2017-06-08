@@ -3,7 +3,7 @@ title: AppointmentItem.ItemProperties Property (Outlook)
 keywords: vbaol11.chm913
 f1_keywords:
 - vbaol11.chm913
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ItemProperties
 ms.assetid: 4fac93ef-e927-9751-10f2-297e1b054c2b

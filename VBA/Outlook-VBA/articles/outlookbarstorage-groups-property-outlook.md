@@ -3,7 +3,7 @@ title: OutlookBarStorage.Groups Property (Outlook)
 keywords: vbaol11.chm372
 f1_keywords:
 - vbaol11.chm372
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarStorage.Groups
 ms.assetid: 9b324d3d-3ab6-1e24-962f-19812b6b8ed0

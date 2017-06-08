@@ -3,7 +3,7 @@ title: NameSpace.GetDefaultFolder Method (Outlook)
 keywords: vbaol11.chm761
 f1_keywords:
 - vbaol11.chm761
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetDefaultFolder
 ms.assetid: 761b8b53-dd4d-43e4-c8f0-69cefdf0c77a

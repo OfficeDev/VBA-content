@@ -3,7 +3,7 @@ title: ConversationHeader Object (Outlook)
 keywords: vbaol11.chm3549
 f1_keywords:
 - vbaol11.chm3549
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader
 ms.assetid: 5142d5f7-55c1-4d9d-3a11-d25c8763fcb7

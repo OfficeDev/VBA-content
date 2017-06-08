@@ -3,7 +3,7 @@ title: OlFormatPercent Enumeration (Outlook)
 keywords: vbaol11.chm3138
 f1_keywords:
 - vbaol11.chm3138
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlFormatPercent
 ms.assetid: f04c47fd-41b8-b593-63c8-b40ac28956b3

@@ -3,7 +3,7 @@ title: ReportItem.SaveAs Method (Outlook)
 keywords: vbaol11.chm1671
 f1_keywords:
 - vbaol11.chm1671
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.SaveAs
 ms.assetid: 70497e98-0b4d-266b-10c1-c340a14e82c9

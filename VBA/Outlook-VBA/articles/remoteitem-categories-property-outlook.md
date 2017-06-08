@@ -3,7 +3,7 @@ title: RemoteItem.Categories Property (Outlook)
 keywords: vbaol11.chm1590
 f1_keywords:
 - vbaol11.chm1590
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Categories
 ms.assetid: 7e4639b6-4fa5-ff9b-640e-d96702dc09e1

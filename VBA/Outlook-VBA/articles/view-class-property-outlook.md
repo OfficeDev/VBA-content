@@ -3,7 +3,7 @@ title: View.Class Property (Outlook)
 keywords: vbaol11.chm2481
 f1_keywords:
 - vbaol11.chm2481
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Class
 ms.assetid: 416a79d6-bca6-30ae-b119-cba355a1bb77

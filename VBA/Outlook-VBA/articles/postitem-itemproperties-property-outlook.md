@@ -3,7 +3,7 @@ title: PostItem.ItemProperties Property (Outlook)
 keywords: vbaol11.chm1557
 f1_keywords:
 - vbaol11.chm1557
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ItemProperties
 ms.assetid: b6decc5f-110f-1a45-7fac-322a93ccf60e

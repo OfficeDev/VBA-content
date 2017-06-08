@@ -3,7 +3,7 @@ title: Rules.IsRssRulesProcessingEnabled Property (Outlook)
 keywords: vbaol11.chm3249
 f1_keywords:
 - vbaol11.chm3249
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rules.IsRssRulesProcessingEnabled
 ms.assetid: 7eff75e6-1e1a-0fbf-9d05-2f40e7f08145

@@ -3,7 +3,7 @@ title: SyncObject.Session Property (Outlook)
 keywords: vbaol11.chm105
 f1_keywords:
 - vbaol11.chm105
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObject.Session
 ms.assetid: 985369af-2fc0-8abd-d1c0-1fbb100a244d

@@ -3,7 +3,7 @@ title: SharingItem.Saved Property (Outlook)
 keywords: vbaol11.chm617
 f1_keywords:
 - vbaol11.chm617
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Saved
 ms.assetid: a7166912-2016-3c3d-743d-15416900e2b2

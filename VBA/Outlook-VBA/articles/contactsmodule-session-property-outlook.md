@@ -3,7 +3,7 @@ title: ContactsModule.Session Property (Outlook)
 keywords: vbaol11.chm2834
 f1_keywords:
 - vbaol11.chm2834
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactsModule.Session
 ms.assetid: 4ab5d6e1-fcff-9aa4-0779-a365e01d0a1c

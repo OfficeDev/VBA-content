@@ -3,7 +3,7 @@ title: Put a List of Fields and Values in the Message Body
 keywords: olfm10.chm3077508
 f1_keywords:
 - olfm10.chm3077508
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8e8db2cf-4918-694d-3941-8334e7aaa0cf
 ms.date: 06/08/2017
 ---

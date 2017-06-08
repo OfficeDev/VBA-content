@@ -3,7 +3,7 @@ title: PropertyPageSite.Session Property (Outlook)
 keywords: vbaol11.chm387
 f1_keywords:
 - vbaol11.chm387
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPageSite.Session
 ms.assetid: 0e1dd77d-fcd8-afe7-7370-3b755c910452

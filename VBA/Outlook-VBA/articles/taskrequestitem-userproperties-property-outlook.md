@@ -3,7 +3,7 @@ title: TaskRequestItem.UserProperties Property (Outlook)
 keywords: vbaol11.chm1897
 f1_keywords:
 - vbaol11.chm1897
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.UserProperties
 ms.assetid: 2c7fb346-dc36-d162-34cc-a2576d6dbf8d

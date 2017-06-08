@@ -3,7 +3,7 @@ title: CheckBox.ForeColor Property (Outlook Forms Script)
 keywords: olfm10.chm2001220
 f1_keywords:
 - olfm10.chm2001220
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5c1f3216-a59f-8d22-5f6f-4c09572ffab9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: CardView Object (Outlook)
 keywords: vbaol11.chm3207
 f1_keywords:
 - vbaol11.chm3207
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView
 ms.assetid: cdac229b-f2b6-9ecb-e1a7-b53509426570

@@ -3,7 +3,7 @@ title: TaskItem Object (Outlook)
 keywords: vbaol11.chm2990
 f1_keywords:
 - vbaol11.chm2990
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem
 ms.assetid: 5df8cfa5-5460-a5a1-a130-ba5bca1a0091

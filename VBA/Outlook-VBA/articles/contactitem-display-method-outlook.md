@@ -3,7 +3,7 @@ title: ContactItem.Display Method (Outlook)
 keywords: vbaol11.chm959
 f1_keywords:
 - vbaol11.chm959
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Display
 ms.assetid: 789611b5-7079-2290-738f-64266cedbe2a

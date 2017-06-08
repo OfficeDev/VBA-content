@@ -1,6 +1,6 @@
 ---
 title: JournalItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AttachmentRead
 ms.assetid: ef248972-baef-67d3-f281-9b5e4ab5899f

@@ -3,7 +3,7 @@ title: FormDescription.Parent Property (Outlook)
 keywords: vbaol11.chm182
 f1_keywords:
 - vbaol11.chm182
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.Parent
 ms.assetid: f19fc9d4-8335-00de-85a2-2f7341e2faf6

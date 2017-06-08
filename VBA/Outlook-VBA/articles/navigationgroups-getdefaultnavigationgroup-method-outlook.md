@@ -3,7 +3,7 @@ title: NavigationGroups.GetDefaultNavigationGroup Method (Outlook)
 keywords: vbaol11.chm2860
 f1_keywords:
 - vbaol11.chm2860
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.GetDefaultNavigationGroup
 ms.assetid: accdd554-1aa1-b254-7489-67673b889757

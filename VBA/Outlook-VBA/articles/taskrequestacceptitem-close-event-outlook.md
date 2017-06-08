@@ -1,6 +1,6 @@
 ---
 title: TaskRequestAcceptItem.Close Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Close
 ms.assetid: 93504a80-71ae-ff95-1b39-5aef22dabdb8

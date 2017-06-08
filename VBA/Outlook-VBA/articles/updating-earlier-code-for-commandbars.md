@@ -1,6 +1,6 @@
 ---
 title: Updating Earlier Code for CommandBars
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 58bc6957-fa1e-72ac-1836-a2a411e089c2
 ms.date: 06/08/2017
 ---

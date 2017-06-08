@@ -3,7 +3,7 @@ title: CardView.Copy Method (Outlook)
 keywords: vbaol11.chm2584
 f1_keywords:
 - vbaol11.chm2584
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.Copy
 ms.assetid: 36f59955-3bbb-99b4-af1a-3b0165470a89

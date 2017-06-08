@@ -3,7 +3,7 @@ title: SharingItem.ClearConversationIndex Method (Outlook)
 keywords: vbaol11.chm668
 f1_keywords:
 - vbaol11.chm668
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ClearConversationIndex
 ms.assetid: 8faf7fb6-21cb-b545-869b-3ddb7a516442

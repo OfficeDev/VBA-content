@@ -3,7 +3,7 @@ title: RuleConditions.ToMe Property (Outlook)
 keywords: vbaol11.chm2308
 f1_keywords:
 - vbaol11.chm2308
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.ToMe
 ms.assetid: c1b4a68a-64da-c0e8-00a7-11f49f995934

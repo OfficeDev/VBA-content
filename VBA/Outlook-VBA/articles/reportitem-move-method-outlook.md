@@ -3,7 +3,7 @@ title: ReportItem.Move Method (Outlook)
 keywords: vbaol11.chm1668
 f1_keywords:
 - vbaol11.chm1668
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Move
 ms.assetid: 171a46e4-bd39-9556-36f3-0c0c60ed2b0b

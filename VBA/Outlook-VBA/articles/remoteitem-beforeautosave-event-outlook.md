@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.BeforeAutoSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAutoSave
 ms.assetid: f33e1442-0e65-cc78-34ac-496b65ba565e

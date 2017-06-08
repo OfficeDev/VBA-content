@@ -3,7 +3,7 @@ title: TaskRequestUpdateItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1930
 f1_keywords:
 - vbaol11.chm1930
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.EntryID
 ms.assetid: 6a5d2eee-93e3-652c-d5b1-667a143f0175

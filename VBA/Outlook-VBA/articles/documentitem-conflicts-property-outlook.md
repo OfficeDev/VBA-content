@@ -3,7 +3,7 @@ title: DocumentItem.Conflicts Property (Outlook)
 keywords: vbaol11.chm1224
 f1_keywords:
 - vbaol11.chm1224
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Conflicts
 ms.assetid: 1a6f9384-bc75-9079-d9ca-affbadc21855

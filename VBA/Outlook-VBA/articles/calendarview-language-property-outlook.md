@@ -3,7 +3,7 @@ title: CalendarView.Language Property (Outlook)
 keywords: vbaol11.chm2616
 f1_keywords:
 - vbaol11.chm2616
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Language
 ms.assetid: e8d1a39b-c0f7-bd62-5831-d4ac02a0f2ee

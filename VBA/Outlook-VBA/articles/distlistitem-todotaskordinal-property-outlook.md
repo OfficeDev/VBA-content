@@ -3,7 +3,7 @@ title: DistListItem.ToDoTaskOrdinal Property (Outlook)
 keywords: vbaol11.chm3034
 f1_keywords:
 - vbaol11.chm3034
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ToDoTaskOrdinal
 ms.assetid: a72f8ba4-a31a-b96b-193a-2507b7c45169

@@ -3,7 +3,7 @@ title: Inspector.Deactivate Event (Outlook)
 keywords: vbaol11.chm466
 f1_keywords:
 - vbaol11.chm466
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.Deactivate
 ms.assetid: 211c4cea-0068-7178-ea71-baf09b9a2075

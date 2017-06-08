@@ -3,7 +3,7 @@ title: OlkOptionButton.WordWrap Property (Outlook)
 keywords: vbaol11.chm1000176
 f1_keywords:
 - vbaol11.chm1000176
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.WordWrap
 ms.assetid: a4bf62eb-18ee-fab8-7439-6149300f3a90

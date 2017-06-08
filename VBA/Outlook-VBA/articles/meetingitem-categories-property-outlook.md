@@ -3,7 +3,7 @@ title: MeetingItem.Categories Property (Outlook)
 keywords: vbaol11.chm1406
 f1_keywords:
 - vbaol11.chm1406
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Categories
 ms.assetid: ae4a9569-afb6-a7d7-2cbb-351141f99588

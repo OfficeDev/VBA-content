@@ -3,7 +3,7 @@ title: MailItem.Session Property (Outlook)
 keywords: vbaol11.chm1292
 f1_keywords:
 - vbaol11.chm1292
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Session
 ms.assetid: 43272ff5-ab89-f160-7995-981158f6f375

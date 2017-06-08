@@ -3,7 +3,7 @@ title: DocumentItem.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm1225
 f1_keywords:
 - vbaol11.chm1225
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.PropertyAccessor
 ms.assetid: 9dc361f0-f737-acd1-29dd-ad7daddd8de5

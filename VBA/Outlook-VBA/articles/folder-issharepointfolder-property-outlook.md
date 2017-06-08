@@ -3,7 +3,7 @@ title: Folder.IsSharePointFolder Property (Outlook)
 keywords: vbaol11.chm2014
 f1_keywords:
 - vbaol11.chm2014
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.IsSharePointFolder
 ms.assetid: fc2e2645-d6e0-0bc0-29a2-8cc17f456225

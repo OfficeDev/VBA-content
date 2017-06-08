@@ -3,7 +3,7 @@ title: "How to: Change the Order of Pages and Tabs"
 keywords: olfm10.chm3077194
 f1_keywords:
 - olfm10.chm3077194
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5180c30b-e5bb-48b9-ece7-02d5b8d41af0
 ms.date: 06/08/2017
 ---

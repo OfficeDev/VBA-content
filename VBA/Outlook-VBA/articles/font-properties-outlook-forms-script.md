@@ -1,6 +1,6 @@
 ---
 title: Font Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f23047af-f60d-4e4d-827b-90527189de95
 ms.date: 06/08/2017
 ---

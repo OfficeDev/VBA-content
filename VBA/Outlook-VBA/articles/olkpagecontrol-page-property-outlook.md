@@ -3,7 +3,7 @@ title: OlkPageControl.Page Property (Outlook)
 keywords: vbaol11.chm1000336
 f1_keywords:
 - vbaol11.chm1000336
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkPageControl.Page
 ms.assetid: fc0f49b5-206d-0077-3931-9f759def6788

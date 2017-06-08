@@ -3,7 +3,7 @@ title: CalendarView.Save Method (Outlook)
 keywords: vbaol11.chm2615
 f1_keywords:
 - vbaol11.chm2615
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Save
 ms.assetid: 19cea2c8-39bd-875c-2cde-50d19f25f73b

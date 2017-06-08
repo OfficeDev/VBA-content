@@ -3,7 +3,7 @@ title: ComboBox.ListStyle Property (Outlook Forms Script)
 keywords: olfm10.chm2001450
 f1_keywords:
 - olfm10.chm2001450
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 9a061fe5-4c59-d051-97a1-db946a8ad8d4
 ms.date: 06/08/2017
 ---

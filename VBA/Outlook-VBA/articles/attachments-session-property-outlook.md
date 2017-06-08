@@ -3,7 +3,7 @@ title: Attachments.Session Property (Outlook)
 keywords: vbaol11.chm172
 f1_keywords:
 - vbaol11.chm172
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachments.Session
 ms.assetid: af206370-3d50-84de-187d-019126958b61

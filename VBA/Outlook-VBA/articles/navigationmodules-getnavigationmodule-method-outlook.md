@@ -3,7 +3,7 @@ title: NavigationModules.GetNavigationModule Method (Outlook)
 keywords: vbaol11.chm3240
 f1_keywords:
 - vbaol11.chm3240
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationModules.GetNavigationModule
 ms.assetid: 7c1a1313-94a4-fa68-7e70-66d85496fec0

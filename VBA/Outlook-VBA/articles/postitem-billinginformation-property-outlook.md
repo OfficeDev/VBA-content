@@ -3,7 +3,7 @@ title: PostItem.BillingInformation Property (Outlook)
 keywords: vbaol11.chm1515
 f1_keywords:
 - vbaol11.chm1515
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.BillingInformation
 ms.assetid: 474460c0-79c2-b6f2-fb41-16db955cbac3

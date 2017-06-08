@@ -3,7 +3,7 @@ title: NameSpace.CreateSharingItem Method (Outlook)
 keywords: vbaol11.chm790
 f1_keywords:
 - vbaol11.chm790
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.CreateSharingItem
 ms.assetid: 4c93d347-cc39-eb5d-bf08-125b69f91eb6

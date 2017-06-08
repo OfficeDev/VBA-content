@@ -3,7 +3,7 @@ title: PostItem.SenderEmailAddress Property (Outlook)
 keywords: vbaol11.chm1567
 f1_keywords:
 - vbaol11.chm1567
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.SenderEmailAddress
 ms.assetid: a84bd603-7fce-25ae-668e-083e11e9937e

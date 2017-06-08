@@ -1,6 +1,6 @@
 ---
 title: Tab.Caption Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 62291fb8-8f56-4465-0afa-9085abeeaa72
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: TaskItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1702
 f1_keywords:
 - vbaol11.chm1702
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Mileage
 ms.assetid: 3cc676b5-4817-adab-9a72-61a0214a2f64

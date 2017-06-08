@@ -3,7 +3,7 @@ title: TextBox.MultiLine Property (Outlook Forms Script)
 keywords: olfm10.chm2001560
 f1_keywords:
 - olfm10.chm2001560
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: f42aadc5-ecd9-090b-cdf0-aba0a1a024b2
 ms.date: 06/08/2017
 ---

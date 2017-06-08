@@ -1,6 +1,6 @@
 ---
 title: Tab Properties (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fe84cc39-a7bb-41e3-8f1b-7139b5c98642
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: TextRuleCondition.Parent Property (Outlook)
 keywords: vbaol11.chm2475
 f1_keywords:
 - vbaol11.chm2475
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TextRuleCondition.Parent
 ms.assetid: 55be70c5-a4d9-3359-8bf6-f71ae8f75a7d

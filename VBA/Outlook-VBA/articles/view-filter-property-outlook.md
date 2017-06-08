@@ -3,7 +3,7 @@ title: View.Filter Property (Outlook)
 keywords: vbaol11.chm2497
 f1_keywords:
 - vbaol11.chm2497
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Filter
 ms.assetid: 9a4b4b27-d543-df82-3058-e0a6ad2f51a1

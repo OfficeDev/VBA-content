@@ -3,7 +3,7 @@ title: PostItem.Actions Property (Outlook)
 keywords: vbaol11.chm1513
 f1_keywords:
 - vbaol11.chm1513
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Actions
 ms.assetid: c04bf0fa-d15c-5425-6ed6-a1424e7de7f8

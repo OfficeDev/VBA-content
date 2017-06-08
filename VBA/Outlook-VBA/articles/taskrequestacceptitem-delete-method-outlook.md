@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.Delete Method (Outlook)
 keywords: vbaol11.chm1802
 f1_keywords:
 - vbaol11.chm1802
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Delete
 ms.assetid: c674b324-9027-700e-8eeb-5696edbab684

@@ -3,7 +3,7 @@ title: Use Current User Properties from the Microsoft Exchange Server Global Add
 keywords: olfm10.chm3077404
 f1_keywords:
 - olfm10.chm3077404
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fa3e6e11-a63e-fcf5-14f0-f16dc3b755dd
 ms.date: 06/08/2017
 ---

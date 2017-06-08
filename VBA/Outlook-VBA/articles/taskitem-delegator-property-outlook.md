@@ -3,7 +3,7 @@ title: TaskItem.Delegator Property (Outlook)
 keywords: vbaol11.chm1727
 f1_keywords:
 - vbaol11.chm1727
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Delegator
 ms.assetid: cb0443a3-4ae1-8630-05b9-1b69740163dc

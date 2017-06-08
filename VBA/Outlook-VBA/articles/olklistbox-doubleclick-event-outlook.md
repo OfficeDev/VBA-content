@@ -3,7 +3,7 @@ title: OlkListBox.DoubleClick Event (Outlook)
 keywords: vbaol11.chm1000281
 f1_keywords:
 - vbaol11.chm1000281
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.DoubleClick
 ms.assetid: 70e59d92-ee83-25df-0edc-6dbb6c30297c

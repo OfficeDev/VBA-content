@@ -1,6 +1,6 @@
 ---
 title: Items, Folders, and Stores
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 964898a5-4c96-45a7-90c0-81069b957ed5
 ms.date: 06/08/2017
 ---

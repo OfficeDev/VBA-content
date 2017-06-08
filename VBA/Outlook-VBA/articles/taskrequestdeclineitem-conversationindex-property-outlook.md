@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm1829
 f1_keywords:
 - vbaol11.chm1829
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.ConversationIndex
 ms.assetid: ba1bb696-cd61-0b99-fdfd-1ab8df87ec5a

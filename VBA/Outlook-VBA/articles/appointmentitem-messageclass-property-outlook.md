@@ -3,7 +3,7 @@ title: AppointmentItem.MessageClass Property (Outlook)
 keywords: vbaol11.chm857
 f1_keywords:
 - vbaol11.chm857
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.MessageClass
 ms.assetid: e98318d9-72e9-0914-83c6-3a05f544874f

@@ -3,7 +3,7 @@ title: Accounts.Count Property (Outlook)
 keywords: vbaol11.chm749
 f1_keywords:
 - vbaol11.chm749
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Accounts.Count
 ms.assetid: bb29c680-339d-0d92-2500-2116ce7054c2

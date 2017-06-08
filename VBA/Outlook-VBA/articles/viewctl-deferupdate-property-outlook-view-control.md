@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.DeferUpdate Property (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6130cb9e-274f-1a42-a6aa-9e422e37df6b
 ms.date: 06/08/2017
 ---

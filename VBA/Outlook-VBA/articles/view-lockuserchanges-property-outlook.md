@@ -3,7 +3,7 @@ title: View.LockUserChanges Property (Outlook)
 keywords: vbaol11.chm2490
 f1_keywords:
 - vbaol11.chm2490
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.LockUserChanges
 ms.assetid: f4347b6f-b00d-6508-09e3-35cf98da26b1

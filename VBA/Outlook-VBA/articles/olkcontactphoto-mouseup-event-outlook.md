@@ -3,7 +3,7 @@ title: OlkContactPhoto.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000315
 f1_keywords:
 - vbaol11.chm1000315
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.MouseUp
 ms.assetid: 7e542f18-9ebf-d889-8cdd-e9d413a24745

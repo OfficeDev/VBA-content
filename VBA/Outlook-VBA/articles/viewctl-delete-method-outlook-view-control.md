@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.Delete Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ef7d3303-57fc-67f0-c365-451d80d0d335
 ms.date: 06/08/2017
 ---

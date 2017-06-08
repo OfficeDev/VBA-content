@@ -3,7 +3,7 @@ title: Folders.Count Property (Outlook)
 keywords: vbaol11.chm43
 f1_keywords:
 - vbaol11.chm43
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.Count
 ms.assetid: b1884cc1-5b50-0ea8-315a-3616d11db0e6

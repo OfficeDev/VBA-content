@@ -3,7 +3,7 @@ title: OlkLabel.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000106
 f1_keywords:
 - vbaol11.chm1000106
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.MouseUp
 ms.assetid: edc01865-1bbd-5e87-a857-3e91b28167d2

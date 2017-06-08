@@ -3,7 +3,7 @@ title: ReportItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1674
 f1_keywords:
 - vbaol11.chm1674
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.ShowCategoriesDialog
 ms.assetid: d73cf745-580c-47c9-c011-55d88460295e

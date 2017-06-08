@@ -3,7 +3,7 @@ title: NewItemAlertRuleAction.Class Property (Outlook)
 keywords: vbaol11.chm2289
 f1_keywords:
 - vbaol11.chm2289
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NewItemAlertRuleAction.Class
 ms.assetid: bd830301-d836-36dd-19c4-bbb583a42771

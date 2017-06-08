@@ -3,7 +3,7 @@ title: "How to: Set the Item at the Top of a List and the Item that Has Focus in
 keywords: olfm10.chm3077260
 f1_keywords:
 - olfm10.chm3077260
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 3e44c81b-cf21-a1a8-dfc8-6063db095358
 ms.date: 06/08/2017
 ---

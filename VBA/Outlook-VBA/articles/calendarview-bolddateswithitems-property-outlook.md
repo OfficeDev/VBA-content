@@ -3,7 +3,7 @@ title: CalendarView.BoldDatesWithItems Property (Outlook)
 keywords: vbaol11.chm2634
 f1_keywords:
 - vbaol11.chm2634
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarView.BoldDatesWithItems
 ms.assetid: 4928abe0-c650-f09e-796c-5d931a1c6aae

@@ -3,7 +3,7 @@ title: AddressEntry.Details Method (Outlook)
 keywords: vbaol11.chm2051
 f1_keywords:
 - vbaol11.chm2051
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Details
 ms.assetid: 85457da6-c97a-387d-6c7e-40eb005b25aa

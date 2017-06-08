@@ -3,7 +3,7 @@ title: Support for Contact Linking
 keywords: vbaol11.chm5268751
 f1_keywords:
 - vbaol11.chm5268751
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: eec93ca9-9303-55ec-905e-093371e6a2a1
 ms.date: 06/08/2017
 ---

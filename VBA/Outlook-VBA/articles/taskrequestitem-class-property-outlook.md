@@ -3,7 +3,7 @@ title: TaskRequestItem.Class Property (Outlook)
 keywords: vbaol11.chm1869
 f1_keywords:
 - vbaol11.chm1869
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Class
 ms.assetid: c3a5826a-37aa-1696-b19f-b1cb28cd4043

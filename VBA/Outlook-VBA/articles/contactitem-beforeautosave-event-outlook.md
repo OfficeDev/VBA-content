@@ -1,6 +1,6 @@
 ---
 title: ContactItem.BeforeAutoSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAutoSave
 ms.assetid: c9fe9c4d-3c00-455c-3e89-9ac584597117

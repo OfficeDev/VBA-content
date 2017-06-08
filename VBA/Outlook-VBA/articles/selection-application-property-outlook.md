@@ -3,7 +3,7 @@ title: Selection.Application Property (Outlook)
 keywords: vbaol11.chm81
 f1_keywords:
 - vbaol11.chm81
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection.Application
 ms.assetid: 06ce9b99-1323-2611-dd3a-5646bb1b0ec8

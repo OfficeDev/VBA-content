@@ -1,6 +1,6 @@
 ---
 title: TaskRequestDeclineItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeRead
 ms.assetid: 9742022b-89b0-b3d5-20f0-b9d974a06edd

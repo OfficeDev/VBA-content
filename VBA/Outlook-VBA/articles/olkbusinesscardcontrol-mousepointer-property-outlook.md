@@ -3,7 +3,7 @@ title: OlkBusinessCardControl.MousePointer Property (Outlook)
 keywords: vbaol11.chm1000325
 f1_keywords:
 - vbaol11.chm1000325
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl.MousePointer
 ms.assetid: 3dc8e61b-eb35-5608-4013-9ae63f464943

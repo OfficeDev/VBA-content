@@ -3,7 +3,7 @@ title: Application.NewMail Event (Outlook)
 keywords: vbaol11.chm430
 f1_keywords:
 - vbaol11.chm430
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.NewMail
 ms.assetid: cfc848e8-98b1-163a-c177-53993c20bb14

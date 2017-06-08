@@ -1,6 +1,6 @@
 ---
 title: ComboBox.SpecialEffect Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ac8f36a3-fd03-fa1a-4df1-ccc31bd059c9
 ms.date: 06/08/2017
 ---

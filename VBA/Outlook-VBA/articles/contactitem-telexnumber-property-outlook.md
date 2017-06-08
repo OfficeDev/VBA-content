@@ -3,7 +3,7 @@ title: ContactItem.TelexNumber Property (Outlook)
 keywords: vbaol11.chm1067
 f1_keywords:
 - vbaol11.chm1067
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.TelexNumber
 ms.assetid: f20ec303-71fa-982d-5b69-384ef666f19c

@@ -3,7 +3,7 @@ title: Reminders.Count Property (Outlook)
 keywords: vbaol11.chm570
 f1_keywords:
 - vbaol11.chm570
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminders.Count
 ms.assetid: 84d23c0f-cdef-d522-c69c-6387dc79d02b

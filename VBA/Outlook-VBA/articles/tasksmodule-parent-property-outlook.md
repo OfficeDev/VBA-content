@@ -3,7 +3,7 @@ title: TasksModule.Parent Property (Outlook)
 keywords: vbaol11.chm2845
 f1_keywords:
 - vbaol11.chm2845
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TasksModule.Parent
 ms.assetid: 023d78c5-7228-5735-da9f-472e9827887c

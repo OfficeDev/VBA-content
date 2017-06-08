@@ -3,7 +3,7 @@ title: RemoteItem.Size Property (Outlook)
 keywords: vbaol11.chm1608
 f1_keywords:
 - vbaol11.chm1608
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Size
 ms.assetid: 0ae28c47-47b3-33ac-893b-8b882a30f604

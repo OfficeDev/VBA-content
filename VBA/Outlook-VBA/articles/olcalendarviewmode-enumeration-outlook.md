@@ -3,7 +3,7 @@ title: OlCalendarViewMode Enumeration (Outlook)
 keywords: vbaol11.chm3126
 f1_keywords:
 - vbaol11.chm3126
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlCalendarViewMode
 ms.assetid: 5021527c-1830-0dcf-a1dd-cb2febef2aca

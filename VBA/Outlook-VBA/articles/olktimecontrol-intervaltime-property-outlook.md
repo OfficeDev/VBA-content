@@ -3,7 +3,7 @@ title: OlkTimeControl.IntervalTime Property (Outlook)
 keywords: vbaol11.chm1000397
 f1_keywords:
 - vbaol11.chm1000397
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.IntervalTime
 ms.assetid: 518bd878-f970-2600-8c63-17fa8774def4

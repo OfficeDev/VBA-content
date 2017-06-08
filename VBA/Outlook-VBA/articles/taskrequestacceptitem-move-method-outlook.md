@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.Move Method (Outlook)
 keywords: vbaol11.chm1804
 f1_keywords:
 - vbaol11.chm1804
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Move
 ms.assetid: 638c934f-86c3-2a22-4998-7ebd1b0a3d43

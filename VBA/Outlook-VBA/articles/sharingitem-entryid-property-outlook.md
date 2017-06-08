@@ -3,7 +3,7 @@ title: SharingItem.EntryID Property (Outlook)
 keywords: vbaol11.chm606
 f1_keywords:
 - vbaol11.chm606
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.EntryID
 ms.assetid: fca59e3a-8a62-244b-65f2-19b5b69b209b

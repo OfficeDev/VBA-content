@@ -3,7 +3,7 @@ title: DistListItem.Saved Property (Outlook)
 keywords: vbaol11.chm1134
 f1_keywords:
 - vbaol11.chm1134
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Saved
 ms.assetid: 7b43a4f1-389d-3e39-2b01-d066f76af69d

@@ -3,7 +3,7 @@ title: Application.CreateObject Method (Outlook)
 keywords: vbaol11.chm716
 f1_keywords:
 - vbaol11.chm716
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.CreateObject
 ms.assetid: 09b6ff5b-a750-c07d-7499-c1f8a00214fe

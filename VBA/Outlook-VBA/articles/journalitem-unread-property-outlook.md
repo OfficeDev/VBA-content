@@ -3,7 +3,7 @@ title: JournalItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1255
 f1_keywords:
 - vbaol11.chm1255
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.UnRead
 ms.assetid: 1ad64144-c97d-164b-2dba-1b30e65cf56f

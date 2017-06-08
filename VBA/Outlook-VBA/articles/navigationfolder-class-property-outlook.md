@@ -3,7 +3,7 @@ title: NavigationFolder.Class Property (Outlook)
 keywords: vbaol11.chm2901
 f1_keywords:
 - vbaol11.chm2901
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.Class
 ms.assetid: deffea9a-2171-6ec5-2c55-c37d98960b40

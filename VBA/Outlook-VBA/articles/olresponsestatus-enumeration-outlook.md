@@ -3,7 +3,7 @@ title: OlResponseStatus Enumeration (Outlook)
 keywords: vbaol11.chm3079
 f1_keywords:
 - vbaol11.chm3079
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlResponseStatus
 ms.assetid: b473d57a-76a1-0862-fecb-baf1cf317772

@@ -3,7 +3,7 @@ title: OlkListBox Object (Outlook)
 keywords: vbaol11.chm1000293
 f1_keywords:
 - vbaol11.chm1000293
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox
 ms.assetid: 373d2a00-97e5-2ed3-f15f-577d97b32334

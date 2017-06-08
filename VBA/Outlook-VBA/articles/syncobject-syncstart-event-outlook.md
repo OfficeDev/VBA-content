@@ -3,7 +3,7 @@ title: SyncObject.SyncStart Event (Outlook)
 keywords: vbaol11.chm111
 f1_keywords:
 - vbaol11.chm111
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObject.SyncStart
 ms.assetid: 225367bc-3bff-cea0-3e8c-71a30256f45d

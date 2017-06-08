@@ -3,7 +3,7 @@ title: StorageItem.Subject Property (Outlook)
 keywords: vbaol11.chm2151
 f1_keywords:
 - vbaol11.chm2151
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Subject
 ms.assetid: 50533838-ad7a-ce4a-4b9e-7923d2868c41

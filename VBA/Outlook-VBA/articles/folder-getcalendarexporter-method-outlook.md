@@ -3,7 +3,7 @@ title: Folder.GetCalendarExporter Method (Outlook)
 keywords: vbaol11.chm2020
 f1_keywords:
 - vbaol11.chm2020
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.GetCalendarExporter
 ms.assetid: 7c67e208-65dd-8904-4b6f-8ec2df4e530d

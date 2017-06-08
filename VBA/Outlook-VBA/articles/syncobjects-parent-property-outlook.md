@@ -3,7 +3,7 @@ title: SyncObjects.Parent Property (Outlook)
 keywords: vbaol11.chm98
 f1_keywords:
 - vbaol11.chm98
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObjects.Parent
 ms.assetid: a97e4afb-ae99-15b7-b394-cede70d605cf

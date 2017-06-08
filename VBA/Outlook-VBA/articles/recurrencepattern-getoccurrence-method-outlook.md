@@ -3,7 +3,7 @@ title: RecurrencePattern.GetOccurrence Method (Outlook)
 keywords: vbaol11.chm288
 f1_keywords:
 - vbaol11.chm288
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.GetOccurrence
 ms.assetid: 2a0cd7d2-d16d-7b07-eb5d-43df0bbf022f

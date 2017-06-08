@@ -1,6 +1,6 @@
 ---
 title: Page Object (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 836941c3-c768-151a-65a5-41c71493033a
 ms.date: 06/08/2017
 ---

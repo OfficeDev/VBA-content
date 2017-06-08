@@ -1,6 +1,6 @@
 ---
 title: ReportItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Open
 ms.assetid: f44fe7fe-29b3-f1ab-70ee-0e395ad6896a

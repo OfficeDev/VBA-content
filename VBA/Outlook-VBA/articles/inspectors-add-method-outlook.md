@@ -3,7 +3,7 @@ title: Inspectors.Add Method (Outlook)
 keywords: vbaol11.chm139
 f1_keywords:
 - vbaol11.chm139
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspectors.Add
 ms.assetid: f83a1cac-8103-003b-4389-d4f596e78aaa

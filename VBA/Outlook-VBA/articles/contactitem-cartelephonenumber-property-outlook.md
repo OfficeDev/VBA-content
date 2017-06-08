@@ -3,7 +3,7 @@ title: ContactItem.CarTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm981
 f1_keywords:
 - vbaol11.chm981
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CarTelephoneNumber
 ms.assetid: 45538c71-eacd-603a-4325-f3e3f3b2c523

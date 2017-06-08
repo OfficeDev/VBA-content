@@ -1,6 +1,6 @@
 ---
 title: TaskRequestItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.AfterWrite
 ms.assetid: 8309fa13-2267-e80d-c8cd-d17f5ba49846

@@ -3,7 +3,7 @@ title: DocumentItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1202
 f1_keywords:
 - vbaol11.chm1202
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.OutlookVersion
 ms.assetid: 5efb78c2-0049-a525-32d8-f8c516f2e97c

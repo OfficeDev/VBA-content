@@ -3,7 +3,7 @@ title: OlkOptionButton.BackColor Property (Outlook)
 keywords: vbaol11.chm1000166
 f1_keywords:
 - vbaol11.chm1000166
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.BackColor
 ms.assetid: fd390606-b2a4-ddbd-1f92-a540bfc2aea7

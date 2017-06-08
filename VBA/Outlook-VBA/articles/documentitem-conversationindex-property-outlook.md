@@ -3,7 +3,7 @@ title: DocumentItem.ConversationIndex Property (Outlook)
 keywords: vbaol11.chm1189
 f1_keywords:
 - vbaol11.chm1189
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.ConversationIndex
 ms.assetid: 4ba95610-45e9-9830-7c15-9a31197c8d3d

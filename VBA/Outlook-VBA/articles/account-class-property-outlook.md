@@ -3,7 +3,7 @@ title: Account.Class Property (Outlook)
 keywords: vbaol11.chm737
 f1_keywords:
 - vbaol11.chm737
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.Class
 ms.assetid: 93add2b8-e71d-1d4f-f8e2-a5898d0242fc

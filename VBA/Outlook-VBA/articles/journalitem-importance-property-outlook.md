@@ -3,7 +3,7 @@ title: JournalItem.Importance Property (Outlook)
 keywords: vbaol11.chm1243
 f1_keywords:
 - vbaol11.chm1243
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Importance
 ms.assetid: c052c839-d233-bbc2-73f9-a7eddcef076c

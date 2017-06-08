@@ -1,6 +1,6 @@
 ---
 title: Use a System Color for a Background or Foreground
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 77dd2d09-5aba-3f30-7360-b6eda7e3a375
 ms.date: 06/08/2017
 ---

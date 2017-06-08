@@ -3,7 +3,7 @@ title: ContactItem.TaskDueDate Property (Outlook)
 keywords: vbaol11.chm1100
 f1_keywords:
 - vbaol11.chm1100
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.TaskDueDate
 ms.assetid: 3449ec3e-ca65-c8e3-c3fc-ca9eb5ab0f75

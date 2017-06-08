@@ -1,6 +1,6 @@
 ---
 title: Adding Custom Controls to the Control Toolbox
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 81b5bba3-076d-4a02-9aa3-034fab9f1e85
 ms.date: 06/08/2017
 ---

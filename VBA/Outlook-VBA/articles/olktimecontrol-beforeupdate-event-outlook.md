@@ -3,7 +3,7 @@ title: OlkTimeControl.BeforeUpdate Event (Outlook)
 keywords: vbaol11.chm1000414
 f1_keywords:
 - vbaol11.chm1000414
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.BeforeUpdate
 ms.assetid: bd5f712d-854e-3eec-df3d-91c45f731134

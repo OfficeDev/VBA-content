@@ -1,6 +1,6 @@
 ---
 title: Create a Set of OptionButton Controls
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6aee3c64-df73-df1a-0db8-2740f8dec0d9
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Search.Filter Property (Outlook)
 keywords: vbaol11.chm2253
 f1_keywords:
 - vbaol11.chm2253
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Search.Filter
 ms.assetid: f6040465-da73-56f6-edb7-06d93bb8b531

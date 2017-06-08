@@ -3,7 +3,7 @@ title: AccountRuleCondition.ConditionType Property (Outlook)
 keywords: vbaol11.chm2382
 f1_keywords:
 - vbaol11.chm2382
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountRuleCondition.ConditionType
 ms.assetid: eba3dcb0-15fe-350a-f7a2-e90780122347

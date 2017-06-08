@@ -1,6 +1,6 @@
 ---
 title: TaskRequestDeclineItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Open
 ms.assetid: f4f30ece-b3a3-66a6-10b2-b4022a9f5526

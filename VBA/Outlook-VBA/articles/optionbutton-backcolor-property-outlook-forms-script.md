@@ -1,6 +1,6 @@
 ---
 title: OptionButton.BackColor Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 034dad2e-9eb7-8943-eb3c-1750fe9f3051
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: FormDescription.Template Property (Outlook)
 keywords: vbaol11.chm198
 f1_keywords:
 - vbaol11.chm198
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.Template
 ms.assetid: a4069437-0b4e-c65d-bc2a-203b08d16685

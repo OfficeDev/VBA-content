@@ -3,7 +3,7 @@ title: UserProperties.Item Method (Outlook)
 keywords: vbaol11.chm208
 f1_keywords:
 - vbaol11.chm208
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.UserProperties.Item
 ms.assetid: 3e024200-0014-6a7d-dd34-9fcd0d2dd292

@@ -1,6 +1,6 @@
 ---
 title: Save a Form with the Item (One-off Forms)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 0983163c-6ae0-a391-ae31-afd7ec796d4b
 ms.date: 06/08/2017
 ---

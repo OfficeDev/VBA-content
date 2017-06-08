@@ -3,7 +3,7 @@ title: ExchangeUser.BusinessTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm2087
 f1_keywords:
 - vbaol11.chm2087
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.BusinessTelephoneNumber
 ms.assetid: c01f85bb-24a2-c08f-df4c-9e6506ca2077

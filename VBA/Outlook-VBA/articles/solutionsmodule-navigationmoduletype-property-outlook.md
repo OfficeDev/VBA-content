@@ -3,7 +3,7 @@ title: SolutionsModule.NavigationModuleType Property (Outlook)
 keywords: vbaol11.chm3364
 f1_keywords:
 - vbaol11.chm3364
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.NavigationModuleType
 ms.assetid: 722e3640-6701-75bf-24cf-d2b5590413ef

@@ -3,7 +3,7 @@ title: RuleConditions.SentTo Property (Outlook)
 keywords: vbaol11.chm2321
 f1_keywords:
 - vbaol11.chm2321
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.SentTo
 ms.assetid: 54039c2f-b2a5-2878-84c0-b129b4ce96fa

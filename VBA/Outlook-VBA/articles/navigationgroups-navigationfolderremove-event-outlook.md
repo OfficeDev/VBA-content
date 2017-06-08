@@ -3,7 +3,7 @@ title: NavigationGroups.NavigationFolderRemove Event (Outlook)
 keywords: vbaol11.chm2915
 f1_keywords:
 - vbaol11.chm2915
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.NavigationFolderRemove
 ms.assetid: 1ea9f463-2ddd-32ef-31d6-e6257b9b34cf

@@ -1,6 +1,6 @@
 ---
 title: PostItem.Write Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Write
 ms.assetid: 27ab5442-2ce2-c40e-b95c-6e23f29e124b

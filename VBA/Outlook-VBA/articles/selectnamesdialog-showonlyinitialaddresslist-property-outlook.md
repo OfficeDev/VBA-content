@@ -3,7 +3,7 @@ title: SelectNamesDialog.ShowOnlyInitialAddressList Property (Outlook)
 keywords: vbaol11.chm833
 f1_keywords:
 - vbaol11.chm833
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.ShowOnlyInitialAddressList
 ms.assetid: 4159aa09-e790-523a-fd27-262d477599e3

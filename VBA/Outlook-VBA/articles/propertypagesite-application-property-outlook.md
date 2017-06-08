@@ -3,7 +3,7 @@ title: PropertyPageSite.Application Property (Outlook)
 keywords: vbaol11.chm385
 f1_keywords:
 - vbaol11.chm385
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPageSite.Application
 ms.assetid: 150f5197-77d7-ef74-9e9b-b2ccf95c2dea

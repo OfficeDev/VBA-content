@@ -3,7 +3,7 @@ title: OlkLabel.UseHeaderColor Property (Outlook)
 keywords: vbaol11.chm1000497
 f1_keywords:
 - vbaol11.chm1000497
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.UseHeaderColor
 ms.assetid: 9b205ce8-0875-06da-6746-641ae889d4df

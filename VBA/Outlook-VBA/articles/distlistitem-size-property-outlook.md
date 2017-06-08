@@ -3,7 +3,7 @@ title: DistListItem.Size Property (Outlook)
 keywords: vbaol11.chm1136
 f1_keywords:
 - vbaol11.chm1136
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Size
 ms.assetid: a2a91b9c-7fa6-7305-f065-a90a68f24a4e

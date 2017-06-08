@@ -3,7 +3,7 @@ title: SharingItem.ReceivedByName Property (Outlook)
 keywords: vbaol11.chm645
 f1_keywords:
 - vbaol11.chm645
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReceivedByName
 ms.assetid: 2f12e42f-2bc6-cdc6-1fe3-13485891cccd

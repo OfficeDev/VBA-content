@@ -3,7 +3,7 @@ title: ContactItem.Email1EntryID Property (Outlook)
 keywords: vbaol11.chm994
 f1_keywords:
 - vbaol11.chm994
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Email1EntryID
 ms.assetid: 8329e2a9-52e6-f3f1-56b4-c17752510e0b

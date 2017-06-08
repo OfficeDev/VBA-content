@@ -3,7 +3,7 @@ title: CategoryRuleCondition.Application Property (Outlook)
 keywords: vbaol11.chm2440
 f1_keywords:
 - vbaol11.chm2440
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CategoryRuleCondition.Application
 ms.assetid: 4db7d71e-c1b3-7320-183a-17efbbf115ff

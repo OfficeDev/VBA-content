@@ -3,7 +3,7 @@ title: ExchangeDistributionList.PrimarySmtpAddress Property (Outlook)
 keywords: vbaol11.chm2134
 f1_keywords:
 - vbaol11.chm2134
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.PrimarySmtpAddress
 ms.assetid: f64bbc29-14c4-be68-402a-16d9ac34a727

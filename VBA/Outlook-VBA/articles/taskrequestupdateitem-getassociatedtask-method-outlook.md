@@ -3,7 +3,7 @@ title: TaskRequestUpdateItem.GetAssociatedTask Method (Outlook)
 keywords: vbaol11.chm1955
 f1_keywords:
 - vbaol11.chm1955
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.GetAssociatedTask
 ms.assetid: b663f5fe-05bf-c1c7-f53b-1fbd308f22f8

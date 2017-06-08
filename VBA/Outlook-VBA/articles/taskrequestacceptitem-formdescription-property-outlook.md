@@ -3,7 +3,7 @@ title: TaskRequestAcceptItem.FormDescription Property (Outlook)
 keywords: vbaol11.chm1784
 f1_keywords:
 - vbaol11.chm1784
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.FormDescription
 ms.assetid: f737b344-092e-e265-e70f-1e57713eb81b

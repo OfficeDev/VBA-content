@@ -3,7 +3,7 @@ title: Reminder.OriginalReminderDate Property (Outlook)
 keywords: vbaol11.chm564
 f1_keywords:
 - vbaol11.chm564
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder.OriginalReminderDate
 ms.assetid: ecc3f0c4-0e20-1d02-94b5-40807523ad2d

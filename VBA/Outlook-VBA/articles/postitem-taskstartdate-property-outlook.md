@@ -3,7 +3,7 @@ title: PostItem.TaskStartDate Property (Outlook)
 keywords: vbaol11.chm1573
 f1_keywords:
 - vbaol11.chm1573
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.TaskStartDate
 ms.assetid: 7c5036ea-dac8-9dcf-c9cc-482185811575

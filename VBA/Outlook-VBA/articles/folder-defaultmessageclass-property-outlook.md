@@ -3,7 +3,7 @@ title: Folder.DefaultMessageClass Property (Outlook)
 keywords: vbaol11.chm1986
 f1_keywords:
 - vbaol11.chm1986
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.DefaultMessageClass
 ms.assetid: f8daf970-4ae1-6713-c7f8-4420d952b823

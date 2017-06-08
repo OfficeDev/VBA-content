@@ -3,7 +3,7 @@ title: TableView.Language Property (Outlook)
 keywords: vbaol11.chm2508
 f1_keywords:
 - vbaol11.chm2508
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Language
 ms.assetid: cd600b12-0858-3edb-9c3a-5dc4cd0fc8bc

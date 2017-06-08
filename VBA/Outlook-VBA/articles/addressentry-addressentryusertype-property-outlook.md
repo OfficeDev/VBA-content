@@ -3,7 +3,7 @@ title: AddressEntry.AddressEntryUserType Property (Outlook)
 keywords: vbaol11.chm2057
 f1_keywords:
 - vbaol11.chm2057
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.AddressEntryUserType
 ms.assetid: 082ff106-c7c8-a505-fc82-170540d851fe

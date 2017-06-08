@@ -3,7 +3,7 @@ title: OlkCommandButton.Enter Event (Outlook)
 keywords: vbaol11.chm1000125
 f1_keywords:
 - vbaol11.chm1000125
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Enter
 ms.assetid: af533f23-e899-3171-51e0-b2bb380ad943

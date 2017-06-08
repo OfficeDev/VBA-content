@@ -3,7 +3,7 @@ title: SendRuleAction.Enabled Property (Outlook)
 keywords: vbaol11.chm2220
 f1_keywords:
 - vbaol11.chm2220
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SendRuleAction.Enabled
 ms.assetid: c046cb54-b275-b903-2f9c-dc9a106cdc8a

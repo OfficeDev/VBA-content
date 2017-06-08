@@ -3,7 +3,7 @@ title: Table.EndOfTable Property (Outlook)
 keywords: vbaol11.chm2237
 f1_keywords:
 - vbaol11.chm2237
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Table.EndOfTable
 ms.assetid: 8c185230-65ce-1b66-7b63-8de3533dea86

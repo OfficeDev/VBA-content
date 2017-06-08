@@ -3,7 +3,7 @@ title: Category.Name Property (Outlook)
 keywords: vbaol11.chm2426
 f1_keywords:
 - vbaol11.chm2426
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Category.Name
 ms.assetid: b9a711e9-f79d-f4f7-88bb-eaeb61d64089

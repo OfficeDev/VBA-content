@@ -3,7 +3,7 @@ title: SharingItem.PermissionTemplateGuid Property (Outlook)
 keywords: vbaol11.chm3511
 f1_keywords:
 - vbaol11.chm3511
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PermissionTemplateGuid
 ms.assetid: 166c2975-b6be-d1ca-4aa8-ad7deb42c68d

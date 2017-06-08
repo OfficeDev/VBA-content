@@ -3,7 +3,7 @@ title: AccountSelector.SelectedAccountChange Event (Outlook)
 keywords: vbaol11.chm3455
 f1_keywords:
 - vbaol11.chm3455
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AccountSelector.SelectedAccountChange
 ms.assetid: c99b8a90-eb77-ee58-b11d-c47b665ee02c

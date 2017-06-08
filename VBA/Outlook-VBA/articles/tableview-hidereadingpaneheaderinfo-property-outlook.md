@@ -3,7 +3,7 @@ title: TableView.HideReadingPaneHeaderInfo Property (Outlook)
 keywords: vbaol11.chm2531
 f1_keywords:
 - vbaol11.chm2531
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.HideReadingPaneHeaderInfo
 ms.assetid: 1932f837-f04a-4bf4-e327-6666f5b89b5a

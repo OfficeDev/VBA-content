@@ -3,7 +3,7 @@ title: TaskRequestUpdateItem.Parent Property (Outlook)
 keywords: vbaol11.chm1920
 f1_keywords:
 - vbaol11.chm1920
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Parent
 ms.assetid: c7fe56d6-42b4-3889-8336-36d4235138dc

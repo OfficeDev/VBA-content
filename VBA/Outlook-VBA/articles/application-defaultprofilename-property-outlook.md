@@ -3,7 +3,7 @@ title: Application.DefaultProfileName Property (Outlook)
 keywords: vbaol11.chm732
 f1_keywords:
 - vbaol11.chm732
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.DefaultProfileName
 ms.assetid: 53c6a189-9337-6413-72e5-bf6ea8794361

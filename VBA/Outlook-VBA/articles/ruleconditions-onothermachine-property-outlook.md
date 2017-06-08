@@ -3,7 +3,7 @@ title: RuleConditions.OnOtherMachine Property (Outlook)
 keywords: vbaol11.chm2323
 f1_keywords:
 - vbaol11.chm2323
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.OnOtherMachine
 ms.assetid: 03d96697-5978-8a0c-7356-dfe721f5b05d

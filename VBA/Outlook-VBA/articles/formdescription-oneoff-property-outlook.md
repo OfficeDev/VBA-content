@@ -3,7 +3,7 @@ title: FormDescription.OneOff Property (Outlook)
 keywords: vbaol11.chm195
 f1_keywords:
 - vbaol11.chm195
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.OneOff
 ms.assetid: 6bb466e5-0d59-d85a-5699-719160cc0ece

@@ -1,6 +1,6 @@
 ---
 title: Add-ins Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 510a5bba-4bb0-7475-813c-93bf6de3906f
 ms.date: 06/08/2017
 ---

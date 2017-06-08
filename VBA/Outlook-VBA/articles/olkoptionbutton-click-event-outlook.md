@@ -3,7 +3,7 @@ title: OlkOptionButton.Click Event (Outlook)
 keywords: vbaol11.chm1000179
 f1_keywords:
 - vbaol11.chm1000179
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Click
 ms.assetid: fe9250e7-f1ec-b35f-83fe-c2d1a9f03d36

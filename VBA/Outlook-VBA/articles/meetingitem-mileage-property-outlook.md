@@ -3,7 +3,7 @@ title: MeetingItem.Mileage Property (Outlook)
 keywords: vbaol11.chm1418
 f1_keywords:
 - vbaol11.chm1418
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Mileage
 ms.assetid: 42bcb344-a9d5-bb3e-f346-d41cc1f30055

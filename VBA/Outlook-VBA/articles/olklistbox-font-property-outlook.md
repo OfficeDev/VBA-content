@@ -3,7 +3,7 @@ title: OlkListBox.Font Property (Outlook)
 keywords: vbaol11.chm1000254
 f1_keywords:
 - vbaol11.chm1000254
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Font
 ms.assetid: 6805d5e8-b1b6-ab5b-25e1-6a2863a87a59

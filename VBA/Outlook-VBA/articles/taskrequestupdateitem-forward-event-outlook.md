@@ -1,6 +1,6 @@
 ---
 title: TaskRequestUpdateItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Forward
 ms.assetid: c992a365-b36b-278d-5c93-32fa4b0f4993

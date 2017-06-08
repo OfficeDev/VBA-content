@@ -3,7 +3,7 @@ title: TimelineView.Reset Method (Outlook)
 keywords: vbaol11.chm2649
 f1_keywords:
 - vbaol11.chm2649
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Reset
 ms.assetid: d101d006-9a95-81ed-d632-23f6c534d471

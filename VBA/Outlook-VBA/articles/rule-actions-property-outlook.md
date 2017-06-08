@@ -3,7 +3,7 @@ title: Rule.Actions Property (Outlook)
 keywords: vbaol11.chm2174
 f1_keywords:
 - vbaol11.chm2174
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Rule.Actions
 ms.assetid: 2b1e2ad4-c735-b3a8-6b27-5004f10393ce

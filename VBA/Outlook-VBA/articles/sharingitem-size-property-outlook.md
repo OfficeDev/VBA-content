@@ -3,7 +3,7 @@ title: SharingItem.Size Property (Outlook)
 keywords: vbaol11.chm619
 f1_keywords:
 - vbaol11.chm619
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Size
 ms.assetid: d0ec273c-d911-7d32-438c-a68480c079ff

@@ -3,7 +3,7 @@ title: TaskItem.StatusUpdateRecipients Property (Outlook)
 keywords: vbaol11.chm1746
 f1_keywords:
 - vbaol11.chm1746
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.StatusUpdateRecipients
 ms.assetid: 904e4685-75db-9267-7f88-dd2bce6e8509

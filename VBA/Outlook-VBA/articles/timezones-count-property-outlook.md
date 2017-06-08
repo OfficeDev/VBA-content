@@ -3,7 +3,7 @@ title: TimeZones.Count Property (Outlook)
 keywords: vbaol11.chm3295
 f1_keywords:
 - vbaol11.chm3295
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZones.Count
 ms.assetid: be4bd1d0-e9a9-0b9d-0b9e-1c8085a50f9f

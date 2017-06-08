@@ -1,6 +1,6 @@
 ---
 title: TaskRequestAcceptItem.AttachmentRemove Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.AttachmentRemove
 ms.assetid: 5cb672ed-ce5a-4c41-1ce0-c86eec14f0c5

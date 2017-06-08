@@ -3,7 +3,7 @@ title: Selection.Parent Property (Outlook)
 keywords: vbaol11.chm84
 f1_keywords:
 - vbaol11.chm84
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Selection.Parent
 ms.assetid: a081601f-a0ee-d998-f0e9-0193f9db843e

@@ -3,7 +3,7 @@ title: Folder.Delete Method (Outlook)
 keywords: vbaol11.chm1995
 f1_keywords:
 - vbaol11.chm1995
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Delete
 ms.assetid: 3df0f063-3f41-e3b7-d1e3-7ea08970c56d

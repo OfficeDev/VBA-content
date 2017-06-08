@@ -3,7 +3,7 @@ title: AppointmentItem.GetRecurrencePattern Method (Outlook)
 keywords: vbaol11.chm905
 f1_keywords:
 - vbaol11.chm905
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.GetRecurrencePattern
 ms.assetid: a9f67c5b-a77f-4e34-e654-d12560a6dba0

@@ -3,7 +3,7 @@ title: TaskRequestItem.Close Method (Outlook)
 keywords: vbaol11.chm1898
 f1_keywords:
 - vbaol11.chm1898
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Close
 ms.assetid: c24b364b-f4d5-22dc-2357-691311e9f34b

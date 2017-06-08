@@ -3,7 +3,7 @@ title: MeetingItem.UserProperties Property (Outlook)
 keywords: vbaol11.chm1427
 f1_keywords:
 - vbaol11.chm1427
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.UserProperties
 ms.assetid: a88bfccb-e90b-1327-29e4-afb63565bb1b

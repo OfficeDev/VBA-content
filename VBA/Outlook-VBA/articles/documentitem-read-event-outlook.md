@@ -1,6 +1,6 @@
 ---
 title: DocumentItem.Read Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Read
 ms.assetid: da5e82e6-43b9-d040-e529-2388049a8e1b

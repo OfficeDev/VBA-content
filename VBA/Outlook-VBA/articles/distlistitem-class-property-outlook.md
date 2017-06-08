@@ -3,7 +3,7 @@ title: DistListItem.Class Property (Outlook)
 keywords: vbaol11.chm1111
 f1_keywords:
 - vbaol11.chm1111
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Class
 ms.assetid: f44d59bf-c25b-ebab-72a8-dd5c40c119b5

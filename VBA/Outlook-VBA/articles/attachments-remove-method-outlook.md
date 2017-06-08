@@ -3,7 +3,7 @@ title: Attachments.Remove Method (Outlook)
 keywords: vbaol11.chm177
 f1_keywords:
 - vbaol11.chm177
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Attachments.Remove
 ms.assetid: be49c973-b64e-84d9-1bf6-73b27a7e84f0

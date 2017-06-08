@@ -3,7 +3,7 @@ title: OlkCategory.MouseUp Event (Outlook)
 keywords: vbaol11.chm1000453
 f1_keywords:
 - vbaol11.chm1000453
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.MouseUp
 ms.assetid: 9fdd7eba-d5fe-f239-b658-26f425632440

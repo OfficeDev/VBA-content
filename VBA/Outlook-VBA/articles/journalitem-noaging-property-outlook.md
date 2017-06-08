@@ -3,7 +3,7 @@ title: JournalItem.NoAging Property (Outlook)
 keywords: vbaol11.chm1248
 f1_keywords:
 - vbaol11.chm1248
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.NoAging
 ms.assetid: 7ff32f89-ec5d-de26-e813-82ff33af8689

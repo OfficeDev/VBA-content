@@ -3,7 +3,7 @@ title: OlkTextBox.Click Event (Outlook)
 keywords: vbaol11.chm1000071
 f1_keywords:
 - vbaol11.chm1000071
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Click
 ms.assetid: aee867d0-bc0f-5564-a1b3-25b224efb045

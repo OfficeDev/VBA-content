@@ -3,7 +3,7 @@ title: RuleConditions.NotTo Property (Outlook)
 keywords: vbaol11.chm2306
 f1_keywords:
 - vbaol11.chm2306
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.NotTo
 ms.assetid: 9889e503-05cd-ebf8-40e0-358327798b6a

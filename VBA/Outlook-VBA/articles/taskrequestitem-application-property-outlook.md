@@ -3,7 +3,7 @@ title: TaskRequestItem.Application Property (Outlook)
 keywords: vbaol11.chm1868
 f1_keywords:
 - vbaol11.chm1868
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Application
 ms.assetid: 7cbda396-22d2-76e8-b6ed-e393956a6804

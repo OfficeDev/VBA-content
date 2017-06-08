@@ -1,6 +1,6 @@
 ---
 title: JournalItem.PropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.PropertyChange
 ms.assetid: a04a13ea-85ce-f93e-37af-fa7b77757204

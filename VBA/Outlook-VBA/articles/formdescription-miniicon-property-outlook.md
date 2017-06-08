@@ -3,7 +3,7 @@ title: FormDescription.MiniIcon Property (Outlook)
 keywords: vbaol11.chm192
 f1_keywords:
 - vbaol11.chm192
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.FormDescription.MiniIcon
 ms.assetid: ed409d6a-c00d-35b5-97ca-2afa89dfcad1

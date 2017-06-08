@@ -3,7 +3,7 @@ title: Inspector.ShowFormPage Method (Outlook)
 keywords: vbaol11.chm2970
 f1_keywords:
 - vbaol11.chm2970
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.ShowFormPage
 ms.assetid: d31a4df6-7b94-5eb4-8ec9-5a03dcaae53a

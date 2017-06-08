@@ -3,7 +3,7 @@ title: ExchangeDistributionList.GetOwners Method (Outlook)
 keywords: vbaol11.chm2135
 f1_keywords:
 - vbaol11.chm2135
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.GetOwners
 ms.assetid: f09f5550-b750-4e39-9644-bc98a978daa2

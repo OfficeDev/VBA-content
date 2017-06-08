@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.NewTask Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: c997fd53-87fe-11b4-5966-a644bb812332
 ms.date: 06/08/2017
 ---

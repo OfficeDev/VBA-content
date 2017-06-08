@@ -3,7 +3,7 @@ title: CalendarSharing.IncludeAttachments Property (Outlook)
 keywords: vbaol11.chm2416
 f1_keywords:
 - vbaol11.chm2416
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.IncludeAttachments
 ms.assetid: 504bba9e-009f-986f-070e-ff73ce82ea03

@@ -3,7 +3,7 @@ title: SharingItem.Submitted Property (Outlook)
 keywords: vbaol11.chm664
 f1_keywords:
 - vbaol11.chm664
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Submitted
 ms.assetid: 3ba97a01-9890-5334-2d5b-4b1cfc70382f

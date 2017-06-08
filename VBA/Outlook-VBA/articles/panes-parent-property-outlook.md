@@ -3,7 +3,7 @@ title: Panes.Parent Property (Outlook)
 keywords: vbaol11.chm77
 f1_keywords:
 - vbaol11.chm77
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Panes.Parent
 ms.assetid: 5255917c-21e3-c52e-a2d6-d5012dfce13f

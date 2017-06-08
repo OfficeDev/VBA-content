@@ -3,7 +3,7 @@ title: DocumentItem.Save Method (Outlook)
 keywords: vbaol11.chm1215
 f1_keywords:
 - vbaol11.chm1215
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Save
 ms.assetid: 0cb1716d-6e53-6188-0feb-3c4ece9ab0a6

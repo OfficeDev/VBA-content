@@ -3,7 +3,7 @@ title: RuleActions.CC Property (Outlook)
 keywords: vbaol11.chm2192
 f1_keywords:
 - vbaol11.chm2192
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.CC
 ms.assetid: edbaaf74-cfd2-304b-61f3-8d12a621239c

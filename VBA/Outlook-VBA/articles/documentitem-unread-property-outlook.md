@@ -3,7 +3,7 @@ title: DocumentItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1207
 f1_keywords:
 - vbaol11.chm1207
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.UnRead
 ms.assetid: bf791b60-e871-8e1b-79c0-13683658c1e9

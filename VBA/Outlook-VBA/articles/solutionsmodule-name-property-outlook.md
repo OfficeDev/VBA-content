@@ -3,7 +3,7 @@ title: SolutionsModule.Name Property (Outlook)
 keywords: vbaol11.chm3365
 f1_keywords:
 - vbaol11.chm3365
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Name
 ms.assetid: dc764b2a-d668-4a84-2bfa-7f4a3afc4dea

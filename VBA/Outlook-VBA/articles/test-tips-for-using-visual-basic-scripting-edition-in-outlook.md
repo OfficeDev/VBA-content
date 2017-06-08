@@ -1,6 +1,6 @@
 ---
 title: Test Tips for Using Visual Basic Scripting Edition in Outlook
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 6a867ead-93c1-40b6-b255-8db18d3f6eec
 ms.date: 06/08/2017
 ---

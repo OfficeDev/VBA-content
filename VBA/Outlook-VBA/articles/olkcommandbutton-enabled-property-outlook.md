@@ -3,7 +3,7 @@ title: OlkCommandButton.Enabled Property (Outlook)
 keywords: vbaol11.chm1000112
 f1_keywords:
 - vbaol11.chm1000112
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Enabled
 ms.assetid: 22722537-5252-7693-ce7d-80fac08f94e0

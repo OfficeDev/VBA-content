@@ -1,6 +1,6 @@
 ---
 title: Match Entries in a List to Entries Typed by Users
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 629c3c16-e132-b062-c733-7ecb4a856694
 ms.date: 06/08/2017
 ---

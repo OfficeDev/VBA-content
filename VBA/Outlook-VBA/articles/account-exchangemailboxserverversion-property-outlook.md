@@ -3,7 +3,7 @@ title: Account.ExchangeMailboxServerVersion Property (Outlook)
 keywords: vbaol11.chm3551
 f1_keywords:
 - vbaol11.chm3551
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.ExchangeMailboxServerVersion
 ms.assetid: 5bfd2c63-5a87-9225-a9a8-1771fc480f21

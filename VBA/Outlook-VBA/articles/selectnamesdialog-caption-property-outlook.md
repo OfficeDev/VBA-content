@@ -3,7 +3,7 @@ title: SelectNamesDialog.Caption Property (Outlook)
 keywords: vbaol11.chm825
 f1_keywords:
 - vbaol11.chm825
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Caption
 ms.assetid: a728bcb5-8eee-8f77-76d7-4c15d53d79e2

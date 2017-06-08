@@ -3,7 +3,7 @@ title: Account.AutoDiscoverConnectionMode Property (Outlook)
 keywords: vbaol11.chm3436
 f1_keywords:
 - vbaol11.chm3436
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.AutoDiscoverConnectionMode
 ms.assetid: d9089143-caff-6e08-cc7d-f8659384d36e

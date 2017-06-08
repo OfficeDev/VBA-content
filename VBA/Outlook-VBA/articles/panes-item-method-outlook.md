@@ -3,7 +3,7 @@ title: Panes.Item Method (Outlook)
 keywords: vbaol11.chm79
 f1_keywords:
 - vbaol11.chm79
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Panes.Item
 ms.assetid: 1c4129d3-220b-accb-f547-afa973b7048b

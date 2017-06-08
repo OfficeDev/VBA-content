@@ -3,7 +3,7 @@ title: MoveOrCopyRuleAction Object (Outlook)
 keywords: vbaol11.chm3164
 f1_keywords:
 - vbaol11.chm3164
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MoveOrCopyRuleAction
 ms.assetid: db951ad8-0d05-1696-acf4-c1da4fbdee33

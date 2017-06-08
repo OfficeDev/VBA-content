@@ -3,7 +3,7 @@ title: AppointmentItem.SendUsingAccount Property (Outlook)
 keywords: vbaol11.chm923
 f1_keywords:
 - vbaol11.chm923
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.SendUsingAccount
 ms.assetid: c3a73b32-c2e1-cb32-35e3-e278f78700ad

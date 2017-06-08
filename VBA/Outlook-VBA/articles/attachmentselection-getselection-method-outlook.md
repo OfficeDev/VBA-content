@@ -3,7 +3,7 @@ title: AttachmentSelection.GetSelection Method (Outlook)
 keywords: vbaol11.chm3534
 f1_keywords:
 - vbaol11.chm3534
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.GetSelection
 ms.assetid: 048d6d00-8928-68a5-f02c-20fdbae093c6

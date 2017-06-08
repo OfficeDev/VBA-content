@@ -3,7 +3,7 @@ title: AddressEntries.Parent Property (Outlook)
 keywords: vbaol11.chm28
 f1_keywords:
 - vbaol11.chm28
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.Parent
 ms.assetid: 42155333-c917-a950-6162-0ddc8f3616d5

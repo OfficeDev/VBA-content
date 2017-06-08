@@ -3,7 +3,7 @@ title: Folder.Class Property (Outlook)
 keywords: vbaol11.chm1982
 f1_keywords:
 - vbaol11.chm1982
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.Class
 ms.assetid: 6ec62401-52b2-acb4-af3f-b160ea5e28fc

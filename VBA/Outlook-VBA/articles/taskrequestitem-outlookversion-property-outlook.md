@@ -3,7 +3,7 @@ title: TaskRequestItem.OutlookVersion Property (Outlook)
 keywords: vbaol11.chm1891
 f1_keywords:
 - vbaol11.chm1891
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.OutlookVersion
 ms.assetid: 22c12d99-0f71-1314-1e68-97c98bf5b055

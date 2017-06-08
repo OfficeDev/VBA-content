@@ -3,7 +3,7 @@ title: OlkOptionButton.AfterUpdate Event (Outlook)
 keywords: vbaol11.chm1000190
 f1_keywords:
 - vbaol11.chm1000190
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.AfterUpdate
 ms.assetid: aa573288-f4fb-656c-304b-f564335c8c2d

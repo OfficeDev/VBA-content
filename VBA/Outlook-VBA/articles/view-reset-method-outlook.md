@@ -3,7 +3,7 @@ title: View.Reset Method (Outlook)
 keywords: vbaol11.chm2487
 f1_keywords:
 - vbaol11.chm2487
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.View.Reset
 ms.assetid: fb909688-309d-0a70-0b67-0f1793f6a27d

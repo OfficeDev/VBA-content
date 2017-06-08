@@ -3,7 +3,7 @@ title: NavigationPane.DisplayedModuleCount Property (Outlook)
 keywords: vbaol11.chm2792
 f1_keywords:
 - vbaol11.chm2792
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationPane.DisplayedModuleCount
 ms.assetid: f94018b1-95b9-403d-212b-e59e2bca9438

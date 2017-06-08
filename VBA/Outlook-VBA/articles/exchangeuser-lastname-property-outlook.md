@@ -3,7 +3,7 @@ title: ExchangeUser.LastName Property (Outlook)
 keywords: vbaol11.chm2094
 f1_keywords:
 - vbaol11.chm2094
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.LastName
 ms.assetid: 1f9f9675-3e72-da56-d654-a1473f4f71a7

@@ -3,7 +3,7 @@ title: SyncObjects Object (Outlook)
 keywords: vbaol11.chm94
 f1_keywords:
 - vbaol11.chm94
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SyncObjects
 ms.assetid: 88e59f63-d834-b174-bbda-0af0cf2d0520

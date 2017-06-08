@@ -1,6 +1,6 @@
 ---
 title: Create a Custom Action for a Form Region
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bf889270-3e80-a240-15e4-c57a3f1e7b9b
 ms.date: 06/08/2017
 ---

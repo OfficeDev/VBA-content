@@ -3,7 +3,7 @@ title: MailItem.DeferredDeliveryTime Property (Outlook)
 keywords: vbaol11.chm1332
 f1_keywords:
 - vbaol11.chm1332
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.DeferredDeliveryTime
 ms.assetid: dbd2fe31-7e5d-d565-61d5-329e8e03b804

@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.Saved Property (Outlook)
 keywords: vbaol11.chm1843
 f1_keywords:
 - vbaol11.chm1843
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Saved
 ms.assetid: 9e767660-cabc-5389-0cff-fc9d2c9e3262

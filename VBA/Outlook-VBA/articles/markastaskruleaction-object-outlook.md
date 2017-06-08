@@ -3,7 +3,7 @@ title: MarkAsTaskRuleAction Object (Outlook)
 keywords: vbaol11.chm3170
 f1_keywords:
 - vbaol11.chm3170
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MarkAsTaskRuleAction
 ms.assetid: 639d9242-7387-2b25-9d0f-f7a14cf16790

@@ -3,7 +3,7 @@ title: OutlookBarStorage.Session Property (Outlook)
 keywords: vbaol11.chm370
 f1_keywords:
 - vbaol11.chm370
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarStorage.Session
 ms.assetid: f3ba6302-aca2-f8ba-3a82-ae35f6b5b609

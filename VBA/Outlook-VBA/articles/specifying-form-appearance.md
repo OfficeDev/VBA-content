@@ -1,6 +1,6 @@
 ---
 title: Specifying Form Appearance
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 8c89ea77-8c09-4cfc-a6ac-d6cb7036db74
 ms.date: 06/08/2017
 ---

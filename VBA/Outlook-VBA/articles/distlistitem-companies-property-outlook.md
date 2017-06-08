@@ -3,7 +3,7 @@ title: DistListItem.Companies Property (Outlook)
 keywords: vbaol11.chm1119
 f1_keywords:
 - vbaol11.chm1119
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Companies
 ms.assetid: f56d0c89-4715-e267-9273-ef6ae5959cdf

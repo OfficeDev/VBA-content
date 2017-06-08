@@ -3,7 +3,7 @@ title: ExchangeUser.MobileTelephoneNumber Property (Outlook)
 keywords: vbaol11.chm2095
 f1_keywords:
 - vbaol11.chm2095
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.MobileTelephoneNumber
 ms.assetid: 9c76ef68-1f85-d072-11d9-015fbbe1658e

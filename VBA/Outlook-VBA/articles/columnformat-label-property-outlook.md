@@ -3,7 +3,7 @@ title: ColumnFormat.Label Property (Outlook)
 keywords: vbaol11.chm2728
 f1_keywords:
 - vbaol11.chm2728
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Label
 ms.assetid: cf104506-3eca-6695-3d3b-05022ce6fba4

@@ -3,7 +3,7 @@ title: OlkCheckBox.Value Property (Outlook)
 keywords: vbaol11.chm1000145
 f1_keywords:
 - vbaol11.chm1000145
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Value
 ms.assetid: 3872331d-9179-3412-1512-bc8ed5d35beb

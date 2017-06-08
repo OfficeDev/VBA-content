@@ -3,7 +3,7 @@ title: AppointmentItem.StartTimeZone Property (Outlook)
 keywords: vbaol11.chm3275
 f1_keywords:
 - vbaol11.chm3275
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.StartTimeZone
 ms.assetid: 3259fa91-5f6c-b899-9bfc-2ac669911271

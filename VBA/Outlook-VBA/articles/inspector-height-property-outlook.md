@@ -3,7 +3,7 @@ title: Inspector.Height Property (Outlook)
 keywords: vbaol11.chm2974
 f1_keywords:
 - vbaol11.chm2974
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.Height
 ms.assetid: 80932d90-2b7a-6125-6951-bc8fc3d8af1b

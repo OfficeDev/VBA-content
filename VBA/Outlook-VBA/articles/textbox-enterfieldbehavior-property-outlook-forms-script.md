@@ -1,6 +1,6 @@
 ---
 title: TextBox.EnterFieldBehavior Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b160b411-80b6-8731-3ee8-ac7ab889daf0
 ms.date: 06/08/2017
 ---

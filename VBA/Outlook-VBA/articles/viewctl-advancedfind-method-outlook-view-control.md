@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.AdvancedFind Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e7e2e606-2bce-2771-d89a-38fe035aa4fc
 ms.date: 06/08/2017
 ---

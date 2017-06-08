@@ -3,7 +3,7 @@ title: Results.Session Property (Outlook)
 keywords: vbaol11.chm500
 f1_keywords:
 - vbaol11.chm500
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Results.Session
 ms.assetid: 3b6453fb-ba9e-b0c1-f559-f751cbe142e2

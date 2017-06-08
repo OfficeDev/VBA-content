@@ -1,6 +1,6 @@
 ---
 title: Frame Events (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 48e9bac9-3047-47dc-b394-ad92a7f3d9ad
 ms.date: 06/08/2017
 ---

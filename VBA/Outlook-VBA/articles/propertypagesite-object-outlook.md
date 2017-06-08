@@ -3,7 +3,7 @@ title: PropertyPageSite Object (Outlook)
 keywords: vbaol11.chm384
 f1_keywords:
 - vbaol11.chm384
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPageSite
 ms.assetid: cdec4b4c-14b3-de0a-52c8-d5af46f4644a

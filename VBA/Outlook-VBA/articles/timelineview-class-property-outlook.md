@@ -3,7 +3,7 @@ title: TimelineView.Class Property (Outlook)
 keywords: vbaol11.chm2643
 f1_keywords:
 - vbaol11.chm2643
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Class
 ms.assetid: e85f5725-d845-02df-33ef-752d735ac1ce

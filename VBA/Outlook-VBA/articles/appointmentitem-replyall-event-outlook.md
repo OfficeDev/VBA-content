@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReplyAll
 ms.assetid: c49245b9-0770-f551-c382-3f5745aead04

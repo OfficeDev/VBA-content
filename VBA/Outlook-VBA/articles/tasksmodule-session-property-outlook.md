@@ -3,7 +3,7 @@ title: TasksModule.Session Property (Outlook)
 keywords: vbaol11.chm2844
 f1_keywords:
 - vbaol11.chm2844
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TasksModule.Session
 ms.assetid: 947b6795-21db-e2fb-b76b-43dc90520403

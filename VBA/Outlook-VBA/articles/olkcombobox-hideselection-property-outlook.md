@@ -3,7 +3,7 @@ title: OlkComboBox.HideSelection Property (Outlook)
 keywords: vbaol11.chm1000204
 f1_keywords:
 - vbaol11.chm1000204
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.HideSelection
 ms.assetid: 6d378717-9b9c-737a-5fdd-79e72b2538be

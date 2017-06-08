@@ -3,7 +3,7 @@ title: OlkListBox.Clear Method (Outlook)
 keywords: vbaol11.chm1000275
 f1_keywords:
 - vbaol11.chm1000275
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Clear
 ms.assetid: a91651ab-bf51-4bd2-0363-f1f14a56cedd

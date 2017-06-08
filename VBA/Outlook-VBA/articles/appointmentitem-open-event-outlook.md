@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Open
 ms.assetid: 08a0d07b-6fd0-690e-6745-f5ad92bb3ff1

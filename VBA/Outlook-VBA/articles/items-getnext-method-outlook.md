@@ -3,7 +3,7 @@ title: Items.GetNext Method (Outlook)
 keywords: vbaol11.chm66
 f1_keywords:
 - vbaol11.chm66
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.GetNext
 ms.assetid: 01c49c21-d9f9-37c4-8c64-ff8e2b1f9462

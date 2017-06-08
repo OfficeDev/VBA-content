@@ -1,6 +1,6 @@
 ---
 title: Using Visual Basic Scripting Edition to Customize Forms
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: dd7be9d4-76ba-4ce1-96a6-e7c5ce03661b
 ms.date: 06/08/2017
 ---

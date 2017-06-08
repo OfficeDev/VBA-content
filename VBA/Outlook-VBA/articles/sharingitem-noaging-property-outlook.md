@@ -3,7 +3,7 @@ title: SharingItem.NoAging Property (Outlook)
 keywords: vbaol11.chm614
 f1_keywords:
 - vbaol11.chm614
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.NoAging
 ms.assetid: ab7a8774-b22f-74ce-4ec6-2f4e4630243f

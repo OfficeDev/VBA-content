@@ -3,7 +3,7 @@ title: OutlookBarGroup.Session Property (Outlook)
 keywords: vbaol11.chm323
 f1_keywords:
 - vbaol11.chm323
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroup.Session
 ms.assetid: eb75d479-7217-51b3-6426-53ff960e9c60

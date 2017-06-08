@@ -3,7 +3,7 @@ title: RemoteItem.Close Method (Outlook)
 keywords: vbaol11.chm1612
 f1_keywords:
 - vbaol11.chm1612
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Close
 ms.assetid: 274e73b2-d5bf-1add-6add-e9d571f14d2a

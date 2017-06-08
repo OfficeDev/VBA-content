@@ -3,7 +3,7 @@ title: CategoryRuleCondition Object (Outlook)
 keywords: vbaol11.chm3179
 f1_keywords:
 - vbaol11.chm3179
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CategoryRuleCondition
 ms.assetid: 7a9b8271-d673-1c69-9a2a-11fd1e5fb262

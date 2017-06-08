@@ -3,7 +3,7 @@ title: OlkComboBox.Font Property (Outlook)
 keywords: vbaol11.chm1000202
 f1_keywords:
 - vbaol11.chm1000202
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Font
 ms.assetid: 61f0c361-be8d-9ccd-8163-62596aac855c

@@ -3,7 +3,7 @@ title: BusinessCardView.Copy Method (Outlook)
 keywords: vbaol11.chm2922
 f1_keywords:
 - vbaol11.chm2922
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Copy
 ms.assetid: 9a0a1a14-87bd-ff53-6643-5e11a07733a1

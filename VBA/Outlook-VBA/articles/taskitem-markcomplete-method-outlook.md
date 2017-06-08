@@ -3,7 +3,7 @@ title: TaskItem.MarkComplete Method (Outlook)
 keywords: vbaol11.chm1753
 f1_keywords:
 - vbaol11.chm1753
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.MarkComplete
 ms.assetid: e8641735-8bce-6175-d1a7-eb9a69ed8977

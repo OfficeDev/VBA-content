@@ -3,7 +3,7 @@ title: Recipient.AutoResponse Property (Outlook)
 keywords: vbaol11.chm2346
 f1_keywords:
 - vbaol11.chm2346
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Recipient.AutoResponse
 ms.assetid: db6e0658-8e12-ac0b-4317-396cfe4620f6

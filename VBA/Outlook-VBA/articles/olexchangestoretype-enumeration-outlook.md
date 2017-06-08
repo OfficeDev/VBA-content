@@ -3,7 +3,7 @@ title: OlExchangeStoreType Enumeration (Outlook)
 keywords: vbaol11.chm3106
 f1_keywords:
 - vbaol11.chm3106
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlExchangeStoreType
 ms.assetid: 43ad226d-1f18-048b-cc66-49ac56ebffda

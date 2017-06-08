@@ -3,7 +3,7 @@ title: MeetingItem.SentOn Property (Outlook)
 keywords: vbaol11.chm1452
 f1_keywords:
 - vbaol11.chm1452
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.SentOn
 ms.assetid: 361dfa26-6514-cc3a-aa1b-240728ac0dd9

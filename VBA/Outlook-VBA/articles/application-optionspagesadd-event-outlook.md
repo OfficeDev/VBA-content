@@ -3,7 +3,7 @@ title: Application.OptionsPagesAdd Event (Outlook)
 keywords: vbaol11.chm432
 f1_keywords:
 - vbaol11.chm432
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.OptionsPagesAdd
 ms.assetid: aa13cd97-de96-00f8-a532-ca8ee9b00343

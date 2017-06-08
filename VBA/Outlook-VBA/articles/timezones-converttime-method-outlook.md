@@ -3,7 +3,7 @@ title: TimeZones.ConvertTime Method (Outlook)
 keywords: vbaol11.chm3297
 f1_keywords:
 - vbaol11.chm3297
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimeZones.ConvertTime
 ms.assetid: 6a935961-2030-ed9c-5c1b-4e6641ee3913

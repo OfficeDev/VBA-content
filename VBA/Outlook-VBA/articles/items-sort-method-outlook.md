@@ -3,7 +3,7 @@ title: Items.Sort Method (Outlook)
 keywords: vbaol11.chm72
 f1_keywords:
 - vbaol11.chm72
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.Sort
 ms.assetid: 7cb248a2-6885-8be5-df7b-fd5683081e01

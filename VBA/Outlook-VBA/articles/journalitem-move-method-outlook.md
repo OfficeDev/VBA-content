@@ -3,7 +3,7 @@ title: JournalItem.Move Method (Outlook)
 keywords: vbaol11.chm1261
 f1_keywords:
 - vbaol11.chm1261
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Move
 ms.assetid: 921be947-496f-e6e5-49f3-8b7a0a42dc27

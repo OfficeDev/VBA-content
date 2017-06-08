@@ -1,6 +1,6 @@
 ---
 title: Send an E-mail Given the SMTP Address of an Account (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5e5f707d-8771-bd5f-945b-58537732d99a
 ms.date: 06/08/2017
 ---

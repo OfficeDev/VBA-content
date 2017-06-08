@@ -3,7 +3,7 @@ title: Folders.GetLast Method (Outlook)
 keywords: vbaol11.chm48
 f1_keywords:
 - vbaol11.chm48
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.GetLast
 ms.assetid: 6d981844-3ac0-c6f9-b2ee-9cf495ab6488

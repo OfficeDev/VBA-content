@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.Open Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Open
 ms.assetid: 57094921-508c-7546-1981-3686bea7d325

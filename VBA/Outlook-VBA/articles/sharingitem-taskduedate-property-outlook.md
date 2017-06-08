@@ -3,7 +3,7 @@ title: SharingItem.TaskDueDate Property (Outlook)
 keywords: vbaol11.chm3219
 f1_keywords:
 - vbaol11.chm3219
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.TaskDueDate
 ms.assetid: baf6c9c8-cdf3-2e8b-71da-10a393421f56

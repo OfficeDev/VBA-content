@@ -3,7 +3,7 @@ title: DistListItem.ReminderSoundFile Property (Outlook)
 keywords: vbaol11.chm1176
 f1_keywords:
 - vbaol11.chm1176
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReminderSoundFile
 ms.assetid: 3d0d0543-97f5-cecd-a838-c36b5c35b8aa

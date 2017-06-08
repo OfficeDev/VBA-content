@@ -3,7 +3,7 @@ title: RuleConditions.HasAttachment Property (Outlook)
 keywords: vbaol11.chm2303
 f1_keywords:
 - vbaol11.chm2303
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.HasAttachment
 ms.assetid: d480c5ff-2313-f428-88b6-0cf52ffb4003

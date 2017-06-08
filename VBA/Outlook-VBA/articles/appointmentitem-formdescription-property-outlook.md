@@ -3,7 +3,7 @@ title: AppointmentItem.FormDescription Property (Outlook)
 keywords: vbaol11.chm852
 f1_keywords:
 - vbaol11.chm852
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.FormDescription
 ms.assetid: 516c9628-54e5-4732-9845-f359804dff64

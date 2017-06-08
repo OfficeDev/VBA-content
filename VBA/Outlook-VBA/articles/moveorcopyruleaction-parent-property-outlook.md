@@ -3,7 +3,7 @@ title: MoveOrCopyRuleAction.Parent Property (Outlook)
 keywords: vbaol11.chm2211
 f1_keywords:
 - vbaol11.chm2211
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MoveOrCopyRuleAction.Parent
 ms.assetid: 07231a6d-d64c-81a4-1ffa-73b3c97b6e32

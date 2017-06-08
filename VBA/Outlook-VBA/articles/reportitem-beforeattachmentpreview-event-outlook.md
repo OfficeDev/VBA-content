@@ -1,6 +1,6 @@
 ---
 title: ReportItem.BeforeAttachmentPreview Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAttachmentPreview
 ms.assetid: 105baaa6-b0ff-d7dc-6181-b8c9141c192b

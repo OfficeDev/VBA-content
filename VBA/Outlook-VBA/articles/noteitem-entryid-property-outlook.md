@@ -3,7 +3,7 @@ title: NoteItem.EntryID Property (Outlook)
 keywords: vbaol11.chm1481
 f1_keywords:
 - vbaol11.chm1481
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.EntryID
 ms.assetid: 58eca680-4336-28cb-da0c-45a9415746a1

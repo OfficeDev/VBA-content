@@ -3,7 +3,7 @@ title: Account.UserName Property (Outlook)
 keywords: vbaol11.chm742
 f1_keywords:
 - vbaol11.chm742
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.UserName
 ms.assetid: 3ab96240-b68c-e2f7-83b9-6d6663c4880d

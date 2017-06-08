@@ -3,7 +3,7 @@ title: OlRuleType Enumeration (Outlook)
 keywords: vbaol11.chm3112
 f1_keywords:
 - vbaol11.chm3112
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlRuleType
 ms.assetid: a9ef16ad-78cf-8c26-0897-39a0bf1a25b1

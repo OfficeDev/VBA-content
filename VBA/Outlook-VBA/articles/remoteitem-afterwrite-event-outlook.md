@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.AfterWrite
 ms.assetid: 806e9b23-9f08-6888-607a-4377af2c4d04

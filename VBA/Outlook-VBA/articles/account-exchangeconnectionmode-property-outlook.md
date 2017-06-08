@@ -3,7 +3,7 @@ title: Account.ExchangeConnectionMode Property (Outlook)
 keywords: vbaol11.chm3424
 f1_keywords:
 - vbaol11.chm3424
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Account.ExchangeConnectionMode
 ms.assetid: 40fee809-48ab-5788-819a-c61b6eb782a5

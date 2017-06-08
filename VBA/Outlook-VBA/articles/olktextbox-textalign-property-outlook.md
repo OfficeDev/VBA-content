@@ -3,7 +3,7 @@ title: OlkTextBox.TextAlign Property (Outlook)
 keywords: vbaol11.chm1000059
 f1_keywords:
 - vbaol11.chm1000059
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.TextAlign
 ms.assetid: 92ac10f9-6c49-cb60-9c4d-05daf9479613

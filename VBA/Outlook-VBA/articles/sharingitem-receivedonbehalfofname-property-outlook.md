@@ -3,7 +3,7 @@ title: SharingItem.ReceivedOnBehalfOfName Property (Outlook)
 keywords: vbaol11.chm647
 f1_keywords:
 - vbaol11.chm647
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReceivedOnBehalfOfName
 ms.assetid: ffc506c0-7f22-84f6-f7ba-fee4a2c30d7a

@@ -3,7 +3,7 @@ title: ContactItem.LastName Property (Outlook)
 keywords: vbaol11.chm1032
 f1_keywords:
 - vbaol11.chm1032
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastName
 ms.assetid: 430682f6-a230-887b-404b-a71989121fa2

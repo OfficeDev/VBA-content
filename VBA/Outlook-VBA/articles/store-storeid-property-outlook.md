@@ -3,7 +3,7 @@ title: Store.StoreID Property (Outlook)
 keywords: vbaol11.chm801
 f1_keywords:
 - vbaol11.chm801
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.StoreID
 ms.assetid: fce5fa3a-87dc-68c5-ba5f-ee1430584b5d

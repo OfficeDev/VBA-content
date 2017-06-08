@@ -3,7 +3,7 @@ title: ViewFont.Session Property (Outlook)
 keywords: vbaol11.chm2693
 f1_keywords:
 - vbaol11.chm2693
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Session
 ms.assetid: 8f126189-3bec-6eee-1e62-b178738d361b

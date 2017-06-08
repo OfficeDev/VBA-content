@@ -3,7 +3,7 @@ title: Items.SetColumns Method (Outlook)
 keywords: vbaol11.chm71
 f1_keywords:
 - vbaol11.chm71
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.SetColumns
 ms.assetid: 90206a68-baf8-282c-5793-fee029fed452

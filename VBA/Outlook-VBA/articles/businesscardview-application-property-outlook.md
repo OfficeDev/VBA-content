@@ -3,7 +3,7 @@ title: BusinessCardView.Application Property (Outlook)
 keywords: vbaol11.chm2917
 f1_keywords:
 - vbaol11.chm2917
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Application
 ms.assetid: 3cb74b7f-9320-9e14-6b2f-3ff79cdde550

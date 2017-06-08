@@ -3,7 +3,7 @@ title: TaskItem.StatusOnCompletionRecipients Property (Outlook)
 keywords: vbaol11.chm1745
 f1_keywords:
 - vbaol11.chm1745
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.StatusOnCompletionRecipients
 ms.assetid: 9800dcb7-6b12-af4b-0379-25658c946118

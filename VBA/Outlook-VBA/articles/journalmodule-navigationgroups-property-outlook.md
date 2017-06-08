@@ -3,7 +3,7 @@ title: JournalModule.NavigationGroups Property (Outlook)
 keywords: vbaol11.chm2870
 f1_keywords:
 - vbaol11.chm2870
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalModule.NavigationGroups
 ms.assetid: 724fa397-4180-fc7f-adcb-d298eb80e821

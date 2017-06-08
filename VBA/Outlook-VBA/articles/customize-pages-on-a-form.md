@@ -1,6 +1,6 @@
 ---
 title: Customize Pages on a Form
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: fb76c965-22b7-c399-fc07-b20143ab3e11
 ms.date: 06/08/2017
 ---

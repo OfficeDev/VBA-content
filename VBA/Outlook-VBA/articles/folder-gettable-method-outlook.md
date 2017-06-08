@@ -3,7 +3,7 @@ title: Folder.GetTable Method (Outlook)
 keywords: vbaol11.chm2018
 f1_keywords:
 - vbaol11.chm2018
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.GetTable
 ms.assetid: 08d184cb-0c41-01b1-abc5-305476380f8b

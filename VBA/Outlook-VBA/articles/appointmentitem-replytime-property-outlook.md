@@ -3,7 +3,7 @@ title: AppointmentItem.ReplyTime Property (Outlook)
 keywords: vbaol11.chm897
 f1_keywords:
 - vbaol11.chm897
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReplyTime
 ms.assetid: cf455d15-a360-818a-b6a7-59f4d1e89f4c

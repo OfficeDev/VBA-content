@@ -3,7 +3,7 @@ title: RemoteItem.Importance Property (Outlook)
 keywords: vbaol11.chm1598
 f1_keywords:
 - vbaol11.chm1598
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Importance
 ms.assetid: a3600292-d7a1-b9d7-e53c-f7da0bf144e8

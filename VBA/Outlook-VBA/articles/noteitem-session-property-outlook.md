@@ -3,7 +3,7 @@ title: NoteItem.Session Property (Outlook)
 keywords: vbaol11.chm1475
 f1_keywords:
 - vbaol11.chm1475
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Session
 ms.assetid: 87ebd38c-eec8-7e2c-8516-6ad3053e06cb

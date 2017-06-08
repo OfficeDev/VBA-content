@@ -3,7 +3,7 @@ title: PostItem.PropertyAccessor Property (Outlook)
 keywords: vbaol11.chm1569
 f1_keywords:
 - vbaol11.chm1569
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.PropertyAccessor
 ms.assetid: 3c96e28d-4878-0762-2475-4c7b60d75b81

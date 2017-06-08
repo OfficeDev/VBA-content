@@ -3,7 +3,7 @@ title: DocumentItem.Application Property (Outlook)
 keywords: vbaol11.chm1179
 f1_keywords:
 - vbaol11.chm1179
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Application
 ms.assetid: 115b303f-a46f-2967-012b-401a7cac33cb

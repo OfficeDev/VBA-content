@@ -3,7 +3,7 @@ title: Tag Property (Outlook Controls)
 keywords: olfm10.chm2002060
 f1_keywords:
 - olfm10.chm2002060
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: ad13b52e-781e-b42e-e6c3-9872e1cd4084
 ms.date: 06/08/2017
 ---

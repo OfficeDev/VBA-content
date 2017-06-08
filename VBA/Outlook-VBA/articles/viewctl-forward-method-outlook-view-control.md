@@ -1,6 +1,6 @@
 ---
 title: ViewCtl.Forward Method (Outlook View Control)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 08882114-2e17-2f4c-3633-9846ce7294a1
 ms.date: 06/08/2017
 ---

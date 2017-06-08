@@ -2,6 +2,7 @@
 title: TaskItem.ReadComplete Event (Outlook)
 ms.assetid: 0706a4b9-1035-bdf9-a48d-8d039a2001fa
 ms.date: 06/08/2017
+ms.prod: outlook
 ---
 
 

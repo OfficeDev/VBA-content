@@ -3,7 +3,7 @@ title: DistListItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm1162
 f1_keywords:
 - vbaol11.chm1162
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.MarkForDownload
 ms.assetid: 2c42b0ec-95d3-e292-94fd-a3e85801f232

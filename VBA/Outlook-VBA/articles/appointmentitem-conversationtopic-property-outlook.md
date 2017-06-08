@@ -3,7 +3,7 @@ title: AppointmentItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm849
 f1_keywords:
 - vbaol11.chm849
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ConversationTopic
 ms.assetid: dc46a62a-2259-80a8-3abf-ce214d9c911b

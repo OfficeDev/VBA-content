@@ -3,7 +3,7 @@ title: Inspector.BeforeMaximize Event (Outlook)
 keywords: vbaol11.chm468
 f1_keywords:
 - vbaol11.chm468
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.BeforeMaximize
 ms.assetid: 9793d228-85ea-50cd-4c1b-74ca23788aad

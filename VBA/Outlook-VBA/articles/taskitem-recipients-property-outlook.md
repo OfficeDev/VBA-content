@@ -3,7 +3,7 @@ title: TaskItem.Recipients Property (Outlook)
 keywords: vbaol11.chm1734
 f1_keywords:
 - vbaol11.chm1734
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Recipients
 ms.assetid: 03743284-9753-6cb9-b5cc-20bc5cb3621e

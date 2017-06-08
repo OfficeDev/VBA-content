@@ -3,7 +3,7 @@ title: ReportItem.Session Property (Outlook)
 keywords: vbaol11.chm1636
 f1_keywords:
 - vbaol11.chm1636
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Session
 ms.assetid: b9599afe-1c2b-36b2-2ce4-8e781f32975a

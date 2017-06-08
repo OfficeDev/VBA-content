@@ -1,6 +1,6 @@
 ---
 title: TabStrip.Value Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 28de6cc4-6b30-fed1-5f17-a15e572f6f9d
 ms.date: 06/08/2017
 ---

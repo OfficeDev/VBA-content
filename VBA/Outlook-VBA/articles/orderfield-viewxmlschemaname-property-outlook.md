@@ -3,7 +3,7 @@ title: OrderField.ViewXMLSchemaName Property (Outlook)
 keywords: vbaol11.chm2687
 f1_keywords:
 - vbaol11.chm2687
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OrderField.ViewXMLSchemaName
 ms.assetid: a88c22ff-3d30-a4f2-87f6-6c32c1c2acb7

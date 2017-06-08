@@ -3,7 +3,7 @@ title: CardView.Session Property (Outlook)
 keywords: vbaol11.chm2581
 f1_keywords:
 - vbaol11.chm2581
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CardView.Session
 ms.assetid: 2a5b5f88-dc27-ce37-e93b-30c6310fc03b

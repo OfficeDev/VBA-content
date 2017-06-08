@@ -3,7 +3,7 @@ title: OlSolutionScope Enumeration (Outlook)
 keywords: vbaol11.chm3358
 f1_keywords:
 - vbaol11.chm3358
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlSolutionScope
 ms.assetid: ed45d06e-222f-4abe-5e8e-c44a0a049d6c

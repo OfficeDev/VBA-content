@@ -3,7 +3,7 @@ title: Reminder.Session Property (Outlook)
 keywords: vbaol11.chm556
 f1_keywords:
 - vbaol11.chm556
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Reminder.Session
 ms.assetid: 30bd8c36-1afa-aae1-f050-47ad43af53f9

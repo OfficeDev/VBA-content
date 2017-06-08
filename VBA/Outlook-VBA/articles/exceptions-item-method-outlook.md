@@ -3,7 +3,7 @@ title: Exceptions.Item Method (Outlook)
 keywords: vbaol11.chm295
 f1_keywords:
 - vbaol11.chm295
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Exceptions.Item
 ms.assetid: c9d71000-8a83-299d-7607-ba35061eb120

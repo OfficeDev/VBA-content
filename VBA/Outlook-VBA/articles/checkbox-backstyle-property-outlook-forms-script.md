@@ -3,7 +3,7 @@ title: CheckBox.BackStyle Property (Outlook Forms Script)
 keywords: olfm10.chm2000780
 f1_keywords:
 - olfm10.chm2000780
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: a28550ae-e017-712f-cd13-36d281e90453
 ms.date: 06/08/2017
 ---

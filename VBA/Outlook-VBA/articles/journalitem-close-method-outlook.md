@@ -3,7 +3,7 @@ title: JournalItem.Close Method (Outlook)
 keywords: vbaol11.chm1257
 f1_keywords:
 - vbaol11.chm1257
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Close
 ms.assetid: f067cad9-828f-49f0-de55-c0a9f8369db9

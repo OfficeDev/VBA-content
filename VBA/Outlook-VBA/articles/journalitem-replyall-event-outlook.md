@@ -1,6 +1,6 @@
 ---
 title: JournalItem.ReplyAll Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ReplyAll
 ms.assetid: 86ab09f8-92f5-320e-9ec0-3be1f63c4583

@@ -3,7 +3,7 @@ title: StorageItem.Session Property (Outlook)
 keywords: vbaol11.chm2139
 f1_keywords:
 - vbaol11.chm2139
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Session
 ms.assetid: e3a005d0-daa3-853b-e603-c084ffb5d1db

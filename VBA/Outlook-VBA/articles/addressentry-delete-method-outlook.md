@@ -3,7 +3,7 @@ title: AddressEntry.Delete Method (Outlook)
 keywords: vbaol11.chm2050
 f1_keywords:
 - vbaol11.chm2050
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Delete
 ms.assetid: 5aea93e6-cf3f-897a-41dd-5c5bfd59d4bb

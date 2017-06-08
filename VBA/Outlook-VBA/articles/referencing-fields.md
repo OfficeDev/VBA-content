@@ -3,7 +3,7 @@ title: Referencing Fields
 keywords: olfm10.chm3077117
 f1_keywords:
 - olfm10.chm3077117
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2ddf0f1d-f889-d631-caf2-af5d80c6b9ef
 ms.date: 06/08/2017
 ---

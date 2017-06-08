@@ -3,7 +3,7 @@ title: DocumentItem.Importance Property (Outlook)
 keywords: vbaol11.chm1195
 f1_keywords:
 - vbaol11.chm1195
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Importance
 ms.assetid: 2d0364bc-89b9-a296-cb0b-3d048801ef26

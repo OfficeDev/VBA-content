@@ -3,7 +3,7 @@ title: OutlookBarGroups.Add Method (Outlook)
 keywords: vbaol11.chm352
 f1_keywords:
 - vbaol11.chm352
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Add
 ms.assetid: cf3e449f-82c2-463b-1b30-c7a0729d9208

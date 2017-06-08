@@ -3,7 +3,7 @@ title: TaskItem.SendUsingAccount Property (Outlook)
 keywords: vbaol11.chm1768
 f1_keywords:
 - vbaol11.chm1768
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.SendUsingAccount
 ms.assetid: 711382c3-1003-cf0e-2f29-fc3f9d4320a8

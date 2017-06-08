@@ -3,7 +3,7 @@ title: ToggleButton Object (Outlook Forms Script)
 keywords: olfm10.chm2000680
 f1_keywords:
 - olfm10.chm2000680
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 01ce5640-9f19-3c0e-1aa4-96d87074bf8b
 ms.date: 06/08/2017
 ---

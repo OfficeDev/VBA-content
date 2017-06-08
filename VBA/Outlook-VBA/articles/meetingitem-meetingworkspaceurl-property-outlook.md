@@ -3,7 +3,7 @@ title: MeetingItem.MeetingWorkspaceURL Property (Outlook)
 keywords: vbaol11.chm1465
 f1_keywords:
 - vbaol11.chm1465
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.MeetingWorkspaceURL
 ms.assetid: ad97f3cc-35c6-b653-73b9-7c7a0555afe2

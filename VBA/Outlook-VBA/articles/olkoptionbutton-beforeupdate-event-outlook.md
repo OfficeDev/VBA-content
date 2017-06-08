@@ -3,7 +3,7 @@ title: OlkOptionButton.BeforeUpdate Event (Outlook)
 keywords: vbaol11.chm1000191
 f1_keywords:
 - vbaol11.chm1000191
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.BeforeUpdate
 ms.assetid: a6f40320-1cbb-08bd-b9b0-7e70b25d4529

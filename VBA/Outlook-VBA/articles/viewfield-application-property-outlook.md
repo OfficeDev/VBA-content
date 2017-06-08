@@ -3,7 +3,7 @@ title: ViewField.Application Property (Outlook)
 keywords: vbaol11.chm2539
 f1_keywords:
 - vbaol11.chm2539
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewField.Application
 ms.assetid: 4fcdca42-5cec-7bbf-df70-7c46a449a993

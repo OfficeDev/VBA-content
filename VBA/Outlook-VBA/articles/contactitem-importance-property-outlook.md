@@ -3,7 +3,7 @@ title: ContactItem.Importance Property (Outlook)
 keywords: vbaol11.chm942
 f1_keywords:
 - vbaol11.chm942
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Importance
 ms.assetid: f56f1c98-3d07-87d5-2af2-c98ef314036f

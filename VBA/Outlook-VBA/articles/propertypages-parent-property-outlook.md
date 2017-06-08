@@ -3,7 +3,7 @@ title: PropertyPages.Parent Property (Outlook)
 keywords: vbaol11.chm164
 f1_keywords:
 - vbaol11.chm164
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PropertyPages.Parent
 ms.assetid: ec3e7dbe-476e-d870-ab84-ce03ecb15c08

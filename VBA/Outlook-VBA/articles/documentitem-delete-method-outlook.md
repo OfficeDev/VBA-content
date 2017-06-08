@@ -3,7 +3,7 @@ title: DocumentItem.Delete Method (Outlook)
 keywords: vbaol11.chm1211
 f1_keywords:
 - vbaol11.chm1211
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Delete
 ms.assetid: b9c2c20c-2e3e-5f2f-9a40-10c5a64bcd35

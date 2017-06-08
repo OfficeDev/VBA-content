@@ -3,7 +3,7 @@ title: Explorer.IsPaneVisible Method (Outlook)
 keywords: vbaol11.chm2775
 f1_keywords:
 - vbaol11.chm2775
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.IsPaneVisible
 ms.assetid: d547978a-f6b4-06ea-2358-8b6a81230240

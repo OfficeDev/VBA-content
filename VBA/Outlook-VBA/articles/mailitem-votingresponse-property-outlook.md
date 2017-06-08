@@ -3,7 +3,7 @@ title: MailItem.VotingResponse Property (Outlook)
 keywords: vbaol11.chm1364
 f1_keywords:
 - vbaol11.chm1364
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.VotingResponse
 ms.assetid: a35c8dd1-57d6-0357-9062-6596a802b8a1

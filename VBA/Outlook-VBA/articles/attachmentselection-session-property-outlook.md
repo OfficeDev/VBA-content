@@ -3,7 +3,7 @@ title: AttachmentSelection.Session Property (Outlook)
 keywords: vbaol11.chm2941
 f1_keywords:
 - vbaol11.chm2941
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.Session
 ms.assetid: cd03fab6-60bd-5e71-3053-b6cc61fda58f

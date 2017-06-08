@@ -3,7 +3,7 @@ title: NavigationFolder.IsSideBySide Property (Outlook)
 keywords: vbaol11.chm2906
 f1_keywords:
 - vbaol11.chm2906
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.IsSideBySide
 ms.assetid: 00a49ce6-ad74-1f24-2aaa-e79a3409c9c9

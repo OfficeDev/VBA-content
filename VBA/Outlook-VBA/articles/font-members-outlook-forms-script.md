@@ -1,6 +1,6 @@
 ---
 title: Font Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: d4cb0965-27cb-4d56-92c0-6492ab889811
 ms.date: 06/08/2017
 ---

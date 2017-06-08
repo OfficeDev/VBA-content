@@ -3,7 +3,7 @@ title: SharingItem.SenderEmailAddress Property (Outlook)
 keywords: vbaol11.chm686
 f1_keywords:
 - vbaol11.chm686
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SenderEmailAddress
 ms.assetid: 9cbde5cf-cd9a-b35d-eee9-4ed8b617f444

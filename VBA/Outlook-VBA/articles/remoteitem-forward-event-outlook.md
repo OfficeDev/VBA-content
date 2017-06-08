@@ -1,6 +1,6 @@
 ---
 title: RemoteItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Forward
 ms.assetid: f4af05e8-c0ea-915e-f49c-2470620e0735

@@ -3,7 +3,7 @@ title: PlaySoundRuleAction.Class Property (Outlook)
 keywords: vbaol11.chm2272
 f1_keywords:
 - vbaol11.chm2272
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction.Class
 ms.assetid: 74c4ac63-fcf9-12dc-c910-e41b80b417f2

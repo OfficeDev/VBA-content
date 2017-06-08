@@ -3,7 +3,7 @@ title: Accounts.Item Method (Outlook)
 keywords: vbaol11.chm750
 f1_keywords:
 - vbaol11.chm750
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Accounts.Item
 ms.assetid: 8ef9c358-6d8b-1cbb-40ed-6d3462ae335e

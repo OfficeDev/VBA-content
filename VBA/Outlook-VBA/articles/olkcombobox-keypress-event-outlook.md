@@ -3,7 +3,7 @@ title: OlkComboBox.KeyPress Event (Outlook)
 keywords: vbaol11.chm1000243
 f1_keywords:
 - vbaol11.chm1000243
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.KeyPress
 ms.assetid: ad145dce-01b9-1f4e-ecf1-43954845930b

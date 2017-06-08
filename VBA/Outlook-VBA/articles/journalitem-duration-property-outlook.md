@@ -3,7 +3,7 @@ title: JournalItem.Duration Property (Outlook)
 keywords: vbaol11.chm1270
 f1_keywords:
 - vbaol11.chm1270
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Duration
 ms.assetid: 16c43bf8-1d7f-f4f2-8e0f-f0b2242ccdd5

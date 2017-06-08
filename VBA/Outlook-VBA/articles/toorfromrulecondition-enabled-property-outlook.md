@@ -3,7 +3,7 @@ title: ToOrFromRuleCondition.Enabled Property (Outlook)
 keywords: vbaol11.chm2460
 f1_keywords:
 - vbaol11.chm2460
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ToOrFromRuleCondition.Enabled
 ms.assetid: 31e43906-b47a-95e3-d51b-3fa6af553fad

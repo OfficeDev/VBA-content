@@ -3,7 +3,7 @@ title: ContactItem.BusinessFaxNumber Property (Outlook)
 keywords: vbaol11.chm977
 f1_keywords:
 - vbaol11.chm977
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessFaxNumber
 ms.assetid: 85468b34-1ad3-ecec-92ee-af6ca68616be

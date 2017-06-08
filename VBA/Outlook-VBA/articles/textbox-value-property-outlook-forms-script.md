@@ -1,6 +1,6 @@
 ---
 title: TextBox.Value Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: be7ca611-06df-398c-0ad9-9e0c2815c7e1
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: OlkCheckBox.MouseIcon Property (Outlook)
 keywords: vbaol11.chm1000142
 f1_keywords:
 - vbaol11.chm1000142
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.MouseIcon
 ms.assetid: 0f6daa67-1920-c883-1e1c-bb6c92e7463b

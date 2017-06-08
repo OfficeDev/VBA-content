@@ -3,7 +3,7 @@ title: OlkDateControl.KeyUp Event (Outlook)
 keywords: vbaol11.chm1000371
 f1_keywords:
 - vbaol11.chm1000371
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.KeyUp
 ms.assetid: 7776832b-fdb0-cd2b-efa3-97dab74065e6

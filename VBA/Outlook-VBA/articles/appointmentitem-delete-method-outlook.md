@@ -3,7 +3,7 @@ title: AppointmentItem.Delete Method (Outlook)
 keywords: vbaol11.chm870
 f1_keywords:
 - vbaol11.chm870
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Delete
 ms.assetid: 5114b1ca-d923-9de2-cbad-8b14be001deb

@@ -3,7 +3,7 @@ title: Folders.FolderChange Event (Outlook)
 keywords: vbaol11.chm309
 f1_keywords:
 - vbaol11.chm309
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folders.FolderChange
 ms.assetid: cd379b87-6fb7-bfa4-544a-0c406a170832

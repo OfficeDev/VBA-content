@@ -1,6 +1,6 @@
 ---
 title: Filtering Items Using a Variable
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4be50a96-a27e-ecbf-1f19-b8825a33c2eb
 ms.date: 06/08/2017
 ---

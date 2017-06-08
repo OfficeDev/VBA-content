@@ -3,7 +3,7 @@ title: ItemProperty.Parent Property (Outlook)
 keywords: vbaol11.chm521
 f1_keywords:
 - vbaol11.chm521
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ItemProperty.Parent
 ms.assetid: 7be24e63-3e5f-4ed9-a668-380077351636

@@ -3,7 +3,7 @@ title: Explorer.Height Property (Outlook)
 keywords: vbaol11.chm2767
 f1_keywords:
 - vbaol11.chm2767
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Height
 ms.assetid: bce6fc29-c52b-13da-d68b-4b45b694e880

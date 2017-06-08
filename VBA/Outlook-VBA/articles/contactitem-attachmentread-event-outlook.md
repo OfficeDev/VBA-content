@@ -1,6 +1,6 @@
 ---
 title: ContactItem.AttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AttachmentRead
 ms.assetid: 5c240669-e37d-12ea-7094-e070884907e8

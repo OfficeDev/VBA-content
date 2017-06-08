@@ -3,7 +3,7 @@ title: CalendarSharing.RestrictToWorkingHours Property (Outlook)
 keywords: vbaol11.chm2418
 f1_keywords:
 - vbaol11.chm2418
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.RestrictToWorkingHours
 ms.assetid: 2d655c66-fd3e-0b82-41b2-798d408f6531

@@ -3,7 +3,7 @@ title: ImportanceRuleCondition.Session Property (Outlook)
 keywords: vbaol11.chm2334
 f1_keywords:
 - vbaol11.chm2334
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ImportanceRuleCondition.Session
 ms.assetid: 521d650f-8724-e8cb-6d20-1e7d730bf419

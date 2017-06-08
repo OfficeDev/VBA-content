@@ -3,7 +3,7 @@ title: JournalItem.DocPosted Property (Outlook)
 keywords: vbaol11.chm1266
 f1_keywords:
 - vbaol11.chm1266
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.DocPosted
 ms.assetid: d3b6fc6d-d886-9d24-ce87-eabd260b1349

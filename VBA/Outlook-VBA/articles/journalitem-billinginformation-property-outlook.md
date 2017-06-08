@@ -3,7 +3,7 @@ title: JournalItem.BillingInformation Property (Outlook)
 keywords: vbaol11.chm1233
 f1_keywords:
 - vbaol11.chm1233
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BillingInformation
 ms.assetid: 304224a5-8d0c-3c77-703c-15c0d1ef008d

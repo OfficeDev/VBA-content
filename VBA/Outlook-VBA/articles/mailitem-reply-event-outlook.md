@@ -1,6 +1,6 @@
 ---
 title: MailItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.Reply
 ms.assetid: 0bf6a21a-f667-9851-aeb0-dd6b9b83876e

@@ -3,7 +3,7 @@ title: TableView.ColumnFont Property (Outlook)
 keywords: vbaol11.chm2534
 f1_keywords:
 - vbaol11.chm2534
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.ColumnFont
 ms.assetid: f69ff872-1823-b5c0-9a3d-d4cf72973be1

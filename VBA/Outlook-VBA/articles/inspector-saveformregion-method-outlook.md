@@ -3,7 +3,7 @@ title: Inspector.SaveFormRegion Method (Outlook)
 keywords: vbaol11.chm2983
 f1_keywords:
 - vbaol11.chm2983
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Inspector.SaveFormRegion
 ms.assetid: 8ed73f85-3f6e-11bb-cc6f-c5c2668e5eb2

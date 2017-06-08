@@ -3,7 +3,7 @@ title: RuleConditions.Application Property (Outlook)
 keywords: vbaol11.chm2296
 f1_keywords:
 - vbaol11.chm2296
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.Application
 ms.assetid: c8e620fa-eff1-4e21-e547-a3bc690cf853

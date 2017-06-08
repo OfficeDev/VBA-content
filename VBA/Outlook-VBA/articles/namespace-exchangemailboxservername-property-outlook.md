@@ -3,7 +3,7 @@ title: NameSpace.ExchangeMailboxServerName Property (Outlook)
 keywords: vbaol11.chm791
 f1_keywords:
 - vbaol11.chm791
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.ExchangeMailboxServerName
 ms.assetid: 027d8d2d-612d-8eda-a6af-aa8dd371013e

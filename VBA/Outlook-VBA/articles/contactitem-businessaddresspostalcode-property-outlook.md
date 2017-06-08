@@ -3,7 +3,7 @@ title: ContactItem.BusinessAddressPostalCode Property (Outlook)
 keywords: vbaol11.chm973
 f1_keywords:
 - vbaol11.chm973
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessAddressPostalCode
 ms.assetid: 0c9f643a-c29e-4ae5-cea7-f54b3e98b543

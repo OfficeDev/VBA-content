@@ -1,6 +1,6 @@
 ---
 title: Mail Forms Overview
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 05bb4f83-2bf2-1298-3c73-e69ad22fd9c9
 ms.date: 06/08/2017
 ---

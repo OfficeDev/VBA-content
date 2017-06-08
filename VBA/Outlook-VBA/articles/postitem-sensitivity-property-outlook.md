@@ -3,7 +3,7 @@ title: PostItem.Sensitivity Property (Outlook)
 keywords: vbaol11.chm1534
 f1_keywords:
 - vbaol11.chm1534
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Sensitivity
 ms.assetid: bc7969fe-bea2-b57e-5556-638a5efca5b9

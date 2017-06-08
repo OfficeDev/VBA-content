@@ -3,7 +3,7 @@ title: OlkComboBox.TopIndex Property (Outlook)
 keywords: vbaol11.chm1000217
 f1_keywords:
 - vbaol11.chm1000217
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.TopIndex
 ms.assetid: 483db226-bf25-55e6-d453-a494747ff7d9

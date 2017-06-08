@@ -3,7 +3,7 @@ title: MeetingItem.Move Method (Outlook)
 keywords: vbaol11.chm1432
 f1_keywords:
 - vbaol11.chm1432
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Move
 ms.assetid: ab888dbc-f31f-ac68-f914-c97d6af2e6d9

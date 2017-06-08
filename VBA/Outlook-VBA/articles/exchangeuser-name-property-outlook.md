@@ -3,7 +3,7 @@ title: ExchangeUser.Name Property (Outlook)
 keywords: vbaol11.chm2071
 f1_keywords:
 - vbaol11.chm2071
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Name
 ms.assetid: 8b93c5a3-7c6a-4193-7fc3-621e1d0dda18

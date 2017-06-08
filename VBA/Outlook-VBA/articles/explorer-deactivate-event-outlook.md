@@ -3,7 +3,7 @@ title: Explorer.Deactivate Event (Outlook)
 keywords: vbaol11.chm454
 f1_keywords:
 - vbaol11.chm454
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.Deactivate
 ms.assetid: 7bf07653-3e12-670b-c293-1d51cf30e564

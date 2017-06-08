@@ -3,7 +3,7 @@ title: SharingItem.Categories Property (Outlook)
 keywords: vbaol11.chm601
 f1_keywords:
 - vbaol11.chm601
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Categories
 ms.assetid: c81a3075-8934-c28a-4018-f66454aefcc5

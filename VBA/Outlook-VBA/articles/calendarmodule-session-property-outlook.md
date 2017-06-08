@@ -3,7 +3,7 @@ title: CalendarModule.Session Property (Outlook)
 keywords: vbaol11.chm2824
 f1_keywords:
 - vbaol11.chm2824
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.Session
 ms.assetid: df23c975-9ac9-4ed9-0369-dce6b59e518a

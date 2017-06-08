@@ -1,6 +1,6 @@
 ---
 title: TaskItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Unload
 ms.assetid: ff7d2655-06b5-6344-3422-4bf7be761a39

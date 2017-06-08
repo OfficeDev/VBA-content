@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.BeforeAttachmentSave Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAttachmentSave
 ms.assetid: 1ed68d13-6368-05f4-99ad-c7db8997eb34

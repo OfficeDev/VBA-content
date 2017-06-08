@@ -3,7 +3,7 @@ title: Explorer.SelectionChange Event (Outlook)
 keywords: vbaol11.chm455
 f1_keywords:
 - vbaol11.chm455
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Explorer.SelectionChange
 ms.assetid: ef0d976f-b9f6-2080-7657-e48d1c64ccb1

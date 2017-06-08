@@ -3,7 +3,7 @@ title: OlkDateControl.BackStyle Property (Outlook)
 keywords: vbaol11.chm1000344
 f1_keywords:
 - vbaol11.chm1000344
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.BackStyle
 ms.assetid: af73bf4f-4288-1679-4aff-26839e73c3c9

@@ -3,7 +3,7 @@ title: TableView.AllowInCellEditing Property (Outlook)
 keywords: vbaol11.chm2526
 f1_keywords:
 - vbaol11.chm2526
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.AllowInCellEditing
 ms.assetid: dc6fa249-405f-6262-b085-53da15ba3d72

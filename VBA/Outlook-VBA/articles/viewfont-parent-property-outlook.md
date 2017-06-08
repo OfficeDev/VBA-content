@@ -3,7 +3,7 @@ title: ViewFont.Parent Property (Outlook)
 keywords: vbaol11.chm2694
 f1_keywords:
 - vbaol11.chm2694
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Parent
 ms.assetid: 3e9c2681-7b96-4408-f6c8-c86efbeb50fc

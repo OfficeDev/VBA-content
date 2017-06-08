@@ -3,7 +3,7 @@ title: ReportItem.IsConflict Property (Outlook)
 keywords: vbaol11.chm1677
 f1_keywords:
 - vbaol11.chm1677
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.IsConflict
 ms.assetid: ec5db93a-43e5-8f9c-ed55-c940c0d056d1

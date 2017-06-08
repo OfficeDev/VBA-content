@@ -3,7 +3,7 @@ title: ExchangeDistributionList.Comments Property (Outlook)
 keywords: vbaol11.chm2133
 f1_keywords:
 - vbaol11.chm2133
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Comments
 ms.assetid: 9456246f-30a7-5046-9b07-783649cd54f3

@@ -3,7 +3,7 @@ title: SolutionsModule.Session Property (Outlook)
 keywords: vbaol11.chm3362
 f1_keywords:
 - vbaol11.chm3362
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Session
 ms.assetid: 28a67ff1-1427-2852-cf00-1aeb926ba8dc

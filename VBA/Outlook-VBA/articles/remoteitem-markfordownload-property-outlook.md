@@ -3,7 +3,7 @@ title: RemoteItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm1628
 f1_keywords:
 - vbaol11.chm1628
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.MarkForDownload
 ms.assetid: 1edfec8a-511f-6e0a-df6c-f6602c1d3d0a

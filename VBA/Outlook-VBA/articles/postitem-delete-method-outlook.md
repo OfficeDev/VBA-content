@@ -3,7 +3,7 @@ title: PostItem.Delete Method (Outlook)
 keywords: vbaol11.chm1541
 f1_keywords:
 - vbaol11.chm1541
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.Delete
 ms.assetid: cdf47579-b542-f975-81e3-aa613f60830c

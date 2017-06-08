@@ -3,7 +3,7 @@ title: Application.TimeZones Property (Outlook)
 keywords: vbaol11.chm3270
 f1_keywords:
 - vbaol11.chm3270
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Application.TimeZones
 ms.assetid: 920e55d1-9914-fa74-101a-921083328d23

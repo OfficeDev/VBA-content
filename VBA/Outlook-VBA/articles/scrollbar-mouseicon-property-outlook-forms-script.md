@@ -1,6 +1,6 @@
 ---
 title: ScrollBar.MouseIcon Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: bfca3942-5797-88c6-6c44-f3195373d483
 ms.date: 06/08/2017
 ---

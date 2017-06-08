@@ -3,7 +3,7 @@ title: RuleActions.Redirect Property (Outlook)
 keywords: vbaol11.chm2195
 f1_keywords:
 - vbaol11.chm2195
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RuleActions.Redirect
 ms.assetid: a8e13e82-43c5-168a-0334-386fd02489f8

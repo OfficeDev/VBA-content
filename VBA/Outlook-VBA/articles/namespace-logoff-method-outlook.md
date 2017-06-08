@@ -3,7 +3,7 @@ title: NameSpace.Logoff Method (Outlook)
 keywords: vbaol11.chm766
 f1_keywords:
 - vbaol11.chm766
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Logoff
 ms.assetid: f9b15e80-a942-3d76-63ef-00c0a140337d

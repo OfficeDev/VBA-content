@@ -3,7 +3,7 @@ title: ContactItem.AssistantName Property (Outlook)
 keywords: vbaol11.chm966
 f1_keywords:
 - vbaol11.chm966
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AssistantName
 ms.assetid: 0695875e-fbeb-3786-ca58-bb56644b2fff

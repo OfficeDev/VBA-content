@@ -1,6 +1,6 @@
 ---
 title: ContactItem.Unload Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Unload
 ms.assetid: 16a3d7ce-0843-5eb5-bbea-df6557ceda05

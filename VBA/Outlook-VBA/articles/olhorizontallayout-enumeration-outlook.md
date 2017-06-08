@@ -3,7 +3,7 @@ title: OlHorizontalLayout Enumeration (Outlook)
 keywords: vbaol11.chm1000538
 f1_keywords:
 - vbaol11.chm1000538
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlHorizontalLayout
 ms.assetid: 97d132c7-658a-28d4-b0e4-4352e5341987

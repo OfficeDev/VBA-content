@@ -1,6 +1,6 @@
 ---
 title: ReportItem.AfterWrite Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AfterWrite
 ms.assetid: a585b4f0-9453-da34-6360-f7cb72943af9

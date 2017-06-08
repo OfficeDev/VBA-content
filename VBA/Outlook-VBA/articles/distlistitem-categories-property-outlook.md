@@ -3,7 +3,7 @@ title: DistListItem.Categories Property (Outlook)
 keywords: vbaol11.chm1118
 f1_keywords:
 - vbaol11.chm1118
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Categories
 ms.assetid: b608ce9d-8419-cf70-716e-0c4cdca2fa98

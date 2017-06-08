@@ -3,7 +3,7 @@ title: ContactItem.HomeAddressStreet Property (Outlook)
 keywords: vbaol11.chm1018
 f1_keywords:
 - vbaol11.chm1018
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddressStreet
 ms.assetid: 9a7af500-e817-6fb1-89b4-6b0ef70741bf

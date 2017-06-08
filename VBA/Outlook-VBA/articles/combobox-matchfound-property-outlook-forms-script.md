@@ -3,7 +3,7 @@ title: ComboBox.MatchFound Property (Outlook Forms Script)
 keywords: olfm10.chm2001490
 f1_keywords:
 - olfm10.chm2001490
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 2e35541f-990d-fa2a-4431-695f9d951c98
 ms.date: 06/08/2017
 ---

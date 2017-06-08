@@ -1,6 +1,6 @@
 ---
 title: AppointmentItem.BeforeAttachmentRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentRead
 ms.assetid: db38a11b-c9bc-ebda-5900-00391cdf080f

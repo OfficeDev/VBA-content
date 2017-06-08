@@ -3,7 +3,7 @@ title: OrderFields.Item Method (Outlook)
 keywords: vbaol11.chm2677
 f1_keywords:
 - vbaol11.chm2677
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Item
 ms.assetid: 0738f59e-8eda-18af-1aee-13d566c248db

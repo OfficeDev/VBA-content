@@ -3,7 +3,7 @@ title: MailItem.ReminderPlaySound Property (Outlook)
 keywords: vbaol11.chm1349
 f1_keywords:
 - vbaol11.chm1349
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReminderPlaySound
 ms.assetid: 7fd10182-445f-2aa6-db9f-2534d66fe0ea

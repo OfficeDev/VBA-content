@@ -1,6 +1,6 @@
 ---
 title: DistListItem.CustomAction Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.CustomAction
 ms.assetid: cdd8a5cb-1a18-85fe-0a26-b89c6bb61a7d

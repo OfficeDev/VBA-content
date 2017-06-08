@@ -3,7 +3,7 @@ title: RecurrencePattern.Duration Property (Outlook)
 keywords: vbaol11.chm275
 f1_keywords:
 - vbaol11.chm275
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Duration
 ms.assetid: 91cceed3-fd56-bae3-ee00-16f4b02eb2e3

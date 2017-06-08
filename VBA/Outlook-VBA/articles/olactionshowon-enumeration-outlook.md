@@ -3,7 +3,7 @@ title: OlActionShowOn Enumeration (Outlook)
 keywords: vbaol11.chm3051
 f1_keywords:
 - vbaol11.chm3051
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlActionShowOn
 ms.assetid: 6a6e4156-d593-b5c7-8ed1-e133d61332df

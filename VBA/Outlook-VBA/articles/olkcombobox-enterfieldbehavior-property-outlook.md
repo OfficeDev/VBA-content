@@ -3,7 +3,7 @@ title: OlkComboBox.EnterFieldBehavior Property (Outlook)
 keywords: vbaol11.chm1000201
 f1_keywords:
 - vbaol11.chm1000201
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.EnterFieldBehavior
 ms.assetid: 6f32944a-0a7e-d639-4944-1aa38f2e4ef4

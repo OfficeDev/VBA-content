@@ -3,7 +3,7 @@ title: MeetingItem.Sent Property (Outlook)
 keywords: vbaol11.chm1451
 f1_keywords:
 - vbaol11.chm1451
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Sent
 ms.assetid: b95be57b-8332-3423-4438-c84a8612bc7c

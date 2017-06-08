@@ -3,7 +3,7 @@ title: Items.Find Method (Outlook)
 keywords: vbaol11.chm62
 f1_keywords:
 - vbaol11.chm62
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Items.Find
 ms.assetid: e7a791d8-b80b-df07-84a3-a85acabfcf80

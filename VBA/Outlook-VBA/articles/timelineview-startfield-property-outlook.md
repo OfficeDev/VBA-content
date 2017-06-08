@@ -3,7 +3,7 @@ title: TimelineView.StartField Property (Outlook)
 keywords: vbaol11.chm2660
 f1_keywords:
 - vbaol11.chm2660
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TimelineView.StartField
 ms.assetid: 2477ce1d-a5d0-ddf5-49e9-b25dcd90efbd

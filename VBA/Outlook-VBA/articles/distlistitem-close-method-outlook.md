@@ -3,7 +3,7 @@ title: DistListItem.Close Method (Outlook)
 keywords: vbaol11.chm1140
 f1_keywords:
 - vbaol11.chm1140
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Close
 ms.assetid: 6e56d716-ec8b-4a4c-1b1a-061f659f5c08

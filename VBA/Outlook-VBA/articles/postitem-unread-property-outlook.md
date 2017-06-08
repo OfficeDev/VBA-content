@@ -3,7 +3,7 @@ title: PostItem.UnRead Property (Outlook)
 keywords: vbaol11.chm1537
 f1_keywords:
 - vbaol11.chm1537
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.UnRead
 ms.assetid: f9b13052-ba1c-ae4c-eb23-ceb49f8a7bbe

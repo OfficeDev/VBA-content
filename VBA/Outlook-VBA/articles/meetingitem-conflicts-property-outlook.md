@@ -3,7 +3,7 @@ title: MeetingItem.Conflicts Property (Outlook)
 keywords: vbaol11.chm1468
 f1_keywords:
 - vbaol11.chm1468
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Conflicts
 ms.assetid: 8cdf2d98-8780-1fac-cc11-4e36f93aab29

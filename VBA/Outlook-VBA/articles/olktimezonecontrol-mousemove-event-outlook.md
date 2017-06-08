@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.MouseMove Event (Outlook)
 keywords: vbaol11.chm1000519
 f1_keywords:
 - vbaol11.chm1000519
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.MouseMove
 ms.assetid: 3de1bd35-3351-d70d-9fa4-d90f7d059f87

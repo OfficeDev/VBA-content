@@ -3,7 +3,7 @@ title: NavigationPane.Parent Property (Outlook)
 keywords: vbaol11.chm2789
 f1_keywords:
 - vbaol11.chm2789
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NavigationPane.Parent
 ms.assetid: 7e5e3b49-875e-531d-8fc9-6cb83fef6284

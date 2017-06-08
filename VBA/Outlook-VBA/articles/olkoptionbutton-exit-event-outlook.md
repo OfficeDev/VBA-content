@@ -3,7 +3,7 @@ title: OlkOptionButton.Exit Event (Outlook)
 keywords: vbaol11.chm1000185
 f1_keywords:
 - vbaol11.chm1000185
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Exit
 ms.assetid: 25967971-8d98-579e-a4f7-e6bfc3a16834

@@ -3,7 +3,7 @@ title: NewItemAlertRuleAction.Enabled Property (Outlook)
 keywords: vbaol11.chm2292
 f1_keywords:
 - vbaol11.chm2292
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.NewItemAlertRuleAction.Enabled
 ms.assetid: f3472ffb-ada6-c18d-3953-4a1dd7a25a44

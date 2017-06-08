@@ -3,7 +3,7 @@ title: AssignToCategoryRuleAction.Categories Property (Outlook)
 keywords: vbaol11.chm2269
 f1_keywords:
 - vbaol11.chm2269
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.AssignToCategoryRuleAction.Categories
 ms.assetid: 92e849e3-4d5a-a11b-3c32-6214a15a90df

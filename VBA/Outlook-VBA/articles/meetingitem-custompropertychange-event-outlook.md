@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.CustomPropertyChange Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.CustomPropertyChange
 ms.assetid: b3d05c13-4b5d-032b-49bb-18c4f4a626b5

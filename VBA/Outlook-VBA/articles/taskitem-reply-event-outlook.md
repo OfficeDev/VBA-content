@@ -1,6 +1,6 @@
 ---
 title: TaskItem.Reply Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Reply
 ms.assetid: 5ec184ae-f512-e38a-0bc0-ddaf519740e2

@@ -1,6 +1,6 @@
 ---
 title: ContactItem.BeforeRead Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeRead
 ms.assetid: cebd1e59-b3a4-3c9d-5ed1-ff95c2c3d1ed

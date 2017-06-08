@@ -3,7 +3,7 @@ title: OutlookBarGroups.BeforeGroupRemove Event (Outlook)
 keywords: vbaol11.chm357
 f1_keywords:
 - vbaol11.chm357
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.BeforeGroupRemove
 ms.assetid: b3ad5d29-c906-ebe7-02b7-145091ddccce

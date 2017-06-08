@@ -3,7 +3,7 @@ title: MailItem.ReplyAll Method (Outlook)
 keywords: vbaol11.chm1368
 f1_keywords:
 - vbaol11.chm1368
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReplyAll
 ms.assetid: 25a1723a-864b-1526-9897-26e40042f119

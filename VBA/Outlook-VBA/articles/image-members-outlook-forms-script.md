@@ -1,6 +1,6 @@
 ---
 title: Image Members (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 92e8b1ef-f853-4b66-8c91-d715210abb5e
 ms.date: 06/08/2017
 ---

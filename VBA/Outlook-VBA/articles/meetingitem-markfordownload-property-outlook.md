@@ -3,7 +3,7 @@ title: MeetingItem.MarkForDownload Property (Outlook)
 keywords: vbaol11.chm1463
 f1_keywords:
 - vbaol11.chm1463
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.MarkForDownload
 ms.assetid: a5a0bc64-4129-f93e-ff07-2a1785a10099

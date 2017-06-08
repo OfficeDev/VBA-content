@@ -3,7 +3,7 @@ title: Stores.Session Property (Outlook)
 keywords: vbaol11.chm816
 f1_keywords:
 - vbaol11.chm816
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Stores.Session
 ms.assetid: aea9466c-4b22-10fa-7938-d12f4f193148

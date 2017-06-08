@@ -3,7 +3,7 @@ title: Folder.UnReadItemCount Property (Outlook)
 keywords: vbaol11.chm1993
 f1_keywords:
 - vbaol11.chm1993
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Folder.UnReadItemCount
 ms.assetid: f669af8e-8d4a-613b-1d82-6a3be8dc67cd

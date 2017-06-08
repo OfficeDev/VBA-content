@@ -1,6 +1,6 @@
 ---
 title: Storing Outlook Items
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: e4a639a4-10b2-7665-9261-19d6e7707e48
 ms.date: 06/08/2017
 ---

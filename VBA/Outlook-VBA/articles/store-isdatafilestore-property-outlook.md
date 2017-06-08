@@ -3,7 +3,7 @@ title: Store.IsDataFileStore Property (Outlook)
 keywords: vbaol11.chm805
 f1_keywords:
 - vbaol11.chm805
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.Store.IsDataFileStore
 ms.assetid: 76dc73b7-1d19-465f-744f-1209211f2496

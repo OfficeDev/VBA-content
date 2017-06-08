@@ -3,7 +3,7 @@ title: "How to: Accept User Input and Display the Values of Controls on a Form"
 keywords: olfm10.chm3077264
 f1_keywords:
 - olfm10.chm3077264
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 5966b34a-7334-a82a-afbc-55d466c06d53
 ms.date: 06/08/2017
 ---

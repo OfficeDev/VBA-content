@@ -3,7 +3,7 @@ title: ExchangeUser.PostalCode Property (Outlook)
 keywords: vbaol11.chm2097
 f1_keywords:
 - vbaol11.chm2097
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.PostalCode
 ms.assetid: b135d7a6-daa1-4154-d6e7-506c59860a81

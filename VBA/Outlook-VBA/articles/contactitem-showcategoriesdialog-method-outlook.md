@@ -3,7 +3,7 @@ title: ContactItem.ShowCategoriesDialog Method (Outlook)
 keywords: vbaol11.chm1084
 f1_keywords:
 - vbaol11.chm1084
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ShowCategoriesDialog
 ms.assetid: 22613243-1281-82b7-5da3-da1f4d620599

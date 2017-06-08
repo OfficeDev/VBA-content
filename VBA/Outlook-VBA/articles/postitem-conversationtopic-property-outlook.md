@@ -3,7 +3,7 @@ title: PostItem.ConversationTopic Property (Outlook)
 keywords: vbaol11.chm1520
 f1_keywords:
 - vbaol11.chm1520
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.PostItem.ConversationTopic
 ms.assetid: 298a68e7-1ff5-69c2-8a85-d5621e9b4af3

@@ -3,7 +3,7 @@ title: SenderInAddressListRuleCondition.Session Property (Outlook)
 keywords: vbaol11.chm2466
 f1_keywords:
 - vbaol11.chm2466
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SenderInAddressListRuleCondition.Session
 ms.assetid: ec6ac5e8-9e21-a073-c179-7050e5a9b6c2

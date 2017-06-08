@@ -1,6 +1,6 @@
 ---
 title: Create a Form Region
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 695b95a5-c795-cb4a-8d35-ba12b0007b1f
 ms.date: 06/08/2017
 ---

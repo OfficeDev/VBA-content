@@ -1,6 +1,6 @@
 ---
 title: Image.Picture Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: b777c459-01af-b194-527c-3673b7ed46f6
 ms.date: 06/08/2017
 ---

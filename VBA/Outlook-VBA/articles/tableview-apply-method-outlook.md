@@ -3,7 +3,7 @@ title: TableView.Apply Method (Outlook)
 keywords: vbaol11.chm2503
 f1_keywords:
 - vbaol11.chm2503
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TableView.Apply
 ms.assetid: c3855dee-c86b-a618-ba3e-968cca87e0e1

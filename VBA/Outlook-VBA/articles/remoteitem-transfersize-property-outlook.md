@@ -3,7 +3,7 @@ title: RemoteItem.TransferSize Property (Outlook)
 keywords: vbaol11.chm1622
 f1_keywords:
 - vbaol11.chm1622
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.TransferSize
 ms.assetid: 186ca6ef-7b72-8541-25af-703ebf8ebb72

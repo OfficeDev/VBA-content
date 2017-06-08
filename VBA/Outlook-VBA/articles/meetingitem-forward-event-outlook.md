@@ -1,6 +1,6 @@
 ---
 title: MeetingItem.Forward Event (Outlook)
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Forward
 ms.assetid: 0d12864b-07ca-5f97-8aab-ea9415e8b44c

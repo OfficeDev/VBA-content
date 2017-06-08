@@ -3,7 +3,7 @@ title: TasksModule Object (Outlook)
 keywords: vbaol11.chm3196
 f1_keywords:
 - vbaol11.chm3196
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TasksModule
 ms.assetid: fc6ae6c9-6b13-b5f2-9506-c3dbbe709df6

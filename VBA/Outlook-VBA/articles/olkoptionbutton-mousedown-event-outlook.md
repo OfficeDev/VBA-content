@@ -3,7 +3,7 @@ title: OlkOptionButton.MouseDown Event (Outlook)
 keywords: vbaol11.chm1000181
 f1_keywords:
 - vbaol11.chm1000181
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.MouseDown
 ms.assetid: a6cd60ae-c880-f6ca-8121-6873c53c481d

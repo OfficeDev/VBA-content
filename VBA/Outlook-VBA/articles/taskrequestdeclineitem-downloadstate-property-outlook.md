@@ -3,7 +3,7 @@ title: TaskRequestDeclineItem.DownloadState Property (Outlook)
 keywords: vbaol11.chm1859
 f1_keywords:
 - vbaol11.chm1859
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.DownloadState
 ms.assetid: ad8fd89f-b07c-1981-7a89-5b2658e9b6d9

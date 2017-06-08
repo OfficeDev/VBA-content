@@ -3,7 +3,7 @@ title: OlkTimeZoneControl.BorderStyle Property (Outlook)
 keywords: vbaol11.chm1000536
 f1_keywords:
 - vbaol11.chm1000536
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.BorderStyle
 ms.assetid: f0e06cd9-fe13-56a6-4251-8d14ac9b9d91

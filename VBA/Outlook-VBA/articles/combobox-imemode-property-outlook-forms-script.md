@@ -3,7 +3,7 @@ title: ComboBox.IMEMode Property (Outlook Forms Script)
 keywords: olfm10.chm2012300
 f1_keywords:
 - olfm10.chm2012300
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 47b8139d-fae3-eecc-d991-d0ab4ffd6319
 ms.date: 06/08/2017
 ---

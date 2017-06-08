@@ -3,7 +3,7 @@ title: OlRecurrenceType Enumeration (Outlook)
 keywords: vbaol11.chm3077
 f1_keywords:
 - vbaol11.chm3077
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.OlRecurrenceType
 ms.assetid: 63bc267e-6b9d-2cb5-3a96-4beb41afff72

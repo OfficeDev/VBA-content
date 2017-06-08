@@ -3,7 +3,7 @@ title: ContactItem.PersonalHomePage Property (Outlook)
 keywords: vbaol11.chm1059
 f1_keywords:
 - vbaol11.chm1059
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PersonalHomePage
 ms.assetid: cbc6abda-eb66-acfd-20db-f5572d20d602

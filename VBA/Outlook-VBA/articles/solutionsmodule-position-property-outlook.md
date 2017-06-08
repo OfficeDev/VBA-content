@@ -3,7 +3,7 @@ title: SolutionsModule.Position Property (Outlook)
 keywords: vbaol11.chm3366
 f1_keywords:
 - vbaol11.chm3366
-ms.prod: OUTLOOK
+ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Position
 ms.assetid: e2e0c1d7-f08a-e291-f3de-1454d6a239a8

@@ -1,6 +1,6 @@
 ---
 title: Sharing
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 1b514d6f-7d94-4180-9c43-36e9b6258385
 ms.date: 06/08/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: ListBox.MousePointer Property (Outlook Forms Script)
-ms.prod: OUTLOOK
+ms.prod: outlook
 ms.assetid: 4add5e4b-51d3-72a2-1459-47056201ec7a
 ms.date: 06/08/2017
 ---
