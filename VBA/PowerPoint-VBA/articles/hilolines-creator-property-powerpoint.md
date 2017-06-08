@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HiLoLines.Creator
 ms.assetid: e5a3633b-b4c7-40f7-a957-d19276f1e261
+ms.date: 06/08/2017
 ---
 
 

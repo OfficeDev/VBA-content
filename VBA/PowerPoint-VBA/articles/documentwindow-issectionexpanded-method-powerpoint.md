@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.IsSectionExpanded
 ms.assetid: ab40cd63-7daa-4406-9311-869ffd281d9a
+ms.date: 06/08/2017
 ---
 
 

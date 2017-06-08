@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMerge.HighlightMergeFields
 ms.assetid: 1002b34a-4492-97df-bb16-bd2c4319e055
+ms.date: 06/08/2017
 ---
 
 

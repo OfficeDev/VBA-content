@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.HighlightColorIndex
 ms.assetid: ff6e0f1a-8b37-1bdd-8da6-ac492d399ad2
+ms.date: 06/08/2017
 ---
 
 

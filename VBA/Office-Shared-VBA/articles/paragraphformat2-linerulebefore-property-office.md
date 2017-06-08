@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.LineRuleBefore
 ms.assetid: 8fff6daa-b7de-f490-6137-efc49c45c8dc
+ms.date: 06/08/2017
 ---
 
 

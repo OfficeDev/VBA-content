@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartFormat.Fill
 ms.assetid: 1f445eea-f02d-6842-54ac-458b6b283d70
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.TelexNumber
 ms.assetid: f20ec303-71fa-982d-5b69-384ef666f19c
+ms.date: 06/08/2017
 ---
 
 

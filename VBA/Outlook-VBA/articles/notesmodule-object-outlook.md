@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NotesModule
 ms.assetid: cdbdde08-0773-a78d-3809-a3811975bcc1
+ms.date: 06/08/2017
 ---
 
 

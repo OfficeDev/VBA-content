@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SectionProperties.Delete
 ms.assetid: 5a102ee7-60a1-64b1-db6c-6ba84447dd12
+ms.date: 06/08/2017
 ---
 
 

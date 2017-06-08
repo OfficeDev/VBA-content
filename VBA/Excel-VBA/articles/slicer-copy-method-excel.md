@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Copy
 ms.assetid: 265e7819-db8b-deab-5ab1-2cc9782cd800
+ms.date: 06/08/2017
 ---
 
 

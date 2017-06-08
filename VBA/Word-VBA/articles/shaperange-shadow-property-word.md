@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Shadow
 ms.assetid: 25fe7bff-bc5d-6e06-41ac-3a39928c5a47
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.MarkerForegroundColorIndex
 ms.assetid: 9fb6b350-3eee-305c-dd64-6e3ac009aabc
+ms.date: 06/08/2017
 ---
 
 

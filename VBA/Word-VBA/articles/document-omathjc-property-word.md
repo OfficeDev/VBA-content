@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathJc
 ms.assetid: 5ad290b1-4787-1390-d2fa-0b2e0fc0eabc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Templates.Count
 ms.assetid: c2218be5-a097-57a6-dbd1-2dc4812aebbf
+ms.date: 06/08/2017
 ---
 
 

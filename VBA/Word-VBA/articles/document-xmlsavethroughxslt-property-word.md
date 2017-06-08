@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.XMLSaveThroughXSLT
 ms.assetid: cc25a073-99c5-f31b-0cad-b6e4c9a7ff0c
+ms.date: 06/08/2017
 ---
 
 

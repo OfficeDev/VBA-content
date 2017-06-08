@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.IconUpdate
 ms.assetid: 3978c650-47d5-e961-53c2-d99dd4c2ca7c
+ms.date: 06/08/2017
 ---
 
 

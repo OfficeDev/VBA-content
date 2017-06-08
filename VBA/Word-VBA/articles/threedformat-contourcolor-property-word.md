@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.ContourColor
 ms.assetid: c0da510a-59c6-ed11-904d-76fb8ffbfa58
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.ResetTimer
 ms.assetid: 9e8c9d26-fe11-90f7-6073-c8ff5be3042d
+ms.date: 06/08/2017
 ---
 
 

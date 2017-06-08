@@ -2,6 +2,7 @@
 title: ReplaceShapesEvent.ReplacementMaster Property (Visio)
 ms.prod: VISIO
 ms.assetid: 326a1889-8952-b4ac-c5c0-ac4470257c06
+ms.date: 06/08/2017
 ---
 
 

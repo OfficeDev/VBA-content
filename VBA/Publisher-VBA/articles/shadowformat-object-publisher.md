@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShadowFormat
 ms.assetid: b23ab92e-5e49-8d8d-69d5-93d391a9edb2
+ms.date: 06/08/2017
 ---
 
 

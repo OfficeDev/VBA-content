@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.Formula
 ms.assetid: 04d62f5d-e63d-1643-a6cd-eae0c37b73cf
+ms.date: 06/08/2017
 ---
 
 

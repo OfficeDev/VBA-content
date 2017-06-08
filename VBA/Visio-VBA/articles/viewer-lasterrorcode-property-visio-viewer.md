@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.LastErrorCode
 ms.assetid: cbef3230-128c-3976-04da-eec6da9f6225
+ms.date: 06/08/2017
 ---
 
 

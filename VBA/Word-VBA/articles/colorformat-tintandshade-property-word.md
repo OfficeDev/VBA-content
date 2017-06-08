@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ColorFormat.TintAndShade
 ms.assetid: e0b54e37-475c-0e6b-f530-aa69b8fe51b8
+ms.date: 06/08/2017
 ---
 
 

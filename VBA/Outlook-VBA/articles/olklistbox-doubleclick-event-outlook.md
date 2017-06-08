@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.DoubleClick
 ms.assetid: 70e59d92-ee83-25df-0edc-6dbb6c30297c
+ms.date: 06/08/2017
 ---
 
 

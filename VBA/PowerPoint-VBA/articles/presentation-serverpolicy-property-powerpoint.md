@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.ServerPolicy
 ms.assetid: 65e50d32-96f8-63b8-6499-388bf6c61e37
+ms.date: 06/08/2017
 ---
 
 

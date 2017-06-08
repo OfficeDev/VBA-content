@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.Change
 ms.assetid: a4d58172-a16f-6084-9230-af2c3cefa552
+ms.date: 06/08/2017
 ---
 
 

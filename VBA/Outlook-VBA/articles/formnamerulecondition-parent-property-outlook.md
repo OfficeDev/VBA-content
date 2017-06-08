@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormNameRuleCondition.Parent
 ms.assetid: 0a15d010-cf45-b3b1-59ab-4c6fabf7e9cf
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.CreateSelection
 ms.assetid: 7bd29416-d6b4-d7f9-dd96-2ec66c2d4e6b
+ms.date: 06/08/2017
 ---
 
 

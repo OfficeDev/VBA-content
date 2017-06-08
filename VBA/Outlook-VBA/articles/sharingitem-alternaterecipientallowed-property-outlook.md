@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.AlternateRecipientAllowed
 ms.assetid: b18736f9-b2c4-1400-7dd4-3537a50f7276
+ms.date: 06/08/2017
 ---
 
 

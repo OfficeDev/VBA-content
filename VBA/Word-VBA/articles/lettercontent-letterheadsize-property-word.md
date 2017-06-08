@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.LetterheadSize
 ms.assetid: 05cc8dc3-fd22-ae58-6457-2daf2e6875f4
+ms.date: 06/08/2017
 ---
 
 

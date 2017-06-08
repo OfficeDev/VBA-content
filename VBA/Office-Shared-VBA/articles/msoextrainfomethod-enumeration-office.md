@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoExtraInfoMethod
 ms.assetid: eb8edb9c-2a9a-62b5-f592-e40a2325a555
+ms.date: 06/08/2017
 ---
 
 

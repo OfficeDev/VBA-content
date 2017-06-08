@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PictureFormat.IncrementBrightness
 ms.assetid: 3f75ff17-6cd6-e397-468c-6bf0d1307578
+ms.date: 06/08/2017
 ---
 
 

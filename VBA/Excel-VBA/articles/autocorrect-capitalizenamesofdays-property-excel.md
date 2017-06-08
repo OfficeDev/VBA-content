@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AutoCorrect.CapitalizeNamesOfDays
 ms.assetid: 218f9820-8cb1-438d-7c81-4a9c4385a275
+ms.date: 06/08/2017
 ---
 
 

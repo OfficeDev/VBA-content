@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListRows.Parent
 ms.assetid: 556ddca2-3cc6-43be-3fbc-6ec0782a4c9a
+ms.date: 06/08/2017
 ---
 
 

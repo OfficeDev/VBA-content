@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.SelectionDeleteCanceled
 ms.assetid: 305a9b53-d48b-9d65-5915-3e5e679d8e1c
+ms.date: 06/08/2017
 ---
 
 

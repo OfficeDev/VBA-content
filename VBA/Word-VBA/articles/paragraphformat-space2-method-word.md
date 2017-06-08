@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.Space2
 ms.assetid: 7173f5b8-961b-e93f-e4b6-fedad6da8d1d
+ms.date: 06/08/2017
 ---
 
 

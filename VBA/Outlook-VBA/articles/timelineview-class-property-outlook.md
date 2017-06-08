@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.Class
 ms.assetid: e85f5725-d845-02df-33ef-752d735ac1ce
+ms.date: 06/08/2017
 ---
 
 

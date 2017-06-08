@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLMapping
 ms.assetid: cf76802b-f93d-0f3b-4936-ca357a7d7ff8
+ms.date: 06/08/2017
 ---
 
 

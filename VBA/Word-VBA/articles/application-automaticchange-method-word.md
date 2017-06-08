@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.AutomaticChange
 ms.assetid: 40538590-c71c-aafb-4e3b-e8759cb0116c
+ms.date: 06/08/2017
 ---
 
 

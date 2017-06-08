@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tasks.Creator
 ms.assetid: 9a545b9d-09eb-4fd8-c3e3-802de2736183
+ms.date: 06/08/2017
 ---
 
 

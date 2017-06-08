@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.CommandBeforeExecute
 ms.assetid: 574568fa-e488-6d4d-a42f-07eb7c7f9536
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureSetup.SuggestedSignerEmail
 ms.assetid: 4321b61f-d6c4-4ed4-e739-dbe51408c4ba
+ms.date: 06/08/2017
 ---
 
 

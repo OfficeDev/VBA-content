@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.Left
 ms.assetid: 13121d9c-833f-c1c6-3295-6098c8939b7f
+ms.date: 06/08/2017
 ---
 
 

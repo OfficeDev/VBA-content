@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Reviewers.Application
 ms.assetid: b6082256-78b7-cb54-719f-77d748f38d04
+ms.date: 06/08/2017
 ---
 
 

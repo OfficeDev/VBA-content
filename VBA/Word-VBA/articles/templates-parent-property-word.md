@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Templates.Parent
 ms.assetid: 19070d0e-10e9-4588-d586-d780b33affd7
+ms.date: 06/08/2017
 ---
 
 

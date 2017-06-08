@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MasterShortcuts.Drop
 ms.assetid: f00bc4eb-36d0-0abd-d0ed-9c583b1388ed
+ms.date: 06/08/2017
 ---
 
 

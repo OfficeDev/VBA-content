@@ -2,6 +2,7 @@
 title: Use Textual Criteria from a Control on a Form
 ms.prod: ACCESS
 ms.assetid: 236e57eb-3523-92da-e665-281961dfb431
+ms.date: 06/08/2017
 ---
 
 

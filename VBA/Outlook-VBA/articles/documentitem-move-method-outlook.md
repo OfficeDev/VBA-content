@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Move
 ms.assetid: 326006b8-5cd2-7035-9228-18265ec2fcbe
+ms.date: 06/08/2017
 ---
 
 

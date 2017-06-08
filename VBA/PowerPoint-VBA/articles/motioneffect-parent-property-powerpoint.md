@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MotionEffect.Parent
 ms.assetid: 6c46a46c-14f3-b61e-e381-87ec0eff8974
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureDetail
 ms.assetid: 91f46046-6170-b1a1-74dd-de10d59a3c31
+ms.date: 06/08/2017
 ---
 
 

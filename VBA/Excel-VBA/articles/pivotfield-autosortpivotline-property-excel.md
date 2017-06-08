@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.AutoSortPivotLine
 ms.assetid: 13b335a6-276d-aa8e-b197-e11990a232b2
+ms.date: 06/08/2017
 ---
 
 

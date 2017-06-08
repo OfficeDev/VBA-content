@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Standardize
 ms.assetid: b268e2f8-e206-37a6-93a1-fdff7b88d4db
+ms.date: 06/08/2017
 ---
 
 

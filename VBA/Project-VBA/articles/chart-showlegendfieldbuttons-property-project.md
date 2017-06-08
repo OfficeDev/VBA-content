@@ -2,6 +2,7 @@
 title: Chart.ShowLegendFieldButtons Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 26a4eca3-0ef1-c26b-d2ea-861c8b08d738
+ms.date: 06/08/2017
 ---
 
 

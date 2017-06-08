@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendEntry.Height
 ms.assetid: eaf854c0-ee67-d6f7-df4c-eb8d67d489d0
+ms.date: 06/08/2017
 ---
 
 

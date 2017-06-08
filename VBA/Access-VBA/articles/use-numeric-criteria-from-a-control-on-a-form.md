@@ -2,6 +2,7 @@
 title: Use Numeric Criteria from a Control on a Form
 ms.prod: ACCESS
 ms.assetid: d3455b78-9ab3-9a85-14c9-895e0d0b96d2
+ms.date: 06/08/2017
 ---
 
 

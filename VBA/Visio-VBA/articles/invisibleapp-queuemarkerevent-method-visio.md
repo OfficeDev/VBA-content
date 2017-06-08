@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.QueueMarkerEvent
 ms.assetid: ed782045-49b1-dcab-de81-41a45117afe7
+ms.date: 06/08/2017
 ---
 
 

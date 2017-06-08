@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.AfterCubeBuilt
 ms.assetid: f57a3391-dbbe-42eb-cf99-205b754c7cc1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.Select
 ms.assetid: 4150362d-ca09-deb7-34cf-b70702c55a43
+ms.date: 06/08/2017
 ---
 
 

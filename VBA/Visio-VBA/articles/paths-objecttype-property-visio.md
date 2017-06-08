@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Paths.ObjectType
 ms.assetid: eaab20a2-22cf-c17c-4475-073323cefcb6
+ms.date: 06/08/2017
 ---
 
 

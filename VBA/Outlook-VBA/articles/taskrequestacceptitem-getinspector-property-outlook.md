@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.GetInspector
 ms.assetid: 67239e8b-aa69-c427-3cb5-4a6a1361ed1c
+ms.date: 06/08/2017
 ---
 
 

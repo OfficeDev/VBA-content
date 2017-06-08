@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.BottomPadding
 ms.assetid: 9e5a6357-b935-a4d1-a603-11d143f54d2d
+ms.date: 06/08/2017
 ---
 
 

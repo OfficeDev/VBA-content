@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.MapList
 ms.assetid: b124f86e-fec6-ab92-93ff-5db4eff16892
+ms.date: 06/08/2017
 ---
 
 

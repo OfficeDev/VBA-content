@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.BeforeFolderSharingDialog
 ms.assetid: e06257eb-f2d9-63cf-1220-dda55ee0ea14
+ms.date: 06/08/2017
 ---
 
 

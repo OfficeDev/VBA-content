@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Locked
 ms.assetid: 4d59178b-9cb9-0a9e-76cc-1b5c4547b3dd
+ms.date: 06/08/2017
 ---
 
 

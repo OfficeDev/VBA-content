@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DrawQuarterArc
 ms.assetid: 7bc281ea-eac8-cdb6-ac4b-c71c93a81827
+ms.date: 06/08/2017
 ---
 
 

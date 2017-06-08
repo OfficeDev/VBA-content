@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Column.Borders
 ms.assetid: f5be6ae3-48e8-015d-76a5-09be2aaeb7d4
+ms.date: 06/08/2017
 ---
 
 

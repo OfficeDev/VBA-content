@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ImDiv
 ms.assetid: 6379d38c-032c-da1e-b71d-cb32f59df51d
+ms.date: 06/08/2017
 ---
 
 

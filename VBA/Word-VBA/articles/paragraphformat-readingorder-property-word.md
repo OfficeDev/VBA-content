@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.ReadingOrder
 ms.assetid: 4a22e638-2af8-096a-d45c-2eed21dc8002
+ms.date: 06/08/2017
 ---
 
 

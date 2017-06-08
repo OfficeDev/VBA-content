@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.BoundingBox
 ms.assetid: f281e304-057f-5555-8efd-fd81d088b8cd
+ms.date: 06/08/2017
 ---
 
 

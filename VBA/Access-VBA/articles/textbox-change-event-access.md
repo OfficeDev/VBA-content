@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Change
 ms.assetid: adde0a6d-d37a-a457-0dea-f2358adbb665
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.EmptyCell.BackShade
 ms.assetid: e66e1f6c-5511-92cb-78dd-ad5f259dbcb3
+ms.date: 06/08/2017
 ---
 
 

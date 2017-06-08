@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Recipient.AutoResponse
 ms.assetid: db6e0658-8e12-ac0b-4317-396cfe4620f6
+ms.date: 06/08/2017
 ---
 
 

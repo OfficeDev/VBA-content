@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Categories
 ms.assetid: 049396c0-193b-6c80-9eb0-f55480ffc37a
+ms.date: 06/08/2017
 ---
 
 

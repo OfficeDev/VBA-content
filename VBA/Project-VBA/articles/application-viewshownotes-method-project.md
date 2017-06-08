@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewShowNotes
 ms.assetid: 6721aa38-185d-4b10-abf3-d7587cd793b5
+ms.date: 06/08/2017
 ---
 
 

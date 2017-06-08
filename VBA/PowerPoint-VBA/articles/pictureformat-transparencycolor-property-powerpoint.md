@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.TransparencyColor
 ms.assetid: 122e69f6-a403-92d1-8ef7-087c9396ed6a
+ms.date: 06/08/2017
 ---
 
 

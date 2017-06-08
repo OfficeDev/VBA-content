@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.VerticalAnchor
 ms.assetid: 71b3b605-ff9f-b383-d367-0701c078a910
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBreaks.Count
 ms.assetid: 57d15145-8cb2-30a4-0763-3b8e5611d118
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ShapeRange.ID Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 253d9527-956d-030a-86bf-87b2bd0c7fcc
+ms.date: 06/08/2017
 ---
 
 

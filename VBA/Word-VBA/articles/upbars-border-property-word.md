@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.UpBars.Border
 ms.assetid: ec65c1c5-110f-2497-e049-acb01d224742
+ms.date: 06/08/2017
 ---
 
 

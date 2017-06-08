@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.PictureType
 ms.assetid: 29150e44-0815-9e6e-7fcb-92f030f3cf6a
+ms.date: 06/08/2017
 ---
 
 

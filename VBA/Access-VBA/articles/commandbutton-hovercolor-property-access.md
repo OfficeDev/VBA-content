@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.HoverColor
 ms.assetid: 00d4b912-fb14-2e63-ec4e-386ad4b9f0c3
+ms.date: 06/08/2017
 ---
 
 

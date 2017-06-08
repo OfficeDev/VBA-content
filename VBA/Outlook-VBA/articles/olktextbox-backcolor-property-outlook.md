@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.BackColor
 ms.assetid: be9ec885-ca09-fec0-7f38-b49821522f55
+ms.date: 06/08/2017
 ---
 
 

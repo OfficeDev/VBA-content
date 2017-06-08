@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.EnableMultiplePageItems
 ms.assetid: 877328c6-dc30-e741-52ad-9cd91d7997c9
+ms.date: 06/08/2017
 ---
 
 

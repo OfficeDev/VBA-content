@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.CreatePages
 ms.assetid: 48094af2-55fb-9732-19bf-8a73827d1afb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.MoveToPage
 ms.assetid: 1893035f-6739-7480-6ba0-2ca6a42355fa
+ms.date: 06/08/2017
 ---
 
 

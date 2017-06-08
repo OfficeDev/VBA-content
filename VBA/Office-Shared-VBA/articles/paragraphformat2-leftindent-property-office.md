@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.LeftIndent
 ms.assetid: cf4a4205-9123-505b-0f75-d021ac188035
+ms.date: 06/08/2017
 ---
 
 

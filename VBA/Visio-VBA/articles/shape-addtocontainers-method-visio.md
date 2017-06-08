@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.AddToContainers
 ms.assetid: ddd3f532-cbbf-3c63-0e02-49f4ea8ca90c
+ms.date: 06/08/2017
 ---
 
 

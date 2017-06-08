@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.WordArtFormat
 ms.assetid: 7ab4d90b-aae1-d98e-50d2-14b181d370ba
+ms.date: 06/08/2017
 ---
 
 

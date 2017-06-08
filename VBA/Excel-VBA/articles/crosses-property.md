@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Crosses
 ms.assetid: 60c2ae55-87ad-f28d-5739-cbd51c8144be
+ms.date: 06/08/2017
 ---
 
 

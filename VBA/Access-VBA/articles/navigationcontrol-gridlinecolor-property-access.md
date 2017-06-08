@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.GridlineColor
 ms.assetid: 21502538-377c-fd82-62bb-c68cabd1b2cd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.Subtotals
 ms.assetid: 1086c36f-e792-b2a5-848a-efd2c7e49d46
+ms.date: 06/08/2017
 ---
 
 

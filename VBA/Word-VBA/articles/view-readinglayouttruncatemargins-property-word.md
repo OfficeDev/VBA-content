@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ReadingLayoutTruncateMargins
 ms.assetid: 0600f777-9844-8085-cb89-429276541aca
+ms.date: 06/08/2017
 ---
 
 

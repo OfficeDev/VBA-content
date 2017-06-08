@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectCellLeft
 ms.assetid: 39bcb2db-cf65-0dc4-2594-9b3c58c4c7c9
+ms.date: 06/08/2017
 ---
 
 

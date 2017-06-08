@@ -2,6 +2,7 @@
 title: Sync Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d0ef384a-d946-4e3b-8e4f-386775758a42
+ms.date: 06/08/2017
 ---
 
 

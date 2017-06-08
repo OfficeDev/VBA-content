@@ -2,6 +2,7 @@
 title: SoftEdgeFormat Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: a2d2a5b6-ffa1-3cfe-c84b-ca2bf04b0e94
+ms.date: 06/08/2017
 ---
 
 

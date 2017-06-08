@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Delete
 ms.assetid: 9c3245de-828c-8a54-d267-74d41a841509
+ms.date: 06/08/2017
 ---
 
 

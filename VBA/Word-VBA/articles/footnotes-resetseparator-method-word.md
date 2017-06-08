@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnotes.ResetSeparator
 ms.assetid: 252633ab-a9a1-6dbe-7821-5c7969175996
+ms.date: 06/08/2017
 ---
 
 

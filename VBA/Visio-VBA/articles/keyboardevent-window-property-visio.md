@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.KeyboardEvent.Window
 ms.assetid: cad43f39-59db-e2ac-0f2d-809e61db7789
+ms.date: 06/08/2017
 ---
 
 

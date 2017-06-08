@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewShowCumulativeCost
 ms.assetid: 46374294-f37b-a71e-ff17-fb3bdf68928d
+ms.date: 06/08/2017
 ---
 
 

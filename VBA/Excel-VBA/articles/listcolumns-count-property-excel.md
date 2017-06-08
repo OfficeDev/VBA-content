@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListColumns.Count
 ms.assetid: 9f5d9cdb-d94a-9ab6-1d82-7b9664ba4ece
+ms.date: 06/08/2017
 ---
 
 

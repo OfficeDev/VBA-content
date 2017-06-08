@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalloutFormat.CustomDrop
 ms.assetid: d38513f6-1c42-e4b3-7a0f-b8543d59d0ff
+ms.date: 06/08/2017
 ---
 
 

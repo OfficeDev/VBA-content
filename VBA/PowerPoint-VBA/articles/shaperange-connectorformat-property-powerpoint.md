@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.ConnectorFormat
 ms.assetid: 30d41f5e-3bd5-b8ed-cba9-9de8b7567a98
+ms.date: 06/08/2017
 ---
 
 

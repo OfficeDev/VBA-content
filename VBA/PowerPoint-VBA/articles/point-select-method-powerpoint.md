@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.Select
 ms.assetid: 824bd71d-6397-d9cd-d9b4-760e711f8859
+ms.date: 06/08/2017
 ---
 
 

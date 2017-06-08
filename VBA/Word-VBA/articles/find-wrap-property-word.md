@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.Wrap
 ms.assetid: 2d6823f3-93aa-383c-af28-d44e6a8a83e2
+ms.date: 06/08/2017
 ---
 
 

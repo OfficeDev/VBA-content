@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.AddToFavorites
 ms.assetid: 262f05e9-3697-a695-db2d-39162158ec41
+ms.date: 06/08/2017
 ---
 
 

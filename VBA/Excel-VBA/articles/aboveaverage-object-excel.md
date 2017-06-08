@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage
 ms.assetid: dd4ea82f-7986-5d6f-2b0e-fe0ca38226e2
+ms.date: 06/08/2017
 ---
 
 

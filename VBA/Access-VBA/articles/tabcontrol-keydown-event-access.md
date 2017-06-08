@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.KeyDown
 ms.assetid: 002a65df-7ccd-82e9-c09b-dc4c283488a9
+ms.date: 06/08/2017
 ---
 
 

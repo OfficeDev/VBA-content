@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.AddToFavorites
 ms.assetid: e810df76-18a8-d6b8-8d72-fb6386e6ce3a
+ms.date: 06/08/2017
 ---
 
 

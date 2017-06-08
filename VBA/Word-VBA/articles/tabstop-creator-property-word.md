@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStop.Creator
 ms.assetid: 5a8f0108-92d2-a6de-fb05-86da24bd157c
+ms.date: 06/08/2017
 ---
 
 

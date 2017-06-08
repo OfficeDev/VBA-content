@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineNumbering.StartingNumber
 ms.assetid: 115d4c0a-d895-a404-84bb-7ffe17706a98
+ms.date: 06/08/2017
 ---
 
 

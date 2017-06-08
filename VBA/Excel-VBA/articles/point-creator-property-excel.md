@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.Creator
 ms.assetid: d56c42cb-316f-429e-e251-71db4176d278
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.ChildFramesetItem
 ms.assetid: a0210de1-5556-0c20-a694-a6892dc7eddf
+ms.date: 06/08/2017
 ---
 
 

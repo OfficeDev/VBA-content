@@ -2,6 +2,7 @@
 title: CustomXMLParts Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: dcdf1443-0a4b-422d-9ddb-2957ff29acc7
+ms.date: 06/08/2017
 ---
 
 

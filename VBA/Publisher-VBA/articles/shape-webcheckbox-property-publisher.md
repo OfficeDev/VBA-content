@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.WebCheckBox
 ms.assetid: 13796525-584f-7109-5dea-1f2baf1efda7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.PrintOut
 ms.assetid: 203e03f0-ab73-ce2b-0b0e-d696435595e0
+ms.date: 06/08/2017
 ---
 
 

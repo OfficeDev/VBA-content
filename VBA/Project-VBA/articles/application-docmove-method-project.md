@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DocMove
 ms.assetid: defa6ea7-5d1a-d3c4-6486-39192d1da99c
+ms.date: 06/08/2017
 ---
 
 

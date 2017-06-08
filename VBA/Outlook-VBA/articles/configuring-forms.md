@@ -2,6 +2,7 @@
 title: Configuring Forms
 ms.prod: OUTLOOK
 ms.assetid: 8d10a5b1-4b62-4f0e-a2cf-8c515a7583c0
+ms.date: 06/08/2017
 ---
 
 

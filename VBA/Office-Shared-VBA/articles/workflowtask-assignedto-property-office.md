@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WorkflowTask.AssignedTo
 ms.assetid: bd1e368f-09f1-95ba-b421-40912fbc085c
+ms.date: 06/08/2017
 ---
 
 

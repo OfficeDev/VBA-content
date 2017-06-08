@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.AttachmentAdd
 ms.assetid: 9394a65f-8182-2e27-73fb-6837b37c6c58
+ms.date: 06/08/2017
 ---
 
 

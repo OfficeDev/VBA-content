@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.InsertBreak
 ms.assetid: 9c565036-e060-f26e-2e12-9c340331233e
+ms.date: 06/08/2017
 ---
 
 

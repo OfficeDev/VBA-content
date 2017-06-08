@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.EnclosureNumber
 ms.assetid: e4bc5df9-a59a-562b-758e-4774eb4dbb9e
+ms.date: 06/08/2017
 ---
 
 

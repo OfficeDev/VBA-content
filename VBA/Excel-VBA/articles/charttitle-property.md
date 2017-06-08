@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartTitle
 ms.assetid: 736a91ad-a2ef-82c4-33b7-85c5ff78ae08
+ms.date: 06/08/2017
 ---
 
 

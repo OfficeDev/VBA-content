@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Equalize
 ms.assetid: 634b30d8-7e8b-952a-eb89-1113560eb7d2
+ms.date: 06/08/2017
 ---
 
 

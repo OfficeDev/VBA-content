@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.GenerateTableRefs
 ms.assetid: 3529fb4d-d311-6f92-9bf8-6b9f04d82ba8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Click
 ms.assetid: 1bca7597-b536-908e-c3fd-25f9dd5e1ab8
+ms.date: 06/08/2017
 ---
 
 

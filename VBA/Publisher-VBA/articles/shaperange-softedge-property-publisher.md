@@ -2,6 +2,7 @@
 title: ShapeRange.SoftEdge Property (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fd8006a9-91f8-6aeb-fa20-d5847122d14f
+ms.date: 06/08/2017
 ---
 
 

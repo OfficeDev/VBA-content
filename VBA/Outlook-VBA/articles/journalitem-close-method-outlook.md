@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.Close
 ms.assetid: f067cad9-828f-49f0-de55-c0a9f8369db9
+ms.date: 06/08/2017
 ---
 
 

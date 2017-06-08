@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.AltStartupPath
 ms.assetid: 92c987ed-542d-c227-d9c3-de64eba325e0
+ms.date: 06/08/2017
 ---
 
 

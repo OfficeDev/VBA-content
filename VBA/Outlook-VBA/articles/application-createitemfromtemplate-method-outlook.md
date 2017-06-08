@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.CreateItemFromTemplate
 ms.assetid: 5e6c0ec4-779d-3743-afdb-606ad512ba95
+ms.date: 06/08/2017
 ---
 
 

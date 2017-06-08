@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SyncObject.SyncStart
 ms.assetid: 225367bc-3bff-cea0-3e8c-71a30256f45d
+ms.date: 06/08/2017
 ---
 
 

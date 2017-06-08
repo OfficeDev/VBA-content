@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.GridDistanceHorizontal
 ms.assetid: 1d28ba4b-ee06-1b1a-e921-2d8d07cab305
+ms.date: 06/08/2017
 ---
 
 

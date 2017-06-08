@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.BackStyle
 ms.assetid: 362e42bc-6169-31cc-8c6f-072d956da095
+ms.date: 06/08/2017
 ---
 
 

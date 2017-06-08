@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.StoryType
 ms.assetid: 17709b74-ea6b-9d58-885d-01e6b2ddac55
+ms.date: 06/08/2017
 ---
 
 

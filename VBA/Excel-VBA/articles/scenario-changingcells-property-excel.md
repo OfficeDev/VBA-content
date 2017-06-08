@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenario.ChangingCells
 ms.assetid: 254abee5-0b64-7f68-33e9-28228541ad8f
+ms.date: 06/08/2017
 ---
 
 

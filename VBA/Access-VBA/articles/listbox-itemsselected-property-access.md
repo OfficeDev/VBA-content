@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ItemsSelected
 ms.assetid: c2403562-00c4-12ec-4d31-9b83d081cb4d
+ms.date: 06/08/2017
 ---
 
 

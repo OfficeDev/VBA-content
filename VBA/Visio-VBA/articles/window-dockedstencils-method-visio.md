@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.DockedStencils
 ms.assetid: d16865ee-a21f-75c7-55c4-8b30f1ae91e3
+ms.date: 06/08/2017
 ---
 
 

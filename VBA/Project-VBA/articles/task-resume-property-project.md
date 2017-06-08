@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Resume
 ms.assetid: 7a269dc6-8a6c-8bcc-c189-5d70e16526a2
+ms.date: 06/08/2017
 ---
 
 

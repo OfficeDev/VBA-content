@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoScreenSize
 ms.assetid: d5057fda-954a-819d-682f-75b8443c6f3d
+ms.date: 06/08/2017
 ---
 
 

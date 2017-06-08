@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.VPageBreaks.Parent
 ms.assetid: 894fe457-62e7-4561-387c-3ca5bd9f6a8c
+ms.date: 06/08/2017
 ---
 
 

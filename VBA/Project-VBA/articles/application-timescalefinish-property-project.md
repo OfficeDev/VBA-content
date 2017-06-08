@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TimescaleFinish
 ms.assetid: 66c07ebc-ee68-bf4c-9af1-c894d4617e44
+ms.date: 06/08/2017
 ---
 
 

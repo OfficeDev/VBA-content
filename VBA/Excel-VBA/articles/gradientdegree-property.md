@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GradientDegree
 ms.assetid: 6f325dc0-5f6c-7a55-52fa-55eeb15ccfe6
+ms.date: 06/08/2017
 ---
 
 

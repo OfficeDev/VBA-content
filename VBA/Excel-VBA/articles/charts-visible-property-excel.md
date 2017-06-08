@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Charts.Visible
 ms.assetid: 1665822c-8530-f25a-4465-dc4244da2420
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.Split
 ms.assetid: ed0b2594-a328-20d9-b352-5a59b8ef9d3a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.MouseMove
 ms.assetid: 0eedbab4-83c6-3dc1-8d22-0dd2f88369f4
+ms.date: 06/08/2017
 ---
 
 

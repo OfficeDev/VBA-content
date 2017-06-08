@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlPictureAlignment
 ms.assetid: 69b9407f-a86a-393d-11ac-5272be88de6d
+ms.date: 06/08/2017
 ---
 
 

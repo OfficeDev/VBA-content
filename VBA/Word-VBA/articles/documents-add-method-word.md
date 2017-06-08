@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Documents.Add
 ms.assetid: 04b81417-cde9-4657-7737-90d266d05487
+ms.date: 06/08/2017
 ---
 
 

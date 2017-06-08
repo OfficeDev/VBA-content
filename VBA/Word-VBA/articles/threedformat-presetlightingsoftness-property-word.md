@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 3f33ad34-5779-63a0-fe50-a8bd0fcabe54
+ms.date: 06/08/2017
 ---
 
 

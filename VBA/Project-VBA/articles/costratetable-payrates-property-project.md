@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.CostRateTable.PayRates
 ms.assetid: 260d9e77-9fce-5169-687f-027995c73273
+ms.date: 06/08/2017
 ---
 
 

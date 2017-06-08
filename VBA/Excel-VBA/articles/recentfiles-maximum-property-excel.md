@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RecentFiles.Maximum
 ms.assetid: 24bb3472-8b75-5457-467a-266ed8e5f979
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.XMLAfterInsert
 ms.assetid: 6858fd64-e96b-308e-53eb-d79595fabac7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PublishObject.RangeEnd
 ms.assetid: 3edce18e-31c5-4585-9ca5-adb8cbdbca17
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.Column
 ms.assetid: d265fd2c-1e96-984d-9b2c-0a792cbf7671
+ms.date: 06/08/2017
 ---
 
 

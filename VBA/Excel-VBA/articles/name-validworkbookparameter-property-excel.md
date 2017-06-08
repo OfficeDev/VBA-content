@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Name.ValidWorkbookParameter
 ms.assetid: fd8bef70-af4f-af01-1956-24b50ea210be
+ms.date: 06/08/2017
 ---
 
 

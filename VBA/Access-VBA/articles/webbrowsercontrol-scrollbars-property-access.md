@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.ScrollBars
 ms.assetid: 7f886ed1-32d1-5f0c-022f-e310046f75e0
+ms.date: 06/08/2017
 ---
 
 

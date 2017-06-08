@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WrapFormat.DistanceTop
 ms.assetid: b99f288e-873a-fa1a-2db1-6d59afd2e465
+ms.date: 06/08/2017
 ---
 
 

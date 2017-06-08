@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Top
 ms.assetid: 2bfa4057-2b4e-6ea6-6d0f-3efd6eb3c63d
+ms.date: 06/08/2017
 ---
 
 

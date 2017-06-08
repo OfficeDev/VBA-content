@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.SalutationType
 ms.assetid: f312bdfd-a10d-144d-4b99-0984707d13cb
+ms.date: 06/08/2017
 ---
 
 

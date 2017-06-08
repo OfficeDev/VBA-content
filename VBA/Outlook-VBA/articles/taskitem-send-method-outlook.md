@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.Send
 ms.assetid: 54f751fc-cff1-5d17-f635-f688cd8ad6f8
+ms.date: 06/08/2017
 ---
 
 

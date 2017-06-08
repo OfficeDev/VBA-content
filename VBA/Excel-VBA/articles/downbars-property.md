@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DownBars
 ms.assetid: 752b1b94-9027-876a-54a2-7aabed4e055b
+ms.date: 06/08/2017
 ---
 
 

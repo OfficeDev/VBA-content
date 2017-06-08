@@ -2,6 +2,7 @@
 title: TextFrame2 Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 3f4c7789-11d4-47f4-b532-74c0fc5be6b3
+ms.date: 06/08/2017
 ---
 
 

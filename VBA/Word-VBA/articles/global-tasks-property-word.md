@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.Tasks
 ms.assetid: e6a89660-adfd-a8f0-6322-ac232ba3dce2
+ms.date: 06/08/2017
 ---
 
 

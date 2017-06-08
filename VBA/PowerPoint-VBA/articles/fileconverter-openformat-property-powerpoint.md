@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FileConverter.OpenFormat
 ms.assetid: 2b385c2e-03be-973d-df6f-a728e57fcd35
+ms.date: 06/08/2017
 ---
 
 

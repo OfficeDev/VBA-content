@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatConditions.AddUniqueValues
 ms.assetid: 9cff98a9-7d7b-81ed-54b1-5919e681f904
+ms.date: 06/08/2017
 ---
 
 

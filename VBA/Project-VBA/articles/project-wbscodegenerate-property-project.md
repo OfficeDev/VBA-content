@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.WBSCodeGenerate
 ms.assetid: c387015f-6243-1509-ae1a-bafdf09f7393
+ms.date: 06/08/2017
 ---
 
 

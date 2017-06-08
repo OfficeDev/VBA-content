@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.Creator
 ms.assetid: 24057d70-7bab-728d-92de-3670b9e0e392
+ms.date: 06/08/2017
 ---
 
 

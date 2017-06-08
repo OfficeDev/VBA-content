@@ -2,6 +2,7 @@
 title: ViewCtl.MarkAllAsRead Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: ba7213de-2ab0-e9bf-d3be-444d13048bac
+ms.date: 06/08/2017
 ---
 
 

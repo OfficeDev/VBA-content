@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.Close
 ms.assetid: f88f72a4-9fec-8576-191f-4f800f0e0929
+ms.date: 06/08/2017
 ---
 
 

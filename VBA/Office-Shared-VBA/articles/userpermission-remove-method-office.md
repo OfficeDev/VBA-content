@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.UserPermission.Remove
 ms.assetid: d4c8778f-dc1b-7d5b-6a7a-65b91909bfe3
+ms.date: 06/08/2017
 ---
 
 

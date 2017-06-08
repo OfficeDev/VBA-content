@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BackstageGroupStyle
 ms.assetid: fe65008a-2579-0858-7912-29e8e3023937
+ms.date: 06/08/2017
 ---
 
 

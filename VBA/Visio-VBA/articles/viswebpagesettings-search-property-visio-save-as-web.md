@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Search
 ms.assetid: ae7e09e6-7f54-e939-5e5c-12af35c1b303
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GradientVariant
 ms.assetid: 7aa7c237-9dc7-8588-6b19-68b98f2a3662
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ReflectionFormat.Transparency
 ms.assetid: 01b77e83-0cd0-00fc-6acb-41f9cd604c27
+ms.date: 06/08/2017
 ---
 
 

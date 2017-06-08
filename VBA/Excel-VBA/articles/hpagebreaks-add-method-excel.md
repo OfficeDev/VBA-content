@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HPageBreaks.Add
 ms.assetid: 58aabcbf-7a9f-96a5-c91e-7311e397cffe
+ms.date: 06/08/2017
 ---
 
 

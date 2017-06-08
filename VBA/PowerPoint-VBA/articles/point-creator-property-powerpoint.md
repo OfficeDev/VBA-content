@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.Creator
 ms.assetid: 60c7a46e-6ea9-5011-7128-9e91ce287f82
+ms.date: 06/08/2017
 ---
 
 

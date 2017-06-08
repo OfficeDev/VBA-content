@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PlotArea.ClearFormats
 ms.assetid: f56616c8-aefe-3973-05fc-b410d5521c36
+ms.date: 06/08/2017
 ---
 
 

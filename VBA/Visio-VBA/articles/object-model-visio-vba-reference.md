@@ -2,6 +2,7 @@
 title: Object model (Visio VBA reference)
 ms.prod: VISIO
 ms.assetid: 166b707a-a5bf-42ae-7741-8ceb8a0ecfcc
+ms.date: 06/08/2017
 ---
 
 

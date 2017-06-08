@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFont.Parent
 ms.assetid: 3e9c2681-7b96-4408-f6c8-c86efbeb50fc
+ms.date: 06/08/2017
 ---
 
 

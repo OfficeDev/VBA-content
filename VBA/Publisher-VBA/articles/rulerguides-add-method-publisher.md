@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.RulerGuides.Add
 ms.assetid: 3986452a-73da-04c2-4e11-8369d61cd974
+ms.date: 06/08/2017
 ---
 
 

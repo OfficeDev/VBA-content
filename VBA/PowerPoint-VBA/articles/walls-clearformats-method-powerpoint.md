@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Walls.ClearFormats
 ms.assetid: 0c942880-731c-1ed5-144d-014749de3115
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.ActiveCell
 ms.assetid: 07ae9613-94b4-b3b9-c645-8acdabfebe86
+ms.date: 06/08/2017
 ---
 
 

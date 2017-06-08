@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.Active
 ms.assetid: 69277382-436e-3241-ccbf-1da229e04c3d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.TaskTableList
 ms.assetid: a36abbcb-db7d-f593-7e5c-df00fd96f010
+ms.date: 06/08/2017
 ---
 
 

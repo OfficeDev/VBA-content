@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.Column
 ms.assetid: 4850bc13-96dc-bb68-8c92-476fc430d969
+ms.date: 06/08/2017
 ---
 
 

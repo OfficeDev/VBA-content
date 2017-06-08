@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.IncrementContrast
 ms.assetid: ad5c45b2-0193-eda9-a511-4dd9050daee7
+ms.date: 06/08/2017
 ---
 
 

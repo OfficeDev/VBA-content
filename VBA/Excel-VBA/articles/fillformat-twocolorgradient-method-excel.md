@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.TwoColorGradient
 ms.assetid: 52b66d42-3489-365a-7c9e-368c27f45488
+ms.date: 06/08/2017
 ---
 
 

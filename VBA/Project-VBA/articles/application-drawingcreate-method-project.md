@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DrawingCreate
 ms.assetid: fc146a90-8207-0708-4cca-2015912b284a
+ms.date: 06/08/2017
 ---
 
 

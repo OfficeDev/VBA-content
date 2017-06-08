@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddPicture
 ms.assetid: af432432-b09b-3ca6-d392-132bd78251c7
+ms.date: 06/08/2017
 ---
 
 

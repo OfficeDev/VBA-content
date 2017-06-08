@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.DoughnutHoleSize
 ms.assetid: bd5fab99-265b-e9d9-3cb4-63d7e270d8b1
+ms.date: 06/08/2017
 ---
 
 

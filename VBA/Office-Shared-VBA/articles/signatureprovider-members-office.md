@@ -2,6 +2,7 @@
 title: SignatureProvider Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 8f99b46b-ee6c-54eb-570a-d2b34c0a8b3d
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.AfterWrite
 ms.assetid: 0f60bfa3-0a15-a6dd-d71b-139979938f5d
+ms.date: 06/08/2017
 ---
 
 

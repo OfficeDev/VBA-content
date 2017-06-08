@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.KeyPress
 ms.assetid: 15a26c77-d82f-f734-f294-54d38a657af3
+ms.date: 06/08/2017
 ---
 
 

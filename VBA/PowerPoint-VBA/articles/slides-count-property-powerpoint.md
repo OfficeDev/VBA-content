@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slides.Count
 ms.assetid: b01d04ed-b28f-608e-b77f-2ef94e1a2d2f
+ms.date: 06/08/2017
 ---
 
 

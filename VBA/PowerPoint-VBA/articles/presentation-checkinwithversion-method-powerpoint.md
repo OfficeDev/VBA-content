@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.CheckInWithVersion
 ms.assetid: fc40dda4-e8cb-196d-8b82-4c0adbdf6435
+ms.date: 06/08/2017
 ---
 
 

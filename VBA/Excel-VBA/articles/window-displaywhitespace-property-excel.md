@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.DisplayWhitespace
 ms.assetid: 3baa40f7-f1f1-bc9e-55ab-abaf9653393a
+ms.date: 06/08/2017
 ---
 
 

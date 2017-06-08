@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotLayout.Parent
 ms.assetid: 840a56bf-5256-619b-158d-1259730fbc8a
+ms.date: 06/08/2017
 ---
 
 

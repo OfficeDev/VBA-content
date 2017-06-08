@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.ReminderTime
 ms.assetid: c9a0526f-a986-76df-80e2-f085fd645df8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlSearchScope
 ms.assetid: 13d19f0e-88f3-07d8-b048-87fc586e2e0c
+ms.date: 06/08/2017
 ---
 
 

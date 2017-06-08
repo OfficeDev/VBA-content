@@ -2,6 +2,7 @@
 title: ApplicationSettings.SVGExportFormat Property (Visio)
 ms.prod: VISIO
 ms.assetid: 9e7ca1cb-5ace-b75b-0e59-61566b9a0169
+ms.date: 06/08/2017
 ---
 
 

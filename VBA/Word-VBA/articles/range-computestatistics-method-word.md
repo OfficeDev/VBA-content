@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.ComputeStatistics
 ms.assetid: 5fbeeffd-f592-3078-cd5b-1e2a90ee5092
+ms.date: 06/08/2017
 ---
 
 

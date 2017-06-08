@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Skew
 ms.assetid: cf10325a-0cb3-4779-d792-af365a830af9
+ms.date: 06/08/2017
 ---
 
 

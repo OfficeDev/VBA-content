@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.ColumnHidden
 ms.assetid: 9ef40b79-555d-c7c6-cf16-307d073afacb
+ms.date: 06/08/2017
 ---
 
 

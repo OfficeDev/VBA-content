@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.PresetLightingDirection
 ms.assetid: 85a5ae6c-5cdf-f4b5-ee9d-9ae220991037
+ms.date: 06/08/2017
 ---
 
 

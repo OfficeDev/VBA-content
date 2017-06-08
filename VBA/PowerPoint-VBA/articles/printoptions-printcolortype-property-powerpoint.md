@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.PrintColorType
 ms.assetid: f552b2c6-fc25-4da9-c8e2-418c42e5df6c
+ms.date: 06/08/2017
 ---
 
 

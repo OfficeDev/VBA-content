@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.MacroOptions
 ms.assetid: c81abbc5-0865-9e86-f188-652c88ac6baa
+ms.date: 06/08/2017
 ---
 
 

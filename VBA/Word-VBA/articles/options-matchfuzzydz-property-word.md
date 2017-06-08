@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyDZ
 ms.assetid: 4594528b-3855-512d-9738-878ce68c4bf7
+ms.date: 06/08/2017
 ---
 
 

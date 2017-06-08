@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.MinorUnitIsAuto
 ms.assetid: 6ea041c2-b1f3-73b6-f9b4-707edc611ba4
+ms.date: 06/08/2017
 ---
 
 

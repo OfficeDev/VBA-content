@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.Store
 ms.assetid: 347d3031-01cf-a248-4abc-f749feb811a4
+ms.date: 06/08/2017
 ---
 
 

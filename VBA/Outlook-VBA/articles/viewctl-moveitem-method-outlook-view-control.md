@@ -2,6 +2,7 @@
 title: ViewCtl.MoveItem Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: a5526be4-b220-c479-15e7-d3ea026581a1
+ms.date: 06/08/2017
 ---
 
 

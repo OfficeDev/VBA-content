@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FreeformBuilder
 ms.assetid: 31e89628-4b50-ff72-ce3d-dc7c161dad3e
+ms.date: 06/08/2017
 ---
 
 

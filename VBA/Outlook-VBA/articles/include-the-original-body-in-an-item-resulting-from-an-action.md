@@ -2,6 +2,7 @@
 title: Include the Original Body in an Item Resulting from an Action
 ms.prod: OUTLOOK
 ms.assetid: 02806758-f126-2afd-2037-2a7a7292fb9d
+ms.date: 06/08/2017
 ---
 
 

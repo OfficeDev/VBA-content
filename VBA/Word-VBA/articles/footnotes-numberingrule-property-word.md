@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnotes.NumberingRule
 ms.assetid: cae020d6-2071-df40-3537-844a612eed3d
+ms.date: 06/08/2017
 ---
 
 

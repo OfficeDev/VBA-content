@@ -2,6 +2,7 @@
 title: Chart.ChartStyle Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: e90f17dd-b9a8-4da1-d66a-2940e47953b5
+ms.date: 06/08/2017
 ---
 
 

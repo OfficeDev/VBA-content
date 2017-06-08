@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayouts
 ms.assetid: 9ce682fb-545c-55cb-e9ac-3475f7556af1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ArabicMode
 ms.assetid: f803708b-2e7d-16bf-5189-07057219c1f0
+ms.date: 06/08/2017
 ---
 
 

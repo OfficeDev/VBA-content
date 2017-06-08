@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Rule.ExecutionOrder
 ms.assetid: 070d50ca-4b0b-5629-1609-81ab8a3620d1
+ms.date: 06/08/2017
 ---
 
 

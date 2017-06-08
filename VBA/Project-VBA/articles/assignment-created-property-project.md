@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Created
 ms.assetid: 6ad7a628-8841-716f-0de9-a6f13aa61e85
+ms.date: 06/08/2017
 ---
 
 

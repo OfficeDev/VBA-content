@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.GridlineStyleTop
 ms.assetid: 53782607-fd23-26e2-ae48-721786cd20cc
+ms.date: 06/08/2017
 ---
 
 

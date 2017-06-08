@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.Weight
 ms.assetid: 5141d66f-4706-060d-fb4c-f244f9ac6437
+ms.date: 06/08/2017
 ---
 
 

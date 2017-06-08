@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.StatusBarText
 ms.assetid: 18ae7a69-2e63-7896-1bff-da3f45b62c63
+ms.date: 06/08/2017
 ---
 
 

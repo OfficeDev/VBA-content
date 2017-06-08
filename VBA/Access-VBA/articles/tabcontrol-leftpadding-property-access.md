@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.LeftPadding
 ms.assetid: 72b2ef0f-b9aa-501d-1f6e-78a09e967915
+ms.date: 06/08/2017
 ---
 
 

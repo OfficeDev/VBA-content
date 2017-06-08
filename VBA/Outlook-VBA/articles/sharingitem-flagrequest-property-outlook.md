@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.FlagRequest
 ms.assetid: cfca6d5e-3ac5-b448-a1fa-228c0eabea4e
+ms.date: 06/08/2017
 ---
 
 

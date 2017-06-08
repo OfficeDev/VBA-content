@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.CommandBars
 ms.assetid: 8d93b8cd-c4e3-b216-eda0-da4c6e573c40
+ms.date: 06/08/2017
 ---
 
 

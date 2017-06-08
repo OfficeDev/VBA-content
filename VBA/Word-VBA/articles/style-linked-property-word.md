@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.Linked
 ms.assetid: d0b3be68-6131-39f0-1a8d-d9486755e19a
+ms.date: 06/08/2017
 ---
 
 

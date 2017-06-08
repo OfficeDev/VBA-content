@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Rotate
 ms.assetid: 3c0a1a4d-a172-131a-9fb4-d215a5b9b2af
+ms.date: 06/08/2017
 ---
 
 

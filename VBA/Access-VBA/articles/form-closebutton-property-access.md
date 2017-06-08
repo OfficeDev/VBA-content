@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.CloseButton
 ms.assetid: c87e3752-0a77-3e5e-9c82-20effaf0af1e
+ms.date: 06/08/2017
 ---
 
 

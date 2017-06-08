@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DownBars.Application
 ms.assetid: 92238dae-e889-e765-4cf9-1d2253167b40
+ms.date: 06/08/2017
 ---
 
 

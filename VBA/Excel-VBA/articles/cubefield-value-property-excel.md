@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.Value
 ms.assetid: 4d01789a-2d4d-635f-4b7e-e5dbf657ae0e
+ms.date: 06/08/2017
 ---
 
 

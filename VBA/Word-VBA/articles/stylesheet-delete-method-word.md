@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.StyleSheet.Delete
 ms.assetid: 12395676-8aee-6503-1081-bc136aed6fd2
+ms.date: 06/08/2017
 ---
 
 

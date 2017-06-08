@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLPart.NamespaceURI
 ms.assetid: 1d495cd6-ff62-7db6-dbcf-c3afff8cde0b
+ms.date: 06/08/2017
 ---
 
 

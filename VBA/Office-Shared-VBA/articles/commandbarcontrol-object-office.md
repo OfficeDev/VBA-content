@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl
 ms.assetid: b104ec00-beeb-a927-4b7b-108f4e3164f5
+ms.date: 06/08/2017
 ---
 
 

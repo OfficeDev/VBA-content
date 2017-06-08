@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureInfo.SelectCertificateDetailByThumbprint
 ms.assetid: 997010ee-330f-433d-c62c-bf211b8351d6
+ms.date: 06/08/2017
 ---
 
 

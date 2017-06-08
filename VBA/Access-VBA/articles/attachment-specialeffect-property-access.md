@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.SpecialEffect
 ms.assetid: 4c2a07d1-99b4-1558-7956-d4a8d4fa157d
+ms.date: 06/08/2017
 ---
 
 

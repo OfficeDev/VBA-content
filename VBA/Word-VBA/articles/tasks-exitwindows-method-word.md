@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tasks.ExitWindows
 ms.assetid: c2af5fdf-948d-c9cb-1a6a-8cde29ab630c
+ms.date: 06/08/2017
 ---
 
 

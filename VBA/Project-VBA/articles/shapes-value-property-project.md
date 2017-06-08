@@ -2,6 +2,7 @@
 title: Shapes.Value Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: f10fef14-baee-ddd3-fb39-81fef0bc132d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.Lines
 ms.assetid: 56862090-b2ff-403b-d016-e37108d5ccc1
+ms.date: 06/08/2017
 ---
 
 

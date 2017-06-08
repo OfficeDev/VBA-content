@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DownBars.Application
 ms.assetid: 58c4cae5-4869-4a3d-68ee-7ebac98b0fb5
+ms.date: 06/08/2017
 ---
 
 

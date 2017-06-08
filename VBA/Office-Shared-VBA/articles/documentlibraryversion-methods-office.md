@@ -2,6 +2,7 @@
 title: DocumentLibraryVersion Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b63aa630-91f6-4ec8-b8d1-3766f4046bd3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FormField.Cut
 ms.assetid: 92b8862d-6463-0bbd-cffd-8e76f5add5b4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SortField.Delete
 ms.assetid: dd48027b-d6d6-0431-4123-a005c66ab457
+ms.date: 06/08/2017
 ---
 
 

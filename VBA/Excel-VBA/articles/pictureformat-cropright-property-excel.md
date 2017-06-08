@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PictureFormat.CropRight
 ms.assetid: 9cf71268-5d63-4f66-6245-968786db14a8
+ms.date: 06/08/2017
 ---
 
 

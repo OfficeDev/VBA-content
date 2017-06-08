@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.HiLoLines
 ms.assetid: 3b575e71-79c9-83d8-4c2d-dfc36480099f
+ms.date: 06/08/2017
 ---
 
 

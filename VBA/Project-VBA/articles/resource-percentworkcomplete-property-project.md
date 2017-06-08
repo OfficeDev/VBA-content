@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.PercentWorkComplete
 ms.assetid: d1a26d38-f5da-2752-f8bd-3e02779672fc
+ms.date: 06/08/2017
 ---
 
 

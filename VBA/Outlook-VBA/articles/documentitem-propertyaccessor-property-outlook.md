@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.PropertyAccessor
 ms.assetid: 9dc361f0-f737-acd1-29dd-ad7daddd8de5
+ms.date: 06/08/2017
 ---
 
 

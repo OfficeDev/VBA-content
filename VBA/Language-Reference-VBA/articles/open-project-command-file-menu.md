@@ -2,6 +2,7 @@
 title: Open Project Command (File Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 25a2dc58-49b0-bb7d-c1cd-b30e44aa1f0c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.Width
 ms.assetid: 297ed420-f582-4d22-eb40-de66012cdf12
+ms.date: 06/08/2017
 ---
 
 

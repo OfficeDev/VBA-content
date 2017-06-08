@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Style.ShrinkToFit
 ms.assetid: c55d2aae-8289-5617-9eab-1877b8b0a6c7
+ms.date: 06/08/2017
 ---
 
 

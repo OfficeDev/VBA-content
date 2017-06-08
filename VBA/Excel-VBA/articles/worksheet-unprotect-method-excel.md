@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.Unprotect
 ms.assetid: f955872b-d6bf-5c94-d956-0e84fc7bb9aa
+ms.date: 06/08/2017
 ---
 
 

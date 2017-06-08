@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.BeforeWindowSelDelete
 ms.assetid: 698ced64-c647-bee3-bd3d-31dc7386b7af
+ms.date: 06/08/2017
 ---
 
 

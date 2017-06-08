@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ErrorBars.ClearFormats
 ms.assetid: 29b98847-5865-b143-7bc6-63966be73ca6
+ms.date: 06/08/2017
 ---
 
 

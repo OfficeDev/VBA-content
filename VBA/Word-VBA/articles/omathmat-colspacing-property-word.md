@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMat.ColSpacing
 ms.assetid: b4268efd-c49a-b344-6842-e6bc13804be7
+ms.date: 06/08/2017
 ---
 
 

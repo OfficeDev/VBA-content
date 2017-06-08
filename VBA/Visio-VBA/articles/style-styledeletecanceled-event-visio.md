@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.StyleDeleteCanceled
 ms.assetid: 0ade6dd7-b3e7-b0de-6d9b-328e1335f97b
+ms.date: 06/08/2017
 ---
 
 

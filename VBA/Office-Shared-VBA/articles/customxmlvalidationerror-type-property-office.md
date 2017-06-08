@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLValidationError.Type
 ms.assetid: 9e156bd5-e21f-cc49-3e46-080b3cc705a9
+ms.date: 06/08/2017
 ---
 
 

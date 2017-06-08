@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FreeformBuilder.Application
 ms.assetid: 6a8abf6c-5e9a-9b5e-d122-9998d110b050
+ms.date: 06/08/2017
 ---
 
 

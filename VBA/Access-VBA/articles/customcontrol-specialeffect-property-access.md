@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.SpecialEffect
 ms.assetid: cad6b92e-b927-fa6f-518c-f019dba0f879
+ms.date: 06/08/2017
 ---
 
 

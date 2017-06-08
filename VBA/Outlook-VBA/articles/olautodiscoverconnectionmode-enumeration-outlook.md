@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlAutoDiscoverConnectionMode
 ms.assetid: fee21188-a513-c272-0311-544956c03786
+ms.date: 06/08/2017
 ---
 
 

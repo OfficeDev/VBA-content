@@ -2,6 +2,7 @@
 title: Center Controls in a Form
 ms.prod: OUTLOOK
 ms.assetid: e0ce9434-45cb-45af-1091-82aa943e6f68
+ms.date: 06/08/2017
 ---
 
 

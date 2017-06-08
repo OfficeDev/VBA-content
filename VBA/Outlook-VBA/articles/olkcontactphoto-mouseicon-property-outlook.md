@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkContactPhoto.MouseIcon
 ms.assetid: d2e24ad4-3374-5c49-a330-24aa8f03e5ff
+ms.date: 06/08/2017
 ---
 
 

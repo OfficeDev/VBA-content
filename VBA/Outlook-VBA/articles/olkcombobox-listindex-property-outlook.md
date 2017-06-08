@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.ListIndex
 ms.assetid: 1d016281-6b41-8a6b-075c-33ff1bcde28c
+ms.date: 06/08/2017
 ---
 
 

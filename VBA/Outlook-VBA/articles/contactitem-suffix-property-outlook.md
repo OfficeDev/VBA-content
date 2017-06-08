@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Suffix
 ms.assetid: edb92ed2-c42d-9f0d-b67a-e58ccd72ea0f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DDEInitiate
 ms.assetid: 7b05c3ad-574e-d904-5d50-ff646486ef07
+ms.date: 06/08/2017
 ---
 
 

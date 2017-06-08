@@ -2,6 +2,7 @@
 title: Customize an Icon for a Control in the Control Toolbox
 ms.prod: OUTLOOK
 ms.assetid: 1f6d50d3-97c0-0ca7-9bf7-a03dcf774c71
+ms.date: 06/08/2017
 ---
 
 

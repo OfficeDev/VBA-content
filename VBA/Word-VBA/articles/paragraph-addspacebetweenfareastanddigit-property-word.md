@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.AddSpaceBetweenFarEastAndDigit
 ms.assetid: b4841607-2cf1-7607-8aca-c0e187a1d2dd
+ms.date: 06/08/2017
 ---
 
 

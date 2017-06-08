@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AtEndOfStream
 ms.assetid: 157b18dc-fdfb-a9f6-1368-aaf4654a2ef5
+ms.date: 06/08/2017
 ---
 
 

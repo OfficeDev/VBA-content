@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.SelectionChanged
 ms.assetid: d2749204-9003-f4a7-1de0-b47d5e6abb1b
+ms.date: 06/08/2017
 ---
 
 

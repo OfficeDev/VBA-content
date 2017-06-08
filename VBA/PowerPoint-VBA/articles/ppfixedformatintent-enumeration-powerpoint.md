@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpFixedFormatIntent
 ms.assetid: e11adacd-6cf1-635f-4d5e-bbd76176fd8f
+ms.date: 06/08/2017
 ---
 
 

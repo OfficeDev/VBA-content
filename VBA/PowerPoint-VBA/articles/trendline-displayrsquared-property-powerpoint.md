@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Trendline.DisplayRSquared
 ms.assetid: e2899b19-c35f-b648-42af-d7fd75d51653
+ms.date: 06/08/2017
 ---
 
 

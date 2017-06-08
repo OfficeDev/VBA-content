@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ChartArea
 ms.assetid: b16d78c0-7663-3ef9-c17a-02e7a024b344
+ms.date: 06/08/2017
 ---
 
 

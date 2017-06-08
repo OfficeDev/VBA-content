@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Crop.PictureOffsetY
 ms.assetid: cc36521e-69ac-56bf-5355-7bfa33c5ec30
+ms.date: 06/08/2017
 ---
 
 

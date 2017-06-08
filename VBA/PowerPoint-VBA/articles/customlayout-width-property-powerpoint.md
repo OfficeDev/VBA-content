@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Width
 ms.assetid: cddb5c12-7ee9-9ad3-6534-45f0388f2d08
+ms.date: 06/08/2017
 ---
 
 

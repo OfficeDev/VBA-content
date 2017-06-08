@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UpBars.Parent
 ms.assetid: 1bd8f302-a3e3-ab3b-fc4f-ed1cf5cf97b5
+ms.date: 06/08/2017
 ---
 
 

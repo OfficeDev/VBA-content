@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.NumberOfCopies
 ms.assetid: 6630ac4d-5c19-ad5f-f557-12e25e198e17
+ms.date: 06/08/2017
 ---
 
 

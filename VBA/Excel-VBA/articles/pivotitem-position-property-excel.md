@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItem.Position
 ms.assetid: 07e78622-f869-40d0-276a-b015ebe7a90f
+ms.date: 06/08/2017
 ---
 
 

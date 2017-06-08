@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GoalAreaTaskHighlight
 ms.assetid: 32616617-d34a-c9f4-8ddd-17fa3f1c7e74
+ms.date: 06/08/2017
 ---
 
 

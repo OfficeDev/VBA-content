@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.TransparentBackground
 ms.assetid: 8cbc6da7-e3c9-6d42-de48-ae82b3e5ff00
+ms.date: 06/08/2017
 ---
 
 

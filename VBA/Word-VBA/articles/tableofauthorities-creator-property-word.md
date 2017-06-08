@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.Creator
 ms.assetid: 22eda540-1af4-af1e-ef99-db471774f383
+ms.date: 06/08/2017
 ---
 
 

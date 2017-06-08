@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ICTPFactory.CreateCTP
 ms.assetid: 17be1aa2-5045-2c89-151b-6f00d1bae6c1
+ms.date: 06/08/2017
 ---
 
 

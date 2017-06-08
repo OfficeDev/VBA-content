@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CaptionLabel.IncludeChapterNumber
 ms.assetid: 6b9c58e6-bb66-1334-278f-aa447103414e
+ms.date: 06/08/2017
 ---
 
 

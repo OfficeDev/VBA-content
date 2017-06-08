@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.EffectParameters.Amount
 ms.assetid: dcc17dbf-6064-64b1-5474-29918bc4e0c6
+ms.date: 06/08/2017
 ---
 
 

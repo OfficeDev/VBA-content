@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ObjectVerbs.Item
 ms.assetid: f22425fd-b043-19e2-05e3-0fc061418d57
+ms.date: 06/08/2017
 ---
 
 

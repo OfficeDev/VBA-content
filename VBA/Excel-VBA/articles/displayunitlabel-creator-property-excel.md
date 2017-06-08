@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.Creator
 ms.assetid: 8150429a-3533-6681-36cf-22db6196610f
+ms.date: 06/08/2017
 ---
 
 

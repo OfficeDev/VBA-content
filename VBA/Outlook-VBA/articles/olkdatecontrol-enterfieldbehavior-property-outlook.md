@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.EnterFieldBehavior
 ms.assetid: 985b7c35-cdd7-a75b-309e-a6459beeab31
+ms.date: 06/08/2017
 ---
 
 

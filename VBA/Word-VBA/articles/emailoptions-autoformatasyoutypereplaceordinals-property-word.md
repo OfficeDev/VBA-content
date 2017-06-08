@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceOrdinals
 ms.assetid: c3f60ea8-1949-6247-98d1-d8d386507341
+ms.date: 06/08/2017
 ---
 
 

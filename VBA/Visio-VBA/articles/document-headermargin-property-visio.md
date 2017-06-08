@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.HeaderMargin
 ms.assetid: 7d2c137d-6b75-9747-5a6a-5e5d99156d45
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.SelectionDeleteCanceled
 ms.assetid: b554fe23-a9c9-03e8-197f-528f3a63927b
+ms.date: 06/08/2017
 ---
 
 

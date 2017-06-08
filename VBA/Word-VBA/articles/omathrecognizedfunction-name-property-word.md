@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathRecognizedFunction.Name
 ms.assetid: 2d7fe25e-1312-2d2e-cee1-06f718331c76
+ms.date: 06/08/2017
 ---
 
 

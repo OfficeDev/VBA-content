@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdStylisticSet
 ms.assetid: e67291a0-5193-db3c-68da-3e3576da75c1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ShowTableStyleRowStripes
 ms.assetid: 599a766c-6b25-5bfd-f785-fefe9fe86f00
+ms.date: 06/08/2017
 ---
 
 

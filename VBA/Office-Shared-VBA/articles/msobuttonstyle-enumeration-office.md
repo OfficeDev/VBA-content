@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoButtonStyle
 ms.assetid: da6a0258-5cef-1745-793d-ead1ac4e9006
+ms.date: 06/08/2017
 ---
 
 

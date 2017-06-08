@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Plate.Luminance
 ms.assetid: 8d84fe74-8421-4ec2-bf6e-a156a0c0018b
+ms.date: 06/08/2017
 ---
 
 

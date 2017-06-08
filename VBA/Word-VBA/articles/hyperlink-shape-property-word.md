@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.Shape
 ms.assetid: bee91eb6-fc38-e2b9-ca90-e9a34062c9f5
+ms.date: 06/08/2017
 ---
 
 

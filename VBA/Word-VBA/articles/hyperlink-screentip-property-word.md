@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.ScreenTip
 ms.assetid: 59df269f-3dfd-53fe-b4ac-7889eefef740
+ms.date: 06/08/2017
 ---
 
 

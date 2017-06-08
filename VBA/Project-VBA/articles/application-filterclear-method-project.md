@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FilterClear
 ms.assetid: 5de6ac7d-79c5-15e3-5d10-cbf8dd0ccde7
+ms.date: 06/08/2017
 ---
 
 

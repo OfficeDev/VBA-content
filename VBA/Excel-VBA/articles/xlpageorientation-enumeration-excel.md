@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPageOrientation
 ms.assetid: b62e112f-a347-7711-c6fd-925bed84ed47
+ms.date: 06/08/2017
 ---
 
 

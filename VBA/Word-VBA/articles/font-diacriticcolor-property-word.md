@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.DiacriticColor
 ms.assetid: cae2bd1b-3ecb-48a4-0ba8-6273d1cd75d8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminder.OriginalReminderDate
 ms.assetid: ecc3f0c4-0e20-1d02-94b5-40807523ad2d
+ms.date: 06/08/2017
 ---
 
 

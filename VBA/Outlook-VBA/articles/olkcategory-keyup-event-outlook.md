@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.KeyUp
 ms.assetid: ce4ad525-fe0e-17d8-656f-4a3557e2ff6f
+ms.date: 06/08/2017
 ---
 
 

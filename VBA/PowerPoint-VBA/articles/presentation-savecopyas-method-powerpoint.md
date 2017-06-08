@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.SaveCopyAs
 ms.assetid: 456415d1-845a-9e9b-45ce-98985e94aee5
+ms.date: 06/08/2017
 ---
 
 

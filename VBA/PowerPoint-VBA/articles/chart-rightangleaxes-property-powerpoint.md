@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.RightAngleAxes
 ms.assetid: 4bccf442-1cf6-48b9-d67c-5a72561211e0
+ms.date: 06/08/2017
 ---
 
 

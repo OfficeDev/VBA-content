@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCErrors.Count
 ms.assetid: bb668c7f-d70e-0141-cf67-7286925f9979
+ms.date: 06/08/2017
 ---
 
 

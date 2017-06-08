@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Journal
 ms.assetid: 3916e2e9-9660-6622-6315-cf1a21865f53
+ms.date: 06/08/2017
 ---
 
 

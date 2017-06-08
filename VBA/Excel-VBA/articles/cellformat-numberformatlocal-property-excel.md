@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CellFormat.NumberFormatLocal
 ms.assetid: a80d642b-6f36-211f-4e98-28b0beccc130
+ms.date: 06/08/2017
 ---
 
 

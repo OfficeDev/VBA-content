@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.LastModificationTime
 ms.assetid: 91a95fa7-9cbb-0b40-f77f-4f5b3145e0a8
+ms.date: 06/08/2017
 ---
 
 

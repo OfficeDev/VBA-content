@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.Alignment
 ms.assetid: 96689127-6f42-c2ad-80c7-76d08a47720c
+ms.date: 06/08/2017
 ---
 
 

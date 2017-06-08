@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathFontName
 ms.assetid: 3a1c93fd-20d7-1eb9-96d5-3d13ccdde735
+ms.date: 06/08/2017
 ---
 
 

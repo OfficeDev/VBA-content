@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.IMEMode
 ms.assetid: 0bb1ebc8-257f-b3e0-11d1-b50575e9f86c
+ms.date: 06/08/2017
 ---
 
 

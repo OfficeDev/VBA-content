@@ -2,6 +2,7 @@
 title: Series.Parent Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 7da70a09-8226-48bd-8fb3-0faba687ac09
+ms.date: 06/08/2017
 ---
 
 

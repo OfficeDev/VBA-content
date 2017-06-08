@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.ControlFormat
 ms.assetid: e874098f-ea8c-93ff-f746-a0d568bec5b5
+ms.date: 06/08/2017
 ---
 
 

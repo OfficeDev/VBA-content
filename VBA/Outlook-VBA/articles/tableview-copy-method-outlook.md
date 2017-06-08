@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.Copy
 ms.assetid: 985b5aaa-1f66-77e3-a035-3e2030318bf8
+ms.date: 06/08/2017
 ---
 
 

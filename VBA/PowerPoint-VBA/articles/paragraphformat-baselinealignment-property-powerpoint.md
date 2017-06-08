@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.BaseLineAlignment
 ms.assetid: b59f680f-a5a9-f6bc-85d5-f14670269ae8
+ms.date: 06/08/2017
 ---
 
 

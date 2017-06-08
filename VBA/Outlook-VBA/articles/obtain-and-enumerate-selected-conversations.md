@@ -2,6 +2,7 @@
 title: Obtain and Enumerate Selected Conversations
 ms.prod: OUTLOOK
 ms.assetid: 3bba1e98-b2eb-c53d-354a-bdd899b65a59
+ms.date: 06/08/2017
 ---
 
 

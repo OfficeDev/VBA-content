@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.GroupShapes.Parent
 ms.assetid: cab159ab-3694-2b80-72f2-444c83c5664c
+ms.date: 06/08/2017
 ---
 
 

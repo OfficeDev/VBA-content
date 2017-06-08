@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.MaxLength
 ms.assetid: 87248b73-a6c5-0cc1-a711-13922195f406
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.SizeToFit
 ms.assetid: 29ff6110-19e8-3503-aab6-d0af7cee20b5
+ms.date: 06/08/2017
 ---
 
 

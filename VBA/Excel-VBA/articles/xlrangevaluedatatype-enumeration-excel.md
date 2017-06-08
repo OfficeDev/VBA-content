@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlRangeValueDataType
 ms.assetid: a7d50f6e-a1e2-adaf-2516-410210e5fa50
+ms.date: 06/08/2017
 ---
 
 

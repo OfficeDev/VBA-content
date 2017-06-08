@@ -2,6 +2,7 @@
 title: Chart.ChartArea Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 384eb030-741d-e69d-cd27-d4e414d7da8c
+ms.date: 06/08/2017
 ---
 
 

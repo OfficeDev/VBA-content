@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SelText
 ms.assetid: 75b9c27f-f6f7-6445-6d86-a53f046c1db6
+ms.date: 06/08/2017
 ---
 
 

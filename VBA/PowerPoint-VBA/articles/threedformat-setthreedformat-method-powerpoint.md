@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.SetThreeDFormat
 ms.assetid: 9685d3f9-467a-8b11-144a-c4260bdbbddd
+ms.date: 06/08/2017
 ---
 
 

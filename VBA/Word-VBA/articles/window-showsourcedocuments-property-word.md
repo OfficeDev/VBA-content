@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.ShowSourceDocuments
 ms.assetid: 693cebe8-ec07-15aa-896a-e4cc7f7e0aad
+ms.date: 06/08/2017
 ---
 
 

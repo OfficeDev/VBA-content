@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.StandardFontSize
 ms.assetid: 368ae001-7471-d104-573a-fc97d761f75e
+ms.date: 06/08/2017
 ---
 
 

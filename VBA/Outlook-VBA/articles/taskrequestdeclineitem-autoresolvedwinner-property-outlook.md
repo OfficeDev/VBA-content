@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.AutoResolvedWinner
 ms.assetid: 4b158b92-50fe-e754-6115-8be332939d88
+ms.date: 06/08/2017
 ---
 
 

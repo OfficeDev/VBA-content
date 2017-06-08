@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.Assistance
 ms.assetid: 0062855c-0756-b8fd-943e-e8f9297c9759
+ms.date: 06/08/2017
 ---
 
 

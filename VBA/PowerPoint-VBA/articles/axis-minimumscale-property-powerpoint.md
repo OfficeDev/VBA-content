@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.MinimumScale
 ms.assetid: 90cfaa99-0ccf-2fa8-c6b0-54d1440b6677
+ms.date: 06/08/2017
 ---
 
 

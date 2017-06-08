@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Paste
 ms.assetid: 88a215df-a271-2d09-8ffe-765fcb990163
+ms.date: 06/08/2017
 ---
 
 

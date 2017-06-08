@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Cut
 ms.assetid: 1f5d6f8a-81ab-3948-870c-a46a21f6b005
+ms.date: 06/08/2017
 ---
 
 

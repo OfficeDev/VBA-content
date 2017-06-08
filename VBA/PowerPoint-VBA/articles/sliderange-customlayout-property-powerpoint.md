@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.CustomLayout
 ms.assetid: 59ab6080-ffa1-ef26-a508-1ec35fd2102a
+ms.date: 06/08/2017
 ---
 
 

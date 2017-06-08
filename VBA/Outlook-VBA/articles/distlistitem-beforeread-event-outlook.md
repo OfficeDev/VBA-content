@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.BeforeRead
 ms.assetid: 4b8c5b45-7365-930a-3779-705bdd885893
+ms.date: 06/08/2017
 ---
 
 

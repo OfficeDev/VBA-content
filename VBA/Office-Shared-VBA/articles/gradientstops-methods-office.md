@@ -2,6 +2,7 @@
 title: GradientStops Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: f900ac75-6a34-4389-8250-3de1e4c668e1
+ms.date: 06/08/2017
 ---
 
 

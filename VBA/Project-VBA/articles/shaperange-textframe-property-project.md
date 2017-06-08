@@ -2,6 +2,7 @@
 title: ShapeRange.TextFrame Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 9a3bce20-8d85-776a-0585-475101d429e1
+ms.date: 06/08/2017
 ---
 
 

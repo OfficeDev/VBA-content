@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tables.Count
 ms.assetid: c2ee44d9-6ab7-e94b-a132-b752f9f7b669
+ms.date: 06/08/2017
 ---
 
 

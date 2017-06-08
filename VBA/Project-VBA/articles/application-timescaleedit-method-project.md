@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TimescaleEdit
 ms.assetid: 7f1ee80d-8de3-ebde-9961-105a31c62653
+ms.date: 06/08/2017
 ---
 
 

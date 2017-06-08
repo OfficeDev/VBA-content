@@ -2,6 +2,7 @@
 title: ViewCtl.NewNote Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 479e7c14-ecb6-84d0-7c5d-2a9954625979
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.HorizontalAnchor
 ms.assetid: ccdb70d5-53be-a818-52db-0f36df5c6714
+ms.date: 06/08/2017
 ---
 
 

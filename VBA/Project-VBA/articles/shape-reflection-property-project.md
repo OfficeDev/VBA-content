@@ -2,6 +2,7 @@
 title: Shape.Reflection Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 02aaa497-5941-fdb9-5c34-5a596f11d1af
+ms.date: 06/08/2017
 ---
 
 

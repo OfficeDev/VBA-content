@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.PressedForeTint
 ms.assetid: 70267cd4-ed42-9533-4cb6-e4338fa38fc1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.PointsToTwips
 ms.assetid: ba928b83-f551-049e-5868-098a9837ee7b
+ms.date: 06/08/2017
 ---
 
 

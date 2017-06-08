@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebPageOptions.SetBackgroundSoundRepeat
 ms.assetid: a699fa92-a36a-6722-431d-a0ce8413cfcf
+ms.date: 06/08/2017
 ---
 
 

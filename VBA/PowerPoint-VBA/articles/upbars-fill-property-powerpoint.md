@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.UpBars.Fill
 ms.assetid: 56609f59-253a-c1ba-c133-6a4be91dd837
+ms.date: 06/08/2017
 ---
 
 

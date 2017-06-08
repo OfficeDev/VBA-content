@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.Transparent
 ms.assetid: 9eab3a03-2498-f1f5-f2e1-f238859c4850
+ms.date: 06/08/2017
 ---
 
 

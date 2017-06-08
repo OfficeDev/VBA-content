@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.SetTabOrder
 ms.assetid: d0d993c5-045d-a457-f89a-459d85f98dec
+ms.date: 06/08/2017
 ---
 
 

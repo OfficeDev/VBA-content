@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Sort.Apply
 ms.assetid: dcb693a8-74f9-577f-c8fb-18005bba8f24
+ms.date: 06/08/2017
 ---
 
 

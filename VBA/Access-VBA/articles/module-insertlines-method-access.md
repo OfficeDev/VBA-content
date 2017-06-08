@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.InsertLines
 ms.assetid: 54ea5ce3-fb2a-e9c7-85ef-8861141f63ec
+ms.date: 06/08/2017
 ---
 
 

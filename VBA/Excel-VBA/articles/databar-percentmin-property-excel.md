@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.PercentMin
 ms.assetid: bd8670f9-ae0b-3a1c-5b14-84cc00638b6e
+ms.date: 06/08/2017
 ---
 
 

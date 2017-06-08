@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TabStops.Add
 ms.assetid: 23536810-e851-c0ac-22e2-fab41582d612
+ms.date: 06/08/2017
 ---
 
 

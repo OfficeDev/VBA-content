@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.BookmarkID
 ms.assetid: f48d317c-b5ed-ff0e-4a22-13b68aa10be1
+ms.date: 06/08/2017
 ---
 
 

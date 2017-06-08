@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.CropRight
 ms.assetid: 89f73474-9b52-b758-e579-adbc803a5a62
+ms.date: 06/08/2017
 ---
 
 

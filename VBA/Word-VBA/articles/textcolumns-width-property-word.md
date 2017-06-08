@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextColumns.Width
 ms.assetid: 81aaaf9b-5b28-3575-3908-cc7dfc0ce602
+ms.date: 06/08/2017
 ---
 
 

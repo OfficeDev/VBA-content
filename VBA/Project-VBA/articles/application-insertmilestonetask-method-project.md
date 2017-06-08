@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.InsertMilestoneTask
 ms.assetid: a90ebcc2-b779-0c78-124d-f2c0a9ccd2ca
+ms.date: 06/08/2017
 ---
 
 

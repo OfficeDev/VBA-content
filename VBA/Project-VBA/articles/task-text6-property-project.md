@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Text6
 ms.assetid: 5e0eaeea-595c-3514-0d7a-75d4cc3ac433
+ms.date: 06/08/2017
 ---
 
 

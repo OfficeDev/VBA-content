@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Duplicate
 ms.assetid: da7e1e45-480d-313d-1d12-65ee5bf26d86
+ms.date: 06/08/2017
 ---
 
 

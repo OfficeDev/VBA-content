@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.Click
 ms.assetid: 046eccf2-5efa-9302-d356-9cb168133b13
+ms.date: 06/08/2017
 ---
 
 

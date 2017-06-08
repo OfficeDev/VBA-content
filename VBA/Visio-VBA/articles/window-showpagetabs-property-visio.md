@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ShowPageTabs
 ms.assetid: 7ce8bf16-6f99-11fe-8c89-637eec507e2f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenarios.Count
 ms.assetid: ace9cd6e-3839-e37d-cc8a-2ddd1431fd5b
+ms.date: 06/08/2017
 ---
 
 

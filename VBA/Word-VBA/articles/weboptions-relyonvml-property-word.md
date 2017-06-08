@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.RelyOnVML
 ms.assetid: f8d817ee-c5f0-d11a-7156-95bd078e8633
+ms.date: 06/08/2017
 ---
 
 

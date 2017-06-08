@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.ShowValue
 ms.assetid: d8a366b9-78c3-cdfa-27f5-f27082832828
+ms.date: 06/08/2017
 ---
 
 

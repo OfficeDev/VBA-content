@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.Width
 ms.assetid: 03729218-4c70-8312-ab61-be3cf4b7a029
+ms.date: 06/08/2017
 ---
 
 

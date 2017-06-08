@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Subdocuments.AddFromFile
 ms.assetid: 7f9e73a9-bea9-815e-eccc-3406e6d5dd63
+ms.date: 06/08/2017
 ---
 
 

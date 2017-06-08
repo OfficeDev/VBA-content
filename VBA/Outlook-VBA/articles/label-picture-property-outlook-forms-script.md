@@ -2,6 +2,7 @@
 title: Label.Picture Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 31d2f254-abce-fe6a-b6f1-a625606e5893
+ms.date: 06/08/2017
 ---
 
 

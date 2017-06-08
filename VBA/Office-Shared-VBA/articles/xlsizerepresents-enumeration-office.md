@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.XlSizeRepresents
 ms.assetid: b39df42f-2d93-a5e6-4e89-2e300347ad42
+ms.date: 06/08/2017
 ---
 
 

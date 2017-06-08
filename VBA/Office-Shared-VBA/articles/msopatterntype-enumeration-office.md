@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPatternType
 ms.assetid: b95a7e43-329f-b93b-3664-04d8f570c747
+ms.date: 06/08/2017
 ---
 
 

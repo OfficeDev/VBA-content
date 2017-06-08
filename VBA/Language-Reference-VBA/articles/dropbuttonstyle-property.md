@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DropButtonStyle
 ms.assetid: 14d5061f-1267-64b5-5734-65febe6e584c
+ms.date: 06/08/2017
 ---
 
 

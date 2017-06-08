@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WrapFormat.Side
 ms.assetid: b7998643-216a-a294-bbee-e5f1947400a7
+ms.date: 06/08/2017
 ---
 
 

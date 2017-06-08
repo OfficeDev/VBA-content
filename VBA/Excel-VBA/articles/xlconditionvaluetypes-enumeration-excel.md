@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlConditionValueTypes
 ms.assetid: aa9ebfb2-ea85-7e8c-1b99-2117e00b9f4a
+ms.date: 06/08/2017
 ---
 
 

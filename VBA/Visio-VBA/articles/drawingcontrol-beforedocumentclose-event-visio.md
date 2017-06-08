@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.BeforeDocumentClose
 ms.assetid: f2cf89e1-f9cc-cc59-0a89-c7214a5975ef
+ms.date: 06/08/2017
 ---
 
 

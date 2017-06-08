@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 6f6acd79-afc2-7b40-60c9-770b8561b1a9
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcPrintQuality
 ms.assetid: 5a4636c4-7034-34a8-3c75-7cd059b8f10a
+ms.date: 06/08/2017
 ---
 
 

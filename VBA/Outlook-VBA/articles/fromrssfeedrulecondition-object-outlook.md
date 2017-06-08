@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FromRssFeedRuleCondition
 ms.assetid: 8de6e629-7e3d-b4df-d758-a5bff3abd6a1
+ms.date: 06/08/2017
 ---
 
 

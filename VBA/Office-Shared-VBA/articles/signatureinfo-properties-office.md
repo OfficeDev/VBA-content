@@ -2,6 +2,7 @@
 title: SignatureInfo Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: bf2ad961-c382-48fe-ab21-c1deaceec676
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Store.GetRootFolder
 ms.assetid: 09da4d57-c33d-6946-cc21-7233e89efb10
+ms.date: 06/08/2017
 ---
 
 

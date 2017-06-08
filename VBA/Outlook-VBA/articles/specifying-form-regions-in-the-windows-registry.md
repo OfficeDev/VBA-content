@@ -2,6 +2,7 @@
 title: Specifying Form Regions in the Windows Registry
 ms.prod: OUTLOOK
 ms.assetid: 0de3fcb1-b357-8300-c943-9a5a788d4976
+ms.date: 06/08/2017
 ---
 
 

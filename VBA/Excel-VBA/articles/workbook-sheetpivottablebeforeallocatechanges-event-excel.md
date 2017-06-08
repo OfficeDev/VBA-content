@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetPivotTableBeforeAllocateChanges
 ms.assetid: 2f767b5b-27fb-33de-c91d-76bbc52ea171
+ms.date: 06/08/2017
 ---
 
 

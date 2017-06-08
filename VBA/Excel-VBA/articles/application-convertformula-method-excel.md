@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ConvertFormula
 ms.assetid: 6ed0a76c-9db5-f6ab-a91d-d4e1b6674c53
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.Name
 ms.assetid: 960e5821-b4bb-ee70-6d97-18bbfd1abf66
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ShowChanges
 ms.assetid: 8d38e592-366f-445f-9882-7b5864b5fa9e
+ms.date: 06/08/2017
 ---
 
 

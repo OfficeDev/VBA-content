@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ColumnFormat.Align
 ms.assetid: cea9e062-e338-ee1d-f769-dd5f8beef463
+ms.date: 06/08/2017
 ---
 
 

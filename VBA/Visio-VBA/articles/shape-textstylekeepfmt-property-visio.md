@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.TextStyleKeepFmt
 ms.assetid: add41319-8b81-a803-46e2-697df37eb731
+ms.date: 06/08/2017
 ---
 
 

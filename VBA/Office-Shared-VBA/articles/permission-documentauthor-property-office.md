@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Permission.DocumentAuthor
 ms.assetid: d756c476-8adf-a302-9356-e491b0ae9bf7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.MinorTickMark
 ms.assetid: 27b0ab28-4690-e493-9eb9-8651bec5ccb8
+ms.date: 06/08/2017
 ---
 
 

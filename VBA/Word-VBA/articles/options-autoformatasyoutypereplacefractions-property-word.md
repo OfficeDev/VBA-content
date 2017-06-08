@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeReplaceFractions
 ms.assetid: fe741c60-b4dc-45ff-53d5-769b09a6b79b
+ms.date: 06/08/2017
 ---
 
 

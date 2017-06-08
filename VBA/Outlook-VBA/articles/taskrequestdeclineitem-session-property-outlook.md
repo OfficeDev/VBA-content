@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.Session
 ms.assetid: ca771a84-1cc6-b1ef-2dbf-ed05541b96d5
+ms.date: 06/08/2017
 ---
 
 

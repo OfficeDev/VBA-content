@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Search.Stop
 ms.assetid: c087e5aa-a846-56e1-a808-e8718096c3c9
+ms.date: 06/08/2017
 ---
 
 

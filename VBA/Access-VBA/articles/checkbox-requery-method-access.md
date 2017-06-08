@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Requery
 ms.assetid: 0385fddc-7a97-1bf3-50d2-61f0978ea359
+ms.date: 06/08/2017
 ---
 
 

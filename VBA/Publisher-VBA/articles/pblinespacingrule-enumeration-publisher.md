@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbLineSpacingRule
 ms.assetid: 64a5742e-b361-8e9a-31e4-8953b23ded14
+ms.date: 06/08/2017
 ---
 
 

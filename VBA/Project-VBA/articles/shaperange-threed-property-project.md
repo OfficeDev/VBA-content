@@ -2,6 +2,7 @@
 title: ShapeRange.ThreeD Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 45b6c08e-14a6-2045-3faf-6a83202412bb
+ms.date: 06/08/2017
 ---
 
 

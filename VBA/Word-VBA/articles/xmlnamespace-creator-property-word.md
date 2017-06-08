@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNamespace.Creator
 ms.assetid: 5758bbb1-d855-027f-ae27-497ff0d11b0f
+ms.date: 06/08/2017
 ---
 
 

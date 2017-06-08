@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.OLEFormat.DoVerb
 ms.assetid: 1ee39c5d-3646-81de-79e9-f8cff869308d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IconSetCondition.SetLastPriority
 ms.assetid: b1003681-b5ac-85ab-dd9c-8a13685694d6
+ms.date: 06/08/2017
 ---
 
 

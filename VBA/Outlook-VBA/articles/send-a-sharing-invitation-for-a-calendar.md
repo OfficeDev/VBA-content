@@ -2,6 +2,7 @@
 title: Send a Sharing Invitation for a Calendar
 ms.prod: OUTLOOK
 ms.assetid: 830f0c51-251c-f0f4-71b8-6090089022c5
+ms.date: 06/08/2017
 ---
 
 

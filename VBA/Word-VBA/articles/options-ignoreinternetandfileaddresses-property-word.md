@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.IgnoreInternetAndFileAddresses
 ms.assetid: 30894aec-958d-b39c-3ef6-a251837f6bbc
+ms.date: 06/08/2017
 ---
 
 

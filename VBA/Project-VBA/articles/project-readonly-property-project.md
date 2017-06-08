@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ReadOnly
 ms.assetid: 9ec47083-afb5-b51d-96e3-c460b02f2012
+ms.date: 06/08/2017
 ---
 
 

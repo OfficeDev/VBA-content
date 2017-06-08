@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.CheckSynonyms
 ms.assetid: e28026bf-aa5e-8cf4-e765-7350afd57741
+ms.date: 06/08/2017
 ---
 
 

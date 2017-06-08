@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Hyperlink.CreateNewDocument
 ms.assetid: d2de9bbb-a659-3ea3-bdee-244329d88416
+ms.date: 06/08/2017
 ---
 
 

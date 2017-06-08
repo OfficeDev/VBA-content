@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeDistributionList.Session
 ms.assetid: 9488e161-d297-d999-538d-a8b295380701
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.SetHeight
 ms.assetid: 116a309b-5687-5fee-e370-a990b310dfcb
+ms.date: 06/08/2017
 ---
 
 

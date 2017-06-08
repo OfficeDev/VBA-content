@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FillFormat.PresetGradient
 ms.assetid: d97c4ce8-5cef-6f53-d0c8-8bcf9ab8bb80
+ms.date: 06/08/2017
 ---
 
 

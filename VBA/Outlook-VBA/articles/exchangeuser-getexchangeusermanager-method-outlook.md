@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.GetExchangeUserManager
 ms.assetid: ead5e950-7f7a-b213-0daf-c2bff890a30c
+ms.date: 06/08/2017
 ---
 
 

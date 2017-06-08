@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.ReadingOrder
 ms.assetid: b0c40eaf-447a-0051-6ffe-2c7895cdbb58
+ms.date: 06/08/2017
 ---
 
 

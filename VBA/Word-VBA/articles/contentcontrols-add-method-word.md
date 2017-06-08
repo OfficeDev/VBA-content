@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControls.Add
 ms.assetid: a9b612a6-6dcb-a74a-0b87-c112f51e2dcc
+ms.date: 06/08/2017
 ---
 
 

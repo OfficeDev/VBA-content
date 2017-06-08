@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.CopyPicture
 ms.assetid: 90f41c1a-8a96-0959-6c9a-b10f7f4744b0
+ms.date: 06/08/2017
 ---
 
 

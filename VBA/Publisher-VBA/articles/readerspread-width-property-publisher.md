@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ReaderSpread.Width
 ms.assetid: d752a094-8b5e-8a41-f6e7-ce0c3ae1b5aa
+ms.date: 06/08/2017
 ---
 
 

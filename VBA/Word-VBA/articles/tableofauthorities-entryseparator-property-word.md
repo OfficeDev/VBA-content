@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.EntrySeparator
 ms.assetid: d063aabf-d50e-d66b-4450-5c589d79d3be
+ms.date: 06/08/2017
 ---
 
 

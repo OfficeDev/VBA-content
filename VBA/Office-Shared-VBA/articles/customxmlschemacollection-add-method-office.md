@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLSchemaCollection.Add
 ms.assetid: d5df782b-0e8b-e827-4cb4-40ddb9731e9b
+ms.date: 06/08/2017
 ---
 
 

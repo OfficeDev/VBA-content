@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.KeyboardEvent.KeyCode
 ms.assetid: 6b96f3b0-ceeb-b59d-2a93-bdb4f1ba199e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.AsianLineBreak
 ms.assetid: 2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad
+ms.date: 06/08/2017
 ---
 
 

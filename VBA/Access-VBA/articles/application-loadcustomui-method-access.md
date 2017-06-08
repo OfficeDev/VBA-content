@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.LoadCustomUI
 ms.assetid: 59be6be9-d7a0-98f3-b9c0-57ecba5651f6
+ms.date: 06/08/2017
 ---
 
 

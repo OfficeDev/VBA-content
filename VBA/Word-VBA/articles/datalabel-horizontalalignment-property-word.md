@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.HorizontalAlignment
 ms.assetid: 6019a98c-6162-c3cc-a397-aeb51693f4ce
+ms.date: 06/08/2017
 ---
 
 

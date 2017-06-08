@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.GoToNext
 ms.assetid: af6a4e91-7ec1-929a-7577-4e457f5ce1bd
+ms.date: 06/08/2017
 ---
 
 

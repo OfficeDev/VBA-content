@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ScrollViewTo
 ms.assetid: c2930ee2-f56f-2e3e-cc9a-db73e1d99cd1
+ms.date: 06/08/2017
 ---
 
 

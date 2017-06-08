@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.LockAnchor
 ms.assetid: 63137738-47cb-bb2a-eb3a-25c421de298a
+ms.date: 06/08/2017
 ---
 
 

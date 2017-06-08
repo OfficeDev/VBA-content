@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.EarnedValueBaseline
 ms.assetid: 72351358-32e7-1421-df8b-417e395c624e
+ms.date: 06/08/2017
 ---
 
 

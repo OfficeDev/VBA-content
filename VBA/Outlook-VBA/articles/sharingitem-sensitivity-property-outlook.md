@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Sensitivity
 ms.assetid: f6274264-05d3-f802-d1fc-eb6176e531d8
+ms.date: 06/08/2017
 ---
 
 

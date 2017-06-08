@@ -2,6 +2,7 @@
 title: TabStrip.Enabled Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: ab76f52f-5b9c-b8f9-b1b8-f29ff495d5e1
+ms.date: 06/08/2017
 ---
 
 

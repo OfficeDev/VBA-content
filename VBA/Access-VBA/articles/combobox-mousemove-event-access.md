@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.MouseMove
 ms.assetid: 73c929d1-bd21-3f79-4291-b5d04357ad9f
+ms.date: 06/08/2017
 ---
 
 

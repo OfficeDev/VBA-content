@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DriveLetter
 ms.assetid: 29bf179a-8bf7-56de-3cf5-53fd0d2151e0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.Temporary
 ms.assetid: 66c1e5d6-9eb9-7d2e-dece-6b5c02373cb8
+ms.date: 06/08/2017
 ---
 
 

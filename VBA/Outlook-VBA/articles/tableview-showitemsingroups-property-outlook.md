@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.ShowItemsInGroups
 ms.assetid: b5056f03-8f69-778a-4ab2-7ea864057280
+ms.date: 06/08/2017
 ---
 
 

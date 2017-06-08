@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AccessObject.IsWeb
 ms.assetid: 57fa0b00-6f1b-b865-a697-b6d3fdd03f82
+ms.date: 06/08/2017
 ---
 
 

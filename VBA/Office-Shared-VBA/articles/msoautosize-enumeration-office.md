@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoAutoSize
 ms.assetid: f3118964-77e6-96df-e606-dfd191434086
+ms.date: 06/08/2017
 ---
 
 

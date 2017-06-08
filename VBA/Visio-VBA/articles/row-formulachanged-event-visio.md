@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Row.FormulaChanged
 ms.assetid: 4bd22db2-ea85-5862-8d5f-80e71f998e20
+ms.date: 06/08/2017
 ---
 
 

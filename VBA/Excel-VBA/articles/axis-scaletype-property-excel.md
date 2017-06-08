@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.ScaleType
 ms.assetid: 6b217c08-24c4-1ce0-9b7b-96469183002f
+ms.date: 06/08/2017
 ---
 
 

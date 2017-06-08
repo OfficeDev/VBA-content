@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.ResourceNames
 ms.assetid: 0c933d60-42bf-ece6-fa37-da5181a56944
+ms.date: 06/08/2017
 ---
 
 

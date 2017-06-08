@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PropertyEffect.Points
 ms.assetid: 6b9ff569-cbe8-0be0-fcba-2bdd969283fc
+ms.date: 06/08/2017
 ---
 
 

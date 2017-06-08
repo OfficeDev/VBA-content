@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.VerticalAnchor
 ms.assetid: cf18073b-b492-703c-7326-58b6bc60e88f
+ms.date: 06/08/2017
 ---
 
 

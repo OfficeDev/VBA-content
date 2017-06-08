@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.Protection
 ms.assetid: 59f9e9d3-251c-93a6-fa49-75fa7c4f6659
+ms.date: 06/08/2017
 ---
 
 

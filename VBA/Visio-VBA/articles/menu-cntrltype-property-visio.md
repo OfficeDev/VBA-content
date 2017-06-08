@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Menu.CntrlType
 ms.assetid: 993b58b9-1bc3-d99c-606c-2c39658819bd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShadowFormat.IncrementOffsetY
 ms.assetid: fca7a688-adf8-d8cd-8e14-9d1988c8d9f2
+ms.date: 06/08/2017
 ---
 
 

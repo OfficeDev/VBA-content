@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.BackStyle
 ms.assetid: 1f46ccfd-78cc-0eae-3485-b91306dc6bde
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CorrectCapsLock
 ms.assetid: eb092056-2ae5-7982-28bb-1a367a812a9b
+ms.date: 06/08/2017
 ---
 
 

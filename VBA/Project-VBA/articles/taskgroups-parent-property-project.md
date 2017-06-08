@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TaskGroups.Parent
 ms.assetid: 7517efda-4cea-1280-02d2-cc4026a33855
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabel.Width
 ms.assetid: 88b6a854-cce5-c500-3395-55dea721fd0d
+ms.date: 06/08/2017
 ---
 
 

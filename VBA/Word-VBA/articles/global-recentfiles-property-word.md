@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.RecentFiles
 ms.assetid: e1004877-5fe4-8945-6b7d-8f5279201362
+ms.date: 06/08/2017
 ---
 
 

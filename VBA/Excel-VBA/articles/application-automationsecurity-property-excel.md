@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.AutomationSecurity
 ms.assetid: ae19bf93-dc0f-f18a-d8ce-f54108602844
+ms.date: 06/08/2017
 ---
 
 

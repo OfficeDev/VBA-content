@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.PageRangeSeparator
 ms.assetid: f2b2c68f-15b2-5eb1-1af2-981920f18cc7
+ms.date: 06/08/2017
 ---
 
 

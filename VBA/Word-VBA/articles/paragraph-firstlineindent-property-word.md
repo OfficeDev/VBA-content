@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.FirstLineIndent
 ms.assetid: 44f326b6-3352-da1a-5ff0-952627ed7b90
+ms.date: 06/08/2017
 ---
 
 

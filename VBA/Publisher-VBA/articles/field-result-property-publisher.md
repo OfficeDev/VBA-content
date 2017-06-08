@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Field.Result
 ms.assetid: 213e123e-90a7-32b8-1dcf-37da61a8a7e7
+ms.date: 06/08/2017
 ---
 
 

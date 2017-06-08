@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.Visible
 ms.assetid: ac1558c1-68c4-fdf1-4f59-77343b7b5e59
+ms.date: 06/08/2017
 ---
 
 

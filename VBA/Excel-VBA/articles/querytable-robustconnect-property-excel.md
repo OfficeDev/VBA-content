@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.RobustConnect
 ms.assetid: ad180446-82d7-7b5b-59a2-b0de299ae934
+ms.date: 06/08/2017
 ---
 
 

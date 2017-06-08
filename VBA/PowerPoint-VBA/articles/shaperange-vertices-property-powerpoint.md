@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Vertices
 ms.assetid: 3ded99dc-f64d-cfdd-f982-2e892ba4a446
+ms.date: 06/08/2017
 ---
 
 

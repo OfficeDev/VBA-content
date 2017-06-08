@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowHiddenText
 ms.assetid: e4f58049-1fb9-5c70-0786-5f4c8c54f3ba
+ms.date: 06/08/2017
 ---
 
 

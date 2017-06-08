@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ConversationHeader.GetConversation
 ms.assetid: c6a98d31-9973-1e75-3aa6-edb37d82d7d1
+ms.date: 06/08/2017
 ---
 
 

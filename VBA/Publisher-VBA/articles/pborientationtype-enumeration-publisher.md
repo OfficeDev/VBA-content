@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbOrientationType
 ms.assetid: 948f1bc2-0fba-5811-aebe-d0dde51b0023
+ms.date: 06/08/2017
 ---
 
 

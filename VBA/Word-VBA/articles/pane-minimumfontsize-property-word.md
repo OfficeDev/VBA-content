@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.MinimumFontSize
 ms.assetid: 45aa3c50-ac50-c3b0-f7eb-099b4559ff43
+ms.date: 06/08/2017
 ---
 
 

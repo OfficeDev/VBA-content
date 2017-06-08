@@ -2,6 +2,7 @@
 title: Invalid SQL syntax - expected a procedure name. (Error 3781)
 ms.prod: ACCESS
 ms.assetid: fb2fc7ea-5381-1cb9-5b5b-8279d0d1d807
+ms.date: 06/08/2017
 ---
 
 

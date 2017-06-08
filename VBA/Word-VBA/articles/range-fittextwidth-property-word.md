@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.FitTextWidth
 ms.assetid: 6322c657-21db-bc45-e2d6-cb559edfc047
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.PictureSizeMode
 ms.assetid: 07d268ad-d4ba-c9ba-1ef4-7b3e7911ebba
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeMatchParentheses
 ms.assetid: f5f816db-8123-df7c-54cc-3e8ec6550207
+ms.date: 06/08/2017
 ---
 
 

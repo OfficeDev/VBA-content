@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame.MarginBottom
 ms.assetid: c1798b95-cb98-9dfd-5958-39fdea177b6e
+ms.date: 06/08/2017
 ---
 
 

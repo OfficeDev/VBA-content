@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.MathCoprocessorAvailable
 ms.assetid: 207b7f3f-4113-7069-51e3-10658ec3654f
+ms.date: 06/08/2017
 ---
 
 

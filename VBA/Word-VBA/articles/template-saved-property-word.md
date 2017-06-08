@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Template.Saved
 ms.assetid: 334069e0-f419-ddf7-0327-6c875bf3b7cd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeDataSource.InvalidAddress
 ms.assetid: ac84a87e-2125-851d-90ab-42359898edcc
+ms.date: 06/08/2017
 ---
 
 

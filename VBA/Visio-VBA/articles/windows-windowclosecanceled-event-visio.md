@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Windows.WindowCloseCanceled
 ms.assetid: 3eb06853-1e76-305e-db03-e90c90185eb8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEDBConnection.RobustConnect
 ms.assetid: 47ca146c-54ba-b2d5-6d16-15571daf08f3
+ms.date: 06/08/2017
 ---
 
 

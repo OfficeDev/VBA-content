@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMath.ParentArg
 ms.assetid: 47f100e7-5615-5ec6-31e4-5a7efef932b6
+ms.date: 06/08/2017
 ---
 
 

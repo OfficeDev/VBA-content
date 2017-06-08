@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.OnKeyUp
 ms.assetid: ac069657-a9de-79f2-2e7c-92e151228f2a
+ms.date: 06/08/2017
 ---
 
 

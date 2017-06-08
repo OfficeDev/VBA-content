@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.PaintPalette
 ms.assetid: d4c05c71-52da-6185-89d6-a69c7a883e0a
+ms.date: 06/08/2017
 ---
 
 

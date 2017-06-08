@@ -2,6 +2,7 @@
 title: Ruler2 Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: f9cc2d59-b8be-a23b-1b74-6a9552358cf5
+ms.date: 06/08/2017
 ---
 
 

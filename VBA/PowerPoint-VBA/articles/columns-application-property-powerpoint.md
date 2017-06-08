@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Columns.Application
 ms.assetid: 94f1daa0-5f9c-3b4f-e947-ab6546e9447d
+ms.date: 06/08/2017
 ---
 
 

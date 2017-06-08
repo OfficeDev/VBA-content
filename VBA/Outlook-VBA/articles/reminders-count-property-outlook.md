@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.Count
 ms.assetid: 84d23c0f-cdef-d522-c69c-6387dc79d02b
+ms.date: 06/08/2017
 ---
 
 

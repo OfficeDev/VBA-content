@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ServerPublishOptions.SetPagesToPublish
 ms.assetid: 9d874876-e053-d6fb-04c2-8e162a0457ec
+ms.date: 06/08/2017
 ---
 
 

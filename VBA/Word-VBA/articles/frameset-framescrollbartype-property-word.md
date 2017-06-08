@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.FrameScrollbarType
 ms.assetid: dacd6394-872e-beac-85dc-575234f9ce29
+ms.date: 06/08/2017
 ---
 
 

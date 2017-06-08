@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BaseCalendarEditDays
 ms.assetid: 3a65015e-c174-985a-5235-099db363c003
+ms.date: 06/08/2017
 ---
 
 

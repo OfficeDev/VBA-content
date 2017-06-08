@@ -2,6 +2,7 @@
 title: Align Text in a Control
 ms.prod: OUTLOOK
 ms.assetid: febee6d6-8e33-4a36-ced5-e4ba65930848
+ms.date: 06/08/2017
 ---
 
 

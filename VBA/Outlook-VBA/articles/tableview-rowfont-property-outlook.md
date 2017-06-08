@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.RowFont
 ms.assetid: 691be8dc-8811-64d0-7473-93a0fe8b4749
+ms.date: 06/08/2017
 ---
 
 

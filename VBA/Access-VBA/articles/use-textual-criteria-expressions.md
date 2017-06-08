@@ -2,6 +2,7 @@
 title: Use Textual Criteria Expressions
 ms.prod: ACCESS
 ms.assetid: 72ee596d-b08c-6af4-041a-6771ac8ce524
+ms.date: 06/08/2017
 ---
 
 

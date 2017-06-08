@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.IsHyperlink
 ms.assetid: 68d2ca6a-7ea2-a44d-db32-1fa040475267
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Use Multiple Fields in Criteria Expressions
 ms.prod: ACCESS
 ms.assetid: b0bd588b-b25a-f433-3642-7b06936377e2
+ms.date: 06/08/2017
 ---
 
 

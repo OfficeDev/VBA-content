@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IconSetCondition.Type
 ms.assetid: d29e1e46-4ae7-15ed-c998-ec241072e540
+ms.date: 06/08/2017
 ---
 
 

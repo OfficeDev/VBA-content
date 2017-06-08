@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.StreetAddress
 ms.assetid: 155399c8-7d99-6537-ba30-84145b26ef21
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Chart.PivotLayout Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: d1c3cc4c-1c2c-4414-ffef-44b7667b95dc
+ms.date: 06/08/2017
 ---
 
 

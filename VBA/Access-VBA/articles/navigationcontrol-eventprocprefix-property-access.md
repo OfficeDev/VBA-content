@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.EventProcPrefix
 ms.assetid: d59c7baf-7614-821b-92ce-582d6f90441c
+ms.date: 06/08/2017
 ---
 
 

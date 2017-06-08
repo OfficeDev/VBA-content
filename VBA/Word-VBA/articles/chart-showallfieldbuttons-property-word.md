@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ShowAllFieldButtons
 ms.assetid: 95ad77fa-fef3-3927-0f0f-9e6fd7701316
+ms.date: 06/08/2017
 ---
 
 

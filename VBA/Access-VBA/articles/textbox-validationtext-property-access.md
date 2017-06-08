@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.ValidationText
 ms.assetid: 5d3ab2a3-9166-714f-a0c2-d56d42b19ebc
+ms.date: 06/08/2017
 ---
 
 

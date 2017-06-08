@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.VisioIsIdle
 ms.assetid: 7757a920-6d48-e2ed-db07-dc80be7af566
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.MouseMove
 ms.assetid: 1a135ded-e0b2-1926-4d3e-701649a15371
+ms.date: 06/08/2017
 ---
 
 

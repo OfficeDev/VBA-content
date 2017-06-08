@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartFormat.TextFrame2
 ms.assetid: 239a5c1e-5200-1271-6144-318ab7e28b08
+ms.date: 06/08/2017
 ---
 
 

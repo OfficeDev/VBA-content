@@ -1,6 +1,7 @@
 ---
 title: ExplorerEvents_10.DisplayModeChange Method (Outlook)
 ms.assetid: 8805ec85-d6b2-dec4-2179-9de0b08a2a7b
+ms.date: 06/08/2017
 ---
 
 

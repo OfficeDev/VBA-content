@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Exit
 ms.assetid: ea36905e-bd5a-2d6c-6ea6-0ad33d965741
+ms.date: 06/08/2017
 ---
 
 

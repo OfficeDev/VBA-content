@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlDataBinding.ClearSettings
 ms.assetid: 3dbfa0df-4629-5b4b-2938-dafe79f9dedc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Name.RefersToR1C1Local
 ms.assetid: 314b8764-5f5c-9a2f-87a7-54637de59bbd
+ms.date: 06/08/2017
 ---
 
 

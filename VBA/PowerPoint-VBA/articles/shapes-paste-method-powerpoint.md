@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.Paste
 ms.assetid: 8aa534f8-bd59-3945-cc1f-45ffc3883bf7
+ms.date: 06/08/2017
 ---
 
 

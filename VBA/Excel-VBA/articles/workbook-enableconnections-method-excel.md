@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.EnableConnections
 ms.assetid: 521ebb4c-56c6-3e21-39af-4a46934790e1
+ms.date: 06/08/2017
 ---
 
 

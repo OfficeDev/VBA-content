@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HorizontalLineFormat
 ms.assetid: 55296fc7-9b7e-dcdb-00e0-901015cf0efb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.Size
 ms.assetid: a2a91b9c-7fa6-7305-f065-a90a68f24a4e
+ms.date: 06/08/2017
 ---
 
 

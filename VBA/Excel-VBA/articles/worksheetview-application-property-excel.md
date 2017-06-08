@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetView.Application
 ms.assetid: 6cfdce2e-9a70-c91b-5528-134963efbd36
+ms.date: 06/08/2017
 ---
 
 

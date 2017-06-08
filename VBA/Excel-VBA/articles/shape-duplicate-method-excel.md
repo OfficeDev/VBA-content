@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.Duplicate
 ms.assetid: d4e32396-5d9e-2e10-3111-e0ceda52643e
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WorkflowTemplate.Application
 ms.assetid: 5c614394-2363-0b9f-2097-4dd1ca7750cd
+ms.date: 06/08/2017
 ---
 
 

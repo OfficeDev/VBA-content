@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Column.PreferredWidth
 ms.assetid: b275a938-c0a0-3f92-f67e-6b3bead43466
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ListCount
 ms.assetid: 09383f86-888e-1708-9e05-504c49eeb5a6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ParentWindow
 ms.assetid: 923c5f95-8cae-3901-ac03-d8e7668a5b7d
+ms.date: 06/08/2017
 ---
 
 

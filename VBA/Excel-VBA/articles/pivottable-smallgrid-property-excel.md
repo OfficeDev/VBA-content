@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.SmallGrid
 ms.assetid: ade36fce-e511-f95c-db92-e64271646687
+ms.date: 06/08/2017
 ---
 
 

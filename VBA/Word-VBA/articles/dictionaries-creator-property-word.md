@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionaries.Creator
 ms.assetid: 02d51be5-8640-f441-d52c-3f2ff73e6495
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.IgnoreResourceCalendar
 ms.assetid: fd182f46-b30b-0ecc-bc1e-05427d35da45
+ms.date: 06/08/2017
 ---
 
 

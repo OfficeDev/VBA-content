@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendEntry.Font
 ms.assetid: d5b41423-ed1b-ec94-9088-b0af4202eacc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DataGraphicVerticalPosition
 ms.assetid: 779f360e-7529-7fe6-87e7-f41cc9334c83
+ms.date: 06/08/2017
 ---
 
 

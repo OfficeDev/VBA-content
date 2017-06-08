@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatColor.Parent
 ms.assetid: fae66f99-e47c-fda8-a542-8a6e3ec584f4
+ms.date: 06/08/2017
 ---
 
 

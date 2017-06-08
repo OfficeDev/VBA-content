@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.SelectionChange
 ms.assetid: 4c815a6d-4971-6cbd-16ad-905e93ec1b52
+ms.date: 06/08/2017
 ---
 
 

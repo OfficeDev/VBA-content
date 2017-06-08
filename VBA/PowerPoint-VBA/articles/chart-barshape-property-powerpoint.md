@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.BarShape
 ms.assetid: fae46b36-9d4c-3646-db91-95691d8ce2af
+ms.date: 06/08/2017
 ---
 
 

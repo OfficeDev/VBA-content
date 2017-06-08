@@ -2,6 +2,7 @@
 title: SharedWorkspaceFiles Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 925ad699-b111-49e1-8aca-2917dfeaea5a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Colors.Count
 ms.assetid: ade1336b-fc3f-ef2d-0365-914a480260ad
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Shape.ScaleHeight Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 9dd7a3ee-9149-4aa2-c4ad-5fc0ca45ee21
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.ItemFont
 ms.assetid: 7f01e8b1-cd9e-eb19-e481-35b98029320c
+ms.date: 06/08/2017
 ---
 
 

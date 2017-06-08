@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Sort.Creator
 ms.assetid: 578f0917-6778-e3df-7935-2c1121536f60
+ms.date: 06/08/2017
 ---
 
 

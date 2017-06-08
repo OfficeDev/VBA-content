@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.UnReadItemCount
 ms.assetid: f669af8e-8d4a-613b-1d82-6a3be8dc67cd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.UndoClear
 ms.assetid: 63e9bb00-950f-3e30-3897-434362b9efbf
+ms.date: 06/08/2017
 ---
 
 

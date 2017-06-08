@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.TriggerType
 ms.assetid: a868c747-6088-df48-3c93-50f4ab24ae85
+ms.date: 06/08/2017
 ---
 
 

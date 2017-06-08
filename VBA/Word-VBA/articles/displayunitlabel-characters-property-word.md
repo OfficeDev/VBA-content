@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DisplayUnitLabel.Characters
 ms.assetid: 9557eeff-306c-8f12-98c0-9a6e633b9511
+ms.date: 06/08/2017
 ---
 
 

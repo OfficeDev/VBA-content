@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.autoSaveOn
 ms.assetid: workbook-autosaveon-property-excel
+ms.date: 06/08/2017
 ---
 
 

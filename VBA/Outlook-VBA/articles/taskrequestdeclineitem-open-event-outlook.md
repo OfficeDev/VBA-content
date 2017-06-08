@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.Open
 ms.assetid: f4f30ece-b3a3-66a6-10b2-b4022a9f5526
+ms.date: 06/08/2017
 ---
 
 

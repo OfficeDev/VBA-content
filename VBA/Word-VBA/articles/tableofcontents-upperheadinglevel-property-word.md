@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfContents.UpperHeadingLevel
 ms.assetid: 3b360b6b-a422-4af5-9121-200105b0ad19
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.LabelAlign
 ms.assetid: fa8b44e8-9e42-8088-e369-a176bb320a05
+ms.date: 06/08/2017
 ---
 
 

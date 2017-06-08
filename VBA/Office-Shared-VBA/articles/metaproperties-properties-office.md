@@ -2,6 +2,7 @@
 title: MetaProperties Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 4912a5aa-7322-4ccd-bcf6-fa6b8720411a
+ms.date: 06/08/2017
 ---
 
 

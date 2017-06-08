@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.XMLBeforeDelete
 ms.assetid: 1cef9cdb-a80a-8d38-9646-e3353f6c6923
+ms.date: 06/08/2017
 ---
 
 

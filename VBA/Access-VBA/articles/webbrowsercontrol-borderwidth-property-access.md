@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.BorderWidth
 ms.assetid: f2db066e-bd06-0d88-ecd1-5a7ac8a040d6
+ms.date: 06/08/2017
 ---
 
 

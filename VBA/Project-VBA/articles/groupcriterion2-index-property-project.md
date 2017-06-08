@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion2.Index
 ms.assetid: 61f13c7e-4833-45d1-362a-91ea99b63505
+ms.date: 06/08/2017
 ---
 
 

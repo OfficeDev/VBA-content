@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.PageAdded
 ms.assetid: 03979403-706a-f403-2897-516c53bbcbe9
+ms.date: 06/08/2017
 ---
 
 

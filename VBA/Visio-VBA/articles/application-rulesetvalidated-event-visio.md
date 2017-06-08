@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.RuleSetValidated
 ms.assetid: d074d4d9-9840-0054-8502-e8537952d7d0
+ms.date: 06/08/2017
 ---
 
 

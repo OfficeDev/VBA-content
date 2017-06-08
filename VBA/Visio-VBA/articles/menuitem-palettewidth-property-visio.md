@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuItem.PaletteWidth
 ms.assetid: 4d815d6d-c5bc-ee4b-23f5-da8f02158bd6
+ms.date: 06/08/2017
 ---
 
 

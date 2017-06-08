@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GradientStops.Creator
 ms.assetid: 3dc34737-a6f9-7e8a-ba69-e200f53bedc5
+ms.date: 06/08/2017
 ---
 
 

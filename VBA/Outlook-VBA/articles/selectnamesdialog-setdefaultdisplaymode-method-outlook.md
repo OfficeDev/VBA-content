@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.SetDefaultDisplayMode
 ms.assetid: d6df1ad3-22b1-bda1-532a-a3bd34aa4ad1
+ms.date: 06/08/2017
 ---
 
 

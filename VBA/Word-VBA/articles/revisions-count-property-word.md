@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Revisions.Count
 ms.assetid: ebf5091e-10f1-26b4-0d26-4d73d2d350fb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisLangFlags
 ms.assetid: 9654b6db-072a-6bcb-929d-05d18cb96009
+ms.date: 06/08/2017
 ---
 
 

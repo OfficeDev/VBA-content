@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Rotation
 ms.assetid: c1f28cd0-265c-7d52-e81d-6f242d29779e
+ms.date: 06/08/2017
 ---
 
 

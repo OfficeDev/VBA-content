@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.UseDefaultFolderSuffix
 ms.assetid: f31703d4-0020-ec34-bc70-a737e978c666
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shapes.AddCallout
 ms.assetid: b98ea95d-210b-34cc-c999-e7ce0a3e3a72
+ms.date: 06/08/2017
 ---
 
 

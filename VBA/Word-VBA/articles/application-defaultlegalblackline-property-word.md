@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DefaultLegalBlackline
 ms.assetid: a22afc29-1f7d-73af-75c2-7ce2fbe2250f
+ms.date: 06/08/2017
 ---
 
 

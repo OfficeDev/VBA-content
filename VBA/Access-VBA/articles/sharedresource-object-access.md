@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SharedResource
 ms.assetid: a97163fa-f833-ed1c-aea5-1a7bab783eba
+ms.date: 06/08/2017
 ---
 
 

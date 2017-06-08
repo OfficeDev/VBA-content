@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationPane.IsCollapsed
 ms.assetid: 0297c5d3-4c5f-32a4-49eb-85fe0408db60
+ms.date: 06/08/2017
 ---
 
 

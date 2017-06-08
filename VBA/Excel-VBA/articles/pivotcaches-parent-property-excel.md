@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCaches.Parent
 ms.assetid: 10c84d33-c9db-db4f-086e-e37e5cfb8479
+ms.date: 06/08/2017
 ---
 
 

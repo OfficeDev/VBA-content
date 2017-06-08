@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbFixedFormatType
 ms.assetid: 300a49ee-0a66-7638-71b7-4e8b545c6909
+ms.date: 06/08/2017
 ---
 
 

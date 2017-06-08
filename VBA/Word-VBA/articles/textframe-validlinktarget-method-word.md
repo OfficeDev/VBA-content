@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.ValidLinkTarget
 ms.assetid: 09e900c9-30d8-0098-6ad1-d8c4fbaeb3cf
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnotes.Convert
 ms.assetid: f351e0f2-ec4c-a9db-a119-1ebe3bb67319
+ms.date: 06/08/2017
 ---
 
 

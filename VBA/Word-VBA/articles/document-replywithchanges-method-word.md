@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ReplyWithChanges
 ms.assetid: ad476bde-0240-ab4b-b246-d5b143207fa5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DefaultDurationUnits
 ms.assetid: 11810de2-0c2f-a498-6b7a-090d5397066b
+ms.date: 06/08/2017
 ---
 
 

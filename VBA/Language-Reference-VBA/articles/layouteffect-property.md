@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.LayoutEffect
 ms.assetid: 74e19b13-605c-caa8-4a12-e877d638d316
+ms.date: 06/08/2017
 ---
 
 

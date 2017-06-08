@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.FontName
 ms.assetid: fe1f6714-ed34-0c7f-c156-b91b601149de
+ms.date: 06/08/2017
 ---
 
 

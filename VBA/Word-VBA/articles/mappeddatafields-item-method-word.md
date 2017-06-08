@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MappedDataFields.Item
 ms.assetid: 65af7865-37bb-c3bc-5381-9cc7a56e3901
+ms.date: 06/08/2017
 ---
 
 

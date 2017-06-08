@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Small
 ms.assetid: d73da9a7-c518-1071-205a-042329d14918
+ms.date: 06/08/2017
 ---
 
 

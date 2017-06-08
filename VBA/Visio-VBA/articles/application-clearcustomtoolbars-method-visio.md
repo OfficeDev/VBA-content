@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.ClearCustomToolbars
 ms.assetid: fa9ad39a-2765-b172-a7ad-140f9bb845b9
+ms.date: 06/08/2017
 ---
 
 

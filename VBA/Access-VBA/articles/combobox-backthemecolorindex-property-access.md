@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BackThemeColorIndex
 ms.assetid: fd8dc917-9cb7-94ca-5bcf-0d8e1f741fbb
+ms.date: 06/08/2017
 ---
 
 

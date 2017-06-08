@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline5FinishText
 ms.assetid: 20ccdcac-c6b7-6728-3383-2c5bac33f60f
+ms.date: 06/08/2017
 ---
 
 

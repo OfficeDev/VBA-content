@@ -2,6 +2,7 @@
 title: PickerField Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ef2761aa-5f7e-4f3e-ba07-c77f6169caff
+ms.date: 06/08/2017
 ---
 
 

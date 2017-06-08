@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Conflicts
 ms.assetid: 1c32306c-1852-8eab-a924-1b0f7e59dd58
+ms.date: 06/08/2017
 ---
 
 

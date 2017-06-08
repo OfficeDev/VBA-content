@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.Display
 ms.assetid: a689dfca-e4f7-f1c0-03a1-71e7d7e310b7
+ms.date: 06/08/2017
 ---
 
 

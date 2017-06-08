@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.CustomToolbarsFile
 ms.assetid: e4759ee0-1128-8238-ad0b-47ad365ce88d
+ms.date: 06/08/2017
 ---
 
 

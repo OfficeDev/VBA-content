@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ThreeDFormat.SetThreeDFormat
 ms.assetid: d73dbada-1a33-4b5b-9733-e228a0cc5f8c
+ms.date: 06/08/2017
 ---
 
 

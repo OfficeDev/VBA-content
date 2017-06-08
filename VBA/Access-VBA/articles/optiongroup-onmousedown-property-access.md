@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.OnMouseDown
 ms.assetid: 313ac392-639a-b9c6-b0f3-64f7d34fe839
+ms.date: 06/08/2017
 ---
 
 

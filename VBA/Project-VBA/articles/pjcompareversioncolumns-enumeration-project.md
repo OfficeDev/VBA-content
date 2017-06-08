@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjCompareVersionColumns
 ms.assetid: ae18b349-d77d-b292-306b-357b99acaefe
+ms.date: 06/08/2017
 ---
 
 

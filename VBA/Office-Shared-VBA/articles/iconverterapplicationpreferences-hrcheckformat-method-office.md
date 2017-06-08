@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IConverterApplicationPreferences.HrCheckFormat
 ms.assetid: 79f1b1d8-385a-3c69-c9c1-360610407f9b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.BillingInformation
 ms.assetid: d1729a7a-5156-bbb5-8a84-347be897af2f
+ms.date: 06/08/2017
 ---
 
 

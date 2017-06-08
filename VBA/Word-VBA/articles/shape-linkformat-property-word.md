@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.LinkFormat
 ms.assetid: 68645111-3036-da95-eab7-3d78a6896e51
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Toolbar.Protection
 ms.assetid: 2f2120db-78de-d37c-4764-c3fabe17a6f5
+ms.date: 06/08/2017
 ---
 
 

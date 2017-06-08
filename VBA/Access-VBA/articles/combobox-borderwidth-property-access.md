@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BorderWidth
 ms.assetid: f8eddb71-d8ad-cca1-10ed-e6d3fb10e41a
+ms.date: 06/08/2017
 ---
 
 

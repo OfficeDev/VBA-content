@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.MergeID
 ms.assetid: 473baaa6-ea88-46f3-3d5f-501f280792a3
+ms.date: 06/08/2017
 ---
 
 

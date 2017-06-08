@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GradientStyle
 ms.assetid: 042a271c-165c-ba10-9702-7db744654760
+ms.date: 06/08/2017
 ---
 
 

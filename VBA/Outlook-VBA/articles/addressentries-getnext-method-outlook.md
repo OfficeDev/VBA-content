@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressEntries.GetNext
 ms.assetid: 7579909c-90a2-660f-6cf5-039a441ccc93
+ms.date: 06/08/2017
 ---
 
 

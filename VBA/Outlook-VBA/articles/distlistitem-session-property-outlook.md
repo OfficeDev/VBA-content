@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.Session
 ms.assetid: c36e7ef0-baf0-daa3-2e9a-c8d9d78bb6d5
+ms.date: 06/08/2017
 ---
 
 

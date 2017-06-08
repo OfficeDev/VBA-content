@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ScreenUpdating
 ms.assetid: 660284d1-2b00-eba0-28bc-36bc6400fcf4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.ConnectionsAdded
 ms.assetid: db864aa5-527d-9007-364f-f90c944ddda6
+ms.date: 06/08/2017
 ---
 
 

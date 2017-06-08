@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Line
 ms.assetid: edb5f40e-8b1e-fd3f-33da-0d4f1d465525
+ms.date: 06/08/2017
 ---
 
 

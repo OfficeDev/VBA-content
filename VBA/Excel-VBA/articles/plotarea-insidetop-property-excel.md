@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PlotArea.InsideTop
 ms.assetid: 33d609cd-8764-ef95-2864-10aee1e161b1
+ms.date: 06/08/2017
 ---
 
 

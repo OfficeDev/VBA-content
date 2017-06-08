@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DataFeaturesEnabled
 ms.assetid: e8603042-2b3d-be0d-6790-911c92ec37b6
+ms.date: 06/08/2017
 ---
 
 

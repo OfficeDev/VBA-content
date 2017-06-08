@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Rectangles.Count
 ms.assetid: 8f8df110-2656-af0c-850a-2f21ac57030c
+ms.date: 06/08/2017
 ---
 
 

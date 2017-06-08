@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.CalloutRelationshipAdded
 ms.assetid: b5181cd5-e763-a25c-abdc-3b32d2c902a0
+ms.date: 06/08/2017
 ---
 
 

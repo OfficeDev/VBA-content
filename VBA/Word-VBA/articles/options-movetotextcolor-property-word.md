@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MoveToTextColor
 ms.assetid: 070766e7-5210-6274-d62e-352e789666fc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.CalloutRelationshipDeleted
 ms.assetid: 1e104024-6f9c-6996-80fc-e97ed80f5e67
+ms.date: 06/08/2017
 ---
 
 

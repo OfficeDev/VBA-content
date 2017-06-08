@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MotionEffect.ToX
 ms.assetid: fd597d99-0d33-f9e2-a179-b3d5efd54236
+ms.date: 06/08/2017
 ---
 
 

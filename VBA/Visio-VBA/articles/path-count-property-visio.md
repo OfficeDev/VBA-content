@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Path.Count
 ms.assetid: 15c9f099-8ad9-b38f-0cc3-64dc62769b29
+ms.date: 06/08/2017
 ---
 
 

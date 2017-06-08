@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Charts.Count
 ms.assetid: e759c195-52b0-03d8-06c5-aff76a773d49
+ms.date: 06/08/2017
 ---
 
 

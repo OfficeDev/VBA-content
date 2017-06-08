@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.BeforeUpdate
 ms.assetid: f9c6620e-22ce-c4cb-8dc1-7a99bc8d508b
+ms.date: 06/08/2017
 ---
 
 

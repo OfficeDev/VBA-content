@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OutlookBarGroups.BeforeGroupRemove
 ms.assetid: b3ad5d29-c906-ebe7-02b7-145091ddccce
+ms.date: 06/08/2017
 ---
 
 

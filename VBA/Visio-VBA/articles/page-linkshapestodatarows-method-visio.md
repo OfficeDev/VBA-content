@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.LinkShapesToDataRows
 ms.assetid: 306c8edf-04ea-1e54-b3cf-63ea0352c242
+ms.date: 06/08/2017
 ---
 
 

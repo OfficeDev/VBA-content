@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.SpecialEffect
 ms.assetid: 40117a03-0640-5b5c-363d-19f1f5b9f2d0
+ms.date: 06/08/2017
 ---
 
 

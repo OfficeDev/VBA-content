@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttShowBarSplits
 ms.assetid: 6f3cf637-4718-8fb9-aed9-cd45ef785ca8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.PageChanged
 ms.assetid: e42dd83e-9d2b-93f7-fe18-e3651fcfa608
+ms.date: 06/08/2017
 ---
 
 

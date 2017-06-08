@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cell.Tables
 ms.assetid: 2e18a6ae-590b-0f4f-41b5-cd34e15c9375
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.SetShapesDefaultProperties
 ms.assetid: 0ddbcaed-827c-5391-db0e-fc1cd94d7b33
+ms.date: 06/08/2017
 ---
 
 

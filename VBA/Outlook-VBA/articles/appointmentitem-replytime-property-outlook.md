@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ReplyTime
 ms.assetid: cf455d15-a360-818a-b6a7-59f4d1e89f4c
+ms.date: 06/08/2017
 ---
 
 

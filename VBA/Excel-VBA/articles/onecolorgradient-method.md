@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OneColorGradient
 ms.assetid: 7e572d28-2905-2c6b-5e62-1f763bba7f89
+ms.date: 06/08/2017
 ---
 
 

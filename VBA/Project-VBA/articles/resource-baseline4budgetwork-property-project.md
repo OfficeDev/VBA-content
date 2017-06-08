@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Baseline4BudgetWork
 ms.assetid: 524a9467-c31b-2aa1-a305-d851bedcdc91
+ms.date: 06/08/2017
 ---
 
 

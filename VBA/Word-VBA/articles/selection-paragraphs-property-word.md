@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Paragraphs
 ms.assetid: f237788a-01e4-62ce-d698-3af619c90272
+ms.date: 06/08/2017
 ---
 
 

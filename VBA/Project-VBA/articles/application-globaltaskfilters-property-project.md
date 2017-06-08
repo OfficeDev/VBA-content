@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GlobalTaskFilters
 ms.assetid: 1f85f0c7-9cb8-e531-c690-6ea795ebaa94
+ms.date: 06/08/2017
 ---
 
 

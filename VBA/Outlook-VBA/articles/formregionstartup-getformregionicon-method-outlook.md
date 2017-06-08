@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormRegionStartup.GetFormRegionIcon
 ms.assetid: c1c0bd3f-3fae-8e9b-d579-58d609bbaa4e
+ms.date: 06/08/2017
 ---
 
 

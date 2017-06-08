@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.KashidaPercentage
 ms.assetid: d62aa512-cce6-2e78-657f-51ff1b2cbcf8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Cut
 ms.assetid: b9f525c4-c314-450c-f88b-e6c5cdc00112
+ms.date: 06/08/2017
 ---
 
 

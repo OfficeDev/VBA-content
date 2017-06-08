@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SetText
 ms.assetid: e7a246fb-eb50-7c35-1b9f-3e927589aa37
+ms.date: 06/08/2017
 ---
 
 

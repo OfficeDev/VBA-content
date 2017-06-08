@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjWeekday
 ms.assetid: 02572463-5e6d-e62e-6776-2e24359980aa
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Availability.Index
 ms.assetid: 54dd8601-68c8-0133-5622-12e26c70972d
+ms.date: 06/08/2017
 ---
 
 

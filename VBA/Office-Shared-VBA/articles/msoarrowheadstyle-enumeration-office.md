@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoArrowheadStyle
 ms.assetid: e598631e-dad9-649b-767b-99e7e7ea83da
+ms.date: 06/08/2017
 ---
 
 

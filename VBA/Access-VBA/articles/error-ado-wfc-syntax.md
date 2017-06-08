@@ -2,6 +2,7 @@
 title: Error (ADO/WFC Syntax)
 ms.prod: ACCESS
 ms.assetid: b2b3f564-8268-32e6-7705-1f9fd2ef0514
+ms.date: 06/08/2017
 ---
 
 

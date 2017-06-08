@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartTitle.Width
 ms.assetid: ed325d95-eaeb-e2d7-d6d6-7ad0962958e5
+ms.date: 06/08/2017
 ---
 
 

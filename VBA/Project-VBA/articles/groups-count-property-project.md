@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Groups.Count
 ms.assetid: 24a7b49c-b3bb-d8c5-1ea2-60078444c532
+ms.date: 06/08/2017
 ---
 
 

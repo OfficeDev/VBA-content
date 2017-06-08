@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorSchemes.Count
 ms.assetid: cd3fe69f-df35-8dcd-1133-634983155592
+ms.date: 06/08/2017
 ---
 
 

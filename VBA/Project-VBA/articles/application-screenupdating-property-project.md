@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ScreenUpdating
 ms.assetid: 23260017-c550-4f2b-a57f-4d7f7c1c0d52
+ms.date: 06/08/2017
 ---
 
 

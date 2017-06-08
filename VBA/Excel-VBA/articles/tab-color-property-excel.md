@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Tab.Color
 ms.assetid: f1ae9dad-2476-8594-9a89-6cf126854169
+ms.date: 06/08/2017
 ---
 
 

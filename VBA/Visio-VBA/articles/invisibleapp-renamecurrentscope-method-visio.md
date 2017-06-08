@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.RenameCurrentScope
 ms.assetid: f057117c-5565-60a8-2c19-d30f6c6b5c28
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.AskForCompletedWork
 ms.assetid: 54380c01-ae6f-a378-a46b-bfe0064fbc5f
+ms.date: 06/08/2017
 ---
 
 

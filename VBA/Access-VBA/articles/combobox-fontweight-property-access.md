@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.FontWeight
 ms.assetid: 4e1cf348-4114-788d-34a6-c0b17152ee4b
+ms.date: 06/08/2017
 ---
 
 

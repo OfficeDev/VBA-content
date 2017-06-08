@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.HandoutMaster
 ms.assetid: d80a8e51-61db-8da0-1fda-20a043e62569
+ms.date: 06/08/2017
 ---
 
 

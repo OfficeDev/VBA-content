@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.RepeatAllLabels
 ms.assetid: 4ca1a7fa-4db6-20da-e37b-37445fee30cf
+ms.date: 06/08/2017
 ---
 
 

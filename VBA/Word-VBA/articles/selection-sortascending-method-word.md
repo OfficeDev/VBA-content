@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.SortAscending
 ms.assetid: 8092fdac-b89c-9a6e-1151-9611f69d0dc4
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.Move
 ms.assetid: 91858a91-49d8-7be6-95b3-491cd9f41235
+ms.date: 06/08/2017
 ---
 
 

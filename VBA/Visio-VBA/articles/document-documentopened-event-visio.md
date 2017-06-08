@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.DocumentOpened
 ms.assetid: 32e1d16e-1906-9477-bdb7-e72833a055f2
+ms.date: 06/08/2017
 ---
 
 

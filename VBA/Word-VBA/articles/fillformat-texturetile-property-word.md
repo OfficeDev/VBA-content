@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.TextureTile
 ms.assetid: 670db5f6-8543-2c6e-6aeb-98f240716421
+ms.date: 06/08/2017
 ---
 
 

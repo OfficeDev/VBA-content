@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnotes.ContinuationNotice
 ms.assetid: 355a8bc1-3cf6-51e7-27f6-f3ff2b708fca
+ms.date: 06/08/2017
 ---
 
 

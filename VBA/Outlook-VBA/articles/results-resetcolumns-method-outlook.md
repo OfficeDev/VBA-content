@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Results.ResetColumns
 ms.assetid: 1839dd92-cbab-5fac-a59b-b1ceb6ef874a
+ms.date: 06/08/2017
 ---
 
 

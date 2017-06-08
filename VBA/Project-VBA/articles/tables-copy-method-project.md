@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Tables.Copy
 ms.assetid: dfc2f25b-e60c-ef25-9e7c-2808ce76a4ba
+ms.date: 06/08/2017
 ---
 
 

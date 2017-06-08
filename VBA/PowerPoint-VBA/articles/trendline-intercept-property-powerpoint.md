@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Trendline.Intercept
 ms.assetid: 4ffb60a6-a5b8-9b6d-1adc-42eb6c2a7eef
+ms.date: 06/08/2017
 ---
 
 

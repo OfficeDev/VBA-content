@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.GotoSlide
 ms.assetid: f733f46d-a632-02cb-3dbf-f29122fe347a
+ms.date: 06/08/2017
 ---
 
 

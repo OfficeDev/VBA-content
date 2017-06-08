@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SendForReview
 ms.assetid: 2f2cdd5c-eeca-d03f-bd58-b5586f8f461f
+ms.date: 06/08/2017
 ---
 
 

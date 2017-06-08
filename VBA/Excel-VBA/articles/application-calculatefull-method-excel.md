@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.CalculateFull
 ms.assetid: 11be6386-a5de-817f-0624-b7e7fd502ed3
+ms.date: 06/08/2017
 ---
 
 

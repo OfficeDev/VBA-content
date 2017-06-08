@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.SaveData
 ms.assetid: 7657e1ee-cbed-91c6-0e69-defe4ca69897
+ms.date: 06/08/2017
 ---
 
 

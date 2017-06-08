@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.BudgetWork
 ms.assetid: fc46fced-dd05-5c56-bdeb-7d50c3070500
+ms.date: 06/08/2017
 ---
 
 

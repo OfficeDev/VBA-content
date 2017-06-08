@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.AutoCorrect
 ms.assetid: 3565507b-c2b7-da6c-a725-ab925d695c6d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AxisTitle.Characters
 ms.assetid: a53ea4c6-a742-17b0-8120-1c16484c5995
+ms.date: 06/08/2017
 ---
 
 

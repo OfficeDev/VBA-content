@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.Move
 ms.assetid: bbf4e87e-8468-7cfd-7cd4-5f423a6517c8
+ms.date: 06/08/2017
 ---
 
 

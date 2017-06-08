@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PutInClipboard
 ms.assetid: fd097450-a929-d9ce-d7a9-b93e75f4ec14
+ms.date: 06/08/2017
 ---
 
 

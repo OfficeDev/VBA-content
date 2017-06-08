@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCache.UpgradeOnRefresh
 ms.assetid: 9110a82b-9ac7-3d9e-8386-827cd828aace
+ms.date: 06/08/2017
 ---
 
 

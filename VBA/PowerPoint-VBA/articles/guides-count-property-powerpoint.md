@@ -1,6 +1,7 @@
 ---
 title: Guides.Count Property (PowerPoint)
 ms.assetid: 6137691a-2585-3e28-65e8-d882bd26bb19
+ms.date: 06/08/2017
 ---
 
 

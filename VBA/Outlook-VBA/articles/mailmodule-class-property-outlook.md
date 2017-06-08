@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailModule.Class
 ms.assetid: f991b831-21a2-45c4-40ac-075eb5c90604
+ms.date: 06/08/2017
 ---
 
 

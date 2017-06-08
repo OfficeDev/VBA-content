@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Task.Move
 ms.assetid: cd769f00-a6d2-819d-54ca-0861bfbcf441
+ms.date: 06/08/2017
 ---
 
 

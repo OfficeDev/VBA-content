@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbPhoneticGuideAlignmentType
 ms.assetid: 882833f8-bf2b-e3b5-4568-344c4a2edf36
+ms.date: 06/08/2017
 ---
 
 

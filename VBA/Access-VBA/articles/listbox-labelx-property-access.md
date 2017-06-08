@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.LabelX
 ms.assetid: 12335d2b-92e1-185b-df3e-db1e9002f757
+ms.date: 06/08/2017
 ---
 
 

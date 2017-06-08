@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.ContainerStyle
 ms.assetid: cc7b6757-0287-e25a-9406-554aa70ef181
+ms.date: 06/08/2017
 ---
 
 

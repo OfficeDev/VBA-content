@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalculatedMember.IsValid
 ms.assetid: 9b0f78c6-3435-6539-aff0-165810668dde
+ms.date: 06/08/2017
 ---
 
 

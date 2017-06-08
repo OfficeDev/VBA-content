@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Weibull_Dist
 ms.assetid: 17e5c39f-0808-2c84-a732-801fa0e342d8
+ms.date: 06/08/2017
 ---
 
 

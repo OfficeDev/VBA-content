@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.TopLevelTables
 ms.assetid: 7ab1b2a3-85a8-8892-53b9-dc85ff747078
+ms.date: 06/08/2017
 ---
 
 

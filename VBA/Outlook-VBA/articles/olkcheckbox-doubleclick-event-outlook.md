@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.DoubleClick
 ms.assetid: 9b1dbd3f-87af-58b7-2327-8c83eb9bf2d5
+ms.date: 06/08/2017
 ---
 
 

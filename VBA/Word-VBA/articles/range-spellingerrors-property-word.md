@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.SpellingErrors
 ms.assetid: 4b35a13d-2a5f-e9cd-0667-58aae00a48f1
+ms.date: 06/08/2017
 ---
 
 

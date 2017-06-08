@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Section.Footers
 ms.assetid: 2aa522ae-fc34-eb75-790f-85a8182f76c2
+ms.date: 06/08/2017
 ---
 
 

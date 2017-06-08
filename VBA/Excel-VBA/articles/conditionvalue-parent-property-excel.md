@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ConditionValue.Parent
 ms.assetid: d6e61746-ae2e-3704-a37a-ab755198772b
+ms.date: 06/08/2017
 ---
 
 

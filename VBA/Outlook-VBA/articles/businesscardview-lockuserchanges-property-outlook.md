@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.BusinessCardView.LockUserChanges
 ms.assetid: 61867505-136e-49d8-f3be-8178b5d53860
+ms.date: 06/08/2017
 ---
 
 

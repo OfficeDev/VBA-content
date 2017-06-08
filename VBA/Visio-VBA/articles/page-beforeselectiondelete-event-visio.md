@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.BeforeSelectionDelete
 ms.assetid: 19bec7f7-9813-bbb4-edf1-117b582ce735
+ms.date: 06/08/2017
 ---
 
 

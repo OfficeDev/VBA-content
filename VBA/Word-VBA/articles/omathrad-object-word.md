@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathRad
 ms.assetid: 2179cda9-b1dc-9593-c4f9-99496081e191
+ms.date: 06/08/2017
 ---
 
 

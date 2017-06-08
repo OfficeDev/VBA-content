@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ZTest
 ms.assetid: 24d85668-2502-14b5-73b7-24a5dae7c332
+ms.date: 06/08/2017
 ---
 
 

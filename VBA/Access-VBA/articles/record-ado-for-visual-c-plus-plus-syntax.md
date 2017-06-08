@@ -2,6 +2,7 @@
 title: Record (ADO for Visual C++ Syntax)
 ms.prod: ACCESS
 ms.assetid: e9a1300e-e2d8-7ad9-e0d6-61be720b83af
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CommandEffect.Application
 ms.assetid: c3b54f4d-5761-9606-b675-9258d5f0faee
+ms.date: 06/08/2017
 ---
 
 

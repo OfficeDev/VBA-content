@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.BorderStyle
 ms.assetid: 243484f6-1401-cbe9-dfb9-d5c8f7e419ce
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FormField.StatusText
 ms.assetid: e374b94a-6faa-a2ea-9085-d9b987376fa8
+ms.date: 06/08/2017
 ---
 
 

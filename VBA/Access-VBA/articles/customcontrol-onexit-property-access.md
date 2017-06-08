@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.OnExit
 ms.assetid: a634b83c-fd5a-1277-44b2-d9e2c4b13436
+ms.date: 06/08/2017
 ---
 
 

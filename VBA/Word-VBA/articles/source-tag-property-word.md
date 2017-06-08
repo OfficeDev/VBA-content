@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Source.Tag
 ms.assetid: af6a6966-9692-b6fe-8ced-54f8892a8cf7
+ms.date: 06/08/2017
 ---
 
 

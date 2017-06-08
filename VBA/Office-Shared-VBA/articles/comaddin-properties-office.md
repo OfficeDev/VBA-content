@@ -2,6 +2,7 @@
 title: COMAddIn Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 11c34541-6f0f-4c22-91c8-2971b4ba3a03
+ms.date: 06/08/2017
 ---
 
 

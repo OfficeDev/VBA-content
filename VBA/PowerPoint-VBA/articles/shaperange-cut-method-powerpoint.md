@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Cut
 ms.assetid: 0e86d67c-7d52-4f3a-4cdd-6363667600a1
+ms.date: 06/08/2017
 ---
 
 

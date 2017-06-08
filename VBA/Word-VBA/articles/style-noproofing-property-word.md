@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.NoProofing
 ms.assetid: dbfc95ea-160a-bda9-e7e8-b73ae2314228
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Left
 ms.assetid: e9099a6b-b2f0-e7c4-c9fd-d47ffbf279f4
+ms.date: 06/08/2017
 ---
 
 

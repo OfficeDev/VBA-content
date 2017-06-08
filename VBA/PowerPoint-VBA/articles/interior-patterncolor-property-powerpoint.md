@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Interior.PatternColor
 ms.assetid: eb8e0993-fe73-3ab5-3b89-e5a306b20149
+ms.date: 06/08/2017
 ---
 
 

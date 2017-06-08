@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.MarginTop
 ms.assetid: 4382b16a-9b86-ea38-d9f8-283bc4ee3161
+ms.date: 06/08/2017
 ---
 
 

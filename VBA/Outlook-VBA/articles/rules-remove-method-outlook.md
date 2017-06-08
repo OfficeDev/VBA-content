@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Rules.Remove
 ms.assetid: 6d4bb971-b38a-0434-1b6a-8892689549d6
+ms.date: 06/08/2017
 ---
 
 

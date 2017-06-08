@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Start
 ms.assetid: 1e37b589-842e-b03b-09eb-a19ce03f6a72
+ms.date: 06/08/2017
 ---
 
 

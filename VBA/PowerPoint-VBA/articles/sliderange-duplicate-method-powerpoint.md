@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Duplicate
 ms.assetid: 054b5be1-adbb-be83-1c25-e8585dbbdfe8
+ms.date: 06/08/2017
 ---
 
 

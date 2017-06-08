@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Width
 ms.assetid: b9b521f8-70e0-90aa-fdbf-675c78cc0d28
+ms.date: 06/08/2017
 ---
 
 

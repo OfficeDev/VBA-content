@@ -2,6 +2,7 @@
 title: Shapes.Item Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 43fba4f4-f3d3-20a0-2c77-15e31dcdcbf5
+ms.date: 06/08/2017
 ---
 
 

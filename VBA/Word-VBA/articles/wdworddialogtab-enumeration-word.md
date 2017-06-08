@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdWordDialogTab
 ms.assetid: 03059154-32d1-2e11-1428-331f2440406b
+ms.date: 06/08/2017
 ---
 
 

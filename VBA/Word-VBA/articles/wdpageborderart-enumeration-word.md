@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPageBorderArt
 ms.assetid: e01fae3c-c39c-8193-44e6-f3908f6b014b
+ms.date: 06/08/2017
 ---
 
 

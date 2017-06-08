@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ServerViewableItems.Delete
 ms.assetid: e6b53271-8a37-4bf3-fea2-46d02550391b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.Contrast
 ms.assetid: 19e2a7d2-59c3-e3d7-3770-0cbecdba2550
+ms.date: 06/08/2017
 ---
 
 

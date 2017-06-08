@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.DblClick
 ms.assetid: abc31523-5154-2d91-67c0-03cc0e73e957
+ms.date: 06/08/2017
 ---
 
 

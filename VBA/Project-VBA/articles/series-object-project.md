@@ -2,6 +2,7 @@
 title: Series Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 38a834ec-4076-82ef-a6bd-55a1ee2624bd
+ms.date: 06/08/2017
 ---
 
 

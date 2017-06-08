@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.BeforeShapeTextEdit
 ms.assetid: 6d07daf2-bb95-802e-57a8-5436236dd4d6
+ms.date: 06/08/2017
 ---
 
 

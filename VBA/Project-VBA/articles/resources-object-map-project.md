@@ -2,6 +2,7 @@
 title: Resources object map (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: a98ea473-b3e0-1968-5718-0f4834d8449b
+ms.date: 06/08/2017
 ---
 
 

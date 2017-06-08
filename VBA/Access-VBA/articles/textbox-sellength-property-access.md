@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.SelLength
 ms.assetid: 0fb2371d-0f60-b0c7-5c4b-7a0689867b21
+ms.date: 06/08/2017
 ---
 
 

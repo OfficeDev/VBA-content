@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPresetLightingSoftness
 ms.assetid: da5b4779-fca6-59cd-4cfe-599c3033c5d0
+ms.date: 06/08/2017
 ---
 
 

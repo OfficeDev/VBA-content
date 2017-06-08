@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.HasVertical
 ms.assetid: dc99eb20-3bc3-2ee9-b6d6-f9a9c1b4e880
+ms.date: 06/08/2017
 ---
 
 

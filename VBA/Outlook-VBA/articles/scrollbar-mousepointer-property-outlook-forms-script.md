@@ -2,6 +2,7 @@
 title: ScrollBar.MousePointer Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 0e188482-4ee3-5d48-c8b0-65eea0543d16
+ms.date: 06/08/2017
 ---
 
 

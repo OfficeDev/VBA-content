@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CanvasShapes.AddCurve
 ms.assetid: d66512d3-77a7-4f52-ad94-44712c75e87d
+ms.date: 06/08/2017
 ---
 
 

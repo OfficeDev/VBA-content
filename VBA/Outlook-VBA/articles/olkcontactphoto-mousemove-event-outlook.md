@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkContactPhoto.MouseMove
 ms.assetid: d2f0b94b-4825-c3be-d2b6-070e0fb2ff44
+ms.date: 06/08/2017
 ---
 
 

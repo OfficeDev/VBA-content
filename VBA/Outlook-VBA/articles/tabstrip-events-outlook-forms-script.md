@@ -2,6 +2,7 @@
 title: TabStrip Events (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 1d9145e1-f156-47df-a95c-10234d619cfa
+ms.date: 06/08/2017
 ---
 
 

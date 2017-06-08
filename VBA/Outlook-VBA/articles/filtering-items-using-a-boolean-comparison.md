@@ -2,6 +2,7 @@
 title: Filtering Items Using a Boolean Comparison
 ms.prod: OUTLOOK
 ms.assetid: bd786159-f4eb-e649-e838-56d520b824cf
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.AutoRotateNumbers
 ms.assetid: 621ccc86-d5cb-d2c1-262f-5652eff5800a
+ms.date: 06/08/2017
 ---
 
 

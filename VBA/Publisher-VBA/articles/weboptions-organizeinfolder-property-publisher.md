@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptions.OrganizeInFolder
 ms.assetid: f09ac701-d8d8-a58f-965c-bd5e4b69820c
+ms.date: 06/08/2017
 ---
 
 

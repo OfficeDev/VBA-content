@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.DataAsXML
 ms.assetid: 500dda1a-0747-57d0-f847-e3e1f72e96a3
+ms.date: 06/08/2017
 ---
 
 

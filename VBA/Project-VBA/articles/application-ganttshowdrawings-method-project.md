@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttShowDrawings
 ms.assetid: 8e18c9f0-f434-6aea-f6e6-13263011812a
+ms.date: 06/08/2017
 ---
 
 

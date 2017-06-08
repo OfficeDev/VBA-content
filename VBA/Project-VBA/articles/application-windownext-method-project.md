@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WindowNext
 ms.assetid: 10b5306d-038a-1b1c-9dec-8dd9d8b05dc3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PictureAlignment
 ms.assetid: 5d497e60-7106-6278-a5c0-06ef06d6177f
+ms.date: 06/08/2017
 ---
 
 

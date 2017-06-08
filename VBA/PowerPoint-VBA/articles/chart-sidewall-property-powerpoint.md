@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.SideWall
 ms.assetid: 2fb6e33b-0b6a-9a3f-49d6-0dbf07e5a949
+ms.date: 06/08/2017
 ---
 
 

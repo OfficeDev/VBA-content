@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.BorderStyle
 ms.assetid: c09cf24e-2974-5b7f-3493-064258658c61
+ms.date: 06/08/2017
 ---
 
 

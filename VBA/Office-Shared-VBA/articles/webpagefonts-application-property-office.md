@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WebPageFonts.Application
 ms.assetid: 2ba24e75-bfe1-59fb-8de4-75a96911388f
+ms.date: 06/08/2017
 ---
 
 

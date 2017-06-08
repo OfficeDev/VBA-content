@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.VerticalAlignment
 ms.assetid: c60fcbdb-b443-6b5a-8dd2-1c4c1e4a71d4
+ms.date: 06/08/2017
 ---
 
 

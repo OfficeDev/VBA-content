@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ICTPFactory
 ms.assetid: da653cf7-9649-dc07-e3ae-4f7805fe3eb1
+ms.date: 06/08/2017
 ---
 
 

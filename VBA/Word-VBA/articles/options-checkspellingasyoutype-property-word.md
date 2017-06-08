@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.CheckSpellingAsYouType
 ms.assetid: 8e4b55af-8fc6-2c99-ebfb-f008657d0da6
+ms.date: 06/08/2017
 ---
 
 

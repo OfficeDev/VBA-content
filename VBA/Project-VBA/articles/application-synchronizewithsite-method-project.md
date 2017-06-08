@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SynchronizeWithSite
 ms.assetid: 1bd749d2-fe3f-ee86-dc27-5e39267901bc
+ms.date: 06/08/2017
 ---
 
 

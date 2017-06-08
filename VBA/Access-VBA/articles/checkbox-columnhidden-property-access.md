@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.ColumnHidden
 ms.assetid: 9a6c271c-566c-e18c-ae85-8d35b4487cb2
+ms.date: 06/08/2017
 ---
 
 

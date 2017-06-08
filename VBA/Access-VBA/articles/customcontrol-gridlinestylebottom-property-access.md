@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.GridlineStyleBottom
 ms.assetid: 6cacbac2-3960-3f3e-45a1-d5b0d8fd3ac0
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.WorkWeekDay.Name
 ms.assetid: 243ff5f7-3907-7499-c4bc-968917c855f3
+ms.date: 06/08/2017
 ---
 
 

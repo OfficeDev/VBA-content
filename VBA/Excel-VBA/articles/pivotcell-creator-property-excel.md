@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCell.Creator
 ms.assetid: 0700299c-9796-1593-4b9a-669f46cb3de7
+ms.date: 06/08/2017
 ---
 
 

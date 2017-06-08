@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Calculate
 ms.assetid: 5510a6e9-5038-9bd2-8f7b-aa75427f48d4
+ms.date: 06/08/2017
 ---
 
 

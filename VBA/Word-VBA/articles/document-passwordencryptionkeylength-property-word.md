@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.PasswordEncryptionKeyLength
 ms.assetid: 3144a2e8-f787-e38e-4322-66c6e6ac7523
+ms.date: 06/08/2017
 ---
 
 

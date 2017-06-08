@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.Caption
 ms.assetid: be7ee0b3-2891-d5e1-b196-13071ccb2edb
+ms.date: 06/08/2017
 ---
 
 

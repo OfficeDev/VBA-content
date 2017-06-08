@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionary.ReadOnly
 ms.assetid: f28d4fc8-46fa-a93d-248d-41b5515701ee
+ms.date: 06/08/2017
 ---
 
 

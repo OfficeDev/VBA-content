@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.CurrentPageIndex
 ms.assetid: 2a7950cf-c079-da63-676d-cf6a7e8a3600
+ms.date: 06/08/2017
 ---
 
 

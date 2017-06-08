@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.AutoWordSelect
 ms.assetid: 272102e8-d40e-faf1-e91e-6e1b74b8f9bd
+ms.date: 06/08/2017
 ---
 
 

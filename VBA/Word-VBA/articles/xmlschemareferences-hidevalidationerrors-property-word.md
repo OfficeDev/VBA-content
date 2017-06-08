@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLSchemaReferences.HideValidationErrors
 ms.assetid: a31185b6-f179-acf8-d5ee-57311dca4c34
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.ScreenUpdating
 ms.assetid: d265b4fb-1452-91a5-32fe-0cad54c8f29c
+ms.date: 06/08/2017
 ---
 
 

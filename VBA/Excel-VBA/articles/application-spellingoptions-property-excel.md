@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.SpellingOptions
 ms.assetid: c3d1970b-1276-9af7-88d6-e8e77bc32095
+ms.date: 06/08/2017
 ---
 
 

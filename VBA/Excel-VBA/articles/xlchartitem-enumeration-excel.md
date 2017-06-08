@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlChartItem
 ms.assetid: 34a85683-2693-10b3-cdb2-e40e123071ad
+ms.date: 06/08/2017
 ---
 
 

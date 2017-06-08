@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Windows.ItemEx
 ms.assetid: 24adeef0-20ca-4e00-ff39-c49ec5e72f87
+ms.date: 06/08/2017
 ---
 
 

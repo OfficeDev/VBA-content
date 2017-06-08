@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WindowNumber
 ms.assetid: 9fe66956-664f-083e-62fe-7c2919619615
+ms.date: 06/08/2017
 ---
 
 

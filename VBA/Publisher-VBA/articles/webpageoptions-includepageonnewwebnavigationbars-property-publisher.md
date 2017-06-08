@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebPageOptions.IncludePageOnNewWebNavigationBars
 ms.assetid: 5e2f60d0-e812-8ca1-e54b-33a1f9eedf84
+ms.date: 06/08/2017
 ---
 
 

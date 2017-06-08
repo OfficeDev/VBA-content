@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.MacroContainer
 ms.assetid: 9c2d37b8-d5c3-d13b-3bf9-54e1352b1855
+ms.date: 06/08/2017
 ---
 
 

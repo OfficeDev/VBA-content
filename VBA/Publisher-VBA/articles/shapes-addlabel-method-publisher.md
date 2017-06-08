@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddLabel
 ms.assetid: 5a803aa2-d37f-6da1-7d8b-58ee2dcd8146
+ms.date: 06/08/2017
 ---
 
 

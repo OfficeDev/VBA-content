@@ -2,6 +2,7 @@
 title: CustomXMLPrefixMappings Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 36394a9f-b3d4-496a-bde3-190f0f69acf4
+ms.date: 06/08/2017
 ---
 
 

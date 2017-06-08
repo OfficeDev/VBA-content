@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Shape
 ms.assetid: 60fd5911-592e-a12a-8244-b6eaddd248ba
+ms.date: 06/08/2017
 ---
 
 

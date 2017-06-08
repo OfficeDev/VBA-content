@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.BeforeCheckNames
 ms.assetid: f6e787a5-dad1-6d4e-119f-1d0f07133a83
+ms.date: 06/08/2017
 ---
 
 

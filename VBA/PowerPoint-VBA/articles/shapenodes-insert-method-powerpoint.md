@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeNodes.Insert
 ms.assetid: ece6e886-db56-6800-fe1c-f9d308104d75
+ms.date: 06/08/2017
 ---
 
 

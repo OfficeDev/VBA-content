@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebNavigationBarSet.HorizontalAlignment
 ms.assetid: 7d615a5a-793c-fd78-3dca-a268740b67aa
+ms.date: 06/08/2017
 ---
 
 

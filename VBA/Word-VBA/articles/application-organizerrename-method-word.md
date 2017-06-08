@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.OrganizerRename
 ms.assetid: abbe323c-b882-e497-608f-80004e166c8a
+ms.date: 06/08/2017
 ---
 
 

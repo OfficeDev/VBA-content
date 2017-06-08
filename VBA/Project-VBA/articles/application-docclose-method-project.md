@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DocClose
 ms.assetid: ddcd72c1-11e7-aa15-12da-ef26d3545742
+ms.date: 06/08/2017
 ---
 
 

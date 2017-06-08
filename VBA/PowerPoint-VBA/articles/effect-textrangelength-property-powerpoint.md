@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.TextRangeLength
 ms.assetid: b68690a5-f93e-0833-73be-a6259d604064
+ms.date: 06/08/2017
 ---
 
 

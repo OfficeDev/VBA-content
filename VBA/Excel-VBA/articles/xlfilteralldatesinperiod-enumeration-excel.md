@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlFilterAllDatesInPeriod
 ms.assetid: f549638f-fdb3-a822-9b0b-5b1b8090d244
+ms.date: 06/08/2017
 ---
 
 

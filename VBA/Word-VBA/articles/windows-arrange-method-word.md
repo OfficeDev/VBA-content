@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Windows.Arrange
 ms.assetid: 11325f30-7d28-84f5-4e39-fec34509201e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.CenterDrawing
 ms.assetid: 9e5f7c27-f2ef-f8e1-b530-9d8d41960193
+ms.date: 06/08/2017
 ---
 
 

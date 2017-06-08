@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Hyperlinks.Delete
 ms.assetid: 6875e532-a1af-2080-f80e-89d651294db0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.ForeColor
 ms.assetid: 1c99213e-8d85-25cb-018b-09f87ccf63d4
+ms.date: 06/08/2017
 ---
 
 

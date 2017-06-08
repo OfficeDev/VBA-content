@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.FontSize
 ms.assetid: 3ceff45a-fe5d-f692-7ad3-ab20143e12fc
+ms.date: 06/08/2017
 ---
 
 

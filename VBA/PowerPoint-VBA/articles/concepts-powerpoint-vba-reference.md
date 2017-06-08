@@ -2,6 +2,7 @@
 title: Concepts (PowerPoint VBA reference)
 ms.prod: POWERPOINT
 ms.assetid: a129bddc-ed5d-ab14-cdeb-e4f73e08e7a1
+ms.date: 06/08/2017
 ---
 
 

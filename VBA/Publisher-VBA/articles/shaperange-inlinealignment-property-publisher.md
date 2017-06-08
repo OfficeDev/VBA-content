@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.InlineAlignment
 ms.assetid: fed6d488-1483-2b59-b7be-1c4298f016a0
+ms.date: 06/08/2017
 ---
 
 

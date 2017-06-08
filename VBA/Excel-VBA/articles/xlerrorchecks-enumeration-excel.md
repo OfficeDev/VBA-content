@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlErrorChecks
 ms.assetid: fbc558d4-779b-0256-9dae-92e783008f4d
+ms.date: 06/08/2017
 ---
 
 

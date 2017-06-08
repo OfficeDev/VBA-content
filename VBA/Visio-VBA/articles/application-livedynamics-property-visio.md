@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.LiveDynamics
 ms.assetid: fc5a887b-318a-fd25-c2b5-52d6cc1c026e
+ms.date: 06/08/2017
 ---
 
 

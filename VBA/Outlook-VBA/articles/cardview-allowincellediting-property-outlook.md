@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.AllowInCellEditing
 ms.assetid: e33da36e-d56e-6001-41e1-d923c0d3e450
+ms.date: 06/08/2017
 ---
 
 

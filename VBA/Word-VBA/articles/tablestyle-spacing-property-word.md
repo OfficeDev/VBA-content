@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.Spacing
 ms.assetid: e0f0a45c-1613-4d94-1ddb-790af10bec64
+ms.date: 06/08/2017
 ---
 
 

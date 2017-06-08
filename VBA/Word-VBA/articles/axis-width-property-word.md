@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.Width
 ms.assetid: 64783884-65c6-7760-27ac-718e38eddbf3
+ms.date: 06/08/2017
 ---
 
 

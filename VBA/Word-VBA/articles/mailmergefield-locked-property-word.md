@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeField.Locked
 ms.assetid: 3e926cc7-a3a4-4db9-ff11-abc1a57bdfba
+ms.date: 06/08/2017
 ---
 
 

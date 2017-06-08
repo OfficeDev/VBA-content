@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.RightToLeft
 ms.assetid: 0d3678c4-57c4-4c7c-aa2f-77ce1c339524
+ms.date: 06/08/2017
 ---
 
 

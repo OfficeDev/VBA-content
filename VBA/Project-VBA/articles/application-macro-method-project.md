@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.Macro
 ms.assetid: e07686b6-3c38-7413-692b-aac8fb9bf526
+ms.date: 06/08/2017
 ---
 
 

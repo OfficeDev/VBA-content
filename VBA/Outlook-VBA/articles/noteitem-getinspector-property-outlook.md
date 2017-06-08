@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.GetInspector
 ms.assetid: 80e5bdc5-8161-afa7-6aab-65356fc5d2ea
+ms.date: 06/08/2017
 ---
 
 

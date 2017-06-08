@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: 82b6d6f1-30fe-2946-241a-cdb0077cabf6
+ms.date: 06/08/2017
 ---
 
 

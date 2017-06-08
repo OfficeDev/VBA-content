@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.AfterWrite
 ms.assetid: e63e0d48-f3cd-4c3b-1ef9-4a9a83a34a32
+ms.date: 06/08/2017
 ---
 
 

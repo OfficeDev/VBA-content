@@ -2,6 +2,7 @@
 title: ShapeRange.ParentGroup Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: a2276d7e-70b2-8aa7-1f9c-f2976f8454ac
+ms.date: 06/08/2017
 ---
 
 

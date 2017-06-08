@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.MarginLeft
 ms.assetid: de0de9d5-a774-eb5c-7a97-fb0c6aa8522c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Email3AddressType
 ms.assetid: af814290-2f74-5d83-28b0-a0af055a63cc
+ms.date: 06/08/2017
 ---
 
 

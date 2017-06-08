@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Fonts.Document
 ms.assetid: 52efc794-d945-b5e7-d336-6bea58874562
+ms.date: 06/08/2017
 ---
 
 

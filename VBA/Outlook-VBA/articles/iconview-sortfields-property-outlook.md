@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.IconView.SortFields
 ms.assetid: 1fcc81e9-e224-3795-f534-b9df4633aaec
+ms.date: 06/08/2017
 ---
 
 

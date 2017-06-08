@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.ShapeDataGraphicChanged
 ms.assetid: 47fa7996-9b1f-d530-adf1-8dbb6d69aa5c
+ms.date: 06/08/2017
 ---
 
 

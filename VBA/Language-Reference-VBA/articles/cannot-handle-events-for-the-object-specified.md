@@ -2,6 +2,7 @@
 title: Cannot handle events for the object specified
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b93a51db-0ae7-fe6a-c847-518067804bde
+ms.date: 06/08/2017
 ---
 
 

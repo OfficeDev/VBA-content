@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.Delete
 ms.assetid: 71261ec1-2f39-ac51-43f4-bce2b34fcadd
+ms.date: 06/08/2017
 ---
 
 

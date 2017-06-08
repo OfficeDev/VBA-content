@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AxisTitle.VerticalAlignment
 ms.assetid: 06e1fc06-4f3f-ecc7-78e1-80477a4d1544
+ms.date: 06/08/2017
 ---
 
 

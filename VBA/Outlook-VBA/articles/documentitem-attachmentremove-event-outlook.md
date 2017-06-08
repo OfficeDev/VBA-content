@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.AttachmentRemove
 ms.assetid: c921bdd1-f922-8cd4-a31c-fd880b447099
+ms.date: 06/08/2017
 ---
 
 

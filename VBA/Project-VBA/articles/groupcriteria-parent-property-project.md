@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriteria.Parent
 ms.assetid: ffd2aca5-2244-6138-6168-c0d115ab9adf
+ms.date: 06/08/2017
 ---
 
 

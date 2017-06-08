@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuItem.IconFileName
 ms.assetid: 4ae62286-f5c9-efe5-8789-91f4dcfcc00a
+ms.date: 06/08/2017
 ---
 
 

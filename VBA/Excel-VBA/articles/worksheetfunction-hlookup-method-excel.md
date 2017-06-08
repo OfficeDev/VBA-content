@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.HLookup
 ms.assetid: 6e7b5ad0-3f70-d7a8-b161-ce418107d2a1
+ms.date: 06/08/2017
 ---
 
 

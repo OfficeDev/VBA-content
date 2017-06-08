@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folders.GetNext
 ms.assetid: 5c2de8b2-b251-1983-a10b-1945abc38709
+ms.date: 06/08/2017
 ---
 
 

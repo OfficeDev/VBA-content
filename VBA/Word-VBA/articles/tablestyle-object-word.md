@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle
 ms.assetid: 4f1f4489-0ef7-dff0-8f2a-77f87937f3ad
+ms.date: 06/08/2017
 ---
 
 

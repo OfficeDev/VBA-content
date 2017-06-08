@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Comments
 ms.assetid: ff06c024-66cf-d915-e0b0-676b009f93fb
+ms.date: 06/08/2017
 ---
 
 

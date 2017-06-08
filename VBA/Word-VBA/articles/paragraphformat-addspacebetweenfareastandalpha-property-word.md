@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.AddSpaceBetweenFarEastAndAlpha
 ms.assetid: 3575dab1-4a59-b20e-46e2-971389a3ec95
+ms.date: 06/08/2017
 ---
 
 

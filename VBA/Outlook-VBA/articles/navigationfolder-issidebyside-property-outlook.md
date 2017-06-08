@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationFolder.IsSideBySide
 ms.assetid: 00a49ce6-ad74-1f24-2aaa-e79a3409c9c9
+ms.date: 06/08/2017
 ---
 
 

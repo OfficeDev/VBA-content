@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.AutoLabel
 ms.assetid: f71bdc7f-9703-eeaa-70a8-70b6ddb72f85
+ms.date: 06/08/2017
 ---
 
 

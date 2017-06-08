@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ShowDrillIndicators
 ms.assetid: 7495276f-122a-3f9a-c02f-6548302ec7d5
+ms.date: 06/08/2017
 ---
 
 

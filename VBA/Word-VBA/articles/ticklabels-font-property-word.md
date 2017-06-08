@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels.Font
 ms.assetid: 19a99aaa-39e2-8c89-84b8-b6e04ead0ffe
+ms.date: 06/08/2017
 ---
 
 

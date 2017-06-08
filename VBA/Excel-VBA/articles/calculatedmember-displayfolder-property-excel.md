@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalculatedMember.DisplayFolder
 ms.assetid: 9ece45d1-4d27-0305-1189-15c414353607
+ms.date: 06/08/2017
 ---
 
 

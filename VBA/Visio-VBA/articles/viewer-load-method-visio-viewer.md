@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Load
 ms.assetid: 8d33e759-793c-2e3c-3731-131fd51b415a
+ms.date: 06/08/2017
 ---
 
 

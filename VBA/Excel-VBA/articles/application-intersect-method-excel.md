@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.Intersect
 ms.assetid: 856d052a-3207-ced2-941c-b466cb880a93
+ms.date: 06/08/2017
 ---
 
 

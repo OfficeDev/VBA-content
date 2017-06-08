@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.CheckInWithVersion
 ms.assetid: fc041188-438e-6fab-d096-7883074a6879
+ms.date: 06/08/2017
 ---
 
 

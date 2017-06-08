@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFont.StrikeThrough
 ms.assetid: 10e7680a-7649-e91e-7c2e-772e77775054
+ms.date: 06/08/2017
 ---
 
 

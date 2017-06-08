@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArt.Reverse
 ms.assetid: e967a320-b314-f7b3-bd5a-ded5287a4fda
+ms.date: 06/08/2017
 ---
 
 

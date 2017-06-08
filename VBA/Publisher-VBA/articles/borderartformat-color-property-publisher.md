@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArtFormat.Color
 ms.assetid: fb2fe2f7-d321-43d3-232d-db3b513dae43
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.CommandBars
 ms.assetid: a7dc2e41-7271-1f2d-b0f9-7fa884311709
+ms.date: 06/08/2017
 ---
 
 

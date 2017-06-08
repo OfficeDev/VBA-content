@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.SetFocus
 ms.assetid: 74232b27-17f4-78fc-9c42-0aabaad56257
+ms.date: 06/08/2017
 ---
 
 

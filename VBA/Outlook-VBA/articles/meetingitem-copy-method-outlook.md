@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.Copy
 ms.assetid: a79ddac2-c1ef-76e2-9baa-446e4a4d6e98
+ms.date: 06/08/2017
 ---
 
 

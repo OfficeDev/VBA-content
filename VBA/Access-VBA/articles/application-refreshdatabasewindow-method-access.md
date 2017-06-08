@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.RefreshDatabaseWindow
 ms.assetid: 63825d35-b24e-ae68-3214-5727dc97eb79
+ms.date: 06/08/2017
 ---
 
 

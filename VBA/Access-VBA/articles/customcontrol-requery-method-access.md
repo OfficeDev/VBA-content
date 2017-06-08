@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.Requery
 ms.assetid: 0055d270-ce36-40da-4eaf-7851da6d5dec
+ms.date: 06/08/2017
 ---
 
 

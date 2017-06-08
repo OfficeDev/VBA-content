@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WindowHide
 ms.assetid: 37219d9d-1e50-3341-7618-9827d077d4d8
+ms.date: 06/08/2017
 ---
 
 

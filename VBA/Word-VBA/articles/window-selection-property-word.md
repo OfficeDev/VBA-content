@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.Selection
 ms.assetid: 0e6812cd-8b8a-edaf-cf72-cf899c50f92a
+ms.date: 06/08/2017
 ---
 
 

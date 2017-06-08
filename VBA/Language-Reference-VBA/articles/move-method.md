@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Move
 ms.assetid: b4138364-0f1a-b774-a82b-3417cb9a6599
+ms.date: 06/08/2017
 ---
 
 

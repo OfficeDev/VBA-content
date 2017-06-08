@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.SendFaxOverInternet
 ms.assetid: 4470cafb-16f5-045b-1dab-8f8ead50ffe0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Gridlines.Border
 ms.assetid: faf4d3ac-c870-c28d-6ab1-aca4b28c0132
+ms.date: 06/08/2017
 ---
 
 

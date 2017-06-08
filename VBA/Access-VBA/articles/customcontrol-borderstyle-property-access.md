@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.BorderStyle
 ms.assetid: f0cb73d3-1841-031c-5a5f-0e08d90774ee
+ms.date: 06/08/2017
 ---
 
 

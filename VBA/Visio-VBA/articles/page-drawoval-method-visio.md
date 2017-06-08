@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DrawOval
 ms.assetid: 9e3afc60-b14d-c831-5271-be782366a2d6
+ms.date: 06/08/2017
 ---
 
 

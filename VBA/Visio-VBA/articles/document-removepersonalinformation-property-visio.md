@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.RemovePersonalInformation
 ms.assetid: b05eb59e-9906-10f9-8819-60f8f0f1d4f5
+ms.date: 06/08/2017
 ---
 
 

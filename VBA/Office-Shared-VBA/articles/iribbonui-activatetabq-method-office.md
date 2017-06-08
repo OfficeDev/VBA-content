@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IRibbonUI.ActivateTabQ
 ms.assetid: bf664b52-2660-2ce7-a01b-83b459f66e09
+ms.date: 06/08/2017
 ---
 
 

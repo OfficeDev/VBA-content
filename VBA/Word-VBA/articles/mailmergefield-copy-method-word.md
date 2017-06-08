@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeField.Copy
 ms.assetid: 5e12d57c-30f0-a63b-1564-04fc9a9f96fc
+ms.date: 06/08/2017
 ---
 
 

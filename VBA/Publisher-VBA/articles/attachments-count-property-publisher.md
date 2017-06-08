@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Attachments.Count
 ms.assetid: 44f4c11a-2ad7-5d1c-9e9c-046a1367dad6
+ms.date: 06/08/2017
 ---
 
 

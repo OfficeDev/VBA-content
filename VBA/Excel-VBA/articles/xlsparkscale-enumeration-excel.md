@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlSparkScale
 ms.assetid: 6fe94fa8-1d81-e177-332f-7a85120d0e44
+ms.date: 06/08/2017
 ---
 
 

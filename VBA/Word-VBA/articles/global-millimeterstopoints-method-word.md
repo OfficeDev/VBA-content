@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.MillimetersToPoints
 ms.assetid: c221d455-bcb1-f0eb-a658-53db12e06284
+ms.date: 06/08/2017
 ---
 
 

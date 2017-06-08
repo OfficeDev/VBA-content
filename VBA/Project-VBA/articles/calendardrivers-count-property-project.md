@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.CalendarDrivers.Count
 ms.assetid: d8eb0e9a-84e3-241a-c9aa-4df2ec99bc89
+ms.date: 06/08/2017
 ---
 
 

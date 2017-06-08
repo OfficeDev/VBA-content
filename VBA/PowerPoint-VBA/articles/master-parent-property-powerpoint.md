@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.Parent
 ms.assetid: 315325b9-c7cd-f43c-ce92-4552ff2bdd71
+ms.date: 06/08/2017
 ---
 
 

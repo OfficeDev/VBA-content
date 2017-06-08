@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat
 ms.assetid: 62434479-237f-01c4-712c-08e48b391d48
+ms.date: 06/08/2017
 ---
 
 

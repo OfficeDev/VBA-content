@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.CubeFieldSubType
 ms.assetid: cc050313-3016-f8cb-709d-f3c7cb8f6ed1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Phonetics.Parent
 ms.assetid: 59535bff-bcd4-f928-7cc1-798e56f7b343
+ms.date: 06/08/2017
 ---
 
 

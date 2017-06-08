@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.IncludeHeaderFooter
 ms.assetid: 365fe58d-ef60-436e-a942-d43f12bafee8
+ms.date: 06/08/2017
 ---
 
 

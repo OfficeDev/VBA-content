@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.MouseDown
 ms.assetid: d02e19db-9f76-1669-8b5a-8b14f1950b83
+ms.date: 06/08/2017
 ---
 
 

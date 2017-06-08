@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SendMail
 ms.assetid: 7e47982f-2c8f-e76b-d790-9c4e72d5110b
+ms.date: 06/08/2017
 ---
 
 

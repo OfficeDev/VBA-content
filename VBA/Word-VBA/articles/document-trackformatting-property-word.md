@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.TrackFormatting
 ms.assetid: b3c39567-5aed-016b-2d43-d72be55c6ebd
+ms.date: 06/08/2017
 ---
 
 

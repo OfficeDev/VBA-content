@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RecurrencePattern.Exceptions
 ms.assetid: e068565b-5418-897a-9f06-92e87a532144
+ms.date: 06/08/2017
 ---
 
 

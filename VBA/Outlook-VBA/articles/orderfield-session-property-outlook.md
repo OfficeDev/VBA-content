@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OrderField.Session
 ms.assetid: af14c535-9588-0e3a-b9ff-8a4c46d0fc25
+ms.date: 06/08/2017
 ---
 
 

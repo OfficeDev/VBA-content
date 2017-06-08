@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfContents.Delete
 ms.assetid: e556485e-3c42-7658-99fb-8c0558482a14
+ms.date: 06/08/2017
 ---
 
 

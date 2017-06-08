@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListLevel.TabPosition
 ms.assetid: 36b73a32-4e8a-f6f5-75d0-55f1ad411055
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.ShowCategoriesDialog
 ms.assetid: 1b69b611-a87d-1e90-0082-b27ab4b0b174
+ms.date: 06/08/2017
 ---
 
 

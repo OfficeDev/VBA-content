@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathLimUpp
 ms.assetid: 3c7ca001-8533-52c9-5343-8a89892c0a16
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.AddonPaths
 ms.assetid: a6709892-abc9-7043-ca51-f1b74fdb424c
+ms.date: 06/08/2017
 ---
 
 

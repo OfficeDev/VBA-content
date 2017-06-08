@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Sequence.AddTriggerEffect
 ms.assetid: 65acf575-5b64-e95c-827d-dada8e915666
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.IsMasterDocument
 ms.assetid: fadf30e4-9a35-40ef-0b89-ebd981577624
+ms.date: 06/08/2017
 ---
 
 

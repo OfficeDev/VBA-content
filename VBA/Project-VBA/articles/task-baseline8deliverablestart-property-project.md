@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline8DeliverableStart
 ms.assetid: c9a0191d-a3ae-7793-ebff-bd40101bb985
+ms.date: 06/08/2017
 ---
 
 

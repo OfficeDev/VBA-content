@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartTitle.Position
 ms.assetid: 362c6370-142d-e783-2802-64d2cf830b4f
+ms.date: 06/08/2017
 ---
 
 

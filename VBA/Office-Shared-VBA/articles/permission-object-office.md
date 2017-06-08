@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Permission
 ms.assetid: 4bdf7058-d4ba-0bd4-c5cd-141d67245ced
+ms.date: 06/08/2017
 ---
 
 

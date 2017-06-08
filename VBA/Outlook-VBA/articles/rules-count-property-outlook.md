@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Rules.Count
 ms.assetid: b1753709-5693-9f2a-cd11-0e3c4e5e0982
+ms.date: 06/08/2017
 ---
 
 

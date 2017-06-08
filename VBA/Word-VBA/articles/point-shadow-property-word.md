@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Shadow
 ms.assetid: 45448ee2-fb8b-afed-c53e-35d693b164d8
+ms.date: 06/08/2017
 ---
 
 

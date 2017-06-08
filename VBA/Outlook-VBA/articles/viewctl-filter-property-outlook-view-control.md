@@ -2,6 +2,7 @@
 title: ViewCtl.Filter Property (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 4074d1d3-e3b5-810f-3ba9-3cf5bd1507ab
+ms.date: 06/08/2017
 ---
 
 

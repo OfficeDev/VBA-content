@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.ModifyEnclosure
 ms.assetid: 173c5b41-5245-4fc5-b9d9-9fd7cea0aab8
+ms.date: 06/08/2017
 ---
 
 

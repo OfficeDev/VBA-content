@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.EmailMergeEnvelope.Cc
 ms.assetid: d9e7704c-c45a-cf19-e0a8-8d55e1e82fc0
+ms.date: 06/08/2017
 ---
 
 

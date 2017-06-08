@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrect.CorrectDays
 ms.assetid: a9b4ee11-72bf-41d7-883f-6cacd13ed770
+ms.date: 06/08/2017
 ---
 
 

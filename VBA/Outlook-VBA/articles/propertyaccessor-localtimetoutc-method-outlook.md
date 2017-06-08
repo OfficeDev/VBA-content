@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PropertyAccessor.LocalTimeToUTC
 ms.assetid: c19f60b2-441f-77b3-eb83-9cfd899e3a52
+ms.date: 06/08/2017
 ---
 
 

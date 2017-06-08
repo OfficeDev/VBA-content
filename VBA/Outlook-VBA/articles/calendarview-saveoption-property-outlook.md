@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.SaveOption
 ms.assetid: fce87049-1d50-464b-1359-cbcd8c195193
+ms.date: 06/08/2017
 ---
 
 

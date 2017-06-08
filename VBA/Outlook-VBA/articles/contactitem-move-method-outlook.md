@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Move
 ms.assetid: e5e2ac9f-5fb2-2ebb-4afe-b61fc414d0aa
+ms.date: 06/08/2017
 ---
 
 

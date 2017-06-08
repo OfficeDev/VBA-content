@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.RowIndex
 ms.assetid: 6dd5576c-0a46-9a72-9c4e-fcf685097b77
+ms.date: 06/08/2017
 ---
 
 

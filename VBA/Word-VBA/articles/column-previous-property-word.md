@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Column.Previous
 ms.assetid: 633b0d86-5591-5dcf-f2f3-f414c193b4cd
+ms.date: 06/08/2017
 ---
 
 

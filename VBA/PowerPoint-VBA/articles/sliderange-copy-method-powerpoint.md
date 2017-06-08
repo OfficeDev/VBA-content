@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Copy
 ms.assetid: d781370d-8107-efaa-77ea-a7f1aa58737b
+ms.date: 06/08/2017
 ---
 
 

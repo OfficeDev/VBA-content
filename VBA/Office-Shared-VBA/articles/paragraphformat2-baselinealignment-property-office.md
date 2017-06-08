@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.BaselineAlignment
 ms.assetid: 498b4f51-ed3b-94f4-2db1-afb02eeced40
+ms.date: 06/08/2017
 ---
 
 

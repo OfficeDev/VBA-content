@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DDEInitiate
 ms.assetid: a517c66f-4bec-9bec-270c-2053bc733145
+ms.date: 06/08/2017
 ---
 
 

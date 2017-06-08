@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMath.AlignPoint
 ms.assetid: 29b5f2e7-94b6-264a-0b52-ea8cc749c780
+ms.date: 06/08/2017
 ---
 
 

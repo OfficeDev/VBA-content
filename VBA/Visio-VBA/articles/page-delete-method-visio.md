@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.Delete
 ms.assetid: 7adc0e81-7000-2bfa-cca5-c74c3fcbac5c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRuleSetFlags
 ms.assetid: 3057a46e-7721-3e70-8499-ca296efa0474
+ms.date: 06/08/2017
 ---
 
 

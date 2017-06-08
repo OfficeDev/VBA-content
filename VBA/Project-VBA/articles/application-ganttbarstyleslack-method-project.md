@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarStyleSlack
 ms.assetid: ccd8feb0-8551-c3fd-3ce5-ca90baaff910
+ms.date: 06/08/2017
 ---
 
 

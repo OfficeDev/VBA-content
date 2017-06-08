@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColumnWidth
 ms.assetid: fffb3493-4b40-7a0b-f3ad-d191baebb87f
+ms.date: 06/08/2017
 ---
 
 

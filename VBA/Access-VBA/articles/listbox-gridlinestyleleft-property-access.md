@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.GridlineStyleLeft
 ms.assetid: c9b37e7e-653f-68fd-40b0-6f601b91fa86
+ms.date: 06/08/2017
 ---
 
 

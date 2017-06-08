@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.ZoomBehavior
 ms.assetid: 5507fc17-957a-ab7f-d15f-43ad3e8327c6
+ms.date: 06/08/2017
 ---
 
 

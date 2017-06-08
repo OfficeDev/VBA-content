@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.GetListMemberPosition
 ms.assetid: 4fb6ab3b-b369-5e33-0b4f-50754d31f39d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.BorderStyle
 ms.assetid: d1c0208b-d054-077c-41e6-1300d5af0dcf
+ms.date: 06/08/2017
 ---
 
 

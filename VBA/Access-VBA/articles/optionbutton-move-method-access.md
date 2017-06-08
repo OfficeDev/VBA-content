@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.Move
 ms.assetid: cbc851ee-7dec-bed5-9ddf-31006a0ea6eb
+ms.date: 06/08/2017
 ---
 
 

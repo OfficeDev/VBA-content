@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MoveOrCopyRuleAction.Class
 ms.assetid: 103d5283-1613-7a49-0fcf-dd9e153ed18e
+ms.date: 06/08/2017
 ---
 
 

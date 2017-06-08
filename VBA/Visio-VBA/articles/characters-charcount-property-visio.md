@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.CharCount
 ms.assetid: 99e780df-b9ee-1083-6efe-cd3e766aa659
+ms.date: 06/08/2017
 ---
 
 

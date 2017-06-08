@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFormat.PictureFormat
 ms.assetid: 82cdf95a-8232-1ca5-ea6d-1c9f27d97b3d
+ms.date: 06/08/2017
 ---
 
 

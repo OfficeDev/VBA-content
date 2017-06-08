@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.SetSortOrder
 ms.assetid: 0ecb5f77-2cd1-92c6-b7f2-bf709f015ba5
+ms.date: 06/08/2017
 ---
 
 

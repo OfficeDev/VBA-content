@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.Requery
 ms.assetid: 011ca697-a0d5-c443-1715-05861b618a93
+ms.date: 06/08/2017
 ---
 
 

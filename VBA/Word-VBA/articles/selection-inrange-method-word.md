@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InRange
 ms.assetid: 3759ad96-44b5-d63c-f4d5-844f937f4216
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomTaskPane.Visible
 ms.assetid: eb822e64-57e5-0bf8-950e-6d0187f3efdd
+ms.date: 06/08/2017
 ---
 
 

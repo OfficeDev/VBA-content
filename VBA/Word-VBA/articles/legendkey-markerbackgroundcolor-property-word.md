@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendKey.MarkerBackgroundColor
 ms.assetid: edc9d4f6-9345-f01a-746a-a6a0f87314e4
+ms.date: 06/08/2017
 ---
 
 

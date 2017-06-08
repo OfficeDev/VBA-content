@@ -2,6 +2,7 @@
 title: ToggleButton.AutoSize Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 47c3871e-549b-1db7-beb9-e53031b5f6d4
+ms.date: 06/08/2017
 ---
 
 

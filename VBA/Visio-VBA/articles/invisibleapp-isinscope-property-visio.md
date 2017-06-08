@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.IsInScope
 ms.assetid: b3ba1566-a98c-55ef-b409-588b728730cf
+ms.date: 06/08/2017
 ---
 
 

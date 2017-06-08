@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Read
 ms.assetid: da5e82e6-43b9-d040-e529-2388049a8e1b
+ms.date: 06/08/2017
 ---
 
 

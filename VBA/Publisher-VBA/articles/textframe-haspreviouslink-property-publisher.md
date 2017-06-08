@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.HasPreviousLink
 ms.assetid: 85e0b497-55c9-d49f-2b65-e199361c121a
+ms.date: 06/08/2017
 ---
 
 

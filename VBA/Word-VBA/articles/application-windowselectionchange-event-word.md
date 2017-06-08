@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.WindowSelectionChange
 ms.assetid: 2c5cc640-a3a4-46b2-3352-20a057854b3a
+ms.date: 06/08/2017
 ---
 
 

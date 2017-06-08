@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Fill
 ms.assetid: 7a8ea56d-1b39-cc70-1fbc-7d1a488b1aba
+ms.date: 06/08/2017
 ---
 
 

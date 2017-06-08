@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cell.BottomPadding
 ms.assetid: 5f265dc2-a9c4-d307-69a8-1f73407a4301
+ms.date: 06/08/2017
 ---
 
 

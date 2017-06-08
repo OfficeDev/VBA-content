@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeFields.AddNext
 ms.assetid: c267f484-b9b0-44a0-c519-ca6624057223
+ms.date: 06/08/2017
 ---
 
 

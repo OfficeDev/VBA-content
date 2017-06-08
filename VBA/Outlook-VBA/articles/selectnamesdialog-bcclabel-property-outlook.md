@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.BccLabel
 ms.assetid: 9c826c3e-c7d3-6fd0-f900-24ba31925681
+ms.date: 06/08/2017
 ---
 
 

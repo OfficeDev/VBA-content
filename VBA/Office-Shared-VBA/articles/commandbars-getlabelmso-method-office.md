@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.GetLabelMso
 ms.assetid: 1ab6f700-e3c3-a89d-790f-10c27a6b495c
+ms.date: 06/08/2017
 ---
 
 

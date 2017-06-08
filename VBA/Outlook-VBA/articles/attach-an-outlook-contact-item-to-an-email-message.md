@@ -2,6 +2,7 @@
 title: Attach an Outlook Contact Item to an Email Message
 ms.prod: OUTLOOK
 ms.assetid: ae5240ad-dc3e-4499-8fd0-d8c2d90aa9ba
+ms.date: 06/08/2017
 ---
 
 

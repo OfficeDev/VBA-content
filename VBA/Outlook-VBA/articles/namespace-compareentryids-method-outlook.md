@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.CompareEntryIDs
 ms.assetid: 4e935803-9c73-03d2-17c9-dcaf169fdbbe
+ms.date: 06/08/2017
 ---
 
 

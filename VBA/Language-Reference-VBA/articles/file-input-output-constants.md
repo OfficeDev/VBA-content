@@ -2,6 +2,7 @@
 title: File Input/Output Constants
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 39efcfa2-9b74-e66e-813f-5aa9fdef3761
+ms.date: 06/08/2017
 ---
 
 

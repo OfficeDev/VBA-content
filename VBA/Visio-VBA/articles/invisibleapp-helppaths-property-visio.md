@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.HelpPaths
 ms.assetid: 31e7a73f-85ad-dce0-cfce-3b1a1fdb634d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.ForeColor
 ms.assetid: af89408d-a354-d277-c8f3-4e10213ce563
+ms.date: 06/08/2017
 ---
 
 

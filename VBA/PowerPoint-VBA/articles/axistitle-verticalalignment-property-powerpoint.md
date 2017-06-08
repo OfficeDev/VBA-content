@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.VerticalAlignment
 ms.assetid: 03dc2918-e33b-7a72-ec10-9ffe424d906d
+ms.date: 06/08/2017
 ---
 
 

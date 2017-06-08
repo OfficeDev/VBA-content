@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataColumns.SetColumnProperties
 ms.assetid: 453de04e-3def-11d1-67a4-127da4459564
+ms.date: 06/08/2017
 ---
 
 

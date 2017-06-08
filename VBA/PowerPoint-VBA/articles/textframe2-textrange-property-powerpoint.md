@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.TextRange
 ms.assetid: 288c1209-d12d-fd7c-bc1a-6775d844ca6b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SharedWorkspace
 ms.assetid: 864fdee9-7149-360f-099d-e1a9b57a31db
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ReminderSet
 ms.assetid: 5e9305ad-ae42-14e9-8e20-f3068d994200
+ms.date: 06/08/2017
 ---
 
 

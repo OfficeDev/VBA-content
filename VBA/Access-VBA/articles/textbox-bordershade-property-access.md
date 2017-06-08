@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.BorderShade
 ms.assetid: 554920e1-e5ae-1c48-f5d5-ab964070bec0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Account.AutoDiscoverConnectionMode
 ms.assetid: d9089143-caff-6e08-cc7d-f8659384d36e
+ms.date: 06/08/2017
 ---
 
 

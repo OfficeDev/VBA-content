@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Gridlines.Select
 ms.assetid: a0a790df-8e54-b3a2-4570-f345c9bb3a32
+ms.date: 06/08/2017
 ---
 
 

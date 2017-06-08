@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.InitialAddressList
 ms.assetid: 19cfe6be-e6b5-62e0-741a-b196ef7bac77
+ms.date: 06/08/2017
 ---
 
 

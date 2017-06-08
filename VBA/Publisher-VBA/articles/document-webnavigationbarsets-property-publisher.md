@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.WebNavigationBarSets
 ms.assetid: 4193dbce-a2e3-2587-5282-43b4c3cec921
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.EndKey
 ms.assetid: 4f27681c-1117-99c2-1aba-bd97082bb8ba
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeResourceChange
 ms.assetid: d676f2c7-8857-70d7-41c6-4c505a0bcbcc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.BeforeNavigate2
 ms.assetid: 7f6c963b-604e-c350-e71f-899fd6258e46
+ms.date: 06/08/2017
 ---
 
 

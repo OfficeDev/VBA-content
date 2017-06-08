@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjCriteriaList
 ms.assetid: bff09adf-421a-60e8-5140-a326c2ae6b34
+ms.date: 06/08/2017
 ---
 
 

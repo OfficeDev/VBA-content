@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdAlignmentTabRelative
 ms.assetid: e426fe51-532c-7322-e1c0-8950833a3095
+ms.date: 06/08/2017
 ---
 
 

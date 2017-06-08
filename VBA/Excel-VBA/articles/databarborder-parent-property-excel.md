@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataBarBorder.Parent
 ms.assetid: 8938e80f-1d4c-f9d9-15a3-1eaee9807cc1
+ms.date: 06/08/2017
 ---
 
 

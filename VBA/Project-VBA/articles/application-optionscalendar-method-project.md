@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OptionsCalendar
 ms.assetid: bde3b645-3417-ee45-57b5-0109bc7b17ad
+ms.date: 06/08/2017
 ---
 
 

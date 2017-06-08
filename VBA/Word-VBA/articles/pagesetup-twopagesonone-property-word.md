@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.TwoPagesOnOne
 ms.assetid: c9d8edac-1fea-5fdb-a4e2-193920fa89d1
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.ReplyAll
 ms.assetid: 6616031a-7f71-bf18-5396-97707b1cccb1
+ms.date: 06/08/2017
 ---
 
 

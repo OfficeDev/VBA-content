@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.FullScreen
 ms.assetid: f26be86f-be78-84f7-8222-187040d61a40
+ms.date: 06/08/2017
 ---
 
 

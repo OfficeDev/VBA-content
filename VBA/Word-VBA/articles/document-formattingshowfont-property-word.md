@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FormattingShowFont
 ms.assetid: ea13daf7-6b62-ad27-bf87-21dd19e90878
+ms.date: 06/08/2017
 ---
 
 

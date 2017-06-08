@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordsets.Stat
 ms.assetid: fa9775e9-6251-57e4-5a21-722a82c846ac
+ms.date: 06/08/2017
 ---
 
 

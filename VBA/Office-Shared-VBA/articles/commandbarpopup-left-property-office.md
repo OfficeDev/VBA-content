@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Left
 ms.assetid: d384480a-9777-acee-d943-ec4ebb6cb5e7
+ms.date: 06/08/2017
 ---
 
 

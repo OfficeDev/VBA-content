@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumber.Alignment
 ms.assetid: 6f5802da-6454-f500-d4dc-3e5fdffcaff4
+ms.date: 06/08/2017
 ---
 
 

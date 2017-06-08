@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddMediaObject2
 ms.assetid: 157499e5-1b90-d85f-b1d8-85a115fc907e
+ms.date: 06/08/2017
 ---
 
 

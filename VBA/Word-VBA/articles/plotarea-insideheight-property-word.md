@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.InsideHeight
 ms.assetid: f169e862-a18e-614b-d79b-ef874bd170d3
+ms.date: 06/08/2017
 ---
 
 

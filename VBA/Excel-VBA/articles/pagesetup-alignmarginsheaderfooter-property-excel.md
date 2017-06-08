@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.AlignMarginsHeaderFooter
 ms.assetid: b5fde8f6-3e77-e3f1-422b-af88ec31d6ea
+ms.date: 06/08/2017
 ---
 
 

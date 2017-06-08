@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Event.GetFilterCommands
 ms.assetid: 47664b2f-702b-1c61-1746-9b5fd470a8f4
+ms.date: 06/08/2017
 ---
 
 

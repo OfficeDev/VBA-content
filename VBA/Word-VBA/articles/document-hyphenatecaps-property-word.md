@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.HyphenateCaps
 ms.assetid: 13f421aa-7e37-4f13-9b34-7ed139421e17
+ms.date: 06/08/2017
 ---
 
 

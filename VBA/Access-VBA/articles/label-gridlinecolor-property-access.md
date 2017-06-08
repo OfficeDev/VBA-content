@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.GridlineColor
 ms.assetid: f6982726-825a-1ef2-286d-b1f567678002
+ms.date: 06/08/2017
 ---
 
 

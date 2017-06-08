@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.DownloadState
 ms.assetid: 3ddd05d1-fa91-6d5e-cb02-5a9df90ad2af
+ms.date: 06/08/2017
 ---
 
 

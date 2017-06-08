@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddGroupWizard
 ms.assetid: 5a84f055-7f30-0757-f507-40ee34b214f4
+ms.date: 06/08/2017
 ---
 
 

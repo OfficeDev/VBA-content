@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.DeleteConnectorsEnabled
 ms.assetid: adb52279-5837-08be-ce73-231656ef7640
+ms.date: 06/08/2017
 ---
 
 

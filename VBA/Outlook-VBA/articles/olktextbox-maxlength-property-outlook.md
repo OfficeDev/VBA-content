@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.MaxLength
 ms.assetid: 7e7621e9-817a-ac05-a4de-e86656a021b1
+ms.date: 06/08/2017
 ---
 
 

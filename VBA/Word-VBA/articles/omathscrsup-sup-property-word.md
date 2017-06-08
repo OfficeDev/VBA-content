@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathScrSup.Sup
 ms.assetid: 336bd4ec-9edd-3c46-7c5a-7203a73dc322
+ms.date: 06/08/2017
 ---
 
 

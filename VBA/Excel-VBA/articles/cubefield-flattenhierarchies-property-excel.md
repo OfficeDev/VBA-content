@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.FlattenHierarchies
 ms.assetid: bb97acc3-199b-6c40-e5b5-d411eb40b7e6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.SendAndReceive
 ms.assetid: 196b15b0-6766-ca2a-8dbe-991fc93b8307
+ms.date: 06/08/2017
 ---
 
 

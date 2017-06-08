@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.Adjustments
 ms.assetid: 14794cba-c671-51e3-0aac-52e885a4ba7f
+ms.date: 06/08/2017
 ---
 
 

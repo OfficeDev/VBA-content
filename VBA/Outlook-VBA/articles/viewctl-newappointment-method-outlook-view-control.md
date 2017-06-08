@@ -2,6 +2,7 @@
 title: ViewCtl.NewAppointment Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: aa57a29b-b197-fa23-3dcc-5778e4f7dbef
+ms.date: 06/08/2017
 ---
 
 

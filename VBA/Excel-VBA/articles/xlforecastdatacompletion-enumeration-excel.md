@@ -1,6 +1,7 @@
 ---
 title: XlForecastDataCompletion Enumeration (Excel)
 ms.assetid: 0407a50c-2efe-1522-7666-b5a8b4e72a83
+ms.date: 06/08/2017
 ---
 
 

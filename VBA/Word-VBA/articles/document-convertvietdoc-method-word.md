@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ConvertVietDoc
 ms.assetid: d03f0ad4-0e40-45a7-5189-1cbfa7328b2c
+ms.date: 06/08/2017
 ---
 
 

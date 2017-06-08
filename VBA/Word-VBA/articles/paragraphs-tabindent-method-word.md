@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.TabIndent
 ms.assetid: 37a7ea00-c9c5-c3a4-c01a-020f5cfd0ad7
+ms.date: 06/08/2017
 ---
 
 

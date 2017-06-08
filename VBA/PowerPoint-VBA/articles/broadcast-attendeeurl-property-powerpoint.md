@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Broadcast.AttendeeUrl
 ms.assetid: 40dcc32f-0c88-e1f1-b232-2dc5d27959cb
+ms.date: 06/08/2017
 ---
 
 

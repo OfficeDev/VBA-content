@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.IsHyperlink
 ms.assetid: 005d21a1-c44c-c0a6-f625-2b3f8f4f8f91
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Rule.Parent
 ms.assetid: d8b810ee-76c6-9aa4-68ca-97a62a35c81c
+ms.date: 06/08/2017
 ---
 
 

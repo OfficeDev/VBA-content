@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabels.VerticalAlignment
 ms.assetid: fac981a5-11a2-aef2-0f23-a163299c8a73
+ms.date: 06/08/2017
 ---
 
 

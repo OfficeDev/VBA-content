@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.TabStop
 ms.assetid: d1cb97a8-49f8-deb7-66d6-e402da45fc74
+ms.date: 06/08/2017
 ---
 
 

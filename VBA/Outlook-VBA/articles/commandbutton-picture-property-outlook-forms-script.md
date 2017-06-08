@@ -2,6 +2,7 @@
 title: CommandButton.Picture Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: b92228be-dda7-fdde-2d0c-8e59f544d8db
+ms.date: 06/08/2017
 ---
 
 

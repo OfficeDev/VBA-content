@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.OnDblClick
 ms.assetid: 65700447-c7bf-7b7f-ea2e-75e4c8fff70a
+ms.date: 06/08/2017
 ---
 
 

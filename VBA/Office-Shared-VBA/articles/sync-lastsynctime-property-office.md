@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Sync.LastSyncTime
 ms.assetid: d85af059-a39e-e100-c81a-06265b43cade
+ms.date: 06/08/2017
 ---
 
 

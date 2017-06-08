@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.NewWindow
 ms.assetid: 0cca00d4-9cf4-6a30-b9f2-a37fbad69296
+ms.date: 06/08/2017
 ---
 
 

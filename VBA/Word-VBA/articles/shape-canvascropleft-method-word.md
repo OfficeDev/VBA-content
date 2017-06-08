@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.CanvasCropLeft
 ms.assetid: d25b5c0e-82e7-1a33-9889-7b3df7f22802
+ms.date: 06/08/2017
 ---
 
 

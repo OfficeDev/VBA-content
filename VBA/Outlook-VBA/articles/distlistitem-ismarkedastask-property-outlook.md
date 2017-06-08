@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.IsMarkedAsTask
 ms.assetid: 6dc846e0-c6a6-2151-13e7-f305772b5ae8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FileExportConverters.Count
 ms.assetid: b1c0d01d-104f-b92d-55c8-4bce5d96d097
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlTimeUnit
 ms.assetid: 7da25d66-7339-9cb2-13da-81dda86a55b4
+ms.date: 06/08/2017
 ---
 
 

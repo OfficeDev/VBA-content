@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.GridSpaceBetweenHorizontalLines
 ms.assetid: 79cac143-588d-d719-c653-f24852f288b6
+ms.date: 06/08/2017
 ---
 
 

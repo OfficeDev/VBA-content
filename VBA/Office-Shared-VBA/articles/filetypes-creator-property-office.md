@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileTypes.Creator
 ms.assetid: c3e9d104-e60b-4b8b-eb1c-95553dcefd89
+ms.date: 06/08/2017
 ---
 
 

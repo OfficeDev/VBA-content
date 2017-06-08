@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.NestingLevel
 ms.assetid: 24da16e0-3713-3c74-71e9-03e886802e9f
+ms.date: 06/08/2017
 ---
 
 

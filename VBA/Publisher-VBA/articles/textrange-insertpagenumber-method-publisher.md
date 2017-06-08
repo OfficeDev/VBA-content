@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.InsertPageNumber
 ms.assetid: f71d3b40-0263-93fa-d7e3-d815b90f71f7
+ms.date: 06/08/2017
 ---
 
 

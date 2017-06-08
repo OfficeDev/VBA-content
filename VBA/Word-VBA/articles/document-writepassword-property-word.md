@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.WritePassword
 ms.assetid: e3353e68-1196-d896-d978-2c49ceca2940
+ms.date: 06/08/2017
 ---
 
 

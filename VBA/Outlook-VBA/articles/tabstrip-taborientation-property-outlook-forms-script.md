@@ -2,6 +2,7 @@
 title: TabStrip.TabOrientation Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 360ea7af-7433-d1c9-f5bc-a60ddc1e1851
+ms.date: 06/08/2017
 ---
 
 

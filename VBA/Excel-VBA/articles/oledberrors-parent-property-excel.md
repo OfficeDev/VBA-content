@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEDBErrors.Parent
 ms.assetid: 6891438b-136f-a591-4e27-29e5986857a3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.Width
 ms.assetid: 78a6f0ca-2a29-933b-11d2-ec6967d00898
+ms.date: 06/08/2017
 ---
 
 

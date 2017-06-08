@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Walls.ClearFormats
 ms.assetid: d301670d-788c-fee8-2835-cb53725ee0ea
+ms.date: 06/08/2017
 ---
 
 

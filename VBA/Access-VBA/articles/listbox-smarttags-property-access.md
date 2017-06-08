@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.SmartTags
 ms.assetid: 1f35ca6b-fde1-6dc8-4b1b-f3089eee9204
+ms.date: 06/08/2017
 ---
 
 

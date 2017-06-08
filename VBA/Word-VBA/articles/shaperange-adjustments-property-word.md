@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Adjustments
 ms.assetid: 54060aed-b98d-c6dc-32a7-3c7115573171
+ms.date: 06/08/2017
 ---
 
 

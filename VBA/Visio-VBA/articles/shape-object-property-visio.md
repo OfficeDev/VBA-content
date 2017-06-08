@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Object
 ms.assetid: a2e8644a-ac7b-1bb7-9b6b-1515fb9126d2
+ms.date: 06/08/2017
 ---
 
 

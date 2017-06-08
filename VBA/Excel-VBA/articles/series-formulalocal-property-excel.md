@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.FormulaLocal
 ms.assetid: 6e2a0912-5006-d223-30a6-618642de035d
+ms.date: 06/08/2017
 ---
 
 

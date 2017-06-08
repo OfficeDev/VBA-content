@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ReloadAs
 ms.assetid: 52cab019-3084-e488-8727-24c5fd4650ce
+ms.date: 06/08/2017
 ---
 
 

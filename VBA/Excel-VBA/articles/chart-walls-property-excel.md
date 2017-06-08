@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Walls
 ms.assetid: fbee1165-7602-4d77-e5b6-8a127783c96e
+ms.date: 06/08/2017
 ---
 
 

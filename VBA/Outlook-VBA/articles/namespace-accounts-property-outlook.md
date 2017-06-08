@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.Accounts
 ms.assetid: 80e969ea-d2cc-966d-5fe4-68d59951b5c9
+ms.date: 06/08/2017
 ---
 
 

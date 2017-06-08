@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.ShowCategoriesDialog
 ms.assetid: ad74ea74-3281-837e-f14e-297dbca29693
+ms.date: 06/08/2017
 ---
 
 

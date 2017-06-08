@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HeaderFooter
 ms.assetid: 75c654df-d3f9-8448-8a7e-a0487ca0d1ab
+ms.date: 06/08/2017
 ---
 
 

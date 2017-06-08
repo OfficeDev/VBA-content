@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.GridlineStyleLeft
 ms.assetid: 25acf982-ac31-70b2-60b2-69c6ce233700
+ms.date: 06/08/2017
 ---
 
 

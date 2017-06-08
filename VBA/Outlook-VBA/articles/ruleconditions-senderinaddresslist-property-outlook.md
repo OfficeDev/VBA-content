@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleConditions.SenderInAddressList
 ms.assetid: bf836af6-fd72-d77d-dfbe-90a8038188a6
+ms.date: 06/08/2017
 ---
 
 

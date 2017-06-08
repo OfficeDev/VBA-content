@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DefaultAngleUnits
 ms.assetid: 5c7f775c-9e2b-10e0-cbc0-2ac0b922ed1a
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PayRate.Index
 ms.assetid: 03973d46-650b-bdf6-52c7-0e71d1b78ea1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.MakeServerURLTrusted
 ms.assetid: 8ef5ae1c-f22f-325c-07a9-253e64c62cb0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShadowFormat.Obscured
 ms.assetid: 9bc7382e-50cf-0364-6b5a-8aa46a12d8fb
+ms.date: 06/08/2017
 ---
 
 

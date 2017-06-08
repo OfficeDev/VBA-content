@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.AppMinimize
 ms.assetid: 3794f51b-783e-0efa-7bdc-333f2964cf1f
+ms.date: 06/08/2017
 ---
 
 

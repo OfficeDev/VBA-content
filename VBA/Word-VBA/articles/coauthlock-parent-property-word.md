@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthLock.Parent
 ms.assetid: 9e7aaa18-5714-aa56-ec08-27ec79320202
+ms.date: 06/08/2017
 ---
 
 

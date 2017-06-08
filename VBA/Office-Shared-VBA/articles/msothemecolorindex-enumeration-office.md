@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoThemeColorIndex
 ms.assetid: 2281eafa-c8f0-d620-d0eb-c301dfb6a426
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.Visible
 ms.assetid: 58166845-5448-784f-68d3-beec76738415
+ms.date: 06/08/2017
 ---
 
 

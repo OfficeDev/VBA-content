@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AddIn.IsOpen
 ms.assetid: 3fe3379a-3893-833c-e834-abda4d7b063f
+ms.date: 06/08/2017
 ---
 
 

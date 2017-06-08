@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.SmartArtLayouts
 ms.assetid: 0b175f36-6333-f073-2545-abd342492ea1
+ms.date: 06/08/2017
 ---
 
 

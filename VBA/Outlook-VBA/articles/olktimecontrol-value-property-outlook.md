@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.Value
 ms.assetid: e0cbbfd7-1cbd-2e28-f89e-b9081672a86d
+ms.date: 06/08/2017
 ---
 
 

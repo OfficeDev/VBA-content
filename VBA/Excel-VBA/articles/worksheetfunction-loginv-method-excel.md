@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.LogInv
 ms.assetid: 414a4e30-1225-279b-2981-bbb798338b18
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: PickerProperties Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 626c4341-a1b5-4a33-82fc-da208c84436c
+ms.date: 06/08/2017
 ---
 
 

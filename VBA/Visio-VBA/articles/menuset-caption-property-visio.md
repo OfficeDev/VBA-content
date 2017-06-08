@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Caption
 ms.assetid: 0339406b-b311-b5f2-8c38-2aeb86916e4c
+ms.date: 06/08/2017
 ---
 
 

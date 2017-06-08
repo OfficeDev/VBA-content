@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.Select
 ms.assetid: 4911422c-7274-a65f-363c-d6c19eb315da
+ms.date: 06/08/2017
 ---
 
 

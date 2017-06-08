@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.RecentFiles.Creator
 ms.assetid: ecceac10-8c08-2930-96ea-db6c28d936f8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Copy
 ms.assetid: e7d9ab14-7e64-f1fa-7813-62caee133b57
+ms.date: 06/08/2017
 ---
 
 

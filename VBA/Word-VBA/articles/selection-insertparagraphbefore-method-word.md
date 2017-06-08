@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertParagraphBefore
 ms.assetid: f4843e0b-0d0f-ef6f-6f7a-423b49dceb50
+ms.date: 06/08/2017
 ---
 
 

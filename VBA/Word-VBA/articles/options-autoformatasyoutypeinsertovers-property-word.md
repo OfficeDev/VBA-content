@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeInsertOvers
 ms.assetid: e79cd972-85c3-aa9a-abab-a92ceb171213
+ms.date: 06/08/2017
 ---
 
 

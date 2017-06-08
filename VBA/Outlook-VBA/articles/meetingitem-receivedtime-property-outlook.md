@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.ReceivedTime
 ms.assetid: bf27c544-3f3e-87e1-9f0c-84f1469d771d
+ms.date: 06/08/2017
 ---
 
 

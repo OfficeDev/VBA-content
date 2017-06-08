@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageBackground
 ms.assetid: 647f5a84-0971-2f69-d281-c9ab402968a4
+ms.date: 06/08/2017
 ---
 
 

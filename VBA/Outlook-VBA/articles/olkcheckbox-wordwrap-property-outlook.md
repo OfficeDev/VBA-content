@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.WordWrap
 ms.assetid: 755dc62b-93c0-30ec-dbe3-1126f1d38d11
+ms.date: 06/08/2017
 ---
 
 

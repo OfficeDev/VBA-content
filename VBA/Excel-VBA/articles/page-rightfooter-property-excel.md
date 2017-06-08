@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Page.RightFooter
 ms.assetid: 457fb633-d748-bfc4-9188-87b0a46209dc
+ms.date: 06/08/2017
 ---
 
 

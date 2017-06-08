@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObjects.Copy
 ms.assetid: e77507d2-92d6-4875-8c19-ebc08c118357
+ms.date: 06/08/2017
 ---
 
 

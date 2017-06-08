@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthoring.Creator
 ms.assetid: 4804b839-9eaa-438a-745b-16f7b55c8e1f
+ms.date: 06/08/2017
 ---
 
 

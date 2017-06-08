@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Design
 ms.assetid: 7960f99a-fa5a-1ba0-e39a-fe3afe579621
+ms.date: 06/08/2017
 ---
 
 

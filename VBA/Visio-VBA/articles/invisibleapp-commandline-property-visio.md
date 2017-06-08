@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.CommandLine
 ms.assetid: fb3646b4-5191-71b2-1d6c-23764e764865
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Container
 ms.assetid: cc0108b7-ce95-3a1b-a400-c49700a2362c
+ms.date: 06/08/2017
 ---
 
 

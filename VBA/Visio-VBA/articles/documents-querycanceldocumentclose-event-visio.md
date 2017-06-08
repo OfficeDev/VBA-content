@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.QueryCancelDocumentClose
 ms.assetid: 4627e0d7-82fd-5ab1-146b-adb77bab3bea
+ms.date: 06/08/2017
 ---
 
 

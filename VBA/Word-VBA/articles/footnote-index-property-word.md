@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnote.Index
 ms.assetid: c2bb31c1-d168-d783-4abc-9eda6d0381c6
+ms.date: 06/08/2017
 ---
 
 

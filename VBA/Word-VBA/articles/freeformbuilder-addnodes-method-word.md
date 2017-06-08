@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FreeformBuilder.AddNodes
 ms.assetid: 793e869f-2365-1ef0-f2e4-d764f67f0cb9
+ms.date: 06/08/2017
 ---
 
 

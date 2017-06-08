@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFrenchSpeller
 ms.assetid: 0942c739-63e8-fe99-64a5-31ce71aed7c0
+ms.date: 06/08/2017
 ---
 
 

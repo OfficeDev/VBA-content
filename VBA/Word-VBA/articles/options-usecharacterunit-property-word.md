@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.UseCharacterUnit
 ms.assetid: ce6e6c23-91ec-7bbc-d4fa-b2d85dcdce76
+ms.date: 06/08/2017
 ---
 
 

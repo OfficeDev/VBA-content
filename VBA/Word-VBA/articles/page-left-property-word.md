@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Page.Left
 ms.assetid: 681390e2-f121-5652-2923-aa460db0da64
+ms.date: 06/08/2017
 ---
 
 

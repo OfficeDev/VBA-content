@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.BuildingBlocks.Add
 ms.assetid: 22725f33-4de0-95cd-d4a5-a2379b0130c4
+ms.date: 06/08/2017
 ---
 
 

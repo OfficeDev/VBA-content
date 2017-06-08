@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.NumberFormatLocal
 ms.assetid: 28b0544e-e5cc-81bd-bf0b-48b6a8015fbb
+ms.date: 06/08/2017
 ---
 
 

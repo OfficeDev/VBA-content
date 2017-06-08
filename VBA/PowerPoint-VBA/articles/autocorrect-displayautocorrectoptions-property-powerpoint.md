@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AutoCorrect.DisplayAutoCorrectOptions
 ms.assetid: d3d769aa-af42-27c2-1c8e-39684d4f70a7
+ms.date: 06/08/2017
 ---
 
 

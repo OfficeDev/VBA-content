@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.UserProperty.ValidationText
 ms.assetid: f2defd65-2c48-a24a-8cdc-a05b752cde53
+ms.date: 06/08/2017
 ---
 
 

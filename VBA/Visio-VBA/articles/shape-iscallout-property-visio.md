@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.IsCallout
 ms.assetid: 6977e383-41c5-effe-4ac9-88cfc0476813
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.DoubleClick
 ms.assetid: db7b9427-b6ee-92d9-4d4d-a7b2b54f4ece
+ms.date: 06/08/2017
 ---
 
 

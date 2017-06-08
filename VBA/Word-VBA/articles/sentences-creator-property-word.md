@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sentences.Creator
 ms.assetid: 69465368-9258-cfc2-f469-69b27940e24e
+ms.date: 06/08/2017
 ---
 
 

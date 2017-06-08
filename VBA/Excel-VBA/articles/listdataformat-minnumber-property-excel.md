@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListDataFormat.MinNumber
 ms.assetid: 97d5cc98-ab65-7355-0a54-3b48d7b15cf5
+ms.date: 06/08/2017
 ---
 
 

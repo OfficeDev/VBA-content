@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Information
 ms.assetid: 73028751-6339-47e6-9629-9584cc4c59ec
+ms.date: 06/08/2017
 ---
 
 

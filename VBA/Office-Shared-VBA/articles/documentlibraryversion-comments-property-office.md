@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentLibraryVersion.Comments
 ms.assetid: ce99f474-527a-4895-c360-7e5d02435655
+ms.date: 06/08/2017
 ---
 
 

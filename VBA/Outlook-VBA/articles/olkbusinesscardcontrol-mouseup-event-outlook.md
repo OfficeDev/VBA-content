@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkBusinessCardControl.MouseUp
 ms.assetid: 877e7ab8-6b5e-f06a-db9a-9e9079110e9a
+ms.date: 06/08/2017
 ---
 
 

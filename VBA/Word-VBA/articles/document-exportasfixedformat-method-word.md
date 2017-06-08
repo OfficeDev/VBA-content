@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ExportAsFixedFormat
 ms.assetid: fe248ff2-0a2a-b10e-fed9-d5bfb73ff1b2
+ms.date: 06/08/2017
 ---
 
 

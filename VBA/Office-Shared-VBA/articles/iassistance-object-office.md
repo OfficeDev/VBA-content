@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IAssistance
 ms.assetid: c8327d45-a6a2-dc4c-67f0-d02598eb60ba
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Interior.InvertIfNegative
 ms.assetid: 3bba925e-449a-391d-e69c-c22956c160c6
+ms.date: 06/08/2017
 ---
 
 

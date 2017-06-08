@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.ControlTipText
 ms.assetid: 8562dde5-4bc7-92fb-347b-dd45e0eb413a
+ms.date: 06/08/2017
 ---
 
 

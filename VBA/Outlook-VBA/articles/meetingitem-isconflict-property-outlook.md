@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.IsConflict
 ms.assetid: 1e84c838-06f6-823f-1605-8085d42bb0a0
+ms.date: 06/08/2017
 ---
 
 

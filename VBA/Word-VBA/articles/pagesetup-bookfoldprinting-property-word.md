@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.BookFoldPrinting
 ms.assetid: 05bed9bc-5a93-9978-6faf-3fbc6d7239a3
+ms.date: 06/08/2017
 ---
 
 

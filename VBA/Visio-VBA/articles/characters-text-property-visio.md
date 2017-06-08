@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.Text
 ms.assetid: ebfa0548-4150-f6a6-8362-8bd3c2c36f93
+ms.date: 06/08/2017
 ---
 
 

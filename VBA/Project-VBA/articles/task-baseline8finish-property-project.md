@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline8Finish
 ms.assetid: 1c342aa3-c02c-80f9-613a-6f1a251b3c5f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Mailer.BCCRecipients
 ms.assetid: 68ddc18b-d96e-4e88-1123-8b3d94fb9209
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathDelim.BegChar
 ms.assetid: f63e00fc-0a91-075c-7c24-fbac30162088
+ms.date: 06/08/2017
 ---
 
 

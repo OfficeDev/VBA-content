@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 2dbe3666-2400-0142-01f8-995091f12311
+ms.date: 06/08/2017
 ---
 
 

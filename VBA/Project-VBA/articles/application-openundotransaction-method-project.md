@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OpenUndoTransaction
 ms.assetid: b94b2c87-786c-46d6-50d3-d20614493f8f
+ms.date: 06/08/2017
 ---
 
 

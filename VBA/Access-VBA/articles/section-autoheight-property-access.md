@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.AutoHeight
 ms.assetid: e3398f5c-cf1c-1d3e-1a70-8233adbb0c85
+ms.date: 06/08/2017
 ---
 
 

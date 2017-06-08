@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.ID
 ms.assetid: b95dd429-333c-59e6-23b1-dde9ee0eac4c
+ms.date: 06/08/2017
 ---
 
 

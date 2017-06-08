@@ -4,6 +4,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeFilterCriterion.Application
 ms.assetid: 23438144-f791-8c76-d81c-aa40f592b948
+ms.date: 06/08/2017
 ---
 
 

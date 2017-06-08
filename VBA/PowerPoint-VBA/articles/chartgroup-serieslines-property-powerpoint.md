@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.SeriesLines
 ms.assetid: 40282a82-5912-b5b1-b556-a53c66483502
+ms.date: 06/08/2017
 ---
 
 

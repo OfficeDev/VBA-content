@@ -2,6 +2,7 @@
 title: Page.BeforeReplaceShapes Event (Visio)
 ms.prod: VISIO
 ms.assetid: 57ea9836-74dd-77c2-6541-f8f61b89c0b6
+ms.date: 06/08/2017
 ---
 
 

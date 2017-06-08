@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFormat.PictureFormat
 ms.assetid: eeaf72f4-55c7-995b-b91d-ae0ffa45ffb8
+ms.date: 06/08/2017
 ---
 
 

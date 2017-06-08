@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.CurrentScope
 ms.assetid: a45fd841-efb4-90b6-65fb-21f9f8e8ea0c
+ms.date: 06/08/2017
 ---
 
 

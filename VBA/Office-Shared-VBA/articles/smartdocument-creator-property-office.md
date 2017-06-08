@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartDocument.Creator
 ms.assetid: e0928b40-f565-e063-83f4-f730c41ca77e
+ms.date: 06/08/2017
 ---
 
 

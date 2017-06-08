@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.SenderEmailType
 ms.assetid: e82cb8a6-d480-d1d1-ad15-a498ada6de37
+ms.date: 06/08/2017
 ---
 
 

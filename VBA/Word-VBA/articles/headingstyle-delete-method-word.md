@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadingStyle.Delete
 ms.assetid: f5f01d24-eb67-528a-bd6a-31e0d59e93cd
+ms.date: 06/08/2017
 ---
 
 

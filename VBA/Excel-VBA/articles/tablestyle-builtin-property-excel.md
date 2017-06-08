@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TableStyle.BuiltIn
 ms.assetid: f2418768-1080-ea88-bc78-3c9afcb4ef73
+ms.date: 06/08/2017
 ---
 
 

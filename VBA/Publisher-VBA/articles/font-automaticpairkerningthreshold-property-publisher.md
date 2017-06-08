@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.AutomaticPairKerningThreshold
 ms.assetid: f5f43a19-7227-b25d-9322-84a79596c525
+ms.date: 06/08/2017
 ---
 
 

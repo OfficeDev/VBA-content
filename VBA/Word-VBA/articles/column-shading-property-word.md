@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Column.Shading
 ms.assetid: d85b6720-6be8-6c2d-6e14-7c30c40f83ec
+ms.date: 06/08/2017
 ---
 
 

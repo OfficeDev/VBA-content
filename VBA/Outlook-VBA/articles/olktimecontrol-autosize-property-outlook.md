@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.AutoSize
 ms.assetid: 13b23cae-3e15-5ed2-aa0e-bab7f1a6e3ea
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewShowCumulativeWork
 ms.assetid: ca31034e-5080-2e88-5742-b8def3b11278
+ms.date: 06/08/2017
 ---
 
 

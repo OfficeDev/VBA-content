@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Sensitivity
 ms.assetid: c492be82-093d-547e-85f1-d35c6ee6ba2b
+ms.date: 06/08/2017
 ---
 
 

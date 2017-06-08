@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlRowCol
 ms.assetid: 78f808d5-e5e4-bee8-93ae-d2589d854fe7
+ms.date: 06/08/2017
 ---
 
 

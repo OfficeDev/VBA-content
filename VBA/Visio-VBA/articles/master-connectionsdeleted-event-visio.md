@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.ConnectionsDeleted
 ms.assetid: dc043012-d653-8f37-372e-f7532047aa81
+ms.date: 06/08/2017
 ---
 
 

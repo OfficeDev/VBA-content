@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.MarkForDownload
 ms.assetid: 4fae4f9a-00ac-71d9-0d72-83209c475bf0
+ms.date: 06/08/2017
 ---
 
 

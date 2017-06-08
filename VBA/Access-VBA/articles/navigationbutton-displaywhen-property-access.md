@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.DisplayWhen
 ms.assetid: 58e02cb9-b161-3116-4905-5989ce9a1f75
+ms.date: 06/08/2017
 ---
 
 

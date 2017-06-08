@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.MediaControlsWidth
 ms.assetid: 02a81c3e-c19d-183a-c9e4-08decf01d30f
+ms.date: 06/08/2017
 ---
 
 

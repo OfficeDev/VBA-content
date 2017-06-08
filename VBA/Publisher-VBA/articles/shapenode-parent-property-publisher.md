@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeNode.Parent
 ms.assetid: 1626a200-8608-70fe-19be-89056eafc256
+ms.date: 06/08/2017
 ---
 
 

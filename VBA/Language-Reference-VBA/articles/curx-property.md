@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CurX
 ms.assetid: cbb6c8e9-13f2-61e7-9577-ceeef71ca2be
+ms.date: 06/08/2017
 ---
 
 

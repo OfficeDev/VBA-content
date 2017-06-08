@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Walls.Paste
 ms.assetid: 97c99ea4-065d-b52e-21c5-8d42eb861a82
+ms.date: 06/08/2017
 ---
 
 

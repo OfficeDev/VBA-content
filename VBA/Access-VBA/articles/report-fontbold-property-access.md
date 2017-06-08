@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.FontBold
 ms.assetid: 0a3589d9-96a3-0a48-03a5-4e08f9da2c74
+ms.date: 06/08/2017
 ---
 
 

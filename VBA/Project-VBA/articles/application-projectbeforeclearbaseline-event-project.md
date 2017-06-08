@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeClearBaseline
 ms.assetid: 4aa11658-7962-a46f-c914-5ed3bebd15a3
+ms.date: 06/08/2017
 ---
 
 

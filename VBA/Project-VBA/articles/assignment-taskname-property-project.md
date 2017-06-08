@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.TaskName
 ms.assetid: 9fb4480c-520d-1a8b-a07f-b83497e07467
+ms.date: 06/08/2017
 ---
 
 

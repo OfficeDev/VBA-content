@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conversation.SetAlwaysAssignCategories
 ms.assetid: 9b19f083-3aa9-8a0b-ea91-ff52fe46ad35
+ms.date: 06/08/2017
 ---
 
 

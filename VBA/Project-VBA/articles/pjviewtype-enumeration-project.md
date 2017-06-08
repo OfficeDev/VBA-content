@@ -2,6 +2,7 @@
 title: PjViewType Enumeration (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: b9173645-e4f9-e514-a5a3-1d57241e3a66
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.OpenDataAccessPage
 ms.assetid: 130dcb88-e3e6-25a6-186c-bf541d114169
+ms.date: 06/08/2017
 ---
 
 

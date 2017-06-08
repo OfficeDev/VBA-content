@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.ThreeD
 ms.assetid: bd6daf41-3c0f-d59a-bc51-3fe606d2562d
+ms.date: 06/08/2017
 ---
 
 

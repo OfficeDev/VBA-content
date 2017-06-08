@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Categories.Creator
 ms.assetid: 7419019c-d6b1-1f10-5bb4-7e87f8c4acf1
+ms.date: 06/08/2017
 ---
 
 

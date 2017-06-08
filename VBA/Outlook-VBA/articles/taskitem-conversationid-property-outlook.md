@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.ConversationID
 ms.assetid: 69b28ef6-5521-944c-f908-df715e837c36
+ms.date: 06/08/2017
 ---
 
 

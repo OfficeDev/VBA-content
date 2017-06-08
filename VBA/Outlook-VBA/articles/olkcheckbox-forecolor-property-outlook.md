@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.ForeColor
 ms.assetid: 1c38bdb4-8256-4db7-5f95-68e4e31303a7
+ms.date: 06/08/2017
 ---
 
 

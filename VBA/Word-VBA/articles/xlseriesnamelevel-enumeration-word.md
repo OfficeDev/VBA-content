@@ -2,6 +2,7 @@
 title: XlSeriesNameLevel Enumeration (Word)
 ms.prod: WORD
 ms.assetid: e1ddc9ae-c54b-299c-c252-351f239fd759
+ms.date: 06/08/2017
 ---
 
 

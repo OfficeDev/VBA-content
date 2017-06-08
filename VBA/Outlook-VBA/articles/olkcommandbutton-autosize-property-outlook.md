@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.AutoSize
 ms.assetid: 7212c7d1-27d9-25f2-e486-e18bc26d77f5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.Application
 ms.assetid: 37ca1a31-13dd-cd78-7622-15566bfbae98
+ms.date: 06/08/2017
 ---
 
 

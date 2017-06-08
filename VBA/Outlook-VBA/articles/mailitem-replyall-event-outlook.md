@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ReplyAll
 ms.assetid: f303adaf-71a3-e855-403d-2a6a3c8f9ceb
+ms.date: 06/08/2017
 ---
 
 

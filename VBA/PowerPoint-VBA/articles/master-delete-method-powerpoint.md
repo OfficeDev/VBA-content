@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.Delete
 ms.assetid: 604d32e9-c47e-e236-de5c-7ada3e5da9ef
+ms.date: 06/08/2017
 ---
 
 

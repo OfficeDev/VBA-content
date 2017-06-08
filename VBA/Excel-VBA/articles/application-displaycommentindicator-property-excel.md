@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayCommentIndicator
 ms.assetid: 8617da4e-97cb-fe57-bb51-a9c671e2ff27
+ms.date: 06/08/2017
 ---
 
 

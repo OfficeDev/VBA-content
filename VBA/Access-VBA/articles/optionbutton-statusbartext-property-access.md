@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.StatusBarText
 ms.assetid: d3cda3a2-1b19-6b12-6d22-0cfd1b869933
+ms.date: 06/08/2017
 ---
 
 

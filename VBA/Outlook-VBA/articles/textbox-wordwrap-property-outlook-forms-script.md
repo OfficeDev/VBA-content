@@ -2,6 +2,7 @@
 title: TextBox.WordWrap Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: fb50b340-9fe7-17b5-4f5f-d2fdd266f37d
+ms.date: 06/08/2017
 ---
 
 

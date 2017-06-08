@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcNavigationSpan
 ms.assetid: 355a6133-aceb-d412-07f9-842b65a03a0f
+ms.date: 06/08/2017
 ---
 
 

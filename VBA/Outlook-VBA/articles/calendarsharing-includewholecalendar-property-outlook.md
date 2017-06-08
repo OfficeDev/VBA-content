@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarSharing.IncludeWholeCalendar
 ms.assetid: 6cb75f0e-afb9-48fc-5b96-9f64a3b2ed6f
+ms.date: 06/08/2017
 ---
 
 

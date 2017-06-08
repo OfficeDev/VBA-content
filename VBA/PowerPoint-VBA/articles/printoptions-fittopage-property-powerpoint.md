@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.FitToPage
 ms.assetid: 53476904-fcbd-0a53-3e64-5c64799c8327
+ms.date: 06/08/2017
 ---
 
 

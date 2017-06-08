@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.OneD
 ms.assetid: 917f8cfc-a2fc-7572-936a-69956d139131
+ms.date: 06/08/2017
 ---
 
 

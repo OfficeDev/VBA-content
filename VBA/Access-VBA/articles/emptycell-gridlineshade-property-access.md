@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.EmptyCell.GridlineShade
 ms.assetid: 64a15ee8-809a-1ce4-186b-c8b2eee50152
+ms.date: 06/08/2017
 ---
 
 

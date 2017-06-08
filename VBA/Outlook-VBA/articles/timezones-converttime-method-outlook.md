@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimeZones.ConvertTime
 ms.assetid: 6a935961-2030-ed9c-5c1b-4e6641ee3913
+ms.date: 06/08/2017
 ---
 
 

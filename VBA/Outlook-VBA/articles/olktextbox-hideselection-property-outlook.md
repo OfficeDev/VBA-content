@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.HideSelection
 ms.assetid: 88999d62-3dee-cfdc-85ae-e9c71f16dadf
+ms.date: 06/08/2017
 ---
 
 

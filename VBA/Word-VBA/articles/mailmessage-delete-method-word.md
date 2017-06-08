@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.Delete
 ms.assetid: edcc5de5-4421-7819-8c78-d88e8b963dfa
+ms.date: 06/08/2017
 ---
 
 

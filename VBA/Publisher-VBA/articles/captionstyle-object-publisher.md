@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CaptionStyle
 ms.assetid: f6ac42fc-4557-c10c-d46e-89015719ed3a
+ms.date: 06/08/2017
 ---
 
 

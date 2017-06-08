@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.ForeignType
 ms.assetid: a6cda280-bf0c-b8b0-0750-0ec5fbad90e0
+ms.date: 06/08/2017
 ---
 
 

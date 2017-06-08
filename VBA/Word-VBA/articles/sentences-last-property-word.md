@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sentences.Last
 ms.assetid: b116502a-ee26-934b-aa19-c589aafd90a0
+ms.date: 06/08/2017
 ---
 
 

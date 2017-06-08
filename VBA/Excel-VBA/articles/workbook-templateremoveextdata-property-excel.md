@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.TemplateRemoveExtData
 ms.assetid: 9851df1d-4e83-525a-8a43-bd84b0a94c74
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EditGoTo
 ms.assetid: cd2c886b-fddf-d7b8-8f16-51a3af5f0005
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLPrefixMappings.LookupNamespace
 ms.assetid: 33a8f054-0e67-0c9e-ce4b-c9d3360df1a6
+ms.date: 06/08/2017
 ---
 
 

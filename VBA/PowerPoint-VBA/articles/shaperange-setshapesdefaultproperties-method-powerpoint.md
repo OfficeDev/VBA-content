@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.SetShapesDefaultProperties
 ms.assetid: 169f174a-1e2a-370e-663c-08a851f1e4d3
+ms.date: 06/08/2017
 ---
 
 

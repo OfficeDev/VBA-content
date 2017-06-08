@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Select
 ms.assetid: ea62372a-6fbb-219c-c426-12f9452ce447
+ms.date: 06/08/2017
 ---
 
 

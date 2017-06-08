@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Constants
 ms.assetid: 498b9056-a7f4-ad18-0955-eacef759d5fd
+ms.date: 06/08/2017
 ---
 
 

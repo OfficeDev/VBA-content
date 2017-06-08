@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CaptionLabels.Count
 ms.assetid: 5df0454f-684d-ed9e-9611-15ca84e0bd26
+ms.date: 06/08/2017
 ---
 
 

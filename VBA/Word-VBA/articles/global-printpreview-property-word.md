@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.PrintPreview
 ms.assetid: f9da7e12-0d4b-4d1c-fd53-219f0f9c146f
+ms.date: 06/08/2017
 ---
 
 

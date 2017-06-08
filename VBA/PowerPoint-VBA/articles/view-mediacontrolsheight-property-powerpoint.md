@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.View.MediaControlsHeight
 ms.assetid: 4af9f2a8-2e5d-42ba-f196-e8c1f07fcf47
+ms.date: 06/08/2017
 ---
 
 

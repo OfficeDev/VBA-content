@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcPrintOrientation
 ms.assetid: 578d3392-3be4-7578-c161-deb8ef1eea1d
+ms.date: 06/08/2017
 ---
 
 

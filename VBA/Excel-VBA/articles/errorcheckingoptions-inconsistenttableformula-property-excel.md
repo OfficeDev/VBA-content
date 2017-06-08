@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorCheckingOptions.InconsistentTableFormula
 ms.assetid: ca8ef9c1-c56f-3c63-2f33-7fda987fb0c1
+ms.date: 06/08/2017
 ---
 
 

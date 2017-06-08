@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.GrammaticalErrors
 ms.assetid: 2535ba4d-1c5c-3dc2-2ddc-14c8a5625f41
+ms.date: 06/08/2017
 ---
 
 

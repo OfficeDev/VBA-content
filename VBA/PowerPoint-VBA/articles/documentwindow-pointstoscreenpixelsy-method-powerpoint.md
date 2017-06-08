@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.PointsToScreenPixelsY
 ms.assetid: 0a5a96c6-3e91-31c6-ee60-ca1f8481daf0
+ms.date: 06/08/2017
 ---
 
 

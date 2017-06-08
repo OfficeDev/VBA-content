@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Subdocument.Open
 ms.assetid: c2e40618-ab0c-3337-609f-231f1699f2bd
+ms.date: 06/08/2017
 ---
 
 

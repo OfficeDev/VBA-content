@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.ColumnGutterWidth
 ms.assetid: 1c8fd297-1164-da50-cee8-390263cce5b0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HeadersFooters.Clear
 ms.assetid: ce2aed25-aef4-a090-a540-bc09fa26e653
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.ActivePane
 ms.assetid: 8fa4c8a1-37b6-2676-1cfd-5fa2b130d2e3
+ms.date: 06/08/2017
 ---
 
 

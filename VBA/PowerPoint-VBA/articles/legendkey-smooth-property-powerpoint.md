@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.Smooth
 ms.assetid: 7ba0f917-8e65-047d-513c-004ecef82aac
+ms.date: 06/08/2017
 ---
 
 

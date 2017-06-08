@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetChange
 ms.assetid: 37e727d8-255c-ac23-45d8-13a8e7639991
+ms.date: 06/08/2017
 ---
 
 

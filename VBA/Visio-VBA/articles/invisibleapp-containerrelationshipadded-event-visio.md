@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ContainerRelationshipAdded
 ms.assetid: 18d47470-f361-dc9d-2547-4b7bf81db453
+ms.date: 06/08/2017
 ---
 
 

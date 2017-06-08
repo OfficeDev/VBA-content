@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Send
 ms.assetid: 28c7171e-df79-8a5d-5c3c-138ec3b3ee9b
+ms.date: 06/08/2017
 ---
 
 

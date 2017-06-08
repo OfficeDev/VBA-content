@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextRetrievalMode.IncludeFieldCodes
 ms.assetid: 9055d78b-ddf4-3e58-a42d-813ef838cdf2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Area3DGroup
 ms.assetid: 4274ca69-7a9d-76d9-7a57-814b6246d94f
+ms.date: 06/08/2017
 ---
 
 

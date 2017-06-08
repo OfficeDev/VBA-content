@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextFrame2.PathFormat
 ms.assetid: 66148447-5bb8-5e15-0959-e2282fb4bd00
+ms.date: 06/08/2017
 ---
 
 

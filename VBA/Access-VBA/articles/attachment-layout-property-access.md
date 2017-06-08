@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Layout
 ms.assetid: 1256c89d-96d6-20de-1a37-31c92e5e6ddb
+ms.date: 06/08/2017
 ---
 
 

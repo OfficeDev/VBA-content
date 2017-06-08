@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebNavigationBarSets
 ms.assetid: 0c4f62c7-b7b2-a7bc-60f8-8097fe99fe58
+ms.date: 06/08/2017
 ---
 
 

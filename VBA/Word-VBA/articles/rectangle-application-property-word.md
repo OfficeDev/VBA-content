@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rectangle.Application
 ms.assetid: ea5879bb-9fdf-43c5-00be-805878ef04da
+ms.date: 06/08/2017
 ---
 
 

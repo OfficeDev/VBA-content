@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ConnectorFormat.BeginConnectedShape
 ms.assetid: 9ff6c949-72c7-32e9-d1dc-6a0a3b861135
+ms.date: 06/08/2017
 ---
 
 

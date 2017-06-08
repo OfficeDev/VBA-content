@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.QuickStyle
 ms.assetid: 6942b679-445e-b969-31d3-54051097e7e0
+ms.date: 06/08/2017
 ---
 
 

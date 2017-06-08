@@ -2,6 +2,7 @@
 title: Visual Basic add-in model reference
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 4cb81d38-3a23-4dd2-9541-3d623b1cd1a2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Table.RowHeight
 ms.assetid: 923379b4-5c36-cd84-43a0-48f334758855
+ms.date: 06/08/2017
 ---
 
 

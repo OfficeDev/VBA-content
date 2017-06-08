@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Windows.BreakSideBySide
 ms.assetid: 86e02a0d-4449-30e9-69a1-984e815711d4
+ms.date: 06/08/2017
 ---
 
 

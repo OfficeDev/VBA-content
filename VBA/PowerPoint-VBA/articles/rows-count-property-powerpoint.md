@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Rows.Count
 ms.assetid: bfb443ea-abe0-401e-3aa9-ff47aa081c13
+ms.date: 06/08/2017
 ---
 
 

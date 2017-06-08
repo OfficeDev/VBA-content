@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Email2DisplayName
 ms.assetid: 37a4cbfb-8318-d968-353d-bee87536794e
+ms.date: 06/08/2017
 ---
 
 

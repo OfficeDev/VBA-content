@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ThemeName
 ms.assetid: 9efd26b1-7426-1ff4-0b51-5463a2beb822
+ms.date: 06/08/2017
 ---
 
 

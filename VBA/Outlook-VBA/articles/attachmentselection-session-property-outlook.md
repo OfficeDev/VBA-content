@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AttachmentSelection.Session
 ms.assetid: cd03fab6-60bd-5e71-3053-b6cc61fda58f
+ms.date: 06/08/2017
 ---
 
 

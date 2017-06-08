@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Fragment
 ms.assetid: e648675f-e60a-6a21-182e-32aa913df335
+ms.date: 06/08/2017
 ---
 
 

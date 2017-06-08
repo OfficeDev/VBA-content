@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.SnapStrengthGeometryY
 ms.assetid: 8e5b3bf3-4cb6-af1c-1812-863c247608b9
+ms.date: 06/08/2017
 ---
 
 

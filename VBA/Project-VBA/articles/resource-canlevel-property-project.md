@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.CanLevel
 ms.assetid: 21d1f14d-4d53-21b4-a164-cf6ab9e2cf98
+ms.date: 06/08/2017
 ---
 
 

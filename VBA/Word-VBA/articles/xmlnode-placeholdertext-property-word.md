@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNode.PlaceholderText
 ms.assetid: a7c8fc01-ecb7-3587-8ae1-3c340446a304
+ms.date: 06/08/2017
 ---
 
 

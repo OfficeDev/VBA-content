@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListTemplate.ListLevels
 ms.assetid: ed3c036d-b9be-eeb1-5894-ddf1e2a5f8df
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.InPlace
 ms.assetid: 2784b807-0d66-e1db-4936-1b552c06d46b
+ms.date: 06/08/2017
 ---
 
 

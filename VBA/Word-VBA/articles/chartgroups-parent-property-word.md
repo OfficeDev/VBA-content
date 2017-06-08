@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroups.Parent
 ms.assetid: 8b7b21d8-11e5-ceac-34a4-bdcbc99a712c
+ms.date: 06/08/2017
 ---
 
 

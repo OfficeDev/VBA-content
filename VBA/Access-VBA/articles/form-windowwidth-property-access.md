@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.WindowWidth
 ms.assetid: 81839600-01e6-0462-3cf0-48de708e3d64
+ms.date: 06/08/2017
 ---
 
 

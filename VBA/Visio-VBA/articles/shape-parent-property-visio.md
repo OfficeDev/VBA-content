@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Parent
 ms.assetid: aada0bc1-75e3-8357-3ef9-597a10250860
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Concepts (Outlook VBA reference)
 ms.prod: OUTLOOK
 ms.assetid: 98b66ea0-ef43-fda8-8893-b49cef9c28da
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.PresetDrop
 ms.assetid: e0f99665-4619-334a-a7bb-e53d5f8ef5ec
+ms.date: 06/08/2017
 ---
 
 

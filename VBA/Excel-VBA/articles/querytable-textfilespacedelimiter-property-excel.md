@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileSpaceDelimiter
 ms.assetid: d2c5fb8a-f235-d6d4-a73c-29477ea24fe4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.InsertAfter
 ms.assetid: f647be29-68c7-b221-adf1-fa233583e74e
+ms.date: 06/08/2017
 ---
 
 

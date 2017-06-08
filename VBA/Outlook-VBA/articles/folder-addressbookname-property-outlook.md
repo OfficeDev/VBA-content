@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.AddressBookName
 ms.assetid: e80535e9-216f-03a6-36a1-3776b5862e96
+ms.date: 06/08/2017
 ---
 
 

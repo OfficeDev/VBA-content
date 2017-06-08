@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Apply
 ms.assetid: 4aabc231-0854-070e-01d3-5ac48d16afbd
+ms.date: 06/08/2017
 ---
 
 

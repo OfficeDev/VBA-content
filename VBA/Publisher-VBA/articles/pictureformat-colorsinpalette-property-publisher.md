@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.ColorsInPalette
 ms.assetid: 34e671b1-af0e-0dac-1429-246facae975b
+ms.date: 06/08/2017
 ---
 
 

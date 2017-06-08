@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ValueChange.Application
 ms.assetid: a4bf69c2-47f4-e622-75c7-e48ee2731c83
+ms.date: 06/08/2017
 ---
 
 

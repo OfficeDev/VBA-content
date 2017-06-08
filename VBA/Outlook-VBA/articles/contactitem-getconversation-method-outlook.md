@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.GetConversation
 ms.assetid: 19609cbf-d6ad-8a66-5a42-0010cd2797ee
+ms.date: 06/08/2017
 ---
 
 

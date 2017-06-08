@@ -2,6 +2,7 @@
 title: Export a Report to XML
 ms.prod: ACCESS
 ms.assetid: 7e746a40-6227-1481-f631-702c3cf42d0f
+ms.date: 06/08/2017
 ---
 
 

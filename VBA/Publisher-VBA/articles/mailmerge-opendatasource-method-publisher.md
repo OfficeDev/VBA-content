@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMerge.OpenDataSource
 ms.assetid: 4473e566-687f-595e-9fd6-a5483021cb48
+ms.date: 06/08/2017
 ---
 
 

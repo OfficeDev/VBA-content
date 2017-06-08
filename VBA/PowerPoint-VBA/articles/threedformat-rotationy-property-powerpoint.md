@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.RotationY
 ms.assetid: 1e39544d-e95d-7419-8d6b-140696a43895
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HasMajorGridlines
 ms.assetid: f3c22d5d-4150-43b1-5f0d-3d49049e1e24
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.HasContinued
 ms.assetid: 843cb415-5cab-f380-f6f9-854f91393576
+ms.date: 06/08/2017
 ---
 
 

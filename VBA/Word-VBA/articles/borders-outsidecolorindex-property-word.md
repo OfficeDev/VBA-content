@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.OutsideColorIndex
 ms.assetid: e9d0a00d-d2c0-1a97-a484-e6da2ecef60a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.AllowPNG
 ms.assetid: 37cb4096-cd21-be5f-1f55-8786b56fc7a6
+ms.date: 06/08/2017
 ---
 
 

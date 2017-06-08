@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.KeyUp
 ms.assetid: 7776832b-fdb0-cd2b-efa3-97dab74065e6
+ms.date: 06/08/2017
 ---
 
 

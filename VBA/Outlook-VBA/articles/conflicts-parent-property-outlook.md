@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conflicts.Parent
 ms.assetid: 72adab6d-ba24-0b4c-4f86-8e40da9ccdea
+ms.date: 06/08/2017
 ---
 
 

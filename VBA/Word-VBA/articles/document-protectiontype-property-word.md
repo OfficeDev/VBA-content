@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ProtectionType
 ms.assetid: b11de5a8-8755-293e-88d4-86ce199cb57f
+ms.date: 06/08/2017
 ---
 
 

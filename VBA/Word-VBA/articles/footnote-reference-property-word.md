@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnote.Reference
 ms.assetid: c13dfad2-a103-8d91-0e55-86022a7857cd
+ms.date: 06/08/2017
 ---
 
 

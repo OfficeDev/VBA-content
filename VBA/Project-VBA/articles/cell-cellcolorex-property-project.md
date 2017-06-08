@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Cell.CellColorEx
 ms.assetid: a4ab73b9-0428-3564-6652-51baee12939e
+ms.date: 06/08/2017
 ---
 
 

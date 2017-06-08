@@ -2,6 +2,7 @@
 title: CustomTaskPane Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 4465c404-6dd4-4a6f-9b2b-4d6292a355db
+ms.date: 06/08/2017
 ---
 
 

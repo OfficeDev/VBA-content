@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.IncrementLeft
 ms.assetid: 2e9081f0-c11a-7c42-486e-53cb32d6d99c
+ms.date: 06/08/2017
 ---
 
 

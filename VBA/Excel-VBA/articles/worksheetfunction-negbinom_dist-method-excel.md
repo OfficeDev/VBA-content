@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.NegBinom_Dist
 ms.assetid: ee29a47b-4c2e-3a6f-d62b-7d622cd0ff85
+ms.date: 06/08/2017
 ---
 
 

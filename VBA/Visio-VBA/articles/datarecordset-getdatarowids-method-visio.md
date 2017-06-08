@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.GetDataRowIDs
 ms.assetid: d76874eb-c25b-df65-5d00-64de288d086e
+ms.date: 06/08/2017
 ---
 
 

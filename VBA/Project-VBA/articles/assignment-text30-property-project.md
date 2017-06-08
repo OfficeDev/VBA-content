@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Text30
 ms.assetid: 62fca21f-d9f2-dbf0-1260-2b5b5cb7f3f5
+ms.date: 06/08/2017
 ---
 
 

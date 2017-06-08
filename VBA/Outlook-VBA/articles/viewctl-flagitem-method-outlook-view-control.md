@@ -2,6 +2,7 @@
 title: ViewCtl.FlagItem Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 10a2bcab-f58c-4b97-737d-35a843087272
+ms.date: 06/08/2017
 ---
 
 

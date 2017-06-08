@@ -2,6 +2,7 @@
 title: Programmatic ID string too long 'item'. The Programmatic ID must be 39 characters or less.
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d0f57285-75f6-44bc-0d79-2abf1c24ccbd
+ms.date: 06/08/2017
 ---
 
 

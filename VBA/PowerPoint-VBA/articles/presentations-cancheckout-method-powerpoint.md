@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentations.CanCheckOut
 ms.assetid: 60393f0c-11e1-169d-2ead-c6556f1d1364
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartDocument
 ms.assetid: b56a86eb-a031-d50b-905e-ef8b91914d61
+ms.date: 06/08/2017
 ---
 
 

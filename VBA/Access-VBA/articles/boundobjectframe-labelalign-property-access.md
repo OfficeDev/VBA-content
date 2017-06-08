@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.LabelAlign
 ms.assetid: 760ec42b-01ee-eb3f-2998-79ea7caf5578
+ms.date: 06/08/2017
 ---
 
 

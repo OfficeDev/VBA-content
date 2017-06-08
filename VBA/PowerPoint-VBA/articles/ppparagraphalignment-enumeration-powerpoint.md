@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpParagraphAlignment
 ms.assetid: 7d21b19c-c086-dabb-cbc3-1d220752b5ef
+ms.date: 06/08/2017
 ---
 
 

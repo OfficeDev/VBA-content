@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AddIn.FullName
 ms.assetid: 0e442ae8-ac67-d28c-d38f-b3d7e4ba9d34
+ms.date: 06/08/2017
 ---
 
 

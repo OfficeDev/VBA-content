@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Attachments
 ms.assetid: cb87f406-8ea3-ca48-837a-2ad3c6f188fe
+ms.date: 06/08/2017
 ---
 
 

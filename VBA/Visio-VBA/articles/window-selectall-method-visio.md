@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.SelectAll
 ms.assetid: 81c32217-3336-3017-ecdc-cfa0f6048fc2
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Embeddable
 ms.assetid: 80affb7d-e728-7753-0d59-5f2b0969645d
+ms.date: 06/08/2017
 ---
 
 

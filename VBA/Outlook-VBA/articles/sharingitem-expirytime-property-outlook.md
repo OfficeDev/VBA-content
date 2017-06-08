@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ExpiryTime
 ms.assetid: f747a109-f0c5-1c6b-773d-ed96825d8263
+ms.date: 06/08/2017
 ---
 
 

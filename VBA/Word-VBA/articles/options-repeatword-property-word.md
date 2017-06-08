@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.RepeatWord
 ms.assetid: e66de0e1-29ff-bfd6-8a51-b50ccf67dc54
+ms.date: 06/08/2017
 ---
 
 

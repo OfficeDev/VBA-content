@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Deactivate
 ms.assetid: b843b64a-ad20-d160-1abb-88317114b44c
+ms.date: 06/08/2017
 ---
 
 

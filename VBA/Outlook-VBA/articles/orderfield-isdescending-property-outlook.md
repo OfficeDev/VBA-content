@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OrderField.IsDescending
 ms.assetid: 941f7144-748a-7b57-35f1-3e29077b926d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ValidationIssue.TargetShape
 ms.assetid: 93cc256d-6763-064c-392e-46232033b6dc
+ms.date: 06/08/2017
 ---
 
 

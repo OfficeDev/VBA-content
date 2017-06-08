@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.IncludeSequenceName
 ms.assetid: 15f3801c-4d79-c01f-4a67-5b09e1f14577
+ms.date: 06/08/2017
 ---
 
 

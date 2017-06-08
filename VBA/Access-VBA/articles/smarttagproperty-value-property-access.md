@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SmartTagProperty.Value
 ms.assetid: d2405ad4-9d68-4272-0b26-f97cd639778a
+ms.date: 06/08/2017
 ---
 
 

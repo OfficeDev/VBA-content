@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ProtectedViewWindow.SourceName
 ms.assetid: e5347e6e-b9d4-d3b1-ca41-ba577d836e31
+ms.date: 06/08/2017
 ---
 
 

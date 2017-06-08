@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoFontLanguageIndex
 ms.assetid: 1fb87874-d5d4-263e-056b-ab80e1093070
+ms.date: 06/08/2017
 ---
 
 

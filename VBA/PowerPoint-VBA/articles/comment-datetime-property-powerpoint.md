@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Comment.DateTime
 ms.assetid: 52e08d04-18d6-61fc-1526-ef669aa5f6c8
+ms.date: 06/08/2017
 ---
 
 

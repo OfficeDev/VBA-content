@@ -2,6 +2,7 @@
 title: Sharing Calendars
 ms.prod: OUTLOOK
 ms.assetid: 03e0b693-5446-ca62-f868-69a583087966
+ms.date: 06/08/2017
 ---
 
 

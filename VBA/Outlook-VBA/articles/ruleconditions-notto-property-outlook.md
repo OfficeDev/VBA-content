@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleConditions.NotTo
 ms.assetid: 9889e503-05cd-ebf8-40e0-358327798b6a
+ms.date: 06/08/2017
 ---
 
 

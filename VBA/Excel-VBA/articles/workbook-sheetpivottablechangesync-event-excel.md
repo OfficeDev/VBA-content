@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetPivotTableChangeSync
 ms.assetid: c280b935-3dbf-0666-b727-64d6b4ac7ebd
+ms.date: 06/08/2017
 ---
 
 

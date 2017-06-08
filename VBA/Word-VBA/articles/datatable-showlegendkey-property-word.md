@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataTable.ShowLegendKey
 ms.assetid: 4fa6ffe0-f4ac-a33c-3209-bdab61773988
+ms.date: 06/08/2017
 ---
 
 

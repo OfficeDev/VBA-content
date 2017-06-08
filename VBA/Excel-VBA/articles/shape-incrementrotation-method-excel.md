@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.IncrementRotation
 ms.assetid: 3b9f1ae0-da53-b0e7-6569-dc3cd4595b12
+ms.date: 06/08/2017
 ---
 
 

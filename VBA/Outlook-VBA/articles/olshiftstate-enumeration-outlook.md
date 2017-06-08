@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlShiftState
 ms.assetid: f71dd27d-6930-1450-e8e9-11ab1eace6ca
+ms.date: 06/08/2017
 ---
 
 

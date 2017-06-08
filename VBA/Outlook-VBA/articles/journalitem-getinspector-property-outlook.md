@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.GetInspector
 ms.assetid: 49d173ba-e4fd-e9c4-12b4-423a4c60ec46
+ms.date: 06/08/2017
 ---
 
 

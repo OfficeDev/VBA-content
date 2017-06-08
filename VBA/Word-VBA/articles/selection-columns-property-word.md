@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Columns
 ms.assetid: 444726a7-0bbe-8d66-b3ca-113af074e673
+ms.date: 06/08/2017
 ---
 
 

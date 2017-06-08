@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextRetrievalMode.IncludeHiddenText
 ms.assetid: 8904b230-ba07-ecf1-45c3-95d2a11cc434
+ms.date: 06/08/2017
 ---
 
 

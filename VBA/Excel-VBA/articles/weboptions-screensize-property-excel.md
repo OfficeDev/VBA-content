@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.ScreenSize
 ms.assetid: aa1e98a6-57ca-f39d-157f-78156f3bad0d
+ms.date: 06/08/2017
 ---
 
 

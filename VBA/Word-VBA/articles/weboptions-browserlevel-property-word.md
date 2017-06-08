@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.BrowserLevel
 ms.assetid: f753deef-cd67-918d-0fe0-af4f3d283086
+ms.date: 06/08/2017
 ---
 
 

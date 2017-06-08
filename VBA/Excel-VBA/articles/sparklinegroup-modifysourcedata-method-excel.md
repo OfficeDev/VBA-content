@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.ModifySourceData
 ms.assetid: 35c1c1ed-b61d-2412-961f-8eb74b5563a2
+ms.date: 06/08/2017
 ---
 
 

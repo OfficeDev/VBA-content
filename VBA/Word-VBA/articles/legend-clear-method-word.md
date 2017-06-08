@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Legend.Clear
 ms.assetid: 04604996-8a4b-f2d0-1840-ac45575fdfe1
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Graph Visual Basic reference
 ms.prod: EXCEL
 ms.assetid: 86a03877-8263-6280-a54d-68219b03c20b
+ms.date: 06/08/2017
 ---
 
 

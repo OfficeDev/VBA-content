@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.CommandLine
 ms.assetid: 36c8320e-17b4-111d-1b2c-e8f7096e1680
+ms.date: 06/08/2017
 ---
 
 

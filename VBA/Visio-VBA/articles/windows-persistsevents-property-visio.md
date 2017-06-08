@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Windows.PersistsEvents
 ms.assetid: 1315c3e7-f911-dd34-7412-43e345af849a
+ms.date: 06/08/2017
 ---
 
 

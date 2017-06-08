@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.Application
 ms.assetid: 7c5a4198-6a1a-1039-7bf7-b88f4aa0a3e0
+ms.date: 06/08/2017
 ---
 
 

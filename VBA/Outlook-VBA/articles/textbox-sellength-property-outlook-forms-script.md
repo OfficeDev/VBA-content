@@ -2,6 +2,7 @@
 title: TextBox.SelLength Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 97d11d04-a1d9-4251-01fc-a64f6d1293ee
+ms.date: 06/08/2017
 ---
 
 

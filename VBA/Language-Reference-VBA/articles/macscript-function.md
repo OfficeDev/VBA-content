@@ -5,6 +5,7 @@ f1_keywords:
 - vblr6.chm1010848
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d845de85-a0d8-e10e-1174-8571e42bb8d2
+ms.date: 06/08/2017
 ---
 
 # MacScript Function

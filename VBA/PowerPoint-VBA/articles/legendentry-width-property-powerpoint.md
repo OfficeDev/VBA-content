@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendEntry.Width
 ms.assetid: 99441c6d-2c28-037b-677b-e12c1d9d40d4
+ms.date: 06/08/2017
 ---
 
 

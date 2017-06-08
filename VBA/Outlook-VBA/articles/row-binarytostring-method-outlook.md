@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Row.BinaryToString
 ms.assetid: 2416a69f-f0a2-b9a6-6f55-688dcf702824
+ms.date: 06/08/2017
 ---
 
 

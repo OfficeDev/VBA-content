@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ImportanceRuleCondition.Importance
 ms.assetid: 8755d0c6-0016-c682-d746-5fcb48fa4d1a
+ms.date: 06/08/2017
 ---
 
 

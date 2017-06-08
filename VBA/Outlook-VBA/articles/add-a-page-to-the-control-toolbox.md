@@ -2,6 +2,7 @@
 title: Add a Page to the Control Toolbox
 ms.prod: OUTLOOK
 ms.assetid: c3a26184-5021-613d-cb89-38b67f82e492
+ms.date: 06/08/2017
 ---
 
 

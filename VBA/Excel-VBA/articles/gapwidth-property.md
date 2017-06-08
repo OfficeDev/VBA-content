@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GapWidth
 ms.assetid: d00b2a8b-76a0-1dbe-537d-bb55f3a069c9
+ms.date: 06/08/2017
 ---
 
 

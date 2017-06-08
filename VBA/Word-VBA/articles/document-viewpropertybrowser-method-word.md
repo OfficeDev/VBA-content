@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ViewPropertyBrowser
 ms.assetid: 937cfe62-b05d-db34-413c-61602f58eac8
+ms.date: 06/08/2017
 ---
 
 

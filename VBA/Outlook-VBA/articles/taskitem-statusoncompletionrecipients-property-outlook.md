@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.StatusOnCompletionRecipients
 ms.assetid: 9800dcb7-6b12-af4b-0379-25658c946118
+ms.date: 06/08/2017
 ---
 
 

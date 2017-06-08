@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.BeforeAttachmentPreview
 ms.assetid: e5a0ec4a-d6b2-c717-85a2-6a022f9ee325
+ms.date: 06/08/2017
 ---
 
 

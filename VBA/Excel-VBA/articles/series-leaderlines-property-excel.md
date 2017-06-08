@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.LeaderLines
 ms.assetid: d08a982c-8ac0-3f72-3f94-d72b3081f013
+ms.date: 06/08/2017
 ---
 
 

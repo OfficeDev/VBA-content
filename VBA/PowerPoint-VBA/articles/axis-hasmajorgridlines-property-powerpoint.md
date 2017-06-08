@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.HasMajorGridlines
 ms.assetid: a8d5a060-ce84-8ca5-a42c-4a52d09a1e50
+ms.date: 06/08/2017
 ---
 
 

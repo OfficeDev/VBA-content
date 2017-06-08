@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.Name
 ms.assetid: 94d13f1d-d1c0-e115-27f1-de899e576b2b
+ms.date: 06/08/2017
 ---
 
 

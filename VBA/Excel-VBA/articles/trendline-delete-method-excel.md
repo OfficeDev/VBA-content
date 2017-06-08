@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.Delete
 ms.assetid: 76b903bc-4d95-d376-f0d0-9b8a52225d22
+ms.date: 06/08/2017
 ---
 
 

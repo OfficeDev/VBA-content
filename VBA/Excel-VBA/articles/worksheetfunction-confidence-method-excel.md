@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Confidence
 ms.assetid: ede48d09-ad55-e68a-d90b-94b1b02026ef
+ms.date: 06/08/2017
 ---
 
 

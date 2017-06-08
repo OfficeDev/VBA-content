@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlMousePointer
 ms.assetid: 527df8bb-000c-f108-0522-2d294858b251
+ms.date: 06/08/2017
 ---
 
 

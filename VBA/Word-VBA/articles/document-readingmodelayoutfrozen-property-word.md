@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ReadingModeLayoutFrozen
 ms.assetid: 5ca8aef3-82dd-81c6-9620-57f304bcbb64
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.CV
 ms.assetid: 47a369ff-974c-310f-dd1a-5969cedc1dbf
+ms.date: 06/08/2017
 ---
 
 

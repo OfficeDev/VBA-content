@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.ShowAxisFieldButtons
 ms.assetid: 35c5f51c-fe2c-3448-d07d-327289d66a49
+ms.date: 06/08/2017
 ---
 
 

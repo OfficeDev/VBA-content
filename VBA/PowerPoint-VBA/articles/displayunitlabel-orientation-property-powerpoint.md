@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DisplayUnitLabel.Orientation
 ms.assetid: e6352968-78db-ef25-6eae-a9eb571576ad
+ms.date: 06/08/2017
 ---
 
 

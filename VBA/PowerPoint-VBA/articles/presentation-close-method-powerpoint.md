@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Close
 ms.assetid: 0227528a-4693-dd1a-bb5c-cd31384014b0
+ms.date: 06/08/2017
 ---
 
 

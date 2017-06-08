@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.Width
 ms.assetid: 86b8bc5a-664f-5a62-16a8-87a685f7e293
+ms.date: 06/08/2017
 ---
 
 

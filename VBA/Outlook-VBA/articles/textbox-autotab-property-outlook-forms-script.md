@@ -2,6 +2,7 @@
 title: TextBox.AutoTab Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 4c7d917b-178b-04f2-9d9c-bf736eb9ad37
+ms.date: 06/08/2017
 ---
 
 

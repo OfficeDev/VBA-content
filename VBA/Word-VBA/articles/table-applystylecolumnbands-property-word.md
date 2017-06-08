@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.ApplyStyleColumnBands
 ms.assetid: da3a77b6-ae71-9552-b04c-06b8812c1dcd
+ms.date: 06/08/2017
 ---
 
 

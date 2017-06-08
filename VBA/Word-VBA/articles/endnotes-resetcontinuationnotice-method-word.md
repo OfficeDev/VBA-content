@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnotes.ResetContinuationNotice
 ms.assetid: b7565c90-6aaa-1154-ce45-61b43149ecb0
+ms.date: 06/08/2017
 ---
 
 

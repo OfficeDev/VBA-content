@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AllFunctions.Parent
 ms.assetid: 2e148328-476b-055c-6b29-d332dd0a0764
+ms.date: 06/08/2017
 ---
 
 

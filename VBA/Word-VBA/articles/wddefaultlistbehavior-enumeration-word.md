@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdDefaultListBehavior
 ms.assetid: 7a7abde8-4c57-5a2d-7fe2-098d1d553071
+ms.date: 06/08/2017
 ---
 
 

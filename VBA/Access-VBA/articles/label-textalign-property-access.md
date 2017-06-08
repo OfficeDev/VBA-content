@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.TextAlign
 ms.assetid: 088c8577-2057-8936-6a47-3c304c8e0eb2
+ms.date: 06/08/2017
 ---
 
 

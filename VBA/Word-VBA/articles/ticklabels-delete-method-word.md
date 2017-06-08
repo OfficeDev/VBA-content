@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels.Delete
 ms.assetid: befdccaa-31fb-0752-bb88-f250364c41a9
+ms.date: 06/08/2017
 ---
 
 

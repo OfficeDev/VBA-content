@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMerge.WizardState
 ms.assetid: a237cb3f-2c03-5f62-fa67-d4aa7703389d
+ms.date: 06/08/2017
 ---
 
 

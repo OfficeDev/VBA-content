@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.GoToPrevious
 ms.assetid: 5807e73b-2fa6-6fa2-2ba8-21fad2b4598f
+ms.date: 06/08/2017
 ---
 
 

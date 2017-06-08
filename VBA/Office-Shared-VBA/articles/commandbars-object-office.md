@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars
 ms.assetid: 0e312e21-14ee-5055-d604-b66e61c53b47
+ms.date: 06/08/2017
 ---
 
 

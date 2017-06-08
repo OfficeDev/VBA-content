@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Caps
 ms.assetid: 56a52bb6-7040-b018-05e8-6680924e311c
+ms.date: 06/08/2017
 ---
 
 

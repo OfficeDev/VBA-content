@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CalloutFormat.Angle
 ms.assetid: b5178aa0-c2e3-dc59-766d-7ce5b2e7c762
+ms.date: 06/08/2017
 ---
 
 

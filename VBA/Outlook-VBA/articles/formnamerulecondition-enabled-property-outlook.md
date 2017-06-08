@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormNameRuleCondition.Enabled
 ms.assetid: ddf66e35-05d0-4bda-c204-018a5c4b716b
+ms.date: 06/08/2017
 ---
 
 

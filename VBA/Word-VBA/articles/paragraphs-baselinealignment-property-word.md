@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.BaseLineAlignment
 ms.assetid: 023055e7-62a0-475c-2f26-962d1c0f207c
+ms.date: 06/08/2017
 ---
 
 

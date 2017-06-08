@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.DropCap.FontItalic
 ms.assetid: 57996a71-94db-67b0-ee64-bd79144d01d1
+ms.date: 06/08/2017
 ---
 
 

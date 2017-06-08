@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetFollowHyperlink
 ms.assetid: be29df8c-4e8e-f719-ae1d-f91a11b89491
+ms.date: 06/08/2017
 ---
 
 

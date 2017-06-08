@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.BorderTint
 ms.assetid: ba231494-097a-6814-1eb8-fcece0fc21ff
+ms.date: 06/08/2017
 ---
 
 

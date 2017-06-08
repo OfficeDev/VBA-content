@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Hyperlink
 ms.assetid: 00c0d49f-7888-8f1f-42cf-380caf6dd672
+ms.date: 06/08/2017
 ---
 
 

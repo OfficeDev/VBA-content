@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.IMEMode
 ms.assetid: 1f8fea5d-d602-9c82-a54d-c10620046466
+ms.date: 06/08/2017
 ---
 
 

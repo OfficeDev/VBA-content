@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddPolyline
 ms.assetid: d49fb2bc-4df5-fff8-c741-2c0d35413fc5
+ms.date: 06/08/2017
 ---
 
 

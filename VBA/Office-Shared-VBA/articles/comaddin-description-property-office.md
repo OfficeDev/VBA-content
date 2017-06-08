@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.COMAddIn.Description
 ms.assetid: f194ae48-0762-732f-7c9a-f19a92e94d9b
+ms.date: 06/08/2017
 ---
 
 

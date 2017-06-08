@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.ConnectionSiteCount
 ms.assetid: ce638d98-1db8-3f76-3f83-a38c62a04a1e
+ms.date: 06/08/2017
 ---
 
 

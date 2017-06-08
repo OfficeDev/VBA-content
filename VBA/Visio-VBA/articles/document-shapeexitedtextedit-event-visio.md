@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.ShapeExitedTextEdit
 ms.assetid: 8c511847-f5e1-d5af-e375-c9f4153b7515
+ms.date: 06/08/2017
 ---
 
 

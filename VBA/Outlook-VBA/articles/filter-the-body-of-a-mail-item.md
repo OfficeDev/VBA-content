@@ -2,6 +2,7 @@
 title: Filter the Body of a Mail Item
 ms.prod: OUTLOOK
 ms.assetid: 15d8fec5-4b3d-340b-2394-479abf29847c
+ms.date: 06/08/2017
 ---
 
 

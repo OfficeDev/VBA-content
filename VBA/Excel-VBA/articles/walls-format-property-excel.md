@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Walls.Format
 ms.assetid: 5ebe74b5-19b7-ac17-e24e-788a47dbb767
+ms.date: 06/08/2017
 ---
 
 

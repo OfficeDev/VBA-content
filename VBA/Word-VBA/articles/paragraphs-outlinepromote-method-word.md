@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.OutlinePromote
 ms.assetid: a31893ec-9395-0414-5fab-ff97ff07e26b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRasterExportRotation
 ms.assetid: 2b83245f-9012-7d49-2667-0e3febb72264
+ms.date: 06/08/2017
 ---
 
 

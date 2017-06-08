@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.MarkAsTask
 ms.assetid: 9dd48e1a-d780-0923-11b0-e980c1fe19ab
+ms.date: 06/08/2017
 ---
 
 

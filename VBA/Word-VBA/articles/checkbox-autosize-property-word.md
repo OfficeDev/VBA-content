@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CheckBox.AutoSize
 ms.assetid: 2398256b-3711-6cdf-85c4-0511c285d13f
+ms.date: 06/08/2017
 ---
 
 

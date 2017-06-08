@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Allcaps
 ms.assetid: 66a576ef-d765-38ea-26e7-5bc06ff29907
+ms.date: 06/08/2017
 ---
 
 

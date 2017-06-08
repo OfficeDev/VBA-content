@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.InvertColor
 ms.assetid: e2ca8473-11d0-98fe-587e-740f7a00e85b
+ms.date: 06/08/2017
 ---
 
 

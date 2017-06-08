@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextStyles.Application
 ms.assetid: 9964af47-8a89-f904-e0bf-043d649d53b3
+ms.date: 06/08/2017
 ---
 
 

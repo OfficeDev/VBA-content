@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Position
 ms.assetid: 2e970661-b8d6-a886-ad26-89759272af9d
+ms.date: 06/08/2017
 ---
 
 

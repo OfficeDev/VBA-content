@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CalculateAll
 ms.assetid: 147d5036-6397-7c3c-cff2-2876ea9b3e0f
+ms.date: 06/08/2017
 ---
 
 

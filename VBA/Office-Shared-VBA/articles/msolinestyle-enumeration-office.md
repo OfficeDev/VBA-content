@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoLineStyle
 ms.assetid: 888c4d9c-a20d-f71a-faa9-8ea0275efd4e
+ms.date: 06/08/2017
 ---
 
 

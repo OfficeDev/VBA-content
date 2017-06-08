@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.MoveBefore
 ms.assetid: c71f8785-737d-b2cf-8d9d-bed49e1ba754
+ms.date: 06/08/2017
 ---
 
 

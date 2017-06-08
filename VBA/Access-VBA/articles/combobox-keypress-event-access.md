@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.KeyPress
 ms.assetid: 8417f6e9-7727-c619-0ceb-e68dadd08e3f
+ms.date: 06/08/2017
 ---
 
 

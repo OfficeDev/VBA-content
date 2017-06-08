@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCache.MaintainConnection
 ms.assetid: 1fba45e7-0059-26d1-1433-631ee08c0dd0
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Permission Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: bac06608-392a-412f-bba1-46f9e663797c
+ms.date: 06/08/2017
 ---
 
 

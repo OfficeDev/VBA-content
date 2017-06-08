@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.BorderWidth
 ms.assetid: f06fa232-f6cd-7736-aeb9-96461d2338fc
+ms.date: 06/08/2017
 ---
 
 

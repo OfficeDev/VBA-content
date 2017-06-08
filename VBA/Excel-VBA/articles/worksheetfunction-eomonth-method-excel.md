@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.EoMonth
 ms.assetid: 46ffb33b-2992-88d4-59ed-5c0660fbbf5d
+ms.date: 06/08/2017
 ---
 
 

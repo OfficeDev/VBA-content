@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.TopLevelTables
 ms.assetid: 43cd13b8-f779-69cd-ee60-d4ba734008f0
+ms.date: 06/08/2017
 ---
 
 

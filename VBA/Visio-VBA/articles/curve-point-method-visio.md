@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Curve.Point
 ms.assetid: 48fcad31-a655-f68c-10fd-127fea45f95d
+ms.date: 06/08/2017
 ---
 
 

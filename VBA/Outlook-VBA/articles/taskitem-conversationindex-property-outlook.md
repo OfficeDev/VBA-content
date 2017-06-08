@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.ConversationIndex
 ms.assetid: d64f52ce-6657-67bc-a3d6-d2a90155d013
+ms.date: 06/08/2017
 ---
 
 

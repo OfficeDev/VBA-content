@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.DefaultExpandCollapseSetting
 ms.assetid: 16b30b8b-6c51-1b14-f5e2-0dff68461b7a
+ms.date: 06/08/2017
 ---
 
 

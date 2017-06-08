@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.IsEditingOLE
 ms.assetid: aa65ed76-b381-e642-7a29-327b50bc5737
+ms.date: 06/08/2017
 ---
 
 

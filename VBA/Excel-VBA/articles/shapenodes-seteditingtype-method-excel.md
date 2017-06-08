@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeNodes.SetEditingType
 ms.assetid: 5bf464d6-b9d3-f62b-a625-0d153d7f265e
+ms.date: 06/08/2017
 ---
 
 

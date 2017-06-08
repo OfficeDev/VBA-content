@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Documents.CheckOut
 ms.assetid: 70b89f66-7d02-ad40-d868-f6aa7b13ebdd
+ms.date: 06/08/2017
 ---
 
 

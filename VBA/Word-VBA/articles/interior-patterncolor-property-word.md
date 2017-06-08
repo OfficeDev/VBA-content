@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Interior.PatternColor
 ms.assetid: 131f0006-6ed3-78f3-4888-8a3f47aeec78
+ms.date: 06/08/2017
 ---
 
 

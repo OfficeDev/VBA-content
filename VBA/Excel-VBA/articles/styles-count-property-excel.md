@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Styles.Count
 ms.assetid: cf423590-8ad6-add0-8c64-e2647807483a
+ms.date: 06/08/2017
 ---
 
 

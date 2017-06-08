@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ActiveWritingStyle
 ms.assetid: 035c0872-8c0b-c95f-dd0c-893982304e0f
+ms.date: 06/08/2017
 ---
 
 

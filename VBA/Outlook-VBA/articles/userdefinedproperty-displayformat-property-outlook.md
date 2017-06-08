@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.UserDefinedProperty.DisplayFormat
 ms.assetid: f891aa8d-a769-275d-c027-7c5260eafc97
+ms.date: 06/08/2017
 ---
 
 

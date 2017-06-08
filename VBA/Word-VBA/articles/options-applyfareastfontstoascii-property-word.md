@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ApplyFarEastFontsToAscii
 ms.assetid: b0487311-42ad-f87a-8f72-da47d37f71d0
+ms.date: 06/08/2017
 ---
 
 

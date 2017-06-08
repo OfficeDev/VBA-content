@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.AddGuide
 ms.assetid: 1155354e-3855-4def-bafb-0d70c933a57a
+ms.date: 06/08/2017
 ---
 
 

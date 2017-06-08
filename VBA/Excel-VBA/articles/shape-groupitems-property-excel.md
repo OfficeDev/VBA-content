@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.GroupItems
 ms.assetid: 4b065113-df60-7348-a2da-898aece10f01
+ms.date: 06/08/2017
 ---
 
 

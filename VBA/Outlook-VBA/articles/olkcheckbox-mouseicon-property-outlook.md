@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.MouseIcon
 ms.assetid: 0f6daa67-1920-c883-1e1c-bb6c92e7463b
+ms.date: 06/08/2017
 ---
 
 

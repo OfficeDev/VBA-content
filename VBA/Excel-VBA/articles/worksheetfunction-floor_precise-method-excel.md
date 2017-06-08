@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Floor_Precise
 ms.assetid: 003159fa-9397-a648-67aa-5751c93e3c92
+ms.date: 06/08/2017
 ---
 
 

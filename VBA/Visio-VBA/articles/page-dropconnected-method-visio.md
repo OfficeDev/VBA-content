@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DropConnected
 ms.assetid: 7e16dc46-df74-4482-91a4-b0a115f979b2
+ms.date: 06/08/2017
 ---
 
 

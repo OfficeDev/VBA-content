@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.DistanceFromTop
 ms.assetid: 4e657225-0428-5d9f-582f-e2263fcd0437
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroup.UpBars
 ms.assetid: d97b23bd-4c51-2384-a5f3-7cc067d3d6fa
+ms.date: 06/08/2017
 ---
 
 

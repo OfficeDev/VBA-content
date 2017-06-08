@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Mailer.WhichAddress
 ms.assetid: a7b86825-326b-80f9-6d20-63eeb8010919
+ms.date: 06/08/2017
 ---
 
 

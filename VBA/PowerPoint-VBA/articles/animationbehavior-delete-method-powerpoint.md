@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.Delete
 ms.assetid: dcc46515-ecc4-69f0-5e3c-f8a1498784e8
+ms.date: 06/08/2017
 ---
 
 

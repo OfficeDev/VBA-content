@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.VerticalScrollbarSide
 ms.assetid: 0439743b-3774-5778-7022-dbeea5ef8c39
+ms.date: 06/08/2017
 ---
 
 

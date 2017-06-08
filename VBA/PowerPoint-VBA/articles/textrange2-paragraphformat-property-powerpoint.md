@@ -1,6 +1,7 @@
 ---
 title: TextRange2.ParagraphFormat Property (PowerPoint)
 ms.assetid: a7f3f37e-75a2-45a9-bf97-85f8e560192c
+ms.date: 06/08/2017
 ---
 
 

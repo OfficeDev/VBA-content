@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Requery
 ms.assetid: b1f8991e-7ccc-4f0b-c50f-1d51a0abda7e
+ms.date: 06/08/2017
 ---
 
 

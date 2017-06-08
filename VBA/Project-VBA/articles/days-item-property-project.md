@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Days.Item
 ms.assetid: e96a19ad-fdd4-1094-5fc2-cc5c27a735d3
+ms.date: 06/08/2017
 ---
 
 

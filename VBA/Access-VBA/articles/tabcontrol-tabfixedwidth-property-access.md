@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.TabFixedWidth
 ms.assetid: e4f819b3-fb2d-cddb-c675-6bc831cb2077
+ms.date: 06/08/2017
 ---
 
 

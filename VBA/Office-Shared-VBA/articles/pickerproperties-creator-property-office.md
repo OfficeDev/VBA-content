@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PickerProperties.Creator
 ms.assetid: c4f34ff1-559f-645c-0b7f-3956d51628cb
+ms.date: 06/08/2017
 ---
 
 

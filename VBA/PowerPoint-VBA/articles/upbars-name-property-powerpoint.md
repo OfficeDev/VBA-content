@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.UpBars.Name
 ms.assetid: 756dc379-ce00-7417-9ab0-1ca44a82f5a1
+ms.date: 06/08/2017
 ---
 
 

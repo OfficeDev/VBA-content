@@ -2,6 +2,7 @@
 title: ViewCtl.SynchFolder Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 45582b46-34b6-6bbb-eb4c-35edd65cf44e
+ms.date: 06/08/2017
 ---
 
 

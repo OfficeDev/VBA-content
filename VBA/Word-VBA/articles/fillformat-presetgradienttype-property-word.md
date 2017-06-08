@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.PresetGradientType
 ms.assetid: b53ed5f8-61be-1abd-d3c7-e47a4ffc44b9
+ms.date: 06/08/2017
 ---
 
 

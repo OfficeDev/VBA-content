@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TasksModule.Parent
 ms.assetid: 023d78c5-7228-5735-da9f-472e9827887c
+ms.date: 06/08/2017
 ---
 
 

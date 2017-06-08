@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ClosePrintPreview
 ms.assetid: 8b4beae3-1893-5dbf-4463-bbce0c63b8ee
+ms.date: 06/08/2017
 ---
 
 

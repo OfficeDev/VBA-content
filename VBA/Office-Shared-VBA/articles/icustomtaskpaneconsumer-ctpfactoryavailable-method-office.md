@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ICustomTaskPaneConsumer.CTPFactoryAvailable
 ms.assetid: b4fd5ea5-5cad-0c48-0538-855f94fb65c9
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.IncrementContrast
 ms.assetid: afde4afa-53b6-7dd2-57b2-c25a800fb69d
+ms.date: 06/08/2017
 ---
 
 

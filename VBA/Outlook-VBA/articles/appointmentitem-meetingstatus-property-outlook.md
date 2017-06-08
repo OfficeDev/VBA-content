@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.MeetingStatus
 ms.assetid: cfd970cd-df6c-4537-0a17-b5adab3b667f
+ms.date: 06/08/2017
 ---
 
 

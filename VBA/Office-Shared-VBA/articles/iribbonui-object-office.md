@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IRibbonUI
 ms.assetid: d323aa21-de74-e821-c914-db71ef3b9c5e
+ms.date: 06/08/2017
 ---
 
 

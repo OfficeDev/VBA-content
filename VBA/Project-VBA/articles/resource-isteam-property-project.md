@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.IsTeam
 ms.assetid: 99e87250-d167-d13d-b622-f7e88379fe50
+ms.date: 06/08/2017
 ---
 
 

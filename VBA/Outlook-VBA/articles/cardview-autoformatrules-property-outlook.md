@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.AutoFormatRules
 ms.assetid: 241c93c1-32bf-3a33-4de3-110ad7ee7a1c
+ms.date: 06/08/2017
 ---
 
 

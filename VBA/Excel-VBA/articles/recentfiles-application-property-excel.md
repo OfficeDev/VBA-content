@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RecentFiles.Application
 ms.assetid: c6ade659-6d2b-f0c1-165a-ec242e092c82
+ms.date: 06/08/2017
 ---
 
 

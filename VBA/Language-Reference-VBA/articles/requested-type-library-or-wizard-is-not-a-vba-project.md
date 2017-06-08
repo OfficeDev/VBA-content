@@ -2,6 +2,7 @@
 title: Requested type library or wizard is not a VBA project
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 62eb980e-a099-4b3c-80df-f4246ab40ff0
+ms.date: 06/08/2017
 ---
 
 

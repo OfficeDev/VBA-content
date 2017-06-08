@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.ActiveControl
 ms.assetid: 0bb3cac4-fc88-cdd3-6bc4-1057b02d4eb5
+ms.date: 06/08/2017
 ---
 
 

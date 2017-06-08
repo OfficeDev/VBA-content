@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.Perspective
 ms.assetid: 1da4fd78-c1ae-16c8-0232-71cc0b2273e2
+ms.date: 06/08/2017
 ---
 
 

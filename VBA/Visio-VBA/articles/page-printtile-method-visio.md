@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.PrintTile
 ms.assetid: 221efce0-c706-8583-50a5-ba28ef620fdf
+ms.date: 06/08/2017
 ---
 
 

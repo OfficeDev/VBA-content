@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoTextStrike
 ms.assetid: 398c51a1-0296-b4ae-b6b0-6e46ba071bd8
+ms.date: 06/08/2017
 ---
 
 

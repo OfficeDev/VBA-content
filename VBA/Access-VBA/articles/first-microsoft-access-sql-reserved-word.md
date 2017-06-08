@@ -2,6 +2,7 @@
 title: FIRST (Microsoft Access SQL reserved word)
 ms.prod: ACCESS
 ms.assetid: aed3becd-61af-dcaf-6205-7421f29c545c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DefaultTextUnits
 ms.assetid: 54d2ce66-a8e9-b45e-0ec1-f0e7e39e8c5a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTask.Shape
 ms.assetid: 1980c6c4-17e0-f6e2-7fcc-864b91f3190d
+ms.date: 06/08/2017
 ---
 
 

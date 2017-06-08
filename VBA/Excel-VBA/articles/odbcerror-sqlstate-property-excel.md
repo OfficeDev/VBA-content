@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCError.SqlState
 ms.assetid: 772a4e82-e661-5568-5fea-49a2925cb156
+ms.date: 06/08/2017
 ---
 
 

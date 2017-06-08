@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Months.Count
 ms.assetid: c686777e-5540-5f1c-7e50-e5138b12e280
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CalloutFormat.AutoAttach
 ms.assetid: 893303d8-97fe-9eea-8d6e-d9110c75ee84
+ms.date: 06/08/2017
 ---
 
 

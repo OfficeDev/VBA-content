@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.TraceFlags
 ms.assetid: aae7879a-7f21-f16e-cfcc-2520c70af7e7
+ms.date: 06/08/2017
 ---
 
 

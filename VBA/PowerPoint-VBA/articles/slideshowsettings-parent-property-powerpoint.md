@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowSettings.Parent
 ms.assetid: 8ddb2bac-f057-2532-5825-3346046afe8c
+ms.date: 06/08/2017
 ---
 
 

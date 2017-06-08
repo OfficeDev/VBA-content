@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.AddUndoUnit
 ms.assetid: 3b9d903a-8854-fa64-a9c5-85ac71d58f54
+ms.date: 06/08/2017
 ---
 
 

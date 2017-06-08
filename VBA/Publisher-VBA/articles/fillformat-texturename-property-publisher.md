@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FillFormat.TextureName
 ms.assetid: 237a85ff-018d-f6b7-e94b-32e85fce65ab
+ms.date: 06/08/2017
 ---
 
 

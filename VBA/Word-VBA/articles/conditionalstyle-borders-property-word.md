@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ConditionalStyle.Borders
 ms.assetid: 3c5e1bf4-7264-f734-f5c8-619d25fcbc58
+ms.date: 06/08/2017
 ---
 
 

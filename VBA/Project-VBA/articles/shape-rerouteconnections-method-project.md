@@ -2,6 +2,7 @@
 title: Shape.RerouteConnections Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 97a7a245-641f-3d69-59ff-f3177ac3e84d
+ms.date: 06/08/2017
 ---
 
 

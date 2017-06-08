@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentProperties
 ms.assetid: 90d42786-7d9a-b604-dbdf-88db41cbe69b
+ms.date: 06/08/2017
 ---
 
 

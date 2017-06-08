@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.HasTable
 ms.assetid: aaf47e4f-0315-2311-e9c5-68a12d36235c
+ms.date: 06/08/2017
 ---
 
 

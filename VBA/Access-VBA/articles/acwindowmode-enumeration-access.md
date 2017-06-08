@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcWindowMode
 ms.assetid: 70335c3c-78a1-b3e3-cbda-bd7f7a99abd4
+ms.date: 06/08/2017
 ---
 
 

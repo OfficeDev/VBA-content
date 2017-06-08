@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenarios.Add
 ms.assetid: 0f76a5fd-82f1-7fa0-34f7-733b0e964666
+ms.date: 06/08/2017
 ---
 
 

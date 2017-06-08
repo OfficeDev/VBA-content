@@ -2,6 +2,7 @@
 title: Comments.ObjectType Property (Visio)
 ms.prod: VISIO
 ms.assetid: 06544d73-ce00-2c89-1ecb-20541b251d57
+ms.date: 06/08/2017
 ---
 
 

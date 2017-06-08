@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendKey.Parent
 ms.assetid: 538e092e-25cc-9a12-fa3c-a3f8646222e4
+ms.date: 06/08/2017
 ---
 
 

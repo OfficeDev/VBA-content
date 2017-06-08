@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaBookmark.Delete
 ms.assetid: d5077d2b-99de-6d02-2775-7f8788520982
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.COMAddIns
 ms.assetid: f911199d-dc2e-9b88-d807-a5737a39f29e
+ms.date: 06/08/2017
 ---
 
 

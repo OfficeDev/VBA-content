@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HasUpDownBars
 ms.assetid: c3785986-a013-727c-95e6-56a732b8b40f
+ms.date: 06/08/2017
 ---
 
 

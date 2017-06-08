@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Parent
 ms.assetid: 657f08d1-5a09-90bf-cbbc-b8e1a713858e
+ms.date: 06/08/2017
 ---
 
 

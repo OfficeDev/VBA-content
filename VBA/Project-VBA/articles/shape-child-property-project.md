@@ -2,6 +2,7 @@
 title: Shape.Child Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 1760dd8a-80d8-fbb5-ad4f-12042ee410be
+ms.date: 06/08/2017
 ---
 
 

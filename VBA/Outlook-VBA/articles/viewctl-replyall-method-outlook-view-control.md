@@ -2,6 +2,7 @@
 title: ViewCtl.ReplyAll Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: ab103751-d999-2b30-ff58-40061fff6b64
+ms.date: 06/08/2017
 ---
 
 

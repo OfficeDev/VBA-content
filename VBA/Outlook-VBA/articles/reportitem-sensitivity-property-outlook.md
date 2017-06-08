@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.Sensitivity
 ms.assetid: a5d225a9-5667-43df-a580-8c20cf69438a
+ms.date: 06/08/2017
 ---
 
 

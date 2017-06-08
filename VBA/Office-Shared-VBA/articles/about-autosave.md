@@ -2,6 +2,7 @@
 title: About AutoSave in Office
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: about-autosave
+ms.date: 06/08/2017
 ---
 
 

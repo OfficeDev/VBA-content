@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPrintOutPages
 ms.assetid: f77fe4f3-60f9-4366-9cfc-937b3045c38c
+ms.date: 06/08/2017
 ---
 
 

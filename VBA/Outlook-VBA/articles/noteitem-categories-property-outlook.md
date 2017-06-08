@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Categories
 ms.assetid: fd4d258e-fa20-0bdb-a701-8f3c557f0f8a
+ms.date: 06/08/2017
 ---
 
 

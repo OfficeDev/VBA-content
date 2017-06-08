@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Delta
 ms.assetid: a8698aa3-88cf-fe5f-be57-f01daddfa4fd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressLists.Count
 ms.assetid: aca2191f-0b86-2d4a-96b8-f5d7d61c03d3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.DefaultStyle
 ms.assetid: e8fb078f-72cd-b4ae-1685-c0c02a265d3e
+ms.date: 06/08/2017
 ---
 
 

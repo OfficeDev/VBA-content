@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ScreenRefresh
 ms.assetid: 303db23c-492c-5e33-0363-7ef6433dc90e
+ms.date: 06/08/2017
 ---
 
 

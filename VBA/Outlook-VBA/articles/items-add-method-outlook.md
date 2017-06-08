@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Items.Add
 ms.assetid: 0ee68068-1452-0f29-b85a-88b801ac0448
+ms.date: 06/08/2017
 ---
 
 

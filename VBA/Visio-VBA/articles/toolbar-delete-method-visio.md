@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Toolbar.Delete
 ms.assetid: e7da5fe0-ad12-352e-67d9-c545ddd7011c
+ms.date: 06/08/2017
 ---
 
 

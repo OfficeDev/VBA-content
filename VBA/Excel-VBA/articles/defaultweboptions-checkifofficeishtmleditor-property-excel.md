@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DefaultWebOptions.CheckIfOfficeIsHTMLEditor
 ms.assetid: 29b77ad1-11ea-f930-a4ab-6bb957287eea
+ms.date: 06/08/2017
 ---
 
 

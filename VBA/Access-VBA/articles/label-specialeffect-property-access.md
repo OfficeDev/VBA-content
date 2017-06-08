@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.SpecialEffect
 ms.assetid: 2c641afc-f957-146d-08a6-b972cd2bb7a1
+ms.date: 06/08/2017
 ---
 
 

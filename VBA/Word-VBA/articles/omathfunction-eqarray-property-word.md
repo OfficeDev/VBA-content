@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFunction.EqArray
 ms.assetid: f3ef80e9-aa4b-b783-e351-a6fe669846ba
+ms.date: 06/08/2017
 ---
 
 

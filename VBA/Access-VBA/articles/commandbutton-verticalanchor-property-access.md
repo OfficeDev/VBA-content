@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.VerticalAnchor
 ms.assetid: e0da1883-eec3-39fa-2bff-1410d79a7b2a
+ms.date: 06/08/2017
 ---
 
 

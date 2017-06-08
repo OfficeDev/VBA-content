@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SetRowHeight
 ms.assetid: bfa4a87b-9e9f-9937-4b9d-a7b26576a5da
+ms.date: 06/08/2017
 ---
 
 

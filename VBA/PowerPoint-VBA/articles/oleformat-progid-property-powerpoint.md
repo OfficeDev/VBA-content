@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.OLEFormat.ProgID
 ms.assetid: 7564f3e1-4e14-9038-a836-5665518b0d09
+ms.date: 06/08/2017
 ---
 
 

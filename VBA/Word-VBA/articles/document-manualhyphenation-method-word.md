@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ManualHyphenation
 ms.assetid: ffd4aace-f9e3-a7ef-9dab-5694891a68ab
+ms.date: 06/08/2017
 ---
 
 

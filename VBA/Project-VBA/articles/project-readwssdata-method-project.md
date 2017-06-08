@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ReadWssData
 ms.assetid: 97ff4d8e-8f0b-3b7f-9515-56376967e5bd
+ms.date: 06/08/2017
 ---
 
 

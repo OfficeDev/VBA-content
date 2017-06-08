@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TwoInitialCapsExceptions.Item
 ms.assetid: 3abe1b16-c635-817e-cb83-67d307620c31
+ms.date: 06/08/2017
 ---
 
 

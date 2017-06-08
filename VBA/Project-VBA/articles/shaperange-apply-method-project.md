@@ -2,6 +2,7 @@
 title: ShapeRange.Apply Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 5b100f4a-99a0-77f2-772a-203b2f836293
+ms.date: 06/08/2017
 ---
 
 

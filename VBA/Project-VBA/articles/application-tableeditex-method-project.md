@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TableEditEx
 ms.assetid: 953cdbf6-24ac-5e39-9c23-ec05ec9e4809
+ms.date: 06/08/2017
 ---
 
 

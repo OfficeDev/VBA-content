@@ -2,6 +2,7 @@
 title: OptionButton.PicturePosition Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: e159fe5c-99fa-979b-570b-2984839aed19
+ms.date: 06/08/2017
 ---
 
 

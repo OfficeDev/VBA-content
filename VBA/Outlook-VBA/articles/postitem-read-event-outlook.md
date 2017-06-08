@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Read
 ms.assetid: 404c9b17-c5b6-a802-420a-f8fd279b5f9b
+ms.date: 06/08/2017
 ---
 
 

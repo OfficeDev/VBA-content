@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFont.Subscript
 ms.assetid: 47460379-f713-6338-fe8a-fbb4415ead91
+ms.date: 06/08/2017
 ---
 
 

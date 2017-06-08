@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropDown.Value
 ms.assetid: 9777996d-4e60-f528-6dcd-c4da3b77dff8
+ms.date: 06/08/2017
 ---
 
 

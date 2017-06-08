@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Dependents
 ms.assetid: 47813412-306a-0f99-3ca5-d354b16af468
+ms.date: 06/08/2017
 ---
 
 

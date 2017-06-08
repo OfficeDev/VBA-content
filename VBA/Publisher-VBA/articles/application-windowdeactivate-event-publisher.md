@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.WindowDeactivate
 ms.assetid: 84473784-7c03-4c9e-3e1b-9bf6ec7e1fbc
+ms.date: 06/08/2017
 ---
 
 

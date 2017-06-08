@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.LockAspectRatio
 ms.assetid: e30f2834-b6c2-d966-dbee-b22912e4e3f0
+ms.date: 06/08/2017
 ---
 
 

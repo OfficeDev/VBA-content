@@ -2,6 +2,7 @@
 title: CreateRecordset Method Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: 548e5c0a-74cc-0abb-f660-1be483410548
+ms.date: 06/08/2017
 ---
 
 

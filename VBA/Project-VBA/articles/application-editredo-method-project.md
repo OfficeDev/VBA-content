@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EditRedo
 ms.assetid: 4d391a2e-cc0b-f2c6-2347-8020ada46670
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ShowDiacritics
 ms.assetid: b06b6d5e-1606-20c3-7efb-212503bc2790
+ms.date: 06/08/2017
 ---
 
 

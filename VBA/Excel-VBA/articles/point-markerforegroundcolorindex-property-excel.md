@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.MarkerForegroundColorIndex
 ms.assetid: 00d5e240-0851-ea13-11a3-5972135ca5fa
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarSharing.EndDate
 ms.assetid: 89358c71-7805-7acc-5afb-2ba7b592f9f2
+ms.date: 06/08/2017
 ---
 
 

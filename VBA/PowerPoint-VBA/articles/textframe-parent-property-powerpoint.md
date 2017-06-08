@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame.Parent
 ms.assetid: 3c5706c9-188e-6946-6e87-1501f32b1ce3
+ms.date: 06/08/2017
 ---
 
 

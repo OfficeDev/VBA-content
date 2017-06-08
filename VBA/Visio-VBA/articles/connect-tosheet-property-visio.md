@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Connect.ToSheet
 ms.assetid: 449993f6-dd44-cebf-8d2d-343e0202b166
+ms.date: 06/08/2017
 ---
 
 

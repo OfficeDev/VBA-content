@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.DocumentInspectors
 ms.assetid: 26d2575f-6e61-4509-6a67-45ae576bc9fe
+ms.date: 06/08/2017
 ---
 
 

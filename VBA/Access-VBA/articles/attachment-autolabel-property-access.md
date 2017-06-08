@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.AutoLabel
 ms.assetid: 09007508-f7b4-3fa6-2548-a78afd34bd0c
+ms.date: 06/08/2017
 ---
 
 

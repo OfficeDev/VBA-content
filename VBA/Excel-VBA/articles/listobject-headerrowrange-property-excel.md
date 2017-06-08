@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.HeaderRowRange
 ms.assetid: af7ca1d5-f72f-f369-9946-c64eb0cf9da0
+ms.date: 06/08/2017
 ---
 
 

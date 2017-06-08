@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Hex2Dec
 ms.assetid: e2e0614c-583e-8a1f-b852-683c119d5a5a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorScale.ScopeType
 ms.assetid: 9f3c0f30-27bd-946d-bd2b-49ca32c39e2a
+ms.date: 06/08/2017
 ---
 
 

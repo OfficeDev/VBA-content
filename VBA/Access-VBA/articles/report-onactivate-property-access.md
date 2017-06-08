@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.OnActivate
 ms.assetid: eb7f05e3-edba-ab9e-3708-5c3ee7b2ee18
+ms.date: 06/08/2017
 ---
 
 

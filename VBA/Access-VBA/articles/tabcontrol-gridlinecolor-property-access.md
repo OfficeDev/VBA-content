@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.GridlineColor
 ms.assetid: 5570df30-be34-07b4-7096-1d1bdd46ead6
+ms.date: 06/08/2017
 ---
 
 

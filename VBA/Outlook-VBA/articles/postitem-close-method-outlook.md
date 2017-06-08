@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Close
 ms.assetid: fd80ee3c-2ee1-20ff-1f43-d706695b128c
+ms.date: 06/08/2017
 ---
 
 

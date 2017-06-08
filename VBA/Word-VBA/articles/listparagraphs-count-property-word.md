@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListParagraphs.Count
 ms.assetid: 357e5966-1b65-c796-b1ab-69fe9dd4b65c
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabels.Select
 ms.assetid: 4df520ad-a91b-faea-9899-b55354fcd49d
+ms.date: 06/08/2017
 ---
 
 

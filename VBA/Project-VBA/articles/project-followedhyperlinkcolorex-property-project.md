@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.FollowedHyperlinkColorEx
 ms.assetid: 72683515-81d3-915b-6da0-2593fbca0d00
+ms.date: 06/08/2017
 ---
 
 

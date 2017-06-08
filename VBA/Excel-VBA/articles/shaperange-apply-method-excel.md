@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.Apply
 ms.assetid: 34acef44-7075-ffc1-199c-3396e17caafe
+ms.date: 06/08/2017
 ---
 
 

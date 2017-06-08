@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomProperty.Delete
 ms.assetid: 9cceabf4-4df6-5a87-1e9f-0200787b770f
+ms.date: 06/08/2017
 ---
 
 

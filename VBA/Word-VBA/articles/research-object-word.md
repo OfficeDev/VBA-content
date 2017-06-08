@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Research
 ms.assetid: 454e1fd6-0e52-84df-7d15-04fda00b177b
+ms.date: 06/08/2017
 ---
 
 

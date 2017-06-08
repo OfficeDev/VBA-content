@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.BeforeRead
 ms.assetid: 698f28ba-04f4-e26e-e281-869b96563f56
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoBaselineAlignment
 ms.assetid: 5e764318-c398-19c0-2bc6-dbb97eac1c43
+ms.date: 06/08/2017
 ---
 
 

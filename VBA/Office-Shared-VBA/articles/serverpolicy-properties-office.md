@@ -2,6 +2,7 @@
 title: ServerPolicy Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d591531d-ad04-43b4-9fe7-2f64ed03d3c6
+ms.date: 06/08/2017
 ---
 
 

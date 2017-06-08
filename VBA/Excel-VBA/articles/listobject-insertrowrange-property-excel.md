@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.InsertRowRange
 ms.assetid: 5957f802-96b8-60a3-74e4-d7abcea7544b
+ms.date: 06/08/2017
 ---
 
 

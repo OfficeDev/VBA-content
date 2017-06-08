@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Replacement.Application
 ms.assetid: ba3cabce-b4f6-edcc-abc0-471be6ec02cb
+ms.date: 06/08/2017
 ---
 
 

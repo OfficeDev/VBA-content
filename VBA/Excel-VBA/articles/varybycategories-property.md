@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.VaryByCategories
 ms.assetid: e64bd5cb-1dfa-b78a-ee7e-cf3eb7b4a788
+ms.date: 06/08/2017
 ---
 
 

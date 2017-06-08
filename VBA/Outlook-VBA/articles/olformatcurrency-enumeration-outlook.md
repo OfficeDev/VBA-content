@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormatCurrency
 ms.assetid: 8fd3dbad-66cc-fd76-ac88-54e5d7612a25
+ms.date: 06/08/2017
 ---
 
 

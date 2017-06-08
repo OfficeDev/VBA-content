@@ -2,6 +2,7 @@
 title: Add a Custom Folder to a Group and Display it in Overlay Mode by Default
 ms.prod: OUTLOOK
 ms.assetid: 79622092-bc9e-fd75-5579-dc626268d163
+ms.date: 06/08/2017
 ---
 
 

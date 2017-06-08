@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ReminderSet
 ms.assetid: e3f3580e-d2b7-1cf3-9490-a525685c10cb
+ms.date: 06/08/2017
 ---
 
 

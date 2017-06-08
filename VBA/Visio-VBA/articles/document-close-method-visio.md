@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Close
 ms.assetid: 913572fd-cacb-8d06-0e5f-3bd2e98d6d13
+ms.date: 06/08/2017
 ---
 
 

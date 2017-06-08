@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.Offline
 ms.assetid: c62112d5-e50f-bd6a-bb3b-7c1818752d8b
+ms.date: 06/08/2017
 ---
 
 

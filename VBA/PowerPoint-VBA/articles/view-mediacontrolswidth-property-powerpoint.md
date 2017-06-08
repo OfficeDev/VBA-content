@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.View.MediaControlsWidth
 ms.assetid: a8c39937-99c6-82ab-c26c-b700f0ebe613
+ms.date: 06/08/2017
 ---
 
 

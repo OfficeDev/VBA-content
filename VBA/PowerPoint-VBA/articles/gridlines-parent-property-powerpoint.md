@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Gridlines.Parent
 ms.assetid: 9e9f42e4-2eb7-853c-4d1a-8cb690e5cf85
+ms.date: 06/08/2017
 ---
 
 

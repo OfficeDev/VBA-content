@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheets.Move
 ms.assetid: e973d1d0-fd72-4e9e-e5b0-2b5d61eeed07
+ms.date: 06/08/2017
 ---
 
 

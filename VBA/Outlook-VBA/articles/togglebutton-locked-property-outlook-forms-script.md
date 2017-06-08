@@ -2,6 +2,7 @@
 title: ToggleButton.Locked Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 33e4c29b-d583-cb64-d624-391f85628772
+ms.date: 06/08/2017
 ---
 
 

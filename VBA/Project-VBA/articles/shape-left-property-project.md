@@ -2,6 +2,7 @@
 title: Shape.Left Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: e1128044-f737-e500-f66c-b3ea3f5f1244
+ms.date: 06/08/2017
 ---
 
 

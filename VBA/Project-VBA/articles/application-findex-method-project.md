@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FindEx
 ms.assetid: fdb2661e-f705-ffa4-1ca3-7bbc97b9958d
+ms.date: 06/08/2017
 ---
 
 

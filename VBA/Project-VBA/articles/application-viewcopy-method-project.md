@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewCopy
 ms.assetid: b1ed6b3e-ad95-15f4-80bd-054d608ef9a1
+ms.date: 06/08/2017
 ---
 
 

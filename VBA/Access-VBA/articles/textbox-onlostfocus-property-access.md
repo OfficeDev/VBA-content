@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.OnLostFocus
 ms.assetid: 1606cb80-bf56-3766-d939-b545c2738e17
+ms.date: 06/08/2017
 ---
 
 

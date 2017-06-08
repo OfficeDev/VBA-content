@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.BorderColor
 ms.assetid: 21f40b75-756c-df56-11bc-824ef796797e
+ms.date: 06/08/2017
 ---
 
 

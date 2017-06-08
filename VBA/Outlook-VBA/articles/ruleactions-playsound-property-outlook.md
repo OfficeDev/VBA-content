@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.PlaySound
 ms.assetid: 43a79f2d-9e7b-7053-6901-40e815220ac0
+ms.date: 06/08/2017
 ---
 
 

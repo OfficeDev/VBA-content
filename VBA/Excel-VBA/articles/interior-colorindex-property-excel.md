@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Interior.ColorIndex
 ms.assetid: 6d1a5bc9-7157-61e0-1e1d-b44974002c78
+ms.date: 06/08/2017
 ---
 
 

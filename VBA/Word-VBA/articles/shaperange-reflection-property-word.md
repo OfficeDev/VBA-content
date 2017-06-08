@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Reflection
 ms.assetid: 7b783583-9a0b-0a4b-b6b8-a829fbb16197
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.CropRight
 ms.assetid: b1c20de2-e2cf-708f-ddae-194c8b1b01c1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.CategoryNames
 ms.assetid: 12cb3d4e-1460-3849-5ce0-df9f0648d418
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataField.UnMapRecipientField
 ms.assetid: 0063dfa7-1168-3701-56a3-f1908cf0d23a
+ms.date: 06/08/2017
 ---
 
 

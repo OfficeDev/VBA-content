@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.Cells
 ms.assetid: 19c14e41-7d8e-b56f-fd60-717df64edee8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LinkFormat.Update
 ms.assetid: fe9f0a64-beeb-7a3a-923e-b7e374458ee7
+ms.date: 06/08/2017
 ---
 
 

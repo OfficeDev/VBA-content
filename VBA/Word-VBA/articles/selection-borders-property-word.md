@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Borders
 ms.assetid: 2e70c7be-c7dc-db59-0a99-a11770ffc220
+ms.date: 06/08/2017
 ---
 
 

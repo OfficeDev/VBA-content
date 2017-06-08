@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.PathsLocal
 ms.assetid: aa5da0de-ca06-69c0-1fbf-b19ea02d0088
+ms.date: 06/08/2017
 ---
 
 

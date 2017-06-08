@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RecentFiles.Count
 ms.assetid: 005fd8aa-5581-14c7-5274-bb6236069e69
+ms.date: 06/08/2017
 ---
 
 

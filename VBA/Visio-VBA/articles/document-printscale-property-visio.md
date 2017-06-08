@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PrintScale
 ms.assetid: d352b695-1e94-888d-70a0-9189678992e6
+ms.date: 06/08/2017
 ---
 
 

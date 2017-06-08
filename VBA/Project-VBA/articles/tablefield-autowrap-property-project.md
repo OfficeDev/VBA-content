@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TableField.AutoWrap
 ms.assetid: 03364d30-736e-ae90-8e68-bf702b40444e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Trendline.Forward2
 ms.assetid: d5968c1f-de77-a03f-44b2-f91d6638a6ae
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.TextWrap
 ms.assetid: e641d9a5-5b63-06d0-a0c3-d3feb1910159
+ms.date: 06/08/2017
 ---
 
 

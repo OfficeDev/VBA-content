@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.ConnectorFormat
 ms.assetid: 1a1516bd-ef27-0b37-09dd-45af8a531a76
+ms.date: 06/08/2017
 ---
 
 

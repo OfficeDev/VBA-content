@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Click
 ms.assetid: cdeff1db-5d95-dab5-79ae-d02ac25d5659
+ms.date: 06/08/2017
 ---
 
 

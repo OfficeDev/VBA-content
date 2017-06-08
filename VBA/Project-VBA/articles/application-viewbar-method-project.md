@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewBar
 ms.assetid: c1bb0168-4ba9-82c2-8043-ece0138e3695
+ms.date: 06/08/2017
 ---
 
 

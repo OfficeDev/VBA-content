@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCheckInVersionType
 ms.assetid: 8971af1b-b175-c51e-9f93-aace75ac7009
+ms.date: 06/08/2017
 ---
 
 

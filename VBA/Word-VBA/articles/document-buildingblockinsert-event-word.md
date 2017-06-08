@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.BuildingBlockInsert
 ms.assetid: 6c4b1f1f-da22-63b9-a3d9-21d7bedb4b5b
+ms.date: 06/08/2017
 ---
 
 

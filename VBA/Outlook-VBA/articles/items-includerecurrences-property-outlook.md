@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Items.IncludeRecurrences
 ms.assetid: 7d192112-889c-56ce-aab2-107d751c80c4
+ms.date: 06/08/2017
 ---
 
 

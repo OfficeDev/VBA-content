@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.BeforeFolderMove
 ms.assetid: c085f0cf-3d91-db84-aab9-18c7b46a04d2
+ms.date: 06/08/2017
 ---
 
 

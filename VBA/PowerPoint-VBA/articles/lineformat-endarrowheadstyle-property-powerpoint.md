@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.EndArrowheadStyle
 ms.assetid: 8f4f7a0a-cbfa-ee6c-25bb-b1aca1e2b883
+ms.date: 06/08/2017
 ---
 
 

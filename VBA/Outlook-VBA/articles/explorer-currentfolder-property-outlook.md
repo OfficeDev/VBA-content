@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.CurrentFolder
 ms.assetid: 75e7f120-28df-0c3b-ec05-bd880621141b
+ms.date: 06/08/2017
 ---
 
 

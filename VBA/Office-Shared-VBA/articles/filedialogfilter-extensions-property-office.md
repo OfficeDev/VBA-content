@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialogFilter.Extensions
 ms.assetid: ee80ebef-8214-8cef-9676-e6293e5d2a3f
+ms.date: 06/08/2017
 ---
 
 

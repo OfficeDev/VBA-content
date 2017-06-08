@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.Title
 ms.assetid: 61e5f162-d9dd-f8d3-6c15-d5a40c00c10f
+ms.date: 06/08/2017
 ---
 
 

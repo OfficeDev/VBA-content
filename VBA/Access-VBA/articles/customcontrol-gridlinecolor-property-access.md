@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.GridlineColor
 ms.assetid: a07d7fb0-f538-a186-f016-0236a32ab276
+ms.date: 06/08/2017
 ---
 
 

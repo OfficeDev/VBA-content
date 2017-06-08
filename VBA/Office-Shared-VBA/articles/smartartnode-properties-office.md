@@ -2,6 +2,7 @@
 title: SmartArtNode Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 98eae4bf-0afa-4caf-a0b9-432149b5b3aa
+ms.date: 06/08/2017
 ---
 
 

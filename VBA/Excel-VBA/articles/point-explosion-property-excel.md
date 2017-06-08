@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.Explosion
 ms.assetid: b6b557c3-d41b-d496-4093-336ec07fb575
+ms.date: 06/08/2017
 ---
 
 

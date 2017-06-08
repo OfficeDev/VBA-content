@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.VerticalAnchor
 ms.assetid: 605adc62-1b33-d1d9-46ea-7154efb748ed
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.BillingInformation
 ms.assetid: c8761455-f050-a205-6bf2-869ea326cb59
+ms.date: 06/08/2017
 ---
 
 

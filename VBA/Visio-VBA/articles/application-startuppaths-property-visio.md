@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.StartupPaths
 ms.assetid: 966a91d9-9ada-d0e1-9886-271ea47faaf9
+ms.date: 06/08/2017
 ---
 
 

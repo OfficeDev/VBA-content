@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.TextChanged
 ms.assetid: 2387884e-366e-4276-c250-0879fee4cd66
+ms.date: 06/08/2017
 ---
 
 

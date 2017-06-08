@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Curve
 ms.assetid: 040f47b2-794d-72c7-7479-b61d8f1cb75f
+ms.date: 06/08/2017
 ---
 
 

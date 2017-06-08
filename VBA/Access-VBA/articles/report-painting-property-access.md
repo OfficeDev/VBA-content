@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.Painting
 ms.assetid: 82c5a5e6-9d87-7293-e0f5-8ee950f3b85f
+ms.date: 06/08/2017
 ---
 
 

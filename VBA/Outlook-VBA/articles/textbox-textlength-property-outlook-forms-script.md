@@ -2,6 +2,7 @@
 title: TextBox.TextLength Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 7c9ef3fe-91c4-78f5-b93d-ea5a8892b0ad
+ms.date: 06/08/2017
 ---
 
 

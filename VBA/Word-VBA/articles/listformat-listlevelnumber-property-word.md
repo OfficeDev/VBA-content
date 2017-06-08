@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListFormat.ListLevelNumber
 ms.assetid: 004c1823-56dd-7a7c-2b0c-8654f0313465
+ms.date: 06/08/2017
 ---
 
 

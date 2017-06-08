@@ -2,6 +2,7 @@
 title: ToggleButton.Caption Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 3473424a-6a01-50ab-f3a9-3f6cb3114d3b
+ms.date: 06/08/2017
 ---
 
 

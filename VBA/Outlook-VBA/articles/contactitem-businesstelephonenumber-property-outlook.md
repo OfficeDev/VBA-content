@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.BusinessTelephoneNumber
 ms.assetid: 6c30e792-f5d6-bdd3-1b01-ca9a5bf27b44
+ms.date: 06/08/2017
 ---
 
 

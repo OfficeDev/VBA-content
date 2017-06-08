@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlLegendPosition
 ms.assetid: 323969a3-c4ac-8b71-2147-9baa05a1a866
+ms.date: 06/08/2017
 ---
 
 

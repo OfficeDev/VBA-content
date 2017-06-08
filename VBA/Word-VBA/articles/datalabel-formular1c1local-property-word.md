@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.FormulaR1C1Local
 ms.assetid: eca9ba8e-eee0-4e5b-88aa-d693daeda276
+ms.date: 06/08/2017
 ---
 
 

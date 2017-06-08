@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Phonetics
 ms.assetid: fdc05b76-b574-63ec-045a-42fdcfae8a9e
+ms.date: 06/08/2017
 ---
 
 

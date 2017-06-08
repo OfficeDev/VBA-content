@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ActiveSlicer
 ms.assetid: d3858353-0be1-338c-e43f-1e5ffb7f37ba
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkVerticalAxis.CustomMinScaleValue
 ms.assetid: 1d5e7efa-1747-e871-1504-c917a4666d5c
+ms.date: 06/08/2017
 ---
 
 

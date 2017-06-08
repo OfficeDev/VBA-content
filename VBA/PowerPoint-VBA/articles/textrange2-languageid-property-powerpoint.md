@@ -1,6 +1,7 @@
 ---
 title: TextRange2.LanguageID Property (PowerPoint)
 ms.assetid: 792278d7-b412-491f-b4a7-cb4b9a8ef3ba
+ms.date: 06/08/2017
 ---
 
 

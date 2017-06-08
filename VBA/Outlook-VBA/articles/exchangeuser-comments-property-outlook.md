@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.Comments
 ms.assetid: b55f865c-c564-f209-7648-9977512dd5a5
+ms.date: 06/08/2017
 ---
 
 

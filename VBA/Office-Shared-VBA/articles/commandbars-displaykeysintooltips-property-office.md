@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.DisplayKeysInTooltips
 ms.assetid: de132c5f-bc9f-c335-28ff-b9459c912b2c
+ms.date: 06/08/2017
 ---
 
 

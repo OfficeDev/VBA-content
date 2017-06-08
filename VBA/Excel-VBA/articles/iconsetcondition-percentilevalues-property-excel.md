@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IconSetCondition.PercentileValues
 ms.assetid: 0e6c4d7d-f639-c394-b88a-c47c222a9379
+ms.date: 06/08/2017
 ---
 
 

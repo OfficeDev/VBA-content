@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.Close
 ms.assetid: 43cb221f-ea65-c12a-e664-0f0fb35685e0
+ms.date: 06/08/2017
 ---
 
 

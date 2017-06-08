@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseAllowLocalBaseCalendars
 ms.assetid: 91c15501-a321-47fb-7c9a-ebe894ead50a
+ms.date: 06/08/2017
 ---
 
 

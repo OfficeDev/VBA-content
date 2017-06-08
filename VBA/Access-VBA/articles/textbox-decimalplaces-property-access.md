@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.DecimalPlaces
 ms.assetid: cd032c51-34d1-18d3-c378-7473938ec1d7
+ms.date: 06/08/2017
 ---
 
 

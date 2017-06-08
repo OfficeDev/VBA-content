@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseResourceGet
 ms.assetid: c1e29298-7859-28c4-edbf-917acdd8aecd
+ms.date: 06/08/2017
 ---
 
 

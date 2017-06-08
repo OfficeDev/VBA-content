@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.TimeLine
 ms.assetid: 641ccad6-2a91-64d7-2884-1ab436c58b9e
+ms.date: 06/08/2017
 ---
 
 

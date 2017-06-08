@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerPivotTables
 ms.assetid: 8302dc8a-3845-12b0-f88e-761f104f1dcc
+ms.date: 06/08/2017
 ---
 
 

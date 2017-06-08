@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.ConvertToGroupCanceled
 ms.assetid: a665309f-bf0c-58b1-35ec-3843ef2a1e77
+ms.date: 06/08/2017
 ---
 
 

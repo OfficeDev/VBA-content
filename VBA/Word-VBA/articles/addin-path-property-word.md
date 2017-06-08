@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AddIn.Path
 ms.assetid: 0c9150fe-a57f-85d5-275b-a45916c35f76
+ms.date: 06/08/2017
 ---
 
 

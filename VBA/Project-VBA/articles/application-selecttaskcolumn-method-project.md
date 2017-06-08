@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectTaskColumn
 ms.assetid: f4269749-de44-d7dd-de74-c95a046411fe
+ms.date: 06/08/2017
 ---
 
 

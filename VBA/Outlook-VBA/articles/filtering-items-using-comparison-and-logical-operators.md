@@ -2,6 +2,7 @@
 title: Filtering Items Using Comparison and Logical Operators
 ms.prod: OUTLOOK
 ms.assetid: 1f01f970-549f-5868-bbe8-e8792dfd657f
+ms.date: 06/08/2017
 ---
 
 

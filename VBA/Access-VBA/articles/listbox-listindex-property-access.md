@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ListIndex
 ms.assetid: 4d75f753-f6a9-d362-7281-2c0460f4272b
+ms.date: 06/08/2017
 ---
 
 

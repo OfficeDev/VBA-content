@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BaseCalendarCreate
 ms.assetid: c9c92dff-255a-041b-c18d-49d6d75884e3
+ms.date: 06/08/2017
 ---
 
 

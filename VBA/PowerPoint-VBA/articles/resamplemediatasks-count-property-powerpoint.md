@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTasks.Count
 ms.assetid: 5d6a1459-287d-b555-1342-2386854a742e
+ms.date: 06/08/2017
 ---
 
 

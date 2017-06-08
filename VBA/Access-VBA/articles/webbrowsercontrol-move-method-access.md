@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.Move
 ms.assetid: ec60f843-6bbf-bf65-db6a-9097dd73fb98
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.RightPadding
 ms.assetid: a41681da-9a11-9b45-fcff-495208a3ab25
+ms.date: 06/08/2017
 ---
 
 

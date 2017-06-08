@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Path
 ms.assetid: 809b41fb-c410-5bcb-c808-780ad5232e6f
+ms.date: 06/08/2017
 ---
 
 

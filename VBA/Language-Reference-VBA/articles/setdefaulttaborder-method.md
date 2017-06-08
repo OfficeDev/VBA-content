@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SetDefaultTabOrder
 ms.assetid: fd4661ee-a995-1872-509b-edffa6dbbf80
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoFeatureInstall
 ms.assetid: 25256738-d169-5c00-1d5d-eb8019811976
+ms.date: 06/08/2017
 ---
 
 

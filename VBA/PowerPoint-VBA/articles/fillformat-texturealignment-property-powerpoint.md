@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.TextureAlignment
 ms.assetid: e26ca83c-7dc1-4c7b-52a4-3a30669079ea
+ms.date: 06/08/2017
 ---
 
 

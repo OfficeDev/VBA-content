@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.GetHiddenAttribute
 ms.assetid: aee0e022-08d5-10f8-bfd0-588b5310fb43
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.MarkerBackgroundColorIndex
 ms.assetid: 13e3de72-9090-4bd1-3dfa-51f89818ea32
+ms.date: 06/08/2017
 ---
 
 

@@ -5,6 +5,7 @@ f1_keywords:
 - vbapj.chm132731
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 226f40b9-79e0-4fb6-8948-41e8f1c8953c
+ms.date: 06/08/2017
 ---
 
 

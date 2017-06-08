@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertRowsBelow
 ms.assetid: d36441d1-ff1f-b557-d0d0-1d12d4abab2d
+ms.date: 06/08/2017
 ---
 
 

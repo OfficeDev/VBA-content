@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.Application
 ms.assetid: 144400fb-4a1a-8212-dfae-997076e5f41f
+ms.date: 06/08/2017
 ---
 
 

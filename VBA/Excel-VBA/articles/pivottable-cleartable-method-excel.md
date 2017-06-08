@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ClearTable
 ms.assetid: 1279b0b8-3785-00b1-b91f-20e406ea1f2e
+ms.date: 06/08/2017
 ---
 
 

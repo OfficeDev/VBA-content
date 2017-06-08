@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCustomLabelPageSize
 ms.assetid: 3d12994c-6576-1741-b9ba-cce264e538d9
+ms.date: 06/08/2017
 ---
 
 

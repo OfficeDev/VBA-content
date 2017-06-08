@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Top10.SetLastPriority
 ms.assetid: 878cbcd5-47c9-64f8-d864-cfe279dec513
+ms.date: 06/08/2017
 ---
 
 

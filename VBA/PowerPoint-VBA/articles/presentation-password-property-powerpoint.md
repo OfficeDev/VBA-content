@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Password
 ms.assetid: 977876b7-b40f-de45-c259-e91744915085
+ms.date: 06/08/2017
 ---
 
 

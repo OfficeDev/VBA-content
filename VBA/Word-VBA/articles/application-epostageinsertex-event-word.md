@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.EPostageInsertEx
 ms.assetid: 494225b9-f55f-37d2-8ff0-086f8d917b05
+ms.date: 06/08/2017
 ---
 
 

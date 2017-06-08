@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationPane.ModuleSwitch
 ms.assetid: 63ecb01e-56e2-cfa8-0481-b81761f6ab5c
+ms.date: 06/08/2017
 ---
 
 

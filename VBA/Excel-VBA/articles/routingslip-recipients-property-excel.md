@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RoutingSlip.Recipients
 ms.assetid: 61fe2436-daeb-aac7-9d48-a59f4ff92f43
+ms.date: 06/08/2017
 ---
 
 

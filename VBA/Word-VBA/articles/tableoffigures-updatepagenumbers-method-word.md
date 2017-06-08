@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfFigures.UpdatePageNumbers
 ms.assetid: d6817167-916d-81f0-c507-16492819b0f3
+ms.date: 06/08/2017
 ---
 
 

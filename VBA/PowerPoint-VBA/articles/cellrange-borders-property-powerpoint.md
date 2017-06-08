@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CellRange.Borders
 ms.assetid: 06bd16b9-8d3e-d818-cdf4-44e0dfbaca5c
+ms.date: 06/08/2017
 ---
 
 

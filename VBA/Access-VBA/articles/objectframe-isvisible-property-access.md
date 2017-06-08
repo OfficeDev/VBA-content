@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.IsVisible
 ms.assetid: 0fdbf0ab-518b-6c1a-5394-a6ecad4f70f5
+ms.date: 06/08/2017
 ---
 
 

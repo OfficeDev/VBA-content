@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WarnOnFunctionNameConflict
 ms.assetid: c29a9dbc-cd1f-18cc-2d44-ec639b0e67fa
+ms.date: 06/08/2017
 ---
 
 

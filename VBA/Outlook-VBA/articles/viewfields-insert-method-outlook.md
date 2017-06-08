@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFields.Insert
 ms.assetid: a975a030-76c9-e877-8df7-601094998fd1
+ms.date: 06/08/2017
 ---
 
 

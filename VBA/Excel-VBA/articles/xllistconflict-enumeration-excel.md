@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlListConflict
 ms.assetid: b34db86e-83eb-e952-7f01-d6806cf50884
+ms.date: 06/08/2017
 ---
 
 

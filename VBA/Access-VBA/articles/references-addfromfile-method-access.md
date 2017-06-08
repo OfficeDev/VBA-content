@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.References.AddFromFile
 ms.assetid: 23934c34-2315-b109-57ae-ed2dae347307
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddTextEffect
 ms.assetid: 4428ac57-c704-475a-1640-78a556e9ac3d
+ms.date: 06/08/2017
 ---
 
 

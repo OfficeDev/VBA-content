@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.Categories
 ms.assetid: 640caa61-a29f-e6d4-8833-a3d263b2d00e
+ms.date: 06/08/2017
 ---
 
 

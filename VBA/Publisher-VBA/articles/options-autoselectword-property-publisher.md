@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.AutoSelectWord
 ms.assetid: 2b36f0d2-3260-aa3d-13b2-ae08b8d631d1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.KoreanCombineAux
 ms.assetid: 9e858f87-e302-2d51-aa9e-383352b534e2
+ms.date: 06/08/2017
 ---
 
 

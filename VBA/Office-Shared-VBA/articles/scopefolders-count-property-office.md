@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ScopeFolders.Count
 ms.assetid: df040089-dac4-0cd5-eff0-0aa0f050decf
+ms.date: 06/08/2017
 ---
 
 

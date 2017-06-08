@@ -2,6 +2,7 @@
 title: ReadabilityStatistics Object (Word)
 ms.prod: WORD
 ms.assetid: eabef73c-f837-435a-cfec-b76082cc0f7e
+ms.date: 06/08/2017
 ---
 
 

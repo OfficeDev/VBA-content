@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlCVError
 ms.assetid: 652a8f26-b80d-a555-6ff2-58da3f219090
+ms.date: 06/08/2017
 ---
 
 

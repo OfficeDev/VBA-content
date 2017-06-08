@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WebPageFonts.Count
 ms.assetid: 68a66e13-d560-ed11-93d2-e6e0d5e74d2e
+ms.date: 06/08/2017
 ---
 
 

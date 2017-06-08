@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.BeforeDelete
 ms.assetid: 73900e17-571c-e972-eeca-fb0d591a4641
+ms.date: 06/08/2017
 ---
 
 

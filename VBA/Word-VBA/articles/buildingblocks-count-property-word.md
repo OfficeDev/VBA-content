@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.BuildingBlocks.Count
 ms.assetid: 44a4d5ec-4333-6b13-cd26-f7b9b273ba65
+ms.date: 06/08/2017
 ---
 
 

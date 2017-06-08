@@ -2,6 +2,7 @@
 title: Access User Interface How Do I...
 ms.prod: ACCESS
 ms.assetid: ae1b163d-21a6-3ac2-91e7-f0506fd4842f
+ms.date: 06/08/2017
 ---
 
 

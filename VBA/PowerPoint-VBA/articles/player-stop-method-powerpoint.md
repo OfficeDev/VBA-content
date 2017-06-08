@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Player.Stop
 ms.assetid: 657c54a4-510b-c9c7-ad78-6cdc3a6bab76
+ms.date: 06/08/2017
 ---
 
 

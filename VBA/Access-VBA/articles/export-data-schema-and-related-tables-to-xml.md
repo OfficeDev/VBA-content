@@ -2,6 +2,7 @@
 title: Export Data, Schema, and Related Tables to XML
 ms.prod: ACCESS
 ms.assetid: 4f84813a-bc39-ac03-f04f-624f74eed190
+ms.date: 06/08/2017
 ---
 
 

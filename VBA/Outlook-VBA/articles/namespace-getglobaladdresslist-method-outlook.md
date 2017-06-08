@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.GetGlobalAddressList
 ms.assetid: 0c892483-96c5-461d-a862-fe84ddcce097
+ms.date: 06/08/2017
 ---
 
 

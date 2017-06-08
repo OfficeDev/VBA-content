@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPivotCellType
 ms.assetid: 388b92b8-4ca2-47c2-3cdb-662efbd6d63d
+ms.date: 06/08/2017
 ---
 
 

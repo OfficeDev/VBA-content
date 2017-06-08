@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Nodes
 ms.assetid: b3b1f684-2bce-2dfb-87e5-77f6f9d1cd27
+ms.date: 06/08/2017
 ---
 
 

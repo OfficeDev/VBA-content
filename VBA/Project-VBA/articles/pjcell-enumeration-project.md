@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjCell
 ms.assetid: c723eac4-6a19-ae9e-19e9-5b203a2dcf54
+ms.date: 06/08/2017
 ---
 
 

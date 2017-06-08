@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.PropControl
 ms.assetid: 615e5038-d84d-9527-6987-95f289da77d9
+ms.date: 06/08/2017
 ---
 
 

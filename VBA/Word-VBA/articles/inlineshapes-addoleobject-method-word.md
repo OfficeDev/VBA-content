@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShapes.AddOLEObject
 ms.assetid: a7954807-160b-44de-1a50-c35a831d8651
+ms.date: 06/08/2017
 ---
 
 

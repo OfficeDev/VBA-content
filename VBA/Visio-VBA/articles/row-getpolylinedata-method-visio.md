@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Row.GetPolylineData
 ms.assetid: 91b7f1b4-259d-9423-0c12-271287248a74
+ms.date: 06/08/2017
 ---
 
 

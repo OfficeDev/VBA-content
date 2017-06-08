@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.FormatResultEx
 ms.assetid: 8a6fe08f-06f2-f9d5-5699-aa40fec6bde8
+ms.date: 06/08/2017
 ---
 
 

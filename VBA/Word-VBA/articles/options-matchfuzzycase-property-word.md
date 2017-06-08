@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyCase
 ms.assetid: 2fa5cf3f-01d5-c47a-cc99-ce9249ea59bf
+ms.date: 06/08/2017
 ---
 
 

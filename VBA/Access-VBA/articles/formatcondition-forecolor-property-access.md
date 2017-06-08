@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.ForeColor
 ms.assetid: 3d9c0474-3723-1250-28f9-fedee6bc6c4d
+ms.date: 06/08/2017
 ---
 
 

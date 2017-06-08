@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.OnComponentEnterState
 ms.assetid: 4550b7cf-3aaa-cfba-edf0-662847d7e970
+ms.date: 06/08/2017
 ---
 
 

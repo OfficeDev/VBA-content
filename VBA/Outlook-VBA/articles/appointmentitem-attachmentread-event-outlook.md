@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.AttachmentRead
 ms.assetid: 69ea3ad0-5cb6-a832-8e46-9ed86c59c3b2
+ms.date: 06/08/2017
 ---
 
 

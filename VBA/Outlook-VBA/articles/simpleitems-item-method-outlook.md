@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SimpleItems.Item
 ms.assetid: 0b56d8a7-2bf5-a2e2-a269-b2d7377d2901
+ms.date: 06/08/2017
 ---
 
 

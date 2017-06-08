@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminder.Dismiss
 ms.assetid: cc757453-5eab-4e9f-5dd2-2b7620506d11
+ms.date: 06/08/2017
 ---
 
 

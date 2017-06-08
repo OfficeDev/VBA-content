@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.MoveAfter
 ms.assetid: 1d19f90c-51a6-d9bd-5593-53c67c7df415
+ms.date: 06/08/2017
 ---
 
 

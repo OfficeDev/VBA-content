@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.OutlookInternalVersion
 ms.assetid: 44511a6c-8be6-8897-90b5-76d56da5b7ca
+ms.date: 06/08/2017
 ---
 
 

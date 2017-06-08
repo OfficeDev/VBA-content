@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormRegionMode
 ms.assetid: 6fea8606-7465-0fdf-204d-f3562b6cc916
+ms.date: 06/08/2017
 ---
 
 

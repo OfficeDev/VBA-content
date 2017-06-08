@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.GradientAngle
 ms.assetid: a40a03bb-a395-0e7e-708c-4b9eee89ee4c
+ms.date: 06/08/2017
 ---
 
 

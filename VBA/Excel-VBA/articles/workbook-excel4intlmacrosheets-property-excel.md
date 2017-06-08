@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Excel4IntlMacroSheets
 ms.assetid: 70a8c8d0-1169-7c3d-904e-5a32a4693f45
+ms.date: 06/08/2017
 ---
 
 

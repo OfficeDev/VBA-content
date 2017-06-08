@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ControlFormat
 ms.assetid: fafc6e6b-641c-2179-0789-d86c2718b3c0
+ms.date: 06/08/2017
 ---
 
 

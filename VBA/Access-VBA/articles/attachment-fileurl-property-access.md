@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.FileURL
 ms.assetid: 661ce36f-77f8-be34-845f-a3c450b878bf
+ms.date: 06/08/2017
 ---
 
 

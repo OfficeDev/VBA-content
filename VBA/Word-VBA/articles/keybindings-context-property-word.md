@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeyBindings.Context
 ms.assetid: 8cdba82a-a4cc-f549-a3c5-4bfbb70578b6
+ms.date: 06/08/2017
 ---
 
 

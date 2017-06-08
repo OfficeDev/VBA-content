@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.HoursPerDay
 ms.assetid: 2bd315b1-c9b6-6de3-66b9-23ae8895c2d7
+ms.date: 06/08/2017
 ---
 
 

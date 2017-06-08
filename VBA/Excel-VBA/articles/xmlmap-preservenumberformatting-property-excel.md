@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.PreserveNumberFormatting
 ms.assetid: 2eb38b1b-a2d0-ac24-2bfa-4bc24819d2af
+ms.date: 06/08/2017
 ---
 
 

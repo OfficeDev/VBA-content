@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextColumn2.Number
 ms.assetid: 076c9908-8988-b9aa-7422-9e9ca5bfc687
+ms.date: 06/08/2017
 ---
 
 

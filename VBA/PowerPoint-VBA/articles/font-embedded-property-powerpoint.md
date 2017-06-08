@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.Embedded
 ms.assetid: 3fd7fe50-19a9-9944-f7c8-0ba54bc07c93
+ms.date: 06/08/2017
 ---
 
 

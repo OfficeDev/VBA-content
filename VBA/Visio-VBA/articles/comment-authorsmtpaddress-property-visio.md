@@ -2,6 +2,7 @@
 title: Comment.AuthorSMTPAddress Property (Visio)
 ms.prod: VISIO
 ms.assetid: 22e04ccc-c524-ca08-d5e2-db68fdb3afb6
+ms.date: 06/08/2017
 ---
 
 

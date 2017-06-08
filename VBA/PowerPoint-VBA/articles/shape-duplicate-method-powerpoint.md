@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Duplicate
 ms.assetid: 0d2f22bc-ee72-6405-011a-77a9eb98fb39
+ms.date: 06/08/2017
 ---
 
 

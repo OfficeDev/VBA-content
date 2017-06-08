@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.Weight
 ms.assetid: 81439a12-175e-9ea6-7fd8-ee4207a23752
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Subtotal
 ms.assetid: b4b7b640-5a6c-8c94-d9ab-c9a557190829
+ms.date: 06/08/2017
 ---
 
 

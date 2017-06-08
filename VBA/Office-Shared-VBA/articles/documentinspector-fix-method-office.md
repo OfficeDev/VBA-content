@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentInspector.Fix
 ms.assetid: b05326b0-779c-97f5-d3fd-705f82a141ef
+ms.date: 06/08/2017
 ---
 
 

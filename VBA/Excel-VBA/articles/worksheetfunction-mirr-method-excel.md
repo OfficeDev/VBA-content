@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.MIrr
 ms.assetid: 5c11a445-0b5a-ce7f-d881-e5f85cdf648a
+ms.date: 06/08/2017
 ---
 
 

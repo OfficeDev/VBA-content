@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion.GroupInterval
 ms.assetid: 1944776c-0150-d901-79f1-cfb7c0c698f7
+ms.date: 06/08/2017
 ---
 
 

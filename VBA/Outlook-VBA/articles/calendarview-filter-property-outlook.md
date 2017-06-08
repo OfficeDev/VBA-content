@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.Filter
 ms.assetid: c62e9521-e1aa-bfe8-5774-25c3227973b5
+ms.date: 06/08/2017
 ---
 
 

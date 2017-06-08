@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.MultipleCriticalPaths
 ms.assetid: f6ebb491-000e-cd09-b4d6-99d1852fad26
+ms.date: 06/08/2017
 ---
 
 

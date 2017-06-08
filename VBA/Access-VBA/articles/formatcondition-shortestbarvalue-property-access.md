@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.ShortestBarValue
 ms.assetid: b262c385-0c12-87cc-45cc-83a658a61510
+ms.date: 06/08/2017
 ---
 
 

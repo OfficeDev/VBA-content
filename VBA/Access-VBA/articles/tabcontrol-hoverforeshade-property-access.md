@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.HoverForeShade
 ms.assetid: 854636ec-a822-be75-307a-50007938ceca
+ms.date: 06/08/2017
 ---
 
 

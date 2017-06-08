@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Height
 ms.assetid: d70eeb9d-d3d2-51ee-1567-f8762aaa089b
+ms.date: 06/08/2017
 ---
 
 

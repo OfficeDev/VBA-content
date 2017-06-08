@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Day.Shift1
 ms.assetid: f57a5d81-85a6-0464-943a-0556b9521755
+ms.date: 06/08/2017
 ---
 
 

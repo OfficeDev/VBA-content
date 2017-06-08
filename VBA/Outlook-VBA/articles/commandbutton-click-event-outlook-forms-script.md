@@ -2,6 +2,7 @@
 title: CommandButton.Click Event (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 747d6f8f-c4da-f670-d476-21729387c4bc
+ms.date: 06/08/2017
 ---
 
 

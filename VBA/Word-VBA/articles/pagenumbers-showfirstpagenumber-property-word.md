@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.ShowFirstPageNumber
 ms.assetid: 5f7c88cc-ddb7-08d6-880d-f55a9591fdea
+ms.date: 06/08/2017
 ---
 
 

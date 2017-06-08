@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomTaskPane.Delete
 ms.assetid: 6db4b7ba-3dd8-7249-07dc-511516b1a16c
+ms.date: 06/08/2017
 ---
 
 

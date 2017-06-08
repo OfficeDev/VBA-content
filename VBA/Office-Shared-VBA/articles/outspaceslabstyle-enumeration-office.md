@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.OutSpaceSlabStyle
 ms.assetid: af928eab-5c6f-7a20-4b2f-b7612fb7e8e5
+ms.date: 06/08/2017
 ---
 
 

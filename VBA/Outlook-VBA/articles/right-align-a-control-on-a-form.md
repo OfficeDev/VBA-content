@@ -2,6 +2,7 @@
 title: Right-Align a Control on a Form
 ms.prod: OUTLOOK
 ms.assetid: 6136af4e-196b-1329-08f5-adf76bf75c3a
+ms.date: 06/08/2017
 ---
 
 

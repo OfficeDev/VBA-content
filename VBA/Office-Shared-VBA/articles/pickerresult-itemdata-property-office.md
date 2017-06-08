@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PickerResult.ItemData
 ms.assetid: e5fd2078-0ab2-eab2-8c97-093b441ccd41
+ms.date: 06/08/2017
 ---
 
 

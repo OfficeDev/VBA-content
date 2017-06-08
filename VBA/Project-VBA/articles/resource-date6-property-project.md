@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Date6
 ms.assetid: f60cc98e-3fce-061c-ed01-a94d8a2f33b0
+ms.date: 06/08/2017
 ---
 
 

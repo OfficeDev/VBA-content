@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbUnderlineType
 ms.assetid: 61977d15-c7f3-f496-bc37-91eba9d9f6e7
+ms.date: 06/08/2017
 ---
 
 

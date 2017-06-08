@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Width
 ms.assetid: 75c3aff6-25a0-2f64-2c25-da213b87393b
+ms.date: 06/08/2017
 ---
 
 

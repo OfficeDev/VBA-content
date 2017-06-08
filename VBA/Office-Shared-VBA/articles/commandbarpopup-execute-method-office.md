@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Execute
 ms.assetid: fedebe76-86f5-9c30-6e23-a20e0024bbf4
+ms.date: 06/08/2017
 ---
 
 

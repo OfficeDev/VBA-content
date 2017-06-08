@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.Type
 ms.assetid: cbbdfda7-a193-9fb8-8cc3-393e03a1f335
+ms.date: 06/08/2017
 ---
 
 

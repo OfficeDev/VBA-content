@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.HasLeaderLines
 ms.assetid: 4aaab32e-56e7-cd47-c3a2-ff92df218373
+ms.date: 06/08/2017
 ---
 
 

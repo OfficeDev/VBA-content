@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureProvider.GenerateSignatureLineImage
 ms.assetid: 36430574-939a-4050-c7b1-ce738be334a2
+ms.date: 06/08/2017
 ---
 
 

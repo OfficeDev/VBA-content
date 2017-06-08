@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.Read
 ms.assetid: 581f3a16-2cc2-839e-3d48-e454be17b8cd
+ms.date: 06/08/2017
 ---
 
 

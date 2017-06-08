@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.CurrentX
 ms.assetid: 3b5e7c50-ecb4-606a-6715-4d54ed912c45
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.BeforeAttachmentPreview
 ms.assetid: e9554590-a748-e2c9-b879-a3fb67dc016c
+ms.date: 06/08/2017
 ---
 
 

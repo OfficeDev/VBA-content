@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.Deactivate
 ms.assetid: 211c4cea-0068-7178-ea71-baf09b9a2075
+ms.date: 06/08/2017
 ---
 
 

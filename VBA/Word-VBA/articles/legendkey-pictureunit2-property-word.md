@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendKey.PictureUnit2
 ms.assetid: 4f0bbf8a-774f-d77c-b8e8-76cb7b839329
+ms.date: 06/08/2017
 ---
 
 

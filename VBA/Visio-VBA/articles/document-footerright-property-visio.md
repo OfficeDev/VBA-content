@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.FooterRight
 ms.assetid: 17db938c-6b1b-6cd1-7f4e-65aca275f30b
+ms.date: 06/08/2017
 ---
 
 

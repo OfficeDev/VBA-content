@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.Width
 ms.assetid: 1b353268-5cb7-0d30-1080-80261d0a28bb
+ms.date: 06/08/2017
 ---
 
 

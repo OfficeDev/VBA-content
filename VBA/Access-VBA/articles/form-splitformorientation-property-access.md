@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.SplitFormOrientation
 ms.assetid: ddf2228f-6973-ae6c-1477-41a07557b7a2
+ms.date: 06/08/2017
 ---
 
 

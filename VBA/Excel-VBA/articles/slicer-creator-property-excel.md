@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Creator
 ms.assetid: 82991e7e-5bf8-e508-398a-413707ac70b1
+ms.date: 06/08/2017
 ---
 
 

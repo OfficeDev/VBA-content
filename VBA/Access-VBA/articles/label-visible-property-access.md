@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.Visible
 ms.assetid: bdc6b7bb-8877-d382-ee91-5f69e666e0d8
+ms.date: 06/08/2017
 ---
 
 

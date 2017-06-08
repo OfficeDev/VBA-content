@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.LinkToData
 ms.assetid: 1aa42548-2f3a-015d-e618-c0e103ffaea3
+ms.date: 06/08/2017
 ---
 
 

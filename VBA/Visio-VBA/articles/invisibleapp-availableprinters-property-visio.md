@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.AvailablePrinters
 ms.assetid: 3e4bba9c-d338-deea-ef78-7150804d0216
+ms.date: 06/08/2017
 ---
 
 

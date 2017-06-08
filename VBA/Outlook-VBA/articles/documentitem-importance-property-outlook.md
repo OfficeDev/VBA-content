@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Importance
 ms.assetid: 2d0364bc-89b9-a296-cb0b-3d048801ef26
+ms.date: 06/08/2017
 ---
 
 

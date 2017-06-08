@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CellRange.Parent
 ms.assetid: 9e19b9d0-eff7-f820-fee0-57b8b024eba2
+ms.date: 06/08/2017
 ---
 
 

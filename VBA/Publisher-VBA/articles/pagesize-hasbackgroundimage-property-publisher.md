@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSize.HasBackgroundImage
 ms.assetid: 544e8e73-e134-c297-42da-bc96c3d498e0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Comment.Author
 ms.assetid: ac964a80-1646-41a0-8b3a-941c800395e7
+ms.date: 06/08/2017
 ---
 
 

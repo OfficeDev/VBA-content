@@ -2,6 +2,7 @@
 title: SharedWorkspaceFiles Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 52a62ce0-b41e-4337-a498-d321e499b2b6
+ms.date: 06/08/2017
 ---
 
 

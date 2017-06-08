@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.AllowEditing
 ms.assetid: 805ed8a9-1835-0d7b-9bbe-717ff21af3c9
+ms.date: 06/08/2017
 ---
 
 

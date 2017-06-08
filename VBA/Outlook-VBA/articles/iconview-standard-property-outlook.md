@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.IconView.Standard
 ms.assetid: 13816c3b-a35f-30cf-c63e-fb7d52a0a942
+ms.date: 06/08/2017
 ---
 
 

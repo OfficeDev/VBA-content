@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Style
 ms.assetid: beba03ba-6926-d2db-4e36-652d05c2925c
+ms.date: 06/08/2017
 ---
 
 

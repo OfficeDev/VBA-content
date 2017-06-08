@@ -2,6 +2,7 @@
 title: ActiveX Data Objects (ADO)
 ms.prod: ACCESS
 ms.assetid: 7bf30e48-fbe1-4446-8e0d-75e74eb506ac
+ms.date: 06/08/2017
 ---
 
 

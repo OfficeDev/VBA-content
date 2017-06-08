@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItems.Count
 ms.assetid: dcc79182-e361-1ecc-0e39-b803a6445903
+ms.date: 06/08/2017
 ---
 
 

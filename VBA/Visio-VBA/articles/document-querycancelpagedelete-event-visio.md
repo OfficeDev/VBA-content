@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.QueryCancelPageDelete
 ms.assetid: d4f59122-5e03-72f8-5a9d-23e629a658a4
+ms.date: 06/08/2017
 ---
 
 

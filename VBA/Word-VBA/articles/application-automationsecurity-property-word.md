@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.AutomationSecurity
 ms.assetid: 2bc4f55c-d209-013b-77e4-ada7963bdee9
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.OpenModule
 ms.assetid: 3d0b1599-6f52-e369-55e4-7fdc1c370953
+ms.date: 06/08/2017
 ---
 
 

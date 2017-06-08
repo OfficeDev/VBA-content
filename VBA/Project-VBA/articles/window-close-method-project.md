@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Window.Close
 ms.assetid: 820f202b-d609-02e6-eff4-3368b9f93dd5
+ms.date: 06/08/2017
 ---
 
 

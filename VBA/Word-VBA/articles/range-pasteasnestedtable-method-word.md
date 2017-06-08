@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.PasteAsNestedTable
 ms.assetid: 8d7a3fc6-5fc2-9cbc-d551-b4606af54619
+ms.date: 06/08/2017
 ---
 
 

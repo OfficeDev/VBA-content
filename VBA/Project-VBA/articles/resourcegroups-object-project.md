@@ -2,6 +2,7 @@
 title: ResourceGroups Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 37bd0f3a-4d0e-1311-4409-ed31e0fe2e3a
+ms.date: 06/08/2017
 ---
 
 

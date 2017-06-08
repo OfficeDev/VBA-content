@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.AutoRecover
 ms.assetid: 23b09910-35a8-93bc-71f0-4618b1c48523
+ms.date: 06/08/2017
 ---
 
 

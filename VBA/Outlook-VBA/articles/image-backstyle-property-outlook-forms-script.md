@@ -2,6 +2,7 @@
 title: Image.BackStyle Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 1058cd2e-936e-17d5-9276-2a7130ebc3ef
+ms.date: 06/08/2017
 ---
 
 

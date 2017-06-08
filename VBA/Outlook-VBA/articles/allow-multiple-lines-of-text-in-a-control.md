@@ -2,6 +2,7 @@
 title: Allow Multiple Lines of Text in a Control
 ms.prod: OUTLOOK
 ms.assetid: 98126ff9-7175-4cf9-8b22-81aefc780e11
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.RadarAxisLabels
 ms.assetid: 6bfef746-4616-7a63-0d1d-d0227a6e45f7
+ms.date: 06/08/2017
 ---
 
 

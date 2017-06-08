@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.AttachmentSelectionChange
 ms.assetid: 1250045d-bcb3-b823-31d5-ec31c64ad59e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Rotation
 ms.assetid: 0239aaae-18c7-56ef-f2b1-82f82660370a
+ms.date: 06/08/2017
 ---
 
 

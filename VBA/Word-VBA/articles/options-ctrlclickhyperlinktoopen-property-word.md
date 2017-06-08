@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.CtrlClickHyperlinkToOpen
 ms.assetid: 2180e99c-ab4c-3f75-2417-22cec6b2d130
+ms.date: 06/08/2017
 ---
 
 

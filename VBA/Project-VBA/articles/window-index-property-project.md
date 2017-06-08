@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Window.Index
 ms.assetid: 0603f1c2-9a2a-9411-d9ef-47115f576d64
+ms.date: 06/08/2017
 ---
 
 

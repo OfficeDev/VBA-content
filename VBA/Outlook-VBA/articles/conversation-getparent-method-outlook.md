@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conversation.GetParent
 ms.assetid: edcd31fb-f62e-4273-f827-ac1f704adc5e
+ms.date: 06/08/2017
 ---
 
 

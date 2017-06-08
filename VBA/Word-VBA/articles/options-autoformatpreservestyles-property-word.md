@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatPreserveStyles
 ms.assetid: cbde64c7-4a82-f33f-c337-bbc24c32ab40
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Revision.MovedRange
 ms.assetid: 85f8b45e-a28f-7d02-6a2e-feb18562eb45
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureProvider.NotifySignatureAdded
 ms.assetid: 07eb9589-ff67-e54f-9a83-966738c3df58
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.StartTimeZone
 ms.assetid: 3259fa91-5f6c-b899-9bfc-2ac669911271
+ms.date: 06/08/2017
 ---
 
 

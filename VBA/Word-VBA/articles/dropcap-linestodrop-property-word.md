@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropCap.LinesToDrop
 ms.assetid: 148ca844-d9ee-39f5-722a-6bd8279ca4b9
+ms.date: 06/08/2017
 ---
 
 

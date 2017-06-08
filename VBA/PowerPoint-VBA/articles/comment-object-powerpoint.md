@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Comment
 ms.assetid: c1071b54-eeaa-0cec-13f0-b635da9511d8
+ms.date: 06/08/2017
 ---
 
 

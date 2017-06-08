@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Points.Application
 ms.assetid: ec286f82-6e6d-dc45-b1ee-9cbd19a656dc
+ms.date: 06/08/2017
 ---
 
 

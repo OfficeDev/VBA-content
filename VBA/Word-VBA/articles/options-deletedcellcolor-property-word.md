@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DeletedCellColor
 ms.assetid: 6ae918ee-9679-0d3d-fa45-0e404258d1bf
+ms.date: 06/08/2017
 ---
 
 

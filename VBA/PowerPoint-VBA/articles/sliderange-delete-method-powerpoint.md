@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Delete
 ms.assetid: 23650f2f-6093-ce62-f545-3ffca0971719
+ms.date: 06/08/2017
 ---
 
 

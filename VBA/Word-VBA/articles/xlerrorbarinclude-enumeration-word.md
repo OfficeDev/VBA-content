@@ -2,6 +2,7 @@
 title: XlErrorBarInclude Enumeration (Word)
 ms.prod: WORD
 ms.assetid: 76de90d9-df64-0abb-d517-ef18867a0f1a
+ms.date: 06/08/2017
 ---
 
 

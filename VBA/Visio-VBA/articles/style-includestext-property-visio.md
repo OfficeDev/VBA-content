@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.IncludesText
 ms.assetid: c23baaba-716d-398c-3c58-d47623be6752
+ms.date: 06/08/2017
 ---
 
 

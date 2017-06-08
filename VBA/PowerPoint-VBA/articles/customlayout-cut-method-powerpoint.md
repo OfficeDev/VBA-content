@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Cut
 ms.assetid: e27f9ba5-d933-5e2d-e71c-e1757941bde1
+ms.date: 06/08/2017
 ---
 
 

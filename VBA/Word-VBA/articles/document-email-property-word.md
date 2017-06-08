@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Email
 ms.assetid: dd4f6a41-3ee6-c1bf-3a2c-e00a342e0009
+ms.date: 06/08/2017
 ---
 
 

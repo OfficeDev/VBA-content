@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrect.TwoInitialCapsAutoAdd
 ms.assetid: 93030da5-453a-392a-3dc4-3c30a12cbea1
+ms.date: 06/08/2017
 ---
 
 

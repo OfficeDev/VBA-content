@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListFormat.ListTemplate
 ms.assetid: 778f4b21-575c-b6b1-768a-735c4730ae13
+ms.date: 06/08/2017
 ---
 
 

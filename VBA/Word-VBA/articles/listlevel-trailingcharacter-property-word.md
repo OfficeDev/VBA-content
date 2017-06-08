@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListLevel.TrailingCharacter
 ms.assetid: 9f64d28c-4409-6278-e20e-baaea1d03ce7
+ms.date: 06/08/2017
 ---
 
 

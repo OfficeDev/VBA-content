@@ -2,6 +2,7 @@
 title: VISWEB_DISP_RES Enumeration (Visio Save as Web)
 ms.prod: VISIO
 ms.assetid: b1de6074-da6b-9930-af03-890d1d9ac59a
+ms.date: 06/08/2017
 ---
 
 

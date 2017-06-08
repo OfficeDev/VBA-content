@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.OpenSharedFolder
 ms.assetid: 6d365693-8d59-a7a0-d6cb-fe959735d708
+ms.date: 06/08/2017
 ---
 
 

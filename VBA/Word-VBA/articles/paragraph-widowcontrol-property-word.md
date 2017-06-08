@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.WidowControl
 ms.assetid: 5bf158e5-02e4-03f8-0f48-c596d53dc13a
+ms.date: 06/08/2017
 ---
 
 

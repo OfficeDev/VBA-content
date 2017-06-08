@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowTransition.Parent
 ms.assetid: 32ab0ea5-ad24-ba48-6c00-31a1912c8d67
+ms.date: 06/08/2017
 ---
 
 

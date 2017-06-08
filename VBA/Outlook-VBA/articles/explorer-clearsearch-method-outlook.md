@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.ClearSearch
 ms.assetid: 644b6012-0b87-b4cb-6104-6f05b5c4dcc5
+ms.date: 06/08/2017
 ---
 
 

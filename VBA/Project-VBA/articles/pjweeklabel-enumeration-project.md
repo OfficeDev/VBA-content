@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjWeekLabel
 ms.assetid: b1249491-1e96-6b85-83c2-214455267c62
+ms.date: 06/08/2017
 ---
 
 

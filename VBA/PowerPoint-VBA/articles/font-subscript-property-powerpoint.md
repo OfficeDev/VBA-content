@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.Subscript
 ms.assetid: ad23433b-b14b-9b2a-3bf6-772de41995f7
+ms.date: 06/08/2017
 ---
 
 

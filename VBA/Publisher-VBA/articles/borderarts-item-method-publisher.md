@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArts.Item
 ms.assetid: 64c79cf8-dfbf-9979-27d9-367603f5bf9a
+ms.date: 06/08/2017
 ---
 
 

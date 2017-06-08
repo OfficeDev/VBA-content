@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Graphic.Contrast
 ms.assetid: 9715ee08-2d9b-1a5c-1fe9-3b5a73991668
+ms.date: 06/08/2017
 ---
 
 

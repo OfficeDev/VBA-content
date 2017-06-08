@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Windows.Count
 ms.assetid: 1691ca16-d4f3-f3f7-3269-19436493393b
+ms.date: 06/08/2017
 ---
 
 

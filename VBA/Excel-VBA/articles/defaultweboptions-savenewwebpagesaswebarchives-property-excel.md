@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DefaultWebOptions.SaveNewWebPagesAsWebArchives
 ms.assetid: 659d338e-74b8-8959-d02b-4d7a08cadbf0
+ms.date: 06/08/2017
 ---
 
 

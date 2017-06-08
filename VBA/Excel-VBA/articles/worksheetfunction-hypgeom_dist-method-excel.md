@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.HypGeom_Dist
 ms.assetid: 83fd3d7f-f9f0-fa49-863e-7ddd604b4de7
+ms.date: 06/08/2017
 ---
 
 

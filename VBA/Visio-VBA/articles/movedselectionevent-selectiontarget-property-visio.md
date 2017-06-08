@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MovedSelectionEvent.SelectionTarget
 ms.assetid: 2c245057-c51a-62fd-4a35-3adddeceff97
+ms.date: 06/08/2017
 ---
 
 

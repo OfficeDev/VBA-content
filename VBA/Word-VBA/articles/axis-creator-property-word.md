@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.Creator
 ms.assetid: c7015ed2-d78f-4eb7-477c-11e896a7f37f
+ms.date: 06/08/2017
 ---
 
 

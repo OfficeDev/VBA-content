@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Group
 ms.assetid: ca3e011f-72ea-904e-da3f-cac7fe24341d
+ms.date: 06/08/2017
 ---
 
 

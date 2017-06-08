@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathLimUpp.ToLimLow
 ms.assetid: 1f3f1851-ea32-71b5-ac2a-e8e8f070f320
+ms.date: 06/08/2017
 ---
 
 

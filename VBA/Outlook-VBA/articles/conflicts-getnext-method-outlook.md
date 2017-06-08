@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conflicts.GetNext
 ms.assetid: 2e21ea88-c732-17ee-cd87-698fee992269
+ms.date: 06/08/2017
 ---
 
 

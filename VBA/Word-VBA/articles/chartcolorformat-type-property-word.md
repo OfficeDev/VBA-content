@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartColorFormat.Type
 ms.assetid: 7f23586e-05be-67f4-809b-ab58370aff19
+ms.date: 06/08/2017
 ---
 
 

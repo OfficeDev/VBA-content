@@ -2,6 +2,7 @@
 title: Sort Records in Case-Sensitive ( ASCII) Order
 ms.prod: ACCESS
 ms.assetid: 92c74803-2ff3-82b3-ca20-8bef5bfd6004
+ms.date: 06/08/2017
 ---
 
 

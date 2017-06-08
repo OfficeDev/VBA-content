@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdDocumentType
 ms.assetid: 60dce065-63c9-3a7d-3bf2-8a67f70dacc6
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Duration7
 ms.assetid: 2f7dfe86-c595-927d-308b-8c8dfff77113
+ms.date: 06/08/2017
 ---
 
 

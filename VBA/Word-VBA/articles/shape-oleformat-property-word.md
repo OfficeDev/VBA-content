@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.OLEFormat
 ms.assetid: d558bd26-207c-c308-889e-7316f5027c7f
+ms.date: 06/08/2017
 ---
 
 

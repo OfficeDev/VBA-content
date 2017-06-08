@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.IncrementOffsetY
 ms.assetid: e0859dd3-9058-32ec-37d8-d14187b69666
+ms.date: 06/08/2017
 ---
 
 

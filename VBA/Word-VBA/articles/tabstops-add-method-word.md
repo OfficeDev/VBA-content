@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStops.Add
 ms.assetid: d6996a6c-e2e7-692c-3f48-27af213803e1
+ms.date: 06/08/2017
 ---
 
 

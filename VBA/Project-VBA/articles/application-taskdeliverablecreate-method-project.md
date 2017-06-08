@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TaskDeliverableCreate
 ms.assetid: 61bd8608-8a5f-3555-b769-5ee951f8ebd7
+ms.date: 06/08/2017
 ---
 
 

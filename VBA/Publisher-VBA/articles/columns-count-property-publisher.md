@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Columns.Count
 ms.assetid: 2f7fdb6a-6cd0-2ede-bd34-6954ef23c1a0
+ms.date: 06/08/2017
 ---
 
 

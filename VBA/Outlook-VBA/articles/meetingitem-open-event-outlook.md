@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.Open
 ms.assetid: d286705a-d542-f3aa-3121-f0635e0cc62c
+ms.date: 06/08/2017
 ---
 
 

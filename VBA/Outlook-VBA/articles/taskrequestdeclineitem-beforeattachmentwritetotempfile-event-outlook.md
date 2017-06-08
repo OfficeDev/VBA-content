@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile
 ms.assetid: c9564849-ecb2-a5a2-1c7e-f7cfea5ce34d
+ms.date: 06/08/2017
 ---
 
 

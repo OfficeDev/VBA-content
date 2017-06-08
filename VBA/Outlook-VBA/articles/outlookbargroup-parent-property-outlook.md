@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OutlookBarGroup.Parent
 ms.assetid: ec7f4207-494d-f476-c21d-ddc2af46a679
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FileConverter.ClassName
 ms.assetid: 71124adf-11fc-e42d-a9f5-940f7fea97af
+ms.date: 06/08/2017
 ---
 
 

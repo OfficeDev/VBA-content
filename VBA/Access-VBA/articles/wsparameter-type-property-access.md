@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WSParameter.Type
 ms.assetid: c3ab559c-f364-63c4-df45-d48dfe569f08
+ms.date: 06/08/2017
 ---
 
 

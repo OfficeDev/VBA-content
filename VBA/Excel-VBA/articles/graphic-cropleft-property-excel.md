@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Graphic.CropLeft
 ms.assetid: decebec1-af4a-2bb1-62b5-d90674b5b338
+ms.date: 06/08/2017
 ---
 
 

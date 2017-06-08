@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TickLabels
 ms.assetid: 2ba878bf-3a76-1350-2bd4-615c2520f042
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Phonetics.Delete
 ms.assetid: 0dab7f60-d6e5-efa1-e58a-92f3f0de9cc5
+ms.date: 06/08/2017
 ---
 
 

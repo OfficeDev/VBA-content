@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.InStory
 ms.assetid: 62452309-4d4a-5207-3e1b-28b109ca1b1e
+ms.date: 06/08/2017
 ---
 
 

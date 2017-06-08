@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.MacroSecurity
 ms.assetid: 5b2fc876-50b2-e30b-ab2b-aa3dc3bddc13
+ms.date: 06/08/2017
 ---
 
 

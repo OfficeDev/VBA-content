@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.BeforeShapeTextEdit
 ms.assetid: 375b4052-9b32-6f51-f522-26a3f735034b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathGroupChar
 ms.assetid: e8f81e9d-86e7-bf52-5382-ad7d26b18af8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.ActionSettings
 ms.assetid: 67e76de6-c0c3-7a35-f01e-e1cab4eb13d3
+ms.date: 06/08/2017
 ---
 
 

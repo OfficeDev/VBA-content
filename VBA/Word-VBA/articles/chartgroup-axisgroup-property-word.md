@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.AxisGroup
 ms.assetid: 4559ca47-ed2c-f122-0f38-a12cac8836d8
+ms.date: 06/08/2017
 ---
 
 

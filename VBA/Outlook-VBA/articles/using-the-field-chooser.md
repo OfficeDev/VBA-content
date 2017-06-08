@@ -2,6 +2,7 @@
 title: Using the Field Chooser
 ms.prod: OUTLOOK
 ms.assetid: 5af75a7c-0ef0-47cc-14ae-0d52247ca6ad
+ms.date: 06/08/2017
 ---
 
 

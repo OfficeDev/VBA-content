@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.IsNamedShow
 ms.assetid: a68632b2-bff4-9047-f0b8-6acb22a29071
+ms.date: 06/08/2017
 ---
 
 

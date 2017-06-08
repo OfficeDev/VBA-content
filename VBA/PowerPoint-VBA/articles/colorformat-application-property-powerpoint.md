@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ColorFormat.Application
 ms.assetid: b911e512-fae0-990d-36b1-85e8f9d74e08
+ms.date: 06/08/2017
 ---
 
 

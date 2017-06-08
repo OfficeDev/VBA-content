@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Hidden
 ms.assetid: a857f5e5-cda6-9402-dc82-6ed3bd93e2c4
+ms.date: 06/08/2017
 ---
 
 

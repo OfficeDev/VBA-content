@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.ReturnAddress
 ms.assetid: 6a9bb308-c447-b4e6-1ab9-6f73b29bee12
+ms.date: 06/08/2017
 ---
 
 

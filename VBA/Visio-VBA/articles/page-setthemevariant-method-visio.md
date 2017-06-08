@@ -2,6 +2,7 @@
 title: Page.SetThemeVariant Method (Visio)
 ms.prod: VISIO
 ms.assetid: 8393a95f-83ca-0efa-d987-ae498bfe5e9d
+ms.date: 06/08/2017
 ---
 
 

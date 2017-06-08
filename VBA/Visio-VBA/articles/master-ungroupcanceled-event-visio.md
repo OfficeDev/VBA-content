@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.UngroupCanceled
 ms.assetid: 0bbe537e-9bae-62a9-7e29-aea71ab3c8f9
+ms.date: 06/08/2017
 ---
 
 

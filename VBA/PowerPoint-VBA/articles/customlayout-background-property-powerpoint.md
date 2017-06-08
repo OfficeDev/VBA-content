@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Background
 ms.assetid: 61141722-d851-b3ff-f426-0865a6e31850
+ms.date: 06/08/2017
 ---
 
 

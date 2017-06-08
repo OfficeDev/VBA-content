@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ReflectionFormat.Type
 ms.assetid: 513150ec-18af-95b4-4a99-fcbd36405923
+ms.date: 06/08/2017
 ---
 
 

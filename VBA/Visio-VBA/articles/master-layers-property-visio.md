@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.Layers
 ms.assetid: 6c78d629-506c-54aa-e0cc-7fd807cdfffb
+ms.date: 06/08/2017
 ---
 
 

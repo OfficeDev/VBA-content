@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DataRecordsetChanged
 ms.assetid: 8be61b1a-3a3c-5880-47bc-e2cac9bb60f9
+ms.date: 06/08/2017
 ---
 
 

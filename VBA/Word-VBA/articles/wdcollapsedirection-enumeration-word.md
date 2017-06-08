@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCollapseDirection
 ms.assetid: 4b462af0-cad6-60c0-a652-a27399e7c663
+ms.date: 06/08/2017
 ---
 
 

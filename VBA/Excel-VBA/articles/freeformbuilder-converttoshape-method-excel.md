@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FreeformBuilder.ConvertToShape
 ms.assetid: 2084277d-7e6a-5675-8e46-17522c3228eb
+ms.date: 06/08/2017
 ---
 
 

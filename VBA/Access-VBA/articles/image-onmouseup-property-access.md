@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.OnMouseUp
 ms.assetid: d0c73a5e-a478-ca9c-e5c0-c9fc9bcc6269
+ms.date: 06/08/2017
 ---
 
 

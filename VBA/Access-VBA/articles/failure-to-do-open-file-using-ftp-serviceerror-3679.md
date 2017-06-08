@@ -2,6 +2,7 @@
 title: Failure to do open file using FTP service. (Error 3679)
 ms.prod: ACCESS
 ms.assetid: f7408177-bca2-0e4f-c28b-f02db88ac3e0
+ms.date: 06/08/2017
 ---
 
 

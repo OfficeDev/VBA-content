@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddTextEffect
 ms.assetid: 21af82f1-d507-3c16-72df-bde1b5e00717
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.GroupLevel.GroupInterval
 ms.assetid: 98ba66b9-658e-9fa6-155b-3b4f1a7c3f01
+ms.date: 06/08/2017
 ---
 
 

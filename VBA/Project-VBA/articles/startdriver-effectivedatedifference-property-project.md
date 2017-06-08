@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.StartDriver.EffectiveDateDifference
 ms.assetid: 9b825839-31de-71f8-9804-015dfd5a293c
+ms.date: 06/08/2017
 ---
 
 

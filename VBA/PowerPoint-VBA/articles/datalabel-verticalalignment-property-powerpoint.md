@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.VerticalAlignment
 ms.assetid: 2be75c8e-9859-688d-689b-7ce935333664
+ms.date: 06/08/2017
 ---
 
 

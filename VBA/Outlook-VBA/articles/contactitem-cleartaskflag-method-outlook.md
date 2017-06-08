@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.ClearTaskFlag
 ms.assetid: 19e4fecd-7565-60ae-707b-410f4c1a6dcd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertAfter
 ms.assetid: 21286a89-5e4e-56ae-27a5-f581a337bfbb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.AutoLabel
 ms.assetid: a5e6e68c-eadc-a242-ef83-8b388f6ca41f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.MAPIAvailable
 ms.assetid: 2cb2fc8c-1ef6-98b8-fa72-0705637ad3ac
+ms.date: 06/08/2017
 ---
 
 

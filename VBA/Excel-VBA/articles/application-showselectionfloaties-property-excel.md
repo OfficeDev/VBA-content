@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ShowSelectionFloaties
 ms.assetid: d2d74009-6b5e-ef62-2e32-83293b0f3f75
+ms.date: 06/08/2017
 ---
 
 

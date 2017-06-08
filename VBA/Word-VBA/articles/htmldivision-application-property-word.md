@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivision.Application
 ms.assetid: 9516c9c3-7b2a-3121-aa08-3742fe89ce3c
+ms.date: 06/08/2017
 ---
 
 

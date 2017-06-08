@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TwelveHourTimeFormat
 ms.assetid: 899caa96-da4e-8ee6-988a-6cef64a1a46c
+ms.date: 06/08/2017
 ---
 
 

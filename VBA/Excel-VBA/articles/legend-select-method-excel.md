@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Legend.Select
 ms.assetid: cf7d6211-d03a-0813-30dd-fd366f3f9b50
+ms.date: 06/08/2017
 ---
 
 

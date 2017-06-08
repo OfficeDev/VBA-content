@@ -1,6 +1,7 @@
 ---
 title: PpResampleMediaProfile Enumeration (PowerPoint)
 ms.assetid: ceaa8213-e549-5dac-b082-af2f391d682c
+ms.date: 06/08/2017
 ---
 
 

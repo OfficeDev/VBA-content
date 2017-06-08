@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SavePropertiesPrompt
 ms.assetid: da2bbc7d-920d-2442-25d3-c6ee11316097
+ms.date: 06/08/2017
 ---
 
 

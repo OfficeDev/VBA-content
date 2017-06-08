@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.AfterUpdate
 ms.assetid: 140c3cfd-ddad-a6cd-17bb-c8f5297c181e
+ms.date: 06/08/2017
 ---
 
 

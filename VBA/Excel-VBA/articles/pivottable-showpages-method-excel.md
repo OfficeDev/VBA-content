@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ShowPages
 ms.assetid: 7ebb55ab-ecda-31f7-23d2-fdefc12ee161
+ms.date: 06/08/2017
 ---
 
 

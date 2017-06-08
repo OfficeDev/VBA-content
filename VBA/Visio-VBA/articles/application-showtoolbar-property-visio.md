@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.ShowToolbar
 ms.assetid: 274dbfae-30bd-02cb-c8c4-246a3a3f26ef
+ms.date: 06/08/2017
 ---
 
 

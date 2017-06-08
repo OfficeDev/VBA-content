@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.LocalNetworkFile
 ms.assetid: 18b14c62-f648-eede-39a1-a27d3c6c1229
+ms.date: 06/08/2017
 ---
 
 

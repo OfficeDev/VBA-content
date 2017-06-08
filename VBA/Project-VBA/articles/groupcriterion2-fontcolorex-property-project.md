@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion2.FontColorEx
 ms.assetid: 5556ce54-315e-f676-6771-baec87853d8a
+ms.date: 06/08/2017
 ---
 
 

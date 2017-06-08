@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.DateCalendarType
 ms.assetid: 5ca35401-98f6-07a3-41ac-baba40e3ce21
+ms.date: 06/08/2017
 ---
 
 

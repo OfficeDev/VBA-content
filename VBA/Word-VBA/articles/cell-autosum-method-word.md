@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cell.AutoSum
 ms.assetid: 5f8c36c3-2e26-8e5f-16c4-49d4c04144c1
+ms.date: 06/08/2017
 ---
 
 

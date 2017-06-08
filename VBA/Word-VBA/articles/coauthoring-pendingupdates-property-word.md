@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthoring.PendingUpdates
 ms.assetid: ddc669ca-89dd-d321-4544-cc24e18270c6
+ms.date: 06/08/2017
 ---
 
 

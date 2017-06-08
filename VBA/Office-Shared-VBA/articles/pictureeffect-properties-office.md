@@ -2,6 +2,7 @@
 title: PictureEffect Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 9a50a8ba-cbd0-444f-af0f-5d37e9996107
+ms.date: 06/08/2017
 ---
 
 

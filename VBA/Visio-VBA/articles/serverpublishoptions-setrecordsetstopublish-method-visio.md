@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ServerPublishOptions.SetRecordsetsToPublish
 ms.assetid: c79a8677-e4f0-9eff-9eda-72b11d0af240
+ms.date: 06/08/2017
 ---
 
 

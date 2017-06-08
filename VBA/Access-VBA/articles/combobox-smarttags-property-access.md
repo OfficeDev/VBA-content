@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.SmartTags
 ms.assetid: b86a8460-48c6-92ad-602b-1d736bb2c38c
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Exception.MonthItem
 ms.assetid: 831b813a-4222-3c86-278b-daa1825f44c2
+ms.date: 06/08/2017
 ---
 
 

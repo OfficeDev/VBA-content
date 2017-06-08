@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.Session
 ms.assetid: b9599afe-1c2b-36b2-2ce4-8e781f32975a
+ms.date: 06/08/2017
 ---
 
 

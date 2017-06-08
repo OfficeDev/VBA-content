@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Group.Index
 ms.assetid: 3470e8a4-46ad-7793-2dc0-43d8dcd6fc1e
+ms.date: 06/08/2017
 ---
 
 

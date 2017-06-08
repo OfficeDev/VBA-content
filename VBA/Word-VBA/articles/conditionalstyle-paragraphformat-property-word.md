@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ConditionalStyle.ParagraphFormat
 ms.assetid: 189e11aa-1bbe-575d-b538-8e8d0c35eaa3
+ms.date: 06/08/2017
 ---
 
 

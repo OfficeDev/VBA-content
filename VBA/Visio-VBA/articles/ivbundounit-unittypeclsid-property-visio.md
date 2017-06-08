@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.IVBUndoUnit.UnitTypeCLSID
 ms.assetid: 7b75de4d-5119-d7a9-fec2-626807ab68b6
+ms.date: 06/08/2017
 ---
 
 

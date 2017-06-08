@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.BackTint
 ms.assetid: 4e33a712-af8f-bffa-f6c8-0502fb292813
+ms.date: 06/08/2017
 ---
 
 

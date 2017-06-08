@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FollowHyperlink
 ms.assetid: d612e80b-93c1-7312-d164-be552b580370
+ms.date: 06/08/2017
 ---
 
 

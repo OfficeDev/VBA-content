@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.ColumnHidden
 ms.assetid: 772c644e-b180-25ad-5566-c0b5dc6dbc41
+ms.date: 06/08/2017
 ---
 
 

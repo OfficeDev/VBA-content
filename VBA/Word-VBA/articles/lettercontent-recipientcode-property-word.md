@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.RecipientCode
 ms.assetid: b0c3e3b1-6679-f90f-99ab-6820fa5446f0
+ms.date: 06/08/2017
 ---
 
 

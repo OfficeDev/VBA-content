@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FindB
 ms.assetid: 463309cb-7747-6ee4-899b-677222e2dbda
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.QueryCancelGroup
 ms.assetid: 630abedc-0b1a-8ad4-47d7-51215c1f0c43
+ms.date: 06/08/2017
 ---
 
 

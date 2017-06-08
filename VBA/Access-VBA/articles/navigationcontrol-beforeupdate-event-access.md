@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.BeforeUpdate
 ms.assetid: 397c8bb2-1c8d-fa32-5015-65b58b215b38
+ms.date: 06/08/2017
 ---
 
 

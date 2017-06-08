@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.AfterUpdate
 ms.assetid: 690bc0cd-9717-7712-c022-75ba457ca0e3
+ms.date: 06/08/2017
 ---
 
 

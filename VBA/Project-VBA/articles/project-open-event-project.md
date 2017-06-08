@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.Open
 ms.assetid: ff66a69b-4190-ddef-ad39-12a3f9f85b9c
+ms.date: 06/08/2017
 ---
 
 

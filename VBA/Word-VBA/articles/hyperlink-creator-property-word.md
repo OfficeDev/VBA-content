@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.Creator
 ms.assetid: bf9cbba4-cb42-becb-71ef-70faa45d6c23
+ms.date: 06/08/2017
 ---
 
 

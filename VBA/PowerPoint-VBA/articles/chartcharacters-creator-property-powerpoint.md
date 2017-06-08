@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartCharacters.Creator
 ms.assetid: 76e2b755-4171-ce9b-fb46-f93ac7cd7e69
+ms.date: 06/08/2017
 ---
 
 

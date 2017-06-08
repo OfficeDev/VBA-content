@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Permut
 ms.assetid: dbef7a0f-bab9-83c0-9840-bb5948114b5e
+ms.date: 06/08/2017
 ---
 
 

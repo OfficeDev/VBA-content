@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.Borders
 ms.assetid: 314ad92c-f0e2-1606-443f-0d40e8ea04b1
+ms.date: 06/08/2017
 ---
 
 

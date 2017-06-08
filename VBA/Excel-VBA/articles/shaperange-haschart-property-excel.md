@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.HasChart
 ms.assetid: 7b1d5428-3e86-0d92-bf36-9617be0c240c
+ms.date: 06/08/2017
 ---
 
 

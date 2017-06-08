@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.BackTint
 ms.assetid: db441cd0-bd88-2c76-aab1-ae846974b8bd
+ms.date: 06/08/2017
 ---
 
 

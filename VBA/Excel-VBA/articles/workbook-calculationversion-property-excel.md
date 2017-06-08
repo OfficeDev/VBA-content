@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.CalculationVersion
 ms.assetid: 09633164-998f-9fa7-f257-da109c369cd7
+ms.date: 06/08/2017
 ---
 
 

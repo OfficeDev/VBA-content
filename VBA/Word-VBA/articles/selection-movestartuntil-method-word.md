@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.MoveStartUntil
 ms.assetid: a461cf49-1ed9-425b-5417-0a882c17d792
+ms.date: 06/08/2017
 ---
 
 

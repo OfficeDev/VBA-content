@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotFormula.Index
 ms.assetid: 0846b3f9-7a7d-75f3-13c3-f9f43f898b03
+ms.date: 06/08/2017
 ---
 
 

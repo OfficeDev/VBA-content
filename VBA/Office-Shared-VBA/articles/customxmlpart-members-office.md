@@ -2,6 +2,7 @@
 title: CustomXMLPart Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 76fe85f4-5a35-7d12-2989-6f17a094dcdf
+ms.date: 06/08/2017
 ---
 
 

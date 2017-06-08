@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddWordArt
 ms.assetid: 8ff83baa-5d88-5f80-3a69-5f712ba5e583
+ms.date: 06/08/2017
 ---
 
 

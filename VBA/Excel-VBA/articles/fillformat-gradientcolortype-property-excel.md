@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.GradientColorType
 ms.assetid: f8652224-753c-5491-a190-5f50d3736be1
+ms.date: 06/08/2017
 ---
 
 

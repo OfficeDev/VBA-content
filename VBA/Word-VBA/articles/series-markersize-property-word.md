@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.MarkerSize
 ms.assetid: fbda4404-b067-94fe-4202-a736a246e949
+ms.date: 06/08/2017
 ---
 
 

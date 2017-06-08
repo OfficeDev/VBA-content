@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.HasTextFrame
 ms.assetid: 6359fbeb-0a91-ad56-9edd-9b6be7fe51b7
+ms.date: 06/08/2017
 ---
 
 

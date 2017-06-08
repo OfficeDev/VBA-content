@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range
 ms.assetid: b8207778-0dcc-4570-1234-f130532cc8cd
+ms.date: 06/08/2017
 ---
 
 

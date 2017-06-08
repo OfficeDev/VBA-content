@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.AutoShapeType
 ms.assetid: 99c8e48a-2e0e-0c5a-fb78-91790c668bd7
+ms.date: 06/08/2017
 ---
 
 

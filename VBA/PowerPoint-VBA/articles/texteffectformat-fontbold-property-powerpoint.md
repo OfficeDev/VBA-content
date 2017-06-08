@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.FontBold
 ms.assetid: 3166f581-63f6-c2c1-1902-c6b3a511f244
+ms.date: 06/08/2017
 ---
 
 

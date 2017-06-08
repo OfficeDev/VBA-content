@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.RoundUp
 ms.assetid: daff9e6a-5ed8-b502-24c1-c4ffe01d2d0f
+ms.date: 06/08/2017
 ---
 
 

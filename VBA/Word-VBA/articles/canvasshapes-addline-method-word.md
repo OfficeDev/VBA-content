@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CanvasShapes.AddLine
 ms.assetid: 74e5fd57-6a7f-8f5f-6350-e980afd514e7
+ms.date: 06/08/2017
 ---
 
 

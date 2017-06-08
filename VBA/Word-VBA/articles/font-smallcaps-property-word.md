@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.SmallCaps
 ms.assetid: f2b0c4c9-2270-cb60-6bb1-fe2f4c183550
+ms.date: 06/08/2017
 ---
 
 

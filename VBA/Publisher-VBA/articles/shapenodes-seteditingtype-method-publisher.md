@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeNodes.SetEditingType
 ms.assetid: f90b1323-d682-1b2b-6747-cea5f2cead3c
+ms.date: 06/08/2017
 ---
 
 

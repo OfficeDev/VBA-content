@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.BesselY
 ms.assetid: ed8e06b9-982f-b012-b6bc-ba01a6dc2fec
+ms.date: 06/08/2017
 ---
 
 

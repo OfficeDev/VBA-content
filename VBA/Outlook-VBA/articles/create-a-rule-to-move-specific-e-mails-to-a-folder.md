@@ -2,6 +2,7 @@
 title: Create a Rule to Move Specific E-mails to a Folder
 ms.prod: OUTLOOK
 ms.assetid: e72fa307-8224-c2d2-1318-a18cd8e9f22f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.PictureData
 ms.assetid: 09748208-d338-f87d-a53a-4cabee01addb
+ms.date: 06/08/2017
 ---
 
 

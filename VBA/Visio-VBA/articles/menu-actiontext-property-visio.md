@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Menu.ActionText
 ms.assetid: 27d58281-5c00-56dd-25a4-2f65965daac2
+ms.date: 06/08/2017
 ---
 
 

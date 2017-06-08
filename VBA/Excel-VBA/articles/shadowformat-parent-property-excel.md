@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.Parent
 ms.assetid: f259fce5-50b8-ccdd-f955-b30a11c67a51
+ms.date: 06/08/2017
 ---
 
 

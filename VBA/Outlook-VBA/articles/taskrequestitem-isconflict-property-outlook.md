@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.IsConflict
 ms.assetid: d2ab2c17-ba99-1958-38b7-27529cc498e9
+ms.date: 06/08/2017
 ---
 
 

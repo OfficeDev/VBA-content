@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.Write
 ms.assetid: d2b3ace4-4ab3-307b-a929-566514522dc0
+ms.date: 06/08/2017
 ---
 
 

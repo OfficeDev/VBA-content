@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ItemProperties
 ms.assetid: 620e3af5-0c11-bd78-a98f-b08b36857113
+ms.date: 06/08/2017
 ---
 
 

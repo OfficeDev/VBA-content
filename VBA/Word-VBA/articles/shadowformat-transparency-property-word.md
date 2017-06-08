@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.Transparency
 ms.assetid: 0bcfcbd7-ffde-4dc0-628a-203c322cf573
+ms.date: 06/08/2017
 ---
 
 

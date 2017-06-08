@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.MoveStart
 ms.assetid: 5a9c480b-3cb7-0fd8-59c0-e2f93a925164
+ms.date: 06/08/2017
 ---
 
 

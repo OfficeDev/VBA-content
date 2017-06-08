@@ -2,6 +2,7 @@
 title: TextBox.IntegralHeight Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: d1ba0257-0c9e-6830-ee81-d8849c9b051a
+ms.date: 06/08/2017
 ---
 
 

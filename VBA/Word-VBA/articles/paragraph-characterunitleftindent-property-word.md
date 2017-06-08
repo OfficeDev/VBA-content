@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.CharacterUnitLeftIndent
 ms.assetid: 1dbe6053-52fd-f17c-aa95-3cfdef1222d5
+ms.date: 06/08/2017
 ---
 
 

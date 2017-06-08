@@ -2,6 +2,7 @@
 title: XlQuickAnalysisMode Enumeration (Excel)
 ms.prod: EXCEL
 ms.assetid: 56f07e46-19e9-76ab-25a2-67e2b8d9bdc6
+ms.date: 06/08/2017
 ---
 
 

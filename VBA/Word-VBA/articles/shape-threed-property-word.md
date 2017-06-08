@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.ThreeD
 ms.assetid: 35657b12-0967-5a54-6f12-b87119f51005
+ms.date: 06/08/2017
 ---
 
 

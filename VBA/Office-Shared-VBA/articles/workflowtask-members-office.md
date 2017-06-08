@@ -2,6 +2,7 @@
 title: WorkflowTask Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 035ead58-23bb-4518-2720-8862051aeb41
+ms.date: 06/08/2017
 ---
 
 

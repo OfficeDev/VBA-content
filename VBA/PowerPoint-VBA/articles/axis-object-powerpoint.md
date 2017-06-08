@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis
 ms.assetid: 38d5e006-ac32-7bdb-f9f0-e8a858dcbf49
+ms.date: 06/08/2017
 ---
 
 

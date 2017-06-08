@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlErrorBarType
 ms.assetid: 2ba8cd56-da8c-6227-8a31-3b9bae748d53
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.NextParagraphStyle
 ms.assetid: f8326275-bb81-4a0e-f790-32b34ef71f78
+ms.date: 06/08/2017
 ---
 
 

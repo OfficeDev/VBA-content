@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.SmartArt
 ms.assetid: e91922e1-71a6-009e-4592-cbd7f5934270
+ms.date: 06/08/2017
 ---
 
 

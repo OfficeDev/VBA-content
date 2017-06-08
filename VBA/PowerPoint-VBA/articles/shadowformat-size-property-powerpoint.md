@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.Size
 ms.assetid: d4b308a5-d3ec-b24a-199a-580a5d962a42
+ms.date: 06/08/2017
 ---
 
 

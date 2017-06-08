@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Selection.Parent
 ms.assetid: a081601f-a0ee-d998-f0e9-0193f9db843e
+ms.date: 06/08/2017
 ---
 
 

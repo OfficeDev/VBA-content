@@ -2,6 +2,7 @@
 title: ThemeColorScheme Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d75d7671-0d81-4f46-a41f-7727fcaa55d3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.InsertAutoText
 ms.assetid: d87ae18c-e527-bcf4-4939-5512a6fdaaf5
+ms.date: 06/08/2017
 ---
 
 

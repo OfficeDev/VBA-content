@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoDistributeCmd
 ms.assetid: be0cb580-1d82-1443-0f03-3461ddb9c33d
+ms.date: 06/08/2017
 ---
 
 

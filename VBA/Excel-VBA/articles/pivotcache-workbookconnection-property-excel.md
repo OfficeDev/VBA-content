@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCache.WorkbookConnection
 ms.assetid: cb4de0b8-6706-f1e3-4e2d-42b38b93c601
+ms.date: 06/08/2017
 ---
 
 

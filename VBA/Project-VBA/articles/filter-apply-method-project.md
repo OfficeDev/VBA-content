@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Filter.Apply
 ms.assetid: bc9a406c-d4ae-0fa5-a5b1-70bf3520fac4
+ms.date: 06/08/2017
 ---
 
 

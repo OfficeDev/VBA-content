@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.SortDescending
 ms.assetid: 018f7566-29cb-ad7f-87ae-55f041ab72a1
+ms.date: 06/08/2017
 ---
 
 

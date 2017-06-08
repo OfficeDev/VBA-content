@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Send
 ms.assetid: 6571ae2f-4964-f38f-e39e-14a2b94caa73
+ms.date: 06/08/2017
 ---
 
 

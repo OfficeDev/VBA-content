@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.FitToPagesTall
 ms.assetid: 1a0141cb-a665-caf5-6bd6-b037f65486dc
+ms.date: 06/08/2017
 ---
 
 

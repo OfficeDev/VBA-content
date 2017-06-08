@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdDefaultFilePath
 ms.assetid: e1b8a78b-a75d-d28f-4f5c-fc9752166c36
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.Thumbnails
 ms.assetid: 2979b109-e2e6-34de-539b-53c46b0d0c55
+ms.date: 06/08/2017
 ---
 
 

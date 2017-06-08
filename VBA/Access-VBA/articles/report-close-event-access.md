@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.Close
 ms.assetid: 529a238b-087c-f70e-e651-2630ef1d427a
+ms.date: 06/08/2017
 ---
 
 

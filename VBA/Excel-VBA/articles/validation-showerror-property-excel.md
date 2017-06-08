@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.ShowError
 ms.assetid: 19f7e431-6a6a-d8ed-98fe-c931cfb95498
+ms.date: 06/08/2017
 ---
 
 

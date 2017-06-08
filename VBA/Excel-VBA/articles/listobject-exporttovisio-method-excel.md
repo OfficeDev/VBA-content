@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.ExportToVisio
 ms.assetid: 2f4f1079-9971-d7ac-5bf5-3bcc4e68e804
+ms.date: 06/08/2017
 ---
 
 

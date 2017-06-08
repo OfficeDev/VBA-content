@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.EmptyCell.Application
 ms.assetid: df8b9d6b-3065-ac43-3ead-ff504bd76db1
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.ShapeParentChanged
 ms.assetid: 321f937c-27e0-be80-9d6a-78e4e85629ec
+ms.date: 06/08/2017
 ---
 
 

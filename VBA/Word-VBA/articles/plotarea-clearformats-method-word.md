@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.ClearFormats
 ms.assetid: 7ba23f9d-5701-4b00-de88-66293ec6046a
+ms.date: 06/08/2017
 ---
 
 

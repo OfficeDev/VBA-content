@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.BeforeRead
 ms.assetid: 26a64e4e-a48e-84e8-4fea-70913a8f170f
+ms.date: 06/08/2017
 ---
 
 

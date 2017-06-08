@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Delete
 ms.assetid: 4fde3d20-674b-025d-a3b5-5828f0f2fbdd
+ms.date: 06/08/2017
 ---
 
 

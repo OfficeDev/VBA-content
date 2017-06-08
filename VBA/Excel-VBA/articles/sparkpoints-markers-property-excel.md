@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkPoints.Markers
 ms.assetid: 13d678b9-c0d1-93d1-3c0a-6c2b9a33cdc2
+ms.date: 06/08/2017
 ---
 
 

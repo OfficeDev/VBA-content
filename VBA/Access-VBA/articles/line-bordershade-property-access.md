@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.BorderShade
 ms.assetid: d44bfb45-63d6-d2ae-5efd-88ab3183cee9
+ms.date: 06/08/2017
 ---
 
 

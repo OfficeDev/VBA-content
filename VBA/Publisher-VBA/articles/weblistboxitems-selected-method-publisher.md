@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBoxItems.Selected
 ms.assetid: 2db3b8cb-2922-1cca-9613-67402772ee27
+ms.date: 06/08/2017
 ---
 
 

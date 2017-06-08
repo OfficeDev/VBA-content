@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkVerticalAxis.CustomMaxScaleValue
 ms.assetid: 6589c4e5-21c6-c54d-bde5-ac2daa58f6f5
+ms.date: 06/08/2017
 ---
 
 

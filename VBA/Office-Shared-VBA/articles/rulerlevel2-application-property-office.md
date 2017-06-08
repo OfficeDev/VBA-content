@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.RulerLevel2.Application
 ms.assetid: f03c2e77-5255-1099-872a-1b24912c5cf4
+ms.date: 06/08/2017
 ---
 
 

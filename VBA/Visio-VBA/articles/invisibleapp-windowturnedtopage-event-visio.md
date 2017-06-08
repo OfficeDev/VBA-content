@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.WindowTurnedToPage
 ms.assetid: a31992e8-7b3e-2986-a9e8-01cae1ae1fa5
+ms.date: 06/08/2017
 ---
 
 

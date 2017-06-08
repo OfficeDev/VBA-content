@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.IsVisible
 ms.assetid: e9fdcd98-275a-7e54-bee5-74d97a6de086
+ms.date: 06/08/2017
 ---
 
 

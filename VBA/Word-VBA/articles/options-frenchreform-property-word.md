@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.FrenchReform
 ms.assetid: 0943276a-0215-f59d-00c6-b6181c96ddbe
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.ShapeLinkAdded
 ms.assetid: 2f388104-82c8-85f4-2fc8-e60f34c223c3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.PlainTextStyle
 ms.assetid: e3359d77-8ea6-4026-3125-c13436b4e34f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.IsSandboxed
 ms.assetid: d5a40aa3-470b-7861-691f-de418d13bd8b
+ms.date: 06/08/2017
 ---
 
 

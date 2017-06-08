@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BulletFormat2.UseTextFont
 ms.assetid: 2f4d7cc2-0832-0dd0-4b6a-47553a922505
+ms.date: 06/08/2017
 ---
 
 

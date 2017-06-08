@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ChildDrivers.TotalDetectedCount
 ms.assetid: a87aa807-8585-e323-c34e-63b18d2bc781
+ms.date: 06/08/2017
 ---
 
 

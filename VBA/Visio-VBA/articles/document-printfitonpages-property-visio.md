@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PrintFitOnPages
 ms.assetid: d129ad36-0728-b3b5-60b5-3ba52e102cc7
+ms.date: 06/08/2017
 ---
 
 

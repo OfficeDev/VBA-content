@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OtherCorrectionsExceptions.Add
 ms.assetid: 0bdb30c5-72f0-3dae-e0c5-b2ea48157626
+ms.date: 06/08/2017
 ---
 
 

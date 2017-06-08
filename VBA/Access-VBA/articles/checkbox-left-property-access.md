@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Left
 ms.assetid: 0d4eb8e2-b45a-a293-5d71-3b13743283bc
+ms.date: 06/08/2017
 ---
 
 

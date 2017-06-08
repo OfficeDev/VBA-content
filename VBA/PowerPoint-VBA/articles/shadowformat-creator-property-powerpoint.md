@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.Creator
 ms.assetid: bd222db3-f0f1-725e-0023-ab10cabd1d0f
+ms.date: 06/08/2017
 ---
 
 

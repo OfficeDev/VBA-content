@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.AutoMargins
 ms.assetid: a91ecac5-c907-8ae1-a0b8-1569f2466adf
+ms.date: 06/08/2017
 ---
 
 

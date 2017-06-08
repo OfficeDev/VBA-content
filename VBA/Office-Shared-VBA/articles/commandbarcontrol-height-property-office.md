@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.Height
 ms.assetid: 71dace36-3237-e94a-f45f-7d9718f13a69
+ms.date: 06/08/2017
 ---
 
 

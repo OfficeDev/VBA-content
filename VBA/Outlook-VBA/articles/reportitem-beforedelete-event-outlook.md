@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.BeforeDelete
 ms.assetid: 2fca7e89-39b3-73c4-715a-003921a055cd
+ms.date: 06/08/2017
 ---
 
 

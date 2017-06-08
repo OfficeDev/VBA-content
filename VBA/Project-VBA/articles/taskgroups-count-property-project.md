@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TaskGroups.Count
 ms.assetid: 6f1e6a18-85d2-ffe5-9e90-53694de136f0
+ms.date: 06/08/2017
 ---
 
 

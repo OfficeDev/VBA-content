@@ -2,6 +2,7 @@
 title: XlOrientation Enumeration (Word)
 ms.prod: WORD
 ms.assetid: 28baaaa4-3ac7-350e-512c-e6f8c5651486
+ms.date: 06/08/2017
 ---
 
 

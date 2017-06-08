@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.HasText
 ms.assetid: b9c7d9f4-22d3-5a45-e03b-8e06e87a2af9
+ms.date: 06/08/2017
 ---
 
 

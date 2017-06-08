@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.CcLabel
 ms.assetid: b28def6f-725c-ba65-cf7f-4abbc7ba3cb8
+ms.date: 06/08/2017
 ---
 
 

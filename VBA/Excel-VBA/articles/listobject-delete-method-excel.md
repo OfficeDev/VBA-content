@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.Delete
 ms.assetid: cd621c14-5e13-b51b-2b39-29118aeac3c8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.Backward2
 ms.assetid: 28712c4d-7772-d61e-0151-22eea8ff6383
+ms.date: 06/08/2017
 ---
 
 

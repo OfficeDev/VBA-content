@@ -2,6 +2,7 @@
 title: Difference between a Field and a Column
 ms.prod: OUTLOOK
 ms.assetid: 726f6b83-02cf-e32c-b4c4-eb87357fe18b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.MoveTo
 ms.assetid: 5e8ece38-aaba-4971-643e-969956c2a196
+ms.date: 06/08/2017
 ---
 
 

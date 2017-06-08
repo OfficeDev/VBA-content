@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.DatasheetGridlinesBehavior
 ms.assetid: 692268ab-69f2-4891-e460-f091b43af962
+ms.date: 06/08/2017
 ---
 
 

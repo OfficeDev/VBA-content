@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoTextEntries.Application
 ms.assetid: 08589e55-10fa-d0a7-8916-1c2da0c81f0e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ShowAddNewColumn
 ms.assetid: 2f13b46a-da46-453d-1165-f9a1d9b06377
+ms.date: 06/08/2017
 ---
 
 

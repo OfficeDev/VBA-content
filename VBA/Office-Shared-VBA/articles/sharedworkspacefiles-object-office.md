@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceFiles
 ms.assetid: 5e2937f7-f794-dffb-a1ec-69ea9a9e3546
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Move
 ms.assetid: a589900b-bbcc-c39b-d804-842246046bb8
+ms.date: 06/08/2017
 ---
 
 

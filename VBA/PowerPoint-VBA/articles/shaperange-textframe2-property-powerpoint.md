@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.TextFrame2
 ms.assetid: 56554e58-c16b-09dd-8acc-4e2da7715bef
+ms.date: 06/08/2017
 ---
 
 

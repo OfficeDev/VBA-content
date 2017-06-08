@@ -2,6 +2,7 @@
 title: CancelUpdate Method Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: 5442db02-960c-6d11-e0f3-0726c8d529bd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.OrganizeInFolder
 ms.assetid: 318d8f6d-79c6-9ea1-dc17-d605ce184d75
+ms.date: 06/08/2017
 ---
 
 

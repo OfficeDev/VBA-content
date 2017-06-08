@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SecondaryViewChange
 ms.assetid: f0f3f81b-c75f-79ee-db8b-6bdd32a3702f
+ms.date: 06/08/2017
 ---
 
 

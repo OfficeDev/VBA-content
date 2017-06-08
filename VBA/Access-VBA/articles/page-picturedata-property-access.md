@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.PictureData
 ms.assetid: e7af4493-ddf8-7f17-46fa-dddf4a1dc1a0
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ShapeRange.Regroup Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: e27213df-0640-212d-7d23-19e1b373f214
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Account.GetRecipientFromID
 ms.assetid: 7b97ce67-6015-ece6-de1b-6d4226be83aa
+ms.date: 06/08/2017
 ---
 
 

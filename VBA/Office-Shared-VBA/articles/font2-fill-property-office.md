@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Fill
 ms.assetid: b8f19a98-4e22-d2ad-1404-3ee48d3edde3
+ms.date: 06/08/2017
 ---
 
 

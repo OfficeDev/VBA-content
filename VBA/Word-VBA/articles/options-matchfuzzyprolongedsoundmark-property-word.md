@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyProlongedSoundMark
 ms.assetid: ec86cda2-3002-ff44-7657-bb70f1bf1a79
+ms.date: 06/08/2017
 ---
 
 

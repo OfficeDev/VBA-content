@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorFormat.SchemeColor
 ms.assetid: 8b02c85c-a976-7b10-c4ea-6f881d702b55
+ms.date: 06/08/2017
 ---
 
 

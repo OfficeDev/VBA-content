@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Trendlines.Creator
 ms.assetid: 68677f70-e6ff-869d-218e-84cb0c98f4f2
+ms.date: 06/08/2017
 ---
 
 

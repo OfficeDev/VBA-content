@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.BeforeDocumentSave
 ms.assetid: ee26b9d4-6945-25d7-559b-d7e9672f252d
+ms.date: 06/08/2017
 ---
 
 

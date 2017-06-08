@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Recurring
 ms.assetid: e7d5aef4-3fac-976f-a3d1-7f5bd4c870cd
+ms.date: 06/08/2017
 ---
 
 

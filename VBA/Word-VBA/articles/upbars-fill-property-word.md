@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.UpBars.Fill
 ms.assetid: 531d3d61-e0d1-1b9c-5966-28354e3c837f
+ms.date: 06/08/2017
 ---
 
 

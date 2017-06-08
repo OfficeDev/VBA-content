@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Attachments.Count
 ms.assetid: f25a85a0-298e-457d-b2b6-7f7ec18c6921
+ms.date: 06/08/2017
 ---
 
 

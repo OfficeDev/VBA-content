@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartData.Workbook
 ms.assetid: 2d22aa4a-15d8-c5f3-5059-a968e9a85789
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Change the Color of the Horizontal Axis of a Sparkline
 ms.prod: EXCEL
 ms.assetid: 46e1bf49-9971-4597-8c03-63b7a6d7c6a1
+ms.date: 06/08/2017
 ---
 
 

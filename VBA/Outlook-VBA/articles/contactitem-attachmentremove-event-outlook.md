@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.AttachmentRemove
 ms.assetid: e7080603-d978-aeb8-a50c-1bcc53504422
+ms.date: 06/08/2017
 ---
 
 

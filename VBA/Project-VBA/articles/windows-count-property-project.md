@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Windows.Count
 ms.assetid: cae75adb-e894-8551-4875-6d1d4159d5be
+ms.date: 06/08/2017
 ---
 
 

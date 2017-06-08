@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DetectLanguage
 ms.assetid: 625cff5b-630e-bcaa-1094-57db5029ebd9
+ms.date: 06/08/2017
 ---
 
 

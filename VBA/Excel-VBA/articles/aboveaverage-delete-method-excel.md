@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage.Delete
 ms.assetid: 822c4311-1d77-2d38-d756-a47e436d6992
+ms.date: 06/08/2017
 ---
 
 

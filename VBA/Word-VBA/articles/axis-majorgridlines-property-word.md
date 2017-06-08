@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.MajorGridlines
 ms.assetid: 90e0d7c0-add7-9a34-8706-aaf33f799441
+ms.date: 06/08/2017
 ---
 
 

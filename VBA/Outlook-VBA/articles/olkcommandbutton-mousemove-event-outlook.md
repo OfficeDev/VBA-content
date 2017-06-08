@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.MouseMove
 ms.assetid: 2d489bea-a8b9-bcbc-045e-696d6ef46f1f
+ms.date: 06/08/2017
 ---
 
 

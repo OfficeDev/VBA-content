@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.DisplayFonts
 ms.assetid: 25a9ede7-3575-6706-406d-a5b656cd965e
+ms.date: 06/08/2017
 ---
 
 

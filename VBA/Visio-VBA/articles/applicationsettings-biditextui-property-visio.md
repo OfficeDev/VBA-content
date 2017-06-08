@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.BIDITextUI
 ms.assetid: a358e155-9ba0-42ca-3192-3fc90ee19559
+ms.date: 06/08/2017
 ---
 
 

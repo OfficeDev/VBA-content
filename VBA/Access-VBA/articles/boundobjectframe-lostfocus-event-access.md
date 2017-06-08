@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.LostFocus
 ms.assetid: 33972d0c-fc22-458d-26c1-35e7035039bb
+ms.date: 06/08/2017
 ---
 
 

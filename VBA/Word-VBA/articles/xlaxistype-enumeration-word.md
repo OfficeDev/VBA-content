@@ -2,6 +2,7 @@
 title: XlAxisType Enumeration (Word)
 ms.prod: WORD
 ms.assetid: f02ed77e-8315-f318-ded2-751bc72d19fc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarSharing.Folder
 ms.assetid: 5da2c83b-873a-43fe-7175-5d78c76a909a
+ms.date: 06/08/2017
 ---
 
 

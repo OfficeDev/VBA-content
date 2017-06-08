@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.FirstSliceAngle
 ms.assetid: fb09ab99-9a85-3932-f569-56b5bbb87b50
+ms.date: 06/08/2017
 ---
 
 

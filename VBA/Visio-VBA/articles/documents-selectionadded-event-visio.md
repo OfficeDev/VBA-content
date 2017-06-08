@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.SelectionAdded
 ms.assetid: d7c0cd8c-5081-459c-be02-aeb1cad56799
+ms.date: 06/08/2017
 ---
 
 

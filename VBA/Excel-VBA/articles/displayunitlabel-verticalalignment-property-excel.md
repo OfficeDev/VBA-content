@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.VerticalAlignment
 ms.assetid: 5d6200cf-868c-ae65-c3d2-96a543f8fbce
+ms.date: 06/08/2017
 ---
 
 

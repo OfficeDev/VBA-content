@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Walls.Select
 ms.assetid: 795eb1c8-54a9-2f53-d1d5-db257c20b7f3
+ms.date: 06/08/2017
 ---
 
 

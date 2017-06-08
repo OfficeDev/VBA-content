@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WebRefresh
 ms.assetid: ef36cbc0-4d11-2328-a2d0-24370f4143c8
+ms.date: 06/08/2017
 ---
 
 

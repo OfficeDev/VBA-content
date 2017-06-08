@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.SpaceBefore
 ms.assetid: 2e028be2-72d2-0101-a148-038957851cf2
+ms.date: 06/08/2017
 ---
 
 

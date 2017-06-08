@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.Rows
 ms.assetid: a42286ef-d955-c39d-49a4-b0e54b4d1cec
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Interior.Pattern
 ms.assetid: 5910e6a3-9aaa-7908-aa7d-345bdbabc4de
+ms.date: 06/08/2017
 ---
 
 

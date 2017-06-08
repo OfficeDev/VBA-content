@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EncryptionProvider.Authenticate
 ms.assetid: cb0ecd48-2d37-389c-d041-947b4d9d752a
+ms.date: 06/08/2017
 ---
 
 

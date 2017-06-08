@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Characters.Count
 ms.assetid: 6423eb0f-9342-d5b5-b5d4-c363d79274b3
+ms.date: 06/08/2017
 ---
 
 

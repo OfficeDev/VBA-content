@@ -2,6 +2,7 @@
 title: Using events with Application and Project objects
 ms.prod: PROJECTSERVER
 ms.assetid: 64a18885-f203-c298-db11-f9e8e75bb7b6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.SnapToGuides
 ms.assetid: 09894c02-3193-cd14-ff55-45920e461af9
+ms.date: 06/08/2017
 ---
 
 

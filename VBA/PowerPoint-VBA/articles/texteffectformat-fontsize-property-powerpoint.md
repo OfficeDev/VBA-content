@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.FontSize
 ms.assetid: 296c6a9b-7e8c-b9d5-99d2-e84ce5f41d0a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Parameter.RefreshOnChange
 ms.assetid: 60e01ae1-82bd-e4eb-6ac7-805ffd05a811
+ms.date: 06/08/2017
 ---
 
 

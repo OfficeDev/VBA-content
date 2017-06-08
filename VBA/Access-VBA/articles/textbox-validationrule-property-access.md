@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.ValidationRule
 ms.assetid: e481fba1-7e08-f8da-b644-5e38c2bf445e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.RightFooterPicture
 ms.assetid: f33bbfb1-91d0-6724-0944-2b63c6720d86
+ms.date: 06/08/2017
 ---
 
 

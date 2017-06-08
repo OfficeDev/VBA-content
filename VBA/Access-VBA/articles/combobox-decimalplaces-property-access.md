@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.DecimalPlaces
 ms.assetid: 5d57d9b7-12bd-2555-242e-204fd8dd48be
+ms.date: 06/08/2017
 ---
 
 

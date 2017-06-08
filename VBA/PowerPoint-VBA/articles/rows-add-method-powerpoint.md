@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Rows.Add
 ms.assetid: 7cc0c530-e817-1983-0946-90e499470668
+ms.date: 06/08/2017
 ---
 
 

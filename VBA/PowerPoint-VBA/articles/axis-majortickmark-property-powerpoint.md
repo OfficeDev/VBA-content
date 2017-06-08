@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.MajorTickMark
 ms.assetid: 82397f1c-8a0d-44dd-a9f3-3426fee03f1d
+ms.date: 06/08/2017
 ---
 
 

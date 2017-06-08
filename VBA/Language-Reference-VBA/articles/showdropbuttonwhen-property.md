@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ShowDropButtonWhen
 ms.assetid: 82c7a038-a4fa-7253-ec24-c97e6841293e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.VerticalGap
 ms.assetid: 191d66c4-d168-625a-47b7-028167a98af9
+ms.date: 06/08/2017
 ---
 
 

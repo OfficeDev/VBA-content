@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.VBASigned
 ms.assetid: aa00c1ad-8c1e-5f47-de42-72db8292d5c0
+ms.date: 06/08/2017
 ---
 
 

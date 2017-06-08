@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Line.Range
 ms.assetid: 46a36016-d5b0-0ef0-3e5c-ff38e7be510c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Locked
 ms.assetid: 93c5f21d-6429-3287-0992-c810b9a429a8
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: SeriesCollection.Item Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 3360bb21-9494-f39d-91e8-049a8fae6ad5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.Exit
 ms.assetid: 0f4d74d4-ce88-f9b9-7de5-0e42edf12967
+ms.date: 06/08/2017
 ---
 
 

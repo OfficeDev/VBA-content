@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyClosings
 ms.assetid: 179decd2-69b0-c734-3257-7d212894a5d2
+ms.date: 06/08/2017
 ---
 
 

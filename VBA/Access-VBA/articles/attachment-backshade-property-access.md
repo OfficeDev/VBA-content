@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.BackShade
 ms.assetid: 23a28b72-b30c-4b2c-77c9-51bb0099efe9
+ms.date: 06/08/2017
 ---
 
 

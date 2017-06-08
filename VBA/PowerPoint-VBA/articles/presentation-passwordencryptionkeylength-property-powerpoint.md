@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.PasswordEncryptionKeyLength
 ms.assetid: 4a3d59e4-fd4d-cd8d-8d51-cca6ebd4b758
+ms.date: 06/08/2017
 ---
 
 

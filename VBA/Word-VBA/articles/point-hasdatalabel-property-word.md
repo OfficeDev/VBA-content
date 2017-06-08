@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.HasDataLabel
 ms.assetid: 0b386560-702f-b9d6-b8a0-b5d67189d979
+ms.date: 06/08/2017
 ---
 
 

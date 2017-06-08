@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HiLoLines.Format
 ms.assetid: 5e57a643-add7-083e-11f9-1f506393d1c0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.Visible
 ms.assetid: 749c01fa-715d-c6f3-5847-035ce01f0219
+ms.date: 06/08/2017
 ---
 
 

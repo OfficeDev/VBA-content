@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFrac.Parent
 ms.assetid: 6e1c6d85-7c27-9c39-5753-568817626b55
+ms.date: 06/08/2017
 ---
 
 

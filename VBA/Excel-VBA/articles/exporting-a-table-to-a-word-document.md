@@ -2,6 +2,7 @@
 title: Exporting a Table to a Word Document
 ms.prod: EXCEL
 ms.assetid: 56ad67de-6f8b-4a55-a29e-4c2b5c88dfd5
+ms.date: 06/08/2017
 ---
 
 # Exporting a Table to a Word Document

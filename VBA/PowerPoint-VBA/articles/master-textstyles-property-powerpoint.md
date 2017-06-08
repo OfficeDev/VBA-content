@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.TextStyles
 ms.assetid: 713b6f60-5c20-6ddf-9660-4f5f2d27546d
+ms.date: 06/08/2017
 ---
 
 

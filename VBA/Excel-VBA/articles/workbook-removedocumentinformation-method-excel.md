@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.RemoveDocumentInformation
 ms.assetid: e668d976-108b-c627-6118-dd3384c1315c
+ms.date: 06/08/2017
 ---
 
 

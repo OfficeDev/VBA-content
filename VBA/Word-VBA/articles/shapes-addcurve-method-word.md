@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shapes.AddCurve
 ms.assetid: 105f6ff1-b8a9-aec5-285b-6bf7399ecdc7
+ms.date: 06/08/2017
 ---
 
 

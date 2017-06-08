@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.Orientation
 ms.assetid: 9e41d5c8-e887-3212-c298-c2921137ec9c
+ms.date: 06/08/2017
 ---
 
 

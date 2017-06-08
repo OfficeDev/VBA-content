@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Spouse
 ms.assetid: 4ca95e03-ec75-702a-3d7a-f2f36822d3b7
+ms.date: 06/08/2017
 ---
 
 

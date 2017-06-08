@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TextRuleCondition
 ms.assetid: 87e9ca00-7577-02c2-fb6f-a5dc2054ad8b
+ms.date: 06/08/2017
 ---
 
 

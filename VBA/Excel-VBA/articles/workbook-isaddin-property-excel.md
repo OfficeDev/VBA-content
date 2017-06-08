@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.IsAddin
 ms.assetid: b8c8b9f4-4be5-0260-957e-c6450f31a0c0
+ms.date: 06/08/2017
 ---
 
 

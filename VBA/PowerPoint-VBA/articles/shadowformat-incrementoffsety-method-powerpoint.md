@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.IncrementOffsetY
 ms.assetid: a220a04d-90d1-1788-b4d9-5b9af5739c69
+ms.date: 06/08/2017
 ---
 
 

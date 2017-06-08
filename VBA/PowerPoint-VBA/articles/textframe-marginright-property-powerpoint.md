@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame.MarginRight
 ms.assetid: 57ab53e7-1fbf-09b6-13c4-7cb0a814d9e3
+ms.date: 06/08/2017
 ---
 
 

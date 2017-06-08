@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Days360
 ms.assetid: cc8b607d-348f-0fa7-70e4-3ddb9b83f6b8
+ms.date: 06/08/2017
 ---
 
 

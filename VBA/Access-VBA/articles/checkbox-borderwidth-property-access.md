@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.BorderWidth
 ms.assetid: c10ee0fd-10b8-e35e-d042-b319276b50f8
+ms.date: 06/08/2017
 ---
 
 

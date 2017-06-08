@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.QueryCancelStyleDelete
 ms.assetid: 07417cc7-f535-4217-8a4d-09cd7e5d5b84
+ms.date: 06/08/2017
 ---
 
 

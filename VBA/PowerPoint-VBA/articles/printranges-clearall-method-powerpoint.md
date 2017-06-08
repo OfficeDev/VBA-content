@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintRanges.ClearAll
 ms.assetid: 3e177e7c-486e-a938-cf80-2f13b018094a
+ms.date: 06/08/2017
 ---
 
 

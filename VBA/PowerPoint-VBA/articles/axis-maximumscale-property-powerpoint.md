@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.MaximumScale
 ms.assetid: cb0588ce-0685-77ac-da06-75a913f90e41
+ms.date: 06/08/2017
 ---
 
 

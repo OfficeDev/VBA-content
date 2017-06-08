@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CalendarLayout
 ms.assetid: c948c118-c50f-493d-ba3a-e43ee0d50fa3
+ms.date: 06/08/2017
 ---
 
 

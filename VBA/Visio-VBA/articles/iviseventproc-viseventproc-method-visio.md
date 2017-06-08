@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.IVisEventProc.VisEventProc
 ms.assetid: d5a33174-4dcb-8afd-991c-eb59ddb2ea2d
+ms.date: 06/08/2017
 ---
 
 

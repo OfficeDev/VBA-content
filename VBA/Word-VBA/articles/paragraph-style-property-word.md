@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.Style
 ms.assetid: a6ac7009-4018-b873-8db5-6c86afd11a22
+ms.date: 06/08/2017
 ---
 
 

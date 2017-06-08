@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Points.Count
 ms.assetid: 263044ee-6f0c-c8ae-c6ab-7976dd51e0ae
+ms.date: 06/08/2017
 ---
 
 

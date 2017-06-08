@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.ScaleHeight
 ms.assetid: 0324449a-535c-e5ec-a9c3-0913f66057c0
+ms.date: 06/08/2017
 ---
 
 

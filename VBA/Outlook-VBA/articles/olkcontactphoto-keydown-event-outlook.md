@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkContactPhoto.KeyDown
 ms.assetid: 5ec4abe0-5600-ea94-c7a8-5f46d4ac587a
+ms.date: 06/08/2017
 ---
 
 

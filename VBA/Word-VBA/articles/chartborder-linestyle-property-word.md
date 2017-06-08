@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartBorder.LineStyle
 ms.assetid: f11e0877-2a3c-4aa6-471f-333d6b485249
+ms.date: 06/08/2017
 ---
 
 

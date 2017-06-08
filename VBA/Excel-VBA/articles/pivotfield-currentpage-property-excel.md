@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.CurrentPage
 ms.assetid: 4a59fe58-8f95-4cf3-d4a3-ab6ea6b24b8a
+ms.date: 06/08/2017
 ---
 
 

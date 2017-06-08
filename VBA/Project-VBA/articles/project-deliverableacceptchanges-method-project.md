@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DeliverableAcceptChanges
 ms.assetid: 901bcff5-755f-c5a2-edcc-fc504cda24a5
+ms.date: 06/08/2017
 ---
 
 

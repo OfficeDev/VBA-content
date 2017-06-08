@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.SaveData
 ms.assetid: f8f788cf-b8a2-4694-1a52-f48e00e6471c
+ms.date: 06/08/2017
 ---
 
 

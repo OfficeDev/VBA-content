@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjAutomaticSaveOptions
 ms.assetid: f4dcf6bd-bfb0-ff80-d0f5-4ecdb9bff855
+ms.date: 06/08/2017
 ---
 
 

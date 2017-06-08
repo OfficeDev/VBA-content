@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorScale.Formula
 ms.assetid: a46cf756-468f-d0ce-dee3-7c03a115afcd
+ms.date: 06/08/2017
 ---
 
 

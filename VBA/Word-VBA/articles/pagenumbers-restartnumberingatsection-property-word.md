@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.RestartNumberingAtSection
 ms.assetid: b960fc7d-78f7-ec23-d429-7ee9820e8340
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.LayoutInCell
 ms.assetid: ed09bd81-007c-0907-5eea-e9e3edf70e8b
+ms.date: 06/08/2017
 ---
 
 

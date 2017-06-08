@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathIntSubSupLim
 ms.assetid: 8c27cc79-b271-112f-8281-27f0b8e3e3ae
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Sync Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 748726bd-83de-425a-5af8-177c34e3a013
+ms.date: 06/08/2017
 ---
 
 

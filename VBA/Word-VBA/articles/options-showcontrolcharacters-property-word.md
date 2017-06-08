@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ShowControlCharacters
 ms.assetid: 9fed5e7a-79b9-0517-e985-7d53a642220c
+ms.date: 06/08/2017
 ---
 
 

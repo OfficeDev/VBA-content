@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.LastModificationTime
 ms.assetid: 723d152c-cd71-6038-1eed-06de4c96c32c
+ms.date: 06/08/2017
 ---
 
 

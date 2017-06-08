@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSize.Parent
 ms.assetid: 3a141bb0-9fd7-3522-7ea2-0a51fe2a6b10
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: HeadingStyles Object (Word)
 ms.prod: WORD
 ms.assetid: be882a12-1264-8f7e-415b-b8bcbf28e703
+ms.date: 06/08/2017
 ---
 
 

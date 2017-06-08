@@ -2,6 +2,7 @@
 title: ShapeRange.Reflection Property (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: db9ef973-39b9-7fe3-8b21-3ed1b74bb690
+ms.date: 06/08/2017
 ---
 
 

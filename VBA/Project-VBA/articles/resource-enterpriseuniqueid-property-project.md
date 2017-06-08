@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.EnterpriseUniqueID
 ms.assetid: ad5bdf09-a1e0-c9fd-c3ae-ba1639177a95
+ms.date: 06/08/2017
 ---
 
 

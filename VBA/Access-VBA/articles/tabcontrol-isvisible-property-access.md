@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.IsVisible
 ms.assetid: ddc5e22d-f426-a685-ab94-a1ae7c00e53a
+ms.date: 06/08/2017
 ---
 
 

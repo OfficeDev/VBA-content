@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ControlFormat.LargeChange
 ms.assetid: 2e47bd4f-59dc-d620-14f0-e4ecdfb4eb78
+ms.date: 06/08/2017
 ---
 
 

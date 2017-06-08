@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AttachmentSelection.Location
 ms.assetid: 2d42bdb6-28c4-b923-e0da-645582a764f8
+ms.date: 06/08/2017
 ---
 
 

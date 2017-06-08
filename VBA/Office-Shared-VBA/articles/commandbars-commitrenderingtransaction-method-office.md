@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.CommitRenderingTransaction
 ms.assetid: a3174734-305b-03dc-2da1-3d25fd74185d
+ms.date: 06/08/2017
 ---
 
 

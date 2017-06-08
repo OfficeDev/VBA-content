@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DefaultWorkspaceClone
 ms.assetid: f72522e5-dd8d-2cd1-df40-4457ef7f94a6
+ms.date: 06/08/2017
 ---
 
 

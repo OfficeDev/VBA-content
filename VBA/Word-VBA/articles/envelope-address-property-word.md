@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.Address
 ms.assetid: 01d6d211-a4f1-c3cd-470c-f49d6bb22fe6
+ms.date: 06/08/2017
 ---
 
 

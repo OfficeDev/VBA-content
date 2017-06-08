@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SetDefaultChart
 ms.assetid: 1afc1023-654b-67cd-aace-bc4b87747520
+ms.date: 06/08/2017
 ---
 
 

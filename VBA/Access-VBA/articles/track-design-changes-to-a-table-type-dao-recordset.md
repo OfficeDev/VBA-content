@@ -2,6 +2,7 @@
 title: Track Design Changes to a Table-Type DAO Recordset
 ms.prod: ACCESS
 ms.assetid: 540bfd6d-14f1-e0a2-8a2e-e09cb1a31d52
+ms.date: 06/08/2017
 ---
 
 

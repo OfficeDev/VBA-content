@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.PrintOut
 ms.assetid: 3a4e7037-fcde-5a57-4a80-45f2a0994370
+ms.date: 06/08/2017
 ---
 
 

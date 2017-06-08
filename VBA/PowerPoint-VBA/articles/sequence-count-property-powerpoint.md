@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Sequence.Count
 ms.assetid: b3f02a35-309d-768c-dc76-bd0ef84261cc
+ms.date: 06/08/2017
 ---
 
 

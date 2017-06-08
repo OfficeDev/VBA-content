@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.AllCaps
 ms.assetid: ef881fd6-bb35-7cc6-b048-c9ed2111f821
+ms.date: 06/08/2017
 ---
 
 

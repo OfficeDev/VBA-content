@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRibbonXModes
 ms.assetid: 80f01121-3ea5-1ba8-bbea-ba81936ea4ae
+ms.date: 06/08/2017
 ---
 
 

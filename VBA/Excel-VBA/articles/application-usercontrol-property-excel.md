@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.UserControl
 ms.assetid: fd55727d-8f79-14bf-038b-a31a56829a55
+ms.date: 06/08/2017
 ---
 
 

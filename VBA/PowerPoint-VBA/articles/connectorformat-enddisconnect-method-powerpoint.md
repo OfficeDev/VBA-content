@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ConnectorFormat.EndDisconnect
 ms.assetid: e26600c4-a384-5c83-96e6-1060f8ce8d21
+ms.date: 06/08/2017
 ---
 
 

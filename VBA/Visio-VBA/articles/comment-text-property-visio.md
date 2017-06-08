@@ -2,6 +2,7 @@
 title: Comment.Text Property (Visio)
 ms.prod: VISIO
 ms.assetid: 3ec63034-de5f-d9f2-16a5-e06a56883867
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Store.GetSpecialFolder
 ms.assetid: 8f768a43-1589-5659-76f3-43afa4b745b6
+ms.date: 06/08/2017
 ---
 
 

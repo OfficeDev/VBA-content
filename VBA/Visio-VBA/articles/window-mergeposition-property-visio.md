@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.MergePosition
 ms.assetid: 0856bcec-191d-5c9c-f44a-cd430bc3ceb8
+ms.date: 06/08/2017
 ---
 
 

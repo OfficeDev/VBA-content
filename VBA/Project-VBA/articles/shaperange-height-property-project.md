@@ -2,6 +2,7 @@
 title: ShapeRange.Height Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 07e7edf0-c7e2-6eac-4be9-5936cc5e428a
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ShapeCount
 ms.assetid: b1a8a4a8-5140-4586-fc4d-be64b47d0158
+ms.date: 06/08/2017
 ---
 
 

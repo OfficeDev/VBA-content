@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoCalloutType
 ms.assetid: 65548284-0241-f013-ea54-93099fdbf1cc
+ms.date: 06/08/2017
 ---
 
 

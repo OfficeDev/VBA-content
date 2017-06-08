@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Calendar.Reset
 ms.assetid: fc638f47-36b5-aa36-55c2-882bd570b9cb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.TextAlign
 ms.assetid: c5de59ad-f41f-8f19-6056-16ca88a1937d
+ms.date: 06/08/2017
 ---
 
 

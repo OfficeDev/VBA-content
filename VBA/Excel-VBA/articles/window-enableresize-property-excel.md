@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.EnableResize
 ms.assetid: cc94ca6f-0553-8d63-c30d-0fe6fdbff551
+ms.date: 06/08/2017
 ---
 
 

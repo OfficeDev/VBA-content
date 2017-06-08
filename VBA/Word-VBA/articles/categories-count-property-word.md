@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Categories.Count
 ms.assetid: 3aa912e6-12f3-0be5-ab24-8e26e15ba40e
+ms.date: 06/08/2017
 ---
 
 

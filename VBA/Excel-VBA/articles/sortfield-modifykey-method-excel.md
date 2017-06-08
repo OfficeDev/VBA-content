@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SortField.ModifyKey
 ms.assetid: 40227e28-a19e-2130-ae9d-8b87109815f5
+ms.date: 06/08/2017
 ---
 
 

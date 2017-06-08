@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoAlertIconType
 ms.assetid: bfaa9cfb-bf8e-793e-6981-967f394f6450
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.IsConflict
 ms.assetid: 56c3aa72-4ddf-802e-b6ab-7e982a80dc08
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BackTint
 ms.assetid: 37f48215-abce-1628-7efc-ace0d4761873
+ms.date: 06/08/2017
 ---
 
 

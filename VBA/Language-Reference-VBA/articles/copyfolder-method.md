@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CopyFolder
 ms.assetid: d94788b4-9a92-77ea-6591-5ea2b4603233
+ms.date: 06/08/2017
 ---
 
 

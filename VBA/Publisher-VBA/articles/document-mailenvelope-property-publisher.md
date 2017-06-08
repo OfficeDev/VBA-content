@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.MailEnvelope
 ms.assetid: 3c4c734a-6725-5f6e-ed0a-5b19e4e642bd
+ms.date: 06/08/2017
 ---
 
 

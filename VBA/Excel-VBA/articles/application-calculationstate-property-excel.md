@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.CalculationState
 ms.assetid: 2f424286-7757-12e2-77c2-c26cf7c4bcf1
+ms.date: 06/08/2017
 ---
 
 

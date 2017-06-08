@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextEffectFormat.ToggleVerticalText
 ms.assetid: 9b4312b8-1642-9a49-6395-b49b129f44f2
+ms.date: 06/08/2017
 ---
 
 

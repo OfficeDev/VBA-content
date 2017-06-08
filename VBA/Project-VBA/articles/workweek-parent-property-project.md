@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.WorkWeek.Parent
 ms.assetid: ae4ce80c-7800-4ade-4d80-6710dfc38a4c
+ms.date: 06/08/2017
 ---
 
 

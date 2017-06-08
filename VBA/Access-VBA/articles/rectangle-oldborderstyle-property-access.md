@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.OldBorderStyle
 ms.assetid: cf94d8cb-512e-64ab-58db-d3013cfee9d2
+ms.date: 06/08/2017
 ---
 
 

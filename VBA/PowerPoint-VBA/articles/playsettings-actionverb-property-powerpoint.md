@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlaySettings.ActionVerb
 ms.assetid: 769383e0-94b0-3baf-0211-e92987b139ce
+ms.date: 06/08/2017
 ---
 
 

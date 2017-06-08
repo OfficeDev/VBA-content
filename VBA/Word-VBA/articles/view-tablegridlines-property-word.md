@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.TableGridlines
 ms.assetid: 02ef1d7b-185b-ed17-e811-a752faa11b3f
+ms.date: 06/08/2017
 ---
 
 

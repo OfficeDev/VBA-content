@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.Paste
 ms.assetid: 435dd253-ae35-1dcf-ae5a-d7dfd40abf33
+ms.date: 06/08/2017
 ---
 
 

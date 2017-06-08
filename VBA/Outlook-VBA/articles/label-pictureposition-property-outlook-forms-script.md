@@ -2,6 +2,7 @@
 title: Label.PicturePosition Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 40dd1f9f-7a65-b44e-cf1d-f793f6bb806e
+ms.date: 06/08/2017
 ---
 
 

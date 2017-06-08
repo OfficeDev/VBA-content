@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.CreationTime
 ms.assetid: aa20cc5a-6c28-858d-dc3f-1d5c8b30013c
+ms.date: 06/08/2017
 ---
 
 

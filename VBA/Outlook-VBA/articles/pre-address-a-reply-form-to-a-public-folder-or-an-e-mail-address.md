@@ -2,6 +2,7 @@
 title: Pre-address a Reply Form to a Public Folder or an E-mail Address
 ms.prod: OUTLOOK
 ms.assetid: f6986661-b42b-0421-cf08-cecad4e0e7b1
+ms.date: 06/08/2017
 ---
 
 

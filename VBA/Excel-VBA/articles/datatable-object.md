@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataTable
 ms.assetid: cf9aa637-3b5d-1e18-1956-291a0295dddf
+ms.date: 06/08/2017
 ---
 
 

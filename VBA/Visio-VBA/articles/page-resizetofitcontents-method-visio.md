@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ResizeToFitContents
 ms.assetid: 26b96288-7d8b-a999-ef45-a586110cc8b9
+ms.date: 06/08/2017
 ---
 
 

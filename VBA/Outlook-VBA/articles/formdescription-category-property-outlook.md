@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormDescription.Category
 ms.assetid: a9f3839c-9610-4cc9-1e9f-57062340508d
+ms.date: 06/08/2017
 ---
 
 

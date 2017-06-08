@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Trendline.Border
 ms.assetid: 43cf81c8-ad8d-fbd4-1b06-82e2490c8e10
+ms.date: 06/08/2017
 ---
 
 

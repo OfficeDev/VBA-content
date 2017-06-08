@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.TransitionsEnabled
 ms.assetid: af3b25b8-eee2-110f-9189-5133144d3a43
+ms.date: 06/08/2017
 ---
 
 

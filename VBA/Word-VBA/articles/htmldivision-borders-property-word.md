@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivision.Borders
 ms.assetid: 41994b07-d394-8f61-a3cf-d1f5a17c5998
+ms.date: 06/08/2017
 ---
 
 

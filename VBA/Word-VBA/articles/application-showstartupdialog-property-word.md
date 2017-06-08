@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ShowStartupDialog
 ms.assetid: ecee5bb2-271b-f1fc-c25c-a77a59f5df03
+ms.date: 06/08/2017
 ---
 
 

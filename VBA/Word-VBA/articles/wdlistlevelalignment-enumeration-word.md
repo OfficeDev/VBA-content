@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdListLevelAlignment
 ms.assetid: 467941e6-55d5-957b-0033-039909a375f1
+ms.date: 06/08/2017
 ---
 
 

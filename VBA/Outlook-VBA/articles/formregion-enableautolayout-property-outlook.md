@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormRegion.EnableAutoLayout
 ms.assetid: 24cc737a-0a95-a162-19bb-f2e8e9a73324
+ms.date: 06/08/2017
 ---
 
 

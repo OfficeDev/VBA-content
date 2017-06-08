@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.Enabled
 ms.assetid: 02e67765-74e5-25e8-3c34-7dabe3b4236c
+ms.date: 06/08/2017
 ---
 
 

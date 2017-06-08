@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.ConversationTopic
 ms.assetid: 4a2e2904-1499-50e7-fd18-c29e7810e4ab
+ms.date: 06/08/2017
 ---
 
 

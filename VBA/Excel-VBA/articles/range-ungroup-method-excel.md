@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Ungroup
 ms.assetid: ac20c780-1a8e-2709-13c4-a6ca8220fb0a
+ms.date: 06/08/2017
 ---
 
 

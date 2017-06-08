@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.OpenDiagram
 ms.assetid: a9736e57-eb82-77d7-c57a-8c793333392a
+ms.date: 06/08/2017
 ---
 
 

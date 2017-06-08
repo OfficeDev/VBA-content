@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.GetShapesLinkedToData
 ms.assetid: 3196f7f9-1b7c-8070-444d-c1a55f0c205f
+ms.date: 06/08/2017
 ---
 
 

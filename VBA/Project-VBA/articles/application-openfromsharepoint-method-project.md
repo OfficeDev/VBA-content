@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OpenFromSharePoint
 ms.assetid: 415f8b11-5c6f-d9df-fb58-61ff7f392b5f
+ms.date: 06/08/2017
 ---
 
 

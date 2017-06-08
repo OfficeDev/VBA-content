@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.RemoveRefreshConflict
 ms.assetid: a92abdb7-f47c-b843-cacf-6acca68d9c66
+ms.date: 06/08/2017
 ---
 
 

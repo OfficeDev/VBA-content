@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.Orientation
 ms.assetid: b743fe8f-35c1-e289-5d74-ff317f19b0a3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CodeProject.IsConnected
 ms.assetid: 09710a16-f269-0229-74ea-da128d95ff03
+ms.date: 06/08/2017
 ---
 
 

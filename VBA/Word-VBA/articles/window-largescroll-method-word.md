@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.LargeScroll
 ms.assetid: 380be0f2-dccf-7382-8fde-631ace1c5fee
+ms.date: 06/08/2017
 ---
 
 

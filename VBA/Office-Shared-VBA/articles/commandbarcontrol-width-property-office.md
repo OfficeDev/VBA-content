@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.Width
 ms.assetid: a6821638-9cc8-3a9f-ced0-770f50de7d8c
+ms.date: 06/08/2017
 ---
 
 

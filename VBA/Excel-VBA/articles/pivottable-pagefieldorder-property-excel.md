@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.PageFieldOrder
 ms.assetid: 0c8a6473-f2ee-f357-b840-aaf61cee1fa0
+ms.date: 06/08/2017
 ---
 
 

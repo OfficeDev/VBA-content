@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.View.Application
 ms.assetid: 6316b7c1-1eb1-7f89-d369-97d50a0bf831
+ms.date: 06/08/2017
 ---
 
 

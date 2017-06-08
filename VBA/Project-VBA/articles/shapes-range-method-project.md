@@ -2,6 +2,7 @@
 title: Shapes.Range Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 984326ae-f567-18b8-562a-fcb2160b0dad
+ms.date: 06/08/2017
 ---
 
 

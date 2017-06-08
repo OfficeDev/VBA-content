@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Words
 ms.assetid: b8cd8dca-bf10-1041-dd9e-adc04b2df42d
+ms.date: 06/08/2017
 ---
 
 

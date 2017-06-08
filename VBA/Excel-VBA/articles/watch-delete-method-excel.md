@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Watch.Delete
 ms.assetid: ed9c57a3-c52c-9ebe-922f-db057d8eefe1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.Size
 ms.assetid: 75062920-f306-1bfc-f1e0-e68a19d055e4
+ms.date: 06/08/2017
 ---
 
 

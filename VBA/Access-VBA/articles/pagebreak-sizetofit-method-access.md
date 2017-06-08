@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.PageBreak.SizeToFit
 ms.assetid: 3b4c040a-e665-ad00-b9bf-1f3f8f25c35a
+ms.date: 06/08/2017
 ---
 
 

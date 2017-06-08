@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.TextAlign
 ms.assetid: 4e4f1814-3060-f59c-3360-b84827ea7b80
+ms.date: 06/08/2017
 ---
 
 

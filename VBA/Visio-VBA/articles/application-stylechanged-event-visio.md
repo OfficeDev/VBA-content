@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.StyleChanged
 ms.assetid: f56680b3-71c3-91c6-23d0-7d5840f9aeb5
+ms.date: 06/08/2017
 ---
 
 

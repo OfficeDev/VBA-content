@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.Width
 ms.assetid: 6d06d1d1-8a98-3a57-e363-c918db157986
+ms.date: 06/08/2017
 ---
 
 

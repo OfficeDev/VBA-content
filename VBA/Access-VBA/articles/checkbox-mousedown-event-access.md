@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.MouseDown
 ms.assetid: 6281cd33-662e-e73f-5365-5784aca5c5df
+ms.date: 06/08/2017
 ---
 
 

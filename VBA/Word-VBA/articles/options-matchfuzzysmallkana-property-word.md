@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzySmallKana
 ms.assetid: 743fdfa1-01da-32ee-22cf-c30852f382bf
+ms.date: 06/08/2017
 ---
 
 

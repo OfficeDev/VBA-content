@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.CellsU
 ms.assetid: bee20521-6515-8a3b-e861-104f7cc71c26
+ms.date: 06/08/2017
 ---
 
 

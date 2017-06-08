@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.LinesPage
 ms.assetid: e063f2e4-d7de-48b4-15b0-db75ca9fb6e4
+ms.date: 06/08/2017
 ---
 
 

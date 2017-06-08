@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.SelLength
 ms.assetid: f465a2a0-2c4c-ac8b-0867-4033ca44e3f4
+ms.date: 06/08/2017
 ---
 
 

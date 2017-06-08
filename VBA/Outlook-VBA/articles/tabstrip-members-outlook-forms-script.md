@@ -2,6 +2,7 @@
 title: TabStrip Members (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: d102c521-da63-4c8a-bfd6-83b3d2e2d9d3
+ms.date: 06/08/2017
 ---
 
 

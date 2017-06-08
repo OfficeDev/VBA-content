@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.SubtotalHiddenPageItems
 ms.assetid: bb3c7e54-1894-a1b6-e2d0-cf6097bd4875
+ms.date: 06/08/2017
 ---
 
 

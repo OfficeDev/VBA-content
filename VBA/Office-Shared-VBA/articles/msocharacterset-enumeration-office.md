@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoCharacterSet
 ms.assetid: 29111386-e1ec-a468-cea3-5437c400052b
+ms.date: 06/08/2017
 ---
 
 

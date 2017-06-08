@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.Dependents
 ms.assetid: 99a1502b-c847-6836-2470-178b595345f9
+ms.date: 06/08/2017
 ---
 
 

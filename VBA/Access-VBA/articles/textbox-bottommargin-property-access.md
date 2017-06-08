@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.BottomMargin
 ms.assetid: a6ef1155-24c8-1254-614b-c912fda8dae2
+ms.date: 06/08/2017
 ---
 
 

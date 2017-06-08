@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Left
 ms.assetid: 0a3a83ce-bbb5-1884-4125-0d9f1bf20d27
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Save
 ms.assetid: 0f4e57ab-388c-7ba1-c6b8-f14bfc0ac73c
+ms.date: 06/08/2017
 ---
 
 

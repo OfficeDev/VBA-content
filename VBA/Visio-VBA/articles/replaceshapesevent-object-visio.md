@@ -2,6 +2,7 @@
 title: ReplaceShapesEvent Object (Visio)
 ms.prod: VISIO
 ms.assetid: 26c4e7cb-6618-6d2f-a4be-515584f8cd10
+ms.date: 06/08/2017
 ---
 
 

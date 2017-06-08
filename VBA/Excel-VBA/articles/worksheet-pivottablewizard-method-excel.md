@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.PivotTableWizard
 ms.assetid: ce37080b-f96f-a706-7b15-7366c268b5cf
+ms.date: 06/08/2017
 ---
 
 

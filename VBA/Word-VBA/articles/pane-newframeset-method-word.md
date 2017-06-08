@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.NewFrameset
 ms.assetid: 86724851-6b29-1a66-e863-edeb4c9d43de
+ms.date: 06/08/2017
 ---
 
 

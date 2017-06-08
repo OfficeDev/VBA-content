@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorCheckingOptions.UnlockedFormulaCells
 ms.assetid: 0b7c038d-41d8-aeb8-3e15-3105d6e65c02
+ms.date: 06/08/2017
 ---
 
 

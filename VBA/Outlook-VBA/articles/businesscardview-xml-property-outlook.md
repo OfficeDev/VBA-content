@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.BusinessCardView.XML
 ms.assetid: da381070-28e8-bace-b15f-1c01a35491b8
+ms.date: 06/08/2017
 ---
 
 

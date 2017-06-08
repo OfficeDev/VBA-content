@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.CalculationInterruptKey
 ms.assetid: 1187c122-0498-a82c-5479-1595c7f06448
+ms.date: 06/08/2017
 ---
 
 

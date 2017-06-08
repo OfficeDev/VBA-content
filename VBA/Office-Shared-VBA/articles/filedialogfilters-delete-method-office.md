@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialogFilters.Delete
 ms.assetid: 708b934e-c391-6a35-3524-6aa1b318b224
+ms.date: 06/08/2017
 ---
 
 

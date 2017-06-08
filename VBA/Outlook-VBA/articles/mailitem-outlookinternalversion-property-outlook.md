@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.OutlookInternalVersion
 ms.assetid: c9328c0e-33d8-4c01-b745-8eb5820a48f5
+ms.date: 06/08/2017
 ---
 
 

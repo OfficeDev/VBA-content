@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DeliverablesGetByProject
 ms.assetid: bbf626e8-a43e-dd06-dd2a-3d29aa1f0b6b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.TypelibMajorVersion
 ms.assetid: 17e1abf3-5a5d-aac9-9f78-4eeb2c4a6c79
+ms.date: 06/08/2017
 ---
 
 

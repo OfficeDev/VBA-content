@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PrintableRect
 ms.assetid: fd99e9d4-81d9-63ae-78ca-f7a16b031239
+ms.date: 06/08/2017
 ---
 
 

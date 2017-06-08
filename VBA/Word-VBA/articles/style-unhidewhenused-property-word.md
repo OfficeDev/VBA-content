@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.UnhideWhenUsed
 ms.assetid: 7064a69c-001a-2c01-e2b7-4e67949ec965
+ms.date: 06/08/2017
 ---
 
 

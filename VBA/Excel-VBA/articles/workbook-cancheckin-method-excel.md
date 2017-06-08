@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.CanCheckIn
 ms.assetid: 17f7cbdd-0ce0-8e3a-46f3-cb6dafaaa40a
+ms.date: 06/08/2017
 ---
 
 

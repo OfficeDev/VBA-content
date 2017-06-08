@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseGlobalCheckOut
 ms.assetid: f84fd1bb-1576-8b5b-4d90-4332d0819a6c
+ms.date: 06/08/2017
 ---
 
 

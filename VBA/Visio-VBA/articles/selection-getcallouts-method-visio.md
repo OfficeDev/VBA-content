@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.GetCallouts
 ms.assetid: 29adcbbc-d5a9-a284-c025-785ad1ccf2c8
+ms.date: 06/08/2017
 ---
 
 

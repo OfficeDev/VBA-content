@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadingStyle.Parent
 ms.assetid: 81049c56-9516-8507-a626-63d9a3c5d823
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListTemplates.Creator
 ms.assetid: 8af8b8e3-fce0-3770-01de-12bea22b6792
+ms.date: 06/08/2017
 ---
 
 

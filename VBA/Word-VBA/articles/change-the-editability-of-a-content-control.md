@@ -2,6 +2,7 @@
 title: Change the Editability of a Content Control
 ms.prod: WORD
 ms.assetid: ec1856d6-c19a-cc73-1d9c-237935e69db1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowWindow.IsFullScreen
 ms.assetid: 1ba5d587-8ea3-b243-efdb-83e47acfc894
+ms.date: 06/08/2017
 ---
 
 

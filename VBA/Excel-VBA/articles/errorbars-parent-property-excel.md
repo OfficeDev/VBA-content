@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorBars.Parent
 ms.assetid: 90e3daf2-d87e-b7b7-923c-f8816317cf9d
+ms.date: 06/08/2017
 ---
 
 

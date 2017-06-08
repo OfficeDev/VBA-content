@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.TopPadding
 ms.assetid: 563984b7-d637-ff8b-8996-46f5740aba4f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.Italic
 ms.assetid: 8e25a2dd-2ac1-83ec-c505-fdc23b0de7d9
+ms.date: 06/08/2017
 ---
 
 

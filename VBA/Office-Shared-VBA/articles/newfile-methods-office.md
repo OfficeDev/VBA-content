@@ -2,6 +2,7 @@
 title: NewFile Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 3069f23f-b822-46e7-add3-56525b8837d4
+ms.date: 06/08/2017
 ---
 
 

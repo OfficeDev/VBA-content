@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.Click
 ms.assetid: e32826fd-da43-b122-c656-6a9994496edf
+ms.date: 06/08/2017
 ---
 
 

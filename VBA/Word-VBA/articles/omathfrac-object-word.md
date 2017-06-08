@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFrac
 ms.assetid: 31221b8f-9edc-9684-3b4e-867c23cf1c26
+ms.date: 06/08/2017
 ---
 
 

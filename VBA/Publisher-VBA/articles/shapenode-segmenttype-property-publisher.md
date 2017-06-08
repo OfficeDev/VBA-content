@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeNode.SegmentType
 ms.assetid: 471206b2-ca37-5e4a-678b-df8a47c90f96
+ms.date: 06/08/2017
 ---
 
 

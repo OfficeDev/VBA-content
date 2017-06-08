@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Columns.Parent
 ms.assetid: 7ddc66a0-77b0-9593-7463-54d74406cf7c
+ms.date: 06/08/2017
 ---
 
 

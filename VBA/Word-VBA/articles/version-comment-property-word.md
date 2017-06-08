@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Version.Comment
 ms.assetid: 52ca9077-0295-3059-b699-6fa97ad45991
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureSet.ShowSignaturesPane
 ms.assetid: 1aa332cd-5b4e-06e8-2ebb-3c64128ded04
+ms.date: 06/08/2017
 ---
 
 

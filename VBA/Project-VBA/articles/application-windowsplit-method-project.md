@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WindowSplit
 ms.assetid: cbdea999-4692-a10d-80e3-ae6b4407eebc
+ms.date: 06/08/2017
 ---
 
 

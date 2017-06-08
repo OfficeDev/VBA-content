@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Delete
 ms.assetid: 342c6003-e7c5-7314-453c-151fc51d5b2d
+ms.date: 06/08/2017
 ---
 
 

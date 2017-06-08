@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.NumberFormat
 ms.assetid: b19a87fb-3a20-dc56-2bb0-1e606e9a765c
+ms.date: 06/08/2017
 ---
 
 

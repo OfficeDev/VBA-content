@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BoundColumn
 ms.assetid: ba2b5807-5f5a-52bb-d5d3-db7525bccba4
+ms.date: 06/08/2017
 ---
 
 

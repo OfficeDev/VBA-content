@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DataGraphicHidden
 ms.assetid: adcf1867-8541-785b-d8ad-dd44583473b9
+ms.date: 06/08/2017
 ---
 
 

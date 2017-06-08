@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OutlookBarShortcuts
 ms.assetid: 5ee9f085-d2fe-c949-9edc-ad073801ea77
+ms.date: 06/08/2017
 ---
 
 

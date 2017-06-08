@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendEntries
 ms.assetid: ac65aeaa-8a1c-57d7-499f-1c0b57dd02fd
+ms.date: 06/08/2017
 ---
 
 

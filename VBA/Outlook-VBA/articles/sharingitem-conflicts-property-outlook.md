@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Conflicts
 ms.assetid: e149163f-e6fa-7e86-7d8d-a2952af9c8c5
+ms.date: 06/08/2017
 ---
 
 

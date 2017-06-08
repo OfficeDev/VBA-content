@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropCap.FontName
 ms.assetid: 5c89102e-fbf2-cb40-d89b-fbeb56386da1
+ms.date: 06/08/2017
 ---
 
 

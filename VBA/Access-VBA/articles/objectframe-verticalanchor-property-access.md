@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.VerticalAnchor
 ms.assetid: 972f9c07-ef2e-5bf4-2562-e411e9ae05ce
+ms.date: 06/08/2017
 ---
 
 

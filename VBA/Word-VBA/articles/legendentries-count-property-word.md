@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendEntries.Count
 ms.assetid: 217d61b8-d48a-fa64-219a-e9c4cde91403
+ms.date: 06/08/2017
 ---
 
 

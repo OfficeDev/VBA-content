@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ProcCountLines
 ms.assetid: 4527ede7-80e6-45ec-c645-8a1fd623921f
+ms.date: 06/08/2017
 ---
 
 

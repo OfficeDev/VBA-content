@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.RegisterRibbonX
 ms.assetid: db9f5050-0813-f805-5e1c-6fe141742dbe
+ms.date: 06/08/2017
 ---
 
 

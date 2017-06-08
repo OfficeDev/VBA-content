@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.AllowPNG
 ms.assetid: 4fad6401-af54-ad7f-a46f-8110e8c00ad4
+ms.date: 06/08/2017
 ---
 
 

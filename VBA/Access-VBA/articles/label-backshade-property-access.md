@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.BackShade
 ms.assetid: 22d97aa2-572a-9398-c2bf-d0b5b492f9e7
+ms.date: 06/08/2017
 ---
 
 

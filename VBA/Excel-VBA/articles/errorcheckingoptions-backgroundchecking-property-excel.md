@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorCheckingOptions.BackgroundChecking
 ms.assetid: 427b3b32-c099-dc71-1255-7f73805a4db8
+ms.date: 06/08/2017
 ---
 
 

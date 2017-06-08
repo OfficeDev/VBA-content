@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPhoneticGuideAlignmentType
 ms.assetid: d16b3b5d-5d3f-9a5b-e16b-5eb0504b4d59
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.RemoveItem
 ms.assetid: b895775c-7b77-6f2b-b368-998d7114aa7a
+ms.date: 06/08/2017
 ---
 
 

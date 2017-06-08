@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OutlineFont
 ms.assetid: 41075763-8ee7-e6ba-c9a2-7bc718b5405e
+ms.date: 06/08/2017
 ---
 
 

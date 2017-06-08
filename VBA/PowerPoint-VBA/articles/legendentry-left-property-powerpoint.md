@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendEntry.Left
 ms.assetid: 02672e4c-3553-3bd3-f751-ed5870668560
+ms.date: 06/08/2017
 ---
 
 

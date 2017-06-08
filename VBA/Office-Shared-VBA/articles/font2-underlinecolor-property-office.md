@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.UnderlineColor
 ms.assetid: 7479a08a-7960-78bb-d3c0-e2716e2a7bbb
+ms.date: 06/08/2017
 ---
 
 

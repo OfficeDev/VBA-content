@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.EndInEndTimeZone
 ms.assetid: 9fec38c1-3cd1-d428-4d51-48e01954ee03
+ms.date: 06/08/2017
 ---
 
 

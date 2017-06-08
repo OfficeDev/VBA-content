@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Border.ColorIndex
 ms.assetid: 649e96e8-b815-2a9e-bebe-d38c847c2e93
+ms.date: 06/08/2017
 ---
 
 

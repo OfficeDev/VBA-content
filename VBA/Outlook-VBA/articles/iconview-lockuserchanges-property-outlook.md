@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.IconView.LockUserChanges
 ms.assetid: 53d42f7f-3fb0-2a3f-7431-f21fb43820d1
+ms.date: 06/08/2017
 ---
 
 

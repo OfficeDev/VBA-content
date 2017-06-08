@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Move
 ms.assetid: ec8c8eae-17a8-20a0-a87c-81f31b21d735
+ms.date: 06/08/2017
 ---
 
 

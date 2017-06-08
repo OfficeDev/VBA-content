@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.CubeFields
 ms.assetid: 043d6946-4d78-ba59-bef7-5aa4d000041d
+ms.date: 06/08/2017
 ---
 
 

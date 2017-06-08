@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.SmartArtColors
 ms.assetid: 6a324540-8703-6e18-938d-b275e1f71610
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Birthday
 ms.assetid: d36f2719-8ccb-a6bf-457c-7430e9c26853
+ms.date: 06/08/2017
 ---
 
 

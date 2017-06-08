@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.IgnoreWarnings
 ms.assetid: 066439e9-c100-80fc-cba3-f9cadc0ef563
+ms.date: 06/08/2017
 ---
 
 

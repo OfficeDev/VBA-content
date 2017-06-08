@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BackTint
 ms.assetid: 67654a62-b38d-fff1-8ec3-6b4fb9605988
+ms.date: 06/08/2017
 ---
 
 

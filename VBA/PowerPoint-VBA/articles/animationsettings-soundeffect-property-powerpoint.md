@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.SoundEffect
 ms.assetid: b357a83d-167b-5429-7d7d-94851c8735ac
+ms.date: 06/08/2017
 ---
 
 

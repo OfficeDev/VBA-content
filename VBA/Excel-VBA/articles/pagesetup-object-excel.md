@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup
 ms.assetid: 2fd22df9-5987-f723-04a9-9a3f2e84ac81
+ms.date: 06/08/2017
 ---
 
 

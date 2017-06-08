@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlChartSplitType
 ms.assetid: 29100967-2415-1e53-4125-4837ee4ecbad
+ms.date: 06/08/2017
 ---
 
 

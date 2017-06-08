@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.Parent
 ms.assetid: 8ec054ec-943c-97ec-f39f-f4cfe81c9515
+ms.date: 06/08/2017
 ---
 
 

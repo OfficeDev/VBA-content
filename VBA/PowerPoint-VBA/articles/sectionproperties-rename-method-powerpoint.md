@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SectionProperties.Rename
 ms.assetid: b1e7428e-c7ee-04b8-1f09-246fe3e7fe6f
+ms.date: 06/08/2017
 ---
 
 

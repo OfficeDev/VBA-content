@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Mask
 ms.assetid: de7179ac-6b39-2323-d84a-23abe3ed3167
+ms.date: 06/08/2017
 ---
 
 

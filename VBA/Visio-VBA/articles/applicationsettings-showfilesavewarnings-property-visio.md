@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.ShowFileSaveWarnings
 ms.assetid: 86a2bb68-da8e-9661-9f03-13806debc29f
+ms.date: 06/08/2017
 ---
 
 

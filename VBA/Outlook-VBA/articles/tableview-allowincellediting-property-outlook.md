@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.AllowInCellEditing
 ms.assetid: dc6fa249-405f-6262-b085-53da15ba3d72
+ms.date: 06/08/2017
 ---
 
 

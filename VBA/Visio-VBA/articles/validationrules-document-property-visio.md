@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ValidationRules.Document
 ms.assetid: cb75bba6-ff75-91fb-0993-7692b9d65f0d
+ms.date: 06/08/2017
 ---
 
 

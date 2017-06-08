@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.TextChanged
 ms.assetid: 7212fc84-0573-22ab-3244-b0258a24d7ad
+ms.date: 06/08/2017
 ---
 
 

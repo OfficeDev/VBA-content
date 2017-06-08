@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.IsEmpty
 ms.assetid: 493cbb8f-e069-14a9-a827-7f7631eb3a09
+ms.date: 06/08/2017
 ---
 
 

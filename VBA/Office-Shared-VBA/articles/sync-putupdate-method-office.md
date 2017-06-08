@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Sync.PutUpdate
 ms.assetid: 2197cb71-e4d3-e89f-768b-7fd76f92a2d2
+ms.date: 06/08/2017
 ---
 
 

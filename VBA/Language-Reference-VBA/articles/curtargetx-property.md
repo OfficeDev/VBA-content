@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CurTargetX
 ms.assetid: b0365f58-22db-34d2-9751-6c9d36598e08
+ms.date: 06/08/2017
 ---
 
 

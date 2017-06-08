@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.PieSliceLocation
 ms.assetid: 90a318d4-0ad2-d326-c26b-3c965b1ffe43
+ms.date: 06/08/2017
 ---
 
 

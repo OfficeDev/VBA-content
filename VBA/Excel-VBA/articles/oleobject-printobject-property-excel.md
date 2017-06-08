@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.PrintObject
 ms.assetid: 23cfc576-c4f1-5b60-1daa-4fc0a5e12d7e
+ms.date: 06/08/2017
 ---
 
 

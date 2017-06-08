@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.RecentFilesMaximum
 ms.assetid: 005c7c09-1fbf-b807-ebe6-601c55e56c97
+ms.date: 06/08/2017
 ---
 
 

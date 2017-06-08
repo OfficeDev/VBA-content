@@ -2,6 +2,7 @@
 title: ToolTips and Control Tips Overview
 ms.prod: OUTLOOK
 ms.assetid: 3009590a-8c2b-0cc0-2181-5bd55b9031cf
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCache.SortItems
 ms.assetid: da8fd267-5c4d-c333-fb21-bb3c4305747c
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdExportOptimizeFor
 ms.assetid: 1570b20b-7da3-42f4-6c49-a3b1d0e70beb
+ms.date: 06/08/2017
 ---
 
 

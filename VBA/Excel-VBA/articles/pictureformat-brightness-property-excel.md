@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PictureFormat.Brightness
 ms.assetid: f17ee171-47da-c982-2f48-9ee333193add
+ms.date: 06/08/2017
 ---
 
 

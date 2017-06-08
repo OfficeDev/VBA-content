@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Exception.Shift1
 ms.assetid: 8b587014-c830-d346-4ba3-5add50f8e548
+ms.date: 06/08/2017
 ---
 
 

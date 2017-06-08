@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextStyles.Count
 ms.assetid: afdd652f-7f97-899d-af82-1f2396ff23b9
+ms.date: 06/08/2017
 ---
 
 

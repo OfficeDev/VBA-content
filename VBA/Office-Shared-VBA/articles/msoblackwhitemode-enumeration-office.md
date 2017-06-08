@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoBlackWhiteMode
 ms.assetid: 2b4d7e22-1277-9f5c-ba52-a37e113477c1
+ms.date: 06/08/2017
 ---
 
 

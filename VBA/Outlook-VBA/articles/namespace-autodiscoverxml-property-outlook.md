@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.AutoDiscoverXml
 ms.assetid: 34834000-1f53-2bfb-7546-886c6e2716fd
+ms.date: 06/08/2017
 ---
 
 

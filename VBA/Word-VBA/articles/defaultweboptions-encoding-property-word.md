@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.Encoding
 ms.assetid: 2876e36d-927d-c9aa-6df4-9f2995a3a3d1
+ms.date: 06/08/2017
 ---
 
 

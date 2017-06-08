@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.OnMouseMove
 ms.assetid: aa52fc17-d3b3-516a-ccad-f8471faf427d
+ms.date: 06/08/2017
 ---
 
 

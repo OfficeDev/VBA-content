@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.MouseIcon
 ms.assetid: 4d2bf497-0e80-2494-4197-e746778da519
+ms.date: 06/08/2017
 ---
 
 

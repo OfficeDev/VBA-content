@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FInv
 ms.assetid: 4194c2ca-a9c7-ba96-2f17-b24bcb6f4a36
+ms.date: 06/08/2017
 ---
 
 

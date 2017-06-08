@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Tags.Count
 ms.assetid: 4a6ae9cb-65f8-c273-e50c-e75d6a785767
+ms.date: 06/08/2017
 ---
 
 

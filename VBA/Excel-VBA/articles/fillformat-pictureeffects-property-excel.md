@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.PictureEffects
 ms.assetid: bb5e8d9d-a878-c8c4-b198-ef7269f837f0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RemoveLockedStyles
 ms.assetid: 0c20a3c9-b4b3-e9a6-06d1-a9bf9b16dc07
+ms.date: 06/08/2017
 ---
 
 

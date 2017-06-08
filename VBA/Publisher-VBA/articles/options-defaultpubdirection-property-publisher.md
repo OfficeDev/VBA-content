@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.DefaultPubDirection
 ms.assetid: 628352c1-040f-9ab1-d0f1-308b2c26679c
+ms.date: 06/08/2017
 ---
 
 

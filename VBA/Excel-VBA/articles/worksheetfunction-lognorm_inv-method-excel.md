@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.LogNorm_Inv
 ms.assetid: d8a3c416-c2c4-dc57-e1f0-1d05e9fec2a1
+ms.date: 06/08/2017
 ---
 
 

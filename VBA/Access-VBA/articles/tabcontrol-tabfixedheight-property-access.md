@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.TabFixedHeight
 ms.assetid: 562c4e43-0729-000a-9d8d-aff64a3bbb2e
+ms.date: 06/08/2017
 ---
 
 

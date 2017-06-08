@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TimeScaleValue.EndDate
 ms.assetid: e9acd4f8-b002-5195-2e0c-505b633a3b54
+ms.date: 06/08/2017
 ---
 
 

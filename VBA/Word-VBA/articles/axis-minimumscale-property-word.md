@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.MinimumScale
 ms.assetid: ccc3eb87-4839-5952-263b-00aad68b3521
+ms.date: 06/08/2017
 ---
 
 

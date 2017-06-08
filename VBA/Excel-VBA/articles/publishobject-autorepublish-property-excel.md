@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PublishObject.AutoRepublish
 ms.assetid: edf5579f-eb70-85d3-de5d-1ae229359898
+ms.date: 06/08/2017
 ---
 
 

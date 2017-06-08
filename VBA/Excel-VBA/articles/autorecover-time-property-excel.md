@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AutoRecover.Time
 ms.assetid: 096783b6-77ae-75eb-08cc-fa3978aa6121
+ms.date: 06/08/2017
 ---
 
 

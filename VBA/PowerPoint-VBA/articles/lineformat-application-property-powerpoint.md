@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.Application
 ms.assetid: e1f2c525-54c7-80f3-5f80-bca0a9e0a63c
+ms.date: 06/08/2017
 ---
 
 

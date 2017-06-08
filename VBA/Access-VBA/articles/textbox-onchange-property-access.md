@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.OnChange
 ms.assetid: ea25341f-fd30-62b1-476d-29febf4db4b4
+ms.date: 06/08/2017
 ---
 
 

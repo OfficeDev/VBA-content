@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoTextCaps
 ms.assetid: e9421198-457e-534e-d55e-a5ef4ee44db0
+ms.date: 06/08/2017
 ---
 
 

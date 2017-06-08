@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ServerViewableItems.Add
 ms.assetid: e5771bed-efd0-3cdc-ce80-13b71f596d01
+ms.date: 06/08/2017
 ---
 
 

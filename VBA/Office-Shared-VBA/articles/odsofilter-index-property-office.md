@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ODSOFilter.Index
 ms.assetid: 7a7986d6-812a-2237-5211-fd7c782dd497
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.Width
 ms.assetid: e5d7c087-c226-8c85-627f-d63c6b526f20
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.ApplyStyleFirstColumn
 ms.assetid: 9802ff74-321d-a44c-2cac-9f17b91210d2
+ms.date: 06/08/2017
 ---
 
 

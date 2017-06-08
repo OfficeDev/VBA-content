@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.VBProject
 ms.assetid: 087e9cdc-c21d-6f02-05ce-4c3fa6e09cff
+ms.date: 06/08/2017
 ---
 
 

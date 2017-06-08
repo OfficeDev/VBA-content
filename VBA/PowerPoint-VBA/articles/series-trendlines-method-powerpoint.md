@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.Trendlines
 ms.assetid: 17578607-d0aa-dcc2-1eec-3af031f17c2d
+ms.date: 06/08/2017
 ---
 
 

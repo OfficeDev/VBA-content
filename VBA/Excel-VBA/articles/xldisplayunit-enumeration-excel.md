@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlDisplayUnit
 ms.assetid: 2ea7da77-2577-52aa-58fc-9b5da0898b25
+ms.date: 06/08/2017
 ---
 
 

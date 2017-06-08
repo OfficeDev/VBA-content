@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.Parent
 ms.assetid: 6983b81d-1128-8634-1cb4-9a4773eaeb95
+ms.date: 06/08/2017
 ---
 
 

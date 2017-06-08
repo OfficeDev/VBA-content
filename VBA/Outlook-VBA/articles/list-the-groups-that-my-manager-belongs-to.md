@@ -2,6 +2,7 @@
 title: List the Groups that My Manager Belongs to
 ms.prod: OUTLOOK
 ms.assetid: 2f0ff92c-e026-4f62-c039-fbda9aaf1546
+ms.date: 06/08/2017
 ---
 
 

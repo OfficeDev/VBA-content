@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ActiveTheme
 ms.assetid: 2a68899f-8644-c9bb-1d9d-134b132eef91
+ms.date: 06/08/2017
 ---
 
 

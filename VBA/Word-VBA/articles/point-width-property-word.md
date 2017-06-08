@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Width
 ms.assetid: 0fe733c4-ac94-d328-0b50-b1951f20bacf
+ms.date: 06/08/2017
 ---
 
 

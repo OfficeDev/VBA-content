@@ -2,6 +2,7 @@
 title: Views Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 53717121-f6da-d762-af97-15a819ea5d82
+ms.date: 06/08/2017
 ---
 
 

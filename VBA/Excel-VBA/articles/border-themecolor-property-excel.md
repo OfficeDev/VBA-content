@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Border.ThemeColor
 ms.assetid: 5cd6a0f2-408e-30e8-0c1f-5584d888eccd
+ms.date: 06/08/2017
 ---
 
 

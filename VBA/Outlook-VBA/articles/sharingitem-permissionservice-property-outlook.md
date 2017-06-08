@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.PermissionService
 ms.assetid: ef50051d-420f-21db-af30-02a7d01896b6
+ms.date: 06/08/2017
 ---
 
 

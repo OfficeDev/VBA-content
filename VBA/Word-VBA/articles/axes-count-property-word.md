@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Axes.Count
 ms.assetid: e182ef8e-eff1-eeb3-ae06-7764fa112a89
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Legend
 ms.assetid: f0122074-87b7-0225-3c6c-406103fa4c29
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.Enabled
 ms.assetid: cee71271-8733-07ce-9c68-cc847ecb070e
+ms.date: 06/08/2017
 ---
 
 

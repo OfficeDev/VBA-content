@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.UserDefinedProperty.Session
 ms.assetid: b47e79c1-e28c-48c8-f1cb-08844bf9716a
+ms.date: 06/08/2017
 ---
 
 

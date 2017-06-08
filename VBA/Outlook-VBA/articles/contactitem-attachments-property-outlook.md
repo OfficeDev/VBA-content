@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Attachments
 ms.assetid: 5679948f-bb5b-661a-0060-7941a8e436ef
+ms.date: 06/08/2017
 ---
 
 

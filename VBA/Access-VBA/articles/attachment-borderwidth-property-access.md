@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.BorderWidth
 ms.assetid: e72672a1-3b17-ad1b-ff7d-96e3652a9f35
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: IMsoContactCard Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ef1e7831-ef0b-4887-b909-5b5e9bb8949b
+ms.date: 06/08/2017
 ---
 
 

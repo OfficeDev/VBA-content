@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.GetSupertipMso
 ms.assetid: e116402f-bbb7-8cd3-6305-7daf85feb514
+ms.date: 06/08/2017
 ---
 
 

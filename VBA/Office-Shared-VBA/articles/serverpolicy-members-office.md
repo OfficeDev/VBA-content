@@ -2,6 +2,7 @@
 title: ServerPolicy Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ed14d9a8-6159-f175-9078-181331ebfb03
+ms.date: 06/08/2017
 ---
 
 

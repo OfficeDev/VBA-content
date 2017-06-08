@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartArea.ClearFormats
 ms.assetid: 4a528ed5-dec3-13f9-3a83-b3dcdfe79329
+ms.date: 06/08/2017
 ---
 
 

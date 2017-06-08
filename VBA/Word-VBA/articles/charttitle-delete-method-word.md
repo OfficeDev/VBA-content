@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartTitle.Delete
 ms.assetid: e1db4f8a-f36e-4436-d78e-09cd0cc89720
+ms.date: 06/08/2017
 ---
 
 

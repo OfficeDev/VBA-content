@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.ProtectedViewWindowBeforeClose
 ms.assetid: e10ffe16-aad8-1e2d-fd75-82243a56ef05
+ms.date: 06/08/2017
 ---
 
 

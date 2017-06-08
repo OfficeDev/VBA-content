@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.Execute2007
 ms.assetid: 441de4b6-882c-e950-cafe-ee4463ef1007
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.ForeColor
 ms.assetid: e5ee9372-6737-e9aa-4d74-24991ae2007e
+ms.date: 06/08/2017
 ---
 
 

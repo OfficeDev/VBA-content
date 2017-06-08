@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Hyperlink.ScreenTip
 ms.assetid: b935ea5c-17d8-e3ad-fca2-ef0985daa709
+ms.date: 06/08/2017
 ---
 
 

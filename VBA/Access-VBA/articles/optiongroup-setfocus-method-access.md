@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.SetFocus
 ms.assetid: 8aaeccc5-29eb-559c-5501-4df7b325fc72
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SortField.SortOnValue
 ms.assetid: eeaaf959-71d2-99a3-7e66-61744ad4709e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Unprotect
 ms.assetid: 04cc2bd3-2af6-de24-bd82-7f489aefdb48
+ms.date: 06/08/2017
 ---
 
 

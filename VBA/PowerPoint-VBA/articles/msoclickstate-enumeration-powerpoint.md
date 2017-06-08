@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MsoClickState
 ms.assetid: 0834c861-7519-5ed0-86c3-fe001a469c4f
+ms.date: 06/08/2017
 ---
 
 

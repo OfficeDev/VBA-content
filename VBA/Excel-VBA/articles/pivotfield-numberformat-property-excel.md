@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.NumberFormat
 ms.assetid: 22c58eaa-ad1c-ea73-f3da-2922da5327de
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoBevelType
 ms.assetid: 2404d6cf-0c64-fca5-59bc-098847018f99
+ms.date: 06/08/2017
 ---
 
 

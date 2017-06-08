@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.Visibility
 ms.assetid: 4afbdfc5-782d-2cb3-33f1-1bb438dd392c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.BorderShade
 ms.assetid: 6343e6d8-2045-f72a-24ea-0952e20c49a7
+ms.date: 06/08/2017
 ---
 
 

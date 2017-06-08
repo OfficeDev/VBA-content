@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.ApplyPictToSides
 ms.assetid: b8a5b93d-f674-3927-3742-7578656f3152
+ms.date: 06/08/2017
 ---
 
 

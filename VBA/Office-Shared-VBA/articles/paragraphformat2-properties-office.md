@@ -2,6 +2,7 @@
 title: ParagraphFormat2 Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 8d167e67-9ef4-4e02-b64f-0f32e073e476
+ms.date: 06/08/2017
 ---
 
 

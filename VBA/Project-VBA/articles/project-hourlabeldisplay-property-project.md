@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.HourLabelDisplay
 ms.assetid: 6dc5f65b-d509-5d4a-a550-52c92b43534e
+ms.date: 06/08/2017
 ---
 
 

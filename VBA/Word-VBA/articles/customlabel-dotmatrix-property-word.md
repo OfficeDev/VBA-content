@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomLabel.DotMatrix
 ms.assetid: 46646fd9-2d37-ed2b-d6f9-68cf139bbd57
+ms.date: 06/08/2017
 ---
 
 

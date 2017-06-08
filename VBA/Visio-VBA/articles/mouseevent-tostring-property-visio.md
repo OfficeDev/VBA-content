@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MouseEvent.ToString
 ms.assetid: c3f8aef5-dcc5-8b73-fe3b-61f2ff118693
+ms.date: 06/08/2017
 ---
 
 

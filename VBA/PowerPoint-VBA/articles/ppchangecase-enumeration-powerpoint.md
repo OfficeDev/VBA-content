@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpChangeCase
 ms.assetid: 93d2d684-5b5c-64ad-667b-dd60093fb366
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.XmlMapQuery
 ms.assetid: ac1d20f4-92ad-110e-00be-0fe4e098cb35
+ms.date: 06/08/2017
 ---
 
 

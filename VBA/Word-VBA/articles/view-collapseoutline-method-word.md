@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.CollapseOutline
 ms.assetid: b22ac567-ef40-e47e-f0fc-311263675045
+ms.date: 06/08/2017
 ---
 
 

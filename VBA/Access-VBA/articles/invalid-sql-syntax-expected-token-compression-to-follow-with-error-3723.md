@@ -2,6 +2,7 @@
 title: "Invalid SQL Syntax: expected token: COMPRESSION to follow WITH (Error 3723)"
 ms.prod: ACCESS
 ms.assetid: 6d63cc77-dbcf-302d-6957-1439f18dceeb
+ms.date: 06/08/2017
 ---
 
 

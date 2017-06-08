@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Layer.Row
 ms.assetid: 2dda9952-986d-1600-928c-e11da0f8235d
+ms.date: 06/08/2017
 ---
 
 

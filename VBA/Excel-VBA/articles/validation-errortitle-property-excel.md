@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.ErrorTitle
 ms.assetid: bafa328c-9f2f-3bb3-be61-5772e28fed47
+ms.date: 06/08/2017
 ---
 
 

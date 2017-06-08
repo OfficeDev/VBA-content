@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.Selection
 ms.assetid: f25b5608-035b-983a-545d-d720990c28be
+ms.date: 06/08/2017
 ---
 
 

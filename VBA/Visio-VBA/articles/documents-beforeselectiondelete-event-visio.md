@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.BeforeSelectionDelete
 ms.assetid: 0a0c764a-45bc-1ccb-a733-44c1933b95e3
+ms.date: 06/08/2017
 ---
 
 

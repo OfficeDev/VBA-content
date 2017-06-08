@@ -2,6 +2,7 @@
 title: New Project Command (File Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ff0bb219-3bca-af9e-ba42-a76b929c928c
+ms.date: 06/08/2017
 ---
 
 

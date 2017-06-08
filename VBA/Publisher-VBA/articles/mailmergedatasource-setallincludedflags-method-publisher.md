@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: ab668e95-55ac-fcbd-19c9-3c13fe3aa995
+ms.date: 06/08/2017
 ---
 
 

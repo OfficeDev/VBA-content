@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxShowHideFields
 ms.assetid: b100c012-8ab9-2e39-c8c8-569b1498c5da
+ms.date: 06/08/2017
 ---
 
 

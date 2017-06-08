@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TickLabels.Font
 ms.assetid: b241fa1f-592c-83ac-eb20-c5b0b7a94296
+ms.date: 06/08/2017
 ---
 
 

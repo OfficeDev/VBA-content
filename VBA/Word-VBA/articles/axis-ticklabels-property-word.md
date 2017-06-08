@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.TickLabels
 ms.assetid: 5c363e25-71e3-4f89-bcd3-612855000f53
+ms.date: 06/08/2017
 ---
 
 

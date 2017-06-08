@@ -2,6 +2,7 @@
 title: Object model (Project VBA reference)
 ms.prod: PROJECTSERVER
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07
+ms.date: 06/08/2017
 ---
 
 

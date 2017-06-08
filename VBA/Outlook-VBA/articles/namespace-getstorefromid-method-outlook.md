@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.GetStoreFromID
 ms.assetid: ba5b3df8-22a5-39fa-68ab-9f1e4cfe7f47
+ms.date: 06/08/2017
 ---
 
 

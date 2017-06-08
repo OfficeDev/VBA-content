@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.DisplayVerticalRuler
 ms.assetid: a529b86a-80a1-0ee3-821c-f11bcdb2a9ca
+ms.date: 06/08/2017
 ---
 
 

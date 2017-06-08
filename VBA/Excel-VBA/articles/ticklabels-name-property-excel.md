@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TickLabels.Name
 ms.assetid: a6edb084-c50f-df3e-22a2-dc811e72b419
+ms.date: 06/08/2017
 ---
 
 

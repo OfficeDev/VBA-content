@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DDETerminate
 ms.assetid: c469656c-edf8-3ce2-b09b-0883faba8943
+ms.date: 06/08/2017
 ---
 
 

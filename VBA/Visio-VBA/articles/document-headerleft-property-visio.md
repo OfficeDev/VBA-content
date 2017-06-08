@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.HeaderLeft
 ms.assetid: f19dede9-e28b-8fc4-bbbd-82b0e72d48c9
+ms.date: 06/08/2017
 ---
 
 

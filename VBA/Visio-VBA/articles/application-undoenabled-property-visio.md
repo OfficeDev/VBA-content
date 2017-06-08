@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.UndoEnabled
 ms.assetid: 54890621-84c3-8bde-2043-acb91a5b85dc
+ms.date: 06/08/2017
 ---
 
 

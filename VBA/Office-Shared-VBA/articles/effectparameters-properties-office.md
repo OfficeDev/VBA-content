@@ -2,6 +2,7 @@
 title: EffectParameters Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 4ab2a24f-e68b-4fe8-b379-8166f75696d6
+ms.date: 06/08/2017
 ---
 
 

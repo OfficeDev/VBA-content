@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.TripleState
 ms.assetid: f2c9f398-6e1b-00cb-4033-b0fb5a83e737
+ms.date: 06/08/2017
 ---
 
 

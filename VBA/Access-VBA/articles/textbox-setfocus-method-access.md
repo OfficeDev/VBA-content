@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.SetFocus
 ms.assetid: dc5edcd0-09af-2fdb-0b94-49af0bfa705b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Editors
 ms.assetid: ba750568-88c9-9ed8-61ee-45f89dfa4dea
+ms.date: 06/08/2017
 ---
 
 

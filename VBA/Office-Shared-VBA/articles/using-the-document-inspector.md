@@ -2,6 +2,7 @@
 title: Using the Document Inspector
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 62180311-ee41-1812-797d-3b5814add284
+ms.date: 06/08/2017
 ---
 
 

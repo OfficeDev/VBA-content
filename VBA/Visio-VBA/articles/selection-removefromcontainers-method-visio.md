@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.RemoveFromContainers
 ms.assetid: d1ed1360-3caa-3e03-98ef-84f4bd52a035
+ms.date: 06/08/2017
 ---
 
 

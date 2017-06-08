@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EditCopyPicture
 ms.assetid: 03f6306b-3538-9a34-dbc3-4ff2f7f40b1e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRasterExportSizeUnits
 ms.assetid: be0c0a49-3b2a-e601-3cdd-e5d72382dbcb
+ms.date: 06/08/2017
 ---
 
 

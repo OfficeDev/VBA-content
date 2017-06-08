@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchPrefix
 ms.assetid: 6af7190a-2950-df5e-d78c-12ea3e60a357
+ms.date: 06/08/2017
 ---
 
 

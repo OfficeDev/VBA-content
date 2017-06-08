@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.WorkVariance
 ms.assetid: 93e1222d-3df6-4a45-d908-339320106449
+ms.date: 06/08/2017
 ---
 
 

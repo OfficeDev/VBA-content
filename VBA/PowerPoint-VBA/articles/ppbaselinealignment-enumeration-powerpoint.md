@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpBaselineAlignment
 ms.assetid: 0a7a5ae6-c0e9-8652-01af-6b2f287d41a7
+ms.date: 06/08/2017
 ---
 
 

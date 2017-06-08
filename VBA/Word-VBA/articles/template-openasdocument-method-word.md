@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Template.OpenAsDocument
 ms.assetid: 3e73bddd-a5af-5c58-cd66-3271271633dd
+ms.date: 06/08/2017
 ---
 
 

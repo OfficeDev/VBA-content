@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PayRate.Delete
 ms.assetid: fa9184ec-59ea-aa74-7d25-51ffd0ce5471
+ms.date: 06/08/2017
 ---
 
 

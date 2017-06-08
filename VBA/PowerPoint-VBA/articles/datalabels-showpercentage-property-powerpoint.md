@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabels.ShowPercentage
 ms.assetid: c125433f-7166-871e-f433-9320b1613a70
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PlotArea.Name
 ms.assetid: 180d788a-52d7-3795-0ae5-813949e7348e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.TrimMean
 ms.assetid: 3ba47dcd-312b-2835-c9a4-5d5fcedee71f
+ms.date: 06/08/2017
 ---
 
 

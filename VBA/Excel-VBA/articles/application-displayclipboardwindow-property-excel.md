@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayClipboardWindow
 ms.assetid: 16686caf-39ed-90fa-4a61-92b3f825cc6c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Undo
 ms.assetid: e69e5d59-398d-744c-0a99-e2ca9b290c9b
+ms.date: 06/08/2017
 ---
 
 

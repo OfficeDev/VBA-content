@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.PermissionService
 ms.assetid: c999b215-f360-17b1-4915-45c3b525d3e5
+ms.date: 06/08/2017
 ---
 
 

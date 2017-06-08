@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.OpenEx
 ms.assetid: 86b26b53-c555-2d36-74d6-0d2a4d81971c
+ms.date: 06/08/2017
 ---
 
 

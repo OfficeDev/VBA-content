@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AssignToCategoryRuleAction
 ms.assetid: 402f4742-72ba-2559-4e4c-e2b8248cd7f6
+ms.date: 06/08/2017
 ---
 
 

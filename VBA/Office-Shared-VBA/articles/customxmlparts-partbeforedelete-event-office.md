@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLParts.PartBeforeDelete
 ms.assetid: 50fa1172-3eac-e091-660e-693a91aaf330
+ms.date: 06/08/2017
 ---
 
 

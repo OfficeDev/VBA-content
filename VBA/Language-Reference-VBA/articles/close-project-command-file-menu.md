@@ -2,6 +2,7 @@
 title: Close Project Command (File Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 834244cd-67a8-61fe-f880-4cee775be63e
+ms.date: 06/08/2017
 ---
 
 

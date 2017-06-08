@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FormatPaste
 ms.assetid: 605d0f1d-8a4c-955b-7f82-6c84ad98fbef
+ms.date: 06/08/2017
 ---
 
 

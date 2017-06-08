@@ -2,6 +2,7 @@
 title: Footnotes Object (Word)
 ms.prod: WORD
 ms.assetid: d46a0972-2784-4814-d547-30122a35cdc1
+ms.date: 06/08/2017
 ---
 
 

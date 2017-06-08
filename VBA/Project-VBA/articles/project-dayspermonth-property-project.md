@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DaysPerMonth
 ms.assetid: 1c4add8e-7162-0627-671e-e94117016fbd
+ms.date: 06/08/2017
 ---
 
 

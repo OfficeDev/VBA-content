@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.PrintCount
 ms.assetid: 9228d6eb-872c-db58-b316-78bff8b375dc
+ms.date: 06/08/2017
 ---
 
 

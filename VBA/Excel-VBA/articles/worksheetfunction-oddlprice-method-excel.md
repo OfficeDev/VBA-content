@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.OddLPrice
 ms.assetid: ca5d6902-0c96-5532-98c7-1db4f3aaa990
+ms.date: 06/08/2017
 ---
 
 

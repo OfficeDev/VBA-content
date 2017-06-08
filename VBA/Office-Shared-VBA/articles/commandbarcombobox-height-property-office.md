@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.Height
 ms.assetid: a3afc8c0-1c35-acc0-905c-0af47e84827d
+ms.date: 06/08/2017
 ---
 
 

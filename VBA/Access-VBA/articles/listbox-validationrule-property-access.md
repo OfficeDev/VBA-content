@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ValidationRule
 ms.assetid: d3a605d6-cb17-fc4a-0e01-72a21416f980
+ms.date: 06/08/2017
 ---
 
 

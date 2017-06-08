@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.EPostagePropertyDialog
 ms.assetid: 6d48fb9b-7826-2897-4deb-bde202fbd05b
+ms.date: 06/08/2017
 ---
 
 

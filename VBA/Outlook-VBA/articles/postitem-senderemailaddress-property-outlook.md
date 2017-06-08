@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.SenderEmailAddress
 ms.assetid: a84bd603-7fce-25ae-668e-083e11e9937e
+ms.date: 06/08/2017
 ---
 
 

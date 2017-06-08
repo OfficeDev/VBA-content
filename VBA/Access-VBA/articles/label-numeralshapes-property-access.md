@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.NumeralShapes
 ms.assetid: 3da2f917-a257-b9aa-3517-f4d65bc3af18
+ms.date: 06/08/2017
 ---
 
 

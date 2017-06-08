@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.InsetPen
 ms.assetid: 955b152d-517f-b5fa-6e23-765ddeb41d46
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Documents.OpenNoRepairDialog
 ms.assetid: e299326e-dc8e-ab43-06fe-9b7625fb8beb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.PresentationBeforeClose
 ms.assetid: 8c2d820b-aa44-287b-10ad-1dc6f4122231
+ms.date: 06/08/2017
 ---
 
 

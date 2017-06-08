@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.OffsetX
 ms.assetid: 54c43556-99cc-dbd4-5192-abd57798d73f
+ms.date: 06/08/2017
 ---
 
 

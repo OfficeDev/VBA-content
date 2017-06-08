@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlSortOrder
 ms.assetid: 56fa4e8d-bf41-db0c-227c-fd2999673e36
+ms.date: 06/08/2017
 ---
 
 

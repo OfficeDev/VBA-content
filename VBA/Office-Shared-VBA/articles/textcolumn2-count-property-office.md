@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextColumn2.Count
 ms.assetid: 7fb374fb-23bf-e28e-1ceb-796d098b45e0
+ms.date: 06/08/2017
 ---
 
 

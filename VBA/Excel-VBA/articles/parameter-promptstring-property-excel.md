@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Parameter.PromptString
 ms.assetid: e385bffd-fa89-a4c3-6442-d01d957f42d6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.SpanishModes
 ms.assetid: 07782cb9-2f36-00d7-0a66-f1549cf45fdd
+ms.date: 06/08/2017
 ---
 
 

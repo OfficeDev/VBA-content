@@ -2,6 +2,7 @@
 title: Lists Object (Word)
 ms.prod: WORD
 ms.assetid: 1fd927c5-6186-5ca0-80ae-c2ab225d092c
+ms.date: 06/08/2017
 ---
 
 

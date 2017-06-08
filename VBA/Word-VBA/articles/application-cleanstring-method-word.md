@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.CleanString
 ms.assetid: 00fd8b33-77b0-d17a-b4f2-52b3892ed912
+ms.date: 06/08/2017
 ---
 
 

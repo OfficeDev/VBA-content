@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.OLEUsage
 ms.assetid: 4ff6f74d-4eed-8a30-468c-22be5dee1c7e
+ms.date: 06/08/2017
 ---
 
 

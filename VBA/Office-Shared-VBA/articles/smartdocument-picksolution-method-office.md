@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartDocument.PickSolution
 ms.assetid: ea50c7a4-4b52-10c4-8b1a-86c7ef80dec1
+ms.date: 06/08/2017
 ---
 
 

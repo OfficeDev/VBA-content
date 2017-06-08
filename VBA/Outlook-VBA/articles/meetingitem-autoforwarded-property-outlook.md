@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.AutoForwarded
 ms.assetid: 30fe7984-771b-146f-ae16-5bee257457f1
+ms.date: 06/08/2017
 ---
 
 

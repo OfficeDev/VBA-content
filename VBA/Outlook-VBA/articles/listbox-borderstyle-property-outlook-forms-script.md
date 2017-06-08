@@ -2,6 +2,7 @@
 title: ListBox.BorderStyle Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 8b5996d0-4e03-f6e5-4418-0a28f4ac390d
+ms.date: 06/08/2017
 ---
 
 

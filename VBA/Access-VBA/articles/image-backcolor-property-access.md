@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BackColor
 ms.assetid: 6003c9d8-a6bd-4718-b2ea-c6e1ccb0a76a
+ms.date: 06/08/2017
 ---
 
 

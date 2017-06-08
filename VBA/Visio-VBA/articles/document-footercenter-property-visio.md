@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.FooterCenter
 ms.assetid: 7abdcd6c-39ed-ad05-bfef-cbd979f3a8d6
+ms.date: 06/08/2017
 ---
 
 

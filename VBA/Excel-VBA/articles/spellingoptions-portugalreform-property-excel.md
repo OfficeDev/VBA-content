@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.PortugalReform
 ms.assetid: 6ab330e3-16ea-777b-0cfa-74c1627b52af
+ms.date: 06/08/2017
 ---
 
 

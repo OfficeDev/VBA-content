@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpPublishSourceType
 ms.assetid: d11ed6c3-e43a-712a-af43-6d290ef2a8e0
+ms.date: 06/08/2017
 ---
 
 

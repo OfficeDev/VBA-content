@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.OptimizeForBrowser
 ms.assetid: c7b9f987-d13e-a95d-e40d-3b1c9b7f9fa0
+ms.date: 06/08/2017
 ---
 
 

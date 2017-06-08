@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.CustomAction
 ms.assetid: e2f6da0c-0470-8cbd-ce31-2e2a6e0e5353
+ms.date: 06/08/2017
 ---
 
 

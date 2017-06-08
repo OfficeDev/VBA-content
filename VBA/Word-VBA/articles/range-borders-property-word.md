@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Borders
 ms.assetid: a09b85ab-4075-533b-5aa4-8cb7d10e436d
+ms.date: 06/08/2017
 ---
 
 

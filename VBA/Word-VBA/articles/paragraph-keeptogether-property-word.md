@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.KeepTogether
 ms.assetid: 9f97bd22-29ef-fb5e-3b9b-43fd085f494e
+ms.date: 06/08/2017
 ---
 
 

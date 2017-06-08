@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartTitle.Creator
 ms.assetid: 89bf3fc7-ff0c-49b8-194d-0f3cd223aa3e
+ms.date: 06/08/2017
 ---
 
 

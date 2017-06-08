@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.TaskDueDate
 ms.assetid: fb019ff9-c400-eb56-2dcc-473c58406d45
+ms.date: 06/08/2017
 ---
 
 

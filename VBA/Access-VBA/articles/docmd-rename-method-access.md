@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.Rename
 ms.assetid: c9286727-a172-b7c5-c8b4-6e63012db98a
+ms.date: 06/08/2017
 ---
 
 

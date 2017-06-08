@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Parent
 ms.assetid: 518558c5-187f-2a19-892d-34f1ee9557e7
+ms.date: 06/08/2017
 ---
 
 

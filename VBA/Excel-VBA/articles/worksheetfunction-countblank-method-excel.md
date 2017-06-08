@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.CountBlank
 ms.assetid: e5446c10-ec41-ac83-5bc6-ca6ad98e3f7a
+ms.date: 06/08/2017
 ---
 
 

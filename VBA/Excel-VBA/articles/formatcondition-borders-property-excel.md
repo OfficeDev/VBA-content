@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatCondition.Borders
 ms.assetid: 2f165a74-0b95-6643-5bd2-6a778523a411
+ms.date: 06/08/2017
 ---
 
 

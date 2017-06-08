@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.IsMarkedAsTask
 ms.assetid: d71f55d2-d613-d922-dead-14d3b6916a2e
+ms.date: 06/08/2017
 ---
 
 

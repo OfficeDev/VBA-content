@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdRelativeVerticalSize
 ms.assetid: 07a507e4-66fb-b383-fe36-aa5ccadbdcba
+ms.date: 06/08/2017
 ---
 
 

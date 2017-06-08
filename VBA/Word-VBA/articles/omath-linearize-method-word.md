@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMath.Linearize
 ms.assetid: 8be69317-0c38-a3fc-19c7-238e85806b50
+ms.date: 06/08/2017
 ---
 
 

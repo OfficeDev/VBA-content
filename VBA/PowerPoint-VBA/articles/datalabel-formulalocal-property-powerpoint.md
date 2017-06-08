@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.FormulaLocal
 ms.assetid: bbc415cf-89b4-b2be-4b24-085c6e20edf1
+ms.date: 06/08/2017
 ---
 
 

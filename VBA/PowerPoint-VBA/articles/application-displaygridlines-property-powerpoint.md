@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.DisplayGridLines
 ms.assetid: b639cd4f-26d4-4f63-2fe0-18807bdeefa5
+ms.date: 06/08/2017
 ---
 
 

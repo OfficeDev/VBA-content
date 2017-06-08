@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sources.Application
 ms.assetid: ef633771-31ec-2f4d-d594-9859a13785ff
+ms.date: 06/08/2017
 ---
 
 

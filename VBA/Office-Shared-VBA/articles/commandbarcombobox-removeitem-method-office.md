@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.RemoveItem
 ms.assetid: 8a40dcca-c320-c27f-ae91-97c195d4f821
+ms.date: 06/08/2017
 ---
 
 

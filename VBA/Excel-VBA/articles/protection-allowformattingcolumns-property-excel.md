@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Protection.AllowFormattingColumns
 ms.assetid: 1cdfeea0-5c5e-1f6c-47c7-a351bb6745b7
+ms.date: 06/08/2017
 ---
 
 

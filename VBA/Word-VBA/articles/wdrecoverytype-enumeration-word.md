@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdRecoveryType
 ms.assetid: 031525aa-6df9-2b28-8507-fa3c869beba8
+ms.date: 06/08/2017
 ---
 
 

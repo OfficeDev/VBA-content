@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.SumXMY2
 ms.assetid: 189d23bd-742e-96b7-3638-ea7af795f583
+ms.date: 06/08/2017
 ---
 
 

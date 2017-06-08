@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.RowNameU
 ms.assetid: 3c73ed3d-851f-faf4-fab0-76d6602da82b
+ms.date: 06/08/2017
 ---
 
 

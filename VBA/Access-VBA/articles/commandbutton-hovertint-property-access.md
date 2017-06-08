@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.HoverTint
 ms.assetid: 0eac99ff-c693-d456-c319-ec1ce60ba05d
+ms.date: 06/08/2017
 ---
 
 

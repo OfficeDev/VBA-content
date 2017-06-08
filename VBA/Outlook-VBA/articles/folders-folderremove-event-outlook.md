@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folders.FolderRemove
 ms.assetid: 9113c4b9-9a18-76a8-3726-7b55fa6e6365
+ms.date: 06/08/2017
 ---
 
 

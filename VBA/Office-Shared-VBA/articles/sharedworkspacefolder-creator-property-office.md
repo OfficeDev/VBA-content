@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceFolder.Creator
 ms.assetid: 6804b5d2-62a2-6bc5-4de7-07fbe903eb5b
+ms.date: 06/08/2017
 ---
 
 

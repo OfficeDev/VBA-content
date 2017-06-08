@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.ItemProperties
 ms.assetid: 35f05934-1687-e633-9396-21c88b2007e6
+ms.date: 06/08/2017
 ---
 
 

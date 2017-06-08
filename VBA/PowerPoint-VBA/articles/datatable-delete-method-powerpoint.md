@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataTable.Delete
 ms.assetid: 9080007e-8851-d056-77ca-288aba14c92d
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlCalculation
 ms.assetid: 8f1337d6-cc63-1847-d3b8-8d27cf19340f
+ms.date: 06/08/2017
 ---
 
 

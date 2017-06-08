@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.NoLineBreakAfter
 ms.assetid: 287a9e9e-355e-3faf-d7fb-ee68bb0e6568
+ms.date: 06/08/2017
 ---
 
 

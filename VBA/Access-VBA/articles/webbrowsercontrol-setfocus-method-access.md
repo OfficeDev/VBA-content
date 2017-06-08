@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.SetFocus
 ms.assetid: ef78b734-df81-60db-d569-bc9128a0ced5
+ms.date: 06/08/2017
 ---
 
 

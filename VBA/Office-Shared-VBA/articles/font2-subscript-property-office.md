@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Subscript
 ms.assetid: 904325fa-e08e-999b-dd11-ef8c3bcc124c
+ms.date: 06/08/2017
 ---
 
 

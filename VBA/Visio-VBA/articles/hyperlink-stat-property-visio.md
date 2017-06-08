@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Hyperlink.Stat
 ms.assetid: fe8f4832-79cb-2b43-36dc-bc067d7a0e01
+ms.date: 06/08/2017
 ---
 
 

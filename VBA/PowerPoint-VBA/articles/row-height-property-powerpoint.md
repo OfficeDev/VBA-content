@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Row.Height
 ms.assetid: a4334eed-66c3-0042-585d-069ce23ffb3d
+ms.date: 06/08/2017
 ---
 
 

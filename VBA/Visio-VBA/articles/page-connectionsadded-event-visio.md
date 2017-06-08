@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ConnectionsAdded
 ms.assetid: 62495ee5-b2f8-bbe3-cb7f-2b02622a5c13
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.Orientation
 ms.assetid: 4b6f9f2e-7110-07a2-394a-19922009ec72
+ms.date: 06/08/2017
 ---
 
 

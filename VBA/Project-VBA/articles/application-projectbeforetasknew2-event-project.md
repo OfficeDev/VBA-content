@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeTaskNew2
 ms.assetid: 4df0eb83-e60d-943d-aecf-57a2f857ae42
+ms.date: 06/08/2017
 ---
 
 

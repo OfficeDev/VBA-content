@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SetEffect
 ms.assetid: 299eff64-54d6-3689-a031-ca6a3756afca
+ms.date: 06/08/2017
 ---
 
 

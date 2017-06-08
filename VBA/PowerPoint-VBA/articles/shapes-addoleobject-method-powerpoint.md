@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddOLEObject
 ms.assetid: 88a5aa63-0531-b9d8-43d2-5a995b91b189
+ms.date: 06/08/2017
 ---
 
 

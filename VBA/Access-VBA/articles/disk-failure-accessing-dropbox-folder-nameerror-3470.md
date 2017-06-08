@@ -2,6 +2,7 @@
 title: Disk failure accessing dropbox folder <name>. (Error 3470)
 ms.prod: ACCESS
 ms.assetid: d4dbd5f6-bd4b-6223-35a1-9295d5b724dc
+ms.date: 06/08/2017
 ---
 
 

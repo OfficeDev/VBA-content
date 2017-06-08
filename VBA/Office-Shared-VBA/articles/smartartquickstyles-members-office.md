@@ -2,6 +2,7 @@
 title: SmartArtQuickStyles Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ba7c9174-4f17-c144-f115-3b46991bc74c
+ms.date: 06/08/2017
 ---
 
 

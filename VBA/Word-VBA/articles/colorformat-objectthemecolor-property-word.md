@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ColorFormat.ObjectThemeColor
 ms.assetid: b73fdab7-ea28-c334-7c53-b1711c23bef8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.DisplayWhen
 ms.assetid: cf084727-dab8-9105-c162-7216433eb181
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Orientation
 ms.assetid: 52fde061-7ae9-61a4-c66d-7ffe691e1f97
+ms.date: 06/08/2017
 ---
 
 

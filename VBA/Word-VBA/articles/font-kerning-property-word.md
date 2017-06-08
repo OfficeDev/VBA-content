@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Kerning
 ms.assetid: 1fddf3d7-6750-dcac-2da6-f9da795a8d64
+ms.date: 06/08/2017
 ---
 
 

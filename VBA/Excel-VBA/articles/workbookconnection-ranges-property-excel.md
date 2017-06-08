@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorkbookConnection.Ranges
 ms.assetid: 639d15c2-44ae-6f6c-c876-1514e3ab7bb0
+ms.date: 06/08/2017
 ---
 
 

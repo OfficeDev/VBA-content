@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.UngroupCanceled
 ms.assetid: 2b1ed000-b755-913e-b531-cc6a5a224ac4
+ms.date: 06/08/2017
 ---
 
 

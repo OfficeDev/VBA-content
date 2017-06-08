@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.ExportAsFixedFormat
 ms.assetid: 9786c633-e9bd-3ce3-0246-7bcb3c4b4ce1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.FollowMasterBackground
 ms.assetid: 252c1893-f877-082a-8778-4ee9cc1d9c72
+ms.date: 06/08/2017
 ---
 
 

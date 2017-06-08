@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Windows.ResetPositionsSideBySide
 ms.assetid: 1fce834c-7a64-7f40-3037-7d0f78ab4936
+ms.date: 06/08/2017
 ---
 
 

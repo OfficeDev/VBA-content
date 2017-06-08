@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.GraphicItems.AddCopy
 ms.assetid: 9956c5a5-8200-4e2a-c219-0a26fc40b414
+ms.date: 06/08/2017
 ---
 
 

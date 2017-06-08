@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.InSelection
 ms.assetid: f9800273-bb5e-c0b1-3d8f-93f1a145cff0
+ms.date: 06/08/2017
 ---
 
 

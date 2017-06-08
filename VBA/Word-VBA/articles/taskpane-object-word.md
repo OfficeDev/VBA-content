@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TaskPane
 ms.assetid: 57367e56-2de5-37bd-a9ca-f1fcb6b8c465
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.LinkedFileStatus
 ms.assetid: 43ddffe3-9cc3-b102-c5e8-80f26f63849c
+ms.date: 06/08/2017
 ---
 
 

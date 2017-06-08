@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.ShortcutMenuBar
 ms.assetid: 2773dcb2-b122-6502-66f6-ecd412fb75d0
+ms.date: 06/08/2017
 ---
 
 

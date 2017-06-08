@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.BuiltInMenus
 ms.assetid: 543cc95a-8ceb-439e-0d66-d7658bf5afcd
+ms.date: 06/08/2017
 ---
 
 

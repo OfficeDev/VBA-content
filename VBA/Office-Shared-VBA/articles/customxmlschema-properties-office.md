@@ -2,6 +2,7 @@
 title: CustomXMLSchema Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 8de20d6f-fc3d-469a-835e-9ad3db798fc1
+ms.date: 06/08/2017
 ---
 
 

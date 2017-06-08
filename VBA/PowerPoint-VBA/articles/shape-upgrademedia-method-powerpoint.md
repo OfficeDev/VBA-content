@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.UpgradeMedia
 ms.assetid: 459ee25b-711f-2b74-38a0-3e209df7641b
+ms.date: 06/08/2017
 ---
 
 

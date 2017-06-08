@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.PictureAlignment
 ms.assetid: e0ebec64-9a26-859e-b9fd-5f4a47253bba
+ms.date: 06/08/2017
 ---
 
 

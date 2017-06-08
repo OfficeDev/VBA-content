@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Visible
 ms.assetid: 022201dd-2847-dba5-2a0e-86e94feab535
+ms.date: 06/08/2017
 ---
 
 

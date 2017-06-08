@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.IsCustomPropertyLinked
 ms.assetid: e75b910f-fb21-3e39-2ca3-ac0913adccf0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.DownloadState
 ms.assetid: 0b380863-817d-0f5e-0117-464ab218dbb2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.FontName
 ms.assetid: 0869818d-225e-c46b-39f3-5d500374361b
+ms.date: 06/08/2017
 ---
 
 

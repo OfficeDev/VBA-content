@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFormat.Shadow
 ms.assetid: 4ef20e4b-4f8c-0a86-7f80-90a681bc0e5f
+ms.date: 06/08/2017
 ---
 
 

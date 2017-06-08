@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathAutoCorrect.Creator
 ms.assetid: 2f2fcc01-799b-5764-4997-fe49113fb2cd
+ms.date: 06/08/2017
 ---
 
 

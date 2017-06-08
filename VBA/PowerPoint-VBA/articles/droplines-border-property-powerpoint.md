@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DropLines.Border
 ms.assetid: e83f316d-80ed-da3a-7e73-82e86a9384aa
+ms.date: 06/08/2017
 ---
 
 

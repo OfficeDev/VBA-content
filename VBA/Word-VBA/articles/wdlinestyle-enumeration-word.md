@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdLineStyle
 ms.assetid: adeec7b4-6def-8d23-07f1-ee0117736322
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFont.Color
 ms.assetid: c95350e1-11c3-f105-15d8-9d2686cc1340
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlNamespaces.InstallManifest
 ms.assetid: e462d627-d4d1-b3e9-4d6c-ae7ed91665ad
+ms.date: 06/08/2017
 ---
 
 

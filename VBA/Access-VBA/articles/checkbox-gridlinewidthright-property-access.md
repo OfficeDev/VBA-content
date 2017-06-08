@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.GridlineWidthRight
 ms.assetid: 7a51f6bf-bf21-2233-b74e-4d2925df0b1d
+ms.date: 06/08/2017
 ---
 
 

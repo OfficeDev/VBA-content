@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroup.VaryByCategories
 ms.assetid: 9ae94a48-abc7-b692-7376-f4cb780a4063
+ms.date: 06/08/2017
 ---
 
 

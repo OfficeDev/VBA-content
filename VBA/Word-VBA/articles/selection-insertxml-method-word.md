@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertXML
 ms.assetid: 7a9e52b5-9b05-f939-6fd0-33a923989f48
+ms.date: 06/08/2017
 ---
 
 

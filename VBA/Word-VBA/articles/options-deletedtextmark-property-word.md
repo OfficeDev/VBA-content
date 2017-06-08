@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DeletedTextMark
 ms.assetid: d1645340-5d8a-2a73-1f7f-d26278ed1950
+ms.date: 06/08/2017
 ---
 
 

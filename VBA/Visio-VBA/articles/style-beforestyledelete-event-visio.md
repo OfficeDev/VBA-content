@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.BeforeStyleDelete
 ms.assetid: 3552392d-2fce-0602-18f9-9b882d2ce638
+ms.date: 06/08/2017
 ---
 
 

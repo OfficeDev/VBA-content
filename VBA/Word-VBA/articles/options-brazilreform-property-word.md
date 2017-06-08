@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.BrazilReform
 ms.assetid: aaab4a4b-bf22-7447-8056-4c05c1bddae4
+ms.date: 06/08/2017
 ---
 
 

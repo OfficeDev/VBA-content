@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.ApplyPageBordersToAllSections
 ms.assetid: 03905cb9-89f6-9bfa-65a1-dd23880e9c23
+ms.date: 06/08/2017
 ---
 
 

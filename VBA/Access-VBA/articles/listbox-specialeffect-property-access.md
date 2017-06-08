@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.SpecialEffect
 ms.assetid: 7cd56728-559d-ffd8-8230-fa570c4633e9
+ms.date: 06/08/2017
 ---
 
 

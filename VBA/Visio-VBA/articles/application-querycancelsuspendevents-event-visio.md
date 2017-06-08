@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.QueryCancelSuspendEvents
 ms.assetid: 886fa424-67b3-6a4d-f0bb-99ee646b0753
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.SlideOrientation
 ms.assetid: 24278d5b-075a-3f30-4667-b9c3af102382
+ms.date: 06/08/2017
 ---
 
 

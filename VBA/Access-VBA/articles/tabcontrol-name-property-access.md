@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Name
 ms.assetid: 6dc389b0-d609-cecc-cbf9-af5b1276b1be
+ms.date: 06/08/2017
 ---
 
 

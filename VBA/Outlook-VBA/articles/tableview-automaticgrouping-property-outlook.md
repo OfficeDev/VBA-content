@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.AutomaticGrouping
 ms.assetid: 2f773e6b-c4dd-7b2c-461b-91dd0e71a3f8
+ms.date: 06/08/2017
 ---
 
 

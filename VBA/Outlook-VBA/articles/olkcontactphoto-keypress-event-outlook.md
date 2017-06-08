@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkContactPhoto.KeyPress
 ms.assetid: 43b7f7e0-79c5-e02c-5d9e-a204098509c2
+ms.date: 06/08/2017
 ---
 
 

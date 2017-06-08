@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.BackColor
 ms.assetid: bea1c59d-24ed-667c-45da-90626e8ec506
+ms.date: 06/08/2017
 ---
 
 

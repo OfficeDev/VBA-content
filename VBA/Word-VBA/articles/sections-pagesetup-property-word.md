@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sections.PageSetup
 ms.assetid: d6d86ddf-bb28-f2fc-49ff-7cfe04853fba
+ms.date: 06/08/2017
 ---
 
 

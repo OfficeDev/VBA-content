@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ToggleAssignments
 ms.assetid: 1bed946e-d45b-4fa2-7e0d-8602c9197093
+ms.date: 06/08/2017
 ---
 
 

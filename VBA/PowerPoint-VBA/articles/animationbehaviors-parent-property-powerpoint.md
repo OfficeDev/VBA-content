@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehaviors.Parent
 ms.assetid: 0202b2ae-d716-20f7-b984-240e58175523
+ms.date: 06/08/2017
 ---
 
 

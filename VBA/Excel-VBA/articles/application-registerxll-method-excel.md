@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.RegisterXLL
 ms.assetid: b0d97511-bb81-7c6a-7bbb-3f87c4364e95
+ms.date: 06/08/2017
 ---
 
 

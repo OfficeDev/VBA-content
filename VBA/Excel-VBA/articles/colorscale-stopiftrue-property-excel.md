@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorScale.StopIfTrue
 ms.assetid: 56dbc42b-da4d-775a-f321-d21193e12b06
+ms.date: 06/08/2017
 ---
 
 

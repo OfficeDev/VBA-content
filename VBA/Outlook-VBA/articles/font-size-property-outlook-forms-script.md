@@ -2,6 +2,7 @@
 title: Font.Size Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 45c7c608-3446-63e0-3b50-3e8d3727c984
+ms.date: 06/08/2017
 ---
 
 

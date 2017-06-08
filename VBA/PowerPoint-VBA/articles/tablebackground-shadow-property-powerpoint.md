@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TableBackground.Shadow
 ms.assetid: 9512d3d7-b029-d66c-2861-ba6c4d00e9e9
+ms.date: 06/08/2017
 ---
 
 

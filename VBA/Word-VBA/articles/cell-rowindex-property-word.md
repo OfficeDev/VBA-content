@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cell.RowIndex
 ms.assetid: 745fabed-ba99-2e69-0d87-a7b520ac78cf
+ms.date: 06/08/2017
 ---
 
 

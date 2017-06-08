@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialog.FilterIndex
 ms.assetid: 102d3266-caab-1101-2234-68d975e11348
+ms.date: 06/08/2017
 ---
 
 

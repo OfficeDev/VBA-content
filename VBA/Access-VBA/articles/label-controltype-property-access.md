@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.ControlType
 ms.assetid: f26535e4-9892-fcfb-3240-adf10866372a
+ms.date: 06/08/2017
 ---
 
 

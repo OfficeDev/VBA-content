@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.Options
 ms.assetid: 5619bf1a-eaf9-aa0e-01c3-66111c20dd0c
+ms.date: 06/08/2017
 ---
 
 

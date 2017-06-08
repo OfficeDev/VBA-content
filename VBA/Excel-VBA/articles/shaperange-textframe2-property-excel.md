@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.TextFrame2
 ms.assetid: ffda1364-f67c-ea64-6755-e92ba53ce2b0
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdChevronConvertRule
 ms.assetid: f0379d18-029f-7d3e-e7d0-dd6a02fac314
+ms.date: 06/08/2017
 ---
 
 

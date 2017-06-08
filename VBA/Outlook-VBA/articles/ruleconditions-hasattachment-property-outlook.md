@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleConditions.HasAttachment
 ms.assetid: d480c5ff-2313-f428-88b6-0cf52ffb4003
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.ShowConversationByDate
 ms.assetid: b568d714-93ce-e4a4-c84c-b0870dd565dd
+ms.date: 06/08/2017
 ---
 
 

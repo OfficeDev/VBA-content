@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentAdd
 ms.assetid: f7cba638-fd4c-f7b0-44fc-e4985aa9c68d
+ms.date: 06/08/2017
 ---
 
 

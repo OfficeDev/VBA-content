@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Rotation
 ms.assetid: 5f533c86-369c-6dbd-f70c-c7de0cc6d868
+ms.date: 06/08/2017
 ---
 
 

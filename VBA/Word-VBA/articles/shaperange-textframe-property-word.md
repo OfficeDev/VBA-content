@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.TextFrame
 ms.assetid: 547f0af4-2129-af5f-1ad3-ea1fefe5c6cd
+ms.date: 06/08/2017
 ---
 
 

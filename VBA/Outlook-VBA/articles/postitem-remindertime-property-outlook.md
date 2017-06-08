@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.ReminderTime
 ms.assetid: c32b326d-79fb-3052-e335-b4fac70d575c
+ms.date: 06/08/2017
 ---
 
 

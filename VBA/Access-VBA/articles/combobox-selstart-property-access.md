@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.SelStart
 ms.assetid: 056196b5-828a-f276-da26-983c8b47cd05
+ms.date: 06/08/2017
 ---
 
 

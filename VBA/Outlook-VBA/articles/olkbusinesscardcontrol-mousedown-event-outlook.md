@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkBusinessCardControl.MouseDown
 ms.assetid: 24f259e0-911e-0a45-504b-acb759c5168f
+ms.date: 06/08/2017
 ---
 
 

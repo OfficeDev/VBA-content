@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.GetDefaultFolder
 ms.assetid: 761b8b53-dd4d-43e4-c8f0-69cefdf0c77a
+ms.date: 06/08/2017
 ---
 
 

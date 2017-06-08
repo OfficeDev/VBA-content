@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.DefaultValue
 ms.assetid: 3bbeaae3-3f94-0841-306d-a73e56cac461
+ms.date: 06/08/2017
 ---
 
 

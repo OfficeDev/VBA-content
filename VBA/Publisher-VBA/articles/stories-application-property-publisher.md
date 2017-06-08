@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Stories.Application
 ms.assetid: 7dbe0e54-eb16-5d73-0251-8447038dd11b
+ms.date: 06/08/2017
 ---
 
 

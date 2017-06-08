@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Count
 ms.assetid: 9c514376-18ef-1eac-661a-c1fc46514b32
+ms.date: 06/08/2017
 ---
 
 

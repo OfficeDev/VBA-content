@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListGallery.Application
 ms.assetid: 09766d0b-19d3-f75a-2847-6da44fc2aa7b
+ms.date: 06/08/2017
 ---
 
 

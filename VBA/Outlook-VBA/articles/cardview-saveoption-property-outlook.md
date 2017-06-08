@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.SaveOption
 ms.assetid: 7b649142-2a4d-d9b6-e822-828d61cd01aa
+ms.date: 06/08/2017
 ---
 
 

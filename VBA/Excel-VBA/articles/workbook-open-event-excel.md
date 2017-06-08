@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Open
 ms.assetid: 313adc5e-0319-4ca4-cf5d-791b7184dacf
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AutoFormatRule
 ms.assetid: 6d295c41-17f9-8e67-4595-4330fd3cec99
+ms.date: 06/08/2017
 ---
 
 

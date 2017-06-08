@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.IsItemSelectableInView
 ms.assetid: a2ec8bbb-0f24-6db6-05a8-1b8375b71da7
+ms.date: 06/08/2017
 ---
 
 

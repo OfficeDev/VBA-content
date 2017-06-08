@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.EventList
 ms.assetid: 2baa8080-d099-c2c0-86f6-040c8edd82c0
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DisplayRecentFiles
 ms.assetid: 99c60109-676f-41ee-3ed0-76d0b0c4ee99
+ms.date: 06/08/2017
 ---
 
 

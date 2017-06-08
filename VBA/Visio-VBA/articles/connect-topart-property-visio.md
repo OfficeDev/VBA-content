@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Connect.ToPart
 ms.assetid: 37044045-f911-872e-4f72-68fa265fb6f8
+ms.date: 06/08/2017
 ---
 
 

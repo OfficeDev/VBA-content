@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.Session
 ms.assetid: f2c0a916-b654-98de-c134-d9736d482cea
+ms.date: 06/08/2017
 ---
 
 

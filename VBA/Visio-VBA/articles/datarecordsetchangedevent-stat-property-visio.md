@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordsetChangedEvent.Stat
 ms.assetid: e67e1a54-26da-1052-fe0b-82f3213a3136
+ms.date: 06/08/2017
 ---
 
 

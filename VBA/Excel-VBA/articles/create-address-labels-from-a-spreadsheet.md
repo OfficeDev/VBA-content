@@ -2,6 +2,7 @@
 title: Create Address Labels from a Spreadsheet
 ms.prod: EXCEL
 ms.assetid: 6c08634c-8137-9c27-f4de-390a2b8ffb4c
+ms.date: 06/08/2017
 ---
 
 

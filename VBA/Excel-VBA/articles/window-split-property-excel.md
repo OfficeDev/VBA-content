@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.Split
 ms.assetid: 7fcc304f-8a42-f997-2c32-5a9793683bd5
+ms.date: 06/08/2017
 ---
 
 

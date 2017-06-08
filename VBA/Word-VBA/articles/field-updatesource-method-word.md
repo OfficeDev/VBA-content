@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Field.UpdateSource
 ms.assetid: 8a7a3362-efc5-97e8-c951-e3143e28488d
+ms.date: 06/08/2017
 ---
 
 

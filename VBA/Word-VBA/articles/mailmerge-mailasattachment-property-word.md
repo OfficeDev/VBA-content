@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMerge.MailAsAttachment
 ms.assetid: ffa6505c-e14f-9315-0bc6-ff84ffb39931
+ms.date: 06/08/2017
 ---
 
 

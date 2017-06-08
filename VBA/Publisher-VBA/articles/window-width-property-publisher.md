@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Window.Width
 ms.assetid: 762df30a-7fdd-8f95-f64b-eae57e7c02fe
+ms.date: 06/08/2017
 ---
 
 

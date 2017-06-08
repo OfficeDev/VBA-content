@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbCollapseDirection
 ms.assetid: 93d87f7c-ee31-c433-ff87-2618029c7d0d
+ms.date: 06/08/2017
 ---
 
 

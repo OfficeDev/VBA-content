@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.InputTitle
 ms.assetid: 77e6bb8b-1fc2-084c-69b7-31b07f8145d3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.ActiveEncryptionSession
 ms.assetid: 73a174d5-a088-97d0-5f71-931456493224
+ms.date: 06/08/2017
 ---
 
 

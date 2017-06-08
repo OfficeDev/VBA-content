@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertFormula
 ms.assetid: a193c4ee-a667-04af-e22c-3a5b5bbc5c3b
+ms.date: 06/08/2017
 ---
 
 

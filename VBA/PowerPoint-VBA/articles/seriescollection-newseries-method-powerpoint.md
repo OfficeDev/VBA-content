@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesCollection.NewSeries
 ms.assetid: 37a94558-02d9-7f0b-e881-0d9c5a9d4787
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Page.Comments Property (Visio)
 ms.prod: VISIO
 ms.assetid: 9618c86c-96c0-be95-ee20-5d1b99f4d5e8
+ms.date: 06/08/2017
 ---
 
 

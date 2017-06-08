@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem
 ms.assetid: 16ebe336-72e0-42f6-99d3-edecc3ea284d
+ms.date: 06/08/2017
 ---
 
 

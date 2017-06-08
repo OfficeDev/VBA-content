@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathNary.E
 ms.assetid: 8a76796e-a095-8ad6-b5ea-8e3a320f9484
+ms.date: 06/08/2017
 ---
 
 

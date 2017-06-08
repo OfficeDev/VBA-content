@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ItemProperties.Class
 ms.assetid: 356d4e84-9e5c-10fc-bced-f7f176378bd9
+ms.date: 06/08/2017
 ---
 
 

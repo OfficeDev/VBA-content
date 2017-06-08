@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.AttachmentAdd
 ms.assetid: e57a3f9b-f5a5-e345-aca7-1ab0a1c141e3
+ms.date: 06/08/2017
 ---
 
 

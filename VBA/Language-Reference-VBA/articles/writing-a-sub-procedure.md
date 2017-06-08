@@ -5,6 +5,7 @@ f1_keywords:
 - vbcn6.chm1076691
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 5c9b6ff6-d8a4-7a4f-577f-da9f3257bb44
+ms.date: 06/08/2017
 ---
 
 

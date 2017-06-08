@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalloutFormat.DropType
 ms.assetid: ab947fa4-4af9-e491-f62d-e0ca036e1892
+ms.date: 06/08/2017
 ---
 
 

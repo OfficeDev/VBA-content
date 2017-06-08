@@ -2,6 +2,7 @@
 title: Visual Basic definitions
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 51fc0fbb-fbf2-4654-b9c1-48e86823860f
+ms.date: 06/08/2017
 ---
 
 

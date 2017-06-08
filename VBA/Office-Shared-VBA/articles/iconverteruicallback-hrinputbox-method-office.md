@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IConverterUICallback.HrInputBox
 ms.assetid: 5767b5cc-98f4-3855-796d-dfc4ccc77f9a
+ms.date: 06/08/2017
 ---
 
 

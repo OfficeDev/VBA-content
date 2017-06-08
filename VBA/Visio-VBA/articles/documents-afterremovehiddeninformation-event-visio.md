@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.AfterRemoveHiddenInformation
 ms.assetid: 6d554577-75da-60fc-f839-9468c1a0255d
+ms.date: 06/08/2017
 ---
 
 

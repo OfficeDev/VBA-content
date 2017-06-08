@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.DisplayBlanksAs
 ms.assetid: 8f00f6dc-3885-1f97-057d-3c426c19a1a1
+ms.date: 06/08/2017
 ---
 
 

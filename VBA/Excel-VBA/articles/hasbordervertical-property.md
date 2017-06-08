@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HasBorderVertical
 ms.assetid: ee6f449d-369c-1953-8540-b8baa4b281ab
+ms.date: 06/08/2017
 ---
 
 

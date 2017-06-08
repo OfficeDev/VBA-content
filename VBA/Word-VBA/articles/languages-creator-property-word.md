@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Languages.Creator
 ms.assetid: ef63da8d-146f-9e62-3179-dc070580a68a
+ms.date: 06/08/2017
 ---
 
 

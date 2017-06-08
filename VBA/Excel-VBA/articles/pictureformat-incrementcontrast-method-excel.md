@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PictureFormat.IncrementContrast
 ms.assetid: 6bb72eed-c291-fac2-f4ca-4ca847bd8458
+ms.date: 06/08/2017
 ---
 
 

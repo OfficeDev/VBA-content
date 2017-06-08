@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.Shadow
 ms.assetid: 37d23e3a-26a7-ba20-1e23-13861090ae79
+ms.date: 06/08/2017
 ---
 
 

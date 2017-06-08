@@ -2,6 +2,7 @@
 title: Pages.Count Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 67070350-7267-979c-8205-c64bc3e147b4
+ms.date: 06/08/2017
 ---
 
 

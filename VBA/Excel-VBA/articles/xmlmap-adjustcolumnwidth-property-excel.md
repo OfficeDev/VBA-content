@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.AdjustColumnWidth
 ms.assetid: d302f23f-3ef4-ce22-916b-4772ea686cbc
+ms.date: 06/08/2017
 ---
 
 

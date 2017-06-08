@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.DashStyle
 ms.assetid: b1a6f135-ca68-5399-9156-3044e99bf3ab
+ms.date: 06/08/2017
 ---
 
 

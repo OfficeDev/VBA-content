@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.StatusManagerName
 ms.assetid: 4a48ca32-f34b-2225-a687-254c8e3531b1
+ms.date: 06/08/2017
 ---
 
 

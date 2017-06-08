@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.Application
 ms.assetid: ba715bb9-b837-ae18-80a6-863d31a6e8ce
+ms.date: 06/08/2017
 ---
 
 

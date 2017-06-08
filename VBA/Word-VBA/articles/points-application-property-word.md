@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Points.Application
 ms.assetid: 247ba515-3442-e584-b0ff-a30ddd72aa48
+ms.date: 06/08/2017
 ---
 
 

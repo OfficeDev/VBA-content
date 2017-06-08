@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SaveAs2
 ms.assetid: aa491007-0e31-26f5-3a5e-477381529b6e
+ms.date: 06/08/2017
 ---
 
 

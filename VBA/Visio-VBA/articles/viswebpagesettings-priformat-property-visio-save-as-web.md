@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.PriFormat
 ms.assetid: 84c7c085-0f12-f25d-bf17-646cc8b7cd97
+ms.date: 06/08/2017
 ---
 
 

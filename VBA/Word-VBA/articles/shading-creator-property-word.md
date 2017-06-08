@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shading.Creator
 ms.assetid: e9986a66-a8e9-04ff-d1e1-dfb4872483d4
+ms.date: 06/08/2017
 ---
 
 

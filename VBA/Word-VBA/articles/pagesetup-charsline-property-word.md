@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.CharsLine
 ms.assetid: 7539359a-aecd-0676-7e93-3e00cc2bf461
+ms.date: 06/08/2017
 ---
 
 

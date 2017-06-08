@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.InformationDialog
 ms.assetid: 644b39d6-be73-5a07-4376-02df25d31a02
+ms.date: 06/08/2017
 ---
 
 

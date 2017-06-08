@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalculatedItems.Add
 ms.assetid: 2a7dff2b-c874-1579-1e95-78841a91e6cd
+ms.date: 06/08/2017
 ---
 
 

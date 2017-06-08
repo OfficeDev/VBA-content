@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.EditRecord
 ms.assetid: 1fa31b25-b00a-9478-b341-094c2cdb2d9e
+ms.date: 06/08/2017
 ---
 
 

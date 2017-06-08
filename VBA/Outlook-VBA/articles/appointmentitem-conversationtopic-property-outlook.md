@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ConversationTopic
 ms.assetid: dc46a62a-2259-80a8-3abf-ce214d9c911b
+ms.date: 06/08/2017
 ---
 
 

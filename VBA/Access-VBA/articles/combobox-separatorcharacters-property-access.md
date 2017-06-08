@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.SeparatorCharacters
 ms.assetid: 7a91ecdf-35e0-d32c-7355-7656d9ed7ad1
+ms.date: 06/08/2017
 ---
 
 

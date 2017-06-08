@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.LayoutSubtotalLocation
 ms.assetid: b4388c3a-d9e1-47b8-9a4c-f94b29712ff1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLNode.HasChildNodes
 ms.assetid: 9afc3116-372c-7efa-8cdd-04f87d903cc2
+ms.date: 06/08/2017
 ---
 
 

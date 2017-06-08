@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.MediaControlsTop
 ms.assetid: e530dad8-ab23-e37d-fde3-5edb79c51365
+ms.date: 06/08/2017
 ---
 
 

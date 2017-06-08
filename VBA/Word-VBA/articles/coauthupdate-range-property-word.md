@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthUpdate.Range
 ms.assetid: 786bc4aa-bae2-9ef5-59b2-02eeb6445846
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.PickUp
 ms.assetid: 77da5d6d-35f8-71c3-70ee-481f59c5674b
+ms.date: 06/08/2017
 ---
 
 

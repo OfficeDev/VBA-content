@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtColor.Creator
 ms.assetid: 8b404473-48a8-0005-351c-3a374804e4f5
+ms.date: 06/08/2017
 ---
 
 

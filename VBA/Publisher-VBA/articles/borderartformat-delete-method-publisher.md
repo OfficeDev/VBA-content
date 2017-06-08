@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArtFormat.Delete
 ms.assetid: 3ec0576f-8304-2647-7309-b014b586c1b6
+ms.date: 06/08/2017
 ---
 
 

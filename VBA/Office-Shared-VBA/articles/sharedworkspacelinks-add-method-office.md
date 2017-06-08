@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceLinks.Add
 ms.assetid: 76c1fe99-14de-7276-0c5c-fd54f6d0a6ce
+ms.date: 06/08/2017
 ---
 
 

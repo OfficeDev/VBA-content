@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Windows.Parent
 ms.assetid: 8ef76e24-d2eb-2eb5-1897-4c30661b4deb
+ms.date: 06/08/2017
 ---
 
 

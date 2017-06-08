@@ -2,6 +2,7 @@
 title: Format Property - Date/Time Data Type
 ms.prod: ACCESS
 ms.assetid: d043c816-aefe-4881-90bd-59dcbb3b28da
+ms.date: 06/08/2017
 ---
 
 

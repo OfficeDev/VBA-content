@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FitToPages
 ms.assetid: 8935d286-61b7-432e-ed79-b85708dd1a01
+ms.date: 06/08/2017
 ---
 
 

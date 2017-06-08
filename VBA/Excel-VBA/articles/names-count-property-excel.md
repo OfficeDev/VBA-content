@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Names.Count
 ms.assetid: f33046db-1912-5047-a205-e87d01427dfa
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.DrawingAids
 ms.assetid: af1a1565-b304-43be-1a56-44d1c9ee6000
+ms.date: 06/08/2017
 ---
 
 

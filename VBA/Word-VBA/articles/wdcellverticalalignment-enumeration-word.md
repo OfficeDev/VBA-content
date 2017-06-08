@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCellVerticalAlignment
 ms.assetid: 328e4e14-b392-26e6-06f8-619629cf1665
+ms.date: 06/08/2017
 ---
 
 

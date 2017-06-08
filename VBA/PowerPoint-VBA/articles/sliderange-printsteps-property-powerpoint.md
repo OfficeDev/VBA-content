@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.PrintSteps
 ms.assetid: 043a1e60-0810-3f22-7c40-a8a97eb59e4e
+ms.date: 06/08/2017
 ---
 
 

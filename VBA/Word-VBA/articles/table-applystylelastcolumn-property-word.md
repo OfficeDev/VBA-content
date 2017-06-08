@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.ApplyStyleLastColumn
 ms.assetid: db47720e-0351-c48d-6ebe-a149f2b8c84f
+ms.date: 06/08/2017
 ---
 
 

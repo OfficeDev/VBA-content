@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathAutoCorrectEntry.Parent
 ms.assetid: ba45aa52-13c3-8a28-25fb-69c0af8dca83
+ms.date: 06/08/2017
 ---
 
 

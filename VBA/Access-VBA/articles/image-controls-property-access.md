@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Controls
 ms.assetid: b6313b26-4254-fafb-923b-ef9d2b9fc0f5
+ms.date: 06/08/2017
 ---
 
 

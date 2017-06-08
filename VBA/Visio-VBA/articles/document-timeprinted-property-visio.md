@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.TimePrinted
 ms.assetid: f5dd01f0-42dc-ab0d-4cd2-c85da6181ea0
+ms.date: 06/08/2017
 ---
 
 

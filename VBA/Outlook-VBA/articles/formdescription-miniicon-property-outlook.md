@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormDescription.MiniIcon
 ms.assetid: ed409d6a-c00d-35b5-97ca-2afa89dfcad1
+ms.date: 06/08/2017
 ---
 
 

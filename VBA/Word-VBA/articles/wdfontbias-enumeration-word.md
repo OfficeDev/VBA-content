@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFontBias
 ms.assetid: e79c572e-03bc-8a74-a74c-a8426c1dc456
+ms.date: 06/08/2017
 ---
 
 

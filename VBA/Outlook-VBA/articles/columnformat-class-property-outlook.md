@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ColumnFormat.Class
 ms.assetid: 655dd5a1-8ea6-469d-e53f-f56b8760fff1
+ms.date: 06/08/2017
 ---
 
 

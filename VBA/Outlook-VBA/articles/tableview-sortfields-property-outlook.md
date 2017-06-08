@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.SortFields
 ms.assetid: 0b643d55-c4cb-dcba-b90b-66f6b936b5a8
+ms.date: 06/08/2017
 ---
 
 

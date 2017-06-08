@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.GridlineColor
 ms.assetid: 746790f7-cac5-5631-ae25-04b95b0c405a
+ms.date: 06/08/2017
 ---
 
 

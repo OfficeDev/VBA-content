@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListLevel.NumberStyle
 ms.assetid: 1118eb25-3b57-3a9b-6323-ba8233636f3b
+ms.date: 06/08/2017
 ---
 
 

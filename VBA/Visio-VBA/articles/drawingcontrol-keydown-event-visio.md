@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.KeyDown
 ms.assetid: bb0e7b16-d96d-b5cf-cf9d-404c0bd57104
+ms.date: 06/08/2017
 ---
 
 

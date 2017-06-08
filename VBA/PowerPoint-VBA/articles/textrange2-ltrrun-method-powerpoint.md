@@ -1,6 +1,7 @@
 ---
 title: TextRange2.LtrRun Method (PowerPoint)
 ms.assetid: ea730d42-49f7-4312-a378-1ea3e2a0f082
+ms.date: 06/08/2017
 ---
 
 

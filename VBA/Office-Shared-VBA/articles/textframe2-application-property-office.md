@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextFrame2.Application
 ms.assetid: 4c99cb8f-b15b-2ecc-caeb-9c847b70d223
+ms.date: 06/08/2017
 ---
 
 

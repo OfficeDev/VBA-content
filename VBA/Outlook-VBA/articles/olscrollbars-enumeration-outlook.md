@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlScrollBars
 ms.assetid: 22832728-5d27-ff6b-9ef2-ed6a8e1c9d5c
+ms.date: 06/08/2017
 ---
 
 

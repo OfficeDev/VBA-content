@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Index
 ms.assetid: 2924d346-735b-cdb3-6237-f840f017cf3e
+ms.date: 06/08/2017
 ---
 
 

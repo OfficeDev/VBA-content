@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.BeforeAutoSave
 ms.assetid: 03c76bb7-b267-7c5f-37aa-dd28576b6a65
+ms.date: 06/08/2017
 ---
 
 

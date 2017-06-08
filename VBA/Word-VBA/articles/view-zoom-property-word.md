@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.Zoom
 ms.assetid: 587c2f80-461a-76f8-35b8-a14f73fb80ef
+ms.date: 06/08/2017
 ---
 
 

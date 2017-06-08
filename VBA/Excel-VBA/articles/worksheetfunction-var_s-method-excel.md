@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Var_S
 ms.assetid: ec764729-a498-5c99-035a-bc35759b7bfb
+ms.date: 06/08/2017
 ---
 
 

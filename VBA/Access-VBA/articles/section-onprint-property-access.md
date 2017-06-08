@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.OnPrint
 ms.assetid: f8df36f2-697b-7a1d-6343-76d2a2a7b0cf
+ms.date: 06/08/2017
 ---
 
 

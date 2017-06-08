@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatCondition.TextOperator
 ms.assetid: 4bc198c9-7895-2f3d-67c1-0d71f0119e9a
+ms.date: 06/08/2017
 ---
 
 

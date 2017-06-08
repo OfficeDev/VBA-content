@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Sync
 ms.assetid: 000c9739-13ab-d6eb-c1c3-2ce721911137
+ms.date: 06/08/2017
 ---
 
 

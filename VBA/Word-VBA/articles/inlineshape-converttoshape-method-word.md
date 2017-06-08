@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.ConvertToShape
 ms.assetid: 374aea2c-8ff5-d017-4b46-957fafd1bc0a
+ms.date: 06/08/2017
 ---
 
 

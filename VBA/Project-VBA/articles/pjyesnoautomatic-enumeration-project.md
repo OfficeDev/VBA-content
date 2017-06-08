@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjYesNoAutomatic
 ms.assetid: 4ffbee27-56d7-abe1-38fb-288e1716913e
+ms.date: 06/08/2017
 ---
 
 

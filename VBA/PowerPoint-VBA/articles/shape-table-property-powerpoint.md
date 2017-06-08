@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Table
 ms.assetid: cc57c50b-8c88-d863-31d2-a758eff5359f
+ms.date: 06/08/2017
 ---
 
 

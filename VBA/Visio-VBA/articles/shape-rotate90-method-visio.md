@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Rotate90
 ms.assetid: 1c7d526e-f053-d9f5-232a-61cf12de2c6e
+ms.date: 06/08/2017
 ---
 
 

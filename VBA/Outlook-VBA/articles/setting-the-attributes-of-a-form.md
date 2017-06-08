@@ -2,6 +2,7 @@
 title: Setting the Attributes of a Form
 ms.prod: OUTLOOK
 ms.assetid: 7c170a7b-fe1e-32be-3841-535e8f29dae4
+ms.date: 06/08/2017
 ---
 
 

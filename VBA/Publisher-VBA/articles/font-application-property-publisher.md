@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Application
 ms.assetid: e4721e0f-c591-3ac6-319d-2e753f1b375a
+ms.date: 06/08/2017
 ---
 
 

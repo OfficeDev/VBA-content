@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.BulletFormat.UseTextColor
 ms.assetid: 8242712a-051e-18fa-1b43-93a0ce1cd17b
+ms.date: 06/08/2017
 ---
 
 

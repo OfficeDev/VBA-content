@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.RowStripe
 ms.assetid: 4ffb0d84-d2a6-bf22-39e0-bd24d9a41ef0
+ms.date: 06/08/2017
 ---
 
 

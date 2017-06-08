@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.KeyPress
 ms.assetid: afdc1037-c0fd-d5f2-3ccd-bc67c98aa482
+ms.date: 06/08/2017
 ---
 
 

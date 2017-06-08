@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathPhantom.Smash
 ms.assetid: 7d1453f4-1aaf-9ca0-946b-7e38f564b19f
+ms.date: 06/08/2017
 ---
 
 

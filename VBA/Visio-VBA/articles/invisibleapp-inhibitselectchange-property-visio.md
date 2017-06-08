@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.InhibitSelectChange
 ms.assetid: 1e88d64d-281e-654c-7801-dfb2ac132ad8
+ms.date: 06/08/2017
 ---
 
 

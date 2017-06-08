@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.RemoveItem
 ms.assetid: 3fb8d3b4-3568-0b33-0672-8cb4cea31df2
+ms.date: 06/08/2017
 ---
 
 

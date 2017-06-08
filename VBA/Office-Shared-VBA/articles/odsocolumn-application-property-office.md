@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ODSOColumn.Application
 ms.assetid: 226f3e03-1cce-ce5c-6333-3bd0a49eb5fc
+ms.date: 06/08/2017
 ---
 
 

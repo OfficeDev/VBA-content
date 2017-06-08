@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.GutterCenterlines
 ms.assetid: 7a5b1aef-85c7-548f-15e9-2c3b7327b439
+ms.date: 06/08/2017
 ---
 
 

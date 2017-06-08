@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Window.Refresh
 ms.assetid: 4de21b9c-8dd9-e07d-3e87-c60c652c3804
+ms.date: 06/08/2017
 ---
 
 

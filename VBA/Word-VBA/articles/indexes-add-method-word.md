@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Indexes.Add
 ms.assetid: 324fe848-5c93-d456-0e45-42be116b1b90
+ms.date: 06/08/2017
 ---
 
 

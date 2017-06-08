@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.ConversationID
 ms.assetid: b642a06e-94f0-b615-1806-fdd5ae881d48
+ms.date: 06/08/2017
 ---
 
 

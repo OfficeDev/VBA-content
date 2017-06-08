@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.CreateContactCard
 ms.assetid: d050e0e3-3c0d-bd01-f008-2628056625d1
+ms.date: 06/08/2017
 ---
 
 

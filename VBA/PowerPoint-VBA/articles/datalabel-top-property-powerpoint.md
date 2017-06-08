@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.Top
 ms.assetid: d31ff0d3-2fbe-1d30-dd0f-85b151cae9e1
+ms.date: 06/08/2017
 ---
 
 

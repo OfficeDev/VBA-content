@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrect.TwoInitialCapsExceptions
 ms.assetid: c301d210-c583-a092-4840-ac8efed80c86
+ms.date: 06/08/2017
 ---
 
 

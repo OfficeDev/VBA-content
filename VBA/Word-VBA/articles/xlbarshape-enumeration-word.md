@@ -2,6 +2,7 @@
 title: XlBarShape Enumeration (Word)
 ms.prod: WORD
 ms.assetid: a5f77af8-d244-9118-97d5-bb12abc88bef
+ms.date: 06/08/2017
 ---
 
 

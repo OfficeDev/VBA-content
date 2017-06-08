@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WebCopyHyperlink
 ms.assetid: 9e08c278-71dd-7cf2-d515-1af6ebf184d4
+ms.date: 06/08/2017
 ---
 
 

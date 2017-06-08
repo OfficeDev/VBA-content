@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroup.ShowNegativeBubbles
 ms.assetid: 1f1288d5-71c5-f5da-583c-584db90c6c33
+ms.date: 06/08/2017
 ---
 
 

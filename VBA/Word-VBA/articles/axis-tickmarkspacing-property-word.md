@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.TickMarkSpacing
 ms.assetid: 926ae9ad-0c5a-c61a-55fb-1503a2edf593
+ms.date: 06/08/2017
 ---
 
 

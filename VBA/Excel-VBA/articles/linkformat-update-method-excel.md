@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LinkFormat.Update
 ms.assetid: 9d4c224e-99a8-a27c-7be6-24ec697be323
+ms.date: 06/08/2017
 ---
 
 

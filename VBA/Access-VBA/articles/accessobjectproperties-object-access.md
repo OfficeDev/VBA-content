@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AccessObjectProperties
 ms.assetid: 2df86891-6038-d147-2a32-f1c77b841067
+ms.date: 06/08/2017
 ---
 
 

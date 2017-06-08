@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.PlotVisibleOnly
 ms.assetid: 59b7f58e-a1b2-56cd-89e8-529228d2979c
+ms.date: 06/08/2017
 ---
 
 

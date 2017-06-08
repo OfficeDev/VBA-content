@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SeriesLines.Border
 ms.assetid: 51c10ec3-5736-ade7-480e-c984932deb3c
+ms.date: 06/08/2017
 ---
 
 

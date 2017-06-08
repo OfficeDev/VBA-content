@@ -2,6 +2,7 @@
 title: ScopeFolder Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: fff43b61-3635-48cf-1960-38ac5ec666d8
+ms.date: 06/08/2017
 ---
 
 

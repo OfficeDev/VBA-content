@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.Characters
 ms.assetid: 20f42207-4d50-1d9f-7dde-c01d7aef0abc
+ms.date: 06/08/2017
 ---
 
 

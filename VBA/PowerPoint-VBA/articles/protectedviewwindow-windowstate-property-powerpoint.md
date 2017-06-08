@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ProtectedViewWindow.WindowState
 ms.assetid: b9956aca-4aae-d94a-5689-b0c66f17414f
+ms.date: 06/08/2017
 ---
 
 

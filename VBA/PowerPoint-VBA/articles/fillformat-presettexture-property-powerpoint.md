@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.PresetTexture
 ms.assetid: 684d39f9-53d8-4f69-a6ae-c447253ae3a7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.Style
 ms.assetid: 3826eb43-b90e-e24b-31d5-8d9eddd3ed4e
+ms.date: 06/08/2017
 ---
 
 

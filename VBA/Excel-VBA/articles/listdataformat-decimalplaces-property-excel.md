@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListDataFormat.DecimalPlaces
 ms.assetid: 49c11876-2f79-5ca1-bdba-27e659dadc98
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationPoint.Parent
 ms.assetid: e789fe23-b350-1a9c-0093-e6a9230f22a7
+ms.date: 06/08/2017
 ---
 
 

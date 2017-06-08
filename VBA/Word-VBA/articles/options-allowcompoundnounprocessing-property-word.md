@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AllowCompoundNounProcessing
 ms.assetid: 78da1977-2d44-7686-5e31-2e7c340f726f
+ms.date: 06/08/2017
 ---
 
 

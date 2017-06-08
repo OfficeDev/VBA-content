@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Layers.PersistsEvents
 ms.assetid: 08c7f881-c7b2-5e37-28f5-98cc469bfffb
+ms.date: 06/08/2017
 ---
 
 

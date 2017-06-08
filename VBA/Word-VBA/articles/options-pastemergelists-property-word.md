@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PasteMergeLists
 ms.assetid: 82989419-32c6-6a70-685f-eae11de50cae
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AddReplacement
 ms.assetid: 70a6a3f7-e42f-e8b4-d7f8-1ad8f8c66ba7
+ms.date: 06/08/2017
 ---
 
 

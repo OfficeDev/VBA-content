@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Path.Closed
 ms.assetid: f2573801-db2d-4f8c-7d26-b98a163cb208
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.ControlType
 ms.assetid: c0259524-8505-71a1-e482-9f142379f9e8
+ms.date: 06/08/2017
 ---
 
 

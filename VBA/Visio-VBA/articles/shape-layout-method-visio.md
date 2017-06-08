@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Layout
 ms.assetid: f70dfdbb-6501-b9b7-3444-7fa35e98637e
+ms.date: 06/08/2017
 ---
 
 

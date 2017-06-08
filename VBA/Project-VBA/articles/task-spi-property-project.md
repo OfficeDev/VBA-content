@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.SPI
 ms.assetid: aeb99805-b293-e94c-1c68-b73cafef658b
+ms.date: 06/08/2017
 ---
 
 

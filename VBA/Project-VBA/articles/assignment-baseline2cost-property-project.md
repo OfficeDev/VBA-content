@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Baseline2Cost
 ms.assetid: 827ab8e6-0e4f-84a7-e77a-2966747c8d59
+ms.date: 06/08/2017
 ---
 
 

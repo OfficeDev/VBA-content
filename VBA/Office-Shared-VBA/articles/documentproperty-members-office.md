@@ -2,6 +2,7 @@
 title: DocumentProperty Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 568da0ff-fa90-150a-06ec-611de886334e
+ms.date: 06/08/2017
 ---
 
 

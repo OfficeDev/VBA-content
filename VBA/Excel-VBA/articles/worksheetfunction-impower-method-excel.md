@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ImPower
 ms.assetid: 00dfdca2-8609-6719-f666-c8a78998d07e
+ms.date: 06/08/2017
 ---
 
 

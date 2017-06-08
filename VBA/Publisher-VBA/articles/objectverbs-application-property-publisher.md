@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ObjectVerbs.Application
 ms.assetid: 84e70676-84ba-c46c-d4e7-21d409c843b1
+ms.date: 06/08/2017
 ---
 
 

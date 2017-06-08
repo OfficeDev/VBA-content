@@ -2,6 +2,7 @@
 title: ReportTable.ColumnsCount Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 455bb520-2226-1fe2-76dc-1ab12e96cb33
+ms.date: 06/08/2017
 ---
 
 

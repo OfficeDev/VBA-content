@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBox.Diff
 ms.assetid: cece4ced-cc61-4f51-93d2-e537e7353ec4
+ms.date: 06/08/2017
 ---
 
 

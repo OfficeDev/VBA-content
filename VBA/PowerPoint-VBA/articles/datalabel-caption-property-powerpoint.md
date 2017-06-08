@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.Caption
 ms.assetid: b7c52453-62a3-0614-fc96-378ff214541f
+ms.date: 06/08/2017
 ---
 
 

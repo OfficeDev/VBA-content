@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.AppendNotes
 ms.assetid: ab0177cb-c7cd-444f-0d19-9b798eba8b4a
+ms.date: 06/08/2017
 ---
 
 

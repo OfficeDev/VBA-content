@@ -2,6 +2,7 @@
 title: Chart.Shapes Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: b3b19bcb-9070-12ca-32b4-03711d62687a
+ms.date: 06/08/2017
 ---
 
 

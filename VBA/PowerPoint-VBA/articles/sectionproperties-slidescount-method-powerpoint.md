@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SectionProperties.SlidesCount
 ms.assetid: 7c24d63b-b8e0-c0f0-2615-1ba13d69d6d8
+ms.date: 06/08/2017
 ---
 
 

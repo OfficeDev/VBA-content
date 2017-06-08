@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Outline
 ms.assetid: f2ec3056-5b5d-be3c-af8d-1eed86b4d01e
+ms.date: 06/08/2017
 ---
 
 

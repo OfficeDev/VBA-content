@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Picture
 ms.assetid: b9a2d133-23a8-ac09-8b8b-08eda1210717
+ms.date: 06/08/2017
 ---
 
 

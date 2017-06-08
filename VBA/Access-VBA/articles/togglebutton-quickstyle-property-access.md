@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.QuickStyle
 ms.assetid: 6dc5a569-8758-86cd-5b2a-693081ef95c5
+ms.date: 06/08/2017
 ---
 
 

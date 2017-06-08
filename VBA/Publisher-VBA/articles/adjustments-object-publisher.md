@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Adjustments
 ms.assetid: a1abecf9-582d-3b5c-8a2c-14c4d260df3a
+ms.date: 06/08/2017
 ---
 
 

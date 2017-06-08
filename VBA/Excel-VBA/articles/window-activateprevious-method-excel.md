@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.ActivatePrevious
 ms.assetid: 5f244c28-ec32-7f28-cf0a-075f8a2d014d
+ms.date: 06/08/2017
 ---
 
 

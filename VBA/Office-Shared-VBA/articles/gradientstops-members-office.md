@@ -2,6 +2,7 @@
 title: GradientStops Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 9cab316d-3302-a119-b02b-54eea372acee
+ms.date: 06/08/2017
 ---
 
 

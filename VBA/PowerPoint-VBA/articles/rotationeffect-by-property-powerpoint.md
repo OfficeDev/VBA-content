@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.RotationEffect.By
 ms.assetid: 508d7a3e-ac92-af60-9f68-d394e78db363
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.TextureOffsetY
 ms.assetid: f1ba83a3-65ca-dd4c-cb70-f6cb453b824c
+ms.date: 06/08/2017
 ---
 
 

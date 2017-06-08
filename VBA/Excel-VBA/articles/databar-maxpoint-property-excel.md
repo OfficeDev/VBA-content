@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.MaxPoint
 ms.assetid: d4b149f8-c245-40fa-bb89-a32d07354679
+ms.date: 06/08/2017
 ---
 
 

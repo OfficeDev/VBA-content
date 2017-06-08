@@ -2,6 +2,7 @@
 title: ShapeRange.PickUp Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 622e3c4d-b155-b1ae-c4c2-62b4e730d392
+ms.date: 06/08/2017
 ---
 
 

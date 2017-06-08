@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.SlideSize
 ms.assetid: 1f6db7f6-e9bb-e1fb-08f0-194b61733f5c
+ms.date: 06/08/2017
 ---
 
 

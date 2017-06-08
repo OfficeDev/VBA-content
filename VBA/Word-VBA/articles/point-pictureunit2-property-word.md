@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.PictureUnit2
 ms.assetid: eada77df-2d39-2a71-163c-367ceeda6405
+ms.date: 06/08/2017
 ---
 
 

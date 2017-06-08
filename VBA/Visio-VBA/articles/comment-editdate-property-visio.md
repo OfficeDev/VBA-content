@@ -2,6 +2,7 @@
 title: Comment.EditDate Property (Visio)
 ms.prod: VISIO
 ms.assetid: 4ad13f54-215e-3680-5de6-13715e309fbf
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Make a Control Transparent
 ms.prod: OUTLOOK
 ms.assetid: dc6abbe8-1c28-080b-bd20-80e13b04bdad
+ms.date: 06/08/2017
 ---
 
 

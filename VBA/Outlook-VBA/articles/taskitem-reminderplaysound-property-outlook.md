@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.ReminderPlaySound
 ms.assetid: 22698193-bc36-c2fb-3ee1-d04d1e3a15a6
+ms.date: 06/08/2017
 ---
 
 

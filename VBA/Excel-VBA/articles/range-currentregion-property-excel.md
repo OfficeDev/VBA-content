@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.CurrentRegion
 ms.assetid: 39277cc5-07ff-8453-7330-b272b365f9dc
+ms.date: 06/08/2017
 ---
 
 

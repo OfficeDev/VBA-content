@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.PlotColorIndex
 ms.assetid: d7844b4a-663a-17de-73bc-05dc92f8be80
+ms.date: 06/08/2017
 ---
 
 

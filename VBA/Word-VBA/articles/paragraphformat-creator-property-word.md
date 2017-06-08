@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.Creator
 ms.assetid: 500803c4-b7f8-0a99-6e96-4f783698725f
+ms.date: 06/08/2017
 ---
 
 

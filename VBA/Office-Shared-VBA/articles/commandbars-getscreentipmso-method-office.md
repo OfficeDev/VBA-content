@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.GetScreentipMso
 ms.assetid: 23411622-2b35-0c0e-9373-9bc75c5e433e
+ms.date: 06/08/2017
 ---
 
 

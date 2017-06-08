@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetTempName
 ms.assetid: 43d8a9b2-b8ea-3ef8-f0ea-84ddb5467f0a
+ms.date: 06/08/2017
 ---
 
 

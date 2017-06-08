@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SynonymInfo
 ms.assetid: 0af2d733-a038-1f67-ddca-2b05b3af1b7c
+ms.date: 06/08/2017
 ---
 
 

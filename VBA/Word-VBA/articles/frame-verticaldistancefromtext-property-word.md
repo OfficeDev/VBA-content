@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.VerticalDistanceFromText
 ms.assetid: 16496bd5-bb12-11ad-59e6-baf234803471
+ms.date: 06/08/2017
 ---
 
 

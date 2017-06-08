@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObjects.Locked
 ms.assetid: 92a02a9c-76e5-ae1c-ae05-05951a1590dd
+ms.date: 06/08/2017
 ---
 
 

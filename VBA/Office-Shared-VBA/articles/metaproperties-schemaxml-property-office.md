@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MetaProperties.SchemaXml
 ms.assetid: c51acc59-3014-8678-c697-425be9dc3aeb
+ms.date: 06/08/2017
 ---
 
 

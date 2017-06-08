@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Walls
 ms.assetid: e4c019c0-41de-988b-b5c7-009fcc0eee15
+ms.date: 06/08/2017
 ---
 
 

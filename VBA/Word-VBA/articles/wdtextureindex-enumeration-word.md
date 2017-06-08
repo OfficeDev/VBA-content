@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdTextureIndex
 ms.assetid: b9f758d2-0fb5-c373-9f2a-b581cf4c8196
+ms.date: 06/08/2017
 ---
 
 

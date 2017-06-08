@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FindReplace.FoundTextRange
 ms.assetid: 8d0d3177-2d32-7df6-8b88-b354ec0a3d7b
+ms.date: 06/08/2017
 ---
 
 

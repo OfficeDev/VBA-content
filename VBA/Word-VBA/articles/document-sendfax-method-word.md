@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SendFax
 ms.assetid: d7a1636b-1fc2-9bfd-e7f6-828a745c06d3
+ms.date: 06/08/2017
 ---
 
 

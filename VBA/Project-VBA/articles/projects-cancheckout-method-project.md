@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Projects.CanCheckOut
 ms.assetid: 330f28a3-d785-ae5d-0f64-8e02ac52d8d6
+ms.date: 06/08/2017
 ---
 
 

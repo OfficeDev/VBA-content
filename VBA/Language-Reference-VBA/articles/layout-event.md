@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Layout
 ms.assetid: ae4e356a-3283-e6a0-ac29-25327ff7c3df
+ms.date: 06/08/2017
 ---
 
 

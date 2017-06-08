@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Layers.EventList
 ms.assetid: 89912a9e-cc87-0759-cc34-8a06853f3164
+ms.date: 06/08/2017
 ---
 
 

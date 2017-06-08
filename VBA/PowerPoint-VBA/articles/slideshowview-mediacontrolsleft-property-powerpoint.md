@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.MediaControlsLeft
 ms.assetid: 1cc3c3a2-63d8-e43b-2056-3638caa039fe
+ms.date: 06/08/2017
 ---
 
 

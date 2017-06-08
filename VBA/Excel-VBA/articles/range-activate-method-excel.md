@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Activate
 ms.assetid: a0050055-84e7-7611-a961-887fcb063369
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.PageSheet
 ms.assetid: 8ec4d38a-79fe-018d-9bc8-3a9c0221f018
+ms.date: 06/08/2017
 ---
 
 

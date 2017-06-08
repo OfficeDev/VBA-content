@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Anniversary
 ms.assetid: c1e9a355-9776-0baa-90b6-743cea99b4e6
+ms.date: 06/08/2017
 ---
 
 

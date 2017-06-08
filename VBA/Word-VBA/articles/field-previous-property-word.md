@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Field.Previous
 ms.assetid: be39b806-a82a-de52-190d-3f537e063d6a
+ms.date: 06/08/2017
 ---
 
 

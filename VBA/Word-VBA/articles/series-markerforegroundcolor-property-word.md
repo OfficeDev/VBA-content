@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.MarkerForegroundColor
 ms.assetid: acf35367-ca76-db18-9d56-ed809ac66dd3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbImageFormat
 ms.assetid: 7d266fe1-d918-383c-0034-c7da9cea28be
+ms.date: 06/08/2017
 ---
 
 

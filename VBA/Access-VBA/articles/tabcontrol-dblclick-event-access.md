@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.DblClick
 ms.assetid: d45c03f4-5cde-6aae-e316-9fbe9c71f34a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlaySettings.StopAfterSlides
 ms.assetid: 4c979acf-92b8-ebf6-16a3-ae9334dc4593
+ms.date: 06/08/2017
 ---
 
 

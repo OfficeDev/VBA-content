@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conversation.Application
 ms.assetid: d251a99d-96bc-e51b-02f0-fb61f2803f65
+ms.date: 06/08/2017
 ---
 
 

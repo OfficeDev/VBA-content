@@ -2,6 +2,7 @@
 title: Animate a Sparkline
 ms.prod: EXCEL
 ms.assetid: 9a0062c5-4d7a-4236-82c2-7c51fba6f3c9
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.ID
 ms.assetid: 0d05b755-e83e-c787-1aa1-e81976473edf
+ms.date: 06/08/2017
 ---
 
 

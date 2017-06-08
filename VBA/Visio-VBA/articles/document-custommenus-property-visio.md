@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.CustomMenus
 ms.assetid: f7d3ec25-a62e-ffe3-affe-c80ed46f58a6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SeriesCollection
 ms.assetid: 93aa1f0b-4939-8c60-a444-2f791e8ce144
+ms.date: 06/08/2017
 ---
 
 

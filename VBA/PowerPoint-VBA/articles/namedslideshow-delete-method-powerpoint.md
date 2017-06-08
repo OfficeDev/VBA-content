@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.NamedSlideShow.Delete
 ms.assetid: 2365f669-08d0-b6ec-bca7-44ca719f8db5
+ms.date: 06/08/2017
 ---
 
 

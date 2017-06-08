@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SeriesLines.Name
 ms.assetid: 4e821b5a-5ea0-20c4-917f-db9b224e6e96
+ms.date: 06/08/2017
 ---
 
 

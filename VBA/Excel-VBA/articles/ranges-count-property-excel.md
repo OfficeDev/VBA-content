@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Ranges.Count
 ms.assetid: 9e74ac18-426f-b266-4e3a-0f9e7bff5259
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Move
 ms.assetid: 73e831f7-4d15-d9f4-ed8d-35f1a4038bb6
+ms.date: 06/08/2017
 ---
 
 

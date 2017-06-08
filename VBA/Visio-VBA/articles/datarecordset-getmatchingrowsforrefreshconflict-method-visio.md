@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.GetMatchingRowsForRefreshConflict
 ms.assetid: 07526278-19db-ccbc-6785-095c73128879
+ms.date: 06/08/2017
 ---
 
 

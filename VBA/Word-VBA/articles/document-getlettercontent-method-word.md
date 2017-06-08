@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.GetLetterContent
 ms.assetid: ab0d9fa4-b193-6a7f-641d-d6f971b37457
+ms.date: 06/08/2017
 ---
 
 

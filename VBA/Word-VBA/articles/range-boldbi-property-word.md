@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.BoldBi
 ms.assetid: 80a4e893-0337-41ef-5a45-506deea43f29
+ms.date: 06/08/2017
 ---
 
 

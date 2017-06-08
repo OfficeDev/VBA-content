@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkBusinessCardControl.MouseIcon
 ms.assetid: 374e68c6-d4bd-3588-aa34-0c5577297d58
+ms.date: 06/08/2017
 ---
 
 

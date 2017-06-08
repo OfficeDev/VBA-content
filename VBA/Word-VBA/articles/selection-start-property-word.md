@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Start
 ms.assetid: e1928372-2473-e377-4ba1-894b104fcf43
+ms.date: 06/08/2017
 ---
 
 

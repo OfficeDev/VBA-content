@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Controls
 ms.assetid: b84e6c66-8773-58c7-d076-191e4397ee6a
+ms.date: 06/08/2017
 ---
 
 

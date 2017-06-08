@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.PageScroll
 ms.assetid: e3287c43-b759-e72f-5dd5-ec7f1af2bebc
+ms.date: 06/08/2017
 ---
 
 

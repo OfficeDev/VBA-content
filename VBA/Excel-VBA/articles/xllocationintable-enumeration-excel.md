@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlLocationInTable
 ms.assetid: 85718a67-04ed-9026-1777-85cb4de81886
+ms.date: 06/08/2017
 ---
 
 

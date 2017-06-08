@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TempVars.Count
 ms.assetid: 3d4bfc9c-3a7c-5470-0e11-8e88bb5014e6
+ms.date: 06/08/2017
 ---
 
 

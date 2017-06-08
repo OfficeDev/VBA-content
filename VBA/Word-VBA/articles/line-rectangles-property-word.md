@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Line.Rectangles
 ms.assetid: 2cc7988f-de81-5461-5fd0-a0ce29fdadaa
+ms.date: 06/08/2017
 ---
 
 

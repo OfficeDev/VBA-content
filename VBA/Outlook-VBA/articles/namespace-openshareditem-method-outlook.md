@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.OpenSharedItem
 ms.assetid: ebfed85c-0af5-eb72-7a58-ae9e8b655347
+ms.date: 06/08/2017
 ---
 
 

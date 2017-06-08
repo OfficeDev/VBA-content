@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CellFormat.WrapText
 ms.assetid: 92d7920c-51e2-f949-60ee-d11595c191bb
+ms.date: 06/08/2017
 ---
 
 

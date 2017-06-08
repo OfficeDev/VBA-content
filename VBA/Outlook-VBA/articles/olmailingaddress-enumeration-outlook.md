@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlMailingAddress
 ms.assetid: 1a0822be-3c4c-f162-8ab7-12edb20a0949
+ms.date: 06/08/2017
 ---
 
 

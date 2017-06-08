@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisListAlignment
 ms.assetid: 1ff20524-dee8-659b-c56a-468b5b45e34e
+ms.date: 06/08/2017
 ---
 
 

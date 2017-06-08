@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.Panes
 ms.assetid: b7ec51bd-c8e0-f31e-1f15-42a7514cb433
+ms.date: 06/08/2017
 ---
 
 

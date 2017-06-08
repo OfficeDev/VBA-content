@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.Parent
 ms.assetid: 01e45f04-c4f4-0348-04ca-7eb714bf99e5
+ms.date: 06/08/2017
 ---
 
 

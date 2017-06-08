@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.GetConversation
 ms.assetid: d5759937-17c3-0d34-a12a-c43bc7b93d15
+ms.date: 06/08/2017
 ---
 
 

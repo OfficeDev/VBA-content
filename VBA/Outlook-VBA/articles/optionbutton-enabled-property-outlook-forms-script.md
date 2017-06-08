@@ -2,6 +2,7 @@
 title: OptionButton.Enabled Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 3e10fee4-057d-40f7-015b-8d3e1138c1af
+ms.date: 06/08/2017
 ---
 
 

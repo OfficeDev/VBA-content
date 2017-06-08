@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxCellEditEx
 ms.assetid: 86405780-ea5f-d32b-b2e5-3d3999c1877d
+ms.date: 06/08/2017
 ---
 
 

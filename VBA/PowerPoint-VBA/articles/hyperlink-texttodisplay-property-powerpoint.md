@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Hyperlink.TextToDisplay
 ms.assetid: 5f30033e-ddb8-8814-9e55-e0137ff6fa48
+ms.date: 06/08/2017
 ---
 
 

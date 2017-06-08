@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.Resolution
 ms.assetid: 6105287e-a0af-2fd6-e0de-5bedb2458010
+ms.date: 06/08/2017
 ---
 
 

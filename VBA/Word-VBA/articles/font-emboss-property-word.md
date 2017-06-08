@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Emboss
 ms.assetid: ae0cc2d0-b1ae-3208-7f61-cad731f04e29
+ms.date: 06/08/2017
 ---
 
 

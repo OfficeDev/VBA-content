@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.Superscript
 ms.assetid: 69fcf745-0229-aed8-f14b-0899e53dda4d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.FormulaR1C1Local
 ms.assetid: 06dc1ffa-78fb-948d-ac5a-5151f2f0784c
+ms.date: 06/08/2017
 ---
 
 

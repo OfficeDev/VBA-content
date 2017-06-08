@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.AutoShapeType
 ms.assetid: de4c8273-2804-012c-38a0-7689aa54b02e
+ms.date: 06/08/2017
 ---
 
 

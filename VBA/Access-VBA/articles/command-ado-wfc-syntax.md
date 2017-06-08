@@ -2,6 +2,7 @@
 title: Command (ADO/WFC Syntax)
 ms.prod: ACCESS
 ms.assetid: fd244794-8831-883a-7892-3ad04d732790
+ms.date: 06/08/2017
 ---
 
 

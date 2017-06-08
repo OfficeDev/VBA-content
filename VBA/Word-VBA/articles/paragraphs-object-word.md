@@ -2,6 +2,7 @@
 title: Paragraphs Object (Word)
 ms.prod: WORD
 ms.assetid: bdc7a183-2a98-7d47-c86a-5cecd6c91449
+ms.date: 06/08/2017
 ---
 
 

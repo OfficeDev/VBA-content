@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.GroupShapes.Item
 ms.assetid: c80f9855-373e-5e45-ee26-417522bf4343
+ms.date: 06/08/2017
 ---
 
 

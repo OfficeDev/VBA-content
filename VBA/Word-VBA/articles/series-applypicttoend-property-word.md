@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.ApplyPictToEnd
 ms.assetid: d21d40d6-7d66-7513-a225-e151e64c4188
+ms.date: 06/08/2017
 ---
 
 

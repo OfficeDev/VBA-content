@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.Delete
 ms.assetid: d75ccfb7-5c03-0259-dae5-a5e238c742ff
+ms.date: 06/08/2017
 ---
 
 

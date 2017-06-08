@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.SplitVertical
 ms.assetid: 2e683391-b5c3-0d4d-94a3-0afe82e3965a
+ms.date: 06/08/2017
 ---
 
 

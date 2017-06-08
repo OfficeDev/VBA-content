@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.CopyFace
 ms.assetid: 09f09dbd-b70f-8b7d-1af7-7e43bffe3030
+ms.date: 06/08/2017
 ---
 
 

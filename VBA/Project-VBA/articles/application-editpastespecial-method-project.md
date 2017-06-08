@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EditPasteSpecial
 ms.assetid: afbe96f1-a4f6-e879-cacc-115761f5e1c4
+ms.date: 06/08/2017
 ---
 
 

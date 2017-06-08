@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.SenderGender
 ms.assetid: 7552cfc2-9387-4b20-38a0-48e153f9e9ff
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeNodes.Delete
 ms.assetid: 1c90b38d-a108-83c7-675a-39fe66d3d261
+ms.date: 06/08/2017
 ---
 
 

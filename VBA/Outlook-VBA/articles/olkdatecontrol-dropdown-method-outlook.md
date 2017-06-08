@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.DropDown
 ms.assetid: 7668e185-ced8-6ca9-d89c-493f08d542c9
+ms.date: 06/08/2017
 ---
 
 

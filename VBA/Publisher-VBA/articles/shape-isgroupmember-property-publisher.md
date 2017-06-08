@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.IsGroupMember
 ms.assetid: bbd9b662-b47d-d5cf-6858-e208c44f88a0
+ms.date: 06/08/2017
 ---
 
 

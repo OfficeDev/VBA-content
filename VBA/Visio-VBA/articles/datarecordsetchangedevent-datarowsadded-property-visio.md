@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordsetChangedEvent.DataRowsAdded
 ms.assetid: f99396bf-fba0-bffb-903a-f96630e8689d
+ms.date: 06/08/2017
 ---
 
 

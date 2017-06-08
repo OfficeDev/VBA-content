@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMatCols.Count
 ms.assetid: fecaf854-a813-1d97-dfa3-eeb3f616be8f
+ms.date: 06/08/2017
 ---
 
 

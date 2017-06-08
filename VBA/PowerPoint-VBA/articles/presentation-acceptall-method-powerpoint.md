@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.AcceptAll
 ms.assetid: 8212b39f-7ab1-0f30-40e7-51470574ecbe
+ms.date: 06/08/2017
 ---
 
 

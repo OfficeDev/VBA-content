@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.PressedForeShade
 ms.assetid: ff4421d8-58aa-93a8-ab57-af686f1c44da
+ms.date: 06/08/2017
 ---
 
 

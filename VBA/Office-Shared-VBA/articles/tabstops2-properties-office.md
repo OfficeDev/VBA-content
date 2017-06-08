@@ -2,6 +2,7 @@
 title: TabStops2 Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: cb51324c-6a57-4a0b-8330-d729b02c27a5
+ms.date: 06/08/2017
 ---
 
 

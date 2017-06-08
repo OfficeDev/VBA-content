@@ -2,6 +2,7 @@
 title: Rules (Outlook)
 ms.prod: OUTLOOK
 ms.assetid: 1e1321e4-a4ee-4078-a519-8b98022dd49d
+ms.date: 06/08/2017
 ---
 
 

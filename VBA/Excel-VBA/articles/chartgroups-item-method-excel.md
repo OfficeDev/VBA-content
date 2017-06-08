@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroups.Item
 ms.assetid: 29ca6f13-96b7-bd43-9562-480c467ef7db
+ms.date: 06/08/2017
 ---
 
 

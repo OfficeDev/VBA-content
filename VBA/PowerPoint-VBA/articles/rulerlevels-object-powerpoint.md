@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.RulerLevels
 ms.assetid: 890f4bee-c48a-be48-2cac-b73736a5bdf0
+ms.date: 06/08/2017
 ---
 
 

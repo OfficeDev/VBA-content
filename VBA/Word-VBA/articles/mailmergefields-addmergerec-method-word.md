@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeFields.AddMergeRec
 ms.assetid: 50146076-696e-9a78-5e58-4ecb0f32607f
+ms.date: 06/08/2017
 ---
 
 

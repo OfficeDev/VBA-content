@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.TextStyle
 ms.assetid: 8495c9c8-387e-a2e8-26cb-08f660dde985
+ms.date: 06/08/2017
 ---
 
 

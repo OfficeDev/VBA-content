@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.AutoShapeType
 ms.assetid: f469dc31-a620-5561-ce57-fbff8a5536c0
+ms.date: 06/08/2017
 ---
 
 

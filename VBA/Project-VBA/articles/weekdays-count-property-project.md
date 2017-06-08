@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.WeekDays.Count
 ms.assetid: 6343346c-dbfc-b36b-eaf4-ddcc2e6f745d
+ms.date: 06/08/2017
 ---
 
 

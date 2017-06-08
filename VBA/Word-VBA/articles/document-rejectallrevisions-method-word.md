@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RejectAllRevisions
 ms.assetid: d0cf9e63-0057-c832-90b5-e4057c888528
+ms.date: 06/08/2017
 ---
 
 

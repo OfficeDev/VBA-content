@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Cell.Text
 ms.assetid: 015a9f11-6a4e-5c02-cbeb-e9fd398b2f3c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MinorUnitIsAuto
 ms.assetid: ca6a18d5-f93f-4801-7704-4d3a25b633cb
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.BeforeDocumentSave
 ms.assetid: 03f8954d-40d7-fb64-8c83-cc8f6ca66653
+ms.date: 06/08/2017
 ---
 
 

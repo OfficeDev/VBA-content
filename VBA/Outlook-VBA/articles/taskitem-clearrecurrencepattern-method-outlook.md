@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.ClearRecurrencePattern
 ms.assetid: ad73edd8-d449-5a29-b80f-0717965c40be
+ms.date: 06/08/2017
 ---
 
 

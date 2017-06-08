@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.SelectionChange
 ms.assetid: 183e2ca7-06b2-f689-1f77-182dbfbf1e1d
+ms.date: 06/08/2017
 ---
 
 

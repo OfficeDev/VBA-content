@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SyncObjects
 ms.assetid: 88e59f63-d834-b174-bbda-0af0cf2d0520
+ms.date: 06/08/2017
 ---
 
 

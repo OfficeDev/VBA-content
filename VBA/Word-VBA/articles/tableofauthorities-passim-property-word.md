@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.Passim
 ms.assetid: 5df50485-69c7-ff9e-710c-7cdfdaaaeada
+ms.date: 06/08/2017
 ---
 
 

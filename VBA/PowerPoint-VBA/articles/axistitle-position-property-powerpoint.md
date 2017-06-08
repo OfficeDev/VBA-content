@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.Position
 ms.assetid: 7a6ccf47-0614-8880-2337-f1be9c9d1af4
+ms.date: 06/08/2017
 ---
 
 

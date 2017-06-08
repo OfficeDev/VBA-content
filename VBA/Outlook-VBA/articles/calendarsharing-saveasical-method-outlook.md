@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarSharing.SaveAsICal
 ms.assetid: 2314f751-77c5-9b95-05fb-c3075f512508
+ms.date: 06/08/2017
 ---
 
 

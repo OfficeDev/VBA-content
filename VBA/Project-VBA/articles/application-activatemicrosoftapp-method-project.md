@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ActivateMicrosoftApp
 ms.assetid: a9b59db3-7ad2-8674-9026-090e161ef983
+ms.date: 06/08/2017
 ---
 
 

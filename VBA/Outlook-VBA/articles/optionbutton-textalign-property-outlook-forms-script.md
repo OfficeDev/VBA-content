@@ -2,6 +2,7 @@
 title: OptionButton.TextAlign Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 462a3612-fae0-ce47-4d9f-24523cd88369
+ms.date: 06/08/2017
 ---
 
 

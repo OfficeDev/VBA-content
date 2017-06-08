@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactsModule.Name
 ms.assetid: 66977dff-a386-22c4-99da-b38f3eec0780
+ms.date: 06/08/2017
 ---
 
 

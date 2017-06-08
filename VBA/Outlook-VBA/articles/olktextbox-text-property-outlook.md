@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Text
 ms.assetid: 1dc8c0ec-00d1-5066-f204-68f7e6b30a42
+ms.date: 06/08/2017
 ---
 
 

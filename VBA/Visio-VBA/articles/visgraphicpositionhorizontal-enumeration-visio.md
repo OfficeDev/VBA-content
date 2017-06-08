@@ -5,6 +5,7 @@ f1_keywords:
 - vis_sdr.chm70510
 ms.prod: VISIO
 ms.assetid: a86d0039-d54c-d23b-7c89-82343666898e
+ms.date: 06/08/2017
 ---
 
 

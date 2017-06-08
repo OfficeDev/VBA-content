@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.RunModeEntered
 ms.assetid: 3a8827d9-ff0c-a1c4-2848-72758277aff4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.Font
 ms.assetid: e4e5968a-ab2e-786b-cc71-f770d8c121b4
+ms.date: 06/08/2017
 ---
 
 

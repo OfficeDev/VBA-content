@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathDelim.NoLeftChar
 ms.assetid: 93ca382e-6bb3-81c6-654e-360f588f7410
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.FooterDistance
 ms.assetid: 0c3fda7d-be19-982c-b54e-34905be189d1
+ms.date: 06/08/2017
 ---
 
 

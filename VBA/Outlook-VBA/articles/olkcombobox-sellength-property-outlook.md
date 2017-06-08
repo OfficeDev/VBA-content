@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.SelLength
 ms.assetid: 3cbd5016-3868-6cf9-c28c-8d692620f367
+ms.date: 06/08/2017
 ---
 
 

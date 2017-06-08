@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.LanguageSettings
 ms.assetid: 936f7d61-87e5-e153-08d4-f8c5c8ef0710
+ms.date: 06/08/2017
 ---
 
 

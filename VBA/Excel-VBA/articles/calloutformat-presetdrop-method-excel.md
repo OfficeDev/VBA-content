@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalloutFormat.PresetDrop
 ms.assetid: 48d67cad-d93b-2b69-35dd-c3de70340a42
+ms.date: 06/08/2017
 ---
 
 

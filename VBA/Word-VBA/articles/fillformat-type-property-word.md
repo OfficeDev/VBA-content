@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.Type
 ms.assetid: ad7f354c-9429-a851-8a37-02bbddf26306
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormDescription.PublishForm
 ms.assetid: 2040736a-4be0-90c4-0dfc-20c6ee4eb305
+ms.date: 06/08/2017
 ---
 
 

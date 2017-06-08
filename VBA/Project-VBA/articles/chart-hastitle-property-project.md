@@ -2,6 +2,7 @@
 title: Chart.HasTitle Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: ba1105fa-9d22-7b15-f0b5-799b48f2c366
+ms.date: 06/08/2017
 ---
 
 

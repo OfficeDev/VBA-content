@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.FitToPage
 ms.assetid: 91ea2102-df12-20fe-cd16-e664832f9eb5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyClosings
 ms.assetid: b5be989e-09ff-455f-5d8a-638016512e3d
+ms.date: 06/08/2017
 ---
 
 

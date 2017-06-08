@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.LockContentControl
 ms.assetid: a567f2a5-a3db-446c-e694-50dbfbb3e9db
+ms.date: 06/08/2017
 ---
 
 

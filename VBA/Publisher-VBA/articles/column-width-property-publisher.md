@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Column.Width
 ms.assetid: 9596b828-a5ce-e501-db59-a0e1533108b3
+ms.date: 06/08/2017
 ---
 
 

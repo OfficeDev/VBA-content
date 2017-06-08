@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Selection.FieldNameList
 ms.assetid: 8ebf0e2e-4ca7-08f6-14a1-fb2a43bca2b7
+ms.date: 06/08/2017
 ---
 
 

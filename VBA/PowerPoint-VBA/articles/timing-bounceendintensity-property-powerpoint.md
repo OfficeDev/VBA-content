@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.BounceEndIntensity
 ms.assetid: 18754855-fafa-e1c3-75d5-751a66a86a58
+ms.date: 06/08/2017
 ---
 
 

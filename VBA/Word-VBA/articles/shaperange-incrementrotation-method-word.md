@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.IncrementRotation
 ms.assetid: bf77da5d-7043-fa09-1b78-410d2514cde1
+ms.date: 06/08/2017
 ---
 
 

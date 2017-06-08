@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdSelectionFlags
 ms.assetid: 2bd558ba-a83c-a0d2-edf4-2ae938485c3d
+ms.date: 06/08/2017
 ---
 
 

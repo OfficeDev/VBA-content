@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.BeforeSize
 ms.assetid: 2df91a98-89e2-82af-acfc-49f8e9f40952
+ms.date: 06/08/2017
 ---
 
 

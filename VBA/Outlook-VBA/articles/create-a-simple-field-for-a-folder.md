@@ -2,6 +2,7 @@
 title: Create a Simple Field for a Folder
 ms.prod: OUTLOOK
 ms.assetid: f8bc45d8-b3c0-8825-c913-6e52894a321c
+ms.date: 06/08/2017
 ---
 
 

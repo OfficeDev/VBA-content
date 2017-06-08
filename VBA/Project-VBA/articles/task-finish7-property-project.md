@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Finish7
 ms.assetid: 80451dcc-baae-190e-1749-612130f5b80c
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ConvertToString Method Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: e2315ef1-41ff-22b6-2417-6eba1f5f06d7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.EndArrowheadWidth
 ms.assetid: 5830e4ff-c630-198a-ea2b-b5d1397ea846
+ms.date: 06/08/2017
 ---
 
 

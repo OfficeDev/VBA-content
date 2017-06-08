@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.MousePointer
 ms.assetid: fb38e418-8313-14bc-7783-7e6e3bf59ccb
+ms.date: 06/08/2017
 ---
 
 

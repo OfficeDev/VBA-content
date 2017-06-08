@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.UseCatalogAtStartup
 ms.assetid: 7b0cfce9-92f1-5491-c550-421d1c848e0f
+ms.date: 06/08/2017
 ---
 
 

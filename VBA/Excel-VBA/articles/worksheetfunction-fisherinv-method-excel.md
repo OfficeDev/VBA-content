@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FisherInv
 ms.assetid: bf4656e3-b79d-7fe6-917f-16afedc736fe
+ms.date: 06/08/2017
 ---
 
 

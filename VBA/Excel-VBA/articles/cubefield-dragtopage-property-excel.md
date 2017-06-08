@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.DragToPage
 ms.assetid: 9a7d8dab-a43f-9acf-5fd4-40fa47d4a89f
+ms.date: 06/08/2017
 ---
 
 

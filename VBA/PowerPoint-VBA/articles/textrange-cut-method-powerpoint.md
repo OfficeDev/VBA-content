@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Cut
 ms.assetid: 9be71668-1486-0466-f87b-47792d402102
+ms.date: 06/08/2017
 ---
 
 

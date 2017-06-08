@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.AutoAttach
 ms.assetid: bb11ebc3-c84b-9bc0-0bb2-ae30690c7828
+ms.date: 06/08/2017
 ---
 
 

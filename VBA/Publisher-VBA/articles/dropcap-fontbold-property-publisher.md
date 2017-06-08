@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.DropCap.FontBold
 ms.assetid: 7e1b9b51-258d-080c-e5ae-cdc9d6a2ba64
+ms.date: 06/08/2017
 ---
 
 

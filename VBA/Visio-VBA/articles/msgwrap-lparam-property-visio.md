@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MSGWrap.lParam
 ms.assetid: 52995a4b-f139-6ecc-a5fe-23882a3f2245
+ms.date: 06/08/2017
 ---
 
 

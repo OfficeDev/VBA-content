@@ -2,6 +2,7 @@
 title: ReportTemplates Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 01928892-d57c-8344-05db-d95008b4ba74
+ms.date: 06/08/2017
 ---
 
 

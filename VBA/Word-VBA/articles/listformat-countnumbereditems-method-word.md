@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListFormat.CountNumberedItems
 ms.assetid: 71ce63e0-0e8d-53cc-178c-d91b0242482b
+ms.date: 06/08/2017
 ---
 
 

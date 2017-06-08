@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlEnterFieldBehavior
 ms.assetid: 4f9271f9-32db-08c7-f452-12e9793d1f9b
+ms.date: 06/08/2017
 ---
 
 

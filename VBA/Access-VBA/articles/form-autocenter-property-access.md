@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.AutoCenter
 ms.assetid: a60f8783-5a25-42b5-da99-c5e2925fd6ea
+ms.date: 06/08/2017
 ---
 
 

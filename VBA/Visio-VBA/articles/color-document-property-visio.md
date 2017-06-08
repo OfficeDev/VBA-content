@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Color.Document
 ms.assetid: baa9dc83-9dfb-e666-b39a-b06e66b93753
+ms.date: 06/08/2017
 ---
 
 

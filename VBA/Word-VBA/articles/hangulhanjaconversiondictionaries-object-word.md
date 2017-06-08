@@ -2,6 +2,7 @@
 title: HangulHanjaConversionDictionaries Object (Word)
 ms.prod: WORD
 ms.assetid: b6ed1c54-428b-c160-a2bd-642978660f44
+ms.date: 06/08/2017
 ---
 
 

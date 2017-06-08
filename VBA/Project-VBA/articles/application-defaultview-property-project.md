@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DefaultView
 ms.assetid: 19f3cc23-6267-0b1f-7db5-7783d6936533
+ms.date: 06/08/2017
 ---
 
 

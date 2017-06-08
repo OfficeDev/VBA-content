@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.ApplyDataLabels
 ms.assetid: 9d712577-82cc-5d8d-69d1-f5fbaf02c820
+ms.date: 06/08/2017
 ---
 
 

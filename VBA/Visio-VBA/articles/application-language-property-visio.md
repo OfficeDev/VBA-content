@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.Language
 ms.assetid: 78dc3295-16bd-28fd-43d7-4e6d7924e3be
+ms.date: 06/08/2017
 ---
 
 

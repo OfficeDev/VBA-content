@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.AddStoreEx
 ms.assetid: 15b8948d-cbe4-a499-ec03-b1bbf56ead82
+ms.date: 06/08/2017
 ---
 
 

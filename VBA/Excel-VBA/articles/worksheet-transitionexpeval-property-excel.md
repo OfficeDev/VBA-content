@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.TransitionExpEval
 ms.assetid: a92d8efb-5f19-4b41-11b2-a20b3ad5bf1d
+ms.date: 06/08/2017
 ---
 
 

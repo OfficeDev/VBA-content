@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.StoryRanges.Parent
 ms.assetid: 3752066c-dcb9-1024-28d8-49a19dcaf3c1
+ms.date: 06/08/2017
 ---
 
 

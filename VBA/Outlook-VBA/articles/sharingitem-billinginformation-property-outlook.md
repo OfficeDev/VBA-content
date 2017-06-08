@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.BillingInformation
 ms.assetid: 9e5263c0-2065-8fe5-768d-1370e053b51c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.LeaveBlackAsBlack
 ms.assetid: 23b9dd90-a4aa-6659-7b08-2d1bef78e8f8
+ms.date: 06/08/2017
 ---
 
 

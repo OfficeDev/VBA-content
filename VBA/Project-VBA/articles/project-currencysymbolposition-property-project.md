@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.CurrencySymbolPosition
 ms.assetid: 1ac5a154-370f-53f9-0deb-17ee36ec2ad2
+ms.date: 06/08/2017
 ---
 
 

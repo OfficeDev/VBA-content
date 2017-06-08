@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceFiles.ItemCountExceeded
 ms.assetid: c85b1e3f-c36a-1211-8082-d4f2652a36f5
+ms.date: 06/08/2017
 ---
 
 

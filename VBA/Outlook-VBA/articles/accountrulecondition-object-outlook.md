@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AccountRuleCondition
 ms.assetid: 1b746449-1357-36c2-5081-392ea85fb71e
+ms.date: 06/08/2017
 ---
 
 

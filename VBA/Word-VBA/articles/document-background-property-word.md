@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Background
 ms.assetid: 0425d9e6-1c26-3df7-bac6-6bc314a3ca47
+ms.date: 06/08/2017
 ---
 
 

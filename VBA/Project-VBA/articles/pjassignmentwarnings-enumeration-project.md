@@ -1,6 +1,7 @@
 ---
 title: PjAssignmentWarnings Enumeration (Project)
 ms.assetid: ecc27ae7-cc86-21aa-8c7f-aed8a7d22d38
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DStDev
 ms.assetid: 401b4e16-dfd4-7256-b03d-f3915c5f9ca5
+ms.date: 06/08/2017
 ---
 
 

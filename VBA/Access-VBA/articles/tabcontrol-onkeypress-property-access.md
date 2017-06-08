@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.OnKeyPress
 ms.assetid: 4045a573-1871-a968-21f1-ebae85dc8318
+ms.date: 06/08/2017
 ---
 
 

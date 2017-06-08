@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.Align
 ms.assetid: 7a4e6442-6730-ab7d-93b5-4c091ada6b14
+ms.date: 06/08/2017
 ---
 
 

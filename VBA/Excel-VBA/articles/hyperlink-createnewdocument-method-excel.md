@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Hyperlink.CreateNewDocument
 ms.assetid: 902914b7-08ea-0839-13e1-8fc7e7192675
+ms.date: 06/08/2017
 ---
 
 

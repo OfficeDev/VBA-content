@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MotionEffect.ToY
 ms.assetid: e6f7a6ca-0eca-4698-512e-2e0339513bc1
+ms.date: 06/08/2017
 ---
 
 

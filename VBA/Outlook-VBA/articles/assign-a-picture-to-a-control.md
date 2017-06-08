@@ -2,6 +2,7 @@
 title: Assign a Picture to a Control
 ms.prod: OUTLOOK
 ms.assetid: 5372bdcb-71fc-56fe-94a3-39e33d76f913
+ms.date: 06/08/2017
 ---
 
 

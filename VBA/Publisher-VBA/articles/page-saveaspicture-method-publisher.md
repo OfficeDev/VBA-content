@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Page.SaveAsPicture
 ms.assetid: 9b118126-e072-9516-9863-14ea60264f01
+ms.date: 06/08/2017
 ---
 
 

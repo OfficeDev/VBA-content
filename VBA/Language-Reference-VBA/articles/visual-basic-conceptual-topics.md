@@ -2,6 +2,7 @@
 title: Visual Basic conceptual topics
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LeaderLines.Parent
 ms.assetid: 80c09d3e-c7f7-1099-ac8e-0c24e58c9ecd
+ms.date: 06/08/2017
 ---
 
 

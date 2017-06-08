@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.HasVBProject
 ms.assetid: b4293266-40d9-a8a4-80ff-8b19ec7ed823
+ms.date: 06/08/2017
 ---
 
 

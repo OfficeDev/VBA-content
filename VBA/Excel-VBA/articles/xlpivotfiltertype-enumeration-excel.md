@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPivotFilterType
 ms.assetid: 0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c
+ms.date: 06/08/2017
 ---
 
 

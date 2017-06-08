@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.InstanceHandle64
 ms.assetid: bda32386-7fce-3995-c648-2f665d254101
+ms.date: 06/08/2017
 ---
 
 

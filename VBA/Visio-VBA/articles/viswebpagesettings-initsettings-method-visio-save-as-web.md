@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb
+ms.date: 06/08/2017
 ---
 
 

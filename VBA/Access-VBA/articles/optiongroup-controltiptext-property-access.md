@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.ControlTipText
 ms.assetid: 21069dcf-9841-6548-6c5d-3793b73af1e3
+ms.date: 06/08/2017
 ---
 
 

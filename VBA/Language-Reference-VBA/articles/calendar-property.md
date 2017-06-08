@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Calendar
 ms.assetid: ca321712-934e-2aee-46b8-b2895be362ea
+ms.date: 06/08/2017
 ---
 
 

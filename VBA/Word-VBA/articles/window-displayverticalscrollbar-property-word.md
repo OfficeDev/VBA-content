@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.DisplayVerticalScrollBar
 ms.assetid: bac2fcd6-d9b9-e922-b4ac-c891de68f6f3
+ms.date: 06/08/2017
 ---
 
 

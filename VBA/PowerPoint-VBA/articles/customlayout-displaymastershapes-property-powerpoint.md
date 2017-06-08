@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.DisplayMasterShapes
 ms.assetid: 07790f9c-fad7-7086-5d18-80fd6bf0658b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.Parent
 ms.assetid: fa3d87ef-bd40-cfb3-f86d-7d172ccd3efe
+ms.date: 06/08/2017
 ---
 
 

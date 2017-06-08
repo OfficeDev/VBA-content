@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkInfoBar.DoubleClick
 ms.assetid: 0fc583e7-b648-e282-ba1d-d0938c5199fb
+ms.date: 06/08/2017
 ---
 
 

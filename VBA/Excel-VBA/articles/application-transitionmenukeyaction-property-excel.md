@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.TransitionMenuKeyAction
 ms.assetid: 8f278d3b-9902-597a-9e4d-7f2fc3f22469
+ms.date: 06/08/2017
 ---
 
 

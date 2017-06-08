@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SnapToGrid
 ms.assetid: 7aa03a0d-65f2-725b-37fe-8a421fb1e9f7
+ms.date: 06/08/2017
 ---
 
 

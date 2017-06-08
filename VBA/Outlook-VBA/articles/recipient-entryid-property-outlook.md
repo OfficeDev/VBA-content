@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Recipient.EntryID
 ms.assetid: f71d384c-6e1c-f96c-1415-cf21a0c26712
+ms.date: 06/08/2017
 ---
 
 

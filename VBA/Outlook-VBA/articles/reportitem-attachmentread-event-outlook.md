@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.AttachmentRead
 ms.assetid: 16c7acf4-015e-b9ab-bd72-a54921de8709
+ms.date: 06/08/2017
 ---
 
 

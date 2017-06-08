@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextColumns.Creator
 ms.assetid: 312a79ae-6dd3-e616-d643-2f55202beefe
+ms.date: 06/08/2017
 ---
 
 

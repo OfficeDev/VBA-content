@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfFigures.UseFields
 ms.assetid: 1ac7356e-fad4-1e19-1811-7df973ad74dc
+ms.date: 06/08/2017
 ---
 
 

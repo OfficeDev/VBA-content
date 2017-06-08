@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ProtectedViewWindow.Width
 ms.assetid: 3eb1449c-7213-39a7-01fc-3a4bf170217c
+ms.date: 06/08/2017
 ---
 
 

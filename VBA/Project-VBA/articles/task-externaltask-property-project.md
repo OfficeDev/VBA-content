@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.ExternalTask
 ms.assetid: 5f79cc58-1464-f036-da9a-e7484dd4de62
+ms.date: 06/08/2017
 ---
 
 

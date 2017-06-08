@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DSum
 ms.assetid: 53a3cfd4-a5e3-d0c5-1727-070c99d2b984
+ms.date: 06/08/2017
 ---
 
 

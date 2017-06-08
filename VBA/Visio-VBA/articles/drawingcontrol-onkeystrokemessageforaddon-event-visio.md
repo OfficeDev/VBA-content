@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.OnKeystrokeMessageForAddon
 ms.assetid: 84847fcb-0cb1-cade-38fb-20c01b1262df
+ms.date: 06/08/2017
 ---
 
 

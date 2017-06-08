@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels.NumberFormatLocal
 ms.assetid: 39ada10b-e539-4be3-9aed-20a86085615f
+ms.date: 06/08/2017
 ---
 
 

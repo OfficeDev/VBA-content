@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorScale.SetFirstPriority
 ms.assetid: 812bf48e-066c-6bea-be43-1a068c948ea8
+ms.date: 06/08/2017
 ---
 
 

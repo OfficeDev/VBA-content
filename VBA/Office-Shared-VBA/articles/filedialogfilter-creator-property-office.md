@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialogFilter.Creator
 ms.assetid: 6e629add-d643-8e17-6fe2-cd3b24ddee6d
+ms.date: 06/08/2017
 ---
 
 

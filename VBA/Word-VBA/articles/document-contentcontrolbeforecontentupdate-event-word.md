@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ContentControlBeforeContentUpdate
 ms.assetid: 297241e3-fda9-1947-8b09-9dca97930dcf
+ms.date: 06/08/2017
 ---
 
 

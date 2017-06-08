@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DisplayUnitLabel.Text
 ms.assetid: 5870ac81-bb52-9af8-3b10-acb428ea8c58
+ms.date: 06/08/2017
 ---
 
 

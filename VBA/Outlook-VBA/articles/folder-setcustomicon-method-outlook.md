@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.SetCustomIcon
 ms.assetid: d368547b-e90c-85ec-7d5c-e48cbe8eb42e
+ms.date: 06/08/2017
 ---
 
 

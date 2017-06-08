@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ThreeDFormat.PresetLightingSoftness
 ms.assetid: e63a483b-16c6-edab-6a16-b539f0a424cb
+ms.date: 06/08/2017
 ---
 
 

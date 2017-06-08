@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.NewMailEx
 ms.assetid: 3b6873a3-0ccf-0e46-1cac-0eeabb3a896b
+ms.date: 06/08/2017
 ---
 
 

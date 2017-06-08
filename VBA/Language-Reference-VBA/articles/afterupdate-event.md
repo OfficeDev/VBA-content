@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AfterUpdate
 ms.assetid: 3d15efd4-06c8-136f-c315-7efc44db35b1
+ms.date: 06/08/2017
 ---
 
 

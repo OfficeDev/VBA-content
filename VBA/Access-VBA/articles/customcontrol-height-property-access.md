@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.Height
 ms.assetid: 1e482282-30f7-139e-dd89-40cf89139a2e
+ms.date: 06/08/2017
 ---
 
 

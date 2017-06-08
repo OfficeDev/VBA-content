@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.OnMouseDown
 ms.assetid: b0078538-a6b2-fcce-56f4-d38260694faa
+ms.date: 06/08/2017
 ---
 
 

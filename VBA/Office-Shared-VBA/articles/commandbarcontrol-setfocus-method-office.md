@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.SetFocus
 ms.assetid: e20065eb-a1a3-f750-5585-6e38a328b946
+ms.date: 06/08/2017
 ---
 
 

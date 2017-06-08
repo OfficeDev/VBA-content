@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceSymbols
 ms.assetid: d8314d95-5701-51a7-a987-10cf22f1f87e
+ms.date: 06/08/2017
 ---
 
 

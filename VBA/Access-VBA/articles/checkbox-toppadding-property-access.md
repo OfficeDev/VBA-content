@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.TopPadding
 ms.assetid: e3fc7819-8cb1-44b9-dc13-6e5c75bff62b
+ms.date: 06/08/2017
 ---
 
 

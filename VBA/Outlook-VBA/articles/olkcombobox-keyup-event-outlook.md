@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.KeyUp
 ms.assetid: 22f2f29c-f4ea-764a-85a0-90d11becf5dc
+ms.date: 06/08/2017
 ---
 
 

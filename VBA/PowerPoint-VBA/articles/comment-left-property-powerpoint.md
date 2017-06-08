@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Comment.Left
 ms.assetid: 29da86cf-2216-021a-d5d1-32995b8742fd
+ms.date: 06/08/2017
 ---
 
 

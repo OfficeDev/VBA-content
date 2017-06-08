@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.IgnoreMixedDigits
 ms.assetid: 3603afd8-a922-dec6-2239-6ae1d330995e
+ms.date: 06/08/2017
 ---
 
 

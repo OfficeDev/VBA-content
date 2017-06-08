@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.GammaDist
 ms.assetid: fa290089-e6e0-4354-f28c-49f1a702dca5
+ms.date: 06/08/2017
 ---
 
 

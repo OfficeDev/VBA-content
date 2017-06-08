@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.Select
 ms.assetid: 1ad91c5a-26a2-a7ad-faa6-c824245482bb
+ms.date: 06/08/2017
 ---
 
 

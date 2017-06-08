@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.SetListLevel
 ms.assetid: 80cce7e2-49d1-614d-eb61-543d42aa5645
+ms.date: 06/08/2017
 ---
 
 

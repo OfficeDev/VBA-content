@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion.CellColor
 ms.assetid: dcddcac1-e935-9e60-9611-5bf77267c5f1
+ms.date: 06/08/2017
 ---
 
 

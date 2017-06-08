@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Borders.Parent
 ms.assetid: c6805f83-89a3-cb90-1e2b-9a76b067899a
+ms.date: 06/08/2017
 ---
 
 

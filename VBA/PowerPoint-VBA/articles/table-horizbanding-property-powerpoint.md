@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.HorizBanding
 ms.assetid: 58d864a2-6a5e-2860-b656-f7dc06d05de0
+ms.date: 06/08/2017
 ---
 
 

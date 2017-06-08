@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeNodes.Parent
 ms.assetid: 3a3a6b13-eb7b-63d9-77f7-be737dda2916
+ms.date: 06/08/2017
 ---
 
 

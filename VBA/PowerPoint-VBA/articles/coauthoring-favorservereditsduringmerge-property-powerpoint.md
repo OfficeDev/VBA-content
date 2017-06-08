@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Coauthoring.FavorServerEditsDuringMerge
 ms.assetid: 82c563c0-b3a0-18ca-5405-6aa786c4946a
+ms.date: 06/08/2017
 ---
 
 

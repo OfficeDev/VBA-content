@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.EventProcPrefix
 ms.assetid: 20d82dc1-6bb4-0338-6bfb-ce801825634d
+ms.date: 06/08/2017
 ---
 
 

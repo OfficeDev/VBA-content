@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.SmallScroll
 ms.assetid: f6710bca-ad85-9257-061a-dbe5829d8b7b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoEnvelope.Item
 ms.assetid: cc13343c-dea5-152f-b123-441a4120c22c
+ms.date: 06/08/2017
 ---
 
 

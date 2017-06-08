@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ProtectStructure
 ms.assetid: bf721b60-0ad1-f71c-7ef4-74d2196d320e
+ms.date: 06/08/2017
 ---
 
 

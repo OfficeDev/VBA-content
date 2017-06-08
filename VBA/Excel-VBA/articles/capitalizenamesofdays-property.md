@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CapitalizeNamesOfDays
 ms.assetid: dbac8451-a2ac-5e29-b6c9-afa9cfaec469
+ms.date: 06/08/2017
 ---
 
 

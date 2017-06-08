@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeClose
 ms.assetid: 90e75c72-03f9-25ab-1339-94d9ff8933a2
+ms.date: 06/08/2017
 ---
 
 

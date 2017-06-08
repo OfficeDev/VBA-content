@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Editor.SelectAll
 ms.assetid: b436cd25-ae9e-9344-4279-4600f0df9433
+ms.date: 06/08/2017
 ---
 
 

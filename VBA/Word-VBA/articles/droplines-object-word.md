@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropLines
 ms.assetid: 4691b002-8512-7cd3-5a20-561232e18d88
+ms.date: 06/08/2017
 ---
 
 

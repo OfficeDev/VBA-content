@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropCap.Position
 ms.assetid: ab217570-e506-6fd5-6e8d-4321925907ee
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MinimumScale
 ms.assetid: 4aca27ef-c1af-e74e-8ca5-6a3fc1aefaa2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Walls.Paste
 ms.assetid: 1c6a2320-6023-6840-0044-be65ebf1aa06
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Cell.Shape
 ms.assetid: 942f67bd-b4ef-3f1f-153a-5a55aaa5663c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SmartParaSelection
 ms.assetid: 3c3aeb77-febe-b071-03ab-70407ddb58f7
+ms.date: 06/08/2017
 ---
 
 

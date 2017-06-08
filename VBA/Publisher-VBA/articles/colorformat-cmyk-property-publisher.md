@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorFormat.CMYK
 ms.assetid: 28d7ad65-c63c-3b11-3ecc-c77a1a586b84
+ms.date: 06/08/2017
 ---
 
 

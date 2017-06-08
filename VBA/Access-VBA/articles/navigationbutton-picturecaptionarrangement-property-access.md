@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.PictureCaptionArrangement
 ms.assetid: 4b9a87a0-3e9f-5a95-cab0-90427c714c12
+ms.date: 06/08/2017
 ---
 
 

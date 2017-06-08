@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.CustomPropertyChange
 ms.assetid: 8f8e35f1-c574-d66e-6833-701da352b467
+ms.date: 06/08/2017
 ---
 
 

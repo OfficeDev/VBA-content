@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabels.ShowCategoryName
 ms.assetid: 37092a3b-a8fd-d731-7ca9-ce0d03295000
+ms.date: 06/08/2017
 ---
 
 

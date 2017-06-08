@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkInfoBar.MouseUp
 ms.assetid: daff2dbd-0da7-e5b0-7425-8aaf325b4b8a
+ms.date: 06/08/2017
 ---
 
 

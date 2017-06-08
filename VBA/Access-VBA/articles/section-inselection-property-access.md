@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.InSelection
 ms.assetid: dbcca22e-b793-8615-ec67-2f3cb897c6b6
+ms.date: 06/08/2017
 ---
 
 

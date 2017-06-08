@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.LastModificationTime
 ms.assetid: 14962429-bbf6-a814-647a-70be1dad339d
+ms.date: 06/08/2017
 ---
 
 

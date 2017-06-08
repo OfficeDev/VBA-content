@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar
 ms.assetid: 2684e913-c278-e6be-ba9d-053b6ad58bae
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.List.CanContinuePreviousList
 ms.assetid: 5e235969-27ee-22eb-61ba-2b52a23447aa
+ms.date: 06/08/2017
 ---
 
 

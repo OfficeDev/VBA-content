@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ApplyDataLabels
 ms.assetid: 3d4ce40f-7194-ad96-4ae6-15434c6dd491
+ms.date: 06/08/2017
 ---
 
 

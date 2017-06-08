@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormatDuration
 ms.assetid: f33355da-3e85-5f69-b928-ae04fdb28a18
+ms.date: 06/08/2017
 ---
 
 

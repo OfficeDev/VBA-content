@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IRTDUpdateEvent.HeartbeatInterval
 ms.assetid: 45a3df85-59c1-fedb-e94b-8f011601fc72
+ms.date: 06/08/2017
 ---
 
 

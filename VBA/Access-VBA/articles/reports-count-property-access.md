@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Reports.Count
 ms.assetid: 434a03a1-8d1e-e223-bc4c-e5e4a3743b1e
+ms.date: 06/08/2017
 ---
 
 

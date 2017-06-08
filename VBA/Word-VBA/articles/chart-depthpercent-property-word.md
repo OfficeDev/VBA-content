@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.DepthPercent
 ms.assetid: fd1a83dc-e68d-82be-d2bf-5f7a87cb08ac
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetParentFolderName
 ms.assetid: 445e969a-6a01-6cb0-aff7-378717277c69
+ms.date: 06/08/2017
 ---
 
 

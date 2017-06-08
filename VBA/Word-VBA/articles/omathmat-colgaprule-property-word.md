@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMat.ColGapRule
 ms.assetid: 3bd79a22-0c9d-77eb-4f0a-75acee30ab48
+ms.date: 06/08/2017
 ---
 
 

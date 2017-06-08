@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Availabilities.Add
 ms.assetid: 4506674e-947b-905b-93bd-73a58281d676
+ms.date: 06/08/2017
 ---
 
 

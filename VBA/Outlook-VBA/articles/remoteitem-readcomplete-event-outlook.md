@@ -1,6 +1,7 @@
 ---
 title: RemoteItem.ReadComplete Event (Outlook)
 ms.assetid: 208867c1-b6dc-4ce8-e25a-13a8f6c686ca
+ms.date: 06/08/2017
 ---
 
 

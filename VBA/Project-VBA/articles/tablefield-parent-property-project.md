@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TableField.Parent
 ms.assetid: a16ace58-00e9-9ca3-ffbe-183ade647288
+ms.date: 06/08/2017
 ---
 
 

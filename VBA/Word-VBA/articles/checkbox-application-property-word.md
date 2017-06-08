@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CheckBox.Application
 ms.assetid: 54a12305-440d-3291-217d-6d14576ce4b9
+ms.date: 06/08/2017
 ---
 
 

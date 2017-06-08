@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.MasterChanged
 ms.assetid: 59fe2ee8-03ee-83b9-d86c-a67d68c7a363
+ms.date: 06/08/2017
 ---
 
 

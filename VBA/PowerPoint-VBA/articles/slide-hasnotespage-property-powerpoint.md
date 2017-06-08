@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.HasNotesPage
 ms.assetid: 5c92e382-ffe0-c4c4-7989-5ac84e82adc0
+ms.date: 06/08/2017
 ---
 
 

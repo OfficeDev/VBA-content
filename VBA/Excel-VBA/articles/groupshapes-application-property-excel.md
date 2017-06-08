@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GroupShapes.Application
 ms.assetid: 0aefa794-07b9-5a8d-2780-2c2c2f0bb246
+ms.date: 06/08/2017
 ---
 
 

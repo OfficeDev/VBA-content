@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlErrorBarDirection
 ms.assetid: dde32437-fc46-0a20-f2b8-1f547ac15bff
+ms.date: 06/08/2017
 ---
 
 

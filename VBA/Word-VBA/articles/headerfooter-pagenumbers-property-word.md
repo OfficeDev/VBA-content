@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeaderFooter.PageNumbers
 ms.assetid: 2e36c668-f696-e09e-dd04-ae77e7524232
+ms.date: 06/08/2017
 ---
 
 

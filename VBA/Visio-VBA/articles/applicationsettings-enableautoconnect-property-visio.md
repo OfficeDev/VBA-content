@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.EnableAutoConnect
 ms.assetid: 9aef5e1c-7f46-0edb-1237-bbb9412a8aa5
+ms.date: 06/08/2017
 ---
 
 

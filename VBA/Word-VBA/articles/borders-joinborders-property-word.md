@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.JoinBorders
 ms.assetid: e25f3192-469e-ef65-e412-098d5cfb6173
+ms.date: 06/08/2017
 ---
 
 

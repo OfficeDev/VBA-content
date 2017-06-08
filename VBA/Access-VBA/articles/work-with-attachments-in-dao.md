@@ -2,6 +2,7 @@
 title: Work With Attachments In DAO
 ms.prod: ACCESS
 ms.assetid: e175a47a-4d97-b93b-c152-809314ac5ba0
+ms.date: 06/08/2017
 ---
 
 

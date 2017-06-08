@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.ShowBasicColors
 ms.assetid: d04504fa-5627-b66b-bd6e-30556155632c
+ms.date: 06/08/2017
 ---
 
 

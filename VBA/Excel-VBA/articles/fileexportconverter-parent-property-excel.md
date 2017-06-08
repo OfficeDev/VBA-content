@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FileExportConverter.Parent
 ms.assetid: a8dd4d58-b5b3-125e-decb-49d2e169b6af
+ms.date: 06/08/2017
 ---
 
 

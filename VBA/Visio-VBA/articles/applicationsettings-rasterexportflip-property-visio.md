@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.RasterExportFlip
 ms.assetid: 1aa94fd4-7d2e-a2db-3291-c86ac4e22573
+ms.date: 06/08/2017
 ---
 
 

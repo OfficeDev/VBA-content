@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.StyleKeepFmt
 ms.assetid: 22403064-fa5d-c0cf-8ee7-0f8ae2895d3c
+ms.date: 06/08/2017
 ---
 
 

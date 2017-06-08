@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertParagraph
 ms.assetid: bceda293-7294-8769-75fe-4792199439c1
+ms.date: 06/08/2017
 ---
 
 

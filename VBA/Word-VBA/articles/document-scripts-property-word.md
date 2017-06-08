@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Scripts
 ms.assetid: 5602a262-f4e2-bc9c-1457-68536adf7ac4
+ms.date: 06/08/2017
 ---
 
 

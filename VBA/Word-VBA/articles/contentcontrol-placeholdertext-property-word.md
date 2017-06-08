@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.PlaceholderText
 ms.assetid: 44a04064-7e8f-bf8e-7f5a-9e2d4fb3f137
+ms.date: 06/08/2017
 ---
 
 

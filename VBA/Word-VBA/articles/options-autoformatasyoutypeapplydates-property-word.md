@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyDates
 ms.assetid: b31f13fa-9a76-3a86-c4c2-4720fec1b66b
+ms.date: 06/08/2017
 ---
 
 

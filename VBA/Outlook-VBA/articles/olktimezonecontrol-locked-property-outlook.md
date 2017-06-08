@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.Locked
 ms.assetid: b33184ab-a976-7696-d325-2a142ad27cb9
+ms.date: 06/08/2017
 ---
 
 

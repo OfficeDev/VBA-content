@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowAll
 ms.assetid: 21af8a5b-2110-a2e0-e705-40a66c410625
+ms.date: 06/08/2017
 ---
 
 

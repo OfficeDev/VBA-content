@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Sheets.Delete
 ms.assetid: 9b657a8e-d3fe-c8ec-6145-701442035a83
+ms.date: 06/08/2017
 ---
 
 

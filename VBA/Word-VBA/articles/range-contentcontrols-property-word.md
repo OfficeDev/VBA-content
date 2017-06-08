@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.ContentControls
 ms.assetid: e8c715af-067f-871e-7dec-28aa4302d9f9
+ms.date: 06/08/2017
 ---
 
 

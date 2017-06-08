@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.WebPreFormattedTextToColumns
 ms.assetid: 5365c5c8-9dc9-3140-c3cc-679bd0db4477
+ms.date: 06/08/2017
 ---
 
 

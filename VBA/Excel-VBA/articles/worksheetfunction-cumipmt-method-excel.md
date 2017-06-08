@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.CumIPmt
 ms.assetid: e8940dd7-26c2-ae9b-1876-1c61afcea33d
+ms.date: 06/08/2017
 ---
 
 

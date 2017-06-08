@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.GradientDegree
 ms.assetid: 201380df-f7b4-a38c-e615-2eb490b7042c
+ms.date: 06/08/2017
 ---
 
 

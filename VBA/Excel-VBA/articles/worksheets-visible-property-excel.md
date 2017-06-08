@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheets.Visible
 ms.assetid: 914518bd-4383-fc14-8ddf-6279dd613e91
+ms.date: 06/08/2017
 ---
 
 

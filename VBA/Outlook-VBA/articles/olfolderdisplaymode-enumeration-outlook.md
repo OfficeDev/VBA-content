@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFolderDisplayMode
 ms.assetid: 90ab0507-7096-4075-72c1-bc56de25bbf2
+ms.date: 06/08/2017
 ---
 
 

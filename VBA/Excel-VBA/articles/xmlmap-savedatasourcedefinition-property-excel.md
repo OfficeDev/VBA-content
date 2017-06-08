@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.SaveDataSourceDefinition
 ms.assetid: 9a87b243-1d38-17b2-cbfa-ce5747a30674
+ms.date: 06/08/2017
 ---
 
 

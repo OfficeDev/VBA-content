@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DblClick
 ms.assetid: 52ee3887-6634-ed57-fb9b-757543ea6e29
+ms.date: 06/08/2017
 ---
 
 

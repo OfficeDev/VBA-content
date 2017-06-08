@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Move
 ms.assetid: 12e60f50-f06d-45bb-b79d-db2e0d767461
+ms.date: 06/08/2017
 ---
 
 

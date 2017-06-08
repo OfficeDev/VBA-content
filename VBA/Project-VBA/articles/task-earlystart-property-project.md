@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.EarlyStart
 ms.assetid: 1bc7f501-8575-c6cf-1f21-82be248ca357
+ms.date: 06/08/2017
 ---
 
 

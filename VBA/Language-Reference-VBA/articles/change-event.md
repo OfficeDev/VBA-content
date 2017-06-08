@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Change
 ms.assetid: 4bf23772-5ae0-dc1d-1152-b7ea01f7e702
+ms.date: 06/08/2017
 ---
 
 

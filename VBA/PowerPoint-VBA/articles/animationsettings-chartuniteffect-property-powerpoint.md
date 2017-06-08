@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.ChartUnitEffect
 ms.assetid: a2b66cf3-c8b9-6b9c-d184-13a828b474b2
+ms.date: 06/08/2017
 ---
 
 

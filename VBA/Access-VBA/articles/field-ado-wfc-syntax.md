@@ -2,6 +2,7 @@
 title: Field (ADO/WFC Syntax)
 ms.prod: ACCESS
 ms.assetid: 61d7028f-ed13-2a20-643d-68d43df91163
+ms.date: 06/08/2017
 ---
 
 

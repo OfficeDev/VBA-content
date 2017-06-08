@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Dialog
 ms.assetid: adabcd3b-fc48-d314-3ae5-f1b2ba148383
+ms.date: 06/08/2017
 ---
 
 

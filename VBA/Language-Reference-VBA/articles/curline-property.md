@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CurLine
 ms.assetid: c154483f-fd12-d090-1643-0182f3895e0b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.AutoFit
 ms.assetid: 53a35cd3-00e7-f9f5-2cd2-8492d7814a11
+ms.date: 06/08/2017
 ---
 
 

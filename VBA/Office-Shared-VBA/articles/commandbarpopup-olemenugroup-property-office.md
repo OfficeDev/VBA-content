@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.OLEMenuGroup
 ms.assetid: 32b1bc39-19bc-d0ed-59b5-2e7fa03f329e
+ms.date: 06/08/2017
 ---
 
 

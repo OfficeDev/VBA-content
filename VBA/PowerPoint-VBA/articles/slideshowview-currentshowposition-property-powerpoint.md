@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.CurrentShowPosition
 ms.assetid: 390eb2c3-059f-f7e9-e91a-0e8cf9a0ddff
+ms.date: 06/08/2017
 ---
 
 

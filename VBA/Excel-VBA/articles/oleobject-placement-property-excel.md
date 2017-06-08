@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.Placement
 ms.assetid: 03cc3dc9-7e91-3410-be95-29e62b09331d
+ms.date: 06/08/2017
 ---
 
 

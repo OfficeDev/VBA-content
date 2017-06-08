@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.CanCheckIn
 ms.assetid: 99922339-631b-f60e-1d07-3ae9df134cf7
+ms.date: 06/08/2017
 ---
 
 

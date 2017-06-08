@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.NegotiateToolbars
 ms.assetid: 25b48ef4-7eec-6dac-aeb7-cae3aed58adf
+ms.date: 06/08/2017
 ---
 
 

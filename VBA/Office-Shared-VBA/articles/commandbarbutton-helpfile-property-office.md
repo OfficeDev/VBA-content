@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.HelpFile
 ms.assetid: 6e97a52d-f50d-600b-26eb-b22988bd5ed5
+ms.date: 06/08/2017
 ---
 
 

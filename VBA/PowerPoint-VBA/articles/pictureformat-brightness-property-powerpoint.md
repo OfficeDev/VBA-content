@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.Brightness
 ms.assetid: 11c01089-a69a-4ad0-ec01-b8d47a9f63f3
+ms.date: 06/08/2017
 ---
 
 

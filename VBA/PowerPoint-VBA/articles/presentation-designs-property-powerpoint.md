@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Designs
 ms.assetid: 5ad47ac9-aaab-3971-1102-fa48e8bcef8b
+ms.date: 06/08/2017
 ---
 
 

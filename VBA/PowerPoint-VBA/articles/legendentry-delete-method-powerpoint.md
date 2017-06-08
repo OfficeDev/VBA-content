@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendEntry.Delete
 ms.assetid: 87dfd818-7315-a610-4da7-ca3b1ff74975
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.NavigateArrow
 ms.assetid: 71e2ce3b-3da8-afd5-7fd3-b922c6f8f1c2
+ms.date: 06/08/2017
 ---
 
 

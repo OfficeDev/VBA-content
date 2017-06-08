@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.Apply
 ms.assetid: c3855dee-c86b-a618-ba3e-968cca87e0e1
+ms.date: 06/08/2017
 ---
 
 

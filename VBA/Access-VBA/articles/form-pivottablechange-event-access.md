@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.PivotTableChange
 ms.assetid: 8b4a8c9a-c8a3-648d-968d-edcb7cb94956
+ms.date: 06/08/2017
 ---
 
 

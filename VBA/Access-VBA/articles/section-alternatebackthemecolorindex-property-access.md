@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.AlternateBackThemeColorIndex
 ms.assetid: 15ef17dd-06fd-db4a-7253-5d193f2e4b9a
+ms.date: 06/08/2017
 ---
 
 

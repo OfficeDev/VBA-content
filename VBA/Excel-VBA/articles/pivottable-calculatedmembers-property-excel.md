@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.CalculatedMembers
 ms.assetid: 65e7ffd6-e01d-f8fc-3adb-a1bcb1046fcf
+ms.date: 06/08/2017
 ---
 
 

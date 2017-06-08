@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ReportTemplate
 ms.assetid: bea2838c-60b1-f33d-1b3d-a12382bbeca6
+ms.date: 06/08/2017
 ---
 
 

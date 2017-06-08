@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectColumn
 ms.assetid: 5bb674e9-253e-355f-a501-d0aeaef56535
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.Left
 ms.assetid: 8cae225d-1919-0c6c-7980-48294fbe8c7a
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PictureEffect.Visible
 ms.assetid: cdfcda14-5d74-c61f-e289-1d53ea3e8e80
+ms.date: 06/08/2017
 ---
 
 

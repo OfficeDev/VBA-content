@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UserAccessList.DeleteAll
 ms.assetid: c162c9cf-8257-e97a-ebe8-ab1d700924ca
+ms.date: 06/08/2017
 ---
 
 

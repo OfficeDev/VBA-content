@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarLinks
 ms.assetid: 80f8fdaa-e08f-3c5e-64dc-43d3dccd7f86
+ms.date: 06/08/2017
 ---
 
 

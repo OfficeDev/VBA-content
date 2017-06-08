@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Charts.Delete
 ms.assetid: 904c4a59-d21b-fa16-c1ea-a175104eaa8c
+ms.date: 06/08/2017
 ---
 
 

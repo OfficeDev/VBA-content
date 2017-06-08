@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.BackColor
 ms.assetid: b4901275-e47c-a074-9f44-b0338677f3ef
+ms.date: 06/08/2017
 ---
 
 

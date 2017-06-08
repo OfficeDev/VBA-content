@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WebOpenSearchPage
 ms.assetid: 61db85dc-5773-57f6-d716-7c0e1db6d86b
+ms.date: 06/08/2017
 ---
 
 

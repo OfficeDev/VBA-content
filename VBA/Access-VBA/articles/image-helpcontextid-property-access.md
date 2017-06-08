@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.HelpContextId
 ms.assetid: 76799f89-978a-4baa-a330-525247c1131d
+ms.date: 06/08/2017
 ---
 
 

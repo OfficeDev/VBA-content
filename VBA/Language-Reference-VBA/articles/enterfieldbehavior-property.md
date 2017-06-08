@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EnterFieldBehavior
 ms.assetid: 6657b5c5-d204-1c5e-c8d7-e84bc51efe15
+ms.date: 06/08/2017
 ---
 
 

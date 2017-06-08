@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCConnection.RefreshPeriod
 ms.assetid: 0e211dad-0ca0-239f-1121-2bae31be2438
+ms.date: 06/08/2017
 ---
 
 

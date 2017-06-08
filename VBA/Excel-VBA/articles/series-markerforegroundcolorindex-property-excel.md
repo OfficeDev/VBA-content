@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.MarkerForegroundColorIndex
 ms.assetid: 6c13b34c-e21c-50d3-302f-ed234b7e2647
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Set the Building Blocks That You Can Use for a Content Control
 ms.prod: WORD
 ms.assetid: 6723a4c4-f96c-7bbd-a978-66602ab693c7
+ms.date: 06/08/2017
 ---
 
 

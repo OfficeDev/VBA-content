@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.GridlineThemeColorIndex
 ms.assetid: 58676faf-b4cb-ce1b-a28c-dd93c491b025
+ms.date: 06/08/2017
 ---
 
 

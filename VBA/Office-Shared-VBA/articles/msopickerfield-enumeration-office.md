@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPickerField
 ms.assetid: 9f38a257-223e-8dfe-8856-094717d5b513
+ms.date: 06/08/2017
 ---
 
 

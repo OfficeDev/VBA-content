@@ -2,6 +2,7 @@
 title: 64-Bit Visual Basic for Applications Overview
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: a44e016f-1019-300e-5150-916ff32f70c1
+ms.date: 06/08/2017
 ---
 
 

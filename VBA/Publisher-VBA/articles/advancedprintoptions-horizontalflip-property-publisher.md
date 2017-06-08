@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.HorizontalFlip
 ms.assetid: afb61c80-4706-8602-e78a-be35e2966c8c
+ms.date: 06/08/2017
 ---
 
 

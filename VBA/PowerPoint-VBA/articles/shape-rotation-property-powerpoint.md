@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Rotation
 ms.assetid: 3ed090a8-d945-85ee-155b-08628feff348
+ms.date: 06/08/2017
 ---
 
 

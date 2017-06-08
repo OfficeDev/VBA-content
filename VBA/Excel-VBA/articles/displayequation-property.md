@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayEquation
 ms.assetid: f3638bfd-d25d-96b4-5c20-2acf8703658d
+ms.date: 06/08/2017
 ---
 
 

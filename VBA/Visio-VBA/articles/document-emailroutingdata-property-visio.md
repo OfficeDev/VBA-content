@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.EmailRoutingData
 ms.assetid: 28dfec3c-d929-efe4-bbac-2816e6b70f0e
+ms.date: 06/08/2017
 ---
 
 

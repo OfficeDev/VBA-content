@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlWebFormatting
 ms.assetid: 535c301d-8f38-360c-bdd0-316ecb074bd5
+ms.date: 06/08/2017
 ---
 
 

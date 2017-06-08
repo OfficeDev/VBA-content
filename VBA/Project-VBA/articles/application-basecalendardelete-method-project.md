@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BaseCalendarDelete
 ms.assetid: f9583bd7-6ddb-7115-b7ca-c0e4e8b033e1
+ms.date: 06/08/2017
 ---
 
 

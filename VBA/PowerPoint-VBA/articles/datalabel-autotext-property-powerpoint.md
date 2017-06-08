@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.AutoText
 ms.assetid: f7e154ad-4f5f-0a3d-3fe5-c83994705cfb
+ms.date: 06/08/2017
 ---
 
 

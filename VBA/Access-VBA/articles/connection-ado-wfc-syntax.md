@@ -2,6 +2,7 @@
 title: Connection (ADO/WFC Syntax)
 ms.prod: ACCESS
 ms.assetid: adead04c-7a49-40b8-6d15-5d19c559b1b2
+ms.date: 06/08/2017
 ---
 
 

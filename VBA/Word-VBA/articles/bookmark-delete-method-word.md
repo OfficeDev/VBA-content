@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Bookmark.Delete
 ms.assetid: d5b43d2b-b605-1631-b111-9ba851d0ef1c
+ms.date: 06/08/2017
 ---
 
 

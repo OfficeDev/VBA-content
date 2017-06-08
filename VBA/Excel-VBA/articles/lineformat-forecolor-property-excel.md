@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.ForeColor
 ms.assetid: f7ba03c1-598e-3ee7-0ff6-e1d2446aba14
+ms.date: 06/08/2017
 ---
 
 

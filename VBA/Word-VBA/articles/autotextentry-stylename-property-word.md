@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoTextEntry.StyleName
 ms.assetid: 0bcb48b2-c131-4bff-732e-ec221f24e463
+ms.date: 06/08/2017
 ---
 
 

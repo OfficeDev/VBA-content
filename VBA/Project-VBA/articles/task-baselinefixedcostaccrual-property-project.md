@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.BaselineFixedCostAccrual
 ms.assetid: 749fd1e0-33f2-7622-bf0f-86abda5d211b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Style
 ms.assetid: def64adc-46db-a54f-539b-fbe8fcc1b22e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayFormat.Orientation
 ms.assetid: e60e9ee7-814e-9649-7eb4-fb7847eaa008
+ms.date: 06/08/2017
 ---
 
 

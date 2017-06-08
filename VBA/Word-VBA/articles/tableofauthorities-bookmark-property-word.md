@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.Bookmark
 ms.assetid: 72cc5292-882c-df16-1b3e-9ed182be7ce7
+ms.date: 06/08/2017
 ---
 
 

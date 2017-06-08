@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.BoundingBox
 ms.assetid: 23ef5e08-fcb4-93e6-2ed5-818d34f99a8e
+ms.date: 06/08/2017
 ---
 
 

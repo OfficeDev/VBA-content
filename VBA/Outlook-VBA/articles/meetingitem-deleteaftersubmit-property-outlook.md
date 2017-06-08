@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.DeleteAfterSubmit
 ms.assetid: 576ca136-8144-dc32-e048-d75a17303740
+ms.date: 06/08/2017
 ---
 
 

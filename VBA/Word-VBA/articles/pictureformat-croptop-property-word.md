@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.CropTop
 ms.assetid: 724fbcad-20e9-896f-c832-1105b4e4d4d0
+ms.date: 06/08/2017
 ---
 
 

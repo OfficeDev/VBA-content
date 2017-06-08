@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Row.Index
 ms.assetid: 16018421-c47a-4375-c8d9-c2f5b8c81a12
+ms.date: 06/08/2017
 ---
 
 

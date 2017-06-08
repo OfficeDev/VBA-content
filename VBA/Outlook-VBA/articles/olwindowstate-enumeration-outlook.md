@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlWindowState
 ms.assetid: cc9860c4-9de6-4dd3-05e5-5b87e6b4bd88
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.DesignModeEntered
 ms.assetid: c8fc31b5-8770-f068-d469-aeb110214824
+ms.date: 06/08/2017
 ---
 
 

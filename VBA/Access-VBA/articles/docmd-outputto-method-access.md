@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.OutputTo
 ms.assetid: 2a21a7c3-0846-cbec-d5dd-a1648f705557
+ms.date: 06/08/2017
 ---
 
 

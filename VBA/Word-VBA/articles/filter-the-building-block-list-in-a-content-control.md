@@ -2,6 +2,7 @@
 title: Filter the Building Block List in a Content Control
 ms.prod: WORD
 ms.assetid: 0eb233f4-f024-27dd-05d0-4f49c26d1bbc
+ms.date: 06/08/2017
 ---
 
 

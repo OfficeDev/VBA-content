@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.HoverShade
 ms.assetid: 9a8b86d0-3849-9902-4dbf-c911c7fbe8e2
+ms.date: 06/08/2017
 ---
 
 

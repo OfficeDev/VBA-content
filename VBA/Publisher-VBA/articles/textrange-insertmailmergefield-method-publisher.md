@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.InsertMailMergeField
 ms.assetid: 97bce07d-b831-3ad6-2436-f85590c3bcd8
+ms.date: 06/08/2017
 ---
 
 

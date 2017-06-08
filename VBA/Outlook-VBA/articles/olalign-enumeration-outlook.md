@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlAlign
 ms.assetid: 9969da94-a084-60a7-6fec-aca029e5b000
+ms.date: 06/08/2017
 ---
 
 

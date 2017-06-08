@@ -2,6 +2,7 @@
 title: ShapeRange.Distribute Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 149081d5-8826-1395-e838-1333a4233981
+ms.date: 06/08/2017
 ---
 
 

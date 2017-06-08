@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shadow
 ms.assetid: 2450bcd9-24fb-57b9-6d73-5ed4abef54d0
+ms.date: 06/08/2017
 ---
 
 

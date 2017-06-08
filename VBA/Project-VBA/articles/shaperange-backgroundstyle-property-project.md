@@ -2,6 +2,7 @@
 title: ShapeRange.BackgroundStyle Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 1c09518c-c30e-3862-2a0f-287e9254ba5d
+ms.date: 06/08/2017
 ---
 
 

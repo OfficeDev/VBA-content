@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CatalogMergeShapes.Range
 ms.assetid: e92dcac4-4694-8a22-61da-09fcd98c72ce
+ms.date: 06/08/2017
 ---
 
 

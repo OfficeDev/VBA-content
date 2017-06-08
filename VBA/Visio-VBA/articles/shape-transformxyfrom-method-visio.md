@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.TransformXYFrom
 ms.assetid: 4676e464-83c7-7ff6-e742-becc41436259
+ms.date: 06/08/2017
 ---
 
 

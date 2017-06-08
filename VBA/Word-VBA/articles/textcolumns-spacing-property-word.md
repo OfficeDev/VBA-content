@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextColumns.Spacing
 ms.assetid: af171eb4-fa49-370c-6a8f-bf95abd57c31
+ms.date: 06/08/2017
 ---
 
 

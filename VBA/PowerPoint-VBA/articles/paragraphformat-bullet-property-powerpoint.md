@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.Bullet
 ms.assetid: 2b997a78-7791-6f08-00af-7143f94457c1
+ms.date: 06/08/2017
 ---
 
 

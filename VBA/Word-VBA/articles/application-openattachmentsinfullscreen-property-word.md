@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.OpenAttachmentsInFullScreen
 ms.assetid: 295af420-fbe0-7753-2f7f-afabb5f0818c
+ms.date: 06/08/2017
 ---
 
 

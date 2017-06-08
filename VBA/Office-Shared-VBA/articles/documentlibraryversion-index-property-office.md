@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentLibraryVersion.Index
 ms.assetid: 36c14aa4-4de9-d712-fe04-22abda8f0189
+ms.date: 06/08/2017
 ---
 
 

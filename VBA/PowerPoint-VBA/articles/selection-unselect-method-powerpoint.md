@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Selection.Unselect
 ms.assetid: 376a6b26-e877-c50c-c4ce-82273afc1fb8
+ms.date: 06/08/2017
 ---
 
 

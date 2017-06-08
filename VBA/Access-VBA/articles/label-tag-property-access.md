@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.Tag
 ms.assetid: 06e1f108-d222-b9d5-1c57-65c3ff13cde2
+ms.date: 06/08/2017
 ---
 
 

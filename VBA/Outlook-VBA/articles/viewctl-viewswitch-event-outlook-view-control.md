@@ -2,6 +2,7 @@
 title: ViewCtl.ViewSwitch Event (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 61fbe037-eb2a-97de-f0f3-58abe7794bc0
+ms.date: 06/08/2017
 ---
 
 

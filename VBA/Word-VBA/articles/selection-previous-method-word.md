@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Previous
 ms.assetid: 85679323-fe2c-f37a-5373-2c9e6d8494eb
+ms.date: 06/08/2017
 ---
 
 

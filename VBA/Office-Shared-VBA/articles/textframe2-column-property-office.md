@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextFrame2.Column
 ms.assetid: a9573a4c-db61-ac40-a931-8e32460d1450
+ms.date: 06/08/2017
 ---
 
 

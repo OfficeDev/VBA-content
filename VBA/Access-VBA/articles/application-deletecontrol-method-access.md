@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DeleteControl
 ms.assetid: f59f9368-0d7a-8e5f-5140-86e2d2c18c22
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Hyperlinks
 ms.assetid: 834448c1-2acf-33b4-15c9-eb485d9c176c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.Creator
 ms.assetid: b2bee17a-490e-ebd5-5e3b-62e154d30a31
+ms.date: 06/08/2017
 ---
 
 

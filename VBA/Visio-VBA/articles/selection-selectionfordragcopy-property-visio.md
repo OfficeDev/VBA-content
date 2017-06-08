@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.SelectionForDragCopy
 ms.assetid: f7e6e87a-c904-6008-fdde-4d5cb124351c
+ms.date: 06/08/2017
 ---
 
 

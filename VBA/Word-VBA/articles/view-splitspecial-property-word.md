@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.SplitSpecial
 ms.assetid: 5ca301aa-737f-3588-9d53-176990206620
+ms.date: 06/08/2017
 ---
 
 

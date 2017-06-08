@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TabOrientation
 ms.assetid: dc84899d-2c50-56d2-5178-f8bfaefaa165
+ms.date: 06/08/2017
 ---
 
 

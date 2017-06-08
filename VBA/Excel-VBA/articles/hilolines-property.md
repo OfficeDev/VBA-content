@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HiLoLines
 ms.assetid: ed2ff722-b477-4346-d807-3d2615abd845
+ms.date: 06/08/2017
 ---
 
 

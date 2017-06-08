@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.HelpContextId
 ms.assetid: 56f41107-92ad-7cb5-f522-7a338f0d8cf9
+ms.date: 06/08/2017
 ---
 
 

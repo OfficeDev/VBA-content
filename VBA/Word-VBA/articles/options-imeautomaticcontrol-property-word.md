@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.IMEAutomaticControl
 ms.assetid: 149a6ac6-e1f6-362d-8df9-05a2f159b1b4
+ms.date: 06/08/2017
 ---
 
 

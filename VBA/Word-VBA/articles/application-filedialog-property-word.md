@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.FileDialog
 ms.assetid: ef478a81-db1d-4bf4-a146-3ff7dd84116b
+ms.date: 06/08/2017
 ---
 
 

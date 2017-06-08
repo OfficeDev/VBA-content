@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.BorderShade
 ms.assetid: d490ce4a-9c25-e6cc-adc4-4a8883167175
+ms.date: 06/08/2017
 ---
 
 

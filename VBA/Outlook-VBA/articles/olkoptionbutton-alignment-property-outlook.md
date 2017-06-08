@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkOptionButton.Alignment
 ms.assetid: 0d6d5ac4-d084-ea7d-80e6-854315f94b90
+ms.date: 06/08/2017
 ---
 
 

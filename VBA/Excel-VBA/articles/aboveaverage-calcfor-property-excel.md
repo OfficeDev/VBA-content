@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage.CalcFor
 ms.assetid: 9a9e04df-f3f8-2daa-b58c-3245f4bfe6c9
+ms.date: 06/08/2017
 ---
 
 

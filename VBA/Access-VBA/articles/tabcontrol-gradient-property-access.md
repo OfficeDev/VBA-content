@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Gradient
 ms.assetid: 0fa97694-025d-4064-5fc1-d95d873ad3fc
+ms.date: 06/08/2017
 ---
 
 

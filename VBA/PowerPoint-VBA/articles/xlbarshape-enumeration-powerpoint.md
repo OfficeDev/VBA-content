@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlBarShape
 ms.assetid: 3e3e515e-1bd4-f8ee-262b-848e4ad7da77
+ms.date: 06/08/2017
 ---
 
 

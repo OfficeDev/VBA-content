@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.Parent
 ms.assetid: d03ca579-3739-a8ef-fda7-650aa7d7d2d1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.RemoveMembers
 ms.assetid: 7212e075-9982-57c8-ac22-a62d3e5b3d2c
+ms.date: 06/08/2017
 ---
 
 

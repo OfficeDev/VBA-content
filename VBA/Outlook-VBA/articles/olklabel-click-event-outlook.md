@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkLabel.Click
 ms.assetid: b710b1dd-d8d7-9236-5217-6059d2623393
+ms.date: 06/08/2017
 ---
 
 

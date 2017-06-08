@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.EventProcPrefix
 ms.assetid: 7a7781fb-e715-b44c-39ac-6763114ab848
+ms.date: 06/08/2017
 ---
 
 

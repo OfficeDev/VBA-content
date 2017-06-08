@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.Execute
 ms.assetid: 13ec7924-2420-c0c0-750f-4dae8b8e1503
+ms.date: 06/08/2017
 ---
 
 

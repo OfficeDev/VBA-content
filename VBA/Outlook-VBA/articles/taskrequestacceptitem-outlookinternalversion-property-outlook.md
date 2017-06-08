@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.OutlookInternalVersion
 ms.assetid: 78e9e3dc-a9e9-23ca-a234-ee7b24375dae
+ms.date: 06/08/2017
 ---
 
 

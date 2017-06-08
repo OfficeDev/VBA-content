@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OpenServerPage
 ms.assetid: 6b7e18fd-2ae1-47a0-45fb-58d6b6e27074
+ms.date: 06/08/2017
 ---
 
 

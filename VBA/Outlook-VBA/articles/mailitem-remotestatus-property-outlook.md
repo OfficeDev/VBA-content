@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.RemoteStatus
 ms.assetid: f68f2176-0725-2cdf-572e-3b9f7bea8cb4
+ms.date: 06/08/2017
 ---
 
 

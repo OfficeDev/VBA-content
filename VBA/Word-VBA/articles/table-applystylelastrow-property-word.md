@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.ApplyStyleLastRow
 ms.assetid: 007ac0c4-bec8-9c48-99e2-017567415193
+ms.date: 06/08/2017
 ---
 
 

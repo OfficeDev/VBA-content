@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.KeyDown
 ms.assetid: d8679dab-c3bf-8494-a91d-3c107596c8ce
+ms.date: 06/08/2017
 ---
 
 

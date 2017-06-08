@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivision.Range
 ms.assetid: 53687058-2a1c-cbd6-3e4a-9e64aaa020b8
+ms.date: 06/08/2017
 ---
 
 

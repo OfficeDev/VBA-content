@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.PickerDialog
 ms.assetid: 1d3de67e-6760-1b5d-9ff6-fccb2de32455
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Items.GetNext
 ms.assetid: 01c49c21-d9f9-37c4-8c64-ff8e2b1f9462
+ms.date: 06/08/2017
 ---
 
 

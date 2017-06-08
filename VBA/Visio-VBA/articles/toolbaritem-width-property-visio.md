@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ToolbarItem.Width
 ms.assetid: 0abaf4db-7190-f9c2-f974-0a6a3360cb75
+ms.date: 06/08/2017
 ---
 
 

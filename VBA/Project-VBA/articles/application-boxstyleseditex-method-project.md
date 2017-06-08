@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxStylesEditEx
 ms.assetid: 8a473e08-7893-6871-d015-23e1791e67e3
+ms.date: 06/08/2017
 ---
 
 

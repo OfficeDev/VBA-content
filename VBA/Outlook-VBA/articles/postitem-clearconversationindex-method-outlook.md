@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.ClearConversationIndex
 ms.assetid: 25999025-52f9-8cc9-108f-e3898c2c2b24
+ms.date: 06/08/2017
 ---
 
 

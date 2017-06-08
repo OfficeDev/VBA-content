@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.Filter
 ms.assetid: 7e65e578-5f0c-d875-608c-cefe9bc1b55b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TableStyle.Duplicate
 ms.assetid: 60f807ff-2f4f-137d-54d7-37b168dbc8c7
+ms.date: 06/08/2017
 ---
 
 

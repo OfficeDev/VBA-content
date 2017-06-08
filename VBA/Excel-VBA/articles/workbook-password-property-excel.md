@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Password
 ms.assetid: 5eaaf8cd-4344-946e-ecfa-c0f48946d2f2
+ms.date: 06/08/2017
 ---
 
 

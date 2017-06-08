@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Top10.Rank
 ms.assetid: a3245519-8fa3-d9cb-ace9-22d78893c0fa
+ms.date: 06/08/2017
 ---
 
 

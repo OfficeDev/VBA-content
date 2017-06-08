@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CurrentProject.AllMacros
 ms.assetid: 73c01f69-530b-eb7f-8f77-ecf47e9c2d2f
+ms.date: 06/08/2017
 ---
 
 

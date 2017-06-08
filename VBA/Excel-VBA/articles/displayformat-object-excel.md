@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayFormat
 ms.assetid: c70b5d7f-adf1-e539-a32d-12c920af7c7e
+ms.date: 06/08/2017
 ---
 
 

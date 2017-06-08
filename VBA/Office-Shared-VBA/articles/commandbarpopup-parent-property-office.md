@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Parent
 ms.assetid: 1bb8a043-1ad2-28d2-8c48-8426ef24579e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ProtectedViewWindow.Caption
 ms.assetid: ec8d2b22-34b6-2685-6ab5-74eb48b1dfb0
+ms.date: 06/08/2017
 ---
 
 

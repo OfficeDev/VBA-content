@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MovedSelectionEvent.ReplacementShape
 ms.assetid: 1264b9c3-72bb-1f2f-3e7c-df394468143c
+ms.date: 06/08/2017
 ---
 
 

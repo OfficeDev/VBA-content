@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartObject.Cut
 ms.assetid: 7d6cc489-72db-6c6b-65d4-8192ee99d34c
+ms.date: 06/08/2017
 ---
 
 

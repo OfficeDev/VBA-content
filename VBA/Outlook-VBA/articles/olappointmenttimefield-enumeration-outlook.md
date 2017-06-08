@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlAppointmentTimeField
 ms.assetid: 630706ba-c98a-e6de-73ce-c7071e0d1db2
+ms.date: 06/08/2017
 ---
 
 

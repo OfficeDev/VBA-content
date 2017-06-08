@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Hyperlinks
 ms.assetid: b8db5b89-0a2a-ffe9-c353-1fa77190af75
+ms.date: 06/08/2017
 ---
 
 

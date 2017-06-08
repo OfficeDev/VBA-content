@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Connects.Document
 ms.assetid: 7a161248-2bf5-42e7-772d-e0f4de979776
+ms.date: 06/08/2017
 ---
 
 

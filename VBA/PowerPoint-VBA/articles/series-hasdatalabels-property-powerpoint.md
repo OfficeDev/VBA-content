@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.HasDataLabels
 ms.assetid: b0b9bd37-7416-9903-d656-c4e468a9e481
+ms.date: 06/08/2017
 ---
 
 

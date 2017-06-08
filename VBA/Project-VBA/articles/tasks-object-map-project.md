@@ -2,6 +2,7 @@
 title: Tasks object map (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: c6f63588-37bb-b5d9-c28d-d0a133e22b77
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.CopyStylesFromTemplate
 ms.assetid: f02fbce7-f5aa-d71d-9043-f151f26bc9ec
+ms.date: 06/08/2017
 ---
 
 

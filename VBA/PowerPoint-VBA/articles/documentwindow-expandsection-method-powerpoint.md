@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.ExpandSection
 ms.assetid: bf4548ea-1459-9a2e-ad5a-e7d16c1b312d
+ms.date: 06/08/2017
 ---
 
 

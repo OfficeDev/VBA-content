@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.CellChanged
 ms.assetid: 0abb97fc-ffd6-02ef-b9b3-bbad421c1daf
+ms.date: 06/08/2017
 ---
 
 

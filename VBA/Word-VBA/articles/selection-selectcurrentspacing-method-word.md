@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.SelectCurrentSpacing
 ms.assetid: 1a49caa6-d261-e9d7-9d64-c564c30a7e29
+ms.date: 06/08/2017
 ---
 
 

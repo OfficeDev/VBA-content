@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ViewSingle.Group
 ms.assetid: 3dec1632-1b5b-4aed-e0a9-f660bd606ba2
+ms.date: 06/08/2017
 ---
 
 

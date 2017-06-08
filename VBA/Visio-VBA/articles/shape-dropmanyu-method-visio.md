@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DropManyU
 ms.assetid: b3e18874-bb90-334f-e633-3e20133242a1
+ms.date: 06/08/2017
 ---
 
 

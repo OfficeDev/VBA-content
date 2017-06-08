@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PresetTexture
 ms.assetid: 5b471290-66f4-3504-096b-70265db88b93
+ms.date: 06/08/2017
 ---
 
 

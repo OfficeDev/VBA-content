@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.IconView.GoToDate
 ms.assetid: aef21294-fddd-0dac-fdf1-262e7f28623b
+ms.date: 06/08/2017
 ---
 
 

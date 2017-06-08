@@ -2,6 +2,7 @@
 title: Chart.BarShape Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: a8259558-5541-65a8-8366-ae391bc943bd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.AllowMultipleSelection
 ms.assetid: e8b67f2a-b6c1-16af-6762-801536d4f93f
+ms.date: 06/08/2017
 ---
 
 

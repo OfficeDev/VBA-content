@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressEntry.Delete
 ms.assetid: 5aea93e6-cf3f-897a-41dd-5c5bfd59d4bb
+ms.date: 06/08/2017
 ---
 
 

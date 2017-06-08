@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Zoom.PageFit
 ms.assetid: ead399ec-f05f-0f28-4337-726fa3b04146
+ms.date: 06/08/2017
 ---
 
 

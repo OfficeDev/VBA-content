@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathNary.HideSub
 ms.assetid: 0972c505-c1ed-c0b5-1ca2-f130f4c92844
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureInfo.SelectSignatureCertificate
 ms.assetid: acf3993f-85b3-a455-e3ee-1a713e7787c6
+ms.date: 06/08/2017
 ---
 
 

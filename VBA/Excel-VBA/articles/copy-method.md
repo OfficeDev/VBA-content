@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Copy
 ms.assetid: 2207804d-0003-5c75-afa8-a718efba0c2c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.Window
 ms.assetid: 6b693eb6-51c0-8bc7-69d4-f5f4fc921d68
+ms.date: 06/08/2017
 ---
 
 

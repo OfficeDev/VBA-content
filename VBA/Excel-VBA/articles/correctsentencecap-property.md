@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CorrectSentenceCap
 ms.assetid: f0f5920d-fb2e-3a06-35ca-0e67202df6db
+ms.date: 06/08/2017
 ---
 
 

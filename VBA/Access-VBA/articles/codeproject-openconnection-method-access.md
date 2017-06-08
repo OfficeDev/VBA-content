@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CodeProject.OpenConnection
 ms.assetid: ed67b379-20aa-0d4c-11e0-3bb2fbe4ff06
+ms.date: 06/08/2017
 ---
 
 

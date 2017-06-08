@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Radians
 ms.assetid: df1b0d2a-d26b-dc2b-410c-75c4e870dd2c
+ms.date: 06/08/2017
 ---
 
 

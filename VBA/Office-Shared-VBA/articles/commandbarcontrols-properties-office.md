@@ -2,6 +2,7 @@
 title: CommandBarControls Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 5946583a-2cb9-4684-8699-da262eaffc8e
+ms.date: 06/08/2017
 ---
 
 

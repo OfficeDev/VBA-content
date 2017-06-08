@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.Weight
 ms.assetid: e875fbac-10a5-4285-3565-0b9f05c83d42
+ms.date: 06/08/2017
 ---
 
 

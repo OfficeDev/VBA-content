@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureInfo.ReadOnly
 ms.assetid: 047fe3f8-825b-ae30-ba8d-adcb434b20d3
+ms.date: 06/08/2017
 ---
 
 

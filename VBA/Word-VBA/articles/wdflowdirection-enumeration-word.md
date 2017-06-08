@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFlowDirection
 ms.assetid: ee1186aa-1f7f-79b3-c864-619d100fbae8
+ms.date: 06/08/2017
 ---
 
 

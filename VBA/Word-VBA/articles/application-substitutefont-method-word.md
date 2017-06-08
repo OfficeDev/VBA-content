@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.SubstituteFont
 ms.assetid: 2563bf9a-31ea-4104-b26b-538eb7e27f85
+ms.date: 06/08/2017
 ---
 
 

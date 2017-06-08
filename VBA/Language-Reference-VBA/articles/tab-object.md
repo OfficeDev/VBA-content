@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Tab
 ms.assetid: 3ac18010-5e79-c52b-e2ae-0fcd3acdd7b9
+ms.date: 06/08/2017
 ---
 
 

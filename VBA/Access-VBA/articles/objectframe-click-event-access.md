@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.Click
 ms.assetid: 78a80855-693e-6e6a-59c9-963802dd3b5d
+ms.date: 06/08/2017
 ---
 
 

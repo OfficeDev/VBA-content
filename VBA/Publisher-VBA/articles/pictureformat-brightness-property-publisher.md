@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.Brightness
 ms.assetid: bed1cd25-faee-6fb9-4bb3-5bdaf148b62e
+ms.date: 06/08/2017
 ---
 
 

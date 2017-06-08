@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.Creator
 ms.assetid: 08cd4c8d-0a3c-4746-d339-01d03fb277a7
+ms.date: 06/08/2017
 ---
 
 

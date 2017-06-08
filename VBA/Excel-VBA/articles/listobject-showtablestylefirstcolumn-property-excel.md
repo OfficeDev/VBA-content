@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.ShowTableStyleFirstColumn
 ms.assetid: 15b7b5bb-ee5b-98c2-90da-d06116426e30
+ms.date: 06/08/2017
 ---
 
 

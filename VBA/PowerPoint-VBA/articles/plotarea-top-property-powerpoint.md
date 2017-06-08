@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlotArea.Top
 ms.assetid: 3f3d60e4-d76a-f39c-a562-7b1212f5e966
+ms.date: 06/08/2017
 ---
 
 

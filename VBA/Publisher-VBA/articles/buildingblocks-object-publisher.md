@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BuildingBlocks
 ms.assetid: 05841850-c5a1-f1f0-6a57-a4f16e76a1df
+ms.date: 06/08/2017
 ---
 
 

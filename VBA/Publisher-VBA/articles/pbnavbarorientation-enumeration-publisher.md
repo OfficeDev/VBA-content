@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbNavBarOrientation
 ms.assetid: ca999355-f53e-f506-5be9-a2dd415ce1bb
+ms.date: 06/08/2017
 ---
 
 

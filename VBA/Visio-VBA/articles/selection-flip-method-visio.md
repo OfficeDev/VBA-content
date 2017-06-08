@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Flip
 ms.assetid: 40ad506b-e5e2-4a42-6b38-0363e462fce4
+ms.date: 06/08/2017
 ---
 
 

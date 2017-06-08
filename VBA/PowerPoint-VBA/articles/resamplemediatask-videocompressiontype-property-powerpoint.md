@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTask.VideoCompressionType
 ms.assetid: b7cef799-6448-99be-acd2-012e72d171a6
+ms.date: 06/08/2017
 ---
 
 

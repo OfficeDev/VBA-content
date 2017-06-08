@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.GridlineWidthRight
 ms.assetid: 743ab25e-44ae-b5d1-7c7b-4f31a91a8f17
+ms.date: 06/08/2017
 ---
 
 

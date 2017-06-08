@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.IsTrusted
 ms.assetid: 4caeb41a-9cc3-1195-22a9-ad8eae12ce53
+ms.date: 06/08/2017
 ---
 
 

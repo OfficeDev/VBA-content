@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Rollup
 ms.assetid: 8f29afc1-85ec-d835-bc08-7311e9063ae4
+ms.date: 06/08/2017
 ---
 
 

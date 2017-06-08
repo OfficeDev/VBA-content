@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoRecolorType
 ms.assetid: 989e4451-e7d5-cd9a-a295-f752ae89f4f1
+ms.date: 06/08/2017
 ---
 
 

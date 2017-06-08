@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Underline
 ms.assetid: 82eb4816-bf37-8a6c-046c-a38ea5c275c2
+ms.date: 06/08/2017
 ---
 
 

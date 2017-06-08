@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.Scale
 ms.assetid: 6a261d1d-9474-7374-f399-4d46e404058b
+ms.date: 06/08/2017
 ---
 
 

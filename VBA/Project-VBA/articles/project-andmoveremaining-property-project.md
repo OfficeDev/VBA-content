@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.AndMoveRemaining
 ms.assetid: 4ad6b54e-f5b0-b1dc-866f-04ff750300e5
+ms.date: 06/08/2017
 ---
 
 

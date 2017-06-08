@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.Application
 ms.assetid: 7e954b5a-0969-d20d-d5c0-546cc4acfe61
+ms.date: 06/08/2017
 ---
 
 

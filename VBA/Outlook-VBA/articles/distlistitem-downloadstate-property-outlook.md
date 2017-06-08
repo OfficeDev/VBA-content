@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.DownloadState
 ms.assetid: caaf02de-0a33-6b5a-7546-46b4672d5a58
+ms.date: 06/08/2017
 ---
 
 

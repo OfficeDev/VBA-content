@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.PropertyChange
 ms.assetid: 630d4423-cb56-eef0-e1b1-1afe227c140d
+ms.date: 06/08/2017
 ---
 
 

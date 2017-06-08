@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.SelectAllItems
 ms.assetid: 05b3169a-5f27-2169-5ac5-1d64951d6430
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UserAccessList
 ms.assetid: 8b753ffc-e4d5-0824-e465-a3bdb9ed9202
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoSegmentType
 ms.assetid: 1a015227-8090-52a7-24f9-71d7e34fd05d
+ms.date: 06/08/2017
 ---
 
 

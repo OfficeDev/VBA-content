@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.KeyboardBidi
 ms.assetid: 5c54dcc0-8499-27f8-4b79-44764526d43b
+ms.date: 06/08/2017
 ---
 
 

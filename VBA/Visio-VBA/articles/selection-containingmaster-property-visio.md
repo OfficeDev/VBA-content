@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.ContainingMaster
 ms.assetid: 9eae609f-2d55-2180-ea9b-cf1f8ec7b7b3
+ms.date: 06/08/2017
 ---
 
 

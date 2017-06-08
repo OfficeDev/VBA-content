@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Columns.DistributeWidth
 ms.assetid: 91123d8e-faf0-79e5-ecc4-fabe68911b6c
+ms.date: 06/08/2017
 ---
 
 

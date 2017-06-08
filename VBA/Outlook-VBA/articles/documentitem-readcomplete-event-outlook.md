@@ -1,6 +1,7 @@
 ---
 title: DocumentItem.ReadComplete Event (Outlook)
 ms.assetid: 5a47b0f4-dfa9-9cf6-8efa-7ab45c1f90d7
+ms.date: 06/08/2017
 ---
 
 

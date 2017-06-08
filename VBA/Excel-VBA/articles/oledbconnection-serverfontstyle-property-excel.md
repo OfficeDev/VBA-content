@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEDBConnection.ServerFontStyle
 ms.assetid: 5c45fea6-4e1b-6c21-785d-4a3e9f39dd5a
+ms.date: 06/08/2017
 ---
 
 

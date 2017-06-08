@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Legend.Height
 ms.assetid: 1e7da77e-b994-0524-0082-4a4e2d4a1499
+ms.date: 06/08/2017
 ---
 
 

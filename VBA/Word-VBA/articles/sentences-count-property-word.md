@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sentences.Count
 ms.assetid: e122ea1d-44e2-5f06-47e2-5058339efe0a
+ms.date: 06/08/2017
 ---
 
 

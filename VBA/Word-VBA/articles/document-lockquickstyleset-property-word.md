@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.LockQuickStyleSet
 ms.assetid: df5d9ecf-8aee-78d7-f64d-fb7cf0959563
+ms.date: 06/08/2017
 ---
 
 

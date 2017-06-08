@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfFigures.LowerHeadingLevel
 ms.assetid: 5408cb26-a24b-4898-bf38-021357ce1633
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IRTDUpdateEvent
 ms.assetid: 8ac58d69-194b-e35a-44bc-7c0994b296ac
+ms.date: 06/08/2017
 ---
 
 

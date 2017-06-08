@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.CoupDayBs
 ms.assetid: 8a7dec08-dac1-5bff-ba68-017b5a018cdc
+ms.date: 06/08/2017
 ---
 
 

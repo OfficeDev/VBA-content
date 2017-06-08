@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotLine.Application
 ms.assetid: 3aca51ef-fb63-7921-4ac5-2ae0fc60097b
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Add "(All)" to a Combo Box or List Box
 ms.prod: ACCESS
 ms.assetid: f246db25-84b1-736f-8a79-16b9eea9cbda
+ms.date: 06/08/2017
 ---
 
 

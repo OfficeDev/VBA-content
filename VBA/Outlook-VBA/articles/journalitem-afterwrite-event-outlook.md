@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.AfterWrite
 ms.assetid: ba3bbc09-8f12-3f20-88ea-c9ed601e3ce0
+ms.date: 06/08/2017
 ---
 
 

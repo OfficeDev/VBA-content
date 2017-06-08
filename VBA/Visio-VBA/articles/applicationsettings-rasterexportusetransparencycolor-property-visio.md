@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.RasterExportUseTransparencyColor
 ms.assetid: 1fd93b1b-8b35-a82a-17f5-0fa2ffa819a7
+ms.date: 06/08/2017
 ---
 
 

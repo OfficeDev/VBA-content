@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatApplyLists
 ms.assetid: f5d2e1d2-01f8-c3ca-565c-d8cf767741bd
+ms.date: 06/08/2017
 ---
 
 

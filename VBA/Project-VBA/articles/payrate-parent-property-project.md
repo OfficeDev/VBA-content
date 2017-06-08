@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PayRate.Parent
 ms.assetid: ba02dc16-31dc-2842-2438-e24e292d19d1
+ms.date: 06/08/2017
 ---
 
 

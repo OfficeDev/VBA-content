@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.DisplayRulers
 ms.assetid: 4e1f2dd1-641b-4fe7-c801-febba26372ec
+ms.date: 06/08/2017
 ---
 
 

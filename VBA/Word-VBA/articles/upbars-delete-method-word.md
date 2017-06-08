@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.UpBars.Delete
 ms.assetid: 80e83260-1a81-243e-5e77-483b1131856b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.ShrinkDiscontiguousSelection
 ms.assetid: ce703cb4-8a20-b59d-ccf7-c0c93327a9ca
+ms.date: 06/08/2017
 ---
 
 

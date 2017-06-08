@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.EnableMisusedWordsDictionary
 ms.assetid: 53ec74bd-d1fb-39ee-6ddb-4cca840c13dd
+ms.date: 06/08/2017
 ---
 
 

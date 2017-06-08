@@ -2,6 +2,7 @@
 title: Project.IsCheckoutMsgBarVisible Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 7d3ef8b3-36c1-d1f1-6c10-ad82573f9d08
+ms.date: 06/08/2017
 ---
 
 

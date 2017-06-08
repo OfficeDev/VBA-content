@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.PathFormat
 ms.assetid: 43c83e42-4439-8806-0fbe-688359521426
+ms.date: 06/08/2017
 ---
 
 

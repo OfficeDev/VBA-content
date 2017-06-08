@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.WordWrap
 ms.assetid: d7e4da55-8ef8-55f5-ad4d-8dc487b737ce
+ms.date: 06/08/2017
 ---
 
 

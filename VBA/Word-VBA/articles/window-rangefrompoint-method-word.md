@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.RangeFromPoint
 ms.assetid: 27c6ed94-0b47-3e0d-701f-09e72b115910
+ms.date: 06/08/2017
 ---
 
 

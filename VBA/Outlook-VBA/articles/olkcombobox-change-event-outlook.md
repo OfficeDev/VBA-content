@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.Change
 ms.assetid: bf283711-32d8-4cfc-f861-12ed2f38bcfa
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: IBlogExtensibility Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 55f27978-9b18-f9a5-c276-298b2539ec3c
+ms.date: 06/08/2017
 ---
 
 

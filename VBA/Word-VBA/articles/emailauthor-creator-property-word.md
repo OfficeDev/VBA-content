@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailAuthor.Creator
 ms.assetid: d7c6eeff-91be-404f-789d-77134ceeedc7
+ms.date: 06/08/2017
 ---
 
 

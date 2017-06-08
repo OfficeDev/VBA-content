@@ -2,6 +2,7 @@
 title: Setting Properties and Options
 ms.prod: ACCESS
 ms.assetid: ab92500b-acb9-487f-9740-4b9fea41fc26
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathArgs.Item
 ms.assetid: e43a083e-40c1-415d-a14e-4d1c6785a58e
+ms.date: 06/08/2017
 ---
 
 

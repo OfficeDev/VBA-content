@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Close
 ms.assetid: be453441-fd51-0dc8-5de0-dc636946be05
+ms.date: 06/08/2017
 ---
 
 

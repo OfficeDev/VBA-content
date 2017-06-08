@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.Pagination
 ms.assetid: 885a621c-a1fd-e428-80a8-c0a7ca904a22
+ms.date: 06/08/2017
 ---
 
 

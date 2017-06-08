@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TabStop2.Type
 ms.assetid: 92340c90-863a-b06f-2f2f-607e9092e95a
+ms.date: 06/08/2017
 ---
 
 

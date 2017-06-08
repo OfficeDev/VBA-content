@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AccountSelector
 ms.assetid: 846f176e-5680-a214-7624-75f3a524c989
+ms.date: 06/08/2017
 ---
 
 

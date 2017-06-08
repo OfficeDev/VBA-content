@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileColumnDataTypes
 ms.assetid: 05445aaf-df9c-5981-7803-639c80460906
+ms.date: 06/08/2017
 ---
 
 

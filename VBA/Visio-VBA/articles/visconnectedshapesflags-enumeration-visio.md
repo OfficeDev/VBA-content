@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisConnectedShapesFlags
 ms.assetid: 00cf06f7-8161-8b56-9f3f-bed817789895
+ms.date: 06/08/2017
 ---
 
 

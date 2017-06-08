@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.OnDocumentComplete
 ms.assetid: ea2457e0-2f2d-3ee6-7e6e-c0033de0731c
+ms.date: 06/08/2017
 ---
 
 

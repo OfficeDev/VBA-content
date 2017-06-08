@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tasks.Count
 ms.assetid: 7013acbb-c2ff-a989-a182-83c55b596ec6
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ListParagraphs Object (Word)
 ms.prod: WORD
 ms.assetid: 759c510b-bca1-0b4b-005c-5a3783dd8e96
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.GlobalAppointmentID
 ms.assetid: 3a5e210a-5298-8977-d6e4-dc49a59bdd78
+ms.date: 06/08/2017
 ---
 
 

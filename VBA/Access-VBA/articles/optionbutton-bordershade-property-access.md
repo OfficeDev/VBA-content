@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.BorderShade
 ms.assetid: b0bf4c1f-f3e9-ee11-4a53-d834c40a7c63
+ms.date: 06/08/2017
 ---
 
 

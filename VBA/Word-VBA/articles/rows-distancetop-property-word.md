@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rows.DistanceTop
 ms.assetid: 50ff15c4-708b-d8a1-9040-83f59dcf766c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.ShowCatalogUI
 ms.assetid: 8a5a3798-4b95-d77f-70f6-d69dd9dc8f99
+ms.date: 06/08/2017
 ---
 
 

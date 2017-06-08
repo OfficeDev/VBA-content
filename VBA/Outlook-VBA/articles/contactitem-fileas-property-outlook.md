@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.FileAs
 ms.assetid: 65ea6d2e-17ef-5de8-adfb-2b1aebfbd9fd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.TransferSize
 ms.assetid: 186ca6ef-7b72-8541-25af-703ebf8ebb72
+ms.date: 06/08/2017
 ---
 
 

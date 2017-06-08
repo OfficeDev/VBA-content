@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFont.Italic
 ms.assetid: c62ad4c5-c7b3-58d8-8d37-540a8a123ce2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.AfterUpdate
 ms.assetid: ae34fff1-4521-4ec3-707a-f1f2c49f7946
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PaperWidth
 ms.assetid: e43d7d44-31ad-24e3-79e4-6005cbd65612
+ms.date: 06/08/2017
 ---
 
 

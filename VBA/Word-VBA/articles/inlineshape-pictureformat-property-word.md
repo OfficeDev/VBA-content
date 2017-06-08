@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.PictureFormat
 ms.assetid: 2fe4c4a3-9dbf-e882-4c6c-e4ee4c3880f5
+ms.date: 06/08/2017
 ---
 
 

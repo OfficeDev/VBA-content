@@ -2,6 +2,7 @@
 title: Command (Visual C++ Syntax Index with import)
 ms.prod: ACCESS
 ms.assetid: 9c3763f1-6242-a69c-bc2a-9d885f2b122a
+ms.date: 06/08/2017
 ---
 
 

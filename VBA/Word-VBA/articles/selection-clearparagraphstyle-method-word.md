@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.ClearParagraphStyle
 ms.assetid: cfbafeac-99e1-5fae-a9a0-8cf8836add94
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: SignatureInfo Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d078caa1-31e5-4b3d-91d1-bdbd89b2770e
+ms.date: 06/08/2017
 ---
 
 

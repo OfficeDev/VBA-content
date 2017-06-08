@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMat.Align
 ms.assetid: 0bd58931-706e-1af5-5d14-801e941a1acc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.MoveDown
 ms.assetid: d3ea31e8-04a5-c342-24ca-c93ac1a1258e
+ms.date: 06/08/2017
 ---
 
 

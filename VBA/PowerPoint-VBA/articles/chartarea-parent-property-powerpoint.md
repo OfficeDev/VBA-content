@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartArea.Parent
 ms.assetid: 6e720423-30f2-dc6d-278d-329eb2938531
+ms.date: 06/08/2017
 ---
 
 

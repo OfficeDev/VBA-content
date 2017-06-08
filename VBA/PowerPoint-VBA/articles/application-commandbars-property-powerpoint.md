@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.CommandBars
 ms.assetid: 3ba8a827-f585-b4f5-4ba0-20a0d791216c
+ms.date: 06/08/2017
 ---
 
 

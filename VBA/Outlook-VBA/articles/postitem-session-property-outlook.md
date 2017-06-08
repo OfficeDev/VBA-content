@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Session
 ms.assetid: 53dc4396-598e-197b-cea1-135e44686b91
+ms.date: 06/08/2017
 ---
 
 

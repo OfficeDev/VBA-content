@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.Body
 ms.assetid: e8e92565-d86d-8306-3281-cefa42f5ffd6
+ms.date: 06/08/2017
 ---
 
 

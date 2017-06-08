@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentInspectors.Item
 ms.assetid: 9f095ade-0e78-7158-b09e-ff068ebff20b
+ms.date: 06/08/2017
 ---
 
 

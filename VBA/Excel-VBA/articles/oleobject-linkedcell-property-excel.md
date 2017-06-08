@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.LinkedCell
 ms.assetid: 6f45dffd-5d16-de5a-ec7c-7fd45f1116f0
+ms.date: 06/08/2017
 ---
 
 

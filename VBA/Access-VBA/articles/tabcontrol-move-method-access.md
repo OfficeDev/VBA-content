@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Move
 ms.assetid: 525b3387-b60d-ea85-b1c9-dca1751c81d3
+ms.date: 06/08/2017
 ---
 
 

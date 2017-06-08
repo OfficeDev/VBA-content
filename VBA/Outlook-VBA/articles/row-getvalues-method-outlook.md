@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Row.GetValues
 ms.assetid: 1f92e0ab-9ba8-9cc6-51e8-05cc145a93bf
+ms.date: 06/08/2017
 ---
 
 

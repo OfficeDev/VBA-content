@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.ColumnHeads
 ms.assetid: f318f924-2629-8a7a-90b0-3ab386e50a22
+ms.date: 06/08/2017
 ---
 
 

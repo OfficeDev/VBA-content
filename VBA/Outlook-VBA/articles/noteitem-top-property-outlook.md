@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Top
 ms.assetid: 74326198-880a-fe3f-df79-81be1748f7c4
+ms.date: 06/08/2017
 ---
 
 

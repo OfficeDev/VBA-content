@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.BackgroundColorGradient
 ms.assetid: a23e1075-9a3f-e04a-c6eb-8e4d983b8970
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: CommandButton.BackColor Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 099345c2-7b84-9c27-9d21-45d489b5a6e7
+ms.date: 06/08/2017
 ---
 
 

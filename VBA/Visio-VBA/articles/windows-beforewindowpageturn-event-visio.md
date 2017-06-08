@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Windows.BeforeWindowPageTurn
 ms.assetid: e74bbab7-af7b-19ef-af82-3f21b55a9292
+ms.date: 06/08/2017
 ---
 
 

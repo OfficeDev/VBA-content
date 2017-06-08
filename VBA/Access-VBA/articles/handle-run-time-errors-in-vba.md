@@ -2,6 +2,7 @@
 title: Handle Run-Time Errors in VBA
 ms.prod: ACCESS
 ms.assetid: 4920479c-f597-bcff-dfd5-9ba5c34ee774
+ms.date: 06/08/2017
 ---
 
 

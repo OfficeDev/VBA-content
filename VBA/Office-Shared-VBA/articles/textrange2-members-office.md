@@ -2,6 +2,7 @@
 title: TextRange2 Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 26daffff-b9ef-fd94-f5b7-ed3a09840cb6
+ms.date: 06/08/2017
 ---
 
 

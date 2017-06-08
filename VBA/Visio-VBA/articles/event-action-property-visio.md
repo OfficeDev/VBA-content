@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Event.Action
 ms.assetid: dd776f54-051c-13c3-433e-299687203381
+ms.date: 06/08/2017
 ---
 
 

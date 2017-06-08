@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Sync
 ms.assetid: cc46cfdf-ae26-9bba-7084-64349859d304
+ms.date: 06/08/2017
 ---
 
 

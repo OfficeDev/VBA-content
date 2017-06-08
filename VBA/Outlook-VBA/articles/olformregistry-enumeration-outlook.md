@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormRegistry
 ms.assetid: 2d1076ae-0984-da03-a7ec-f083dc9d9e46
+ms.date: 06/08/2017
 ---
 
 

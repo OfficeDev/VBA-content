@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.TopPadding
 ms.assetid: 005453cf-019e-c404-3114-c555cf5a1310
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceFile.Delete
 ms.assetid: a67423f0-4b35-2a77-b495-ad4ae5cf2c25
+ms.date: 06/08/2017
 ---
 
 

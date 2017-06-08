@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineNumbering.RestartMode
 ms.assetid: f812d5ab-4921-5d6e-a2f8-51d324c29333
+ms.date: 06/08/2017
 ---
 
 

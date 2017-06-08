@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.OnKeyUp
 ms.assetid: dc4ad60c-4ba5-bf80-2e83-ee75da462e27
+ms.date: 06/08/2017
 ---
 
 

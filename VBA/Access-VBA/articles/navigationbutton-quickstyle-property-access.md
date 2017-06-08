@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.QuickStyle
 ms.assetid: a676c9e1-71f7-c93e-dfb4-8ab2c513893a
+ms.date: 06/08/2017
 ---
 
 

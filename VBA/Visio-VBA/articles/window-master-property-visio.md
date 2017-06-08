@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.Master
 ms.assetid: caf28e17-797a-91b2-c685-27ad0addddfd
+ms.date: 06/08/2017
 ---
 
 

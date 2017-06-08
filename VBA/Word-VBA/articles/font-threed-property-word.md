@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.ThreeD
 ms.assetid: a88e1b17-45ba-0eaa-bd6e-aa55e3a54199
+ms.date: 06/08/2017
 ---
 
 

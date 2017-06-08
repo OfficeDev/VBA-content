@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.AutoCorrectEmail
 ms.assetid: 778d2ab6-09cb-524f-1b31-5abe467ce14c
+ms.date: 06/08/2017
 ---
 
 

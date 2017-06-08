@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Parent
 ms.assetid: 4aa19d6d-c15d-c7ac-731c-7a2d886665d2
+ms.date: 06/08/2017
 ---
 
 

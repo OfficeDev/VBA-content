@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatApplyHeadings
 ms.assetid: 9b1d8936-f6f2-4f01-8583-b9a43a00438b
+ms.date: 06/08/2017
 ---
 
 

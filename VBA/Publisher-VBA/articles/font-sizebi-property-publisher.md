@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.SizeBi
 ms.assetid: 1e9100e7-efa4-a7aa-69af-39c550a0b046
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.BorderWidth
 ms.assetid: 03ef9eb4-f688-5724-3a5c-b2824bfd3839
+ms.date: 06/08/2017
 ---
 
 

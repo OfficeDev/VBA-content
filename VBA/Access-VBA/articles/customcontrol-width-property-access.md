@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.Width
 ms.assetid: 659a7481-cf4e-1909-38b7-358b59002a83
+ms.date: 06/08/2017
 ---
 
 

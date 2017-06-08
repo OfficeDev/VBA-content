@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.EMailAddress
 ms.assetid: 6b5c96e1-f9fb-61e6-cf54-0a0c61bdac5c
+ms.date: 06/08/2017
 ---
 
 

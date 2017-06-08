@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.Parent
 ms.assetid: 489c9aff-7bab-c88c-f3f0-7dee2a29b9a5
+ms.date: 06/08/2017
 ---
 
 

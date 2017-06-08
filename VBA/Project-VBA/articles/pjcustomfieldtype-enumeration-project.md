@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjCustomFieldType
 ms.assetid: fd15a89f-862b-6da0-4057-d32af4d4955e
+ms.date: 06/08/2017
 ---
 
 

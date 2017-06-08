@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColumnGroups
 ms.assetid: dcb4d7e0-ce56-46d9-35d9-d9653bbb6f97
+ms.date: 06/08/2017
 ---
 
 

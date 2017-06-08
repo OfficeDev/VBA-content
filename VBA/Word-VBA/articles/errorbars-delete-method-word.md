@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ErrorBars.Delete
 ms.assetid: 45e620e6-aca0-b285-9d42-8d10449f9663
+ms.date: 06/08/2017
 ---
 
 

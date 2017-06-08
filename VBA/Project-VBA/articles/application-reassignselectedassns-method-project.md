@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ReassignSelectedAssns
 ms.assetid: ab3df7f1-bc36-2b8a-23d7-30ee0387a785
+ms.date: 06/08/2017
 ---
 
 

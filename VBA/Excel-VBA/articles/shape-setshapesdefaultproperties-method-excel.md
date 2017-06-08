@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.SetShapesDefaultProperties
 ms.assetid: 7fee7695-99ea-5094-002a-f21f280d5541
+ms.date: 06/08/2017
 ---
 
 

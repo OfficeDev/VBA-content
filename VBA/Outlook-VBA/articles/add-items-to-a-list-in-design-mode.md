@@ -2,6 +2,7 @@
 title: Add Items to a List in Design Mode
 ms.prod: OUTLOOK
 ms.assetid: 272242c3-4d28-ca8c-d829-54851959b3b4
+ms.date: 06/08/2017
 ---
 
 

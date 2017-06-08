@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Font.ThemeColor
 ms.assetid: bbb99617-0599-8d2b-1512-54c45b1f91aa
+ms.date: 06/08/2017
 ---
 
 

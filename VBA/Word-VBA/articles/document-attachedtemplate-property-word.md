@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.AttachedTemplate
 ms.assetid: e7489e88-ec82-ff16-558b-1dd5470f83c9
+ms.date: 06/08/2017
 ---
 
 

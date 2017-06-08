@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.BorderThemeColorIndex
 ms.assetid: 52b0f138-7d9c-2f6c-3de0-de0597d364e8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.StyleSheet.Path
 ms.assetid: 96a68487-b1b8-4c45-1869-b066874df9e5
+ms.date: 06/08/2017
 ---
 
 

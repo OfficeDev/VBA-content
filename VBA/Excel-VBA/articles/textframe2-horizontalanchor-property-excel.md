@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.HorizontalAnchor
 ms.assetid: 204b744c-a19e-dbf1-2143-3bfcef3caa0c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.NoLineNumber
 ms.assetid: d548299c-0f1a-d823-f884-57bb8f9be104
+ms.date: 06/08/2017
 ---
 
 

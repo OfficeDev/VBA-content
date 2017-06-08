@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.UsableWidth
 ms.assetid: ccc312da-6794-657d-7c76-e3e8549e2da7
+ms.date: 06/08/2017
 ---
 
 

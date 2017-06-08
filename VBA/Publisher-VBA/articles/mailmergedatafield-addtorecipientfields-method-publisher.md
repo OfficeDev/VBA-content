@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataField.AddToRecipientFields
 ms.assetid: eaf365f0-a9f4-c6e2-1267-d0a31b5934ce
+ms.date: 06/08/2017
 ---
 
 

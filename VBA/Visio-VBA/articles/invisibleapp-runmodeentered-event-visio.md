@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.RunModeEntered
 ms.assetid: 75bbf305-87c3-9731-ad9a-a55be67323ab
+ms.date: 06/08/2017
 ---
 
 

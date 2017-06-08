@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AddBiDirectionalMarksWhenSavingTextFile
 ms.assetid: 9a8f5ca0-37eb-ca4d-488c-597f6533d9e4
+ms.date: 06/08/2017
 ---
 
 

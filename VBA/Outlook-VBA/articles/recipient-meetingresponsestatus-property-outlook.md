@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Recipient.MeetingResponseStatus
 ms.assetid: 27f3e40a-b5e9-9f36-ae26-78cc85d160fa
+ms.date: 06/08/2017
 ---
 
 

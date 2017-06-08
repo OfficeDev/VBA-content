@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.AdaptiveMenu
 ms.assetid: 1e6920bb-af66-951c-e689-399d9cf5d662
+ms.date: 06/08/2017
 ---
 
 

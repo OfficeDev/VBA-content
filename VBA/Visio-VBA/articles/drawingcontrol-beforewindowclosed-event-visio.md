@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.BeforeWindowClosed
 ms.assetid: eb253857-42a1-3371-484d-e01fea21c8cc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.Paste
 ms.assetid: e0615a79-b211-643c-15cf-5c6ad8a3cc63
+ms.date: 06/08/2017
 ---
 
 

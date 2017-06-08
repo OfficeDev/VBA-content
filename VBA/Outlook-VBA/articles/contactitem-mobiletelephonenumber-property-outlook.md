@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.MobileTelephoneNumber
 ms.assetid: 425023bb-b7c6-628f-7c23-ac3dc1adb5ec
+ms.date: 06/08/2017
 ---
 
 

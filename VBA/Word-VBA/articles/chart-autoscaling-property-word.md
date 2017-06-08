@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.AutoScaling
 ms.assetid: 911bf146-f3fa-7c05-a0eb-9e2062ed4a93
+ms.date: 06/08/2017
 ---
 
 

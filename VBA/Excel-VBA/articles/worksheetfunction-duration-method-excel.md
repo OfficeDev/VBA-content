@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Duration
 ms.assetid: 96366e78-fb4a-c347-2806-dc864749fe71
+ms.date: 06/08/2017
 ---
 
 

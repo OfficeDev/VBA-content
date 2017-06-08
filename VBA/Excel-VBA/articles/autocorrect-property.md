@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AutoCorrect
 ms.assetid: f05a4ff5-4245-ff2e-1082-f48e130d0741
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjBookingTypes
 ms.assetid: 2921f4ce-25b6-243a-ce6e-c0f77c8d59dd
+ms.date: 06/08/2017
 ---
 
 

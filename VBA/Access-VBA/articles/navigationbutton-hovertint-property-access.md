@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.HoverTint
 ms.assetid: 90ecba49-8922-193a-7fde-228b342b4eff
+ms.date: 06/08/2017
 ---
 
 

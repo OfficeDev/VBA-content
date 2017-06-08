@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ControlFormat.MultiSelect
 ms.assetid: 5ec1e5b6-37ab-465b-bf81-4955f6fd0f31
+ms.date: 06/08/2017
 ---
 
 

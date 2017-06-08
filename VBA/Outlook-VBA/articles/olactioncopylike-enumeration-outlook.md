@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlActionCopyLike
 ms.assetid: f566bbb1-4906-c1c2-1f8e-9f1564e6c072
+ms.date: 06/08/2017
 ---
 
 

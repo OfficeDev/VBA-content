@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Floor.Thickness
 ms.assetid: e374c107-eaf0-bd06-fc4f-d83c2b17f3b5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Quartile_Exc
 ms.assetid: 2b33be15-7d3c-d8be-aae1-de100de8083c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Backward
 ms.assetid: a92f33cb-45cd-baea-57e1-d76f44b041cb
+ms.date: 06/08/2017
 ---
 
 

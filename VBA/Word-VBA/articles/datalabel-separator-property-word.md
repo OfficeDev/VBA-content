@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.Separator
 ms.assetid: 4f681807-d9ec-8c12-585b-6f7bbcb105be
+ms.date: 06/08/2017
 ---
 
 

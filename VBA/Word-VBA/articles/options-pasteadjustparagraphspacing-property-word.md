@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PasteAdjustParagraphSpacing
 ms.assetid: 0aab4ca9-f453-fdb4-8d2e-f37d1d1dde09
+ms.date: 06/08/2017
 ---
 
 

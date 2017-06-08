@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DetailStylesProperties
 ms.assetid: f066f826-eef2-7f97-dafa-998f7bd70f42
+ms.date: 06/08/2017
 ---
 
 

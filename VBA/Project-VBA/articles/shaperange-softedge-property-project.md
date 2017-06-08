@@ -2,6 +2,7 @@
 title: ShapeRange.SoftEdge Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 783a7bc9-5452-0407-8093-3c864205cfed
+ms.date: 06/08/2017
 ---
 
 

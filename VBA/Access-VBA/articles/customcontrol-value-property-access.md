@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.Value
 ms.assetid: 3661428e-b852-e87d-2758-618c293f4c92
+ms.date: 06/08/2017
 ---
 
 

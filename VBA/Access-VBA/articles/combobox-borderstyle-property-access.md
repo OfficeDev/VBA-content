@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BorderStyle
 ms.assetid: ad259ff2-a4b5-14af-3478-3dfc638acab5
+ms.date: 06/08/2017
 ---
 
 

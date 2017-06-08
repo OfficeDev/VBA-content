@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CaptionLabels.Application
 ms.assetid: 21ed076f-7c1a-5ce0-7abe-966a77506e05
+ms.date: 06/08/2017
 ---
 
 

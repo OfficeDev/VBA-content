@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpAfterEffect
 ms.assetid: 8b39793c-6055-09f8-5232-af3ba265fd94
+ms.date: 06/08/2017
 ---
 
 

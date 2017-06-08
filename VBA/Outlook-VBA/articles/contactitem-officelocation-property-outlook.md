@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.OfficeLocation
 ms.assetid: faf658b0-61ff-26ec-4a65-09dfd564f9a4
+ms.date: 06/08/2017
 ---
 
 

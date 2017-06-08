@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.BackColor
 ms.assetid: d0afc912-f982-24f2-f82d-829d410d51cf
+ms.date: 06/08/2017
 ---
 
 

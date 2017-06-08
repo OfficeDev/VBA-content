@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlAxisCrosses
 ms.assetid: 807a1667-5fe2-4799-3300-297cb9e905f5
+ms.date: 06/08/2017
 ---
 
 

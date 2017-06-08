@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.Add
 ms.assetid: e02c9d5e-dbb1-7d37-d112-0c60e7a7ff03
+ms.date: 06/08/2017
 ---
 
 

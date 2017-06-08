@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.NewWindow
 ms.assetid: f0a1b56a-2e6e-9849-24a2-2078424aa30a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoKeyboardSwitching
 ms.assetid: 22bc427f-20fd-107e-b3c0-c1ec9866a716
+ms.date: 06/08/2017
 ---
 
 

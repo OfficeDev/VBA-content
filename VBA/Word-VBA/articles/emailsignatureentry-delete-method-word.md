@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailSignatureEntry.Delete
 ms.assetid: 7b6856f4-f963-7ccd-e29b-fb2634cb3059
+ms.date: 06/08/2017
 ---
 
 

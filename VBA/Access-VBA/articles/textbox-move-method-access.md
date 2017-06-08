@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Move
 ms.assetid: 50b25305-0b91-378d-514f-d35b8d7aed6e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.WordWrap
 ms.assetid: 70bef68b-3c37-9b4e-4cfe-ed0832a7934c
+ms.date: 06/08/2017
 ---
 
 

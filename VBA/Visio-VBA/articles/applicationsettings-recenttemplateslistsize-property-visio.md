@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.RecentTemplatesListSize
 ms.assetid: a9b40755-31c9-a297-fe32-e9e0939d32fc
+ms.date: 06/08/2017
 ---
 
 

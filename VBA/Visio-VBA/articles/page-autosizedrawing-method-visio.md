@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.AutoSizeDrawing
 ms.assetid: 00ae0d14-3268-f6d5-2adb-4653958b6eee
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.OldBorderStyle
 ms.assetid: ab5295d3-9e24-4604-a541-ac5bba837c0b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.OptionalAttendees
 ms.assetid: 019262e6-34cd-8138-0237-13e7b99e51d7
+ms.date: 06/08/2017
 ---
 
 

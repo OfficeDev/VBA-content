@@ -2,6 +2,7 @@
 title: Limit the Size of an Attachment to an Outlook Email Message
 ms.prod: OUTLOOK
 ms.assetid: 9a240e17-f715-482c-9a8b-c6be1144e15a
+ms.date: 06/08/2017
 ---
 
 

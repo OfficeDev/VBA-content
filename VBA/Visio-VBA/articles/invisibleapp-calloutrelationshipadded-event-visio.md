@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.CalloutRelationshipAdded
 ms.assetid: dafc001b-d85e-416d-8f6e-5617969d9f15
+ms.date: 06/08/2017
 ---
 
 

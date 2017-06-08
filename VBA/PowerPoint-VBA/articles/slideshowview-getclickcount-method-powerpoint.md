@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.GetClickCount
 ms.assetid: 3df28d31-4da1-1ea3-e1d6-5ff334018ebc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlRecurrenceType
 ms.assetid: 63bc267e-6b9d-2cb5-3a96-4beb41afff72
+ms.date: 06/08/2017
 ---
 
 

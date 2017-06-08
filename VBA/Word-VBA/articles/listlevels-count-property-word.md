@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListLevels.Count
 ms.assetid: 7b62af02-3ba9-eca9-97f7-eb9713e52e12
+ms.date: 06/08/2017
 ---
 
 

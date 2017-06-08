@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxZoom
 ms.assetid: fbfae092-93b1-b72f-6b42-a498a1543e00
+ms.date: 06/08/2017
 ---
 
 

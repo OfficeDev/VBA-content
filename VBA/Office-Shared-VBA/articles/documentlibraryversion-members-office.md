@@ -2,6 +2,7 @@
 title: DocumentLibraryVersion Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 81015690-f681-67e5-4ff7-329a95f78f3d
+ms.date: 06/08/2017
 ---
 
 

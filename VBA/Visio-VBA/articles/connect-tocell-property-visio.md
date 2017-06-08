@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Connect.ToCell
 ms.assetid: 2210e427-132d-d713-02bf-0fd19ce225b7
+ms.date: 06/08/2017
 ---
 
 

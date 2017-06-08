@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.LandscapeFontNames
 ms.assetid: 59599ca0-0c6f-8d4a-9f4e-e98c5c241944
+ms.date: 06/08/2017
 ---
 
 

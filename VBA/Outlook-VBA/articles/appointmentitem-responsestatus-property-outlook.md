@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ResponseStatus
 ms.assetid: 853cf25d-6cfc-baef-b906-acf43dbd6478
+ms.date: 06/08/2017
 ---
 
 

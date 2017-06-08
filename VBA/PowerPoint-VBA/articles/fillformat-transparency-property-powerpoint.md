@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.Transparency
 ms.assetid: 98b099d7-9149-d306-1a80-f85b89b029c5
+ms.date: 06/08/2017
 ---
 
 

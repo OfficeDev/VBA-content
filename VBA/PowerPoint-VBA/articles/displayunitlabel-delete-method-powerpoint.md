@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DisplayUnitLabel.Delete
 ms.assetid: a868d1d4-550d-9ad7-075c-aa85e265205c
+ms.date: 06/08/2017
 ---
 
 

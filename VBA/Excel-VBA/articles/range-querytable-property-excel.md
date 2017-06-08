@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.QueryTable
 ms.assetid: 6370d43c-74b5-1bb9-f849-c70006432504
+ms.date: 06/08/2017
 ---
 
 

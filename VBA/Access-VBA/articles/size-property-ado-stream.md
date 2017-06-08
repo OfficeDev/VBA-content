@@ -2,6 +2,7 @@
 title: Size Property (ADO Stream)
 ms.prod: ACCESS
 ms.assetid: deb84313-36d1-fa49-e4cd-daecab96f343
+ms.date: 06/08/2017
 ---
 
 

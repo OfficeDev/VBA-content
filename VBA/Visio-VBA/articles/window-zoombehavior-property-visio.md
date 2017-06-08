@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ZoomBehavior
 ms.assetid: bceab6cf-cad4-58d6-685d-e14950105048
+ms.date: 06/08/2017
 ---
 
 

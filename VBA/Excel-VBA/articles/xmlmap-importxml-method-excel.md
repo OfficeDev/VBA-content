@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.ImportXml
 ms.assetid: 07db07d3-cd0f-08fe-3463-04ca72d084d1
+ms.date: 06/08/2017
 ---
 
 

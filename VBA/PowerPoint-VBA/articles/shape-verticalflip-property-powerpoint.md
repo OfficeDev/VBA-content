@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.VerticalFlip
 ms.assetid: 56bf36e4-49df-5ae5-855c-3275d634dee4
+ms.date: 06/08/2017
 ---
 
 

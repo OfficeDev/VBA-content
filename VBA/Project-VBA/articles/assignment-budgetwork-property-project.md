@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.BudgetWork
 ms.assetid: 21c73cbb-4bca-1eea-4900-6e575cd298a7
+ms.date: 06/08/2017
 ---
 
 

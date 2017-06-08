@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tasks.Exists
 ms.assetid: 421a5ff6-25b5-3255-ae81-32f5decbfe93
+ms.date: 06/08/2017
 ---
 
 

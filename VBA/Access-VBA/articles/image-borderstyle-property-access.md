@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BorderStyle
 ms.assetid: bec20ddf-359c-d684-6561-130c830ef62f
+ms.date: 06/08/2017
 ---
 
 

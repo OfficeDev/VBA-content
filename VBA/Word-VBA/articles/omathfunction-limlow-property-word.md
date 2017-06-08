@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFunction.LimLow
 ms.assetid: 471c522d-9883-0615-09d6-eeb76c8554fc
+ms.date: 06/08/2017
 ---
 
 

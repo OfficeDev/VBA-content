@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.RTFBody
 ms.assetid: ff94ab2c-7e34-0eb5-3aeb-b7805b5e9a2c
+ms.date: 06/08/2017
 ---
 
 

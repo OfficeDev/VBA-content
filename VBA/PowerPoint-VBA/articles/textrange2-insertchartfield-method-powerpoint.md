@@ -1,6 +1,7 @@
 ---
 title: TextRange2.InsertChartField Method (PowerPoint)
 ms.assetid: 42c07916-74e1-46c2-8cbc-5777c9fe1ae4
+ms.date: 06/08/2017
 ---
 
 

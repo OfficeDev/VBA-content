@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IconSetCondition.StopIfTrue
 ms.assetid: 82032e96-74d2-2864-af29-a04d052bb43c
+ms.date: 06/08/2017
 ---
 
 

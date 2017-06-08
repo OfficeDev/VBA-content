@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.Top
 ms.assetid: 1bac668a-0caa-d185-cc07-ba55809c79fe
+ms.date: 06/08/2017
 ---
 
 

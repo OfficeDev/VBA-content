@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ActiveChart
 ms.assetid: 37b1901c-a9c2-4a86-ce05-22f3989bc9d8
+ms.date: 06/08/2017
 ---
 
 

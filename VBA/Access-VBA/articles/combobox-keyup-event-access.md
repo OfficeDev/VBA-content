@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.KeyUp
 ms.assetid: ab8e8950-7ed3-7c8d-340d-fd9110a103d1
+ms.date: 06/08/2017
 ---
 
 

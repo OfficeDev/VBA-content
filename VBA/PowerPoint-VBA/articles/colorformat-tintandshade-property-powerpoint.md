@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ColorFormat.TintAndShade
 ms.assetid: 01f3581c-eccf-d627-5ba0-f560f58e6e0f
+ms.date: 06/08/2017
 ---
 
 

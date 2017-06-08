@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.VerticalAlignment
 ms.assetid: b09a2dcb-b51b-b477-6247-fd5b11a67ccf
+ms.date: 06/08/2017
 ---
 
 

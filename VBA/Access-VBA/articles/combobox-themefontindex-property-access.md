@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.ThemeFontIndex
 ms.assetid: 07fec290-0bf3-138f-94cd-55d5979b2aca
+ms.date: 06/08/2017
 ---
 
 

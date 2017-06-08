@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItem.Delete
 ms.assetid: c24c9716-4e9b-34db-8101-1cec0bcbd2a1
+ms.date: 06/08/2017
 ---
 
 

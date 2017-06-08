@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Open
 ms.assetid: 656c16f7-d561-a8f7-e859-9ac24f357769
+ms.date: 06/08/2017
 ---
 
 

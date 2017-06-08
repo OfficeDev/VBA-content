@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Border.LineStyle
 ms.assetid: 7f2529b7-4782-8d8d-d529-6d8d19417db4
+ms.date: 06/08/2017
 ---
 
 

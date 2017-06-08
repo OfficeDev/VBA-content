@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.GapDepth
 ms.assetid: 0aa59fe6-29bf-c014-8c11-18481f9c5603
+ms.date: 06/08/2017
 ---
 
 

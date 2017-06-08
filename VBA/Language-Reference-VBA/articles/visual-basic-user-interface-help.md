@@ -2,6 +2,7 @@
 title: Visual Basic user interface Help
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
+ms.date: 06/08/2017
 ---
 
 

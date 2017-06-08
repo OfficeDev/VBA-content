@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Width
 ms.assetid: 8925e4f8-d85a-98c8-499e-ae102dced440
+ms.date: 06/08/2017
 ---
 
 

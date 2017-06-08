@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.Width
 ms.assetid: 7dd4a429-789d-fb76-2689-7e42b0668d4e
+ms.date: 06/08/2017
 ---
 
 

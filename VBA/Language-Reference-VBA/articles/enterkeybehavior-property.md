@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EnterKeyBehavior
 ms.assetid: 720a6b10-f021-e623-7f63-f52081bcafd1
+ms.date: 06/08/2017
 ---
 
 

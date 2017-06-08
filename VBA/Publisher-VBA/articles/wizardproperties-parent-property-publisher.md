@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WizardProperties.Parent
 ms.assetid: b6e87015-67c9-834c-fe38-1dddee08e40a
+ms.date: 06/08/2017
 ---
 
 

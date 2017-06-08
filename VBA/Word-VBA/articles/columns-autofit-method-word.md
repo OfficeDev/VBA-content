@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Columns.AutoFit
 ms.assetid: e6a62b02-56e6-55af-9a01-12665fca3dcd
+ms.date: 06/08/2017
 ---
 
 

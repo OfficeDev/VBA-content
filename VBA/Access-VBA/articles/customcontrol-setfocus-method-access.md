@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.SetFocus
 ms.assetid: bb608976-d178-0e6e-fc8e-b362108314d5
+ms.date: 06/08/2017
 ---
 
 

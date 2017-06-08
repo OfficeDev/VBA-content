@@ -2,6 +2,7 @@
 title: XlTickLabelPosition Enumeration (Word)
 ms.prod: WORD
 ms.assetid: a149eda1-1d90-5e72-2fb4-1da4eebce518
+ms.date: 06/08/2017
 ---
 
 

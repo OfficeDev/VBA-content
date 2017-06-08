@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.GetContact
 ms.assetid: 443fb23a-cd26-e385-bd9d-e978aec56458
+ms.date: 06/08/2017
 ---
 
 

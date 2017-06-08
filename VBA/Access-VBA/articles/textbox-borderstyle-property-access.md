@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.BorderStyle
 ms.assetid: 783c9424-669f-fcc7-b23d-6f5de03bad79
+ms.date: 06/08/2017
 ---
 
 

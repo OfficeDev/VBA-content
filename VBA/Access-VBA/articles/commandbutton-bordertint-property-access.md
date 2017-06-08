@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.BorderTint
 ms.assetid: 244697f0-891f-792d-3ad9-61a58973ab60
+ms.date: 06/08/2017
 ---
 
 

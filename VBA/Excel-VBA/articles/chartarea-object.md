@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea
 ms.assetid: 85fcf460-6b2b-142f-ce4a-4a74e9d8efd3
+ms.date: 06/08/2017
 ---
 
 

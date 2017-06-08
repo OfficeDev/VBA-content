@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBorderBox.StrikeH
 ms.assetid: 9533da90-b8c5-ae57-d8a5-1a09b463052e
+ms.date: 06/08/2017
 ---
 
 

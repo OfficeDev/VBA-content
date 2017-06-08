@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkInfoBar
 ms.assetid: 1aec19db-d28b-ef9b-3227-45aa4a296de6
+ms.date: 06/08/2017
 ---
 
 

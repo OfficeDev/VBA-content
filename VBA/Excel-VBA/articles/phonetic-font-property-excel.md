@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Phonetic.Font
 ms.assetid: 37bc2d18-fd3d-ec0f-b8b9-be0a849b9afc
+ms.date: 06/08/2017
 ---
 
 

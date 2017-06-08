@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.CustomXMLParts
 ms.assetid: bd31f001-0e5d-691b-e69e-4cb91a6dbb0e
+ms.date: 06/08/2017
 ---
 
 

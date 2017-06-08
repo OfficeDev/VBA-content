@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MetaProperties.GetItemByInternalName
 ms.assetid: 27c6bcd8-8631-1dbe-5df1-67c33b757c03
+ms.date: 06/08/2017
 ---
 
 

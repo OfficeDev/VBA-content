@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.TaskDueDate
 ms.assetid: baf6c9c8-cdf3-2e8b-71da-10a393421f56
+ms.date: 06/08/2017
 ---
 
 

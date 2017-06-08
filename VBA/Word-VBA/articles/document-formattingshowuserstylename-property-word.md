@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FormattingShowUserStyleName
 ms.assetid: 16bdfdcd-f550-9b15-d405-20bd391aa0e5
+ms.date: 06/08/2017
 ---
 
 

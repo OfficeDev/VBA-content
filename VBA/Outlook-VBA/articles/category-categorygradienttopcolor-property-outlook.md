@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Category.CategoryGradientTopColor
 ms.assetid: deb7a986-8afd-465c-ed8e-3cf669f96a35
+ms.date: 06/08/2017
 ---
 
 

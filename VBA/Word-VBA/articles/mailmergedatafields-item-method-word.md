@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeDataFields.Item
 ms.assetid: fd4894c6-4159-8bd4-a6b7-85f06788100f
+ms.date: 06/08/2017
 ---
 
 

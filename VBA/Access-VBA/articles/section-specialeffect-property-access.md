@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.SpecialEffect
 ms.assetid: 5143b888-5263-6ccd-1d98-3c7168ca7734
+ms.date: 06/08/2017
 ---
 
 

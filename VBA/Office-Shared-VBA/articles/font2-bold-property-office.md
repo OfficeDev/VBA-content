@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Bold
 ms.assetid: ad660a44-5c37-ea23-1bc2-17b337df8ad1
+ms.date: 06/08/2017
 ---
 
 

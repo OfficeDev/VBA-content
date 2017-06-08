@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFarEastLineBreakLanguageID
 ms.assetid: 38ef5f6f-4ed4-7290-1509-71c401f1595e
+ms.date: 06/08/2017
 ---
 
 

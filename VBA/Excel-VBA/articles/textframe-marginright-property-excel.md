@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.MarginRight
 ms.assetid: 27a62328-c4bd-f456-8a63-68e41f307b5a
+ms.date: 06/08/2017
 ---
 
 

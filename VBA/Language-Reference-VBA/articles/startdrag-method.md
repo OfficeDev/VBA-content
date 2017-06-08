@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.StartDrag
 ms.assetid: 9713f582-759f-2cb2-825f-a79469041dc8
+ms.date: 06/08/2017
 ---
 
 

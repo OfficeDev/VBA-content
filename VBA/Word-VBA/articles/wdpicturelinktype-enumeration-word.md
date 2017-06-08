@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPictureLinkType
 ms.assetid: 25c45db2-b745-20e2-0a34-0e11ef894257
+ms.date: 06/08/2017
 ---
 
 

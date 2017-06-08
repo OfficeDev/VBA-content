@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.HasRadarAxisLabels
 ms.assetid: 0b086c3c-1eaa-1e65-fcb1-969c8b2c64c7
+ms.date: 06/08/2017
 ---
 
 

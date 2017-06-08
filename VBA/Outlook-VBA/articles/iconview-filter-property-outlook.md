@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.IconView.Filter
 ms.assetid: 121b375b-40f0-ef8c-108a-ac57d6e693e7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MetaProperties.Validate
 ms.assetid: 658532c6-c8c0-ff01-3736-4161a09af2bb
+ms.date: 06/08/2017
 ---
 
 

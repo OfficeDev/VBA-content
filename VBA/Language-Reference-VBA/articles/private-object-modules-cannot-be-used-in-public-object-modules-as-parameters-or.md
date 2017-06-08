@@ -2,6 +2,7 @@
 title: Private object modules cannot be used in public object modules as parameters or return types for public procedures, as public data members, or as fields of public user defined types
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 77abe263-21e9-1998-aa9d-f07969c46c1e
+ms.date: 06/08/2017
 ---
 
 

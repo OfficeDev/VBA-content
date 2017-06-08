@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.ClearArrows
 ms.assetid: 32b99665-1ac9-9b5d-f009-211a668d6fa6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SplitTask
 ms.assetid: 490dcca9-66c5-9284-44ff-a92aa30fadf4
+ms.date: 06/08/2017
 ---
 
 

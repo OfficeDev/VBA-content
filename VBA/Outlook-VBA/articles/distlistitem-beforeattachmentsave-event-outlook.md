@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.BeforeAttachmentSave
 ms.assetid: 5c96c5df-bb29-c2d5-1f80-5e4cd426f7b7
+ms.date: 06/08/2017
 ---
 
 

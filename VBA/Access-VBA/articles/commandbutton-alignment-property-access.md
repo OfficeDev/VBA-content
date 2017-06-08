@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.Alignment
 ms.assetid: b0081eea-1149-d173-646a-0800aa558415
+ms.date: 06/08/2017
 ---
 
 

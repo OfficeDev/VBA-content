@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.CopyTo
 ms.assetid: ddd010e2-54af-f291-b9a9-92cc55a83cca
+ms.date: 06/08/2017
 ---
 
 

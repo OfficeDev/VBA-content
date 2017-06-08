@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.AddressLists
 ms.assetid: 68b236db-f964-6f7f-6246-e79c6ada19e9
+ms.date: 06/08/2017
 ---
 
 

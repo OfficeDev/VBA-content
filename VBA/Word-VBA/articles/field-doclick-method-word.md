@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Field.DoClick
 ms.assetid: 04b94737-0f7f-9086-07ff-555e416f2acf
+ms.date: 06/08/2017
 ---
 
 

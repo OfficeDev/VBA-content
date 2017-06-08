@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdMultipleWordConversionsMode
 ms.assetid: f75302cd-d513-e88a-fc6d-6ac70308806c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.PersistsEvents
 ms.assetid: f6e50c60-2e89-3c25-5fb9-8161b3874d91
+ms.date: 06/08/2017
 ---
 
 

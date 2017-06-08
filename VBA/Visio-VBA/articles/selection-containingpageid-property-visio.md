@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.ContainingPageID
 ms.assetid: f7d19685-9e1d-8867-978a-563dd3e93b0b
+ms.date: 06/08/2017
 ---
 
 

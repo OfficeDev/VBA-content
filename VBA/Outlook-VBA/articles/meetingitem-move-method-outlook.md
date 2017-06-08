@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.Move
 ms.assetid: ab888dbc-f31f-ac68-f914-c97d6af2e6d9
+ms.date: 06/08/2017
 ---
 
 

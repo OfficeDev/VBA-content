@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.StorageItem.Application
 ms.assetid: cfe47ac5-04d0-4192-181d-35dd5e7c3658
+ms.date: 06/08/2017
 ---
 
 

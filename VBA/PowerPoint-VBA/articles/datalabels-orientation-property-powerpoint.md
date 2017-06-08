@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabels.Orientation
 ms.assetid: db210fce-1242-63bc-0b0c-2e2d5c1aba39
+ms.date: 06/08/2017
 ---
 
 

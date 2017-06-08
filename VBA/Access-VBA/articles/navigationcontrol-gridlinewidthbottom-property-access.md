@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.GridlineWidthBottom
 ms.assetid: 513fdb37-b479-7022-e0c7-4f8d8209ede9
+ms.date: 06/08/2017
 ---
 
 

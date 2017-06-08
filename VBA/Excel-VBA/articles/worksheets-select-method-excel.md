@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheets.Select
 ms.assetid: f6c6c3df-d902-2a88-740b-00d2f5757fc6
+ms.date: 06/08/2017
 ---
 
 

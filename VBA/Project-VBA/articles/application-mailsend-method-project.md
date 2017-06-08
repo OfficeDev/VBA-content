@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.MailSend
 ms.assetid: 250c7eed-2bfa-f80f-13d1-c7ca8d6453d1
+ms.date: 06/08/2017
 ---
 
 

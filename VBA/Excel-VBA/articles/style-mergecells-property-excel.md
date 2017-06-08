@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Style.MergeCells
 ms.assetid: 4202023d-e72f-55db-a8d2-1e828af4ebcf
+ms.date: 06/08/2017
 ---
 
 

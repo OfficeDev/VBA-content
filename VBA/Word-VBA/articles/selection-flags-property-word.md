@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Flags
 ms.assetid: bca92e77-077c-57d0-3012-8c064e93f112
+ms.date: 06/08/2017
 ---
 
 

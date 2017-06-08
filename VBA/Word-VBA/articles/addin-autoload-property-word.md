@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AddIn.Autoload
 ms.assetid: 320b5624-2b00-991c-18ac-568c87caff42
+ms.date: 06/08/2017
 ---
 
 

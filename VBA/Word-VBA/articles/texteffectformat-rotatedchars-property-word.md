@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.RotatedChars
 ms.assetid: 4f5c9f84-0c86-1558-ac64-ca8d53e3683d
+ms.date: 06/08/2017
 ---
 
 

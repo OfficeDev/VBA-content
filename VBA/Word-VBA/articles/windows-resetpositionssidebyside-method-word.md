@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Windows.ResetPositionsSideBySide
 ms.assetid: f9741635-ecc5-77a1-51d6-d48ef42a3ce6
+ms.date: 06/08/2017
 ---
 
 

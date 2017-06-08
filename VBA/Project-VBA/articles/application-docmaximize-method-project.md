@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DocMaximize
 ms.assetid: 8a24ca4e-e39d-ddae-869d-02d928c27393
+ms.date: 06/08/2017
 ---
 
 

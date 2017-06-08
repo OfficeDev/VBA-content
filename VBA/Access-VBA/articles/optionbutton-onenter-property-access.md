@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.OnEnter
 ms.assetid: e454abc8-f344-f67a-f67a-ae1a8003155e
+ms.date: 06/08/2017
 ---
 
 

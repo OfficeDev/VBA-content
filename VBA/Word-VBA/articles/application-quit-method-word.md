@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.Quit
 ms.assetid: 0279d848-a8b7-dac7-1e84-a55c72789e3b
+ms.date: 06/08/2017
 ---
 
 

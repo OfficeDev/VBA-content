@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OLEFormat.ProgID
 ms.assetid: f3e99411-ebea-9135-e25d-66948f53e037
+ms.date: 06/08/2017
 ---
 
 

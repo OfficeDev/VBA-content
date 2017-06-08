@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdGutterStyleOld
 ms.assetid: afa0279e-9967-0abd-214e-e425a7f4f03b
+ms.date: 06/08/2017
 ---
 
 

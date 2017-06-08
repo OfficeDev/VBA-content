@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.CustomDocumentProperties
 ms.assetid: 3f972f15-f606-0a11-56b6-1994e617def2
+ms.date: 06/08/2017
 ---
 
 

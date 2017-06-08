@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.TextHeight
 ms.assetid: cac67d4c-e140-06ae-ccbd-961cdee3d087
+ms.date: 06/08/2017
 ---
 
 

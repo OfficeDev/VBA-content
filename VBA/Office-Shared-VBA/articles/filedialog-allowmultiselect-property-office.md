@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialog.AllowMultiSelect
 ms.assetid: b109b0b5-1a94-c93f-a1c0-43728d7b9f30
+ms.date: 06/08/2017
 ---
 
 

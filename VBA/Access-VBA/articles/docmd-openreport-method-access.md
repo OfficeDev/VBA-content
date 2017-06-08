@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.OpenReport
 ms.assetid: 3c08755a-5116-f085-d498-725dc12e62f1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCaches.Creator
 ms.assetid: e7e2e448-189a-051d-33f2-0dbb8de272d5
+ms.date: 06/08/2017
 ---
 
 

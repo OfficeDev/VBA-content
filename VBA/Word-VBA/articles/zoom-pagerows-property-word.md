@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Zoom.PageRows
 ms.assetid: 15db7c14-ee98-bac7-179a-018f4cb47fb9
+ms.date: 06/08/2017
 ---
 
 

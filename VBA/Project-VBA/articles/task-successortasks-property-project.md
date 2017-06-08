@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.SuccessorTasks
 ms.assetid: 1bd0f9df-9daa-37c0-c60d-6414fc8c87bb
+ms.date: 06/08/2017
 ---
 
 

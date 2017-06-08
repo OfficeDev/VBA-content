@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.FontBold
 ms.assetid: 147d151a-b51c-5be2-56ef-8a94c212cb0b
+ms.date: 06/08/2017
 ---
 
 

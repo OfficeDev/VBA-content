@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartArea.Clear
 ms.assetid: 779f38e5-4a0e-fb1e-705b-d7f2c678a933
+ms.date: 06/08/2017
 ---
 
 

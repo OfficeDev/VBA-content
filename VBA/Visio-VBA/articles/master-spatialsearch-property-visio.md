@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.SpatialSearch
 ms.assetid: d71b05b7-32e1-d3c8-668e-6e96595acd59
+ms.date: 06/08/2017
 ---
 
 

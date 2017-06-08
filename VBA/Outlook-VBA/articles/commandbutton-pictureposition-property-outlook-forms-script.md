@@ -2,6 +2,7 @@
 title: CommandButton.PicturePosition Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 516b3641-5def-8b3e-bad3-3cde9b0a738f
+ms.date: 06/08/2017
 ---
 
 

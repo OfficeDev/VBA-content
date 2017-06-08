@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Offset
 ms.assetid: 0a82ed87-cc11-77d3-4337-2694f8431a79
+ms.date: 06/08/2017
 ---
 
 

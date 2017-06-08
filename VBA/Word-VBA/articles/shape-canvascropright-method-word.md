@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.CanvasCropRight
 ms.assetid: 82488d2e-0854-4b19-1b31-3b73604c409f
+ms.date: 06/08/2017
 ---
 
 

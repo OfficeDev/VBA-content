@@ -2,6 +2,7 @@
 title: Programming for the Single Document Interface in Excel
 ms.prod: EXCEL
 ms.assetid: 596f5bd6-6a03-4d33-8002-f2c083f7bc79
+ms.date: 06/08/2017
 ---
 
 

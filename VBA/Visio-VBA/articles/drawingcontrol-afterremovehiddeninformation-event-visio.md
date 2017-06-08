@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.AfterRemoveHiddenInformation
 ms.assetid: 53c41981-3f24-53e3-dea5-204e0ad6f046
+ms.date: 06/08/2017
 ---
 
 

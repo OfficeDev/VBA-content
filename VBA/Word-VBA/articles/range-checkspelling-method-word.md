@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.CheckSpelling
 ms.assetid: 41873962-8cac-84a4-4e01-712985513cd4
+ms.date: 06/08/2017
 ---
 
 

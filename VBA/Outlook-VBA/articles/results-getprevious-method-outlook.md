@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Results.GetPrevious
 ms.assetid: be9877c4-602d-7e2d-a00b-edb4aead7441
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectResourceColumn
 ms.assetid: 22b9396b-ddec-cfed-311d-a02face0ae2f
+ms.date: 06/08/2017
 ---
 
 

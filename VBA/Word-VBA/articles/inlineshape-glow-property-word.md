@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.Glow
 ms.assetid: 6ac6a364-be80-60f5-ac4b-37bde872f2c6
+ms.date: 06/08/2017
 ---
 
 

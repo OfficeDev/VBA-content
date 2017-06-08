@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.ValidationText
 ms.assetid: d115a085-7c22-7a88-539e-ec4461ca6d5d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Font
 ms.assetid: 7c392845-0ee4-6268-8f8e-7660cd66a341
+ms.date: 06/08/2017
 ---
 
 

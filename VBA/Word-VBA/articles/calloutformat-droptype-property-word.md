@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CalloutFormat.DropType
 ms.assetid: cf26ef87-7c56-5859-75fc-dfee7bd0efd1
+ms.date: 06/08/2017
 ---
 
 

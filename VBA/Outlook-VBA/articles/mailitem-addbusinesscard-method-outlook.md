@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.AddBusinessCard
 ms.assetid: a30d201b-3073-11c1-0f0c-81c7a3aba6e2
+ms.date: 06/08/2017
 ---
 
 

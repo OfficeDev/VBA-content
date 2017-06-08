@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Endnotes
 ms.assetid: 311f3c49-bfdc-02e3-fbd9-a0f6614612b3
+ms.date: 06/08/2017
 ---
 
 

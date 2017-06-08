@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GetRedoListItem
 ms.assetid: 65a23a84-dc85-2935-c673-87643d1a2a2d
+ms.date: 06/08/2017
 ---
 
 

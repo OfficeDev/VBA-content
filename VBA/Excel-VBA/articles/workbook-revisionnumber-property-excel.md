@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.RevisionNumber
 ms.assetid: 7ea9fde5-eb89-a9b0-b637-980f1533d8ec
+ms.date: 06/08/2017
 ---
 
 

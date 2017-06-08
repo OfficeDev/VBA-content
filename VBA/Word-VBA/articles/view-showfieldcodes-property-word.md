@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowFieldCodes
 ms.assetid: f872636f-9c9f-4dad-d2a0-e18c82d33c68
+ms.date: 06/08/2017
 ---
 
 

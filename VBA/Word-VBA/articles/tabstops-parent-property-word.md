@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStops.Parent
 ms.assetid: f3b059db-7aa0-62d5-440f-030a3098a242
+ms.date: 06/08/2017
 ---
 
 

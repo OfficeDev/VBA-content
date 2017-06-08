@@ -2,6 +2,7 @@
 title: Revising Recorded Visual Basic Macros
 ms.prod: WORD
 ms.assetid: e17875d2-f11a-825c-1f92-a0ba6cb3309f
+ms.date: 06/08/2017
 ---
 
 

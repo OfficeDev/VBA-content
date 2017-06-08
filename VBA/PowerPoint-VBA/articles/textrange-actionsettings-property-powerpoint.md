@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.ActionSettings
 ms.assetid: 7a66ca28-d6b9-2066-4c88-a04888d5ba1e
+ms.date: 06/08/2017
 ---
 
 

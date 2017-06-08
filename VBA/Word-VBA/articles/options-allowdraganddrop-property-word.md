@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AllowDragAndDrop
 ms.assetid: f3cea42e-5fba-7415-bb7a-f214882cc566
+ms.date: 06/08/2017
 ---
 
 

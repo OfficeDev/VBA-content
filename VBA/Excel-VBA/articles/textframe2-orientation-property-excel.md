@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.Orientation
 ms.assetid: 73c7a581-cabe-b634-ccf0-28e640b33129
+ms.date: 06/08/2017
 ---
 
 

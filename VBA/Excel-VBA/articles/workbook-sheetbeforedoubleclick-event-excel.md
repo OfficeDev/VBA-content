@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetBeforeDoubleClick
 ms.assetid: 69d21025-78ef-deab-39be-b7a092d611f5
+ms.date: 06/08/2017
 ---
 
 

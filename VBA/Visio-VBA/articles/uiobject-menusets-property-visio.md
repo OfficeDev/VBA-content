@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.UIObject.MenuSets
 ms.assetid: 8acecfc4-5a49-e11f-b9e9-07d5a464681a
+ms.date: 06/08/2017
 ---
 
 

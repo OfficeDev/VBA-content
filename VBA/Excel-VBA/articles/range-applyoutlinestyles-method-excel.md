@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.ApplyOutlineStyles
 ms.assetid: eab9b4ed-5d4c-8205-63f2-fa8e4539da73
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathDelim.SepChar
 ms.assetid: e7c4e488-556d-2528-7f25-e45ae673486b
+ms.date: 06/08/2017
 ---
 
 

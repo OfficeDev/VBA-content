@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowTransition.Duration
 ms.assetid: f8c47dda-9687-e437-8038-dae11c022914
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbooks.Count
 ms.assetid: 71fe409c-3cee-3f05-9669-baf89d32b2ac
+ms.date: 06/08/2017
 ---
 
 

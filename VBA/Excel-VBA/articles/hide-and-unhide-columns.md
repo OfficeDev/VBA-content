@@ -2,6 +2,7 @@
 title: Hide and Unhide Columns
 ms.prod: EXCEL
 ms.assetid: fbfd24bb-9862-4895-9ac4-3e4f92197ede
+ms.date: 06/08/2017
 ---
 
 

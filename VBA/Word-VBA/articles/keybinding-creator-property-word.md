@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeyBinding.Creator
 ms.assetid: 74219584-c660-c000-801b-499ea4b35722
+ms.date: 06/08/2017
 ---
 
 

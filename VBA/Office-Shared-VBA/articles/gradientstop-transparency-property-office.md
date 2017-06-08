@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GradientStop.Transparency
 ms.assetid: d09b9a85-ea9a-c09d-5a93-8418663e772d
+ms.date: 06/08/2017
 ---
 
 

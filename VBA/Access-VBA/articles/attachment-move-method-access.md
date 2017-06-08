@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Move
 ms.assetid: cd807ce2-79b8-0873-c035-7927bc91967d
+ms.date: 06/08/2017
 ---
 
 

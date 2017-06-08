@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OrganizerRenameItem
 ms.assetid: 97ef4b63-a2fb-35ac-0a27-ebe8566fd28c
+ms.date: 06/08/2017
 ---
 
 

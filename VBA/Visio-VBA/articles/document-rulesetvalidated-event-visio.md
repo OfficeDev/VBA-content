@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.RuleSetValidated
 ms.assetid: 682b8f48-4ebe-ce53-f816-3d82a4ae0034
+ms.date: 06/08/2017
 ---
 
 

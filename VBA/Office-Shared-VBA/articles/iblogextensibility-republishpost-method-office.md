@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IBlogExtensibility.RepublishPost
 ms.assetid: 1e701746-f63b-68a3-6a5c-75b78942d380
+ms.date: 06/08/2017
 ---
 
 

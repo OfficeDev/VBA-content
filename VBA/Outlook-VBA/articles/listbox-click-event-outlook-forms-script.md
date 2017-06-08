@@ -2,6 +2,7 @@
 title: ListBox.Click Event (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: a3b32670-d20c-a5cc-d236-041cbe155779
+ms.date: 06/08/2017
 ---
 
 

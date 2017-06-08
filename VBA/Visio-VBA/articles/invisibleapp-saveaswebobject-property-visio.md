@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.SaveAsWebObject
 ms.assetid: 9020e7db-b696-7484-c024-fd92906e486b
+ms.date: 06/08/2017
 ---
 
 

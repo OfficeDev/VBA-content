@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RTD
 ms.assetid: 50f289c3-081b-108b-2fee-c4069a04a8e7
+ms.date: 06/08/2017
 ---
 
 

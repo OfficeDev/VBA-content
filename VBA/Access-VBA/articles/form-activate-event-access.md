@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.Activate
 ms.assetid: 1409c52b-8a77-0e0d-1a26-7dc4ce8bb320
+ms.date: 06/08/2017
 ---
 
 

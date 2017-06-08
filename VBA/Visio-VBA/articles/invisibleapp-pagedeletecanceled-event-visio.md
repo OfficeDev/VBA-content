@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.PageDeleteCanceled
 ms.assetid: 35741231-a4f6-cffb-7004-3c33e538be0b
+ms.date: 06/08/2017
 ---
 
 

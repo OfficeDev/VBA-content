@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.StartingNumber
 ms.assetid: 7b526500-2251-dedd-3972-52d4f036d3bc
+ms.date: 06/08/2017
 ---
 
 

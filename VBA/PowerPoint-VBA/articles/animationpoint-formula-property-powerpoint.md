@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationPoint.Formula
 ms.assetid: 84ec9c9d-aa8b-faeb-8f51-a7fce91d709e
+ms.date: 06/08/2017
 ---
 
 

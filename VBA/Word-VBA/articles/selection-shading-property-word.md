@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Shading
 ms.assetid: 1e259969-7a0a-aaf3-af6c-81e0b37b6f79
+ms.date: 06/08/2017
 ---
 
 

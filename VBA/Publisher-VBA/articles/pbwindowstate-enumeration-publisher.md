@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbWindowState
 ms.assetid: 8e04e01b-0bf8-faa2-7a0d-b38ea2c92deb
+ms.date: 06/08/2017
 ---
 
 

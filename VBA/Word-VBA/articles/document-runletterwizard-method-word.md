@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RunLetterWizard
 ms.assetid: 7da6e2b9-607a-0d3e-7d0d-762a8900a486
+ms.date: 06/08/2017
 ---
 
 

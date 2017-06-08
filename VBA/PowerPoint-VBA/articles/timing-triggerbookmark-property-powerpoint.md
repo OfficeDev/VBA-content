@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.triggerBookmark
 ms.assetid: d769b10e-f2a7-0871-3b98-a3afdf071ad9
+ms.date: 06/08/2017
 ---
 
 

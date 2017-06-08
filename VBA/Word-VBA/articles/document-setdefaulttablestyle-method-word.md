@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SetDefaultTableStyle
 ms.assetid: 6e932b12-6af8-af0a-5c3b-c74cefaf0d35
+ms.date: 06/08/2017
 ---
 
 

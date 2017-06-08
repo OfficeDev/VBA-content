@@ -2,6 +2,7 @@
 title: ListBox.ListCount Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 1a06637a-8c23-e7a5-f7e4-7a04dcb227fc
+ms.date: 06/08/2017
 ---
 
 

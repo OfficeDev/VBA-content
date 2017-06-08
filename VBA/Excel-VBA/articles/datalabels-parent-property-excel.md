@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabels.Parent
 ms.assetid: 57f1d0ff-13a5-8ec2-20bd-5589be8aae0c
+ms.date: 06/08/2017
 ---
 
 

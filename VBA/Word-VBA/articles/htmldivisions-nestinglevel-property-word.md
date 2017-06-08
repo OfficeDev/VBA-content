@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivisions.NestingLevel
 ms.assetid: 22c324c7-e7a2-8807-de7f-c9775a56d002
+ms.date: 06/08/2017
 ---
 
 

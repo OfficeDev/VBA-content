@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SharedWorkspace
 ms.assetid: 100d635c-2b2a-4ba3-0490-bc4a4c4efb8c
+ms.date: 06/08/2017
 ---
 
 

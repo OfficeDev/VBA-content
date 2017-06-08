@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Adjustments.Creator
 ms.assetid: a9782244-144e-820f-1a6d-895a1b03a7fe
+ms.date: 06/08/2017
 ---
 
 

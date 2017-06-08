@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFunctions.Count
 ms.assetid: aef85050-d9ea-9c08-1200-1bcd27f39291
+ms.date: 06/08/2017
 ---
 
 

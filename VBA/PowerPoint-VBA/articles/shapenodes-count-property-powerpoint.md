@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeNodes.Count
 ms.assetid: 63f8a4da-1b0a-b72c-06ed-27477fb74809
+ms.date: 06/08/2017
 ---
 
 

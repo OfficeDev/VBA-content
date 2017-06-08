@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ConnectorFormat.BeginConnectedShape
 ms.assetid: a7eb9090-ad01-234c-99ff-3bb0616d02c0
+ms.date: 06/08/2017
 ---
 
 

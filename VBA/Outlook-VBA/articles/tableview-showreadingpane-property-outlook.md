@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.ShowReadingPane
 ms.assetid: 4cf87f66-fc93-7428-1b1c-9541e699f8c9
+ms.date: 06/08/2017
 ---
 
 

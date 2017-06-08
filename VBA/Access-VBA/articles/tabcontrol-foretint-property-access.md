@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.ForeTint
 ms.assetid: 9e7c2a92-028b-f565-22fb-fc44753c7908
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CurrentProject.ImportExportSpecifications
 ms.assetid: b614eb40-d9cd-d615-41c9-c6980ea85006
+ms.date: 06/08/2017
 ---
 
 

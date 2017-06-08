@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DropLines.Delete
 ms.assetid: 5ad36b94-3ee7-8469-8773-d9726900c467
+ms.date: 06/08/2017
 ---
 
 

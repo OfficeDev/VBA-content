@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceMembers.Count
 ms.assetid: 4a981755-bde1-c8d0-8571-4b3a90ea3b23
+ms.date: 06/08/2017
 ---
 
 

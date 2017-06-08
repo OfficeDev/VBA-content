@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folders.Count
 ms.assetid: b1884cc1-5b50-0ea8-315a-3616d11db0e6
+ms.date: 06/08/2017
 ---
 
 

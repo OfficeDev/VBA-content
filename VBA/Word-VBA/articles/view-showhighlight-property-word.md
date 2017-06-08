@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowHighlight
 ms.assetid: ec0a5e47-f792-742b-654c-2aa137ab3ff1
+ms.date: 06/08/2017
 ---
 
 

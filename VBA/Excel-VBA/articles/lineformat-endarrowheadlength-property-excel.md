@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.EndArrowheadLength
 ms.assetid: e6dd340b-9732-db7e-2efb-7003bca0aea6
+ms.date: 06/08/2017
 ---
 
 

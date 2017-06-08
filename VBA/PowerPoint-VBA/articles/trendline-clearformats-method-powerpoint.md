@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Trendline.ClearFormats
 ms.assetid: e5339772-6ee6-3b39-2c8c-c01f32b42e6d
+ms.date: 06/08/2017
 ---
 
 

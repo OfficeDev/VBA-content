@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Baseline10Cost
 ms.assetid: 590ec3c4-417f-e407-c0da-786f7512f2c1
+ms.date: 06/08/2017
 ---
 
 

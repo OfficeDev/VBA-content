@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.CountOfLines
 ms.assetid: 6c3bb4c8-15a9-6365-155d-d28dc0c5de78
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.GroupShapes.Item
 ms.assetid: 8cb574da-688e-5409-e638-41c7bb505558
+ms.date: 06/08/2017
 ---
 
 

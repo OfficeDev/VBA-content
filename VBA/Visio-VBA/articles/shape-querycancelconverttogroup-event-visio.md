@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.QueryCancelConvertToGroup
 ms.assetid: 18fffdd9-2d6a-90d5-ac34-ce6f3a5e8df6
+ms.date: 06/08/2017
 ---
 
 

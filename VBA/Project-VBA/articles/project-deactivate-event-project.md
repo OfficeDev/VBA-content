@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.Deactivate
 ms.assetid: ce4301e5-8881-1280-fafb-a87c37d088dd
+ms.date: 06/08/2017
 ---
 
 

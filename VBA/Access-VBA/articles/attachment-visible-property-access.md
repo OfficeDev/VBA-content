@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Visible
 ms.assetid: 15606b3e-dffb-f179-021a-5bf8087003a7
+ms.date: 06/08/2017
 ---
 
 

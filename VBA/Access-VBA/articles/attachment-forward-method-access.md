@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Forward
 ms.assetid: 0fec305d-b2b9-29a4-c756-2f3e59679316
+ms.date: 06/08/2017
 ---
 
 

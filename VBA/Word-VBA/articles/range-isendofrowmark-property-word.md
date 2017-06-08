@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.IsEndOfRowMark
 ms.assetid: 0b1a7638-75ea-fb03-3a52-8bc759794408
+ms.date: 06/08/2017
 ---
 
 

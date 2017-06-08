@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.ExportAsFixedFormat
 ms.assetid: 8bb5b64f-57b2-cf87-344c-be1e2741a59c
+ms.date: 06/08/2017
 ---
 
 

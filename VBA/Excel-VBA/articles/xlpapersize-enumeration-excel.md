@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPaperSize
 ms.assetid: de26e46a-d82a-1383-91f5-a65f07daad97
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: FirstLetterExceptions Object (Word)
 ms.prod: WORD
 ms.assetid: 5dc5cc43-a696-d80f-58f9-0f74dfcad0ed
+ms.date: 06/08/2017
 ---
 
 

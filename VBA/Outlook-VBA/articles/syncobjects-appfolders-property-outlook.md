@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SyncObjects.AppFolders
 ms.assetid: 711ebc16-12ac-9df3-31af-a883f438814f
+ms.date: 06/08/2017
 ---
 
 

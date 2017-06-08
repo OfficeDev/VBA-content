@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.GotFocus
 ms.assetid: 413efc78-c011-2dd6-4c5c-7b462fa9ede2
+ms.date: 06/08/2017
 ---
 
 

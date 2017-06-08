@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ConnectorFormat.Application
 ms.assetid: 2192b7a8-36b3-ca12-7e40-2ca33219d566
+ms.date: 06/08/2017
 ---
 
 

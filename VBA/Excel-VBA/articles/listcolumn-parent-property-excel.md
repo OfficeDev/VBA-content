@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListColumn.Parent
 ms.assetid: 253542f9-839d-dbd2-2e06-f425062ebb92
+ms.date: 06/08/2017
 ---
 
 

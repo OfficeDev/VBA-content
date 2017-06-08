@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ConnectionsDisabled
 ms.assetid: afd53cc5-12d8-4b22-3186-1359c14f662e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Attachments.Add
 ms.assetid: e11980fd-e1fc-a0c3-cdd0-0e598988d3c2
+ms.date: 06/08/2017
 ---
 
 

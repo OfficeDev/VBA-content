@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TaskDependency.Lag
 ms.assetid: d3370ea3-5485-24d5-e363-ec4b5a0ec95b
+ms.date: 06/08/2017
 ---
 
 

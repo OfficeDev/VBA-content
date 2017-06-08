@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Sequence.ConvertToAfterEffect
 ms.assetid: bbd340a5-d0c4-1db9-259c-ee43c079309a
+ms.date: 06/08/2017
 ---
 
 

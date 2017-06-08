@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.AddProgressLine
 ms.assetid: f7a780f6-63af-e495-9fce-f3f1031bdfa0
+ms.date: 06/08/2017
 ---
 
 

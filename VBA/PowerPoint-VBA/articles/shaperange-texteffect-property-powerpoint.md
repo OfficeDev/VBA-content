@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.TextEffect
 ms.assetid: 8cf70ead-8534-ef82-5064-21b9929e6f08
+ms.date: 06/08/2017
 ---
 
 

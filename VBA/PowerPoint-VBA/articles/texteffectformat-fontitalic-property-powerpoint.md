@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.FontItalic
 ms.assetid: ee7b38b5-2ef7-ba05-e986-b3c84881baed
+ms.date: 06/08/2017
 ---
 
 

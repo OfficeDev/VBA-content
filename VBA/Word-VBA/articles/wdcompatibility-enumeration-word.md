@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCompatibility
 ms.assetid: d9541795-2d77-dfc6-5b1c-d3b0755cf8ff
+ms.date: 06/08/2017
 ---
 
 

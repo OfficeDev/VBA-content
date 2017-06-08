@@ -2,6 +2,7 @@
 title: CustomTaskPane Events (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: cf3c3298-4419-4f6a-80ae-5e94af5b6108
+ms.date: 06/08/2017
 ---
 
 

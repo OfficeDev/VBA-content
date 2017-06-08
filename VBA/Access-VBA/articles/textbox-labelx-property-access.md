@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.LabelX
 ms.assetid: 4d3ce486-bd79-cd6d-5886-a0a64cc7abb5
+ms.date: 06/08/2017
 ---
 
 

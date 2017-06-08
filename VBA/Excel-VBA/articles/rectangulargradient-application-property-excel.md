@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RectangularGradient.Application
 ms.assetid: 5fedb7a5-7944-65ef-b0c8-32760546f53c
+ms.date: 06/08/2017
 ---
 
 

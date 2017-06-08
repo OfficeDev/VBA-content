@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.DefaultProfileName
 ms.assetid: 53c6a189-9337-6413-72e5-bf6ea8794361
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.DropCap.FontColor
 ms.assetid: 0c740ec7-05ac-b1fc-875c-cfd5a934c403
+ms.date: 06/08/2017
 ---
 
 

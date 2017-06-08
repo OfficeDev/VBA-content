@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.Sensitivity
 ms.assetid: 4d0380a6-ab2f-f51b-92e4-5136e97dffd8
+ms.date: 06/08/2017
 ---
 
 

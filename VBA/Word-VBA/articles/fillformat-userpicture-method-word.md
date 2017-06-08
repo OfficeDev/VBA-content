@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.UserPicture
 ms.assetid: 09ddb55f-7ba0-9345-c366-23ac5ce6945a
+ms.date: 06/08/2017
 ---
 
 

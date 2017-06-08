@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Locked
 ms.assetid: d35da857-2f8a-9d7f-19d2-6d7fbe029c76
+ms.date: 06/08/2017
 ---
 
 

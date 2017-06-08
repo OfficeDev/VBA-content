@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarModule.Parent
 ms.assetid: 1a0637c3-e449-32ba-8597-87b8a04235f4
+ms.date: 06/08/2017
 ---
 
 

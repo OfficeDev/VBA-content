@@ -2,6 +2,7 @@
 title: Insert, Update, and Delete Records From a Table Using Access SQL
 ms.prod: ACCESS
 ms.assetid: 0d71f4f1-efc1-127e-5edc-263a3a2a30fb
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFieldShading
 ms.assetid: b5964c3d-6025-4637-5d1f-f483e997801e
+ms.date: 06/08/2017
 ---
 
 

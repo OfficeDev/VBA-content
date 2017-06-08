@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.Formula1
 ms.assetid: a6d69fd0-231a-8eb7-4a31-67ac29e10efe
+ms.date: 06/08/2017
 ---
 
 

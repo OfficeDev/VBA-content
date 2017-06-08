@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.FirstName
 ms.assetid: 403b5e5a-037b-cf21-efc2-2bd2a80c3789
+ms.date: 06/08/2017
 ---
 
 

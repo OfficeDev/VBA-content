@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.AfterWrite
 ms.assetid: c13180b2-084a-e18e-dbb4-0e1c707b627d
+ms.date: 06/08/2017
 ---
 
 

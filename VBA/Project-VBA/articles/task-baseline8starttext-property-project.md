@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline8StartText
 ms.assetid: f9ce5373-f49b-e28b-1323-b0ac0896df09
+ms.date: 06/08/2017
 ---
 
 

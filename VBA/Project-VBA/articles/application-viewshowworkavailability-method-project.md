@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewShowWorkAvailability
 ms.assetid: 909fbc1a-fe49-8121-c103-e287d10a49fa
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Forward
 ms.assetid: 6a2e78d9-12ca-160a-7154-4968054f6b72
+ms.date: 06/08/2017
 ---
 
 

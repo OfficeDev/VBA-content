@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.StatusBarText
 ms.assetid: 9d947d11-edb1-947a-df0c-727ef9b1599a
+ms.date: 06/08/2017
 ---
 
 

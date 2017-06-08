@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.BorderThemeColorIndex
 ms.assetid: 877c6731-2f2d-3d2e-05ff-8bc7ad5c8050
+ms.date: 06/08/2017
 ---
 
 

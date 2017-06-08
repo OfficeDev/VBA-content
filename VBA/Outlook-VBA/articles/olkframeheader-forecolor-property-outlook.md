@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkFrameHeader.ForeColor
 ms.assetid: 2f397b5f-292c-b2a8-4eb2-6df01e30317f
+ms.date: 06/08/2017
 ---
 
 

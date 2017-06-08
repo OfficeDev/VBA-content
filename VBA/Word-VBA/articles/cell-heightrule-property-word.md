@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cell.HeightRule
 ms.assetid: cff7f223-5f3f-c31f-e12a-3d28c96d47ec
+ms.date: 06/08/2017
 ---
 
 

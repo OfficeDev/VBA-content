@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.Reset
 ms.assetid: 47d6e16a-e789-2224-ec11-0569f199f787
+ms.date: 06/08/2017
 ---
 
 

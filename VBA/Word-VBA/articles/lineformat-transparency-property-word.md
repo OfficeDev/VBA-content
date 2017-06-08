@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.Transparency
 ms.assetid: c9b3adcb-c884-cfd1-6500-f430fdf86423
+ms.date: 06/08/2017
 ---
 
 

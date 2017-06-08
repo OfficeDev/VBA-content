@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.Height
 ms.assetid: b0b7ee95-509d-edff-f371-e57685ac2ddc
+ms.date: 06/08/2017
 ---
 
 

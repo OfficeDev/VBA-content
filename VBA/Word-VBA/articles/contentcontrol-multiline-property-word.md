@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.MultiLine
 ms.assetid: 5261a18d-aef6-fada-2e55-3549dbe9206f
+ms.date: 06/08/2017
 ---
 
 

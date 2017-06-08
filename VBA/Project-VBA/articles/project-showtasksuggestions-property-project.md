@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ShowTaskSuggestions
 ms.assetid: af4403d9-4c3f-60dc-c081-7e63b7da4738
+ms.date: 06/08/2017
 ---
 
 

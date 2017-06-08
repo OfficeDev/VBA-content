@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Pages
 ms.assetid: dc628cfa-9550-36e6-0aa1-06cf5e80fa25
+ms.date: 06/08/2017
 ---
 
 

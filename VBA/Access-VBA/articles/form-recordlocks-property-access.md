@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.RecordLocks
 ms.assetid: 9080f7dd-259e-8b13-9648-3269bc7321d3
+ms.date: 06/08/2017
 ---
 
 

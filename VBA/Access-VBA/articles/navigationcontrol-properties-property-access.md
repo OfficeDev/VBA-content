@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.Properties
 ms.assetid: 682d75b4-5bfd-ea22-c47a-ceb7a4d504f2
+ms.date: 06/08/2017
 ---
 
 

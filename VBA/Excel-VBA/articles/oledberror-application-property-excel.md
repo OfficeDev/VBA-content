@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEDBError.Application
 ms.assetid: 4e1f12b9-ba10-d579-4176-d02e086c172a
+ms.date: 06/08/2017
 ---
 
 

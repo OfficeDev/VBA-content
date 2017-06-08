@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.OutlineCode.OnlyLookUpTableCodes
 ms.assetid: 172aeac5-98ed-9599-e9d3-cc0afde6b940
+ms.date: 06/08/2017
 ---
 
 

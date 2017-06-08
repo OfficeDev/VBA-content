@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DocumentCloseCanceled
 ms.assetid: 38ac61ad-1a38-bd73-489b-09de41c69475
+ms.date: 06/08/2017
 ---
 
 

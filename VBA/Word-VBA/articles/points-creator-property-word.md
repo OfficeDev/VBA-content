@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Points.Creator
 ms.assetid: b752ccbf-975a-bf99-4b24-52bb111ef251
+ms.date: 06/08/2017
 ---
 
 

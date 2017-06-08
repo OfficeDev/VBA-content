@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.ConvertTextToSmartArt
 ms.assetid: c61b8cb6-d5a6-00bf-49e6-94b7a9499e75
+ms.date: 06/08/2017
 ---
 
 

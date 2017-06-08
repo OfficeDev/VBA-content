@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.FollowHyperlink
 ms.assetid: 411863be-0bd9-c939-1309-9f537b47f30b
+ms.date: 06/08/2017
 ---
 
 

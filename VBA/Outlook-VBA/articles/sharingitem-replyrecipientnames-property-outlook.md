@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ReplyRecipientNames
 ms.assetid: cba3ef38-2040-4cea-2ef2-a85d5ab28a24
+ms.date: 06/08/2017
 ---
 
 

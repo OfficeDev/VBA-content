@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AddIn.Installed
 ms.assetid: f8e6e45a-9f6c-2156-dd6f-d3f8e221c282
+ms.date: 06/08/2017
 ---
 
 

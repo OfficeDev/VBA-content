@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ResourceGroups
 ms.assetid: 9f268036-e676-708c-7688-b08cfa1ed5e1
+ms.date: 06/08/2017
 ---
 
 

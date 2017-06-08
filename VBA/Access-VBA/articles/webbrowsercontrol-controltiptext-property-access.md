@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.ControlTipText
 ms.assetid: 2b738920-d982-388c-7c37-cf3e3d8dc741
+ms.date: 06/08/2017
 ---
 
 

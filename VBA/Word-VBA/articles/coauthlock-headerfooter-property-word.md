@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthLock.HeaderFooter
 ms.assetid: feeed8d4-67d4-5b88-5aa7-a8a05f2c66df
+ms.date: 06/08/2017
 ---
 
 

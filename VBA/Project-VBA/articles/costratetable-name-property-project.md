@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.CostRateTable.Name
 ms.assetid: b72b17b5-ad00-b251-0dea-be6fdf520556
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Delete
 ms.assetid: af94a209-b651-442f-8fa3-3a6436833d15
+ms.date: 06/08/2017
 ---
 
 

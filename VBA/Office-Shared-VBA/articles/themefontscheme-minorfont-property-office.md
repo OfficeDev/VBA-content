@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ThemeFontScheme.MinorFont
 ms.assetid: e57d0a0c-bb93-6fd2-e8d2-83ac1286f670
+ms.date: 06/08/2017
 ---
 
 

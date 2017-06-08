@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.OnCurrent
 ms.assetid: bb7eb7be-7bb6-8fdd-6a48-f5b33ad7dc14
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Items.ItemChange
 ms.assetid: 6478357e-2a5a-300a-24e6-c125f8c81edd
+ms.date: 06/08/2017
 ---
 
 

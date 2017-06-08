@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage.PTCondition
 ms.assetid: 58a7c3ce-f4dc-f003-5071-8becc3d82564
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlConstants
 ms.assetid: fe30391f-83ee-3259-620f-d1224ab92d5f
+ms.date: 06/08/2017
 ---
 
 

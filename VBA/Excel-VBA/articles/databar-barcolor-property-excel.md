@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.BarColor
 ms.assetid: 68c823f7-93ca-a64a-43ea-bc5bcffa7bb4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Frames
 ms.assetid: cc589559-858a-2ebb-00dd-64f97966859f
+ms.date: 06/08/2017
 ---
 
 

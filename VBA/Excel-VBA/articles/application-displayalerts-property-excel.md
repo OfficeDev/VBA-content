@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayAlerts
 ms.assetid: d9f36a99-e9c9-9a67-abaf-9c8e49b4febc
+ms.date: 06/08/2017
 ---
 
 

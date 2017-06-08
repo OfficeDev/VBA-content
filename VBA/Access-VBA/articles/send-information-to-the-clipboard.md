@@ -2,6 +2,7 @@
 title: Send Information to the Clipboard
 ms.prod: ACCESS
 ms.assetid: 4261f071-7bff-b290-c3d3-03645fd9ada0
+ms.date: 06/08/2017
 ---
 
 

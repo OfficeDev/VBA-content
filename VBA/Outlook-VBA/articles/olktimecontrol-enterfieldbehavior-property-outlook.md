@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.EnterFieldBehavior
 ms.assetid: 72e4d3a1-10cc-23a6-7bad-1ddca73c9db3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.ConversationID
 ms.assetid: 7cef33a7-99f8-63f6-a987-6dce94fa3120
+ms.date: 06/08/2017
 ---
 
 

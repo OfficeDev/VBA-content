@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.ExportAsFixedFormat
 ms.assetid: 70b83f7e-b7f8-7b8f-d9d7-7f7b30f3b45d
+ms.date: 06/08/2017
 ---
 
 

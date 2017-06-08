@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.PresetGradientType
 ms.assetid: a9a4f3fc-7350-aba1-394a-10936166ea4c
+ms.date: 06/08/2017
 ---
 
 

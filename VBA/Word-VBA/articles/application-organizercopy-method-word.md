@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.OrganizerCopy
 ms.assetid: a23452aa-7372-ca58-291f-164e6000162d
+ms.date: 06/08/2017
 ---
 
 

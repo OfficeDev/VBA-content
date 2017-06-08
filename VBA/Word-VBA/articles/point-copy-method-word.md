@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Copy
 ms.assetid: 1ea9d6cd-7ec5-6c3a-b04a-daf5531ad177
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DrawRectangle
 ms.assetid: e41ec411-ccd7-0fe6-f560-cf3934d18b59
+ms.date: 06/08/2017
 ---
 
 

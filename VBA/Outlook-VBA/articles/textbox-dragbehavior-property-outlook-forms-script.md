@@ -2,6 +2,7 @@
 title: TextBox.DragBehavior Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 625ff366-65d5-0b50-bd73-420df5324fd2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TasksModule.NavigationGroups
 ms.assetid: c80707ff-216c-083a-475b-6de95621b775
+ms.date: 06/08/2017
 ---
 
 

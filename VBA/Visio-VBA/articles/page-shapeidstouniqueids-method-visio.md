@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ShapeIDsToUniqueIDs
 ms.assetid: b89e82db-3c7b-fb73-2f4c-10056c6e7b28
+ms.date: 06/08/2017
 ---
 
 

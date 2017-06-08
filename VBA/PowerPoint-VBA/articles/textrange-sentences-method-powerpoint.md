@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Sentences
 ms.assetid: c3640cb8-f78a-2934-bbe0-506cb8d2534c
+ms.date: 06/08/2017
 ---
 
 

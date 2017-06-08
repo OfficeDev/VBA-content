@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.SplitRow
 ms.assetid: a1b900c3-4152-8701-db1f-1b576249c686
+ms.date: 06/08/2017
 ---
 
 

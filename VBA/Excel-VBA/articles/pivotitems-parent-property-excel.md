@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItems.Parent
 ms.assetid: 3a99094c-c874-8bd4-3d3c-7da485c18c67
+ms.date: 06/08/2017
 ---
 
 

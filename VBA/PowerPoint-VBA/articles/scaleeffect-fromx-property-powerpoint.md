@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ScaleEffect.FromX
 ms.assetid: 2533c987-5321-177f-946d-ee5be5122b16
+ms.date: 06/08/2017
 ---
 
 

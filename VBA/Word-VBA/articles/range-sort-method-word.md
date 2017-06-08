@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Sort
 ms.assetid: 2030f99e-0307-d2b7-9e14-1d0888f3fda6
+ms.date: 06/08/2017
 ---
 
 

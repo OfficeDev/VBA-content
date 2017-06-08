@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.BeforeItemPaste
 ms.assetid: a6d43429-5309-4b07-7b0b-68cddd2d7e59
+ms.date: 06/08/2017
 ---
 
 

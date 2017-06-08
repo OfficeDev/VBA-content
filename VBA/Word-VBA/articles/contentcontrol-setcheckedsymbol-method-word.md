@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.SetCheckedSymbol
 ms.assetid: 67f93aa6-a4ad-2d89-eb6d-483ff6df2db2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.TriggerDelayTime
 ms.assetid: 4d14ffb0-e966-4708-ba30-4a9a1fe34766
+ms.date: 06/08/2017
 ---
 
 

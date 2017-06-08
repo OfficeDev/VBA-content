@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.EnableAnimations
 ms.assetid: fb49fb3c-a842-73ab-1819-054f7403c85e
+ms.date: 06/08/2017
 ---
 
 

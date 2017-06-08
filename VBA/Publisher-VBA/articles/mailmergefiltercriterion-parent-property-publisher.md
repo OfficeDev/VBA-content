@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeFilterCriterion.Parent
 ms.assetid: 8f80ef0e-30ce-b975-a42a-2022b184dc15
+ms.date: 06/08/2017
 ---
 
 

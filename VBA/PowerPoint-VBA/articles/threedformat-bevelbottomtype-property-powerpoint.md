@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.BevelBottomType
 ms.assetid: 3cb86416-7f15-63fd-4002-e8d529836a3f
+ms.date: 06/08/2017
 ---
 
 

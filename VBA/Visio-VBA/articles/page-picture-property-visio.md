@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.Picture
 ms.assetid: 2e70f00f-6f42-4449-2fcf-ec79f0097296
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Columns.Application
 ms.assetid: 27f6347e-8628-e89a-e173-6f7ab2eaa924
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.CustomXMLParts
 ms.assetid: 302bbfd0-2f82-64ba-06fe-ee329c128bf6
+ms.date: 06/08/2017
 ---
 
 

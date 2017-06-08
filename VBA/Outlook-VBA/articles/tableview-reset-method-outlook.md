@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.Reset
 ms.assetid: bb164b86-804c-8b4f-4dd7-505d400e8b08
+ms.date: 06/08/2017
 ---
 
 

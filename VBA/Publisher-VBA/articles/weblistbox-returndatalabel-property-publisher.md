@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBox.ReturnDataLabel
 ms.assetid: 0c9a6942-1cc7-92b6-116e-836e79560084
+ms.date: 06/08/2017
 ---
 
 

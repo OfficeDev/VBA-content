@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControlListEntry.MoveDown
 ms.assetid: 9b8e366e-3d04-c5d5-b9b5-0a91e10b8c1f
+ms.date: 06/08/2017
 ---
 
 

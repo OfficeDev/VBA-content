@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdBorderDistanceFrom
 ms.assetid: 5ab27988-44c2-a601-45b0-265821b01c15
+ms.date: 06/08/2017
 ---
 
 

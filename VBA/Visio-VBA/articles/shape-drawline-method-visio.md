@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DrawLine
 ms.assetid: 8793104a-0ded-e2ca-54e8-acf987b9c797
+ms.date: 06/08/2017
 ---
 
 

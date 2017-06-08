@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.RightMargin
 ms.assetid: ee2fc9f4-92a6-a787-7fa0-cd43da52fadb
+ms.date: 06/08/2017
 ---
 
 

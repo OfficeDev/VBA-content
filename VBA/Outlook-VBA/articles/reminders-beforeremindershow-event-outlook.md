@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.BeforeReminderShow
 ms.assetid: 863859c0-a137-384d-80df-63fde038b533
+ms.date: 06/08/2017
 ---
 
 

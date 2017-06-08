@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AppObjDeactivated
 ms.assetid: 0a401a6e-6aee-3175-6834-55a828a9c864
+ms.date: 06/08/2017
 ---
 
 

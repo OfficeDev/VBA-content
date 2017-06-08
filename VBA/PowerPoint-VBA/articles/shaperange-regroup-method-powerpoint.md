@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Regroup
 ms.assetid: 3da4a44d-4b0c-e335-b376-4d76fe5ed561
+ms.date: 06/08/2017
 ---
 
 

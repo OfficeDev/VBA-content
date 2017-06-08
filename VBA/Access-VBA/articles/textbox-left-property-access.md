@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Left
 ms.assetid: a184b336-215d-ffe0-d7ce-92f1fdc3b656
+ms.date: 06/08/2017
 ---
 
 

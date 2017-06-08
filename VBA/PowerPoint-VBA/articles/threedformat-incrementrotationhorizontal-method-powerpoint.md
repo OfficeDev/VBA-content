@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationHorizontal
 ms.assetid: 69ee3a3a-8ba3-a9c2-1c28-17ed54ba1c1a
+ms.date: 06/08/2017
 ---
 
 

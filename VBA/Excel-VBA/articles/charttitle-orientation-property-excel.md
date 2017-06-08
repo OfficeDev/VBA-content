@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartTitle.Orientation
 ms.assetid: e5cbc985-0afc-8e07-35ac-7dad72e5e380
+ms.date: 06/08/2017
 ---
 
 

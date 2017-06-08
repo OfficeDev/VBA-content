@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.MouseDown
 ms.assetid: 1895790f-e5d6-493e-6005-a2c6a83cbd87
+ms.date: 06/08/2017
 ---
 
 

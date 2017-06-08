@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.ListBulletFontName
 ms.assetid: aa0269a1-c5a8-1705-551f-6b1b849701e9
+ms.date: 06/08/2017
 ---
 
 

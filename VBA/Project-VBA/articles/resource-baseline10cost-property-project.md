@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Baseline10Cost
 ms.assetid: cecb4357-59de-3d83-43b2-0855fec4e4fb
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Selection.Tasks
 ms.assetid: 8f58ea8e-a3a1-f5aa-ad5d-6447fe777453
+ms.date: 06/08/2017
 ---
 
 

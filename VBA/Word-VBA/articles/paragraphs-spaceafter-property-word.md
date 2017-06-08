@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.SpaceAfter
 ms.assetid: 78a75278-acca-a588-0fef-01511cf67a20
+ms.date: 06/08/2017
 ---
 
 

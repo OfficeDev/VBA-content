@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TransitionEffect
 ms.assetid: 10a65973-fa2e-5b9d-5052-ead41286e1af
+ms.date: 06/08/2017
 ---
 
 

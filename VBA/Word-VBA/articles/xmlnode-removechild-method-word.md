@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNode.RemoveChild
 ms.assetid: 9c4d0e0a-ab58-7c9f-9fc2-f07a28281c29
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.SaveBusinessCardImage
 ms.assetid: 889728f2-2c17-6b83-a858-bb32ef5845e6
+ms.date: 06/08/2017
 ---
 
 

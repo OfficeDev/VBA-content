@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DisplayProjectSummaryTask
 ms.assetid: 4b04ec4a-a050-8038-c549-bc8942fbadd6
+ms.date: 06/08/2017
 ---
 
 

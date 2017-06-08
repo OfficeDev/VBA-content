@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.Previous
 ms.assetid: 5eeca0db-eef9-88b7-4dac-abec4797b7a7
+ms.date: 06/08/2017
 ---
 
 

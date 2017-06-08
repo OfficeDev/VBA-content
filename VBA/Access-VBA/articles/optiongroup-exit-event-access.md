@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.Exit
 ms.assetid: 2c8000f7-256d-232a-c2ac-f027eac7bc6a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.UndoEnabled
 ms.assetid: c7164cb6-7ce4-b65d-7f5b-1f3987a3fe21
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.GUIDFromString
 ms.assetid: 943da2f6-a578-f05d-5778-990b6892fc64
+ms.date: 06/08/2017
 ---
 
 

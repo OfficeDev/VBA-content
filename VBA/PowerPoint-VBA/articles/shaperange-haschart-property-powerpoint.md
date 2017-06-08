@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.HasChart
 ms.assetid: b863fc82-6f99-d102-a399-fde44af9e877
+ms.date: 06/08/2017
 ---
 
 

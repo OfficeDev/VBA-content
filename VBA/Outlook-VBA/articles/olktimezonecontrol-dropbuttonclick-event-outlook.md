@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.DropButtonClick
 ms.assetid: 4b0026d4-fb18-e72f-a369-6e14f4cfe8dd
+ms.date: 06/08/2017
 ---
 
 

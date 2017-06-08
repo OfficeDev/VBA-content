@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.ClearCharacterDirectFormatting
 ms.assetid: d2138876-c832-2407-a53e-5bd4af2421b7
+ms.date: 06/08/2017
 ---
 
 

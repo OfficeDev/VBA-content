@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatConditions.AddColorScale
 ms.assetid: f1b23e2f-0c62-fdc5-597b-a8a444d5a4a3
+ms.date: 06/08/2017
 ---
 
 

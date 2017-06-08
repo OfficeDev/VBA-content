@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.TTYTDDTelephoneNumber
 ms.assetid: 88d6c5d6-c6cb-c873-8ef2-c3293c1fd81a
+ms.date: 06/08/2017
 ---
 
 

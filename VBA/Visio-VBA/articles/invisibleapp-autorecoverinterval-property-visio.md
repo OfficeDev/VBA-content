@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.AutoRecoverInterval
 ms.assetid: 0aeb2e8b-c6eb-c4c6-fc62-ff41d415f0bc
+ms.date: 06/08/2017
 ---
 
 

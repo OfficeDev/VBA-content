@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBoxItems.Delete
 ms.assetid: 1efd92e7-77a1-62cb-655a-aa6e600df018
+ms.date: 06/08/2017
 ---
 
 

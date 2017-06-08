@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.OnAction
 ms.assetid: c0a4148c-330a-6bd9-dd14-7ade8fc833fe
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.OpenOrCloseUp
 ms.assetid: ab5a657f-9a8f-a191-76ac-f16aaa2758ee
+ms.date: 06/08/2017
 ---
 
 

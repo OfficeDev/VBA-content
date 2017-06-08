@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.MousePointer
 ms.assetid: 18b86d00-abe3-6c54-c517-8904de295fcc
+ms.date: 06/08/2017
 ---
 
 

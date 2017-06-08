@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.TickLabelPosition
 ms.assetid: c0284fd9-ec02-fdc9-4c8b-49efdb85be87
+ms.date: 06/08/2017
 ---
 
 

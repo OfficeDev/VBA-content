@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.OnMouseUp
 ms.assetid: fc251872-bc0b-d3a3-1426-fdb121b24145
+ms.date: 06/08/2017
 ---
 
 

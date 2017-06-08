@@ -2,6 +2,7 @@
 title: Format of memo file does not match specified external database format. (Error 3286)
 ms.prod: ACCESS
 ms.assetid: ff7402c0-05e9-48f7-6ab9-8bbf01888b06
+ms.date: 06/08/2017
 ---
 
 

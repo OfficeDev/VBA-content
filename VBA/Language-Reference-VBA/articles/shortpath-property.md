@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ShortPath
 ms.assetid: 9d473ea7-d555-0d79-9dfc-4822aa99ccd8
+ms.date: 06/08/2017
 ---
 
 

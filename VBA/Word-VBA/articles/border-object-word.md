@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Border
 ms.assetid: be48c020-b86c-c004-ce1c-76d9edae9791
+ms.date: 06/08/2017
 ---
 
 

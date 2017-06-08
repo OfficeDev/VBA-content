@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ShowPageOutline
 ms.assetid: 0e1f0413-1619-0e4f-ad44-e810ee2a38d1
+ms.date: 06/08/2017
 ---
 
 

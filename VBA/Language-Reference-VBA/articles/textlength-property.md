@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextLength
 ms.assetid: 9276412c-7c64-34c2-59d8-f0b8f21dc98a
+ms.date: 06/08/2017
 ---
 
 

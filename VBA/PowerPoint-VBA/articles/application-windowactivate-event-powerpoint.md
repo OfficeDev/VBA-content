@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.WindowActivate
 ms.assetid: 0d83fda3-b0ad-18df-57bf-c34dafcf782f
+ms.date: 06/08/2017
 ---
 
 

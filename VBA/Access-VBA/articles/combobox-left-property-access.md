@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.Left
 ms.assetid: d6eeae85-bc8f-c56e-4014-d1a95e32d18e
+ms.date: 06/08/2017
 ---
 
 

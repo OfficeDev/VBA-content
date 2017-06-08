@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.NameFarEast
 ms.assetid: 8df21c3e-5f50-37ca-cde9-27f5b0551f8e
+ms.date: 06/08/2017
 ---
 
 

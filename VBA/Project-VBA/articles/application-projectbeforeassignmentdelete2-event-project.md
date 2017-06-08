@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete2
 ms.assetid: 2753a140-e01b-b2c1-233f-f9f265737b47
+ms.date: 06/08/2017
 ---
 
 

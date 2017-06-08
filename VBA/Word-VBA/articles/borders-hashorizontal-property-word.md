@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.HasHorizontal
 ms.assetid: 5a5863c8-8f0d-67f9-6e1f-2a4dd6b4fbc6
+ms.date: 06/08/2017
 ---
 
 

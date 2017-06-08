@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Max
 ms.assetid: f0b2df1d-3b0e-2387-fa91-f8bf8cb6c4da
+ms.date: 06/08/2017
 ---
 
 

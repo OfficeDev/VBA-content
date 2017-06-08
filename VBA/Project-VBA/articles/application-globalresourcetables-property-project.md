@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GlobalResourceTables
 ms.assetid: 8cf96f98-b0d0-2ae8-e472-6f74b62f6411
+ms.date: 06/08/2017
 ---
 
 

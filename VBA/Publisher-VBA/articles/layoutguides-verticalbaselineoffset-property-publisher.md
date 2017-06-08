@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.VerticalBaseLineOffset
 ms.assetid: 9a2f031c-4469-ca26-3e79-dfa556762e05
+ms.date: 06/08/2017
 ---
 
 

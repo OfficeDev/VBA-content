@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SelectSingleNode
 ms.assetid: 85f22e41-97e3-4413-c57e-26719155dc7d
+ms.date: 06/08/2017
 ---
 
 

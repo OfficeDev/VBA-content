@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.UIObject.MenuAnimationStyle
 ms.assetid: 17a7b713-62b4-98cc-141d-fd86e762ba99
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.SuspendCanceled
 ms.assetid: 63b2a2c6-5ac7-2e04-e7ac-3295df179498
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Column3DGroup
 ms.assetid: 9fa90f46-29b8-c710-93de-4150e276330c
+ms.date: 06/08/2017
 ---
 
 

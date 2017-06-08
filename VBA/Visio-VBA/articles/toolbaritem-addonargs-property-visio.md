@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ToolbarItem.AddOnArgs
 ms.assetid: 2e498e9e-021c-3857-2420-f7f8cc5de6c5
+ms.date: 06/08/2017
 ---
 
 

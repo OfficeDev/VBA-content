@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.GetNamesU
 ms.assetid: eb7ac155-5124-f25d-3c5a-a30773940dd0
+ms.date: 06/08/2017
 ---
 
 

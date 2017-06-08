@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlDataSeriesType
 ms.assetid: 250af7ce-5e12-6f6d-274c-d35a581b2b63
+ms.date: 06/08/2017
 ---
 
 

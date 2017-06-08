@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.TransparencyColor
 ms.assetid: 908d2e21-3e2a-b75b-a82d-454686b7ecb8
+ms.date: 06/08/2017
 ---
 
 

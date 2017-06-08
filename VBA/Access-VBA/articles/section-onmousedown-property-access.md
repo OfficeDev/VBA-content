@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.OnMouseDown
 ms.assetid: 3780a950-6f01-10de-7e91-c991e92f344a
+ms.date: 06/08/2017
 ---
 
 

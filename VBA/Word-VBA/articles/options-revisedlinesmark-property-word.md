@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.RevisedLinesMark
 ms.assetid: ecc358f2-4bf6-7546-5400-938a3dae6b77
+ms.date: 06/08/2017
 ---
 
 

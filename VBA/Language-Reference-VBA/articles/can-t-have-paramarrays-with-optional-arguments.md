@@ -2,6 +2,7 @@
 title: Can't have paramarrays with optional arguments
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: e27c774f-eda7-4880-83b1-a5f98d070701
+ms.date: 06/08/2017
 ---
 
 

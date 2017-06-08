@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspectors.Parent
 ms.assetid: cb941b06-b893-6ff2-9d15-1aa440101a7a
+ms.date: 06/08/2017
 ---
 
 

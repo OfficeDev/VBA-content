@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStop.Previous
 ms.assetid: 3f90956c-905a-9139-c607-6bd1a8022338
+ms.date: 06/08/2017
 ---
 
 

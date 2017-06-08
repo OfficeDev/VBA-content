@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormatInteger
 ms.assetid: f63df4f1-2d41-18bc-fccb-c2375cd23be8
+ms.date: 06/08/2017
 ---
 
 

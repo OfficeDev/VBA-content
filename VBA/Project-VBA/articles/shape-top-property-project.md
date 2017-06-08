@@ -2,6 +2,7 @@
 title: Shape.Top Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: c105b882-49fb-c9ba-25bf-6b62b393ac48
+ms.date: 06/08/2017
 ---
 
 

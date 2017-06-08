@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GradientStops.Count
 ms.assetid: d43892a5-8abc-38fc-efc1-311dc8125575
+ms.date: 06/08/2017
 ---
 
 

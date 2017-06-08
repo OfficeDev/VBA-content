@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OLEFormat.Parent
 ms.assetid: ae465179-db82-f0af-64f5-7fc94457b8fe
+ms.date: 06/08/2017
 ---
 
 

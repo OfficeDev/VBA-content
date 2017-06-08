@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesLines.Application
 ms.assetid: 5ba69eec-ba6e-815d-660f-cdeaa6ca6f88
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.Copy
 ms.assetid: cd96e7bb-ced8-08a6-000f-7926c37d5af2
+ms.date: 06/08/2017
 ---
 
 

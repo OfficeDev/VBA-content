@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.ColumnOrder
 ms.assetid: 182e4cdf-f6e3-bf7b-5080-23b5d3cddfe3
+ms.date: 06/08/2017
 ---
 
 

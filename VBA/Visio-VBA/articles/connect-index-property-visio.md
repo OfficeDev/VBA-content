@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Connect.Index
 ms.assetid: b4769854-90b6-9433-485c-5adf1f655923
+ms.date: 06/08/2017
 ---
 
 

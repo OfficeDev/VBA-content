@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.WindowState
 ms.assetid: e3d6a31a-158b-131c-1eb3-7d75d36692e7
+ms.date: 06/08/2017
 ---
 
 

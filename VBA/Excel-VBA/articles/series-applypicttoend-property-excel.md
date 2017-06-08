@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.ApplyPictToEnd
 ms.assetid: 40d4dca5-1747-c9c6-a117-29939bf4cd74
+ms.date: 06/08/2017
 ---
 
 

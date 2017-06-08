@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationGroup.Parent
 ms.assetid: c9d43ee0-ae80-d2f7-93ff-d9948d6e04b9
+ms.date: 06/08/2017
 ---
 
 

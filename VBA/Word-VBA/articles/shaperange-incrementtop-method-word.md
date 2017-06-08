@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.IncrementTop
 ms.assetid: 871fed42-0fb6-3477-e854-1cc02a70e73b
+ms.date: 06/08/2017
 ---
 
 

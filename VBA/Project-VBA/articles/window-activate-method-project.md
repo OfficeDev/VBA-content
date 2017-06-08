@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Window.Activate
 ms.assetid: 95b97794-89d4-2e0f-b9b1-12cddb38ffbb
+ms.date: 06/08/2017
 ---
 
 

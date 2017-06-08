@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WindowDeactivate
 ms.assetid: 6adcba54-3d4a-f780-915e-5798303faf60
+ms.date: 06/08/2017
 ---
 
 

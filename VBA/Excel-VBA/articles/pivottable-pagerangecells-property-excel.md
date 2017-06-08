@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.PageRangeCells
 ms.assetid: 1c3b0694-539a-7d2d-17df-c0c0405d19e6
+ms.date: 06/08/2017
 ---
 
 

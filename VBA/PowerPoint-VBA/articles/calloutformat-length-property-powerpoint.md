@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.Length
 ms.assetid: b0144e68-b495-0ef3-b228-599e56b7833e
+ms.date: 06/08/2017
 ---
 
 

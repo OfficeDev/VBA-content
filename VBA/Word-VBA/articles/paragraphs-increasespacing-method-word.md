@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.IncreaseSpacing
 ms.assetid: d0416601-5616-0e93-540f-f09e192b0c91
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.Language
 ms.assetid: 52738c62-e3a3-7c20-9c94-deff1b2b64b8
+ms.date: 06/08/2017
 ---
 
 

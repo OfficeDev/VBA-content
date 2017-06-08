@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.AddTitleMaster
 ms.assetid: b49baa5b-217a-ab6d-3cb3-ff74e533ef20
+ms.date: 06/08/2017
 ---
 
 

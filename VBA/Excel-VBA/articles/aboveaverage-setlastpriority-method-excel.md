@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage.SetLastPriority
 ms.assetid: e28605d2-338b-4efb-e7f0-f250bca85050
+ms.date: 06/08/2017
 ---
 
 

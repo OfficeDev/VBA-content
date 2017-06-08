@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.VarOleObject
 ms.assetid: e04e769d-07fb-dacc-aa70-ddd3a064d785
+ms.date: 06/08/2017
 ---
 
 

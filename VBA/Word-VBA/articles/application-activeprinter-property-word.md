@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ActivePrinter
 ms.assetid: 835e350a-e069-e751-a7d7-1e9bb2483b4a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MarkerSize
 ms.assetid: 8af0ad97-9291-8bee-b896-283b76f8a882
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Hyperlink
 ms.assetid: 13a80139-3b1e-f94c-d5fc-1d5c0f305a0d
+ms.date: 06/08/2017
 ---
 
 

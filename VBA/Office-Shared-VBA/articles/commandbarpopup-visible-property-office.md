@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Visible
 ms.assetid: 03b74aed-4f36-c45b-a490-a7143542307e
+ms.date: 06/08/2017
 ---
 
 

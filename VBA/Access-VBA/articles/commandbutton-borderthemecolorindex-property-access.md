@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.BorderThemeColorIndex
 ms.assetid: 497b2f7a-9b17-79ed-1ad9-fc990f6b9c7d
+ms.date: 06/08/2017
 ---
 
 

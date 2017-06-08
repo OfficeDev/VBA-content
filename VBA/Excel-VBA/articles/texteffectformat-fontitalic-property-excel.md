@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextEffectFormat.FontItalic
 ms.assetid: 5c1f9cd5-e994-3bed-f8ad-ab2ee2d64e7a
+ms.date: 06/08/2017
 ---
 
 

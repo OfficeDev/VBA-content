@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.ShowImportExportValidationErrors
 ms.assetid: 0a0ece1c-f069-714d-79fa-a6ab564470fc
+ms.date: 06/08/2017
 ---
 
 

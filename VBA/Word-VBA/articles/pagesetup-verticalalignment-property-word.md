@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.VerticalAlignment
 ms.assetid: d21c70de-2f3a-3a33-df3d-e1b0a89314f9
+ms.date: 06/08/2017
 ---
 
 

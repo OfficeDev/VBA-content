@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FillFormat.Solid
 ms.assetid: e34f6bc0-308b-4f86-5ce9-87e05c4a2089
+ms.date: 06/08/2017
 ---
 
 

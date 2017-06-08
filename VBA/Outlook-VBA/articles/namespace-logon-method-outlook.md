@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.Logon
 ms.assetid: 167c632b-0d52-a1e4-8dcd-57d301cde3c9
+ms.date: 06/08/2017
 ---
 
 

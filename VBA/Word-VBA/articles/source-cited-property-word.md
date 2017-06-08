@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Source.Cited
 ms.assetid: b74693b5-1ffb-a5b6-09fc-6ff91a345c07
+ms.date: 06/08/2017
 ---
 
 

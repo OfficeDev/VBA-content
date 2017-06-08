@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Close
 ms.assetid: a7327598-facc-06e9-6256-4ca9090c10d5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AxisBetweenCategories
 ms.assetid: 4ca52b75-036d-0851-c3cd-aa2deca0907e
+ms.date: 06/08/2017
 ---
 
 

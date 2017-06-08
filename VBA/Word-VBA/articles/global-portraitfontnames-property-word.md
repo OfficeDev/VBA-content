@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.PortraitFontNames
 ms.assetid: 07627cb8-a47f-14c9-b630-de9318e9e3d6
+ms.date: 06/08/2017
 ---
 
 

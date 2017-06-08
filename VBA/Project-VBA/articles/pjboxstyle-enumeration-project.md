@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjBoxStyle
 ms.assetid: c057bee9-5c28-f32a-2c0c-db8b56e9dc52
+ms.date: 06/08/2017
 ---
 
 

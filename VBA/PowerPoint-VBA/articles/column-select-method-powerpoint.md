@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Column.Select
 ms.assetid: cf50565f-3f7f-3630-aa66-ab1a01d414bb
+ms.date: 06/08/2017
 ---
 
 

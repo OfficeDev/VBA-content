@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPageFit
 ms.assetid: 932e4739-966a-b4f8-997e-93e413e4b5cd
+ms.date: 06/08/2017
 ---
 
 

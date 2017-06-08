@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.VisualReportsAdditionalTemplatePath
 ms.assetid: d1727b8c-595e-bf41-cbd5-3cebed893636
+ms.date: 06/08/2017
 ---
 
 

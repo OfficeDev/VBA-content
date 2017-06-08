@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkPoints.Creator
 ms.assetid: 65ad69c7-3c71-f844-2cef-325d707a225d
+ms.date: 06/08/2017
 ---
 
 

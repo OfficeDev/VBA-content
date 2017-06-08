@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.Quit
 ms.assetid: 664bc8ba-ad97-8d4f-02f9-7f9bdd04beea
+ms.date: 06/08/2017
 ---
 
 

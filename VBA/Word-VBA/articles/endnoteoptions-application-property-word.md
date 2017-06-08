@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EndnoteOptions.Application
 ms.assetid: fba2de93-fc7d-2c37-fe8f-9c229443edd5
+ms.date: 06/08/2017
 ---
 
 

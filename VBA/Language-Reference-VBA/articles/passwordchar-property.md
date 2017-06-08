@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PasswordChar
 ms.assetid: 2dd645b2-fe8d-a644-b796-e0595627cbb8
+ms.date: 06/08/2017
 ---
 
 

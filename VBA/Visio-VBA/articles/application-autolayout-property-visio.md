@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AutoLayout
 ms.assetid: b631def8-d271-8ed0-880a-db8a1ee26759
+ms.date: 06/08/2017
 ---
 
 

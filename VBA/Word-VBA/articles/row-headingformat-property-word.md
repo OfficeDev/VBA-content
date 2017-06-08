@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.HeadingFormat
 ms.assetid: 18b0161c-ad04-57a2-02fb-870fabed158b
+ms.date: 06/08/2017
 ---
 
 

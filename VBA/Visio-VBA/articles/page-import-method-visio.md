@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.Import
 ms.assetid: a84086c3-694d-8cf3-e6f7-ba84e182dd4a
+ms.date: 06/08/2017
 ---
 
 

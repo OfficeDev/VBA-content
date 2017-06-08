@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.PrefixCharacter
 ms.assetid: 1f7d5fbc-136a-5164-4cec-0054f8bcd0b1
+ms.date: 06/08/2017
 ---
 
 

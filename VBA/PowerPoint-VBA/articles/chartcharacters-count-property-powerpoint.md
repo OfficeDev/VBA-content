@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartCharacters.Count
 ms.assetid: 99e1634b-49de-220e-e0e1-cfb31a1ba73a
+ms.date: 06/08/2017
 ---
 
 

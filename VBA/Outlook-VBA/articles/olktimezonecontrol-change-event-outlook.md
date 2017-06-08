@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.Change
 ms.assetid: 3afbd91d-6b14-4f0b-14dc-9ed266704876
+ms.date: 06/08/2017
 ---
 
 

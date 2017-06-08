@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.IsPriorityDropped
 ms.assetid: cc537dd9-3b10-cba1-d8e0-bdf3952a1e23
+ms.date: 06/08/2017
 ---
 
 

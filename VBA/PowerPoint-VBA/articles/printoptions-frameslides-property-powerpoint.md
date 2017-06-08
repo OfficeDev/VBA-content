@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.FrameSlides
 ms.assetid: 4e866170-ab21-44e1-a497-7fc8e331fcec
+ms.date: 06/08/2017
 ---
 
 

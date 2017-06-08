@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.ItalicRun
 ms.assetid: 0d36eff1-7308-7695-7058-be79455836ee
+ms.date: 06/08/2017
 ---
 
 

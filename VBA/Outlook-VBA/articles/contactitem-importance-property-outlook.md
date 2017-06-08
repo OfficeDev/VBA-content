@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Importance
 ms.assetid: f56f1c98-3d07-87d5-2af2-c98ef314036f
+ms.date: 06/08/2017
 ---
 
 

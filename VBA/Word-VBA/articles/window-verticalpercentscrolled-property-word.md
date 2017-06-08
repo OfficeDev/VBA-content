@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.VerticalPercentScrolled
 ms.assetid: 008d46d1-667a-9f32-1f8c-cb18ccde8a2f
+ms.date: 06/08/2017
 ---
 
 

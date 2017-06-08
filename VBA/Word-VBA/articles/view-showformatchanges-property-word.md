@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowFormatChanges
 ms.assetid: e431dc24-a975-958c-07dc-64062e05cb26
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.BCWP
 ms.assetid: b21fdd25-7e81-8e26-963f-dd4a8035bb75
+ms.date: 06/08/2017
 ---
 
 

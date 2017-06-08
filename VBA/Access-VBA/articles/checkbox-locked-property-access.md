@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Locked
 ms.assetid: 0f0b6f34-d389-8376-81fd-cff5a93ca4c1
+ms.date: 06/08/2017
 ---
 
 

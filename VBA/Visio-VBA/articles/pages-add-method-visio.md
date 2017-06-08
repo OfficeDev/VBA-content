@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.Add
 ms.assetid: b2e09b89-4232-fffe-28b2-ceb468dd2837
+ms.date: 06/08/2017
 ---
 
 

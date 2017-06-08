@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlAllocationValue
 ms.assetid: d7f73242-4adf-f700-a115-29c10d3a028a
+ms.date: 06/08/2017
 ---
 
 

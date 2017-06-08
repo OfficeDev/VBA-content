@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCacheLevel.Parent
 ms.assetid: 74e71f1e-8f42-db30-459d-80250c54af4e
+ms.date: 06/08/2017
 ---
 
 

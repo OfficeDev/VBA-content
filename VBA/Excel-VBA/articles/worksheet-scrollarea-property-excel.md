@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.ScrollArea
 ms.assetid: 7421676d-3a98-3826-31f9-80e7c8946777
+ms.date: 06/08/2017
 ---
 
 

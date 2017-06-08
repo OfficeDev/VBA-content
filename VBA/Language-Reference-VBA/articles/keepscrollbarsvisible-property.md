@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.KeepScrollBarsVisible
 ms.assetid: e138df9f-5a8f-efcb-48db-9c8d22a7951f
+ms.date: 06/08/2017
 ---
 
 

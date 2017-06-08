@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyHeadings
 ms.assetid: 299897d1-1132-4ba2-d3e6-47d34a4c38ae
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RemovePersonalInformation
 ms.assetid: cea369d5-6ccd-8326-abdc-c834c5b17975
+ms.date: 06/08/2017
 ---
 
 

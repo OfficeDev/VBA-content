@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.InsertSlideNumber
 ms.assetid: 07489db8-9db1-9721-845a-7895ad316aca
+ms.date: 06/08/2017
 ---
 
 

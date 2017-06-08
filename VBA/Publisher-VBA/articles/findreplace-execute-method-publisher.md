@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FindReplace.Execute
 ms.assetid: 351a64ab-3c6c-c9c9-7ffe-b60b73d390ae
+ms.date: 06/08/2017
 ---
 
 

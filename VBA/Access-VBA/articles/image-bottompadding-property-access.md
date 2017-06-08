@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BottomPadding
 ms.assetid: c5b6a87d-8eac-5840-2bbe-cd491b035cea
+ms.date: 06/08/2017
 ---
 
 

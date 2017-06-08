@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.MouseIcon
 ms.assetid: b0f0f620-89bb-7f2b-f370-37e75182056a
+ms.date: 06/08/2017
 ---
 
 

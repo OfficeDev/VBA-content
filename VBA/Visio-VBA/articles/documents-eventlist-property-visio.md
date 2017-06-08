@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.EventList
 ms.assetid: be8c42b0-7531-7b3d-f23c-741ba63d9164
+ms.date: 06/08/2017
 ---
 
 

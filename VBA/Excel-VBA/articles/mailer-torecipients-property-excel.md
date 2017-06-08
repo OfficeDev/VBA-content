@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Mailer.ToRecipients
 ms.assetid: 725ba114-e5d9-de48-39e7-3f5f9b33783e
+ms.date: 06/08/2017
 ---
 
 

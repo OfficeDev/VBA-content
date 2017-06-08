@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartData.BreakLink
 ms.assetid: 6fa73e90-f99c-d932-b864-e8ff3e53e086
+ms.date: 06/08/2017
 ---
 
 

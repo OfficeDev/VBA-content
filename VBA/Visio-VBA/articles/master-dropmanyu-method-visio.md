@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DropManyU
 ms.assetid: 467356ff-d2d9-71d9-d533-b88099bf2fae
+ms.date: 06/08/2017
 ---
 
 

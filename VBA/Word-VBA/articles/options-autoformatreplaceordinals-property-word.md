@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatReplaceOrdinals
 ms.assetid: 7dd6d253-53e5-5fec-aafa-181899afe02b
+ms.date: 06/08/2017
 ---
 
 

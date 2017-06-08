@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.QuickStyle
 ms.assetid: ac5750b0-e4cc-4330-8391-7aaef008973d
+ms.date: 06/08/2017
 ---
 
 

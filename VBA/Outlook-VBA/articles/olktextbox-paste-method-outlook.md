@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Paste
 ms.assetid: 2f605536-0656-618e-3b27-cebb8de04188
+ms.date: 06/08/2017
 ---
 
 

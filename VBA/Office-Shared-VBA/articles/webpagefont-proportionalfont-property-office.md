@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WebPageFont.ProportionalFont
 ms.assetid: fcefea5f-4c9f-c050-9599-fdf4c9269bdd
+ms.date: 06/08/2017
 ---
 
 

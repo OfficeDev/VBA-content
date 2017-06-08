@@ -2,6 +2,7 @@
 title: Object model (Publisher VBA reference)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 18165c2b-0a00-4809-9cd0-5098261e5a67
+ms.date: 06/08/2017
 ---
 
 

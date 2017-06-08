@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.ShowCategoriesDialog
 ms.assetid: e4530fc8-2e6b-ad84-936c-9d20c4c0bff2
+ms.date: 06/08/2017
 ---
 
 

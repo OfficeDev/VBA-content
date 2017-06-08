@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FillFormat.UserPicture
 ms.assetid: b1eaf724-42b4-657f-4d88-bc8547664893
+ms.date: 06/08/2017
 ---
 
 

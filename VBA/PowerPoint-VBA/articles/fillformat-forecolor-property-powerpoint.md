@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.ForeColor
 ms.assetid: 3dc07a0f-d0bc-52c8-e06a-dd0315151742
+ms.date: 06/08/2017
 ---
 
 

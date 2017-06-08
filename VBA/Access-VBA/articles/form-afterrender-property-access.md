@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.AfterRender
 ms.assetid: 868b9a9d-a1e3-d460-fa7c-26cb5791c5ad
+ms.date: 06/08/2017
 ---
 
 

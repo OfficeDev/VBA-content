@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.EraseDrawing
 ms.assetid: d1ccb77b-c591-f3ec-bb88-1f317f057103
+ms.date: 06/08/2017
 ---
 
 

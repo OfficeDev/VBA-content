@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.Transparency
 ms.assetid: c4a92bf1-3a29-16c0-0eb8-0b1faf75bd4a
+ms.date: 06/08/2017
 ---
 
 

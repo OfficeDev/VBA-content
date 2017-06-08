@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoLanguageID
 ms.assetid: 65ea40f0-9a09-3d76-1519-4acddcc5f367
+ms.date: 06/08/2017
 ---
 
 

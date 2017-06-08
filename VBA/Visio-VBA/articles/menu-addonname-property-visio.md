@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Menu.AddOnName
 ms.assetid: fadff930-6e17-8755-d51d-a81dcd153514
+ms.date: 06/08/2017
 ---
 
 

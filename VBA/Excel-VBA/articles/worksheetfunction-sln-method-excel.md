@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Sln
 ms.assetid: 33898239-4501-5467-382b-747087f7cde3
+ms.date: 06/08/2017
 ---
 
 

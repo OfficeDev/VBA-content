@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControls.Parent
 ms.assetid: 23fdc1d0-ffb4-04a2-55d6-9490dd9e795c
+ms.date: 06/08/2017
 ---
 
 

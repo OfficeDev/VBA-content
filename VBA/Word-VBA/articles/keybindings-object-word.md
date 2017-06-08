@@ -2,6 +2,7 @@
 title: KeyBindings Object (Word)
 ms.prod: WORD
 ms.assetid: d2e38b04-b7e1-b35c-e511-5988d132b074
+ms.date: 06/08/2017
 ---
 
 

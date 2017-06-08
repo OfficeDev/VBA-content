@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Shading
 ms.assetid: 9a6114d2-c8b6-2656-1703-c0bc5356ae64
+ms.date: 06/08/2017
 ---
 
 

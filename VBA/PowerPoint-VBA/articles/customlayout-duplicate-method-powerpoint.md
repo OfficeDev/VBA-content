@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Duplicate
 ms.assetid: c4e0703e-5cd8-c305-bbc9-71b845ff4aba
+ms.date: 06/08/2017
 ---
 
 

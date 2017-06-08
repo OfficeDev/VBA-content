@@ -2,6 +2,7 @@
 title: Sparklines
 ms.prod: EXCEL
 ms.assetid: 2ba23379-df23-4209-8bbe-310bb6c5033a
+ms.date: 06/08/2017
 ---
 
 

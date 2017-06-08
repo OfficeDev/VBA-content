@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBox.OpEmu
 ms.assetid: 27e17879-b26b-cdc0-87fd-e947942ac97b
+ms.date: 06/08/2017
 ---
 
 

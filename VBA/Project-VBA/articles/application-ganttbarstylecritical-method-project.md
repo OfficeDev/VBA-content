@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarStyleCritical
 ms.assetid: 2db96bf5-2a33-2894-8fcb-dcb4842bba4c
+ms.date: 06/08/2017
 ---
 
 

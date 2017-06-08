@@ -2,6 +2,7 @@
 title: Exporting a Chart to a Word Document
 ms.prod: EXCEL
 ms.assetid: d54a45ae-6a4d-47c8-a522-a1b5bd615ce0
+ms.date: 06/08/2017
 ---
 
 

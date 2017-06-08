@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Cell.Resource
 ms.assetid: 17514412-363a-dd2d-f0b5-97b8fb5d41cc
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.PropertyChange
 ms.assetid: 82bb6104-ce62-8fb6-1472-d84fd36e94ac
+ms.date: 06/08/2017
 ---
 
 

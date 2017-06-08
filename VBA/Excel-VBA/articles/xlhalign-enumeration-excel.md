@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlHAlign
 ms.assetid: f136fc34-9225-bf73-e1d7-a3e184a7bd77
+ms.date: 06/08/2017
 ---
 
 

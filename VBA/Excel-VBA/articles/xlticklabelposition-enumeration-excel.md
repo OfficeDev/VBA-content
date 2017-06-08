@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlTickLabelPosition
 ms.assetid: 6c41a87f-5c2b-d437-a742-03a12eb3d7f2
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ObjectVerbs.Count
 ms.assetid: 8aabdb50-1e4a-655b-5336-5ae7be5a65b1
+ms.date: 06/08/2017
 ---
 
 

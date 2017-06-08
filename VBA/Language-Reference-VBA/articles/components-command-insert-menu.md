@@ -2,6 +2,7 @@
 title: Components Command (Insert Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 5c499595-4a02-e096-a487-01439728e084
+ms.date: 06/08/2017
 ---
 
 

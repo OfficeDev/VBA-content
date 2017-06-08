@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.DefaultSize
 ms.assetid: 2365a10b-229c-141b-49ab-7d6a0e2247b2
+ms.date: 06/08/2017
 ---
 
 

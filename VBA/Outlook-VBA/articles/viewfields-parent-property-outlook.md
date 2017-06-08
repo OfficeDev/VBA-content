@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFields.Parent
 ms.assetid: 3cabfa13-c531-2738-f8ab-951c09951a5f
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ShapeRange.Cut Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 1c02226f-17f1-0be0-7dd8-fc837aff78f9
+ms.date: 06/08/2017
 ---
 
 

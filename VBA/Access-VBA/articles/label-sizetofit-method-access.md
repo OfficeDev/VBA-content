@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.SizeToFit
 ms.assetid: f9dcdfaf-3218-8442-a4ef-b13dfd961ad0
+ms.date: 06/08/2017
 ---
 
 

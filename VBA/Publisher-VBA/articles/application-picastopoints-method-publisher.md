@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.PicasToPoints
 ms.assetid: 64d3e435-dcc1-d637-7aac-cc9a9bf81e76
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetView.DisplayFormulas
 ms.assetid: 91973484-79ad-dc07-ed9f-65d20d4e82ba
+ms.date: 06/08/2017
 ---
 
 

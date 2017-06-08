@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.OnAttachmentCurrent
 ms.assetid: 7987943b-5283-e9dc-17a6-5f4b54c90d4d
+ms.date: 06/08/2017
 ---
 
 

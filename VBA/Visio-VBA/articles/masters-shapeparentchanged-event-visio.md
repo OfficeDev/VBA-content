@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.ShapeParentChanged
 ms.assetid: 5c838330-1d66-d343-0a50-846c91496325
+ms.date: 06/08/2017
 ---
 
 

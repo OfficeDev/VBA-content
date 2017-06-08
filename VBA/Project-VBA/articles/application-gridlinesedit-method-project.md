@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GridlinesEdit
 ms.assetid: 75b9d660-88b5-da71-faf8-215abce897d2
+ms.date: 06/08/2017
 ---
 
 

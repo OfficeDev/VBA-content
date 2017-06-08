@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PasteOptionKeepBulletsAndNumbers
 ms.assetid: c2c3af8d-0c2f-a9e4-3a3d-18252f6a1425
+ms.date: 06/08/2017
 ---
 
 

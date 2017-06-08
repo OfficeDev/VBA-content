@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SnapAngles
 ms.assetid: b2a85580-3308-6bda-dd00-7449f6d87c8b
+ms.date: 06/08/2017
 ---
 
 

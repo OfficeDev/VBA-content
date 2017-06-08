@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatConditions.AddIconSetCondition
 ms.assetid: eb23b1b1-da7f-013e-aef3-5f690f5cb4ff
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.Layout
 ms.assetid: 0b1aaddf-503b-37ff-f9f4-eb102a6ca885
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtNodes.Item
 ms.assetid: d31c7f8f-30d8-6a5e-ec06-88833f17b0d2
+ms.date: 06/08/2017
 ---
 
 

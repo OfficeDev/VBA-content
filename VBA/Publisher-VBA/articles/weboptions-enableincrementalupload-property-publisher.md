@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptions.EnableIncrementalUpload
 ms.assetid: 42d5e22e-7e39-848e-a7e7-5d2019f7e71c
+ms.date: 06/08/2017
 ---
 
 

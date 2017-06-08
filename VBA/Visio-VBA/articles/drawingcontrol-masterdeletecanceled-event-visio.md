@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.MasterDeleteCanceled
 ms.assetid: f029d2c7-3b71-a0ce-6c5a-69835473d2b3
+ms.date: 06/08/2017
 ---
 
 

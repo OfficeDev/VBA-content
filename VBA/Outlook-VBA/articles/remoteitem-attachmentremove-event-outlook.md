@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.AttachmentRemove
 ms.assetid: b31b2967-5014-1ced-67b7-4cc4793864e0
+ms.date: 06/08/2017
 ---
 
 

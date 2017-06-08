@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.AvailablePageSizes
 ms.assetid: 5ad79ee6-6d32-6c46-c02e-a9ab252267cf
+ms.date: 06/08/2017
 ---
 
 

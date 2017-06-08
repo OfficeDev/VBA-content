@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.AllocateChanges
 ms.assetid: c751c5fb-ce22-64d1-669c-fdb064cf0408
+ms.date: 06/08/2017
 ---
 
 

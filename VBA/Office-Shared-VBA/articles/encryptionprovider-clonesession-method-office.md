@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EncryptionProvider.CloneSession
 ms.assetid: d7548ad1-caec-27d8-db55-c4e6f747111e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.ShowTableStyleLastColumn
 ms.assetid: 5808ce55-d7a2-aac4-eb5a-6b24b1052332
+ms.date: 06/08/2017
 ---
 
 

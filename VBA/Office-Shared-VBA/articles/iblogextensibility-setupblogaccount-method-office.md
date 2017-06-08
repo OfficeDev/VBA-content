@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IBlogExtensibility.SetupBlogAccount
 ms.assetid: 98082a55-3e67-7181-2c7d-2c6979c89ab2
+ms.date: 06/08/2017
 ---
 
 

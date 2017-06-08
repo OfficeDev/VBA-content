@@ -2,6 +2,7 @@
 title: pbCanvasArrangementType Enumeration (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3b2037d4-eba4-478a-8b47-8c12d6a3e922
+ms.date: 06/08/2017
 ---
 
 

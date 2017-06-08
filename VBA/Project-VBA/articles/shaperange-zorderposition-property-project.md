@@ -2,6 +2,7 @@
 title: ShapeRange.ZOrderPosition Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: d9f0d46f-65b1-bb1f-cb75-ce4d7c3b3ab2
+ms.date: 06/08/2017
 ---
 
 

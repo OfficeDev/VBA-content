@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCache.CrossFilterType
 ms.assetid: 8a29b376-c999-472d-0853-2e2f4a0949a0
+ms.date: 06/08/2017
 ---
 
 

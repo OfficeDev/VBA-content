@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DepthPercent
 ms.assetid: b8c8f784-bc30-cc20-604d-5627b570c1f2
+ms.date: 06/08/2017
 ---
 
 

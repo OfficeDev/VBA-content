@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowAllHeadings
 ms.assetid: 294aa5f0-9821-faed-aa82-ff59f7a84eb6
+ms.date: 06/08/2017
 ---
 
 

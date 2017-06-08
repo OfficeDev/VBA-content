@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.OffsetX
 ms.assetid: 787fb281-aed9-7b44-6fe9-27e273edbbee
+ms.date: 06/08/2017
 ---
 
 

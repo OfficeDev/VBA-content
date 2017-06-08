@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Explosion
 ms.assetid: e5305b4c-0ec5-79b3-6c71-2226fc3635ee
+ms.date: 06/08/2017
 ---
 
 

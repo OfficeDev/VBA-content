@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ExtraColors.Item
 ms.assetid: 213ced3f-fb6a-4447-e73f-1eeeb9f3cebb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.GlowFormat.Radius
 ms.assetid: 53607c8c-32a5-2a5e-5a81-371fdb128cc5
+ms.date: 06/08/2017
 ---
 
 

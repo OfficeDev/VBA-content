@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataColumn.Name
 ms.assetid: 9b66e7b1-f3e7-af3a-8a64-59ab90fd6119
+ms.date: 06/08/2017
 ---
 
 

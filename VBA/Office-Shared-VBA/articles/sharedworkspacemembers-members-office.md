@@ -2,6 +2,7 @@
 title: SharedWorkspaceMembers Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 296d0a8c-f0e6-769b-d5a4-8d38ad4403e2
+ms.date: 06/08/2017
 ---
 
 

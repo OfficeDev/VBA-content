@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.Text
 ms.assetid: 91aa73ff-260c-c241-35d0-50bebbbaf190
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Next
 ms.assetid: 8d3a295d-543c-7e17-337d-b4fdfeda96e6
+ms.date: 06/08/2017
 ---
 
 

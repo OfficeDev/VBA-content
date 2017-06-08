@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Event.Enabled
 ms.assetid: d83c45f1-3c4f-4d14-cbf0-cb21ef12d294
+ms.date: 06/08/2017
 ---
 
 

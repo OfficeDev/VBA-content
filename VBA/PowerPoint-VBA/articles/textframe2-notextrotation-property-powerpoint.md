@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.NoTextRotation
 ms.assetid: d290507a-ad06-3815-d49d-c61a6d396565
+ms.date: 06/08/2017
 ---
 
 

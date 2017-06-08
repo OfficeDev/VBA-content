@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.KeyboardLatin
 ms.assetid: 115bb0af-470b-994f-f4f8-f714568ff469
+ms.date: 06/08/2017
 ---
 
 

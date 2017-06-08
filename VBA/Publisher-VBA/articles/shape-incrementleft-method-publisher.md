@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.IncrementLeft
 ms.assetid: 447886ad-f515-9869-524a-a803ab025fa4
+ms.date: 06/08/2017
 ---
 
 

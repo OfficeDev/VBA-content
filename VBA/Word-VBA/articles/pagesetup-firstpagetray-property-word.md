@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.FirstPageTray
 ms.assetid: 60e26cae-2543-adc4-916f-0a0249179990
+ms.date: 06/08/2017
 ---
 
 

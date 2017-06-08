@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.TextColumn.SpaceAfter
 ms.assetid: 95b77d91-e13a-c6d3-f8c3-069c81b39cb1
+ms.date: 06/08/2017
 ---
 
 

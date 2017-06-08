@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.Height
 ms.assetid: 37586889-891d-5fb4-7f27-d590b92ba77b
+ms.date: 06/08/2017
 ---
 
 

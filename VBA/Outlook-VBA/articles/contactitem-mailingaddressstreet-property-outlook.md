@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.MailingAddressStreet
 ms.assetid: 8487bbf4-0d48-4224-9370-e4e78f100d09
+ms.date: 06/08/2017
 ---
 
 

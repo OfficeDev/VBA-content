@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.Exit
 ms.assetid: da5616c5-97da-6049-4115-5a41d4e28c7b
+ms.date: 06/08/2017
 ---
 
 

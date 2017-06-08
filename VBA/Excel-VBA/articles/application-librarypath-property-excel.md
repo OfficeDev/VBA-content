@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.LibraryPath
 ms.assetid: 783efa4a-640b-ab78-2831-da2ecd05558a
+ms.date: 06/08/2017
 ---
 
 

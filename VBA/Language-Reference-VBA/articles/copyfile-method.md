@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CopyFile
 ms.assetid: 2ab700b1-0827-c277-6af5-93a86ed05cc1
+ms.date: 06/08/2017
 ---
 
 

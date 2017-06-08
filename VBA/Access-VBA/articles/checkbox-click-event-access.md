@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Click
 ms.assetid: 15c55276-ef6e-bcb4-09fd-2a457df79387
+ms.date: 06/08/2017
 ---
 
 

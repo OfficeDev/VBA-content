@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendEntry.Left
 ms.assetid: 70a919d9-7885-d9a1-f2e0-37bd3226f77b
+ms.date: 06/08/2017
 ---
 
 

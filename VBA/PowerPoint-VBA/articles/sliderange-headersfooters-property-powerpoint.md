@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.HeadersFooters
 ms.assetid: 204e867b-af78-81ad-bcc3-aa0e77d36a36
+ms.date: 06/08/2017
 ---
 
 

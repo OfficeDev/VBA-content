@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.HangingPunctuation
 ms.assetid: 89287cb7-1b12-4fd0-4a02-b6d4dd371d70
+ms.date: 06/08/2017
 ---
 
 

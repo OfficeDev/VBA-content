@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.HelpContextId
 ms.assetid: 205d8d08-4060-7ac3-8bb2-99d381bbef50
+ms.date: 06/08/2017
 ---
 
 

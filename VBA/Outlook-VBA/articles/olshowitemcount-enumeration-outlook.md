@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlShowItemCount
 ms.assetid: 22de3979-ceea-c6c8-b919-5c3ea3f3be73
+ms.date: 06/08/2017
 ---
 
 

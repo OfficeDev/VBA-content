@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.CheckName
 ms.assetid: 2888dfb7-5773-cbf8-8865-c90875411476
+ms.date: 06/08/2017
 ---
 
 

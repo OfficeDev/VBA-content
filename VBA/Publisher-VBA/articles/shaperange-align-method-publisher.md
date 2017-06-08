@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Align
 ms.assetid: ef522d47-3fc7-cfca-5b9a-44ff020f8b31
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.OnRepeat
 ms.assetid: 7d535e14-c779-af87-60eb-68ec8e651459
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFrameSizeRule
 ms.assetid: a61cf5e0-019c-71d2-3218-eb3a65ed4995
+ms.date: 06/08/2017
 ---
 
 

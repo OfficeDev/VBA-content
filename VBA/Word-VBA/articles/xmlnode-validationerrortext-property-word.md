@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNode.ValidationErrorText
 ms.assetid: 85816e71-2629-0f5c-3775-e42f7fb7f9a5
+ms.date: 06/08/2017
 ---
 
 

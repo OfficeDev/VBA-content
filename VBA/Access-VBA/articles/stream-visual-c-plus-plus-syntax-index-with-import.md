@@ -2,6 +2,7 @@
 title: Stream (Visual C++ Syntax Index with import)
 ms.prod: ACCESS
 ms.assetid: a3188858-9c0d-aff6-c893-2111aee77383
+ms.date: 06/08/2017
 ---
 
 

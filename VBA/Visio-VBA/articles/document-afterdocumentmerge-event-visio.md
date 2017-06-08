@@ -2,6 +2,7 @@
 title: Document.AfterDocumentMerge Event (Visio)
 ms.prod: VISIO
 ms.assetid: 50658da5-592a-4d16-908f-c6abe3050f09
+ms.date: 06/08/2017
 ---
 
 

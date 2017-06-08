@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RecentFile.Creator
 ms.assetid: bfece094-0df1-0e65-766c-393f217af3f6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.RejectAll
 ms.assetid: b3f307f0-9426-d3a6-0f38-4f39ec1f6c78
+ms.date: 06/08/2017
 ---
 
 

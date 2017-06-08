@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PrintHiddenText
 ms.assetid: 4f047b82-884e-5109-b931-838f3742094d
+ms.date: 06/08/2017
 ---
 
 

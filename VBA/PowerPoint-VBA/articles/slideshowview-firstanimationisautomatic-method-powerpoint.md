@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.FirstAnimationIsAutomatic
 ms.assetid: 689b2dfc-a441-51c6-9eea-de99194ba203
+ms.date: 06/08/2017
 ---
 
 

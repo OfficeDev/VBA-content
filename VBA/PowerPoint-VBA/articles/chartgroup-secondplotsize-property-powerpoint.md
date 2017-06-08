@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.SecondPlotSize
 ms.assetid: c272c36e-53c8-6f91-ea53-35445a03d06e
+ms.date: 06/08/2017
 ---
 
 

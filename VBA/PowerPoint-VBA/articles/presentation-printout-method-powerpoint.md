@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.PrintOut
 ms.assetid: 57685390-43c1-4bd4-d2ee-ba34641e34c5
+ms.date: 06/08/2017
 ---
 
 

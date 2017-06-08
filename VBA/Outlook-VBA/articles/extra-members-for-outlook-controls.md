@@ -2,6 +2,7 @@
 title: Extra Members for Outlook Controls
 ms.prod: OUTLOOK
 ms.assetid: df52e46d-d4e6-b669-f4bc-7758c9c9d9e2
+ms.date: 06/08/2017
 ---
 
 

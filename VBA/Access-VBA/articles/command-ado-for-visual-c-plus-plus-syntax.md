@@ -2,6 +2,7 @@
 title: Command (ADO for Visual C++ Syntax)
 ms.prod: ACCESS
 ms.assetid: a397daf5-2bcd-6c1a-3fb6-667c1309d0e3
+ms.date: 06/08/2017
 ---
 
 

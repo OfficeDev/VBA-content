@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.ActivePane
 ms.assetid: 8491d406-5444-2d11-da29-8de575a0e066
+ms.date: 06/08/2017
 ---
 
 

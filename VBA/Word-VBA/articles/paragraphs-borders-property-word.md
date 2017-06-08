@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.Borders
 ms.assetid: f0b583a0-42ce-669b-bdcb-e1a0d8e46fc2
+ms.date: 06/08/2017
 ---
 
 

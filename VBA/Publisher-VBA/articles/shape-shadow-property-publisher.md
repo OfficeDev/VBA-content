@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.Shadow
 ms.assetid: cfb908ae-ef1d-9539-1f82-2693cbe38d97
+ms.date: 06/08/2017
 ---
 
 

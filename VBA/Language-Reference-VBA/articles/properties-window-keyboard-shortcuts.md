@@ -2,6 +2,7 @@
 title: Properties Window Keyboard Shortcuts
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 48c72cac-eddb-35e3-b24d-052add306368
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdMeasurementUnits
 ms.assetid: 098f0fc9-2f45-5d26-fd00-d74f87d953c3
+ms.date: 06/08/2017
 ---
 
 

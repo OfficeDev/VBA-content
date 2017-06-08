@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ViewsCombination.Add
 ms.assetid: 84e93698-88c3-b4a7-a754-8078fcab897a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.MarkupMode
 ms.assetid: 2db71940-c39d-b8ec-2732-f3f406af3b7d
+ms.date: 06/08/2017
 ---
 
 

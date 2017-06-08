@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjDateLabel
 ms.assetid: ece69c4d-35fc-a795-8acb-1ff79df9fe1c
+ms.date: 06/08/2017
 ---
 
 

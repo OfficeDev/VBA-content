@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.OnLostFocus
 ms.assetid: 5a0e6b1d-ad2b-f28e-a565-dddeff9659c6
+ms.date: 06/08/2017
 ---
 
 

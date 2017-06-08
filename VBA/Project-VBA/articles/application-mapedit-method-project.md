@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.MapEdit
 ms.assetid: 316d596e-95b3-d616-c8d6-21da651ff284
+ms.date: 06/08/2017
 ---
 
 

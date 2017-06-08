@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels.Alignment
 ms.assetid: 63cd3bd8-b921-1e62-feff-c3a6ad714a8b
+ms.date: 06/08/2017
 ---
 
 

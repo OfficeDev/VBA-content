@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LinkFormat.Creator
 ms.assetid: ced64f38-9d62-d83c-1d4c-3e12c67b70b9
+ms.date: 06/08/2017
 ---
 
 

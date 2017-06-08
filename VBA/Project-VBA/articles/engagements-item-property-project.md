@@ -1,6 +1,7 @@
 ---
 title: Engagements.Item Property (Project)
 ms.assetid: 959abd12-3c55-25b9-2411-36a5b1f3bed7
+ms.date: 06/08/2017
 ---
 
 

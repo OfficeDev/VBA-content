@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Repaint
 ms.assetid: 987f895f-7054-3568-269b-d6378c1233b5
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: UserPermission Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 27acd2ed-19ba-446f-a50e-d6edf0564726
+ms.date: 06/08/2017
 ---
 
 

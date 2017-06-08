@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.HorizontalAnchor
 ms.assetid: 2e6142a7-1d9b-ec43-5ee2-0388f5d401f4
+ms.date: 06/08/2017
 ---
 
 

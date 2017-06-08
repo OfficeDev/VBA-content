@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.SetDisplayedCategories
 ms.assetid: ae2290c3-43ff-c19d-63f8-41427aacd9ce
+ms.date: 06/08/2017
 ---
 
 

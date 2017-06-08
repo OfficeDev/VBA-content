@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.Application
 ms.assetid: 2535a031-3fbb-3a86-e8f9-f4a91dd2278c
+ms.date: 06/08/2017
 ---
 
 

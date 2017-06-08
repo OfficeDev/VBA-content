@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dialog
 ms.assetid: f90f6e6d-aaa0-c127-ab37-ca074144eff1
+ms.date: 06/08/2017
 ---
 
 

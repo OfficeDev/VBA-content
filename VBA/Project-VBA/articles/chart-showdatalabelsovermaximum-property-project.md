@@ -2,6 +2,7 @@
 title: Chart.ShowDataLabelsOverMaximum Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 440bfd4b-069e-6963-d316-ea1bf84d411d
+ms.date: 06/08/2017
 ---
 
 

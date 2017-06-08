@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.IncludeContinuedOnPage
 ms.assetid: defa0bd7-abe7-ac2a-97a1-de5c5f0df790
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Setting Items for Follow-up
 ms.prod: OUTLOOK
 ms.assetid: 738e2558-2957-54fb-898d-b67a6462dc66
+ms.date: 06/08/2017
 ---
 
 

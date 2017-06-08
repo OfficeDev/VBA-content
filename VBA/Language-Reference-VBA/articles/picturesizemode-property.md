@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PictureSizeMode
 ms.assetid: bb186d64-4e21-4ab5-3949-430c737e733d
+ms.date: 06/08/2017
 ---
 
 

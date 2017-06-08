@@ -2,6 +2,7 @@
 title: Tab.Visible Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 559ec217-e55f-698e-6779-a7e9e15529e1
+ms.date: 06/08/2017
 ---
 
 

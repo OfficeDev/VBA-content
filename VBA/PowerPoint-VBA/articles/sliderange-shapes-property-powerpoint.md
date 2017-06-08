@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Shapes
 ms.assetid: 8d2242a9-6988-134c-0507-8043f5445ec9
+ms.date: 06/08/2017
 ---
 
 

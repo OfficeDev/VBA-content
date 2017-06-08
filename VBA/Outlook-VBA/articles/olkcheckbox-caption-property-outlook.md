@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.Caption
 ms.assetid: 19480d82-3cd7-257f-3f5e-a669650cfffe
+ms.date: 06/08/2017
 ---
 
 

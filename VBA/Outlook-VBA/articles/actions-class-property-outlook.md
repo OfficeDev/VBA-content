@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Actions.Class
 ms.assetid: fe55f517-bb09-5d57-0ca1-f50fe1d482c2
+ms.date: 06/08/2017
 ---
 
 

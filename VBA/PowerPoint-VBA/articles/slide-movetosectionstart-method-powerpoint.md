@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.MoveToSectionStart
 ms.assetid: 757a0e42-85d1-2b03-65f7-92d15c626320
+ms.date: 06/08/2017
 ---
 
 

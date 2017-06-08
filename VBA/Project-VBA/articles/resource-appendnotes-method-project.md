@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.AppendNotes
 ms.assetid: b11bc28f-147f-0591-056b-87e9f6c2db71
+ms.date: 06/08/2017
 ---
 
 

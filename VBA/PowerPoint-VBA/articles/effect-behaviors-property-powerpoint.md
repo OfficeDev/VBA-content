@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.Behaviors
 ms.assetid: e5335758-2f92-ccbc-a665-b6d5947e79f2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Permission.EnableTrustedBrowser
 ms.assetid: 64f087bc-8158-bc80-070e-e7c33ad57e5f
+ms.date: 06/08/2017
 ---
 
 

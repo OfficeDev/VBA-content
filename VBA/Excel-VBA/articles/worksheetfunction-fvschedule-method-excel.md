@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FVSchedule
 ms.assetid: 5a64322c-24b0-baa2-a355-c414fcbe161c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Size
 ms.assetid: 95041c0a-43d0-368c-1c75-e2d6c1821119
+ms.date: 06/08/2017
 ---
 
 

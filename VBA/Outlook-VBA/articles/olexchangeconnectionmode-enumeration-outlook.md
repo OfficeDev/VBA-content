@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlExchangeConnectionMode
 ms.assetid: ab43999d-f578-65ab-1f3d-455c66022901
+ms.date: 06/08/2017
 ---
 
 

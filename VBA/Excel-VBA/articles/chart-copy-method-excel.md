@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Copy
 ms.assetid: c7294fd6-286a-774d-9dd8-4db33a59b10f
+ms.date: 06/08/2017
 ---
 
 

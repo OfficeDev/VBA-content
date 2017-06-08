@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.ListAdvanceTo
 ms.assetid: 41b60f22-74b1-60f6-40ad-4107074a57ee
+ms.date: 06/08/2017
 ---
 
 

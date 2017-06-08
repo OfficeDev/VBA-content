@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SavePreviewMode
 ms.assetid: e40f2b06-c9fd-3133-73c9-306f46f21e55
+ms.date: 06/08/2017
 ---
 
 

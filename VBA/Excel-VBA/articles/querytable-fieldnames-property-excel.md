@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.FieldNames
 ms.assetid: ff7541cd-fa4d-6b1a-d8c3-0608cfc03b8d
+ms.date: 06/08/2017
 ---
 
 

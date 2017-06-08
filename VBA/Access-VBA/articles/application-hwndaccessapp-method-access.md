@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.hWndAccessApp
 ms.assetid: 7a4f162a-e2de-728b-09e0-f9272ad52053
+ms.date: 06/08/2017
 ---
 
 

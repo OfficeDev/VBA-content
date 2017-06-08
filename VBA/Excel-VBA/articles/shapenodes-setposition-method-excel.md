@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeNodes.SetPosition
 ms.assetid: ad76e3d9-51d2-51fd-2af1-9eee7b62e52c
+ms.date: 06/08/2017
 ---
 
 

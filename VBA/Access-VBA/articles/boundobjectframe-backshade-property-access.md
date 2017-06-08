@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.BackShade
 ms.assetid: 17c2e087-d4c7-f27d-a3a0-01470aa2b348
+ms.date: 06/08/2017
 ---
 
 

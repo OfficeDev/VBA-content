@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeRecipientListClose
 ms.assetid: 4fb77771-9897-8623-f4e7-61f631f04922
+ms.date: 06/08/2017
 ---
 
 

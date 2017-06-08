@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.LostFocus
 ms.assetid: a8c29b13-5757-7be9-7111-81f847c8ec32
+ms.date: 06/08/2017
 ---
 
 

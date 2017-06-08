@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing
 ms.assetid: 11f7dab2-f9ed-1883-ab74-93f1be481af6
+ms.date: 06/08/2017
 ---
 
 

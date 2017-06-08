@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.Clear
 ms.assetid: 6a3f87e7-c6ca-c530-ae46-2fc2c4d9b5ae
+ms.date: 06/08/2017
 ---
 
 

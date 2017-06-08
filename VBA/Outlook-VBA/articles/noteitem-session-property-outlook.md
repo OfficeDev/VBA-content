@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Session
 ms.assetid: 87ebd38c-eec8-7e2c-8516-6ad3053e06cb
+ms.date: 06/08/2017
 ---
 
 

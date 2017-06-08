@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.RerouteConnections
 ms.assetid: 0928190d-d184-7522-1ce2-0fa884950220
+ms.date: 06/08/2017
 ---
 
 

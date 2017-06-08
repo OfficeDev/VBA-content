@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SnapExtensions
 ms.assetid: 8b5aad7a-335a-dc8c-aa58-42947ffdc53e
+ms.date: 06/08/2017
 ---
 
 

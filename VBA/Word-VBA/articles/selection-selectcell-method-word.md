@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.SelectCell
 ms.assetid: 49df8e0c-795d-5d5b-79e4-56e0bd64c222
+ms.date: 06/08/2017
 ---
 
 

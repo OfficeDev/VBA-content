@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.ParentField
 ms.assetid: 4b609a86-9a25-f292-7446-2a65ea1f90a0
+ms.date: 06/08/2017
 ---
 
 

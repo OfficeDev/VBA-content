@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageSetup.LayoutMode
 ms.assetid: 9b5eb10a-0d90-5330-8738-f70efbae39fe
+ms.date: 06/08/2017
 ---
 
 

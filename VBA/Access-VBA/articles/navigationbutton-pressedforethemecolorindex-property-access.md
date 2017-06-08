@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.PressedForeThemeColorIndex
 ms.assetid: 3c8ee610-503b-1d9d-80e3-6a4dcbcb9b5b
+ms.date: 06/08/2017
 ---
 
 

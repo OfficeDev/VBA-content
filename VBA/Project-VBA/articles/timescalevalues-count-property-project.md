@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TimeScaleValues.Count
 ms.assetid: 76ac63bf-74e1-3f1c-1089-90eb101e1147
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: FileDialog Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b6b7e87e-9420-0649-2feb-6d8f36bb53bc
+ms.date: 06/08/2017
 ---
 
 

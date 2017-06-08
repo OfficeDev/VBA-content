@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.Height
 ms.assetid: e618c9e4-fda4-d584-3ddf-9b8e589b382a
+ms.date: 06/08/2017
 ---
 
 

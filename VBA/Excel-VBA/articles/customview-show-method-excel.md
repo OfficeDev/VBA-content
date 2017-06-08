@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CustomView.Show
 ms.assetid: 822d77c1-e7ab-2bd9-bec5-a7921f80f706
+ms.date: 06/08/2017
 ---
 
 

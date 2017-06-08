@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.PropertyAccessor
 ms.assetid: 23a81919-bd59-1dc7-e743-e64186387646
+ms.date: 06/08/2017
 ---
 
 

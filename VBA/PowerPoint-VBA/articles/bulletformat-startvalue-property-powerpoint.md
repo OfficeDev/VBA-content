@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.BulletFormat.StartValue
 ms.assetid: d243b5b4-93f6-8486-d432-a91a39ee4f81
+ms.date: 06/08/2017
 ---
 
 

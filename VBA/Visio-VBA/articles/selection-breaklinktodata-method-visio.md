@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.BreakLinkToData
 ms.assetid: 83a52ed7-1d10-9005-4a1a-339995106d8b
+ms.date: 06/08/2017
 ---
 
 

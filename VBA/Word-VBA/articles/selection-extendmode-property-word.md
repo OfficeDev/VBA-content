@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.ExtendMode
 ms.assetid: 7b12cf8b-9be1-6ebc-de96-e7734eaad3b6
+ms.date: 06/08/2017
 ---
 
 

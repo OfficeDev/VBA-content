@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjVisualReportsTemplateType
 ms.assetid: 66c80c6d-434c-5983-45fb-48120db7a8b6
+ms.date: 06/08/2017
 ---
 
 

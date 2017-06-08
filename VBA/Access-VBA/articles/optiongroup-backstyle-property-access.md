@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.BackStyle
 ms.assetid: f93a9b31-e806-b45b-5f23-9ede92a23ba5
+ms.date: 06/08/2017
 ---
 
 

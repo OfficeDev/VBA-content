@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStops.ClearAll
 ms.assetid: 757bf3e9-5641-8e78-b209-1512087fcf6d
+ms.date: 06/08/2017
 ---
 
 

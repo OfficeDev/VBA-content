@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.SetAllFuzzyOptions
 ms.assetid: 3fb439eb-5f98-620e-0e16-5905a2b105c6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.Reflection
 ms.assetid: 679cbd4e-2c66-7936-7dfd-29fe19fce12d
+ms.date: 06/08/2017
 ---
 
 

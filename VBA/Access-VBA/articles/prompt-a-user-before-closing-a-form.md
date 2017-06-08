@@ -2,6 +2,7 @@
 title: Prompt a User Before Closing a Form
 ms.prod: ACCESS
 ms.assetid: 3a29f7c0-5692-49f0-bbfe-f9132d5b582f
+ms.date: 06/08/2017
 ---
 
 

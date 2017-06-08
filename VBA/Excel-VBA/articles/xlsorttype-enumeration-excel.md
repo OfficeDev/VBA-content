@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlSortType
 ms.assetid: 223cfc69-714b-1c1e-7765-9ba5b61671fd
+ms.date: 06/08/2017
 ---
 
 

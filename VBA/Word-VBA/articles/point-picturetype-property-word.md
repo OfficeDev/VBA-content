@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.PictureType
 ms.assetid: 050ce20e-0214-96df-6f9e-e8eef8625b1e
+ms.date: 06/08/2017
 ---
 
 

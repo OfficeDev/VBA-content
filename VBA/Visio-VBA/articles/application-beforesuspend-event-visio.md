@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BeforeSuspend
 ms.assetid: 6649fea7-017c-9295-12b5-f350dcf38b28
+ms.date: 06/08/2017
 ---
 
 

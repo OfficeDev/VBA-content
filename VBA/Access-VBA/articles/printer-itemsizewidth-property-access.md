@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Printer.ItemSizeWidth
 ms.assetid: 81a8881d-a1bf-c5b7-9437-d6984cf2cd18
+ms.date: 06/08/2017
 ---
 
 

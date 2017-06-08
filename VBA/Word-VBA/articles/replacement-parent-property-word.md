@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Replacement.Parent
 ms.assetid: f453c87a-d641-26d4-7718-12f4e76b450e
+ms.date: 06/08/2017
 ---
 
 

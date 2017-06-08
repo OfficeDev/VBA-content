@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressEntry.Address
 ms.assetid: 39241126-a652-47e0-17c9-4566efd7ca4f
+ms.date: 06/08/2017
 ---
 
 

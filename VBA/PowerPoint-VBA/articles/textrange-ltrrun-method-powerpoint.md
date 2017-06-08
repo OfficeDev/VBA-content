@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.LtrRun
 ms.assetid: 5c6787cc-d37c-8aec-b49e-12418291e006
+ms.date: 06/08/2017
 ---
 
 

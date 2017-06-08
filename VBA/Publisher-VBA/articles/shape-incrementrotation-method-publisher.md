@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.IncrementRotation
 ms.assetid: 3293c707-f3e8-1afb-cf9c-231ceae66ab6
+ms.date: 06/08/2017
 ---
 
 

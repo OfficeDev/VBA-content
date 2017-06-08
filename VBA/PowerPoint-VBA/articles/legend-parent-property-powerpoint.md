@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Legend.Parent
 ms.assetid: 0314a654-13ad-b1fa-fffa-2b070a9ec1fd
+ms.date: 06/08/2017
 ---
 
 

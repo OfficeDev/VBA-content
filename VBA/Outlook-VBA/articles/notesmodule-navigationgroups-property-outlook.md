@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NotesModule.NavigationGroups
 ms.assetid: 92539b30-31c9-c57d-c58d-a7d70947aa4d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentProperties.Count
 ms.assetid: 8f4367bd-d30a-ba45-3ec2-3c5b94ede4d8
+ms.date: 06/08/2017
 ---
 
 

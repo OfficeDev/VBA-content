@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GlobalTaskTables
 ms.assetid: 5ca768b2-2e0f-6889-a300-8e81130ba798
+ms.date: 06/08/2017
 ---
 
 

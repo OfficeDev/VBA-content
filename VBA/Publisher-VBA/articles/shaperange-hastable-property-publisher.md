@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.HasTable
 ms.assetid: 71ce4980-f5b5-c94c-c29d-32b97cf771fd
+ms.date: 06/08/2017
 ---
 
 

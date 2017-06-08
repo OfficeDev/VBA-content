@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ExponDist
 ms.assetid: 4e940718-309f-8194-7395-5abcf3adeae3
+ms.date: 06/08/2017
 ---
 
 

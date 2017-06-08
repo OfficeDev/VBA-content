@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.SetElement
 ms.assetid: c9f05df8-a85a-c401-c9bc-33f3a2cc4561
+ms.date: 06/08/2017
 ---
 
 

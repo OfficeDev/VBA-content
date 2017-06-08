@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.BorderThemeColorIndex
 ms.assetid: 89423dbf-44de-a2e6-d31a-6ea459c2f156
+ms.date: 06/08/2017
 ---
 
 

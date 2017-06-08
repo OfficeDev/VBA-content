@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.CellsRowIndex
 ms.assetid: 7415afcb-9d98-5981-bd33-6ca18116470e
+ms.date: 06/08/2017
 ---
 
 

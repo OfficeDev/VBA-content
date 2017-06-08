@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.AlertStyle
 ms.assetid: de844f58-be45-c4a6-af49-67f669abb626
+ms.date: 06/08/2017
 ---
 
 

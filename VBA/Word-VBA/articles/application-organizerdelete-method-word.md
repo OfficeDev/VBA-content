@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.OrganizerDelete
 ms.assetid: 45b394fc-cdd5-18ff-f30d-7339237a1b41
+ms.date: 06/08/2017
 ---
 
 

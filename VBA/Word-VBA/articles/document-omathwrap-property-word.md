@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathWrap
 ms.assetid: 486fad54-d0c2-3bab-83a0-b683b2e5fbbb
+ms.date: 06/08/2017
 ---
 
 

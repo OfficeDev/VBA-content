@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DeferRecalc
 ms.assetid: 88bbd653-4ffe-ff36-e20b-f6e238795f9f
+ms.date: 06/08/2017
 ---
 
 

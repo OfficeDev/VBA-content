@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TimeScaleValues.Item
 ms.assetid: 8bbd6389-53ac-9f03-d155-c53e6a3dc681
+ms.date: 06/08/2017
 ---
 
 

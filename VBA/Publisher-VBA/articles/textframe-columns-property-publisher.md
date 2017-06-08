@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.Columns
 ms.assetid: b025f208-3ca4-c0f1-e01e-023931c4c545
+ms.date: 06/08/2017
 ---
 
 

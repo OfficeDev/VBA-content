@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.ScaleWidth
 ms.assetid: 64a22966-2516-758a-1f83-d4eaf09e0040
+ms.date: 06/08/2017
 ---
 
 

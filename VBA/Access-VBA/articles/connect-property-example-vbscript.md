@@ -2,6 +2,7 @@
 title: Connect Property Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: bd88c63f-89d9-c73b-3ee0-288ff078b938
+ms.date: 06/08/2017
 ---
 
 

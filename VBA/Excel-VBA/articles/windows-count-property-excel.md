@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Windows.Count
 ms.assetid: f1b4d304-8431-41a5-9e8e-ca2d4da44625
+ms.date: 06/08/2017
 ---
 
 

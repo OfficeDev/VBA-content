@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ToggleFormsDesign
 ms.assetid: 4db26f6c-8e59-33b6-34eb-708b39cbed9f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorers.NewExplorer
 ms.assetid: 701409f3-ead3-2707-b3de-baa053e8d5c2
+ms.date: 06/08/2017
 ---
 
 

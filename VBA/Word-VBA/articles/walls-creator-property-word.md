@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Walls.Creator
 ms.assetid: 1d47046e-3552-43d9-79f0-2317f8df380e
+ms.date: 06/08/2017
 ---
 
 

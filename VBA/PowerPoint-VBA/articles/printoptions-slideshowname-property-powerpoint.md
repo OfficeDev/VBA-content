@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.SlideShowName
 ms.assetid: 0eca6fce-23ba-0e13-a6a7-ee968f3aa973
+ms.date: 06/08/2017
 ---
 
 

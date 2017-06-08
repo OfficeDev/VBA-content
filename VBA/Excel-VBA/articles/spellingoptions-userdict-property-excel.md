@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.UserDict
 ms.assetid: 8816b44e-98e5-8829-cb6e-af4ac4040838
+ms.date: 06/08/2017
 ---
 
 

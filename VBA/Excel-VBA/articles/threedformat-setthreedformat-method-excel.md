@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ThreeDFormat.SetThreeDFormat
 ms.assetid: 64315607-991a-426e-e931-78432558832e
+ms.date: 06/08/2017
 ---
 
 

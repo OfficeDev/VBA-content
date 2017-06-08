@@ -2,6 +2,7 @@
 title: Revisions Object (Word)
 ms.prod: WORD
 ms.assetid: 7f267a64-885a-cb4c-008a-e8545cea94d2
+ms.date: 06/08/2017
 ---
 
 

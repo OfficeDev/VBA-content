@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.SkipRecurrence
 ms.assetid: 19eb8a58-a13f-56ca-b742-a3780d8b0bf1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.RightPadding
 ms.assetid: 9882c250-bbe0-8abb-8c7e-00e1f8c6af4e
+ms.date: 06/08/2017
 ---
 
 

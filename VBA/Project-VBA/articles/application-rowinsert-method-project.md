@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.RowInsert
 ms.assetid: b9d574b8-8565-9eab-f1a3-4a990bf05bd3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Words.Last
 ms.assetid: 5ca384f7-786f-9c44-41fb-4dce72d45d3e
+ms.date: 06/08/2017
 ---
 
 

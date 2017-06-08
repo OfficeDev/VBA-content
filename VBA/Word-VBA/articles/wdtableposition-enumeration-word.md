@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdTablePosition
 ms.assetid: a14cde7e-a46e-3a04-a178-ec957d1b9869
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AddIn.Parent
 ms.assetid: db53e381-f2aa-86f6-4e24-6de2ef8bd511
+ms.date: 06/08/2017
 ---
 
 

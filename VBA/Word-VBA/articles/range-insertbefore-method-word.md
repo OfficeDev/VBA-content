@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.InsertBefore
 ms.assetid: ac77dcf7-ffcd-b109-8e17-ea6db169e85a
+ms.date: 06/08/2017
 ---
 
 

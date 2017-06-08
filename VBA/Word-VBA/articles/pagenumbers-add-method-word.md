@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.Add
 ms.assetid: d8a81795-035b-9702-bcd4-02c302607670
+ms.date: 06/08/2017
 ---
 
 

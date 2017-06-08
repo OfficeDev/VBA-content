@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeFilterCriterion.Conjunction
 ms.assetid: 79365a25-97fd-a18f-7815-eaccf4c5bdca
+ms.date: 06/08/2017
 ---
 
 

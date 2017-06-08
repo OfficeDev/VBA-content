@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.GridOriginHorizontal
 ms.assetid: b364fde9-c889-e139-49eb-91fdff42ac96
+ms.date: 06/08/2017
 ---
 
 

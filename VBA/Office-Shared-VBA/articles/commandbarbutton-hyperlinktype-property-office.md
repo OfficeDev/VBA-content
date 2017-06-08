@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.HyperlinkType
 ms.assetid: 5769ce22-a9e8-3eb2-919f-a3d016cf0706
+ms.date: 06/08/2017
 ---
 
 

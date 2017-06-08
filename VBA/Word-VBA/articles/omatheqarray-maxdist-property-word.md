@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathEqArray.MaxDist
 ms.assetid: 04c3ce5e-afc3-8565-0d1c-21c899f40302
+ms.date: 06/08/2017
 ---
 
 

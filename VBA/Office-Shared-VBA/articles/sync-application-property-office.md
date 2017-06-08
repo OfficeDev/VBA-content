@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Sync.Application
 ms.assetid: f0bc8dd7-c33b-b34f-6ff6-785c92893203
+ms.date: 06/08/2017
 ---
 
 

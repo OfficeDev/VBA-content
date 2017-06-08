@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.Tags
 ms.assetid: 2869e5db-3355-0747-633b-2da430667e5b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroup.HasDropLines
 ms.assetid: cc0d188d-51ba-951d-7063-10820e5e4a42
+ms.date: 06/08/2017
 ---
 
 

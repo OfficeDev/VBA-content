@@ -2,6 +2,7 @@
 title: ShapeRange.HasChart Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 866c2d4e-c0d4-b566-81b7-8696432d4b3d
+ms.date: 06/08/2017
 ---
 
 

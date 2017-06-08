@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.Application
 ms.assetid: 7d1d0aab-32b0-b65e-53ef-be2043f4cd21
+ms.date: 06/08/2017
 ---
 
 

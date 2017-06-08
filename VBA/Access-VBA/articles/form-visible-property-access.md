@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.Visible
 ms.assetid: 85567666-297a-3380-2d08-864d44b637a1
+ms.date: 06/08/2017
 ---
 
 

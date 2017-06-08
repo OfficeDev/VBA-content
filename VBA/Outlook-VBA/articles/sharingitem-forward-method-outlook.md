@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Forward
 ms.assetid: ea6e67f2-dbfd-9500-630c-24e2533db432
+ms.date: 06/08/2017
 ---
 
 

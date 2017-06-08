@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LegendEntry
 ms.assetid: a242fdab-ebb4-f5de-04ae-d6b70cea1640
+ms.date: 06/08/2017
 ---
 
 

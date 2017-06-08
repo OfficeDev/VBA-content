@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Tags
 ms.assetid: 47e0db24-3805-788b-75a0-89c433a9e66c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ColorScheme.Delete
 ms.assetid: 37cf8a8e-4b76-4587-f0a5-fe257ef93b44
+ms.date: 06/08/2017
 ---
 
 

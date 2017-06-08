@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Asinh
 ms.assetid: cd10bb5e-8f4f-c619-8e70-bb437a6cd86d
+ms.date: 06/08/2017
 ---
 
 

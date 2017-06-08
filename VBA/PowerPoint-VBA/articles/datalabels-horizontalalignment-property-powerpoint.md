@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabels.HorizontalAlignment
 ms.assetid: 844d24eb-07e6-aff6-c8f5-fdb32e59e497
+ms.date: 06/08/2017
 ---
 
 

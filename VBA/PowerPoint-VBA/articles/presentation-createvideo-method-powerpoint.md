@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.CreateVideo
 ms.assetid: d302f251-66ee-c82d-d9b9-2c29b93f7615
+ms.date: 06/08/2017
 ---
 
 

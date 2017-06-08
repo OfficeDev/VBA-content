@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MetaProperties.Creator
 ms.assetid: 377c8cee-9561-21aa-666c-f5e291ca899a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.FeatureInstall
 ms.assetid: 0bfe9d01-543c-9ea8-8ff6-2032f056b070
+ms.date: 06/08/2017
 ---
 
 

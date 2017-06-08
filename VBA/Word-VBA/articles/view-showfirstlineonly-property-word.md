@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowFirstLineOnly
 ms.assetid: 16b67deb-e65d-10ac-f856-4f7df0a4ccbc
+ms.date: 06/08/2017
 ---
 
 

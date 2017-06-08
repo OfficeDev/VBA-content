@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.HelpPaths
 ms.assetid: eba05b64-61d8-970d-65f4-26ea41840fcf
+ms.date: 06/08/2017
 ---
 
 

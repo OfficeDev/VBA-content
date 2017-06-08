@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.Move
 ms.assetid: 63b05ea6-d761-adfa-5aa6-25d16ae5ed3c
+ms.date: 06/08/2017
 ---
 
 

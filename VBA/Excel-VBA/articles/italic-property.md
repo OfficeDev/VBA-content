@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Italic
 ms.assetid: 251d7213-4af6-92ad-a627-462266265ba8
+ms.date: 06/08/2017
 ---
 
 

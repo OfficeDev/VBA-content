@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlChartElementPosition
 ms.assetid: 9d383293-0cf7-d3ec-28c9-97b100546fec
+ms.date: 06/08/2017
 ---
 
 

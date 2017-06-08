@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Speech.SpeakCellOnEnter
 ms.assetid: a176820a-85ef-338c-b507-9ffb9d744631
+ms.date: 06/08/2017
 ---
 
 

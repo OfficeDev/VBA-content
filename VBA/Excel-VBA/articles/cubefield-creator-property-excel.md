@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.Creator
 ms.assetid: 2534f870-90cd-e3ab-b1fd-d63455a75809
+ms.date: 06/08/2017
 ---
 
 

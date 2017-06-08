@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.RemovePeriods
 ms.assetid: 66562cc7-e25b-e110-000e-c01b62caf761
+ms.date: 06/08/2017
 ---
 
 

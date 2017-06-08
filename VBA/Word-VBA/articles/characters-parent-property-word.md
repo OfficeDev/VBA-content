@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Characters.Parent
 ms.assetid: dcbb2a77-bf82-97c9-1396-81b43ae49377
+ms.date: 06/08/2017
 ---
 
 

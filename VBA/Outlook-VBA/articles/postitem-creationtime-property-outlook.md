@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.CreationTime
 ms.assetid: c344793b-cfdc-efcc-d001-08af0ba653b0
+ms.date: 06/08/2017
 ---
 
 

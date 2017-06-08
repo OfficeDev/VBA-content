@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.Background
 ms.assetid: 4c82e3d3-86cd-d18f-ead1-9fc2dda5efd8
+ms.date: 06/08/2017
 ---
 
 

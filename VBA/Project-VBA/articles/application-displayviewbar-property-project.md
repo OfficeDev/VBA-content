@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DisplayViewBar
 ms.assetid: e097b5ef-9d87-a55b-719b-3c31c6000b05
+ms.date: 06/08/2017
 ---
 
 

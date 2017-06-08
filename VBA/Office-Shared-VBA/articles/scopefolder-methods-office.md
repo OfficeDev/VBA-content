@@ -2,6 +2,7 @@
 title: ScopeFolder Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: e7e75156-a00a-4b33-a2ed-bec4adb3ef6e
+ms.date: 06/08/2017
 ---
 
 

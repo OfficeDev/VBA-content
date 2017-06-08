@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.UndoRecord.StartCustomRecord
 ms.assetid: cd8d4337-4bbc-1943-6e0a-bc764861e886
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.IsDataSourceConnected
 ms.assetid: b62422ab-12f7-1151-d8d1-1cb32de18160
+ms.date: 06/08/2017
 ---
 
 

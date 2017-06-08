@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.Section
 ms.assetid: be084566-3d7f-278e-5e78-b10720631cd8
+ms.date: 06/08/2017
 ---
 
 

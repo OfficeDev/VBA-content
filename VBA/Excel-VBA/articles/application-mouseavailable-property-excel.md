@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.MouseAvailable
 ms.assetid: b22f9d44-6a84-6716-d663-450f08c5557d
+ms.date: 06/08/2017
 ---
 
 

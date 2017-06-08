@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.IsMarkedAsTask
 ms.assetid: 6cc4530d-fa74-916b-654d-db995d9a989f
+ms.date: 06/08/2017
 ---
 
 

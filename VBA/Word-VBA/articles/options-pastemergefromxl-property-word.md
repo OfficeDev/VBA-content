@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PasteMergeFromXL
 ms.assetid: d09c2244-71f5-3345-fcbe-14a307f23da3
+ms.date: 06/08/2017
 ---
 
 

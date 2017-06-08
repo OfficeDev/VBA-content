@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.FooterMargin
 ms.assetid: b6ec4b9c-c828-e6fe-2a65-ccddd1b05c30
+ms.date: 06/08/2017
 ---
 
 

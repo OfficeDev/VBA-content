@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.Pages
 ms.assetid: 18390c33-fd07-73a3-324f-37d09e1c99c6
+ms.date: 06/08/2017
 ---
 
 

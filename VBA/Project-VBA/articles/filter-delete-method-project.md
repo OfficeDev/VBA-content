@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Filter.Delete
 ms.assetid: f0227a43-efc6-0cba-25ee-dc6320ca1206
+ms.date: 06/08/2017
 ---
 
 

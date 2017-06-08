@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeaderFooter.LinkToPrevious
 ms.assetid: edb4dbeb-bb06-e41a-aa26-f29317bb6e01
+ms.date: 06/08/2017
 ---
 
 

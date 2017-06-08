@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.Paste
 ms.assetid: cef0e06e-fc4d-b63f-aea6-4cd325c3e0b9
+ms.date: 06/08/2017
 ---
 
 

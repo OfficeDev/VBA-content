@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.TeamStatusPending
 ms.assetid: 2e85130d-fd12-a3dc-64ef-6c0a16107173
+ms.date: 06/08/2017
 ---
 
 

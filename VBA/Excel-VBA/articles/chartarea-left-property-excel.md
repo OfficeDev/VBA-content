@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.Left
 ms.assetid: 3bbdcecf-86a8-b7ab-b2c6-7c520d1d5d42
+ms.date: 06/08/2017
 ---
 
 

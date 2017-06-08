@@ -2,6 +2,7 @@
 title: TextRange2 Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 0e7fa98d-057c-4b7a-b531-ca229b33c71b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.HeaderMargin
 ms.assetid: c22feaf6-c9f5-f285-a8f6-75753a1e9cff
+ms.date: 06/08/2017
 ---
 
 

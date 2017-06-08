@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.QueryCancelMasterDelete
 ms.assetid: 69aa351f-2e89-545d-0cf8-f650d532d3a6
+ms.date: 06/08/2017
 ---
 
 

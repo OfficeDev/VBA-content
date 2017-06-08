@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.ReminderFire
 ms.assetid: 73a3f825-8aef-95b8-00c5-74e19daed84a
+ms.date: 06/08/2017
 ---
 
 

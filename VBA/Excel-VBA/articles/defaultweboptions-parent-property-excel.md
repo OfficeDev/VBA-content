@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DefaultWebOptions.Parent
 ms.assetid: 2a11e1f4-29c3-69d0-ecac-69ba9a0674df
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeWizardFollowUpCustom
 ms.assetid: ac8cb695-69a4-83f7-8e13-66762f52f611
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Default Properties Displayed in a Table Object
 ms.prod: OUTLOOK
 ms.assetid: 649c64f3-2d1e-23f1-bf13-3368da79e62b
+ms.date: 06/08/2017
 ---
 
 

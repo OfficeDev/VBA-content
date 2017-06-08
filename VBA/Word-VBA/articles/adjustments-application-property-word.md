@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Adjustments.Application
 ms.assetid: 0ebfc111-85df-af1d-f025-a2ff2f0b9672
+ms.date: 06/08/2017
 ---
 
 

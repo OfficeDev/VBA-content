@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartCharacters.Text
 ms.assetid: 4dd6bf6f-c1af-fd6e-17b3-31781ded2dff
+ms.date: 06/08/2017
 ---
 
 

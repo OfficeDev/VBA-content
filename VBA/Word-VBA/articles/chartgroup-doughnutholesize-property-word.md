@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.DoughnutHoleSize
 ms.assetid: 5f4098ee-7d94-ace4-b412-1c7071434973
+ms.date: 06/08/2017
 ---
 
 

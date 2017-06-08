@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Accelerator
 ms.assetid: d9183848-4638-745b-e3f4-b076493d3668
+ms.date: 06/08/2017
 ---
 
 

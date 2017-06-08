@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.Properties
 ms.assetid: 0820fe59-ae97-be99-16f6-996f65d717c8
+ms.date: 06/08/2017
 ---
 
 

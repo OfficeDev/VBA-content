@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlLineStyle
 ms.assetid: b9d0f590-e0f5-ebe0-f24f-35c840eb5fed
+ms.date: 06/08/2017
 ---
 
 

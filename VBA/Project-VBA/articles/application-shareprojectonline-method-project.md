@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ShareProjectOnline
 ms.assetid: 7742715a-d78a-334b-5655-7047efd28890
+ms.date: 06/08/2017
 ---
 
 

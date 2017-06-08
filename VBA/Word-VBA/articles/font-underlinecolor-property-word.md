@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.UnderlineColor
 ms.assetid: f0da061c-0948-1214-ecdc-80f9c482f468
+ms.date: 06/08/2017
 ---
 
 

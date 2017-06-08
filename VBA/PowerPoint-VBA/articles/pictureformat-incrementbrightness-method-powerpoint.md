@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.IncrementBrightness
 ms.assetid: 4237d547-2c8b-9ed2-f131-6a4fb52ee0a2
+ms.date: 06/08/2017
 ---
 
 

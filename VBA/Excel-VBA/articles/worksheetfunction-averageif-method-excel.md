@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.AverageIf
 ms.assetid: 5409428c-ee42-8a36-42f2-f6d4ca8030d9
+ms.date: 06/08/2017
 ---
 
 

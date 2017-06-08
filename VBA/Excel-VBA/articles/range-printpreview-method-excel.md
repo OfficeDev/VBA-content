@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.PrintPreview
 ms.assetid: b429a45c-864f-1c48-0775-1cf240f6e7ac
+ms.date: 06/08/2017
 ---
 
 

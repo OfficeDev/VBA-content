@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchPhrase
 ms.assetid: 189d670e-941a-e737-1d3c-b054b716d400
+ms.date: 06/08/2017
 ---
 
 

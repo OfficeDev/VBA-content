@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.LockAspectRatio
 ms.assetid: 4c310dae-d0ec-40ea-c4c1-191474c0f21e
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.SecFormat
 ms.assetid: 2c6fa96d-8a71-28fb-c8d7-f7ba6772fe43
+ms.date: 06/08/2017
 ---
 
 

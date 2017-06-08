@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UniqueValues.DupeUnique
 ms.assetid: 428d6416-ae3f-8ddd-72a9-2a627466a946
+ms.date: 06/08/2017
 ---
 
 

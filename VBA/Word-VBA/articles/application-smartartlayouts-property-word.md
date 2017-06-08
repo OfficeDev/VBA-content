@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.SmartArtLayouts
 ms.assetid: dcbaf620-0865-8f2f-ef97-456edd0d70e3
+ms.date: 06/08/2017
 ---
 
 

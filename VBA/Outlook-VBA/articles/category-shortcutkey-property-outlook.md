@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Category.ShortcutKey
 ms.assetid: c78f882a-ab02-5218-e71f-362c86b4dfe1
+ms.date: 06/08/2017
 ---
 
 

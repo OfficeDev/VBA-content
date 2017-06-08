@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Spacing
 ms.assetid: 50e380cd-1126-c2bd-18ff-40249efa0b9f
+ms.date: 06/08/2017
 ---
 
 

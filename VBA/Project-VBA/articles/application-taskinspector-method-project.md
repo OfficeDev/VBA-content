@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TaskInspector
 ms.assetid: cc2f34af-a4e0-8ad4-5dd1-9cf9663e342b
+ms.date: 06/08/2017
 ---
 
 

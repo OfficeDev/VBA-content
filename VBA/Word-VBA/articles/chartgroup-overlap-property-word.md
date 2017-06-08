@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.Overlap
 ms.assetid: e2d219f6-7edd-69c7-015f-8304cf95dbc3
+ms.date: 06/08/2017
 ---
 
 

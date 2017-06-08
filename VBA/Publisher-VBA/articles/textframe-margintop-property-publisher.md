@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.MarginTop
 ms.assetid: 9709eefe-0857-f228-aa56-780c4789a413
+ms.date: 06/08/2017
 ---
 
 

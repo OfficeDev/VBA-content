@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ICustomTaskPaneConsumer
 ms.assetid: 54be3f78-4e5d-8595-d369-0724df0debf7
+ms.date: 06/08/2017
 ---
 
 

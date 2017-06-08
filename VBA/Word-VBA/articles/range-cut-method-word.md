@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Cut
 ms.assetid: 51d28896-7552-d90c-5280-e8c8f0203f64
+ms.date: 06/08/2017
 ---
 
 

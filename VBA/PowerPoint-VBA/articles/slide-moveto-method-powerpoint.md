@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.MoveTo
 ms.assetid: b044a6fe-b6af-0f7f-ca4a-69d8a6f146e6
+ms.date: 06/08/2017
 ---
 
 

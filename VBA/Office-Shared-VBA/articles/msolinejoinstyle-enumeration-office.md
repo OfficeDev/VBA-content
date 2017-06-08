@@ -1,6 +1,7 @@
 ---
 title: MsoLineJoinStyle Enumeration (Office)
 ms.assetid: 87f2a42f-0ec4-51fa-2156-18a76a44296d
+ms.date: 06/08/2017
 ---
 
 

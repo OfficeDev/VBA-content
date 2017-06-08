@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Research.Application
 ms.assetid: bba490bb-9aef-75ca-f5fd-4fa27704d42f
+ms.date: 06/08/2017
 ---
 
 

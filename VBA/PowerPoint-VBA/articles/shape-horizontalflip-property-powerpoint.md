@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.HorizontalFlip
 ms.assetid: bf061a08-978c-dfb3-8a8f-4ecd62d95c53
+ms.date: 06/08/2017
 ---
 
 

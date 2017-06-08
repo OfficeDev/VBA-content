@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalModule.NavigationGroups
 ms.assetid: 724fa397-4180-fc7f-adcb-d298eb80e821
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.DocumentLibraryVersions
 ms.assetid: 4c1b2055-cbbb-732d-26bd-8e6b85c26cc1
+ms.date: 06/08/2017
 ---
 
 

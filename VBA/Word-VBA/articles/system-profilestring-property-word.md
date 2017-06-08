@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.System.ProfileString
 ms.assetid: c682a0b6-988c-4b81-4314-787fd432afef
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.FastLaserPrinting
 ms.assetid: b96ec618-de46-8802-0d9e-064fd8835fbd
+ms.date: 06/08/2017
 ---
 
 

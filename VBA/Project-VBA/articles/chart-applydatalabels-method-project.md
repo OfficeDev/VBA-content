@@ -2,6 +2,7 @@
 title: Chart.ApplyDataLabels Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: cda031a4-ed86-1ec8-583d-44767785e3a1
+ms.date: 06/08/2017
 ---
 
 

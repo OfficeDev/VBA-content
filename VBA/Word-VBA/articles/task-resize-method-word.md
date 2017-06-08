@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Task.Resize
 ms.assetid: e4176266-c511-3f4c-f22c-ec5617cd41d9
+ms.date: 06/08/2017
 ---
 
 

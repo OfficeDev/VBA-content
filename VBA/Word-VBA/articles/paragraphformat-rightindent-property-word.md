@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.RightIndent
 ms.assetid: de69209e-d88d-d367-9d84-94faa07a30bd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.NavigateTo
 ms.assetid: 27a6e4ee-1c03-2652-3c5a-73c45f3109df
+ms.date: 06/08/2017
 ---
 
 

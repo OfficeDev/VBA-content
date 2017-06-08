@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.SpatialSearch
 ms.assetid: 539d2884-2092-6eb5-8d22-af8062f139db
+ms.date: 06/08/2017
 ---
 
 

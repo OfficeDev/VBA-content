@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.InPlace
 ms.assetid: 8bd0c927-3314-5228-11d6-291a54fd7cdb
+ms.date: 06/08/2017
 ---
 
 

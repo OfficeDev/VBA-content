@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.WordWrap
 ms.assetid: 5f81d59a-94aa-0cf7-e81d-4013063ad245
+ms.date: 06/08/2017
 ---
 
 

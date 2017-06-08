@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.DefaultValue
 ms.assetid: dd8104db-7d24-2b1f-aac7-bc17f7b9002b
+ms.date: 06/08/2017
 ---
 
 

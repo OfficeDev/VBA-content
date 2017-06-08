@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.MoveEnd
 ms.assetid: 44aa26e6-7bb1-af51-8d23-244444e0795c
+ms.date: 06/08/2017
 ---
 
 

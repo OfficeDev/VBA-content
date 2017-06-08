@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.ConnectionSiteCount
 ms.assetid: 2180bb96-d205-03f3-1ace-355f34286b2e
+ms.date: 06/08/2017
 ---
 
 

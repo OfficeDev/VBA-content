@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Design.MoveTo
 ms.assetid: fc0d8e56-0e82-da31-3360-995ad804db7d
+ms.date: 06/08/2017
 ---
 
 

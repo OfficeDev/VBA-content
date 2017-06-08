@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TabKeyBehavior
 ms.assetid: 9019c946-8590-2538-fbf0-c9d131a78963
+ms.date: 06/08/2017
 ---
 
 

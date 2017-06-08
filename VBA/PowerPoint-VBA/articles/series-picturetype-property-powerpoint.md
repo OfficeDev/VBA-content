@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.PictureType
 ms.assetid: 106933a2-49a7-e9d3-e5fa-fd2d0ab8974a
+ms.date: 06/08/2017
 ---
 
 

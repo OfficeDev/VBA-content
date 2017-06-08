@@ -2,6 +2,7 @@
 title: TextBox.CurX Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 1e367959-9f87-c79c-b816-aabf8cde2e23
+ms.date: 06/08/2017
 ---
 
 

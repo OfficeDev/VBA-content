@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TablesOfAuthorities.MarkAllCitations
 ms.assetid: 5f07956b-2e51-f88e-f758-a2ee055d7a36
+ms.date: 06/08/2017
 ---
 
 

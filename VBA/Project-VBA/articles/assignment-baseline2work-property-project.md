@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Baseline2Work
 ms.assetid: 40be106a-90ea-8240-d6ee-a485663bcbec
+ms.date: 06/08/2017
 ---
 
 

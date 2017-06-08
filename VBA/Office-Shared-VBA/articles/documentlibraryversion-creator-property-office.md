@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentLibraryVersion.Creator
 ms.assetid: 634bd139-a0bb-ffc0-436f-22a5d7c77918
+ms.date: 06/08/2017
 ---
 
 

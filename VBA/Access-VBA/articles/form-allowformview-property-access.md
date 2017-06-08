@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.AllowFormView
 ms.assetid: 15dc69fc-d4ba-c8e3-d047-71f96c32fe02
+ms.date: 06/08/2017
 ---
 
 

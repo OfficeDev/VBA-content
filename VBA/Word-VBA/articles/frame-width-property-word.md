@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.Width
 ms.assetid: afc78abd-98d5-768c-c536-40f9296ea0ac
+ms.date: 06/08/2017
 ---
 
 

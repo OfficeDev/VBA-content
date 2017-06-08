@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LinearGradient.Degree
 ms.assetid: 0608fe59-76e9-e199-2cc6-848f283813f3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Recipient.FreeBusy
 ms.assetid: eeb831bc-c369-10f1-fb0b-08a8105c48e6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.Title
 ms.assetid: bbaf0307-22ce-d6d7-8996-ff7758bffab3
+ms.date: 06/08/2017
 ---
 
 

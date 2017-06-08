@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline7Duration
 ms.assetid: 89b8a6f1-3a30-9fe9-ea03-9cbbf536c8ae
+ms.date: 06/08/2017
 ---
 
 

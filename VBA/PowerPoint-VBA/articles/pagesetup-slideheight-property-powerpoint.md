@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.SlideHeight
 ms.assetid: 64b269cf-4b78-eabf-8963-d1971dc90637
+ms.date: 06/08/2017
 ---
 
 

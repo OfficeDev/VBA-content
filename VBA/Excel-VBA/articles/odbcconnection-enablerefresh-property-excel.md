@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCConnection.EnableRefresh
 ms.assetid: 7d10e758-e92c-90c6-2f12-60b7b5f531ea
+ms.date: 06/08/2017
 ---
 
 

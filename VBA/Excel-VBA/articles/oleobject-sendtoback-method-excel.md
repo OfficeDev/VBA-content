@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.SendToBack
 ms.assetid: c500dfd8-9176-49ae-23a2-24f64ef897b3
+ms.date: 06/08/2017
 ---
 
 

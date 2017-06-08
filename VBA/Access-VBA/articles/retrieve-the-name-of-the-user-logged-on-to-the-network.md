@@ -2,6 +2,7 @@
 title: Retrieve the Name of the User Logged On To the Network
 ms.prod: ACCESS
 ms.assetid: 3bf335a1-08d0-c8d5-8d89-36f0c29d47d0
+ms.date: 06/08/2017
 ---
 
 

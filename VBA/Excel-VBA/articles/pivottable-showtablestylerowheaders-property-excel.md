@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ShowTableStyleRowHeaders
 ms.assetid: 223de9b9-f98e-4151-758f-0ec886bb9636
+ms.date: 06/08/2017
 ---
 
 

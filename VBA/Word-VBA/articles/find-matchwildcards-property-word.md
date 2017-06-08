@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchWildcards
 ms.assetid: d2aae410-691e-f718-b888-19e90372d18e
+ms.date: 06/08/2017
 ---
 
 

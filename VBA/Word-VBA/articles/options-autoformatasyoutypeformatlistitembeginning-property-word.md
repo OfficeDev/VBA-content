@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeFormatListItemBeginning
 ms.assetid: 7fc572d7-59f2-cb23-4609-c5ba6af9065c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.InvertColor
 ms.assetid: 50f248c7-5136-e4ea-c77c-9c0020275f07
+ms.date: 06/08/2017
 ---
 
 

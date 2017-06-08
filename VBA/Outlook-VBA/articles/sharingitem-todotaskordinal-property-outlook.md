@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ToDoTaskOrdinal
 ms.assetid: 4164fa78-c0cf-e359-2707-025d6d49f145
+ms.date: 06/08/2017
 ---
 
 

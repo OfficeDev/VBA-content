@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBox.Application
 ms.assetid: 3af955e4-f92a-6ce3-af4c-ba9768327998
+ms.date: 06/08/2017
 ---
 
 

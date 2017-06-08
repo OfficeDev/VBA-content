@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.Change
 ms.assetid: 54b8f9af-2515-9f6f-272f-553320be3eb8
+ms.date: 06/08/2017
 ---
 
 

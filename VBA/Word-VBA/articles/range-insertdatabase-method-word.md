@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.InsertDatabase
 ms.assetid: c8bcddda-0943-9619-e5ee-9ef0956b0f43
+ms.date: 06/08/2017
 ---
 
 

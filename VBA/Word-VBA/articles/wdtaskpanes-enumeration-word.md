@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdTaskPanes
 ms.assetid: 7b187018-8ccc-99ff-cc35-ba51ec83dcca
+ms.date: 06/08/2017
 ---
 
 

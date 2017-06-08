@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.Move
 ms.assetid: 58c51741-fb49-4b0a-91e0-cb9486808597
+ms.date: 06/08/2017
 ---
 
 

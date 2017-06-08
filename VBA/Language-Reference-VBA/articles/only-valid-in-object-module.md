@@ -2,6 +2,7 @@
 title: Only valid in object module
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 033ac42e-8ac9-47f8-8a5e-b9d316647001
+ms.date: 06/08/2017
 ---
 
 

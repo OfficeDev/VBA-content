@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.StyleKeepFmt
 ms.assetid: b56bfda8-0076-0114-b231-bb7c649c6310
+ms.date: 06/08/2017
 ---
 
 

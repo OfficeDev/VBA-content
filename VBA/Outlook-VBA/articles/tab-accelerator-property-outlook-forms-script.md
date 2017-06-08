@@ -2,6 +2,7 @@
 title: Tab.Accelerator Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 474be3a4-bc6b-4444-5967-ce36e0d3c835
+ms.date: 06/08/2017
 ---
 
 

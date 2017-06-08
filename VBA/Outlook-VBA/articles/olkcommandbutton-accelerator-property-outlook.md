@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.Accelerator
 ms.assetid: c66b26b7-f17f-ce2f-c871-49f0eac12913
+ms.date: 06/08/2017
 ---
 
 

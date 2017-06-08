@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Align
 ms.assetid: 99cf934c-0a65-b283-f7a5-28674e5cb39f
+ms.date: 06/08/2017
 ---
 
 

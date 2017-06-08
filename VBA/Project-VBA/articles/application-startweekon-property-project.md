@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.StartWeekOn
 ms.assetid: a5e3c262-4450-e6c1-85d7-ca15d324c2aa
+ms.date: 06/08/2017
 ---
 
 

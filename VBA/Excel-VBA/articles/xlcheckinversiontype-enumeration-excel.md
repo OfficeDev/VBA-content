@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlCheckInVersionType
 ms.assetid: 08e26c85-bfa6-f125-70aa-ce31eb684d5a
+ms.date: 06/08/2017
 ---
 
 

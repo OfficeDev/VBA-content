@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Styles
 ms.assetid: 146effdc-e007-814d-b110-f7bd944fc15f
+ms.date: 06/08/2017
 ---
 
 

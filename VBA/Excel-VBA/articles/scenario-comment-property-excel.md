@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenario.Comment
 ms.assetid: 0fe0a22d-b9d0-4e7c-e5db-258a676f222e
+ms.date: 06/08/2017
 ---
 
 

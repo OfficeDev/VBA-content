@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.Enabled
 ms.assetid: d4827881-3c53-4b16-7039-e10fcea7d56b
+ms.date: 06/08/2017
 ---
 
 

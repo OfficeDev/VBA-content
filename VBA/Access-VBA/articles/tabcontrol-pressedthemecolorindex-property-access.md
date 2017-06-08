@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.PressedThemeColorIndex
 ms.assetid: 1ac09ba3-ba29-81d1-044a-210cd09e1cb6
+ms.date: 06/08/2017
 ---
 
 

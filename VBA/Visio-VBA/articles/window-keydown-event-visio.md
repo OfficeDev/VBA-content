@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.KeyDown
 ms.assetid: 70f7d929-5907-e125-1a7f-b68046c6b9dd
+ms.date: 06/08/2017
 ---
 
 

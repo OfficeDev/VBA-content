@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListRows.Application
 ms.assetid: 556e3016-4cfb-9e15-a2b4-7fc651e10859
+ms.date: 06/08/2017
 ---
 
 

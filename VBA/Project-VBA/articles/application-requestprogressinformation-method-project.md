@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.RequestProgressInformation
 ms.assetid: a86ec09d-f9c8-07e3-68f4-898c604c3600
+ms.date: 06/08/2017
 ---
 
 

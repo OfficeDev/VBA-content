@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.Visible
 ms.assetid: 76361c20-b6b4-6d75-e732-2e63b2c8485e
+ms.date: 06/08/2017
 ---
 
 

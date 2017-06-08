@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSizes.Count
 ms.assetid: 10770705-e8b3-903c-bcfa-84ba26dc1478
+ms.date: 06/08/2017
 ---
 
 

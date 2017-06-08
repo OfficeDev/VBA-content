@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.WordOpenXML
 ms.assetid: 750cf7f5-5f72-cae3-e026-2205df2f32c2
+ms.date: 06/08/2017
 ---
 
 

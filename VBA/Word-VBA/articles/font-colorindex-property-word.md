@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.ColorIndex
 ms.assetid: c5011017-bf7a-5d89-0f20-f000d3ffd0ea
+ms.date: 06/08/2017
 ---
 
 

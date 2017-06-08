@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SenderInAddressListRuleCondition.Enabled
 ms.assetid: 8c3f9e08-d803-9f19-9607-61c6f4ac1418
+ms.date: 06/08/2017
 ---
 
 

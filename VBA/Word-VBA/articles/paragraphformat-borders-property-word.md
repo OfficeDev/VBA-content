@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.Borders
 ms.assetid: d8c57d5b-1c7a-2710-503c-a671ddae0dc7
+ms.date: 06/08/2017
 ---
 
 

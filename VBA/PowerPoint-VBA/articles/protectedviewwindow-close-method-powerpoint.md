@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ProtectedViewWindow.Close
 ms.assetid: ce66419b-7eed-ab7c-64ef-e396d9a3757d
+ms.date: 06/08/2017
 ---
 
 

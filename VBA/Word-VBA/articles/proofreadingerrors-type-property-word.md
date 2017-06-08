@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ProofreadingErrors.Type
 ms.assetid: a0156dea-d2ae-3e8a-3bca-c0d4e9f25128
+ms.date: 06/08/2017
 ---
 
 

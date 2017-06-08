@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeNode.SegmentType
 ms.assetid: 5135d7a7-3ed7-6abd-b072-7456a59aa707
+ms.date: 06/08/2017
 ---
 
 

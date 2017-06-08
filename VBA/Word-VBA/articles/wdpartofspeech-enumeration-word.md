@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPartOfSpeech
 ms.assetid: c0727812-91c5-b10d-fb56-bfa6c3ba4ae8
+ms.date: 06/08/2017
 ---
 
 

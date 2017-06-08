@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Delete
 ms.assetid: 2baac89b-d7b1-2209-b17f-b65b71b5aed4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.ShowEmptyFields
 ms.assetid: d2f4f4dd-3002-ab60-9aa5-c1cc70431523
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Shapes.Count Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: c198cf75-b554-5815-4b77-d2a54d60f5e6
+ms.date: 06/08/2017
 ---
 
 

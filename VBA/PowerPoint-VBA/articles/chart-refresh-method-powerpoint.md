@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Refresh
 ms.assetid: 5dfabfe6-50b3-4671-c409-a5c943223aff
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.ColorEffect
 ms.assetid: a1f8db9a-addf-c3f4-e5e3-0cc4b3f9f606
+ms.date: 06/08/2017
 ---
 
 

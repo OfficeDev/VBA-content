@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.GridlineTint
 ms.assetid: a6434bb1-88bb-1287-2fcb-c82922c8c868
+ms.date: 06/08/2017
 ---
 
 

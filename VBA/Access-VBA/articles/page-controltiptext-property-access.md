@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.ControlTipText
 ms.assetid: 9903da60-7af6-c257-6eeb-ff2e77ac96e0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.WordEditor
 ms.assetid: 9e09b772-f679-19e6-905e-552ccadb0d24
+ms.date: 06/08/2017
 ---
 
 

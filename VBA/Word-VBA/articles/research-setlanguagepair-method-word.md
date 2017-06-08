@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Research.SetLanguagePair
 ms.assetid: 95e874b7-5acf-7c73-4f12-8220a4630443
+ms.date: 06/08/2017
 ---
 
 

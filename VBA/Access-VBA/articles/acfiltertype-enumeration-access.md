@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcFilterType
 ms.assetid: 18d371a4-46fd-47d7-440d-3c321c679bd7
+ms.date: 06/08/2017
 ---
 
 

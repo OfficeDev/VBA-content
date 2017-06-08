@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArtFormat.Weight
 ms.assetid: 8ff67c8b-be41-a02e-5433-624baa0d888e
+ms.date: 06/08/2017
 ---
 
 

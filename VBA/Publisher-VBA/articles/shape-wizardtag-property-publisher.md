@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.WizardTag
 ms.assetid: b93bbdf9-6ce7-3ba6-566a-b11f8044fbda
+ms.date: 06/08/2017
 ---
 
 

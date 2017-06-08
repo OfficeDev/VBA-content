@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.CanShrink
 ms.assetid: e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc
+ms.date: 06/08/2017
 ---
 
 

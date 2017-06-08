@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.ColumnHidden
 ms.assetid: 962a7bf7-8898-d2e5-f26a-691b8c9b5d71
+ms.date: 06/08/2017
 ---
 
 

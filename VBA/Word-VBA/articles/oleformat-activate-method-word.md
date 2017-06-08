@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OLEFormat.Activate
 ms.assetid: 8a6d12a9-dc70-1527-8662-95666a84829d
+ms.date: 06/08/2017
 ---
 
 

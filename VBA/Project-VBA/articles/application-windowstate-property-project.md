@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WindowState
 ms.assetid: 1a5d372d-9e05-80b4-6722-19781381d372
+ms.date: 06/08/2017
 ---
 
 

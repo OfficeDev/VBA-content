@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.RevisedPropertiesMark
 ms.assetid: a973e504-3f27-a823-4746-d68b1b407413
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.SpaceAfter
 ms.assetid: 8b5dcf96-c35f-5e0b-6bd2-efabce7ea16f
+ms.date: 06/08/2017
 ---
 
 

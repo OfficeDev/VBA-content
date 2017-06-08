@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.PrintCropMarks
 ms.assetid: 0b777632-572c-7080-8f4d-b97a284d04e2
+ms.date: 06/08/2017
 ---
 
 

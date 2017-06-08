@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.Height
 ms.assetid: d5dc2035-fa09-4a77-2cb4-dc44659efd9e
+ms.date: 06/08/2017
 ---
 
 

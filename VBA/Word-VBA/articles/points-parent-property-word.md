@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Points.Parent
 ms.assetid: 7fe5b28f-d0b1-f01a-bcfc-e1f31e0cbf7e
+ms.date: 06/08/2017
 ---
 
 

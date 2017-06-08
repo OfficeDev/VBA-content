@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlArrowHeadWidth
 ms.assetid: dbb6ad81-ea76-cfa4-82a4-8f03d183998a
+ms.date: 06/08/2017
 ---
 
 

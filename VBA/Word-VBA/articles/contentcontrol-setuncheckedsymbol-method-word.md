@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.SetUncheckedSymbol
 ms.assetid: b563d0cd-e504-7aea-9c91-5c6daf257c35
+ms.date: 06/08/2017
 ---
 
 

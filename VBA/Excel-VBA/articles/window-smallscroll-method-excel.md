@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.SmallScroll
 ms.assetid: dcf1fdeb-36ab-06ed-a9fc-5b2bbaecc457
+ms.date: 06/08/2017
 ---
 
 

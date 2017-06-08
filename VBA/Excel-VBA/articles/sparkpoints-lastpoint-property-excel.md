@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkPoints.Lastpoint
 ms.assetid: 33ad7c29-1538-1825-b94a-55fd65d7610e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.AttentionLine
 ms.assetid: 56cbda4c-08ff-2d0b-2b1b-2c5e0ac26fea
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.Format
 ms.assetid: edca501b-ec33-eb54-b27d-380867854562
+ms.date: 06/08/2017
 ---
 
 

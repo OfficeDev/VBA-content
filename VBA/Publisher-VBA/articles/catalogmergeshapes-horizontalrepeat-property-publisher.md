@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CatalogMergeShapes.HorizontalRepeat
 ms.assetid: 1c3f1093-294f-e7b3-02ca-803ce7437d49
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceLink.Notes
 ms.assetid: 5bb05b61-2746-f276-5159-ee8f28a30c66
+ms.date: 06/08/2017
 ---
 
 

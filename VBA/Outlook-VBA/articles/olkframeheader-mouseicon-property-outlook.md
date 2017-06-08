@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkFrameHeader.MouseIcon
 ms.assetid: c819eb95-4d4a-59cf-6ad2-a4df053e6d56
+ms.date: 06/08/2017
 ---
 
 

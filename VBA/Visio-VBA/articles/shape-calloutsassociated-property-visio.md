@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.CalloutsAssociated
 ms.assetid: c1e32bb2-c946-3919-4f6e-064b5be50d6c
+ms.date: 06/08/2017
 ---
 
 

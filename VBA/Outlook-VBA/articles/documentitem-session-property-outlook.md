@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Session
 ms.assetid: 40c7d5d6-2efd-f946-bc2b-273209c6c896
+ms.date: 06/08/2017
 ---
 
 

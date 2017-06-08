@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.PropertyChange
 ms.assetid: 89e39434-0b93-5b40-852a-33d0efdca9e6
+ms.date: 06/08/2017
 ---
 
 

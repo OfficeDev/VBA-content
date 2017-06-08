@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Font.Size
 ms.assetid: 45f409cd-768b-0794-4fe9-ef002fa69606
+ms.date: 06/08/2017
 ---
 
 

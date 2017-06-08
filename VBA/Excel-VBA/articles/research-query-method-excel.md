@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Research.Query
 ms.assetid: ea3b90ba-9cb4-2682-e092-6e3dd7d40aaf
+ms.date: 06/08/2017
 ---
 
 

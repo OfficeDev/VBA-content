@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEDBConnection.SourceConnectionFile
 ms.assetid: 6dcae3c3-26fe-b373-cb5c-d6bdf68b1265
+ms.date: 06/08/2017
 ---
 
 

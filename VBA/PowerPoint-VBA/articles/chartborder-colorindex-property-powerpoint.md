@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartBorder.ColorIndex
 ms.assetid: c6601494-e82d-f67f-3cd9-bb7fa9c8ab3f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.EmbedLinguisticData
 ms.assetid: ad76bcba-dad3-6745-8cdb-a56797054af4
+ms.date: 06/08/2017
 ---
 
 

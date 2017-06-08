@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeNode.Application
 ms.assetid: 8bb74320-d748-b308-00b3-fbc8b52ef032
+ms.date: 06/08/2017
 ---
 
 

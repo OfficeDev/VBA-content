@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.MajorUnit
 ms.assetid: 6e58b341-6887-68c7-d0c1-a00abc226084
+ms.date: 06/08/2017
 ---
 
 

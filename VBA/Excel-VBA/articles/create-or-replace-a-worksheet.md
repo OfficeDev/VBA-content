@@ -2,6 +2,7 @@
 title: Create or Replace a Worksheet
 ms.prod: EXCEL
 ms.assetid: 227df739-3e66-4d23-8168-da43f552fbe0
+ms.date: 06/08/2017
 ---
 
 

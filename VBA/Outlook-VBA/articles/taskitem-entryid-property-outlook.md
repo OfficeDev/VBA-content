@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.EntryID
 ms.assetid: aae660b1-35e5-2cf7-1921-9f91e85d23b1
+ms.date: 06/08/2017
 ---
 
 

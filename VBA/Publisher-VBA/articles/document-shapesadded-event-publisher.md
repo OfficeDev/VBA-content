@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.ShapesAdded
 ms.assetid: f6573f7c-56fa-1efa-9dba-39cde3859cc0
+ms.date: 06/08/2017
 ---
 
 

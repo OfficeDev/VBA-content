@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.ResponsePending
 ms.assetid: dd9dc413-7969-9422-66dd-4876e8c47e10
+ms.date: 06/08/2017
 ---
 
 

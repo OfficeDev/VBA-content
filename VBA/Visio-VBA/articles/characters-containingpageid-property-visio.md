@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.ContainingPageID
 ms.assetid: 095cd4fc-1aa1-338a-eb9a-dedb63c2c1ad
+ms.date: 06/08/2017
 ---
 
 

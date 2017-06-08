@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.SetControlItemProperty
 ms.assetid: 90bb0dbf-c47e-9d75-182c-59c3e2384db2
+ms.date: 06/08/2017
 ---
 
 

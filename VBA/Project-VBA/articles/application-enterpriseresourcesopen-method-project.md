@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseResourcesOpen
 ms.assetid: 343b5391-2a28-043d-8ee9-34c71003126c
+ms.date: 06/08/2017
 ---
 
 

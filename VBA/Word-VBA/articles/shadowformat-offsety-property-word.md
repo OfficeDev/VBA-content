@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.OffsetY
 ms.assetid: 3ec87258-bcab-42fe-cc58-2d59b5dd4d65
+ms.date: 06/08/2017
 ---
 
 

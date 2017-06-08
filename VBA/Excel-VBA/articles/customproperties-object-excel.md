@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CustomProperties
 ms.assetid: f0f38570-e3bf-58ad-ab8a-e412ad869907
+ms.date: 06/08/2017
 ---
 
 

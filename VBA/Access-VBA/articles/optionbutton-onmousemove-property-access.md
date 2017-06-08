@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.OnMouseMove
 ms.assetid: 4a93846f-5774-1cf1-4dfe-a93361408497
+ms.date: 06/08/2017
 ---
 
 

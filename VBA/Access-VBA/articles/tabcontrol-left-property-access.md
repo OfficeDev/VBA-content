@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Left
 ms.assetid: 5ae5ad68-75b0-1ca2-cf37-8d1e84781b37
+ms.date: 06/08/2017
 ---
 
 

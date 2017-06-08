@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.MediaControlsVisible
 ms.assetid: 0d9d9807-bd5f-4633-001f-9aa4f63c5c28
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.VBProject
 ms.assetid: 76713c8c-2263-7a5a-8133-726cc94bd73a
+ms.date: 06/08/2017
 ---
 
 

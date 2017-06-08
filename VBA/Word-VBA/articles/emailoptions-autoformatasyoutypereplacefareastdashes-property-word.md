@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceFarEastDashes
 ms.assetid: 0a2fbf7f-9f32-b1d9-03aa-7e43d3b8b8ec
+ms.date: 06/08/2017
 ---
 
 

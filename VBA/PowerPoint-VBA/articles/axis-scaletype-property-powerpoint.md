@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.ScaleType
 ms.assetid: baf40097-28a4-c2ec-fea9-2ce971f72ed5
+ms.date: 06/08/2017
 ---
 
 

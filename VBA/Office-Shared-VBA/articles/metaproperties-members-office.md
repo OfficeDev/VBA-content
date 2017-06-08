@@ -2,6 +2,7 @@
 title: MetaProperties Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 0e2efa13-130c-59ad-07ee-8499f502064a
+ms.date: 06/08/2017
 ---
 
 

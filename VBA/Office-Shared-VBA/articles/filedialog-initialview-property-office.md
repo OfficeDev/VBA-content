@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialog.InitialView
 ms.assetid: 17950503-6511-8159-7f9f-406dd22e4fca
+ms.date: 06/08/2017
 ---
 
 

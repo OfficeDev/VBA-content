@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.ControlTipText
 ms.assetid: b37aaf1a-a436-636c-f529-85720810aec0
+ms.date: 06/08/2017
 ---
 
 

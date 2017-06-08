@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.MarginTop
 ms.assetid: 0ad83d75-432e-fcf2-2ed2-8ddee8cfc901
+ms.date: 06/08/2017
 ---
 
 

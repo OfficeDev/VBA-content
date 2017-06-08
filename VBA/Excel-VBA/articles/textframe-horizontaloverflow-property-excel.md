@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.HorizontalOverflow
 ms.assetid: 363f7e44-1f2e-78fb-38f6-5b89cd0d707d
+ms.date: 06/08/2017
 ---
 
 

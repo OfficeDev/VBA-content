@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.UseGermanSpellingReform
 ms.assetid: 5ab20040-7247-f402-c246-e13c1ba0cb30
+ms.date: 06/08/2017
 ---
 
 

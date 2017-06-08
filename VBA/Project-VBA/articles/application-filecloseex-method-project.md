@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FileCloseEx
 ms.assetid: 56e6eec6-6031-312b-fba5-50db7b43f0b1
+ms.date: 06/08/2017
 ---
 
 

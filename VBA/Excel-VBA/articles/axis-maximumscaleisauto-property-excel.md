@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.MaximumScaleIsAuto
 ms.assetid: c0e0f4b6-5d1c-5acb-2e7a-8722e10cd2bc
+ms.date: 06/08/2017
 ---
 
 

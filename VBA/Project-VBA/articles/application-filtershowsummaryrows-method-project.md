@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FilterShowSummaryRows
 ms.assetid: 173bf591-7579-505f-3cbd-42eaddb231ad
+ms.date: 06/08/2017
 ---
 
 

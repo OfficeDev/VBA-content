@@ -2,6 +2,7 @@
 title: Detect User Idle Time or Inactivity
 ms.prod: ACCESS
 ms.assetid: 40e9c4ef-a81b-074b-0be0-8247b4ea525b
+ms.date: 06/08/2017
 ---
 
 

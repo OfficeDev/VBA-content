@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.Delete
 ms.assetid: dd8e4d52-7d9c-4557-b349-ce797977bc84
+ms.date: 06/08/2017
 ---
 
 

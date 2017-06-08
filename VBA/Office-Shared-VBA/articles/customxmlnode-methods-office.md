@@ -2,6 +2,7 @@
 title: CustomXMLNode Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: a4c58e3c-cbce-4e67-b50a-10595ca0999b
+ms.date: 06/08/2017
 ---
 
 

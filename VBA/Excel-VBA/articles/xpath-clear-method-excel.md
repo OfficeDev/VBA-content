@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XPath.Clear
 ms.assetid: 8d9e0c70-c77e-257f-6ac7-7a8577282ab1
+ms.date: 06/08/2017
 ---
 
 

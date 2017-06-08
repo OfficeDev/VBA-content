@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.FindControls
 ms.assetid: 79c46884-816d-def6-2bff-85b59b0831ea
+ms.date: 06/08/2017
 ---
 
 

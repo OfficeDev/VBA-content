@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CheckBox.Parent
 ms.assetid: 39d08d67-0bef-3b43-a136-6091179be347
+ms.date: 06/08/2017
 ---
 
 

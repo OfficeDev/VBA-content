@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.BeforeUpdate
 ms.assetid: f30947cb-39ae-5b5b-ffb5-a5b3281e837a
+ms.date: 06/08/2017
 ---
 
 

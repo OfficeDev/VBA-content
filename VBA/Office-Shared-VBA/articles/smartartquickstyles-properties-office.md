@@ -2,6 +2,7 @@
 title: SmartArtQuickStyles Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d9e64e32-c48c-474b-ab50-963934049e3d
+ms.date: 06/08/2017
 ---
 
 

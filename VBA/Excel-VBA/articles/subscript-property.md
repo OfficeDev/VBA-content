@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Subscript
 ms.assetid: 47864964-27f4-8102-d309-9977131aa98a
+ms.date: 06/08/2017
 ---
 
 

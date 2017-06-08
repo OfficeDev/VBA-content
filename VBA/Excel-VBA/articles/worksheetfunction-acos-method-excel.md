@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Acos
 ms.assetid: 76954fdf-5aa0-de8d-1f7c-4184ebc472f4
+ms.date: 06/08/2017
 ---
 
 

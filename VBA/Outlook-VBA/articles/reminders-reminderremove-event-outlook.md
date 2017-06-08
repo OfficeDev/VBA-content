@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.ReminderRemove
 ms.assetid: f217cd33-84c0-223b-ad4e-9ceb0f7e894c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationGroup.Session
 ms.assetid: 8be45a52-1a91-2b89-567d-051e1a99178c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WriteLine
 ms.assetid: 38118a0d-90ec-bfa0-3e5e-74a0b2c6c98b
+ms.date: 06/08/2017
 ---
 
 

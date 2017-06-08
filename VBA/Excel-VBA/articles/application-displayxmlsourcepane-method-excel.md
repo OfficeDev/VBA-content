@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayXMLSourcePane
 ms.assetid: 1dea98ac-8d36-4745-cb6a-9a607e863ff2
+ms.date: 06/08/2017
 ---
 
 

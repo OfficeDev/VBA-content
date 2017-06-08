@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseProtectActuals
 ms.assetid: 99880223-194c-39de-aed0-068b3eb0a96b
+ms.date: 06/08/2017
 ---
 
 

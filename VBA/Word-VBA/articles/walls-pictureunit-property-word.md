@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Walls.PictureUnit
 ms.assetid: e95e12b5-f383-48ef-5ee2-d552bef3f94d
+ms.date: 06/08/2017
 ---
 
 

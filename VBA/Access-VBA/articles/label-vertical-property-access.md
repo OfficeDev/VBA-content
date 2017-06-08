@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.Vertical
 ms.assetid: 6ce97069-0713-9a6f-3efc-4a5161ee54e3
+ms.date: 06/08/2017
 ---
 
 

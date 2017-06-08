@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.AddToGroup
 ms.assetid: 8bef7960-271c-245d-dec0-eeea4af66097
+ms.date: 06/08/2017
 ---
 
 

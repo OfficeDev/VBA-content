@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.ShowChanges
 ms.assetid: 6a8a7ee7-ad57-1d52-8a22-fb30be076236
+ms.date: 06/08/2017
 ---
 
 

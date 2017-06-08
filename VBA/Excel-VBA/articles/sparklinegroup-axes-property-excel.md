@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.Axes
 ms.assetid: 9692d9bb-e5f5-860f-d9b4-264ff7ada6b2
+ms.date: 06/08/2017
 ---
 
 

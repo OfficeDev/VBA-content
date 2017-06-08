@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.UnprotectSharing
 ms.assetid: edce1744-0906-4b4e-8b98-5d1125047bff
+ms.date: 06/08/2017
 ---
 
 

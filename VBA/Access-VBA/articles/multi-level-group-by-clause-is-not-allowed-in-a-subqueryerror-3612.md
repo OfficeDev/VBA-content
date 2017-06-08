@@ -2,6 +2,7 @@
 title: Multi-level GROUP BY clause is not allowed in a subquery. (Error 3612)
 ms.prod: ACCESS
 ms.assetid: 05d87e16-399f-c2fd-49bd-36be4930dce9
+ms.date: 06/08/2017
 ---
 
 

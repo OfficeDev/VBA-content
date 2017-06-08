@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.Application
 ms.assetid: 485ee568-3a48-c716-2049-48b1030ba269
+ms.date: 06/08/2017
 ---
 
 

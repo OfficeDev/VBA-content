@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.CountLarge
 ms.assetid: 3a46ef6d-a339-b15e-990d-b11f462fb602
+ms.date: 06/08/2017
 ---
 
 

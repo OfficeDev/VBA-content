@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.Follow
 ms.assetid: ff8553f3-9da7-245f-75fc-77013b5b1e9a
+ms.date: 06/08/2017
 ---
 
 

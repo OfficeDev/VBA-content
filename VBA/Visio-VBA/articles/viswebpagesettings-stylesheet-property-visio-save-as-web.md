@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c
+ms.date: 06/08/2017
 ---
 
 

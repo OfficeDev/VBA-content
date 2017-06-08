@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.CellChanged
 ms.assetid: 8c07be33-8d0d-4957-7f08-daef8b798f28
+ms.date: 06/08/2017
 ---
 
 

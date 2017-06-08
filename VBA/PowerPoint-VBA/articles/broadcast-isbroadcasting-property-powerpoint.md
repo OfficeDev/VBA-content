@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Broadcast.IsBroadcasting
 ms.assetid: 2156c9db-a587-8aa3-513f-eb40d5b4c630
+ms.date: 06/08/2017
 ---
 
 

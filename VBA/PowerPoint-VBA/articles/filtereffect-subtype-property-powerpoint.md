@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FilterEffect.Subtype
 ms.assetid: 1c244c97-9d50-93eb-7abc-5082aafcfb3e
+ms.date: 06/08/2017
 ---
 
 

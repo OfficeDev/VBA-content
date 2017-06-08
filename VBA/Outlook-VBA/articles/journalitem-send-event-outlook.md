@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.Send
 ms.assetid: 0de70191-07cf-fac9-fa0c-49e409e964ac
+ms.date: 06/08/2017
 ---
 
 

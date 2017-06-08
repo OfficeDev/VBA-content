@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AppActivated
 ms.assetid: 150864ab-574a-6556-a56a-8ca619796062
+ms.date: 06/08/2017
 ---
 
 

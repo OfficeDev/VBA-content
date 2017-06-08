@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RadarGroups
 ms.assetid: 5fbca532-ae99-fb41-dd1d-2d24909bf073
+ms.date: 06/08/2017
 ---
 
 

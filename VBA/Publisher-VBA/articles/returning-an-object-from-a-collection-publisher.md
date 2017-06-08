@@ -2,6 +2,7 @@
 title: Returning an Object from a Collection (Publisher)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 08b8c469-f4f1-8717-a767-ab57c792606b
+ms.date: 06/08/2017
 ---
 
 

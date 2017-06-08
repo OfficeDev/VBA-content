@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailingLabel
 ms.assetid: 9dd073b7-5d53-0f1e-f19a-9abf6427b3f2
+ms.date: 06/08/2017
 ---
 
 

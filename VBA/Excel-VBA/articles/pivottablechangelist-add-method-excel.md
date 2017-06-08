@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTableChangeList.Add
 ms.assetid: d871f244-a669-9508-a006-bb36e693a288
+ms.date: 06/08/2017
 ---
 
 

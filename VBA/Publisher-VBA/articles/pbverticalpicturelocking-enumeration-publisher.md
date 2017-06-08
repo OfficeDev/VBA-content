@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbVerticalPictureLocking
 ms.assetid: fdfef20e-6e61-ce7d-373d-aaee37b24577
+ms.date: 06/08/2017
 ---
 
 

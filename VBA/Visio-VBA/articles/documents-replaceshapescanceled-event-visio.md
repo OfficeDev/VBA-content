@@ -2,6 +2,7 @@
 title: Documents.ReplaceShapesCanceled Event (Visio)
 ms.prod: VISIO
 ms.assetid: 94a20fe7-da09-4e3c-d048-05ba0b8f1070
+ms.date: 06/08/2017
 ---
 
 

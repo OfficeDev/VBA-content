@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.LanguageSettings
 ms.assetid: 9603b5ed-2143-10f7-399b-2757b71c0525
+ms.date: 06/08/2017
 ---
 
 

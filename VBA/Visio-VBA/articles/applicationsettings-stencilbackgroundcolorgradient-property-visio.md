@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.StencilBackgroundColorGradient
 ms.assetid: e73b2f5a-6ddf-0e46-62f1-8409e7e0608c
+ms.date: 06/08/2017
 ---
 
 

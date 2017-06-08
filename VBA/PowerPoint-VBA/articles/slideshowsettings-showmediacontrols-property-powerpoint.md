@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowSettings.ShowMediaControls
 ms.assetid: 6b7a63d3-f43d-bbb2-0af2-574e19d48e3d
+ms.date: 06/08/2017
 ---
 
 

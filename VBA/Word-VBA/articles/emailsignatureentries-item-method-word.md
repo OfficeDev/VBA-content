@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailSignatureEntries.Item
 ms.assetid: 37e33741-a0bd-5f0f-46fc-5af4ef736687
+ms.date: 06/08/2017
 ---
 
 

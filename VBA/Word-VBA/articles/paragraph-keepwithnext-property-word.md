@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.KeepWithNext
 ms.assetid: 59991695-23cc-9580-5a49-3e2c266938f3
+ms.date: 06/08/2017
 ---
 
 

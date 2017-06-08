@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.WindowSidepaneDisplayChange
 ms.assetid: 8c4c22f4-4005-eff5-2964-880982634e78
+ms.date: 06/08/2017
 ---
 
 

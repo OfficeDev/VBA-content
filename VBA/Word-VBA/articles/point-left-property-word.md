@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Left
 ms.assetid: a1961773-fc15-7c20-3574-a6ea1431b796
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.CenterViewOnShape
 ms.assetid: 23f219be-bfb7-0f5b-89c0-855093e4bbd9
+ms.date: 06/08/2017
 ---
 
 

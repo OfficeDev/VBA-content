@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataTable.HasBorderOutline
 ms.assetid: e98c1e9a-ff51-32eb-ab8a-aab92c07c82c
+ms.date: 06/08/2017
 ---
 
 

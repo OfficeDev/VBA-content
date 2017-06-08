@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.BackgroundStyle
 ms.assetid: 5abc16be-d2b1-0138-49be-227dd467869f
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.Write
 ms.assetid: ca5cf81a-e535-440e-2aee-447aa2d66249
+ms.date: 06/08/2017
 ---
 
 

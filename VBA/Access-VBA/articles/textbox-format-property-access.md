@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Format
 ms.assetid: c89491e2-09f8-d928-1aed-9d839545a694
+ms.date: 06/08/2017
 ---
 
 

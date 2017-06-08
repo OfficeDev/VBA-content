@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.GetAddress
 ms.assetid: b0081a05-be87-d0e4-31a6-b0aab02a3371
+ms.date: 06/08/2017
 ---
 
 

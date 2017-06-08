@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TablesOfAuthorities.NextCitation
 ms.assetid: c0bfde51-ce49-1570-9599-515b43875dec
+ms.date: 06/08/2017
 ---
 
 

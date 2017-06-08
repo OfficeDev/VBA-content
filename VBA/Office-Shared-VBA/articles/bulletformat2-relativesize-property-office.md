@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BulletFormat2.RelativeSize
 ms.assetid: 91c5b349-008a-b4bc-befb-1b8e188d7e2f
+ms.date: 06/08/2017
 ---
 
 

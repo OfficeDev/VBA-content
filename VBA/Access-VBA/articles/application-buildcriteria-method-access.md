@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.BuildCriteria
 ms.assetid: 098e9aca-3dc1-ad21-4374-5d8ae7c80c56
+ms.date: 06/08/2017
 ---
 
 

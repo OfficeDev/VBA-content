@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.IsEditingText
 ms.assetid: 2db084a6-8d07-3d29-f3c3-6f19fe50dfab
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartBorder.Creator
 ms.assetid: f907a1c1-7f72-050e-c426-e739205b84a0
+ms.date: 06/08/2017
 ---
 
 

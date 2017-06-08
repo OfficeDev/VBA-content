@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorsInUse.Parent
 ms.assetid: 79b6be2a-ff88-c04e-7488-d3ed3bc94c1d
+ms.date: 06/08/2017
 ---
 
 

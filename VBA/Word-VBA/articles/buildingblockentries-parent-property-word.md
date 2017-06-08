@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.BuildingBlockEntries.Parent
 ms.assetid: b24e4da5-1cc5-9359-1dbf-d28a24d6db22
+ms.date: 06/08/2017
 ---
 
 

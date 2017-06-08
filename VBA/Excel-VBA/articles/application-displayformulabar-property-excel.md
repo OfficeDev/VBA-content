@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayFormulaBar
 ms.assetid: a54a313f-b416-5e5f-74d2-7435630b418e
+ms.date: 06/08/2017
 ---
 
 

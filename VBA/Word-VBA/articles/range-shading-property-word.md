@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Shading
 ms.assetid: 8e09cd74-a16e-6547-5ada-97322cf32b99
+ms.date: 06/08/2017
 ---
 
 

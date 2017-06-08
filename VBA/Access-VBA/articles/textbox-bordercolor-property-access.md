@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.BorderColor
 ms.assetid: 7522b663-4ce6-34a6-51db-7de503e01f04
+ms.date: 06/08/2017
 ---
 
 

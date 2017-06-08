@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TickLabels.Delete
 ms.assetid: 2aa1ec7a-ecf7-e377-ed1f-de97c5efd3e5
+ms.date: 06/08/2017
 ---
 
 

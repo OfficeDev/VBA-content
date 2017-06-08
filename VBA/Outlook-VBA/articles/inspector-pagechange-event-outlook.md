@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.PageChange
 ms.assetid: f0ba9820-84bf-2367-364a-519e6ed88289
+ms.date: 06/08/2017
 ---
 
 

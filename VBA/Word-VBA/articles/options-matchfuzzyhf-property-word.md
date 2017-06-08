@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyHF
 ms.assetid: fc818d98-8cdc-2dfe-9898-d019a01b2077
+ms.date: 06/08/2017
 ---
 
 

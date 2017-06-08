@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.AccelItem.Delete
 ms.assetid: 67c37ef6-3aa5-3fb2-fe31-c3c546c11d44
+ms.date: 06/08/2017
 ---
 
 

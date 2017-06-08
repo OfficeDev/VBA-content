@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Printer
 ms.assetid: fba3eb15-db93-943a-421c-291761e7fa2b
+ms.date: 06/08/2017
 ---
 
 

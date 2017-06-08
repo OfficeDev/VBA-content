@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataTable.Border
 ms.assetid: ebc9e1f4-69cb-b230-8821-22331ad5c76c
+ms.date: 06/08/2017
 ---
 
 

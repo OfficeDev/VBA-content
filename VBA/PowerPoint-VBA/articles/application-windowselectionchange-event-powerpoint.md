@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.WindowSelectionChange
 ms.assetid: 069f4afe-2302-28fa-4d86-57afe8c3c2ab
+ms.date: 06/08/2017
 ---
 
 

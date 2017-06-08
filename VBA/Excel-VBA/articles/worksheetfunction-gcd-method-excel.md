@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Gcd
 ms.assetid: 243cc3ae-d35d-66a1-2db5-d5542dec548e
+ms.date: 06/08/2017
 ---
 
 

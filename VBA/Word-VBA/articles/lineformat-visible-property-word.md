@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.Visible
 ms.assetid: 728c3146-6c7b-730c-aed0-c263481c374a
+ms.date: 06/08/2017
 ---
 
 

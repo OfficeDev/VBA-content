@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.OnDataChangeDelay
 ms.assetid: 6fe13712-24c0-c4d9-df51-66699de776ab
+ms.date: 06/08/2017
 ---
 
 

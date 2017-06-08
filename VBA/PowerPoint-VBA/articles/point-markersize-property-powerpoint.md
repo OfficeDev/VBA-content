@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.MarkerSize
 ms.assetid: e8df4fac-34e4-10d1-b1eb-82eae7453760
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WorkbookRowsetComplete
 ms.assetid: cc472400-5622-5b4f-60a2-d3347ded266f
+ms.date: 06/08/2017
 ---
 
 

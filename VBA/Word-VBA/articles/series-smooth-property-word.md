@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.Smooth
 ms.assetid: 9360e311-566f-e173-b5e3-ed3790c007fc
+ms.date: 06/08/2017
 ---
 
 

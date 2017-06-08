@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.EnterpriseTeamMember
 ms.assetid: 706a7f8b-b545-7398-7c09-f29f6b8d225d
+ms.date: 06/08/2017
 ---
 
 

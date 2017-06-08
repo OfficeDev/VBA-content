@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DisplayAlerts
 ms.assetid: 23d35e76-d5be-c1ed-4312-b6c220413882
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SequenceCheck
 ms.assetid: c2279189-a0ab-15bb-5c8d-00f13075b59a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Reset
 ms.assetid: 4e06c982-7b2b-03b2-b5c7-46370cb60044
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkControl.ControlProperty
 ms.assetid: 6bb723ae-5e4e-3b49-71ba-f56c15a24111
+ms.date: 06/08/2017
 ---
 
 

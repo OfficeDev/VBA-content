@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.PreferredWidthType
 ms.assetid: 92954057-5ecd-3d43-c547-e1e1a6c83904
+ms.date: 06/08/2017
 ---
 
 

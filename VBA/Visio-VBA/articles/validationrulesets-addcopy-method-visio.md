@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ValidationRuleSets.AddCopy
 ms.assetid: a9510a97-7a85-3e68-6493-2a43840ef934
+ms.date: 06/08/2017
 ---
 
 

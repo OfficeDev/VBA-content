@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.OutlineShowSubTasks
 ms.assetid: 39c74262-ea6d-2599-5f57-4c259186e303
+ms.date: 06/08/2017
 ---
 
 

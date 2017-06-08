@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.UIObject.DisplayKeysInTooltips
 ms.assetid: 81cd5ba8-decb-0db7-391d-b79bfbdc4cb6
+ms.date: 06/08/2017
 ---
 
 

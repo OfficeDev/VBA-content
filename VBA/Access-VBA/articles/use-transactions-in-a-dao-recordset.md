@@ -2,6 +2,7 @@
 title: Use Transactions in a DAO Recordset
 ms.prod: ACCESS
 ms.assetid: 7d565770-37b6-5650-c998-9ff3b30d54cb
+ms.date: 06/08/2017
 ---
 
 

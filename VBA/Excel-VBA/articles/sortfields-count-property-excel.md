@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SortFields.Count
 ms.assetid: 33225de8-3af3-b64b-4873-0c3d29609ca9
+ms.date: 06/08/2017
 ---
 
 

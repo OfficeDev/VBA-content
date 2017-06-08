@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.HasDisplayUnitLabel
 ms.assetid: 0d5f02d5-241d-691b-4505-1eda392d6feb
+ms.date: 06/08/2017
 ---
 
 

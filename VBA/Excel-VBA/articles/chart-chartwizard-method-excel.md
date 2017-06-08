@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.ChartWizard
 ms.assetid: c47588d9-6969-d6bb-cbbc-4941198d78b4
+ms.date: 06/08/2017
 ---
 
 

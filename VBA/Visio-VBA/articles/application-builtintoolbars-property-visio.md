@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BuiltInToolbars
 ms.assetid: e0460fa5-23da-f452-f541-feabe8e3bffb
+ms.date: 06/08/2017
 ---
 
 

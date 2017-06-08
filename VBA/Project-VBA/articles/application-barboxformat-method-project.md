@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BarBoxFormat
 ms.assetid: 4c491952-533a-21a9-49fc-ccb7a3342370
+ms.date: 06/08/2017
 ---
 
 

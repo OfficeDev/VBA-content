@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.ListCount
 ms.assetid: 7e3a33ff-6c6d-7667-108f-fc2ca27ff01f
+ms.date: 06/08/2017
 ---
 
 

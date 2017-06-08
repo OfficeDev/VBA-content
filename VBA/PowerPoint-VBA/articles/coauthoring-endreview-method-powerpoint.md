@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Coauthoring.EndReview
 ms.assetid: 5ec8bff9-45c4-67f1-1f2c-fb7b592f995e
+ms.date: 06/08/2017
 ---
 
 

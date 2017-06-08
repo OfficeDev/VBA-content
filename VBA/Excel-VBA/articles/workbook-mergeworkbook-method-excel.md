@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.MergeWorkbook
 ms.assetid: 393790c6-3c19-7149-a999-b8712e7a6855
+ms.date: 06/08/2017
 ---
 
 

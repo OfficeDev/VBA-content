@@ -2,6 +2,7 @@
 title: XlCalcMemNumberFormatType Enumeration (Excel)
 ms.prod: EXCEL
 ms.assetid: 3c191dde-1e32-a21f-1a4e-a482950522ac
+ms.date: 06/08/2017
 ---
 
 

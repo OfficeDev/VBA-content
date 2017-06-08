@@ -2,6 +2,7 @@
 title: Pages.Item Method (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: c2d80659-9741-115b-a78e-553e2b42f8d2
+ms.date: 06/08/2017
 ---
 
 

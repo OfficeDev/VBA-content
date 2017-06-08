@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.AutoSize
 ms.assetid: bf434f76-5749-8163-f737-b3bd624092d5
+ms.date: 06/08/2017
 ---
 
 

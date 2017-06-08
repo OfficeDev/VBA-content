@@ -2,6 +2,7 @@
 title: Tasks Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: b7482b5a-7fac-531e-6793-610faca2f954
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.NewItemAlert
 ms.assetid: 01de8523-7617-c3df-39c6-395f85eda57f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.Forward
 ms.assetid: 3ae7a3bc-9cc1-82eb-eff5-ea4a99fe181f
+ms.date: 06/08/2017
 ---
 
 

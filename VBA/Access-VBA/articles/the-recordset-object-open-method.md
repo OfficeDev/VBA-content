@@ -2,6 +2,7 @@
 title: The Recordset Object Open Method
 ms.prod: ACCESS
 ms.assetid: 5df72473-725c-39f5-a2d0-71466fba70df
+ms.date: 06/08/2017
 ---
 
 

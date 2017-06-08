@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.SmartArtQuickStyles
 ms.assetid: 47cca923-fc88-6973-926c-2fa69c2f0f10
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.FormulaR1C1Local
 ms.assetid: be0e3270-43fd-e6c7-1209-11ed3204e563
+ms.date: 06/08/2017
 ---
 
 

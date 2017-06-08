@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.HasDataLabels
 ms.assetid: 2e5ffc2d-11ae-2ab3-a642-fc0349ff356b
+ms.date: 06/08/2017
 ---
 
 

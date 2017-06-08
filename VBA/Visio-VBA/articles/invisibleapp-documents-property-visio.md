@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.Documents
 ms.assetid: f4135db3-adb2-3e54-21d9-9e77a1c9af88
+ms.date: 06/08/2017
 ---
 
 

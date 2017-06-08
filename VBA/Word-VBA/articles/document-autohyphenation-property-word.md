@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.AutoHyphenation
 ms.assetid: 17e53212-3717-c8a1-7f39-464622a6cd65
+ms.date: 06/08/2017
 ---
 
 

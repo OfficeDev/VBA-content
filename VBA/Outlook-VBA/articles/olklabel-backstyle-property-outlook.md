@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkLabel.BackStyle
 ms.assetid: 29623b4a-841b-1a18-c858-366879ec76a8
+ms.date: 06/08/2017
 ---
 
 

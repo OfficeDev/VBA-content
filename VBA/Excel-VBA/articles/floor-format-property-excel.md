@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Floor.Format
 ms.assetid: 2ddc845b-786d-249e-2d58-fead2c9b53a2
+ms.date: 06/08/2017
 ---
 
 

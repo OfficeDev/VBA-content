@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DisplayUnitLabel.Creator
 ms.assetid: 91197a0c-026a-6069-8739-d5b7627092a4
+ms.date: 06/08/2017
 ---
 
 

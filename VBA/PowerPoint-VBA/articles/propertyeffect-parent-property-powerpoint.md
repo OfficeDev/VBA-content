@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PropertyEffect.Parent
 ms.assetid: a6fa3de5-1c8a-cb3a-c47e-b41510834516
+ms.date: 06/08/2017
 ---
 
 

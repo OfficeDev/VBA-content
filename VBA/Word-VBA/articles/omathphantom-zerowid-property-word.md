@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathPhantom.ZeroWid
 ms.assetid: 87635555-d293-4bab-cfda-17818be99920
+ms.date: 06/08/2017
 ---
 
 

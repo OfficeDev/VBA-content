@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.Contrast
 ms.assetid: f081b7c8-50cc-772b-f3b0-27c215cfebac
+ms.date: 06/08/2017
 ---
 
 

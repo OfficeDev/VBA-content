@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.SideWall
 ms.assetid: 79a6e074-acd1-c14a-02cc-21e549ebffd8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Cell.BorderRight
 ms.assetid: da741816-d61c-61db-cf33-5b181780b902
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.ShowCategoryName
 ms.assetid: 725deb0e-0b55-8c3d-7893-46d9c25e7b0d
+ms.date: 06/08/2017
 ---
 
 

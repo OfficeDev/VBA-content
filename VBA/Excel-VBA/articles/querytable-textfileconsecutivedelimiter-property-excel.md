@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileConsecutiveDelimiter
 ms.assetid: 2d86ba86-9601-9a2d-0cee-4648d77dab2c
+ms.date: 06/08/2017
 ---
 
 

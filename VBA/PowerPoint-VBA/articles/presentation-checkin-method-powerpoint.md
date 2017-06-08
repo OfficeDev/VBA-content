@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.CheckIn
 ms.assetid: 63621199-7cda-c464-527f-f55130753f08
+ms.date: 06/08/2017
 ---
 
 

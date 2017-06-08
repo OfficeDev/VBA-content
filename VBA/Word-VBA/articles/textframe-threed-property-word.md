@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.ThreeD
 ms.assetid: 1e72ff5c-8806-be67-87df-40ae71d13188
+ms.date: 06/08/2017
 ---
 
 

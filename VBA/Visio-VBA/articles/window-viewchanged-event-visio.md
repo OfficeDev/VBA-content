@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ViewChanged
 ms.assetid: a65a8e2c-23d5-c582-cd42-4d6f4801d541
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.InsertSymbol
 ms.assetid: 74642859-0d84-5de9-494a-a58b9d93de88
+ms.date: 06/08/2017
 ---
 
 

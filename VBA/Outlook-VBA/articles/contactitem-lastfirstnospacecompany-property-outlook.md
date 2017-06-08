@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.LastFirstNoSpaceCompany
 ms.assetid: 52e60375-954d-ff0d-d06e-9b0fe8823184
+ms.date: 06/08/2017
 ---
 
 

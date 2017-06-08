@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.DocumentCreated
 ms.assetid: f3640d72-cf6b-f08a-4d97-4f071a386358
+ms.date: 06/08/2017
 ---
 
 

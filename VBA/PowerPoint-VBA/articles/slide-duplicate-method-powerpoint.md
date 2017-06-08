@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.Duplicate
 ms.assetid: a098ddc4-9838-35f2-86c1-8d9e4ff40209
+ms.date: 06/08/2017
 ---
 
 

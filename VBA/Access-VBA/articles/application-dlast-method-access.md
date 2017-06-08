@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DLast
 ms.assetid: 0a04cbcc-0dbc-4cfc-e5a3-deb9b0f343be
+ms.date: 06/08/2017
 ---
 
 

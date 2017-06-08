@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.AxisBetweenCategories
 ms.assetid: 8e0e0e80-58b9-005f-c719-ad45b491f9a9
+ms.date: 06/08/2017
 ---
 
 

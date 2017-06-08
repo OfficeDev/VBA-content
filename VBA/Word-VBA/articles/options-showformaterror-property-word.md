@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ShowFormatError
 ms.assetid: 619ccdb4-020c-d6c7-48a8-2d2e56377577
+ms.date: 06/08/2017
 ---
 
 

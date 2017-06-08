@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.ExportXML
 ms.assetid: 47627677-d311-c2e1-7532-e8a8a9beef29
+ms.date: 06/08/2017
 ---
 
 

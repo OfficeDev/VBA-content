@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Shrink
 ms.assetid: c5626ef2-5351-ab49-bf86-690587daed1f
+ms.date: 06/08/2017
 ---
 
 

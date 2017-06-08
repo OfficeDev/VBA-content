@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.PreviousSelections
 ms.assetid: 967ba122-700c-dca5-1b95-aeaf59e9f19c
+ms.date: 06/08/2017
 ---
 
 

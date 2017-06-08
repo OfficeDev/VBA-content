@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.DefaultOmitReturnAddress
 ms.assetid: d1ef3e8d-4410-61b4-0631-6d458dcb14b8
+ms.date: 06/08/2017
 ---
 
 

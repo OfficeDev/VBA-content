@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Gridlines.Creator
 ms.assetid: 8f0ee740-a636-1c62-21e5-f858d21f2420
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Legend.Shadow
 ms.assetid: c5e7a1f8-7888-7b08-59c8-af9d7da45b19
+ms.date: 06/08/2017
 ---
 
 

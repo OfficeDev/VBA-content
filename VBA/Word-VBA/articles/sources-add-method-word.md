@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sources.Add
 ms.assetid: 638d00ba-ce25-bca7-5c4c-d63f28fd13ac
+ms.date: 06/08/2017
 ---
 
 

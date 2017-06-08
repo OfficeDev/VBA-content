@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarModule.NavigationGroups
 ms.assetid: 2f19eceb-24e6-a55c-7013-c840bd0c9fbb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeyBinding.Rebind
 ms.assetid: edc938ff-5ee5-3134-5808-a861ef37a2da
+ms.date: 06/08/2017
 ---
 
 

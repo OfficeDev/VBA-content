@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.GetLinkedDataRecordsetIDs
 ms.assetid: 1ce55d6c-02ae-8d5d-f581-b368e830bcf5
+ms.date: 06/08/2017
 ---
 
 

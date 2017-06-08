@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Exists
 ms.assetid: 2892065c-f892-5337-c789-e1e5b556768b
+ms.date: 06/08/2017
 ---
 
 

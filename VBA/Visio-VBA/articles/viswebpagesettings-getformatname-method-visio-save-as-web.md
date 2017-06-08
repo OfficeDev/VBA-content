@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.GetFormatName
 ms.assetid: 5586e07a-8b05-8894-d877-45c27584d4e0
+ms.date: 06/08/2017
 ---
 
 

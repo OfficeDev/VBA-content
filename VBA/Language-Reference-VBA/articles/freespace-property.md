@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FreeSpace
 ms.assetid: 6bb743ca-d196-a5ab-2cff-3dd6ecff6e0b
+ms.date: 06/08/2017
 ---
 
 

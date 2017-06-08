@@ -2,6 +2,7 @@
 title: AddIns Object (Word)
 ms.prod: WORD
 ms.assetid: acf58e58-d3f6-23cf-677b-4780f7cbc24d
+ms.date: 06/08/2017
 ---
 
 

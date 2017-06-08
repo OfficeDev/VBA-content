@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.CombineCharacters
 ms.assetid: 4852ebb7-b6cc-0bed-d1db-8a2efe14fc17
+ms.date: 06/08/2017
 ---
 
 

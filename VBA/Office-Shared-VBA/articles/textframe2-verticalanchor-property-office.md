@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextFrame2.VerticalAnchor
 ms.assetid: b61506d6-05d9-84af-dd1c-3e7ebd2ea92b
+ms.date: 06/08/2017
 ---
 
 

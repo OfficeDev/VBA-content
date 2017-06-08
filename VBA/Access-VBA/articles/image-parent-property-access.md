@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Parent
 ms.assetid: f6fb685a-1934-a2f5-ce58-f2a9e46dc90b
+ms.date: 06/08/2017
 ---
 
 

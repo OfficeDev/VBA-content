@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.Left
 ms.assetid: d01f11d2-69e0-1415-6418-0682e40fc6b5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Zoom.PageColumns
 ms.assetid: b515af7b-c579-97aa-8278-8b2ad96f8602
+ms.date: 06/08/2017
 ---
 
 

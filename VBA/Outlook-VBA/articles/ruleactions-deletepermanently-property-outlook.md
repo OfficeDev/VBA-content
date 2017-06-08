@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.DeletePermanently
 ms.assetid: fbd19516-c599-b7e6-cdd3-0c182d32b216
+ms.date: 06/08/2017
 ---
 
 

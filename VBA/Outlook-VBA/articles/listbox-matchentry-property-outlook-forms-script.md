@@ -2,6 +2,7 @@
 title: ListBox.MatchEntry Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 8a4b99c5-2c22-a02a-e79b-6d1af40f7bfc
+ms.date: 06/08/2017
 ---
 
 

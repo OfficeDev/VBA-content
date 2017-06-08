@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Class
 ms.assetid: 8955081b-3868-ea81-f136-3948fc49f219
+ms.date: 06/08/2017
 ---
 
 

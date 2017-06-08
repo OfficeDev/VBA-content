@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.PlotColorIndex
 ms.assetid: 84d9a44b-7841-ca68-74e8-62537e534ed8
+ms.date: 06/08/2017
 ---
 
 

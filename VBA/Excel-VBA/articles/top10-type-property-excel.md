@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Top10.Type
 ms.assetid: 2a3bfd5e-cdc5-3d21-0a0f-57d30b86689b
+ms.date: 06/08/2017
 ---
 
 

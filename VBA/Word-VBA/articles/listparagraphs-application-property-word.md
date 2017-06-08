@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListParagraphs.Application
 ms.assetid: e1f86027-5cd0-4dbd-fbb7-b51d7229ea7d
+ms.date: 06/08/2017
 ---
 
 

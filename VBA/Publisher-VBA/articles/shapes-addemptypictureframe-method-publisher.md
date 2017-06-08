@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddEmptyPictureFrame
 ms.assetid: e473dea8-6d94-e9e4-ddb6-27c1fc8930e8
+ms.date: 06/08/2017
 ---
 
 

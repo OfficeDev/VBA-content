@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.FormatConditions
 ms.assetid: 20e921d6-e800-fc75-c93a-981815d694ab
+ms.date: 06/08/2017
 ---
 
 

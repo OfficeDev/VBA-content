@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WorkbookNewChart
 ms.assetid: 8456e472-6ea5-a916-10d6-f12afefb58fc
+ms.date: 06/08/2017
 ---
 
 

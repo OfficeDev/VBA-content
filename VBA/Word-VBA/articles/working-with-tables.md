@@ -2,6 +2,7 @@
 title: Working with Tables
 ms.prod: WORD
 ms.assetid: cf0858b7-6b39-4c90-552e-edb695b5cda3
+ms.date: 06/08/2017
 ---
 
 

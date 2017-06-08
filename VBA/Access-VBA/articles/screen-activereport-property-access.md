@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Screen.ActiveReport
 ms.assetid: efcf6bfd-2749-5b5c-d7ca-a26168bfcb65
+ms.date: 06/08/2017
 ---
 
 

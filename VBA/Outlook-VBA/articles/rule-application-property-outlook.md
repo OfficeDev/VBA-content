@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Rule.Application
 ms.assetid: 8c21ce34-b206-315c-16ff-e27bfc606d85
+ms.date: 06/08/2017
 ---
 
 

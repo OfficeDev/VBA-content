@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.Quit
 ms.assetid: 0aaba635-6d6a-c4a3-fab3-03451659021b
+ms.date: 06/08/2017
 ---
 
 

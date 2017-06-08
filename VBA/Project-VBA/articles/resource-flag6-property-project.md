@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Flag6
 ms.assetid: f05f566c-d4d9-3121-715c-7c5b0632a687
+ms.date: 06/08/2017
 ---
 
 

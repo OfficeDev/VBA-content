@@ -2,6 +2,7 @@
 title: Tab Object Reference (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: e590b219-ed31-47d6-ba82-32ec40dc7667
+ms.date: 06/08/2017
 ---
 
 

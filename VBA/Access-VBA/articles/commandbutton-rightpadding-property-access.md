@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.RightPadding
 ms.assetid: f5a02077-2598-3b5c-58c9-fa77d5947cff
+ms.date: 06/08/2017
 ---
 
 

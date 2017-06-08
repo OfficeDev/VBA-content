@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DefaultEffortDriven
 ms.assetid: 2af7c41d-630f-1cda-7473-36eb49f400f4
+ms.date: 06/08/2017
 ---
 
 

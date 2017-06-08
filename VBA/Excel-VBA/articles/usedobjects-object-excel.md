@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UsedObjects
 ms.assetid: b94ad3d1-411f-acf6-19bb-8e6c4a484748
+ms.date: 06/08/2017
 ---
 
 

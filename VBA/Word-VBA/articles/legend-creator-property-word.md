@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Legend.Creator
 ms.assetid: 568358ae-42bd-6f49-e7c5-75e3e318aed8
+ms.date: 06/08/2017
 ---
 
 

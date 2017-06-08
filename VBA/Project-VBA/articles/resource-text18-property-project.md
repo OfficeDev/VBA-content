@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Text18
 ms.assetid: cc9d4ce5-36db-edfb-5fd6-fb727fc29301
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdPaperSize
 ms.assetid: 531f075d-9807-5b40-dd53-63dd223e9ae4
+ms.date: 06/08/2017
 ---
 
 

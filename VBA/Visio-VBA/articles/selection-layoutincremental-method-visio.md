@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.LayoutIncremental
 ms.assetid: cae92d61-7800-a836-7e57-6d238661b02a
+ms.date: 06/08/2017
 ---
 
 

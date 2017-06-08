@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.AfterUpdate
 ms.assetid: 556fc6d2-3936-5cc7-0c4f-03274f00cfc2
+ms.date: 06/08/2017
 ---
 
 

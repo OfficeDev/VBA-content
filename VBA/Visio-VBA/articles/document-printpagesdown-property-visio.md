@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PrintPagesDown
 ms.assetid: eacf72d7-f784-7a2b-0579-8af7991430ea
+ms.date: 06/08/2017
 ---
 
 

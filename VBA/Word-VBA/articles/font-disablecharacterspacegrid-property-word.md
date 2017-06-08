@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.DisableCharacterSpaceGrid
 ms.assetid: b608a477-03a2-c1e0-eaa0-841a12665865
+ms.date: 06/08/2017
 ---
 
 

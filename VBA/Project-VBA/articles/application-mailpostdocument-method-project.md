@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.MailPostDocument
 ms.assetid: 568d283a-3765-6371-fb2e-31624f15a0ed
+ms.date: 06/08/2017
 ---
 
 

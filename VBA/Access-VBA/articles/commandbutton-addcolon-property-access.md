@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.AddColon
 ms.assetid: cde177a8-b5a8-5063-d061-a81dfbfc2857
+ms.date: 06/08/2017
 ---
 
 

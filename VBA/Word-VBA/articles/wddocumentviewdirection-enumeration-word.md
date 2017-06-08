@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdDocumentViewDirection
 ms.assetid: 1c816fe5-5300-efd6-4dea-a344a0dacc45
+ms.date: 06/08/2017
 ---
 
 

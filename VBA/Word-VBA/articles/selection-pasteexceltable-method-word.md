@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.PasteExcelTable
 ms.assetid: bfa7f82c-e5c0-3919-f492-a71c9eabb919
+ms.date: 06/08/2017
 ---
 
 

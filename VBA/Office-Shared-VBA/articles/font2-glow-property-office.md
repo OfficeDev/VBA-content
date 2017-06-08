@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Glow
 ms.assetid: 8f9c33aa-70fd-1e9f-fe45-5f1b988b8ef7
+ms.date: 06/08/2017
 ---
 
 

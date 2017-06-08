@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Text29
 ms.assetid: 215e0008-1d4e-0b14-43d5-c71e9afe90ac
+ms.date: 06/08/2017
 ---
 
 

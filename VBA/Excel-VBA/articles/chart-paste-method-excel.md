@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Paste
 ms.assetid: e34d3d30-39f8-dbd4-1a39-d3ef9f84e0f4
+ms.date: 06/08/2017
 ---
 
 

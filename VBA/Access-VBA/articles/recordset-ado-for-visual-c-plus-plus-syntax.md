@@ -2,6 +2,7 @@
 title: Recordset (ADO for Visual C++ Syntax)
 ms.prod: ACCESS
 ms.assetid: 9abd27de-9794-eb50-9744-1c0dfc13c98b
+ms.date: 06/08/2017
 ---
 
 

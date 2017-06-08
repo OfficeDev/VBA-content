@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.NormalizedHeight
 ms.assetid: 89b1799f-c037-5a37-caad-3344292df6e8
+ms.date: 06/08/2017
 ---
 
 

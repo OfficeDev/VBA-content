@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbMailMergeDestination
 ms.assetid: 7e060743-941c-c899-1601-778e51d66bea
+ms.date: 06/08/2017
 ---
 
 

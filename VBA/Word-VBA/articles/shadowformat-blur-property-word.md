@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.Blur
 ms.assetid: a3b812e9-6908-37ac-829b-09576ef0be29
+ms.date: 06/08/2017
 ---
 
 

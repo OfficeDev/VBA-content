@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XPath
 ms.assetid: e13f2b3e-cef2-4e3c-f942-5347cf722e2d
+ms.date: 06/08/2017
 ---
 
 

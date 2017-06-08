@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListColumn.Creator
 ms.assetid: 9dad6409-cd84-e7ef-71e0-d003ca61cdda
+ms.date: 06/08/2017
 ---
 
 

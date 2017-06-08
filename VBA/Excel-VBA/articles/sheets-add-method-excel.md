@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Sheets.Add
 ms.assetid: db5de750-fd09-2b18-c52b-98d88eeb0ffc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.ReminderPlaySound
 ms.assetid: 449c0c37-b0f7-ff42-1ba4-6eabd990e4db
+ms.date: 06/08/2017
 ---
 
 

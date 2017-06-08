@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.RotatedChars
 ms.assetid: ae12e31d-d86b-73d2-ab92-a2d6bc8a2036
+ms.date: 06/08/2017
 ---
 
 

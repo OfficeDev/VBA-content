@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Attachment.Delete
 ms.assetid: 6c1b8048-2985-9fc1-dc67-79762bcafd58
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CustomFieldDelete
 ms.assetid: 8778f6ee-61bb-b4d0-8846-8c16717cd494
+ms.date: 06/08/2017
 ---
 
 

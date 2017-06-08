@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Resize
 ms.assetid: 4fc41631-adb4-9c5a-570f-e8ccaa2701eb
+ms.date: 06/08/2017
 ---
 
 

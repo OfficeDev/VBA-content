@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.Refresh
 ms.assetid: 7827a116-0ba4-9855-e0e9-550a85d36ed3
+ms.date: 06/08/2017
 ---
 
 

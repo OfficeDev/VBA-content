@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.LineSpacing
 ms.assetid: 3ac1c335-4b26-1a14-e4dc-bd5d56f44a2b
+ms.date: 06/08/2017
 ---
 
 

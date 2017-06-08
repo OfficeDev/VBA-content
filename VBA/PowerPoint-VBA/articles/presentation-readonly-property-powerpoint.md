@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.ReadOnly
 ms.assetid: d0d69c81-baa0-9b33-5ee3-d8e581508a88
+ms.date: 06/08/2017
 ---
 
 

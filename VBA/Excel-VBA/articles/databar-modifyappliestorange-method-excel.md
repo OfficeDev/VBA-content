@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.ModifyAppliesToRange
 ms.assetid: d1da8a48-3b62-c7ff-007b-f1629fa44ab7
+ms.date: 06/08/2017
 ---
 
 

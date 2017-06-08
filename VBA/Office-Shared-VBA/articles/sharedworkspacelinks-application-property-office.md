@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceLinks.Application
 ms.assetid: b0e7ca4f-2608-a668-a319-b7bd0f1d9fe4
+ms.date: 06/08/2017
 ---
 
 

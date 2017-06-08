@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ThemeFonts
 ms.assetid: 393865af-f008-d26c-5b82-9ae79766e511
+ms.date: 06/08/2017
 ---
 
 

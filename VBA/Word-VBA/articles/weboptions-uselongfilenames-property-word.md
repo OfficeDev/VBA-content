@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.UseLongFileNames
 ms.assetid: 25676029-e480-ac84-076a-95d3a41a800d
+ms.date: 06/08/2017
 ---
 
 

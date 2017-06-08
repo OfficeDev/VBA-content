@@ -2,6 +2,7 @@
 title: SharedWorkspaceMembers Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 4343650a-4bdf-4b37-95a7-f0ff17011974
+ms.date: 06/08/2017
 ---
 
 

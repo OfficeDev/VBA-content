@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathLimLow.Parent
 ms.assetid: 6bfcc292-354b-cc0e-7fb5-9b6218de2162
+ms.date: 06/08/2017
 ---
 
 

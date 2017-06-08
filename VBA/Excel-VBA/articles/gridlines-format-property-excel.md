@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Gridlines.Format
 ms.assetid: 55fc27a4-2a88-eaf8-acb3-cc4f2ad78cf7
+ms.date: 06/08/2017
 ---
 
 

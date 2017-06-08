@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Menus
 ms.assetid: 0c487176-1857-d496-8b2e-6a6aae668c6f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Ruler.Parent
 ms.assetid: 2b3e5ae2-f303-53c8-5e5d-4d702f6127d1
+ms.date: 06/08/2017
 ---
 
 

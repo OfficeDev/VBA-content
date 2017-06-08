@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Flip
 ms.assetid: 363c222b-f0fc-8d42-5b06-82ec607a00c7
+ms.date: 06/08/2017
 ---
 
 

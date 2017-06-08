@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rows.DistanceLeft
 ms.assetid: 2798e176-d175-6504-7eac-4248bdb0ceb3
+ms.date: 06/08/2017
 ---
 
 

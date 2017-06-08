@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Permission
 ms.assetid: 3f7633a8-bdab-b08d-0cf8-8df52c35865a
+ms.date: 06/08/2017
 ---
 
 

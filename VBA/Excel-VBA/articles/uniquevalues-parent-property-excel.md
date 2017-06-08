@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UniqueValues.Parent
 ms.assetid: df768e21-93c4-cd68-cb5a-6caa6dcd8699
+ms.date: 06/08/2017
 ---
 
 

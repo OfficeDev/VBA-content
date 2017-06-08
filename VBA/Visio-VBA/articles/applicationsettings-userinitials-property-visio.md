@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.UserInitials
 ms.assetid: cb134c38-52aa-53ef-cfc8-708d3b4a7887
+ms.date: 06/08/2017
 ---
 
 

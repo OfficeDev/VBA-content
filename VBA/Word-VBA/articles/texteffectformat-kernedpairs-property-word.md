@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.KernedPairs
 ms.assetid: 555d152e-09ff-b151-46c6-9a14ab872a37
+ms.date: 06/08/2017
 ---
 
 

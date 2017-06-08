@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertCells
 ms.assetid: 461085a3-ae98-8028-5ad2-d5e22038c6db
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.CompactRowIndent
 ms.assetid: 190667e8-419d-4e60-1015-9adddc4aa63d
+ms.date: 06/08/2017
 ---
 
 

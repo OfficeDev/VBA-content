@@ -2,6 +2,7 @@
 title: Specify Icons to be Displayed for a Form Region
 ms.prod: OUTLOOK
 ms.assetid: 9ffb9f46-a3b9-d90c-6771-9cd9f9b2e04a
+ms.date: 06/08/2017
 ---
 
 

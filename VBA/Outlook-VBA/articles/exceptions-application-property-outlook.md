@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Exceptions.Application
 ms.assetid: 2213bc38-45b7-376a-2bfd-c18a37f63239
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.DblClick
 ms.assetid: 3417bf12-f99a-3792-bdf2-3022cd8590bc
+ms.date: 06/08/2017
 ---
 
 

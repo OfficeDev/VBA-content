@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TimeLine.InteractiveSequences
 ms.assetid: 6dbd6b26-6715-e66c-747f-12f1a16416c8
+ms.date: 06/08/2017
 ---
 
 

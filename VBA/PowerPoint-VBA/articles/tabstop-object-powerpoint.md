@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TabStop
 ms.assetid: 73be0eee-d42e-fa84-416d-0ecd30c9c2c3
+ms.date: 06/08/2017
 ---
 
 

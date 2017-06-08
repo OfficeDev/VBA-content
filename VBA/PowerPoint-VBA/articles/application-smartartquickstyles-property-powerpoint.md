@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.SmartArtQuickStyles
 ms.assetid: 79fc3e91-0862-c294-dc0b-fe06d9c2c006
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ColorFormat.Creator
 ms.assetid: 5a16e61d-2469-6e28-851a-f508ac0ce488
+ms.date: 06/08/2017
 ---
 
 

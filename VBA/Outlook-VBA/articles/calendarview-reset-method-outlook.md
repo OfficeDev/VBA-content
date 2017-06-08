@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.Reset
 ms.assetid: 222b2537-4d70-6a12-97f2-5034a262655b
+ms.date: 06/08/2017
 ---
 
 

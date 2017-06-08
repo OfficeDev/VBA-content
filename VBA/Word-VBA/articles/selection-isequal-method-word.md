@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.IsEqual
 ms.assetid: 57ca55bc-17cf-054c-81dd-aa6d1e536cd8
+ms.date: 06/08/2017
 ---
 
 

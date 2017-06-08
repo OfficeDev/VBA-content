@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.MinorTickMark
 ms.assetid: 2486a649-7006-388f-1b52-379b44f3f80d
+ms.date: 06/08/2017
 ---
 
 

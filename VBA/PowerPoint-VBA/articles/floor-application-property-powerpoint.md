@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Floor.Application
 ms.assetid: 574a50b1-4a70-b5f7-b6aa-75df67512838
+ms.date: 06/08/2017
 ---
 
 

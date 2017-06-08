@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 8bad53c5-9d1c-367f-3f43-64691e193334
+ms.date: 06/08/2017
 ---
 
 

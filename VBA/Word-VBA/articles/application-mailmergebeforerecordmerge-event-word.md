@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.MailMergeBeforeRecordMerge
 ms.assetid: ce7b6c4f-b100-32eb-440c-c557f7dd7340
+ms.date: 06/08/2017
 ---
 
 

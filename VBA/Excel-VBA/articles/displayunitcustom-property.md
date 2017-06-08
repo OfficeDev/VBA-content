@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitCustom
 ms.assetid: 18e2e0ae-13a9-3e45-6c93-90946ad98ebc
+ms.date: 06/08/2017
 ---
 
 

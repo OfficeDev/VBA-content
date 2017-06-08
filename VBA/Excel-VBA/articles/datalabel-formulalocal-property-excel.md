@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabel.FormulaLocal
 ms.assetid: 57712204-895c-43c7-7182-56b1e72e7ce5
+ms.date: 06/08/2017
 ---
 
 

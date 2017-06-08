@@ -2,6 +2,7 @@
 title: The project file 'item1' contains invalid key 'item2'.
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d0b31666-f161-97ee-b349-d1902eccf26b
+ms.date: 06/08/2017
 ---
 
 

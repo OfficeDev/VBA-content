@@ -2,6 +2,7 @@
 title: TextBox.MousePointer Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: b3de9942-03b2-2d5d-ebdb-233e93c63e25
+ms.date: 06/08/2017
 ---
 
 

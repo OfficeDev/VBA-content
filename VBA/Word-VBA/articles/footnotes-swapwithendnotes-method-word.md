@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnotes.SwapWithEndnotes
 ms.assetid: ca92057d-e4f4-8931-83ad-73799fe830ea
+ms.date: 06/08/2017
 ---
 
 

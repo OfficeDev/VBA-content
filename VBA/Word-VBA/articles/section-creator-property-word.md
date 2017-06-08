@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Section.Creator
 ms.assetid: 203b4c7d-29e2-cde0-b155-acd3bd68f7ff
+ms.date: 06/08/2017
 ---
 
 

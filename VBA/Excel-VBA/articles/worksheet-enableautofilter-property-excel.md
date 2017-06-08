@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.EnableAutoFilter
 ms.assetid: bff7829a-30f7-3248-e694-ac48621aed31
+ms.date: 06/08/2017
 ---
 
 

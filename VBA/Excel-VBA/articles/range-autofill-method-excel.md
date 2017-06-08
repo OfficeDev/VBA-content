@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.AutoFill
 ms.assetid: 257f6608-9211-86f9-79de-e3c44df8f3fd
+ms.date: 06/08/2017
 ---
 
 

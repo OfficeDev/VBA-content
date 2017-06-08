@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BuiltInMenus
 ms.assetid: 0f76537c-5d9b-bcfa-c528-4644bd0375d5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.FileDialog
 ms.assetid: 0f0d5b6c-e478-6d15-7218-be04df978d6b
+ms.date: 06/08/2017
 ---
 
 

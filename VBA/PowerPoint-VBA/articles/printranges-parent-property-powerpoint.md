@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintRanges.Parent
 ms.assetid: 95bacc46-413d-2694-6ac2-7883609e26c7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.GetWorkflowTemplates
 ms.assetid: f39f2ca8-3ddc-7f45-9dea-c9c191e7cec5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Previous
 ms.assetid: 6ee986eb-9242-63f3-6885-1ad3730f106b
+ms.date: 06/08/2017
 ---
 
 

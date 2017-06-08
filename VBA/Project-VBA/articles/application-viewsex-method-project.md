@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewsEx
 ms.assetid: 42567343-54df-fbf2-64a3-79ba72d12866
+ms.date: 06/08/2017
 ---
 
 

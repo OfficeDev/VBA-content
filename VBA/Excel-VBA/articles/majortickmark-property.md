@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MajorTickMark
 ms.assetid: 26dfa842-1c7d-c2b6-b647-7c110b1d5626
+ms.date: 06/08/2017
 ---
 
 

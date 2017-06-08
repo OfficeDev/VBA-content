@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.ForeColor
 ms.assetid: 297cf879-6c7f-4bf5-ac4d-6cc145a9d8e5
+ms.date: 06/08/2017
 ---
 
 

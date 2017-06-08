@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.UserControl
 ms.assetid: e82213ac-bd7b-2669-3001-330f40cfdaaa
+ms.date: 06/08/2017
 ---
 
 

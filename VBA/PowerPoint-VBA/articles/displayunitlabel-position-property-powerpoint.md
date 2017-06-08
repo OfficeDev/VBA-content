@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DisplayUnitLabel.Position
 ms.assetid: edb4dbd3-9b6b-5cb9-2167-60aed00ad4ed
+ms.date: 06/08/2017
 ---
 
 

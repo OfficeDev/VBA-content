@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.FooterMargin
 ms.assetid: f35ea698-bfff-7c46-a4ee-8faf9cc4ac27
+ms.date: 06/08/2017
 ---
 
 

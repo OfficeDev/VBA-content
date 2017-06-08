@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.PointsToMillimeters
 ms.assetid: eaa9154d-1a9b-81e7-58bc-3f7bf873ab97
+ms.date: 06/08/2017
 ---
 
 

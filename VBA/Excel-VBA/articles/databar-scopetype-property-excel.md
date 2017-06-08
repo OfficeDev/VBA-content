@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.ScopeType
 ms.assetid: 48beed57-26f0-3846-65f0-3d8edd44a8a2
+ms.date: 06/08/2017
 ---
 
 

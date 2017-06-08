@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.GridlineShade
 ms.assetid: 6f59985a-9b2d-e563-f0ed-dfe938e27331
+ms.date: 06/08/2017
 ---
 
 

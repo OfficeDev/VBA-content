@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Templates.Application
 ms.assetid: 97087f2b-f560-6c03-c841-9e02767cc0a4
+ms.date: 06/08/2017
 ---
 
 

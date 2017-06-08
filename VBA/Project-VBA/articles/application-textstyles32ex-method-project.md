@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TextStyles32Ex
 ms.assetid: 8e1ed2bb-dac4-42d7-616b-a67984dcffa4
+ms.date: 06/08/2017
 ---
 
 

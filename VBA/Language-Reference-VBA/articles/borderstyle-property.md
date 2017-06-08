@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BorderStyle
 ms.assetid: 211ffd49-cf3a-8fff-1f00-58a97b833580
+ms.date: 06/08/2017
 ---
 
 

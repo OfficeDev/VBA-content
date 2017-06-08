@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLPrefixMappings.AddNamespace
 ms.assetid: a4a58a81-3fdc-f808-ac19-0eb27e944f29
+ms.date: 06/08/2017
 ---
 
 

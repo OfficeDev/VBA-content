@@ -2,6 +2,7 @@
 title: Font.Underline Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: d24a6e56-bcb7-7cf4-c31c-d8a2920fbd86
+ms.date: 06/08/2017
 ---
 
 

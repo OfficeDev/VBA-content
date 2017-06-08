@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.TextLineEnding
 ms.assetid: 6e1f2243-473c-0294-623e-c09588645ee3
+ms.date: 06/08/2017
 ---
 
 

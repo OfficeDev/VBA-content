@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.RegularWork
 ms.assetid: 1a8de95a-7865-16be-f75a-a995ea8d71f1
+ms.date: 06/08/2017
 ---
 
 

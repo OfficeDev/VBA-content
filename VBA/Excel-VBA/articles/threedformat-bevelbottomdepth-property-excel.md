@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ThreeDFormat.BevelBottomDepth
 ms.assetid: 8831903c-cb29-d04a-3f58-8c3d9745dbe2
+ms.date: 06/08/2017
 ---
 
 

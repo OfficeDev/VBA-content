@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Hyperlink.ScreenTip
 ms.assetid: 96ff1076-7563-8250-ea75-cee46094824e
+ms.date: 06/08/2017
 ---
 
 

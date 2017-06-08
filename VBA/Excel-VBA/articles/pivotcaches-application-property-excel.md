@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCaches.Application
 ms.assetid: ecb75841-40c1-10ea-5340-3af98c21f05f
+ms.date: 06/08/2017
 ---
 
 

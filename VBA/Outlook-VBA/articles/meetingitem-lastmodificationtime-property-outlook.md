@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.LastModificationTime
 ms.assetid: 175726cb-b1fa-83ab-8e14-684611fab02b
+ms.date: 06/08/2017
 ---
 
 

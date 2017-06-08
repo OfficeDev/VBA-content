@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.QueryCancelPageDelete
 ms.assetid: c6965236-1e78-736e-484f-b41563e1bdb1
+ms.date: 06/08/2017
 ---
 
 

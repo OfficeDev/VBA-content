@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.RecipientReassignmentProhibited
 ms.assetid: f7c7dfbe-d752-c83f-19aa-6eb2f93a85ae
+ms.date: 06/08/2017
 ---
 
 

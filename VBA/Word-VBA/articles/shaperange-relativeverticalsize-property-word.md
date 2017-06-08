@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.RelativeVerticalSize
 ms.assetid: d0842799-9597-fae2-dd54-dfc404c14f59
+ms.date: 06/08/2017
 ---
 
 

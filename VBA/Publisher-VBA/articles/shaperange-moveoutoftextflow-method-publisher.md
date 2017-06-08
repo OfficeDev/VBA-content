@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.MoveOutOfTextFlow
 ms.assetid: 36d6b22d-f041-6dd8-ce2c-9514ac6af5ae
+ms.date: 06/08/2017
 ---
 
 

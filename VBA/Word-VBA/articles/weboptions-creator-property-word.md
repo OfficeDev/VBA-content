@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WebOptions.Creator
 ms.assetid: ffdf67fd-df4e-7238-055a-b93fb349aa70
+ms.date: 06/08/2017
 ---
 
 

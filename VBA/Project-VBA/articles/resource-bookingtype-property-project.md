@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.BookingType
 ms.assetid: f90b1cca-f8a4-73a1-939f-7dea837fd8f5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.Move
 ms.assetid: 98cdc2e0-63b7-ed59-0fca-3d4db5f1cf4b
+ms.date: 06/08/2017
 ---
 
 

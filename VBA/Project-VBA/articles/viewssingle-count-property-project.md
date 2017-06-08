@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ViewsSingle.Count
 ms.assetid: 7f9e9564-b41d-e50a-a8d8-8c9254346351
+ms.date: 06/08/2017
 ---
 
 

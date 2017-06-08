@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.Parent
 ms.assetid: 15232ebb-c96c-c8c7-c81e-66804e8d444f
+ms.date: 06/08/2017
 ---
 
 

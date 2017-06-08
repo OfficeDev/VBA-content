@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.Undo
 ms.assetid: 9a239dd8-7e5f-f1b3-4c06-9a8430e9f381
+ms.date: 06/08/2017
 ---
 
 

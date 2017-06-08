@@ -2,6 +2,7 @@
 title: ViewCtl.ItemCount Property (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 32c96b64-3be2-ef0b-c175-86a6f539635e
+ms.date: 06/08/2017
 ---
 
 

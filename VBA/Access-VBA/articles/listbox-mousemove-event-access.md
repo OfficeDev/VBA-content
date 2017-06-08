@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.MouseMove
 ms.assetid: f54e529c-0b5e-73ea-286f-3430057bb86c
+ms.date: 06/08/2017
 ---
 
 

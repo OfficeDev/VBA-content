@@ -2,6 +2,7 @@
 title: ToggleButton.TextAlign Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: c1609440-9ca2-064a-9d77-dbcae3b73682
+ms.date: 06/08/2017
 ---
 
 

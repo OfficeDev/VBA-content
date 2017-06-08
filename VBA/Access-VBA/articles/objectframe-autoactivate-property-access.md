@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.AutoActivate
 ms.assetid: e6e0dfce-1bfe-707b-d7f0-45a216d4aa55
+ms.date: 06/08/2017
 ---
 
 

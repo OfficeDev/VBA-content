@@ -2,6 +2,7 @@
 title: ViewCtl.NewContact Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: d725afb9-12b3-5587-f568-adf2ba3e940d
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjDataTemplate
 ms.assetid: 0ef4e65d-54ef-b2e4-a21d-e0cfc875d29a
+ms.date: 06/08/2017
 ---
 
 

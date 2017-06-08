@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendKey.Delete
 ms.assetid: ded35d71-5296-4322-d79e-947ded7bfa1f
+ms.date: 06/08/2017
 ---
 
 

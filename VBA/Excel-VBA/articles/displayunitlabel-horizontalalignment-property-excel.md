@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.HorizontalAlignment
 ms.assetid: 00bac67e-10ca-b7a0-9cf6-e029e38355e5
+ms.date: 06/08/2017
 ---
 
 

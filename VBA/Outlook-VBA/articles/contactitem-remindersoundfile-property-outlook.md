@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.ReminderSoundFile
 ms.assetid: aafbdc5b-816f-3605-d265-5da349e9e791
+ms.date: 06/08/2017
 ---
 
 

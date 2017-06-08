@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.Count
 ms.assetid: 43052c93-461c-ca6a-3c8c-7142bd6d9ea1
+ms.date: 06/08/2017
 ---
 
 

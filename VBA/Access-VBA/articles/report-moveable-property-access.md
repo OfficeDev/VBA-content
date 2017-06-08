@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.Moveable
 ms.assetid: 77e682a5-7a0f-f55e-a469-2770bb2de844
+ms.date: 06/08/2017
 ---
 
 

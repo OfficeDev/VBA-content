@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.BackStyle
 ms.assetid: b83a0080-4eba-ba03-f61e-9a13b511292c
+ms.date: 06/08/2017
 ---
 
 

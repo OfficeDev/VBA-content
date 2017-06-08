@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetPivotTableUpdate
 ms.assetid: 0b37939a-28dd-ef8b-ea5e-fc3768f8979a
+ms.date: 06/08/2017
 ---
 
 

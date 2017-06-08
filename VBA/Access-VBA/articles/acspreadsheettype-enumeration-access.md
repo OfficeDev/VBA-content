@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcSpreadSheetType
 ms.assetid: 76a567c8-5f12-633f-5433-117135dd6ccd
+ms.date: 06/08/2017
 ---
 
 

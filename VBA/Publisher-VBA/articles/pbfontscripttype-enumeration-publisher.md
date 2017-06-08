@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbFontScriptType
 ms.assetid: e9bc4248-86ad-e6a8-1f50-d3ca4830118f
+ms.date: 06/08/2017
 ---
 
 

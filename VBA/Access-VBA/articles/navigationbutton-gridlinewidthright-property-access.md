@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.GridlineWidthRight
 ms.assetid: 56895703-7936-104c-574c-a1d223936e9a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzySpace
 ms.assetid: b32a93ac-620f-ba6a-a6e9-e38d72eda5cf
+ms.date: 06/08/2017
 ---
 
 

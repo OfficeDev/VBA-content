@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.ShowScreenTipsOnObjects
 ms.assetid: b5503200-31fd-72ac-de28-ace55a7123b3
+ms.date: 06/08/2017
 ---
 
 

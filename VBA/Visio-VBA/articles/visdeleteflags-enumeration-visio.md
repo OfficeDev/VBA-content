@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisDeleteFlags
 ms.assetid: 1f36b2c8-1c46-519f-b0f0-b548363891ab
+ms.date: 06/08/2017
 ---
 
 

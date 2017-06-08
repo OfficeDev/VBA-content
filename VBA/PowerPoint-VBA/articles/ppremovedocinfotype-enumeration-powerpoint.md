@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpRemoveDocInfoType
 ms.assetid: 76cb213a-34a4-8b5e-6e9d-9fc7528c7574
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find
 ms.assetid: da822788-cad5-992a-a835-18cc574cc324
+ms.date: 06/08/2017
 ---
 
 

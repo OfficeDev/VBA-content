@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.OpenUp
 ms.assetid: 660d5595-cf12-db3d-e4d2-0d4880d3df7a
+ms.date: 06/08/2017
 ---
 
 

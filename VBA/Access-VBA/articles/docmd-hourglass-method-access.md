@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.Hourglass
 ms.assetid: e032e879-6ce4-982d-08cb-f9622c000b11
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Activate
 ms.assetid: 7b878d1b-3059-93cb-389a-a2633f613a4d
+ms.date: 06/08/2017
 ---
 
 

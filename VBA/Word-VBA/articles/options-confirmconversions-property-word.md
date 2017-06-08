@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ConfirmConversions
 ms.assetid: 4bdea504-e8c7-193c-c671-1a8ec84d93ca
+ms.date: 06/08/2017
 ---
 
 

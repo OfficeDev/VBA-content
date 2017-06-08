@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.MouseUp
 ms.assetid: fa4c6576-30af-5b91-aa60-b554c324997d
+ms.date: 06/08/2017
 ---
 
 

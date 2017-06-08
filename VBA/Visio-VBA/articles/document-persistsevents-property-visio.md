@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PersistsEvents
 ms.assetid: eaa00c97-f2ae-32c6-fe72-32c866d2476c
+ms.date: 06/08/2017
 ---
 
 

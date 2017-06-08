@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PicturePosition
 ms.assetid: dee7f263-90a9-cdeb-981f-65dd5e118a18
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ActionSettings.Parent
 ms.assetid: d0c6c5db-5117-36af-5703-c79010903646
+ms.date: 06/08/2017
 ---
 
 

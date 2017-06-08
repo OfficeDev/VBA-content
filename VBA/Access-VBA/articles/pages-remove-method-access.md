@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Pages.Remove
 ms.assetid: 24dff544-d544-2be5-6506-66d3f1ab3a0f
+ms.date: 06/08/2017
 ---
 
 

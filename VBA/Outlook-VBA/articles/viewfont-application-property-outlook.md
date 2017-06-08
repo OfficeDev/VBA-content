@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFont.Application
 ms.assetid: e309e0cc-8f4b-a309-01fd-53fe8ea384cf
+ms.date: 06/08/2017
 ---
 
 

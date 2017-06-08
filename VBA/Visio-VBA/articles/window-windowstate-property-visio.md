@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.WindowState
 ms.assetid: 71578934-5d04-8e14-6d87-6871a31f9c4e
+ms.date: 06/08/2017
 ---
 
 

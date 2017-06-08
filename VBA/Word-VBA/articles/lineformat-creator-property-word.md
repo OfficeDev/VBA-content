@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.Creator
 ms.assetid: 6602d5e5-6747-020d-cbbc-45caae348910
+ms.date: 06/08/2017
 ---
 
 

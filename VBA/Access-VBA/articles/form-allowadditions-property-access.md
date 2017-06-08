@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.AllowAdditions
 ms.assetid: 8e440a96-7f9e-c009-5055-377c75999267
+ms.date: 06/08/2017
 ---
 
 

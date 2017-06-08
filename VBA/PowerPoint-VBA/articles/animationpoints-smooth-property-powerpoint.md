@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationPoints.Smooth
 ms.assetid: cf41b527-91cc-81ac-ebb8-8fdf40bee5df
+ms.date: 06/08/2017
 ---
 
 

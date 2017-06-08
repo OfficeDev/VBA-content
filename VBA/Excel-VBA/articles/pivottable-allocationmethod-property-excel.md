@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.AllocationMethod
 ms.assetid: 726393d4-4aba-556a-9278-976e7b9a1088
+ms.date: 06/08/2017
 ---
 
 

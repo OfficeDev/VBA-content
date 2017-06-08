@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlaceholderFormat.Parent
 ms.assetid: 40f4d254-a350-9ad0-5e10-e571d92aaa06
+ms.date: 06/08/2017
 ---
 
 

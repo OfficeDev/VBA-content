@@ -2,6 +2,7 @@
 title: ScopeFolders Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 75c77680-05c1-4293-9883-dbe96273d1a8
+ms.date: 06/08/2017
 ---
 
 

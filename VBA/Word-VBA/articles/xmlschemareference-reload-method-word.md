@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLSchemaReference.Reload
 ms.assetid: ad33f837-a56f-5609-284f-e5ddbb5ee757
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorkbookConnection.ODBCConnection
 ms.assetid: b5d388da-dcd0-9d9f-3dab-c311e42e46ba
+ms.date: 06/08/2017
 ---
 
 

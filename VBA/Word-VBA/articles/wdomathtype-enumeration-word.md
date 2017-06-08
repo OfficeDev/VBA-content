@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdOMathType
 ms.assetid: 6505bf20-814f-d70a-6360-83da6a3f0cfe
+ms.date: 06/08/2017
 ---
 
 

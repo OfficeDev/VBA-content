@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbCommandButtonType
 ms.assetid: 3255741c-8afd-7c81-7d47-f66ada991ca3
+ms.date: 06/08/2017
 ---
 
 

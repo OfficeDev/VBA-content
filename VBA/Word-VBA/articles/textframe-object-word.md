@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame
 ms.assetid: 46f7e410-80d9-9fe9-2224-488b623f8592
+ms.date: 06/08/2017
 ---
 
 

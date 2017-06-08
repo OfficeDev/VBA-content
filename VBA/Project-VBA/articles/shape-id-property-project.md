@@ -2,6 +2,7 @@
 title: Shape.ID Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 8b619251-1914-cbf0-6b50-e978f8ffe125
+ms.date: 06/08/2017
 ---
 
 

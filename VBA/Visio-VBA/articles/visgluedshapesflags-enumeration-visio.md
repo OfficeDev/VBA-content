@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisGluedShapesFlags
 ms.assetid: c89e043e-3b86-f885-584d-54d20dc5f337
+ms.date: 06/08/2017
 ---
 
 

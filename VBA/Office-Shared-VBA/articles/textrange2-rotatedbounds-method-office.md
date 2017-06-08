@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.RotatedBounds
 ms.assetid: e8e1b0dc-426f-c804-e91a-8cd5345186de
+ms.date: 06/08/2017
 ---
 
 

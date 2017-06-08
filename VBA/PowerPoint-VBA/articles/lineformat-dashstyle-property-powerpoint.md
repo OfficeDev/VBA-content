@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.DashStyle
 ms.assetid: 7fc898b4-1eea-21fc-52e5-0ec92bde527f
+ms.date: 06/08/2017
 ---
 
 

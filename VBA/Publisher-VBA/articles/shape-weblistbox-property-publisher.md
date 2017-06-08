@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.WebListBox
 ms.assetid: c100dfc7-6fbd-db48-4de9-4a9a49739a8f
+ms.date: 06/08/2017
 ---
 
 

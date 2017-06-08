@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.OnLostFocus
 ms.assetid: ce4b1917-c986-3059-69cb-830345c5f25a
+ms.date: 06/08/2017
 ---
 
 

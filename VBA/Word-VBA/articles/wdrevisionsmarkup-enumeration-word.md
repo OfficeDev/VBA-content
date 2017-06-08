@@ -2,6 +2,7 @@
 title: WdRevisionsMarkup Enumeration (Word)
 ms.prod: WORD
 ms.assetid: 034785ce-5dc5-1f99-3d4d-cd41fc486c31
+ms.date: 06/08/2017
 ---
 
 

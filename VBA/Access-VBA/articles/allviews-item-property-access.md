@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AllViews.Item
 ms.assetid: 5fcdb90e-c70c-1a1f-153b-7c50e43308e8
+ms.date: 06/08/2017
 ---
 
 

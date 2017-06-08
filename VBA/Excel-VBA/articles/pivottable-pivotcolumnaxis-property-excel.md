@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.PivotColumnAxis
 ms.assetid: 09eda15a-12f6-8a6b-3bee-656c93dcc1a5
+ms.date: 06/08/2017
 ---
 
 

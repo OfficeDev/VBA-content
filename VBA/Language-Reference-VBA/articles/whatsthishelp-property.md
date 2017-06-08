@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WhatsThisHelp
 ms.assetid: f36a9ddc-c0d3-c2d7-8cf8-03b49bd00679
+ms.date: 06/08/2017
 ---
 
 

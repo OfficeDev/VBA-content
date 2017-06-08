@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.Transparency
 ms.assetid: d2188be7-6720-46f6-9b09-33ea52507c7c
+ms.date: 06/08/2017
 ---
 
 

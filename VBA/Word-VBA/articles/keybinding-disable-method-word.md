@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeyBinding.Disable
 ms.assetid: 07463e08-1802-0f1b-7c3f-408f072386b5
+ms.date: 06/08/2017
 ---
 
 

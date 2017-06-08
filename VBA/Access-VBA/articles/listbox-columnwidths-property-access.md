@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ColumnWidths
 ms.assetid: 4ac2a001-8084-37aa-9f8e-ec3d373f7161
+ms.date: 06/08/2017
 ---
 
 

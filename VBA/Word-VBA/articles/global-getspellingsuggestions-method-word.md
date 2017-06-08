@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.GetSpellingSuggestions
 ms.assetid: 1539a24d-1548-d330-b90b-98d118b999c4
+ms.date: 06/08/2017
 ---
 
 

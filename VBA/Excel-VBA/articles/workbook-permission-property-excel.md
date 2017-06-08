@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Permission
 ms.assetid: ef04f56e-a04d-c3d9-fdda-611be7bf9d39
+ms.date: 06/08/2017
 ---
 
 

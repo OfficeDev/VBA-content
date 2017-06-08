@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatCondition.Application
 ms.assetid: 49f03bb5-b4cb-fbbb-0a70-25e4c1e6dc7c
+ms.date: 06/08/2017
 ---
 
 

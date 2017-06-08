@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.ChartType
 ms.assetid: 5a806b77-1efd-fd3a-132f-f6e3afd7315d
+ms.date: 06/08/2017
 ---
 
 

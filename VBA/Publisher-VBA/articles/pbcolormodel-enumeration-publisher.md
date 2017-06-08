@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbColorModel
 ms.assetid: e7c5d7ad-7a4b-8465-116b-8674386e7399
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BeforePageDelete
 ms.assetid: 658e3367-2f5b-e2d4-6c07-9b4463ee500a
+ms.date: 06/08/2017
 ---
 
 

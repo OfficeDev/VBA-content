@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.AutoFormat
 ms.assetid: c76452fa-e1e8-3787-726a-b1c9967d96c2
+ms.date: 06/08/2017
 ---
 
 

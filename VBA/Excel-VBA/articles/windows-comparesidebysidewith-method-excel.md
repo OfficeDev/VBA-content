@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Windows.CompareSideBySideWith
 ms.assetid: eb8dc63d-6071-40df-0591-1721a547c2e1
+ms.date: 06/08/2017
 ---
 
 

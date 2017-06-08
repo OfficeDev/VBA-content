@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Calendar.Delete
 ms.assetid: 8bc3e8cc-34f4-17be-d142-51290ee4bea3
+ms.date: 06/08/2017
 ---
 
 

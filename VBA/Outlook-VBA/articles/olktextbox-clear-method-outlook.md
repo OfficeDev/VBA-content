@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Clear
 ms.assetid: 22a53ab8-2707-2fbd-d419-ce47ca0d81e3
+ms.date: 06/08/2017
 ---
 
 

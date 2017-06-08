@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Columns.Application
 ms.assetid: c793ab07-16d2-8ab3-f09c-9c8e2235adad
+ms.date: 06/08/2017
 ---
 
 

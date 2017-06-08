@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Coauthoring
 ms.assetid: 789469b8-d813-8038-c3e3-f8014693df79
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.HasAxis
 ms.assetid: f2df9f16-980d-fd02-3e09-6d6903dbb6c6
+ms.date: 06/08/2017
 ---
 
 

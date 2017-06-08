@@ -2,6 +2,7 @@
 title: Comments Object (Word)
 ms.prod: WORD
 ms.assetid: e384b37a-50e3-a214-52a8-6fda2acc4991
+ms.date: 06/08/2017
 ---
 
 

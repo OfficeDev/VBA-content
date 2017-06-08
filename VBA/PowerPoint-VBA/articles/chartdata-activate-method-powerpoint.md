@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartData.Activate
 ms.assetid: 789651b8-334c-340a-e281-822f7129b76e
+ms.date: 06/08/2017
 ---
 
 

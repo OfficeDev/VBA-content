@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.FormDescription
 ms.assetid: 2dc87e7c-4abf-c7db-e51e-6761bdf78de0
+ms.date: 06/08/2017
 ---
 
 

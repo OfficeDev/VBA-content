@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.Panes
 ms.assetid: ba89f562-66f8-990d-e034-c996557b3687
+ms.date: 06/08/2017
 ---
 
 

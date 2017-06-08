@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ConnectorFormat.EndDisconnect
 ms.assetid: cf46820e-99fc-cdd2-999a-f30117b5616f
+ms.date: 06/08/2017
 ---
 
 

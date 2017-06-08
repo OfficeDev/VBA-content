@@ -2,6 +2,7 @@
 title: Find All the Sparklines on a Sheet
 ms.prod: EXCEL
 ms.assetid: 39739eaf-638d-41b1-80f2-c4513fc42317
+ms.date: 06/08/2017
 ---
 
 

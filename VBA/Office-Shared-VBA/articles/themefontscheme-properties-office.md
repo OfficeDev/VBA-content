@@ -2,6 +2,7 @@
 title: ThemeFontScheme Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: f0d29a2d-892b-474f-8992-b48dd42afdd8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Group
 ms.assetid: 79afc3c4-7350-2196-7a07-3b7c5629568a
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoExtrusionColorType
 ms.assetid: 6acf7f2b-3d7b-15e3-f468-7dcb20865dc1
+ms.date: 06/08/2017
 ---
 
 

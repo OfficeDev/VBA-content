@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlHorizontalLayout
 ms.assetid: 97d132c7-658a-28d4-b0e4-4352e5341987
+ms.date: 06/08/2017
 ---
 
 

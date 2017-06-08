@@ -2,6 +2,7 @@
 title: CommandBarControls Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b4db50d1-f693-d4a5-da6d-41c6f624bdd3
+ms.date: 06/08/2017
 ---
 
 

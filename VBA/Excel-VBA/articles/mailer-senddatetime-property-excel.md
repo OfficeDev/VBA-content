@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Mailer.SendDateTime
 ms.assetid: 862af4bc-cb15-f338-a573-ae720461e23b
+ms.date: 06/08/2017
 ---
 
 

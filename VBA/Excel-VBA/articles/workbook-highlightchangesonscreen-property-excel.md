@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.HighlightChangesOnScreen
 ms.assetid: 146f9a16-d32b-cc8f-fece-03864f0e13a2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Selection.ChildShapeRange
 ms.assetid: 8ef96e85-2f25-7b3a-4465-7e22fdbbaa9a
+ms.date: 06/08/2017
 ---
 
 

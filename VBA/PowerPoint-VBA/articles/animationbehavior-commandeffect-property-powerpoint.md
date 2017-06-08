@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.CommandEffect
 ms.assetid: e457389c-402f-43e2-fbda-fdc286378501
+ms.date: 06/08/2017
 ---
 
 

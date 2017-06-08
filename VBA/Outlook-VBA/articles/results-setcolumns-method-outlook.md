@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Results.SetColumns
 ms.assetid: 119ea78f-f61e-a95e-e9df-440499af962a
+ms.date: 06/08/2017
 ---
 
 

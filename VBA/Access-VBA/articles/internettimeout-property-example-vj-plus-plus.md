@@ -2,6 +2,7 @@
 title: InternetTimeout Property Example (VJ++)
 ms.prod: ACCESS
 ms.assetid: 7c09cd0b-b418-936f-766a-4cc14eea8e0b
+ms.date: 06/08/2017
 ---
 
 

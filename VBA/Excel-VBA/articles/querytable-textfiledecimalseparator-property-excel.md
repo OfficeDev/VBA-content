@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileDecimalSeparator
 ms.assetid: 2877a4fc-d5fa-6085-81d0-40397fa3c548
+ms.date: 06/08/2017
 ---
 
 

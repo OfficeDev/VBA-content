@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionaries.ActiveCustomDictionary
 ms.assetid: 2f6a3fa0-4e7d-a7f0-20ce-49688dab7191
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TabStop.Alignment
 ms.assetid: 59b35d9a-d53b-88cd-952b-6324d1ee7c01
+ms.date: 06/08/2017
 ---
 
 

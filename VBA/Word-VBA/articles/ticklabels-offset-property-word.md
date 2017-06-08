@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels.Offset
 ms.assetid: f2435b6d-09a6-4dd9-eb51-71d7a1bf18c7
+ms.date: 06/08/2017
 ---
 
 

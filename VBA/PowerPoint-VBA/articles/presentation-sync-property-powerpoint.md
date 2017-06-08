@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.Sync
 ms.assetid: aebb519d-ffb8-88a8-3771-5edb6b28792c
+ms.date: 06/08/2017
 ---
 
 

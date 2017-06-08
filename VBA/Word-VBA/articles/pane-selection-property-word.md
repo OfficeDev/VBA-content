@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.Selection
 ms.assetid: 07f22bde-96f4-19f2-b248-15033db8556b
+ms.date: 06/08/2017
 ---
 
 

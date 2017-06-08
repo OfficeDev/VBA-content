@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.InsertBefore
 ms.assetid: f75709bd-1239-1736-9cb0-0092dd720860
+ms.date: 06/08/2017
 ---
 
 

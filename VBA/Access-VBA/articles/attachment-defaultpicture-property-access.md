@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.DefaultPicture
 ms.assetid: 98bc9637-50c9-5831-8170-a32abe5915bc
+ms.date: 06/08/2017
 ---
 
 

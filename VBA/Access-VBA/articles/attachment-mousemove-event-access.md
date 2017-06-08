@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.MouseMove
 ms.assetid: 61ec0bdb-6e39-a4a7-92aa-45d543e35109
+ms.date: 06/08/2017
 ---
 
 

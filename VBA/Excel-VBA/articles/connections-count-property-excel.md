@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Connections.Count
 ms.assetid: ccd881e6-0869-0067-8d24-20e9cf5fc7ef
+ms.date: 06/08/2017
 ---
 
 

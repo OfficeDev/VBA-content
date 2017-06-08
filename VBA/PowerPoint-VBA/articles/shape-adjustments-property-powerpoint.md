@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Adjustments
 ms.assetid: 2bb29847-cbeb-891b-c1e2-18e8ea7e8122
+ms.date: 06/08/2017
 ---
 
 

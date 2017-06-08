@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Comments
 ms.assetid: 1597a002-afa4-743d-60a6-ffd398f2b599
+ms.date: 06/08/2017
 ---
 
 

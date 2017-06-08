@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.BackShade
 ms.assetid: 496f8604-0221-1815-3dbf-28418ce42c0f
+ms.date: 06/08/2017
 ---
 
 

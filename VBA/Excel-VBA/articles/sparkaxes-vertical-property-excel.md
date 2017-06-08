@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkAxes.Vertical
 ms.assetid: fba4852b-3477-aaa4-9b56-7bbe4abacd98
+ms.date: 06/08/2017
 ---
 
 

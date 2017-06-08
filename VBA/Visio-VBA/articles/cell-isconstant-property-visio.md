@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.IsConstant
 ms.assetid: ed17029d-9044-d6fe-aac0-81fd8ac74b56
+ms.date: 06/08/2017
 ---
 
 

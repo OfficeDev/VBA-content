@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.BackgroundStyle
 ms.assetid: cb2333b7-3ad3-fc86-ac17-635ffe9a6978
+ms.date: 06/08/2017
 ---
 
 

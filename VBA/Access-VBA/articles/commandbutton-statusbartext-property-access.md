@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.StatusBarText
 ms.assetid: 2dc18f10-0b6f-2ae5-21c6-52c6d21ff03b
+ms.date: 06/08/2017
 ---
 
 

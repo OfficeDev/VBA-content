@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DocumentBeforeClose
 ms.assetid: 91c89b29-3110-85d7-c141-d1add3bb57f1
+ms.date: 06/08/2017
 ---
 
 

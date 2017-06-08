@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.SpaceBetweenColumns
 ms.assetid: 22b81246-e158-ace7-dbca-9fc277584c6e
+ms.date: 06/08/2017
 ---
 
 

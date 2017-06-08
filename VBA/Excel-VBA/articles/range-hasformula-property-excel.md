@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.HasFormula
 ms.assetid: a18bea77-cee9-ae2d-7e97-90a4205e3b1f
+ms.date: 06/08/2017
 ---
 
 

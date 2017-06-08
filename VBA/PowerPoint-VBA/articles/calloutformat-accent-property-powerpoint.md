@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.Accent
 ms.assetid: 901ad22d-2690-06c2-7327-9bf463585aa5
+ms.date: 06/08/2017
 ---
 
 

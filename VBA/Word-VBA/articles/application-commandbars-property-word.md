@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.CommandBars
 ms.assetid: 1082697d-edc8-c619-40d1-466d2ebf3817
+ms.date: 06/08/2017
 ---
 
 

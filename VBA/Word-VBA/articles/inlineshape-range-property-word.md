@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.Range
 ms.assetid: f0ae56c2-ec15-995f-e244-44ada7814d54
+ms.date: 06/08/2017
 ---
 
 

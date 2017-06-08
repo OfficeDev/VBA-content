@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFormat.ThreeD
 ms.assetid: c14ac841-39fa-8afd-59f1-0d5fa8f57a09
+ms.date: 06/08/2017
 ---
 
 

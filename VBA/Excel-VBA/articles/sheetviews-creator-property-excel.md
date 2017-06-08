@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SheetViews.Creator
 ms.assetid: 21ab3bb7-6269-db13-d81d-eda3861aa846
+ms.date: 06/08/2017
 ---
 
 

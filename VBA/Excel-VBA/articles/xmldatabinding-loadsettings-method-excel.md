@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlDataBinding.LoadSettings
 ms.assetid: 218026ec-829b-048d-2429-6983ecfc26fd
+ms.date: 06/08/2017
 ---
 
 

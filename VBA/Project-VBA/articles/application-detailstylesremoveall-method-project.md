@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DetailStylesRemoveAll
 ms.assetid: 71e9a154-3c02-f289-a06b-b1bbe74f7f70
+ms.date: 06/08/2017
 ---
 
 

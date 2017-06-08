@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.DirectPrecedents
 ms.assetid: d7eebe51-3e4c-e902-e6a5-1617bd21ef4e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Validation.InCellDropdown
 ms.assetid: 019cf85b-831f-38f0-ea69-a30066acf30e
+ms.date: 06/08/2017
 ---
 
 

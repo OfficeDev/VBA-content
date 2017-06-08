@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.RemoveFromSelection
 ms.assetid: f31bc78f-500e-2f73-ea14-8d5f19cd44e9
+ms.date: 06/08/2017
 ---
 
 

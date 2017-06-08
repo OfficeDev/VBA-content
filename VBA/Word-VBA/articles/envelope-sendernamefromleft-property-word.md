@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.SenderNamefromLeft
 ms.assetid: 3cd5009a-d500-3346-ffea-957f905d3929
+ms.date: 06/08/2017
 ---
 
 

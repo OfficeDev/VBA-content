@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Styles.StyleAdded
 ms.assetid: c5bee31d-1b73-dd43-c44a-094004abd2ea
+ms.date: 06/08/2017
 ---
 
 

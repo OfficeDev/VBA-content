@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.MoveUp
 ms.assetid: 46993371-c916-06b5-a644-960f8a283536
+ms.date: 06/08/2017
 ---
 
 

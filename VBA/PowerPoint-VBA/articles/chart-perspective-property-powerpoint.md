@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Perspective
 ms.assetid: 0ac63aba-4182-c8dc-d51b-a75539025865
+ms.date: 06/08/2017
 ---
 
 

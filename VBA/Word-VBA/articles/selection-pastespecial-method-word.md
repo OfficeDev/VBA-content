@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.PasteSpecial
 ms.assetid: 186ddf42-f8ab-e334-ccfe-245b2cc82224
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrect.Parent
 ms.assetid: 83a32017-b494-f096-0060-8b0c3725b51a
+ms.date: 06/08/2017
 ---
 
 

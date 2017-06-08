@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlSummaryColumn
 ms.assetid: 3aee8e56-4c9a-e972-88e5-7f8252877fcc
+ms.date: 06/08/2017
 ---
 
 

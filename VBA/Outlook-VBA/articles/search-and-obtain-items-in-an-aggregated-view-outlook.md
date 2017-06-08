@@ -2,6 +2,7 @@
 title: Search and Obtain Items in an Aggregated View (Outlook)
 ms.prod: OUTLOOK
 ms.assetid: bd62f7b8-f110-ee0a-5930-877f14353a84
+ms.date: 06/08/2017
 ---
 
 

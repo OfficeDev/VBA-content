@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DefaultTabStop
 ms.assetid: 55c7a9e4-0a25-cd32-36b0-fc9431b1d110
+ms.date: 06/08/2017
 ---
 
 

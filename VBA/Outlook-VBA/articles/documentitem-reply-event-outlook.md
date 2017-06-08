@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Reply
 ms.assetid: 2a35c8d0-5d84-35cf-3ee2-4bbbf053428e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.EmbedTrueTypeFonts
 ms.assetid: ac8fb6a1-584a-2ddb-4216-53e30473ff65
+ms.date: 06/08/2017
 ---
 
 

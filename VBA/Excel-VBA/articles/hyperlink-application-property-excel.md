@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Hyperlink.Application
 ms.assetid: 14b44cb6-712b-23a0-c215-ef624b83d38b
+ms.date: 06/08/2017
 ---
 
 

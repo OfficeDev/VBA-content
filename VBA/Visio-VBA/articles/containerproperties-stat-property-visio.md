@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.Stat
 ms.assetid: 706df3c5-edf6-720c-e411-5445224d2e26
+ms.date: 06/08/2017
 ---
 
 

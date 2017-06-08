@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.HeightType
 ms.assetid: 4d83e41c-d33c-a5b8-853c-e7581170ba4b
+ms.date: 06/08/2017
 ---
 
 

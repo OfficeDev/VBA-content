@@ -2,6 +2,7 @@
 title: Customize the Office Fluent Ribbon by Using an Open XML Formats File
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 562d79a2-c1eb-126a-1567-ddd0253f5972
+ms.date: 06/08/2017
 ---
 
 

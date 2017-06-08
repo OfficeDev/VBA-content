@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjBarSize
 ms.assetid: 683c9505-2d2a-0239-d416-8918b587f70e
+ms.date: 06/08/2017
 ---
 
 

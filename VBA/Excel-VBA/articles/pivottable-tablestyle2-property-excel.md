@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.TableStyle2
 ms.assetid: d2d79fc6-2ead-91a9-f304-92248584f4b2
+ms.date: 06/08/2017
 ---
 
 

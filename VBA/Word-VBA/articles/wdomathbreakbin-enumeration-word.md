@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdOMathBreakBin
 ms.assetid: cd578a4e-6c71-3400-0631-f2b555d4b693
+ms.date: 06/08/2017
 ---
 
 

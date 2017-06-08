@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadingStyles.Creator
 ms.assetid: 2faa2928-740a-2ecb-326b-241a82bb973e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.ItalicBi
 ms.assetid: 56b1a7cb-2e42-7ff7-d7b8-80f047fb3d4b
+ms.date: 06/08/2017
 ---
 
 

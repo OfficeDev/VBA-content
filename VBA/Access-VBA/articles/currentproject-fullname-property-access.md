@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CurrentProject.FullName
 ms.assetid: 43fa4260-4e70-c314-c02d-1328b7c1b2a2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.CalculateRowMajorOrder
 ms.assetid: 8636b550-a3f8-f6cd-baf8-b669354262af
+ms.date: 06/08/2017
 ---
 
 

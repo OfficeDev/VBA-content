@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Columns.Parent
 ms.assetid: fc245629-517e-3664-58cd-06c5c430e45c
+ms.date: 06/08/2017
 ---
 
 

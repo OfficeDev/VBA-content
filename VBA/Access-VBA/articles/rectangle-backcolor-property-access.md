@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.BackColor
 ms.assetid: c9825328-ad33-2edb-1381-51b61976ac2b
+ms.date: 06/08/2017
 ---
 
 

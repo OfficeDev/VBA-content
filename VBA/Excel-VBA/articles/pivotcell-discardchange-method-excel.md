@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCell.DiscardChange
 ms.assetid: 26bd8db6-05c9-791a-be69-2f141053c746
+ms.date: 06/08/2017
 ---
 
 

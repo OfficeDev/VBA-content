@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Bar3DGroup
 ms.assetid: abbf8004-862f-7d70-2ca7-83f278d32836
+ms.date: 06/08/2017
 ---
 
 

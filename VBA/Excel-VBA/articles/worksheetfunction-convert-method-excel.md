@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Convert
 ms.assetid: 3fb95208-6419-da1c-008d-dc00e836183e
+ms.date: 06/08/2017
 ---
 
 

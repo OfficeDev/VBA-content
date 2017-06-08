@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Comments
 ms.assetid: 1fe73a8e-7341-e85c-5a72-daadfd3b0b22
+ms.date: 06/08/2017
 ---
 
 

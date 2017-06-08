@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.GetInspector
 ms.assetid: 9ba8bdbf-1dd5-eaff-3889-33433e3cb3fa
+ms.date: 06/08/2017
 ---
 
 

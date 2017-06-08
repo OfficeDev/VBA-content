@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.GetDirectReports
 ms.assetid: 753201ad-8001-3185-7d68-fda15907099d
+ms.date: 06/08/2017
 ---
 
 

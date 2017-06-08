@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.NoAging
 ms.assetid: f2e1844f-638a-259e-4ed6-e814da9a1330
+ms.date: 06/08/2017
 ---
 
 

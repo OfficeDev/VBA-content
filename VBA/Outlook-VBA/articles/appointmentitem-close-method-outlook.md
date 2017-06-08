@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Close
 ms.assetid: 61072885-5319-5a00-c4f1-d412eb4d60cb
+ms.date: 06/08/2017
 ---
 
 

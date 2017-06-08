@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.YomiCompanyName
 ms.assetid: 23316fb2-4211-6b1e-4ead-dadcb35965dd
+ms.date: 06/08/2017
 ---
 
 

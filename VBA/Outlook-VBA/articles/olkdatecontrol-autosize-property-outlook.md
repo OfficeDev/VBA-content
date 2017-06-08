@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.AutoSize
 ms.assetid: fdade84d-fa98-868c-4c76-34030242dc83
+ms.date: 06/08/2017
 ---
 
 

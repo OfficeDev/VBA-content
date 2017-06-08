@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Footnotes.Add
 ms.assetid: 952a90b0-f550-820b-15e7-82bad3cc201f
+ms.date: 06/08/2017
 ---
 
 

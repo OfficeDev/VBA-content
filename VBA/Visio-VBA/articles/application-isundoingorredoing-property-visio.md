@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.IsUndoingOrRedoing
 ms.assetid: c398cff2-90df-7a7e-b810-fdda8cbfbe8a
+ms.date: 06/08/2017
 ---
 
 

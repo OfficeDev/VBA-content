@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtLayouts.Application
 ms.assetid: 884b8508-1860-f21f-a3f7-b236909b9efa
+ms.date: 06/08/2017
 ---
 
 

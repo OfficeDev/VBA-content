@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Control.Pages
 ms.assetid: fd4ea2c0-ea8c-51a0-a012-8ba5848d3516
+ms.date: 06/08/2017
 ---
 
 

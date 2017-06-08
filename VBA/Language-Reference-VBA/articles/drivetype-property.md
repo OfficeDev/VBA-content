@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DriveType
 ms.assetid: 398dbcdb-9b39-1694-cdd0-499bc0d34704
+ms.date: 06/08/2017
 ---
 
 

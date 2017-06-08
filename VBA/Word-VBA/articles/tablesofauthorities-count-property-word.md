@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TablesOfAuthorities.Count
 ms.assetid: c0690c2f-c33c-f4a5-f0b4-ddbd37fb8081
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.UseDefaultPrinter
 ms.assetid: a7edf38e-181b-3822-bdb4-fb74ec18d40a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AutoCorrect.ReplacementList
 ms.assetid: 10bc895b-cd97-26a7-8b9e-4ac9347ebfc1
+ms.date: 06/08/2017
 ---
 
 

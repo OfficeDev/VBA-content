@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.Caption
 ms.assetid: 71c317d3-f3b5-da32-1db8-0fb5bd4ba8f2
+ms.date: 06/08/2017
 ---
 
 

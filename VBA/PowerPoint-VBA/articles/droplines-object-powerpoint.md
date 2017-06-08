@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DropLines
 ms.assetid: b13b58c3-d00d-16d2-16ef-bcd3cae347c5
+ms.date: 06/08/2017
 ---
 
 

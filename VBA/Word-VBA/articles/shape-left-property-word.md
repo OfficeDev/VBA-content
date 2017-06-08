@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.Left
 ms.assetid: 9c14ebc2-70fa-027b-63f0-6e44e60f8eed
+ms.date: 06/08/2017
 ---
 
 

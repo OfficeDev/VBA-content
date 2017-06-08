@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeAfterRecordMerge
 ms.assetid: 550c3310-01ba-718f-4c1d-cbf3ce077d27
+ms.date: 06/08/2017
 ---
 
 

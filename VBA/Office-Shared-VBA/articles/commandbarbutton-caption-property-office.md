@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.Caption
 ms.assetid: 1147e08a-b9f4-3ea9-3a86-d13394aa1959
+ms.date: 06/08/2017
 ---
 
 

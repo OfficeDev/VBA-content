@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.IsField
 ms.assetid: 329441aa-61ce-177f-061e-a47624a622d2
+ms.date: 06/08/2017
 ---
 
 

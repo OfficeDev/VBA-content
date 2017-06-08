@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.ForeColor
 ms.assetid: 7480fe5f-f3d1-33ca-1714-bce6b90111b0
+ms.date: 06/08/2017
 ---
 
 

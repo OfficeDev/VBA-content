@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStops.After
 ms.assetid: 4c081809-dfd9-b379-0f7b-ec1ef39eacfc
+ms.date: 06/08/2017
 ---
 
 

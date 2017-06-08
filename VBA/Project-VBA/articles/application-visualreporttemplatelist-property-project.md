@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.VisualReportTemplateList
 ms.assetid: b756c00f-7f76-9697-711e-400762cc48c3
+ms.date: 06/08/2017
 ---
 
 

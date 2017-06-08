@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.View
 ms.assetid: 604ea4f4-8268-9939-cac3-2e082a2c4831
+ms.date: 06/08/2017
 ---
 
 

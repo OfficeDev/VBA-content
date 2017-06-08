@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.PrintSteps
 ms.assetid: b5474b85-0c1f-aa18-da9d-be7d778e9e16
+ms.date: 06/08/2017
 ---
 
 

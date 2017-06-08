@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Move
 ms.assetid: 147a42c1-4e1d-f814-e8a6-5a0d328cf79c
+ms.date: 06/08/2017
 ---
 
 

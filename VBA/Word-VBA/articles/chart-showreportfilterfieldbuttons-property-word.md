@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ShowReportFilterFieldButtons
 ms.assetid: 716bcdfb-0e94-85c3-1a3d-2da6a6867f36
+ms.date: 06/08/2017
 ---
 
 

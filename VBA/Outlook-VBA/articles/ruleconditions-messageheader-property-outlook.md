@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleConditions.MessageHeader
 ms.assetid: 311f8834-f12b-50db-1f0d-00d6ebed7e9d
+ms.date: 06/08/2017
 ---
 
 

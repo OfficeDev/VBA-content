@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjEarnedValueMethod
 ms.assetid: 00308f49-f4c9-b130-f5cd-e8d7f7ddeddd
+ms.date: 06/08/2017
 ---
 
 

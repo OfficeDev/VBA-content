@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.GetThemeNamesU
 ms.assetid: 7a7280ae-10c9-9bc7-c121-29791e4df557
+ms.date: 06/08/2017
 ---
 
 

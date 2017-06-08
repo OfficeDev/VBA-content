@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.ControlTipText
 ms.assetid: 6b2bf5d6-fa3d-149c-1fb7-178c8bf1cd9b
+ms.date: 06/08/2017
 ---
 
 

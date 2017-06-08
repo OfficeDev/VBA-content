@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.Shape
 ms.assetid: bb392e26-1409-0a03-1cb9-c3b7c362aa7f
+ms.date: 06/08/2017
 ---
 
 

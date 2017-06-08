@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DisplayScrollBars
 ms.assetid: 23b3957a-e4c1-b422-836a-074f84ff2f8e
+ms.date: 06/08/2017
 ---
 
 

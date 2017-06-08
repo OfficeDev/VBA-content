@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ResourceCount
 ms.assetid: 93a2cd6e-306d-28e6-fbc5-4ee9542b2fe6
+ms.date: 06/08/2017
 ---
 
 

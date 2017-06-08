@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.BubbleSizes
 ms.assetid: 4972506e-9a19-417d-0ef3-a259b68a7ed1
+ms.date: 06/08/2017
 ---
 
 

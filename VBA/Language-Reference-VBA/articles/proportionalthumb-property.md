@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ProportionalThumb
 ms.assetid: da2890ca-12b9-8d91-5e94-9c86492f0101
+ms.date: 06/08/2017
 ---
 
 

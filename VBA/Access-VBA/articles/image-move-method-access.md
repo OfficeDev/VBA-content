@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Move
 ms.assetid: feda7964-0d93-b3e2-36b1-5c68054cdff1
+ms.date: 06/08/2017
 ---
 
 

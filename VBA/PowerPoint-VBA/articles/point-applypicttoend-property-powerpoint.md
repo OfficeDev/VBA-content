@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Point.ApplyPictToEnd
 ms.assetid: 5b1a3168-9a77-55e0-9d9c-edd66fd338d2
+ms.date: 06/08/2017
 ---
 
 

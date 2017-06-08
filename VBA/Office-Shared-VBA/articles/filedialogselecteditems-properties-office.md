@@ -2,6 +2,7 @@
 title: FileDialogSelectedItems Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d40b1c1d-0d28-4ce5-babe-8770799c2d4a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.DashStyle
 ms.assetid: 1dd61d77-d7fc-cb8d-5d44-38aca7073a68
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.DownloadState
 ms.assetid: 7f9870f8-51b4-4d7b-92ce-76b9e15d9179
+ms.date: 06/08/2017
 ---
 
 

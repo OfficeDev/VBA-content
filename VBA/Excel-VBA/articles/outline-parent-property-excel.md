@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Outline.Parent
 ms.assetid: 9a42fb74-6508-27f2-f874-254b7c33b084
+ms.date: 06/08/2017
 ---
 
 

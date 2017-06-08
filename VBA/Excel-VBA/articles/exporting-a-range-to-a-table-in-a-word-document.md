@@ -2,6 +2,7 @@
 title: Exporting a Range to a Table in a Word Document
 ms.prod: EXCEL
 ms.assetid: 4a5cf15f-2e62-4909-a56a-80162b032a3f
+ms.date: 06/08/2017
 ---
 
 # Exporting a Range to a Table in a Word Document

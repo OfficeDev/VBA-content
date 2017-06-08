@@ -2,6 +2,7 @@
 title: Add or Remove Controls on a Form
 ms.prod: OUTLOOK
 ms.assetid: 179357f3-3e98-ad24-e916-63cf757f8c5b
+ms.date: 06/08/2017
 ---
 
 

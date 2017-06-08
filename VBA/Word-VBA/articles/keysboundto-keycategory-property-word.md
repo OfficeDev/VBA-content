@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeysBoundTo.KeyCategory
 ms.assetid: 9dc7b783-171b-fea8-0d6d-4b9872b31f6d
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjTextItem
 ms.assetid: 0ebefb9f-91f0-56c5-b7f8-a11fade79eb9
+ms.date: 06/08/2017
 ---
 
 

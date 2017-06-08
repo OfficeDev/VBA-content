@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcSplitFormPrinting
 ms.assetid: 9c674eed-2b8b-10fc-c270-b908c99fd474
+ms.date: 06/08/2017
 ---
 
 

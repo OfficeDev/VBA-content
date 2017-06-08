@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorBars.Border
 ms.assetid: 13fadbf3-92ce-23a3-f400-ae89203f3145
+ms.date: 06/08/2017
 ---
 
 

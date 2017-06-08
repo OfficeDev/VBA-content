@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.Parent
 ms.assetid: abfa1de2-dd9e-3a51-87c8-5d7ad9552add
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesLines.Format
 ms.assetid: 9e7f119c-15fb-de86-b2a8-353941933af9
+ms.date: 06/08/2017
 ---
 
 

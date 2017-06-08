@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Pane
 ms.assetid: 27862fd6-897d-893d-d5a8-b1e40b1b9d48
+ms.date: 06/08/2017
 ---
 
 

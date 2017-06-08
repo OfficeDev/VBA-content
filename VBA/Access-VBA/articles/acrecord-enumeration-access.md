@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcRecord
 ms.assetid: 39ece328-d461-9f4d-a3af-205ed3228929
+ms.date: 06/08/2017
 ---
 
 

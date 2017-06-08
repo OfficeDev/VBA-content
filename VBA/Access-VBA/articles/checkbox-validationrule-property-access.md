@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.ValidationRule
 ms.assetid: 4ebb1371-acd0-2227-49e9-ec646a0daaad
+ms.date: 06/08/2017
 ---
 
 

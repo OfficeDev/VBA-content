@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.BeforeQuery
 ms.assetid: 40e763fd-897a-a0b1-72a9-d73ec628e397
+ms.date: 06/08/2017
 ---
 
 

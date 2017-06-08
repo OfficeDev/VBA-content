@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Columns.Remove
 ms.assetid: f567879c-f37a-2b65-b4a5-832b6f3acdf8
+ms.date: 06/08/2017
 ---
 
 

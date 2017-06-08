@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SubForm.GridlineStyleRight
 ms.assetid: 765ef134-0431-68a3-3bef-eedaa2191cfc
+ms.date: 06/08/2017
 ---
 
 

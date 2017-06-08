@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IBlogExtensibility.GetUserBlogs
 ms.assetid: 00e76f3d-59f2-8580-6f7e-6df8fe51d345
+ms.date: 06/08/2017
 ---
 
 

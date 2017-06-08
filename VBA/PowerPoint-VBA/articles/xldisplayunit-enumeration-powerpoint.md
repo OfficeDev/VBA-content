@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlDisplayUnit
 ms.assetid: 21d841e6-95bd-ac4e-b998-11d5f7b26d69
+ms.date: 06/08/2017
 ---
 
 

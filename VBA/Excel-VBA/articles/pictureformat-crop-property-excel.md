@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PictureFormat.Crop
 ms.assetid: 229fc83c-488f-887e-5ccf-b900c61ed840
+ms.date: 06/08/2017
 ---
 
 

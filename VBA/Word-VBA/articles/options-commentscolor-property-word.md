@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.CommentsColor
 ms.assetid: 5c2861d6-7933-3e77-ba55-c7bfd174f44a
+ms.date: 06/08/2017
 ---
 
 

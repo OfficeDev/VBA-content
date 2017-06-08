@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DocumentLibraryVersion.Open
 ms.assetid: aa77a821-5fda-209b-a352-81aa9e4fb0d0
+ms.date: 06/08/2017
 ---
 
 

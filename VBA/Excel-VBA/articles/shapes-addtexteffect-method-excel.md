@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shapes.AddTextEffect
 ms.assetid: ace2bd71-455d-d187-7fb0-77eed879ff95
+ms.date: 06/08/2017
 ---
 
 

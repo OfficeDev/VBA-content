@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.BevelTopDepth
 ms.assetid: e3074175-1be2-93cc-dd30-892355b8aec4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Pmt
 ms.assetid: ef383e8e-7fca-2818-cdaa-d758f2e8536d
+ms.date: 06/08/2017
 ---
 
 

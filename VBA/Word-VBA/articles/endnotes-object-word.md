@@ -2,6 +2,7 @@
 title: Endnotes Object (Word)
 ms.prod: WORD
 ms.assetid: 32676579-dd41-e83d-a305-fcc2b7cb4f64
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.EmphasisMark
 ms.assetid: 18e541c3-09aa-690d-94fa-ace6133c5cc6
+ms.date: 06/08/2017
 ---
 
 

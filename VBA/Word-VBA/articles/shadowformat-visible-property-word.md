@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.Visible
 ms.assetid: 79e3af20-856c-5d38-2989-295237e46cc1
+ms.date: 06/08/2017
 ---
 
 

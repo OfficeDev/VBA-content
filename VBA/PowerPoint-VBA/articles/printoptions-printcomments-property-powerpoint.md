@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.PrintComments
 ms.assetid: 3c908a66-1db7-ef43-48a4-153f6095d041
+ms.date: 06/08/2017
 ---
 
 

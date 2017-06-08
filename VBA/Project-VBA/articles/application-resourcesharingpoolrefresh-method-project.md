@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ResourceSharingPoolRefresh
 ms.assetid: 8ebb9461-67b6-bfd1-771b-1c7d2d3b79df
+ms.date: 06/08/2017
 ---
 
 

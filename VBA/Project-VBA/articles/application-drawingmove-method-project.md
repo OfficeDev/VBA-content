@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DrawingMove
 ms.assetid: 0d6e2b43-a9ab-1e9d-ad89-afa01afddb50
+ms.date: 06/08/2017
 ---
 
 

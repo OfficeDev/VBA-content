@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.MasterAdded
 ms.assetid: d6374a9e-1c15-73b0-086c-5f511943aeec
+ms.date: 06/08/2017
 ---
 
 

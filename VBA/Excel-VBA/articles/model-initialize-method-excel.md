@@ -2,6 +2,7 @@
 title: Model.Initialize Method (Excel)
 ms.prod: EXCEL
 ms.assetid: fe85e378-26c6-e573-21c1-b8a3ccbe4d71
+ms.date: 06/08/2017
 ---
 
 

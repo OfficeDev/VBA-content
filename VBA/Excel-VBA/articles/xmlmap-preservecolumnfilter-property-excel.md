@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.PreserveColumnFilter
 ms.assetid: 7afb204c-7139-1d97-fa3f-0d563e12c891
+ms.date: 06/08/2017
 ---
 
 

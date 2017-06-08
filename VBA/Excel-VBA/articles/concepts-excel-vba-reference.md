@@ -2,6 +2,7 @@
 title: Concepts (Excel VBA reference)
 ms.prod: EXCEL
 ms.assetid: 4f67f1a1-e97c-422e-aeda-e1a71f06621d
+ms.date: 06/08/2017
 ---
 
 

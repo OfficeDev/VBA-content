@@ -2,6 +2,7 @@
 title: Display Specific Modules in the Navigation Pane
 ms.prod: OUTLOOK
 ms.assetid: 1a1017da-3047-fd58-fd92-ce0e750df7a6
+ms.date: 06/08/2017
 ---
 
 

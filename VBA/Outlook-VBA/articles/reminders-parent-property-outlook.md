@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.Parent
 ms.assetid: cb30d188-d412-60de-5b7c-be8ec30159c1
+ms.date: 06/08/2017
 ---
 
 

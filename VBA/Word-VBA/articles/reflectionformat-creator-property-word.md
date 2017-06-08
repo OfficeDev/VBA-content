@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ReflectionFormat.Creator
 ms.assetid: 3b6282d3-6ae4-e436-5f0b-fb1dff16c41d
+ms.date: 06/08/2017
 ---
 
 

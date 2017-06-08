@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.Drop
 ms.assetid: 015615a8-fe64-5b76-39ba-ef7ed62e6846
+ms.date: 06/08/2017
 ---
 
 

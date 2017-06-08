@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.QueryClose
 ms.assetid: 8a12c265-bbb8-ed72-8bde-7b9c3bdf86bd
+ms.date: 06/08/2017
 ---
 
 

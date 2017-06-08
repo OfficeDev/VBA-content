@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.Parent
 ms.assetid: 8739b1d2-eab0-373f-7bf4-7262eae4b758
+ms.date: 06/08/2017
 ---
 
 

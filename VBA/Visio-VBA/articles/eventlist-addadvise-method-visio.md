@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.EventList.AddAdvise
 ms.assetid: b58e086f-59d2-9e63-5df3-3001b58bb2c1
+ms.date: 06/08/2017
 ---
 
 

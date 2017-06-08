@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindows.Arrange
 ms.assetid: e816fc32-e26f-6a3a-8299-7db24588778f
+ms.date: 06/08/2017
 ---
 
 

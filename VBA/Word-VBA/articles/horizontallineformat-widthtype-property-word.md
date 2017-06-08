@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HorizontalLineFormat.WidthType
 ms.assetid: 41d2ecc7-625e-5a62-8f68-f2982e04c6db
+ms.date: 06/08/2017
 ---
 
 

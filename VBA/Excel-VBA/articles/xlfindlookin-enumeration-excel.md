@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlFindLookIn
 ms.assetid: 67cf7ea0-b287-9cdf-d0e8-e8b31ebf9315
+ms.date: 06/08/2017
 ---
 
 

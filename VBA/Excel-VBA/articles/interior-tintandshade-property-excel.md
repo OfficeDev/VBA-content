@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Interior.TintAndShade
 ms.assetid: 45b12e93-1a6d-b5a3-b31d-4b41d87f3f73
+ms.date: 06/08/2017
 ---
 
 

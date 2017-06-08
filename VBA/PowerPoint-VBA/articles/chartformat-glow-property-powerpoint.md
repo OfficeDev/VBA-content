@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFormat.Glow
 ms.assetid: eb622f92-c62f-9b33-6782-a6c85c973ba1
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.LookupTable.Item
 ms.assetid: d22476e1-404b-75ca-b2da-7fbd9797f4bf
+ms.date: 06/08/2017
 ---
 
 

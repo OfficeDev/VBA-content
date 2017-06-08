@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ProtectedViewWindow.Close
 ms.assetid: 3deaea3c-3c73-76c9-0ca1-ce1bb452c6c2
+ms.date: 06/08/2017
 ---
 
 

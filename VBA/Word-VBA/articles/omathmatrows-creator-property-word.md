@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMatRows.Creator
 ms.assetid: c1eaed03-63c3-7ddc-3dc4-3602203f328a
+ms.date: 06/08/2017
 ---
 
 

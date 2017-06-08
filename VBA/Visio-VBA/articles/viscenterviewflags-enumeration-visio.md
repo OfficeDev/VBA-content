@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisCenterViewFlags
 ms.assetid: 89dafefc-4bba-f1ca-63a4-9704f5131b42
+ms.date: 06/08/2017
 ---
 
 

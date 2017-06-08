@@ -2,6 +2,7 @@
 title: Label.BackColor Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 2795bda5-04ab-56e8-a5ad-2e18b75b6ce5
+ms.date: 06/08/2017
 ---
 
 

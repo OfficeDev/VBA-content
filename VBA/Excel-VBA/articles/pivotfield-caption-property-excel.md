@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.Caption
 ms.assetid: 7cd928bf-3f69-0950-5b51-9168192c349e
+ms.date: 06/08/2017
 ---
 
 

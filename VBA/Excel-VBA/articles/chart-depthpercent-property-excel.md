@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.DepthPercent
 ms.assetid: 3b53544f-8800-c1c9-6615-c601d213daee
+ms.date: 06/08/2017
 ---
 
 

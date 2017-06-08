@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.FirstCol
 ms.assetid: 34eb7612-f3df-3cbb-4a51-911bdcd065ab
+ms.date: 06/08/2017
 ---
 
 

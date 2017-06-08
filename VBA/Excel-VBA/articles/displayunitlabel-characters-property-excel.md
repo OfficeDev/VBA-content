@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.Characters
 ms.assetid: a136b4c9-be4a-9b17-20f6-c8b694202e9e
+ms.date: 06/08/2017
 ---
 
 

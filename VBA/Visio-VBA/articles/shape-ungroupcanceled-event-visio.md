@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.UngroupCanceled
 ms.assetid: aca15d4f-c623-471b-80b2-80f6afd2d5c7
+ms.date: 06/08/2017
 ---
 
 

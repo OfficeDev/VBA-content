@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.CheckOut
 ms.assetid: eda3b173-0874-47b6-e18d-a0036e6a31e5
+ms.date: 06/08/2017
 ---
 
 

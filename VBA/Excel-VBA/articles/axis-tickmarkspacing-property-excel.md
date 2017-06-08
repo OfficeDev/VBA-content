@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.TickMarkSpacing
 ms.assetid: 18a23a13-d610-3380-a387-e8f49132dad0
+ms.date: 06/08/2017
 ---
 
 

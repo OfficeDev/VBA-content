@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Bold
 ms.assetid: 224f4cc5-a495-062a-655b-828182cbe3de
+ms.date: 06/08/2017
 ---
 
 

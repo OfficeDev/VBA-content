@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaBookmark.Position
 ms.assetid: 00049167-6b96-f62f-2344-d4189e4c77de
+ms.date: 06/08/2017
 ---
 
 

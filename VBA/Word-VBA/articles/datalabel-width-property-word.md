@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.Width
 ms.assetid: 8ee7b9fa-1cf3-0fb4-4333-0d96cbdf6f37
+ms.date: 06/08/2017
 ---
 
 

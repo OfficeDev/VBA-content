@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.LineRuleAfter
 ms.assetid: fd206688-2217-303d-bb7e-fa3b00b0f188
+ms.date: 06/08/2017
 ---
 
 

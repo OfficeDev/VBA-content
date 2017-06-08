@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.StoryRanges
 ms.assetid: 6afc9e1a-950c-e1b0-15d5-73afeb72fc59
+ms.date: 06/08/2017
 ---
 
 

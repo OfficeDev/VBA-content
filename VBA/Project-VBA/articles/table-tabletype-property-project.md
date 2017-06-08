@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Table.TableType
 ms.assetid: 941b0bc0-e4f3-3eee-d54f-183cfbcdd7d9
+ms.date: 06/08/2017
 ---
 
 

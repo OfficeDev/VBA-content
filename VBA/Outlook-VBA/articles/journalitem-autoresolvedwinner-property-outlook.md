@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.AutoResolvedWinner
 ms.assetid: 9a0fa7a4-aeeb-c616-47cc-cc28dfdaa35c
+ms.date: 06/08/2017
 ---
 
 

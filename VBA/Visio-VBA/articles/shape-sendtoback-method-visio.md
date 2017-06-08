@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.SendToBack
 ms.assetid: faa9cab5-0b2f-8331-e0df-8b4f4be1e69f
+ms.date: 06/08/2017
 ---
 
 

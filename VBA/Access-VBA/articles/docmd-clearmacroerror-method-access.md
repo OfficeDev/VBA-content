@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.ClearMacroError
 ms.assetid: 2784bfc8-f61a-a461-e067-640a4244436d
+ms.date: 06/08/2017
 ---
 
 

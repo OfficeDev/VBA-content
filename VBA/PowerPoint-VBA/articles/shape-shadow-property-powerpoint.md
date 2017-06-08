@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Shadow
 ms.assetid: 832b8e62-4fc5-1f4b-74c7-cc0e63a12699
+ms.date: 06/08/2017
 ---
 
 

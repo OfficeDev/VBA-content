@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrectEntry.Delete
 ms.assetid: 70bb469a-cf7c-6741-cb8b-6e06e3dd8549
+ms.date: 06/08/2017
 ---
 
 

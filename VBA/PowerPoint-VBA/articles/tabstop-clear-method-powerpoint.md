@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TabStop.Clear
 ms.assetid: bf1bcae7-96a0-6d81-ff7d-806270d95695
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Floor.PictureType
 ms.assetid: 37644d6f-fbf8-ebfb-2d75-9142d9f6ee27
+ms.date: 06/08/2017
 ---
 
 

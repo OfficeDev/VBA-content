@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.Height
 ms.assetid: 51a38ab5-c631-6707-6db5-8cdbc8c5a97f
+ms.date: 06/08/2017
 ---
 
 

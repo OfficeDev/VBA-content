@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.SubscribeTo
 ms.assetid: 6120c474-f4a9-0dce-dae4-a8b39f3d3656
+ms.date: 06/08/2017
 ---
 
 

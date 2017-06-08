@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.Section
 ms.assetid: 0caab057-7495-e0af-6b3c-3e8c63c06f95
+ms.date: 06/08/2017
 ---
 
 

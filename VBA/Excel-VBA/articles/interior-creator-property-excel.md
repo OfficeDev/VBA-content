@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Interior.Creator
 ms.assetid: e1cc823c-b673-7598-cb6f-d7aa66b66798
+ms.date: 06/08/2017
 ---
 
 

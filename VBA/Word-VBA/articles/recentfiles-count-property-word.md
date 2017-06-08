@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.RecentFiles.Count
 ms.assetid: e57ad204-b4d1-16a4-c6ce-ddf5f1aeb443
+ms.date: 06/08/2017
 ---
 
 

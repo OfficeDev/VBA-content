@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.SmallScroll
 ms.assetid: 36801d40-0a24-69aa-7641-40f90132556b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Select
 ms.assetid: 9fcf0ba4-ee6e-ecca-7948-7542db03ee99
+ms.date: 06/08/2017
 ---
 
 

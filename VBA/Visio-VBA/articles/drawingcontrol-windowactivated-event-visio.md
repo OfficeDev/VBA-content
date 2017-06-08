@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.WindowActivated
 ms.assetid: c59c9754-b27a-8ff8-3100-97b6910aa597
+ms.date: 06/08/2017
 ---
 
 

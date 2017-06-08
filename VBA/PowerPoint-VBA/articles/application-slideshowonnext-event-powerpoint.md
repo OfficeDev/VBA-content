@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.SlideShowOnNext
 ms.assetid: de72c6d6-0794-ad1d-5b25-478caaafd099
+ms.date: 06/08/2017
 ---
 
 

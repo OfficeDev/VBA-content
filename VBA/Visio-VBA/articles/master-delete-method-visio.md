@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.Delete
 ms.assetid: 8f71e69e-7d7d-7732-738c-ad262b0367ae
+ms.date: 06/08/2017
 ---
 
 

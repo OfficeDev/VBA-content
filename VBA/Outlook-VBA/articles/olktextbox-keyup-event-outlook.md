@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.KeyUp
 ms.assetid: 713fb517-9a64-6919-ec8c-e24b9dc066d1
+ms.date: 06/08/2017
 ---
 
 

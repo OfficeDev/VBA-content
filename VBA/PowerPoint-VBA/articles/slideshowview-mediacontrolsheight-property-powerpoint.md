@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.MediaControlsHeight
 ms.assetid: 523732d6-6b6a-7658-a8f0-dbdeb9e3e68e
+ms.date: 06/08/2017
 ---
 
 

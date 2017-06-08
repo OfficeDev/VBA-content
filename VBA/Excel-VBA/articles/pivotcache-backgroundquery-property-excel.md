@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCache.BackgroundQuery
 ms.assetid: 91909d27-68ca-a870-5cd9-72019c65f060
+ms.date: 06/08/2017
 ---
 
 

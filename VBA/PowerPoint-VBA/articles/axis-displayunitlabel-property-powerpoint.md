@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.DisplayUnitLabel
 ms.assetid: 75b01ce4-8edd-bbaa-d0fb-2d36c96b4da6
+ms.date: 06/08/2017
 ---
 
 

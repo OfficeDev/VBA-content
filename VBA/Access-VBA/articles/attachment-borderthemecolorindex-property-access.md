@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.BorderThemeColorIndex
 ms.assetid: a1ee1ca4-74d4-5e8e-e2b7-fb44cd7f3617
+ms.date: 06/08/2017
 ---
 
 

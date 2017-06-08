@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IRibbonExtensibility.GetCustomUI
 ms.assetid: a0106415-999e-94da-379c-70fb7aa6119f
+ms.date: 06/08/2017
 ---
 
 

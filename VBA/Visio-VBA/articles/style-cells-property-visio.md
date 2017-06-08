@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.Cells
 ms.assetid: 44b1d1a0-4863-0642-407c-dab5061eff5e
+ms.date: 06/08/2017
 ---
 
 

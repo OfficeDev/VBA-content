@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.PrintGridlines
 ms.assetid: 9a92c157-046a-00b5-3813-a5c924ac42b9
+ms.date: 06/08/2017
 ---
 
 

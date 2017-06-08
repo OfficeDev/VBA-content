@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Delete
 ms.assetid: 0960d9e1-b091-ea8c-0724-e10a68d8821a
+ms.date: 06/08/2017
 ---
 
 

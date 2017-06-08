@@ -2,6 +2,7 @@
 title: Compile <project> Command (Debug Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 8128a6cb-7a23-2c9a-00e4-43964003dfe7
+ms.date: 06/08/2017
 ---
 
 

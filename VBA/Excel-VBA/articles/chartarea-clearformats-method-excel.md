@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.ClearFormats
 ms.assetid: 0af0bba7-6fb8-d221-7b1f-ba7c40ae1687
+ms.date: 06/08/2017
 ---
 
 

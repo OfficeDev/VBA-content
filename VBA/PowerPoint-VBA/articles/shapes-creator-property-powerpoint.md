@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.Creator
 ms.assetid: 495a5a34-efdb-784e-8748-7bc6005e7ffd
+ms.date: 06/08/2017
 ---
 
 

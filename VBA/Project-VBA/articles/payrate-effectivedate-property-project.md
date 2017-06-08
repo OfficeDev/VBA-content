@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PayRate.EffectiveDate
 ms.assetid: 3e247def-0f83-3a4f-5408-454a73f12b4d
+ms.date: 06/08/2017
 ---
 
 

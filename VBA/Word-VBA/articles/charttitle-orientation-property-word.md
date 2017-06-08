@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartTitle.Orientation
 ms.assetid: 85c82225-9036-d993-bd76-e44199b859be
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: SignatureSetup Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: aa9c3559-a181-45df-8b90-eade0b9392c1
+ms.date: 06/08/2017
 ---
 
 

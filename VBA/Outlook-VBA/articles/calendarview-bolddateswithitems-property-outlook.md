@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.BoldDatesWithItems
 ms.assetid: 4928abe0-c650-f09e-796c-5d931a1c6aae
+ms.date: 06/08/2017
 ---
 
 

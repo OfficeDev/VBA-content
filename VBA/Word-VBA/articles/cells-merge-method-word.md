@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.Merge
 ms.assetid: 064d405e-00a1-205a-184c-4f46ab463a63
+ms.date: 06/08/2017
 ---
 
 

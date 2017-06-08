@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Save
 ms.assetid: 177980e8-96cc-a72e-ede3-7aad3a98cf68
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ListBox.Locked Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 46e88f84-b57a-d454-3e0a-6ee8c5dacc73
+ms.date: 06/08/2017
 ---
 
 

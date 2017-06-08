@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.YomiLastName
 ms.assetid: 079ba8e7-4a3a-2f8c-fa17-0db5ab8f47c2
+ms.date: 06/08/2017
 ---
 
 

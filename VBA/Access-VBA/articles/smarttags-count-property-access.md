@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SmartTags.Count
 ms.assetid: 44841f66-5e6e-9b68-d865-f1245388d907
+ms.date: 06/08/2017
 ---
 
 

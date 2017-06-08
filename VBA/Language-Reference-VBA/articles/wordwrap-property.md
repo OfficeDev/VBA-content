@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WordWrap
 ms.assetid: c68f3da4-d930-62cc-b9fb-5f2de42d413f
+ms.date: 06/08/2017
 ---
 
 

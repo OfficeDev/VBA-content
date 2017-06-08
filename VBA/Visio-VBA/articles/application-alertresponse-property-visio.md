@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AlertResponse
 ms.assetid: aa7a14b1-b2df-daa6-7298-66880a573f5c
+ms.date: 06/08/2017
 ---
 
 

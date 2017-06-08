@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.RelyOnCSS
 ms.assetid: e5a9cca1-36e0-effb-7183-23abfd4e2a64
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SeriesCollection.Paste
 ms.assetid: 460644ba-e682-d4dd-4832-f9f18fb6389b
+ms.date: 06/08/2017
 ---
 
 

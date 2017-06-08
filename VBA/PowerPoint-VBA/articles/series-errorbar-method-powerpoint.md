@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.ErrorBar
 ms.assetid: a25795b8-a954-0803-bea6-6c650190ad3f
+ms.date: 06/08/2017
 ---
 
 

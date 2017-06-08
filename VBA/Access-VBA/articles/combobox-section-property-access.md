@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.Section
 ms.assetid: fbf2993a-5360-10dd-1edd-2ab7ac2f567c
+ms.date: 06/08/2017
 ---
 
 

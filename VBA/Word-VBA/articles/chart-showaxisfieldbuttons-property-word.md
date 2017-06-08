@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ShowAxisFieldButtons
 ms.assetid: 08ee0734-d5b9-b57a-fa5f-ffa1c5ded498
+ms.date: 06/08/2017
 ---
 
 

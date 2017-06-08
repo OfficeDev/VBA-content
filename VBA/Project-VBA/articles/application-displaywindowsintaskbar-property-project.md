@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DisplayWindowsInTaskbar
 ms.assetid: f4b352f4-4b7b-a438-c29b-bc2f5b68aeb0
+ms.date: 06/08/2017
 ---
 
 

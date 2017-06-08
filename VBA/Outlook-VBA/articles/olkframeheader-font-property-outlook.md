@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkFrameHeader.Font
 ms.assetid: 1d11e2b4-6c8c-c79c-dd52-7ed5024cb0bd
+ms.date: 06/08/2017
 ---
 
 

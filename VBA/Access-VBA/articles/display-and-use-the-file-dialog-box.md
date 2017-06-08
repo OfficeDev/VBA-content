@@ -2,6 +2,7 @@
 title: Display and Use the File Dialog Box
 ms.prod: ACCESS
 ms.assetid: e4690a8b-f976-3be9-70b0-2d8c2377a19a
+ms.date: 06/08/2017
 ---
 
 

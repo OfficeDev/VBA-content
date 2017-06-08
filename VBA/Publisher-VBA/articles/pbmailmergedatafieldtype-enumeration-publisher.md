@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbMailMergeDataFieldType
 ms.assetid: eafdbc17-fb9e-aa8b-248e-4ed4157b41c9
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Font
 ms.assetid: 234c8843-3c0d-a425-0173-02c3910ba400
+ms.date: 06/08/2017
 ---
 
 

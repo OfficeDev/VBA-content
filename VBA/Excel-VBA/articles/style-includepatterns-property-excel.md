@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Style.IncludePatterns
 ms.assetid: edb7e87f-20d2-2bea-b2e8-83ffab749e3e
+ms.date: 06/08/2017
 ---
 
 

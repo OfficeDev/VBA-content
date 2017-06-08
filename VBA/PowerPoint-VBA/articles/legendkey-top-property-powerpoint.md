@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.Top
 ms.assetid: bcce6f18-39c3-9445-2a5a-dea0b242a816
+ms.date: 06/08/2017
 ---
 
 

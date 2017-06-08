@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.MaxLabelWidth
 ms.assetid: b97e4104-89d8-c8a6-598e-7397cf47f320
+ms.date: 06/08/2017
 ---
 
 

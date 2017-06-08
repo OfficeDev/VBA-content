@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.BeforeMasterDelete
 ms.assetid: 6f950fa3-3cb6-d3ef-330d-2b38956d6ff3
+ms.date: 06/08/2017
 ---
 
 

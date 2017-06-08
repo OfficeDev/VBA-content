@@ -2,6 +2,7 @@
 title: SearchFolders Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 9d383fde-dffb-8008-eb5a-757694975d20
+ms.date: 06/08/2017
 ---
 
 

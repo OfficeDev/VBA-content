@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DeliverablesGetServerCachedXml
 ms.assetid: 57bd4f31-26c4-9cdf-bfdf-43f14be2c340
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjViewScreen
 ms.assetid: a345e016-ef13-0605-7b2a-5e91c748743e
+ms.date: 06/08/2017
 ---
 
 

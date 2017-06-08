@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.DefaultSaveFormat
 ms.assetid: 892953a8-1e69-000a-3099-c6f4baa69079
+ms.date: 06/08/2017
 ---
 
 

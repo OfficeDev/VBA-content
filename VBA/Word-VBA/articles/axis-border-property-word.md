@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.Border
 ms.assetid: 2564aa1c-7b10-ae75-16ce-f8a2a7625f2f
+ms.date: 06/08/2017
 ---
 
 

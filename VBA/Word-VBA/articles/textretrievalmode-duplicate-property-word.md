@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextRetrievalMode.Duplicate
 ms.assetid: 3ccc1c6a-c709-ea9a-052d-a5c3d566038f
+ms.date: 06/08/2017
 ---
 
 

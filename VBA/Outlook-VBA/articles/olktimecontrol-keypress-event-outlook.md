@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.KeyPress
 ms.assetid: 58294e95-6774-e32f-22dd-4dea1e28afc6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.AddHebDoubleQuote
 ms.assetid: 9c71b52e-0273-7ca9-1f50-5beed65c2e73
+ms.date: 06/08/2017
 ---
 
 

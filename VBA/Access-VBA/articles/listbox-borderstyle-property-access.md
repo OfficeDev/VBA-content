@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.BorderStyle
 ms.assetid: 6b57a863-b521-0cd3-933d-bb50f25ece19
+ms.date: 06/08/2017
 ---
 
 

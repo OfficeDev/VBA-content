@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebNavigationBarSet.DeleteSetAndInstances
 ms.assetid: 89bbd9b9-d0c9-ecac-eb3e-7425bd177aec
+ms.date: 06/08/2017
 ---
 
 

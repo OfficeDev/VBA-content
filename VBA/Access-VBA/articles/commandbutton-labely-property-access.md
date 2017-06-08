@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.LabelY
 ms.assetid: 8daa4d29-ba7f-67fc-a640-d15a3886441f
+ms.date: 06/08/2017
 ---
 
 

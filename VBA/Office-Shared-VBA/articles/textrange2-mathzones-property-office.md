@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.MathZones
 ms.assetid: 277aa819-d717-e2f5-5bc7-607abfce20a4
+ms.date: 06/08/2017
 ---
 
 

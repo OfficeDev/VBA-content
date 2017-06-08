@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ODBCConnectStr
 ms.assetid: f1eba90d-ec30-7e71-a0ca-0d8ed81ac61b
+ms.date: 06/08/2017
 ---
 
 

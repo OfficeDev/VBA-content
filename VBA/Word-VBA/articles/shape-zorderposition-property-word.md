@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.ZOrderPosition
 ms.assetid: a1335280-721a-7746-b8e5-b61cf5b8a1e2
+ms.date: 06/08/2017
 ---
 
 

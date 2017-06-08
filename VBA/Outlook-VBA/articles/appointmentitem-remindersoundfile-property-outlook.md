@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ReminderSoundFile
 ms.assetid: e3599e63-1300-7821-b94d-f8387a47e87d
+ms.date: 06/08/2017
 ---
 
 

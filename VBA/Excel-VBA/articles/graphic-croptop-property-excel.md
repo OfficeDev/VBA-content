@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Graphic.CropTop
 ms.assetid: fd35796f-6a5b-b914-d265-ab6bfc740981
+ms.date: 06/08/2017
 ---
 
 

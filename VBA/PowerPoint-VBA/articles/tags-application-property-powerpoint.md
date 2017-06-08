@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Tags.Application
 ms.assetid: 520966df-1a39-9da5-e918-413cfc19a674
+ms.date: 06/08/2017
 ---
 
 

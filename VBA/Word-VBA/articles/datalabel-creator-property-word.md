@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.Creator
 ms.assetid: 3e261a34-9826-9c8e-5f5f-6fdd1101e9db
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.FreeSlack
 ms.assetid: 714f6c83-bb4c-4a29-d9ea-e3f259d40c77
+ms.date: 06/08/2017
 ---
 
 

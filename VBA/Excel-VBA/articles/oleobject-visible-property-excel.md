@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.Visible
 ms.assetid: 0bf26f02-3ca4-281c-7bf7-4a85bc77eb19
+ms.date: 06/08/2017
 ---
 
 

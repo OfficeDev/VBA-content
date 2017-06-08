@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotFormulas.Count
 ms.assetid: f64c7477-8c0e-1e64-e7a1-cf4b65418393
+ms.date: 06/08/2017
 ---
 
 

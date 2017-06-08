@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.RemoveItem
 ms.assetid: 5a2f010b-9888-9aff-fee1-1e9e596464e8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.MonthLabelDisplay
 ms.assetid: ed6e783c-9f11-1ecf-7cf6-e8281a1892b2
+ms.date: 06/08/2017
 ---
 
 

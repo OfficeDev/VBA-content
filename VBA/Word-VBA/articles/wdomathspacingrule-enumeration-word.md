@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdOMathSpacingRule
 ms.assetid: 25cb7c5d-2d31-9a26-d89d-3fb1e28a3679
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.RightAngleAxes
 ms.assetid: d7f01a8f-aa76-3e92-2db2-370176066145
+ms.date: 06/08/2017
 ---
 
 

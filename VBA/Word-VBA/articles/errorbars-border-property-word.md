@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ErrorBars.Border
 ms.assetid: 8ec5857a-c056-be40-8580-e1dd1c2b885b
+ms.date: 06/08/2017
 ---
 
 

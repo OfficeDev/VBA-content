@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.Controls
 ms.assetid: 21ea22a5-72a5-3b98-468c-6f2baa1110cf
+ms.date: 06/08/2017
 ---
 
 

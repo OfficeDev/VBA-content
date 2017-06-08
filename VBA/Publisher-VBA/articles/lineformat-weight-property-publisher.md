@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.Weight
 ms.assetid: 854928ca-5f38-3cc9-50d5-2473a0885a0c
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtQuickStyle.Name
 ms.assetid: 045a66f0-4538-2508-914a-4dd310bb7926
+ms.date: 06/08/2017
 ---
 
 

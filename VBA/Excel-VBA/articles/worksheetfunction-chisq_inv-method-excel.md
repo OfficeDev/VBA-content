@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ChiSq_Inv
 ms.assetid: 1fa20ff7-e7e9-fe08-fd0f-d109af8037d1
+ms.date: 06/08/2017
 ---
 
 

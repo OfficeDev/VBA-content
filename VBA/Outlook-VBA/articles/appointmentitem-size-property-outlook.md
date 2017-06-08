@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Size
 ms.assetid: 72dd6cfd-67a1-23d6-df95-174becd97f03
+ms.date: 06/08/2017
 ---
 
 

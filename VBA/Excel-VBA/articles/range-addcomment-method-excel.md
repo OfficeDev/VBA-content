@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.AddComment
 ms.assetid: 89bbacad-4655-bcc1-8010-2ab367cc7b31
+ms.date: 06/08/2017
 ---
 
 

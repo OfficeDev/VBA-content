@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Index.Filter
 ms.assetid: 87b5ad20-cc3d-b1d5-9622-ff23ea25120c
+ms.date: 06/08/2017
 ---
 
 

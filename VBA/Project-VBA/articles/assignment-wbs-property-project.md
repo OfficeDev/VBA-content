@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.WBS
 ms.assetid: c3974263-87e9-3102-3c16-712946c926ad
+ms.date: 06/08/2017
 ---
 
 

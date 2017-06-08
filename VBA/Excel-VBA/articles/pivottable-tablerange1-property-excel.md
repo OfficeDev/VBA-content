@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.TableRange1
 ms.assetid: 4dfea643-3299-82ee-a770-b961904eec7f
+ms.date: 06/08/2017
 ---
 
 

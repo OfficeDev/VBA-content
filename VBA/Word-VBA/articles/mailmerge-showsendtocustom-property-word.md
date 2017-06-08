@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMerge.ShowSendToCustom
 ms.assetid: 261d5edc-8320-7f73-0b78-899898834c35
+ms.date: 06/08/2017
 ---
 
 

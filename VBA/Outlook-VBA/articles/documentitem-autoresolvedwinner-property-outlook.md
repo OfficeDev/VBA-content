@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.AutoResolvedWinner
 ms.assetid: 739626cb-1d31-4f3f-c672-686a49657f9a
+ms.date: 06/08/2017
 ---
 
 

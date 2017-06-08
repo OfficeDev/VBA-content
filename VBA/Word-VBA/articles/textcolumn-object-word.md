@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.TextColumn
 ms.assetid: 660614a8-ad5b-dae4-887e-0f75e1172c10
+ms.date: 06/08/2017
 ---
 
 

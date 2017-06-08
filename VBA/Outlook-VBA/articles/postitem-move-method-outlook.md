@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Move
 ms.assetid: f2e7618d-bbf5-4e82-e7e5-6cfb19e8b78a
+ms.date: 06/08/2017
 ---
 
 

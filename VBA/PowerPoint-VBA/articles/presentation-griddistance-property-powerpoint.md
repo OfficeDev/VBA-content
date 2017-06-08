@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.GridDistance
 ms.assetid: 5c4accfe-2467-3d0e-f7f8-3e3c16d8d0ce
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MonthNames
 ms.assetid: 265bee60-26ac-a6f5-4950-494ce6eff215
+ms.date: 06/08/2017
 ---
 
 

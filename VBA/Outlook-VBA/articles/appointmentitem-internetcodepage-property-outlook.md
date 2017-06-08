@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.InternetCodepage
 ms.assetid: 7ebb4076-7ba0-cae4-f6d4-e85d37675a8e
+ms.date: 06/08/2017
 ---
 
 

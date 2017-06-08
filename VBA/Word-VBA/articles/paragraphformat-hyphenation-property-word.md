@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.Hyphenation
 ms.assetid: 185d00c0-3f19-bc98-9790-823b49d289b1
+ms.date: 06/08/2017
 ---
 
 

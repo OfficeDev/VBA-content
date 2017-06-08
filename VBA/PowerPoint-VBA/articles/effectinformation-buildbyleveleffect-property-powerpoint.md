@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.EffectInformation.BuildByLevelEffect
 ms.assetid: b839394f-1b58-4e12-9f55-38547cfd9bc1
+ms.date: 06/08/2017
 ---
 
 

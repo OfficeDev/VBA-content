@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeDataSource.Name
 ms.assetid: bcd5b471-9ed2-8c9a-7a05-7aec471cc930
+ms.date: 06/08/2017
 ---
 
 

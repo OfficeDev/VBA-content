@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.Has3DEffect
 ms.assetid: 2bde474a-0e53-e435-d202-e97b23e90fd2
+ms.date: 06/08/2017
 ---
 
 

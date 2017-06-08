@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CalloutFormat.Accent
 ms.assetid: 8e31544c-79ed-3882-98d1-42fc88f58115
+ms.date: 06/08/2017
 ---
 
 

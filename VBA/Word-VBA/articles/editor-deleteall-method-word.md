@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Editor.DeleteAll
 ms.assetid: 81e69276-99f8-6525-2b45-c9e63feb1c53
+ms.date: 06/08/2017
 ---
 
 

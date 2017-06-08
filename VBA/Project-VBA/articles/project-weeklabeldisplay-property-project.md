@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.WeekLabelDisplay
 ms.assetid: d21cd816-06a3-89b0-b56a-9c1b56151209
+ms.date: 06/08/2017
 ---
 
 

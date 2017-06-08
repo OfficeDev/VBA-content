@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartCharacters.Caption
 ms.assetid: a2cffa57-09a3-18c8-8ebc-da1d421efc7c
+ms.date: 06/08/2017
 ---
 
 

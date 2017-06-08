@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectTaskCell
 ms.assetid: 824be785-faa8-b274-bc4c-b830f828528d
+ms.date: 06/08/2017
 ---
 
 

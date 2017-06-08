@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.WriteReserved
 ms.assetid: be5d8696-9e72-f8a3-2b47-a2fde13359f9
+ms.date: 06/08/2017
 ---
 
 

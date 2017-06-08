@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.Standard
 ms.assetid: 64a70f7f-e5c1-83b7-2750-787cbd18ea89
+ms.date: 06/08/2017
 ---
 
 

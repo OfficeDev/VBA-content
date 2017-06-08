@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: 39e50b47-1e1c-4ed8-197c-b99476423187
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.SetPresetCamera
 ms.assetid: b9c01428-aa93-c338-0e1c-e61fb88d82eb
+ms.date: 06/08/2017
 ---
 
 

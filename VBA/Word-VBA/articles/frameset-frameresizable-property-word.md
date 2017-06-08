@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.FrameResizable
 ms.assetid: 5a373e57-3193-c2a3-52b6-42702237f6c3
+ms.date: 06/08/2017
 ---
 
 

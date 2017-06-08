@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.View.Filter
 ms.assetid: 9a4b4b27-d543-df82-3058-e0a6ad2f51a1
+ms.date: 06/08/2017
 ---
 
 

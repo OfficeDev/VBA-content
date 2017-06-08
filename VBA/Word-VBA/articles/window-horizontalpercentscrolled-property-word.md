@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.HorizontalPercentScrolled
 ms.assetid: 18b61708-eb2d-41e0-5b42-9ceb825867e1
+ms.date: 06/08/2017
 ---
 
 

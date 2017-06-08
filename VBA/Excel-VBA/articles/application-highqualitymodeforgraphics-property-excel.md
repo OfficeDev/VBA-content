@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.HighQualityModeForGraphics
 ms.assetid: 7120b716-a0d4-e66e-2e98-4f2cd41324ef
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.Pattern
 ms.assetid: 5c4c7e5a-1932-01a4-034d-0a4e98c43174
+ms.date: 06/08/2017
 ---
 
 

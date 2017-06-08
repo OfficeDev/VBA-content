@@ -2,6 +2,7 @@
 title: Shape.Ungroup Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 3b2447ec-2639-e9dd-3c39-172e58f74bbe
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Player.State
 ms.assetid: 927216b3-54b7-b00c-9812-ac274bfa5348
+ms.date: 06/08/2017
 ---
 
 

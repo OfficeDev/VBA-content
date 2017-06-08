@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextInput.Valid
 ms.assetid: cf8399fd-d69e-6a49-dcbc-1b548ebc9002
+ms.date: 06/08/2017
 ---
 
 

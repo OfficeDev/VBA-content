@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataTable.Select
 ms.assetid: 3da45759-8a00-a1f3-787b-f78b1822c683
+ms.date: 06/08/2017
 ---
 
 

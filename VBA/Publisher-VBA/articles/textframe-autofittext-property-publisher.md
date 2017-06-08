@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.AutoFitText
 ms.assetid: 468a9d3e-cb9d-8147-60ea-eb839d691e7a
+ms.date: 06/08/2017
 ---
 
 

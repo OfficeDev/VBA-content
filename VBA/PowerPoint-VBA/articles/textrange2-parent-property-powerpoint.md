@@ -1,6 +1,7 @@
 ---
 title: TextRange2.Parent Property (PowerPoint)
 ms.assetid: 0eaca5f5-de68-4d9b-96a3-0323dff39a4b
+ms.date: 06/08/2017
 ---
 
 

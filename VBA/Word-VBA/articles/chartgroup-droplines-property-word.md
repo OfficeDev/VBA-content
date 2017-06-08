@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.DropLines
 ms.assetid: eebe1c74-5682-4680-56d2-f0190fec5950
+ms.date: 06/08/2017
 ---
 
 

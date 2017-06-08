@@ -2,6 +2,7 @@
 title: Delete a Control from the Control Toolbox
 ms.prod: OUTLOOK
 ms.assetid: f93338a3-ba5a-fc49-9c3b-48049f691cfc
+ms.date: 06/08/2017
 ---
 
 

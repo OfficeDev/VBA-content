@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Conflicts
 ms.assetid: bbdc6f58-c3ed-1690-818a-d26cef6479dc
+ms.date: 06/08/2017
 ---
 
 

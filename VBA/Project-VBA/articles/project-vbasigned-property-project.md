@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.VBASigned
 ms.assetid: 469f9f58-4386-7a0b-5937-5f758411bd38
+ms.date: 06/08/2017
 ---
 
 

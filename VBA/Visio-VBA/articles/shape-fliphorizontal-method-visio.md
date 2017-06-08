@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.FlipHorizontal
 ms.assetid: a1f308a7-1f00-9432-ea26-bc1d784b8451
+ms.date: 06/08/2017
 ---
 
 

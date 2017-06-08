@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.InSelection
 ms.assetid: e17586b5-0619-e713-e1fa-f27c9e26b561
+ms.date: 06/08/2017
 ---
 
 

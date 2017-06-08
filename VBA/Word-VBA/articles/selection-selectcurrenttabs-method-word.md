@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.SelectCurrentTabs
 ms.assetid: 38b0ba64-eedc-9ef5-5622-5499b50bbd3e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.FontBold
 ms.assetid: c125e323-8e4a-4814-3dd6-cc5bef6ebf96
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.Click
 ms.assetid: 684426c6-5919-9981-8077-6b170e288e38
+ms.date: 06/08/2017
 ---
 
 

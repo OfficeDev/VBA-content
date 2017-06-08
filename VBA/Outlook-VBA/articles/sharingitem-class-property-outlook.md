@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Class
 ms.assetid: fab373ce-0969-3580-84d8-109a5c92b8a3
+ms.date: 06/08/2017
 ---
 
 

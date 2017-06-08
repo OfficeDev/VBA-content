@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CalloutFormat.Border
 ms.assetid: 8183f14b-1432-300a-cf2b-650905661e53
+ms.date: 06/08/2017
 ---
 
 

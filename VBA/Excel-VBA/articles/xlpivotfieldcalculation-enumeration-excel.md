@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPivotFieldCalculation
 ms.assetid: 94ceaa53-9dfc-149a-6aed-30d8fdb57b5b
+ms.date: 06/08/2017
 ---
 
 

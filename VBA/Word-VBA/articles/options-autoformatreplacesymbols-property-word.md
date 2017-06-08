@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatReplaceSymbols
 ms.assetid: 58a1c811-2fd8-92a9-1f85-6d9beb4223ef
+ms.date: 06/08/2017
 ---
 
 

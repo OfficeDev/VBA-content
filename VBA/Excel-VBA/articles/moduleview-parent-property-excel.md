@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ModuleView.Parent
 ms.assetid: 38e9cb3c-3481-fc43-6c6e-0406042cbde1
+ms.date: 06/08/2017
 ---
 
 

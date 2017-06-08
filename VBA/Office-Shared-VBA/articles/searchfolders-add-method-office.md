@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SearchFolders.Add
 ms.assetid: 2ed409a3-d57a-bfc5-ceb3-a7ef4b89b345
+ms.date: 06/08/2017
 ---
 
 

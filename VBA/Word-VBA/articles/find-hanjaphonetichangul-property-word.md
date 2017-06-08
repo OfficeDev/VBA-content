@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.HanjaPhoneticHangul
 ms.assetid: a08838e5-c9fd-661c-a2ed-d75507798fce
+ms.date: 06/08/2017
 ---
 
 

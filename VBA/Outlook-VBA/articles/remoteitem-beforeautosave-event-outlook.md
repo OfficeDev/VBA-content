@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.BeforeAutoSave
 ms.assetid: f33e1442-0e65-cc78-34ac-496b65ba565e
+ms.date: 06/08/2017
 ---
 
 

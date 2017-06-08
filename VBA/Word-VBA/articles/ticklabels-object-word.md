@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TickLabels
 ms.assetid: d94e90dc-0b0e-f4af-078e-6f2b97729db5
+ms.date: 06/08/2017
 ---
 
 

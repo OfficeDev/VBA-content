@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.CellExistsU
 ms.assetid: 29f8959d-79ea-155c-4f5f-a54eff98d92f
+ms.date: 06/08/2017
 ---
 
 

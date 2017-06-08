@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.ToggleRibbon
 ms.assetid: 9ca5a0e4-277a-a997-2de8-439087d49751
+ms.date: 06/08/2017
 ---
 
 

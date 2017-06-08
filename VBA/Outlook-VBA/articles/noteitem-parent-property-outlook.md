@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Parent
 ms.assetid: 452ba1db-d307-9baf-5f82-46a423fa501d
+ms.date: 06/08/2017
 ---
 
 

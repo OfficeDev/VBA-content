@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.DateFormat
 ms.assetid: 4d23139a-1691-4548-f395-e46aed0306a6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.PresetTexture
 ms.assetid: 90503151-0351-26f3-de16-65cb21992f46
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Add-In Manager Command (Add-Ins Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: c63634fe-4f02-d6cb-192b-5175e49d9801
+ms.date: 06/08/2017
 ---
 
 

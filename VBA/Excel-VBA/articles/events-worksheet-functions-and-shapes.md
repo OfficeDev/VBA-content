@@ -2,6 +2,7 @@
 title: Events, Worksheet Functions, and Shapes
 ms.prod: EXCEL
 ms.assetid: c39bf746-c395-4744-9adf-7f95015b5fb7
+ms.date: 06/08/2017
 ---
 
 

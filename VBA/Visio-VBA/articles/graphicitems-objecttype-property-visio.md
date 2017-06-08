@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.GraphicItems.ObjectType
 ms.assetid: d8062111-555e-af7d-86b3-093e189ca97d
+ms.date: 06/08/2017
 ---
 
 

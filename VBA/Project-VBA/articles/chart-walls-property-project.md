@@ -2,6 +2,7 @@
 title: Chart.Walls Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 8404e5cb-8da2-49b4-c49a-488d67457681
+ms.date: 06/08/2017
 ---
 
 

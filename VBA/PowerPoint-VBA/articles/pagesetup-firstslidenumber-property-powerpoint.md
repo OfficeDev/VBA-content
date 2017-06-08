@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.FirstSlideNumber
 ms.assetid: 277f613b-8c3a-d8bb-593c-a66ca41b4fa0
+ms.date: 06/08/2017
 ---
 
 

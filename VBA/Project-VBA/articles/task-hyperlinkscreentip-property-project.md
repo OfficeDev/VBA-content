@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.HyperlinkScreenTip
 ms.assetid: 71178d98-60ce-63ed-8e67-57b3fdacdad9
+ms.date: 06/08/2017
 ---
 
 

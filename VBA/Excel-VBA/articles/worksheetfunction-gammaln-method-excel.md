@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.GammaLn
 ms.assetid: 89dbd9e8-cd88-405d-8f88-351b4dc39f02
+ms.date: 06/08/2017
 ---
 
 

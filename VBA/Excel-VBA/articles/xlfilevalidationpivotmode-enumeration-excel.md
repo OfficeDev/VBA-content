@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlFileValidationPivotMode
 ms.assetid: 8ca2047c-be0f-5ecd-3762-f5c294b9542c
+ms.date: 06/08/2017
 ---
 
 

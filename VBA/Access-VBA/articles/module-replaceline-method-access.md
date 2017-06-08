@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.ReplaceLine
 ms.assetid: 9e267b4a-5c15-a1bc-e2e0-a528871c9268
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.Width
 ms.assetid: 9484ad5c-c96d-62ba-f964-1de6fd9726ce
+ms.date: 06/08/2017
 ---
 
 

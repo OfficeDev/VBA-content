@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.IsMaster
 ms.assetid: 4fe75a11-bb72-1186-9ad6-b8e2489d74e9
+ms.date: 06/08/2017
 ---
 
 

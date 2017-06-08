@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.VerticalAnchor
 ms.assetid: 035bbf92-a346-1fea-c7c5-b9c34c251705
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.CropLeft
 ms.assetid: c20c723a-c09b-f821-4273-9a5fc0f37207
+ms.date: 06/08/2017
 ---
 
 

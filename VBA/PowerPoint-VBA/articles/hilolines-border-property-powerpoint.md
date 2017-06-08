@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HiLoLines.Border
 ms.assetid: a314b453-78ac-b3a6-6bab-55d52f1c5191
+ms.date: 06/08/2017
 ---
 
 

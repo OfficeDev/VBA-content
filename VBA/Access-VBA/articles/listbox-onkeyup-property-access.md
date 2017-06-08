@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.OnKeyUp
 ms.assetid: efc5b93f-ddbc-4fc0-2c2e-6a3fd13b2b97
+ms.date: 06/08/2017
 ---
 
 

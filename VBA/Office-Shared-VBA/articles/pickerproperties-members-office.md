@@ -2,6 +2,7 @@
 title: PickerProperties Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: ccea858b-6cd6-89be-7ab1-8edaa44099a1
+ms.date: 06/08/2017
 ---
 
 

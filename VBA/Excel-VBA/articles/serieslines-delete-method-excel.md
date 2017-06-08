@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SeriesLines.Delete
 ms.assetid: 8d6869b2-64fa-00b8-5ac8-2ac1d1c8b22b
+ms.date: 06/08/2017
 ---
 
 

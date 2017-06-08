@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.ShowValue
 ms.assetid: 3c016afc-17b2-78cd-8964-584e8d86d552
+ms.date: 06/08/2017
 ---
 
 

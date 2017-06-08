@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomLabel.Height
 ms.assetid: 8517f207-96f2-700f-9d14-cbc1a9043960
+ms.date: 06/08/2017
 ---
 
 

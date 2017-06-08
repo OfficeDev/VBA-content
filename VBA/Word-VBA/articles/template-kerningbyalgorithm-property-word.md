@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Template.KerningByAlgorithm
 ms.assetid: 4812a92c-8886-6c52-4b26-6fc50e270f21
+ms.date: 06/08/2017
 ---
 
 

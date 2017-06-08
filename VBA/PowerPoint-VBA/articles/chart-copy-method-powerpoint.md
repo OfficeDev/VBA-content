@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Copy
 ms.assetid: ad7ac7f6-d1f4-7a33-a46f-856796596eac
+ms.date: 06/08/2017
 ---
 
 

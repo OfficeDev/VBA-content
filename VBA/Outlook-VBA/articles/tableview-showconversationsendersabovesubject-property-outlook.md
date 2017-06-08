@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.ShowConversationSendersAboveSubject
 ms.assetid: fa7514c1-a9e1-0bc3-9c94-d537d7d73e00
+ms.date: 06/08/2017
 ---
 
 

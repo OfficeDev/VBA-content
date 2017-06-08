@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorCheckingOptions.EvaluateToError
 ms.assetid: f6a7c606-6da6-defd-9ca5-9ce46805e2d7
+ms.date: 06/08/2017
 ---
 
 

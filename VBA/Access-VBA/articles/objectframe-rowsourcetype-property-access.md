@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.RowSourceType
 ms.assetid: d450ce8b-c2e9-f51b-61af-b46a64ab7d32
+ms.date: 06/08/2017
 ---
 
 

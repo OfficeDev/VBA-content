@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.TextChanged
 ms.assetid: e6516896-de9e-e90f-679b-541c15ab26db
+ms.date: 06/08/2017
 ---
 
 

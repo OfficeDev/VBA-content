@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ReadOnlyRecommended
 ms.assetid: 3cae84e4-d5f0-f01c-64d9-ec586ffdf79c
+ms.date: 06/08/2017
 ---
 
 

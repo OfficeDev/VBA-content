@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pages.Count
 ms.assetid: e7acf9c8-a035-16b5-604c-ea77b61b4e3d
+ms.date: 06/08/2017
 ---
 
 

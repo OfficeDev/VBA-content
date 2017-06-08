@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtLayouts.Parent
 ms.assetid: cb32827a-8109-ea95-6f49-abd34a391770
+ms.date: 06/08/2017
 ---
 
 

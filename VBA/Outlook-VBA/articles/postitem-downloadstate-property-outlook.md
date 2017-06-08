@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.DownloadState
 ms.assetid: e1b4a5d4-2b2b-fbe6-f8c7-154b80d7ec28
+ms.date: 06/08/2017
 ---
 
 

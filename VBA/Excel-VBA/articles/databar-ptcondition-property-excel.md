@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Databar.PTCondition
 ms.assetid: 313c3c44-3ca5-dbc1-fcde-3c2c0c3e2c0e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.IgnoreUppercase
 ms.assetid: 4eff2832-3c66-0274-5403-d2fd8d31d04d
+ms.date: 06/08/2017
 ---
 
 

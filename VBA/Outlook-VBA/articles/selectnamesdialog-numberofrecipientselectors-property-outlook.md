@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SelectNamesDialog.NumberOfRecipientSelectors
 ms.assetid: 2cb40e5f-b122-d032-9343-54fe98bc5455
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Floor.Paste
 ms.assetid: 9c6d58af-695c-e88a-4d98-e2735e490f02
+ms.date: 06/08/2017
 ---
 
 

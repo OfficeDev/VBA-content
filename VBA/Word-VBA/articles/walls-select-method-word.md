@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Walls.Select
 ms.assetid: c82a20dc-da21-2582-58cb-d44665b5476f
+ms.date: 06/08/2017
 ---
 
 

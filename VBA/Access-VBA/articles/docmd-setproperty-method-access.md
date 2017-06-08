@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.SetProperty
 ms.assetid: 32347eb6-115d-36c5-4c18-eab7e7422b78
+ms.date: 06/08/2017
 ---
 
 

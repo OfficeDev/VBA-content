@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Size
 ms.assetid: 5fcd84f9-2298-004f-2f14-fe81e8815a9b
+ms.date: 06/08/2017
 ---
 
 

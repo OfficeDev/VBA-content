@@ -2,6 +2,7 @@
 title: ViewCtl.Open Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 168cb022-93a9-bcbd-e8f1-ef3530bfe360
+ms.date: 06/08/2017
 ---
 
 

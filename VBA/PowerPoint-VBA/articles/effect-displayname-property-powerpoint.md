@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.DisplayName
 ms.assetid: 1c8c7a78-5b09-a94e-880e-d82311cc5ee9
+ms.date: 06/08/2017
 ---
 
 

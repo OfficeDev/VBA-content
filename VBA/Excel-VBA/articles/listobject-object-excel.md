@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject
 ms.assetid: 46de6c4f-8ce0-0c7d-da59-6e52f5eab612
+ms.date: 06/08/2017
 ---
 
 

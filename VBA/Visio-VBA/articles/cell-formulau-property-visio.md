@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.FormulaU
 ms.assetid: 931490f6-938c-f783-eb2f-a67505187c90
+ms.date: 06/08/2017
 ---
 
 

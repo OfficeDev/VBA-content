@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeFields.Count
 ms.assetid: 9ce370be-99dc-e27f-45dc-0d1e17230953
+ms.date: 06/08/2017
 ---
 
 

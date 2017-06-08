@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.ApplyLayout
 ms.assetid: 94368674-4ecb-a3aa-da91-8e92980d3cc8
+ms.date: 06/08/2017
 ---
 
 

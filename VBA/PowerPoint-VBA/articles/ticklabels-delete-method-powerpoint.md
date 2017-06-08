@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TickLabels.Delete
 ms.assetid: b67ac829-c80a-c61e-2c2b-b45c9a8cdb7f
+ms.date: 06/08/2017
 ---
 
 

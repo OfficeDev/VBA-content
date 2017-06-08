@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.BlackWhiteMode
 ms.assetid: bed5df5a-87b5-5e61-6d28-48a7776d0d83
+ms.date: 06/08/2017
 ---
 
 

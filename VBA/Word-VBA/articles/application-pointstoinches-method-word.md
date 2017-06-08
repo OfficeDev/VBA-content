@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.PointsToInches
 ms.assetid: cabbab9b-ad04-576f-ee7c-921a38b4948c
+ms.date: 06/08/2017
 ---
 
 

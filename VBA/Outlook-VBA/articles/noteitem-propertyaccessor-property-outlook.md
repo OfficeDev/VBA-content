@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.PropertyAccessor
 ms.assetid: b8b18dfc-410e-f311-e115-e2741efa0630
+ms.date: 06/08/2017
 ---
 
 

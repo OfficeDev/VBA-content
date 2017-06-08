@@ -2,6 +2,7 @@
 title: Distribution List Forms Overview
 ms.prod: OUTLOOK
 ms.assetid: cff157d1-4436-64f3-f952-578f20fe622a
+ms.date: 06/08/2017
 ---
 
 

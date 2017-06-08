@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GetProjectServerVersion
 ms.assetid: f41cb738-3a30-f555-9d10-78343fae0ddb
+ms.date: 06/08/2017
 ---
 
 

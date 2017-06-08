@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.VerticalAnchor
 ms.assetid: b0f991a4-744b-aac8-8456-a455f71942b7
+ms.date: 06/08/2017
 ---
 
 

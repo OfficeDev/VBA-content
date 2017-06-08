@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.GraphicItem.VerticalPosition
 ms.assetid: a756df97-851d-c6cf-b68f-b84e07da8628
+ms.date: 06/08/2017
 ---
 
 

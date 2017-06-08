@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.Duplicate
 ms.assetid: 925ba556-4a7e-36da-2fbb-a32684f23fa6
+ms.date: 06/08/2017
 ---
 
 

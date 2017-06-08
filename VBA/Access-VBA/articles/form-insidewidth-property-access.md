@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.InsideWidth
 ms.assetid: c92954cd-0b8b-94d8-8826-684e886da0a2
+ms.date: 06/08/2017
 ---
 
 

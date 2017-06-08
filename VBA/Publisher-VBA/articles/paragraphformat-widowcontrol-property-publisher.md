@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.WidowControl
 ms.assetid: af1f1106-60e3-3987-3710-30fae7cf3940
+ms.date: 06/08/2017
 ---
 
 

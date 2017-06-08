@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTask.VideoFrameRate
 ms.assetid: 46ceead8-4e4d-fc25-ad6d-e387dfdc3089
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkHorizontalAxis.RightToLeftPlotOrder
 ms.assetid: 75515893-aab3-379f-26c6-31145493a592
+ms.date: 06/08/2017
 ---
 
 

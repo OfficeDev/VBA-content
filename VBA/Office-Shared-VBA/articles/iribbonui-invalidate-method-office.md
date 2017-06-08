@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IRibbonUI.Invalidate
 ms.assetid: 068cd459-76c2-b1d3-ed7d-50fa88c4db73
+ms.date: 06/08/2017
 ---
 
 

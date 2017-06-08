@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathSmallFrac
 ms.assetid: a34c5e4c-5804-2cac-7b75-5e163394be75
+ms.date: 06/08/2017
 ---
 
 

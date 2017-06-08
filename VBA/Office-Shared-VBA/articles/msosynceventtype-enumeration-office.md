@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoSyncEventType
 ms.assetid: d9f4d2fa-9574-7ac1-c703-82897ff99c37
+ms.date: 06/08/2017
 ---
 
 

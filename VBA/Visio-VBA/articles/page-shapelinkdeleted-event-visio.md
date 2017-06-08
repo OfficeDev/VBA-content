@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ShapeLinkDeleted
 ms.assetid: e19709c4-45e4-f0f1-8e59-72b1ccbdf130
+ms.date: 06/08/2017
 ---
 
 

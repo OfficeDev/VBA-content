@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DocumentInspectors
 ms.assetid: db63909c-c7e3-91f1-0ebb-0c2dd9568c2c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Toolbar.Top
 ms.assetid: 63adeae5-c962-4e83-67de-d89035ee9bce
+ms.date: 06/08/2017
 ---
 
 

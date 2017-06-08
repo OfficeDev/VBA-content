@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineNumbering.DistanceFromText
 ms.assetid: cc541a06-5216-1a7a-9db1-172c94272d31
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.BorderWidth
 ms.assetid: 245db6e4-81f8-a95b-65a8-9a7a5dd0b0e0
+ms.date: 06/08/2017
 ---
 
 

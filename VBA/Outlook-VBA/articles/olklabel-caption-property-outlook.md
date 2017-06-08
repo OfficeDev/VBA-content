@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkLabel.Caption
 ms.assetid: 5ae233e4-e49f-9e2d-3542-fe36f6acd43a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Task.WindowState
 ms.assetid: 08021f45-3d92-a921-a26c-b0391bbf9035
+ms.date: 06/08/2017
 ---
 
 

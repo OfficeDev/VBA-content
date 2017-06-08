@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMath.ConvertToNormalText
 ms.assetid: 79284082-5495-bc78-2223-3f9dbb8ef3f8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.FormulaBarHeight
 ms.assetid: ff377046-06cb-9cf7-32f5-773da447c184
+ms.date: 06/08/2017
 ---
 
 

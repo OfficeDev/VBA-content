@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.ProtectSelection
 ms.assetid: a1b9cf7e-8cc3-f9fe-dfcf-c66469741edb
+ms.date: 06/08/2017
 ---
 
 

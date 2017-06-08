@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.Left
 ms.assetid: 3272daef-8241-3305-4623-abfcb6aaffdb
+ms.date: 06/08/2017
 ---
 
 

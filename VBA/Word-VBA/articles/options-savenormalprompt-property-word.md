@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SaveNormalPrompt
 ms.assetid: bc58327f-d35e-70ae-ae53-0c312d3bbc0b
+ms.date: 06/08/2017
 ---
 
 

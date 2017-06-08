@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ConnectorFormat.BeginConnectionSite
 ms.assetid: c26690ad-77a9-b312-33f0-8d88a6fa667f
+ms.date: 06/08/2017
 ---
 
 

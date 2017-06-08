@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.ClearCrop
 ms.assetid: 63a99182-d38a-6666-27ee-2641e5c43867
+ms.date: 06/08/2017
 ---
 
 

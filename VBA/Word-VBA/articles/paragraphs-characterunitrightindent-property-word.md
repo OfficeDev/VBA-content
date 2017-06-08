@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.CharacterUnitRightIndent
 ms.assetid: dbbb903b-924b-1f36-3e56-9489f544f601
+ms.date: 06/08/2017
 ---
 
 

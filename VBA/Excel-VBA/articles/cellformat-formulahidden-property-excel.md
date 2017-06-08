@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CellFormat.FormulaHidden
 ms.assetid: 5e1b6875-f66a-568a-e0e5-af88e64edfe6
+ms.date: 06/08/2017
 ---
 
 

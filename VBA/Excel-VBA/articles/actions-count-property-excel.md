@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Actions.Count
 ms.assetid: 56c57de8-104b-5e44-3e4c-a5d1c8b6e10a
+ms.date: 06/08/2017
 ---
 
 

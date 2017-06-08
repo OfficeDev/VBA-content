@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRasterExportDataCompression
 ms.assetid: 28fbd635-2b8f-7830-27d7-3b85c3879f19
+ms.date: 06/08/2017
 ---
 
 

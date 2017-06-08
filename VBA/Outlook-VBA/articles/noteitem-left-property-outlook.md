@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Left
 ms.assetid: 0273f7cc-efaf-d1ef-39b3-3aea8f4ba834
+ms.date: 06/08/2017
 ---
 
 

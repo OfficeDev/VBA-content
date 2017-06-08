@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.WindowTurnedToPage
 ms.assetid: 6cfab282-62db-75e6-9988-b6f9b4a0367e
+ms.date: 06/08/2017
 ---
 
 

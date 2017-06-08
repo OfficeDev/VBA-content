@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.ReturnAddressShortForm
 ms.assetid: 7e2a8691-6324-c4d6-f230-b192c1cd6bc6
+ms.date: 06/08/2017
 ---
 
 

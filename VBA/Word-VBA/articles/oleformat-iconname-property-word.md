@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OLEFormat.IconName
 ms.assetid: 8894bdb0-597d-f062-e97f-1b03a7e80e26
+ms.date: 06/08/2017
 ---
 
 

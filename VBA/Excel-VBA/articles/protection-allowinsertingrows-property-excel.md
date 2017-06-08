@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Protection.AllowInsertingRows
 ms.assetid: 481fb5d0-31c9-9c28-c5a0-3f3abc48ad3a
+ms.date: 06/08/2017
 ---
 
 

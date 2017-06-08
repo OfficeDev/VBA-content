@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Delete
 ms.assetid: 062afc1f-4c3f-bd6e-ad88-e8fa394a5edd
+ms.date: 06/08/2017
 ---
 
 

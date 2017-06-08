@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.RotateWithShape
 ms.assetid: 6bba2805-a774-ab5b-7631-e020d77c133d
+ms.date: 06/08/2017
 ---
 
 

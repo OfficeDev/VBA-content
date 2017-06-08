@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Profiles.Item
 ms.assetid: 67716296-1a8c-dd6a-3dd5-beb0a23dd78a
+ms.date: 06/08/2017
 ---
 
 

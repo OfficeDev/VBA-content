@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ApplyDataLabels
 ms.assetid: 1750d716-66f8-fe4e-8023-fbcfcc5c5ff5
+ms.date: 06/08/2017
 ---
 
 

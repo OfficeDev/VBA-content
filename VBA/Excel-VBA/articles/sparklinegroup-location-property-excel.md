@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.Location
 ms.assetid: 3548cc42-dbab-636f-0dcf-2f38ad4a2db5
+ms.date: 06/08/2017
 ---
 
 

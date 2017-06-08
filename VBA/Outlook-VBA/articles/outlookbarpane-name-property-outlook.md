@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OutlookBarPane.Name
 ms.assetid: fc948c3e-1029-b426-c906-bc66231fa653
+ms.date: 06/08/2017
 ---
 
 

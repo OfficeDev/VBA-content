@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ReviewerMarkupVisible
 ms.assetid: 7b13a89c-4835-93cc-aece-fcbad1a7ed22
+ms.date: 06/08/2017
 ---
 
 

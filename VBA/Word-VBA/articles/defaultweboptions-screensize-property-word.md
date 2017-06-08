@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.ScreenSize
 ms.assetid: 21f1019f-6658-0da9-519e-adefc8356607
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.SpaceBefore
 ms.assetid: ed19a927-67e4-a1b3-06f8-1035c4b0815a
+ms.date: 06/08/2017
 ---
 
 

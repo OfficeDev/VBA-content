@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DefaultHighlightColorIndex
 ms.assetid: 1171cc44-54c9-0a39-c90f-ebdebebdde26
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ReplyRecipients
 ms.assetid: 2d590733-1d67-944e-c2b6-7e08439c1cf5
+ms.date: 06/08/2017
 ---
 
 

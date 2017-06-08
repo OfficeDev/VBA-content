@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFields.Application
 ms.assetid: 87cab6a7-c4b0-74b3-f319-2a8c34ab6466
+ms.date: 06/08/2017
 ---
 
 

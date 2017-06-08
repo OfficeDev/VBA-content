@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.LookupTableEntry.Delete
 ms.assetid: 97a15eed-c9d9-1421-dc4e-c261e10f2614
+ms.date: 06/08/2017
 ---
 
 

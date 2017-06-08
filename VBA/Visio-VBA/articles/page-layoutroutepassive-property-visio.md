@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.LayoutRoutePassive
 ms.assetid: 7244abb5-0c8f-d68b-4b2d-3e192afe1d80
+ms.date: 06/08/2017
 ---
 
 

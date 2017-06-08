@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.MouseUp
 ms.assetid: 92cbef4e-deee-1c5f-ec0e-10bc5e6ebd5b
+ms.date: 06/08/2017
 ---
 
 

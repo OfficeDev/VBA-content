@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DDEExecute
 ms.assetid: 0f83607e-ba56-70d7-091e-411ec73fdfa7
+ms.date: 06/08/2017
 ---
 
 

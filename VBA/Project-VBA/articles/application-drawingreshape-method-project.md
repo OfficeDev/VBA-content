@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DrawingReshape
 ms.assetid: b9fe0b7c-4112-92fd-d66b-3ebe64e75b8d
+ms.date: 06/08/2017
 ---
 
 

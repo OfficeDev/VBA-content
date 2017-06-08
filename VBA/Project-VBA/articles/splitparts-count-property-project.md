@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.SplitParts.Count
 ms.assetid: 61b8c00c-371b-012d-8e74-e27d399fb0f7
+ms.date: 06/08/2017
 ---
 
 

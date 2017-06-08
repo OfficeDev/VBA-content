@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Comment.Delete
 ms.assetid: 85f164ff-1fa6-8ed5-5915-a13493de326a
+ms.date: 06/08/2017
 ---
 
 

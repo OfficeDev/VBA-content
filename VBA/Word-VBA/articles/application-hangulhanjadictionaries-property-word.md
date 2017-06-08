@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.HangulHanjaDictionaries
 ms.assetid: 453e2a77-f363-5afc-d9a3-26f8b6516b4c
+ms.date: 06/08/2017
 ---
 
 

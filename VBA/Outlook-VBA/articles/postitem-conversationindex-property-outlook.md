@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.ConversationIndex
 ms.assetid: fe52d844-8702-6c15-9912-8a3d659a17b0
+ms.date: 06/08/2017
 ---
 
 

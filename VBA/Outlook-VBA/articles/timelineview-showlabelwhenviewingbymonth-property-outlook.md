@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.ShowLabelWhenViewingByMonth
 ms.assetid: 6af6ff5f-6fbb-e6b7-6270-7a12cc573514
+ms.date: 06/08/2017
 ---
 
 

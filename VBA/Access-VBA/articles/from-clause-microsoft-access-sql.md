@@ -2,6 +2,7 @@
 title: FROM Clause (Microsoft Access SQL)
 ms.prod: ACCESS
 ms.assetid: f3c5931e-2768-198e-d69c-095a01c23bb5
+ms.date: 06/08/2017
 ---
 
 

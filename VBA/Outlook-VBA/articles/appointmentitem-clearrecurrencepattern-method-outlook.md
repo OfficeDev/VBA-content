@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ClearRecurrencePattern
 ms.assetid: a880839a-7c0a-7940-95f7-ee3699e88ece
+ms.date: 06/08/2017
 ---
 
 

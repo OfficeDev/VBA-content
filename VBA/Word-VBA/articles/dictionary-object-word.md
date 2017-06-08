@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionary
 ms.assetid: 1946d60c-2abd-9ca9-8d0b-7068e9173bb3
+ms.date: 06/08/2017
 ---
 
 

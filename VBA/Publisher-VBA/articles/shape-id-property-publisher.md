@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.ID
 ms.assetid: df4ccd93-e3fa-eeef-b5ea-e99aa0dde199
+ms.date: 06/08/2017
 ---
 
 

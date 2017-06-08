@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartArea.ClearContents
 ms.assetid: 7cb3e9a9-e808-ed80-c55e-de422d19d9e3
+ms.date: 06/08/2017
 ---
 
 

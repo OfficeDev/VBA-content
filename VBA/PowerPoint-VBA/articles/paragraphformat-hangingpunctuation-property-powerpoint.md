@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.HangingPunctuation
 ms.assetid: e7e1f5b2-e0ed-9b5c-7c14-fcf4c134e3bb
+ms.date: 06/08/2017
 ---
 
 

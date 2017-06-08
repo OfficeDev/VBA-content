@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DisplayHelp
 ms.assetid: 4d31b711-2521-cfd3-7689-0bd8618126b1
+ms.date: 06/08/2017
 ---
 
 

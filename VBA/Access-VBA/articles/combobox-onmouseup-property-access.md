@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.OnMouseUp
 ms.assetid: bf6f673c-fd59-d411-9cd2-cf7820bb04b3
+ms.date: 06/08/2017
 ---
 
 

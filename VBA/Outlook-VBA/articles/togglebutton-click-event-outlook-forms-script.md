@@ -2,6 +2,7 @@
 title: ToggleButton.Click Event (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 777a0efc-c376-221b-ecea-5bd7797488de
+ms.date: 06/08/2017
 ---
 
 

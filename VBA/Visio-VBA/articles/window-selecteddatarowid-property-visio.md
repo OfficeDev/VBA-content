@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.SelectedDataRowID
 ms.assetid: 8ed4a690-c96f-c134-5b84-459938bd39e8
+ms.date: 06/08/2017
 ---
 
 

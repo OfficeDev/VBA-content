@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.SizeToFit
 ms.assetid: 53c509fe-41d8-b430-b272-5c506c237680
+ms.date: 06/08/2017
 ---
 
 

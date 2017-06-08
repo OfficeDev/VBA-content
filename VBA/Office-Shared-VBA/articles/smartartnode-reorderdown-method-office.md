@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtNode.ReorderDown
 ms.assetid: 0e927b37-08b4-639d-dab3-936d1d473d20
+ms.date: 06/08/2017
 ---
 
 

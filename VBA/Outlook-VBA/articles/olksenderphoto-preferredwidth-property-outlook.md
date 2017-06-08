@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.PreferredWidth
 ms.assetid: 8546b80a-a191-bfce-2e24-6bd74f8e2a8b
+ms.date: 06/08/2017
 ---
 
 

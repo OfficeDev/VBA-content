@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.Stop
 ms.assetid: 62157e66-dc87-b12e-444d-864d34f4211f
+ms.date: 06/08/2017
 ---
 
 

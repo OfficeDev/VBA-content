@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Protection.AllowSorting
 ms.assetid: cffdb62d-2fbb-111a-ed06-e295b722ee75
+ms.date: 06/08/2017
 ---
 
 

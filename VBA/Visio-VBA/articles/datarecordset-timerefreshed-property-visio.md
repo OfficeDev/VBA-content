@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.TimeRefreshed
 ms.assetid: ebdf1acd-81f9-bd5e-48ba-d34100a8f702
+ms.date: 06/08/2017
 ---
 
 

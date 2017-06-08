@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.RecordMacro
 ms.assetid: 8b6c9757-b589-04e6-5650-edfc4104e517
+ms.date: 06/08/2017
 ---
 
 

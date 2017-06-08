@@ -2,6 +2,7 @@
 title: CustomXMLValidationError Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b84777a9-ffea-f6e2-022e-aaeabfac49e0
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumber
 ms.assetid: 5b58f562-de19-ac9d-0b2c-7696603c1606
+ms.date: 06/08/2017
 ---
 
 

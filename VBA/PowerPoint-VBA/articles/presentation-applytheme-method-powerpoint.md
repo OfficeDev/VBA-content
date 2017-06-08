@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.ApplyTheme
 ms.assetid: e403614b-fc39-98e0-e707-501394aacfa1
+ms.date: 06/08/2017
 ---
 
 

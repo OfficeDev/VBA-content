@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AboveAverage.Font
 ms.assetid: 6ec040b9-15d6-e401-23f7-c0b5e81daeb1
+ms.date: 06/08/2017
 ---
 
 

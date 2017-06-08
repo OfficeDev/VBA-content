@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shapes.EventList
 ms.assetid: 414ad9c8-d1f5-36dc-edab-fa1ae67da74f
+ms.date: 06/08/2017
 ---
 
 

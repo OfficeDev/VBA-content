@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ViewShowObjects
 ms.assetid: 2bbe735e-b024-5f28-18bd-ef8335995ca2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ReceivedTime
 ms.assetid: cb237ce6-10d0-f2f2-c75a-8b01896e65c0
+ms.date: 06/08/2017
 ---
 
 

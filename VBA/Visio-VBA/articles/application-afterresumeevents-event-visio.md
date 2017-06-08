@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AfterResumeEvents
 ms.assetid: c4a662a9-575f-c9db-05b8-d71b4459793b
+ms.date: 06/08/2017
 ---
 
 

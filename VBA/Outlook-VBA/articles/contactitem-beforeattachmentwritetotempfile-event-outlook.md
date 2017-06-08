@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.BeforeAttachmentWriteToTempFile
 ms.assetid: d6e84398-10ca-53fc-8576-102ae8d8971f
+ms.date: 06/08/2017
 ---
 
 

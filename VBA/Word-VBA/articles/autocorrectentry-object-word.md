@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrectEntry
 ms.assetid: 33173958-42eb-00ef-7f37-41f95ed47f87
+ms.date: 06/08/2017
 ---
 
 

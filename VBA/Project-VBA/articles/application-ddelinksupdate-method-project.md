@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DDELinksUpdate
 ms.assetid: 590b5379-f9b7-b245-beed-f656eadd8269
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Subscript
 ms.assetid: 51226088-218d-4848-1358-d524fb2fe56a
+ms.date: 06/08/2017
 ---
 
 

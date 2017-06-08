@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PhoneticGuide.FontSize
 ms.assetid: 48b225d5-2428-e292-99e1-1b6288fba4f3
+ms.date: 06/08/2017
 ---
 
 

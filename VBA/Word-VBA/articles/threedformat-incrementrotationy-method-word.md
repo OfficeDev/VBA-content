@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.IncrementRotationY
 ms.assetid: 924559dd-1e64-d5f4-c462-5d5fb931cd57
+ms.date: 06/08/2017
 ---
 
 

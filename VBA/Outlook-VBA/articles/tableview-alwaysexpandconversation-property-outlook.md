@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.AlwaysExpandConversation
 ms.assetid: 99d74daf-7d3d-80b4-cf00-42f3f2cbd60b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.AdvancedSearchStopped
 ms.assetid: a1a4ec9f-c0e3-6acd-b63c-89194ed70efd
+ms.date: 06/08/2017
 ---
 
 

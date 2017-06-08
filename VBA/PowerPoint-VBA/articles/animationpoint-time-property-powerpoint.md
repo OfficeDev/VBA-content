@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationPoint.Time
 ms.assetid: 19df62b1-b898-fdba-d5e4-86ac5a68cecf
+ms.date: 06/08/2017
 ---
 
 

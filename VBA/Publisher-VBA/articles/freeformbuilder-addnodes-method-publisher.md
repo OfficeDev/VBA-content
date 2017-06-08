@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FreeformBuilder.AddNodes
 ms.assetid: 29906bde-e6a6-f661-0f3f-085f39653e42
+ms.date: 06/08/2017
 ---
 
 

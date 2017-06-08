@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.ShowVisualBasicEditor
 ms.assetid: 8c9aeca6-64c3-f67d-1106-f0ab20c4d582
+ms.date: 06/08/2017
 ---
 
 

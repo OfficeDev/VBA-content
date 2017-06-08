@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.AlternativeText
 ms.assetid: 0ffde7b0-8a91-5456-e092-379491327a15
+ms.date: 06/08/2017
 ---
 
 

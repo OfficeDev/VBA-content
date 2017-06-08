@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ViewFont.ExtendedColor
 ms.assetid: 6d7c33a6-e69a-3449-1ede-d3919d774791
+ms.date: 06/08/2017
 ---
 
 

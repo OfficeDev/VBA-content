@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DefaultWebOptions.RelyOnCSS
 ms.assetid: 7700b648-9313-db23-bf27-5b73f21e5bce
+ms.date: 06/08/2017
 ---
 
 

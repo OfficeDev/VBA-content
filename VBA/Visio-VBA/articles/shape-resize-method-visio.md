@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Resize
 ms.assetid: ce8e9253-e1bb-e542-30eb-f9ac2e4305da
+ms.date: 06/08/2017
 ---
 
 

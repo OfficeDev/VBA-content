@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.OLEFormat
 ms.assetid: ff454e81-5c55-5deb-9816-0eb06b236a95
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sentences.First
 ms.assetid: 4d9e4010-4aac-c060-285c-5a4665062874
+ms.date: 06/08/2017
 ---
 
 

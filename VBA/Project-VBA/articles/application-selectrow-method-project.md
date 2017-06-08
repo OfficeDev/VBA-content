@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectRow
 ms.assetid: 63d31b23-3edb-9cd9-16c5-ac4ca4555a2c
+ms.date: 06/08/2017
 ---
 
 

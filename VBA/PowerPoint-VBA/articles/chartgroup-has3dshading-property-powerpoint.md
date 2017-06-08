@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.Has3DShading
 ms.assetid: 6276bf7a-9d21-9eda-6ad9-6153c9a74948
+ms.date: 06/08/2017
 ---
 
 

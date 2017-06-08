@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailAuthor.Style
 ms.assetid: e60dadf7-affd-3bcf-e4a9-d4f083bca000
+ms.date: 06/08/2017
 ---
 
 

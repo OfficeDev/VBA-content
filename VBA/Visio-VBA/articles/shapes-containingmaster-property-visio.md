@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shapes.ContainingMaster
 ms.assetid: e7758236-92af-1a3a-fe1b-bce94a186eb9
+ms.date: 06/08/2017
 ---
 
 

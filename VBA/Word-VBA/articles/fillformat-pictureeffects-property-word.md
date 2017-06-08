@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.PictureEffects
 ms.assetid: 810143d0-ccef-5e39-68b0-7317fd29febc
+ms.date: 06/08/2017
 ---
 
 

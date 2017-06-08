@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdInsertCells
 ms.assetid: a2663d30-ef0e-f7b5-9cb5-e1afe5aff0d9
+ms.date: 06/08/2017
 ---
 
 

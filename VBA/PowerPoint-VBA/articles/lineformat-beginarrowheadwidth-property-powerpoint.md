@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.BeginArrowheadWidth
 ms.assetid: 3834e2c8-d153-57f8-014e-1545326dd370
+ms.date: 06/08/2017
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: TextRange2.Cut Method (PowerPoint)
 ms.assetid: 65095843-c03d-4860-be7d-e50fc0e4366d
+ms.date: 06/08/2017
 ---
 
 

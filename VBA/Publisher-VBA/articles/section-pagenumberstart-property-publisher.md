@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Section.PageNumberStart
 ms.assetid: f4124b7d-4a90-2489-13da-947df0c34a3d
+ms.date: 06/08/2017
 ---
 
 

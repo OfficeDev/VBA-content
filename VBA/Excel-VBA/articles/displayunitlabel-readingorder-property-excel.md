@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.ReadingOrder
 ms.assetid: fdb6d794-bf1d-2ce6-157a-2aac987c347d
+ms.date: 06/08/2017
 ---
 
 

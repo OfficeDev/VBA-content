@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.Parent
 ms.assetid: f375389b-f37d-2f26-0eab-828924b5e6f8
+ms.date: 06/08/2017
 ---
 
 

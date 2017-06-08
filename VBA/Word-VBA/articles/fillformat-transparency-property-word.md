@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.Transparency
 ms.assetid: a3fa8665-1cc1-347a-f4fd-0349e0771e67
+ms.date: 06/08/2017
 ---
 
 

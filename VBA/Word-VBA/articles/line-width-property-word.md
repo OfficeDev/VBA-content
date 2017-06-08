@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Line.Width
 ms.assetid: 00aac43b-9638-808e-f203-6021f833ffcb
+ms.date: 06/08/2017
 ---
 
 

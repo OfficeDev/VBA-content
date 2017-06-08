@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.BaselineOffset
 ms.assetid: 93062fdc-25fd-3fe2-1b12-5301057bb1a7
+ms.date: 06/08/2017
 ---
 
 

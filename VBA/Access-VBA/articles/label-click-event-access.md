@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.Click
 ms.assetid: 0fc45b32-481e-9bcc-f308-6b45801251c5
+ms.date: 06/08/2017
 ---
 
 

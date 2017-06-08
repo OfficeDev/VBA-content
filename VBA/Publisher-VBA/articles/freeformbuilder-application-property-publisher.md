@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FreeformBuilder.Application
 ms.assetid: 1b0a2ffc-8727-5b99-fc8f-955588316394
+ms.date: 06/08/2017
 ---
 
 

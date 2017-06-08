@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.Shading
 ms.assetid: 0c5c0ebe-d7cb-ff55-c77c-2c0c36a6c98a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Line3DGroup
 ms.assetid: 8624511a-41fe-52ea-2ea8-e45af74206c0
+ms.date: 06/08/2017
 ---
 
 

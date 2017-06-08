@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.Close
 ms.assetid: a2514e35-cdcf-ba93-ad55-b0cc6f64bd78
+ms.date: 06/08/2017
 ---
 
 

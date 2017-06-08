@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Hyperlinks
 ms.assetid: c90c3779-cbb9-4174-3002-850750b4bb41
+ms.date: 06/08/2017
 ---
 
 

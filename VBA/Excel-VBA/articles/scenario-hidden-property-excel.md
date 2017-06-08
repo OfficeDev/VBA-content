@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenario.Hidden
 ms.assetid: a3155e73-3dda-5d27-f494-e947ae0f8bdd
+ms.date: 06/08/2017
 ---
 
 

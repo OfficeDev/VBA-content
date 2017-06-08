@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCConnection.SaveAsODC
 ms.assetid: a499de7c-ee4a-22d2-ff35-33489fcf4fe1
+ms.date: 06/08/2017
 ---
 
 

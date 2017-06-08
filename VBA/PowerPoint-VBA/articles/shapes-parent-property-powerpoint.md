@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.Parent
 ms.assetid: b6d9ba88-0073-3482-b7fb-5f9d36f79b48
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.SheetsInNewWorkbook
 ms.assetid: e2615d23-e0e0-34c4-0fd3-25f46a0d017b
+ms.date: 06/08/2017
 ---
 
 

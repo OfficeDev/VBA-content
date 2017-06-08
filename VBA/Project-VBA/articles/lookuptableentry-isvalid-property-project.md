@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.LookupTableEntry.IsValid
 ms.assetid: 8c05e135-f507-5449-bef9-89b2d859f5f5
+ms.date: 06/08/2017
 ---
 
 

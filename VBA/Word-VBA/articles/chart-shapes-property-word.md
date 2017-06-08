@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.Shapes
 ms.assetid: bbc30f17-b984-683f-cd6d-9080f3c29897
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowParagraphs
 ms.assetid: 17b2ea55-14d3-1606-1d45-da601009a209
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.HomeAddressCity
 ms.assetid: 1d2334f2-0401-3bcc-53bf-fa55e1664d9c
+ms.date: 06/08/2017
 ---
 
 

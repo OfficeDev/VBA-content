@@ -2,6 +2,7 @@
 title: Outlook Controls
 ms.prod: OUTLOOK
 ms.assetid: ae0731c4-fa57-4295-a8b4-ed70af53dfc7
+ms.date: 06/08/2017
 ---
 
 

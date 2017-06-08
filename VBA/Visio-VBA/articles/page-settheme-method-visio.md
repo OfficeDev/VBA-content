@@ -2,6 +2,7 @@
 title: Page.SetTheme Method (Visio)
 ms.prod: VISIO
 ms.assetid: 5a186f58-9a7a-bd8a-826b-85da75a4d59f
+ms.date: 06/08/2017
 ---
 
 

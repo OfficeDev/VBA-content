@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.ClearCircles
 ms.assetid: 74795226-886b-5922-5448-b93355415bd1
+ms.date: 06/08/2017
 ---
 
 

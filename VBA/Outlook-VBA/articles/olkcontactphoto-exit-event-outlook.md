@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkContactPhoto.Exit
 ms.assetid: 8bc0e21f-7376-3bc7-5006-a00031686229
+ms.date: 06/08/2017
 ---
 
 

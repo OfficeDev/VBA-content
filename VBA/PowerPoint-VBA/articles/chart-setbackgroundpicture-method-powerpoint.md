@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.SetBackgroundPicture
 ms.assetid: 82514386-9fb7-08b9-ae86-85e94deb0df3
+ms.date: 06/08/2017
 ---
 
 

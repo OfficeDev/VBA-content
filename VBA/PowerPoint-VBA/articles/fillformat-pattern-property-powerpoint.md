@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.Pattern
 ms.assetid: 843504d6-d9a5-f732-89eb-d2d3d1ea4477
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AddIns.Count
 ms.assetid: 5ccbf78a-3585-8de5-78c9-b27f32d8f5c9
+ms.date: 06/08/2017
 ---
 
 

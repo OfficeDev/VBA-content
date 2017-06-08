@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrectEntry.RichText
 ms.assetid: f612473f-d051-1b22-3274-dbd0dd8c49ac
+ms.date: 06/08/2017
 ---
 
 

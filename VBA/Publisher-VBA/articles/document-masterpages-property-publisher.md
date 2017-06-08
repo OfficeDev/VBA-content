@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.MasterPages
 ms.assetid: 26e5342b-94f0-4fd5-2743-92cfd2d43a01
+ms.date: 06/08/2017
 ---
 
 

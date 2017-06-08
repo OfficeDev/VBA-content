@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.Close
 ms.assetid: 59772b1d-823e-70d6-97d7-a5ddb44abdcc
+ms.date: 06/08/2017
 ---
 
 

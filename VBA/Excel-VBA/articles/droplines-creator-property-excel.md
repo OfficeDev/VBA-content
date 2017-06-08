@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DropLines.Creator
 ms.assetid: c1c7acab-e33b-ec58-6303-c31923c3f1fc
+ms.date: 06/08/2017
 ---
 
 

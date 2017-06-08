@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.CreateRecipient
 ms.assetid: 7134c0d7-5f60-c63c-2dde-492d52b78fbe
+ms.date: 06/08/2017
 ---
 
 

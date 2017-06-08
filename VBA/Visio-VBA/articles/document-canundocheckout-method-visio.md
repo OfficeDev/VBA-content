@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.CanUndoCheckOut
 ms.assetid: aa271635-73ef-b681-364c-49d515fd54cb
+ms.date: 06/08/2017
 ---
 
 

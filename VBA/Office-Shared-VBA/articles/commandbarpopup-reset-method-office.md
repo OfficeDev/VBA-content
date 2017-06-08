@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Reset
 ms.assetid: 8e31b4e2-66d1-b902-f837-dc4833b1607f
+ms.date: 06/08/2017
 ---
 
 

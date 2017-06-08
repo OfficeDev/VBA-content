@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LineFormat.BeginArrowheadStyle
 ms.assetid: 5f327e3f-d6bf-9709-e6bb-7be7f701899b
+ms.date: 06/08/2017
 ---
 
 

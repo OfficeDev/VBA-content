@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.SelLength
 ms.assetid: 89d040ba-b28f-20f1-e449-1c533370b711
+ms.date: 06/08/2017
 ---
 
 

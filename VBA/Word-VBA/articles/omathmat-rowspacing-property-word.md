@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMat.RowSpacing
 ms.assetid: d5719ecb-206b-368b-939b-0115ec84269f
+ms.date: 06/08/2017
 ---
 
 

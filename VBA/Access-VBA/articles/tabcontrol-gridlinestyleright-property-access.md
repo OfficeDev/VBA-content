@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.GridlineStyleRight
 ms.assetid: 10283c49-2f6e-7a32-3ad4-16317054b2f5
+ms.date: 06/08/2017
 ---
 
 

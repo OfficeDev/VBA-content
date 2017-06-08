@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DefaultRectangleDataObject
 ms.assetid: 22e7f5ff-516d-4bd0-82bf-2363d1cad973
+ms.date: 06/08/2017
 ---
 
 

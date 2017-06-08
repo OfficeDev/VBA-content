@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.OnGotFocus
 ms.assetid: 3c3f637b-1027-b758-f02d-2f4d3aeb1f6f
+ms.date: 06/08/2017
 ---
 
 

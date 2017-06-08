@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Attachments
 ms.assetid: fa2c0fb9-e692-cb0f-6029-3192fe235349
+ms.date: 06/08/2017
 ---
 
 

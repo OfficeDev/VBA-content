@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.Select
 ms.assetid: daade35b-6084-8c5a-0ac6-671e18750e32
+ms.date: 06/08/2017
 ---
 
 

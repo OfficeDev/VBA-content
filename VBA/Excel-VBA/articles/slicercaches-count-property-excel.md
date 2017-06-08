@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCaches.Count
 ms.assetid: 135299b6-99f4-cb19-f52c-84a625c0e05f
+ms.date: 06/08/2017
 ---
 
 

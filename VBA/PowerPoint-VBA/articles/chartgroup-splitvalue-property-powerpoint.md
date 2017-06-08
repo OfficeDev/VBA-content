@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.SplitValue
 ms.assetid: a5698b4c-3833-d1e5-98d6-d49b19c7cbb5
+ms.date: 06/08/2017
 ---
 
 

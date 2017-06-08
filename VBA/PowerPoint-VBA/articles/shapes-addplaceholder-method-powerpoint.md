@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddPlaceholder
 ms.assetid: 10927d59-1810-2f91-eb52-c42113570ccc
+ms.date: 06/08/2017
 ---
 
 

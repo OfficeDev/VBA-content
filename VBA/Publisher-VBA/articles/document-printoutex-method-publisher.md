@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.PrintOutEx
 ms.assetid: f11b6f8b-08a0-28f6-5930-47d684585bef
+ms.date: 06/08/2017
 ---
 
 

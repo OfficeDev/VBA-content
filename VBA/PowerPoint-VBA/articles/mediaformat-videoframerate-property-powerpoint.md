@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.VideoFrameRate
 ms.assetid: be5d53cc-a026-4b7c-1b56-9b933733c199
+ms.date: 06/08/2017
 ---
 
 

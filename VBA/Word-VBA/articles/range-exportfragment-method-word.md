@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.ExportFragment
 ms.assetid: 85c72276-9118-4156-22f9-84d00e7746da
+ms.date: 06/08/2017
 ---
 
 

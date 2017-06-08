@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.BodyFormat
 ms.assetid: f635a0bc-20b7-206c-f558-a4ca2519670f
+ms.date: 06/08/2017
 ---
 
 

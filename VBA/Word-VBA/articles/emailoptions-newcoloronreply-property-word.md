@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.NewColorOnReply
 ms.assetid: f7878b23-46a3-7950-7b45-28810de58f91
+ms.date: 06/08/2017
 ---
 
 

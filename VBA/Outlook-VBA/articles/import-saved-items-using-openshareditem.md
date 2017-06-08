@@ -2,6 +2,7 @@
 title: Import Saved Items using OpenSharedItem
 ms.prod: OUTLOOK
 ms.assetid: e3e770c4-a4fd-6484-dbee-0d5e5141d9f9
+ms.date: 06/08/2017
 ---
 
 

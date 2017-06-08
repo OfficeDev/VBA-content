@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.Theme
 ms.assetid: 8d7852e1-2edb-9e56-2b05-f339d7436d6e
+ms.date: 06/08/2017
 ---
 
 

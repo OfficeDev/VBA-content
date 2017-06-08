@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.AppMove
 ms.assetid: 73ab96b7-4985-b25f-d202-89e6230e6e4e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.CustomizationContext
 ms.assetid: 87c4fb87-1a59-fc0f-ca92-47e5d9c7c588
+ms.date: 06/08/2017
 ---
 
 

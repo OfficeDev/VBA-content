@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DetailStylesFormat
 ms.assetid: df3b7963-134f-be55-715e-2e4c214b35fc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListDataFormat.MaxCharacters
 ms.assetid: b8d73844-6f2b-7888-8268-a27cbfcc709c
+ms.date: 06/08/2017
 ---
 
 

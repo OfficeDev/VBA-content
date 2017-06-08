@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Bookmark.Start
 ms.assetid: 42b44a7c-0d2a-daa6-a5ec-ef54d01cb5c3
+ms.date: 06/08/2017
 ---
 
 

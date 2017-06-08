@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.BrowseExtraFileTypes
 ms.assetid: e411bb7a-d40f-1bda-5424-6202ba346717
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: ViewCtl Properties (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 36e0eb6f-7202-4ca0-a7a9-ca7edb063557
+ms.date: 06/08/2017
 ---
 
 

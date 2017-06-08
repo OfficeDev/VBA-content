@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ScopeFolders.Application
 ms.assetid: 7dc9464e-1572-5fdb-cde5-1ffc185917b9
+ms.date: 06/08/2017
 ---
 
 

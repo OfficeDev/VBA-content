@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowPicturePlaceHolders
 ms.assetid: 6a3d1529-57ab-eb56-225e-dee87ebc1185
+ms.date: 06/08/2017
 ---
 
 

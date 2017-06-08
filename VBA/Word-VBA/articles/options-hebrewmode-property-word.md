@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.HebrewMode
 ms.assetid: 8a98159e-099d-299c-c955-2190d683d450
+ms.date: 06/08/2017
 ---
 
 

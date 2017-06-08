@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertCaption
 ms.assetid: 848c1686-ca8c-d022-68f1-74a2f3d46498
+ms.date: 06/08/2017
 ---
 
 

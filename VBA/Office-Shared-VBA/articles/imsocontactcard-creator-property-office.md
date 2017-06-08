@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IMsoContactCard.Creator
 ms.assetid: b08671d9-07cb-e72b-dff0-76d596b8f98c
+ms.date: 06/08/2017
 ---
 
 

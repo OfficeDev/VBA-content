@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.InternetFreeBusyAddress
 ms.assetid: b45fdf0f-1474-5a67-b628-f74e3c1aabb8
+ms.date: 06/08/2017
 ---
 
 

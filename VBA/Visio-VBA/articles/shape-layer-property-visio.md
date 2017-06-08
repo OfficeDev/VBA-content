@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Layer
 ms.assetid: fb076dda-fa1f-a1fe-c97b-03ba3c7041f0
+ms.date: 06/08/2017
 ---
 
 

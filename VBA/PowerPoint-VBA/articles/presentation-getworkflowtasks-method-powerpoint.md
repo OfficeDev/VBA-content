@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.GetWorkflowTasks
 ms.assetid: d589e00c-3f1b-77e6-d021-b67b4d045c9a
+ms.date: 06/08/2017
 ---
 
 

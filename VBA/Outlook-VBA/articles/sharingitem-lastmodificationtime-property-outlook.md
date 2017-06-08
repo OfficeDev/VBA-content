@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.LastModificationTime
 ms.assetid: 32c8193a-3c40-40a7-08d1-b9e72f958999
+ms.date: 06/08/2017
 ---
 
 

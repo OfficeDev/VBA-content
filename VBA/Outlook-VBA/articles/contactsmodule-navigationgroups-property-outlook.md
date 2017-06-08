@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactsModule.NavigationGroups
 ms.assetid: eb4da215-0326-e2c0-a2f0-8ac86b3856a0
+ms.date: 06/08/2017
 ---
 
 

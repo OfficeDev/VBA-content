@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.TabStop
 ms.assetid: ecb9ede6-e7a8-ca91-9ca3-3fad9de2ef90
+ms.date: 06/08/2017
 ---
 
 

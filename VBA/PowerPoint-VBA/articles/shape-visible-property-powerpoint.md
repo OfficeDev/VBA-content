@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Visible
 ms.assetid: bf4d6dc9-fcae-1ae8-000f-736efcad34fc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.Close
 ms.assetid: 8f9f7e13-e2c9-a1ad-66cf-83c66b72fa6c
+ms.date: 06/08/2017
 ---
 
 

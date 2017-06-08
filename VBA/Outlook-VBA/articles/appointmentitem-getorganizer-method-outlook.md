@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.GetOrganizer
 ms.assetid: c6cd89b6-d0ab-721b-5671-c057b0646c24
+ms.date: 06/08/2017
 ---
 
 

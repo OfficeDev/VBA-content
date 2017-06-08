@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Action.Execute
 ms.assetid: 84b8e3cb-9faf-311d-d183-45a56e555f88
+ms.date: 06/08/2017
 ---
 
 

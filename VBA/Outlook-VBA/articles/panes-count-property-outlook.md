@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Panes.Count
 ms.assetid: 381a7d3f-9d39-4df2-55bb-cc799aa5ea8e
+ms.date: 06/08/2017
 ---
 
 

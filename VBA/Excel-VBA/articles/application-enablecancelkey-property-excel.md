@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.EnableCancelKey
 ms.assetid: 7c9c17b3-dd04-c914-4ed5-a6ef81ccf0c3
+ms.date: 06/08/2017
 ---
 
 

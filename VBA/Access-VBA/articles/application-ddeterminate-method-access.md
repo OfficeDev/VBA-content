@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DDETerminate
 ms.assetid: 97684f64-dd80-03b6-965d-42e9d0e6f264
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PaperHeight
 ms.assetid: 305356e8-69d6-bae3-5136-d931fcf967b5
+ms.date: 06/08/2017
 ---
 
 

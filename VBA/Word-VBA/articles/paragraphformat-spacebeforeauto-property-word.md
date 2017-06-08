@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.SpaceBeforeAuto
 ms.assetid: c3c86ee1-c62f-d921-2dc7-d7201b181622
+ms.date: 06/08/2017
 ---
 
 

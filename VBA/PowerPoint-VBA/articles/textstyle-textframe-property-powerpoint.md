@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextStyle.TextFrame
 ms.assetid: f7089a7e-add2-1fbc-f5c9-632bcd080597
+ms.date: 06/08/2017
 ---
 
 

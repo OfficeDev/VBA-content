@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.Categories
 ms.assetid: a4e0c824-fc22-76b0-e9e5-03265aec7066
+ms.date: 06/08/2017
 ---
 
 

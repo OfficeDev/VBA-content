@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AxisTitle.Orientation
 ms.assetid: f1bb3b1f-d0ae-4cd2-d406-75690cb43714
+ms.date: 06/08/2017
 ---
 
 

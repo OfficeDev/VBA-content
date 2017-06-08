@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBulletedLists
 ms.assetid: b8bb6d3f-2226-db63-6edd-e8313a13c8c7
+ms.date: 06/08/2017
 ---
 
 

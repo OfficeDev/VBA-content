@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdStyleSheetPrecedence
 ms.assetid: b9f8ccd6-bb72-2a86-446c-57e755bf423a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.AutoFormatRules
 ms.assetid: c104eaaa-0716-df59-df07-e0398c42c527
+ms.date: 06/08/2017
 ---
 
 

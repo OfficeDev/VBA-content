@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SmartCutPaste
 ms.assetid: 57e481b6-f3c4-8da4-2580-4abbbf21a95e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FillFormat.GradientDegree
 ms.assetid: b2eba471-5f03-4904-f876-edea4d40a908
+ms.date: 06/08/2017
 ---
 
 

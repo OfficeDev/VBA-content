@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AddItem
 ms.assetid: cd8ce314-7ba2-5930-5747-4eb89c649630
+ms.date: 06/08/2017
 ---
 
 

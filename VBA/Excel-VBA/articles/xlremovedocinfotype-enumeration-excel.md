@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlRemoveDocInfoType
 ms.assetid: b85c9eb6-8644-3866-b03c-08a46c1f70f6
+ms.date: 06/08/2017
 ---
 
 

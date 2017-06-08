@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.LockAspectRatio
 ms.assetid: 1b517827-ebe0-a6ae-0fd7-fe3049eb6d04
+ms.date: 06/08/2017
 ---
 
 

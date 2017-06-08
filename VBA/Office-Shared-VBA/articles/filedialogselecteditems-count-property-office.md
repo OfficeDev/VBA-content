@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialogSelectedItems.Count
 ms.assetid: c571c03e-02de-f0a3-0e3f-1fdf9f0d221c
+ms.date: 06/08/2017
 ---
 
 

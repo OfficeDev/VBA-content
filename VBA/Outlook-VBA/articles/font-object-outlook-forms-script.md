@@ -2,6 +2,7 @@
 title: Font Object (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 490830cf-9278-eb83-5c4b-82b03c91761b
+ms.date: 06/08/2017
 ---
 
 

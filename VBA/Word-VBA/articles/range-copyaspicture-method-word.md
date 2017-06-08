@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.CopyAsPicture
 ms.assetid: b104bb78-9e76-37c7-2102-f71a3d8ddabb
+ms.date: 06/08/2017
 ---
 
 

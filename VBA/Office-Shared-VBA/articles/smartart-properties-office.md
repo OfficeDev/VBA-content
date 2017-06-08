@@ -2,6 +2,7 @@
 title: SmartArt Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: d6871fee-08d1-4727-b81d-26ad1e83b771
+ms.date: 06/08/2017
 ---
 
 

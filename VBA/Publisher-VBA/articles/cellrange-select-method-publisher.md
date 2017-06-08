@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CellRange.Select
 ms.assetid: 15b0fc0b-8cac-9ff9-bac3-cf15351c7645
+ms.date: 06/08/2017
 ---
 
 

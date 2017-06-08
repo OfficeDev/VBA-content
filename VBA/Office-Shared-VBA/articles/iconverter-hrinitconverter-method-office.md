@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IConverter.HrInitConverter
 ms.assetid: bdc97478-6929-7829-b663-e02194b40e33
+ms.date: 06/08/2017
 ---
 
 

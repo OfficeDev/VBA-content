@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DropCallout
 ms.assetid: 72edbd4b-e068-6dac-0298-9f746a728892
+ms.date: 06/08/2017
 ---
 
 

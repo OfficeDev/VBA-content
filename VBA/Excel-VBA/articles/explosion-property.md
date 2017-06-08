@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Explosion
 ms.assetid: 252a3533-28df-4317-8af1-7509339409a5
+ms.date: 06/08/2017
 ---
 
 

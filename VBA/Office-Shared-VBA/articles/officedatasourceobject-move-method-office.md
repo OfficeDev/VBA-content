@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.OfficeDataSourceObject.Move
 ms.assetid: cf732e6c-58b3-94a7-5081-3f1350800fd0
+ms.date: 06/08/2017
 ---
 
 

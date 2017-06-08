@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ThemeEffectScheme.Application
 ms.assetid: 9308a820-3a62-1b7e-e137-74bf17c102c3
+ms.date: 06/08/2017
 ---
 
 

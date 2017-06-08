@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.OutlineCode1
 ms.assetid: 7ae60245-8135-45cc-a609-fb2df1dfdd11
+ms.date: 06/08/2017
 ---
 
 

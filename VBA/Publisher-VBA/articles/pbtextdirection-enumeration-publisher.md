@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbTextDirection
 ms.assetid: 8a9ce32b-5dbb-6f11-5783-f6fdd190dab6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Width
 ms.assetid: 75292953-ccd6-8550-f7ec-38df79ad1db1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.TaskSubject
 ms.assetid: f80c702f-70fa-d7c4-fcc5-b85d802a8d40
+ms.date: 06/08/2017
 ---
 
 

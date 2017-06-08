@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ResourceMappingDialog
 ms.assetid: b465a823-769f-7e3e-2f2c-98bda2502e0a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlGridLineStyle
 ms.assetid: ca89d3fc-eaa2-990f-641e-76a394f22e42
+ms.date: 06/08/2017
 ---
 
 

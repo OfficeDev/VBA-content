@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Version.Open
 ms.assetid: 97880749-0cf1-21bb-e268-8907e424127a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseProjectProfiles
 ms.assetid: b9f9b381-246b-ffc0-e505-1d33fa349fc7
+ms.date: 06/08/2017
 ---
 
 

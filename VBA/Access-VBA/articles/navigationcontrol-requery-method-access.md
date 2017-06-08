@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.Requery
 ms.assetid: 613e89e1-5e02-d2da-4881-c77f3d8cb55e
+ms.date: 06/08/2017
 ---
 
 

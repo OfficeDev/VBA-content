@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.XValues
 ms.assetid: 4f558f99-dc9a-a979-9c21-a9b625716cce
+ms.date: 06/08/2017
 ---
 
 

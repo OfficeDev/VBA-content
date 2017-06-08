@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.SetLeftIndent
 ms.assetid: 44e8d024-5a7c-b4cb-1f14-341954fe66c8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Disconnect
 ms.assetid: ece61baa-dfe7-7b61-5c45-49de4cf0e394
+ms.date: 06/08/2017
 ---
 
 

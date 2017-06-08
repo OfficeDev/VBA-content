@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Import
 ms.assetid: 07c858ee-0bbc-5ac1-37be-1e853cdf2361
+ms.date: 06/08/2017
 ---
 
 

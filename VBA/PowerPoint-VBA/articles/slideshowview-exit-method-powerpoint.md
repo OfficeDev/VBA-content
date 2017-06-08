@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.Exit
 ms.assetid: 9abcb628-395b-02bf-3a61-d0c7b8429741
+ms.date: 06/08/2017
 ---
 
 

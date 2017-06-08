@@ -1,6 +1,7 @@
 ---
 title: Shapes.AddChart2 Method (PowerPoint)
 ms.assetid: 07f225bc-1c0d-cca5-b6a3-9de0a018eb4c
+ms.date: 06/08/2017
 ---
 
 

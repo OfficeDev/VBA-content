@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SectionProperties.SectionID
 ms.assetid: eec3a584-8f97-ae9f-9630-0b34964a5c02
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarStyleBaseline
 ms.assetid: c9cb0ebb-998c-c9ea-9d3f-5cb06813c364
+ms.date: 06/08/2017
 ---
 
 

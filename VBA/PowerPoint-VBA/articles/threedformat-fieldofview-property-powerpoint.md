@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.FieldOfView
 ms.assetid: 991e095d-bf1a-bd8f-ed7f-23acd54ae04c
+ms.date: 06/08/2017
 ---
 
 

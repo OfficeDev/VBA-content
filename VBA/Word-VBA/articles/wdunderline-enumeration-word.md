@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdUnderline
 ms.assetid: 86f6f0b8-ac63-bd2d-bf59-adb6689704b8
+ms.date: 06/08/2017
 ---
 
 

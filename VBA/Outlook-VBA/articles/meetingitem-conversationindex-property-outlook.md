@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.ConversationIndex
 ms.assetid: 0c1ab025-e215-57fb-78ff-6260d45e6ad9
+ms.date: 06/08/2017
 ---
 
 

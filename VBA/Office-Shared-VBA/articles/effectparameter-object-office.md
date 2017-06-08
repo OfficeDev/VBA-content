@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EffectParameter
 ms.assetid: 975669fc-cf50-ac64-e6b5-84ff5397829b
+ms.date: 06/08/2017
 ---
 
 

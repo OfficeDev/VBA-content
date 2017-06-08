@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrectEntries.Parent
 ms.assetid: 5c9aefe1-18c1-1b4a-64e0-1ca047ee198a
+ms.date: 06/08/2017
 ---
 
 

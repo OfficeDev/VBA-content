@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.IterationMode
 ms.assetid: e4cd372c-a156-364d-f051-d9a8c618bd2c
+ms.date: 06/08/2017
 ---
 
 

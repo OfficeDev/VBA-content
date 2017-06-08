@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.StyleAreaWidth
 ms.assetid: 2256deb8-1682-3c09-ac64-0557185c3d39
+ms.date: 06/08/2017
 ---
 
 

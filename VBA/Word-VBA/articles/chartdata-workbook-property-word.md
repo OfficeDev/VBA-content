@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartData.Workbook
 ms.assetid: 2295d653-7a36-b258-dfb8-f48844331705
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Index.TabLeader
 ms.assetid: 82bc6e93-1dd7-aa56-1fca-8fcb9ed72784
+ms.date: 06/08/2017
 ---
 
 

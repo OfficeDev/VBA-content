@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.Height
 ms.assetid: 80932d90-2b7a-6125-6951-bc8fc3d8af1b
+ms.date: 06/08/2017
 ---
 
 

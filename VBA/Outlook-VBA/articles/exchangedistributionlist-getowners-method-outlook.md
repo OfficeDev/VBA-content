@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeDistributionList.GetOwners
 ms.assetid: f09f5550-b750-4e39-9644-bc98a978daa2
+ms.date: 06/08/2017
 ---
 
 

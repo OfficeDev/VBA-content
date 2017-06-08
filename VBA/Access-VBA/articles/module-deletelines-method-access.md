@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.DeleteLines
 ms.assetid: 57f65c6c-4d9c-3abd-065b-b75d1ada06cb
+ms.date: 06/08/2017
 ---
 
 

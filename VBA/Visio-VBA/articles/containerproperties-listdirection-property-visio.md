@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.ListDirection
 ms.assetid: 0024e464-a865-dfd2-9936-569827e529c0
+ms.date: 06/08/2017
 ---
 
 

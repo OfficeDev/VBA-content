@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UpBars.Select
 ms.assetid: 7302a1dd-370b-a168-fe2f-cd5217bd7db1
+ms.date: 06/08/2017
 ---
 
 

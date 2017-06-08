@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.SaveSentMessageFolder
 ms.assetid: ab36ae3b-6c6d-842b-dbb4-88c37d8e7874
+ms.date: 06/08/2017
 ---
 
 

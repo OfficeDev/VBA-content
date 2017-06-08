@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AllowEditRanges.Add
 ms.assetid: f88d900d-4974-4d8d-6279-0be6376fc232
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.Change
 ms.assetid: ef109b59-c7be-0707-9716-13c86180c27c
+ms.date: 06/08/2017
 ---
 
 

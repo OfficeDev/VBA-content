@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Control.RightPadding
 ms.assetid: 3c9d50a2-42e7-f292-a3bc-42bed689fcef
+ms.date: 06/08/2017
 ---
 
 

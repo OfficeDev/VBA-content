@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IConverter.HrGetErrorString
 ms.assetid: 4ae221fd-d047-7676-a65d-ee2cd604deea
+ms.date: 06/08/2017
 ---
 
 

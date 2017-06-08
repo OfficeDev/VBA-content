@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyPunctuation
 ms.assetid: ea4cb188-7fd1-c7e5-e520-3f0826dc3cdd
+ms.date: 06/08/2017
 ---
 
 

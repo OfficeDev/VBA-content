@@ -2,6 +2,7 @@
 title: Chart.ApplyCustomType Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 2bfe88c2-198e-a039-ace6-4ba362ce09d6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.DictLang
 ms.assetid: 3564b149-5d37-88b4-a0b1-73398e9373c5
+ms.date: 06/08/2017
 ---
 
 

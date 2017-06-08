@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Calculate
 ms.assetid: 756d6143-bf92-7669-f686-be23246c3a29
+ms.date: 06/08/2017
 ---
 
 

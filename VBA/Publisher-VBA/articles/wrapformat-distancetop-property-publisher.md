@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WrapFormat.DistanceTop
 ms.assetid: 5d6f99f7-c02d-4153-077d-b8d15d246c86
+ms.date: 06/08/2017
 ---
 
 

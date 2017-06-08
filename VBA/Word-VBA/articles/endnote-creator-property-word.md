@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnote.Creator
 ms.assetid: 673d007e-fe72-cc7d-e0eb-25e533b43f98
+ms.date: 06/08/2017
 ---
 
 

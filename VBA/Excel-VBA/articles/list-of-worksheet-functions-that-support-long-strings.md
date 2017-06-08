@@ -2,6 +2,7 @@
 title: List of Worksheet Functions that Support Long Strings
 ms.prod: EXCEL
 ms.assetid: 1045f56f-980b-4c2f-9be6-2d350feb8cd7
+ms.date: 06/08/2017
 ---
 
 

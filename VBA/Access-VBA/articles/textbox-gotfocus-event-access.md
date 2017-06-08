@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.GotFocus
 ms.assetid: bc5d12a2-476b-a91d-2ad4-cdd6f46dd44c
+ms.date: 06/08/2017
 ---
 
 

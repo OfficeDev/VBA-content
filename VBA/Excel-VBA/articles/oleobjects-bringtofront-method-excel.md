@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObjects.BringToFront
 ms.assetid: 07742776-f3fd-9260-b982-b6f791d52e40
+ms.date: 06/08/2017
 ---
 
 

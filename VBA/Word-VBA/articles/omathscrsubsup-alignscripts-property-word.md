@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathScrSubSup.AlignScripts
 ms.assetid: c23100b4-7fc2-c8eb-a600-7de878af8476
+ms.date: 06/08/2017
 ---
 
 

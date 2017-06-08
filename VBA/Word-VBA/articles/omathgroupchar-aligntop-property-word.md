@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathGroupChar.AlignTop
 ms.assetid: 2c1b723b-a5b0-6d63-a2e8-d0122fef1f00
+ms.date: 06/08/2017
 ---
 
 

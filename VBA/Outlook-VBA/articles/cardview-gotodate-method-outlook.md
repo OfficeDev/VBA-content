@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.GoToDate
 ms.assetid: c68e379b-92cf-b93e-5f67-911767166d18
+ms.date: 06/08/2017
 ---
 
 

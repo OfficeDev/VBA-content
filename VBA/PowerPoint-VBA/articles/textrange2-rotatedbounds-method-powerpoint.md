@@ -1,6 +1,7 @@
 ---
 title: TextRange2.RotatedBounds Method (PowerPoint)
 ms.assetid: 8cb245a9-88e4-4261-8c68-bdd478a6d29f
+ms.date: 06/08/2017
 ---
 
 

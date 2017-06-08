@@ -2,6 +2,7 @@
 title: Constants (Visual Basic for Applications)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b901a73e-d4de-4c48-964e-9e51800bd8b4
+ms.date: 06/08/2017
 ---
 
 

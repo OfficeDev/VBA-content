@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.ShowPopup
 ms.assetid: e501b7d2-2606-976c-b391-1aa8fa07f105
+ms.date: 06/08/2017
 ---
 
 

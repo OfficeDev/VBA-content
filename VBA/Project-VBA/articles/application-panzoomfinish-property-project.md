@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.PanZoomFinish
 ms.assetid: a080b0b7-45fc-7c7e-90ee-7685ac9a1917
+ms.date: 06/08/2017
 ---
 
 

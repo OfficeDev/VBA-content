@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailingLabel.CustomLabels
 ms.assetid: c4bad9e7-8da9-d469-4d49-a3b43c5cc4de
+ms.date: 06/08/2017
 ---
 
 

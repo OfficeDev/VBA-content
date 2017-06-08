@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.UpdateFromFile
 ms.assetid: f5148b60-9b25-8a12-5cf3-40103dcff2a3
+ms.date: 06/08/2017
 ---
 
 

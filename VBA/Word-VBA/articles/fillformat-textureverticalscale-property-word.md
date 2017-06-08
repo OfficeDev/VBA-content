@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.TextureVerticalScale
 ms.assetid: 19045ed6-ccae-7403-5701-a93cec25e51f
+ms.date: 06/08/2017
 ---
 
 

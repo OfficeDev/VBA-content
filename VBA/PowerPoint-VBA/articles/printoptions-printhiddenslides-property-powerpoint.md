@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.PrintHiddenSlides
 ms.assetid: 39b5845e-7fd0-6759-bf1c-e2497acc1c61
+ms.date: 06/08/2017
 ---
 
 

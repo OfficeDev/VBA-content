@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentations.Open2007
 ms.assetid: 45bbbe1f-461c-d908-0d3b-8b4e8aa681a6
+ms.date: 06/08/2017
 ---
 
 

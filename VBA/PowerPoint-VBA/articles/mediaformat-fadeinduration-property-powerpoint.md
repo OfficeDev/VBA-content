@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.FadeInDuration
 ms.assetid: 9e415907-d39b-f7e0-2513-cb274a2ff066
+ms.date: 06/08/2017
 ---
 
 

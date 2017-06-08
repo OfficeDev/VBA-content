@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.CalculateBeforeSave
 ms.assetid: 133dbe08-8f41-c07c-8362-48412ed7c086
+ms.date: 06/08/2017
 ---
 
 

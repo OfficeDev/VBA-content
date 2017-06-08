@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.TextDirection
 ms.assetid: 42b8cd29-c467-07c9-c9c9-f644fdc824ae
+ms.date: 06/08/2017
 ---
 
 

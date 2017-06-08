@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.GeoMean
 ms.assetid: 9b999236-a220-10b2-890e-8d863c74bc74
+ms.date: 06/08/2017
 ---
 
 

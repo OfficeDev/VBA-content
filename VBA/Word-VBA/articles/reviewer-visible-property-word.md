@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Reviewer.Visible
 ms.assetid: cd60f0f1-86bd-b2ba-1dca-00295191702a
+ms.date: 06/08/2017
 ---
 
 

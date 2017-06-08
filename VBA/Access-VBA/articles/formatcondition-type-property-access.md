@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.Type
 ms.assetid: e7e47376-8d8e-025d-5f09-fc90901c2c2b
+ms.date: 06/08/2017
 ---
 
 

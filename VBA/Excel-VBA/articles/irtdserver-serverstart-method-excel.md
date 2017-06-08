@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IRtdServer.ServerStart
 ms.assetid: 5154105a-3618-fc8a-30b4-834f31c45023
+ms.date: 06/08/2017
 ---
 
 

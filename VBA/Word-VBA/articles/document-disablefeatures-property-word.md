@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DisableFeatures
 ms.assetid: 40a62de3-f74e-d604-d3fc-dfb26abeb313
+ms.date: 06/08/2017
 ---
 
 

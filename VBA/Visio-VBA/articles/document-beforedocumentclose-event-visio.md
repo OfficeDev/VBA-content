@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.BeforeDocumentClose
 ms.assetid: e35f9593-f5ee-f84b-95e6-f23a899c0d6d
+ms.date: 06/08/2017
 ---
 
 

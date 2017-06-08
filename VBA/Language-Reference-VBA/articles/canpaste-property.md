@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CanPaste
 ms.assetid: 697a2f98-8c42-663c-9ff7-0330d3977c43
+ms.date: 06/08/2017
 ---
 
 

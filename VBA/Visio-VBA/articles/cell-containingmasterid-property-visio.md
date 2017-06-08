@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.ContainingMasterID
 ms.assetid: 1daba8ed-69cd-2c80-8534-ba9fc4956292
+ms.date: 06/08/2017
 ---
 
 

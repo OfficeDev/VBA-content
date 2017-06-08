@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.Callout
 ms.assetid: 191ba6c5-20e5-458f-b3e3-751a4e566f4a
+ms.date: 06/08/2017
 ---
 
 

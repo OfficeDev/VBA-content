@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.EventProcPrefix
 ms.assetid: 578dc1f6-0977-e8b9-e96f-ae3408118456
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.GradientStops
 ms.assetid: c7b3b8b5-f15c-4479-357d-71bbeed4c6e4
+ms.date: 06/08/2017
 ---
 
 

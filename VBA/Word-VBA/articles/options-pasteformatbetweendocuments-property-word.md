@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PasteFormatBetweenDocuments
 ms.assetid: 5360b2cc-f523-75d7-764c-f3ed88986191
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.TextUnitEffect
 ms.assetid: 6948db54-775a-39d6-9d90-99ad25f9cb80
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: OptionButton.Accelerator Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: bb256067-248c-a4a3-f6d8-603724dee363
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.SlideShowBegin
 ms.assetid: f70ca9cb-11a7-2a81-19bb-36e0b0ca0b97
+ms.date: 06/08/2017
 ---
 
 

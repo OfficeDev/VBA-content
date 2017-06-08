@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Page.Creator
 ms.assetid: 9f34c6ef-12d7-f494-095a-f9b59b696e98
+ms.date: 06/08/2017
 ---
 
 

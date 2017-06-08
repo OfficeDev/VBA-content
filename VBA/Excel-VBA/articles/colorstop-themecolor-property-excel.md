@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorStop.ThemeColor
 ms.assetid: bb650754-204a-3618-d431-bf7db289ceeb
+ms.date: 06/08/2017
 ---
 
 

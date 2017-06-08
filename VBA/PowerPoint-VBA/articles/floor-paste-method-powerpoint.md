@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Floor.Paste
 ms.assetid: 60838aa7-39ea-408e-f47a-cb76144dee30
+ms.date: 06/08/2017
 ---
 
 

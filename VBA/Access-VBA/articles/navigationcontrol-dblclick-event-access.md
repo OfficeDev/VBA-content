@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.DblClick
 ms.assetid: f8f4f4d1-fbb7-e6aa-513b-fe434e50caa9
+ms.date: 06/08/2017
 ---
 
 

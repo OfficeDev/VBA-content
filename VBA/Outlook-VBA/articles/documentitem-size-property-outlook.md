@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Size
 ms.assetid: 88f12338-96b3-eb79-40f6-42512ab14a52
+ms.date: 06/08/2017
 ---
 
 

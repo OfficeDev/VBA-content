@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.COMAddIns
 ms.assetid: 182ea1e1-f896-f619-1bf0-df4a57b39abf
+ms.date: 06/08/2017
 ---
 
 

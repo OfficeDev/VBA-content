@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationGroup.NavigationFolders
 ms.assetid: 06e58adc-99d7-dd84-4d23-7f845850ff98
+ms.date: 06/08/2017
 ---
 
 

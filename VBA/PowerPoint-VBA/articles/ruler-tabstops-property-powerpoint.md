@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Ruler.TabStops
 ms.assetid: 11cc74dc-8efe-3327-87a1-0880e925040d
+ms.date: 06/08/2017
 ---
 
 

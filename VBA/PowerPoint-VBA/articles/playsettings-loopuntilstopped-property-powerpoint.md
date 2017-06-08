@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlaySettings.LoopUntilStopped
 ms.assetid: b1c89b63-51cf-5ab3-4d98-2dd0a14f3d0e
+ms.date: 06/08/2017
 ---
 
 

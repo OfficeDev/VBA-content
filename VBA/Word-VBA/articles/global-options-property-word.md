@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.Options
 ms.assetid: 1d73dd2d-2fdd-7f12-ce6d-c6b7542d284c
+ms.date: 06/08/2017
 ---
 
 

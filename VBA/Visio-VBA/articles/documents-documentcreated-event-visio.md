@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.DocumentCreated
 ms.assetid: 3a436635-0148-2e24-8080-31f8e89282da
+ms.date: 06/08/2017
 ---
 
 

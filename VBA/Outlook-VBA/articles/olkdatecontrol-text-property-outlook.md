@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.Text
 ms.assetid: fda479bc-c613-171f-4e81-efe9c548fd81
+ms.date: 06/08/2017
 ---
 
 

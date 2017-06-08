@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Windows2.ActiveWindow
 ms.assetid: 37ac1beb-40ee-4563-f69f-09a78471a34b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Store.RefreshQuotaDisplay
 ms.assetid: 131540a9-f803-29a8-82e1-caa7f14298ef
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Duplicate
 ms.assetid: bee676c8-cbc5-eaf9-0248-ad6098ce3c7f
+ms.date: 06/08/2017
 ---
 
 

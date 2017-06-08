@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion.FontColor
 ms.assetid: 9765d7a2-0f6e-8fa1-210a-9ad138bae9a7
+ms.date: 06/08/2017
 ---
 
 

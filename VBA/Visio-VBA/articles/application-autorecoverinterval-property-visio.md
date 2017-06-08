@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AutoRecoverInterval
 ms.assetid: 06aa731b-b426-a1a2-a25b-8ac32133eb1a
+ms.date: 06/08/2017
 ---
 
 

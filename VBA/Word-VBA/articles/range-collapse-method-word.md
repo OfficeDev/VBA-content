@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Collapse
 ms.assetid: fa5cae70-f047-e300-52f7-bd75d9c613da
+ms.date: 06/08/2017
 ---
 
 

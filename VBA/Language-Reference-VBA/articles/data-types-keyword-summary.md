@@ -2,6 +2,7 @@
 title: Data Types Keyword Summary
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 8230ba79-c1e0-fd13-aee5-ef4163cbf888
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Gridlines.Format
 ms.assetid: d3cca580-e797-f317-4d0d-af75967eedb4
+ms.date: 06/08/2017
 ---
 
 

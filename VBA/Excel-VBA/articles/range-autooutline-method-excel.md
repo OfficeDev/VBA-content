@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.AutoOutline
 ms.assetid: a2553695-6d45-9b7c-7c45-5255fa3641f0
+ms.date: 06/08/2017
 ---
 
 

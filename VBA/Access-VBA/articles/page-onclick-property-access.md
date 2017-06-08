@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Page.OnClick
 ms.assetid: be4ccc80-dfab-2e44-5bfd-06dcd7d40687
+ms.date: 06/08/2017
 ---
 
 

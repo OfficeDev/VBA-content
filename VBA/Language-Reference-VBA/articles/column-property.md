@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Column
 ms.assetid: 989f9e98-8764-ca23-c90d-a64966568f86
+ms.date: 06/08/2017
 ---
 
 

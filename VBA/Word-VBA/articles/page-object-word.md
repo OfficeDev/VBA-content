@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Page
 ms.assetid: 3a3d480a-3876-515f-d13f-7ec23818245f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Bookmarks.Creator
 ms.assetid: 897e3571-2147-c92c-e07a-0bd0d75b107b
+ms.date: 06/08/2017
 ---
 
 

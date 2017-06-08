@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeFields.AddAsk
 ms.assetid: ea52714b-c7c3-a175-67b3-3ce9645218d2
+ms.date: 06/08/2017
 ---
 
 

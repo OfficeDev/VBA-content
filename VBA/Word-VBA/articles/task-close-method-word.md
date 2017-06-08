@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Task.Close
 ms.assetid: 455a51bd-90f5-b14b-497e-618fe4df5406
+ms.date: 06/08/2017
 ---
 
 

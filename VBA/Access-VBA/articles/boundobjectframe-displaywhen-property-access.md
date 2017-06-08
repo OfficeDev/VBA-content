@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.DisplayWhen
 ms.assetid: ef64a05d-562f-2aff-09aa-b3d5609854b8
+ms.date: 06/08/2017
 ---
 
 

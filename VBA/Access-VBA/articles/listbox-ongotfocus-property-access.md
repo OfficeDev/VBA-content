@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.OnGotFocus
 ms.assetid: ded32fef-1821-5288-9265-c1e1f4819efe
+ms.date: 06/08/2017
 ---
 
 

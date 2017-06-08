@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Indexes.AutoMarkEntries
 ms.assetid: ff348374-58f4-1ae6-3d3d-4978924df571
+ms.date: 06/08/2017
 ---
 
 

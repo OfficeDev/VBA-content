@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Saved
 ms.assetid: a3126c7e-5507-8942-1470-2ac11ef2178e
+ms.date: 06/08/2017
 ---
 
 

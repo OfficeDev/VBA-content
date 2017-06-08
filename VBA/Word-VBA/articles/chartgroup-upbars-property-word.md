@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.UpBars
 ms.assetid: 8581ad5f-94a1-0e12-3880-14ce2a7e9f03
+ms.date: 06/08/2017
 ---
 
 

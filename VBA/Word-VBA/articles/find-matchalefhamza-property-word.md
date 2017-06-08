@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchAlefHamza
 ms.assetid: 1023d28a-d6b7-658a-0fb2-e2f9bd11b457
+ms.date: 06/08/2017
 ---
 
 

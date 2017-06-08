@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.ClearGestureFormatSheet
 ms.assetid: 46f411b0-b822-cc7c-62e3-0b756d211d5d
+ms.date: 06/08/2017
 ---
 
 

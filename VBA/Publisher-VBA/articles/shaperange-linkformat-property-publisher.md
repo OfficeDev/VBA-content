@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.LinkFormat
 ms.assetid: 1f0add8d-7baa-65f0-e82b-a047a7bc0507
+ms.date: 06/08/2017
 ---
 
 

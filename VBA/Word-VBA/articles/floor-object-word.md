@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Floor
 ms.assetid: 01d277eb-501b-09e5-65b8-83506c76ac05
+ms.date: 06/08/2017
 ---
 
 

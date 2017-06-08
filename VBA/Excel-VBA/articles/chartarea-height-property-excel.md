@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.Height
 ms.assetid: 221e00e3-c089-cd86-69fe-73df7d41d6e8
+ms.date: 06/08/2017
 ---
 
 

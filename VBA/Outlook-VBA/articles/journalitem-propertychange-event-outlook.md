@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.PropertyChange
 ms.assetid: a04a13ea-85ce-f93e-37af-fa7b77757204
+ms.date: 06/08/2017
 ---
 
 

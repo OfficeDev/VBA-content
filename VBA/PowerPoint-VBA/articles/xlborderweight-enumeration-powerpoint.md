@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlBorderWeight
 ms.assetid: 01319126-2dc7-5232-1eef-b013a52fee67
+ms.date: 06/08/2017
 ---
 
 

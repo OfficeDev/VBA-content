@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.SmartArt
 ms.assetid: d2f3fd89-288d-ac1e-18bb-00e2d043d4cd
+ms.date: 06/08/2017
 ---
 
 

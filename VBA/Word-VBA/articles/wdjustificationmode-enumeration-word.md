@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdJustificationMode
 ms.assetid: 2da439ab-c229-d19f-6d01-8fa0f12bb0b4
+ms.date: 06/08/2017
 ---
 
 

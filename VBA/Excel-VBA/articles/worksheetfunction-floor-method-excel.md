@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Floor
 ms.assetid: c35733d5-34b9-8475-197f-4f13ae1e6c1a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoTextEntries.AppendToSpike
 ms.assetid: c54857c4-1a4b-34fc-8510-592276bd1753
+ms.date: 06/08/2017
 ---
 
 

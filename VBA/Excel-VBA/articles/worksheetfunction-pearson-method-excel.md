@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Pearson
 ms.assetid: 43ffbf17-1b1f-6949-052d-5e36862c7d7f
+ms.date: 06/08/2017
 ---
 
 

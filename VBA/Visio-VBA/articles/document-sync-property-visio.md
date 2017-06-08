@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Sync
 ms.assetid: 1e5ef6da-a665-024f-5e35-e8518f4d1054
+ms.date: 06/08/2017
 ---
 
 

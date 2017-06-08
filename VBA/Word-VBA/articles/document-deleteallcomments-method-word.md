@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DeleteAllComments
 ms.assetid: 8c0bf7fa-a4de-91e0-3e2b-bb5d8897534a
+ms.date: 06/08/2017
 ---
 
 

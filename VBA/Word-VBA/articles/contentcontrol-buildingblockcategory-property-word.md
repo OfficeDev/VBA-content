@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.BuildingBlockCategory
 ms.assetid: ca799bde-8556-381e-c9ca-74c5ac250d99
+ms.date: 06/08/2017
 ---
 
 

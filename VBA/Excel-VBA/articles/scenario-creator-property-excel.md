@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Scenario.Creator
 ms.assetid: 1609f3bb-2e78-27cb-8292-52570d4c89bb
+ms.date: 06/08/2017
 ---
 
 

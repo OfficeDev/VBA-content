@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparkAxes.Horizontal
 ms.assetid: 7519ca71-d22f-2312-b0ae-0defa3ff1991
+ms.date: 06/08/2017
 ---
 
 

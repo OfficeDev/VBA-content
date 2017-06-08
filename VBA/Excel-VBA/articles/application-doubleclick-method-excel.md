@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DoubleClick
 ms.assetid: 17958601-3e24-a7bb-7d8c-0c45b955f449
+ms.date: 06/08/2017
 ---
 
 

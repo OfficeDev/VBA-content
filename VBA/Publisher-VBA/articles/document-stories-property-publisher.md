@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.Stories
 ms.assetid: 4ffc7d20-eb11-942e-e28a-81c2caa19a50
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.Visible
 ms.assetid: b502cfc8-3221-482c-6f5b-8502a52ef411
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.VisibleItemsList
 ms.assetid: ddcc2dce-30bf-ba50-22fa-a4baf41129f5
+ms.date: 06/08/2017
 ---
 
 

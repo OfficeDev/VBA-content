@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlBarShape
 ms.assetid: 63a7cea6-e741-8e5b-94f3-16acfe22cb34
+ms.date: 06/08/2017
 ---
 
 

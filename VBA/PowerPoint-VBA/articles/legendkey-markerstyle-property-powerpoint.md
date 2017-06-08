@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.MarkerStyle
 ms.assetid: 146c9146-063e-8456-c61e-e1286eae14c1
+ms.date: 06/08/2017
 ---
 
 

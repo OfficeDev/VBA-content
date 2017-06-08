@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Printer
 ms.assetid: cb710f0e-a284-c81a-c45d-5bf66d508743
+ms.date: 06/08/2017
 ---
 
 

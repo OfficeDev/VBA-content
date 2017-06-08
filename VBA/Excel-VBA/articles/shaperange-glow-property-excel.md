@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.Glow
 ms.assetid: d2b7670f-2715-51f6-1c67-434e3ab39a67
+ms.date: 06/08/2017
 ---
 
 

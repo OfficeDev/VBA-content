@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TimeLine
 ms.assetid: 0b5a8863-8329-48d0-cb0b-3b34e87acb76
+ms.date: 06/08/2017
 ---
 
 

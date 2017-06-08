@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.OnDblClick
 ms.assetid: 8e38c442-f2b2-b125-e006-b507765fefd4
+ms.date: 06/08/2017
 ---
 
 

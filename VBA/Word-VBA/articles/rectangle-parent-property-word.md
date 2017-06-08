@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rectangle.Parent
 ms.assetid: ddc1524b-bfd1-ccab-eb6d-d0402d424f3f
+ms.date: 06/08/2017
 ---
 
 

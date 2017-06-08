@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame.MarginBottom
 ms.assetid: 50b2d7a9-8595-44a7-6f7a-ee2d2255869c
+ms.date: 06/08/2017
 ---
 
 

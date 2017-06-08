@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcPrintItemLayout
 ms.assetid: b2a3cbe7-b3ba-0635-b3ac-9c0ee3602e98
+ms.date: 06/08/2017
 ---
 
 

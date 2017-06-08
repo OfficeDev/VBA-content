@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjFilterViewType
 ms.assetid: 07a8673c-cfe4-38bd-2827-460ed9b2026d
+ms.date: 06/08/2017
 ---
 
 

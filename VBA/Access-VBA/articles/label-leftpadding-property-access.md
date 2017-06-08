@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Label.LeftPadding
 ms.assetid: db04fe7d-8496-cbf9-557e-1a284d823a11
+ms.date: 06/08/2017
 ---
 
 

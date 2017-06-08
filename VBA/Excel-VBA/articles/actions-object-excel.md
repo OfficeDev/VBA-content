@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Actions
 ms.assetid: c4175be1-826d-e5f8-6e3b-b98a1bd755ef
+ms.date: 06/08/2017
 ---
 
 

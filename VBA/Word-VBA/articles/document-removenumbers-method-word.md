@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RemoveNumbers
 ms.assetid: 2f481145-f1ef-7b80-0287-3c14a5f3d2d5
+ms.date: 06/08/2017
 ---
 
 

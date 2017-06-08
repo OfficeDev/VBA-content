@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Worksheet.Columns
 ms.assetid: 41c18561-2a87-b975-e212-97f39fe10393
+ms.date: 06/08/2017
 ---
 
 

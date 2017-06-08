@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Borders
 ms.assetid: a2b39af8-4b9a-be2a-2586-bdd3deb00bfe
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.RecordCount
 ms.assetid: 56b929bf-9b7f-dd83-98b7-35bf96028732
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetView.DisplayGridlines
 ms.assetid: 60cc2877-6332-3bb5-56f3-f98a4a7beae6
+ms.date: 06/08/2017
 ---
 
 

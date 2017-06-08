@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TickLabels.Alignment
 ms.assetid: fcf08702-02d4-b6d7-6881-9565c7b2fd23
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.VisualReportsEdit
 ms.assetid: ba439985-f18b-f9a3-23d5-3d5ae39c50dc
+ms.date: 06/08/2017
 ---
 
 

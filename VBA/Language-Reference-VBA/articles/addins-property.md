@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AddIns
 ms.assetid: 1819c194-c8ae-96a3-befc-f54e96c01e5e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.IsSandboxed
 ms.assetid: 13fbfbda-b9e5-4f5d-46e2-2d8b157c77a1
+ms.date: 06/08/2017
 ---
 
 

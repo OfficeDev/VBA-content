@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.ShowMarkupAreaHighlight
 ms.assetid: 3d7eebe1-688b-d359-7930-a5b2a908b19d
+ms.date: 06/08/2017
 ---
 
 

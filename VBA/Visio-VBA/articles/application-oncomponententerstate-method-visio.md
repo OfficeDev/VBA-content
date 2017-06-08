@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.OnComponentEnterState
 ms.assetid: f5d61cb0-d7c0-df13-f7c4-b39c7104f73a
+ms.date: 06/08/2017
 ---
 
 

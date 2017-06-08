@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Top10.Percent
 ms.assetid: 7c5073e3-f7dd-82ec-88c6-7af2b21c72e9
+ms.date: 06/08/2017
 ---
 
 

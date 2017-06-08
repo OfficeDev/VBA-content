@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabel
 ms.assetid: 3f85b4c2-5b7d-311a-95f9-ad08d5c23e39
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.GetCustomListNum
 ms.assetid: c4a97a96-333a-1021-7324-5cca4f0d9f3c
+ms.date: 06/08/2017
 ---
 
 

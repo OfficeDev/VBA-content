@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.HorizontalPosition
 ms.assetid: e71b0df4-53c0-d917-b1b7-32b0ee5205aa
+ms.date: 06/08/2017
 ---
 
 

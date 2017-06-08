@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerItem.Selected
 ms.assetid: 6eca0975-1f7b-0d23-98a5-59f38f6dae84
+ms.date: 06/08/2017
 ---
 
 

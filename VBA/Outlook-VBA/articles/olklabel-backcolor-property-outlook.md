@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkLabel.BackColor
 ms.assetid: eeffd887-7e73-a023-6f70-2b54149b8bd4
+ms.date: 06/08/2017
 ---
 
 

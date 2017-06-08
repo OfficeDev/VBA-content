@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DefaultBorderColor
 ms.assetid: 382f9780-d10d-925b-206d-d7c624b6b744
+ms.date: 06/08/2017
 ---
 
 

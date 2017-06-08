@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ExtraColors.Clear
 ms.assetid: 27c0b8a7-06aa-539a-b4c5-fc63a7ac04d4
+ms.date: 06/08/2017
 ---
 
 

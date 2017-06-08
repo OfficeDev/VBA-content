@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationFolders.Remove
 ms.assetid: ddaa3dd8-7539-ea5b-78a8-daa48ea63771
+ms.date: 06/08/2017
 ---
 
 

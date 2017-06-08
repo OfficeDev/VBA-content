@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.HasSmartArt
 ms.assetid: fd53f446-d0f9-5d67-7369-b2fdd241da4e
+ms.date: 06/08/2017
 ---
 
 

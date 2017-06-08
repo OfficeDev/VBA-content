@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdCellColor
 ms.assetid: 177745e4-de08-9e65-0185-98ff2e7301ea
+ms.date: 06/08/2017
 ---
 
 

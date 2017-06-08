@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.ColumnWidth
 ms.assetid: ac3f6bd8-22ae-5a3d-2646-2350a7e3be85
+ms.date: 06/08/2017
 ---
 
 

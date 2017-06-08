@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlotArea.InsideTop
 ms.assetid: 03f9c821-80f1-26db-580b-6e2e29e0ae9c
+ms.date: 06/08/2017
 ---
 
 

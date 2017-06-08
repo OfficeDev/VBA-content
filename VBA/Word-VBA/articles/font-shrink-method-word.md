@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Shrink
 ms.assetid: 6a4ca959-07df-2b17-f59e-c6cf1f6236c6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.BackgroundStyle
 ms.assetid: 5f085f74-8f67-94fa-213e-46be866155fe
+ms.date: 06/08/2017
 ---
 
 

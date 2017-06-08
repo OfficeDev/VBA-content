@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.BeforeDoubleClick
 ms.assetid: 406c6b9f-1182-5f5b-b954-afe10cd21a9b
+ms.date: 06/08/2017
 ---
 
 

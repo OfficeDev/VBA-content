@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectRange
 ms.assetid: 16b5925e-393b-3d4f-70d4-89213f521485
+ms.date: 06/08/2017
 ---
 
 

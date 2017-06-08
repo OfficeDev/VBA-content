@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.Resize
 ms.assetid: 6614a0d8-eb2a-01fc-eeb6-4f8abc510bf8
+ms.date: 06/08/2017
 ---
 
 

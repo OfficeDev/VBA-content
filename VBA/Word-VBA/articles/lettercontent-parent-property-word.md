@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.Parent
 ms.assetid: 5eaa9972-3c8f-ff5a-801b-fa5a0992079b
+ms.date: 06/08/2017
 ---
 
 

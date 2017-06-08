@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Correl
 ms.assetid: 8baf1d16-ab3e-918f-ad90-90b6758ae3d9
+ms.date: 06/08/2017
 ---
 
 

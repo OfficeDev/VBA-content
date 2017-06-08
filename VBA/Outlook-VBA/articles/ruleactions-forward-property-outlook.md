@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.Forward
 ms.assetid: 48315808-5ef7-3262-a305-5b659986e7a8
+ms.date: 06/08/2017
 ---
 
 

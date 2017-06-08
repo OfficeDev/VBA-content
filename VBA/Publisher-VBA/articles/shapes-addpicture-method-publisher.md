@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddPicture
 ms.assetid: a5305bd0-295f-46f6-7823-46dab750243b
+ms.date: 06/08/2017
 ---
 
 

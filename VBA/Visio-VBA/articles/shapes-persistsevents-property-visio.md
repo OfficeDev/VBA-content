@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shapes.PersistsEvents
 ms.assetid: 29cb4c52-546b-e1ef-296c-eaee9d33077c
+ms.date: 06/08/2017
 ---
 
 

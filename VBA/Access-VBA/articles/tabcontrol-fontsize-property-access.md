@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.FontSize
 ms.assetid: 19a38410-726a-bbc9-f2f8-b4688b2f7576
+ms.date: 06/08/2017
 ---
 
 

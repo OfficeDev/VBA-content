@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HPageBreak.Creator
 ms.assetid: 4cefce48-34ee-40a4-0a0c-d3dade1cb065
+ms.date: 06/08/2017
 ---
 
 

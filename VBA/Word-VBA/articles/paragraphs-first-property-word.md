@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.First
 ms.assetid: 6dd3b139-02f5-5947-efea-67b2162b77d2
+ms.date: 06/08/2017
 ---
 
 

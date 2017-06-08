@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.PresetLighting
 ms.assetid: 53d8da37-3f69-517a-e6c5-276db9ee9085
+ms.date: 06/08/2017
 ---
 
 

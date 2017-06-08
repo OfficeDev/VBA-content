@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.EscapeKey
 ms.assetid: a498cf00-a3dc-b084-79ae-c31d6f4e5e27
+ms.date: 06/08/2017
 ---
 
 

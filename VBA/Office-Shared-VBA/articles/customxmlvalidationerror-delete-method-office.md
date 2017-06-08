@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLValidationError.Delete
 ms.assetid: d425c0f8-6eb1-9e1d-5246-3ba77bbf3cd3
+ms.date: 06/08/2017
 ---
 
 

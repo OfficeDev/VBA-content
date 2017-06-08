@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.Left
 ms.assetid: 982d8cf5-73fb-ef42-dad1-d2b33f2b6383
+ms.date: 06/08/2017
 ---
 
 

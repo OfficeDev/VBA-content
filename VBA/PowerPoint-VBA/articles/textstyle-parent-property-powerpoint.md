@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextStyle.Parent
 ms.assetid: 4b9be0da-adf7-eb57-e3b6-8df1d72684b3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.TextAlign
 ms.assetid: 5dccf4c9-cef1-2f7c-4ab4-730d3c767a8e
+ms.date: 06/08/2017
 ---
 
 

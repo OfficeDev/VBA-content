@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.WarpFormat
 ms.assetid: 1b22dbf3-d54f-7a00-46b1-6dd1b84b0993
+ms.date: 06/08/2017
 ---
 
 

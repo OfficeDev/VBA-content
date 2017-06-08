@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPivotConditionScope
 ms.assetid: 4a2800cc-624b-18df-2d2a-cbb604a83042
+ms.date: 06/08/2017
 ---
 
 

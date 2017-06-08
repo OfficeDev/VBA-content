@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthUpdates.Count
 ms.assetid: a0918742-9fbf-2a57-8efd-1487dd56d451
+ms.date: 06/08/2017
 ---
 
 

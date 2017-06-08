@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.IConverterApplicationPreferences.HrGetApplication
 ms.assetid: c6fbc21b-49a1-c407-b37d-bf00a4a16bba
+ms.date: 06/08/2017
 ---
 
 

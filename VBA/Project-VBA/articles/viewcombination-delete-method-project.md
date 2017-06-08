@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ViewCombination.Delete
 ms.assetid: ae00027a-684a-907f-1555-c128e2b88a23
+ms.date: 06/08/2017
 ---
 
 

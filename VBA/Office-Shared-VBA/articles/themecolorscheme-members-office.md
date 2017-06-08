@@ -2,6 +2,7 @@
 title: ThemeColorScheme Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 0b73a1ec-7d1e-1b94-6411-ddf0ec95d935
+ms.date: 06/08/2017
 ---
 
 

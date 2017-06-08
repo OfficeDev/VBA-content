@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2
 ms.assetid: a6a59c9b-9b64-c1e2-2e98-a1f99025c877
+ms.date: 06/08/2017
 ---
 
 

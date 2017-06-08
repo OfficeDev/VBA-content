@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Format
 ms.assetid: b2134ea9-5447-c93f-d800-90b625054a84
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextEffectFormat.Application
 ms.assetid: 32568bbc-b3c9-b8d4-d195-34503edba9e0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.EndArrowheadLength
 ms.assetid: 70aa1917-01ed-8a1c-a910-bb7f1175fd52
+ms.date: 06/08/2017
 ---
 
 

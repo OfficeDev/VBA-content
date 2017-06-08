@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.ToggleVerticalText
 ms.assetid: f9b71bae-4432-c4bd-4b47-1294520e33d1
+ms.date: 06/08/2017
 ---
 
 

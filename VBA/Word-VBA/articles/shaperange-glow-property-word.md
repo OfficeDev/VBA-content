@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Glow
 ms.assetid: 8dd60588-09e9-eb2b-da0a-0abd38e1030c
+ms.date: 06/08/2017
 ---
 
 

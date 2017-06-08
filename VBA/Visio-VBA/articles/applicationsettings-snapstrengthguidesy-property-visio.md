@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.SnapStrengthGuidesY
 ms.assetid: 64d2c688-d900-c5e7-28c7-a0c24dcc854a
+ms.date: 06/08/2017
 ---
 
 

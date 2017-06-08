@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Event.Delete
 ms.assetid: 4aa4b83c-7192-58d4-ce0b-2eeaae4e2e1a
+ms.date: 06/08/2017
 ---
 
 

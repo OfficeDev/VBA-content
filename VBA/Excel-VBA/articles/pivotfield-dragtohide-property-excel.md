@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.DragToHide
 ms.assetid: 24bccf39-3271-4387-6b7b-21f0ba47500c
+ms.date: 06/08/2017
 ---
 
 

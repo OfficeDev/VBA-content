@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.Activate
 ms.assetid: 046c97b6-89a6-0455-088a-cc54dd176d35
+ms.date: 06/08/2017
 ---
 
 

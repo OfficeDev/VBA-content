@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.LtrPara
 ms.assetid: 992886b8-44e3-3b1f-cc6d-7b16e1c58aef
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Section.ContinueNumbersFromPreviousSection
 ms.assetid: a3d64f14-dc65-4fb1-5079-0fdf2e3f8f38
+ms.date: 06/08/2017
 ---
 
 

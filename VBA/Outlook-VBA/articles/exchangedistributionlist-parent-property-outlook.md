@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeDistributionList.Parent
 ms.assetid: 793f1f22-d788-587d-0ae7-894b44f236ed
+ms.date: 06/08/2017
 ---
 
 

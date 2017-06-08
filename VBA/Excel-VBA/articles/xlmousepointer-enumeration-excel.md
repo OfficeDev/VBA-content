@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlMousePointer
 ms.assetid: 5aa7dbb9-6473-a492-98c0-74c801e09939
+ms.date: 06/08/2017
 ---
 
 

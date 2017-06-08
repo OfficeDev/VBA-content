@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropCap.Application
 ms.assetid: 1dc4eb59-5805-7701-3da2-d24327b80b3b
+ms.date: 06/08/2017
 ---
 
 

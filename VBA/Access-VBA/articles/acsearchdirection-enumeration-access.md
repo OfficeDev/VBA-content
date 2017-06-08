@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcSearchDirection
 ms.assetid: c1222cca-68a0-34ba-f907-2b0567a0a789
+ms.date: 06/08/2017
 ---
 
 

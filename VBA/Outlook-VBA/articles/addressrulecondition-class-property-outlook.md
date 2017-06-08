@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressRuleCondition.Class
 ms.assetid: 566eb9a5-2b7a-1833-f803-60a750fda257
+ms.date: 06/08/2017
 ---
 
 

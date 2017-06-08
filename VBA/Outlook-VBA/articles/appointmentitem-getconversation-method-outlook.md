@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.GetConversation
 ms.assetid: 661386aa-c357-8437-36a4-c0a910573b90
+ms.date: 06/08/2017
 ---
 
 

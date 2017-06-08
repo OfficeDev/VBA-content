@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.OnMouseUp
 ms.assetid: 898c8b44-d2f6-7d4f-f3b8-5d71d893eca1
+ms.date: 06/08/2017
 ---
 
 

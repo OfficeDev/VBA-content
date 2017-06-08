@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Walls.Thickness
 ms.assetid: a014b53e-fbf8-83a3-091f-9912be180308
+ms.date: 06/08/2017
 ---
 
 

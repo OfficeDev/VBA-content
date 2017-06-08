@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Clean
 ms.assetid: 5fd5c6a6-1914-b29d-c0ae-0e5374d13a8e
+ms.date: 06/08/2017
 ---
 
 

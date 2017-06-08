@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarComboBox.Width
 ms.assetid: 5efb8c56-f896-c5e7-d457-f8862e655d1c
+ms.date: 06/08/2017
 ---
 
 

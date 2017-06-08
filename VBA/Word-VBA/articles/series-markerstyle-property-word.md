@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.MarkerStyle
 ms.assetid: d9ba7847-2785-0f29-7e6e-d4bb2d62fc2f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.TabStop
 ms.assetid: 9bcec2a4-c1b1-88db-e7b4-15e744c1e340
+ms.date: 06/08/2017
 ---
 
 

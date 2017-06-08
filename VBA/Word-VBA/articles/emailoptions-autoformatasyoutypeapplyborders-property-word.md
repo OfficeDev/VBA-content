@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 24e0f74e-b57e-d81c-2e36-c08adb59bf5e
+ms.date: 06/08/2017
 ---
 
 

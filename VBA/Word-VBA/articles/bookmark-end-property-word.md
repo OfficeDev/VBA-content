@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Bookmark.End
 ms.assetid: 05531b0d-b05e-0010-9ff8-ba6d90de560d
+ms.date: 06/08/2017
 ---
 
 

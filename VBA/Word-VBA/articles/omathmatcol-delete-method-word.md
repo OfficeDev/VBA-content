@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMatCol.Delete
 ms.assetid: dda6ddbf-03d5-c68e-8d95-9bc1c8ebaddd
+ms.date: 06/08/2017
 ---
 
 

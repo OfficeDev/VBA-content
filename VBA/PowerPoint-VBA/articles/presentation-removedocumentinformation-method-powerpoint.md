@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.RemoveDocumentInformation
 ms.assetid: 2c9d5cc5-8fc9-d650-b1cf-9fa3e409be1c
+ms.date: 06/08/2017
 ---
 
 

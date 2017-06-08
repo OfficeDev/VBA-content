@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.PresetTextured
 ms.assetid: 44661e53-9aee-7abd-6a6e-b6cb0a97ee2d
+ms.date: 06/08/2017
 ---
 
 

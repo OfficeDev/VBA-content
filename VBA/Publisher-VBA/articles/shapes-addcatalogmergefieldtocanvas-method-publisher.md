@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddCatalogMergeFieldToCanvas
 ms.assetid: 30cd45d0-97f0-ab01-31c2-8d819b435b1b
+ms.date: 06/08/2017
 ---
 
 

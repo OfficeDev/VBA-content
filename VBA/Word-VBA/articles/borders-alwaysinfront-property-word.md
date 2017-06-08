@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.AlwaysInFront
 ms.assetid: c005b911-47f6-fdc2-6098-4971b856b346
+ms.date: 06/08/2017
 ---
 
 

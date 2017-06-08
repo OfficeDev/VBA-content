@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CubeField.DragToRow
 ms.assetid: 10d3a156-d8a6-9f3a-34bd-4f1e470c3efe
+ms.date: 06/08/2017
 ---
 
 

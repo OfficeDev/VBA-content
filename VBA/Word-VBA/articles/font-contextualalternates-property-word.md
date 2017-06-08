@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.ContextualAlternates
 ms.assetid: 065589b0-afbd-dfb1-4f96-2c70b558b773
+ms.date: 06/08/2017
 ---
 
 

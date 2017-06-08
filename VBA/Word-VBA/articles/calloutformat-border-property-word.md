@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CalloutFormat.Border
 ms.assetid: 4928f59e-1a09-32b9-0e73-ac7f9fbbb047
+ms.date: 06/08/2017
 ---
 
 

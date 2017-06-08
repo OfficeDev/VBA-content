@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.EnvelopeVisible
 ms.assetid: 65423c1f-e61b-3c83-4bff-ddd278d97238
+ms.date: 06/08/2017
 ---
 
 

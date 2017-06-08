@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.ToDoTaskOrdinal
 ms.assetid: a72f8ba4-a31a-b96b-193a-2507b7c45169
+ms.date: 06/08/2017
 ---
 
 

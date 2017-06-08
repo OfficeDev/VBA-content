@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UniqueValues.ModifyAppliesToRange
 ms.assetid: cde80c4b-747a-9bc8-d09f-748d57999bac
+ms.date: 06/08/2017
 ---
 
 

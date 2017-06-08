@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.Border
 ms.assetid: 5b253b40-e9c1-031d-305c-bfe4a600427c
+ms.date: 06/08/2017
 ---
 
 

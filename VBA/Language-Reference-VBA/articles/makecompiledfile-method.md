@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MakeCompiledFile
 ms.assetid: c6b2501f-1ae3-c1e7-4df3-ea139ea4d1b0
+ms.date: 06/08/2017
 ---
 
 

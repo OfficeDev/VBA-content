@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.PickupAnimation
 ms.assetid: 13210009-1329-8c3e-01ce-459e1bcac88c
+ms.date: 06/08/2017
 ---
 
 

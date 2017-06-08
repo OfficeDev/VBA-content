@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Sequences.Item
 ms.assetid: 48803295-9ba9-94d1-78fe-df217bdf440c
+ms.date: 06/08/2017
 ---
 
 

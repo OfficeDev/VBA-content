@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Select
 ms.assetid: cd6fb1ba-ac49-a7d8-2777-fda2ce2746a4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Hyperlinks
 ms.assetid: a82724b9-e792-b0e6-d1c3-25ce6021ad29
+ms.date: 06/08/2017
 ---
 
 

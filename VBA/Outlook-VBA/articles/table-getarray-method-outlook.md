@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Table.GetArray
 ms.assetid: 2594bb2e-290f-8e88-52d1-cd2b2191bbe3
+ms.date: 06/08/2017
 ---
 
 

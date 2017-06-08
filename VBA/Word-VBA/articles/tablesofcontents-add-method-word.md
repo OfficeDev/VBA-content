@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TablesOfContents.Add
 ms.assetid: a5954a99-ee43-3b8d-4d81-d12f889021b4
+ms.date: 06/08/2017
 ---
 
 

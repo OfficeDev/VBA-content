@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Comments.Parent
 ms.assetid: 4e600cbb-bad6-6e31-629a-bd822e93c4dc
+ms.date: 06/08/2017
 ---
 
 

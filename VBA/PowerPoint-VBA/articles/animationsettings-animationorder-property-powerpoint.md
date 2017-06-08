@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.AnimationOrder
 ms.assetid: 0a29fb35-1cd8-4d12-184e-1132494a0864
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.Font
 ms.assetid: 7962453a-7b9e-3287-8575-2e3622dcba84
+ms.date: 06/08/2017
 ---
 
 

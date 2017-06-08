@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomTaskPane.DockPositionStateChange
 ms.assetid: fd22407b-4926-2de5-ec1d-aad1a13fe269
+ms.date: 06/08/2017
 ---
 
 

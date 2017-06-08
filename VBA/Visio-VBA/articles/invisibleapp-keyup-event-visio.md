@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.KeyUp
 ms.assetid: 497a8c56-7571-2bca-0a79-fc1adf458fe5
+ms.date: 06/08/2017
 ---
 
 

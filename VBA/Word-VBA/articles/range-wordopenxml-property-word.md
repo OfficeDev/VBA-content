@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.WordOpenXML
 ms.assetid: bb4aa9c3-dd69-e27f-9c72-4dc4795fbd26
+ms.date: 06/08/2017
 ---
 
 

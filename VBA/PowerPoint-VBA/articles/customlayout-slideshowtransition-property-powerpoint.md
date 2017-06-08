@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.SlideShowTransition
 ms.assetid: f165346b-4ad3-035b-a9be-141dc7666958
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Fonts.Application
 ms.assetid: 8e40626a-d64c-4a5e-4a4b-b2bac22d931f
+ms.date: 06/08/2017
 ---
 
 

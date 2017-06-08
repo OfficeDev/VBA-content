@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartArea.RoundedCorners
 ms.assetid: 1e9ef356-44e6-480b-bc60-a1263fd2ee90
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.OfficeDataSourceObject.RowCount
 ms.assetid: 5360a399-e2f8-b331-f62c-c110884b3c92
+ms.date: 06/08/2017
 ---
 
 

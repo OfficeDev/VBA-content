@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchAllWordForms
 ms.assetid: 12244a30-2ddd-8de9-ff74-326c069e656b
+ms.date: 06/08/2017
 ---
 
 

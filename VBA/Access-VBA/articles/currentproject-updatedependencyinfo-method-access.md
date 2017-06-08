@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CurrentProject.UpdateDependencyInfo
 ms.assetid: 90461646-22a6-bfa8-4663-9f05c8ac3757
+ms.date: 06/08/2017
 ---
 
 

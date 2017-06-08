@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.Drop
 ms.assetid: aff32258-755c-cce3-5f46-e611de6c8f5a
+ms.date: 06/08/2017
 ---
 
 

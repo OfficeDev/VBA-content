@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlApplyNamesOrder
 ms.assetid: f8d4dd3a-34b8-1334-f8c6-57f23a1a4f1c
+ms.date: 06/08/2017
 ---
 
 

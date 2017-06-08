@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Watches.Creator
 ms.assetid: a4664412-bf77-1612-3da0-5ab6cc46c723
+ms.date: 06/08/2017
 ---
 
 

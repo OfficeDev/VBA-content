@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.FootnoteOptions
 ms.assetid: 4adc72b6-cf26-8029-8c72-d2eed6583c27
+ms.date: 06/08/2017
 ---
 
 

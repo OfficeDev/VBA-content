@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Parent
 ms.assetid: fd359cb8-c460-b5a7-dd9d-a6ec58a060df
+ms.date: 06/08/2017
 ---
 
 

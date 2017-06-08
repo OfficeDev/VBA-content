@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdTCSCConverterDirection
 ms.assetid: c9a21a7c-c773-a118-1669-aa9468666cbd
+ms.date: 06/08/2017
 ---
 
 

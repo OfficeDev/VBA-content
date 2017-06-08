@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdIndexType
 ms.assetid: 031ee672-56e4-2c56-7ec1-a3aaa62e094d
+ms.date: 06/08/2017
 ---
 
 

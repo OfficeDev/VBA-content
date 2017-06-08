@@ -2,6 +2,7 @@
 title: Creating and Saving Data to Solution Storage
 ms.prod: OUTLOOK
 ms.assetid: 5a417191-ed36-be5c-5d63-1ab618bd06cf
+ms.date: 06/08/2017
 ---
 
 

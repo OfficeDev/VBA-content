@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowTransition.LoopSoundUntilNext
 ms.assetid: 64555d1a-20d2-cb4f-6168-dc9e9594e059
+ms.date: 06/08/2017
 ---
 
 

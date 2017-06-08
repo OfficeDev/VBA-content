@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Template
 ms.assetid: c9e579d7-4448-4dc7-0130-1b38d41cbf1a
+ms.date: 06/08/2017
 ---
 
 

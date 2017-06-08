@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.OnMouseMove
 ms.assetid: 260c8b56-2985-1da4-7c3f-1398b54666b3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PatternColorIndex
 ms.assetid: d11aa18c-b46d-950c-78ef-e58dd1c751fb
+ms.date: 06/08/2017
 ---
 
 

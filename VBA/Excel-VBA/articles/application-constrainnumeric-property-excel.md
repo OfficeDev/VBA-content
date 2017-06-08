@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ConstrainNumeric
 ms.assetid: 910dd5ad-1750-71b8-8c12-df5107d21063
+ms.date: 06/08/2017
 ---
 
 

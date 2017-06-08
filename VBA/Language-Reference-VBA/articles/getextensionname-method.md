@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetExtensionName
 ms.assetid: 0fa9da71-7938-c50c-6fed-8a23d6a680d1
+ms.date: 06/08/2017
 ---
 
 

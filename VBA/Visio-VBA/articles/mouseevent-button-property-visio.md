@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MouseEvent.Button
 ms.assetid: e89c51a3-52f5-348c-e3de-2b2459701bfb
+ms.date: 06/08/2017
 ---
 
 

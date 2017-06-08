@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Panes.Count
 ms.assetid: 3d1d89e3-acf2-ec48-fefb-8fc75e8f3075
+ms.date: 06/08/2017
 ---
 
 

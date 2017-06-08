@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdFramesetType
 ms.assetid: 9179515a-ec08-1881-2b85-6623d2836f60
+ms.date: 06/08/2017
 ---
 
 

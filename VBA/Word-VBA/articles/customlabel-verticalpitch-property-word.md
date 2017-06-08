@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomLabel.VerticalPitch
 ms.assetid: 5f1107b7-e521-f022-579c-00f14d93d5f6
+ms.date: 06/08/2017
 ---
 
 

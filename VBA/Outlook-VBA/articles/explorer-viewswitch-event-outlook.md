@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.ViewSwitch
 ms.assetid: ab981f42-d429-ccd7-a25c-142e52683020
+ms.date: 06/08/2017
 ---
 
 

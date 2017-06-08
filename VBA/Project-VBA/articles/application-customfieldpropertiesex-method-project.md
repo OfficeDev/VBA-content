@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CustomFieldPropertiesEx
 ms.assetid: 3eac9820-848a-011a-96df-f752ea33f31f
+ms.date: 06/08/2017
 ---
 
 

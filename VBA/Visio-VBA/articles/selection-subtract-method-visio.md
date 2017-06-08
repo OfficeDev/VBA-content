@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Subtract
 ms.assetid: 606798b6-3482-0c45-d583-4762ee07da45
+ms.date: 06/08/2017
 ---
 
 

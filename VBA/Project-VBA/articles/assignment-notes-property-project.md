@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Notes
 ms.assetid: 91915e62-bd93-3671-a232-05cb99836428
+ms.date: 06/08/2017
 ---
 
 

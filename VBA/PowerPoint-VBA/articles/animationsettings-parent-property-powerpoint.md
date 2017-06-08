@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.Parent
 ms.assetid: 73f01a7a-51c5-129f-34bf-2b7385e98ba5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.InlineShape.IsPictureBullet
 ms.assetid: c53c7269-b6ab-beaa-41d6-105033c077b9
+ms.date: 06/08/2017
 ---
 
 

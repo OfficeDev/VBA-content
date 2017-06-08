@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.IsRecolored
 ms.assetid: 76bfbcfe-6a98-8c82-cc0a-041665aa98e6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.DisplayMasterShapes
 ms.assetid: 9a4a5146-e84d-b9fe-a837-0bcafa3fe61d
+ms.date: 06/08/2017
 ---
 
 

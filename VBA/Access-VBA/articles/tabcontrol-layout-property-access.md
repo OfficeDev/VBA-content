@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Layout
 ms.assetid: 2fbfc294-62b5-66e5-63e2-f9d89e85aac3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Section.StartPageIndex
 ms.assetid: 531d6724-3f18-bd2a-974c-5b58d64c2af1
+ms.date: 06/08/2017
 ---
 
 

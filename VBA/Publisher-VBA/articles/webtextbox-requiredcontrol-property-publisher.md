@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebTextBox.RequiredControl
 ms.assetid: 32e18d4b-7af0-b079-4baf-9acc07c3c37d
+ms.date: 06/08/2017
 ---
 
 

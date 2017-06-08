@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.Delete
 ms.assetid: 13479b79-56b1-241f-cbb6-7ccd1655c1cc
+ms.date: 06/08/2017
 ---
 
 

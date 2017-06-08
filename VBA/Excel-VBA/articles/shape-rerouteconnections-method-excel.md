@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.RerouteConnections
 ms.assetid: 12e6a6aa-1ddb-392d-14c1-9d57de465c66
+ms.date: 06/08/2017
 ---
 
 

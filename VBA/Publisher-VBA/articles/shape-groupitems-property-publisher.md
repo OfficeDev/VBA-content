@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.GroupItems
 ms.assetid: 9194f43b-bd8a-76a9-aa8c-17544d052d47
+ms.date: 06/08/2017
 ---
 
 

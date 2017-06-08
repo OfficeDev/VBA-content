@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.AutoSortField
 ms.assetid: f31499e6-dea7-5e54-2316-9088bd5670b3
+ms.date: 06/08/2017
 ---
 
 

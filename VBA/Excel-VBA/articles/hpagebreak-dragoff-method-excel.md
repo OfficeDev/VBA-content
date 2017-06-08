@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HPageBreak.DragOff
 ms.assetid: 80065224-c53d-3f45-8d94-c644502dac22
+ms.date: 06/08/2017
 ---
 
 

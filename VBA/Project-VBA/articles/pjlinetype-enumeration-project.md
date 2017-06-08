@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjLineType
 ms.assetid: 1bbd5c65-b6c5-a190-ce5e-dfdd326e1975
+ms.date: 06/08/2017
 ---
 
 

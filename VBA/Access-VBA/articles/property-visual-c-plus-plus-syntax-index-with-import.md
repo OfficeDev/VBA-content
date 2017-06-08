@@ -2,6 +2,7 @@
 title: Property (Visual C++ Syntax Index with import)
 ms.prod: ACCESS
 ms.assetid: 3649db1b-ab2f-2767-a8b3-a146720217c0
+ms.date: 06/08/2017
 ---
 
 

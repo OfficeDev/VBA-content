@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.ChildFramesetCount
 ms.assetid: 2e6bc910-9159-d3db-a399-0abc6bd9ba20
+ms.date: 06/08/2017
 ---
 
 

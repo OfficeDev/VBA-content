@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerItems.Parent
 ms.assetid: f6a99651-98a3-5e32-6664-9fb70a8ac8d8
+ms.date: 06/08/2017
 ---
 
 

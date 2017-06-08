@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Player.GoToPreviousBookmark
 ms.assetid: d715436e-dd91-9619-cf70-57ae059f7254
+ms.date: 06/08/2017
 ---
 
 

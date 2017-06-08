@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMerge.CreateHeaderSource
 ms.assetid: 607c668d-5f81-ecbe-d4c8-fbf509444683
+ms.date: 06/08/2017
 ---
 
 

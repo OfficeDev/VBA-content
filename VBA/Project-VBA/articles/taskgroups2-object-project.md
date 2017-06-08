@@ -2,6 +2,7 @@
 title: TaskGroups2 Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 08346fd5-3dbd-23ea-9dc8-c2361ce043f4
+ms.date: 06/08/2017
 ---
 
 

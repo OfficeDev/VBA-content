@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.IgnoreMixedDigits
 ms.assetid: 6803fa80-3850-5b34-d22b-3d617c14e537
+ms.date: 06/08/2017
 ---
 
 

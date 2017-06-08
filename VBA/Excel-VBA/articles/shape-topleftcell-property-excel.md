@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.TopLeftCell
 ms.assetid: 20c15d22-5a54-2167-05bf-80b13cf56580
+ms.date: 06/08/2017
 ---
 
 

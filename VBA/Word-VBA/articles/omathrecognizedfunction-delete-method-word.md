@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathRecognizedFunction.Delete
 ms.assetid: be09db7d-24b4-13ae-6dd4-de0b08ddd006
+ms.date: 06/08/2017
 ---
 
 

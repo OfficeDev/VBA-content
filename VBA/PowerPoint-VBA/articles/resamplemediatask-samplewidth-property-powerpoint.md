@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTask.SampleWidth
 ms.assetid: 87572ea4-7de0-f401-bd0f-4c8963e651a9
+ms.date: 06/08/2017
 ---
 
 

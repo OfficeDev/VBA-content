@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.BeforeRead
 ms.assetid: da5383b0-c2bd-d0b2-b023-c493d469d3d2
+ms.date: 06/08/2017
 ---
 
 

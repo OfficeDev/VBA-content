@@ -2,6 +2,7 @@
 title: Functions (Visual Basic for Applications)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: c7ba6c33-7846-4a8c-bd9b-bafb96e07866
+ms.date: 06/08/2017
 ---
 
 

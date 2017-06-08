@@ -2,6 +2,7 @@
 title: Create a DAO Recordset From a Table In the Current Database
 ms.prod: ACCESS
 ms.assetid: b0507965-e6af-cda4-9d50-fbeb98b4ab89
+ms.date: 06/08/2017
 ---
 
 

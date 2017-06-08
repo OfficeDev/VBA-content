@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.Visible
 ms.assetid: 8221347f-4b12-f18a-5d0b-b584ee762bff
+ms.date: 06/08/2017
 ---
 
 

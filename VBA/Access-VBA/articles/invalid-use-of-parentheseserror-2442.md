@@ -2,6 +2,7 @@
 title: Invalid use of parentheses. (Error 2442)
 ms.prod: ACCESS
 ms.assetid: c302b405-67dc-d4ba-7b19-9941d6054315
+ms.date: 06/08/2017
 ---
 
 

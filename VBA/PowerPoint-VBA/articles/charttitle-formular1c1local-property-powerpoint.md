@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartTitle.FormulaR1C1Local
 ms.assetid: 72e5648e-fd6a-27b4-5411-18f8e2c05949
+ms.date: 06/08/2017
 ---
 
 

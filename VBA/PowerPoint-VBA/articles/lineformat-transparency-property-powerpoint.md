@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LineFormat.Transparency
 ms.assetid: 7d9e3a3c-479a-1a7a-45b2-4245b8444c21
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.BaseCalendars
 ms.assetid: fb7f55f6-6618-fb82-dae1-320953bcf79d
+ms.date: 06/08/2017
 ---
 
 

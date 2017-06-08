@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.SizeToFit
 ms.assetid: 3533c064-f559-4eb4-4cca-add03df5e693
+ms.date: 06/08/2017
 ---
 
 

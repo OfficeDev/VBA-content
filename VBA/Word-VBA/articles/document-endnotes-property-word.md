@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Endnotes
 ms.assetid: 3c3e87c0-ea76-8bc4-0b2e-755bff6aa14c
+ms.date: 06/08/2017
 ---
 
 

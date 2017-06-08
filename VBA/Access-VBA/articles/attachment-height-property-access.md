@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.Height
 ms.assetid: 377565ec-9e10-2a3f-5d05-e1440707dc9c
+ms.date: 06/08/2017
 ---
 
 

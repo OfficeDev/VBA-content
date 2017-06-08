@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartObject.Duplicate
 ms.assetid: f43de123-c113-ca5d-6cf7-71f7d08f7e88
+ms.date: 06/08/2017
 ---
 
 

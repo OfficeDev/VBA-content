@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkOptionButton.WordWrap
 ms.assetid: a4bf62eb-18ee-fab8-7439-6149300f3a90
+ms.date: 06/08/2017
 ---
 
 

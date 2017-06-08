@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.Hyperlinks
 ms.assetid: bfa4da43-4c56-e010-0848-2cb55fb68154
+ms.date: 06/08/2017
 ---
 
 

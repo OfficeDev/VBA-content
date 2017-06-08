@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.StartUpPosition
 ms.assetid: 0ceb1e6d-b45e-a1df-03df-fd73ce814a79
+ms.date: 06/08/2017
 ---
 
 

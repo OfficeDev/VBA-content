@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.AddConnector
 ms.assetid: 407eee86-11c1-7bee-ed25-aba71a930a1c
+ms.date: 06/08/2017
 ---
 
 

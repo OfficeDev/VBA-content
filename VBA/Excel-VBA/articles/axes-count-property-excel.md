@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axes.Count
 ms.assetid: 67b36793-d9a2-9b92-edd1-b7c9f4348f8d
+ms.date: 06/08/2017
 ---
 
 

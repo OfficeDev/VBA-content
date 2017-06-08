@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.InsertedCellColor
 ms.assetid: 59a7717a-f956-f1ca-bb33-7b3e15c8a649
+ms.date: 06/08/2017
 ---
 
 

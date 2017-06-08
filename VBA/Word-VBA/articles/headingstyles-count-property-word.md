@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadingStyles.Count
 ms.assetid: aee2340d-cfa5-7d38-54fa-954f05171df6
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.HyperlinkHREF
 ms.assetid: dbfe6680-9131-af9e-a982-5eb1093b92d1
+ms.date: 06/08/2017
 ---
 
 

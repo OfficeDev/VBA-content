@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailModule
 ms.assetid: df20efe5-be5c-952d-c6b7-20c20a83fda0
+ms.date: 06/08/2017
 ---
 
 

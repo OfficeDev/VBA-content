@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.StoreRSIDOnSave
 ms.assetid: 6f50f3c8-f775-d9d3-2cab-b1c99abf1756
+ms.date: 06/08/2017
 ---
 
 

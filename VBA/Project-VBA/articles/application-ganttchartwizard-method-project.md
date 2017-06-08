@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttChartWizard
 ms.assetid: e174c0ac-3f31-a98f-a9ad-11a6785c5052
+ms.date: 06/08/2017
 ---
 
 

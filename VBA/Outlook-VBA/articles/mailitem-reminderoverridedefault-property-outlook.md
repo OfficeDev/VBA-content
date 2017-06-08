@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ReminderOverrideDefault
 ms.assetid: 78aaca38-6de7-9bc1-6539-74d7b03bfd54
+ms.date: 06/08/2017
 ---
 
 

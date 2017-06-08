@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BorderShade
 ms.assetid: 24bd0510-6f97-e22d-7822-f16f97591a25
+ms.date: 06/08/2017
 ---
 
 

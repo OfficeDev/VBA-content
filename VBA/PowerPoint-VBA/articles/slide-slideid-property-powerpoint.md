@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.SlideID
 ms.assetid: 9d2d920c-a876-c71c-083f-ae8a3ad06c85
+ms.date: 06/08/2017
 ---
 
 

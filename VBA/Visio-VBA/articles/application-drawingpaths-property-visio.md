@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DrawingPaths
 ms.assetid: 46a0a769-8ef4-1cc3-9206-24c23b0982ee
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.NullString
 ms.assetid: f9d678d1-5e9f-8d3b-1f9a-73e8679ae499
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpAutoSize
 ms.assetid: 424c05a1-8f2b-c0da-b0ca-bbc360910274
+ms.date: 06/08/2017
 ---
 
 

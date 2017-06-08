@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ReportTemplate.CubeType
 ms.assetid: 069e2b60-9812-ad99-4ef5-5b2606814628
+ms.date: 06/08/2017
 ---
 
 

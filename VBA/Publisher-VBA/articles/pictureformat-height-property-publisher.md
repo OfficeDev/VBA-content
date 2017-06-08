@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.Height
 ms.assetid: d98c76cc-4b75-28b7-5be1-101b372472d5
+ms.date: 06/08/2017
 ---
 
 

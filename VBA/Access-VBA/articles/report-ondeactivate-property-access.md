@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.OnDeactivate
 ms.assetid: 2b15bb7c-a307-6e2b-c933-b7a069ff99d0
+ms.date: 06/08/2017
 ---
 
 

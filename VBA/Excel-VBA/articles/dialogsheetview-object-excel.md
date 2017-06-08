@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DialogSheetView
 ms.assetid: d468b3e8-c73e-d94a-0902-193f6983d893
+ms.date: 06/08/2017
 ---
 
 

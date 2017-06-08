@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.QuitCanceled
 ms.assetid: 0861a2ea-f4d7-dc57-7642-2e7642fd2afe
+ms.date: 06/08/2017
 ---
 
 

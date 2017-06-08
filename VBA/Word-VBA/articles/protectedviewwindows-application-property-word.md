@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ProtectedViewWindows.Application
 ms.assetid: 5c884f92-378b-25fc-ebcd-9ba3221559b8
+ms.date: 06/08/2017
 ---
 
 

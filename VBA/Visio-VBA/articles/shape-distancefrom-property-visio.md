@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DistanceFrom
 ms.assetid: 2df9e60f-b138-4dde-09ca-af4ee2f6a8d0
+ms.date: 06/08/2017
 ---
 
 

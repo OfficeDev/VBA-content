@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MultiThreadedCalculation.Creator
 ms.assetid: 4121064b-2a70-e46c-c4e0-dc72cb894edf
+ms.date: 06/08/2017
 ---
 
 

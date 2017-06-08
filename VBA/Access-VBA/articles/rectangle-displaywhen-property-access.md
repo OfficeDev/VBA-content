@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.DisplayWhen
 ms.assetid: b8aaae52-6f39-82ad-9eec-f4d0e5b885ff
+ms.date: 06/08/2017
 ---
 
 

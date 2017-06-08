@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FootnoteOptions.Location
 ms.assetid: 29300e96-150f-ea6c-14ce-602816b6907a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.WrapFormat
 ms.assetid: 08396db4-f8e0-12fd-2b9f-3a0a61169ac4
+ms.date: 06/08/2017
 ---
 
 

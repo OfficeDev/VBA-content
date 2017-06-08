@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PublishObject.SpeakerNotes
 ms.assetid: 2dabb3db-4f94-c640-2c4d-d6c10551f903
+ms.date: 06/08/2017
 ---
 
 

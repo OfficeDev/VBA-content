@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.GridlineWidthTop
 ms.assetid: 1427956f-17ec-9195-a754-ffa2f2968ed0
+ms.date: 06/08/2017
 ---
 
 

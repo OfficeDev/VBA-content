@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Table.Application
 ms.assetid: 9d052227-2cab-98e2-6680-adaecab7a4bc
+ms.date: 06/08/2017
 ---
 
 

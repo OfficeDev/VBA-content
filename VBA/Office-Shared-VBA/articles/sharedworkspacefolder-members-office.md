@@ -2,6 +2,7 @@
 title: SharedWorkspaceFolder Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: e7e0a32a-ce01-e08f-f251-27d93273110e
+ms.date: 06/08/2017
 ---
 
 

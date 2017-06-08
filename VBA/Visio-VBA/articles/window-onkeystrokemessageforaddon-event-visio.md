@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.OnKeystrokeMessageForAddon
 ms.assetid: 88f72b93-6ec3-2fd1-cc78-c18f82f1b13d
+ms.date: 06/08/2017
 ---
 
 

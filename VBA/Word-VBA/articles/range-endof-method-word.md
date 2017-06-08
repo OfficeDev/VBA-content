@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.EndOf
 ms.assetid: b9bda3b3-fee5-6359-f0ab-10fbe6b635b1
+ms.date: 06/08/2017
 ---
 
 

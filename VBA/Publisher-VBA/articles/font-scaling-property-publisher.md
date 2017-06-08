@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Scaling
 ms.assetid: 4ff0c484-12f8-38e3-72fd-dfd34507aec1
+ms.date: 06/08/2017
 ---
 
 

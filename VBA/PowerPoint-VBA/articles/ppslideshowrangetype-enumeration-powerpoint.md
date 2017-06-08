@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpSlideShowRangeType
 ms.assetid: 224a29cc-eb31-0cc5-c543-3646ec5d73cf
+ms.date: 06/08/2017
 ---
 
 

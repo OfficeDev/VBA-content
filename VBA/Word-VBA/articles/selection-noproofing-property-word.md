@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.NoProofing
 ms.assetid: 5feca11c-5afa-80aa-b854-bab86b49a749
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.MathCoprocessorAvailable
 ms.assetid: 9424d6e1-f6f7-cc1b-7d20-987c8ed5e5a2
+ms.date: 06/08/2017
 ---
 
 

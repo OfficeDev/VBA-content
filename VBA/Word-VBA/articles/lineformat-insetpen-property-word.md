@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.InsetPen
 ms.assetid: 6dd5a7b7-bb43-2781-98cc-137537346390
+ms.date: 06/08/2017
 ---
 
 

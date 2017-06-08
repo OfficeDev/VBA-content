@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlTrendlineType
 ms.assetid: 00a95fb4-00f7-7630-2298-ef3bd7331f89
+ms.date: 06/08/2017
 ---
 
 

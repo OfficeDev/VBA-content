@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MetaProperty.Parent
 ms.assetid: 788b8f52-d8f5-d1cd-9a96-192a30b80d80
+ms.date: 06/08/2017
 ---
 
 

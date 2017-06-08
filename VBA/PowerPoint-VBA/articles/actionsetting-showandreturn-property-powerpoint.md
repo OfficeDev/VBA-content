@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ActionSetting.ShowAndReturn
 ms.assetid: 76797234-161d-50a5-cbc3-b1a169bc6719
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DataGraphicShowBorder
 ms.assetid: 203d631c-d838-ea0a-f67a-39de513e738e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListDataFormat.Type
 ms.assetid: 9e9b7b28-a948-9c67-8c88-ba6068ed162c
+ms.date: 06/08/2017
 ---
 
 

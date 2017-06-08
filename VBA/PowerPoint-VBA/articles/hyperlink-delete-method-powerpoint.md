@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Hyperlink.Delete
 ms.assetid: 05961889-ff6c-b8f3-4cf4-e60ed782533b
+ms.date: 06/08/2017
 ---
 
 

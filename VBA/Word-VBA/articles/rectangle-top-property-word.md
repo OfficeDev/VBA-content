@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rectangle.Top
 ms.assetid: 14e68034-17c0-9bdd-476e-9d9d2673bec1
+ms.date: 06/08/2017
 ---
 
 

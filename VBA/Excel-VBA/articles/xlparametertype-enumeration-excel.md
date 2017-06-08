@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlParameterType
 ms.assetid: f6774f89-4992-2b7c-2dce-791fecafc1df
+ms.date: 06/08/2017
 ---
 
 

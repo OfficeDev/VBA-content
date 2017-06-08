@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.Enter
 ms.assetid: e8414759-46a7-3697-5fae-9a9e3fb29104
+ms.date: 06/08/2017
 ---
 
 

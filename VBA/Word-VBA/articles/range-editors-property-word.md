@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Editors
 ms.assetid: fe491d3f-e559-aa3d-53ce-bf4aea0de5f8
+ms.date: 06/08/2017
 ---
 
 

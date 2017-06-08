@@ -2,6 +2,7 @@
 title: Join expression not supported. (Error 3296)
 ms.prod: ACCESS
 ms.assetid: 42ae73b1-2543-1850-13a3-57ed42c54720
+ms.date: 06/08/2017
 ---
 
 

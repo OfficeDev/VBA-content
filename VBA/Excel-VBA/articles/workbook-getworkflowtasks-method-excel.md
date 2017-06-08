@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.GetWorkflowTasks
 ms.assetid: 8a5ff9e0-b23a-930c-bb65-a1daa10cd946
+ms.date: 06/08/2017
 ---
 
 

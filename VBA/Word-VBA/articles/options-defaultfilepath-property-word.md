@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DefaultFilePath
 ms.assetid: 39c90157-1824-55ee-c7e1-3687f132131f
+ms.date: 06/08/2017
 ---
 
 

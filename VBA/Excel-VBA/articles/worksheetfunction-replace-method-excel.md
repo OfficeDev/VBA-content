@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Replace
 ms.assetid: 1cca39db-c4ab-f7d4-dd71-0844d0bb44cd
+ms.date: 06/08/2017
 ---
 
 

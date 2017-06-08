@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.Perspective
 ms.assetid: d88ab2dc-822a-de51-a2b9-bcce667cd0e2
+ms.date: 06/08/2017
 ---
 
 

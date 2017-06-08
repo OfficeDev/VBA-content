@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFunction.BorderBox
 ms.assetid: 004a39ff-a85c-1680-86db-3b054f52434e
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Filtering Items Using a Date-time Comparison
 ms.prod: OUTLOOK
 ms.assetid: 668e0993-c3d2-835f-0645-ba79bcffe67f
+ms.date: 06/08/2017
 ---
 
 

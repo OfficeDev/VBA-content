@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.RefreshSettings
 ms.assetid: 7647676c-0291-8c57-10d6-ca55fcee2bf5
+ms.date: 06/08/2017
 ---
 
 

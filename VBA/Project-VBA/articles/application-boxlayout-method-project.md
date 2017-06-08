@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxLayout
 ms.assetid: 4f26f5d1-41f2-56dc-e376-bcedd29613f9
+ms.date: 06/08/2017
 ---
 
 

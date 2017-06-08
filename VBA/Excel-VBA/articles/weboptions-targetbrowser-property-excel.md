@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.TargetBrowser
 ms.assetid: 9b88562f-503a-a940-a169-94d6bb54d548
+ms.date: 06/08/2017
 ---
 
 

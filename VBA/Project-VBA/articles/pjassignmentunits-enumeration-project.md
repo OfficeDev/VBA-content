@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjAssignmentUnits
 ms.assetid: 12bbd0c9-e728-3055-240b-898e15e40439
+ms.date: 06/08/2017
 ---
 
 

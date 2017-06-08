@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ChangeHistoryDuration
 ms.assetid: 5ebc3cc5-dffa-60cf-08cb-b2f84424c4b4
+ms.date: 06/08/2017
 ---
 
 

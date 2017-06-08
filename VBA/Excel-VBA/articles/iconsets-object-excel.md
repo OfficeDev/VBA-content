@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IconSets
 ms.assetid: 2197741e-8139-0098-d194-610fa28fa6c8
+ms.date: 06/08/2017
 ---
 
 

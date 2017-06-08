@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.UnregisterRibbonX
 ms.assetid: 83c5a7c3-b3bb-cbbd-6857-2ae822e599f6
+ms.date: 06/08/2017
 ---
 
 

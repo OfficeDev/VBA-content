@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadersFooters.Item
 ms.assetid: b6449c22-d528-acce-4308-28fa81e596c5
+ms.date: 06/08/2017
 ---
 
 

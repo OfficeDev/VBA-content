@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ValueChange.PivotCell
 ms.assetid: 332859df-b643-cf9b-9c61-108f9324cee5
+ms.date: 06/08/2017
 ---
 
 

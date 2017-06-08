@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.PageDesign
 ms.assetid: 8544d8c1-3e43-22f5-794f-8bd7636f8a0e
+ms.date: 06/08/2017
 ---
 
 

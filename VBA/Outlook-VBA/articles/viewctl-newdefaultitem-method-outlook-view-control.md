@@ -2,6 +2,7 @@
 title: ViewCtl.NewDefaultItem Method (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: ab5fc0ff-178b-6202-81fe-04af2a39a895
+ms.date: 06/08/2017
 ---
 
 

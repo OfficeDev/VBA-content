@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ValidationRule.TargetType
 ms.assetid: 818e47b6-7832-e9a3-9e29-34bd50d466b4
+ms.date: 06/08/2017
 ---
 
 

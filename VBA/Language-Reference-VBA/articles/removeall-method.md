@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.RemoveAll
 ms.assetid: 70edc5db-1f44-cfa5-cf22-13a9ce33a954
+ms.date: 06/08/2017
 ---
 
 

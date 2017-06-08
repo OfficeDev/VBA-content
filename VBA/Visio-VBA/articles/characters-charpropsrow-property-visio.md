@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.CharPropsRow
 ms.assetid: 55ea568a-7dfc-faed-e4c2-23fa76aac16d
+ms.date: 06/08/2017
 ---
 
 

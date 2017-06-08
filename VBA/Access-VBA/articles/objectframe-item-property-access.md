@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.Item
 ms.assetid: 18548487-558b-7c37-c17b-00496e29b2cf
+ms.date: 06/08/2017
 ---
 
 

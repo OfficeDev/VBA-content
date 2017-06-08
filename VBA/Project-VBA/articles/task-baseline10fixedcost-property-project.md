@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Baseline10FixedCost
 ms.assetid: 73c19f54-8fd4-59ee-66aa-447a5abb17ba
+ms.date: 06/08/2017
 ---
 
 

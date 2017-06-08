@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.ValidLinkTarget
 ms.assetid: ee946f58-669f-7150-0f40-2dd3b857e274
+ms.date: 06/08/2017
 ---
 
 

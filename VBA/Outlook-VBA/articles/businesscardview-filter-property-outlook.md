@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.BusinessCardView.Filter
 ms.assetid: 4f799ccc-dfb6-15dd-d5f4-9f1a04efa280
+ms.date: 06/08/2017
 ---
 
 

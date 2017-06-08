@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shapes.AddLine
 ms.assetid: f2186af3-c28a-4196-a00e-00cc66d28f71
+ms.date: 06/08/2017
 ---
 
 

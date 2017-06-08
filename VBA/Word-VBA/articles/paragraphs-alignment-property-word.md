@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.Alignment
 ms.assetid: e2f061fa-ab1a-bdb5-75a7-53528898fb3d
+ms.date: 06/08/2017
 ---
 
 

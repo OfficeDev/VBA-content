@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CellRange.Row
 ms.assetid: ac5bccf0-6c9b-ce0e-20e5-f06ef29886c6
+ms.date: 06/08/2017
 ---
 
 

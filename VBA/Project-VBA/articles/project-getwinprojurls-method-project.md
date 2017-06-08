@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.GetWinprojURLs
 ms.assetid: 4ea8b044-9397-d17f-b057-d39105d83cf8
+ms.date: 06/08/2017
 ---
 
 

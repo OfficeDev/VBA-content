@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlSubscribeToFormat
 ms.assetid: 86dbfc91-fde8-d829-3377-fac14f9da9bd
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ReportItem.BeforeAutoSave
 ms.assetid: c3a2882c-ff82-39a1-3d18-5bf4f608b09e
+ms.date: 06/08/2017
 ---
 
 

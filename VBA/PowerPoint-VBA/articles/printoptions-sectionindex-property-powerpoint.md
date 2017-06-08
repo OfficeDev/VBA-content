@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintOptions.sectionIndex
 ms.assetid: d42063aa-7daa-7d1b-9ae3-249ac4f9383b
+ms.date: 06/08/2017
 ---
 
 

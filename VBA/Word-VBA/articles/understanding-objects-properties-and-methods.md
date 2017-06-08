@@ -2,6 +2,7 @@
 title: Understanding Objects, Properties, and Methods
 ms.prod: WORD
 ms.assetid: b79853f7-a497-78eb-4ab0-95b6d7a79912
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnotes.ResetContinuationSeparator
 ms.assetid: 92de72c3-ab86-77e8-5047-928c145560cf
+ms.date: 06/08/2017
 ---
 
 

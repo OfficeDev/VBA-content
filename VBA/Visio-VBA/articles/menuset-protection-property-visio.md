@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Protection
 ms.assetid: 266b1ec8-0d30-538a-bad2-13f2dbcabddf
+ms.date: 06/08/2017
 ---
 
 

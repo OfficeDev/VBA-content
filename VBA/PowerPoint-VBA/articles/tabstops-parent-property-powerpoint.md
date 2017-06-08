@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TabStops.Parent
 ms.assetid: 5697b2b3-e2ad-343a-b52d-ab3b0bfd7ada
+ms.date: 06/08/2017
 ---
 
 

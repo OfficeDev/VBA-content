@@ -2,6 +2,7 @@
 title: Assign a Control Tip, Caption, or Accelerator Key to a Control
 ms.prod: OUTLOOK
 ms.assetid: ca3dfd8d-8052-36dd-df61-cd7a1c463848
+ms.date: 06/08/2017
 ---
 
 

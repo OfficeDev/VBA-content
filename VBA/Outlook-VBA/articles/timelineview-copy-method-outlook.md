@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.Copy
 ms.assetid: 0fb16952-06bb-d8ca-a8f2-9cb2e99fa299
+ms.date: 06/08/2017
 ---
 
 

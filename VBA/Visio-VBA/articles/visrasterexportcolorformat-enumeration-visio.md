@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRasterExportColorFormat
 ms.assetid: 0936350c-2dc0-313e-33e0-927f03dc690d
+ms.date: 06/08/2017
 ---
 
 

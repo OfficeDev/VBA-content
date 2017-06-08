@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.Close
 ms.assetid: 20586ee0-35b5-02f9-327b-8431f6083cca
+ms.date: 06/08/2017
 ---
 
 

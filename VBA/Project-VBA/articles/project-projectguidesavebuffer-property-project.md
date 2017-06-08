@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ProjectGuideSaveBuffer
 ms.assetid: 0e2ef078-6667-fd17-f240-4c847c88dbeb
+ms.date: 06/08/2017
 ---
 
 

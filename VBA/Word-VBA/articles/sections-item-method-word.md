@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Sections.Item
 ms.assetid: 81640338-dfdc-b2bb-d98f-4a91da0b76c6
+ms.date: 06/08/2017
 ---
 
 

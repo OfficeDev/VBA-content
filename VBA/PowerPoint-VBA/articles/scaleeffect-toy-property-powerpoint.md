@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ScaleEffect.ToY
 ms.assetid: 987b5456-ea44-0fa8-3f2b-7bc0c9dccbe0
+ms.date: 06/08/2017
 ---
 
 

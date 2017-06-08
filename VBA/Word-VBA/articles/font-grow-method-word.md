@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Font.Grow
 ms.assetid: 0bce9195-07df-d604-9208-1b1222a81b3e
+ms.date: 06/08/2017
 ---
 
 

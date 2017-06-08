@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.VBProjects
 ms.assetid: 30111a65-207f-9d68-434b-f02360a7a1bd
+ms.date: 06/08/2017
 ---
 
 

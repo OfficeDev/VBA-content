@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.ReverseEnds
 ms.assetid: 9175b098-6e1f-6b10-b685-d63896b397fc
+ms.date: 06/08/2017
 ---
 
 

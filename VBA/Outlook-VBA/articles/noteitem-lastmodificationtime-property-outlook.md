@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.LastModificationTime
 ms.assetid: 24545752-3c11-4a05-afeb-d18257894d20
+ms.date: 06/08/2017
 ---
 
 

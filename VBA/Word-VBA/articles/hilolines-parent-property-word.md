@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HiLoLines.Parent
 ms.assetid: bceabf9c-22be-81e2-b49a-e2b82e8772c4
+ms.date: 06/08/2017
 ---
 
 

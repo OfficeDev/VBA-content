@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FreeformBuilder.Creator
 ms.assetid: c8c85faf-83b8-1c09-b199-e711b9f3f5b4
+ms.date: 06/08/2017
 ---
 
 

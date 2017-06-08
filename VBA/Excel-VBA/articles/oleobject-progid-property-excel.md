@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.progID
 ms.assetid: cbec1e95-6bdd-ce55-f426-28dcf4191897
+ms.date: 06/08/2017
 ---
 
 

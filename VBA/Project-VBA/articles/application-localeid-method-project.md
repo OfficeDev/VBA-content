@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.LocaleID
 ms.assetid: aa84a612-3f7a-b47b-7ddc-39d99b1860e7
+ms.date: 06/08/2017
 ---
 
 

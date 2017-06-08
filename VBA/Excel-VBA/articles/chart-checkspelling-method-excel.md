@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.CheckSpelling
 ms.assetid: 9c39b0f1-4401-1399-58fa-444c9fa9fab4
+ms.date: 06/08/2017
 ---
 
 

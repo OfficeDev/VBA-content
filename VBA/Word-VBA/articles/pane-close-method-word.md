@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.Close
 ms.assetid: 05e27bd2-151e-a972-9da1-13dc1d81f513
+ms.date: 06/08/2017
 ---
 
 

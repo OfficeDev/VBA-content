@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.WBSSuccessors
 ms.assetid: 4d435645-8437-af81-ad38-eca0c27cfd80
+ms.date: 06/08/2017
 ---
 
 

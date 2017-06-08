@@ -2,6 +2,7 @@
 title: Adding Columns to a Table Object
 ms.prod: OUTLOOK
 ms.assetid: c1d652ef-8082-70f3-1216-d39e976e6b21
+ms.date: 06/08/2017
 ---
 
 

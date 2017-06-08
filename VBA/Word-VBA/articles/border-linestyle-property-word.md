@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Border.LineStyle
 ms.assetid: 1e95d9b9-1293-753a-efbd-8fc95e9dd8b0
+ms.date: 06/08/2017
 ---
 
 

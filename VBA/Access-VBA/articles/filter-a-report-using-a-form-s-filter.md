@@ -2,6 +2,7 @@
 title: Filter a Report Using a Form's Filter
 ms.prod: ACCESS
 ms.assetid: 2b029c13-5abd-4865-cd05-25d094a97b9f
+ms.date: 06/08/2017
 ---
 
 

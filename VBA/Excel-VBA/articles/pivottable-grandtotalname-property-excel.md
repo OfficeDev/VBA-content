@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.GrandTotalName
 ms.assetid: 7b0142aa-8b3d-a595-760e-b8ac5834e30f
+ms.date: 06/08/2017
 ---
 
 

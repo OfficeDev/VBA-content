@@ -2,6 +2,7 @@
 title: Character Sets
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: cdac75c7-d730-4666-8c95-52169ee4c2d9
+ms.date: 06/08/2017
 ---
 
 

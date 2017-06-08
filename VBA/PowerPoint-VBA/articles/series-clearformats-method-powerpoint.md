@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Series.ClearFormats
 ms.assetid: 068e8908-9e88-52e9-0e44-1260b7ad21c6
+ms.date: 06/08/2017
 ---
 
 

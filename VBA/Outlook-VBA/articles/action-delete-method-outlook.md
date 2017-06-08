@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Action.Delete
 ms.assetid: 96d498d2-9035-f31c-e2d1-3431e15f39db
+ms.date: 06/08/2017
 ---
 
 

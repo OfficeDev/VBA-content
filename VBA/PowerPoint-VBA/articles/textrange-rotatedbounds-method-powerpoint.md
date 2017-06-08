@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.RotatedBounds
 ms.assetid: 33a4393e-3b87-a4d3-0e16-8230a4beabe3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.MajorUnitScale
 ms.assetid: 42fe928b-de99-02d5-b56e-1e735ba5f0da
+ms.date: 06/08/2017
 ---
 
 

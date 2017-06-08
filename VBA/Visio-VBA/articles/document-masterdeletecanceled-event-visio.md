@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.MasterDeleteCanceled
 ms.assetid: e2d82547-46a9-7994-e317-78be658208c6
+ms.date: 06/08/2017
 ---
 
 

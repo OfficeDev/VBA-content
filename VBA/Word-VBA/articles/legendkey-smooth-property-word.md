@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendKey.Smooth
 ms.assetid: c6781541-3115-b957-4219-2badc0922019
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CardView.MultiLineFieldHeight
 ms.assetid: 71b87b15-ef48-9214-295c-731bb9fbc808
+ms.date: 06/08/2017
 ---
 
 

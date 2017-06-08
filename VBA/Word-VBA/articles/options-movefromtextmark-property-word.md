@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MoveFromTextMark
 ms.assetid: c8fa964e-8331-b4d5-ffac-3ab62f1b0d56
+ms.date: 06/08/2017
 ---
 
 

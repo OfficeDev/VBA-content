@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleConditions.ToOrCc
 ms.assetid: 28a34223-e47d-3843-4648-fe757568d406
+ms.date: 06/08/2017
 ---
 
 

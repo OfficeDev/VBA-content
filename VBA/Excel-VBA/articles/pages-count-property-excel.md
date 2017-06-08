@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Pages.Count
 ms.assetid: 8057db6b-1f13-3950-5508-0bbcec892359
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: DataSpace Object and CreateObject Method Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: 0132996b-e3e1-4dbe-95dc-4313824669b7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.RotationZ
 ms.assetid: f64d0efa-a109-2d63-73ca-43468399a4fe
+ms.date: 06/08/2017
 ---
 
 

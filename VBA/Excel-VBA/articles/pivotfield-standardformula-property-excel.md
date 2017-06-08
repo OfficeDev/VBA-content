@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.StandardFormula
 ms.assetid: 14d5cd3e-29d8-a70a-b52b-41c42252ef7c
+ms.date: 06/08/2017
 ---
 
 

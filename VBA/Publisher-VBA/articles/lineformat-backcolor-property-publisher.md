@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.BackColor
 ms.assetid: 45e18a2e-4354-65d7-9a80-53869c4914f0
+ms.date: 06/08/2017
 ---
 
 

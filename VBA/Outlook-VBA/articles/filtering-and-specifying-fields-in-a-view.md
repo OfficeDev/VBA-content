@@ -2,6 +2,7 @@
 title: Filtering and Specifying Fields in a View
 ms.prod: OUTLOOK
 ms.assetid: 99cef6bf-1bf6-706f-9972-22005a255416
+ms.date: 06/08/2017
 ---
 
 

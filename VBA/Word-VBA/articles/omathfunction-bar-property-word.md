@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFunction.Bar
 ms.assetid: 5c4caaa1-5938-518e-c5f9-d2e8e1072fb8
+ms.date: 06/08/2017
 ---
 
 

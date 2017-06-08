@@ -2,6 +2,7 @@
 title: ListBox Properties (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 109f9d33-4279-4127-b8ea-98a19513e9fc
+ms.date: 06/08/2017
 ---
 
 

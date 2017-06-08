@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.SpellingChecked
 ms.assetid: 5a58fb94-186b-d30c-bef4-d42a295fdeb6
+ms.date: 06/08/2017
 ---
 
 

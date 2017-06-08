@@ -2,6 +2,7 @@
 title: Create a Combination Field for a Folder
 ms.prod: OUTLOOK
 ms.assetid: e5d421c7-8ffd-6c15-0b9d-56e3b5899bbf
+ms.date: 06/08/2017
 ---
 
 

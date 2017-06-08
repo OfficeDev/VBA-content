@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.IMESentenceMode
 ms.assetid: 399a28d4-83a9-33d2-5f00-4f388efe048b
+ms.date: 06/08/2017
 ---
 
 

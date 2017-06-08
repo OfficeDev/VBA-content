@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.BubbleSizes
 ms.assetid: 41e56271-ec4c-7f9e-9642-174c8435e7d6
+ms.date: 06/08/2017
 ---
 
 

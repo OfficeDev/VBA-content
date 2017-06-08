@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlUpdateLinks
 ms.assetid: 8ddd9876-7c24-09dd-5b89-33804adc2097
+ms.date: 06/08/2017
 ---
 
 

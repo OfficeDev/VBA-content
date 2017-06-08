@@ -2,6 +2,7 @@
 title: SmartArt Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 60a9e7bf-8948-2c30-f206-61e7c46c1928
+ms.date: 06/08/2017
 ---
 
 

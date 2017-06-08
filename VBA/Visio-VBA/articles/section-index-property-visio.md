@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Section.Index
 ms.assetid: 200383d3-0a60-583b-4ccd-439b408986a0
+ms.date: 06/08/2017
 ---
 
 

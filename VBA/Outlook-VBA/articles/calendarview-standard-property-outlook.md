@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.CalendarView.Standard
 ms.assetid: 7d4ac52a-8a3d-25b1-6900-3799fe0fde70
+ms.date: 06/08/2017
 ---
 
 

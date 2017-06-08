@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.HiddenItems
 ms.assetid: ec30c18e-c030-23b8-2ea8-7ed7bfbd3312
+ms.date: 06/08/2017
 ---
 
 

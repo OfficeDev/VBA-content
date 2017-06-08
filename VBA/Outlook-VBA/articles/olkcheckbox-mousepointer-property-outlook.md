@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.MousePointer
 ms.assetid: 61db8ecc-4a10-dae0-4935-2e7b3386ba85
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.CropTop
 ms.assetid: dc9ef14a-99e0-6d5d-3df8-d7818569f31a
+ms.date: 06/08/2017
 ---
 
 

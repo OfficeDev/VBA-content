@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Characters.Delete
 ms.assetid: df4670e6-71e6-7878-aa9e-fce7bbedca42
+ms.date: 06/08/2017
 ---
 
 

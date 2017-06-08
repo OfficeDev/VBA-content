@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DisplayUnitLabel.Shadow
 ms.assetid: 99be31f5-fb42-f39a-0a4c-199f1b9d5992
+ms.date: 06/08/2017
 ---
 
 

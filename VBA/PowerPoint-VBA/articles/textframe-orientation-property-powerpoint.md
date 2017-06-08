@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame.Orientation
 ms.assetid: ce6a9578-3cbd-9b73-e374-c43fa4748054
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.UserDefinedProperties.Find
 ms.assetid: 1f4ddf1f-b36d-e852-17ff-700708893a30
+ms.date: 06/08/2017
 ---
 
 

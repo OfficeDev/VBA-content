@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.CopyObjectsWithCells
 ms.assetid: 86836569-7bd1-bfe7-2def-6cf43a7c0368
+ms.date: 06/08/2017
 ---
 
 

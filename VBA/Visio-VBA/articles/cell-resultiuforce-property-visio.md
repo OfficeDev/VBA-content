@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.ResultIUForce
 ms.assetid: ae26cf67-5f4c-6431-82ad-0866eac0fabd
+ms.date: 06/08/2017
 ---
 
 

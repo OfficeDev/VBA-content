@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.Visible
 ms.assetid: 68d69090-cf5f-5d24-de4d-a5304a41bd64
+ms.date: 06/08/2017
 ---
 
 

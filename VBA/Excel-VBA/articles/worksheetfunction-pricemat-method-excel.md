@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.PriceMat
 ms.assetid: ecef19b5-eff5-7f26-02c8-fc25fd7f5949
+ms.date: 06/08/2017
 ---
 
 

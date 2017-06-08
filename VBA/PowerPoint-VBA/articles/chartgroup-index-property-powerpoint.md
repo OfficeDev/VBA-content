@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.Index
 ms.assetid: 90c98031-4c7d-c3a3-8841-49edb50a00ad
+ms.date: 06/08/2017
 ---
 
 

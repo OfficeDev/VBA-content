@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.TaskFilterList
 ms.assetid: 303b49c8-cfc3-f4d6-197a-a4dfc130ee85
+ms.date: 06/08/2017
 ---
 
 

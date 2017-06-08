@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceTask.ModifiedBy
 ms.assetid: e18d400b-0e53-a599-e789-d47c78abec49
+ms.date: 06/08/2017
 ---
 
 

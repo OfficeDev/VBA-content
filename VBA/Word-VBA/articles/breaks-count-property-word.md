@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Breaks.Count
 ms.assetid: 33af59e1-182b-789d-35b6-a548379bafb0
+ms.date: 06/08/2017
 ---
 
 

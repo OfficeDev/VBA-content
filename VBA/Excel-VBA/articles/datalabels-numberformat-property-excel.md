@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabels.NumberFormat
 ms.assetid: 23a08b07-5a35-2249-6079-f8a9334c3bee
+ms.date: 06/08/2017
 ---
 
 

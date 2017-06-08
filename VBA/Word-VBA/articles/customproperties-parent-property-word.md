@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomProperties.Parent
 ms.assetid: 3b88b4da-7759-c1ad-3b38-c379e672a1d3
+ms.date: 06/08/2017
 ---
 
 

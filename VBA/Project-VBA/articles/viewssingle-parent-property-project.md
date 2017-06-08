@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.ViewsSingle.Parent
 ms.assetid: 6206bf01-2b02-574f-ed5a-7a93a2629cd3
+ms.date: 06/08/2017
 ---
 
 

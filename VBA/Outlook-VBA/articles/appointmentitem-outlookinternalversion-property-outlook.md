@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.OutlookInternalVersion
 ms.assetid: 2c7777c1-8195-db3e-0ca6-c2eeeb42f23c
+ms.date: 06/08/2017
 ---
 
 

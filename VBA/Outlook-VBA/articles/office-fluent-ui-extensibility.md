@@ -2,6 +2,7 @@
 title: Office Fluent UI Extensibility
 ms.prod: OUTLOOK
 ms.assetid: 362129ef-9ff2-48f6-a5ee-d899939aea34
+ms.date: 06/08/2017
 ---
 
 

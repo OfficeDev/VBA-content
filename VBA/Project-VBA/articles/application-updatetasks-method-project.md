@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.UpdateTasks
 ms.assetid: 4a04e459-9f5c-f944-d39f-dcbbfc48fdab
+ms.date: 06/08/2017
 ---
 
 

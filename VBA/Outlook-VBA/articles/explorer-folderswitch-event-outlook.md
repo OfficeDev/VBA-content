@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.FolderSwitch
 ms.assetid: 5dfa1fa3-c381-8e19-0528-d70a6fd63187
+ms.date: 06/08/2017
 ---
 
 

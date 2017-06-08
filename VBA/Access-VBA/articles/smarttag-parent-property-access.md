@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SmartTag.Parent
 ms.assetid: 5f3bcd79-072f-6b27-ae55-ce2da5fad0e5
+ms.date: 06/08/2017
 ---
 
 

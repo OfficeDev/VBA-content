@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.Minimize
 ms.assetid: fa29ccaa-9d61-c5c3-fc32-f53a5d96ff05
+ms.date: 06/08/2017
 ---
 
 

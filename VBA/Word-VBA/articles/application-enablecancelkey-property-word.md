@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.EnableCancelKey
 ms.assetid: dd7d6885-7306-c6f3-56ff-e6f828adc4ea
+ms.date: 06/08/2017
 ---
 
 

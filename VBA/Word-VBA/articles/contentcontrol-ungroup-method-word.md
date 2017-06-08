@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.Ungroup
 ms.assetid: 533e80a7-e2a0-ff46-3464-03e5de7faaf1
+ms.date: 06/08/2017
 ---
 
 

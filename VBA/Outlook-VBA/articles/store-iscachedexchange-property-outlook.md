@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Store.IsCachedExchange
 ms.assetid: 2f3fbd5d-8cf1-5fdd-6074-f4da4216dcd4
+ms.date: 06/08/2017
 ---
 
 

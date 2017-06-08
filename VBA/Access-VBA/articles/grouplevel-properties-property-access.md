@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.GroupLevel.Properties
 ms.assetid: a6b2743a-aaed-6ad7-9b38-523a94488665
+ms.date: 06/08/2017
 ---
 
 

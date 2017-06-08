@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Delete
 ms.assetid: 066b6dda-db9c-43aa-b65c-556b06b5b445
+ms.date: 06/08/2017
 ---
 
 

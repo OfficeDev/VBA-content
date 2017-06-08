@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.AddPeriods
 ms.assetid: 597592ba-6c26-7645-33b8-19ccb375a098
+ms.date: 06/08/2017
 ---
 
 

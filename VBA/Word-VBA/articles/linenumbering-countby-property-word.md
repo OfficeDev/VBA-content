@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineNumbering.CountBy
 ms.assetid: 7cb90bfb-84a9-d52f-f406-7bef835744d3
+ms.date: 06/08/2017
 ---
 
 

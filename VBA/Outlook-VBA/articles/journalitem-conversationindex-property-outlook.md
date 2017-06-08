@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.ConversationIndex
 ms.assetid: 16e60593-0919-47ac-b064-8d57357a45a8
+ms.date: 06/08/2017
 ---
 
 

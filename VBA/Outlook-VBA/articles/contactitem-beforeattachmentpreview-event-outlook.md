@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.BeforeAttachmentPreview
 ms.assetid: 7451778c-801a-15a9-203d-1a1c61ebc155
+ms.date: 06/08/2017
 ---
 
 

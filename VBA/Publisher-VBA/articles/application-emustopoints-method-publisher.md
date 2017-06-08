@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.EmusToPoints
 ms.assetid: 941e5975-ca7a-38dc-8116-e90b2a2ab6e5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.LineCount
 ms.assetid: a7dd67ca-ef98-6a7b-d703-344765328eda
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestDeclineItem.UserProperties
 ms.assetid: ee942258-9d9f-8473-879b-cf0679e32047
+ms.date: 06/08/2017
 ---
 
 

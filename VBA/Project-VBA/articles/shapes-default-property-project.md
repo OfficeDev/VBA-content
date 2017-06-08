@@ -2,6 +2,7 @@
 title: Shapes.Default Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 46895c7b-6cb1-0286-1e9d-8cc658ea6441
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.SeriesCollection
 ms.assetid: b9688aef-839a-b45b-1596-d8f02225aa05
+ms.date: 06/08/2017
 ---
 
 

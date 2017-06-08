@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarStyleLate
 ms.assetid: 824760ce-0692-de6a-cf50-90307d94f82a
+ms.date: 06/08/2017
 ---
 
 

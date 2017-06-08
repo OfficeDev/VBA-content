@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.GridlineStyleBottom
 ms.assetid: 77ee45fb-5dde-2925-d88b-da62a6f9ed27
+ms.date: 06/08/2017
 ---
 
 

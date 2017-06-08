@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Interior
 ms.assetid: 6fc3e311-a7c9-bfa9-7459-9cea177b08e5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextInput.Default
 ms.assetid: 7a1f8ed0-ac2a-f893-6a92-49afa4044a0f
+ms.date: 06/08/2017
 ---
 
 

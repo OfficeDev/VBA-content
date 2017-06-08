@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.CurrentUser
 ms.assetid: 1cf7ee61-459c-1224-cfdf-a0b051eeb06e
+ms.date: 06/08/2017
 ---
 
 

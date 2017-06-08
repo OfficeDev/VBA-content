@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ViewList
 ms.assetid: 5a55b42b-f8eb-3fe4-5477-6d1f80b7b1d8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.InlineTextRange
 ms.assetid: 40b0ea73-499d-a930-da09-2f20066b7129
+ms.date: 06/08/2017
 ---
 
 

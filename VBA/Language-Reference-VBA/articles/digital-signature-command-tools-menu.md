@@ -2,6 +2,7 @@
 title: Digital Signature Command (Tools Menu)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 0e500525-3bfd-f507-e82e-0e622aab4f54
+ms.date: 06/08/2017
 ---
 
 

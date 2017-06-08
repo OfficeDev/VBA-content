@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.BeforeAttachmentRead
 ms.assetid: c4e83a89-5ae9-ece3-b884-8f19adbdcc40
+ms.date: 06/08/2017
 ---
 
 

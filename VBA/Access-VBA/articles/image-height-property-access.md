@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.Height
 ms.assetid: cfc48a43-736f-58c0-95a5-fe248de8b9d3
+ms.date: 06/08/2017
 ---
 
 

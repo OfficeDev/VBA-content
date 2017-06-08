@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.HideSelection
 ms.assetid: fe840b76-7f50-8801-642f-3cce6707bb62
+ms.date: 06/08/2017
 ---
 
 

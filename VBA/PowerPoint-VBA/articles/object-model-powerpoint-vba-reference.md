@@ -2,6 +2,7 @@
 title: Object model (PowerPoint VBA reference)
 ms.prod: POWERPOINT
 ms.assetid: 00acd64a-5896-0459-39af-98df2849849e
+ms.date: 06/08/2017
 ---
 
 

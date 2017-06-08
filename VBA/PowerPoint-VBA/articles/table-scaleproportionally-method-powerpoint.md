@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.ScaleProportionally
 ms.assetid: 1c703fe7-d657-5588-1991-23304a5b2bda
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: InvisibleApp.QueryCancelReplaceShapes Event (Visio)
 ms.prod: VISIO
 ms.assetid: 5e5d9b76-dfd4-1d02-d205-9e64350449d5
+ms.date: 06/08/2017
 ---
 
 

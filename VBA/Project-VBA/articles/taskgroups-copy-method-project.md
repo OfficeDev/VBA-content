@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TaskGroups.Copy
 ms.assetid: e69fe06d-3855-a8ac-32fe-752ff280fe85
+ms.date: 06/08/2017
 ---
 
 

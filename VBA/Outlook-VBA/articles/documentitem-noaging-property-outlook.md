@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.NoAging
 ms.assetid: 33d66a6d-abff-d7d1-ca86-80a7a2caeb79
+ms.date: 06/08/2017
 ---
 
 

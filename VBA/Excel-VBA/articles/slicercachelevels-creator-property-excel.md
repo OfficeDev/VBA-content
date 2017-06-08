@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SlicerCacheLevels.Creator
 ms.assetid: dfbed228-a769-86b4-7f1f-fbe55060fead
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DeliverableLinkToTask
 ms.assetid: b3cfea3d-dc49-52a7-2e10-3d1f12cefbc1
+ms.date: 06/08/2017
 ---
 
 

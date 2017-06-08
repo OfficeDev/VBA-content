@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Coauthoring.PendingUpdates
 ms.assetid: 50650af5-e139-936d-4025-2190feebfe88
+ms.date: 06/08/2017
 ---
 
 

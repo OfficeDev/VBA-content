@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.Dial
 ms.assetid: 1fd29ed8-e983-c668-c48f-f642c56bfcd2
+ms.date: 06/08/2017
 ---
 
 

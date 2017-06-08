@@ -2,6 +2,7 @@
 title: Using Visual Basic Scripting Edition
 ms.prod: OUTLOOK
 ms.assetid: 86737508-e2bf-40c9-be0c-ebe64f3e9c64
+ms.date: 06/08/2017
 ---
 
 

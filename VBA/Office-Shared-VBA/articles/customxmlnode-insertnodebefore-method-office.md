@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLNode.InsertNodeBefore
 ms.assetid: b2805906-16b7-aebd-ccde-ded736a1b69b
+ms.date: 06/08/2017
 ---
 
 

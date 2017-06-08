@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.SetMenuItem
 ms.assetid: 690263c1-5e0f-54cd-1032-b2f718d82075
+ms.date: 06/08/2017
 ---
 
 

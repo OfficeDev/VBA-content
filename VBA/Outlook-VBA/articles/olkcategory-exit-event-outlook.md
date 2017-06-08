@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCategory.Exit
 ms.assetid: bc1dac11-00f0-7fcb-9a8f-c8fde0d61e51
+ms.date: 06/08/2017
 ---
 
 

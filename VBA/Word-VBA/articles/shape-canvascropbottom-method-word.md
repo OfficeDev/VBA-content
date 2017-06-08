@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.CanvasCropBottom
 ms.assetid: 13e9d954-3f95-2cf1-e2d7-314b67e25e33
+ms.date: 06/08/2017
 ---
 
 

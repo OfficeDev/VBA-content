@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.FindShapeByWizardTag
 ms.assetid: c6db9ba7-15b0-e8f0-1ed2-08b6e978c948
+ms.date: 06/08/2017
 ---
 
 

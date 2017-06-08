@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayUnitLabel.Delete
 ms.assetid: 8f1200ad-ceba-c761-3abd-d2ac1ac1f4e2
+ms.date: 06/08/2017
 ---
 
 

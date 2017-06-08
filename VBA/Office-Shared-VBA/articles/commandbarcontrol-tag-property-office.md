@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.Tag
 ms.assetid: d528c260-09dc-9cb2-d8ce-8476f91ebc7b
+ms.date: 06/08/2017
 ---
 
 

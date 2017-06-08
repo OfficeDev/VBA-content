@@ -2,6 +2,7 @@
 title: Field (ADO for Visual C++ Syntax)
 ms.prod: ACCESS
 ms.assetid: 0e45d2ab-850d-5b1c-ac78-95c966d8cf26
+ms.date: 06/08/2017
 ---
 
 

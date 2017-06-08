@@ -2,6 +2,7 @@
 title: Chart.AutoScaling Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: d7e1c8f7-8a2b-0474-1b4a-28a63605e929
+ms.date: 06/08/2017
 ---
 
 

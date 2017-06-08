@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Revisions.Parent
 ms.assetid: 88f0c775-cf48-4cbd-4d94-6d57771f26a0
+ms.date: 06/08/2017
 ---
 
 

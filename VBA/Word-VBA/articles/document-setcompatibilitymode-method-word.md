@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SetCompatibilityMode
 ms.assetid: f167a640-340e-56ed-34c0-0c3dbff8575a
+ms.date: 06/08/2017
 ---
 
 

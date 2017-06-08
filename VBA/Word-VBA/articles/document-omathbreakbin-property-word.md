@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.OMathBreakBin
 ms.assetid: 7ec16236-3597-232b-f640-2a9c5713865e
+ms.date: 06/08/2017
 ---
 
 

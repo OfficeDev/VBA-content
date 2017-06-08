@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.Layout
 ms.assetid: f2c64167-b3d0-098f-8a86-755efc28f548
+ms.date: 06/08/2017
 ---
 
 

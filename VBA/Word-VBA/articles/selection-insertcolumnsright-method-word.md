@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.InsertColumnsRight
 ms.assetid: 0367ae17-d5f0-90f6-7834-4856ff7a1530
+ms.date: 06/08/2017
 ---
 
 

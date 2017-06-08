@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.MouseUp
 ms.assetid: 8154f3bd-0e33-73cf-6879-aeff297c72ea
+ms.date: 06/08/2017
 ---
 
 

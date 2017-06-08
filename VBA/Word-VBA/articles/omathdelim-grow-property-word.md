@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathDelim.Grow
 ms.assetid: d9aa6587-2c70-7690-22c6-3f97e21d3138
+ms.date: 06/08/2017
 ---
 
 

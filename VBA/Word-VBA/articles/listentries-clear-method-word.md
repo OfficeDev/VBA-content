@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListEntries.Clear
 ms.assetid: 3761ca87-db01-3b84-f1c8-01cc902af5b8
+ms.date: 06/08/2017
 ---
 
 

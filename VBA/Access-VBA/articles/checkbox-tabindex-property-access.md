@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.TabIndex
 ms.assetid: 094064c7-83f3-8d3d-25f2-b5b2956331ef
+ms.date: 06/08/2017
 ---
 
 

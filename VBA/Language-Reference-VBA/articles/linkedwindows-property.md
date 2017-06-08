@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.LinkedWindows
 ms.assetid: 65f154af-9be9-d40d-ab60-76371913a60d
+ms.date: 06/08/2017
 ---
 
 

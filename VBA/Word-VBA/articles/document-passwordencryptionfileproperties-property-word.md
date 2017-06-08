@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.PasswordEncryptionFileProperties
 ms.assetid: 8da8be02-636b-bcfb-e12c-14eadf72b3f1
+ms.date: 06/08/2017
 ---
 
 

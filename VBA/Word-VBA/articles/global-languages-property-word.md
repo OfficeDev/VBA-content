@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.Languages
 ms.assetid: 6f0d87f8-f0f8-5865-3ba5-2a383c212998
+ms.date: 06/08/2017
 ---
 
 

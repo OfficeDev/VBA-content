@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ShapeLinkDeleted
 ms.assetid: 01b968ce-ec8b-0dc3-f804-318b57fa0635
+ms.date: 06/08/2017
 ---
 
 

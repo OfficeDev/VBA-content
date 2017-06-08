@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Class
 ms.assetid: a79d30fc-04a1-36cb-c4f5-8c9cc063b89e
+ms.date: 06/08/2017
 ---
 
 

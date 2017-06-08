@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.AudioSamplingRate
 ms.assetid: 4e1f84b6-91af-b3f8-0d2c-8a9bf7ad1ac5
+ms.date: 06/08/2017
 ---
 
 

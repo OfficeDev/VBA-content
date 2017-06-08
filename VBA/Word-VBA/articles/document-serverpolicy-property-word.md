@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ServerPolicy
 ms.assetid: dd3d41c3-588e-3a9b-049a-9f7e18402a95
+ms.date: 06/08/2017
 ---
 
 

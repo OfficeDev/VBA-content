@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Binom_Inv
 ms.assetid: 30af29b2-fc97-656b-d703-905caf7fcbb5
+ms.date: 06/08/2017
 ---
 
 

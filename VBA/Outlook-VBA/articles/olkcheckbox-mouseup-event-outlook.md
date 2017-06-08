@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.MouseUp
 ms.assetid: 0c5283d7-ef9d-19aa-52ff-0399c69aa41b
+ms.date: 06/08/2017
 ---
 
 

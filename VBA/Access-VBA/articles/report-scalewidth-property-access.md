@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.ScaleWidth
 ms.assetid: b6bdab85-d0d0-99d1-af59-b0b0fe48ab1e
+ms.date: 06/08/2017
 ---
 
 

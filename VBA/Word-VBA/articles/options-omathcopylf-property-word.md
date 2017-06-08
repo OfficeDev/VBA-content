@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.OMathCopyLF
 ms.assetid: 39f0bb85-198f-3970-717d-8f9a01091e5e
+ms.date: 06/08/2017
 ---
 
 

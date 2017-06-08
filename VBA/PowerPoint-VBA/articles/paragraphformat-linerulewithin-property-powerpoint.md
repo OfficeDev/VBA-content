@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.LineRuleWithin
 ms.assetid: 0bf91b11-fe28-eec8-75f8-8fccbed19f5c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.OneColorGradient
 ms.assetid: 993ae539-0051-cbf1-390b-4852aa97f5fb
+ms.date: 06/08/2017
 ---
 
 

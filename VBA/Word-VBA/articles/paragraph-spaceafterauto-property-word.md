@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.SpaceAfterAuto
 ms.assetid: ca17c146-ad99-2d2c-8f04-4c6183bf7182
+ms.date: 06/08/2017
 ---
 
 

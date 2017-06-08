@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MasterShortcut.ShapeHelp
 ms.assetid: 79a4c230-4f34-1644-6da3-bd72f116c11e
+ms.date: 06/08/2017
 ---
 
 

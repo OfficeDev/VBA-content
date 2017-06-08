@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumber.Delete
 ms.assetid: 04d7212b-0439-f8b2-e886-bc9596de134c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.DataFields
 ms.assetid: 32f9f635-c247-ad1b-6bb8-6eef4f03dc67
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.BarShape
 ms.assetid: da27d6a0-360f-dafa-3049-d9fdc2ee43ff
+ms.date: 06/08/2017
 ---
 
 

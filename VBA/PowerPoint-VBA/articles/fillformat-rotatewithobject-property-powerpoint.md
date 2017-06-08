@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.RotateWithObject
 ms.assetid: 46197f92-b12a-957f-1ab5-063b0d4d2933
+ms.date: 06/08/2017
 ---
 
 

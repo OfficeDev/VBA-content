@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HeadersFooters.SlideNumber
 ms.assetid: c846069f-dd3f-c5ac-f9ac-b5a7ed499bdc
+ms.date: 06/08/2017
 ---
 
 

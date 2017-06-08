@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SnapEnabled
 ms.assetid: d2f7b068-b8a8-21d1-9a34-82d693fe2cad
+ms.date: 06/08/2017
 ---
 
 

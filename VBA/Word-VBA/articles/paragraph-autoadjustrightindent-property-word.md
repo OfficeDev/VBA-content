@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.AutoAdjustRightIndent
 ms.assetid: 274329db-9c26-e2d2-4fb8-4f7af92b3d83
+ms.date: 06/08/2017
 ---
 
 

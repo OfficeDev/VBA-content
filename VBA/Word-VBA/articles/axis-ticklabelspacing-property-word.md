@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.TickLabelSpacing
 ms.assetid: af49728e-6c42-7846-50da-127c855264bf
+ms.date: 06/08/2017
 ---
 
 

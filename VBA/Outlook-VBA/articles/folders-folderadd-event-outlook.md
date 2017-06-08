@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folders.FolderAdd
 ms.assetid: d72beffe-5a6b-41f1-0a0e-2f8548cbdc84
+ms.date: 06/08/2017
 ---
 
 

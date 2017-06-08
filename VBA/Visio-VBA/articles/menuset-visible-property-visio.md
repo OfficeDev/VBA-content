@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSet.Visible
 ms.assetid: f2405dce-781b-dfc5-5f33-f72cf3572dff
+ms.date: 06/08/2017
 ---
 
 

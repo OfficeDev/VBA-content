@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CanvasShapes.Range
 ms.assetid: 4e0e24aa-7510-a002-63d2-e6dbb5bc3398
+ms.date: 06/08/2017
 ---
 
 

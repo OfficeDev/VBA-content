@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.ErrorBar
 ms.assetid: 5deb5b19-50f1-2327-0b54-0952cd89756e
+ms.date: 06/08/2017
 ---
 
 

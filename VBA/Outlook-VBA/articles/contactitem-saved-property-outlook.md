@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Saved
 ms.assetid: eecebb77-163a-de3c-26b8-8a5916749e18
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.ColumnStripe
 ms.assetid: 039047df-1195-94c1-5400-3084940a9a0a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ColorEffect.Parent
 ms.assetid: 9268ba5b-e07b-8919-dcdd-cba134cf4173
+ms.date: 06/08/2017
 ---
 
 

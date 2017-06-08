@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.FrameDisplayBorders
 ms.assetid: a1993b72-2737-92d8-d1bc-b4bc0182b23a
+ms.date: 06/08/2017
 ---
 
 

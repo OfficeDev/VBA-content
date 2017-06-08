@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BeginUndoScope
 ms.assetid: 7e3a4e34-6796-4277-1dc4-7252ee2b6720
+ms.date: 06/08/2017
 ---
 
 

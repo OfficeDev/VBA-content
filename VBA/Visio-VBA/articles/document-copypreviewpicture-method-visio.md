@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.CopyPreviewPicture
 ms.assetid: a0d5799e-700c-6dd6-ce91-08c8eecda79f
+ms.date: 06/08/2017
 ---
 
 

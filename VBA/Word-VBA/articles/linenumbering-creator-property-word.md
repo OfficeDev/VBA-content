@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineNumbering.Creator
 ms.assetid: 701e2f58-272c-d24d-367a-a5db952ae106
+ms.date: 06/08/2017
 ---
 
 

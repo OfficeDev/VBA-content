@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.OutlineNumber
 ms.assetid: 68c0a85b-99e2-7624-705b-c67e8ad96fc7
+ms.date: 06/08/2017
 ---
 
 

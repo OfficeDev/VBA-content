@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextEffectFormat.Tracking
 ms.assetid: b5190203-66c4-238b-e5b4-b61a9c70d99c
+ms.date: 06/08/2017
 ---
 
 

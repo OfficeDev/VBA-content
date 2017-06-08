@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicers.Count
 ms.assetid: bb5cafff-2c72-61b6-5c91-bd81594b03dd
+ms.date: 06/08/2017
 ---
 
 

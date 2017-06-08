@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FormatCopy
 ms.assetid: d67082ab-01f5-df2c-377d-c539b3863ef0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimeZones.Session
 ms.assetid: e4d6ca4d-914d-405c-8765-6ca1f97a9472
+ms.date: 06/08/2017
 ---
 
 

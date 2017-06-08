@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.HomeTelephoneNumber
 ms.assetid: d8e6ffa0-2d1b-384a-070f-2511be2a7a90
+ms.date: 06/08/2017
 ---
 
 

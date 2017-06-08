@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalloutFormat.Angle
 ms.assetid: 8f3dab54-4597-e22c-ae3e-cf894849b668
+ms.date: 06/08/2017
 ---
 
 

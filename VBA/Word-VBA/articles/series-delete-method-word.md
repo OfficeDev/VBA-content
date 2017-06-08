@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.Delete
 ms.assetid: 638631b8-a12a-fd26-39c2-a01b24582c9d
+ms.date: 06/08/2017
 ---
 
 

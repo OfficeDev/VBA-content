@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.TextboxTightWrap
 ms.assetid: 8b6f5a81-aa01-026a-e7db-738f6ae2af7b
+ms.date: 06/08/2017
 ---
 
 

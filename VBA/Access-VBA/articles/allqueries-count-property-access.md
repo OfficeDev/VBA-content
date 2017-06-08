@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AllQueries.Count
 ms.assetid: 20652f76-58f7-d703-bcdf-e8f5189a142f
+ms.date: 06/08/2017
 ---
 
 

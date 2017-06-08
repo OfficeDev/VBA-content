@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetCalculate
 ms.assetid: 0610bfa5-15dc-a57f-f362-cf897bd54b91
+ms.date: 06/08/2017
 ---
 
 

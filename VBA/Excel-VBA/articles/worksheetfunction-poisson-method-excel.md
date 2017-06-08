@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Poisson
 ms.assetid: a0c811b7-30e3-b50f-fb81-7553bb322ec1
+ms.date: 06/08/2017
 ---
 
 

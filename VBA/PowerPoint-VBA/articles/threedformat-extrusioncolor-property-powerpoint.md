@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.ExtrusionColor
 ms.assetid: 70d290bd-84e6-8a24-0c87-3a9b10ae4282
+ms.date: 06/08/2017
 ---
 
 

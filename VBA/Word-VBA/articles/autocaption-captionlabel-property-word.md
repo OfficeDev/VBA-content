@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCaption.CaptionLabel
 ms.assetid: 8e4864e4-e42b-ccc0-9611-eda7753089f4
+ms.date: 06/08/2017
 ---
 
 

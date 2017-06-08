@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.ParentGroup
 ms.assetid: 6c43979d-fe16-4093-9eb2-78863230e6d2
+ms.date: 06/08/2017
 ---
 
 

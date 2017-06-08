@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shapes.AddConnector
 ms.assetid: 7ea648eb-ac6b-981d-652b-40cea1b3a8da
+ms.date: 06/08/2017
 ---
 
 

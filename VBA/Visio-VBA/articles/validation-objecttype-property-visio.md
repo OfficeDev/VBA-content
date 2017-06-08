@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Validation.ObjectType
 ms.assetid: 721d90f5-2f45-2072-5b2c-7904a8274c03
+ms.date: 06/08/2017
 ---
 
 

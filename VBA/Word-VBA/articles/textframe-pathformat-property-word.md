@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.PathFormat
 ms.assetid: 16d389c8-eda3-dec6-a40c-056e70f51dec
+ms.date: 06/08/2017
 ---
 
 

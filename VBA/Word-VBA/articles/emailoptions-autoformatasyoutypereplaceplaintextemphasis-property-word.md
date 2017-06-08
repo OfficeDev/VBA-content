@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis
 ms.assetid: 2fbd053f-cc0b-e38b-2f2a-dfc0c7f49a38
+ms.date: 06/08/2017
 ---
 
 

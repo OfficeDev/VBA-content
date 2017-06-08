@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeNode
 ms.assetid: 031edfef-4eae-39b2-0c73-90d2065741aa
+ms.date: 06/08/2017
 ---
 
 

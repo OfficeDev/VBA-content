@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Replacement.ClearFormatting
 ms.assetid: 3229f741-91f0-1175-5652-96047547d811
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HeaderFooter.Text
 ms.assetid: c158552c-834b-819a-871c-35dbcba3fdfc
+ms.date: 06/08/2017
 ---
 
 

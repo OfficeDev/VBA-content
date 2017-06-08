@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.AutoFormatRules
 ms.assetid: 9f5dbae6-a9a4-2ff7-087b-906e9bdc2da0
+ms.date: 06/08/2017
 ---
 
 

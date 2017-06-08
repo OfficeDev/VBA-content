@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.CreationTime
 ms.assetid: 83269f49-59a7-d3e0-932e-5ca697977614
+ms.date: 06/08/2017
 ---
 
 

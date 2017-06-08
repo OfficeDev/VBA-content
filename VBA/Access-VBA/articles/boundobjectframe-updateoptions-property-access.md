@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.UpdateOptions
 ms.assetid: 919ad3b4-1128-947a-09c0-7c7b0373698e
+ms.date: 06/08/2017
 ---
 
 

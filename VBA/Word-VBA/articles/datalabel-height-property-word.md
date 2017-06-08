@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.Height
 ms.assetid: 70232f9e-eb30-6e3e-fe12-82ec941d9261
+ms.date: 06/08/2017
 ---
 
 

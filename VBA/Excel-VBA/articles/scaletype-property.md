@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ScaleType
 ms.assetid: 500fa5e4-4e19-bdd4-fa28-4dcba763c8a7
+ms.date: 06/08/2017
 ---
 
 

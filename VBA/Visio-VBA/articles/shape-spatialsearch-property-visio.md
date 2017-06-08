@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.SpatialSearch
 ms.assetid: 360b48b0-783a-7282-b3fe-83f424c393d4
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Glossary (VBA)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 7ce2c60f-29fb-96e2-2516-73c99a6e7cff
+ms.date: 06/08/2017
 ---
 
 

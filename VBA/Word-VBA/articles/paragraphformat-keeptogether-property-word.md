@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.KeepTogether
 ms.assetid: 7cc4cade-f986-8dad-a1b3-e1fade4c6825
+ms.date: 06/08/2017
 ---
 
 

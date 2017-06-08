@@ -2,6 +2,7 @@
 title: Methods (Visual Basic for Applications)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 54e96712-2cc1-4741-a37d-8e6c4e13f3dc
+ms.date: 06/08/2017
 ---
 
 

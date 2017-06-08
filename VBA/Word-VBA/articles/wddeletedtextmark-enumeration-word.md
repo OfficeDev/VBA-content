@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdDeletedTextMark
 ms.assetid: 622bd7c3-c3ac-d17c-6f17-607fa92db037
+ms.date: 06/08/2017
 ---
 
 

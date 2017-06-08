@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Options.DisplayPasteOptions
 ms.assetid: 4c5f0851-585c-e4c6-a6c7-c3bfd3666883
+ms.date: 06/08/2017
 ---
 
 

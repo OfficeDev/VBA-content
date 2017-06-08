@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.View.Zoom
 ms.assetid: 83624f62-0da8-ad96-d887-7f87cb4cacd2
+ms.date: 06/08/2017
 ---
 
 

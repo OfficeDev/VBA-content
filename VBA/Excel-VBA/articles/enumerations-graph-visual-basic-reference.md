@@ -2,6 +2,7 @@
 title: Enumerations (Graph Visual Basic reference)
 ms.prod: EXCEL
 ms.assetid: 069c9a0f-0f51-ba87-2e83-8f8db63ad656
+ms.date: 06/08/2017
 ---
 
 

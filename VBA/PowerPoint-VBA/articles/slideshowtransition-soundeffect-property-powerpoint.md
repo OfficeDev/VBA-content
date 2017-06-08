@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowTransition.SoundEffect
 ms.assetid: 69cff9a7-777a-57a0-d897-f132ba028bdd
+ms.date: 06/08/2017
 ---
 
 

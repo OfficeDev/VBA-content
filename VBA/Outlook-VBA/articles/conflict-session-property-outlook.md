@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Conflict.Session
 ms.assetid: cd7eaf1e-545b-5a40-d95c-841f72a7a15e
+ms.date: 06/08/2017
 ---
 
 

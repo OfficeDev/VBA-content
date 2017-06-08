@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.SelectedShapeIndex
 ms.assetid: dbf6c737-e8b5-8768-533f-2625d99a1717
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GlowFormat.Creator
 ms.assetid: 09e9dd6a-23ab-0cef-6c9c-a28b637faac9
+ms.date: 06/08/2017
 ---
 
 

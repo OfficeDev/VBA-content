@@ -2,6 +2,7 @@
 title: TextBox.BorderStyle Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: c71b8117-a731-d0ab-89a7-84dd9aa089c4
+ms.date: 06/08/2017
 ---
 
 

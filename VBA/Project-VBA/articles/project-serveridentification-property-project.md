@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ServerIdentification
 ms.assetid: e424eafb-c763-18e1-871c-626eae6f2036
+ms.date: 06/08/2017
 ---
 
 

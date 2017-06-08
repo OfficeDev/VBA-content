@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.IsNonText
 ms.assetid: d6260ebc-7fdb-c79a-1031-737e99b7695b
+ms.date: 06/08/2017
 ---
 
 

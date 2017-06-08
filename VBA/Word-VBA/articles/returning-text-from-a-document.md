@@ -2,6 +2,7 @@
 title: Returning Text from a Document
 ms.prod: WORD
 ms.assetid: bacf3de8-ae60-2f27-fa28-e53518e04be2
+ms.date: 06/08/2017
 ---
 
 

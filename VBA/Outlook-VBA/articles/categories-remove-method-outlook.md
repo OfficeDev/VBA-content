@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Categories.Remove
 ms.assetid: 8c16b02e-0297-9f36-7cb7-20e6ab0c286b
+ms.date: 06/08/2017
 ---
 
 

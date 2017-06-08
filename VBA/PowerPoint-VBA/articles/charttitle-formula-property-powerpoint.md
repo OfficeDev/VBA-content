@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartTitle.Formula
 ms.assetid: 39b9074e-5089-5f44-44ba-a20ec6b22963
+ms.date: 06/08/2017
 ---
 
 

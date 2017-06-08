@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Printer.PrinterName
 ms.assetid: 6987b89b-a77e-03c5-bd7e-015510034550
+ms.date: 06/08/2017
 ---
 
 

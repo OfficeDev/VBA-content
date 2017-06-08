@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPictureColorType
 ms.assetid: d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae
+ms.date: 06/08/2017
 ---
 
 

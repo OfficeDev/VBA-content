@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ExecuteExcel4Macro
 ms.assetid: 0afa77ab-43e0-0120-4ffd-25e290c72f6c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalculatedFields.Application
 ms.assetid: 081d747a-4382-dd94-ce05-b2248b745f2a
+ms.date: 06/08/2017
 ---
 
 

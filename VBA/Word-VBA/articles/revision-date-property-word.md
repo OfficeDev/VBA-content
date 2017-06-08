@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Revision.Date
 ms.assetid: 3c8941e1-7b1e-23d0-89f6-a83db6c00f20
+ms.date: 06/08/2017
 ---
 
 

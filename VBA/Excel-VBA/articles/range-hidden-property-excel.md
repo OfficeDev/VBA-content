@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Hidden
 ms.assetid: 7e785c38-a8ae-3810-a88a-0bfb7b74e2d6
+ms.date: 06/08/2017
 ---
 
 

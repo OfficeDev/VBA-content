@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.Subscript
 ms.assetid: d46ee830-a4d0-3812-eca0-5b6fa86511b2
+ms.date: 06/08/2017
 ---
 
 

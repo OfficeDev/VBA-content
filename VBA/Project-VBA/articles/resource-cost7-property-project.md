@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Cost7
 ms.assetid: 2022678d-f3d0-32a7-f253-6d56ef31a121
+ms.date: 06/08/2017
 ---
 
 

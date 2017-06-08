@@ -2,6 +2,7 @@
 title: TextBox Properties (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 90e18b6b-da77-4b0a-ae2e-2b44ebf1705f
+ms.date: 06/08/2017
 ---
 
 

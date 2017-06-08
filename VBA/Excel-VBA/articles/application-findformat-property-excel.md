@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.FindFormat
 ms.assetid: b2b62232-1f11-ec82-9344-edd39e0ae33d
+ms.date: 06/08/2017
 ---
 
 

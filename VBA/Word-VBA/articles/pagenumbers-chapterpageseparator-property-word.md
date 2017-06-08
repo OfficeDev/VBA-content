@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.ChapterPageSeparator
 ms.assetid: f7bd5275-2bb3-fa5f-3a1b-09affa027daf
+ms.date: 06/08/2017
 ---
 
 

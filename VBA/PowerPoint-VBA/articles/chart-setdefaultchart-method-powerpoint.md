@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.SetDefaultChart
 ms.assetid: a75ac074-dd5d-7530-2446-cc89b3d1ac5f
+ms.date: 06/08/2017
 ---
 
 

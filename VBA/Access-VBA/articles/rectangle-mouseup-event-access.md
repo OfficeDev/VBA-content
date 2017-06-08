@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.MouseUp
 ms.assetid: cac916c9-47b0-df58-e66a-4fc923fbb2d3
+ms.date: 06/08/2017
 ---
 
 

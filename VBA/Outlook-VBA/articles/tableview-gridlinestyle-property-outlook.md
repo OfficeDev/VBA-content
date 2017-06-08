@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.GridLineStyle
 ms.assetid: b3a95e34-4d22-e208-255d-43fc2456f0e6
+ms.date: 06/08/2017
 ---
 
 

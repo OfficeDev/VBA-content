@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.HyphenationZone
 ms.assetid: 30ea2a99-a8f5-10f4-58f9-48533bf3ec00
+ms.date: 06/08/2017
 ---
 
 

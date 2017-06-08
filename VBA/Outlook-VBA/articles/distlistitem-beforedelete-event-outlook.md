@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.BeforeDelete
 ms.assetid: 095be9b1-b7c5-bc22-a478-4f4dfeb91641
+ms.date: 06/08/2017
 ---
 
 

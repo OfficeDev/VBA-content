@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.RotateWithObject
 ms.assetid: 96a0a7e9-be99-fb36-b245-8850297fa765
+ms.date: 06/08/2017
 ---
 
 

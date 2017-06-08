@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.ChangeDocument
 ms.assetid: c6defa92-99fb-973b-6bb2-e3c2a1b0a4f3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TabStop.Leader
 ms.assetid: 3e483648-b48f-c8e0-93c0-e83771c48299
+ms.date: 06/08/2017
 ---
 
 

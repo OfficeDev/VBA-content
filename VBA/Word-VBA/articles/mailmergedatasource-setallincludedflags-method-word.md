@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: 1fd70215-9b74-bf36-7ba2-9c02e2dc6a89
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartGroup.DoughnutHoleSize
 ms.assetid: d7c2cfbe-209b-2276-1245-2ddc31c1f93d
+ms.date: 06/08/2017
 ---
 
 

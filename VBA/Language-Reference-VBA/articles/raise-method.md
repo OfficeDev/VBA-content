@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Raise
 ms.assetid: 7e3ddb06-db93-ebce-7562-8a15c49261b1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.EntireColumn
 ms.assetid: 7be55670-75fd-fb02-dc1a-9d70e3a9d80d
+ms.date: 06/08/2017
 ---
 
 

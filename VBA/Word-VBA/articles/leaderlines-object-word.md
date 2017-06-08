@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LeaderLines
 ms.assetid: ea8805d1-eec7-eaf6-1046-967e28d6bc56
+ms.date: 06/08/2017
 ---
 
 

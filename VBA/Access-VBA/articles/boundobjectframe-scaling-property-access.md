@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.Scaling
 ms.assetid: 290104f8-663b-7865-9ac9-6dc6feb5b92f
+ms.date: 06/08/2017
 ---
 
 

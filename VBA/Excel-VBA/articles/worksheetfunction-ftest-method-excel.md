@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FTest
 ms.assetid: e1f01a38-2957-a97c-d84b-f6efdec88631
+ms.date: 06/08/2017
 ---
 
 

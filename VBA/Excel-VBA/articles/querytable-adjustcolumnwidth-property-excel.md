@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.AdjustColumnWidth
 ms.assetid: 2901cc84-92d2-7021-2360-9c31dc1153b3
+ms.date: 06/08/2017
 ---
 
 

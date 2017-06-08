@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.HoverThemeColorIndex
 ms.assetid: 9e8e2111-33b5-0dc8-5949-f6512b7603e4
+ms.date: 06/08/2017
 ---
 
 

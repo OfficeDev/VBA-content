@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EncryptionProvider.EncryptStream
 ms.assetid: 58a379f4-fb74-4a2c-b0ed-ce3e3151c292
+ms.date: 06/08/2017
 ---
 
 

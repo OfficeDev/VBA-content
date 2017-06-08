@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.BoundHeight
 ms.assetid: 078ff3f3-745d-05f7-c81e-f78f603a45df
+ms.date: 06/08/2017
 ---
 
 

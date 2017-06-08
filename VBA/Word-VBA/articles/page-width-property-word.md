@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Page.Width
 ms.assetid: 530e4e99-4962-5887-6a1d-da328f43ffb8
+ms.date: 06/08/2017
 ---
 
 

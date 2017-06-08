@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.Brightness
 ms.assetid: 385fbf20-db89-e159-31ec-2c9cf3bb5a3a
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.BeforeDataRecordsetDelete
 ms.assetid: 0d007a29-b7a9-5355-b3d4-dca8600ddc9f
+ms.date: 06/08/2017
 ---
 
 

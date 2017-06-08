@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.GetMargin
 ms.assetid: c0e224a1-f7a6-e16c-a99c-766a5a4ac207
+ms.date: 06/08/2017
 ---
 
 

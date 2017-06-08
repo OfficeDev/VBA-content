@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FDist
 ms.assetid: ddbcd66e-d85c-4f69-1ba9-138c30a3f7d4
+ms.date: 06/08/2017
 ---
 
 

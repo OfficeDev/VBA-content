@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.AfterRemoteChange
 ms.assetid: workbook-afterremotechange-event-excel
+ms.date: 06/08/2017
 ---
 
 

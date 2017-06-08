@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.InsertIndent
 ms.assetid: 1e004333-a64e-55e4-cf8a-d15e47236f94
+ms.date: 06/08/2017
 ---
 
 

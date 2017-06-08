@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Font.Parent
 ms.assetid: 9db366ea-8de3-5079-643a-dfd154e34e2d
+ms.date: 06/08/2017
 ---
 
 

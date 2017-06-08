@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.AutoResolvedWinner
 ms.assetid: cb43f885-07b0-aa7c-a055-7eb8027ee766
+ms.date: 06/08/2017
 ---
 
 

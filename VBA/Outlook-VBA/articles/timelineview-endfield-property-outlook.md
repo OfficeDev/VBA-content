@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.EndField
 ms.assetid: 7fef24ee-f96a-39e5-5b9a-9fe46ee7c627
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Rows.Parent
 ms.assetid: 4bb27136-518a-3f51-6210-84caffd911d2
+ms.date: 06/08/2017
 ---
 
 

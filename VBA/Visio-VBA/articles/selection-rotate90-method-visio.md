@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Rotate90
 ms.assetid: 619f0b7f-027f-5cd6-361a-ec3db73a2712
+ms.date: 06/08/2017
 ---
 
 

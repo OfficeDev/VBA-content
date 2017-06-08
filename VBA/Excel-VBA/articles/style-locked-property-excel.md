@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Style.Locked
 ms.assetid: f214ae7e-13d2-c1b3-8b5b-75d88638973a
+ms.date: 06/08/2017
 ---
 
 

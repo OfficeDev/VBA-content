@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Repaginate
 ms.assetid: 7a45ffbc-6512-6075-69a0-54a9987c27ca
+ms.date: 06/08/2017
 ---
 
 

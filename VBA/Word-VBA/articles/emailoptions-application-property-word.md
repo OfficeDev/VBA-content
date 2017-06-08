@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.Application
 ms.assetid: 6730c682-387d-3654-306b-b5bcd8a854d9
+ms.date: 06/08/2017
 ---
 
 

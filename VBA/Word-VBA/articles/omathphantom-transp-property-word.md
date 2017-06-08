@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathPhantom.Transp
 ms.assetid: 441cab93-4042-240a-3827-8461a1b32e4d
+ms.date: 06/08/2017
 ---
 
 

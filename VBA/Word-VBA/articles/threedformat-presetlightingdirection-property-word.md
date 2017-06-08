@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.PresetLightingDirection
 ms.assetid: 595b1541-c203-e736-2326-f7123f296d46
+ms.date: 06/08/2017
 ---
 
 

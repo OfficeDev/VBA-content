@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.DataLabel
 ms.assetid: d84afe14-7c11-8ccf-baf0-687b72f25314
+ms.date: 06/08/2017
 ---
 
 

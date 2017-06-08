@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormRegionStartup.GetFormRegionStorage
 ms.assetid: 685b5ed7-dd19-9040-664f-5deff6e738c7
+ms.date: 06/08/2017
 ---
 
 

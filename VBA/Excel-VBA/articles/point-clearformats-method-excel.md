@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Point.ClearFormats
 ms.assetid: 487bc619-209c-a0e3-a2f4-20a8b586b098
+ms.date: 06/08/2017
 ---
 
 

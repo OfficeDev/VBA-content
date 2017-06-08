@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ConditionalStyle.Application
 ms.assetid: 7d6ecd49-604a-117b-ca2e-a2e9af26d372
+ms.date: 06/08/2017
 ---
 
 

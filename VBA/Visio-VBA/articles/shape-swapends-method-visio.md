@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.SwapEnds
 ms.assetid: 54096674-eb4f-4f07-a1cf-701faf3b5fae
+ms.date: 06/08/2017
 ---
 
 

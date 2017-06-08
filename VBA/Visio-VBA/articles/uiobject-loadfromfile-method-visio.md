@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.UIObject.LoadFromFile
 ms.assetid: 6a4ef6d5-9a3a-771b-be87-bc5f21bce4e7
+ms.date: 06/08/2017
 ---
 
 

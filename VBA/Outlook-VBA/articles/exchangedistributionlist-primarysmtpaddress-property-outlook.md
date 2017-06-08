@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeDistributionList.PrimarySmtpAddress
 ms.assetid: f64bbc29-14c4-be68-402a-16d9ac34a727
+ms.date: 06/08/2017
 ---
 
 

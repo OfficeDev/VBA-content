@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressLists.Session
 ms.assetid: 60b4307f-92c7-abed-5bc7-2a190cddd4ca
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.IsVisible
 ms.assetid: e432566c-c8a9-6d08-4b01-5c5949248ba9
+ms.date: 06/08/2017
 ---
 
 

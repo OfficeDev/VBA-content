@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.InMergeMode
 ms.assetid: d9a4f840-eac2-0115-5bcf-df260b6db3c7
+ms.date: 06/08/2017
 ---
 
 

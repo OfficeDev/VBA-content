@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Importance
 ms.assetid: a3600292-d7a1-b9d7-e53c-f7da0bf144e8
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Manipulate Multivalued Fields With DAO
 ms.prod: ACCESS
 ms.assetid: a3c02fcd-ad48-c3fb-afa1-aabb43fc5bbf
+ms.date: 06/08/2017
 ---
 
 

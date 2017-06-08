@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.FarEastLineBreakLanguage
 ms.assetid: e0acc33d-0cb0-5422-4238-26b4071fb48c
+ms.date: 06/08/2017
 ---
 
 

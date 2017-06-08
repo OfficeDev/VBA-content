@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.CheckIn
 ms.assetid: 9620bd94-4b75-5c7e-2993-5018c5bb84e3
+ms.date: 06/08/2017
 ---
 
 

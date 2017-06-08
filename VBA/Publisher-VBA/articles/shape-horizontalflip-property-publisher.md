@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.HorizontalFlip
 ms.assetid: 5a940631-c63a-efdf-6cfb-dc6b82594028
+ms.date: 06/08/2017
 ---
 
 

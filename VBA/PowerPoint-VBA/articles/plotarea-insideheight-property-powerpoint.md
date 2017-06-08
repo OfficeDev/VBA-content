@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlotArea.InsideHeight
 ms.assetid: c775684d-57dd-d954-5e70-ee3af4788e40
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.OptionsPagesAdd
 ms.assetid: aa13cd97-de96-00f8-a532-ca8ee9b00343
+ms.date: 06/08/2017
 ---
 
 

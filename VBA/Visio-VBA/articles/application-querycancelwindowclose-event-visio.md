@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.QueryCancelWindowClose
 ms.assetid: f4ac803c-5a65-a310-f731-1d2666638525
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.GotFocus
 ms.assetid: 9c841973-cb31-2ec6-d593-97ad8803250b
+ms.date: 06/08/2017
 ---
 
 

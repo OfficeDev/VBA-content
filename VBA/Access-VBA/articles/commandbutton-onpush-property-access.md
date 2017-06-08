@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.OnPush
 ms.assetid: 38fab0d1-495e-9053-5e24-932ae0d8bdce
+ms.date: 06/08/2017
 ---
 
 

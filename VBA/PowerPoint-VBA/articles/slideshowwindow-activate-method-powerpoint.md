@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowWindow.Activate
 ms.assetid: 29700bb9-9029-e45f-db45-89f9374e4ca9
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Shape.Cut Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: f7deb163-3f43-206b-a8d4-2b0519d27e0e
+ms.date: 06/08/2017
 ---
 
 

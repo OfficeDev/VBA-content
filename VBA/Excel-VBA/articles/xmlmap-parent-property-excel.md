@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlMap.Parent
 ms.assetid: be698cdb-c6b8-8004-a12c-ea07ffa58735
+ms.date: 06/08/2017
 ---
 
 

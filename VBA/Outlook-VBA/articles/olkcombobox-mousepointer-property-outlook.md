@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.MousePointer
 ms.assetid: 85d1e2c3-e3d8-2339-bd38-9452761adce9
+ms.date: 06/08/2017
 ---
 
 

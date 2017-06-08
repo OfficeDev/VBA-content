@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomTaskPane.Title
 ms.assetid: 34264525-5706-d3dd-2b73-ddf305eb4ad1
+ms.date: 06/08/2017
 ---
 
 

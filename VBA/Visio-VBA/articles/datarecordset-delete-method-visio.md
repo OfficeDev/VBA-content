@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.Delete
 ms.assetid: 9f3fa9b0-2ca9-cf28-fa27-18eef4be179d
+ms.date: 06/08/2017
 ---
 
 

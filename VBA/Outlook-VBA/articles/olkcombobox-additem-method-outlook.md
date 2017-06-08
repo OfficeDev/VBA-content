@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.AddItem
 ms.assetid: 8670b0ba-b715-e00d-0eb9-fa7279ae52b7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Importance
 ms.assetid: 72b5a262-b7d0-4fca-5862-5d932cf9c694
+ms.date: 06/08/2017
 ---
 
 

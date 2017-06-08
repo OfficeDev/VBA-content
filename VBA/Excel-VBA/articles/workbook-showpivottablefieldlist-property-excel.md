@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ShowPivotTableFieldList
 ms.assetid: 33c74c54-27ea-d230-c640-47109bdfd4a2
+ms.date: 06/08/2017
 ---
 
 

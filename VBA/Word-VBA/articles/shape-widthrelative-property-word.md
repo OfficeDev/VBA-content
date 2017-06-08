@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.WidthRelative
 ms.assetid: db076311-7ecf-3564-9cf4-400663ae400b
+ms.date: 06/08/2017
 ---
 
 

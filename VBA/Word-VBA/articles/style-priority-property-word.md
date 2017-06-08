@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.Priority
 ms.assetid: d42a363d-c8a1-790f-9a62-f6cf731aeb5a
+ms.date: 06/08/2017
 ---
 
 

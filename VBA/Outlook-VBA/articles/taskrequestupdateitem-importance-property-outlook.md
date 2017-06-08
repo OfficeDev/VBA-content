@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.Importance
 ms.assetid: 7f0a5deb-b704-1901-9560-d73683b376d9
+ms.date: 06/08/2017
 ---
 
 

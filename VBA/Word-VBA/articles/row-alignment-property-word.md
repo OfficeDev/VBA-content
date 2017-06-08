@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Row.Alignment
 ms.assetid: 56214c5a-55d4-bcc9-857a-6591622bd264
+ms.date: 06/08/2017
 ---
 
 

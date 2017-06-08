@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.DeselectAll
 ms.assetid: 926c8578-4c78-efbc-d189-b513fee7ee2f
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Columns Object (Word)
 ms.prod: WORD
 ms.assetid: 7c2d1353-cbc4-a162-83a1-6cac1300266f
+ms.date: 06/08/2017
 ---
 
 

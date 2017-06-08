@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivision.SpaceBefore
 ms.assetid: b5a774f3-9a35-2813-6c5f-cf2bae16b493
+ms.date: 06/08/2017
 ---
 
 

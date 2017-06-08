@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XmlNamespace.Application
 ms.assetid: 5afe72b2-4963-abf2-d43a-4f1b741e6cef
+ms.date: 06/08/2017
 ---
 
 

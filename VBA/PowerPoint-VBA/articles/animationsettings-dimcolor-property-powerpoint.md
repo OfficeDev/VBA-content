@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.DimColor
 ms.assetid: 574c24b0-45af-2e7c-6fd5-bfc17f552c83
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SubFolders
 ms.assetid: 60bc795f-22f9-6846-00d3-05229f062099
+ms.date: 06/08/2017
 ---
 
 

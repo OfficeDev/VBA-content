@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdBrowseTarget
 ms.assetid: 3fe1ffab-84d9-3e76-eceb-32d166e05bad
+ms.date: 06/08/2017
 ---
 
 

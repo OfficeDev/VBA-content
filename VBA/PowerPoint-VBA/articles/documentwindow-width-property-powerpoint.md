@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.Width
 ms.assetid: ede3967a-5d52-ba5d-2279-ea7345a7d370
+ms.date: 06/08/2017
 ---
 
 

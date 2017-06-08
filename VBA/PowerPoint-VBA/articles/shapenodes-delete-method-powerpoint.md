@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeNodes.Delete
 ms.assetid: a132067b-b8d7-0730-5dec-2df666eac209
+ms.date: 06/08/2017
 ---
 
 

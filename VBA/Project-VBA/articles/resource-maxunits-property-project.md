@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.MaxUnits
 ms.assetid: 1c698f41-9bd2-8673-af5c-6dce48a75511
+ms.date: 06/08/2017
 ---
 
 

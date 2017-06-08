@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.FileDialogSelectedItems.Item
 ms.assetid: 25444621-5886-3465-6773-3ea59c5f2ea2
+ms.date: 06/08/2017
 ---
 
 

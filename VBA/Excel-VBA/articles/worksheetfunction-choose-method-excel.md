@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Choose
 ms.assetid: f4031f31-2647-80fd-8458-c84f29d95e63
+ms.date: 06/08/2017
 ---
 
 

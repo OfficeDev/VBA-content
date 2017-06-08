@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ImportCommitment
 ms.assetid: ad87bf6a-5409-bd10-b658-b81a3ba501f4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.EndArrowheadStyle
 ms.assetid: 991354c7-3f2c-a882-74d6-1c5cd3019494
+ms.date: 06/08/2017
 ---
 
 

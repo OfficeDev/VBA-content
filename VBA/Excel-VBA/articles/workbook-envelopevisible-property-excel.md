@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.EnvelopeVisible
 ms.assetid: d511a75a-ddd1-64f5-a09b-720657f64c09
+ms.date: 06/08/2017
 ---
 
 

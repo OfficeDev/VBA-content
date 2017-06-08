@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.ForeColor
 ms.assetid: 8547b2b0-d9ba-41ce-9f13-659a8727cbdb
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPresetCamera
 ms.assetid: b7495803-a2f1-1dca-da3a-714d6fe9ba56
+ms.date: 06/08/2017
 ---
 
 

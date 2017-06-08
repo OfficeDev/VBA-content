@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.CropBottom
 ms.assetid: 8c504221-11da-f6f1-8fbb-75dc5c62b953
+ms.date: 06/08/2017
 ---
 
 

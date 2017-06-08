@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SpellingErrors
 ms.assetid: c8a987a1-3705-ea0a-103a-99b2f17f5c6b
+ms.date: 06/08/2017
 ---
 
 

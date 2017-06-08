@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatCondition.NumberFormat
 ms.assetid: 544b8f1a-f75a-979d-c2fb-aa324bdcf614
+ms.date: 06/08/2017
 ---
 
 

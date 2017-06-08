@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.SubForm.SetFocus
 ms.assetid: ee627fa2-348a-1c98-5464-b4cbaaf0f9cc
+ms.date: 06/08/2017
 ---
 
 

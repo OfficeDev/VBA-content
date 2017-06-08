@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Research.SetLanguagePair
 ms.assetid: 0e4d0c7b-91e2-bbe6-8da0-f0ad6c2e51cb
+ms.date: 06/08/2017
 ---
 
 

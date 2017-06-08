@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartCharacters.PhoneticCharacters
 ms.assetid: b3ceaf21-db47-7fd3-4414-3fc3040a55b4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.BorderArt
 ms.assetid: dcc0ceb4-ef69-ffd3-e510-13dcb8d06832
+ms.date: 06/08/2017
 ---
 
 

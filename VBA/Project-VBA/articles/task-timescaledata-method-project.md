@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.TimeScaleData
 ms.assetid: 58526bce-9ee0-8dce-98ee-a8b8e07175eb
+ms.date: 06/08/2017
 ---
 
 

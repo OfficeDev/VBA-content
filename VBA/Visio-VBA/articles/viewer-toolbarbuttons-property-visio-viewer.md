@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ToolbarButtons
 ms.assetid: 7663e0b1-6022-39c3-0268-fba3b287f868
+ms.date: 06/08/2017
 ---
 
 

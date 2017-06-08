@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FileConverter.CanOpen
 ms.assetid: 9a5a2fea-0f09-9dfe-c75a-e8811d53c27f
+ms.date: 06/08/2017
 ---
 
 

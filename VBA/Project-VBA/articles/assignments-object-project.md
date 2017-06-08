@@ -2,6 +2,7 @@
 title: Assignments Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 83661095-030c-0488-5763-320b6de6f381
+ms.date: 06/08/2017
 ---
 
 

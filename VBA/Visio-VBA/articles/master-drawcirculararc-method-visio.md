@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.DrawCircularArc
 ms.assetid: f9557127-8470-2968-3056-0e295cd05633
+ms.date: 06/08/2017
 ---
 
 

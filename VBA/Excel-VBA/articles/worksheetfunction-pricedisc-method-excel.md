@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.PriceDisc
 ms.assetid: 973cf0b8-4bb5-bc0b-f32b-59d46b8474ef
+ms.date: 06/08/2017
 ---
 
 

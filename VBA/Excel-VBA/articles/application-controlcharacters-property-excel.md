@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.ControlCharacters
 ms.assetid: 039a266a-e5ae-468e-e3ee-101fa2b12863
+ms.date: 06/08/2017
 ---
 
 

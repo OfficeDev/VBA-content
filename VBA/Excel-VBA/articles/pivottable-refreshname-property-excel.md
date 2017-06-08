@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.RefreshName
 ms.assetid: 488d5e0c-61f9-0c85-ac1b-16dc98360bb4
+ms.date: 06/08/2017
 ---
 
 

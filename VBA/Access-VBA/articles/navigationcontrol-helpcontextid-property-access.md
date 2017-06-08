@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.HelpContextId
 ms.assetid: b56cbf60-e760-170c-9c93-edaddabf91b6
+ms.date: 06/08/2017
 ---
 
 

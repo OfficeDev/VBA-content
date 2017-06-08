@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.FactDouble
 ms.assetid: 71d8d537-b06c-7614-d6d6-b6c57ed8c68f
+ms.date: 06/08/2017
 ---
 
 

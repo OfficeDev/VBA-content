@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.BeforeAutoSave
 ms.assetid: b4924fd8-52cd-fa8d-11d8-2683ea2f5b52
+ms.date: 06/08/2017
 ---
 
 

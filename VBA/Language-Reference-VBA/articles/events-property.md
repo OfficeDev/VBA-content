@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Events
 ms.assetid: 506d45c2-57b1-f1f2-1bf6-44e542ef2a14
+ms.date: 06/08/2017
 ---
 
 

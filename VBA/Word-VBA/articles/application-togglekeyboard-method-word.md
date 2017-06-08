@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ToggleKeyboard
 ms.assetid: a7af90f6-28e5-6655-ae5b-c01ed64da52f
+ms.date: 06/08/2017
 ---
 
 

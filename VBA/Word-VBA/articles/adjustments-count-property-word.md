@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Adjustments.Count
 ms.assetid: 89636dde-df9a-0679-2cff-05cefcb59fb8
+ms.date: 06/08/2017
 ---
 
 

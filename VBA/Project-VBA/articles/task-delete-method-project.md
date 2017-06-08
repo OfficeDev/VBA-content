@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Delete
 ms.assetid: 18129d17-2dc5-1de6-1e16-642bbd191f8f
+ms.date: 06/08/2017
 ---
 
 

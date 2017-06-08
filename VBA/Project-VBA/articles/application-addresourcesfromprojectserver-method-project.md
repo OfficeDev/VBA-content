@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.AddResourcesFromProjectServer
 ms.assetid: 74fe4224-0019-5daa-11ae-3bdd6f2f5abb
+ms.date: 06/08/2017
 ---
 
 

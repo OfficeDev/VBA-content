@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.ReceivedTime
 ms.assetid: 91e5ca72-195c-7502-e257-c6772be946e8
+ms.date: 06/08/2017
 ---
 
 

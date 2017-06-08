@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TableBackground.Reflection
 ms.assetid: 5cd83cc0-54c1-1b95-658e-78a4659c5a43
+ms.date: 06/08/2017
 ---
 
 

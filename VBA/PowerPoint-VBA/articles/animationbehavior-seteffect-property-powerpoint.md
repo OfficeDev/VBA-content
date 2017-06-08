@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.SetEffect
 ms.assetid: d23fe7c5-9b1b-f7c6-32d5-dd6fa00cb533
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Oct2Dec
 ms.assetid: 08694db9-136b-9bfe-7939-436f4773bffb
+ms.date: 06/08/2017
 ---
 
 

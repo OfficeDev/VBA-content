@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Table.GetRowCount
 ms.assetid: 06014c43-700a-8502-bad7-b3f93a22e870
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.LocationOfComponents
 ms.assetid: 0581343b-e93e-1413-4348-529f48a166eb
+ms.date: 06/08/2017
 ---
 
 

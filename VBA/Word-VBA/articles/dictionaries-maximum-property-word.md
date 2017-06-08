@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionaries.Maximum
 ms.assetid: fa9f31e0-1965-5d96-568b-e0b8049127e3
+ms.date: 06/08/2017
 ---
 
 

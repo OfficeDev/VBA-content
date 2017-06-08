@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Rectangle.Height
 ms.assetid: 1446cfaa-c8ca-8572-ff73-ef2d6a631788
+ms.date: 06/08/2017
 ---
 
 

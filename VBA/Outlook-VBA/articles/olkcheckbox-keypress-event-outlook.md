@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.KeyPress
 ms.assetid: aae8dbfc-d85c-a977-8543-602ff18518fd
+ms.date: 06/08/2017
 ---
 
 

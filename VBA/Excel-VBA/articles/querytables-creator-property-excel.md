@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTables.Creator
 ms.assetid: a2428c94-1af6-4848-0a21-0461b6e44d41
+ms.date: 06/08/2017
 ---
 
 

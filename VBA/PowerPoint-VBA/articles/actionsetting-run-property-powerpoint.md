@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ActionSetting.Run
 ms.assetid: 5c5bc9ee-528c-ca49-0c36-c1f343671ffd
+ms.date: 06/08/2017
 ---
 
 

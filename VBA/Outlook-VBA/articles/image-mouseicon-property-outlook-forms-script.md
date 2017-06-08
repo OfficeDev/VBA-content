@@ -2,6 +2,7 @@
 title: Image.MouseIcon Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 1c580dce-1f38-7e40-2ddb-0bb9e6ae0f6c
+ms.date: 06/08/2017
 ---
 
 

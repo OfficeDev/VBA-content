@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2
+ms.date: 06/08/2017
 ---
 
 

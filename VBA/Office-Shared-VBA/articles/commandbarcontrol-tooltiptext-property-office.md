@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.TooltipText
 ms.assetid: 03e51dbd-0d5a-5094-545f-4a98a6508b4d
+ms.date: 06/08/2017
 ---
 
 

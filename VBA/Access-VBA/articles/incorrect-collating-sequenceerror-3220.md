@@ -2,6 +2,7 @@
 title: Incorrect collating sequence. (Error 3220)
 ms.prod: ACCESS
 ms.assetid: c8cbfc7d-92a0-f116-dcdb-654b8f74a054
+ms.date: 06/08/2017
 ---
 
 

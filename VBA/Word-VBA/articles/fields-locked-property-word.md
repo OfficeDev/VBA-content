@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Fields.Locked
 ms.assetid: 9ecebbac-fc22-0474-ed2e-a17a549d6722
+ms.date: 06/08/2017
 ---
 
 

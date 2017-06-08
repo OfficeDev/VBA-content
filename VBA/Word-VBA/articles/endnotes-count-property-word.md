@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnotes.Count
 ms.assetid: 489bf700-45c1-f6a3-9842-3b22933be1c0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.Copy
 ms.assetid: ddc0dad9-6647-e2f4-393a-347c273656dd
+ms.date: 06/08/2017
 ---
 
 

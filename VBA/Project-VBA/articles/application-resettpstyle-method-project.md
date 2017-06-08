@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ResetTPStyle
 ms.assetid: aba4187b-5af3-3a8d-7486-038e9bdae0ae
+ms.date: 06/08/2017
 ---
 
 

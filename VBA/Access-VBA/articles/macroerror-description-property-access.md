@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.MacroError.Description
 ms.assetid: 50db8fe9-dd48-f337-ed25-3e00aabb83fd
+ms.date: 06/08/2017
 ---
 
 

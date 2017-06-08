@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ThemeColorScheme.Load
 ms.assetid: 636f14c1-4178-ef12-e22b-4d948719cced
+ms.date: 06/08/2017
 ---
 
 

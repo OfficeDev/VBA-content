@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AccountSelector.SelectedAccountChange
 ms.assetid: c99b8a90-eb77-ee58-b11d-c47b665ee02c
+ms.date: 06/08/2017
 ---
 
 

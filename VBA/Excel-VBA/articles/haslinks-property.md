@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HasLinks
 ms.assetid: 71e0e494-a96a-53e5-5e38-92b3ce331076
+ms.date: 06/08/2017
 ---
 
 

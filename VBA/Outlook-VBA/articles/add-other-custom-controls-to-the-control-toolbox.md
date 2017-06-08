@@ -2,6 +2,7 @@
 title: Add Other Custom Controls to the Control Toolbox
 ms.prod: OUTLOOK
 ms.assetid: 96128963-fa68-2704-3818-be66f2ca1f50
+ms.date: 06/08/2017
 ---
 
 

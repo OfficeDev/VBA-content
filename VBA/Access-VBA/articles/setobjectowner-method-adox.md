@@ -2,6 +2,7 @@
 title: SetObjectOwner method [ADOX]
 ms.prod: ACCESS
 ms.assetid: 22c5d2d9-c7b2-3c3a-0b1f-a2e5bc46395c
+ms.date: 06/08/2017
 ---
 
 

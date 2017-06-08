@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.EndUndoScope
 ms.assetid: 352188d2-8a2a-1a6d-674e-93fce9245810
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ListCount
 ms.assetid: e6878930-514c-47cb-0961-bd9f5f79caff
+ms.date: 06/08/2017
 ---
 
 

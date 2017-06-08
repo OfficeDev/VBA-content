@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFormat.SoftEdge
 ms.assetid: 3f70fb9e-f5f2-3bdf-a957-68d329823cb2
+ms.date: 06/08/2017
 ---
 
 

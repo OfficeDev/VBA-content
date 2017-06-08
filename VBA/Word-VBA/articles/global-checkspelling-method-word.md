@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.CheckSpelling
 ms.assetid: eb264c56-090f-b1af-3d0b-5ee5190345b7
+ms.date: 06/08/2017
 ---
 
 

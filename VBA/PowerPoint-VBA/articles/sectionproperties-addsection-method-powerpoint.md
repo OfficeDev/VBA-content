@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SectionProperties.AddSection
 ms.assetid: bdad42c8-0d2b-91cc-67c5-452abe28d658
+ms.date: 06/08/2017
 ---
 
 

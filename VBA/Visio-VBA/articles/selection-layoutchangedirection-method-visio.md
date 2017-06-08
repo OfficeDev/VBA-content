@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.LayoutChangeDirection
 ms.assetid: 1c40348c-1884-1501-3609-aebf2e87686c
+ms.date: 06/08/2017
 ---
 
 

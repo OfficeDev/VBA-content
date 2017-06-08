@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WorkflowTask.Description
 ms.assetid: faa5a0ed-5bf0-8099-3c96-a266d8e54f13
+ms.date: 06/08/2017
 ---
 
 

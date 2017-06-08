@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Cosh
 ms.assetid: 26a7e693-53f4-d4ff-d9c4-1cfa3b8fbb2a
+ms.date: 06/08/2017
 ---
 
 

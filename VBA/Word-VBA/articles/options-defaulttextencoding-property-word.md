@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DefaultTextEncoding
 ms.assetid: 068f0ddd-efb4-9bb3-4544-79d390e87f59
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.CV
 ms.assetid: 15028dc8-1226-333f-e4f4-9e31f9970481
+ms.date: 06/08/2017
 ---
 
 

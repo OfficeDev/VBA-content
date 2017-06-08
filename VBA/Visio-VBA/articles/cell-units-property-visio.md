@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.Units
 ms.assetid: 075cfda9-8b7a-550b-cf72-b8044c3d461a
+ms.date: 06/08/2017
 ---
 
 

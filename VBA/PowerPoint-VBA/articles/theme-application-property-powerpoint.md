@@ -1,6 +1,7 @@
 ---
 title: Theme.Application Property (PowerPoint)
 ms.assetid: d33d9d1b-642b-a0da-4439-281e4a014f55
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: VBE Glossary
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: b8bdf64f-5920-1ae9-16d0-b26d09524a30
+ms.date: 06/08/2017
 ---
 
 

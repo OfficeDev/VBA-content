@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCConnection.ServerSSOApplicationID
 ms.assetid: 5735ffd5-7089-4a18-be01-d61bccf6f55c
+ms.date: 06/08/2017
 ---
 
 

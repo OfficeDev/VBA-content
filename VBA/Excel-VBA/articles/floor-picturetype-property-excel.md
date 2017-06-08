@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Floor.PictureType
 ms.assetid: 73ddeb38-15b6-1da3-8059-42153a73c118
+ms.date: 06/08/2017
 ---
 
 

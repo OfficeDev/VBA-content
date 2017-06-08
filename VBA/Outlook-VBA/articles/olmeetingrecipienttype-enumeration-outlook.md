@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlMeetingRecipientType
 ms.assetid: f5636886-f1db-9f64-f36c-4314133a7d12
+ms.date: 06/08/2017
 ---
 
 

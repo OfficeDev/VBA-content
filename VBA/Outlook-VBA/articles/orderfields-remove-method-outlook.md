@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OrderFields.Remove
 ms.assetid: f560a900-873b-5aab-0a09-4477f0e50503
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.DataSeries
 ms.assetid: cfdb0582-8b6c-029d-2a99-4fa1d4b360ea
+ms.date: 06/08/2017
 ---
 
 

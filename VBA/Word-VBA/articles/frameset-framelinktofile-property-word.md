@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frameset.FrameLinkToFile
 ms.assetid: a27ce637-a892-3697-a727-e7c60eb26aaf
+ms.date: 06/08/2017
 ---
 
 

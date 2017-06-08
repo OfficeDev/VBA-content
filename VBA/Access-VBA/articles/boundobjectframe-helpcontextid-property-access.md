@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.HelpContextId
 ms.assetid: 81fd943b-58b7-eb51-7578-6b124794d359
+ms.date: 06/08/2017
 ---
 
 

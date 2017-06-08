@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FreeformBuilder.ConvertToShape
 ms.assetid: bc3d209e-6735-3011-9334-46049d269355
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthLock.Creator
 ms.assetid: 034b0d7e-6597-016f-1113-0a257bbcadda
+ms.date: 06/08/2017
 ---
 
 

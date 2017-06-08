@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.RenameCurrentScope
 ms.assetid: 0ccd9c6b-704c-b956-5ea9-4f1ed01baee7
+ms.date: 06/08/2017
 ---
 
 

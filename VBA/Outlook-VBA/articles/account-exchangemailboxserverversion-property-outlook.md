@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Account.ExchangeMailboxServerVersion
 ms.assetid: 5bfd2c63-5a87-9225-a9a8-1771fc480f21
+ms.date: 06/08/2017
 ---
 
 

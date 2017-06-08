@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.MemberOfContainers
 ms.assetid: e8ed57eb-4031-5718-07ce-3641bda00186
+ms.date: 06/08/2017
 ---
 
 

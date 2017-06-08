@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.SplitHorizontal
 ms.assetid: 89ec538b-d8a3-23e8-a246-35c44884a432
+ms.date: 06/08/2017
 ---
 
 

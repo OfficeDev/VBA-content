@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.ConnectorToolDataObject
 ms.assetid: 7b1eedad-3d62-c2a1-5ba7-200a594ba32f
+ms.date: 06/08/2017
 ---
 
 

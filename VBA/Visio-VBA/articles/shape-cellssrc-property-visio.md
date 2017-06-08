@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.CellsSRC
 ms.assetid: 8fb6fd7b-e0ca-c694-3b9d-5390d4192565
+ms.date: 06/08/2017
 ---
 
 

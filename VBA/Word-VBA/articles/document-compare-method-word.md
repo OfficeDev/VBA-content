@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Compare
 ms.assetid: 2715f719-d141-c60c-8956-64aa3a58e268
+ms.date: 06/08/2017
 ---
 
 

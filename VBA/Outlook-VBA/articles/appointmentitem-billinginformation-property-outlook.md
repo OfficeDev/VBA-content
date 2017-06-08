@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.BillingInformation
 ms.assetid: f6d1c066-dfda-0267-e4b9-ca65345bcc6e
+ms.date: 06/08/2017
 ---
 
 

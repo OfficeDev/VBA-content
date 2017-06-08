@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.BaselineOffset
 ms.assetid: aa948e2e-957c-ff4c-16b9-480d7f5f2d24
+ms.date: 06/08/2017
 ---
 
 

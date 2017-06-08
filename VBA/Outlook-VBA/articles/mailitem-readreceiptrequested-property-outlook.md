@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ReadReceiptRequested
 ms.assetid: 5b8d5283-b2fc-4b01-6ccb-b8ac6c7c617e
+ms.date: 06/08/2017
 ---
 
 

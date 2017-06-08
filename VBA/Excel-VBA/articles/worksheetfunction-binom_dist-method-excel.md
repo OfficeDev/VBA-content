@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Binom_Dist
 ms.assetid: acd56b17-5304-0095-2696-11797df056ca
+ms.date: 06/08/2017
 ---
 
 

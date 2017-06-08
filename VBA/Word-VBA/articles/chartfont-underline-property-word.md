@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.Underline
 ms.assetid: 473bd43d-7f66-b5f1-e9b1-5a37678c332f
+ms.date: 06/08/2017
 ---
 
 

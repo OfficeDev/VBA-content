@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.DisplayEquation
 ms.assetid: a9c3de54-5690-bf9b-505a-65b069195d53
+ms.date: 06/08/2017
 ---
 
 

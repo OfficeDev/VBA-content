@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DVar
 ms.assetid: e1566391-4aac-548f-6475-6a8ee63a2bb7
+ms.date: 06/08/2017
 ---
 
 

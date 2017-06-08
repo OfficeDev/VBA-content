@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.GetMemberShapes
 ms.assetid: 4fb246c7-b86d-4e90-ef91-9cac988dbbb8
+ms.date: 06/08/2017
 ---
 
 

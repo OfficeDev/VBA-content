@@ -2,6 +2,7 @@
 title: Use Information Rights Management for Visio
 ms.prod: VISIO
 ms.assetid: 3912bf98-3669-4de1-958a-f2fa7ec5cdad
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LinkFormat.BreakLink
 ms.assetid: cc177e67-8664-7273-2339-7d9c01f65ba6
+ms.date: 06/08/2017
 ---
 
 

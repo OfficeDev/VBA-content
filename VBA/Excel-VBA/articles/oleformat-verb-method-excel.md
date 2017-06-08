@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEFormat.Verb
 ms.assetid: bf5736e8-1909-ed0a-aaab-297ccde9ffef
+ms.date: 06/08/2017
 ---
 
 

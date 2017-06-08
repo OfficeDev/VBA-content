@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Pane.Zooms
 ms.assetid: 6a09981c-cc68-2468-f750-18cb8524767c
+ms.date: 06/08/2017
 ---
 
 

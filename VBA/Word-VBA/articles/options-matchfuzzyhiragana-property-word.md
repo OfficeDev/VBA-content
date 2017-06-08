@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.MatchFuzzyHiragana
 ms.assetid: 772b8dd9-f4be-75f4-d9ac-cbe00922d3fa
+ms.date: 06/08/2017
 ---
 
 

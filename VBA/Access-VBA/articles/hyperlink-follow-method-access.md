@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Hyperlink.Follow
 ms.assetid: 842f546c-b629-fd47-e8d0-d73d3ee7f3cd
+ms.date: 06/08/2017
 ---
 
 

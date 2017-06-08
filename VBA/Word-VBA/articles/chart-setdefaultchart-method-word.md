@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.SetDefaultChart
 ms.assetid: e914b44a-5de9-ca9d-a513-96943802a194
+ms.date: 06/08/2017
 ---
 
 

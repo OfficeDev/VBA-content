@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.Visible
 ms.assetid: a9c378e0-bf56-1f4b-7d54-aff336471273
+ms.date: 06/08/2017
 ---
 
 

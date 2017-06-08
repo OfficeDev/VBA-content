@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Tags.Delete
 ms.assetid: 1b8898d0-2fcd-128c-1340-ee8bb4716a27
+ms.date: 06/08/2017
 ---
 
 

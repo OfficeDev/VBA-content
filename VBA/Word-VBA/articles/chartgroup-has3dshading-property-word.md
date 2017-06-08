@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartGroup.Has3DShading
 ms.assetid: 095f5bc7-86aa-2c09-c52c-6e6d5a4deb16
+ms.date: 06/08/2017
 ---
 
 

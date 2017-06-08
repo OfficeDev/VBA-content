@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.SolutionXMLElementCount
 ms.assetid: da72e807-749b-fe05-578b-89289bce970d
+ms.date: 06/08/2017
 ---
 
 

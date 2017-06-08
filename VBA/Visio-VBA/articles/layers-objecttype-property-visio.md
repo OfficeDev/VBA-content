@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Layers.ObjectType
 ms.assetid: c5542132-81b7-bd14-22b3-a2e33c828543
+ms.date: 06/08/2017
 ---
 
 

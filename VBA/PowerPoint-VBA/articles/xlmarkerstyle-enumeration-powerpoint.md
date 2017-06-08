@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlMarkerStyle
 ms.assetid: ec213196-0993-526a-48ca-80f92385a0bf
+ms.date: 06/08/2017
 ---
 
 

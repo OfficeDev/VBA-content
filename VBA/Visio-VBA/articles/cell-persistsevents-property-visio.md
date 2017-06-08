@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.PersistsEvents
 ms.assetid: 08e3095e-37ef-65f1-7109-b2f9deeeec14
+ms.date: 06/08/2017
 ---
 
 

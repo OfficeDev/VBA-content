@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.TaskSummaryName
 ms.assetid: a206d327-1ae2-4a09-7029-ac52a517a0a9
+ms.date: 06/08/2017
 ---
 
 

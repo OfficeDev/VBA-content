@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.Subject
 ms.assetid: 57f0f242-6d04-175f-4ea2-25145787f5bd
+ms.date: 06/08/2017
 ---
 
 

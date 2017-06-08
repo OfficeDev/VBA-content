@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPageBreak
 ms.assetid: 8e8f88fd-d12d-077d-bf36-a9084771fa41
+ms.date: 06/08/2017
 ---
 
 

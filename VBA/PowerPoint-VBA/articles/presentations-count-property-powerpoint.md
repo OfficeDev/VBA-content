@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentations.Count
 ms.assetid: e9f4d85f-4ba3-6c07-353d-79bbf39f91da
+ms.date: 06/08/2017
 ---
 
 

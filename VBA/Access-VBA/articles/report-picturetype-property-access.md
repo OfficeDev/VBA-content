@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.PictureType
 ms.assetid: 96a8ab1c-42d2-2322-927f-4b2cf8822c56
+ms.date: 06/08/2017
 ---
 
 

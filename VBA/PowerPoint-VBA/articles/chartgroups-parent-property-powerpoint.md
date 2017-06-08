@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroups.Parent
 ms.assetid: 4dcddb95-7af2-bc28-0dbc-affb4464ced9
+ms.date: 06/08/2017
 ---
 
 

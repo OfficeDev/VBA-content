@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.RemoveTheme
 ms.assetid: d9a7726b-f113-fb48-f269-f877becf0f19
+ms.date: 06/08/2017
 ---
 
 

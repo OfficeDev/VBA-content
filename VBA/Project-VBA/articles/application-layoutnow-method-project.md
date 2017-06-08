@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.LayoutNow
 ms.assetid: 8f01c461-a58d-7977-bf62-fda787e9334b
+ms.date: 06/08/2017
 ---
 
 

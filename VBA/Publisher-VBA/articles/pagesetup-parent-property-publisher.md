@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.Parent
 ms.assetid: 0aebdd7d-6ac6-77c1-1854-edab76ca0b10
+ms.date: 06/08/2017
 ---
 
 

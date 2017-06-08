@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CustomControl.BorderWidth
 ms.assetid: ac847423-f5ad-4d56-655d-25c468f82240
+ms.date: 06/08/2017
 ---
 
 

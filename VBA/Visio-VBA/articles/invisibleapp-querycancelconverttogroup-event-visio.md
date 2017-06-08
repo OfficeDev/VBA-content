@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.QueryCancelConvertToGroup
 ms.assetid: 0274803e-593c-93cc-3ef8-c6c9bc6f2c1e
+ms.date: 06/08/2017
 ---
 
 

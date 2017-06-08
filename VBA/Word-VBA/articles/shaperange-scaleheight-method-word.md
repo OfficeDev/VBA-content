@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.ScaleHeight
 ms.assetid: 54697d85-1305-de17-dce5-aeccaa73b634
+ms.date: 06/08/2017
 ---
 
 

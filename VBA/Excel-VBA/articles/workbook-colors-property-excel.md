@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.Colors
 ms.assetid: 60fc038b-980b-c1bc-6d1c-69d9d31a11ba
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.PageDeleteCanceled
 ms.assetid: dc46b6ae-f469-3f55-70a8-5321a674ab04
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordsetChangedEvent.DataRowsDeleted
 ms.assetid: 9b2b0b6e-702a-824b-ff83-210de5c8c889
+ms.date: 06/08/2017
 ---
 
 

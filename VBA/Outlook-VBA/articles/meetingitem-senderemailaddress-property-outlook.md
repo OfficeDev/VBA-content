@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.SenderEmailAddress
 ms.assetid: b318c074-4897-d99d-2b7c-870b4ab083e9
+ms.date: 06/08/2017
 ---
 
 

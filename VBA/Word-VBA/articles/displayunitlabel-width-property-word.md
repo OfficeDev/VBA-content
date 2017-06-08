@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DisplayUnitLabel.Width
 ms.assetid: d559b621-164c-30b3-f38c-a237fbc91de0
+ms.date: 06/08/2017
 ---
 
 

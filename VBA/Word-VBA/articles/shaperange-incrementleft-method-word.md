@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.IncrementLeft
 ms.assetid: 05d6b6c0-7265-453b-620d-728c6a659da3
+ms.date: 06/08/2017
 ---
 
 

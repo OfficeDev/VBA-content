@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Apply
 ms.assetid: 175cbf2a-659c-c4b3-8d43-4c1601241dec
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.DblClick
 ms.assetid: 0bce5cae-67d8-3acd-2029-be72f511e250
+ms.date: 06/08/2017
 ---
 
 

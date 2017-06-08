@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SetLinkOnData
 ms.assetid: b500a579-6e4c-5712-05cf-27c6393b3bcd
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Crop.PictureWidth
 ms.assetid: 14781959-3abb-bd90-ce47-6714170c6721
+ms.date: 06/08/2017
 ---
 
 

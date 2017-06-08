@@ -2,6 +2,7 @@
 title: TextBox.SelText Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: d9da2959-234d-dd34-cb7f-d918c23e2748
+ms.date: 06/08/2017
 ---
 
 

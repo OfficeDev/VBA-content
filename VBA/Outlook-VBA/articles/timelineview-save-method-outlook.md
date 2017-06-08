@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TimelineView.Save
 ms.assetid: fce2dac2-9f78-6211-e2d6-afb28d5dcbb7
+ms.date: 06/08/2017
 ---
 
 

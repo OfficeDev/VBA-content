@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.LargeScroll
 ms.assetid: f3d74426-ece5-559f-c8c2-c356eb532217
+ms.date: 06/08/2017
 ---
 
 

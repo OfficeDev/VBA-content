@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LegendEntry.LegendKey
 ms.assetid: 11aa8dfa-fdb9-d7f1-3c03-17ce68dcdbec
+ms.date: 06/08/2017
 ---
 
 

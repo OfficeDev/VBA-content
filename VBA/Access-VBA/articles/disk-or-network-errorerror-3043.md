@@ -2,6 +2,7 @@
 title: Disk or network error. (Error 3043)
 ms.prod: ACCESS
 ms.assetid: 041c2c1e-ab3e-e40f-520d-8bf31604f21a
+ms.date: 06/08/2017
 ---
 
 

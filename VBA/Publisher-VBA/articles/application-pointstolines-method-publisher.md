@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.PointsToLines
 ms.assetid: beab39fe-9458-6878-ae45-487a8b2271df
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.Hyperlink
 ms.assetid: 819c9ce0-7e34-04e3-320f-4eb9e80f0d60
+ms.date: 06/08/2017
 ---
 
 

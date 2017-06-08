@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.UseNormalStyleForList
 ms.assetid: 715ed2b9-f5de-987d-c9f0-9172bdd5ea5d
+ms.date: 06/08/2017
 ---
 
 

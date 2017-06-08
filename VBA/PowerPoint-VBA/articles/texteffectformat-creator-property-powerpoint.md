@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextEffectFormat.Creator
 ms.assetid: 96e589f1-2321-47e2-5245-1c6b96bace92
+ms.date: 06/08/2017
 ---
 
 

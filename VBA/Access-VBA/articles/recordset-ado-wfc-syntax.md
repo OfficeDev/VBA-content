@@ -2,6 +2,7 @@
 title: Recordset (ADO/WFC Syntax)
 ms.prod: ACCESS
 ms.assetid: 28314537-2585-6e29-2014-e7fd8ae78542
+ms.date: 06/08/2017
 ---
 
 

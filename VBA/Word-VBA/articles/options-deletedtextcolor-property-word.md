@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DeletedTextColor
 ms.assetid: df77a2ad-458a-48a5-8662-6fc5ee34a003
+ms.date: 06/08/2017
 ---
 
 

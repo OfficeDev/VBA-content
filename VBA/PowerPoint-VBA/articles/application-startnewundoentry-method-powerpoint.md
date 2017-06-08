@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.StartNewUndoEntry
 ms.assetid: 7f4f2236-6e6a-11e9-20b5-0fca5c126330
+ms.date: 06/08/2017
 ---
 
 

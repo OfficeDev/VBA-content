@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.Cut
 ms.assetid: fda7a58c-233b-5864-880e-cfa17f20c175
+ms.date: 06/08/2017
 ---
 
 

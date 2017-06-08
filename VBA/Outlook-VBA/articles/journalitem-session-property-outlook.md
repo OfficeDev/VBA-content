@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.Session
 ms.assetid: d691078d-f651-c31a-d767-0b3bd91df800
+ms.date: 06/08/2017
 ---
 
 

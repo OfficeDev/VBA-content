@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.MergeCaption
 ms.assetid: 19461100-0242-28b1-60bc-9b7f2da3af02
+ms.date: 06/08/2017
 ---
 
 

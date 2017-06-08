@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.ShapeStyle
 ms.assetid: 7d6a6f4b-d55c-085e-1dab-c76ddbbb54ae
+ms.date: 06/08/2017
 ---
 
 

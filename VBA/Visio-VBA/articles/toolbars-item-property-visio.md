@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Toolbars.Item
 ms.assetid: 0f56cab6-edcd-a153-f8a7-e6c3292cdfbb
+ms.date: 06/08/2017
 ---
 
 

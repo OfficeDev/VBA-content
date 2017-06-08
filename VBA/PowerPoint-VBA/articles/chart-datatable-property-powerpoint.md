@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.DataTable
 ms.assetid: fd212746-be95-06dd-144e-e6a4edf28e94
+ms.date: 06/08/2017
 ---
 
 

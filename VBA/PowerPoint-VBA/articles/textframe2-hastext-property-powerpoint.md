@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.HasText
 ms.assetid: 50b2c7fa-49f9-6aeb-dcb0-8acaf7aefec7
+ms.date: 06/08/2017
 ---
 
 

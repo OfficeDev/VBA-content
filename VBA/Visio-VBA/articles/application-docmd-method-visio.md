@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DoCmd
 ms.assetid: 096c11a0-1234-6a47-7bc4-5f808acfe21a
+ms.date: 06/08/2017
 ---
 
 

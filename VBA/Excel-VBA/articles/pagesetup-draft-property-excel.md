@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.Draft
 ms.assetid: 133d474c-2058-7dd9-d10b-0e45d9b2f972
+ms.date: 06/08/2017
 ---
 
 

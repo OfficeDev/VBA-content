@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.TabHangingIndent
 ms.assetid: bb29f459-4e38-e31d-ee18-ba061e5c116e
+ms.date: 06/08/2017
 ---
 
 

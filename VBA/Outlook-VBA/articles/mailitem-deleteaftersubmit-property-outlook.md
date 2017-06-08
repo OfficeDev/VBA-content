@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.DeleteAfterSubmit
 ms.assetid: b15d21b5-58d2-4dc2-7244-5e7317f9acd1
+ms.date: 06/08/2017
 ---
 
 

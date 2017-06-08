@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextFrame.NoTextRotation
 ms.assetid: 6eebb06f-aa4c-91d1-1a00-fc332d55da91
+ms.date: 06/08/2017
 ---
 
 

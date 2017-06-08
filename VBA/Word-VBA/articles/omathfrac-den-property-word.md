@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathFrac.Den
 ms.assetid: 376d3c71-5321-1629-1c5a-1ab90d38b9e6
+ms.date: 06/08/2017
 ---
 
 

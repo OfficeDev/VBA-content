@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Npv
 ms.assetid: c191e00d-20e1-1648-efe9-73fab00f28db
+ms.date: 06/08/2017
 ---
 
 

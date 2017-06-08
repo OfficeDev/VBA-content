@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DrawPolyline
 ms.assetid: 406ac09e-c25f-5de6-1c0b-e2a456ed5ec0
+ms.date: 06/08/2017
 ---
 
 

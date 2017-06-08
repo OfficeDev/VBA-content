@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ItemProperties.Remove
 ms.assetid: 51d0320b-99f4-60df-4646-b8e365813d2f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.Width
 ms.assetid: 0bb72524-6682-f783-e9f9-4fd34a757a40
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MasterShortcut.Prompt
 ms.assetid: 4fc4940a-98da-fa9a-6df1-60db2b394c22
+ms.date: 06/08/2017
 ---
 
 

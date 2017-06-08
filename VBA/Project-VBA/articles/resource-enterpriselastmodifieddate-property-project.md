@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.EnterpriseLastModifiedDate
 ms.assetid: b31d91b4-e1a4-85a6-5634-e366d6bf855b
+ms.date: 06/08/2017
 ---
 
 

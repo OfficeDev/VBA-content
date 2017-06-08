@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.FontNames
 ms.assetid: d3a9a52f-b441-ac63-3e12-25dbf1022f38
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.AutoConnectMany
 ms.assetid: 292d0f58-d753-6ef3-fd62-269fd44d003c
+ms.date: 06/08/2017
 ---
 
 

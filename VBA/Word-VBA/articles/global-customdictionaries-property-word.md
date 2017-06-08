@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.CustomDictionaries
 ms.assetid: e0027537-b68d-d342-930e-9e581e112882
+ms.date: 06/08/2017
 ---
 
 

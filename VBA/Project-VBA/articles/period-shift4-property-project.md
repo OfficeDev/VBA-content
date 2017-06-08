@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Period.Shift4
 ms.assetid: 64494509-b5dd-2ee3-b933-6a728c50444d
+ms.date: 06/08/2017
 ---
 
 

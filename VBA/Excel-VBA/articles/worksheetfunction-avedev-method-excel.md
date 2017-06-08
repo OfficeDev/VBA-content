@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.AveDev
 ms.assetid: 8fb937b3-4291-e257-f96a-7e52e6714b00
+ms.date: 06/08/2017
 ---
 
 

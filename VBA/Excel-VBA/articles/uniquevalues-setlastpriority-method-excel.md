@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UniqueValues.SetLastPriority
 ms.assetid: 9e2db204-4a9f-1690-7fc1-bec371fccaff
+ms.date: 06/08/2017
 ---
 
 

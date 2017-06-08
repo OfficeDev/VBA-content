@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.View
 ms.assetid: 41c8d149-9912-1685-4c8b-3c849cc6f1ed
+ms.date: 06/08/2017
 ---
 
 

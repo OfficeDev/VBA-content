@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.DateDisplayFormat
 ms.assetid: 11b2f24e-22d6-177c-4e2a-10c5ebefc477
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Task.Height
 ms.assetid: 3bd75408-df17-ada3-a7cf-d8ca21978e69
+ms.date: 06/08/2017
 ---
 
 

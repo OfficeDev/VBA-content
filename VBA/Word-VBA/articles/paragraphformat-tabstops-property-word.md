@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.TabStops
 ms.assetid: 9eed85b9-aee6-04af-c5ce-f6ba47176d35
+ms.date: 06/08/2017
 ---
 
 

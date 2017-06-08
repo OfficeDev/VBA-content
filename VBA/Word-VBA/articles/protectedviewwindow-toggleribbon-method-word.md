@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ProtectedViewWindow.ToggleRibbon
 ms.assetid: 767f3efb-2dfe-c202-c544-f09486c660d9
+ms.date: 06/08/2017
 ---
 
 

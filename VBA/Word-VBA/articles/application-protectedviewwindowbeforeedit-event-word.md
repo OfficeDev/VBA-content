@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 1ea33944-1b2f-f914-f04a-81751cc750f8
+ms.date: 06/08/2017
 ---
 
 

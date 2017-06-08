@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Exception.Deleted
 ms.assetid: 75d29e38-f618-fbb1-d9ff-4051a97ed55f
+ms.date: 06/08/2017
 ---
 
 

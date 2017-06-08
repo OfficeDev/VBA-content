@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlDayWeekTimeScale
 ms.assetid: 9d594154-acf4-d4b4-fdb3-70f191ac638a
+ms.date: 06/08/2017
 ---
 
 

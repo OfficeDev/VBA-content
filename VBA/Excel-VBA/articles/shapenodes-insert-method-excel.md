@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeNodes.Insert
 ms.assetid: b4f7e695-2102-5cbd-2d6b-bc167407cc0f
+ms.date: 06/08/2017
 ---
 
 

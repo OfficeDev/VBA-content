@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.StencilPaths
 ms.assetid: 9cbf837e-c192-78e4-b829-a33425e82f45
+ms.date: 06/08/2017
 ---
 
 

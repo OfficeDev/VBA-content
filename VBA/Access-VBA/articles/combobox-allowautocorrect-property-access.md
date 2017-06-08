@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.AllowAutoCorrect
 ms.assetid: ebf48367-20fb-14be-7082-a2d9de923c51
+ms.date: 06/08/2017
 ---
 
 

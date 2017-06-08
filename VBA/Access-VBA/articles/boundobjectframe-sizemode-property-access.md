@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.SizeMode
 ms.assetid: 2c44b16f-cb04-8e45-2a67-7424342f48de
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.BeforeDocumentClose
 ms.assetid: 663dab28-2ea5-30ad-a694-5c2bc75210fb
+ms.date: 06/08/2017
 ---
 
 

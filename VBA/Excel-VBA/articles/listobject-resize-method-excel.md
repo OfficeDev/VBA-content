@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.Resize
 ms.assetid: b9a0ae05-d1cd-3ce6-f4ae-6a539850a1b5
+ms.date: 06/08/2017
 ---
 
 

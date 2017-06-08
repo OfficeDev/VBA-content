@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.PictureTiling
 ms.assetid: 9be8cde0-4632-197e-ea3a-8db5846b8920
+ms.date: 06/08/2017
 ---
 
 

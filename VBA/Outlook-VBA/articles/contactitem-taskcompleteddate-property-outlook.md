@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.TaskCompletedDate
 ms.assetid: 6567575d-f95f-b409-a298-a19a590ff1d7
+ms.date: 06/08/2017
 ---
 
 

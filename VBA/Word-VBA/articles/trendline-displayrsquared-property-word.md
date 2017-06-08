@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Trendline.DisplayRSquared
 ms.assetid: 10f55d97-f9f2-953a-427b-b158abe268d7
+ms.date: 06/08/2017
 ---
 
 

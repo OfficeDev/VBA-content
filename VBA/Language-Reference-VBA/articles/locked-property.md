@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Locked
 ms.assetid: 08bf09c4-0445-0749-daf2-a0fab8787ea8
+ms.date: 06/08/2017
 ---
 
 

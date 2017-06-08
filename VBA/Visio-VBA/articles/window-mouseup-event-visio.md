@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.MouseUp
 ms.assetid: cb341aa4-9295-4460-53d7-8770e1534707
+ms.date: 06/08/2017
 ---
 
 

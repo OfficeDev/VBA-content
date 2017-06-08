@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkListBox.GetItem
 ms.assetid: 23c47ede-8b72-e30a-b59a-1aa722be2064
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ExpiryTime
 ms.assetid: 18f6497b-6db5-7ec2-7aa8-ec30531e59ef
+ms.date: 06/08/2017
 ---
 
 

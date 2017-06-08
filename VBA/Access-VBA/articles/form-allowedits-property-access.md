@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.AllowEdits
 ms.assetid: 3f667914-3dcc-7d4e-ca66-4338fc08e63a
+ms.date: 06/08/2017
 ---
 
 

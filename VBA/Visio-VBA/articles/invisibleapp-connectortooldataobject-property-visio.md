@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ConnectorToolDataObject
 ms.assetid: 66b73837-f89a-0de0-d822-c500ffc4b595
+ms.date: 06/08/2017
 ---
 
 

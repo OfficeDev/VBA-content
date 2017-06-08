@@ -2,6 +2,7 @@
 title: CommandBarButton Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 9ca10002-c907-449d-9471-00fd7ea6e953
+ms.date: 06/08/2017
 ---
 
 

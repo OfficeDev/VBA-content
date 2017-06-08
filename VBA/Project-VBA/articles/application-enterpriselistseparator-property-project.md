@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.EnterpriseListSeparator
 ms.assetid: 973201dd-0c1c-88d5-052a-94028584f6d5
+ms.date: 06/08/2017
 ---
 
 

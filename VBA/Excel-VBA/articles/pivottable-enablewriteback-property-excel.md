@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.EnableWriteback
 ms.assetid: d13b3db8-070a-3b29-9ff7-bfdcd143e5fa
+ms.date: 06/08/2017
 ---
 
 

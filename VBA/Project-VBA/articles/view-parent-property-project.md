@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.View.Parent
 ms.assetid: 12356d50-a547-d3ba-8124-70263cfebd96
+ms.date: 06/08/2017
 ---
 
 

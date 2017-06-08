@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.WindowBeforeDoubleClick
 ms.assetid: 9b270238-1658-df56-4208-9cb98666519c
+ms.date: 06/08/2017
 ---
 
 

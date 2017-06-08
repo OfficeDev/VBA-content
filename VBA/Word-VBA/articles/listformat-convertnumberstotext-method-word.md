@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListFormat.ConvertNumbersToText
 ms.assetid: 5ba6d823-dadb-1059-d439-0e556d91058f
+ms.date: 06/08/2017
 ---
 
 

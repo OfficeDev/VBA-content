@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ErrorBars.Format
 ms.assetid: dde0fb80-44c2-055c-15ed-40018bf0e058
+ms.date: 06/08/2017
 ---
 
 

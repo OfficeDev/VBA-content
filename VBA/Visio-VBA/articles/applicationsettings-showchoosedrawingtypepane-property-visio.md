@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.ShowChooseDrawingTypePane
 ms.assetid: 1551b56c-92a1-127b-38d5-28e50af4a0e0
+ms.date: 06/08/2017
 ---
 
 

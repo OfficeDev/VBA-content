@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListParagraphs.Parent
 ms.assetid: 40511d0f-cc6d-17ed-d3d8-9ccba03908c5
+ms.date: 06/08/2017
 ---
 
 

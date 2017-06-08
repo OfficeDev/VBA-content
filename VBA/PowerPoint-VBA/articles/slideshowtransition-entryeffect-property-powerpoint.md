@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowTransition.EntryEffect
 ms.assetid: 4a7bb737-a977-7a02-fccf-4bbb711a6375
+ms.date: 06/08/2017
 ---
 
 

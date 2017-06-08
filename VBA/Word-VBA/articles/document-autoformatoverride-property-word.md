@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.AutoFormatOverride
 ms.assetid: 85287164-98f8-fd3a-36b7-b03008e9aac3
+ms.date: 06/08/2017
 ---
 
 

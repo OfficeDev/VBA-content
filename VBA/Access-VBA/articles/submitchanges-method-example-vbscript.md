@@ -2,6 +2,7 @@
 title: SubmitChanges Method Example (VBScript)
 ms.prod: ACCESS
 ms.assetid: 41a83896-90e1-f086-2e30-c7afffa23347
+ms.date: 06/08/2017
 ---
 
 

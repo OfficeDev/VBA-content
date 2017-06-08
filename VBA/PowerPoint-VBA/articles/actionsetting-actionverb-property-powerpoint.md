@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ActionSetting.ActionVerb
 ms.assetid: f7b57e12-0c70-bc62-b94d-7ae8f65f7de0
+ms.date: 06/08/2017
 ---
 
 

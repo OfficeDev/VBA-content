@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.UseDiffDiacColor
 ms.assetid: fdcf3a48-bd12-aefe-198a-81541007a596
+ms.date: 06/08/2017
 ---
 
 

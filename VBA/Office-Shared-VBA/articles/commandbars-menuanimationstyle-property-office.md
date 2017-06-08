@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.MenuAnimationStyle
 ms.assetid: bd79a55a-23f4-6056-649b-9dc384b597aa
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Variables.Count
 ms.assetid: 51f0f7db-8e6e-0427-d5f5-74af3ebf2872
+ms.date: 06/08/2017
 ---
 
 

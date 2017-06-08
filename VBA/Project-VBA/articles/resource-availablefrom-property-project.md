@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.AvailableFrom
 ms.assetid: a79d0ce3-1c58-25cc-f06a-6c55961b9e0c
+ms.date: 06/08/2017
 ---
 
 

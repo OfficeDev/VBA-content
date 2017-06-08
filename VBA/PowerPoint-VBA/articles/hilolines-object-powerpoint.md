@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.HiLoLines
 ms.assetid: 77a7ae91-daf3-4c35-1f39-067d2698fb43
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlIcon
 ms.assetid: 0e94ae01-fde3-5b04-928e-a23d4805a16a
+ms.date: 06/08/2017
 ---
 
 

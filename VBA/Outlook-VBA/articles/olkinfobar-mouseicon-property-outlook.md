@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkInfoBar.MouseIcon
 ms.assetid: 4459fbcc-52e5-4402-4b04-6be28e7ff7fe
+ms.date: 06/08/2017
 ---
 
 

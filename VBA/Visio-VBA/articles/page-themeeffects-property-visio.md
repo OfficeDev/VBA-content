@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ThemeEffects
 ms.assetid: 566ee9aa-9c45-e53b-2634-c666565e6fbb
+ms.date: 06/08/2017
 ---
 
 

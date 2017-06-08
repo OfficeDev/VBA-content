@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControl.DateDisplayLocale
 ms.assetid: 3b53d3c3-0b78-7d89-c3d2-46c8caf467f3
+ms.date: 06/08/2017
 ---
 
 

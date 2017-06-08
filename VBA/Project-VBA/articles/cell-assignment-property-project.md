@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Cell.Assignment
 ms.assetid: ac17eff9-d697-dbfa-7968-d61a474690ba
+ms.date: 06/08/2017
 ---
 
 

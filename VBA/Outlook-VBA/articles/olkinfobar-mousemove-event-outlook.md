@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkInfoBar.MouseMove
 ms.assetid: a82e3703-27cf-7aa4-1106-614803ea599c
+ms.date: 06/08/2017
 ---
 
 

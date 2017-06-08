@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.LineSlant
 ms.assetid: 336f66fe-2b15-f3d0-6cf2-5b48992ddafc
+ms.date: 06/08/2017
 ---
 
 

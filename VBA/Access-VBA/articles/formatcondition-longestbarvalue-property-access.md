@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.LongestBarValue
 ms.assetid: bff378d6-138a-31bf-4587-d0f4ce827240
+ms.date: 06/08/2017
 ---
 
 

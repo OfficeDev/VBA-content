@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.Creator
 ms.assetid: a6621e71-b864-9e95-68d0-a74649bc15ec
+ms.date: 06/08/2017
 ---
 
 

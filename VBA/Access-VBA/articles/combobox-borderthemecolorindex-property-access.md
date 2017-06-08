@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BorderThemeColorIndex
 ms.assetid: d17a61fb-5e27-5fcf-37ca-ef896b62fe98
+ms.date: 06/08/2017
 ---
 
 

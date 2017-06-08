@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Frames
 ms.assetid: c30bb71d-3998-42fe-2850-a76c3975418b
+ms.date: 06/08/2017
 ---
 
 

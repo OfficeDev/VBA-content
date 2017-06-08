@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ResetColors
 ms.assetid: 1b56a4e9-0645-fa1e-55cc-09069c6a0ff1
+ms.date: 06/08/2017
 ---
 
 

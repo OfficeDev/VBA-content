@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisDiagramServices
 ms.assetid: d1abffb0-eb5d-17c6-8313-6a916cce0bd8
+ms.date: 06/08/2017
 ---
 
 

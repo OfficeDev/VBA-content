@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AutoScaleFont
 ms.assetid: cb21d2e7-d3b9-e135-03ba-6d45275d4590
+ms.date: 06/08/2017
 ---
 
 

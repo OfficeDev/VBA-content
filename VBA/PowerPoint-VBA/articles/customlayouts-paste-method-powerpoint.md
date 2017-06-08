@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayouts.Paste
 ms.assetid: d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04
+ms.date: 06/08/2017
 ---
 
 

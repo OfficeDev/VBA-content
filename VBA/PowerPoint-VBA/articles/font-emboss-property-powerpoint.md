@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Font.Emboss
 ms.assetid: 734b5bd7-4b1f-d3b3-d8bd-f73d0bc86f67
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Comments.Creator
 ms.assetid: 839fc2bb-e9d8-a998-803e-169100dc8ef2
+ms.date: 06/08/2017
 ---
 
 

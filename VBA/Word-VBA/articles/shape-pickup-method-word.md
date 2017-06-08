@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.PickUp
 ms.assetid: 9ccc7644-6186-d827-3dbe-db7dd3ccb4b6
+ms.date: 06/08/2017
 ---
 
 

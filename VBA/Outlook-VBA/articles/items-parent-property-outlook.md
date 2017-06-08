@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Items.Parent
 ms.assetid: 8e99782a-5654-ae1d-c6d8-9dbfcbcf44ac
+ms.date: 06/08/2017
 ---
 
 

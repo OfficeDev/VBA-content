@@ -2,6 +2,7 @@
 title: Hide or Show a Control
 ms.prod: OUTLOOK
 ms.assetid: 9e60f398-facf-7b73-8410-30c3f81abdb9
+ms.date: 06/08/2017
 ---
 
 

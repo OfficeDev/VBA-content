@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.PointsToPixels
 ms.assetid: e119ddf1-851c-2870-73f4-52da1d17c035
+ms.date: 06/08/2017
 ---
 
 

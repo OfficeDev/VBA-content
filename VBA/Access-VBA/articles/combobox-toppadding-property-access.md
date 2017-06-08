@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.TopPadding
 ms.assetid: 3e92fdc3-79a3-8ed9-2547-5bb49df29852
+ms.date: 06/08/2017
 ---
 
 

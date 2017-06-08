@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.Delete
 ms.assetid: 5e7e3b16-7d9c-e451-44aa-1a7c4640e0de
+ms.date: 06/08/2017
 ---
 
 

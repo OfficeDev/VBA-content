@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Calendar.ResourceGuid
 ms.assetid: c66c3e90-06e0-5b48-3e44-48e366377258
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.PropertyChange
 ms.assetid: 71ca9e98-9ea5-e8da-a1af-0fd6c153df83
+ms.date: 06/08/2017
 ---
 
 

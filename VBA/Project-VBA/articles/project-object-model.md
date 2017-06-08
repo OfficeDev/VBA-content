@@ -2,6 +2,7 @@
 title: Project object model
 ms.prod: PROJECTSERVER
 ms.assetid: 900b167b-88ec-ea88-15b7-27bb90c22ac6
+ms.date: 06/08/2017
 ---
 
 

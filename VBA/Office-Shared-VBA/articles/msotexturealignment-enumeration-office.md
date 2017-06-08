@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoTextureAlignment
 ms.assetid: 1e2095c7-5312-0057-faea-ccc51a082362
+ms.date: 06/08/2017
 ---
 
 

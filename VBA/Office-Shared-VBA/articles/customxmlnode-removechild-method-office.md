@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLNode.RemoveChild
 ms.assetid: dc6c380a-6cfd-870a-9a31-d92aed1ae3e1
+ms.date: 06/08/2017
 ---
 
 

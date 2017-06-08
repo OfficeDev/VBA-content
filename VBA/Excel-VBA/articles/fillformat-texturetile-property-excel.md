@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.TextureTile
 ms.assetid: 581322d3-0e54-c214-2f95-dc95e9961fab
+ms.date: 06/08/2017
 ---
 
 

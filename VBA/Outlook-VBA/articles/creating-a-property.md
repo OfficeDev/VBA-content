@@ -2,6 +2,7 @@
 title: Creating a Property
 ms.prod: OUTLOOK
 ms.assetid: 511754a6-e9b7-6ad6-7159-62105ec53a76
+ms.date: 06/08/2017
 ---
 
 

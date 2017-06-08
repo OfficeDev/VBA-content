@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLPrefixMapping.Application
 ms.assetid: faf9ae57-3261-1813-0bc2-193392a47693
+ms.date: 06/08/2017
 ---
 
 

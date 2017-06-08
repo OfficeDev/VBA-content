@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMatCols
 ms.assetid: b56ee426-56bd-6588-ebe9-898f4bfbba0c
+ms.date: 06/08/2017
 ---
 
 

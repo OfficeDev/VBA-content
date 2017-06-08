@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PpSlideLayout
 ms.assetid: ff56107a-f37a-f817-86ef-68ee708cbdc2
+ms.date: 06/08/2017
 ---
 
 

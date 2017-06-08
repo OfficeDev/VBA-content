@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.FormControlType
 ms.assetid: a0f7d7e2-a5c0-fd71-bced-fe2866fc6d7f
+ms.date: 06/08/2017
 ---
 
 

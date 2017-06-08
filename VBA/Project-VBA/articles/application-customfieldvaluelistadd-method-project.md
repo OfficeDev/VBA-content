@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CustomFieldValueListAdd
 ms.assetid: 6ef6c528-dc7a-00e8-a770-70b3b9ab86ae
+ms.date: 06/08/2017
 ---
 
 

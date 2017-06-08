@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DefaultZoomBehavior
 ms.assetid: 59f26e36-90e3-defa-be04-b7a8ce710eeb
+ms.date: 06/08/2017
 ---
 
 

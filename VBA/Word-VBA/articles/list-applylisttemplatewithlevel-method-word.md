@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.List.ApplyListTemplateWithLevel
 ms.assetid: 19c380d0-0599-72e2-b8ee-56ac7536d16c
+ms.date: 06/08/2017
 ---
 
 

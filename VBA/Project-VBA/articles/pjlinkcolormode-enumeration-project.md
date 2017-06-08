@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjLinkColorMode
 ms.assetid: a280af4f-a540-cb5b-f4c8-1910c9f1b4bd
+ms.date: 06/08/2017
 ---
 
 

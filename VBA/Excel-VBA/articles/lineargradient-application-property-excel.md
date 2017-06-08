@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LinearGradient.Application
 ms.assetid: ed52cc68-ff42-488c-3b79-a26a34a61095
+ms.date: 06/08/2017
 ---
 
 

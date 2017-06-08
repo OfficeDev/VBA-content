@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ChiDist
 ms.assetid: e5d6c267-b9d6-75d9-5d6f-81b616652b74
+ms.date: 06/08/2017
 ---
 
 

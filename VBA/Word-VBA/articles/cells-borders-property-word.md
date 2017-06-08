@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.Borders
 ms.assetid: df873357-9474-8f69-ae71-6df5859cbf93
+ms.date: 06/08/2017
 ---
 
 

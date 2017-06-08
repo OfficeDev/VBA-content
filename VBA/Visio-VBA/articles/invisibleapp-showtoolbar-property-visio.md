@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ShowToolbar
 ms.assetid: d3a39c62-c73e-3212-cf94-356b371ad8ea
+ms.date: 06/08/2017
 ---
 
 

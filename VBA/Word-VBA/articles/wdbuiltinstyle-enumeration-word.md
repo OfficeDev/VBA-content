@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdBuiltinStyle
 ms.assetid: 9ef433e9-6770-0e20-e1b6-2d9929ffd616
+ms.date: 06/08/2017
 ---
 
 

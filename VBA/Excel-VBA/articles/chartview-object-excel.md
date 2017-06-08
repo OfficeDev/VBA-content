@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartView
 ms.assetid: 2e59e8c1-f1cd-1589-ae36-22d6c5dccbf6
+ms.date: 06/08/2017
 ---
 
 

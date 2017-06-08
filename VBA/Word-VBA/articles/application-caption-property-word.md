@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.Caption
 ms.assetid: 5554fa04-0744-400d-fd8c-2fe36d4ad9a3
+ms.date: 06/08/2017
 ---
 
 

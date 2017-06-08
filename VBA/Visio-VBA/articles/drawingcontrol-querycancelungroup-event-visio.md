@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DrawingControl.QueryCancelUngroup
 ms.assetid: 8d7ac28d-a0c3-9d6d-a568-75ac4dccf9df
+ms.date: 06/08/2017
 ---
 
 

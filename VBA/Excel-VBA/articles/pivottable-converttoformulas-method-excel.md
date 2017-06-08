@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ConvertToFormulas
 ms.assetid: 8646696c-47c0-3851-4310-5e5368475266
+ms.date: 06/08/2017
 ---
 
 

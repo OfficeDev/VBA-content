@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.DisplayWhen
 ms.assetid: b5d425f8-744b-89e6-1929-f1ef9b187b0c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.PointsToLines
 ms.assetid: 3da78da9-3e4a-5dda-2987-a64ad835e9b0
+ms.date: 06/08/2017
 ---
 
 

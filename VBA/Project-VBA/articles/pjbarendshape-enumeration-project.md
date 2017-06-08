@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjBarEndShape
 ms.assetid: 0598711b-46ad-1940-103b-12345f32efd8
+ms.date: 06/08/2017
 ---
 
 

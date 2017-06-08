@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ConversationTopic
 ms.assetid: fbad95b9-7816-a59d-17af-0dd7c0173d5d
+ms.date: 06/08/2017
 ---
 
 

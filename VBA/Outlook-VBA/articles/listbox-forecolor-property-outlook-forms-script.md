@@ -2,6 +2,7 @@
 title: ListBox.ForeColor Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 5077b41b-5403-9644-2fa0-84397043693b
+ms.date: 06/08/2017
 ---
 
 

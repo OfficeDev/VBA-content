@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CleanupProjectFromCache
 ms.assetid: 40fef64a-036f-8e1c-ce86-0c3609777f77
+ms.date: 06/08/2017
 ---
 
 

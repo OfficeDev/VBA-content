@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Font.Application
 ms.assetid: 949f0d37-9867-5cca-8d51-95ed93eb950b
+ms.date: 06/08/2017
 ---
 
 

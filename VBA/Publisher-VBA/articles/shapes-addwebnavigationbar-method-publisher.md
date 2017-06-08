@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.AddWebNavigationBar
 ms.assetid: 26e9622c-ea28-b28b-9904-b3a3ccc9341b
+ms.date: 06/08/2017
 ---
 
 

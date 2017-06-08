@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TabStops.Count
 ms.assetid: 5ba876e2-b1c0-4de9-6942-02e6688aa169
+ms.date: 06/08/2017
 ---
 
 

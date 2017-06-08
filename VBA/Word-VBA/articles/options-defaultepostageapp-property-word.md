@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.DefaultEPostageApp
 ms.assetid: 1d039201-2e86-7f8b-9732-da1d13a12cf0
+ms.date: 06/08/2017
 ---
 
 

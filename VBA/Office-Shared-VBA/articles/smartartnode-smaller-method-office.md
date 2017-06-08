@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtNode.Smaller
 ms.assetid: 8e64f2f3-b3bd-b0a2-b3d2-d45a8a9a8fc7
+ms.date: 06/08/2017
 ---
 
 

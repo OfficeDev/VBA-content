@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.ReadReceiptRequested
 ms.assetid: fa8f3b1c-77a6-1620-f0dd-7cf0bd6f64a3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.Paste
 ms.assetid: b94ee91d-5b7c-c0b3-340d-b8eba4f3710f
+ms.date: 06/08/2017
 ---
 
 

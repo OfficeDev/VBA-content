@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.AutoFilter
 ms.assetid: 9df890b2-0e52-5155-b18c-fe678039c2ab
+ms.date: 06/08/2017
 ---
 
 

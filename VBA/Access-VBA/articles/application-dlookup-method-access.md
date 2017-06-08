@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DLookup
 ms.assetid: cbe1fc56-e4d7-cb74-02df-48fc379cf432
+ms.date: 06/08/2017
 ---
 
 

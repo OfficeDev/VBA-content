@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.AllowMultipleFilters
 ms.assetid: e6e39932-9d20-d34b-a2b1-6b34e4bfb270
+ms.date: 06/08/2017
 ---
 
 

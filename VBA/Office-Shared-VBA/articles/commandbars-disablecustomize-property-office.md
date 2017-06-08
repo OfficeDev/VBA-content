@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.DisableCustomize
 ms.assetid: cbebdaa7-2e8d-af73-fd18-03b3b11f98ac
+ms.date: 06/08/2017
 ---
 
 

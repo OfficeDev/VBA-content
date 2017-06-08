@@ -2,6 +2,7 @@
 title: XlSeriesNameLevel Enumeration (Excel)
 ms.prod: EXCEL
 ms.assetid: d15acdad-66c5-208b-d519-7aeed6082a94
+ms.date: 06/08/2017
 ---
 
 

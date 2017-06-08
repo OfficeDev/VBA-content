@@ -2,6 +2,7 @@
 title: Collections (ADO for Visual C++ Syntax)
 ms.prod: ACCESS
 ms.assetid: 3f5897d9-e618-7582-bb60-95f690c64cbb
+ms.date: 06/08/2017
 ---
 
 

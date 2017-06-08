@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicers.Item
 ms.assetid: 2e986f53-41bd-69cd-74fc-ce9f5c0ffa0b
+ms.date: 06/08/2017
 ---
 
 

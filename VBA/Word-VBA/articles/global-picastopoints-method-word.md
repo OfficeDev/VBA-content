@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Global.PicasToPoints
 ms.assetid: c1fb493b-d63d-484f-9d9b-c6781a0ff027
+ms.date: 06/08/2017
 ---
 
 

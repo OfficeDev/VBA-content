@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CreateTextFile
 ms.assetid: be538862-92a8-0386-ea4f-1809fc465cb9
+ms.date: 06/08/2017
 ---
 
 

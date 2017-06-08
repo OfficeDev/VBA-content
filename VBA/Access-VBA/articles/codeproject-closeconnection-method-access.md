@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CodeProject.CloseConnection
 ms.assetid: 850a09c8-45a8-26e4-79f5-e688599a990a
+ms.date: 06/08/2017
 ---
 
 

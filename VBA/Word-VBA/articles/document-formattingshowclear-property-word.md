@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FormattingShowClear
 ms.assetid: e6a25cc8-29be-0ba4-21ba-763676cc2f90
+ms.date: 06/08/2017
 ---
 
 

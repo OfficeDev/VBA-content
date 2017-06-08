@@ -2,6 +2,7 @@
 title: SmartDocument Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 980de42d-6992-6107-a3fb-33e8c78da202
+ms.date: 06/08/2017
 ---
 
 

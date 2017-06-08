@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.OnMouseMove
 ms.assetid: 12259131-0b06-e01f-4a94-05dabaf0e53c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.SetDefaultTheme
 ms.assetid: 7c51ff47-92d7-724f-0334-b789d2441313
+ms.date: 06/08/2017
 ---
 
 

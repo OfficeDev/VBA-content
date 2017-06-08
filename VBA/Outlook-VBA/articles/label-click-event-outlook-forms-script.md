@@ -2,6 +2,7 @@
 title: Label.Click Event (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: c4250fca-ca24-41d9-7537-a487ff70a60f
+ms.date: 06/08/2017
 ---
 
 

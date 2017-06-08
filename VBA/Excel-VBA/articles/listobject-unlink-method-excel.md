@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.Unlink
 ms.assetid: 37e70576-e577-cfbb-f5ee-63ba830e174e
+ms.date: 06/08/2017
 ---
 
 

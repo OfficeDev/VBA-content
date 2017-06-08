@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.BorderThemeColorIndex
 ms.assetid: 5f03c49f-9d93-d3c6-6f2c-b18cef67ac5d
+ms.date: 06/08/2017
 ---
 
 

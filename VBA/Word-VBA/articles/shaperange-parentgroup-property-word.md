@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.ParentGroup
 ms.assetid: 4d71e36e-0821-d2a4-754f-baee2562bcc2
+ms.date: 06/08/2017
 ---
 
 

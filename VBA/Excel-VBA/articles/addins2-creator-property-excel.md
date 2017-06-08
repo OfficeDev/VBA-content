@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AddIns2.Creator
 ms.assetid: bd20266f-a3d8-58da-505b-48f905896fb6
+ms.date: 06/08/2017
 ---
 
 

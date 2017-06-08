@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.LabelY
 ms.assetid: 398b268c-271d-566a-36a6-1d703bdb0345
+ms.date: 06/08/2017
 ---
 
 

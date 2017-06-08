@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptions.RelyOnVML
 ms.assetid: 8cd29d64-48a6-d33e-cb9d-6b1ea094069a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.DeleteEx
 ms.assetid: 8935a2de-2fab-0b2e-1595-a78d3dc2fd90
+ms.date: 06/08/2017
 ---
 
 

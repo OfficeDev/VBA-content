@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.Rotation
 ms.assetid: a141124f-f33c-95e1-6ba9-8ecffdef434c
+ms.date: 06/08/2017
 ---
 
 

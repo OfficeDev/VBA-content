@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CellDragAndDrop
 ms.assetid: a9ce116c-bf06-126b-2955-20e5a2880633
+ms.date: 06/08/2017
 ---
 
 

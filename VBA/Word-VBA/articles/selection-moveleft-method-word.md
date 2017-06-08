@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.MoveLeft
 ms.assetid: 23c22588-e774-f70f-28ea-81b1a54c0dd5
+ms.date: 06/08/2017
 ---
 
 

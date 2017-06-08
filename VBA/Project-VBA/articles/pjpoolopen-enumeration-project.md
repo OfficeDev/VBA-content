@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjPoolOpen
 ms.assetid: d953d1cb-f8f9-740a-f20c-6ac1e2ee0366
+ms.date: 06/08/2017
 ---
 
 

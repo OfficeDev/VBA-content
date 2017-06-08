@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.SizeToFit
 ms.assetid: 720b5380-d673-4cc0-9425-fc6ae5ae7fb5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TickLabels.ReadingOrder
 ms.assetid: 9d430a87-5a01-1833-7a79-51a424695a80
+ms.date: 06/08/2017
 ---
 
 

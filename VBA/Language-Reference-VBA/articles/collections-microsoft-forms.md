@@ -2,6 +2,7 @@
 title: Collections (Microsoft Forms)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 59020e7d-02e7-4dfe-b8a1-90a566012d4c
+ms.date: 06/08/2017
 ---
 
 

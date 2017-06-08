@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.ApplyThemeColorScheme
 ms.assetid: 5e261331-5c3b-b210-07e6-e99c0a301afb
+ms.date: 06/08/2017
 ---
 
 

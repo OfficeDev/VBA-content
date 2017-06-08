@@ -2,6 +2,7 @@
 title: EncryptionProvider Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: f9377ae4-8112-4e7a-956c-80b89ba0f9b5
+ms.date: 06/08/2017
 ---
 
 

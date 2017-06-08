@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotAxis.Parent
 ms.assetid: 5cab3969-5894-a88a-3c95-38df7bc0e79e
+ms.date: 06/08/2017
 ---
 
 

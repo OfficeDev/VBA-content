@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CalloutFormat.Length
 ms.assetid: 60b80a93-7a31-c4f6-57ab-445d788f6cbd
+ms.date: 06/08/2017
 ---
 
 

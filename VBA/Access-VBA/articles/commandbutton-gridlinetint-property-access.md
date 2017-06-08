@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.GridlineTint
 ms.assetid: a24518ba-866e-be3e-dde7-bb3301c83353
+ms.date: 06/08/2017
 ---
 
 

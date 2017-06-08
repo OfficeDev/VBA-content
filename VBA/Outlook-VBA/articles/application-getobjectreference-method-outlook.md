@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.GetObjectReference
 ms.assetid: 426ade68-155b-9076-b3f8-4108f44688b0
+ms.date: 06/08/2017
 ---
 
 

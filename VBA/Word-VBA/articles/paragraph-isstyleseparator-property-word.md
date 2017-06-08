@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.IsStyleSeparator
 ms.assetid: 7143ac54-0de8-ed70-e212-5d48b5718302
+ms.date: 06/08/2017
 ---
 
 

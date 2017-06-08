@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.CheckConsistency
 ms.assetid: 9ae5e917-0bd7-7c20-ca00-eea5a7e9dff7
+ms.date: 06/08/2017
 ---
 
 

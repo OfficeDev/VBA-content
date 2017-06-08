@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.LookUpTableAddEx
 ms.assetid: 5f316f1e-de4b-2fe4-6d3e-84a9944adaed
+ms.date: 06/08/2017
 ---
 
 

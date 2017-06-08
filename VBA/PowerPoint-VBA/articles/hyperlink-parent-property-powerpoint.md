@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Hyperlink.Parent
 ms.assetid: 5939f1a2-eb4f-d938-2683-530b0a408614
+ms.date: 06/08/2017
 ---
 
 

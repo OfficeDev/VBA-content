@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.ToggleVerticalText
 ms.assetid: 3d6fb851-e6f4-d8fc-a37a-80fb9455ca81
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.BulletFormat.Type
 ms.assetid: eb1f3560-17ab-28a6-e012-cf5af292ef53
+ms.date: 06/08/2017
 ---
 
 

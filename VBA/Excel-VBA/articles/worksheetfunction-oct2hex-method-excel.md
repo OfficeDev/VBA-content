@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Oct2Hex
 ms.assetid: eee1bb9b-6b79-aea1-453d-4e2e69b16934
+ms.date: 06/08/2017
 ---
 
 

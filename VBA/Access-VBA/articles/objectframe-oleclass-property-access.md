@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.OLEClass
 ms.assetid: ed32f15c-77da-0bd6-46da-38373ea37cc1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisRasterExportOperation
 ms.assetid: 406d6276-2f9c-9f5e-a25c-db84c2451423
+ms.date: 06/08/2017
 ---
 
 

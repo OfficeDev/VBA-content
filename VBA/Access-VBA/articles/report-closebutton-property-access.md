@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.CloseButton
 ms.assetid: dad15f66-4787-a4eb-dbbe-d698faaa0917
+ms.date: 06/08/2017
 ---
 
 

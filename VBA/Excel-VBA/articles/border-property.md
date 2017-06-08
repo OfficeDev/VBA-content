@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Border
 ms.assetid: c4c01534-3d56-7496-0368-fea8d2e2d0ae
+ms.date: 06/08/2017
 ---
 
 

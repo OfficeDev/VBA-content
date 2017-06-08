@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.PrintPostScriptOverText
 ms.assetid: 614e3776-c3e7-a4ca-3148-2f285229ecb2
+ms.date: 06/08/2017
 ---
 
 

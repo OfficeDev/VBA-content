@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListDataFormat.AllowFillIn
 ms.assetid: b41f8d68-3c1a-df1a-6761-b8ab70f16188
+ms.date: 06/08/2017
 ---
 
 

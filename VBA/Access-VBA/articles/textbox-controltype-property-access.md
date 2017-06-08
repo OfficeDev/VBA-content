@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.ControlType
 ms.assetid: 4cc842d9-2985-b65e-e259-697cedaa56fc
+ms.date: 06/08/2017
 ---
 
 

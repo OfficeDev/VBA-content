@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.EnterFieldBehavior
 ms.assetid: ac3b1285-baa0-403b-eebd-6207ea0ef4fd
+ms.date: 06/08/2017
 ---
 
 

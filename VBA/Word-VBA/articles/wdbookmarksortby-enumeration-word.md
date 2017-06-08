@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdBookmarkSortBy
 ms.assetid: 854dadea-372d-f8c0-40e5-ce98036e49f2
+ms.date: 06/08/2017
 ---
 
 

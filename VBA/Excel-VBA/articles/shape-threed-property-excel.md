@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape.ThreeD
 ms.assetid: 4513383f-6edc-8810-4155-4188221253b6
+ms.date: 06/08/2017
 ---
 
 

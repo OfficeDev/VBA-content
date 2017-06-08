@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.PercentRank_Exc
 ms.assetid: 7d887f36-769c-2d02-c1cf-321d84a2bb56
+ms.date: 06/08/2017
 ---
 
 

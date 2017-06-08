@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.IsOdd
 ms.assetid: a55beb79-80de-60b0-651f-0cf69a815280
+ms.date: 06/08/2017
 ---
 
 

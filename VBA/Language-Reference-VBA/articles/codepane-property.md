@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CodePane
 ms.assetid: a9eafd86-38f4-c0cf-83ea-dcb48e74cfad
+ms.date: 06/08/2017
 ---
 
 

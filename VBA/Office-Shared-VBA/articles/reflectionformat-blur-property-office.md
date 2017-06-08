@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ReflectionFormat.Blur
 ms.assetid: f6a91974-6809-a01a-23fa-c8dcda243572
+ms.date: 06/08/2017
 ---
 
 

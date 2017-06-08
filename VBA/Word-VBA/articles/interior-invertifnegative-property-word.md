@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Interior.InvertIfNegative
 ms.assetid: b4e1e22b-62cd-482e-8413-f4cad6503b7e
+ms.date: 06/08/2017
 ---
 
 

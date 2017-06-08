@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.ControlType
 ms.assetid: 3002d198-961a-69d4-58b5-c0b096747232
+ms.date: 06/08/2017
 ---
 
 

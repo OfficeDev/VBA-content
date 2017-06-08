@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalculatedMembers.Add
 ms.assetid: 8c6591bb-3906-6682-4dc7-89ffc2ae74f3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.ClearSelection
 ms.assetid: 2809b5fb-961e-fb2a-a74d-fffa4484c838
+ms.date: 06/08/2017
 ---
 
 

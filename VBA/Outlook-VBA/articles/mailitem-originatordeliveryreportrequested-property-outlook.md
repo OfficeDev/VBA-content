@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.OriginatorDeliveryReportRequested
 ms.assetid: 89042dd2-4ac1-109d-5f9c-9ed3733032b0
+ms.date: 06/08/2017
 ---
 
 

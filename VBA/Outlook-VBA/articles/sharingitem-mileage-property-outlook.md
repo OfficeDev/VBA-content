@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.Mileage
 ms.assetid: af849fec-b11e-855f-1eea-d9f98079b8ef
+ms.date: 06/08/2017
 ---
 
 

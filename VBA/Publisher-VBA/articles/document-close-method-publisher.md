@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.Close
 ms.assetid: b4b21484-1858-b7b3-291f-18ef8cab8ba7
+ms.date: 06/08/2017
 ---
 
 

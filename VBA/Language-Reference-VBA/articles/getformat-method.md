@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetFormat
 ms.assetid: 4d056545-08c6-ef03-2980-1db42b01e6c9
+ms.date: 06/08/2017
 ---
 
 

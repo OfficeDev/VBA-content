@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.EnableMultiplePageItems
 ms.assetid: 989fa662-cafb-00a1-effb-4a6c18327ea3
+ms.date: 06/08/2017
 ---
 
 

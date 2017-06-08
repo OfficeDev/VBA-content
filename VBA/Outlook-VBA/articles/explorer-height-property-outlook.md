@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.Height
 ms.assetid: bce6fc29-c52b-13da-d68b-4b45b694e880
+ms.date: 06/08/2017
 ---
 
 

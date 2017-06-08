@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CalloutFormat.Gap
 ms.assetid: 0541a8a6-7eac-d03b-8438-c6d2918237fd
+ms.date: 06/08/2017
 ---
 
 

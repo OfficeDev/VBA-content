@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.SaveNewWebPagesAsWebArchives
 ms.assetid: a2c8a225-431e-9292-d081-bd71d27aae9c
+ms.date: 06/08/2017
 ---
 
 

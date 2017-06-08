@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Areas.Count
 ms.assetid: c3c91bed-d3dd-7ffd-94be-f61cc3b973b7
+ms.date: 06/08/2017
 ---
 
 

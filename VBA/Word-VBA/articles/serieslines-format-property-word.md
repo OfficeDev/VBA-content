@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SeriesLines.Format
 ms.assetid: dac5d59d-9420-ded8-72b6-5a0dd2a81c10
+ms.date: 06/08/2017
 ---
 
 

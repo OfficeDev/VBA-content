@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.Select
 ms.assetid: b866a79c-38c1-feb2-e244-31c727e98f46
+ms.date: 06/08/2017
 ---
 
 

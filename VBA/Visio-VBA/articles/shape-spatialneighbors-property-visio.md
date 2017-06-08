@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.SpatialNeighbors
 ms.assetid: 98069519-d788-c34f-ac25-64bda73324d5
+ms.date: 06/08/2017
 ---
 
 

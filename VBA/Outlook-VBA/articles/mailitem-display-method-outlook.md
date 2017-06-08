@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Display
 ms.assetid: 19ead642-b7bd-579f-e43b-ef5c5d0cfecb
+ms.date: 06/08/2017
 ---
 
 

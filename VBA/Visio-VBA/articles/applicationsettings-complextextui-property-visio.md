@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.ComplexTextUI
 ms.assetid: b4ea05ad-ef40-6886-de68-c9bfb6826a88
+ms.date: 06/08/2017
 ---
 
 

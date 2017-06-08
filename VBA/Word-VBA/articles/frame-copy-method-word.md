@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.Copy
 ms.assetid: 079bc9a7-83d6-75fa-ee72-899166a9e75e
+ms.date: 06/08/2017
 ---
 
 

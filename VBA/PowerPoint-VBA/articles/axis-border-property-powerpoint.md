@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Axis.Border
 ms.assetid: fee770aa-879b-17ab-0906-1b0c1faa8a2b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.ShowBarOnly
 ms.assetid: c5a6dbcb-656f-4dcf-8b86-f8c7a7b7231a
+ms.date: 06/08/2017
 ---
 
 

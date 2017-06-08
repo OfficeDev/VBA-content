@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.OnMouseUp
 ms.assetid: 077568b6-2053-7ddb-9afe-503b8a9850a5
+ms.date: 06/08/2017
 ---
 
 

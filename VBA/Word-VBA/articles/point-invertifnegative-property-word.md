@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Point.InvertIfNegative
 ms.assetid: 22066557-3ed8-7db4-cb55-14119a04f09f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.FocusInMailHeader
 ms.assetid: fba9d08b-1950-b825-5f1a-14d671181b22
+ms.date: 06/08/2017
 ---
 
 

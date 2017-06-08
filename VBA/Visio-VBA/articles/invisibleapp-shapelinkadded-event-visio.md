@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ShapeLinkAdded
 ms.assetid: b7637b06-8d74-04db-c4ab-a64d9b92f8a6
+ms.date: 06/08/2017
 ---
 
 

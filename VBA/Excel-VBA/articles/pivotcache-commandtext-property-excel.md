@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCache.CommandText
 ms.assetid: 07921bda-74fe-2a41-15f7-16068ce49a31
+ms.date: 06/08/2017
 ---
 
 

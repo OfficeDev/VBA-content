@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CellFormat.AddIndent
 ms.assetid: 7f38c3d8-ccea-fc6c-a171-d028fe30080d
+ms.date: 06/08/2017
 ---
 
 

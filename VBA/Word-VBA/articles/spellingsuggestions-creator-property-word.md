@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SpellingSuggestions.Creator
 ms.assetid: db022099-efc3-cfab-de87-d302beb563a4
+ms.date: 06/08/2017
 ---
 
 

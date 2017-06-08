@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.DisplaySelectNamesDialog
 ms.assetid: 54b3d2fd-42db-a4da-4247-cc0b0eca5f65
+ms.date: 06/08/2017
 ---
 
 

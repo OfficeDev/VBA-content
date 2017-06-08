@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListLevel.ApplyPictureBullet
 ms.assetid: 9d91b047-c91b-60e1-2b57-aaa16491d212
+ms.date: 06/08/2017
 ---
 
 

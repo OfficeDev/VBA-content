@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBorderBox.StrikeV
 ms.assetid: 278dfb37-12c6-c09e-8c4f-4403fe4df7fa
+ms.date: 06/08/2017
 ---
 
 

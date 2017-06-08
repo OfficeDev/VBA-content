@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HasMinorGridlines
 ms.assetid: 78a690ee-0e5f-c69a-d2b3-54b2880f0933
+ms.date: 06/08/2017
 ---
 
 

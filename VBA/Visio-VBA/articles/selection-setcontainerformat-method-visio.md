@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.SetContainerFormat
 ms.assetid: b0766138-07da-4539-b254-7692529e0771
+ms.date: 06/08/2017
 ---
 
 

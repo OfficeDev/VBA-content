@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.GetChartElement
 ms.assetid: a4888d1b-f73b-43cd-5318-95c1d63944fa
+ms.date: 06/08/2017
 ---
 
 

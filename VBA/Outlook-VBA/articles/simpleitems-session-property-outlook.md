@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SimpleItems.Session
 ms.assetid: 5445d76f-658c-babf-87cf-44efd75a208a
+ms.date: 06/08/2017
 ---
 
 

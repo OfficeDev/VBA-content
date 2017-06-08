@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.StrikeThrough
 ms.assetid: 8dbdd698-989f-5066-a64e-75556b145391
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Fill
 ms.assetid: bfb2dfe6-5036-0731-3a0f-1294ba87e103
+ms.date: 06/08/2017
 ---
 
 

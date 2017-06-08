@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.Click
 ms.assetid: 92e2a86b-c21d-9ca2-099f-b3f254940791
+ms.date: 06/08/2017
 ---
 
 

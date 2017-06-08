@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.Line
 ms.assetid: 9e2b48e7-e69b-4bd3-e2dd-1b4a6f6e5575
+ms.date: 06/08/2017
 ---
 
 

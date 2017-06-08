@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.CropRight
 ms.assetid: 217691ed-5533-707c-338d-4375dbdd3eaa
+ms.date: 06/08/2017
 ---
 
 

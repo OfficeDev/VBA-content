@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.GroupItems
 ms.assetid: 295499de-0e74-e4ad-1145-f21927cbf2a9
+ms.date: 06/08/2017
 ---
 
 

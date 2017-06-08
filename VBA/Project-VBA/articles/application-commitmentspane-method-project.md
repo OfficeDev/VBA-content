@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CommitmentsPane
 ms.assetid: 5b37e396-7c70-4554-8164-ea05406ed299
+ms.date: 06/08/2017
 ---
 
 

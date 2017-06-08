@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNode.NextSibling
 ms.assetid: 431dd44b-10cd-f869-a70a-a371d16fef92
+ms.date: 06/08/2017
 ---
 
 

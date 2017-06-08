@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.BackTint
 ms.assetid: f54ecbec-7009-c0ae-83ad-95bc1d134657
+ms.date: 06/08/2017
 ---
 
 

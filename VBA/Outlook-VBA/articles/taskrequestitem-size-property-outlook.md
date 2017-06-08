@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.Size
 ms.assetid: 2c8a1606-6ead-73a8-3133-9176d4d10e5a
+ms.date: 06/08/2017
 ---
 
 

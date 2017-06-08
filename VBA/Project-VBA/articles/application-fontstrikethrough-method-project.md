@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FontStrikethrough
 ms.assetid: e8689bfe-1c74-5582-8bf1-97b089207321
+ms.date: 06/08/2017
 ---
 
 

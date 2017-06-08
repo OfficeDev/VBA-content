@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.DblClick
 ms.assetid: e22f8c94-0208-b463-635d-f28c5f20e9fa
+ms.date: 06/08/2017
 ---
 
 

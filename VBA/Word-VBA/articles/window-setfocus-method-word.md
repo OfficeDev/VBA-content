@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.SetFocus
 ms.assetid: d6cf90ff-b62e-340d-140b-7d546d1f85a3
+ms.date: 06/08/2017
 ---
 
 

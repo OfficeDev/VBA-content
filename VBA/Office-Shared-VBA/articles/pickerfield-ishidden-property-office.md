@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PickerField.IsHidden
 ms.assetid: e6d9f4b0-5230-d49b-20f6-e3c5ee7377dd
+ms.date: 06/08/2017
 ---
 
 

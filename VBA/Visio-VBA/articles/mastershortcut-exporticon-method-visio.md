@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MasterShortcut.ExportIcon
 ms.assetid: 763f6dac-98fb-377d-484b-08bac9b55d90
+ms.date: 06/08/2017
 ---
 
 

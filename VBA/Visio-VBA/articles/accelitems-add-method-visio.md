@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.AccelItems.Add
 ms.assetid: f21034e3-0fbb-6291-ca56-81445a585def
+ms.date: 06/08/2017
 ---
 
 

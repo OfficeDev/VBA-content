@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Imaginary
 ms.assetid: 4699b454-7bdd-42d3-b363-a7a07341de3d
+ms.date: 06/08/2017
 ---
 
 

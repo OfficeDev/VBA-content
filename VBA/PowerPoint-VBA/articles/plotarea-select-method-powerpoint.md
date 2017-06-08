@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlotArea.Select
 ms.assetid: e723e99f-5e86-b33f-a340-50c75971f956
+ms.date: 06/08/2017
 ---
 
 

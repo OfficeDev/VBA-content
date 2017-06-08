@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.BackgroundPrintingStatus
 ms.assetid: 74fabdd0-55d8-63c6-4608-36af8138b3c1
+ms.date: 06/08/2017
 ---
 
 

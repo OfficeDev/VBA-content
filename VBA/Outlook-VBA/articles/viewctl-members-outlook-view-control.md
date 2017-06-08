@@ -2,6 +2,7 @@
 title: ViewCtl Members (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 32df30fd-d02c-30c4-7474-0dc359f99f46
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ListWidth
 ms.assetid: f06bcc8b-cb11-b89c-1d15-f5adfbf24dc2
+ms.date: 06/08/2017
 ---
 
 

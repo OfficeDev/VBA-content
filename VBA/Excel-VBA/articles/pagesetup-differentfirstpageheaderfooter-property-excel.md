@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.DifferentFirstPageHeaderFooter
 ms.assetid: b3613d11-33e3-77f6-3b9b-bbb05efbed3b
+ms.date: 06/08/2017
 ---
 
 

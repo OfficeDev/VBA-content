@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.Format
 ms.assetid: 9b91b871-d6cc-f149-9268-d12cf236694c
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: SpinButton.ForeColor Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: ab44a7ae-c276-f3fe-dbf5-bc422e9f131a
+ms.date: 06/08/2017
 ---
 
 

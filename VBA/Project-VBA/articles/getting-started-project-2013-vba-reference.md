@@ -2,6 +2,7 @@
 title: Getting started (Project 2013 VBA reference)
 ms.prod: PROJECTSERVER
 ms.assetid: 573914ee-aef5-4451-90a7-141b722f3fbb
+ms.date: 06/08/2017
 ---
 
 

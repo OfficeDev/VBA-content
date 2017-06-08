@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.ForwardAsAttachment
 ms.assetid: 9e2eb736-35d9-b17e-8d6d-c5105388f513
+ms.date: 06/08/2017
 ---
 
 

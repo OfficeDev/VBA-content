@@ -1,6 +1,7 @@
 ---
 title: TextRange2.InsertBefore Method (PowerPoint)
 ms.assetid: 4b74a364-52e7-4b43-b375-5a2771289fb7
+ms.date: 06/08/2017
 ---
 
 

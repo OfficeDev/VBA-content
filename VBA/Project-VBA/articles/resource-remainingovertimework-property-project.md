@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.RemainingOvertimeWork
 ms.assetid: f5b3ae63-5983-60e4-517b-b484b35505c0
+ms.date: 06/08/2017
 ---
 
 

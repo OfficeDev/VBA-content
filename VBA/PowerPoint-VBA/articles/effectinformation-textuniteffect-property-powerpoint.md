@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.EffectInformation.TextUnitEffect
 ms.assetid: c86538af-7c76-f332-11f4-9e1a71453dab
+ms.date: 06/08/2017
 ---
 
 

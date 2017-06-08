@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.NextField
 ms.assetid: 40007462-3bb5-59a7-89cb-27d654795e76
+ms.date: 06/08/2017
 ---
 
 

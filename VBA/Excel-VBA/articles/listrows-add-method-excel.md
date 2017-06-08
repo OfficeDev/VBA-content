@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListRows.Add
 ms.assetid: 32213e09-fd25-3787-3ab8-45ee1249ca1c
+ms.date: 06/08/2017
 ---
 
 

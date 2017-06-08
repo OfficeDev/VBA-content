@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPivotLineType
 ms.assetid: c66f7b11-cfef-c752-afc2-317fe4a6ec17
+ms.date: 06/08/2017
 ---
 
 

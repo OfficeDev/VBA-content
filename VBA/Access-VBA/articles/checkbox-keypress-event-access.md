@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.KeyPress
 ms.assetid: 946df95c-da92-1977-6bb5-ecabbb5f8ee2
+ms.date: 06/08/2017
 ---
 
 

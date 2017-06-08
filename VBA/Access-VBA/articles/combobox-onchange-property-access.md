@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.OnChange
 ms.assetid: e3c26738-a14f-e379-d909-f4919bb37a20
+ms.date: 06/08/2017
 ---
 
 

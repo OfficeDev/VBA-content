@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PropertyPages.Class
 ms.assetid: be806511-6cf4-4836-ff58-611d3da584b5
+ms.date: 06/08/2017
 ---
 
 

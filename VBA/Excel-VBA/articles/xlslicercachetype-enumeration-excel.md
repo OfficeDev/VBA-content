@@ -2,6 +2,7 @@
 title: XlSlicerCacheType Enumeration (Excel)
 ms.prod: EXCEL
 ms.assetid: a9328ef0-b77b-c159-bb6c-b518f6145028
+ms.date: 06/08/2017
 ---
 
 

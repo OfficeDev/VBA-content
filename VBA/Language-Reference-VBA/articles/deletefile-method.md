@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DeleteFile
 ms.assetid: e036b009-4fd9-297a-de24-acc0dbc96c7a
+ms.date: 06/08/2017
 ---
 
 

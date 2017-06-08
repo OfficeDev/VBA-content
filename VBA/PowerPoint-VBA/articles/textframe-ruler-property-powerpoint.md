@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame.Ruler
 ms.assetid: 496ef8d2-b8c5-71a6-93d4-23e0a8d171f3
+ms.date: 06/08/2017
 ---
 
 

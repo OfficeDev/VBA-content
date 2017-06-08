@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.RecentFilesListSize
 ms.assetid: 8057f3d5-ccaf-28a2-9e70-1844f858d51d
+ms.date: 06/08/2017
 ---
 
 

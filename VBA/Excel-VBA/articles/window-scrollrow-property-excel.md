@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.ScrollRow
 ms.assetid: 5fd21ea8-a173-e502-042d-57903bcd43e5
+ms.date: 06/08/2017
 ---
 
 

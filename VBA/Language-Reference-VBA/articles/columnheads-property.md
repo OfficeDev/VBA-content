@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ColumnHeads
 ms.assetid: 55cd26ad-8ef3-8e65-f655-315af620658d
+ms.date: 06/08/2017
 ---
 
 

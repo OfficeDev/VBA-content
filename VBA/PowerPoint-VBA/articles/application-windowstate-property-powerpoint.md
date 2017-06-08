@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.WindowState
 ms.assetid: 128f7da4-3cc3-1cda-6298-8bbc0b39a25c
+ms.date: 06/08/2017
 ---
 
 

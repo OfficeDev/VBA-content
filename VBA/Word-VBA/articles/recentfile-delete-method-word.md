@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.RecentFile.Delete
 ms.assetid: abd3dcab-77e0-626e-008f-dbc8d7468538
+ms.date: 06/08/2017
 ---
 
 

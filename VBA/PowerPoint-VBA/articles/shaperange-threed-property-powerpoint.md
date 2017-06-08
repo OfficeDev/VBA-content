@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.ThreeD
 ms.assetid: e0e2f72d-639b-86fd-2191-f537ddcd45ad
+ms.date: 06/08/2017
 ---
 
 

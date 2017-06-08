@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Series.ClearFormats
 ms.assetid: 0c94178c-493b-9738-3b85-67448d13a458
+ms.date: 06/08/2017
 ---
 
 

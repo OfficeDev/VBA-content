@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame
 ms.assetid: 03346e81-71b2-0b9e-843d-fb8aa0e3c868
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SearchScope.Type
 ms.assetid: 5e9c3334-5527-720a-5aba-af2091e6cd85
+ms.date: 06/08/2017
 ---
 
 

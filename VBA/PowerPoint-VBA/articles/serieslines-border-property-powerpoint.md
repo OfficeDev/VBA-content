@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesLines.Border
 ms.assetid: 69c18c79-d7f7-1d45-9867-4ad32b9d7532
+ms.date: 06/08/2017
 ---
 
 

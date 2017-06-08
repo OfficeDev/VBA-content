@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CaptionLabel.ChapterStyleLevel
 ms.assetid: c0824b64-8709-009a-53cd-353238289e88
+ms.date: 06/08/2017
 ---
 
 

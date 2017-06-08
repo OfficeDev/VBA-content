@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.ReminderPlaySound
 ms.assetid: 9e441d70-4478-80fa-cdfa-c71ebec8e2ec
+ms.date: 06/08/2017
 ---
 
 

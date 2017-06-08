@@ -2,6 +2,7 @@
 title: Bind a Form to an ADO Recordset
 ms.prod: ACCESS
 ms.assetid: de85b07c-aa2d-7cf6-e0da-70b682f1bdd0
+ms.date: 06/08/2017
 ---
 
 

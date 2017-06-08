@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FormFields.Count
 ms.assetid: ef3cd67d-6713-4976-7cd2-930ef0cd84b2
+ms.date: 06/08/2017
 ---
 
 

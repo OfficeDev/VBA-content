@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ColorFormat.Parent
 ms.assetid: bfb87df8-bddc-ae3e-ad7b-2536307e92c5
+ms.date: 06/08/2017
 ---
 
 

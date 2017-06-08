@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotCell.ColumnItems
 ms.assetid: 66936e2f-740e-e3de-5d20-47885bee9691
+ms.date: 06/08/2017
 ---
 
 

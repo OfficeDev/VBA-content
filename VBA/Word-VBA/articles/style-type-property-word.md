@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Style.Type
 ms.assetid: 2f065484-a7ec-0833-340f-93cbe954e4ba
+ms.date: 06/08/2017
 ---
 
 

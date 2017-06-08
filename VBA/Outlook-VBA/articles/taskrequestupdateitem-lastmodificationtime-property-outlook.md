@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.LastModificationTime
 ms.assetid: 94d3c75c-c8b8-5261-89c1-2a81131f288e
+ms.date: 06/08/2017
 ---
 
 

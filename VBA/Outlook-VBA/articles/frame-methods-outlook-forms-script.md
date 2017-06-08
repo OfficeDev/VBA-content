@@ -2,6 +2,7 @@
 title: Frame Methods (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: d5333df3-b24b-418e-9a47-544886c3c47a
+ms.date: 06/08/2017
 ---
 
 

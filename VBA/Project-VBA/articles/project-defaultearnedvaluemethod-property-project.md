@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DefaultEarnedValueMethod
 ms.assetid: 7202a764-972f-a4f7-a8f1-777c01609d00
+ms.date: 06/08/2017
 ---
 
 

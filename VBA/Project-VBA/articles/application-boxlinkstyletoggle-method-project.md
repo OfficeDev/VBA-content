@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxLinkStyleToggle
 ms.assetid: 8367a55b-9a7e-3272-49b2-486c0a284f7d
+ms.date: 06/08/2017
 ---
 
 

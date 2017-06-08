@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.FetchedRowOverflow
 ms.assetid: 386aaf06-27d4-bfa1-cf5e-ac8c8bddef44
+ms.date: 06/08/2017
 ---
 
 

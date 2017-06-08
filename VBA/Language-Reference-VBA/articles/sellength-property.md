@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SelLength
 ms.assetid: 86f86e84-b22e-a86a-12b9-dc1011cbcf9d
+ms.date: 06/08/2017
 ---
 
 

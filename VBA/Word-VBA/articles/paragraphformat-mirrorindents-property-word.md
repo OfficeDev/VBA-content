@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.MirrorIndents
 ms.assetid: 51521bd0-f492-c83c-1688-04779fa5cd53
+ms.date: 06/08/2017
 ---
 
 

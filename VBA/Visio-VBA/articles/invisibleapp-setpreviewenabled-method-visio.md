@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.SetPreviewEnabled
 ms.assetid: c84a2f51-0019-8f3b-26b6-ecd593a4cbe5
+ms.date: 06/08/2017
 ---
 
 

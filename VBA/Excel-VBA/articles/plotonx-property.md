@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PlotOnX
 ms.assetid: 66102cce-e4af-4b0c-d168-ea63f3bc0f30
+ms.date: 06/08/2017
 ---
 
 

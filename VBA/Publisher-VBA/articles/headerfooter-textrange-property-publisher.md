@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.HeaderFooter.TextRange
 ms.assetid: 4bc5004e-6516-d6d3-222a-4960716c6845
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Find.MatchSoundsLike
 ms.assetid: 81c341a7-40a8-7022-78d5-a8ed8ad407b1
+ms.date: 06/08/2017
 ---
 
 

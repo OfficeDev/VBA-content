@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Section.KeepTogether
 ms.assetid: dbe3780b-2150-4b4c-d8bf-5685ab48181e
+ms.date: 06/08/2017
 ---
 
 

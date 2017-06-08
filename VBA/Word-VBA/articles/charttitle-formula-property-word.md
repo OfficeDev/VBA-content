@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartTitle.Formula
 ms.assetid: de4c8cbd-e599-f609-f98e-c00ed6dccc5e
+ms.date: 06/08/2017
 ---
 
 

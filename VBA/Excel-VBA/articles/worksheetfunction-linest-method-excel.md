@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.LinEst
 ms.assetid: dc0f830a-0d44-d712-d44b-19f419919f73
+ms.date: 06/08/2017
 ---
 
 

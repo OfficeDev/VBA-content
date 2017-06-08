@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Count
 ms.assetid: 89432479-5457-838f-a85d-20eb0dd61547
+ms.date: 06/08/2017
 ---
 
 

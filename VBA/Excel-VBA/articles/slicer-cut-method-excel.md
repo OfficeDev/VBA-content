@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Slicer.Cut
 ms.assetid: a8778661-612f-0031-78b0-d59bb87fdf62
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.ControlType
 ms.assetid: f660ca13-59f0-efae-8e6b-7449662a15c2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkFrameHeader.Caption
 ms.assetid: 8a401eba-5a69-1590-0b83-4356cc0e7a03
+ms.date: 06/08/2017
 ---
 
 

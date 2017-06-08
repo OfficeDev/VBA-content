@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.AutoCenter
 ms.assetid: d4a12dac-1000-38cd-e4ed-4f5879dfe4a0
+ms.date: 06/08/2017
 ---
 
 

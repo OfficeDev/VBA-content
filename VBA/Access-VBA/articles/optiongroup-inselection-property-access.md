@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.InSelection
 ms.assetid: faae80ea-95ab-bcae-d923-39d264612e84
+ms.date: 06/08/2017
 ---
 
 

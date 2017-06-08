@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.ConnectionsDeleted
 ms.assetid: af35574e-2855-2581-e51a-b777eaa83aca
+ms.date: 06/08/2017
 ---
 
 

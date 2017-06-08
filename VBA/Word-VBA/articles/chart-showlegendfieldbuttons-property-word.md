@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ShowLegendFieldButtons
 ms.assetid: da28865f-d513-3f43-45e7-d1cb25cda18c
+ms.date: 06/08/2017
 ---
 
 

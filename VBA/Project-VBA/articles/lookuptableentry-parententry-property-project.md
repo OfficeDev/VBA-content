@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.LookupTableEntry.ParentEntry
 ms.assetid: 8e5be7c4-6c53-b723-53c2-badcfc8eb3b8
+ms.date: 06/08/2017
 ---
 
 

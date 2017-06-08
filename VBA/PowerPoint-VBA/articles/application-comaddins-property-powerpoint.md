@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.COMAddIns
 ms.assetid: f24029c9-f839-e9a4-d661-5f1e22080d46
+ms.date: 06/08/2017
 ---
 
 

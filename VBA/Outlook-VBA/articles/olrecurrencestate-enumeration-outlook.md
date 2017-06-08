@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlRecurrenceState
 ms.assetid: 4b9be4ca-3094-8f0f-6406-978635795aaa
+ms.date: 06/08/2017
 ---
 
 

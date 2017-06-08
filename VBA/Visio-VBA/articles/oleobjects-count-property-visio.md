@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.OLEObjects.Count
 ms.assetid: 5c3146b2-e2cf-165d-8432-e44b1da1593a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.BorderWidth
 ms.assetid: 520ed761-de5d-9e70-3cc8-79264f6c0f3f
+ms.date: 06/08/2017
 ---
 
 

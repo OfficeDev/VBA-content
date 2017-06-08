@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayFullScreen
 ms.assetid: b42708ea-a273-c38a-5a61-d15e26c14fed
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.EncryptionProvider
 ms.assetid: 9b316f21-eeaf-4704-636f-ea68c7a36cfd
+ms.date: 06/08/2017
 ---
 
 

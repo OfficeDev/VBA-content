@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.BusinessAddressPostalCode
 ms.assetid: 0c9f643a-c29e-4ae5-cea7-f54b3e98b543
+ms.date: 06/08/2017
 ---
 
 

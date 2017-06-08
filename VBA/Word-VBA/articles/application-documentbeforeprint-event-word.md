@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.DocumentBeforePrint
 ms.assetid: 0736197a-5770-7e00-9882-86be0579c83e
+ms.date: 06/08/2017
 ---
 
 

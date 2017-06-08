@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoCorrect.CorrectInitialCaps
 ms.assetid: 5f24b0a7-8b5a-3688-7dbf-7e7ad7adec3b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.StatusBarText
 ms.assetid: ebfeaa64-b614-11a7-c385-53fe24745a77
+ms.date: 06/08/2017
 ---
 
 

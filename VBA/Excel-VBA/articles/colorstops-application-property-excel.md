@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorStops.Application
 ms.assetid: 68c43e6a-7e68-777d-67a0-a895db4d351d
+ms.date: 06/08/2017
 ---
 
 

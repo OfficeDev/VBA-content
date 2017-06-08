@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.HorizontalAnchor
 ms.assetid: 85dc54b2-7a20-4667-ade9-47202f77d524
+ms.date: 06/08/2017
 ---
 
 

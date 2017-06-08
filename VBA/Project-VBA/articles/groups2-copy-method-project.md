@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Groups2.Copy
 ms.assetid: a0b45d11-394a-4915-5eb8-62ffaab04757
+ms.date: 06/08/2017
 ---
 
 

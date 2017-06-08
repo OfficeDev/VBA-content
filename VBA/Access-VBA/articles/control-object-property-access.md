@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Control.Object
 ms.assetid: bfa11d67-ef96-128f-ef0d-efc555b51b5d
+ms.date: 06/08/2017
 ---
 
 

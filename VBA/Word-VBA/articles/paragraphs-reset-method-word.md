@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.Reset
 ms.assetid: 52faa471-ada5-463c-e997-1051d92f1f2e
+ms.date: 06/08/2017
 ---
 
 

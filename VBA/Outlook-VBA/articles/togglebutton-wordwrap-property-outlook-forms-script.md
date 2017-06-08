@@ -2,6 +2,7 @@
 title: ToggleButton.WordWrap Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 40fbf95d-eb90-eb1e-22d0-3ab54e871b01
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dialog.CommandBarId
 ms.assetid: 4f9c46f5-6771-516d-9a6e-1e33563f4254
+ms.date: 06/08/2017
 ---
 
 

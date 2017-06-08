@@ -2,6 +2,7 @@
 title: SignatureInfo Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 52c19097-8afb-d35c-a9f7-eae81e91c05d
+ms.date: 06/08/2017
 ---
 
 

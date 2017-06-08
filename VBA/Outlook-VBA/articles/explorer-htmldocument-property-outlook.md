@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.HTMLDocument
 ms.assetid: dd9ff575-37f5-1b64-5ebf-f17998586d28
+ms.date: 06/08/2017
 ---
 
 

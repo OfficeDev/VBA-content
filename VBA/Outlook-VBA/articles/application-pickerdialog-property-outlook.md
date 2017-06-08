@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Application.PickerDialog
 ms.assetid: 14acc98b-c234-d59b-d089-d6782ffb08a0
+ms.date: 06/08/2017
 ---
 
 

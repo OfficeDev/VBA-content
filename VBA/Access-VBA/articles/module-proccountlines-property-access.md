@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.ProcCountLines
 ms.assetid: d85cacb5-127a-68a1-3bff-cc13a8a7e9ed
+ms.date: 06/08/2017
 ---
 
 

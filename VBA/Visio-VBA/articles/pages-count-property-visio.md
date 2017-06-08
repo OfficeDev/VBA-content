@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.Count
 ms.assetid: 1e240cc4-07f3-ceb1-7eb3-7a6d5071f630
+ms.date: 06/08/2017
 ---
 
 

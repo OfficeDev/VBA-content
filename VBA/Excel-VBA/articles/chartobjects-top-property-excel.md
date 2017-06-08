@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartObjects.Top
 ms.assetid: 260fb609-ca58-61f8-44a9-d3183d7937f1
+ms.date: 06/08/2017
 ---
 
 

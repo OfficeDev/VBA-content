@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoPresetTextEffect
 ms.assetid: 56a7008d-ce2c-f127-56de-851cb8fef44f
+ms.date: 06/08/2017
 ---
 
 

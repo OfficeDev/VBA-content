@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.ListCount
 ms.assetid: 5363c040-1845-6e5c-7306-e48f392f0da9
+ms.date: 06/08/2017
 ---
 
 

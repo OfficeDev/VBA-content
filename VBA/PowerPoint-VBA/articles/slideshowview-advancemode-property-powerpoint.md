@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowView.AdvanceMode
 ms.assetid: cdc2a780-c591-b96d-cc2e-7b0571056491
+ms.date: 06/08/2017
 ---
 
 

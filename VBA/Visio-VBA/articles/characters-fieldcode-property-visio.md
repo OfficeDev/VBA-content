@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Characters.FieldCode
 ms.assetid: 901e6617-2e4b-6f99-f886-e3c7348a306d
+ms.date: 06/08/2017
 ---
 
 

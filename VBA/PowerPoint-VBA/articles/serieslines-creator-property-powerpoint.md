@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesLines.Creator
 ms.assetid: 51e60298-3e61-3c7f-9943-ddebf854edf3
+ms.date: 06/08/2017
 ---
 
 

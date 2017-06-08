@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Reminders.Snooze
 ms.assetid: 253e3f16-6d33-e7f7-5a1f-4a8b0a82a55d
+ms.date: 06/08/2017
 ---
 
 

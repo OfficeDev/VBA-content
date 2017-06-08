@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.DataRecordset.DataRecordsetChanged
 ms.assetid: 44ee69e9-1c10-0d44-ccf4-d1787a261759
+ms.date: 06/08/2017
 ---
 
 

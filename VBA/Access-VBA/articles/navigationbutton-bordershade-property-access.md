@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.BorderShade
 ms.assetid: ecbaee7f-c53c-daff-d945-132c6df33a51
+ms.date: 06/08/2017
 ---
 
 

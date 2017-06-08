@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Comment.Index
 ms.assetid: d42da7c8-5f42-762d-a929-2f1a2bd54c92
+ms.date: 06/08/2017
 ---
 
 

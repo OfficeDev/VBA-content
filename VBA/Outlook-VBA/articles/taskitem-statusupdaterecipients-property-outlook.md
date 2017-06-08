@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.StatusUpdateRecipients
 ms.assetid: 904e4685-75db-9267-7f88-dd2bce6e8509
+ms.date: 06/08/2017
 ---
 
 

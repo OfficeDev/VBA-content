@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartArea.Width
 ms.assetid: 140734ad-cf7f-1324-caae-7138de074e97
+ms.date: 06/08/2017
 ---
 
 

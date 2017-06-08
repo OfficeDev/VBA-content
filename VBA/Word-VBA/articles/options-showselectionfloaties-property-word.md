@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ShowSelectionFloaties
 ms.assetid: 25cb0481-db93-b7e8-0a1a-3916fea9ac87
+ms.date: 06/08/2017
 ---
 
 

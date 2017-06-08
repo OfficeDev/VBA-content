@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlCopyPictureFormat
 ms.assetid: a85812f6-0603-25a6-f511-985c9fa2c776
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MenuSets.Count
 ms.assetid: f7511584-b8c8-779a-11ae-c932299a14bc
+ms.date: 06/08/2017
 ---
 
 

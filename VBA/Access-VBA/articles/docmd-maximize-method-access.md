@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.Maximize
 ms.assetid: 6b1103f5-07b8-fbcf-ff7e-ccbfd6945768
+ms.date: 06/08/2017
 ---
 
 

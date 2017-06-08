@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.KeyPress
 ms.assetid: ad145dce-01b9-1f4e-ecf1-43954845930b
+ms.date: 06/08/2017
 ---
 
 

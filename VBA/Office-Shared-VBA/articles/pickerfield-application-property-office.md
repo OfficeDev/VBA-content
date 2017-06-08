@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PickerField.Application
 ms.assetid: 66713504-a4cf-c2f6-0e20-b76071659e37
+ms.date: 06/08/2017
 ---
 
 

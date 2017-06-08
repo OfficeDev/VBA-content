@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.SumIfs
 ms.assetid: 02ed74ac-0402-35fa-92d3-657de7b435ea
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FreeformBuilder.ConvertToShape
 ms.assetid: 9c88065f-1ff0-ac53-a630-4f0b4e652a80
+ms.date: 06/08/2017
 ---
 
 

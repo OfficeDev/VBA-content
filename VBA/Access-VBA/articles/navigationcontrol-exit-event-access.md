@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.Exit
 ms.assetid: 501b17c7-0039-7418-e31c-7c61c49691dd
+ms.date: 06/08/2017
 ---
 
 

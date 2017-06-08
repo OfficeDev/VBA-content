@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Table.Restrict
 ms.assetid: ecdd30f6-e12c-8025-3ded-592d2fad2bb8
+ms.date: 06/08/2017
 ---
 
 

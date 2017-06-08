@@ -2,6 +2,7 @@
 title: CustomXMLPart Events (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 6b1c336b-583f-4514-a59e-7e65bb70c93b
+ms.date: 06/08/2017
 ---
 
 

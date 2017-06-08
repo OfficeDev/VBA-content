@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.SelectionDeleteCanceled
 ms.assetid: 10811705-9619-d4d8-80f5-f1fa08eed52f
+ms.date: 06/08/2017
 ---
 
 

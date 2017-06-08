@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Endnote.Parent
 ms.assetid: 123e948f-f558-d0f5-1c4c-bbf454f1de02
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ConvertHighAnsiToFarEast
 ms.assetid: d973f327-1887-cca8-344a-80ce3f9e740a
+ms.date: 06/08/2017
 ---
 
 

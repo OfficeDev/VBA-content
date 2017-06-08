@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.Additive
 ms.assetid: 29dabc4f-a333-9b11-97a5-36237a95dcb0
+ms.date: 06/08/2017
 ---
 
 

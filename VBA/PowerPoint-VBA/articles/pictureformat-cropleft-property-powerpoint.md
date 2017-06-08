@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PictureFormat.CropLeft
 ms.assetid: 401a863f-9162-a8d8-825c-f615e6d25907
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Kind
 ms.assetid: 2a2ca204-ae61-4de2-feaa-678f564b2ca0
+ms.date: 06/08/2017
 ---
 
 

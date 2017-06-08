@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ODBCConnection.AlwaysUseConnectionFile
 ms.assetid: 445c7371-0ac6-b6f3-1a78-a406922d106f
+ms.date: 06/08/2017
 ---
 
 

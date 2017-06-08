@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.UpdateProject
 ms.assetid: a6f80334-7faf-ca95-b5ed-0a9fba516169
+ms.date: 06/08/2017
 ---
 
 

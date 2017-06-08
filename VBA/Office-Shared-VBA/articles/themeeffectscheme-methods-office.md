@@ -2,6 +2,7 @@
 title: ThemeEffectScheme Methods (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 531bf230-79af-46a8-9b2d-add5e883962f
+ms.date: 06/08/2017
 ---
 
 

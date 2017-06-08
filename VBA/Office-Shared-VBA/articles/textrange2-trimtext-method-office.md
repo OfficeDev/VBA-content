@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.TrimText
 ms.assetid: 304c6b05-febf-4ebe-2d26-326ffff613b6
+ms.date: 06/08/2017
 ---
 
 

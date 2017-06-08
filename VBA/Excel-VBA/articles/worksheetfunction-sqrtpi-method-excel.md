@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.SqrtPi
 ms.assetid: 61e1ebbe-2d16-7445-a480-9e89fa13f56a
+ms.date: 06/08/2017
 ---
 
 

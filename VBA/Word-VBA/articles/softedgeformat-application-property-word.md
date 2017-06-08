@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.SoftEdgeFormat.Application
 ms.assetid: 676324ea-0af6-8191-9164-7cb4a887ba0c
+ms.date: 06/08/2017
 ---
 
 

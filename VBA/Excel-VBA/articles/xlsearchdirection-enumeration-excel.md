@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlSearchDirection
 ms.assetid: fc53fda7-d01c-c407-ccdb-d12004a4dcee
+ms.date: 06/08/2017
 ---
 
 

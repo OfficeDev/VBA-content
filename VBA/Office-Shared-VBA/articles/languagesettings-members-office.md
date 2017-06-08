@@ -2,6 +2,7 @@
 title: LanguageSettings Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 068383c2-78f1-2299-2087-9eaa3409e6fe
+ms.date: 06/08/2017
 ---
 
 

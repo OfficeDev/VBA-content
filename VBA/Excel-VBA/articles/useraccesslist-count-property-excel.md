@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UserAccessList.Count
 ms.assetid: a162316a-de05-cb47-3afc-e4fbe3bcd661
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.GlueToPos
 ms.assetid: 9f9e10f2-030f-f7ad-be04-ea2804c20cb4
+ms.date: 06/08/2017
 ---
 
 

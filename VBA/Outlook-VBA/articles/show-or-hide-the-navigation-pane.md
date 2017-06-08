@@ -2,6 +2,7 @@
 title: Show or Hide the Navigation Pane
 ms.prod: OUTLOOK
 ms.assetid: ef4ad7b9-6475-7b28-ce79-fbefe29b193c
+ms.date: 06/08/2017
 ---
 
 

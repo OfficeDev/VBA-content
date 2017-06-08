@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.Select
 ms.assetid: e37239fa-afeb-5ced-578c-441419097a3d
+ms.date: 06/08/2017
 ---
 
 

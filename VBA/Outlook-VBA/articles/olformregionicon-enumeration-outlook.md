@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlFormRegionIcon
 ms.assetid: 22a9e2aa-e264-8392-b1ad-a2ab995b6440
+ms.date: 06/08/2017
 ---
 
 

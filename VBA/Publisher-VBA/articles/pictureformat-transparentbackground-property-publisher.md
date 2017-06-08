@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.TransparentBackground
 ms.assetid: 0a78b579-92bf-36e6-22f6-3ca0a48f5b5a
+ms.date: 06/08/2017
 ---
 
 

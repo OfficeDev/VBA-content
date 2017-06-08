@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.Alignment
 ms.assetid: 1083d0da-b974-f573-3306-6a865578219b
+ms.date: 06/08/2017
 ---
 
 

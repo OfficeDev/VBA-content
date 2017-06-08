@@ -2,6 +2,7 @@
 title: AS (Microsoft Access SQL reserved word)
 ms.prod: ACCESS
 ms.assetid: 960015c2-b0c9-2f14-5158-85c14dc47f09
+ms.date: 06/08/2017
 ---
 
 

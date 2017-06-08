@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.Shapes
 ms.assetid: b6a5c174-c1d6-049b-8aec-8337c47341d7
+ms.date: 06/08/2017
 ---
 
 

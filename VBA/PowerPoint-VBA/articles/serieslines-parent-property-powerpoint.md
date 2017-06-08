@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SeriesLines.Parent
 ms.assetid: 2f562fcf-0bbf-a1e2-2c76-d0b19d84d2c7
+ms.date: 06/08/2017
 ---
 
 

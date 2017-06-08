@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.GetPreviewEnabled
 ms.assetid: 6e0d42b9-f1d4-d8b9-ab9c-7f00ba6c6a9d
+ms.date: 06/08/2017
 ---
 
 

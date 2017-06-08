@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLMapping.Delete
 ms.assetid: 72864b8d-5b59-66c3-b9e3-b970f8adf7aa
+ms.date: 06/08/2017
 ---
 
 

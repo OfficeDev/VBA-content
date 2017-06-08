@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ReadabilityStatistic.Application
 ms.assetid: 744952de-13c6-5cbf-66b1-19383b3d0623
+ms.date: 06/08/2017
 ---
 
 

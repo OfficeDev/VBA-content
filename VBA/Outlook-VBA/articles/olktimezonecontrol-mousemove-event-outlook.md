@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.MouseMove
 ms.assetid: 3de1bd35-3351-d70d-9fa4-d90f7d059f87
+ms.date: 06/08/2017
 ---
 
 

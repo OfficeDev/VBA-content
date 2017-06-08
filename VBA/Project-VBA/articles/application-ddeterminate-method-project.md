@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DDETerminate
 ms.assetid: 92753522-dad8-4312-eef0-49fd075cea3f
+ms.date: 06/08/2017
 ---
 
 

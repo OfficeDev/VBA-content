@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PageSetup.LeftHeaderPicture
 ms.assetid: 1dadb662-c93c-5fdb-ffef-24978284d35a
+ms.date: 06/08/2017
 ---
 
 

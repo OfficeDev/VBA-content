@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ProjectBeforeAssignmentChange2
 ms.assetid: 99fce7af-00de-42d8-4b61-e97774cc19ed
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CompareProjectVersions
 ms.assetid: 82af9450-0cec-f7b4-df5c-81ecea3b662f
+ms.date: 06/08/2017
 ---
 
 

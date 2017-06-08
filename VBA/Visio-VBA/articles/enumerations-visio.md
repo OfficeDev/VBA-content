@@ -2,6 +2,7 @@
 title: Enumerations (Visio)
 ms.prod: VISIO
 ms.assetid: 44b55d08-8faa-4048-bf12-486d79ed112c
+ms.date: 06/08/2017
 ---
 
 

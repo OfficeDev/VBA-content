@@ -2,6 +2,7 @@
 title: IRibbonControl Properties (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 349bfb72-5e3a-4f54-9866-d7d33b7aa674
+ms.date: 06/08/2017
 ---
 
 

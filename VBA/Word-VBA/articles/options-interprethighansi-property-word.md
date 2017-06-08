@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.InterpretHighAnsi
 ms.assetid: c093469b-c9ef-0b37-fc40-7b1ae17ce72e
+ms.date: 06/08/2017
 ---
 
 

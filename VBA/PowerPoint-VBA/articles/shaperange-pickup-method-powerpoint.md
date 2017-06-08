@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.PickUp
 ms.assetid: f583c44c-0ab1-19eb-40f7-7e3412c93686
+ms.date: 06/08/2017
 ---
 
 

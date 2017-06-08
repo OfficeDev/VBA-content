@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Field.Type
 ms.assetid: 3d946913-ef23-d552-ff0f-7548dd2fd627
+ms.date: 06/08/2017
 ---
 
 

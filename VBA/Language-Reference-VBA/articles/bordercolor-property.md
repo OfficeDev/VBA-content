@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BorderColor
 ms.assetid: f5718e93-55fa-e3c6-5359-c9ccc7c7a76c
+ms.date: 06/08/2017
 ---
 
 

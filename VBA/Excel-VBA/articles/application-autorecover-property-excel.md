@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.AutoRecover
 ms.assetid: bc2453fa-4319-c1da-5ad5-2efb306c3063
+ms.date: 06/08/2017
 ---
 
 

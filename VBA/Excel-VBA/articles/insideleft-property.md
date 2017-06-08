@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.InsideLeft
 ms.assetid: 04c9291b-efbf-4deb-d6b4-373473531ba6
+ms.date: 06/08/2017
 ---
 
 

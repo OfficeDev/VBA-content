@@ -2,6 +2,7 @@
 title: Chart.ShowReportFilterFieldButtons Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 717a8cd8-eee0-ac65-7358-bdbcbff01afa
+ms.date: 06/08/2017
 ---
 
 

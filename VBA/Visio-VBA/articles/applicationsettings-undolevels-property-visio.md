@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.UndoLevels
 ms.assetid: 5d4ad370-254d-3b99-21d9-2cbdf60842a6
+ms.date: 06/08/2017
 ---
 
 

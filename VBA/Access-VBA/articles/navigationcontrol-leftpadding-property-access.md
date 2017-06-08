@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.LeftPadding
 ms.assetid: 0a082747-dd3d-2ad9-b5e4-4911bd639750
+ms.date: 06/08/2017
 ---
 
 

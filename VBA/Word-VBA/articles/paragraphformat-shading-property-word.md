@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.Shading
 ms.assetid: 20e67a80-15ca-8b9b-d565-6e7c79a6ea14
+ms.date: 06/08/2017
 ---
 
 

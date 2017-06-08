@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.RoutingSlip.Creator
 ms.assetid: 7149bf4e-8b1c-c47f-a816-6dadd73d0aba
+ms.date: 06/08/2017
 ---
 
 

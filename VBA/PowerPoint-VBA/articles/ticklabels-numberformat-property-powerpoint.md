@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TickLabels.NumberFormat
 ms.assetid: aeb2a6fb-b62f-bd74-dd71-aaf527969925
+ms.date: 06/08/2017
 ---
 
 

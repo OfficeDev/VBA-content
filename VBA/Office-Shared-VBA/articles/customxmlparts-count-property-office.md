@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLParts.Count
 ms.assetid: e5c8962f-3f93-8d2c-c5cf-8b485c1b2664
+ms.date: 06/08/2017
 ---
 
 

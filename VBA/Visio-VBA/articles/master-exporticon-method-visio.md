@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.ExportIcon
 ms.assetid: 8b13f92f-537a-1efb-b2b0-531a8054e89b
+ms.date: 06/08/2017
 ---
 
 

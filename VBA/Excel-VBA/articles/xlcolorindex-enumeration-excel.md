@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlColorIndex
 ms.assetid: b925578b-d654-61fa-03fa-67631ea8c5d1
+ms.date: 06/08/2017
 ---
 
 

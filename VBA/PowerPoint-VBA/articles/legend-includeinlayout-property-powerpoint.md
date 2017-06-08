@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Legend.IncludeInLayout
 ms.assetid: 2e14a6e0-923b-d383-2e40-dfa17f95df92
+ms.date: 06/08/2017
 ---
 
 

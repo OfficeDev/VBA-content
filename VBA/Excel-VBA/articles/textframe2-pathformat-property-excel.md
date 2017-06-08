@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextFrame2.PathFormat
 ms.assetid: 176d0ca9-c633-2056-a83a-c5db70fd0fcf
+ms.date: 06/08/2017
 ---
 
 

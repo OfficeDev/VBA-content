@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ReviewerCount
 ms.assetid: 5ab6cae5-ea59-bb72-1fb2-04aebc5ae5cc
+ms.date: 06/08/2017
 ---
 
 

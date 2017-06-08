@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.OvertimeRate
 ms.assetid: 889226c3-8493-3d61-d31d-56cccab8c07c
+ms.date: 06/08/2017
 ---
 
 

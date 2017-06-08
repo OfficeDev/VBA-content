@@ -2,6 +2,7 @@
 title: Shape.HasTable Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 03e919f7-1682-0d1d-7e33-160a3d22db81
+ms.date: 06/08/2017
 ---
 
 

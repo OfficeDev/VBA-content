@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.Resize
 ms.assetid: cd2c1c2a-959b-a5d0-9f75-a7443a9a57f1
+ms.date: 06/08/2017
 ---
 
 

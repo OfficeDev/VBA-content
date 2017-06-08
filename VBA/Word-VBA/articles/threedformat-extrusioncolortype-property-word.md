@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.ExtrusionColorType
 ms.assetid: cddfbdac-601b-1786-fe41-5d155114d539
+ms.date: 06/08/2017
 ---
 
 

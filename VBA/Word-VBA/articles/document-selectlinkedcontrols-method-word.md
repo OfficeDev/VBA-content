@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.SelectLinkedControls
 ms.assetid: cae4e00c-a34f-8581-07f9-b58722ec399e
+ms.date: 06/08/2017
 ---
 
 

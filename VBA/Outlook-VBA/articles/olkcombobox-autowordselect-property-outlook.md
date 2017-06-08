@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.AutoWordSelect
 ms.assetid: b21674a0-dfd7-1c4b-acc6-40b382ec51bd
+ms.date: 06/08/2017
 ---
 
 

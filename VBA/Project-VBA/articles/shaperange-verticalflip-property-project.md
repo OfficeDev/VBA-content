@@ -2,6 +2,7 @@
 title: ShapeRange.VerticalFlip Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: ce162eda-0bc5-b13a-fcf3-a2da0165c3da
+ms.date: 06/08/2017
 ---
 
 

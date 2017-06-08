@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ParagraphFormat.WordWrap
 ms.assetid: d9ccb806-b6a0-0d4c-e272-1f15336142d1
+ms.date: 06/08/2017
 ---
 
 

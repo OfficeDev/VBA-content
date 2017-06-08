@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BeforeSelectionDelete
 ms.assetid: 4384f7b1-9e88-9a73-a452-5943fb40f18b
+ms.date: 06/08/2017
 ---
 
 

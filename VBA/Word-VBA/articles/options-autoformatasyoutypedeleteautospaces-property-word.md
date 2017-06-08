@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AutoFormatAsYouTypeDeleteAutoSpaces
 ms.assetid: a0308511-e676-73d5-cbe9-41ed3858828a
+ms.date: 06/08/2017
 ---
 
 

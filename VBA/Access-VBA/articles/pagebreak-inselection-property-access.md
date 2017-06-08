@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.PageBreak.InSelection
 ms.assetid: 3d680238-bb28-de45-e798-4fb9de405ccc
+ms.date: 06/08/2017
 ---
 
 

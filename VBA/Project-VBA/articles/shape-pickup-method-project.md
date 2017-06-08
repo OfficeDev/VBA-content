@@ -2,6 +2,7 @@
 title: Shape.PickUp Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 954390b6-8992-f239-d891-467ec732b0b0
+ms.date: 06/08/2017
 ---
 
 

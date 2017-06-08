@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.ShowItemCount
 ms.assetid: 3ce32c47-5f92-82ca-5ac3-b3d6f24e5f36
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.TableField.Index
 ms.assetid: 7580e8ed-2f4a-073c-a76e-49bb342ec34c
+ms.date: 06/08/2017
 ---
 
 

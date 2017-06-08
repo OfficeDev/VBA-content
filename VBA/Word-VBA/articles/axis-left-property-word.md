@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axis.Left
 ms.assetid: 68295623-a19d-a8c4-8798-ec8dce110310
+ms.date: 06/08/2017
 ---
 
 

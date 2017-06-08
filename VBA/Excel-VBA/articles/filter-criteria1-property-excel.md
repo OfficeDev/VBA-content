@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Filter.Criteria1
 ms.assetid: c1414fe3-92fd-e5cd-c60b-64e00cdf4973
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WorkbookPivotTableOpenConnection
 ms.assetid: 5f07e995-96fd-86ac-2d1c-1366528fd8c6
+ms.date: 06/08/2017
 ---
 
 

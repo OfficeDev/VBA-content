@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskItem.DelegationState
 ms.assetid: 345321d9-1142-5d6c-dd6a-304b9a4ec4cc
+ms.date: 06/08/2017
 ---
 
 

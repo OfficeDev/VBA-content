@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Protection.AllowInsertingHyperlinks
 ms.assetid: ef334ce3-a8d3-d9db-e48b-739f150cfb98
+ms.date: 06/08/2017
 ---
 
 

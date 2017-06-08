@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.PixelsPerInch
 ms.assetid: e459670a-edf8-40f7-5025-829b9b33b7ae
+ms.date: 06/08/2017
 ---
 
 

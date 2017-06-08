@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.TextRangeStart
 ms.assetid: b6da1565-84e2-acc4-4a06-166c5fda7071
+ms.date: 06/08/2017
 ---
 
 

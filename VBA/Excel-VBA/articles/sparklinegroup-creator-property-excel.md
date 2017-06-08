@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.Creator
 ms.assetid: 8a6a55f2-169f-4c65-e52c-9c182421cf4d
+ms.date: 06/08/2017
 ---
 
 

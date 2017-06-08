@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.ShapeChanged
 ms.assetid: a012a091-b7cc-0d7c-36a2-bbfc675356d0
+ms.date: 06/08/2017
 ---
 
 

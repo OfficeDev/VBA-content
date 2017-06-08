@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Pane.View
 ms.assetid: a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2
+ms.date: 06/08/2017
 ---
 
 

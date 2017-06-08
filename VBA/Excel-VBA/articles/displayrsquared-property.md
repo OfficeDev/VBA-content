@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DisplayRSquared
 ms.assetid: cc8ac282-19b1-00d8-14a7-738f5574f1cb
+ms.date: 06/08/2017
 ---
 
 

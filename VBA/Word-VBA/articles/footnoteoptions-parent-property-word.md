@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FootnoteOptions.Parent
 ms.assetid: 816b3543-c8cf-1fac-9132-4468cca72008
+ms.date: 06/08/2017
 ---
 
 

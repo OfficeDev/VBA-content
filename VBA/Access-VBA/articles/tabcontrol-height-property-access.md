@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.Height
 ms.assetid: defcb681-9f95-4961-f18c-ef87b98a6602
+ms.date: 06/08/2017
 ---
 
 

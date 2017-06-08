@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.VisioIsIdle
 ms.assetid: 58a66628-d8df-f55c-7d25-e6b272b37906
+ms.date: 06/08/2017
 ---
 
 

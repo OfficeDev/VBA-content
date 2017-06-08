@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceMember.Email
 ms.assetid: 3539becc-bde4-9331-432c-e907523975a7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ThreeDFormat.Perspective
 ms.assetid: 9f31508e-c723-e55a-07a9-cef1bc526136
+ms.date: 06/08/2017
 ---
 
 

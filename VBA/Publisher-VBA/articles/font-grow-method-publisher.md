@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Grow
 ms.assetid: 41d48db2-4a0d-6efc-80c5-c6f035e9e6ff
+ms.date: 06/08/2017
 ---
 
 

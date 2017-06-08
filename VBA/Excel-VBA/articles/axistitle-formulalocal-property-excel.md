@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AxisTitle.FormulaLocal
 ms.assetid: f3de8bf1-04e9-e3d2-2fd5-05339cf1ca9b
+ms.date: 06/08/2017
 ---
 
 

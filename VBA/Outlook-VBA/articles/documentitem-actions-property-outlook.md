@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DocumentItem.Actions
 ms.assetid: 55ba5eb9-ddd4-7fa0-e807-7ddd97e5ef05
+ms.date: 06/08/2017
 ---
 
 

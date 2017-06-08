@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.MaxLinesInMultiLineView
 ms.assetid: e9001b61-bae4-72f2-4aa2-6d1c1e4fc086
+ms.date: 06/08/2017
 ---
 
 

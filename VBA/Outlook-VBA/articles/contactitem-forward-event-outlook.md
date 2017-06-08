@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Forward
 ms.assetid: d09448bb-09de-03be-4f4b-98f3a94bce6c
+ms.date: 06/08/2017
 ---
 
 

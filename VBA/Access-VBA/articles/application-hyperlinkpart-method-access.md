@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.HyperlinkPart
 ms.assetid: 011665ea-c650-fab3-a736-f26a3de1b65e
+ms.date: 06/08/2017
 ---
 
 

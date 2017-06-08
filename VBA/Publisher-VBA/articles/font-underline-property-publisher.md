@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Underline
 ms.assetid: a01a943e-274d-725e-3f78-aa76c51d5c46
+ms.date: 06/08/2017
 ---
 
 

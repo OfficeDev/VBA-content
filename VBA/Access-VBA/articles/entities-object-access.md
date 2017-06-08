@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Entities
 ms.assetid: 8d91418d-ab38-77b1-e767-250b0eb57cb1
+ms.date: 06/08/2017
 ---
 
 

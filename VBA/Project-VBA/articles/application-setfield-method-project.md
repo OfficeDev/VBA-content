@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SetField
 ms.assetid: 9f0670a9-b7e3-0bb6-40fc-0dcae63a3c19
+ms.date: 06/08/2017
 ---
 
 

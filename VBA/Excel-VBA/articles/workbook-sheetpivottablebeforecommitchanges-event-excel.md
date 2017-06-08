@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.SheetPivotTableBeforeCommitChanges
 ms.assetid: 7e189a4f-a349-f862-375a-fa66311629cc
+ms.date: 06/08/2017
 ---
 
 

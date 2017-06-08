@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slides.InsertFromFile
 ms.assetid: b8c6faa4-b77a-1237-cb90-00a2814e6aaa
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.ScrollBarAlign
 ms.assetid: b685e196-513e-fe57-d993-d1e2f4051a4c
+ms.date: 06/08/2017
 ---
 
 

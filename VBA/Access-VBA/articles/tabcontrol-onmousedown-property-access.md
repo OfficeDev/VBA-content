@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.OnMouseDown
 ms.assetid: 034bf4b5-c170-f349-c4aa-d114f0d27caf
+ms.date: 06/08/2017
 ---
 
 

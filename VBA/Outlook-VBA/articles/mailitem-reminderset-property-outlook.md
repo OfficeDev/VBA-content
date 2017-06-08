@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.ReminderSet
 ms.assetid: f99a945b-1890-7d52-f13b-e0fada91903d
+ms.date: 06/08/2017
 ---
 
 

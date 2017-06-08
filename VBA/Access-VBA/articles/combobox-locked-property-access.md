@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.Locked
 ms.assetid: 6ef9a63c-9b00-126f-f662-0d23d672cfa2
+ms.date: 06/08/2017
 ---
 
 

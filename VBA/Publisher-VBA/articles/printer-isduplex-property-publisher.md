@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Printer.IsDuplex
 ms.assetid: d39beb76-8a30-5f2d-3f04-016cfac943fa
+ms.date: 06/08/2017
 ---
 
 

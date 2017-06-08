@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListColumn.Delete
 ms.assetid: d3c62503-0a49-afc2-8f26-224bdf13b50c
+ms.date: 06/08/2017
 ---
 
 

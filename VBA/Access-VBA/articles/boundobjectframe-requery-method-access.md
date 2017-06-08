@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.Requery
 ms.assetid: e2936b7f-da7e-7b61-5ada-cbca28a29385
+ms.date: 06/08/2017
 ---
 
 

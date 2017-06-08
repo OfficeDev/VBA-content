@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.Creator
 ms.assetid: 5113f3bd-2ac3-4ba3-5ab4-321ae6917eb2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.WindowBeforeRightClick
 ms.assetid: c2d550e5-6781-a05f-41f6-eb9839aef208
+ms.date: 06/08/2017
 ---
 
 

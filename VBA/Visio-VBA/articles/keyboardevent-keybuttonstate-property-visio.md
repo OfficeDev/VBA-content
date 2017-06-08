@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.KeyboardEvent.KeyButtonState
 ms.assetid: c2ab3fa3-39c6-fb34-1f56-342cf080d9d5
+ms.date: 06/08/2017
 ---
 
 

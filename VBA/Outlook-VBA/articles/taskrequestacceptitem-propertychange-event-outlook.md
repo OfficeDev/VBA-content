@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.PropertyChange
 ms.assetid: 4b26e4b6-607c-c9e6-088f-2e7605b0681f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.RulerLevel.LeftMargin
 ms.assetid: ea9e94ac-c56b-5acd-761d-ba0f45e8da3c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabel.ShowPercentage
 ms.assetid: 9d084502-545d-7a9a-1b6d-e12d4e2b34e6
+ms.date: 06/08/2017
 ---
 
 

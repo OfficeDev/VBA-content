@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.GetContainers
 ms.assetid: 17d9365b-f9ac-85ba-e1cb-cd02ea1a2f22
+ms.date: 06/08/2017
 ---
 
 

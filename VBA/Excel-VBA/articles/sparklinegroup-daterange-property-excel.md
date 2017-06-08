@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.DateRange
 ms.assetid: 4944aa78-89cc-8252-2c5e-148ca4229579
+ms.date: 06/08/2017
 ---
 
 

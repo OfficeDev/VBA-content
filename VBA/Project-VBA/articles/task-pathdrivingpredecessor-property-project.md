@@ -2,6 +2,7 @@
 title: Task.PathDrivingPredecessor Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: c78f744e-ed0d-8923-fb01-a0e40a14726f
+ms.date: 06/08/2017
 ---
 
 

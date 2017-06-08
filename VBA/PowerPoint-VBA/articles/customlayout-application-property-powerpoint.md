@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.Application
 ms.assetid: 91126d20-bfbb-fcad-72e0-fb10d78a17ab
+ms.date: 06/08/2017
 ---
 
 

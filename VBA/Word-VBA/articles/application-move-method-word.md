@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.Move
 ms.assetid: 030b6ae1-50bd-8d3e-e760-509c54a6e152
+ms.date: 06/08/2017
 ---
 
 

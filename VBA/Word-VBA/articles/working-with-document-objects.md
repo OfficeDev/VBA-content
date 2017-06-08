@@ -2,6 +2,7 @@
 title: Working with Document Objects
 ms.prod: WORD
 ms.assetid: af304f65-6cdd-ff7d-a81f-cce0161f2b47
+ms.date: 06/08/2017
 ---
 
 

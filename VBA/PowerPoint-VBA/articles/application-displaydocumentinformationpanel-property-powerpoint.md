@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.DisplayDocumentInformationPanel
 ms.assetid: 473f5e46-2615-b456-12ca-440afda0e642
+ms.date: 06/08/2017
 ---
 
 

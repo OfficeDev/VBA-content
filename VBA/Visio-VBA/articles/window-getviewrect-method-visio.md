@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.GetViewRect
 ms.assetid: 3281d1af-6745-1b74-5071-e388fa1dc32c
+ms.date: 06/08/2017
 ---
 
 

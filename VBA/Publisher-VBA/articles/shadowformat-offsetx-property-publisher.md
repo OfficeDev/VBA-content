@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.OffsetX
 ms.assetid: 2b34ace8-5c3b-002b-df96-43c8aef2fbd2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.ReminderOverrideDefault
 ms.assetid: 08e77dff-b325-c565-746a-e47e4d66ed77
+ms.date: 06/08/2017
 ---
 
 

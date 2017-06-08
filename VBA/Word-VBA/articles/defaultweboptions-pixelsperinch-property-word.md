@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.PixelsPerInch
 ms.assetid: baae93ab-1e1e-79ae-1717-3671367a34cc
+ms.date: 06/08/2017
 ---
 
 

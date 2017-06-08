@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextEffectFormat.FontBold
 ms.assetid: 7432680f-5dbd-ae1c-3d49-ee99cd9f93bb
+ms.date: 06/08/2017
 ---
 
 

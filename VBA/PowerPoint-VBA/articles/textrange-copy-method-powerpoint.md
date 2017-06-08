@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextRange.Copy
 ms.assetid: c8d1edf7-68ef-aaa4-e2db-717263df8dd3
+ms.date: 06/08/2017
 ---
 
 

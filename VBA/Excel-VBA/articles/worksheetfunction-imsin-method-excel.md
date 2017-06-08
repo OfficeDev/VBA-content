@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.ImSin
 ms.assetid: 1c9d4442-954e-3943-747f-647f49b4257c
+ms.date: 06/08/2017
 ---
 
 

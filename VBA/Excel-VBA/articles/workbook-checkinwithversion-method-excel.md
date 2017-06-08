@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.CheckInWithVersion
 ms.assetid: 3b37cea5-8795-bcbb-9c4b-d30b2b9a095e
+ms.date: 06/08/2017
 ---
 
 

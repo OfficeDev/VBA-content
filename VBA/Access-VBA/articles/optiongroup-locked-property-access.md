@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.Locked
 ms.assetid: 3d131a07-41cf-a21c-afad-623f01ed14ad
+ms.date: 06/08/2017
 ---
 
 

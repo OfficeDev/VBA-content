@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.HorizontalDistanceFromText
 ms.assetid: 40672084-cced-8807-8843-0750ef5a48b9
+ms.date: 06/08/2017
 ---
 
 

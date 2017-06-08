@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.LinkInfo
 ms.assetid: 016295a3-72c1-95b3-c259-8f286b12b73c
+ms.date: 06/08/2017
 ---
 
 

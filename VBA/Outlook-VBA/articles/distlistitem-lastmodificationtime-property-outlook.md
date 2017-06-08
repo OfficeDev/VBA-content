@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.DistListItem.LastModificationTime
 ms.assetid: cab45494-4410-bbee-1f09-12cc057b99bf
+ms.date: 06/08/2017
 ---
 
 

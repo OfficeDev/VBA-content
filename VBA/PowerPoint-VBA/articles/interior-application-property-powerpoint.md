@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Interior.Application
 ms.assetid: e3a38f50-c988-3af3-a58f-4a51a94f1296
+ms.date: 06/08/2017
 ---
 
 

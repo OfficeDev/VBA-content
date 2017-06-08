@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HangulAndAlphabetException.Creator
 ms.assetid: 77b08c7a-411d-d7d7-a4fa-57c750d3b848
+ms.date: 06/08/2017
 ---
 
 

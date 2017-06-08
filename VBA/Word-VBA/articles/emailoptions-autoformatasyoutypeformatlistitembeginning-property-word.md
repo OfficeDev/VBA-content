@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning
 ms.assetid: b6450b00-f073-a7f3-2ce4-6fc057a17d41
+ms.date: 06/08/2017
 ---
 
 

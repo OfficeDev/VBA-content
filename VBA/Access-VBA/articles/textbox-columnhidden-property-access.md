@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.ColumnHidden
 ms.assetid: 4014ea78-92f8-f1a8-6d73-ae7b2c5088cb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.AutoTextEntries.Add
 ms.assetid: 7ffa87f9-a23c-1847-3907-84c95f2b7f73
+ms.date: 06/08/2017
 ---
 
 

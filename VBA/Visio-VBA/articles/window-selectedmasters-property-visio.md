@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.SelectedMasters
 ms.assetid: 8a4546b4-4930-8c69-9df6-84e6b5a1bce0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.Height
 ms.assetid: 8544f955-3891-3799-5207-de7fa2a5a224
+ms.date: 06/08/2017
 ---
 
 

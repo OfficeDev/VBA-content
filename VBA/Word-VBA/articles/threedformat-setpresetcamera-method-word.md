@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.SetPresetCamera
 ms.assetid: 9df12e86-9091-0cc6-993a-f1ac62b8172f
+ms.date: 06/08/2017
 ---
 
 

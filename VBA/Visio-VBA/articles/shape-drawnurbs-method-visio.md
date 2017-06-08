@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DrawNURBS
 ms.assetid: e1209142-3902-3231-a019-f6e091978847
+ms.date: 06/08/2017
 ---
 
 

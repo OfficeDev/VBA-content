@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.EmptyCell.RightPadding
 ms.assetid: 25191897-1093-6d5c-638e-e4ece1e813bb
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.NumLock
 ms.assetid: 0c20c000-2df9-1483-91be-cacf1abe0ff0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroup.DisplayHidden
 ms.assetid: b78d632a-658e-ce5e-a90b-df399b95cd09
+ms.date: 06/08/2017
 ---
 
 

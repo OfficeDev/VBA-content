@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Folder
 ms.assetid: 877e81a5-5a34-9ef9-2375-3c60d35d3255
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkDateControl.ForeColor
 ms.assetid: d949651c-96a0-a6a6-65f1-03e7c58bb7d0
+ms.date: 06/08/2017
 ---
 
 

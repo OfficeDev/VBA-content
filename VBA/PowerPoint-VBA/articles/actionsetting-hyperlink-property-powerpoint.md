@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ActionSetting.Hyperlink
 ms.assetid: 8654000a-bbc5-6d23-e5a7-d689bc767b1b
+ms.date: 06/08/2017
 ---
 
 

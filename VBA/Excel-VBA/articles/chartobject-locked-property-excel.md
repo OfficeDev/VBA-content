@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartObject.Locked
 ms.assetid: 6c500016-73c5-81bc-30de-4c008bf97cd0
+ms.date: 06/08/2017
 ---
 
 

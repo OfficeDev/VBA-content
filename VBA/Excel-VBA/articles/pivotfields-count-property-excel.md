@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotFields.Count
 ms.assetid: 29f23d5a-87f1-1b21-4ee1-665232970e2f
+ms.date: 06/08/2017
 ---
 
 

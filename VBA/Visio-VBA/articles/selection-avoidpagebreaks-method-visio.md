@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.AvoidPageBreaks
 ms.assetid: c0255ebe-5094-1196-0bfb-2693efefe47c
+ms.date: 06/08/2017
 ---
 
 

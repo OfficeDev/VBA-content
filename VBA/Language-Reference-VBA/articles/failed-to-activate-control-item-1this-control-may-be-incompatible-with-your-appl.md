@@ -2,6 +2,7 @@
 title: Failed to activate control 'item 1'. This control may be incompatible with your application. Make sure you are using the version of the control that was provided with your application.
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: db66f91f-10d2-4825-9b3c-48bddf60b1c2
+ms.date: 06/08/2017
 ---
 
 

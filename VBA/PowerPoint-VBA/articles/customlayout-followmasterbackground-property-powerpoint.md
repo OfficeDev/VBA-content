@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.CustomLayout.FollowMasterBackground
 ms.assetid: 9554e610-8d9a-ab32-411e-0f4aa40a7f19
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FirstLetterException.Parent
 ms.assetid: 8b977996-b405-4f92-9b88-2647dfc36ff3
+ms.date: 06/08/2017
 ---
 
 

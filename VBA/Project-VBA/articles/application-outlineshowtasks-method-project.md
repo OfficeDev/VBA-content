@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OutlineShowTasks
 ms.assetid: 614eb1fc-93eb-3df2-ae52-4fad98c80b3b
+ms.date: 06/08/2017
 ---
 
 

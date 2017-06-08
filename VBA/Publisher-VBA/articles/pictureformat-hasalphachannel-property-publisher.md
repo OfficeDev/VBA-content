@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.HasAlphaChannel
 ms.assetid: 97739201-cd0d-cc78-a28e-935fb11da5b3
+ms.date: 06/08/2017
 ---
 
 

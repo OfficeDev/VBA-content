@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShadowFormat.Blur
 ms.assetid: 4c17b7b6-922f-804f-a6c5-1c427df8bf79
+ms.date: 06/08/2017
 ---
 
 

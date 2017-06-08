@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.IsVisible
 ms.assetid: 6652c226-ee95-b94a-dabc-942e0d9d5226
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.ContainerRelationshipDeleted
 ms.assetid: 1804110e-091f-f864-461a-8545338c4883
+ms.date: 06/08/2017
 ---
 
 

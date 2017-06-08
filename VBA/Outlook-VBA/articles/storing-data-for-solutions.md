@@ -2,6 +2,7 @@
 title: Storing Data for Solutions
 ms.prod: OUTLOOK
 ms.assetid: 58e69983-5718-4dde-64fc-858abd80c9e5
+ms.date: 06/08/2017
 ---
 
 

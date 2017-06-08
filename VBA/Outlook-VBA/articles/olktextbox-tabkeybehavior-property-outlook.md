@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.TabKeyBehavior
 ms.assetid: 7be39d87-1cbf-ff4b-7598-7cc1e86ce5e0
+ms.date: 06/08/2017
 ---
 
 

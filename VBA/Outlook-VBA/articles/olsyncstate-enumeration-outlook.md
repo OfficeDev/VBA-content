@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlSyncState
 ms.assetid: 97773380-1e2e-7dd7-2ec6-efb50095db62
+ms.date: 06/08/2017
 ---
 
 

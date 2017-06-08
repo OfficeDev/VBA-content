@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationControl.Tabs
 ms.assetid: a8b2546c-9b1f-a8ff-1a6f-8e607415ffec
+ms.date: 06/08/2017
 ---
 
 

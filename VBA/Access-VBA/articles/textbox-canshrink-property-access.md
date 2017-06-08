@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.CanShrink
 ms.assetid: d4ac842c-18ea-a3be-a90a-5dd9d10d7b8f
+ms.date: 06/08/2017
 ---
 
 

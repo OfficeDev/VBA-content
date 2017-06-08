@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.BackShade
 ms.assetid: ed983b5b-ee19-078b-69a8-88cb034a1467
+ms.date: 06/08/2017
 ---
 
 

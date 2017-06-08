@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Pages.ContainerRelationshipAdded
 ms.assetid: 8d7480e7-0131-8c02-11ad-d5784679e387
+ms.date: 06/08/2017
 ---
 
 

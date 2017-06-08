@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.MultiUserEditing
 ms.assetid: dc721463-ec34-8c52-6701-51c406beed23
+ms.date: 06/08/2017
 ---
 
 

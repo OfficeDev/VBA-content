@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.BeforeXmlImport
 ms.assetid: a0a589c6-15f9-5599-c0b6-c6f881816ad6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.RemoteID
 ms.assetid: 07b0ba28-f560-7cee-bfc9-38fa073d8669
+ms.date: 06/08/2017
 ---
 
 

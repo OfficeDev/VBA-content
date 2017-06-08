@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Trendline.Parent
 ms.assetid: ebaaeaa4-1ecb-b11c-d417-6b91e5835c26
+ms.date: 06/08/2017
 ---
 
 

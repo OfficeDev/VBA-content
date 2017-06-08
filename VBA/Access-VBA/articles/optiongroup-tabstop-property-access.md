@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.TabStop
 ms.assetid: cce6547b-9e55-2216-9f00-ba9147849e21
+ms.date: 06/08/2017
 ---
 
 

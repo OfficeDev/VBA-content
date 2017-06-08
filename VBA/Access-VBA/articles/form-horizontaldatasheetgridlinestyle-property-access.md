@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.HorizontalDatasheetGridlineStyle
 ms.assetid: 31467913-382f-031e-b030-68181a71d5e0
+ms.date: 06/08/2017
 ---
 
 

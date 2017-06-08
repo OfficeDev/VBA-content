@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.XYFromPage
 ms.assetid: 85b04e0b-04e1-a5b5-f6ff-393c57751946
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.WindowHeight
 ms.assetid: 316bce4d-1b5b-e30e-5e80-a4bc31c41d11
+ms.date: 06/08/2017
 ---
 
 

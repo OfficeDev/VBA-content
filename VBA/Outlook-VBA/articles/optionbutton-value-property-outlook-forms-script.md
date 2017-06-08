@@ -2,6 +2,7 @@
 title: OptionButton.Value Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 2ab8a0e5-2b82-5542-3343-2b4599141ef8
+ms.date: 06/08/2017
 ---
 
 

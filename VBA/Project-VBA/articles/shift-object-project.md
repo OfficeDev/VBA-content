@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Shift
 ms.assetid: bf224646-d1c6-bc4a-1cce-a08b2f4e417d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Windows.EventList
 ms.assetid: b94118da-2b5b-8018-4d04-8fc0f32f956f
+ms.date: 06/08/2017
 ---
 
 

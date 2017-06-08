@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PayRates.Count
 ms.assetid: 8ce675fe-ace2-b509-05dd-476c0d228bc1
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.MarkupOverlaysVisible
 ms.assetid: 5e9f83b1-9c92-73b0-fa45-adf6b3ab612a
+ms.date: 06/08/2017
 ---
 
 

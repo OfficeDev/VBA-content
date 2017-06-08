@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Profession
 ms.assetid: 4aeadd8a-d227-7a51-ba01-c67fd94ed3a3
+ms.date: 06/08/2017
 ---
 
 

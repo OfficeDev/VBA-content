@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartTitle.Select
 ms.assetid: 6eaf6315-8c01-4428-9c9c-ec2a2423c09b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.SATextUI
 ms.assetid: e8bdb2bd-a54b-01e4-8ee7-c3d5c3156854
+ms.date: 06/08/2017
 ---
 
 

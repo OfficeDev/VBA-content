@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Flag20
 ms.assetid: dd7420f0-f949-805c-5d06-928c62fc2c75
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.Quit
 ms.assetid: e45406cc-45fb-54a0-6a63-0be0f0647a11
+ms.date: 06/08/2017
 ---
 
 

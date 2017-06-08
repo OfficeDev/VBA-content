@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindows.Item
 ms.assetid: 71e8ae25-8ef8-3495-c864-f8c0ea774f5e
+ms.date: 06/08/2017
 ---
 
 

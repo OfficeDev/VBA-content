@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisConnectorEnds
 ms.assetid: 21dca3ff-f11d-951b-b644-9a5a8e9eb7cf
+ms.date: 06/08/2017
 ---
 
 

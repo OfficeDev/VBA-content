@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroups.Group
 ms.assetid: a5e01669-1922-4b26-158d-3c3aa70a101a
+ms.date: 06/08/2017
 ---
 
 

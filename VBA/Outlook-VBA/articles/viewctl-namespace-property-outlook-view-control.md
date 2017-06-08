@@ -2,6 +2,7 @@
 title: ViewCtl.Namespace Property (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 97cb1ea1-2e27-afc9-7756-b609dc9cc69e
+ms.date: 06/08/2017
 ---
 
 

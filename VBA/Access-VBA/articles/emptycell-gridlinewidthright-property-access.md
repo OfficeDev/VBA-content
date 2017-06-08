@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.EmptyCell.GridlineWidthRight
 ms.assetid: bfef02f6-bc3a-988f-c7ba-de1f27754011
+ms.date: 06/08/2017
 ---
 
 

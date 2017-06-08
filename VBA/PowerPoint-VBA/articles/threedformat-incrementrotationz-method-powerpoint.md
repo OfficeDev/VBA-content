@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationZ
 ms.assetid: 80f91663-a863-573d-d4ac-d13305d0b464
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Walls.Thickness
 ms.assetid: b26340d2-e6fc-88cf-47af-b0e0250c492e
+ms.date: 06/08/2017
 ---
 
 

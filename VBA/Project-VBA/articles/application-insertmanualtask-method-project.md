@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.InsertManualTask
 ms.assetid: 4fcfa1be-2a92-9906-2024-6bd14a31fdac
+ms.date: 06/08/2017
 ---
 
 

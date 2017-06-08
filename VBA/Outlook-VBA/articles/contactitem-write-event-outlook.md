@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Write
 ms.assetid: 934a4bac-8b75-246b-97ed-214ebd3fbd8f
+ms.date: 06/08/2017
 ---
 
 

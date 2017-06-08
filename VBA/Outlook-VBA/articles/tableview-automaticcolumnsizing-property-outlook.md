@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.AutomaticColumnSizing
 ms.assetid: b599fec1-a6a4-fc12-0d95-bae9491c40d1
+ms.date: 06/08/2017
 ---
 
 

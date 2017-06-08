@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.AutoLabel
 ms.assetid: f5e6e01e-55be-21f8-339b-bb546eaf0151
+ms.date: 06/08/2017
 ---
 
 

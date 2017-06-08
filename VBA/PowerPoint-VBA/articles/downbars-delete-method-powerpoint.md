@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DownBars.Delete
 ms.assetid: 016fc70d-84c5-ab76-4046-bd4f7b625e90
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorFormat.BaseRGB
 ms.assetid: c8096661-9a5a-2769-fd88-72d38d383095
+ms.date: 06/08/2017
 ---
 
 

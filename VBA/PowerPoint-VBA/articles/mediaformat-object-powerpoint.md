@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat
 ms.assetid: 26035913-32c6-fa4e-91c4-2e232e4d84a9
+ms.date: 06/08/2017
 ---
 
 

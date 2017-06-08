@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.GetCalendarExporter
 ms.assetid: 7c67e208-65dd-8904-4b6f-8ec2df4e530d
+ms.date: 06/08/2017
 ---
 
 

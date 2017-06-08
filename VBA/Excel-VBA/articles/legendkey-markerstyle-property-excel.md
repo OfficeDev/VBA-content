@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LegendKey.MarkerStyle
 ms.assetid: 71c96e61-e3cf-3467-816d-45c532e3c9ed
+ms.date: 06/08/2017
 ---
 
 

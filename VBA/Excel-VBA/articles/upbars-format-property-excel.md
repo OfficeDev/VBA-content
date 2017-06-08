@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.UpBars.Format
 ms.assetid: 4bde3bb7-1c52-99c3-919a-92628b80380c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TimelineGotoSelectedTask
 ms.assetid: 62353aab-b850-bcf9-1d16-c7c794643318
+ms.date: 06/08/2017
 ---
 
 

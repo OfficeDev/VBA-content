@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.AlternativeText
 ms.assetid: db35ce8c-0115-4e72-db25-3d555242aee4
+ms.date: 06/08/2017
 ---
 
 

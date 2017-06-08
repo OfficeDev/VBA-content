@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PrintRange.Start
 ms.assetid: 493d64b3-c2fb-7f4a-ca59-a7f657a386a0
+ms.date: 06/08/2017
 ---
 
 

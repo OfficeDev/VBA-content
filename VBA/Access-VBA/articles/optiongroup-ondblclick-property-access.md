@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.OnDblClick
 ms.assetid: f1dfb135-716f-4db3-1d4a-89c4b28b40f8
+ms.date: 06/08/2017
 ---
 
 

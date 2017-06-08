@@ -2,6 +2,7 @@
 title: COMAddIn Members (Office)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 698d4d8e-6071-acd3-a39b-ab01fd878452
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Index.Delete
 ms.assetid: 0a9f7da0-0564-30ff-1964-c2c12f266b0f
+ms.date: 06/08/2017
 ---
 
 

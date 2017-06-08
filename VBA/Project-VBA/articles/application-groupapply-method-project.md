@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GroupApply
 ms.assetid: 862ff123-2fef-611a-f7c3-dedf8eab0e0b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PageNumbers.Parent
 ms.assetid: d257b21e-55a5-0c6c-e64e-581b3f8b0fe3
+ms.date: 06/08/2017
 ---
 
 

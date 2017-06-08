@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.FillDown
 ms.assetid: bb7c0b2d-8dd9-13e5-b90a-b2708935afa9
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlCubeFieldType
 ms.assetid: 7361f0d9-72a4-c6d9-f8ce-f69d90b8ef50
+ms.date: 06/08/2017
 ---
 
 

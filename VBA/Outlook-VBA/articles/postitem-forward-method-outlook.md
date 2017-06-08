@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PostItem.Forward
 ms.assetid: d942b1c9-2c70-b250-c3ff-c46aed5755b0
+ms.date: 06/08/2017
 ---
 
 

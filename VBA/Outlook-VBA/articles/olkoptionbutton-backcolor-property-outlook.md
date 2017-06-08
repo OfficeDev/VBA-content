@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkOptionButton.BackColor
 ms.assetid: fd390606-b2a4-ddbd-1f92-a540bfc2aea7
+ms.date: 06/08/2017
 ---
 
 

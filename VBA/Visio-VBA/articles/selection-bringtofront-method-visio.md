@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.BringToFront
 ms.assetid: f7e0b949-9f16-e4c1-8443-941abd3495db
+ms.date: 06/08/2017
 ---
 
 

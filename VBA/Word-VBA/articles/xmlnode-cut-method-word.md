@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLNode.Cut
 ms.assetid: 51393584-662b-6f6f-18a2-2633b2a83e1e
+ms.date: 06/08/2017
 ---
 
 

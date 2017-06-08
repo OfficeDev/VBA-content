@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Conflicts.RejectAll
 ms.assetid: bd3779d6-8cba-9cf8-d8ec-a9952e3918ad
+ms.date: 06/08/2017
 ---
 
 

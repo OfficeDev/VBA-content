@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DeleteAllEditableRanges
 ms.assetid: 021456eb-516c-5616-3e32-19d0b9908aef
+ms.date: 06/08/2017
 ---
 
 

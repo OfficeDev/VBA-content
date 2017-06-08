@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.Mileage
 ms.assetid: 01d9f8bd-d812-7873-02e5-844a64007d5a
+ms.date: 06/08/2017
 ---
 
 

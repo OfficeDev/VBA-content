@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItem.SourceNameStandard
 ms.assetid: f8e25ad0-7a97-c19c-85b5-bf25e3553ca8
+ms.date: 06/08/2017
 ---
 
 

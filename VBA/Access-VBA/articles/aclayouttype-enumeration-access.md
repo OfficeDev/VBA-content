@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AcLayoutType
 ms.assetid: ee963ed0-9293-8ad8-5694-4b93a5e4d89a
+ms.date: 06/08/2017
 ---
 
 

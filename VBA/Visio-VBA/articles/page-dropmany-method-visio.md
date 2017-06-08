@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DropMany
 ms.assetid: 81fc5b8d-3152-de69-2f8e-90d530aa5e08
+ms.date: 06/08/2017
 ---
 
 

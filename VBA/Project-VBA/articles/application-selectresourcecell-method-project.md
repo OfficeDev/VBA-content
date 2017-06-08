@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SelectResourceCell
 ms.assetid: 3bae94f3-5661-63ef-47a6-12824d5426d0
+ms.date: 06/08/2017
 ---
 
 

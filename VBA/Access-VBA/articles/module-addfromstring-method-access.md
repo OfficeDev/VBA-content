@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Module.AddFromString
 ms.assetid: 119db9d9-fac2-b86f-be21-c94366bda7d6
+ms.date: 06/08/2017
 ---
 
 

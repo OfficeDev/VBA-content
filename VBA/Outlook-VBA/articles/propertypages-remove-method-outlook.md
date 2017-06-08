@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.PropertyPages.Remove
 ms.assetid: 5d728d8c-d95e-5e14-743b-6890de5b542c
+ms.date: 06/08/2017
 ---
 
 

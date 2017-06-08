@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextStyleLevel.Font
 ms.assetid: 9fb1ff74-9509-72e1-d887-c727f94fa592
+ms.date: 06/08/2017
 ---
 
 

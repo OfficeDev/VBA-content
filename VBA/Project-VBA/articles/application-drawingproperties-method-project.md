@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DrawingProperties
 ms.assetid: 8d63be84-6321-c0b2-27f0-945baf349714
+ms.date: 06/08/2017
 ---
 
 

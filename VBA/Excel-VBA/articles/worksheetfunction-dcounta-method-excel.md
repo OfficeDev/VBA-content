@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.DCountA
 ms.assetid: 43f355c0-ad66-667c-265e-12a133b2e3c2
+ms.date: 06/08/2017
 ---
 
 

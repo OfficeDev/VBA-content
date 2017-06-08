@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetAbsolutePathName
 ms.assetid: 49209a8f-6346-b32a-55d7-d72692b4defb
+ms.date: 06/08/2017
 ---
 
 

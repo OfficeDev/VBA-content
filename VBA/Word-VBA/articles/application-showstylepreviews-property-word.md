@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.ShowStylePreviews
 ms.assetid: 16edc0cd-29a4-f951-8344-c4603fc047f7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Axes.Parent
 ms.assetid: a69a0988-be57-060f-cc5a-4c8757d82166
+ms.date: 06/08/2017
 ---
 
 

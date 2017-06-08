@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Walls.Application
 ms.assetid: 306ae3d9-2c61-50c6-92dd-2921911635ca
+ms.date: 06/08/2017
 ---
 
 

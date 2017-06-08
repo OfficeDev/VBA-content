@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CustomXMLParts.Add
 ms.assetid: f2c1588b-c11b-49ca-5db6-4fa4c26d10c5
+ms.date: 06/08/2017
 ---
 
 

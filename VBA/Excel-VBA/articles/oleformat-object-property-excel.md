@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEFormat.Object
 ms.assetid: be4b7180-34f5-6577-4cfa-b8df017f307a
+ms.date: 06/08/2017
 ---
 
 

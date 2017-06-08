@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Cost8
 ms.assetid: 08c1c081-81af-37f7-00b8-cfc4d29df4e0
+ms.date: 06/08/2017
 ---
 
 

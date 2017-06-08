@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.TextureType
 ms.assetid: 9a39c34e-c19c-5539-b5ac-b624fe71e2e9
+ms.date: 06/08/2017
 ---
 
 

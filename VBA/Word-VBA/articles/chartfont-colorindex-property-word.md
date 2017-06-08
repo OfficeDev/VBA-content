@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFont.ColorIndex
 ms.assetid: 50f2415c-ff1f-cc16-371f-24f29373f96d
+ms.date: 06/08/2017
 ---
 
 

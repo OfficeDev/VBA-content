@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.IndentCharWidth
 ms.assetid: 52e9b6b1-15b3-5e03-7259-21d847c1d59c
+ms.date: 06/08/2017
 ---
 
 

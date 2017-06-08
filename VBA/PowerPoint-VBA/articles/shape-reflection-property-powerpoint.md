@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Reflection
 ms.assetid: 6120a828-e937-9b91-57c8-c896a4e2c9e9
+ms.date: 06/08/2017
 ---
 
 

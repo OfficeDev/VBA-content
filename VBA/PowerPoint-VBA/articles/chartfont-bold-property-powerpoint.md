@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartFont.Bold
 ms.assetid: 5d5a0b2e-5aab-f197-79da-e9bb8d219af9
+ms.date: 06/08/2017
 ---
 
 

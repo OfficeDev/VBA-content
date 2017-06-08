@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AccessObject.IsDependentUpon
 ms.assetid: aba465c5-4176-c69a-8eb8-1a6737b6d8cf
+ms.date: 06/08/2017
 ---
 
 

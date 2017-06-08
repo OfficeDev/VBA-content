@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableStyle.Shading
 ms.assetid: 94d4694c-ad24-5285-bbb4-dcd4541bd96c
+ms.date: 06/08/2017
 ---
 
 

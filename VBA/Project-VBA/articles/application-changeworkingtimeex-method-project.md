@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ChangeWorkingTimeEx
 ms.assetid: 4608fdab-0b39-9918-522a-71d502ba7e3a
+ms.date: 06/08/2017
 ---
 
 

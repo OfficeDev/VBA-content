@@ -2,6 +2,7 @@
 title: Methods (Visual Basic Add-In Model)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 702bf8c5-8d2a-4d90-9250-6036620c42c3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Break.Creator
 ms.assetid: c711f505-3b1e-25a6-a8c7-5afcb0955dc4
+ms.date: 06/08/2017
 ---
 
 

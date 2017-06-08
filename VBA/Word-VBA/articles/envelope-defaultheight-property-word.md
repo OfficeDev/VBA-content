@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.DefaultHeight
 ms.assetid: 4c13a3b2-4236-defa-3682-ccef1700901f
+ms.date: 06/08/2017
 ---
 
 

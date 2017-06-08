@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.MarkCommentsWith
 ms.assetid: f10ce322-5ac5-f431-80c9-5c00a0892e2e
+ms.date: 06/08/2017
 ---
 
 

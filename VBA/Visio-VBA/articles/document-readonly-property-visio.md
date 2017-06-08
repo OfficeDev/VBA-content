@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.ReadOnly
 ms.assetid: 0645ee7b-7d51-a89d-b2ec-987037397eb8
+ms.date: 06/08/2017
 ---
 
 

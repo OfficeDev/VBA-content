@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ConditionalStyle.BottomPadding
 ms.assetid: 542503e0-7499-974c-a955-7da94f7a25c4
+ms.date: 06/08/2017
 ---
 
 

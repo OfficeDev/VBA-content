@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListObject.DataBodyRange
 ms.assetid: fe906555-d006-8220-d9f8-59636cca68d5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.Conflicts
 ms.assetid: c51d7028-40d5-4d67-7bc6-8715bfa89f24
+ms.date: 06/08/2017
 ---
 
 

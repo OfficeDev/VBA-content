@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.VerticalAlignment
 ms.assetid: 78a6fbfc-476f-0a2e-92c4-cc349dd85867
+ms.date: 06/08/2017
 ---
 
 

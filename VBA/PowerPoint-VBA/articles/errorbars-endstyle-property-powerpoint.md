@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ErrorBars.EndStyle
 ms.assetid: 2d6dca80-0281-3d56-fdc9-dc863bf7ad38
+ms.date: 06/08/2017
 ---
 
 

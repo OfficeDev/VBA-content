@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.HeaderFooterFont
 ms.assetid: cd4b1f35-c3a2-d48c-fc0d-37f9626ecdab
+ms.date: 06/08/2017
 ---
 
 

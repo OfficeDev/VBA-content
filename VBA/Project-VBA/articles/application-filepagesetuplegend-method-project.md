@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.FilePageSetupLegend
 ms.assetid: b4118a37-f777-b806-9bb4-3f7e6766eda7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CanvasShapes.AddPicture
 ms.assetid: 445a19cf-1388-34d7-69d8-778d889d917f
+ms.date: 06/08/2017
 ---
 
 

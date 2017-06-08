@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Printer.DriverType
 ms.assetid: 99c3b4e5-a55a-0f8d-3767-d035d9d6e4df
+ms.date: 06/08/2017
 ---
 
 

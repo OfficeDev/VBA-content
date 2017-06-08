@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.InlineShapes.Application
 ms.assetid: b68fb1e8-e749-f9ce-5621-89f019005cde
+ms.date: 06/08/2017
 ---
 
 

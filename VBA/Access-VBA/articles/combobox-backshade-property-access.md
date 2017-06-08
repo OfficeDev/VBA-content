@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.BackShade
 ms.assetid: d1846516-4f38-67bb-3e8c-41bd79ac7a30
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.Tabs
 ms.assetid: c42ba898-b84f-7215-129d-8134670f75ac
+ms.date: 06/08/2017
 ---
 
 

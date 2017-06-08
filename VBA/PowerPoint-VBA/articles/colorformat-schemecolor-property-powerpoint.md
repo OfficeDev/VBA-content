@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ColorFormat.SchemeColor
 ms.assetid: 4c62e7a7-ce53-c93e-9ec5-b299a18f5bf7
+ms.date: 06/08/2017
 ---
 
 

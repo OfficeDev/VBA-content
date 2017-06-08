@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Table.ShowInMenu
 ms.assetid: 3f2be58d-4549-ac6e-e74c-40cf81e56db6
+ms.date: 06/08/2017
 ---
 
 

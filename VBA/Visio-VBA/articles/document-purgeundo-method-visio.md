@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.PurgeUndo
 ms.assetid: 04556300-8787-5a04-040c-476d864f682e
+ms.date: 06/08/2017
 ---
 
 

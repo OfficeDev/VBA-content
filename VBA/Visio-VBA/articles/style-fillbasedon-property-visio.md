@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Style.FillBasedOn
 ms.assetid: 22491d16-b440-fcf5-5b77-2f2c9fe1703c
+ms.date: 06/08/2017
 ---
 
 

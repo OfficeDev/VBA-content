@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.AddBusinessCardLogoPicture
 ms.assetid: 73e19806-6892-f378-cc38-70e9d90922d1
+ms.date: 06/08/2017
 ---
 
 

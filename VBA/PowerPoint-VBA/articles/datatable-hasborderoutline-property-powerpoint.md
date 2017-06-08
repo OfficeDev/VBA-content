@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataTable.HasBorderOutline
 ms.assetid: 16d6da74-b2a3-814c-e6d5-5686f8a36935
+ms.date: 06/08/2017
 ---
 
 

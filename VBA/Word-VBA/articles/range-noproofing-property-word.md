@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.NoProofing
 ms.assetid: 0344239d-10bc-0e3e-9601-41c3c3bb6227
+ms.date: 06/08/2017
 ---
 
 

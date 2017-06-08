@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.Creator
 ms.assetid: c1dea222-796c-1231-bb9b-9d258450b142
+ms.date: 06/08/2017
 ---
 
 

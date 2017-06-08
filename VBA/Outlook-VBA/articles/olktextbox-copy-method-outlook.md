@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTextBox.Copy
 ms.assetid: 54fb7146-80db-02bd-157d-e86daa7ee507
+ms.date: 06/08/2017
 ---
 
 

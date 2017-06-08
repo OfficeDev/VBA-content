@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AxisTitle.VerticalAlignment
 ms.assetid: 94029fff-1b1b-bfc0-9645-ab36519aefb0
+ms.date: 06/08/2017
 ---
 
 

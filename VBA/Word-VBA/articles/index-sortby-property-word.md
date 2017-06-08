@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Index.SortBy
 ms.assetid: 384e1d3c-5cfd-240d-95dd-fc8b7bc99283
+ms.date: 06/08/2017
 ---
 
 

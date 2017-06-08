@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthoring.Locks
 ms.assetid: cf8feb0f-3617-c239-08de-ac6f8fc71b6e
+ms.date: 06/08/2017
 ---
 
 

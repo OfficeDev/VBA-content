@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.Points
 ms.assetid: d0adc45a-7b31-a25e-d96f-f2a098702501
+ms.date: 06/08/2017
 ---
 
 

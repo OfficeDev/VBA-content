@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyDates
 ms.assetid: e600d058-9864-84f7-7908-62ffe38d350a
+ms.date: 06/08/2017
 ---
 
 

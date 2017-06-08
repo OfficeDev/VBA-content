@@ -2,6 +2,7 @@
 title: ADO for Visual C++ Syntax Index for COM
 ms.prod: ACCESS
 ms.assetid: e016746e-07a8-10a1-b8e4-7dbb7f6cdaf2
+ms.date: 06/08/2017
 ---
 
 

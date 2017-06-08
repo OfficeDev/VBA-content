@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ShapeIDToIndex
 ms.assetid: ffb4020a-cc45-f012-ee21-abd9805bf99f
+ms.date: 06/08/2017
 ---
 
 

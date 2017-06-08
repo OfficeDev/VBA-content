@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.SaveAs
 ms.assetid: f23ffcb6-8c08-1dc0-d491-6389303934ec
+ms.date: 06/08/2017
 ---
 
 

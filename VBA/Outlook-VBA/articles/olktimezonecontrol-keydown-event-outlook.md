@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeZoneControl.KeyDown
 ms.assetid: 155fa627-af2a-9c0a-3f56-fb7318843c16
+ms.date: 06/08/2017
 ---
 
 

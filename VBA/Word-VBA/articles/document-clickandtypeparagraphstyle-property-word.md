@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.ClickAndTypeParagraphStyle
 ms.assetid: e53d3740-265f-b3ed-350a-24dd97d9f7ab
+ms.date: 06/08/2017
 ---
 
 

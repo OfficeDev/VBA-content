@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.Position
 ms.assetid: 927a0858-879a-2719-a2e9-6c107ed298d4
+ms.date: 06/08/2017
 ---
 
 

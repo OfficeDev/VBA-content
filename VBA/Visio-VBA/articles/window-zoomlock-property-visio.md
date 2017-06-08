@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ZoomLock
 ms.assetid: 9f962982-27e0-a427-de5f-ed4d3ee04e73
+ms.date: 06/08/2017
 ---
 
 

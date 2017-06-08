@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Cells.DistributeHeight
 ms.assetid: 0ae41e05-5ec1-4fcc-8ee1-c40c0a28714a
+ms.date: 06/08/2017
 ---
 
 

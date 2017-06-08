@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Window.PrintOut
 ms.assetid: 63ea2dd2-5b3c-1239-16ce-1b4980cde3d3
+ms.date: 06/08/2017
 ---
 
 

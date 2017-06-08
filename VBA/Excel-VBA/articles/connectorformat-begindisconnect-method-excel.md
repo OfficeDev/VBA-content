@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ConnectorFormat.BeginDisconnect
 ms.assetid: 1edd106a-9f02-3916-401c-1b026e40d75a
+ms.date: 06/08/2017
 ---
 
 

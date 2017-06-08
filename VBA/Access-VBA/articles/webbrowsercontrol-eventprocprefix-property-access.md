@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.EventProcPrefix
 ms.assetid: 8dbf1fee-d9ab-ff0c-5571-e606c19fbf94
+ms.date: 06/08/2017
 ---
 
 

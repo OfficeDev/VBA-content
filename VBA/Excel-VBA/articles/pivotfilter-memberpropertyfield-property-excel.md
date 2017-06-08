@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotFilter.MemberPropertyField
 ms.assetid: 7150f189-5aee-b77b-0406-f35c8cc3c2eb
+ms.date: 06/08/2017
 ---
 
 

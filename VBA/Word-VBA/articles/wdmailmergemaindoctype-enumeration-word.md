@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdMailMergeMainDocType
 ms.assetid: 708f130d-6bd9-f11d-9fe4-fd2f946b4cea
+ms.date: 06/08/2017
 ---
 
 

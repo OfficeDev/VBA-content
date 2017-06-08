@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartFormat.Parent
 ms.assetid: ee524af2-dc71-1275-292b-b7f13e257db7
+ms.date: 06/08/2017
 ---
 
 

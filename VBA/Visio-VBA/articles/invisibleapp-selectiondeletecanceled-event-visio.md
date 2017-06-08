@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.SelectionDeleteCanceled
 ms.assetid: fef5b997-c4d1-cbc9-9d5d-eabf1eed81d2
+ms.date: 06/08/2017
 ---
 
 

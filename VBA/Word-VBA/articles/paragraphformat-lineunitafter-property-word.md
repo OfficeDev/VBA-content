@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.LineUnitAfter
 ms.assetid: 243cde4f-8bcb-1be6-0885-ffaf0bbe83d1
+ms.date: 06/08/2017
 ---
 
 

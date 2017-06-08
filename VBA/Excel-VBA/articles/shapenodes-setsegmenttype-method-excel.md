@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeNodes.SetSegmentType
 ms.assetid: 6223e503-4838-2365-9610-26d0a376ccae
+ms.date: 06/08/2017
 ---
 
 

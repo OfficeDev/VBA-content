@@ -2,6 +2,7 @@
 title: Execute Method (ADO Connection)
 ms.prod: ACCESS
 ms.assetid: af190bd9-7167-df59-29ca-a9a86c4957fd
+ms.date: 06/08/2017
 ---
 
 

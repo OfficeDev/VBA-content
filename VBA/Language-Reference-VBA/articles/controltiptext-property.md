@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ControlTipText
 ms.assetid: 879e93e6-7646-1707-ff43-1b66882da4cd
+ms.date: 06/08/2017
 ---
 
 

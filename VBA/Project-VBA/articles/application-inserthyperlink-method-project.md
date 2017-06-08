@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.InsertHyperlink
 ms.assetid: d5a6ffc3-8cfe-e6c9-c347-4e3a739f6b1a
+ms.date: 06/08/2017
 ---
 
 

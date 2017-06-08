@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabels.Creator
 ms.assetid: 86b4beaa-9a5f-ca3e-7e4f-78b905e94bae
+ms.date: 06/08/2017
 ---
 
 

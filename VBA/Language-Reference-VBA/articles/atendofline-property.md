@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AtEndOfLine
 ms.assetid: a5b02fc7-362c-474d-7238-64c0783277ce
+ms.date: 06/08/2017
 ---
 
 

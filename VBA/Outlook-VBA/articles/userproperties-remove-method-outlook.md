@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.UserProperties.Remove
 ms.assetid: 47b77e76-3164-12d1-bf08-fa11847eafcb
+ms.date: 06/08/2017
 ---
 
 

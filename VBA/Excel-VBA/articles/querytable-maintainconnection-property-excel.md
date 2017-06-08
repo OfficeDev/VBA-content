@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.MaintainConnection
 ms.assetid: e27fcb2d-115c-37c2-ba70-3f4a01dbb8b2
+ms.date: 06/08/2017
 ---
 
 

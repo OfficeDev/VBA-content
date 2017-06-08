@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBreak.AlignAt
 ms.assetid: b9115631-0304-daba-e61e-a0892d063aa0
+ms.date: 06/08/2017
 ---
 
 

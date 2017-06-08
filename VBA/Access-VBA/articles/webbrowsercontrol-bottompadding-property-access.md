@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.BottomPadding
 ms.assetid: f9ee9f08-0dbd-c6bc-b92d-cb1d2bc287cd
+ms.date: 06/08/2017
 ---
 
 

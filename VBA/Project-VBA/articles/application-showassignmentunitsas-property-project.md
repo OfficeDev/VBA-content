@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ShowAssignmentUnitsAs
 ms.assetid: bf845895-9efe-bb95-9b60-3fdc30615ab5
+ms.date: 06/08/2017
 ---
 
 

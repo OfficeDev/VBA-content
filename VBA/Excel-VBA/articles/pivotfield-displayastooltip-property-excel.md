@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotField.DisplayAsTooltip
 ms.assetid: 48e18a23-8e8c-828f-2522-71910dc54e2c
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjCalendarType
 ms.assetid: c95af1e5-ec5d-230e-ea1c-572a70881985
+ms.date: 06/08/2017
 ---
 
 

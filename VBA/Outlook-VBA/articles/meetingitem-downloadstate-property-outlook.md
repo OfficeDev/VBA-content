@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.DownloadState
 ms.assetid: bd5afbb2-570f-6d0c-5108-20119839f43e
+ms.date: 06/08/2017
 ---
 
 

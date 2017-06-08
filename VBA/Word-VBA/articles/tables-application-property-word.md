@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Tables.Application
 ms.assetid: 416ba31b-c25d-072e-b9cb-7e01edebb56f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.HomeFaxNumber
 ms.assetid: ee7c8d16-4cdf-8b98-dc76-b7d9d8f64f07
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rectangle.Width
 ms.assetid: f745556b-fa79-c63a-256c-de2bc1f32084
+ms.date: 06/08/2017
 ---
 
 

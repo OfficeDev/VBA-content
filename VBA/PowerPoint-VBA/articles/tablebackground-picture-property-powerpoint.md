@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TableBackground.Picture
 ms.assetid: 2a7a6adb-8fec-fc26-6f57-afc631325404
+ms.date: 06/08/2017
 ---
 
 

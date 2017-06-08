@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.InheritedFormulaSource
 ms.assetid: 62aedef3-06b1-2fc3-5fd2-03f77668548f
+ms.date: 06/08/2017
 ---
 
 

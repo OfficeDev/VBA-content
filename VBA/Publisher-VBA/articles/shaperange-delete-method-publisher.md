@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Delete
 ms.assetid: fc9a7c2d-1bfc-d373-9d10-59df687b6fbf
+ms.date: 06/08/2017
 ---
 
 

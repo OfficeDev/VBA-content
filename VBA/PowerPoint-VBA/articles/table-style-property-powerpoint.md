@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Table.Style
 ms.assetid: 04a1e090-8d1e-95b8-2ea3-306db29be866
+ms.date: 06/08/2017
 ---
 
 

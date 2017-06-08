@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.Exit
 ms.assetid: a4a6a5bf-1cc4-a311-d4cb-51a132a99892
+ms.date: 06/08/2017
 ---
 
 

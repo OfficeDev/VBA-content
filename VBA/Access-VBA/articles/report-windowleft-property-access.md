@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.WindowLeft
 ms.assetid: 839ca3d7-4d53-c9e8-b47f-34f94eb5083f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.BevelBottomType
 ms.assetid: 75a2b14f-eb90-c671-7c44-0eae5bb026b7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DMax
 ms.assetid: d6d978f2-edad-f478-8c15-bc7aa5b575e0
+ms.date: 06/08/2017
 ---
 
 

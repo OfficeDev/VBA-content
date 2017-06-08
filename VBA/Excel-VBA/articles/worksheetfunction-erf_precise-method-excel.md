@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Erf_Precise
 ms.assetid: 1a34f60c-b5e9-f18f-2d0e-4ebe770edd59
+ms.date: 06/08/2017
 ---
 
 

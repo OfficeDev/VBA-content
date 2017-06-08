@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.Intersect
 ms.assetid: 5dc63a77-62de-3892-6ed2-bcb5cb0a29f1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.DrawBezier
 ms.assetid: d38b56a5-2366-e418-206f-db39bd8e2c82
+ms.date: 06/08/2017
 ---
 
 

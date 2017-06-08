@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.ReadingOrder
 ms.assetid: 6c441469-4bac-eb31-6c27-cec5de2f0f05
+ms.date: 06/08/2017
 ---
 
 

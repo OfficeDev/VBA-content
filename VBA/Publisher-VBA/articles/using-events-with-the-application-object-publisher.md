@@ -2,6 +2,7 @@
 title: Using Events with the Application Object (Publisher)
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 29b60d3c-3049-2ba9-8688-e46c4323e9ba
+ms.date: 06/08/2017
 ---
 
 

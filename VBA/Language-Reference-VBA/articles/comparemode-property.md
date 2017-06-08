@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CompareMode
 ms.assetid: 75893886-8bed-4685-b483-18b3d39569da
+ms.date: 06/08/2017
 ---
 
 

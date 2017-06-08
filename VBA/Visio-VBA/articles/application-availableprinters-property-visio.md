@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AvailablePrinters
 ms.assetid: bd070ee3-4f32-1ff0-427c-d61b7778e6c5
+ms.date: 06/08/2017
 ---
 
 

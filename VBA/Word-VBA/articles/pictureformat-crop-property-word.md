@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.Crop
 ms.assetid: 431cc1a8-dd05-d813-6ba6-a6a78ee2472b
+ms.date: 06/08/2017
 ---
 
 

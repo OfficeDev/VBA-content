@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.FormRegion.Detail
 ms.assetid: 0f8b0377-9019-061f-e5c7-e33e1b20285e
+ms.date: 06/08/2017
 ---
 
 

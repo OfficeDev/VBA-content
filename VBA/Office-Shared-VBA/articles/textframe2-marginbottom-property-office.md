@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextFrame2.MarginBottom
 ms.assetid: c8fadba2-4e9e-4d54-b2ba-7637024ba0d6
+ms.date: 06/08/2017
 ---
 
 

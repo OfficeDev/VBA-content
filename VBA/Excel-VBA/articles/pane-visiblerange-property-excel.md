@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Pane.VisibleRange
 ms.assetid: 03853894-ca83-1672-21bb-15099bab03d8
+ms.date: 06/08/2017
 ---
 
 

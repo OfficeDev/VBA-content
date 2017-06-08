@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.CanvasCropTop
 ms.assetid: 5d7cd546-4d47-d45a-9642-b2cd1e955480
+ms.date: 06/08/2017
 ---
 
 

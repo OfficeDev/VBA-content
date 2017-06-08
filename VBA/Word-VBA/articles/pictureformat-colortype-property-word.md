@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PictureFormat.ColorType
 ms.assetid: f4596bf7-4602-385d-61c0-0aed87aaf420
+ms.date: 06/08/2017
 ---
 
 

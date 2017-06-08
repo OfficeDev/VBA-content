@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ExchangeUser.MobileTelephoneNumber
 ms.assetid: 9c76ef68-1f85-d072-11d9-015fbbe1658e
+ms.date: 06/08/2017
 ---
 
 

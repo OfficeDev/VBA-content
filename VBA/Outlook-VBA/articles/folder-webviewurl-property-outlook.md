@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Folder.WebViewURL
 ms.assetid: 6a7630c2-5c16-f63f-a435-987c7c1251b8
+ms.date: 06/08/2017
 ---
 
 

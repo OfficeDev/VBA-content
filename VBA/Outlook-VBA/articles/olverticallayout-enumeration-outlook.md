@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlVerticalLayout
 ms.assetid: 4b94eee9-65a7-c2ad-323d-f321a6a716af
+ms.date: 06/08/2017
 ---
 
 

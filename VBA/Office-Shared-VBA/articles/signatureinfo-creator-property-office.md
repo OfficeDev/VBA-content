@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SignatureInfo.Creator
 ms.assetid: 57a91318-cdf5-edd0-a1df-5cfdde1e7293
+ms.date: 06/08/2017
 ---
 
 

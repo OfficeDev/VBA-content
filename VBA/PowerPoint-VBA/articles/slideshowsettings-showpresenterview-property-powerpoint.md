@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowSettings.ShowPresenterView
 ms.assetid: 62ec6a39-1e8d-f6e5-0769-64a175d4d611
+ms.date: 06/08/2017
 ---
 
 

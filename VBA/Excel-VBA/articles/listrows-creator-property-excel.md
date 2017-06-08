@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ListRows.Creator
 ms.assetid: ab0d80a3-5dd5-b007-f586-ea123049483f
+ms.date: 06/08/2017
 ---
 
 

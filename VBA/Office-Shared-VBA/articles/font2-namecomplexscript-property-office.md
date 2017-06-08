@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Font2.NameComplexScript
 ms.assetid: 8f5d513e-990c-1783-ea5b-d600a5a83170
+ms.date: 06/08/2017
 ---
 
 

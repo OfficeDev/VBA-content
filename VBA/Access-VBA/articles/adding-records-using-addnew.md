@@ -2,6 +2,7 @@
 title: Adding Records Using AddNew
 ms.prod: ACCESS
 ms.assetid: b37978c6-cb5c-d54d-d6d8-b088b6218c5b
+ms.date: 06/08/2017
 ---
 
 

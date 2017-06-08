@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTask.profile
 ms.assetid: 8ec14e6e-d3ac-ac08-67ba-4452d2e47a95
+ms.date: 06/08/2017
 ---
 
 

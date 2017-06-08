@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.IncrementContrast
 ms.assetid: cff50058-2b88-fc2d-633d-411380e5f2f3
+ms.date: 06/08/2017
 ---
 
 

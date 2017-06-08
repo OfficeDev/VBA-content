@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WorkbookAfterXmlExport
 ms.assetid: 9d542c67-4244-d018-4db6-3584f0caec7c
+ms.date: 06/08/2017
 ---
 
 

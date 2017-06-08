@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AxisTitle.Creator
 ms.assetid: fa6c326d-0058-d2a0-eecc-8dd419ad284f
+ms.date: 06/08/2017
 ---
 
 

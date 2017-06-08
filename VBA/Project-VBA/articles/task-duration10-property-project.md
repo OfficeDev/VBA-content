@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Duration10
 ms.assetid: 3595e16b-cdd9-7938-154c-5d8781aa1d11
+ms.date: 06/08/2017
 ---
 
 

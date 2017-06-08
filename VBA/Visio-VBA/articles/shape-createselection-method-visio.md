@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.CreateSelection
 ms.assetid: 205efec7-afa7-87e8-9c31-22395b283496
+ms.date: 06/08/2017
 ---
 
 

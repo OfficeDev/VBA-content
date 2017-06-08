@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TableStyleElement.Clear
 ms.assetid: 26781fe8-0832-e402-2cde-5f1c718b82e7
+ms.date: 06/08/2017
 ---
 
 

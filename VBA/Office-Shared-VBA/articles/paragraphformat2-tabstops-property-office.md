@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ParagraphFormat2.TabStops
 ms.assetid: 66d32bd6-bfca-83c2-65cb-bf8491aa0af4
+ms.date: 06/08/2017
 ---
 
 

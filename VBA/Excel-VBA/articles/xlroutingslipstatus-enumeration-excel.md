@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlRoutingSlipStatus
 ms.assetid: 0766d4d1-a6e0-0d14-10ad-203974890535
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.SharingItem.OriginatorDeliveryReportRequested
 ms.assetid: 7864b388-fa76-14cd-1f1c-f9f2958ec1bb
+ms.date: 06/08/2017
 ---
 
 

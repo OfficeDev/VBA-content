@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XSLTransform.Creator
 ms.assetid: d70d64c9-72f6-a1cb-fa81-3a9478e7f468
+ms.date: 06/08/2017
 ---
 
 

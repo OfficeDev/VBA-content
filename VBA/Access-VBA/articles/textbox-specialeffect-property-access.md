@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.SpecialEffect
 ms.assetid: 9d34e61b-9ba9-02e0-4bd8-30da0a043a89
+ms.date: 06/08/2017
 ---
 
 

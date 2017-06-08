@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjDataCategories
 ms.assetid: 0d1d96b6-80be-028d-781c-47bc43148ea8
+ms.date: 06/08/2017
 ---
 
 

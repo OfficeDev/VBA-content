@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.TrackMoves
 ms.assetid: 6c94cd58-dd47-313c-c04f-f04fe6f86f02
+ms.date: 06/08/2017
 ---
 
 

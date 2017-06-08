@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.UpdateLinksAtOpen
 ms.assetid: 089777c6-0bad-1fa6-4ae6-b77499c1c5a8
+ms.date: 06/08/2017
 ---
 
 

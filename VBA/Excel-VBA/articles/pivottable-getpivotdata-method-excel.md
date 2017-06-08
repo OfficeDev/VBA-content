@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.GetPivotData
 ms.assetid: 2d4600dd-6ca4-569a-6f93-79f6dbd43a09
+ms.date: 06/08/2017
 ---
 
 

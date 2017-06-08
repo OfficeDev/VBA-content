@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SpellingOptions.ArabicModes
 ms.assetid: 0b4fb37e-e5f4-318b-27c1-a90adf39938e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ColumnBestFit
 ms.assetid: 51f96761-33ab-d2e3-7a1e-c8266bdaa7a1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.CountIfs
 ms.assetid: 399dcc8e-2523-8aa5-8112-b4cbc572d34e
+ms.date: 06/08/2017
 ---
 
 

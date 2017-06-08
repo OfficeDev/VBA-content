@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowSettings.StartingSlide
 ms.assetid: e7afc69c-0224-b22a-fc23-bb985e710c1a
+ms.date: 06/08/2017
 ---
 
 

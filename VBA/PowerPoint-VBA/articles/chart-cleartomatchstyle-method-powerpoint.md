@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Chart.ClearToMatchStyle
 ms.assetid: fa85b905-6415-3ce9-4517-0a8dcedfbf14
+ms.date: 06/08/2017
 ---
 
 

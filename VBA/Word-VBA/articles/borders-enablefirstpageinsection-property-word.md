@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.EnableFirstPageInSection
 ms.assetid: 89eae9eb-25ef-f068-1098-f00389b10a22
+ms.date: 06/08/2017
 ---
 
 

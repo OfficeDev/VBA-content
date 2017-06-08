@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomLabels.Parent
 ms.assetid: afee2b69-41d4-a771-016c-b220136ff4ce
+ms.date: 06/08/2017
 ---
 
 

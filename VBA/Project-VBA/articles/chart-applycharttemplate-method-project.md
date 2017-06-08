@@ -2,6 +2,7 @@
 title: Chart.ApplyChartTemplate Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: ed449d73-6cae-6d54-de97-617612cd9129
+ms.date: 06/08/2017
 ---
 
 

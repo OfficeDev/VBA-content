@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.RetentionExpirationDate
 ms.assetid: 8f251c3d-8ccc-1378-ad9c-87c6e0ee7d16
+ms.date: 06/08/2017
 ---
 
 

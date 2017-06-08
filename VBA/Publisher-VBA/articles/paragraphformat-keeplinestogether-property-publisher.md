@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.KeepLinesTogether
 ms.assetid: a0f3f2f0-d986-4928-3c4f-0665711a6876
+ms.date: 06/08/2017
 ---
 
 

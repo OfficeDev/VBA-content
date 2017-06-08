@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.FormatCondition.Delete
 ms.assetid: 651e6954-eac9-0095-9d52-30df4f6f23cd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MouseMove
 ms.assetid: 0bbb767d-c113-2a65-7ca1-a3f98f4a3cce
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.BeforeMove
 ms.assetid: 52a4445e-4d76-7b55-ce28-d972fba87a9b
+ms.date: 06/08/2017
 ---
 
 

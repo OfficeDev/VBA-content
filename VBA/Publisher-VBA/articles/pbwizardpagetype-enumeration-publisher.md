@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbWizardPageType
 ms.assetid: 8b34efb9-0091-e30f-9bb9-02310edccbb6
+ms.date: 06/08/2017
 ---
 
 

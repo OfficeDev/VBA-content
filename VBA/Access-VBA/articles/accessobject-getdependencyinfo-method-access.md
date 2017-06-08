@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AccessObject.GetDependencyInfo
 ms.assetid: 33feb9c9-abac-cbe4-acf9-989957f41b7a
+ms.date: 06/08/2017
 ---
 
 

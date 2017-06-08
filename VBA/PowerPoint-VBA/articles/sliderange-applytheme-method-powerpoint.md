@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideRange.ApplyTheme
 ms.assetid: 779ca8d3-e235-7f65-1a2f-b5233517da1f
+ms.date: 06/08/2017
 ---
 
 

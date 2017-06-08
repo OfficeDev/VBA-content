@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ScrollLock
 ms.assetid: 08459237-ff58-cd39-319f-60d7bb730487
+ms.date: 06/08/2017
 ---
 
 

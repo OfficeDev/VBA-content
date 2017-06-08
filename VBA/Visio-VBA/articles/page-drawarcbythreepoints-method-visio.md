@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.DrawArcByThreePoints
 ms.assetid: dfa20dfd-22f7-6d99-2649-d8401bf93a19
+ms.date: 06/08/2017
 ---
 
 

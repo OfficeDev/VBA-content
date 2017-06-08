@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Close
 ms.assetid: 77276903-9e9e-713a-5844-c4efd36a020d
+ms.date: 06/08/2017
 ---
 
 

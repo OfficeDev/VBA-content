@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.GridVisible
 ms.assetid: 77351c96-c796-5a58-51ed-552843172ec0
+ms.date: 06/08/2017
 ---
 
 

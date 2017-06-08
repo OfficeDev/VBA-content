@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.AutoFilter
 ms.assetid: 3e6960f7-8a8a-6300-d74b-4e009fbcfca2
+ms.date: 06/08/2017
 ---
 
 

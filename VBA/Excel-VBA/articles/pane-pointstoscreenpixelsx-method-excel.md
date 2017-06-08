@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Pane.PointsToScreenPixelsX
 ms.assetid: 38336ba4-0e2d-f8dc-29b1-184b7663f490
+ms.date: 06/08/2017
 ---
 
 

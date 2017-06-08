@@ -2,6 +2,7 @@
 title: Shape.Rotation Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: c05b3aaf-7a6b-c900-b648-efe1191ef713
+ms.date: 06/08/2017
 ---
 
 

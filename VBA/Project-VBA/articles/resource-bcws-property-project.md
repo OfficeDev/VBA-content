@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.BCWS
 ms.assetid: d435545b-4abc-e7cb-08d5-0b6874bbd2e5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.ErrorString
 ms.assetid: 7f00d151-9f92-a3b3-c95f-60c0600cf594
+ms.date: 06/08/2017
 ---
 
 

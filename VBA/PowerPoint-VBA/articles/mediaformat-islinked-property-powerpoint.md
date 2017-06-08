@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.IsLinked
 ms.assetid: a9e00099-a2b2-0fef-e926-20fdb06d9c30
+ms.date: 06/08/2017
 ---
 
 

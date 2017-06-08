@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ReminderMinutesBeforeStart
 ms.assetid: d83269fc-b706-d285-d8ec-23fed4952955
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.BoundObjectFrame.Properties
 ms.assetid: da3ab868-434c-f06c-04c9-9f8b4c183980
+ms.date: 06/08/2017
 ---
 
 

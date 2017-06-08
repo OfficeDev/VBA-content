@@ -2,6 +2,7 @@
 title: ListBox.TextAlign Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: b6c7232c-feef-d43b-ca4f-d8521ddd50ff
+ms.date: 06/08/2017
 ---
 
 

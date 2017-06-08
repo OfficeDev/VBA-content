@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.MouseMove
 ms.assetid: d0c797e7-7503-2a2f-04ef-d9315a0e8540
+ms.date: 06/08/2017
 ---
 
 

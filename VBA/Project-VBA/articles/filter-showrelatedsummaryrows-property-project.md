@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Filter.ShowRelatedSummaryRows
 ms.assetid: 04b40d2b-fd49-5728-7839-4731f985aca9
+ms.date: 06/08/2017
 ---
 
 

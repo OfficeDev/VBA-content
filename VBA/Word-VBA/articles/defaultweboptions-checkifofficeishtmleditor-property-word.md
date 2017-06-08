@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DefaultWebOptions.CheckIfOfficeIsHTMLEditor
 ms.assetid: 5475aaff-70df-cb52-7bf7-d58f8c27fffb
+ms.date: 06/08/2017
 ---
 
 

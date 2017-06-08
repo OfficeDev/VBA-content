@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shading.Parent
 ms.assetid: 1e4fc130-9f2c-161f-80c4-41dc7e047ed1
+ms.date: 06/08/2017
 ---
 
 

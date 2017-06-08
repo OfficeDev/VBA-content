@@ -2,6 +2,7 @@
 title: Viewer Properties (Visio Viewer)
 ms.prod: VISIO
 ms.assetid: 78e20d19-1f2b-4d12-8b72-bc36363be446
+ms.date: 06/08/2017
 ---
 
 

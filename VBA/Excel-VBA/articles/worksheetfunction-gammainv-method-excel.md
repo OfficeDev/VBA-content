@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.GammaInv
 ms.assetid: 7b0e95f4-dd58-50f2-89ec-22bfa932766f
+ms.date: 06/08/2017
 ---
 
 

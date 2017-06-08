@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DocumentCreated
 ms.assetid: 8d89a102-b89c-d462-fa16-1d296d3b2b51
+ms.date: 06/08/2017
 ---
 
 

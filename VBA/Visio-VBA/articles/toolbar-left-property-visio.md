@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Toolbar.Left
 ms.assetid: 2929fef2-0855-dae1-9c60-0208d1de4dee
+ms.date: 06/08/2017
 ---
 
 

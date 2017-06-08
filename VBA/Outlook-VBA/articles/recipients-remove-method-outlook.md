@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Recipients.Remove
 ms.assetid: f5357d32-4901-fb96-3555-f9ef4d5bf3b1
+ms.date: 06/08/2017
 ---
 
 

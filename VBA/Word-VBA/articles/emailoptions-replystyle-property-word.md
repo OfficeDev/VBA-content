@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.EmailOptions.ReplyStyle
 ms.assetid: adb778ca-8943-4f30-48d8-98336ea81ea7
+ms.date: 06/08/2017
 ---
 
 

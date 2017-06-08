@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Ceiling_Precise
 ms.assetid: 638b4577-fd80-bd94-9a31-84fe4f3ff9d0
+ms.date: 06/08/2017
 ---
 
 

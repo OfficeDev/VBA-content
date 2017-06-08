@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SheetViews.Item
 ms.assetid: 5a2c1646-8786-74d0-a421-93a3c59dc257
+ms.date: 06/08/2017
 ---
 
 

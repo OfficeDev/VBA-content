@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlPageBreakExtent
 ms.assetid: 8104219d-db04-6c66-dadb-7a095de8b19a
+ms.date: 06/08/2017
 ---
 
 

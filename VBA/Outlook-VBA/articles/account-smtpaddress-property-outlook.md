@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Account.SmtpAddress
 ms.assetid: 443beb7a-0ada-8e86-69d7-63880033abca
+ms.date: 06/08/2017
 ---
 
 

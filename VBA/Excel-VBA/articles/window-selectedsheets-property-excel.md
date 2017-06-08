@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.SelectedSheets
 ms.assetid: 3be18be3-895b-131b-7416-270536b84e23
+ms.date: 06/08/2017
 ---
 
 

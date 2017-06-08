@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Relocate
 ms.assetid: 2df77535-627f-d8ba-6ea2-15676b24221c
+ms.date: 06/08/2017
 ---
 
 

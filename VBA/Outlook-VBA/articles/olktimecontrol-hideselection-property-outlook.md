@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkTimeControl.HideSelection
 ms.assetid: c245d705-2d58-23e0-6685-8bf3cccf0ac9
+ms.date: 06/08/2017
 ---
 
 

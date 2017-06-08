@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.InSelection
 ms.assetid: 5ae30220-4d7a-1838-1edc-99b54689b6ab
+ms.date: 06/08/2017
 ---
 
 

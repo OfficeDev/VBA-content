@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Post
 ms.assetid: 1ff97561-ed82-fcf3-6615-ee7ed27814fe
+ms.date: 06/08/2017
 ---
 
 

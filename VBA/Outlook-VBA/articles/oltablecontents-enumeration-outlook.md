@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlTableContents
 ms.assetid: 45d7ba3e-64ef-450f-8c72-914499269192
+ms.date: 06/08/2017
 ---
 
 

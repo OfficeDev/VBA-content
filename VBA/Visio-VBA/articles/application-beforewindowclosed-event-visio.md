@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.BeforeWindowClosed
 ms.assetid: e062ffe4-8680-456c-4aea-3669e1cab20d
+ms.date: 06/08/2017
 ---
 
 

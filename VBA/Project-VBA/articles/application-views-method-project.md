@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.Views
 ms.assetid: 76f29c4c-1854-e136-2d72-d50fe786c26b
+ms.date: 06/08/2017
 ---
 
 

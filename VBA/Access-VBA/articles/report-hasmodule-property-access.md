@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Report.HasModule
 ms.assetid: a4f33211-aaa8-d082-feed-aea75bda8659
+ms.date: 06/08/2017
 ---
 
 

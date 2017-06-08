@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCheckBox.Alignment
 ms.assetid: b3254584-ea07-f3d7-afb8-0d331b6cba74
+ms.date: 06/08/2017
 ---
 
 

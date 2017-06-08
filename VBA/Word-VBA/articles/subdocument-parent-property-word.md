@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Subdocument.Parent
 ms.assetid: c8a5fdab-4452-dc56-ac47-fcef4cafd63c
+ms.date: 06/08/2017
 ---
 
 

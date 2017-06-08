@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Bookmarks
 ms.assetid: 4a8d133a-fe6f-50ac-4b71-5265a919f5f1
+ms.date: 06/08/2017
 ---
 
 

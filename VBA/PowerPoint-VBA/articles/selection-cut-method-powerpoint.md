@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Selection.Cut
 ms.assetid: 305103ad-f4d1-8173-e331-17750587d865
+ms.date: 06/08/2017
 ---
 
 

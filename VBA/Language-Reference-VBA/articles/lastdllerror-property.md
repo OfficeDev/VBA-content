@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.LastDLLError
 ms.assetid: ed946e1e-a60a-576f-c6b6-0bec91b3d21d
+ms.date: 06/08/2017
 ---
 
 

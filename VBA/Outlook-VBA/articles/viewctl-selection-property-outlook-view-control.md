@@ -2,6 +2,7 @@
 title: ViewCtl.Selection Property (Outlook View Control)
 ms.prod: OUTLOOK
 ms.assetid: 2f4549bb-a480-bcbb-0fde-90a50460aa92
+ms.date: 06/08/2017
 ---
 
 

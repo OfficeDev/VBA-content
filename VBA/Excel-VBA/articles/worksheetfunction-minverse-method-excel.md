@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.MInverse
 ms.assetid: ff41fb08-8c25-f84c-dbca-ecfe4687359e
+ms.date: 06/08/2017
 ---
 
 

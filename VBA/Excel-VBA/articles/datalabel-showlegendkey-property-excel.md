@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.DataLabel.ShowLegendKey
 ms.assetid: 0857f78c-1c96-1887-e55e-4997dc22afb0
+ms.date: 06/08/2017
 ---
 
 

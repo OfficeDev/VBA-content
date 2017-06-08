@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.NewRecord
 ms.assetid: 9e30b019-1c1d-31eb-cc8d-cab030861ddc
+ms.date: 06/08/2017
 ---
 
 

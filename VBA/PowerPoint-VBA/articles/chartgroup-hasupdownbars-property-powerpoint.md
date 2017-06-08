@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.HasUpDownBars
 ms.assetid: fbc2efef-d3dd-cd26-fe90-3888425b7401
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ContentControlListEntries.Add
 ms.assetid: 159747c0-279c-f0ee-62d9-f2f01865c083
+ms.date: 06/08/2017
 ---
 
 

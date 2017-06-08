@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorScale.ModifyAppliesToRange
 ms.assetid: afa0d0c4-abda-1f16-6b52-a4d330e62dbe
+ms.date: 06/08/2017
 ---
 
 

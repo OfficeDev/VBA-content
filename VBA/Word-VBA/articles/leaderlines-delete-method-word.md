@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LeaderLines.Delete
 ms.assetid: 95dbcef7-0eb1-f15e-42da-8ea400330138
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CacheSettings
 ms.assetid: 48b25030-cbb7-2fec-8025-01b8a96bf6eb
+ms.date: 06/08/2017
 ---
 
 

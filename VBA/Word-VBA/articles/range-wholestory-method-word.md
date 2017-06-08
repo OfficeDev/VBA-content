@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.WholeStory
 ms.assetid: bb55c363-b3c0-e1aa-5e25-74cf2a1954c8
+ms.date: 06/08/2017
 ---
 
 

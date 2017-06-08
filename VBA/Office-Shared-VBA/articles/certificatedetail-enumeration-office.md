@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CertificateDetail
 ms.assetid: a9e0d03a-9ab9-375f-4f2d-a0c3ebcfbdc6
+ms.date: 06/08/2017
 ---
 
 

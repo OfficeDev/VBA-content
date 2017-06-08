@@ -2,6 +2,7 @@
 title: ComboBox.BackColor Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: a417035a-8164-9cde-a1b4-40f481938000
+ms.date: 06/08/2017
 ---
 
 

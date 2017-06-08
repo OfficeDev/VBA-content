@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.PaletteSource
 ms.assetid: 91276931-0aa6-7e54-09eb-1747f036aa7c
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Font.Bold Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: b1b11748-53e7-0bcd-5c5e-3ad4d4b232b0
+ms.date: 06/08/2017
 ---
 
 

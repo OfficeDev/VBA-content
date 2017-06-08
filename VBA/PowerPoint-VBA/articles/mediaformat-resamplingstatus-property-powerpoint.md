@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.ResamplingStatus
 ms.assetid: 2a53f58e-3533-e93e-2aa1-9c6250f9c336
+ms.date: 06/08/2017
 ---
 
 

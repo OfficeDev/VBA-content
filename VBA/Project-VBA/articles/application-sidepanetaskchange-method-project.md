@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SidepaneTaskChange
 ms.assetid: 277a9242-b098-8f69-44b8-668175867b42
+ms.date: 06/08/2017
 ---
 
 

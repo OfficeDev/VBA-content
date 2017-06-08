@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.HighlightChangesOptions
 ms.assetid: ac69ee3e-c5ea-5ac0-418a-0b94d56a8777
+ms.date: 06/08/2017
 ---
 
 

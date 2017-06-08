@@ -2,6 +2,7 @@
 title: Shape.Width Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: ddf3de99-8667-3d12-10dc-5d355542ae3e
+ms.date: 06/08/2017
 ---
 
 

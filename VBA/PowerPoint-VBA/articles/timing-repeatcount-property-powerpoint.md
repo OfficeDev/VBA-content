@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.RepeatCount
 ms.assetid: 71d31607-6006-f2c0-cfa3-3711791331bc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.PictureFormat
 ms.assetid: b7d8ec5c-b0b3-3628-475d-16939c467ad6
+ms.date: 06/08/2017
 ---
 
 

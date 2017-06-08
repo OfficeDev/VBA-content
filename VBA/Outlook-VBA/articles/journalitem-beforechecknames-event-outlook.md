@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalItem.BeforeCheckNames
 ms.assetid: b26250e1-5edc-b79e-5e80-eff3d0ca8d57
+ms.date: 06/08/2017
 ---
 
 

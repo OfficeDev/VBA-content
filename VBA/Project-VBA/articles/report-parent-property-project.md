@@ -2,6 +2,7 @@
 title: Report.Parent Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: d72508cc-927f-9f2b-207b-9b4d8b6eebfc
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.GrammarChecked
 ms.assetid: f10af296-28f0-dd4b-fdab-70bad8d3e924
+ms.date: 06/08/2017
 ---
 
 

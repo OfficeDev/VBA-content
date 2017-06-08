@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Walls.Creator
 ms.assetid: 450b34ce-e4cf-6f83-4220-17f47630fd18
+ms.date: 06/08/2017
 ---
 
 

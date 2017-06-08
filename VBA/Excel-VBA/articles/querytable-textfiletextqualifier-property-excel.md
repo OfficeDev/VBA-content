@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileTextQualifier
 ms.assetid: a8e6e8cd-4625-1538-b3cd-bf46395943f3
+ms.date: 06/08/2017
 ---
 
 

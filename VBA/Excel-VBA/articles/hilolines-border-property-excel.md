@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.HiLoLines.Border
 ms.assetid: debd41a7-b43d-a6d6-e843-fb6f8cf57a72
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DocumentWindow.Close
 ms.assetid: c7ba0097-5fa3-b0d0-234b-3cfe3e493522
+ms.date: 06/08/2017
 ---
 
 

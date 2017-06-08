@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkSenderPhoto.DoubleClick
 ms.assetid: 4ed4eaf2-743b-ffc3-c723-3c628b04b0b1
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Placeholders.Application
 ms.assetid: 32e34636-ee45-f8bb-4ab2-84fc1d418f7e
+ms.date: 06/08/2017
 ---
 
 

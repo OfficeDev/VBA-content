@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FormatCondition.Priority
 ms.assetid: 27d0a82a-b69b-de94-ff90-dbd3bd5a02fa
+ms.date: 06/08/2017
 ---
 
 

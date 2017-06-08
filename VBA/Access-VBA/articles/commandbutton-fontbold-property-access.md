@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.FontBold
 ms.assetid: 6a736a00-6305-74cd-47b9-aa29b8a76d62
+ms.date: 06/08/2017
 ---
 
 

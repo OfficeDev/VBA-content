@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.PasswordEncryptionProvider
 ms.assetid: 055d4972-a835-f3fb-24df-9f275374ea6e
+ms.date: 06/08/2017
 ---
 
 

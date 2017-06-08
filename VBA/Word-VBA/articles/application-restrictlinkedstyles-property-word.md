@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.RestrictLinkedStyles
 ms.assetid: 0d2033bc-9cf4-1f57-a9c7-56eaf0a55257
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.MsoTextOrientation
 ms.assetid: 7e8d0e06-14dd-3ea1-a2e4-50375919517f
+ms.date: 06/08/2017
 ---
 
 

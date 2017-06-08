@@ -2,6 +2,7 @@
 title: Find a Record in a Table-Type DAO Recordset
 ms.prod: ACCESS
 ms.assetid: b17f14db-9b3e-7f12-9fc8-f56c6dcbad09
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.SparklineGroups.ClearGroups
 ms.assetid: 871998c2-d75f-2be2-98c8-cf258bbb9a85
+ms.date: 06/08/2017
 ---
 
 

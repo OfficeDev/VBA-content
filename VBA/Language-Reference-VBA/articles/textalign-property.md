@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextAlign
 ms.assetid: 31904bca-6238-6807-fdbd-463cbc82b8ed
+ms.date: 06/08/2017
 ---
 
 

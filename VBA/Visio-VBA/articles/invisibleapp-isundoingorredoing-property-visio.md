@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.IsUndoingOrRedoing
 ms.assetid: 2c13c2d7-0c22-c9f2-44e6-bb442acb2ca4
+ms.date: 06/08/2017
 ---
 
 

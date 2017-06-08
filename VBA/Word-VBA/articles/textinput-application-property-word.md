@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TextInput.Application
 ms.assetid: 3a764be1-78a6-5080-a0f7-e3de613888fd
+ms.date: 06/08/2017
 ---
 
 

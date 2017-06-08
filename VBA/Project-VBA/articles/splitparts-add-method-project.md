@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.SplitParts.Add
 ms.assetid: 91f6a47e-fdd9-b826-8b2c-776406c2f276
+ms.date: 06/08/2017
 ---
 
 

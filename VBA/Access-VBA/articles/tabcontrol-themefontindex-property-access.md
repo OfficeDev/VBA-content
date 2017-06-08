@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.ThemeFontIndex
 ms.assetid: b3de7b94-dd76-82ee-dfe5-7c2b7e956a34
+ms.date: 06/08/2017
 ---
 
 

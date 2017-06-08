@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdHeadingSeparator
 ms.assetid: 44bf82de-7cc1-c028-e0be-8b622661c864
+ms.date: 06/08/2017
 ---
 
 

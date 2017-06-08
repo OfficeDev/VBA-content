@@ -2,6 +2,7 @@
 title: Label.MousePointer Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: edcc6a2c-53ca-887e-6d21-6f7f61993a22
+ms.date: 06/08/2017
 ---
 
 

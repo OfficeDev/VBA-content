@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ShowRulers
 ms.assetid: 857dc23b-3687-2b52-db6e-358d32a422fa
+ms.date: 06/08/2017
 ---
 
 

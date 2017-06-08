@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Conflicts
 ms.assetid: 908b36ff-a87a-255c-2b5d-e47dd6489bf7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.WindowDeactivate
 ms.assetid: 89bf2c09-a1a8-ed7f-74d5-49f8f7c027a7
+ms.date: 06/08/2017
 ---
 
 

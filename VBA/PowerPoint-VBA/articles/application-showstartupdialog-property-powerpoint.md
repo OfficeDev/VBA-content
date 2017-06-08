@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Application.ShowStartupDialog
 ms.assetid: acbd2597-c835-e285-e52c-5c86349d3199
+ms.date: 06/08/2017
 ---
 
 

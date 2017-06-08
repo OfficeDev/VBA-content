@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TimescaleNonWorkingEx
 ms.assetid: 50c1b96a-a91c-d538-07b7-44b048c8052b
+ms.date: 06/08/2017
 ---
 
 

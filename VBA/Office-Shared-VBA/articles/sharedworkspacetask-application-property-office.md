@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceTask.Application
 ms.assetid: 079e2584-dfc6-4a89-0507-168b12709bc7
+ms.date: 06/08/2017
 ---
 
 

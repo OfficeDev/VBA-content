@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ContainerProperties.RotateFlipList
 ms.assetid: 0402f4e3-e494-b915-e6c3-a09a7fc12845
+ms.date: 06/08/2017
 ---
 
 

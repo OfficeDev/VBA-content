@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.WeekNum
 ms.assetid: 9a99ad5a-76ba-da98-34d9-b5ee09647b10
+ms.date: 06/08/2017
 ---
 
 

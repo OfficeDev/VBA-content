@@ -2,6 +2,7 @@
 title: Seek Function
 ms.prod: MULTIPLEPRODUCTS
 ms.assetid: 870aba03-b7ad-c931-928d-33aaf9cf5ab6
+ms.date: 06/08/2017
 ---
 
 

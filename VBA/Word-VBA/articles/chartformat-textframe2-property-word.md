@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartFormat.TextFrame2
 ms.assetid: 5fec4ae4-e059-2c2f-3689-c97c4e083c4d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.GlowFormat.Creator
 ms.assetid: 37204a1d-2ac6-75fe-d843-1e91826e7ac1
+ms.date: 06/08/2017
 ---
 
 

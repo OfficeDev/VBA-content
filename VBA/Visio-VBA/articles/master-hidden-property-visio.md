@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Master.Hidden
 ms.assetid: d28eb888-75d7-bbd2-e6d3-3e412cca85d4
+ms.date: 06/08/2017
 ---
 
 

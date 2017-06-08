@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DefaultWorkUnits
 ms.assetid: e44985b3-b6b9-88cc-1ded-a5269b44d127
+ms.date: 06/08/2017
 ---
 
 

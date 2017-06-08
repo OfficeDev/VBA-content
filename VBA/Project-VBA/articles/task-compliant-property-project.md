@@ -1,6 +1,7 @@
 ---
 title: Task.Compliant Property (Project)
 ms.assetid: d2e43c4a-a7c6-c179-70f3-c67b813be3b8
+ms.date: 06/08/2017
 ---
 
 

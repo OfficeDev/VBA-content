@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Addon
 ms.assetid: a807d1a2-22d4-de92-8b3a-b52380490a97
+ms.date: 06/08/2017
 ---
 
 

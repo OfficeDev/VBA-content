@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMerge.Destination
 ms.assetid: 05c6ac16-afd9-f611-abc4-d115ad01bce3
+ms.date: 06/08/2017
 ---
 
 

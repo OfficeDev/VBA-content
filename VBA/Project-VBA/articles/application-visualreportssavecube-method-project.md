@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.VisualReportsSaveCube
 ms.assetid: 51b65e15-7ab5-79ff-9513-c47b204c1751
+ms.date: 06/08/2017
 ---
 
 

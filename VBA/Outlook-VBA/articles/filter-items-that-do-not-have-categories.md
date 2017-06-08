@@ -2,6 +2,7 @@
 title: Filter Items that Do Not Have Categories
 ms.prod: OUTLOOK
 ms.assetid: d351052d-6cc5-85ac-9791-c7b8ccfc5282
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBar.FindControl
 ms.assetid: d5ff45de-a356-0dab-4233-88326d08535a
+ms.date: 06/08/2017
 ---
 
 

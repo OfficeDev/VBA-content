@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.StyleSheets.Count
 ms.assetid: d5a5f679-2e78-8b88-2650-72c381018075
+ms.date: 06/08/2017
 ---
 
 

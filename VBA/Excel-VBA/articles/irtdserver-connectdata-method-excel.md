@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.IRtdServer.ConnectData
 ms.assetid: 2d660ccc-fca7-c794-61f1-4e0578cc7511
+ms.date: 06/08/2017
 ---
 
 

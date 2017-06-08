@@ -1,6 +1,7 @@
 ---
 title: MsoSearchIn Enumeration (Office)
 ms.assetid: 7e69a44e-bebb-1436-3077-7273c1b58157
+ms.date: 06/08/2017
 ---
 
 

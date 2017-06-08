@@ -2,6 +2,7 @@
 title: Pages.Add Method (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: be7bc499-8e25-440c-0ad9-2a6416ad8cea
+ms.date: 06/08/2017
 ---
 
 

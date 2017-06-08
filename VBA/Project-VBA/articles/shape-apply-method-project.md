@@ -2,6 +2,7 @@
 title: Shape.Apply Method (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 8d7a29f0-6a69-f643-6726-0c85247fb957
+ms.date: 06/08/2017
 ---
 
 

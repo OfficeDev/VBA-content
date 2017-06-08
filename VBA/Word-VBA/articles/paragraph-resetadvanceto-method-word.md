@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraph.ResetAdvanceTo
 ms.assetid: 5e4b017e-4041-dc20-346b-975ff133cf5d
+ms.date: 06/08/2017
 ---
 
 

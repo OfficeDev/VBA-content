@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Bibliography.BibliographyStyle
 ms.assetid: d064147f-4aaa-647b-4209-ee9ccc355599
+ms.date: 06/08/2017
 ---
 
 

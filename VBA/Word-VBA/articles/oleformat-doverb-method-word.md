@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OLEFormat.DoVerb
 ms.assetid: 9ef89849-e072-24a0-3d43-fa743154b1a2
+ms.date: 06/08/2017
 ---
 
 

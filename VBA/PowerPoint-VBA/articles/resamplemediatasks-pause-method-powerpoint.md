@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ResampleMediaTasks.Pause
 ms.assetid: 2d4c52fb-5b4a-f867-6789-cadda6d4f4a4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Cell.CellTextOrientation
 ms.assetid: ad2c2f15-358c-7bbc-b249-b886a99ea4a5
+ms.date: 06/08/2017
 ---
 
 

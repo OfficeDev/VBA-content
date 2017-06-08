@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlPermissionService
 ms.assetid: df5e5041-7303-e042-0821-a73c11d68db7
+ms.date: 06/08/2017
 ---
 
 

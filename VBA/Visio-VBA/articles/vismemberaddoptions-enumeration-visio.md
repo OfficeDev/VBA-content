@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisMemberAddOptions
 ms.assetid: e6833a87-2d08-19a4-c2f9-86803ca4e4ba
+ms.date: 06/08/2017
 ---
 
 

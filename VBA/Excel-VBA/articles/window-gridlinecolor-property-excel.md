@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Window.GridlineColor
 ms.assetid: d2d35a5c-cc5c-4547-a22d-78fe2ef11073
+ms.date: 06/08/2017
 ---
 
 

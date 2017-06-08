@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.ShapeAdded
 ms.assetid: bc66eadc-21bc-7f17-6878-fddd9aaff855
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TableView.MultiLineWidth
 ms.assetid: 4b2a7d06-f6f7-fa9f-8957-bdc451e248e7
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MediaFormat.SampleHeight
 ms.assetid: 548730ac-2df2-976b-ae79-2b930e4f0e69
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.MsoAnimType
 ms.assetid: be1ca705-045f-1585-774d-958f8f27bd01
+ms.date: 06/08/2017
 ---
 
 

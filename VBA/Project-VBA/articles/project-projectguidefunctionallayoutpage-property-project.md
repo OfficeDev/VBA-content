@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.ProjectGuideFunctionalLayoutPage
 ms.assetid: 87a9e383-6b91-669e-86e4-e55b7030b861
+ms.date: 06/08/2017
 ---
 
 

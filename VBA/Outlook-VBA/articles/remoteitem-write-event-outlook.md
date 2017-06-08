@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RemoteItem.Write
 ms.assetid: a38eef6b-23da-ba10-ad94-cc63e2bf60c2
+ms.date: 06/08/2017
 ---
 
 

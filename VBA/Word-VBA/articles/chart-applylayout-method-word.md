@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.ApplyLayout
 ms.assetid: f23d8a12-65d5-3336-4381-76bfc4b73507
+ms.date: 06/08/2017
 ---
 
 

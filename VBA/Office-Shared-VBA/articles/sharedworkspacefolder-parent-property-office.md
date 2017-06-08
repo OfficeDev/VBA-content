@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SharedWorkspaceFolder.Parent
 ms.assetid: bdebe4de-c521-eae9-46e6-7c06dfe60581
+ms.date: 06/08/2017
 ---
 
 

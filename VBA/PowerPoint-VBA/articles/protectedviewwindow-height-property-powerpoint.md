@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ProtectedViewWindow.Height
 ms.assetid: 2d45902b-e054-ec75-9815-987a1689a6a7
+ms.date: 06/08/2017
 ---
 
 

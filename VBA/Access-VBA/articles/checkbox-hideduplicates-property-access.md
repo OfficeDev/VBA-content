@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.HideDuplicates
 ms.assetid: 60f024b3-113f-4509-6556-cc51ad656c85
+ms.date: 06/08/2017
 ---
 
 

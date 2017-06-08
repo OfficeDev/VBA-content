@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Series.Copy
 ms.assetid: 66b30c88-5748-78a5-012c-5f06ff45042f
+ms.date: 06/08/2017
 ---
 
 

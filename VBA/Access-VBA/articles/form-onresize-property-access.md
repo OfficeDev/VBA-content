@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.OnResize
 ms.assetid: 84e6df44-53d2-19c9-e8c5-47681649c7e8
+ms.date: 06/08/2017
 ---
 
 

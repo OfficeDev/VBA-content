@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMath.NestingLevel
 ms.assetid: 14bbd881-26e7-e99a-92b8-8e246028f26c
+ms.date: 06/08/2017
 ---
 
 

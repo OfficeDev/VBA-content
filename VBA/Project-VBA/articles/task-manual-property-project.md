@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Manual
 ms.assetid: 38ee961a-5557-7ecd-e453-adbe51d116be
+ms.date: 06/08/2017
 ---
 
 

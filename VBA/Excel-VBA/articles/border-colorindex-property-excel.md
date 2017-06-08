@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Border.ColorIndex
 ms.assetid: 35e2dbbf-fd35-a08c-a969-bd08d0544d97
+ms.date: 06/08/2017
 ---
 
 

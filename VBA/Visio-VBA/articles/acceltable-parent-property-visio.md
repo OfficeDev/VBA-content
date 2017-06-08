@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.AccelTable.Parent
 ms.assetid: 45254ae1-86b2-5b5b-e371-7d05a7b00fac
+ms.date: 06/08/2017
 ---
 
 

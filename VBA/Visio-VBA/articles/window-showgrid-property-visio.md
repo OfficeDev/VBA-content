@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Window.ShowGrid
 ms.assetid: 288e1b14-5ad5-da14-8f5b-747212093247
+ms.date: 06/08/2017
 ---
 
 

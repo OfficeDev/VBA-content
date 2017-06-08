@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.OLEObject.Object
 ms.assetid: 802c5651-96d0-511b-a403-7e43019bb051
+ms.date: 06/08/2017
 ---
 
 

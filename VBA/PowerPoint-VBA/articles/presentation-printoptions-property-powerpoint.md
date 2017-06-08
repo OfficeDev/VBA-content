@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Presentation.PrintOptions
 ms.assetid: 3620e0bb-1dcc-9979-d815-c3f34205aaaf
+ms.date: 06/08/2017
 ---
 
 

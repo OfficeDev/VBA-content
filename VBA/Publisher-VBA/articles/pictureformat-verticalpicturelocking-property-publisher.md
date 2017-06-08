@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.VerticalPictureLocking
 ms.assetid: 0575d733-b515-2256-7136-6ec07532ab67
+ms.date: 06/08/2017
 ---
 
 

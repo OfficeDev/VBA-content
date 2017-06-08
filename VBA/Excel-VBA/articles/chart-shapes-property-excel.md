@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Shapes
 ms.assetid: 73f72671-ac6a-bc11-44cc-a748171d7777
+ms.date: 06/08/2017
 ---
 
 

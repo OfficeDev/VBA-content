@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Table.TableDirection
 ms.assetid: 3062731b-a334-927d-3871-f845cfb662ac
+ms.date: 06/08/2017
 ---
 
 

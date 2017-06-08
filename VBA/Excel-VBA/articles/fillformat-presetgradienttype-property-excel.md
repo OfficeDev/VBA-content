@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.FillFormat.PresetGradientType
 ms.assetid: e9cb1ba6-9c40-3fef-7014-68069be4da1f
+ms.date: 06/08/2017
 ---
 
 

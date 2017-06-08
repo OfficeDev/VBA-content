@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FillFormat.TwoColorGradient
 ms.assetid: 38a8a57c-0f5f-e54a-999e-87e0977196b8
+ms.date: 06/08/2017
 ---
 
 

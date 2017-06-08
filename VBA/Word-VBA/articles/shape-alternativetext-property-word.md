@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Shape.AlternativeText
 ms.assetid: b591896a-9d6f-5b17-57ad-ef53d2f55196
+ms.date: 06/08/2017
 ---
 
 

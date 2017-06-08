@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Sort.MatchCase
 ms.assetid: f0999562-b18a-8a8c-2cd8-8802f905f2e0
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: WeekDays Object (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 757437a0-e2ff-0027-f044-87d1cb357f62
+ms.date: 06/08/2017
 ---
 
 

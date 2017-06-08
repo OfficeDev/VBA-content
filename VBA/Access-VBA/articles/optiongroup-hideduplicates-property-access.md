@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.HideDuplicates
 ms.assetid: d9b17b9f-1eef-eda2-674b-cc7c7b1b5c5a
+ms.date: 06/08/2017
 ---
 
 

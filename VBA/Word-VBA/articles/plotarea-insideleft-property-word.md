@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.PlotArea.InsideLeft
 ms.assetid: 30cd15c4-6d97-4742-3ff8-cf8d820bc070
+ms.date: 06/08/2017
 ---
 
 

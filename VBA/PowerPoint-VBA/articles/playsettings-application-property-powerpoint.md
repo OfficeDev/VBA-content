@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PlaySettings.Application
 ms.assetid: 740e7607-d3a0-b9f6-e13d-9ba3319ecceb
+ms.date: 06/08/2017
 ---
 
 

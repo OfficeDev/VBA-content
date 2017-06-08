@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.PasteSpecial
 ms.assetid: 0e3a1006-1664-3b60-5d75-d7d4f77d364d
+ms.date: 06/08/2017
 ---
 
 

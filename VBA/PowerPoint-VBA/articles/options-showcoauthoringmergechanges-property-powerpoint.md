@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Options.ShowCoauthoringMergeChanges
 ms.assetid: a5b6c2a0-93c9-629b-be50-e1bb99626006
+ms.date: 06/08/2017
 ---
 
 

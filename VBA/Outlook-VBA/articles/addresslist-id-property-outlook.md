@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressList.ID
 ms.assetid: c0c6953f-5d99-a18a-a64f-b9446f38e774
+ms.date: 06/08/2017
 ---
 
 

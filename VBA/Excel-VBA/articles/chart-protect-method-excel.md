@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Chart.Protect
 ms.assetid: 5f46d721-021b-d615-12c6-78aab49df500
+ms.date: 06/08/2017
 ---
 
 

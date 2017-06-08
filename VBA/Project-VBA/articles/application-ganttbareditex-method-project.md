@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.GanttBarEditEx
 ms.assetid: b574b975-a869-31ba-e525-df8775330b0a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Borders.InsideLineWidth
 ms.assetid: 7feabfc0-cb32-8b56-5f23-3db9c9dadc89
+ms.date: 06/08/2017
 ---
 
 

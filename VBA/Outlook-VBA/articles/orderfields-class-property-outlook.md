@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OrderFields.Class
 ms.assetid: 7b0bf2f9-290d-98b9-fa76-df6b29484146
+ms.date: 06/08/2017
 ---
 
 

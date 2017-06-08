@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slide.PublishSlides
 ms.assetid: 76f7bd2a-f48c-33e5-52dc-ae9757a880db
+ms.date: 06/08/2017
 ---
 
 

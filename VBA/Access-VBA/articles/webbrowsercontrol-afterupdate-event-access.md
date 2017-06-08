@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.AfterUpdate
 ms.assetid: 902cd078-1f4b-d35a-4136-bc43914b8503
+ms.date: 06/08/2017
 ---
 
 

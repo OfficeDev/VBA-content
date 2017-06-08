@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.InsertObject
 ms.assetid: 74081ecf-59ee-44e8-6fc8-3ccc0915e110
+ms.date: 06/08/2017
 ---
 
 

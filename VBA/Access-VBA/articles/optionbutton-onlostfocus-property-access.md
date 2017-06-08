@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.OnLostFocus
 ms.assetid: e2579b6b-a499-ff37-8195-29cc1aad79db
+ms.date: 06/08/2017
 ---
 
 

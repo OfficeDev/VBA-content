@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NameSpace.GetFolderFromID
 ms.assetid: 0fb2d3b5-2967-1943-922a-7ec03e514e62
+ms.date: 06/08/2017
 ---
 
 

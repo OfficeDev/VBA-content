@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataTable.ShowLegendKey
 ms.assetid: 031af40c-a11f-1bfa-cf2e-cfa919300a60
+ms.date: 06/08/2017
 ---
 
 

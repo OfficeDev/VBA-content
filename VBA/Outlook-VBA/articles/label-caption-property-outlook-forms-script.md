@@ -2,6 +2,7 @@
 title: Label.Caption Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 7aa70cd0-8ea8-871d-421c-6558c25e7ace
+ms.date: 06/08/2017
 ---
 
 

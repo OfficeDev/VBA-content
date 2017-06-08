@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfFigures.IncludePageNumbers
 ms.assetid: cc363160-c1bd-b6a2-75e0-4c201db57ded
+ms.date: 06/08/2017
 ---
 
 

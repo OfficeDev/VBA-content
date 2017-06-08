@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.BorderShade
 ms.assetid: 5a5023af-4e30-48a8-9fd8-129049116270
+ms.date: 06/08/2017
 ---
 
 

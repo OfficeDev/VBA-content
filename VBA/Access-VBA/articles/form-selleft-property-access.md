@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.SelLeft
 ms.assetid: ddc05c0a-3132-5380-33c9-96fa2f92571d
+ms.date: 06/08/2017
 ---
 
 

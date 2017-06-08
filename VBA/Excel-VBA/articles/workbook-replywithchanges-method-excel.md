@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.ReplyWithChanges
 ms.assetid: 60424d69-0062-aa5e-ea8f-4fb07086167a
+ms.date: 06/08/2017
 ---
 
 

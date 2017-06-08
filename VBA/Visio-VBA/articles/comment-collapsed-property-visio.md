@@ -2,6 +2,7 @@
 title: Comment.Collapsed Property (Visio)
 ms.prod: VISIO
 ms.assetid: 9552e379-e351-78d7-e0ed-4f524c3273a1
+ms.date: 06/08/2017
 ---
 
 

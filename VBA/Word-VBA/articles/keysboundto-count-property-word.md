@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeysBoundTo.Count
 ms.assetid: 9ef4d2b4-6a9c-63a4-3c43-144d4269412c
+ms.date: 06/08/2017
 ---
 
 

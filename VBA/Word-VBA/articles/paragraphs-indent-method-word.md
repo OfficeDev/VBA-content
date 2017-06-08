@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Paragraphs.Indent
 ms.assetid: d6b4471a-5b51-45ce-5420-9e2c97ddfe45
+ms.date: 06/08/2017
 ---
 
 

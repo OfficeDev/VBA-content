@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.TextRange2.BoundWidth
 ms.assetid: a5668c93-0206-c26f-41bc-771c1ceef7e6
+ms.date: 06/08/2017
 ---
 
 

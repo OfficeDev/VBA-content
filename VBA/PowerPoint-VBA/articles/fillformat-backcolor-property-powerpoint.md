@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.BackColor
 ms.assetid: d78fa88b-578d-f469-f2e1-7564ebc91f8d
+ms.date: 06/08/2017
 ---
 
 

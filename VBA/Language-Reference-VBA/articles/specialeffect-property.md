@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SpecialEffect
 ms.assetid: db3fa148-42f3-fded-9ec4-6d46c963fdce
+ms.date: 06/08/2017
 ---
 
 

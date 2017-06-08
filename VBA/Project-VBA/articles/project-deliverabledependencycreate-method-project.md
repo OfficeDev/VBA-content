@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.DeliverableDependencyCreate
 ms.assetid: 31ce58fe-3a6a-6151-ebce-b2458728f384
+ms.date: 06/08/2017
 ---
 
 

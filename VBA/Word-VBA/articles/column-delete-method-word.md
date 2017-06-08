@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Column.Delete
 ms.assetid: 1e1e874c-3fbe-77c1-22fd-5cc27c12f9a7
+ms.date: 06/08/2017
 ---
 
 

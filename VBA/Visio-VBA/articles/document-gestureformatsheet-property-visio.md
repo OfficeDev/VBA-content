@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.GestureFormatSheet
 ms.assetid: 26d3c27f-31ff-198c-5b40-8dc8b30b6362
+ms.date: 06/08/2017
 ---
 
 

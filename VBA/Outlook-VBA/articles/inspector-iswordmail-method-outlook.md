@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Inspector.IsWordMail
 ms.assetid: f6c588f1-90b0-53e8-fd54-068a93a5f824
+ms.date: 06/08/2017
 ---
 
 

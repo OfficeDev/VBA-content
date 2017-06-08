@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.InsertResource
 ms.assetid: e3e62534-3a78-28a2-fb87-ed017b83f9fb
+ms.date: 06/08/2017
 ---
 
 

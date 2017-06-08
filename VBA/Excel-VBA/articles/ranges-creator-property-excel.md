@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Ranges.Creator
 ms.assetid: a44c830a-4164-6fa5-b316-399019ed77ab
+ms.date: 06/08/2017
 ---
 
 

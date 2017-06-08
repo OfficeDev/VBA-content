@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.ContextualSpeller
 ms.assetid: d75fc899-5b4e-b30c-661d-4fa2fad0ea38
+ms.date: 06/08/2017
 ---
 
 

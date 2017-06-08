@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.Delete
 ms.assetid: 05b46304-bc75-c10e-c150-a20688a9a106
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.PrintOut
 ms.assetid: 8052ae60-f7eb-e932-7ec4-176262727351
+ms.date: 06/08/2017
 ---
 
 

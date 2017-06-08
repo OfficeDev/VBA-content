@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ChartGroup.ShowNegativeBubbles
 ms.assetid: 0f197a05-0f3c-841f-e3f7-a27c2e8b6130
+ms.date: 06/08/2017
 ---
 
 

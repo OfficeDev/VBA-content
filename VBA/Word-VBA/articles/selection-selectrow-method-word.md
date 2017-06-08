@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.SelectRow
 ms.assetid: 0d821d49-2829-2469-4742-0355440e4775
+ms.date: 06/08/2017
 ---
 
 

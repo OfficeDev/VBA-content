@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Permission.StoreLicenses
 ms.assetid: c08e088c-8cdf-baa0-56e4-3d4d6f3caab8
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdLetterheadLocation
 ms.assetid: e8f68788-29b5-be9b-0217-647d3e794592
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Cell.Trigger
 ms.assetid: aea545d3-5e5d-2206-c0fe-c062bc4e6be8
+ms.date: 06/08/2017
 ---
 
 

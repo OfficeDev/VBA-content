@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TasksModule.Visible
 ms.assetid: d04827e6-7e12-7acd-24e0-b72c21082683
+ms.date: 06/08/2017
 ---
 
 

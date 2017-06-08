@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Replace
 ms.assetid: 12647334-f911-69e4-de31-b4df2722eff3
+ms.date: 06/08/2017
 ---
 
 

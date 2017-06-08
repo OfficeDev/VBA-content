@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Form.Orientation
 ms.assetid: 25a13b75-48b7-69bd-4d70-e9aa8a94652e
+ms.date: 06/08/2017
 ---
 
 

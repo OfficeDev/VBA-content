@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.KeepChangeHistory
 ms.assetid: 3dbc322e-2b93-ae3d-cb9e-64c657fc0f80
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Dictionary.Delete
 ms.assetid: 21f66079-9633-3070-1029-2732856f54a9
+ms.date: 06/08/2017
 ---
 
 

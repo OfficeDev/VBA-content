@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Floor
 ms.assetid: 74c71ca8-a0d4-f7cf-a002-5cec7a27b70d
+ms.date: 06/08/2017
 ---
 
 

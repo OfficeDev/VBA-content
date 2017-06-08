@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Workbook.PasswordEncryptionProvider
 ms.assetid: d5bcbbf2-8de9-6725-9cac-679d6c023b34
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NoteItem.Copy
 ms.assetid: 5d89217e-2595-64e2-a619-afb5a7120f8a
+ms.date: 06/08/2017
 ---
 
 

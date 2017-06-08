@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.Columns
 ms.assetid: 926f7d06-0ff7-bf4a-033e-6b310ef9f400
+ms.date: 06/08/2017
 ---
 
 

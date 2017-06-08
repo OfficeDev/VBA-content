@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Range.Speak
 ms.assetid: 12928814-9534-c9f0-e351-7d26f77869e0
+ms.date: 06/08/2017
 ---
 
 

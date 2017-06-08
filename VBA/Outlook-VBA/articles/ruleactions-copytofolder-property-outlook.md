@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.CopyToFolder
 ms.assetid: 6e5c0ea8-6287-2904-c8d8-b3c6b5f7cb24
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlOrientation
 ms.assetid: df963ba0-dc15-689a-4922-8b0b0ec6f147
+ms.date: 06/08/2017
 ---
 
 

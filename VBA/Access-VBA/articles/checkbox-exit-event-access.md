@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Exit
 ms.assetid: 5a805d97-8d63-1635-f41a-e18aa9437d59
+ms.date: 06/08/2017
 ---
 
 

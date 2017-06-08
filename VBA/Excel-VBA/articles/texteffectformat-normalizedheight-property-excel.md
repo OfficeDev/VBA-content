@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.TextEffectFormat.NormalizedHeight
 ms.assetid: 25c9c1ed-971d-3a9f-bb3c-5059f2dd80db
+ms.date: 06/08/2017
 ---
 
 

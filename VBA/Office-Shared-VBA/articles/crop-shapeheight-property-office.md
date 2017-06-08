@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.Crop.ShapeHeight
 ms.assetid: ccc352b8-2c1e-3116-6f50-a709760189fe
+ms.date: 06/08/2017
 ---
 
 

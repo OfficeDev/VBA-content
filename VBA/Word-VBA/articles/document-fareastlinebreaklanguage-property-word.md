@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FarEastLineBreakLanguage
 ms.assetid: cf868676-b880-46e9-a1b4-9cb341c63427
+ms.date: 06/08/2017
 ---
 
 

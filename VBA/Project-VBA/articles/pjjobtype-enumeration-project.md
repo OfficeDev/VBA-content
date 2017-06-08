@@ -2,6 +2,7 @@
 title: PjJobType Enumeration (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 61e64bfb-8cd8-7b76-9a5f-b7499953275f
+ms.date: 06/08/2017
 ---
 
 

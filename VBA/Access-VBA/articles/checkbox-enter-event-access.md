@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CheckBox.Enter
 ms.assetid: 512122ce-f438-46d6-4990-6fff469bc68e
+ms.date: 06/08/2017
 ---
 
 

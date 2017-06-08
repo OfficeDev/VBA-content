@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.HoverForeShade
 ms.assetid: cc98ba4b-1237-cfd7-fb44-983f0d56e512
+ms.date: 06/08/2017
 ---
 
 

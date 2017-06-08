@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WhatsThisButton
 ms.assetid: f9e24796-d4e0-1719-32b3-2119f20a6b5a
+ms.date: 06/08/2017
 ---
 
 

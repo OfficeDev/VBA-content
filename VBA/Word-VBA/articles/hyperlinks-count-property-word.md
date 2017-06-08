@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlinks.Count
 ms.assetid: 4e8b4b3e-3911-27d3-e836-b189eeb51617
+ms.date: 06/08/2017
 ---
 
 

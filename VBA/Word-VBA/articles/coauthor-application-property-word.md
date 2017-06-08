@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthor.Application
 ms.assetid: 355dac35-8c14-c83d-b673-1d5b0bf5a3f1
+ms.date: 06/08/2017
 ---
 
 

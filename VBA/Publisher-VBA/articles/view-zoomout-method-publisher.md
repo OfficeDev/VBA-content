@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.View.ZoomOut
 ms.assetid: 5066a532-03a9-9b2a-b254-a1388c35bc79
+ms.date: 06/08/2017
 ---
 
 

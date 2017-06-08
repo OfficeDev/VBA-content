@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Master.BackgroundStyle
 ms.assetid: 6bd0adb1-ac97-faa0-1260-3db1bb3b3984
+ms.date: 06/08/2017
 ---
 
 

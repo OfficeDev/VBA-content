@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.View.MediaControlsTop
 ms.assetid: 6a18056b-487a-afe2-9a2c-05dd440c87bc
+ms.date: 06/08/2017
 ---
 
 

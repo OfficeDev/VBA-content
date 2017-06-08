@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlChartPicturePlacement
 ms.assetid: 08ccabac-a8ea-b2fb-3bbe-3cc8b2535836
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ScratchArea.Application
 ms.assetid: b4923b93-cab4-76d9-0672-ec606b5b6b1a
+ms.date: 06/08/2017
 ---
 
 

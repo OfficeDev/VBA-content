@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XSLTransform.ID
 ms.assetid: 4fec8a2b-f422-1ec6-f3c1-c54cfefd981f
+ms.date: 06/08/2017
 ---
 
 

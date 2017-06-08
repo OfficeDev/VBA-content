@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.TaskMove
 ms.assetid: 7a847c59-b07c-6bf2-90a3-b62d0d080cc6
+ms.date: 06/08/2017
 ---
 
 

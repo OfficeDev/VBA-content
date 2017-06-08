@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestAcceptItem.AttachmentRemove
 ms.assetid: 5cb672ed-ce5a-4c41-1ce0-c86eec14f0c5
+ms.date: 06/08/2017
 ---
 
 

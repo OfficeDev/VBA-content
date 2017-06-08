@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.BackColor
 ms.assetid: 801d889c-0741-1de5-48ed-ea1db8f9a75b
+ms.date: 06/08/2017
 ---
 
 

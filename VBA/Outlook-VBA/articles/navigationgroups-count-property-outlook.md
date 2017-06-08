@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.NavigationGroups.Count
 ms.assetid: 6ce1885f-4269-0db6-5f99-00c8126fd52e
+ms.date: 06/08/2017
 ---
 
 

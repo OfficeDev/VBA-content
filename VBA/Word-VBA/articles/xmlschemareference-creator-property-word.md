@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.XMLSchemaReference.Creator
 ms.assetid: f2153a6e-0be9-2bf3-f2ba-3c21f99a7021
+ms.date: 06/08/2017
 ---
 
 

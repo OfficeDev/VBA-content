@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabels.Delete
 ms.assetid: 53ef4298-dbee-01f9-60c3-721e91302f1f
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.XlEndStyleCap
 ms.assetid: ad512f22-a2f5-9334-b724-ea1185394c20
+ms.date: 06/08/2017
 ---
 
 

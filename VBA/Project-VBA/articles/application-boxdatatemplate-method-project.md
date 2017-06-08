@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxDataTemplate
 ms.assetid: ce3530d5-6218-b0db-a890-9a80bca5e3db
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.BorderColor
 ms.assetid: d809fd7e-63a2-3142-c9ae-2572b1910d48
+ms.date: 06/08/2017
 ---
 
 

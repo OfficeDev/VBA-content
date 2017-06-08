@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.MouseMove
 ms.assetid: aad412fd-96ba-803d-848c-a8788fa1e0ae
+ms.date: 06/08/2017
 ---
 
 

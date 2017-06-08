@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Trendline.DataLabel
 ms.assetid: 8af73d2d-c5b3-d1ec-75a2-0a0a5562fb69
+ms.date: 06/08/2017
 ---
 
 

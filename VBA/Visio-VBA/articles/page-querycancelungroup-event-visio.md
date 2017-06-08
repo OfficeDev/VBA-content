@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Page.QueryCancelUngroup
 ms.assetid: ab03af54-dd9a-03ca-18ac-e76ca103035b
+ms.date: 06/08/2017
 ---
 
 

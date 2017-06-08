@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Pages.Add
 ms.assetid: 3c22aa15-c1dc-94c8-62d6-a1bc9635cd89
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.TransferText
 ms.assetid: e59f26dc-2df8-8d87-b73d-f3004eed0719
+ms.date: 06/08/2017
 ---
 
 

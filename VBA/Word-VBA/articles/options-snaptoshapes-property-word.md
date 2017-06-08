@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.SnapToShapes
 ms.assetid: 7433f9ec-d67b-eaaf-7ae5-129bf7aba7ff
+ms.date: 06/08/2017
 ---
 
 

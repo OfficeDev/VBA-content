@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.DeleteAllInkAnnotations
 ms.assetid: d8446194-f86c-cb48-00e0-82ac84f9bb88
+ms.date: 06/08/2017
 ---
 
 

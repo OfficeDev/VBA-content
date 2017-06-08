@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.OLEFormat
 ms.assetid: 36bffb6b-4c7b-85f9-87b3-d7d7c1aed134
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.SetFocus
 ms.assetid: f6719533-1958-05d4-5f9c-7b09cb33b1c8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MultiThreadedCalculation
 ms.assetid: 3f7bee4c-0ddd-b47f-5bea-b8e7507fae5a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ThreeDFormat.Depth
 ms.assetid: 45fbea95-7685-d244-19b8-ef4c4560a26f
+ms.date: 06/08/2017
 ---
 
 

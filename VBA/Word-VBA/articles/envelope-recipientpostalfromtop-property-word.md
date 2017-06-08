@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Envelope.RecipientPostalfromTop
 ms.assetid: bb0bbfee-6e17-61c0-a4ee-957022e4e63b
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.RemainingOvertimeCost
 ms.assetid: 5cef0a19-e87c-c177-0a17-4e6ca8bcf20b
+ms.date: 06/08/2017
 ---
 
 

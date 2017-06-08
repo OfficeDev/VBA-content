@@ -2,6 +2,7 @@
 title: Extending Forms and Form Regions Using Add-ins
 ms.prod: OUTLOOK
 ms.assetid: aa2da10f-9206-46ac-8b6e-5fe8751b4850
+ms.date: 06/08/2017
 ---
 
 

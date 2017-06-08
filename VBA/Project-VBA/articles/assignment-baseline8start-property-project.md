@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Assignment.Baseline8Start
 ms.assetid: 888fcd06-cd02-0743-8f85-1038abddf9a8
+ms.date: 06/08/2017
 ---
 
 

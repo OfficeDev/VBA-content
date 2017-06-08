@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Slides.Range
 ms.assetid: f3950ce5-7873-86e8-5625-7ad2a0cb77dd
+ms.date: 06/08/2017
 ---
 
 

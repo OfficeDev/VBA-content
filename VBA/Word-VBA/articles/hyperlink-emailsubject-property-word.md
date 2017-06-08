@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Hyperlink.EmailSubject
 ms.assetid: 8b019ae2-40da-b69c-8f0b-554724a770bd
+ms.date: 06/08/2017
 ---
 
 

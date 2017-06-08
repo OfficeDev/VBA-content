@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarButton.ShortcutText
 ms.assetid: e0c76e70-16db-d3ae-9767-069579c8ea91
+ms.date: 06/08/2017
 ---
 
 

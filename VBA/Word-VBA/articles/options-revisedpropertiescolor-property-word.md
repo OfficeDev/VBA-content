@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.RevisedPropertiesColor
 ms.assetid: 00b04099-0cb2-31e1-dc34-ad9203919f52
+ms.date: 06/08/2017
 ---
 
 

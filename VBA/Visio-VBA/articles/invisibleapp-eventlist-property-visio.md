@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.EventList
 ms.assetid: f75372d2-2707-9095-6f45-fa0be7eb40ea
+ms.date: 06/08/2017
 ---
 
 

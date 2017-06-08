@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Hyperlink.Follow
 ms.assetid: e415caa8-68b9-5c96-71f0-599655dc6cf3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.Paste
 ms.assetid: dd29c9ab-7f56-3604-3390-8f5a3b97821f
+ms.date: 06/08/2017
 ---
 
 

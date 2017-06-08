@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.RelyOnVML
 ms.assetid: 4c21c4df-64b4-05e0-d4b1-54caa861f5a4
+ms.date: 06/08/2017
 ---
 
 

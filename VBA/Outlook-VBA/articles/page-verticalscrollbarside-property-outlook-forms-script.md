@@ -2,6 +2,7 @@
 title: Page.VerticalScrollBarSide Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: a9a7a025-d09f-e2e8-f623-890d2ab20454
+ms.date: 06/08/2017
 ---
 
 

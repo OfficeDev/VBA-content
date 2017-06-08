@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HeadingStyle.Level
 ms.assetid: 6a322568-ebcb-4ee4-2123-a94b3f97bc1a
+ms.date: 06/08/2017
 ---
 
 

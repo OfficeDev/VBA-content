@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TabControl.GridlineWidthTop
 ms.assetid: 91a7da4b-bb93-94a3-57bb-a790bf9acc6f
+ms.date: 06/08/2017
 ---
 
 

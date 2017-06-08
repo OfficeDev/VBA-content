@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Project.AllowTaskDelegation
 ms.assetid: ff8501bf-28a0-c53b-36a6-a697f5e160b7
+ms.date: 06/08/2017
 ---
 
 

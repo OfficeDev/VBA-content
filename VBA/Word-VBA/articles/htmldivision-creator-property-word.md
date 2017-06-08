@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.HTMLDivision.Creator
 ms.assetid: e14fd8f7-bbb5-ad82-5ab9-a067f22006af
+ms.date: 06/08/2017
 ---
 
 

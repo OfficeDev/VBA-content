@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.DesignerWindow
 ms.assetid: 1a116dab-56ce-087e-1789-614a3709c9cc
+ms.date: 06/08/2017
 ---
 
 

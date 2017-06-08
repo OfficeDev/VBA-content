@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ChartObject.PrintObject
 ms.assetid: 504f4a82-6129-cb38-ea2f-f9b29e14d036
+ms.date: 06/08/2017
 ---
 
 

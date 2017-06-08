@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BackShade
 ms.assetid: 899c5320-a2ef-7861-2905-fc08f5b7a1fb
+ms.date: 06/08/2017
 ---
 
 

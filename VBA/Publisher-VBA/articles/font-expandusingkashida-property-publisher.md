@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.ExpandUsingKashida
 ms.assetid: ecf3a170-5f07-379e-ff56-504beb770308
+ms.date: 06/08/2017
 ---
 
 

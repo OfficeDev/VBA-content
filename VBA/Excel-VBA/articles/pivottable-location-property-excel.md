@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.Location
 ms.assetid: 53d90d66-cf29-299d-eb71-dcc0169051eb
+ms.date: 06/08/2017
 ---
 
 

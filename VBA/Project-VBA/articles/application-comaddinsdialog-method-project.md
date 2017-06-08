@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ComAddInsDialog
 ms.assetid: 06889c2c-2c3a-355d-34c9-ca1d3c31ed2b
+ms.date: 06/08/2017
 ---
 
 

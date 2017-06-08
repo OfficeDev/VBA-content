@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.ForeShade
 ms.assetid: c8ddc31f-83a3-c836-e1f7-2ffe5ea86d4a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.MailMessage.ReplyAll
 ms.assetid: cc7aa537-573f-f2b2-14a1-3443ed622f56
+ms.date: 06/08/2017
 ---
 
 

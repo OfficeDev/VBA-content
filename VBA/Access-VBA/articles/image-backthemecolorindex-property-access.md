@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Image.BackThemeColorIndex
 ms.assetid: 9b15a086-0ff4-3ffb-4828-c22486bfc8c5
+ms.date: 06/08/2017
 ---
 
 

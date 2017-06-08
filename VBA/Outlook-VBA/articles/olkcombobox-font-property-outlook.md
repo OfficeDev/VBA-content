@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkComboBox.Font
 ms.assetid: 61f0c361-be8d-9ccd-8163-62596aac855c
+ms.date: 06/08/2017
 ---
 
 

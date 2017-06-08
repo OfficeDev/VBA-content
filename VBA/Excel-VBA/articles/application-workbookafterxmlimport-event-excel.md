@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WorkbookAfterXmlImport
 ms.assetid: a58cc327-3776-fe5b-68d4-406269f30379
+ms.date: 06/08/2017
 ---
 
 

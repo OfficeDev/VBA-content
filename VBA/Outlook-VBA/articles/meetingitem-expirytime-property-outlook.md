@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MeetingItem.ExpiryTime
 ms.assetid: 14e78315-f430-20fe-b24e-fe8bf396bc3b
+ms.date: 06/08/2017
 ---
 
 

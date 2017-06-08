@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.FootnoteOptions.Creator
 ms.assetid: d63db4c6-481e-643f-0377-a33b564284bd
+ms.date: 06/08/2017
 ---
 
 

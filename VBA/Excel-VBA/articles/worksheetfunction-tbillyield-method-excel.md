@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.TBillYield
 ms.assetid: 00827b10-a295-ef06-8947-fd9769bc1db5
+ms.date: 06/08/2017
 ---
 
 

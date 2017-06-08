@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.CalendarDateShading
 ms.assetid: fedb04c6-e9a4-9289-aedd-042f3751e27d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Documents.Count
 ms.assetid: a639f195-9b30-3aaa-f504-b720817cd8d3
+ms.date: 06/08/2017
 ---
 
 

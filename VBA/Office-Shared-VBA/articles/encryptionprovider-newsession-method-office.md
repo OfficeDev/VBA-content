@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.EncryptionProvider.NewSession
 ms.assetid: b90f842a-6eb3-3e95-7175-c3ca9c3ce138
+ms.date: 06/08/2017
 ---
 
 

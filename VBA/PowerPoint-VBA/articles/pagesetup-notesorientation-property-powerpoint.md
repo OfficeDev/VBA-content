@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.PageSetup.NotesOrientation
 ms.assetid: 1a8e233a-58da-1296-da1f-cf59892e518f
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayFormulaAutoComplete
 ms.assetid: bd6b78eb-2a5e-fbfa-e1f9-57810318f970
+ms.date: 06/08/2017
 ---
 
 

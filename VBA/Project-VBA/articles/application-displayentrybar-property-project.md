@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.DisplayEntryBar
 ms.assetid: 56121152-2302-9d32-3a64-68b8b68f0f90
+ms.date: 06/08/2017
 ---
 
 

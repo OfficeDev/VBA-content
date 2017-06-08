@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shape.Callout
 ms.assetid: 381f8eaa-f373-b1aa-6a53-4086d7e887d8
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ReturnVars
 ms.assetid: 3cc16825-665f-4bd8-a606-6b3b93594659
+ms.date: 06/08/2017
 ---
 
 

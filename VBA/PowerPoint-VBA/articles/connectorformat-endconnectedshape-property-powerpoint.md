@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ConnectorFormat.EndConnectedShape
 ms.assetid: 1d18fd9a-fc43-b50e-5c1a-dc6b5332b37e
+ms.date: 06/08/2017
 ---
 
 

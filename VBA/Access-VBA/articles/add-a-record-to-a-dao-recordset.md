@@ -2,6 +2,7 @@
 title: Add a Record to a DAO Recordset
 ms.prod: ACCESS
 ms.assetid: b6366906-4b37-0d35-cfd5-d38e7717131c
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.AlertResponse
 ms.assetid: eb0fabb1-809e-b952-da99-e18eda0f6970
+ms.date: 06/08/2017
 ---
 
 

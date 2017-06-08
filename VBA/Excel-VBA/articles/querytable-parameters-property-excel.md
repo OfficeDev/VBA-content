@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.Parameters
 ms.assetid: d82f0ef7-9e3a-b9e5-9b9f-d402fb7a573e
+ms.date: 06/08/2017
 ---
 
 

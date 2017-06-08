@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.PictureFormat
 ms.assetid: 4606d21b-5da0-7659-85bd-d0d1599470bc
+ms.date: 06/08/2017
 ---
 
 

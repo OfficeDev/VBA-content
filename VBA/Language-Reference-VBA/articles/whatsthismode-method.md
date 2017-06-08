@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.WhatsThisMode
 ms.assetid: e71fb00c-b323-2b43-94ec-07079e66337f
+ms.date: 06/08/2017
 ---
 
 

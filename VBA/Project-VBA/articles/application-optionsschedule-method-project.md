@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.OptionsSchedule
 ms.assetid: 24035b34-0364-e830-864a-801150e2668d
+ms.date: 06/08/2017
 ---
 
 

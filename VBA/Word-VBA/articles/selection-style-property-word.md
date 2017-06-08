@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Style
 ms.assetid: d9295c79-97bd-3866-8321-45b708154716
+ms.date: 06/08/2017
 ---
 
 

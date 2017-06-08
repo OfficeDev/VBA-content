@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AddIn.AutoLoad
 ms.assetid: ba8eca66-6d94-62ca-0270-85f2a508299f
+ms.date: 06/08/2017
 ---
 
 

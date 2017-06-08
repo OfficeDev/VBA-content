@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Effect.Paragraph
 ms.assetid: 0816387c-201d-b231-a412-ffb932c9044b
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Shape
 ms.assetid: 8f01fcd1-b7d9-5216-2de5-40fb6648a403
+ms.date: 06/08/2017
 ---
 
 

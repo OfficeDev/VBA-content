@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ServiceOptionsDialog
 ms.assetid: 089c6989-4d46-5930-c0d5-ca6c0a66aa21
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Walls.Parent
 ms.assetid: 0113ca9b-61fd-2313-e213-27c6f3bbe04b
+ms.date: 06/08/2017
 ---
 
 

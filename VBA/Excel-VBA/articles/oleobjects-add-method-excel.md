@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObjects.Add
 ms.assetid: 2acd369f-6dd6-0e0e-043c-a691796659a9
+ms.date: 06/08/2017
 ---
 
 

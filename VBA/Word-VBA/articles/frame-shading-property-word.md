@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Frame.Shading
 ms.assetid: 7e7273de-8263-c168-3681-76243f6d8b0a
+ms.date: 06/08/2017
 ---
 
 

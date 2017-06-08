@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.TextBox.ReadingOrder
 ms.assetid: 1b53bb00-9252-ca99-c3b7-3a97d06552c4
+ms.date: 06/08/2017
 ---
 
 

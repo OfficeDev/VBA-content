@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PictureEffects.Application
 ms.assetid: 3aa0b57d-2bf7-8d54-3b2e-e23bef0f20af
+ms.date: 06/08/2017
 ---
 
 

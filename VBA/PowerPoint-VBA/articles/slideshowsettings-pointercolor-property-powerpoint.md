@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SlideShowSettings.PointerColor
 ms.assetid: 530072d6-3a2d-8236-b4ac-3ede8823e95a
+ms.date: 06/08/2017
 ---
 
 

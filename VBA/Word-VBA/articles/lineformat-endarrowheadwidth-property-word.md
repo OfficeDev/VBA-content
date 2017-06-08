@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LineFormat.EndArrowheadWidth
 ms.assetid: 01d77438-aa35-983b-7d93-a88e135d1820
+ms.date: 06/08/2017
 ---
 
 

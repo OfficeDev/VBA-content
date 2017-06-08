@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.MarkerForegroundColor
 ms.assetid: 6b8020ba-ccd1-fb3a-6ea9-8a59eaa64d3b
+ms.date: 06/08/2017
 ---
 
 

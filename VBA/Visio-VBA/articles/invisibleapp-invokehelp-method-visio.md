@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.InvokeHelp
 ms.assetid: e3860d89-8d07-22d8-664b-b12becd39d98
+ms.date: 06/08/2017
 ---
 
 

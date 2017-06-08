@@ -2,6 +2,7 @@
 title: Create Alternating Row Colors on a Report
 ms.prod: ACCESS
 ms.assetid: ea37a0cb-9057-e268-28a7-183751c8a1b8
+ms.date: 06/08/2017
 ---
 
 

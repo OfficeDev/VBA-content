@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Attachment.LabelX
 ms.assetid: 6786c91f-32e6-39b1-b9d7-105463a7c103
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarPopup.Priority
 ms.assetid: cef115fd-fdc8-d8a3-b51d-c9fbc21a810f
+ms.date: 06/08/2017
 ---
 
 

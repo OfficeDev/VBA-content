@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.AddIns.Parent
 ms.assetid: 642d2659-a972-0c2f-b3a6-aedc74ceafe5
+ms.date: 06/08/2017
 ---
 
 

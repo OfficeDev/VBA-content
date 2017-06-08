@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.JournalModule
 ms.assetid: 5a696d10-8a10-c01d-cf65-f8a65718f120
+ms.date: 06/08/2017
 ---
 
 

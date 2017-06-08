@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.PageBreakBefore
 ms.assetid: b024b5a6-4207-c490-97a6-a5eb2903c90e
+ms.date: 06/08/2017
 ---
 
 

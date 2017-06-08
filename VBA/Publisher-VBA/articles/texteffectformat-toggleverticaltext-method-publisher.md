@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextEffectFormat.ToggleVerticalText
 ms.assetid: 627ddbcc-5951-70c6-4e54-de0e9a4bebec
+ms.date: 06/08/2017
 ---
 
 

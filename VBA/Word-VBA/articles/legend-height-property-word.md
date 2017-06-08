@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Legend.Height
 ms.assetid: 0fc393d2-e088-0ff2-5be0-5d4b88e488ec
+ms.date: 06/08/2017
 ---
 
 

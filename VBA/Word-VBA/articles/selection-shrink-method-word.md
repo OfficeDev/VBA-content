@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Selection.Shrink
 ms.assetid: ed364c95-3b9d-44dc-b120-db23aedfeaed
+ms.date: 06/08/2017
 ---
 
 

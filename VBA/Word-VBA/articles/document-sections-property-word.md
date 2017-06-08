@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.Sections
 ms.assetid: 83c3ec94-b0ef-e8a5-b17a-ad657e7197b2
+ms.date: 06/08/2017
 ---
 
 

@@ -2,6 +2,7 @@
 title: Attach a File to a Mail Item
 ms.prod: OUTLOOK
 ms.assetid: 1d94629b-e713-92cb-32de-c8910612e861
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.FormattingShowFilter
 ms.assetid: 41509d69-9cee-bf85-6530-c5603b9c9136
+ms.date: 06/08/2017
 ---
 
 

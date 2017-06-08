@@ -2,6 +2,7 @@
 title: Page.Picture Property (Outlook Forms Script)
 ms.prod: OUTLOOK
 ms.assetid: 447a0372-d621-9b36-3f62-ad764b7e1b92
+ms.date: 06/08/2017
 ---
 
 

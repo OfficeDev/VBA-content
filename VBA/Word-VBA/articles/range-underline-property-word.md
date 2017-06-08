@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Range.Underline
 ms.assetid: 8221338d-3da6-b1ae-c424-87f762b61bd7
+ms.date: 06/08/2017
 ---
 
 

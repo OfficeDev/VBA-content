@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.View.Draft
 ms.assetid: 9a0dd1df-6d5d-babc-02f8-74bf7e651226
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.AddonPaths
 ms.assetid: ec6cf92d-5570-8c24-87c2-68f26f3721a4
+ms.date: 06/08/2017
 ---
 
 

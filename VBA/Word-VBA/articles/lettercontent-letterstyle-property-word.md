@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LetterContent.LetterStyle
 ms.assetid: fdb8e106-bb80-468d-4330-e601d3a52938
+ms.date: 06/08/2017
 ---
 
 

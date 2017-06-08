@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionGroup.Left
 ms.assetid: da310fc7-9fb7-fddf-9cb7-a6e2a7be0bc6
+ms.date: 06/08/2017
 ---
 
 

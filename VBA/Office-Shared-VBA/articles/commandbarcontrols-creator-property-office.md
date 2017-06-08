@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControls.Creator
 ms.assetid: d1728427-b84d-f313-ef73-e234571f3be6
+ms.date: 06/08/2017
 ---
 
 

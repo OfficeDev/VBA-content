@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.BoxFormat
 ms.assetid: bc2c0b19-c030-3063-4842-cf1bb146f73f
+ms.date: 06/08/2017
 ---
 
 

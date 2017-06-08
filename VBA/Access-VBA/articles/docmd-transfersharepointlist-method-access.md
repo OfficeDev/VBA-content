@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.TransferSharePointList
 ms.assetid: 9cbd8de6-dc1a-47b0-c1f4-62959a66faf4
+ms.date: 06/08/2017
 ---
 
 

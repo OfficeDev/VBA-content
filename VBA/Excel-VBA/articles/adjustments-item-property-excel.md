@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Adjustments.Item
 ms.assetid: b3f3a20c-3ef0-48be-411a-dfb08758684d
+ms.date: 06/08/2017
 ---
 
 

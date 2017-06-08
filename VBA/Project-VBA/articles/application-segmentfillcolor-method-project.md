@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.SegmentFillColor
 ms.assetid: 3f943b8a-47e9-979a-4755-f7b021db6b0e
+ms.date: 06/08/2017
 ---
 
 

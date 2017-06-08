@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DocumentSaved
 ms.assetid: a11744f6-a1a7-41db-c427-5bae96b9b0ec
+ms.date: 06/08/2017
 ---
 
 

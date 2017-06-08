@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.AttachToVisioDoc
 ms.assetid: ed2aba12-21b0-d953-8f5b-0634255f03b5
+ms.date: 06/08/2017
 ---
 
 

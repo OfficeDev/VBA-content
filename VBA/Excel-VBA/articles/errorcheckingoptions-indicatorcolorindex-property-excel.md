@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ErrorCheckingOptions.IndicatorColorIndex
 ms.assetid: 4818c6b6-8cb9-705a-a441-e35159b4ffa8
+ms.date: 06/08/2017
 ---
 
 

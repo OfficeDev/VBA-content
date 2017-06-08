@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.DisplayDocumentActionTaskPane
 ms.assetid: 3b1fdce9-a6f1-ac6c-a14f-4ec8b35fd6a2
+ms.date: 06/08/2017
 ---
 
 

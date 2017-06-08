@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Printer.IsColor
 ms.assetid: ae466c89-8da0-986b-c3f8-b0aea651dffe
+ms.date: 06/08/2017
 ---
 
 

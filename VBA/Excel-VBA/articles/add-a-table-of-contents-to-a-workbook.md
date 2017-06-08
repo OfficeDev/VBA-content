@@ -2,6 +2,7 @@
 title: Add a Table of Contents to a Workbook
 ms.prod: EXCEL
 ms.assetid: fc61a9c1-d651-502a-c8d4-d6a570898191
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.QueryTable.TextFileVisualLayout
 ms.assetid: 13105ba8-945d-9e9b-f90c-9059e2ade9f1
+ms.date: 06/08/2017
 ---
 
 

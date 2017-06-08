@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.NoAging
 ms.assetid: d1d68995-31f0-de56-7711-d414c970ca00
+ms.date: 06/08/2017
 ---
 
 

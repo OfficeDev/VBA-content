@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.Sections
 ms.assetid: 9e425836-1d62-99ef-2984-b61f3a3cf831
+ms.date: 06/08/2017
 ---
 
 

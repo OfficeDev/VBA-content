@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.Fields
 ms.assetid: 01efbcae-b65b-68d9-20b0-6bbee31fd762
+ms.date: 06/08/2017
 ---
 
 

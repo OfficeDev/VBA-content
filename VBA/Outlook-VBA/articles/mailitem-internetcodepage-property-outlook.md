@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.MailItem.InternetCodepage
 ms.assetid: 09d80bb8-7677-d9b5-1585-c933af5a7b2d
+ms.date: 06/08/2017
 ---
 
 

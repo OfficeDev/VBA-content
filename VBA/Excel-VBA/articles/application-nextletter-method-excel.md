@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.NextLetter
 ms.assetid: 002ace38-48f1-cac2-6bbb-428b119c8ed0
+ms.date: 06/08/2017
 ---
 
 

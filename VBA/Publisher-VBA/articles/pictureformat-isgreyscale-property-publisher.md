@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.IsGreyScale
 ms.assetid: 1f8308c1-353e-2aac-9b4b-fad300a89b97
+ms.date: 06/08/2017
 ---
 
 

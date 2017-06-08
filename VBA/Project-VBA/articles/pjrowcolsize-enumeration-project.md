@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjRowColSize
 ms.assetid: 63d7365b-4789-cba4-a0cd-d38011581fd3
+ms.date: 06/08/2017
 ---
 
 

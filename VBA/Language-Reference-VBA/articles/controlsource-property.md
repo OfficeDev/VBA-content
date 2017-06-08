@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ControlSource
 ms.assetid: 69e5e7bb-5be9-2cca-7693-ac9020578762
+ms.date: 06/08/2017
 ---
 
 

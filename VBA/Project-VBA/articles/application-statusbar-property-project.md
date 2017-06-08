@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.StatusBar
 ms.assetid: c88965a0-302c-e0ce-ca5b-06fc2d21ff2d
+ms.date: 06/08/2017
 ---
 
 

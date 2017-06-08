@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.CalloutFormat.AutoAttach
 ms.assetid: 80f5bf63-072d-1245-d564-1b54af0f85b5
+ms.date: 06/08/2017
 ---
 
 

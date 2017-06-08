@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.CharBasedFirstLineIndent
 ms.assetid: d0432be6-2e6a-39fa-9e9a-0300a0437f35
+ms.date: 06/08/2017
 ---
 
 

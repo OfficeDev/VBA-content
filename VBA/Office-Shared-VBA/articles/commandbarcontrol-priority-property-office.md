@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBarControl.Priority
 ms.assetid: 1bb78346-a815-75f8-f2f6-8ecff2b54cbd
+ms.date: 06/08/2017
 ---
 
 

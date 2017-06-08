@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.RGBColor
 ms.assetid: 1da5054f-7eaa-37e8-9a5b-d90c790de576
+ms.date: 06/08/2017
 ---
 
 

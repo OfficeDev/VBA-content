@@ -2,6 +2,7 @@
 title: Filtering Items Using an Integer Comparison
 ms.prod: OUTLOOK
 ms.assetid: c67d95b2-f635-b751-d9c6-c7bdf406a01a
+ms.date: 06/08/2017
 ---
 
 

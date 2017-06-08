@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotTable.DisplayMemberPropertyTooltips
 ms.assetid: c91c6030-9e61-ae09-8973-53b28f1edd0c
+ms.date: 06/08/2017
 ---
 
 

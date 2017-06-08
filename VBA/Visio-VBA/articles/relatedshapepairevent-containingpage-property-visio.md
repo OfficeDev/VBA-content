@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.RelatedShapePairEvent.ContainingPage
 ms.assetid: 84b375ac-e573-a8ef-8e0d-d94403262e01
+ms.date: 06/08/2017
 ---
 
 

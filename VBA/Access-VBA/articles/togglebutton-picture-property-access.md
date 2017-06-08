@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.Picture
 ms.assetid: 78889614-9916-1265-611a-8ae6932187fd
+ms.date: 06/08/2017
 ---
 
 

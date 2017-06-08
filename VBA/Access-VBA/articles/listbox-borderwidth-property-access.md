@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.BorderWidth
 ms.assetid: 3e0ddff1-7e60-5fbd-7680-6d9da7baead8
+ms.date: 06/08/2017
 ---
 
 

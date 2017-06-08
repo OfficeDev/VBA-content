@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShowChartTipValues
 ms.assetid: aeff428a-01c2-51cc-2397-e178386e3e69
+ms.date: 06/08/2017
 ---
 
 

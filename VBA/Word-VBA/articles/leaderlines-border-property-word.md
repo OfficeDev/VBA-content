@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.LeaderLines.Border
 ms.assetid: 02e7d47a-ac30-cf6f-0842-f421bb268c9a
+ms.date: 06/08/2017
 ---
 
 

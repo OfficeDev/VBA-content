@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.DefaultRectangleDataObject
 ms.assetid: 3ffedd3b-e769-a8a3-e6c0-0d75f7187466
+ms.date: 06/08/2017
 ---
 
 

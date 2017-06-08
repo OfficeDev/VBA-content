@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.AnimateScreenMovements
 ms.assetid: 8f4a7986-887e-8752-4d77-6db54db58da6
+ms.date: 06/08/2017
 ---
 
 

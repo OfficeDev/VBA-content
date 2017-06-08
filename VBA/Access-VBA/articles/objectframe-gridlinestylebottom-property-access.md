@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ObjectFrame.GridlineStyleBottom
 ms.assetid: 692feea8-ab41-e695-c388-38b9f7f9bf26
+ms.date: 06/08/2017
 ---
 
 

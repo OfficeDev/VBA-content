@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationBehavior.ScaleEffect
 ms.assetid: 8e8236ca-c389-a888-5e07-42101fb92126
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.ControlType
 ms.assetid: c41e555b-195b-7af9-f2ee-09d92980e557
+ms.date: 06/08/2017
 ---
 
 

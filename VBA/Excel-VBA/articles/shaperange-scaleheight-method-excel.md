@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeRange.ScaleHeight
 ms.assetid: 93687481-8c24-d002-19de-1b60cdfade06
+ms.date: 06/08/2017
 ---
 
 

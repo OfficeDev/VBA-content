@@ -2,6 +2,7 @@
 title: Reports.Count Property (Project)
 ms.prod: PROJECTSERVER
 ms.assetid: 8f3d802e-bfeb-fc6f-f3ea-83e70c1b13b6
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkControl.MinimumWidth
 ms.assetid: 1739ca3b-7a08-0e70-a475-106d2381555c
+ms.date: 06/08/2017
 ---
 
 

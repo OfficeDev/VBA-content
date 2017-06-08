@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.CommandButton.Shadow
 ms.assetid: 71af60bc-6f69-1408-8f3a-076a75daddcc
+ms.date: 06/08/2017
 ---
 
 

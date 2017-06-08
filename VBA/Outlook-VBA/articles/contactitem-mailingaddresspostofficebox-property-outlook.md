@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.MailingAddressPostOfficeBox
 ms.assetid: b4dc4baa-2af8-f008-6f26-3070dd739a6c
+ms.date: 06/08/2017
 ---
 
 

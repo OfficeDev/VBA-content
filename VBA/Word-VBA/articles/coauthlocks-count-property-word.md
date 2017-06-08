@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthLocks.Count
 ms.assetid: a082d159-8fd9-1f8d-0987-7755f2aa4d5e
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Hyperlink.EmailSubject
 ms.assetid: 3fe6d6a1-8184-8ef5-eb6e-b96ce9732dbd
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.GetFromClipboard
 ms.assetid: 8a034bf7-b6cf-ed9f-2e1c-2a4325494970
+ms.date: 06/08/2017
 ---
 
 

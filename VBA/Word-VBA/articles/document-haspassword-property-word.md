@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Document.HasPassword
 ms.assetid: 4234b91c-b82c-605a-5d6c-ff18aadc3689
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.NormSDist
 ms.assetid: d1016e46-c04e-9274-3809-4cdefe59a18e
+ms.date: 06/08/2017
 ---
 
 

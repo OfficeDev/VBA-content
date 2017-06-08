@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.Style
 ms.assetid: b6d5045b-c32b-7840-170f-8f21151ddfac
+ms.date: 06/08/2017
 ---
 
 

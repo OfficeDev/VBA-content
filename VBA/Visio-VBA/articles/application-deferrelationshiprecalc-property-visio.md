@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.DeferRelationshipRecalc
 ms.assetid: b85ce4e4-4425-e508-042f-4119353a60b8
+ms.date: 06/08/2017
 ---
 
 

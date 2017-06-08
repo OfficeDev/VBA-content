@@ -2,6 +2,7 @@
 title: Properties (Outlook)
 ms.prod: OUTLOOK
 ms.assetid: 2836629b-260b-45f8-b872-8869379caa3d
+ms.date: 06/08/2017
 ---
 
 

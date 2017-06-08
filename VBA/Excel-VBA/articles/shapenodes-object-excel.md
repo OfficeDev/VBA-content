@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ShapeNodes
 ms.assetid: 663721f1-8bd0-dd21-2362-fea2da3988bf
+ms.date: 06/08/2017
 ---
 
 

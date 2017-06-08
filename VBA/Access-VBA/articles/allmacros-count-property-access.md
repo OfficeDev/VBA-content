@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AllMacros.Count
 ms.assetid: 67ed99d8-2195-5ef1-1adb-7d43a043168f
+ms.date: 06/08/2017
 ---
 
 

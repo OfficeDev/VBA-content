@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.LineSpacingRule
 ms.assetid: a08e9eeb-1b85-7cd8-a497-ac7d63234267
+ms.date: 06/08/2017
 ---
 
 

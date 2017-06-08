@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.SoundEffect.Name
 ms.assetid: f587126e-094a-0360-b696-fbdb7c0a4019
+ms.date: 06/08/2017
 ---
 
 

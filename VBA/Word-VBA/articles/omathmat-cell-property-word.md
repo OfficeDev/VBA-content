@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathMat.Cell
 ms.assetid: 5a7d412a-5bd9-05a8-4210-cef2d38d6307
+ms.date: 06/08/2017
 ---
 
 

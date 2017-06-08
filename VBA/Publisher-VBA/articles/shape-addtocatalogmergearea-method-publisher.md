@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.AddToCatalogMergeArea
 ms.assetid: 4178d286-045f-a7b6-86b6-710bed10e824
+ms.date: 06/08/2017
 ---
 
 

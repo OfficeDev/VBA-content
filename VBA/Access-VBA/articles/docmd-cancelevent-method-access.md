@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.DoCmd.CancelEvent
 ms.assetid: f8c0d2ff-9bf3-09d5-d15b-d3134bb6df80
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Reference.FullPath
 ms.assetid: 41e2b1b5-a0fd-79a0-27f2-71b996cc25ea
+ms.date: 06/08/2017
 ---
 
 

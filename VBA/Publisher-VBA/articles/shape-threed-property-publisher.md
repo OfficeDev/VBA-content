@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.ThreeD
 ms.assetid: e3430bb2-2f2a-14a6-8eb4-98a29a96ad1c
+ms.date: 06/08/2017
 ---
 
 

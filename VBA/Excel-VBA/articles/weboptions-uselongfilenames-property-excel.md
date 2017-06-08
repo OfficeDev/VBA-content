@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.UseLongFileNames
 ms.assetid: f30c4954-d691-3a36-1540-f280eea370d8
+ms.date: 06/08/2017
 ---
 
 

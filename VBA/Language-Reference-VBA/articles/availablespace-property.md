@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.AvailableSpace
 ms.assetid: c7a2a011-1b90-7091-4dcb-0149c75a6ee6
+ms.date: 06/08/2017
 ---
 
 

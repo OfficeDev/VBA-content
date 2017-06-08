@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.RowsCellCount
 ms.assetid: bb9c1990-5ead-e56b-7b09-a49a2b7ad111
+ms.date: 06/08/2017
 ---
 
 

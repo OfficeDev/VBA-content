@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.AnimationSettings.AdvanceMode
 ms.assetid: 794d867f-cd7d-eeb6-0d6c-081e2be72ee5
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.VBComponents
 ms.assetid: cf5dea3b-e583-8547-9448-0fd23e5623ee
+ms.date: 06/08/2017
 ---
 
 

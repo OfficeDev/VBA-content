@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AppointmentItem.ShowCategoriesDialog
 ms.assetid: 5b79f252-ffce-a59d-873f-48efe467df3b
+ms.date: 06/08/2017
 ---
 
 

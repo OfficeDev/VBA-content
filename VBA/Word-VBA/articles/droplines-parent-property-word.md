@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DropLines.Parent
 ms.assetid: bca815fd-daba-6410-3cbe-6777bee08081
+ms.date: 06/08/2017
 ---
 
 

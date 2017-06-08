@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.ContactItem.GovernmentIDNumber
 ms.assetid: cfe46380-7b96-441f-f111-e7c796ed6bab
+ms.date: 06/08/2017
 ---
 
 

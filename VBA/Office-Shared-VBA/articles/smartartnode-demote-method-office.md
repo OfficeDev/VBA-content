@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.SmartArtNode.Demote
 ms.assetid: 075882bd-5784-9ba3-daed-065f4bf2c86e
+ms.date: 06/08/2017
 ---
 
 

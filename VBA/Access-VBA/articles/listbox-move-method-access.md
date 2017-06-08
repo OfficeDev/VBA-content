@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.Move
 ms.assetid: a16304f5-891c-b80c-80b3-1f75692cb30f
+ms.date: 06/08/2017
 ---
 
 

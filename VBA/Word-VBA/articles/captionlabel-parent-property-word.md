@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CaptionLabel.Parent
 ms.assetid: c076eb22-130e-2c45-c1f2-53ed6c6c1383
+ms.date: 06/08/2017
 ---
 
 

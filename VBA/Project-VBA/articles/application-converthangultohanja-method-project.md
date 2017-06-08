@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Application.ConvertHangulToHanja
 ms.assetid: 0617dd57-1e0e-a54d-1739-c92efac25237
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.GroupCriterion2.GroupOn
 ms.assetid: f67ef37f-0f33-abe5-b79c-e18725a0269e
+ms.date: 06/08/2017
 ---
 
 

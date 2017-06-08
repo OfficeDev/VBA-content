@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Application.DDEPoke
 ms.assetid: 5f24d625-bd9b-41fd-004c-dccfb0ec41b6
+ms.date: 06/08/2017
 ---
 
 

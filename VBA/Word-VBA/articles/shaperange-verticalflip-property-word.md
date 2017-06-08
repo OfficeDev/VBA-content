@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.VerticalFlip
 ms.assetid: f4dc248c-3ffa-e7e3-8ca9-9f6afc8be832
+ms.date: 06/08/2017
 ---
 
 

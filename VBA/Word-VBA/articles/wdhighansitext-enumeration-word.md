@@ -4,6 +4,7 @@ ms.prod: WORD
 api_name:
 - Word.WdHighAnsiText
 ms.assetid: a285dcc1-97fd-b294-159e-f96c24ef1118
+ms.date: 06/08/2017
 ---
 
 

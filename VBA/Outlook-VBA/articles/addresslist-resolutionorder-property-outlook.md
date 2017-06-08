@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.AddressList.ResolutionOrder
 ms.assetid: e92bd83f-349b-d6e7-a5fb-7a6d893406a0
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.BulletFormat2.Character
 ms.assetid: 1d482fdf-015d-01a5-8e57-5716308c4df2
+ms.date: 06/08/2017
 ---
 
 

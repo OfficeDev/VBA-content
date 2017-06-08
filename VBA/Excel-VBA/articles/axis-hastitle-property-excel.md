@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Axis.HasTitle
 ms.assetid: 4b3d656f-4416-42a6-cefd-9684ba98c8e3
+ms.date: 06/08/2017
 ---
 
 

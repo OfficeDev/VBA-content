@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.OMathBorderBox.E
 ms.assetid: 66f14de9-f829-2671-bcdb-884800f34601
+ms.date: 06/08/2017
 ---
 
 

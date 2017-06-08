@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.VisLayoutVertAlignType
 ms.assetid: 6d70f4ef-6b95-6854-8a57-2a939f7f1438
+ms.date: 06/08/2017
 ---
 
 

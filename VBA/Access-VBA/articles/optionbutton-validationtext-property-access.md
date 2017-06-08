@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.OptionButton.ValidationText
 ms.assetid: 4a0a025f-7c86-cd2c-efa3-2786fc31a675
+ms.date: 06/08/2017
 ---
 
 

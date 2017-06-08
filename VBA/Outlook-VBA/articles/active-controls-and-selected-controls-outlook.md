@@ -2,6 +2,7 @@
 title: Active Controls and Selected Controls (Outlook)
 ms.prod: OUTLOOK
 ms.assetid: 3ce5a242-b950-0272-4a34-b1f84fc5a011
+ms.date: 06/08/2017
 ---
 
 

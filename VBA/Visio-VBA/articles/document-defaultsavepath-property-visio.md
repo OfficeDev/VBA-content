@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Document.DefaultSavePath
 ms.assetid: 13d159c8-294b-aa3f-466d-092f3ef0b93c
+ms.date: 06/08/2017
 ---
 
 

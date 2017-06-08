@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ParagraphFormat.CloseUp
 ms.assetid: 021ab4fe-3301-90c7-2543-59140b7881da
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WebOptions.Application
 ms.assetid: 563c8930-837f-6caa-e2c8-02bb3b816f4a
+ms.date: 06/08/2017
 ---
 
 

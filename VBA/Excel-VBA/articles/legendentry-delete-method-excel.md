@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.LegendEntry.Delete
 ms.assetid: 1967ac14-e375-9308-bd53-fbfd1e71ac69
+ms.date: 06/08/2017
 ---
 
 

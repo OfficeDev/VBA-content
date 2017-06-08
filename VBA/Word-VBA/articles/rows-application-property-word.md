@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Rows.Application
 ms.assetid: 3e89d284-3787-b228-01fa-498254834e71
+ms.date: 06/08/2017
 ---
 
 

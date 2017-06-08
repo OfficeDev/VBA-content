@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkBusinessCardControl.MouseMove
 ms.assetid: 99608b65-7b85-e865-5a59-8053d1ea0866
+ms.date: 06/08/2017
 ---
 
 

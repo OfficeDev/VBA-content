@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.LegendKey.Delete
 ms.assetid: 501e2252-b672-00d5-1e41-64336c512591
+ms.date: 06/08/2017
 ---
 
 

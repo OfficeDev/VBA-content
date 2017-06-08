@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Explorer.CurrentView
 ms.assetid: 177e6387-9ccb-cb71-bbe5-332c25485848
+ms.date: 06/08/2017
 ---
 
 

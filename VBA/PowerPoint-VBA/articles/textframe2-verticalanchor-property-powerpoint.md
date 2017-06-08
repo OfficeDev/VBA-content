@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.TextFrame2.VerticalAnchor
 ms.assetid: e00b1b4b-c291-fb10-be85-49e84ab0b739
+ms.date: 06/08/2017
 ---
 
 

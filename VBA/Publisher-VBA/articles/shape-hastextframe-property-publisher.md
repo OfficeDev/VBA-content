@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.HasTextFrame
 ms.assetid: faf9514a-438b-ad12-a830-ed34cea8ba03
+ms.date: 06/08/2017
 ---
 
 

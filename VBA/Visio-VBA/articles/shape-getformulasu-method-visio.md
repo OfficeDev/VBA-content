@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.GetFormulasU
 ms.assetid: f478abfa-d576-fcb2-5126-464b874355a0
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbWebControlType
 ms.assetid: cceb2659-42de-7cf1-e1fd-dba992d4551f
+ms.date: 06/08/2017
 ---
 
 

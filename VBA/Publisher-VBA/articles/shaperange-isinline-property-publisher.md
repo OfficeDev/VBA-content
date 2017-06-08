@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.IsInline
 ms.assetid: 32e038cc-5837-93b4-de54-9bcd0549f1d4
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.WindowState
 ms.assetid: f53d2bb8-b862-c55f-d9d5-68e705ca3415
+ms.date: 06/08/2017
 ---
 
 

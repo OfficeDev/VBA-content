@@ -1,6 +1,7 @@
 ---
 title: MsoMergeCmd Enumeration (Office)
 ms.assetid: 41a8359d-9a48-f847-488c-b842efe15e28
+ms.date: 06/08/2017
 ---
 
 

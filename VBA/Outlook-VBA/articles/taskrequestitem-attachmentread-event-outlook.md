@@ -4,6 +4,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestItem.AttachmentRead
 ms.assetid: 08fbbd63-400a-784a-2607-4777aa9dac4f
+ms.date: 06/08/2017
 ---
 
 

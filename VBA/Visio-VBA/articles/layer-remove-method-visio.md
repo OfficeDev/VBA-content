@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Layer.Remove
 ms.assetid: d46c814b-1937-de81-de1b-e670667920c2
+ms.date: 06/08/2017
 ---
 
 

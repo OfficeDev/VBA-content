@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Masters.EventList
 ms.assetid: 1703269d-91bb-2a66-538c-20aecd48f879
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.DataLabel.ShowBubbleSize
 ms.assetid: a6bbef53-ff4a-7766-2a6b-f9b5907bebf3
+ms.date: 06/08/2017
 ---
 
 

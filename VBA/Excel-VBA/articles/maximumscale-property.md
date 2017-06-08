@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.MaximumScale
 ms.assetid: 1fd6633e-7782-78d0-ba24-9c3d46f85471
+ms.date: 06/08/2017
 ---
 
 

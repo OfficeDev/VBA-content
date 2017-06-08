@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Options.PictureEditor
 ms.assetid: bdf0435b-c0dc-d299-a745-1102e4c46801
+ms.date: 06/08/2017
 ---
 
 

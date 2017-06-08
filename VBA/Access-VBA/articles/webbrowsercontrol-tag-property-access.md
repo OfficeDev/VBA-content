@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.WebBrowserControl.Tag
 ms.assetid: 540e37bb-db7b-4b5d-9713-b4829a8acd57
+ms.date: 06/08/2017
 ---
 
 

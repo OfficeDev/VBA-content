@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ListFormat.ApplyNumberDefault
 ms.assetid: de7e219c-fb92-b0cf-dbc0-33f98eee0f5a
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ErrorBars.Creator
 ms.assetid: c8052d99-6816-1345-c1ab-14e5816fcc69
+ms.date: 06/08/2017
 ---
 
 

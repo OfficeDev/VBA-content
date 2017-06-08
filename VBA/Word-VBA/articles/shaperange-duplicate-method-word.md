@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShapeRange.Duplicate
 ms.assetid: 98efa3b3-3405-152a-b629-d4bb654c8029
+ms.date: 06/08/2017
 ---
 
 

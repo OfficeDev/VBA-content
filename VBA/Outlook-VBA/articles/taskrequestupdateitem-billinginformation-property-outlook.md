@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.TaskRequestUpdateItem.BillingInformation
 ms.assetid: 7622e68b-38b8-b63f-a731-638277203a3d
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.WorksheetFunction.Hex2Bin
 ms.assetid: 373a8eb3-7f60-f03e-04f8-ebb5f0de47f6
+ms.date: 06/08/2017
 ---
 
 

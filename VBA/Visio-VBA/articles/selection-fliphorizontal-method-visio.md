@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Selection.FlipHorizontal
 ms.assetid: 97cecbcf-8489-c8b9-046e-28599f491e3c
+ms.date: 06/08/2017
 ---
 
 

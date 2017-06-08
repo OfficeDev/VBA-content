@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Chart.SetBackgroundPicture
 ms.assetid: 6bc2d271-86dd-cd4f-a7b8-323f6f7fe332
+ms.date: 06/08/2017
 ---
 
 

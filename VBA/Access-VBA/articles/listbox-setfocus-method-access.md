@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ListBox.SetFocus
 ms.assetid: a8d0c774-095c-34f5-7905-f67c48886832
+ms.date: 06/08/2017
 ---
 
 

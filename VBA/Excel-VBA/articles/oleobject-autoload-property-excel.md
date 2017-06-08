@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.OLEObject.AutoLoad
 ms.assetid: cf57d137-8b26-5f19-29a0-13e350cfd32a
+ms.date: 06/08/2017
 ---
 
 

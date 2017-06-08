@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.ApplicationSettings.DrawingPageColor
 ms.assetid: 7ae90e3a-d7ed-588e-2416-eecc3e8619e7
+ms.date: 06/08/2017
 ---
 
 

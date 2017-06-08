@@ -4,6 +4,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.XlTickLabelPosition
 ms.assetid: 1ec6b42b-3f77-4958-58ec-702b484af216
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.OlkCommandButton.Picture
 ms.assetid: 68b60b14-1a26-4b62-2770-5c3e16cf96b5
+ms.date: 06/08/2017
 ---
 
 

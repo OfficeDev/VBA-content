@@ -7,6 +7,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Task.Contact
 ms.assetid: 856c05dd-3780-e4c5-97f3-ef428fc039d4
+ms.date: 06/08/2017
 ---
 
 

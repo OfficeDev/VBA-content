@@ -2,6 +2,7 @@
 title: Obtain and Log On to an Instance of Outlook
 ms.prod: OUTLOOK
 ms.assetid: ef369364-6500-2759-3ef4-ed4411112e96
+ms.date: 06/08/2017
 ---
 
 

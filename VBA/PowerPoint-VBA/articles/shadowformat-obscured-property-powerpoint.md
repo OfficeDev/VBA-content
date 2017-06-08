@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShadowFormat.Obscured
 ms.assetid: 18f029de-cfaf-61d2-6fec-f9fdc53f8d1f
+ms.date: 06/08/2017
 ---
 
 

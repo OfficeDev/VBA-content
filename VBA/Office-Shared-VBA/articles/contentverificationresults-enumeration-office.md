@@ -4,6 +4,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.ContentVerificationResults
 ms.assetid: bf9c4dea-8828-9403-0682-d6cf5657484d
+ms.date: 06/08/2017
 ---
 
 

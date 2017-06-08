@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Timing.Accelerate
 ms.assetid: 3e1a7b53-e398-e814-56ed-9df19bb26a0d
+ms.date: 06/08/2017
 ---
 
 

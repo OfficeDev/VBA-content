@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Protection
 ms.assetid: dc13a9dd-bd19-daa2-5093-7182917d5bde
+ms.date: 06/08/2017
 ---
 
 

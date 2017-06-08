@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Shapes.BuildFreeform
 ms.assetid: 330ea348-9f8c-c418-d67f-e4fd6c105c59
+ms.date: 06/08/2017
 ---
 
 

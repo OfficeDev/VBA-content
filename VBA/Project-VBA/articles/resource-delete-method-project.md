@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.Resource.Delete
 ms.assetid: 9a530bdd-5d4c-a6c4-ce48-c7bc6bf0f753
+ms.date: 06/08/2017
 ---
 
 

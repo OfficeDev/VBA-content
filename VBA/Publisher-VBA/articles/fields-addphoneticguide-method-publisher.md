@@ -7,6 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Fields.AddPhoneticGuide
 ms.assetid: 9b64e505-3aa7-040f-f791-f2dbeaf6860e
+ms.date: 06/08/2017
 ---
 
 

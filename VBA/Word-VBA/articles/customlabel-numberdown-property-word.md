@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CustomLabel.NumberDown
 ms.assetid: d2257e2f-2641-764c-d5a1-72a1fddb6f22
+ms.date: 06/08/2017
 ---
 
 

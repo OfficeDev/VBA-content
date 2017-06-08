@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.PjWindowState
 ms.assetid: e5d7bd5b-9993-7f3d-f0c3-96d299a32504
+ms.date: 06/08/2017
 ---
 
 

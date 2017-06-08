@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Trendline.Intercept
 ms.assetid: d1b3c93b-4af4-96cf-c6ed-27a04d7204c2
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ConnectorFormat.Creator
 ms.assetid: ba6891ca-344f-25d9-1430-a32652fed7b3
+ms.date: 06/08/2017
 ---
 
 

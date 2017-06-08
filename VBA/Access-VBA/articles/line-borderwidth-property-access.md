@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.Line.BorderWidth
 ms.assetid: 06e29c22-43a6-de44-20d7-4b73e0742763
+ms.date: 06/08/2017
 ---
 
 

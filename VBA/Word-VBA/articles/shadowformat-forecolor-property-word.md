@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ShadowFormat.ForeColor
 ms.assetid: 9cba0df7-ea22-f162-4dfe-5db1db37e9a9
+ms.date: 06/08/2017
 ---
 
 

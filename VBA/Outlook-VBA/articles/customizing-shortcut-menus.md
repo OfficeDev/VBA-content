@@ -2,6 +2,7 @@
 title: Customizing Shortcut Menus
 ms.prod: OUTLOOK
 ms.assetid: ed6a98a3-243b-80ee-51ae-57dba6d8715a
+ms.date: 06/08/2017
 ---
 
 

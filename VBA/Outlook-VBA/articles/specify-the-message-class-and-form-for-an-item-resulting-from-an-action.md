@@ -2,6 +2,7 @@
 title: Specify the Message Class and Form for an Item Resulting from an Action
 ms.prod: OUTLOOK
 ms.assetid: 89cb6501-3d48-3bcb-c29d-e2e56274f6cb
+ms.date: 06/08/2017
 ---
 
 

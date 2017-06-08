@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.KeyBinding.Clear
 ms.assetid: 7f53f149-71e9-e2ff-c261-31cd1f0668de
+ms.date: 06/08/2017
 ---
 
 

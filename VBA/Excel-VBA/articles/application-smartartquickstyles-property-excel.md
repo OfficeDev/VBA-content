@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.SmartArtQuickStyles
 ms.assetid: d4c9d4cf-b077-17b2-33dd-8449d0185b95
+ms.date: 06/08/2017
 ---
 
 

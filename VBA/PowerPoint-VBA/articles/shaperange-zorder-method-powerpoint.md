@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.ShapeRange.ZOrder
 ms.assetid: 906620bd-9293-694a-002d-97e760de988a
+ms.date: 06/08/2017
 ---
 
 

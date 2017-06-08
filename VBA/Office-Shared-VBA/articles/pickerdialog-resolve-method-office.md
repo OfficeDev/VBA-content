@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.PickerDialog.Resolve
 ms.assetid: 50b1792a-ecf0-ab66-6a9d-7f72c788d859
+ms.date: 06/08/2017
 ---
 
 

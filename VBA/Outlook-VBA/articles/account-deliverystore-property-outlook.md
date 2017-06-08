@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.Account.DeliveryStore
 ms.assetid: 181d52ff-7c48-af7b-dbec-3562f1c8801b
+ms.date: 06/08/2017
 ---
 
 

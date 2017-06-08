@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.InvisibleApp.ClearCustomMenus
 ms.assetid: bf075a03-4b3f-4f38-a6b4-6fbc2cc95fe1
+ms.date: 06/08/2017
 ---
 
 

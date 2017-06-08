@@ -7,6 +7,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Shape.AddSection
 ms.assetid: 64396db4-8361-ece9-b029-24d62ba0a290
+ms.date: 06/08/2017
 ---
 
 

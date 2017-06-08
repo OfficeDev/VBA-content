@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.Application.Assistance
 ms.assetid: 626b95a3-edae-977d-3c10-7a78fdcefeff
+ms.date: 06/08/2017
 ---
 
 

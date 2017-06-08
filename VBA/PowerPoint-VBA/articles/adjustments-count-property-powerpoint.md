@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.Adjustments.Count
 ms.assetid: dcfb5bf4-1404-8525-7fe1-d1504491267f
+ms.date: 06/08/2017
 ---
 
 

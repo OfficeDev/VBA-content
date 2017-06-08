@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.AllDatabaseDiagrams
 ms.assetid: 417427aa-1783-29da-30c9-66a7032a0088
+ms.date: 06/08/2017
 ---
 
 

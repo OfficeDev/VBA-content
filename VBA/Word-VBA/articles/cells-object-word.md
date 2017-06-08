@@ -2,6 +2,7 @@
 title: Cells Object (Word)
 ms.prod: WORD
 ms.assetid: ceaa5b45-518d-d6ea-1ce8-5a34f6e37046
+ms.date: 06/08/2017
 ---
 
 

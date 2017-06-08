@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.NavigationButton.Requery
 ms.assetid: 4beb0efc-2e95-469e-21be-e546d0a66414
+ms.date: 06/08/2017
 ---
 
 

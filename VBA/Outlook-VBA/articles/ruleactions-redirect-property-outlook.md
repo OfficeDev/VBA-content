@@ -7,6 +7,7 @@ ms.prod: OUTLOOK
 api_name:
 - Outlook.RuleActions.Redirect
 ms.assetid: a8e13e82-43c5-168a-0334-386fd02489f8
+ms.date: 06/08/2017
 ---
 
 

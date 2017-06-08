@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ToggleButton.Caption
 ms.assetid: 7ae95889-3b92-14c1-792e-eac87a2fb910
+ms.date: 06/08/2017
 ---
 
 

@@ -4,6 +4,7 @@ ms.prod: PROJECTSERVER
 api_name:
 - Project.WorkWeekDay.Shift3
 ms.assetid: 86878ac1-68c8-e728-d146-21622b087943
+ms.date: 06/08/2017
 ---
 
 

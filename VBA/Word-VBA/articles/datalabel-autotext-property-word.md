@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataLabel.AutoText
 ms.assetid: de19c6ef-38a2-0555-49e9-a63b4adb3f72
+ms.date: 06/08/2017
 ---
 
 

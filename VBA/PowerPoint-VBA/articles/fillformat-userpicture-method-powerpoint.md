@@ -7,6 +7,7 @@ ms.prod: POWERPOINT
 api_name:
 - PowerPoint.FillFormat.UserPicture
 ms.assetid: 87f28942-a5d2-7e27-7eee-5181d112d6d2
+ms.date: 06/08/2017
 ---
 
 

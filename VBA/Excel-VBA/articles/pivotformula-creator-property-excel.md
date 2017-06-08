@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotFormula.Creator
 ms.assetid: d3d302ec-3f9a-7969-bfbe-51e56680cce5
+ms.date: 06/08/2017
 ---
 
 

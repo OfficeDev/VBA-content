@@ -2,6 +2,7 @@
 title: XlPieSliceLocation Enumeration (Word)
 ms.prod: WORD
 ms.assetid: d3a2113f-8779-096c-ce6a-52f29db242b3
+ms.date: 06/08/2017
 ---
 
 

@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.PivotItem.DrillTo
 ms.assetid: 627806c2-834f-d217-1439-1e17bedd15c0
+ms.date: 06/08/2017
 ---
 
 

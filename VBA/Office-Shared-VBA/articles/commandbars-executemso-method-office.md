@@ -7,6 +7,7 @@ ms.prod: MULTIPLEPRODUCTS
 api_name:
 - Office.CommandBars.ExecuteMso
 ms.assetid: 6f608475-7a79-48c7-abff-86d9ab07fe80
+ms.date: 06/08/2017
 ---
 
 

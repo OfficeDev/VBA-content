@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.Application.MapPaperSize
 ms.assetid: c1d83fab-6abc-9103-78cf-047a503688b1
+ms.date: 06/08/2017
 ---
 
 

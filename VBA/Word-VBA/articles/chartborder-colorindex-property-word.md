@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.ChartBorder.ColorIndex
 ms.assetid: e9457184-7100-9482-398e-cc7f11e4b05c
+ms.date: 06/08/2017
 ---
 
 

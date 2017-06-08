@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.CoAuthoring.CanMerge
 ms.assetid: c74efdfe-9f8b-e524-14fb-7866ae0e34ae
+ms.date: 06/08/2017
 ---
 
 

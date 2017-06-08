@@ -7,6 +7,7 @@ ms.prod: EXCEL
 api_name:
 - Excel.ColorFormat.ObjectThemeColor
 ms.assetid: 0143043a-bb1d-bca9-372f-d0dbdfefb793
+ms.date: 06/08/2017
 ---
 
 

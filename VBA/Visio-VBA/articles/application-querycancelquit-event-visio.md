@@ -4,6 +4,7 @@ ms.prod: VISIO
 api_name:
 - Visio.Application.QueryCancelQuit
 ms.assetid: 19b58edc-dafd-acad-deee-19b2b4021ab6
+ms.date: 06/08/2017
 ---
 
 

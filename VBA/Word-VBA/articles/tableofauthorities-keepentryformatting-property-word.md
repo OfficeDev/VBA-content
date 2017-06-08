@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.TableOfAuthorities.KeepEntryFormatting
 ms.assetid: f8fcf3c1-0a72-071f-ee2c-341a78a43d36
+ms.date: 06/08/2017
 ---
 
 

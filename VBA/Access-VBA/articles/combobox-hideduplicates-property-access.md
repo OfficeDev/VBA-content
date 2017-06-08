@@ -7,6 +7,7 @@ ms.prod: ACCESS
 api_name:
 - Access.ComboBox.HideDuplicates
 ms.assetid: 79b64a87-d98e-76a1-e3c7-57796cb1c173
+ms.date: 06/08/2017
 ---
 
 

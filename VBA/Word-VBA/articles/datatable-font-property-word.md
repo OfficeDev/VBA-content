@@ -7,6 +7,7 @@ ms.prod: WORD
 api_name:
 - Word.DataTable.Font
 ms.assetid: 48989ae7-392a-6013-96af-51db91cc775f
+ms.date: 06/08/2017
 ---
 
 
