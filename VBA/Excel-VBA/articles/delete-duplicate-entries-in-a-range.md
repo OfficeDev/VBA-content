@@ -1,6 +1,6 @@
 ---
 title: Delete Duplicate Entries in a Range
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 22ca07fd-1f69-409a-85e1-247740d87e8e
 ms.date: 06/08/2017
 ---

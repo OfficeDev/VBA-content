@@ -3,7 +3,7 @@ title: WorksheetFunction.ImLog2 Method (Excel)
 keywords: vbaxl10.chm137279
 f1_keywords:
 - vbaxl10.chm137279
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImLog2
 ms.assetid: 7eb55cd5-fec2-c110-981b-81c55b241900

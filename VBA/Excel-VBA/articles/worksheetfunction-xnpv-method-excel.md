@@ -3,7 +3,7 @@ title: WorksheetFunction.Xnpv Method (Excel)
 keywords: vbaxl10.chm137307
 f1_keywords:
 - vbaxl10.chm137307
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Xnpv
 ms.assetid: db61e7a8-70c2-9e32-48dd-adddcbc886b6

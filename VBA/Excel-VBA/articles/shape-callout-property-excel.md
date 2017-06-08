@@ -3,7 +3,7 @@ title: Shape.Callout Property (Excel)
 keywords: vbaxl10.chm636092
 f1_keywords:
 - vbaxl10.chm636092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Callout
 ms.assetid: 80c67ea9-7e55-9841-bbed-302cbd669ce5

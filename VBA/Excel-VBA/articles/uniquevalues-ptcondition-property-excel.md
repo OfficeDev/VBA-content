@@ -3,7 +3,7 @@ title: UniqueValues.PTCondition Property (Excel)
 keywords: vbaxl10.chm826086
 f1_keywords:
 - vbaxl10.chm826086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.PTCondition
 ms.assetid: eec0e953-7fc8-f701-0cae-79c566bf5ead

@@ -3,7 +3,7 @@ title: Slicer.Delete Method (Excel)
 keywords: vbaxl10.chm905089
 f1_keywords:
 - vbaxl10.chm905089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Delete
 ms.assetid: a3665f6c-dee8-342e-6558-05cf08a3db8b

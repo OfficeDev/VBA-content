@@ -3,7 +3,7 @@ title: WorksheetFunction.Fisher Method (Excel)
 keywords: vbaxl10.chm137187
 f1_keywords:
 - vbaxl10.chm137187
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Fisher
 ms.assetid: c7326a23-f9ea-76a8-d1c4-700962362cd0

@@ -3,7 +3,7 @@ title: SheetViews.Application Property (Excel)
 keywords: vbaxl10.chm791073
 f1_keywords:
 - vbaxl10.chm791073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SheetViews.Application
 ms.assetid: b515807e-c56e-e49a-3cab-0ece29255be8

@@ -3,7 +3,7 @@ title: Workbook.XmlMaps Property (Excel)
 keywords: vbaxl10.chm199225
 f1_keywords:
 - vbaxl10.chm199225
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.XmlMaps
 ms.assetid: c7893167-bfa1-e1df-58f3-782b80322fad

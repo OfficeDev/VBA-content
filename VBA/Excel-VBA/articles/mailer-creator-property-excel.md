@@ -3,7 +3,7 @@ title: Mailer.Creator Property (Excel)
 keywords: vbaxl10.chm498074
 f1_keywords:
 - vbaxl10.chm498074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Mailer.Creator
 ms.assetid: 126e19b4-d411-76dc-d9cf-fb33df449854

@@ -3,7 +3,7 @@ title: Looping Through a Range of Cells
 keywords: vbaxl10.chm5202755
 f1_keywords:
 - vbaxl10.chm5202755
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: ee134d2e-851d-eaaa-009a-90fff7db7517
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: PivotTable.SubtotalHiddenPageItems Property (Excel)
 keywords: vbaxl10.chm235118
 f1_keywords:
 - vbaxl10.chm235118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.SubtotalHiddenPageItems
 ms.assetid: bb3c7e54-1894-a1b6-e2d0-cf6097bd4875

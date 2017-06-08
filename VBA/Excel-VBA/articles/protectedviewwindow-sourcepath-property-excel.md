@@ -3,7 +3,7 @@ title: ProtectedViewWindow.SourcePath Property (Excel)
 keywords: vbaxl10.chm914082
 f1_keywords:
 - vbaxl10.chm914082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.SourcePath
 ms.assetid: add00cce-b8e9-5a11-b1cb-27ac63798491

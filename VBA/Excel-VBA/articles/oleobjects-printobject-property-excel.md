@@ -3,7 +3,7 @@ title: OLEObjects.PrintObject Property (Excel)
 keywords: vbaxl10.chm419086
 f1_keywords:
 - vbaxl10.chm419086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.PrintObject
 ms.assetid: 5ee7e741-0e34-f9f8-6bc9-25db6bbe2f01

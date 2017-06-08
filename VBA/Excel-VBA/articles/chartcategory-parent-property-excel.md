@@ -3,7 +3,7 @@ title: ChartCategory.Parent Property (Excel)
 keywords: vbaxl10.chm946073
 f1_keywords:
 - vbaxl10.chm946073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 746d957a-d3a6-1900-fbf0-6e9a2069e9ea
 ms.date: 06/08/2017
 ---

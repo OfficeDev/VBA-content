@@ -3,7 +3,7 @@ title: Comment.Text Method (Excel)
 keywords: vbaxl10.chm516076
 f1_keywords:
 - vbaxl10.chm516076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment.Text
 ms.assetid: 6a79c275-ba8e-799a-2e53-96347b1783a4

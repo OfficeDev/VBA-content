@@ -3,7 +3,7 @@ title: Workbook.SheetPivotTableUpdate Event (Excel)
 keywords: vbaxl10.chm503093
 f1_keywords:
 - vbaxl10.chm503093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetPivotTableUpdate
 ms.assetid: 0b37939a-28dd-ef8b-ea5e-fc3768f8979a

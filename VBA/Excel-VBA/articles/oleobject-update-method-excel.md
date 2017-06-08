@@ -3,7 +3,7 @@ title: OLEObject.Update Method (Excel)
 keywords: vbaxl10.chm417079
 f1_keywords:
 - vbaxl10.chm417079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Update
 ms.assetid: 7784b688-fef2-14b3-761a-df412dfa0282

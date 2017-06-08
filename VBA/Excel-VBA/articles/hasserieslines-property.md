@@ -3,7 +3,7 @@ title: HasSeriesLines Property
 keywords: vbagr10.chm65601
 f1_keywords:
 - vbagr10.chm65601
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasSeriesLines
 ms.assetid: fd101b78-4499-31bd-1243-47738c1eb00f

@@ -3,7 +3,7 @@ title: Scenario.Index Property (Excel)
 keywords: vbaxl10.chm364078
 f1_keywords:
 - vbaxl10.chm364078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenario.Index
 ms.assetid: 761fbedb-85d4-5381-063c-2331924db26e

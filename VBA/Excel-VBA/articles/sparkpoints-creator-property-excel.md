@@ -3,7 +3,7 @@ title: SparkPoints.Creator Property (Excel)
 keywords: vbaxl10.chm872074
 f1_keywords:
 - vbaxl10.chm872074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkPoints.Creator
 ms.assetid: 65ad69c7-3c71-f844-2cef-325d707a225d

@@ -3,7 +3,7 @@ title: Axis.MinimumScale Property (Excel)
 keywords: vbaxl10.chm561090
 f1_keywords:
 - vbaxl10.chm561090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MinimumScale
 ms.assetid: 31cfa07e-24a6-666f-7bb0-6bb5c139d4d9

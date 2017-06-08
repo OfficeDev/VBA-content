@@ -1,6 +1,6 @@
 ---
 title: XlCalculationState Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCalculationState
 ms.assetid: b0c7a454-e78f-17cc-4e5c-f7742a9857f6

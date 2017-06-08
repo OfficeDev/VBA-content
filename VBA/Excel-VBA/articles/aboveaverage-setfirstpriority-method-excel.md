@@ -3,7 +3,7 @@ title: AboveAverage.SetFirstPriority Method (Excel)
 keywords: vbaxl10.chm824082
 f1_keywords:
 - vbaxl10.chm824082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.SetFirstPriority
 ms.assetid: 4f9b02ff-232b-3dcb-239b-6ba7897366d0

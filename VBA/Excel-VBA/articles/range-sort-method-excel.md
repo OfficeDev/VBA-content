@@ -3,7 +3,7 @@ title: Range.Sort Method (Excel)
 keywords: vbaxl10.chm144200
 f1_keywords:
 - vbaxl10.chm144200
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Sort
 ms.assetid: ede52b2f-9025-fc83-9c16-f09c6b89c5c2

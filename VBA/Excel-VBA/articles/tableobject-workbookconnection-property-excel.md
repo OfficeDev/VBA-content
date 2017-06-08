@@ -3,7 +3,7 @@ title: TableObject.WorkbookConnection Property (Excel)
 keywords: vbaxl10.chm916086
 f1_keywords:
 - vbaxl10.chm916086
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b48ba66d-c5df-33d7-bb37-18f31618d4ad
 ms.date: 06/08/2017
 ---

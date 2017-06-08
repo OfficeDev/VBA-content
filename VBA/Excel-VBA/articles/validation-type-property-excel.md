@@ -3,7 +3,7 @@ title: Validation.Type Property (Excel)
 keywords: vbaxl10.chm532089
 f1_keywords:
 - vbaxl10.chm532089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Type
 ms.assetid: 77c7a82b-2bfc-3eff-9cef-4a0ea2ad7e13

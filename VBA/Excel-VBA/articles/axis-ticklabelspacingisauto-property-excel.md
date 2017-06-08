@@ -3,7 +3,7 @@ title: Axis.TickLabelSpacingIsAuto Property (Excel)
 keywords: vbaxl10.chm561118
 f1_keywords:
 - vbaxl10.chm561118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.TickLabelSpacingIsAuto
 ms.assetid: 3eee7ade-a60b-b3be-aee9-26361ab09738

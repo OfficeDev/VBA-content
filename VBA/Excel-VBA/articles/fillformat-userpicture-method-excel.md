@@ -3,7 +3,7 @@ title: FillFormat.UserPicture Method (Excel)
 keywords: vbaxl10.chm115009
 f1_keywords:
 - vbaxl10.chm115009
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.UserPicture
 ms.assetid: 2096768a-7836-8445-c959-73cf3672fd32

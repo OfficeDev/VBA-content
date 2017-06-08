@@ -1,6 +1,6 @@
 ---
 title: Working with Other Applications
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f6b24b5e-ed70-4798-be72-de312e699053
 ms.date: 06/08/2017
 ---

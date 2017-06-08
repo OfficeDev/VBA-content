@@ -3,7 +3,7 @@ title: Shape.Shadow Property (Excel)
 keywords: vbaxl10.chm636107
 f1_keywords:
 - vbaxl10.chm636107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Shadow
 ms.assetid: e44d59d4-5e85-3c78-b3a4-eabac9f2b86f

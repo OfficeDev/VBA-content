@@ -3,7 +3,7 @@ title: ValueChange.Tuple Property (Excel)
 keywords: vbaxl10.chm889076
 f1_keywords:
 - vbaxl10.chm889076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ValueChange.Tuple
 ms.assetid: 911c65e3-a15c-81b3-316b-155d2ff55ea4

@@ -3,7 +3,7 @@ title: Solid Method
 keywords: vbagr10.chm3077634
 f1_keywords:
 - vbagr10.chm3077634
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Solid
 ms.assetid: 34fcc8d7-df60-2bad-0674-a1b9819509f7

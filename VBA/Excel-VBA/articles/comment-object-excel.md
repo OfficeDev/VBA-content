@@ -3,7 +3,7 @@ title: Comment Object (Excel)
 keywords: vbaxl10.chm515072
 f1_keywords:
 - vbaxl10.chm515072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comment
 ms.assetid: 3627e9be-2a28-9dc5-c822-ad42857134e3

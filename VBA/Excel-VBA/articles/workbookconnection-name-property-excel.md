@@ -3,7 +3,7 @@ title: WorkbookConnection.Name Property (Excel)
 keywords: vbaxl10.chm774073
 f1_keywords:
 - vbaxl10.chm774073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Name
 ms.assetid: a4fcdda4-3ee3-bbb4-3747-3d4419667441

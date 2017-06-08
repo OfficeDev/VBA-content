@@ -3,7 +3,7 @@ title: TableStyleElement.Interior Property (Excel)
 keywords: vbaxl10.chm835074
 f1_keywords:
 - vbaxl10.chm835074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyleElement.Interior
 ms.assetid: 517486ad-abb6-3a10-1059-7494c137dc59

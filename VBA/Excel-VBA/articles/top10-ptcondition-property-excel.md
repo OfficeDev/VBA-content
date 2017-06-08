@@ -3,7 +3,7 @@ title: Top10.PTCondition Property (Excel)
 keywords: vbaxl10.chm822088
 f1_keywords:
 - vbaxl10.chm822088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.PTCondition
 ms.assetid: 70a73169-ca80-9566-2cbe-61e8dca87eb3

@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.NoTextRotation Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.NoTextRotation
 ms.assetid: ec749919-a096-bcdf-0400-3fc66bf4e2e9

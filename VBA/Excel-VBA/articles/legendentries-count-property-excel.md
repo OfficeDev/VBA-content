@@ -3,7 +3,7 @@ title: LegendEntries.Count Property (Excel)
 keywords: vbaxl10.chm588074
 f1_keywords:
 - vbaxl10.chm588074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntries.Count
 ms.assetid: 66fa1994-1a0e-dd70-c508-ee9ffe875388

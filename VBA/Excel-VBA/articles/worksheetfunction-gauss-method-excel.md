@@ -3,7 +3,7 @@ title: WorksheetFunction.Gauss Method (Excel)
 keywords: vbaxl10.chm137449
 f1_keywords:
 - vbaxl10.chm137449
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d957749a-0e48-e026-0962-872c1dcfd817
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Validation.Formula1 Property (Excel)
 keywords: vbaxl10.chm532083
 f1_keywords:
 - vbaxl10.chm532083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Formula1
 ms.assetid: a6d69fd0-231a-8eb7-4a31-67ac29e10efe

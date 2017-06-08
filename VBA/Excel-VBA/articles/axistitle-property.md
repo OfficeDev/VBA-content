@@ -3,7 +3,7 @@ title: AxisTitle Property
 keywords: vbagr10.chm65618
 f1_keywords:
 - vbagr10.chm65618
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle
 ms.assetid: 2fa829a9-e414-6826-32c5-27189b913409

@@ -3,7 +3,7 @@ title: PivotTableChangeList.Application Property (Excel)
 keywords: vbaxl10.chm890073
 f1_keywords:
 - vbaxl10.chm890073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Application
 ms.assetid: ff2e4c58-d3bf-ca06-ec93-e736c8f13f4c

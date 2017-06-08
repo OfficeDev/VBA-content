@@ -3,7 +3,7 @@ title: PageSetup Object (Excel)
 keywords: vbaxl10.chm472072
 f1_keywords:
 - vbaxl10.chm472072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup
 ms.assetid: 2fd22df9-5987-f723-04a9-9a3f2e84ac81

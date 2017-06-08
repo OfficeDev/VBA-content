@@ -3,7 +3,7 @@ title: QueryTable.AdjustColumnWidth Property (Excel)
 keywords: vbaxl10.chm518112
 f1_keywords:
 - vbaxl10.chm518112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.AdjustColumnWidth
 ms.assetid: 2901cc84-92d2-7021-2360-9c31dc1153b3

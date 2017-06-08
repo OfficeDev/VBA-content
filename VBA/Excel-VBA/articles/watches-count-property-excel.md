@@ -3,7 +3,7 @@ title: Watches.Count Property (Excel)
 keywords: vbaxl10.chm688074
 f1_keywords:
 - vbaxl10.chm688074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Watches.Count
 ms.assetid: e7ec6288-1f24-d755-bbe4-3cf73ea7c308

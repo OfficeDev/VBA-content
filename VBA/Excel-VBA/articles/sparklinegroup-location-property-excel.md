@@ -3,7 +3,7 @@ title: SparklineGroup.Location Property (Excel)
 keywords: vbaxl10.chm871076
 f1_keywords:
 - vbaxl10.chm871076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Location
 ms.assetid: 3548cc42-dbab-636f-0dcf-2f38ad4a2db5

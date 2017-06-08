@@ -3,7 +3,7 @@ title: WorksheetFunction.MRound Method (Excel)
 keywords: vbaxl10.chm137299
 f1_keywords:
 - vbaxl10.chm137299
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MRound
 ms.assetid: 66a8641e-3797-43a4-2b4e-a4c555391c72

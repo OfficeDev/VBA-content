@@ -3,7 +3,7 @@ title: Chart.Delete Method (Excel)
 keywords: vbaxl10.chm148075
 f1_keywords:
 - vbaxl10.chm148075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Delete
 ms.assetid: 700df0f8-8d85-d8dc-aaa6-c72dcd4a0277

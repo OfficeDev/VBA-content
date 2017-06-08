@@ -3,7 +3,7 @@ title: Worksheet.TransitionExpEval Property (Excel)
 keywords: vbaxl10.chm175073
 f1_keywords:
 - vbaxl10.chm175073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.TransitionExpEval
 ms.assetid: a92d8efb-5f19-4b41-11b2-a20b3ad5bf1d

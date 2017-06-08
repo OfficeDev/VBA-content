@@ -3,7 +3,7 @@ title: UserAccessList.Item Property (Excel)
 keywords: vbaxl10.chm726074
 f1_keywords:
 - vbaxl10.chm726074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserAccessList.Item
 ms.assetid: 03395dce-ae25-771e-688c-19f74fd70921

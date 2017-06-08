@@ -3,7 +3,7 @@ title: PivotLine.Position Property (Excel)
 keywords: vbaxl10.chm764074
 f1_keywords:
 - vbaxl10.chm764074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLine.Position
 ms.assetid: f2381c86-176e-9270-6157-5319dc2b8305

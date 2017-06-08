@@ -3,7 +3,7 @@ title: Protection.AllowFormattingColumns Property (Excel)
 keywords: vbaxl10.chm719074
 f1_keywords:
 - vbaxl10.chm719074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowFormattingColumns
 ms.assetid: 1cdfeea0-5c5e-1f6c-47c7-a351bb6745b7

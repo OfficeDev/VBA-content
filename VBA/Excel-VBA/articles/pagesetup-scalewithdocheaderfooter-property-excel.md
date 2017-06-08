@@ -3,7 +3,7 @@ title: PageSetup.ScaleWithDocHeaderFooter Property (Excel)
 keywords: vbaxl10.chm473114
 f1_keywords:
 - vbaxl10.chm473114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.ScaleWithDocHeaderFooter
 ms.assetid: bc3a0d8a-23fc-19cb-475f-78b0dbb5d1f3

@@ -3,7 +3,7 @@ title: Icon.Parent Property (Excel)
 keywords: vbaxl10.chm816073
 f1_keywords:
 - vbaxl10.chm816073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Icon.Parent
 ms.assetid: e7dc32a0-8cb2-d56b-e75b-bdf2c10cf846

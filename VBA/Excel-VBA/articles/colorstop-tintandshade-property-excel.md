@@ -3,7 +3,7 @@ title: ColorStop.TintAndShade Property (Excel)
 keywords: vbaxl10.chm851076
 f1_keywords:
 - vbaxl10.chm851076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStop.TintAndShade
 ms.assetid: 64602eee-9196-fa9b-9a09-e11a4433b4f3

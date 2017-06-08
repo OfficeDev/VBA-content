@@ -3,7 +3,7 @@ title: PageSetup.CenterFooter Property (Excel)
 keywords: vbaxl10.chm473075
 f1_keywords:
 - vbaxl10.chm473075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterFooter
 ms.assetid: ce0a5268-8620-216f-6a16-68733f1e9341

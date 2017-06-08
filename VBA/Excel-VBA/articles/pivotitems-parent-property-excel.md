@@ -3,7 +3,7 @@ title: PivotItems.Parent Property (Excel)
 keywords: vbaxl10.chm248073
 f1_keywords:
 - vbaxl10.chm248073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItems.Parent
 ms.assetid: 3a99094c-c874-8bd4-3d3c-7da485c18c67

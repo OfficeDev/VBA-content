@@ -1,6 +1,6 @@
 ---
 title: XlToolbarProtection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlToolbarProtection
 ms.assetid: 985069aa-bf4c-ffbe-1ac6-352494c52d9b

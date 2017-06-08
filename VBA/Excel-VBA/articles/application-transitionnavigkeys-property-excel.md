@@ -3,7 +3,7 @@ title: Application.TransitionNavigKeys Property (Excel)
 keywords: vbaxl10.chm133220
 f1_keywords:
 - vbaxl10.chm133220
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.TransitionNavigKeys
 ms.assetid: 261afa51-44f7-4527-9145-b542cc68d812

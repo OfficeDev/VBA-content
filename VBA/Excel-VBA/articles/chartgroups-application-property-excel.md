@@ -3,7 +3,7 @@ title: ChartGroups.Application Property (Excel)
 keywords: vbaxl10.chm569073
 f1_keywords:
 - vbaxl10.chm569073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroups.Application
 ms.assetid: 98a91dfa-263a-36f6-1c36-46c651feb539

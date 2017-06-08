@@ -1,6 +1,6 @@
 ---
 title: XlArrowHeadLength Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlArrowHeadLength
 ms.assetid: 4f16e587-2c10-7b22-07f1-1c2c43d15207

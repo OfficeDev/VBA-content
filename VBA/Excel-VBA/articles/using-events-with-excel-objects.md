@@ -3,7 +3,7 @@ title: Using Events with Excel Objects
 keywords: vbaxl10.chm5205782
 f1_keywords:
 - vbaxl10.chm5205782
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f5fac10f-17f4-2c8c-f39f-c2b616c8e895
 ms.date: 06/08/2017
 ---

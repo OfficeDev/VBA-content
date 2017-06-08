@@ -3,7 +3,7 @@ title: InsideHeight Property
 keywords: vbagr10.chm5207553
 f1_keywords:
 - vbagr10.chm5207553
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.InsideHeight
 ms.assetid: 02528324-3aaf-17b3-984d-96ab7b446d5a

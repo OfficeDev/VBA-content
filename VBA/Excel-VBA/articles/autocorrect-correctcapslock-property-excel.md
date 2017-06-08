@@ -3,7 +3,7 @@ title: AutoCorrect.CorrectCapsLock Property (Excel)
 keywords: vbaxl10.chm545080
 f1_keywords:
 - vbaxl10.chm545080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.CorrectCapsLock
 ms.assetid: 02a1944c-03fb-3727-b2d3-9da04f7e74a4

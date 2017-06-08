@@ -3,7 +3,7 @@ title: Floor.Parent Property (Excel)
 keywords: vbaxl10.chm612073
 f1_keywords:
 - vbaxl10.chm612073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor.Parent
 ms.assetid: f9bd1657-b572-fda5-34d4-50366321c478

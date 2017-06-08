@@ -3,7 +3,7 @@ title: Window.FreezePanes Property (Excel)
 keywords: vbaxl10.chm356092
 f1_keywords:
 - vbaxl10.chm356092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.FreezePanes
 ms.assetid: fd8c7b3b-4f70-72bd-68e4-a34442192a4e

@@ -3,7 +3,7 @@ title: GapDepth Property
 keywords: vbagr10.chm5207398
 f1_keywords:
 - vbagr10.chm5207398
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GapDepth
 ms.assetid: 0aa59fe6-29bf-c014-8c11-18481f9c5603

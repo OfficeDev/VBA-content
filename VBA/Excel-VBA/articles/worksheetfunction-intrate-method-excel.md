@@ -3,7 +3,7 @@ title: WorksheetFunction.IntRate Method (Excel)
 keywords: vbaxl10.chm137310
 f1_keywords:
 - vbaxl10.chm137310
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IntRate
 ms.assetid: cf5c96e2-6f5e-dcaa-7682-fd925c76d2c6

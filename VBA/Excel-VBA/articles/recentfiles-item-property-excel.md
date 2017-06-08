@@ -3,7 +3,7 @@ title: RecentFiles.Item Property (Excel)
 keywords: vbaxl10.chm172075
 f1_keywords:
 - vbaxl10.chm172075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFiles.Item
 ms.assetid: f153bdeb-6c13-2ea8-506a-2b762b211c67

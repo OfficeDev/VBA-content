@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.ContourColor Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ContourColor
 ms.assetid: 9941bad6-ab7d-1d51-a766-dda2ddf97f27

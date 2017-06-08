@@ -3,7 +3,7 @@ title: Sheets Object (Excel)
 keywords: vbaxl10.chm151072
 f1_keywords:
 - vbaxl10.chm151072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets
 ms.assetid: 048fd93c-bc27-4b58-358f-56fcee1710f8

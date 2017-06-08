@@ -3,7 +3,7 @@ title: FillFormat.Patterned Method (Excel)
 keywords: vbaxl10.chm115004
 f1_keywords:
 - vbaxl10.chm115004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.Patterned
 ms.assetid: 661426fa-ede7-8f15-29ed-42c283e50799

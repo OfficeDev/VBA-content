@@ -3,7 +3,7 @@ title: OLEObject.AutoLoad Property (Excel)
 keywords: vbaxl10.chm417074
 f1_keywords:
 - vbaxl10.chm417074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.AutoLoad
 ms.assetid: cf57d137-8b26-5f19-29a0-13e350cfd32a

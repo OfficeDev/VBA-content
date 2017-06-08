@@ -3,7 +3,7 @@ title: SeriesLines.Creator Property (Excel)
 keywords: vbaxl10.chm597074
 f1_keywords:
 - vbaxl10.chm597074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesLines.Creator
 ms.assetid: f42923f3-78a8-5573-a707-758a39d3c301

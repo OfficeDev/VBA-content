@@ -3,7 +3,7 @@ title: LegendKey.PictureType Property (Excel)
 keywords: vbaxl10.chm590086
 f1_keywords:
 - vbaxl10.chm590086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.PictureType
 ms.assetid: f911bbaf-6130-0a41-4245-75745470687b

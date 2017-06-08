@@ -3,7 +3,7 @@ title: Workbook.HighlightChangesOnScreen Property (Excel)
 keywords: vbaxl10.chm199173
 f1_keywords:
 - vbaxl10.chm199173
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.HighlightChangesOnScreen
 ms.assetid: 146f9a16-d32b-cc8f-fece-03864f0e13a2

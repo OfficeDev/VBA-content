@@ -3,7 +3,7 @@ title: Application.FindFile Method (Excel)
 keywords: vbaxl10.chm133256
 f1_keywords:
 - vbaxl10.chm133256
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FindFile
 ms.assetid: c4367047-0f7d-1bda-5103-f26eedd98e8a

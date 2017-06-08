@@ -3,7 +3,7 @@ title: Workbook.ChangeHistoryDuration Property (Excel)
 keywords: vbaxl10.chm199080
 f1_keywords:
 - vbaxl10.chm199080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ChangeHistoryDuration
 ms.assetid: 5ebc3cc5-dffa-60cf-08cb-b2f84424c4b4

@@ -3,7 +3,7 @@ title: PivotField.AutoShowCount Property (Excel)
 keywords: vbaxl10.chm240117
 f1_keywords:
 - vbaxl10.chm240117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowCount
 ms.assetid: bbf7d754-04b3-d729-cf44-994fdc62db16

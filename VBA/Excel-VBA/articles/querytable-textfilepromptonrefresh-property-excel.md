@@ -3,7 +3,7 @@ title: QueryTable.TextFilePromptOnRefresh Property (Excel)
 keywords: vbaxl10.chm518115
 f1_keywords:
 - vbaxl10.chm518115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFilePromptOnRefresh
 ms.assetid: 3fe619b9-2bc8-46f4-4e18-655e9cf5a61f

@@ -3,7 +3,7 @@ title: WebOptions.Encoding Property (Excel)
 keywords: vbaxl10.chm662082
 f1_keywords:
 - vbaxl10.chm662082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.Encoding
 ms.assetid: 99395ad8-4503-eac2-b194-6a4706e5264d

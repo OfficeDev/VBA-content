@@ -3,7 +3,7 @@ title: AutoRecover.Creator Property (Excel)
 keywords: vbaxl10.chm695074
 f1_keywords:
 - vbaxl10.chm695074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoRecover.Creator
 ms.assetid: 4c0849f0-e27d-de8f-0916-12ef450b10c9

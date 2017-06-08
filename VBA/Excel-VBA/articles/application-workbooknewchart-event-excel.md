@@ -3,7 +3,7 @@ title: Application.WorkbookNewChart Event (Excel)
 keywords: vbaxl10.chm504115
 f1_keywords:
 - vbaxl10.chm504115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookNewChart
 ms.assetid: 8456e472-6ea5-a916-10d6-f12afefb58fc

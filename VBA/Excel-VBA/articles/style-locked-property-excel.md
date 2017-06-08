@@ -3,7 +3,7 @@ title: Style.Locked Property (Excel)
 keywords: vbaxl10.chm177088
 f1_keywords:
 - vbaxl10.chm177088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Locked
 ms.assetid: f214ae7e-13d2-c1b3-8b5b-75d88638973a

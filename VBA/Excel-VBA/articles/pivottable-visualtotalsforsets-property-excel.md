@@ -3,7 +3,7 @@ title: PivotTable.VisualTotalsForSets Property (Excel)
 keywords: vbaxl10.chm235200
 f1_keywords:
 - vbaxl10.chm235200
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.VisualTotalsForSets
 ms.assetid: c4a01954-ab23-433b-1e82-8450e752251f

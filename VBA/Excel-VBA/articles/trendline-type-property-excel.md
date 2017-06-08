@@ -3,7 +3,7 @@ title: Trendline.Type Property (Excel)
 keywords: vbaxl10.chm594090
 f1_keywords:
 - vbaxl10.chm594090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Type
 ms.assetid: c07c060c-0512-72a7-c219-d12ea6b629fc

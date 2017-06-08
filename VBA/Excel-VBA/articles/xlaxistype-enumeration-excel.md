@@ -1,6 +1,6 @@
 ---
 title: XlAxisType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlAxisType
 ms.assetid: 4c8654a8-2268-3c1d-ea24-6c79153a69ec

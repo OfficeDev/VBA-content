@@ -3,7 +3,7 @@ title: SlicerCache.Parent Property (Excel)
 keywords: vbaxl10.chm896075
 f1_keywords:
 - vbaxl10.chm896075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.Parent
 ms.assetid: 77cd3061-b954-50ef-121f-51296dbfd3c8

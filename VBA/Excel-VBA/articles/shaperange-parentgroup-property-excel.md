@@ -3,7 +3,7 @@ title: ShapeRange.ParentGroup Property (Excel)
 keywords: vbaxl10.chm640131
 f1_keywords:
 - vbaxl10.chm640131
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.ParentGroup
 ms.assetid: b4e8b015-9380-734a-b7e3-74f73c5613fc

@@ -3,7 +3,7 @@ title: FileExportConverter.FileFormat Property (Excel)
 keywords: vbaxl10.chm863075
 f1_keywords:
 - vbaxl10.chm863075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FileExportConverter.FileFormat
 ms.assetid: cdf0a922-ae9e-76b1-c8e5-228298920373

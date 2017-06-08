@@ -3,7 +3,7 @@ title: Name.Name Property (Excel)
 keywords: vbaxl10.chm490079
 f1_keywords:
 - vbaxl10.chm490079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Name
 ms.assetid: eeebe875-b60d-7abe-df4e-8b56476b6b64

@@ -3,7 +3,7 @@ title: Workbook.PrecisionAsDisplayed Property (Excel)
 keywords: vbaxl10.chm199126
 f1_keywords:
 - vbaxl10.chm199126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.PrecisionAsDisplayed
 ms.assetid: 4f0c8201-5b8d-5cb5-337c-944d2c7dd8d1

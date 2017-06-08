@@ -3,7 +3,7 @@ title: Workbook.Colors Property (Excel)
 keywords: vbaxl10.chm199088
 f1_keywords:
 - vbaxl10.chm199088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Colors
 ms.assetid: 60fc038b-980b-c1bc-6d1c-69d9d31a11ba

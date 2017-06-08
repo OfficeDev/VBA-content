@@ -3,7 +3,7 @@ title: PivotFilters.Add Method (Excel)
 keywords: vbaxl10.chm772078
 f1_keywords:
 - vbaxl10.chm772078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilters.Add
 ms.assetid: bf3bb727-4c00-1f8e-5acd-af0b974cba5b

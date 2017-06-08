@@ -3,7 +3,7 @@ title: TextEffectFormat.FontBold Property (Excel)
 keywords: vbaxl10.chm118003
 f1_keywords:
 - vbaxl10.chm118003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.FontBold
 ms.assetid: 19773cce-32d3-b07f-4650-5a19a4aa469a

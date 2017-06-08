@@ -3,7 +3,7 @@ title: DisplayUnitLabel.ReadingOrder Property (Excel)
 keywords: vbaxl10.chm673089
 f1_keywords:
 - vbaxl10.chm673089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.ReadingOrder
 ms.assetid: fdb6d794-bf1d-2ce6-157a-2aac987c347d

@@ -3,7 +3,7 @@ title: Windows.Creator Property (Excel)
 keywords: vbaxl10.chm353074
 f1_keywords:
 - vbaxl10.chm353074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.Creator
 ms.assetid: f27724b1-4ce1-1b90-9aa3-704e491575f7

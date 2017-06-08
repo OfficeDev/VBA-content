@@ -3,7 +3,7 @@ title: Pane.LargeScroll Method (Excel)
 keywords: vbaxl10.chm360075
 f1_keywords:
 - vbaxl10.chm360075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.LargeScroll
 ms.assetid: e785bf52-d19b-a6e6-212b-0c5b5de88910

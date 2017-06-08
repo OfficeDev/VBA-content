@@ -3,7 +3,7 @@ title: Connections.AddFromFile Method (Excel)
 keywords: vbaxl10.chm776080
 f1_keywords:
 - vbaxl10.chm776080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Connections.AddFromFile
 ms.assetid: 24b13d14-6e5e-ee76-d4a9-79441647a803

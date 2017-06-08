@@ -3,7 +3,7 @@ title: TimelineViewState.ShowHorizontalScrollbar Property (Excel)
 keywords: vbaxl10.chm952076
 f1_keywords:
 - vbaxl10.chm952076
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d981bbe4-b274-39f3-90c2-66980f0ff658
 ms.date: 06/08/2017
 ---

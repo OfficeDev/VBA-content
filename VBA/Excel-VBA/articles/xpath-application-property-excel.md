@@ -3,7 +3,7 @@ title: XPath.Application Property (Excel)
 keywords: vbaxl10.chm759073
 f1_keywords:
 - vbaxl10.chm759073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XPath.Application
 ms.assetid: f22f8f93-6bcf-2691-6848-674ca301cb96

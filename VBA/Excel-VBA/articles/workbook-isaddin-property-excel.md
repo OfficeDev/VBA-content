@@ -3,7 +3,7 @@ title: Workbook.IsAddin Property (Excel)
 keywords: vbaxl10.chm199106
 f1_keywords:
 - vbaxl10.chm199106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.IsAddin
 ms.assetid: b8c8b9f4-4be5-0260-957e-c6450f31a0c0

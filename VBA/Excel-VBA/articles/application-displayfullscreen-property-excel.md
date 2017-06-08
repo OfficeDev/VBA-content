@@ -3,7 +3,7 @@ title: Application.DisplayFullScreen Property (Excel)
 keywords: vbaxl10.chm133121
 f1_keywords:
 - vbaxl10.chm133121
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayFullScreen
 ms.assetid: b42708ea-a273-c38a-5a61-d15e26c14fed

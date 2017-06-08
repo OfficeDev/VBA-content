@@ -3,7 +3,7 @@ title: Range.ColumnWidth Property (Excel)
 keywords: vbaxl10.chm144102
 f1_keywords:
 - vbaxl10.chm144102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ColumnWidth
 ms.assetid: a6364bb1-2e3d-07d6-20e4-c9fa8f7c5ad3

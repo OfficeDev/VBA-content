@@ -3,7 +3,7 @@ title: Paste Method
 keywords: vbagr10.chm5207755
 f1_keywords:
 - vbagr10.chm5207755
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Paste
 ms.assetid: 4cb4fa45-b319-f3a8-e477-80b96060905b

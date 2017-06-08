@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.BevelTopType Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelTopType
 ms.assetid: 1fa1b3d7-7664-2f33-219b-5128fedb23c8

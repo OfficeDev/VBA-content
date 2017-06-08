@@ -3,7 +3,7 @@ title: QueryTable.RefreshPeriod Property (Excel)
 keywords: vbaxl10.chm518120
 f1_keywords:
 - vbaxl10.chm518120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.RefreshPeriod
 ms.assetid: 763c4793-9470-8c0e-3111-d0a0f02948b4

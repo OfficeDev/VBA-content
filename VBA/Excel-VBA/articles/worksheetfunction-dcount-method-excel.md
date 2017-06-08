@@ -3,7 +3,7 @@ title: WorksheetFunction.DCount Method (Excel)
 keywords: vbaxl10.chm137094
 f1_keywords:
 - vbaxl10.chm137094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DCount
 ms.assetid: 02b489ef-dd7c-4f10-2ba4-972314a45eb4

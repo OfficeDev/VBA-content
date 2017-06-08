@@ -3,7 +3,7 @@ title: Application.ShowDevTools Property (Excel)
 keywords: vbaxl10.chm133301
 f1_keywords:
 - vbaxl10.chm133301
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ShowDevTools
 ms.assetid: de2c027f-cab2-f860-33aa-6c5fc63a5f73

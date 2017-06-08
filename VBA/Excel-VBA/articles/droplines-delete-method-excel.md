@@ -3,7 +3,7 @@ title: DropLines.Delete Method (Excel)
 keywords: vbaxl10.chm604077
 f1_keywords:
 - vbaxl10.chm604077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DropLines.Delete
 ms.assetid: c02ab83f-498b-8358-b840-b369fb1b6c1b

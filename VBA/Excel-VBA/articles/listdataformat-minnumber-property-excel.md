@@ -3,7 +3,7 @@ title: ListDataFormat.MinNumber Property (Excel)
 keywords: vbaxl10.chm758081
 f1_keywords:
 - vbaxl10.chm758081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.MinNumber
 ms.assetid: 97d5cc98-ab65-7355-0a54-3b48d7b15cf5

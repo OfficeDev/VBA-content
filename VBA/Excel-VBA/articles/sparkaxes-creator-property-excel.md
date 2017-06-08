@@ -3,7 +3,7 @@ title: SparkAxes.Creator Property (Excel)
 keywords: vbaxl10.chm876074
 f1_keywords:
 - vbaxl10.chm876074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkAxes.Creator
 ms.assetid: a5a60f1d-acb4-18f2-178a-4a71338ad606

@@ -3,7 +3,7 @@ title: XPath.Parent Property (Excel)
 keywords: vbaxl10.chm759075
 f1_keywords:
 - vbaxl10.chm759075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XPath.Parent
 ms.assetid: 6dae847f-a75e-4199-4f42-c37a89e49db1

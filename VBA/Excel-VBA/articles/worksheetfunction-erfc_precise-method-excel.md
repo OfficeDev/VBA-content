@@ -3,7 +3,7 @@ title: WorksheetFunction.ErfC_Precise Method (Excel)
 keywords: vbaxl10.chm137417
 f1_keywords:
 - vbaxl10.chm137417
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ErfC_Precise
 ms.assetid: 7ea46b1f-22cb-85e7-eda3-c283c2aa98cb

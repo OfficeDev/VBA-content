@@ -3,7 +3,7 @@ title: PivotItem.SourceNameStandard Property (Excel)
 keywords: vbaxl10.chm246093
 f1_keywords:
 - vbaxl10.chm246093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItem.SourceNameStandard
 ms.assetid: f8e25ad0-7a97-c19c-85b5-bf25e3553ca8

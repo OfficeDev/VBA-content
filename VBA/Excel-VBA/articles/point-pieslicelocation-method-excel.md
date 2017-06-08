@@ -3,7 +3,7 @@ title: Point.PieSliceLocation Method (Excel)
 keywords: vbaxl10.chm576109
 f1_keywords:
 - vbaxl10.chm576109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.PieSliceLocation
 ms.assetid: 90a318d4-0ad2-d326-c26b-3c965b1ffe43

@@ -1,6 +1,6 @@
 ---
 title: XlMouseButton Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlMouseButton
 ms.assetid: 52c5ae78-b59f-5ab7-88b4-2d7c0bb8b315

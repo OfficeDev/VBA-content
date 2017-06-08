@@ -1,6 +1,6 @@
 ---
 title: XlInsertShiftDirection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlInsertShiftDirection
 ms.assetid: aa30a7b2-25a9-5c32-04f5-2b417e67ac45

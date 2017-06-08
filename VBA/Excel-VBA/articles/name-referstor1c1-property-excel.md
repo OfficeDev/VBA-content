@@ -3,7 +3,7 @@ title: Name.RefersToR1C1 Property (Excel)
 keywords: vbaxl10.chm490086
 f1_keywords:
 - vbaxl10.chm490086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.RefersToR1C1
 ms.assetid: 6661dc25-44cd-ac43-9347-93ed7583c9b1

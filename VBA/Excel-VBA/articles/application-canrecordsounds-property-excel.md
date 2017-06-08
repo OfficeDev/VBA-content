@@ -3,7 +3,7 @@ title: Application.CanRecordSounds Property (Excel)
 keywords: vbaxl10.chm133087
 f1_keywords:
 - vbaxl10.chm133087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CanRecordSounds
 ms.assetid: a2175b38-ee89-2e92-ffaa-c550115e319b

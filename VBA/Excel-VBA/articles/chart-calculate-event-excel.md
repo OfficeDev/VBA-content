@@ -3,7 +3,7 @@ title: Chart.Calculate Event (Excel)
 keywords: vbaxl10.chm500085
 f1_keywords:
 - vbaxl10.chm500085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Calculate
 ms.assetid: 5510a6e9-5038-9bd2-8f7b-aa75427f48d4

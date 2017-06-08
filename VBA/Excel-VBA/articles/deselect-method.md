@@ -3,7 +3,7 @@ title: Deselect Method
 keywords: vbagr10.chm66656
 f1_keywords:
 - vbagr10.chm66656
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Deselect
 ms.assetid: 928e8efa-4b6a-a1ea-2520-615354c8538a

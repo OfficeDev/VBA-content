@@ -3,7 +3,7 @@ title: Adjustments.Item Property (Excel)
 keywords: vbaxl10.chm103003
 f1_keywords:
 - vbaxl10.chm103003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Adjustments.Item
 ms.assetid: b3f3a20c-3ef0-48be-411a-dfb08758684d

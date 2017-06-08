@@ -3,7 +3,7 @@ title: PivotTable.DataLabelRange Property (Excel)
 keywords: vbaxl10.chm235080
 f1_keywords:
 - vbaxl10.chm235080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.DataLabelRange
 ms.assetid: 9a4a6ee0-f918-2dd3-f423-e5ced6fdba20

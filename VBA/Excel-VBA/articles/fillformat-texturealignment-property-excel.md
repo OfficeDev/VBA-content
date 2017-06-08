@@ -1,6 +1,6 @@
 ---
 title: FillFormat.TextureAlignment Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureAlignment
 ms.assetid: a22b4256-15fd-5650-3e42-c6b0ecb10776

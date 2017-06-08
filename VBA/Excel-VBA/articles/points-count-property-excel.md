@@ -3,7 +3,7 @@ title: Points.Count Property (Excel)
 keywords: vbaxl10.chm574074
 f1_keywords:
 - vbaxl10.chm574074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Points.Count
 ms.assetid: de5e00b7-6f41-ee14-45cc-fd9f99754622

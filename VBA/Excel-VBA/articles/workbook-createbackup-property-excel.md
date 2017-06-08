@@ -3,7 +3,7 @@ title: Workbook.CreateBackup Property (Excel)
 keywords: vbaxl10.chm199093
 f1_keywords:
 - vbaxl10.chm199093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.CreateBackup
 ms.assetid: 33f05bf8-00ef-81f4-c083-30326f019cd4

@@ -3,7 +3,7 @@ title: QueryTable.Sort Property (Excel)
 keywords: vbaxl10.chm518139
 f1_keywords:
 - vbaxl10.chm518139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Sort
 ms.assetid: 92f268ef-507f-a565-be42-abea73c381a2

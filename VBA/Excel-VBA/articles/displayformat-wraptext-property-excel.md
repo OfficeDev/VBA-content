@@ -3,7 +3,7 @@ title: DisplayFormat.WrapText Property (Excel)
 keywords: vbaxl10.chm893090
 f1_keywords:
 - vbaxl10.chm893090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.WrapText
 ms.assetid: 993b713c-5250-fb4a-89b3-40ccc7a0ce7f

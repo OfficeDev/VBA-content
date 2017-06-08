@@ -3,7 +3,7 @@ title: Shapes.Parent Property (Excel)
 keywords: vbaxl10.chm637075
 f1_keywords:
 - vbaxl10.chm637075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.Parent
 ms.assetid: 68b8a251-42af-75ed-20ed-0fc4da492605

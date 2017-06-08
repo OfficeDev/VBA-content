@@ -3,7 +3,7 @@ title: AutoFilter.ShowAllData Method (Excel)
 keywords: vbaxl10.chm538078
 f1_keywords:
 - vbaxl10.chm538078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoFilter.ShowAllData
 ms.assetid: eaa22047-f394-4e93-d31c-544ca8373b95

@@ -3,7 +3,7 @@ title: ODBCConnection.CancelRefresh Method (Excel)
 keywords: vbaxl10.chm796074
 f1_keywords:
 - vbaxl10.chm796074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.CancelRefresh
 ms.assetid: 8eafa6de-0c3f-3408-cb69-79d92e254c29

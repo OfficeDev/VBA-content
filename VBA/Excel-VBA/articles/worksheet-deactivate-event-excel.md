@@ -3,7 +3,7 @@ title: Worksheet.Deactivate Event (Excel)
 keywords: vbaxl10.chm502077
 f1_keywords:
 - vbaxl10.chm502077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Deactivate
 ms.assetid: 3f66b86b-d0f0-bdc0-594c-3eb9faa44ff2

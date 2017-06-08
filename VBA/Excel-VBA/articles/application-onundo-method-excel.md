@@ -3,7 +3,7 @@ title: Application.OnUndo Method (Excel)
 keywords: vbaxl10.chm133185
 f1_keywords:
 - vbaxl10.chm133185
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.OnUndo
 ms.assetid: 12e59bbb-e134-3728-7c8d-629dcda0e908

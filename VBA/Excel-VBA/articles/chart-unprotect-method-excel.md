@@ -3,7 +3,7 @@ title: Chart.Unprotect Method (Excel)
 keywords: vbaxl10.chm148095
 f1_keywords:
 - vbaxl10.chm148095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Unprotect
 ms.assetid: 59a367bd-037b-84aa-5b2f-d532614ed347

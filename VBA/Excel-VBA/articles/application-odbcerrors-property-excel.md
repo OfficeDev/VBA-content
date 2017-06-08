@@ -3,7 +3,7 @@ title: Application.ODBCErrors Property (Excel)
 keywords: vbaxl10.chm133174
 f1_keywords:
 - vbaxl10.chm133174
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ODBCErrors
 ms.assetid: 47caef7a-fd3c-f67f-09c1-5ac21d65b67f

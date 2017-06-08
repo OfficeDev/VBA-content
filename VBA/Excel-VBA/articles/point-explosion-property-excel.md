@@ -3,7 +3,7 @@ title: Point.Explosion Property (Excel)
 keywords: vbaxl10.chm576080
 f1_keywords:
 - vbaxl10.chm576080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Explosion
 ms.assetid: b6b557c3-d41b-d496-4093-336ec07fb575

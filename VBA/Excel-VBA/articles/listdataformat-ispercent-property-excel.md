@@ -3,7 +3,7 @@ title: ListDataFormat.IsPercent Property (Excel)
 keywords: vbaxl10.chm758077
 f1_keywords:
 - vbaxl10.chm758077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.IsPercent
 ms.assetid: 34154cf9-358a-0db9-4b93-fe3b3f2b8dce

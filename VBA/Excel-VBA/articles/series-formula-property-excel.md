@@ -3,7 +3,7 @@ title: Series.Formula Property (Excel)
 keywords: vbaxl10.chm578084
 f1_keywords:
 - vbaxl10.chm578084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Formula
 ms.assetid: c3b75251-55c0-150f-6a41-94d7f6444520

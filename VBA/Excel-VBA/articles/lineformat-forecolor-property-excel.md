@@ -3,7 +3,7 @@ title: LineFormat.ForeColor Property (Excel)
 keywords: vbaxl10.chm110010
 f1_keywords:
 - vbaxl10.chm110010
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat.ForeColor
 ms.assetid: f7ba03c1-598e-3ee7-0ff6-e1d2446aba14

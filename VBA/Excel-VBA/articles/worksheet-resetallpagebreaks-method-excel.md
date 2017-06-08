@@ -3,7 +3,7 @@ title: Worksheet.ResetAllPageBreaks Method (Excel)
 keywords: vbaxl10.chm175101
 f1_keywords:
 - vbaxl10.chm175101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.ResetAllPageBreaks
 ms.assetid: caebf657-3c5b-e465-43e0-88aa3250ba2a

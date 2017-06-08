@@ -3,7 +3,7 @@ title: QueryTable.Refreshing Property (Excel)
 keywords: vbaxl10.chm518079
 f1_keywords:
 - vbaxl10.chm518079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Refreshing
 ms.assetid: 7b89fbec-3365-5b23-1b21-da3b0145d9bc

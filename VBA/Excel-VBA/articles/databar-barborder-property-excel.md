@@ -3,7 +3,7 @@ title: Databar.BarBorder Property (Excel)
 keywords: vbaxl10.chm810094
 f1_keywords:
 - vbaxl10.chm810094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.BarBorder
 ms.assetid: d573e56e-cd02-c67e-ace8-8e8bdf2efd00

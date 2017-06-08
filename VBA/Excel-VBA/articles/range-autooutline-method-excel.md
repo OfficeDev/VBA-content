@@ -3,7 +3,7 @@ title: Range.AutoOutline Method (Excel)
 keywords: vbaxl10.chm144087
 f1_keywords:
 - vbaxl10.chm144087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.AutoOutline
 ms.assetid: a2553695-6d45-9b7c-7c45-5255fa3641f0

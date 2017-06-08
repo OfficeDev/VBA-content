@@ -3,7 +3,7 @@ title: WorksheetFunction.FVSchedule Method (Excel)
 keywords: vbaxl10.chm137352
 f1_keywords:
 - vbaxl10.chm137352
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FVSchedule
 ms.assetid: 5a64322c-24b0-baa2-a355-c414fcbe161c

@@ -3,7 +3,7 @@ title: WorksheetFunction.ChiSq_Dist Method (Excel)
 keywords: vbaxl10.chm137398
 f1_keywords:
 - vbaxl10.chm137398
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiSq_Dist
 ms.assetid: be655878-fdb2-7b04-0a9b-6d39652b7e77

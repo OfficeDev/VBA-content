@@ -3,7 +3,7 @@ title: WorksheetFunction.Pmt Method (Excel)
 keywords: vbaxl10.chm137110
 f1_keywords:
 - vbaxl10.chm137110
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Pmt
 ms.assetid: ef383e8e-7fca-2818-cdaa-d758f2e8536d

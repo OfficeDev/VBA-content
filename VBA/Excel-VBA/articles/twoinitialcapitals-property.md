@@ -3,7 +3,7 @@ title: TwoInitialCapitals Property
 keywords: vbagr10.chm5208088
 f1_keywords:
 - vbagr10.chm5208088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TwoInitialCapitals
 ms.assetid: cf6931c7-11ee-77b0-feb2-e047f7cb58e6

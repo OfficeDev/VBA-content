@@ -1,6 +1,6 @@
 ---
 title: OLE DB for OLAP Properties Used by Excel
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 5caa2240-1f7b-08d7-c87b-ec30f3bcb441
 ms.date: 06/08/2017
 ---

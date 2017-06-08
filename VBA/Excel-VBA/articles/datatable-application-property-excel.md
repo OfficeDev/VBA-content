@@ -3,7 +3,7 @@ title: DataTable.Application Property (Excel)
 keywords: vbaxl10.chm625073
 f1_keywords:
 - vbaxl10.chm625073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataTable.Application
 ms.assetid: 0bc376d3-bf52-5b23-c737-60dc5b3bf899

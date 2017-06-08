@@ -3,7 +3,7 @@ title: Point.Delete Method (Excel)
 keywords: vbaxl10.chm576079
 f1_keywords:
 - vbaxl10.chm576079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Delete
 ms.assetid: cc2c7d0b-5599-ba03-89df-6b8fee02bfe0

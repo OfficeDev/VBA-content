@@ -3,7 +3,7 @@ title: Mailer.Application Property (Excel)
 keywords: vbaxl10.chm498073
 f1_keywords:
 - vbaxl10.chm498073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Mailer.Application
 ms.assetid: 1f4b0c93-73d1-086b-18ae-3b9de921d3cc

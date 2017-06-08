@@ -3,7 +3,7 @@ title: Style.Interior Property (Excel)
 keywords: vbaxl10.chm177087
 f1_keywords:
 - vbaxl10.chm177087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Interior
 ms.assetid: 479d3850-41c4-2381-3b17-9e48ab5e6cac

@@ -1,6 +1,6 @@
 ---
 title: XlBorderWeight Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlBorderWeight
 ms.assetid: 44dd8e9d-144f-d208-1f62-ddb264933440

@@ -3,7 +3,7 @@ title: CalloutFormat.Length Property (Excel)
 keywords: vbaxl10.chm104014
 f1_keywords:
 - vbaxl10.chm104014
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Length
 ms.assetid: e17dacaa-f48f-8802-3912-f84a0e4dd8ca

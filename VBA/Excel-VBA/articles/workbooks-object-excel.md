@@ -3,7 +3,7 @@ title: Workbooks Object (Excel)
 keywords: vbaxl10.chm202072
 f1_keywords:
 - vbaxl10.chm202072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbooks
 ms.assetid: f768da57-013a-e652-0f5d-60b03aa4240a

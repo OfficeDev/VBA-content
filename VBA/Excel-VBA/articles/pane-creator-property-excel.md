@@ -3,7 +3,7 @@ title: Pane.Creator Property (Excel)
 keywords: vbaxl10.chm359074
 f1_keywords:
 - vbaxl10.chm359074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.Creator
 ms.assetid: 600f4ae4-8fb6-c81e-c29c-654f72235bc1

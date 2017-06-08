@@ -3,7 +3,7 @@ title: Application.LanguageSettings Property (Excel)
 keywords: vbaxl10.chm133251
 f1_keywords:
 - vbaxl10.chm133251
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.LanguageSettings
 ms.assetid: 631879d9-f43f-4985-32d0-77bf314956eb

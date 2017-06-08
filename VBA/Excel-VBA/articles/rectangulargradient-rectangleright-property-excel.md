@@ -3,7 +3,7 @@ title: RectangularGradient.RectangleRight Property (Excel)
 keywords: vbaxl10.chm857077
 f1_keywords:
 - vbaxl10.chm857077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RectangularGradient.RectangleRight
 ms.assetid: 97d581d7-6cba-fe3a-8af8-a453c347b1df

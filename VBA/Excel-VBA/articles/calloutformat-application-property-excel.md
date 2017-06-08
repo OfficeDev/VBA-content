@@ -1,6 +1,6 @@
 ---
 title: CalloutFormat.Application Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Application
 ms.assetid: 7fd1dc42-b429-4578-63fe-f26b1423c743

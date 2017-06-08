@@ -3,7 +3,7 @@ title: PivotFilters.Count Property (Excel)
 keywords: vbaxl10.chm772076
 f1_keywords:
 - vbaxl10.chm772076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilters.Count
 ms.assetid: a7db4014-5aba-e9fc-d752-fbc3c9c46fa6

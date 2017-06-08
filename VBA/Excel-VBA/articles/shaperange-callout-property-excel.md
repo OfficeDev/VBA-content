@@ -3,7 +3,7 @@ title: ShapeRange.Callout Property (Excel)
 keywords: vbaxl10.chm640099
 f1_keywords:
 - vbaxl10.chm640099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Callout
 ms.assetid: 15078411-7968-27ba-aa73-2c5d69220b08

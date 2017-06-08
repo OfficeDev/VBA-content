@@ -3,7 +3,7 @@ title: ChartTitle.Name Property (Excel)
 keywords: vbaxl10.chm563074
 f1_keywords:
 - vbaxl10.chm563074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Name
 ms.assetid: 7fd62a31-677e-d25f-df62-b42c28e6b635

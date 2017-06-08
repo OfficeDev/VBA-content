@@ -3,7 +3,7 @@ title: Application.CellDragAndDrop Property (Excel)
 keywords: vbaxl10.chm133089
 f1_keywords:
 - vbaxl10.chm133089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CellDragAndDrop
 ms.assetid: da10e4ce-905b-5cc3-75ff-e3248cdf6391

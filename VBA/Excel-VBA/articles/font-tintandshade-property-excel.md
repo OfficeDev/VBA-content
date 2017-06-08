@@ -3,7 +3,7 @@ title: Font.TintAndShade Property (Excel)
 keywords: vbaxl10.chm559088
 f1_keywords:
 - vbaxl10.chm559088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.TintAndShade
 ms.assetid: 0b890357-fb55-ac43-ecf0-f7d84ce0f248

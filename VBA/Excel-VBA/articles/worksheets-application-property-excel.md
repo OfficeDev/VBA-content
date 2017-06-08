@@ -3,7 +3,7 @@ title: Worksheets.Application Property (Excel)
 keywords: vbaxl10.chm469073
 f1_keywords:
 - vbaxl10.chm469073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheets.Application
 ms.assetid: dcedaaf2-280e-9661-9576-0bf90df8d9a1

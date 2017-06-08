@@ -3,7 +3,7 @@ title: HasDisplayUnitLabel Property
 keywords: vbagr10.chm5241529
 f1_keywords:
 - vbagr10.chm5241529
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasDisplayUnitLabel
 ms.assetid: 5093286f-53ff-3c56-d047-7b6a92d2b7d6

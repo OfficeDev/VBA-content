@@ -3,7 +3,7 @@ title: Speech.Direction Property (Excel)
 keywords: vbaxl10.chm718074
 f1_keywords:
 - vbaxl10.chm718074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Speech.Direction
 ms.assetid: 8cbedcb3-2d91-b9c1-c1ae-6f06cd8d442b

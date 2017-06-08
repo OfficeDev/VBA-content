@@ -3,7 +3,7 @@ title: Workbook.HasVBProject Property (Excel)
 keywords: vbaxl10.chm199250
 f1_keywords:
 - vbaxl10.chm199250
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.HasVBProject
 ms.assetid: b4293266-40d9-a8a4-80ff-8b19ec7ed823

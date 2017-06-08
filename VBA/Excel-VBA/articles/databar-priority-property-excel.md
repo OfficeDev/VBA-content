@@ -3,7 +3,7 @@ title: Databar.Priority Property (Excel)
 keywords: vbaxl10.chm810073
 f1_keywords:
 - vbaxl10.chm810073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.Priority
 ms.assetid: 5d7340f6-675f-5c5a-785f-2bb97dcc9ab0

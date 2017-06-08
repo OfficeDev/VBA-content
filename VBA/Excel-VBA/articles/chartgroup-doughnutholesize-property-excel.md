@@ -3,7 +3,7 @@ title: ChartGroup.DoughnutHoleSize Property (Excel)
 keywords: vbaxl10.chm568074
 f1_keywords:
 - vbaxl10.chm568074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.DoughnutHoleSize
 ms.assetid: d7c2cfbe-209b-2276-1245-2ddc31c1f93d

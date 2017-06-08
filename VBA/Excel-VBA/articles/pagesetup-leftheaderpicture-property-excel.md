@@ -3,7 +3,7 @@ title: PageSetup.LeftHeaderPicture Property (Excel)
 keywords: vbaxl10.chm473108
 f1_keywords:
 - vbaxl10.chm473108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.LeftHeaderPicture
 ms.assetid: 1dadb662-c93c-5fdb-ffef-24978284d35a

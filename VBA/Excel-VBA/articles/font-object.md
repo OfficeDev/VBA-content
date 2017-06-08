@@ -3,7 +3,7 @@ title: Font Object
 keywords: vbagr10.chm131085
 f1_keywords:
 - vbagr10.chm131085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font
 ms.assetid: 0510e805-48fd-7148-edee-d65dc59f34b4

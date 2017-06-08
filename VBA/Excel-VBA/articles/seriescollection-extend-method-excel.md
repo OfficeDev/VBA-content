@@ -3,7 +3,7 @@ title: SeriesCollection.Extend Method (Excel)
 keywords: vbaxl10.chm580076
 f1_keywords:
 - vbaxl10.chm580076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Extend
 ms.assetid: 85f2658f-b7b3-e086-da27-5127f1ea4ff7

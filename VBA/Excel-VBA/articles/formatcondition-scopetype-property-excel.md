@@ -3,7 +3,7 @@ title: FormatCondition.ScopeType Property (Excel)
 keywords: vbaxl10.chm512094
 f1_keywords:
 - vbaxl10.chm512094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.ScopeType
 ms.assetid: 104b7fef-9f9b-8a00-78ba-b2f2f9cd6dea

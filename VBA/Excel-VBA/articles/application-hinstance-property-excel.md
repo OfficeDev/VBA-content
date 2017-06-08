@@ -3,7 +3,7 @@ title: Application.Hinstance Property (Excel)
 keywords: vbaxl10.chm133278
 f1_keywords:
 - vbaxl10.chm133278
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Hinstance
 ms.assetid: 4551a0a2-0730-1288-7a13-b2beff2a2fca

@@ -3,7 +3,7 @@ title: PivotCaches.Application Property (Excel)
 keywords: vbaxl10.chm228073
 f1_keywords:
 - vbaxl10.chm228073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Application
 ms.assetid: ecb75841-40c1-10ea-5340-3af98c21f05f

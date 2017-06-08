@@ -3,7 +3,7 @@ title: Shape.ConnectionSiteCount Property (Excel)
 keywords: vbaxl10.chm636093
 f1_keywords:
 - vbaxl10.chm636093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.ConnectionSiteCount
 ms.assetid: a1ee6e8f-7e3d-4ef8-49e8-e4c328e4fff1

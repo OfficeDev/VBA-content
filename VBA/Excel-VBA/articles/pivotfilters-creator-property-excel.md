@@ -3,7 +3,7 @@ title: PivotFilters.Creator Property (Excel)
 keywords: vbaxl10.chm771074
 f1_keywords:
 - vbaxl10.chm771074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilters.Creator
 ms.assetid: f20c1952-90de-3d14-5d31-77f44ce24767

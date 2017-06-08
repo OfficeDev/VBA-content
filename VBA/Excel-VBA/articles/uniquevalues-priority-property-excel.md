@@ -3,7 +3,7 @@ title: UniqueValues.Priority Property (Excel)
 keywords: vbaxl10.chm826073
 f1_keywords:
 - vbaxl10.chm826073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.Priority
 ms.assetid: c966b2b0-76ed-4ff4-0abc-950ffc7209e1

@@ -3,7 +3,7 @@ title: PivotTable.ColumnFields Property (Excel)
 keywords: vbaxl10.chm235074
 f1_keywords:
 - vbaxl10.chm235074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ColumnFields
 ms.assetid: caae2016-e213-31f0-5ce7-fd8593ad4266

@@ -3,7 +3,7 @@ title: ListObject.Refresh Method (Excel)
 keywords: vbaxl10.chm734075
 f1_keywords:
 - vbaxl10.chm734075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.Refresh
 ms.assetid: 7827a116-0ba4-9855-e0e9-550a85d36ed3

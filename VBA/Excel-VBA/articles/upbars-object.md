@@ -3,7 +3,7 @@ title: UpBars Object
 keywords: vbagr10.chm5208101
 f1_keywords:
 - vbagr10.chm5208101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UpBars
 ms.assetid: 635f449d-eb8b-2026-e1a7-9472f33641cc

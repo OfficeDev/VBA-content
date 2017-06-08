@@ -3,7 +3,7 @@ title: PivotLayout.Creator Property (Excel)
 keywords: vbaxl10.chm663074
 f1_keywords:
 - vbaxl10.chm663074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLayout.Creator
 ms.assetid: 0cbe7f15-997c-c395-879d-64aa43dff05d

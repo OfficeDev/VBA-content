@@ -3,7 +3,7 @@ title: UpBars.Format Property (Excel)
 keywords: vbaxl10.chm608080
 f1_keywords:
 - vbaxl10.chm608080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UpBars.Format
 ms.assetid: 4bde3bb7-1c52-99c3-919a-92628b80380c

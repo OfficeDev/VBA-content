@@ -3,7 +3,7 @@ title: Worksheet.FollowHyperlink Event (Excel)
 keywords: vbaxl10.chm502080
 f1_keywords:
 - vbaxl10.chm502080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.FollowHyperlink
 ms.assetid: c63eec19-008e-bfb5-1357-3d02426c1bab

@@ -3,7 +3,7 @@ title: WorksheetFunction.Clean Method (Excel)
 keywords: vbaxl10.chm137136
 f1_keywords:
 - vbaxl10.chm137136
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Clean
 ms.assetid: ac5de21a-b087-ebd7-764b-1644475cd2a9

@@ -3,7 +3,7 @@ title: Workbook.EnableConnections Method (Excel)
 keywords: vbaxl10.chm199258
 f1_keywords:
 - vbaxl10.chm199258
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.EnableConnections
 ms.assetid: 521ebb4c-56c6-3e21-39af-4a46934790e1

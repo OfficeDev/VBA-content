@@ -3,7 +3,7 @@ title: TextEffectFormat.FontName Property (Excel)
 keywords: vbaxl10.chm118005
 f1_keywords:
 - vbaxl10.chm118005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.FontName
 ms.assetid: d5aee022-b60b-f747-3c6b-7ae7e70cf6f8

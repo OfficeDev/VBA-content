@@ -3,7 +3,7 @@ title: TimelineState.SetFilterDateRange Method (Excel)
 keywords: vbaxl10.chm950079
 f1_keywords:
 - vbaxl10.chm950079
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c0ceea5c-9aa2-39a2-ce58-e37befeb0175
 ms.date: 06/08/2017
 ---

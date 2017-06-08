@@ -3,7 +3,7 @@ title: Range.ClearContents Method (Excel)
 keywords: vbaxl10.chm144095
 f1_keywords:
 - vbaxl10.chm144095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ClearContents
 ms.assetid: 8c957fdd-e99d-ca0e-7d2c-4cb1db62639a

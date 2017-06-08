@@ -3,7 +3,7 @@ title: XmlMap.Delete Method (Excel)
 keywords: vbaxl10.chm754086
 f1_keywords:
 - vbaxl10.chm754086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.Delete
 ms.assetid: 8acde534-c465-029a-635a-38f63c5f4013

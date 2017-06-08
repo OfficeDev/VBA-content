@@ -3,7 +3,7 @@ title: DisplayFormat.Font Property (Excel)
 keywords: vbaxl10.chm893075
 f1_keywords:
 - vbaxl10.chm893075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Font
 ms.assetid: 9b3a1e4e-de59-c00e-bbca-e76d7b283456

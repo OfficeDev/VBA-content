@@ -3,7 +3,7 @@ title: ConditionValue.Modify Method (Excel)
 keywords: vbaxl10.chm804073
 f1_keywords:
 - vbaxl10.chm804073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConditionValue.Modify
 ms.assetid: 3da6d850-7b7b-2419-b211-b18081c31e77

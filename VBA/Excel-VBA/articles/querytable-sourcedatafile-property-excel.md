@@ -3,7 +3,7 @@ title: QueryTable.SourceDataFile Property (Excel)
 keywords: vbaxl10.chm518132
 f1_keywords:
 - vbaxl10.chm518132
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.SourceDataFile
 ms.assetid: c6fb30b8-c909-7509-65bc-f6df9a3640c6

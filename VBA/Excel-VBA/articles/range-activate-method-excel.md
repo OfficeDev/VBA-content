@@ -3,7 +3,7 @@ title: Range.Activate Method (Excel)
 keywords: vbaxl10.chm144074
 f1_keywords:
 - vbaxl10.chm144074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Activate
 ms.assetid: a0050055-84e7-7611-a961-887fcb063369

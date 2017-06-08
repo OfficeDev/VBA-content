@@ -3,7 +3,7 @@ title: Workbook.Activate Method (Excel)
 keywords: vbaxl10.chm199074
 f1_keywords:
 - vbaxl10.chm199074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Activate
 ms.assetid: 628e06b3-ca3f-28cb-e0fd-e696842f69f5

@@ -3,7 +3,7 @@ title: WorksheetFunction.FDist Method (Excel)
 keywords: vbaxl10.chm137185
 f1_keywords:
 - vbaxl10.chm137185
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FDist
 ms.assetid: ddbcd66e-d85c-4f69-1ba9-138c30a3f7d4

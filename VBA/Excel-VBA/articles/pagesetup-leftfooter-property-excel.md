@@ -3,7 +3,7 @@ title: PageSetup.LeftFooter Property (Excel)
 keywords: vbaxl10.chm473086
 f1_keywords:
 - vbaxl10.chm473086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.LeftFooter
 ms.assetid: 68dfe26d-9e03-c219-a3c4-96702d0e3723

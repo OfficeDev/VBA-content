@@ -3,7 +3,7 @@ title: Window.ActivePane Property (Excel)
 keywords: vbaxl10.chm356078
 f1_keywords:
 - vbaxl10.chm356078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ActivePane
 ms.assetid: f518802d-8624-6e61-d76a-d318149e0142

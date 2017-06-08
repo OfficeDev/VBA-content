@@ -3,7 +3,7 @@ title: ChartGroup Object (Excel)
 keywords: vbaxl10.chm567072
 f1_keywords:
 - vbaxl10.chm567072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup
 ms.assetid: 7eee66c5-04a7-fd86-6e34-4c22ccaf8de0

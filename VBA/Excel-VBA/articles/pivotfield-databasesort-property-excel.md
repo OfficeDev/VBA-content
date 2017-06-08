@@ -3,7 +3,7 @@ title: PivotField.DatabaseSort Property (Excel)
 keywords: vbaxl10.chm240130
 f1_keywords:
 - vbaxl10.chm240130
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DatabaseSort
 ms.assetid: 18c75552-0993-24b6-e31f-7912e69ac933

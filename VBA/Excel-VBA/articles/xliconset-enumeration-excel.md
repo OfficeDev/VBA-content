@@ -1,6 +1,6 @@
 ---
 title: XlIconSet Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlIconSet
 ms.assetid: 450f6b95-1cc9-776a-e16e-0735008ecd85

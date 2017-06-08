@@ -3,7 +3,7 @@ title: ListRows.Count Property (Excel)
 keywords: vbaxl10.chm740077
 f1_keywords:
 - vbaxl10.chm740077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListRows.Count
 ms.assetid: 91a51e45-b5b6-1b5c-5a06-10a91e70cf66

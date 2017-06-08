@@ -3,7 +3,7 @@ title: LineFormat.EndArrowheadLength Property (Excel)
 keywords: vbaxl10.chm110007
 f1_keywords:
 - vbaxl10.chm110007
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat.EndArrowheadLength
 ms.assetid: e6dd340b-9732-db7e-2efb-7003bca0aea6

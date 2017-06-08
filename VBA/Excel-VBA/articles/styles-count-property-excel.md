@@ -3,7 +3,7 @@ title: Styles.Count Property (Excel)
 keywords: vbaxl10.chm179074
 f1_keywords:
 - vbaxl10.chm179074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Styles.Count
 ms.assetid: cf423590-8ad6-add0-8c64-e2647807483a

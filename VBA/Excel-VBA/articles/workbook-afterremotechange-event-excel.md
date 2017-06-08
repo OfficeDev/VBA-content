@@ -3,7 +3,7 @@ title: Workbook.AfterRemoteChange Event (Excel)
 keywords: vbaxl10.chm504121
 f1_keywords:
 - vbaxl10.chm504121
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AfterRemoteChange
 ms.assetid: workbook-afterremotechange-event-excel

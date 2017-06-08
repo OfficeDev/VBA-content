@@ -3,7 +3,7 @@ title: CellFormat.AddIndent Property (Excel)
 keywords: vbaxl10.chm676078
 f1_keywords:
 - vbaxl10.chm676078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.AddIndent
 ms.assetid: 7f38c3d8-ccea-fc6c-a171-d028fe30080d

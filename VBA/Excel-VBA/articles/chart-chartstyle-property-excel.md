@@ -3,7 +3,7 @@ title: Chart.ChartStyle Property (Excel)
 keywords: vbaxl10.chm149184
 f1_keywords:
 - vbaxl10.chm149184
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ChartStyle
 ms.assetid: b4bc3251-6afc-18e4-214a-a755a46776ba

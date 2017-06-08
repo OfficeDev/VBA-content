@@ -3,7 +3,7 @@ title: QueryTable.TextFileConsecutiveDelimiter Property (Excel)
 keywords: vbaxl10.chm518102
 f1_keywords:
 - vbaxl10.chm518102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileConsecutiveDelimiter
 ms.assetid: 2d86ba86-9601-9a2d-0cee-4648d77dab2c

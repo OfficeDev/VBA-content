@@ -3,7 +3,7 @@ title: ShadowFormat.Transparency Property (Excel)
 keywords: vbaxl10.chm114006
 f1_keywords:
 - vbaxl10.chm114006
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Transparency
 ms.assetid: c4a92bf1-3a29-16c0-0eb8-0b1faf75bd4a

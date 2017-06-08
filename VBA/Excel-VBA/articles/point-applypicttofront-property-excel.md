@@ -3,7 +3,7 @@ title: Point.ApplyPictToFront Property (Excel)
 keywords: vbaxl10.chm576095
 f1_keywords:
 - vbaxl10.chm576095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.ApplyPictToFront
 ms.assetid: e739e368-9789-be23-da90-17ab4cf3a935

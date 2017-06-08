@@ -3,7 +3,7 @@ title: PivotTable.ActiveFilters Property (Excel)
 keywords: vbaxl10.chm235168
 f1_keywords:
 - vbaxl10.chm235168
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ActiveFilters
 ms.assetid: 369488e9-6dbe-e4c0-39a4-7a31ec319e72

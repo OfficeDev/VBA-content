@@ -3,7 +3,7 @@ title: NameIsAuto Property
 keywords: vbagr10.chm65724
 f1_keywords:
 - vbagr10.chm65724
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NameIsAuto
 ms.assetid: 92a06cde-f3fc-cc5b-9af9-0ec9545b90a8

@@ -1,6 +1,6 @@
 ---
 title: XlPivotFormatType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotFormatType
 ms.assetid: 2616630b-34e0-0140-5b6e-5e005e164e46

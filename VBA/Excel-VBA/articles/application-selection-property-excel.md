@@ -3,7 +3,7 @@ title: Application.Selection Property (Excel)
 keywords: vbaxl10.chm183107
 f1_keywords:
 - vbaxl10.chm183107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Selection
 ms.assetid: f25b5608-035b-983a-545d-d720990c28be

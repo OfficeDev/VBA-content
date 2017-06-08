@@ -3,7 +3,7 @@ title: Application.EnableLargeOperationAlert Property (Excel)
 keywords: vbaxl10.chm133311
 f1_keywords:
 - vbaxl10.chm133311
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.EnableLargeOperationAlert
 ms.assetid: c8454216-6e91-997a-566b-d00ca99e89a3

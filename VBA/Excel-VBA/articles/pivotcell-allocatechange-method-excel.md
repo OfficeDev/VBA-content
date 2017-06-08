@@ -3,7 +3,7 @@ title: PivotCell.AllocateChange Method (Excel)
 keywords: vbaxl10.chm692085
 f1_keywords:
 - vbaxl10.chm692085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.AllocateChange
 ms.assetid: 21865f48-a011-478b-b485-16eba786dd92

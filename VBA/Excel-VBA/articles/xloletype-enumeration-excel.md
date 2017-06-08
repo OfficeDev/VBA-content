@@ -1,6 +1,6 @@
 ---
 title: XlOLEType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlOLEType
 ms.assetid: 5fe95292-a441-c04a-caa1-b6390554a209

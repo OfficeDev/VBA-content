@@ -3,7 +3,7 @@ title: ShapeRange.Count Property (Excel)
 keywords: vbaxl10.chm640073
 f1_keywords:
 - vbaxl10.chm640073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Count
 ms.assetid: 5c3f307d-5607-fcb9-fdf0-4f5f9c075a09

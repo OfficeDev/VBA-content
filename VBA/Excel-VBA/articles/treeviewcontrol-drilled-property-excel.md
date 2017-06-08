@@ -3,7 +3,7 @@ title: TreeviewControl.Drilled Property (Excel)
 keywords: vbaxl10.chm666074
 f1_keywords:
 - vbaxl10.chm666074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TreeviewControl.Drilled
 ms.assetid: 5e4f1b52-a02f-655b-f3c8-b5e7aa54d928

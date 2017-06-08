@@ -3,7 +3,7 @@ title: Styles.Parent Property (Excel)
 keywords: vbaxl10.chm178075
 f1_keywords:
 - vbaxl10.chm178075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Styles.Parent
 ms.assetid: fd127ed7-bc9c-8e05-9a7c-7636b7b27d34

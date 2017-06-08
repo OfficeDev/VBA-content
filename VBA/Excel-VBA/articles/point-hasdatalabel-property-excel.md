@@ -3,7 +3,7 @@ title: Point.HasDataLabel Property (Excel)
 keywords: vbaxl10.chm576081
 f1_keywords:
 - vbaxl10.chm576081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.HasDataLabel
 ms.assetid: 924f70a0-fdeb-e155-c857-55e0dfb7ca60

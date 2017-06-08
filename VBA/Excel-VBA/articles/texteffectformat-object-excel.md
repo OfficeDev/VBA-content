@@ -3,7 +3,7 @@ title: TextEffectFormat Object (Excel)
 keywords: vbaxl10.chm118000
 f1_keywords:
 - vbaxl10.chm118000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat
 ms.assetid: 7fe03721-6a45-569e-add4-fc8849c99535

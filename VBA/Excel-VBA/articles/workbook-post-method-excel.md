@@ -3,7 +3,7 @@ title: Workbook.Post Method (Excel)
 keywords: vbaxl10.chm199125
 f1_keywords:
 - vbaxl10.chm199125
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Post
 ms.assetid: 62ecf3bc-c551-8f06-64cc-a6c141bdf172

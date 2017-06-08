@@ -3,7 +3,7 @@ title: Application.WorkbookAfterXmlImport Event (Excel)
 keywords: vbaxl10.chm504099
 f1_keywords:
 - vbaxl10.chm504099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAfterXmlImport
 ms.assetid: a58cc327-3776-fe5b-68d4-406269f30379

@@ -3,7 +3,7 @@ title: Worksheet.Protect Method (Excel)
 keywords: vbaxl10.chm175156
 f1_keywords:
 - vbaxl10.chm175156
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Protect
 ms.assetid: ed517a80-eea9-4268-5fbc-69c659beac0e

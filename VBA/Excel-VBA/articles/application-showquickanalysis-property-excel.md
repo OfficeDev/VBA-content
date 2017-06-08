@@ -3,7 +3,7 @@ title: Application.ShowQuickAnalysis Property (Excel)
 keywords: vbaxl10.chm133337
 f1_keywords:
 - vbaxl10.chm133337
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 043d9523-1fbc-0afd-2adf-9775e71058c0
 ms.date: 06/08/2017
 ---

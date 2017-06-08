@@ -3,7 +3,7 @@ title: SeriesLines.Name Property (Excel)
 keywords: vbaxl10.chm598074
 f1_keywords:
 - vbaxl10.chm598074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesLines.Name
 ms.assetid: 4e821b5a-5ea0-20c4-917f-db9b224e6e96

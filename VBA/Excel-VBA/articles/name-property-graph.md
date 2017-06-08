@@ -3,7 +3,7 @@ title: Name Property (Graph)
 keywords: vbagr10.chm3077554
 f1_keywords:
 - vbagr10.chm3077554
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d3590902-6957-8e32-e627-5946ba66c44f
 ms.date: 06/08/2017
 ---

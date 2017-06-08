@@ -3,7 +3,7 @@ title: MinorUnitIsAuto Property
 keywords: vbagr10.chm65576
 f1_keywords:
 - vbagr10.chm65576
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MinorUnitIsAuto
 ms.assetid: ca6a18d5-f93f-4801-7704-4d3a25b633cb

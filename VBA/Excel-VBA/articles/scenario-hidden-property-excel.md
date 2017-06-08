@@ -3,7 +3,7 @@ title: Scenario.Hidden Property (Excel)
 keywords: vbaxl10.chm364077
 f1_keywords:
 - vbaxl10.chm364077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenario.Hidden
 ms.assetid: a3155e73-3dda-5d27-f494-e947ae0f8bdd

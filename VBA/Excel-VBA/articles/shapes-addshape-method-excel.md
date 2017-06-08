@@ -3,7 +3,7 @@ title: Shapes.AddShape Method (Excel)
 keywords: vbaxl10.chm638084
 f1_keywords:
 - vbaxl10.chm638084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddShape
 ms.assetid: 5d08e6d5-2875-795a-8fe1-f4032d4d3fc0

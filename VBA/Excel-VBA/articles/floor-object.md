@@ -3,7 +3,7 @@ title: Floor Object
 keywords: vbagr10.chm5207374
 f1_keywords:
 - vbagr10.chm5207374
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor
 ms.assetid: ce76e68b-7b15-7e2c-4464-07befbf53cc5

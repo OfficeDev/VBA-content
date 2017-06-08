@@ -3,7 +3,7 @@ title: ColorScale Object (Excel)
 keywords: vbaxl10.chm805072
 f1_keywords:
 - vbaxl10.chm805072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale
 ms.assetid: 3982b041-9178-7a45-7453-c88963501a3c

@@ -3,7 +3,7 @@ title: PivotField.DragToPage Property (Excel)
 keywords: vbaxl10.chm240104
 f1_keywords:
 - vbaxl10.chm240104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DragToPage
 ms.assetid: 3bca0805-8f9f-099a-cd9f-3621025654e5

@@ -3,7 +3,7 @@ title: Axis.CategoryType Property (Excel)
 keywords: vbaxl10.chm561108
 f1_keywords:
 - vbaxl10.chm561108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.CategoryType
 ms.assetid: d1e614bb-f560-c65b-7e95-07a997e04861

@@ -3,7 +3,7 @@ title: LinkFormat Object (Excel)
 keywords: vbaxl10.chm633072
 f1_keywords:
 - vbaxl10.chm633072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinkFormat
 ms.assetid: 3d8085bf-c113-7cbe-871b-01f3b6017824

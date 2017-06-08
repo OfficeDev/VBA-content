@@ -3,7 +3,7 @@ title: TextEffectFormat.Tracking Property (Excel)
 keywords: vbaxl10.chm118013
 f1_keywords:
 - vbaxl10.chm118013
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Tracking
 ms.assetid: b5190203-66c4-238b-e5b4-b61a9c70d99c

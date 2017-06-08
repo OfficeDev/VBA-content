@@ -3,7 +3,7 @@ title: Italic Property
 keywords: vbagr10.chm65637
 f1_keywords:
 - vbagr10.chm65637
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Italic
 ms.assetid: 251d7213-4af6-92ad-a627-462266265ba8

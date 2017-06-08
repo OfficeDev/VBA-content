@@ -3,7 +3,7 @@ title: PivotLines.Application Property (Excel)
 keywords: vbaxl10.chm765073
 f1_keywords:
 - vbaxl10.chm765073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLines.Application
 ms.assetid: 1b039c95-852e-e449-5446-8c594d159175

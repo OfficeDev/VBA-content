@@ -3,7 +3,7 @@ title: PivotFormula Object (Excel)
 keywords: vbaxl10.chm230072
 f1_keywords:
 - vbaxl10.chm230072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFormula
 ms.assetid: 2955dad6-d686-1a83-ab56-76a00272c7e2

@@ -3,7 +3,7 @@ title: DefaultWebOptions.UpdateLinksOnSave Property (Excel)
 keywords: vbaxl10.chm660077
 f1_keywords:
 - vbaxl10.chm660077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.UpdateLinksOnSave
 ms.assetid: d2ae453f-8dc2-fe6c-a64c-574b22c781cd

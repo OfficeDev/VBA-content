@@ -3,7 +3,7 @@ title: Top10.ModifyAppliesToRange Method (Excel)
 keywords: vbaxl10.chm822087
 f1_keywords:
 - vbaxl10.chm822087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.ModifyAppliesToRange
 ms.assetid: 3baf8e16-4bb7-ec97-da0a-17187500f1f1

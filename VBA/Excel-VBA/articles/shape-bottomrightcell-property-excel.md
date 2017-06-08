@@ -3,7 +3,7 @@ title: Shape.BottomRightCell Property (Excel)
 keywords: vbaxl10.chm636123
 f1_keywords:
 - vbaxl10.chm636123
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.BottomRightCell
 ms.assetid: 351b78a1-7e46-dba4-ae5e-cbd32f9785eb

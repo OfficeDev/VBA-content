@@ -3,7 +3,7 @@ title: LeaderLines Object (Excel)
 keywords: vbaxl10.chm605072
 f1_keywords:
 - vbaxl10.chm605072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LeaderLines
 ms.assetid: ff4954f1-6967-9dd8-c9d6-8927d079e995

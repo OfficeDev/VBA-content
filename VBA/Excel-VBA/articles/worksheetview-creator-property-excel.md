@@ -3,7 +3,7 @@ title: WorksheetView.Creator Property (Excel)
 keywords: vbaxl10.chm777074
 f1_keywords:
 - vbaxl10.chm777074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetView.Creator
 ms.assetid: 474ee0e7-1fe2-200c-c49d-fd9418138a40

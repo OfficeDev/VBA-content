@@ -3,7 +3,7 @@ title: WorksheetFunction.YearFrac Method (Excel)
 keywords: vbaxl10.chm137327
 f1_keywords:
 - vbaxl10.chm137327
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.YearFrac
 ms.assetid: 01c2b4c9-5a9b-6fa1-c189-7210a31583d1

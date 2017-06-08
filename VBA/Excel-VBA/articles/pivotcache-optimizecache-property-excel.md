@@ -3,7 +3,7 @@ title: PivotCache.OptimizeCache Property (Excel)
 keywords: vbaxl10.chm227078
 f1_keywords:
 - vbaxl10.chm227078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.OptimizeCache
 ms.assetid: 4aedf3bb-e15a-439c-5987-ea16cc233a7c

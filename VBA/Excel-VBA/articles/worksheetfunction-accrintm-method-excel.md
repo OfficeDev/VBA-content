@@ -3,7 +3,7 @@ title: WorksheetFunction.AccrIntM Method (Excel)
 keywords: vbaxl10.chm137346
 f1_keywords:
 - vbaxl10.chm137346
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AccrIntM
 ms.assetid: 9cb3e757-26c0-6b3e-91a2-e6a2de30c168

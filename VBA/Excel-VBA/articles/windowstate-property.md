@@ -3,7 +3,7 @@ title: WindowState Property
 keywords: vbagr10.chm65932
 f1_keywords:
 - vbagr10.chm65932
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WindowState
 ms.assetid: 22ce1105-6f4e-54d2-4f9a-216019462f04

@@ -3,7 +3,7 @@ title: RTD.ThrottleInterval Property (Excel)
 keywords: vbaxl10.chm728073
 f1_keywords:
 - vbaxl10.chm728073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RTD.ThrottleInterval
 ms.assetid: ae3a5561-e880-b5ee-763c-f38f887bc2a0

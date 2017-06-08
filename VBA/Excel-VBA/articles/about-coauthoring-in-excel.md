@@ -1,6 +1,6 @@
 ---
 title: About co-authoring in Excel
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: about-coauthoring-in-excel
 ms.date: 06/08/2017
 ---

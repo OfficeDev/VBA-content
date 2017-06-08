@@ -3,7 +3,7 @@ title: Trendline.Forward2 Property (Excel)
 keywords: vbaxl10.chm594092
 f1_keywords:
 - vbaxl10.chm594092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Forward2
 ms.assetid: af44bce5-8354-801e-f111-6adcb305b06b

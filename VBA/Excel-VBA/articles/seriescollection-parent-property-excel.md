@@ -3,7 +3,7 @@ title: SeriesCollection.Parent Property (Excel)
 keywords: vbaxl10.chm580073
 f1_keywords:
 - vbaxl10.chm580073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Parent
 ms.assetid: c7d4b8d3-8c58-709a-9d90-bbebfe21338e

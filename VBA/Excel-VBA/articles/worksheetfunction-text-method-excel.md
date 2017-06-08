@@ -3,7 +3,7 @@ title: WorksheetFunction.Text Method (Excel)
 keywords: vbaxl10.chm137102
 f1_keywords:
 - vbaxl10.chm137102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Text
 ms.assetid: f8a00b5c-f937-9b8b-c8c3-055e556e6ab9

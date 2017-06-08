@@ -3,7 +3,7 @@ title: Application.CalculateFullRebuild Method (Excel)
 keywords: vbaxl10.chm133272
 f1_keywords:
 - vbaxl10.chm133272
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CalculateFullRebuild
 ms.assetid: 6d3dac24-7fb8-05fd-b6ee-cb3ef7d5f33a

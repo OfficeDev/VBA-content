@@ -3,7 +3,7 @@ title: SlicerPivotTables Object (Excel)
 keywords: vbaxl10.chm910072
 f1_keywords:
 - vbaxl10.chm910072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables
 ms.assetid: 8302dc8a-3845-12b0-f88e-761f104f1dcc

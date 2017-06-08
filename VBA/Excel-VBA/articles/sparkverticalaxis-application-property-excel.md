@@ -3,7 +3,7 @@ title: SparkVerticalAxis.Application Property (Excel)
 keywords: vbaxl10.chm880073
 f1_keywords:
 - vbaxl10.chm880073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.Application
 ms.assetid: f92de9f0-9b57-ec63-d741-a8c548533b19

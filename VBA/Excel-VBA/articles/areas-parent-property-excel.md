@@ -3,7 +3,7 @@ title: Areas.Parent Property (Excel)
 keywords: vbaxl10.chm196075
 f1_keywords:
 - vbaxl10.chm196075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Areas.Parent
 ms.assetid: 7af01c6d-a8d7-faa3-df95-ac4052b2e4f2

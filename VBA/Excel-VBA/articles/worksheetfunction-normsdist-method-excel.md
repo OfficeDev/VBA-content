@@ -3,7 +3,7 @@ title: WorksheetFunction.NormSDist Method (Excel)
 keywords: vbaxl10.chm137198
 f1_keywords:
 - vbaxl10.chm137198
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NormSDist
 ms.assetid: d1016e46-c04e-9274-3809-4cdefe59a18e

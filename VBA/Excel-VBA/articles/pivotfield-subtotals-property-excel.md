@@ -3,7 +3,7 @@ title: PivotField.Subtotals Property (Excel)
 keywords: vbaxl10.chm240094
 f1_keywords:
 - vbaxl10.chm240094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Subtotals
 ms.assetid: 1086c36f-e792-b2a5-848a-efd2c7e49d46

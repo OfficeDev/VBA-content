@@ -3,7 +3,7 @@ title: Walls.Parent Property (Excel)
 keywords: vbaxl10.chm614073
 f1_keywords:
 - vbaxl10.chm614073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Walls.Parent
 ms.assetid: 9fbe4071-2a9d-ffc3-2917-6b1fce69e1d9

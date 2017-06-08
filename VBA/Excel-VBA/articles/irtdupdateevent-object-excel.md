@@ -3,7 +3,7 @@ title: IRTDUpdateEvent Object (Excel)
 keywords: vbaxl10.chm500000
 f1_keywords:
 - vbaxl10.chm500000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IRTDUpdateEvent
 ms.assetid: 8ac58d69-194b-e35a-44bc-7c0994b296ac

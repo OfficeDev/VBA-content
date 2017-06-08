@@ -3,7 +3,7 @@ title: WorksheetFunction.HarMean Method (Excel)
 keywords: vbaxl10.chm137224
 f1_keywords:
 - vbaxl10.chm137224
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.HarMean
 ms.assetid: 7c575c3a-46ef-561e-f8cb-d2a53633a973

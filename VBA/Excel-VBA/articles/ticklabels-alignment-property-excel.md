@@ -3,7 +3,7 @@ title: TickLabels.Alignment Property (Excel)
 keywords: vbaxl10.chm616086
 f1_keywords:
 - vbaxl10.chm616086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Alignment
 ms.assetid: 07298bc2-5b5b-2f6c-0bc5-012d7eada136

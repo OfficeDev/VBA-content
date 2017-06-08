@@ -3,7 +3,7 @@ title: WorksheetFunction.Gamma_Dist Method (Excel)
 keywords: vbaxl10.chm137366
 f1_keywords:
 - vbaxl10.chm137366
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Gamma_Dist
 ms.assetid: cc27de06-e76f-92f8-fe03-2bb0580ccb7c

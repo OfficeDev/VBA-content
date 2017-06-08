@@ -3,7 +3,7 @@ title: Workbook.ReplyAll Method (Excel)
 keywords: vbaxl10.chm199137
 f1_keywords:
 - vbaxl10.chm199137
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ReplyAll
 ms.assetid: c378da35-1778-44db-5c58-8d6992ca0c93

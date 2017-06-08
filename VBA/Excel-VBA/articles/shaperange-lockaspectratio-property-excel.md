@@ -3,7 +3,7 @@ title: ShapeRange.LockAspectRatio Property (Excel)
 keywords: vbaxl10.chm640109
 f1_keywords:
 - vbaxl10.chm640109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.LockAspectRatio
 ms.assetid: 58b33bc9-de5c-1fb2-7369-7f4f8dedde58

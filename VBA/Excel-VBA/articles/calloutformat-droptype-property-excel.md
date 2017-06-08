@@ -3,7 +3,7 @@ title: CalloutFormat.DropType Property (Excel)
 keywords: vbaxl10.chm104012
 f1_keywords:
 - vbaxl10.chm104012
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.DropType
 ms.assetid: ab947fa4-4af9-e491-f62d-e0ca036e1892

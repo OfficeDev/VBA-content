@@ -3,7 +3,7 @@ title: XPath.Map Property (Excel)
 keywords: vbaxl10.chm760075
 f1_keywords:
 - vbaxl10.chm760075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XPath.Map
 ms.assetid: 4750694e-24b3-4a4b-3e43-d5838821d459

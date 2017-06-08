@@ -3,7 +3,7 @@ title: FormatCondition.Priority Property (Excel)
 keywords: vbaxl10.chm512087
 f1_keywords:
 - vbaxl10.chm512087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.Priority
 ms.assetid: 27d0a82a-b69b-de94-ff90-dbd3bd5a02fa

@@ -3,7 +3,7 @@ title: Range.Top Property (Excel)
 keywords: vbaxl10.chm144211
 f1_keywords:
 - vbaxl10.chm144211
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Top
 ms.assetid: 0d67ac39-9d35-fc2e-56f1-9bd320a4e8ea

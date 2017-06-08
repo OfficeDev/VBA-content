@@ -3,7 +3,7 @@ title: Action Object (Excel)
 keywords: vbaxl10.chm797072
 f1_keywords:
 - vbaxl10.chm797072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Action
 ms.assetid: 8a54e4ed-8392-e198-66df-987f94841968

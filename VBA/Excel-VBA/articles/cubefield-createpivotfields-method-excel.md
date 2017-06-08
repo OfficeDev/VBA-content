@@ -3,7 +3,7 @@ title: CubeField.CreatePivotFields Method (Excel)
 keywords: vbaxl10.chm668099
 f1_keywords:
 - vbaxl10.chm668099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.CreatePivotFields
 ms.assetid: 87d868d7-8836-5a0b-a4b6-1ca3165b96e0

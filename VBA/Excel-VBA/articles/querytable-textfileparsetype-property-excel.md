@@ -3,7 +3,7 @@ title: QueryTable.TextFileParseType Property (Excel)
 keywords: vbaxl10.chm518100
 f1_keywords:
 - vbaxl10.chm518100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileParseType
 ms.assetid: 58117c6a-bfe4-190b-ab72-1a26e961d25d

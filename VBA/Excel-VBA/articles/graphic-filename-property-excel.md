@@ -3,7 +3,7 @@ title: Graphic.Filename Property (Excel)
 keywords: vbaxl10.chm694080
 f1_keywords:
 - vbaxl10.chm694080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.Filename
 ms.assetid: 8657c279-2c17-57ea-e898-aab0b7b705b4

@@ -3,7 +3,7 @@ title: Axis.Height Property (Excel)
 keywords: vbaxl10.chm561112
 f1_keywords:
 - vbaxl10.chm561112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.Height
 ms.assetid: 637e4f6e-5492-c417-2ffc-472bf4b2d467

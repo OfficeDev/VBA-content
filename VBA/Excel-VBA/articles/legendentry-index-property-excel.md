@@ -3,7 +3,7 @@ title: LegendEntry.Index Property (Excel)
 keywords: vbaxl10.chm586076
 f1_keywords:
 - vbaxl10.chm586076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntry.Index
 ms.assetid: 022dc8b4-de7e-22ab-bded-92de775122bf

@@ -3,7 +3,7 @@ title: SparkAxes Object (Excel)
 keywords: vbaxl10.chm876072
 f1_keywords:
 - vbaxl10.chm876072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkAxes
 ms.assetid: bcd36a3c-772e-3317-b22e-27447ce23e5b

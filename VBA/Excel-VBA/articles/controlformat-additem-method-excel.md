@@ -3,7 +3,7 @@ title: ControlFormat.AddItem Method (Excel)
 keywords: vbaxl10.chm630073
 f1_keywords:
 - vbaxl10.chm630073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.AddItem
 ms.assetid: fffc243b-3f94-14ab-f7b4-83c56325aa5e

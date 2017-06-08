@@ -3,7 +3,7 @@ title: DataLabel.ShowCategoryName Property (Excel)
 keywords: vbaxl10.chm582100
 f1_keywords:
 - vbaxl10.chm582100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.ShowCategoryName
 ms.assetid: a8f2fdad-273a-3a45-7396-9691109c25d4

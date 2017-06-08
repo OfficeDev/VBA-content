@@ -3,7 +3,7 @@ title: HasLinks Property
 keywords: vbagr10.chm66630
 f1_keywords:
 - vbagr10.chm66630
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasLinks
 ms.assetid: 71e0e494-a96a-53e5-5e38-92b3ce331076

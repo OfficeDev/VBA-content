@@ -3,7 +3,7 @@ title: Legend.Width Property (Excel)
 keywords: vbaxl10.chm622088
 f1_keywords:
 - vbaxl10.chm622088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend.Width
 ms.assetid: 267e2f8f-5299-15d9-65e2-886e9f59c5e8

@@ -3,7 +3,7 @@ title: Application.CutCopyMode Property (Excel)
 keywords: vbaxl10.chm133101
 f1_keywords:
 - vbaxl10.chm133101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CutCopyMode
 ms.assetid: d45d3352-2a33-99ae-22f2-0b1c11466209

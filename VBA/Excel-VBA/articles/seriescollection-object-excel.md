@@ -3,7 +3,7 @@ title: SeriesCollection Object (Excel)
 keywords: vbaxl10.chm579072
 f1_keywords:
 - vbaxl10.chm579072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection
 ms.assetid: 93aa1f0b-4939-8c60-a444-2f791e8ce144

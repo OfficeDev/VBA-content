@@ -3,7 +3,7 @@ title: ListColumn.Creator Property (Excel)
 keywords: vbaxl10.chm737074
 f1_keywords:
 - vbaxl10.chm737074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.Creator
 ms.assetid: 9dad6409-cd84-e7ef-71e0-d003ca61cdda

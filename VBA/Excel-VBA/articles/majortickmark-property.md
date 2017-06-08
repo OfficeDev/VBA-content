@@ -3,7 +3,7 @@ title: MajorTickMark Property
 keywords: vbagr10.chm65562
 f1_keywords:
 - vbagr10.chm65562
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MajorTickMark
 ms.assetid: 26dfa842-1c7d-c2b6-b647-7c110b1d5626

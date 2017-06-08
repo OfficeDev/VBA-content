@@ -3,7 +3,7 @@ title: Workbook.OpenLinks Method (Excel)
 keywords: vbaxl10.chm199120
 f1_keywords:
 - vbaxl10.chm199120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.OpenLinks
 ms.assetid: cae33bab-892e-0861-e4ec-8a334097e0d1

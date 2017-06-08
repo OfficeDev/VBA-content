@@ -3,7 +3,7 @@ title: DisplayEquation Property
 keywords: vbagr10.chm5207312
 f1_keywords:
 - vbagr10.chm5207312
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayEquation
 ms.assetid: f3638bfd-d25d-96b4-5c20-2acf8703658d

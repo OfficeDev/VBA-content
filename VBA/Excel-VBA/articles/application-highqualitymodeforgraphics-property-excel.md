@@ -3,7 +3,7 @@ title: Application.HighQualityModeForGraphics Property (Excel)
 keywords: vbaxl10.chm133317
 f1_keywords:
 - vbaxl10.chm133317
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.HighQualityModeForGraphics
 ms.assetid: 7120b716-a0d4-e66e-2e98-4f2cd41324ef

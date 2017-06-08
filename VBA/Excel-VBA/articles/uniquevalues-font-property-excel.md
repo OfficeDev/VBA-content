@@ -3,7 +3,7 @@ title: UniqueValues.Font Property (Excel)
 keywords: vbaxl10.chm826079
 f1_keywords:
 - vbaxl10.chm826079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.Font
 ms.assetid: fd766edd-c0c5-7a69-4b68-e44a0e631671

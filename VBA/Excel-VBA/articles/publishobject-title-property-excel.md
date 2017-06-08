@@ -3,7 +3,7 @@ title: PublishObject.Title Property (Excel)
 keywords: vbaxl10.chm652080
 f1_keywords:
 - vbaxl10.chm652080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObject.Title
 ms.assetid: 3e8eae5c-62f5-3d72-2c27-ff5107153adc

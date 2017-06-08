@@ -1,6 +1,6 @@
 ---
 title: XlEnableSelection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlEnableSelection
 ms.assetid: 91b1a272-86e3-a9cf-8c90-d5fcbb22d5f6

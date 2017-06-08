@@ -3,7 +3,7 @@ title: Outline.SummaryColumn Property (Excel)
 keywords: vbaxl10.chm455075
 f1_keywords:
 - vbaxl10.chm455075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline.SummaryColumn
 ms.assetid: b134c991-7875-445a-ca73-d48bf23f3eea

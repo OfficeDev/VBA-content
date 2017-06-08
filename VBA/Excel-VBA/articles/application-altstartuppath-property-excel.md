@@ -3,7 +3,7 @@ title: Application.AltStartupPath Property (Excel)
 keywords: vbaxl10.chm133078
 f1_keywords:
 - vbaxl10.chm133078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AltStartupPath
 ms.assetid: 92c987ed-542d-c227-d9c3-de64eba325e0

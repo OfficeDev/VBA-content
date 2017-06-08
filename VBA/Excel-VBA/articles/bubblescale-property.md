@@ -3,7 +3,7 @@ title: BubbleScale Property
 keywords: vbagr10.chm3076966
 f1_keywords:
 - vbagr10.chm3076966
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.BubbleScale
 ms.assetid: e3947690-3428-3f50-173b-b7889f9aac7f

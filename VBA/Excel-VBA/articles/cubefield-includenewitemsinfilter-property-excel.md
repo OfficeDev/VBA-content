@@ -3,7 +3,7 @@ title: CubeField.IncludeNewItemsInFilter Property (Excel)
 keywords: vbaxl10.chm668095
 f1_keywords:
 - vbaxl10.chm668095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.IncludeNewItemsInFilter
 ms.assetid: 7c9ccb66-5a8c-ced0-c024-2336e85f00db

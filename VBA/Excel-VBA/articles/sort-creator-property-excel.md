@@ -3,7 +3,7 @@ title: Sort.Creator Property (Excel)
 keywords: vbaxl10.chm846074
 f1_keywords:
 - vbaxl10.chm846074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sort.Creator
 ms.assetid: 578f0917-6778-e3df-7935-2c1121536f60

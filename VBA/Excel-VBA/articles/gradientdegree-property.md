@@ -3,7 +3,7 @@ title: GradientDegree Property
 keywords: vbagr10.chm67177
 f1_keywords:
 - vbagr10.chm67177
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GradientDegree
 ms.assetid: 6f325dc0-5f6c-7a55-52fa-55eeb15ccfe6

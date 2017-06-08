@@ -3,7 +3,7 @@ title: DialogSheetView.Application Property (Excel)
 keywords: vbaxl10.chm786073
 f1_keywords:
 - vbaxl10.chm786073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DialogSheetView.Application
 ms.assetid: 4d4976fe-a2f2-c22f-38d6-e49215a7431f

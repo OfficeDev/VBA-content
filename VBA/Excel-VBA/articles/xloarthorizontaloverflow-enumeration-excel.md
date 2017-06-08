@@ -1,6 +1,6 @@
 ---
 title: XlOartHorizontalOverflow Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlOartHorizontalOverflow
 ms.assetid: 268dccc6-cb1d-d3b2-205c-cae961ac396a

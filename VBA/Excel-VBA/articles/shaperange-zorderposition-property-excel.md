@@ -3,7 +3,7 @@ title: ShapeRange.ZOrderPosition Property (Excel)
 keywords: vbaxl10.chm640123
 f1_keywords:
 - vbaxl10.chm640123
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.ZOrderPosition
 ms.assetid: 183f1078-959a-a4d2-0013-8f4a32bcd0f1

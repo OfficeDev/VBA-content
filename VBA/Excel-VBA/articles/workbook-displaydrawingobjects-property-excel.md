@@ -3,7 +3,7 @@ title: Workbook.DisplayDrawingObjects Property (Excel)
 keywords: vbaxl10.chm199098
 f1_keywords:
 - vbaxl10.chm199098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.DisplayDrawingObjects
 ms.assetid: 78eec8af-416d-88e6-d1f4-0b97a008f752

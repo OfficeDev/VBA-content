@@ -3,7 +3,7 @@ title: PivotCell.Creator Property (Excel)
 keywords: vbaxl10.chm691074
 f1_keywords:
 - vbaxl10.chm691074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.Creator
 ms.assetid: 0700299c-9796-1593-4b9a-669f46cb3de7

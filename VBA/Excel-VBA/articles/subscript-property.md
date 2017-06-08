@@ -3,7 +3,7 @@ title: Subscript Property
 keywords: vbagr10.chm65715
 f1_keywords:
 - vbagr10.chm65715
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Subscript
 ms.assetid: 47864964-27f4-8102-d309-9977131aa98a

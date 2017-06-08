@@ -3,7 +3,7 @@ title: Charts.PrintPreview Method (Excel)
 keywords: vbaxl10.chm217080
 f1_keywords:
 - vbaxl10.chm217080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Charts.PrintPreview
 ms.assetid: 53d54413-6c35-d2a3-ba4a-1acc3bbdea28

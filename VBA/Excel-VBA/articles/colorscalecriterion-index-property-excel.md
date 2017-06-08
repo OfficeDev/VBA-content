@@ -3,7 +3,7 @@ title: ColorScaleCriterion.Index Property (Excel)
 keywords: vbaxl10.chm808073
 f1_keywords:
 - vbaxl10.chm808073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScaleCriterion.Index
 ms.assetid: 22521ce4-fa0d-b71c-0eaa-d3675dbfc199

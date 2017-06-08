@@ -3,7 +3,7 @@ title: QueryTable.QueryType Property (Excel)
 keywords: vbaxl10.chm518116
 f1_keywords:
 - vbaxl10.chm518116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.QueryType
 ms.assetid: 7cf9ea40-62ea-7211-7832-31eceb44ed15

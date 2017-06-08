@@ -3,7 +3,7 @@ title: Border Object (Excel)
 keywords: vbaxl10.chm546072
 f1_keywords:
 - vbaxl10.chm546072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: bca516bf-7c0f-f9df-078d-dfb522f256f3

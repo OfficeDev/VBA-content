@@ -3,7 +3,7 @@ title: ErrorCheckingOptions.TextDate Property (Excel)
 keywords: vbaxl10.chm698076
 f1_keywords:
 - vbaxl10.chm698076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.TextDate
 ms.assetid: eb251a44-4dac-01e5-1d01-b4e8bd71e8e2

@@ -1,6 +1,6 @@
 ---
 title: Functions (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b64a921e-b925-4438-87b0-d76bfb38e4be
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: ListObject.ShowAutoFilter Property (Excel)
 keywords: vbaxl10.chm734091
 f1_keywords:
 - vbaxl10.chm734091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.ShowAutoFilter
 ms.assetid: ae9dfc8d-dd58-802d-2e96-461abdb9ee2b

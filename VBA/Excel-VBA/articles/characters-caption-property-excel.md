@@ -3,7 +3,7 @@ title: Characters.Caption Property (Excel)
 keywords: vbaxl10.chm252073
 f1_keywords:
 - vbaxl10.chm252073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Characters.Caption
 ms.assetid: 8724563d-2954-2141-de30-f5058912e060

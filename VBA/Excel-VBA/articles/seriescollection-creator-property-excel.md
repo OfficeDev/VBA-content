@@ -3,7 +3,7 @@ title: SeriesCollection.Creator Property (Excel)
 keywords: vbaxl10.chm579074
 f1_keywords:
 - vbaxl10.chm579074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Creator
 ms.assetid: 31d06934-b813-65b8-209c-f950b78ab796

@@ -3,7 +3,7 @@ title: Shape.SetShapesDefaultProperties Method (Excel)
 keywords: vbaxl10.chm636086
 f1_keywords:
 - vbaxl10.chm636086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.SetShapesDefaultProperties
 ms.assetid: 7fee7695-99ea-5094-002a-f21f280d5541

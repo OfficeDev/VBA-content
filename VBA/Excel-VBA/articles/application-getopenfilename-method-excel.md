@@ -3,7 +3,7 @@ title: Application.GetOpenFilename Method (Excel)
 keywords: vbaxl10.chm133142
 f1_keywords:
 - vbaxl10.chm133142
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.GetOpenFilename
 ms.assetid: 83931dc2-59b3-550b-6ce1-880413fd23d6

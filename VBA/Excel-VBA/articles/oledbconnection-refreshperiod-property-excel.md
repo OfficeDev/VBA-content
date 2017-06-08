@@ -3,7 +3,7 @@ title: OLEDBConnection.RefreshPeriod Property (Excel)
 keywords: vbaxl10.chm794087
 f1_keywords:
 - vbaxl10.chm794087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.RefreshPeriod
 ms.assetid: 23032291-8491-42b8-b0ee-18287c115c29

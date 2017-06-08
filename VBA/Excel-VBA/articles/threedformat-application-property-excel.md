@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.Application Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Application
 ms.assetid: 3921f7fa-7ce8-3a70-acb2-45c8913dd909

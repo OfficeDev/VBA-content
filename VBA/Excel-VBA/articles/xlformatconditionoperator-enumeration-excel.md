@@ -1,6 +1,6 @@
 ---
 title: XlFormatConditionOperator Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlFormatConditionOperator
 ms.assetid: f395f440-0870-513d-a1ae-0a15262f1a7a

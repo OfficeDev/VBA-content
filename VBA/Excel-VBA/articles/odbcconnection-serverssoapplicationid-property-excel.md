@@ -3,7 +3,7 @@ title: ODBCConnection.ServerSSOApplicationID Property (Excel)
 keywords: vbaxl10.chm796091
 f1_keywords:
 - vbaxl10.chm796091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.ServerSSOApplicationID
 ms.assetid: 5735ffd5-7089-4a18-be01-d61bccf6f55c

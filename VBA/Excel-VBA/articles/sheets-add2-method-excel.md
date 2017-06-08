@@ -3,7 +3,7 @@ title: Sheets.Add2 Method (Excel)
 keywords: vbaxl10.chm152090
 f1_keywords:
 - vbaxl10.chm152090
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f44b3ef1-8452-4e26-b91c-d24124fa5bc6
 ms.date: 06/08/2017
 ---

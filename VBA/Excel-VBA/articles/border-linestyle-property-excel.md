@@ -3,7 +3,7 @@ title: Border.LineStyle Property (Excel)
 keywords: vbaxl10.chm547075
 f1_keywords:
 - vbaxl10.chm547075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Border.LineStyle
 ms.assetid: 7f2529b7-4782-8d8d-d529-6d8d19417db4

@@ -3,7 +3,7 @@ title: Worksheet.ProtectDrawingObjects Property (Excel)
 keywords: vbaxl10.chm174091
 f1_keywords:
 - vbaxl10.chm174091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.ProtectDrawingObjects
 ms.assetid: a3733b3b-dca4-4131-e197-5c919d44c7bd

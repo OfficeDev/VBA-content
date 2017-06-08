@@ -3,7 +3,7 @@ title: Series.Explosion Property (Excel)
 keywords: vbaxl10.chm578083
 f1_keywords:
 - vbaxl10.chm578083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Explosion
 ms.assetid: e70678f5-ee1a-f5c2-7e5f-0c26f5282be4

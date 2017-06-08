@@ -3,7 +3,7 @@ title: OLEDBConnection.MaxDrillthroughRecords Property (Excel)
 keywords: vbaxl10.chm794095
 f1_keywords:
 - vbaxl10.chm794095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.MaxDrillthroughRecords
 ms.assetid: 2dda9194-7a68-cfb1-ba94-c3670d0e66b8

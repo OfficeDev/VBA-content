@@ -3,7 +3,7 @@ title: Chart.ApplyChartTemplate Method (Excel)
 keywords: vbaxl10.chm149180
 f1_keywords:
 - vbaxl10.chm149180
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ApplyChartTemplate
 ms.assetid: b4695f3f-26ac-1e35-7318-0091d9b1f130

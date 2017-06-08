@@ -3,7 +3,7 @@ title: Application.WorkbookBeforeXmlImport Event (Excel)
 keywords: vbaxl10.chm504098
 f1_keywords:
 - vbaxl10.chm504098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforeXmlImport
 ms.assetid: 33c7f386-9eec-6ba4-519e-9480ab2f5a31

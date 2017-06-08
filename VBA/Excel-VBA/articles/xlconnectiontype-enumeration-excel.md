@@ -1,6 +1,6 @@
 ---
 title: XlConnectionType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlConnectionType
 ms.assetid: d1849087-2cd0-7b96-9d58-840033af0839

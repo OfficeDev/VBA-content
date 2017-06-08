@@ -3,7 +3,7 @@ title: QueryTable.ResetTimer Method (Excel)
 keywords: vbaxl10.chm518121
 f1_keywords:
 - vbaxl10.chm518121
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.ResetTimer
 ms.assetid: 9e8c9d26-fe11-90f7-6073-c8ff5be3042d

@@ -3,7 +3,7 @@ title: RecentFiles.Creator Property (Excel)
 keywords: vbaxl10.chm171074
 f1_keywords:
 - vbaxl10.chm171074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFiles.Creator
 ms.assetid: 83b6210e-5994-2468-f4b9-0884abc689fc

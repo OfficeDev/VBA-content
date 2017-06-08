@@ -3,7 +3,7 @@ title: PivotCaches.Item Method (Excel)
 keywords: vbaxl10.chm229074
 f1_keywords:
 - vbaxl10.chm229074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Item
 ms.assetid: 80a830fb-a1bf-f1dd-962c-339d99b6f80d

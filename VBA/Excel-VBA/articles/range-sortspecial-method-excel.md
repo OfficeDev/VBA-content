@@ -3,7 +3,7 @@ title: Range.SortSpecial Method (Excel)
 keywords: vbaxl10.chm144201
 f1_keywords:
 - vbaxl10.chm144201
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.SortSpecial
 ms.assetid: 706420cb-989a-1b48-b051-ca6e5fe45824

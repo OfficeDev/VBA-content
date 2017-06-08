@@ -3,7 +3,7 @@ title: IconSetCondition.PercentileValues Property (Excel)
 keywords: vbaxl10.chm812084
 f1_keywords:
 - vbaxl10.chm812084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.PercentileValues
 ms.assetid: 0e6c4d7d-f639-c394-b88a-c47c222a9379

@@ -3,7 +3,7 @@ title: Workbook.SheetSelectionChange Event (Excel)
 keywords: vbaxl10.chm503085
 f1_keywords:
 - vbaxl10.chm503085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetSelectionChange
 ms.assetid: a3829af1-2917-9526-1d64-91eeb6c198ce

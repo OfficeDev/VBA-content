@@ -3,7 +3,7 @@ title: PivotTable.ConvertToFormulas Method (Excel)
 keywords: vbaxl10.chm235177
 f1_keywords:
 - vbaxl10.chm235177
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ConvertToFormulas
 ms.assetid: 8646696c-47c0-3851-4310-5e5368475266

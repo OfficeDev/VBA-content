@@ -3,7 +3,7 @@ title: ShapeRange.Type Property (Excel)
 keywords: vbaxl10.chm640118
 f1_keywords:
 - vbaxl10.chm640118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Type
 ms.assetid: 0634ea7d-c1f9-0de0-d0a2-81ac8f7fbe88

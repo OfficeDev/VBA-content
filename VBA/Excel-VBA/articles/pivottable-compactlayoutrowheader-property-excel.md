@@ -3,7 +3,7 @@ title: PivotTable.CompactLayoutRowHeader Property (Excel)
 keywords: vbaxl10.chm235179
 f1_keywords:
 - vbaxl10.chm235179
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CompactLayoutRowHeader
 ms.assetid: 9e0b99d0-9c51-f1cd-d5ed-775774381df8

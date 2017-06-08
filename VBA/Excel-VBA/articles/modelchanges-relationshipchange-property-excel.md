@@ -3,7 +3,7 @@ title: ModelChanges.RelationshipChange Property (Excel)
 keywords: vbaxl10.chm960077
 f1_keywords:
 - vbaxl10.chm960077
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f7c5464e-a756-844c-c7d4-a1a59058874c
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Workbook.ContentTypeProperties Property (Excel)
 keywords: vbaxl10.chm199234
 f1_keywords:
 - vbaxl10.chm199234
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ContentTypeProperties
 ms.assetid: a2919232-3fa2-7f37-00c2-48eb3edb10fd

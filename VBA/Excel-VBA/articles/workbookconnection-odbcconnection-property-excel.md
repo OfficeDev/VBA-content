@@ -3,7 +3,7 @@ title: WorkbookConnection.ODBCConnection Property (Excel)
 keywords: vbaxl10.chm774078
 f1_keywords:
 - vbaxl10.chm774078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.ODBCConnection
 ms.assetid: b5d388da-dcd0-9d9f-3dab-c311e42e46ba

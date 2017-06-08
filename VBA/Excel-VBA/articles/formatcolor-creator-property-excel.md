@@ -3,7 +3,7 @@ title: FormatColor.Creator Property (Excel)
 keywords: vbaxl10.chm801074
 f1_keywords:
 - vbaxl10.chm801074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatColor.Creator
 ms.assetid: 8167e66c-152d-efd7-9b8a-d98f11d4ce8c

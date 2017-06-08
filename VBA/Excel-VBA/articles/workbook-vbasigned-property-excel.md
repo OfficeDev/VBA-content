@@ -3,7 +3,7 @@ title: Workbook.VBASigned Property (Excel)
 keywords: vbaxl10.chm199195
 f1_keywords:
 - vbaxl10.chm199195
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.VBASigned
 ms.assetid: 6e93161c-2fa4-1064-9b5d-a8eb96ad2bea

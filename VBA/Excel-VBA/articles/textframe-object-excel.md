@@ -3,7 +3,7 @@ title: TextFrame Object (Excel)
 keywords: vbaxl10.chm643072
 f1_keywords:
 - vbaxl10.chm643072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame
 ms.assetid: 4a6d2201-84b8-d83a-cc13-703da047815e

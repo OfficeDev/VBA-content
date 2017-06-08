@@ -3,7 +3,7 @@ title: XmlSchema.Creator Property (Excel)
 keywords: vbaxl10.chm749074
 f1_keywords:
 - vbaxl10.chm749074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlSchema.Creator
 ms.assetid: d255b385-bc2f-84ca-68f3-79fe2c250651

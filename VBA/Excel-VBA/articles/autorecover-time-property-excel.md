@@ -3,7 +3,7 @@ title: AutoRecover.Time Property (Excel)
 keywords: vbaxl10.chm696074
 f1_keywords:
 - vbaxl10.chm696074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoRecover.Time
 ms.assetid: 096783b6-77ae-75eb-08cc-fa3978aa6121

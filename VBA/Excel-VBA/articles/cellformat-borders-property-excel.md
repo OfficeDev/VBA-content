@@ -3,7 +3,7 @@ title: CellFormat.Borders Property (Excel)
 keywords: vbaxl10.chm676073
 f1_keywords:
 - vbaxl10.chm676073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.Borders
 ms.assetid: 8a2ad449-a1b4-14ff-6a67-f475dba82c45

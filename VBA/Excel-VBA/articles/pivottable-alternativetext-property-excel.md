@@ -3,7 +3,7 @@ title: PivotTable.AlternativeText Property (Excel)
 keywords: vbaxl10.chm235198
 f1_keywords:
 - vbaxl10.chm235198
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AlternativeText
 ms.assetid: c7d12f8b-03a1-d60f-9294-9c0768dc8c94

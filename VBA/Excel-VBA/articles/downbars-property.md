@@ -3,7 +3,7 @@ title: DownBars Property
 keywords: vbagr10.chm5207325
 f1_keywords:
 - vbagr10.chm5207325
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DownBars
 ms.assetid: 752b1b94-9027-876a-54a2-7aabed4e055b

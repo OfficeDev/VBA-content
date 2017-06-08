@@ -3,7 +3,7 @@ title: Application.ShowSelectionFloaties Property (Excel)
 keywords: vbaxl10.chm133299
 f1_keywords:
 - vbaxl10.chm133299
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ShowSelectionFloaties
 ms.assetid: d2d74009-6b5e-ef62-2e32-83293b0f3f75

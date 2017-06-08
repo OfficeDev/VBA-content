@@ -3,7 +3,7 @@ title: Databar.Formula Property (Excel)
 keywords: vbaxl10.chm810082
 f1_keywords:
 - vbaxl10.chm810082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.Formula
 ms.assetid: 3ede7311-fef4-eb8f-5776-25e492980593

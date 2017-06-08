@@ -3,7 +3,7 @@ title: QueryTable.EditWebPage Property (Excel)
 keywords: vbaxl10.chm518130
 f1_keywords:
 - vbaxl10.chm518130
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.EditWebPage
 ms.assetid: 4de607d1-266f-cbd4-c236-af748cfe0d03

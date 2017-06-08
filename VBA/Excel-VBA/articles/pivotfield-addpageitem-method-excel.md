@@ -3,7 +3,7 @@ title: PivotField.AddPageItem Method (Excel)
 keywords: vbaxl10.chm240136
 f1_keywords:
 - vbaxl10.chm240136
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AddPageItem
 ms.assetid: c7f63c9f-9ad2-fcd9-13de-e9e46c40b8dc

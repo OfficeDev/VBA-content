@@ -3,7 +3,7 @@ title: Workbook.ExclusiveAccess Method (Excel)
 keywords: vbaxl10.chm199099
 f1_keywords:
 - vbaxl10.chm199099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ExclusiveAccess
 ms.assetid: 9b92ec4f-e256-7e01-6cd7-759a0d022813

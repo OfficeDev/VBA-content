@@ -3,7 +3,7 @@ title: ShapeRange.ShapeStyle Property (Excel)
 keywords: vbaxl10.chm640141
 f1_keywords:
 - vbaxl10.chm640141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.ShapeStyle
 ms.assetid: 7fd495a8-79fa-5397-e669-ae2c7b81470e

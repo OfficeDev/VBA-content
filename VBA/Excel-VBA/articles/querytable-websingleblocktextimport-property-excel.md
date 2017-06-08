@@ -3,7 +3,7 @@ title: QueryTable.WebSingleBlockTextImport Property (Excel)
 keywords: vbaxl10.chm518126
 f1_keywords:
 - vbaxl10.chm518126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.WebSingleBlockTextImport
 ms.assetid: 044de013-a065-86a3-b910-d4dec0a761b8

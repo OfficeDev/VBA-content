@@ -3,7 +3,7 @@ title: Fill Property
 keywords: vbagr10.chm5207366
 f1_keywords:
 - vbagr10.chm5207366
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Fill
 ms.assetid: 7a8ea56d-1b39-cc70-1fbc-7d1a488b1aba

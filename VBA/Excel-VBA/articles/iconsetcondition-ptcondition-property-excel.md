@@ -3,7 +3,7 @@ title: IconSetCondition.PTCondition Property (Excel)
 keywords: vbaxl10.chm812078
 f1_keywords:
 - vbaxl10.chm812078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.PTCondition
 ms.assetid: 66b29dd4-83e3-2f85-7ff5-7ed948b93e50

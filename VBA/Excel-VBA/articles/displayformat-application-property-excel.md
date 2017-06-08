@@ -3,7 +3,7 @@ title: DisplayFormat.Application Property (Excel)
 keywords: vbaxl10.chm892073
 f1_keywords:
 - vbaxl10.chm892073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Application
 ms.assetid: ba7948d5-24cd-3525-186e-15df6843214e

@@ -3,7 +3,7 @@ title: Databar.Delete Method (Excel)
 keywords: vbaxl10.chm810086
 f1_keywords:
 - vbaxl10.chm810086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.Delete
 ms.assetid: 6f3a71f2-c6c3-875e-083a-ade8b415cd9d

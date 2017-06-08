@@ -3,7 +3,7 @@ title: OLEDBConnection.ServerNumberFormat Property (Excel)
 keywords: vbaxl10.chm794102
 f1_keywords:
 - vbaxl10.chm794102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerNumberFormat
 ms.assetid: da1ea33c-d4a5-ca2f-7159-8e9d22a5bc8e

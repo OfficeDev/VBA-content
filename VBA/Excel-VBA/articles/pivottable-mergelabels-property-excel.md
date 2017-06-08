@@ -3,7 +3,7 @@ title: PivotTable.MergeLabels Property (Excel)
 keywords: vbaxl10.chm235113
 f1_keywords:
 - vbaxl10.chm235113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.MergeLabels
 ms.assetid: 2c658f34-1ec5-e1c8-59f7-b4401efc2646

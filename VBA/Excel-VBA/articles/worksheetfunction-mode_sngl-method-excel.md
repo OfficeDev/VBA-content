@@ -3,7 +3,7 @@ title: WorksheetFunction.Mode_Sngl Method (Excel)
 keywords: vbaxl10.chm137369
 f1_keywords:
 - vbaxl10.chm137369
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Mode_Sngl
 ms.assetid: d9e3139a-8b81-69b9-11cc-93cc0357cd51

@@ -3,7 +3,7 @@ title: Application.ShowToolTips Property (Excel)
 keywords: vbaxl10.chm133215
 f1_keywords:
 - vbaxl10.chm133215
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ShowToolTips
 ms.assetid: 71293989-d0c4-f277-9d0b-c8fcda0ebf1f

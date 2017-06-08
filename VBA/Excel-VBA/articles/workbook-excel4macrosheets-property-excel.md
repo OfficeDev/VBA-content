@@ -3,7 +3,7 @@ title: Workbook.Excel4MacroSheets Property (Excel)
 keywords: vbaxl10.chm199170
 f1_keywords:
 - vbaxl10.chm199170
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Excel4MacroSheets
 ms.assetid: 29161ab8-da75-c7b5-561d-f4423b8ab1ef

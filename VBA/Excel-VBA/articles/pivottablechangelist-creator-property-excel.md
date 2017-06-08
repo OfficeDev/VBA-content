@@ -3,7 +3,7 @@ title: PivotTableChangeList.Creator Property (Excel)
 keywords: vbaxl10.chm890074
 f1_keywords:
 - vbaxl10.chm890074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Creator
 ms.assetid: e843c050-3fe0-8aaa-85e3-7ca3b925ba8d

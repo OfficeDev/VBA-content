@@ -1,6 +1,6 @@
 ---
 title: XlArrowHeadStyle Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlArrowHeadStyle
 ms.assetid: 6666eb13-9c4f-298c-4297-11f618edfdf3

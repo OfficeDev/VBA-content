@@ -3,7 +3,7 @@ title: WorksheetFunction.TDist Method (Excel)
 keywords: vbaxl10.chm137205
 f1_keywords:
 - vbaxl10.chm137205
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.TDist
 ms.assetid: fb2165bc-0643-9046-13c7-0bfbd56cde93

@@ -3,7 +3,7 @@ title: Window.DisplayOutline Property (Excel)
 keywords: vbaxl10.chm356086
 f1_keywords:
 - vbaxl10.chm356086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.DisplayOutline
 ms.assetid: 3934e907-1792-6ff3-6529-dd1dd45ce221

@@ -3,7 +3,7 @@ title: Workbook.AcceptAllChanges Method (Excel)
 keywords: vbaxl10.chm199177
 f1_keywords:
 - vbaxl10.chm199177
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AcceptAllChanges
 ms.assetid: 8d8572a9-1231-c8ef-0707-72b8b5109066

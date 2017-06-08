@@ -3,7 +3,7 @@ title: Chart.SetSourceData Method (Excel)
 keywords: vbaxl10.chm149162
 f1_keywords:
 - vbaxl10.chm149162
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.SetSourceData
 ms.assetid: fc41cc05-087a-f53c-2f54-fd6307de51d6

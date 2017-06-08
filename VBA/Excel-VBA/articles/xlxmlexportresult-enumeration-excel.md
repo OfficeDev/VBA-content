@@ -1,6 +1,6 @@
 ---
 title: XlXmlExportResult Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlXmlExportResult
 ms.assetid: 0795a88c-41d0-8566-f644-2a886e451451

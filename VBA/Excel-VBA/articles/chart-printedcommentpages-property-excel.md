@@ -3,7 +3,7 @@ title: Chart.PrintedCommentPages Property (Excel)
 keywords: vbaxl10.chm149186
 f1_keywords:
 - vbaxl10.chm149186
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.PrintedCommentPages
 ms.assetid: 8f98f7af-4e2f-8743-b82b-c84ae83f6fdf

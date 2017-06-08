@@ -3,7 +3,7 @@ title: Border Property
 keywords: vbagr10.chm3076965
 f1_keywords:
 - vbagr10.chm3076965
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: c4c01534-3d56-7496-0368-fea8d2e2d0ae

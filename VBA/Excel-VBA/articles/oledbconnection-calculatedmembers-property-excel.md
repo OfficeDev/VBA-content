@@ -3,7 +3,7 @@ title: OLEDBConnection.CalculatedMembers Property (Excel)
 keywords: vbaxl10.chm794106
 f1_keywords:
 - vbaxl10.chm794106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.CalculatedMembers
 ms.assetid: 9d0e8250-8045-7017-629a-f39729df1083

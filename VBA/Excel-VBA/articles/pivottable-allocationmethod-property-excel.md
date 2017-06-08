@@ -3,7 +3,7 @@ title: PivotTable.AllocationMethod Property (Excel)
 keywords: vbaxl10.chm235189
 f1_keywords:
 - vbaxl10.chm235189
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AllocationMethod
 ms.assetid: 726393d4-4aba-556a-9278-976e7b9a1088

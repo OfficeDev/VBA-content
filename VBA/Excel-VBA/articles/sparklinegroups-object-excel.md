@@ -3,7 +3,7 @@ title: SparklineGroups Object (Excel)
 keywords: vbaxl10.chm868072
 f1_keywords:
 - vbaxl10.chm868072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroups
 ms.assetid: 9bc6be34-fa2e-8652-ca92-fa9630b4d7a6

@@ -3,7 +3,7 @@ title: ListObject.TotalsRowRange Property (Excel)
 keywords: vbaxl10.chm734094
 f1_keywords:
 - vbaxl10.chm734094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.TotalsRowRange
 ms.assetid: 80f22712-5113-30d9-a0ea-1158a563d17b

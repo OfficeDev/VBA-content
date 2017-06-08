@@ -3,7 +3,7 @@ title: Range.FindPrevious Method (Excel)
 keywords: vbaxl10.chm144130
 f1_keywords:
 - vbaxl10.chm144130
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.FindPrevious
 ms.assetid: c03f2e17-d28c-8b0d-b8c8-024863523c99

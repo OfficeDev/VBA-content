@@ -3,7 +3,7 @@ title: ChartGroup.HasUpDownBars Property (Excel)
 keywords: vbaxl10.chm568083
 f1_keywords:
 - vbaxl10.chm568083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.HasUpDownBars
 ms.assetid: 891f305c-521c-3ec5-3e88-886e1dbdaea2

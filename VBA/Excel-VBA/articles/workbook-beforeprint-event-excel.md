@@ -3,7 +3,7 @@ title: Workbook.BeforePrint Event (Excel)
 keywords: vbaxl10.chm503078
 f1_keywords:
 - vbaxl10.chm503078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.BeforePrint
 ms.assetid: 2c97cb32-2bb3-2848-b5ed-32d9129af080

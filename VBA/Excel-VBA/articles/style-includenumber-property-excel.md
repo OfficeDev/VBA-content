@@ -3,7 +3,7 @@ title: Style.IncludeNumber Property (Excel)
 keywords: vbaxl10.chm177083
 f1_keywords:
 - vbaxl10.chm177083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.IncludeNumber
 ms.assetid: bd46ac34-67bb-cb78-1ad6-321fc4210f84

@@ -3,7 +3,7 @@ title: QueryTable.TextFileDecimalSeparator Property (Excel)
 keywords: vbaxl10.chm518118
 f1_keywords:
 - vbaxl10.chm518118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileDecimalSeparator
 ms.assetid: 2877a4fc-d5fa-6085-81d0-40397fa3c548

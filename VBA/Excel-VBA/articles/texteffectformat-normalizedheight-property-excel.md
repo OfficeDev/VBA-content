@@ -3,7 +3,7 @@ title: TextEffectFormat.NormalizedHeight Property (Excel)
 keywords: vbaxl10.chm118008
 f1_keywords:
 - vbaxl10.chm118008
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.NormalizedHeight
 ms.assetid: 25c9c1ed-971d-3a9f-bb3c-5059f2dd80db

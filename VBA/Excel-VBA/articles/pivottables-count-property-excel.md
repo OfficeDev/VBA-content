@@ -3,7 +3,7 @@ title: PivotTables.Count Property (Excel)
 keywords: vbaxl10.chm238073
 f1_keywords:
 - vbaxl10.chm238073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTables.Count
 ms.assetid: dd0aecc5-b2d5-1994-0785-d340b543171c

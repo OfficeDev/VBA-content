@@ -3,7 +3,7 @@ title: ChartObject.Index Property (Excel)
 keywords: vbaxl10.chm494083
 f1_keywords:
 - vbaxl10.chm494083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Index
 ms.assetid: 66c83d0f-e720-bb92-15ff-7186d2d74263

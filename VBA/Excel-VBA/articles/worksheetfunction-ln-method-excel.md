@@ -3,7 +3,7 @@ title: WorksheetFunction.Ln Method (Excel)
 keywords: vbaxl10.chm137086
 f1_keywords:
 - vbaxl10.chm137086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ln
 ms.assetid: 9fb08409-ae4a-6c3e-23f2-efb744a7777b

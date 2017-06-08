@@ -1,6 +1,6 @@
 ---
 title: XlDataBarNegativeColorType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataBarNegativeColorType
 ms.assetid: 8d012c0e-c131-8b77-39f2-15fa3856b1c8

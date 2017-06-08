@@ -1,6 +1,6 @@
 ---
 title: XlGradientFillType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlGradientFillType
 ms.assetid: d202a447-723e-5435-13ae-403fecb89507

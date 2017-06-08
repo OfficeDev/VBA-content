@@ -1,6 +1,6 @@
 ---
 title: XlSlicerCrossFilterType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSlicerCrossFilterType
 ms.assetid: 8f5e1daa-d548-3e58-4925-07d16c10140d

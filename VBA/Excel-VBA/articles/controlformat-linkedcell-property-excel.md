@@ -3,7 +3,7 @@ title: ControlFormat.LinkedCell Property (Excel)
 keywords: vbaxl10.chm630079
 f1_keywords:
 - vbaxl10.chm630079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.LinkedCell
 ms.assetid: 398f46f0-593a-6020-6832-5aebe8c8cd68

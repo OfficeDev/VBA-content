@@ -3,7 +3,7 @@ title: Application.WorksheetFunction Property (Excel)
 keywords: vbaxl10.chm183116
 f1_keywords:
 - vbaxl10.chm183116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorksheetFunction
 ms.assetid: fd1333bf-8739-303d-30b4-85a99fb344b3

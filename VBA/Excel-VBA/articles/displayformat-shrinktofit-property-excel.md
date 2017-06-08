@@ -3,7 +3,7 @@ title: DisplayFormat.ShrinkToFit Property (Excel)
 keywords: vbaxl10.chm893088
 f1_keywords:
 - vbaxl10.chm893088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.ShrinkToFit
 ms.assetid: 7a2a6b27-64de-b1f3-800a-3ff1f4727af8

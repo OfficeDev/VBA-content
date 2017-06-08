@@ -3,7 +3,7 @@ title: Workbook.SheetPivotTableChangeSync Event (Excel)
 keywords: vbaxl10.chm503106
 f1_keywords:
 - vbaxl10.chm503106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetPivotTableChangeSync
 ms.assetid: c280b935-3dbf-0666-b727-64d6b4ac7ebd

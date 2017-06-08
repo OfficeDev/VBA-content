@@ -3,7 +3,7 @@ title: IconSetCondition.Formula Property (Excel)
 keywords: vbaxl10.chm812086
 f1_keywords:
 - vbaxl10.chm812086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.Formula
 ms.assetid: c09e8f84-a01c-4ffd-46b1-5efaae0849a0

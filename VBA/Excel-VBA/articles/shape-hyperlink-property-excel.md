@@ -3,7 +3,7 @@ title: Shape.Hyperlink Property (Excel)
 keywords: vbaxl10.chm636117
 f1_keywords:
 - vbaxl10.chm636117
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Hyperlink
 ms.assetid: 97c87fda-91a5-b5db-a82b-6ba1465442fa

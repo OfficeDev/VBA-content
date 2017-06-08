@@ -3,7 +3,7 @@ title: XmlNamespaces.Creator Property (Excel)
 keywords: vbaxl10.chm745074
 f1_keywords:
 - vbaxl10.chm745074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Creator
 ms.assetid: 3ce50d2b-2910-d6c7-96ea-fd664b3d5acc

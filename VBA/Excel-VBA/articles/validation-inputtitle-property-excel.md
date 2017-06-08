@@ -3,7 +3,7 @@ title: Validation.InputTitle Property (Excel)
 keywords: vbaxl10.chm532082
 f1_keywords:
 - vbaxl10.chm532082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.InputTitle
 ms.assetid: 77e6bb8b-1fc2-084c-69b7-31b07f8145d3

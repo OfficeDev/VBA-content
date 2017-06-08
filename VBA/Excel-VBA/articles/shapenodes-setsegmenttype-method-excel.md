@@ -3,7 +3,7 @@ title: ShapeNodes.SetSegmentType Method (Excel)
 keywords: vbaxl10.chm112011
 f1_keywords:
 - vbaxl10.chm112011
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.SetSegmentType
 ms.assetid: 6223e503-4838-2365-9610-26d0a376ccae

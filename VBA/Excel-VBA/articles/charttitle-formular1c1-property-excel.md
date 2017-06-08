@@ -3,7 +3,7 @@ title: ChartTitle.FormulaR1C1 Property (Excel)
 keywords: vbaxl10.chm563098
 f1_keywords:
 - vbaxl10.chm563098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.FormulaR1C1
 ms.assetid: 6e8f611d-2cd8-24d7-3cc8-f56ec611365a

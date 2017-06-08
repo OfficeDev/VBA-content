@@ -3,7 +3,7 @@ title: Charts.Select Method (Excel)
 keywords: vbaxl10.chm217081
 f1_keywords:
 - vbaxl10.chm217081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Charts.Select
 ms.assetid: 92f99f97-6043-f44f-78dd-9253050efb36

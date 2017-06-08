@@ -3,7 +3,7 @@ title: DataLabels.Item Method (Excel)
 keywords: vbaxl10.chm584106
 f1_keywords:
 - vbaxl10.chm584106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Item
 ms.assetid: bc45ebcc-00f0-c253-0d68-002d8f20d750

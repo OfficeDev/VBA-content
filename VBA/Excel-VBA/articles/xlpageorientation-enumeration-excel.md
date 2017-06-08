@@ -1,6 +1,6 @@
 ---
 title: XlPageOrientation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPageOrientation
 ms.assetid: b62e112f-a347-7711-c6fd-925bed84ed47

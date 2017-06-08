@@ -3,7 +3,7 @@ title: WorksheetFunction.Hex2Oct Method (Excel)
 keywords: vbaxl10.chm137263
 f1_keywords:
 - vbaxl10.chm137263
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Hex2Oct
 ms.assetid: fd1bdc2b-a5bc-e37a-85c4-2275536e2efc

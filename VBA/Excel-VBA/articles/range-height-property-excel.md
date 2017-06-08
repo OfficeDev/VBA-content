@@ -3,7 +3,7 @@ title: Range.Height Property (Excel)
 keywords: vbaxl10.chm144144
 f1_keywords:
 - vbaxl10.chm144144
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Height
 ms.assetid: e204a719-d7de-cd18-65b9-c34575bd92e5

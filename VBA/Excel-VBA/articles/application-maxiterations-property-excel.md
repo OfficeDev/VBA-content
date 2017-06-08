@@ -3,7 +3,7 @@ title: Application.MaxIterations Property (Excel)
 keywords: vbaxl10.chm133163
 f1_keywords:
 - vbaxl10.chm133163
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MaxIterations
 ms.assetid: 83f12597-9186-e415-a22b-9e028bd95169

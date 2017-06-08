@@ -3,7 +3,7 @@ title: ChartArea.Left Property (Excel)
 keywords: vbaxl10.chm620086
 f1_keywords:
 - vbaxl10.chm620086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea.Left
 ms.assetid: 3bbdcecf-86a8-b7ab-b2c6-7c520d1d5d42

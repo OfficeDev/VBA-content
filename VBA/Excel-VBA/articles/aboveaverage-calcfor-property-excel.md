@@ -3,7 +3,7 @@ title: AboveAverage.CalcFor Property (Excel)
 keywords: vbaxl10.chm824088
 f1_keywords:
 - vbaxl10.chm824088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.CalcFor
 ms.assetid: 9a9e04df-f3f8-2daa-b58c-3245f4bfe6c9

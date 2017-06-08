@@ -3,7 +3,7 @@ title: LinkFormat.Creator Property (Excel)
 keywords: vbaxl10.chm633074
 f1_keywords:
 - vbaxl10.chm633074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinkFormat.Creator
 ms.assetid: cb1b0a6d-af14-0f9c-2e5e-d991d7011a20

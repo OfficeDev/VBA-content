@@ -3,7 +3,7 @@ title: PivotField.GroupLevel Property (Excel)
 keywords: vbaxl10.chm240082
 f1_keywords:
 - vbaxl10.chm240082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.GroupLevel
 ms.assetid: fc017652-bded-4655-03df-79cfa733b12e

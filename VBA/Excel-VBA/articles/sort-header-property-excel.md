@@ -3,7 +3,7 @@ title: Sort.Header Property (Excel)
 keywords: vbaxl10.chm847074
 f1_keywords:
 - vbaxl10.chm847074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sort.Header
 ms.assetid: e5f2967f-de53-96a9-3742-5ba2353e0bcf

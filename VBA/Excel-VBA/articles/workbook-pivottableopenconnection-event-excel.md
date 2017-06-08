@@ -3,7 +3,7 @@ title: Workbook.PivotTableOpenConnection Event (Excel)
 keywords: vbaxl10.chm503095
 f1_keywords:
 - vbaxl10.chm503095
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b6ce12f7-7bc6-bfcc-33f4-2e8ea6e53bae
 ms.date: 06/08/2017
 ---

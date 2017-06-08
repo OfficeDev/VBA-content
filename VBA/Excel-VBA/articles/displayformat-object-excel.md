@@ -3,7 +3,7 @@ title: DisplayFormat Object (Excel)
 keywords: vbaxl10.chm892072
 f1_keywords:
 - vbaxl10.chm892072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat
 ms.assetid: c70b5d7f-adf1-e539-a32d-12c920af7c7e

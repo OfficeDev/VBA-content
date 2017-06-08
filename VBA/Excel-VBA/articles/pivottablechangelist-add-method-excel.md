@@ -3,7 +3,7 @@ title: PivotTableChangeList.Add Method (Excel)
 keywords: vbaxl10.chm891077
 f1_keywords:
 - vbaxl10.chm891077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Add
 ms.assetid: d871f244-a669-9508-a006-bb36e693a288

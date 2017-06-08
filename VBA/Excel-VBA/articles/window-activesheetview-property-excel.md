@@ -3,7 +3,7 @@ title: Window.ActiveSheetView Property (Excel)
 keywords: vbaxl10.chm356134
 f1_keywords:
 - vbaxl10.chm356134
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ActiveSheetView
 ms.assetid: 75bdb4a6-0579-649c-20a4-6cd55fbd7e3e

@@ -3,7 +3,7 @@ title: Range.Find Method (Excel)
 keywords: vbaxl10.chm144128
 f1_keywords:
 - vbaxl10.chm144128
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Find
 ms.assetid: d9585265-8164-cb4d-a9e3-262f6e06b6b8

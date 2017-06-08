@@ -3,7 +3,7 @@ title: ChartArea Object
 keywords: vbagr10.chm5207179
 f1_keywords:
 - vbagr10.chm5207179
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea
 ms.assetid: 85fcf460-6b2b-142f-ce4a-4a74e9d8efd3

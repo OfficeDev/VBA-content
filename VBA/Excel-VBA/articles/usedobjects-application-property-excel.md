@@ -3,7 +3,7 @@ title: UsedObjects.Application Property (Excel)
 keywords: vbaxl10.chm677073
 f1_keywords:
 - vbaxl10.chm677073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UsedObjects.Application
 ms.assetid: 7d788cd6-d0e1-1863-8e17-7900fdb5fed4

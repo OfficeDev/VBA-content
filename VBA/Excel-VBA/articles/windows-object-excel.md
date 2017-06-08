@@ -3,7 +3,7 @@ title: Windows Object (Excel)
 keywords: vbaxl10.chm353072
 f1_keywords:
 - vbaxl10.chm353072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows
 ms.assetid: d5d0e3c9-9132-469c-d033-d29397dacd77

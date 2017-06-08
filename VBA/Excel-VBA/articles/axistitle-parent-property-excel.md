@@ -3,7 +3,7 @@ title: AxisTitle.Parent Property (Excel)
 keywords: vbaxl10.chm566073
 f1_keywords:
 - vbaxl10.chm566073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Parent
 ms.assetid: 9dbdf391-1942-55ba-9202-2cdfc83d26f6

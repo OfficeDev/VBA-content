@@ -3,7 +3,7 @@ title: ListObject.Delete Method (Excel)
 keywords: vbaxl10.chm734073
 f1_keywords:
 - vbaxl10.chm734073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.Delete
 ms.assetid: cd621c14-5e13-b51b-2b39-29118aeac3c8

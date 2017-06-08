@@ -3,7 +3,7 @@ title: ModelColumnChange.TableName Property (Excel)
 keywords: vbaxl10.chm966073
 f1_keywords:
 - vbaxl10.chm966073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 56aacaeb-52aa-1dee-9f29-6bf867287c53
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: Style.IncludeProtection Property (Excel)
 keywords: vbaxl10.chm177085
 f1_keywords:
 - vbaxl10.chm177085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.IncludeProtection
 ms.assetid: 666afea1-4a2a-7f44-ecff-d9d44098a527

@@ -3,7 +3,7 @@ title: CalculatedItems.Parent Property (Excel)
 keywords: vbaxl10.chm249075
 f1_keywords:
 - vbaxl10.chm249075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Parent
 ms.assetid: 7dda0130-070d-ff11-1226-78d7135163cd

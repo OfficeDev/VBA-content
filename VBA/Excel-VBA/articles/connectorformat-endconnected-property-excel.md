@@ -3,7 +3,7 @@ title: ConnectorFormat.EndConnected Property (Excel)
 keywords: vbaxl10.chm646080
 f1_keywords:
 - vbaxl10.chm646080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.EndConnected
 ms.assetid: e0831e66-f392-5044-0931-97bdab4de9c2

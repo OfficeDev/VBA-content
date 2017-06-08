@@ -3,7 +3,7 @@ title: Worksheet.Next Property (Excel)
 keywords: vbaxl10.chm174081
 f1_keywords:
 - vbaxl10.chm174081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Next
 ms.assetid: 971d5df0-ba23-ac67-7862-67586452e992

@@ -3,7 +3,7 @@ title: PivotField.MemoryUsed Property (Excel)
 keywords: vbaxl10.chm240109
 f1_keywords:
 - vbaxl10.chm240109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.MemoryUsed
 ms.assetid: 8faeb893-e0a0-39ed-aa78-4b2b5bb67d69

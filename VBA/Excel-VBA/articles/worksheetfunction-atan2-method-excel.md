@@ -3,7 +3,7 @@ title: WorksheetFunction.Atan2 Method (Excel)
 keywords: vbaxl10.chm137118
 f1_keywords:
 - vbaxl10.chm137118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Atan2
 ms.assetid: d6a6597d-9d46-fdad-3bf1-05cee4cf9e20

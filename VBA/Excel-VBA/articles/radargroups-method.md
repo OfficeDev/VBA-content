@@ -3,7 +3,7 @@ title: RadarGroups Method
 keywords: vbagr10.chm3077630
 f1_keywords:
 - vbagr10.chm3077630
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RadarGroups
 ms.assetid: 5fbca532-ae99-fb41-dd1d-2d24909bf073

@@ -3,7 +3,7 @@ title: Worksheet.PivotTables Method (Excel)
 keywords: vbaxl10.chm175118
 f1_keywords:
 - vbaxl10.chm175118
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTables
 ms.assetid: b60944cd-827d-15dc-d49e-c739c237de15

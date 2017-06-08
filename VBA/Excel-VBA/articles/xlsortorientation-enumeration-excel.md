@@ -1,6 +1,6 @@
 ---
 title: XlSortOrientation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSortOrientation
 ms.assetid: d63a94e5-ff58-69b6-e553-4c485948ee62

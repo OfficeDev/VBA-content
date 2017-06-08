@@ -3,7 +3,7 @@ title: TableStyle.Application Property (Excel)
 keywords: vbaxl10.chm838073
 f1_keywords:
 - vbaxl10.chm838073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyle.Application
 ms.assetid: 5bcd6398-4900-10e7-bb0a-a6a8253f3951

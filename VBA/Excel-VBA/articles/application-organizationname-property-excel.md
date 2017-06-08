@@ -3,7 +3,7 @@ title: Application.OrganizationName Property (Excel)
 keywords: vbaxl10.chm133188
 f1_keywords:
 - vbaxl10.chm133188
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.OrganizationName
 ms.assetid: 4255a006-52df-66f6-2948-a9522e3adfef

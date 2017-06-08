@@ -3,7 +3,7 @@ title: Application.ProtectedViewWindowActivate Event (Excel)
 keywords: vbaxl10.chm504112
 f1_keywords:
 - vbaxl10.chm504112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowActivate
 ms.assetid: 271e0344-9dd1-bf08-f7bd-9892ca6ad450

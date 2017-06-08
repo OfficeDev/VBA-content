@@ -3,7 +3,7 @@ title: WorksheetFunction.TBillPrice Method (Excel)
 keywords: vbaxl10.chm137316
 f1_keywords:
 - vbaxl10.chm137316
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.TBillPrice
 ms.assetid: ab67c60b-d612-9f96-4c64-00ae7344ff9c

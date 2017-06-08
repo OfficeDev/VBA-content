@@ -3,7 +3,7 @@ title: Application.MailLogon Method (Excel)
 keywords: vbaxl10.chm133158
 f1_keywords:
 - vbaxl10.chm133158
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MailLogon
 ms.assetid: 0a6c8752-739d-b996-1426-4d3021ea5323

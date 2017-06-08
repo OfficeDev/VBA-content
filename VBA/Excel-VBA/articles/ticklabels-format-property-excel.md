@@ -3,7 +3,7 @@ title: TickLabels.Format Property (Excel)
 keywords: vbaxl10.chm616088
 f1_keywords:
 - vbaxl10.chm616088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Format
 ms.assetid: 96e6148c-723f-93e9-e01e-37671dff8d5e

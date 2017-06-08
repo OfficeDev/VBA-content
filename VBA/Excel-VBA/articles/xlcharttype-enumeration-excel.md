@@ -1,6 +1,6 @@
 ---
 title: XlChartType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlChartType
 ms.assetid: bba4ee89-ee91-f55a-d2e0-59a73e5bfabe

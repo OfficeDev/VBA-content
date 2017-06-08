@@ -3,7 +3,7 @@ title: PivotField.Calculation Property (Excel)
 keywords: vbaxl10.chm240074
 f1_keywords:
 - vbaxl10.chm240074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Calculation
 ms.assetid: abdf0109-da46-1cf6-6f09-c4ba7a3baebd

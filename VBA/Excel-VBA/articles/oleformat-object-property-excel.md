@@ -3,7 +3,7 @@ title: OLEFormat.Object Property (Excel)
 keywords: vbaxl10.chm632074
 f1_keywords:
 - vbaxl10.chm632074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEFormat.Object
 ms.assetid: be4b7180-34f5-6577-4cfa-b8df017f307a

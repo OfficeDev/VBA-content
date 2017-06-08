@@ -3,7 +3,7 @@ title: DataLabel.AutoText Property (Excel)
 keywords: vbaxl10.chm582092
 f1_keywords:
 - vbaxl10.chm582092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.AutoText
 ms.assetid: a549b738-59fb-a096-c4e9-d8f00bc59239

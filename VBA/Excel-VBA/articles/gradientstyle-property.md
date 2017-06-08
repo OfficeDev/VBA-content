@@ -3,7 +3,7 @@ title: GradientStyle Property
 keywords: vbagr10.chm3077038
 f1_keywords:
 - vbagr10.chm3077038
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GradientStyle
 ms.assetid: 042a271c-165c-ba10-9702-7db744654760

@@ -3,7 +3,7 @@ title: ChartObject.SendToBack Method (Excel)
 keywords: vbaxl10.chm494091
 f1_keywords:
 - vbaxl10.chm494091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.SendToBack
 ms.assetid: a8f0f721-15ba-662f-ac17-0ac1657e3413

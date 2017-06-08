@@ -3,7 +3,7 @@ title: Protection.AllowFormattingCells Property (Excel)
 keywords: vbaxl10.chm719073
 f1_keywords:
 - vbaxl10.chm719073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowFormattingCells
 ms.assetid: 6e3d6fd1-a1f5-95c1-0ef2-795eba31b904

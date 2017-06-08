@@ -3,7 +3,7 @@ title: ListDataFormat.MaxCharacters Property (Excel)
 keywords: vbaxl10.chm758079
 f1_keywords:
 - vbaxl10.chm758079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.MaxCharacters
 ms.assetid: b8d73844-6f2b-7888-8268-a27cbfcc709c

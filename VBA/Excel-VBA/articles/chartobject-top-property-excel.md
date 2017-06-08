@@ -3,7 +3,7 @@ title: ChartObject.Top Property (Excel)
 keywords: vbaxl10.chm494092
 f1_keywords:
 - vbaxl10.chm494092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Top
 ms.assetid: 726894bb-1a49-47b5-2b47-b7a8b204e2db

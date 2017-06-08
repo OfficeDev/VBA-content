@@ -3,7 +3,7 @@ title: Range.DirectPrecedents Property (Excel)
 keywords: vbaxl10.chm144119
 f1_keywords:
 - vbaxl10.chm144119
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.DirectPrecedents
 ms.assetid: d7eebe51-3e4c-e902-e6a5-1617bd21ef4e

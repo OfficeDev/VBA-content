@@ -3,7 +3,7 @@ title: Series.HasErrorBars Property (Excel)
 keywords: vbaxl10.chm578089
 f1_keywords:
 - vbaxl10.chm578089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.HasErrorBars
 ms.assetid: 03d9a6e6-8c15-2bdb-1bca-ed9fb95e9cb3

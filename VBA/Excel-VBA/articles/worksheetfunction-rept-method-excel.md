@@ -3,7 +3,7 @@ title: WorksheetFunction.Rept Method (Excel)
 keywords: vbaxl10.chm137091
 f1_keywords:
 - vbaxl10.chm137091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Rept
 ms.assetid: acf1bf30-3722-79f3-c3ab-42c3f14aa435

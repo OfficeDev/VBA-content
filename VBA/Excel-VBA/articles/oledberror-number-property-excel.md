@@ -3,7 +3,7 @@ title: OLEDBError.Number Property (Excel)
 keywords: vbaxl10.chm654076
 f1_keywords:
 - vbaxl10.chm654076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBError.Number
 ms.assetid: 9e88a0bb-1cbf-d98e-52a9-a8f9a0bde81c

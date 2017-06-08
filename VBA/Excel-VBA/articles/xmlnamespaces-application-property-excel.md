@@ -3,7 +3,7 @@ title: XmlNamespaces.Application Property (Excel)
 keywords: vbaxl10.chm745073
 f1_keywords:
 - vbaxl10.chm745073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Application
 ms.assetid: c885b4c1-429d-8318-5898-8f1a881163ba

@@ -3,7 +3,7 @@ title: FormatColor Object (Excel)
 keywords: vbaxl10.chm801072
 f1_keywords:
 - vbaxl10.chm801072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatColor
 ms.assetid: b7818b27-8790-ef52-c24e-8edbdcf979f2

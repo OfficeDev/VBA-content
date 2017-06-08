@@ -3,7 +3,7 @@ title: ChartArea.RoundedCorners Property (Excel)
 keywords: vbaxl10.chm620091
 f1_keywords:
 - vbaxl10.chm620091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartArea.RoundedCorners
 ms.assetid: 1e9ef356-44e6-480b-bc60-a1263fd2ee90

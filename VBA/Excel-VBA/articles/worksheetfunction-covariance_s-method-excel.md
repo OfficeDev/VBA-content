@@ -3,7 +3,7 @@ title: WorksheetFunction.Covariance_S Method (Excel)
 keywords: vbaxl10.chm137364
 f1_keywords:
 - vbaxl10.chm137364
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Covariance_S
 ms.assetid: b660d4b7-80d4-3b79-f987-373f01020e6d

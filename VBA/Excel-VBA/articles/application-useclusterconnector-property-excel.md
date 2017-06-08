@@ -3,7 +3,7 @@ title: Application.UseClusterConnector Property (Excel)
 keywords: vbaxl10.chm133325
 f1_keywords:
 - vbaxl10.chm133325
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.UseClusterConnector
 ms.assetid: 9da42299-f23d-66e8-79b3-6105a0626db1

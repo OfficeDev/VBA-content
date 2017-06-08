@@ -3,7 +3,7 @@ title: Workbook.AutoUpdateSaveChanges Property (Excel)
 keywords: vbaxl10.chm199079
 f1_keywords:
 - vbaxl10.chm199079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AutoUpdateSaveChanges
 ms.assetid: 06f9951d-a17a-bf88-4f6e-65835eb112f8

@@ -3,7 +3,7 @@ title: InterceptIsAuto Property
 keywords: vbagr10.chm65723
 f1_keywords:
 - vbagr10.chm65723
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.InterceptIsAuto
 ms.assetid: fd5b2155-8b45-8a67-19c9-8a18a4d3f6f3

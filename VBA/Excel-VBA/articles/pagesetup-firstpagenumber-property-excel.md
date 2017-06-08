@@ -3,7 +3,7 @@ title: PageSetup.FirstPageNumber Property (Excel)
 keywords: vbaxl10.chm473081
 f1_keywords:
 - vbaxl10.chm473081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.FirstPageNumber
 ms.assetid: 606d2bb3-9e3f-2d98-01ea-3257e83f61ea

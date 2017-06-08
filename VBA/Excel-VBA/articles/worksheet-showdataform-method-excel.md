@@ -3,7 +3,7 @@ title: Worksheet.ShowDataForm Method (Excel)
 keywords: vbaxl10.chm175127
 f1_keywords:
 - vbaxl10.chm175127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.ShowDataForm
 ms.assetid: 587a5446-d97e-51d1-d1d9-f5113f8afc0f

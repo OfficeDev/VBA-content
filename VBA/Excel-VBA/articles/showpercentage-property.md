@@ -3,7 +3,7 @@ title: ShowPercentage Property
 keywords: vbagr10.chm3077090
 f1_keywords:
 - vbagr10.chm3077090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShowPercentage
 ms.assetid: 32e2e547-8fb6-f3c7-3f61-a32a5d77d98d

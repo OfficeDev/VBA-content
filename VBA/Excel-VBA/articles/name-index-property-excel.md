@@ -3,7 +3,7 @@ title: Name.Index Property (Excel)
 keywords: vbaxl10.chm490074
 f1_keywords:
 - vbaxl10.chm490074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Index
 ms.assetid: b7c5c593-80d3-d36a-ec68-7733bbb7e5a8

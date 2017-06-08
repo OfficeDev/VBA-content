@@ -3,7 +3,7 @@ title: ModelConnection Object (Excel)
 keywords: vbaxl10.chm921072
 f1_keywords:
 - vbaxl10.chm921072
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: db1b8e2b-76f7-5a6f-b510-6a4d6c4e9857
 ms.date: 06/08/2017
 ---

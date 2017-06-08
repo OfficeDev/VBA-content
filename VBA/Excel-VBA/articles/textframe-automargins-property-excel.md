@@ -3,7 +3,7 @@ title: TextFrame.AutoMargins Property (Excel)
 keywords: vbaxl10.chm644083
 f1_keywords:
 - vbaxl10.chm644083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame.AutoMargins
 ms.assetid: a91ecac5-c907-8ae1-a0b8-1569f2466adf

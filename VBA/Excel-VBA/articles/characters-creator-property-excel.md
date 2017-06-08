@@ -3,7 +3,7 @@ title: Characters.Creator Property (Excel)
 keywords: vbaxl10.chm251074
 f1_keywords:
 - vbaxl10.chm251074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Characters.Creator
 ms.assetid: 99eb693a-3b61-5cb2-2f61-e0ead578aa57

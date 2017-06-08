@@ -3,7 +3,7 @@ title: Range.ExportAsFixedFormat Method (Excel)
 keywords: vbaxl10.chm144246
 f1_keywords:
 - vbaxl10.chm144246
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ExportAsFixedFormat
 ms.assetid: 9786c633-e9bd-3ce3-0246-7bcb3c4b4ce1

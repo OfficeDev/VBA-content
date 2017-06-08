@@ -3,7 +3,7 @@ title: Application.SmartArtQuickStyles Property (Excel)
 keywords: vbaxl10.chm133320
 f1_keywords:
 - vbaxl10.chm133320
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SmartArtQuickStyles
 ms.assetid: d4c9d4cf-b077-17b2-33dd-8449d0185b95

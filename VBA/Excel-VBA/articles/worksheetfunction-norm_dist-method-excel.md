@@ -3,7 +3,7 @@ title: WorksheetFunction.Norm_Dist Method (Excel)
 keywords: vbaxl10.chm137370
 f1_keywords:
 - vbaxl10.chm137370
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_Dist
 ms.assetid: 68208573-94ef-aab3-42d0-dee396b7504d

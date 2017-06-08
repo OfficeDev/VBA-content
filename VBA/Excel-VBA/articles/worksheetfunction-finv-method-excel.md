@@ -3,7 +3,7 @@ title: WorksheetFunction.FInv Method (Excel)
 keywords: vbaxl10.chm137186
 f1_keywords:
 - vbaxl10.chm137186
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FInv
 ms.assetid: 4194c2ca-a9c7-ba96-2f17-b24bcb6f4a36

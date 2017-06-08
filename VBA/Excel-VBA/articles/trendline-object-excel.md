@@ -3,7 +3,7 @@ title: Trendline Object (Excel)
 keywords: vbaxl10.chm593072
 f1_keywords:
 - vbaxl10.chm593072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline
 ms.assetid: 5c04b065-57f4-a059-7c22-50612bd727ea

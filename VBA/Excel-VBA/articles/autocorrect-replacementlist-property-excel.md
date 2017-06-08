@@ -3,7 +3,7 @@ title: AutoCorrect.ReplacementList Property (Excel)
 keywords: vbaxl10.chm545076
 f1_keywords:
 - vbaxl10.chm545076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.ReplacementList
 ms.assetid: 10bc895b-cd97-26a7-8b9e-4ac9347ebfc1

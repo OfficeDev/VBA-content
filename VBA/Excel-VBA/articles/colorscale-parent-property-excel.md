@@ -3,7 +3,7 @@ title: ColorScale.Parent Property (Excel)
 keywords: vbaxl10.chm805075
 f1_keywords:
 - vbaxl10.chm805075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.Parent
 ms.assetid: b07807a7-d11a-679a-e399-05de0fa0460e

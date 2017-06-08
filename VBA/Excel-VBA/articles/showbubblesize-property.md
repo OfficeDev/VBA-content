@@ -3,7 +3,7 @@ title: ShowBubbleSize Property
 keywords: vbagr10.chm3077088
 f1_keywords:
 - vbagr10.chm3077088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShowBubbleSize
 ms.assetid: abeee041-0fa0-537e-6786-37213a6004c1

@@ -3,7 +3,7 @@ title: WorksheetDataConnection.Connection Property (Excel)
 keywords: vbaxl10.chm924073
 f1_keywords:
 - vbaxl10.chm924073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 63271724-6b0b-94fe-ad9d-7dd378612943
 ms.date: 06/08/2017
 ---

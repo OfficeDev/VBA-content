@@ -3,7 +3,7 @@ title: Workbook.RunAutoMacros Method (Excel)
 keywords: vbaxl10.chm199143
 f1_keywords:
 - vbaxl10.chm199143
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.RunAutoMacros
 ms.assetid: 85dfdadf-75e6-437d-fb7a-e17681a69b35

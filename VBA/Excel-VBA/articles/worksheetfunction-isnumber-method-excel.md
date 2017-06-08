@@ -3,7 +3,7 @@ title: WorksheetFunction.IsNumber Method (Excel)
 keywords: vbaxl10.chm137132
 f1_keywords:
 - vbaxl10.chm137132
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsNumber
 ms.assetid: f2159d1b-4f56-e64e-3a08-bafbb688a683

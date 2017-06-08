@@ -3,7 +3,7 @@ title: Outline.Parent Property (Excel)
 keywords: vbaxl10.chm454075
 f1_keywords:
 - vbaxl10.chm454075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline.Parent
 ms.assetid: 9a42fb74-6508-27f2-f874-254b7c33b084

@@ -3,7 +3,7 @@ title: Points.Item Method (Excel)
 keywords: vbaxl10.chm574075
 f1_keywords:
 - vbaxl10.chm574075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Points.Item
 ms.assetid: 1e588b64-3676-63ab-5136-eec028a82a4e

@@ -3,7 +3,7 @@ title: Protection.AllowInsertingHyperlinks Property (Excel)
 keywords: vbaxl10.chm719078
 f1_keywords:
 - vbaxl10.chm719078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowInsertingHyperlinks
 ms.assetid: ef334ce3-a8d3-d9db-e48b-739f150cfb98

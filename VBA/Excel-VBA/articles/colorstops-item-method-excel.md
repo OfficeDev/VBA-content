@@ -3,7 +3,7 @@ title: ColorStops.Item Method (Excel)
 keywords: vbaxl10.chm853075
 f1_keywords:
 - vbaxl10.chm853075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStops.Item
 ms.assetid: 23b7a530-715e-94a5-8039-bfe55c5c19d5

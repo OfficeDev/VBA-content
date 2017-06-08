@@ -3,7 +3,7 @@ title: Worksheet.EnableSelection Property (Excel)
 keywords: vbaxl10.chm175095
 f1_keywords:
 - vbaxl10.chm175095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.EnableSelection
 ms.assetid: e1647c07-3863-9268-864c-1c62b2eebbb1

@@ -3,7 +3,7 @@ title: ODBCErrors Object (Excel)
 keywords: vbaxl10.chm528072
 f1_keywords:
 - vbaxl10.chm528072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCErrors
 ms.assetid: 2f1c8a6b-2b9d-fc2c-7caa-289652ac8e24

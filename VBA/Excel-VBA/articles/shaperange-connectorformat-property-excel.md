@@ -3,7 +3,7 @@ title: ShapeRange.ConnectorFormat Property (Excel)
 keywords: vbaxl10.chm640102
 f1_keywords:
 - vbaxl10.chm640102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.ConnectorFormat
 ms.assetid: cc2c9559-a7f5-8e32-1976-c81e400fb9dd

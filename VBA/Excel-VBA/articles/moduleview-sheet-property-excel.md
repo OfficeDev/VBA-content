@@ -3,7 +3,7 @@ title: ModuleView.Sheet Property (Excel)
 keywords: vbaxl10.chm784073
 f1_keywords:
 - vbaxl10.chm784073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ModuleView.Sheet
 ms.assetid: 69b58d96-2f32-7fb4-eff7-889de6c72fcf

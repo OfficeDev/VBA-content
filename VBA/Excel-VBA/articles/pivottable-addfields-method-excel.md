@@ -3,7 +3,7 @@ title: PivotTable.AddFields Method (Excel)
 keywords: vbaxl10.chm235073
 f1_keywords:
 - vbaxl10.chm235073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.AddFields
 ms.assetid: b0ce878e-05a9-5c9a-4400-a26ba7c7162e

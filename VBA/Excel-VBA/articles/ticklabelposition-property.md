@@ -3,7 +3,7 @@ title: TickLabelPosition Property
 keywords: vbagr10.chm3077594
 f1_keywords:
 - vbagr10.chm3077594
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabelPosition
 ms.assetid: 5b4b6bbc-5c0b-2428-b100-d3f3562d6927

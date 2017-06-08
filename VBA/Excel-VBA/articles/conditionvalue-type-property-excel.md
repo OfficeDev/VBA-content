@@ -3,7 +3,7 @@ title: ConditionValue.Type Property (Excel)
 keywords: vbaxl10.chm804074
 f1_keywords:
 - vbaxl10.chm804074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConditionValue.Type
 ms.assetid: 20467063-f402-4e7f-42ba-581b61b83a15

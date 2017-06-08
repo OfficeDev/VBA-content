@@ -3,7 +3,7 @@ title: PivotCache.MissingItemsLimit Property (Excel)
 keywords: vbaxl10.chm227102
 f1_keywords:
 - vbaxl10.chm227102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.MissingItemsLimit
 ms.assetid: ff15a86c-b57f-ed55-bbfa-74e1c5ce753c

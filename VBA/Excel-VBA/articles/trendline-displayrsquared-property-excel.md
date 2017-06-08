@@ -3,7 +3,7 @@ title: Trendline.DisplayRSquared Property (Excel)
 keywords: vbaxl10.chm594080
 f1_keywords:
 - vbaxl10.chm594080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.DisplayRSquared
 ms.assetid: e8e447c3-d379-f6d0-74f2-629fa53b42ef

@@ -3,7 +3,7 @@ title: WorksheetFunction.LogNorm_Dist Method (Excel)
 keywords: vbaxl10.chm137407
 f1_keywords:
 - vbaxl10.chm137407
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LogNorm_Dist
 ms.assetid: df3510f3-0518-9e65-f9e9-af393c3113e1

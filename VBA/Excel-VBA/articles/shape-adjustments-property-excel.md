@@ -3,7 +3,7 @@ title: Shape.Adjustments Property (Excel)
 keywords: vbaxl10.chm636089
 f1_keywords:
 - vbaxl10.chm636089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Adjustments
 ms.assetid: 425befaf-e058-dff9-2265-66e4f1cbca39

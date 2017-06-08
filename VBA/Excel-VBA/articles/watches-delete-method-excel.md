@@ -3,7 +3,7 @@ title: Watches.Delete Method (Excel)
 keywords: vbaxl10.chm688078
 f1_keywords:
 - vbaxl10.chm688078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Watches.Delete
 ms.assetid: a6072aa8-fa9a-759d-0ead-e5908b4ec82b

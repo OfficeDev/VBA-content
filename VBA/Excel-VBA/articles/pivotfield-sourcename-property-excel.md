@@ -3,7 +3,7 @@ title: PivotField.SourceName Property (Excel)
 keywords: vbaxl10.chm240093
 f1_keywords:
 - vbaxl10.chm240093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.SourceName
 ms.assetid: d18eb5a0-d44c-9f04-45b1-94cdf468c13e

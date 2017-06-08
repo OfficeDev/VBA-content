@@ -3,7 +3,7 @@ title: FillFormat.PresetGradient Method (Excel)
 keywords: vbaxl10.chm115005
 f1_keywords:
 - vbaxl10.chm115005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.PresetGradient
 ms.assetid: 0bcebb14-7f39-d20c-6701-76355c212f99

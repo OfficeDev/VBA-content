@@ -3,7 +3,7 @@ title: Window.UsableHeight Property (Excel)
 keywords: vbaxl10.chm356119
 f1_keywords:
 - vbaxl10.chm356119
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.UsableHeight
 ms.assetid: e1cbcaa1-779a-1757-0a95-9e53e374ef7c

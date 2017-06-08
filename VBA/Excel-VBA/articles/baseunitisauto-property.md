@@ -3,7 +3,7 @@ title: BaseUnitIsAuto Property
 keywords: vbagr10.chm67184
 f1_keywords:
 - vbagr10.chm67184
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.BaseUnitIsAuto
 ms.assetid: 5c3257a8-2348-ff5c-53ce-86a7529d2dbb

@@ -3,7 +3,7 @@ title: Application.AutoFormatAsYouTypeReplaceHyperlinks Property (Excel)
 keywords: vbaxl10.chm133281
 f1_keywords:
 - vbaxl10.chm133281
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AutoFormatAsYouTypeReplaceHyperlinks
 ms.assetid: 92c02556-f39a-7ca4-31f5-88a5c9da12ea

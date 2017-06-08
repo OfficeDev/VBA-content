@@ -3,7 +3,7 @@ title: Series.ApplyPictToSides Property (Excel)
 keywords: vbaxl10.chm578115
 f1_keywords:
 - vbaxl10.chm578115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.ApplyPictToSides
 ms.assetid: 300e9c75-4108-32bc-01ab-c622843e6fbd

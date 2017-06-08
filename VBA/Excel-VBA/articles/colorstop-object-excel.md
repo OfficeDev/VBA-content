@@ -3,7 +3,7 @@ title: ColorStop Object (Excel)
 keywords: vbaxl10.chm850072
 f1_keywords:
 - vbaxl10.chm850072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStop
 ms.assetid: 43c4d024-8213-5f93-dfa9-229f37e09d9a

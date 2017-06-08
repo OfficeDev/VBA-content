@@ -3,7 +3,7 @@ title: Range.OutlineLevel Property (Excel)
 keywords: vbaxl10.chm144171
 f1_keywords:
 - vbaxl10.chm144171
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.OutlineLevel
 ms.assetid: bdab08a4-3576-4a65-2556-43ed9e9a576e

@@ -3,7 +3,7 @@ title: ListObject.XmlMap Property (Excel)
 keywords: vbaxl10.chm734096
 f1_keywords:
 - vbaxl10.chm734096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.XmlMap
 ms.assetid: 8bb623c7-84bc-5170-6afd-335853e716b2

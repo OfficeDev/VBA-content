@@ -3,7 +3,7 @@ title: Axis.DisplayUnit Property (Excel)
 keywords: vbaxl10.chm561113
 f1_keywords:
 - vbaxl10.chm561113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.DisplayUnit
 ms.assetid: 81a4a639-aab4-e404-9e54-c75739cc57f9

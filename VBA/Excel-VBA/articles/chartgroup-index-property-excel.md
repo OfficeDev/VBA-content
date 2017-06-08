@@ -3,7 +3,7 @@ title: ChartGroup.Index Property (Excel)
 keywords: vbaxl10.chm568085
 f1_keywords:
 - vbaxl10.chm568085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.Index
 ms.assetid: 94d5d282-9517-1ee4-5f47-6fcb7abce926

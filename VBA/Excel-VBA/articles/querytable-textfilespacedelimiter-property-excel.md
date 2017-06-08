@@ -3,7 +3,7 @@ title: QueryTable.TextFileSpaceDelimiter Property (Excel)
 keywords: vbaxl10.chm518106
 f1_keywords:
 - vbaxl10.chm518106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileSpaceDelimiter
 ms.assetid: d2c5fb8a-f235-d6d4-a73c-29477ea24fe4

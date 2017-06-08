@@ -3,7 +3,7 @@ title: CorrectSentenceCap Property
 keywords: vbagr10.chm67155
 f1_keywords:
 - vbagr10.chm67155
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CorrectSentenceCap
 ms.assetid: f0f5920d-fb2e-3a06-35ca-0e67202df6db

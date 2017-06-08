@@ -3,7 +3,7 @@ title: ErrorCheckingOptions.BackgroundChecking Property (Excel)
 keywords: vbaxl10.chm698073
 f1_keywords:
 - vbaxl10.chm698073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.BackgroundChecking
 ms.assetid: 427b3b32-c099-dc71-1255-7f73805a4db8

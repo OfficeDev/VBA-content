@@ -3,7 +3,7 @@ title: WorksheetFunction.IsOdd Method (Excel)
 keywords: vbaxl10.chm137298
 f1_keywords:
 - vbaxl10.chm137298
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsOdd
 ms.assetid: a55beb79-80de-60b0-651f-0cf69a815280

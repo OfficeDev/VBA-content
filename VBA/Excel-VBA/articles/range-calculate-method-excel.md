@@ -3,7 +3,7 @@ title: Range.Calculate Method (Excel)
 keywords: vbaxl10.chm144090
 f1_keywords:
 - vbaxl10.chm144090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Calculate
 ms.assetid: 7c29afda-4980-6992-fc8d-b4caf2f74660

@@ -3,7 +3,7 @@ title: SortField.CustomOrder Property (Excel)
 keywords: vbaxl10.chm843077
 f1_keywords:
 - vbaxl10.chm843077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField.CustomOrder
 ms.assetid: 02ac5d01-c4ea-bc10-b516-f9a424790287

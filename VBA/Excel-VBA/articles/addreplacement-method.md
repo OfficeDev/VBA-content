@@ -3,7 +3,7 @@ title: AddReplacement Method
 keywords: vbagr10.chm66682
 f1_keywords:
 - vbagr10.chm66682
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddReplacement
 ms.assetid: 70a6a3f7-e42f-e8b4-d7f8-1ad8f8c66ba7

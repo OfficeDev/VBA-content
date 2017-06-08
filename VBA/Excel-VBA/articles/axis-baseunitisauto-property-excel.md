@@ -3,7 +3,7 @@ title: Axis.BaseUnitIsAuto Property (Excel)
 keywords: vbaxl10.chm561105
 f1_keywords:
 - vbaxl10.chm561105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.BaseUnitIsAuto
 ms.assetid: e6f72a37-cfa7-4888-2688-f236fa61d259

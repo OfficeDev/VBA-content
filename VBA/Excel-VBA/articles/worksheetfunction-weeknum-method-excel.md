@@ -3,7 +3,7 @@ title: WorksheetFunction.WeekNum Method (Excel)
 keywords: vbaxl10.chm137341
 f1_keywords:
 - vbaxl10.chm137341
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.WeekNum
 ms.assetid: 9a99ad5a-76ba-da98-34d9-b5ee09647b10

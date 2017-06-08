@@ -1,6 +1,6 @@
 ---
 title: XlDataBarAxisPosition Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataBarAxisPosition
 ms.assetid: 5e447cc5-0bd1-c96a-2e3b-5d701489e61f

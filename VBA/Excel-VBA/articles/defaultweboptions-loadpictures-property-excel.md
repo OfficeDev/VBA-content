@@ -3,7 +3,7 @@ title: DefaultWebOptions.LoadPictures Property (Excel)
 keywords: vbaxl10.chm660075
 f1_keywords:
 - vbaxl10.chm660075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.LoadPictures
 ms.assetid: dc2bcc24-f30b-6d63-e85c-20f29a2aaf03

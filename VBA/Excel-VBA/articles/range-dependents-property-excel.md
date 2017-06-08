@@ -3,7 +3,7 @@ title: Range.Dependents Property (Excel)
 keywords: vbaxl10.chm144116
 f1_keywords:
 - vbaxl10.chm144116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Dependents
 ms.assetid: 47813412-306a-0f99-3ca5-d354b16af468

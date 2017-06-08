@@ -3,7 +3,7 @@ title: CustomView.Delete Method (Excel)
 keywords: vbaxl10.chm508077
 f1_keywords:
 - vbaxl10.chm508077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomView.Delete
 ms.assetid: bcfdea3b-0d7e-8dd2-230a-d318f638945e

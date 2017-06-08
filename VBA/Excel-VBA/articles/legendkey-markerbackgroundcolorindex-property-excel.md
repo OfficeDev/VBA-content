@@ -3,7 +3,7 @@ title: LegendKey.MarkerBackgroundColorIndex Property (Excel)
 keywords: vbaxl10.chm590081
 f1_keywords:
 - vbaxl10.chm590081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey.MarkerBackgroundColorIndex
 ms.assetid: a3300b32-d861-bba7-dbec-140a0580863c

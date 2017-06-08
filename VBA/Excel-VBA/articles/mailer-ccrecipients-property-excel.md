@@ -3,7 +3,7 @@ title: Mailer.CCRecipients Property (Excel)
 keywords: vbaxl10.chm499074
 f1_keywords:
 - vbaxl10.chm499074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Mailer.CCRecipients
 ms.assetid: efcceedd-dc35-a683-bdc1-50b8b8368f31

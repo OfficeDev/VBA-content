@@ -3,7 +3,7 @@ title: Trendlines.Parent Property (Excel)
 keywords: vbaxl10.chm592073
 f1_keywords:
 - vbaxl10.chm592073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendlines.Parent
 ms.assetid: c547b395-29af-119e-3b83-df67a9339c5c

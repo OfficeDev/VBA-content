@@ -1,6 +1,6 @@
 ---
 title: XlTickLabelOrientation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlTickLabelOrientation
 ms.assetid: e278abce-7454-05c2-7ce5-7295a6568afd

@@ -3,7 +3,7 @@ title: ShapeNodes.SetEditingType Method (Excel)
 keywords: vbaxl10.chm112009
 f1_keywords:
 - vbaxl10.chm112009
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes.SetEditingType
 ms.assetid: 5bf464d6-b9d3-f62b-a625-0d153d7f265e

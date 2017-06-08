@@ -3,7 +3,7 @@ title: SparkAxes.Horizontal Property (Excel)
 keywords: vbaxl10.chm877074
 f1_keywords:
 - vbaxl10.chm877074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkAxes.Horizontal
 ms.assetid: 7519ca71-d22f-2312-b0ae-0defa3ff1991

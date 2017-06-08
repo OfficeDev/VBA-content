@@ -3,7 +3,7 @@ title: Application.Undo Method (Excel)
 keywords: vbaxl10.chm133221
 f1_keywords:
 - vbaxl10.chm133221
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Undo
 ms.assetid: b56bb8a0-2cd1-356a-03ba-47eb6f56f455

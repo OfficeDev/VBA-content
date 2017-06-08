@@ -3,7 +3,7 @@ title: Range.Phonetic Property (Excel)
 keywords: vbaxl10.chm144225
 f1_keywords:
 - vbaxl10.chm144225
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Phonetic
 ms.assetid: 9c6d1d83-b215-d60d-f78f-68e521e25368

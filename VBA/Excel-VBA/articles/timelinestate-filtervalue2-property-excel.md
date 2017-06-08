@@ -3,7 +3,7 @@ title: TimelineState.FilterValue2 Property (Excel)
 keywords: vbaxl10.chm950077
 f1_keywords:
 - vbaxl10.chm950077
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c48ba531-70fd-25db-e61f-a8cccd99ca82
 ms.date: 06/08/2017
 ---

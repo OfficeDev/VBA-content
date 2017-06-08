@@ -3,7 +3,7 @@ title: PivotField.Creator Property (Excel)
 keywords: vbaxl10.chm239074
 f1_keywords:
 - vbaxl10.chm239074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Creator
 ms.assetid: 4e80362c-b014-95bd-ef8e-705a5f58cc57

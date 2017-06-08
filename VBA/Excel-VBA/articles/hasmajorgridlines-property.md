@@ -3,7 +3,7 @@ title: HasMajorGridlines Property
 keywords: vbagr10.chm5207498
 f1_keywords:
 - vbagr10.chm5207498
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasMajorGridlines
 ms.assetid: f3c22d5d-4150-43b1-5f0d-3d49049e1e24

@@ -3,7 +3,7 @@ title: Workbook.PivotTables Property (Excel)
 keywords: vbaxl10.chm199275
 f1_keywords:
 - vbaxl10.chm199275
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b11795e0-22c8-f089-c59a-5e3d7a09d5de
 ms.date: 06/08/2017
 ---

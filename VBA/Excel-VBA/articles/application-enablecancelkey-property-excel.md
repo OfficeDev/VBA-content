@@ -3,7 +3,7 @@ title: Application.EnableCancelKey Property (Excel)
 keywords: vbaxl10.chm133131
 f1_keywords:
 - vbaxl10.chm133131
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.EnableCancelKey
 ms.assetid: 7c9c17b3-dd04-c914-4ed5-a6ef81ccf0c3

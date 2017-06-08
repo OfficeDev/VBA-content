@@ -3,7 +3,7 @@ title: ShapeRange.Delete Method (Excel)
 keywords: vbaxl10.chm640079
 f1_keywords:
 - vbaxl10.chm640079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Delete
 ms.assetid: 6417fd0d-d7ed-3a76-262d-0426a2243100

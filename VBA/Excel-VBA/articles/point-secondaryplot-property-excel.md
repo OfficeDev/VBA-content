@@ -3,7 +3,7 @@ title: Point.SecondaryPlot Property (Excel)
 keywords: vbaxl10.chm576098
 f1_keywords:
 - vbaxl10.chm576098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.SecondaryPlot
 ms.assetid: 1a12020a-bbd5-30b0-106a-589a44b45ca6

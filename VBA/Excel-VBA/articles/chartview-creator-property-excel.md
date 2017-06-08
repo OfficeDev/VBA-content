@@ -3,7 +3,7 @@ title: ChartView.Creator Property (Excel)
 keywords: vbaxl10.chm780074
 f1_keywords:
 - vbaxl10.chm780074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartView.Creator
 ms.assetid: b79054ab-5f0b-c7a0-3247-6e6cfe0470cd

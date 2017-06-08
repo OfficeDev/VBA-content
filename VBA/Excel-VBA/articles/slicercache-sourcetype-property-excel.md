@@ -3,7 +3,7 @@ title: SlicerCache.SourceType Property (Excel)
 keywords: vbaxl10.chm897075
 f1_keywords:
 - vbaxl10.chm897075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.SourceType
 ms.assetid: 4e23b50d-5b9f-3272-3e14-1ce0b95f8dc4

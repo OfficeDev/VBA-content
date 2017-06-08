@@ -1,6 +1,6 @@
 ---
 title: XlFilterAllDatesInPeriod Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlFilterAllDatesInPeriod
 ms.assetid: f549638f-fdb3-a822-9b0b-5b1b8090d244

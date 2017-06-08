@@ -3,7 +3,7 @@ title: CubeField.AddMemberPropertyField Method (Excel)
 keywords: vbaxl10.chm668094
 f1_keywords:
 - vbaxl10.chm668094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.AddMemberPropertyField
 ms.assetid: 721f9720-00c0-d9cf-1413-f3b0cc658595

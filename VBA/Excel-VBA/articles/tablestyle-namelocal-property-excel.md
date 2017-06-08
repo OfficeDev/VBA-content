@@ -3,7 +3,7 @@ title: TableStyle.NameLocal Property (Excel)
 keywords: vbaxl10.chm839075
 f1_keywords:
 - vbaxl10.chm839075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyle.NameLocal
 ms.assetid: dc6c89d5-594c-87b5-c956-5aad52de318c

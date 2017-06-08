@@ -3,7 +3,7 @@ title: WorksheetFunction.MMult Method (Excel)
 keywords: vbaxl10.chm137139
 f1_keywords:
 - vbaxl10.chm137139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MMult
 ms.assetid: 8f410152-5682-2d71-007a-5fba5f884860

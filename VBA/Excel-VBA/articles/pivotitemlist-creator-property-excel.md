@@ -3,7 +3,7 @@ title: PivotItemList.Creator Property (Excel)
 keywords: vbaxl10.chm720074
 f1_keywords:
 - vbaxl10.chm720074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItemList.Creator
 ms.assetid: 25c6dac6-151d-faed-dc6d-d267491e4179

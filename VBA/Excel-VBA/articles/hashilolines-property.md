@@ -3,7 +3,7 @@ title: HasHiLoLines Property
 keywords: vbagr10.chm5207483
 f1_keywords:
 - vbagr10.chm5207483
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasHiLoLines
 ms.assetid: 57018e82-acf1-039f-3fa5-d2319385c3d5

@@ -1,6 +1,6 @@
 ---
 title: PictureFormat.Application Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.Application
 ms.assetid: afc9ab72-cf23-a4de-1c21-4d4e28bd623b

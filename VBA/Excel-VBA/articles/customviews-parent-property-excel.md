@@ -3,7 +3,7 @@ title: CustomViews.Parent Property (Excel)
 keywords: vbaxl10.chm505075
 f1_keywords:
 - vbaxl10.chm505075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomViews.Parent
 ms.assetid: 2e93a7f0-75ea-709b-d1ba-aaf49ff2a536

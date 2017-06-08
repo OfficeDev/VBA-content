@@ -3,7 +3,7 @@ title: Workbook.NewWindow Method (Excel)
 keywords: vbaxl10.chm199116
 f1_keywords:
 - vbaxl10.chm199116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.NewWindow
 ms.assetid: ba568cee-c1cb-6e6a-8935-2cc8ce3a8400

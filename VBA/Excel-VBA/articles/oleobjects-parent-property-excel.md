@@ -3,7 +3,7 @@ title: OLEObjects.Parent Property (Excel)
 keywords: vbaxl10.chm419073
 f1_keywords:
 - vbaxl10.chm419073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.Parent
 ms.assetid: ef45b22e-fc42-af65-5732-f6ac6f03a758

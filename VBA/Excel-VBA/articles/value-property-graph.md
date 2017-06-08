@@ -3,7 +3,7 @@ title: Value Property (Graph)
 keywords: vbagr10.chm65542
 f1_keywords:
 - vbagr10.chm65542
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c88258bc-7088-71df-87e7-49239239de76
 ms.date: 06/08/2017
 ---

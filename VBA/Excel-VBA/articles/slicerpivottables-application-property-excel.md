@@ -3,7 +3,7 @@ title: SlicerPivotTables.Application Property (Excel)
 keywords: vbaxl10.chm910073
 f1_keywords:
 - vbaxl10.chm910073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.Application
 ms.assetid: a00829ff-0dd2-6ca9-b5db-69993f8d3075

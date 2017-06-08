@@ -3,7 +3,7 @@ title: WorksheetFunction.Phi Method (Excel)
 keywords: vbaxl10.chm137450
 f1_keywords:
 - vbaxl10.chm137450
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: fe40327e-e6b3-1f61-685f-9d90d5e96a43
 ms.date: 06/08/2017
 ---

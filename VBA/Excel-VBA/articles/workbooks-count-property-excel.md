@@ -3,7 +3,7 @@ title: Workbooks.Count Property (Excel)
 keywords: vbaxl10.chm203075
 f1_keywords:
 - vbaxl10.chm203075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbooks.Count
 ms.assetid: 71fe409c-3cee-3f05-9669-baf89d32b2ac

@@ -3,7 +3,7 @@ title: LinearGradient.Parent Property (Excel)
 keywords: vbaxl10.chm854075
 f1_keywords:
 - vbaxl10.chm854075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LinearGradient.Parent
 ms.assetid: adf215eb-a22c-e94d-35b1-355c0be4d98e

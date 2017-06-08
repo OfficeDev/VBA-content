@@ -1,6 +1,6 @@
 ---
 title: XlDataLabelPosition Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataLabelPosition
 ms.assetid: 0373c2a8-b79b-17a1-b999-f3bb1d37aa0a

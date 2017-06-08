@@ -3,7 +3,7 @@ title: ShapeRange.Align Method (Excel)
 keywords: vbaxl10.chm640077
 f1_keywords:
 - vbaxl10.chm640077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Align
 ms.assetid: 7a4e6442-6730-ab7d-93b5-4c091ada6b14

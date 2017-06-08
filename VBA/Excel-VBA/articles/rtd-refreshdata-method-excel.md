@@ -3,7 +3,7 @@ title: RTD.RefreshData Method (Excel)
 keywords: vbaxl10.chm728074
 f1_keywords:
 - vbaxl10.chm728074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RTD.RefreshData
 ms.assetid: fa2ddf47-1821-25b6-fcd9-b42853c2689a

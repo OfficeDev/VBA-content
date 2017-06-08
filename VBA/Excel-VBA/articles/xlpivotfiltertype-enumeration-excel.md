@@ -1,6 +1,6 @@
 ---
 title: XlPivotFilterType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotFilterType
 ms.assetid: 0ae3f0fe-02e3-b0f7-1506-1961c4adcd6c

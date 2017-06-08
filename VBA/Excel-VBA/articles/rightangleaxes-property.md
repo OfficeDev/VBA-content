@@ -3,7 +3,7 @@ title: RightAngleAxes Property
 keywords: vbagr10.chm3077581
 f1_keywords:
 - vbagr10.chm3077581
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RightAngleAxes
 ms.assetid: 5c34e5b4-a936-70a5-cd0c-d9a7a091e8d0

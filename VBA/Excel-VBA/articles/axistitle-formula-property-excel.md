@@ -3,7 +3,7 @@ title: AxisTitle.Formula Property (Excel)
 keywords: vbaxl10.chm565094
 f1_keywords:
 - vbaxl10.chm565094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Formula
 ms.assetid: 5b26b3c6-3eb2-153f-3fe6-22f756d3f49e

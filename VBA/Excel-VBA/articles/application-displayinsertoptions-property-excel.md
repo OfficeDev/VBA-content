@@ -3,7 +3,7 @@ title: Application.DisplayInsertOptions Property (Excel)
 keywords: vbaxl10.chm133274
 f1_keywords:
 - vbaxl10.chm133274
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayInsertOptions
 ms.assetid: 81c1d837-463f-bc33-f815-7c6dc9678d1b

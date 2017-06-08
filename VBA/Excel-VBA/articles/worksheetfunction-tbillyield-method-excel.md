@@ -3,7 +3,7 @@ title: WorksheetFunction.TBillYield Method (Excel)
 keywords: vbaxl10.chm137317
 f1_keywords:
 - vbaxl10.chm137317
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.TBillYield
 ms.assetid: 00827b10-a295-ef06-8947-fd9769bc1db5

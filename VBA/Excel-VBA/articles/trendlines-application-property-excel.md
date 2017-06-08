@@ -3,7 +3,7 @@ title: Trendlines.Application Property (Excel)
 keywords: vbaxl10.chm591073
 f1_keywords:
 - vbaxl10.chm591073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendlines.Application
 ms.assetid: b3fb519f-6947-3cb4-9386-97343cb04ef6

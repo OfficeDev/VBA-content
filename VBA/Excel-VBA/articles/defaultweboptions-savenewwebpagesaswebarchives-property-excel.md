@@ -3,7 +3,7 @@ title: DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Excel)
 keywords: vbaxl10.chm660091
 f1_keywords:
 - vbaxl10.chm660091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.SaveNewWebPagesAsWebArchives
 ms.assetid: 659d338e-74b8-8959-d02b-4d7a08cadbf0

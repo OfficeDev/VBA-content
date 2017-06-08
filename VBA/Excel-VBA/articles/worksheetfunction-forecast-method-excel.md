@@ -3,7 +3,7 @@ title: WorksheetFunction.Forecast Method (Excel)
 keywords: vbaxl10.chm137213
 f1_keywords:
 - vbaxl10.chm137213
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Forecast
 ms.assetid: a4d178b3-7d68-bfc6-0f7a-e3c6d5984af6

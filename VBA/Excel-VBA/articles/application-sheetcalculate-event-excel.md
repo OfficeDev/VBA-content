@@ -3,7 +3,7 @@ title: Application.SheetCalculate Event (Excel)
 keywords: vbaxl10.chm504079
 f1_keywords:
 - vbaxl10.chm504079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SheetCalculate
 ms.assetid: 8d0c9042-2bf7-3575-dedb-4f99e1391de1

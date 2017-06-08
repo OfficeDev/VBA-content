@@ -3,7 +3,7 @@ title: Hyperlink.Parent Property (Excel)
 keywords: vbaxl10.chm536073
 f1_keywords:
 - vbaxl10.chm536073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink.Parent
 ms.assetid: afe70012-67d4-872f-23e8-230148695f1a

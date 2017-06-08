@@ -3,7 +3,7 @@ title: Characters.Text Property (Excel)
 keywords: vbaxl10.chm252078
 f1_keywords:
 - vbaxl10.chm252078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Characters.Text
 ms.assetid: bf4461d6-5c22-5c36-cd61-ff0f0493a5e3

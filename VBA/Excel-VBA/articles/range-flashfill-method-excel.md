@@ -3,7 +3,7 @@ title: Range.FlashFill Method (Excel)
 keywords: vbaxl10.chm144255
 f1_keywords:
 - vbaxl10.chm144255
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 3ca4a73f-712a-fe69-684d-a959351e5855
 ms.date: 06/08/2017
 ---

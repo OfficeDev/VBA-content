@@ -3,7 +3,7 @@ title: Application.WorkbookDeactivate Event (Excel)
 keywords: vbaxl10.chm504083
 f1_keywords:
 - vbaxl10.chm504083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookDeactivate
 ms.assetid: 0a6a55ea-5374-4de7-e48e-e52d903cc749

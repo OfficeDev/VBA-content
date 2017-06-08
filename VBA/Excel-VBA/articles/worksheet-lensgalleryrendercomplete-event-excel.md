@@ -3,7 +3,7 @@ title: Worksheet.LensGalleryRenderComplete Event (Excel)
 keywords: vbaxl10.chm502087
 f1_keywords:
 - vbaxl10.chm502087
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 0e714e01-653b-35ea-455d-21510f59a165
 ms.date: 06/08/2017
 ---

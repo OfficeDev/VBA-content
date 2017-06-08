@@ -3,7 +3,7 @@ title: Validation.InCellDropdown Property (Excel)
 keywords: vbaxl10.chm532077
 f1_keywords:
 - vbaxl10.chm532077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.InCellDropdown
 ms.assetid: 019cf85b-831f-38f0-ea69-a30066acf30e

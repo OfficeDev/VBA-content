@@ -3,7 +3,7 @@ title: PivotCache.MemoryUsed Property (Excel)
 keywords: vbaxl10.chm227077
 f1_keywords:
 - vbaxl10.chm227077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.MemoryUsed
 ms.assetid: f68731ec-053e-79e9-861f-2c225b827e96

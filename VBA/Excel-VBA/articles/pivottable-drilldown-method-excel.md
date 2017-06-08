@@ -3,7 +3,7 @@ title: PivotTable.DrillDown Method (Excel)
 keywords: vbaxl10.chm235206
 f1_keywords:
 - vbaxl10.chm235206
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 01824849-6c03-d263-aeb5-68b6c331bf0f
 ms.date: 06/08/2017
 ---

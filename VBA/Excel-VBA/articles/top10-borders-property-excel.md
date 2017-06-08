@@ -3,7 +3,7 @@ title: Top10.Borders Property (Excel)
 keywords: vbaxl10.chm822080
 f1_keywords:
 - vbaxl10.chm822080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.Borders
 ms.assetid: 428953d4-b481-dd8a-0aff-a9fb754b935c

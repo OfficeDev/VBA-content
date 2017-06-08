@@ -3,7 +3,7 @@ title: AxisTitle.HorizontalAlignment Property (Excel)
 keywords: vbaxl10.chm565081
 f1_keywords:
 - vbaxl10.chm565081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.HorizontalAlignment
 ms.assetid: d9688a92-94f3-6dce-a01d-5a283d28da87

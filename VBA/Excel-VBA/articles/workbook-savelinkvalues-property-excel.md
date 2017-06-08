@@ -3,7 +3,7 @@ title: Workbook.SaveLinkValues Property (Excel)
 keywords: vbaxl10.chm199148
 f1_keywords:
 - vbaxl10.chm199148
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SaveLinkValues
 ms.assetid: ee69911f-5a4a-5c2b-c14a-cd562f3ba9f4

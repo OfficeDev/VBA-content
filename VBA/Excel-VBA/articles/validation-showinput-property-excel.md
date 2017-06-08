@@ -3,7 +3,7 @@ title: Validation.ShowInput Property (Excel)
 keywords: vbaxl10.chm532088
 f1_keywords:
 - vbaxl10.chm532088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.ShowInput
 ms.assetid: 8760c403-c982-4cbd-6211-cb8b1c83bc91

@@ -3,7 +3,7 @@ title: Application.PathSeparator Property (Excel)
 keywords: vbaxl10.chm133190
 f1_keywords:
 - vbaxl10.chm133190
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.PathSeparator
 ms.assetid: 573ef52d-3f1a-4fa3-4d4b-f047be67f26f

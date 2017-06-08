@@ -3,7 +3,7 @@ title: ListColumns.Count Property (Excel)
 keywords: vbaxl10.chm736077
 f1_keywords:
 - vbaxl10.chm736077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumns.Count
 ms.assetid: 9f5d9cdb-d94a-9ab6-1d82-7b9664ba4ece

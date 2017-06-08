@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.MarginRight Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.MarginRight
 ms.assetid: cde03d1b-04a1-8a83-0b20-e7e19d2c52ff

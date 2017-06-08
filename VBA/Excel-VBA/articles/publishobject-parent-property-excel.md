@@ -3,7 +3,7 @@ title: PublishObject.Parent Property (Excel)
 keywords: vbaxl10.chm651075
 f1_keywords:
 - vbaxl10.chm651075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObject.Parent
 ms.assetid: 7cf20c96-55d7-9bc6-453f-ec75d33e0651

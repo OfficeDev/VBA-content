@@ -3,7 +3,7 @@ title: Application.Speech Property (Excel)
 keywords: vbaxl10.chm133285
 f1_keywords:
 - vbaxl10.chm133285
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Speech
 ms.assetid: 981d5eef-55ff-54ee-a3ca-f009a6a575da

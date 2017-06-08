@@ -3,7 +3,7 @@ title: Mailer.Sender Property (Excel)
 keywords: vbaxl10.chm499078
 f1_keywords:
 - vbaxl10.chm499078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Mailer.Sender
 ms.assetid: 90056f2c-20c5-af69-980b-d824671d44e0

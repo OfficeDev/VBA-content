@@ -3,7 +3,7 @@ title: PageSetup.PrintQuality Property (Excel)
 keywords: vbaxl10.chm473096
 f1_keywords:
 - vbaxl10.chm473096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintQuality
 ms.assetid: 1c497526-214a-92ed-ce5b-920799ec52ff

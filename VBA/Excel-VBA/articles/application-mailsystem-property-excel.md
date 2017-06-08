@@ -3,7 +3,7 @@ title: Application.MailSystem Property (Excel)
 keywords: vbaxl10.chm133160
 f1_keywords:
 - vbaxl10.chm133160
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MailSystem
 ms.assetid: df7b1238-bdf5-d9f8-9f50-585b489fd8a8

@@ -3,7 +3,7 @@ title: PageSetup.Draft Property (Excel)
 keywords: vbaxl10.chm473080
 f1_keywords:
 - vbaxl10.chm473080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.Draft
 ms.assetid: 133d474c-2058-7dd9-d10b-0e45d9b2f972

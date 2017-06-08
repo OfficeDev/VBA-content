@@ -3,7 +3,7 @@ title: Refer to Rows and Columns
 keywords: vbaxl10.chm5204439
 f1_keywords:
 - vbaxl10.chm5204439
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: a03acade-9e40-6a26-6a48-2d7a76d0f722
 ms.date: 06/08/2017
 ---

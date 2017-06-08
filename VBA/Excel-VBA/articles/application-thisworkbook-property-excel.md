@@ -3,7 +3,7 @@ title: Application.ThisWorkbook Property (Excel)
 keywords: vbaxl10.chm183111
 f1_keywords:
 - vbaxl10.chm183111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ThisWorkbook
 ms.assetid: 04b713dd-fd93-3cbc-f10b-05b9c3d107b1

@@ -3,7 +3,7 @@ title: Graphic.CropTop Property (Excel)
 keywords: vbaxl10.chm694079
 f1_keywords:
 - vbaxl10.chm694079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.CropTop
 ms.assetid: fd35796f-6a5b-b914-d265-ab6bfc740981

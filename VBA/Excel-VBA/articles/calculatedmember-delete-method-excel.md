@@ -3,7 +3,7 @@ title: CalculatedMember.Delete Method (Excel)
 keywords: vbaxl10.chm686079
 f1_keywords:
 - vbaxl10.chm686079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Delete
 ms.assetid: 12c09264-2712-b7ce-9c09-7651650d69d4

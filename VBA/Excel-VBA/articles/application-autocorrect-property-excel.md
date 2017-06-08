@@ -3,7 +3,7 @@ title: Application.AutoCorrect Property (Excel)
 keywords: vbaxl10.chm133081
 f1_keywords:
 - vbaxl10.chm133081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AutoCorrect
 ms.assetid: e339617e-e086-7324-9240-4db9cfcfcee5

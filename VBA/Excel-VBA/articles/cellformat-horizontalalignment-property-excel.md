@@ -3,7 +3,7 @@ title: CellFormat.HorizontalAlignment Property (Excel)
 keywords: vbaxl10.chm676080
 f1_keywords:
 - vbaxl10.chm676080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.HorizontalAlignment
 ms.assetid: 396eb959-379d-abb4-96b8-e41f5ebf8125

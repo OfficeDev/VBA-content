@@ -3,7 +3,7 @@ title: Shapes.AddLine Method (Excel)
 keywords: vbaxl10.chm638081
 f1_keywords:
 - vbaxl10.chm638081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddLine
 ms.assetid: f2186af3-c28a-4196-a00e-00cc66d28f71

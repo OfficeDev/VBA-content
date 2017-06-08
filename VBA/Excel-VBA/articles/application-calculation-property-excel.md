@@ -3,7 +3,7 @@ title: Application.Calculation Property (Excel)
 keywords: vbaxl10.chm133084
 f1_keywords:
 - vbaxl10.chm133084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Calculation
 ms.assetid: 5ae7f2dd-e79a-a4ee-f701-2fff1b77f499

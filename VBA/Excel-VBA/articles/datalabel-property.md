@@ -3,7 +3,7 @@ title: DataLabel Property
 keywords: vbagr10.chm65694
 f1_keywords:
 - vbagr10.chm65694
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel
 ms.assetid: 3f85b4c2-5b7d-311a-95f9-ad08d5c23e39

@@ -3,7 +3,7 @@ title: Application.WorkbookSync Event (Excel)
 keywords: vbaxl10.chm504097
 f1_keywords:
 - vbaxl10.chm504097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookSync
 ms.assetid: ca23985c-e5ea-d2cb-bce3-2b52c5dff3a1

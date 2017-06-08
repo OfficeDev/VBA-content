@@ -3,7 +3,7 @@ title: Chart.ApplyDataLabels Method (Excel)
 keywords: vbaxl10.chm149171
 f1_keywords:
 - vbaxl10.chm149171
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ApplyDataLabels
 ms.assetid: 20966609-9713-c644-81d7-196b06169975

@@ -3,7 +3,7 @@ title: Shapes.AddPicture Method (Excel)
 keywords: vbaxl10.chm638082
 f1_keywords:
 - vbaxl10.chm638082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddPicture
 ms.assetid: 50a46fce-e87d-d5a8-3218-7843788f82bb

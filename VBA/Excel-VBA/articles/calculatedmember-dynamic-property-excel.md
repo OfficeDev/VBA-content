@@ -3,7 +3,7 @@ title: CalculatedMember.Dynamic Property (Excel)
 keywords: vbaxl10.chm686081
 f1_keywords:
 - vbaxl10.chm686081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Dynamic
 ms.assetid: b201fe58-1320-1fe0-8045-ab17b7543eee

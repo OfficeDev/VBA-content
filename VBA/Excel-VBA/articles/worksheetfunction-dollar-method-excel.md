@@ -3,7 +3,7 @@ title: WorksheetFunction.Dollar Method (Excel)
 keywords: vbaxl10.chm137083
 f1_keywords:
 - vbaxl10.chm137083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dollar
 ms.assetid: 246988c8-568a-640b-affb-fd1cd8907889

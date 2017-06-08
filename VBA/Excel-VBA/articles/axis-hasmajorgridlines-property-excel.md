@@ -3,7 +3,7 @@ title: Axis.HasMajorGridlines Property (Excel)
 keywords: vbaxl10.chm561081
 f1_keywords:
 - vbaxl10.chm561081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.HasMajorGridlines
 ms.assetid: 2cf9242a-79c5-8288-b71b-a5cd47d5abde

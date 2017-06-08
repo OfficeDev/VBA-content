@@ -1,6 +1,6 @@
 ---
 title: XlPageBreak Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPageBreak
 ms.assetid: 8e8f88fd-d12d-077d-bf36-a9084771fa41

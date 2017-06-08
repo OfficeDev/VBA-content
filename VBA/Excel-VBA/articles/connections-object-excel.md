@@ -3,7 +3,7 @@ title: Connections Object (Excel)
 keywords: vbaxl10.chm775072
 f1_keywords:
 - vbaxl10.chm775072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Connections
 ms.assetid: 3320b1cc-2f9d-805e-e506-27164b38d413

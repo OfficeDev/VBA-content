@@ -3,7 +3,7 @@ title: ErrorCheckingOptions.EmptyCellReferences Property (Excel)
 keywords: vbaxl10.chm698081
 f1_keywords:
 - vbaxl10.chm698081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.EmptyCellReferences
 ms.assetid: 3d9dd729-8483-aa8e-2d60-312bf3b3e08c

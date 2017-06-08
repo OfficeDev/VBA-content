@@ -3,7 +3,7 @@ title: Range.Locked Property (Excel)
 keywords: vbaxl10.chm144157
 f1_keywords:
 - vbaxl10.chm144157
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Locked
 ms.assetid: 93c5f21d-6429-3287-0992-c810b9a429a8

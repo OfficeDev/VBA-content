@@ -3,7 +3,7 @@ title: Range.Insert Method (Excel)
 keywords: vbaxl10.chm144149
 f1_keywords:
 - vbaxl10.chm144149
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Insert
 ms.assetid: e612bbc8-3942-3349-f157-c0459805794a

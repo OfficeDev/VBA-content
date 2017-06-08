@@ -3,7 +3,7 @@ title: ChartGroup.UpBars Property (Excel)
 keywords: vbaxl10.chm568092
 f1_keywords:
 - vbaxl10.chm568092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.UpBars
 ms.assetid: d97b23bd-4c51-2384-a5f3-7cc067d3d6fa

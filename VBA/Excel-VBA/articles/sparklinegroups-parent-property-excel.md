@@ -3,7 +3,7 @@ title: SparklineGroups.Parent Property (Excel)
 keywords: vbaxl10.chm868075
 f1_keywords:
 - vbaxl10.chm868075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Parent
 ms.assetid: acf195e6-c616-6c99-9eec-a998871134a5

@@ -3,7 +3,7 @@ title: DataLabel.Width Property (Excel)
 keywords: vbaxl10.chm582107
 f1_keywords:
 - vbaxl10.chm582107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.Width
 ms.assetid: 88b6a854-cce5-c500-3395-55dea721fd0d

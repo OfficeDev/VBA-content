@@ -1,6 +1,6 @@
 ---
 title: XlSourceType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSourceType
 ms.assetid: d2effec0-3c7b-4347-99c0-0044c7471555

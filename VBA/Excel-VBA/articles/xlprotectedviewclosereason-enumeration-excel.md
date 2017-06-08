@@ -1,6 +1,6 @@
 ---
 title: XlProtectedViewCloseReason Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlProtectedViewCloseReason
 ms.assetid: d756e956-dbe5-833f-de00-4ff3f557b5b8

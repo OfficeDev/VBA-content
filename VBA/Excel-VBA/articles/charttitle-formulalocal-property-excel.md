@@ -3,7 +3,7 @@ title: ChartTitle.FormulaLocal Property (Excel)
 keywords: vbaxl10.chm563099
 f1_keywords:
 - vbaxl10.chm563099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.FormulaLocal
 ms.assetid: 0bfe5792-c647-86de-ce37-f2011bc89c31

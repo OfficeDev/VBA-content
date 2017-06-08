@@ -3,7 +3,7 @@ title: ShapeRange.Creator Property (Excel)
 keywords: vbaxl10.chm639074
 f1_keywords:
 - vbaxl10.chm639074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Creator
 ms.assetid: 5ac1fcc9-ad5c-f25b-2e09-a8f3febcacef

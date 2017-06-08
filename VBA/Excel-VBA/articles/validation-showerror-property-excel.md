@@ -3,7 +3,7 @@ title: Validation.ShowError Property (Excel)
 keywords: vbaxl10.chm532087
 f1_keywords:
 - vbaxl10.chm532087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.ShowError
 ms.assetid: 19f7e431-6a6a-d8ed-98fe-c931cfb95498

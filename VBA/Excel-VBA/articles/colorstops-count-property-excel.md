@@ -3,7 +3,7 @@ title: ColorStops.Count Property (Excel)
 keywords: vbaxl10.chm853073
 f1_keywords:
 - vbaxl10.chm853073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStops.Count
 ms.assetid: 0574a698-ff87-56e3-eea9-aa2e6e77f270

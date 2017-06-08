@@ -3,7 +3,7 @@ title: CalculatedFields Object (Excel)
 keywords: vbaxl10.chm243072
 f1_keywords:
 - vbaxl10.chm243072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedFields
 ms.assetid: 6db4c889-f097-9a66-abc6-28f7f54f0478

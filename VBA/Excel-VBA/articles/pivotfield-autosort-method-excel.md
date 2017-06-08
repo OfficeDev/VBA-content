@@ -3,7 +3,7 @@ title: PivotField.AutoSort Method (Excel)
 keywords: vbaxl10.chm240157
 f1_keywords:
 - vbaxl10.chm240157
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AutoSort
 ms.assetid: 7a0bba4d-b18c-04df-a3b4-6ae2807f5238

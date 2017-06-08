@@ -1,6 +1,6 @@
 ---
 title: XlChartItem Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlChartItem
 ms.assetid: 34a85683-2693-10b3-cdb2-e40e123071ad

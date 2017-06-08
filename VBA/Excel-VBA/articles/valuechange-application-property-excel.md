@@ -3,7 +3,7 @@ title: ValueChange.Application Property (Excel)
 keywords: vbaxl10.chm888073
 f1_keywords:
 - vbaxl10.chm888073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ValueChange.Application
 ms.assetid: a4bf69c2-47f4-e622-75c7-e48ee2731c83

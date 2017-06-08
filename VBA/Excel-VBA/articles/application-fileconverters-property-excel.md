@@ -3,7 +3,7 @@ title: Application.FileConverters Property (Excel)
 keywords: vbaxl10.chm133134
 f1_keywords:
 - vbaxl10.chm133134
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FileConverters
 ms.assetid: 7aebb0b3-6143-8dce-9893-e15decfe1c09

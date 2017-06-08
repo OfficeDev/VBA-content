@@ -3,7 +3,7 @@ title: Range.Merge Method (Excel)
 keywords: vbaxl10.chm144158
 f1_keywords:
 - vbaxl10.chm144158
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Merge
 ms.assetid: eff315d8-fa8f-e452-2bcd-15be4d97a077

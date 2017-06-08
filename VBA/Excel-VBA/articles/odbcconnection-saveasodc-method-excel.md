@@ -3,7 +3,7 @@ title: ODBCConnection.SaveAsODC Method (Excel)
 keywords: vbaxl10.chm796085
 f1_keywords:
 - vbaxl10.chm796085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.SaveAsODC
 ms.assetid: a499de7c-ee4a-22d2-ff35-33489fcf4fe1

@@ -3,7 +3,7 @@ title: Window.Zoom Property (Excel)
 keywords: vbaxl10.chm356126
 f1_keywords:
 - vbaxl10.chm356126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Zoom
 ms.assetid: 82e6ac47-7054-52a9-383e-80be278dab0f

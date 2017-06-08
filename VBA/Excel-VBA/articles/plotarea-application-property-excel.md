@@ -3,7 +3,7 @@ title: PlotArea.Application Property (Excel)
 keywords: vbaxl10.chm617073
 f1_keywords:
 - vbaxl10.chm617073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Application
 ms.assetid: 96c3eb5e-606d-dd77-98b9-9a4b8f393aaf

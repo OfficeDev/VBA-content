@@ -3,7 +3,7 @@ title: ShapeRange.Line Property (Excel)
 keywords: vbaxl10.chm640108
 f1_keywords:
 - vbaxl10.chm640108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Line
 ms.assetid: 7504afaa-0ddd-6ae8-4653-fddc0af9ede7

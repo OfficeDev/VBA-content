@@ -3,7 +3,7 @@ title: WorksheetFunction.ImSum Method (Excel)
 keywords: vbaxl10.chm137289
 f1_keywords:
 - vbaxl10.chm137289
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImSum
 ms.assetid: 154d2034-8933-7b20-2cae-92580ada7250

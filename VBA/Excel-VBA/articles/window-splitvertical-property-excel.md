@@ -3,7 +3,7 @@ title: Window.SplitVertical Property (Excel)
 keywords: vbaxl10.chm356115
 f1_keywords:
 - vbaxl10.chm356115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.SplitVertical
 ms.assetid: 2e683391-b5c3-0d4d-94a3-0afe82e3965a

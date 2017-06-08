@@ -1,6 +1,6 @@
 ---
 title: XlCommandUnderlines Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCommandUnderlines
 ms.assetid: bb2983a1-ea3a-5761-51fa-ebfcb7442136

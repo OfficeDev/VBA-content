@@ -3,7 +3,7 @@ title: Window.Panes Property (Excel)
 keywords: vbaxl10.chm356101
 f1_keywords:
 - vbaxl10.chm356101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Panes
 ms.assetid: ba89f562-66f8-990d-e034-c996557b3687

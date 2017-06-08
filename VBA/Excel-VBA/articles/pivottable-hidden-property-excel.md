@@ -3,7 +3,7 @@ title: PivotTable.Hidden Property (Excel)
 keywords: vbaxl10.chm235204
 f1_keywords:
 - vbaxl10.chm235204
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c0d3cc08-a144-afe1-7c05-260e459df49b
 ms.date: 06/08/2017
 ---

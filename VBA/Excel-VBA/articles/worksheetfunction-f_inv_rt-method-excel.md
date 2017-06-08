@@ -3,7 +3,7 @@ title: WorksheetFunction.F_Inv_RT Method (Excel)
 keywords: vbaxl10.chm137405
 f1_keywords:
 - vbaxl10.chm137405
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Inv_RT
 ms.assetid: 0852b011-ec06-ac01-cc94-993f379270bf

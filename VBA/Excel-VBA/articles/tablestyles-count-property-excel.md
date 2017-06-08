@@ -3,7 +3,7 @@ title: TableStyles.Count Property (Excel)
 keywords: vbaxl10.chm841073
 f1_keywords:
 - vbaxl10.chm841073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyles.Count
 ms.assetid: b479e873-ba0f-462b-a7a7-dcacf0eb6298

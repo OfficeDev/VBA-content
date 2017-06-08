@@ -3,7 +3,7 @@ title: Chart.BarShape Property (Excel)
 keywords: vbaxl10.chm149154
 f1_keywords:
 - vbaxl10.chm149154
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.BarShape
 ms.assetid: 46ce2a4f-8465-493b-ff89-9ddc5e619bf4

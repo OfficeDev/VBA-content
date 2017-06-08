@@ -3,7 +3,7 @@ title: PivotTable.CompactRowIndent Property (Excel)
 keywords: vbaxl10.chm235163
 f1_keywords:
 - vbaxl10.chm235163
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CompactRowIndent
 ms.assetid: 190667e8-419d-4e60-1015-9adddc4aa63d

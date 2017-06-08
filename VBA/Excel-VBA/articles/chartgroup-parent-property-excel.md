@@ -3,7 +3,7 @@ title: ChartGroup.Parent Property (Excel)
 keywords: vbaxl10.chm567075
 f1_keywords:
 - vbaxl10.chm567075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.Parent
 ms.assetid: ab6946c9-2e0b-90ed-14ad-1f4f3a954b83

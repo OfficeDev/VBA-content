@@ -3,7 +3,7 @@ title: ConnectorFormat.EndConnect Method (Excel)
 keywords: vbaxl10.chm646075
 f1_keywords:
 - vbaxl10.chm646075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.EndConnect
 ms.assetid: c8cc392c-8a54-99ed-ffdd-e5173792408f

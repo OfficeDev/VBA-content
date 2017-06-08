@@ -3,7 +3,7 @@ title: ModelTable.Creator Property (Excel)
 keywords: vbaxl10.chm933074
 f1_keywords:
 - vbaxl10.chm933074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 121e3d5d-d898-1aba-2b51-aff469a7eefc
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: XmlSchemas.Parent Property (Excel)
 keywords: vbaxl10.chm751075
 f1_keywords:
 - vbaxl10.chm751075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlSchemas.Parent
 ms.assetid: 29cc6805-f591-10e9-6a38-fd0a888a09cd

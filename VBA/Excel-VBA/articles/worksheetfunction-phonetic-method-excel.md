@@ -3,7 +3,7 @@ title: WorksheetFunction.Phonetic Method (Excel)
 keywords: vbaxl10.chm137248
 f1_keywords:
 - vbaxl10.chm137248
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Phonetic
 ms.assetid: a1da7aa0-f913-e64b-8863-212f8a4e261d

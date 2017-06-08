@@ -3,7 +3,7 @@ title: RecentFile.Path Property (Excel)
 keywords: vbaxl10.chm170074
 f1_keywords:
 - vbaxl10.chm170074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFile.Path
 ms.assetid: bd2058b9-f5b6-968c-12f0-59edc98c0121

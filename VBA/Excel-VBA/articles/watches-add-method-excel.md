@@ -3,7 +3,7 @@ title: Watches.Add Method (Excel)
 keywords: vbaxl10.chm688073
 f1_keywords:
 - vbaxl10.chm688073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Watches.Add
 ms.assetid: 18553797-09b9-b99b-c3f3-50864ec2c55a

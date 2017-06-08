@@ -1,6 +1,6 @@
 ---
 title: XlVAlign Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlVAlign
 ms.assetid: 89d342c9-6452-a8ca-363c-f0ea1b031070

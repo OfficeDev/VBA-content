@@ -3,7 +3,7 @@ title: Series.BubbleSizes Property (Excel)
 keywords: vbaxl10.chm578113
 f1_keywords:
 - vbaxl10.chm578113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.BubbleSizes
 ms.assetid: 41e56271-ec4c-7f9e-9642-174c8435e7d6

@@ -1,6 +1,6 @@
 ---
 title: How do I... (Excel VBA reference)
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 526f01b3-9d1f-1a67-77c9-0e6c162c9304
 ms.date: 06/08/2017
 ---

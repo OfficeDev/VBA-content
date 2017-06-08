@@ -3,7 +3,7 @@ title: WorksheetFunction.CumIPmt Method (Excel)
 keywords: vbaxl10.chm137324
 f1_keywords:
 - vbaxl10.chm137324
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CumIPmt
 ms.assetid: e8940dd7-26c2-ae9b-1876-1c61afcea33d

@@ -3,7 +3,7 @@ title: Slicer.ActiveItem Property (Excel)
 keywords: vbaxl10.chm905092
 f1_keywords:
 - vbaxl10.chm905092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.ActiveItem
 ms.assetid: ecf95cb2-fb1e-97fc-46a1-2ddcf784a089

@@ -3,7 +3,7 @@ title: PivotField.Value Property (Excel)
 keywords: vbaxl10.chm240098
 f1_keywords:
 - vbaxl10.chm240098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Value
 ms.assetid: c10092ee-7328-b89e-ce8c-d821a08200a0

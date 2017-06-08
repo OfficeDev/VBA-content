@@ -3,7 +3,7 @@ title: TextEffectFormat.Alignment Property (Excel)
 keywords: vbaxl10.chm118002
 f1_keywords:
 - vbaxl10.chm118002
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Alignment
 ms.assetid: 0a86ac22-9496-d801-0cfb-a9fca5c30fec

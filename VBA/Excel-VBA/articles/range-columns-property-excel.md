@@ -3,7 +3,7 @@ title: Range.Columns Property (Excel)
 keywords: vbaxl10.chm144101
 f1_keywords:
 - vbaxl10.chm144101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Columns
 ms.assetid: a1a23288-e911-909d-0bc0-48bdce2ccbac

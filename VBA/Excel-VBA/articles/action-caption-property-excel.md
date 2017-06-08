@@ -3,7 +3,7 @@ title: Action.Caption Property (Excel)
 keywords: vbaxl10.chm798074
 f1_keywords:
 - vbaxl10.chm798074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Action.Caption
 ms.assetid: f59938e8-17ad-2376-cf2d-f5592a3c6244

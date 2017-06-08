@@ -3,7 +3,7 @@ title: Include Property
 keywords: vbagr10.chm65701
 f1_keywords:
 - vbagr10.chm65701
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Include
 ms.assetid: ed92c49d-88fc-7f44-15cf-0641032157b2

@@ -3,7 +3,7 @@ title: Application.DeferAsyncQueries Property (Excel)
 keywords: vbaxl10.chm133313
 f1_keywords:
 - vbaxl10.chm133313
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DeferAsyncQueries
 ms.assetid: 21f05a5a-40e8-304a-f537-41ea171a114c

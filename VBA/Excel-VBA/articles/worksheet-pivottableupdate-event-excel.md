@@ -3,7 +3,7 @@ title: Worksheet.PivotTableUpdate Event (Excel)
 keywords: vbaxl10.chm502081
 f1_keywords:
 - vbaxl10.chm502081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTableUpdate
 ms.assetid: 66186c97-6855-b360-a6c0-56da617d24a6

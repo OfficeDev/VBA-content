@@ -3,7 +3,7 @@ title: Series.DataLabels Method (Excel)
 keywords: vbaxl10.chm578079
 f1_keywords:
 - vbaxl10.chm578079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.DataLabels
 ms.assetid: bde8faa1-269c-1dbe-e39e-3701a634f214

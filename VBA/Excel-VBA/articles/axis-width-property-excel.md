@@ -3,7 +3,7 @@ title: Axis.Width Property (Excel)
 keywords: vbaxl10.chm561111
 f1_keywords:
 - vbaxl10.chm561111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.Width
 ms.assetid: e29e90aa-6a40-8776-4417-601e592f3a0d

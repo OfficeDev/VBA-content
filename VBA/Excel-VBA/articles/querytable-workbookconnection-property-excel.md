@@ -3,7 +3,7 @@ title: QueryTable.WorkbookConnection Property (Excel)
 keywords: vbaxl10.chm518138
 f1_keywords:
 - vbaxl10.chm518138
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.WorkbookConnection
 ms.assetid: d35d7bb6-5036-1dd9-46ff-e96127d3db09

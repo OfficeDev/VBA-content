@@ -3,7 +3,7 @@ title: Parent Property
 keywords: vbagr10.chm65686
 f1_keywords:
 - vbagr10.chm65686
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parent
 ms.assetid: 504783e9-8bd6-7716-20d4-1f1484f36b33

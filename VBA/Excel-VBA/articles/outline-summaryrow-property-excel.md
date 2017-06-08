@@ -3,7 +3,7 @@ title: Outline.SummaryRow Property (Excel)
 keywords: vbaxl10.chm455076
 f1_keywords:
 - vbaxl10.chm455076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline.SummaryRow
 ms.assetid: f36fac55-cafd-1ec6-4e85-a7f4fc665c04

@@ -3,7 +3,7 @@ title: Worksheet.Names Property (Excel)
 keywords: vbaxl10.chm175107
 f1_keywords:
 - vbaxl10.chm175107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Names
 ms.assetid: 4bdccfa9-7aa1-c3d6-6a89-5ce24aad2ad2

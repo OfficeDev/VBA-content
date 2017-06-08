@@ -3,7 +3,7 @@ title: LegendEntry Object
 keywords: vbagr10.chm131194
 f1_keywords:
 - vbagr10.chm131194
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntry
 ms.assetid: a242fdab-ebb4-f5de-04ae-d6b70cea1640

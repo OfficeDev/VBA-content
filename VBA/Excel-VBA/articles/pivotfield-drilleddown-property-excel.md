@@ -3,7 +3,7 @@ title: PivotField.DrilledDown Property (Excel)
 keywords: vbaxl10.chm240125
 f1_keywords:
 - vbaxl10.chm240125
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DrilledDown
 ms.assetid: 6fb6ae8b-ce41-9343-316c-d26bb1ae9630

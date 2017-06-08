@@ -3,7 +3,7 @@ title: PivotCache.CreatePivotChart Method (Excel)
 keywords: vbaxl10.chm227110
 f1_keywords:
 - vbaxl10.chm227110
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 5aeb9a16-2cf8-3525-12b0-0b6e3d3ddf1a
 ms.date: 06/08/2017
 ---

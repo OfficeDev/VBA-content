@@ -3,7 +3,7 @@ title: WorksheetFunction.Min Method (Excel)
 keywords: vbaxl10.chm137079
 f1_keywords:
 - vbaxl10.chm137079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Min
 ms.assetid: fe2c2053-141f-4f5f-6a37-5f200437d552

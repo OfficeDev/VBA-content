@@ -3,7 +3,7 @@ title: Application.Visible Property (Excel)
 keywords: vbaxl10.chm133229
 f1_keywords:
 - vbaxl10.chm133229
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Visible
 ms.assetid: 4d702074-7d76-7b43-25e1-11d6a440392f

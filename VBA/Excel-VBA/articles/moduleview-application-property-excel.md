@@ -3,7 +3,7 @@ title: ModuleView.Application Property (Excel)
 keywords: vbaxl10.chm783073
 f1_keywords:
 - vbaxl10.chm783073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ModuleView.Application
 ms.assetid: 146a4e04-cd60-d438-db84-a58239a80fe8

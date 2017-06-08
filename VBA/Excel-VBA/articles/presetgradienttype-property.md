@@ -3,7 +3,7 @@ title: PresetGradientType Property
 keywords: vbagr10.chm67173
 f1_keywords:
 - vbagr10.chm67173
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PresetGradientType
 ms.assetid: 10ea644f-a856-acd1-45b8-6c1d35d2390a

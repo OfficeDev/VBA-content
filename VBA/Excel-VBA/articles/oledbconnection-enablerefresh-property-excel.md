@@ -3,7 +3,7 @@ title: OLEDBConnection.EnableRefresh Property (Excel)
 keywords: vbaxl10.chm794079
 f1_keywords:
 - vbaxl10.chm794079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.EnableRefresh
 ms.assetid: 080b6002-303e-62ce-f19e-0cb7af6a5291

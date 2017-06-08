@@ -3,7 +3,7 @@ title: Style.IncludePatterns Property (Excel)
 keywords: vbaxl10.chm177084
 f1_keywords:
 - vbaxl10.chm177084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.IncludePatterns
 ms.assetid: edb7e87f-20d2-2bea-b2e8-83ffab749e3e

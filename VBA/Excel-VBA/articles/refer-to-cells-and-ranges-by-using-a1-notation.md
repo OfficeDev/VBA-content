@@ -3,7 +3,7 @@ title: Refer to Cells and Ranges by Using A1 Notation
 keywords: vbaxl10.chm5204421
 f1_keywords:
 - vbaxl10.chm5204421
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c98741c5-465e-137f-872d-185a20068d4a
 ms.date: 06/08/2017
 ---

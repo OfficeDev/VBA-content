@@ -3,7 +3,7 @@ title: RecentFiles.Parent Property (Excel)
 keywords: vbaxl10.chm171075
 f1_keywords:
 - vbaxl10.chm171075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFiles.Parent
 ms.assetid: a0479299-eb8a-3825-ee65-6accea2254e4

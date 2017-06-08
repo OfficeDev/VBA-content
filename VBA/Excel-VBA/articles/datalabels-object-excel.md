@@ -3,7 +3,7 @@ title: DataLabels Object (Excel)
 keywords: vbaxl10.chm583072
 f1_keywords:
 - vbaxl10.chm583072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels
 ms.assetid: 3d79271e-c702-e785-6984-d838d060a8c5

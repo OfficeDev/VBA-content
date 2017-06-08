@@ -3,7 +3,7 @@ title: PivotCaches.Create Method (Excel)
 keywords: vbaxl10.chm229078
 f1_keywords:
 - vbaxl10.chm229078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Create
 ms.assetid: d26e6786-064a-174c-5b9f-79e85b34f59b

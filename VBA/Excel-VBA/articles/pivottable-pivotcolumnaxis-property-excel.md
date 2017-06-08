@@ -3,7 +3,7 @@ title: PivotTable.PivotColumnAxis Property (Excel)
 keywords: vbaxl10.chm235156
 f1_keywords:
 - vbaxl10.chm235156
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.PivotColumnAxis
 ms.assetid: 09eda15a-12f6-8a6b-3bee-656c93dcc1a5

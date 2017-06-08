@@ -3,7 +3,7 @@ title: ColorStop.Parent Property (Excel)
 keywords: vbaxl10.chm850075
 f1_keywords:
 - vbaxl10.chm850075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStop.Parent
 ms.assetid: 93338e3a-7e35-40c6-9a8f-f0160e88b059

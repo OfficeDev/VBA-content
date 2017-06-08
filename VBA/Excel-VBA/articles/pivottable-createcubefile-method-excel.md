@@ -3,7 +3,7 @@ title: PivotTable.CreateCubeFile Method (Excel)
 keywords: vbaxl10.chm235152
 f1_keywords:
 - vbaxl10.chm235152
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CreateCubeFile
 ms.assetid: 585641a1-c708-75fd-4789-f7a254830b57

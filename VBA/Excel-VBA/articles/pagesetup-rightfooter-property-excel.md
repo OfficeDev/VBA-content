@@ -3,7 +3,7 @@ title: PageSetup.RightFooter Property (Excel)
 keywords: vbaxl10.chm473099
 f1_keywords:
 - vbaxl10.chm473099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.RightFooter
 ms.assetid: e11c0ac5-4488-4557-e507-100ef81e6871

@@ -1,6 +1,6 @@
 ---
 title: About the PowerPivot Model Object in Excel
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: baa95a62-53d2-4c5f-bff7-bcc7323d6a20
 ms.date: 06/08/2017
 ---

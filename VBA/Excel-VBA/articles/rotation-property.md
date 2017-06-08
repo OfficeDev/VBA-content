@@ -3,7 +3,7 @@ title: Rotation Property
 keywords: vbagr10.chm65595
 f1_keywords:
 - vbagr10.chm65595
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Rotation
 ms.assetid: f78b6998-fae2-c80b-3a98-96ad359e6c47

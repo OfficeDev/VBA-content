@@ -3,7 +3,7 @@ title: CellFormat.Parent Property (Excel)
 keywords: vbaxl10.chm675075
 f1_keywords:
 - vbaxl10.chm675075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.Parent
 ms.assetid: 12786bfd-70a0-5aa2-8624-25d58ea49838

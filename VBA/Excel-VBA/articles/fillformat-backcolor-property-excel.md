@@ -3,7 +3,7 @@ title: FillFormat.BackColor Property (Excel)
 keywords: vbaxl10.chm115011
 f1_keywords:
 - vbaxl10.chm115011
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.BackColor
 ms.assetid: 2837c06d-5297-4de8-5e81-18515e3d321e

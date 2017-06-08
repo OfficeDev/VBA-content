@@ -3,7 +3,7 @@ title: ModelChanges.TablesModified Property (Excel)
 keywords: vbaxl10.chm960075
 f1_keywords:
 - vbaxl10.chm960075
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c83ae86d-fca0-8c60-a997-1821eed67cb9
 ms.date: 06/08/2017
 ---

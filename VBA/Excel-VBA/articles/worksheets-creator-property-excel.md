@@ -3,7 +3,7 @@ title: Worksheets.Creator Property (Excel)
 keywords: vbaxl10.chm469074
 f1_keywords:
 - vbaxl10.chm469074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheets.Creator
 ms.assetid: 5f6d4cec-b867-1165-2deb-a793b78d32e3

@@ -3,7 +3,7 @@ title: DataTable.HasBorderVertical Property (Excel)
 keywords: vbaxl10.chm626075
 f1_keywords:
 - vbaxl10.chm626075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataTable.HasBorderVertical
 ms.assetid: 166ad9ef-99c1-4e94-079c-4997aacc6e2d

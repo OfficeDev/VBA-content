@@ -3,7 +3,7 @@ title: ShapeRange.PickUp Method (Excel)
 keywords: vbaxl10.chm640087
 f1_keywords:
 - vbaxl10.chm640087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.PickUp
 ms.assetid: 6a7120d3-4fd4-cb4a-d838-89693267be22

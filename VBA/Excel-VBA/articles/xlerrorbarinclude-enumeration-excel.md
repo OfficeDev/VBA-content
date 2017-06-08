@@ -1,6 +1,6 @@
 ---
 title: XlErrorBarInclude Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlErrorBarInclude
 ms.assetid: dc21fd99-26ce-c440-313c-e87fe98cec17

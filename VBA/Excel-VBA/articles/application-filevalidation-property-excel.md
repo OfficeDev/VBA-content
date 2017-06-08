@@ -3,7 +3,7 @@ title: Application.FileValidation Property (Excel)
 keywords: vbaxl10.chm133335
 f1_keywords:
 - vbaxl10.chm133335
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.FileValidation
 ms.assetid: 6ec989d0-2ed8-b4d9-997c-4f91507e6fca

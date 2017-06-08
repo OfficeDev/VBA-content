@@ -3,7 +3,7 @@ title: TableStyle.ShowAsAvailablePivotTableStyle Property (Excel)
 keywords: vbaxl10.chm839079
 f1_keywords:
 - vbaxl10.chm839079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TableStyle.ShowAsAvailablePivotTableStyle
 ms.assetid: c9439773-e9e2-d642-ed80-4b44b7e79130

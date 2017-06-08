@@ -1,6 +1,6 @@
 ---
 title: XlLookAt Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlLookAt
 ms.assetid: 766c4dae-d66e-6f0c-1f33-792ee6f0918b

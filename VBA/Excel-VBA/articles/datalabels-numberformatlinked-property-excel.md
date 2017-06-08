@@ -3,7 +3,7 @@ title: DataLabels.NumberFormatLinked Property (Excel)
 keywords: vbaxl10.chm584094
 f1_keywords:
 - vbaxl10.chm584094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.NumberFormatLinked
 ms.assetid: 67e1bd50-d41f-44b7-2bac-47fe5870de42

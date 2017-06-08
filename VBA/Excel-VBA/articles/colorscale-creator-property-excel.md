@@ -3,7 +3,7 @@ title: ColorScale.Creator Property (Excel)
 keywords: vbaxl10.chm805074
 f1_keywords:
 - vbaxl10.chm805074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.Creator
 ms.assetid: 60928601-77fe-2a4b-ecd5-9b8e3adeea6a

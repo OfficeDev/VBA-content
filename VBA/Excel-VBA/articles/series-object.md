@@ -3,7 +3,7 @@ title: Series Object
 keywords: vbagr10.chm131115
 f1_keywords:
 - vbagr10.chm131115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series
 ms.assetid: c4446d04-9a3a-4f95-7b3f-adaf1ad2252c

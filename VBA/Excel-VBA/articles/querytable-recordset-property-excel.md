@@ -3,7 +3,7 @@ title: QueryTable.Recordset Property (Excel)
 keywords: vbaxl10.chm518094
 f1_keywords:
 - vbaxl10.chm518094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Recordset
 ms.assetid: d9f4190e-c43c-5fe5-113d-18c8efcc2a27

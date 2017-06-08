@@ -3,7 +3,7 @@ title: PlotArea Object (Excel)
 keywords: vbaxl10.chm617072
 f1_keywords:
 - vbaxl10.chm617072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea
 ms.assetid: 85c42124-268c-8b0e-ba5d-c2f6fbf53e79

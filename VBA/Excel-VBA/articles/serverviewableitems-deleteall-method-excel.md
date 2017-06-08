@@ -3,7 +3,7 @@ title: ServerViewableItems.DeleteAll Method (Excel)
 keywords: vbaxl10.chm833076
 f1_keywords:
 - vbaxl10.chm833076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.DeleteAll
 ms.assetid: 8f2bf876-50ba-3b91-d353-6d73a35e9462

@@ -3,7 +3,7 @@ title: QueryTable.RefreshOnFileOpen Property (Excel)
 keywords: vbaxl10.chm518078
 f1_keywords:
 - vbaxl10.chm518078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.RefreshOnFileOpen
 ms.assetid: 25ee4493-1738-66ce-09d3-9e0e83a677b7

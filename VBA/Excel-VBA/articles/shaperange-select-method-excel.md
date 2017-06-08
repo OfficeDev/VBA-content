@@ -3,7 +3,7 @@ title: ShapeRange.Select Method (Excel)
 keywords: vbaxl10.chm640092
 f1_keywords:
 - vbaxl10.chm640092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Select
 ms.assetid: 87b80b0b-e42a-cf7c-bb48-05fdf53e5599

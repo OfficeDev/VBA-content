@@ -3,7 +3,7 @@ title: PivotFilter.Parent Property (Excel)
 keywords: vbaxl10.chm769075
 f1_keywords:
 - vbaxl10.chm769075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilter.Parent
 ms.assetid: 9e121b88-7c41-93fa-8019-e744a5701de3

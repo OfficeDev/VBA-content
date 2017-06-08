@@ -3,7 +3,7 @@ title: CategoryCollection.Parent Property (Excel)
 keywords: vbaxl10.chm948073
 f1_keywords:
 - vbaxl10.chm948073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: b91d60e8-e3a5-42d7-ca93-78469e8bd11b
 ms.date: 06/08/2017
 ---

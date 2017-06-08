@@ -3,7 +3,7 @@ title: DisplayUnitLabel.FormulaR1C1 Property (Excel)
 keywords: vbaxl10.chm673096
 f1_keywords:
 - vbaxl10.chm673096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.FormulaR1C1
 ms.assetid: 7570c168-ecd1-97d3-e1e6-52feedf2400b

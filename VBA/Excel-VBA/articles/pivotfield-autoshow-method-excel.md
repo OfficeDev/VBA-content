@@ -3,7 +3,7 @@ title: PivotField.AutoShow Method (Excel)
 keywords: vbaxl10.chm240112
 f1_keywords:
 - vbaxl10.chm240112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShow
 ms.assetid: 8caea6de-8872-c474-38bd-8d6d78d9f0cc

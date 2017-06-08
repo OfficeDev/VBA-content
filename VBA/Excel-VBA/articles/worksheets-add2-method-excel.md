@@ -3,7 +3,7 @@ title: Worksheets.Add2 Method (Excel)
 keywords: vbaxl10.chm470090
 f1_keywords:
 - vbaxl10.chm470090
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 4ae91335-f714-45e4-9677-6dfece31342e
 ms.date: 06/08/2017
 ---

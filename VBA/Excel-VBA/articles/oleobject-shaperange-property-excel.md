@@ -3,7 +3,7 @@ title: OLEObject.ShapeRange Property (Excel)
 keywords: vbaxl10.chm415097
 f1_keywords:
 - vbaxl10.chm415097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.ShapeRange
 ms.assetid: 6f7b106e-8d9d-9910-c95a-06cab37dd541

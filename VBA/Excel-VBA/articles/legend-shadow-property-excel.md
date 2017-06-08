@@ -3,7 +3,7 @@ title: Legend.Shadow Property (Excel)
 keywords: vbaxl10.chm622081
 f1_keywords:
 - vbaxl10.chm622081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend.Shadow
 ms.assetid: e368bdb3-a2f5-e5fa-e35a-9223b5658b08

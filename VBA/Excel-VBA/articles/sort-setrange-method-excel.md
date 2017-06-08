@@ -3,7 +3,7 @@ title: Sort.SetRange Method (Excel)
 keywords: vbaxl10.chm847079
 f1_keywords:
 - vbaxl10.chm847079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sort.SetRange
 ms.assetid: 12a68fb7-379d-f9fa-d464-a6d5fe1e6f9b

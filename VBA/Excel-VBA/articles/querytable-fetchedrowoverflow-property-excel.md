@@ -3,7 +3,7 @@ title: QueryTable.FetchedRowOverflow Property (Excel)
 keywords: vbaxl10.chm518080
 f1_keywords:
 - vbaxl10.chm518080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.FetchedRowOverflow
 ms.assetid: 386aaf06-27d4-bfa1-cf5e-ac8c8bddef44

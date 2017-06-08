@@ -3,7 +3,7 @@ title: Graphic.CropRight Property (Excel)
 keywords: vbaxl10.chm694078
 f1_keywords:
 - vbaxl10.chm694078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.CropRight
 ms.assetid: 2954d5c9-9b24-db6e-06b7-e3a6e905e50c

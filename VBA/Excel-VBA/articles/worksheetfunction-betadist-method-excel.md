@@ -3,7 +3,7 @@ title: WorksheetFunction.BetaDist Method (Excel)
 keywords: vbaxl10.chm137174
 f1_keywords:
 - vbaxl10.chm137174
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BetaDist
 ms.assetid: 0408bf55-6bfb-7b73-34e2-c1fd2a1b93c9

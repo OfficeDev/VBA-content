@@ -3,7 +3,7 @@ title: PivotCache.RefreshOnFileOpen Property (Excel)
 keywords: vbaxl10.chm227083
 f1_keywords:
 - vbaxl10.chm227083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.RefreshOnFileOpen
 ms.assetid: aed513aa-b752-8b6e-0d6d-6fddab46df18

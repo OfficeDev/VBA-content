@@ -3,7 +3,7 @@ title: Workbook.DoNotPromptForConvert Property (Excel)
 keywords: vbaxl10.chm199263
 f1_keywords:
 - vbaxl10.chm199263
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.DoNotPromptForConvert
 ms.assetid: d2af6528-4d9f-6e94-4fa6-2322098b4b17

@@ -3,7 +3,7 @@ title: WorksheetFunction.Confidence_Norm Method (Excel)
 keywords: vbaxl10.chm137359
 f1_keywords:
 - vbaxl10.chm137359
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Confidence_Norm
 ms.assetid: a4e212e8-04c3-05c1-027d-4cfe5ca92810

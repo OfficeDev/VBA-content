@@ -3,7 +3,7 @@ title: Gridlines.Border Property (Excel)
 keywords: vbaxl10.chm602076
 f1_keywords:
 - vbaxl10.chm602076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Gridlines.Border
 ms.assetid: 4acc2605-a74f-0e8a-4e44-c43f71103a2f

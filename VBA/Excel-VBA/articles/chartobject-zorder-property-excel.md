@@ -3,7 +3,7 @@ title: ChartObject.ZOrder Property (Excel)
 keywords: vbaxl10.chm494096
 f1_keywords:
 - vbaxl10.chm494096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.ZOrder
 ms.assetid: 1d3e3557-66c5-78f8-a86c-c0d64af63bc6

@@ -3,7 +3,7 @@ title: DisplayFormat.MergeCells Property (Excel)
 keywords: vbaxl10.chm893083
 f1_keywords:
 - vbaxl10.chm893083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.MergeCells
 ms.assetid: ae8686ac-8244-dc6a-3f99-6326e090b143

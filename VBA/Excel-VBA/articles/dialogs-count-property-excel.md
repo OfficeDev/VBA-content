@@ -3,7 +3,7 @@ title: Dialogs.Count Property (Excel)
 keywords: vbaxl10.chm254073
 f1_keywords:
 - vbaxl10.chm254073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Dialogs.Count
 ms.assetid: aafcfb50-68fc-4e02-47d7-1317df4d343a

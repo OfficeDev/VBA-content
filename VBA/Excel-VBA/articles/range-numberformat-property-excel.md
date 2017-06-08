@@ -3,7 +3,7 @@ title: Range.NumberFormat Property (Excel)
 keywords: vbaxl10.chm144167
 f1_keywords:
 - vbaxl10.chm144167
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.NumberFormat
 ms.assetid: 351247d2-e4b9-64a0-6dbe-0df535fa701c

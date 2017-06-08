@@ -1,6 +1,6 @@
 ---
 title: FillFormat.TextureHorizontalScale Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureHorizontalScale
 ms.assetid: 3203bf4e-1829-718d-cc7a-c80429fd4875

@@ -3,7 +3,7 @@ title: Range.HasFormula Property (Excel)
 keywords: vbaxl10.chm144143
 f1_keywords:
 - vbaxl10.chm144143
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.HasFormula
 ms.assetid: a18bea77-cee9-ae2d-7e97-90a4205e3b1f

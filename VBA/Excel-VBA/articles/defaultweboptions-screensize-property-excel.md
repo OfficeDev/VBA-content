@@ -3,7 +3,7 @@ title: DefaultWebOptions.ScreenSize Property (Excel)
 keywords: vbaxl10.chm660083
 f1_keywords:
 - vbaxl10.chm660083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.ScreenSize
 ms.assetid: 45a5689d-caac-a4ec-4bc4-e0e90065f798

@@ -3,7 +3,7 @@ title: ChartObject.Activate Method (Excel)
 keywords: vbaxl10.chm494098
 f1_keywords:
 - vbaxl10.chm494098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Activate
 ms.assetid: 21997b8b-e446-249b-b33e-ee3b7f9aa564

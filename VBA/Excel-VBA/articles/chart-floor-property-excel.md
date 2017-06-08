@@ -3,7 +3,7 @@ title: Chart.Floor Property (Excel)
 keywords: vbaxl10.chm149109
 f1_keywords:
 - vbaxl10.chm149109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Floor
 ms.assetid: 7771ab49-b254-f0f0-a21b-596f541ab6c1

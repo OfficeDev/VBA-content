@@ -3,7 +3,7 @@ title: SlicerItem.SourceName Property (Excel)
 keywords: vbaxl10.chm907076
 f1_keywords:
 - vbaxl10.chm907076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItem.SourceName
 ms.assetid: 40bf1f3f-668d-d2df-c68f-fe46511b1a00

@@ -3,7 +3,7 @@ title: ListDataFormat.Application Property (Excel)
 keywords: vbaxl10.chm757073
 f1_keywords:
 - vbaxl10.chm757073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListDataFormat.Application
 ms.assetid: 7df41d06-b4b2-9fef-9564-74122fa72a9b

@@ -3,7 +3,7 @@ title: VaryByCategories Property
 keywords: vbagr10.chm65596
 f1_keywords:
 - vbagr10.chm65596
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.VaryByCategories
 ms.assetid: e64bd5cb-1dfa-b78a-ee7e-cf3eb7b4a788

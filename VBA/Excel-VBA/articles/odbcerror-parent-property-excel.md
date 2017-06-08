@@ -3,7 +3,7 @@ title: ODBCError.Parent Property (Excel)
 keywords: vbaxl10.chm526075
 f1_keywords:
 - vbaxl10.chm526075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCError.Parent
 ms.assetid: 9796e5dc-560f-63c9-7b54-8460ffed9299

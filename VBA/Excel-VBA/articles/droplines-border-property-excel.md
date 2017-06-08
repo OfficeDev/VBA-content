@@ -3,7 +3,7 @@ title: DropLines.Border Property (Excel)
 keywords: vbaxl10.chm604076
 f1_keywords:
 - vbaxl10.chm604076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DropLines.Border
 ms.assetid: 71eab7d9-d579-a00c-de9a-758af5cb64e4

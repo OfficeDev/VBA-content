@@ -3,7 +3,7 @@ title: XmlSchemas.Count Property (Excel)
 keywords: vbaxl10.chm752075
 f1_keywords:
 - vbaxl10.chm752075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlSchemas.Count
 ms.assetid: c43c1b5d-ed70-8437-e232-03850c1a3699

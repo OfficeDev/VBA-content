@@ -3,7 +3,7 @@ title: TextFrame.HorizontalAlignment Property (Excel)
 keywords: vbaxl10.chm644079
 f1_keywords:
 - vbaxl10.chm644079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame.HorizontalAlignment
 ms.assetid: d27deba0-dce5-de76-5d1e-88529a0bf946

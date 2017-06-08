@@ -3,7 +3,7 @@ title: ShapeRange.Item Method (Excel)
 keywords: vbaxl10.chm640074
 f1_keywords:
 - vbaxl10.chm640074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Item
 ms.assetid: a8458e74-5279-3e47-308f-6c0647c00ee9

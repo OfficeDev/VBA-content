@@ -3,7 +3,7 @@ title: SeriesCollection.Application Property (Excel)
 keywords: vbaxl10.chm579073
 f1_keywords:
 - vbaxl10.chm579073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Application
 ms.assetid: 0dfb1098-384c-5065-6316-f7c4937372db

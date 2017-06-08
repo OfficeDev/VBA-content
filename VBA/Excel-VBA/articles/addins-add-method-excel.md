@@ -3,7 +3,7 @@ title: AddIns.Add Method (Excel)
 keywords: vbaxl10.chm187073
 f1_keywords:
 - vbaxl10.chm187073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIns.Add
 ms.assetid: 7e4f100d-6ea1-94e4-83d3-fda63a7815e1

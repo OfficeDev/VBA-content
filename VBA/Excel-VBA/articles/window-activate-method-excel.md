@@ -3,7 +3,7 @@ title: Window.Activate Method (Excel)
 keywords: vbaxl10.chm356073
 f1_keywords:
 - vbaxl10.chm356073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Activate
 ms.assetid: 7e0fdc4e-6399-62a8-f706-1653eb9217a2

@@ -3,7 +3,7 @@ title: Phonetic.Application Property (Excel)
 keywords: vbaxl10.chm627073
 f1_keywords:
 - vbaxl10.chm627073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetic.Application
 ms.assetid: 68c5d8cf-4c03-9623-5df2-2bf5f0773cd0

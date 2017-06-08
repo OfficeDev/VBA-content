@@ -3,7 +3,7 @@ title: PlotArea.Creator Property (Excel)
 keywords: vbaxl10.chm617074
 f1_keywords:
 - vbaxl10.chm617074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Creator
 ms.assetid: 761dd9c8-2aff-0c03-e25c-b80871c3e147

@@ -1,6 +1,6 @@
 ---
 title: XlPivotFieldDataType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotFieldDataType
 ms.assetid: ce96a616-ab5e-c281-35bf-1072a4e87598

@@ -3,7 +3,7 @@ title: PivotCache.MakeConnection Method (Excel)
 keywords: vbaxl10.chm227099
 f1_keywords:
 - vbaxl10.chm227099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.MakeConnection
 ms.assetid: d0b29374-4d5a-7d9e-630a-500b505da1bd

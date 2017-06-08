@@ -3,7 +3,7 @@ title: ChartObject.CopyPicture Method (Excel)
 keywords: vbaxl10.chm494077
 f1_keywords:
 - vbaxl10.chm494077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.CopyPicture
 ms.assetid: d04d4fcc-550d-cea3-6967-35b17fe102eb

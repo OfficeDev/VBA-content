@@ -3,7 +3,7 @@ title: Application.ActiveProtectedViewWindow Property (Excel)
 keywords: vbaxl10.chm133331
 f1_keywords:
 - vbaxl10.chm133331
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ActiveProtectedViewWindow
 ms.assetid: 2202c3b4-8880-7a26-8a56-8f2d2e7b7343

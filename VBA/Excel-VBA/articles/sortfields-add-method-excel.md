@@ -3,7 +3,7 @@ title: SortFields.Add Method (Excel)
 keywords: vbaxl10.chm845073
 f1_keywords:
 - vbaxl10.chm845073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortFields.Add
 ms.assetid: 9dd69850-29e8-6c29-186a-be8303b26390

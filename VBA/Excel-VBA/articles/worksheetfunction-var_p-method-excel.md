@@ -3,7 +3,7 @@ title: WorksheetFunction.Var_P Method (Excel)
 keywords: vbaxl10.chm137389
 f1_keywords:
 - vbaxl10.chm137389
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Var_P
 ms.assetid: de79a934-8395-b93f-aa5c-4c16e449e995

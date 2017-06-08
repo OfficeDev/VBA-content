@@ -3,7 +3,7 @@ title: QueryTable.ResultRange Property (Excel)
 keywords: vbaxl10.chm518090
 f1_keywords:
 - vbaxl10.chm518090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.ResultRange
 ms.assetid: 7d7bde05-0e46-a282-dbdc-b2f5edcc2000

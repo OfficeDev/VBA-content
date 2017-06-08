@@ -3,7 +3,7 @@ title: PivotCache.Refresh Method (Excel)
 keywords: vbaxl10.chm227080
 f1_keywords:
 - vbaxl10.chm227080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.Refresh
 ms.assetid: 2833d199-342c-9e2e-d1f8-88c33a74bac6

@@ -3,7 +3,7 @@ title: PivotField.Delete Method (Excel)
 keywords: vbaxl10.chm240101
 f1_keywords:
 - vbaxl10.chm240101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.Delete
 ms.assetid: 48801a14-53fc-b81b-43c5-d7cb233282bc

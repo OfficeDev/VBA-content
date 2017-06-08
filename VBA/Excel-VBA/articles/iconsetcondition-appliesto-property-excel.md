@@ -3,7 +3,7 @@ title: IconSetCondition.AppliesTo Property (Excel)
 keywords: vbaxl10.chm812075
 f1_keywords:
 - vbaxl10.chm812075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.AppliesTo
 ms.assetid: f8a3b01b-8b4f-124c-6eb7-060625ef6e70

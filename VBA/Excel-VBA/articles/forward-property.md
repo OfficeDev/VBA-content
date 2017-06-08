@@ -3,7 +3,7 @@ title: Forward Property
 keywords: vbagr10.chm65727
 f1_keywords:
 - vbagr10.chm65727
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Forward
 ms.assetid: 6a2e78d9-12ca-160a-7154-4968054f6b72

@@ -3,7 +3,7 @@ title: Application.DefaultWebOptions Property (Excel)
 keywords: vbaxl10.chm133247
 f1_keywords:
 - vbaxl10.chm133247
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DefaultWebOptions
 ms.assetid: 51524888-0812-85ee-c8f9-e14d9b558f57

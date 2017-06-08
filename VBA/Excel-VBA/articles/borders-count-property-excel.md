@@ -3,7 +3,7 @@ title: Borders.Count Property (Excel)
 keywords: vbaxl10.chm181075
 f1_keywords:
 - vbaxl10.chm181075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Borders.Count
 ms.assetid: fe015e4c-89f3-cb8c-5215-55181dcdc0c4

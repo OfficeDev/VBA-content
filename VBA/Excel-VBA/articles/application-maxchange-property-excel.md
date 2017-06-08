@@ -3,7 +3,7 @@ title: Application.MaxChange Property (Excel)
 keywords: vbaxl10.chm133162
 f1_keywords:
 - vbaxl10.chm133162
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MaxChange
 ms.assetid: 5620bdff-d006-8c85-a1b8-1e3b31f21092

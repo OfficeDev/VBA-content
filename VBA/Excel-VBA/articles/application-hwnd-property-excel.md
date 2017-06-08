@@ -3,7 +3,7 @@ title: Application.Hwnd Property (Excel)
 keywords: vbaxl10.chm133277
 f1_keywords:
 - vbaxl10.chm133277
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Hwnd
 ms.assetid: ed98b59c-1ebf-f319-f986-3406e4fdb766

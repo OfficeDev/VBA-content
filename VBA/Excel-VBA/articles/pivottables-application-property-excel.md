@@ -3,7 +3,7 @@ title: PivotTables.Application Property (Excel)
 keywords: vbaxl10.chm237073
 f1_keywords:
 - vbaxl10.chm237073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTables.Application
 ms.assetid: b5ed8e6c-0f7c-b58b-6f9d-69fcc4d10602

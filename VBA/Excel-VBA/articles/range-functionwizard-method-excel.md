@@ -3,7 +3,7 @@ title: Range.FunctionWizard Method (Excel)
 keywords: vbaxl10.chm144139
 f1_keywords:
 - vbaxl10.chm144139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.FunctionWizard
 ms.assetid: a9a0c765-4903-4969-8f09-c8f051213a96

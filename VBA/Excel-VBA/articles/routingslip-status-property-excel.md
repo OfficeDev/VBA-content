@@ -3,7 +3,7 @@ title: RoutingSlip.Status Property (Excel)
 keywords: vbaxl10.chm453078
 f1_keywords:
 - vbaxl10.chm453078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RoutingSlip.Status
 ms.assetid: 8fee4357-4121-3d7f-0cc3-4d2be9723426

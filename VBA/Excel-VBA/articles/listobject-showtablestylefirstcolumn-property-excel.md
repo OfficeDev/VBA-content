@@ -3,7 +3,7 @@ title: ListObject.ShowTableStyleFirstColumn Property (Excel)
 keywords: vbaxl10.chm734101
 f1_keywords:
 - vbaxl10.chm734101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleFirstColumn
 ms.assetid: 15b7b5bb-ee5b-98c2-90da-d06116426e30

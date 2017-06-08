@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.TextRange Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.TextRange
 ms.assetid: 3b38e21e-f1c4-48b3-308a-14dee8de23d2

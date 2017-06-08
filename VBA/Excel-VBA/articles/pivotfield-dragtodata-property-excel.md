@@ -3,7 +3,7 @@ title: PivotField.DragToData Property (Excel)
 keywords: vbaxl10.chm240106
 f1_keywords:
 - vbaxl10.chm240106
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DragToData
 ms.assetid: 3149f842-83de-7cd2-2f53-2d15164ee1af

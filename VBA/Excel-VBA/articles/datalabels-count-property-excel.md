@@ -3,7 +3,7 @@ title: DataLabels.Count Property (Excel)
 keywords: vbaxl10.chm584105
 f1_keywords:
 - vbaxl10.chm584105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Count
 ms.assetid: 4838836f-d1b6-cdb5-47bf-0c7314d9d622

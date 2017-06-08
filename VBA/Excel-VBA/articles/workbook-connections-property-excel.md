@@ -3,7 +3,7 @@ title: Workbook.Connections Property (Excel)
 keywords: vbaxl10.chm199235
 f1_keywords:
 - vbaxl10.chm199235
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Connections
 ms.assetid: 9c4f4ba7-dd4b-0bc2-65b7-16455014097f

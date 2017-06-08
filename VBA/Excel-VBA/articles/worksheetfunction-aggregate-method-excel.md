@@ -3,7 +3,7 @@ title: WorksheetFunction.Aggregate Method (Excel)
 keywords: vbaxl10.chm137358
 f1_keywords:
 - vbaxl10.chm137358
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Aggregate
 ms.assetid: 261e51bf-44d4-900c-2a5d-c6612ec9f98c

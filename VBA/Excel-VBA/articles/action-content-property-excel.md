@@ -3,7 +3,7 @@ title: Action.Content Property (Excel)
 keywords: vbaxl10.chm798077
 f1_keywords:
 - vbaxl10.chm798077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Action.Content
 ms.assetid: 2fc4be49-49eb-0ea4-c262-93d62dbc33c9

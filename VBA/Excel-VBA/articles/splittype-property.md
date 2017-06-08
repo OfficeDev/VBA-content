@@ -3,7 +3,7 @@ title: SplitType Property
 keywords: vbagr10.chm3077588
 f1_keywords:
 - vbagr10.chm3077588
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SplitType
 ms.assetid: e6af8aac-bd1f-9e00-abd7-54e49623d536

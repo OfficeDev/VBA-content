@@ -3,7 +3,7 @@ title: Windows.ResetPositionsSideBySide Method (Excel)
 keywords: vbaxl10.chm354081
 f1_keywords:
 - vbaxl10.chm354081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.ResetPositionsSideBySide
 ms.assetid: 1fce834c-7a64-7f40-3037-7d0f78ab4936

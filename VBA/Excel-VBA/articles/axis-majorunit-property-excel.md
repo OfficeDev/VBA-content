@@ -3,7 +3,7 @@ title: Axis.MajorUnit Property (Excel)
 keywords: vbaxl10.chm561086
 f1_keywords:
 - vbaxl10.chm561086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MajorUnit
 ms.assetid: 6e58b341-6887-68c7-d0c1-a00abc226084

@@ -1,6 +1,6 @@
 ---
 title: XlRangeValueDataType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlRangeValueDataType
 ms.assetid: a7d50f6e-a1e2-adaf-2516-410210e5fa50

@@ -1,6 +1,6 @@
 ---
 title: XlPivotFieldCalculation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotFieldCalculation
 ms.assetid: 94ceaa53-9dfc-149a-6aed-30d8fdb57b5b

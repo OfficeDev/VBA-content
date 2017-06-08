@@ -3,7 +3,7 @@ title: Shape.LinkFormat Property (Excel)
 keywords: vbaxl10.chm636129
 f1_keywords:
 - vbaxl10.chm636129
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.LinkFormat
 ms.assetid: f364d08e-aafd-1555-34ee-f0682cde7e19

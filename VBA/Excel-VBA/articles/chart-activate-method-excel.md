@@ -3,7 +3,7 @@ title: Chart.Activate Method (Excel)
 keywords: vbaxl10.chm148073
 f1_keywords:
 - vbaxl10.chm148073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Activate
 ms.assetid: b2bda196-4f0c-252f-cd6f-79c9f3d08f7c

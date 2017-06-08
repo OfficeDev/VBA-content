@@ -3,7 +3,7 @@ title: CustomView.Show Method (Excel)
 keywords: vbaxl10.chm508076
 f1_keywords:
 - vbaxl10.chm508076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomView.Show
 ms.assetid: 822d77c1-e7ab-2bd9-bec5-a7921f80f706

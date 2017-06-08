@@ -3,7 +3,7 @@ title: Application.UserControl Property (Excel)
 keywords: vbaxl10.chm133224
 f1_keywords:
 - vbaxl10.chm133224
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.UserControl
 ms.assetid: fd55727d-8f79-14bf-038b-a31a56829a55

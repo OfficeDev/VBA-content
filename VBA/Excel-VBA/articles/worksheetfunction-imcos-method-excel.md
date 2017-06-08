@@ -3,7 +3,7 @@ title: WorksheetFunction.ImCos Method (Excel)
 keywords: vbaxl10.chm137282
 f1_keywords:
 - vbaxl10.chm137282
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImCos
 ms.assetid: 959ac671-64e4-ac72-9421-d7074bd5d4a8

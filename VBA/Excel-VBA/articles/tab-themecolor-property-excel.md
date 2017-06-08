@@ -3,7 +3,7 @@ title: Tab.ThemeColor Property (Excel)
 keywords: vbaxl10.chm723075
 f1_keywords:
 - vbaxl10.chm723075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Tab.ThemeColor
 ms.assetid: 81b073d3-86f6-1d8c-2d60-228d83cb2e66

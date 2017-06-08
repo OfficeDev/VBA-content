@@ -3,7 +3,7 @@ title: Range.Run Method (Excel)
 keywords: vbaxl10.chm144192
 f1_keywords:
 - vbaxl10.chm144192
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Run
 ms.assetid: b7a0480a-9f10-8aad-6592-3cbde72720cd

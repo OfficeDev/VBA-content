@@ -3,7 +3,7 @@ title: Application.AutoPercentEntry Property (Excel)
 keywords: vbaxl10.chm133250
 f1_keywords:
 - vbaxl10.chm133250
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AutoPercentEntry
 ms.assetid: 80ade0a1-84ae-5a17-6a75-189c0c06843d

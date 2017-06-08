@@ -1,6 +1,6 @@
 ---
 title: PictureFormat.Crop Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.Crop
 ms.assetid: 229fc83c-488f-887e-5ccf-b900c61ed840

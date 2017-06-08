@@ -3,7 +3,7 @@ title: Workbooks.Add Method (Excel)
 keywords: vbaxl10.chm203073
 f1_keywords:
 - vbaxl10.chm203073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbooks.Add
 ms.assetid: ea9f2a2c-3cad-0c35-37b5-82da2f24b876

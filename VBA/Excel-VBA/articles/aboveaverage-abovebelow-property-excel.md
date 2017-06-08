@@ -3,7 +3,7 @@ title: AboveAverage.AboveBelow Property (Excel)
 keywords: vbaxl10.chm824076
 f1_keywords:
 - vbaxl10.chm824076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.AboveBelow
 ms.assetid: 9436063c-b82a-aa0b-0379-5eaee6f68041

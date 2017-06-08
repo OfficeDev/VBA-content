@@ -3,7 +3,7 @@ title: Range.Count Property (Excel)
 keywords: vbaxl10.chm144107
 f1_keywords:
 - vbaxl10.chm144107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Count
 ms.assetid: 080cbbe7-056f-b21c-9004-171a6acce664

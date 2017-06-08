@@ -3,7 +3,7 @@ title: UniqueValues Object (Excel)
 keywords: vbaxl10.chm825072
 f1_keywords:
 - vbaxl10.chm825072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues
 ms.assetid: 1b8f056f-040c-7df4-8895-26a520cf6c1b

@@ -3,7 +3,7 @@ title: WorksheetFunction.Combin Method (Excel)
 keywords: vbaxl10.chm137180
 f1_keywords:
 - vbaxl10.chm137180
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Combin
 ms.assetid: d1e75264-6c74-3799-a702-21e96c8472bc

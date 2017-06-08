@@ -3,7 +3,7 @@ title: Workbook.SheetBeforeRightClick Event (Excel)
 keywords: vbaxl10.chm503087
 f1_keywords:
 - vbaxl10.chm503087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetBeforeRightClick
 ms.assetid: d84dd9fd-85d3-009e-281b-cfc0d2874859

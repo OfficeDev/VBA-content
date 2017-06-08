@@ -3,7 +3,7 @@ title: WorksheetFunction.Hex2Bin Method (Excel)
 keywords: vbaxl10.chm137261
 f1_keywords:
 - vbaxl10.chm137261
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Hex2Bin
 ms.assetid: 373a8eb3-7f60-f03e-04f8-ebb5f0de47f6

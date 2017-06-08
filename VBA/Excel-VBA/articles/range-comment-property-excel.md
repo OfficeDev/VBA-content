@@ -3,7 +3,7 @@ title: Range.Comment Property (Excel)
 keywords: vbaxl10.chm144223
 f1_keywords:
 - vbaxl10.chm144223
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Comment
 ms.assetid: 94c07e38-f232-3fba-f08c-878d3848ac55

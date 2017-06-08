@@ -3,7 +3,7 @@ title: Bold Property
 keywords: vbagr10.chm3076964
 f1_keywords:
 - vbagr10.chm3076964
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Bold
 ms.assetid: 224f4cc5-a495-062a-655b-828182cbe3de

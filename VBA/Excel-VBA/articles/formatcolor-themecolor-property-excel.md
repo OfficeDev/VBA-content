@@ -3,7 +3,7 @@ title: FormatColor.ThemeColor Property (Excel)
 keywords: vbaxl10.chm802075
 f1_keywords:
 - vbaxl10.chm802075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatColor.ThemeColor
 ms.assetid: 5e4750b3-14a3-ca31-ef61-1be32be3ef38

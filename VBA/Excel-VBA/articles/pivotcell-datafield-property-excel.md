@@ -3,7 +3,7 @@ title: PivotCell.DataField Property (Excel)
 keywords: vbaxl10.chm692075
 f1_keywords:
 - vbaxl10.chm692075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.DataField
 ms.assetid: d5373236-ba29-301a-2c49-ccda89c69328

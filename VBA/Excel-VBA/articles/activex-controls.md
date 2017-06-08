@@ -3,7 +3,7 @@ title: ActiveX Controls
 keywords: vbaxl10.chm5198807
 f1_keywords:
 - vbaxl10.chm5198807
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: a85149e1-459e-f83b-3171-467a7e29ca28
 ms.date: 06/08/2017
 ---

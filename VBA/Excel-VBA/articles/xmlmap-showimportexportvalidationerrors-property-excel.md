@@ -3,7 +3,7 @@ title: XmlMap.ShowImportExportValidationErrors Property (Excel)
 keywords: vbaxl10.chm754076
 f1_keywords:
 - vbaxl10.chm754076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.ShowImportExportValidationErrors
 ms.assetid: 0a0ece1c-f069-714d-79fa-a6ab564470fc

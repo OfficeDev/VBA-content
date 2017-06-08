@@ -1,6 +1,6 @@
 ---
 title: XlObjectSize Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlObjectSize
 ms.assetid: a79fdba9-7f6b-8181-4202-a2ea5052bc52

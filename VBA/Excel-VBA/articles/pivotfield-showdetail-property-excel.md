@@ -3,7 +3,7 @@ title: PivotField.ShowDetail Property (Excel)
 keywords: vbaxl10.chm240159
 f1_keywords:
 - vbaxl10.chm240159
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.ShowDetail
 ms.assetid: 35e7b0b9-dae4-57d9-258f-d97316496ac2

@@ -3,7 +3,7 @@ title: Worksheet.Copy Method (Excel)
 keywords: vbaxl10.chm174074
 f1_keywords:
 - vbaxl10.chm174074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Copy
 ms.assetid: ace07575-34f4-a4ae-0922-a2671f2df1ba

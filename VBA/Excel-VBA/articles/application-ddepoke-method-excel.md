@@ -3,7 +3,7 @@ title: Application.DDEPoke Method (Excel)
 keywords: vbaxl10.chm132091
 f1_keywords:
 - vbaxl10.chm132091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DDEPoke
 ms.assetid: 5d00e0da-e041-7a9e-3b55-f5edd3f2a4a0

@@ -3,7 +3,7 @@ title: WorksheetFunction.Irr Method (Excel)
 keywords: vbaxl10.chm137113
 f1_keywords:
 - vbaxl10.chm137113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Irr
 ms.assetid: 306de022-0082-9757-9b63-262c7e2e55f4

@@ -3,7 +3,7 @@ title: Window.DisplayRightToLeft Property (Excel)
 keywords: vbaxl10.chm356128
 f1_keywords:
 - vbaxl10.chm356128
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.DisplayRightToLeft
 ms.assetid: 8aed55f5-bab5-6af9-b959-f1b736b5e62b

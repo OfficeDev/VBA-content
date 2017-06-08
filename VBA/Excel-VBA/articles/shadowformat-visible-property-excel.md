@@ -3,7 +3,7 @@ title: ShadowFormat.Visible Property (Excel)
 keywords: vbaxl10.chm114008
 f1_keywords:
 - vbaxl10.chm114008
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Visible
 ms.assetid: 08da0549-44ab-e17f-f085-c3e988649a44

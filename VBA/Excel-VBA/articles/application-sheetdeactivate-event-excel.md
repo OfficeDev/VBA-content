@@ -3,7 +3,7 @@ title: Application.SheetDeactivate Event (Excel)
 keywords: vbaxl10.chm504078
 f1_keywords:
 - vbaxl10.chm504078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SheetDeactivate
 ms.assetid: 7596a2ab-4626-eb05-3b3d-64e6d9e142b8

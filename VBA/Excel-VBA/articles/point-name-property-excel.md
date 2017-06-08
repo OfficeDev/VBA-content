@@ -3,7 +3,7 @@ title: Point.Name Property (Excel)
 keywords: vbaxl10.chm576108
 f1_keywords:
 - vbaxl10.chm576108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Name
 ms.assetid: 94d13f1d-d1c0-e115-27f1-de899e576b2b

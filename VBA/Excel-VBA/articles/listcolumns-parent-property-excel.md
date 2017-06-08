@@ -3,7 +3,7 @@ title: ListColumns.Parent Property (Excel)
 keywords: vbaxl10.chm735075
 f1_keywords:
 - vbaxl10.chm735075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumns.Parent
 ms.assetid: 53182784-926e-d800-7b7b-2090d5a0ad42

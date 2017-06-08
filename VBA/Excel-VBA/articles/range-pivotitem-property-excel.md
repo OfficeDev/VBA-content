@@ -3,7 +3,7 @@ title: Range.PivotItem Property (Excel)
 keywords: vbaxl10.chm144176
 f1_keywords:
 - vbaxl10.chm144176
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.PivotItem
 ms.assetid: 02a41786-074b-ae34-5d2c-407006fe526d

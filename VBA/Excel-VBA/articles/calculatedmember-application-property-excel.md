@@ -3,7 +3,7 @@ title: CalculatedMember.Application Property (Excel)
 keywords: vbaxl10.chm685073
 f1_keywords:
 - vbaxl10.chm685073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Application
 ms.assetid: 42a8f86a-2e79-6c4a-51eb-ca3165cdea76

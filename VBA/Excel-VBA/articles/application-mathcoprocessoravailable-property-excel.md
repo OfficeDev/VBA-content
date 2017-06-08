@@ -3,7 +3,7 @@ title: Application.MathCoprocessorAvailable Property (Excel)
 keywords: vbaxl10.chm133161
 f1_keywords:
 - vbaxl10.chm133161
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MathCoprocessorAvailable
 ms.assetid: 9424d6e1-f6f7-cc1b-7d20-987c8ed5e5a2

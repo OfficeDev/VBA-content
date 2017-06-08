@@ -3,7 +3,7 @@ title: Workbook.DefaultSlicerStyle Property (Excel)
 keywords: vbaxl10.chm199268
 f1_keywords:
 - vbaxl10.chm199268
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.DefaultSlicerStyle
 ms.assetid: 0f193fb8-b766-9093-9db8-8b028da108b4

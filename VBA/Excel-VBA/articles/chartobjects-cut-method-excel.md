@@ -3,7 +3,7 @@ title: ChartObjects.Cut Method (Excel)
 keywords: vbaxl10.chm497077
 f1_keywords:
 - vbaxl10.chm497077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Cut
 ms.assetid: 842104f6-4317-8cac-5dd2-2ce2b1071052

@@ -3,7 +3,7 @@ title: WorksheetFunction.CoupPcd Method (Excel)
 keywords: vbaxl10.chm137333
 f1_keywords:
 - vbaxl10.chm137333
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CoupPcd
 ms.assetid: 68b08847-2729-3975-f488-241c20b398a5

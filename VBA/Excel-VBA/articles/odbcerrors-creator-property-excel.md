@@ -3,7 +3,7 @@ title: ODBCErrors.Creator Property (Excel)
 keywords: vbaxl10.chm528074
 f1_keywords:
 - vbaxl10.chm528074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCErrors.Creator
 ms.assetid: 0db4a69d-36bd-a3cc-a407-e2a65bcf7fb3

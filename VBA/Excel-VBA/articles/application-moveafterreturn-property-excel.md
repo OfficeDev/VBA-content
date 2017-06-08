@@ -3,7 +3,7 @@ title: Application.MoveAfterReturn Property (Excel)
 keywords: vbaxl10.chm133168
 f1_keywords:
 - vbaxl10.chm133168
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MoveAfterReturn
 ms.assetid: 9cdb96d5-e28a-b30c-25de-55a807d32c25

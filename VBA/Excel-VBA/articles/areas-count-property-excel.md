@@ -3,7 +3,7 @@ title: Areas.Count Property (Excel)
 keywords: vbaxl10.chm197073
 f1_keywords:
 - vbaxl10.chm197073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Areas.Count
 ms.assetid: c3c91bed-d3dd-7ffd-94be-f61cc3b973b7

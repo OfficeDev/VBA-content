@@ -3,7 +3,7 @@ title: ProtectedViewWindow.EnableResize Property (Excel)
 keywords: vbaxl10.chm914075
 f1_keywords:
 - vbaxl10.chm914075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.EnableResize
 ms.assetid: 110c4080-7dea-e34d-224b-47337e5d6777

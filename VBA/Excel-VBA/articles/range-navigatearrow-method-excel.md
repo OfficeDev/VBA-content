@@ -3,7 +3,7 @@ title: Range.NavigateArrow Method (Excel)
 keywords: vbaxl10.chm144163
 f1_keywords:
 - vbaxl10.chm144163
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.NavigateArrow
 ms.assetid: 71e2ce3b-3da8-afd5-7fd3-b922c6f8f1c2

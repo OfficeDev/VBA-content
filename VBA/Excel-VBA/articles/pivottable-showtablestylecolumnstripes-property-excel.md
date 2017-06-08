@@ -3,7 +3,7 @@ title: PivotTable.ShowTableStyleColumnStripes Property (Excel)
 keywords: vbaxl10.chm235174
 f1_keywords:
 - vbaxl10.chm235174
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowTableStyleColumnStripes
 ms.assetid: f7b40346-0332-2efa-6c7b-e364defae3b8

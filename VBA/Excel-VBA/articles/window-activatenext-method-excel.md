@@ -3,7 +3,7 @@ title: Window.ActivateNext Method (Excel)
 keywords: vbaxl10.chm356074
 f1_keywords:
 - vbaxl10.chm356074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ActivateNext
 ms.assetid: eeef1ef2-b1c5-6618-1f66-827bc64e2033

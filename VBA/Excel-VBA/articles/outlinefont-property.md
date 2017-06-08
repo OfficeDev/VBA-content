@@ -3,7 +3,7 @@ title: OutlineFont Property
 keywords: vbagr10.chm65757
 f1_keywords:
 - vbagr10.chm65757
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OutlineFont
 ms.assetid: 41075763-8ee7-e6ba-c9a2-7bc718b5405e

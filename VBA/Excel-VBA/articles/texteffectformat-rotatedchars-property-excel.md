@@ -3,7 +3,7 @@ title: TextEffectFormat.RotatedChars Property (Excel)
 keywords: vbaxl10.chm118011
 f1_keywords:
 - vbaxl10.chm118011
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.RotatedChars
 ms.assetid: 708f076d-82e7-f7f3-a2df-3f4a4d628092

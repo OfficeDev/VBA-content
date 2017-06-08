@@ -3,7 +3,7 @@ title: PivotTable.CalculatedMembers Property (Excel)
 keywords: vbaxl10.chm235145
 f1_keywords:
 - vbaxl10.chm235145
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.CalculatedMembers
 ms.assetid: 65e7ffd6-e01d-f8fc-3adb-a1bcb1046fcf

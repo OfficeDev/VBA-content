@@ -3,7 +3,7 @@ title: PivotTables.Add Method (Excel)
 keywords: vbaxl10.chm238076
 f1_keywords:
 - vbaxl10.chm238076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTables.Add
 ms.assetid: 3b830532-e834-81c8-dd5e-a43ed2efc269

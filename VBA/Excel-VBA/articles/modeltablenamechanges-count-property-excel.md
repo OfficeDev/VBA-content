@@ -3,7 +3,7 @@ title: ModelTableNameChanges.Count Property (Excel)
 keywords: vbaxl10.chm958073
 f1_keywords:
 - vbaxl10.chm958073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: beb40e9f-527e-3c14-39ac-7bc8563826f2
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: PivotTable.RefreshDataSourceValues Method (Excel)
 keywords: vbaxl10.chm235194
 f1_keywords:
 - vbaxl10.chm235194
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.RefreshDataSourceValues
 ms.assetid: 4312e319-bb90-b8d8-5add-f501553198a6

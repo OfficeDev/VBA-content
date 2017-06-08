@@ -3,7 +3,7 @@ title: WorksheetFunction.Dbcs Method (Excel)
 keywords: vbaxl10.chm137247
 f1_keywords:
 - vbaxl10.chm137247
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dbcs
 ms.assetid: 4fb2604f-2533-bb62-23e4-7aecd4d08b83

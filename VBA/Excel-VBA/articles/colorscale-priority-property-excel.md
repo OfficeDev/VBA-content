@@ -3,7 +3,7 @@ title: ColorScale.Priority Property (Excel)
 keywords: vbaxl10.chm806073
 f1_keywords:
 - vbaxl10.chm806073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.Priority
 ms.assetid: 71209666-9c7c-f376-69cd-bc73c38a9681

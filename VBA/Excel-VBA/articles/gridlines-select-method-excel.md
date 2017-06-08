@@ -3,7 +3,7 @@ title: Gridlines.Select Method (Excel)
 keywords: vbaxl10.chm602075
 f1_keywords:
 - vbaxl10.chm602075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Gridlines.Select
 ms.assetid: 186e7b88-99ee-6afa-23ab-864be0471ef1

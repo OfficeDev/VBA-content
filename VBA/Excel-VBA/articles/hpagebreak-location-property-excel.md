@@ -3,7 +3,7 @@ title: HPageBreak.Location Property (Excel)
 keywords: vbaxl10.chm159078
 f1_keywords:
 - vbaxl10.chm159078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreak.Location
 ms.assetid: 7f0ce2ba-21e6-4dc9-8957-ade679aeeabb

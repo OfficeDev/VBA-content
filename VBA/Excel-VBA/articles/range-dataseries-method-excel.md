@@ -3,7 +3,7 @@ title: Range.DataSeries Method (Excel)
 keywords: vbaxl10.chm144113
 f1_keywords:
 - vbaxl10.chm144113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.DataSeries
 ms.assetid: cfdb0582-8b6c-029d-2a99-4fa1d4b360ea

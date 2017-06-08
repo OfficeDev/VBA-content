@@ -3,7 +3,7 @@ title: Trendline.Format Property (Excel)
 keywords: vbaxl10.chm594093
 f1_keywords:
 - vbaxl10.chm594093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Format
 ms.assetid: 46c65fb6-98d3-4549-c63d-37c919f99ade

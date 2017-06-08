@@ -3,7 +3,7 @@ title: Axis.MaximumScale Property (Excel)
 keywords: vbaxl10.chm561088
 f1_keywords:
 - vbaxl10.chm561088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MaximumScale
 ms.assetid: 384e52b5-561e-aa07-910c-67ee0fb07ba0

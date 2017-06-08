@@ -3,7 +3,7 @@ title: IconSetCondition.ModifyAppliesToRange Method (Excel)
 keywords: vbaxl10.chm812077
 f1_keywords:
 - vbaxl10.chm812077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSetCondition.ModifyAppliesToRange
 ms.assetid: 89f13781-2641-4cba-061b-cc82b479b6df

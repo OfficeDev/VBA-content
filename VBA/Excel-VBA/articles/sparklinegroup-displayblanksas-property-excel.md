@@ -3,7 +3,7 @@ title: SparklineGroup.DisplayBlanksAs Property (Excel)
 keywords: vbaxl10.chm871088
 f1_keywords:
 - vbaxl10.chm871088
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 58712bd4-3c91-151d-698f-7bff83865bc8
 ms.date: 06/08/2017
 ---

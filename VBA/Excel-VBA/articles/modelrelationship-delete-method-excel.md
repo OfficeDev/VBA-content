@@ -3,7 +3,7 @@ title: ModelRelationship.Delete Method (Excel)
 keywords: vbaxl10.chm938078
 f1_keywords:
 - vbaxl10.chm938078
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f37ba401-8c26-b1b9-9ae1-a9b4c9df4f90
 ms.date: 06/08/2017
 ---

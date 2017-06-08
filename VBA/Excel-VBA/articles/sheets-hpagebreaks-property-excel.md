@@ -3,7 +3,7 @@ title: Sheets.HPageBreaks Property (Excel)
 keywords: vbaxl10.chm152084
 f1_keywords:
 - vbaxl10.chm152084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sheets.HPageBreaks
 ms.assetid: 5c7671c6-a00e-5183-db25-898509c7f8e8

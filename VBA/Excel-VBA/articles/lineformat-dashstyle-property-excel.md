@@ -3,7 +3,7 @@ title: LineFormat.DashStyle Property (Excel)
 keywords: vbaxl10.chm110006
 f1_keywords:
 - vbaxl10.chm110006
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat.DashStyle
 ms.assetid: b1a6f135-ca68-5399-9156-3044e99bf3ab

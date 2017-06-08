@@ -3,7 +3,7 @@ title: Validation.ErrorMessage Property (Excel)
 keywords: vbaxl10.chm532079
 f1_keywords:
 - vbaxl10.chm532079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.ErrorMessage
 ms.assetid: e5708bb8-7929-9e69-f020-567c4f6fc67d

@@ -3,7 +3,7 @@ title: ShapeRange.Distribute Method (Excel)
 keywords: vbaxl10.chm640080
 f1_keywords:
 - vbaxl10.chm640080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Distribute
 ms.assetid: cef14a4b-4d6e-758e-928a-99233f893ddc

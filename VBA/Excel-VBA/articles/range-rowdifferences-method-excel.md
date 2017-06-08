@@ -3,7 +3,7 @@ title: Range.RowDifferences Method (Excel)
 keywords: vbaxl10.chm144189
 f1_keywords:
 - vbaxl10.chm144189
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.RowDifferences
 ms.assetid: 89030ca3-9f59-7426-d050-89dcabf00887

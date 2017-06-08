@@ -3,7 +3,7 @@ title: PivotCell Object (Excel)
 keywords: vbaxl10.chm691072
 f1_keywords:
 - vbaxl10.chm691072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell
 ms.assetid: 76b8a2dc-90ee-7475-d327-d27cb1e92703

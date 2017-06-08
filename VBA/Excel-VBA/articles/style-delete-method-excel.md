@@ -3,7 +3,7 @@ title: Style.Delete Method (Excel)
 keywords: vbaxl10.chm177076
 f1_keywords:
 - vbaxl10.chm177076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Delete
 ms.assetid: 9248eac2-9d36-4366-11de-4755581d2ad7

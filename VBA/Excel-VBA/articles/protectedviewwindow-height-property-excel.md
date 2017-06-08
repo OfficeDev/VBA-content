@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Height Property (Excel)
 keywords: vbaxl10.chm914076
 f1_keywords:
 - vbaxl10.chm914076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Height
 ms.assetid: 32d5baad-2c78-02ad-7814-f703889f8a36

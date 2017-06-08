@@ -1,6 +1,6 @@
 ---
 title: XlListObjectSourceType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlListObjectSourceType
 ms.assetid: 5367ca5c-a5c5-a838-5493-976c1512b1fc

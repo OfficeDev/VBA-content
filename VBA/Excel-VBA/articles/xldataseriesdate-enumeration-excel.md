@@ -1,6 +1,6 @@
 ---
 title: XlDataSeriesDate Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataSeriesDate
 ms.assetid: dd5a729b-ce3c-eb9c-e251-33fc83db50fe

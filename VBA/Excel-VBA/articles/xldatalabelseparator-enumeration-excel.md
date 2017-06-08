@@ -1,6 +1,6 @@
 ---
 title: XlDataLabelSeparator Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDataLabelSeparator
 ms.assetid: e8be2ccf-5870-8fa2-c414-d6d379597c83

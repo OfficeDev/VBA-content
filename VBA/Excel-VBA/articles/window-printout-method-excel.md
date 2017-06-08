@@ -3,7 +3,7 @@ title: Window.PrintOut Method (Excel)
 keywords: vbaxl10.chm356135
 f1_keywords:
 - vbaxl10.chm356135
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.PrintOut
 ms.assetid: 735b2bc4-ff5b-13b8-6223-f71fc55e339e

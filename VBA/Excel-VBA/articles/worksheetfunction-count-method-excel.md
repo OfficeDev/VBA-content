@@ -3,7 +3,7 @@ title: WorksheetFunction.Count Method (Excel)
 keywords: vbaxl10.chm137074
 f1_keywords:
 - vbaxl10.chm137074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Count
 ms.assetid: e64d9378-c1ae-4800-092b-cbdfb9c80c3a

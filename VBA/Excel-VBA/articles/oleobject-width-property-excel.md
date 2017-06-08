@@ -3,7 +3,7 @@ title: OLEObject.Width Property (Excel)
 keywords: vbaxl10.chm415095
 f1_keywords:
 - vbaxl10.chm415095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Width
 ms.assetid: d025e7f6-0364-3314-7717-83126613a2fb

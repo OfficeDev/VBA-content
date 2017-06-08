@@ -3,7 +3,7 @@ title: Workbook.SetLinkOnData Method (Excel)
 keywords: vbaxl10.chm199151
 f1_keywords:
 - vbaxl10.chm199151
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SetLinkOnData
 ms.assetid: b500a579-6e4c-5712-05cf-27c6393b3bcd

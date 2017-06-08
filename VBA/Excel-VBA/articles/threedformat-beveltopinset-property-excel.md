@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.BevelTopInset Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelTopInset
 ms.assetid: c178decf-eed4-bf41-26e5-ab53db5f7dc0

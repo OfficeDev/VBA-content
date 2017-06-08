@@ -3,7 +3,7 @@ title: AboveAverage.StopIfTrue Property (Excel)
 keywords: vbaxl10.chm824074
 f1_keywords:
 - vbaxl10.chm824074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.StopIfTrue
 ms.assetid: af5acf21-8bba-19ca-f3ae-eaf3b28f2201

@@ -3,7 +3,7 @@ title: ChartObject.Chart Property (Excel)
 keywords: vbaxl10.chm494099
 f1_keywords:
 - vbaxl10.chm494099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Chart
 ms.assetid: 99adb730-fc7b-1033-03e0-aebc82d95814

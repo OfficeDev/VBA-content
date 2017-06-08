@@ -3,7 +3,7 @@ title: PivotCell.DataSourceValue Property (Excel)
 keywords: vbaxl10.chm692087
 f1_keywords:
 - vbaxl10.chm692087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.DataSourceValue
 ms.assetid: 99cd270c-775c-3cca-99dd-1a2864b872b2

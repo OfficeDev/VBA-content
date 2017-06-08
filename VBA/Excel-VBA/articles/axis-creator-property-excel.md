@@ -3,7 +3,7 @@ title: Axis.Creator Property (Excel)
 keywords: vbaxl10.chm560074
 f1_keywords:
 - vbaxl10.chm560074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.Creator
 ms.assetid: acbfdefc-8a21-1a64-1d7c-f3d440156d5b

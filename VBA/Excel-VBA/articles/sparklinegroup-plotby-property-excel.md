@@ -3,7 +3,7 @@ title: SparklineGroup.PlotBy Property (Excel)
 keywords: vbaxl10.chm871091
 f1_keywords:
 - vbaxl10.chm871091
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 217c6de7-fabf-2642-96a7-aec82f6609a9
 ms.date: 06/08/2017
 ---

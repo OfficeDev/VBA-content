@@ -3,7 +3,7 @@ title: XmlMap.Parent Property (Excel)
 keywords: vbaxl10.chm753075
 f1_keywords:
 - vbaxl10.chm753075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.Parent
 ms.assetid: be698cdb-c6b8-8004-a12c-ea07ffa58735

@@ -3,7 +3,7 @@ title: HPageBreaks.Count Property (Excel)
 keywords: vbaxl10.chm164073
 f1_keywords:
 - vbaxl10.chm164073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreaks.Count
 ms.assetid: f5fb8c32-6a2f-89cc-76dc-444ee9bfe9ab

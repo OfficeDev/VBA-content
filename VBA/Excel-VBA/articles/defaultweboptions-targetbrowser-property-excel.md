@@ -3,7 +3,7 @@ title: DefaultWebOptions.TargetBrowser Property (Excel)
 keywords: vbaxl10.chm660090
 f1_keywords:
 - vbaxl10.chm660090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.TargetBrowser
 ms.assetid: 785efc30-ef17-1745-874d-a3be861d450b

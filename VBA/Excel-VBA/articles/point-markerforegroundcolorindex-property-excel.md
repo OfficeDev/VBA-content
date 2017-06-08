@@ -3,7 +3,7 @@ title: Point.MarkerForegroundColorIndex Property (Excel)
 keywords: vbaxl10.chm576087
 f1_keywords:
 - vbaxl10.chm576087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.MarkerForegroundColorIndex
 ms.assetid: 00d5e240-0851-ea13-11a3-5972135ca5fa

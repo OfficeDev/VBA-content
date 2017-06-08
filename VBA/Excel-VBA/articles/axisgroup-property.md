@@ -3,7 +3,7 @@ title: AxisGroup Property
 keywords: vbagr10.chm65583
 f1_keywords:
 - vbagr10.chm65583
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisGroup
 ms.assetid: 453bc2f6-ca27-1b7c-8dc4-8a902c9445be

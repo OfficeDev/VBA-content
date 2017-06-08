@@ -3,7 +3,7 @@ title: PivotTable.DisplayErrorString Property (Excel)
 keywords: vbaxl10.chm235104
 f1_keywords:
 - vbaxl10.chm235104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayErrorString
 ms.assetid: 57ec3e1f-b6ea-dfd0-996e-6efa48bd9793

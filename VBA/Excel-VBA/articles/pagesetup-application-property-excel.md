@@ -3,7 +3,7 @@ title: PageSetup.Application Property (Excel)
 keywords: vbaxl10.chm472073
 f1_keywords:
 - vbaxl10.chm472073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.Application
 ms.assetid: 9d2bf0db-7dc3-1295-ab68-e32863ed0143

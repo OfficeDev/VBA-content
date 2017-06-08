@@ -3,7 +3,7 @@ title: Width Property (Graph)
 keywords: vbagr10.chm3077602
 f1_keywords:
 - vbagr10.chm3077602
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 715e889e-184e-5021-3ad9-029dd78e3147
 ms.date: 06/08/2017
 ---

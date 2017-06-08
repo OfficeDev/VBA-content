@@ -3,7 +3,7 @@ title: Phonetics.Delete Method (Excel)
 keywords: vbaxl10.chm658081
 f1_keywords:
 - vbaxl10.chm658081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetics.Delete
 ms.assetid: 0dab7f60-d6e5-efa1-e58a-92f3f0de9cc5

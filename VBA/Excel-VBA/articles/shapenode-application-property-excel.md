@@ -1,6 +1,6 @@
 ---
 title: ShapeNode.Application Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNode.Application
 ms.assetid: 98e77d56-875c-7696-2b2d-5f36409fa129

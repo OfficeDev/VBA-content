@@ -3,7 +3,7 @@ title: ChartView Object (Excel)
 keywords: vbaxl10.chm780072
 f1_keywords:
 - vbaxl10.chm780072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartView
 ms.assetid: 2e59e8c1-f1cd-1589-ae36-22d6c5dccbf6

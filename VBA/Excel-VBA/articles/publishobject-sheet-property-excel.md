@@ -3,7 +3,7 @@ title: PublishObject.Sheet Property (Excel)
 keywords: vbaxl10.chm652076
 f1_keywords:
 - vbaxl10.chm652076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObject.Sheet
 ms.assetid: 37aedf9e-01e1-0790-d141-6d2490e3eab2

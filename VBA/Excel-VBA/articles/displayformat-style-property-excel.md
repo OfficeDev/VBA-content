@@ -3,7 +3,7 @@ title: DisplayFormat.Style Property (Excel)
 keywords: vbaxl10.chm893076
 f1_keywords:
 - vbaxl10.chm893076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Style
 ms.assetid: 34dc5922-a61d-2cc1-cd5d-d9ae68f3f832

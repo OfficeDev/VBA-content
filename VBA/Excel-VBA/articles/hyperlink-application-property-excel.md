@@ -3,7 +3,7 @@ title: Hyperlink.Application Property (Excel)
 keywords: vbaxl10.chm535073
 f1_keywords:
 - vbaxl10.chm535073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink.Application
 ms.assetid: 14b44cb6-712b-23a0-c215-ef624b83d38b

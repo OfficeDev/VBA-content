@@ -3,7 +3,7 @@ title: OLEDBConnection.SourceDataFile Property (Excel)
 keywords: vbaxl10.chm794092
 f1_keywords:
 - vbaxl10.chm794092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.SourceDataFile
 ms.assetid: ddadf399-3f93-bd20-22cf-5f9303704218

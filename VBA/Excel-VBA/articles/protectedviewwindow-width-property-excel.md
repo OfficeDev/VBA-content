@@ -3,7 +3,7 @@ title: ProtectedViewWindow.Width Property (Excel)
 keywords: vbaxl10.chm914079
 f1_keywords:
 - vbaxl10.chm914079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Width
 ms.assetid: ae2e9f08-5d8a-c725-2a9c-3b623c1d36ad

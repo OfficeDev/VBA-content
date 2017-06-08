@@ -3,7 +3,7 @@ title: Font.Subscript Property (Excel)
 keywords: vbaxl10.chm559084
 f1_keywords:
 - vbaxl10.chm559084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Font.Subscript
 ms.assetid: fb98ecb9-9653-4b5e-f3e1-838309069810

@@ -3,7 +3,7 @@ title: Application.GenerateGetPivotData Property (Excel)
 keywords: vbaxl10.chm133275
 f1_keywords:
 - vbaxl10.chm133275
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.GenerateGetPivotData
 ms.assetid: 83effd5f-5101-ba1b-ab45-722e26074ea7

@@ -3,7 +3,7 @@ title: Application.DefaultSheetDirection Property (Excel)
 keywords: vbaxl10.chm133236
 f1_keywords:
 - vbaxl10.chm133236
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DefaultSheetDirection
 ms.assetid: 33fad777-e2dd-99b5-9b33-a573a729b331

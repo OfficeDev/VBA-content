@@ -3,7 +3,7 @@ title: Application.AskToUpdateLinks Property (Excel)
 keywords: vbaxl10.chm133079
 f1_keywords:
 - vbaxl10.chm133079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.AskToUpdateLinks
 ms.assetid: 1d04eb45-9dcc-e15f-daf1-a6ce9fa737ae

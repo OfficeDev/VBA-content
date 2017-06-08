@@ -3,7 +3,7 @@ title: Hyperlink.Creator Property (Excel)
 keywords: vbaxl10.chm535074
 f1_keywords:
 - vbaxl10.chm535074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink.Creator
 ms.assetid: f944b677-ac58-77ca-7546-2fbfc04233ae

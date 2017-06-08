@@ -3,7 +3,7 @@ title: TickLabels.Orientation Property (Excel)
 keywords: vbaxl10.chm616080
 f1_keywords:
 - vbaxl10.chm616080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Orientation
 ms.assetid: 94ab0869-c4bf-7481-df88-84e4a53ec4d7

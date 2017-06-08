@@ -3,7 +3,7 @@ title: Slicer.Locked Property (Excel)
 keywords: vbaxl10.chm905084
 f1_keywords:
 - vbaxl10.chm905084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Locked
 ms.assetid: 4d59178b-9cb9-0a9e-76cc-1b5c4547b3dd

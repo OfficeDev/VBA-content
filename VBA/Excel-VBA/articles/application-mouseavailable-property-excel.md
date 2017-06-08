@@ -3,7 +3,7 @@ title: Application.MouseAvailable Property (Excel)
 keywords: vbaxl10.chm133167
 f1_keywords:
 - vbaxl10.chm133167
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.MouseAvailable
 ms.assetid: b22f9d44-6a84-6716-d663-450f08c5557d

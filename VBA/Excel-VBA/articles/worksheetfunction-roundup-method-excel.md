@@ -3,7 +3,7 @@ title: WorksheetFunction.RoundUp Method (Excel)
 keywords: vbaxl10.chm137157
 f1_keywords:
 - vbaxl10.chm137157
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.RoundUp
 ms.assetid: daff9e6a-5ed8-b502-24c1-c4ffe01d2d0f

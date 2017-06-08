@@ -3,7 +3,7 @@ title: PivotTable.ShowPages Method (Excel)
 keywords: vbaxl10.chm235077
 f1_keywords:
 - vbaxl10.chm235077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowPages
 ms.assetid: 7ebb55ab-ecda-31f7-23d2-fdefc12ee161

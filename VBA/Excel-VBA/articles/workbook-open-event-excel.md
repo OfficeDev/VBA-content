@@ -3,7 +3,7 @@ title: Workbook.Open Event (Excel)
 keywords: vbaxl10.chm503073
 f1_keywords:
 - vbaxl10.chm503073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Open
 ms.assetid: 313adc5e-0319-4ca4-cf5d-791b7184dacf

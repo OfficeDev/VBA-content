@@ -3,7 +3,7 @@ title: PivotLines.Count Property (Excel)
 keywords: vbaxl10.chm766076
 f1_keywords:
 - vbaxl10.chm766076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLines.Count
 ms.assetid: d640d353-ed51-c9e9-ca41-33ccb1a1da03

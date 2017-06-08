@@ -3,7 +3,7 @@ title: AboveAverage.Delete Method (Excel)
 keywords: vbaxl10.chm824084
 f1_keywords:
 - vbaxl10.chm824084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.Delete
 ms.assetid: 822c4311-1d77-2d38-d756-a47e436d6992

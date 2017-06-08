@@ -3,7 +3,7 @@ title: OLEObject.Name Property (Excel)
 keywords: vbaxl10.chm415086
 f1_keywords:
 - vbaxl10.chm415086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Name
 ms.assetid: 856bccb3-5677-af49-fe39-89b31203eadc

@@ -3,7 +3,7 @@ title: Walls.ClearFormats Method (Excel)
 keywords: vbaxl10.chm614077
 f1_keywords:
 - vbaxl10.chm614077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Walls.ClearFormats
 ms.assetid: d301670d-788c-fee8-2835-cb53725ee0ea

@@ -3,7 +3,7 @@ title: Workbook.Save Method (Excel)
 keywords: vbaxl10.chm199144
 f1_keywords:
 - vbaxl10.chm199144
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Save
 ms.assetid: 466d891d-fb4c-fb0a-474b-dedb3c4ea7a7

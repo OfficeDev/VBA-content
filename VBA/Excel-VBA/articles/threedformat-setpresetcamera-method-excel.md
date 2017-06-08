@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.SetPresetCamera Method (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.SetPresetCamera
 ms.assetid: 53608d7d-6f18-a1c0-ae91-2e8b60e38f2c

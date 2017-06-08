@@ -3,7 +3,7 @@ title: MaximumScaleIsAuto Property
 keywords: vbagr10.chm65572
 f1_keywords:
 - vbagr10.chm65572
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MaximumScaleIsAuto
 ms.assetid: ca8115b8-0a45-0c88-5a5c-89c93d791452

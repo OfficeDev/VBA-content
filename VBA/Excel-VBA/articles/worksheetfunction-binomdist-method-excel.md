@@ -3,7 +3,7 @@ title: WorksheetFunction.BinomDist Method (Excel)
 keywords: vbaxl10.chm137177
 f1_keywords:
 - vbaxl10.chm137177
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BinomDist
 ms.assetid: 0250970f-6a0a-ff33-8f6c-25cb632635b9

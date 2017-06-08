@@ -3,7 +3,7 @@ title: PivotField.PropertyOrder Property (Excel)
 keywords: vbaxl10.chm240133
 f1_keywords:
 - vbaxl10.chm240133
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.PropertyOrder
 ms.assetid: b938d2bd-3e64-a861-c058-96daa81830bf

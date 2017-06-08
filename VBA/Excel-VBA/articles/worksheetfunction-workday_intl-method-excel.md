@@ -3,7 +3,7 @@ title: WorksheetFunction.WorkDay_Intl Method (Excel)
 keywords: vbaxl10.chm137392
 f1_keywords:
 - vbaxl10.chm137392
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.WorkDay_Intl
 ms.assetid: 0a9091a1-c6d4-06c4-a00d-7477474bddf0

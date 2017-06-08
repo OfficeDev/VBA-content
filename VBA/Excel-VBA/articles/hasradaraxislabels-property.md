@@ -3,7 +3,7 @@ title: HasRadarAxisLabels Property
 keywords: vbagr10.chm65600
 f1_keywords:
 - vbagr10.chm65600
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasRadarAxisLabels
 ms.assetid: 8baa636a-262c-15b4-f8d5-94d77a8101c5

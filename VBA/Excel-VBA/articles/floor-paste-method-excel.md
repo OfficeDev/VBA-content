@@ -3,7 +3,7 @@ title: Floor.Paste Method (Excel)
 keywords: vbaxl10.chm612081
 f1_keywords:
 - vbaxl10.chm612081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor.Paste
 ms.assetid: 9c6d58af-695c-e88a-4d98-e2735e490f02

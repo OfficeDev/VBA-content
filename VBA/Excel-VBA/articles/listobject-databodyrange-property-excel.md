@@ -3,7 +3,7 @@ title: ListObject.DataBodyRange Property (Excel)
 keywords: vbaxl10.chm734082
 f1_keywords:
 - vbaxl10.chm734082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.DataBodyRange
 ms.assetid: fe906555-d006-8220-d9f8-59636cca68d5

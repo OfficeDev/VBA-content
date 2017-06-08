@@ -3,7 +3,7 @@ title: Outline Object (Excel)
 keywords: vbaxl10.chm454072
 f1_keywords:
 - vbaxl10.chm454072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline
 ms.assetid: f5d50a8a-0dd9-638a-4374-5c648386a598

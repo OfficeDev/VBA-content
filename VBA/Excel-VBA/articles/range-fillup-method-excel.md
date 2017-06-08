@@ -3,7 +3,7 @@ title: Range.FillUp Method (Excel)
 keywords: vbaxl10.chm144127
 f1_keywords:
 - vbaxl10.chm144127
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.FillUp
 ms.assetid: 52498f52-95f9-5993-7c44-76cd8b696074

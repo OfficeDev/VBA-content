@@ -3,7 +3,7 @@ title: UniqueValues.Application Property (Excel)
 keywords: vbaxl10.chm825073
 f1_keywords:
 - vbaxl10.chm825073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UniqueValues.Application
 ms.assetid: 6bddd938-b05e-e999-6ab7-1396f8945fa1

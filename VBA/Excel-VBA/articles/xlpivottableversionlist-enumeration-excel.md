@@ -1,6 +1,6 @@
 ---
 title: XlPivotTableVersionList Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotTableVersionList
 ms.assetid: a9b1ea64-53a1-0fd5-208e-b609b31c1c64

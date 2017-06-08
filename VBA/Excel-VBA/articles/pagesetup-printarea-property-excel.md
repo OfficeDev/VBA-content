@@ -3,7 +3,7 @@ title: PageSetup.PrintArea Property (Excel)
 keywords: vbaxl10.chm473092
 f1_keywords:
 - vbaxl10.chm473092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintArea
 ms.assetid: da4d5231-cc74-5940-ffd4-224b78e5244c

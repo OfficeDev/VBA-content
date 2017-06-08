@@ -3,7 +3,7 @@ title: WorksheetFunction.ImArgument Method (Excel)
 keywords: vbaxl10.chm137284
 f1_keywords:
 - vbaxl10.chm137284
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImArgument
 ms.assetid: ac1e721a-edfe-0287-afa1-509f5c437cd8

@@ -1,6 +1,6 @@
 ---
 title: XlAutoFilterOperator Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlAutoFilterOperator
 ms.assetid: d6948582-2c47-08a7-a145-f30e3b64a6c5

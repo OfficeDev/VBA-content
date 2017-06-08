@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Parent Property (Excel)
 keywords: vbaxl10.chm674073
 f1_keywords:
 - vbaxl10.chm674073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Parent
 ms.assetid: 01e71cee-ebdc-da46-cfe2-6c49b3cdb1bf

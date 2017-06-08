@@ -3,7 +3,7 @@ title: AboveAverage.Priority Property (Excel)
 keywords: vbaxl10.chm824073
 f1_keywords:
 - vbaxl10.chm824073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AboveAverage.Priority
 ms.assetid: 4df00b9f-d260-8b1b-de08-0886bdc87a1c

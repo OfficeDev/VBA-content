@@ -3,7 +3,7 @@ title: Range.AutoFill Method (Excel)
 keywords: vbaxl10.chm144083
 f1_keywords:
 - vbaxl10.chm144083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.AutoFill
 ms.assetid: 257f6608-9211-86f9-79de-e3c44df8f3fd

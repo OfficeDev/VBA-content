@@ -3,7 +3,7 @@ title: AddIns2.Creator Property (Excel)
 keywords: vbaxl10.chm866074
 f1_keywords:
 - vbaxl10.chm866074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIns2.Creator
 ms.assetid: bd20266f-a3d8-58da-505b-48f905896fb6

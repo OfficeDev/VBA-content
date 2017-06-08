@@ -3,7 +3,7 @@ title: Range.SoundNote Property (Excel)
 keywords: vbaxl10.chm144202
 f1_keywords:
 - vbaxl10.chm144202
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.SoundNote
 ms.assetid: 05d40e33-b07f-5079-29da-8843e9f16820

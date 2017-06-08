@@ -3,7 +3,7 @@ title: Series.Type Property (Excel)
 keywords: vbaxl10.chm578108
 f1_keywords:
 - vbaxl10.chm578108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Type
 ms.assetid: 18a300d5-ed08-af06-37ca-812b35d876ef

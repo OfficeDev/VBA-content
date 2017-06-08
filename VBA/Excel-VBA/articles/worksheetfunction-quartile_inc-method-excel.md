@@ -3,7 +3,7 @@ title: WorksheetFunction.Quartile_Inc Method (Excel)
 keywords: vbaxl10.chm137378
 f1_keywords:
 - vbaxl10.chm137378
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Quartile_Inc
 ms.assetid: 7febaae3-28f7-5bdb-0c20-f47dfd3c4227

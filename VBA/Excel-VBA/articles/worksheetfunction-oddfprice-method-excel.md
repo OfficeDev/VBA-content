@@ -3,7 +3,7 @@ title: WorksheetFunction.OddFPrice Method (Excel)
 keywords: vbaxl10.chm137338
 f1_keywords:
 - vbaxl10.chm137338
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.OddFPrice
 ms.assetid: 8aca5bbc-5641-de58-2de2-1af3a83af5bb

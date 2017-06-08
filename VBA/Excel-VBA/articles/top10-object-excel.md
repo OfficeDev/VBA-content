@@ -3,7 +3,7 @@ title: Top10 Object (Excel)
 keywords: vbaxl10.chm821072
 f1_keywords:
 - vbaxl10.chm821072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10
 ms.assetid: b94f4a4f-564c-d751-2b43-4b9482e048cc

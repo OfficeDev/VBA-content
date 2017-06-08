@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.IncrementRotationVertical Method (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationVertical
 ms.assetid: 09b5e785-9aac-6143-7fdf-630813654216

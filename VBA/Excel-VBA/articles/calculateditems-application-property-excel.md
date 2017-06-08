@@ -3,7 +3,7 @@ title: CalculatedItems.Application Property (Excel)
 keywords: vbaxl10.chm249073
 f1_keywords:
 - vbaxl10.chm249073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Application
 ms.assetid: ea12e538-a6dc-2bef-1dc7-ec22b4476917

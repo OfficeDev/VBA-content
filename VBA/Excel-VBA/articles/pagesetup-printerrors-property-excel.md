@@ -3,7 +3,7 @@ title: PageSetup.PrintErrors Property (Excel)
 keywords: vbaxl10.chm473105
 f1_keywords:
 - vbaxl10.chm473105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintErrors
 ms.assetid: 4a864a1e-cbdb-8ef7-536d-d2c5f518f9db

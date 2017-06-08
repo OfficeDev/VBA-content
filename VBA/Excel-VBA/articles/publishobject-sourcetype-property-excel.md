@@ -3,7 +3,7 @@ title: PublishObject.SourceType Property (Excel)
 keywords: vbaxl10.chm652077
 f1_keywords:
 - vbaxl10.chm652077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObject.SourceType
 ms.assetid: 4d22915d-c5a3-c06f-85dc-3c6394644cec

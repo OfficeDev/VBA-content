@@ -3,7 +3,7 @@ title: Range.EntireRow Property (Excel)
 keywords: vbaxl10.chm144123
 f1_keywords:
 - vbaxl10.chm144123
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.EntireRow
 ms.assetid: 9e66da51-6cef-4109-ea4e-2acaad42aa1f

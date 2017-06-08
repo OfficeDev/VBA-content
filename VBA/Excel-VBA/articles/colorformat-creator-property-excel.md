@@ -1,6 +1,6 @@
 ---
 title: ColorFormat.Creator Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorFormat.Creator
 ms.assetid: f7b1439e-cb87-bffb-94f8-2633f7897917

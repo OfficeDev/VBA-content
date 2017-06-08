@@ -3,7 +3,7 @@ title: Range.QueryTable Property (Excel)
 keywords: vbaxl10.chm144183
 f1_keywords:
 - vbaxl10.chm144183
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.QueryTable
 ms.assetid: 6370d43c-74b5-1bb9-f849-c70006432504

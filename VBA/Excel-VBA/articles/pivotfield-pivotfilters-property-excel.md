@@ -3,7 +3,7 @@ title: PivotField.PivotFilters Property (Excel)
 keywords: vbaxl10.chm240147
 f1_keywords:
 - vbaxl10.chm240147
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.PivotFilters
 ms.assetid: f73019db-6975-6bc8-4e81-53c9799b44e0

@@ -3,7 +3,7 @@ title: Chart.ChartGroups Method (Excel)
 keywords: vbaxl10.chm149087
 f1_keywords:
 - vbaxl10.chm149087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ChartGroups
 ms.assetid: dffa4fc3-b2db-eb50-b309-95e99972525f

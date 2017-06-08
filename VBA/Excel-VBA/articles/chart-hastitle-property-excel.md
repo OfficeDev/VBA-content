@@ -3,7 +3,7 @@ title: Chart.HasTitle Property (Excel)
 keywords: vbaxl10.chm149116
 f1_keywords:
 - vbaxl10.chm149116
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.HasTitle
 ms.assetid: 9aa0e37a-4d1d-1fc3-d5cb-b8869251ff16

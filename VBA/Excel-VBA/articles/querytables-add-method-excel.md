@@ -3,7 +3,7 @@ title: QueryTables.Add Method (Excel)
 keywords: vbaxl10.chm521074
 f1_keywords:
 - vbaxl10.chm521074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTables.Add
 ms.assetid: ac6cd03e-31aa-cd8c-aa67-a551894c6eb3

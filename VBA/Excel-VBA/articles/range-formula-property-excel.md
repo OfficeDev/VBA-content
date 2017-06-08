@@ -3,7 +3,7 @@ title: Range.Formula Property (Excel)
 keywords: vbaxl10.chm144132
 f1_keywords:
 - vbaxl10.chm144132
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Formula
 ms.assetid: c5be8952-fc3f-bdb3-d4a6-abf9d94eab1e

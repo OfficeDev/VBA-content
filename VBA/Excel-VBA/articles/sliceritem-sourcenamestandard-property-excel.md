@@ -3,7 +3,7 @@ title: SlicerItem.SourceNameStandard Property (Excel)
 keywords: vbaxl10.chm907077
 f1_keywords:
 - vbaxl10.chm907077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerItem.SourceNameStandard
 ms.assetid: fb2cba30-5ef5-1aa4-23f0-8dd0a4e6102a

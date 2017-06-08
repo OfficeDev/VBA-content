@@ -3,7 +3,7 @@ title: DataLabels.Separator Property (Excel)
 keywords: vbaxl10.chm584104
 f1_keywords:
 - vbaxl10.chm584104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Separator
 ms.assetid: bdcd548c-f992-064d-9638-95e1193c3b15

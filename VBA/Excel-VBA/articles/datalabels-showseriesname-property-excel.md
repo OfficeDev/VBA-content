@@ -3,7 +3,7 @@ title: DataLabels.ShowSeriesName Property (Excel)
 keywords: vbaxl10.chm584099
 f1_keywords:
 - vbaxl10.chm584099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowSeriesName
 ms.assetid: 19fcea65-a796-3c02-f162-33b5cb03aad3

@@ -3,7 +3,7 @@ title: Legend.Creator Property (Excel)
 keywords: vbaxl10.chm621074
 f1_keywords:
 - vbaxl10.chm621074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend.Creator
 ms.assetid: 44976293-1229-e226-0b59-27563c59f6ae

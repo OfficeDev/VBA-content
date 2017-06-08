@@ -3,7 +3,7 @@ title: Chart.Location Method (Excel)
 keywords: vbaxl10.chm149125
 f1_keywords:
 - vbaxl10.chm149125
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Location
 ms.assetid: 3744f7f3-f7df-3ac2-48b7-b57ce3a8c812

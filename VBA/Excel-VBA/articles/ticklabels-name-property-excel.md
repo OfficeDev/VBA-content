@@ -3,7 +3,7 @@ title: TickLabels.Name Property (Excel)
 keywords: vbaxl10.chm616076
 f1_keywords:
 - vbaxl10.chm616076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.Name
 ms.assetid: a6edb084-c50f-df3e-22a2-dc811e72b419

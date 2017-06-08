@@ -3,7 +3,7 @@ title: ShadowFormat.RotateWithShape Property (Excel)
 keywords: vbaxl10.chm114012
 f1_keywords:
 - vbaxl10.chm114012
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.RotateWithShape
 ms.assetid: 6cc40140-58ed-421e-916e-590a417d5489

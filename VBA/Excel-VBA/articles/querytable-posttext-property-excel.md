@@ -3,7 +3,7 @@ title: QueryTable.PostText Property (Excel)
 keywords: vbaxl10.chm518089
 f1_keywords:
 - vbaxl10.chm518089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.PostText
 ms.assetid: f89c21bb-2b51-49b2-b986-8c3aca2038c1

@@ -3,7 +3,7 @@ title: PlotArea Property
 keywords: vbagr10.chm65621
 f1_keywords:
 - vbagr10.chm65621
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea
 ms.assetid: 047e8445-1197-2c9e-538d-5f77f6125c4c

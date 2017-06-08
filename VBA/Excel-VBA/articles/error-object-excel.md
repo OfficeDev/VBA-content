@@ -3,7 +3,7 @@ title: Error Object (Excel)
 keywords: vbaxl10.chm701072
 f1_keywords:
 - vbaxl10.chm701072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Error
 ms.assetid: bc8c4e3c-c831-58fd-c367-4246ad510ba9

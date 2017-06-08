@@ -3,7 +3,7 @@ title: Application.ShowChartTipNames Property (Excel)
 keywords: vbaxl10.chm133208
 f1_keywords:
 - vbaxl10.chm133208
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ShowChartTipNames
 ms.assetid: 9f62fdc8-fcf0-eb4a-8ec4-d5d84cb96252

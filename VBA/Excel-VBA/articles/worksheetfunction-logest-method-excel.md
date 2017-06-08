@@ -3,7 +3,7 @@ title: WorksheetFunction.LogEst Method (Excel)
 keywords: vbaxl10.chm137105
 f1_keywords:
 - vbaxl10.chm137105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LogEst
 ms.assetid: 1730086d-5d14-4d9f-dc0e-5186cf932099

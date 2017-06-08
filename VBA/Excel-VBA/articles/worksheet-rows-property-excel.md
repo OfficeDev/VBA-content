@@ -3,7 +3,7 @@ title: Worksheet.Rows Property (Excel)
 keywords: vbaxl10.chm175122
 f1_keywords:
 - vbaxl10.chm175122
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Rows
 ms.assetid: 5d07304e-a3c9-2a75-b2ba-4a7b16ce6516

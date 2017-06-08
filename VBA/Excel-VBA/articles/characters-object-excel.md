@@ -3,7 +3,7 @@ title: Characters Object (Excel)
 keywords: vbaxl10.chm251072
 f1_keywords:
 - vbaxl10.chm251072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Characters
 ms.assetid: 128c9ee4-8ba3-6d22-ad0f-9f20be1e24af

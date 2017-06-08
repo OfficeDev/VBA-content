@@ -1,6 +1,6 @@
 ---
 title: XlXmlLoadOption Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlXmlLoadOption
 ms.assetid: 1ab2eb99-e022-b394-059c-e72f85fec05a

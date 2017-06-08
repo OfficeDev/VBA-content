@@ -3,7 +3,7 @@ title: WorksheetFunction.Ddb Method (Excel)
 keywords: vbaxl10.chm137135
 f1_keywords:
 - vbaxl10.chm137135
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ddb
 ms.assetid: 7514f3b3-ca21-ec3f-28c5-f34281fc1a1f

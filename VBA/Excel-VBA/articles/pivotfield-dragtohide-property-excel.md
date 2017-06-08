@@ -3,7 +3,7 @@ title: PivotField.DragToHide Property (Excel)
 keywords: vbaxl10.chm240103
 f1_keywords:
 - vbaxl10.chm240103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.DragToHide
 ms.assetid: 24bccf39-3271-4387-6b7b-21f0ba47500c

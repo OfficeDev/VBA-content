@@ -3,7 +3,7 @@ title: HasDataLabel Property
 keywords: vbagr10.chm5207462
 f1_keywords:
 - vbagr10.chm5207462
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasDataLabel
 ms.assetid: d8fd8c48-4723-4da9-0b8a-82d02c93a19f

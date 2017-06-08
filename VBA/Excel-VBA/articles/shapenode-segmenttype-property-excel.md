@@ -3,7 +3,7 @@ title: ShapeNode.SegmentType Property (Excel)
 keywords: vbaxl10.chm111005
 f1_keywords:
 - vbaxl10.chm111005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNode.SegmentType
 ms.assetid: 716e8171-1fd6-941e-209f-e48f5468940f

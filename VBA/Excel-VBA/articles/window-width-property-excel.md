@@ -3,7 +3,7 @@ title: Window.Width Property (Excel)
 keywords: vbaxl10.chm356123
 f1_keywords:
 - vbaxl10.chm356123
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Width
 ms.assetid: 5271dd4c-2e0f-cad1-fbe8-dda602202dc1

@@ -3,7 +3,7 @@ title: Window.ScrollIntoView Method (Excel)
 keywords: vbaxl10.chm356132
 f1_keywords:
 - vbaxl10.chm356132
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.ScrollIntoView
 ms.assetid: 8d516288-90b2-b080-b909-fd49d10f0f5a

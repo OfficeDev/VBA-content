@@ -3,7 +3,7 @@ title: WorksheetFunction.HLookup Method (Excel)
 keywords: vbaxl10.chm137122
 f1_keywords:
 - vbaxl10.chm137122
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.HLookup
 ms.assetid: 6e7b5ad0-3f70-d7a8-b161-ce418107d2a1

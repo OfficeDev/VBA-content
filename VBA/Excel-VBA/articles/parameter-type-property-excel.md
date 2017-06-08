@@ -3,7 +3,7 @@ title: Parameter.Type Property (Excel)
 keywords: vbaxl10.chm523074
 f1_keywords:
 - vbaxl10.chm523074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parameter.Type
 ms.assetid: 102e86cd-d5c4-8f94-167d-ab437cfbf69f

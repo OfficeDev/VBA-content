@@ -3,7 +3,7 @@ title: ApplyDataLabels Method
 keywords: vbagr10.chm67458
 f1_keywords:
 - vbagr10.chm67458
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ApplyDataLabels
 ms.assetid: 1750d716-66f8-fe4e-8023-fbcfcc5c5ff5

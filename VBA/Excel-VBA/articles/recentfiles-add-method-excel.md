@@ -3,7 +3,7 @@ title: RecentFiles.Add Method (Excel)
 keywords: vbaxl10.chm172077
 f1_keywords:
 - vbaxl10.chm172077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RecentFiles.Add
 ms.assetid: 70d4c4e0-b0f5-8143-0f23-69dc1c85736e

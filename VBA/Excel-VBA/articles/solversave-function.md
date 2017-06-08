@@ -3,7 +3,7 @@ title: SolverSave Function
 keywords: vbaxl10.chm5205236
 f1_keywords:
 - vbaxl10.chm5205236
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 177dcfb7-b223-c172-d4d6-9cab534a8fa5
 ms.date: 06/08/2017
 ---

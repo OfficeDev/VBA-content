@@ -3,7 +3,7 @@ title: WorksheetFunction.LinEst Method (Excel)
 keywords: vbaxl10.chm137103
 f1_keywords:
 - vbaxl10.chm137103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LinEst
 ms.assetid: dc0f830a-0d44-d712-d44b-19f419919f73

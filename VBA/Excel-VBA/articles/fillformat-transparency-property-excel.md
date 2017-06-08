@@ -3,7 +3,7 @@ title: FillFormat.Transparency Property (Excel)
 keywords: vbaxl10.chm115022
 f1_keywords:
 - vbaxl10.chm115022
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.Transparency
 ms.assetid: 60d34c04-09ac-03f7-9144-c4e165ee0511

@@ -3,7 +3,7 @@ title: WorksheetFunction.Floor Method (Excel)
 keywords: vbaxl10.chm137189
 f1_keywords:
 - vbaxl10.chm137189
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Floor
 ms.assetid: c35733d5-34b9-8475-197f-4f13ae1e6c1a

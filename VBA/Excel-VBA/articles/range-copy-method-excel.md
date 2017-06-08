@@ -3,7 +3,7 @@ title: Range.Copy Method (Excel)
 keywords: vbaxl10.chm144104
 f1_keywords:
 - vbaxl10.chm144104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df

@@ -3,7 +3,7 @@ title: Validation.Add Method (Excel)
 keywords: vbaxl10.chm532073
 f1_keywords:
 - vbaxl10.chm532073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Add
 ms.assetid: e02c9d5e-dbb1-7d37-d112-0c60e7a7ff03

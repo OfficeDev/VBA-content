@@ -3,7 +3,7 @@ title: Chart.BeforeDoubleClick Event (Excel)
 keywords: vbaxl10.chm500082
 f1_keywords:
 - vbaxl10.chm500082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.BeforeDoubleClick
 ms.assetid: 406c6b9f-1182-5f5b-b954-afe10cd21a9b

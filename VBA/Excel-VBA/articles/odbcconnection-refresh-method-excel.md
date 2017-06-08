@@ -3,7 +3,7 @@ title: ODBCConnection.Refresh Method (Excel)
 keywords: vbaxl10.chm796079
 f1_keywords:
 - vbaxl10.chm796079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.Refresh
 ms.assetid: 26a9ba46-1679-f83b-6933-b6c448dce9e7

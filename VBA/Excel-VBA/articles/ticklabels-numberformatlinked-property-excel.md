@@ -3,7 +3,7 @@ title: TickLabels.NumberFormatLinked Property (Excel)
 keywords: vbaxl10.chm616078
 f1_keywords:
 - vbaxl10.chm616078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.NumberFormatLinked
 ms.assetid: 8ca8dc6c-b061-503e-f874-cd506242ea07

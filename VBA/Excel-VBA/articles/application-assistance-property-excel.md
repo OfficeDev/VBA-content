@@ -3,7 +3,7 @@ title: Application.Assistance Property (Excel)
 keywords: vbaxl10.chm133309
 f1_keywords:
 - vbaxl10.chm133309
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Assistance
 ms.assetid: bfb1fe5e-a87d-e54c-dc2f-5dd308dc8a8b

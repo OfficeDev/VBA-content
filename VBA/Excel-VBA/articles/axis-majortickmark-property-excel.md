@@ -3,7 +3,7 @@ title: Axis.MajorTickMark Property (Excel)
 keywords: vbaxl10.chm561085
 f1_keywords:
 - vbaxl10.chm561085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MajorTickMark
 ms.assetid: 0b481503-76a8-2b04-8c61-0fef649ce03e

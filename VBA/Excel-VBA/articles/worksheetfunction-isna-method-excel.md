@@ -3,7 +3,7 @@ title: WorksheetFunction.IsNA Method (Excel)
 keywords: vbaxl10.chm137075
 f1_keywords:
 - vbaxl10.chm137075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsNA
 ms.assetid: db315cb6-cf6d-eaf6-7ffa-2b8ce18c2a09

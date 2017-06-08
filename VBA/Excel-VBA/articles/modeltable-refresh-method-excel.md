@@ -3,7 +3,7 @@ title: ModelTable.Refresh Method (Excel)
 keywords: vbaxl10.chm934078
 f1_keywords:
 - vbaxl10.chm934078
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 341e82f4-a885-6c95-850d-21703bb27995
 ms.date: 06/08/2017
 ---

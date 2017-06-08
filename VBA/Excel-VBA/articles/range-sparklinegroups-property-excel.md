@@ -3,7 +3,7 @@ title: Range.SparklineGroups Property (Excel)
 keywords: vbaxl10.chm144249
 f1_keywords:
 - vbaxl10.chm144249
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.SparklineGroups
 ms.assetid: 66c6ef19-08a0-91e8-6fef-e827b80d5e62

@@ -3,7 +3,7 @@ title: Workbook.WriteReservedBy Property (Excel)
 keywords: vbaxl10.chm199168
 f1_keywords:
 - vbaxl10.chm199168
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.WriteReservedBy
 ms.assetid: f053c197-3af3-9ab7-bee1-f72ee311a5b8

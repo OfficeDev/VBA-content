@@ -3,7 +3,7 @@ title: Page.RightHeader Property (Excel)
 keywords: vbaxl10.chm830075
 f1_keywords:
 - vbaxl10.chm830075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Page.RightHeader
 ms.assetid: a84bc345-b8ee-0d8a-8009-d7f6edef1db6

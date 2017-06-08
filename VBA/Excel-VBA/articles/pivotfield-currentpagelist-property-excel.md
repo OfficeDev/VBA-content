@@ -3,7 +3,7 @@ title: PivotField.CurrentPageList Property (Excel)
 keywords: vbaxl10.chm240135
 f1_keywords:
 - vbaxl10.chm240135
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.CurrentPageList
 ms.assetid: 3efde5a2-4cf3-b95d-e7ba-65ea8e184e64

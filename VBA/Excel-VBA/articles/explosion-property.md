@@ -1,6 +1,6 @@
 ---
 title: Explosion Property
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Explosion
 ms.assetid: 252a3533-28df-4317-8af1-7509339409a5

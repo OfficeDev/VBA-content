@@ -3,7 +3,7 @@ title: Worksheets.Move Method (Excel)
 keywords: vbaxl10.chm470079
 f1_keywords:
 - vbaxl10.chm470079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheets.Move
 ms.assetid: e973d1d0-fd72-4e9e-e5b0-2b5d61eeed07

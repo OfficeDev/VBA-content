@@ -3,7 +3,7 @@ title: HasLegend Property
 keywords: vbagr10.chm65589
 f1_keywords:
 - vbagr10.chm65589
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasLegend
 ms.assetid: b4dbef39-9d83-2f6e-fe06-8ca38cceeeec

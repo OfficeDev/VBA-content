@@ -3,7 +3,7 @@ title: Application.Left Property (Excel)
 keywords: vbaxl10.chm133154
 f1_keywords:
 - vbaxl10.chm133154
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Left
 ms.assetid: 7a025afe-de39-26e7-5ac4-e6145ed2affd

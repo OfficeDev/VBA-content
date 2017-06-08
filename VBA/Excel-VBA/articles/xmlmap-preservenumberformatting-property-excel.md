@@ -3,7 +3,7 @@ title: XmlMap.PreserveNumberFormatting Property (Excel)
 keywords: vbaxl10.chm754080
 f1_keywords:
 - vbaxl10.chm754080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.PreserveNumberFormatting
 ms.assetid: 2eb38b1b-a2d0-ac24-2bfa-4bc24819d2af

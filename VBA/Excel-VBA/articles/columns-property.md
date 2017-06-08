@@ -3,7 +3,7 @@ title: Columns Property
 keywords: vbagr10.chm65777
 f1_keywords:
 - vbagr10.chm65777
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Columns
 ms.assetid: 7c5bd414-aa86-49e6-c853-0fa0c56d11a7

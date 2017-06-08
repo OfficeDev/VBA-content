@@ -3,7 +3,7 @@ title: ErrorBar Method
 keywords: vbagr10.chm65688
 f1_keywords:
 - vbagr10.chm65688
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorBar
 ms.assetid: c2ada146-1549-aa88-2a39-bf1cccf1008b

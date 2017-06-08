@@ -3,7 +3,7 @@ title: NegativeBarFormat.BorderColorType Property (Excel)
 keywords: vbaxl10.chm887074
 f1_keywords:
 - vbaxl10.chm887074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat.BorderColorType
 ms.assetid: 014d8bc9-6c9d-df2d-2152-09f206400388

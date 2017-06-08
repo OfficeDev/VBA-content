@@ -3,7 +3,7 @@ title: Actions.Item Property (Excel)
 keywords: vbaxl10.chm800075
 f1_keywords:
 - vbaxl10.chm800075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Actions.Item
 ms.assetid: dc909b69-abdf-d84f-2462-738c309cb3d3

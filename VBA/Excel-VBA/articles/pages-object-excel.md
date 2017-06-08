@@ -3,7 +3,7 @@ title: Pages Object (Excel)
 keywords: vbaxl10.chm831072
 f1_keywords:
 - vbaxl10.chm831072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pages
 ms.assetid: ecedccc4-e1af-6a66-9d83-bd0cf76dfe68

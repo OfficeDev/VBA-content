@@ -3,7 +3,7 @@ title: SpellingOptions.DictLang Property (Excel)
 keywords: vbaxl10.chm717073
 f1_keywords:
 - vbaxl10.chm717073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.DictLang
 ms.assetid: 3564b149-5d37-88b4-a0b1-73398e9373c5

@@ -3,7 +3,7 @@ title: Application.SheetPivotTableBeforeDiscardChanges Event (Excel)
 keywords: vbaxl10.chm504107
 f1_keywords:
 - vbaxl10.chm504107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SheetPivotTableBeforeDiscardChanges
 ms.assetid: 8623adc6-d256-bebb-fe35-8710390af19f

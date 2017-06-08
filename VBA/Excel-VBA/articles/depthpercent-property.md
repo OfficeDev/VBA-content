@@ -3,7 +3,7 @@ title: DepthPercent Property
 keywords: vbagr10.chm5207305
 f1_keywords:
 - vbagr10.chm5207305
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DepthPercent
 ms.assetid: b8c8f784-bc30-cc20-604d-5627b570c1f2

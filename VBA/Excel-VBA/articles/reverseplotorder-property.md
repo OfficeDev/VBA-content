@@ -3,7 +3,7 @@ title: ReversePlotOrder Property
 keywords: vbagr10.chm65580
 f1_keywords:
 - vbagr10.chm65580
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ReversePlotOrder
 ms.assetid: d9854c4c-b530-44b6-2335-ad293443ebba

@@ -3,7 +3,7 @@ title: SparkColor.Visible Property (Excel)
 keywords: vbaxl10.chm883073
 f1_keywords:
 - vbaxl10.chm883073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkColor.Visible
 ms.assetid: 7aedc128-2597-1065-2875-676ed15bcd9a

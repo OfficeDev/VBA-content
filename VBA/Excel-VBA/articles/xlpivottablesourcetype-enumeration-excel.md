@@ -1,6 +1,6 @@
 ---
 title: XlPivotTableSourceType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPivotTableSourceType
 ms.assetid: 96385c0c-3f03-7b57-fb71-af533270a26c

@@ -3,7 +3,7 @@ title: QueryTable.Parent Property (Excel)
 keywords: vbaxl10.chm517075
 f1_keywords:
 - vbaxl10.chm517075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.Parent
 ms.assetid: 6cf47be7-5e4a-31d0-0c11-e9506c052ecf

@@ -3,7 +3,7 @@ title: CustomView Object (Excel)
 keywords: vbaxl10.chm507072
 f1_keywords:
 - vbaxl10.chm507072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomView
 ms.assetid: e16b1920-faeb-62d4-4d27-59745c4f5355

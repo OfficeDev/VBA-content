@@ -1,6 +1,6 @@
 ---
 title: XlCalculatedMemberType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCalculatedMemberType
 ms.assetid: b0b2ef28-441f-e979-b26c-0c7e6aec9d87

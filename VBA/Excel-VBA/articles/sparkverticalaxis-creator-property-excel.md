@@ -3,7 +3,7 @@ title: SparkVerticalAxis.Creator Property (Excel)
 keywords: vbaxl10.chm880074
 f1_keywords:
 - vbaxl10.chm880074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.Creator
 ms.assetid: 931a6fd8-57cb-ca6f-44a6-aff2d5a2dfcb

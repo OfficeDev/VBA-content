@@ -3,7 +3,7 @@ title: ForeColor Property
 keywords: vbagr10.chm5207390
 f1_keywords:
 - vbagr10.chm5207390
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ForeColor
 ms.assetid: 1c1eb700-672e-095d-826c-28cdb7e9de40

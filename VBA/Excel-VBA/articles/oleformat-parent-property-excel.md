@@ -3,7 +3,7 @@ title: OLEFormat.Parent Property (Excel)
 keywords: vbaxl10.chm631075
 f1_keywords:
 - vbaxl10.chm631075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEFormat.Parent
 ms.assetid: 21272b09-4cdb-59bf-ccbc-e0b6938feab9

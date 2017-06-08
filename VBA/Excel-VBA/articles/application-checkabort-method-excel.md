@@ -3,7 +3,7 @@ title: Application.CheckAbort Method (Excel)
 keywords: vbaxl10.chm133279
 f1_keywords:
 - vbaxl10.chm133279
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.CheckAbort
 ms.assetid: e407aeff-b401-029a-9ada-8f11eef54fb0

@@ -3,7 +3,7 @@ title: PageSetup.FooterMargin Property (Excel)
 keywords: vbaxl10.chm473084
 f1_keywords:
 - vbaxl10.chm473084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.FooterMargin
 ms.assetid: b6ec4b9c-c828-e6fe-2a65-ccddd1b05c30

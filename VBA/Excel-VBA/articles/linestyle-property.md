@@ -3,7 +3,7 @@ title: LineStyle Property
 keywords: vbagr10.chm3077078
 f1_keywords:
 - vbagr10.chm3077078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineStyle
 ms.assetid: 4783a76a-9e73-c605-ade5-be8fec821b1d

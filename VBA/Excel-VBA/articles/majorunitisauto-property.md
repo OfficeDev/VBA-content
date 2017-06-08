@@ -3,7 +3,7 @@ title: MajorUnitIsAuto Property
 keywords: vbagr10.chm5207645
 f1_keywords:
 - vbagr10.chm5207645
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MajorUnitIsAuto
 ms.assetid: 6eda8012-2ef3-d23b-bace-e2695a5e80f5

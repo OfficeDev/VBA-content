@@ -3,7 +3,7 @@ title: ShapeRange.AutoShapeType Property (Excel)
 keywords: vbaxl10.chm640098
 f1_keywords:
 - vbaxl10.chm640098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.AutoShapeType
 ms.assetid: de4c8273-2804-012c-38a0-7689aa54b02e

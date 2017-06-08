@@ -3,7 +3,7 @@ title: IconSets Object (Excel)
 keywords: vbaxl10.chm819072
 f1_keywords:
 - vbaxl10.chm819072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSets
 ms.assetid: 2197741e-8139-0098-d194-610fa28fa6c8

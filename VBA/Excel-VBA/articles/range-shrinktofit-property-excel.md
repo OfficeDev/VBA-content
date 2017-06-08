@@ -3,7 +3,7 @@ title: Range.ShrinkToFit Property (Excel)
 keywords: vbaxl10.chm144199
 f1_keywords:
 - vbaxl10.chm144199
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ShrinkToFit
 ms.assetid: fc9aed64-1000-3419-ceb7-a95c15f8a2d0

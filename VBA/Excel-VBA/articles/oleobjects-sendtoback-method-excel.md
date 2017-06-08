@@ -3,7 +3,7 @@ title: OLEObjects.SendToBack Method (Excel)
 keywords: vbaxl10.chm419088
 f1_keywords:
 - vbaxl10.chm419088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.SendToBack
 ms.assetid: b056deb0-bcbc-c54f-236b-3ed05aed43ee

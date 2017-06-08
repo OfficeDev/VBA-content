@@ -3,7 +3,7 @@ title: Range.ShowDetail Property (Excel)
 keywords: vbaxl10.chm144196
 f1_keywords:
 - vbaxl10.chm144196
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ShowDetail
 ms.assetid: 1908af55-f61a-2a0f-d828-350e9a680377

@@ -3,7 +3,7 @@ title: MultiThreadedCalculation.Enabled Property (Excel)
 keywords: vbaxl10.chm859073
 f1_keywords:
 - vbaxl10.chm859073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MultiThreadedCalculation.Enabled
 ms.assetid: 6c976581-6512-23cb-5acc-6742556a0897

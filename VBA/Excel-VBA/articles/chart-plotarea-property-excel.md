@@ -3,7 +3,7 @@ title: Chart.PlotArea Property (Excel)
 keywords: vbaxl10.chm149134
 f1_keywords:
 - vbaxl10.chm149134
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.PlotArea
 ms.assetid: f3c93a06-b398-a60a-d69d-8249652501eb

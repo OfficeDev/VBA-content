@@ -3,7 +3,7 @@ title: Name.Parent Property (Excel)
 keywords: vbaxl10.chm489075
 f1_keywords:
 - vbaxl10.chm489075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.Parent
 ms.assetid: 83d46498-bf9c-6285-189b-47f6e8cd41ee

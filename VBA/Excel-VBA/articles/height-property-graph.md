@@ -3,7 +3,7 @@ title: Height Property (Graph)
 keywords: vbagr10.chm65659
 f1_keywords:
 - vbagr10.chm65659
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bc8f0abe-6753-a64f-4615-d0ee04a7cee4
 ms.date: 06/08/2017
 ---

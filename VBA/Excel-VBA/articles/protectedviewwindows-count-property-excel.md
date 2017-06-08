@@ -3,7 +3,7 @@ title: ProtectedViewWindows.Count Property (Excel)
 keywords: vbaxl10.chm913073
 f1_keywords:
 - vbaxl10.chm913073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindows.Count
 ms.assetid: 21ec98ac-23a3-94be-515d-0639eeaa63d4

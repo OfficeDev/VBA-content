@@ -3,7 +3,7 @@ title: PivotTable.NullString Property (Excel)
 keywords: vbaxl10.chm235114
 f1_keywords:
 - vbaxl10.chm235114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.NullString
 ms.assetid: f9d678d1-5e9f-8d3b-1f9a-73e8679ae499

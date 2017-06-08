@@ -1,6 +1,6 @@
 ---
 title: XlDVType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDVType
 ms.assetid: ef454aba-4c36-1431-fcb0-eb2ee679ac2d

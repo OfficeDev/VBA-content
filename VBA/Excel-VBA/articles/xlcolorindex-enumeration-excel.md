@@ -1,6 +1,6 @@
 ---
 title: XlColorIndex Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlColorIndex
 ms.assetid: b925578b-d654-61fa-03fa-67631ea8c5d1

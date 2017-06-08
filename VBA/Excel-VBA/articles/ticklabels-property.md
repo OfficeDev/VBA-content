@@ -3,7 +3,7 @@ title: TickLabels Property
 keywords: vbagr10.chm65627
 f1_keywords:
 - vbagr10.chm65627
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels
 ms.assetid: 5aa48053-c9ff-71c7-7a03-d7fe47e681c7

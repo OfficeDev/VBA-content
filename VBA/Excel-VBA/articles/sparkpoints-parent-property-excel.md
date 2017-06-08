@@ -3,7 +3,7 @@ title: SparkPoints.Parent Property (Excel)
 keywords: vbaxl10.chm872075
 f1_keywords:
 - vbaxl10.chm872075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkPoints.Parent
 ms.assetid: 0781c174-ff88-505e-5048-1de92397f1e9

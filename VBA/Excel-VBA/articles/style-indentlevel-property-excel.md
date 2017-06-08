@@ -3,7 +3,7 @@ title: Style.IndentLevel Property (Excel)
 keywords: vbaxl10.chm177086
 f1_keywords:
 - vbaxl10.chm177086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.IndentLevel
 ms.assetid: 3d14adcb-9b7b-b0d2-c402-16c26c65b779

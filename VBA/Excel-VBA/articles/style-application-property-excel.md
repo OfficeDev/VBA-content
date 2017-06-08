@@ -3,7 +3,7 @@ title: Style.Application Property (Excel)
 keywords: vbaxl10.chm176073
 f1_keywords:
 - vbaxl10.chm176073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Application
 ms.assetid: a3e9d3c1-5124-10a3-d0ed-87262d1bcc02

@@ -3,7 +3,7 @@ title: Mailer.WhichAddress Property (Excel)
 keywords: vbaxl10.chm499081
 f1_keywords:
 - vbaxl10.chm499081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Mailer.WhichAddress
 ms.assetid: a7b86825-326b-80f9-6d20-63eeb8010919

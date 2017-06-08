@@ -3,7 +3,7 @@ title: WorksheetFunction.Oct2Bin Method (Excel)
 keywords: vbaxl10.chm137267
 f1_keywords:
 - vbaxl10.chm137267
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Oct2Bin
 ms.assetid: a11c26e2-1320-f76f-547e-fa9e0ac20087

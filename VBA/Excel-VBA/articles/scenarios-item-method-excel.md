@@ -3,7 +3,7 @@ title: Scenarios.Item Method (Excel)
 keywords: vbaxl10.chm362076
 f1_keywords:
 - vbaxl10.chm362076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Scenarios.Item
 ms.assetid: 6ed4b582-bd9c-5d18-f3ed-fc3b7b5a1580

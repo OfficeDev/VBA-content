@@ -3,7 +3,7 @@ title: PivotField.TotalLevels Property (Excel)
 keywords: vbaxl10.chm240097
 f1_keywords:
 - vbaxl10.chm240097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.TotalLevels
 ms.assetid: fa50c186-5f6d-41f4-6382-37135159347c

@@ -3,7 +3,7 @@ title: PageSetup.PrintGridlines Property (Excel)
 keywords: vbaxl10.chm473093
 f1_keywords:
 - vbaxl10.chm473093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintGridlines
 ms.assetid: 9a92c157-046a-00b5-3813-a5c924ac42b9

@@ -3,7 +3,7 @@ title: Workbook.ChangeFileAccess Method (Excel)
 keywords: vbaxl10.chm199082
 f1_keywords:
 - vbaxl10.chm199082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ChangeFileAccess
 ms.assetid: 07f9cfc3-eece-efc1-6c03-38782ad7bcc2

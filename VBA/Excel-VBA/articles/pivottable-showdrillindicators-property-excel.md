@@ -3,7 +3,7 @@ title: PivotTable.ShowDrillIndicators Property (Excel)
 keywords: vbaxl10.chm235158
 f1_keywords:
 - vbaxl10.chm235158
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowDrillIndicators
 ms.assetid: 7495276f-122a-3f9a-c02f-6548302ec7d5

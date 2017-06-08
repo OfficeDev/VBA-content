@@ -3,7 +3,7 @@ title: Application.DisplayFormulaBar Property (Excel)
 keywords: vbaxl10.chm133120
 f1_keywords:
 - vbaxl10.chm133120
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayFormulaBar
 ms.assetid: a54a313f-b416-5e5f-74d2-7435630b418e

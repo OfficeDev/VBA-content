@@ -3,7 +3,7 @@ title: WorksheetFunction.Price Method (Excel)
 keywords: vbaxl10.chm137318
 f1_keywords:
 - vbaxl10.chm137318
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Price
 ms.assetid: 5b7b4a72-98a4-9650-a6f4-38f3c8bb9346

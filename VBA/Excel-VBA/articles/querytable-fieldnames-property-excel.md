@@ -3,7 +3,7 @@ title: QueryTable.FieldNames Property (Excel)
 keywords: vbaxl10.chm518074
 f1_keywords:
 - vbaxl10.chm518074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTable.FieldNames
 ms.assetid: ff7541cd-fa4d-6b1a-d8c3-0608cfc03b8d

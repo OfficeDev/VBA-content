@@ -3,7 +3,7 @@ title: ListColumn.Delete Method (Excel)
 keywords: vbaxl10.chm738073
 f1_keywords:
 - vbaxl10.chm738073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.Delete
 ms.assetid: d3c62503-0a49-afc2-8f26-224bdf13b50c

@@ -3,7 +3,7 @@ title: Shape.ScaleHeight Method (Excel)
 keywords: vbaxl10.chm636083
 f1_keywords:
 - vbaxl10.chm636083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.ScaleHeight
 ms.assetid: 6802f478-f86e-56ca-ca80-195a40e5879c

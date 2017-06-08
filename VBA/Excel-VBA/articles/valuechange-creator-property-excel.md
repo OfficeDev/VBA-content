@@ -3,7 +3,7 @@ title: ValueChange.Creator Property (Excel)
 keywords: vbaxl10.chm888074
 f1_keywords:
 - vbaxl10.chm888074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ValueChange.Creator
 ms.assetid: a1d10479-e30d-c0b2-a521-8910c5b6256e

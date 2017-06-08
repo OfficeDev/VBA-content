@@ -3,7 +3,7 @@ title: Protection.AllowEditRanges Property (Excel)
 keywords: vbaxl10.chm719084
 f1_keywords:
 - vbaxl10.chm719084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowEditRanges
 ms.assetid: 829ec57c-2fe1-27b0-5987-83bd4dd50eed

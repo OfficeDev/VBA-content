@@ -3,7 +3,7 @@ title: Add Controls to a Document
 keywords: vbaxl10.chm5199034
 f1_keywords:
 - vbaxl10.chm5199034
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bd0ddd99-4b38-f9e9-7dfd-4ae271355f5e
 ms.date: 06/08/2017
 ---

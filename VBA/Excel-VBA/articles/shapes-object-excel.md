@@ -3,7 +3,7 @@ title: Shapes Object (Excel)
 keywords: vbaxl10.chm637072
 f1_keywords:
 - vbaxl10.chm637072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes
 ms.assetid: f9c6548c-d028-1b70-a11c-c4b45ff19177

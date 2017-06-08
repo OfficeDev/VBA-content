@@ -3,7 +3,7 @@ title: Shape.ID Property (Excel)
 keywords: vbaxl10.chm636141
 f1_keywords:
 - vbaxl10.chm636141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.ID
 ms.assetid: fa159cb0-8304-bfee-5fda-f136d3bb39d7

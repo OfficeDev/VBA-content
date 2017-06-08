@@ -3,7 +3,7 @@ title: FillFormat.OneColorGradient Method (Excel)
 keywords: vbaxl10.chm115003
 f1_keywords:
 - vbaxl10.chm115003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.OneColorGradient
 ms.assetid: dc44ddab-7aee-acd9-1008-1a9bbae13829

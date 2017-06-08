@@ -3,7 +3,7 @@ title: OLEObjects.Enabled Property (Excel)
 keywords: vbaxl10.chm419080
 f1_keywords:
 - vbaxl10.chm419080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.Enabled
 ms.assetid: d1211370-fa71-9b7a-f171-c1f46ed75faf

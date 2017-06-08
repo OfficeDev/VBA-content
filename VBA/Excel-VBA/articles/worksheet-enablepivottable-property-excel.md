@@ -3,7 +3,7 @@ title: Worksheet.EnablePivotTable Property (Excel)
 keywords: vbaxl10.chm175097
 f1_keywords:
 - vbaxl10.chm175097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.EnablePivotTable
 ms.assetid: 8cd09896-9752-677f-a7fd-da46d68ac42a

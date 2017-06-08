@@ -3,7 +3,7 @@ title: Window.GridlineColor Property (Excel)
 keywords: vbaxl10.chm356093
 f1_keywords:
 - vbaxl10.chm356093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.GridlineColor
 ms.assetid: d2d35a5c-cc5c-4547-a22d-78fe2ef11073

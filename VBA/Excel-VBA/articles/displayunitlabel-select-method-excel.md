@@ -3,7 +3,7 @@ title: DisplayUnitLabel.Select Method (Excel)
 keywords: vbaxl10.chm673074
 f1_keywords:
 - vbaxl10.chm673074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Select
 ms.assetid: 1a17ffc9-9fd6-829d-2a11-b8b7ee5e28c2

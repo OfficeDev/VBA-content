@@ -3,7 +3,7 @@ title: Window.SplitColumn Property (Excel)
 keywords: vbaxl10.chm356112
 f1_keywords:
 - vbaxl10.chm356112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.SplitColumn
 ms.assetid: 699e2919-8786-4616-2363-78c3e01e4875

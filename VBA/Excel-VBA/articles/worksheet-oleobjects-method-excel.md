@@ -3,7 +3,7 @@ title: Worksheet.OLEObjects Method (Excel)
 keywords: vbaxl10.chm175108
 f1_keywords:
 - vbaxl10.chm175108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.OLEObjects
 ms.assetid: 3f178081-2a42-a751-ae79-8ca149d8ec45

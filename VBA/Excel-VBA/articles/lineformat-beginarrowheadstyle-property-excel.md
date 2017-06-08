@@ -3,7 +3,7 @@ title: LineFormat.BeginArrowheadStyle Property (Excel)
 keywords: vbaxl10.chm110004
 f1_keywords:
 - vbaxl10.chm110004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat.BeginArrowheadStyle
 ms.assetid: 5f327e3f-d6bf-9709-e6bb-7be7f701899b

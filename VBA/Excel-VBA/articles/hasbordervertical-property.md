@@ -3,7 +3,7 @@ title: HasBorderVertical Property
 keywords: vbagr10.chm5207458
 f1_keywords:
 - vbagr10.chm5207458
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasBorderVertical
 ms.assetid: ee6f449d-369c-1953-8540-b8baa4b281ab

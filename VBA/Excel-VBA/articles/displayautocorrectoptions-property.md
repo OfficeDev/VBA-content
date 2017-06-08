@@ -3,7 +3,7 @@ title: DisplayAutoCorrectOptions Property
 keywords: vbagr10.chm3086995
 f1_keywords:
 - vbagr10.chm3086995
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayAutoCorrectOptions
 ms.assetid: 9264f123-b3f8-aebc-bfa5-9a3b9be98706

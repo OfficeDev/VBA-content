@@ -3,7 +3,7 @@ title: ListObject.Application Property (Excel)
 keywords: vbaxl10.chm733073
 f1_keywords:
 - vbaxl10.chm733073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.Application
 ms.assetid: 72c071cf-e0c8-fcc5-5207-93ca43272dfa

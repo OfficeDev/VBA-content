@@ -3,7 +3,7 @@ title: WorksheetView.Parent Property (Excel)
 keywords: vbaxl10.chm777075
 f1_keywords:
 - vbaxl10.chm777075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetView.Parent
 ms.assetid: fc7f2258-0b36-c18f-e324-1eaac5b99494

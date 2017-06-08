@@ -3,7 +3,7 @@ title: Window.PrintPreview Method (Excel)
 keywords: vbaxl10.chm356103
 f1_keywords:
 - vbaxl10.chm356103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.PrintPreview
 ms.assetid: d38dacd1-6281-0c58-75bf-9bd87eaf2fe8

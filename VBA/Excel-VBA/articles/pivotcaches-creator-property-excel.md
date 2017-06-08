@@ -3,7 +3,7 @@ title: PivotCaches.Creator Property (Excel)
 keywords: vbaxl10.chm228074
 f1_keywords:
 - vbaxl10.chm228074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Creator
 ms.assetid: 5efdcef6-7827-9546-a186-174dde597b7a

@@ -3,7 +3,7 @@ title: WorksheetFunction.ImCsch Method (Excel)
 keywords: vbaxl10.chm137432
 f1_keywords:
 - vbaxl10.chm137432
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 0e42cbdf-b8cd-8d46-1d6f-4fe152558fdb
 ms.date: 06/08/2017
 ---

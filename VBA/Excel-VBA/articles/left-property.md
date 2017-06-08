@@ -3,7 +3,7 @@ title: Left Property
 keywords: vbagr10.chm65663
 f1_keywords:
 - vbagr10.chm65663
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Left
 ms.assetid: 9d300adc-3d72-02d5-e39c-c40e21b7e8d5

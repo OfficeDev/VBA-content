@@ -3,7 +3,7 @@ title: WorksheetFunction.SeriesSum Method (Excel)
 keywords: vbaxl10.chm137291
 f1_keywords:
 - vbaxl10.chm137291
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SeriesSum
 ms.assetid: 096faaa8-4bd3-fd61-4442-b29785a93c7c

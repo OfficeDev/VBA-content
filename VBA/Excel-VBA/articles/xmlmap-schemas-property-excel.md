@@ -3,7 +3,7 @@ title: XmlMap.Schemas Property (Excel)
 keywords: vbaxl10.chm754084
 f1_keywords:
 - vbaxl10.chm754084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.Schemas
 ms.assetid: 9027625d-3eb2-216d-5b50-a4bb84c19a8a

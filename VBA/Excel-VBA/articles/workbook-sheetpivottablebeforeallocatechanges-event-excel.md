@@ -3,7 +3,7 @@ title: Workbook.SheetPivotTableBeforeAllocateChanges Event (Excel)
 keywords: vbaxl10.chm503103
 f1_keywords:
 - vbaxl10.chm503103
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SheetPivotTableBeforeAllocateChanges
 ms.assetid: 2f767b5b-27fb-33de-c91d-76bbc52ea171

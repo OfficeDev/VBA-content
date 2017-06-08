@@ -3,7 +3,7 @@ title: SlicerCaches.Creator Property (Excel)
 keywords: vbaxl10.chm894074
 f1_keywords:
 - vbaxl10.chm894074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCaches.Creator
 ms.assetid: e7e2e448-189a-051d-33f2-0dbb8de272d5

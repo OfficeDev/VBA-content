@@ -3,7 +3,7 @@ title: ModelRelationship.PrimaryKeyColumn Property (Excel)
 keywords: vbaxl10.chm938076
 f1_keywords:
 - vbaxl10.chm938076
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 54ef6aba-449a-56b8-6eac-c3a9525fc51f
 ms.date: 06/08/2017
 ---

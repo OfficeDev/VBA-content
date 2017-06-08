@@ -3,7 +3,7 @@ title: DropLines.Format Property (Excel)
 keywords: vbaxl10.chm604078
 f1_keywords:
 - vbaxl10.chm604078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DropLines.Format
 ms.assetid: 070e03c0-cdba-3b26-d790-e244688004fa

@@ -3,7 +3,7 @@ title: WorksheetFunction.DMin Method (Excel)
 keywords: vbaxl10.chm137097
 f1_keywords:
 - vbaxl10.chm137097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DMin
 ms.assetid: 1f5794f3-befd-339c-d178-66568fce354f

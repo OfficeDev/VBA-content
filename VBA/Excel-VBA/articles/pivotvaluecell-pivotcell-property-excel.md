@@ -3,7 +3,7 @@ title: PivotValueCell.PivotCell Property (Excel)
 keywords: vbaxl10.chm918073
 f1_keywords:
 - vbaxl10.chm918073
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 18fa81bd-3169-9f08-9418-93ea5443efb2
 ms.date: 06/08/2017
 ---

@@ -3,7 +3,7 @@ title: LegendEntries Object (Excel)
 keywords: vbaxl10.chm587072
 f1_keywords:
 - vbaxl10.chm587072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntries
 ms.assetid: 51d98149-b90b-432b-7771-0815a0e89655

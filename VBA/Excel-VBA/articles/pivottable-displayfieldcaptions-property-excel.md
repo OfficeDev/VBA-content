@@ -3,7 +3,7 @@ title: PivotTable.DisplayFieldCaptions Property (Excel)
 keywords: vbaxl10.chm235165
 f1_keywords:
 - vbaxl10.chm235165
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayFieldCaptions
 ms.assetid: a0c76f0c-39eb-a705-90c7-74887ee16d35

@@ -3,7 +3,7 @@ title: LegendEntry.Format Property (Excel)
 keywords: vbaxl10.chm586084
 f1_keywords:
 - vbaxl10.chm586084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntry.Format
 ms.assetid: 65f2548e-b488-e5b9-b1a6-c7e832b746a4

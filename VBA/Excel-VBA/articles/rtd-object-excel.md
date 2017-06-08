@@ -3,7 +3,7 @@ title: RTD Object (Excel)
 keywords: vbaxl10.chm728072
 f1_keywords:
 - vbaxl10.chm728072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RTD
 ms.assetid: 50f289c3-081b-108b-2fee-c4069a04a8e7

@@ -3,7 +3,7 @@ title: ChartFormat.Adjustments Property (Excel)
 keywords: vbaxl10.chm861081
 f1_keywords:
 - vbaxl10.chm861081
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 4d3f15bd-b11b-8220-fd5f-5a4e6a5ddba4
 ms.date: 06/08/2017
 ---

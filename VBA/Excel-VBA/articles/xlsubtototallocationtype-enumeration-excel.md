@@ -1,6 +1,6 @@
 ---
 title: XlSubtototalLocationType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSubtototalLocationType
 ms.assetid: 8b9fc551-ef4a-3e95-9eec-56aa835d24cd

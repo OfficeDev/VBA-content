@@ -3,7 +3,7 @@ title: ValueChange.Delete Method (Excel)
 keywords: vbaxl10.chm889081
 f1_keywords:
 - vbaxl10.chm889081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ValueChange.Delete
 ms.assetid: 69b0c9e0-42a2-c282-67d1-ca1b0299e08a

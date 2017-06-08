@@ -3,7 +3,7 @@ title: Style.Value Property (Excel)
 keywords: vbaxl10.chm177096
 f1_keywords:
 - vbaxl10.chm177096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Style.Value
 ms.assetid: 7677efe6-bb2c-4d3a-37b3-aa555ba973ca

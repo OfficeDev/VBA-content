@@ -3,7 +3,7 @@ title: Application.ReplaceFormat Property (Excel)
 keywords: vbaxl10.chm133263
 f1_keywords:
 - vbaxl10.chm133263
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ReplaceFormat
 ms.assetid: df2242dc-9f23-b3c8-455d-1f0474eca873

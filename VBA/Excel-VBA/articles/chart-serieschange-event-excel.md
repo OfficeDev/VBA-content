@@ -3,7 +3,7 @@ title: Chart.SeriesChange Event (Excel)
 keywords: vbaxl10.chm500084
 f1_keywords:
 - vbaxl10.chm500084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.SeriesChange
 ms.assetid: 80a8058c-0445-0051-24d1-1a965c302790

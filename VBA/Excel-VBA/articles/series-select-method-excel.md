@@ -3,7 +3,7 @@ title: Series.Select Method (Excel)
 keywords: vbaxl10.chm578105
 f1_keywords:
 - vbaxl10.chm578105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Select
 ms.assetid: 9317a166-df2d-0c06-b1fb-4e3ecc7a645e

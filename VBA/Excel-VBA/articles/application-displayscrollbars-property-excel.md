@@ -3,7 +3,7 @@ title: Application.DisplayScrollBars Property (Excel)
 keywords: vbaxl10.chm133126
 f1_keywords:
 - vbaxl10.chm133126
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayScrollBars
 ms.assetid: a81d2111-38eb-f156-28d7-a4abedf4839c

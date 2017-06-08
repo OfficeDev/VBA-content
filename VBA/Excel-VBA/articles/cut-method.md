@@ -3,7 +3,7 @@ title: Cut Method
 keywords: vbagr10.chm5207276
 f1_keywords:
 - vbagr10.chm5207276
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Cut
 ms.assetid: a0e35a76-9789-b661-e12b-04f11db84e3c

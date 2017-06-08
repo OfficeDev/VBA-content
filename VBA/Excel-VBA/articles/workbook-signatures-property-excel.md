@@ -3,7 +3,7 @@ title: Workbook.Signatures Property (Excel)
 keywords: vbaxl10.chm199237
 f1_keywords:
 - vbaxl10.chm199237
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Signatures
 ms.assetid: b45f8036-c2d7-6113-e95c-ff78ee6a1f46

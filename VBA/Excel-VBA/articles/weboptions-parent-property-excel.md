@@ -3,7 +3,7 @@ title: WebOptions.Parent Property (Excel)
 keywords: vbaxl10.chm661075
 f1_keywords:
 - vbaxl10.chm661075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WebOptions.Parent
 ms.assetid: 2d566c1f-4ff9-54e4-8260-fe3192d37cca

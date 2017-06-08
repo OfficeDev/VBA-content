@@ -1,6 +1,6 @@
 ---
 title: TextFrame2.DeleteText Method (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2.DeleteText
 ms.assetid: e96a305c-085a-d807-1336-9dcc22760a7e

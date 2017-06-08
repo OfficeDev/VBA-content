@@ -3,7 +3,7 @@ title: PivotTable.FieldListSortAscending Property (Excel)
 keywords: vbaxl10.chm235181
 f1_keywords:
 - vbaxl10.chm235181
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.FieldListSortAscending
 ms.assetid: d6c8a2b5-9653-1f89-06a8-ec738fe3e526

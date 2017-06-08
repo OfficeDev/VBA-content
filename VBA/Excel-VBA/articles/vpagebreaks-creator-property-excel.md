@@ -3,7 +3,7 @@ title: VPageBreaks.Creator Property (Excel)
 keywords: vbaxl10.chm166074
 f1_keywords:
 - vbaxl10.chm166074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.VPageBreaks.Creator
 ms.assetid: d8ff8785-8cf5-de2f-0425-8a605a72e6da

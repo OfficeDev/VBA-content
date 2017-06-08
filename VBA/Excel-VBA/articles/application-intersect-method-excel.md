@@ -3,7 +3,7 @@ title: Application.Intersect Method (Excel)
 keywords: vbaxl10.chm183099
 f1_keywords:
 - vbaxl10.chm183099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Intersect
 ms.assetid: 856d052a-3207-ced2-941c-b466cb880a93

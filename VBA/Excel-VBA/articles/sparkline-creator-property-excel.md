@@ -3,7 +3,7 @@ title: Sparkline.Creator Property (Excel)
 keywords: vbaxl10.chm874074
 f1_keywords:
 - vbaxl10.chm874074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Sparkline.Creator
 ms.assetid: 8353b55b-5494-4101-b5e1-78b0f2fdf152

@@ -3,7 +3,7 @@ title: Borders.Parent Property (Excel)
 keywords: vbaxl10.chm180075
 f1_keywords:
 - vbaxl10.chm180075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Borders.Parent
 ms.assetid: 43a8a82d-d2b9-59d3-36b2-97ffffea6cdb

@@ -1,6 +1,6 @@
 ---
 title: XlSpeakDirection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlSpeakDirection
 ms.assetid: 6e738db7-9722-21ee-5904-1289f9e3987b

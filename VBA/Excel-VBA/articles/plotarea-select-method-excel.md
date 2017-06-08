@@ -3,7 +3,7 @@ title: PlotArea.Select Method (Excel)
 keywords: vbaxl10.chm618075
 f1_keywords:
 - vbaxl10.chm618075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Select
 ms.assetid: 0aa567a6-b6d6-633a-e2b2-6ef07431692a

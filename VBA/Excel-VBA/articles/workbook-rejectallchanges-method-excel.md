@@ -3,7 +3,7 @@ title: Workbook.RejectAllChanges Method (Excel)
 keywords: vbaxl10.chm199178
 f1_keywords:
 - vbaxl10.chm199178
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.RejectAllChanges
 ms.assetid: a53670da-370c-9ac8-75b8-008625495c2b

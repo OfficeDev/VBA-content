@@ -3,7 +3,7 @@ title: Workbook.AfterXmlExport Event (Excel)
 keywords: vbaxl10.chm503100
 f1_keywords:
 - vbaxl10.chm503100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AfterXmlExport
 ms.assetid: fe1e0a53-9f4e-ac88-58f7-fe420e57cabd

@@ -3,7 +3,7 @@ title: PivotTable.TotalsAnnotation Property (Excel)
 keywords: vbaxl10.chm235136
 f1_keywords:
 - vbaxl10.chm235136
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.TotalsAnnotation
 ms.assetid: ce225526-f4b9-8b6a-0b19-21bea06cd728

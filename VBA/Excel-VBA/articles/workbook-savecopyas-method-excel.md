@@ -3,7 +3,7 @@ title: Workbook.SaveCopyAs Method (Excel)
 keywords: vbaxl10.chm199146
 f1_keywords:
 - vbaxl10.chm199146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.SaveCopyAs
 ms.assetid: 84f58488-6a2b-7fef-1472-e1b9771a60b0

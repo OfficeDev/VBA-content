@@ -3,7 +3,7 @@ title: Workbook.XmlImportXml Method (Excel)
 keywords: vbaxl10.chm199231
 f1_keywords:
 - vbaxl10.chm199231
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.XmlImportXml
 ms.assetid: b0edbe49-f578-ead0-8371-0196f5c515d4

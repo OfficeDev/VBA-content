@@ -3,7 +3,7 @@ title: WorksheetFunction.Received Method (Excel)
 keywords: vbaxl10.chm137311
 f1_keywords:
 - vbaxl10.chm137311
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Received
 ms.assetid: 0c350327-2fdb-0294-4da0-298c5af9608e

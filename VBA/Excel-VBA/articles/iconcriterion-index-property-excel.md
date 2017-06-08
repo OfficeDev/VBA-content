@@ -3,7 +3,7 @@ title: IconCriterion.Index Property (Excel)
 keywords: vbaxl10.chm814073
 f1_keywords:
 - vbaxl10.chm814073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconCriterion.Index
 ms.assetid: 84eba77a-4772-c041-ad11-dee5b3cdc312

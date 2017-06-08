@@ -3,7 +3,7 @@ title: Connections.Application Property (Excel)
 keywords: vbaxl10.chm775073
 f1_keywords:
 - vbaxl10.chm775073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Connections.Application
 ms.assetid: bcbf3baa-7e97-892c-47b0-346eca408bfa

@@ -3,7 +3,7 @@ title: Point.Parent Property (Excel)
 keywords: vbaxl10.chm576073
 f1_keywords:
 - vbaxl10.chm576073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Parent
 ms.assetid: e6dd19b4-77b1-e314-c5d3-26a5a51373b8

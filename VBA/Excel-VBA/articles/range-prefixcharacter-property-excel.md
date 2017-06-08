@@ -3,7 +3,7 @@ title: Range.PrefixCharacter Property (Excel)
 keywords: vbaxl10.chm144179
 f1_keywords:
 - vbaxl10.chm144179
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.PrefixCharacter
 ms.assetid: 1f7d5fbc-136a-5164-4cec-0054f8bcd0b1

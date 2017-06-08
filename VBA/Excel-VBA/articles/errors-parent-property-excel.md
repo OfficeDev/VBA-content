@@ -3,7 +3,7 @@ title: Errors.Parent Property (Excel)
 keywords: vbaxl10.chm699075
 f1_keywords:
 - vbaxl10.chm699075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Errors.Parent
 ms.assetid: a91f44c8-2d9b-27ec-3f0e-5edc3dfd3cde

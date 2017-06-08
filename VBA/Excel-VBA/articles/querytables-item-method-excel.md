@@ -3,7 +3,7 @@ title: QueryTables.Item Method (Excel)
 keywords: vbaxl10.chm521075
 f1_keywords:
 - vbaxl10.chm521075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.QueryTables.Item
 ms.assetid: c7b70ccd-1049-0d50-1536-f1d42b9b1e09

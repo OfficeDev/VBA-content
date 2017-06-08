@@ -3,7 +3,7 @@ title: Top10.Application Property (Excel)
 keywords: vbaxl10.chm821073
 f1_keywords:
 - vbaxl10.chm821073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.Application
 ms.assetid: 777fa632-6320-c375-0966-c3ea3a8c5a40

@@ -3,7 +3,7 @@ title: ChartGroup.AxisGroup Property (Excel)
 keywords: vbaxl10.chm568073
 f1_keywords:
 - vbaxl10.chm568073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartGroup.AxisGroup
 ms.assetid: 2fa4488c-6a50-9aac-affe-a6f2b8afa62e

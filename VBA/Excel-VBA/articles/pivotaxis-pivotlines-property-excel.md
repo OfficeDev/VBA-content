@@ -3,7 +3,7 @@ title: PivotAxis.PivotLines Property (Excel)
 keywords: vbaxl10.chm768073
 f1_keywords:
 - vbaxl10.chm768073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotAxis.PivotLines
 ms.assetid: 1172bb70-d8e2-246f-5942-4d66c8b1d97a

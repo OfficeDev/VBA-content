@@ -3,7 +3,7 @@ title: Axis.Left Property (Excel)
 keywords: vbaxl10.chm561109
 f1_keywords:
 - vbaxl10.chm561109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.Left
 ms.assetid: a7408e07-8d06-9abe-ac53-337e721b7628

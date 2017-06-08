@@ -3,7 +3,7 @@ title: ColorScale.AppliesTo Property (Excel)
 keywords: vbaxl10.chm806075
 f1_keywords:
 - vbaxl10.chm806075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScale.AppliesTo
 ms.assetid: ddef6076-9805-454d-3f98-baf26685e263

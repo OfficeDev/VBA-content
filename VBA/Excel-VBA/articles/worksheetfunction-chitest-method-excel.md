@@ -3,7 +3,7 @@ title: WorksheetFunction.ChiTest Method (Excel)
 keywords: vbaxl10.chm137210
 f1_keywords:
 - vbaxl10.chm137210
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiTest
 ms.assetid: a4447d0d-f1f9-9d09-9ab3-c7974471a9ec

@@ -1,6 +1,6 @@
 ---
 title: XlPortugueseReform Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPortugueseReform
 ms.assetid: 35f74816-4945-fe2e-564f-8f9b922fe635

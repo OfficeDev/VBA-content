@@ -3,7 +3,7 @@ title: Application.DisplayCommentIndicator Property (Excel)
 keywords: vbaxl10.chm133123
 f1_keywords:
 - vbaxl10.chm133123
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.DisplayCommentIndicator
 ms.assetid: 8617da4e-97cb-fe57-bb51-a9c671e2ff27

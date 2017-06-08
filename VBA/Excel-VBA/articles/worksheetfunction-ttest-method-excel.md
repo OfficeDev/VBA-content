@@ -3,7 +3,7 @@ title: WorksheetFunction.TTest Method (Excel)
 keywords: vbaxl10.chm137220
 f1_keywords:
 - vbaxl10.chm137220
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.TTest
 ms.assetid: 3153c88c-aa22-230f-e602-03b902830c54

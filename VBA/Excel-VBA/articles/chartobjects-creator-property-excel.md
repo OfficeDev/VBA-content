@@ -3,7 +3,7 @@ title: ChartObjects.Creator Property (Excel)
 keywords: vbaxl10.chm495074
 f1_keywords:
 - vbaxl10.chm495074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Creator
 ms.assetid: 8cfd1fc7-b6a8-5d1a-9dc8-58ca5521d3a8

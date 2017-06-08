@@ -3,7 +3,7 @@ title: Trendline.Backward2 Property (Excel)
 keywords: vbaxl10.chm594091
 f1_keywords:
 - vbaxl10.chm594091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Trendline.Backward2
 ms.assetid: 28712c4d-7772-d61e-0151-22eea8ff6383

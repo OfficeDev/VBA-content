@@ -3,7 +3,7 @@ title: FillFormat.TextureType Property (Excel)
 keywords: vbaxl10.chm115021
 f1_keywords:
 - vbaxl10.chm115021
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureType
 ms.assetid: 9a39c34e-c19c-5539-b5ac-b624fe71e2e9

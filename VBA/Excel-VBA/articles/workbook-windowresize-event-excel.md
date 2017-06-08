@@ -3,7 +3,7 @@ title: Workbook.WindowResize Event (Excel)
 keywords: vbaxl10.chm503082
 f1_keywords:
 - vbaxl10.chm503082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.WindowResize
 ms.assetid: 6e473482-fe16-03a2-7a27-b0cd9535c3e6

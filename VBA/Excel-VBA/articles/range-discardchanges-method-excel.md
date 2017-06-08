@@ -3,7 +3,7 @@ title: Range.DiscardChanges Method (Excel)
 keywords: vbaxl10.chm144254
 f1_keywords:
 - vbaxl10.chm144254
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.DiscardChanges
 ms.assetid: adeee827-d680-59f3-0966-2c2ca60a59e1

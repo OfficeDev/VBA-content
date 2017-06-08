@@ -3,7 +3,7 @@ title: WorksheetFunction.Median Method (Excel)
 keywords: vbaxl10.chm137162
 f1_keywords:
 - vbaxl10.chm137162
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Median
 ms.assetid: a2dfcdbe-2291-e346-beca-0e93c9851532

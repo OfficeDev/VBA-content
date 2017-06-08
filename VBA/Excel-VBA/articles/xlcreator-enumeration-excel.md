@@ -1,6 +1,6 @@
 ---
 title: XlCreator Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCreator
 ms.assetid: 9e4ccc1f-b31b-955f-193e-4b57dad1be87

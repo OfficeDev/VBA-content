@@ -3,7 +3,7 @@ title: Range.ReadingOrder Property (Excel)
 keywords: vbaxl10.chm144227
 f1_keywords:
 - vbaxl10.chm144227
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ReadingOrder
 ms.assetid: f367af66-21c8-b63f-7a92-3756ee711b18

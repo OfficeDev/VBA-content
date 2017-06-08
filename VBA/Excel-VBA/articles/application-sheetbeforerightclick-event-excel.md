@@ -3,7 +3,7 @@ title: Application.SheetBeforeRightClick Event (Excel)
 keywords: vbaxl10.chm504076
 f1_keywords:
 - vbaxl10.chm504076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.SheetBeforeRightClick
 ms.assetid: eb91ede3-3f17-7cf8-2b6f-b519acd11ce3

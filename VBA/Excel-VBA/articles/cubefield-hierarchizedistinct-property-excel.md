@@ -3,7 +3,7 @@ title: CubeField.HierarchizeDistinct Property (Excel)
 keywords: vbaxl10.chm668104
 f1_keywords:
 - vbaxl10.chm668104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.HierarchizeDistinct
 ms.assetid: 714f85b7-2adb-0ec1-5203-ca797b21e0a8

@@ -3,7 +3,7 @@ title: CalloutFormat.CustomDrop Method (Excel)
 keywords: vbaxl10.chm104003
 f1_keywords:
 - vbaxl10.chm104003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.CustomDrop
 ms.assetid: d38513f6-1c42-e4b3-7a0f-b8543d59d0ff

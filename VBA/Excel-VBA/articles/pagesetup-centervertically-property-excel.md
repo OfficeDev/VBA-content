@@ -3,7 +3,7 @@ title: PageSetup.CenterVertically Property (Excel)
 keywords: vbaxl10.chm473078
 f1_keywords:
 - vbaxl10.chm473078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterVertically
 ms.assetid: ffd5897b-fe25-f52f-eb94-cb42659bcedd

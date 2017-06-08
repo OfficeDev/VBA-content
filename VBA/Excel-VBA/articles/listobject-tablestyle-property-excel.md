@@ -3,7 +3,7 @@ title: ListObject.TableStyle Property (Excel)
 keywords: vbaxl10.chm734100
 f1_keywords:
 - vbaxl10.chm734100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.TableStyle
 ms.assetid: e9c2d152-e060-3132-d27c-35020d3380ab

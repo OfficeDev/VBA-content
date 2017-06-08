@@ -3,7 +3,7 @@ title: Slicer.DisableMoveResizeUI Property (Excel)
 keywords: vbaxl10.chm905077
 f1_keywords:
 - vbaxl10.chm905077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.DisableMoveResizeUI
 ms.assetid: 2477e495-e61a-6981-6df2-5bb1cb480576

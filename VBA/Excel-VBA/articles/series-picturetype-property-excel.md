@@ -3,7 +3,7 @@ title: Series.PictureType Property (Excel)
 keywords: vbaxl10.chm578101
 f1_keywords:
 - vbaxl10.chm578101
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.PictureType
 ms.assetid: 098dac46-ec2d-ea2d-71e9-1094a5f0b23a

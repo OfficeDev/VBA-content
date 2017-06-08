@@ -3,7 +3,7 @@ title: WorksheetFunction.Quartile_Exc Method (Excel)
 keywords: vbaxl10.chm137377
 f1_keywords:
 - vbaxl10.chm137377
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Quartile_Exc
 ms.assetid: 2b33be15-7d3c-d8be-aae1-de100de8083c

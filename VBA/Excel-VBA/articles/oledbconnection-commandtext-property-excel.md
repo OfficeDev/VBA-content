@@ -3,7 +3,7 @@ title: OLEDBConnection.CommandText Property (Excel)
 keywords: vbaxl10.chm794076
 f1_keywords:
 - vbaxl10.chm794076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.CommandText
 ms.assetid: 2c5e976c-513f-24b0-f25e-056fc9babaf9

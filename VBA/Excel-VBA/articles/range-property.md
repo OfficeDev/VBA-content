@@ -3,7 +3,7 @@ title: Range Property
 keywords: vbagr10.chm65733
 f1_keywords:
 - vbagr10.chm65733
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: 760f463d-3af3-515d-5da4-54f799fcfe0b

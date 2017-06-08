@@ -3,7 +3,7 @@ title: Graphic.CropLeft Property (Excel)
 keywords: vbaxl10.chm694077
 f1_keywords:
 - vbaxl10.chm694077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.CropLeft
 ms.assetid: decebec1-af4a-2bb1-62b5-d90674b5b338

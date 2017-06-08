@@ -3,7 +3,7 @@ title: Protection.AllowInsertingColumns Property (Excel)
 keywords: vbaxl10.chm719076
 f1_keywords:
 - vbaxl10.chm719076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowInsertingColumns
 ms.assetid: 87938c66-e48a-dd1d-934e-08752bbf3e03

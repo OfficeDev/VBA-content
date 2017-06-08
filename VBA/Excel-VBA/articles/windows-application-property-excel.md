@@ -3,7 +3,7 @@ title: Windows.Application Property (Excel)
 keywords: vbaxl10.chm353073
 f1_keywords:
 - vbaxl10.chm353073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.Application
 ms.assetid: 9720f646-5f98-7e0b-3b59-b93a2aecf7a3

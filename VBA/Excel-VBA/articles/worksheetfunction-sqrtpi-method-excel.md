@@ -3,7 +3,7 @@ title: WorksheetFunction.SqrtPi Method (Excel)
 keywords: vbaxl10.chm137293
 f1_keywords:
 - vbaxl10.chm137293
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SqrtPi
 ms.assetid: 61e1ebbe-2d16-7445-a480-9e89fa13f56a

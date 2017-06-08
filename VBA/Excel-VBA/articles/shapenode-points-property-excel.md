@@ -3,7 +3,7 @@ title: ShapeNode.Points Property (Excel)
 keywords: vbaxl10.chm111004
 f1_keywords:
 - vbaxl10.chm111004
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNode.Points
 ms.assetid: fe09c78f-44c9-4e66-df7b-c23720216ec5

@@ -3,7 +3,7 @@ title: WorksheetFunction.Lookup Method (Excel)
 keywords: vbaxl10.chm137089
 f1_keywords:
 - vbaxl10.chm137089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Lookup
 ms.assetid: 0088c289-2ef5-78ea-68e2-1b10d077e775

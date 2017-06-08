@@ -3,7 +3,7 @@ title: OLEDBConnection.LocaleID Property (Excel)
 keywords: vbaxl10.chm794107
 f1_keywords:
 - vbaxl10.chm794107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.LocaleID
 ms.assetid: 6a92f9ca-247a-8da8-a32e-ec239380894a

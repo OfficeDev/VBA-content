@@ -3,7 +3,7 @@ title: SeriesCollection.NewSeries Method (Excel)
 keywords: vbaxl10.chm580080
 f1_keywords:
 - vbaxl10.chm580080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesCollection.NewSeries
 ms.assetid: 1d63ff48-d4ec-ce76-42bb-c5923251bd69

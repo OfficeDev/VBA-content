@@ -3,7 +3,7 @@ title: BaseUnit Property
 keywords: vbagr10.chm3076962
 f1_keywords:
 - vbagr10.chm3076962
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.BaseUnit
 ms.assetid: 05c83ae8-ab67-1330-3a78-f0219e72637a

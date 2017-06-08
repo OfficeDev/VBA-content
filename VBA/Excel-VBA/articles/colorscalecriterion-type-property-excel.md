@@ -3,7 +3,7 @@ title: ColorScaleCriterion.Type Property (Excel)
 keywords: vbaxl10.chm808074
 f1_keywords:
 - vbaxl10.chm808074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorScaleCriterion.Type
 ms.assetid: 59ea77b7-4d12-22e5-380c-bb94912a6550

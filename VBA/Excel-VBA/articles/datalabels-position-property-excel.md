@@ -3,7 +3,7 @@ title: DataLabels.Position Property (Excel)
 keywords: vbaxl10.chm584098
 f1_keywords:
 - vbaxl10.chm584098
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabels.Position
 ms.assetid: 1eb5e1c9-bdd1-f886-d1a7-aeb2f55b17d1

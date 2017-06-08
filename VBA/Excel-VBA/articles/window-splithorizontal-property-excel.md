@@ -3,7 +3,7 @@ title: Window.SplitHorizontal Property (Excel)
 keywords: vbaxl10.chm356113
 f1_keywords:
 - vbaxl10.chm356113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.SplitHorizontal
 ms.assetid: 71f5aaaf-c519-dd51-410a-8f9039b11e65

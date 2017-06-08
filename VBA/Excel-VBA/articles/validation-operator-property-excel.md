@@ -3,7 +3,7 @@ title: Validation.Operator Property (Excel)
 keywords: vbaxl10.chm532086
 f1_keywords:
 - vbaxl10.chm532086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Validation.Operator
 ms.assetid: 1e21c1e5-4210-7a15-3b8f-d016e35be857

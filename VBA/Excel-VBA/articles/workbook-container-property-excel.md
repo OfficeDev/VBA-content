@@ -3,7 +3,7 @@ title: Workbook.Container Property (Excel)
 keywords: vbaxl10.chm199092
 f1_keywords:
 - vbaxl10.chm199092
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.Container
 ms.assetid: 7ad370bc-9901-3b8b-12e6-1ee57f0300e0

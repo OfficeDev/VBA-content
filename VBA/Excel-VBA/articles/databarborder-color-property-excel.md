@@ -3,7 +3,7 @@ title: DataBarBorder.Color Property (Excel)
 keywords: vbaxl10.chm885074
 f1_keywords:
 - vbaxl10.chm885074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataBarBorder.Color
 ms.assetid: a16439a9-c086-9c42-8496-9a16d9011689

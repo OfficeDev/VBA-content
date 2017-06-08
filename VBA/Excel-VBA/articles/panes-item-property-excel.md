@@ -3,7 +3,7 @@ title: Panes.Item Property (Excel)
 keywords: vbaxl10.chm358074
 f1_keywords:
 - vbaxl10.chm358074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Panes.Item
 ms.assetid: 5960e77c-23b4-2ce4-1674-2ffd3b4f6e47

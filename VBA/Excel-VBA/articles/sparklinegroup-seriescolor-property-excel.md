@@ -3,7 +3,7 @@ title: SparklineGroup.SeriesColor Property (Excel)
 keywords: vbaxl10.chm871085
 f1_keywords:
 - vbaxl10.chm871085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.SeriesColor
 ms.assetid: 12087bd4-64bd-b701-006a-eac47deb2e17

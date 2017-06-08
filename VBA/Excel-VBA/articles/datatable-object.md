@@ -3,7 +3,7 @@ title: DataTable Object
 keywords: vbagr10.chm5207296
 f1_keywords:
 - vbagr10.chm5207296
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataTable
 ms.assetid: cf9aa637-3b5d-1e18-1956-291a0295dddf

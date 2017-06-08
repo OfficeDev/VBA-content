@@ -3,7 +3,7 @@ title: Application.InchesToPoints Method (Excel)
 keywords: vbaxl10.chm133148
 f1_keywords:
 - vbaxl10.chm133148
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.InchesToPoints
 ms.assetid: 7689eae4-f533-32e3-d431-4873029a8bc1

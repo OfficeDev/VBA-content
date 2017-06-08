@@ -1,6 +1,6 @@
 ---
 title: XlHtmlType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlHtmlType
 ms.assetid: 1eb7246a-ca31-f468-0a75-363af7100e98

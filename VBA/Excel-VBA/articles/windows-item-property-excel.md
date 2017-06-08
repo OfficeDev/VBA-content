@@ -3,7 +3,7 @@ title: Windows.Item Property (Excel)
 keywords: vbaxl10.chm354075
 f1_keywords:
 - vbaxl10.chm354075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.Item
 ms.assetid: 75e5dc32-9f05-360d-0d13-c2747ee60e77

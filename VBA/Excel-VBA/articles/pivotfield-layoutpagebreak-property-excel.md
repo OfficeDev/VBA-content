@@ -3,7 +3,7 @@ title: PivotField.LayoutPageBreak Property (Excel)
 keywords: vbaxl10.chm240121
 f1_keywords:
 - vbaxl10.chm240121
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutPageBreak
 ms.assetid: 3b513f5c-353b-ecb9-16c4-6e1d4bd0848a

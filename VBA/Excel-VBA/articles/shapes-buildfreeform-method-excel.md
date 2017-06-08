@@ -3,7 +3,7 @@ title: Shapes.BuildFreeform Method (Excel)
 keywords: vbaxl10.chm638087
 f1_keywords:
 - vbaxl10.chm638087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.BuildFreeform
 ms.assetid: 0eec4b87-1a40-1e60-a66a-a8bb2b2f7efa

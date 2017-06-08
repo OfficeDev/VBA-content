@@ -3,7 +3,7 @@ title: CalloutFormat.PresetDrop Method (Excel)
 keywords: vbaxl10.chm104005
 f1_keywords:
 - vbaxl10.chm104005
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalloutFormat.PresetDrop
 ms.assetid: 48d67cad-d93b-2b69-35dd-c3de70340a42

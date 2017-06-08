@@ -3,7 +3,7 @@ title: FormatColor.Parent Property (Excel)
 keywords: vbaxl10.chm801075
 f1_keywords:
 - vbaxl10.chm801075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatColor.Parent
 ms.assetid: fae66f99-e47c-fda8-a542-8a6e3ec584f4

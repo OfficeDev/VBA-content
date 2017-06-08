@@ -3,7 +3,7 @@ title: CategoryType Property
 keywords: vbagr10.chm67187
 f1_keywords:
 - vbagr10.chm67187
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CategoryType
 ms.assetid: 6af3b261-abed-a78a-5952-645af07cde9d

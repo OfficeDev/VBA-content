@@ -3,7 +3,7 @@ title: Protection.AllowFiltering Property (Excel)
 keywords: vbaxl10.chm719082
 f1_keywords:
 - vbaxl10.chm719082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Protection.AllowFiltering
 ms.assetid: dc0b8ab3-ea28-0692-9474-8f81cc395599

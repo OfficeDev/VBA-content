@@ -3,7 +3,7 @@ title: PivotCache.RecordCount Property (Excel)
 keywords: vbaxl10.chm227079
 f1_keywords:
 - vbaxl10.chm227079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.RecordCount
 ms.assetid: 5fcdcf2d-d52f-6ac1-ef09-8377fc5a1f4d

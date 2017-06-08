@@ -3,7 +3,7 @@ title: ShapeNode.EditingType Property (Excel)
 keywords: vbaxl10.chm111003
 f1_keywords:
 - vbaxl10.chm111003
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNode.EditingType
 ms.assetid: 78a17ed7-7e30-d5f3-4af8-636d65079218

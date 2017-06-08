@@ -3,7 +3,7 @@ title: WorksheetFunction.Round Method (Excel)
 keywords: vbaxl10.chm137088
 f1_keywords:
 - vbaxl10.chm137088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Round
 ms.assetid: 37b1abed-ed4e-5e92-ba8d-a13f573813a0

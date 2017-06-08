@@ -1,6 +1,6 @@
 ---
 title: Controls, Dialog Boxes, and Forms
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f4c5062b-13f8-46dc-b9cb-a782d2930da4
 ms.date: 06/08/2017
 ---

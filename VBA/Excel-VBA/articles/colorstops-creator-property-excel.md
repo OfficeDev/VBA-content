@@ -3,7 +3,7 @@ title: ColorStops.Creator Property (Excel)
 keywords: vbaxl10.chm852074
 f1_keywords:
 - vbaxl10.chm852074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStops.Creator
 ms.assetid: 9eb3106a-fb64-ba9a-8bf1-fc7ed2a3eb0e

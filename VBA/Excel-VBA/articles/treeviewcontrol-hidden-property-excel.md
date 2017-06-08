@@ -3,7 +3,7 @@ title: TreeviewControl.Hidden Property (Excel)
 keywords: vbaxl10.chm666073
 f1_keywords:
 - vbaxl10.chm666073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TreeviewControl.Hidden
 ms.assetid: 134a3b6b-492b-6813-cd40-ce1ff3b52c6c

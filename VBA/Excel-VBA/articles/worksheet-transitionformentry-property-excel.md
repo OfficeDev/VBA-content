@@ -3,7 +3,7 @@ title: Worksheet.TransitionFormEntry Property (Excel)
 keywords: vbaxl10.chm175132
 f1_keywords:
 - vbaxl10.chm175132
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.TransitionFormEntry
 ms.assetid: ec17c4db-d94e-2fd9-39eb-7c1e0ea40a49

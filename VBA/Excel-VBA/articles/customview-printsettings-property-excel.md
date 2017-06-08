@@ -3,7 +3,7 @@ title: CustomView.PrintSettings Property (Excel)
 keywords: vbaxl10.chm508074
 f1_keywords:
 - vbaxl10.chm508074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomView.PrintSettings
 ms.assetid: 6ad51940-134c-f522-42f3-3d94da2ac21c

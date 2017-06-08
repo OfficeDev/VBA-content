@@ -3,7 +3,7 @@ title: ODBCConnection.Refreshing Property (Excel)
 keywords: vbaxl10.chm796081
 f1_keywords:
 - vbaxl10.chm796081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.Refreshing
 ms.assetid: 572bec20-9952-9985-09f1-ba328c56c321

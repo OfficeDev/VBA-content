@@ -3,7 +3,7 @@ title: GroupShapes.Parent Property (Excel)
 keywords: vbaxl10.chm641075
 f1_keywords:
 - vbaxl10.chm641075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GroupShapes.Parent
 ms.assetid: a72b8597-172f-5a91-bf6f-b09f6618fa47

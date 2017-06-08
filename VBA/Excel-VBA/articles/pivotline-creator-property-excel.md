@@ -3,7 +3,7 @@ title: PivotLine.Creator Property (Excel)
 keywords: vbaxl10.chm763074
 f1_keywords:
 - vbaxl10.chm763074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLine.Creator
 ms.assetid: 9f68797c-1817-eff5-3b5e-17371961fc2c

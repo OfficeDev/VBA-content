@@ -3,7 +3,7 @@ title: Top10.ScopeType Property (Excel)
 keywords: vbaxl10.chm822089
 f1_keywords:
 - vbaxl10.chm822089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Top10.ScopeType
 ms.assetid: d1326cab-7852-747e-d810-9f7c07a0b11f

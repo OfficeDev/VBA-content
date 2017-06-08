@@ -3,7 +3,7 @@ title: ThreeDFormat.PresetThreeDFormat Property (Excel)
 keywords: vbaxl10.chm119013
 f1_keywords:
 - vbaxl10.chm119013
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetThreeDFormat
 ms.assetid: 678fa7f1-7cdc-ce05-98f7-bc6252eb3df1

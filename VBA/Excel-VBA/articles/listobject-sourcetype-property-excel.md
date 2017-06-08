@@ -3,7 +3,7 @@ title: ListObject.SourceType Property (Excel)
 keywords: vbaxl10.chm734093
 f1_keywords:
 - vbaxl10.chm734093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.SourceType
 ms.assetid: 17c41741-1bca-0c07-d113-fd68ba7add75

@@ -3,7 +3,7 @@ title: SlicerCache.Index Property (Excel)
 keywords: vbaxl10.chm897073
 f1_keywords:
 - vbaxl10.chm897073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.Index
 ms.assetid: b923111d-27cf-671e-e3de-5795ffb1a737

@@ -3,7 +3,7 @@ title: GroupShapes.Application Property (Excel)
 keywords: vbaxl10.chm641073
 f1_keywords:
 - vbaxl10.chm641073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GroupShapes.Application
 ms.assetid: 0aefa794-07b9-5a8d-2780-2c2c2f0bb246

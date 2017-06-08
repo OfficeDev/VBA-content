@@ -3,7 +3,7 @@ title: VPageBreak.DragOff Method (Excel)
 keywords: vbaxl10.chm156075
 f1_keywords:
 - vbaxl10.chm156075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.VPageBreak.DragOff
 ms.assetid: 93e169e8-e2d6-4cca-bd82-2d11fdc1ae4c

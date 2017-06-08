@@ -3,7 +3,7 @@ title: Pages.Count Property (Excel)
 keywords: vbaxl10.chm831075
 f1_keywords:
 - vbaxl10.chm831075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pages.Count
 ms.assetid: 8057db6b-1f13-3950-5508-0bbcec892359

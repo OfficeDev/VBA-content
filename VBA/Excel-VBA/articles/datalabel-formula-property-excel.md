@@ -3,7 +3,7 @@ title: DataLabel.Formula Property (Excel)
 keywords: vbaxl10.chm582108
 f1_keywords:
 - vbaxl10.chm582108
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataLabel.Formula
 ms.assetid: 6786f357-1929-2936-cffb-0d28dc8a6f97

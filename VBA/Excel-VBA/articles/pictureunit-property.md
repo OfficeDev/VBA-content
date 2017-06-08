@@ -3,7 +3,7 @@ title: PictureUnit Property
 keywords: vbagr10.chm3077575
 f1_keywords:
 - vbagr10.chm3077575
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureUnit
 ms.assetid: 28a7cd8b-2558-87a1-158f-ff9a1dca8f41

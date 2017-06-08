@@ -3,7 +3,7 @@ title: ErrorCheckingOptions.NumberAsText Property (Excel)
 keywords: vbaxl10.chm698077
 f1_keywords:
 - vbaxl10.chm698077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.NumberAsText
 ms.assetid: 4ef057e1-82da-78ab-0541-a91fbdef4d89

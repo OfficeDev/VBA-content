@@ -3,7 +3,7 @@ title: DropLines.Application Property (Excel)
 keywords: vbaxl10.chm603073
 f1_keywords:
 - vbaxl10.chm603073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DropLines.Application
 ms.assetid: 3894d081-a447-594d-dcfe-3604a9e9554d

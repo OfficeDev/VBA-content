@@ -1,6 +1,6 @@
 ---
 title: ErrorBars Property
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorBars
 ms.assetid: 28e7e234-3731-42b6-b8dc-f1945b30678e

@@ -3,7 +3,7 @@ title: TextEffectFormat.Parent Property (Excel)
 keywords: vbaxl10.chm118001
 f1_keywords:
 - vbaxl10.chm118001
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Parent
 ms.assetid: d9b81d86-978c-6161-d708-c3e1b7cd70b2

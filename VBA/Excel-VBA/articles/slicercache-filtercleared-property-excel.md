@@ -3,7 +3,7 @@ title: SlicerCache.FilterCleared Property (Excel)
 keywords: vbaxl10.chm897094
 f1_keywords:
 - vbaxl10.chm897094
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 7ba523e4-365f-9cfb-9fa2-bf0e025996ae
 ms.date: 06/08/2017
 ---

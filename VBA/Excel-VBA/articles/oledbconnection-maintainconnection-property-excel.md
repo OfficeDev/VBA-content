@@ -3,7 +3,7 @@ title: OLEDBConnection.MaintainConnection Property (Excel)
 keywords: vbaxl10.chm794081
 f1_keywords:
 - vbaxl10.chm794081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.MaintainConnection
 ms.assetid: ce913d74-d86d-006c-4def-da04a8c630b6

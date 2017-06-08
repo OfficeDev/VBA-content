@@ -3,7 +3,7 @@ title: SeriesLines Property
 keywords: vbagr10.chm5207974
 f1_keywords:
 - vbagr10.chm5207974
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SeriesLines
 ms.assetid: ebfea917-8678-7d05-df9d-2102f396ea59

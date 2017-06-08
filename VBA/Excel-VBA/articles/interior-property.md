@@ -3,7 +3,7 @@ title: Interior Property
 keywords: vbagr10.chm65665
 f1_keywords:
 - vbagr10.chm65665
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior
 ms.assetid: 5e1fd240-62f6-bb27-8590-283d295ffc76

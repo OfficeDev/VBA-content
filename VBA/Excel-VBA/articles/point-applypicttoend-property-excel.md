@@ -3,7 +3,7 @@ title: Point.ApplyPictToEnd Property (Excel)
 keywords: vbaxl10.chm576096
 f1_keywords:
 - vbaxl10.chm576096
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.ApplyPictToEnd
 ms.assetid: 9f814b2a-6c39-c0d9-0869-0df023c60e2c

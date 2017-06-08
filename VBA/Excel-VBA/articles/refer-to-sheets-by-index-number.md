@@ -3,7 +3,7 @@ title: Refer to Sheets by Index Number
 keywords: vbaxl10.chm5204441
 f1_keywords:
 - vbaxl10.chm5204441
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: dc947b43-8e96-733a-72e8-3487a4ad9e96
 ms.date: 06/08/2017
 ---

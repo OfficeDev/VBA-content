@@ -3,7 +3,7 @@ title: ChartObjects.Count Property (Excel)
 keywords: vbaxl10.chm497104
 f1_keywords:
 - vbaxl10.chm497104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObjects.Count
 ms.assetid: 28d3d9fd-cf58-8b95-3f14-c336bcee1bb5

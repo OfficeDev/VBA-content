@@ -3,7 +3,7 @@ title: FormatConditions.AddColorScale Method (Excel)
 keywords: vbaxl10.chm510079
 f1_keywords:
 - vbaxl10.chm510079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddColorScale
 ms.assetid: f1b23e2f-0c62-fdc5-597b-a8a444d5a4a3

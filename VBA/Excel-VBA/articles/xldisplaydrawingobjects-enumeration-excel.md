@@ -1,6 +1,6 @@
 ---
 title: XlDisplayDrawingObjects Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDisplayDrawingObjects
 ms.assetid: 7b7b8ef6-8cd9-db48-661f-877ed47e57f1

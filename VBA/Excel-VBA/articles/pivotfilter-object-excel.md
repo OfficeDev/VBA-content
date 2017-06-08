@@ -3,7 +3,7 @@ title: PivotFilter Object (Excel)
 keywords: vbaxl10.chm769072
 f1_keywords:
 - vbaxl10.chm769072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFilter
 ms.assetid: 70c27dc9-2c19-47d2-307b-808507039d94

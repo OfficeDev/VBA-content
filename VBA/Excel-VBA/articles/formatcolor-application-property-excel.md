@@ -3,7 +3,7 @@ title: FormatColor.Application Property (Excel)
 keywords: vbaxl10.chm801073
 f1_keywords:
 - vbaxl10.chm801073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatColor.Application
 ms.assetid: e18c38ac-4d08-3350-6ba7-62d959d1c31a

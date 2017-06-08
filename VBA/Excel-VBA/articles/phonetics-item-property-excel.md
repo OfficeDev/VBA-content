@@ -3,7 +3,7 @@ title: Phonetics.Item Property (Excel)
 keywords: vbaxl10.chm658080
 f1_keywords:
 - vbaxl10.chm658080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetics.Item
 ms.assetid: 41c2df73-fb88-fe1a-a4ff-4562441b1510

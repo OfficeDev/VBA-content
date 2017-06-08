@@ -3,7 +3,7 @@ title: WorksheetFunction.Permutationa Method (Excel)
 keywords: vbaxl10.chm137442
 f1_keywords:
 - vbaxl10.chm137442
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 67dfd5dd-37af-acc6-f09c-3c5a74523e2f
 ms.date: 06/08/2017
 ---

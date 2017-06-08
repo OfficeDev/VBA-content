@@ -3,7 +3,7 @@ title: VPageBreak.Type Property (Excel)
 keywords: vbaxl10.chm156076
 f1_keywords:
 - vbaxl10.chm156076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.VPageBreak.Type
 ms.assetid: 978801d6-2b21-39a4-4002-b09dd14a03f4

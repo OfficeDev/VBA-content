@@ -3,7 +3,7 @@ title: PivotCache.SavePassword Property (Excel)
 keywords: vbaxl10.chm227085
 f1_keywords:
 - vbaxl10.chm227085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.SavePassword
 ms.assetid: 6ddc953a-b014-589b-5b67-7497da9df706

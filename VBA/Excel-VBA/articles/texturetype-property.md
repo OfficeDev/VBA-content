@@ -3,7 +3,7 @@ title: TextureType Property
 keywords: vbagr10.chm3077593
 f1_keywords:
 - vbagr10.chm3077593
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextureType
 ms.assetid: ba60a953-c506-ff49-0945-aa222dcd5f43

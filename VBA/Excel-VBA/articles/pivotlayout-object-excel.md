@@ -3,7 +3,7 @@ title: PivotLayout Object (Excel)
 keywords: vbaxl10.chm663072
 f1_keywords:
 - vbaxl10.chm663072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLayout
 ms.assetid: cfef617e-f49a-e969-7873-40593412a32e

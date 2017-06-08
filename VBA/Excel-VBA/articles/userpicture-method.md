@@ -3,7 +3,7 @@ title: UserPicture Method
 keywords: vbagr10.chm67165
 f1_keywords:
 - vbagr10.chm67165
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserPicture
 ms.assetid: ad8e3079-c063-2bb6-e462-11a0e8ecfba6

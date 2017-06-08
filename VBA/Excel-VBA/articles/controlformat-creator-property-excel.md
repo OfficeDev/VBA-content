@@ -3,7 +3,7 @@ title: ControlFormat.Creator Property (Excel)
 keywords: vbaxl10.chm629074
 f1_keywords:
 - vbaxl10.chm629074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.Creator
 ms.assetid: d3174b4f-70ad-4026-2205-8f71c8f1338a

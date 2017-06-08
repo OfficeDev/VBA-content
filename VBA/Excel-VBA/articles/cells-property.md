@@ -3,7 +3,7 @@ title: Cells Property
 keywords: vbagr10.chm65774
 f1_keywords:
 - vbagr10.chm65774
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Cells
 ms.assetid: 43d4d8ba-ae6b-90b8-6f83-bbb75a7cbccb

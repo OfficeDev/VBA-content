@@ -3,7 +3,7 @@ title: PictureFormat.IncrementBrightness Method (Excel)
 keywords: vbaxl10.chm113020
 f1_keywords:
 - vbaxl10.chm113020
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureFormat.IncrementBrightness
 ms.assetid: 3f75ff17-6cd6-e397-468c-6bf0d1307578

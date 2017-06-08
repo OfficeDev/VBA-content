@@ -3,7 +3,7 @@ title: Axis.MinorTickMark Property (Excel)
 keywords: vbaxl10.chm561093
 f1_keywords:
 - vbaxl10.chm561093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.MinorTickMark
 ms.assetid: 27b0ab28-4690-e493-9eb9-8651bec5ccb8

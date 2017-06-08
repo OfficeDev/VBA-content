@@ -3,7 +3,7 @@ title: PivotTable.VacatedStyle Property (Excel)
 keywords: vbaxl10.chm235129
 f1_keywords:
 - vbaxl10.chm235129
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.VacatedStyle
 ms.assetid: 94be037f-3fce-ad39-9dd6-b72f829c3fbf

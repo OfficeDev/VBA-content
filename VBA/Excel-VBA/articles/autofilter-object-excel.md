@@ -3,7 +3,7 @@ title: AutoFilter Object (Excel)
 keywords: vbaxl10.chm537072
 f1_keywords:
 - vbaxl10.chm537072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoFilter
 ms.assetid: 1a6fcf3b-52be-b599-029b-a3c53d12f85e

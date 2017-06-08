@@ -3,7 +3,7 @@ title: FormatCondition.Formula1 Property (Excel)
 keywords: vbaxl10.chm512076
 f1_keywords:
 - vbaxl10.chm512076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.Formula1
 ms.assetid: f711069a-0d4b-d70c-ed48-9c375ce29173

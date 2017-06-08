@@ -3,7 +3,7 @@ title: ChartFormat.Line Property (Excel)
 keywords: vbaxl10.chm861075
 f1_keywords:
 - vbaxl10.chm861075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFormat.Line
 ms.assetid: 777defcb-2b8a-8b4b-4282-eea5c9a65b1c

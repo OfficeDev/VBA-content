@@ -3,7 +3,7 @@ title: GroupShapes.Range Property (Excel)
 keywords: vbaxl10.chm642077
 f1_keywords:
 - vbaxl10.chm642077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GroupShapes.Range
 ms.assetid: b02b1915-2cd2-353b-0243-a5d60470e897

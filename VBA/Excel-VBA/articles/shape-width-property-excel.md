@@ -3,7 +3,7 @@ title: Shape.Width Property (Excel)
 keywords: vbaxl10.chm636115
 f1_keywords:
 - vbaxl10.chm636115
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Width
 ms.assetid: b5dac16e-0f77-a96c-67aa-626e452419f8

@@ -3,7 +3,7 @@ title: Databar.PercentMin Property (Excel)
 keywords: vbaxl10.chm810078
 f1_keywords:
 - vbaxl10.chm810078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.PercentMin
 ms.assetid: bd8670f9-ae0b-3a1c-5b14-84cc00638b6e

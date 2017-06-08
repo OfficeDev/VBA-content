@@ -3,7 +3,7 @@ title: Chart.Application Property (Excel)
 keywords: vbaxl10.chm147073
 f1_keywords:
 - vbaxl10.chm147073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Application
 ms.assetid: b3c44d53-82d5-dcfd-a9f7-c2aee2aa7358

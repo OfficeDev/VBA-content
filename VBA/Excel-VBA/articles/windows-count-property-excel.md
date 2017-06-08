@@ -3,7 +3,7 @@ title: Windows.Count Property (Excel)
 keywords: vbaxl10.chm354074
 f1_keywords:
 - vbaxl10.chm354074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Windows.Count
 ms.assetid: f1b4d304-8431-41a5-9e8e-ca2d4da44625

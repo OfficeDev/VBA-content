@@ -3,7 +3,7 @@ title: WorksheetFunction.ImDiv Method (Excel)
 keywords: vbaxl10.chm137274
 f1_keywords:
 - vbaxl10.chm137274
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImDiv
 ms.assetid: 6379d38c-032c-da1e-b71d-cb32f59df51d

@@ -3,7 +3,7 @@ title: Range.AdvancedFilter Method (Excel)
 keywords: vbaxl10.chm144078
 f1_keywords:
 - vbaxl10.chm144078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.AdvancedFilter
 ms.assetid: fe1a19fc-ab0f-6149-25d9-6102d5789757

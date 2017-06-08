@@ -3,7 +3,7 @@ title: Shape.Chart Property (Excel)
 keywords: vbaxl10.chm636146
 f1_keywords:
 - vbaxl10.chm636146
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Chart
 ms.assetid: 99022573-a117-cd22-1810-4d734349067d

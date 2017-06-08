@@ -3,7 +3,7 @@ title: ColorStop.ThemeColor Property (Excel)
 keywords: vbaxl10.chm851075
 f1_keywords:
 - vbaxl10.chm851075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStop.ThemeColor
 ms.assetid: bb650754-204a-3618-d431-bf7db289ceeb

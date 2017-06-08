@@ -3,7 +3,7 @@ title: Application.Caller Property (Excel)
 keywords: vbaxl10.chm133085
 f1_keywords:
 - vbaxl10.chm133085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Caller
 ms.assetid: 0cfec08d-3cbc-0ab1-419a-f5b5702c3969

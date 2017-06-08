@@ -3,7 +3,7 @@ title: WorkbookConnection.Parent Property (Excel)
 keywords: vbaxl10.chm773075
 f1_keywords:
 - vbaxl10.chm773075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Parent
 ms.assetid: 52437017-a6cd-405f-246a-6c7e87724459

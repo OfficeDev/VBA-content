@@ -3,7 +3,7 @@ title: SortField.SortOnValue Property (Excel)
 keywords: vbaxl10.chm843074
 f1_keywords:
 - vbaxl10.chm843074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SortField.SortOnValue
 ms.assetid: eeaaf959-71d2-99a3-7e66-61744ad4709e

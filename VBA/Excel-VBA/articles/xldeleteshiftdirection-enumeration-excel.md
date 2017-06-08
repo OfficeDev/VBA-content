@@ -1,6 +1,6 @@
 ---
 title: XlDeleteShiftDirection Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlDeleteShiftDirection
 ms.assetid: f9224480-48c5-d65e-3af1-74c345242d4a

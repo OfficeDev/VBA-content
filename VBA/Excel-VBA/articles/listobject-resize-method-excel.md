@@ -3,7 +3,7 @@ title: ListObject.Resize Method (Excel)
 keywords: vbaxl10.chm734079
 f1_keywords:
 - vbaxl10.chm734079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObject.Resize
 ms.assetid: b9a0ae05-d1cd-3ce6-f4ae-6a539850a1b5

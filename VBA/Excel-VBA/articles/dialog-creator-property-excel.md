@@ -3,7 +3,7 @@ title: Dialog.Creator Property (Excel)
 keywords: vbaxl10.chm255074
 f1_keywords:
 - vbaxl10.chm255074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Dialog.Creator
 ms.assetid: d912fae1-0b08-ff00-ad84-eab8e8e88340

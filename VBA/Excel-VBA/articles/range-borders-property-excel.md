@@ -3,7 +3,7 @@ title: Range.Borders Property (Excel)
 keywords: vbaxl10.chm144089
 f1_keywords:
 - vbaxl10.chm144089
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Borders
 ms.assetid: 6d313fed-a8f0-94ba-e239-813685cd1d58

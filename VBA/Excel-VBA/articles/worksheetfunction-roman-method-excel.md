@@ -3,7 +3,7 @@ title: WorksheetFunction.Roman Method (Excel)
 keywords: vbaxl10.chm137245
 f1_keywords:
 - vbaxl10.chm137245
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Roman
 ms.assetid: 59c27951-ad7e-7fe9-af5c-91ff1c68e7d4

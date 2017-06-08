@@ -3,7 +3,7 @@ title: Worksheet.ProtectScenarios Property (Excel)
 keywords: vbaxl10.chm174093
 f1_keywords:
 - vbaxl10.chm174093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.ProtectScenarios
 ms.assetid: 7b0aacea-00f3-7f0a-2be1-693f0efbec88

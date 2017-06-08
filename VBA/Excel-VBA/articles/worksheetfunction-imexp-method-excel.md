@@ -3,7 +3,7 @@ title: WorksheetFunction.ImExp Method (Excel)
 keywords: vbaxl10.chm137283
 f1_keywords:
 - vbaxl10.chm137283
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImExp
 ms.assetid: 38072c27-dbd3-cdc6-a69a-f1782af7eb9c

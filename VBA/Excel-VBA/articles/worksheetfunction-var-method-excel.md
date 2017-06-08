@@ -3,7 +3,7 @@ title: WorksheetFunction.Var Method (Excel)
 keywords: vbaxl10.chm137100
 f1_keywords:
 - vbaxl10.chm137100
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Var
 ms.assetid: 8e6871ad-ed1e-cc64-3bf1-5470c41cbb96

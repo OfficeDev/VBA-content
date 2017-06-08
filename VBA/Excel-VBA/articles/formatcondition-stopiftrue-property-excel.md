@@ -3,7 +3,7 @@ title: FormatCondition.StopIfTrue Property (Excel)
 keywords: vbaxl10.chm512088
 f1_keywords:
 - vbaxl10.chm512088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatCondition.StopIfTrue
 ms.assetid: c6f4d030-a4de-3708-b830-ea6ffb836028

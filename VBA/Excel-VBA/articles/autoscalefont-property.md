@@ -3,7 +3,7 @@ title: AutoScaleFont Property
 keywords: vbagr10.chm5207069
 f1_keywords:
 - vbagr10.chm5207069
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoScaleFont
 ms.assetid: cb21d2e7-d3b9-e135-03ba-6d45275d4590

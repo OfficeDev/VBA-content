@@ -3,7 +3,7 @@ title: Chart.Axes Method (Excel)
 keywords: vbaxl10.chm149081
 f1_keywords:
 - vbaxl10.chm149081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Axes
 ms.assetid: d0520f61-9aff-894b-9975-37dcb5b5fe3c

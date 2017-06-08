@@ -3,7 +3,7 @@ title: PivotField.ChildItems Property (Excel)
 keywords: vbaxl10.chm240076
 f1_keywords:
 - vbaxl10.chm240076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.ChildItems
 ms.assetid: c05a0e29-86a2-d71f-c2f0-f5395f6897fe

@@ -3,7 +3,7 @@ title: Range.ApplyOutlineStyles Method (Excel)
 keywords: vbaxl10.chm144080
 f1_keywords:
 - vbaxl10.chm144080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.ApplyOutlineStyles
 ms.assetid: eab9b4ed-5d4c-8205-63f2-fa8e4539da73

@@ -3,7 +3,7 @@ title: Window.Caption Property (Excel)
 keywords: vbaxl10.chm356080
 f1_keywords:
 - vbaxl10.chm356080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Window.Caption
 ms.assetid: d8a5ca13-90b8-d7ce-d041-2cdc544789e5

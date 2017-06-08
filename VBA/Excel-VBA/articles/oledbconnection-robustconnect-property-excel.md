@@ -3,7 +3,7 @@ title: OLEDBConnection.RobustConnect Property (Excel)
 keywords: vbaxl10.chm794088
 f1_keywords:
 - vbaxl10.chm794088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.RobustConnect
 ms.assetid: 47ca146c-54ba-b2d5-6d16-15571daf08f3

@@ -3,7 +3,7 @@ title: OLEDBConnection.RefreshOnFileOpen Property (Excel)
 keywords: vbaxl10.chm794086
 f1_keywords:
 - vbaxl10.chm794086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.RefreshOnFileOpen
 ms.assetid: 09a0b59d-7a6e-65a6-d72a-14460d787ed9

@@ -3,7 +3,7 @@ title: RectangularGradient.Parent Property (Excel)
 keywords: vbaxl10.chm856075
 f1_keywords:
 - vbaxl10.chm856075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RectangularGradient.Parent
 ms.assetid: ad63ed29-b62c-ea55-76b3-88d0354b35ca

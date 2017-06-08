@@ -3,7 +3,7 @@ title: CalculatedFields.Application Property (Excel)
 keywords: vbaxl10.chm243073
 f1_keywords:
 - vbaxl10.chm243073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedFields.Application
 ms.assetid: 081d747a-4382-dd94-ce05-b2248b745f2a

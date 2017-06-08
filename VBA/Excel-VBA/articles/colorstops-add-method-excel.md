@@ -3,7 +3,7 @@ title: ColorStops.Add Method (Excel)
 keywords: vbaxl10.chm853074
 f1_keywords:
 - vbaxl10.chm853074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ColorStops.Add
 ms.assetid: 121c48bf-0b68-89c9-6a03-f7a403b52fee

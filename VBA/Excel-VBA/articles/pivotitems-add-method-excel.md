@@ -3,7 +3,7 @@ title: PivotItems.Add Method (Excel)
 keywords: vbaxl10.chm248074
 f1_keywords:
 - vbaxl10.chm248074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotItems.Add
 ms.assetid: 2d24bb3f-e765-c78c-bef0-787db82056c7

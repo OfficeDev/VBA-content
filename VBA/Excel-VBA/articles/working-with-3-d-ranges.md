@@ -3,7 +3,7 @@ title: Working with 3-D Ranges
 keywords: vbaxl10.chm5206007
 f1_keywords:
 - vbaxl10.chm5206007
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: f80e1976-6d24-8539-8dbe-f0072bbac60f
 ms.date: 06/08/2017
 ---

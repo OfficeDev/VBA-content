@@ -3,7 +3,7 @@ title: Corners Object
 keywords: vbagr10.chm131200
 f1_keywords:
 - vbagr10.chm131200
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Corners
 ms.assetid: 2b85affa-f501-5458-67f1-f167bc422507

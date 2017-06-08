@@ -3,7 +3,7 @@ title: Control and Dialog Box Events
 keywords: vbaxl10.chm5200101
 f1_keywords:
 - vbaxl10.chm5200101
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: c494c76d-a712-d3fc-1eb2-37680b2239c3
 ms.date: 06/08/2017
 ---

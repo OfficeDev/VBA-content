@@ -3,7 +3,7 @@ title: Range.SubscribeTo Method (Excel)
 keywords: vbaxl10.chm144205
 f1_keywords:
 - vbaxl10.chm144205
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.SubscribeTo
 ms.assetid: 6120c474-f4a9-0dce-dae4-a8b39f3d3656

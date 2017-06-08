@@ -3,7 +3,7 @@ title: Shapes.AddFormControl Method (Excel)
 keywords: vbaxl10.chm638090
 f1_keywords:
 - vbaxl10.chm638090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddFormControl
 ms.assetid: c1654020-630c-b988-54f1-99a2f2a93e56

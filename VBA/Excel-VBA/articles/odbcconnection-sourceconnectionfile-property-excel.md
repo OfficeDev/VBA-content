@@ -3,7 +3,7 @@ title: ODBCConnection.SourceConnectionFile Property (Excel)
 keywords: vbaxl10.chm796087
 f1_keywords:
 - vbaxl10.chm796087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.SourceConnectionFile
 ms.assetid: 0e38ca83-522e-769a-9e07-6d9e78ceecea

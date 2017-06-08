@@ -3,7 +3,7 @@ title: Application.ProtectedViewWindowResize Event (Excel)
 keywords: vbaxl10.chm504111
 f1_keywords:
 - vbaxl10.chm504111
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowResize
 ms.assetid: 9ecac960-8ed3-f0be-9e93-3793c49d2b76

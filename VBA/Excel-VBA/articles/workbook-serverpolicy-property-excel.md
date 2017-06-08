@@ -3,7 +3,7 @@ title: Workbook.ServerPolicy Property (Excel)
 keywords: vbaxl10.chm199239
 f1_keywords:
 - vbaxl10.chm199239
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ServerPolicy
 ms.assetid: 188f6c47-35e3-bb69-cb8d-9d78b5b8fea5

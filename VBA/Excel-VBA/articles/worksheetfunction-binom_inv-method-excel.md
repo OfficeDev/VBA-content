@@ -3,7 +3,7 @@ title: WorksheetFunction.Binom_Inv Method (Excel)
 keywords: vbaxl10.chm137415
 f1_keywords:
 - vbaxl10.chm137415
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Binom_Inv
 ms.assetid: 30af29b2-fc97-656b-d703-905caf7fcbb5

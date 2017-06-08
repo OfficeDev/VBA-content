@@ -3,7 +3,7 @@ title: CellFormat.Application Property (Excel)
 keywords: vbaxl10.chm675073
 f1_keywords:
 - vbaxl10.chm675073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.Application
 ms.assetid: 4e3e67ce-3691-e612-7a87-681c84600169

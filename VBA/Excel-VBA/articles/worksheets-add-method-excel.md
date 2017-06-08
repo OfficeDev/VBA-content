@@ -3,7 +3,7 @@ title: Worksheets.Add Method (Excel)
 keywords: vbaxl10.chm470073
 f1_keywords:
 - vbaxl10.chm470073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheets.Add
 ms.assetid: c771d87a-64e1-e292-9db4-54386a69301e

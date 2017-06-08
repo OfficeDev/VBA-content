@@ -3,7 +3,7 @@ title: Hyperlink.Follow Method (Excel)
 keywords: vbaxl10.chm536082
 f1_keywords:
 - vbaxl10.chm536082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Hyperlink.Follow
 ms.assetid: cdf02d4c-9987-eaed-061b-0f3813d4204b

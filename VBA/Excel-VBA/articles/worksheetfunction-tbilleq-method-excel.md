@@ -3,7 +3,7 @@ title: WorksheetFunction.TBillEq Method (Excel)
 keywords: vbaxl10.chm137315
 f1_keywords:
 - vbaxl10.chm137315
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.TBillEq
 ms.assetid: 4b52fbb3-5d25-3fae-cdf8-ec3d406ce787

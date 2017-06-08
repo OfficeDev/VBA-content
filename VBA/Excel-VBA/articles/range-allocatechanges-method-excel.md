@@ -3,7 +3,7 @@ title: Range.AllocateChanges Method (Excel)
 keywords: vbaxl10.chm144253
 f1_keywords:
 - vbaxl10.chm144253
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.AllocateChanges
 ms.assetid: c751c5fb-ce22-64d1-669c-fdb064cf0408

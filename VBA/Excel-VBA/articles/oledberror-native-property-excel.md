@@ -3,7 +3,7 @@ title: OLEDBError.Native Property (Excel)
 keywords: vbaxl10.chm654075
 f1_keywords:
 - vbaxl10.chm654075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBError.Native
 ms.assetid: 2eae623f-7803-b3ce-467b-ee4f9c5c8c20

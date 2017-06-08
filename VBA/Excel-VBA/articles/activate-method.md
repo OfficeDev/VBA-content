@@ -3,7 +3,7 @@ title: Activate Method
 keywords: vbagr10.chm5206998
 f1_keywords:
 - vbagr10.chm5206998
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Activate
 ms.assetid: 20d0c11c-3ca1-4091-868a-1dcef50a2eba

@@ -3,7 +3,7 @@ title: Application.Union Method (Excel)
 keywords: vbaxl10.chm132112
 f1_keywords:
 - vbaxl10.chm132112
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Union
 ms.assetid: 7c70a5be-2696-5fc2-bd69-6c6ff4d3291e

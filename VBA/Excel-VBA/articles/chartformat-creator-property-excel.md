@@ -3,7 +3,7 @@ title: ChartFormat.Creator Property (Excel)
 keywords: vbaxl10.chm860074
 f1_keywords:
 - vbaxl10.chm860074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartFormat.Creator
 ms.assetid: 17992dc8-ef3c-2bac-2c52-8523c71424b9

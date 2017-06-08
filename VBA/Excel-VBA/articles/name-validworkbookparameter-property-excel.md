@@ -3,7 +3,7 @@ title: Name.ValidWorkbookParameter Property (Excel)
 keywords: vbaxl10.chm490091
 f1_keywords:
 - vbaxl10.chm490091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Name.ValidWorkbookParameter
 ms.assetid: fd8bef70-af4f-af01-1956-24b50ea210be

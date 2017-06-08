@@ -3,7 +3,7 @@ title: CalculatedItems.Creator Property (Excel)
 keywords: vbaxl10.chm249074
 f1_keywords:
 - vbaxl10.chm249074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Creator
 ms.assetid: 4ae7771b-4ea6-435e-b255-35320764fc77

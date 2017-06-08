@@ -3,7 +3,7 @@ title: ODBCConnection.Parent Property (Excel)
 keywords: vbaxl10.chm795075
 f1_keywords:
 - vbaxl10.chm795075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ODBCConnection.Parent
 ms.assetid: 8be7ab8c-b210-8503-6da5-3b669a711d2f

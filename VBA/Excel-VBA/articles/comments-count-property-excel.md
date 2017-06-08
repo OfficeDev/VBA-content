@@ -3,7 +3,7 @@ title: Comments.Count Property (Excel)
 keywords: vbaxl10.chm514073
 f1_keywords:
 - vbaxl10.chm514073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comments.Count
 ms.assetid: f2e80d61-d9ed-1f5b-3e28-07178174c4c4

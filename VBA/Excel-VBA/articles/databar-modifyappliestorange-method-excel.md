@@ -3,7 +3,7 @@ title: Databar.ModifyAppliesToRange Method (Excel)
 keywords: vbaxl10.chm810087
 f1_keywords:
 - vbaxl10.chm810087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Databar.ModifyAppliesToRange
 ms.assetid: d1da8a48-3b62-c7ff-007b-f1629fa44ab7

@@ -3,7 +3,7 @@ title: Range.Hyperlinks Property (Excel)
 keywords: vbaxl10.chm144228
 f1_keywords:
 - vbaxl10.chm144228
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Hyperlinks
 ms.assetid: d77f695a-faf2-ce9c-1464-f54b76ee52c9

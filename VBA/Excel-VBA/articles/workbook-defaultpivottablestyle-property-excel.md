@@ -3,7 +3,7 @@ title: Workbook.DefaultPivotTableStyle Property (Excel)
 keywords: vbaxl10.chm199248
 f1_keywords:
 - vbaxl10.chm199248
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.DefaultPivotTableStyle
 ms.assetid: 8e2ca78a-4eb1-1b1e-c947-8a724f6d690a

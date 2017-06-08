@@ -3,7 +3,7 @@ title: SpellingOptions.PortugalReform Property (Excel)
 keywords: vbaxl10.chm717090
 f1_keywords:
 - vbaxl10.chm717090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.PortugalReform
 ms.assetid: 6ab330e3-16ea-777b-0cfa-74c1627b52af

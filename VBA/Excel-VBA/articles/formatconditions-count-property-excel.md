@@ -3,7 +3,7 @@ title: FormatConditions.Count Property (Excel)
 keywords: vbaxl10.chm510073
 f1_keywords:
 - vbaxl10.chm510073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.Count
 ms.assetid: debca7e6-3dac-a54e-6656-ea7001f3dbdf

@@ -3,7 +3,7 @@ title: Application.Quit Method (Excel)
 keywords: vbaxl10.chm133194
 f1_keywords:
 - vbaxl10.chm133194
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.Quit
 ms.assetid: d01de494-95c7-6e3e-3049-f89b31aa9d0c

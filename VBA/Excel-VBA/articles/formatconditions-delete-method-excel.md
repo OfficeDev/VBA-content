@@ -3,7 +3,7 @@ title: FormatConditions.Delete Method (Excel)
 keywords: vbaxl10.chm510078
 f1_keywords:
 - vbaxl10.chm510078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FormatConditions.Delete
 ms.assetid: d805b61f-13de-4381-b9e4-97603a3c9da3

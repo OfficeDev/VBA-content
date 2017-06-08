@@ -3,7 +3,7 @@ title: WorksheetFunction.Lcm Method (Excel)
 keywords: vbaxl10.chm137351
 f1_keywords:
 - vbaxl10.chm137351
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Lcm
 ms.assetid: 42092d1d-1328-5c05-298c-3b9a77a5a0bd

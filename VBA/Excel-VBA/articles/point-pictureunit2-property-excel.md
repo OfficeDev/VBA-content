@@ -3,7 +3,7 @@ title: Point.PictureUnit2 Property (Excel)
 keywords: vbaxl10.chm576102
 f1_keywords:
 - vbaxl10.chm576102
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.PictureUnit2
 ms.assetid: adddcc7a-9d88-3b72-1279-b7d0e1894c6d

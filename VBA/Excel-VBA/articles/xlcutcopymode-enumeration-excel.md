@@ -1,6 +1,6 @@
 ---
 title: XlCutCopyMode Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlCutCopyMode
 ms.assetid: 04e58445-10c2-66ef-42a4-9e681c4cd4f5

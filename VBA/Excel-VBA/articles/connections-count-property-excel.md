@@ -3,7 +3,7 @@ title: Connections.Count Property (Excel)
 keywords: vbaxl10.chm776073
 f1_keywords:
 - vbaxl10.chm776073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Connections.Count
 ms.assetid: ccd881e6-0869-0067-8d24-20e9cf5fc7ef

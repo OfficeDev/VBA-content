@@ -3,7 +3,7 @@ title: PivotCell.CellChanged Property (Excel)
 keywords: vbaxl10.chm692088
 f1_keywords:
 - vbaxl10.chm692088
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.CellChanged
 ms.assetid: fc2ba7b5-4dfe-4b05-922e-2ac079c5afb1

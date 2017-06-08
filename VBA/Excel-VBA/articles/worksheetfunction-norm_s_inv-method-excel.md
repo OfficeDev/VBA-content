@@ -3,7 +3,7 @@ title: WorksheetFunction.Norm_S_Inv Method (Excel)
 keywords: vbaxl10.chm137411
 f1_keywords:
 - vbaxl10.chm137411
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_S_Inv
 ms.assetid: 731c1354-2f2e-8fa8-3ced-576dd4d3ce1c

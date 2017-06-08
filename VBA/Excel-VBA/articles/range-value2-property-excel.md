@@ -3,7 +3,7 @@ title: Range.Value2 Property (Excel)
 keywords: vbaxl10.chm144217
 f1_keywords:
 - vbaxl10.chm144217
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Value2
 ms.assetid: 0a5d7e6f-2886-5048-66ad-a5078e3465e7

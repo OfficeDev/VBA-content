@@ -3,7 +3,7 @@ title: PivotField.StandardFormula Property (Excel)
 keywords: vbaxl10.chm240128
 f1_keywords:
 - vbaxl10.chm240128
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotField.StandardFormula
 ms.assetid: 14d5cd3e-29d8-a70a-b52b-41c42252ef7c

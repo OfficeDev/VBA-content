@@ -3,7 +3,7 @@ title: Borders.Value Property (Excel)
 keywords: vbaxl10.chm181079
 f1_keywords:
 - vbaxl10.chm181079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Borders.Value
 ms.assetid: 9415589c-f698-a09d-d232-cf2ca32e6b11

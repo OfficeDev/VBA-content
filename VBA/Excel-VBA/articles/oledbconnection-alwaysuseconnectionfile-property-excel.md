@@ -3,7 +3,7 @@ title: OLEDBConnection.AlwaysUseConnectionFile Property (Excel)
 keywords: vbaxl10.chm794099
 f1_keywords:
 - vbaxl10.chm794099
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.AlwaysUseConnectionFile
 ms.assetid: de9cd9a7-0dd6-7ee2-d48f-bd61a7006c1e

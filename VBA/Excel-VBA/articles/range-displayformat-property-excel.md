@@ -3,7 +3,7 @@ title: Range.DisplayFormat Property (Excel)
 keywords: vbaxl10.chm144251
 f1_keywords:
 - vbaxl10.chm144251
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.DisplayFormat
 ms.assetid: c4e044e2-a04e-b655-2973-7e02897ca49d

@@ -3,7 +3,7 @@ title: Range.FormulaR1C1 Property (Excel)
 keywords: vbaxl10.chm144137
 f1_keywords:
 - vbaxl10.chm144137
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.FormulaR1C1
 ms.assetid: 76f41bf6-94e2-2e6a-30e4-012a735a3374

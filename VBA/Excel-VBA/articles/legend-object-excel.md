@@ -3,7 +3,7 @@ title: Legend Object (Excel)
 keywords: vbaxl10.chm621072
 f1_keywords:
 - vbaxl10.chm621072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Legend
 ms.assetid: 9be53984-bc9c-f964-9ab3-be52d3699bd9

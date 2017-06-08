@@ -3,7 +3,7 @@ title: Application.RecordMacro Method (Excel)
 keywords: vbaxl10.chm133195
 f1_keywords:
 - vbaxl10.chm133195
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.RecordMacro
 ms.assetid: 8b6c9757-b589-04e6-5650-edfc4104e517

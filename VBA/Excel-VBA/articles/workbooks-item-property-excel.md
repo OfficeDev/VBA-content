@@ -3,7 +3,7 @@ title: Workbooks.Item Property (Excel)
 keywords: vbaxl10.chm203076
 f1_keywords:
 - vbaxl10.chm203076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbooks.Item
 ms.assetid: 2f01412d-8ba0-6911-81d3-e464a44354b5

@@ -3,7 +3,7 @@ title: FillFormat.ForeColor Property (Excel)
 keywords: vbaxl10.chm115012
 f1_keywords:
 - vbaxl10.chm115012
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FillFormat.ForeColor
 ms.assetid: e5ee9372-6737-e9aa-4d74-24991ae2007e

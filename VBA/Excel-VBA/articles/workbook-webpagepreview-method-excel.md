@@ -3,7 +3,7 @@ title: Workbook.WebPagePreview Method (Excel)
 keywords: vbaxl10.chm199186
 f1_keywords:
 - vbaxl10.chm199186
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.WebPagePreview
 ms.assetid: 2c88f15e-5cd3-82da-f779-55b63959a2b0

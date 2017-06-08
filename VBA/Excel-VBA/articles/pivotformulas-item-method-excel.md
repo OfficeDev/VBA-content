@@ -3,7 +3,7 @@ title: PivotFormulas.Item Method (Excel)
 keywords: vbaxl10.chm233075
 f1_keywords:
 - vbaxl10.chm233075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotFormulas.Item
 ms.assetid: 023f5702-9e18-f5d1-82b8-2603a98eb0b2

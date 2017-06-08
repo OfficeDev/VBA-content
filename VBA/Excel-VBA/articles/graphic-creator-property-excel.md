@@ -3,7 +3,7 @@ title: Graphic.Creator Property (Excel)
 keywords: vbaxl10.chm693074
 f1_keywords:
 - vbaxl10.chm693074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Graphic.Creator
 ms.assetid: bdd37124-b533-8913-c718-b269e8b1b887

@@ -1,6 +1,6 @@
 ---
 title: XlInsertFormatOrigin Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlInsertFormatOrigin
 ms.assetid: 22e192ab-f0da-e680-067c-89e2aa171ff8

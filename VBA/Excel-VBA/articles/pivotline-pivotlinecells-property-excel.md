@@ -3,7 +3,7 @@ title: PivotLine.PivotLineCells Property (Excel)
 keywords: vbaxl10.chm764075
 f1_keywords:
 - vbaxl10.chm764075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLine.PivotLineCells
 ms.assetid: b020940c-4f00-e962-a49b-3ed322bb16f6

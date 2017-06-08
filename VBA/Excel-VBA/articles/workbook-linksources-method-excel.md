@@ -3,7 +3,7 @@ title: Workbook.LinkSources Method (Excel)
 keywords: vbaxl10.chm199109
 f1_keywords:
 - vbaxl10.chm199109
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.LinkSources
 ms.assetid: 6466bea0-5af8-7af0-e9d7-7595133073ae

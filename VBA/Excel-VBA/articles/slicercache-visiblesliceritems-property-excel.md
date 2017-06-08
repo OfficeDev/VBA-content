@@ -3,7 +3,7 @@ title: SlicerCache.VisibleSlicerItems Property (Excel)
 keywords: vbaxl10.chm897081
 f1_keywords:
 - vbaxl10.chm897081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SlicerCache.VisibleSlicerItems
 ms.assetid: ea9d1b43-1280-5423-515f-8d00e0624901

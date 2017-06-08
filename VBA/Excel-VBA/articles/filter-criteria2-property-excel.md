@@ -3,7 +3,7 @@ title: Filter.Criteria2 Property (Excel)
 keywords: vbaxl10.chm542076
 f1_keywords:
 - vbaxl10.chm542076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Filter.Criteria2
 ms.assetid: 73bd97f8-8ee7-b2a0-8f9c-6a20e3e11d09

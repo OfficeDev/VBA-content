@@ -3,7 +3,7 @@ title: Interior.Application Property (Excel)
 keywords: vbaxl10.chm550073
 f1_keywords:
 - vbaxl10.chm550073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.Application
 ms.assetid: d278fe57-7082-131d-6f14-34def9fd1838

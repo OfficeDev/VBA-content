@@ -3,7 +3,7 @@ title: Worksheet.SaveAs Method (Excel)
 keywords: vbaxl10.chm175151
 f1_keywords:
 - vbaxl10.chm175151
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.SaveAs
 ms.assetid: 2c20ccd0-c4b8-599f-3923-a432caeb6b91

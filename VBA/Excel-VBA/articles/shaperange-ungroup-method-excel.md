@@ -3,7 +3,7 @@ title: ShapeRange.Ungroup Method (Excel)
 keywords: vbaxl10.chm640094
 f1_keywords:
 - vbaxl10.chm640094
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeRange.Ungroup
 ms.assetid: d7794250-e4b4-6998-e43d-4b41475ac6c9

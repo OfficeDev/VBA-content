@@ -3,7 +3,7 @@ title: HPageBreak.Delete Method (Excel)
 keywords: vbaxl10.chm159074
 f1_keywords:
 - vbaxl10.chm159074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HPageBreak.Delete
 ms.assetid: 27eaaae7-ddc7-a663-b577-b1554a25b5e6

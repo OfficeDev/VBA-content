@@ -3,7 +3,7 @@ title: DownBars.Parent Property (Excel)
 keywords: vbaxl10.chm610073
 f1_keywords:
 - vbaxl10.chm610073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DownBars.Parent
 ms.assetid: 04c8449e-0fc2-296d-1629-ab3e15168fe6

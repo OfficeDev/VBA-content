@@ -3,7 +3,7 @@ title: WorksheetFunction.ImSin Method (Excel)
 keywords: vbaxl10.chm137281
 f1_keywords:
 - vbaxl10.chm137281
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImSin
 ms.assetid: 1c9d4442-954e-3943-747f-647f49b4257c

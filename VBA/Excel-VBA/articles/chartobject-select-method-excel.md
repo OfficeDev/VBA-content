@@ -3,7 +3,7 @@ title: ChartObject.Select Method (Excel)
 keywords: vbaxl10.chm494090
 f1_keywords:
 - vbaxl10.chm494090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartObject.Select
 ms.assetid: 76188499-f21b-40fd-f259-4cf3d5ab7716

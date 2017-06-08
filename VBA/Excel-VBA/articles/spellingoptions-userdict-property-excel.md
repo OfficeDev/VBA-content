@@ -3,7 +3,7 @@ title: SpellingOptions.UserDict Property (Excel)
 keywords: vbaxl10.chm717074
 f1_keywords:
 - vbaxl10.chm717074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SpellingOptions.UserDict
 ms.assetid: 8816b44e-98e5-8829-cb6e-af4ac4040838

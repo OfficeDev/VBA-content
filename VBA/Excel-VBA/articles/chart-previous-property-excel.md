@@ -3,7 +3,7 @@ title: Chart.Previous Property (Excel)
 keywords: vbaxl10.chm148086
 f1_keywords:
 - vbaxl10.chm148086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.Previous
 ms.assetid: c0cf65c3-6e9f-7e04-9161-13ba118f23f1

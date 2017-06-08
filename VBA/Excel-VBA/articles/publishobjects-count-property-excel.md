@@ -3,7 +3,7 @@ title: PublishObjects.Count Property (Excel)
 keywords: vbaxl10.chm650074
 f1_keywords:
 - vbaxl10.chm650074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObjects.Count
 ms.assetid: ac794ba3-1514-2a42-ed18-96ee0a9a2832

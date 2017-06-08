@@ -3,7 +3,7 @@ title: Shapes.AddConnector Method (Excel)
 keywords: vbaxl10.chm638078
 f1_keywords:
 - vbaxl10.chm638078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shapes.AddConnector
 ms.assetid: 7ea648eb-ac6b-981d-652b-40cea1b3a8da

@@ -3,7 +3,7 @@ title: Chart.ShowReportFilterFieldButtons Property (Excel)
 keywords: vbaxl10.chm149189
 f1_keywords:
 - vbaxl10.chm149189
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Chart.ShowReportFilterFieldButtons
 ms.assetid: 6b7aa6e2-2216-caef-5936-d9c9681b60db

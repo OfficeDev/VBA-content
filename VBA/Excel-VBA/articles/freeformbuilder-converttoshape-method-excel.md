@@ -3,7 +3,7 @@ title: FreeformBuilder.ConvertToShape Method (Excel)
 keywords: vbaxl10.chm648074
 f1_keywords:
 - vbaxl10.chm648074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.FreeformBuilder.ConvertToShape
 ms.assetid: 2084277d-7e6a-5675-8e46-17522c3228eb

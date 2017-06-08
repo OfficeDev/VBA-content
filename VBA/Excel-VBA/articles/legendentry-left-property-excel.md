@@ -3,7 +3,7 @@ title: LegendEntry.Left Property (Excel)
 keywords: vbaxl10.chm586080
 f1_keywords:
 - vbaxl10.chm586080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendEntry.Left
 ms.assetid: 42b0e8aa-50a1-0a98-f0c6-b5540753e8f8

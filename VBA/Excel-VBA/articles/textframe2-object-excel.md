@@ -1,6 +1,6 @@
 ---
 title: TextFrame2 Object (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TextFrame2
 ms.assetid: 66ba23e5-9b15-b954-a1db-1bd19b4eb90d

@@ -3,7 +3,7 @@ title: PivotTable.GetPivotData Method (Excel)
 keywords: vbaxl10.chm235139
 f1_keywords:
 - vbaxl10.chm235139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.GetPivotData
 ms.assetid: 2d4600dd-6ca4-569a-6f93-79f6dbd43a09

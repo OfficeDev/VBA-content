@@ -3,7 +3,7 @@ title: Application.WorkbookBeforeClose Event (Excel)
 keywords: vbaxl10.chm504084
 f1_keywords:
 - vbaxl10.chm504084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforeClose
 ms.assetid: 9c3618ea-0e5e-e4fe-20af-279826bfa7c3

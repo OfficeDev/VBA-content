@@ -3,7 +3,7 @@ title: Slicer.Width Property (Excel)
 keywords: vbaxl10.chm905078
 f1_keywords:
 - vbaxl10.chm905078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Width
 ms.assetid: 75292953-ccd6-8550-f7ec-38df79ad1db1

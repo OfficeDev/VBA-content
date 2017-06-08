@@ -3,7 +3,7 @@ title: PivotLayout.PivotTable Property (Excel)
 keywords: vbaxl10.chm664082
 f1_keywords:
 - vbaxl10.chm664082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLayout.PivotTable
 ms.assetid: b4393cb2-33d2-453b-81ef-4fada332539b

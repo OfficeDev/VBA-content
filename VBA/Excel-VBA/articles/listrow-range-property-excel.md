@@ -3,7 +3,7 @@ title: ListRow.Range Property (Excel)
 keywords: vbaxl10.chm742076
 f1_keywords:
 - vbaxl10.chm742076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListRow.Range
 ms.assetid: 261b507a-91d7-9075-1d4d-b85d6d455ee0

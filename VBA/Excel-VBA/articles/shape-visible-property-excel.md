@@ -3,7 +3,7 @@ title: Shape.Visible Property (Excel)
 keywords: vbaxl10.chm636114
 f1_keywords:
 - vbaxl10.chm636114
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.Visible
 ms.assetid: d84b0e36-7ce1-d34a-45d6-8ab9895cf617

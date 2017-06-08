@@ -3,7 +3,7 @@ title: Axis.BaseUnit Property (Excel)
 keywords: vbaxl10.chm561104
 f1_keywords:
 - vbaxl10.chm561104
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Axis.BaseUnit
 ms.assetid: f6fead0e-fc3f-834c-9a80-ae836b4f97d1

@@ -3,7 +3,7 @@ title: AxisTitle.Position Property (Excel)
 keywords: vbaxl10.chm565090
 f1_keywords:
 - vbaxl10.chm565090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Position
 ms.assetid: a23d98ea-2ced-ea07-a995-bb5bd34fbccd

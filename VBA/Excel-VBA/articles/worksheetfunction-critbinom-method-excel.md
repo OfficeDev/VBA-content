@@ -3,7 +3,7 @@ title: WorksheetFunction.CritBinom Method (Excel)
 keywords: vbaxl10.chm137182
 f1_keywords:
 - vbaxl10.chm137182
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CritBinom
 ms.assetid: df9bb77f-b3b5-3e2b-d0b1-f42aabe9c14a

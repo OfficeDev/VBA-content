@@ -3,7 +3,7 @@ title: WorksheetFunction.OddFYield Method (Excel)
 keywords: vbaxl10.chm137339
 f1_keywords:
 - vbaxl10.chm137339
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.OddFYield
 ms.assetid: 286f2634-ae11-5443-d8a7-1e52a71b52bf

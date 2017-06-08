@@ -1,6 +1,6 @@
 ---
 title: XlCategoryLabelLevel Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 06c766ab-57d8-a11f-f8be-4c9a582f8889
 ms.date: 06/08/2017
 ---

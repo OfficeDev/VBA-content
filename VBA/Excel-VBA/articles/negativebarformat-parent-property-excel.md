@@ -3,7 +3,7 @@ title: NegativeBarFormat.Parent Property (Excel)
 keywords: vbaxl10.chm886075
 f1_keywords:
 - vbaxl10.chm886075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat.Parent
 ms.assetid: ef03c59d-0ee2-37e3-37c0-c48f44539e21

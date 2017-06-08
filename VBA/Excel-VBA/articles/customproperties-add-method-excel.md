@@ -3,7 +3,7 @@ title: CustomProperties.Add Method (Excel)
 keywords: vbaxl10.chm680073
 f1_keywords:
 - vbaxl10.chm680073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CustomProperties.Add
 ms.assetid: 11165b03-e459-51c4-505f-67260ab8aaf9

@@ -3,7 +3,7 @@ title: SparklineGroup.ModifyDateRange Method (Excel)
 keywords: vbaxl10.chm871082
 f1_keywords:
 - vbaxl10.chm871082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparklineGroup.ModifyDateRange
 ms.assetid: 2de21c82-64b6-6095-0c47-cd20354d9739

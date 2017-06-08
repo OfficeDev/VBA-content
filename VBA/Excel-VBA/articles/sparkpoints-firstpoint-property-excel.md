@@ -3,7 +3,7 @@ title: SparkPoints.Firstpoint Property (Excel)
 keywords: vbaxl10.chm873077
 f1_keywords:
 - vbaxl10.chm873077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SparkPoints.Firstpoint
 ms.assetid: 517175d0-93db-bd74-7684-4b196dd34d91

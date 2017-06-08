@@ -3,7 +3,7 @@ title: TimelineState Object (Excel)
 keywords: vbaxl10.chm949072
 f1_keywords:
 - vbaxl10.chm949072
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: bb92fe09-3cce-8e10-3795-2b9089c27801
 ms.date: 06/08/2017
 ---

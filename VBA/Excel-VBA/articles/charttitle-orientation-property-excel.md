@@ -3,7 +3,7 @@ title: ChartTitle.Orientation Property (Excel)
 keywords: vbaxl10.chm563085
 f1_keywords:
 - vbaxl10.chm563085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ChartTitle.Orientation
 ms.assetid: e5cbc985-0afc-8e07-35ac-7dad72e5e380

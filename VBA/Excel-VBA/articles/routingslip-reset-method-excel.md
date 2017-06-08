@@ -3,7 +3,7 @@ title: RoutingSlip.Reset Method (Excel)
 keywords: vbaxl10.chm453076
 f1_keywords:
 - vbaxl10.chm453076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RoutingSlip.Reset
 ms.assetid: 904f64ba-2828-3940-acc0-324845bb055d

@@ -3,7 +3,7 @@ title: Series.MarkerBackgroundColor Property (Excel)
 keywords: vbaxl10.chm578093
 f1_keywords:
 - vbaxl10.chm578093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.MarkerBackgroundColor
 ms.assetid: a7149fae-47a7-b24d-c177-28afde2ab29d

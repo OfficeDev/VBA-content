@@ -3,7 +3,7 @@ title: WorksheetFunction.Bitlshift Method (Excel)
 keywords: vbaxl10.chm137438
 f1_keywords:
 - vbaxl10.chm137438
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: d004e1f3-3d25-18a5-c744-9b57591aae64
 ms.date: 06/08/2017
 ---

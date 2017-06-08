@@ -3,7 +3,7 @@ title: ShapeNodes Object (Excel)
 keywords: vbaxl10.chm112000
 f1_keywords:
 - vbaxl10.chm112000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShapeNodes
 ms.assetid: 663721f1-8bd0-dd21-2362-fea2da3988bf

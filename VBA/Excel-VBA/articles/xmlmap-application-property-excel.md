@@ -3,7 +3,7 @@ title: XmlMap.Application Property (Excel)
 keywords: vbaxl10.chm753073
 f1_keywords:
 - vbaxl10.chm753073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.Application
 ms.assetid: b0601b57-e301-17b9-2574-34122fed4b8b

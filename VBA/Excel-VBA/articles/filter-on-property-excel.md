@@ -3,7 +3,7 @@ title: Filter.On Property (Excel)
 keywords: vbaxl10.chm542073
 f1_keywords:
 - vbaxl10.chm542073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Filter.On
 ms.assetid: 3e325750-2fdc-631f-e116-90769958366c

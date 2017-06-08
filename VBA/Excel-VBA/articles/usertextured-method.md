@@ -3,7 +3,7 @@ title: UserTextured Method
 keywords: vbagr10.chm5208113
 f1_keywords:
 - vbagr10.chm5208113
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UserTextured
 ms.assetid: 063b74ef-8b82-3a59-457c-9240395a6eb2

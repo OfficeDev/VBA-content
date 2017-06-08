@@ -3,7 +3,7 @@ title: PivotCaches.Parent Property (Excel)
 keywords: vbaxl10.chm228075
 f1_keywords:
 - vbaxl10.chm228075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCaches.Parent
 ms.assetid: 10c84d33-c9db-db4f-086e-e37e5cfb8479

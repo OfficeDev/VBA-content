@@ -3,7 +3,7 @@ title: Errors.Creator Property (Excel)
 keywords: vbaxl10.chm699074
 f1_keywords:
 - vbaxl10.chm699074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Errors.Creator
 ms.assetid: 0bd8ce78-0ab3-f046-2497-7a537ca9d50c

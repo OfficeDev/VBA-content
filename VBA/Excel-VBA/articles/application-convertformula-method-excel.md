@@ -3,7 +3,7 @@ title: Application.ConvertFormula Method (Excel)
 keywords: vbaxl10.chm133097
 f1_keywords:
 - vbaxl10.chm133097
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ConvertFormula
 ms.assetid: 6ed0a76c-9db5-f6ab-a91d-d4e1b6674c53

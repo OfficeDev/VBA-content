@@ -3,7 +3,7 @@ title: Workbook.AddToFavorites Method (Excel)
 keywords: vbaxl10.chm199183
 f1_keywords:
 - vbaxl10.chm199183
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.AddToFavorites
 ms.assetid: 14e1cd5a-41be-fc9a-61fa-df87698110e8

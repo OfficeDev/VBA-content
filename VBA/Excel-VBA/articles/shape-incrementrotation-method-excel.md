@@ -3,7 +3,7 @@ title: Shape.IncrementRotation Method (Excel)
 keywords: vbaxl10.chm636079
 f1_keywords:
 - vbaxl10.chm636079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.IncrementRotation
 ms.assetid: 3b9f1ae0-da53-b0e7-6569-dc3cd4595b12

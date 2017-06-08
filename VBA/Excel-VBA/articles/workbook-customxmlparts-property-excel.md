@@ -3,7 +3,7 @@ title: Workbook.CustomXMLParts Property (Excel)
 keywords: vbaxl10.chm199251
 f1_keywords:
 - vbaxl10.chm199251
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.CustomXMLParts
 ms.assetid: bd31f001-0e5d-691b-e69e-4cb91a6dbb0e

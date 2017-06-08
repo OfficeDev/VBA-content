@@ -3,7 +3,7 @@ title: Application.UserName Property (Excel)
 keywords: vbaxl10.chm133225
 f1_keywords:
 - vbaxl10.chm133225
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.UserName
 ms.assetid: 6cb2636c-ef3c-82fb-583d-8390cc815631

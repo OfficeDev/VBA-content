@@ -3,7 +3,7 @@ title: LineFormat Object (Excel)
 keywords: vbaxl10.chm110000
 f1_keywords:
 - vbaxl10.chm110000
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineFormat
 ms.assetid: 13eca34b-adf7-ddd3-8c73-cc8b508c624a

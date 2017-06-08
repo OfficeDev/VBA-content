@@ -1,6 +1,6 @@
 ---
 title: XlTickLabelPosition Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlTickLabelPosition
 ms.assetid: 6c41a87f-5c2b-d437-a742-03a12eb3d7f2

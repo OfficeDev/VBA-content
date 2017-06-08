@@ -3,7 +3,7 @@ title: Shape.ConnectorFormat Property (Excel)
 keywords: vbaxl10.chm636095
 f1_keywords:
 - vbaxl10.chm636095
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.ConnectorFormat
 ms.assetid: 4c000a5c-eed2-e93c-e801-999c96750c9e

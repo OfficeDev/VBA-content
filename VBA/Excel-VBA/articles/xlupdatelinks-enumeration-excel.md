@@ -1,6 +1,6 @@
 ---
 title: XlUpdateLinks Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlUpdateLinks
 ms.assetid: 8ddd9876-7c24-09dd-5b89-33804adc2097

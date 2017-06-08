@@ -3,7 +3,7 @@ title: Range.Show Method (Excel)
 keywords: vbaxl10.chm144194
 f1_keywords:
 - vbaxl10.chm144194
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Show
 ms.assetid: c04cbae7-c424-befd-df73-e92bbe9e2e41

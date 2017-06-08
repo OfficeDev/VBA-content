@@ -3,7 +3,7 @@ title: Phonetic.Font Property (Excel)
 keywords: vbaxl10.chm628076
 f1_keywords:
 - vbaxl10.chm628076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetic.Font
 ms.assetid: 37bc2d18-fd3d-ec0f-b8b9-be0a849b9afc

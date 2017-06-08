@@ -1,6 +1,6 @@
 ---
 title: ThreeDFormat.BevelBottomType Property (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelBottomType
 ms.assetid: 606feaa0-6851-6872-c0f6-681eb064c616

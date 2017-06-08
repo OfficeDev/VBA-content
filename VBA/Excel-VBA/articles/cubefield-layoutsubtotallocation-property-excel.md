@@ -3,7 +3,7 @@ title: CubeField.LayoutSubtotalLocation Property (Excel)
 keywords: vbaxl10.chm668091
 f1_keywords:
 - vbaxl10.chm668091
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.LayoutSubtotalLocation
 ms.assetid: b4388c3a-d9e1-47b8-9a4c-f94b29712ff1

@@ -3,7 +3,7 @@ title: AutoCorrect.DeleteReplacement Method (Excel)
 keywords: vbaxl10.chm545075
 f1_keywords:
 - vbaxl10.chm545075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AutoCorrect.DeleteReplacement
 ms.assetid: 765e207d-64b3-c85d-ae10-937eaf836e0a

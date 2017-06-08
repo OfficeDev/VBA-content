@@ -3,7 +3,7 @@ title: Application.EnableAnimations Property (Excel)
 keywords: vbaxl10.chm133080
 f1_keywords:
 - vbaxl10.chm133080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.EnableAnimations
 ms.assetid: fb49fb3c-a842-73ab-1819-054f7403c85e

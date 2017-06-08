@@ -3,7 +3,7 @@ title: PivotLayout.Parent Property (Excel)
 keywords: vbaxl10.chm663075
 f1_keywords:
 - vbaxl10.chm663075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLayout.Parent
 ms.assetid: 840a56bf-5256-619b-158d-1259730fbc8a

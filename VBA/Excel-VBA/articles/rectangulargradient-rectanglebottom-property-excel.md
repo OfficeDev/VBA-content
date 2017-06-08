@@ -3,7 +3,7 @@ title: RectangularGradient.RectangleBottom Property (Excel)
 keywords: vbaxl10.chm857075
 f1_keywords:
 - vbaxl10.chm857075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.RectangularGradient.RectangleBottom
 ms.assetid: f721689b-1d5f-85ac-e4e0-be802a828565

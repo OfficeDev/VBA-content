@@ -3,7 +3,7 @@ title: WorksheetFunction.Gcd Method (Excel)
 keywords: vbaxl10.chm137349
 f1_keywords:
 - vbaxl10.chm137349
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Gcd
 ms.assetid: 243cc3ae-d35d-66a1-2db5-d5542dec548e

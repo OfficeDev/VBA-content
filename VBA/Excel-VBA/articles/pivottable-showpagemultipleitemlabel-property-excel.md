@@ -3,7 +3,7 @@ title: PivotTable.ShowPageMultipleItemLabel Property (Excel)
 keywords: vbaxl10.chm235150
 f1_keywords:
 - vbaxl10.chm235150
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowPageMultipleItemLabel
 ms.assetid: 2f816331-4017-a208-d1b2-fea219d2ca71

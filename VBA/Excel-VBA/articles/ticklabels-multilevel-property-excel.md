@@ -3,7 +3,7 @@ title: TickLabels.MultiLevel Property (Excel)
 keywords: vbaxl10.chm616087
 f1_keywords:
 - vbaxl10.chm616087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.TickLabels.MultiLevel
 ms.assetid: f9f9d2bd-f3d0-e3a7-1630-f78e8b5777dc

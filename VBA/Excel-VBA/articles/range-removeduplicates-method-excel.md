@@ -3,7 +3,7 @@ title: Range.RemoveDuplicates Method (Excel)
 keywords: vbaxl10.chm144243
 f1_keywords:
 - vbaxl10.chm144243
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.RemoveDuplicates
 ms.assetid: 0e74bde2-08b3-898d-0b30-53de911bd7e9

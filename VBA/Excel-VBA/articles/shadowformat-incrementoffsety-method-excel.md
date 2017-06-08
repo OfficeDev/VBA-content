@@ -3,7 +3,7 @@ title: ShadowFormat.IncrementOffsetY Method (Excel)
 keywords: vbaxl10.chm114021
 f1_keywords:
 - vbaxl10.chm114021
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ShadowFormat.IncrementOffsetY
 ms.assetid: 0479d9a1-aae1-069c-f692-276291ec54ef

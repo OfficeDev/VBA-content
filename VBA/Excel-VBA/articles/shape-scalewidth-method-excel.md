@@ -3,7 +3,7 @@ title: Shape.ScaleWidth Method (Excel)
 keywords: vbaxl10.chm636084
 f1_keywords:
 - vbaxl10.chm636084
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Shape.ScaleWidth
 ms.assetid: e96bdabb-b633-28de-5ceb-75edb8c5dcfb

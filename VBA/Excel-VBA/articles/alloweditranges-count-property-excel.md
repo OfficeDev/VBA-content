@@ -3,7 +3,7 @@ title: AllowEditRanges.Count Property (Excel)
 keywords: vbaxl10.chm724073
 f1_keywords:
 - vbaxl10.chm724073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AllowEditRanges.Count
 ms.assetid: cf834d9b-7b03-087e-c19f-ba5892505eba

@@ -3,7 +3,7 @@ title: ListColumn.Range Property (Excel)
 keywords: vbaxl10.chm738078
 f1_keywords:
 - vbaxl10.chm738078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListColumn.Range
 ms.assetid: aed17e46-e337-c8a6-265c-725859f33fd1

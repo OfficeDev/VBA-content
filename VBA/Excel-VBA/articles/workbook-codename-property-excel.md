@@ -3,7 +3,7 @@ title: Workbook.CodeName Property (Excel)
 keywords: vbaxl10.chm199086
 f1_keywords:
 - vbaxl10.chm199086
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.CodeName
 ms.assetid: 236e97b8-2bb9-c3a9-b4da-b1c327acde95

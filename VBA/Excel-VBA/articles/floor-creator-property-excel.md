@@ -3,7 +3,7 @@ title: Floor.Creator Property (Excel)
 keywords: vbaxl10.chm611074
 f1_keywords:
 - vbaxl10.chm611074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Floor.Creator
 ms.assetid: 04cfbb36-51f5-a1d1-0f22-a1ecf9be682e

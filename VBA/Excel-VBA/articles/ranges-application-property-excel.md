@@ -3,7 +3,7 @@ title: Ranges.Application Property (Excel)
 keywords: vbaxl10.chm827073
 f1_keywords:
 - vbaxl10.chm827073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Ranges.Application
 ms.assetid: b1a789e9-8a87-edca-0ec6-16ab26bd9085

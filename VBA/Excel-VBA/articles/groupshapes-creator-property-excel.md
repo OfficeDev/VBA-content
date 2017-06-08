@@ -3,7 +3,7 @@ title: GroupShapes.Creator Property (Excel)
 keywords: vbaxl10.chm641074
 f1_keywords:
 - vbaxl10.chm641074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.GroupShapes.Creator
 ms.assetid: b93ba7af-2a53-591e-18b5-3eb645a96f7a

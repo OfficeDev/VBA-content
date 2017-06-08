@@ -3,7 +3,7 @@ title: PivotTable.Location Property (Excel)
 keywords: vbaxl10.chm235185
 f1_keywords:
 - vbaxl10.chm235185
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.Location
 ms.assetid: 53d90d66-cf29-299d-eb71-dcc0169051eb

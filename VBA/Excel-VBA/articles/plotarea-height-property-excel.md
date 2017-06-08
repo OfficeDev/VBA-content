@@ -3,7 +3,7 @@ title: PlotArea.Height Property (Excel)
 keywords: vbaxl10.chm618078
 f1_keywords:
 - vbaxl10.chm618078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PlotArea.Height
 ms.assetid: 511695f8-ad8e-cc6c-f2a6-0a6969ab6778

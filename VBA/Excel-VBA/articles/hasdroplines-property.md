@@ -3,7 +3,7 @@ title: HasDropLines Property
 keywords: vbagr10.chm5207474
 f1_keywords:
 - vbagr10.chm5207474
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.HasDropLines
 ms.assetid: 31f00864-86bc-9237-bf93-b52ab8cd1b59

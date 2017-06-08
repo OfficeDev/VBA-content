@@ -3,7 +3,7 @@ title: DisplayFormat.AddIndent Property (Excel)
 keywords: vbaxl10.chm893077
 f1_keywords:
 - vbaxl10.chm893077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DisplayFormat.AddIndent
 ms.assetid: 65574daf-b102-341b-9bac-43cf72c3b94c

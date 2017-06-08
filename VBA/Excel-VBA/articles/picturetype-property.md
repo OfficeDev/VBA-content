@@ -3,7 +3,7 @@ title: PictureType Property
 keywords: vbagr10.chm3077574
 f1_keywords:
 - vbagr10.chm3077574
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PictureType
 ms.assetid: 8d331b09-745e-863d-a32c-77a9f1448b85

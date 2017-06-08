@@ -3,7 +3,7 @@ title: Outline.AutomaticStyles Property (Excel)
 keywords: vbaxl10.chm455073
 f1_keywords:
 - vbaxl10.chm455073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Outline.AutomaticStyles
 ms.assetid: a40c5ba0-c754-eadc-8951-415de976bc00

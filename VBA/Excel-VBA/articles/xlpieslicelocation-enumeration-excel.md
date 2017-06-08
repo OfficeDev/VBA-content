@@ -1,6 +1,6 @@
 ---
 title: XlPieSliceLocation Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlPieSliceLocation
 ms.assetid: d0a2df51-6ab1-8f33-9cdb-29fddc98c058

@@ -3,7 +3,7 @@ title: ControlFormat.LargeChange Property (Excel)
 keywords: vbaxl10.chm630078
 f1_keywords:
 - vbaxl10.chm630078
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.LargeChange
 ms.assetid: 2e47bd4f-59dc-d620-14f0-e4ecdfb4eb78

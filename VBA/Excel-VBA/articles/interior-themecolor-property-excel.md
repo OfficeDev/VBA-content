@@ -3,7 +3,7 @@ title: Interior.ThemeColor Property (Excel)
 keywords: vbaxl10.chm551079
 f1_keywords:
 - vbaxl10.chm551079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Interior.ThemeColor
 ms.assetid: 52c0f8a9-2cfb-1fb9-4949-dcc031ac78d8

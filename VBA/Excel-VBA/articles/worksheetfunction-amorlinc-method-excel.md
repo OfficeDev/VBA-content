@@ -3,7 +3,7 @@ title: WorksheetFunction.AmorLinc Method (Excel)
 keywords: vbaxl10.chm137343
 f1_keywords:
 - vbaxl10.chm137343
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AmorLinc
 ms.assetid: 9daa4b32-2364-fcfc-13e8-c3e7689700d4

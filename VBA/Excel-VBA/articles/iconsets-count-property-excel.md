@@ -3,7 +3,7 @@ title: IconSets.Count Property (Excel)
 keywords: vbaxl10.chm820073
 f1_keywords:
 - vbaxl10.chm820073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.IconSets.Count
 ms.assetid: 33e0e6d6-ce72-bc09-a4ff-1097956f0532

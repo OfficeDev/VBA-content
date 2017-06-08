@@ -3,7 +3,7 @@ title: AddIn.Installed Property (Excel)
 keywords: vbaxl10.chm185076
 f1_keywords:
 - vbaxl10.chm185076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AddIn.Installed
 ms.assetid: f8e6e45a-9f6c-2156-dd6f-d3f8e221c282

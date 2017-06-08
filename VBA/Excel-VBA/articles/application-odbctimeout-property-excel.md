@@ -3,7 +3,7 @@ title: Application.ODBCTimeout Property (Excel)
 keywords: vbaxl10.chm133175
 f1_keywords:
 - vbaxl10.chm133175
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ODBCTimeout
 ms.assetid: 92262209-6a0f-f58f-e2d7-2f502f6bd397

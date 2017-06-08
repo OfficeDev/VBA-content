@@ -3,7 +3,7 @@ title: Application.GetPhonetic Method (Excel)
 keywords: vbaxl10.chm133245
 f1_keywords:
 - vbaxl10.chm133245
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.GetPhonetic
 ms.assetid: 530be07e-04ed-81c5-3b12-93b78e494a3b

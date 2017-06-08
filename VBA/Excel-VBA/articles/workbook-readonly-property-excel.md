@@ -3,7 +3,7 @@ title: Workbook.ReadOnly Property (Excel)
 keywords: vbaxl10.chm199133
 f1_keywords:
 - vbaxl10.chm199133
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.ReadOnly
 ms.assetid: f3c0ec74-63af-ed76-f854-ce2382b9fcf3

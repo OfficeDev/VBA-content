@@ -3,7 +3,7 @@ title: WorksheetFunction.Asinh Method (Excel)
 keywords: vbaxl10.chm137167
 f1_keywords:
 - vbaxl10.chm137167
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Asinh
 ms.assetid: cd10bb5e-8f4f-c619-8e70-bb437a6cd86d

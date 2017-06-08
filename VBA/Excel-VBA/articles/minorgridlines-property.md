@@ -3,7 +3,7 @@ title: MinorGridlines Property
 keywords: vbagr10.chm5207695
 f1_keywords:
 - vbagr10.chm5207695
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MinorGridlines
 ms.assetid: 80ca57a1-7e8f-4d83-0da6-2a28399c27af

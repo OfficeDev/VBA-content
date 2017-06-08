@@ -3,7 +3,7 @@ title: Workbook.autoSaveOn Property (Excel)
 keywords: vbaxl10.chm199287
 f1_keywords:
 - vbaxl10.chm199287
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Workbook.autoSaveOn
 ms.assetid: workbook-autosaveon-property-excel

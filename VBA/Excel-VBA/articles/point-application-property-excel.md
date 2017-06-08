@@ -3,7 +3,7 @@ title: Point.Application Property (Excel)
 keywords: vbaxl10.chm575073
 f1_keywords:
 - vbaxl10.chm575073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Application
 ms.assetid: 66d3f58a-59c8-0556-eb38-72a87492b4e5

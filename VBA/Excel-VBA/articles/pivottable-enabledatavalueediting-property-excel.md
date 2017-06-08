@@ -3,7 +3,7 @@ title: PivotTable.EnableDataValueEditing Property (Excel)
 keywords: vbaxl10.chm235141
 f1_keywords:
 - vbaxl10.chm235141
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.EnableDataValueEditing
 ms.assetid: 57b4ed51-46d5-0d9f-d947-cdc45e523095

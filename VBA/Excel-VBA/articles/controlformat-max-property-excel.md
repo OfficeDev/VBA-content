@@ -3,7 +3,7 @@ title: ControlFormat.Max Property (Excel)
 keywords: vbaxl10.chm630085
 f1_keywords:
 - vbaxl10.chm630085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.Max
 ms.assetid: 35ed65e1-94d7-c147-2535-d41c503bb19b

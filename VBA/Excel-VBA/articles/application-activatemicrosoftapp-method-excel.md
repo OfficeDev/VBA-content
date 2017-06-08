@@ -3,7 +3,7 @@ title: Application.ActivateMicrosoftApp Method (Excel)
 keywords: vbaxl10.chm133074
 f1_keywords:
 - vbaxl10.chm133074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.ActivateMicrosoftApp
 ms.assetid: e11d8165-5aad-2b1d-f9d1-797038d96afb

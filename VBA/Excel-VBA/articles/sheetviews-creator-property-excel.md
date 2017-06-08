@@ -3,7 +3,7 @@ title: SheetViews.Creator Property (Excel)
 keywords: vbaxl10.chm791074
 f1_keywords:
 - vbaxl10.chm791074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.SheetViews.Creator
 ms.assetid: 21ab3bb7-6269-db13-d81d-eda3861aa846

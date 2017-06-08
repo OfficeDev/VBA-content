@@ -3,7 +3,7 @@ title: Worksheet.Comments Property (Excel)
 keywords: vbaxl10.chm175139
 f1_keywords:
 - vbaxl10.chm175139
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Comments
 ms.assetid: c2ad8ea7-0fa3-7cde-e3f2-49bbdb81d261

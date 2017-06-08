@@ -3,7 +3,7 @@ title: Comments.Application Property (Excel)
 keywords: vbaxl10.chm513073
 f1_keywords:
 - vbaxl10.chm513073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Comments.Application
 ms.assetid: 29fe9ed7-7fd5-acf1-de6a-69a7e3b0809b

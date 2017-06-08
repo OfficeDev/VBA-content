@@ -3,7 +3,7 @@ title: ErrorBars.Delete Method (Excel)
 keywords: vbaxl10.chm624077
 f1_keywords:
 - vbaxl10.chm624077
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorBars.Delete
 ms.assetid: 30764496-1311-da45-5d1d-6efe243dcd73

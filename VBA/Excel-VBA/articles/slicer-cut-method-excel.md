@@ -3,7 +3,7 @@ title: Slicer.Cut Method (Excel)
 keywords: vbaxl10.chm905090
 f1_keywords:
 - vbaxl10.chm905090
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.Cut
 ms.assetid: a8778661-612f-0031-78b0-d59bb87fdf62

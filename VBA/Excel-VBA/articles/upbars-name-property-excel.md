@@ -3,7 +3,7 @@ title: UpBars.Name Property (Excel)
 keywords: vbaxl10.chm608074
 f1_keywords:
 - vbaxl10.chm608074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.UpBars.Name
 ms.assetid: c6012be8-a9e3-dd5e-a86e-f5155fb42553

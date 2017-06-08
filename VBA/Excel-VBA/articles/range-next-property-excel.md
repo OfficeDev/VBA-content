@@ -3,7 +3,7 @@ title: Range.Next Property (Excel)
 keywords: vbaxl10.chm144165
 f1_keywords:
 - vbaxl10.chm144165
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Range.Next
 ms.assetid: 10712827-9abd-6b8a-49e5-65e3554fcd87

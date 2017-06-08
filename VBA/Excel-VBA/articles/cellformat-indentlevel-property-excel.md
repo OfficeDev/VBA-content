@@ -3,7 +3,7 @@ title: CellFormat.IndentLevel Property (Excel)
 keywords: vbaxl10.chm676079
 f1_keywords:
 - vbaxl10.chm676079
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CellFormat.IndentLevel
 ms.assetid: aed70912-9aca-2a9b-f497-a5053e8e92ae

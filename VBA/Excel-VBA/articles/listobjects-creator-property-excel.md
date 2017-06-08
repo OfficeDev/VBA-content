@@ -3,7 +3,7 @@ title: ListObjects.Creator Property (Excel)
 keywords: vbaxl10.chm731074
 f1_keywords:
 - vbaxl10.chm731074
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ListObjects.Creator
 ms.assetid: 6baa548b-04a6-e0eb-d45f-8d3f24848c3b

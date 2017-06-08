@@ -3,7 +3,7 @@ title: LineGroups Method
 keywords: vbagr10.chm3077623
 f1_keywords:
 - vbagr10.chm3077623
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LineGroups
 ms.assetid: 3a8083b5-8b71-e28b-c775-6be50544d6b2

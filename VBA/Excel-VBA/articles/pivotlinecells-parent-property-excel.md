@@ -3,7 +3,7 @@ title: PivotLineCells.Parent Property (Excel)
 keywords: vbaxl10.chm761075
 f1_keywords:
 - vbaxl10.chm761075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotLineCells.Parent
 ms.assetid: a7a710b8-c80b-33fe-4bb1-fca15adbbb1a

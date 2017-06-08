@@ -3,7 +3,7 @@ title: PivotTable.RowFields Property (Excel)
 keywords: vbaxl10.chm235093
 f1_keywords:
 - vbaxl10.chm235093
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.RowFields
 ms.assetid: 3976d5ec-b248-55f5-659d-2671af3f3bfd

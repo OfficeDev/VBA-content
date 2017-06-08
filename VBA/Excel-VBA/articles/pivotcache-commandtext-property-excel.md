@@ -3,7 +3,7 @@ title: PivotCache.CommandText Property (Excel)
 keywords: vbaxl10.chm227087
 f1_keywords:
 - vbaxl10.chm227087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCache.CommandText
 ms.assetid: 07921bda-74fe-2a41-15f7-16068ce49a31

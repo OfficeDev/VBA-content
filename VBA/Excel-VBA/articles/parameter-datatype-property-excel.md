@@ -3,7 +3,7 @@ title: Parameter.DataType Property (Excel)
 keywords: vbaxl10.chm523073
 f1_keywords:
 - vbaxl10.chm523073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Parameter.DataType
 ms.assetid: c5f6fe14-9c4c-16ae-0fdb-28142ed5327c

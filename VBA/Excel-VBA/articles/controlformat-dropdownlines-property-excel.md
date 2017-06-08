@@ -3,7 +3,7 @@ title: ControlFormat.DropDownLines Property (Excel)
 keywords: vbaxl10.chm630076
 f1_keywords:
 - vbaxl10.chm630076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ControlFormat.DropDownLines
 ms.assetid: e2e12163-c247-6518-2d2f-701d27266a1c

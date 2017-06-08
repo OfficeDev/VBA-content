@@ -3,7 +3,7 @@ title: Pane.Application Property (Excel)
 keywords: vbaxl10.chm359073
 f1_keywords:
 - vbaxl10.chm359073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Pane.Application
 ms.assetid: ec2d6535-1160-6196-25e9-7a4dafa376da

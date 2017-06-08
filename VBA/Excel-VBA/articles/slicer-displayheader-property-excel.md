@@ -3,7 +3,7 @@ title: Slicer.DisplayHeader Property (Excel)
 keywords: vbaxl10.chm905083
 f1_keywords:
 - vbaxl10.chm905083
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Slicer.DisplayHeader
 ms.assetid: e94dcb16-367c-24fe-359d-786900650f97

@@ -3,7 +3,7 @@ title: ErrorCheckingOptions.ListDataValidation Property (Excel)
 keywords: vbaxl10.chm698082
 f1_keywords:
 - vbaxl10.chm698082
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.ListDataValidation
 ms.assetid: 9b044055-d957-46dc-b307-73d5a556cb7f

@@ -1,6 +1,6 @@
 ---
 title: XlFormatFilterTypes Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlFormatFilterTypes
 ms.assetid: 428d568e-1fe1-bd88-acd6-1bc2c959d35b

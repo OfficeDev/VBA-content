@@ -3,7 +3,7 @@ title: CubeField.LayoutForm Property (Excel)
 keywords: vbaxl10.chm668087
 f1_keywords:
 - vbaxl10.chm668087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.CubeField.LayoutForm
 ms.assetid: a9077651-214f-6926-89fc-c29a1ff35682

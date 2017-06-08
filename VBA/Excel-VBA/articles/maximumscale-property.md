@@ -3,7 +3,7 @@ title: MaximumScale Property
 keywords: vbagr10.chm5207676
 f1_keywords:
 - vbagr10.chm5207676
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.MaximumScale
 ms.assetid: 1fd6633e-7782-78d0-ba24-9c3d46f85471

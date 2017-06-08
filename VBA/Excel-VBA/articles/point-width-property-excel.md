@@ -3,7 +3,7 @@ title: Point.Width Property (Excel)
 keywords: vbaxl10.chm576105
 f1_keywords:
 - vbaxl10.chm576105
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point.Width
 ms.assetid: 1b353268-5cb7-0d30-1080-80261d0a28bb

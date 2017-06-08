@@ -3,7 +3,7 @@ title: Application.GetSaveAsFilename Method (Excel)
 keywords: vbaxl10.chm133143
 f1_keywords:
 - vbaxl10.chm133143
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Application.GetSaveAsFilename
 ms.assetid: 2ad52070-22d7-a755-9267-daaa5edbbb0d

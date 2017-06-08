@@ -3,7 +3,7 @@ title: OLEObject.LinkedCell Property (Excel)
 keywords: vbaxl10.chm417081
 f1_keywords:
 - vbaxl10.chm417081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.LinkedCell
 ms.assetid: 6f45dffd-5d16-de5a-ec7c-7fd45f1116f0

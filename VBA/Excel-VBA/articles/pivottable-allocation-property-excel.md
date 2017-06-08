@@ -3,7 +3,7 @@ title: PivotTable.Allocation Property (Excel)
 keywords: vbaxl10.chm235187
 f1_keywords:
 - vbaxl10.chm235187
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.Allocation
 ms.assetid: ac7bd537-97f0-f643-3e34-dd13e49ac149

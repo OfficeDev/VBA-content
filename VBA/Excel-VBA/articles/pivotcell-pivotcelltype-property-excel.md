@@ -3,7 +3,7 @@ title: PivotCell.PivotCellType Property (Excel)
 keywords: vbaxl10.chm692073
 f1_keywords:
 - vbaxl10.chm692073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotCell.PivotCellType
 ms.assetid: f5462981-924c-4d6c-be99-5b7cea0222a4

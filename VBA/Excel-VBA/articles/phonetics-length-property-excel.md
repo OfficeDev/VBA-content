@@ -3,7 +3,7 @@ title: Phonetics.Length Property (Excel)
 keywords: vbaxl10.chm658075
 f1_keywords:
 - vbaxl10.chm658075
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Phonetics.Length
 ms.assetid: 62f4c46d-2dc3-d8dc-b699-ca74eff1f77f

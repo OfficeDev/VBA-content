@@ -3,7 +3,7 @@ title: Series.Trendlines Method (Excel)
 keywords: vbaxl10.chm578107
 f1_keywords:
 - vbaxl10.chm578107
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Series.Trendlines
 ms.assetid: d42609e1-011c-6cb3-286d-192284cd8ab8

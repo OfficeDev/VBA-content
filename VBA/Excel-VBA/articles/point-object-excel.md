@@ -3,7 +3,7 @@ title: Point Object (Excel)
 keywords: vbaxl10.chm575072
 f1_keywords:
 - vbaxl10.chm575072
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Point
 ms.assetid: 48ed9aec-2d29-ec4d-8e55-fca13982c358

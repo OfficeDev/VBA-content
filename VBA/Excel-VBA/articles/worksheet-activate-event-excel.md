@@ -3,7 +3,7 @@ title: Worksheet.Activate Event (Excel)
 keywords: vbaxl10.chm502076
 f1_keywords:
 - vbaxl10.chm502076
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Activate
 ms.assetid: 4fac262c-ea1a-1d2f-bd02-0537c843198c

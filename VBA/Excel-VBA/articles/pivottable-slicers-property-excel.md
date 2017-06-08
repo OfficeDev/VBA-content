@@ -3,7 +3,7 @@ title: PivotTable.Slicers Property (Excel)
 keywords: vbaxl10.chm235197
 f1_keywords:
 - vbaxl10.chm235197
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PivotTable.Slicers
 ms.assetid: d87bfcf0-8989-e9f4-5bc3-fb7cdf681e86

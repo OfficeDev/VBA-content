@@ -1,6 +1,6 @@
 ---
 title: Highlight the Active Cell, Row, or Column
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 51a30ffb-77f2-4bd7-8eb6-b6781dc55d43
 ms.date: 06/08/2017
 ---

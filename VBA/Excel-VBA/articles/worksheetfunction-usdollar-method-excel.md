@@ -3,7 +3,7 @@ title: WorksheetFunction.USDollar Method (Excel)
 keywords: vbaxl10.chm137153
 f1_keywords:
 - vbaxl10.chm137153
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.USDollar
 ms.assetid: d09c7356-d6c1-0290-5ed8-ed9c3732a21b

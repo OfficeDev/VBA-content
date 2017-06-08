@@ -3,7 +3,7 @@ title: WorksheetFunction.GammaLn Method (Excel)
 keywords: vbaxl10.chm137175
 f1_keywords:
 - vbaxl10.chm137175
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.GammaLn
 ms.assetid: 89dbd9e8-cd88-405d-8f88-351b4dc39f02

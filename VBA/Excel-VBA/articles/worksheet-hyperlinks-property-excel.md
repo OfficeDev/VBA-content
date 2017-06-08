@@ -3,7 +3,7 @@ title: Worksheet.Hyperlinks Property (Excel)
 keywords: vbaxl10.chm175140
 f1_keywords:
 - vbaxl10.chm175140
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Worksheet.Hyperlinks
 ms.assetid: ac2fe50a-23a0-9982-d448-b18a91092624

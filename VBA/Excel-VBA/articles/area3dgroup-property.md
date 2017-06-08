@@ -3,7 +3,7 @@ title: Area3DGroup Property
 keywords: vbagr10.chm65553
 f1_keywords:
 - vbagr10.chm65553
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.Area3DGroup
 ms.assetid: 4274ca69-7a9d-76d9-7a57-814b6246d94f

@@ -3,7 +3,7 @@ title: XmlMap.AppendOnImport Property (Excel)
 keywords: vbaxl10.chm754081
 f1_keywords:
 - vbaxl10.chm754081
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XmlMap.AppendOnImport
 ms.assetid: b00eeaeb-1750-e5a9-85b5-7323ea766ead

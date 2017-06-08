@@ -1,6 +1,6 @@
 ---
 title: XlReferenceType Enumeration (Excel)
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.XlReferenceType
 ms.assetid: a15bf421-985a-c72c-656b-d73689b45819

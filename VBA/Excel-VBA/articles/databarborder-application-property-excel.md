@@ -3,7 +3,7 @@ title: DataBarBorder.Application Property (Excel)
 keywords: vbaxl10.chm884073
 f1_keywords:
 - vbaxl10.chm884073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DataBarBorder.Application
 ms.assetid: aac44b32-cbb0-c14a-ab3a-cb87692db215

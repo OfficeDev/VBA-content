@@ -3,7 +3,7 @@ title: LegendKey Property
 keywords: vbagr10.chm65710
 f1_keywords:
 - vbagr10.chm65710
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.LegendKey
 ms.assetid: 55277508-2a81-c9c0-1f34-4d44c967ae8e

@@ -3,7 +3,7 @@ title: PublishObjects.Add Method (Excel)
 keywords: vbaxl10.chm650073
 f1_keywords:
 - vbaxl10.chm650073
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.PublishObjects.Add
 ms.assetid: 74629499-04d1-11d5-20b8-02b72bb110ee

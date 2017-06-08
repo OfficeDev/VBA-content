@@ -3,7 +3,7 @@ title: OLEObject.Verb Method (Excel)
 keywords: vbaxl10.chm417080
 f1_keywords:
 - vbaxl10.chm417080
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObject.Verb
 ms.assetid: c5714863-641c-1bfd-5688-9267494fb12d

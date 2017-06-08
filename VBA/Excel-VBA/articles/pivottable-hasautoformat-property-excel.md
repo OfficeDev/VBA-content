@@ -2,6 +2,7 @@
 title: PivotTable.HasAutoFormat Property (Excel)
 ms.assetid: dc60e0e8-3e52-431e-8037-7dd0890de7f8
 ms.date: 06/08/2017
+ms.prod: excel
 ---
 
 

@@ -3,7 +3,7 @@ title: OLEObjects.Add Method (Excel)
 keywords: vbaxl10.chm422087
 f1_keywords:
 - vbaxl10.chm422087
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.OLEObjects.Add
 ms.assetid: 2acd369f-6dd6-0e0e-043c-a691796659a9

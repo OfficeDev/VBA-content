@@ -3,7 +3,7 @@ title: AxisTitle.Text Property (Excel)
 keywords: vbaxl10.chm565085
 f1_keywords:
 - vbaxl10.chm565085
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.AxisTitle.Text
 ms.assetid: 1305fae5-afd9-dd8e-f559-f0c6ebff7a3b

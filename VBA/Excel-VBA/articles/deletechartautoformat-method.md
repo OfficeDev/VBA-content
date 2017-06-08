@@ -3,7 +3,7 @@ title: DeleteChartAutoFormat Method
 keywords: vbagr10.chm65753
 f1_keywords:
 - vbagr10.chm65753
-ms.prod: EXCEL
+ms.prod: excel
 api_name:
 - Excel.DeleteChartAutoFormat
 ms.assetid: 22f9c561-b0a1-2c75-391e-25bb54ad67a5

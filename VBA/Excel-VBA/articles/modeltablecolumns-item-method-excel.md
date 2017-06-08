@@ -3,7 +3,7 @@ title: ModelTableColumns.Item Method (Excel)
 keywords: vbaxl10.chm932074
 f1_keywords:
 - vbaxl10.chm932074
-ms.prod: EXCEL
+ms.prod: excel
 ms.assetid: 7ffd2dcd-5eb3-abd3-b1b8-414fb8828e31
 ms.date: 06/08/2017
 ---
